@@ -1,0 +1,46 @@
+#-------------------------------------------------
+# Hugo
+#-------------------------------------------------
+# The static website built by Hugo
+/public/
+/resources/
+
+# Other Hugo artifacts
+hugo.log
+hugo_stats.json
+*.bak
+
+# Lockfiles
+/package-lock.json
+/yarn.lock
+
+#-------------------------------------------------
+# Operating System Files (macOS, Windows, Linux)
+#-------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+#-------------------------------------------------
+# Visual Studio Code Editor
+#-------------------------------------------------
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+#-------------------------------------------------
+# Node.js (If you ever use npm for themes or tools)
+#-------------------------------------------------
+node_modules/
+npm-debug.log
+yarn-error.log
