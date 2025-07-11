@@ -1,0 +1,15 @@
+---
+title: "所有标签"
+layout: "base.njk"
+permalink: "/all-tags/index.html"
+---
+
+<h1>所有标签</h1>
+
+<ul>
+{% for tag in collections.tagList %}
+  <li>
+    <a href="/tags/{{ tag | slug }}/index.html">{{ tag }}</a>
+  </li>
+{% endfor %}
+</ul>

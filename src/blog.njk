@@ -1,0 +1,18 @@
+---
+title: "我的博客"
+layout: "base.njk"
+---
+
+<h1>博客文章</h1>
+
+<ul>
+  {%- for post in collections.posts | reverse -%}
+    <li>
+      <a href="{{ post.url }}">
+        {{ post.data.title }}
+      </a>
+      <br>
+      <time datetime="{{ post.date }}">{{ post.date.toLocaleDateString() }}</time>
+    </li>
+  {%- endfor -%}
+</ul>
