@@ -10,16 +10,8 @@ module.exports = function (eleventyConfig) {
     // 步骤 2: 在所有处理之前，首先调用 .trim() 清除所有前后空格！
     const trimmedStr = str.trim();
 
-    // 步骤 3: 使用清理过的 trimmedStr 进行 slugify
-    let sluggedValue = slugify(trimmedStr, {
-      lowercase: true,
-      remove: /[*+~.()'"!:@]/g,
-    });
-
-    // 步骤 4: 如果结果为空，使用清理过的 trimmedStr 进行编码
-    if (sluggedValue === "") {
-      sluggedValue = encodeURIComponent(trimmedStr).toLowerCase();
-    }
+    // 步骤 3: 直接对清理过的 trimmedStr 进行编码
+    let sluggedValue = encodeURIComponent(trimmedStr);
 
     // （可选）你可以保留这个日志来确认输入和输出
     // console.log(
