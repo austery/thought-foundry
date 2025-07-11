@@ -1,18 +1,13 @@
 #-------------------------------------------------
-# Hugo
+# Eleventy
 #-------------------------------------------------
-# The static website built by Hugo
-/public/
-/resources/
+# The static website built by Eleventy
+_site/
 
-# Other Hugo artifacts
-hugo.log
-hugo_stats.json
-*.bak
-
-# Lockfiles
-/package-lock.json
-/yarn.lock
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
 
 #-------------------------------------------------
 # Operating System Files (macOS, Windows, Linux)
@@ -37,10 +32,3 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-
-#-------------------------------------------------
-# Node.js (If you ever use npm for themes or tools)
-#-------------------------------------------------
-node_modules/
-npm-debug.log
-yarn-error.log
