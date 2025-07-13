@@ -8,7 +8,7 @@ layout: "base.njk"
 <ul>
   {%- for post in collections.posts | reverse -%}
     <li>
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | url }}">
         {{ post.data.title }}
       </a>
       <br>

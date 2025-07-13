@@ -9,7 +9,7 @@ permalink: "/all-tags/index.html"
 <ul>
 {% for tag in collections.tagList %}
   <li>
-    <a href="/tags/{{ tag | slug }}/">{{ tag }}</a>
+    <a href="{{ ('/tags/' + (tag | slug) + '/') | url }}">{{ tag }}</a>
   </li>
 {% endfor %}
 </ul>

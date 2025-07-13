@@ -10,19 +10,18 @@
 
   <header class="container">
     <h1>My Awesome Site</h1>
-        <nav>
+      <nav>
         <ul>
-            <li><a href="/">Home</a></li>            
-            <li><a href="/blog/">Blog</a></li>
-            <li><a href="/all-tags/">Tags</a></li>
-            <li><a href="/about/">About</a></li>
+          <li><a href="{{ '/' | url }}">Home</a></li>
+          <li><a href="{{ '/blog/' | url }}">Blog</a></li>
+          <li><a href="{{ '/all-tags/' | url }}">Tags</a></li>
+          <li><a href="{{ '/about/' | url }}">About</a></li>
         </ul>
         <form id="search-form" role="search">
-            <input type="search" id="search-input" placeholder="Search...">
+          <input type="search" id="search-input" placeholder="Search...">
         </form>
-        </nav>
-
-        <div id="search-results"></div>
+      </nav>
+      <div id="search-results"></div>
   </header>
 
   <main class="container">
@@ -32,6 +31,7 @@
   <footer class="container">
     <p>&copy; 2025 Austery</p>
   </footer>
-  <script src="/js/search.js"></script>
+
+  <script src="{{ '/js/search.js' | url }}"></script>
 </body>
 </html>

@@ -12,7 +12,7 @@ permalink: "/tags/{{ tag | slug }}/"
 <ul>
   {%- for post in collections[tag] | reverse -%}
     <li>
-      <a href="{{ post.url }}">
+      <a href="{{ post.url | url }}">
         {{ post.data.title }}
       </a>
     </li>
