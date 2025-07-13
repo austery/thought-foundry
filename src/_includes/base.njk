@@ -17,7 +17,7 @@
           <li><a href="{{ '/all-tags/' | url }}">Tags</a></li>
           <li><a href="{{ '/about/' | url }}">About</a></li>
         </ul>
-        <form id="search-form" role="search">
+        <form id="search-form" role="search" data-search-index="{{ '/search.json' | url }}">
           <input type="search" id="search-input" placeholder="Search...">
         </form>
       </nav>
