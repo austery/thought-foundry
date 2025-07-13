@@ -1,30 +1,29 @@
-const { default: slugify } = require("@sindresorhus/slugify");
-const { pinyin } = require("pinyin");
+// This is now an async function to allow for `await`
+module.exports = async function (eleventyConfig) {
+  // Use dynamic import() to load the ES Modules
+  const { default: slugify } = await import("@sindresorhus/slugify");
+  const { pinyin } = await import("pinyin");
 
-module.exports = function (eleventyConfig) {
   // ----------------------------------------------------------------
-  // 过滤器 (Filters)
+  // Filters
   // ----------------------------------------------------------------
-
-  // 过滤器 1: 自定义的 jsonify，用于安全地创建 JSON
-  eleventyConfig.addFilter("jsonify", function (value) {
-    return JSON.stringify(value);
-  });
-
-  // 过滤器 2: 你创建的、能处理中文的 slug
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) {
       return;
     }
     const trimmedStr = str.trim();
     const pinyinStr = pinyin(trimmedStr, {
-      style: pinyin.STYLE_NORMAL,
+      style: pinyin.STYLE_NORMAL, // Normal style, without tones
     }).join(" ");
     return slugify(pinyinStr);
   });
 
+  eleventyConfig.addFilter("jsonify", function (value) {
+    return JSON.stringify(value);
+  });
+
   // ----------------------------------------------------------------
-  // 集合 (Collections)
+  // Collections
   // ----------------------------------------------------------------
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("./src/posts/**/*.md");
@@ -43,12 +42,12 @@ module.exports = function (eleventyConfig) {
   });
 
   // ----------------------------------------------------------------
-  // Passthrough Copy (文件直通)
+  // Passthrough Copy
   // ----------------------------------------------------------------
   eleventyConfig.addPassthroughCopy("src/js");
 
   // ----------------------------------------------------------------
-  // Eleventy 核心配置
+  // Eleventy Core Config
   // ----------------------------------------------------------------
   return {
     dir: {
