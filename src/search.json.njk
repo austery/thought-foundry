@@ -1,0 +1,14 @@
+---
+permalink: "/search.json"
+eleventyExcludeFromCollections: true
+---
+[
+  {%- for post in collections.posts -%}
+    {
+      "url": "{{ post.url | url }}",
+      "title": {{ post.data.title | jsonify | safe }},
+      "content": {{ post.templateContent | jsonify | safe }}
+    }
+    {%- if not loop.last -%},{%- endif -%}
+  {%- endfor -%}
+]

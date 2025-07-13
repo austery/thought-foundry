@@ -1,8 +1,28 @@
 const { default: slugify } = require("@sindresorhus/slugify");
-// ** 1. 使用正确的“命名导出”语法来引入 pinyin 函数 **
 const { pinyin } = require("pinyin");
 
 module.exports = function (eleventyConfig) {
+  // ----------------------------------------------------------------
+  // 过滤器 (Filters)
+  // ----------------------------------------------------------------
+
+  // 过滤器 1: 自定义的 jsonify，用于安全地创建 JSON
+  eleventyConfig.addFilter("jsonify", function (value) {
+    return JSON.stringify(value);
+  });
+
+  // 过滤器 2: 你创建的、能处理中文的 slug
+  eleventyConfig.addFilter("slug", (str) => {
+    if (!str) {
+      return;
+    }
+    const trimmedStr = str.trim();
+    const pinyinStr = pinyin(trimmedStr, {
+      style: pinyin.STYLE_NORMAL,
+    }).join(" ");
+    return slugify(pinyinStr);
+  });
+
   // ----------------------------------------------------------------
   // 集合 (Collections)
   // ----------------------------------------------------------------
@@ -23,24 +43,9 @@ module.exports = function (eleventyConfig) {
   });
 
   // ----------------------------------------------------------------
-  // 过滤器 (Filters)
+  // Passthrough Copy (文件直通)
   // ----------------------------------------------------------------
-
-  // ** 2. 这里的代码现在可以正常工作了 **
-  eleventyConfig.addFilter("slug", (str) => {
-    if (!str) {
-      return;
-    }
-    const trimmedStr = str.trim();
-
-    // 使用 pinyin 库将中文转为拼音字符串
-    const pinyinStr = pinyin(trimmedStr, {
-      style: pinyin.STYLE_NORMAL, // 普通风格，不带声调
-    }).join(" ");
-
-    // 使用 slugify 处理拼音字符串和英文
-    return slugify(pinyinStr);
-  });
+  eleventyConfig.addPassthroughCopy("src/js");
 
   // ----------------------------------------------------------------
   // Eleventy 核心配置
