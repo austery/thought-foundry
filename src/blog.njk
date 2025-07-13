@@ -13,7 +13,7 @@ permalink: "/"
     我们直接遍历 Eleventy 内置的 collections.all 集合。
     这个集合包含了网站的所有页面和内容。
   #}
-  {%- for item in collections.all | sort(false, true, 'date') -%}
+  {%- for item in collections.all | sort(true, false, 'date') -%}
     {# 
       我们增加一个 if 判断，只显示那些在 posts, books, 或 notes 文件夹里的内容。
       这就把布局文件、标签页等其他所有我们不希望展示的页面都过滤掉了。
