@@ -9,10 +9,10 @@
 
   async function initializeSearch() {
     try {
-      // 从 form 的 data- 属性中获取正确的 search.json 路径
-      const searchIndexPath = searchInput.form.dataset.searchIndex;
+      // 使用全局变量 site_url 来构建正确的路径
+      // 使用 replace 防止出现 "//" 这样的双斜杠
+      const searchIndexPath = (site_url + "search.json").replace("//", "/");
 
-      // 使用这个正确的路径来 fetch 数据
       const response = await fetch(searchIndexPath);
 
       if (!response.ok) {
@@ -51,13 +51,14 @@
           .map(
             (post) => `
           <li>
-            <a href="${post.url}">${post.title}</a>
+            <a href="${site_url}${post.url.substring(1)}">${post.title}</a>
           </li>
         `
           )
           .join("")}
       </ul>
     `;
+    // 注意上面的链接也需要拼接 site_url
     searchResultsContainer.innerHTML = resultsHtml;
   }
 
