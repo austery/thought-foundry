@@ -50,6 +50,10 @@ module.exports = async function (eleventyConfig) {
   // Eleventy Core Config
   // ----------------------------------------------------------------
   return {
+    // 当在生产环境（比如 GitHub Actions）构建时，添加路径前缀
+    // 在本地开发时，前缀为 "/"
+    pathPrefix:
+      process.env.NODE_ENV === "production" ? "/thought-foundry/" : "/",
     dir: {
       input: "src",
       output: "_site",
