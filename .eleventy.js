@@ -1,25 +1,27 @@
-// This is now an async function to allow for `await`
+// Use dynamic import() for ES Modules, so the main function must be async
 module.exports = async function (eleventyConfig) {
-  // Use dynamic import() to load the ES Modules
   const { default: slugify } = await import("@sindresorhus/slugify");
   const { pinyin } = await import("pinyin");
 
   // ----------------------------------------------------------------
   // Filters
   // ----------------------------------------------------------------
+
+  // 1. Custom filter to safely convert data to a JSON string
+  eleventyConfig.addFilter("jsonify", function (value) {
+    return JSON.stringify(value);
+  });
+
+  // 2. Your robust slug filter that handles Chinese characters
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) {
       return;
     }
     const trimmedStr = str.trim();
     const pinyinStr = pinyin(trimmedStr, {
-      style: pinyin.STYLE_NORMAL, // Normal style, without tones
+      style: pinyin.STYLE_NORMAL,
     }).join(" ");
     return slugify(pinyinStr);
-  });
-
-  eleventyConfig.addFilter("jsonify", function (value) {
-    return JSON.stringify(value);
   });
 
   // ----------------------------------------------------------------
@@ -27,6 +29,14 @@ module.exports = async function (eleventyConfig) {
   // ----------------------------------------------------------------
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("./src/posts/**/*.md");
+  });
+
+  eleventyConfig.addCollection("books", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/books/**/*.md");
+  });
+
+  eleventyConfig.addCollection("notes", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/notes/**/*.md");
   });
 
   eleventyConfig.addCollection("tagList", function (collectionApi) {
@@ -45,13 +55,13 @@ module.exports = async function (eleventyConfig) {
   // Passthrough Copy
   // ----------------------------------------------------------------
   eleventyConfig.addPassthroughCopy("src/js");
+  eleventyConfig.addPassthroughCopy("src/css");
 
   // ----------------------------------------------------------------
   // Eleventy Core Config
   // ----------------------------------------------------------------
   return {
-    // 当在生产环境（比如 GitHub Actions）构建时，添加路径前缀
-    // 在本地开发时，前缀为 "/"
+    // Correct pathPrefix for GitHub Pages deployment
     pathPrefix:
       process.env.NODE_ENV === "production" ? "/thought-foundry/" : "/",
     dir: {
@@ -59,7 +69,6 @@ module.exports = async function (eleventyConfig) {
       output: "_site",
       includes: "_includes",
     },
-    markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
+    // We have removed the problematic markdownTemplateEngine and htmlTemplateEngine
   };
 };
