@@ -1,0 +1,29 @@
+/* src/css/components/_tags.css */
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    /* 标签之间的间距 */
+    margin-top: 1rem;
+    padding-left: 0;
+    list-style: none;
+}
+
+.tag-pill {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    /* 用一个很大的值来创建药丸形状 */
+    background-color: #f1f5f9;
+    /* 浅灰色背景 */
+    color: var(--pico-secondary);
+    /* 使用 Pico.css 的次要文字颜色 */
+    font-size: 0.9em;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.tag-pill:hover {
+    background-color: #e2e8f0;
+    /* 鼠标悬停时变深一点 */
+}

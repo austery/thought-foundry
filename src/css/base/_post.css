@@ -1,0 +1,24 @@
+/* === 基础与布局 === */
+.report-container {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    max-width: 1200px;
+    margin: 20px auto 0 auto;
+}
+
+/* === 响应式设计 === */
+@media (max-width: 768px) {
+    .report-container {
+        flex-direction: column;
+    }
+
+    .sidebar-toc {
+        position: static;
+        flex-basis: auto;
+        width: 100%;
+        max-height: none;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+    }
+}

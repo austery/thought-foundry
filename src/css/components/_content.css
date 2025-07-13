@@ -1,0 +1,62 @@
+/* === 主内容区 === */
+.main-content {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.main-content h1 {
+    font-size: 1.8em;
+    margin-bottom: 1em;
+}
+
+.main-content h2 {
+    font-size: 1.4em;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+.main-content h3 {
+    font-size: 1.2em;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+.main-content p {
+    margin-bottom: 1em;
+}
+
+/* 双语内容样式 */
+.main-content .lang-en {
+    font-style: italic;
+    color: #555;
+    font-size: 0.95em;
+}
+
+.main-content .lang-zh {
+    margin-top: -0.5em;
+}
+
+/* 交互按钮样式 */
+.action-buttons {
+    text-align: right;
+    margin-top: 2em;
+}
+
+#copy-md-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#copy-md-button:hover {
+    background-color: #0056b3;
+}

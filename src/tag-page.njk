@@ -2,15 +2,18 @@
 pagination:
   data: collections.tagList
   size: 1
-  alias: tag
+  alias: tagInfo
 layout: "base.njk"
-permalink: "/tags/{{ tag | slug }}/"
+# 我们现在使用 tagInfo 对象里的小写 key 属性来生成 URL
+permalink: "/tags/{{ tagInfo.key | slug }}/"
 ---
 
-<h1>标签：{{ tag }}</h1>
+{# tagInfo 对象里直接包含了 name 和 posts 属性 #}
+<h1>标签：{{ tagInfo.name }}</h1>
 
 <ul>
-  {%- for post in collections[tag] | reverse -%}
+  {# 我们直接遍历这个标签下已经收集好的 posts 数组 #}
+  {%- for post in tagInfo.posts | reverse -%}
     <li>
       <a href="{{ post.url | url }}">
         {{ post.data.title }}

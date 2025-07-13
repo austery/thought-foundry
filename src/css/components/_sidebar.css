@@ -1,0 +1,38 @@
+/* === 目录侧边栏 === */
+.sidebar-toc {
+    flex: 0 0 250px;
+    position: sticky;
+    top: 20px;
+    align-self: flex-start;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.sidebar-toc h3 {
+    margin-top: 0;
+    font-size: 1.1em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.sidebar-toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-toc li a {
+    text-decoration: none;
+    color: #007bff;
+    display: block;
+    padding: 8px 0;
+    transition: color 0.2s;
+}
+
+.sidebar-toc li a:hover {
+    color: #0056b3;
+}

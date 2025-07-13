@@ -4,24 +4,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" />
+  <link rel="stylesheet" href="{{ '/css/main.css' | url }}">
 </head>
 <body>
 
   <header class="container">
-    <h1>My Awesome Site</h1>
-      <nav>
+    <nav class="main-nav">
+      <a href="{{ '/' | url }}" class="site-title"><strong>My Awesome Site</strong></a>
+
+      <div class="nav-right">
         <ul>
           <li><a href="{{ '/' | url }}">Home</a></li>
-          <li><a href="{{ '/blog/' | url }}">Blog</a></li>
           <li><a href="{{ '/all-tags/' | url }}">Tags</a></li>
           <li><a href="{{ '/about/' | url }}">About</a></li>
         </ul>
-        <form id="search-form" role="search" data-search-index="{{ '/search.json' | url }}">
+        <form id="search-form" role="search">
           <input type="search" id="search-input" placeholder="Search...">
         </form>
-      </nav>
-      <div id="search-results"></div>
+      </div>
+    </nav>
+    <div id="search-results"></div>
   </header>
 
   <main class="container">
@@ -29,9 +31,9 @@
   </main>
 
   <footer class="container">
-    <p>&copy; 2025 Austery</p>
+    <p>&copy; 2025 Austery. All rights reserved.</p>
   </footer>
-  
+
   <script>
     const site_url = "{{ '/' | url }}";
   </script>

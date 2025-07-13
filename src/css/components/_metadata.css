@@ -1,0 +1,32 @@
+/* src/css/components/_metadata.css */
+
+.metadata-block {
+    /* 使用 Pico 的浅灰色变量作为背景色，保持风格统一 */
+    background-color: var(--pico-secondary-background);
+
+    /* 使用 Pico 的主题色变量作为边框颜色 */
+    border-left: 4px solid var(--pico-primary);
+
+    padding: 1em 1.5em;
+    margin-bottom: 2em;
+    border-radius: var(--pico-border-radius);
+    /* 使用 Pico 的圆角变量 */
+}
+
+.metadata-block p {
+    margin: 0.5em 0;
+    /* 使用 Pico 的次要文字颜色变量 */
+    color: var(--pico-secondary);
+}
+
+.metadata-block strong {
+    /* 使用 Pico 的高对比度文字颜色变量 */
+    color: var(--pico-contrast);
+}
+
+/* 针对作为“关键字”的标签链接的特殊样式 */
+.metadata-block a.tag-link {
+    display: inline-block;
+    margin-right: 0.5em;
+    text-decoration: none;
+}

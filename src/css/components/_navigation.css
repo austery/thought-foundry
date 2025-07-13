@@ -1,0 +1,34 @@
+/* src/css/components/_navigation.css */
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    /* 核心：将子元素推向两端 */
+    align-items: center;
+    /* 垂直居中 */
+    padding: 1rem 0;
+    /* 给头部一些垂直内边距 */
+}
+
+.site-title {
+    font-weight: bold;
+    font-size: 1.25rem;
+    text-decoration: none;
+    color: var(--pico-h1-color);
+    /* 使用 Pico.css 的标题颜色变量 */
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    /* 在导航和搜索框之间增加间距 */
+}
+
+.nav-right ul {
+    margin: 0;
+    /* 移除 Pico.css 默认的列表边距 */
+    display: flex;
+    gap: 1rem;
+    /* 在导航链接之间增加间距 */
+}
