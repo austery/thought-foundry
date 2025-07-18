@@ -1,25 +1,23 @@
 ---
 title: "AI研讨会纪要：创新、应用案例与战略展望"
-layout: "post.njk"  
+layout: "post.njk"
 date: "2025-07-10"
 tags:
   - "视频笔记"
   - "AI"
   - "医疗健康"
   - "企业价值"
-  - "创新"
-  - "战略展望"
 data:
   author: "Lei"
   podcast_program: ""
   speaker: "Dave Wessinger, Alan Missen, Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq"
-  guest: "Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy Dool, Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka Dhar, Panelists (Rahim Hashwani, Jared Pilcher, Cedric Anne, Lisa Jarrett, Dean Slawson)" 
-  source: "#"
+  guest: "Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy Dool, Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka Dhar, Panelists (Rahim Hashwani, Jared Pilcher, Cedric Anne, Lisa Jarrett, Dean Slawson)"
+  source: ""
 ---
 
-# AI研讨会纪要：创新、应用案例与战略展望
+# AI 研讨会纪要：创新、应用案例与战略展望
 
-## 主题演讲对话：AI的紧迫性与机遇
+## 主题演讲对话：AI 的紧迫性与机遇
 
 ### 领导力要务：学会取舍，聚焦未来
 
@@ -31,9 +29,8 @@ spent with yet another company understanding their journey. And they
 tend to connect me with ones that have had some reasonable success.
 
 **Dave Wessinger:**
-我的两大主要投资者——Dragoneer（一家专注于科技领域的成长型股权投资公司）和Hellman
-&
-Friedman（一家全球领先的私募股权投资公司），他们花了大量时间，试图让我与每一位在AI领域做得好、做得更好或做得与众不同的人建立联系，以便我能从中学习。这是一段巨大的学习旅程，每天都可以花在了解另一家公司的发展历程上。他们倾向于把我介绍给那些已经取得一定成功的公司。
+我的两大主要投资者——Dragoneer（一家专注于科技领域的成长型股权投资公司）和 Hellman
+&Friedman（一家全球领先的私募股权投资公司），他们花了大量时间，试图让我与每一位在 AI 领域做得好、做得更好或做得与众不同的人建立联系，以便我能从中学习。这是一段巨大的学习旅程，每天都可以花在了解另一家公司的发展历程上。他们倾向于把我介绍给那些已经取得一定成功的公司。
 
 **Dave Wessinger:** I'll just speak to one that's actually connected to
 healthcare. This is a little more financial, but do have some healthcare
@@ -62,10 +59,10 @@ doubling revenue in a given year is pretty incredible, actually. In
 terms of an outcome. So that's really positive.
 
 **Dave Wessinger:**
-他们做得很好的一点是，作为一个组织，他们最初在向市场交付AI方面遇到了困难。我认识到他们面临的挑战，但他们至少进行了迭代……现在他们在终端市场的AI领域发展得非常好，收入实现了同比翻倍。他们收购了一家AI公司，加速了部分工作，并在过去六个月里，他们基本上一直在构建“代理”（Agent:
-指能够自主或半自主地执行任务、与环境交互并做出决策的AI系统。）。这为业务带来了大量机会。他们销售的是一个为其客户服务的“编排层”（Orchestration
+他们做得很好的一点是，作为一个组织，他们最初在向市场交付 AI 方面遇到了困难。我认识到他们面临的挑战，但他们至少进行了迭代……现在他们在终端市场的 AI 领域发展得非常好，收入实现了同比翻倍。他们收购了一家 AI 公司，加速了部分工作，并在过去六个月里，他们基本上一直在构建“代理”（Agent:
+指能够自主或半自主地执行任务、与环境交互并做出决策的 AI 系统。）。这为业务带来了大量机会。他们销售的是一个为其客户服务的“编排层”（Orchestration
 Layer:
-一种技术架构，用于协调和管理多个独立的AI代理或服务，使它们能够协同工作。），他们将其产品化，而不是让终端客户自己去构建代理。他们做得非常出色，我认为在一年内收入翻倍，这个成果相当惊人。所以这是非常积极的。
+一种技术架构，用于协调和管理多个独立的 AI 代理或服务，使它们能够协同工作。），他们将其产品化，而不是让终端客户自己去构建代理。他们做得非常出色，我认为在一年内收入翻倍，这个成果相当惊人。所以这是非常积极的。
 
 **Dave Wessinger:** The one takeaway for me there was. He had challenged
 his own team, really smart, capable people. To move with agents and
@@ -105,7 +102,7 @@ processes. So they call it agents… Agent Operating Procedures. And
 they're building a ton of them, on top of our application.
 
 **Dave Wessinger:**
-另一个例子是关于外部的，我与一些在医疗健康领域利用AI驱动增长的公司进行了交流。其中一个例子是，有一家公司在我们的应用程序之上构建了一个编排层，它能做两件事。第一，让终端用户能够自动化他们所有的手动流程。他们称之为“代理操作程序”（Agent
+另一个例子是关于外部的，我与一些在医疗健康领域利用 AI 驱动增长的公司进行了交流。其中一个例子是，有一家公司在我们的应用程序之上构建了一个编排层，它能做两件事。第一，让终端用户能够自动化他们所有的手动流程。他们称之为“代理操作程序”（Agent
 Operating Procedures），并且他们正在我们的应用之上大量构建这些程序。
 
 **Dave Wessinger:** So what's interesting out of that is it's not
@@ -119,9 +116,9 @@ of… Let's say, to some extent, pre-revenue, but starting to take off,
 because it's obviously solving a big problem.
 
 **Dave Wessinger:**
-有趣的是，这不再是“以人为中心的设计”，而是“以机器为中心的设计”。这很有意思，算是一种转变。他们抓住的另一个机会是，创建了基于我们应用的Chrome浏览器扩展，从而创造了一种并行的工作流，客户可以在这个扩展中创建大量智能功能。他们取得了非常好的进展，虽然在某种程度上还处于营收前阶段，但已经开始起飞，因为它显然解决了一个大问题。
+有趣的是，这不再是“以人为中心的设计”，而是“以机器为中心的设计”。这很有意思，算是一种转变。他们抓住的另一个机会是，创建了基于我们应用的 Chrome 浏览器扩展，从而创造了一种并行的工作流，客户可以在这个扩展中创建大量智能功能。他们取得了非常好的进展，虽然在某种程度上还处于营收前阶段，但已经开始起飞，因为它显然解决了一个大问题。
 
-### 董事会的呼声：AI的紧迫感
+### 董事会的呼声：AI 的紧迫感
 
 **Dave Wessinger:** And if it's not clear in every boardroom, the ask is
 more AI, more AI, more AI, and so if somebody's solving that, and it's
@@ -131,14 +128,14 @@ examples of companies leveraging more of an AI. One wasn't AI-native,
 and the other one is.
 
 **Dave Wessinger:**
-如果说每个董事会传达的信息还不够清晰的话，那就是：需要更多的AI，更多的AI，更多的AI。所以，如果有人正在解决这个问题，而那个人不是我们，这就会很成问题。这确实会驱动你产生一种紧迫感，并加快步伐去满足这种需求。所以，这是两个不同的例子，展示了公司如何利用AI。一个不是AI原生公司，另一个则是。
+如果说每个董事会传达的信息还不够清晰的话，那就是：需要更多的 AI，更多的 AI，更多的 AI。所以，如果有人正在解决这个问题，而那个人不是我们，这就会很成问题。这确实会驱动你产生一种紧迫感，并加快步伐去满足这种需求。所以，这是两个不同的例子，展示了公司如何利用 AI。一个不是 AI 原生公司，另一个则是。
 
 **Dave Wessinger:** And then the question is, you know, how do you
 compete against that, and how do you think about that?
 
 **Dave Wessinger:** 那么问题就来了，你如何与之竞争？你如何看待这个问题？
 
-### 内部挑战：整合碎片化的AI解决方案
+### 内部挑战：整合碎片化的 AI 解决方案
 
 **Dave Wessinger:** And then internally, think about this for a moment.
 We're trying to deliver to our customers AI-powered solutions is where
@@ -150,7 +147,7 @@ or form to deliver a seamless experience and process for our own
 employees, so….
 
 **Dave Wessinger:**
-然后从内部来看，思考一下这个问题。我们努力的方向是为客户提供AI驱动的解决方案。而Alan，你所接触的那些内部供应商，他们也​​在试图向我们交付AI，并且这些AI通常局限于各自的领域，比如财务、销售、产品或服务等。但我们必须设法将这些零散的部分整合起来，为我们自己的员工提供无缝的体验和流程。
+然后从内部来看，思考一下这个问题。我们努力的方向是为客户提供 AI 驱动的解决方案。而 Alan，你所接触的那些内部供应商，他们也 ​​ 在试图向我们交付 AI，并且这些 AI 通常局限于各自的领域，比如财务、销售、产品或服务等。但我们必须设法将这些零散的部分整合起来，为我们自己的员工提供无缝的体验和流程。
 
 **Dave Wessinger:** It's kind of hard to think about single-source AI
 vendors. And that's why things like Copilot or orchestration layers take
@@ -158,7 +155,7 @@ off, is because they do go across so many different applications and
 drive a ton of efficiency in the business, so….
 
 **Dave Wessinger:**
-很难想象只依赖单一来源的AI供应商。这就是为什么像Copilot或编排层这样的工具能够成功，因为它们能够跨越众多不同的应用程序，为业务带来效率提升。
+很难想象只依赖单一来源的 AI 供应商。这就是为什么像 Copilot 或编排层这样的工具能够成功，因为它们能够跨越众多不同的应用程序，为业务带来效率提升。
 
 **Dave Wessinger:** There's just a few examples that, uh, have kind of
 a… It does drive a sense of urgency in terms of the… These things aren't
@@ -180,7 +177,7 @@ made。
 **Alan Missen:**
 是的，这些例子很棒，Dave。你提到的关于投入时间去学习，以及那种果断的优先级排序，我认为这两者的结合是一个非常有力的观点。坦率地说，这是我们今天会后需要认真对待的。这个观点提得非常好。
 
-### 设计思维的变革：从人本到AI协同
+### 设计思维的变革：从人本到 AI 协同
 
 **Dave Wessinger:** Alan, let me ask you a question as we're kind of
 going back and forth. We, as everybody here knows, or should know, we've
@@ -195,7 +192,7 @@ differently about using agents, or thinking differently about AI in just
 re-engineering the process?
 
 **Dave Wessinger:**
-Alan，在我们交流的过程中，我想问你一个问题。大家都知道，或者应该知道，我们在P2C（Product-to-Cash，从产品到现金的业务流程）项目上付出了巨大的努力。从设计的角度来看，我们所做的业务流程工程或建模，很大程度上是围绕着人类如何使用一个解决方案来展开的，比如我们考虑Salesforce或NetSuite等系统。那么，对于那些我们传统上关注于“人如何做某事以及如何做得更好”的领域，你如何看待AI带来的设计思维转变？你如何以不同的方式思考使用AI代理，或者在流程再造中以不同的视角看待AI？
+Alan，在我们交流的过程中，我想问你一个问题。大家都知道，或者应该知道，我们在 P2C（Product-to-Cash，从产品到现金的业务流程）项目上付出了巨大的努力。从设计的角度来看，我们所做的业务流程工程或建模，很大程度上是围绕着人类如何使用一个解决方案来展开的，比如我们考虑 Salesforce 或 NetSuite 等系统。那么，对于那些我们传统上关注于“人如何做某事以及如何做得更好”的领域，你如何看待 AI 带来的设计思维转变？你如何以不同的方式思考使用 AI 代理，或者在流程再造中以不同的视角看待 AI？
 
 **Alan Missen:** An area we're evolving… we're trying to evolve quite…
 quite quickly, Dave. I think… If we look at, sort of, the traditional
@@ -209,9 +206,9 @@ It's not just about this new idea that's down the road that we'll go
 tackle. It's like, we've got stuff that is in flight.
 
 **Alan Missen:**
-我们如何开始思考立即应用它？一个很好的例子是——我想我们在SLT（Senior
+我们如何开始思考立即应用它？一个很好的例子是——我想我们在 SLT（Senior
 Leadership
-Team，高层领导团队）会议上展示过，而且我知道你对此充满热情——我们能否让一个AI代理在11月上线时为客户生成报价？我们能把它准备好吗？我们正在这方面进行突破。我认为在财务后端，还有三四个类似的应用代理的想法，我们也在尝试，看能否同样在11月1日之前实现。这有点让人紧张，因为我们这等于是在“边飞边造飞机”，在项目进行中改变范围。
+Team，高层领导团队）会议上展示过，而且我知道你对此充满热情——我们能否让一个 AI 代理在 11 月上线时为客户生成报价？我们能把它准备好吗？我们正在这方面进行突破。我认为在财务后端，还有三四个类似的应用代理的想法，我们也在尝试，看能否同样在 11 月 1 日之前实现。这有点让人紧张，因为我们这等于是在“边飞边造飞机”，在项目进行中改变范围。
 
 ### 变革的速度：以月计年
 
@@ -225,7 +222,7 @@ gonna be… It's gonna feel like it was 50 years ago history. It's pretty
 incredible.
 
 **Dave Wessinger:**
-非常好。是的，这很令人兴奋。你的观点很有趣，在于……你知道，短短6个月内的进步，更不用说24小时了，其变化速度令人不安。我想Mike提到了一个5年的时间范围。要知道，云计算带来的颠覆花了十年以上的时间。而这里的颠覆……几乎不能以年为单位来衡量。我的意思是，两三年后，我们今天视为常态的东西……会感觉像是50年前的历史。这相当不可思议。
+非常好。是的，这很令人兴奋。你的观点很有趣，在于……你知道，短短 6 个月内的进步，更不用说 24 小时了，其变化速度令人不安。我想 Mike 提到了一个 5 年的时间范围。要知道，云计算带来的颠覆花了十年以上的时间。而这里的颠覆……几乎不能以年为单位来衡量。我的意思是，两三年后，我们今天视为常态的东西……会感觉像是 50 年前的历史。这相当不可思议。
 
 **Alan Missen:** Yeah. And I think the other comment you made, which is
 really interesting, is some of the stuff that you're seeing around, sort
@@ -250,9 +247,9 @@ you're right, every… every vendor's knocking on our door right now,
 going, you need to look at our stuff.
 
 **Alan Missen:**
-你还提到了我们这个领域的供应商和平台合作伙伴，他们的策略是怎样的。有一个数据点显示，到明年，80%的应用软件将嵌入AI功能。所以，要理清哪些是好的，哪些可以集成，我们应该使用哪些，这确实是个挑战。你说得对，现在每个供应商都在敲我们的门，说“你们得看看我们的东西”。
+你还提到了我们这个领域的供应商和平台合作伙伴，他们的策略是怎样的。有一个数据点显示，到明年，80%的应用软件将嵌入 AI 功能。所以，要理清哪些是好的，哪些可以集成，我们应该使用哪些，这确实是个挑战。你说得对，现在每个供应商都在敲我们的门，说“你们得看看我们的东西”。
 
-### 经济驱动力：企业价值与AI授权
+### 经济驱动力：企业价值与 AI 授权
 
 **Dave Wessinger:** Let me share with you the why behind that. And it
 really starts with, if you think about enterprise value, is kind of a
@@ -266,7 +263,7 @@ it related to it, and we would do significantly better than kind of a…
 what our… what our shareholder value could look like.
 
 **Dave Wessinger:**
-让我告诉你这背后的原因。这真的始于企业价值，它是很多人的一个关键驱动因素。你坐在董事会里，和人讨论……我们有过这样的对话：如果我们做得好会怎样？如果我们做得差又会怎样？让我们设想几个情景。如果我们做得不好，六个月后，我们的价值可能会只有现在的一半。只有一半的价值。如果我们做得好，区别是什么？我们将拥有AI驱动的解决方案进入市场，展示出与之相关的真实收入，我们的表现将远远好于……我们股东价值的潜在水平。
+让我告诉你这背后的原因。这真的始于企业价值，它是很多人的一个关键驱动因素。你坐在董事会里，和人讨论……我们有过这样的对话：如果我们做得好会怎样？如果我们做得差又会怎样？让我们设想几个情景。如果我们做得不好，六个月后，我们的价值可能会只有现在的一半。只有一半的价值。如果我们做得好，区别是什么？我们将拥有 AI 驱动的解决方案进入市场，展示出与之相关的真实收入，我们的表现将远远好于……我们股东价值的潜在水平。
 
 **Dave Wessinger:** And so if you just think about the economics and why
 you're seeing vendors show up saying, buy our AI-powered stuff, buy more
@@ -277,7 +274,7 @@ new world. It's an existential threat to the value of their business.
 And so, yeah, people are pretty motivated.
 
 **Dave Wessinger:**
-所以，如果你从经济学的角度思考，就能明白为什么供应商们纷纷上门，说“买我们的AI产品吧，多买点”，因为他们整个企业的价值都建立在能否证明自己具备这种能力之上。因此，对于客户、我们以及其他企业来说，进入这个新世界至关重要。这对他们业务的价值构成了生存威胁。所以，是的，人们的动力都非常足。
+所以，如果你从经济学的角度思考，就能明白为什么供应商们纷纷上门，说“买我们的 AI 产品吧，多买点”，因为他们整个企业的价值都建立在能否证明自己具备这种能力之上。因此，对于客户、我们以及其他企业来说，进入这个新世界至关重要。这对他们业务的价值构成了生存威胁。所以，是的，人们的动力都非常足。
 
 **Alan Missen:** The assign interesting data point the other day on… to
 your point around, sort of, valuation, and at the end of 24. Ai
@@ -287,9 +284,9 @@ get to \$18 trillion. It's like a 37 or 40% CAGR. Year over year over
 year, so it's exactly to your point, it's insane, the expectation.
 
 **Alan Missen:**
-前几天有一个关于估值的有趣数据点……正如你所说，在2024年底，AI组织的总估值大约是4500亿美元。预计在未来6年内，这个数字将达到18万亿美元。这相当于年复合增长率（CAGR:
+前几天有一个关于估值的有趣数据点……正如你所说，在 2024 年底，AI 组织的总估值大约是 4500 亿美元。预计在未来 6 年内，这个数字将达到 18 万亿美元。这相当于年复合增长率（CAGR:
 Compound Annual Growth
-Rate）达到37%或40%。年复一年，正如你所说，这种预期简直是疯狂的。
+Rate）达到 37%或 40%。年复一年，正如你所说，这种预期简直是疯狂的。
 
 **Dave Wessinger:** Well, I'll give you a very specific data point. Two
 companies recently acquired, one with two people. North of \$100
@@ -299,7 +296,7 @@ Neither company had any revenue. No revenue. Like, that's the appetite
 for AI-based companies. It's incredible. And so….
 
 **Dave Wessinger:**
-我给你一个非常具体的数据点。最近有两家公司被收购，其中一家只有两个人，收购价超过1亿美元。就两个人。另一家是以色列公司，大约三四十人，以数亿美元的价格被收购。这两家公司都没有任何收入。零收入。这就是市场对AI公司的渴望程度。这太不可思议了。
+我给你一个非常具体的数据点。最近有两家公司被收购，其中一家只有两个人，收购价超过 1 亿美元。就两个人。另一家是以色列公司，大约三四十人，以数亿美元的价格被收购。这两家公司都没有任何收入。零收入。这就是市场对 AI 公司的渴望程度。这太不可思议了。
 
 **Dave Wessinger:** It's absolutely incredible. It reminds me of the
 days where I wish SaaS companies back in 2002 were actually doing that.
@@ -312,11 +309,11 @@ Forbes about what it's like to go through two major disruptions in a
 lifetime.
 
 **Dave Wessinger:**
-这绝对是令人难以置信的。这让我想起了2002年，我多希望那时的SaaS（Software
+这绝对是令人难以置信的。这让我想起了 2002 年，我多希望那时的 SaaS（Software
 as a
-Service，软件即服务）公司也能有这样的待遇。它们在1999年互联网泡沫破灭前有过辉煌。是的，这很清晰……也很有趣，我看着镜子里的自己，心想，天哪，我老了。我要赶上这第二波浪潮了。第一波是云计算，现在我又能经历一波，我可以分享我的故事了。我甚至有点兴奋，想为《福布斯》写下一篇文章，讲述在一生中经历两次重大技术颠覆是何种感受。
+Service，软件即服务）公司也能有这样的待遇。它们在 1999 年互联网泡沫破灭前有过辉煌。是的，这很清晰……也很有趣，我看着镜子里的自己，心想，天哪，我老了。我要赶上这第二波浪潮了。第一波是云计算，现在我又能经历一波，我可以分享我的故事了。我甚至有点兴奋，想为《福布斯》写下一篇文章，讲述在一生中经历两次重大技术颠覆是何种感受。
 
-## 医疗健康领域的AI颠覆
+## 医疗健康领域的 AI 颠覆
 
 ### 增强人类能力，重塑工作流程
 
@@ -327,7 +324,7 @@ to be a lot smarter about and prioritize the work they do, so that the
 little we have, we'll be able to do so much more with in healthcare.
 
 **Dave Wessinger:**
-毫无疑问，AI能够增强人类能力并替代一些单调乏味的任务。我认为这是我们能看到的。另外一点是，AI能让人们更明智地安排和优先处理工作，这样我们就能用有限的资源在医疗保健领域完成更多的事情。
+毫无疑问，AI 能够增强人类能力并替代一些单调乏味的任务。我认为这是我们能看到的。另外一点是，AI 能让人们更明智地安排和优先处理工作，这样我们就能用有限的资源在医疗保健领域完成更多的事情。
 
 **Dave Wessinger:** But I also would say the thing that I think is very
 interesting is that I believe that invariably, the entire industry will
@@ -345,7 +342,7 @@ interesting way to think about the future。
 **Dave Wessinger:**
 但我也想说，我认为非常有趣的一点是，我相信整个行业最终都将能够响应信息并采取行动。如果你考虑到传感器，考虑到吸收信息的能力，无论是生物传感器、历史信息，还是其他所有信息。那种需要人手动输入信息才能获得观察结果并做出反应的模式——为人类设计任何需要输入东西的系统，这种想法已经过时了。你在说什么？那已经不是未来的方式了。所以，当你想到那个障碍已经消失，我们现在拥有了完整的信息，可以将其转化为我们能够响应的东西时，我认为这是思考未来的一个非常有趣的方式。
 
-### 从图像到诊断：AI的精准医疗潜力
+### 从图像到诊断：AI 的精准医疗潜力
 
 **Dave Wessinger:** But I think in terms of impact, I would tell you
 that for any of you who are at Summit or heard me talk to Dr. Rue. What
@@ -368,7 +365,7 @@ be really instrumental in driving the quality of care that these people
 deserve.
 
 **Dave Wessinger:**
-但就影响力而言，我想告诉你们，在峰会上或听过我与Rue博士交谈的人应该知道，他们在眼科学方面所做的工作——那种通过扫描眼球就能解读并理解你的全部或大部分诊断的能力。想象一下，一张图像，最终可能会在手机上实现。目前这还是一个相当复杂的设备，但它终将商品化。那一刻，你就能理解那些原本需要数小时评估才能了解的信息。在一瞬间通过一张图像就能了解人体状况，并知道下一步该怎么做。你可以有效地制定整个服务计划、护理计划、确定需求、诊断病情，并给予正确、个性化的治疗。那将是非常有趣的一天……而且这种方式很难出错，对吧？因为你不依赖于人的回应，不依赖于他们可能无法提供的回应，也不依赖于可能不准确的文档。一切都清清楚楚。所以，在理解个体和决定行动方案方面的这种进步，我认为将对推动这些人应得的护理质量起到至关重要的作用。
+但就影响力而言，我想告诉你们，在峰会上或听过我与 Rue 博士交谈的人应该知道，他们在眼科学方面所做的工作——那种通过扫描眼球就能解读并理解你的全部或大部分诊断的能力。想象一下，一张图像，最终可能会在手机上实现。目前这还是一个相当复杂的设备，但它终将商品化。那一刻，你就能理解那些原本需要数小时评估才能了解的信息。在一瞬间通过一张图像就能了解人体状况，并知道下一步该怎么做。你可以有效地制定整个服务计划、护理计划、确定需求、诊断病情，并给予正确、个性化的治疗。那将是非常有趣的一天……而且这种方式很难出错，对吧？因为你不依赖于人的回应，不依赖于他们可能无法提供的回应，也不依赖于可能不准确的文档。一切都清清楚楚。所以，在理解个体和决定行动方案方面的这种进步，我认为将对推动这些人应得的护理质量起到至关重要的作用。
 
 **Alan Missen:** Yeah, it feels very similar to some of the research
 I've been doing lately around healthcare and in AI, and your point
@@ -381,7 +378,7 @@ right people who have to go to the hospital versus the ones that aren't
 versus EMSs. Yeah, there's a ton going on on there, for sure.
 
 **Alan Missen:**
-是的，这与我最近在医疗保健和AI领域所做的一些研究非常相似，特别是你提到的以AI为中心的扫描技术。它们提供高质量数据的准确性和速度令人瞩目，比如脑部扫描的准确性提高了一倍。骨骼扫描能发现那些X光无法捕捉到的骨折。还有在移动医疗或分诊相关的活动中，能够识别出哪些人需要去医院，哪些人不需要，这比急救医疗服务（EMS）更有效。是的，这个领域肯定有很多进展。
+是的，这与我最近在医疗保健和 AI 领域所做的一些研究非常相似，特别是你提到的以 AI 为中心的扫描技术。它们提供高质量数据的准确性和速度令人瞩目，比如脑部扫描的准确性提高了一倍。骨骼扫描能发现那些 X 光无法捕捉到的骨折。还有在移动医疗或分诊相关的活动中，能够识别出哪些人需要去医院，哪些人不需要，这比急救医疗服务（EMS）更有效。是的，这个领域肯定有很多进展。
 
 **Dave Wessinger:** Preventative early detection, obviously, is kind of
 the big cost savings in the quality of life aspect. But we're still
@@ -393,7 +390,7 @@ we'll know what to do. The question is, will we do it?
 **Dave Wessinger:**
 预防性的早期检测，显然是节省成本和提高生活质量的关键。但我们终究是凡人，我们还是会选择去吃那些鸡翅夜宵之类的东西。所以，这与它是否能延长我们的寿命有何关系，我并不完全确定，但我们知道该做什么。问题是，我们会不会去做？
 
-## 关于AI的常见误解与挑战
+## 关于 AI 的常见误解与挑战
 
 **Dave Wessinger:** That's a good question. I think it's kind of…. I
 don't know that there's any real misconceptions. Are they fearful of it?
@@ -424,7 +421,7 @@ actually could kill someone. Like, for real, and so now what do you do?
 Do you not enable them? Do you go backwards?
 
 **Dave Wessinger:**
-我认为，我们会看到，出于责任、道德、幻觉等因素的考虑……如果你不能做到99.99999%的正确，你就有可能害死人。这很糟糕，对吧？我想到了一个情景……顺便说一下，我们在PointClickCare今天就有这种情况，甚至还不是AI。我们根据药物信息提出建议，临床医生看了会说，“哦，是的，这很合理”。然而，从自然语言到结构化指令的转换可能会出错，他们必须验证，因为系统大部分时候都是对的，他们会习惯性地点头确认。但偶尔一次错误，猜猜会发生什么？那真的可能会致命。那么你该怎么办？禁用这个功能吗？走回头路吗？
+我认为，我们会看到，出于责任、道德、幻觉等因素的考虑……如果你不能做到 99.99999%的正确，你就有可能害死人。这很糟糕，对吧？我想到了一个情景……顺便说一下，我们在 PointClickCare 今天就有这种情况，甚至还不是 AI。我们根据药物信息提出建议，临床医生看了会说，“哦，是的，这很合理”。然而，从自然语言到结构化指令的转换可能会出错，他们必须验证，因为系统大部分时候都是对的，他们会习惯性地点头确认。但偶尔一次错误，猜猜会发生什么？那真的可能会致命。那么你该怎么办？禁用这个功能吗？走回头路吗？
 
 **Dave Wessinger:** So, there is, like, we all talk about it. I think
 the expectation of it just landing and working smoothly, and it's just
@@ -449,7 +446,7 @@ important as healthcare, that mountain to get over in terms of trust is
 definitely a big one for us to deal with.
 
 **Alan Missen:**
-是的，我完全同意。我最近读到的另一个数据点也与此相关，回到了AI与信任的动态关系上。如今，75%的公众消费者不信任AI产生的结果。所以当你把这种不信任应用到像医疗保健这样重要的领域时，要跨越的信任大山对我们来说无疑是巨大的。
+是的，我完全同意。我最近读到的另一个数据点也与此相关，回到了 AI 与信任的动态关系上。如今，75%的公众消费者不信任 AI 产生的结果。所以当你把这种不信任应用到像医疗保健这样重要的领域时，要跨越的信任大山对我们来说无疑是巨大的。
 
 ## 成功的定义：从用例到行动
 
@@ -463,7 +460,7 @@ really working towards building that skill set to be able to action them
 quickly.
 
 **Alan Missen:**
-对我来说，这又回到了你之前提到的那一点。如果今天我们能真正创建出一个更强大、更有力的用例清单，并且我们能够实际去执行和推进，那对我来说就是一个巨大的成功。我想我们现在正在研究的用例大约有70多个。我希望这个数字能达到两三百个，然后我们开始真正努力去培养能够快速执行这些用例的技能。
+对我来说，这又回到了你之前提到的那一点。如果今天我们能真正创建出一个更强大、更有力的用例清单，并且我们能够实际去执行和推进，那对我来说就是一个巨大的成功。我想我们现在正在研究的用例大约有 70 多个。我希望这个数字能达到两三百个，然后我们开始真正努力去培养能够快速执行这些用例的技能。
 
 **Dave Wessinger:** Recognize that AI is an amazing thought partner and
 collaborator. And so, if you want to write a memo about something you
@@ -475,7 +472,7 @@ intelligent around an aspect of whatever you're thinking about or trying
 to improve, or trying to address.
 
 **Dave Wessinger:**
-要认识到，AI是一个了不起的思考伙伴和合作者。所以，如果你想就某个计划写一份备忘录……这不是做PowerPoint。我的意思是，他们真的靠备忘录运作。如果你想真正地与AI进行思想碰撞，并提升你思考问题的能力，你的智商会显著提高，你会对你正在思考、试图改进或解决的任何问题，准备得更充分，理解得更透彻。
+要认识到，AI 是一个了不起的思考伙伴和合作者。所以，如果你想就某个计划写一份备忘录……这不是做 PowerPoint。我的意思是，他们真的靠备忘录运作。如果你想真正地与 AI 进行思想碰撞，并提升你思考问题的能力，你的智商会显著提高，你会对你正在思考、试图改进或解决的任何问题，准备得更充分，理解得更透彻。
 
 **Dave Wessinger:** And so you just iterate and iterate and iterate and
 iterate, and your ideas become stronger and more thoughtful and more
@@ -501,4 +498,4 @@ of AI to it. What have you done? Have you progressed? What are you
 learning? It's just too important for us. We can't miss this one.
 
 **Dave Wessinger:**
-公司里每个人的职位描述都将改变。你今天的职位描述已经过时了。我们必须确保，如果你不成长，你就要有这样一种心态：你现在在哪方面是初学者？你在学习什么？这绝对是至关重要的。我们将根据你在AI能力方面的进展进行评估。这是必要的一环。我想Mike前几天晚上和Shopify的Toby谈过，那是一个关键的指标：我们所有的绩效评估都将包含AI的元素。你做了什么？你进步了吗？你在学什么？这对我们太重要了，我们不能错过这次机会。
+公司里每个人的职位描述都将改变。你今天的职位描述已经过时了。我们必须确保，如果你不成长，你就要有这样一种心态：你现在在哪方面是初学者？你在学习什么？这绝对是至关重要的。我们将根据你在 AI 能力方面的进展进行评估。这是必要的一环。我想 Mike 前几天晚上和 Shopify 的 Toby 谈过，那是一个关键的指标：我们所有的绩效评估都将包含 AI 的元素。你做了什么？你进步了吗？你在学什么？这对我们太重要了，我们不能错过这次机会。

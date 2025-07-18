@@ -4,6 +4,7 @@ layout: "post.njk"
 date: "2025-05-28"
 tags:
   - "视频笔记"
+  - "教育"
 data:
   author: "Lei"
   podcast_program: ""
@@ -12,33 +13,13 @@ data:
   source: ""
 ---
 
-<div class="report-container">
+# **EN** Is Ontario's College System in Trouble? **ZH** 安大略省的学院体系陷入困境了吗？
 
-# <span class="lang-title">EN</span>Is Ontario's College System in Trouble? <span class="lang-title">ZH</span>安大略省的学院体系陷入困境了吗？
+**EN Topic:** 60th Anniversary Discussion of Ontario's College System and its Current Challenges
 
-<div class="metadata">
+**ZH 主题：** 安大略省学院体系60周年及其当前挑战的讨论
 
-**<span class="lang-title">EN</span>Program:** The Agenda
-
-**<span class="lang-title">ZH</span>节目：**《议程》
-
-**<span class="lang-title">EN</span>Source File:** Is Ontario's College
-System in Trouble The Agenda \[English - en\]
-\[DownloadYoutubeSubtitles.com\].txt
-
-**<span class="lang-title">ZH</span>源文件：** Is Ontario's College
-System in Trouble The Agenda \[English - en\]
-\[DownloadYoutubeSubtitles.com\].txt
-
-**<span class="lang-title">EN</span>Topic:** 60th Anniversary Discussion
-of Ontario's College System and its Current Challenges
-
-**<span class="lang-title">ZH</span>主题：**
-安大略省学院体系60周年及其当前挑战的讨论
-
-
-
-### <span class="lang-title">EN</span>Participants: <span class="lang-title">ZH</span>参与者：
+### **EN Participants:** **ZH 参与者：**
 
 - **Steve Paikin (Host):** The Agenda
 - **Ann Marie Vaughan:** President, Humber Polytechnic
@@ -49,11 +30,11 @@ of Ontario's College System and its Current Challenges
 
 <div id="transcript-content">
 
-## <span class="lang-title">EN</span>Introduction and Historical Context <span class="lang-title">ZH</span>引言与历史背景
+## **EN Introduction and Historical Context** **ZH 引言与历史背景**
 
 <div class="transcript-section">
 
-<span class="speaker-cn">史蒂夫·帕金：</span>六十年前的今天，安大略省一位35岁的教育部长在立法机构宣布，他将引入一个全新的高等教育概念。比尔·戴维斯就是那位部长。他说，人们在高中毕业后，需要的不仅仅是大学或工作这两种选择。
+**史蒂夫·帕金：** 六十年前的今天，安大略省一位35岁的教育部长在立法机构宣布，他将引入一个全新的高等教育概念。比尔·戴维斯就是那位部长。他说，人们在高中毕业后，需要的不仅仅是大学或工作这两种选择。
 
 \>\> STEVE: 60 YEARS AGO TODAY, ONTARIO'S 35-YEAR-OLD MINISTER OF
 EDUCATION ROSE IN THE LEGISLATURE TO ANNOUNCE HE WAS USHERING IN A WHOLE
@@ -61,15 +42,12 @@ NEW CONCEPT IN POST-SECONDARY LEARNING. BILL DAVIS WAS THAT MINISTER. HE
 SAID PEOPLE NEEDED MORE OPTIONS AFTER HIGH SCHOOL THAN SIMPLY UNIVERSITY
 OR WORK.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>因此，安大略省创建了一个新的应用艺术与技术学院体系。
+**史蒂夫·帕金：** 因此，安大略省创建了一个新的应用艺术与技术学院体系。
 
 AND WITH THAT, ONTARIO CREATED A NEW SYSTEM OF COLLEGES OF APPLIED ARTS
 AND TECHNOLOGY.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>学院体系取得了巨大成功。然而，如今它也面临着前所未有的挑战，所以我们认为60周年纪念是一个很好的契机，来审视一下目前的情况。让我们与以下嘉宾进行讨论：汉博理工学院校长Ann
-Marie Vaughan；安大略学院联盟临时主席Maureen
-Adamson；乔治布朗学院和百年理工学院商科教授Lyn
-Whitham；以及《多伦多星报》政治专栏作家Martin Regg Cohn。
+**史蒂夫·帕金：** 学院体系取得了巨大成功。然而，如今它也面临着前所未有的挑战，所以我们认为60周年纪念是一个很好的契机，来审视一下目前的情况。让我们与以下嘉宾进行讨论：汉博理工学院校长Ann Marie Vaughan；安大略学院联盟临时主席Maureen Adamson；乔治布朗学院和百年理工学院商科教授Lyn Whitham；以及《多伦多星报》政治专栏作家Martin Regg Cohn。
 
 THE COLLEGE SYSTEM HAS BEEN A HUGE SUCCESS. IT'S ALSO FACING
 UNPRECEDENTED CHALLENGES THESE DAYS, SO WE THOUGHT THE 60TH ANNIVERSARY
@@ -79,14 +57,13 @@ POLYTECHNIC; MAUREEN ADAMSON, INTERIM PRESIDENT, COLLEGES ONTARIO; LYN
 WHITHAM, BUSINESS PROFESSOR, GEORGE BROWN & CENTENNIAL COLLEGES; AND
 MARTIN REGG COHN, POLITICS COLUMNIST, TORONTO STAR.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>各位周年快乐，我想我们应该开始了。六十年前的今天，让我们回顾一下背景。Sheldon，请调出图表，向大家介绍一下安大略学院体系的一些背景信息。
+**史蒂夫·帕金：** 各位周年快乐，我想我们应该开始了。六十年前的今天，让我们回顾一下背景。Sheldon，请调出图表，向大家介绍一下安大略学院体系的一些背景信息。
 
 HAPPY ANNIVERSARY EVERYBODY I GUESS WE SHOULD START 60 YEARS AGO TODAY
 LET'S DO A BACKGROUND SHELDON, LET'S BRING THE GRAPHIC UP AND TELL
 EVERYBODY A BIT OF BACKGROUND ABOUT THE ONTARIO COLLEGE SYSTEM.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>第一所学院要追溯到1966年，是多伦多的百年理工学院。最初只有500名学生，主要学习文秘和护理课程。当时是500名学生，如今已有4万名全日制和非全日制学生。全省共有24所学院。整个体系拥有超过50万名全日制和非全日制学生。最新的一所学院也已经有30年历史了，那就是位于萨德伯里的北方学院（Collège
-Boréal）。
+**史蒂夫·帕金：** 第一所学院要追溯到1966年，是多伦多的百年理工学院。最初只有500名学生，主要学习文秘和护理课程。当时是500名学生，如今已有4万名全日制和非全日制学生。全省共有24所学院。整个体系拥有超过50万名全日制和非全日制学生。最新的一所学院也已经有30年历史了，那就是位于萨德伯里的北方学院（Collège Boréal）。
 
 THE VERY FIRST ONE YOU HAVE TO GO BACK TO 1966 IT WAS CENTENNIAL COLLEGE
 IN TORONTO STARTED WITH 500 STUDENTS MOSTLY SECRETARIAL NURSING COURSES.
@@ -95,23 +72,21 @@ COLLEGES ACROSS THE PROVINCE. THE WHOLE SYSTEM HAS MORE THAN HALF A
 MILLION FULL AND PART-TIME STUDENTS. THE NEWEST ONE IS STILL 30 YEARS
 OLD COLLY H BORRIELLO IN SUDBURY.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>好的，这是一些背景介绍。
+**史蒂夫·帕金：** 好的，这是一些背景介绍。
 
 OKAY THAT'S A LITTLE BACKGROUND.
 
-
-
-## <span class="lang-title">EN</span>The Mission of the College System <span class="lang-title">ZH</span>学院体系的使命
+## **EN The Mission of the College System** **ZH 学院体系的使命**
 
 <div class="transcript-section">
 
-<span class="speaker-cn">史蒂夫·帕金：</span>好的，Maureen，您代表整个体系发言，所以我想从您开始。我们将从宏观入手，然后逐步细化。在过去的60年里，学院体系的使命是什么？
+**史蒂夫·帕金：** 好的，Maureen，您代表整个体系发言，所以我想从您开始。我们将从宏观入手，然后逐步细化。在过去的60年里，学院体系的使命是什么？
 
 OKAY, MORE RAIN YOU SPEAK FOR THE WHOLE SYSTEM IS I WANT TO START WITH
 YOU. WE WILL START BROAD AND NARROW DOWN. WHAT HAS THE MISSION OF THE
 COLLEGE SYSTEM BEEN FOR THE LAST 60 YEARS.
 
-<span class="speaker-cn">莫琳·亚当森：</span>嗯，使命一直很明确：确保任何人都能获得高等教育。非常重要的一点是，并非每个人都想上大学，并非每个人都想成为医生或律师。这些学院分布在各个社区，当地学院可以为社区繁荣提供所需的本地劳动力。这样每个人都有机会接受高等教育。这涵盖了所有这些领域。如果你看看现任政府的施政纲领，推进电气化。学院在其中扮演着重要角色。
+**莫琳·亚当森：** 嗯，使命一直很明确：确保任何人都能获得高等教育。非常重要的一点是，并非每个人都想上大学，并非每个人都想成为医生或律师。这些学院分布在各个社区，当地学院可以为社区繁荣提供所需的本地劳动力。这样每个人都有机会接受高等教育。这涵盖了所有这些领域。如果你看看现任政府的施政纲领，推进电气化。学院在其中扮演着重要角色。
 
 \>\> MAUREEN: WELL, THE MISSION HAS BEEN CLEAR IT HAS BEEN TO ENSURE
 THAT ANYBODY CAN HAVE ACCESS TO HIGHER EDUCATION. REALLY IMPORTANT THAT
@@ -123,11 +98,11 @@ EDUCATION. IT IS IN ALL OF THOSE FIELDS IF YOU LOOK AT THE PLATFORM OF
 THE CURRENT GOVERNMENT ADVANCE ELECTRIFICATION. THAT IS WERE COLLEGES
 PAYROLL.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>校长女士，您的具体职责是什么？
+**史蒂夫·帕金：** 校长女士，您的具体职责是什么？
 
 \>\> STEVE: MADAM PRESIDENT. YOUR SPECIFIC ROLE IS WHAT.
 
-<span class="speaker-cn">安·玛丽·沃恩：</span>对于汉博学院来说，我们在怡陶碧谷地区有几个主要的服務领域。但我们也在全省范围内发挥作用。通过衔接协议，我们在汉博学院提供31个学士学位。我们正在向研究生学位发展。因此，我们认为自己深深植根于雷克斯代尔、怡陶碧谷、湖滨社区，具有全球化的思维方式，同时也为整个学院体系内的学生提供这种升学途径的机会。
+**安·玛丽·沃恩：** 对于汉博学院来说，我们在怡陶碧谷地区有几个主要的服務领域。但我们也在全省范围内发挥作用。通过衔接协议，我们在汉博学院提供31个学士学位。我们正在向研究生学位发展。因此，我们认为自己深深植根于雷克斯代尔、怡陶碧谷、湖滨社区，具有全球化的思维方式，同时也为整个学院体系内的学生提供这种升学途径的机会。
 
 \>\> SPEAKER: FOR HUMBER WE HAVE A FEW AREAS THAT WE ARE MEANT TO SERVE
 IN THE ETOBICOKE REGION. BUT WE ALSO PLAY A ROLE PROVINCIALLY THROUGH
@@ -137,32 +112,32 @@ ROOTED IN THE REXDALE ETOBICOKE, LAKESHORE COMMUNITY. BEING GLOBAL IN
 HOW WE THINK. BUT ALSO IN PROVIDING THAT PATHWAY OPPORTUNITY FOR
 STUDENTS WITHIN THE ENTIRE COLLEGE SYSTEM.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>Lynn，您在乔治布朗学院和百年理工学院教什么课程？
+**史蒂夫·帕金：** Lynn，您在乔治布朗学院和百年理工学院教什么课程？
 
 \>\> STEVE: LYNN, WHAT HAVE YOU BEEN TEACHING AT GEORGE BROWN AND
 CENTENNIAL.
 
-<span class="speaker-cn">林恩·惠特姆：</span>我曾在乔治布朗学院的商科市场营销领域任教，并在百年理工学院的媒体与艺术设计学院任教。
+**林恩·惠特姆：** 我曾在乔治布朗学院的商科市场营销领域任教，并在百年理工学院的媒体与艺术设计学院任教。
 
 \>\> LYN: APPETITE IN THE BUSINESS GOT THE MARKETING AREA GEORGE BROWN
 AND UPTIGHT IN THE SCHOOL OF MEDIA AND ARTS AND DESIGN A CENTENNIAL.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>您认为您对学生的使命是什么？
+**史蒂夫·帕金：** 您认为您对学生的使命是什么？
 
 \>\> STEVE: AND WHAT DO YOU SEE IS YOUR MISSION WITH YOUR STUDENTS?
 
-<span class="speaker-cn">林恩·惠特姆：</span>我的职业生涯丰富多彩，做过很多不同的事情，但我必须说，教书是所有职业中最有价值的。
+**林恩·惠特姆：** 我的职业生涯丰富多彩，做过很多不同的事情，但我必须说，教书是所有职业中最有价值的。
 
 \>\> LYN: I'VE HAD A VARIED CAREER AND HAVE DONE A LOT OF DIFFERENT
 THINGS BUT I HAVE TO SAY THAT TEACHING HAS BEEN THE MOST REWARDING OF
 ALL THE CAREERS.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>比和我一起在CBC工作40年更有价值？我非常失望。
+**史蒂夫·帕金：** 比和我一起在CBC工作40年更有价值？我非常失望。
 
 \>\> STEVE: MORE THAN WORKING WITH ME AT CBC FOR 40 YEARS AND VERY
 DISAPPOINTED.
 
-<span class="speaker-cn">林恩·惠特姆：</span>我爱CBC，也爱您。但我知道教书是最有价值的工作。我教过学位课程的学生，也教过已经拥有学位的学生，赋予他们生活中取得成功所需的技能。这让我感到非常满足。我和我所有的学生都保持联系，所以我能看到他们在职业生涯中不断前进。我为他们所有人感到非常骄傲。我的使命就是赋予他们职业成功所需的技能，我对此非常认真。
+**林恩·惠特姆：** 我爱CBC，也爱您。但我知道教书是最有价值的工作。我教过学位课程的学生，也教过已经拥有学位的学生，赋予他们生活中取得成功所需的技能。这让我感到非常满足。我和我所有的学生都保持联系，所以我能看到他们在职业生涯中不断前进。我为他们所有人感到非常骄傲。我的使命就是赋予他们职业成功所需的技能，我对此非常认真。
 
 \>\> LYN: I LOVE THE CBC IN YOU. BUT I KNOW IT'S BEEN THE MOST REWARDING
 WORK SO I HAVE TAUGHT STUDENTS AND THE DEGREE PROGRAM I HAVE TAUGHT
@@ -172,20 +147,18 @@ SEE THEM NAVIGATE THEIR WAY THROUGH THEIR CAREERS. I'M VERY PROUD OF ALL
 OF THEM. IN MY MISSION IS TO GIVE THEM THE SKILLS TO BE SUCCESSFUL IN
 THEIR CAREERS AND I TAKE THAT VERY SERIOUSLY.
 
-
-
-## <span class="lang-title">EN</span>Challenges and "University Creep" <span class="lang-title">ZH</span>挑战与“大学化蔓延”
+## **EN Challenges and "University Creep"** **ZH 挑战与“大学化蔓延”**
 
 <div class="transcript-section">
 
-<span class="speaker-cn">史蒂夫·帕金：</span>Martin，我们邀请您来，因为您不属于这个体系；您可以从局外人的角度，谈谈在学院体系引入60年后的今天，您认为它是否成功。那么，您看到了什么？
+**史蒂夫·帕金：** Martin，我们邀请您来，因为您不属于这个体系；您可以从局外人的角度，谈谈在学院体系引入60年后的今天，您认为它是否成功。那么，您看到了什么？
 
 \>\> STEVE: YOU WE WANT YOU HERE BECAUSE YOU'RE NOT PART OF THE SYSTEM
 YOU CAN GIVE US AN OUTSIDER'S PERSPECTIVE ON HOW SUCCESSFUL OR NOT YOU
 FEEL THE COLLEGE SYSTEM IS 60 YEARS TO THE DAY. SINCE IS WAS INTRODUCED
 SO WHAT YOU SEE.
 
-<span class="speaker-cn">马丁·雷格·科恩：</span>非常成功。我们听到了很多积极的评价。但是比尔·戴维斯提出的问题，他面临的挑战，是介于高中和大学之间的某种东西。所以学院做了很多伟大的事情，但它们不可能做所有的事情。我认为这是它们今天面临的挑战。如果你想想几年前我写了篇文章后，一位学院教授对我说的话，他说：“大学是教学生‘为什么’，而学院应该是教‘怎么做’。”这听起来可能有点严厉或局限。但是这些年来，学院出现了许多“大学化蔓延”的现象。结果可能是它们有些操之过急了，也因此面临一些限制和挑战。
+**马丁·雷格·科恩：** 非常成功。我们听到了很多积极的评价。但是比尔·戴维斯提出的问题，他面临的挑战，是介于高中和大学之间的某种东西。所以学院做了很多伟大的事情，但它们不可能做所有的事情。我认为这是它们今天面临的挑战。如果你想想几年前我写了篇文章后，一位学院教授对我说的话，他说：“大学是教学生‘为什么’，而学院应该是教‘怎么做’。”这听起来可能有点严厉或局限。但是这些年来，学院出现了许多“大学化蔓延”的现象。结果可能是它们有些操之过急了，也因此面临一些限制和挑战。
 
 \>\> SPEAKER: AMAZINGLY SUCCESSFUL WERE HEARING A LOT OF GOOD THINGS BUT
 THE QUESTION THAT BILL DAVIS RAISED HIS CHALLENGE WAS SOMETHING BETWEEN
@@ -199,14 +172,14 @@ UNIVERSITY CREEP BY COLLEGES OVER THE YEARS THEY MAY HAVE GOTTEN AHEAD
 OF THEIR SKIS AS A RESULT AND THERE WAS A LITTLE BIT OF CONSTRAINT AND
 CHALLENGE THAT THEY'RE FACING.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>我可以告诉您，比尔·戴维斯过去常常打电话给时任省长的凯瑟琳·韦恩说：“不要再让学院变成大学了。”它们都在努力变得更像大学。你们现在授予的是学位，而不是文凭。
+**史蒂夫·帕金：** 我可以告诉您，比尔·戴维斯过去常常打电话给时任省长的凯瑟琳·韦恩说：“不要再让学院变成大学了。”它们都在努力变得更像大学。你们现在授予的是学位，而不是文凭。
 
 \>\> STEVE: BILL DAVIS I CAN TELL YOU USED TO CALL KATHLEEN WYNNE WHEN
 SHE WAS PREMIER AND SAY DON'T LET ANY MORE COLLEGES BECOME UNIVERSITIES
 THEY'RE ALL TRYING TO BECOME A LITTLE BIT MORE LIKE THAT. YOU'RE GIVING
 DEGREES OUT AS OPPOSED TO DIPLOMAS.
 
-<span class="speaker-cn">安·玛丽·沃恩：</span>是的。我们提供的与大学的体验非常不同。现在很多大学生转向我们的领域，因为他们想要一些应用经验，以便进入劳动力市场。所以我们提供的每一个学位都与劳动力市场的需求高度契合。在进入学院领域之前，我在大学工作了20年。我们提供的内容和方式与大学领域有很大不同。这并不意味着任何一方的价值较低。这对学生来说是一种不同的体验。
+**安·玛丽·沃恩：** 是的。我们提供的与大学的体验非常不同。现在很多大学生转向我们的领域，因为他们想要一些应用经验，以便进入劳动力市场。所以我们提供的每一个学位都与劳动力市场的需求高度契合。在进入学院领域之前，我在大学工作了20年。我们提供的内容和方式与大学领域有很大不同。这并不意味着任何一方的价值较低。这对学生来说是一种不同的体验。
 
 \>\> SPEAKER: WE ARE, WHAT WERE OFFERING IS VERY DIFFERENT THAN WHAT THE
 UNIVERSITY EXPERIENCE IS SO MANY UNIVERSITY STUDENTS TURNED TO OUR
@@ -218,27 +191,27 @@ DIFFERENCE AND WHAT WE OFFER AND HOW WE OFFER IT VERSUS WHAT THE
 UNIVERSITY SECTOR DOES. AND IT DOESN'T MEAN THAT IT'S ANY LESS VALUE OF
 EITHER. IT'S A DIFFERENT EXPERIENCE FOR STUDENTS.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>我正想说。
+**史蒂夫·帕金：** 我正想说。
 
 \>\> STEVE: I WAS GOING TO SAY.
 
-<span class="speaker-cn">莫琳·亚当森：</span>这是一条通往就业的道路。
+**莫琳·亚当森：** 这是一条通往就业的道路。
 
 \>&: IT IS A PATHWAY TO EMPLOYMENT.
 
-<span class="speaker-cn">林恩·惠特姆：</span>大学也在蚕食学院的领域。这是一个双向的操作。你会看到越来越多的应用型证书出现在学位中，证书课程也在取代学院所做的事情。所以双方都在受到侵蚀。
+**林恩·惠特姆：** 大学也在蚕食学院的领域。这是一个双向的操作。你会看到越来越多的应用型证书出现在学位中，证书课程也在取代学院所做的事情。所以双方都在受到侵蚀。
 
 \>\> LYN: THE UNIVERSITIES ARE ENCROACHING ON WHAT THE COLLEGES DO AS
 WELL, IT'S A TWO-WAY OPERATION YOU'RE SEEING MORE APPLIED CERTIFICATES
 IN THE BREEZE AND CERTIFICATES TAKING OVER WHAT THE COLLEGES DO SO THERE
 IS A CORROSION ON BOTH SIDES.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>不过，回到Martin的观点，如果双方都，请原谅我用这个表达，各司其职，这对安大略省是最好的吗？
+**史蒂夫·帕金：** 不过，回到Martin的观点，如果双方都，请原谅我用这个表达，各司其职，这对安大略省是最好的吗？
 
 \>\> STEVE: TO MARTIN'S POINT THOUGH. IS THAT BEST FOR THE PROVINCE OF
 ONTARIO ELITE SIDE FORGIVE THIS EXPRESSION STICKS TO ITS KNITTING.
 
-<span class="speaker-cn">安·玛丽·沃恩：</span>我认为我们的经济已经改变，我们的技术发展如此迅速，坦率地说，那种分界线已经不再可行或有益。我认为教育是一个连续体。你可以在学院开始，然后在大学或其他学院获得学位。我认为我们需要灵活应变，而学院在应对劳动力市场需求和我们每天面临的新技术方面非常灵活。
+**安·玛丽·沃恩：** 我认为我们的经济已经改变，我们的技术发展如此迅速，坦率地说，那种分界线已经不再可行或有益。我认为教育是一个连续体。你可以在学院开始，然后在大学或其他学院获得学位。我认为我们需要灵活应变，而学院在应对劳动力市场需求和我们每天面临的新技术方面非常灵活。
 
 \>\> SPEAKER: I THINK THAT OUR ECONOMY HAS CHANGED OUR TECHNOLOGY HAS
 CHANGED SO RAPIDLY THAT THAT SORT OF A DIVIDER IS NO LONGER FEASIBLE OR
@@ -248,21 +221,21 @@ THINK WE NEED TO BE NIMBLE AND COLLEGES ARE VERY NIMBLE IN TERMS OF
 BEING ABLE TO RESPOND TO LABOUR MARKET NEEDS. IN THE NEW TECHNOLOGIES
 THAT WERE FACING EVERY DAY.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>事实上，我20年前就听说过一件事：人们上大学，拿到学位，然后去学院，因为在学会批判性思考之后，他们想从事一些更注重职业发展的事情。这种情况很多。
+**史蒂夫·帕金：** 事实上，我20年前就听说过一件事：人们上大学，拿到学位，然后去学院，因为在学会批判性思考之后，他们想从事一些更注重职业发展的事情。这种情况很多。
 
 \>\> STEVE: IN FACT, ONE OF THE THINGS I HEARD 20 YEARS AGO. PEOPLE
 GOING TO UNIVERSITIES GETTING THEIR DEGREE AND THEN GOING TO COLLEGE
 BECAUSE NOW THAT THEY'VE LEARNED HOW TO THINK CRITICALLY THEY WANTED TO
 GET INTO SOMETHING MORE CAREER FOCUS A LOT OF THAT.
 
-<span class="speaker-cn">莫琳·亚当森：</span>今天仍在发生。有很多这样的情况，而且正如他们所说，最终进入学院和大学，反之亦然。但是，你无法取代学院为毕业生提供的、使他们能够完全胜任工作的学习内容。
+**莫琳·亚当森：** 今天仍在发生。有很多这样的情况，而且正如他们所说，最终进入学院和大学，反之亦然。但是，你无法取代学院为毕业生提供的、使他们能够完全胜任工作的学习内容。
 
 \>\> SPEAKER: HAPPENING TODAY THERE'S LOTS OF THAT HAPPENING AND TO
 THEIR POINT AND ENDING COLLEGES AND UNIVERSITIES IN THE OTHER WAY
 AROUND. BUT YOU CANNOT REPLACE THE LEARNING THAT IS PROVIDED OUT OF
 COLLEGE FOR GRADUATES TO BE ABSOLUTELY JAILBREAKING.
 
-<span class="speaker-cn">马丁·雷格·科恩：</span>这正好回应了您刚才说的。如果你想想魁北克多年前宣布的CEGEP（普通与职业教育学院）体系，人们先进入CEGEP，然后进入大学。这其中存在一些转换。我们现在讨论的，就是这种灰色地带。你听到关于学院“大学化蔓延”的说法，我愿意为此“挡枪”，并提出一些异议。先上大学，然后通过学院这个更具针对性、更贴近就业的“进修学校”来完成学业，这不失为一种有益的途径。但毫无疑问，学院确实存在“大学化蔓延”的现象。这其中也有原因，那就是大学能从学生身上获得更多资金，更容易维持现金流。我们今天会谈到各种各样的财政和政治扭曲。但当学院和大学开始变得一样时，比尔·戴维斯的使命就改变了。
+**马丁·雷格·科恩：** 这正好回应了您刚才说的。如果你想想魁北克多年前宣布的CEGEP（普通与职业教育学院）体系，人们先进入CEGEP，然后进入大学。这其中存在一些转换。我们现在讨论的，就是这种灰色地带。你听到关于学院“大学化蔓延”的说法，我愿意为此“挡枪”，并提出一些异议。先上大学，然后通过学院这个更具针对性、更贴近就业的“进修学校”来完成学业，这不失为一种有益的途径。但毫无疑问，学院确实存在“大学化蔓延”的现象。这其中也有原因，那就是大学能从学生身上获得更多资金，更容易维持现金流。我们今天会谈到各种各样的财政和政治扭曲。但当学院和大学开始变得一样时，比尔·戴维斯的使命就改变了。
 
 \>\> SPEAKER: AND THAT'S A QUICK POINT TO WHAT YOU WERE SAYING. IF YOU
 THINK ABOUT THE QUEBEC SYSTEM OF SEIZURE THAT WAS ANNOUNCED MANY YEARS
@@ -278,13 +251,11 @@ ALL SORTS OF FINANCIAL AND POLITICAL DISTORTIONS WE WILL TALK ABOUT
 TODAY. BUT WHEN COLLEGES AND UNIVERSITIES START TO BE THE SAME BILL
 DAVIS' MISSION IS CHANGED.
 
-
-
-## <span class="lang-title">EN</span>The Impact of International Students and Funding Gaps <span class="lang-title">ZH</span>国际学生的影响与资金缺口
+## **EN The Impact of International Students and Funding Gaps** **ZH 国际学生的影响与资金缺口**
 
 <div class="transcript-section">
 
-<span class="speaker-cn">史蒂夫·帕金：</span>让我们谈谈这个，Lynn，我想听听您的看法。因为这些年来我和人们谈论过这个问题，并且我们在引言中也暗示过，人们看到学院体系目前发生的一些事情引起了极大的关注。不如就从您开始，您能否告诉我们，与您10-12年前刚开始教书时相比，您现在在一线教学中有什么不同的体验？区别是什么？
+**史蒂夫·帕金：** 让我们谈谈这个，Lynn，我想听听您的看法。因为这些年来我和人们谈论过这个问题，并且我们在引言中也暗示过，人们看到学院体系目前发生的一些事情引起了极大的关注。不如就从您开始，您能否告诉我们，与您10-12年前刚开始教书时相比，您现在在一线教学中有什么不同的体验？区别是什么？
 
 \>\> STEVE: LET'S, LYNN I WANT TO BRING YOU IN ON THIS. BECAUSE TO THE
 EXTENT THAT I'VE TALKED TO PEOPLE OVER THE YEARS OVER THIS. AND WE
@@ -295,7 +266,7 @@ FRONT LINE EXPERIENCE IS WITH WHAT YOU MIGHT HAVE PERHAPS BEEN ABLE TO
 DO 10-12 YEARS AGO WHEN YOU FIRST STARTED TEACHING VERSUS TODAY WAS A
 DIFFERENCE.
 
-<span class="speaker-cn">林恩·惠特姆：</span>学生不同了。我们面临国际学生上限的问题。疫情之后，进入系统的国际学生数量问题变得更加尖锐。而且我相信，可以肯定地说，存在滥用现象。在招生方面存在滥用，一些国家的招生中介将学生送到这里的学院。一些学生利用学院系统和教育作为获得加拿大移民身份的途径，他们对教育的投入可能没有应有的那么强烈。学院鼓励招收国际学生是因为存在资金缺口。
+**林恩·惠特姆：** 学生不同了。我们面临国际学生上限的问题。疫情之后，进入系统的国际学生数量问题变得更加尖锐。而且我相信，可以肯定地说，存在滥用现象。在招生方面存在滥用，一些国家的招生中介将学生送到这里的学院。一些学生利用学院系统和教育作为获得加拿大移民身份的途径，他们对教育的投入可能没有应有的那么强烈。学院鼓励招收国际学生是因为存在资金缺口。
 
 \>\> SPEAKER: THE STUDENTS ARE DIFFERENT. SO WE HAVE THE ISSUE OF THE
 INTERNATIONAL STUDENT CAP. AND AFTER THE PANDEMIC IT BECAME EVEN MORE
@@ -307,13 +278,13 @@ WAY TO GET IMMIGRATION STATUS IN CANADA AND THEIR COMMITMENT TO
 EDUCATION MAY NOT HAVE BEEN AS STRONG AS IT SHOULD HAVE BEEN. COLLEGES
 ENCOURAGE INTERNATIONAL STUDENTS BECAUSE OF THE FUNDING GAP.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>他们支付更高的学费。
+史蒂夫·帕金：他们支付更高的学费。
 
-\>\> STEVE: THEY PAY MORE.
+>> STEVE: THEY PAY MORE.
 
-<span class="speaker-cn">林恩·惠特姆：</span>他们支付的费用要高得多。而且存在巨大的资金缺口。从学院刚成立时，以及比尔·戴维斯对学院的设想（我认为非常出色）来看，学院大约80%的预算资金来自政府拨款。如今，这个比例在20%左右。所以想想这80%的缺口。因此，国际学生填补了这个财政缺口。问题是，他们对此并不那么感兴趣。其中一些人并不那么感兴趣。有些学生非常出色。他们中的一些人，很多人都是非常优秀的学生，渴望学有所成，并希望留在加拿大做出贡献，但另一些人只是将其视为进入移民系统的通行证。
+林恩·惠特姆：他们支付的费用要高得多。而且存在巨大的资金缺口。从学院刚成立时，以及比尔·戴维斯对学院的设想（我认为非常出色）来看，学院大约80%的预算资金来自政府拨款。如今，这个比例在20%左右。所以想想这80%的缺口。因此，国际学生填补了这个财政缺口。问题是，他们对此并不那么感兴趣。其中一些人并不那么感兴趣。有些学生非常出色。他们中的一些人，很多人都是非常优秀的学生，渴望学有所成，并希望留在加拿大做出贡献，但另一些人只是将其视为进入移民系统的通行证。
 
-\>\> SPEAKER: THEY PAY MUCH MORE AND THERE IS A SIGNIFICANT FUNDING GAP.
+>> SPEAKER: THEY PAY MUCH MORE AND THERE IS A SIGNIFICANT FUNDING GAP.
 ANYWHERE FROM WHEN THE COLLEGES STARTED AND BILL DAVIS IS VISION FOR
 COLLEGES WHICH I THINK IS BRILLIANT. COLLEGES WERE BEING FUNDED AROUND
 80 PERCENT OF THEIR BUDGET DOLLARS. TODAY IT'S IN THE 20 PERCENT RANGE.
@@ -326,16 +297,16 @@ BUT OTHERS JUST THOUGHT OF IT AS A PASS TO THE IMMIGRATION SYSTEM.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>看，我很理解今天在座的三位都在这个体系中谋生，你们热爱这个体系，是这个体系的拥护者。但我在想，对外国学生的依赖以及他们为了进入这个体系而支付的三倍或四倍的学费，是否导致了某些扭曲现象的发生，或者导致了一些问题未能得到解决。Maureen，您怎么看？
 
-\>\> STEVE: LOOK AT, I APPRECIATE THAT THREE OF YOU HERE TODAY MAKE YOUR
+>> STEVE: LOOK AT, I APPRECIATE THAT THREE OF YOU HERE TODAY MAKE YOUR
 LIVING IN THE SYSTEM YOU LOVE THE SYSTEM YOU ARE CHAMPIONS OF THE
 SYSTEM. BUT I WONDER WHETHER OR NOT THE RELIANCE ON FOREIGN STUDENTS AND
 THE TRIPLE OR QUADRUPLE TUITIONS THAT THEY HAVE. IN ORDER TO BE IN THE
 SYSTEM HAVE ALLOWED CERTAIN DISTORTIONS AND EITHER DISTORTIONS TO HAPPEN
 OR PROBLEMS UNMET TO TAKE PLACE MORE RAIN WHAT YOU THINK.
 
-<span class="speaker-cn">莫琳·亚当森：</span>我必须说，认为学生来这里是为了其他原因而滥用这个系统，这是一个相当宽泛的说法。我相信会有例外，但是学院在教育类型、学生必须遵守才能获准进入安大略省乃至加拿大任何一所学院的标准方面，拥有一个非常健全的质量框架。而且你知道，这个框架非常健全。学院是否不得不依赖国际收入？绝对是。在没有省政府其他资金来源的情况下，只有几种收入来源，国际学生是其中之一。
+莫琳·亚当森：我必须说，认为学生来这里是为了其他原因而滥用这个系统，这是一个相当宽泛的说法。我相信会有例外，但是学院在教育类型、学生必须遵守才能获准进入安大略省乃至加拿大任何一所学院的标准方面，拥有一个非常健全的质量框架。而且你知道，这个框架非常健全。学院是否不得不依赖国际收入？绝对是。在没有省政府其他资金来源的情况下，只有几种收入来源，国际学生是其中之一。
 
-\>\> MAUREEN: I HAVE TO SAY THAT IT IS A PRETTY BROAD SYSTEM TO SAY THAT
+>> MAUREEN: I HAVE TO SAY THAT IT IS A PRETTY BROAD SYSTEM TO SAY THAT
 STUDENTS CAME HERE TO ABUSE THE SYSTEM FOR OTHERS REASONS AND I'M SURE
 THIS OTHER EXCEPTIONS BUT COLLEGES HAVE A VERY ROBUST QUALITY FRAMEWORK
 AROUND THE TYPES OF EDUCATION, THE KINDS OF STANDARDS THAT STUDENTS HAVE
@@ -345,17 +316,17 @@ HAVE TO RELY ON INTERNATIONAL REVENUES ABSOLUTELY. IN THE ABSENCE OF
 OTHER FUNDING THROUGH THE PROVINCE THERE ARE ONLY SEVERAL REVENUE
 STREAMS AND INTERNATIONALS ONE OF THEM.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>那么让我接着说。联邦政府已经关闭了国际学生这个“水龙头”，所以你们没有了这部分收入。省政府，也就是进步保守党政府，已经冻结学费7年了，所以你们也没有那部分收入。你们现在的情况如何？
+**史蒂夫·帕金：** 那么让我接着说。联邦政府已经关闭了国际学生这个“水龙头”，所以你们没有了这部分收入。省政府，也就是进步保守党政府，已经冻结学费7年了，所以你们也没有那部分收入。你们现在的情况如何？
 
-\>\> STEVE: SO LET ME PICK UP ON IT SO THIS BIG OF INTERNATIONAL
+>> STEVE: SO LET ME PICK UP ON IT SO THIS BIG OF INTERNATIONAL
 STUDENTS HAS BEEN TURNED OFF BY THE FEDERAL GOVERNMENT SO YOU KNOW HOW
 THAT REVENUE. THE PROVINCE HAS FROZEN TUITION FOR 7 YEARS THE
 PROGRESSIVE CONSERVATIVE GOVERNMENT SO YOU DON'T HAVE THAT REVENUE HOUSE
 CHAPTER YOU RIGHT NOW.
 
-<span class="speaker-cn">安·玛丽·沃恩：</span>汉博学院可能是一个特例。从去年到今年，我们的国际学生数量没有下降。我们确实预计会出现下降，仅仅是因为政府签证的批准率。但我们并非国际学生入学率超过50%的院校之一；我们的比例是38%。所以我想说的是，国际学生的保留率更高，毕业率也更高，所以这些学生实际上表现得相当不错。他们绝大多数是带着明确的目标来到这里，并且在我们的体系中表现出色。并且填补了劳动力市场急需的岗位。当你查看毕业生的就业率时，毕业后6个月的就业率远超80%。雇主满意率也超过90%。
+安·玛丽·沃恩：汉博学院可能是一个特例。从去年到今年，我们的国际学生数量没有下降。我们确实预计会出现下降，仅仅是因为政府签证的批准率。但我们并非国际学生入学率超过50%的院校之一；我们的比例是38%。所以我想说的是，国际学生的保留率更高，毕业率也更高，所以这些学生实际上表现得相当不错。他们绝大多数是带着明确的目标来到这里，并且在我们的体系中表现出色。并且填补了劳动力市场急需的岗位。当你查看毕业生的就业率时，毕业后6个月的就业率远超80%。雇主满意率也超过90%。
 
-\>\> SPEAKER: HUMBER MAYBE AN ANOMALY WE DIDN'T HAVE A DROP IN
+>> SPEAKER: HUMBER MAYBE AN ANOMALY WE DIDN'T HAVE A DROP IN
 INTERNATIONAL STUDENTS FROM LAST YEAR TO THIS YEAR. WE DO EXPECT WE WILL
 SEE A DROP SIMPLY BECAUSE OF THE APPROVAL RATES FOR VISAS COMING FROM
 THE GOVERNMENT. BUT WE WERE NOT ONE OF THE INSTITUTIONS THAT HAD OVER 50
@@ -370,15 +341,15 @@ SATISFACTION RATES WAS OVER 90 PERCENT.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>如果说我听到了一件事，那就是学费冻结加上外国学生（他们支付比国内学生高得多的学费）数量的减少，导致这个体系不再能够完成60年前设定的使命。这是对还是错？
 
-\>\> STEVE: IF THERE'S ONE THING AND HERE IS THAT THE TUITION FEES PLUS
+>> STEVE: IF THERE'S ONE THING AND HERE IS THAT THE TUITION FEES PLUS
 THE REDUCTION IN FOREIGN STUDENTS PAYING THE MUCH HIGHER THAN DOMESTIC
 STUDENT TUITIONS HAS RESULTED IN A SYSTEM THAT IS NO LONGER ABLE TO
 FULFILL THE MISSION THAT IT HAD SET OUT TO DO 60 YEARS AGO. TRUE OR
 FALSE?
 
-<span class="speaker-cn">安·玛丽·沃恩：</span>我不认为事情这么简单。并非我们没有完成使命。我们确实在继续完成我们的使命。这并不意味着我们没有经历财务挑战。而且这并非一蹴而就。加拿大联邦政府对高等教育的资助减少始于90年代末。我实际上在90年代末就以这个主题写了我的硕士论文。所以我们现在看到的是一个长期以来发生的侵蚀，历经多个政党参与加拿大和安大略省高等教育的融资。您说得对。我们的资金依赖于学费或政府拨款。但我们在加拿大确实有一个公共政策目标，即学生为其教育经历付费，政府也付费。所以我认为这是我们需要在安大略省进行的更广泛的公共政策讨论。这不仅仅是学院领域的问题；它也影响到大学领域。这是一个我们需要进行的更广泛的对话。
+安·玛丽·沃恩：我不认为事情这么简单。并非我们没有完成使命。我们确实在继续完成我们的使命。这并不意味着我们没有经历财务挑战。而且这并非一蹴而就。加拿大联邦政府对高等教育的资助减少始于90年代末。我实际上在90年代末就以这个主题写了我的硕士论文。所以我们现在看到的是一个长期以来发生的侵蚀，历经多个政党参与加拿大和安大略省高等教育的融资。您说得对。我们的资金依赖于学费或政府拨款。但我们在加拿大确实有一个公共政策目标，即学生为其教育经历付费，政府也付费。所以我认为这是我们需要在安大略省进行的更广泛的公共政策讨论。这不仅仅是学院领域的问题；它也影响到大学领域。这是一个我们需要进行的更广泛的对话。
 
-\>\> ANNE: I DON'T THINK IT'S AS SIMPLE AS THAT IS NOT THAT WERE NOT
+>> ANNE: I DON'T THINK IT'S AS SIMPLE AS THAT IS NOT THAT WERE NOT
 FULFILLING THE MISSION WE REALLY ARE CONTINUING TO FULFILL OUR MISSION
 IS NOT MEANING THAT WERE NOT GOING THROUGH FINANCIAL CHALLENGES. AND
 THIS DIDN'T HAPPEN OVERNIGHT. THE DECLINE AND FEDERAL FUNDING FOR HIGHER
@@ -394,41 +365,659 @@ WIDER PUBLIC POLICY DISCUSSION THAT WE HAVE TO HAVE IN ONTARIO. IT'S NOT
 JUST A COLLEGE SECTOR IT ALSO IMPACTS THE UNIVERSITY SECTOR AND IT'S A
 WIDER CONVERSATION WE NEED TO HAVE.
 
-<span class="speaker-cn">马丁·雷格·科恩：</span>那么，不指责任何人，国际学生是否只是抓住了现有的机会？节目开始时，大家都说汉博学院和其他大学服务本地社区是最令人满意的目标。而当正如您指出的，超过50%的学生来自海外，他们并非来自本地社区。这就产生了一种扭曲。
+**马丁·雷格·科恩：** 这正好回应了您刚才说的。如果你想想魁北克多年前宣布的CEGEP（普通与职业教育学院）体系，人们先进入CEGEP，然后进入大学。这其中存在一些转换。我们现在讨论的，就是这种灰色地带。你听到关于学院“大学化蔓延”的说法，我愿意为此“挡枪”，并提出一些异议。先上大学，然后通过学院这个更具针对性、更贴近就业的“进修学校”来完成学业，这不失为一种有益的途径。但毫无疑问，学院确实存在“大学化蔓延”的现象。这其中也有原因，那就是大学能从学生身上获得更多资金，更容易维持现金流。我们今天会谈到各种各样的财政和政治扭曲。但当学院和大学开始变得一样时，比尔·戴维斯的使命就改变了。
 
-\>\> SPEAKER: SO WITHOUT POINTING THE FINGER OF BLAME AT ANYONE HERE ARE
-INTERNATIONAL STUDENTS WHO ARE JUST SEIZING THE OPPORTUNITY THAT WAS
-MADE OF IT. ON THE ONSET OF THE SHOW EVERYBODY SAID THAT HUMBER ANOTHER
-UNIVERSITIES SERVING THE LOCAL COMMUNITY IS THE MOST SATISFYING
-OBJECTIVE, AND WHEN YOU HAVE AS YOU POINTED OUT, MORE THAN 50 PERCENT OF
-THE STUDENT BODY COMING FROM OVERSEAS ARE NOT FROM THE LOCAL COMMUNITY
-YOU HAVE A DISTORTION.
+\>\> SPEAKER: AND THAT'S A QUICK POINT TO WHAT YOU WERE SAYING. IF YOU
+THINK ABOUT THE QUEBEC SYSTEM OF SEIZURE THAT WAS ANNOUNCED MANY YEARS
+AGO PEOPLE GO INTO THAT AND THEN UNIVERSITY AND THERE ARE SOME
+CONVERSIONS IS WHAT WERE ALL TALKING ABOUT SORT OF THAT GRAIN YOU HEAR
+ABOUT UNIVERSITY CREEP AND I THROW MYSELF ON THAT GRENADE FOR YOU AND
+TAKE SOME IS USEFUL TO GO TO UNIVERSITY AND FINISH OFF WITH A MORE
+SPECIFIC JOB SENSITIVE FINISHING SCHOOL AS IT WERE OUT OF COLLEGE, BUT
+THERE'S NO QUESTION THAT THERE HAS BEEN UNIVERSITY CREEP BY THE COLLEGES
+AND THERE'S A REASON FOR THAT AS WELL, WHICH IS THE UNIVERSITIES GET
+MORE MONEY FOR STUDENTS IT'S EASIER TO FINANCE THE CASH FLOW. THERE'S
+ALL SORTS OF FINANCIAL AND POLITICAL DISTORTIONS WE WILL TALK ABOUT
+TODAY. BUT WHEN COLLEGES AND UNIVERSITIES START TO BE THE SAME BILL
+DAVIS' MISSION IS CHANGED.
 
-<span class="speaker-cn">史蒂夫·帕金：</span>在汉博学院情况并非如此。
+## **EN The Impact of International Students and Funding Gaps** **ZH 国际学生的影响与资金缺口**
 
-\>\> STEVE: THAT'S NOT THE CASE AT HUMBER.
+<div class="transcript-section">
 
-<span class="speaker-cn">马丁·雷格·科恩：</span>汉博学院是个例外，但你们是35%……汉博学院是35%，但您说过其他大学、学院通常超过50%。塞内卡学院，你随便挑一所学院等等，很多学院的国际学生比例都在50-70-80%。这很惊人。如果你想想比尔·戴维斯多年前的设想，服务本地社区，满足省内经济的需求。所以，您说得对，几十年来资金模式一直在稳步受到侵蚀，无论是医疗保险、健康还是教育。关于危机，我认为我们应该谈谈，那就是7年前学费冻结时出现的问题。这打开了引进外国学生的闸门，比以前更多。也带来了许多扭曲。看，我上大学的时候，国际学生是我职业生涯的亮点。但凡事过犹不及。所以在我那个年代，我和他们一起玩。但他们最多只占学生总数的10%。所以在服务社区的本地服务中心存在一种扭曲，我认为这是个问题。而且大学将外国学生视为，请原谅我用这个词，摇钱树，也存在各种资金问题。
+**史蒂夫·帕金：** 让我们谈谈这个，Lynn，我想听听您的看法。因为这些年来我和人们谈论过这个问题，并且我们在引言中也暗示过，人们看到学院体系目前发生的一些事情引起了极大的关注。不如就从您开始，您能否告诉我们，与您10-12年前刚开始教书时相比，您现在在一线教学中有什么不同的体验？区别是什么？
 
-\>\> SPEAKER: HUMBER BEING THE EXCEPTION BUT YOU'RE AT 35 HUMBER IS THAT
-35 BUT YOU SAID OTHER UNIVERSITIES, COLLEGES ARE TYPICALLY OVER 50
-PERCENT SENECA YOU PICK ANY COLLEGE ET CETERA A LOT OF THEM ARE AT
-50-SEVENTY-8N STUDENTS IS REMARKABLE EVERY THINK WHAT BILL DAVIS' VISION
-WAS ALL THOSE YEARS AGO SERVING THE LOCAL COMMUNITY MEETING THE NEEDS OF
-THE PROVINCIAL ECONOMY. AND SO, YOU'RE RIGHT THAT THERE HAS BEEN A
-STEADY EROSION OF FUNDING MODELS OVER THE DECADES WHETHER IT'S MEDICARE
-HEALTH EDUCATION, ABOUT THE CRISIS WHICH I THINK WE SHOULD TALK ABOUT IS
-WHAT A ROAST WHEN THERE WAS A TUITION FEE IS 7-YEARS AGO. SO THAT OPEN
-THE SPIGOT TO BRINGING IN FOREIGN STUDENTS FOR MORE THAN BEFORE AND MANY
-DISTORTIONS, LOOK WHEN I WAS IN UNIVERSITY THE INTERNATIONAL STUDENTS
-WERE THE HIGHLIGHT OF MY CAREER. YOU CAN HAVE TOO MUCH OF A GOOD THING.
-SO IN MY DAY, I HUNG OUT WITH THEM. BUT THERE WERE 10 PERCENT OF THE
-STUDENT BODY AT MOST. SO THERE IS A DISTORTION AT THE LOCAL SERVICE
-CENTRE SERVING THE COMMUNITY WHICH I THINK IT'S A PROBLEM AND THERE'S
-ALL KINDS OF FUNDING ISSUES WITH UNIVERSITIES SEEING FOREIGN STUDENTS AS
-FORGIVING CASH COWS.
+\>\> STEVE: LET'S, LYNN I WANT TO BRING YOU IN ON THIS. BECAUSE TO THE
+EXTENT THAT I'VE TALKED TO PEOPLE OVER THE YEARS OVER THIS. AND WE
+HINTED AT THIS IN THE INTRODUCTION. PEOPLE ARE SEEING THINGS HAPPENING
+RIGHT NOW IN THE COLLEGE SYSTEM THAT'S CAUSING A GREAT DEAL OF CONCERN.
+WHY DON'T I JUST START WITH YOU AND YOU TELL US WHAT YOUR FIRST HAND
+FRONT LINE EXPERIENCE IS WITH WHAT YOU MIGHT HAVE PERHAPS BEEN ABLE TO
+DO 10-12 YEARS AGO WHEN YOU FIRST STARTED TEACHING VERSUS TODAY WAS A
+DIFFERENCE.
 
+**林恩·惠特姆：** 学生不同了。我们面临国际学生上限的问题。疫情之后，进入系统的国际学生数量问题变得更加尖锐。而且我相信，可以肯定地说，存在滥用现象。在招生方面存在滥用，一些国家的招生中介将学生送到这里的学院。一些学生利用学院系统和教育作为获得加拿大移民身份的途径，他们对教育的投入可能没有应有的那么强烈。学院鼓励招收国际学生是因为存在资金缺口。
 
+\>\> SPEAKER: THE STUDENTS ARE DIFFERENT. SO WE HAVE THE ISSUE OF THE
+INTERNATIONAL STUDENT CAP. AND AFTER THE PANDEMIC IT BECAME EVEN MORE
+ACUTE, THE NUMBER OF INTERNATIONAL STUDENTS THAT HAD COME INTO THE
+SYSTEM. AND IT'S SAFE TO SAY I BELIEVE THAT THERE WERE ABUSES THERE WERE
+ABUSES IN TERMS OF RECRUITERS IN COUNTRIES GETTING THOSE STUDENTS TO THE
+COLLEGES HERE. SOME STUDENTS USE THE COLLEGE SYSTEM AND EDUCATION AS A
+WAY TO GET IMMIGRATION STATUS IN CANADA AND THEIR COMMITMENT TO
+EDUCATION MAY NOT HAVE BEEN AS STRONG AS IT SHOULD HAVE BEEN. COLLEGES
+ENCOURAGE INTERNATIONAL STUDENTS BECAUSE OF THE FUNDING GAP.
+
+史蒂夫·帕金：他们支付更高的学费。
+
+>> STEVE: THEY PAY MORE.
+
+林恩·惠特姆：他们支付的费用要高得多。而且存在巨大的资金缺口。从学院刚成立时，以及比尔·戴维斯对学院的设想（我认为非常出色）来看，学院大约80%的预算资金来自政府拨款。如今，这个比例在20%左右。所以想想这80%的缺口。因此，国际学生填补了这个财政缺口。问题是，他们对此并不那么感兴趣。其中一些人并不那么感兴趣。有些学生非常出色。他们中的一些人，很多人都是非常优秀的学生，渴望学有所成，并希望留在加拿大做出贡献，但另一些人只是将其视为进入移民系统的通行证。
+
+>> SPEAKER: THEY PAY MUCH MORE AND THERE IS A SIGNIFICANT FUNDING GAP.
+ANYWHERE FROM WHEN THE COLLEGES STARTED AND BILL DAVIS IS VISION FOR
+COLLEGES WHICH I THINK IS BRILLIANT. COLLEGES WERE BEING FUNDED AROUND
+80 PERCENT OF THEIR BUDGET DOLLARS. TODAY IT'S IN THE 20 PERCENT RANGE.
+SO THINK ABOUT THAT 80 PERCENT GAP THAT EXISTS AND SO THE INTERNATIONAL
+STUDENTS WERE FEELING THAT FINANCIAL GAP. THE PROBLEM WAS THAT THEY
+WEREN'T THAT INTERESTED. AND SOME OF THEM WERE NOT THAT INTERESTED IN
+SOME OF THEM WERE TERRIFIC. SOME OF THEM, MANY OF THEM ARE EXTRAORDINARY
+STUDENTS AND WANT TO DO WELL AND WANT TO STAY IN CANADA AND CONTRIBUTE
+BUT OTHERS JUST THOUGHT OF IT AS A PASS TO THE IMMIGRATION SYSTEM.
+
+<span class="speaker-cn">史蒂夫·帕金：</span>看，我很理解今天在座的三位都在这个体系中谋生，你们热爱这个体系，是这个体系的拥护者。但我在想，对外国学生的依赖以及他们为了进入这个体系而支付的三倍或四倍的学费，是否导致了某些扭曲现象的发生，或者导致了一些问题未能得到解决。Maureen，您怎么看？
+
+>> STEVE: LOOK AT, I APPRECIATE THAT THREE OF YOU HERE TODAY MAKE YOUR
+LIVING IN THE SYSTEM YOU LOVE THE SYSTEM YOU ARE CHAMPIONS OF THE
+SYSTEM. BUT I WONDER WHETHER OR NOT THE RELIANCE ON FOREIGN STUDENTS AND
+THE TRIPLE OR QUADRUPLE TUITIONS THAT THEY HAVE. IN ORDER TO BE IN THE
+SYSTEM HAVE ALLOWED CERTAIN DISTORTIONS AND EITHER DISTORTIONS TO HAPPEN
+OR PROBLEMS UNMET TO TAKE PLACE MORE RAIN WHAT YOU THINK.
+
+莫琳·亚当森：我必须说，认为学生来这里是为了其他原因而滥用这个系统，这是一个相当宽泛的说法。我相信会有例外，但是学院在教育类型、学生必须遵守才能获准进入安大略省乃至加拿大任何一所学院的标准方面，拥有一个非常健全的质量框架。而且你知道，这个框架非常健全。学院是否不得不依赖国际收入？绝对是。在没有省政府其他资金来源的情况下，只有几种收入来源，国际学生是其中之一。
+
+>> MAUREEN: I HAVE TO SAY THAT IT IS A PRETTY BROAD SYSTEM TO SAY THAT
+STUDENTS CAME HERE TO ABUSE THE SYSTEM FOR OTHERS REASONS AND I'M SURE
+THIS OTHER EXCEPTIONS BUT COLLEGES HAVE A VERY ROBUST QUALITY FRAMEWORK
+AROUND THE TYPES OF EDUCATION, THE KINDS OF STANDARDS THAT STUDENTS HAVE
+TO COMPLY WITH TO BE APPROVED TO COME TO A COLLEGE IN ONTARIO AND IN
+CANADA FOR THAT MATTER. AND YOU KNOW, THAT WAS VERY ROBUST HAVE COLLEGES
+HAVE TO RELY ON INTERNATIONAL REVENUES ABSOLUTELY. IN THE ABSENCE OF
+OTHER FUNDING THROUGH THE PROVINCE THERE ARE ONLY SEVERAL REVENUE
+STREAMS AND INTERNATIONALS ONE OF THEM.
+
+**史蒂夫·帕金：** 那么让我接着说。联邦政府已经关闭了国际学生这个“水龙头”，所以你们没有了这部分收入。省政府，也就是进步保守党政府，已经冻结学费7年了，所以你们也没有那部分收入。你们现在的情况如何？
+
+>> STEVE: SO LET ME PICK UP ON IT SO THIS BIG OF INTERNATIONAL
+STUDENTS HAS BEEN TURNED OFF BY THE FEDERAL GOVERNMENT SO YOU KNOW HOW
+THAT REVENUE. THE PROVINCE HAS FROZEN TUITION FOR 7 YEARS THE
+PROGRESSIVE CONSERVATIVE GOVERNMENT SO YOU DON'T HAVE THAT REVENUE HOUSE
+CHAPTER YOU RIGHT NOW.
+
+安·玛丽·沃恩：汉博学院可能是一个特例。从去年到今年，我们的国际学生数量没有下降。我们确实预计会出现下降，仅仅是因为政府签证的批准率。但我们并非国际学生入学率超过50%的院校之一；我们的比例是38%。所以我想说的是，国际学生的保留率更高，毕业率也更高，所以这些学生实际上表现得相当不错。他们绝大多数是带着明确的目标来到这里，并且在我们的体系中表现出色。并且填补了劳动力市场急需的岗位。当你查看毕业生的就业率时，毕业后6个月的就业率远超80%。雇主满意率也超过90%。
+
+>> SPEAKER: HUMBER MAYBE AN ANOMALY WE DIDN'T HAVE A DROP IN
+INTERNATIONAL STUDENTS FROM LAST YEAR TO THIS YEAR. WE DO EXPECT WE WILL
+SEE A DROP SIMPLY BECAUSE OF THE APPROVAL RATES FOR VISAS COMING FROM
+THE GOVERNMENT. BUT WE WERE NOT ONE OF THE INSTITUTIONS THAT HAD OVER 50
+PERCENT INTERNATIONAL ENROLMENT WE HAD 38 PERCENT CORRECT. SO I WOULD
+SAY TO YOU IS THAT INTERNATIONAL STUDENTS HAD A HIGHER RETENTION RATE
+THEY HAD A HIGHER GRADUATION RATE SO THE STUDENTS WERE ACTUALLY
+PERFORMING QUITE WELL. THEY CAME HERE WITH THE MISSION OF MIND, THE VAST
+MAJORITY. AND THEY EXCELLED IN OUR SYSTEM. AND FAILING MUCH NEEDED JOBS
+IN THE LABOUR FORCE WHEN YOU LOOK AT THE GRADUATION OUR EMPLOYMENT
+RATES, WELL OVER 80 PERCENT 6 MONTHS OUT OF GRADUATION. AND THE EMPLOYER
+SATISFACTION RATES WAS OVER 90 PERCENT.
+
+史蒂夫·帕金：如果说我听到了一件事，那就是学费冻结加上外国学生（他们支付比国内学生高得多的学费）数量的减少，导致这个体系不再能够完成60年前设定的使命。这是对还是错？
+
+>> STEVE: IF THERE'S ONE THING AND HERE IS THAT THE TUITION FEES PLUS
+THE REDUCTION IN FOREIGN STUDENTS PAYING THE MUCH HIGHER THAN DOMESTIC
+STUDENT TUITIONS HAS RESULTED IN A SYSTEM THAT IS NO LONGER ABLE TO
+FULFILL THE MISSION THAT IT HAD SET OUT TO DO 60 YEARS AGO. TRUE OR
+FALSE?
+
+安·玛丽·沃恩：我不认为事情这么简单。并非我们没有完成使命。我们确实在继续完成我们的使命。这并不意味着我们没有经历财务挑战。而且这并非一蹴而就。加拿大联邦政府对高等教育的资助减少始于90年代末。我实际上在90年代末就以这个主题写了我的硕士论文。所以我们现在看到的是一个长期以来发生的侵蚀，历经多个政党参与加拿大和安大略省高等教育的融资。您说得对。我们的资金依赖于学费或政府拨款。但我们在加拿大确实有一个公共政策目标，即学生为其教育经历付费，政府也付费。所以我认为这是我们需要在安大略省进行的更广泛的公共政策讨论。这不仅仅是学院领域的问题；它也影响到大学领域。这是一个我们需要进行的更广泛的对话。
+
+>> ANNE: I DON'T THINK IT'S AS SIMPLE AS THAT IS NOT THAT WERE NOT
+FULFILLING THE MISSION WE REALLY ARE CONTINUING TO FULFILL OUR MISSION
+IS NOT MEANING THAT WERE NOT GOING THROUGH FINANCIAL CHALLENGES. AND
+THIS DIDN'T HAPPEN OVERNIGHT. THE DECLINE AND FEDERAL FUNDING FOR HIGHER
+EDUCATION IN CANADA STARTED IN THE LATE '90s I ACTUALLY DID MY MASTERS
+THESIS ON THIS TOPIC IN THE LATE '90s. SO WHAT WERE SEEING NOW IS IN
+EROSION THAT HAS TAKEN PLACE OVER A LONG PERIOD OF TIME OVER MULTIPLE
+POLITICAL PARTIES THAT HAVE BEEN INVOLVED IN THE FINANCING OF HIGHER
+EDUCATION IN CANADA AND ONTARIO. AND YOU'RE RIGHT. THERE WERE DEPENDENT
+ON EITHER TUITION OR GOVERNMENT GRANTS FOR OUR FUNDING. BUT WE DO HAVE A
+PUBLIC POLICY OBJECTIVE IN CANADA THAT STUDENTS PAID TOWARDS THEIR
+EDUCATIONAL EXPERIENCE AND GOVERNMENT PAY AND SO I THINK THAT THIS IS A
+WIDER PUBLIC POLICY DISCUSSION THAT WE HAVE TO HAVE IN ONTARIO. IT'S NOT
+JUST A COLLEGE SECTOR IT ALSO IMPACTS THE UNIVERSITY SECTOR AND IT'S A
+WIDER CONVERSATION WE NEED TO HAVE.
+
+**马丁·雷格·科恩：** 这正好回应了您刚才说的。如果你想想魁北克多年前宣布的CEGEP（普通与职业教育学院）体系，人们先进入CEGEP，然后进入大学。这其中存在一些转换。我们现在讨论的，就是这种灰色地带。你听到关于学院“大学化蔓延”的说法，我愿意为此“挡枪”，并提出一些异议。先上大学，然后通过学院这个更具针对性、更贴近就业的“进修学校”来完成学业，这不失为一种有益的途径。但毫无疑问，学院确实存在“大学化蔓延”的现象。这其中也有原因，那就是大学能从学生身上获得更多资金，更容易维持现金流。我们今天会谈到各种各样的财政和政治扭曲。但当学院和大学开始变得一样时，比尔·戴维斯的使命就改变了。
+
+\>\> SPEAKER: AND THAT'S A QUICK POINT TO WHAT YOU WERE SAYING. IF YOU
+THINK ABOUT THE QUEBEC SYSTEM OF SEIZURE THAT WAS ANNOUNCED MANY YEARS
+AGO PEOPLE GO INTO THAT AND THEN UNIVERSITY AND THERE ARE SOME
+CONVERSIONS IS WHAT WERE ALL TALKING ABOUT SORT OF THAT GRAIN YOU HEAR
+ABOUT UNIVERSITY CREEP AND I THROW MYSELF ON THAT GRENADE FOR YOU AND
+TAKE SOME IS USEFUL TO GO TO UNIVERSITY AND FINISH OFF WITH A MORE
+SPECIFIC JOB SENSITIVE FINISHING SCHOOL AS IT WERE OUT OF COLLEGE, BUT
+THERE'S NO QUESTION THAT THERE HAS BEEN UNIVERSITY CREEP BY THE COLLEGES
+AND THERE'S A REASON FOR THAT AS WELL, WHICH IS THE UNIVERSITIES GET
+MORE MONEY FOR STUDENTS IT'S EASIER TO FINANCE THE CASH FLOW. THERE'S
+ALL SORTS OF FINANCIAL AND POLITICAL DISTORTIONS WE WILL TALK ABOUT
+TODAY. BUT WHEN COLLEGES AND UNIVERSITIES START TO BE THE SAME BILL
+DAVIS' MISSION IS CHANGED.
+
+## **EN The Impact of International Students and Funding Gaps** **ZH 国际学生的影响与资金缺口**
+
+<div class="transcript-section">
+
+**史蒂夫·帕金：** 让我们谈谈这个，Lynn，我想听听您的看法。因为这些年来我和人们谈论过这个问题，并且我们在引言中也暗示过，人们看到学院体系目前发生的一些事情引起了极大的关注。不如就从您开始，您能否告诉我们，与您10-12年前刚开始教书时相比，您现在在一线教学中有什么不同的体验？区别是什么？
+
+\>\> STEVE: LET'S, LYNN I WANT TO BRING YOU IN ON THIS. BECAUSE TO THE
+EXTENT THAT I'VE TALKED TO PEOPLE OVER THE YEARS OVER THIS. AND WE
+HINTED AT THIS IN THE INTRODUCTION. PEOPLE ARE SEEING THINGS HAPPENING
+RIGHT NOW IN THE COLLEGE SYSTEM THAT'S CAUSING A GREAT DEAL OF CONCERN.
+WHY DON'T I JUST START WITH YOU AND YOU TELL US WHAT YOUR FIRST HAND
+FRONT LINE EXPERIENCE IS WITH WHAT YOU MIGHT HAVE PERHAPS BEEN ABLE TO
+DO 10-12 YEARS AGO WHEN YOU FIRST STARTED TEACHING VERSUS TODAY WAS A
+DIFFERENCE.
+
+**林恩·惠特姆：** 学生不同了。我们面临国际学生上限的问题。疫情之后，进入系统的国际学生数量问题变得更加尖锐。而且我相信，可以肯定地说，存在滥用现象。在招生方面存在滥用，一些国家的招生中介将学生送到这里的学院。一些学生利用学院系统和教育作为获得加拿大移民身份的途径，他们对教育的投入可能没有应有的那么强烈。学院鼓励招收国际学生是因为存在资金缺口。
+
+\>\> SPEAKER: THE STUDENTS ARE DIFFERENT. SO WE HAVE THE ISSUE OF THE
+INTERNATIONAL STUDENT CAP. AND AFTER THE PANDEMIC IT BECAME EVEN MORE
+ACUTE, THE NUMBER OF INTERNATIONAL STUDENTS THAT HAD COME INTO THE
+SYSTEM. AND IT'S SAFE TO SAY I BELIEVE THAT THERE WERE ABUSES THERE WERE
+ABUSES IN TERMS OF RECRUITERS IN COUNTRIES GETTING THOSE STUDENTS TO THE
+COLLEGES HERE. SOME STUDENTS USE THE COLLEGE SYSTEM AND EDUCATION AS A
+WAY TO GET IMMIGRATION STATUS IN CANADA AND THEIR COMMITMENT TO
+EDUCATION MAY NOT HAVE BEEN AS STRONG AS IT SHOULD HAVE BEEN. COLLEGES
+ENCOURAGE INTERNATIONAL STUDENTS BECAUSE OF THE FUNDING GAP.
+
+史蒂夫·帕金：他们支付更高的学费。
+
+>> STEVE: THEY PAY MORE.
+
+林恩·惠特姆：他们支付的费用要高得多。而且存在巨大的资金缺口。从学院刚成立时，以及比尔·戴维斯对学院的设想（我认为非常出色）来看，学院大约80%的预算资金来自政府拨款。如今，这个比例在20%左右。所以想想这80%的缺口。因此，国际学生填补了这个财政缺口。问题是，他们对此并不那么感兴趣。其中一些人并不那么感兴趣。有些学生非常出色。他们中的一些人，很多人都是非常优秀的学生，渴望学有所成，并希望留在加拿大做出贡献，但另一些人只是将其视为进入移民系统的通行证。
+
+>> SPEAKER: THEY PAY MUCH MORE AND THERE IS A SIGNIFICANT FUNDING GAP.
+ANYWHERE FROM WHEN THE COLLEGES STARTED AND BILL DAVIS IS VISION FOR
+COLLEGES WHICH I THINK IS BRILLIANT. COLLEGES WERE BEING FUNDED AROUND
+80 PERCENT OF THEIR BUDGET DOLLARS. TODAY IT'S IN THE 20 PERCENT RANGE.
+SO THINK ABOUT THAT 80 PERCENT GAP THAT EXISTS AND SO THE INTERNATIONAL
+STUDENTS WERE FEELING THAT FINANCIAL GAP. THE PROBLEM WAS THAT THEY
+WEREN'T THAT INTERESTED. AND SOME OF THEM WERE NOT THAT INTERESTED IN
+SOME OF THEM WERE TERRIFIC. SOME OF THEM, MANY OF THEM ARE EXTRAORDINARY
+STUDENTS AND WANT TO DO WELL AND WANT TO STAY IN CANADA AND CONTRIBUTE
+BUT OTHERS JUST THOUGHT OF IT AS A PASS TO THE IMMIGRATION SYSTEM.
+
+<span class="speaker-cn">史蒂夫·帕金：</span>看，我很理解今天在座的三位都在这个体系中谋生，你们热爱这个体系，是这个体系的拥护者。但我在想，对外国学生的依赖以及他们为了进入这个体系而支付的三倍或四倍的学费，是否导致了某些扭曲现象的发生，或者导致了一些问题未能得到解决。Maureen，您怎么看？
+
+>> STEVE: LOOK AT, I APPRECIATE THAT THREE OF YOU HERE TODAY MAKE YOUR
+LIVING IN THE SYSTEM YOU LOVE THE SYSTEM YOU ARE CHAMPIONS OF THE
+SYSTEM. BUT I WONDER WHETHER OR NOT THE RELIANCE ON FOREIGN STUDENTS AND
+THE TRIPLE OR QUADRUPLE TUITIONS THAT THEY HAVE. IN ORDER TO BE IN THE
+SYSTEM HAVE ALLOWED CERTAIN DISTORTIONS AND EITHER DISTORTIONS TO HAPPEN
+OR PROBLEMS UNMET TO TAKE PLACE MORE RAIN WHAT YOU THINK.
+
+莫琳·亚当森：我必须说，认为学生来这里是为了其他原因而滥用这个系统，这是一个相当宽泛的说法。我相信会有例外，但是学院在教育类型、学生必须遵守才能获准进入安大略省乃至加拿大任何一所学院的标准方面，拥有一个非常健全的质量框架。而且你知道，这个框架非常健全。学院是否不得不依赖国际收入？绝对是。在没有省政府其他资金来源的情况下，只有几种收入来源，国际学生是其中之一。
+
+>> MAUREEN: I HAVE TO SAY THAT IT IS A PRETTY BROAD SYSTEM TO SAY THAT
+STUDENTS CAME HERE TO ABUSE THE SYSTEM FOR OTHERS REASONS AND I'M SURE
+THIS OTHER EXCEPTIONS BUT COLLEGES HAVE A VERY ROBUST QUALITY FRAMEWORK
+AROUND THE TYPES OF EDUCATION, THE KINDS OF STANDARDS THAT STUDENTS HAVE
+TO COMPLY WITH TO BE APPROVED TO COME TO A COLLEGE IN ONTARIO AND IN
+CANADA FOR THAT MATTER. AND YOU KNOW, THAT WAS VERY ROBUST HAVE COLLEGES
+HAVE TO RELY ON INTERNATIONAL REVENUES ABSOLUTELY. IN THE ABSENCE OF
+OTHER FUNDING THROUGH THE PROVINCE THERE ARE ONLY SEVERAL REVENUE
+STREAMS AND INTERNATIONALS ONE OF THEM.
+
+**史蒂夫·帕金：** 那么让我接着说。联邦政府已经关闭了国际学生这个“水龙头”，所以你们没有了这部分收入。省政府，也就是进步保守党政府，已经冻结学费7年了，所以你们也没有那部分收入。你们现在的情况如何？
+
+>> STEVE: SO LET ME PICK UP ON IT SO THIS BIG OF INTERNATIONAL
+STUDENTS HAS BEEN TURNED OFF BY THE FEDERAL GOVERNMENT SO YOU KNOW HOW
+THAT REVENUE. THE PROVINCE HAS FROZEN TUITION FOR 7 YEARS THE
+PROGRESSIVE CONSERVATIVE GOVERNMENT SO YOU DON'T HAVE THAT REVENUE HOUSE
+CHAPTER YOU RIGHT NOW.
+
+安·玛丽·沃恩：汉博学院可能是一个特例。从去年到今年，我们的国际学生数量没有下降。我们确实预计会出现下降，仅仅是因为政府签证的批准率。但我们并非国际学生入学率超过50%的院校之一；我们的比例是38%。所以我想说的是，国际学生的保留率更高，毕业率也更高，所以这些学生实际上表现得相当不错。他们绝大多数是带着明确的目标来到这里，并且在我们的体系中表现出色。并且填补了劳动力市场急需的岗位。当你查看毕业生的就业率时，毕业后6个月的就业率远超80%。雇主满意率也超过90%。
+
+>> SPEAKER: HUMBER MAYBE AN ANOMALY WE DIDN'T HAVE A DROP IN
+INTERNATIONAL STUDENTS FROM LAST YEAR TO THIS YEAR. WE DO EXPECT WE WILL
+SEE A DROP SIMPLY BECAUSE OF THE APPROVAL RATES FOR VISAS COMING FROM
+THE GOVERNMENT. BUT WE WERE NOT ONE OF THE INSTITUTIONS THAT HAD OVER 50
+PERCENT INTERNATIONAL ENROLMENT WE HAD 38 PERCENT CORRECT. SO I WOULD
+SAY TO YOU IS THAT INTERNATIONAL STUDENTS HAD A HIGHER RETENTION RATE
+THEY HAD A HIGHER GRADUATION RATE SO THE STUDENTS WERE ACTUALLY
+PERFORMING QUITE WELL. THEY CAME HERE WITH THE MISSION OF MIND, THE VAST
+MAJORITY. AND THEY EXCELLED IN OUR SYSTEM. AND FAILING MUCH NEEDED JOBS
+IN THE LABOUR FORCE WHEN YOU LOOK AT THE GRADUATION OUR EMPLOYMENT
+RATES, WELL OVER 80 PERCENT 6 MONTHS OUT OF GRADUATION. AND THE EMPLOYER
+SATISFACTION RATES WAS OVER 90 PERCENT.
+
+史蒂夫·帕金：如果说我听到了一件事，那就是学费冻结加上外国学生（他们支付比国内学生高得多的学费）数量的减少，导致这个体系不再能够完成60年前设定的使命。这是对还是错？
+
+>> STEVE: IF THERE'S ONE THING AND HERE IS THAT THE TUITION FEES PLUS
+THE REDUCTION IN FOREIGN STUDENTS PAYING THE MUCH HIGHER THAN DOMESTIC
+STUDENT TUITIONS HAS RESULTED IN A SYSTEM THAT IS NO LONGER ABLE TO
+FULFILL THE MISSION THAT IT HAD SET OUT TO DO 60 YEARS AGO. TRUE OR
+FALSE?
+
+安·玛丽·沃恩：我不认为事情这么简单。并非我们没有完成使命。我们确实在继续完成我们的使命。这并不意味着我们没有经历财务挑战。而且这并非一蹴而就。加拿大联邦政府对高等教育的资助减少始于90年代末。我实际上在90年代末就以这个主题写了我的硕士论文。所以我们现在看到的是一个长期以来发生的侵蚀，历经多个政党参与加拿大和安大略省高等教育的融资。您说得对。我们的资金依赖于学费或政府拨款。但我们在加拿大确实有一个公共政策目标，即学生为其教育经历付费，政府也付费。所以我认为这是我们需要在安大略省进行的更广泛的公共政策讨论。这不仅仅是学院领域的问题；它也影响到大学领域。这是一个我们需要进行的更广泛的对话。
+
+>> ANNE: I DON'T THINK IT'S AS SIMPLE AS THAT IS NOT THAT WERE NOT
+FULFILLING THE MISSION WE REALLY ARE CONTINUING TO FULFILL OUR MISSION
+IS NOT MEANING THAT WERE NOT GOING THROUGH FINANCIAL CHALLENGES. AND
+THIS DIDN'T HAPPEN OVERNIGHT. THE DECLINE AND FEDERAL FUNDING FOR HIGHER
+EDUCATION IN CANADA STARTED IN THE LATE '90s I ACTUALLY DID MY MASTERS
+THESIS ON THIS TOPIC IN THE LATE '90s. SO WHAT WERE SEEING NOW IS IN
+EROSION THAT HAS TAKEN PLACE OVER A LONG PERIOD OF TIME OVER MULTIPLE
+POLITICAL PARTIES THAT HAVE BEEN INVOLVED IN THE FINANCING OF HIGHER
+EDUCATION IN CANADA AND ONTARIO. AND YOU'RE RIGHT. THERE WERE DEPENDENT
+ON EITHER TUITION OR GOVERNMENT GRANTS FOR OUR FUNDING. BUT WE DO HAVE A
+PUBLIC POLICY OBJECTIVE IN CANADA THAT STUDENTS PAID TOWARDS THEIR
+EDUCATIONAL EXPERIENCE AND GOVERNMENT PAY AND SO I THINK THAT THIS IS A
+WIDER PUBLIC POLICY DISCUSSION THAT WE HAVE TO HAVE IN ONTARIO. IT'S NOT
+JUST A COLLEGE SECTOR IT ALSO IMPACTS THE UNIVERSITY SECTOR AND IT'S A
+WIDER CONVERSATION WE NEED TO HAVE.
+
+**马丁·雷格·科恩：** 这正好回应了您刚才说的。如果你想想魁北克多年前宣布的CEGEP（普通与职业教育学院）体系，人们先进入CEGEP，然后进入大学。这其中存在一些转换。我们现在讨论的，就是这种灰色地带。你听到关于学院“大学化蔓延”的说法，我愿意为此“挡枪”，并提出一些异议。先上大学，然后通过学院这个更具针对性、更贴近就业的“进修学校”来完成学业，这不失为一种有益的途径。但毫无疑问，学院确实存在“大学化蔓延”的现象。这其中也有原因，那就是大学能从学生身上获得更多资金，更容易维持现金流。我们今天会谈到各种各样的财政和政治扭曲。但当学院和大学开始变得一样时，比尔·戴维斯的使命就改变了。
+
+\>\> SPEAKER: AND THAT'S A QUICK POINT TO WHAT YOU WERE SAYING. IF YOU
+THINK ABOUT THE QUEBEC SYSTEM OF SEIZURE THAT WAS ANNOUNCED MANY YEARS
+AGO PEOPLE GO INTO THAT AND THEN UNIVERSITY AND THERE ARE SOME
+CONVERSIONS IS WHAT WERE ALL TALKING ABOUT SORT OF THAT GRAIN YOU HEAR
+ABOUT UNIVERSITY CREEP AND I THROW MYSELF ON THAT GRENADE FOR YOU AND
+TAKE SOME IS USEFUL TO GO TO UNIVERSITY AND FINISH OFF WITH A MORE
+SPECIFIC JOB SENSITIVE FINISHING SCHOOL AS IT WERE OUT OF COLLEGE, BUT
+THERE'S NO QUESTION THAT THERE HAS BEEN UNIVERSITY CREEP BY THE COLLEGES
+AND THERE'S A REASON FOR THAT AS WELL, WHICH IS THE UNIVERSITIES GET
+MORE MONEY FOR STUDENTS IT'S EASIER TO FINANCE THE CASH FLOW. THERE'S
+ALL SORTS OF FINANCIAL AND POLITICAL DISTORTIONS WE WILL TALK ABOUT
+TODAY. BUT WHEN COLLEGES AND UNIVERSITIES START TO BE THE SAME BILL
+DAVIS' MISSION IS CHANGED.
+
+## **EN The Impact of International Students and Funding Gaps** **ZH 国际学生的影响与资金缺口**
+
+<div class="transcript-section">
+
+**史蒂夫·帕金：** 让我们谈谈这个，Lynn，我想听听您的看法。因为这些年来我和人们谈论过这个问题，并且我们在引言中也暗示过，人们看到学院体系目前发生的一些事情引起了极大的关注。不如就从您开始，您能否告诉我们，与您10-12年前刚开始教书时相比，您现在在一线教学中有什么不同的体验？区别是什么？
+
+\>\> STEVE: LET'S, LYNN I WANT TO BRING YOU IN ON THIS. BECAUSE TO THE
+EXTENT THAT I'VE TALKED TO PEOPLE OVER THE YEARS OVER THIS. AND WE
+HINTED AT THIS IN THE INTRODUCTION. PEOPLE ARE SEEING THINGS HAPPENING
+RIGHT NOW IN THE COLLEGE SYSTEM THAT'S CAUSING A GREAT DEAL OF CONCERN.
+WHY DON'T I JUST START WITH YOU AND YOU TELL US WHAT YOUR FIRST HAND
+FRONT LINE EXPERIENCE IS WITH WHAT YOU MIGHT HAVE PERHAPS BEEN ABLE TO
+DO 10-12 YEARS AGO WHEN YOU FIRST STARTED TEACHING VERSUS TODAY WAS A
+DIFFERENCE.
+
+**林恩·惠特姆：** 学生不同了。我们面临国际学生上限的问题。疫情之后，进入系统的国际学生数量问题变得更加尖锐。而且我相信，可以肯定地说，存在滥用现象。在招生方面存在滥用，一些国家的招生中介将学生送到这里的学院。一些学生利用学院系统和教育作为获得加拿大移民身份的途径，他们对教育的投入可能没有应有的那么强烈。学院鼓励招收国际学生是因为存在资金缺口。
+
+\>\> SPEAKER: THE STUDENTS ARE DIFFERENT. SO WE HAVE THE ISSUE OF THE
+INTERNATIONAL STUDENT CAP. AND AFTER THE PANDEMIC IT BECAME EVEN MORE
+ACUTE, THE NUMBER OF INTERNATIONAL STUDENTS THAT HAD COME INTO THE
+SYSTEM. AND IT'S SAFE TO SAY I BELIEVE THAT THERE WERE ABUSES THERE WERE
+ABUSES IN TERMS OF RECRUITERS IN COUNTRIES GETTING THOSE STUDENTS TO THE
+COLLEGES HERE. SOME STUDENTS USE THE COLLEGE SYSTEM AND EDUCATION AS A
+WAY TO GET IMMIGRATION STATUS IN CANADA AND THEIR COMMITMENT TO
+EDUCATION MAY NOT HAVE BEEN AS STRONG AS IT SHOULD HAVE BEEN. COLLEGES
+ENCOURAGE INTERNATIONAL STUDENTS BECAUSE OF THE FUNDING GAP.
+
+史蒂夫·帕金：他们支付更高的学费。
+
+>> STEVE: THEY PAY MORE.
+
+林恩·惠特姆：他们支付的费用要高得多。而且存在巨大的资金缺口。从学院刚成立时，以及比尔·戴维斯对学院的设想（我认为非常出色）来看，学院大约80%的预算资金来自政府拨款。如今，这个比例在20%左右。所以想想这80%的缺口。因此，国际学生填补了这个财政缺口。问题是，他们对此并不那么感兴趣。其中一些人并不那么感兴趣。有些学生非常出色。他们中的一些人，很多人都是非常优秀的学生，渴望学有所成，并希望留在加拿大做出贡献，但另一些人只是将其视为进入移民系统的通行证。
+
+>> SPEAKER: THEY PAY MUCH MORE AND THERE IS A SIGNIFICANT FUNDING GAP.
+ANYWHERE FROM WHEN THE COLLEGES STARTED AND BILL DAVIS IS VISION FOR
+COLLEGES WHICH I THINK IS BRILLIANT. COLLEGES WERE BEING FUNDED AROUND
+80 PERCENT OF THEIR BUDGET DOLLARS. TODAY IT'S IN THE 20 PERCENT RANGE.
+SO THINK ABOUT THAT 80 PERCENT GAP THAT EXISTS AND SO THE INTERNATIONAL
+STUDENTS WERE FEELING THAT FINANCIAL GAP. THE PROBLEM WAS THAT THEY
+WEREN'T THAT INTERESTED. AND SOME OF THEM WERE NOT THAT INTERESTED IN
+SOME OF THEM WERE TERRIFIC. SOME OF THEM, MANY OF THEM ARE EXTRAORDINARY
+STUDENTS AND WANT TO DO WELL AND WANT TO STAY IN CANADA AND CONTRIBUTE
+BUT OTHERS JUST THOUGHT OF IT AS A PASS TO THE IMMIGRATION SYSTEM.
+
+<span class="speaker-cn">史蒂夫·帕金：</span>看，我很理解今天在座的三位都在这个体系中谋生，你们热爱这个体系，是这个体系的拥护者。但我在想，对外国学生的依赖以及他们为了进入这个体系而支付的三倍或四倍的学费，是否导致了某些扭曲现象的发生，或者导致了一些问题未能得到解决。Maureen，您怎么看？
+
+>> STEVE: LOOK AT, I APPRECIATE THAT THREE OF YOU HERE TODAY MAKE YOUR
+LIVING IN THE SYSTEM YOU LOVE THE SYSTEM YOU ARE CHAMPIONS OF THE
+SYSTEM. BUT I WONDER WHETHER OR NOT THE RELIANCE ON FOREIGN STUDENTS AND
+THE TRIPLE OR QUADRUPLE TUITIONS THAT THEY HAVE. IN ORDER TO BE IN THE
+SYSTEM HAVE ALLOWED CERTAIN DISTORTIONS AND EITHER DISTORTIONS TO HAPPEN
+OR PROBLEMS UNMET TO TAKE PLACE MORE RAIN WHAT YOU THINK.
+
+莫琳·亚当森：我必须说，认为学生来这里是为了其他原因而滥用这个系统，这是一个相当宽泛的说法。我相信会有例外，但是学院在教育类型、学生必须遵守才能获准进入安大略省乃至加拿大任何一所学院的标准方面，拥有一个非常健全的质量框架。而且你知道，这个框架非常健全。学院是否不得不依赖国际收入？绝对是。在没有省政府其他资金来源的情况下，只有几种收入来源，国际学生是其中之一。
+
+>> MAUREEN: I HAVE TO SAY THAT IT IS A PRETTY BROAD SYSTEM TO SAY THAT
+STUDENTS CAME HERE TO ABUSE THE SYSTEM FOR OTHERS REASONS AND I'M SURE
+THIS OTHER EXCEPTIONS BUT COLLEGES HAVE A VERY ROBUST QUALITY FRAMEWORK
+AROUND THE TYPES OF EDUCATION, THE KINDS OF STANDARDS THAT STUDENTS HAVE
+TO COMPLY WITH TO BE APPROVED TO COME TO A COLLEGE IN ONTARIO AND IN
+CANADA FOR THAT MATTER. AND YOU KNOW, THAT WAS VERY ROBUST HAVE COLLEGES
+HAVE TO RELY ON INTERNATIONAL REVENUES ABSOLUTELY. IN THE ABSENCE OF
+OTHER FUNDING THROUGH THE PROVINCE THERE ARE ONLY SEVERAL REVENUE
+STREAMS AND INTERNATIONALS ONE OF THEM.
+
+**史蒂夫·帕金：** 那么让我接着说。联邦政府已经关闭了国际学生这个“水龙头”，所以你们没有了这部分收入。省政府，也就是进步保守党政府，已经冻结学费7年了，所以你们也没有那部分收入。你们现在的情况如何？
+
+>> STEVE: SO LET ME PICK UP ON IT SO THIS BIG OF INTERNATIONAL
+STUDENTS HAS BEEN TURNED OFF BY THE FEDERAL GOVERNMENT SO YOU KNOW HOW
+THAT REVENUE. THE PROVINCE HAS FROZEN TUITION FOR 7 YEARS THE
+PROGRESSIVE CONSERVATIVE GOVERNMENT SO YOU DON'T HAVE THAT REVENUE HOUSE
+CHAPTER YOU RIGHT NOW.
+
+安·玛丽·沃恩：汉博学院可能是一个特例。从去年到今年，我们的国际学生数量没有下降。我们确实预计会出现下降，仅仅是因为政府签证的批准率。但我们并非国际学生入学率超过50%的院校之一；我们的比例是38%。所以我想说的是，国际学生的保留率更高，毕业率也更高，所以这些学生实际上表现得相当不错。他们绝大多数是带着明确的目标来到这里，并且在我们的体系中表现出色。并且填补了劳动力市场急需的岗位。当你查看毕业生的就业率时，毕业后6个月的就业率远超80%。雇主满意率也超过90%。
+
+>> SPEAKER: HUMBER MAYBE AN ANOMALY WE DIDN'T HAVE A DROP IN
+INTERNATIONAL STUDENTS FROM LAST YEAR TO THIS YEAR. WE DO EXPECT WE WILL
+SEE A DROP SIMPLY BECAUSE OF THE APPROVAL RATES FOR VISAS COMING FROM
+THE GOVERNMENT. BUT WE WERE NOT ONE OF THE INSTITUTIONS THAT HAD OVER 50
+PERCENT INTERNATIONAL ENROLMENT WE HAD 38 PERCENT CORRECT. SO I WOULD
+SAY TO YOU IS THAT INTERNATIONAL STUDENTS HAD A HIGHER RETENTION RATE
+THEY HAD A HIGHER GRADUATION RATE SO THE STUDENTS WERE ACTUALLY
+PERFORMING QUITE WELL. THEY CAME HERE WITH THE MISSION OF MIND, THE VAST
+MAJORITY. AND THEY EXCELLED IN OUR SYSTEM. AND FAILING MUCH NEEDED JOBS
+IN THE LABOUR FORCE WHEN YOU LOOK AT THE GRADUATION OUR EMPLOYMENT
+RATES, WELL OVER 80 PERCENT 6 MONTHS OUT OF GRADUATION. AND THE EMPLOYER
+SATISFACTION RATES WAS OVER 90 PERCENT.
+
+史蒂夫·帕金：如果说我听到了一件事，那就是学费冻结加上外国学生（他们支付比国内学生高得多的学费）数量的减少，导致这个体系不再能够完成60年前设定的使命。这是对还是错？
+
+>> STEVE: IF THERE'S ONE THING AND HERE IS THAT THE TUITION FEES PLUS
+THE REDUCTION IN FOREIGN STUDENTS PAYING THE MUCH HIGHER THAN DOMESTIC
+STUDENT TUITIONS HAS RESULTED IN A SYSTEM THAT IS NO LONGER ABLE TO
+FULFILL THE MISSION THAT IT HAD SET OUT TO DO 60 YEARS AGO. TRUE OR
+FALSE?
+
+安·玛丽·沃恩：我不认为事情这么简单。并非我们没有完成使命。我们确实在继续完成我们的使命。这并不意味着我们没有经历财务挑战。而且这并非一蹴而就。加拿大联邦政府对高等教育的资助减少始于90年代末。我实际上在90年代末就以这个主题写了我的硕士论文。所以我们现在看到的是一个长期以来发生的侵蚀，历经多个政党参与加拿大和安大略省高等教育的融资。您说得对。我们的资金依赖于学费或政府拨款。但我们在加拿大确实有一个公共政策目标，即学生为其教育经历付费，政府也付费。所以我认为这是我们需要在安大略省进行的更广泛的公共政策讨论。这不仅仅是学院领域的问题；它也影响到大学领域。这是一个我们需要进行的更广泛的对话。
+
+>> ANNE: I DON'T THINK IT'S AS SIMPLE AS THAT IS NOT THAT WERE NOT
+FULFILLING THE MISSION WE REALLY ARE CONTINUING TO FULFILL OUR MISSION
+IS NOT MEANING THAT WERE NOT GOING THROUGH FINANCIAL CHALLENGES. AND THIS DIDN'T HAPPEN OVERNIGHT. THE DECLINE AND FEDERAL FUNDING FOR HIGHER EDUCATION IN CANADA STARTED IN THE LATE '90s I ACTUALLY DID MY MASTERS THESIS ON THIS TOPIC IN THE LATE '90s. SO WHAT WERE SEEING NOW IS IN EROSION THAT HAS TAKEN PLACE OVER A LONG PERIOD OF TIME OVER MULTIPLE POLITICAL PARTIES THAT HAVE BEEN INVOLVED IN THE FINANCING OF HIGHER EDUCATION IN CANADA AND ONTARIO. AND YOU'RE RIGHT. THERE WERE DEPENDENT ON EITHER TUITION OR GOVERNMENT GRANTS FOR OUR FUNDING. BUT WE DO HAVE A PUBLIC POLICY OBJECTIVE IN CANADA THAT STUDENTS PAID TOWARDS THEIR EDUCATIONAL EXPERIENCE AND GOVERNMENT PAY AND SO I THINK THAT THIS IS A WIDER PUBLIC POLICY DISCUSSION THAT WE HAVE TO HAVE IN ONTARIO. IT'S NOT JUST A COLLEGE SECTOR IT ALSO IMPACTS THE UNIVERSITY SECTOR AND IT'S A WIDER CONVERSATION WE NEED TO HAVE.
+
+**马丁·雷格·科恩：** 这正好回应了您刚才说的。如果你想想魁北克多年前宣布的CEGEP（普通与职业教育学院）体系，人们先进入CEGEP，然后进入大学。这其中存在一些转换。我们现在讨论的，就是这种灰色地带。你听到关于学院“大学化蔓延”的说法，我愿意为此“挡枪”，并提出一些异议。先上大学，然后通过学院这个更具针对性、更贴近就业的“进修学校”来完成学业，这不失为一种有益的途径。但毫无疑问，学院确实存在“大学化蔓延”的现象。这其中也有原因，那就是大学能从学生身上获得更多资金，更容易维持现金流。我们今天会谈到各种各样的财政和政治扭曲。但当学院和大学开始变得一样时，比尔·戴维斯的使命就改变了。
+
+\>\> SPEAKER: AND THAT'S A QUICK POINT TO WHAT YOU WERE SAYING. IF YOU
+THINK ABOUT THE QUEBEC SYSTEM OF SEIZURE THAT WAS ANNOUNCED MANY YEARS
+AGO PEOPLE GO INTO THAT AND THEN UNIVERSITY AND THERE ARE SOME
+CONVERSIONS IS WHAT WERE ALL TALKING ABOUT SORT OF THAT GRAIN YOU HEAR
+ABOUT UNIVERSITY CREEP AND I THROW MYSELF ON THAT GRENADE FOR YOU AND
+TAKE SOME IS USEFUL TO GO TO UNIVERSITY AND FINISH OFF WITH A MORE
+SPECIFIC JOB SENSITIVE FINISHING SCHOOL AS IT WERE OUT OF COLLEGE, BUT
+THERE'S NO QUESTION THAT THERE HAS BEEN UNIVERSITY CREEP BY THE COLLEGES
+AND THERE'S A REASON FOR THAT AS WELL, WHICH IS THE UNIVERSITIES GET
+MORE MONEY FOR STUDENTS IT'S EASIER TO FINANCE THE CASH FLOW. THERE'S
+ALL SORTS OF FINANCIAL AND POLITICAL DISTORTIONS WE WILL TALK ABOUT
+TODAY. BUT WHEN COLLEGES AND UNIVERSITIES START TO BE THE SAME BILL
+DAVIS' MISSION IS CHANGED.
+
+## **EN The Impact of International Students and Funding Gaps** **ZH 国际学生的影响与资金缺口**
+
+<div class="transcript-section">
+
+**史蒂夫·帕金：** 让我们谈谈这个，Lynn，我想听听您的看法。因为这些年来我和人们谈论过这个问题，并且我们在引言中也暗示过，人们看到学院体系目前发生的一些事情引起了极大的关注。不如就从您开始，您能否告诉我们，与您10-12年前刚开始教书时相比，您现在在一线教学中有什么不同的体验？区别是什么？
+
+\>\> STEVE: LET'S, LYNN I WANT TO BRING YOU IN ON THIS. BECAUSE TO THE
+EXTENT THAT I'VE TALKED TO PEOPLE OVER THE YEARS OVER THIS. AND WE
+HINTED AT THIS IN THE INTRODUCTION. PEOPLE ARE SEEING THINGS HAPPENING
+RIGHT NOW IN THE COLLEGE SYSTEM THAT'S CAUSING A GREAT DEAL OF CONCERN.
+WHY DON'T I JUST START WITH YOU AND YOU TELL US WHAT YOUR FIRST HAND
+FRONT LINE EXPERIENCE IS WITH WHAT YOU MIGHT HAVE PERHAPS BEEN ABLE TO
+DO 10-12 YEARS AGO WHEN YOU FIRST STARTED TEACHING VERSUS TODAY WAS A
+DIFFERENCE.
+
+**林恩·惠特姆：** 学生不同了。我们面临国际学生上限的问题。疫情之后，进入系统的国际学生数量问题变得更加尖锐。而且我相信，可以肯定地说，存在滥用现象。在招生方面存在滥用，一些国家的招生中介将学生送到这里的学院。一些学生利用学院系统和教育作为获得加拿大移民身份的途径，他们对教育的投入可能没有应有的那么强烈。学院鼓励招收国际学生是因为存在资金缺口。
+
+\>\> SPEAKER: THE STUDENTS ARE DIFFERENT. SO WE HAVE THE ISSUE OF THE
+INTERNATIONAL STUDENT CAP. AND AFTER THE PANDEMIC IT BECAME EVEN MORE
+ACUTE, THE NUMBER OF INTERNATIONAL STUDENTS THAT HAD COME INTO THE
+SYSTEM. AND IT'S SAFE TO SAY I BELIEVE THAT THERE WERE ABUSES THERE WERE
+ABUSES IN TERMS OF RECRUITERS IN COUNTRIES GETTING THOSE STUDENTS TO THE
+COLLEGES HERE. SOME STUDENTS USE THE COLLEGE SYSTEM AND EDUCATION AS A
+WAY TO GET IMMIGRATION STATUS IN CANADA AND THEIR COMMITMENT TO
+EDUCATION MAY NOT HAVE BEEN AS STRONG AS IT SHOULD HAVE BEEN. COLLEGES
+ENCOURAGE INTERNATIONAL STUDENTS BECAUSE OF THE FUNDING GAP.
+
+史蒂夫·帕金：他们支付更高的学费。
+
+>> STEVE: THEY PAY MORE.
+
+林恩·惠特姆：他们支付的费用要高得多。而且存在巨大的资金缺口。从学院刚成立时，以及比尔·戴维斯对学院的设想（我认为非常出色）来看，学院大约80%的预算资金来自政府拨款。如今，这个比例在20%左右。所以想想这80%的缺口。因此，国际学生填补了这个财政缺口。问题是，他们对此并不那么感兴趣。其中一些人并不那么感兴趣。有些学生非常出色。他们中的一些人，很多人都是非常优秀的学生，渴望学有所成，并希望留在加拿大做出贡献，但另一些人只是将其视为进入移民系统的通行证。
+
+>> SPEAKER: THEY PAY MUCH MORE AND THERE IS A SIGNIFICANT FUNDING GAP.
+ANYWHERE FROM WHEN THE COLLEGES STARTED AND BILL DAVIS IS VISION FOR
+COLLEGES WHICH I THINK IS BRILLIANT. COLLEGES WERE BEING FUNDED AROUND
+80 PERCENT OF THEIR BUDGET DOLLARS. TODAY IT'S IN THE 20 PERCENT RANGE.
+SO THINK ABOUT THAT 80 PERCENT GAP THAT EXISTS AND SO THE INTERNATIONAL
+STUDENTS WERE FEELING THAT FINANCIAL GAP. THE PROBLEM WAS THAT THEY
+WEREN'T THAT INTERESTED. AND SOME OF THEM WERE NOT THAT INTERESTED IN
+SOME OF THEM WERE TERRIFIC. SOME OF THEM, MANY OF THEM ARE EXTRAORDINARY
+STUDENTS AND WANT TO DO WELL AND WANT TO STAY IN CANADA AND CONTRIBUTE
+BUT OTHERS JUST THOUGHT OF IT AS A PASS TO THE IMMIGRATION SYSTEM.
+
+<span class="speaker-cn">史蒂夫·帕金：</span>看，我很理解今天在座的三位都在这个体系中谋生，你们热爱这个体系，是这个体系的拥护者。但我在想，对外国学生的依赖以及他们为了进入这个体系而支付的三倍或四倍的学费，是否导致了某些扭曲现象的发生，或者导致了一些问题未能得到解决。Maureen，您怎么看？
+
+>> STEVE: LOOK AT, I APPRECIATE THAT THREE OF YOU HERE TODAY MAKE YOUR
+LIVING IN THE SYSTEM YOU LOVE THE SYSTEM YOU ARE CHAMPIONS OF THE
+SYSTEM. BUT I WONDER WHETHER OR NOT THE RELIANCE ON FOREIGN STUDENTS AND
+THE TRIPLE OR QUADRUPLE TUITIONS THAT THEY HAVE. IN ORDER TO BE IN THE
+SYSTEM HAVE ALLOWED CERTAIN DISTORTIONS AND EITHER DISTORTIONS TO HAPPEN
+OR PROBLEMS UNMET TO TAKE PLACE MORE RAIN WHAT YOU THINK.
+
+莫琳·亚当森：我必须说，认为学生来这里是为了其他原因而滥用这个系统，这是一个相当宽泛的说法。我相信会有例外，但是学院在教育类型、学生必须遵守才能获准进入安大略省乃至加拿大任何一所学院的标准方面，拥有一个非常健全的质量框架。而且你知道，这个框架非常健全。学院是否不得不依赖国际收入？绝对是。在没有省政府其他资金来源的情况下，只有几种收入来源，国际学生是其中之一。
+
+>> MAUREEN: I HAVE TO SAY THAT IT IS A PRETTY BROAD SYSTEM TO SAY THAT
+STUDENTS CAME HERE TO ABUSE THE SYSTEM FOR OTHERS REASONS AND I'M SURE
+THIS OTHER EXCEPTIONS BUT COLLEGES HAVE A VERY ROBUST QUALITY FRAMEWORK
+AROUND THE TYPES OF EDUCATION, THE KINDS OF STANDARDS THAT STUDENTS HAVE
+TO COMPLY WITH TO BE APPROVED TO COME TO A COLLEGE IN ONTARIO AND IN
+CANADA FOR THAT MATTER. AND YOU KNOW, THAT WAS VERY ROBUST HAVE COLLEGES
+HAVE TO RELY ON INTERNATIONAL REVENUES ABSOLUTELY. IN THE ABSENCE OF
+OTHER FUNDING THROUGH THE PROVINCE THERE ARE ONLY SEVERAL REVENUE
+STREAMS AND INTERNATIONALS ONE OF THEM.
+
+**史蒂夫·帕金：** 那么让我接着说。联邦政府已经关闭了国际学生这个“水龙头”，所以你们没有了这部分收入。省政府，也就是进步保守党政府，已经冻结学费7年了，所以你们也没有那部分收入。你们现在的情况如何？
+
+>> STEVE: SO LET ME PICK UP ON IT SO THIS BIG OF INTERNATIONAL
+STUDENTS HAS BEEN TURNED OFF BY THE FEDERAL GOVERNMENT SO YOU KNOW HOW
+THAT REVENUE. THE PROVINCE HAS FROZEN TUITION FOR 7 YEARS THE
+PROGRESSIVE CONSERVATIVE GOVERNMENT SO YOU DON'T HAVE THAT REVENUE HOUSE
+CHAPTER YOU RIGHT NOW.
+
+安·玛丽·沃恩：汉博学院可能是一个特例。从去年到今年，我们的国际学生数量没有下降。我们确实预计会出现下降，仅仅是因为政府签证的批准率。但我们并非国际学生入学率超过50%的院校之一；我们的比例是38%。所以我想说的是，国际学生的保留率更高，毕业率也更高，所以这些学生实际上表现得相当不错。他们绝大多数是带着明确的目标来到这里，并且在我们的体系中表现出色。并且填补了劳动力市场急需的岗位。当你查看毕业生的就业率时，毕业后6个月的就业率远超80%。雇主满意率也超过90%。
+
+>> SPEAKER: HUMBER MAYBE AN ANOMALY WE DIDN'T HAVE A DROP IN
+INTERNATIONAL STUDENTS FROM LAST YEAR TO THIS YEAR. WE DO EXPECT WE WILL
+SEE A DROP SIMPLY BECAUSE OF THE APPROVAL RATES FOR VISAS COMING FROM
+THE GOVERNMENT. BUT WE WERE NOT ONE OF THE INSTITUTIONS THAT HAD OVER 50
+PERCENT INTERNATIONAL ENROLMENT WE HAD 38 PERCENT CORRECT. SO I WOULD
+SAY TO YOU IS THAT INTERNATIONAL STUDENTS HAD A HIGHER RETENTION RATE
+THEY HAD A HIGHER GRADUATION RATE SO THE STUDENTS WERE ACTUALLY
+PERFORMING QUITE WELL. THEY CAME HERE WITH THE MISSION OF MIND, THE VAST
+MAJORITY. AND THEY EXCELLED IN OUR SYSTEM. AND FAILING MUCH NEEDED JOBS
+IN THE LABOUR FORCE WHEN YOU LOOK AT THE GRADUATION OUR EMPLOYMENT
+RATES, WELL OVER 80 PERCENT 6 MONTHS OUT OF GRADUATION. AND THE EMPLOYER
+SATISFACTION RATES WAS OVER 90 PERCENT.
+
+史蒂夫·帕金：如果说我听到了一件事，那就是学费冻结加上外国学生（他们支付比国内学生高得多的学费）数量的减少，导致这个体系不再能够完成60年前设定的使命。这是对还是错？
+
+>> STEVE: IF THERE'S ONE THING AND HERE IS THAT THE TUITION FEES PLUS
+THE REDUCTION IN FOREIGN STUDENTS PAYING THE MUCH HIGHER THAN DOMESTIC
+STUDENT TUITIONS HAS RESULTED IN A SYSTEM THAT IS NO LONGER ABLE TO
+FULFILL THE MISSION THAT IT HAD SET OUT TO DO 60 YEARS AGO. TRUE OR
+FALSE?
+
+安·玛丽·沃恩：我不认为事情这么简单。并非我们没有完成使命。我们确实在继续完成我们的使命。这并不意味着我们没有经历财务挑战。而且这并非一蹴而就。加拿大联邦政府对高等教育的资助减少始于90年代末。我实际上在90年代末就以这个主题写了我的硕士论文。所以我们现在看到的是一个长期以来发生的侵蚀，历经多个政党参与加拿大和安大略省高等教育的融资。您说得对。我们的资金依赖于学费或政府拨款。但我们在加拿大确实有一个公共政策目标，即学生为其教育经历付费，政府也付费。所以我认为这是我们需要在安大略省进行的更广泛的公共政策讨论。这不仅仅是学院领域的问题；它也影响到大学领域。这是一个我们需要进行的更广泛的对话。
+
+>> ANNE: I DON'T THINK IT'S AS SIMPLE AS THAT IS NOT THAT WERE NOT
+FULFILLING THE MISSION WE REALLY ARE CONTINUING TO FULFILL OUR MISSION
+IS NOT MEANING THAT WERE NOT GOING THROUGH FINANCIAL CHALLENGES. AND
+THIS DIDN'T HAPPEN OVERNIGHT. THE DECLINE AND FEDERAL FUNDING FOR HIGHER
+EDUCATION IN CANADA STARTED IN THE LATE '90s I ACTUALLY DID MY MASTERS
+THESIS ON THIS TOPIC IN THE LATE '90s. SO WHAT WERE SEEING NOW IS IN
+EROSION THAT HAS TAKEN PLACE OVER A LONG PERIOD OF TIME OVER MULTIPLE
+POLITICAL PARTIES THAT HAVE BEEN INVOLVED IN THE FINANCING OF HIGHER
+EDUCATION IN CANADA AND ONTARIO. AND YOU'RE RIGHT. THERE WERE DEPENDENT
+ON EITHER TUITION OR GOVERNMENT GRANTS FOR OUR FUNDING. BUT WE DO HAVE A
+PUBLIC POLICY OBJECTIVE IN CANADA THAT STUDENTS PAID TOWARDS THEIR
+EDUCATIONAL EXPERIENCE AND GOVERNMENT PAY AND SO I THINK THAT THIS IS A
+WIDER PUBLIC POLICY DISCUSSION THAT WE HAVE TO HAVE IN ONTARIO. IT'S NOT
+JUST A COLLEGE SECTOR IT ALSO IMPACTS THE UNIVERSITY SECTOR AND IT'S A
+WIDER CONVERSATION WE NEED TO HAVE.
+
+**马丁·雷格·科恩：** 这正好回应了您刚才说的。如果你想想魁北克多年前宣布的CEGEP（普通与职业教育学院）体系，人们先进入CEGEP，然后进入大学。这其中存在一些转换。我们现在讨论的，就是这种灰色地带。你听到关于学院“大学化蔓延”的说法，我愿意为此“挡枪”，并提出一些异议。先上大学，然后通过学院这个更具针对性、更贴近就业的“进修学校”来完成学业，这不失为一种有益的途径。但毫无疑问，学院确实存在“大学化蔓延”的现象。这其中也有原因，那就是大学能从学生身上获得更多资金，更容易维持现金流。我们今天会谈到各种各样的财政和政治扭曲。但当学院和大学开始变得一样时，比尔·戴维斯的使命就改变了。
+
+\>\> SPEAKER: AND THAT'S A QUICK POINT TO WHAT YOU WERE SAYING. IF YOU
+THINK ABOUT THE QUEBEC SYSTEM OF SEIZURE THAT WAS ANNOUNCED MANY YEARS
+AGO PEOPLE GO INTO THAT AND THEN UNIVERSITY AND THERE ARE SOME
+CONVERSIONS IS WHAT WERE ALL TALKING ABOUT SORT OF THAT GRAIN YOU HEAR
+ABOUT UNIVERSITY CREEP AND I THROW MYSELF ON THAT GRENADE FOR YOU AND
+TAKE SOME IS USEFUL TO GO TO UNIVERSITY AND FINISH OFF WITH A MORE
+SPECIFIC JOB SENSITIVE FINISHING SCHOOL AS IT WERE OUT OF COLLEGE, BUT
+THERE'S NO QUESTION THAT THERE HAS BEEN UNIVERSITY CREEP BY THE COLLEGES
+AND THERE'S A REASON FOR THAT AS WELL, WHICH IS THE UNIVERSITIES GET
+MORE MONEY FOR STUDENTS IT'S EASIER TO FINANCE THE CASH FLOW. THERE'S
+ALL SORTS OF FINANCIAL AND POLITICAL DISTORTIONS WE WILL TALK ABOUT
+TODAY. BUT WHEN COLLEGES AND UNIVERSITIES START TO BE THE SAME BILL
+DAVIS' MISSION IS CHANGED.
+
+## **EN The Impact of International Students and Funding Gaps** **ZH 国际学生的影响与资金缺口**
+
+<div class="transcript-section">
+
+**史蒂夫·帕金：** 让我们谈谈这个，Lynn，我想听听您的看法。因为这些年来我和人们谈论过这个问题，并且我们在引言中也暗示过，人们看到学院体系目前发生的一些事情引起了极大的关注。不如就从您开始，您能否告诉我们，与您10-12年前刚开始教书时相比，您现在在一线教学中有什么不同的体验？区别是什么？
+
+\>\> STEVE: LET'S, LYNN I WANT TO BRING YOU IN ON THIS. BECAUSE TO THE
+EXTENT THAT I'VE TALKED TO PEOPLE OVER THE YEARS OVER THIS. AND WE
+HINTED AT THIS IN THE INTRODUCTION. PEOPLE ARE SEEING THINGS HAPPENING
+RIGHT NOW IN THE COLLEGE SYSTEM THAT'S CAUSING A GREAT DEAL OF CONCERN.
+WHY DON'T I JUST START WITH YOU AND YOU TELL US WHAT YOUR FIRST HAND
+FRONT LINE EXPERIENCE IS WITH WHAT YOU MIGHT HAVE PERHAPS BEEN ABLE TO
+DO 10-12 YEARS AGO WHEN YOU FIRST STARTED TEACHING VERSUS TODAY WAS A
+DIFFERENCE.
+
+**林恩·惠特姆：** 学生不同了。我们面临国际学生上限的问题。疫情之后，进入系统的国际学生数量问题变得更加尖锐。而且我相信，可以肯定地说，存在滥用现象。在招生方面存在滥用，一些国家的招生中介将学生送到这里的学院。一些学生利用学院系统和教育作为获得加拿大移民身份的途径，他们对教育的投入可能没有应有的那么强烈。学院鼓励招收国际学生是因为存在资金缺口。
+
+\>\> SPEAKER: THE STUDENTS ARE DIFFERENT. SO WE HAVE THE ISSUE OF THE
+INTERNATIONAL STUDENT CAP. AND AFTER THE PANDEMIC IT BECAME EVEN MORE
+ACUTE, THE NUMBER OF INTERNATIONAL STUDENTS THAT HAD COME INTO THE
+SYSTEM. AND IT'S SAFE TO SAY I BELIEVE THAT THERE WERE ABUSES THERE WERE
+ABUSES IN TERMS OF RECRUITERS IN COUNTRIES GETTING THOSE STUDENTS TO THE
+COLLEGES HERE. SOME STUDENTS USE THE COLLEGE SYSTEM AND EDUCATION AS A
+WAY TO GET IMMIGRATION STATUS IN CANADA AND THEIR COMMITMENT TO
+EDUCATION MAY NOT HAVE BEEN AS STRONG AS IT SHOULD HAVE BEEN. COLLEGES
+ENCOURAGE INTERNATIONAL STUDENTS BECAUSE OF THE FUNDING GAP.
+
+史蒂夫·帕金：他们支付更高的学费。
+
+>> STEVE: THEY PAY MORE.
+
+林恩·惠特姆：他们支付的费用要高得多。而且存在巨大的资金缺口。从学院刚成立时，以及比尔·戴维斯对学院的设想（我认为非常出色）来看，学院大约80%的预算资金来自政府拨款。如今，这个比例在20%左右。所以想想这80%的缺口。因此，国际学生填补了这个财政缺口。问题是，他们对此并不那么感兴趣。其中一些人并不那么感兴趣。有些学生非常出色。他们中的一些人，很多人都是非常优秀的学生，渴望学有所成，并希望留在加拿大做出贡献，但另一些人只是将其视为进入移民系统的通行证。
+
+>> SPEAKER: THEY PAY MUCH MORE AND THERE IS A SIGNIFICANT FUNDING GAP.
+ANYWHERE FROM WHEN THE COLLEGES STARTED AND BILL DAVIS IS VISION FOR
+COLLEGES WHICH I THINK IS BRILLIANT. COLLEGES WERE BEING FUNDED AROUND
+80 PERCENT OF THEIR BUDGET DOLLARS. TODAY IT'S IN THE 20 PERCENT RANGE.
+SO THINK ABOUT THAT 80 PERCENT GAP THAT EXISTS AND SO THE INTERNATIONAL
+STUDENTS WERE FEELING THAT FINANCIAL GAP. THE PROBLEM WAS THAT THEY
+WEREN'T THAT INTERESTED. AND SOME OF THEM WERE NOT THAT INTERESTED IN
+SOME OF THEM WERE TERRIFIC. SOME OF THEM, MANY OF THEM ARE EXTRAORDINARY
+STUDENTS AND WANT TO DO WELL AND WANT TO STAY IN CANADA AND CONTRIBUTE
+BUT OTHERS JUST THOUGHT OF IT AS A PASS TO THE IMMIGRATION SYSTEM.
+
+<span class="speaker-cn">史蒂夫·帕金：</span>看，我很理解今天在座的三位都在这个体系中谋生，你们热爱这个体系，是这个体系的拥护者。但我在想，对外国学生的依赖以及他们为了进入这个体系而支付的三倍或四倍的学费，是否导致了某些扭曲现象的发生，或者导致了一些问题未能得到解决。Maureen，您怎么看？
+
+>> STEVE: LOOK AT, I APPRECIATE THAT THREE OF YOU HERE TODAY MAKE YOUR
+LIVING IN THE SYSTEM YOU LOVE THE SYSTEM YOU ARE CHAMPIONS OF THE
+SYSTEM. BUT I WONDER WHETHER OR NOT THE RELIANCE ON FOREIGN STUDENTS AND
+THE TRIPLE OR QUADRUPLE TUITIONS THAT THEY HAVE. IN ORDER TO BE IN THE
+SYSTEM HAVE ALLOWED CERTAIN DISTORTIONS AND EITHER DISTORTIONS TO HAPPEN
+OR PROBLEMS UNMET TO TAKE PLACE MORE RAIN WHAT YOU THINK.
+
+莫琳·亚当森：我必须说，认为学生来这里是为了其他原因而滥用这个系统，这是一个相当宽泛的说法。我相信会有例外，但是学院在教育类型、学生必须遵守才能获准进入安大略省乃至加拿大任何一所学院的标准方面，拥有一个非常健全的质量框架。而且你知道，这个框架非常健全。学院是否不得不依赖国际收入？绝对是。在没有省政府其他资金来源的情况下，只有几种收入来源，国际学生是其中之一。
+
+>> MAUREEN: I HAVE TO SAY THAT IT IS A PRETTY BROAD SYSTEM TO SAY THAT
+STUDENTS CAME HERE TO ABUSE THE SYSTEM FOR OTHERS REASONS AND I'M SURE
+THIS OTHER EXCEPTIONS BUT COLLEGES HAVE A VERY ROBUST QUALITY FRAMEWORK
+AROUND THE TYPES OF EDUCATION, THE KINDS OF STANDARDS THAT STUDENTS HAVE
+TO COMPLY WITH TO BE APPROVED TO COME TO A COLLEGE IN ONTARIO AND IN
+CANADA FOR THAT MATTER. AND YOU KNOW, THAT WAS VERY ROBUST HAVE COLLEGES
+HAVE TO RELY ON INTERNATIONAL REVENUES ABSOLUTELY. IN THE ABSENCE OF
+OTHER FUNDING THROUGH THE PROVINCE THERE ARE ONLY SEVERAL REVENUE
+STREAMS AND INTERNATIONALS ONE OF THEM.
+
+**史蒂夫·帕金：** 那么让我接着说。联邦政府已经关闭了国际学生这个“水龙头”，所以你们没有了这部分收入。省政府，也就是进步保守党政府，已经冻结学费7年了，所以你们也没有那部分收入。你们现在的情况如何？
+
+>> STEVE: SO LET ME PICK UP ON IT SO THIS BIG OF INTERNATIONAL
+STUDENTS HAS BEEN TURNED OFF BY THE FEDERAL GOVERNMENT SO YOU KNOW HOW
+THAT REVENUE. THE PROVINCE HAS FROZEN TUITION FOR 7 YEARS THE
+PROGRESSIVE CONSERVATIVE GOVERNMENT SO YOU DON'T HAVE THAT REVENUE HOUSE
+CHAPTER YOU RIGHT NOW.
+
+安·玛丽·沃恩：汉博学院可能是一个特例。从去年到今年，我们的国际学生数量没有下降。我们确实预计会出现下降，仅仅是因为政府签证的批准率。但我们并非国际学生入学率超过50%的院校之一；我们的比例是38%。所以我想说的是，国际学生的保留率更高，毕业率也更高，所以这些学生实际上表现得相当不错。他们绝大多数是带着明确的目标来到这里，并且在我们的体系中表现出色。并且填补了劳动力市场急需的岗位。当你查看毕业生的就业率时，毕业后6个月的就业率远超80%。雇主满意率也超过90%。
+
+>> SPEAKER: HUMBER MAYBE AN ANOMALY WE DIDN'T HAVE A DROP IN
+INTERNATIONAL STUDENTS FROM LAST YEAR TO THIS YEAR. WE DO EXPECT WE WILL
+SEE A DROP SIMPLY BECAUSE OF THE APPROVAL RATES FOR VISAS COMING FROM
+THE GOVERNMENT. BUT WE WERE NOT ONE OF THE INSTITUTIONS THAT HAD OVER 50
+PERCENT INTERNATIONAL ENROLMENT WE HAD 38 PERCENT CORRECT. SO I WOULD
+SAY TO YOU IS THAT INTERNATIONAL STUDENTS HAD A HIGHER RETENTION RATE
+THEY HAD A HIGHER GRADUATION RATE SO THE STUDENTS WERE ACTUALLY
+PERFORMING QUITE WELL. THEY CAME HERE WITH THE MISSION OF MIND, THE VAST
+MAJORITY. AND THEY EXCELLED IN OUR SYSTEM. AND FAILING MUCH NEEDED JOBS
+IN THE LABOUR FORCE WHEN YOU LOOK AT THE GRADUATION OUR EMPLOYMENT
+RATES, WELL OVER 80 PERCENT 6 MONTHS OUT OF GRADUATION. AND THE EMPLOYER
+SATISFACTION RATES WAS OVER 90 PERCENT.
+
+史蒂夫·帕金：如果说我听到了一件事，那就是学费冻结加上外国学生（他们支付比国内学生高得多的学费）数量的减少，导致这个体系不再能够完成60年前设定的使命。这是对还是错？
+
+>> STEVE: IF THERE'S ONE THING AND HERE IS THAT THE TUITION FEES PLUS
+THE REDUCTION IN FOREIGN STUDENTS PAYING THE MUCH HIGHER THAN DOMESTIC
+STUDENT TUITIONS HAS RESULTED IN A SYSTEM THAT IS NO LONGER ABLE TO
+FULFILL THE MISSION THAT IT HAD SET OUT TO DO 60 YEARS AGO. TRUE OR
+FALSE?
+
+安·玛丽·沃恩：我不认为事情这么简单。并非我们没有完成使命。我们确实在继续完成我们的使命。这并不意味着我们没有经历财务挑战。而且这并非一蹴而就。加拿大联邦政府对高等教育的资助减少始于90年代末。我实际上在90年代末就以这个主题写了我的硕士论文。所以我们现在看到的是一个长期以来发生的侵蚀，历经多个政党参与加拿大和安大略省高等教育的融资。您说得对。我们的资金依赖于学费或政府拨款。但我们在加拿大确实有一个公共政策目标，即学生为其教育经历付费，政府也付费。所以我认为这是我们需要在安大略省进行的更广泛的公共政策讨论。这不仅仅是学院领域的问题；它也影响到大学领域。这是一个我们需要进行的更广泛的对话。
+
+>> ANNE: I DON'T THINK IT'S AS SIMPLE AS THAT IS NOT THAT WERE NOT
+FULFILLING THE MISSION WE REALLY ARE CONTINUING TO FULFILL OUR MISSION
+IS NOT MEANING THAT WERE NOT GOING THROUGH FINANCIAL CHALLENGES. AND
+THIS DIDN'T HAPPEN OVERNIGHT. THE DECLINE AND FEDERAL FUNDING FOR HIGHER
+EDUCATION IN CANADA STARTED IN THE LATE '90s I ACTUALLY DID MY MASTERS
+THESIS ON THIS TOPIC IN THE LATE '90s. SO WHAT WERE SEEING NOW IS IN
+EROSION THAT HAS TAKEN PLACE OVER A LONG PERIOD OF TIME OVER MULTIPLE
+POLITICAL PARTIES THAT HAVE BEEN INVOLVED IN THE FINANCING OF HIGHER
+EDUCATION IN CANADA AND ONTARIO. AND YOU'RE RIGHT. THERE WERE DEPENDENT
+ON EITHER TUITION OR GOVERNMENT GRANTS FOR OUR FUNDING. BUT WE DO HAVE A
+PUBLIC POLICY OBJECTIVE IN CANADA THAT STUDENTS PAID TOWARDS THEIR
+EDUCATIONAL EXPERIENCE AND GOVERNMENT PAY AND SO I THINK THAT THIS IS A
+WIDER PUBLIC POLICY DISCUSSION THAT WE HAVE TO HAVE IN ONTARIO. IT'S NOT
+JUST A COLLEGE SECTOR IT ALSO IMPACTS THE UNIVERSITY SECTOR AND IT'S A
+WIDER CONVERSATION WE NEED TO HAVE.
+
+**马丁·雷格·科恩：** 这正好回应了您刚才说的。如果你想想魁北克多年前宣布的CEGEP（普通与职业教育学院）体系，人们先进入CEGEP，然后进入大学。这其中存在一些转换。我们现在讨论的，就是这种灰色地带。你听到关于学院“大学化蔓延”的说法，我愿意为此“挡枪”，并提出一些异议。先上大学，然后通过学院这个更具针对性、更贴近就业的“进修学校”来完成学业，这不失为一种有益的途径。但毫无疑问，学院确实存在“大学化蔓延”的现象。这其中也有原因，那就是大学能从学生身上获得更多资金，更容易维持现金流。我们今天会谈到各种各样的财政和政治扭曲。但当学院和大学开始变得一样时，比尔·戴维斯的使命就改变了。
+
+\>\> SPEAKER: AND THAT'S A QUICK POINT TO WHAT YOU WERE SAYING. IF YOU
+THINK ABOUT THE QUEBEC SYSTEM OF SEIZURE THAT WAS ANNOUNCED MANY YEARS
+AGO PEOPLE GO INTO THAT AND THEN UNIVERSITY AND THERE ARE SOME
+CONVERSIONS IS WHAT WERE ALL TALKING ABOUT SORT OF THAT GRAIN YOU HEAR
+ABOUT UNIVERSITY CREEP AND I THROW MYSELF ON THAT GRENADE FOR YOU AND
+TAKE SOME IS USEFUL TO GO TO UNIVERSITY AND FINISH OFF WITH A MORE
+SPECIFIC JOB SENSITIVE FINISHING SCHOOL AS IT WERE OUT OF COLLEGE, BUT
+THERE'S NO QUESTION THAT THERE HAS BEEN UNIVERSITY CREEP BY THE COLLEGES
+AND THERE'S A REASON FOR THAT AS WELL, WHICH IS THE UNIVERSITIES GET
+MORE MONEY FOR STUDENTS IT'S EASIER TO FINANCE THE CASH FLOW. THERE'S
+ALL SORTS OF FINANCIAL AND POLITICAL DISTORTIONS WE WILL TALK ABOUT
+TODAY. BUT WHEN COLLEGES AND UNIVERSITIES START TO BE THE SAME BILL
+DAVIS' MISSION IS CHANGED.
 
 ## <span class="lang-title">EN</span>On-the-Ground Impact: Program Cuts and Staff Reductions <span class="lang-title">ZH</span>实际影响：课程削减与人员裁减
 
@@ -475,19 +1064,20 @@ COURSES ARE BEING CUT?
 
 \>\> SPEAKER: I WANT TO COME BACK TO THE MISSION OF THE BILL DAVIS AND
 TENTS FOR COLLEGES, WE CAN TALK ABOUT THE REVENUE STREAMS AND THE
-DILUTION OF STUDENT BODIES AND RURAL COMMUNITIES AND OTHER PLACES, YOU
-KNOW THE DIRTY WORD OF PRIVATE CAREER COLLEGES WAS A WAY TO EQUALIZE
-SOME OF THE RULE COLLEGES THAT CAN ATTRACT INTERNATIONAL STUDENTS. BUT
-THAT REVENUE HAS BEEN CLEARLY INVESTED TO MAINTAIN THE MANDATE OF
-COLLEGES IN ONTARIO. TO DELIVER ON THOSE IMPORTANT DOMESTIC PROGRAMS
-WHETHER IT'S ADVANCE MANUFACTURING, COPPER TREE HEALTH SCIENCES RESOURCE
-MINING EVERYTHING IN THE OCCURRENCE GOVERNMENTS PLATFORM HAS BEEN
-DELIVERED THROUGH THIS SUBSET. SO I SAY THE MANDATE HAS BEEN WELL INTACT
-ALTHOUGH WE HAD TO USE INTERNATIONAL REVENUE TO DO SO.
+DILUTION OF STUDENT BODIES AND RURAL COMMUNITIES AND OTHER PLACES,
+YOU KNOW THE DIRTY WORD OF PRIVATE CAREER COLLEGES WAS A WAY TO
+EQUALIZE SOME OF THE RULE COLLEGES THAT CAN ATTRACT INTERNATIONAL
+STUDENTS. BUT THAT REVENUE HAS BEEN CLEARLY INVESTED TO MAINTAIN THE
+MANDATE OF COLLEGES IN ONTARIO. TO DELIVER ON THOSE IMPORTANT
+DOMESTIC PROGRAMS WHETHER IT'S ADVANCE MANUFACTURING, COPPER TREE
+HEALTH SCIENCES RESOURCE MINING EVERYTHING IN THE OCCURRENCE
+GOVERNMENTS PLATFORM HAS BEEN DELIVERED THROUGH THIS SUBSET. SO I
+SAY THE MANDATE HAS BEEN WELL INTACT ALTHOUGH WE HAD TO USE
+INTERNATIONAL REVENUE TO DO SO.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>我必须理解这笔账。您更清楚，也许您可以帮我。如果你们所有的学生在过去7年里都经历了学费冻结，这意味着你们现在的收入和7年前一样，而外国学生这个“水龙头”也被关掉了，所以你们没有了那个，请原谅我这么说，可以依赖的“摇钱树”。而且安大略省政府也没有增加对高等教育机构的拨款。你们是如何维持运营的？
 
-\>\> STEVE: I HAVE TO UNDERSTAND THE MATH YOU'RE BETTER SO MAYBE YOU CAN
+>> STEVE: I HAVE TO UNDERSTAND THE MATH YOU'RE BETTER SO MAYBE YOU CAN
 HELP ME IF ALL OF YOUR STUDENTS HAVE HAD A TUITION FREEZE FOR THE LAST 7
 YEARS. MEANING YEAR THE MONEY YOU'R TAKING AND IS THE SAME AS AND WHEN
 YOU TOOK IN 7 YEARS AGO INE SPIGOT ON FOREIGN STUDENTS HAS BEEN TURNED
@@ -502,7 +1092,7 @@ PHYSICAL MANAGEMENT OF THE INSTITUTION.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>别开玩笑了。
 
-\>\> STEVE: COME ON.
+>> STEVE: COME ON.
 
 <span class="speaker-cn">安·玛丽·沃恩：</span>我们今年必须找到资金；我们做到了。明年将会更具挑战性。至于汉博学院，我曾担任Loyalist学院的校长；对于农村校区来说，情况要困难得多。但我可以告诉您，在审计长的报告中，以及回应Martin的观点，没有任何一个例子表明国内学生被国际学生取代了。
 
@@ -515,10 +1105,9 @@ STUDENT WAS DISPLACED BY AN INTERNATIONAL STUDENTS.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>没有人这么指控。
 
-\>\> STEVE: NOBODY IS ALLEGING THAT.
+>> STEVE: NOBODY IS ALLEGING THAT.
 
-<span class="speaker-cn">安·玛丽·沃恩：</span>但我确实认为公众
-यहां有一种假设，即通过引进国际学生，他们取代了国内学生。他们实际所做的是保持了许多农村校区项目的稳定，因为这些校区可能本来就有国内学生，他们可以抵消一部分，但在其他方面……
+<span class="speaker-cn">安·玛丽·沃恩：</span>但我确实认为公众这里有一种假设，即通过引进国际学生，他们取代了国内学生。他们实际所做的是保持了许多农村校区项目的稳定，因为这些校区可能本来就有国内学生，他们可以抵消一部分，但在其他方面……
 
 \>\> SPEAKER: BUT I DO THINK THERE IS AN ASSUMPTION HERE BY THE PUBLIC
 THAT BY BRINGING AN INTERNATIONAL STUDENTS THAT THEY HAVE DISPLACED
@@ -554,8 +1143,6 @@ RECOMMENDING HIGHER LEVELS ALONG WITH RICHARD JOHNSON AND BILL DAVIS WAS
 ON THAT COMMITTEE AS WELL SO THE BLUE-RIBBON PANEL THAT WAS BROUGHT INTO
 YEARS AGO RECOMMENDED A TUITION FREEZE OF 5 PERCENT FOLLOWED BY 2
 PERCENT THAT THE GOVERNMENT KEEPS REJECTING.
-
-
 
 ## <span class="lang-title">EN</span>Alignment with Economic Mandates and Current Crisis <span class="lang-title">ZH</span>与经济任务的契合及当前危机
 
@@ -611,7 +1198,7 @@ THERE'S A CRISIS HAPPENING. WHEN YOU THINK ABOUT BILL DAVIS' MISSION
 WHICH I THINK WAS BRILLIANT WHEN I FIRST CAME INTO THE COLLEGE SYSTEM TO
 TEACH HAD NO IDEA OF THE WORK THAT WAS BEING DONE BY THE COLLEGES AND
 HOW EXTRAORDINARY THAT WAS. AND I DO SEE IT BEING SQUANDERED RIGHT NOW.
-I SEE A DEVOLVING.
+I SEE A DEVOLVING。
 
 <span class="speaker-cn">马丁·雷格·科恩：</span>只是对安·玛丽观点的一个快速补充。存在一种误解，不是在这个桌子上，而是在省政府和本届政府中，认为仅仅向技术行业投入资金就能解决经济挑战。认为如果你为木匠或其他建筑行业设立学徒计划，尽管这很有价值，但这就能让省政府自动满足需求。你仍然需要建筑经理，仍然需要航空工程师或受过航空培训的人员，这些都昂贵得多。你不能只创建木匠培训中心。再次强调，这并非要贬低那个角色。然而，这并非一种替代；它不能取代学院所做的事情。两者都必须具备。
 
@@ -629,7 +1216,7 @@ DO. YOU HAVE TO HAVE BOTH.
 
 <span class="speaker-cn">莫琳·亚当森：</span>如果可以的话，安大略省80%的技术培训由学院提供。学院每年培养3100名毕业生。而那些特定的行业则培养7000人。所以就您的观点而言，我认为学院和工会都有其空间，但我们不要忘记，学院仍然占据了该市场80%的份额。
 
-\>\> SPEAKER: IF I MAY, COLLEGES PROVIDE A PERCENT OF TRAINING FOR
+>> SPEAKER: IF I MAY, COLLEGES PROVIDE A PERCENT OF TRAINING FOR
 TECHNOLOGY IN ONTARIO COLLEGES PRODUCE 3100 GRADUATES IN A YEAR THOSE
 PARTICULAR TDS PRODUCE 7000 SO TO YOUR POINT. I THINK THERE IS ROOM FOR
 COLLEGES AND THE TRADE UNIONS BUT LET'S NOT FORGET COLLEGES ARE SO 80
@@ -637,7 +1224,7 @@ PERCENT OF THAT MARKETPLACE.
 
 <span class="speaker-cn">马丁·雷格·科恩：</span>但是如果你想想上次二月份选举的竞选活动，道格·福特和部长们总是要与建筑行业结盟。我没看到他们在校园停留。他们是在编造我们所做的事情。
 
-\>\> SPEAKER: BUT IF YOU THINK OF THE CAMPAIGN TRAIL IN THE LAST
+>> SPEAKER: BUT IF YOU THINK OF THE CAMPAIGN TRAIL IN THE LAST
 ELECTION IN FEBRUARY. DOUG FORD IN THE MINISTERS WERE ALWAYS GOING TO
 ALIGN WITH THE BUILDING TRADES AND I DIDN'T SEE THEM STOP THAT CAMPUS IS
 THE HERE WERE MAKING UP BUT WE DO.
@@ -654,7 +1241,7 @@ THING THAT THEY DO THERE THAT WILL MAKE THIS WERE GOING FORWARD.
 
 <span class="speaker-cn">莫琳·亚当森：</span>当我审视我们的经济时，我们所有重要项目都存在结构性赤字。所以你谈论的那些项目，正是因为我们无力承担而被削减的。我想到这一点，想到我们正在努力填补的5000个工作岗位。我想到关键矿产。我认为学院与这类毕业生以及所需的劳动力完全契合。并且仍然扮演着主导角色。私营工会有其作用，但学院从事这项工作已经很长时间了。我们拥有一流的设施。我邀请任何人来学院看看，例如弗莱明学院及其贸易中心。我们是这个领域的重要参与者，我们与政府保持一致，并希望成为解决方案的一部分。
 
-\>\> SPEAKER: WHEN I LOOK AT OUR ECONOMY WE HAVE A STRUCTURAL DEFICIT
+>> SPEAKER: WHEN I LOOK AT OUR ECONOMY WE HAVE A STRUCTURAL DEFICIT
 AND ALL OF THE IMPORTANT PROGRAM SO YOU TALK ABOUT, THOSE ARE THE ONES
 BEING CUT BECAUSE WE CANNOT AFFORD TO DELIVER ON THOSE ONES. AND I THINK
 ABOUT THAT I THINK ABOUT 5000 JOBS THAT WERE TRYING TO FILL. I THINK
@@ -688,15 +1275,13 @@ ECONOMIC PRIORITIES OF ONTARIO, WHICH IS ENERGY, HOUSING,
 INFRASTRUCTURE, HEALTHCARE. WE ARE ALL REPRESENTING TOGETHER THOUGH FULL
 SPECTRUM OF SKILLS THAT ARE NEEDED FOR THOSE INDUSTRIES.
 
-
-
 ## <span class="lang-title">EN</span>Government Funding and Political Will <span class="lang-title">ZH</span>政府资助与政治意愿
 
 <div class="transcript-section">
 
 <span class="speaker-cn">史蒂夫·帕金：</span>我完全理解您的观点，这就是为什么上周我和Martin在审阅安大略省预算时，令我惊讶的是，并且在了解您刚才所说的一切的重要性之后，我注意到未来三年内，政府对培训、学院和大学部的拨款将减少14亿。我的意思是，我的数学不太好，但我不认为从系统中削减14亿之后，还能达到您想要的影响。谁能告诉我，尽管有这次削减，一切仍会顺利进行？
 
-\>\> STEVE: I THOROUGHLY TAKE YOUR POINT WHICH I THINK WHEN MARTIN AND I
+>> STEVE: I THOROUGHLY TAKE YOUR POINT WHICH I THINK WHEN MARTIN AND I
 WERE LOCKED UP IN THE BUDGET LAST WEEK READING THE BUDGET OF ONTARIO TO
 MY SURPRISE, TO MY SURPRISE AND KNOWING THE SIGNIFICANCE OF ALL THE
 THINGS THAT YOU JUST SAID. I NOTE A DECLINE IN GOVERNMENT FUNDING TO THE
@@ -710,7 +1295,7 @@ AND TELL ME THAT THIS IS ALL GOING TO WORK OUT DESPITE THIS CUT.
 Dunlop）过去曾经营一家冰雪皇后（Dairy
 Queen）特许经营店，并且实际上是冰雪皇后经营者的代表。那是一份非常政治化的工作，所以她有一定的政治敏锐性。但我问，如果你是总部，如果总部告诉你必须将蛋筒冰淇淋降价10%并且冻结这个价格7年，你会如何经营你的生意？这是不可持续的。
 
-\>\> MARTIN: I WILL TAKE THE OPPOSITE POSITION AND I WILL SAY THAT THAT
+>> MARTIN: I WILL TAKE THE OPPOSITE POSITION AND I WILL SAY THAT THAT
 IS THE CHALLENGE AND IT IS REPEATING WHEN YOU TAKE THAT MUCH MONEY OUT
 OF THE SYSTEM. WHEN YOU ALSO TAKE OUT TUITION AND FREEZES THE CURRENT
 MINISTER QUINN USED TO RUN A DAIRY CREAM FRANCHISE AND WAS IN FACT THE
@@ -721,16 +1306,16 @@ BY 10 PERCENT AND FREEZE THAT PERSON 7 YEARS. IT'S NOT SUSTAINABLE.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>她怎么说？
 
-\>\> STEVE: WHAT DID HE SAY.
+>> STEVE: WHAT DID HE SAY.
 
 <span class="speaker-cn">马丁·雷格·科恩：</span>那是一次私下谈话，但她没有给出站得住脚的回答。
 
-\>\> MARTIN: IT WAS A PRIVATE CONVERSATION BUT HE DID NOT HAVE A
+>> MARTIN: IT WAS A PRIVATE CONVERSATION BUT HE DID NOT HAVE A
 DEFENSIBLE ANSWER.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>嗯，您提到了巧克力蘸酱蛋筒冰淇淋，那确实很棒。然而，从更宏观的角度来看，Lynn，这正是高等教育体系未来的样子，学院将不得不在这次资金削减中承担自己的角色。我不知道在投入系统的资金减少的情况下，你们如何继续提供最好或更好的服务。我不知道。
 
-\>\> STEVE: WELL, YOU'VE REFERENCED CHOCOLATE DIPPED CONES WHICH ARE
+>> STEVE: WELL, YOU'VE REFERENCED CHOCOLATE DIPPED CONES WHICH ARE
 TERRIFIC. HOWEVER, ON A GRANDER SCALE THIS IS EXACTLY WHAT THE FUTURE
 LOOKS LIKE, LYNN FOR THE POST SYSTEM AND COLLEGES WILL HAVE TO PLAY
 THEIR PART IN THAT FUNDING DROP. I DON'T KNOW HOW YOU CONTINUE TO OFFER
@@ -749,12 +1334,12 @@ THRIVING ECONOMY HOW IS THAT POSSIBLE.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>Maureen，当您参加预算简报会，看到预算减少了14亿时，您作何反应？
 
-\>\> STEVE: MAUREEN WHEN YOU HAD YOUR BUDGET BRIEFING A NEW SET THAT IT
+>> STEVE: MAUREEN WHEN YOU HAD YOUR BUDGET BRIEFING A NEW SET THAT IT
 WAS A BILLION FOR LESS HOW DID YOU REACT.
 
 <span class="speaker-cn">莫琳·亚当森：</span>当然，有些资金是限时性的，所以我认为这是资金减少的一个重要原因。因此，我不认为这应该被误读。但我会说，这并不能否认我们面临问题的事实，我们需要与省政府密切合作，以确保我们解决这些资金问题。特别是在劳动力非常重要的领域。以及我们谈论的所有领域：技工、技术、建筑，所有这些。我认为我们需要关注这些领域，并且在这方面我们与施政纲领是一致的。但我们需要共同努力。
 
-\>\> SPEAKER: CERTAINLY, THERE IS SOME FUNDING THAT WAS TIME-LIMITED SO
+>> SPEAKER: CERTAINLY, THERE IS SOME FUNDING THAT WAS TIME-LIMITED SO
 I THINK THAT'S A BIG PIECE OF THE DECLINE. SO I DON'T THINK IT SHOULD BE
 MISREAD. BUT I WILL SAY THAT IT DOESN'T NEGATE THE FACT THAT WE HAVE A
 PROBLEM ON HER HANDS AND WE NEED TO WORK VERY CLOSELY WITH THE PROVINCE
@@ -766,7 +1351,7 @@ WE NEED TO WORK TOGETHER.
 
 <span class="speaker-cn">马丁·雷格·科恩：</span>Maureen指的是一次性超过十亿的补充拨款，这是政府正在做的事情，而不是听取其蓝带小组的意见，该小组建议投入数十亿美元，提高学费。他们投入的资金不到一半，而且是以零敲碎打的方式进行的，这并不适用于基础资金，也无法完成任务。但归根结底，这是政治问题，学院成了政治皮球。我认为，对于在座的每个人来说，挑战的一部分在于，选民似乎不像对待从幼儿园到12年级教育那样关注这个问题。当K-12阶段出现罢工或挑战时，家长们会强烈要求学校董事采取行动。但涉及到学院和大学时，首先，年轻人的投票率不高，他们就是不投票。其次，家长们似乎对这个问题不那么积极。所以各党派的政客们都能侥幸过关。
 
-\>\> SPEAKER: WHAT MARINE IS REFERRING TO IS THAT THERE WAS A ONE-TIME
+>> SPEAKER: WHAT MARINE IS REFERRING TO IS THAT THERE WAS A ONE-TIME
 BILLION PLUS SUPPLEMENTS WHICH IS WHAT THE GOVERNMENT IS DOING RATHER
 THAN LISTENING TO ITS OWN BLUE-RIBBON PANEL WHICH SAID BRINGING A COUPLE
 BILLION OF DOLLARS IN RAISE TUITION THEY BROUGHT IN LESS THAN HALF OF
@@ -783,7 +1368,7 @@ POLITICIANS FROM ALL PARTIES THEY GET AWAY WITH IT.
 
 <span class="speaker-cn">安·玛丽·沃恩：</span>我完全同意您的观点。我确实相信这是一种有趣的群体动态，会影响公共政策，我们需要公众意识到我们在社会中扮演的角色。你不能说我们无法获得医疗保健，却不资助那个提供护士、个人护理员和医疗中心技术人员的系统。所以必须……这就是我关于公共政策目标与其他政策（无论是省的卫生政策还是经济政策）相一致的观点。我们需要省政府真正理解这两者之间的直接关系。没有人才，你就无法发展一个行业。没有人才，你就无法实现能源自主。我认为从公众视角和公私合作视角来看，我们必须做得更好，确保公众了解我们所处的位置以及我们需要公众的支持，因为政府会对公众压力做出回应。这就是我们作为一个系统可以做得更好的地方，以便更好地倡导我们所需，从而能够成为行业、雇主的合作伙伴，并为公众自身提供他们希望获得的服务。
 
-\>\> SPEAKER: I ABSOLUTELY AGREE WITH YOU ON THAT POINT. I DO BELIEVE
+>> SPEAKER: I ABSOLUTELY AGREE WITH YOU ON THAT POINT. I DO BELIEVE
 THAT IT IS AN INTERESTING GROUP DYNAMIC THAT WILL IMPACT PUBLIC PRIVACY
 POLICY AND WE NEED THE PUBLIC TO BE CONSCIOUS OF THE ROLE THAT WE PLAY
 IN SOCIETY. AND YOU CANNOT SAY THAT WE DON'T HAVE ACCESS TO HEALTHCARE
@@ -801,8 +1386,6 @@ PUBLIC POLICY. AND THAT IS WHERE WE COULD DO BETTER ALIGNMENT AS A
 SYSTEM TO BE ABLE TO ADVOCATE MORE FOR WHAT WE NEED TO BE ABLE TO BE
 THAT PARTNER WITH INDUSTRY, EMPLOYERS AND FOR THE PUBLIC ITSELF TO HAVE
 THE SERVICES THAT THEY WOULD LIKE TO SEE.
-
-
 
 ## <span class="lang-title">EN</span>Future Readiness and Concluding Thoughts <span class="lang-title">ZH</span>未来准备与总结思考
 
@@ -832,65 +1415,7 @@ UNDERSTAND THAT WORLD AND WHERE THE OPPORTUNITIES LIE.
 
 <span class="speaker-cn">史蒂夫·帕金：</span>Maureen，最后请您发言。人们常说学院体系是世界羡慕的对象。比尔·戴维斯曾派他的学院和大学部长去伊朗，因为他们对建立他们现有的体系感兴趣。我们现在是否仍然拥有一个令世界羡慕的体系？
 
-\>\> STEVE: MARINE I WILL GIVE YOU THE LAST WORD HERE IT HAS OFTEN BEEN
+>> STEVE: MARINE I WILL GIVE YOU THE LAST WORD HERE IT HAS OFTEN BEEN
 SAID THAT THE COLLEGE SYSTEM IS THE ENVY OF THE WORLD BILL DAVIS SAID
 HIS COLLEGES AND UNIVERSITY MINISTERS TO IRAN BECAUSE THEY WERE INDUSTRY
 AND BUILDING THE SYSTEM THAT THEY HAVE NOW DO WE STILL HAVE A SYSTEM
-THAT IS THE ENVY OF THE WORLD?
-
-<span class="speaker-cn">莫琳·亚当森：</span>我认为我们仍然拥有一个令世界羡慕的体系。我们确实面临一些财务挑战，这是肯定的。但是我们拥有优秀的师资力量，我们拥有设备，我们拥有课程和行业合作。我们仍然可以成为世界羡慕的对象。
-
-\>\> MAUREEN: I THINK WE STILL HAVE A SYSTEM THAT THE ENVY OF THE WORLD
-WE HAVE SOME FINANCIAL CHALLENGES ABSOLUTELY. BUT WE HAVE THE SORT OF
-FACULTIES, WE HAVE THE EQUIPMENT, WE HAVE THE CURRICULUM IN THE INDUSTRY
-PARTNERSHIP. WE CAN STILL BE THE ENVY OF THE WORLD.
-
-<span class="speaker-cn">史蒂夫·帕金：</span>你知道，比尔·戴维斯曾经说过：“你把教育做好了，其他一切都会水到渠成。”在60周年之际，我们的教育做得对吗？
-
-\>\> STEVE: YOU KNOW BILL DAVIS ONCE THAT YOU GET EDUCATION RIGHT
-EVERYTHING ELSE FALLS INTO PLACE. ON THE 60th ANNIVERSARY ARE WE GETTING
-EDUCATION RIGHT?
-
-<span class="speaker-cn">安·玛丽·沃恩：</span>是的，我们做到了。
-
-\>\> SPEAKER: YES, WE ARE.
-
-<span class="speaker-cn">史蒂夫·帕金：</span>我们这里有一位客人。
-
-\>\> STEVE: WE HAVE A GUEST HERE.
-
-<span class="speaker-cn">安·玛丽·沃恩：</span>我们可以继续讨论。我们还有很多可以做的。但我有不同的看法。我曾在另一个省工作过，也在其他省份学习过。我只想说，安大略省学院体系的学生体验非常出色。这也是我一直关注和努力的重点。确保学生获得最佳体验，这样我们的雇主就能从我们培养的学生中获得最大价值。我会说，并且会继续说，安大略省学院体系是加拿大高等教育领域的一颗明珠。我们能做得更多，获得更多资金吗？当然。我们面临风险吗？当然。但比尔·戴维斯60年前的愿景是深远的。我们今天为社区学生提供的服务具有最高的价值、质量和卓越性。我们的教职员工非常出色，这些机构的员工也非常出色。我想不到比这里更好的地方了。
-
-\>\> SPEAKER: WE CAN KEEP THE DEBATE GOING. AND THERE'S A LOT MORE WE
-COULD DO BUT I HAVE A DIFFERENT PERSPECTIVE I WORKED IN ANOTHER PROVINCE
-I'VE STUDIED INTO OTHER PROVINCES. AND LET ME JUST SAY THAT THE STUDENT
-EXPERIENCE IN THE ONTARIO COLLEGE SYSTEM IS EXCEPTIONAL. AND THAT IS
-WHERE I KEEP MY EYE AND FOCUS. MAKING SURE THAT THE STUDENTS HAVE THE
-BEST EXPERIENCE SO OUR EMPLOYERS GET THE BEST VALUE OF THE STUDENTS THAT
-WE PRODUCE. AND I WOULD SAY AND CONTINUE TO SAY THAT THE ONTARIO COLLEGE
-SYSTEM IS A JEWEL IN THE CANADIAN COLLEGE HIRE LANDSCAPE COULD WE DO
-MORE AND HAVE MORE FUNDING ABSOLUTELY. ARE WE AT RISK ABSOLUTELY, BUT
-BILL DAVIS' VISION WAS PROFOUND 60 YEARS AGO. AND WHAT WE PROVIDE TO
-STUDENTS IN OUR COMMUNITY TODAY IS OF THE HIGHEST VALUE OF QUALITY, OF
-EXCEPTIONALITY AND OUR FACULTY ARE EXCEPTIONAL THE STAFF IN THESE
-INSTITUTIONS ARE EXCEPTIONAL AND I CANNOT THINK OF A BETTER PLACE TO BE.
-
-<span class="speaker-cn">史蒂夫·帕金：</span>最后的发言权交给汉博学院校长
-Ann Marie Vaughan。还有在过去十年一直在乔治布朗学院和百年理工学院任教的
-Lynn Whitham。以及桌子另一边的 Maureen Adamson 和 Martin Regg
-Cohn，您可以在《多伦多星报》上读到他的文章。非常感谢大家。祝大家60周年快乐。
-
-\>\> STEVE: LAST WORD GOES TO THE PRESIDENT OF HUMBER THAT IS AN AND
-LYNN WHO HAS BEEN TEACHING AT GEORGE BROWN AND CENTENNIAL COLLEGE FOR
-THE PAST DECADE AND AT THE OTHER SIDE OF THE TABLE MOORING-- AND MARTIN,
-WHO STUFF ARE YOU READING AT THE TORONTO STAR THANK YOU SO MUCH
-EVERYONE. AND HAPPY 60th ANNIVERSARY.
-
-
-
-
-
-<div class="button-container">
-
-<span class="lang-title">EN</span>Copy Transcript as Markdown  
-<span class="lang-title">ZH</span>复制为Markdown格式
