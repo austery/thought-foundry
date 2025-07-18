@@ -4,20 +4,16 @@ pagination:
   size: 1
   alias: tagInfo
 layout: "base.njk"
-# 我们现在使用 tagInfo 对象里的小写 key 属性来生成 URL
+# 在这里，我们必须对 tagInfo.key 使用 slug 过滤器
 permalink: "/tags/{{ tagInfo.key | slug }}/"
 ---
 
-{# tagInfo 对象里直接包含了 name 和 posts 属性 #}
 <h1>标签：{{ tagInfo.name }}</h1>
 
 <ul>
-  {# 我们直接遍历这个标签下已经收集好的 posts 数组 #}
   {%- for post in tagInfo.posts | reverse -%}
     <li>
-      <a href="{{ post.url | url }}">
-        {{ post.data.title }}
-      </a>
+      <a href="{{ post.url | url }}">{{ post.data.title }}</a>
     </li>
   {%- endfor -%}
 </ul>

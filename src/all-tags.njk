@@ -1,14 +1,15 @@
 ---
 title: "所有标签"
 layout: "base.njk"
+permalink: "/all-tags/"
 ---
 
 <h1>所有标签</h1>
 
 <div class="tag-list">
-  {# collections.tagList 现在是一个简单的数组，我们可以直接遍历它 #}
   {% for tagInfo in collections.tagList %}
-    <a href="/tags/{{ tagInfo.key | slug }}/" class="tag-pill">
+    {# 同样，在这里的链接中，我们也对 tagInfo.key 使用 slug 过滤器 #}
+    <a href="{{ ('/tags/' + (tagInfo.key | slug) + '/') | url }}" class="tag-pill">
       #{{ tagInfo.name }} ({{ tagInfo.posts.length }})
     </a>
   {% endfor %}
