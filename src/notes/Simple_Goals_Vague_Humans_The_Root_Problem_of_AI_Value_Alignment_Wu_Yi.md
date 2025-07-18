@@ -6,7 +6,6 @@ tags:
   - "视频笔记"
   - "人工智能"
   - "AI偏见"
-  - “一席”
 data:
   author: "Lei"
   podcast_program: ""
