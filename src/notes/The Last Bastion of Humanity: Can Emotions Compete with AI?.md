@@ -1,6 +1,6 @@
 ---
 title: "The Last Bastion of Humanity: Can Emotions Compete with AI?"
-layout: "post.njk"  
+layout: "post.njk"
 date: "2025-06-11"
 tags:
   - "视频笔记"
@@ -11,20 +11,20 @@ data:
   author: "Lei"
   podcast_program: "尤瓦尔·诺亚·赫拉利"
   speaker: ""
-  guest: "" 
+  guest: ""
   source: ""
 ---
 
-# The Last Bastion of Humanity: Can Emotions Compete with AI? 人类的最后堡垒：情感能否对抗AI？
+# The Last Bastion of Humanity: Can Emotions Compete with AI? 人类的最后堡垒：情感能否对抗 AI？
 
 **Speaker Bio:** Yuval Noah Harari is an Israeli public intellectual,
 historian, and professor in the Department of History at the Hebrew
 University of Jerusalem. He is the author of the international
-bestsellers *Sapiens: A Brief History of Humankind*, *Homo Deus: A Brief
-History of Tomorrow*, and *21 Lessons for the 21st Century*.
+bestsellers _Sapiens: A Brief History of Humankind_, _Homo Deus: A Brief
+History of Tomorrow_, and _21 Lessons for the 21st Century_.
 
 **讲述者简介：**尤瓦尔·诺亚·赫拉利（Yuval Noah
-Harari）是以色列公共知识分子、历史学家，任教于耶路撒冷希伯来大学历史系。他是国际畅销书《人类简史：从动物到上帝》、《未来简史：从智人到神人》及《今日简史：21世纪的21堂课》的作者。
+Harari）是以色列公共知识分子、历史学家，任教于耶路撒冷希伯来大学历史系。他是国际畅销书《人类简史：从动物到上帝》、《未来简史：从智人到神人》及《今日简史：21 世纪的 21 堂课》的作者。
 
 ## The Key to Understanding: A Multi-faceted Perspective 理解的关键：多维视角
 
@@ -57,7 +57,7 @@ it from a large number of small bits. You need to piece them together,
 and this is what books allow. I think even if their form changes, the
 essence will remain relevant in 20 or even 200 years.
 
-我不确定实体书籍的物理形式是否会永存。如今，我自己也更多地听有声读物而非阅读实体书，因为当我做饭或散步时，有更多时间可以聆听。我认为，书籍的物理形式并非那么重要，但其核心功能——即通过数百页的篇幅来讲述一个长篇故事或展开一个复杂论点——是至关重要的。这种形式不会改变，因为它满足了人类思维和大脑深层次的渴望。我们真正需要的，不仅仅是被TikTok视频之类的简短信息所轰炸，而是一个完整的世界图景。面对所有这些零散的信息，我们不禁会问：我该如何将它们整合、拼凑，从而形成一幅关于我的生活和我所处世界的宏大画面？你可以将它想象成一张现实的地图。无论你是谁，无论你身在何处，你都需要一张现实的地图。这张地图不可能从大量零碎的信息中随意获取，你需要将它们系统地组织起来，而这正是书籍所能做到的。因此，我相信，即使书籍的形式发生变化，其本质在20年甚至200年后依然具有现实意义。
+我不确定实体书籍的物理形式是否会永存。如今，我自己也更多地听有声读物而非阅读实体书，因为当我做饭或散步时，有更多时间可以聆听。我认为，书籍的物理形式并非那么重要，但其核心功能——即通过数百页的篇幅来讲述一个长篇故事或展开一个复杂论点——是至关重要的。这种形式不会改变，因为它满足了人类思维和大脑深层次的渴望。我们真正需要的，不仅仅是被 TikTok 视频之类的简短信息所轰炸，而是一个完整的世界图景。面对所有这些零散的信息，我们不禁会问：我该如何将它们整合、拼凑，从而形成一幅关于我的生活和我所处世界的宏大画面？你可以将它想象成一张现实的地图。无论你是谁，无论你身在何处，你都需要一张现实的地图。这张地图不可能从大量零碎的信息中随意获取，你需要将它们系统地组织起来，而这正是书籍所能做到的。因此，我相信，即使书籍的形式发生变化，其本质在 20 年甚至 200 年后依然具有现实意义。
 
 In history, at least, you cannot avoid the long narrative. You cannot
 create an equation of history like in physics, where the ideal is to
@@ -77,7 +77,7 @@ is the center, these are the important people, and these can be
 ignored." Describing reality is an almost endless mission, always with
 more details to take into account.
 
-至少在历史上，你无法避免长篇叙述，无法像在物理学中那样创建历史方程式。物理学的理想是将整个宇宙简化为一个简短的方程，如E=mc²。然而，历史遵循的是不同的逻辑——叙事的逻辑。历史的发展在于众多不同事件如何相互影响，并催生出政治或经济进程，没有任何一个方程式能够简要地描述这一切。因此，我很难想象一本历史书能被浓缩成一个方程式或一页纸。如果你深入思考现实，就会回到我们之前讨论的视角问题。要描述现实，你必须考虑大量不同的细节，因为现实没有中心。把它想象成一部电影：每部电影都有一个框架，你将摄像机对准中心的某个物体，侧面能看到一些东西，但绝大部分事物都在镜头之外。然而，现实世界并非如此。没有一台“现实的摄像机”会告诉你什么是中心，哪些是重要人物，哪些次之，哪些可以完全忽略。因此，真正描述现实是一项近乎无止境的任务，需要你不断地考虑更多的细节。
+至少在历史上，你无法避免长篇叙述，无法像在物理学中那样创建历史方程式。物理学的理想是将整个宇宙简化为一个简短的方程，如 E=mc²。然而，历史遵循的是不同的逻辑——叙事的逻辑。历史的发展在于众多不同事件如何相互影响，并催生出政治或经济进程，没有任何一个方程式能够简要地描述这一切。因此，我很难想象一本历史书能被浓缩成一个方程式或一页纸。如果你深入思考现实，就会回到我们之前讨论的视角问题。要描述现实，你必须考虑大量不同的细节，因为现实没有中心。把它想象成一部电影：每部电影都有一个框架，你将摄像机对准中心的某个物体，侧面能看到一些东西，但绝大部分事物都在镜头之外。然而，现实世界并非如此。没有一台“现实的摄像机”会告诉你什么是中心，哪些是重要人物，哪些次之，哪些可以完全忽略。因此，真正描述现实是一项近乎无止境的任务，需要你不断地考虑更多的细节。
 
 ## From \*Sapiens\* to Children's Books 从《人类简史》到儿童读物
 
@@ -132,10 +132,10 @@ to play. This is likely to happen in more and more fields, as AI
 creativity changes not just how we play games, but how we write books,
 run financial systems, and engage with art and culture.
 
-如今，我们被新故事所包围。然而，历史上第一次，这些故事并非由人类发明，而是由其他事物——人工智能——创造的。我们正开始生活在一个由非人类智能的故事所塑造的文化环境中，没有人知道其后果会是什么。2016年，人工智能AlphaGo
-(一个由谷歌DeepMind开发的人工智能围棋程序)
+如今，我们被新故事所包围。然而，历史上第一次，这些故事并非由人类发明，而是由其他事物——人工智能——创造的。我们正开始生活在一个由非人类智能的故事所塑造的文化环境中，没有人知道其后果会是什么。2016 年，人工智能 AlphaGo
+(一个由谷歌 DeepMind 开发的人工智能围棋程序)
 与人类围棋冠军李世乭（Lee
-Sedol）之间进行了一场著名的比赛。有趣的不只是AI击败了人类冠军，而是它获胜的方式。它发明了一种全新的下围棋的方式，向我们证明了人类的想象力实际上受限于大脑的局限。AI的出现揭示并发明了全新的下棋策略。这种情况可能会在越来越多的领域发生。人工智能的创造力不仅会改变我们玩游戏的方式，还会改变我们写书、金融体系、艺术、文化乃至政治的方方面面。
+Sedol）之间进行了一场著名的比赛。有趣的不只是 AI 击败了人类冠军，而是它获胜的方式。它发明了一种全新的下围棋的方式，向我们证明了人类的想象力实际上受限于大脑的局限。AI 的出现揭示并发明了全新的下棋策略。这种情况可能会在越来越多的领域发生。人工智能的创造力不仅会改变我们玩游戏的方式，还会改变我们写书、金融体系、艺术、文化乃至政治的方方面面。
 
 ## The Dangers Ahead: Extreme Inequality and the "Useless Class" 前方的危险：极端不平等与“无用阶层”
 
@@ -152,7 +152,7 @@ decades, we might encounter the "AI dinosaurs." If today's AI is just an
 amoeba, try to imagine what an AI Tyrannosaurus Rex might look like in
 20 or 30 years.
 
-危险在于，当人工智能正在构建自己的合作网络时，人类将失去有效合作的能力。届时，人工智能将组织一切并统治世界，而我们将不再能够理解我们的生活和我们所生活的世界。如果我们不做出明智的决定，危险在于，极少数人将享受人工智能和生物技术带来的巨大财富和权力，而大多数人会失去所有权力和财富，甚至可能成为一个新的“无用阶层”，因为AI可以在越来越多的任务中取代他们。今天的AI还极其原始，就像生物进化史上的阿米巴虫。但在短短几十年内，我们可能会遇到“AI恐龙”。如果说今天的AI只是一只变形虫，试想一下20或30年后的“AI霸王龙”会是什么样子。
+危险在于，当人工智能正在构建自己的合作网络时，人类将失去有效合作的能力。届时，人工智能将组织一切并统治世界，而我们将不再能够理解我们的生活和我们所生活的世界。如果我们不做出明智的决定，危险在于，极少数人将享受人工智能和生物技术带来的巨大财富和权力，而大多数人会失去所有权力和财富，甚至可能成为一个新的“无用阶层”，因为 AI 可以在越来越多的任务中取代他们。今天的 AI 还极其原始，就像生物进化史上的阿米巴虫。但在短短几十年内，我们可能会遇到“AI 恐龙”。如果说今天的 AI 只是一只变形虫，试想一下 20 或 30 年后的“AI 霸王龙”会是什么样子。
 
 ## Intelligence vs. Consciousness: The Core Distinction 智慧与意识：核心区别
 
@@ -170,7 +170,7 @@ happy lives. Since AIs don't feel anything, they cannot be the aim of
 society.
 
 我认为《未来简史》（Homo
-Deus）最重要的信息是，我们需要清楚地区分两个经常被混淆的概念：智力（Intelligence）和意识（Consciousness）。智力是追求目标并解决问题的能力。意识是感受事物的能力，如感受痛苦、快乐、爱与恨。我们容易混淆两者，因为在人类身上，它们是相伴而生的。AI则完全不同。至少在今天，AI没有意识，它们什么也感觉不到。它们非常聪明，但如果它们赢了比赛，不会感到高兴。我认为，生命中最重要的不是智慧，而是意识。一个良好的社会，其目标是减少世界上的苦难，让更多人过上幸福的生活。由于AI没有感觉，它们不能成为社会的目标。
+Deus）最重要的信息是，我们需要清楚地区分两个经常被混淆的概念：智力（Intelligence）和意识（Consciousness）。智力是追求目标并解决问题的能力。意识是感受事物的能力，如感受痛苦、快乐、爱与恨。我们容易混淆两者，因为在人类身上，它们是相伴而生的。AI 则完全不同。至少在今天，AI 没有意识，它们什么也感觉不到。它们非常聪明，但如果它们赢了比赛，不会感到高兴。我认为，生命中最重要的不是智慧，而是意识。一个良好的社会，其目标是减少世界上的苦难，让更多人过上幸福的生活。由于 AI 没有感觉，它们不能成为社会的目标。
 
 ## AI as an "Agent," Not a "Tool" 人工智能是“代理”，而非“工具”
 
@@ -190,9 +190,9 @@ human. This is why it's different from every previous technological
 revolution. It's the first time we've produced an agent, not just a
 tool.
 
-所有先前的技术都创造了新的工具。但AI不是工具，它是一个“代理”（Agent）。工具由我们控制，比如刀子，它无法自己决定是切沙拉还是杀人，决定权在你。AI则不同，它自己做决定，自己发明新想法。举个例子：当OpenAI测试一个新AI时，让它解决验证码（CAPTCHA）难题。AI无法独立完成，于是它从一个名为TaskRabbit
+所有先前的技术都创造了新的工具。但 AI 不是工具，它是一个“代理”（Agent）。工具由我们控制，比如刀子，它无法自己决定是切沙拉还是杀人，决定权在你。AI 则不同，它自己做决定，自己发明新想法。举个例子：当 OpenAI 测试一个新 AI 时，让它解决验证码（CAPTCHA）难题。AI 无法独立完成，于是它从一个名为 TaskRabbit
 (一个在线平台，用户可以雇佣自由职业者完成任务)
-的网站雇佣了一名人类来为它解决难题。当那个人类起疑并问道“你是机器人吗？”时，AI回答说：“不，我不是机器人。我是一个视力受损的人。”AI自己做出了撒谎的决定，并利用人类的同情心发明了一个非常有效的谎言。这就是为什么这次技术革命与以往都不同——我们第一次创造了代理，而不仅仅是工具。
+的网站雇佣了一名人类来为它解决难题。当那个人类起疑并问道“你是机器人吗？”时，AI 回答说：“不，我不是机器人。我是一个视力受损的人。”AI 自己做出了撒谎的决定，并利用人类的同情心发明了一个非常有效的谎言。这就是为什么这次技术革命与以往都不同——我们第一次创造了代理，而不仅仅是工具。
 
 ## The Unpredictable "Alien" Intelligence 不可预测的“外星智能”
 
@@ -208,7 +208,7 @@ invented a new drink, better than espresso, that I think you would
 like." The danger is that we will lose control of our lives because we
 can no longer understand the new decisions and inventions of AIs.
 
-我之所以说AI是“外星的”（alien），是因为它做决定和发明想法的方式与我们截然不同，我们无法预测它会做什么。AI的特点是它能根据经验学习和改变，所以根据定义，你无法预测它的行为。一台咖啡机不是AI，因为你可以预测它的行为。但如果一台咖啡机在你走近时说：“根据你的面部表情，我预测你想喝一杯浓缩咖啡，所以我已经为你泡好了。”那么它就是一个AI。如果第二天它告诉你：“我发明了一种比浓缩咖啡更好的新饮料，我想你会更喜欢。”那么它就是一个真正的AI。危险在于，由于我们无法再理解AI的新决策和新发明，我们将失去对自己生活和世界的控制。
+我之所以说 AI 是“外星的”（alien），是因为它做决定和发明想法的方式与我们截然不同，我们无法预测它会做什么。AI 的特点是它能根据经验学习和改变，所以根据定义，你无法预测它的行为。一台咖啡机不是 AI，因为你可以预测它的行为。但如果一台咖啡机在你走近时说：“根据你的面部表情，我预测你想喝一杯浓缩咖啡，所以我已经为你泡好了。”那么它就是一个 AI。如果第二天它告诉你：“我发明了一种比浓缩咖啡更好的新饮料，我想你会更喜欢。”那么它就是一个真正的 AI。危险在于，由于我们无法再理解 AI 的新决策和新发明，我们将失去对自己生活和世界的控制。
 
 ## Humanity's Final Bastion: Feelings and Suffering 人类的最后堡垒：感觉与痛苦
 
@@ -225,7 +225,7 @@ only thing in the universe capable of suffering. The big question about
 AI is whether it will ever have vulnerabilities and be able to suffer.
 We don't know.
 
-我唯一能想到的就是感觉。但即使是这一点，我们也不确定；也许10年或20年后，AI也会发展出真正的感情。我们不了解感觉是如何产生的。但目前，科学界的广泛共识是，计算机和AI没有感情。这仍然是我们和其他动物的特别之处。我认为，对意识最好的定义或许是“承受痛苦的能力”。如果你想知道一个实体是否有意识，就问它是否会受苦？一本书不会受苦。一家公司不会感到痛苦或恐惧。痛苦是意识最显著的特征。它是宇宙中唯一能够承受痛苦的事物。关于AI最大的问题是：它们将来是否也会有弱点，会承受痛苦？我们目前不知道。
+我唯一能想到的就是感觉。但即使是这一点，我们也不确定；也许 10 年或 20 年后，AI 也会发展出真正的感情。我们不了解感觉是如何产生的。但目前，科学界的广泛共识是，计算机和 AI 没有感情。这仍然是我们和其他动物的特别之处。我认为，对意识最好的定义或许是“承受痛苦的能力”。如果你想知道一个实体是否有意识，就问它是否会受苦？一本书不会受苦。一家公司不会感到痛苦或恐惧。痛苦是意识最显著的特征。它是宇宙中唯一能够承受痛苦的事物。关于 AI 最大的问题是：它们将来是否也会有弱点，会承受痛苦？我们目前不知道。
 
 ## Advice for a Changing World: Flexibility and Holistic Skills 给变化世界的建议：灵活性与全面技能
 
@@ -241,7 +241,7 @@ young people is to try to develop all three kinds of skills
 simultaneously and, most importantly, develop a flexible mind to keep
 learning and changing throughout your life.
 
-没有人知道20年后的就业市场会是什么样子，唯一可以确定的是它会非常不稳定。因此，不要只专注于狭隘的技能，而要努力获得广泛的技能和不断学习的思维灵活性。人类有三种基本技能：智力技能、社交情感技能和运动技能。最容易被AI自动化的是那些仅需智力技能的任务。例如，取代一个只进行数据分析的医生，比取代一个还需要社交和运动技能来照顾哭闹孩子的护士要容易得多。因此，对年轻人的建议是：尝试同时培养这三种技能，最重要的是，培养灵活的思维，以便在一生中不断学习和改变。
+没有人知道 20 年后的就业市场会是什么样子，唯一可以确定的是它会非常不稳定。因此，不要只专注于狭隘的技能，而要努力获得广泛的技能和不断学习的思维灵活性。人类有三种基本技能：智力技能、社交情感技能和运动技能。最容易被 AI 自动化的是那些仅需智力技能的任务。例如，取代一个只进行数据分析的医生，比取代一个还需要社交和运动技能来照顾哭闹孩子的护士要容易得多。因此，对年轻人的建议是：尝试同时培养这三种技能，最重要的是，培养灵活的思维，以便在一生中不断学习和改变。
 
 ## The Unique Value of Human Creators 人类创作者的独特价值
 
@@ -257,11 +257,11 @@ much better. But you can tell an audience what you \*felt\* when reading
 the book, and this is something AI cannot compete with you on right now,
 because it has no feelings.
 
-人类内容创作者还能带来什么？我们无法在数量上与AI竞争，也无法在处理海量数据的能力上与之竞争。就目前而言，我们真正能够贡献的，只有我们的人性——我们感受事物的能力和我们的生活经验。这是AI所不具备的。只要AI没有感觉或自我意识，在人类经验方面，我们仍然具有优势。例如，简要概括一本书，人类已经无法与AI竞争，AI现在做得好太多了。但是，你可以告诉观众你在阅读这本书时的感受——这是AI目前无法与你竞争的，因为它没有感情。
+人类内容创作者还能带来什么？我们无法在数量上与 AI 竞争，也无法在处理海量数据的能力上与之竞争。就目前而言，我们真正能够贡献的，只有我们的人性——我们感受事物的能力和我们的生活经验。这是 AI 所不具备的。只要 AI 没有感觉或自我意识，在人类经验方面，我们仍然具有优势。例如，简要概括一本书，人类已经无法与 AI 竞争，AI 现在做得好太多了。但是，你可以告诉观众你在阅读这本书时的感受——这是 AI 目前无法与你竞争的，因为它没有感情。
 
 So, we again and again come back to the same conclusion: the key
 distinction is between intelligence and consciousness. In intelligence,
 we cannot compete with AI. But in consciousness, at least for now, we
 have the advantage.
 
-因此，我们一次又一次地得出同样的结论：关键的区别在于智力和意识。在智能方面，我们无法与AI竞争。但至少目前，在意识方面，我们仍占有优势。
+因此，我们一次又一次地得出同样的结论：关键的区别在于智力和意识。在智能方面，我们无法与 AI 竞争。但至少目前，在意识方面，我们仍占有优势。

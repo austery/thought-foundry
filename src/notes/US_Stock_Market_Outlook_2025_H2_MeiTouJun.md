@@ -4,9 +4,7 @@ layout: "post.njk"
 date: "2025-07-10"
 tags:
   - "视频笔记"
-  - "美股投资"
-  - "2025下半年"
-  - "政策影响"
+  - "投资"
   - "通胀风险"
   - "AI赋能"
 data:
@@ -14,7 +12,7 @@ data:
   podcast_program: ""
   speaker: "美投君"
   guest: "" 
-  source: "#section-1"
+  source: ""
 ---
 
 # 2025下半年美股投资展望：全面解析政策、通胀与市场机遇

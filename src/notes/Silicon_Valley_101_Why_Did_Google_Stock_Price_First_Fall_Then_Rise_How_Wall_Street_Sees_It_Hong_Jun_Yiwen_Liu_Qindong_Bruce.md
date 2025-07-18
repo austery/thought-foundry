@@ -5,15 +5,13 @@ date: "2025-07-10"
 tags:
   - "视频笔记"
   - "谷歌"
-  - "AI"
-  - "股价"
-  - "华尔街"
-  - "反垄断"
+  - "投资"
+  - "硅谷101"
 data:
   author: "Lei"
   podcast_program: ""
   speaker: "弘君 (硅谷101创始人，播客主理人)"
-  guest: "" 
+  guest: "Yiwen，刘沁东" 
   source: ""
 ---
 
