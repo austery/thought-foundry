@@ -1,0 +1,34 @@
+/* src/css/layouts/_home.css */
+
+.home-layout {
+    /* 让容器内的所有文本都居中 */
+    text-align: center;
+    padding: 2rem 0;
+    /* 给主页内容一些垂直的呼吸空间 */
+}
+
+/* 对主页上的列表进行特殊处理 */
+.home-layout ul {
+    /* 将列表本身作为一个块在页面上居中显示 */
+    display: inline-block;
+
+    /* 但保持列表项内部的文字是左对齐的，这样更易读 */
+    text-align: left;
+
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+    /* 移除列表前面的黑点 */
+}
+
+.home-layout li {
+    padding: 0.75rem 0;
+    /* 增加每个列表项之间的垂直间距 */
+    border-bottom: 1px solid var(--pico-muted-border-color);
+    /* 在列表项之间增加一条柔和的分割线 */
+}
+
+.home-layout li:last-child {
+    border-bottom: none;
+    /* 最后一项不需要分割线 */
+}

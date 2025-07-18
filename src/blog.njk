@@ -4,41 +4,37 @@ layout: "base.njk"
 permalink: "/"
 ---
 
-<p>嘿，欢迎来到我的个人网站，这里记录了一些我的想法，笔记和视频转文字的集合。</p>
+{# 我们用一个 home-layout 的 div 把所有内容包起来 #}
+<div class="home-layout">
 
-<h1>最新动态</h1>
+  <p>嘿，欢迎来到我的个人网站，这里记录了一些我的想法，笔记和视频转文字的集合。</p>
 
-<ul>
-  {# 
-    我们直接遍历 Eleventy 内置的 collections.all 集合。
-    这个集合包含了网站的所有页面和内容。
-  #}
-  {%- for item in collections.all | sort(true, false, 'date') -%}
-    {# 
-      我们增加一个 if 判断，只显示那些在 posts, books, 或 notes 文件夹里的内容。
-      这就把布局文件、标签页等其他所有我们不希望展示的页面都过滤掉了。
-    #}
-    {% if item.filePathStem and (item.filePathStem.includes('/posts/') or item.filePathStem.includes('/books/') or item.filePathStem.includes('/notes/')) %}
-      <li>
-        <a href="{{ item.url | url }}">
-          {{ item.data.title }}
-        </a>
+  <h1>最新动态</h1>
 
-        {# 徽章部分保持不变 #}
-        {% if item.filePathStem.includes('/posts/') %}
-          <span class="badge">博客文章</span>
-        {% elif item.filePathStem.includes('/books/') %}
-          <span class="badge">读书笔记</span>
-        {% elif item.filePathStem.includes('/notes/') %}
-          <span class="badge">视频笔记</span>
-        {% endif %}
-        <br>
+  <ul>
+    {# 循环部分的代码保持不变 #}
+    {%- for item in collections.all | sort(true, false, 'date') -%}
+      {% if item.filePathStem and (item.filePathStem.includes('/posts/') or item.filePathStem.includes('/books/') or item.filePathStem.includes('/notes/')) %}
+        <li>
+          <a href="{{ item.url | url }}">{{ item.data.title }}</a>
 
-        {# 在显示日期前，先检查 item.date 是否存在 #}
-        {% if item.date %}
-          <time datetime="{{ item.date }}">{{ item.date.toLocaleDateString() }}</time>
-        {% endif %}
-      </li>
-    {% endif %}
-  {%- endfor -%}
-</ul>
+          {# 徽章部分 #}
+          {% if item.filePathStem.includes('/posts/') %}
+            <span class="badge">博客文章</span>
+          {% elif item.filePathStem.includes('/books/') %}
+            <span class="badge">读书笔记</span>
+          {% elif item.filePathStem.includes('/notes/') %}
+            <span class="badge">视频笔记</span>
+          {% endif %}
+          <br>
+
+          {# 日期部分 #}
+          {% if item.date %}
+            <time datetime="{{ item.date }}">{{ item.date.toLocaleDateString() }}</time>
+          {% endif %}
+        </li>
+      {% endif %}
+    {%- endfor -%}
+  </ul>
+
+</div>

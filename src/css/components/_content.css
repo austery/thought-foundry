@@ -1,33 +1,51 @@
-/* === 主内容区 === */
+/* src/css/components/_content.css */
+
 .main-content {
     flex: 1;
     background-color: #fff;
-    padding: 20px 30px;
+    padding: 20px 40px;
+    /* 增加了左右的内边距 */
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
+/* --- 新增的排版样式 --- */
+
+/* 主标题 (H1) */
 .main-content h1 {
-    font-size: 1.8em;
-    margin-bottom: 1em;
-}
-
-.main-content h2 {
-    font-size: 1.4em;
-    border-bottom: 2px solid #007bff;
+    font-size: 2em;
+    /* 显著增大字号 */
+    border-bottom: 2px solid #eee;
+    /* 添加柔和的下边框 */
     padding-bottom: 10px;
-    margin-top: 2em;
-    margin-bottom: 1em;
+    margin-top: 0;
+    margin-bottom: 1.5em;
+    /* 增加与下方内容的间距 */
 }
 
+/* 二级标题 (H2) */
+.main-content h2 {
+    font-size: 1.6em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+    margin-top: 40px;
+    /* 显著增加与上方段落的间距，形成区隔 */
+    margin-bottom: 1.2em;
+}
+
+/* 三级标题 (H3) */
 .main-content h3 {
-    font-size: 1.2em;
-    margin-top: 1.5em;
-    margin-bottom: 0.8em;
+    font-size: 1.3em;
+    margin-top: 30px;
+    margin-bottom: 1em;
 }
 
+/* 普通段落 */
 .main-content p {
-    margin-bottom: 1em;
+    margin-bottom: 1.2em;
+    /* 增加段落间的行距 */
+    line-height: 1.7;
+    /* 增加行高，让阅读更轻松 */
 }
 
 /* 双语内容样式 */

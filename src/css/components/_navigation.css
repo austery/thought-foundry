@@ -1,34 +1,35 @@
 /* src/css/components/_navigation.css */
 
-.main-nav {
-    display: flex;
-    justify-content: space-between;
-    /* 核心：将子元素推向两端 */
-    align-items: center;
-    /* 垂直居中 */
-    padding: 1rem 0;
-    /* 给头部一些垂直内边距 */
+.site-title-container {
+    text-align: center;
+    /* 标题文字居中 */
+    padding: 2rem 0 1rem 0;
+    /* 增加上下的间距 */
 }
 
 .site-title {
     font-weight: bold;
-    font-size: 1.25rem;
+    font-size: 2rem;
+    /* 放大标题字号 */
     text-decoration: none;
     color: var(--pico-h1-color);
-    /* 使用 Pico.css 的标题颜色变量 */
 }
 
-.nav-right {
+.main-nav ul {
     display: flex;
-    align-items: center;
+    /* 让导航链接横向排列 */
+    justify-content: center;
+    /* 关键：让导航链接整体居中 */
     gap: 1.5rem;
-    /* 在导航和搜索框之间增加间距 */
+    /* 导航链接之间的间距 */
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
-.nav-right ul {
-    margin: 0;
-    /* 移除 Pico.css 默认的列表边距 */
-    display: flex;
-    gap: 1rem;
-    /* 在导航链接之间增加间距 */
+.search-container {
+    max-width: 400px;
+    /* 限制搜索框的最大宽度 */
+    margin: 1.5rem auto 0 auto;
+    /* 上下边距，并让它水平居中 */
 }

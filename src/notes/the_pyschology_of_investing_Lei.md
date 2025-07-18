@@ -3,12 +3,13 @@ title: "投资心理学｜THE PSYCHOLOGY OF INVESTING"
 layout: "post.njk"  
 date: "2024-02-21"
 tags:
-  - "Investment"
+  - "投资"
   - "视频笔记" 
+  - "book"
 data:
   author: "Lei"
-  speaker: "雷公"
-  guest: "无" 
+  speaker: "LEI"
+  guest: "" 
   source: "https://www.youtube.com/watch?v=Yqn0lv9ymLk"
 ---
 

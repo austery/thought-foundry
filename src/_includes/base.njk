@@ -8,23 +8,29 @@
 </head>
 <body>
 
-  <header class="container">
-    <nav class="main-nav">
-      <a href="{{ '/' | url }}" class="site-title"><strong>My Awesome Site</strong></a>
+<header class="container">
 
-      <div class="nav-right">
-        <ul>
-          <li><a href="{{ '/' | url }}">Home</a></li>
-          <li><a href="{{ '/all-tags/' | url }}">Tags</a></li>
-          <li><a href="{{ '/about/' | url }}">About</a></li>
-        </ul>
-        <form id="search-form" role="search">
-          <input type="search" id="search-input" placeholder="Search...">
-        </form>
-      </div>
-    </nav>
-    <div id="search-results"></div>
-  </header>
+  <nav class="main-nav">
+
+    <a href="{{ '/' | url }}" class="site-title"><strong>The Learning Grove</strong></a>
+
+    <div class="nav-right">
+
+      <ul>
+        <li><a href="{{ '/' | url }}">首页</a></li>
+        <li><a href="{{ '/all-tags/' | url }}">标签</a></li>
+        <li><a href="{{ '/about/' | url }}">关于</a></li>
+        <li><a href="{{ '/tool/' | url }}">工具</a></li>
+      </ul>
+
+      <form id="search-form" role="search">
+        <input type="search" id="search-input" placeholder="Search...">
+      </form>
+    </div>
+  </nav>
+
+  <div id="search-results"></div>
+</header>
 
   <main class="container">
     {{ content | safe }}

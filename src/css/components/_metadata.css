@@ -1,8 +1,7 @@
 /* src/css/components/_metadata.css */
 
 .metadata-block {
-    /* 使用 Pico 的浅灰色变量作为背景色，保持风格统一 */
-    background-color: var(--pico-secondary-background);
+    background-color: #f9f9f9;
 
     /* 使用 Pico 的主题色变量作为边框颜色 */
     border-left: 4px solid var(--pico-primary);

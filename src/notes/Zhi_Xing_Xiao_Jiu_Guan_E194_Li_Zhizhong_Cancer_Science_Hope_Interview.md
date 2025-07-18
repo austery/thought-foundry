@@ -4,8 +4,10 @@ layout: "post.njk"
 date: "2025-07-09"
 tags:
   - "视频笔记" 
-  - "Podcast"
-  - "Health"
+  - "癌症科普"
+  - "菠萝因子"
+  - "医学科普"
+  - "知行小酒馆"
 data:
   author: "Lei"
   speaker: "雨白"

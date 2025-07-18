@@ -1,3 +1,5 @@
+@import url("./base/_typography.css");
+@import url("./layouts/_home.css");
 @import url("./base/_post.css");
 @import url("./components/_metadata.css");
 @import url("./components/_sidebar.css");
