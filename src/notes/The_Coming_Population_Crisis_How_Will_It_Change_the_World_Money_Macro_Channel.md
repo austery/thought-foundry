@@ -9,9 +9,9 @@ tags:
   - "全球经济"
 data:
   author: "Lei"
-  podcast_program: "Money & Macro""
-  speaker: ""
-  guest: "" 
+  podcast_program: "Money & Macro"
+  speaker:  ""
+  guest:  "" 
   source: "https://www.youtube.com/watch?v=DDEOCJvmzKo&t"
 ---
 

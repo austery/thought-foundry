@@ -5,16 +5,13 @@ date: "2025-07-10"
 tags:
   - "视频笔记"
   - "哈佛演讲"
-  - "六四事件"
-  - "中美关系"
-  - "留学生"
   - "政治反思"
 data:
   author: "Lei"
   podcast_program: ""
-  speaker: "路飞 (SPEAKER_03)"
-  guest: "" 
-  source: "wlf64.txt"
+  speaker: "路飞"
+  guest: "老尹" 
+  source: ""
 ---
 
 # 专题讨论：从哈佛演讲争议到六四历史反思

@@ -8,7 +8,6 @@ tags:
   - "阿德勒心理学"
   - "自我接纳"
   - "课题分离"
-  - "共同体"
 data:
   author: "Lei"
   podcast_program: ""

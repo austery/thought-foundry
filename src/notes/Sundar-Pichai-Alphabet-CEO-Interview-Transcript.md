@@ -4,15 +4,12 @@ layout: "post.njk"
 date: "2025-05-25"
 tags:
   - "视频笔记"
-  - "桑达尔·皮查伊"
   - "谷歌"
-  - "Alphabet"
   - "人工智能"
-  - "未来科技"
 data:
   author: "Lei"
   podcast_program: ""
-  speaker: ""
+  speaker: "Sundar Pichai"
   guest: "" 
   source: ""
 ---

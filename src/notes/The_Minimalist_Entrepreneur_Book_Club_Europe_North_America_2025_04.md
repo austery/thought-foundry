@@ -4,22 +4,18 @@ layout: "post.njk"
 date: "2025-07-10"
 tags:
   - "视频笔记"
-  - "极简创业"
   - "副业"
   - "创业"
   - "读书会"
-  - "个人成长"
 data:
   author: "Lei"
   podcast_program: ""
-  speaker: "Vivian, Simon L, Ge Su, 路遥, Kathy, 翻新, Fancy, 鹏哥"
+  speaker: "Vivian, Simon L, Ge Su, 路遥, Kathy, 翻新, Fancy"
   guest: "" 
   source: ""
 ---
 
 # 「欧洲|北美场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
-
-**主讲人：** Vivian, Simon L, Ge Su, 路遥, Kathy, 翻新, Fancy, 鹏哥
 
 ## 开场与介绍
 

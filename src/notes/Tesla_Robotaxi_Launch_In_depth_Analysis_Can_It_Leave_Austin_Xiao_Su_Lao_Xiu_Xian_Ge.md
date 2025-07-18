@@ -5,16 +5,13 @@ date: "2025-07-10"
 tags:
   - "视频笔记"
   - "特斯拉"
-  - "Robotaxi"
   - "自动驾驶"
-  - "FSD"
-  - "商业模式"
 data:
   author: "Lei"
   podcast_program: ""
   speaker: "小苏"
   guest: "老修, 闲哥" 
-  source: "https://www.youtube.com/watch?v=YOUR_VIDEO_ID"
+  source: "https://www.youtube.com/watch?v=S23kV4knddk&t"
 ---
 
 # 特斯拉Robotaxi上线深度解析：它能走出奥斯汀吗？

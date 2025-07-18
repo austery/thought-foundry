@@ -7,7 +7,6 @@ tags:
   - "投资"
   - "能力圈"
   - "安全边际"
-  - "周期性行业"
 data:
   author: "Lei"
   podcast_program: "加拿大ETF投资小组"

@@ -4,11 +4,8 @@ layout: "post.njk"
 date: "2025-07-10"
 tags:
   - "视频笔记"
-  - "克里斯·霍恩"
-  - "TCI基金"
-  - "价值投资"
+  - "投资"
   - "护城河"
-  - "慈善事业"
 data:
   author: "Lei"
   podcast_program: ""
