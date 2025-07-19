@@ -1,8 +1,7 @@
 ---
 tags:
   - "Book"
-  - "Investment"
-  - "Podcast"
+  - "投资"
 title: "The Uncertainty Solution"
 date: "2024-10-03"
 layout: "post.njk"

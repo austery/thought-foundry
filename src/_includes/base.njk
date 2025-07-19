@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-Hans">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,41 +8,41 @@
 </head>
 <body>
 
-<header class="container">
+  <div class="page-wrapper">
+    <header class="site-header">
+      <div class="site-title">
+        <a href="{{ '/' | url }}"><strong>The Learning Grove</strong></a>
+      </div>
+      <nav class="main-nav">
+        <ul>
+          <li><a href="{{ '/' | url }}">首页</a></li>
+          <li><a href="{{ '/all-tags/' | url }}">标签</a></li>
+          <li><a href="{{ '/about/' | url }}">关于</a></li>
+          <li><a href="{{ '/tool/' | url }}">工具</a></li>
+        </ul>
+      </nav>
+      <div class="search-container">
+        <form id="search-form" role="search">
+            <input type="search" id="search-input" placeholder="Search...">
+        </form>
+      </div>
+    </header>
 
-  <nav class="main-nav">
+    <div id="search-results" class="container"></div>
 
-    <a href="{{ '/' | url }}" class="site-title"><strong>The Learning Grove</strong></a>
+    <main class="site-content">
+      {{ content | safe }}
+    </main>
 
-    <div class="nav-right">
-
-      <ul>
-        <li><a href="{{ '/' | url }}">首页</a></li>
-        <li><a href="{{ '/all-tags/' | url }}">标签</a></li>
-        <li><a href="{{ '/about/' | url }}">关于</a></li>
-        <li><a href="{{ '/tool/' | url }}">工具</a></li>
-      </ul>
-
-      <form id="search-form" role="search">
-        <input type="search" id="search-input" placeholder="Search...">
-      </form>
-    </div>
-  </nav>
-
-  <div id="search-results"></div>
-</header>
-
-  <main class="container">
-    {{ content | safe }}
-  </main>
-
-  <footer class="container">
-    <p>&copy; 2025 Austery. All rights reserved.</p>
-  </footer>
+    <footer class="site-footer">
+      <p>&copy; 2025 Austery. All rights reserved.</p>
+    </footer>
+  </div>
 
   <script>
     const site_url = "{{ '/' | url }}";
   </script>
   <script src="{{ '/js/search.js' | url }}"></script>
+
 </body>
 </html>

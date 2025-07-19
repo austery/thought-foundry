@@ -1,0 +1,17 @@
+/* src/css/layouts/_containers.css */
+
+/* 为 default.njk 布局提供一个 800px 宽的居中容器 */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* 为 post.njk 布局提供一个 1200px 宽的居中容器 */
+.report-container {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    max-width: 1200px;
+    margin: 20px auto 0 auto;
+}

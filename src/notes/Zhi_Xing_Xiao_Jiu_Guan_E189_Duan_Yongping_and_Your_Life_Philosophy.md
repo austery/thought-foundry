@@ -6,15 +6,14 @@ tags:
   - "视频笔记"
   - "段永平"
   - "人生哲学"
-  - "价值投资"
-  - "本分"
+  - "投资"
   - "知行小酒馆"
 data:
   author: "Lei"
   podcast_program: ""
   speaker: "雨白"
   guest: "小波老师" 
-  source: "[视频的完整链接]"
+  source: ""
 ---
 
 # E189 聊聊段永平，以及你想活出怎样的人生

@@ -1,0 +1,61 @@
+/* src/css/layouts/_main-layout.css */
+
+/* 主容器：限制最大宽度并使其居中 */
+.main-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+/* 头部：使用 Flexbox 让内部元素垂直排列并居中 */
+.site-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 0;
+}
+
+.site-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+
+.site-title a {
+    text-decoration: none;
+    color: var(--pico-h1-color);
+}
+
+/* 导航链接 */
+.main-nav ul {
+    display: flex;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* 搜索容器 */
+.search-container {
+    margin-top: 1.5rem;
+    width: 100%;
+    max-width: 400px;
+    /* 限制搜索框宽度 */
+}
+
+/* 网站页脚 */
+.site-footer {
+    text-align: center;
+    margin-top: 4rem;
+    padding: 2rem 0;
+    font-size: 0.9em;
+    color: var(--pico-secondary);
+    border-top: 1px solid var(--pico-muted-border-color);
+}
+.container {
+    max-width: 800px;
+    /* 为简单页面设置一个舒适的阅读宽度 */
+    margin: 0 auto;
+    /* 水平居中 */
+    padding: 0 1rem;
+}

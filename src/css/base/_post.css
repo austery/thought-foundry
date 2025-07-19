@@ -1,3 +1,5 @@
+/* src/css/base/_post.css */
+
 /* === 基础与布局 === */
 .report-container {
     display: flex;
@@ -7,8 +9,99 @@
     margin: 20px auto 0 auto;
 }
 
+/* === 目录侧边栏 === */
+.sidebar-toc {
+    flex: 0 0 250px;
+    /* 固定宽度，确保目录不会太宽 */
+    position: sticky;
+    top: 20px;
+    align-self: flex-start;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.sidebar-toc h3 {
+    margin-top: 0;
+    font-size: 1.1em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.sidebar-toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-toc li a {
+    text-decoration: none;
+    color: var(--pico-primary);
+    display: block;
+    padding: 8px 0;
+    transition: color 0.2s;
+}
+
+.sidebar-toc li a:hover {
+    color: var(--pico-primary-hover);
+}
+
+/* 为三级标题（h3）在目录中增加缩进 */
+.sidebar-toc .toc-h3 a {
+    padding-left: 15px;
+}
+
+/* === 主内容区 === */
+.main-content {
+    flex: 1;
+    /* 占据所有剩余空间 */
+    min-width: 0;
+    /* 允许内容区在必要时收缩 */
+    background-color: #fff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* 标题样式 */
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+    color: #222;
+}
+
+.main-content h1 {
+    font-size: 2em;
+    margin-bottom: 0.8em;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.5em;
+}
+
+.main-content h2 {
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.4em;
+}
+
+.main-content h3 {
+    font-size: 1.2em;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+}
+
+.main-content p {
+    margin-bottom: 1em;
+    line-height: 1.7;
+    /* 增加行高，提升阅读舒适度 */
+}
+
 /* === 响应式设计 === */
-@media (max-width: 768px) {
+@media (max-width: 992px) {
     .report-container {
         flex-direction: column;
     }

@@ -1,0 +1,43 @@
+/* src/css/components/_header.css */
+
+.site-header {
+    display: flex;
+    flex-direction: column;
+    /* 关键：让内部元素垂直堆叠 */
+    align-items: center;
+    /* 关键：让所有子元素在交叉轴上（水平）居中 */
+    padding: 2rem 0;
+    /* 给头部一些垂直的呼吸空间 */
+    text-align: center;
+}
+
+.site-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    /* 标题和导航之间的间距 */
+}
+
+.site-title a {
+    text-decoration: none;
+    color: var(--pico-h1-color);
+}
+
+/* 导航链接 */
+.main-nav ul {
+    display: flex;
+    gap: 1.5rem;
+    /* 导航链接之间的间距 */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* 搜索容器 */
+.search-container {
+    margin-top: 1.5rem;
+    /* 导航和搜索框之间的间距 */
+    width: 100%;
+    max-width: 400px;
+    /* 限制搜索框宽度 */
+}

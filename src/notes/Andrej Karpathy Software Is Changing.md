@@ -4,67 +4,29 @@ layout: "post.njk"
 date: "2025-06-20"
 tags:
   - "视频笔记"
-  - "Software 2.0"
-  - "Software 3.0"
-  - "LLM"
   - "AI"
-  - "Andrej Karpathy"
+  - "Thinking"
 data:
   author: "Lei"
   podcast_program: ""
   speaker: "Andrej Karpathy，特斯拉前人工智能总监。"
   guest: "" 
-  source: "#section-1"
+  source: ""
 ---
 
 # Andrej Karpathy: Software Is Changing (Again)
-
-<div class="speaker-intro">
 
 **Speaker:** Andrej Karpathy, former Director of AI at Tesla.
 
 **主讲人：** Andrej Karpathy，特斯拉前人工智能总监。
 
-
-
-<div class="stats-bar">
-
-<div>
-
 Word Count: approx. 4,500  
 总字数：约 4,500 字
-
-
-
-<div>
 
 Estimated Reading Time: approx. 15 minutes  
 预计阅读时间：约 15 分钟
 
-
-
-Copy as Markdown
-
-
-
-<div class="toc">
-
-### Table of Contents / 目录
-
-- [Introduction: Software is Changing, Again](#section-1)
-- [A New Era: Software 1.0, 2.0, and 3.0](#section-2)
-- [The New Computer: LLMs as Operating Systems](#section-3)
-- [The Psychology of LLMs: Working with "People Spirits"](#section-4)
-- [Opportunities: Programming the New Computer](#section-5)
-- [The Natural Language Interface: Everyone is a Programmer](#section-6)
-- [Building for Agents: A New Digital Consumer](#section-7)
-- [Conclusion](#section-8)
-
-
-
 ## Introduction: Software is Changing, Again / 引言：软件正在再次变革
-
-<div class="lang-en">
 
 Hello. I'm excited to be here today to talk to you about software in the
 era of AI. I'm told that many of you are students—bachelors, masters,
@@ -81,27 +43,16 @@ speaking, software has not changed much on such a fundamental level for
 the last few years. There's just a huge amount of work to do, a huge
 amount of software to write and rewrite.
 
-
-
-<div class="lang-zh">
-
 大家好。今天我很高兴能在这里与大家探讨人工智能时代的软件。我听说在座的许多是学生——本科生、硕士生、博士生等等——即将进入这个行业。我认为，现在是进入这个行业一个极其独特且非常有趣的时刻。其根本原因在于，软件正在再次发生变革。
 
-我之所以说“再次”，是因为我其实已经做过这个演讲了，但问题是软件总在不断变化。因此，我有很多新材料来创作新的演讲，而且我认为这种变化是相当根本性的。粗略地说，软件在如此基础的层面上已经有70年没有太大变化了。但在过去的几年里，我认为它迅速地变革了大约两次。这意味着有巨量的工作等待我们去做，有巨量的软件需要我们去编写和去重写。
-
-
+我之所以说“再次”，是因为我其实已经做过这个演讲了，但问题是软件总在不断变化。因此，我有很多新材料来创作新的演讲，而且我认为这种变化是相当根本性的。粗略地说，软件在如此基础的层面上已经有 70 年没有太大变化了。但在过去的几年里，我认为它迅速地变革了大约两次。这意味着有巨量的工作等待我们去做，有巨量的软件需要我们去编写和去重写。
 
 ## A New Era: Software 1.0, 2.0, and 3.0 / 新纪元：软件 1.0、2.0 与 3.0
-
-<div class="lang-en">
 
 If we think of the map of software, like all the instructions written
 for computers, a few years ago I observed that software was changing.
 There was a new type of software around, and I called this
-<span class="tooltip">Software 2.0<span class="tooltiptext">Software
-2.0: A programming paradigm where neural network weights, optimized on
-data, form the "code," as opposed to traditional, explicitly written
-instructions (Software 1.0).</span></span> at the time. The idea here
+**Software 2.0** at the time. The idea here
 was that Software 1.0 is the code you write for the computer. Software
 2.0 are basically neural networks, and in particular, the weights of a
 neural network. You're not writing this code directly; you are more like
@@ -113,11 +64,8 @@ in the realm of Software 2.0, and I think Hugging Face is basically that
 equivalent.
 
 But what's changed, and I think is a quite fundamental change, is that
-neural networks became programmable with <span class="tooltip">Large
-Language Models (LLMs)<span class="tooltiptext">LLM (Large Language
-Model): A type of AI trained on vast text data to understand and
-generate human-like language, capable of performing diverse tasks
-through prompts.</span></span>. I see this as a new kind of computer,
+neural networks became programmable with **Large
+Language Models (LLMs)**. I see this as a new kind of computer,
 and in my mind, it's worth giving it a new designation of Software 3.0.
 Your prompts are now programs that program the LLM. And remarkably,
 these prompts are written in English. So it's a very interesting
@@ -137,38 +85,24 @@ literally ate through the software stack of the Autopilot. I think we're
 seeing the same thing again, where a new kind of software is eating
 through the stack.
 
+如果我们把软件版图想象成所有为计算机编写的指令集合，几年前我观察到软件正在发生变化。出现了一种新型的软件，当时我称之为**软件 2.0**。其理念是，软件 1.0 是你为计算机编写的代码；而软件 2.0 基本上是神经网络，特别是神经网络的权重。你并非直接编写这些“代码”，而更像是在调整数据集，然后运行一个优化器来生成这些神经网络的参数。当时，神经网络被看作是另一种分类器，就像决策树一样。我认为这个框架更为贴切。现在，我们在软件 2.0 领域有了一个与 GitHub 等价的平台，我认为 Hugging
+Face 基本上就是这个等价物。
 
+但是，我认为一个非常根本性的变化是，随着**大型语言模型LLM**的出现，神经网络变得可编程了。我视之为一种新型计算机，在我看来，它值得一个新的称号——“软件 3.0”。你的提示（prompts）现在就是编程 LLM 的程序。而且，值得注意的是，这些提示是用英语写成的，这是一种非常有趣的编程语言。
 
-<div class="lang-zh">
+总结一下差异：如果你要做情感分类，你可以编写 Python 代码（软件 1.0），训练一个神经网络（软件 2.0），或者向一个大型语言模型提问（软件 3.0）。我们拥有三种完全不同的编程范式。
 
-如果我们把软件版图想象成所有为计算机编写的指令集合，几年前我观察到软件正在发生变化。出现了一种新型的软件，当时我称之为<span class="tooltip">“软件2.0”<span class="tooltiptext">软件2.0
-(Software
-2.0)：一种新的编程范式，其“代码”由神经网络的权重构成，这些权重通过在数据上进行优化而得，而非传统的手动编写指令（软件1.0）。</span></span>。其理念是，软件1.0是你为计算机编写的代码；而软件2.0基本上是神经网络，特别是神经网络的权重。你并非直接编写这些“代码”，而更像是在调整数据集，然后运行一个优化器来生成这些神经网络的参数。当时，神经网络被看作是另一种分类器，就像决策树一样。我认为这个框架更为贴切。现在，我们在软件2.0领域有了一个与GitHub等价的平台，我认为Hugging
-Face基本上就是这个等价物。
+当我在特斯拉研究自动驾驶（Autopilot）时，我观察到，随着我们不断改进 Autopilot，神经网络（软件 2.0）的能力和规模都在增长。与此同时，大量的 C++代码（软件 1.0）被删除。许多最初用 1.0 实现的功能被迁移到了 2.0。软件 2.0 的堆栈可以说吞噬了 Autopilot 的软件堆栈。我认为我们现在正再次目睹同样的事情，一种新型软件正在吞噬现有的技术栈。
 
-但是，我认为一个非常根本性的变化是，随着<span class="tooltip">大型语言模型（LLM）<span class="tooltiptext">大型语言模型(LLM)：一种在海量文本数据上训练的人工智能，能够通过提示（prompt）理解并生成类似人类的语言，执行多样化任务。</span></span>的出现，神经网络变得可编程了。我视之为一种新型计算机，在我看来，它值得一个新的称号——“软件3.0”。你的提示（prompts）现在就是编程LLM的程序。而且，值得注意的是，这些提示是用英语写成的，这是一种非常有趣的编程语言。
-
-总结一下差异：如果你要做情感分类，你可以编写Python代码（软件1.0），训练一个神经网络（软件2.0），或者向一个大型语言模型提问（软件3.0）。我们拥有三种完全不同的编程范式。
-
-当我在特斯拉研究自动驾驶（Autopilot）时，我观察到，随着我们不断改进Autopilot，神经网络（软件2.0）的能力和规模都在增长。与此同时，大量的C++代码（软件1.0）被删除。许多最初用1.0实现的功能被迁移到了2.0。软件2.0的堆栈可以说吞噬了Autopilot的软件堆栈。我认为我们现在正再次目睹同样的事情，一种新型软件正在吞噬现有的技术栈。
-
-
-
-## The New Computer: LLMs as Operating Systems / 新型计算机：作为操作系统的LLM
-
-<div class="lang-en">
+## The New Computer: LLMs as Operating Systems / 新型计算机：作为操作系统的 LLM
 
 ### The Utility Analogy
 
 LLMs certainly feel like they have properties of utilities. LLM labs
 like OpenAI or Anthropic spend
-<span class="tooltip">capex<span class="tooltiptext">Capex (Capital
-Expenditure): Funds used by a company to acquire, upgrade, and maintain
-physical assets like property, buildings, or equipment.</span></span> to
+**capex** to
 train the LLMs, equivalent to building out a grid. Then there's
-<span class="tooltip">opex<span class="tooltiptext">Opex (Operational
-Expenditure): The ongoing costs for a company to run its business, such
-as wages, rent, and utilities.</span></span> to serve that intelligence
+**opex** to serve that intelligence
 over APIs, with metered access where we pay per million tokens. We
 demand low latency, high uptime, and consistent quality. It's
 fascinating that when state-of-the-art LLMs go down, it's like an
@@ -177,9 +111,7 @@ intelligence brownout in the world. The planet just gets dumber.
 ### The Fab Analogy
 
 They also have properties of
-<span class="tooltip">fabs<span class="tooltiptext">Fab (Fabrication
-Plant): A factory where devices, such as integrated circuits (computer
-chips), are manufactured.</span></span>. The capex is quite large, and
+**fabs**. The capex is quite large, and
 the tech tree for the technology is growing rapidly. We see deep tech
 trees and R&D secrets centralizing inside LLM labs. However, the analogy
 muddies because this is software, which is less defensible and more
@@ -207,9 +139,7 @@ economical.
 
 Whenever I talk to an LLM directly in text, I feel like I'm talking to
 an operating system through the terminal. A
-<span class="tooltip">GUI<span class="tooltiptext">GUI (Graphical User
-Interface): A visual way of interacting with a computer using items such
-as windows, icons, and menus.</span></span> hasn't yet really been
+**GUI** hasn't yet really been
 invented in a general way. One unique difference this time around is
 that LLMs flip the direction of technology diffusion. Technologies like
 electricity, computing, or the internet were first used by governments
@@ -218,32 +148,23 @@ flipped. We have a new magical computer, and it's helping me boil an
 egg, not helping the government with military ballistics. Corporations
 and governments are lagging behind in adoption.
 
-
-
-<div class="lang-zh">
-
 ### 公共事业类比
 
-LLM无疑具有公共事业的某些属性。像OpenAI或Anthropic这样的LLM实验室投入<span class="tooltip">资本性支出（capex）<span class="tooltiptext">资本性支出(Capex)：公司用于购置、升级和维护如地产、建筑或设备等实物资产的资金。</span></span>来训练LLM，这相当于建设电网。然后通过API提供智能服务，这部分属于<span class="tooltip">运营性支出（opex）<span class="tooltiptext">运营性支出(Opex)：公司维持业务运营的持续性成本，如工资、租金和水电费。</span></span>，我们则通过按百万token计费的计量方式付费。我们要求低延迟、高正常运行时间和稳定的质量。有趣的是，当最先进的LLM宕机时，就像是世界范围的“智能断电”，整个星球都变笨了。
+LLM 无疑具有公共事业的某些属性。像 OpenAI 或 Anthropic 这样的 LLM 实验室投入**资本性支出capex**(资本性支出(Capex)：公司用于购置、升级和维护如地产、建筑或设备等实物资产的资金)来训练 LLM，这相当于建设电网。然后通过 API 提供智能服务，这部分属于**运营性支出opex**(运营性支出(Opex)：公司维持业务运营的持续性成本，如工资、租金和水电费)，我们则通过按百万 token 计费的计量方式付费。我们要求低延迟、高正常运行时间和稳定的质量。有趣的是，当最先进的 LLM 宕机时，就像是世界范围的“智能断电”，整个星球都变笨了。
 
 ### 芯片工厂（Fab）类比
 
-它们也具有<span class="tooltip">芯片工厂（fab）<span class="tooltiptext">芯片工厂(Fab)：用于制造半导体设备，如集成电路（计算机芯片）的工厂。</span></span>的属性。资本支出相当巨大，技术树也发展迅速。我们看到深度的技术树和研发秘密都集中在LLM实验室内。然而，这个类比也不完全贴切，因为这是软件，其防御性较差，可塑性更强。
+它们也具有**芯片工厂fab**的属性。资本支出相当巨大，技术树也发展迅速。我们看到深度的技术树和研发秘密都集中在 LLM 实验室内。然而，这个类比也不完全贴切，因为这是软件，其防御性较差，可塑性更强。
 
 ### 操作系统类比
 
-但我认为最贴切的类比是，LLM与操作系统有极强的相似性。这不仅仅是像自来水一样的商品，而是日益复杂的软件生态系统。其生态的形成方式也很相似：少数闭源提供商（如Windows或macOS）和一个开源替代品（如Linux）。对于LLM，我们有几个相互竞争的闭源提供商，而Llama生态系统或许是未来可能成长为Linux等价物的一个近似。
+但我认为最贴切的类比是，LLM 与操作系统有极强的相似性。这不仅仅是像自来水一样的商品，而是日益复杂的软件生态系统。其生态的形成方式也很相似：少数闭源提供商（如 Windows 或 macOS）和一个开源替代品（如 Linux）。对于 LLM，我们有几个相互竞争的闭源提供商，而 Llama 生态系统或许是未来可能成长为 Linux 等价物的一个近似。
 
-LLM就像一种新型计算机。LLM本身相当于CPU，上下文窗口（context
-window）如同内存，LLM负责协调内存和计算来解决问题。这看起来非常像一个操作系统。我们正处于一个类似1960年代的时期，LLM计算资源仍然非常昂贵，迫使其集中在云端。我们都只是通过网络与其交互的瘦客户端，使用分时共享系统。个人计算革命尚未到来，因为它在经济上还不可行。
+LLM 就像一种新型计算机。LLM 本身相当于 CPU，上下文窗口（context window）如同内存，LLM 负责协调内存和计算来解决问题。这看起来非常像一个操作系统。我们正处于一个类似 1960 年代的时期，LLM 计算资源仍然非常昂贵，迫使其集中在云端。我们都只是通过网络与其交互的瘦客户端，使用分时共享系统。个人计算革命尚未到来，因为它在经济上还不可行。
 
-每当我直接用文本与LLM交流时，感觉就像通过终端与操作系统对话。<span class="tooltip">图形用户界面（GUI）<span class="tooltiptext">图形用户界面(GUI)：一种通过窗口、图标和菜单等可视化元素与计算机交互的方式。</span></span>尚未以一种通用的形式被发明出来。这一次一个独特的不同之处在于，LLM颠覆了技术扩散的方向。像电力、计算或互联网这样的技术，通常首先由政府和企业使用，然后才普及到消费者。而LLM则相反。我们有了一台神奇的新电脑，它却在帮我煮鸡蛋，而不是帮助政府进行军事弹道计算。企业和政府在采用这些技术方面反而落后了。
+每当我直接用文本与 LLM 交流时，感觉就像通过终端与操作系统对话。**图形用户界面GUI**尚未以一种通用的形式被发明出来。这一次一个独特的不同之处在于，LLM 颠覆了技术扩散的方向。像电力、计算或互联网这样的技术，通常首先由政府和企业使用，然后才普及到消费者。而 LLM 则相反。我们有了一台神奇的新电脑，它却在帮我煮鸡蛋，而不是帮助政府进行军事弹道计算。企业和政府在采用这些技术方面反而落后了。
 
-
-
-## The Psychology of LLMs: Working with "People Spirits" / LLM的心理学：与“心智模拟体”共事
-
-<div class="lang-en">
+## The Psychology of LLMs: Working with "People Spirits" / LLM 的心理学：与“心智模拟体”共事
 
 The way I like to think about LLMs is that they're kind of like "people
 spirits." They are stochastic simulations of people, and the simulator
@@ -253,7 +174,7 @@ trained on humans, it has this emergent psychology that is humanlike.
 ### Superpowers and Deficits
 
 First, LLMs have encyclopedic knowledge and memory, much like the
-character in the movie *Rain Man*, an autistic savant with almost
+character in the movie _Rain Man_, an autistic savant with almost
 perfect memory. They can remember SHA hashes and lots of different
 things very easily. However, they also have a bunch of cognitive
 deficits. They hallucinate quite a bit. They display jagged
@@ -261,32 +182,18 @@ intelligence—superhuman in some domains, but making mistakes no human
 would make in others. They also suffer from anterograde amnesia; their
 "weights" are fixed, and their context windows (working memory) get
 wiped. They don't learn and develop expertise over time like a human
-coworker does. Movies like *Memento* and *51st First Dates* illustrate
+coworker does. Movies like _Memento_ and _51st First Dates_ illustrate
 this problem well. Finally, they are quite gullible and susceptible to
-<span class="tooltip">prompt injection<span class="tooltiptext">Prompt
-Injection: A security vulnerability where an attacker manipulates an
-LLM's output by crafting malicious inputs (prompts).</span></span>
-risks. So, we have to think through how to work around their deficits
+**prompt injection**risks. So, we have to think through how to work around their deficits
 while enjoying their superhuman powers.
 
-
-
-<div class="lang-zh">
-
-我喜欢将LLM看作是“心智模拟体”（people
-spirits）。它们是对人类的随机模拟，而这个模拟器恰好是一个自回归的Transformer。因为它是在人类数据上训练的，所以它涌现出了类似人类的心理特征。
+我喜欢将 LLM 看作是“心智模拟体”（people spirits）。它们是对人类的随机模拟，而这个模拟器恰好是一个自回归的 Transformer。因为它是在人类数据上训练的，所以它涌现出了类似人类的心理特征。
 
 ### 超能力与缺陷
 
-首先，LLM拥有百科全书般的知识和记忆力，很像电影《雨人》中的角色——一个记忆力近乎完美的自闭症天才。它们能轻易记住SHA哈希值等各种信息。然而，它们也存在一系列认知缺陷。它们会频繁地“幻觉”（hallucinate），即编造信息。它们表现出“锯齿状智能”——在某些领域超越人类，但在另一些领域又会犯下人类绝不会犯的低级错误。它们还患有“顺行性遗忘症”；它们的“权重”是固定的，其上下文窗口（工作记忆）会被清除。它们不会像人类同事那样随着时间的推移学习并积累专业知识。电影《记忆碎片》和《初恋50次》很好地诠释了这个问题。最后，它们相当天真，容易受到<span class="tooltip">提示注入（prompt
-injection）<span class="tooltiptext">提示注入(Prompt
-Injection)：一种安全漏洞，攻击者通过精心构造的恶意输入（提示）来操纵LLM的输出。</span></span>的攻击。因此，我们必须思考如何在利用其超能力的同时，规避其缺陷。
-
-
+首先，LLM 拥有百科全书般的知识和记忆力，很像电影《雨人》中的角色——一个记忆力近乎完美的自闭症天才。它们能轻易记住 SHA 哈希值等各种信息。然而，它们也存在一系列认知缺陷。它们会频繁地“幻觉”（hallucinate），即编造信息。它们表现出“锯齿状智能”——在某些领域超越人类，但在另一些领域又会犯下人类绝不会犯的低级错误。它们还患有“顺行性遗忘症”；它们的“权重”是固定的，其上下文窗口（工作记忆）会被清除。它们不会像人类同事那样随着时间的推移学习并积累专业知识。电影《记忆碎片》和《初恋 50 次》很好地诠释了这个问题。最后，它们相当天真，容易受到**提示注入prompt injection**的攻击。因此，我们必须思考如何在利用其超能力的同时，规避其缺陷。
 
 ## Opportunities: Programming the New Computer / 机遇：为新型计算机编程
-
-<div class="lang-en">
 
 ### Partial Autonomy Apps
 
@@ -295,11 +202,15 @@ Instead of copy-pasting code into a general chat interface, it makes
 more sense to have a dedicated app like Cursor. Cursor is a great
 example of an early LLM app. It has a traditional interface for manual
 work, but also LLM integration for working in bigger chunks. Key
-properties of these apps include: 1) The LLM handles a ton of context
-management. 2) They orchestrate multiple LLM calls (e.g., embedding
-models, chat models). 3) They have an application-specific GUI, which is
-crucial for auditing the work of these fallible systems. 4) They feature
-an "autonomy slider." In Cursor, you can go from simple tab completion
+properties of these apps include:
+
+1) The LLM handles a ton of context management.
+
+2) They orchestrate multiple LLM calls (e.g., embedding models, chat models).
+
+3) They have an application-specific GUI, which is crucial for auditing the work of these fallible systems.
+
+4) They feature an "autonomy slider." In Cursor, you can go from simple tab completion
 to letting it modify an entire repository. You are in charge of how much
 autonomy you give up.
 
@@ -321,76 +232,53 @@ I worked on partial autonomy for five years at Tesla. In 2013, I had a
 perfect, zero-intervention self-driving demo in a Waymo vehicle and
 thought self-driving was imminent. 12 years later, we are still working
 on it. Software is tricky. When I see things like "2025 is the year of
-agents," I get very concerned. I think this is the *decade* of agents.
+agents," I get very concerned. I think this is the _decade_ of agents.
 We need humans in the loop. My favorite analogy is the Iron Man suit.
 It's both an augmentation (Tony Stark drives it) and an agent (it can
 fly autonomously). At this stage, we should be building more Iron Man
 suits (partial autonomy products) and less Iron Man robots (fully
 autonomous agents).
 
-
-
-<div class="lang-zh">
-
 ### 部分自主应用（Partial Autonomy Apps）
 
-最大的机遇之一在于我所说的“部分自主应用”。与其将代码复制粘贴到通用的聊天界面，不如使用像Cursor这样的专用应用。Cursor是早期LLM应用的一个绝佳范例。它保留了供用户手动操作的传统界面，同时集成了LLM，让用户能以更大的代码块进行工作。这类应用的关键特性包括：1）LLM处理大量的上下文管理。2）它们协调对LLM的多次调用（如嵌入模型、聊天模型）。3）它们拥有特定于应用的GUI，这对于审核这些易错系统的工作至关重要。4）它们提供一个“自主性滑块”。在Cursor中，你可以从简单的Tab补全，到让它修改整个代码库。你可以自主决定赋予系统多大程度的自主权。
+最大的机遇之一在于我所说的“部分自主应用”。与其将代码复制粘贴到通用的聊天界面，不如使用像 Cursor 这样的专用应用。Cursor 是早期 LLM 应用的一个绝佳范例。它保留了供用户手动操作的传统界面，同时集成了 LLM，让用户能以更大的代码块进行工作。这类应用的关键特性包括：1）LLM 处理大量的上下文管理。2）它们协调对 LLM 的多次调用（如嵌入模型、聊天模型）。3）它们拥有特定于应用的 GUI，这对于审核这些易错系统的工作至关重要。4）它们提供一个“自主性滑块”。在 Cursor 中，你可以从简单的 Tab 补全，到让它修改整个代码库。你可以自主决定赋予系统多大程度的自主权。
 
 ### 加速人机协作循环
 
-我们现在正与AI合作：它们负责生成，我们人类负责验证。让这个循环尽可能快地运转符合我们的利益。主要有两种方式：1）加速验证。GUI在这里极其重要，因为它利用了我们大脑中强大的计算机视觉“GPU”。2）给AI“拴上链子”。给我一个一万行代码的diff是没有用的，我仍然是瓶颈。我必须确保它是正确的，没有引入bug。我在进行AI辅助编码时的感觉就像这样：像是在和一个需要控制的、反应过度的狗一起工作。
+我们现在正与 AI 合作：它们负责生成，我们人类负责验证。让这个循环尽可能快地运转符合我们的利益。主要有两种方式：1）加速验证。GUI 在这里极其重要，因为它利用了我们大脑中强大的计算机视觉“GPU”。2）给 AI“拴上链子”。给我一个一万行代码的 diff 是没有用的，我仍然是瓶颈。我必须确保它是正确的，没有引入 bug。我在进行 AI 辅助编码时的感觉就像这样：像是在和一个需要控制的、反应过度的狗一起工作。
 
 ### 从自动驾驶和钢铁侠中汲取的教训
 
-我在特斯拉研究了五年的部分自主技术。2013年，我体验了一次完美的、零干预的Waymo自动驾驶演示，当时我以为自动驾驶近在咫尺。12年后的今天，我们仍在该领域努力。软件是很棘手的。当我看到“2025年是智能体（agent）之年”这样的说法时，我感到非常担忧。我认为这是*智能体的十年*。我们需要人类在环。我最喜欢的类比是钢铁侠的战甲。它既是增强工具（托尼·史塔克驾驶它），也是智能体（它可以自主飞行）。在现阶段，我们应该多打造“钢铁侠战甲”（部分自主产品），而不是“钢铁侠机器人”（完全自主的智能体）。
-
-
+我在特斯拉研究了五年的部分自主技术。2013 年，我体验了一次完美的、零干预的 Waymo 自动驾驶演示，当时我以为自动驾驶近在咫尺。12 年后的今天，我们仍在该领域努力。软件是很棘手的。当我看到“2025 年是智能体（agent）之年”这样的说法时，我感到非常担忧。我认为这是*智能体的十年*。我们需要人类在环。我最喜欢的类比是钢铁侠的战甲。它既是增强工具（托尼·史塔克驾驶它），也是智能体（它可以自主飞行）。在现阶段，我们应该多打造“钢铁侠战甲”（部分自主产品），而不是“钢铁侠机器人”（完全自主的智能体）。
 
 ## The Natural Language Interface: Everyone is a Programmer / 自然语言界面：人人都是程序员
-
-<div class="lang-en">
 
 ### Vibe Coding
 
 Not only is there a new type of programming, but it's programmed in
 English, this natural interface. Suddenly, everyone is a programmer.
 This is extremely bullish and completely unprecedented. I don't know if
-anyone has heard of "<span class="tooltip">vibe
-coding<span class="tooltiptext">Vibe Coding: A programming style relying
-on natural language prompts and high-level intuition with an LLM, rather
-than detailed, formal code.</span></span>," but my tweet about it became
+anyone has heard of "**vibe
+coding**," but my tweet about it became
 a major meme. It gave a name to something everyone was feeling. Vibe
 coding is great when you want to build something super custom and just
 wing it. I built a basic iOS app in Swift, a language I can't actually
 program in. I also vibe-coded a live app called `menu.gen`, which
 generates images for restaurant menu items. The coding part was easy; it
 took a few hours. The hard part was the
-<span class="tooltip">DevOps<span class="tooltiptext">DevOps: A set of
-practices that combines software development (Dev) and IT operations
-(Ops) to shorten the systems development life cycle and provide
-continuous delivery with high software
-quality.</span></span>—authentication, payments, deployment. That took
+**DevOps**—authentication, payments, deployment. That took
 another week of clicking around in a browser, following instructions. A
 computer was telling me the actions I should be taking. Why am I doing
 this? You do it!
 
-
-
-<div class="lang-zh">
-
 ### 凭感觉编程（Vibe Coding）
 
-不仅出现了一种新的编程类型，而且它是用自然语言——英语——来编程的。突然之间，人人都是程序员。这极其利好，也完全前所未有。不知道是否有人听说过<span class="tooltip">“凭感觉编程”（vibe
-coding）<span class="tooltiptext">凭感觉编程(Vibe
-Coding)：一种依赖自然语言提示和高级直觉与LLM进行交互的编程风格，而非编写详尽、形式化的代码。</span></span>，我关于此的一条推文成了一个大热梗。它为一种大家都能感觉到却无法言说的现象命了名。当你想构建一些高度定制化、即兴发挥的东西时，“凭感觉编程”非常棒。我用Swift构建了一个基础的iOS应用，而我其实并不会这门语言。我还“凭感觉”编写了一个名为
-`menu.gen`
-的线上应用，它可以为餐厅菜单生成图片。编码部分很简单，只花了几小时。困难的部分是<span class="tooltip">DevOps<span class="tooltiptext">DevOps：一套结合了软件开发（Dev）和信息技术运营（Ops）的实践，旨在缩短系统开发生命周期并提供高质量的持续交付。</span></span>——身份验证、支付、部署。这部分花了我整整一周时间在浏览器里按照指令点击操作。一台电脑在告诉我应该采取哪些行动。我为什么要干这个？你来干啊！
-
-
+不仅出现了一种新的编程类型，而且它是用自然语言——英语——来编程的。突然之间，人人都是程序员。这极其利好，也完全前所未有。不知道是否有人听说过“凭感觉编程”（vibe
+coding）(凭感觉编程(Vibe
+Coding)：一种依赖自然语言提示和高级直觉与 LLM 进行交互的编程风格，而非编写详尽、形式化的代码。)，我关于此的一条推文成了一个大热梗。它为一种大家都能感觉到却无法言说的现象命了名。当你想构建一些高度定制化、即兴发挥的东西时，“凭感觉编程”非常棒。我用 Swift 构建了一个基础的 iOS 应用，而我其实并不会这门语言。我还“凭感觉”编写了一个名为
+`menu.gen`的线上应用，它可以为餐厅菜单生成图片。编码部分很简单，只花了几小时。困难的部分是**DevOps**(DevOps：一套结合了软件开发（Dev）和信息技术运营（Ops）的实践，旨在缩短系统开发生命周期并提供高质量的持续交付。)——身份验证、支付、部署。这部分花了我整整一周时间在浏览器里按照指令点击操作。一台电脑在告诉我应该采取哪些行动。我为什么要干这个？你来干啊！
 
 ## Building for Agents: A New Digital Consumer / 为智能体而构建：一种新的数字消费者
-
-<div class="lang-en">
 
 So, can we just build for agents? There's a new category of consumer and
 manipulator of digital information. It used to be just humans through
@@ -416,21 +304,13 @@ that reformat entire GitHub repos into a single, LLM-digestible text
 file. We should meet LLMs halfway and make it easier for them to access
 information.
 
+那么，我们能直接为智能体（agents）而构建吗？现在出现了一类新的数字信息消费者和操纵者。过去只有通过 GUI 的人类或通过 API 的计算机。现在我们有了智能体——它们是计算机，但又是类似人类的“心智模拟体”。我们需要为它们调整我们的软件基础设施。
 
+就像你可以用`robots.txt`文件来指示网络爬虫一样，或许我们可以用`lm.txt`——一个简单的 Markdown 文件——来告诉 LLM 一个域名是关于什么的。这比让 LLM 解析 HTML 要容易得多。大量的文档目前是为人类编写的，包含列表、粗体和图片，LLM 无法直接访问。像 Vercel 和 Stripe 这样的一些服务现在正开始以 Markdown 格式提供文档，这对于 LLM 来说超级容易理解。我曾将 Manim 动画库的全部文档复制粘贴给一个 LLM，它便直接成功地为我创建了我想要的动画。
 
-<div class="lang-zh">
-
-那么，我们能直接为智能体（agents）而构建吗？现在出现了一类新的数字信息消费者和操纵者。过去只有通过GUI的人类或通过API的计算机。现在我们有了智能体——它们是计算机，但又是类似人类的“心智模拟体”。我们需要为它们调整我们的软件基础设施。
-
-就像你可以用`robots.txt`文件来指示网络爬虫一样，或许我们可以用`lm.txt`——一个简单的Markdown文件——来告诉LLM一个域名是关于什么的。这比让LLM解析HTML要容易得多。大量的文档目前是为人类编写的，包含列表、粗体和图片，LLM无法直接访问。像Vercel和Stripe这样的一些服务现在正开始以Markdown格式提供文档，这对于LLM来说超级容易理解。我曾将Manim动画库的全部文档复制粘贴给一个LLM，它便直接成功地为我创建了我想要的动画。
-
-我们还需要改变文档本身。任何时候你的文档里出现“点击”这个词，都很糟糕。LLM目前无法原生执行这个动作。Vercel正在将其文档中所有“点击”替换为等效的`curl`命令。还有一些很棒的工具，比如`git-ingest`或者像Devon这样的应用提供的服务，可以将整个GitHub仓库重新格式化为一个LLM可消化的单一文本文件。我们应该与LLM“相向而行”，让它们更容易地获取信息。
-
-
+我们还需要改变文档本身。任何时候你的文档里出现“点击”这个词，都很糟糕。LLM 目前无法原生执行这个动作。Vercel 正在将其文档中所有“点击”替换为等效的`curl`命令。还有一些很棒的工具，比如`git-ingest`或者像 Devon 这样的应用提供的服务，可以将整个 GitHub 仓库重新格式化为一个 LLM 可消化的单一文本文件。我们应该与 LLM“相向而行”，让它们更容易地获取信息。
 
 ## Conclusion / 结论
-
-<div class="lang-en">
 
 In summary, what an amazing time to get into the industry. We need to
 rewrite a ton of code. These LLMs are kind of like utilities, kind of
@@ -443,8 +323,4 @@ taking the slider from left (augmentation) to right (autonomy). It's
 going to be very interesting to see what that looks like. And I can't
 wait to build it with all of you. Thank you.
 
-
-
-<div class="lang-zh">
-
-总而言之，现在是进入这个行业的绝佳时机。我们需要重写大量的代码。这些LLM有点像公共事业，有点像芯片工厂，但尤其像1960年代的操作系统。我们必须学会与这些会犯错的“心智模拟体”共事。为了做到这一点，我们需要调整我们的基础设施，我们需要创建部分自主的产品，并更直接地为智能体而构建。回到钢铁侠战甲的类比，我们将在未来十年看到的是，我们将把那个自主性滑块从左端（增强）滑向右端（自主）。我很期待看到那会是什么样子，也迫不及待地想与大家一起构建这个未来。谢谢。
+总而言之，现在是进入这个行业的绝佳时机。我们需要重写大量的代码。这些 LLM 有点像公共事业，有点像芯片工厂，但尤其像 1960 年代的操作系统。我们必须学会与这些会犯错的“心智模拟体”共事。为了做到这一点，我们需要调整我们的基础设施，我们需要创建部分自主的产品，并更直接地为智能体而构建。回到钢铁侠战甲的类比，我们将在未来十年看到的是，我们将把那个自主性滑块从左端（增强）滑向右端（自主）。我很期待看到那会是什么样子，也迫不及待地想与大家一起构建这个未来。谢谢。

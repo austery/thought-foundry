@@ -1,0 +1,26 @@
+/* src/css/components/_search.css */
+
+#search-results {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+/* 为搜索结果的列表定义样式 */
+#search-results ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#search-results li {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--pico-muted-border-color);
+}
+
+#search-results li:first-child {
+    border-top: 1px solid var(--pico-muted-border-color);
+}
+
+#search-results a {
+    text-decoration: none;
+}

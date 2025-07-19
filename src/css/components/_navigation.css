@@ -1,35 +1,24 @@
 /* src/css/components/_navigation.css */
-
-.site-title-container {
-    text-align: center;
-    /* 标题文字居中 */
-    padding: 2rem 0 1rem 0;
-    /* 增加上下的间距 */
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    /* 两端对齐 */
+    align-items: center;
+    /* 垂直居中 */
 }
 
 .site-title {
     font-weight: bold;
-    font-size: 2rem;
-    /* 放大标题字号 */
+    font-size: 1.25rem;
     text-decoration: none;
     color: var(--pico-h1-color);
 }
 
 .main-nav ul {
-    display: flex;
-    /* 让导航链接横向排列 */
-    justify-content: center;
-    /* 关键：让导航链接整体居中 */
-    gap: 1.5rem;
-    /* 导航链接之间的间距 */
     margin: 0;
     padding: 0;
     list-style: none;
-}
-
-.search-container {
-    max-width: 400px;
-    /* 限制搜索框的最大宽度 */
-    margin: 1.5rem auto 0 auto;
-    /* 上下边距，并让它水平居中 */
+    display: flex;
+    gap: 1.5rem;
+    /* 导航链接之间的间距 */
 }

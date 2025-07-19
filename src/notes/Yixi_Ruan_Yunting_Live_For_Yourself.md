@@ -4,16 +4,13 @@ layout: "post.njk"
 date: "2025-07-10"
 tags:
   - "视频笔记"
-  - "自我探索"
-  - "教育反思"
   - "个人成长"
-  - "阮筠庭"
   - "一席"
 data:
   author: "Lei"
   podcast_program: "一席"
   speaker: "阮筠庭"
-  guest: "无" 
+  guest: "" 
   source: "https://www.youtube.com/watch?v=4AohKyR5jME"
 ---
 

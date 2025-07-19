@@ -1,17 +1,15 @@
 ---
 title: "知行小酒馆 E192 | 嘉宾: 王汉洋"
 layout: "post.njk"  
-date: "2025-07-10"
+date: "2025-06-10"
 tags:
   - "视频笔记"
-  - "AI时代"
+  - "AI"
   - "个人成长"
-  - "现实世界"
-  - "创作价值"
   - "知行小酒馆"
 data:
   author: "Lei"
-  podcast_program: ""
+  podcast_program: "知行小酒馆"
   speaker: "雨白"
   guest: "王汉洋" 
   source: ""

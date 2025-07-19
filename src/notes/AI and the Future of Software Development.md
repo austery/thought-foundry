@@ -6,9 +6,6 @@ tags:
   - "视频笔记"
   - "人工智能"
   - "软件开发"
-  - "编程"
-  - "代码"
-  - "开发者"
 data:
   author: "Lei"
   podcast_program: ""
