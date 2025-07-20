@@ -5,23 +5,14 @@ guest: ''
 layout: post.njk
 podcast_program: ''
 source: ''
-speaker: Andrej Karpathy，特斯拉前人工智能总监。
+speaker: Andrej Karpathy
 tags:
 - 视频笔记
 - AI
 - Thinking
-title: 'Andrej Karpathy: Software Is Changing (Again)'
+title: 'Software Is Changing (Again)'
 ---
 
-**Speaker:** Andrej Karpathy, former Director of AI at Tesla.
-
-**主讲人：** Andrej Karpathy，特斯拉前人工智能总监。
-
-Word Count: approx. 4,500  
-总字数：约 4,500 字
-
-Estimated Reading Time: approx. 15 minutes  
-预计阅读时间：约 15 分钟
 
 ## Introduction: Software is Changing, Again / 引言：软件正在再次变革
 
