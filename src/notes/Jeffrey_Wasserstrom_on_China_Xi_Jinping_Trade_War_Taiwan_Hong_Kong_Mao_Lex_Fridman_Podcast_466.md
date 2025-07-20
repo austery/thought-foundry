@@ -17,8 +17,6 @@ title: 'Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, 
   | Lex Fridman Podcast #466'
 ---
 
-# Jeffrey Wasserstrom: China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao 杰弗里·瓦瑟斯特罗姆：中国、习近平、贸易战、台湾、香港与毛泽东
-
 **讲述者简介：** 以下内容是现代中国历史学家杰弗里·瓦瑟斯特罗姆（Jeffrey
 Wasserstrom）在莱克斯·弗里德曼播客（Lex Fridman
 Podcast）第466期中的对话整理。

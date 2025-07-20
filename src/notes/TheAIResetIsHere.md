@@ -14,8 +14,6 @@ tags:
 title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
 ---
 
-# The AI Reset: Search, Jobs, and Everything Else
-
 Moonshots
 
 WTF Just Happened in Tech

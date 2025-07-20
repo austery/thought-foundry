@@ -14,8 +14,6 @@ tags:
 title: How Language Shapes the Way We Think - Lera Boroditsky
 ---
 
-# How Language Shapes the Way We Think
-
 Lera Boroditsky
 
 ### About the Speaker

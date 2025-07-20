@@ -16,8 +16,6 @@ tags:
 title: Markets Weekly Analysis - June 14, 2025
 ---
 
-# Markets Weekly Analysis
-
 Speaker: The Host \| Date: June 14, 2025 \|
 Word Count: 1475 \| Est. Reading Time: 6 mins
 

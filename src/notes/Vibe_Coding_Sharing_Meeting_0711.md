@@ -14,8 +14,6 @@ tags:
 title: Vibe Coding (同声共振编程) 分享会纪要
 ---
 
-# Vibe Coding (同声共振编程) 分享会纪要
-
 ## 开场与介绍
 
 **Ray:**

@@ -16,8 +16,6 @@ tags:
 title: 《Just Keep Buying》深度解读指南
 ---
 
-# 《Just Keep Buying》深度解读指南
-
 ### 作者背景: 数据分析达人 Nick Maggiulli
 
 Nick Maggiulli (昵称“老王”, Maggiulli

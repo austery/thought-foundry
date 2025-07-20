@@ -14,10 +14,6 @@ tags:
 title: 中国如何赢得钍核能竞赛
 ---
 
-# 中国如何赢得钍核能竞赛
-
-
-
 ## 引言：钍核能的曙光
 
 Hi, welcome to another episode of Cold Fusion. In the quiet deserts of

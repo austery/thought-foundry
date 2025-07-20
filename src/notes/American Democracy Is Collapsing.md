@@ -15,8 +15,6 @@ title: American Democracy Is Collapsing, And This Man Predicted It | Aaron Basta
   Meets Joseph Stiglitz
 ---
 
-# American Democracy Is Collapsing, And This Man Predicted It \| Aaron Bastani Meets Joseph Stiglitz
-
 ### Speakers
 
 **Joseph Stiglitz:** 2001 Nobel Prize laureate in Economics, renowned

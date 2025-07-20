@@ -16,8 +16,6 @@ tags:
 title: 深度解读：伊朗市场动态与投资前景 - Odd Lots
 ---
 
-# 深度解读：伊朗市场动态与投资前景
-
 ## 引言：揭开伊朗经济的神秘面纱
 
 **Host 1:** One thing we have learned in all our episodes looking at the

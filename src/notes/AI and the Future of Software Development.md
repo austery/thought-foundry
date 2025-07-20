@@ -13,9 +13,6 @@ tags:
 title: AI and the Future of Software Development
 ---
 
-# AI and the Future of Software Development
-
-
 ## The Evolving Role of AI in Programming / 人工智能在编程中角色的演变
 
 One speaker initiated the discussion by questioning whether AI,

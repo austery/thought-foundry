@@ -13,8 +13,6 @@ tags:
 title: Tom Lee投资策略问答报告 Part 2
 ---
 
-# Tom Lee投资策略问答报告 Part 2
-
 ## 问：如何看待特朗普当选对股市的影响？Granny Shots ETF的选股和调仓逻辑是怎样的？
 
 **Tom Lee:** Thank you for the question. Uh first, if you make

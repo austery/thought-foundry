@@ -15,9 +15,7 @@ tags:
 title: 'Ukraine’s Drone Attack on Russia: A New Era of Warfare'
 ---
 
-# Ukraine’s Drone Attack on Russia Changes War Forever
 
-# 乌克兰对俄罗斯的无人机袭击永远改变了战争
 
 TED Explains the World with Ian Bremmer
 

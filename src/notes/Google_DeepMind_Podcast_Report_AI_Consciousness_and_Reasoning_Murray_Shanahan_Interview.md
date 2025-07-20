@@ -16,8 +16,6 @@ tags:
 title: Google DeepMind 播客报告：AI、意识与推理 - Murray Shanahan 访谈
 ---
 
-# Google DeepMind 播客：AI、意识与推理
-
 ## Murray Shanahan 访谈
 
 ## 对话参与者

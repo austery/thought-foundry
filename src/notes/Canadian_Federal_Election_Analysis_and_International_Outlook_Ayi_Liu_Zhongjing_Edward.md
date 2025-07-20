@@ -16,8 +16,6 @@ tags:
 title: 加拿大联邦大选解析与国际格局展望
 ---
 
-# 加拿大联邦大选解析与国际格局展望
-
 <div class="speaker-intro">
 
 **提问者：**Edward

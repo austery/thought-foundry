@@ -15,8 +15,6 @@ tags:
 title: 与诺姆·乔姆斯基的对话：泛心论、大语言模型与人工智能意识
 ---
 
-# 与诺姆·乔姆斯基的对话：泛心论、大语言模型与人工智能意识
-
 ## 引言与访谈说明
 
 **Curt Jaimungal:** I just finished recording with Noam Chomsky. This is

@@ -17,8 +17,6 @@ tags:
 title: 「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 ---
 
-# 「北美\|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
-
 **主讲人：** Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan,
 婷, Victor, Kayden, 张硕
 

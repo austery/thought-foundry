@@ -16,8 +16,6 @@ tags:
 title: 前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键
 ---
 
-# 前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键
-
 ## 讲述者简介
 
 **Richard：**Huma Finance

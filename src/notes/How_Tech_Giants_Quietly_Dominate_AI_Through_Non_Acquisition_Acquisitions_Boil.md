@@ -13,8 +13,6 @@ tags:
 title: 科技巨头如何通过“非收购式收购”悄然主导AI领域
 ---
 
-# 科技巨头如何通过“非收购式收购”悄然主导AI领域
-
 ## 引言：一种规避监管的新型控制策略
 
 **Narrator:** In the race to dominate generative AI, Big Tech firms

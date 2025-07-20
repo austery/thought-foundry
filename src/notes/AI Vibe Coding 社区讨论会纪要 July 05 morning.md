@@ -13,8 +13,6 @@ tags:
 title: AI Vibe Coding 社区讨论会纪要
 ---
 
-# AI Vibe Coding 社区讨论会纪要
-
 ## 开场与社区未来展望
 
 **Dusing:** Amy，我邀请你了。Hello，好久不见，三个月没见到你了。

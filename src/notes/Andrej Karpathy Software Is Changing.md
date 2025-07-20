@@ -13,8 +13,6 @@ tags:
 title: 'Andrej Karpathy: Software Is Changing (Again)'
 ---
 
-# Andrej Karpathy: Software Is Changing (Again)
-
 **Speaker:** Andrej Karpathy, former Director of AI at Tesla.
 
 **主讲人：** Andrej Karpathy，特斯拉前人工智能总监。

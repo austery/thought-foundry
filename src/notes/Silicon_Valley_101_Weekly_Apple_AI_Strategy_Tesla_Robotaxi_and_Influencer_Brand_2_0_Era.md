@@ -13,9 +13,6 @@ tags:
 title: '硅谷101 Weekly: 苹果AI策略、特斯拉Robotaxi与网红品牌20时代'
 ---
 
-# 硅谷101 Weekly：苹果AI策略、特斯拉Robotaxi与网红品牌2.0时代
-
-
 **本期嘉宾：**
 
 - **万伟尔：**Aizip首席技术官
