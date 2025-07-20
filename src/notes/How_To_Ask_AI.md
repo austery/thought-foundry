@@ -5,7 +5,6 @@ date: "2025-07-07"
 tags:
   - "视频笔记"
   - "Prompt"
-  - "提示词工程"
   - "研究方法"
 data:
   author: "Lei"
