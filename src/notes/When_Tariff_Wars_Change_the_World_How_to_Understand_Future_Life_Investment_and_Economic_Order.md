@@ -5,7 +5,7 @@ guest: 陈老师
 layout: post.njk
 podcast_program: 知行小酒馆
 source: https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61
-speaker: 俞白
+speaker: 雨白
 tags:
 - 视频笔记
 - 全球经济

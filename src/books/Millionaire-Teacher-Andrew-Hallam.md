@@ -56,10 +56,10 @@ cover_image: "http://books.google.com/books/content?id=bcqcDQAAQBAJ&printsec=fro
 
 ### **_行动计划_**
 
-- **选择合适的经纪商：** IBKR可能对专业投资者更有吸引力，但是他家的汇率和手续费是最好的，可惜IB不管理RESP，可能选择Wealthsimple for 教育储蓄计划。
-- **制定投资组合：**在选择投资组合时，是否考虑使用自动平衡的ETF，如[XGRO]，或者手动平衡(VOO + bond index?)。关于是否投资债券指数，[Ray Stone](https://onenewbite.com/members/18217039)，bond index 是否还是很好rebalance的对象；  
+- **选择合适的经纪商**: IBKR可能对专业投资者更有吸引力，但是他家的汇率和手续费是最好的，可惜IB不管理RESP，可能选择Wealthsimple for 教育储蓄计划。
+- **制定投资组合**:在选择投资组合时，是否考虑使用自动平衡的ETF，如[XGRO]，或者手动平衡(VOO + bond index?)。关于是否投资债券指数，[Ray Stone](https://onenewbite.com/members/18217039)，bond index 是否还是很好rebalance的对象；  
     还在参考其它的网站[Canadian Couch Potato]([https://canadiancouchpotato.com/](https://canadiancouchpotato.com/))
-- **个股投资考虑：**暂时不考虑，知识和心态不够。
-- **自住房是否算投资: [Ray Stone](https://onenewbite.com/members/18217039)** 的指数投资视频有介绍他的投资策略，我知道Ray 有买airbnb，但是自住房是否算投资了？
-- **汇率问题：**是否只投美国？
-- **税务考虑：**我现在都是放在RRSP和TFSA，还要化时间研究。
+- **个股投资考虑**:暂时不考虑，知识和心态不够。
+- **自住房是否算投资**: Ray的指数投资视频有介绍他的投资策略，我知道Ray 有买airbnb，但是自住房是否算投资了？
+- **汇率问题**:是否只投美国？
+- **税务考虑**:我现在都是放在RRSP和TFSA，还要化时间研究。

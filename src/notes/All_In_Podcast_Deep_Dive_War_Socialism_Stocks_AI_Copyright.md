@@ -5,8 +5,7 @@ guest: 无
 layout: post.njk
 podcast_program: ''
 source: https://www.youtube.com/watch?v=Dp75wqOrtBs
-speaker: Jason Calacanis (Jason), David Sacks (Sacks), Chamath Palihapitiya (Chamath),
-  David Friedberg (Friedberg)
+speaker: Jason Calacanis, David Sacks, Chamath Palihapitiya, David Friedberg
 tags:
 - 视频笔记
 - 国际政治

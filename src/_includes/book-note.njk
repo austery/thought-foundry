@@ -1,58 +1,62 @@
 ---
 layout: "base.njk"
 ---
-<div class="bookshelf-container">
+<div class="report-container">
     
   <aside id="toc-container" class="sidebar-toc"></aside>
   
   <main id="content-body" class="main-content">
-    
-    {# ------------------- 新增的元数据块代码开始 ------------------- #}
-
-    <div class="metadata-block">
-      {# 使用 if 判断，只有当数据存在时才显示这一行 #}
-      {% if author %}
-        <p><strong>作者:</strong> {{ author }}</p>
-      {% endif %}
-
-      {% if publisher %}
-        <p><strong>出版社:</strong> {{ publisher }}</p>
-      {% endif %}
-
-      {% if year %}
-        <p><strong>出版年份:</strong> {{ year }}</p>
-      {% endif %}
-
-      {% if read_date %}
-        <p><strong>阅读日期:</strong> {{ read_date }}</p>
-      {% endif %}
+    <div class="book-note-layout">
       
-      {% if rating %}
-        <p><strong>评分:</strong> {{ rating }}</p>
-      {% endif %}
+      {# ------------------- 书籍元数据块代码开始 ------------------- #}
 
-      {# 书籍的简介 #}
-      {% if description %}
-        <p><strong>简介:</strong> {{ description }}</p>
-      {% endif %}
+      <div class="metadata-block">
+        {# 使用 if 判断，只有当数据存在时才显示这一行 #}
+        {% if author %}
+          <p><strong>作者:</strong> {{ author }}</p>
+        {% endif %}
 
-      {# 书籍的封面图 #}
-      {% if cover_image %}
-        <img src="{{ cover_image | url }}" alt="书籍封面" class="book-cover" />
-      {% endif %}
-      
-      {# 关键字部分，我们直接遍历这本书的 tags #}
-      {% if tags %}
-        <p><strong>关键字:</strong> 
-          {% for tag in tags %}
-            <a class="tag-link" href="{{ ('/tags/' + (tag | slug) + '/') | url }}">{{ tag }}</a>
-          {% endfor %}
-        </p>
-      {% endif %}
+        {% if publisher %}
+          <p><strong>出版社:</strong> {{ publisher }}</p>
+        {% endif %}
+
+        {% if year %}
+          <p><strong>出版年份:</strong> {{ year }}</p>
+        {% endif %}
+
+        {% if read_date %}
+          <p><strong>阅读日期:</strong> {{ read_date }}</p>
+        {% endif %}
+        
+        {% if rating %}
+          <p><strong>评分:</strong> {{ rating }}</p>
+        {% endif %}
+
+        {# 书籍的简介 #}
+        {% if description %}
+          <p><strong>简介:</strong> {{ description }}</p>
+        {% endif %}
+
+        {# 书籍的封面图 #}
+        {% if cover_image %}
+          <img src="{{ cover_image | url }}" alt="书籍封面" class="book-cover" />
+        {% endif %}
+        
+        {# 关键字部分，我们直接遍历这本书的 tags #}
+        {% if tags %}
+          <p><strong>关键字:</strong> 
+            {% for tag in tags %}
+              <a class="tag-link" href="{{ ('/tags/' + (tag | slug) + '/') | url }}">{{ tag }}</a>
+            {% endfor %}
+          </p>
+        {% endif %}
+      </div>
+
+      {# ------------------- 书籍元数据块代码结束 ------------------- #}
+
+      <article class="book-content">
+        {{ content | safe }}
+      </article>
     </div>
-
-    {# ------------------- 新增的元数据块代码结束 ------------------- #}
-
-    {{ content | safe }}
   </main>
 </div>

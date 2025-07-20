@@ -18,15 +18,25 @@ module.exports = async function (eleventyConfig) {
   });
 
   // 添加一个过滤器来获取演讲者的唯一键
-  eleventyConfig.addFilter("getSpeakerUniqueKey", function(speakerName, collections) {
-    if (!collections || !collections.speakerList) return slugify(pinyin(speakerName.trim().toLowerCase(), { style: pinyin.STYLE_NORMAL }).join(" "));
-    
-    const cleanedName = speakerName.replace(/^['"]|['"]$/g, '').trim();
-    const lowerCaseName = cleanedName.toLowerCase();
-    
-    const speaker = collections.speakerList.find(s => s.key === lowerCaseName);
-    return speaker ? speaker.uniqueKey : lowerCaseName;
-  });
+  eleventyConfig.addFilter(
+    "getSpeakerUniqueKey",
+    function (speakerName, collections) {
+      if (!collections || !collections.speakerList)
+        return slugify(
+          pinyin(speakerName.trim().toLowerCase(), {
+            style: pinyin.STYLE_NORMAL,
+          }).join(" ")
+        );
+
+      const cleanedName = speakerName.replace(/^['"]|['"]$/g, "").trim();
+      const lowerCaseName = cleanedName.toLowerCase();
+
+      const speaker = collections.speakerList.find(
+        (s) => s.key === lowerCaseName
+      );
+      return speaker ? speaker.uniqueKey : lowerCaseName;
+    }
+  );
 
   // --- 集合 (Collections) ---
 
@@ -127,13 +137,16 @@ module.exports = async function (eleventyConfig) {
         item.inputPath.includes("./src/notes/")
       ) {
         const speaker = item.data.speaker;
-        if (speaker && speaker.trim() !== '') {
+        if (speaker && speaker.trim() !== "") {
           // 处理多个演讲者的情况，用逗号分隔
-          const speakers = speaker.split(',').map(s => s.trim()).filter(s => s !== '');
+          const speakers = speaker
+            .split(",")
+            .map((s) => s.trim())
+            .filter((s) => s !== "");
           speakers.forEach((speakerName) => {
             // 清理演讲者名称：去除引号和额外空格
-            const cleanedName = speakerName.replace(/^['"]|['"]$/g, '').trim();
-            if (cleanedName !== '') {
+            const cleanedName = speakerName.replace(/^['"]|['"]$/g, "").trim();
+            if (cleanedName !== "") {
               const lowerCaseSpeaker = cleanedName.toLowerCase();
               if (!speakerMap.has(lowerCaseSpeaker)) {
                 speakerMap.set(lowerCaseSpeaker, {
@@ -180,7 +193,9 @@ module.exports = async function (eleventyConfig) {
           console.error(
             `  - Speaker: "${
               speakerData.name
-            }" is found in file(s): ${Array.from(speakerData.sources).join(", ")}`
+            }" is found in file(s): ${Array.from(speakerData.sources).join(
+              ", "
+            )}`
           );
           // Resolve conflict by adding index suffix
           speakerData.uniqueKey = `${speakerData.key}-${index + 1}`;
@@ -201,6 +216,71 @@ module.exports = async function (eleventyConfig) {
 
     return speakerList;
   });
+
+  // --- START: 新增的临时侦测代码 ---
+  // 集合 6: 这个集合专门用来寻找有问题的 speaker 字段
+  eleventyConfig.addCollection("longSpeakerDetector", function (collectionApi) {
+    console.log("\n--- Checking for long speaker fields ---");
+    let problemsFound = 0;
+    const problematicFiles = [];
+    
+    collectionApi.getAll().forEach((item) => {
+      // 检查多种可能的数据路径
+      let speaker = null;
+      
+      // 尝试不同的数据访问路径
+      if (item.data && item.data.speaker) {
+        speaker = item.data.speaker;
+      } else if (item.data && item.data.data && item.data.data.speaker) {
+        speaker = item.data.data.speaker;
+      }
+      
+      // 如果找到了 speaker 字段
+      if (speaker) {
+        // 如果 speaker 是字符串并且长度超过 100 个字符
+        if (typeof speaker === "string" && speaker.length > 100) {
+          problemsFound++;
+          problematicFiles.push({
+            file: item.inputPath,
+            length: speaker.length,
+            preview: speaker.substring(0, 200)
+          });
+          
+          console.error(`\n[!! POTENTIAL PROBLEM FOUND !!]`);
+          console.error(`File: ${item.inputPath}`);
+          console.error(`Speaker field is too long (length: ${speaker.length})`);
+          console.error(`First 200 characters of speaker field:`);
+          console.error(`"${speaker.substring(0, 200)}..."`);
+          console.error(`---`);
+        }
+        
+        // 也检查是否包含换行符或其他奇怪字符
+        if (typeof speaker === "string" && (speaker.includes('\n') || speaker.includes('\r'))) {
+          console.warn(`[!! WARNING !!] Speaker field contains newlines in: ${item.inputPath}`);
+          console.warn(`Speaker preview: "${speaker.substring(0, 100)}..."`);
+        }
+      }
+    });
+    
+    console.log(`--- Check complete: ${problemsFound} problems found ---`);
+    
+    if (problemsFound > 0) {
+      console.log(`\n🔧 FILES THAT NEED FIXING:`);
+      problematicFiles.forEach((problem, index) => {
+        console.log(`${index + 1}. File: ${problem.file}`);
+        console.log(`   Length: ${problem.length} characters`);
+        console.log(`   Preview: "${problem.preview}..."`);
+        console.log('');
+      });
+      console.log(`\n💡 RECOMMENDATION: Fix the speaker field in these files by:`);
+      console.log(`   1. Moving the content from 'speaker:' to the main body`);
+      console.log(`   2. Adding a proper speaker name (or leave blank if unknown)`);
+      console.log(`   3. Ensuring proper YAML frontmatter formatting\n`);
+    }
+    
+    return []; // 这个集合不需要输出任何东西
+  });
+  // --- END: 新增的临时侦测代码 ---
 
   // --- Passthrough Copy & 核心配置 (保持不变) ---
   eleventyConfig.addPassthroughCopy("src/js");
