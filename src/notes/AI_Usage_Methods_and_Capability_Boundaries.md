@@ -5,13 +5,11 @@ guest: ''
 layout: post.njk
 podcast_program: ''
 source: ''
-speaker: ''
+speaker: '李厚辰'
 tags:
 - 视频笔记
 - AI
-- Prompt Engineering
-- 思维链
-- RAG
+- Prompt
 - 工作流
 title: AI的使用方法与能力边界
 ---

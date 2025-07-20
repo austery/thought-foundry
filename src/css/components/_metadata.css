@@ -1,4 +1,25 @@
-/* src/css/components/_metadata.css */
+/* src/css/components/_me/* 针对作为"关键字"的标签链接的特殊样式 */
+.metadata-block a.tag-link {
+    display: inline-block;
+    margin-right: 0.5em;
+    text-decoration: none;
+}
+
+/* 针对演讲者链接的特殊样式 */
+.metadata-block a.speaker-link {
+    display: inline-block;
+    text-decoration: none;
+    color: var(--pico-primary);
+    font-weight: 500;
+    border-bottom: 1px dotted var(--pico-primary);
+    transition: all 0.2s ease;
+}
+
+.metadata-block a.speaker-link:hover {
+    color: var(--pico-primary-hover);
+    border-bottom-style: solid;
+    border-bottom-color: var(--pico-primary-hover);
+}.css */
 
 .metadata-block {
     background-color: #f9f9f9;

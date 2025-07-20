@@ -1,0 +1,17 @@
+---
+title: "所有演讲者"
+layout: "default.njk"
+permalink: "/all-speakers/"
+---
+
+<h1>所有演讲者</h1>
+
+<div class="speaker-list">
+  {% for speakerInfo in collections.speakerList %}
+    <a href="{{ ('/speakers/' + (speakerInfo.uniqueKey | slug) + '/') | url }}" class="speaker-pill">
+      {{ speakerInfo.name }} ({{ speakerInfo.posts.length }})
+    </a>
+  {% endfor %}
+</div>
+
+<p><a href="{{ '/' | url }}">← 返回首页</a></p>

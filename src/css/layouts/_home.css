@@ -32,3 +32,30 @@
     border-bottom: none;
     /* 最后一项不需要分割线 */
 }
+
+/* 演讲者页面样式 */
+.speaker-posts-list {
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+}
+
+.speaker-posts-list li {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--pico-muted-border-color);
+}
+
+.speaker-posts-list li:last-child {
+    border-bottom: none;
+}
+
+.speaker-posts-list a {
+    text-decoration: none;
+    color: var(--pico-primary);
+    font-weight: 500;
+}
+
+.speaker-posts-list a:hover {
+    color: var(--pico-primary-hover);
+    text-decoration: underline;
+}

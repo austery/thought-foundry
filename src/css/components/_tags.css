@@ -27,3 +27,31 @@
     background-color: #e2e8f0;
     /* 鼠标悬停时变深一点 */
 }
+
+/* 演讲者样式 - 类似标签但颜色不同 */
+.speaker-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1rem;
+    padding-left: 0;
+    list-style: none;
+}
+
+.speaker-pill {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    background-color: #f0f9ff;
+    /* 浅蓝色背景来区分演讲者 */
+    color: var(--pico-primary);
+    font-size: 0.9em;
+    text-decoration: none;
+    transition: background-color 0.2s;
+    border: 1px solid var(--pico-primary-focus);
+}
+
+.speaker-pill:hover {
+    background-color: #e0f2fe;
+    color: var(--pico-primary-hover);
+}

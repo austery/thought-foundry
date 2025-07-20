@@ -13,7 +13,17 @@ layout: "base.njk"
     <div class="metadata-block">
       {# 使用 if 判断，只有当数据存在时才显示这一行 #}
       {% if speaker %}
-        <p><strong>主讲人:</strong> {{ speaker }}</p>
+        <p><strong>主讲人:</strong> 
+          {# 处理多个演讲者的情况，用逗号分隔 #}
+          {% set speakers = speaker.split(',') %}
+          {% for speakerName in speakers %}
+            {% set trimmedSpeaker = speakerName.trim() %}
+            {% if trimmedSpeaker != '' %}
+              {% set speakerUniqueKey = trimmedSpeaker | getSpeakerUniqueKey(collections) %}
+              <a class="speaker-link" href="{{ ('/speakers/' + (speakerUniqueKey | slug) + '/') | url }}">{{ trimmedSpeaker }}</a>{% if not loop.last %}, {% endif %}
+            {% endif %}
+          {% endfor %}
+        </p>
       {% endif %}
 
       {% if guest %}

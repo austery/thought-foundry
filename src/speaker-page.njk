@@ -1,0 +1,38 @@
+---
+pagination:
+  data: collections.speakerList
+  size: 1
+  alias: speakerInfo
+layout: "base.njk"
+permalink: "/speakers/{{ speakerInfo.uniqueKey | slug }}/"
+---
+<div class="container">
+  <h1>演讲者：{{ speakerInfo.name }}</h1>
+  
+  <p>共有 {{ speakerInfo.posts.length }} 篇文章</p>
+  
+  <ul class="speaker-posts-list">
+    {%- for post in speakerInfo.posts | reverse -%}
+      <li>
+        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+        
+        {# 显示文章类型徽章 #}
+        {% if post.filePathStem.includes('/posts/') %}
+          <span class="badge">博客文章</span>
+        {% elif post.filePathStem.includes('/books/') %}
+          <span class="badge">书评</span>
+        {% elif post.filePathStem.includes('/notes/') %}
+          <span class="badge">视频笔记</span>
+        {% endif %}
+        
+        {# 显示发布日期 #}
+        {% if post.date %}
+          <br>
+          <time datetime="{{ post.date }}">{{ post.date.toLocaleDateString() }}</time>
+        {% endif %}
+      </li>
+    {%- endfor -%}
+  </ul>
+  
+  <p><a href="{{ '/' | url }}">← 返回首页</a></p>
+</div>
