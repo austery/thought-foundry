@@ -1,18 +1,17 @@
 ---
-title: "为什么蠢货会成为政治赢家"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: LiuTalks
+source: ''
+speaker: 徒步的骑手
 tags:
-  - "视频笔记"
-  - "人性弱点"
-  - "马基雅弗利"
-  - "徒步的骑手"
-data:
-  author: "Lei"
-  podcast_program: "LiuTalks"
-  speaker: "徒步的骑手"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 人性弱点
+- 马基雅弗利
+- 徒步的骑手
+title: 为什么蠢货会成为政治赢家
 ---
 
 

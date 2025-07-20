@@ -5,14 +5,13 @@ layout: "book-note.njk" # 指定使用读书笔记的专属布局
 tags:
 - "Book" 
 - "投资" 
-data:
-  author: "Andrew Hallam"
-  publisher: "John Wiley & Sons"
-  year: "2016-11-28" # 例如：2023
-  read_date: "2024-05-20" # 你读完这本书的日期
-  rating: "4/5" # 你对这本书的评分
-  description: "这里是一段关于这本书的简短介绍。" # 书籍简介
-  cover_image: "(http://books.google.com/books/content?id=bcqcDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)" # 封面图片的URL
+author: "Andrew Hallam"
+publisher: "John Wiley & Sons"
+year: "2016-11-28" 
+read_date: "2024-05-20" # 你读完这本书的日期
+rating: "4/5" # 你对这本书的评分
+description: "这里是一段关于这本书的简短介绍。" # 书籍简介
+cover_image: "http://books.google.com/books/content?id=bcqcDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" # 封面图片的URL
 ---
 
 ## *Why I read this book*

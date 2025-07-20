@@ -1,18 +1,17 @@
 ---
-title: "《清晰思考》：如何像情报专家一样理性决策，将平凡时刻变成非凡成就？"
-layout: "post.njk"  
-date: "2024-10-26"
+author: Lei
+date: '2024-10-26'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=rCJ6U0mIPOQ&t
+speaker: 夏冰雹
 tags:
-  - "视频笔记"
-  - "知识管理"
-  - "book"
-  - "Thinking"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "夏冰雹"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=rCJ6U0mIPOQ&t"
+- 视频笔记
+- 知识管理
+- book
+- Thinking
+title: 《清晰思考》：如何像情报专家一样理性决策，将平凡时刻变成非凡成就？
 ---
 
 # 《清晰思考》：如何像情报专家一样理性决策，将平凡时刻变成非凡成就？

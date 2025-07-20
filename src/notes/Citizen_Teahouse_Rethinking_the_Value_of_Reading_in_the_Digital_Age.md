@@ -1,17 +1,16 @@
 ---
-title: "市民茶室：读书的价值在数字时代的再思考"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+speaker: 李厚辰
 tags:
-  - "视频笔记"
-  - "读书价值"
-  - "AI"
-  - "专注力"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰"
-  guest: "" 
+- 视频笔记
+- 读书价值
+- AI
+- 专注力
+title: 市民茶室：读书的价值在数字时代的再思考
 ---
 
 # 市民茶室：读书的价值在数字时代的再思考

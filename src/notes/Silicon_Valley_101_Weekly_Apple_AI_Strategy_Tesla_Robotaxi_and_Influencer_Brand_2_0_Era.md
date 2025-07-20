@@ -1,17 +1,16 @@
 ---
-title: "硅谷101 Weekly: 苹果AI策略、特斯拉Robotaxi与网红品牌20时代"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 硅谷101
+source: ''
+speaker: 陈茜, 刘一鸣, 鲁漪文
 tags:
-  - "视频笔记"
-  - "特斯拉"
-  - "硅谷101"
-data:
-  author: "Lei"
-  podcast_program: "硅谷101"
-  speaker: "陈茜, 刘一鸣, 鲁漪文"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 特斯拉
+- 硅谷101
+title: '硅谷101 Weekly: 苹果AI策略、特斯拉Robotaxi与网红品牌20时代'
 ---
 
 # 硅谷101 Weekly：苹果AI策略、特斯拉Robotaxi与网红品牌2.0时代

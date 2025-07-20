@@ -1,18 +1,17 @@
 ---
-title: "家庭生活系列讲座-六：婆媳之间"
-layout: "post.njk"  
-date: "2025-07-12"
+author: Lei
+date: '2025-07-12'
+guest: 林静兰
+layout: post.njk
+program: 家庭生活系列讲座
+source: https://www.youtube.com/watch?v=Jm_R84hY1n0
+speaker: 李秀全
 tags:
-  - "视频笔记"
-  - "团契"
-  - "宗教"
-  - "家庭"
-data:
-  author: "Lei"
-  program: "家庭生活系列讲座"
-  speaker: "李秀全"
-  guest: "林静兰" 
-  source: "https://www.youtube.com/watch?v=Jm_R84hY1n0"
+- 视频笔记
+- 团契
+- 宗教
+- 家庭
+title: 家庭生活系列讲座-六：婆媳之间
 ---
 # 家庭生活系列讲座-六：婆媳之间
 

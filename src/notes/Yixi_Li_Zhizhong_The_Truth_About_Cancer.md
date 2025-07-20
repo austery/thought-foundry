@@ -1,17 +1,16 @@
 ---
-title: "李治中：癌症的真相"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 一席
+source: https://www.youtube.com/watch?v=Jm9n1d2G3a4
+speaker: 李治中
 tags:
-  - "视频笔记"
-  - "癌症科普"
-  - "一席"
-data:
-  author: "Lei"
-  podcast_program: "一席"
-  speaker: "李治中"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=Jm9n1d2G3a4"
+- 视频笔记
+- 癌症科普
+- 一席
+title: 李治中：癌症的真相
 ---
 
 # 癌症的真相

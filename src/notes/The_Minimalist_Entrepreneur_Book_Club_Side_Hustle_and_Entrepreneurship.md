@@ -1,18 +1,17 @@
 ---
-title: "《小而美》读书会：关于副业与创业的思考与实践"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Vivian,Simon,Ge Su,路遥,金玲,Chelsea,翻新,Fancy
 tags:
-  - "视频笔记"
-  - "小而美"
-  - "读书会"
-  - "个人成长"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Vivian,Simon,Ge Su,路遥,金玲,Chelsea,翻新,Fancy"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 小而美
+- 读书会
+- 个人成长
+title: 《小而美》读书会：关于副业与创业的思考与实践
 ---
 
 # 《小而美》读书会：关于副业与创业的思考与实践

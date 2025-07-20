@@ -1,19 +1,18 @@
 ---
-title: "如何延缓衰老：生物学视角下的探索与前沿"
-layout: "post.njk"  
-date: "2020-07-10"
+author: Lei
+date: '2020-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 一席
+source: ''
+speaker: 田烨
 tags:
-  - "视频笔记"
-  - "健康"
-  - "长寿"
-  - "衰老"
-  - "一席"
-data:
-  author: "Lei"
-  podcast_program: "一席"
-  speaker: "田烨"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 健康
+- 长寿
+- 衰老
+- 一席
+title: 如何延缓衰老：生物学视角下的探索与前沿
 ---
 
 # 如何延缓衰老：生物学视角下的探索与前沿

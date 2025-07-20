@@ -1,19 +1,18 @@
 ---
-title: "Ezra Klein on Why Ezra Klein is So F***ing Angry"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: Ezra Klein
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Hassan Minhaj
 tags:
-  - "视频笔记"
-  - "埃兹拉·克莱因"
-  - "美国政治"
-  - "民主党"
-  - "社会问题"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Hassan Minhaj"
-  guest: "Ezra Klein" 
-  source: ""
+- 视频笔记
+- 埃兹拉·克莱因
+- 美国政治
+- 民主党
+- 社会问题
+title: Ezra Klein on Why Ezra Klein is So F***ing Angry
 ---
 
 # Why Ezra Klein is So F***ing Angry (with Democrats)

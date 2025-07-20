@@ -1,17 +1,16 @@
 ---
-title: "对话曹丰泽：只要不饿死，人生没有必修课"
-layout: "post.njk"  
-date: "2025-07-18"
+author: Lei
+date: '2025-07-18'
+guest: 曹丰泽
+layout: post.njk
+program: 知行小酒馆
+source: ''
+speaker: 雨白
 tags:
-  - "视频笔记" 
-  - "个人成长"
-  - "知行小酒馆"
-data:
-  author: "Lei"
-  speaker: "雨白"
-  guest: "曹丰泽" 
-  source: "" 
-  program: "知行小酒馆"
+- 视频笔记
+- 个人成长
+- 知行小酒馆
+title: 对话曹丰泽：只要不饿死，人生没有必修课
 ---
 
 # 对话曹丰泽：只要不饿死，人生没有必修课

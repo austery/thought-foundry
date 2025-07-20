@@ -1,17 +1,16 @@
 ---
-title: "【投资TALK君1281期】周三CPI解读、CRCL买入思路及市场风险思考"
-layout: "post.njk"  
-date: "2025-06-09"
+author: Lei
+date: '2025-06-09'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 市场分析员 小涛
 tags:
-  - "视频笔记"
-  - "投资"
-  - "美元"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "市场分析员 小涛"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 投资
+- 美元
+title: 【投资TALK君1281期】周三CPI解读、CRCL买入思路及市场风险思考
 ---
 
 # 【投资TALK君1281期】周三CPI解读、CRCL买入思路及市场风险思考

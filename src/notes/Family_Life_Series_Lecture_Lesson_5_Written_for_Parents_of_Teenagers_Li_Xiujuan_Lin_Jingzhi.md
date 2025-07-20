@@ -1,18 +1,17 @@
 ---
-title: "家庭生活系列讲座 - 第五课：写给青少年的父母"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=xpAXGC-iKlo
+speaker: 李秀全, 林静芝
 tags:
-  - "视频笔记"
-  - "青少年教育"
-  - "亲子关系"
-  - "家庭生活"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李秀全, 林静芝"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=xpAXGC-iKlo"
+- 视频笔记
+- 青少年教育
+- 亲子关系
+- 家庭生活
+title: 家庭生活系列讲座 - 第五课：写给青少年的父母
 ---
 
 # 家庭生活系列讲座 - 第五课：写给青少年的父母

@@ -1,17 +1,16 @@
 ---
-title: "深度解析：如何超越搜索引擎，高效驾驭AI"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=-a_umjxdcIg&t=2732s
+speaker: 李厚辰
 tags:
-  - "视频笔记"
-  - "AI"
-  - "prompt"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=-a_umjxdcIg&t=2732s"
+- 视频笔记
+- AI
+- prompt
+title: 深度解析：如何超越搜索引擎，高效驾驭AI
 ---
 
 # 深度解析：从理论到实践，如何高效驾驭AI

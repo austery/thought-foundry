@@ -1,18 +1,17 @@
 ---
-title: "个股投资案例分析：Frank的公司股票投资复盘"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: Frank, Vivian, Zhao Rui, Wang Will, Alvin
+layout: post.njk
+podcast_program: 加拿大ETF投资小组
+source: ''
+speaker: Lei
 tags:
-  - "视频笔记"
-  - "投资"
-  - "能力圈"
-  - "安全边际"
-data:
-  author: "Lei"
-  podcast_program: "加拿大ETF投资小组"
-  speaker: "Lei"
-  guest: "Frank, Vivian, Zhao Rui, Wang Will, Alvin" 
-  source: ""
+- 视频笔记
+- 投资
+- 能力圈
+- 安全边际
+title: 个股投资案例分析：Frank的公司股票投资复盘
 ---
 
 # 个股投资案例分析：Frank的公司股票投资复盘

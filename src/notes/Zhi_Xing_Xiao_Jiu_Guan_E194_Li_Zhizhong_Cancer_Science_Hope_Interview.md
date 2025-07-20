@@ -1,18 +1,17 @@
 ---
-title: "当科普面对算法高墙：癌症生物学博士李志忠谈《癌症天敌》与信息茧房的突围"
-layout: "post.njk"  
-date: "2025-07-09"
+author: Lei
+date: '2025-07-09'
+guest: 李志忠（菠萝）
+layout: post.njk
+program: 知行小酒馆
+source: https://www.youtube.com/watch?v=giSlEc0ZofI&t
+speaker: 雨白
 tags:
-  - "视频笔记" 
-  - "癌症科普"
-  - "Health"
-  - "知行小酒馆"
-data:
-  author: "Lei"
-  speaker: "雨白"
-  guest: "李志忠（菠萝）" 
-  source: "https://www.youtube.com/watch?v=giSlEc0ZofI&t" 
-  program: "知行小酒馆"
+- 视频笔记
+- 癌症科普
+- Health
+- 知行小酒馆
+title: 当科普面对算法高墙：癌症生物学博士李志忠谈《癌症天敌》与信息茧房的突围
 ---
 
 # 知行小酒馆：专访李志忠，探讨癌症科普的坚持与两难

@@ -1,20 +1,19 @@
 ---
-title: "读书会讨论(二) Part2：《国家为什么会失败》与中国的转型路径"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 李老师
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=hZR2EGv8RBs&t=10s
+speaker: 伍雷
 tags:
-  - "视频笔记"
-  - "国家失败"
-  - "中国转型"
-  - "民粹主义"
-  - "榨取性制度"
-  - "包容性制度"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "伍雷"
-  guest: "李老师" 
-  source: "https://www.youtube.com/watch?v=hZR2EGv8RBs&t=10s"
+- 视频笔记
+- 国家失败
+- 中国转型
+- 民粹主义
+- 榨取性制度
+- 包容性制度
+title: 读书会讨论(二) Part2：《国家为什么会失败》与中国的转型路径
 ---
 
 # 读书会讨论(二) Part2：《国家为什么会失败》与中国的转型路径

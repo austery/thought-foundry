@@ -1,20 +1,19 @@
 ---
-title: "家庭生活系列讲座 第三课：吵架十诫"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 无
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=oP3lqZMNjts
+speaker: 李秀全, 林静芝
 tags:
-  - "视频笔记"
-  - "吵架十诫"
-  - "夫妻沟通"
-  - "婚姻关系"
-  - "家庭生活"
-  - "两性关系"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李秀全, 林静芝"
-  guest: "无" 
-  source: "https://www.youtube.com/watch?v=oP3lqZMNjts"
+- 视频笔记
+- 吵架十诫
+- 夫妻沟通
+- 婚姻关系
+- 家庭生活
+- 两性关系
+title: 家庭生活系列讲座 第三课：吵架十诫
 ---
 
 # 家庭生活系列讲座 第三课：吵架十诫上

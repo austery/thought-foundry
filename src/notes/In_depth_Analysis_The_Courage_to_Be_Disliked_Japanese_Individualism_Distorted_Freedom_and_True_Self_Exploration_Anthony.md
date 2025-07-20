@@ -1,20 +1,19 @@
 ---
-title: "深度剖析《被讨厌的勇气》：日式个人主义、自由观扭曲与自我探索的真谛"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "被讨厌的勇气"
-  - "阿德勒心理学"
-  - "个人主义"
-  - "自由"
-  - "自我探索"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 被讨厌的勇气
+- 阿德勒心理学
+- 个人主义
+- 自由
+- 自我探索
+title: 深度剖析《被讨厌的勇气》：日式个人主义、自由观扭曲与自我探索的真谛
 ---
 
 # 深度剖析《被讨厌的勇气》：日式个人主义、自由观扭曲与自我探索的真谛

@@ -11,34 +11,34 @@ layout: "base.njk"
 
     <div class="metadata-block">
       {# 使用 if 判断，只有当数据存在时才显示这一行 #}
-      {% if data.author %}
-        <p><strong>作者:</strong> {{ data.author }}</p>
+      {% if author %}
+        <p><strong>作者:</strong> {{ author }}</p>
       {% endif %}
 
-      {% if data.publisher %}
-        <p><strong>出版社:</strong> {{ data.publisher }}</p>
+      {% if publisher %}
+        <p><strong>出版社:</strong> {{ publisher }}</p>
       {% endif %}
 
-      {% if data.year %}
-        <p><strong>出版年份:</strong> {{ data.year }}</p>
+      {% if year %}
+        <p><strong>出版年份:</strong> {{ year }}</p>
       {% endif %}
 
-      {% if data.read_date %}
-        <p><strong>阅读日期:</strong> {{ data.read_date }}</p>
+      {% if read_date %}
+        <p><strong>阅读日期:</strong> {{ read_date }}</p>
       {% endif %}
       
-      {% if data.rating %}
-        <p><strong>评分:</strong> {{ data.rating }}</p>
+      {% if rating %}
+        <p><strong>评分:</strong> {{ rating }}</p>
       {% endif %}
 
       {# 书籍的简介 #}
-      {% if data.description %}
-        <p><strong>简介:</strong> {{ data.description }}</p>
+      {% if description %}
+        <p><strong>简介:</strong> {{ description }}</p>
       {% endif %}
 
       {# 书籍的封面图 #}
-      {% if data.cover_image %}
-        <img src="{{ data.cover_image | url }}" alt="书籍封面" class="book-cover" />
+      {% if cover_image %}
+        <img src="{{ cover_image | url }}" alt="书籍封面" class="book-cover" />
       {% endif %}
       
       {# 关键字部分，我们直接遍历这本书的 tags #}

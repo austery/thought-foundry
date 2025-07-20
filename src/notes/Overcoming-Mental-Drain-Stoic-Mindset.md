@@ -1,17 +1,16 @@
 ---
-title: "视频转写报告"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 大问题阿伦
 tags:
-  - "视频笔记"
-  - "斯多葛主义"
-  - "心理学"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "大问题阿伦"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 斯多葛主义
+- 心理学
+title: 视频转写报告
 ---
 
 # 视频转写报告

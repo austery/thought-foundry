@@ -1,18 +1,18 @@
 ---
-title: "American Democracy Is Collapsing, And This Man Predicted It | Aaron Bastani Meets Joseph Stiglitz"
-layout: "post.njk"
-date: "2025-06-17"
+author: Lei
+date: '2025-06-17'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: '#${id}'
+speaker: ''
 tags:
-  - "视频笔记"
-  - "美国政治"
-  - "全球化"
-  - "中国模式"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: ""
-  source: "#${id}"
+- 视频笔记
+- 美国政治
+- 全球化
+- 中国模式
+title: American Democracy Is Collapsing, And This Man Predicted It | Aaron Bastani
+  Meets Joseph Stiglitz
 ---
 
 # American Democracy Is Collapsing, And This Man Predicted It \| Aaron Bastani Meets Joseph Stiglitz

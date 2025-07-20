@@ -1,17 +1,16 @@
 ---
-title: "克里斯·霍恩爵士在挪威银行投资管理公司《In Good Company》播客上的对话"
-layout: "post.njk"
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 克里斯·霍恩爵士（TCI创始人），尼古拉·坦根（主持人，挪威银行投资管理公司）
 tags:
-  - "视频笔记"
-  - "投资"
-  - "护城河"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "克里斯·霍恩爵士（TCI创始人），尼古拉·坦根（主持人，挪威银行投资管理公司）"
-  guest: ""
-  source: ""
+- 视频笔记
+- 投资
+- 护城河
+title: 克里斯·霍恩爵士在挪威银行投资管理公司《In Good Company》播客上的对话
 ---
 
 # 克里斯·霍恩爵士在《In Good Company》播客上的对话

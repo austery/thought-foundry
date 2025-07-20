@@ -1,17 +1,16 @@
 ---
-title: "特斯拉深度分析：第三党派风波与“大而美”法案冲击下的投资策略"
-layout: "post.njk"  
-date: "2025-07-07"
+author: Lei
+date: '2025-07-07'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: talk君
 tags:
-  - "视频笔记"
-  - "特斯拉"
-  - "投资"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "talk君"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 特斯拉
+- 投资
+title: 特斯拉深度分析：第三党派风波与“大而美”法案冲击下的投资策略
 ---
 
 # 特斯拉深度分析：第三党派风波与“大而美”法案冲击下的投资策略

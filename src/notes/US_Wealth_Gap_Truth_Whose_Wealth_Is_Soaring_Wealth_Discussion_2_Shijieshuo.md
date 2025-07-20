@@ -1,18 +1,17 @@
 ---
-title: "美国贫富差距真相：谁的财富在飞涨？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/@shijieshuo
+speaker: ''
 tags:
-  - "视频笔记"
-  - "美国经济"
-  - "资产配置"
-  - "师姐说"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "https://www.youtube.com/@shijieshuo"
+- 视频笔记
+- 美国经济
+- 资产配置
+- 师姐说
+title: 美国贫富差距真相：谁的财富在飞涨？
 ---
 
 # 美国贫富差距真相：谁的财富在飞涨？

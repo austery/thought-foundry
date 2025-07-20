@@ -1,17 +1,16 @@
 ---
-title: "亚马逊总裁的公开信与AI时代的职场生存法则"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 徒步的骑手
 tags:
-  - "视频笔记"
-  - "亚马逊"
-  - "AI"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "徒步的骑手"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 亚马逊
+- AI
+title: 亚马逊总裁的公开信与AI时代的职场生存法则
 ---
 
 # 亚马逊总裁的公开信与AI时代的职场生存法则

@@ -1,19 +1,18 @@
 ---
-title: "对话匹马：从MEME币到发射平台，梭哈文化背后的行为经济学盛宴与投资逻辑"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 匹马 (Continue Capital)
+layout: post.njk
+podcast_program: Web3 101
+source: ''
+speaker: 刘峰, Jack
 tags:
-  - "视频笔记"
-  - "Meme币"
-  - "行为金融学"
-  - "Solana"
-  - "投资"
-data:
-  author: "Lei"
-  podcast_program: "Web3 101"
-  speaker: "刘峰, Jack"
-  guest: "匹马 (Continue Capital)" 
-  source: ""
+- 视频笔记
+- Meme币
+- 行为金融学
+- Solana
+- 投资
+title: 对话匹马：从MEME币到发射平台，梭哈文化背后的行为经济学盛宴与投资逻辑
 ---
 
 # 对话匹马：从MEME币到发射平台，梭哈文化背后的行为经济学盛宴与投资逻辑

@@ -1,20 +1,19 @@
 ---
-title: "投资小组第五次会议纪要：Vivian的BRRR案例分享"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: Vivian, michelle, alvin, Frank
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Lei
 tags:
-  - "视频笔记"
-  - "BRRR策略"
-  - "房地产投资"
-  - "案例分享"
-  - "资金回收"
-  - "正现金流"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Lei"
-  guest: "Vivian, michelle, alvin, Frank" 
-  source: ""
+- 视频笔记
+- BRRR策略
+- 房地产投资
+- 案例分享
+- 资金回收
+- 正现金流
+title: 投资小组第五次会议纪要：Vivian的BRRR案例分享
 ---
 
 # 投资小组第五次会议纪要：Vivian的BRRR案例分享

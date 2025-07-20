@@ -1,17 +1,16 @@
 ---
-title: "AI Vibe Coding 社区讨论会纪要"
-layout: "post.njk"  
-date: "2025-07-06"
+author: Lei
+date: '2025-07-06'
+guest: Amy, Ray, Jay, Vincent
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Dusing
 tags:
-  - "视频笔记"
-  - "Vibe Coding"
-  - "Prompt"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Dusing"
-  guest: "Amy, Ray, Jay, Vincent" 
-  source: ""
+- 视频笔记
+- Vibe Coding
+- Prompt
+title: AI Vibe Coding 社区讨论会纪要
 ---
 
 # AI Vibe Coding 社区讨论会纪要

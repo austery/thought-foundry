@@ -1,18 +1,17 @@
 ---
-title: "中国如何赢得钍核能竞赛"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Cold Fusion
 tags:
-  - "视频笔记"
-  - "中国"
-  - "核能"
-  - "能源"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Cold Fusion"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 中国
+- 核能
+- 能源
+title: 中国如何赢得钍核能竞赛
 ---
 
 # 中国如何赢得钍核能竞赛

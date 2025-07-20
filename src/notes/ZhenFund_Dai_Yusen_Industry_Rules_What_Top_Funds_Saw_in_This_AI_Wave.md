@@ -1,20 +1,19 @@
 ---
-title: "真格基金戴雨森：产业规律，这轮AI，顶级基金都看到了什么？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 戴雨森
 tags:
-  - "视频笔记"
-  - "AI投资"
-  - "真格基金"
-  - "戴雨森"
-  - "创业机会"
-  - "产业规律"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "戴雨森"
-  guest: "" 
-  source: ""
+- 视频笔记
+- AI投资
+- 真格基金
+- 戴雨森
+- 创业机会
+- 产业规律
+title: 真格基金戴雨森：产业规律，这轮AI，顶级基金都看到了什么？
 ---
 
 # 真格基金戴雨森：产业规律，这轮AI，顶级基金都看到了什么？

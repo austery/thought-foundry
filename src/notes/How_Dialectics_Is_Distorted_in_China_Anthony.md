@@ -1,18 +1,17 @@
 ---
-title: "辩证法在中国是怎样被歪曲的？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Anthony
 tags:
-  - "视频笔记"
-  - "辩证法"
-  - "哲学"
-  - "批判性思维"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Anthony"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 辩证法
+- 哲学
+- 批判性思维
+title: 辩证法在中国是怎样被歪曲的？
 ---
 
 # 辩证法在中国是怎样被歪曲的？

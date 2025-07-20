@@ -1,18 +1,17 @@
 ---
-title: "AI 的下一步是“意识觉醒”还是“集体游魂”？ - INDIGO TALK EP28"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: Mohan
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: INDIGO
 tags:
-  - "视频笔记"
-  - "AI"
-  - "意识"
-  - "Agent"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "INDIGO"
-  guest: "Mohan" 
-  source: ""
+- 视频笔记
+- AI
+- 意识
+- Agent
+title: AI 的下一步是“意识觉醒”还是“集体游魂”？ - INDIGO TALK EP28
 ---
 
 # AI 的下一步是“意识觉醒”还是“集体游魂”？

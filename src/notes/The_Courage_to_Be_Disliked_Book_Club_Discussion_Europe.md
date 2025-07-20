@@ -1,19 +1,18 @@
 ---
-title: "《被讨厌的勇气》读书会讨论-欧洲区"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 陆瑶、康、Fancy、Suge、LEI、Catherine
 tags:
-  - "视频笔记"
-  - "被讨厌的勇气"
-  - "阿德勒心理学"
-  - "自我接纳"
-  - "课题分离"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "陆瑶、康、Fancy、Suge、LEI、Catherine"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 被讨厌的勇气
+- 阿德勒心理学
+- 自我接纳
+- 课题分离
+title: 《被讨厌的勇气》读书会讨论-欧洲区
 ---
 
 # 《被讨厌的勇气》读书会讨论-欧洲区

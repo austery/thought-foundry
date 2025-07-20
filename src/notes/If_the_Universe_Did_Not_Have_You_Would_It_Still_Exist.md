@@ -1,20 +1,19 @@
 ---
-title: "假如宇宙没有你，它还会存在吗？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "宇宙"
-  - "观察者"
-  - "微调"
-  - "人择原理"
-  - "玻尔兹曼大脑"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 宇宙
+- 观察者
+- 微调
+- 人择原理
+- 玻尔兹曼大脑
+title: 假如宇宙没有你，它还会存在吗？
 ---
 
 # 假如宇宙没有你，它还会存在吗？

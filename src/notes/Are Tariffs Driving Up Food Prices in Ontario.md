@@ -1,17 +1,17 @@
 ---
-title: "Are Tariffs Driving Up Food Prices in Ontario & Dangerous Games: Roblox and Metaverse Exposed"
-layout: "post.njk"  
-date: "2025-06-02"
+author: Lei
+date: '2025-06-02'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "Ontario"
-  - "教育"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- Ontario
+- 教育
+title: 'Are Tariffs Driving Up Food Prices in Ontario & Dangerous Games: Roblox and
+  Metaverse Exposed'
 ---
 
 # Are Tariffs Driving Up Food Prices in Ontario & Dangerous Games: Roblox and Metaverse Exposed

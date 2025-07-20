@@ -1,20 +1,19 @@
 ---
-title: "加拿大退休金拼图中最重要的一部分，你有吗？"
-layout: "post.njk"  
-date: "2025-06-05"
+author: Lei
+date: '2025-06-05'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 王红雨
 tags:
-  - "视频笔记"
-  - "加拿大"
-  - "退休金"
-  - "养老金"
-  - "投资"
-  - "资产配置"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "王红雨"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 加拿大
+- 退休金
+- 养老金
+- 投资
+- 资产配置
+title: 加拿大退休金拼图中最重要的一部分，你有吗？
 ---
 
 ## 引言：为何加拿大老年人退休金如此之高？

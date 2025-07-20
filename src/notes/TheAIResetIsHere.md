@@ -1,18 +1,17 @@
 ---
-title: "The AI Reset: Search, Jobs, and Everything Else - A Conversation"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Peter Diamandis
 tags:
-  - "视频笔记"
-  - "AI"
-  - "科技趋势"
-  - "就业影响"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Peter Diamandis"
-  guest: "Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis" 
-  source: ""
+- 视频笔记
+- AI
+- 科技趋势
+- 就业影响
+title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
 ---
 
 # The AI Reset: Search, Jobs, and Everything Else

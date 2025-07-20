@@ -1,18 +1,17 @@
 ---
-title: "即将来临的人口危机：它将如何改变世界？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: Money & Macro
+source: https://www.youtube.com/watch?v=DDEOCJvmzKo&t
+speaker: ''
 tags:
-  - "视频笔记"
-  - "人口危机"
-  - "日本化"
-  - "全球经济"
-data:
-  author: "Lei"
-  podcast_program: "Money & Macro"
-  speaker:  ""
-  guest:  "" 
-  source: "https://www.youtube.com/watch?v=DDEOCJvmzKo&t"
+- 视频笔记
+- 人口危机
+- 日本化
+- 全球经济
+title: 即将来临的人口危机：它将如何改变世界？
 ---
 
 # 即将来临的人口危机：它将如何改变世界？

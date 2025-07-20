@@ -1,20 +1,19 @@
 ---
-title: "加拿大联邦大选解析与国际格局展望"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "加拿大"
-  - "联邦大选"
-  - "国际格局"
-  - "贸易"
-  - "种族问题"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 加拿大
+- 联邦大选
+- 国际格局
+- 贸易
+- 种族问题
+title: 加拿大联邦大选解析与国际格局展望
 ---
 
 # 加拿大联邦大选解析与国际格局展望

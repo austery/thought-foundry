@@ -1,16 +1,15 @@
 ---
-title: "投资心理学｜THE PSYCHOLOGY OF INVESTING"
-layout: "post.njk"  
-date: "2024-02-21"
+author: Lei
+date: '2024-02-21'
+guest: ''
+layout: post.njk
+source: https://www.youtube.com/watch?v=Yqn0lv9ymLk
+speaker: LEI
 tags:
-  - "投资"
-  - "视频笔记" 
-  - "book"
-data:
-  author: "Lei"
-  speaker: "LEI"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=Yqn0lv9ymLk"
+- 投资
+- 视频笔记
+- book
+title: 投资心理学｜THE PSYCHOLOGY OF INVESTING
 ---
 
 # 投资心理学深度解析：驾驭市场波动与人性弱点

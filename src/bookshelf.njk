@@ -4,8 +4,8 @@ layout: "default.njk"
 permalink: "/bookshelf/"
 ---
 
-<h1>我的书架</h1>
-<p>这里是我读过的书，以及我的一些笔记和思考。</p>
+<h1>我的读书笔记</h1>
+<p>这里是我读过的书，记录一下当时的反思，和自己的想法。</p>
 
 <div class="card-layout">
   {# 遍历 'books' 集合里的每一本书 #}
@@ -18,9 +18,14 @@ permalink: "/bookshelf/"
         {% endif %}
         <div class="card-content">
           <h3>{{ book.data.title }}</h3>
-          <p>作者: {{ book.data.author }}</p>
+          {% if book.data.author %}
+            <p>作者: {{ book.data.author }}</p>
+          {% endif %}
           {% if book.data.rating %}
             <p>评分: {{ book.data.rating }}</p>
+          {% endif %}
+          {% if book.data.year %}
+            <p>出版年份: {{ book.data.year }}</p>
           {% endif %}
         </div>
       </article>

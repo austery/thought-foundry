@@ -1,18 +1,17 @@
 ---
-title: "Vibe Coding (同声共振编程) 分享会纪要"
-layout: "post.njk"
-date: "2025-07-12"
+author: Lei
+date: '2025-07-12'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 张敏
 tags:
-  - "视频笔记"
-  - "Vibe Coding"
-  - "工作流"
-  - "AI工具"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "张敏"
-  guest: ""
-  source: ""
+- 视频笔记
+- Vibe Coding
+- 工作流
+- AI工具
+title: Vibe Coding (同声共振编程) 分享会纪要
 ---
 
 # Vibe Coding (同声共振编程) 分享会纪要

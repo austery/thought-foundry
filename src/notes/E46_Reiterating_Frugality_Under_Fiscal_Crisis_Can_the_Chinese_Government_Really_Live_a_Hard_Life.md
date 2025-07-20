@@ -1,20 +1,19 @@
 ---
-title: "E46 财政危机下重提“厉行节约”，中国政府真的能过苦日子吗？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "财政危机"
-  - "厉行节约"
-  - "政府浪费"
-  - "三公消费"
-  - "官僚体系"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 财政危机
+- 厉行节约
+- 政府浪费
+- 三公消费
+- 官僚体系
+title: E46 财政危机下重提“厉行节约”，中国政府真的能过苦日子吗？
 ---
 
 # E46 财政危机下重提“厉行节约”，中国政府真的能过苦日子吗？

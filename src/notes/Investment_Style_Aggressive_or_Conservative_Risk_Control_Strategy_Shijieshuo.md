@@ -1,20 +1,19 @@
 ---
-title: "投资风格：激进还是保守？因人而异的风险控制策略"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/@shijieshuo
+speaker: ''
 tags:
-  - "视频笔记"
-  - "投资"
-  - "风险控制"
-  - "家庭理财"
-  - "资产管理"
-  - "投资策略"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "https://www.youtube.com/@shijieshuo"
+- 视频笔记
+- 投资
+- 风险控制
+- 家庭理财
+- 资产管理
+- 投资策略
+title: 投资风格：激进还是保守？因人而异的风险控制策略
 ---
 
 # 投资风格：激进还是保守？因人而异的风险控制策略

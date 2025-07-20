@@ -1,17 +1,16 @@
 ---
-title: "深度解析：挑战英伟达的中国芯片巨头华为"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: Eva Dou
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=0R37p35EoeM&list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV
+speaker: Joe Weisenthal, Tracy Alloway
 tags:
-  - "视频笔记"
-  - "AI"
-  - "英伟达"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Joe Weisenthal, Tracy Alloway"
-  guest: "Eva Dou" 
-  source: "https://www.youtube.com/watch?v=0R37p35EoeM&list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV"
+- 视频笔记
+- AI
+- 英伟达
+title: 深度解析：挑战英伟达的中国芯片巨头华为
 ---
 
 # 探秘华为：挑战英伟达的中国芯片巨头

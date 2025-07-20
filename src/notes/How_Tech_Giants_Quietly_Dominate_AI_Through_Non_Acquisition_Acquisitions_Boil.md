@@ -1,17 +1,16 @@
 ---
-title: "科技巨头如何通过“非收购式收购”悄然主导AI领域"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+speaker: ''
 tags:
-  - "视频笔记"
-  - "AI"
-  - "反垄断"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=YOUR_VIDEO_ID"
+- 视频笔记
+- AI
+- 反垄断
+title: 科技巨头如何通过“非收购式收购”悄然主导AI领域
 ---
 
 # 科技巨头如何通过“非收购式收购”悄然主导AI领域

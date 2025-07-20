@@ -1,20 +1,19 @@
 ---
-title: "美国居民的收入、消费与储蓄：政府补贴的影响分析"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 师姐说
+source: ''
+speaker: 铁头金融汪
 tags:
-  - "视频笔记"
-  - "美国经济"
-  - "居民收入"
-  - "消费储蓄"
-  - "政府补贴"
-  - "师姐说"
-data:
-  author: "Lei"
-  podcast_program: "师姐说"
-  speaker: "铁头金融汪"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 美国经济
+- 居民收入
+- 消费储蓄
+- 政府补贴
+- 师姐说
+title: 美国居民的收入、消费与储蓄：政府补贴的影响分析
 ---
 
 # 美国居民的收入、消费与储蓄：政府补贴的影响分析

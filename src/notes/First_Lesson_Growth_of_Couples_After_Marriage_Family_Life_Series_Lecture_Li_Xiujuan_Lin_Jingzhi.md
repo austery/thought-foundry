@@ -1,20 +1,19 @@
 ---
-title: "第一课：夫妻婚后的成长 - 家庭生活系列讲座"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=Z0NUvd24_qs&t=1242s
+speaker: 李秀全, 林静芝
 tags:
-  - "视频笔记"
-  - "婚姻成长"
-  - "家庭生活"
-  - "夫妻关系"
-  - "灵命成长"
-  - "金钱奉献"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李秀全, 林静芝"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=Z0NUvd24_qs&t=1242s"
+- 视频笔记
+- 婚姻成长
+- 家庭生活
+- 夫妻关系
+- 灵命成长
+- 金钱奉献
+title: 第一课：夫妻婚后的成长 - 家庭生活系列讲座
 ---
 
 # 第一课：夫妻婚后的成长

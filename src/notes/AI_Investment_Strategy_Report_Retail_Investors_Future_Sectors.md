@@ -1,16 +1,15 @@
 ---
-title: "AI投资策略报告：普通散户如何布局未来赛道？"
-layout: "post.njk"  
-date: "2025-06-28"
+author: Lei
+date: '2025-06-28'
+guest: ''
+layout: post.njk
+podcast_program: 老科谈科技股
+source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+speaker: ''
 tags:
-  - "视频笔记"
-  - "投资"
-data:
-  author: "Lei"
-  podcast_program: "老科谈科技股"
-  speaker: ""
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=YOUR_VIDEO_ID"
+- 视频笔记
+- 投资
+title: AI投资策略报告：普通散户如何布局未来赛道？
 ---
 
 # AI投资策略报告：普通散户如何布局未来赛道？

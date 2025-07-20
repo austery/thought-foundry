@@ -1,18 +1,17 @@
 ---
-title: "硅谷101：谷歌股价为何先跌后涨？华尔街如何看？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: Yiwen，刘沁东
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 弘君 (硅谷101创始人，播客主理人)
 tags:
-  - "视频笔记"
-  - "谷歌"
-  - "投资"
-  - "硅谷101"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "弘君 (硅谷101创始人，播客主理人)"
-  guest: "Yiwen，刘沁东" 
-  source: ""
+- 视频笔记
+- 谷歌
+- 投资
+- 硅谷101
+title: 硅谷101：谷歌股价为何先跌后涨？华尔街如何看？
 ---
 
 # 硅谷101：谷歌股价为何先跌后涨？华尔街如何看？

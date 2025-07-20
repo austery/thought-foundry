@@ -1,18 +1,18 @@
 ---
-title: "All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 无
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=Dp75wqOrtBs
+speaker: Jason Calacanis (Jason), David Sacks (Sacks), Chamath Palihapitiya (Chamath),
+  David Friedberg (Friedberg)
 tags:
-  - "视频笔记"
-  - "国际政治"
-  - "AI"
-  - "版权"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Jason Calacanis (Jason), David Sacks (Sacks), Chamath Palihapitiya (Chamath), David Friedberg (Friedberg)"
-  guest: "无" 
-  source: "https://www.youtube.com/watch?v=Dp75wqOrtBs"
+- 视频笔记
+- 国际政治
+- AI
+- 版权
+title: All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权
 ---
 
 # All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权

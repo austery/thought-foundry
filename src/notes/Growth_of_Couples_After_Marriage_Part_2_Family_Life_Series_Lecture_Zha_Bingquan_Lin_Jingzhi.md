@@ -1,20 +1,19 @@
 ---
-title: "夫妻婚后的成长下"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 林静芝
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
+speaker: 查秉全
 tags:
-  - "视频笔记"
-  - "婚姻成长"
-  - "夫妻关系"
-  - "感情成长"
-  - "家庭生活"
-  - "信仰"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "查秉全"
-  guest: "林静芝" 
-  source: "https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s"
+- 视频笔记
+- 婚姻成长
+- 夫妻关系
+- 感情成长
+- 家庭生活
+- 信仰
+title: 夫妻婚后的成长下
 ---
 
 # 夫妻婚后的成长下

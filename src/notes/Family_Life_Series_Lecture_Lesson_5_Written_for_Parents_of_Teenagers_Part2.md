@@ -1,19 +1,18 @@
 ---
-title: "写给青少年的父母（下）"
-layout: "post.njk"  
-date: "2025-07-12"
+author: Lei
+date: '2025-07-12'
+guest: 林静芝师母
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=0_3-hCgQ36c
+speaker: 李秀全老师
 tags:
-  - "视频笔记"
-  - "青少年教育"
-  - "亲子关系"
-  - "家庭生活"
-  - "父亲角色"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李秀全老师"
-  guest: "林静芝师母" 
-  source: "https://www.youtube.com/watch?v=0_3-hCgQ36c"
+- 视频笔记
+- 青少年教育
+- 亲子关系
+- 家庭生活
+- 父亲角色
+title: 写给青少年的父母（下）
 ---
 
 # 写给青少年的父母（下）

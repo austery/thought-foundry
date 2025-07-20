@@ -1,17 +1,16 @@
 ---
-title: "访谈报告：加拿大人的收入，工作与财富"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "加拿大收入"
-  - "投资"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 加拿大收入
+- 投资
+title: 访谈报告：加拿大人的收入，工作与财富
 ---
 
 # 加拿大人的收入，工作与财富

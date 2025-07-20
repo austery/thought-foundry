@@ -1,18 +1,17 @@
 ---
-title: "知行小酒馆 E192 | 嘉宾: 王汉洋"
-layout: "post.njk"  
-date: "2025-06-10"
+author: Lei
+date: '2025-06-10'
+guest: 王汉洋
+layout: post.njk
+podcast_program: 知行小酒馆
+source: ''
+speaker: 雨白
 tags:
-  - "视频笔记"
-  - "AI"
-  - "个人成长"
-  - "知行小酒馆"
-data:
-  author: "Lei"
-  podcast_program: "知行小酒馆"
-  speaker: "雨白"
-  guest: "王汉洋" 
-  source: ""
+- 视频笔记
+- AI
+- 个人成长
+- 知行小酒馆
+title: '知行小酒馆 E192 | 嘉宾: 王汉洋'
 ---
 
 # E192 AI: 真正的机会，不在AI，在现实世界

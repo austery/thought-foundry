@@ -1,20 +1,19 @@
 ---
-title: "Google DeepMind 播客报告：AI、意识与推理 - Murray Shanahan 访谈"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: Murray Shanahan（帝国理工学院认知机器人学教授，Google DeepMind 首席研究科学家）
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Hannah Fry 教授
 tags:
-  - "视频笔记"
-  - "AI"
-  - "意识"
-  - "推理"
-  - "具身化"
-  - "语言模型"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Hannah Fry 教授"
-  guest: "Murray Shanahan（帝国理工学院认知机器人学教授，Google DeepMind 首席研究科学家）" 
-  source: ""
+- 视频笔记
+- AI
+- 意识
+- 推理
+- 具身化
+- 语言模型
+title: Google DeepMind 播客报告：AI、意识与推理 - Murray Shanahan 访谈
 ---
 
 # Google DeepMind 播客：AI、意识与推理

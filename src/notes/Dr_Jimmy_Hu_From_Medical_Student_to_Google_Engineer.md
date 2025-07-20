@@ -1,20 +1,19 @@
 ---
-title: "从医学生到谷歌工程师——胡思宇医师的跨界之路"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Jimmy Hu，Irene
 tags:
-  - "视频笔记"
-  - "胡思宇"
-  - "谷歌工程师"
-  - "医学影像AI"
-  - "生物医学资讯"
-  - "机器学习"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Jimmy Hu，Irene"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 胡思宇
+- 谷歌工程师
+- 医学影像AI
+- 生物医学资讯
+- 机器学习
+title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
 ---
 
 # 从医学生到谷歌工程师——胡思宇医师的跨界之路

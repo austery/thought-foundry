@@ -1,20 +1,19 @@
 ---
-title: "《Just Keep Buying》深度解读指南"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.harriman-house.com/press/full/4200
+speaker: ''
 tags:
-  - "视频笔记"
-  - "JustKeepBuying"
-  - "投资"
-  - "理财"
-  - "NickMaggiulli"
-  - "财富积累"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "https://www.harriman-house.com/press/full/4200"
+- 视频笔记
+- JustKeepBuying
+- 投资
+- 理财
+- NickMaggiulli
+- 财富积累
+title: 《Just Keep Buying》深度解读指南
 ---
 
 # 《Just Keep Buying》深度解读指南

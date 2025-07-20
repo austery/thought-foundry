@@ -1,18 +1,17 @@
 ---
-title: "AI 的正确使用姿势：从 Prompt 到工作流"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=-a_umjxdcIg&t
+speaker: 李厚辰
 tags:
-  - "视频笔记"
-  - "人工智能"
-  - "Prompt"
-  - "工作流"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=-a_umjxdcIg&t"
+- 视频笔记
+- 人工智能
+- Prompt
+- 工作流
+title: AI 的正确使用姿势：从 Prompt 到工作流
 ---
 
 # AI 的正确使用姿势：从 Prompt 到工作流

@@ -1,17 +1,16 @@
 ---
-title: "E43 深度对话：NotebookLM与AI内容生成的未来"
-layout: "post.njk"
-date: "2025-05-30"
+author: Lei
+date: '2025-05-30'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "AI"
-  - "人类价值"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: ""
-  source: ""
+- 视频笔记
+- AI
+- 人类价值
+title: E43 深度对话：NotebookLM与AI内容生成的未来
 ---
 
 # 深度对话：NotebookLM与AI内容生成的未来

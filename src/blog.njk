@@ -21,8 +21,6 @@ permalink: "/"
           {# 徽章部分 #}
           {% if item.filePathStem.includes('/posts/') %}
             <span class="badge">博客文章</span>
-          {% elif item.filePathStem.includes('/books/') %}
-            <span class="badge">读书笔记</span>
           {% elif item.filePathStem.includes('/notes/') %}
             <span class="badge">视频笔记</span>
           {% endif %}

@@ -1,20 +1,19 @@
 ---
-title: "当真相无比残酷，我们还应该相信吗？如何进行自我PUA？"
-layout: "post.njk"  
-date: "2024-10-10"
+author: Lei
+date: '2024-10-10'
+guest: ''
+layout: post.njk
+podcast_program: 大问题Dialectic
+source: https://www.youtube.com/watch?v=XXK5wOWh7vM&t
+speaker: 夏先生
 tags:
-  - "视频笔记"
-  - "真相与信念"
-  - "自我PUA"
-  - "哲学讨论"
-  - "认知理由"
-  - "实践理由"
-data:
-  author: "Lei"
-  podcast_program: "大问题Dialectic"
-  speaker: "夏先生"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=XXK5wOWh7vM&t"
+- 视频笔记
+- 真相与信念
+- 自我PUA
+- 哲学讨论
+- 认知理由
+- 实践理由
+title: 当真相无比残酷，我们还应该相信吗？如何进行自我PUA？
 ---
 
 # 当真相无比残酷，我们还应该相信吗？如何进行自我PUA？

@@ -1,18 +1,17 @@
 ---
-title: "How Language Shapes the Way We Think - Lera Boroditsky"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "语言"
-  - "思维"
-  - "语言相对论"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 语言
+- 思维
+- 语言相对论
+title: How Language Shapes the Way We Think - Lera Boroditsky
 ---
 
 # How Language Shapes the Way We Think

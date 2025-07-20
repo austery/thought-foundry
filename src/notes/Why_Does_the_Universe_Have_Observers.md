@@ -1,19 +1,18 @@
 ---
-title: "宇宙为何会有观察者"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "宇宙论"
-  - "人择原理"
-  - "玻尔兹曼大脑"
-  - "哲学"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 宇宙论
+- 人择原理
+- 玻尔兹曼大脑
+- 哲学
+title: 宇宙为何会有观察者
 ---
 
 # 宇宙为何会有观察者

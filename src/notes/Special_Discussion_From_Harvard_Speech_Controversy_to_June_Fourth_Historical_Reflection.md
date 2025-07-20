@@ -1,17 +1,16 @@
 ---
-title: "专题讨论：从哈佛演讲争议到六四历史反思"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 老尹
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 路飞
 tags:
-  - "视频笔记"
-  - "哈佛演讲"
-  - "政治反思"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "路飞"
-  guest: "老尹" 
-  source: ""
+- 视频笔记
+- 哈佛演讲
+- 政治反思
+title: 专题讨论：从哈佛演讲争议到六四历史反思
 ---
 
 # 专题讨论：从哈佛演讲争议到六四历史反思

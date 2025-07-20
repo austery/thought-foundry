@@ -1,20 +1,19 @@
 ---
-title: "穿越周期的智慧：美股价值投资的核心法则"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 刘宁
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=Feck2fSffmI&t
+speaker: 方总
 tags:
-  - "视频笔记"
-  - "美股投资"
-  - "价值投资"
-  - "刘宁"
-  - "投资策略"
-  - "风险控制"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "方总"
-  guest: "刘宁" 
-  source: "https://www.youtube.com/watch?v=Feck2fSffmI&t"
+- 视频笔记
+- 美股投资
+- 价值投资
+- 刘宁
+- 投资策略
+- 风险控制
+title: 穿越周期的智慧：美股价值投资的核心法则
 ---
 
 # 穿越周期的智慧：美股价值投资的核心法则

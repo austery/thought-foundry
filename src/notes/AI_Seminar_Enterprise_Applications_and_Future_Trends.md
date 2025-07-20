@@ -1,18 +1,22 @@
 ---
-title: "AI研讨会：探索企业级应用与未来趋势"
-layout: "post.njk"  
-date: "2025-06-20"
+author: Lei
+date: '2025-06-20'
+guest: Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, Sonal
+  Misra, Caleb Waldemar, Kristy Liu, Mary Henschel, Julia Groza, Raka Dhar, Jenna
+  Paglia, Daisy Dool, Erik Stabile, Jordan Bowman, Syed Hasan, Ruben Vieira, Pawandeep
+  Kaur, Victor Tarnovski, Dave Chodos, Kate Kaplya, Charley Yang, Maja Madirazza,
+  Krisika Suthan, Rahim Hashwani, Cedric Anne, Dean Slawson, Lisa Jarrett, Dr. Cindy
+  Plunkett
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq
 tags:
-  - "视频笔记"
-  - "企业应用"
-  - "项目管理"
-  - "prompt"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq"
-  guest: "Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, Sonal Misra, Caleb Waldemar, Kristy Liu, Mary Henschel, Julia Groza, Raka Dhar, Jenna Paglia, Daisy Dool, Erik Stabile, Jordan Bowman, Syed Hasan, Ruben Vieira, Pawandeep Kaur, Victor Tarnovski, Dave Chodos, Kate Kaplya, Charley Yang, Maja Madirazza, Krisika Suthan, Rahim Hashwani, Cedric Anne, Dean Slawson, Lisa Jarrett, Dr. Cindy Plunkett" 
-  source: ""
+- 视频笔记
+- 企业应用
+- 项目管理
+- prompt
+title: AI研讨会：探索企业级应用与未来趋势
 ---
 
 # AI研讨会：探索企业级应用与未来趋势

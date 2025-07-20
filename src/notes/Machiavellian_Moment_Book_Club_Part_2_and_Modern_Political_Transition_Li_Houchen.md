@@ -1,20 +1,19 @@
 ---
-title: "马基雅维里时刻与现代政治转型"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=li5mqxcSpfQ&t
+speaker: 李厚辰
 tags:
-  - "视频笔记"
-  - "马基雅维里时刻"
-  - "政治转型"
-  - "新君主"
-  - "共和制"
-  - "政治哲学"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=li5mqxcSpfQ&t"
+- 视频笔记
+- 马基雅维里时刻
+- 政治转型
+- 新君主
+- 共和制
+- 政治哲学
+title: 马基雅维里时刻与现代政治转型
 ---
 
 # 马基雅维里时刻与现代政治转型

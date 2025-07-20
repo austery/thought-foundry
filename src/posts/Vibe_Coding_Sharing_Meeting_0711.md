@@ -1,17 +1,16 @@
 ---
-title: "Vibe Coding分享会纪要"
-layout: "post.njk"
-date: "2025-07-12"
+author: Lei
+date: '2025-07-12'
+guest: Ray,Alex,Mike,Alene,Kat,Alina,Serena
+layout: post.njk
+podcast_program: 一口新饭
+source: ''
+speaker: 张敏
 tags:
-  - "视频笔记"
-  - "prompt"
-  - "vibe Coding"
-data:
-  author: "Lei"
-  podcast_program: "一口新饭"
-  speaker: "张敏"
-  guest: "Ray,Alex,Mike,Alene,Kat,Alina,Serena"
-  source: ""
+- 视频笔记
+- prompt
+- vibe Coding
+title: Vibe Coding分享会纪要
 ---
 
 # Vibe Coding (同声共振编程) 分享会纪要

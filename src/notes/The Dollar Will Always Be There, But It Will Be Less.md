@@ -1,18 +1,17 @@
 ---
-title: "Kenneth Rogoff on the Dollar's Future"
-layout: "post.njk"  
-date: "2025-06-10"
+author: Lei
+date: '2025-06-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Kenneth Rogoff
 tags:
-  - "视频笔记"
-  - "美元"
-  - "全球经济"
-  - "货币霸权"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Kenneth Rogoff"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 美元
+- 全球经济
+- 货币霸权
+title: Kenneth Rogoff on the Dollar's Future
 ---
 
 # The Dollar Will Always Be There, But It Will Be Less

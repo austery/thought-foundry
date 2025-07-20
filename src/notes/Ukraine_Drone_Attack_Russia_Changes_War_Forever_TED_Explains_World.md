@@ -1,19 +1,18 @@
 ---
-title: "Ukraine’s Drone Attack on Russia: A New Era of Warfare"
-layout: "post.njk"  
-date: "2025-06-20"
+author: Lei
+date: '2025-06-20'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "乌克兰"
-  - "俄罗斯"
-  - "无人机"
-  - "非对称战争"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 乌克兰
+- 俄罗斯
+- 无人机
+- 非对称战争
+title: 'Ukraine’s Drone Attack on Russia: A New Era of Warfare'
 ---
 
 # Ukraine’s Drone Attack on Russia Changes War Forever

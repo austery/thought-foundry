@@ -1,19 +1,18 @@
 ---
-title: "“藏富于民”的真相：从美国居民资产负债表看财富构成与变迁"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 师姐说
+source: ''
+speaker: 铁头金融汪
 tags:
-  - "视频笔记"
-  - "美国经济"
-  - "居民财富"
-  - "财富构成"
-  - "师姐说"
-data:
-  author: "Lei"
-  podcast_program: "师姐说"
-  speaker: "铁头金融汪"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 美国经济
+- 居民财富
+- 财富构成
+- 师姐说
+title: “藏富于民”的真相：从美国居民资产负债表看财富构成与变迁
 ---
 
 # “藏富于民”的真相：从美国居民资产负债表看财富构成与变迁

@@ -1,19 +1,18 @@
 ---
-title: "当我们搞副业时，我们到底在搞什么？ - Yehuan的分享"
-layout: "post.njk"  
-date: "2025-06-07"
+author: Lei
+date: '2025-06-07'
+guest: ''
+layout: post.njk
+podcast_program: 一口新饭
+source: ''
+speaker: Yehuan
 tags:
-  - "视频笔记"
-  - "副业探索"
-  - "个人成长"
-  - "人生经历"
-  - "创业精神"
-data:
-  author: "Lei"
-  podcast_program: "一口新饭"
-  speaker: "Yehuan"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 副业探索
+- 个人成长
+- 人生经历
+- 创业精神
+title: 当我们搞副业时，我们到底在搞什么？ - Yehuan的分享
 ---
 
 # 当我们搞副业时，我们到底在搞什么？

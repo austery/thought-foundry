@@ -1,18 +1,17 @@
 ---
-title: "# AI 知识管理程序研讨会"
-layout: "post.njk"  
-date: "2025-06-07"
+author: Lei
+date: '2025-06-07'
+guest: Vincent, Jay, Thomas
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 独行
 tags:
-  - "视频笔记"
-  - "Prompt"
-  - "软件开发"
-  - "学习方法"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "独行"
-  guest: "Vincent, Jay, Thomas" 
-  source: ""
+- 视频笔记
+- Prompt
+- 软件开发
+- 学习方法
+title: '# AI 知识管理程序研讨会'
 ---
 
 # AI 知识管理程序研讨会

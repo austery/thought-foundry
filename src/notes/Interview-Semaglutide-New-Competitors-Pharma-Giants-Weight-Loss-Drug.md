@@ -1,19 +1,18 @@
 ---
-title: "访谈记录：司美格鲁肽的新对手们"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: Yushan
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 泓君
 tags:
-  - "视频笔记"
-  - "司美格鲁肽"
-  - "减肥药"
-  - "GLP-1"
-  - "硅谷101"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "泓君"
-  guest: "Yushan" 
-  source: ""
+- 视频笔记
+- 司美格鲁肽
+- 减肥药
+- GLP-1
+- 硅谷101
+title: 访谈记录：司美格鲁肽的新对手们
 ---
 
 # 访谈记录：司美格鲁肽的新对手们——制药巨头混战减肥药下半场

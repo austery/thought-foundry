@@ -1,20 +1,19 @@
 ---
-title: "Markets Weekly Analysis - June 14, 2025"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: '#introduction'
+speaker: ''
 tags:
-  - "视频笔记"
-  - "美联储"
-  - "中东冲突"
-  - "美元"
-  - "稀土"
-  - "市场分析"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "#introduction"
+- 视频笔记
+- 美联储
+- 中东冲突
+- 美元
+- 稀土
+- 市场分析
+title: Markets Weekly Analysis - June 14, 2025
 ---
 
 # Markets Weekly Analysis

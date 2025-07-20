@@ -1,18 +1,17 @@
 ---
-title: "美国最高法院大法官吵架的事"
-layout: "post.njk"  
-date: "2025-06-20"
+author: Lei
+date: '2025-06-20'
+guest: ''
+layout: post.njk
+podcast_program: 徒步的骑手播客
+source: https://www.youtube.com/watch?v=DLAUDk0TFWA
+speaker: 徒步的骑手
 tags:
-  - "视频笔记"
-  - "美国最高法院"
-  - "司法制度"
-  - "法律与公平"
-data:
-  author: "Lei"
-  podcast_program: "徒步的骑手播客"
-  speaker: "徒步的骑手"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=DLAUDk0TFWA"
+- 视频笔记
+- 美国最高法院
+- 司法制度
+- 法律与公平
+title: 美国最高法院大法官吵架的事
 ---
 
 # 美国最高法院大法官吵架的事

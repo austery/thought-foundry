@@ -1,19 +1,18 @@
 ---
-title: "深度分析：泳池用品店是骗局吗？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https.www.youtube.com/watch?v=placeholder
+speaker: steve.com
 tags:
-  - "视频笔记"
-  - "泳池维护"
-  - "水化学"
-  - "消费陷阱"
-  - "行业内幕"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "steve.com"
-  guest: "" 
-  source: "https.www.youtube.com/watch?v=placeholder"
+- 视频笔记
+- 泳池维护
+- 水化学
+- 消费陷阱
+- 行业内幕
+title: 深度分析：泳池用品店是骗局吗？
 ---
 
 # 深度分析：泳池用品店是骗局吗？

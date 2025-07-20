@@ -1,20 +1,19 @@
 ---
-title: "中国青年就业海啸：1亿人失业的未来？—— 老周横眉"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 老周横眉
+source: ''
+speaker: 老周
 tags:
-  - "视频笔记"
-  - "中国"
-  - "青年就业"
-  - "失业率"
-  - "经济下行"
-  - "社会问题"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "https://xueqiu.com/2524803655/297810998"
+- 视频笔记
+- 中国
+- 青年就业
+- 失业率
+- 经济下行
+- 社会问题
+title: 中国青年就业海啸：1亿人失业的未来？—— 老周横眉
 ---
 
 # 中国青年就业海啸：1亿人失业的未来？

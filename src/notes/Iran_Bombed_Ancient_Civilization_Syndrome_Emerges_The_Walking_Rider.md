@@ -1,19 +1,18 @@
 ---
-title: "伊朗挨炸，炸出来的“文明古国综合症”"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: '@LiuTalks'
+source: ''
+speaker: 徒步的骑手
 tags:
-  - "视频笔记"
-  - "伊朗"
-  - "文明古国综合症"
-  - "奈保尔"
-  - "文化自信"
-data:
-  author: "Lei"
-  podcast_program: "@LiuTalks"
-  speaker: "徒步的骑手"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 伊朗
+- 文明古国综合症
+- 奈保尔
+- 文化自信
+title: 伊朗挨炸，炸出来的“文明古国综合症”
 ---
 
 # 伊朗挨炸，炸出来的“文明古国综合症”

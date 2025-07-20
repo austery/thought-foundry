@@ -1,19 +1,18 @@
 ---
-title: "美元暴跌的真相：一场精心策划的阳谋？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 美投君
 tags:
-  - "视频笔记"
-  - "美元"
-  - "贸易战"
-  - "投资"
-  - "全球经济"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "美投君"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 美元
+- 贸易战
+- 投资
+- 全球经济
+title: 美元暴跌的真相：一场精心策划的阳谋？
 ---
 
 # 美元暴跌的真相：一场精心策划的阳谋？

@@ -1,17 +1,16 @@
 ---
-title: "深度探讨：中国丁克比例大涨背后的社会变迁"
-layout: "post.njk"
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 李厚辰、贾葭、伍雷
 tags:
-  - "视频笔记"
-  - "生育率"
-  - "三个水枪手"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰、贾葭、伍雷"
-  guest: ""
-  source: ""
+- 视频笔记
+- 生育率
+- 三个水枪手
+title: 深度探讨：中国丁克比例大涨背后的社会变迁
 ---
 
 # 深度探讨：中国丁克比例大涨背后的社会变迁

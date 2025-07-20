@@ -1,20 +1,19 @@
 ---
-title: "揭秘纳尼亚行动 - 讲座报告"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=kR6Dk10xWew
+speaker: 徒步的骑手
 tags:
-  - "视频笔记"
-  - "纳尼亚行动"
-  - "以色列"
-  - "伊朗"
-  - "军事行动"
-  - "徒步的骑手"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "徒步的骑手"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=kR6Dk10xWew"
+- 视频笔记
+- 纳尼亚行动
+- 以色列
+- 伊朗
+- 军事行动
+- 徒步的骑手
+title: 揭秘纳尼亚行动 - 讲座报告
 ---
 
 # 揭秘“纳尼亚行动”：以色列袭击背后的文化密码与国家意志

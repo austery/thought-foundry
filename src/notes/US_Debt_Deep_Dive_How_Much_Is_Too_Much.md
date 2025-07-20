@@ -1,17 +1,16 @@
 ---
-title: "美国债务深度分析：多少才算太多？"
-layout: "post.njk"  
-date: "2025-06-25"
+author: Lei
+date: '2025-06-25'
+guest: ''
+layout: post.njk
+podcast_program: About That
+source: https://www.youtube.com/watch?v=PQOmqA5zgds&t
+speaker: Andrew Chang
 tags:
-  - "视频笔记"
-  - "美国债务"
-  - "宏观经济"
-data:
-  author: "Lei"
-  podcast_program: "About That"
-  speaker: "Andrew Chang"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=PQOmqA5zgds&t"
+- 视频笔记
+- 美国债务
+- 宏观经济
+title: 美国债务深度分析：多少才算太多？
 ---
 
 # 美国债务深度分析：多少才算太多？

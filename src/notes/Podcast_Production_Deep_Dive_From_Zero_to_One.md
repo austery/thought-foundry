@@ -1,19 +1,18 @@
 ---
-title: "关于播客制作的深度对谈：从零到一的经验分享"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "播客制作"
-  - "内容创作"
-  - "个人成长"
-  - "社群"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 播客制作
+- 内容创作
+- 个人成长
+- 社群
+title: 关于播客制作的深度对谈：从零到一的经验分享
 ---
 
 # 关于播客制作的深度对谈：从零到一的经验分享

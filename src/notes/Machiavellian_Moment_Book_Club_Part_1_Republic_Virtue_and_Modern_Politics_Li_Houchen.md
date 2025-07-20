@@ -1,20 +1,19 @@
 ---
-title: "马基雅维里时刻读书会（一）：共和、美德与现代政治"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=X6Qdgf1GK3k&t
+speaker: 李厚辰
 tags:
-  - "视频笔记"
-  - "马基雅维里时刻"
-  - "共和制"
-  - "政治哲学"
-  - "佛罗伦萨"
-  - "英国宪政"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=X6Qdgf1GK3k&t"
+- 视频笔记
+- 马基雅维里时刻
+- 共和制
+- 政治哲学
+- 佛罗伦萨
+- 英国宪政
+title: 马基雅维里时刻读书会（一）：共和、美德与现代政治
 ---
 
 # 马基雅维里时刻读书会（一）：共和、美德与现代政治

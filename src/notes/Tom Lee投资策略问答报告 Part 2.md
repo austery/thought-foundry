@@ -1,17 +1,16 @@
 ---
-title: "Tom Lee投资策略问答报告 Part 2"
-layout: "post.njk"  
-date: "2025-07-05"
+author: Lei
+date: '2025-07-05'
+guest: Tom Lee
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=VIDEO_ID_HERE
+speaker: ''
 tags:
-  - "视频笔记"
-  - "投资"
-  - "美股"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "Tom Lee" 
-  source: "https://www.youtube.com/watch?v=VIDEO_ID_HERE"
+- 视频笔记
+- 投资
+- 美股
+title: Tom Lee投资策略问答报告 Part 2
 ---
 
 # Tom Lee投资策略问答报告 Part 2

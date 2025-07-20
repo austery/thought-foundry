@@ -1,17 +1,16 @@
 ---
-title: "每周市场回顾：2025年7月12日"
-layout: "post.njk"
-date: "2025-07-12"
+author: Lei
+date: '2025-07-12'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=y2owYAa3TPY&t
+speaker: Joseph Wang
 tags:
-  - "视频笔记"
-  - "市场回顾"
-  - "投资"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Joseph Wang"
-  guest: ""
-  source: "https://www.youtube.com/watch?v=y2owYAa3TPY&t"
+- 视频笔记
+- 市场回顾
+- 投资
+title: 每周市场回顾：2025年7月12日
 ---
 
 # 每周市场回顾：2025 年 7 月 12 日

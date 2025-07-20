@@ -1,18 +1,17 @@
 ---
-title: "The Last Bastion of Humanity: Can Emotions Compete with AI?"
-layout: "post.njk"
-date: "2025-06-11"
+author: Lei
+date: '2025-06-11'
+guest: ''
+layout: post.njk
+podcast_program: 尤瓦尔·诺亚·赫拉利
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "人工智能"
-  - "人类简史"
-  - "尤瓦尔·赫拉利"
-data:
-  author: "Lei"
-  podcast_program: "尤瓦尔·诺亚·赫拉利"
-  speaker: ""
-  guest: ""
-  source: ""
+- 视频笔记
+- 人工智能
+- 人类简史
+- 尤瓦尔·赫拉利
+title: 'The Last Bastion of Humanity: Can Emotions Compete with AI?'
 ---
 
 # The Last Bastion of Humanity: Can Emotions Compete with AI? 人类的最后堡垒：情感能否对抗 AI？

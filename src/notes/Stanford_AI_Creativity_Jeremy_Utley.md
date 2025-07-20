@@ -1,17 +1,16 @@
 ---
-title: "斯坦福大学教授：如何在13分钟内学会由AI驱动的创造力"
-layout: "post.njk"
-date: "2025-04-27"
+author: Lei
+date: '2025-04-27'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=wv779vmyPVY&t
+speaker: Jeremy Utley
 tags:
-  - "视频笔记"
-  - "AI"
-  - "prompt"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Jeremy Utley"
-  guest: ""
-  source: "https://www.youtube.com/watch?v=wv779vmyPVY&t"
+- 视频笔记
+- AI
+- prompt
+title: 斯坦福大学教授：如何在13分钟内学会由AI驱动的创造力
 ---
 
 > I've always been jealous of Winston Churchill. There's a quote, by the way. The history of innovation is the bed, the bus and the bathtub. It's always these moments when we're not really thinking about work or we're kind of doing something else that good ideas come to us.

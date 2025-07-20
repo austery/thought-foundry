@@ -1,17 +1,16 @@
 ---
-title: "稳定币深度解析：金融维稳与赌场扩张的双重真相"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=3mUdydbgw3U&t
+speaker: Mr. Sun
 tags:
-  - "视频笔记"
-  - "稳定币"
-  - "加密货币"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Mr. Sun"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=3mUdydbgw3U&t"
+- 视频笔记
+- 稳定币
+- 加密货币
+title: 稳定币深度解析：金融维稳与赌场扩张的双重真相
 ---
 
 # 稳定币深度解析：金融维稳与赌场扩张的双重真相

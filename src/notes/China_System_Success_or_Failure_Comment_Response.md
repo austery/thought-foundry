@@ -1,19 +1,18 @@
 ---
-title: "中国制度成功与否的评论回应——读评论！回应“E44自由派破防时代...”"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "中国制度"
-  - "评论回应"
-  - "社会契约"
-  - "经济发展"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 中国制度
+- 评论回应
+- 社会契约
+- 经济发展
+title: 中国制度成功与否的评论回应——读评论！回应“E44自由派破防时代...”
 ---
 
 # 中国制度成功与否的评论回应

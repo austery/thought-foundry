@@ -1,20 +1,19 @@
 ---
-title: "樊登：讲完几百本书，提升最大的是这三次认知迭代"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "樊登"
-  - "认知迭代"
-  - "帆书"
-  - "阅读"
-  - "十倍好"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 樊登
+- 认知迭代
+- 帆书
+- 阅读
+- 十倍好
+title: 樊登：讲完几百本书，提升最大的是这三次认知迭代
 ---
 
 # 樊登：讲完几百本书，提升最大的是这三次认知迭代

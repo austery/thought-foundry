@@ -1,18 +1,17 @@
 ---
-title: "Margin Call: An Investment Analyst’s Explanation"
-layout: "post.njk"  
-date: "2025-06-13"
+author: Lei
+date: '2025-06-13'
+guest: ''
+layout: post.njk
+podcast_program: The Plain Bagel
+source: https://www.youtube.com/watch?v=H7xCo0CJ02A
+speaker: Richard
 tags:
-  - "视频笔记"
-  - "Margin Call"
-  - "金融危机"
-  - "投资"
-data:
-  author: "Lei"
-  podcast_program: "The Plain Bagel"
-  speaker: "Richard"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=H7xCo0CJ02A"
+- 视频笔记
+- Margin Call
+- 金融危机
+- 投资
+title: 'Margin Call: An Investment Analyst’s Explanation'
 ---
 
 ## Introduction 引言

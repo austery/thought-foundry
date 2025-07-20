@@ -1,20 +1,19 @@
 ---
-title: "伊朗人为什么痛恨美国？1953：伊朗关键之年"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: '#section-1'
+speaker: ''
 tags:
-  - "视频笔记"
-  - "伊朗政变"
-  - "穆萨迪克"
-  - "石油国有化"
-  - "中情局"
-  - "英伊石油公司"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "#section-1"
+- 视频笔记
+- 伊朗政变
+- 穆萨迪克
+- 石油国有化
+- 中情局
+- 英伊石油公司
+title: 伊朗人为什么痛恨美国？1953：伊朗关键之年
 ---
 
 # 伊朗人为什么痛恨美国？1953：伊朗关键之年

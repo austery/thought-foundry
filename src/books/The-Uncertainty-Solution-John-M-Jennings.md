@@ -1,23 +1,21 @@
 ---
-tags:
-  - "Book"
-  - "投资"
 title: "The Uncertainty Solution"
-date: "2024-10-03"
-layout: "post.njk"
-data:
-   author: "John M. Jennings"
-   publisher: "Greenleaf Book Group"
-   publish: "2023-05-02"
-   total: "322"
-   isbn: "9798886450330"
+date: "2024-10-03"  # 你完成这篇笔记的日期
+layout: "book-note.njk" # 指定使用读书笔记的专属布局
+tags:
+- "Book" 
+- "投资" 
+author: "John M. Jennings"
+publisher: "Greenleaf Book Group"
+year: "2023-05-02" 
+read_date: "2024-05-20" 
+rating: "4/5" 
+description: "这里是一段关于这本书的简短介绍。" 
+cover_image: "http://books.google.com/books/content?id=vPqyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" 
 ---
 
-![cover|150](http://books.google.com/books/content?id=vPqyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-
-# The Uncertainty Solution
-
 ## *Why I read this book*
+
 Ray recommend it, and I would like to know what is the noise in the market.
 
 我，作者认为，如果要成为一个有效的顾问，需要尽可能多地了解金融市场上的一切，阅读各种相关报道，如《华尔街日报》《金融时报》《经济学人》《商业周刊》等，还要研究投资机构的报告，并参与投资经理和研究顾问的讨论会，了解当下的投资热点。这也正是我现在正在做的，虽然我的程度没有作者那么高。比如，我会关注《经济学人》、观看一些网络视频，了解当前的投资热点。我也在尝试理解股票的适应性、价值股和成长股的走势，以及恐慌指数等。然而，我还没达到作者那种“行走的经济指标和投资百科全书”的水平，但这是我努力的方向之一。
@@ -41,6 +39,7 @@ Ray recommend it, and I would like to know what is the noise in the market.
 其实，不仅在投资中，在工作中也存在类似的情况，比如工作的安全性（job security）。裁员的传闻、行业不景气的消息，都会影响我们的心态。合同工通常比正式员工的工资高出30%，这也是对不确定性的补偿。
 
 作者还提到，人类大脑有一种追求确定性的倾向，这是一种遗传优势。早期人类依靠识别模式来保护自己，这种生存优势延续至今，也体现在我们对确定性的追求中。
+
 ## *Notes from the book*
 
 这本书说实话如果不是 [Ray Stone](https://onenewbite.com/members/18217039) 推荐，我还真不会去读，要读的书太多了：）。
@@ -61,7 +60,7 @@ Ray recommend it, and I would like to know what is the noise in the market.
 
 ### 问题二：在投资中，如何区分信息的可知，未知，不可知？
 
-Harvard economist Richard Zeckhauser thinks of knowledge as falling in three categories: the known, unknown, and unknowable.   
+Harvard economist Richard Zeckhauser thinks of knowledge as falling in three categories: the known, unknown, and unknowable.
 作者说，下面这些哪些信息是不可知的：
 
 - “股市明天、下个月或明年的回报率“，总体的回报率不知道，但是单个股票的EPS是有指引的呀？
@@ -81,6 +80,7 @@ Harvard economist Richard Zeckhauser thinks of knowledge as falling in three cat
 问题六：什么是time the market? 有什么坏处？
 
 ## *Questions I have*
+
 在投资领域，我们该如何划分，这些数据，信息，知识，远见和智慧？可以跳过前2者，直接获取知识、远见、智慧么？[[Data Information Knowledge Insight Wisdom]]
 我最大的问题，如果没有数据，信息怎么就到了智慧？这些智慧不可能简单copy他人的mental model，因为思维模型使用的范围都是有限度的，你如果把握这些？
 
@@ -94,6 +94,7 @@ Harvard economist Richard Zeckhauser thinks of knowledge as falling in three cat
 对于这类的模型 [[什么叫模型]]，最大的问题是什么时刻来运用？如果这些模型之间互相冲突怎么执行？多模型在同时使用的时候是有优先级还是彼此要协调？怎样从模型到策略？
 
 ### Regression to the Mean
+
 "均值回归"（Regression to the Mean）在股票市场中解释为，当一种资产的表现出现极端情况（如股票价格暴涨或暴跌），接下来的一段时间内，资产的表现通常会趋向于其长期平均水平。这个现象的核心是两个因素之间的“相关性”不高，也就是它们彼此的联系较弱。简单来说，均值回归是指当极端事件发生后，未来表现更可能回到一个较为正常或平均的水平。
 
 举例来说，特斯拉股票在前几年大幅上涨，均值回归的理论认为这种极端涨幅可能不会一直持续，很大可能会趋向稳定，甚至可能出现回调。但需要强调的是，这并不意味着“涨多了必定会跌”，因为均值回归并不是一个因果关系，而是对数据分布和随机性的一种解释。只有当极端表现与其他影响因素相关性不强时，这种现象才更显著。
@@ -117,4 +118,3 @@ Harvard economist Richard Zeckhauser thinks of knowledge as falling in three cat
 这些书籍对均值回归的解释和实际应用提供了深入的分析。如果您需要具体章节或细节引用，书中的案例分析通常能展示均值回归在金融市场中的表现。
 
 ## *Additional Reading or Thinking*
-

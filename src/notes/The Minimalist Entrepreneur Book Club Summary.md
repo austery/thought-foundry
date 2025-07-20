@@ -1,17 +1,16 @@
 ---
-title: "《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary"
-layout: "post.njk"  
-date: "2025-06-06"
+author: Lei
+date: '2025-06-06'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "小小而美"
-  - "读书会"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 小小而美
+- 读书会
+title: 《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary
 ---
 
 # 《小小而美》读书会纪要

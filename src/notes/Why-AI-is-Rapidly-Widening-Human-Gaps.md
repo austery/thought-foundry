@@ -1,19 +1,18 @@
 ---
-title: "视频文字记录报告"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: (.*?)
+speaker: ''
 tags:
-  - "视频笔记"
-  - "AI"
-  - "学习方法"
-  - "人际关系"
-  - "心理学"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "(.*?)"
+- 视频笔记
+- AI
+- 学习方法
+- 人际关系
+- 心理学
+title: 视频文字记录报告
 ---
 
 # 为什么说AI正在迅速拉开人的差距？

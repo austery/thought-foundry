@@ -1,18 +1,17 @@
 ---
-title: "李厚辰：为什么“新三样”和AI救不了中国经济？- 不明白播客EP-155文字版"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 李厚辰
+layout: post.njk
+podcast_program: 不明白播客
+source: https://bumingbai.net/2025/06/20/155-lhc-text/
+speaker: 袁莉
 tags:
-  - "视频笔记"
-  - "中国经济"
-  - "AI"
-  - "不明白播客"
-data:
-  author: "Lei"
-  podcast_program: "不明白播客"
-  speaker: "袁莉"
-  guest: "李厚辰" 
-  source: "https://bumingbai.net/2025/06/20/155-lhc-text/"
+- 视频笔记
+- 中国经济
+- AI
+- 不明白播客
+title: 李厚辰：为什么“新三样”和AI救不了中国经济？- 不明白播客EP-155文字版
 ---
 
 # 李厚辰：为什么“新三样”和AI救不了中国经济？

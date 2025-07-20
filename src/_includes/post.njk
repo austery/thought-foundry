@@ -12,16 +12,16 @@ layout: "base.njk"
 
     <div class="metadata-block">
       {# 使用 if 判断，只有当数据存在时才显示这一行 #}
-      {% if data.speaker %}
-        <p><strong>讲述者:</strong> {{ data.speaker }}</p>
+      {% if speaker %}
+        <p><strong>主讲人:</strong> {{ speaker }}</p>
       {% endif %}
 
-      {% if data.guest %}
-        <p><strong>嘉宾:</strong> {{ data.guest }}</p>
+      {% if guest %}
+        <p><strong>嘉宾:</strong> {{ guest }}</p>
       {% endif %}
 
-      {% if data.source %}
-        <p><strong>来源:</strong> <a href="{{ data.source }}" target="_blank">查看</a></p>
+      {% if source %}
+        <p><strong>来源:</strong> <a href="{{ source }}" target="_blank">查看</a></p>
       {% endif %}
       
       {# 关键字部分，我们直接遍历这篇文章的 tags #}

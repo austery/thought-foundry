@@ -1,17 +1,16 @@
 ---
-title: "桑达尔·皮查伊 (Sundar Pichai) Alphabet CEO 深度访谈逐字稿"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Sundar Pichai
 tags:
-  - "视频笔记"
-  - "谷歌"
-  - "人工智能"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Sundar Pichai"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 谷歌
+- 人工智能
+title: 桑达尔·皮查伊 (Sundar Pichai) Alphabet CEO 深度访谈逐字稿
 ---
 
 # 桑达尔·皮查伊 (Sundar Pichai) Alphabet CEO 深度访谈逐字稿

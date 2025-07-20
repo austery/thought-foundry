@@ -1,17 +1,16 @@
 ---
-title: "对话半佛仙人：世上无难事，只要肯放弃（地球online🎮非典型通关秘籍）"
-layout: "post.njk"  
-date: "2025-07-13"
+author: Lei
+date: '2025-07-13'
+guest: 半佛
+layout: post.njk
+program: 知行小酒馆
+source: ''
+speaker: 雨白
 tags:
-  - "视频笔记" 
-  - "个人成长"
-  - "知行小酒馆"
-data:
-  author: "Lei"
-  speaker: "雨白"
-  guest: "半佛" 
-  source: "" 
-  program: "知行小酒馆"
+- 视频笔记
+- 个人成长
+- 知行小酒馆
+title: 对话半佛仙人：世上无难事，只要肯放弃（地球online🎮非典型通关秘籍）
 ---
 
 # 对话半佛仙人：世上无难事，只要肯放弃（地球online🎮非典型通关秘籍）

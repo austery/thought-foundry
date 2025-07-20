@@ -1,18 +1,17 @@
 ---
-title: "资深程序员送给你的职业生涯三大忠告"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 原子能
 tags:
-  - "视频笔记"
-  - "程序员"
-  - "职业生涯"
-  - "个人成长"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "原子能"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 程序员
+- 职业生涯
+- 个人成长
+title: 资深程序员送给你的职业生涯三大忠告
 ---
 
 # 资深程序员送给你的职业生涯三大忠告

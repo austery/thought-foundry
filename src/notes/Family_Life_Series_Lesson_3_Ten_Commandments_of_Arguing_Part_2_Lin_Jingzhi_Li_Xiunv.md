@@ -1,20 +1,19 @@
 ---
-title: "家庭生活系列[三]：吵架十诫 (下)"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 李秀女老师
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=F0fT7u99J3g
+speaker: 林静芝师母
 tags:
-  - "视频笔记"
-  - "吵架十诫"
-  - "夫妻沟通"
-  - "婚姻关系"
-  - "家庭生活"
-  - "两性关系"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "林静芝师母"
-  guest: "李秀女老师" 
-  source: "https://www.youtube.com/watch?v=F0fT7u99J3g"
+- 视频笔记
+- 吵架十诫
+- 夫妻沟通
+- 婚姻关系
+- 家庭生活
+- 两性关系
+title: 家庭生活系列[三]：吵架十诫 (下)
 ---
 
 # 家庭生活系列\[三\]：吵架十诫 (下)

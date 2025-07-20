@@ -1,19 +1,18 @@
 ---
-title: "秦潇越：当所有人都鼓吹一个英雄式的励志故事时，痛苦就不被重视"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: '#section-1'
+speaker: 秦潇越（纪录片导演）
 tags:
-  - "视频笔记"
-  - "纪录片"
-  - "理想与现实"
-  - "痛苦的价值"
-  - "一席"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "秦潇越（纪录片导演）"
-  guest: "" 
-  source: "#section-1"
+- 视频笔记
+- 纪录片
+- 理想与现实
+- 痛苦的价值
+- 一席
+title: 秦潇越：当所有人都鼓吹一个英雄式的励志故事时，痛苦就不被重视
 ---
 
 # 当所有人都鼓吹一个英雄式的励志故事时，痛苦就不被重视

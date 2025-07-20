@@ -1,19 +1,18 @@
 ---
-title: "E189 聊聊段永平，以及你想活出怎样的人生"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 小波老师
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 雨白
 tags:
-  - "视频笔记"
-  - "段永平"
-  - "人生哲学"
-  - "投资"
-  - "知行小酒馆"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "雨白"
-  guest: "小波老师" 
-  source: ""
+- 视频笔记
+- 段永平
+- 人生哲学
+- 投资
+- 知行小酒馆
+title: E189 聊聊段永平，以及你想活出怎样的人生
 ---
 
 # E189 聊聊段永平，以及你想活出怎样的人生

@@ -1,20 +1,19 @@
 ---
-title: "AI的使用方法与能力边界"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "AI"
-  - "Prompt Engineering"
-  - "思维链"
-  - "RAG"
-  - "工作流"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- AI
+- Prompt Engineering
+- 思维链
+- RAG
+- 工作流
+title: AI的使用方法与能力边界
 ---
 
 # AI的使用方法与能力边界

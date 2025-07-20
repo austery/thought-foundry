@@ -1,20 +1,19 @@
 ---
-title: "从工具到伙伴：七位AI Agent深度使用者的思考"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "AI Agent"
-  - "人工智能"
-  - "深度学习"
-  - "商业模式"
-  - "未来展望"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- AI Agent
+- 人工智能
+- 深度学习
+- 商业模式
+- 未来展望
+title: 从工具到伙伴：七位AI Agent深度使用者的思考
 ---
 
 # 从工具到伙伴：七位AI Agent深度使用者的思考

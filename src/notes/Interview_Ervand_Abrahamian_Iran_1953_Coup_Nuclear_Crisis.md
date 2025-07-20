@@ -1,18 +1,17 @@
 ---
-title: "专访伊朗历史专家厄尔凡德·阿布拉哈米安：从1953年政变到当今核危机"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 王路飞
+source: ''
+speaker: 厄尔凡德·阿布拉哈米安
 tags:
-  - "视频笔记"
-  - "伊朗"
-  - "1953政变"
-  - "历史研究"
-data:
-  author: "Lei"
-  podcast_program: "王路飞"
-  speaker: "厄尔凡德·阿布拉哈米安"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 伊朗
+- 1953政变
+- 历史研究
+title: 专访伊朗历史专家厄尔凡德·阿布拉哈米安：从1953年政变到当今核危机
 ---
 
 # 专访伊朗历史专家厄尔凡德·阿布拉哈米安：从1953年政变到当今核危机

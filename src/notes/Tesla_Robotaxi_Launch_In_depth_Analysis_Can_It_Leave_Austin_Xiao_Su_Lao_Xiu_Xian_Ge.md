@@ -1,17 +1,16 @@
 ---
-title: "特斯拉Robotaxi上线深度解析：它能走出奥斯汀吗？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 老修, 闲哥
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=S23kV4knddk&t
+speaker: 小苏
 tags:
-  - "视频笔记"
-  - "特斯拉"
-  - "自动驾驶"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "小苏"
-  guest: "老修, 闲哥" 
-  source: "https://www.youtube.com/watch?v=S23kV4knddk&t"
+- 视频笔记
+- 特斯拉
+- 自动驾驶
+title: 特斯拉Robotaxi上线深度解析：它能走出奥斯汀吗？
 ---
 
 # 特斯拉Robotaxi上线深度解析：它能走出奥斯汀吗？

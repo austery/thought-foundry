@@ -1,19 +1,19 @@
 ---
-title: "《被讨厌的勇气》读书会讨论-亚洲区"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel,
+  David
 tags:
-  - "视频笔记"
-  - "被讨厌的勇气"
-  - "阿德勒心理学"
-  - "课题分离"
-  - "自我接纳"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel, David"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 被讨厌的勇气
+- 阿德勒心理学
+- 课题分离
+- 自我接纳
+title: 《被讨厌的勇气》读书会讨论-亚洲区
 ---
 
 # 《被讨厌的勇气》读书会讨论-亚洲区

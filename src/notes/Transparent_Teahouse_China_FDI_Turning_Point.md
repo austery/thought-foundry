@@ -1,18 +1,16 @@
 ---
-title: "外资撤资FDI大跌不止，中国与世界经济的关系可能已到拐点"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 透明茶室
+source: ''
+speaker: 李厚辰
 tags:
-  - "视频笔记"
-  - "中国经济"
-  - "地缘政治"
-
-data:
-  author: "Lei"
-  podcast_program: "透明茶室"
-  speaker: "李厚辰"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 中国经济
+- 地缘政治
+title: 外资撤资FDI大跌不止，中国与世界经济的关系可能已到拐点
 ---
 
 # 外资撤资FDI大跌不止，中国与世界经济的关系可能已到拐点

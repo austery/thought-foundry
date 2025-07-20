@@ -1,18 +1,17 @@
 ---
-title: "美国民主在衰退吗？——刘宗坤先生问答实录"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 刘宗坤
 tags:
-  - "视频笔记"
-  - "美国民主"
-  - "衰退"
-  - "政治体制"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "刘宗坤"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 美国民主
+- 衰退
+- 政治体制
+title: 美国民主在衰退吗？——刘宗坤先生问答实录
 ---
 
 # 美国民主在衰退吗？——刘宗坤先生问答实录

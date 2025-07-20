@@ -1,20 +1,20 @@
 ---
-title: "Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao | Lex Fridman Podcast #466"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "中国政治"
-  - "习近平"
-  - "毛泽东"
-  - "天安门事件"
-  - "香港"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 中国政治
+- 习近平
+- 毛泽东
+- 天安门事件
+- 香港
+title: 'Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao
+  | Lex Fridman Podcast #466'
 ---
 
 # Jeffrey Wasserstrom: China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao 杰弗里·瓦瑟斯特罗姆：中国、习近平、贸易战、台湾、香港与毛泽东

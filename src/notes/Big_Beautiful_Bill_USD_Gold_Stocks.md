@@ -1,18 +1,17 @@
 ---
-title: "“大而美”法案深度解析：对美元、黄金及美股的连锁反应"
-layout: "post.njk"  
-date: "2025-07-06"
+author: Lei
+date: '2025-07-06'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=0vB4CiIiOYU&t
+speaker: ''
 tags:
-  - "视频笔记"
-  - "美国经济"
-  - "财政赤字"
-  - "市场影响"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=0vB4CiIiOYU&t"
+- 视频笔记
+- 美国经济
+- 财政赤字
+- 市场影响
+title: “大而美”法案深度解析：对美元、黄金及美股的连锁反应
 ---
 
 # “大而美”法案深度解析：对美元、黄金及美股的连锁反应

@@ -1,18 +1,17 @@
 ---
-title: "延缓衰老：从生物学理论到临床前沿的六年进展与未来展望"
-layout: "post.njk"  
-date: "2025-07-19"
+author: Lei
+date: '2025-07-19'
+guest: ''
+layout: post.njk
+program: ''
+source: ''
+speaker: Google Gemini
 tags:
-  - "Deep Research"
-  - "健康"
-  - "长寿"
-  - "衰老"
-data:
-  author: "Lei"
-  program: ""
-  speaker: "Google Gemini"
-  guest: "" 
-  source: ""
+- Deep Research
+- 健康
+- 长寿
+- 衰老
+title: 延缓衰老：从生物学理论到临床前沿的六年进展与未来展望
 ---
 
 # 延缓衰老：从生物学理论到临床前沿的六年进展与未来展望

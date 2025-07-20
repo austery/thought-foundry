@@ -1,18 +1,17 @@
 ---
-title: "王佳莹：在朋友圈里独立自信、充满活力，在小红书上热爱生活、岁月静好"
-layout: "post.njk"  
-date: "2025-07-07"
+author: Lei
+date: '2025-07-07'
+guest: ''
+layout: post.njk
+podcast_program: 一席
+source: hhttps://www.youtube.com/watch?v=tnEp7uwrlLo
+speaker: 王佳莹
 tags:
-  - "视频笔记"
-  - "心理健康"
-  - "一席"
-  - "自我探索"
-data:
-  author: "Lei"
-  podcast_program: "一席"
-  speaker: "王佳莹"
-  guest: "" 
-  source: "hhttps://www.youtube.com/watch?v=tnEp7uwrlLo"
+- 视频笔记
+- 心理健康
+- 一席
+- 自我探索
+title: 王佳莹：在朋友圈里独立自信、充满活力，在小红书上热爱生活、岁月静好
 ---
 
 # 在朋友圈里独立自信，在小红书上岁月静好

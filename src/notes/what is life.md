@@ -1,17 +1,16 @@
 ---
-title: "What is life? A Nobel Prize-winning scientist answers | Paul Nurse Full Interview"
-layout: "post.njk"
-date: "2025-06-08"
+author: Lei
+date: '2025-06-08'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "生命科学"
-  - "进化论"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: ""
-  source: ""
+- 视频笔记
+- 生命科学
+- 进化论
+title: What is life? A Nobel Prize-winning scientist answers | Paul Nurse Full Interview
 ---
 
 # What is life? / 生命是什么？

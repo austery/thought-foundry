@@ -1,18 +1,17 @@
 ---
-title: "当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 陈老师
+layout: post.njk
+podcast_program: 知行小酒馆
+source: https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61
+speaker: 俞白
 tags:
-  - "视频笔记"
-  - "全球经济"
-  - "投资"
-  - "知行小酒馆"
-data:
-  author: "Lei"
-  podcast_program: "知行小酒馆"
-  speaker: "俞白"
-  guest: "陈老师" 
-  source: "https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61"
+- 视频笔记
+- 全球经济
+- 投资
+- 知行小酒馆
+title: 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？
 ---
 
 # 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？

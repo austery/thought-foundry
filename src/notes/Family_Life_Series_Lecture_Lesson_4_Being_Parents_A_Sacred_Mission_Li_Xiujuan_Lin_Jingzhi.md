@@ -1,18 +1,17 @@
 ---
-title: "家庭生活系列讲座 第四课：为人父母 - 一项神圣的使命"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 林静芝
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=F0mJ15eK2v4
+speaker: 李秀全
 tags:
-  - "视频笔记"
-  - "为人父母"
-  - "亲子关系"
-  - "家庭教育"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李秀全"
-  guest: "林静芝" 
-  source: "https://www.youtube.com/watch?v=F0mJ15eK2v4"
+- 视频笔记
+- 为人父母
+- 亲子关系
+- 家庭教育
+title: 家庭生活系列讲座 第四课：为人父母 - 一项神圣的使命
 ---
 
 # 家庭生活系列讲座 第四课：为人父母 - 一项神圣的使命

@@ -1,17 +1,16 @@
 ---
-title: "深度研究之前，如何向AI提一个准确的问题？ - 专业报告"
-layout: "post.njk"  
-date: "2025-07-07"
+author: Lei
+date: '2025-07-07'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=zx1T6TLDZ5I
+speaker: Max (全麦AI搜索)
 tags:
-  - "视频笔记"
-  - "Prompt"
-  - "研究方法"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Max (全麦AI搜索)"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=zx1T6TLDZ5I"
+- 视频笔记
+- Prompt
+- 研究方法
+title: 深度研究之前，如何向AI提一个准确的问题？ - 专业报告
 ---
 
 # 深度研究之前，如何向AI提一个准确的问题？

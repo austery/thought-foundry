@@ -1,16 +1,15 @@
 ---
-title: "法庭风云：丁胖子金牌讲师背后的举报与政庇内幕"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 刘索隆，王路飞
 tags:
-  - "视频笔记"
-  - "美国政治"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "刘索隆，王路飞"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 美国政治
+title: 法庭风云：丁胖子金牌讲师背后的举报与政庇内幕
 ---
 
 # 法庭风云：丁胖子金牌讲师背后的举报与政庇内幕

@@ -1,17 +1,16 @@
 ---
-title: "AI and the Future of Software Development"
-layout: "post.njk"  
-date: "2025-05-28"
+author: Lei
+date: '2025-05-28'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Guido,Yoko
 tags:
-  - "视频笔记"
-  - "AI"
-  - "软件开发"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Guido,Yoko"
-  guest: "" 
-  source: ""
+- 视频笔记
+- AI
+- 软件开发
+title: AI and the Future of Software Development
 ---
 
 # AI and the Future of Software Development

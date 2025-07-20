@@ -1,17 +1,16 @@
 ---
-title: "关于阿富汗问题的交流"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 秦晖
 tags:
-  - "视频笔记"
-  - "阿富汗"
-  - "地缘政治"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "秦晖"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 阿富汗
+- 地缘政治
+title: 关于阿富汗问题的交流
 ---
 
 # 关于阿富汗问题的交流

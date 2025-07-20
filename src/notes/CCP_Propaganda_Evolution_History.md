@@ -1,17 +1,16 @@
 ---
-title: "中共宣传进化史：从舆论引导到舆论斗争"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: 无
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=9WzxibheiPo
+speaker: 夸克说
 tags:
-  - "视频笔记"
-  - "新闻反转"
-  - "内宣"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "夸克说"
-  guest: "无" 
-  source: "https://www.youtube.com/watch?v=9WzxibheiPo"
+- 视频笔记
+- 新闻反转
+- 内宣
+title: 中共宣传进化史：从舆论引导到舆论斗争
 ---
 
 # 中共宣传进化史：从舆论引导到舆论斗争，透视罗帅宇事件背后的新闻反转机制

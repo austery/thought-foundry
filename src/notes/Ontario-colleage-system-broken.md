@@ -1,16 +1,15 @@
 ---
-title: "安大略省的学院体系陷入困境了吗？ - 《议程》文字记录"
-layout: "post.njk"  
-date: "2025-05-28"
+author: Lei
+date: '2025-05-28'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "教育"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 教育
+title: 安大略省的学院体系陷入困境了吗？ - 《议程》文字记录
 ---
 
 # **EN** Is Ontario's College System in Trouble? **ZH** 安大略省的学院体系陷入困境了吗？

@@ -1,18 +1,17 @@
 ---
-title: "逃课访谈”第三期：稳定币的现状与未来——机遇与风险"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: Ben，hris
+layout: post.njk
+podcast_program: 逃课访谈
+source: https://www.youtube.com/watch?v=Zpdu-DUU9fY&t
+speaker: 投资TALK君
 tags:
-  - "视频笔记"
-  - "稳定币"
-  - "加密货币"
-  - "投资"
-data:
-  author: "Lei"
-  podcast_program: "逃课访谈"
-  speaker: "投资TALK君"
-  guest: "Ben，hris" 
-  source: "https://www.youtube.com/watch?v=Zpdu-DUU9fY&t"
+- 视频笔记
+- 稳定币
+- 加密货币
+- 投资
+title: 逃课访谈”第三期：稳定币的现状与未来——机遇与风险
 ---
 
 # “逃课访谈”第三期：稳定币的现状与未来——机遇与风险

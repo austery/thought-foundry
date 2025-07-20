@@ -1,19 +1,18 @@
 ---
-title: "【一席】梁永安：我们今天最缺的就是活法"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: 一席
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "活法"
-  - "人生哲学"
-  - "梁永安"
-  - "一席"
-data:
-  author: "Lei"
-  podcast_program: "一席"
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 活法
+- 人生哲学
+- 梁永安
+- 一席
+title: 【一席】梁永安：我们今天最缺的就是活法
 ---
 
 # 【一席】梁永安：我们今天最缺的就是“活法”

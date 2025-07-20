@@ -1,19 +1,18 @@
 ---
-title: "播客报告：人工智能时代的儿童教育"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: Ezra Klein Show
+source: ''
+speaker: Ezra，Rebecca
 tags:
-  - "视频笔记"
-  - "AI"
-  - "儿童教育"
-  - "学习"
-  - "未来"
-data:
-  author: "Lei"
-  podcast_program: "Ezra Klein Show"
-  speaker: "Ezra，Rebecca"
-  guest: "" 
-  source: ""
+- 视频笔记
+- AI
+- 儿童教育
+- 学习
+- 未来
+title: 播客报告：人工智能时代的儿童教育
 ---
 
 # 人工智能时代的儿童教育

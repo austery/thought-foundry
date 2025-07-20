@@ -1,18 +1,17 @@
 ---
-title: "James Simons: Mathematics, Common Sense, and Good Luck - My Life and Careers"
-layout: "post.njk"  
-date: "2025-06-11"
+author: Lei
+date: '2025-06-11'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 詹姆斯·西蒙斯
 tags:
-  - "视频笔记"
-  - "詹姆斯·西蒙斯"
-  - "量化投资"
-  - "投资"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "詹姆斯·西蒙斯"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 詹姆斯·西蒙斯
+- 量化投资
+- 投资
+title: 'James Simons: Mathematics, Common Sense, and Good Luck - My Life and Careers'
 ---
 
 # James Simons: Mathematics, Common Sense, and Good Luck - My Life and Careers

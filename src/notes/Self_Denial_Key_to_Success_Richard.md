@@ -1,20 +1,19 @@
 ---
-title: "前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "Web3"
-  - "加密货币"
-  - "Huma Finance"
-  - "PayFi"
-  - "创业"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- Web3
+- 加密货币
+- Huma Finance
+- PayFi
+- 创业
+title: 前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键
 ---
 
 # 前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键

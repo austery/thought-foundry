@@ -1,20 +1,19 @@
 ---
-title: "金融常识：评估金钱决策的底层逻辑"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "金融常识"
-  - "金钱时间价值"
-  - "IRR"
-  - "投资决策"
-  - "贷款"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 金融常识
+- 金钱时间价值
+- IRR
+- 投资决策
+- 贷款
+title: 金融常识：评估金钱决策的底层逻辑
 ---
 
 # 金融常识：评估金钱决策的底层逻辑

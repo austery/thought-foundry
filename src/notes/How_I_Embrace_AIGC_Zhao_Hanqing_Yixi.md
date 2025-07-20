@@ -1,17 +1,16 @@
 ---
-title: "【一席】赵汗青：我如何拥抱AIGC"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 赵汗青
 tags:
-  - "视频笔记"
-  - "AI"
-  - "一席"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "赵汗青"
-  guest: "" 
-  source: ""
+- 视频笔记
+- AI
+- 一席
+title: 【一席】赵汗青：我如何拥抱AIGC
 ---
 
 # 我如何拥抱AIGC

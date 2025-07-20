@@ -1,20 +1,19 @@
 ---
-title: "读书会讨论：《国家为什么会失败》与中国的千万细节"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=qkrxpQfeDZI
+speaker: 李厚辰
 tags:
-  - "视频笔记"
-  - "国家失败"
-  - "中国转型"
-  - "制度经济学"
-  - "榨取性制度"
-  - "包容性制度"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰"
-  guest: "" 
-  source: "https://www.youtube.com/watch?v=qkrxpQfeDZI"
+- 视频笔记
+- 国家失败
+- 中国转型
+- 制度经济学
+- 榨取性制度
+- 包容性制度
+title: 读书会讨论：《国家为什么会失败》与中国的千万细节
 ---
 
 # 读书会讨论：《国家为什么会失败》与中国的千万细节

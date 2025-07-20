@@ -1,20 +1,19 @@
 ---
-title: "书评：《透明的阴谋》——新保守主义、中东战争与以色列的国家利益"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "新保守主义"
-  - "中东战争"
-  - "以色列"
-  - "美国外交"
-  - "透明的阴谋"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- 新保守主义
+- 中东战争
+- 以色列
+- 美国外交
+- 透明的阴谋
+title: 书评：《透明的阴谋》——新保守主义、中东战争与以色列的国家利益
 ---
 
 # 书评：《透明的阴谋》——新保守主义议程、中东战争与以色列的国家利益

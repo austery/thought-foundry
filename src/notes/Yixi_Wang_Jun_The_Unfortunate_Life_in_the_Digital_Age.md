@@ -1,18 +1,17 @@
 ---
-title: "王俊：数字时代的不幸生活"
-layout: "post.njk"
-date: "2025-06-14"
+author: Lei
+date: '2025-06-14'
+guest: ''
+layout: post.njk
+podcast_program: 一席
+source: https://www.youtube.com/watch?v=1zL655wp5zg&t
+speaker: 王俊
 tags:
-  - "视频笔记"
-  - "哲学反思"
-  - "生活意义"
-  - "一席"
-data:
-  author: "Lei"
-  podcast_program: "一席"
-  speaker: "王俊"
-  guest: ""
-  source: "https://www.youtube.com/watch?v=1zL655wp5zg&t"
+- 视频笔记
+- 哲学反思
+- 生活意义
+- 一席
+title: 王俊：数字时代的不幸生活
 ---
 
 # 数字时代的不幸生活

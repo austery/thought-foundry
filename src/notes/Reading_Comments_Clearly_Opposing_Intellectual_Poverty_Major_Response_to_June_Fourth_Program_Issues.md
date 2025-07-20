@@ -1,18 +1,17 @@
 ---
-title: "读评论：旗帜鲜明地反对知识贫瘠——关于六四两期节目问题的重大回应"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 李厚辰、贾葭、伍雷
 tags:
-  - "视频笔记"
-  - "中国政治"
-  - "历史反思"
-  - "三个水枪手"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰、贾葭、伍雷"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 中国政治
+- 历史反思
+- 三个水枪手
+title: 读评论：旗帜鲜明地反对知识贫瘠——关于六四两期节目问题的重大回应
 ---
 
 # 读评论：旗帜鲜明地反对知识贫瘠——关于六四两期节目问题的重大回应

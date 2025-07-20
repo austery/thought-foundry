@@ -1,17 +1,16 @@
 ---
-title: "Andrej Karpathy: Software Is Changing (Again)"
-layout: "post.njk"  
-date: "2025-06-20"
+author: Lei
+date: '2025-06-20'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: Andrej Karpathy，特斯拉前人工智能总监。
 tags:
-  - "视频笔记"
-  - "AI"
-  - "Thinking"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "Andrej Karpathy，特斯拉前人工智能总监。"
-  guest: "" 
-  source: ""
+- 视频笔记
+- AI
+- Thinking
+title: 'Andrej Karpathy: Software Is Changing (Again)'
 ---
 
 # Andrej Karpathy: Software Is Changing (Again)

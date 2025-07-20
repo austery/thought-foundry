@@ -1,17 +1,16 @@
 ---
-title: "AI 协作深度解析：从“搬运工”到“协作者”"
-layout: "post.njk"
-date: "2025-06-10"
+author: Lei
+date: '2025-06-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=-a_umjxdcIg&t
+speaker: 李厚辰
 tags:
-  - "视频笔记"
-  - "Prompt"
-  - "工作流"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰"
-  guest: ""
-  source: "https://www.youtube.com/watch?v=-a_umjxdcIg&t"
+- 视频笔记
+- Prompt
+- 工作流
+title: AI 协作深度解析：从“搬运工”到“协作者”
 ---
 
 # AI 协作深度解析：从“搬运工”到“协作者”

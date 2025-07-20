@@ -1,17 +1,16 @@
 ---
-title: "深度对话：NotebookLM与AI内容生成的未来"
-layout: "post.njk"
-date: "2025-06-11"
+author: Lei
+date: '2025-06-11'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 李厚辰、贾葭、伍雷
 tags:
-  - "视频笔记"
-  - "AI"
-  - "三个水枪手"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "李厚辰、贾葭、伍雷"
-  guest: ""
-  source: ""
+- 视频笔记
+- AI
+- 三个水枪手
+title: 深度对话：NotebookLM与AI内容生成的未来
 ---
 
 ## 引言：播客的“最后一期”？

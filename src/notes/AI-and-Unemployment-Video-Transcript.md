@@ -1,18 +1,17 @@
 ---
-title: "AI与失业"
-layout: "post.njk"
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 秋叶2046
 tags:
-  - "视频笔记"
-  - "AI"
-  - "技术变革"
-  - "卢德运动"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "秋叶2046"
-  guest: ""
-  source: ""
+- 视频笔记
+- AI
+- 技术变革
+- 卢德运动
+title: AI与失业
 ---
 
 ## 开场白与引入

@@ -1,20 +1,19 @@
 ---
-title: "前英国外交官锐评美以“公关式”轰炸真相 - 讲座报告"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: Craig Murray
+layout: post.njk
+podcast_program: ''
+source: https://www.youtube.com/watch?v=kR6Dk10xWew
+speaker: 徒步的骑手
 tags:
-  - "视频笔记"
-  - "克雷格·莫瑞"
-  - "美以关系"
-  - "伊朗核问题"
-  - "媒体偏见"
-  - "中东冲突"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "徒步的骑手"
-  guest: "Craig Murray" 
-  source: "https://www.youtube.com/watch?v=kR6Dk10xWew"
+- 视频笔记
+- 克雷格·莫瑞
+- 美以关系
+- 伊朗核问题
+- 媒体偏见
+- 中东冲突
+title: 前英国外交官锐评美以“公关式”轰炸真相 - 讲座报告
 ---
 
 # 前英国外交官锐评美以“公关式”轰炸真相

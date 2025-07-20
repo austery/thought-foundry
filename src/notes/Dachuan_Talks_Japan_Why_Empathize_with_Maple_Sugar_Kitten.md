@@ -1,20 +1,19 @@
 ---
-title: "大川聊日本：为什么共情枫糖小猫？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: '#${id}'
+speaker: ''
 tags:
-  - "视频笔记"
-  - "枫糖小猫"
-  - "日本留学"
-  - "日本文化"
-  - "国民性"
-  - "中日对比"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: "#${id}"
+- 视频笔记
+- 枫糖小猫
+- 日本留学
+- 日本文化
+- 国民性
+- 中日对比
+title: 大川聊日本：为什么共情枫糖小猫？
 ---
 
 # 大川聊日本：为什么共情枫糖小猫？

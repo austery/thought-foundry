@@ -1,20 +1,19 @@
 ---
-title: "瑞银中国住房调查报告深度解读"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: '#section-1'
+speaker: '油管@隐枫视野 '
 tags:
-  - "视频笔记"
-  - "中国房地产"
-  - "住房调查"
-  - "购房意愿"
-  - "房价下跌"
-  - "瑞银报告"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "油管@隐枫视野 "
-  guest: "" 
-  source: "#section-1"
+- 视频笔记
+- 中国房地产
+- 住房调查
+- 购房意愿
+- 房价下跌
+- 瑞银报告
+title: 瑞银中国住房调查报告深度解读
 ---
 
 # 瑞银中国住房调查报告深度解读

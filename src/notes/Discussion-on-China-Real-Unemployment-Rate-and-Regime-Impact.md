@@ -1,17 +1,16 @@
 ---
-title: "中国真实失业率分析报告"
-layout: "post.njk"  
-date: "2025-05-25"
+author: Lei
+date: '2025-05-25'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: 夸克
 tags:
-  - "视频笔记"
-  - "数字极权"
-  - "政治"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: "夸克"
-  guest: "" 
-  source: ""
+- 视频笔记
+- 数字极权
+- 政治
+title: 中国真实失业率分析报告
 ---
 
 # 关于中国真实失业率及其对政权影响的探讨

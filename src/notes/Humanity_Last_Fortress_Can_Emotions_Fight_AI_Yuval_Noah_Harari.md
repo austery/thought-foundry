@@ -1,20 +1,19 @@
 ---
-title: "人类的最后堡垒：情感能否对抗AI？"
-layout: "post.njk"  
-date: "2025-07-10"
+author: Lei
+date: '2025-07-10'
+guest: ''
+layout: post.njk
+podcast_program: ''
+source: ''
+speaker: ''
 tags:
-  - "视频笔记"
-  - "AI"
-  - "情感"
-  - "意识"
-  - "人类价值"
-  - "尤瓦尔·赫拉利"
-data:
-  author: "Lei"
-  podcast_program: ""
-  speaker: ""
-  guest: "" 
-  source: ""
+- 视频笔记
+- AI
+- 情感
+- 意识
+- 人类价值
+- 尤瓦尔·赫拉利
+title: 人类的最后堡垒：情感能否对抗AI？
 ---
 
 # 人类的最后堡垒：情感能否对抗AI？
