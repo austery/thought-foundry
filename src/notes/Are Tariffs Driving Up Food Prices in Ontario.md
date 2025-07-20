@@ -4,11 +4,8 @@ layout: "post.njk"
 date: "2025-06-02"
 tags:
   - "视频笔记"
-  - "关税"
-  - "食品价格"
-  - "Roblox"
-  - "元宇宙"
-  - "网络安全"
+  - "Ontario"
+  - "教育"
 data:
   author: "Lei"
   podcast_program: ""
@@ -21,7 +18,6 @@ data:
 
 ## Are Tariffs Driving Up Food Prices in Ontario? / 关税正在推高安大略省的食品价格吗？
 
-<div class="speaker-intro">
 
 ### Host / 主持人:
 

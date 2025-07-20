@@ -10,8 +10,8 @@ tags:
   - "未来"
 data:
   author: "Lei"
-  podcast_program: ""
-  speaker: ""
+  podcast_program: "Ezra Klein Show"
+  speaker: "Ezra，Rebecca"
   guest: "" 
   source: ""
 ---

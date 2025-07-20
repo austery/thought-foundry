@@ -6,19 +6,18 @@ tags:
   - "视频笔记"
   - "中国"
   - "核能"
-  - "钍反应堆"
   - "能源"
 data:
   author: "Lei"
   podcast_program: ""
-  speaker: ""
+  speaker: "Cold Fusion"
   guest: "" 
-  source: "#${id}"
+  source: ""
 ---
 
 # 中国如何赢得钍核能竞赛
 
-讲述者：Cold Fusion
+
 
 ## 引言：钍核能的曙光
 

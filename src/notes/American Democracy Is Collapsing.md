@@ -1,25 +1,21 @@
 ---
 title: "American Democracy Is Collapsing, And This Man Predicted It | Aaron Bastani Meets Joseph Stiglitz"
-layout: "post.njk"  
+layout: "post.njk"
 date: "2025-06-17"
 tags:
   - "视频笔记"
-  - "美国民主"
+  - "美国政治"
   - "全球化"
-  - "不平等"
-  - "新自由主义"
   - "中国模式"
 data:
   author: "Lei"
   podcast_program: ""
   speaker: ""
-  guest: "" 
+  guest: ""
   source: "#${id}"
 ---
 
 # American Democracy Is Collapsing, And This Man Predicted It \| Aaron Bastani Meets Joseph Stiglitz
-
-<div class="speaker-intro">
 
 ### Speakers
 
@@ -32,25 +28,6 @@ World Bank.
 "Downstream" show, known for his interviews with prominent figures on
 politics and economics.
 
-
-
-<div class="stats">
-
-### Report Information
-
-Total Words: Approx. 4500 words  
-Estimated Reading Time: Approx. 15 minutes
-
-
-
-<div class="toc">
-
-### Table of Contents
-
-
-
-Copy as Markdown
-
 ## Introduction: A Nobel Laureate on Globalization and Its Aftermath
 
 **Aaron Bastani:** We've had some fantastic guests here on Downstream
@@ -58,8 +35,8 @@ over the years, but today is the very first time that I'm speaking to a
 Nobel Prize winner. Joseph Stiglitz won the 2001 Nobel Prize for
 economics. He is however not just an amazing mathematician and
 economist. He is, I think, one of the best communicators in the English
-language on these issues in the last 30-40 years. *Globalization and its
-Discontents* made him a whistleblower from inside the establishment when
+language on these issues in the last 30-40 years. _Globalization and its
+Discontents_ made him a whistleblower from inside the establishment when
 it came to globalization and the likes of the IMF, the World Bank. Mr.
 Stiglitz, more than anyone else, turned those acronyms into household
 names, a shorthand for growing global inequality. And more recently in
@@ -71,7 +48,7 @@ recently in the aftermath of Donald Trump's election last year. I hope
 you enjoy this interview. Professor Joseph Stiglitz, welcome to
 Downstream.
 
-**亚伦·巴斯塔尼：**多年来，我们的“Downstream”节目邀请过一些非常出色的嘉宾，但今天是我第一次与一位诺贝尔奖得主对话。约瑟夫·斯蒂格利茨荣获2001年诺贝尔经济学奖。然而，他不仅是一位杰出的数学家和经济学家，在我看来，他还是过去三四十年里，在这些议题上英语世界最优秀的沟通者之一。《全球化及其不满》一书使他成为了体制内部揭露全球化以及国际货币基金组织（IMF）、世界银行等机构问题的“吹哨人”。斯蒂格利茨先生比任何人都更成功地让这些缩写词成为家喻户晓的名字，成为全球不平等加剧的代名词。最近，在2008年，当美国应对自1929年以来最严重的金融危机，就银行救助等问题做出一些至关重要的决定时，他就在会议现场。因此，在过去30年、15年，甚至在去年唐纳德·特朗普当选后，我们有很多话题可以讨论。希望您喜欢这次访谈。约瑟夫·斯蒂格利茨教授，欢迎来到“Downstream”。
+**亚伦·巴斯塔尼：**多年来，我们的“Downstream”节目邀请过一些非常出色的嘉宾，但今天是我第一次与一位诺贝尔奖得主对话。约瑟夫·斯蒂格利茨荣获 2001 年诺贝尔经济学奖。然而，他不仅是一位杰出的数学家和经济学家，在我看来，他还是过去三四十年里，在这些议题上英语世界最优秀的沟通者之一。《全球化及其不满》一书使他成为了体制内部揭露全球化以及国际货币基金组织（IMF）、世界银行等机构问题的“吹哨人”。斯蒂格利茨先生比任何人都更成功地让这些缩写词成为家喻户晓的名字，成为全球不平等加剧的代名词。最近，在 2008 年，当美国应对自 1929 年以来最严重的金融危机，就银行救助等问题做出一些至关重要的决定时，他就在会议现场。因此，在过去 30 年、15 年，甚至在去年唐纳德·特朗普当选后，我们有很多话题可以讨论。希望您喜欢这次访谈。约瑟夫·斯蒂格利茨教授，欢迎来到“Downstream”。
 
 **Joseph Stiglitz:** Nice to be here.
 
@@ -80,7 +57,7 @@ Downstream.
 **Aaron Bastani:** We like to use formality here at Navara Media. It's
 great to have you on. Our first Nobel Prize winner.
 
-**亚伦·巴斯塔尼：**在Novara
+**亚伦·巴斯塔尼：**在 Novara
 Media，我们习惯于保持正式。很高兴能邀请到您，我们的第一位诺贝尔奖得主。
 
 **Joseph Stiglitz:** Oh, thank you. So, uh, quite the accolade.
@@ -90,8 +67,8 @@ Media，我们习惯于保持正式。很高兴能邀请到您，我们的第一
 ## Globalization Revisited: Foreshadowing Today's Crises
 
 **Aaron Bastani:** You are obviously best known for a book written a
-while back now, *Globalization and its Discontents*. We're talking about
-this though, *The Road to Freedom, Economics, and the Good Society*. I
+while back now, _Globalization and its Discontents_. We're talking about
+this though, _The Road to Freedom, Economics, and the Good Society_. I
 will of course want to talk about some of your previous work as well.
 And in fact, I'd like to start with that. You were the outstanding voice
 with regards to critiquing globalization at its high point, late 1990s,
@@ -101,7 +78,7 @@ little bit. There was global growth, there were rising living standards
 for the West. Do you sort of think maybe I was a bit too harsh on
 globalization?
 
-**亚伦·巴斯塔尼：**您显然以多年前写的一本书《全球化及其不满》而闻名。不过，我们今天讨论的是这本《通往自由之路：经济学与良善社会》。当然，我也想谈谈您以前的一些作品。实际上，我想就从那里开始。在1990年代末、2000年代初全球化的鼎盛时期，您是批评全球化的杰出声音。我们现在所处的时代，您是否会带着些许怀念回顾那个时期？毕竟，当时情况似乎还在运转，全球经济在增长，西方的生活水平在提高。您是否会觉得，也许当年我对全球化的批评有点太苛刻了？
+**亚伦·巴斯塔尼：**您显然以多年前写的一本书《全球化及其不满》而闻名。不过，我们今天讨论的是这本《通往自由之路：经济学与良善社会》。当然，我也想谈谈您以前的一些作品。实际上，我想就从那里开始。在 1990 年代末、2000 年代初全球化的鼎盛时期，您是批评全球化的杰出声音。我们现在所处的时代，您是否会带着些许怀念回顾那个时期？毕竟，当时情况似乎还在运转，全球经济在增长，西方的生活水平在提高。您是否会觉得，也许当年我对全球化的批评有点太苛刻了？
 
 **Joseph Stiglitz:** No, I more... I don't like to say things like "I
 told you so," but I think what I said there was really a precursor to
@@ -148,7 +125,7 @@ click with you that actually American politics could be profoundly
 disrupted in a way that hadn't been the case in your lifetime as a
 result of this global economic settlement?
 
-**亚伦·巴斯塔尼：**所以，听起来您认为，您在本世纪初对全球化的诊断与2016年之后在美国以及英国发生的政治事件之间存在一条直线关系。那么，在20年或25年前，您是否曾想过美国会出现像特朗普这样的政治人物？还是说，正如您所言，当时的重点更多地放在了全球南方和发展中国家？如果25年前您没有这样想，那么您是在什么时候意识到，由于这种全球经济格局，美国政治可能会受到您有生以来前所未有的深刻颠覆？
+**亚伦·巴斯塔尼：**所以，听起来您认为，您在本世纪初对全球化的诊断与 2016 年之后在美国以及英国发生的政治事件之间存在一条直线关系。那么，在 20 年或 25 年前，您是否曾想过美国会出现像特朗普这样的政治人物？还是说，正如您所言，当时的重点更多地放在了全球南方和发展中国家？如果 25 年前您没有这样想，那么您是在什么时候意识到，由于这种全球经济格局，美国政治可能会受到您有生以来前所未有的深刻颠覆？
 
 **Joseph Stiglitz:** The realization that we were in a moment of
 democratic fragility began to dawn on me in the 2008 financial crisis.
@@ -171,15 +148,15 @@ time I came a little bit later, 2011, I wrote this article in Vanity
 Fair called "Of the 1% for the 1% and by the 1%," echoing Abraham
 Lincoln's Gettysburg address "of the people, for the people, and by the
 people," where it seemed to me that we were having a government that was
-reflecting that top 1%. And that led to my book, *The Price of
-Inequality*. And by the time I finished that book, *The Price of
-Inequality*, in 2012, it was clear to me that we were sowing a fertile
+reflecting that top 1%. And that led to my book, _The Price of
+Inequality_. And by the time I finished that book, _The Price of
+Inequality_, in 2012, it was clear to me that we were sowing a fertile
 field for a demagogue. And I actually said that in the book, a demagogue
 like Trump. At that moment I don't think I had any picture of somebody
 as dangerous as Trump. You know it was outside our vision, but that
 there would be a demagogue seemed to me a very high risk.
 
-**约瑟夫·斯蒂格利茨：**我是在2008年金融危机时，开始意识到我们正处在一个民主脆弱的时刻。当我回顾我们处理那场危机的方式时，很明显，我们在美国所做的一切都反映了金融市场的利益，而疏远了社会中的其他所有人。当时我参与了许多政治讨论。例如，在奥巴马当选前的竞选最后阶段，我参加了一个电话会议。当时的问题是，民主党应该如何应对2008年9月开始的危机？电话会议上全都是来自大银行和金融市场的人，而我是少数几个孤独的声音之一，我说：“你们也应该关心一下即将失去家园的美国工人和房主。如果我们只关注银行，复苏就不会是好的，而且在政治上将是灾难性的。”他们嘲笑我，说：“哦，拜托，严肃点。我们必须拯救银行。”不幸的是，奥巴马执行的就是这种策略。到了2011年，我为《名利场》写了一篇文章，题为《民有、民治、民享的1%》，模仿了亚伯拉罕·林肯的葛底斯堡演说中“民有、民治、民享”的说法。在我看来，我们的政府正在反映那顶层1%的利益。这促使我写了《不平等的代价》这本书。到2012年我完成这本书时，我很清楚，我们正在为**煽动家**的出现播下肥沃的土壤。我实际上在书里就说了，会出现像特朗普这样的**煽动家**。当时我并没有想到会出现像特朗普这样危险的人物，这超出了我们的想象，但出现一个**煽动家**，在我看来风险非常高。
+**约瑟夫·斯蒂格利茨：**我是在 2008 年金融危机时，开始意识到我们正处在一个民主脆弱的时刻。当我回顾我们处理那场危机的方式时，很明显，我们在美国所做的一切都反映了金融市场的利益，而疏远了社会中的其他所有人。当时我参与了许多政治讨论。例如，在奥巴马当选前的竞选最后阶段，我参加了一个电话会议。当时的问题是，民主党应该如何应对 2008 年 9 月开始的危机？电话会议上全都是来自大银行和金融市场的人，而我是少数几个孤独的声音之一，我说：“你们也应该关心一下即将失去家园的美国工人和房主。如果我们只关注银行，复苏就不会是好的，而且在政治上将是灾难性的。”他们嘲笑我，说：“哦，拜托，严肃点。我们必须拯救银行。”不幸的是，奥巴马执行的就是这种策略。到了 2011 年，我为《名利场》写了一篇文章，题为《民有、民治、民享的 1%》，模仿了亚伯拉罕·林肯的葛底斯堡演说中“民有、民治、民享”的说法。在我看来，我们的政府正在反映那顶层 1%的利益。这促使我写了《不平等的代价》这本书。到 2012 年我完成这本书时，我很清楚，我们正在为**煽动家**的出现播下肥沃的土壤。我实际上在书里就说了，会出现像特朗普这样的**煽动家**。当时我并没有想到会出现像特朗普这样危险的人物，这超出了我们的想象，但出现一个**煽动家**，在我看来风险非常高。
 
 ## The Failure of Elites and the Rise of Neoliberalism
 
@@ -204,7 +181,7 @@ buy that? That our sort of commercial and political elites simply don't
 think about the possibility of political chaos, collapse, regimes
 falling, demagogues.
 
-**亚伦·巴斯塔尼：**所以，2008年出现了自1929年以来最不寻常的资本主义危机，尤其是在美国，而你所描述的应对方式，真是一个惊人的洞见。我猜想，你参加的那个电话会议上，有像蒂姆·盖特纳、鲍勃·鲁宾这样的大人物。当然，盖特纳最终成为了奥巴马的财政部长。你在那个电话会议上，听到这些人所说的，他们的回应完全没有兴趣去考虑他们的选择所带来的政治外部性或政治风险。这里有个问题，因为您阅历丰富，见证了政坛上许多不同的人物和个性。有一种观点认为，在英国和整个欧洲，那些经历过二战的政治家们，实际上非常害怕重蹈覆辙。他们有一种共识，即政治可以很快变得非常肮脏，我们必须避免那种动荡。而大西洋两岸的社会，似乎已经失去了这种传承和集体知识。您同意这种说法吗？即我们的商业和政治精英们，根本不去考虑政治混乱、崩溃、政权更迭和**煽动家**出现的可能性。
+**亚伦·巴斯塔尼：**所以，2008 年出现了自 1929 年以来最不寻常的资本主义危机，尤其是在美国，而你所描述的应对方式，真是一个惊人的洞见。我猜想，你参加的那个电话会议上，有像蒂姆·盖特纳、鲍勃·鲁宾这样的大人物。当然，盖特纳最终成为了奥巴马的财政部长。你在那个电话会议上，听到这些人所说的，他们的回应完全没有兴趣去考虑他们的选择所带来的政治外部性或政治风险。这里有个问题，因为您阅历丰富，见证了政坛上许多不同的人物和个性。有一种观点认为，在英国和整个欧洲，那些经历过二战的政治家们，实际上非常害怕重蹈覆辙。他们有一种共识，即政治可以很快变得非常肮脏，我们必须避免那种动荡。而大西洋两岸的社会，似乎已经失去了这种传承和集体知识。您同意这种说法吗？即我们的商业和政治精英们，根本不去考虑政治混乱、崩溃、政权更迭和**煽动家**出现的可能性。
 
 **Joseph Stiglitz:** I think to a large extent, I think that's true. You
 know, we've had so much political stability, particularly after World
@@ -229,7 +206,7 @@ The economic divide got greater, life expectancy in the United States
 started to decline, and finally the vision that I had seen of a
 demagogue arising out of this fertile field of despair became a reality.
 
-**约瑟夫·斯蒂格利茨：**我想在很大程度上，这是对的。你知道，我们经历了很长一段时间的政治稳定，尤其是在二战之后。我们有几十年的共同繁荣，社会中每个群体的收入都在增长，而底层群体的增长更多。因此，那个时期几乎产生了一种对美国中产阶级的信念。这就是我成长的世界。但后来，我想我们没有完全意识到从1970年代中期开始发生的变化，尤其是在1980年，罗纳德·里根和**新自由主义**的出现，这是一个引人注目的转折点。这与二战后四分之一个世纪的社会团结、对富人征收高税、但社会整体上存在一种团结的时代，是一个重大的背离。那种**新自由主义**降低了顶层的税收，放松了管制，可以说让市场“自由驰骋”，它确实做到了。结果是不平等加剧，金融危机接踵而至。这并不是他们所承诺的美好画面。恰恰相反，是增长放缓、更不稳定、更不平等。但我们没有注意到。他们对那套说辞深信不疑，以至于即使数据表明这个实验并不顺利，他们也像任何宗教狂热团体一样说：“再给它点时间，再给它点时间。”随着时间的推移，2008年我们又经历了一次危机。经济鸿沟变得更大，美国的预期寿命开始下降，最终，我所预见到的，一个从绝望的沃土中崛起的**煽动家**的景象，成为了现实。
+**约瑟夫·斯蒂格利茨：**我想在很大程度上，这是对的。你知道，我们经历了很长一段时间的政治稳定，尤其是在二战之后。我们有几十年的共同繁荣，社会中每个群体的收入都在增长，而底层群体的增长更多。因此，那个时期几乎产生了一种对美国中产阶级的信念。这就是我成长的世界。但后来，我想我们没有完全意识到从 1970 年代中期开始发生的变化，尤其是在 1980 年，罗纳德·里根和**新自由主义**的出现，这是一个引人注目的转折点。这与二战后四分之一个世纪的社会团结、对富人征收高税、但社会整体上存在一种团结的时代，是一个重大的背离。那种**新自由主义**降低了顶层的税收，放松了管制，可以说让市场“自由驰骋”，它确实做到了。结果是不平等加剧，金融危机接踵而至。这并不是他们所承诺的美好画面。恰恰相反，是增长放缓、更不稳定、更不平等。但我们没有注意到。他们对那套说辞深信不疑，以至于即使数据表明这个实验并不顺利，他们也像任何宗教狂热团体一样说：“再给它点时间，再给它点时间。”随着时间的推移，2008 年我们又经历了一次危机。经济鸿沟变得更大，美国的预期寿命开始下降，最终，我所预见到的，一个从绝望的沃土中崛起的**煽动家**的景象，成为了现实。
 
 ## Obama's Legacy: A Crisis Wasted?
 
@@ -274,7 +251,7 @@ the last 15 years, which is that the right has taken more lessons from
 the radical left of the 20th century in organizing, building the party,
 than the center and center-left has.
 
-**亚伦·巴斯塔尼：**是的。对于在英国观看和收听这个节目的观众来说，据我所知，到2012年，奥巴马虽然再次当选，但你已经开始看到在**次级选举**中，民主党遭受重创，他们的选民投票率不高。这是过去15年里一个巨大的讽刺：在组织和建设政党方面，右翼从20世纪的激进左翼那里学到的教训，比中间派和中左翼要多得多。
+**亚伦·巴斯塔尼：**是的。对于在英国观看和收听这个节目的观众来说，据我所知，到 2012 年，奥巴马虽然再次当选，但你已经开始看到在**次级选举**中，民主党遭受重创，他们的选民投票率不高。这是过去 15 年里一个巨大的讽刺：在组织和建设政党方面，右翼从 20 世纪的激进左翼那里学到的教训，比中间派和中左翼要多得多。
 
 ## Encounters with Ideologues: Milton Friedman and Adam Smith
 
@@ -316,7 +293,7 @@ using that as a form of imposing on the Chilean people his economic
 ideology. So he was using political authoritarianism to impose his idea
 of quote "economic freedom."
 
-**约瑟夫·斯蒂格利茨：**是的，实际上我们多年来有过很多次接触。我曾是胡佛研究所的“象征性自由派”。胡佛研究所是斯坦福大学校园内的一个智库，是所有右翼人士接受培训和思想灌输的地方。我把这看作是一个了解整个政治版图的机会，我们有过很多次对话。但我想讲一次特别的对话。在60年代末、70年代初，我写了一篇论文，解释了为什么企业最大化其股票市场价值并不会带来社会的普遍福祉。大约在同一时间，米尔顿·弗里德曼正在为《纽约时报》杂志写一篇非常有影响力的文章，论述为什么企业应该最大化其股票市场价值。我被邀请到芝加哥大学就我的论文发表演讲。我做了一个研讨会，会后我们站在研讨室外，他说：“乔，你错了。”我说：“米尔顿，告诉我我哪个假设你不喜欢，或者我的分析哪里出了错。”他说：“乔，你错了。我知道股东价值最大化是最优的，对社会有益。”我说：“看，我花了很大功夫来证明你是错的，请你解释一下我的分析哪里出了问题。”他说：“乔，你错了。”那一刻，很明显他已经成了一个**意识形态家**。他有强烈的信念，无法进行分析性的探讨。他非常聪明，非常和蔼，是个非常好的人，非常忠于他的意识形态。但我总感觉有点虚伪，因为他在《资本主义与自由》中的一个论点是，经济自由对政治自由非常重要。然而，他似乎很自在地跑到智利，在皮诺切特让成千上万的人失踪后，成为他的顾问，并以此作为一种手段，将他的经济意识形态强加给智利人民。所以，他是在利用政治威权主义来强加他所谓的“经济自由”。
+**约瑟夫·斯蒂格利茨：**是的，实际上我们多年来有过很多次接触。我曾是胡佛研究所的“象征性自由派”。胡佛研究所是斯坦福大学校园内的一个智库，是所有右翼人士接受培训和思想灌输的地方。我把这看作是一个了解整个政治版图的机会，我们有过很多次对话。但我想讲一次特别的对话。在 60 年代末、70 年代初，我写了一篇论文，解释了为什么企业最大化其股票市场价值并不会带来社会的普遍福祉。大约在同一时间，米尔顿·弗里德曼正在为《纽约时报》杂志写一篇非常有影响力的文章，论述为什么企业应该最大化其股票市场价值。我被邀请到芝加哥大学就我的论文发表演讲。我做了一个研讨会，会后我们站在研讨室外，他说：“乔，你错了。”我说：“米尔顿，告诉我我哪个假设你不喜欢，或者我的分析哪里出了错。”他说：“乔，你错了。我知道股东价值最大化是最优的，对社会有益。”我说：“看，我花了很大功夫来证明你是错的，请你解释一下我的分析哪里出了问题。”他说：“乔，你错了。”那一刻，很明显他已经成了一个**意识形态家**。他有强烈的信念，无法进行分析性的探讨。他非常聪明，非常和蔼，是个非常好的人，非常忠于他的意识形态。但我总感觉有点虚伪，因为他在《资本主义与自由》中的一个论点是，经济自由对政治自由非常重要。然而，他似乎很自在地跑到智利，在皮诺切特让成千上万的人失踪后，成为他的顾问，并以此作为一种手段，将他的经济意识形态强加给智利人民。所以，他是在利用政治威权主义来强加他所谓的“经济自由”。
 
 ## The Misuse of Adam Smith and the Battle of Ideas
 
@@ -351,7 +328,7 @@ there was a kind of foresight that he had. Maybe it was about the basic
 nature of human nature and the striving for profits, but clearly he did
 not believe in unfettered capitalism.
 
-**约瑟夫·斯蒂格利茨：**哦，他会在坟墓里气得打滚。如果你完整地阅读亚当·斯密，是的，他谈到了“看不见的手”，即追求自身利益如同被一只看不见的手引导，最终促进了社会福祉。但这只是一个观点。他还说过，“商人很少聚集在一起，无论是为了娱乐还是别的什么，而不搞一个反对公众的阴谋。”所以他并不认为商人是为了增进人民的福祉，他非常担心我们今天所说的反竞争行为。他在另一处写道，当监管有利于工人时，几乎总是有益的；但当它符合公司利益时，则不然。他非常清楚公司如何俘获国家，并推动监管来追求自身利益，以获得我们今天所说的“**寻租**”利润。但他也意识到，为了工人的福祉，国家代表工人进行监管是多么重要。接着，他又在另一处谈到，公司如何像他说的那样，几乎总是在秘密中联合起来，合谋压低工人的工资。我经常在谈论200年后在好莱坞和硅谷发生的一些压制工人薪资的阴谋时引用这段话，那些利润最高的公司，竟然联手压低为他们创造利润的工人的工资。这真是令人难以置信。所以，他有一种远见。也许这关乎人性的基本本质和对利润的追求，但很明显，他并不相信不受约束的资本主义。
+**约瑟夫·斯蒂格利茨：**哦，他会在坟墓里气得打滚。如果你完整地阅读亚当·斯密，是的，他谈到了“看不见的手”，即追求自身利益如同被一只看不见的手引导，最终促进了社会福祉。但这只是一个观点。他还说过，“商人很少聚集在一起，无论是为了娱乐还是别的什么，而不搞一个反对公众的阴谋。”所以他并不认为商人是为了增进人民的福祉，他非常担心我们今天所说的反竞争行为。他在另一处写道，当监管有利于工人时，几乎总是有益的；但当它符合公司利益时，则不然。他非常清楚公司如何俘获国家，并推动监管来追求自身利益，以获得我们今天所说的“**寻租**”利润。但他也意识到，为了工人的福祉，国家代表工人进行监管是多么重要。接着，他又在另一处谈到，公司如何像他说的那样，几乎总是在秘密中联合起来，合谋压低工人的工资。我经常在谈论 200 年后在好莱坞和硅谷发生的一些压制工人薪资的阴谋时引用这段话，那些利润最高的公司，竟然联手压低为他们创造利润的工人的工资。这真是令人难以置信。所以，他有一种远见。也许这关乎人性的基本本质和对利润的追求，但很明显，他并不相信不受约束的资本主义。
 
 ## The Need for a New FDR and the Failures of the Obama Era
 
@@ -438,7 +415,7 @@ that recognizes that we are at a moment of upheaval and that will take
 strong collective action and that unfortunately where we are today, not
 everybody is going to be happy.
 
-**约瑟夫·斯蒂格利茨：**我想，一种思考方式可以追溯到1980年代和1990年代。我们经历了一个“**大缓和**”时期。你可以说那是一个温和的时期，每个人都试图和睦相处。我们当时会说：“哦，罗斯福太激进了。我们现在都是中产阶级，别再谈什么‘阶级斗争’了，那是过去的事，是老掉牙的共产主义语言。”我们是一个幸福的大家庭。当然，我们并非一个幸福的大家庭。有很大一部分美国人非常、非常不开心。在许多其他发达国家也是如此。但那种信念、那种意识形态、那种我们是一个幸福家庭的希望，限制了政治家们觉得可以放手去做的事情。他们不想表现得激进。而罗斯福在那个时刻说：“我别无选择。如果我不激进，我们就无法解决**大萧条**。”他意识到了这一点，所以他必须做出选择。这需要有胆识的人。但我们确实有这样的领导者，美国的AOC、伯尼·桑德斯，还有一些州长，我认为他们能够提出一个新的、进步的议程。这与19世纪的斗争不同，我们身处21世纪，正在经历数字化和绿色转型，这是一个非常不同的世界。所以这不是复制过去的战斗，而是新的。但这需要一种力量，一种认识到我们正处于一个剧变时刻的力量，这需要强有力的集体行动，而不幸的是，在我们今天所处的境地，并非每个人都会感到满意。
+**约瑟夫·斯蒂格利茨：**我想，一种思考方式可以追溯到 1980 年代和 1990 年代。我们经历了一个“**大缓和**”时期。你可以说那是一个温和的时期，每个人都试图和睦相处。我们当时会说：“哦，罗斯福太激进了。我们现在都是中产阶级，别再谈什么‘阶级斗争’了，那是过去的事，是老掉牙的共产主义语言。”我们是一个幸福的大家庭。当然，我们并非一个幸福的大家庭。有很大一部分美国人非常、非常不开心。在许多其他发达国家也是如此。但那种信念、那种意识形态、那种我们是一个幸福家庭的希望，限制了政治家们觉得可以放手去做的事情。他们不想表现得激进。而罗斯福在那个时刻说：“我别无选择。如果我不激进，我们就无法解决**大萧条**。”他意识到了这一点，所以他必须做出选择。这需要有胆识的人。但我们确实有这样的领导者，美国的 AOC、伯尼·桑德斯，还有一些州长，我认为他们能够提出一个新的、进步的议程。这与 19 世纪的斗争不同，我们身处 21 世纪，正在经历数字化和绿色转型，这是一个非常不同的世界。所以这不是复制过去的战斗，而是新的。但这需要一种力量，一种认识到我们正处于一个剧变时刻的力量，这需要强有力的集体行动，而不幸的是，在我们今天所处的境地，并非每个人都会感到满意。
 
 ## Economic Realities: Debt, Growth, and the Path Forward
 
@@ -458,7 +435,7 @@ demographics? We're much older societies. So the constraints are higher,
 the costs are higher with regards to elderly care, healthcare, etc. What
 would you say to them?
 
-**亚伦·巴斯塔尼：**我暂时以怀疑者的眼光来看待这个问题。一个观看福克斯新闻或英国GB新闻的观众可能会说：“斯蒂格利茨先生，斯蒂格利茨教授，您对罗斯福的分析很有道理。但我们现在生活在一个不同的世界。个人债务高得多，主权债务也高得多。我们已经很长时间没有真正的增长了。自全球金融危机以来，我们经历的基本上是债务驱动的增长。美国或英国都没有一个真正的增长模式。人们谈论特朗普时期的增长，但也看看赤字。那并没有创造出由私营部门主导的繁荣。英国也是如此，尤其是在剔除大型科技公司之后。所以，这和30年代不一样。面对债务、零增长，甚至人口结构（我们是老龄化社会，老年护理、医疗保健等方面的约束和成本更高），您会对他们说些什么？”
+**亚伦·巴斯塔尼：**我暂时以怀疑者的眼光来看待这个问题。一个观看福克斯新闻或英国 GB 新闻的观众可能会说：“斯蒂格利茨先生，斯蒂格利茨教授，您对罗斯福的分析很有道理。但我们现在生活在一个不同的世界。个人债务高得多，主权债务也高得多。我们已经很长时间没有真正的增长了。自全球金融危机以来，我们经历的基本上是债务驱动的增长。美国或英国都没有一个真正的增长模式。人们谈论特朗普时期的增长，但也看看赤字。那并没有创造出由私营部门主导的繁荣。英国也是如此，尤其是在剔除大型科技公司之后。所以，这和 30 年代不一样。面对债务、零增长，甚至人口结构（我们是老龄化社会，老年护理、医疗保健等方面的约束和成本更高），您会对他们说些什么？”
 
 **Joseph Stiglitz:** Well, first I would say look, we are a more
 innovative society. There have been enormous advances in science. What
@@ -491,7 +468,7 @@ populism. And the good news in this very dark hour is that Trump is
 showing them that authoritarian populism may not be a good answer for
 anybody.
 
-**约瑟夫·斯蒂格利茨：**嗯，首先我会说，我们是一个更具创新性的社会。科学取得了巨大的进步。我们今天的生活水平比250年前高出如此之多的基础是什么？基本上是科学，以及弄清楚如何集体合作，新的社会组织形式，大型公司，以及在更广泛的社会意义上，**三权分立**、法治，如何让民主制度运作。我们已经学到了很多关于什么行不通，什么是良好治理的原则，什么是糟糕治理的原则。所以，我会说，从基本面来看，我们实际上比100年前处于一个好得多的位置。问题是我们如何利用所有这些知识，并引导这些知识来创造一个更繁荣的社会——不仅是为少数人，而是为我们社会的大多数成员。最终，我认为我们陷入了一个长达45年的失败实验。对我来说，答案是跳出这个实验，承认失败。这个实验当然是**新自由主义**实验——即自由市场会带来更高的增长，通过**涓滴经济学**惠及所有人，并且市场自身是稳定的。我的意思是，所有这些假设，我们都给过它们很好的尝试，但它们失败了，不仅在一个国家，而是在一个又一个国家。所以对我来说，有了所有这些知识，我们处于一个更好的基础上，可以开始创造一个替代性的经济体系。我不认为这会容易，因为在民主国家，你必须说服很多人，而我不想用这个词，但他们已经被洗脑了几十年，认为这个特定的体系——**新自由主义**资本主义——只要你给它一个机会，就会奏效。但最终他们开始幻灭，而这种幻灭正导致他们走向威权民粹主义。而在这个非常黑暗的时刻，好消息是，特朗普正在向他们展示，威权民粹主义对任何人来说都可能不是一个好答案。
+**约瑟夫·斯蒂格利茨：**嗯，首先我会说，我们是一个更具创新性的社会。科学取得了巨大的进步。我们今天的生活水平比 250 年前高出如此之多的基础是什么？基本上是科学，以及弄清楚如何集体合作，新的社会组织形式，大型公司，以及在更广泛的社会意义上，**三权分立**、法治，如何让民主制度运作。我们已经学到了很多关于什么行不通，什么是良好治理的原则，什么是糟糕治理的原则。所以，我会说，从基本面来看，我们实际上比 100 年前处于一个好得多的位置。问题是我们如何利用所有这些知识，并引导这些知识来创造一个更繁荣的社会——不仅是为少数人，而是为我们社会的大多数成员。最终，我认为我们陷入了一个长达 45 年的失败实验。对我来说，答案是跳出这个实验，承认失败。这个实验当然是**新自由主义**实验——即自由市场会带来更高的增长，通过**涓滴经济学**惠及所有人，并且市场自身是稳定的。我的意思是，所有这些假设，我们都给过它们很好的尝试，但它们失败了，不仅在一个国家，而是在一个又一个国家。所以对我来说，有了所有这些知识，我们处于一个更好的基础上，可以开始创造一个替代性的经济体系。我不认为这会容易，因为在民主国家，你必须说服很多人，而我不想用这个词，但他们已经被洗脑了几十年，认为这个特定的体系——**新自由主义**资本主义——只要你给它一个机会，就会奏效。但最终他们开始幻灭，而这种幻灭正导致他们走向威权民粹主义。而在这个非常黑暗的时刻，好消息是，特朗普正在向他们展示，威权民粹主义对任何人来说都可能不是一个好答案。
 
 ## The China Model: Lessons for the West?
 
@@ -500,7 +477,7 @@ two questions into one really. Is China a socialist economy or a
 capitalist economy? And what lessons can the West learn from how China
 has administered its economy over the last 35 years?
 
-**亚伦·巴斯塔尼：**您在书中谈到了中国。我想把两个问题合二为一。中国是社会主义经济还是资本主义经济？西方可以从中国过去35年管理经济的方式中学到什么教训？
+**亚伦·巴斯塔尼：**您在书中谈到了中国。我想把两个问题合二为一。中国是社会主义经济还是资本主义经济？西方可以从中国过去 35 年管理经济的方式中学到什么教训？
 
 **Joseph Stiglitz:** China is sui generis. It describes itself as a
 market socialist economy with Chinese characteristics. So you put
@@ -518,8 +495,7 @@ countries didn't pose to themselves. And you know, there was a sort of
 pride that they're saying, "No reason that we can't have as high a
 standard of living as any other country." And that opened up the window
 to try to understand what makes for economic success. And they talked to
-everybody on the left and the right. My first meeting with them was in
-1980. My first visit was in 1981. And you know, continuing discussions.
+everybody on the left and the right. My first meeting with them was in 1980. My first visit was in 1981. And you know, continuing discussions.
 They wanted to learn from any source they could find and they listened
 to different views and then integrated it within their own framework.
 Out of that came a lot of novel ideas, innovative ideas. Investment in
@@ -554,9 +530,7 @@ compare economies with different relative prices. They are now the
 world's largest economy and that gives them an enormous opportunity to
 continue their development strategy.
 
-**约瑟夫·斯蒂格利茨：**中国是独一无二的。它自称为具有中国特色的市场社会主义经济。所以，你把这些词组合在一起，意思就是我们不同于任何其他经济体。有人将其描述为国家资本主义。但同时，它也有一个繁荣的小企业部门。总体而言，政府在经济中的作用比任何西方经济体都更为普遍。因此，它确实扮演着非常重要的角色。我认为，我们可以从中国作为经济体的成功中学到几点。这里不谈民主或任何其他方面，只谈经济上的成功。首先，它有远见。我们想要现代化，没有理由我们的生活水平应该低于最发达的国家。我们如何实现这一目标？这是大多数国家没有向自己提出的问题。你知道，他们有一种自豪感，说：“没有理由我们不能拥有和任何其他国家一样高的生活水平。”这为理解经济成功的要素打开了一扇窗。他们与左右两派的每个人都进行了交谈。我与他们的第一次会面是在1980年，我的第一次访问是在1981年。你知道，持续的讨论。他们希望从任何能找到的来源学习，他们听取了不同的观点，然后将其整合到自己的框架中。由此产生了很多新颖的、创新的想法。投资于人，即人力资本，他们派遣了成千上万的人到美国、欧洲、澳大利亚学习，接受高等教育，成为工程师。你可以看到这其中的成果。几周前，我在中国，参观了他们的一家新汽车工厂。机器人组装汽车，里面几乎没有人类。真是令人惊叹。大多数员工不是生产工人，而是工程师。他们已经从可以说在非熟练劳动力方面拥有比较优势，转变为在工程和熟练劳动力方面拥有比较优势。45年来的巨大变化。这是第三个方面，他们做了一些规划，一些前瞻性的思考。如何实现这一愿景？其中一部分是产业政策。现在，美国终于开始在《芯片法案》中采纳一些产业政策，该法案承认我们没有能力生产现代经济中的一个重要组成部分——芯片。还有《通胀削减法案》（IRA），它承认我们没有为绿色转型做好准备。但是，我们没有一个更广泛的产业政策。特朗普正在做的，是把贸易当作一种产业政策。他想把工作带回美国。这正是产业政策的作用。但他做事的方式如此欠考虑、如此无知、如此具有破坏性，不仅对美国，也对全球经济秩序，以至于他能否取得多大成就都值得怀疑，而对全球经济和美国经济造成的成本将是巨大的。所以，这些至少是我认为任何国家都可以从中国学习、研究的三个方面。当然，中国有一些其他国家所不具备的优势：规模。你知道，如果你有13亿人口，你就拥有一个巨大的市场。拥有一个巨大的市场会给你带来一些优势。所以，按照**购买力平价**（这是经济学家比较不同相对价格经济体的方式），他们现在是世界上最大的经济体，这给了他们一个继续其发展战略的巨大机会。
-
-
+**约瑟夫·斯蒂格利茨：**中国是独一无二的。它自称为具有中国特色的市场社会主义经济。所以，你把这些词组合在一起，意思就是我们不同于任何其他经济体。有人将其描述为国家资本主义。但同时，它也有一个繁荣的小企业部门。总体而言，政府在经济中的作用比任何西方经济体都更为普遍。因此，它确实扮演着非常重要的角色。我认为，我们可以从中国作为经济体的成功中学到几点。这里不谈民主或任何其他方面，只谈经济上的成功。首先，它有远见。我们想要现代化，没有理由我们的生活水平应该低于最发达的国家。我们如何实现这一目标？这是大多数国家没有向自己提出的问题。你知道，他们有一种自豪感，说：“没有理由我们不能拥有和任何其他国家一样高的生活水平。”这为理解经济成功的要素打开了一扇窗。他们与左右两派的每个人都进行了交谈。我与他们的第一次会面是在 1980 年，我的第一次访问是在 1981 年。你知道，持续的讨论。他们希望从任何能找到的来源学习，他们听取了不同的观点，然后将其整合到自己的框架中。由此产生了很多新颖的、创新的想法。投资于人，即人力资本，他们派遣了成千上万的人到美国、欧洲、澳大利亚学习，接受高等教育，成为工程师。你可以看到这其中的成果。几周前，我在中国，参观了他们的一家新汽车工厂。机器人组装汽车，里面几乎没有人类。真是令人惊叹。大多数员工不是生产工人，而是工程师。他们已经从可以说在非熟练劳动力方面拥有比较优势，转变为在工程和熟练劳动力方面拥有比较优势。45 年来的巨大变化。这是第三个方面，他们做了一些规划，一些前瞻性的思考。如何实现这一愿景？其中一部分是产业政策。现在，美国终于开始在《芯片法案》中采纳一些产业政策，该法案承认我们没有能力生产现代经济中的一个重要组成部分——芯片。还有《通胀削减法案》（IRA），它承认我们没有为绿色转型做好准备。但是，我们没有一个更广泛的产业政策。特朗普正在做的，是把贸易当作一种产业政策。他想把工作带回美国。这正是产业政策的作用。但他做事的方式如此欠考虑、如此无知、如此具有破坏性，不仅对美国，也对全球经济秩序，以至于他能否取得多大成就都值得怀疑，而对全球经济和美国经济造成的成本将是巨大的。所以，这些至少是我认为任何国家都可以从中国学习、研究的三个方面。当然，中国有一些其他国家所不具备的优势：规模。你知道，如果你有 13 亿人口，你就拥有一个巨大的市场。拥有一个巨大的市场会给你带来一些优势。所以，按照**购买力平价**（这是经济学家比较不同相对价格经济体的方式），他们现在是世界上最大的经济体，这给了他们一个继续其发展战略的巨大机会。
 
 <div class="glossary">
 

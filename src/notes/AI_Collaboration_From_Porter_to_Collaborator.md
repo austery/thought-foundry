@@ -1,6 +1,6 @@
 ---
 title: "AI 协作深度解析：从“搬运工”到“协作者”"
-layout: "post.njk"  
+layout: "post.njk"
 date: "2025-06-10"
 tags:
   - "视频笔记"
@@ -10,7 +10,7 @@ data:
   author: "Lei"
   podcast_program: ""
   speaker: "李厚辰"
-  guest: "" 
+  guest: ""
   source: "https://www.youtube.com/watch?v=-a_umjxdcIg&t"
 ---
 
@@ -160,7 +160,7 @@ prompt 补充成一个特别完整的 prompt，从而让它生成的效果很好
 
 这就是为什么有了 CoT 之后，你会发现 AI 变得特别特别好用。不管你用的是
 DeepSeek 的 R1，还是 ChatGPT 的
-O3（注：应为GPT-4o），你都会感觉它非常好用。
+O3（注：应为 GPT-4o），你都会感觉它非常好用。
 
 那么，GPT-4o 为什么更好用呢？大家需要知道另外一个东西，这个东西叫
 RAG（Retrieval-Augmented

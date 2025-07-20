@@ -6,8 +6,7 @@ tags:
   - "视频笔记"
   - "Margin Call"
   - "金融危机"
-  - "投资分析"
-  - "华尔街"
+  - "投资"
 data:
   author: "Lei"
   podcast_program: "The Plain Bagel"
@@ -15,8 +14,6 @@ data:
   guest: "" 
   source: "https://www.youtube.com/watch?v=H7xCo0CJ02A"
 ---
-
-# Margin Call: An Investment Analyst’s Explanation 《Margin Call》：投资分析师的解读
 
 ## Introduction 引言
 

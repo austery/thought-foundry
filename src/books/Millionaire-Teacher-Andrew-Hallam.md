@@ -1,18 +1,19 @@
 ---
-tags:
-  - "Book"
-  - "Investment"
 title: "Millionaire Teacher"
-date: "2024-05-20"
-layout: "post.njk"
-author: "Andrew Hallam"
-publisher: "John Wiley & Sons"
-publish_date: "2016-11-28"
+date: "2024-05-20"  # 你完成这篇笔记的日期
+layout: "book-note.njk" # 指定使用读书笔记的专属布局
+tags:
+- "Book" 
+- "投资" 
+data:
+  author: "Andrew Hallam"
+  publisher: "John Wiley & Sons"
+  year: "2016-11-28" # 例如：2023
+  read_date: "2024-05-20" # 你读完这本书的日期
+  rating: "4/5" # 你对这本书的评分
+  description: "这里是一段关于这本书的简短介绍。" # 书籍简介
+  cover_image: "(http://books.google.com/books/content?id=bcqcDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)" # 封面图片的URL
 ---
-
-![cover|150](http://books.google.com/books/content?id=bcqcDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-
-# Millionaire Teacher
 
 ## *Why I read this book*
 on Ray recommend book list

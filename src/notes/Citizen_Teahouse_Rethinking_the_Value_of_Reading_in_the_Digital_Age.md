@@ -5,16 +5,13 @@ date: "2025-07-10"
 tags:
   - "视频笔记"
   - "读书价值"
-  - "数字时代"
-  - "知识获取"
   - "AI"
   - "专注力"
 data:
   author: "Lei"
   podcast_program: ""
-  speaker: ""
+  speaker: "李厚辰"
   guest: "" 
-  source: ""
 ---
 
 # 市民茶室：读书的价值在数字时代的再思考

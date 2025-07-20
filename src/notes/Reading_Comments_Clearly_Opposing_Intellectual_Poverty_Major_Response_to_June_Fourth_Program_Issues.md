@@ -4,15 +4,13 @@ layout: "post.njk"
 date: "2025-07-10"
 tags:
   - "视频笔记"
-  - "六四"
-  - "民主"
   - "中国政治"
   - "历史反思"
-  - "知识贫瘠"
+  - "三个水枪手"
 data:
   author: "Lei"
   podcast_program: ""
-  speaker: ""
+  speaker: "李厚辰、贾葭、伍雷"
   guest: "" 
   source: ""
 ---

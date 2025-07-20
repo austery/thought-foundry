@@ -11,7 +11,7 @@ data:
   author: "Lei"
   podcast_program: ""
   speaker: "Peter Diamandis"
-  guest: "Salim Ismail" 
+  guest: "Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis" 
   source: ""
 ---
 

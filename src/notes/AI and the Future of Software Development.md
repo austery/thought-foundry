@@ -4,7 +4,7 @@ layout: "post.njk"
 date: "2025-05-28"
 tags:
   - "视频笔记"
-  - "人工智能"
+  - "AI"
   - "软件开发"
 data:
   author: "Lei"

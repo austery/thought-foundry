@@ -1,0 +1,29 @@
+---
+title: "我的书架"
+layout: "default.njk"
+permalink: "/bookshelf/"
+---
+
+<h1>我的书架</h1>
+<p>这里是我读过的书，以及我的一些笔记和思考。</p>
+
+<div class="card-layout">
+  {# 遍历 'books' 集合里的每一本书 #}
+  {%- for book in collections.books | sort(true, false, 'date') -%}
+    <a href="{{ book.url | url }}" class="card">
+      <article>
+        {# 如果有封面图就显示 #}
+        {% if book.data.cover_image %}
+          <img src="{{ book.data.cover_image }}" alt="{{ book.data.title }} 的封面">
+        {% endif %}
+        <div class="card-content">
+          <h3>{{ book.data.title }}</h3>
+          <p>作者: {{ book.data.author }}</p>
+          {% if book.data.rating %}
+            <p>评分: {{ book.data.rating }}</p>
+          {% endif %}
+        </div>
+      </article>
+    </a>
+  {%- endfor -%}
+</div>
