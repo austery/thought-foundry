@@ -14,7 +14,7 @@ tags:
 title: All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权
 ---
 
-## (0:00) 好哥们介绍：核心四人组回归！
+## (0:00) 好哥们介绍：核心四人组回归
 
 **Jason:** Did you guys see this uh White House video?
 
@@ -77,7 +77,7 @@ lot. You looked great. Your impressions of this evening.
 Goldberg玩“炸弹底池”（Bomb
 pots：德州扑克的一种变体，每位玩家在翻牌前投入固定赌注，直接看翻牌）输了不少钱。你喝了很多，看起来状态很棒。谈谈你对当晚的印象。
 
-## (1:38) All-In龙舌兰酒发布！
+## (1:38) All-In龙舌兰酒发布
 
 **Friedberg:** Oh, I loved it. It was great. I think the tequila turned
 out fantastic. This tequila has been I mean you guys realize when we
