@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
 source: (.*?)
-speaker: 
+speaker: null
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 学习方法
 - 人际关系
 - 心理学

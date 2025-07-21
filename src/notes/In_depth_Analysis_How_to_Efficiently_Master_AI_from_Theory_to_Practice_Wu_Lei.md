@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=-a_umjxdcIg&t=2732s
 speaker: 李厚辰
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - prompt
 title: 深度解析：如何超越搜索引擎，高效驾驭AI
 ---

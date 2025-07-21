@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-11'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
+source: null
 speaker: 李厚辰、贾葭、伍雷
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 三个水枪手
 title: 深度对话：NotebookLM与AI内容生成的未来
 ---

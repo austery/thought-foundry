@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-07'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
+source: null
 speaker: Mike
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - Prompt
 title: AI对话的艺术：2025年，为何提示词工程仍是核心技能？
 ---

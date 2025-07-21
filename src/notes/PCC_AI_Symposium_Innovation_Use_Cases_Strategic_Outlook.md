@@ -1,18 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy Dool,
-  Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka
-  Dhar, Panelists
-insight: 
+guest: Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy Dool, Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka Dhar, Panelists
+insight: null
 layout: post.njk
-source: 
-speaker: Dave Wessinger, Alan Missen, Marina Stojanovic, Ketki Yennemadi, Auroosa
-  Kazmi-Ishaq
+source: null
+speaker: Dave Wessinger, Alan Missen, Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 医疗健康
 - 企业价值
 title: AI研讨会纪要：创新、应用案例与战略展望

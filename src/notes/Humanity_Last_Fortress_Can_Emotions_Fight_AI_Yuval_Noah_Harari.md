@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
-speaker: 
+source: null
+speaker: null
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 情感
 - 意识
 - 人类价值

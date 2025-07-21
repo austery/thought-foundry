@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-30'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
-speaker: 
+source: null
+speaker: null
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 人类价值
 title: E43 深度对话：NotebookLM与AI内容生成的未来
 ---

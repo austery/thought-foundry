@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 无
-insight: 
+insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=Dp75wqOrtBs
 speaker: Jason Calacanis, David Sacks, Chamath Palihapitiya, David Friedberg
 tags:
 - 视频笔记
 - 国际政治
-- AI
+- 人工智能
 - 版权
 title: All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权
 ---

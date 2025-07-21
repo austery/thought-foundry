@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-08'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=C-UBrnSjdLg&t
 speaker: 吴翼
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 一席
 title: 吴翼：AI的目标困境与价值对齐
 ---

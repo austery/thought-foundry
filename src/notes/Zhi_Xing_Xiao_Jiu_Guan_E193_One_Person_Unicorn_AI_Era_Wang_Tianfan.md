@@ -3,13 +3,13 @@ author: Lei
 channel: 知行小酒馆
 date: '2025-07-10'
 guest: 汪天凡
-insight: 
+insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=2l8qpxDGWIE&t
 speaker: 雨白
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - Prompt
 - 知行小酒馆
 title: AI时代，“一人独角兽”是幻想还是未来？

@@ -1,10 +1,10 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-20
 file_name: vas_narasimhan_novartis_ceo_innovation_ai
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=A_z4Jow0c7A&t
 speaker: Nicolai Tangen,Vas Narasimhan
@@ -13,7 +13,7 @@ tags:
 - 视频笔记
 - 医药行业
 - 创新药物
-- AI
+- 人工智能
 title: 诺华CEO Vas Narasimhan：从医生到全球药企掌舵者，引领创新与变革
 ---
 

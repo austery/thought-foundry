@@ -3,14 +3,14 @@ author: Lei
 channel: 不明白播客
 date: '2025-07-10'
 guest: 李厚辰
-insight: 
+insight: null
 layout: post.njk
 source: https://bumingbai.net/2025/06/20/155-lhc-text/
 speaker: 袁莉
 tags:
 - 视频笔记
 - 中国经济
-- AI
+- 人工智能
 - 不明白播客
 title: 李厚辰：为什么“新三样”和AI救不了中国经济？- 不明白播客EP-155文字版
 ---

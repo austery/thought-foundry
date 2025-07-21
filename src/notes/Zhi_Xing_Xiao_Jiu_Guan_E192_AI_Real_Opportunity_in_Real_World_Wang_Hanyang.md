@@ -3,13 +3,13 @@ author: Lei
 channel: 知行小酒馆
 date: '2025-06-10'
 guest: 王汉洋
-insight: 
+insight: null
 layout: post.njk
-source: 
+source: null
 speaker: 雨白
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 个人成长
 - 知行小酒馆
 title: '知行小酒馆 E192 | 嘉宾: 王汉洋'

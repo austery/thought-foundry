@@ -1,17 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: Noam Chomsky, Joscha Bach, Avi Loeb, Karl Friston, Philip Goff, Tim Maudlin,
-  Donald Hoffman, Norman Wildberger
-insight: 
+guest: Noam Chomsky, Joscha Bach, Avi Loeb, Karl Friston, Philip Goff, Tim Maudlin, Donald Hoffman, Norman Wildberger
+insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=GxZp6890hQk
 speaker: Curt Jaimungal
 tags:
 - 视频笔记
 - 语言学
-- AI
+- 人工智能
 - 泛心论
 title: 与诺姆·乔姆斯基的对话：泛心论、大语言模型与人工智能意识
 ---

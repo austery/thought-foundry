@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
 speaker: 李厚辰
 tags:
 - 视频笔记
 - 读书价值
-- AI
+- 人工智能
 - 专注力
 title: 市民茶室：读书的价值在数字时代的再思考
 ---

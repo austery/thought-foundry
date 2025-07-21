@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-28'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
+source: null
 speaker: Guido,Yoko
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 软件开发
 title: AI and the Future of Software Development
 ---

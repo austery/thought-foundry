@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: Mohan
-insight: 
+insight: null
 layout: post.njk
-source: 
+source: null
 speaker: INDIGO
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 意识
 - Agent
 title: AI 的下一步是“意识觉醒”还是“集体游魂”？ - INDIGO TALK EP28

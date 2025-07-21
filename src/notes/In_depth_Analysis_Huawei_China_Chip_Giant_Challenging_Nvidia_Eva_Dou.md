@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: Eva Dou
-insight: 
+insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=0R37p35EoeM&list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV
 speaker: Joe Weisenthal, Tracy Alloway
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 英伟达
 title: 深度解析：挑战英伟达的中国芯片巨头华为
 ---

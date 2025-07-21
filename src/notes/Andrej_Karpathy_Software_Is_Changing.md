@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-20'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
+source: null
 speaker: Andrej Karpathy
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - Thinking
 title: Software Is Changing (Again)
 ---

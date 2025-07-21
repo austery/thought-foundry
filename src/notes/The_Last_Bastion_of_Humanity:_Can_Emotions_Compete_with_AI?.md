@@ -2,14 +2,14 @@
 author: Lei
 channel: 尤瓦尔·诺亚·赫拉利
 date: '2025-06-11'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
-speaker: 
+source: null
+speaker: null
 tags:
 - 视频笔记
-- AI
+- 人工智能
 title: 'The Last Bastion of Humanity: Can Emotions Compete with AI?'
 ---
 

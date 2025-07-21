@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
+source: null
 speaker: 赵汗青
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 一席
 title: 【一席】赵汗青：我如何拥抱AIGC
 ---

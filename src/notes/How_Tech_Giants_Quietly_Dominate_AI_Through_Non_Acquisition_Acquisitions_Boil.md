@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
-speaker: 
+speaker: null
 tags:
 - 视频笔记
-- AI
+- 人工智能
 - 反垄断
 title: 科技巨头如何通过“非收购式收购”悄然主导AI领域
 ---
