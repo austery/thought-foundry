@@ -1,9 +1,10 @@
 ---
 author: Lei
-date: '2025-06-14'
-guest: ''
-layout: post.njk
 channel: 一席
+date: '2025-06-14'
+guest: 
+insight: 
+layout: post.njk
 source: https://www.youtube.com/watch?v=1zL655wp5zg&t
 speaker: 王俊
 tags:

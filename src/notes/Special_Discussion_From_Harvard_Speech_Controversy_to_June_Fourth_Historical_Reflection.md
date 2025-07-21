@@ -1,15 +1,16 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
 guest: 老尹
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 路飞
 tags:
 - 视频笔记
 - 哈佛演讲
-- 政治反思
+- 政治
 title: 专题讨论：从哈佛演讲争议到六四历史反思
 ---
 

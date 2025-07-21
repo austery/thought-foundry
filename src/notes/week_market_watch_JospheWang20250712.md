@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-12'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=y2owYAa3TPY&t
 speaker: Joseph Wang
 tags:

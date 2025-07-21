@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: https://www.youtube.com/@norgesbankinvestmentmanagement
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: 'https://www.youtube.com/@norgesbankinvestmentmanagement'
-source: 'https://www.youtube.com/watch?v=M01NZc2QlDk&t'
+source: https://www.youtube.com/watch?v=M01NZc2QlDk&t
 speaker: 克里斯·霍恩爵士，尼古拉·坦根
 tags:
 - 视频笔记

@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-19'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: Google Gemini
 tags:
 - Deep Research

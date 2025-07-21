@@ -2,9 +2,10 @@
 author: Lei
 date: '2025-07-18'
 guest: 曹丰泽
+insight: 
 layout: post.njk
 program: 知行小酒馆
-source: ''
+source: 
 speaker: 雨白
 tags:
 - 视频笔记

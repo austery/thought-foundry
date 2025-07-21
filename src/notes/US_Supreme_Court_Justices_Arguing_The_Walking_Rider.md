@@ -1,9 +1,10 @@
 ---
 author: Lei
-date: '2025-06-20'
-guest: ''
-layout: post.njk
 channel: 徒步的骑手播客
+date: '2025-06-20'
+guest: 
+insight: 
+layout: post.njk
 source: https://www.youtube.com/watch?v=DLAUDk0TFWA
 speaker: 徒步的骑手
 tags:

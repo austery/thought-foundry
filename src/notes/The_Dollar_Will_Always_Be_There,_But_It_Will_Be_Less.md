@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: Kenneth Rogoff
 tags:
 - 视频笔记

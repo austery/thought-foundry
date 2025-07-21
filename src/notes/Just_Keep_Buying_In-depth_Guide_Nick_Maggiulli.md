@@ -1,11 +1,12 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.harriman-house.com/press/full/4200
-speaker: ''
+speaker: 
 tags:
 - 视频笔记
 - JustKeepBuying

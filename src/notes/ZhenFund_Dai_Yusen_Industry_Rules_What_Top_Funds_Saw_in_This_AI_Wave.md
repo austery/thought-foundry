@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 戴雨森
 tags:
 - 视频笔记

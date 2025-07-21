@@ -2,6 +2,7 @@
 author: Lei
 date: '2025-07-09'
 guest: 李志忠（菠萝）
+insight: 
 layout: post.njk
 program: 知行小酒馆
 source: https://www.youtube.com/watch?v=giSlEc0ZofI&t

@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 逃课访谈
 date: '2025-07-10'
 guest: Ben，hris
+insight: 
 layout: post.njk
-channel: 逃课访谈
 source: https://www.youtube.com/watch?v=Zpdu-DUU9fY&t
 speaker: 投资TALK君
 tags:

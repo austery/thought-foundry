@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-08'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=C-UBrnSjdLg&t
 speaker: 吴翼
 tags:

@@ -1,11 +1,12 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-08'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
-speaker: ''
+source: 
+speaker: 
 tags:
 - 视频笔记
 - 生命科学

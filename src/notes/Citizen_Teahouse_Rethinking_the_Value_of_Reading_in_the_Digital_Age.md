@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 speaker: 李厚辰
 tags:
 - 视频笔记

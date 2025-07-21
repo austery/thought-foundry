@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-04-27'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=wv779vmyPVY&t
 speaker: Jeremy Utley
 tags:

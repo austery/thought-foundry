@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-05-25'
 guest: Yushan
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 泓君
 tags:
 - 视频笔记

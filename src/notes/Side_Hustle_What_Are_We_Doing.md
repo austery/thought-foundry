@@ -1,10 +1,11 @@
 ---
 author: Lei
-date: '2025-06-07'
-guest: ''
-layout: post.njk
 channel: 一口新饭
-source: ''
+date: '2025-06-07'
+guest: 
+insight: 
+layout: post.njk
+source: 
 speaker: Yehuan
 tags:
 - 视频笔记

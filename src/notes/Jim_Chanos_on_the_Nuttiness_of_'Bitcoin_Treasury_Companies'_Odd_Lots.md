@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-30'
 guest: Jim Chanos
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.bloomberg.com/news/articles/2024-07-02/odd-lots-jim-chanos-on-the-nuttiness-of-bitcoin-treasury-companies
 speaker: Tracy Alloway, Joe Weisenthal
 tags:

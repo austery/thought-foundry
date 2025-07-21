@@ -1,11 +1,12 @@
 ---
 author: Lei
-date: '2025-06-11'
-guest: ''
-layout: post.njk
 channel: 尤瓦尔·诺亚·赫拉利
-source: ''
-speaker: ''
+date: '2025-06-11'
+guest: 
+insight: 
+layout: post.njk
+source: 
+speaker: 
 tags:
 - 视频笔记
 - AI

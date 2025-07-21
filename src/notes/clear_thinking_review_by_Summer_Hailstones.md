@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2024-10-26'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=rCJ6U0mIPOQ&t
 speaker: 夏冰雹
 tags:

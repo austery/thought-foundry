@@ -1,5 +1,6 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-20'
 guest: Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, Sonal
   Misra, Caleb Waldemar, Kristy Liu, Mary Henschel, Julia Groza, Raka Dhar, Jenna
@@ -7,9 +8,9 @@ guest: Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, 
   Kaur, Victor Tarnovski, Dave Chodos, Kate Kaplya, Charley Yang, Maja Madirazza,
   Krisika Suthan, Rahim Hashwani, Cedric Anne, Dean Slawson, Lisa Jarrett, Dr. Cindy
   Plunkett
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq
 tags:
 - 视频笔记

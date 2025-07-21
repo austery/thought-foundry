@@ -1,11 +1,12 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-06'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=0vB4CiIiOYU&t
-speaker: ''
+speaker: 
 tags:
 - 视频笔记
 - 美国经济

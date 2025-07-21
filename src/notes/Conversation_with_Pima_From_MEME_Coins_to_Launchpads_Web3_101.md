@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: Web3 101
 date: '2025-07-10'
 guest: 匹马 (Continue Capital)
+insight: 
 layout: post.njk
-channel: Web3 101
-source: ''
+source: 
 speaker: 刘峰, Jack
 tags:
 - 视频笔记

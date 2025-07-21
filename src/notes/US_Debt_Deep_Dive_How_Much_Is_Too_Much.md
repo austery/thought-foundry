@@ -1,9 +1,10 @@
 ---
 author: Lei
-date: '2025-06-25'
-guest: ''
-layout: post.njk
 channel: About That
+date: '2025-06-25'
+guest: 
+insight: 
+layout: post.njk
 source: https://www.youtube.com/watch?v=PQOmqA5zgds&t
 speaker: Andrew Chang
 tags:

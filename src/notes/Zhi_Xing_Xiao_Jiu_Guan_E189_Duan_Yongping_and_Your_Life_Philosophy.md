@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
 guest: 小波老师
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 雨白
 tags:
 - 视频笔记

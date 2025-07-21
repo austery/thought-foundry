@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-07'
 guest: Vincent, Jay, Thomas
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 独行
 tags:
 - 视频笔记

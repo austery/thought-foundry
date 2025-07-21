@@ -1,11 +1,12 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-06'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
-speaker: ''
+source: 
+speaker: 
 tags:
 - 视频笔记
 - 小小而美

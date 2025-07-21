@@ -1,11 +1,12 @@
 ---
 author: Lei
-date: '2025-06-28'
-guest: ''
-layout: post.njk
 channel: 老科谈科技股
+date: '2025-06-28'
+guest: 
+insight: 
+layout: post.njk
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
-speaker: ''
+speaker: 
 tags:
 - 视频笔记
 - 投资

@@ -1,9 +1,10 @@
 ---
 author: Lei
-date: '2025-07-10'
-guest: ''
-layout: post.njk
 channel: 一席
+date: '2025-07-10'
+guest: 
+insight: 
+layout: post.njk
 source: https://www.youtube.com/watch?v=Jm9n1d2G3a4
 speaker: 李治中
 tags:

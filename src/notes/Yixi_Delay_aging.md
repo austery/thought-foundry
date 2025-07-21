@@ -1,10 +1,11 @@
 ---
 author: Lei
-date: '2020-07-10'
-guest: ''
-layout: post.njk
 channel: 一席
-source: ''
+date: '2020-07-10'
+guest: 
+insight: 
+layout: post.njk
+source: 
 speaker: 田烨
 tags:
 - 视频笔记

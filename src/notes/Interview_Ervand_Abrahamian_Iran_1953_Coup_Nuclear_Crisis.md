@@ -1,10 +1,11 @@
 ---
 author: Lei
-date: '2025-07-10'
-guest: ''
-layout: post.njk
 channel: 王路飞
-source: ''
+date: '2025-07-10'
+guest: 
+insight: 
+layout: post.njk
+source: 
 speaker: 厄尔凡德·阿布拉哈米安
 tags:
 - 视频笔记

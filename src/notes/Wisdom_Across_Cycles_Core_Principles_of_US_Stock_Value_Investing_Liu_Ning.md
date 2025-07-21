@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
 guest: 刘宁
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=Feck2fSffmI&t
 speaker: 方总
 tags:

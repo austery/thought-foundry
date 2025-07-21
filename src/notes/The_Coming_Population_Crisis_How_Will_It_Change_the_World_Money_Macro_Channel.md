@@ -1,11 +1,12 @@
 ---
 author: Lei
-date: '2025-07-10'
-guest: ''
-layout: post.njk
 channel: Money & Macro
+date: '2025-07-10'
+guest: 
+insight: 
+layout: post.njk
 source: https://www.youtube.com/watch?v=DDEOCJvmzKo&t
-speaker: ''
+speaker: 
 tags:
 - 视频笔记
 - 人口危机

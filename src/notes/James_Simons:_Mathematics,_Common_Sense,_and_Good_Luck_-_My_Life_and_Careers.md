@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-11'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 詹姆斯·西蒙斯
 tags:
 - 视频笔记

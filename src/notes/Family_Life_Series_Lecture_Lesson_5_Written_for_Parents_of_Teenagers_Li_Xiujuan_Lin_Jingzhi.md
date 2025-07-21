@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=xpAXGC-iKlo
 speaker: 林静芝,李秀全
 tags:

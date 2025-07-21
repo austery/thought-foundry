@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-15'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=nMSBPYk1nwQ&t
 speaker: 李笑来,脱不花
 tags:

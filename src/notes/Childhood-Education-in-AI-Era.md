@@ -1,10 +1,11 @@
 ---
 author: Lei
-date: '2025-05-25'
-guest: ''
-layout: post.njk
 channel: Ezra Klein Show
-source: ''
+date: '2025-05-25'
+guest: 
+insight: 
+layout: post.njk
+source: 
 speaker: Ezra，Rebecca
 tags:
 - 视频笔记

@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-05-25'
 guest: Catherine Rampell
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: Ezra Klein
 tags:
 - 视频笔记

@@ -2,6 +2,7 @@
 author: Lei
 date: '2025-07-12'
 guest: 
+insight: 
 layout: post.njk
 program: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Jm_R84hY1n0

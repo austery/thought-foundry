@@ -1,7 +1,8 @@
 ---
 author: Lei
 date: '2024-02-21'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
 source: https://www.youtube.com/watch?v=Yqn0lv9ymLk
 speaker: LEI

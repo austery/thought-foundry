@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 知行小酒馆
 date: '2025-06-10'
 guest: 王汉洋
+insight: 
 layout: post.njk
-channel: 知行小酒馆
-source: ''
+source: 
 speaker: 雨白
 tags:
 - 视频笔记

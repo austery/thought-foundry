@@ -1,9 +1,10 @@
 ---
 author: Lei
-date: '2025-06-13'
-guest: ''
-layout: post.njk
 channel: The Plain Bagel
+date: '2025-06-13'
+guest: 
+insight: 
+layout: post.njk
 source: https://www.youtube.com/watch?v=H7xCo0CJ02A
 speaker: Richard
 tags:

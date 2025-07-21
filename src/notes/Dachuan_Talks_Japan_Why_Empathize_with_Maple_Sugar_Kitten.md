@@ -1,11 +1,12 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: '#${id}'
-speaker: ''
+speaker: 
 tags:
 - 视频笔记
 - 枫糖小猫

@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=-a_umjxdcIg&t
 speaker: 李厚辰
 tags:

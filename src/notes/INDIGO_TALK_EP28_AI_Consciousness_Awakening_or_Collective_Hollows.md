@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
 guest: Mohan
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: INDIGO
 tags:
 - 视频笔记

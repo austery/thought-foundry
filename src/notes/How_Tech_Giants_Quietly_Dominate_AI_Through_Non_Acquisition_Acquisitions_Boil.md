@@ -1,11 +1,12 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
-speaker: ''
+speaker: 
 tags:
 - 视频笔记
 - AI

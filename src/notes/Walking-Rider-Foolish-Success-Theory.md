@@ -1,10 +1,11 @@
 ---
 author: Lei
-date: '2025-05-25'
-guest: ''
-layout: post.njk
 channel: LiuTalks
-source: ''
+date: '2025-05-25'
+guest: 
+insight: 
+layout: post.njk
+source: 
 speaker: 徒步的骑手
 tags:
 - 视频笔记

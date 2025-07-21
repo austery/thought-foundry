@@ -1,11 +1,12 @@
 ---
 author: Lei
-date: '2025-07-10'
-guest: ''
-layout: post.njk
 channel: 一席
-source: ''
-speaker: ''
+date: '2025-07-10'
+guest: 
+insight: 
+layout: post.njk
+source: 
+speaker: 
 tags:
 - 视频笔记
 - 活法

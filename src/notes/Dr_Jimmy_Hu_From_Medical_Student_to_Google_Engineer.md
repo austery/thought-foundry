@@ -1,15 +1,16 @@
 ---
 author: Lei
-date: "2025-07-10"
-guest: ""
+channel: https://www.youtube.com/@Dr.IreneLee/featured
+date: '2025-07-10'
+guest: 
+insight: 
 layout: post.njk
-channel: "https://www.youtube.com/@Dr.IreneLee/featured"
-source: "https://www.youtube.com/watch?v=AbjE0-Nran4&t"
+source: https://www.youtube.com/watch?v=AbjE0-Nran4&t
 speaker: Jimmy Hu,Irene
 tags:
-  - 视频笔记
-  - 谷歌工程师
-  - 医学影像AI
+- 视频笔记
+- 谷歌工程师
+- 医学影像AI
 title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
 ---
 

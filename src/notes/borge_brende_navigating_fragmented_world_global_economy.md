@@ -1,11 +1,14 @@
 ---
 author: Lei
-date: 2025-06-17
-guest: ''
-layout: post.njk
 channel: 
-source:
+date: 2025-06-17
+file_name: borge_brende_world_orders_global_cooperation_digital_transformation
+guest: 
+insight: 
+layout: post.njk
+source: 
 speaker: Nicolai Tangen,Børge Brende
+summary: 世界经济论坛总裁Børge Brende探讨了在日益加剧的极化时代，世界领导者如何寻求共识，分析了地缘政治格局、全球市场的韧性、人工智能的变革力量，以及达沃斯论坛如何创造解决问题的机遇。
 tags:
 - 视频笔记
 - 世界经济论坛
@@ -13,8 +16,6 @@ tags:
 - 全球经济
 - 人工智能
 title: Børge Brende：在世界秩序之间，驾驭全球合作与数字化转型
-summary: 世界经济论坛总裁Børge Brende探讨了在日益加剧的极化时代，世界领导者如何寻求共识，分析了地缘政治格局、全球市场的韧性、人工智能的变革力量，以及达沃斯论坛如何创造解决问题的机遇。
-file_name: borge_brende_world_orders_global_cooperation_digital_transformation
 ---
 
 ## 世界经济论坛的角色与愿景

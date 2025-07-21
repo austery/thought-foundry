@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: '#section-1'
 speaker: Steve Paikin, Chris Ragan
 tags:

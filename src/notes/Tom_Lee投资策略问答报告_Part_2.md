@@ -1,11 +1,12 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-05'
 guest: Tom Lee
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=VIDEO_ID_HERE
-speaker: ''
+speaker: 
 tags:
 - 视频笔记
 - 投资

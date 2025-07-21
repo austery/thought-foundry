@@ -1,16 +1,16 @@
 ---
 author: Lei
-date: '2024-10-10'
-guest: ''
-layout: post.njk
 channel: 大问题Dialectic
+date: '2024-10-10'
+guest: 
+insight: 
+layout: post.njk
 source: https://www.youtube.com/watch?v=XXK5wOWh7vM&t
 speaker: 夏先生
 tags:
 - 视频笔记
 - 真相与信念
-- 自我PUA
-- 哲学讨论
+- 哲学
 - 认知理由
 - 实践理由
 title: 当真相无比残酷，我们还应该相信吗？如何进行自我PUA？

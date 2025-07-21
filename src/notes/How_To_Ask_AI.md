@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-07'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=zx1T6TLDZ5I
 speaker: Max (全麦AI搜索)
 tags:

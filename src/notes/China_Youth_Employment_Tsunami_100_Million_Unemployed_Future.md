@@ -1,10 +1,11 @@
 ---
 author: Lei
-date: '2025-07-10'
-guest: ''
-layout: post.njk
 channel: 老周横眉
-source: ''
+date: '2025-07-10'
+guest: 
+insight: 
+layout: post.njk
+source: 
 speaker: 老周
 tags:
 - 视频笔记

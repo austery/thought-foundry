@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-11'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 李厚辰、贾葭、伍雷
 tags:
 - 视频笔记

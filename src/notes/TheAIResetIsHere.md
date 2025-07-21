@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-05-25'
 guest: Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: Peter Diamandis
 tags:
 - 视频笔记

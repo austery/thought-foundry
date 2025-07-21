@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-06-09'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 市场分析员 小涛
 tags:
 - 视频笔记

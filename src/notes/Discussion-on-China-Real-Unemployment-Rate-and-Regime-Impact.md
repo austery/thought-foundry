@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-05-25'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: 夸克
 tags:
 - 视频笔记

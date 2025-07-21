@@ -1,9 +1,10 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
 guest: 老修, 闲哥
+insight: 
 layout: post.njk
-channel: ''
 source: https://www.youtube.com/watch?v=S23kV4knddk&t
 speaker: 小苏
 tags:

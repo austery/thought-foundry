@@ -1,10 +1,11 @@
 ---
 author: Lei
-date: '2025-07-10'
-guest: ''
-layout: post.njk
 channel: 硅谷101
-source: ''
+date: '2025-07-10'
+guest: 
+insight: 
+layout: post.njk
+source: 
 speaker: 陈茜, 刘一鸣, 鲁漪文
 tags:
 - 视频笔记

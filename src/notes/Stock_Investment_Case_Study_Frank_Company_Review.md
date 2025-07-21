@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 加拿大ETF投资小组
 date: '2025-07-10'
 guest: Frank, Vivian, Zhao Rui, Wang Will, Alvin
+insight: 
 layout: post.njk
-channel: 加拿大ETF投资小组
-source: ''
+source: 
 speaker: Lei
 tags:
 - 视频笔记

@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
 guest: Vivian, michelle, alvin, Frank
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: Lei
 tags:
 - 视频笔记

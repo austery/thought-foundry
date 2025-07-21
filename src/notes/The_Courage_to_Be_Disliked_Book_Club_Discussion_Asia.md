@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-10'
-guest: ''
+guest: 
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel,
   David
 tags:

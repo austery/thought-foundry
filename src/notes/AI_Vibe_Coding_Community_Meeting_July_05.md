@@ -1,10 +1,11 @@
 ---
 author: Lei
+channel: 
 date: '2025-07-06'
 guest: Amy, Ray, Jay, Vincent
+insight: 
 layout: post.njk
-channel: ''
-source: ''
+source: 
 speaker: Dusing
 tags:
 - 视频笔记

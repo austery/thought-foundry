@@ -1,9 +1,10 @@
 ---
 author: Lei
-date: '2025-07-07'
-guest: ''
-layout: post.njk
 channel: 一席
+date: '2025-07-07'
+guest: 
+insight: 
+layout: post.njk
 source: hhttps://www.youtube.com/watch?v=tnEp7uwrlLo
 speaker: 王佳莹
 tags:
