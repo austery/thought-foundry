@@ -5,7 +5,7 @@ guest: ''
 layout: post.njk
 podcast_program: ''
 source: ''
-speaker: Vivian, Simon L, Ge Su, 路遥, Kathy, 翻新, Fancy
+speaker: Vivian, Simon L,Ge Su, 路遥, Kathy, 翻新, Fancy
 tags:
 - 视频笔记
 - 副业
@@ -14,7 +14,6 @@ tags:
 title: 「欧洲_北美场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 ---
 
-# 「欧洲|北美场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 
 ## 开场与介绍
 

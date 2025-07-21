@@ -11,16 +11,10 @@ tags:
 - 美元
 - 全球经济
 - 货币霸权
-title: Kenneth Rogoff on the Dollar's Future
+title: 美元将永远存在，但其地位将有所削弱
 ---
 
-# The Dollar Will Always Be There, But It Will Be Less
-
-# 美元将永远存在，但其地位将有所削弱
-
-**Featuring: Kenneth Rogoff**
-
-**嘉宾：肯尼斯·罗格夫**
+**Kenneth Rogoff**
 
 Distinguished Professor of Economics at Harvard University, former Chief
 Economist at the International Monetary Fund (IMF), and an accomplished

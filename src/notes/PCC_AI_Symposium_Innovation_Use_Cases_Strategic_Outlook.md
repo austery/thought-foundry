@@ -3,8 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy Dool,
   Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka
-  Dhar, Panelists (Rahim Hashwani, Jared Pilcher, Cedric Anne, Lisa Jarrett, Dean
-  Slawson)
+  Dhar, Panelists
 layout: post.njk
 podcast_program: ''
 source: ''
@@ -17,8 +16,6 @@ tags:
 - 企业价值
 title: AI研讨会纪要：创新、应用案例与战略展望
 ---
-
-# AI 研讨会纪要：创新、应用案例与战略展望
 
 ## 主题演讲对话：AI 的紧迫性与机遇
 

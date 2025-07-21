@@ -1,17 +1,16 @@
 ---
 author: Lei
 date: '2025-07-12'
-guest: 林静芝师母
+guest: 
 layout: post.njk
 podcast_program: ''
 source: https://www.youtube.com/watch?v=0_3-hCgQ36c
-speaker: 李秀全老师
+speaker: 林静芝,李秀全
 tags:
 - 视频笔记
-- 青少年教育
-- 亲子关系
+- 婚姻关系
 - 家庭生活
-- 父亲角色
+- 宗教
 title: 写给青少年的父母（下）
 ---
 

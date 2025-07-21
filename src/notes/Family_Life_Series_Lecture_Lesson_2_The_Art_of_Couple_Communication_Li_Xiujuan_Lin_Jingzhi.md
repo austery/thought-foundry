@@ -3,20 +3,16 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 林静芝，李秀全
-source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
+podcast_program: 林静芝,李秀全
+source: https://www.youtube.com/watch?v=04G3ti78ZFk&t
 speaker: ''
 tags:
 - 视频笔记
-- 夫妻沟通
 - 婚姻关系
-- 沟通艺术
-- 家庭生活
-- 两性关系
+- 宗教
 title: 家庭生活系列讲座 - 第二课：夫妻沟通的艺术
 ---
 
-# 家庭生活讲座 - 第二课：夫妻沟通的艺术
 
 ## 开场与引言
 

@@ -13,7 +13,6 @@ tags:
 title: 《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary
 ---
 
-*The Minimalist Entrepreneur Book Club Summary*
 
 ## 开场与引言 (Opening & Introduction)
 

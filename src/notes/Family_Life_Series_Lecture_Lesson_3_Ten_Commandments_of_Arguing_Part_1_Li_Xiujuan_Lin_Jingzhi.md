@@ -5,14 +5,12 @@ guest: 无
 layout: post.njk
 podcast_program: ''
 source: https://www.youtube.com/watch?v=oP3lqZMNjts
-speaker: 李秀全, 林静芝
+speaker: 林静芝,李秀全
 tags:
 - 视频笔记
-- 吵架十诫
-- 夫妻沟通
 - 婚姻关系
-- 家庭生活
-- 两性关系
+- 夫妻沟通
+- 宗教
 title: 家庭生活系列讲座 第三课：吵架十诫
 ---
 

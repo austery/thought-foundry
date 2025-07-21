@@ -1,16 +1,16 @@
 ---
 author: Lei
 date: '2025-07-12'
-guest: 林静兰
+guest: 
 layout: post.njk
 program: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Jm_R84hY1n0
-speaker: 李秀全
+speaker: 林静芝,李秀全
 tags:
 - 视频笔记
 - 团契
 - 宗教
-- 家庭
+- 婚姻关系
 title: 家庭生活系列讲座-六：婆媳之间
 ---
 ## 引言：家庭关系的探讨

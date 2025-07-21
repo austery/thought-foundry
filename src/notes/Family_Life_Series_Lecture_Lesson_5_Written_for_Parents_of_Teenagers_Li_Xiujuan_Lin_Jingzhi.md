@@ -5,12 +5,13 @@ guest: ''
 layout: post.njk
 podcast_program: ''
 source: https://www.youtube.com/watch?v=xpAXGC-iKlo
-speaker: 李秀全, 林静芝
+speaker: 林静芝,李秀全
 tags:
 - 视频笔记
-- 青少年教育
+- 婚姻关系
 - 亲子关系
 - 家庭生活
+- 宗教
 title: 家庭生活系列讲座 - 第五课：写给青少年的父母
 ---
 

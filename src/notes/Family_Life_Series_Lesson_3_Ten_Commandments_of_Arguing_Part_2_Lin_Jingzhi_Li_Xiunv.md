@@ -1,18 +1,15 @@
 ---
 author: Lei
 date: '2025-07-10'
-guest: 李秀女老师
+guest: 
 layout: post.njk
 podcast_program: ''
 source: https://www.youtube.com/watch?v=F0fT7u99J3g
-speaker: 林静芝师母
+speaker: 林静芝,李秀全
 tags:
 - 视频笔记
-- 吵架十诫
-- 夫妻沟通
 - 婚姻关系
-- 家庭生活
-- 两性关系
+- 宗教
 title: 家庭生活系列[三]：吵架十诫 (下)
 ---
 

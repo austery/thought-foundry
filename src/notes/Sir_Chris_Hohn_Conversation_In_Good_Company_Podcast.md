@@ -3,17 +3,15 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: ''
-source: ''
-speaker: 克里斯·霍恩爵士（TCI创始人），尼古拉·坦根（主持人，挪威银行投资管理公司）
+podcast_program: 'https://www.youtube.com/@norgesbankinvestmentmanagement'
+source: 'https://www.youtube.com/watch?v=M01NZc2QlDk&t'
+speaker: 克里斯·霍恩爵士，尼古拉·坦根
 tags:
 - 视频笔记
 - 投资
 - 护城河
 title: 克里斯·霍恩爵士在挪威银行投资管理公司《In Good Company》播客上的对话
 ---
-
-# 克里斯·霍恩爵士在《In Good Company》播客上的对话
 
 **Speakers:** Sir Chris Hohn (Founder of TCI), Nikolai Tangan (Host,
 Norges Bank Investment Management)
@@ -23,7 +21,7 @@ Norges Bank Investment Management)
 
 ## 引言 (Introduction)
 
-### Nikolai Tangan:
+### Nikolai Tangan
 
 Hi everyone, I'm Nikolai Tangan, and today we are joined by one of the
 best investors of all time, actually. Sir Chris Hohn, not only is his
@@ -38,13 +36,13 @@ TCI
 
 ## 优质投资的核心 (The Core of a Good Investment)
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 Let's start with the investment world. What makes a good investment?
 
 让我们从投资世界开始。什么构成了一项好的投资？
 
-### Chris Hohn:
+**Chris Hohn**
 
 I think this is something a lot of people get wrong. They think it's
 about growth often, or something new. Neither of those things in
@@ -54,7 +52,7 @@ to entry—the moats that Warren Buffett has talked about.
 
 我认为很多人在这一点上都理解错了。他们常常认为关键在于增长，或者是什么新事物。但对我们来说，这两者本身并不重要。最重要的一点，也是我们这类投资不可或缺的，是高进入壁垒——也就是沃伦·巴菲特所说的“护城河”。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 Before we dig into that, can a distressed asset of a piece of real
 estate that's selling at half price because of a liquidation also be a
@@ -62,7 +60,7 @@ good investment?
 
 在我们深入探讨之前，我想问一下，一个因清算而以半价出售的不良房地产资产，也能算是一项好的投资吗？
 
-### Chris Hohn:
+**Chris Hohn**
 
 Yes. So, can there be a role for cheap average assets? Yes, let's call
 them low-quality assets which are trading at big discounts to
@@ -134,14 +132,14 @@ reluctant to mess with it and switch because of the complexity.
 
 另一个进入壁垒是“已安装基础”，这在飞机发动机业务中尤为明显。一旦这些发动机被安装，出于各种原因，你就能获得其备件业务。还有一个壁垒是规模，尽管这并不能保证形成竞争护城河。“网络效应”是另一个重要的进入壁垒，你可以在像 Visa 和 Meta 这样的资产中看到这一点，它们是网络效应的两个例子。“品牌”也是一个进入壁垒，但我并不是说每个品牌都很强大。但比如麦当劳，它就具有价值。有些品牌强大且可持续，但并非所有品牌都如此。我再提一个护城河，那就是“客户转换成本”。以关键任务软件为例：一旦安装，由于其复杂性，公司非常不愿意去改动和更换。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 How important are recurring revenue streams for you when you look at
 businesses?
 
 在您考察企业时，经常性收入流对您有多重要？
 
-### Chris Hohn:
+**Chris Hohn**
 
 It is important, but the predictability of when they recur is not. Let
 me give you an example. So what's most important for us is something
@@ -161,13 +159,13 @@ streams of essential products.
 
 ## 增长、定价权与监管 (Growth, Pricing Power, and Regulation)
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 So do they have to grow?
 
 那么，它们必须增长吗？
 
-### Chris Hohn:
+**Chris Hohn**
 
 Depending on valuation, not necessarily, or not necessarily at a fast
 rate. And growth can come from two forms: volume and price. So you have
@@ -181,14 +179,14 @@ without barriers to entry is not a combination that you want.
 
 这取决于估值，不一定需要增长，或者不一定需要高速增长。增长可以来自两个方面：销量和价格。所以你必须将其分解来看。那么，为什么增长并不像投资者通常认为的那么重要呢？因为你可能会有“无利润的增长”。航空业在过去一百年里增长显著，航空旅行量每年持续增长 5%。但作为一个行业，尽管有增长，航空公司累积起来的利润却微乎其微，原因就是进入壁垒极低。所以，我会说，没有进入壁垒的增长并不是你想要的组合。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 Some of these businesses are quite capital intensive, like it's not
 cheap to build an airport. Does that matter for you?
 
 其中一些业务是相当资本密集型的，比如建一个机场并不便宜。这对您来说重要吗？
 
-### Chris Hohn:
+**Chris Hohn**
 
 Well, you have to look at everything in detail. Some airports, well all
 airports have regulation on landing charges, but for some the
@@ -219,14 +217,14 @@ the leveraged effect—there's no cost associated with it.
 
 我想回到增长来源于价格和销量这一点。大多数公司没有定价权。如果幸运的话，它们最多只能按通胀率定价。这就是为什么人们不关注它，他们只是假设增长等于销量加上通胀。但有一类特殊的“超级公司”，它们能够以高于通胀率的速度提价。正如巴菲特所教导的，这就是检验你是否拥有护城河的标准。这种超越通胀的真实定价权非常有价值。因为如果你能以高于通胀 1%的价格提价，并且有 20%的利润率，那么你的利润增长速度将比收入快 5%。人们不去分析它，是因为拥有这种能力的公司太少了。但我们很多投资都具备这一点，因为增量定价几乎全是利润。这就是为什么我区分销量增长和价格增长。如果我的销量增长缓慢，但价格增长强劲，后者实际上更重要，因为它具有杠杆效应——没有与之相关的成本。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 What about regulation? You've been big in things like electricity
 transmission.
 
 那么监管呢？您在电力传输等领域有大量投资。
 
-### Chris Hohn:
+**Chris Hohn**
 
 Yes, I have. And actually, it's a general risk. If you have barriers
 that are too low, competition or substitution eliminates your business.
@@ -247,14 +245,14 @@ Whitney）与通用电气（GE）和赛峰集团（Safran）竞争。它占据�
 
 ## 投资组合：精选与规避 (Investment Portfolio: Selection and Avoidance)
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 What are the type of companies you would never invest in? Type of
 industries.
 
 有哪些类型的公司是您永远不会投资的？或者说哪些行业？
 
-### Chris Hohn:
+**Chris Hohn**
 
 That's a good question. We have a long list of companies we don't invest
 in. We're very focused and we call them the "risky and bad industries."
@@ -277,13 +275,13 @@ most things in manufacturing. Most industries are bad industries.
 
 还有什么？很多。汽车行业显然是大宗商品化的，还有零售、保险、大宗商品、大宗商品制造业、烟草。事实上，制造业中的大多数东西都属于此列。大多数行业都是劣质行业。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 Chris, it doesn't leave a big universe.
 
 克里斯，这样一来，可选的范围就不大了。
 
-### Chris Hohn:
+**Chris Hohn**
 
 Correct. We say maybe there's 200 companies that we consider to be high
 quality and investable. I'll list you a couple more: traditional asset
@@ -299,13 +297,13 @@ look at today.
 
 ## 估值、长期主义与市场选择 (Valuation, Long-Termism, and Market Choices)
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 How do you value these companies? What is your valuation tool?
 
 您如何为这些公司估值？您的估值工具是什么？
 
-### Chris Hohn:
+**Chris Hohn**
 
 We don't even look at that until we get comfortable that the barriers
 are so strong it will be around for a long time. So barriers, fine, we
@@ -320,13 +318,13 @@ institutional investor for under a year.
 
 我们甚至不会考虑估值，直到我们确信其壁垒足够坚固，能够长期存在。所以，首先是壁垒，好的，我们认为它能存续。然后我们会对相关人员进行背景调查，看看是否遗漏了什么。我们也会评估管理层，我认为这很重要，但如果你拥有正确的资产，它就不是最关键的。之后我们才看估值。我们使用所有工具：市盈率、现金流、现金流折现（DCF），所有这些，但不会做 50 页的电子表格。说实话，我们学到的最重要的一点是：我们可以通过长期主义获得优势。机构投资者持有股票的平均时间不到一年。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 How long do you hold it?
 
 你们持有多久？
 
-### Chris Hohn:
+**Chris Hohn**
 
 The average holding period of our current portfolio is eight years. Not
 saying that's the limit, it's just the average. Some we've held for 13
@@ -349,14 +347,14 @@ you look at it over a longer period.
 
 我们当前投资组合的平均持有期是八年。我不是说这是上限，只是平均数。有些我们已经持有了 13 年。所以可能是 10 年，也可能是 20 年。我们采取的是一种私募股权的投资方法，也就是说，我们必须做好永远持有这家公司的准备，因为当你想要卖出时，股市的价格可能非常糟糕。在 DCF 模型中，最重要的是，如果你拥有一家伟大的公司，你看得越远，其价值就越大。以我们拥有的一家公司穆迪（Moody's）为例，它是一家评级机构，已经有 100 年历史了。在这 100 年里，它的平均收入增长率是 10%。这是一个在很长时期内都非常不寻常的数字。投资者，包括我自己在内，一直低估了它的价值。我在金融危机期间以 10 倍市盈率买入，然后卖掉了。我赚了一倍，市盈率从 10 倍涨到 20 倍，我在 100 美元时卖出。我当时自以为很聪明，但之后它的盈利持续复利增长。于是我在 150 美元时又买了回来，最近它的价格是 400 美元。这是因为，实际上内在价值的复利增长比股价更重要。如果你有一家伟大的公司，它的内在价值就会增长。从长远来看，估值倍数的重要性要低于增长。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 I've heard you say that there are more good companies in the public
 market than in the private market. Why do you say that?
 
 我听您说过，公开市场上的好公司比私募市场多。您为什么这么说？
 
-### Chris Hohn:
+**Chris Hohn**
 
 Because the companies that are sold to private equity are the ones that
 aren't as good. I happen to think that large companies are more likely
@@ -373,13 +371,13 @@ better than the top 100 companies in private equity.
 
 因为被卖给私募股权的公司，通常都不是最好的那些。我恰好认为，在一个行业中，大公司更有可能战胜小公司。它们有更多的资金用于研发竞争，还有规模优势。我们之前谈到规模和现有地位是关键。一个发明了新东西的小公司，就像我们谈到的 Zoom，很容易被大公司击垮。它们可以模仿。而大公司通常对于私募股权来说太大了。私募股权买不起 Visa，对它们来说太大了。所以规模将私募股权排除在了大公司之外。而且，如果一家上市公司向私募股权出售业务，通常它们不会卖掉自己最好的业务。我相信，公开市场上最好的企业比私募股权中排名前 100 的公司更好。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 When do you sell a company?
 
 您在什么时候会卖出一家公司？
 
-### Chris Hohn:
+**Chris Hohn**
 
 When our view of its intrinsic value is not as good as other things,
 including not just value but conviction. There are two components to our
@@ -398,14 +396,14 @@ loss of capital.
 
 ## 激进主义的演变与做空案例 (The Evolution of Activism and a Short-Selling Case)
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 You are, or you were, considered an activist investor. What is an
 activist investor doing?
 
 您现在或曾经被认为是一位激进投资者。激进投资者是做什么的？
 
-### Chris Hohn:
+**Chris Hohn**
 
 It's a spectrum, from full-blown hardcore—removing boards and CEOs and
 demanding the sale of a company—to what you might call soft activism,
@@ -437,14 +435,14 @@ use it.
 我很久以前曾买入一些劣质企业，比如荷兰银行（ABN
 AMRO），通过在年度股东大会上提出动议来促使其被出售，我们赚了很多钱。我们通过迫使其出售赚了十亿美元。但事实上，那家公司一文不值，却被三家后来都破产的公司——苏格兰皇家银行、富通银行和桑坦德银行——以千亿价格收购。他们不知道自己在做什么，我们也不知道。那是一场疯狂。很多激进投资者最终都在劣质企业中扮演激进角色。但业务本身总是胜出。在一家劣质企业里当激进投资者是毫无意义的。话虽如此，我们偶尔仍会采取硬核的激进主义，但那是例外。我们以所有者的身份行事。我们感兴趣，我们参与，我们认为我们有权任命董事，并且我们会行使这一权利。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 Which brings us to Wirecard. It's a bad company which you shorted. How
 was that?
 
 这就把我们带到了 Wirecard。这是一家您做空过的劣质公司。那次经历如何？
 
-### Chris Hohn:
+**Chris Hohn**
 
 We learned that shorting isn't a great business because you can be right
 but not be able to hold it or fund the losses. If you are short and the
@@ -481,13 +479,13 @@ Capital 那样，眼看着股价一直涨。要成为一个好的投资者，你
 
 ## 企业文化、慈善与人生意义 (Corporate Culture, Philanthropy, and the Meaning of Life)
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 What is the corporate culture like in TCI? How many people are you?
 
 TCI 的企业文化是怎样的？你们有多少人？
 
-### Chris Hohn:
+**Chris Hohn**
 
 In the investment team, it's seven or eight people. We want it small,
 very small. It's collegiate. We've known each other a long time and
@@ -498,14 +496,14 @@ to being wrong.
 
 投资团队有七八个人。我们希望团队规模小，非常小。我们是学院式的合作关系。我们彼此认识很久了，我们建立了一种无形的东西：信任。如果我们雇错了人，就可能毁掉这种文化。个性非常重要。你必须愿意在团队中工作，并且对承认错误持开放态度。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 A big share of the profit of the firm goes to the charitable foundation.
 Do you think it's important for your colleagues?
 
 公司利润的很大一部分都流向了慈善基金会。您认为这对您的同事们重要吗？
 
-### Chris Hohn:
+**Chris Hohn**
 
 They also earn good money, and it's probably a positive thing. I give
 away everything I earn. I don't really care about money other than its
@@ -522,13 +520,13 @@ a desire to help humanity.
 
 他们也赚很多钱，这可能是一件积极的事情。我把我赚的所有钱都捐出去了。除了在帮助他人方面的价值外，我并不真正关心钱。我是何时开始了解慈善的？当我在纽约为一家对冲基金工作时，大约三四年后，我做得不错，他们说：“你将得到一千万美元的奖金。”我当时凭着直觉说：“我不想要。我想把它捐给慈善机构。”在之后的 15 年里，我都不太明白是什么在驱动我。最终，我明白了，迟到总比不到好，那是一种“灵魂的冲动”。我们真正的本质，不是个性或肉体，而是灵魂或意识。而它的根本天性是服务，是帮助人类的渴望。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 If it's innate in everyone, why don't more people do it?
 
 如果这是每个人与生俱来的，为什么没有更多人这样做呢？
 
-### Chris Hohn:
+**Chris Hohn**
 
 Because they identify with their personality, whose basic urge is
 desire, possessions, glamour like power and money. Sooner or later,
@@ -538,13 +536,13 @@ service.
 
 因为他们认同的是自己的“个性”，而个性的基本冲动是欲望、占有、以及对权力金钱之类的迷恋。人们迟早会意识到，这些并不能真正给予他们人生的目标和意义。对我来说，除了服务，我无法在生活中找到任何其他的目标或意义。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 Tell me about the foundation. What are the main priorities?
 
 请谈谈您的基金会。主要优先事项是什么？
 
-### Chris Hohn:
+**Chris Hohn**
 
 We have about \$6.5 billion in the foundation, and we're giving away
 over \$500 million a year. Two main areas: climate change and children's
@@ -558,14 +556,14 @@ technical assistance to governments, litigation, and many other things.
 
 我们的基金会大约有 65 亿美元，每年捐赠超过 5 亿美元。主要有两个领域：气候变化，以及非洲和印度的儿童健康。在健康方面，我们关注像避孕这样的基础性问题。另一个领域是严重急性营养不良。用 40 美元买一箱治疗性食品，就可以拯救一个孩子的生命。用这么少的钱——10 美元、40 美元、50 美元——你就能拯救一条生命或防止某人失明。在气候方面，我们一直试图为气候运动创建基础设施，通过监管倡导、向政府提供技术援助、诉讼以及许多其他方式。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 Given all this, how do you read the backlash against ESG in financial
 markets?
 
 鉴于这一切，您如何看待金融市场中对 ESG（环境、社会和治理）的抵制？
 
-### Chris Hohn:
+**Chris Hohn**
 
 I think it's a very dark thing that's going on, where some people are in
 effect saying, "Burn down the planet as long as we can make money
@@ -579,13 +577,13 @@ a consciousness problem.
 
 ## 给年轻人的建议 (Advice for Young People)
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 What is your advice to young people on a kind of spiritual path?
 
 对于走在某种精神道路上的年轻人，您有什么建议？
 
-### Chris Hohn:
+**Chris Hohn**
 
 Go on a spiritual path. Study it. I would say the spiritual world is
 real. Soul is real. When I first mentioned this to my son, I think he
@@ -599,14 +597,14 @@ which the world needs. If you crack that, then everything else is easy.
 
 走上精神之路。去研究它。我想说，精神世界是真实存在的。灵魂是真实的。当我第一次和我儿子提到这个时，他大概 20 岁，他说：“爸爸，灵魂是个神话。”他现在不这么认为了。它绝对不是神话。有很多途径可以与之连接，你可以有意识地去连接。无论你走的是长路还是短路，是轻松的路还是通过苦难的艰难之路，你最终都会认识到，精神世界不仅是真实的，而且是全部。那是世界上所需的真正目标、意义和喜悦的唯一源泉。如果你破解了这一点，那么其他一切都会变得容易。
 
-### Nikolai Tangan:
+**Nikolai Tangan**
 
 Chris Hohn, we've talked a lot about purpose, meaning, joy, and what
 really matters in life. A big thank you.
 
 克里斯·霍恩，我们谈论了很多关于目标、意义、喜悦以及生命中真正重要的事情。非常感谢您。
 
-### Chris Hohn:
+**Chris Hohn**
 
 Thank you, Nikolai.
 

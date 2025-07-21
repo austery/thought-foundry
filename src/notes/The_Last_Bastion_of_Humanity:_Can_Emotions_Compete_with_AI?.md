@@ -8,9 +8,7 @@ source: ''
 speaker: ''
 tags:
 - 视频笔记
-- 人工智能
-- 人类简史
-- 尤瓦尔·赫拉利
+- AI
 title: 'The Last Bastion of Humanity: Can Emotions Compete with AI?'
 ---
 

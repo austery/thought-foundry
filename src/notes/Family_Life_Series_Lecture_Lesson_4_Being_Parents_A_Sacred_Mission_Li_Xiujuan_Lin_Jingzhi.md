@@ -5,12 +5,13 @@ guest: 林静芝
 layout: post.njk
 podcast_program: ''
 source: https://www.youtube.com/watch?v=F0mJ15eK2v4
-speaker: 李秀全
+speaker: 林静芝,李秀全
 tags:
 - 视频笔记
-- 为人父母
+- 婚姻关系
 - 亲子关系
 - 家庭教育
+- 宗教
 title: 家庭生活系列讲座 第四课：为人父母 - 一项神圣的使命
 ---
 
