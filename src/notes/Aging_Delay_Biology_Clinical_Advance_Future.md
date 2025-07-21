@@ -3,7 +3,7 @@ author: Lei
 channel: 
 date: '2025-07-19'
 guest: 
-insight: 
+insight: 听了一席的一篇关于老年和健康的视频，想更新一下这些信息是否还继续成立
 layout: post.njk
 source: 
 speaker: Google Gemini
@@ -14,8 +14,6 @@ tags:
 - 衰老
 title: 延缓衰老：从生物学理论到临床前沿的六年进展与未来展望
 ---
-
-**听了一席的一篇关于老年和健康的视频，想更新一下这些信息是否还继续成立.**
 
 ## 第一部分：重塑衰老生物学的基础认知
 

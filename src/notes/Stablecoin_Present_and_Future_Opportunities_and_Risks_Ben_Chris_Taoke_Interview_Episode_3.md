@@ -2,8 +2,8 @@
 author: Lei
 channel: 逃课访谈
 date: '2025-07-10'
-guest: Ben，hris
-insight: 
+guest: Ben,hris
+insight:
 layout: post.njk
 source: https://www.youtube.com/watch?v=Zpdu-DUU9fY&t
 speaker: 投资TALK君

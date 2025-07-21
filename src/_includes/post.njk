@@ -27,7 +27,17 @@ layout: "base.njk"
       {% endif %}
 
       {% if guest %}
-        <p><strong>嘉宾:</strong> {{ guest }}</p>
+        <p><strong>嘉宾:</strong> 
+          {# 处理多个嘉宾的情况，用逗号分隔 #}
+          {% set guests = guest.split(',') %}
+          {% for guestName in guests %}
+            {% set trimmedGuest = guestName.trim() %}
+            {% if trimmedGuest != '' %}
+              {% set guestUniqueKey = trimmedGuest | getSpeakerUniqueKey(collections) %}
+              <a class="speaker-link" href="{{ ('/speakers/' + (guestUniqueKey | slug) + '/') | url }}">{{ trimmedGuest }}</a>{% if not loop.last %}, {% endif %}
+            {% endif %}
+          {% endfor %}
+        </p>
       {% endif %}
 
       {% if source %}
