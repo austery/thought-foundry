@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Matia Wial (Antelon Capital CEO & CIO)
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=EppHLdwUqUI&t=1s
 speaker: Tracy Alloway, Joe Weisenthal (Odd Lots)
 tags:

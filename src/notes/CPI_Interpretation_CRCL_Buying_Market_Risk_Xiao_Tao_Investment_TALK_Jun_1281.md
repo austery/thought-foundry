@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-09'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: 市场分析员 小涛
 tags:

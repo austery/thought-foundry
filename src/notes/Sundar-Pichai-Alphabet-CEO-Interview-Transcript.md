@@ -3,7 +3,7 @@ author: Lei
 date: '2025-05-25'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: Sundar Pichai
 tags:

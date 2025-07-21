@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-10'
 guest: 王汉洋
 layout: post.njk
-podcast_program: 知行小酒馆
+channel: 知行小酒馆
 source: ''
 speaker: 雨白
 tags:

@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 刘宁
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=Feck2fSffmI&t
 speaker: 方总
 tags:

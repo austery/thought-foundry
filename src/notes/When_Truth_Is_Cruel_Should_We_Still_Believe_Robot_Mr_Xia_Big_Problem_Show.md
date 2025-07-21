@@ -3,7 +3,7 @@ author: Lei
 date: '2024-10-10'
 guest: ''
 layout: post.njk
-podcast_program: 大问题Dialectic
+channel: 大问题Dialectic
 source: https://www.youtube.com/watch?v=XXK5wOWh7vM&t
 speaker: 夏先生
 tags:

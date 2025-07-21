@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Murray Shanahan（帝国理工学院认知机器人学教授，Google DeepMind 首席研究科学家）
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: Hannah Fry 教授
 tags:

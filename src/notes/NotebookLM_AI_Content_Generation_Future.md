@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-11'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: 李厚辰、贾葭、伍雷
 tags:

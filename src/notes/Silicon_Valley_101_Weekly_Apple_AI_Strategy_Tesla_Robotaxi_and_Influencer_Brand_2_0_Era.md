@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 硅谷101
+channel: 硅谷101
 source: ''
 speaker: 陈茜, 刘一鸣, 鲁漪文
 tags:

@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-07'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=0h09gC2c60Y
 speaker: Anthony
 tags:

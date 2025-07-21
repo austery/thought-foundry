@@ -3,7 +3,7 @@ author: Lei
 date: '2024-10-26'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=rCJ6U0mIPOQ&t
 speaker: 夏冰雹
 tags:

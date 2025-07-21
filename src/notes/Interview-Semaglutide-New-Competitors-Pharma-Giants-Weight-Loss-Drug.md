@@ -3,7 +3,7 @@ author: Lei
 date: '2025-05-25'
 guest: Yushan
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: 泓君
 tags:

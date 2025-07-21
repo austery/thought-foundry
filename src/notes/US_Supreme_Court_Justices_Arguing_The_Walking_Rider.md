@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-20'
 guest: ''
 layout: post.njk
-podcast_program: 徒步的骑手播客
+channel: 徒步的骑手播客
 source: https://www.youtube.com/watch?v=DLAUDk0TFWA
 speaker: 徒步的骑手
 tags:

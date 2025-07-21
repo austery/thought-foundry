@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Tom Lee
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
 speaker: Tampuro代表
 tags:

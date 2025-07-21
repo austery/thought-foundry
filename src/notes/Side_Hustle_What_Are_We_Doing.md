@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-07'
 guest: ''
 layout: post.njk
-podcast_program: 一口新饭
+channel: 一口新饭
 source: ''
 speaker: Yehuan
 tags:

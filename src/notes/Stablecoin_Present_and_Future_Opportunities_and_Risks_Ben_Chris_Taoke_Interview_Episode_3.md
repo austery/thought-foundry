@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Ben，hris
 layout: post.njk
-podcast_program: 逃课访谈
+channel: 逃课访谈
 source: https://www.youtube.com/watch?v=Zpdu-DUU9fY&t
 speaker: 投资TALK君
 tags:

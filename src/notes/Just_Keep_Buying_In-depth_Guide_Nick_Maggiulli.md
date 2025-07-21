@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.harriman-house.com/press/full/4200
 speaker: ''
 tags:

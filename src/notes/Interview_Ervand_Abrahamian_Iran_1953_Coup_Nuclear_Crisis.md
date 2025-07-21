@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 王路飞
+channel: 王路飞
 source: ''
 speaker: 厄尔凡德·阿布拉哈米安
 tags:

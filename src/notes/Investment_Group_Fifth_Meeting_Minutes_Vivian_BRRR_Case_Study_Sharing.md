@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Vivian, michelle, alvin, Frank
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: Lei
 tags:

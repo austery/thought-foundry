@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-11'
 guest: ''
 layout: post.njk
-podcast_program: 尤瓦尔·诺亚·赫拉利
+channel: 尤瓦尔·诺亚·赫拉利
 source: ''
 speaker: ''
 tags:

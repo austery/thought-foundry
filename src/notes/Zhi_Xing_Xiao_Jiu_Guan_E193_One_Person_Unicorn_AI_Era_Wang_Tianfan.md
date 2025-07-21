@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 汪天凡
 layout: post.njk
-podcast_program: 知行小酒馆
+channel: 知行小酒馆
 source: https://www.youtube.com/watch?v=2l8qpxDGWIE&t
 speaker: 雨白
 tags:

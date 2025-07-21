@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-07'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=zx1T6TLDZ5I
 speaker: Max (全麦AI搜索)
 tags:

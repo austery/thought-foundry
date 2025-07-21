@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-13'
 guest: ''
 layout: post.njk
-podcast_program: The Plain Bagel
+channel: The Plain Bagel
 source: https://www.youtube.com/watch?v=H7xCo0CJ02A
 speaker: Richard
 tags:

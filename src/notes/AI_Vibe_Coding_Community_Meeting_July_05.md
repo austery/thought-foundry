@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-06'
 guest: Amy, Ray, Jay, Vincent
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: Dusing
 tags:

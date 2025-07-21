@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 老周横眉
+channel: 老周横眉
 source: ''
 speaker: 老周
 tags:

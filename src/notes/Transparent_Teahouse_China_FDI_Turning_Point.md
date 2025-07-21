@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 透明茶室
+channel: 透明茶室
 source: ''
 speaker: 李厚辰
 tags:

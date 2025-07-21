@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Mohan
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: INDIGO
 tags:

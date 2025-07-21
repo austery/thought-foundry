@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-12'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: 张敏
 tags:

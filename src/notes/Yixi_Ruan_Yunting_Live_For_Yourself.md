@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 一席
+channel: 一席
 source: https://www.youtube.com/watch?v=4AohKyR5jME
 speaker: 阮筠庭
 tags:

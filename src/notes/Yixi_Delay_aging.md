@@ -3,7 +3,7 @@ author: Lei
 date: '2020-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 一席
+channel: 一席
 source: ''
 speaker: 田烨
 tags:

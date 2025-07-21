@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 speaker: 李厚辰
 tags:
 - 视频笔记

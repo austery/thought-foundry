@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 小波老师
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: 雨白
 tags:

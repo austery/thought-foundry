@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 师姐说
+channel: 师姐说
 source: ''
 speaker: 铁头金融汪
 tags:

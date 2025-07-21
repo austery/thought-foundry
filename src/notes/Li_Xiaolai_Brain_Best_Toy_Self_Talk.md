@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-15'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=nMSBPYk1nwQ&t
 speaker: 李笑来,脱不花
 tags:

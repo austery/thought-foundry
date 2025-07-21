@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 林静芝,李秀全
+channel: 林静芝,李秀全
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t
 speaker: ''
 tags:

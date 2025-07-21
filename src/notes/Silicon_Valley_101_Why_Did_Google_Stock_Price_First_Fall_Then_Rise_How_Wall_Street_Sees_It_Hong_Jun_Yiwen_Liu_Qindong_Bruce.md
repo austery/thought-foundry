@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Yiwen，刘沁东
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: 弘君 (硅谷101创始人，播客主理人)
 tags:

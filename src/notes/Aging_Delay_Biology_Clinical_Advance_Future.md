@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-19'
 guest: ''
 layout: post.njk
-program: ''
+channel: ''
 source: ''
 speaker: Google Gemini
 tags:

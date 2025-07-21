@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: 一席
+channel: 一席
 source: https://www.youtube.com/watch?v=Jm9n1d2G3a4
 speaker: 李治中
 tags:

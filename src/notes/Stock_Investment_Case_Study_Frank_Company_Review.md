@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Frank, Vivian, Zhao Rui, Wang Will, Alvin
 layout: post.njk
-podcast_program: 加拿大ETF投资小组
+channel: 加拿大ETF投资小组
 source: ''
 speaker: Lei
 tags:

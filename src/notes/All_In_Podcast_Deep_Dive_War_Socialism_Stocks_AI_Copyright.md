@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 无
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=Dp75wqOrtBs
 speaker: Jason Calacanis, David Sacks, Chamath Palihapitiya, David Friedberg
 tags:

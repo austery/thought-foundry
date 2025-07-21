@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-12'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=y2owYAa3TPY&t
 speaker: Joseph Wang
 tags:

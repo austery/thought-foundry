@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: Money & Macro
+channel: Money & Macro
 source: https://www.youtube.com/watch?v=DDEOCJvmzKo&t
 speaker: ''
 tags:

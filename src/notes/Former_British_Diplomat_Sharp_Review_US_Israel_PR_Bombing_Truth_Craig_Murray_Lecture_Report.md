@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: Craig Murray
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=kR6Dk10xWew
 speaker: 徒步的骑手
 tags:

@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 李厚辰
 layout: post.njk
-podcast_program: 不明白播客
+channel: 不明白播客
 source: https://bumingbai.net/2025/06/20/155-lhc-text/
 speaker: 袁莉
 tags:

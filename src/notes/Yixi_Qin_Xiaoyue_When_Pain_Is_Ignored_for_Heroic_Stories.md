@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: '#section-1'
 speaker: 秦潇越（纪录片导演）
 tags:

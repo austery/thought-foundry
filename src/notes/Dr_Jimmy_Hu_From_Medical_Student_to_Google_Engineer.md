@@ -3,7 +3,7 @@ author: Lei
 date: "2025-07-10"
 guest: ""
 layout: post.njk
-podcast_program: "https://www.youtube.com/@Dr.IreneLee/featured"
+channel: "https://www.youtube.com/@Dr.IreneLee/featured"
 source: "https://www.youtube.com/watch?v=AbjE0-Nran4&t"
 speaker: Jimmy Hu,Irene
 tags:

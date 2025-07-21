@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-07'
 guest: Vincent, Jay, Thomas
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: 独行
 tags:

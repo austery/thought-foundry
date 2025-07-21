@@ -3,7 +3,7 @@ author: Lei
 date: '2024-12-28'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: ''
 tags:

@@ -8,7 +8,7 @@ guest: Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, 
   Krisika Suthan, Rahim Hashwani, Cedric Anne, Dean Slawson, Lisa Jarrett, Dr. Cindy
   Plunkett
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq
 tags:

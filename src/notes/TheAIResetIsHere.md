@@ -3,7 +3,7 @@ author: Lei
 date: '2025-05-25'
 guest: Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: Peter Diamandis
 tags:

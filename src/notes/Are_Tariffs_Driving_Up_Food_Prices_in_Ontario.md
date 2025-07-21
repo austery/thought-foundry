@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-02'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: ''
 tags:

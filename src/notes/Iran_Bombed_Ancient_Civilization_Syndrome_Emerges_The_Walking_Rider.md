@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: '@LiuTalks'
+channel: '@LiuTalks'
 source: ''
 speaker: 徒步的骑手
 tags:

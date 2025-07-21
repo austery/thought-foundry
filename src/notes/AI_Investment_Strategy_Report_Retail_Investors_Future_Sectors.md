@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-28'
 guest: ''
 layout: post.njk
-podcast_program: 老科谈科技股
+channel: 老科谈科技股
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
 speaker: ''
 tags:

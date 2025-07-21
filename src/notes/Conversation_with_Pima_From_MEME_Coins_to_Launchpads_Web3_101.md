@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 匹马 (Continue Capital)
 layout: post.njk
-podcast_program: Web3 101
+channel: Web3 101
 source: ''
 speaker: 刘峰, Jack
 tags:

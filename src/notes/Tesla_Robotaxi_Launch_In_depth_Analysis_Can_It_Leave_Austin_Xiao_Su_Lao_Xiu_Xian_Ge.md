@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 老修, 闲哥
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=S23kV4knddk&t
 speaker: 小苏
 tags:

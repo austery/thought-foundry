@@ -3,7 +3,7 @@ author: Lei
 date: '2025-04-27'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=wv779vmyPVY&t
 speaker: Jeremy Utley
 tags:

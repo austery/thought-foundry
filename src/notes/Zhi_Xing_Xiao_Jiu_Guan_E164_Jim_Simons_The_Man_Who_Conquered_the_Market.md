@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 跑狮, 大卫翁
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=W1APBdE8wOs
 speaker: 雨白
 tags:

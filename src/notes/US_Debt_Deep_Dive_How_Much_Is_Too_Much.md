@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-25'
 guest: ''
 layout: post.njk
-podcast_program: About That
+channel: About That
 source: https://www.youtube.com/watch?v=PQOmqA5zgds&t
 speaker: Andrew Chang
 tags:

@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: 老尹
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: 路飞
 tags:

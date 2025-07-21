@@ -5,7 +5,7 @@ guest: Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy D
   Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka
   Dhar, Panelists
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: Dave Wessinger, Alan Missen, Marina Stojanovic, Ketki Yennemadi, Auroosa
   Kazmi-Ishaq

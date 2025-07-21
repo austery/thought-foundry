@@ -4,7 +4,7 @@ date: '2025-07-10'
 guest: Noam Chomsky, Joscha Bach, Avi Loeb, Karl Friston, Philip Goff, Tim Maudlin,
   Donald Hoffman, Norman Wildberger
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=GxZp6890hQk
 speaker: Curt Jaimungal
 tags:

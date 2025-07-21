@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-10'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: ''
 speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel,
   David

@@ -3,7 +3,7 @@ author: Lei
 date: '2025-07-07'
 guest: ''
 layout: post.njk
-podcast_program: 一席
+channel: 一席
 source: hhttps://www.youtube.com/watch?v=tnEp7uwrlLo
 speaker: 王佳莹
 tags:

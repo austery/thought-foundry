@@ -3,7 +3,7 @@ author: Lei
 date: '2025-06-08'
 guest: ''
 layout: post.njk
-podcast_program: ''
+channel: ''
 source: https://www.youtube.com/watch?v=C-UBrnSjdLg&t
 speaker: 吴翼
 tags:

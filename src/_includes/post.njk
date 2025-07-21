@@ -33,6 +33,10 @@ layout: "base.njk"
       {% if source %}
         <p><strong>来源:</strong> <a href="{{ source }}" target="_blank">查看</a></p>
       {% endif %}
+
+      {% if channel %}
+        <p><strong>频道:</strong> <a href="{{ channel }}" target="_blank">查看</a></p>
+      {% endif %}
       
       {# 关键字部分，我们直接遍历这篇文章的 tags #}
       {% if tags %}
