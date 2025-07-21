@@ -4,14 +4,12 @@ date: '2025-07-10'
 guest: ''
 layout: post.njk
 podcast_program: ''
-source: '#section-1'
+source: ''
 speaker: ''
 tags:
 - 视频笔记
 - 漫士
 - 科普
-- 教育
-- 思维
 - 学习方法
 title: 漫士沉思录：一场长达20年的复仇
 ---

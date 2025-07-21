@@ -4,8 +4,8 @@ date: '2025-07-10'
 guest: ''
 layout: post.njk
 podcast_program: ''
-source: '#introduction'
-speaker: ''
+source: ''
+speaker: Joseph Wang
 tags:
 - 视频笔记
 - 美联储

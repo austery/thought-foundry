@@ -5,7 +5,7 @@ guest: ''
 layout: post.njk
 podcast_program: ''
 source: ''
-speaker: Felix (主持人), Quinn Thompson, Joseph Wang
+speaker: Felix, Quinn Thompson, Joseph Wang
 tags:
 - 视频笔记
 - FOMC
