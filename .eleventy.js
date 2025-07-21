@@ -136,31 +136,50 @@ module.exports = async function (eleventyConfig) {
         item.inputPath.includes("./src/books/") ||
         item.inputPath.includes("./src/notes/")
       ) {
+        // 处理 speaker 和 guest 字段
+        const allSpeakers = [];
+        
+        // 从 speaker 字段提取演讲者
         const speaker = item.data.speaker;
-        if (speaker && speaker.trim() !== "") {
-          // 处理多个演讲者的情况，用逗号分隔
+        if (speaker && speaker.trim() !== "" && speaker.trim() !== "''") {
           const speakers = speaker
             .split(",")
             .map((s) => s.trim())
             .filter((s) => s !== "");
-          speakers.forEach((speakerName) => {
-            // 清理演讲者名称：去除引号和额外空格
-            const cleanedName = speakerName.replace(/^['"]|['"]$/g, "").trim();
-            if (cleanedName !== "") {
-              const lowerCaseSpeaker = cleanedName.toLowerCase();
-              if (!speakerMap.has(lowerCaseSpeaker)) {
-                speakerMap.set(lowerCaseSpeaker, {
-                  name: cleanedName,
-                  key: lowerCaseSpeaker,
-                  posts: [],
-                  sources: new Set(),
-                });
-              }
-              speakerMap.get(lowerCaseSpeaker).posts.push(item);
-              speakerMap.get(lowerCaseSpeaker).sources.add(item.inputPath);
-            }
-          });
+          allSpeakers.push(...speakers);
         }
+        
+        // 从 guest 字段提取嘉宾
+        const guest = item.data.guest;
+        if (guest && guest.trim() !== "" && guest.trim() !== "''") {
+          const guests = guest
+            .split(",")
+            .map((g) => g.trim())
+            .filter((g) => g !== "");
+          allSpeakers.push(...guests);
+        }
+        
+        // 去重并处理所有演讲者
+        const uniqueSpeakers = [...new Set(allSpeakers.map(s => s.toLowerCase()))]
+          .map(lowercaseName => allSpeakers.find(s => s.toLowerCase() === lowercaseName));
+          
+        uniqueSpeakers.forEach((speakerName) => {
+          // 清理演讲者名称：去除引号和额外空格
+          const cleanedName = speakerName.replace(/^['"]|['"]$/g, "").trim();
+          if (cleanedName !== "") {
+            const lowerCaseSpeaker = cleanedName.toLowerCase();
+            if (!speakerMap.has(lowerCaseSpeaker)) {
+              speakerMap.set(lowerCaseSpeaker, {
+                name: cleanedName,
+                key: lowerCaseSpeaker,
+                posts: [],
+                sources: new Set(),
+              });
+            }
+            speakerMap.get(lowerCaseSpeaker).posts.push(item);
+            speakerMap.get(lowerCaseSpeaker).sources.add(item.inputPath);
+          }
+        });
       }
     });
 
