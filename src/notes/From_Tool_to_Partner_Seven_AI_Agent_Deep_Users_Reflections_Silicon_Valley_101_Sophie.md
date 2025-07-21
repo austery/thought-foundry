@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: 硅谷101
 date: '2025-07-10'
 guest: 
-insight: 
+insight: 很关注其它人是如何使用AI或者AI tools，还有最近很火的词，AI agent,我只在github copilit用agent mode自动处理了很多代码。
 layout: post.njk
 source: 
-speaker: 
+speaker: Sophie
 tags:
 - 视频笔记
-- AI Agent
+- Agent
 - 人工智能
 - 深度学习
 - 商业模式
