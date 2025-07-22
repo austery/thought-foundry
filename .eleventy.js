@@ -347,8 +347,8 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
 
   return {
-    pathPrefix:
-      process.env.NODE_ENV === "production" ? "/thought-foundry/" : "/",
+    // 如果是一个repository，可能需要设置 pathPrefix
+    // pathPrefix: process.env.NODE_ENV === "production" ? "/thought-foundry/" : "/",
     dir: {
       input: "src",
       output: "_site",
