@@ -3,7 +3,7 @@ author: Lei
 channel: 
 date: '2024-10-26'
 guest: 
-insight: 
+insight: 这本书我也快速的读过，感觉还挺有收获的，也是我再读的科目，看看她人是如何理解这本书的。
 layout: post.njk
 source: https://www.youtube.com/watch?v=rCJ6U0mIPOQ&t
 speaker: 夏冰雹

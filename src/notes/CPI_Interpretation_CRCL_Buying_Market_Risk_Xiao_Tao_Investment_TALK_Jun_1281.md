@@ -3,20 +3,16 @@ author: Lei
 channel: 
 date: '2025-06-09'
 guest: 
-insight: 
+insight: 看看他对于市场参与度的使用
 layout: post.njk
 source: 
-speaker: 市场分析员 小涛
+speaker: 投资TALK君
 tags:
 - 视频笔记
 - 投资
 - 美元
 title: 【投资TALK君1281期】周三CPI解读、CRCL买入思路及市场风险思考
 ---
-
-**主讲人：**市场分析员 小涛
-
-**发布日期：**2025年6月9日
 
 ## 开篇导言
 

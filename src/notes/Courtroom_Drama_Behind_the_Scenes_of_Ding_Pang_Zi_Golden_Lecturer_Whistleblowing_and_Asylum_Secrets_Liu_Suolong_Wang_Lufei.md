@@ -6,7 +6,7 @@ guest:
 insight: 
 layout: post.njk
 source: 
-speaker: 刘索隆，王路飞
+speaker: 刘索隆,王路飞
 tags:
 - 视频笔记
 - 美国政治

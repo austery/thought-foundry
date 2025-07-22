@@ -2,28 +2,24 @@
 author: Lei
 channel: 
 date: '2024-12-28'
-guest: 
-insight: 
+guest: Lillian
+insight: 这是根据Deep Work的读书会分享纪要。
 layout: post.njk
 source: 
-speaker: 
+speaker: Vivi
 tags:
 - 视频笔记
 - 深度工作
 - 专注力
 - 时间管理
-- 社交媒体
+- 读书会
 - 个人成长
 title: 「欧洲|亚洲场」2024年12月读书会「Deep Work」直播分享
 ---
 
-好的，这是根据您的要求整理的读书会分享纪要。
-
-日期：2024年12月 (根据文件标题推断) \| 分享书籍：《深度工作》(Deep Work)
-
 ## 开场与主持人分享
 
-#### Vivi (主持人)
+### Vivi (主持人)
 
 Hello，大家好。我是第一次主持亚洲场的读书会，见到各位新面孔，还有些许紧张和莫名的偶像包袱（开玩笑）。
 
