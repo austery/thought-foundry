@@ -30,6 +30,12 @@ permalink: "/"
           {% if item.date %}
             <time datetime="{{ item.date }}">{{ item.date.toLocaleDateString() }}</time>
           {% endif %}
+
+          {# 洞察部分 - 显示为什么观看这个视频或听这个播客 #}
+          {% if item.data.insight %}
+            <br>
+            <small class="insight-text">💡 {{ item.data.insight }}</small>
+          {% endif %}
         </li>
       {% endif %}
     {%- endfor -%}
