@@ -12,8 +12,8 @@ permalink: "/"
   <h1>最新动态</h1>
 
   <ul>
-    {# 循环部分的代码保持不变 #}
-    {%- for item in collections.all | sort(true, false, 'date') -%}
+    {# 使用我们自定义的 allItems 集合并应用排除过滤器 #}
+    {%- for item in collections.allItems | filterExcluded | sort(true, false, 'date') -%}
       {% if item.filePathStem and (item.filePathStem.includes('/posts/') or item.filePathStem.includes('/books/') or item.filePathStem.includes('/notes/')) %}
         <li>
           <a href="{{ item.url | url }}">{{ item.data.title }}</a>

@@ -9,9 +9,9 @@ eleventyExcludeFromCollections: true
   {%- set isFirst = true -%}
 
   {# 
-    2. 我们直接遍历 Eleventy 内置的、包含所有内容的 collections.all 集合。
+    2. 我们使用自定义的 allItems 集合并应用排除过滤器，而不是内置的 collections.all。
   #}
-  {%- for item in collections.all | reverse -%}
+  {%- for item in collections.allItems | filterExcluded | reverse -%}
     {# 
       3. 我们用一个 if 判断，只处理那些在 posts, books, 或 notes 文件夹里，
          并且确实有标题的内容。

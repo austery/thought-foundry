@@ -8,6 +8,17 @@ module.exports = async function (eleventyConfig) {
     return JSON.stringify(value);
   });
 
+  // 添加排除检查过滤器
+  eleventyConfig.addFilter("isExcluded", function (item) {
+    return item && item.data && item.data.exclude === true;
+  });
+
+  // 添加过滤已排除项目的过滤器
+  eleventyConfig.addFilter("filterExcluded", function (collection) {
+    if (!Array.isArray(collection)) return collection;
+    return collection.filter(item => !item.data || !item.data.exclude);
+  });
+
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) return;
     const trimmedStr = str.trim();
@@ -40,26 +51,30 @@ module.exports = async function (eleventyConfig) {
 
   // --- 集合 (Collections) ---
 
-  // 集合 1, 2, 3: 保持不变
+  // 集合 1, 2, 3: 添加排除功能
   eleventyConfig.addCollection("posts", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/posts/**/*.md");
+    return collectionApi.getFilteredByGlob("./src/posts/**/*.md")
+      .filter(item => !item.data.exclude);
   });
   eleventyConfig.addCollection("books", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/books/**/*.md");
+    return collectionApi.getFilteredByGlob("./src/books/**/*.md")
+      .filter(item => !item.data.exclude);
   });
   eleventyConfig.addCollection("notes", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/notes/**/*.md");
+    return collectionApi.getFilteredByGlob("./src/notes/**/*.md")
+      .filter(item => !item.data.exclude);
   });
 
-  // 集合 4: 这是我们最终的、最可靠的标签集合，现在增加了更强大的调试报告功能
+  // 集合 4: 这是我们最终的、最可靠的标签集合，现在增加了更强大的调试报告功能和排除功能
   eleventyConfig.addCollection("tagList", (collectionApi) => {
     const tagMap = new Map();
     collectionApi.getAll().forEach((item) => {
-      // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容
+      // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
       if (
-        item.inputPath.includes("./src/posts/") ||
+        (item.inputPath.includes("./src/posts/") ||
         item.inputPath.includes("./src/books/") ||
-        item.inputPath.includes("./src/notes/")
+        item.inputPath.includes("./src/notes/")) &&
+        !item.data.exclude
       ) {
         (item.data.tags || []).forEach((tag) => {
           const lowerCaseTag = tag.trim().toLowerCase();
@@ -126,15 +141,16 @@ module.exports = async function (eleventyConfig) {
     return tagList;
   });
 
-  // 集合 5: 演讲者集合 - 类似于标签集合但专门处理演讲者
+  // 集合 5: 演讲者集合 - 类似于标签集合但专门处理演讲者，现在也支持排除功能
   eleventyConfig.addCollection("speakerList", (collectionApi) => {
     const speakerMap = new Map();
     collectionApi.getAll().forEach((item) => {
-      // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容
+      // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
       if (
-        item.inputPath.includes("./src/posts/") ||
+        (item.inputPath.includes("./src/posts/") ||
         item.inputPath.includes("./src/books/") ||
-        item.inputPath.includes("./src/notes/")
+        item.inputPath.includes("./src/notes/")) &&
+        !item.data.exclude
       ) {
         // 处理 speaker 和 guest 字段
         const allSpeakers = [];
@@ -236,8 +252,33 @@ module.exports = async function (eleventyConfig) {
     return speakerList;
   });
 
+  // 集合 6: 完整集合（包含被排除的项目）- 用于内部处理和调试
+  eleventyConfig.addCollection("allItems", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/{posts,books,notes}/**/*.md");
+  });
+
+  // 集合 7: 被排除的项目集合 - 用于调试和监控
+  eleventyConfig.addCollection("excludedItems", function (collectionApi) {
+    const excludedItems = collectionApi.getFilteredByGlob("./src/{posts,books,notes}/**/*.md")
+      .filter(item => item.data.exclude);
+    
+    // 调试输出
+    if (excludedItems.length > 0) {
+      console.log("\n--- Excluded Items Report ---");
+      console.log(`Found ${excludedItems.length} excluded item(s):`);
+      excludedItems.forEach((item, index) => {
+        console.log(`${index + 1}. ${item.inputPath}`);
+        console.log(`   Title: ${item.data.title || 'No title'}`);
+        console.log(`   Exclude: ${item.data.exclude}`);
+      });
+      console.log("----------------------------\n");
+    }
+    
+    return excludedItems;
+  });
+
   // --- START: 新增的临时侦测代码 ---
-  // 集合 6: 这个集合专门用来寻找有问题的 speaker 字段
+  // 集合 8: 这个集合专门用来寻找有问题的 speaker 字段
   eleventyConfig.addCollection("longSpeakerDetector", function (collectionApi) {
     console.log("\n--- Checking for long speaker fields ---");
     let problemsFound = 0;

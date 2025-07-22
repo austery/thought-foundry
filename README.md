@@ -5,6 +5,7 @@ Thought Foundry is a personal knowledge base and digital garden built with [Elev
 ## Features
 
 * **Content Organization**: The site is structured into collections for "posts", "books", and "notes", making it easy to manage different types of content.
+* **Content Exclusion System**: Posts can be marked with `exclude: true` in frontmatter to create "semi-private" content that generates HTML files but is excluded from all listings, search results, and navigation.
 * **Tagging System**: A robust tagging system allows for easy categorization and discovery of content. The system is case-insensitive and generates a list of all tags used across the site.
 * **Speaker System**: A comprehensive speaker/presenter system that automatically extracts speakers from content, creates dedicated speaker pages, and provides clickable speaker links with conflict resolution for duplicate names.
 * **Client-Side Search**: A vanilla JavaScript search implementation allows users to easily find articles by title or content.
@@ -88,10 +89,42 @@ author: "Author Name"
 speaker: "Speaker Name"  # For posts/notes
 publisher: "Publisher"   # For books
 rating: "4/5"           # For books
+exclude: true           # Optional: excludes from listings/search
 tags:
   - "tag1"
   - "tag2"
 ---
+```
+
+### Content Exclusion Feature
+
+The site supports a powerful content exclusion system that allows you to create "semi-private" content. By adding `exclude: true` to any post's frontmatter, you can:
+
+**What happens when `exclude: true` is set:**
+- ✅ **Post generates HTML file** - Content is still built and accessible via direct URL
+- ❌ **Excluded from homepage** - Won't appear in the main blog listing
+- ❌ **Excluded from search** - Won't appear in search results
+- ❌ **Excluded from tag pages** - Won't appear in tag-based browsing
+- ❌ **Excluded from speaker pages** - Won't appear in speaker-based browsing
+
+**Use cases:**
+- Draft content that you want to share via direct link but keep out of public navigation
+- Private notes that should be accessible but not discoverable
+- Content in progress that isn't ready for general browsing
+- Testing new content formats or layouts
+
+**Example:**
+```yaml
+---
+title: "Private Meeting Notes"
+date: "2025-01-21"
+exclude: true
+tags:
+  - internal
+  - draft
+---
+
+This content will be accessible at `/notes/private-meeting-notes/` but won't appear in any listings.
 ```
 
 ### File Naming
@@ -132,5 +165,6 @@ The site includes built-in debugging tools that run during build to detect:
 - Converted from nested to flat frontmatter structure
 - Added comprehensive speaker system with dedicated pages
 - Implemented data integrity checking and automated fixes
+- Added content exclusion system for semi-private posts
 - Optimized book note layout for better readability
 - Added URL-friendly file naming with underscore conversion
