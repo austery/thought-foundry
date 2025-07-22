@@ -3,7 +3,6 @@ author: Lei
 channel: 
 date: 2025-07-20
 guest: 
-insight: 
 layout: post.njk
 source: https://www.youtube.com/watch?v=lHBb8Ecd-gY
 speaker: 投资TALK君
