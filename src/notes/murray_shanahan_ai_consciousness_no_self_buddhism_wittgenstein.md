@@ -4,7 +4,7 @@ date: 2025-07-21
 guest: Murray Shanahan
 layout: post.njk
 channel: 
-source: 
+source: https://www.youtube.com/watch?v=bBdE7ojaN9k&t
 speaker: Jonathan B., Murray Shanahan
 tags:
 - 视频笔记
