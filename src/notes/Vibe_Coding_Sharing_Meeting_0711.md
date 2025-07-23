@@ -11,8 +11,7 @@ tags:
 - 视频笔记
 - Vibe Coding
 - 工作流
-- AI工具
-title: Vibe Coding (同声共振编程) 分享会纪要
+title: Vibe Coding分享会纪要
 ---
 
 ## 开场与介绍

@@ -6,14 +6,13 @@ guest:
 insight: 
 layout: post.njk
 source: 
-speaker: 
+speaker: 李厚辰, 伍雷, 贾葭
 tags:
 - 视频笔记
-- 财政危机
-- 厉行节约
-- 政府浪费
-- 三公消费
 - 官僚体系
+- 中国政治
+- 政治
+- 三个水枪手
 title: E46 财政危机下重提“厉行节约”，中国政府真的能过苦日子吗？
 ---
 

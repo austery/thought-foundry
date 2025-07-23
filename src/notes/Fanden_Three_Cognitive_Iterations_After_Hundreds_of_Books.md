@@ -6,14 +6,11 @@ guest:
 insight: 
 layout: post.njk
 source: 
-speaker: 
+speaker: 樊登
 tags:
 - 视频笔记
-- 樊登
 - 认知迭代
-- 帆书
 - 阅读
-- 十倍好
 title: 樊登：讲完几百本书，提升最大的是这三次认知迭代
 ---
 

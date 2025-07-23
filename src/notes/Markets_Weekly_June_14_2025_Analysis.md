@@ -1,7 +1,7 @@
 ---
 author: Lei
 channel: 
-date: '2025-07-10'
+date: '2025-06-14'
 guest: 
 insight: 
 layout: post.njk
@@ -10,26 +10,11 @@ speaker: Joseph Wang
 tags:
 - 视频笔记
 - 美联储
-- 中东冲突
 - 美元
 - 稀土
 - 市场分析
 title: Markets Weekly Analysis - June 14, 2025
 ---
-
-Speaker: The Host \| Date: June 14, 2025 \|
-Word Count: 1475 \| Est. Reading Time: 6 mins
-
-### Table of Contents / 目录
-
-- [Introduction / 引言](#introduction)
-- [1. The Fed's Hesitation: Late to the Rate-Cutting Party /
-  美联储的迟疑：错失降息良机](#section1)
-- [2. Middle East Conflict: Gauging the Market Impact /
-  中东冲突：评估市场影响](#section2)
-- [3. The Weakening Dollar and Shifting Global Dynamics /
-  美元疲软与全球动态演变](#section3)
-- [Conclusion / 结语](#conclusion)
 
 ## Introduction / 引言
 

@@ -3,18 +3,16 @@ author: Lei
 channel: 
 date: '2025-07-10'
 guest: Craig Murray
-insight: 
+insight: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
 layout: post.njk
 source: https://www.youtube.com/watch?v=kR6Dk10xWew
-speaker: 徒步的骑手
+speaker: 路飞
 tags:
 - 视频笔记
-- 克雷格·莫瑞
 - 美以关系
-- 伊朗核问题
 - 媒体偏见
 - 中东冲突
-title: 前英国外交官锐评美以“公关式”轰炸真相 - 讲座报告
+title: 前英国外交官锐评美以“公关式”轰炸真相
 ---
 
 ## 引言：克雷格·莫瑞的背景与视角

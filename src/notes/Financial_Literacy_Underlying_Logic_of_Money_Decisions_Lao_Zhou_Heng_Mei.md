@@ -3,25 +3,19 @@ author: Lei
 channel: 
 date: '2025-07-10'
 guest: 
-insight: 
+insight: 很多都知道，但是在自己做出符合自己需要的投资或者金融决策的时候，需要来看看其它专业人士的分析。
 layout: post.njk
-source: 
-speaker: 
+source: https://www.youtube.com/watch?v=_KqWctjw9kY&t
+speaker: 老周横眉
 tags:
 - 视频笔记
 - 金融常识
 - 金钱时间价值
 - IRR
 - 投资决策
-- 贷款
 title: 金融常识：评估金钱决策的底层逻辑
 ---
 
-**讲述者：** 老周横眉
-
-**总字数：** 7073字
-
-**预计阅读时间：** 约23分钟
 
 ## 学历贬值时代，普通人必须掌握的金融知识
 

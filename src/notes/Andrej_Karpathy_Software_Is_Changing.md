@@ -10,7 +10,7 @@ speaker: Andrej Karpathy
 tags:
 - 视频笔记
 - 人工智能
-- Thinking
+- Vibe Coding
 title: Software Is Changing (Again)
 ---
 

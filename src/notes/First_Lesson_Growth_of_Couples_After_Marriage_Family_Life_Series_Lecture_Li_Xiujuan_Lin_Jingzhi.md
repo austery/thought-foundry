@@ -6,14 +6,13 @@ guest:
 insight: 
 layout: post.njk
 source: https://www.youtube.com/watch?v=Z0NUvd24_qs&t=1242s
-speaker: 李秀全, 林静芝
+speaker: 李秀全,林静芝
 tags:
 - 视频笔记
 - 婚姻成长
 - 家庭生活
 - 夫妻关系
-- 灵命成长
-- 金钱奉献
+- 宗教
 title: 第一课：夫妻婚后的成长 - 家庭生活系列讲座
 ---
 

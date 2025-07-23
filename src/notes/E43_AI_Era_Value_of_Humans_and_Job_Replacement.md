@@ -6,11 +6,12 @@ guest: null
 insight: null
 layout: post.njk
 source: null
-speaker: null
+speaker: 李厚辰, 伍雷, 贾葭
 tags:
 - 视频笔记
 - 人工智能
 - 人类价值
+- 三个水枪手
 title: E43 深度对话：NotebookLM与AI内容生成的未来
 ---
 
