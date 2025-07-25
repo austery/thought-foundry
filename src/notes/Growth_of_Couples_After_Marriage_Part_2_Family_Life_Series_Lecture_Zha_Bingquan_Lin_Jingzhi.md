@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 林静芝
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
 speaker: 查秉全
 tags:

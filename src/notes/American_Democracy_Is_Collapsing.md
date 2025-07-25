@@ -5,6 +5,7 @@ date: '2025-06-17'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: '#${id}'
 speaker: 
 tags:

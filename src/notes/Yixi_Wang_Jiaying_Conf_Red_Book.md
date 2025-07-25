@@ -5,6 +5,7 @@ date: '2025-07-07'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: hhttps://www.youtube.com/watch?v=tnEp7uwrlLo
 speaker: 王佳莹
 tags:

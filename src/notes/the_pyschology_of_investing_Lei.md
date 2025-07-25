@@ -4,6 +4,7 @@ date: '2024-02-21'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=Yqn0lv9ymLk
 speaker: LEI
 tags:

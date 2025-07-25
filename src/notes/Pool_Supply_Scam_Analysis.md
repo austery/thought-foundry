@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https.www.youtube.com/watch?v=placeholder
 speaker: steve.com
 tags:

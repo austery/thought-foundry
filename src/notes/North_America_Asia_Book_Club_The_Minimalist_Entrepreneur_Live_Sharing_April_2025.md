@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan, 婷, Victor, Kayden,
   张硕

@@ -5,6 +5,7 @@ date: '2024-12-28'
 guest: Lillian
 insight: 这是根据Deep Work的读书会分享纪要。
 layout: post.njk
+series:
 source: 
 speaker: Vivi
 tags:

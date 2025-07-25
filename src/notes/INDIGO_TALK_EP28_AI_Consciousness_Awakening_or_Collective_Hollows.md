@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: Mohan
 insight: null
 layout: post.njk
+series:
 source: null
 speaker: INDIGO
 tags:

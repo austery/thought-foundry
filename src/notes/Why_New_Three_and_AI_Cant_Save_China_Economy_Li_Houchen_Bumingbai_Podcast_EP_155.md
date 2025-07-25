@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 李厚辰
 insight: null
 layout: post.njk
+series:
 source: https://bumingbai.net/2025/06/20/155-lhc-text/
 speaker: 袁莉
 tags:

@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+series:
 speaker: 李厚辰
 tags:
 - 视频笔记

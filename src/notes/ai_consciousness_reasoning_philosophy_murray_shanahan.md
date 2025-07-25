@@ -3,6 +3,7 @@ author: Lei
 date: 2025-07-21
 guest: Murray Shanahan
 layout: post.njk
+series:
 channel: https://www.youtube.com/@googledeepmind
 source: https://www.youtube.com/watch?v=v1Py_hWcmkU&t
 speaker: Hannah Fry,Murray Shanahan

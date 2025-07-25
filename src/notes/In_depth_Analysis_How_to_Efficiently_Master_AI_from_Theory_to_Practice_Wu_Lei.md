@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=-a_umjxdcIg&t=2732s
 speaker: 李厚辰
 tags:

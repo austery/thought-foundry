@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
 speaker: null
 tags:

@@ -5,6 +5,7 @@ date: '2025-06-08'
 guest: null
 insight: null
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=C-UBrnSjdLg&t
 speaker: 吴翼
 tags:

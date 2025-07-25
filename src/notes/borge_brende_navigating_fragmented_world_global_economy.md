@@ -6,6 +6,7 @@ file_name: borge_brende_world_orders_global_cooperation_digital_transformation
 guest: 
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: Nicolai Tangen,Børge Brende
 summary: 世界经济论坛总裁Børge Brende探讨了在日益加剧的极化时代，世界领导者如何寻求共识，分析了地缘政治格局、全球市场的韧性、人工智能的变革力量，以及达沃斯论坛如何创造解决问题的机遇。

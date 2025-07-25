@@ -5,6 +5,7 @@ date: '2025-07-12'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=y2owYAa3TPY&t
 speaker: Joseph Wang
 tags:

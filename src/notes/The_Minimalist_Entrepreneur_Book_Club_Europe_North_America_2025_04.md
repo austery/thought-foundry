@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: Vivian, Simon L,Ge Su, 路遥, Kathy, 翻新, Fancy
 tags:

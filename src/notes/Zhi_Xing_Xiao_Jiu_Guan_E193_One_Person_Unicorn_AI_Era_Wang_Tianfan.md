@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 汪天凡
 insight: null
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=2l8qpxDGWIE&t
 speaker: 雨白
 tags:

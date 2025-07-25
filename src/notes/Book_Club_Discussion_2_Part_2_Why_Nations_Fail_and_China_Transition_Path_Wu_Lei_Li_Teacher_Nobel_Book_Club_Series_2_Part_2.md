@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 李老师
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=hZR2EGv8RBs&t=10s
 speaker: 伍雷
 tags:

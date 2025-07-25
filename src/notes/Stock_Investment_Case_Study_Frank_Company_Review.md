@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: Frank, Vivian, Zhao Rui, Wang Will, Alvin
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: Lei
 tags:

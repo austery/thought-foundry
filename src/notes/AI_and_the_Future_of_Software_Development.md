@@ -1,17 +1,19 @@
 ---
 author: Lei
-channel: null
-date: '2025-05-28'
-guest: null
-insight: null
+channel: 
+date: '2025-06-07'
+guest: 
+insight: 
 layout: post.njk
-source: null
-speaker: Guido,Yoko
+series: AI企业应用研讨会
+source: 
+speaker: 
 tags:
 - 视频笔记
-- 人工智能
 - 软件开发
-title: AI and the Future of Software Development
+- 人工智能
+- 未来趋势
+title: AI与软件开发的未来
 ---
 
 ## The Evolving Role of AI in Programming / 人工智能在编程中角色的演变

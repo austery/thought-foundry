@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 陈老师
 insight: 
 layout: post.njk
+series:
 source: https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61
 speaker: 雨白
 tags:

@@ -4,6 +4,7 @@ date: '2025-07-13'
 guest: 半佛
 insight: 
 layout: post.njk
+series:
 program: 知行小酒馆
 source: 
 speaker: 雨白

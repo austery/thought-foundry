@@ -5,6 +5,7 @@ date: '2025-06-13'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=H7xCo0CJ02A
 speaker: Richard
 tags:

@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t
 speaker: 
 tags:

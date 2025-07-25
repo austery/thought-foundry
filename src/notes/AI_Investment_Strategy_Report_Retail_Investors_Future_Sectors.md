@@ -5,6 +5,7 @@ date: '2025-06-28'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
 speaker: 
 tags:

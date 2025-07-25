@@ -5,6 +5,7 @@ date: '2025-06-07'
 guest: Vincent, Jay, Thomas
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: 独行
 tags:

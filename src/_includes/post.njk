@@ -61,6 +61,40 @@ layout: "base.njk"
     {# ------------------- 新增的元数据块代码结束 ------------------- #}
 
     {{ content | safe }}
+
+    {# ------------------- 系列相关文章开始 ------------------- #}
+    {% if series and series.trim() != '' %}
+      {% set relatedPosts = collections.allItems | filterExcluded %}
+      {% set sameSeries = [] %}
+      
+      {# 找到同一系列的其他文章 #}
+      {% for post in relatedPosts %}
+        {% if post.data.series and post.data.series.trim() == series.trim() and post.url != page.url %}
+          {% set sameSeries = (sameSeries.push(post), sameSeries) %}
+        {% endif %}
+      {% endfor %}
+
+      {# 如果有同系列的文章，显示相关文章区块 #}
+      {% if sameSeries.length > 0 %}
+        <div class="related-series">
+          <h3>本系列其他文章</h3>
+          <p class="series-name">系列：{{ series }}</p>
+          <ul class="related-posts-list">
+            {% for post in sameSeries | sort(false, false, 'date') %}
+              <li class="related-post-item">
+                <a href="{{ post.url }}" class="related-post-link">
+                  <span class="related-post-title">{{ post.data.title }}</span>
+                  {% if post.data.date %}
+                    <span class="related-post-date">{{ post.data.date }}</span>
+                  {% endif %}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    {% endif %}
+    {# ------------------- 系列相关文章结束 ------------------- #}
   </main>
 
 </div>

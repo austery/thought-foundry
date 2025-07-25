@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: Craig Murray
 insight: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=kR6Dk10xWew
 speaker: 路飞
 tags:

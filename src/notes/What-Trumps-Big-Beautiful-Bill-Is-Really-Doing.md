@@ -5,6 +5,7 @@ date: '2025-05-25'
 guest: Catherine Rampell
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: Ezra Klein
 tags:

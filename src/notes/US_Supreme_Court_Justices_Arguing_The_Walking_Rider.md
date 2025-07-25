@@ -5,6 +5,7 @@ date: '2025-06-20'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=DLAUDk0TFWA
 speaker: 徒步的骑手
 tags:

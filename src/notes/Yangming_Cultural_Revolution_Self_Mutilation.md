@@ -5,6 +5,7 @@ date: '2025-07-07'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=0h09gC2c60Y
 speaker: Anthony
 tags:

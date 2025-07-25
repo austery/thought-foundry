@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: 陆瑶、康、Fancy、Suge、LEI、Catherine
 tags:

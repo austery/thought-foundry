@@ -4,6 +4,7 @@ date: '2025-06-21'
 guest: Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, Sonal Misra, Caleb Waldemar, Kristy Liu, Mary Henschel, Julia Groza, Raka Dhar, Jenna Paglia, Daisy Dool, Erik Stabile, Jordan Bowman, Syed Hasan, Ruben Vieira, Pawandeep Kaur, Victor Tarnovski, Dave Chodos, Kate Kaplya, Charley Yang, Maja Madirazza, Krisika Suthan, Rahim Hashwani, Cedric Anne, Dean Slawson, Lisa Jarrett, Dr. Cindy Plunkett
 insight: 这是我们公司内部的分享会，大家提出很多很好的mvp,我最感兴趣的是-AI驱动的元数据生成器，我们小组马上就可以用。
 layout: post.njk
+series: AI企业应用研讨会
 program:
 source:
 speaker: Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq

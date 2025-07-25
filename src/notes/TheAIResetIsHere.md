@@ -5,6 +5,7 @@ date: '2025-05-25'
 guest: Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis
 insight: null
 layout: post.njk
+series:
 source: null
 speaker: Peter Diamandis
 tags:

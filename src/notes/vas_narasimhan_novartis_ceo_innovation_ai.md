@@ -6,6 +6,7 @@ file_name: vas_narasimhan_novartis_ceo_innovation_ai
 guest: null
 insight: null
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=A_z4Jow0c7A&t
 speaker: Nicolai Tangen,Vas Narasimhan
 summary: 本期视频采访了诺华（Novartis）首席执行官Vas Narasimhan，他拥有医师背景，曾在一线抗击传染病。视频中他分享了如何带领诺华专注于创新药物研发，通过剥离非核心业务释放价值，并积极拥抱人工智能等前沿科技。他还深入探讨了欧洲制药业面临的挑战、中国创新生态的崛起，以及他对领导力、个人健康和企业文化的深刻见解。

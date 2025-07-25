@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: 李厚辰、贾葭、伍雷
 tags:

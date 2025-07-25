@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 很关注其它人是如何使用AI或者AI tools，还有最近很火的词，AI agent,我只在github copilit用agent mode自动处理了很多代码。
 layout: post.njk
+series:
 source: 
 speaker: Sophie
 tags:

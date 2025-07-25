@@ -5,6 +5,7 @@ date: '2025-05-28'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: 
 tags:

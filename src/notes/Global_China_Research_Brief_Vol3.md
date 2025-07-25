@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 这是中李的一篇AI生成的视频，我给转成文字版了主要是看看他是如何选题的。
 layout: post.njk
+series:
 source: 
 speaker: 李厚辰
 tags:

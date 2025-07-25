@@ -3,6 +3,7 @@ author: Lei
 date: 2025-07-23
 guest: 
 layout: post.njk
+series:
 channel: 
 source: 
 speaker: 樊登

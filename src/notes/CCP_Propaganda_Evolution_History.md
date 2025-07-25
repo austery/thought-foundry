@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 无
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=9WzxibheiPo
 speaker: 夸克说
 tags:

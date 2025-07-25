@@ -5,6 +5,7 @@ date: '2025-04-27'
 guest: null
 insight: null
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=wv779vmyPVY&t
 speaker: Jeremy Utley
 tags:

@@ -5,6 +5,7 @@ date: '2025-05-25'
 guest: Yushan
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: 泓君
 tags:

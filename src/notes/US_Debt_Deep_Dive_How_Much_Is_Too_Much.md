@@ -5,6 +5,7 @@ date: '2025-06-25'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=PQOmqA5zgds&t
 speaker: Andrew Chang
 tags:

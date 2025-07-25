@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: Eva Dou
 insight: null
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=0R37p35EoeM&list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV
 speaker: Joe Weisenthal, Tracy Alloway
 tags:

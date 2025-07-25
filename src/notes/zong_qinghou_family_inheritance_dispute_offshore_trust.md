@@ -3,6 +3,7 @@ author: Lei
 date: 2025-07-23
 guest:
 layout: post.njk
+series:
 channel:
 source: https://www.youtube.com/watch?v=d0yoDctYyxc&t
 speaker: 老周横眉

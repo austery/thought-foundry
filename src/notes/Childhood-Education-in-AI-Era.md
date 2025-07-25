@@ -5,6 +5,7 @@ date: '2025-05-25'
 guest: null
 insight: null
 layout: post.njk
+series:
 source: null
 speaker: Ezra，Rebecca
 tags:

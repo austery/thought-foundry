@@ -5,6 +5,7 @@ date: '2025-07-06'
 guest: Amy, Ray, Jay, Vincent
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: Dusing
 tags:

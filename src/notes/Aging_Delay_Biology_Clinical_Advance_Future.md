@@ -5,6 +5,7 @@ date: '2025-07-19'
 guest: 
 insight: 听了一席的一篇关于老年和健康的视频，用gemini deep research更新一下这些信息,看看是否还继续成立。
 layout: post.njk
+series:
 source: 
 speaker: Google Gemini
 tags:

@@ -5,6 +5,7 @@ date: '2025-07-07'
 guest: null
 insight: null
 layout: post.njk
+series:
 source: null
 speaker: Mike
 tags:

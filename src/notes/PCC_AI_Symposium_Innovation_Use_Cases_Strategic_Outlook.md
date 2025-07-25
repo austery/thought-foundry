@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy Dool, Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka Dhar, Panelists
 insight: null
 layout: post.njk
+series:
 source: null
 speaker: Dave Wessinger, Alan Missen, Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq
 tags:

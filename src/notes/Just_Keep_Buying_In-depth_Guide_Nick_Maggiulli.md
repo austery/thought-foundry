@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.harriman-house.com/press/full/4200
 speaker: 
 tags:

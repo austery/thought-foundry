@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: 厄尔凡德·阿布拉哈米安
 tags:

@@ -5,6 +5,7 @@ date: '2025-07-12'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: https://www.youtube.com/watch?v=0_3-hCgQ36c
 speaker: 林静芝,李秀全
 tags:

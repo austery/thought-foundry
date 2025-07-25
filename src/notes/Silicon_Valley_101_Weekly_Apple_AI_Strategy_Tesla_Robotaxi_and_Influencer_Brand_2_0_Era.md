@@ -5,6 +5,7 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
+series:
 source: 
 speaker: 陈茜, 刘一鸣, 鲁漪文
 tags:

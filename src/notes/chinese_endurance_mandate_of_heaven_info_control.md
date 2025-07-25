@@ -3,6 +3,7 @@ author: Lei
 date: 2025-07-22
 guest: 
 layout: post.njk
+series:
 channel: https://www.youtube.com/@%E4%B8%89%E5%80%8B%E6%B0%B4%E6%A7%8D%E6%89%8B
 source: https://www.youtube.com/watch?v=cl497eXGLiI
 speaker: 李厚辰, 伍雷, 贾葭

@@ -5,6 +5,7 @@ date: '2025-06-11'
 guest: null
 insight: null
 layout: post.njk
+series:
 source: null
 speaker: null
 tags:
