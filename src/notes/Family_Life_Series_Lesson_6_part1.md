@@ -5,7 +5,6 @@ guest:
 insight: 
 layout: post.njk
 series: 家庭生活系列讲座
-program: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Jm_R84hY1n0
 speaker: 林静芝,李秀全
 tags:

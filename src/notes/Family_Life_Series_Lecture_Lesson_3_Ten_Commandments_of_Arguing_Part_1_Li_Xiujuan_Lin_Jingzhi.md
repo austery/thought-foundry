@@ -5,7 +5,7 @@ date: '2025-07-10'
 guest: 无
 insight: 
 layout: post.njk
-series:
+series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=oP3lqZMNjts
 speaker: 林静芝,李秀全
 tags:
