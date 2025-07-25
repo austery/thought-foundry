@@ -2,7 +2,7 @@
 author: Lei
 channel: Web3 101
 date: '2025-07-10'
-guest: 匹马 (Continue Capital)
+guest: 匹马
 insight: 
 layout: post.njk
 source: 

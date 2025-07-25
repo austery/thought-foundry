@@ -3,7 +3,7 @@ author: Lei
 date: 2025-07-23
 guest: 
 layout: post.njk
-channel: 
+channel: 一席
 source: https://www.youtube.com/watch?v=FGOKB1j_bhU
 speaker: 申琦
 tags:

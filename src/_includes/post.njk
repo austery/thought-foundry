@@ -45,7 +45,7 @@ layout: "base.njk"
       {% endif %}
 
       {% if channel %}
-        <p><strong>频道:</strong> <a href="{{ channel }}" target="_blank">查看</a></p>
+        <p><strong>频道:</strong> {{ channel }}</p>
       {% endif %}
       
       {# 关键字部分，我们直接遍历这篇文章的 tags #}
