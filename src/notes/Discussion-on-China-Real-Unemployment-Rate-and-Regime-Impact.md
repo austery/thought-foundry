@@ -5,17 +5,14 @@ date: '2025-05-25'
 guest: 
 insight: 
 layout: post.njk
-series:
 source: 
 speaker: 夸克
 tags:
 - 视频笔记
 - 数字极权
 - 政治
-title: 中国真实失业率分析报告
+title: 关于中国真实失业率及其对政权影响的探讨
 ---
-
-# 关于中国真实失业率及其对政权影响的探讨
 
 大家好，欢迎收看夸克说，我是夸克。
 
