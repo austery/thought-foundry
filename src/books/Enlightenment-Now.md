@@ -108,6 +108,7 @@ cover_image: "https://books.google.com/books/content?id=oNndDwAAQBAJ&printsec=fr
 通过这本书，我学会了不仅要关注身边发生的事情，更要从宏观的角度理解这个世界的变化和进步。我认识到，尽管我们生活在一个充满挑战和不确定性的时代，但我们仍然有理由保持乐观，相信人类的理性和创造力能够引领我们走向更美好的未来。
 
 ### 扩展阅读
+
 为了更深入地理解《当下的启蒙》中提到的概念和观点，以下是一些我认为非常有价值的相关书籍：
 
 《语言本能：心智如何创造语言》（The Language Instinct: How the Mind Creates Language） - 斯蒂芬·平克
