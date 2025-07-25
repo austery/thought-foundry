@@ -112,7 +112,9 @@ cover_image: "https://books.google.com/books/content?id=oNndDwAAQBAJ&printsec=fr
 
 《语言本能：心智如何创造语言》（The Language Instinct: How the Mind Creates Language） - 斯蒂芬·平克
 由《当下的启蒙》作者撰写，本书深入探讨了语言在理解人类行为和思想中的作用。它为理解人类如何通过语言表达和构建思想提供了深刻见解。
+
 《穷查理宝典：查理·芒格智慧箴言录》
 查理·芒格的思想和哲学对理解复杂世界问题提供了独特的视角，也是我最初发现平克作品的来源。这本书收集了芒格的重要演讲和思想精华。
+
 《无穷的开始》 - David Deutsch
 这本书深入讨论了人类知识和科学的进步，是对《当下的启蒙》中科学乐观主义观点的有力补充。它探讨了科学知识是如何在不断的挑战和发展中进步的。
