@@ -33,6 +33,22 @@
     /* 最后一项不需要分割线 */
 }
 
+/* 主页标签链接样式 */
+.home-layout .tag-link {
+    display: inline-block;
+    margin-left: 0.5em;
+    margin-right: 0.3em;
+    font-size: 0.85em;
+    color: var(--pico-secondary);
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.home-layout .tag-link:hover {
+    opacity: 1;
+    color: var(--pico-primary);
+}
+
 /* 书籍笔记布局样式 */
 .book-note-layout {
     max-width: 100%;

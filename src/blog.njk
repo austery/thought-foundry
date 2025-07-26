@@ -31,6 +31,16 @@ permalink: "/"
             <time datetime="{{ item.date }}">{{ item.date.toLocaleDateString() }}</time>
           {% endif %}
 
+          {# 标签部分 - 显示文章的关键词标签 #}
+          {% if item.data.tags and item.data.tags.length > 0 %}
+            {%- for tag in item.data.tags -%}
+              {%- if tag != "post" and tag != "note" and tag != "视频笔记" -%}
+                <a href="{{ ('/tags/' + (tag | slug) + '/') | url }}" class="tag-link">#{{ tag }}</a>
+                {%- if not loop.last %} {% endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {% endif %}
+
           {# 洞察部分 - 显示为什么观看这个视频或听这个播客 #}
           {% if item.data.insight %}
             <br>
