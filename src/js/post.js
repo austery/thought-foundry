@@ -10,12 +10,27 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
+    // 获取页面标题
+    const pageTitle = contentBody.getAttribute("data-page-title");
+
     // 寻找主内容区里所有的 h2 和 h3 标题
     const headings = contentBody.querySelectorAll("h2, h3");
 
-    if (headings.length > 0) {
+    // 如果有标题或者有页面标题，则生成目录
+    if (headings.length > 0 || pageTitle) {
       tocContainer.innerHTML = "<h3>目录</h3>"; // 添加目录标题
       const tocList = document.createElement("ul");
+
+      // 如果有页面标题，首先添加页面标题到目录
+      if (pageTitle) {
+        const titleItem = document.createElement("li");
+        const titleLink = document.createElement("a");
+        titleLink.setAttribute("href", "#top");
+        titleLink.textContent = pageTitle;
+        titleLink.classList.add("toc-title");
+        titleItem.appendChild(titleLink);
+        tocList.appendChild(titleItem);
+      }
 
       headings.forEach((heading, index) => {
         // 为每个标题创建一个唯一的 id，方便跳转
@@ -36,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // 将生成好的完整列表放入目录容器
       tocContainer.appendChild(tocList);
     } else {
-      // 如果文章没有 h2 或 h3 标题，就隐藏目录侧边栏
+      // 如果文章没有标题，就隐藏目录侧边栏
       tocContainer.style.display = "none";
     }
   }

@@ -36,3 +36,16 @@
 .sidebar-toc li a:hover {
     color: #0056b3;
 }
+
+/* 目录中的页面标题样式 */
+.sidebar-toc .toc-title {
+    font-weight: bold;
+    color: #333;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+}
+
+.sidebar-toc .toc-title:hover {
+    color: #007bff;
+}
