@@ -1,0 +1,34 @@
+---
+layout: "base.njk"
+---
+
+<h1>Debug Series</h1>
+
+<p>Current page series: "{{ series }}"</p>
+<p>Series length: {{ series.length if series else "undefined" }}</p>
+<p>Series trimmed: "{{ series.trim() if series else "undefined" }}"</p>
+
+<h2>All Items with Series</h2>
+{% set relatedPosts = collections.allItems | filterExcluded %}
+{% for post in relatedPosts %}
+  {% if post.data.series %}
+    <p>{{ post.data.title }} - Series: "{{ post.data.series }}" - URL: {{ post.url }}</p>
+  {% endif %}
+{% endfor %}
+
+<h2>Matching Series</h2>
+{% if series and series.trim() != '' %}
+  {% set sameSeries = [] %}
+  
+  {# 找到同一系列的其他文章 #}
+  {% for post in relatedPosts %}
+    {% if post.data.series and post.data.series.trim() == series.trim() and post.url != page.url %}
+      {% set sameSeries = (sameSeries.push(post), sameSeries) %}
+      <p>Match found: {{ post.data.title }}</p>
+    {% endif %}
+  {% endfor %}
+  
+  <p>Total matches: {{ sameSeries.length }}</p>
+{% else %}
+  <p>No series or series is empty</p>
+{% endif %}

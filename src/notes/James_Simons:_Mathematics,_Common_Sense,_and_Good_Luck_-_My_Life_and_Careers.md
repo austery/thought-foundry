@@ -12,6 +12,7 @@ tags:
 - 视频笔记
 - 詹姆斯·西蒙斯
 - 量化投资
+- 投资大师
 - 投资
 title: 'James Simons: Mathematics, Common Sense, and Good Luck - My Life and Careers'
 ---

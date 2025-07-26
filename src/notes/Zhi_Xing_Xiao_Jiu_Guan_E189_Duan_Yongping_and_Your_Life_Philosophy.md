@@ -3,7 +3,7 @@ author: Lei
 channel: 
 date: '2025-07-10'
 guest: 小波老师
-insight: 
+insight: 可以看看段永平的书，好像是他在雪球的合集
 layout: post.njk
 series:
 source: 
@@ -13,6 +13,7 @@ tags:
 - 段永平
 - 人生哲学
 - 投资
+- 投资大师
 - 知行小酒馆
 title: E189 聊聊段永平，以及你想活出怎样的人生
 ---

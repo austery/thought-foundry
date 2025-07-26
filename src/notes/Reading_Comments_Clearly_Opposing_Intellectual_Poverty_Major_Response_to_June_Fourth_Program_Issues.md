@@ -7,7 +7,7 @@ insight:
 layout: post.njk
 series:
 source: 
-speaker: 李厚辰、贾葭、伍雷
+speaker: 李厚辰,贾葭,伍雷
 tags:
 - 视频笔记
 - 中国政治
