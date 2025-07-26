@@ -10,10 +10,9 @@ tags:
 - 视频笔记
 - prompt
 - vibe Coding
-title: Vibe Coding分享会纪要
+title: Vibe Coding分享会纪要0712
 ---
 
-# Vibe Coding (同声共振编程) 分享会纪要
 
 ## 开场与介绍
 

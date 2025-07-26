@@ -12,7 +12,7 @@ tags:
 - 视频笔记
 - Vibe Coding
 - Prompt
-title: AI Vibe Coding 社区讨论会纪要
+title: AI Vibe Coding 社区讨论会纪要0705
 ---
 
 ## 开场与社区未来展望
