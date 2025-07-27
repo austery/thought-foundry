@@ -7,7 +7,7 @@ insight:
 layout: post.njk
 series:
 source: https://www.youtube.com/watch?v=Feck2fSffmI&t
-speaker: 方总
+speaker: 投资talk君
 tags:
 - 视频笔记
 - 美股投资

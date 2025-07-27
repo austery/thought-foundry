@@ -5,7 +5,7 @@ guest:
 layout: post.njk
 channel: 
 source: https://www.youtube.com/watch?v=LeFobtxKgQU&t
-speaker: 徒步的騎手
+speaker: 徒步的骑手
 tags:
   - 视频笔记
   - 自动驾驶

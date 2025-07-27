@@ -1,13 +1,13 @@
 ---
 author: Lei
-channel: 林静芝,李秀全
+channel: 
 date: '2025-07-10'
 guest: 
-insight: 
+insight: 这是团契的学习的课程。
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t
-speaker: 
+speaker: 林静芝,李秀全
 tags:
 - 视频笔记
 - 婚姻成长
