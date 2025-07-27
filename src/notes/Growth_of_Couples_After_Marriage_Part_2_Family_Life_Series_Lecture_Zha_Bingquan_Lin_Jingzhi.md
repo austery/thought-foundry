@@ -5,7 +5,7 @@ date: '2025-07-10'
 guest: 林静芝
 insight: 
 layout: post.njk
-series:
+series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
 speaker: 查秉全
 tags:
@@ -15,7 +15,7 @@ tags:
 - 感情成长
 - 家庭生活
 - 信仰
-title: 夫妻婚后的成长下
+title: 第一课：夫妻婚后的成长 下
 ---
 
 ## 单元二：感情的成长
