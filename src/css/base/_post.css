@@ -107,11 +107,33 @@
     }
 
     .sidebar-toc {
-        position: static;
-        flex-basis: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
         width: 100%;
         max-height: none;
         box-sizing: border-box;
-        margin-bottom: 20px;
+        margin-bottom: 0;
+        border-radius: 0;
+        transition: transform 0.3s ease-in-out;
+        transform: translateY(0);
+    }
+
+    /* 隐藏状态 */
+    .sidebar-toc.hidden {
+        transform: translateY(-100%);
+    }
+
+    /* 为主内容添加顶部边距，避免被固定的TOC遮挡 */
+    .main-content {
+        margin-top: 120px; /* 根据TOC高度调整 */
+        transition: margin-top 0.3s ease-in-out;
+    }
+    
+    /* 当页面body有hidden-toc类时，减少主内容的顶部边距 */
+    body.hidden-toc .main-content {
+        margin-top: 20px;
     }
 }

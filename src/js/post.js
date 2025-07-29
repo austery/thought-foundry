@@ -56,8 +56,63 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  // --- 移动端TOC滚动隐藏功能 ---
+  function initMobileTocScrollBehavior() {
+    const tocContainer = document.getElementById("toc-container");
+    if (!tocContainer) return;
+
+    // 检查是否为移动设备
+    function isMobile() {
+      return window.innerWidth <= 992;
+    }
+
+    let lastScrollTop = 0;
+    let scrollTimer = null;
+
+    function handleScroll() {
+      // 只在移动设备上执行
+      if (!isMobile()) {
+        tocContainer.classList.remove("hidden");
+        document.body.classList.remove("hidden-toc");
+        return;
+      }
+
+      const currentScrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      
+      // 防抖处理，避免滚动时频繁触发
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(() => {
+        if (currentScrollTop > lastScrollTop && currentScrollTop > 100) {
+          // 向下滚动且超过100px时隐藏TOC
+          tocContainer.classList.add("hidden");
+          document.body.classList.add("hidden-toc");
+        } else if (currentScrollTop < lastScrollTop) {
+          // 向上滚动时显示TOC
+          tocContainer.classList.remove("hidden");
+          document.body.classList.remove("hidden-toc");
+        }
+        
+        lastScrollTop = currentScrollTop;
+      }, 10);
+    }
+
+    // 监听滚动事件
+    window.addEventListener("scroll", handleScroll, { passive: true });
+
+    // 监听窗口大小变化
+    window.addEventListener("resize", () => {
+      if (!isMobile()) {
+        tocContainer.classList.remove("hidden");
+        document.body.classList.remove("hidden-toc");
+      }
+    });
+  }
+
   // 调用函数来执行目录生成
   generateTableOfContents();
+  
+  // 初始化移动端TOC滚动行为
+  initMobileTocScrollBehavior();
 
-  // 未来我们可以在这里添加“复制为Markdown”等其他功能
+  // 未来我们可以在这里添加"复制为Markdown"等其他功能
 });
