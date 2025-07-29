@@ -6,8 +6,9 @@ guest: 林静芝
 insight: 
 layout: post.njk
 series: 家庭生活系列讲座
-source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
+source: 'https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s'
 speaker: 查秉全
+summary: 
 tags:
 - 视频笔记
 - 婚姻成长

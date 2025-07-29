@@ -1,22 +1,23 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-25
 guest: 
+insight: 
 layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=LeFobtxKgQU&t
-speaker: 徒步的骑手
-tags:
-  - 视频笔记
-  - 自动驾驶
-  - 智能驾驶
-  - 特斯拉
-  - 汽车安全
-title: 智能驾驶的真相：从董车帝评测到特斯拉的“数据炼金术”
-insight: 当前“智能驾驶”技术，特别是国产车的宣传名不符实，存在巨大安全隐患。即便是行业领先的特斯拉，其安全性也备受质疑，数据存在误导性。车主应保持警惕，不能盲信宣传。
-file_name: smart_driving_truth_tesla_safety_risks.md
-draft: true
 series: 
+source: 'https://www.youtube.com/watch?v=LeFobtxKgQU&t'
+speaker: 徒步的骑手
+summary: 当前“智能驾驶”技术，特别是国产车的宣传名不符实，存在巨大安全隐患。即便是行业领先的特斯拉，其安全性也备受质疑，数据存在误导性。车主应保持警惕，不能盲信宣传。
+tags:
+- 视频笔记
+- 自动驾驶
+- 智能驾驶
+- 特斯拉
+- 汽车安全
+title: 智能驾驶的真相：从董车帝评测到特斯拉的“数据炼金术”
+file_name: smart_driving_truth_tesla_safety_risks.md
+draft: True
 ---
 
 ## 国内自动驾驶的炒作与乱象

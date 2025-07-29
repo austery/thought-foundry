@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=Jm9n1d2G3a4
+series: 
+source: 'https://www.youtube.com/watch?v=Jm9n1d2G3a4'
 speaker: 李治中
+summary: 
 tags:
 - 视频笔记
 - 癌症科普

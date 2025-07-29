@@ -2,12 +2,13 @@
 author: Lei
 channel: 尤瓦尔·诺亚·赫拉利
 date: '2025-06-11'
-guest: null
-insight: null
+guest: 
+insight: 
 layout: post.njk
-series:
-source: null
-speaker: null
+series: 
+source: 
+speaker: 
+summary: 
 tags:
 - 视频笔记
 - 人工智能

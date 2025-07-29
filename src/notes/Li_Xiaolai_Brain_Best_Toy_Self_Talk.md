@@ -5,9 +5,10 @@ date: '2025-07-15'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=nMSBPYk1nwQ&t
+series: 
+source: 'https://www.youtube.com/watch?v=nMSBPYk1nwQ&t'
 speaker: 李笑来,脱不花
+summary: 
 tags:
 - 视频笔记
 - 意志力

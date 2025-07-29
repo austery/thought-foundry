@@ -5,15 +5,16 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 美投君
+summary: 
 tags:
 - 视频笔记
 - 投资
 - 通胀风险
 - AI赋能
-title: 2025下半年美股投资展望：全面解析政策、通胀与市场机遇
+title: '2025下半年美股投资展望：全面解析政策、通胀与市场机遇'
 ---
 
 ## 1. 导言：回顾与展望

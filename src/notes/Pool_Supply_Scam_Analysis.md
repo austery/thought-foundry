@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: https.www.youtube.com/watch?v=placeholder
 speaker: steve.com
+summary: 
 tags:
 - 视频笔记
 - 泳池维护

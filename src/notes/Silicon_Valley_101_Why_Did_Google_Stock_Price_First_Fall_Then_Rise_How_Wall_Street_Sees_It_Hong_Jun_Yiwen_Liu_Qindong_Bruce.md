@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: Yiwen，刘沁东
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 弘君 (硅谷101创始人，播客主理人)
+summary: 
 tags:
 - 视频笔记
 - 谷歌

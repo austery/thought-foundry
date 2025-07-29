@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: Frank, Vivian, Zhao Rui, Wang Will, Alvin
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Lei
+summary: 
 tags:
 - 视频笔记
 - 投资

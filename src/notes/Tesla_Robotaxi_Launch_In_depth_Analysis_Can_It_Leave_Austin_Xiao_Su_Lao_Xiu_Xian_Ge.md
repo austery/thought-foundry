@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 老修, 闲哥
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=S23kV4knddk&t
+series: 
+source: 'https://www.youtube.com/watch?v=S23kV4knddk&t'
 speaker: 小苏
+summary: 
 tags:
 - 视频笔记
 - 特斯拉

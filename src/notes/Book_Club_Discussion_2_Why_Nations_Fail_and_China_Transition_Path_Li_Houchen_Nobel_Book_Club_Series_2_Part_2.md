@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=U1GEMeGOSpk&t=1s
+series: 
+source: 'https://www.youtube.com/watch?v=U1GEMeGOSpk&t=1s'
 speaker: 李厚辰
+summary: 
 tags:
 - 视频笔记
 - 国家失败

@@ -1,22 +1,23 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-28
-guest:
+guest: 
+insight: 
 layout: post.njk
-channel:
-source: https://www.youtube.com/watch?v=n13E0mBaKbc
+series: 
+source: 'https://www.youtube.com/watch?v=n13E0mBaKbc'
 speaker: 美股投资网
+summary: 本视频深入分析了顶级对冲基金大佬Bill Ackman对医保巨头UNH的看法，探讨了UNH近期暴跌的原因，并结合Netflix和CrowdStrike的案例，分析UNH是否被市场错杀，是否存在抄底机会。
 tags:
-  - 视频笔记
-  - UNH
-  - 价值投资
-  - 市场情绪
-  - 投资
+- 视频笔记
+- UNH
+- 价值投资
+- 市场情绪
+- 投资
 title: 美股顶级基金狙击UNH，暴跌背后的真相，是否迎来绝佳抄底机会？
-insight: 本视频深入分析了顶级对冲基金大佬Bill Ackman对医保巨头UNH的看法，探讨了UNH近期暴跌的原因，并结合Netflix和CrowdStrike的案例，分析UNH是否被市场错杀，是否存在抄底机会。
 file_name: top_fund_targets_UNH_opportunity_amid_plunge.md
-draft: true
-series:
+draft: True
 ---
 
 ## 引言

@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 匹马
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 刘峰, Jack
+summary: 
 tags:
 - 视频笔记
 - Meme币

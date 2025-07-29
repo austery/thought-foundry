@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-07-10'
 guest: Mohan
-insight: null
+insight: 
 layout: post.njk
-series:
-source: null
+series: 
+source: 
 speaker: INDIGO
+summary: 
 tags:
 - 视频笔记
 - 人工智能

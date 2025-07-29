@@ -5,9 +5,10 @@ date: '2025-06-20'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=DLAUDk0TFWA
+series: 
+source: 'https://www.youtube.com/watch?v=DLAUDk0TFWA'
 speaker: 徒步的骑手
+summary: 
 tags:
 - 视频笔记
 - 美国最高法院

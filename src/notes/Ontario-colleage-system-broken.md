@@ -5,9 +5,10 @@ date: '2025-05-28'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 教育

@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/@shijieshuo
+series: 
+source: 'https://www.youtube.com/@shijieshuo'
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 美国经济

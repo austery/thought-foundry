@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 刘宁
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=Feck2fSffmI&t
+series: 
+source: 'https://www.youtube.com/watch?v=Feck2fSffmI&t'
 speaker: 投资talk君
+summary: 
 tags:
 - 视频笔记
 - 美股投资

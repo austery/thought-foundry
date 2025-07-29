@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-05-25'
 guest: Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis
-insight: null
+insight: 
 layout: post.njk
-series:
-source: null
+series: 
+source: 
 speaker: Peter Diamandis
+summary: 
 tags:
 - 视频笔记
 - 人工智能

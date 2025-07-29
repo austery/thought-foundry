@@ -4,15 +4,16 @@ date: '2025-07-18'
 guest: 曹丰泽
 insight: 
 layout: post.njk
-series:
-program: 知行小酒馆
+series: 
 source: 
 speaker: 雨白
+summary: 
 tags:
 - 视频笔记
 - 个人成长
 - 知行小酒馆
 title: E196 对话曹丰泽：只要不饿死，人生没有必修课
+program: 知行小酒馆
 ---
 
 ## 引言：从“打灰”到重新定义人生

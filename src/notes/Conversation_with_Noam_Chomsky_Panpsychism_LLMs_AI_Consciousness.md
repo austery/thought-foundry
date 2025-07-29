@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-07-10'
 guest: Noam Chomsky, Joscha Bach, Avi Loeb, Karl Friston, Philip Goff, Tim Maudlin, Donald Hoffman, Norman Wildberger
-insight: null
+insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=GxZp6890hQk
+series: 
+source: 'https://www.youtube.com/watch?v=GxZp6890hQk'
 speaker: Curt Jaimungal
+summary: 
 tags:
 - 视频笔记
 - 语言学

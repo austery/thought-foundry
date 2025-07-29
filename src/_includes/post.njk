@@ -50,6 +50,22 @@ layout: "base.njk"
         <p><strong>频道:</strong> {{ channel }}</p>
       {% endif %}
       
+      {# 摘要部分 #}
+      {% if summary %}
+        <div class="summary-section">
+          <p><strong>摘要:</strong></p>
+          <div class="summary-content">{{ summary }}</div>
+        </div>
+      {% endif %}
+      
+      {# 洞察部分 #}
+      {% if insight %}
+        <div class="insight-section">
+          <p><strong>洞察:</strong></p>
+          <div class="insight-content">{{ insight }}</div>
+        </div>
+      {% endif %}
+      
       {# 关键字部分，我们直接遍历这篇文章的 tags #}
       {% if tags %}
         <p><strong>关键字:</strong> 

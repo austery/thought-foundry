@@ -5,9 +5,10 @@ date: '2025-06-14'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=1zL655wp5zg&t
+series: 
+source: 'https://www.youtube.com/watch?v=1zL655wp5zg&t'
 speaker: 王俊
+summary: 
 tags:
 - 视频笔记
 - 哲学反思

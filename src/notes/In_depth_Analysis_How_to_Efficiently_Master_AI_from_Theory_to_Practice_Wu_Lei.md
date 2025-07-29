@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-07-10'
-guest: null
-insight: null
+guest: 
+insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=-a_umjxdcIg&t=2732s
+series: 
+source: 'https://www.youtube.com/watch?v=-a_umjxdcIg&t=2732s'
 speaker: 李厚辰
+summary: 
 tags:
 - 视频笔记
 - 人工智能

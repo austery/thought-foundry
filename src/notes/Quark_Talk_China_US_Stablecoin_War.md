@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=S016G-XgRws
+series: 
+source: 'https://www.youtube.com/watch?v=S016G-XgRws'
 speaker: 夸克
+summary: 
 tags:
 - 视频笔记
 - 稳定币

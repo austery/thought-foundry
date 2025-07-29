@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: '#section-1'
 speaker: '油管@隐枫视野 '
+summary: 
 tags:
 - 视频笔记
 - 中国房地产

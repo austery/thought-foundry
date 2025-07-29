@@ -1,22 +1,23 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-27
 guest: Ray, Long, 小西瓜, Mike, Betty, 伊文, Alex
+insight: 
 layout: post.njk
-channel: ''
-source: ''
-speaker: 张敏
-tags:
-  - 视频笔记
-  - AI工具
-  - Vibe Coding
-  - Context Engineering
-  - 生产力
-title: 从Context Engineering 到无限制创作,Vibe Coding的社区0725
-insight: 讨论了如何利用 Gemini CLI 和 Claude Code 等 AI 工具，通过 Context Engineering 的思维模式，打破传统工作限制，实现自动化和高效创作，强调了为 AI 工具付费和提出“非分”要求的重要性。
-file_name: ai_workflow_revolution_context_engineering.md
-draft: true
 series: 
+source: 
+speaker: 张敏
+summary: 讨论了如何利用 Gemini CLI 和 Claude Code 等 AI 工具，通过 Context Engineering 的思维模式，打破传统工作限制，实现自动化和高效创作，强调了为 AI 工具付费和提出“非分”要求的重要性。
+tags:
+- 视频笔记
+- AI工具
+- Vibe Coding
+- Context Engineering
+- 生产力
+title: 从Context Engineering 到无限制创作,Vibe Coding的社区0725
+file_name: ai_workflow_revolution_context_engineering.md
+draft: True
 ---
 
 ## 开场与初体验

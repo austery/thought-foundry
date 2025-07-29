@@ -5,15 +5,15 @@ date: '2025-05-25'
 guest: Catherine Rampell
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Ezra Klein
+summary: 
 tags:
 - 视频笔记
 - 美国政治
 - 经济影响
-title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part
-  2) - Dialogue'
+title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part 2) - Dialogue'
 ---
 
 # Why Ezra Klein is So F\*\*\*ing Angry (with Democrats)

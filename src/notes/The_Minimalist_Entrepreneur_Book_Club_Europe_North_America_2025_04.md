@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Vivian, Simon L,Ge Su, 路遥, Kathy, 翻新, Fancy
+summary: 
 tags:
 - 视频笔记
 - 副业

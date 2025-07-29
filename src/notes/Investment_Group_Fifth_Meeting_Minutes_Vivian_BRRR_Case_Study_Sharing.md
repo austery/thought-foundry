@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: Vivian, michelle, alvin, Frank
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Lei
+summary: 
 tags:
 - 视频笔记
 - BRRR策略

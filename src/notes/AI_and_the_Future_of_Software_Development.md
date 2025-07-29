@@ -8,6 +8,7 @@ layout: post.njk
 series: AI企业应用研讨会
 source: 
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 软件开发

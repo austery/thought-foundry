@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 李厚辰
+summary: 
 tags:
 - 视频笔记
 - 中国经济

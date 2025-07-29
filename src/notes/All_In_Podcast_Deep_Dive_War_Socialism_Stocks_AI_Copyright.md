@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-07-10'
 guest: 无
-insight: null
+insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=Dp75wqOrtBs
+series: 
+source: 'https://www.youtube.com/watch?v=Dp75wqOrtBs'
 speaker: Jason Calacanis, David Sacks, Chamath Palihapitiya, David Friedberg
+summary: 
 tags:
 - 视频笔记
 - 国际政治

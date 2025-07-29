@@ -5,9 +5,10 @@ date: '2025-05-25'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Sundar Pichai
+summary: 
 tags:
 - 视频笔记
 - 谷歌

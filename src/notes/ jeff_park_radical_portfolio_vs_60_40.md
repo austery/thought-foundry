@@ -1,11 +1,14 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-26
 guest: Jeff Park
+insight: 
 layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=vv56d_TbpZo&t
+series: 
+source: 'https://www.youtube.com/watch?v=vv56d_TbpZo&t'
 speaker: David Bonnie,Jeff Park
+summary: 我也对债券的投资和资产组合很感兴趣，60/40，还有50/50的coach potato的方式曾经很流行。放在，传统的60/40投资组合因政府干预和资产相关性而失效。“激进投资组合”提出用以稀缺性、不可替代性和抗审查性为特点的抵抗性资产（比特币、黄金、艺术品）来对冲合规性资产（股票、债券）。
 tags:
 - 视频笔记
 - 激进投资组合
@@ -14,9 +17,7 @@ tags:
 - 比特币
 - 资产稀缺性
 title: Jeff Park：为何传统60/40投资组合正在失效以及激进投资组合的兴起
-insight: 我也对债券的投资和资产组合很感兴趣，60/40，还有50/50的coach potato的方式曾经很流行。放在，传统的60/40投资组合因政府干预和资产相关性而失效。“激进投资组合”提出用以稀缺性、不可替代性和抗审查性为特点的抵抗性资产（比特币、黄金、艺术品）来对冲合规性资产（股票、债券）。
-draft: true
-series: ''
+draft: True
 ---
 ## 引言与嘉宾介绍
 

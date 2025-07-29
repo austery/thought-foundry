@@ -5,9 +5,10 @@ date: '2025-06-20'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 乌克兰

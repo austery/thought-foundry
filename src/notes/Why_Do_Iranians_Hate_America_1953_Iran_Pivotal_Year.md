@@ -3,11 +3,12 @@ author: Lei
 channel: 
 date: '2025-07-10'
 guest: 
-insight: 这期是伊朗近代现代历史的一部分，只能说各个国家都有自己独特经历。本报告整理自一期历史分析视频，该视频深入探讨了1953年伊朗政变的历史背景、过程及其深远影响，旨在揭示伊朗与西方世界复杂关系的历史根源。
+insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=LI-o2VWBQaU&t
+series: 
+source: 'https://www.youtube.com/watch?v=LI-o2VWBQaU&t'
 speaker: 路飞
+summary: 这期是伊朗近代现代历史的一部分，只能说各个国家都有自己独特经历。本报告整理自一期历史分析视频，该视频深入探讨了1953年伊朗政变的历史背景、过程及其深远影响，旨在揭示伊朗与西方世界复杂关系的历史根源。
 tags:
 - 视频笔记
 - 伊朗历史

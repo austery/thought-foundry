@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: Tom Lee
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+series: 
+source: 'https://www.youtube.com/watch?v=YOUR_VIDEO_ID'
 speaker: Tampuro代表
+summary: 
 tags:
 - 视频笔记
 - 投资

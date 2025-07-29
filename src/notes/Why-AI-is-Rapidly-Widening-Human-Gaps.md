@@ -1,19 +1,20 @@
 ---
 author: Lei
-channel: null
-date: "2025-05-25"
-guest: null
-insight: null
+channel: 
+date: '2025-05-25'
+guest: 
+insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=Q00ABRDePls
+series: 
+source: 'https://www.youtube.com/watch?v=Q00ABRDePls'
 speaker: Anthony
+summary: 
 tags:
-  - 视频笔记
-  - 人工智能
-  - 学习方法
-  - 人际关系
-  - 心理学
+- 视频笔记
+- 人工智能
+- 学习方法
+- 人际关系
+- 心理学
 title: 为什么说AI正在迅速拉开人的差距？
 ---
 

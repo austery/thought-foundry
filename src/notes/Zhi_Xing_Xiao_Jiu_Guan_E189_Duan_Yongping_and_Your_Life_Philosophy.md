@@ -3,11 +3,12 @@ author: Lei
 channel: 
 date: '2025-07-10'
 guest: 小波老师
-insight: 可以看看段永平的书，好像是他在雪球的合集
+insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 雨白
+summary: 可以看看段永平的书，好像是他在雪球的合集
 tags:
 - 视频笔记
 - 段永平

@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-06-08'
-guest: null
-insight: null
+guest: 
+insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=C-UBrnSjdLg&t
+series: 
+source: 'https://www.youtube.com/watch?v=C-UBrnSjdLg&t'
 speaker: 吴翼
+summary: 
 tags:
 - 视频笔记
 - 人工智能

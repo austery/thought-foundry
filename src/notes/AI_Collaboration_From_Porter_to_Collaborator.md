@@ -5,9 +5,10 @@ date: '2025-06-10'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=-a_umjxdcIg&t
+series: 
+source: 'https://www.youtube.com/watch?v=-a_umjxdcIg&t'
 speaker: 李厚辰
+summary: 
 tags:
 - 视频笔记
 - Prompt

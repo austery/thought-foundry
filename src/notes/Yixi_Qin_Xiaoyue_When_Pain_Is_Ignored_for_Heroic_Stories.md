@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: '#section-1'
 speaker: 秦潇越（纪录片导演）
+summary: 
 tags:
 - 视频笔记
 - 纪录片

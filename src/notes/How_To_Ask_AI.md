@@ -5,9 +5,10 @@ date: '2025-07-07'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=zx1T6TLDZ5I
+series: 
+source: 'https://www.youtube.com/watch?v=zx1T6TLDZ5I'
 speaker: Max (全麦AI搜索)
+summary: 
 tags:
 - 视频笔记
 - Prompt

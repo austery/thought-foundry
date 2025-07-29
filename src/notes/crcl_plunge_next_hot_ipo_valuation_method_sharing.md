@@ -1,21 +1,22 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-23
-guest: ""
+guest: 
+insight: 
 layout: post.njk
-series:
-channel: ""
-source: https://www.youtube.com/watch?v=cu0u-aflw5w
+series: 
+source: 'https://www.youtube.com/watch?v=cu0u-aflw5w'
 speaker: 投资TALK君
+summary: 市场分析员小涛深入分析了Figma的IPO估值，认为其极具吸引力。同时解读了通用汽车和可口可乐的财报，并探讨了近期美股市场的板块轮动现象与Circle的技术面走势。
 tags:
 - 视频笔记
 - IPO
 - 财报分析
 - 市场轮动
 title: CRCL大跌后的反思与下一个热门IPO（Figma）估值分析
-insight: 市场分析员小涛深入分析了Figma的IPO估值，认为其极具吸引力。同时解读了通用汽车和可口可乐的财报，并探讨了近期美股市场的板块轮动现象与Circle的技术面走势。
 file_name: crcl_plunge_next_hot_ipo_valuation_method_sharing.md
-draft: true
+draft: True
 ---
 
 各位观众大家好，欢迎来到一个不单只聊新闻的专业日更美股频道，我是市场分析员小涛。今天为大家准备了丰富的新内容，涵盖财报、热门IPO以及个股分析。

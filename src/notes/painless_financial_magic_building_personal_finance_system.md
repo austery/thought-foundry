@@ -1,21 +1,22 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-26
 guest: 仝仝, 星星
+insight: 
 layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=xAGGr91RBzQ&t
-speaker: 雨白, 仝仝, 星星
-tags:
-  - 视频笔记
-  - 理财
-  - 个人财务
-  - 投资
-  - 知行小酒馆
-title: "#197 无痛理财魔法：构建让生活更轻松的个人财务系统"
-insight: 本期节目分享了三位主播在不同人生阶段的个人理财经验，探讨如何通过建立适合自己的财务习惯和系统，实现财务安心与生活从容。
-draft: true
 series: 
+source: 'https://www.youtube.com/watch?v=xAGGr91RBzQ&t'
+speaker: 雨白, 仝仝, 星星
+summary: 本期节目分享了三位主播在不同人生阶段的个人理财经验，探讨如何通过建立适合自己的财务习惯和系统，实现财务安心与生活从容。
+tags:
+- 视频笔记
+- 理财
+- 个人财务
+- 投资
+- 知行小酒馆
+title: '#197 无痛理财魔法：构建让生活更轻松的个人财务系统'
+draft: True
 ---
 
 ## 引言：悄然改变生活的财务小习惯

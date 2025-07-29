@@ -3,11 +3,12 @@ author: Lei
 channel: 不明白播客
 date: '2025-07-10'
 guest: 李厚辰
-insight: null
+insight: 
 layout: post.njk
-series:
-source: https://bumingbai.net/2025/06/20/155-lhc-text/
+series: 
+source: 'https://bumingbai.net/2025/06/20/155-lhc-text/'
 speaker: 袁莉
+summary: 
 tags:
 - 视频笔记
 - 中国经济

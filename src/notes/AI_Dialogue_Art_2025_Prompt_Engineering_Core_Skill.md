@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-07-07'
-guest: null
-insight: null
+guest: 
+insight: 
 layout: post.njk
-series:
-source: null
+series: 
+source: 
 speaker: Mike
+summary: 
 tags:
 - 视频笔记
 - 人工智能

@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-05-30'
-guest: null
-insight: null
+guest: 
+insight: 
 layout: post.njk
-series:
-source: null
+series: 
+source: 
 speaker: 李厚辰, 伍雷, 贾葭
+summary: 
 tags:
 - 视频笔记
 - 人工智能

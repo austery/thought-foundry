@@ -5,17 +5,17 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
-speaker: Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan, 婷, Victor, Kayden,
-  张硕
+speaker: Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan, 婷, Victor, Kayden, 张硕
+summary: 
 tags:
 - 视频笔记
 - 创业
 - 社群
 - 副业
 - 读书会
-title: 「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
+title: '「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享'
 ---
 
 **主讲人：** Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan,

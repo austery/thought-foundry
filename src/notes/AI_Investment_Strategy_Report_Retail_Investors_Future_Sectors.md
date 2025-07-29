@@ -5,14 +5,15 @@ date: '2025-06-28'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
+series: 
+source: 'https://www.youtube.com/watch?v=YOUR_VIDEO_ID'
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 投资
 title: AI投资策略报告：普通散户如何布局未来赛道？
-exclude: true
+exclude: True
 ---
 
 大家好！今天是2025年6月28日，欢迎来到“老科谈科技股”。本频道旨在通过深入追踪和分析科技行业的大趋势，帮助投资者顺势而为，长期投资于半导体、云计算和人工智能（AI）等科技股。

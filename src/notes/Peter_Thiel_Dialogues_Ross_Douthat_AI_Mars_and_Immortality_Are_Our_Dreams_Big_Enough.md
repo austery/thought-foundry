@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: Peter Thiel (彼得·蒂尔)
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=kY6iE8tC3aI
+series: 
+source: 'https://www.youtube.com/watch?v=kY6iE8tC3aI'
 speaker: Ross Douthat (罗斯·杜塔特)
+summary: 
 tags:
 - 视频笔记
 - 技术停滞

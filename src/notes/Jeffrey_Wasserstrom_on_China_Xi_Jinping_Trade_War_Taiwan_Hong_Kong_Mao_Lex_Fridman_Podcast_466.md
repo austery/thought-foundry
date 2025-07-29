@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 中国政治
@@ -15,8 +16,7 @@ tags:
 - 毛泽东
 - 天安门事件
 - 香港
-title: 'Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao
-  | Lex Fridman Podcast #466'
+title: 'Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao | Lex Fridman Podcast #466'
 ---
 
 **讲述者简介：** 以下内容是现代中国历史学家杰弗里·瓦瑟斯特罗姆（Jeffrey

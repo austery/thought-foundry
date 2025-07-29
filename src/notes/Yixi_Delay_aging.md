@@ -5,9 +5,10 @@ date: '2020-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 田烨
+summary: 
 tags:
 - 视频笔记
 - 健康

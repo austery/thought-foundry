@@ -5,9 +5,10 @@ date: '2025-07-12'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 张敏
+summary: 
 tags:
 - 视频笔记
 - Vibe Coding

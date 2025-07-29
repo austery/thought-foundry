@@ -1,20 +1,21 @@
 ---
 author: Lei
+channel: 'https://www.youtube.com/@googledeepmind'
 date: 2025-07-21
 guest: Murray Shanahan
+insight: 
 layout: post.njk
-series:
-channel: https://www.youtube.com/@googledeepmind
-source: https://www.youtube.com/watch?v=v1Py_hWcmkU&t
+series: 
+source: 'https://www.youtube.com/watch?v=v1Py_hWcmkU&t'
 speaker: Hannah Fry,Murray Shanahan
+summary: 我对于AI是否有智能很感兴趣，看看大佬的访谈。Murray Shanahan 与 Hannah Fry 探讨了人工智能的哲学问题，从符号AI到神经网络，深入分析了机器的推理能力、意识的多面性、图灵测试的局限性，以及我们应如何理解这些新兴的“异类的类心实体”。
 tags:
-  - 视频笔记
-  - 人工智能
-  - 意识
-  - 哲学
-  - 推理
+- 视频笔记
+- 人工智能
+- 意识
+- 哲学
+- 推理
 title: AI、意识与推理：与 Murray Shanahan 的哲学思辨
-insight: 我对于AI是否有智能很感兴趣，看看大佬的访谈。Murray Shanahan 与 Hannah Fry 探讨了人工智能的哲学问题，从符号AI到神经网络，深入分析了机器的推理能力、意识的多面性、图灵测试的局限性，以及我们应如何理解这些新兴的“异类的类心实体”。
 ---
 
 ## AI 哲学的深远问题

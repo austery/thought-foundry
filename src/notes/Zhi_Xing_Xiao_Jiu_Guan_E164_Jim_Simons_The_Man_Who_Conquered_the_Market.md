@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 跑狮, 大卫翁
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=W1APBdE8wOs
+series: 
+source: 'https://www.youtube.com/watch?v=W1APBdE8wOs'
 speaker: 雨白
+summary: 
 tags:
 - 视频笔记
 - 量化投资

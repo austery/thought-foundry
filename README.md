@@ -15,6 +15,8 @@ Thought Foundry is a personal knowledge base and digital garden built with [Elev
 * **SEO-Friendly Slugs**: The site uses the `pinyin` and `slugify` libraries to automatically generate clean, readable URLs from post titles, even those in Chinese.
 * **Book Notes Template**: Specialized template for book reviews with metadata display including author, publisher, rating, cover images, and reading dates.
 * **Enhanced Template System**: Improved display logic showing source URLs in channel field instead of raw links, with better metadata presentation.
+* **Summary and Insight Display**: Dual-field system displaying content summaries and personal insights with visual distinction on both blog pages and individual posts.
+* **Frontmatter Migration Tools**: Automated Python scripts for restructuring frontmatter fields while preserving content and maintaining data integrity.
 * **Data Integrity Tools**: Built-in debugging tools to detect and resolve data quality issues like overly long speaker fields or malformed frontmatter.
 * **Flat Frontmatter Structure**: Uses industry-standard flat frontmatter structure instead of nested data objects for better maintainability.
 * **Automated Deployment**: The project includes a GitHub Actions workflow that automatically builds and deploys the site to GitHub Pages whenever changes are pushed to the `main` branch.

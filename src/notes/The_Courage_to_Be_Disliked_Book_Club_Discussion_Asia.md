@@ -5,10 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
-speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel,
-  David
+speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel, David
+summary: 
 tags:
 - 视频笔记
 - 被讨厌的勇气

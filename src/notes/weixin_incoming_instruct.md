@@ -5,9 +5,10 @@ date: '2025-07-29'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Google Gemini
+summary: 
 tags:
 - 视频笔记
 - 指南

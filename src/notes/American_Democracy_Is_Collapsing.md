@@ -5,16 +5,16 @@ date: '2025-06-17'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: '#${id}'
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 美国政治
 - 全球化
 - 中国模式
-title: American Democracy Is Collapsing, And This Man Predicted It | Aaron Bastani
-  Meets Joseph Stiglitz
+title: 'American Democracy Is Collapsing, And This Man Predicted It | Aaron Bastani Meets Joseph Stiglitz'
 ---
 
 ### Speakers

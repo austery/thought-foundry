@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=3mUdydbgw3U&t
+series: 
+source: 'https://www.youtube.com/watch?v=3mUdydbgw3U&t'
 speaker: Mr. Sun
+summary: 
 tags:
 - 视频笔记
 - 稳定币

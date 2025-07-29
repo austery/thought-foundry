@@ -5,9 +5,10 @@ date: '2025-05-25'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 大问题阿伦
+summary: 
 tags:
 - 视频笔记
 - 斯多葛主义

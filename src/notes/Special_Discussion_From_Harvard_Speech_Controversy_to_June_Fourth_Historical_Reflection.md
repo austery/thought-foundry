@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 老尹
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 路飞
+summary: 
 tags:
 - 视频笔记
 - 哈佛演讲

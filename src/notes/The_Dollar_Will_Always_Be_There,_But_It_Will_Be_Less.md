@@ -5,9 +5,10 @@ date: '2025-06-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Kenneth Rogoff
+summary: 
 tags:
 - 视频笔记
 - 美元

@@ -2,12 +2,13 @@
 author: Lei
 channel: Ezra Klein Show
 date: '2025-05-25'
-guest: null
-insight: null
+guest: 
+insight: 
 layout: post.njk
-series:
-source: null
+series: 
+source: 
 speaker: Ezra，Rebecca
+summary: 
 tags:
 - 视频笔记
 - 人工智能

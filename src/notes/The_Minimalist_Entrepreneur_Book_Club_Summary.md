@@ -5,14 +5,15 @@ date: '2025-06-06'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 小小而美
 - 读书会
-title: 《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary
+title: '《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary'
 ---
 
 

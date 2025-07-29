@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 陈茜, 刘一鸣, 鲁漪文
+summary: 
 tags:
 - 视频笔记
 - 特斯拉

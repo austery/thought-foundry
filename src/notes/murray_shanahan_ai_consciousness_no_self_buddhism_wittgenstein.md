@@ -1,12 +1,14 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-21
 guest: Murray Shanahan
+insight: 
 layout: post.njk
-series:
-channel: 
-source: https://www.youtube.com/watch?v=bBdE7ojaN9k&t
+series: 
+source: 'https://www.youtube.com/watch?v=bBdE7ojaN9k&t'
 speaker: Jonathan B., Murray Shanahan
+summary: 听了Murry的另一篇，我又找来这篇看看。帝国理工学院的默里·沙纳汉探讨了如何验证机器意识。他认为，研究AI意识揭示了人类自我的本质，并借鉴佛教哲学与维特根斯坦的思想，提出“自我”可能只是一种幻觉，而大语言模型正以一种独特的方式向我们展示了“无我”的概念。
 tags:
 - 视频笔记
 - 人工智能
@@ -15,7 +17,6 @@ tags:
 - 维特根斯坦
 - 全局工作空间理论
 title: 默里·沙纳汉：从佛教与维特根斯坦视角，探讨人工智能意识与“无我”的深层联系
-insight: 听了Murry的另一篇，我又找来这篇看看。帝国理工学院的默里·沙纳汉探讨了如何验证机器意识。他认为，研究AI意识揭示了人类自我的本质，并借鉴佛教哲学与维特根斯坦的思想，提出“自我”可能只是一种幻觉，而大语言模型正以一种独特的方式向我们展示了“无我”的概念。
 ---
 
 ## 介绍：我们为何要关心人工智能意识？

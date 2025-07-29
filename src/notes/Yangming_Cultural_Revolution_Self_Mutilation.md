@@ -5,16 +5,17 @@ date: '2025-07-07'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=0h09gC2c60Y
+series: 
+source: 'https://www.youtube.com/watch?v=0h09gC2c60Y'
 speaker: Anthony
+summary: 
 tags:
 - 视频笔记
 - 阳明心学
 - 文化大革命
 - 思想改造
 - 精神自虐
-title: 解析阳明心学与文革思维的内在联系 | 安东尼
+title: '解析阳明心学与文革思维的内在联系 | 安东尼'
 ---
 
 # 解密阳明心学到文革的惊人一致：中国文化中的精神自虐机制

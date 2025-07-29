@@ -1,19 +1,20 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-21
 guest: 
+insight: 
 layout: post.njk
-series:
-channel: 
-source: https://www.youtube.com/watch?v=fjOH0N_AtY0
+series: 
+source: 'https://www.youtube.com/watch?v=fjOH0N_AtY0'
 speaker: 投资TALK君
+summary: 美国银行研报指出，尽管美股三大卖出信号已被触发，但市场参与度指标尚显中性。真正的回调风险可能源于债券市场的波动，而非股市本身。
 tags:
-  - 视频笔记
-  - 美股
-  - 美国银行
-  - 市场情绪
+- 视频笔记
+- 美股
+- 美国银行
+- 市场情绪
 title: 美国银行研报：美股三大卖出信号已现，但真正的风险或在别处
-insight: 美国银行研报指出，尽管美股三大卖出信号已被触发，但市场参与度指标尚显中性。真正的回调风险可能源于债券市场的波动，而非股市本身。
 ---
 
 ## 周一市场走势回顾

@@ -3,11 +3,12 @@ author: Lei
 channel: 
 date: '2025-06-09'
 guest: 
-insight: 看看他对于市场参与度的使用
+insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 投资TALK君
+summary: 看看他对于市场参与度的使用
 tags:
 - 视频笔记
 - 投资

@@ -5,9 +5,10 @@ date: '2025-06-30'
 guest: Jim Chanos
 insight: 
 layout: post.njk
-series:
-source: https://www.bloomberg.com/news/articles/2024-07-02/odd-lots-jim-chanos-on-the-nuttiness-of-bitcoin-treasury-companies
+series: 
+source: 'https://www.bloomberg.com/news/articles/2024-07-02/odd-lots-jim-chanos-on-the-nuttiness-of-bitcoin-treasury-companies'
 speaker: Tracy Alloway, Joe Weisenthal
+summary: 
 tags:
 - 视频笔记
 - 吉姆·查诺斯
@@ -15,7 +16,7 @@ tags:
 - 卖空
 - 高频交易
 - 特斯拉
-title: 吉姆·查诺斯谈“比特币金库公司”的疯狂 | Odd Lots 现场版
+title: '吉姆·查诺斯谈“比特币金库公司”的疯狂 | Odd Lots 现场版'
 ---
 
 ## 引言

@@ -5,9 +5,10 @@ date: '2025-06-14'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Joseph Wang
+summary: 
 tags:
 - 视频笔记
 - 美联储

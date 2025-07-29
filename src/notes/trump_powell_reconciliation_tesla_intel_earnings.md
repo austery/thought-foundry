@@ -1,20 +1,21 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-24
-guest:
+guest: 
+insight: 
 layout: post.njk
-channel:
-source:
+source: 
 speaker: 投资TALK君
+summary: 分析川普与鲍威尔和解，更新谷歌、特斯拉财报数据，并深入解读英特尔的最新财报与未来战略。
 tags:
-  - 视频笔记
-  - 特斯拉
-  - 英特尔
-  - 财报
+- 视频笔记
+- 特斯拉
+- 英特尔
+- 财报
 title: 川普鲍威尔和解！特斯拉利润下调，英特尔大跌的原因！
-insight: 分析川普与鲍威尔和解，更新谷歌、特斯拉财报数据，并深入解读英特尔的最新财报与未来战略。
 file_name: trump_powell_reconciliation_tesla_intel_earnings
-draft: true
+draft: True
 ---
 
 ## 引言

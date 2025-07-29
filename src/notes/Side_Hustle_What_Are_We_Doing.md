@@ -5,9 +5,10 @@ date: '2025-06-07'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Yehuan
+summary: 
 tags:
 - 视频笔记
 - 副业探索

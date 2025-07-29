@@ -3,11 +3,12 @@ author: Lei
 channel: 逃课访谈
 date: '2025-07-10'
 guest: Ben,hris
-insight:
+insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=Zpdu-DUU9fY&t
+series: 
+source: 'https://www.youtube.com/watch?v=Zpdu-DUU9fY&t'
 speaker: 投资TALK君
+summary: 
 tags:
 - 视频笔记
 - 稳定币

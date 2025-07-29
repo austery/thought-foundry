@@ -5,9 +5,10 @@ date: '2025-07-05'
 guest: Tom Lee
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=VIDEO_ID_HERE
+series: 
+source: 'https://www.youtube.com/watch?v=VIDEO_ID_HERE'
 speaker: 
+summary: 
 tags:
 - 视频笔记
 - 投资

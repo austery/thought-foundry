@@ -5,6 +5,58 @@
     text-decoration: none;
 }
 
+/* 摘要和洞察部分样式 */
+.summary-section, .insight-section {
+    margin: 1em 0;
+    padding: 1em;
+    border-radius: calc(var(--pico-border-radius) / 2);
+}
+
+.summary-section {
+    background-color: #f0f8ff;
+    border-left: 3px solid #4a90e2;
+}
+
+.insight-section {
+    background-color: #fffbf0;
+    border-left: 3px solid #f39c12;
+}
+
+.summary-content, .insight-content {
+    margin-top: 0.5em;
+    line-height: 1.6;
+    color: var(--pico-color);
+}
+
+.summary-section p strong {
+    color: #4a90e2;
+}
+
+.insight-section p strong {
+    color: #f39c12;
+}
+
+/* 博客页面的摘要和洞察样式 */
+.summary-text, .insight-text {
+    display: block;
+    margin-top: 0.5em;
+    padding: 0.5em;
+    border-radius: calc(var(--pico-border-radius) / 2);
+    line-height: 1.4;
+}
+
+.summary-text {
+    background-color: #f0f8ff;
+    color: #2c5aa0;
+    border-left: 2px solid #4a90e2;
+}
+
+.insight-text {
+    background-color: #fffbf0;
+    color: #cc7a00;
+    border-left: 2px solid #f39c12;
+}
+
 /* 系列相关文章样式 */
 .related-series {
     background-color: #f5f5f5;

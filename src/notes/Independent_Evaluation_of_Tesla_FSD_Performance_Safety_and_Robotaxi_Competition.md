@@ -1,23 +1,24 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-26
 guest: 
+insight: 
 layout: post.njk
-channel: 
+series: 
 source: 
 speaker: Google Gemini
+summary: 这是对于另外一篇“徒步的骑手”对于特斯拉质疑的回应，也是我思考是否投资特斯拉的起点。
 tags:
-  - 视频笔记
-  - 自动驾驶
-  - 智能驾驶
-  - 投资
-  - 特斯拉
-  - 汽车安全
+- 视频笔记
+- 自动驾驶
+- 智能驾驶
+- 投资
+- 特斯拉
+- 汽车安全
 title: 对特斯拉完全自动驾驶（FSD）技术的独立评估：性能、安全与Robotaxi的博弈
-insight: 这是对于另外一篇“徒步的骑手”对于特斯拉质疑的回应，也是我思考是否投资特斯拉的起点。
 file_name: 
-draft: true
-series: 
+draft: True
 ---
 
 ## 执行摘要

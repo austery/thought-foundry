@@ -3,11 +3,12 @@ author: Lei
 channel: 知行小酒馆
 date: '2025-06-10'
 guest: 王汉洋
-insight: null
+insight: 
 layout: post.njk
-series:
-source: null
+series: 
+source: 
 speaker: 雨白
+summary: 
 tags:
 - 视频笔记
 - 人工智能

@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=li5mqxcSpfQ&t
+series: 
+source: 'https://www.youtube.com/watch?v=li5mqxcSpfQ&t'
 speaker: 李厚辰
+summary: 
 tags:
 - 视频笔记
 - 马基雅维里时刻

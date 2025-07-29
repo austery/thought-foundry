@@ -1,22 +1,23 @@
 ---
 author: Lei
+channel: 
 date: 2025-07-28
 guest: Ivan, Alex, Zalira, Tracy, Dora, Asuka Ci, Serena, 嘉欣
+insight: 
 layout: post.njk
-channel: 
+series: 
 source: 
 speaker: Ray, 小西瓜, Ivan, Alex, Zalira, Tracy, Dora, Asuka Ci, Serena, 嘉欣
+summary: 本次读书会深入探讨了《Hidden Potential》一书的核心理念，成员们结合个人经历，分享了关于走出舒适区、克服完美主义、以及在实践中持续学习和成长的心得。
 tags:
-  - 视频笔记
-  - Hidden Potential
-  - 舒适区
-  - 完美主义
-  - 自我成长
+- 视频笔记
+- Hidden Potential
+- 舒适区
+- 完美主义
+- 自我成长
 title: 《Hidden Potential》读书会：拥抱不适，打破完美主义，释放内在潜能
-insight: 本次读书会深入探讨了《Hidden Potential》一书的核心理念，成员们结合个人经历，分享了关于走出舒适区、克服完美主义、以及在实践中持续学习和成长的心得。
 file_name: hidden_potential_book_club_embrace_discomfort.md
-draft: true
-series: 
+draft: True
 ---
 
 ## 开场与问候

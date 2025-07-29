@@ -5,9 +5,10 @@ date: '2025-07-07'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: talk君
+summary: 
 tags:
 - 视频笔记
 - 特斯拉

@@ -5,9 +5,10 @@ date: '2025-06-11'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 詹姆斯·西蒙斯
+summary: 
 tags:
 - 视频笔记
 - 詹姆斯·西蒙斯

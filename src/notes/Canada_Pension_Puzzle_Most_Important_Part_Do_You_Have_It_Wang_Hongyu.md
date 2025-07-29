@@ -5,9 +5,10 @@ date: '2025-06-05'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 王红雨
+summary: 
 tags:
 - 视频笔记
 - 加拿大

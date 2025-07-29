@@ -7,6 +7,7 @@ insight:
 layout: post.njk
 source: 
 speaker: 夸克
+summary: 
 tags:
 - 视频笔记
 - 数字极权

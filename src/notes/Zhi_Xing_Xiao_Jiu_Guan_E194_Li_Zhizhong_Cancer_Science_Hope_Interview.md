@@ -4,16 +4,17 @@ date: '2025-07-09'
 guest: 李志忠（菠萝）
 insight: 
 layout: post.njk
-series:
-program: 知行小酒馆
-source: https://www.youtube.com/watch?v=giSlEc0ZofI&t
+series: 
+source: 'https://www.youtube.com/watch?v=giSlEc0ZofI&t'
 speaker: 雨白
+summary: 
 tags:
 - 视频笔记
 - 癌症科普
 - Health
 - 知行小酒馆
 title: E194 当科普面对算法高墙：癌症生物学博士李志忠谈《癌症天敌》与信息茧房的突围
+program: 知行小酒馆
 ---
 
 ## 引言：科普的持久影响力与现实困境

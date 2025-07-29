@@ -5,9 +5,10 @@ date: '2025-06-07'
 guest: Vincent, Jay, Thomas
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 独行
+summary: 
 tags:
 - 视频笔记
 - Prompt

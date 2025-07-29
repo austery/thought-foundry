@@ -5,9 +5,10 @@ date: '2025-07-10'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Vivian,Simon,Ge Su,路遥,金玲,Chelsea,翻新,Fancy
+summary: 
 tags:
 - 视频笔记
 - 小而美

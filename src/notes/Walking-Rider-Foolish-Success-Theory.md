@@ -5,9 +5,10 @@ date: '2025-05-25'
 guest: 
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: 徒步的骑手
+summary: 
 tags:
 - 视频笔记
 - 人性弱点

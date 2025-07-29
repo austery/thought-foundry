@@ -6,8 +6,9 @@ guest:
 insight: 
 layout: post.njk
 series: 家庭生活系列讲座
-source: https://www.youtube.com/watch?v=0_3-hCgQ36c
+source: 'https://www.youtube.com/watch?v=0_3-hCgQ36c'
 speaker: 林静芝,李秀全
+summary: 
 tags:
 - 视频笔记
 - 婚姻关系

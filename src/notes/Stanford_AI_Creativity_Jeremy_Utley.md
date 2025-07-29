@@ -1,13 +1,14 @@
 ---
 author: Lei
-channel: null
+channel: 
 date: '2025-04-27'
-guest: null
-insight: null
+guest: 
+insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=wv779vmyPVY&t
+series: 
+source: 'https://www.youtube.com/watch?v=wv779vmyPVY&t'
 speaker: Jeremy Utley
+summary: 
 tags:
 - 视频笔记
 - 人工智能

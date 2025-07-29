@@ -5,9 +5,10 @@ date: '2025-07-06'
 guest: Amy, Ray, Jay, Vincent
 insight: 
 layout: post.njk
-series:
+series: 
 source: 
 speaker: Dusing
+summary: 
 tags:
 - 视频笔记
 - Vibe Coding

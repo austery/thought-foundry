@@ -5,9 +5,10 @@ date: '2024-10-10'
 guest: 
 insight: 
 layout: post.njk
-series:
-source: https://www.youtube.com/watch?v=XXK5wOWh7vM&t
+series: 
+source: 'https://www.youtube.com/watch?v=XXK5wOWh7vM&t'
 speaker: 夏先生
+summary: 
 tags:
 - 视频笔记
 - 真相与信念
