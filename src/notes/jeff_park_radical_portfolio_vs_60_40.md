@@ -3,12 +3,12 @@ author: Lei
 channel: 
 date: 2025-07-26
 guest: Jeff Park
-insight: 
+insight: 我也对债券的投资和资产组合很感兴趣，60/40，还有50/50的coach potato的方式曾经很流行。要思考为什么它们失效了。基本的理解是股票和债券相关性太强了，同时没有太高的利率了。
 layout: post.njk
 series: 
 source: 'https://www.youtube.com/watch?v=vv56d_TbpZo&t'
 speaker: David Bonnie,Jeff Park
-summary: 我也对债券的投资和资产组合很感兴趣，60/40，还有50/50的coach potato的方式曾经很流行。放在，传统的60/40投资组合因政府干预和资产相关性而失效。“激进投资组合”提出用以稀缺性、不可替代性和抗审查性为特点的抵抗性资产（比特币、黄金、艺术品）来对冲合规性资产（股票、债券）。
+summary: 传统的60/40投资组合因政府干预和资产相关性而失效。“激进投资组合”提出用以稀缺性、不可替代性和抗审查性为特点的抵抗性资产（比特币、黄金、艺术品）来对冲合规性资产（股票、债券）。
 tags:
 - 视频笔记
 - 激进投资组合

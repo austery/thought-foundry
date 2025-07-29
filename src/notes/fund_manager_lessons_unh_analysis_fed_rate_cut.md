@@ -3,12 +3,12 @@ author: Lei
 channel: 
 date: 2025-07-29
 guest: 
-insight: 
+insight: 就是看看自己的资产配置,哪些是防守的，哪些是Beta - SP500.
 layout: post.njk
 series: 
 source: 'https://www.youtube.com/watch?v=ie6E_ItVlVY&t'
 speaker: 投资TALK君
-summary: 我自己的思考，就是看看自己的资产配置。分享基金经理跑输大盘的教训，深入分析UNH面临的短期、中期和长期风险，并解读美联储传声筒释放的9月可能降息的信号。
+summary: 分享基金经理跑输大盘的教训，深入分析UNH面临的短期、中期和长期风险，并解读美联储传声筒释放的9月可能降息的信号。
 tags:
 - 视频笔记
 - 基金经理

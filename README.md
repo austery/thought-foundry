@@ -95,6 +95,8 @@ speaker: "Speaker Name"  # For posts/notes
 publisher: "Publisher"   # For books
 rating: "4/5"           # For books
 series: "Series Name"   # Optional: groups related content
+summary: "Brief content overview"  # Optional: content description
+insight: "Personal reflection"     # Optional: your thoughts/takeaways
 exclude: true           # Optional: excludes from listings/search
 tags:
   - "tag1"
@@ -161,6 +163,50 @@ tags:
   - internal
   - draft
 ---
+
+This content will be accessible at `/notes/private-meeting-notes/` but won't appear in any listings.
+```
+
+### Summary and Insight Display Feature
+
+The site features a dual-field content preview system that enhances content discovery and organization. Each post can have both a `summary` and an `insight` field in its frontmatter:
+
+**Summary Field (`summary`):**
+- 📄 **Content Overview** - Provides a concise description of what the post covers
+- **Blog Page Display** - Shows as preview text under each post title on the homepage
+- **Post Page Display** - Appears in the metadata section with blue-themed styling
+- **Migration Ready** - Automatically populated from legacy `insight` fields during content migration
+
+**Insight Field (`insight`):**
+- 💡 **Personal Reflection** - Space for your personal thoughts, takeaways, or why the content is valuable
+- **Blog Page Display** - Shows as additional preview text with distinct orange styling
+- **Post Page Display** - Appears in the metadata section with orange-themed styling
+- **Author Perspective** - Helps readers understand your personal connection to the content
+
+**Visual Design:**
+- **Color-Coded Sections** - Blue theme for summaries, orange theme for insights
+- **Responsive Layout** - Properly styled for both desktop and mobile viewing
+- **Icon Indicators** - 📄 for summaries, 💡 for insights for quick visual recognition
+- **Conditional Display** - Fields only appear when they contain content
+
+**Example Frontmatter:**
+```yaml
+---
+title: "投资传奇斯坦·德鲁肯米勒：宏观洞察、美联储的错误与AI趋势"
+date: "2024-11-06"
+summary: "投资传奇斯坦·德鲁肯米勒分享了他对当前宏观经济的看法，批评美联储过早宣布战胜通胀。他阐述了自己"先买入，后分析"的投资哲学。"
+insight: "这是我最想模仿的投资大师，他的宏观投资理念和风险管理方法值得深入学习。"
+---
+
+This content will show both summary and insight on the blog page and in the post metadata section.
+```
+
+**Migration Tool:**
+The project includes a Python script (`rename_insight_to_summary.py`) that automatically:
+- Renames existing `insight` fields to `summary`
+- Adds new empty `insight` fields
+- Preserves all other frontmatter structure
+- Processes all content files in batch
 
 This content will be accessible at `/notes/private-meeting-notes/` but won't appear in any listings.
 ```
@@ -232,6 +278,8 @@ The site includes built-in debugging tools that run during build to detect:
 - **NEW: Series grouping system** for organizing related content into collections
 - **NEW: Related posts display** showing other posts in the same series
 - **NEW: Enhanced template system** with improved source URL display in channel field
+- **NEW: Summary and Insight Display** dual-field content preview system with visual distinction and color-coded styling
+- **NEW: Frontmatter Migration Tools** automated Python scripts for batch processing and field restructuring
 - **NEW: Batch frontmatter processing** with automated series field addition to all content
 - Optimized book note layout for better readability
 - Added URL-friendly file naming with underscore conversion

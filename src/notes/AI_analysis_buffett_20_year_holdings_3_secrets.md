@@ -3,12 +3,12 @@ author: Lei
 channel: 
 date: 2025-07-27
 guest: 
-insight: 
+insight: 这种思路很赞！我准备用这种方法分析一下其它的投资大师看看他们的思路是怎么样的。这样就不用只见树木，不见林了。
 layout: post.njk
 series: 
 source: 'https://www.youtube.com/watch?v=wt7Df8Y6jKw&t'
 speaker: AI老司机
-summary: 这种思路很赞！通过AI分析巴菲特过去20年的13F持仓数据，揭示了其在永恒持仓、护城河认知和集中投资策略上的三个反直觉的秘密。
+summary: 通过AI分析巴菲特过去20年的13F持仓数据，揭示了其在永恒持仓、护城河认知和集中投资策略上的三个反直觉的秘密。
 tags:
 - 视频笔记
 - 巴菲特
