@@ -103,7 +103,11 @@ layout: "base.njk"
                 <a href="{{ post.url }}" class="related-post-link">
                   <span class="related-post-title">{{ post.data.title }}</span>
                   {% if post.data.date %}
-                    <span class="related-post-date">{{ post.data.date }}</span>
+                    {% if post.data.date.toLocaleDateString %}
+                      <span class="related-post-date">{{ post.data.date.toLocaleDateString() }}</span>
+                    {% else %}
+                      <span class="related-post-date">{{ post.data.date }}</span>
+                    {% endif %}
                   {% endif %}
                 </a>
               </li>
