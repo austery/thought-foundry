@@ -3,7 +3,7 @@ author: Lei
 channel: 
 date: 2025-07-28
 guest: 
-insight: 
+insight: 真是现实检验认知，今天UNH的财报出炉，又大跌了8%，我要用这个做个复盘。
 layout: post.njk
 series: 
 source: 'https://www.youtube.com/watch?v=n13E0mBaKbc'
