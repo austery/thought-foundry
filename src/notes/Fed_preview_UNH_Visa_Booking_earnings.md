@@ -5,7 +5,7 @@ guest:
 layout: post.njk
 channel: 
 source: https://www.youtube.com/watch/6OXct7a0G50
-speaker: 市场分析员小桃
+speaker: 投资Talk君
 tags:
   - 视频笔记
   - 财报分析
