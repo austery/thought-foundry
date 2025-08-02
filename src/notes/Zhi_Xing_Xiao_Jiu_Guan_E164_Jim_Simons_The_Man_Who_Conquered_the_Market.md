@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 跑狮, 大卫翁
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=W1APBdE8wOs'
+series: null
+source: https://www.youtube.com/watch?v=W1APBdE8wOs
 speaker: 雨白
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 量化投资
 - 投资
 - 知行小酒馆

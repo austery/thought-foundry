@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 李厚辰,贾葭,伍雷
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 中国政治
 - 历史反思
 - 三个水枪手

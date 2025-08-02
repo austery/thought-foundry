@@ -1,21 +1,21 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-25
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=6QRm8HIOLQ0&t'
+series: null
+source: https://www.youtube.com/watch?v=6QRm8HIOLQ0&t
 speaker: 禁書筆記
 summary: 剖析台灣半導體產業的「荷蘭病」現象，揭示「矽盾」背後對經濟、社會、資源造成的結構性失衡與詛咒。
 tags:
-- 视频笔记
+- 视频文稿
 - 資源詛咒
 - 台湾经济
 - 地缘政治
 title: 讀書筆記《超越資源的詛咒》：台灣半導體產業的荷蘭病隱憂
-draft: True
+draft: true
 ---
 
 ## 「矽盾」的迷思與詛咒

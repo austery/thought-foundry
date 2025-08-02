@@ -3,21 +3,21 @@ author: Lei
 date: 2025-08-01
 guest: 秦瀚
 layout: post.njk
-channel: 
+channel: null
 source: https://www.youtube.com/watch?v=TDCRkiwJU6M
 speaker: Hellen, 秦瀚
 tags:
-  - 视频笔记
-  - 美股代币化
-  - Pre-IPO
-  - 区块链
-  - 稳定币
+- 视频文稿
+- 美股代币化
+- Pre-IPO
+- 区块链
+- 稳定币
 title: 美股代币化：Jarsy创始人解析普通人如何投资SpaceX等未上市公司
 summary: 主持人Hellen与Jarsy创始人兼CEO秦瀚深入探讨了**美股代币化**这一新兴投资趋势。内容涵盖了**区块链**技术如何让散户以低门槛投资SpaceX等**Pre-IPO**公司，详解了**稳定币**的原理、监管现状，并对比了传统投资与代币投资的本质区别、风险及退出机制，展望了金融服务的未来。
-insight: 
+insight: null
 file_name: stock_tokenization_invest_pre_ipo_spacex.md
 draft: true
-series: 
+series: 美股代币化
 ---
 
 ## Pre-IPO投资的新途径：美股代币化

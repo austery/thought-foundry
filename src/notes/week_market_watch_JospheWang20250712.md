@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-12'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=y2owYAa3TPY&t'
+series: null
+source: https://www.youtube.com/watch?v=y2owYAa3TPY&t
 speaker: Joseph Wang
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 市场回顾
 - 投资
 title: 每周市场回顾：2025年7月12日

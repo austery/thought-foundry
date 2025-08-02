@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 'https://www.youtube.com/@norgesbankinvestmentmanagement'
+channel: https://www.youtube.com/@norgesbankinvestmentmanagement
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=M01NZc2QlDk&t'
+series: null
+source: https://www.youtube.com/watch?v=M01NZc2QlDk&t
 speaker: 克里斯·霍恩爵士，尼古拉·坦根
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 投资
 - 护城河
 title: 克里斯·霍恩爵士在挪威银行投资管理公司《In Good Company》播客上的对话

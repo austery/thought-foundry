@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
+series: null
 source: '#section-1'
 speaker: Steve Paikin, Chris Ragan
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 加拿大
 - 碳税
 title: 加拿大碳税政策的困境与反思

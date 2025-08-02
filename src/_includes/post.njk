@@ -70,7 +70,9 @@ layout: "base.njk"
       {% if tags %}
         <p><strong>关键字:</strong> 
           {% for tag in tags %}
-            <a class="tag-link" href="{{ ('/tags/' + (tag | slug) + '/') | url }}">{{ tag }}</a>
+            {% if tag != "post" and tag != "note" and tag != "视频文稿" %}
+              <a class="tag-link" href="{{ ('/tags/' + (tag | slug) + '/') | url }}">{{ tag }}</a>
+            {% endif %}
           {% endfor %}
         </p>
       {% endif %}

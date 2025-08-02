@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-21
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=fjOH0N_AtY0'
+series: null
+source: https://www.youtube.com/watch?v=fjOH0N_AtY0
 speaker: 投资TALK君
 summary: 美国银行研报指出，尽管美股三大卖出信号已被触发，但市场参与度指标尚显中性。真正的回调风险可能源于债券市场的波动，而非股市本身。
 tags:
-- 视频笔记
+- 视频文稿
 - 美股
 - 美国银行
 - 市场情绪

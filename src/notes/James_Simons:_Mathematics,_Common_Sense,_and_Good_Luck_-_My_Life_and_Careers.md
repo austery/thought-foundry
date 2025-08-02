@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-11'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 詹姆斯·西蒙斯
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 詹姆斯·西蒙斯
 - 量化投资
 - 投资大师

@@ -3,14 +3,14 @@ author: Lei
 channel: 不明白播客
 date: '2025-07-10'
 guest: 李厚辰
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://bumingbai.net/2025/06/20/155-lhc-text/'
+series: null
+source: https://bumingbai.net/2025/06/20/155-lhc-text/
 speaker: 袁莉
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 中国经济
 - 人工智能
 - 不明白播客

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-21
 guest: Murray Shanahan
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=bBdE7ojaN9k&t'
+series: null
+source: https://www.youtube.com/watch?v=bBdE7ojaN9k&t
 speaker: Jonathan B., Murray Shanahan
 summary: 听了Murry的另一篇，我又找来这篇看看。帝国理工学院的默里·沙纳汉探讨了如何验证机器意识。他认为，研究AI意识揭示了人类自我的本质，并借鉴佛教哲学与维特根斯坦的思想，提出“自我”可能只是一种幻觉，而大语言模型正以一种独特的方式向我们展示了“无我”的概念。
 tags:
-- 视频笔记
+- 视频文稿
 - 人工智能
 - 意识
 - 佛教哲学

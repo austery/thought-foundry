@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
 series: 家庭生活系列讲座
-source: 'https://www.youtube.com/watch?v=04G3ti78ZFk&t'
+source: https://www.youtube.com/watch?v=04G3ti78ZFk&t
 speaker: 林静芝,李秀全
 summary: 这是团契的学习的课程。
 tags:
-- 视频笔记
+- 视频文稿
 - 婚姻成长
 - 家庭生活
 - 夫妻关系

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=_KqWctjw9kY&t'
+series: null
+source: https://www.youtube.com/watch?v=_KqWctjw9kY&t
 speaker: 老周横眉
 summary: 很多都知道，但是在自己做出符合自己需要的投资或者金融决策的时候，需要来看看其它专业人士的分析。
 tags:
-- 视频笔记
+- 视频文稿
 - 金融常识
 - 金钱时间价值
 - IRR

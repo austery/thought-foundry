@@ -1,21 +1,22 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
-speaker: Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan, 婷, Victor, Kayden, 张硕
-summary: 
+series: null
+source: null
+speaker: Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan, 婷, Victor, Kayden,
+  张硕
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 创业
 - 社群
 - 副业
 - 读书会
-title: '「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享'
+title: 「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 ---
 
 **主讲人：** Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan,

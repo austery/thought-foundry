@@ -2,15 +2,15 @@
 author: Lei
 channel: 一口新饭
 date: '2025-06-07'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Yehuan
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 副业探索
 - 个人成长
 - 人生经历

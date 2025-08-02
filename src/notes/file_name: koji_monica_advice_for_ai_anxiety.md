@@ -3,22 +3,22 @@ author: Lei
 date: 2025-08-01
 guest: Koji, Monica
 layout: post.njk
-channel: 
-source: 
+channel: null
+source: null
 speaker: Koji, Monica, 主持人
 tags:
-- 视频笔记
+- 视频文稿
 - AI焦虑
 - 独立开发者
 - 产品哲学
 - 学习方法
 - 生活平衡
-title: "Koji 与 Monica 对话：给 AI 焦虑者的终极建议——狠狠学或好好玩"
-summary: "Koji与Monica深入探讨了AI时代的生存法则。他们认为，用户普遍未能发掘AI的全部潜力，而独立开发者正迎来新的机遇。面对AI带来的焦虑，他们的建议是：要么深入学习以对抗未知，要么投身真实生活以寻找独特价值，这两种方式都能有效提升个人竞争力。"
-insight: 
+title: Koji 与 Monica 对话：给 AI 焦虑者的终极建议——狠狠学或好好玩
+summary: Koji与Monica深入探讨了AI时代的生存法则。他们认为，用户普遍未能发掘AI的全部潜力，而独立开发者正迎来新的机遇。面对AI带来的焦虑，他们的建议是：要么深入学习以对抗未知，要么投身真实生活以寻找独特价值，这两种方式都能有效提升个人竞争力。
+insight: null
 file_name: koji_monica_advice_for_ai_anxiety.md
 draft: true
-series: 
+series: null
 ---
 
 ## AI 的潜力与使用者的鸿沟

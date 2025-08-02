@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 刘宁
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=Feck2fSffmI&t'
+series: null
+source: https://www.youtube.com/watch?v=Feck2fSffmI&t
 speaker: 投资talk君
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美股投资
 - 价值投资
 - 刘宁

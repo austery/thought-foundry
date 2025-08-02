@@ -1,23 +1,23 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-25
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=LeFobtxKgQU&t'
+series: null
+source: https://www.youtube.com/watch?v=LeFobtxKgQU&t
 speaker: 徒步的骑手
 summary: 当前“智能驾驶”技术，特别是国产车的宣传名不符实，存在巨大安全隐患。即便是行业领先的特斯拉，其安全性也备受质疑，数据存在误导性。车主应保持警惕，不能盲信宣传。
 tags:
-- 视频笔记
+- 视频文稿
 - 自动驾驶
 - 智能驾驶
 - 特斯拉
 - 汽车安全
 title: 智能驾驶的真相：从董车帝评测到特斯拉的“数据炼金术”
 file_name: smart_driving_truth_tesla_safety_risks.md
-draft: True
+draft: true
 ---
 
 ## 国内自动驾驶的炒作与乱象

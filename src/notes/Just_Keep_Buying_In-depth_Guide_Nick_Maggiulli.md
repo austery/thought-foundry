@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.harriman-house.com/press/full/4200'
-speaker: 
-summary: 
+series: null
+source: https://www.harriman-house.com/press/full/4200
+speaker: null
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - JustKeepBuying
 - 投资
 - 理财

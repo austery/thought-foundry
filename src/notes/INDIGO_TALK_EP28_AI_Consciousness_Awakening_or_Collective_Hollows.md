@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: Mohan
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: INDIGO
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 人工智能
 - 意识
 - Agent

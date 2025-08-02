@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-29'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Google Gemini
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 指南
 - wise
 title: 微信接收海外亲人汇款：详细指南

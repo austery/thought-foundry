@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: Peter Thiel (彼得·蒂尔)
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=kY6iE8tC3aI'
+series: null
+source: https://www.youtube.com/watch?v=kY6iE8tC3aI
 speaker: Ross Douthat (罗斯·杜塔特)
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 技术停滞
 - 人工智能
 title: 深度报告：彼得·蒂尔对话罗斯·杜塔特

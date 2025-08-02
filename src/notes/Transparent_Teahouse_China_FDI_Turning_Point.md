@@ -2,15 +2,15 @@
 author: Lei
 channel: 透明茶室
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 李厚辰
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 中国经济
 - 地缘政治
 title: 外资撤资FDI大跌不止，中国与世界经济的关系可能已到拐点

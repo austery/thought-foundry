@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 陆瑶、康、Fancy、Suge、LEI、Catherine
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 被讨厌的勇气
 - 阿德勒心理学
 - 自我接纳

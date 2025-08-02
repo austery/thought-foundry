@@ -1,19 +1,19 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-06'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
-speaker: 
-summary: 
+series: null
+source: null
+speaker: null
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 小小而美
 - 读书会
-title: '《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary'
+title: 《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary
 ---
 
 

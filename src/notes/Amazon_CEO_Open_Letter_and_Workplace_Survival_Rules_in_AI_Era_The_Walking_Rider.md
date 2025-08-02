@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 徒步的骑手
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 亚马逊
 - 人工智能
 title: 亚马逊总裁的公开信与AI时代的职场生存法则

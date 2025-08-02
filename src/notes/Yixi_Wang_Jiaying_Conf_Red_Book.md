@@ -2,15 +2,15 @@
 author: Lei
 channel: 一席
 date: '2025-07-07'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'hhttps://www.youtube.com/watch?v=tnEp7uwrlLo'
+series: null
+source: hhttps://www.youtube.com/watch?v=tnEp7uwrlLo
 speaker: 王佳莹
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 心理健康
 - 一席
 - 自我探索

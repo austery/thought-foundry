@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: Yiwen，刘沁东
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 弘君 (硅谷101创始人，播客主理人)
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 谷歌
 - 投资
 - 硅谷101

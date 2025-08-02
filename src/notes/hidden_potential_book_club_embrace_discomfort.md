@@ -7,7 +7,7 @@ channel: ''
 source: ''
 speaker: Ray
 tags:
-- 视频笔记
+- 视频文稿
 - Hidden Potential
 - 不舒适区
 - 完美主义

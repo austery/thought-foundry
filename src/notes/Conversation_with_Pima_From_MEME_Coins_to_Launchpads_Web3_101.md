@@ -3,14 +3,14 @@ author: Lei
 channel: Web3 101
 date: '2025-07-10'
 guest: 匹马
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 刘峰, Jack
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - Meme币
 - 行为金融学
 - Solana

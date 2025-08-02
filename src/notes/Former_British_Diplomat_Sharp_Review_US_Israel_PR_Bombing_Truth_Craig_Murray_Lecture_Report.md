@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: Craig Murray
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=kR6Dk10xWew'
+series: null
+source: https://www.youtube.com/watch?v=kR6Dk10xWew
 speaker: 路飞
 summary: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
 tags:
-- 视频笔记
+- 视频文稿
 - 美以关系
 - 媒体偏见
 - 中东冲突

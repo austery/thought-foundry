@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
-speaker: 
-summary: 
+series: null
+source: null
+speaker: null
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 人工智能
 - 情感
 - 意识

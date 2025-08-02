@@ -1,16 +1,17 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
-speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel, David
-summary: 
+series: null
+source: null
+speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel,
+  David
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 被讨厌的勇气
 - 阿德勒心理学
 - 课题分离

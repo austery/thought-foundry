@@ -1,21 +1,21 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-23
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=d0yoDctYyxc&t'
+series: null
+source: https://www.youtube.com/watch?v=d0yoDctYyxc&t
 speaker: 老周横眉
 summary: 通过解析娃哈哈创始人宗庆后家族的遗产纠纷，深入探讨离岸信托的运作机制、法律漏洞及其在财富传承中的关键作用，揭示顶级富豪如何运用金融工具管理和保护家族财富。
 tags:
-- 视频笔记
+- 视频文稿
 - 离岸信托
 - 遗产纠纷
 - 家族财富
 title: 宗庆后家族遗产风波深度解析：离岸信托如何引爆豪门内战
-draft: True
+draft: true
 ---
 
 ## 从民族企业家到豪门内战

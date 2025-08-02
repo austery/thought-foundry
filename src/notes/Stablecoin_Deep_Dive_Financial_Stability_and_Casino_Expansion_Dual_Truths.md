@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=3mUdydbgw3U&t'
+series: null
+source: https://www.youtube.com/watch?v=3mUdydbgw3U&t
 speaker: Mr. Sun
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 稳定币
 - 加密货币
 title: 稳定币深度解析：金融维稳与赌场扩张的双重真相

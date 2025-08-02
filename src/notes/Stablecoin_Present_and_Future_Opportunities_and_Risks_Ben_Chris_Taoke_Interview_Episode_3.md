@@ -3,14 +3,14 @@ author: Lei
 channel: 逃课访谈
 date: '2025-07-10'
 guest: Ben,hris
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=Zpdu-DUU9fY&t'
+series: null
+source: https://www.youtube.com/watch?v=Zpdu-DUU9fY&t
 speaker: 投资TALK君
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 稳定币
 - 加密货币
 - 投资

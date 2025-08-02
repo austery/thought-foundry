@@ -2,15 +2,15 @@
 author: Lei
 channel: 王路飞
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 厄尔凡德·阿布拉哈米安
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 伊朗
 - 1953政变
 - 历史研究

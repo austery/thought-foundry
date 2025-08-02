@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Sundar Pichai
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 谷歌
 - 人工智能
 title: 桑达尔·皮查伊 (Sundar Pichai) Alphabet CEO 深度访谈逐字稿

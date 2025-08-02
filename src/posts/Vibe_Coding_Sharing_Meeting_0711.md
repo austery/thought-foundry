@@ -7,7 +7,7 @@ podcast_program: 一口新饭
 source: ''
 speaker: 张敏
 tags:
-- 视频笔记
+- 视频文稿
 - prompt
 - vibe Coding
 title: Vibe Coding分享会纪要0712

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 大问题阿伦
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 斯多葛主义
 - 心理学
 title: 视频转写报告

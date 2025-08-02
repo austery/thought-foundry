@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
+series: null
 source: '#section-1'
 speaker: '油管@隐枫视野 '
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 中国房地产
 - 住房调查
 - 购房意愿

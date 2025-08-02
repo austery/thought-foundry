@@ -7,13 +7,13 @@ channel: ''
 source: ''
 speaker: Vivi
 tags:
-- 视频笔记
+- 视频文稿
 - Hidden Potential
 - 个人成长
 - 学习方法
 - 人工智能
 - 读书会
-title: "读书会笔记：《Hidden Potential》——释放内在潜能"
+title: 读书会笔记：《Hidden Potential》——释放内在潜能
 insight: 本次读书会深入探讨了《Hidden Potential》的核心思想，强调通过拥抱不完美、刻意练习和集体智慧来释放潜能，并结合AI时代背景，探讨了人类在未来不可替代的价值所在。
 file_name: book_club_hidden_potential.md
 draft: true

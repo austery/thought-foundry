@@ -2,14 +2,14 @@
 author: Lei
 date: '2025-07-09'
 guest: 李志忠（菠萝）
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=giSlEc0ZofI&t'
+series: null
+source: https://www.youtube.com/watch?v=giSlEc0ZofI&t
 speaker: 雨白
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 癌症科普
 - Health
 - 知行小酒馆

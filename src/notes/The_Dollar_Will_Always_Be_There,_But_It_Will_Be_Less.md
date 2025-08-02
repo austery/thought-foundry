@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Kenneth Rogoff
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美元
 - 全球经济
 - 货币霸权

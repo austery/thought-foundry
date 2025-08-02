@@ -2,15 +2,15 @@
 author: Lei
 channel: The Plain Bagel
 date: '2025-06-13'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=H7xCo0CJ02A'
+series: null
+source: https://www.youtube.com/watch?v=H7xCo0CJ02A
 speaker: Richard
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - Margin Call
 - 金融危机
 - 投资

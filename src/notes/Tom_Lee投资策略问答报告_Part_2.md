@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-05'
 guest: Tom Lee
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=VIDEO_ID_HERE'
-speaker: 
-summary: 
+series: null
+source: https://www.youtube.com/watch?v=VIDEO_ID_HERE
+speaker: null
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 投资
 - 美股
 title: Tom Lee投资策略问答报告 Part 2

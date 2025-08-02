@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/@shijieshuo'
-speaker: 
-summary: 
+series: null
+source: https://www.youtube.com/@shijieshuo
+speaker: null
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美国经济
 - 资产配置
 - 师姐说

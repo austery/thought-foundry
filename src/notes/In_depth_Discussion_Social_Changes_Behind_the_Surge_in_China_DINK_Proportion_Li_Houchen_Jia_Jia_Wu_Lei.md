@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 李厚辰、贾葭、伍雷
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 生育率
 - 三个水枪手
 title: 深度探讨：中国丁克比例大涨背后的社会变迁

@@ -3,14 +3,14 @@ author: Lei
 channel: 加拿大ETF投资小组
 date: '2025-07-10'
 guest: Frank, Vivian, Zhao Rui, Wang Will, Alvin
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Lei
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 投资
 - 能力圈
 - 安全边际

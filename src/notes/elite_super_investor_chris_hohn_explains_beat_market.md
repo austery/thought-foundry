@@ -3,22 +3,23 @@ author: Lei
 date: 2025-08-01
 guest: Chris Hohn
 layout: post.njk
-channel: 
+channel: null
 source: https://www.youtube.com/watch/oiNDKCn1Dj4
 speaker: Joseph Carlson, Chris Hohn
 tags:
-- 视频笔记
+- 视频文稿
 - Investment Philosophy
 - Chris Hohn
 - Value Investing
 - Pricing Power
 - 13F Filings
-summary: 主持人约瑟夫·卡尔森深入剖析了传奇投资者克里斯·霍恩的投资哲学，涵盖了经济护城河、定价权和长期主义的重要性。此外，视频还分析了多家顶级投资公司的最新13F文件，并探讨了关于爱彼迎、Waymo和HBO Max的最新行业动态。
-insight: 
+summary: 主持人约瑟夫·卡尔森深入剖析了传奇投资者克里斯·霍恩的投资哲学，涵盖了经济护城河、定价权和长期主义的重要性。此外，视频还分析了多家顶级投资公司的最新13F文件，并探讨了关于爱彼迎、Waymo和HBO
+  Max的最新行业动态。
+insight: null
 file_name: elite_super_investor_chris_hohn_explains_beat_market.md
 title: 传奇投资者克里斯·霍恩的投资心法
 draft: true
-series: 
+series: null
 ---
 
 ## 传奇投资者克里斯·霍恩的投资心法

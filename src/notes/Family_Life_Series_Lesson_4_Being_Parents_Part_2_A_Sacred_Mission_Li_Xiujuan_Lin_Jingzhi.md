@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
 series: 家庭生活系列讲座
-source: 'https://www.youtube.com/watch?v=plCCp2vWmgU'
+source: https://www.youtube.com/watch?v=plCCp2vWmgU
 speaker: 林静芝,李秀全
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 亲子关系
 - 家庭教育
 - 婚姻成长

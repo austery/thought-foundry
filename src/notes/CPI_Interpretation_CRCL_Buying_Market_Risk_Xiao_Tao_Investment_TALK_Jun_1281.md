@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-09'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 投资TALK君
 summary: 看看他对于市场参与度的使用
 tags:
-- 视频笔记
+- 视频文稿
 - 投资
 - 美元
 title: 【投资TALK君1281期】周三CPI解读、CRCL买入思路及市场风险思考

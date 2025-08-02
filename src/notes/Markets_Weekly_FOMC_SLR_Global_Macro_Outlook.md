@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Felix, Quinn Thompson, Joseph Wang
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - FOMC
 - 美元
 - 市场分析

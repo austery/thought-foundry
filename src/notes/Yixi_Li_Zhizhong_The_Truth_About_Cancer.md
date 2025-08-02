@@ -2,15 +2,15 @@
 author: Lei
 channel: 一席
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=Jm9n1d2G3a4'
+series: null
+source: https://www.youtube.com/watch?v=Jm9n1d2G3a4
 speaker: 李治中
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 癌症科普
 - 一席
 title: 李治中：癌症的真相

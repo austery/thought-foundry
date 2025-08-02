@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-15'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=nMSBPYk1nwQ&t'
+series: null
+source: https://www.youtube.com/watch?v=nMSBPYk1nwQ&t
 speaker: 李笑来,脱不花
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 意志力
 - 习惯
 - 专注力

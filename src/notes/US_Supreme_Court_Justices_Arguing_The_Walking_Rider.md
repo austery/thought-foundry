@@ -2,15 +2,15 @@
 author: Lei
 channel: 徒步的骑手播客
 date: '2025-06-20'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=DLAUDk0TFWA'
+series: null
+source: https://www.youtube.com/watch?v=DLAUDk0TFWA
 speaker: 徒步的骑手
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美国最高法院
 - 司法制度
 - 法律与公平

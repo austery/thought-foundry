@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-07'
 guest: Vincent, Jay, Thomas
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 独行
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - Prompt
 - 软件开发
 - 学习方法

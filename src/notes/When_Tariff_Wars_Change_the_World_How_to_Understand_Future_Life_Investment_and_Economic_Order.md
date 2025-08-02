@@ -3,14 +3,14 @@ author: Lei
 channel: 知行小酒馆
 date: '2025-07-10'
 guest: 陈老师
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61'
+series: null
+source: https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61
 speaker: 雨白
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 全球经济
 - 投资
 - 知行小酒馆

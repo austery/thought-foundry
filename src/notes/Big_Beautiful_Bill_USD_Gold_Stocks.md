@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-06'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=0vB4CiIiOYU&t'
-speaker: 
-summary: 
+series: null
+source: https://www.youtube.com/watch?v=0vB4CiIiOYU&t
+speaker: null
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美国经济
 - 财政赤字
 - 市场影响

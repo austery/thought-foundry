@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 无
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=9WzxibheiPo'
+series: null
+source: https://www.youtube.com/watch?v=9WzxibheiPo
 speaker: 夸克说
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 新闻反转
 - 内宣
 title: 中共宣传进化史：从舆论引导到舆论斗争

@@ -3,14 +3,14 @@ author: Lei
 channel: 知行小酒馆
 date: '2025-07-10'
 guest: 汪天凡
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=2l8qpxDGWIE&t'
+series: null
+source: https://www.youtube.com/watch?v=2l8qpxDGWIE&t
 speaker: 雨白
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 人工智能
 - Prompt
 - 知行小酒馆

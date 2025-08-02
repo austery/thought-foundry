@@ -1,23 +1,23 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-27
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=Vhd7xnKPXKk&t'
+series: null
+source: https://www.youtube.com/watch?v=Vhd7xnKPXKk&t
 speaker: 李厚辰
 summary: 探讨在竞争白热化的当下，做自媒体的现实困境与心理压力，并分析了AI技术带来的新机遇，以及如何结合公民社会理念，找到可持续的创作方向。
 tags:
-- 视频笔记
+- 视频文稿
 - 自媒体
 - 内容创作
 - 公民社会
 - 人工智能
 title: 深度竞争时代的自媒体：困境、机遇与AI赋能
 file_name: self_media_deep_competition_ai_empowerment.md
-draft: True
+draft: true
 ---
 
 ## 引言：自媒体的影响力与普遍性

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
-speaker: 
-summary: 
+series: null
+source: null
+speaker: null
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 加拿大收入
 - 投资
 title: 访谈报告：加拿大人的收入，工作与财富

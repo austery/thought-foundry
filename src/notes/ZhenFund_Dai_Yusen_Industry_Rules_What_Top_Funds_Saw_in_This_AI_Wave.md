@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 戴雨森
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - AI投资
 - 真格基金
 - 戴雨森

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: Vivian, michelle, alvin, Frank
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Lei
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - BRRR策略
 - 房地产投资
 - 案例分享

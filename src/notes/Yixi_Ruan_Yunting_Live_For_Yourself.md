@@ -2,18 +2,18 @@
 author: Lei
 channel: 一席
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=4AohKyR5jME'
+series: null
+source: https://www.youtube.com/watch?v=4AohKyR5jME
 speaker: 阮筠庭
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 个人成长
 - 一席
-title: '阮筠庭：从今往后的人生，我希望你为自己而活 | 深度解析一位教师的23年自我探索'
+title: 阮筠庭：从今往后的人生，我希望你为自己而活 | 深度解析一位教师的23年自我探索
 ---
 
 # 从今往后的人生，我希望你为自己而活：一位教师的23年自我探索

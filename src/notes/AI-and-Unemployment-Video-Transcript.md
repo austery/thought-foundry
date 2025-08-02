@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 秋叶2046
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 人工智能
 - 技术变革
 - 卢德运动

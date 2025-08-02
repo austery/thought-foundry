@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 老修, 闲哥
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=S23kV4knddk&t'
+series: null
+source: https://www.youtube.com/watch?v=S23kV4knddk&t
 speaker: 小苏
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 特斯拉
 - 自动驾驶
 title: 特斯拉Robotaxi上线深度解析：它能走出奥斯汀吗？

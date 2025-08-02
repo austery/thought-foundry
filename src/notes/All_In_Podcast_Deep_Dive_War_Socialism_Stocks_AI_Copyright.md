@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 无
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=Dp75wqOrtBs'
+series: null
+source: https://www.youtube.com/watch?v=Dp75wqOrtBs
 speaker: Jason Calacanis, David Sacks, Chamath Palihapitiya, David Friedberg
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 国际政治
 - 人工智能
 - 版权

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 刘索隆,路飞
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美国
 - 政治
 title: 法庭风云：丁胖子金牌讲师背后的举报与政庇内幕

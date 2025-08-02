@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 李厚辰
 summary: 这是中李的一篇AI生成的视频，我给转成文字版了主要是看看他是如何选题的。
 tags:
-- 视频笔记
+- 视频文稿
 - 中国研究
 - 台海冲突
 - 数字身份

@@ -2,14 +2,14 @@
 author: Lei
 date: '2025-07-18'
 guest: 曹丰泽
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 雨白
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 个人成长
 - 知行小酒馆
 title: E196 对话曹丰泽：只要不饿死，人生没有必修课

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
+series: null
 source: '#section-1'
 speaker: 秦潇越（纪录片导演）
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 纪录片
 - 理想与现实
 - 痛苦的价值

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Vivian, Simon L,Ge Su, 路遥, Kathy, 翻新, Fancy
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 副业
 - 创业
 - 读书会

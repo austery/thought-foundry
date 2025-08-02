@@ -2,14 +2,14 @@
 author: Lei
 date: '2025-07-13'
 guest: 半佛
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 雨白
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 个人成长
 - 知行小酒馆
 title: E195 对话半佛仙人：世上无难事，只要肯放弃（地球online🎮非典型通关秘籍）

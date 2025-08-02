@@ -2,15 +2,15 @@
 author: Lei
 channel: 师姐说
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 铁头金融汪
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美国经济
 - 居民收入
 - 消费储蓄

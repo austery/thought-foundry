@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 李老师
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=hZR2EGv8RBs&t=10s'
+series: null
+source: https://www.youtube.com/watch?v=hZR2EGv8RBs&t=10s
 speaker: 伍雷
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 国家失败
 - 中国转型
 - 民粹主义

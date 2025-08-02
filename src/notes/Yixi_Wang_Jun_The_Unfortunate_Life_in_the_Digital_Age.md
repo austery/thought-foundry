@@ -2,15 +2,15 @@
 author: Lei
 channel: 一席
 date: '2025-06-14'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=1zL655wp5zg&t'
+series: null
+source: https://www.youtube.com/watch?v=1zL655wp5zg&t
 speaker: 王俊
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 哲学反思
 - 生活意义
 - 一席

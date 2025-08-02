@@ -77,6 +77,10 @@ module.exports = async function (eleventyConfig) {
         !item.data.exclude
       ) {
         (item.data.tags || []).forEach((tag) => {
+          // 过滤掉内部标签
+          if (tag === "post" || tag === "note" || tag === "视频文稿") {
+            return;
+          }
           const lowerCaseTag = tag.trim().toLowerCase();
           if (!tagMap.has(lowerCaseTag)) {
             tagMap.set(lowerCaseTag, {

@@ -1,24 +1,24 @@
 ---
 author: Lei
 date: 2025-07-31
-guest: 
+guest: null
 layout: post.njk
-channel: 
+channel: null
 source: https://www.youtube.com/watch/Ibpc7dh0eTs
 speaker: 投资Talk君
 tags:
-  - 视频笔记
-  - 美联储
-  - 财报
-  - Meta
-  - 微软
-  - 宏观经济
+- 视频文稿
+- 美联储
+- 财报
+- Meta
+- 微软
+- 宏观经济
 title: 美联储会议解读与Meta、微软财报分析
 summary: 主持人肖涛解读了美联储最新的会议内容，分析了鲍威尔关于通胀、关税和就业市场的观点。同时，深入剖析了Meta和微软发布的强劲财报，探讨了大科技公司在AI领域的巨额投入及其对市场的影响。
-insight: 
+insight: null
 file_name: fed_meeting_meta_microsoft_earnings_analysis.md
 draft: true
-series: 
+series: null
 ---
 
 各位观众大家好，欢迎来到一个每天不单只聊新闻的专业美股日更频道，我是市场分析员肖涛。好像没有过多久，现在又在录视频，然后马上又要上传视频，我们又要在留言区里边见面，好像确实没过多久，对吗？反正每天都有东西可以聊，然后每天都可以和大家以这种方式交流的话，还是挺有意思的。希望可以坚持下去，希望我可以坚持下去，然后大家也可以坚持下去。

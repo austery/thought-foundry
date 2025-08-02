@@ -3,21 +3,22 @@ author: Lei
 date: 2025-07-31
 guest: Cal
 layout: post.njk
-channel: 
+channel: null
 source: https://www.youtube.com/watch?v=gv0WHhKelSE
 speaker: Cal
 tags:
-- 视频笔记
+- 视频文稿
 - Claude Code
 - AI 编程助手
 - Prompt Engineering
 - AI 代理
-title: "Anthropic 专家 Cal 深度解析：Claude Code 最佳实践与高级技巧"
-summary: "Anthropic 应用 AI 团队的核心贡献者 Cal 深入介绍了 AI 编码助手 Claude Code。他分享了 Claude Code 作为纯粹代理的工作原理、多样化的应用场景，并详细阐述了包括使用 claude.md、上下文管理和多代理协作在内的最佳实践与高级技巧。"
-insight: 
+title: Anthropic 专家 Cal 深度解析：Claude Code 最佳实践与高级技巧
+summary: Anthropic 应用 AI 团队的核心贡献者 Cal 深入介绍了 AI 编码助手 Claude Code。他分享了 Claude Code 作为纯粹代理的工作原理、多样化的应用场景，并详细阐述了包括使用
+  claude.md、上下文管理和多代理协作在内的最佳实践与高级技巧。
+insight: null
 file_name: claude_code_best_practices_and_advanced_techniques.md
 draft: true
-series: 
+series: null
 ---
 
 ## 开场与自我介绍

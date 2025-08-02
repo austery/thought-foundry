@@ -2,15 +2,15 @@
 author: Lei
 channel: 一席
 date: '2020-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 田烨
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 健康
 - 长寿
 - 衰老

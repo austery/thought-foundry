@@ -2,15 +2,15 @@
 author: Lei
 channel: Ezra Klein Show
 date: '2025-05-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Ezra，Rebecca
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 人工智能
 - 儿童教育
 - 学习

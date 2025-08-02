@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 林静芝
-insight: 
+insight: null
 layout: post.njk
 series: 家庭生活系列讲座
-source: 'https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s'
+source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
 speaker: 查秉全
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 婚姻成长
 - 夫妻关系
 - 感情成长

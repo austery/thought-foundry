@@ -1,23 +1,23 @@
 ---
 author: Lei
 date: 2025-07-30
-guest: 
+guest: null
 layout: post.njk
-channel: 
+channel: null
 source: https://www.youtube.com/watch/6OXct7a0G50
 speaker: 投资Talk君
 tags:
-  - 视频笔记
-  - 财报分析
-  - 美联储
-  - Visa
-  - UNH
+- 视频文稿
+- 财报分析
+- 美联储
+- Visa
+- UNH
 title: 美联储会议前瞻与UNH/Visa/Booking财报深度解析
 summary: 本视频深入分析了最新的宏观经济数据，探讨了美联储会议的可能动向，并详细解读了联合健康(UNH)、Visa及Booking的最新财报，揭示了消费者健康状况、行业风险与AI、稳定币等未来趋势。
 insight: 这几期关于UNH的都要结合一起看，来展示对于一个公司的理解。
 file_name: Fed_preview_UNH_Visa_Booking_earnings.md
 draft: true
-series: 
+series: null
 ---
 
 ## 引言

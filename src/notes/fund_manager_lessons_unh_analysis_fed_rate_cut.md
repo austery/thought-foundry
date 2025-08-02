@@ -1,23 +1,23 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-29
-guest: 
+guest: null
 insight: 就是看看自己的资产配置,哪些是防守的，哪些是Beta - SP500.
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=ie6E_ItVlVY&t'
+series: null
+source: https://www.youtube.com/watch?v=ie6E_ItVlVY&t
 speaker: 投资TALK君
 summary: 分享基金经理跑输大盘的教训，深入分析UNH面临的短期、中期和长期风险，并解读美联储传声筒释放的9月可能降息的信号。
 tags:
-- 视频笔记
+- 视频文稿
 - 基金经理
 - UNH
 - 美联储
 - 贝塔系数
 title: 基金经理跑输大盘的教训，UNH深度分析及美联储9月降息信号
 file_name: fund_manager_lessons_unh_analysis_fed_rate_cut.md
-draft: True
+draft: true
 ---
 
 各位观众大家好，欢迎来到一个不单止聊新闻的专业日更美股频道，我是市场分析员小涛。今天这期内容包含三部分。

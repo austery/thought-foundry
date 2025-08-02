@@ -1,20 +1,20 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 美投君
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 投资
 - 通胀风险
 - AI赋能
-title: '2025下半年美股投资展望：全面解析政策、通胀与市场机遇'
+title: 2025下半年美股投资展望：全面解析政策、通胀与市场机遇
 ---
 
 ## 1. 导言：回顾与展望

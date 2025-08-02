@@ -1,22 +1,23 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
-speaker: 
-summary: 
+series: null
+source: null
+speaker: null
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 中国政治
 - 习近平
 - 毛泽东
 - 天安门事件
 - 香港
-title: 'Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao | Lex Fridman Podcast #466'
+title: 'Jeffrey Wasserstrom on China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao
+  | Lex Fridman Podcast #466'
 ---
 
 **讲述者简介：** 以下内容是现代中国历史学家杰弗里·瓦瑟斯特罗姆（Jeffrey

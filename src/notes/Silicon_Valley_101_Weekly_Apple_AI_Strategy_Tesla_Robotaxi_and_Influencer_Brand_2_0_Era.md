@@ -2,15 +2,15 @@
 author: Lei
 channel: 硅谷101
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 陈茜, 刘一鸣, 鲁漪文
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 特斯拉
 - 硅谷101
 title: '硅谷101 Weekly: 苹果AI策略、特斯拉Robotaxi与网红品牌20时代'

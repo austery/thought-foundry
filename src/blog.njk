@@ -17,24 +17,22 @@ permalink: "/"
       {% if item.filePathStem and (item.filePathStem.includes('/posts/') or item.filePathStem.includes('/books/') or item.filePathStem.includes('/notes/')) %}
         <li>
           <a href="{{ item.url | url }}">{{ item.data.title }}</a>
-
           {# 徽章部分 #}
           {% if item.filePathStem.includes('/posts/') %}
-            <span class="badge">博客文章</span>
+            <span class="badge">✍️</span>
           {% elif item.filePathStem.includes('/notes/') %}
-            <span class="badge">视频笔记</span>
+            <span class="badge">📝</span>
           {% endif %}
-          <br>
-
           {# 日期部分 #}
           {% if item.date %}
             <time datetime="{{ item.date }}">{{ item.date.toLocaleDateString() }}</time>
           {% endif %}
+          <br>
 
           {# 标签部分 - 显示文章的关键词标签 #}
           {% if item.data.tags and item.data.tags.length > 0 %}
             {%- for tag in item.data.tags -%}
-              {%- if tag != "post" and tag != "note" and tag != "视频笔记" -%}
+              {%- if tag != "post" and tag != "note" and tag != "视频文稿" -%}
                 <a href="{{ ('/tags/' + (tag | slug) + '/') | url }}" class="tag-link">#{{ tag }}</a>
                 {%- if not loop.last %} {% endif -%}
               {%- endif -%}

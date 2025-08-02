@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=li5mqxcSpfQ&t'
+series: null
+source: https://www.youtube.com/watch?v=li5mqxcSpfQ&t
 speaker: 李厚辰
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 马基雅维里时刻
 - 政治转型
 - 新君主

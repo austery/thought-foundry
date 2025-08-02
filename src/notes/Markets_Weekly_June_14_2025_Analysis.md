@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-06-14'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Joseph Wang
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美联储
 - 美元
 - 稀土

@@ -16,6 +16,8 @@ Thought Foundry is a personal knowledge base and digital garden built with [Elev
 * **Book Notes Template**: Specialized template for book reviews with metadata display including author, publisher, rating, cover images, and reading dates.
 * **Enhanced Template System**: Improved display logic showing source URLs in channel field instead of raw links, with better metadata presentation.
 * **Summary and Insight Display**: Dual-field system displaying content summaries and personal insights with visual distinction on both blog pages and individual posts.
+* **Internal Tag System**: Advanced tag filtering system that allows internal tags (like "视频文稿") to exist in content but remain hidden from public display while maintaining organizational functionality.
+* **Badge System**: Visual content type indicators using emoji badges (✍️ for posts, 📝 for notes) with compact inline layout for improved information density.
 * **Frontmatter Migration Tools**: Automated Python scripts for restructuring frontmatter fields while preserving content and maintaining data integrity.
 * **Data Integrity Tools**: Built-in debugging tools to detect and resolve data quality issues like overly long speaker fields or malformed frontmatter.
 * **Flat Frontmatter Structure**: Uses industry-standard flat frontmatter structure instead of nested data objects for better maintainability.
@@ -208,7 +210,76 @@ The project includes a Python script (`rename_insight_to_summary.py`) that autom
 - Preserves all other frontmatter structure
 - Processes all content files in batch
 
-This content will be accessible at `/notes/private-meeting-notes/` but won't appear in any listings.
+### Internal Tag System Feature
+
+The site supports an advanced internal tag system that allows you to use organizational tags that remain hidden from public display while maintaining backend functionality. This is particularly useful for content workflow management and internal categorization.
+
+**How Internal Tags Work:**
+- 🔒 **Hidden from Display** - Internal tags are filtered out from blog listings, post pages, tag collections, and search results
+- ✅ **Preserved in Data** - Tags remain in frontmatter for backend processing and potential future use
+- 🏷️ **Selective Filtering** - Only specified internal tags are hidden; other tags display normally
+- 🔄 **Build-Time Processing** - Filtering happens during site generation for optimal performance
+
+**Current Internal Tags:**
+- `视频文稿` - Marks content as video transcripts without displaying the tag publicly
+
+**Use Cases:**
+- Content workflow states (draft, review, published)
+- Internal categorization for content management
+- Legacy tag migration without losing organizational data
+- Administrative metadata that shouldn't be public
+
+**Implementation:**
+The system uses multi-layer filtering across:
+- Template displays (blog.njk, post.njk)
+- Collection generation (.eleventy.js)
+- Tag listing and navigation
+- Search result processing
+
+**Example:**
+```yaml
+---
+title: "AI研讨会：探索企业级应用与未来趋势"
+date: "2024-06-15"
+tags:
+  - AI
+  - 企业应用
+  - 视频文稿  # This tag won't appear in public displays
+  - 技术趋势
+---
+
+Users will see tags: #AI #企业应用 #技术趋势
+Internal tag "视频文稿" remains hidden but preserved in data.
+```
+
+### Badge System and Layout Optimization
+
+The site features a modern badge system with visual content type indicators and optimized layout for improved information density and user experience.
+
+**Badge System Features:**
+- ✍️ **Post Badge** - Emoji indicator for blog posts and articles
+- 📝 **Note Badge** - Emoji indicator for meeting notes and transcripts
+- 🎨 **Clean Design** - Icon-only approach for minimal visual clutter
+- 📱 **Responsive** - Consistent display across all device sizes
+
+**Layout Optimization:**
+- **Inline Metadata** - Title, badge, and date on the same line for compact presentation
+- **Information Density** - More content visible without scrolling
+- **Visual Hierarchy** - Clear distinction between content types and metadata
+- **Consistent Spacing** - Uniform gaps and alignment across all content listings
+
+**Template Structure:**
+```html
+<a href="/post-url/">Post Title</a>
+<span class="badge">✍️</span>
+<time datetime="2025-08-02">8/2/2025</time>
+```
+
+**Benefits:**
+- **Faster Scanning** - Users can quickly identify content types and dates
+- **Cleaner Interface** - Reduced visual noise while maintaining functionality
+- **Better UX** - More intuitive content browsing and discovery
+- **Mobile Friendly** - Optimized for smaller screens with efficient space usage
 ```
 
 ### File Naming
@@ -280,6 +351,10 @@ The site includes built-in debugging tools that run during build to detect:
 - **NEW: Enhanced template system** with improved source URL display in channel field
 - **NEW: Summary and Insight Display** dual-field content preview system with visual distinction and color-coded styling
 - **NEW: Frontmatter Migration Tools** automated Python scripts for batch processing and field restructuring
+- **NEW: Internal Tag System** advanced tag filtering allowing organizational tags to remain hidden from public display while preserving backend functionality
+- **NEW: Badge System & Layout Optimization** emoji-based content type indicators with inline metadata layout for improved information density
+- **NEW: Tag Management Tools** automated Python scripts for batch tag replacement and frontmatter processing (212 files successfully updated from "视频笔记" to "视频文稿")
+- **NEW: Multi-layer filtering system** coordinated tag filtering across templates, collections, and build processes
 - **NEW: Batch frontmatter processing** with automated series field addition to all content
 - Optimized book note layout for better readability
 - Added URL-friendly file naming with underscore conversion

@@ -1,22 +1,22 @@
 ---
 author: Lei
-channel: 'https://www.youtube.com/@%E4%B8%89%E5%80%8B%E6%B0%B4%E6%A7%8D%E6%89%8B'
+channel: https://www.youtube.com/@%E4%B8%89%E5%80%8B%E6%B0%B4%E6%A7%8D%E6%89%8B
 date: 2025-07-22
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=cl497eXGLiI'
+series: null
+source: https://www.youtube.com/watch?v=cl497eXGLiI
 speaker: 李厚辰, 伍雷, 贾葭
 summary: 让人联想杭州粪水事件，好像没有什么抗议，就是补偿10吨水费？本次讨论深入剖析了中国人“能忍”的现象，从天命观、儒道思想等文化根源，到政府严密的信息控制和制度性压制，再到民众的自我审查与自欺逻辑，多维度探讨了其成因。
 tags:
-- 视频笔记
+- 视频文稿
 - 天命观
 - 信息控制
 - 政治
 title: 吃草也能活：中国人为何如此能忍
 file_name: chinese_endurance_mandate_of_heaven_info_control
-draft: True
+draft: true
 ---
 
 ## 引言：中国人吃草也能活？

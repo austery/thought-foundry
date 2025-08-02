@@ -3,14 +3,14 @@ author: Lei
 channel: 知行小酒馆
 date: '2025-06-10'
 guest: 王汉洋
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 雨白
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 人工智能
 - 个人成长
 - 知行小酒馆

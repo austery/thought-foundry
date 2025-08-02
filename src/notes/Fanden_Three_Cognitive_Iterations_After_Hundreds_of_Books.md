@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 樊登
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 认知迭代
 - 阅读
 title: 樊登：讲完几百本书，提升最大的是这三次认知迭代

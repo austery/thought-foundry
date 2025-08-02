@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-04-27'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=wv779vmyPVY&t'
+series: null
+source: https://www.youtube.com/watch?v=wv779vmyPVY&t
 speaker: Jeremy Utley
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 人工智能
 - prompt
 title: 斯坦福大学教授：如何在13分钟内学会由AI驱动的创造力

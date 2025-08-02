@@ -2,15 +2,15 @@
 author: Lei
 channel: About That
 date: '2025-06-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=PQOmqA5zgds&t'
+series: null
+source: https://www.youtube.com/watch?v=PQOmqA5zgds&t
 speaker: Andrew Chang
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美国债务
 - 宏观经济
 title: 美国债务深度分析：多少才算太多？

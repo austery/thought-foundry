@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 原子能
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 程序员
 - 职业生涯
 - 个人成长

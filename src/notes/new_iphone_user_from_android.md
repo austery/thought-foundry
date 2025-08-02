@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: 2025-07-27
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Google Gemini
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - IPhone指南
 title: 献给父母的iPhone 16 Plus贴心指南：从安卓到苹果的全方位迁移与使用手册
 ---

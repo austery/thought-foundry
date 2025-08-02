@@ -1,16 +1,16 @@
 ---
 author: Lei
 date: '2024-02-21'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=Yqn0lv9ymLk'
+series: null
+source: https://www.youtube.com/watch?v=Yqn0lv9ymLk
 speaker: LEI
-summary: 
+summary: null
 tags:
 - 投资
-- 视频笔记
+- 视频文稿
 - book
 title: 投资心理学｜THE PSYCHOLOGY OF INVESTING
 ---

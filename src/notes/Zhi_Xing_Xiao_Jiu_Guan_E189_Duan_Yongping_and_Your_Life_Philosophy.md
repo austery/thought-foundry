@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
 guest: 小波老师
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 雨白
 summary: 可以看看段永平的书，好像是他在雪球的合集
 tags:
-- 视频笔记
+- 视频文稿
 - 段永平
 - 人生哲学
 - 投资

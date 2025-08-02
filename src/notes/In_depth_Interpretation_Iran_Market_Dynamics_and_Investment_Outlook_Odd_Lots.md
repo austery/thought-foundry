@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 'Matia Wial (Antelon Capital CEO & CIO)'
-insight: 
+guest: Matia Wial (Antelon Capital CEO & CIO)
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=EppHLdwUqUI&t=1s'
+series: null
+source: https://www.youtube.com/watch?v=EppHLdwUqUI&t=1s
 speaker: Tracy Alloway, Joe Weisenthal (Odd Lots)
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 伊朗经济
 - 投资前景
 - 地缘政治

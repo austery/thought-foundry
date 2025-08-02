@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-25'
 guest: Yushan
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 泓君
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 司美格鲁肽
 - 减肥药
 - GLP-1

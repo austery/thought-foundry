@@ -2,15 +2,15 @@
 author: Lei
 channel: LiuTalks
 date: '2025-05-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 徒步的骑手
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 人性弱点
 - 马基雅弗利
 - 徒步的骑手

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 李厚辰,賈葭,武雷
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 三个水枪手
 - 政治
 title: 黄杨钿甜天价耳环背后：被垄断的“慈善权”与中共对慈善的憎恨

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Vivian,Simon,Ge Su,路遥,金玲,Chelsea,翻新,Fancy
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 小而美
 - 读书会
 - 个人成长

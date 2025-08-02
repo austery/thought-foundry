@@ -2,22 +2,22 @@
 author: Lei
 channel: 一席
 date: 2025-07-23
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=FGOKB1j_bhU'
+series: null
+source: https://www.youtube.com/watch?v=FGOKB1j_bhU
 speaker: 申琦
 summary: 观察得很好，但是很多问题，在近期无解的，比如LLM对老年人友善，对人要嘘寒问暖；建立语料库，很有意义的活动。感觉就是人类价值对齐的那套。我考虑是否要帮助父母多用LLM。探讨AI技术在应对老龄化社会时的伦理挑战与人本关怀，强调技术应适应并尊重老年人的真实需求，而非制造新的数字障碍。
 tags:
-- 视频笔记
+- 视频文稿
 - 老龄化
 - 数字养老
 - 技术伦理
 - 一席
 title: AI如何向善：技术应如何对待正在变老的人
 file_name: ai_ruhe_xiangshan_jishu_duidai_laoren
-draft: True
+draft: true
 ---
 
 ## 快速老龄化社会的挑战

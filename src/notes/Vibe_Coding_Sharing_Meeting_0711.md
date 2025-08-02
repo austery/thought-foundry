@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-12'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 张敏
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - Vibe Coding
 - 工作流
 title: Vibe Coding分享会纪要

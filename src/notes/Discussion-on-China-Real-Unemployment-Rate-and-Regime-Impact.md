@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-05-25'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-source: 
+source: null
 speaker: 夸克
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 数字极权
 - 政治
 title: 关于中国真实失业率及其对政权影响的探讨

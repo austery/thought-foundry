@@ -1,15 +1,15 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
+series: null
 speaker: 李厚辰
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 读书价值
 - 人工智能
 - 专注力

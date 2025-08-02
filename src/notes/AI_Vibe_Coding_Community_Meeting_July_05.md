@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-06'
 guest: Amy, Ray, Jay, Vincent
-insight: 
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: Dusing
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - Vibe Coding
 - Prompt
 title: AI Vibe Coding 社区讨论会纪要0705

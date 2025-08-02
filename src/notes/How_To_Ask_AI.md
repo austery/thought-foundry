@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-07'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 'https://www.youtube.com/watch?v=zx1T6TLDZ5I'
+series: null
+source: https://www.youtube.com/watch?v=zx1T6TLDZ5I
 speaker: Max (全麦AI搜索)
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - Prompt
 - 研究方法
 title: 深度研究之前，如何向AI提一个准确的问题？ - 专业报告

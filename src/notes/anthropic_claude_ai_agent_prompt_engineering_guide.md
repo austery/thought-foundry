@@ -3,21 +3,22 @@ author: Lei
 date: 2025-08-01
 guest: Carly
 layout: post.njk
-channel: 
+channel: null
 source: https://www.youtube.com/watch?v=G0evpRuZ3lQ&t
 speaker: Alex, Justin, Carly
 tags:
-- 视频笔记
+- 视频文稿
 - prompt engineering
 - Anthropic Claude
 - Kilo Code
 - AI Agent
-title: "Anthropic 专家 Carly 分享：Claude 模型与 AI 代理的专业 Prompt Engineering 技巧"
-summary: "Anthropic 应用人工智能专家 Carly 深入探讨了 Prompt Engineering 的最佳实践，特别针对 Claude 模型、AI 代理的构建原则，以及如何在 Kilo Code 等工具中高效应用这些技巧，以提升 AI 编码效率。"
-insight: 
+title: Anthropic 专家 Carly 分享：Claude 模型与 AI 代理的专业 Prompt Engineering 技巧
+summary: Anthropic 应用人工智能专家 Carly 深入探讨了 Prompt Engineering 的最佳实践，特别针对 Claude 模型、AI
+  代理的构建原则，以及如何在 Kilo Code 等工具中高效应用这些技巧，以提升 AI 编码效率。
+insight: null
 file_name: anthropic_claude_ai_agent_prompt_engineering_guide.md
 draft: true
-series: 
+series: null
 ---
 
 ## 开场与介绍

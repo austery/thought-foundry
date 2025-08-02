@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
-source: 
+series: null
+source: null
 speaker: 刘宗坤
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 美国民主
 - 衰退
 - 政治体制

@@ -1,16 +1,16 @@
 ---
 author: Lei
-channel: 
+channel: null
 date: '2025-07-10'
-guest: 
-insight: 
+guest: null
+insight: null
 layout: post.njk
-series: 
+series: null
 source: https.www.youtube.com/watch?v=placeholder
 speaker: steve.com
-summary: 
+summary: null
 tags:
-- 视频笔记
+- 视频文稿
 - 泳池维护
 - 水化学
 - 消费陷阱
