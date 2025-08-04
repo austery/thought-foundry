@@ -5,7 +5,7 @@ date: '2025-07-12'
 guest: null
 insight: null
 layout: post.njk
-series: null
+series: Vibe Coding
 source: null
 speaker: 张敏
 summary: null
