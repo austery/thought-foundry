@@ -4,7 +4,7 @@ date: 2025-08-19
 guest: 
 layout: post.njk
 channel: 
-source: 
+source: https://www.youtube.com/watch?v=1AaLtt7gyoY&t
 speaker: 徒步的骑手
 tags:
   - t-literature-note
