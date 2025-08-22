@@ -1,6 +1,6 @@
 ---
 author: Lei
-date: 2024-06-10
+date: 2025-08-17
 guest: Dr. Daniel Amen, Dr. Terry Sejnowski
 layout: post.njk
 channel: https://www.youtube.com/c/TheDiaryOfACEO
