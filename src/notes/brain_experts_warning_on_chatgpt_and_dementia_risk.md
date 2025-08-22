@@ -3,7 +3,6 @@ author: Lei
 date: 2025-08-17
 guest: Dr. Daniel Amen, Dr. Terry Sejnowski
 layout: post.njk
-channel: https://www.youtube.com/c/TheDiaryOfACEO
 source: https://www.youtube.com/watch?v=SSJ3Kz3A_yU
 speaker: Steven Bartlett
 tags:
