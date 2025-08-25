@@ -8,7 +8,7 @@ source: https://www.youtube.com/watch?v=G0evpRuZ3lQ&t
 speaker: Alex, Justin, Carly
 tags:
 - 视频文稿
-- prompt engineering
+- prompt-engineering
 - Anthropic Claude
 - Kilo Code
 - AI Agent

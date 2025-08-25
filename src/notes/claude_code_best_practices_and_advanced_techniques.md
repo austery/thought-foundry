@@ -10,7 +10,7 @@ tags:
 - 视频文稿
 - Claude Code
 - AI 编程助手
-- Prompt Engineering
+- prompt-engineering
 - AI 代理
 title: Anthropic 专家 Cal 深度解析：Claude Code 最佳实践与高级技巧
 summary: Anthropic 应用 AI 团队的核心贡献者 Cal 深入介绍了 AI 编码助手 Claude Code。他分享了 Claude Code 作为纯粹代理的工作原理、多样化的应用场景，并详细阐述了包括使用
