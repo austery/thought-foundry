@@ -11,7 +11,7 @@ tags:
 - us-economy
 - china-politics
 - global-news
-title: Global News Digest: US Jobs Data, NVIDIA's Slowdown, and Geopolitical Tensions
+title: Global News Digest- US Jobs Data, NVIDIA's Slowdown, and Geopolitical Tensions
 summary: A review of key global news, including revised US employment figures, concerns over NVIDIA's growth, Israel's strike in Qatar, political turmoil in Nepal and France, and analysis of recent events in China and Taiwan.
 insight:
 file_name: global_news_digest_us_jobs_nvidia_geopolitics_1jGU7siwXKE.md
