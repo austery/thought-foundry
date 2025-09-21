@@ -10,7 +10,6 @@ tags:
 - fire-movement
 - cognitive-enhancement
 - alternative-education
-- investment-philosophy
 title: A Deep Dive into the FIRE Lifestyle and Cognitive Enhancement with Kevin
 summary: A discussion with Kevin on his FIRE journey, slash career, and investment philosophy. He shares insights on cognitive enhancement, alternative education through Minerva University, and the importance of taking risks to live a fulfilling life beyond conventional norms.
 insight:
