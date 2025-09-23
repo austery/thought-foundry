@@ -11,7 +11,7 @@ tags:
 - sme
 - entrepreneurship
 - international-trade
-- ai-agent
+- ai agent
 title: Beyond the Bubble - How AI Empowers Small Businesses Outside Silicon Valley
 summary: This video explores the practical applications of AI for small and medium-sized enterprises (SMEs) outside of the Silicon Valley bubble, featuring insights from the CoCreate startup competition in Las Vegas. It showcases how entrepreneurs are using AI tools to innovate, streamline global trade, and create "one-person companies," demonstrating AI's tangible impact on everyday business.
 insight: 
