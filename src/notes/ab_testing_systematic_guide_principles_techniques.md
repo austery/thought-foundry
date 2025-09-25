@@ -11,7 +11,7 @@ tags:
 - experimentation-culture
 - data-science
 - product-management
-title: A Systematic Guide to A/B Testing: From Core Principles to Advanced Techniques
+title: A Systematic Guide to A/B Testing:From Core Principles to Advanced Techniques
 summary: This document provides a complete guide to A/B testing, covering its core value, the necessary infrastructure for scaling experiments, key statistical concepts like hypothesis testing, and advanced methods such as CUPED, Bayesian approaches, and sequential testing.
 insight:
 file_name: ab_testing_systematic_guide_principles_techniques.md
