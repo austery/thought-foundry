@@ -3,7 +3,7 @@ author: Lei
 date: 2025-10-01
 guest: Richard Sutton
 layout: post.njk
-source: 
+source: https://www.youtube.com/watch?v=RLR4OpetiEc
 speaker: 大飞
 tags:
 - t-literature-note
