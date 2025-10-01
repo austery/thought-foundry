@@ -12,7 +12,7 @@ tags:
   - inference-optimization
   - multi-cloud-infrastructure
   - startup-culture
-title: Fal.ai: AI视频的未来、推理优化与创成式媒体市场的激烈竞争
+title: Fal.ai AI视频的未来、推理优化与创成式媒体市场的激烈竞争
 summary: 本视频探讨Fal.ai如何通过极致的推理优化，在竞争激烈的AI视频市场中脱颖而出，并将其定位为创成式媒体云平台。
 insight:
 file_name: fal_ai_future_video_inference_optimization.md
