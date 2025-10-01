@@ -1,7 +1,7 @@
 ---
 author: Lei
 date: 2025-08-01
-guest: []
+guest: 
 layout: post.njk
 source: http://www.youtube.com/watch?v=NKNYKYoDSNA
 speaker: a16z
