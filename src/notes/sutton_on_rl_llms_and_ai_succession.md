@@ -3,7 +3,7 @@ author: Lei
 date: 2025-10-01
 guest: Richard Sutton
 layout: post.njk
-source: 
+source: https://www.youtube.com/watch?v=21EYKqUsPfg
 speaker: Dwarkesh Patel, Richard Sutton
 tags:
 - t-literature-note
