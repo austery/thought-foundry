@@ -16,7 +16,7 @@ module.exports = async function (eleventyConfig) {
   // 添加过滤已排除项目的过滤器
   eleventyConfig.addFilter("filterExcluded", function (collection) {
     if (!Array.isArray(collection)) return collection;
-    return collection.filter(item => !item.data || !item.data.exclude);
+    return collection.filter((item) => !item.data || !item.data.exclude);
   });
 
   eleventyConfig.addFilter("slug", (str) => {
@@ -53,27 +53,31 @@ module.exports = async function (eleventyConfig) {
 
   // 集合 1, 2, 3: 添加排除功能
   eleventyConfig.addCollection("posts", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/posts/**/*.md")
-      .filter(item => !item.data.exclude);
+    return collectionApi
+      .getFilteredByGlob("./src/posts/**/*.md")
+      .filter((item) => !item.data.exclude);
   });
   eleventyConfig.addCollection("books", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/books/**/*.md")
-      .filter(item => !item.data.exclude);
+    return collectionApi
+      .getFilteredByGlob("./src/books/**/*.md")
+      .filter((item) => !item.data.exclude);
   });
   eleventyConfig.addCollection("notes", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/notes/**/*.md")
-      .filter(item => !item.data.exclude);
+    return collectionApi
+      .getFilteredByGlob("./src/notes/**/*.md")
+      .filter((item) => !item.data.exclude);
   });
 
   // 集合 4: 这是我们最终的、最可靠的标签集合，现在增加了更强大的调试报告功能和排除功能
   eleventyConfig.addCollection("tagList", (collectionApi) => {
     const tagMap = new Map();
+
     collectionApi.getAll().forEach((item) => {
       // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
       if (
         (item.inputPath.includes("./src/posts/") ||
-        item.inputPath.includes("./src/books/") ||
-        item.inputPath.includes("./src/notes/")) &&
+          item.inputPath.includes("./src/books/") ||
+          item.inputPath.includes("./src/notes/")) &&
         !item.data.exclude
       ) {
         (item.data.tags || []).forEach((tag) => {
@@ -81,19 +85,27 @@ module.exports = async function (eleventyConfig) {
           if (tag === "post" || tag === "note" || tag === "视频文稿") {
             return;
           }
-          const lowerCaseTag = tag.trim().toLowerCase();
-          if (!tagMap.has(lowerCaseTag)) {
-            tagMap.set(lowerCaseTag, {
-              name: tag,
-              key: lowerCaseTag,
+
+          // --- START: 增强的标签清洗和规范化 ---
+          // 1. 去除首尾多余的空格
+          const cleanedTag = tag.trim();
+          // 2. 将标签转换为小写，作为唯一的key
+          const lowerCaseKey = cleanedTag.toLowerCase();
+          // --- END: 增强的标签清洗和规范化 ---
+
+          if (!tagMap.has(lowerCaseKey)) {
+            tagMap.set(lowerCaseKey, {
+              // 我们存储第一次遇到的、经过清理的标签名
+              name: cleanedTag,
+              key: lowerCaseKey,
               posts: [],
-              // 新增：记录这个标签来自哪些文件
               sources: new Set(),
             });
           }
-          tagMap.get(lowerCaseTag).posts.push(item);
-          // 将当前文件的路径添加到来源集合中
-          tagMap.get(lowerCaseTag).sources.add(item.inputPath);
+
+          // 向现有的标签条目中添加文章和来源
+          tagMap.get(lowerCaseKey).posts.push(item);
+          tagMap.get(lowerCaseKey).sources.add(item.inputPath);
         });
       }
     });
@@ -102,7 +114,7 @@ module.exports = async function (eleventyConfig) {
       a.name.localeCompare(b.name)
     );
 
-    // --- START: 调试代码来寻找冲突 ---
+    // --- START: 调试代码来寻找冲突 (这部分代码非常有用，保持原样) ---
     const slugConflictMap = new Map();
     const slugifyFilter = eleventyConfig.getFilter("slug");
 
@@ -111,7 +123,6 @@ module.exports = async function (eleventyConfig) {
       if (!slugConflictMap.has(slug)) {
         slugConflictMap.set(slug, []);
       }
-      // 我们现在存储更详细的信息
       slugConflictMap.get(slug).push({
         name: tagInfo.name,
         sources: Array.from(tagInfo.sources),
@@ -152,13 +163,13 @@ module.exports = async function (eleventyConfig) {
       // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
       if (
         (item.inputPath.includes("./src/posts/") ||
-        item.inputPath.includes("./src/books/") ||
-        item.inputPath.includes("./src/notes/")) &&
+          item.inputPath.includes("./src/books/") ||
+          item.inputPath.includes("./src/notes/")) &&
         !item.data.exclude
       ) {
         // 处理 speaker 和 guest 字段
         const allSpeakers = [];
-        
+
         // 从 speaker 字段提取演讲者
         const speaker = item.data.speaker;
         if (speaker && speaker.trim() !== "" && speaker.trim() !== "''") {
@@ -168,7 +179,7 @@ module.exports = async function (eleventyConfig) {
             .filter((s) => s !== "");
           allSpeakers.push(...speakers);
         }
-        
+
         // 从 guest 字段提取嘉宾
         const guest = item.data.guest;
         if (guest && guest.trim() !== "" && guest.trim() !== "''") {
@@ -178,11 +189,14 @@ module.exports = async function (eleventyConfig) {
             .filter((g) => g !== "");
           allSpeakers.push(...guests);
         }
-        
+
         // 去重并处理所有演讲者
-        const uniqueSpeakers = [...new Set(allSpeakers.map(s => s.toLowerCase()))]
-          .map(lowercaseName => allSpeakers.find(s => s.toLowerCase() === lowercaseName));
-          
+        const uniqueSpeakers = [
+          ...new Set(allSpeakers.map((s) => s.toLowerCase())),
+        ].map((lowercaseName) =>
+          allSpeakers.find((s) => s.toLowerCase() === lowercaseName)
+        );
+
         uniqueSpeakers.forEach((speakerName) => {
           // 清理演讲者名称：去除引号和额外空格
           const cleanedName = speakerName.replace(/^['"]|['"]$/g, "").trim();
@@ -263,21 +277,22 @@ module.exports = async function (eleventyConfig) {
 
   // 集合 7: 被排除的项目集合 - 用于调试和监控
   eleventyConfig.addCollection("excludedItems", function (collectionApi) {
-    const excludedItems = collectionApi.getFilteredByGlob("./src/{posts,books,notes}/**/*.md")
-      .filter(item => item.data.exclude);
-    
+    const excludedItems = collectionApi
+      .getFilteredByGlob("./src/{posts,books,notes}/**/*.md")
+      .filter((item) => item.data.exclude);
+
     // 调试输出
     if (excludedItems.length > 0) {
       console.log("\n--- Excluded Items Report ---");
       console.log(`Found ${excludedItems.length} excluded item(s):`);
       excludedItems.forEach((item, index) => {
         console.log(`${index + 1}. ${item.inputPath}`);
-        console.log(`   Title: ${item.data.title || 'No title'}`);
+        console.log(`   Title: ${item.data.title || "No title"}`);
         console.log(`   Exclude: ${item.data.exclude}`);
       });
       console.log("----------------------------\n");
     }
-    
+
     return excludedItems;
   });
 
@@ -287,18 +302,18 @@ module.exports = async function (eleventyConfig) {
     console.log("\n--- Checking for long speaker fields ---");
     let problemsFound = 0;
     const problematicFiles = [];
-    
+
     collectionApi.getAll().forEach((item) => {
       // 检查多种可能的数据路径
       let speaker = null;
-      
+
       // 尝试不同的数据访问路径
       if (item.data && item.data.speaker) {
         speaker = item.data.speaker;
       } else if (item.data && item.data.data && item.data.data.speaker) {
         speaker = item.data.data.speaker;
       }
-      
+
       // 如果找到了 speaker 字段
       if (speaker) {
         // 如果 speaker 是字符串并且长度超过 100 个字符
@@ -307,41 +322,52 @@ module.exports = async function (eleventyConfig) {
           problematicFiles.push({
             file: item.inputPath,
             length: speaker.length,
-            preview: speaker.substring(0, 200)
+            preview: speaker.substring(0, 200),
           });
-          
+
           console.error(`\n[!! POTENTIAL PROBLEM FOUND !!]`);
           console.error(`File: ${item.inputPath}`);
-          console.error(`Speaker field is too long (length: ${speaker.length})`);
+          console.error(
+            `Speaker field is too long (length: ${speaker.length})`
+          );
           console.error(`First 200 characters of speaker field:`);
           console.error(`"${speaker.substring(0, 200)}..."`);
           console.error(`---`);
         }
-        
+
         // 也检查是否包含换行符或其他奇怪字符
-        if (typeof speaker === "string" && (speaker.includes('\n') || speaker.includes('\r'))) {
-          console.warn(`[!! WARNING !!] Speaker field contains newlines in: ${item.inputPath}`);
+        if (
+          typeof speaker === "string" &&
+          (speaker.includes("\n") || speaker.includes("\r"))
+        ) {
+          console.warn(
+            `[!! WARNING !!] Speaker field contains newlines in: ${item.inputPath}`
+          );
           console.warn(`Speaker preview: "${speaker.substring(0, 100)}..."`);
         }
       }
     });
-    
+
     console.log(`--- Check complete: ${problemsFound} problems found ---`);
-    
+
     if (problemsFound > 0) {
       console.log(`\n🔧 FILES THAT NEED FIXING:`);
       problematicFiles.forEach((problem, index) => {
         console.log(`${index + 1}. File: ${problem.file}`);
         console.log(`   Length: ${problem.length} characters`);
         console.log(`   Preview: "${problem.preview}..."`);
-        console.log('');
+        console.log("");
       });
-      console.log(`\n💡 RECOMMENDATION: Fix the speaker field in these files by:`);
+      console.log(
+        `\n💡 RECOMMENDATION: Fix the speaker field in these files by:`
+      );
       console.log(`   1. Moving the content from 'speaker:' to the main body`);
-      console.log(`   2. Adding a proper speaker name (or leave blank if unknown)`);
+      console.log(
+        `   2. Adding a proper speaker name (or leave blank if unknown)`
+      );
       console.log(`   3. Ensuring proper YAML frontmatter formatting\n`);
     }
-    
+
     return []; // 这个集合不需要输出任何东西
   });
   // --- END: 新增的临时侦测代码 ---
