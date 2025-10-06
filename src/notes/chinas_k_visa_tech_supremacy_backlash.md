@@ -11,7 +11,7 @@ tags:
 - talent-acquisition
 - tech-war
 - sino-us-relations
-title: China's K Visa Policy: A Bid for Tech Supremacy Amidst Public Backlash
+title: China's K Visa Policy:A Bid for Tech Supremacy Amidst Public Backlash
 summary: A discussion on China's new K visa policy, exploring its goal of attracting foreign tech talent to overcome technological bottlenecks, the intense public and nationalist backlash it has triggered, and its potential effectiveness in the ongoing US-China tech war.
 insight:
 file_name: chinas_k_visa_tech_supremacy_backlash.md
