@@ -11,7 +11,7 @@ tags:
 - ai-startup
 - product-market-fit
 - fundraising
-title: AI Entrepreneurship Debrief: From Fundraising Traps to Product-Market Fit
+title: AI Entrepreneurship Debrief:From Fundraising Traps to Product-Market Fit
 summary: Entrepreneur Siyuan shares his AI startup journey, covering fundraising pitfalls, finding pilot users, pivoting for product-market fit, and co-founder selection.
 insight:
 file_name: ai_entrepreneurship_debrief_siyuan.md
