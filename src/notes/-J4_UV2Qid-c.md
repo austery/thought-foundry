@@ -7,7 +7,6 @@ source: https://www.youtube.com/watch?v=J4_UV2Qid-c
 speaker: LT視界
 tags:
   - t-literature-note
-  - lt
   - 李小加
   - 中国模式
   - 财富分配

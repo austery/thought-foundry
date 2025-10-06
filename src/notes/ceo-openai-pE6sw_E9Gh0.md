@@ -10,7 +10,7 @@ tags:
   - bg2-pod
   - NVIDIA
   - OpenAI
-  - AI Infrastructure
+  - AI-Infrastructure
   - Scaling Laws
   - American Dream
 title: 英伟达CEO谈论OpenAI的未来、计算的工业革命与美国梦
