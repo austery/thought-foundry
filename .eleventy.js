@@ -71,6 +71,7 @@ module.exports = async function (eleventyConfig) {
   // 集合 4: 这是我们最终的、最可靠的标签集合，现在增加了更强大的调试报告功能和排除功能
   eleventyConfig.addCollection("tagList", (collectionApi) => {
     const tagMap = new Map();
+    const slugifyFilter = eleventyConfig.getFilter("slug");
 
     collectionApi.getAll().forEach((item) => {
       // 我们只处理那些在 posts, books, 或 notes 文件夹里的内容，并且没有被排除的
@@ -89,23 +90,23 @@ module.exports = async function (eleventyConfig) {
           // --- START: 增强的标签清洗和规范化 ---
           // 1. 去除首尾多余的空格
           const cleanedTag = tag.trim();
-          // 2. 将标签转换为小写，作为唯一的key
-          const lowerCaseKey = cleanedTag.toLowerCase();
+          // 2. 使用 slug 过滤器来创建唯一的、URL友好的key
+          const slugKey = slugifyFilter(cleanedTag);
           // --- END: 增强的标签清洗和规范化 ---
 
-          if (!tagMap.has(lowerCaseKey)) {
-            tagMap.set(lowerCaseKey, {
-              // 我们存储第一次遇到的、经过清理的标签名
+          if (!tagMap.has(slugKey)) {
+            tagMap.set(slugKey, {
+              // 我们存储第一次遇到的、经过清理的标签名作为显示名称
               name: cleanedTag,
-              key: lowerCaseKey,
+              key: slugKey, // key 现在是 slugified 的版本
               posts: [],
               sources: new Set(),
             });
           }
 
           // 向现有的标签条目中添加文章和来源
-          tagMap.get(lowerCaseKey).posts.push(item);
-          tagMap.get(lowerCaseKey).sources.add(item.inputPath);
+          tagMap.get(slugKey).posts.push(item);
+          tagMap.get(slugKey).sources.add(item.inputPath);
         });
       }
     });
@@ -116,10 +117,9 @@ module.exports = async function (eleventyConfig) {
 
     // --- START: 调试代码来寻找冲突 (这部分代码非常有用，保持原样) ---
     const slugConflictMap = new Map();
-    const slugifyFilter = eleventyConfig.getFilter("slug");
 
     tagList.forEach((tagInfo) => {
-      const slug = slugifyFilter(tagInfo.key);
+      const slug = tagInfo.key; // The key is now the slug itself
       if (!slugConflictMap.has(slug)) {
         slugConflictMap.set(slug, []);
       }
