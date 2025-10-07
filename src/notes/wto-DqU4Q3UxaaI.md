@@ -9,10 +9,7 @@ tags:
   - t-literature-note
   - fearnation
   - WTO
-  - China Economy
-  - Trade Relations
   - Geopolitics
-  - Global Trade Order
 title: 中国放弃WTO发展中国家待遇：战略转向背后的三重逻辑与全球贸易的未来推演
 summary: 深入分析中国宣布不再寻求WTO特殊待遇的战略意图，探讨其背后的外部压力、内部转型需求及地缘政治考量。文章同时推演了后特权时代全球贸易可能面临的三种未来走向。
 insight: ''
