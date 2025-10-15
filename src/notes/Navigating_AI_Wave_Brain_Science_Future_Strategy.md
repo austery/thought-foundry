@@ -21,7 +21,7 @@ source:
 speaker:
 insight: 这篇太平庸了，我要再做研究一下，
 file_name:
-excluded: true
+exclude: true
 ---
 
 ## 引言：新時代的焦慮—— navigating AI 的認知與社會景觀
