@@ -37,7 +37,7 @@
 }
 
 /* 博客页面的摘要和洞察样式 */
-.summary-text, .insight-text {
+.summary-text, .insight-text, .speaker-text {
     display: block;
     margin-top: 0.5em;
     padding: 0.5em;
@@ -55,6 +55,31 @@
     background-color: #fffbf0;
     color: #cc7a00;
     border-left: 2px solid #f39c12;
+}
+
+.speaker-text {
+    background-color: #f0fff4;
+    color: #22543d;
+    border-left: 2px solid #48bb78;
+}
+
+/* 首页列表中的 speaker - inline 显示 */
+.speaker-inline {
+    display: inline;
+    padding: 0.2em 0.5em;
+    margin: 0 0.5em;
+    background-color: #f0fff4;
+    color: #22543d;
+    border-radius: calc(var(--pico-border-radius) / 2);
+    font-size: 0.9em;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.speaker-inline:hover {
+    background-color: #c6f6d5;
+    color: #1a5d3a;
+    text-decoration: none;
 }
 
 /* 系列相关文章样式 */

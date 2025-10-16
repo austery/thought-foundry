@@ -16,12 +16,17 @@ permalink: "/"
     {%- for item in collections.allItems | filterExcluded | sort(true, false, 'date') -%}
       {% if item.filePathStem and (item.filePathStem.includes('/posts/') or item.filePathStem.includes('/books/') or item.filePathStem.includes('/notes/')) %}
         <li>
+          {# 第一行: 标题 + 徽章 + Speaker + 日期 #}
           <a href="{{ item.url | url }}">{{ item.data.title }}</a>
           {# 徽章部分 #}
           {% if item.filePathStem.includes('/posts/') %}
             <span class="badge">✍️</span>
           {% elif item.filePathStem.includes('/notes/') %}
             <span class="badge">📝</span>
+          {% endif %}
+          {# Speaker 部分 #}
+          {% if item.data.speaker %}
+            <a href="{{ ('/speakers/' + (item.data.speaker | getSpeakerUniqueKey(collections) | slug) + '/') | url }}" class="speaker-inline">🎙️ {{ item.data.speaker }}</a>
           {% endif %}
           {# 日期部分 #}
           {% if item.date %}
