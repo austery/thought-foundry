@@ -1,10 +1,10 @@
 ---
-author: ' RLVR '
+author: 最佳拍档
 date: '2025-10-17'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=X3iRGwrkuc4
-speaker: ' RLVR '
+speaker: 最佳拍档
 tags:
   - t-literature-note
   - rlvr
