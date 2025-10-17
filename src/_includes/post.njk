@@ -52,7 +52,13 @@ layout: "base.njk"
 
       {# 第二部分：发布时间 #}
       {% if date %}
-        <p><strong>发布时间:</strong> {{ date | date: "%Y年%m月%d日" }}</p>
+        <p><strong>发布时间:</strong>
+          {% if date.toLocaleDateString %}
+            {{ date.toLocaleDateString() }}
+          {% else %}
+            {{ date }}
+          {% endif %}
+        </p>
       {% endif %}
 
       {# 第三部分：摘要和关键字 #}

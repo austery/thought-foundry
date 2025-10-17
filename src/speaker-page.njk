@@ -6,33 +6,69 @@ pagination:
 layout: "base.njk"
 permalink: "/speakers/{{ speakerInfo.uniqueKey | slug }}/"
 ---
+
 <div class="container">
+
+<div class="home-layout">
+
   <h1>演讲者：{{ speakerInfo.name }}</h1>
-  
+
   <p>共有 {{ speakerInfo.posts.length }} 篇文章</p>
-  
-  <ul class="speaker-posts-list">
-    {%- for post in speakerInfo.posts | reverse -%}
+
+  <ul>
+    {%- for item in speakerInfo.posts | sort(true, false, 'date') -%}
       <li>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-        
-        {# 显示文章类型徽章 #}
-        {% if post.filePathStem.includes('/posts/') %}
-          <span class="badge">博客文章</span>
-        {% elif post.filePathStem.includes('/books/') %}
-          <span class="badge">书评</span>
-        {% elif post.filePathStem.includes('/notes/') %}
-          <span class="badge">视频笔记</span>
+        {# 第一行: 标题 + 徽章 + Speaker + 日期 #}
+        <a href="{{ item.url | url }}">{{ item.data.title }}</a>
+        {# 徽章部分 #}
+        {% if item.filePathStem.includes('/posts/') %}
+          <span class="badge">✍️</span>
+        {% elif item.filePathStem.includes('/notes/') %}
+          <span class="badge">📝</span>
         {% endif %}
-        
-        {# 显示发布日期 #}
-        {% if post.date %}
+        {# Speaker 部分 #}
+        {% if item.data.speaker %}
+          <a href="{{ ('/speakers/' + (item.data.speaker | getSpeakerUniqueKey(collections) | slug) + '/') | url }}" class="speaker-inline">🎙️ {{ item.data.speaker }}</a>
+        {% endif %}
+        {# 日期部分 #}
+        {% if item.date %}
+          <time datetime="{{ item.date }}">
+            {% if item.data.date %}
+              {{ item.data.date }}
+            {% else %}
+              {{ item.date.toLocaleDateString() }}
+            {% endif %}
+          </time>
+        {% endif %}
+        <br>
+
+        {# 标签部分 - 显示文章的关键词标签 #}
+        {% if item.data.tags and item.data.tags.length > 0 %}
+          {%- for tag in item.data.tags -%}
+            {%- if tag != "post" and tag != "note" and tag != "视频文稿" -%}
+              <a href="{{ ('/tags/' + (tag | slug) + '/') | url }}" class="tag-link">#{{ tag }}</a>
+              {%- if not loop.last %} {% endif -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {% endif %}
+
+        {# 摘要部分 - 显示内容摘要 #}
+        {% if item.data.summary %}
           <br>
-          <time datetime="{{ post.date }}">{{ post.date.toLocaleDateString() }}</time>
+          <small class="summary-text">📄 {{ item.data.summary }}</small>
+        {% endif %}
+
+        {# 洞察部分 - 显示为什么观看这个视频或听这个播客 #}
+        {% if item.data.insight %}
+          <br>
+          <small class="insight-text">💡 {{ item.data.insight }}</small>
         {% endif %}
       </li>
     {%- endfor -%}
   </ul>
-  
+
   <p><a href="{{ '/' | url }}">← 返回首页</a></p>
+
+</div>
+
 </div>

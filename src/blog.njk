@@ -30,7 +30,13 @@ permalink: "/"
           {% endif %}
           {# 日期部分 #}
           {% if item.date %}
-            <time datetime="{{ item.date }}">{{ item.date.toLocaleDateString() }}</time>
+            <time datetime="{{ item.date }}">
+              {% if item.data.date %}
+                {{ item.data.date }}
+              {% else %}
+                {{ item.date.toLocaleDateString() }}
+              {% endif %}
+            </time>
           {% endif %}
           <br>
 
