@@ -1,10 +1,10 @@
 ---
-author: N/A
+author: All-In Podcast
 date: '2025-10-11'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=IbnrclsPGPQ
-speaker: N/A
+speaker: All-In Podcast
 tags:
   - t-literature-note
   - middle-east-peace

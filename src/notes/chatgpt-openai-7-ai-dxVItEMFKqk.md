@@ -1,13 +1,12 @@
 ---
-author: ' 7亿周活跃用户 '
+author: 最佳拍档
 date: '2025-10-17'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=dxVItEMFKqk
-speaker: ' 7亿周活跃用户 '
+speaker: 最佳拍档
 tags:
   - t-literature-note
-  - '7'
   - chatgpt-usage
   - openai-report
   - ai-trends

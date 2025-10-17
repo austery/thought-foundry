@@ -1,10 +1,10 @@
 ---
-author: ' 诺奖感受 '
+author: 最佳拍档
 date: '2025-10-17'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=Q0vP9S-VAPg
-speaker: ' 诺奖感受 '
+speaker: 最佳拍档
 tags:
   - t-literature-note
   - demis-hassabis

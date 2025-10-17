@@ -1,14 +1,12 @@
 ---
-author: ' 独特的RL方法论 '
+author: 最佳拍档
 date: '2025-10-17'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=s9h-KL_QBCU
-speaker: ' 独特的RL方法论 '
+speaker: 最佳拍档
 tags:
   - t-literature-note
-  - rl
-  - xai
   - ai-data-center
   - elon-musk
   - artificial-general-intelligence

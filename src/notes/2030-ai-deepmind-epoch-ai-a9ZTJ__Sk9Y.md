@@ -1,10 +1,10 @@
 ---
-author: ' 保守基线 '
+author: 最佳拍档
 date: '2025-10-17'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=a9ZTJ__Sk9Y
-speaker: ' 保守基线 '
+speaker: 最佳拍档
 tags:
   - t-literature-note
   - ai-development

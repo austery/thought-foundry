@@ -1,10 +1,10 @@
 ---
-author: ' AI采用速度历史罕见 '
+author: 最佳拍档
 date: '2025-10-17'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=paPeISXpU4U
-speaker: ' AI采用速度历史罕见 '
+speaker: 最佳拍档
 tags:
   - t-literature-note
   - ai
