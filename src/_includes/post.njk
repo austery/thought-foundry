@@ -10,12 +10,12 @@ layout: "base.njk"
     
     <div id="top"></div>
     
-    {# ------------------- 新增的元数据块代码开始 ------------------- #}
+    {# ------------------- 元数据块代码开始 ------------------- #}
 
     <div class="metadata-block">
-      {# 使用 if 判断，只有当数据存在时才显示这一行 #}
+      {# 第一部分：主讲人和来源信息 #}
       {% if speaker %}
-        <p><strong>主讲人:</strong> 
+        <p><strong>主讲人:</strong>
           {# 处理多个演讲者的情况，用逗号分隔 #}
           {% set speakers = speaker.split(',') %}
           {% for speakerName in speakers %}
@@ -29,7 +29,7 @@ layout: "base.njk"
       {% endif %}
 
       {% if guest %}
-        <p><strong>嘉宾:</strong> 
+        <p><strong>嘉宾:</strong>
           {# 处理多个嘉宾的情况，用逗号分隔 #}
           {% set guests = guest.split(',') %}
           {% for guestName in guests %}
@@ -49,7 +49,13 @@ layout: "base.njk"
       {% if channel %}
         <p><strong>频道:</strong> {{ channel }}</p>
       {% endif %}
-      
+
+      {# 第二部分：发布时间 #}
+      {% if date %}
+        <p><strong>发布时间:</strong> {{ date | date: "%Y年%m月%d日" }}</p>
+      {% endif %}
+
+      {# 第三部分：摘要和关键字 #}
       {# 摘要部分 #}
       {% if summary %}
         <div class="summary-section">
@@ -57,7 +63,7 @@ layout: "base.njk"
           <div class="summary-content">{{ summary }}</div>
         </div>
       {% endif %}
-      
+
       {# 洞察部分 #}
       {% if insight %}
         <div class="insight-section">
@@ -65,10 +71,10 @@ layout: "base.njk"
           <div class="insight-content">{{ insight }}</div>
         </div>
       {% endif %}
-      
+
       {# 关键字部分，我们直接遍历这篇文章的 tags #}
       {% if tags %}
-        <p><strong>关键字:</strong> 
+        <p><strong>关键字:</strong>
           {% for tag in tags %}
             {% if tag != "post" and tag != "note" and tag != "视频文稿" %}
               <a class="tag-link" href="{{ ('/tags/' + (tag | slug) + '/') | url }}">{{ tag }}</a>
@@ -78,7 +84,7 @@ layout: "base.njk"
       {% endif %}
     </div>
 
-    {# ------------------- 新增的元数据块代码结束 ------------------- #}
+    {# ------------------- 元数据块代码结束 ------------------- #}
 
     {{ content | safe }}
 
