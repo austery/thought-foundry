@@ -1,7 +1,7 @@
 ---
 title: 警惕效率陷阱：你真的需要“第二大脑”或“个人知识库”吗？
 summary: 视频揭示了“第二大脑”的常见误解，强调其核心是“可操作性”和“输出决定输入”。提出“极简笔记法则”，并提醒警惕盲目追求效率工具，应聚焦自身“输出”。
-area: tech-insights
+area: digital-garden
 category: productivity
 project:
 - ai-impact-analysis

@@ -1,8 +1,8 @@
 ---
 title: 宇宙为何会有观察者
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 人择原理

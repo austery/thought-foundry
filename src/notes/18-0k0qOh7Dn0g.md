@@ -2,7 +2,7 @@
 title: 黑金终章：18亿美元罚金，国王为何安然无恙？史蒂文·科恩与美国司法体系的终极对决
 summary: 本期节目解读《黑金》最终章，探讨SAC资本支付18亿美元罚金后，史蒂文·科恩如何逃脱法律制裁。文章深入分析了陪审团的挑战、控辩双方的较量，以及“纽曼判决”对内幕交易法的颠覆性影响，最终揭示了华尔街的利益至上原则与“旋转门”现象，对美国司法体系的正义性提出深刻反思。
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - investment-strategy
 - us-analysis

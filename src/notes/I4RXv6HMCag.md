@@ -2,7 +2,7 @@
 title: 马斯克第三党派、关税更新与大美丽法案对特斯拉的深远影响分析
 summary: 本文深入探讨了埃隆·马斯克组建第三党派的政治动向、美国关税政策的最新进展以及“大美丽法案”对特斯拉财务和销量的潜在影响。文章还结合技术面分析，提供了对特斯拉股票的投资策略建议。
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - investment-strategy
 - market-cycles

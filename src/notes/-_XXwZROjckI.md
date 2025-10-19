@@ -2,8 +2,8 @@
 title: 纽约印象：喧嚣重燃下的现实挑战
 summary: Peter Santenello 深入纽约，从曼哈顿南端到布朗克斯，与当地人交流，展现了城市复苏的活力与经济压力并存的现状，并探索了独特的 City
   Island。
-area: market-analysis
-category: finance
+area: personal-growth
+category: culture
 project:
 - cultural-critique
 tags:

@@ -2,7 +2,7 @@
 title: 美国债务深度分析：多少才算太多？
 summary: null
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - us-analysis
 tags:

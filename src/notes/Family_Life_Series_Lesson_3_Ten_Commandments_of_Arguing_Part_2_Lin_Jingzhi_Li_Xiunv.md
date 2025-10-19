@@ -1,8 +1,8 @@
 ---
 title: 第三课：吵架十诫 (下)
 summary: null
-area: null
-category: null
+area: personal-growth
+category: lifestyle
 project: []
 tags:
 - 夫妻关系

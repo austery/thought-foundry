@@ -1,8 +1,8 @@
 ---
 title: 批判“赢学”与迎合施虐者：一种既缺德又愚蠢的生存策略
 summary: 本期节目批判了社会达尔文主义下的“赢学”思维，以及为求生存而讨好施虐者的行为，探讨其道德与实用性，并呼吁人们不要做蠢事。
-area: market-analysis
-category: finance
+area: personal-growth
+category: culture
 project:
 - cultural-critique
 - investment-strategy

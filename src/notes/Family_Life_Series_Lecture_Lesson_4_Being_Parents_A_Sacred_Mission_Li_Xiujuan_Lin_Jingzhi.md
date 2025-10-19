@@ -1,8 +1,8 @@
 ---
 title: 第四课：为人父母 - 一项神圣的使命
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 亲子关系

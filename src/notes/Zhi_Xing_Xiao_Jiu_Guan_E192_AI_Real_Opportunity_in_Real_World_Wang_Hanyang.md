@@ -1,8 +1,8 @@
 ---
 title: 'E192 AI: 真正的机会，不在AI，在现实世界'
 summary: null
-area: tech-insights
-category: technology
+area: personal-growth
+category: psychology
 project:
 - ai-impact-analysis
 - personal-growth-lab

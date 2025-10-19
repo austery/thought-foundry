@@ -1,8 +1,8 @@
 ---
 title: 伊丽莎白·沃伦参议员：从阿根廷救助到美国国内政策挑战
 summary: 马萨诸塞州参议员伊丽莎白·沃伦批评针对阿根廷的救助计划，指出其损害美国农民利益。她还讨论了政府关门对医疗保健的影响，并为波士顿市长吴弭辩护，反对特朗普总统的言论及部署国民警卫队的威胁。
-area: market-analysis
-category: geopolitics
+area: personal-growth
+category: lifestyle
 project:
 - us-analysis
 tags:

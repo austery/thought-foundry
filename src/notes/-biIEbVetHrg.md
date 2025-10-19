@@ -2,7 +2,7 @@
 title: 突发心肌梗塞：我的人生下半场思考与感悟
 summary: 作者分享突发性心肌梗塞的真实经历，探讨疾病带来的生死感悟、对人生下半场的思考，以及如何利用有限的时间和资源，实现更有意义的生活目标。
 area: personal-growth
-category: psychology
+category: lifestyle
 project:
 - personal-growth-lab
 tags:

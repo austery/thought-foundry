@@ -1,8 +1,8 @@
 ---
 title: 辩证法在中国是怎样被歪曲的？
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 哲学

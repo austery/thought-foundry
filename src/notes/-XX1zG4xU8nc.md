@@ -2,7 +2,7 @@
 title: 越南改革豪赌：关税让步美国，军演联手中国，苏林布局下个十年
 summary: 本文深度解析越南共产党总书记苏林上台后的系列改革举措。通过分析其强力反腐、政府机构重组、以及在对美贸易和对华安全合作中的微妙平衡，探讨其如何整合权力、稳定政局，并为越南经济发展奠定基础，为中国提供威权体制改革的现实参考。
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - geopolitics-watch
 tags:

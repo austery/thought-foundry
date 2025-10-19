@@ -1,8 +1,8 @@
 ---
 title: 柯文哲与格拉古：跨越两千年的政治素人悲歌
 summary: 本文对比台湾政治人物柯文哲与古罗马保民官格拉古的经历，探讨政治素人挑战既得利益集团时面临的困境与可能的结局，揭示台湾政治生态中的“司法迫害”现象。
-area: market-analysis
-category: geopolitics
+area: tech-insights
+category: technology
 project:
 - ai-impact-analysis
 - us-analysis

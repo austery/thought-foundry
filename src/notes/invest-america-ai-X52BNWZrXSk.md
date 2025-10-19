@@ -2,7 +2,7 @@
 title: Invest America法案签署与AI人才大战：迈克尔·戴尔与比尔·格利谈美国未来
 summary: 比尔·格利和迈克尔·戴尔深入探讨了《投资美国法案》的落地细节及其对社会契约的意义。两人还就AI人才的激烈竞争、AI驱动的生产力增长潜力，以及当前宏观经济和市场环境进行了分析，强调了自由竞争对美国未来繁荣的重要性。
 area: market-analysis
-category: geopolitics
+category: technology
 project:
 - ai-impact-analysis
 - investment-strategy

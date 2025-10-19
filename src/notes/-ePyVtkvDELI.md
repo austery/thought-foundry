@@ -1,8 +1,8 @@
 ---
 title: 信用卡积分旅行最大化攻略
 summary: 专家分享如何利用信用卡积分最大化旅行优惠，涵盖积分类型、避险策略及有效运用。
-area: personal-growth
-category: lifestyle
+area: market-analysis
+category: finance
 project:
 - investment-strategy
 tags:

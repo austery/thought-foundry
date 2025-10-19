@@ -2,7 +2,7 @@
 title: 与巴菲特共事十年：Tracy Britt Cool 的投资与管理哲学
 summary: Tracy Britt Cool 分享与巴菲特共事、担任CEO及创立Camber的经验，探讨长期投资、人才管理与企业转型。
 area: market-analysis
-category: finance
+category: business
 project:
 - entrepreneurship
 - investment-strategy

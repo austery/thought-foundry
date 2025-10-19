@@ -1,10 +1,9 @@
 ---
 title: 深聊GPT-5发布：过度营销的反噬与AI技术突破的困局
 summary: 探讨GPT-5发布的争议、技术方案与商业应用。分析其因过度营销和技术未达预期引发的失望，讨论Scaling Law瓶颈，并展望强化学习、多模态等未来AI突破方向。
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
+area: null
+category: null
+project: []
 tags:
 - scaling-law
 - 多模态

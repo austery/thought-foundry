@@ -1,8 +1,8 @@
 ---
 title: 第一课：夫妻婚后的成长
 summary: null
-area: null
-category: null
+area: personal-growth
+category: lifestyle
 project: []
 tags:
 - 夫妻关系

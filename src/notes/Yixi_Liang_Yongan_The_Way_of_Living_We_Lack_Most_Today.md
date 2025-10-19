@@ -1,8 +1,8 @@
 ---
 title: 【一席】梁永安：我们今天最缺的就是活法
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 人生哲学

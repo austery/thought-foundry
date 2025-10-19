@@ -1,8 +1,8 @@
 ---
 title: 王佳莹：在朋友圈里独立自信、充满活力，在小红书上热爱生活、岁月静好
 summary: null
-area: null
-category: null
+area: personal-growth
+category: psychology
 project: []
 tags:
 - 心理健康

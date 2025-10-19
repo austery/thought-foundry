@@ -2,7 +2,7 @@
 title: 鲍威尔离职演习、宏观数据与芯片股分析：ASML和美国银行财报解读
 summary: 本期节目探讨了特朗普威胁解雇鲍威尔的市场反应，分析了PPI数据和褐皮书揭示的通胀担忧。同时，深入解读了阿斯麦（ASML）和美国银行的最新财报，评估了ASML的投资价值，并从美国银行财报中洞察了借贷市场与消费者健康状况。
 area: market-analysis
-category: finance
+category: geopolitics
 project:
 - us-analysis
 tags:

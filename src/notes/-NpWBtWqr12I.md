@@ -1,8 +1,8 @@
 ---
 title: 从埃隆·马斯克传中汲取的三个人生智慧
 summary: 本文结合个人经历，从埃隆·马斯克（Elon Musk）的传记中提炼出三个人生课程：如何面对原生家庭、成为最懂行的外行人，以及做一个务实的理想主义者，旨在为读者提供启发和帮助。
-area: personal-growth
-category: psychology
+area: market-analysis
+category: business
 project:
 - entrepreneurship
 - personal-growth-lab

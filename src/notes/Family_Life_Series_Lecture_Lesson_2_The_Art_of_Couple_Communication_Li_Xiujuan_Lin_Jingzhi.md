@@ -1,8 +1,8 @@
 ---
 title: 第二课：夫妻沟通的艺术
 summary: 这是团契的学习的课程。
-area: null
-category: null
+area: personal-growth
+category: lifestyle
 project: []
 tags:
 - 夫妻关系

@@ -2,7 +2,7 @@
 title: 特斯拉Robotaxi奥斯汀试运营：技术、运营与投资前景深度解析
 summary: 本文深度解析特斯拉Robotaxi在奥斯汀的试运营体验，探讨其技术实力、运营策略与Waymo的竞争态势，以及对特斯拉未来增长曲线和投资者影响的独到见解。强调特斯拉纯视觉方案的信心和运营模式的突破。
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - ai-impact-analysis
 - investment-strategy

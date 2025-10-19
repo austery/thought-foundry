@@ -1,8 +1,8 @@
 ---
 title: 市场开盘：台积电财报强劲，AI与能源需求引发关注
 summary: 本期市场开盘节目深入探讨了台积电强劲的财报表现及其对半导体行业的影响，Salesforce的增长预期，加密货币市场动态，以及数据中心对能源需求的挑战。嘉宾Jose分享了对AMD、Navitas等半导体公司的独到见解，并讨论了AI基础设施投资策略。
-area: market-analysis
-category: finance
+area: tech-insights
+category: technology
 project:
 - ai-impact-analysis
 - investment-strategy

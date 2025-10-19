@@ -6,6 +6,7 @@ category: geopolitics
 project:
 - china-analysis
 - geopolitics-watch
+- us-analysis
 tags:
 - china
 - geopolitics

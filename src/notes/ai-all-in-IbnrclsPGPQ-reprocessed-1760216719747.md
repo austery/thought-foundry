@@ -2,7 +2,7 @@
 title: 中东和平、美国城市治安与AI芯片投资热潮：All-In播客深度探讨
 summary: 播客探讨了中东停火协议、美国国民警卫队部署及AI芯片市场的大额交易与投资趋势，涉及政治、经济和社会议题。
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - ai-impact-analysis
 - geopolitics-watch

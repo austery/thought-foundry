@@ -3,7 +3,7 @@ title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really 
   2) - Dialogue'
 summary: null
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - us-analysis
 tags:

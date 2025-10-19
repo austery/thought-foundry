@@ -1,7 +1,7 @@
 ---
 title: 安特卫普：被遗忘的欧洲资本中心兴衰史
 summary: 安特卫普曾是16世纪欧洲的贸易与金融中心，以其开放的政策和地理优势吸引全球商人。本文将探讨它如何通过金融创新崛起，经历文化艺术的繁荣，又如何因宗教冲突和政治压迫而突然衰落，最终被历史遗忘。
-area: market-analysis
+area: personal-growth
 category: culture
 project:
 - historical-insights

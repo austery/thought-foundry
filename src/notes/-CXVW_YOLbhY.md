@@ -1,8 +1,8 @@
 ---
 title: 个人奋斗与不公平优势：一本改变我人生的书
 summary: 作者分享《异类》一书如何影响其人生选择，强调外部条件和“不公平优势”的重要性。通过个人经历，他阐述了如何识别并利用自身特点，选择适合自己的“战场”，最终实现个人成功。
-area: tech-insights
-category: technology
+area: personal-growth
+category: career
 project:
 - ai-impact-analysis
 - personal-growth-lab

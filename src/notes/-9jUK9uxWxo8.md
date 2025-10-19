@@ -1,8 +1,8 @@
 ---
 title: 西藏为何未能独立？探析清末民初的政治博弈与大国角力
 summary: 深入剖析西藏自清朝至民国初期的政治地位演变，揭示其未能像外蒙古一样独立的原因，以及英俄“大博弈”时代下西藏的复杂处境。
-area: personal-growth
-category: culture
+area: tech-insights
+category: technology
 project:
 - ai-impact-analysis
 - historical-insights

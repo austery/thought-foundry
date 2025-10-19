@@ -1,8 +1,8 @@
 ---
 title: 当真相无比残酷，我们还应该相信吗？如何进行自我PUA？
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 哲学

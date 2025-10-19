@@ -1,8 +1,8 @@
 ---
 title: 我为何不再出书：亲历中国出版审查的“文学之冬”
 summary: 一位作家亲述因出版审查收紧，涉及西方内容的著作无法面世的经历，揭示了国内创作者在“文学之冬”下面临的困境。
-area: market-analysis
-category: geopolitics
+area: personal-growth
+category: culture
 project:
 - china-analysis
 - historical-insights

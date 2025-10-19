@@ -1,8 +1,8 @@
 ---
 title: 第五课：写给青少年的父母（上）
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 亲子关系

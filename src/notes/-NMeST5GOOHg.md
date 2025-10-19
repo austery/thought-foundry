@@ -1,8 +1,8 @@
 ---
 title: 美股再创纪录，科技股领涨，人工智能和航空数据中断成焦点
 summary: 美股周二收盘再创纪录，科技股领涨。英伟达巨额投资OpenAI，AMD股价飙升。同时，拉瓜迪亚机场因数据中断航班延误，FICO和华纳兄弟等公司股价下跌。
-area: market-analysis
-category: finance
+area: tech-insights
+category: technology
 project:
 - ai-impact-analysis
 - investment-strategy

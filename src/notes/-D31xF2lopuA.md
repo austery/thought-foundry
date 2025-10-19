@@ -2,7 +2,7 @@
 title: 美中贸易紧张局势重燃，鲍威尔暗示再次降息：市场与经济展望
 summary: 本期播客探讨了美中贸易关系再度紧张、关税对通胀的潜在影响，以及美联储的货币政策走向。专家们分析了企业财报、信贷质量担忧，并预计在劳动力市场疲软和流动性收缩的背景下，美联储可能再次降息。
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - china-analysis
 - investment-strategy

@@ -4,7 +4,6 @@ summary: 标普500指数创五月以来最大涨幅，芯片股因OpenAI合作�
 area: market-analysis
 category: finance
 project:
-- ai-impact-analysis
 - investment-strategy
 - market-cycles
 tags:

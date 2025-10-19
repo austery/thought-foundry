@@ -2,7 +2,7 @@
 title: 市场反弹：特朗普妥协信号、银行财报季展望及美中贸易动态解析
 summary: 本期节目分析了周末市场对特朗普言论的反应，探讨了美中贸易中的稀土出口底线。同时，对即将到来的银行财报季进行了前瞻性展望，结合技术面与估值，为投资者提供了短中期策略，并分析了标普500的EPS增长预期。
 area: market-analysis
-category: geopolitics
+category: finance
 project:
 - china-analysis
 - investment-strategy

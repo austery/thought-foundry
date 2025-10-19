@@ -1,8 +1,8 @@
 ---
 title: 2025下半年美股投资展望：全面解析政策、通胀与市场机遇
 summary: null
-area: market-analysis
-category: finance
+area: tech-insights
+category: technology
 project:
 - ai-impact-analysis
 - investment-strategy

@@ -1,8 +1,8 @@
 ---
 title: 王俊：数字时代的不幸生活
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 哲学反思

@@ -3,7 +3,7 @@ title: Nubank 创始人 David Vélez：从零到拉美金融科技巨头的创�
 summary: Nubank 联合创始人兼 CEO David Vélez 分享了他创立 Nubank 的历程，包括家庭背景、创业初衷、在巴西金融市场的挑战、公司文化、AI
   赋能金融服务以及他对领导力、社会责任和未来金融的看法。
 area: market-analysis
-category: finance
+category: business
 project:
 - entrepreneurship
 - investment-strategy

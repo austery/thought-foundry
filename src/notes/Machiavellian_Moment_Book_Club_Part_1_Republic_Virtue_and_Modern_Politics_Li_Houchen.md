@@ -1,8 +1,8 @@
 ---
 title: 马基雅维里时刻读书会（一）：共和、美德与现代政治
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 佛罗伦萨

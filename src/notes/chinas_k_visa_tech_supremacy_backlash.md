@@ -4,8 +4,8 @@ summary: A discussion on China's new K visa policy, exploring its goal of attrac
   foreign tech talent to overcome technological bottlenecks, the intense public and
   nationalist backlash it has triggered, and its potential effectiveness in the ongoing
   US-China tech war.
-area: tech-insights
-category: technology
+area: market-analysis
+category: geopolitics
 project:
 - us-analysis
 tags:

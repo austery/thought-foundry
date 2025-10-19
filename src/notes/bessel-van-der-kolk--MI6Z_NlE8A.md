@@ -1,8 +1,8 @@
 ---
 title: 创伤如何摧毁我们与他人建立联系的能力：Bessel van der Kolk 深度解读
 summary: 精神病学家 Bessel van der Kolk 探讨创伤对大脑和身体的影响，以及它如何阻碍人际连接。文章分析了创伤的根源、表现形式，并介绍了创新的治疗方法。
-area: null
-category: null
+area: personal-growth
+category: psychology
 project: []
 tags:
 - big-think

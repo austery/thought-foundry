@@ -1,8 +1,8 @@
 ---
 title: 马基雅维里时刻与现代政治转型
 summary: null
-area: null
-category: null
+area: personal-growth
+category: culture
 project: []
 tags:
 - 共和制

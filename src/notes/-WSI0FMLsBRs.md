@@ -5,6 +5,7 @@ area: personal-growth
 category: culture
 project:
 - cultural-critique
+- us-analysis
 tags:
 - culture
 - new-york-city

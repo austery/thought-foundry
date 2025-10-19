@@ -5,6 +5,7 @@ area: market-analysis
 category: geopolitics
 project:
 - china-analysis
+- us-analysis
 tags:
 - economic-contradictions
 - non-farm-payrolls
