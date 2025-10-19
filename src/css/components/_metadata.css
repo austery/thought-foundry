@@ -39,7 +39,7 @@
 /* 博客页面的摘要和洞察样式 */
 .summary-text, .insight-text, .speaker-text {
     display: block;
-    margin-top: 0.5em;
+    margin-top: 0.4em;
     padding: 0.5em;
     border-radius: calc(var(--pico-border-radius) / 2);
     line-height: 1.4;

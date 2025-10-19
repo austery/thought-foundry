@@ -65,13 +65,11 @@ permalink: "/"
 
           {# 摘要部分 - 显示内容摘要 #}
           {% if item.data.summary %}
-            <br>
             <small class="summary-text">📄 {{ item.data.summary }}</small>
           {% endif %}
 
           {# 洞察部分 - 显示为什么观看这个视频或听这个播客 #}
           {% if item.data.insight %}
-            <br>
             <small class="insight-text">💡 {{ item.data.insight }}</small>
           {% endif %}
         </li>

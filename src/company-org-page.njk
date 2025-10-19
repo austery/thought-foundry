@@ -67,13 +67,11 @@ permalink: "/companies-orgs/{{ companyInfo.uniqueKey | slug }}/"
 
       {# 摘要部分 #}
       {% if item.data.summary %}
-        <br>
         <small class="summary-text">📄 {{ item.data.summary }}</small>
       {% endif %}
 
       {# 洞察部分 #}
       {% if item.data.insight %}
-        <br>
         <small class="insight-text">💡 {{ item.data.insight }}</small>
       {% endif %}
     </li>
