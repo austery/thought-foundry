@@ -1,25 +1,30 @@
 ---
-author: 郭里有范
-date: '2025-08-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XX1zG4xU8nc
-speaker: 郭里有范
-tags:
-  - t-literature-note
-  - vietnam-politics
-  - economic-reform
-  - us-china-relations
-  - southeast-asia
-  - political-power
 title: 苏林改革：越南的豪赌与区域强国之路
 summary: 本文深入探讨越南新任总书记苏林的崛起及其激进改革。从内部权力重组、行政精简，到对外与美达成关税协议、与中加强军事合作，分析苏林如何在中美之间寻求平衡，以巩固执政合法性并推动越南经济发展，同时探讨其改革对区域政治经济的深远影响。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- us-analysis
+tags:
+- economic-reform
+- political-power
+- southeast-asia
+- us-china-relations
+- vietnam-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-02'
+author: 郭里有范
+speaker: 郭里有范
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XX1zG4xU8nc
 status: evergreen
 ---
 ### 苏林：两年内登上权力巅峰的越南新强人

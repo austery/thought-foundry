@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2021-10-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CJOe0kiOFfw
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - tesla-investment
-  - tony-seba
-  - technological-disruption
-  - electric-vehicles
-  - energy-transition
 title: 深入解析Tony Seba的预测：特斯拉万亿市值与未来能源交通变革
 summary: 本文基于Tony Seba的技术革新框架，探讨了特斯拉市值突破万亿背后的深层逻辑。从电池成本下降到自动驾驶带来的商业模式创新，以及科技革命的S曲线效应，揭示了能源与交通领域正在发生的颠覆性变革，并强调了理解这些趋势对长期投资的重要性。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- electric-vehicles
+- energy-transition
+- technological-disruption
+- tesla-investment
+- tony-seba
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2021-10-31'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=CJOe0kiOFfw
 status: evergreen
 ---
 ### 引言：特斯拉万亿市值背后的信念来源

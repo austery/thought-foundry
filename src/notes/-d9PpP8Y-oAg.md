@@ -1,26 +1,30 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-08-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=d9PpP8Y-oAg
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - welfare-state
-  - european-history
-  - marxism
-  - social-solidarity
-  - book-review
 title: 《福利大博弈》：欧洲福利制度源于阶级妥协，而非马克思主义
 summary: 本文基于彼得·鲍德温的《福利大博弈》，探讨欧洲福利制度的真正起源，指出其并非马克思主义的产物，而是各社会阶层利益博弈与团结的结果。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- historical-insights
+tags:
+- book-review
+- european-history
+- marxism
+- social-solidarity
+- stella-an
+- welfare-state
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-09'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=d9PpP8Y-oAg
 status: evergreen
 ---
 ### 对“福利国家源于马克思主义”的错误认知

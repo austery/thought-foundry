@@ -1,25 +1,32 @@
 ---
-author: Lei
-date: 2025-07-28
-guest: 小西瓜, Ivan, Alex, Zalira, Dora, Serena, Asuka Ci, Tracy, 嘉欣
-layout: post.njk
-channel: ''
-source: ''
-speaker: Ray
-tags:
-- 视频文稿
-- Hidden Potential
-- 不舒适区
-- 完美主义
-- 个人成长
-- 读书会
 title: 《Hidden Potential》读书会：拥抱不适，打破完美主义，释放内在潜能
-insight: 本次读书会围绕《Hidden Potential》展开，探讨了如何通过拥抱不适、打破完美主义来释放个人潜能。分享者结合自身经历，讨论了学习、工作与个人成长中的挑战与感悟，强调了社群支持和持续行动的重要性。
-file_name: hidden_potential_book_club_embrace_discomfort.md
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 不舒适区
+- 个人成长
+- 完美主义
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- hidden potential
+- 读书会
+date: 2025-07-28
+author: Lei
+speaker: Ray
+channel: ''
 draft: true
+file_name: hidden_potential_book_club_embrace_discomfort.md
+guest: 小西瓜, Ivan, Alex, Zalira, Dora, Serena, Asuka Ci, Tracy, 嘉欣
+insight: 本次读书会围绕《Hidden Potential》展开，探讨了如何通过拥抱不适、打破完美主义来释放个人潜能。分享者结合自身经历，讨论了学习、工作与个人成长中的挑战与感悟，强调了社群支持和持续行动的重要性。
+layout: post.njk
 series: Hidden Potential
+source: ''
 ---
-
 ## 开场与下月书目介绍
 
 Ray: 不好意思，我刚才好像总是自动静音。小西瓜你是不是放假了？

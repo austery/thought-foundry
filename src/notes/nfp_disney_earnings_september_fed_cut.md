@@ -1,22 +1,29 @@
 ---
-author: Lei
-date: 2025-08-07
-guest: 
-layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=5WsaAs_Xfho
-speaker: 投资TALK君
+title: 深度剖析非农数据与迪士尼财报：美联储九月降息在即？
+summary: 市场分析员肖涛深入解读了最新的非农数据及其对美联储降息预期的影响，认为9月降息的可能性正在增加。通过分析麦当劳、Shopify及迪士尼的财报，他评估了当前的宏观经济健康状况，并特别看好迪士尼在整合流媒体业务后巨大的增长潜力。
+area: market-analysis
+category: finance
+project: []
 tags:
+- 宏观经济
 - 视频文稿
 - 迪士尼财报
 - 非农数据
-- 宏观经济
-title: 深度剖析非农数据与迪士尼财报：美联储九月降息在即？
-summary: 市场分析员肖涛深入解读了最新的非农数据及其对美联储降息预期的影响，认为9月降息的可能性正在增加。通过分析麦当劳、Shopify及迪士尼的财报，他评估了当前的宏观经济健康状况，并特别看好迪士尼在整合流媒体业务后巨大的增长潜力。
-insight: 
-file_name: nfp_disney_earnings_september_fed_cut.md
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-07
+author: Lei
+speaker: 投资TALK君
+channel: null
 draft: true
-series: 
+file_name: nfp_disney_earnings_september_fed_cut.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=5WsaAs_Xfho
 ---
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且这一周又要全勤的专业美股频道，我是市场分析员肖涛。今天又有非常多的东西可以和大家分享。首先聊一下盘后发生的，川普对于芯片这边关税的一条新闻。然后我们聊一下上一周的大非农数据，数据出来之后市场的反馈并不是非常的好。正好有观众让我仔细的对于那一次**大非农数据**去进行一个深究。那我们就今天借由彭博and one这个团队对于上一次**大非农数据**的一个深究和剖析，去看一下他们有没有改变对于接下去**美联储**降息的这个看法。
 

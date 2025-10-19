@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=aD09xI1ycwI
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - government-shutdown
-  - federal-employees
-  - obamacare
-  - drug-interdiction
 title: 参议员兰福德：共和党在避免政府关门方面远未达到60票门槛
 summary: 参议员詹姆斯·兰福德讨论了政府关门、联邦雇员工资以及奥巴马医改补贴的未来。他强调了结束政府关门的必要性，并批评了将联邦雇员作为政府关门代价的做法。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- drug-interdiction
+- federal-employees
+- government-shutdown
+- obamacare
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=aD09xI1ycwI
 status: evergreen
 ---
 ### 政府关门与联邦雇员的待遇

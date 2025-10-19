@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CDemwFYWAGc
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - gaza-peace
-  - ai-chips
-  - supply-chain
-  - corporate-earnings
-  - tariffs
 title: 全球商业洞察：加沙和平、AI芯片与企业财报分析
 summary: 本期播客深入探讨了加沙和平协议的复杂性与未来挑战，OpenAI在AI芯片领域的激进布局及其对成本的影响，以及Fastenal和Levi Strauss如何应对关税、供应链调整和不断变化的消费者需求，提供了对当前全球经济和商业趋势的全面洞察。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-chips
+- bloomberg-podcasts
+- corporate-earnings
+- gaza-peace
+- supply-chain
+- tariffs
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=CDemwFYWAGc
 status: evergreen
 ---
 ### 播客开场与嘉宾介绍

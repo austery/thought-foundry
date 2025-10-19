@@ -1,22 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 美元将永远存在，但其地位将有所削弱
+summary: null
+area: market-analysis
+category: finance
+project: []
+tags:
+- 全球经济
+- 美元
+- 视频文稿
+- 货币霸权
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-10'
+author: Lei
+speaker: Kenneth Rogoff
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Kenneth Rogoff
-summary: null
-tags:
-- 视频文稿
-- 美元
-- 全球经济
-- 货币霸权
-title: 美元将永远存在，但其地位将有所削弱
 ---
-
 **Kenneth Rogoff**
 
 Distinguished Professor of Economics at Harvard University, former Chief

@@ -1,29 +1,37 @@
 ---
-author: Lei
-date: 2025-09-25
-guest: Aaron Levie
-layout: post.njk
-source: 
-speaker: Interviewer
+title: Aaron Levie on How AI is Reshaping Startup Productivity and Disrupting Incumbents
+summary: A deep dive into how AI is creating superhuman productivity gains in small,
+  expert teams, why it represents a major platform shift that favors startups, and
+  how software is finally poised to automate and consume the world of professional
+  services.
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- vibe-coding
 tags:
-- t-literature-note
 - artificial-intelligence
-- startup-productivity
+- future-of-work
 - platform-shift
 - software-as-a-service
-- future-of-work
-title: Aaron Levie on How AI is Reshaping Startup Productivity and Disrupting Incumbents
-summary: A deep dive into how AI is creating superhuman productivity gains in small, expert teams, why it represents a major platform shift that favors startups, and how software is finally poised to automate and consume the world of professional services.
-insight:
-file_name: aaron_levie_ai_startup_productivity_platform_shift.md
+- startup-productivity
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-25
+author: Lei
+speaker: Interviewer
 draft: true
-series:
-category:
-area:
-project:
+file_name: aaron_levie_ai_startup_productivity_platform_shift.md
+guest: Aaron Levie
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ### Debating Immigration Policy for Tech Talent
 
 Interviewer: I want to get into the immigration news. What were your reactions to what you think of the policy?

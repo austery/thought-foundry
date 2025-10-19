@@ -1,25 +1,28 @@
 ---
-author: 三個水槍手
-date: '2025-10-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bjF-ta8wZqA
-speaker: 三個水槍手
-tags:
-  - t-literature-note
-  - k-visa
-  - talent-acquisition
-  - chinese-public-opinion
-  - tech-self-reliance
-  - xenophobia
 title: K签证风波：中国吸引人才的战略困境与民意博弈
 summary: 中国K签证政策遭遇民众强烈反对，凸显科技自立与普遍排外情绪的矛盾。文章探讨了此政策与李强经济战略、人才争夺战的关联，以及中国社会在经济下行背景下的复杂心态。
-insight: ''
+area: tech-insights
+category: technology
+project: []
+tags:
+- chinese-public-opinion
+- k-visa
+- talent-acquisition
+- tech-self-reliance
+- xenophobia
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-03'
+author: 三個水槍手
+speaker: 三個水槍手
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=bjF-ta8wZqA
 status: evergreen
 ---
 ### 引言：K签证引发的网络风波

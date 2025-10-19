@@ -1,25 +1,31 @@
 ---
-author: 最佳拍档
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=rADZ8xw3SA0
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-news
-  - google-ai
-  - ai-models
-  - edge-ai
-  - autonomous-driving
 title: AI前沿速递：谷歌Veo 3.1、Gemma单细胞分析、Coral NPU与Claude Haiku 4.5等十大动态解析
-summary: 本期AI动态播报涵盖谷歌Veo 3.1视频生成升级、基于Gemma的单细胞分析模型、Coral NPU边缘AI平台、AI音乐疗法、Claude Haiku 4.5价格战、Dfinity Caffeine平台、AI缩放定律挑战、自动驾驶监管新规及Waymo伦敦布局等十大前沿进展。
-insight: ''
+summary: 本期AI动态播报涵盖谷歌Veo 3.1视频生成升级、基于Gemma的单细胞分析模型、Coral NPU边缘AI平台、AI音乐疗法、Claude Haiku
+  4.5价格战、Dfinity Caffeine平台、AI缩放定律挑战、自动驾驶监管新规及Waymo伦敦布局等十大前沿进展。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- ai-models
+- ai-news
+- autonomous-driving
+- edge-ai
+- google-ai
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=rADZ8xw3SA0
 status: evergreen
 ---
 ### 谷歌Veo 3.1：视频生成模型的深度迭代

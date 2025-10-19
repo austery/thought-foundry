@@ -1,26 +1,30 @@
 ---
-author: EO
-date: '2025-08-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=8Nd_39d5q9A
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - ai-social-network
-  - startup-funding
-  - yale-university
-  - entrepreneurship
-  - innovation
 title: 耶鲁学子Nathaniel Johnson：AI社交应用Series如何14天融资310万美元
 summary: 耶鲁大学学生Nathaniel Johnson分享了其AI社交应用Series的创业历程，包括如何通过AI朋友进行人际引荐，以及在14天内成功融资310万美元的经验。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+tags:
+- ai-social-network
+- entrepreneurship
+- innovation
+- startup-funding
+- yale-university
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-25'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=8Nd_39d5q9A
 status: evergreen
 ---
 ### 创始人自述与Series简介

@@ -1,26 +1,30 @@
 ---
-author: Norges Bank Investment Management
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=wF5nPeovgAE
-speaker: Norges Bank Investment Management
-tags:
-  - t-literature-note
-  - norges-bank-investment-management
-  - t-literature-note
-  - golden-age
-  - civilization
-  - globalization
-  - innovation
 title: 黄金时代：历史的兴衰与现代的启示
 summary: 探讨历史上的黄金时代，分析其兴盛与衰落的原因，并从中汲取对当前全球化、创新和开放心态的深刻见解。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- civilization
+- globalization
+- golden-age
+- innovation
+- norges-bank-investment-management
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Norges Bank Investment Management
+speaker: Norges Bank Investment Management
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=wF5nPeovgAE
 status: evergreen
 ---
 ### 什么是黄金时代？

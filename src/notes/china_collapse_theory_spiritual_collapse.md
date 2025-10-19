@@ -1,25 +1,32 @@
 ---
-author: Lei
-date: 2025-08-07
-guest: 
-layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=FiJJYqOhqBk
-speaker: 徒步的骑手
+title: 中国崩溃论是一种精神鸦片：真正的崩溃早已发生
+summary: 本文深入剖析了“中国崩溃论”现象，将其比作一种精神鸦片。作者认为，纠结于物理实体的崩溃是伪命题，真正的崩溃——文化与国民精神的崩溃——早已发生。文章探讨了后崩溃时代下，个体应如何重建内在的意义世界。
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
 tags:
-  - 视频文稿
-  - 中国崩溃论
-  - 精神世界
-  - 意义世界
-  - 国民精神
-title: "中国崩溃论是一种精神鸦片：真正的崩溃早已发生"
-summary: "本文深入剖析了“中国崩溃论”现象，将其比作一种精神鸦片。作者认为，纠结于物理实体的崩溃是伪命题，真正的崩溃——文化与国民精神的崩溃——早已发生。文章探讨了后崩溃时代下，个体应如何重建内在的意义世界。"
-insight: 非常喜欢他的论述，刘先生的言语，让我放下对于各种政治预测的纠结，关注内心和身边的人和社团。
-file_name: "china_collapse_theory_spiritual_collapse.md"
+- 中国崩溃论
+- 国民精神
+- 意义世界
+- 精神世界
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-07
+author: Lei
+speaker: 徒步的骑手
+channel: null
 draft: true
-series: 
+file_name: china_collapse_theory_spiritual_collapse.md
+guest: null
+insight: 非常喜欢他的论述，刘先生的言语，让我放下对于各种政治预测的纠结，关注内心和身边的人和社团。
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=FiJJYqOhqBk
 ---
-
 ## “崩溃综合症”：我们时代的精神流行病
 
 各位好，在讲**中国崩溃论**之前，先说几句我们这个时代一种非常流行的精神疾病。它不分国界，不分左右，感染力极强，我把它叫做**崩溃综合症**。

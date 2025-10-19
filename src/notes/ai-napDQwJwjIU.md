@@ -1,25 +1,31 @@
 ---
-author: 北美王路飞
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=napDQwJwjIU
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - michael-jordan
-  - agi-critique
-  - collective-intelligence
-  - ai-ethics
-  - market-design
 title: 迈克尔·乔丹教授：AI革命中“超级智能”的误区与真解
 summary: 加州大学伯克利分校教授迈克尔·乔丹批判硅谷对AGI的盲目追求，认为AI是集体智慧的镜子，而非独立神灵，并强调构建超级市场而非超级大脑，警惕数据垄断的社会风险。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- agi-critique
+- ai-ethics
+- collective-intelligence
+- market-design
+- michael-jordan
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=napDQwJwjIU
 status: evergreen
 ---
 ### AI狂潮下的“超级智能”神话

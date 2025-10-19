@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Y6x_Hw9Oaio
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - peter-thiel
-  - rene-girard
-  - mimetic-desire
-  - silicon-valley
-  - investment-strategy
 title: Peter Thiel与勒内·吉拉德：模仿哲学如何重塑硅谷思维与未来
 summary: 深入解析**Peter Thiel**（PayPal联合创始人，著名投资人）如何将法国哲学家**勒内·吉拉德**（René Girard）的**模仿欲望理论**融入其投资策略、管理哲学及对人类未来的洞察，揭示硅谷创新背后的深层思维。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- investment-strategy
+- mimetic-desire
+- peter-thiel
+- rene-girard
+- silicon-valley
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Y6x_Hw9Oaio
 status: evergreen
 ---
 ### 引言：Peter Thiel的哲学根基

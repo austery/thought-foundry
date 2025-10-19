@@ -1,25 +1,29 @@
 ---
-author: KevinFeng 冯凯文
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=PPDXifPRt2g
-speaker: KevinFeng 冯凯文
-tags:
-  - t-literature-note
-  - kevinfeng
-  - dopamine
-  - productivity
-  - time-management
-  - self-discipline
 title: 为什么明知该学却做不到？多巴胺真相与应对策略
 summary: 本期探讨为何人们明知该学习却难以行动。揭示多巴胺系统如何被高刺激活动挟持，并提供三项核心策略：调整任务顺序、改变休息方式、以及早睡早起，以更好地管理多巴胺，提升专注力和效率。
-insight: ''
+area: personal-growth
+category: productivity
+project:
+- personal-growth-lab
+tags:
+- dopamine
+- productivity
+- self-discipline
+- time-management
+people:
+- kevinfeng
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: KevinFeng 冯凯文
+speaker: KevinFeng 冯凯文
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=PPDXifPRt2g
 status: evergreen
 ---
 ### 序言：多巴胺困境

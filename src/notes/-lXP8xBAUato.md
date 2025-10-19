@@ -1,26 +1,29 @@
 ---
-author: 超級歪 SuperY
-date: '2025-07-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=lXP8xBAUato
-speaker: 超級歪 SuperY
-tags:
-  - t-literature-note
-  - supery
-  - squid-game
-  - capitalism
-  - debt-crisis
-  - gamification-of-labor
-  - structural-domination
 title: 《鱿鱼游戏》哲学解析：资本主义的陷阱与反抗
 summary: 本文深度解析《鱿鱼游戏》，探讨资本主义下的债务、结构性支配、劳动异化、游戏化管理及景观社会，并思考如何在病态游戏中寻找反抗与解放的第三条道路。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- capitalism
+- debt-crisis
+- gamification-of-labor
+- squid-game
+- structural-domination
+- supery
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-19'
+author: 超級歪 SuperY
+speaker: 超級歪 SuperY
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=lXP8xBAUato
 status: evergreen
 ---
 ### 《鱿鱼游戏》：债务危机下的生存困境

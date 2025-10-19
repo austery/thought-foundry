@@ -1,25 +1,29 @@
 ---
-author: 东京人文论坛
-date: '2025-09-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=mGXs_1SNUyw
-speaker: 东京人文论坛
-tags:
-  - t-literature-note
-  - qiu-jin
-  - chinese-revolution
-  - tokyo-studies
-  - personality-types
-  - feminism-history
 title: 在东京重塑中国：秋瑾的牺牲型人格与时代洪流
 summary: 傅国涌教授深入探讨秋瑾的生平及其在东京的革命活动，剖析其牺牲型人格，并将其与鲁迅的保全型人格进行对比，揭示近代中国精英在救国道路上的不同选择与命运。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- historical-insights
+tags:
+- chinese-revolution
+- feminism-history
+- personality-types
+- qiu-jin
+- tokyo-studies
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-27'
+author: 东京人文论坛
+speaker: 东京人文论坛
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=mGXs_1SNUyw
 status: evergreen
 ---
 ### 引言：秋瑾与个体命运的预言

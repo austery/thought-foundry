@@ -1,6 +1,24 @@
 ---
-author: Lei
+title: AI研讨会：探索企业级应用与未来趋势
+summary: 这是我们公司内部的分享会，大家提出很多很好的mvp,我最感兴趣的是-AI驱动的元数据生成器，我们小组马上就可以用。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 企业应用
+- 商业策略
+- 技术创新
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-21'
+author: Lei
+speaker: Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq
+exclude: true
 guest: Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, Sonal
   Misra, Caleb Waldemar, Kristy Liu, Mary Henschel, Julia Groza, Raka Dhar, Jenna
   Paglia, Daisy Dool, Erik Stabile, Jordan Bowman, Syed Hasan, Ruben Vieira, Pawandeep
@@ -9,21 +27,10 @@ guest: Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, 
   Plunkett
 insight: null
 layout: post.njk
+program: null
 series: AI企业应用研讨会
 source: null
-speaker: Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq
-summary: 这是我们公司内部的分享会，大家提出很多很好的mvp,我最感兴趣的是-AI驱动的元数据生成器，我们小组马上就可以用。
-tags:
-- 视频文稿
-- 企业应用
-- 人工智能
-- 技术创新
-- 商业策略
-title: AI研讨会：探索企业级应用与未来趋势
-program: null
-exclude: true
 ---
-
 ## 开场讨论：AI时代的学习、机遇与紧迫感
 
 **Dave Wessinger:** And my, kind of, two major investors in Dragonair and Hillman Friedman.

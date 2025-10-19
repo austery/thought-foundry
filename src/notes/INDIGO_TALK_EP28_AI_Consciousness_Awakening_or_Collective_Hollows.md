@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: AI 的下一步是“意识觉醒”还是“集体游魂”？ - INDIGO TALK EP28
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- agent
+- 人工智能
+- 意识
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: INDIGO
+channel: null
 guest: Mohan
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: INDIGO
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 意识
-- Agent
-title: AI 的下一步是“意识觉醒”还是“集体游魂”？ - INDIGO TALK EP28
 ---
-
 INDIGO TALK - EP28
 
 **主持人 (Indigo)：** 欢迎回到INDIGO TALK。这一期我邀请了我的NFT入门导师

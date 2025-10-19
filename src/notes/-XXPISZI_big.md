@@ -1,26 +1,29 @@
 ---
-author: All-In Podcast
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XXPISZI_big
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - bryan-johnson
-  - longevity
-  - sleep-optimization
-  - health-hacks
-  - biological-age
 title: 布莱恩·约翰逊的终极健康秘诀：改善睡眠，延长寿命
 summary: 布莱恩·约翰逊分享了他关于健康和长寿的见解，揭示了优化睡前静息心率是改善睡眠、提升健康和延长寿命的关键。他提供了简单实用的方法，并强调睡眠对意志力和心理健康的重要性。
-insight: ''
+area: personal-growth
+category: lifestyle
+project: []
+tags:
+- all-in-podcast
+- biological-age
+- bryan-johnson
+- health-hacks
+- longevity
+- sleep-optimization
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XXPISZI_big
 status: evergreen
 ---
 ### 序言：生死的哲学辩论

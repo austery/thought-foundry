@@ -1,25 +1,31 @@
 ---
-author: 三個水槍手
-date: '2025-10-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FMDfxOFgEys
-speaker: 三個水槍手
-tags:
-  - t-literature-note
-  - luo-yonghao
-  - freedom-of-speech
-  - consumer-rights
-  - food-safety
-  - china-business-culture
 title: 罗永浩事件评论解析：言论自由、消费责任与中国特色论
 summary: 本期节目回应观众对罗永浩事件的评论，深入探讨言论自由的真实含义、消费者对价格的抱怨是否合理、预制菜的国情差异以及食品安全中的“中国特殊论”，并反思国人对商业和民营企业家的认知。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- cultural-critique
+- entrepreneurship
+tags:
+- china-business-culture
+- consumer-rights
+- food-safety
+- freedom-of-speech
+- luo-yonghao
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-01'
+author: 三個水槍手
+speaker: 三個水槍手
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=FMDfxOFgEys
 status: evergreen
 ---
 ### 开场与前期更正

@@ -1,26 +1,31 @@
 ---
-author: Adam's Axiom
-date: '2025-05-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XKTP-r7svSo
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - economic-theory
-  - macroeconomics
-  - market-mechanisms
-  - government-intervention
-  - behavioral-insights
 title: 塑造经济理论的15个关键概念
 summary: 本文深入探讨了凯恩斯主义、古典经济学、货币主义等15个主要经济学派的核心概念。这些理论，涵盖总需求、看不见的手、博弈论、行为偏差及货币主权等，挑战传统假设，深刻塑造了我们对经济运行、政策制定及社会公平的理解。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- adam-s-axiom
+- behavioral-insights
+- economic-theory
+- government-intervention
+- macroeconomics
+- market-mechanisms
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-06'
+author: Adam's Axiom
+speaker: Adam's Axiom
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XKTP-r7svSo
 status: evergreen
 ---
 ### 凯恩斯经济学

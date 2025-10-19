@@ -1,26 +1,29 @@
 ---
-author: 课代表立正
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9kh1YvzZYks
-speaker: 课代表立正
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - a-b-testing
-  - experimentation
-  - statistics
-  - data-science
 title: A/B 实验：揭秘不为人知的核心价值与统计误区
 summary: 本文深入探讨A/B实验的真正价值，强调其从“惊喜”中发现机会，并纠正常见的统计误解。文章详细介绍了实验体系的设计、核心统计知识，以及CUPED、贝叶斯方法和序贯检验等高级测试，旨在帮助读者构建更严谨、高效的实验流程。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- ''
+- a-b-testing
+- data-science
+- experimentation
+- statistics
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 课代表立正
+speaker: 课代表立正
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9kh1YvzZYks
 status: evergreen
 ---
 ### A/B 实验的真正价值：源于“惊喜”而非“证实”

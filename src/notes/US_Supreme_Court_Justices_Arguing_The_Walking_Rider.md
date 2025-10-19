@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: 徒步的骑手播客
+title: 美国最高法院大法官吵架的事
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- 司法制度
+- 法律与公平
+- 美国最高法院
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-20'
+author: Lei
+speaker: 徒步的骑手
+channel: 徒步的骑手播客
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=DLAUDk0TFWA
-speaker: 徒步的骑手
-summary: null
-tags:
-- 视频文稿
-- 美国最高法院
-- 司法制度
-- 法律与公平
-title: 美国最高法院大法官吵架的事
 ---
-
 ## 一、沃伦传记与大法官的争吵
 
 各位好，今天讲讲美国最高法院大法官吵架的事。首席大法官沃伦传记载了一起美国最高法院大法官吵架事件。就是这本书，《Chief Justice: A Biography of Earl Warren》（《首席大法官：厄尔·沃伦传》）。

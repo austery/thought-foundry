@@ -1,26 +1,29 @@
 ---
-author: Big Think
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bFMl6tGBIiU
-speaker: Big Think
-tags:
-  - t-literature-note
-  - big-think
-  - classical-mechanics
-  - determinism
-  - free-will
-  - laplaces-demon
-  - philosophy-of-physics
 title: 发条宇宙与自由意志：经典力学下的决定论之辩
 summary: 肖恩·卡罗尔探讨了经典力学如何引出宇宙决定论，即“发条宇宙”的理念。他解释了拉普拉斯妖及人类自由意志与物理定律之间的兼容性。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- big-think
+- classical-mechanics
+- determinism
+- free-will
+- laplaces-demon
+- philosophy-of-physics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: Big Think
+speaker: Big Think
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=bFMl6tGBIiU
 status: evergreen
 ---
 ### 经典力学：决定论的宇宙蓝图

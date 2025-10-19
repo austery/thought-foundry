@@ -1,26 +1,31 @@
 ---
-author: 大问题Dialectic
-date: '2025-09-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=28fbOkAF-s4
-speaker: 大问题Dialectic
-tags:
-  - t-literature-note
-  - dialectic
-  - medieval-europe
-  - christianity
-  - history-of-science
-  - renaissance
-  - university-system
 title: 为中世纪“翻案”：教会如何孕育现代文明与科学
 summary: 本文旨在纠正对欧洲中世纪的刻板印象，揭示基督教教会如何在混乱中保存文明火种，孕育现代大学制度和科学，并澄清文艺复兴与宗教的关系。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- ai-impact-analysis
+- historical-insights
+tags:
+- christianity
+- dialectic
+- history-of-science
+- medieval-europe
+- renaissance
+- university-system
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-11'
+author: 大问题Dialectic
+speaker: 大问题Dialectic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=28fbOkAF-s4
 status: evergreen
 ---
 ### 破除对“黑暗中世纪”的刻板印象

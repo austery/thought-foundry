@@ -1,22 +1,28 @@
 ---
-author: Lei
-channel: 
-date: '2025-07-19'
-guest: 
-insight: 
-layout: post.njk
-series: 
-source: 
-speaker: Google Gemini
-summary: 听了一席的一篇关于老年和健康的视频，用gemini deep research更新一下这些信息,看看是否还继续成立。
-tags:
-- Deep Research
-- 健康
-- 长寿
-- 衰老
 title: 延缓衰老：从生物学理论到临床前沿的六年进展与未来展望
+summary: 听了一席的一篇关于老年和健康的视频，用gemini deep research更新一下这些信息,看看是否还继续成立。
+area: null
+category: null
+project: []
+tags:
+- deep-research
+- 健康
+- 衰老
+- 长寿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-19'
+author: Lei
+speaker: Google Gemini
+channel: null
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 ---
-
 ## 第一部分：重塑衰老生物学的基础认知
 
 ### 1.1 衰老的本质：从“必然衰败”到“可塑过程”

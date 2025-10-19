@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-05-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uWzetJU8Ly0
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - currency-markets
-  - fed-monetary-policy
-  - trade-tariffs
-  - earnings-analysis
-  - investment-outlook
 title: 新广场协议、货币战与美联储会议前瞻：市场动态与财报深度解析
 summary: 本期节目深入探讨亚洲货币市场的相对强势与潜在央行干预，更新关税政策，并展望美联储会议可能的中性偏鸽态度。同时，详细分析了Palantir和Block两家公司的最新财报表现。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- currency-markets
+- earnings-analysis
+- fed-monetary-policy
+- investment-outlook
+- trade-tariffs
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-05-06'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uWzetJU8Ly0
 status: evergreen
 ---
 ### 市场概览与本期内容预告

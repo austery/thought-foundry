@@ -1,21 +1,27 @@
 ---
-author: Lei
-channel: null
+title: AI 协作深度解析：从“搬运工”到“协作者”(完整版)
+summary: null
+area: null
+category: null
+project: []
+tags:
+- prompt
+- 工作流
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-10'
+author: Lei
+speaker: 李厚辰
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=-a_umjxdcIg&t
-speaker: 李厚辰
-summary: null
-tags:
-- 视频文稿
-- Prompt
-- 工作流
-title: AI 协作深度解析：从“搬运工”到“协作者”(完整版)
 ---
-
 ## 开场：AI 付费用户的现状与讨论焦点
 
 我想先问问大家，在座有多少人平时已经为 AI 付费了？请举一下手。

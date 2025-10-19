@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=N1OVP1nmOgg
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - earnings-season
-  - us-china-relations
-  - stock-market-analysis
-  - economic-outlook
-  - financial-tools
 title: 华尔街财报季：Progressive、阿斯麦、美国银行表现解析与中美关系展望
 summary: 本期深入分析了财报季中Progressive、阿斯麦和美国银行的业绩表现，探讨了财险公司盈利监管、AI芯片需求及信贷扩张等经济信号。同时，详细解读了美国国家经济委员会主任贝森特对中美关系的强硬表态与降温期待，并分析了中美贸易博弈中的筹码与代价。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- earnings-season
+- economic-outlook
+- financial-tools
+- stock-market-analysis
+- us-china-relations
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-10-16'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=N1OVP1nmOgg
 status: evergreen
 ---
 ### 市场概览与财报季背景

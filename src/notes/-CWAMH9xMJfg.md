@@ -1,26 +1,29 @@
 ---
-author: a16z
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CWAMH9xMJfg
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - databricks
-  - leadership-strategy
-  - business-development
-  - talent-management
-  - startup-growth
 title: 奔·霍洛维茨与阿里·戈德西：如何运营千亿市值企业
 summary: 本访谈探讨了Databricks的成长历程，包括其早期挑战、战略转型、领导力原则、与微软的里程碑式合作、独特的收购策略以及如何在高强度文化下留住人才。
-insight: ''
+area: market-analysis
+category: business
+project:
+- entrepreneurship
+tags:
+- business-development
+- leadership-strategy
+- startup-growth
+- talent-management
+people: []
+companies_orgs:
+- databricks
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=CWAMH9xMJfg
 status: evergreen
 ---
 ### 坚守愿景：出售与坚持的抉择

@@ -1,26 +1,29 @@
 ---
-author: TED
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Ew59SKy181Y
-speaker: TED
-tags:
-  - t-literature-note
-  - ted
-  - world-war-iii
-  - historical-patterns
-  - geopolitics
-  - societal-polarization
-  - international-alliances
 title: 我们是否正走向第三次世界大战？历史的启示
 summary: 本文通过对比一战、二战前夕与当今的社会、经济、政治和军事维度，分析历史模式，探讨我们是否正走向第三次世界大战，并提醒我们从历史中吸取教训。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- geopolitics-watch
+tags:
+- geopolitics
+- historical-patterns
+- international-alliances
+- societal-polarization
+- world-war-iii
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: TED
+speaker: TED
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Ew59SKy181Y
 status: evergreen
 ---
 ### 引言：历史的警示

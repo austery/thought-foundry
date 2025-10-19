@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-10-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=0k0qOh7Dn0g
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - steven-cohen
-  - sac-capital
-  - insider-trading
-  - us-justice-system
-  - financial-crime
 title: 黑金终章：18亿美元罚金，国王为何安然无恙？史蒂文·科恩与美国司法体系的终极对决
 summary: 本期节目解读《黑金》最终章，探讨SAC资本支付18亿美元罚金后，史蒂文·科恩如何逃脱法律制裁。文章深入分析了陪审团的挑战、控辩双方的较量，以及“纽曼判决”对内幕交易法的颠覆性影响，最终揭示了华尔街的利益至上原则与“旋转门”现象，对美国司法体系的正义性提出深刻反思。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- investment-strategy
+- us-analysis
+tags:
+- financial-crime
+- insider-trading
+- sac-capital
+- steven-cohen
+- us-justice-system
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-01'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=0k0qOh7Dn0g
 status: evergreen
 ---
 ### 引言：审判日的到来与司法体系的终极考验

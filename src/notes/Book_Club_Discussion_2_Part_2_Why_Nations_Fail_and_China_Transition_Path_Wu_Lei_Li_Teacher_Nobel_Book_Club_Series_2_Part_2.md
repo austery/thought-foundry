@@ -1,24 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 读书会讨论(二) Part2：《国家为什么会失败》与中国的转型路径
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- 中国转型
+- 包容性制度
+- 国家失败
+- 榨取性制度
+- 民粹主义
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 伍雷
+channel: null
 guest: 李老师
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=hZR2EGv8RBs&t=10s
-speaker: 伍雷
-summary: null
-tags:
-- 视频文稿
-- 国家失败
-- 中国转型
-- 民粹主义
-- 榨取性制度
-- 包容性制度
-title: 读书会讨论(二) Part2：《国家为什么会失败》与中国的转型路径
 ---
-
 ## 问题四：民粹主义作为一种榨取性制度
 
 《国家为什么会失败》这本书里提到，民主选举也不能完全保证政治的多元化，尤其是当民粹政治兴起时。作者以查韦斯治下的委内瑞拉为例，指出民粹政治也可能成为一种榨取性制度。我们甚至可以说，新近的美国也诞生了一个新的民粹政治国家。虽然美国暂时还没有我们熟悉的国有企业、双轨制等榨取形式，但我们仍然可以探讨，为什么作者认为民粹政治很可能也具有榨取的性质？民粹政治的榨取性是如何呈现的？

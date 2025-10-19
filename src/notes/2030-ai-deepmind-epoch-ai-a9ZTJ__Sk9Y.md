@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=a9ZTJ__Sk9Y
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-development
-  - deepmind
-  - epoch-ai
-  - ai-2030
-  - compute-trends
 title: 2030年AI发展：DeepMind与Epoch AI的保守基线报告深度解读
 summary: 这份报告描绘了2030年AI的“保守基线”：算力增长千倍、投资近2000亿美元、用电占比超2%。AI将优先重塑知识工作，并逐步渗透物理世界，带来巨大的经济增量，但也面临能源、数据和可靠性等挑战。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-2030
+- ai-development
+- compute-trends
+- epoch-ai
+people: []
+companies_orgs:
+- deepmind
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=a9ZTJ__Sk9Y
 status: evergreen
 ---
 ### 报告引言：2030年AI的保守基线

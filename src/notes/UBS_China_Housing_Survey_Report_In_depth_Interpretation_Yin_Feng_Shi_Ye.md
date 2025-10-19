@@ -1,24 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 瑞银中国住房调查报告深度解读
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- 中国房地产
+- 住房调查
+- 房价下跌
+- 瑞银报告
+- 视频文稿
+- 购房意愿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: '油管@隐枫视野 '
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: '#section-1'
-speaker: '油管@隐枫视野 '
-summary: null
-tags:
-- 视频文稿
-- 中国房地产
-- 住房调查
-- 购房意愿
-- 房价下跌
-- 瑞银报告
-title: 瑞银中国住房调查报告深度解读
 ---
-
 ## 引言：报告背景与重要性
 
 大家好，这里是隐枫视野。今天与大家一同解读一份报告，就是现在大家看到的瑞银（UBS）于2025年6月19日发布的《中国住房调查报告》。

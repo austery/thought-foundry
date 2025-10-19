@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2022-03-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=epnLZTHQ6Cw
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - inverted-yield-curve
-  - economic-recession
-  - us-treasury-bonds
-  - federal-reserve
-  - inflation
 title: 揭秘经济衰退信号：美国国债收益率倒挂现象深度解析
 summary: 本文深入探讨了美国国债收益率倒挂这一神奇的经济衰退预测信号。通过解析其定义、历史表现、内在机制及当前走势，帮助读者理解这一关键金融指标如何反映投资者对未来经济的预期。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- us-analysis
+tags:
+- economic-recession
+- federal-reserve
+- inflation
+- inverted-yield-curve
+- us-treasury-bonds
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-03-13'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=epnLZTHQ6Cw
 status: evergreen
 ---
 ### 神奇的经济衰退预测曲线

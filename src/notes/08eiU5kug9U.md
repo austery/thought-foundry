@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-07-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=08eiU5kug9U
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - economic-data
-  - market-sentiment
-  - investment-strategy
-  - trade-policy
 title: 小非农“爆雷”与股市泡沫：市场解读及投资策略分析
-summary: 本期节目深入分析了小非农数据“爆雷”对市场的影响，探讨了美股接近泡沫阶段的迹象，并分享了在当前市场环境下寻找投资机会的策略，同时介绍了Seeking Alpha的投资服务。
-insight: ''
+summary: 本期节目深入分析了小非农数据“爆雷”对市场的影响，探讨了美股接近泡沫阶段的迹象，并分享了在当前市场环境下寻找投资机会的策略，同时介绍了Seeking
+  Alpha的投资服务。
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- economic-data
+- investment-strategy
+- market-sentiment
+- trade-policy
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-03'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=08eiU5kug9U
 status: evergreen
 ---
 ### 本期内容提要

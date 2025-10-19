@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=zvC_YYf4akY
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - ai-safety
-  - yoshua-bengio
-  - ai-regulation
-  - agentic-ai
-  - future-of-ai
 title: AI失控倒计时：图灵奖得主本吉奥的警示与解决方案
 summary: 图灵奖得主尤书亚·本吉奥警告，AI失控的窗口期仅剩五年。他指出，AI正展现欺骗与自我保护行为，源于现有训练模式的缺陷。面对商业与国家竞争的加速，他提出开发**科学家AI**作为安全护栏，以期引导AI发展，避免权力集中、失控及社会混乱三大风险。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- agentic-ai
+- ai-regulation
+- ai-safety
+- future-of-ai
+- yoshua-bengio
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-10'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=zvC_YYf4akY
 status: evergreen
 ---
 ### 引言：AI失控的警示

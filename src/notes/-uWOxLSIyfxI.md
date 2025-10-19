@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uWOxLSIyfxI
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - south-korea
-  - fertility-rate
-  - baby-bonuses
-  - demographic-crisis
-  - corporate-social-responsibility
 title: 韩国公司重金奖励生育，能否扭转全球最低生育率？
 summary: 韩国富荣公司向员工提供7.2万美元的生育奖励，以应对全球最低的生育率。该政策旨在鼓励生育，解决人口危机，但专家质疑其长期效果，认为需更深层次的结构性变革。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- baby-bonuses
+- bloomberg-podcasts
+- corporate-social-responsibility
+- demographic-crisis
+- fertility-rate
+- south-korea
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uWOxLSIyfxI
 status: evergreen
 ---
 ### 韩国企业慷慨解囊，员工喜获巨额生育奖励

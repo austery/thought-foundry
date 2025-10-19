@@ -1,25 +1,28 @@
 ---
-author: 东京人文论坛
-date: '2025-09-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=2zUak31UmZ0
-speaker: 东京人文论坛
-tags:
-  - t-literature-note
-  - chinese-politics
-  - political-transition
-  - imperial-legacy
-  - authoritarianism
-  - institutional-analysis
 title: 中国政治转型的帝制遗绪与未来路径：李厚辰深度解析
 summary: 李厚辰深入探讨中国政治转型，分析其深受中华帝制和苏联体制双重影响的“制度基因”。文章重点剖析帝制下权力个人化、正统思想、单一官僚制、律令细节主义及派系清洗的循环，并探讨了打破僵局的专业化权力分立与地方自治的潜在契机。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- authoritarianism
+- chinese-politics
+- imperial-legacy
+- institutional-analysis
+- political-transition
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-15'
+author: 东京人文论坛
+speaker: 东京人文论坛
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=2zUak31UmZ0
 status: evergreen
 ---
 ### 中国政治转型的复杂性与历史维度

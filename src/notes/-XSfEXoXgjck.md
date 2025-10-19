@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XSfEXoXgjck
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - jpmorgan-chase
-  - bank-earnings
-  - financial-markets
-  - wells-fargo
-  - citigroup
 title: 大型银行财报季：摩根大通、富国银行与花旗的业绩与挑战
 summary: 本文深入分析了摩根大通和高盛的最新财报，探讨了分析师为何常低估银行表现。重点关注了摩根大通CEO杰米·戴蒙对信贷市场风险的警告，以及富国银行的显著转型和花旗集团的改革进展，并展望了美国银行的未来。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- bank-earnings
+- bloomberg-podcasts
+- financial-markets
+- jpmorgan-chase
+- wells-fargo
+people: []
+companies_orgs:
+- citigroup
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XSfEXoXgjck
 status: evergreen
 ---
 ### 摩根大通与高盛的财报概览

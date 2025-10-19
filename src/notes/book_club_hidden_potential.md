@@ -1,25 +1,33 @@
 ---
-author: Lei
-date: 2025-07-28
-guest: Cate W, Carmen Tao, Qi Shi, Su Ge, 彭哥
-layout: post.njk
-channel: ''
-source: ''
-speaker: Vivi
-tags:
-- 视频文稿
-- Hidden Potential
-- 个人成长
-- 学习方法
-- 人工智能
-- 读书会
 title: 读书会笔记：《Hidden Potential》——释放内在潜能
-insight: 本次读书会深入探讨了《Hidden Potential》的核心思想，强调通过拥抱不完美、刻意练习和集体智慧来释放潜能，并结合AI时代背景，探讨了人类在未来不可替代的价值所在。
-file_name: book_club_hidden_potential.md
+area: personal-growth
+category: psychology
+project:
+- ai-impact-analysis
+- personal-growth-lab
+tags:
+- 个人成长
+- 人工智能
+- 学习方法
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- hidden potential
+- 读书会
+date: 2025-07-28
+author: Lei
+speaker: Vivi
+channel: ''
 draft: true
+file_name: book_club_hidden_potential.md
+guest: Cate W, Carmen Tao, Qi Shi, Su Ge, 彭哥
+insight: 本次读书会深入探讨了《Hidden Potential》的核心思想，强调通过拥抱不完美、刻意练习和集体智慧来释放潜能，并结合AI时代背景，探讨了人类在未来不可替代的价值所在。
+layout: post.njk
 series: Hidden Potential
+source: ''
 ---
-
 ## 开场与主题引入
 
 Vivi: 早安。我们以后每个月会增加一场读书会。因为亚洲和北美的会员比较多，所以就分了一下时区。中间有一场是由咱们的管理员主持，没有我和瑞，是给大家自己准备的一场。因为感觉好像只有会员场不太能够完全满足大家的表达欲，所以中间加了一小时，让大家继续保持读书的热情，并且了解一下大家的一些想法。有的人可能月末会比较忙，没有时间，那么中旬可能会有时间。
@@ -171,4 +179,3 @@ Carmen-Tao: 关于AI，这个月我直接放弃学习了。第一，我看了朋
 ## 结语
 
 Vivi: 谢谢鹏哥短暂而精彩的分享。时间差不多了，我们这次的读书会就到这里。非常感谢大家，特别是半夜和凌晨四点来参加的Cate和Carmen。谢谢史琪，谢谢苏哥，希望下次还能看见你们。我们下个月再见！
-

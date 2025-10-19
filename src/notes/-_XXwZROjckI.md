@@ -1,26 +1,31 @@
 ---
-author: Peter Santenello
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=_XXwZROjckI
-speaker: Peter Santenello
-tags:
-  - t-literature-note
-  - peter-santenello
-  - 纽约
-  - 城市生活
-  - 经济压力
-  - 多元文化
-  - 实地探访
 title: 纽约印象：喧嚣重燃下的现实挑战
-summary: Peter Santenello 深入纽约，从曼哈顿南端到布朗克斯，与当地人交流，展现了城市复苏的活力与经济压力并存的现状，并探索了独特的 City Island。
-insight: ''
+summary: Peter Santenello 深入纽约，从曼哈顿南端到布朗克斯，与当地人交流，展现了城市复苏的活力与经济压力并存的现状，并探索了独特的 City
+  Island。
+area: market-analysis
+category: finance
+project:
+- cultural-critique
+tags:
+- peter-santenello
+- 城市生活
+- 多元文化
+- 实地探访
+- 纽约
+- 经济压力
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Peter Santenello
+speaker: Peter Santenello
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=_XXwZROjckI
 status: evergreen
 ---
 ### 纽约市的现状：开篇与金融区

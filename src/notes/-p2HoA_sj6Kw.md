@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=p2HoA_sj6Kw
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-china-trade
-  - market-analysis
-  - bank-earnings
-  - technical-analysis
-  - economic-outlook
 title: 市场反弹：特朗普妥协信号、银行财报季展望及美中贸易动态解析
 summary: 本期节目分析了周末市场对特朗普言论的反应，探讨了美中贸易中的稀土出口底线。同时，对即将到来的银行财报季进行了前瞻性展望，结合技术面与估值，为投资者提供了短中期策略，并分析了标普500的EPS增长预期。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- bank-earnings
+- economic-outlook
+- market-analysis
+- technical-analysis
+- us-china-trade
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-10-13'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=p2HoA_sj6Kw
 status: evergreen
 ---
 ### 美中贸易争端与市场反应更新

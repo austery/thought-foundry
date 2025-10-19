@@ -1,26 +1,28 @@
 ---
-author: TED
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Pj5jM6MANUo
-speaker: TED
-tags:
-  - t-literature-note
-  - ted
-  - environmental-law
-  - climate-activism
-  - oil-industry
-  - legal-strategy
-  - guyana
 title: 律师如何挑战石油巨头并获胜：圭亚那的法律斗争
 summary: 圭亚那律师Melinda Janki分享了她如何利用现有法律，成功挑战石油巨头埃克森美孚，赢得环保诉讼，并鼓励人们勇敢为地球而战。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- climate-activism
+- environmental-law
+- guyana
+- legal-strategy
+- oil-industry
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: TED
+speaker: TED
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Pj5jM6MANUo
 status: evergreen
 ---
 ### 从石油律师到环保斗士

@@ -1,25 +1,33 @@
 ---
-author: Lei
-date: 2025-08-03
-guest: 
-layout: post.njk
-channel: ''
-source: ''
-speaker: JUGG, Derek, Zen
+title: Vibe Coding实战：对话资深开发者，揭秘团队生产力翻倍心法
+summary: JUGG与一线开发者Derek和Zen探讨Vibe Coding团队实践。从前期准备到AI协同，分享Cursor、Figma Jam等工具应用，及生产力提升25%的实战心法，揭示AI时代开发新范式。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
 tags:
-- 视频笔记
-- Vibe Coding
-- AI开发
+- ai开发
+- vibe-coding
 - 团队实践
 - 敏捷开发
-title: "Vibe Coding实战：对话资深开发者，揭秘团队生产力翻倍心法"
-summary: "JUGG与一线开发者Derek和Zen探讨Vibe Coding团队实践。从前期准备到AI协同，分享Cursor、Figma Jam等工具应用，及生产力提升25%的实战心法，揭示AI时代开发新范式。"
-insight: 他们的方法好实用，我做得和他们比较接近，要继续学习他们的好的实践。
-file_name: vibe_coding_practice_boost_team_productivity.md
+- 视频笔记
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-03
+author: Lei
+speaker: JUGG, Derek, Zen
+channel: ''
 draft: true
+file_name: vibe_coding_practice_boost_team_productivity.md
+guest: null
+insight: 他们的方法好实用，我做得和他们比较接近，要继续学习他们的好的实践。
+layout: post.njk
 series: Vibe Coding
+source: ''
 ---
-
 ## 什么是 Vibe Coding？
 
 JUGG: 哈喽大家好，欢迎大家来到JUGG聊敏捷，我是JUGG。最近有一个词非常的火红：**Vibe Coding**。如果你还没有听过，我简单科普一下。**Vibe Coding** 是透过和AI的对话，让AI根据这些对话直接实作程式。听起来很梦幻，但它真的这么神吗？难道现在只要动动嘴巴就能请AI把我们产品给开发出来？

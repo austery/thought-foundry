@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ZJlKZWOGNYU
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - lumen-technologies
-  - debt-restructuring
-  - ai-traffic
-  - infrastructure-investment
-  - fiber-networks
 title: Lumen科技：重塑债务结构，聚焦AI与增长的战略转型
 summary: Lumen Technologies首席财务官Chris Stanbury探讨了公司如何通过剥离非核心资产、大规模债务重组，并利用现有光纤网络服务AI多云流量，以实现未来的强劲增长和更健康的财务状况。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- ai-traffic
+- bloomberg-podcasts
+- debt-restructuring
+- fiber-networks
+- infrastructure-investment
+- lumen-technologies
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ZJlKZWOGNYU
 status: evergreen
 ---
 ### 访谈开场与Lumen的业务转型

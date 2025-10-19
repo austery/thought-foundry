@@ -1,56 +1,55 @@
 ---
-author: Adam's Axiom
-date: '2024-12-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dQ_UPQa3CUE
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - economic-theories
-  - market-mechanisms
-  - government-intervention
-  - human-behavior
-  - institutional-economics
 title: 20分钟速览：理解全球经济的十大核心理论
 summary: 本文深入浅出地解释了十大主流经济理论，从古典经济学的“看不见的手”到行为经济学的人类非理性，再到发展经济学和公共选择理论。通过对这些理论的剖析，读者将全面理解经济学如何解释市场运作、社会发展和政策制定，以及不同学派对经济挑战的独特视角。
-insight: ''
-draft: true
-series: ''
-category: general
 area: market-analysis
+category: finance
 project:
-  - market-cycles
-  - systems-thinking
+- investment-strategy
+- market-cycles
+tags:
+- adam-s-axiom
+- economic-theories
+- government-intervention
+- human-behavior
+- institutional-economics
+- market-mechanisms
 people:
-  - Adam Smith
-  - David Ricardo
-  - Karl Marx
-  - John Von Neumann
-  - John Nash
-  - John Maynard Keynes
-  - Arthur Laffer
-  - Milton Friedman
-  - Muhammad Yunus
-  - Carl Menger
-  - Friedrich Hayek
-  - Ludwig Von Mises
-  - Daniel Kahneman
-  - Amos Tversky
-  - Ronald Coase
-  - Douglas North
-  - James Buchanan
-  - Gordon Tullock
+- Adam Smith
+- Amos Tversky
+- Arthur Laffer
+- Carl Menger
+- Daniel Kahneman
+- David Ricardo
+- Douglas North
+- Friedrich Hayek
+- Gordon Tullock
+- James Buchanan
+- John Maynard Keynes
+- John Nash
+- John Von Neumann
+- Karl Marx
+- Ludwig Von Mises
+- Milton Friedman
+- Muhammad Yunus
+- Ronald Coase
 companies_orgs: []
 products_models:
-  - Prisoner's Dilemma
-  - Nash Equilibrium
-  - Laffer Curve
-  - Bolsa Familia
+- Bolsa Familia
+- Laffer Curve
+- Nash Equilibrium
+- Prisoner's Dilemma
 media_books:
-  - The Wealth of Nations
-  - Beautiful Mind
+- Beautiful Mind
+- The Wealth of Nations
+date: '2024-12-23'
+author: Adam's Axiom
+speaker: Adam's Axiom
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+series: ''
+source: https://www.youtube.com/watch?v=dQ_UPQa3CUE
 status: evergreen
 ---
 ### 古典经济学：看不见的手

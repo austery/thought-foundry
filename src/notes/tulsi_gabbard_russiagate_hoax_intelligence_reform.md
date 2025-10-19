@@ -1,29 +1,36 @@
 ---
-author: Lei
-date: 2025-09-25
-guest: Tulsi Gabbard
-layout: post.njk
-source: 
-speaker: Interviewer
-tags:
-- t-literature-note
-- russiagate
-- intelligence-agencies
-- tulsi-gabbard
-- political-weaponization
-- us-politics
-title: Tulsi Gabbard on Declassifying the Russiagate Hoax and Reforming Politicized Intelligence
-summary: Director of National Intelligence Tulsi Gabbard details the declassified evidence behind the Russiagate hoax, explaining how intelligence was allegedly politicized to undermine a presidency, and discusses her current mission to root out corruption and secure the southern border.
-insight:
-file_name: tulsi_gabbard_russiagate_hoax_intelligence_reform.md
-draft: true
-series:
-category:
-area:
+title: Tulsi Gabbard on Declassifying the Russiagate Hoax and Reforming Politicized
+  Intelligence
+summary: Director of National Intelligence Tulsi Gabbard details the declassified
+  evidence behind the Russiagate hoax, explaining how intelligence was allegedly politicized
+  to undermine a presidency, and discusses her current mission to root out corruption
+  and secure the southern border.
+area: market-analysis
+category: geopolitics
 project:
+- us-analysis
+tags:
+- intelligence-agencies
+- political-weaponization
+- russiagate
+- tulsi-gabbard
+- us-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-25
+author: Lei
+speaker: Interviewer
+draft: true
+file_name: tulsi_gabbard_russiagate_hoax_intelligence_reform.md
+guest: Tulsi Gabbard
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ### Introduction
 
 Interviewer: Ladies and gentlemen, please welcome Tulsi Gabbard. Hello. Nice to see you, Tulsi. Thanks for coming.

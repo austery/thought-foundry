@@ -1,26 +1,30 @@
 ---
-author: Anthropic
-date: '2025-09-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vLIDHi-1PVU
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - claude-code
-  - llm-design
-  - terminal-ui
-  - developer-workflow
-  - ai-in-coding
 title: Claude Code 的设计哲学：终端、LLM 与开发者工作流的融合
 summary: Anthropic 的 Meaghan 深入探讨了 Claude Code 独特的终端界面设计、其如何简化开发者工作流，以及大型语言模型如何重塑软件开发和团队协作。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai-in-coding
+- claude-code
+- developer-workflow
+- llm-design
+- terminal-ui
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-26'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vLIDHi-1PVU
 status: evergreen
 ---
 ### 欢迎与产品介绍

@@ -1,26 +1,30 @@
 ---
-author: Peter Santenello
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=KaVBJjkY8Fs
-speaker: Peter Santenello
-tags:
-  - t-literature-note
-  - peter-santenello
-  - Keweenaw Peninsula
-  - Michigan
-  - Copper Country
-  - Local Culture
-  - Road Trip
 title: 深入密歇根北部：一场穿越科威诺半岛的探索之旅
 summary: 跟随Peter Santenello穿越密歇根州科威诺半岛，探访铜矿历史、多元文化、壮丽湖景以及当地人的生活故事，感受这片独特土地的魅力。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- cultural-critique
+tags:
+- copper-country
+- keweenaw-peninsula
+- local-culture
+- michigan
+- peter-santenello
+- road-trip
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Peter Santenello
+speaker: Peter Santenello
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=KaVBJjkY8Fs
 status: evergreen
 ---
 ### 开启北境之旅

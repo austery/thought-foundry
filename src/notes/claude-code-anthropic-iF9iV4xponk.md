@@ -1,26 +1,31 @@
 ---
-author: Anthropic
-date: '2025-09-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iF9iV4xponk
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - agentic-coding
-  - claude-code
-  - software-engineering
-  - ai-development
-  - developer-tools
 title: Claude Code与智能编程的未来：Anthropic专家洞察
-summary: Anthropic的Alex和Claude Code创建者Boris探讨了智能编程的演变、Claude Code的开发理念、内部反馈机制以及对未来软件工程的展望，并分享了使用Claude Code的最佳实践。
-insight: ''
+summary: Anthropic的Alex和Claude Code创建者Boris探讨了智能编程的演变、Claude Code的开发理念、内部反馈机制以及对未来软件工程的展望，并分享了使用Claude
+  Code的最佳实践。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- agentic-coding
+- ai-development
+- claude-code
+- developer-tools
+- software-engineering
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-02'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=iF9iV4xponk
 status: evergreen
 ---
 ### 引言：编程的个人启蒙与Claude Code的诞生

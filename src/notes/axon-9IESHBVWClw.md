@@ -1,26 +1,32 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9IESHBVWClw
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - axon
-  - body-cameras
-  - retail-security
-  - healthcare-safety
-  - enterprise-market
 title: Axon推出小型执法记录仪，进军零售与医疗市场
 summary: Axon公司正积极扩展其核心业务，将小型执法记录仪引入零售和医疗领域，以应对工作场所暴力和盗窃问题。公司在保持盈利增长的同时，通过战略收购和产品创新，持续提升客户体验，并对新市场的巨大潜力充满信心。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- bloomberg-podcasts
+- body-cameras
+- enterprise-market
+- healthcare-safety
+- retail-security
+people: []
+companies_orgs:
+- axon
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9IESHBVWClw
 status: evergreen
 ---
 ### Axon业务现状与市场拓展

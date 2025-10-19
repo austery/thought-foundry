@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=oyVZCbhe7GY
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - cpi-data
-  - federal-reserve
-  - consumer-health
-  - jpmorgan-earnings
 title: 美股大幅回调：CPI数据、联储解读与消费者健康状况分析
 summary: 本期视频深入分析了6月CPI数据、美联储官员对通胀的看法，以及摩根大通财报揭示的消费者健康状况和市场反应，探讨了降息预期与关税影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- consumer-health
+- cpi-data
+- federal-reserve
+- jpmorgan-earnings
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-16'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=oyVZCbhe7GY
 status: evergreen
 ---
 ### 市场概览与资产价格走势

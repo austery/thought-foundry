@@ -1,24 +1,28 @@
 ---
-author: 最佳拍档
-date: '2025-08-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5UWCU9_ojFw
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - meta-ai
-  - talent-drain
-  - organizational-issues
-  - tech-competition
 title: Meta遭遇AI人才大流失：天价挖人为何失效？
 summary: Meta为组建AI“天团”投入巨额资金挖人，但Llama模型表现不佳，内部组织架构频繁调整，导致新老员工纷纷离职，甚至重返竞争对手OpenAI。本文探讨Meta人才流失背后的深层原因。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- meta-ai
+- organizational-issues
+- talent-drain
+- tech-competition
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-29'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5UWCU9_ojFw
 status: evergreen
 ---
 ### Meta AI人才流失：重金挖人遭遇“离职大戏”

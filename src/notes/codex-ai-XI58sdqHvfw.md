@@ -1,26 +1,31 @@
 ---
-author: 最佳拍档
-date: '2025-09-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XI58sdqHvfw
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - codex
-  - ai-programming
-  - software-engineering
-  - ai-agent
-  - openai
 title: Codex的演进与未来：AI如何重塑软件工程
 summary: 本文深入探讨OpenAI Codex从早期原型到云端Agent的演变历程，揭示其在AI编程领域的独特优势与反直觉设计。文章还分析了AI对软件工程的深远影响，以及未来开发者应如何适应与协作，拥抱AI驱动的新时代。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai-agent
+- ai-programming
+- best-partners-tv
+- software-engineering
+people: []
+companies_orgs:
+- openai
+products_models:
+- codex
+media_books: []
+date: '2025-09-11'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XI58sdqHvfw
 status: evergreen
 ---
 ### AI编程新趋势：Codex的崛起

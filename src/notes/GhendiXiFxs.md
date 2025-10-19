@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=GhendiXiFxs
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - stock-market
-  - earnings-report
-  - tesla
-  - intel
-  - us-politics
 title: 市场深度分析：川普鲍威尔和解、特斯拉利润下调与英特尔战略转型
 summary: 本期节目深入分析了川普与鲍威尔的和解事件、谷歌与特斯拉的最新财报数据更新，并详细解读了英特尔的财报表现、战略调整及其市场反应，同时探讨了美国航空公司的消费需求情况。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- earnings-report
+- stock-market
+- us-politics
+people: []
+companies_orgs:
+- intel
+- tesla
+products_models: []
+media_books:
+- talk
+date: '2025-07-25'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=GhendiXiFxs
 status: evergreen
 ---
 ### 节目开场与内容预告

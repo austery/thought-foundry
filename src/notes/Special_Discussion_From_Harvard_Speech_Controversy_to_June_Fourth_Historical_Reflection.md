@@ -1,21 +1,27 @@
 ---
-author: Lei
-channel: null
+title: 专题讨论：从哈佛演讲争议到六四历史反思
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 哈佛演讲
+- 政治
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 路飞
+channel: null
 guest: 老尹
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 路飞
-summary: null
-tags:
-- 视频文稿
-- 哈佛演讲
-- 政治
-title: 专题讨论：从哈佛演讲争议到六四历史反思
 ---
-
 ## 一、 哈佛毕业生蒋语荣演讲引发的争议
 
 **路飞:**

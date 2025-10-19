@@ -1,24 +1,30 @@
 ---
-author: Lei
-date: 2025-07-11
-guest: 
-layout: post.njk
-channel: https://www.youtube.com/watch?v=vH1-cIO5NiE&t
-source: 
-speaker: 郝旭烈
-tags:
-  - 视频文稿
-  - 超速进步
-  - 学习法则
-  - 刻意练习
 title: 《超速进步》：从新手到专家的12条精通法则
 summary: 主持人郝哥分享《超速进步》一书，该书作者为史考特·杨。书中将精通技能的过程分为三大核心阶段：观察、实践与回馈。通过拆解高手的动作、在难度甜蜜点上练习，并从成功与失败中获得正确反馈，任何人都能在各领域实现快速且有效的进步。
-insight: 他成功的引起了我的兴趣，开始找来看一下，学习的书籍好多，什么刻意练习，什么write to learn,听了他的讲述，我感觉很有趣。
-file_name: chaosu_jinbu_12_mastery_rules.md
+area: null
+category: null
+project: []
+tags:
+- 刻意练习
+- 学习法则
+- 视频文稿
+- 超速进步
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-07-11
+author: Lei
+speaker: 郝旭烈
+channel: https://www.youtube.com/watch?v=vH1-cIO5NiE&t
 draft: true
-series: 
+file_name: chaosu_jinbu_12_mastery_rules.md
+guest: null
+insight: 他成功的引起了我的兴趣，开始找来看一下，学习的书籍好多，什么刻意练习，什么write to learn,听了他的讲述，我感觉很有趣。
+layout: post.njk
+series: null
+source: null
 ---
-
 ## 引言：一本关于高效学习的奇书
 
 欢迎来到天下文化Podcast，我是好序的好哥。今天要介绍一本超级棒的书，叫做**《超速进步：从新手到专家，12条精通更领域的学习法则》**，英文叫 *Get Better at Anything*。作者是史考特·杨。我想所有的父母亲也好，或自己在职场上面，或者人生呢，想要学习很多、或学习很快、或学习很好的人呢，我觉得这本书都是一个非常棒的案头好书，因为里面有非常多的故事、思维和工具。

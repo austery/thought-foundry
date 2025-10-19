@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 科技巨头如何通过“非收购式收购”悄然主导AI领域
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 反垄断
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 反垄断
-title: 科技巨头如何通过“非收购式收购”悄然主导AI领域
 ---
-
 ## 引言：一种规避监管的新型控制策略
 
 **Narrator:** In the race to dominate generative AI, Big Tech firms

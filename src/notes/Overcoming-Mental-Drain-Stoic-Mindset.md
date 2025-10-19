@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 视频转写报告
+summary: null
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 心理学
+- 斯多葛主义
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-05-25'
+author: Lei
+speaker: 大问题阿伦
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 大问题阿伦
-summary: null
-tags:
-- 视频文稿
-- 斯多葛主义
-- 心理学
-title: 视频转写报告
 ---
-
 **主讲人:** 大问题阿伦
 
 ## 区分 可控与不可控

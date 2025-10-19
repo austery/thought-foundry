@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=rVOlhw7X2-Y
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - investment-strategy
-  - long-term-investing
-  - personal-finance
-  - wealth-ladder
-  - tesla
 title: 為什麼我不尋找下一個特斯拉？從投資策略到財富階梯的深度思考
 summary: 一位資深投資者分享其不追逐熱門股、不尋找「下一個特斯拉」的深層原因。內容涵蓋集中與分散投資策略的權衡、追逐熱點的陷阱，並結合《財富階梯》一書闡述個人事業在財富躍升中的核心作用，最終強調對特斯拉作為物理世界AI公司的堅定信念。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- investment-strategy
+- long-term-investing
+- personal-finance
+- wealth-ladder
+people: []
+companies_orgs:
+- tesla
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=rVOlhw7X2-Y
 status: evergreen
 ---
 ### 不尋找「下一個特斯拉」的緣由

@@ -1,28 +1,35 @@
 ---
-author: Lei
-date: 2025-09-11
-guest: 
-layout: post.njk
-source: https://www.youtube.com/watch?v=1jGU7siwXKE
-speaker: Lei
-tags:
-- t-literature-note
-- geopolitics
-- us-economy
-- china-politics
-- global-news
 title: Global News Digest- US Jobs Data, NVIDIA's Slowdown, and Geopolitical Tensions
-summary: A review of key global news, including revised US employment figures, concerns over NVIDIA's growth, Israel's strike in Qatar, political turmoil in Nepal and France, and analysis of recent events in China and Taiwan.
-insight:
-file_name: global_news_digest_us_jobs_nvidia_geopolitics_1jGU7siwXKE.md
-draft: true
-series:
-category:
-area:
+summary: A review of key global news, including revised US employment figures, concerns
+  over NVIDIA's growth, Israel's strike in Qatar, political turmoil in Nepal and France,
+  and analysis of recent events in China and Taiwan.
+area: market-analysis
+category: geopolitics
 project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- china-politics
+- geopolitics
+- global-news
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-11
+author: Lei
+speaker: Lei
+draft: true
+file_name: global_news_digest_us_jobs_nvidia_geopolitics_1jGU7siwXKE.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=1jGU7siwXKE
 status: evergreen
 ---
-
 ## 财经头条：美国就业数据与英伟达增长放缓
 
 我们首先来了解今天的财经头条，有两个方面的最新信息值得大家了解。

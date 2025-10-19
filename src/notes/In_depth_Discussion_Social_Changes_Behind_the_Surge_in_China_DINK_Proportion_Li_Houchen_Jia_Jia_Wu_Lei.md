@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 深度探讨：中国丁克比例大涨背后的社会变迁
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 生育率
+- 视频文稿
+people:
+- 三个水枪手
+companies_orgs: []
+products_models: []
+media_books:
+- 三个水枪手
 date: '2025-07-10'
+author: Lei
+speaker: 李厚辰、贾葭、伍雷
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 李厚辰、贾葭、伍雷
-summary: null
-tags:
-- 视频文稿
-- 生育率
-- 三个水枪手
-title: 深度探讨：中国丁克比例大涨背后的社会变迁
 ---
-
 ## 1. 导言：中国丁克比例的惊人变化
 
 李厚辰：有一个数据在几年间发生了很大的变化。2021 年中国有个调研团队做了一个研究，也是针对大学生。当时的研究里面，80%的中国大学生理想状态是生两个孩子，比较少人生三胎，一个都不想生的丁克（DINK：Double

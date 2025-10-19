@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-08-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yDnWq3PKoTA
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - stock-market
-  - consumer-spending
-  - technology-stocks
-  - pharmaceutical-industry
 title: 市场洞察：英特尔、特斯拉、礼来财报与消费降级深度解析
 summary: 本期节目深入分析了周四市场走势，探讨了芯片与医疗板块表现，特朗普相关新闻对美联储、英特尔及加密货币市场的影响，特斯拉Dojo团队解散的意义，礼来公司财报引发的担忧，并辩证地讨论了消费降级与经济衰退的关系。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- consumer-spending
+- market-analysis
+- pharmaceutical-industry
+- stock-market
+- technology-stocks
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-08'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=yDnWq3PKoTA
 status: evergreen
 ---
 ### 开场与近期活动回顾

@@ -1,26 +1,30 @@
 ---
-author: EO
-date: '2025-08-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=WXLVCZIUxpY
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - ai-software-engineering
-  - troubleshooting
-  - causal-machine-learning
-  - site-reliability-engineering
-  - ai-agents
 title: Traversal：AI如何革新软件故障排除，重塑软件维护
 summary: Traversal公司CEO Anish阐述了在AI生成代码日益增多的时代，软件维护面临的挑战，以及他们如何利用因果机器学习和AI智能体，通过自动化故障排除来显著减少停机时间，使工程师专注于创新而非修复。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai-agents
+- ai-software-engineering
+- causal-machine-learning
+- site-reliability-engineering
+- troubleshooting
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-22'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=WXLVCZIUxpY
 status: evergreen
 ---
 ### 软件复杂性的挑战与停机成本

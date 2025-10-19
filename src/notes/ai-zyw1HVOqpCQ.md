@@ -1,26 +1,31 @@
 ---
-author: The Knowledge Project Podcast
-date: '2025-09-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=zyw1HVOqpCQ
-speaker: The Knowledge Project Podcast
-tags:
-  - t-literature-note
-  - the-knowledge-project-podcast
-  - barry-diller
-  - media-mogul
-  - business-strategy
-  - artificial-intelligence
-  - personal-development
 title: 巴里·迪勒：从好莱坞大亨到科技浪潮——本能、品牌与AI时代
 summary: 媒体巨头巴里·迪勒分享了他在好莱坞的成功经验，强调失败是最好的老师，本能决策优于数据分析。他深入探讨了AI对媒体和旅游业的深远影响，并指出在变革时代，品牌价值和无法被数字化的体验将是企业生存的关键。
-insight: ''
+area: market-analysis
+category: business
+project:
+- ai-impact-analysis
+- entrepreneurship
+tags:
+- artificial-intelligence
+- barry-diller
+- business-strategy
+- media-mogul
+- personal-development
+- the-knowledge-project-podcast
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-30'
+author: The Knowledge Project Podcast
+speaker: The Knowledge Project Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=zyw1HVOqpCQ
 status: evergreen
 ---
 ### 序言：成功与失败的教训

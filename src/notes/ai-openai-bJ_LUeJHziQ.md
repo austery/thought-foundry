@@ -1,27 +1,33 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bJ_LUeJHziQ
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - ai-market
-  - circular-funding
-  - openai
-  - nvidia
-  - capital-expenditure
 title: AI 市场的千亿级“循环融资”：OpenAI 与英伟达的深度绑定
 summary: 本文探讨了AI市场中出现的“循环融资”现象，重点关注OpenAI与英伟达的巨额交易。分析了AI基础设施建设的巨额资本投入，以及市场供需关系、公司盈利能力和估值等关键问题。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-market
+- bloomberg-podcasts
+- capital-expenditure
+- circular-funding
+- t-literature-note
+people: []
+companies_orgs:
+- nvidia
+- openai
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=bJ_LUeJHziQ
 status: evergreen
 ---
 ### 什么是“循环融资”及其影响？

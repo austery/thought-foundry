@@ -1,27 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=mFqLMmfSYk0
-speaker: Bloomberg Podcasts
-tags:
-  - bloomberg-podcasts
-  - t-literature-note
-  - The-Bear
-  - Culinary-Producer
-  - Restaurant-Industry
-  - Chef
-  - Acting-Training
-  - Kitchen-Life
 title: 《熊家餐馆》幕后：揭秘烹饪制作人的艺术与挑战
 summary: 深入了解热门剧集《熊家餐馆》中烹饪制作人的幕后工作，探讨如何在拍摄中呈现真实的餐饮业面貌，以及演员如何训练以达到专业水准，展现厨房的压力与魅力。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- acting-training
+- bloomberg-podcasts
+- chef
+- culinary-producer
+- kitchen-life
+- restaurant-industry
+- the-bear
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=mFqLMmfSYk0
 status: evergreen
 ---
 ### 烹饪制作人的角色与日常

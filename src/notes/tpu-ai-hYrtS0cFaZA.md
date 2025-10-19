@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=hYrtS0cFaZA
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-chip-design
-  - tpu
-  - open-source-hardware
-  - deep-learning
-  - first-principles
 title: 从零手搓TPU：三个月实现AI推训一体芯片设计的奇迹
 summary: 加拿大工程师团队在三个月内，从零基础出发，成功设计并开源了一款能同时支持推理和训练的**TPU**原型芯片。他们通过“第一性原理”和“不靠谱方法”的独特理念，深入理解并重新发明了**MLP**、脉动阵列等核心机制，展现了独立解决复杂问题的能力。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-chip-design
+- deep-learning
+- first-principles
+- open-source-hardware
+people: []
+companies_orgs: []
+products_models:
+- tpu
+media_books: []
+date: '2025-08-28'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=hYrtS0cFaZA
 status: evergreen
 ---
 ### 项目缘起：零基础挑战AI芯片设计

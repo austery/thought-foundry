@@ -1,26 +1,29 @@
 ---
-author: KevinFeng 冯凯文
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=q5h9XMAXJpA
-speaker: KevinFeng 冯凯文
-tags:
-  - t-literature-note
-  - kevinfeng
-  - t-literature-note
-  - language-learning
-  - english
-  - methodology
-  - efficiency
 title: 3个月英文质变：100LS方法深度解析与避坑指南
 summary: 本文深度解析100LS英文学习法，结合个人经验，揭示其有效性与潜在陷阱，并提供创新性执行策略，助你高效突破语言瓶颈。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- efficiency
+- english
+- language-learning
+- methodology
+- t-literature-note
+people:
+- kevinfeng
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: KevinFeng 冯凯文
+speaker: KevinFeng 冯凯文
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=q5h9XMAXJpA
 status: evergreen
 ---
 ### 告别卡顿与天书：解锁英文学习新思路

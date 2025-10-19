@@ -1,35 +1,34 @@
 ---
-author: Adam's Axiom
-date: '2024-12-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=U6rWRagjA8I
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - investment-funds
-  - asset-management
-  - financial-products
-  - diversification
-  - long-term-investing
 title: 投资基金类型全解析：从ETF到基础设施基金
 summary: 本文深入探讨了多种投资基金类型，包括ETF、共同基金、私募股权、对冲基金、主权财富基金、养老基金、捐赠基金、家族办公室、投行资管、房地产基金、风险投资和信贷基金。文章详细阐述了每种基金的运作模式、盈利策略及其在金融生态系统中的独特作用，帮助读者全面理解不同投资工具的特点与差异。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
+category: finance
 project:
-  - investment-strategy
+- investment-strategy
+tags:
+- adam-s-axiom
+- asset-management
+- diversification
+- financial-products
+- investment-funds
+- long-term-investing
 people: []
 companies_orgs:
-  - Renaissance Technologies
-  - Yale
+- Renaissance Technologies
+- Yale
 products_models:
-  - Yale Model
+- Yale Model
 media_books:
-  - Reddit
+- Reddit
+date: '2024-12-30'
+author: Adam's Axiom
+speaker: Adam's Axiom
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+series: ''
+source: https://www.youtube.com/watch?v=U6rWRagjA8I
 status: evergreen
 ---
 ### 欢迎来到ETF与共同基金的世界

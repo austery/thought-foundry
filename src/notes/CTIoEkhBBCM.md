@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CTIoEkhBBCM
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - investment-strategy
-  - asset-allocation
-  - inflation-risk
-  - monetary-policy
 title: 当前市场分析：通胀反弹风险、资产配置策略与百万现金投资建议
 summary: 本期节目深入分析了当前美股市场走势、美联储政策动向及地缘政治对经济的影响。基于机构研报，探讨了全球资产配置策略，并针对“百万现金是否应全仓投入”的投资疑问提供了详细解答，强调了通胀反弹是唯一主要风险。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- asset-allocation
+- inflation-risk
+- investment-strategy
+- monetary-policy
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-11'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=CTIoEkhBBCM
 status: evergreen
 ---
 ### 开篇致辞与观众互动

@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2022-12-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=HzMRtl-pilI
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - airbnb-hosting
-  - short-term-rental
-  - real-estate-investment
-  - host-tips
-  - property-management
 title: Airbnb新房东必读：从市场调查到成功运营的关键须知
 summary: 本视频分享了Airbnb新房东从市场调查、期待值设定、房屋上线准备到接待首批客人的全方位干货经验，助你成功开启Airbnb事业。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- airbnb-hosting
+- host-tips
+- property-management
+- real-estate-investment
+- short-term-rental
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-12-03'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=HzMRtl-pilI
 status: evergreen
 ---
 ### 引言：承诺兑现与福利预告

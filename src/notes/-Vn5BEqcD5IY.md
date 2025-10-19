@@ -1,26 +1,32 @@
 ---
-author: Joseph Wang
-date: '2025-09-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Vn5BEqcD5IY
-speaker: Joseph Wang
-tags:
-  - t-literature-note
-  - joseph-wang
-  - market-analysis
-  - central-bank-policy
-  - us-immigration
-  - bank-of-japan
-  - h-1b-visa
 title: 市场周报：美联储政策、日本央行行动与美国移民新政
 summary: 本期市场周报回顾了近期市场的剧烈波动，探讨了美联储的鹰派立场、日本央行解除股票购买的决策，以及美国总统新推出的H-1B签证费上涨和百万美元黄金签证政策。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- bank-of-japan
+- central-bank-policy
+- h-1b-visa
+- joseph-wang
+- market-analysis
+- us-immigration
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-20'
+author: Joseph Wang
+speaker: Joseph Wang
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Vn5BEqcD5IY
 status: evergreen
 ---
 ### 本周市场回顾：波动与泡沫迹象

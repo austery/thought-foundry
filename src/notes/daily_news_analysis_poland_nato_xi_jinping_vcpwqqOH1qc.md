@@ -1,29 +1,37 @@
 ---
-author: Lei
-date: 2025-09-10
-guest: 
-layout: post.njk
-source: https://www.youtube.com/watch?v=vcpwqqOH1qc
-speaker: LT
-tags:
-- t-literature-note
-- news-commentary
-- geopolitics
-- us-china-relations
-- chinese-politics
-- xi-jinping
-title: News Analysis on Poland's NATO First, Xi Jinping's Power Play, and US Economic Signals
-summary: A daily news analysis covering Poland's unprecedented downing of a Russian drone, a "Red Second Generation" gathering as a show of Xi Jinping's power, persistent deflation in China, and key US economic reports on inflation and household income.
-insight:
-file_name: daily_news_analysis_poland_nato_xi_jinping_vcpwqqOH1qc.md
-draft: true
-series:
-category:
-area:
+title: News Analysis on Poland's NATO First, Xi Jinping's Power Play, and US Economic
+  Signals
+summary: A daily news analysis covering Poland's unprecedented downing of a Russian
+  drone, a "Red Second Generation" gathering as a show of Xi Jinping's power, persistent
+  deflation in China, and key US economic reports on inflation and household income.
+area: market-analysis
+category: geopolitics
 project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- chinese-politics
+- geopolitics
+- news-commentary
+- us-china-relations
+- xi-jinping
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-10
+author: Lei
+speaker: LT
+draft: true
+file_name: daily_news_analysis_poland_nato_xi_jinping_vcpwqqOH1qc.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=vcpwqqOH1qc
 status: evergreen
 ---
-
 ## 财经头条
 
 ### 美国生产者物价指数意外下跌

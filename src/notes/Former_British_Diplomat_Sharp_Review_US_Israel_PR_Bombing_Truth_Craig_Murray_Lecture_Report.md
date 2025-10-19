@@ -1,22 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 前英国外交官锐评美以“公关式”轰炸真相
+summary: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
+area: null
+category: null
+project: []
+tags:
+- 中东冲突
+- 媒体偏见
+- 美以关系
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 路飞
+channel: null
 guest: Craig Murray
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=kR6Dk10xWew
-speaker: 路飞
-summary: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
-tags:
-- 视频文稿
-- 美以关系
-- 媒体偏见
-- 中东冲突
-title: 前英国外交官锐评美以“公关式”轰炸真相
 ---
-
 ## 引言：克雷格·莫瑞的背景与视角
 
 大家好，欢迎来到我的频道。这期节目，我想给大家讲解一下我最近看到的一部视频，是克雷格·莫瑞（Craig

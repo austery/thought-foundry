@@ -1,26 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-07-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=VszLD7pTMLc
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - virginia-woolf
-  - a-room-of-ones-own
-  - feminism
-  - creative-writing
-  - economic-independence
 title: 你为何才华横溢却一事无成？伍尔夫在百年前就给出了答案
 summary: 弗吉尼亚·伍尔夫在《一间自己的屋子》中指出，创作才华的施展离不开独立的物质基础和个人空间，这一观点至今仍对许多为生计奔波的现代人具有深刻的启示意义。
-insight: ''
+area: market-analysis
+category: finance
+project: []
+tags:
+- a-room-of-ones-own
+- creative-writing
+- economic-independence
+- feminism
+- stella-an
+- virginia-woolf
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-26'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=VszLD7pTMLc
 status: evergreen
 ---
 ### 百年前的洞见，今日你我的困境

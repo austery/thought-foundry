@@ -1,25 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-09-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=zJCSMX14lj0
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - yann-lecun
-  - deep-learning
-  - convolutional-neural-network
-  - ai-history
-  - open-source-ai
 title: Yann LeCun：深度学习四十年探索与开源信念
 summary: 本文回顾了“卷积网络之父”Yann LeCun四十年的深度学习探索历程。从早期不被理解的反向传播算法，到贝尔实验室的CNN商业应用，再到Meta的开源AI倡导，展现了他如何推动AI从边缘走向主流，以及对开源和AI未来的坚定信念。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- historical-insights
+tags:
+- ai-history
+- convolutional-neural-network
+- deep-learning
+- open-source-ai
+- yann-lecun
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-01'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=zJCSMX14lj0
 status: evergreen
 ---
 ### 序言：AI传奇人物的探索历程与信念之考

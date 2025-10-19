@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-05-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=2OGZU8CiIhw
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - tech-stocks
-  - earnings-report
-  - investment-strategy
-  - us-china-relations
 title: 科技股领涨下的市场分析：财报、关税与投资展望
 summary: 本期节目深入分析了当前市场走势、中美关系及三家科技巨头（MicroStrategy、苹果、亚马逊）的最新财报。主持人探讨了财报对经济的把脉作用、关税政策的影响，并提供了基于溢价水平的投资策略建议。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- earnings-report
+- investment-strategy
+- market-analysis
+- tech-stocks
+- us-china-relations
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-05-02'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=2OGZU8CiIhw
 status: evergreen
 ---
 ### 市场概览与近期走势分析

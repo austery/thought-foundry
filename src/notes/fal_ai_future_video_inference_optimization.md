@@ -1,29 +1,33 @@
 ---
-author: Lei
-date: 2025-08-01
-guest: 
-layout: post.njk
-source: http://www.youtube.com/watch?v=NKNYKYoDSNA
-speaker: a16z
-tags:
-  - t-literature-note
-  - ai-video
-  - generative-media
-  - inference-optimization
-  - multi-cloud-infrastructure
-  - startup-culture
 title: Fal.ai AI视频的未来、推理优化与创成式媒体市场的激烈竞争
 summary: 本视频探讨Fal.ai如何通过极致的推理优化，在竞争激烈的AI视频市场中脱颖而出，并将其定位为创成式媒体云平台。
-insight:
-file_name: fal_ai_future_video_inference_optimization.md
-draft: true
-series:
-category:
-area:
+area: tech-insights
+category: technology
 project:
+- ai-impact-analysis
+- cultural-critique
+tags:
+- ai-video
+- generative-media
+- inference-optimization
+- multi-cloud-infrastructure
+- startup-culture
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-01
+author: Lei
+speaker: a16z
+draft: true
+file_name: fal_ai_future_video_inference_optimization.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: http://www.youtube.com/watch?v=NKNYKYoDSNA
 status: evergreen
 ---
-
 # Fal.ai：AI视频的未来与推理优化
 
 ## 创成式媒体的激烈竞争与市场演变

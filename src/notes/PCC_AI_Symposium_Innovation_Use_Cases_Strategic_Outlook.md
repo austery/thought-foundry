@@ -1,7 +1,24 @@
 ---
-author: Lei
-channel: null
+title: AI研讨会纪要：创新、应用案例与战略展望
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 企业价值
+- 医疗健康
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: Dave Wessinger, Alan Missen, Marina Stojanovic, Ketki Yennemadi, Auroosa
+  Kazmi-Ishaq
+channel: null
 guest: Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy Dool,
   Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka
   Dhar, Panelists
@@ -9,17 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Dave Wessinger, Alan Missen, Marina Stojanovic, Ketki Yennemadi, Auroosa
-  Kazmi-Ishaq
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 医疗健康
-- 企业价值
-title: AI研讨会纪要：创新、应用案例与战略展望
 ---
-
 ## 主题演讲对话：AI 的紧迫性与机遇
 
 ### 领导力要务：学会取舍，聚焦未来

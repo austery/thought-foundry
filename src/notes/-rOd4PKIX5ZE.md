@@ -1,26 +1,32 @@
 ---
-author: LT視界
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=rOd4PKIX5ZE
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - us-china-trade-war
-  - rare-earth-minerals
-  - geopolitical-risk
-  - economic-sanctions
-  - chinese-politics
 title: 中美贸易冲突骤然升级：北京为何在四中全会前引爆对美经济战？
 summary: 在中美贸易休战期，北京突然升级稀土出口管制，引发全球市场剧烈震荡。本文深入探讨此次冲突背后的经济核战争策略、各方反应及习近平选择此时机激化矛盾的深层原因，包括内政焦虑、谈判施压和全面国安化考量。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- chinese-politics
+- economic-sanctions
+- geopolitical-risk
+- rare-earth-minerals
+- us-china-trade-war
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=rOd4PKIX5ZE
 status: evergreen
 ---
 ### 中美冲突升级引爆全球资本市场：投资者的初步反应

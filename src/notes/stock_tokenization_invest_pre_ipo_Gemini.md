@@ -1,22 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 代币化Pre-IPO股权：对私募市场投资新前沿的机构级尽职调查报告
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- us-analysis
+tags:
+- pre-ipo
+- 区块链
+- 稳定币
+- 美股代币化
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-08-02'
+author: Lei
+speaker: Google Gemini
+channel: null
 guest: null
 insight: 使用google gemini对Hellen和秦汉的访谈的分析
 layout: post.njk
 series: 美股代币化
 source: null
-speaker: Google Gemini
-summary: null
-tags:
-- 美股代币化
-- Pre-IPO
-- 区块链
-- 稳定币
-title: 代币化Pre-IPO股权：对私募市场投资新前沿的机构级尽职调查报告
 ---
-
 ## **第一部分：代币化投资的架构**
 
 本部分旨在构建代币化投资的基础法律与技术框架，从市场宣传的承诺深入到投资者实际获得的法律现实。

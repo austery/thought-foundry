@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9KzFV4qzc9w
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - argentina-bailout
-  - us-foreign-policy
-  - healthcare-policy
-  - federal-power
-  - elizabeth-warren
 title: 沃伦参议员：特朗普政府的阿根廷协议与国内政策皆失民心
 summary: 沃伦参议员批评特朗普政府向阿根廷提供200亿美元援助，称其损害美国农民利益。她呼吁国会就此投票，并强调政府不应通过削减医保和干预地方治理来压制异见，而是应服务美国人民。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- argentina-bailout
+- bloomberg-podcasts
+- elizabeth-warren
+- federal-power
+- healthcare-policy
+- us-foreign-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9KzFV4qzc9w
 status: evergreen
 ---
 ### 对阿根廷援助的质疑

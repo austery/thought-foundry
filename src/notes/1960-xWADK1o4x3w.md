@@ -1,26 +1,31 @@
 ---
-author: 禁書筆記
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=xWADK1o4x3w
-speaker: 禁書筆記
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - japan-politics
-  - security-policy
-  - china-taiwan-relations
-  - public-opinion
 title: 安保过敏症：从1960年日本安保斗争到高市早苗，探析日本政治的“恐战症”
 summary: 本文深入剖析日本“安保过敏症”的根源，追溯至1960年的安保斗争，探讨其如何影响日本政坛及对台海局势的潜在影响。分析日本民众反战共识，以及高市早苗新任首相下面临的挑战。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+tags:
+- ''
+- china-taiwan-relations
+- japan-politics
+- public-opinion
+- security-policy
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 禁書筆記
+speaker: 禁書筆記
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=xWADK1o4x3w
 status: evergreen
 ---
 ### 民粹排外与孤立主义：日本人对台海危机的真实心态

@@ -1,24 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 第二课：夫妻沟通的艺术
+summary: 这是团契的学习的课程。
+area: null
+category: null
+project: []
+tags:
+- 夫妻关系
+- 婚姻成长
+- 宗教
+- 家庭生活
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 林静芝,李秀全
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t
-speaker: 林静芝,李秀全
-summary: 这是团契的学习的课程。
-tags:
-- 视频文稿
-- 婚姻成长
-- 家庭生活
-- 夫妻关系
-- 宗教
-title: 第二课：夫妻沟通的艺术
 ---
-
-
 ## 开场与引言
 
 林静芝:

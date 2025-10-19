@@ -1,26 +1,32 @@
 ---
-author: Amit Kukreja
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=_V3LWpx5E6U
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - market-close
-  - ai-sector
-  - energy-stocks
-  - openai-deals
-  - stock-market-analysis
 title: 市场收盘：S&P市值大增8000亿，AI与能源板块巨额交易引爆市场
 summary: 周一市场强劲反弹，S&P 500市值增加8000亿美元。OpenAI与Broadcom签订10吉瓦协议，带动AI与能源板块飙升。零售投资者积极抄底，杠杆交易活跃，市场对Q3财报抱有乐观预期。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-sector
+- amit-kukreja
+- energy-stocks
+- market-close
+- openai-deals
+- stock-market-analysis
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=_V3LWpx5E6U
 status: evergreen
 ---
 ### 市场概览与反弹

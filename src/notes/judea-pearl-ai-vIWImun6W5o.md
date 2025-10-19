@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vIWImun6W5o
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - judea-pearl
-  - causality
-  - artificial-intelligence
-  - counterfactual-reasoning
-  - critical-thinking
 title: 图灵奖得主Judea Pearl的灵魂拷问：AI能回答“为什么”吗？
 summary: 本视频探讨了Judea Pearl提出的“因果关系之梯”，揭示了当前AI的局限性。从关联、干预到反事实推理，深入剖析了人类智慧的核心，并展望了强人工智能的未来发展方向。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- causality
+- counterfactual-reasoning
+- critical-thinking
+- judea-pearl
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-09'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vIWImun6W5o
 status: evergreen
 ---
 ### AI的真正局限：因果关系之梯

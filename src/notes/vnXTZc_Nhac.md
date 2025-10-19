@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vnXTZc_Nhac
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - investment-strategy
-  - us-stock-market
-  - federal-reserve
-  - on-holding
-  - cryptocurrency-stocks
 title: 投资TALK君：揭秘视频创作初衷，市场回调应对与个股取舍
 summary: 本期视频探讨了博主做视频的初衷、观众互动，分析了美联储纪要、VIX指数，并分享了投资理念、SBET风险，以及On Holding的卖出思考。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- cryptocurrency-stocks
+- federal-reserve
+- investment-strategy
+- on-holding
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-10'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vnXTZc_Nhac
 status: evergreen
 ---
 ### 开场白与观众互动

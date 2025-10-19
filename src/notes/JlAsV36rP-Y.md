@@ -1,72 +1,70 @@
 ---
-author: Adam's Axiom
-date: '2025-01-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=JlAsV36rP-Y
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - financial-institutions
-  - global-economy
-  - monetary-policy
-  - financial-crises
-  - economic-governance
 title: 全球经济体系解析：主要金融机构的角色与相互作用
 summary: 本文深入探讨了全球经济体系中六大类主要金融机构：国际组织、中央银行、政府金融机构、金融市场、私人金融机构和开发银行。文章阐述了它们在维护金融稳定、促进经济发展中的关键作用，并通过案例分析其影响与面临的挑战，揭示了这些机构之间复杂的相互依赖关系。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
+category: finance
 project:
-  - geopolitics-watch
-  - market-cycles
+- investment-strategy
+tags:
+- adam-s-axiom
+- economic-governance
+- financial-crises
+- financial-institutions
+- global-economy
+- monetary-policy
 people:
-  - Ben Bernanke
-  - Bruno Iksil
-  - Bernie Madoff
+- Ben Bernanke
+- Bernie Madoff
+- Bruno Iksil
 companies_orgs:
-  - International Monetary Fund
-  - World Bank
-  - World Trade Organization
-  - Bank for International Settlements
-  - Organization for Economic Cooperation and Development
-  - European Central Bank
-  - Bank of Japan
-  - Bank of England
-  - People's Bank of China
-  - Federal Reserve
-  - Lehman Brothers
-  - US Treasury Department
-  - Securities and Exchange Commission
-  - Federal Deposit Insurance Corporation
-  - Internal Revenue Service
-  - Government Accountability Office
-  - New York Stock Exchange
-  - NASDAQ
-  - London Stock Exchange
-  - Tokyo Stock Exchange
-  - Shanghai Stock Exchange
-  - J.P. Morgan Chase
-  - Financial Conduct Authority
-  - Goldman Sachs
-  - AIG
-  - BlackRock
-  - Moody's
-  - S&P
-  - Asian Development Bank
-  - African Development Bank
-  - Inter-American Development Bank
-  - European Investment Bank
-  - Islamic Development Bank
+- AIG
+- African Development Bank
+- Asian Development Bank
+- Bank for International Settlements
+- Bank of England
+- Bank of Japan
+- BlackRock
+- European Central Bank
+- European Investment Bank
+- Federal Deposit Insurance Corporation
+- Federal Reserve
+- Financial Conduct Authority
+- Goldman Sachs
+- Government Accountability Office
+- Inter-American Development Bank
+- Internal Revenue Service
+- International Monetary Fund
+- Islamic Development Bank
+- J.P. Morgan Chase
+- Lehman Brothers
+- London Stock Exchange
+- Moody's
+- NASDAQ
+- New York Stock Exchange
+- Organization for Economic Cooperation and Development
+- People's Bank of China
+- S&P
+- Securities and Exchange Commission
+- Shanghai Stock Exchange
+- Tokyo Stock Exchange
+- US Treasury Department
+- World Bank
+- World Trade Organization
 products_models:
-  - quantitative easing
-  - mortgage-backed securities
-  - derivatives
-  - Ponzi scheme
+- Ponzi scheme
+- derivatives
+- mortgage-backed securities
+- quantitative easing
 media_books: []
+date: '2025-01-26'
+author: Adam's Axiom
+speaker: Adam's Axiom
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+series: ''
+source: https://www.youtube.com/watch?v=JlAsV36rP-Y
 status: evergreen
 ---
 ### 国际组织：全球经济的“消防员”

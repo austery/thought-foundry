@@ -1,23 +1,27 @@
 ---
-author: Lei
-channel: LiuTalks
+title: 为什么蠢货会成为政治赢家
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 人性弱点
+- 视频文稿
+people:
+- 马基雅弗利
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-05-25'
+author: Lei
+speaker: 徒步的骑手
+channel: LiuTalks
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 徒步的骑手
-summary: null
-tags:
-- 视频文稿
-- 人性弱点
-- 马基雅弗利
-- 徒步的骑手
-title: 为什么蠢货会成为政治赢家
 ---
-
-
 ## 引言：一个普遍的政治现象
 
 我们来探讨一个有趣的议题：为什么蠢货常常能成为政治上的赢家？在民主国家，我们时常看到一些政客，他们或许愚蠢、无知、腐败、不靠谱，甚至刚愎自用、缺乏远见，却能在选举中战胜比他们更聪明的对手。

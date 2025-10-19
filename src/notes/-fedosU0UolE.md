@@ -1,26 +1,32 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fedosU0UolE
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - market-close
-  - trade-tensions
-  - bank-earnings
-  - cryptocurrency
-  - ai-partnerships
 title: 收盘分析：贸易担忧、银行财报与市场波动
 summary: 在收盘前夕，市场受贸易紧张局势、银行财报、加密货币下跌和金价上涨等因素影响。本文详细分析了标普500指数、纳斯达克指数和道琼斯指数的表现，并探讨了个股如富国银行、AMD和沃尔玛的动向，以及OpenAI与沃尔玛的合作对零售业的影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-partnerships
+- bank-earnings
+- bloomberg-podcasts
+- cryptocurrency
+- market-close
+- trade-tensions
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fedosU0UolE
 status: evergreen
 ---
 ### 市场收盘概览与贸易紧张局势

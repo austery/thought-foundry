@@ -1,26 +1,32 @@
 ---
-author: Amit Kukreja
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fT8zYmhtvjE
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - tsm-earnings
-  - ai-market
-  - semiconductor-industry
-  - data-centers
-  - market-analysis
 title: TSM业绩强劲，Meta挖角苹果高管，财报季开局良好 | 市场开盘
 summary: 本期市场开盘节目深入探讨了台积电强劲的财报、Meta对苹果高管的挖角、Salesforce和SoFi的最新进展，以及AI发展对能源需求和社区带来的影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-market
+- amit-kukreja
+- data-centers
+- market-analysis
+- semiconductor-industry
+- tsm-earnings
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fT8zYmhtvjE
 status: evergreen
 ---
 ### 市场概览与开场

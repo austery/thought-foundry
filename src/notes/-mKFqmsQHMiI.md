@@ -1,26 +1,29 @@
 ---
-author: 大问题Dialectic
-date: '2025-10-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=mKFqmsQHMiI
-speaker: 大问题Dialectic
-tags:
-  - t-literature-note
-  - dialectic
-  - occam-s-razor
-  - philosophy-of-science
-  - critical-thinking
-  - scientific-method
-  - epistemology
 title: 奥卡姆剃刀：简洁逼近真理的哲学法则
 summary: 奥卡姆剃刀：简洁逼近真理的哲学法则。探讨其起源、科学应用，及如何助我们避开阴谋论。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- critical-thinking
+- dialectic
+- epistemology
+- occam-s-razor
+- philosophy-of-science
+- scientific-method
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-10'
+author: 大问题Dialectic
+speaker: 大问题Dialectic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=mKFqmsQHMiI
 status: evergreen
 ---
 ### 奥卡姆剃刀的起源与核心思想

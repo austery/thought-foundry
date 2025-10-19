@@ -1,26 +1,31 @@
 ---
-author: Joseph Wang
-date: '2025-09-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=EThsgIXtpuo
-speaker: Joseph Wang
-tags:
-  - t-literature-note
-  - joseph-wang
-  - federal-reserve
-  - monetary-policy
-  - argentina-economy
-  - ai-bubble
-  - geopolitics
 title: 市场周报：美联储政策转向、阿根廷援助与AI泡沫警示
 summary: 本周市场焦点：白银飙升，加密货币走弱。深入探讨美联储内部利率政策分歧、美国财政部对阿根廷的战略性援助，以及AI投资热潮中潜在的泡沫风险。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- geopolitics-watch
+tags:
+- ai-bubble
+- argentina-economy
+- federal-reserve
+- geopolitics
+- joseph-wang
+- monetary-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-27'
+author: Joseph Wang
+speaker: Joseph Wang
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=EThsgIXtpuo
 status: evergreen
 ---
 ### 市场回顾与本周焦点

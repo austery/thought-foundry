@@ -1,26 +1,34 @@
 ---
-author: 最佳拍档
-date: '2025-09-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=GetIS0APO1o
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - forward-deployed-engineer
-  - ai-agent
-  - palantir
-  - product-market-fit
-  - business-model
 title: FDE模式深度解析：AI落地新解法还是历史倒退？
-summary: 在AI能力狂飙突进与企业应用部署步履蹒跚的矛盾时代，FDE（前线部署工程师）模式在硅谷重新兴起。本文将深入拆解FDE的定义、Palantir的起源、其与传统咨询的区别，并探讨其为何成为AI Agent公司解决落地难题的关键策略。
-insight: ''
+summary: 在AI能力狂飙突进与企业应用部署步履蹒跚的矛盾时代，FDE（前线部署工程师）模式在硅谷重新兴起。本文将深入拆解FDE的定义、Palantir的起源、其与传统咨询的区别，并探讨其为何成为AI
+  Agent公司解决落地难题的关键策略。
+area: market-analysis
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+- investment-strategy
+- market-cycles
+tags:
+- ai-agent
+- best-partners-tv
+- business-model
+- forward-deployed-engineer
+- product-market-fit
+people: []
+companies_orgs:
+- palantir
+products_models: []
+media_books: []
+date: '2025-09-14'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=GetIS0APO1o
 status: evergreen
 ---
 ### AI能力与落地困境：FDE模式的兴起

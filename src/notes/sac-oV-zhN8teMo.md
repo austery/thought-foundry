@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=oV-zhN8teMo
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - sac-capital
-  - insider-trading
-  - steven-cohen
-  - whistleblower
-  - financial-crime
 title: SAC帝国风暴：复仇者集结与内幕交易网络的浮现
 summary: 本期深入探讨SAC资本如何从内外两面遭遇挑战。外部复仇者如律师迈克尔·鲍和前妻帕特里夏·科恩开始集结，揭露SAC的恶意做空与资产隐瞒。同时，内部交易员在压力下，将对信息优势的追求演变为系统性犯罪，揭示了对冲基金内幕交易的商业模式。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- financial-crime
+- insider-trading
+- sac-capital
+- steven-cohen
+- whistleblower
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-28'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=oV-zhN8teMo
 status: evergreen
 ---
 ### 引言：帝国的内外危机

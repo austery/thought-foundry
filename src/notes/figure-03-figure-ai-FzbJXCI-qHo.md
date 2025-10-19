@@ -1,34 +1,38 @@
 ---
-author: 最佳拍档
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FzbJXCI-qHo
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - figure-03
-  - humanoid-robot
-  - figure-ai
-  - robotics
-  - artificial-intelligence
-  - mass-production
-  - home-automation
-  - commercial-robotics
-  - helix-ai
-  - sensory-systems
-  - tactile-sensors
-  - wireless-charging
 title: Figure 03：Figure AI第三代人形机器人，迈向通用、家庭与量产的整合探索
 summary: Figure 03是Figure AI第三代人形机器人，旨在实现通用性、家庭应用及全球规模化生产。它在硬件、软件、安全、量产等方面进行了彻底重构，是人形机器人从技术展示走向实用化的重要里程碑。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ''
+- artificial-intelligence
+- commercial-robotics
+- figure-ai
+- helix-ai
+- home-automation
+- humanoid-robot
+- mass-production
+- robotics
+- sensory-systems
+- t-literature-note
+- tactile-sensors
+- wireless-charging
+people: []
+companies_orgs: []
+products_models:
+- figure-03
+media_books: []
+date: '2025-10-11'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=FzbJXCI-qHo
 status: evergreen
 ---
 ### Figure 03：通用型人形机器人的新范式

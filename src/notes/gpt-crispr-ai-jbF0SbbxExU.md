@@ -1,26 +1,30 @@
 ---
-author: 硅谷101播客
-date: '2025-09-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jbF0SbbxExU
-speaker: 硅谷101播客
-tags:
-  - t-literature-note
-  - '101'
-  - gene-editing
-  - crispr
-  - artificial-intelligence
-  - biotechnology
-  - life-science
 title: 基因编辑的“GPT时刻”：丛乐教授谈CRISPR技术与AI的未来
 summary: 斯坦福大学丛乐教授深入探讨CRISPR-Cas9基因编辑技术的里程碑式突破，包括其在医学、农业、环境等领域的广泛应用。同时，他展望了AI（如CRISPR-GPT）如何加速生命科学的创新与发展，以及基因编辑面临的伦理挑战。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- '101'
+- artificial-intelligence
+- biotechnology
+- crispr
+- gene-editing
+- life-science
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-01'
+author: 硅谷101播客
+speaker: 硅谷101播客
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=jbF0SbbxExU
 status: evergreen
 ---
 ### 节目开场与基因编辑的时代意义

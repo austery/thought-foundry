@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Xuyk0tiDJ9A
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - activist-investing
-  - value-investing
-  - japanese-market
-  - korean-market
-  - investment-trusts
 title: 从东京到首尔：激进投资如何发现并创造价值？
 summary: 本期节目中，资产价值投资公司（AVI）的Joe Bowen分享了其激进投资策略，探讨了日本、韩国市场的独特机遇，以及如何通过积极股东参与促使企业释放价值。他还讨论了美国市场、英国投资信托的未来挑战与机遇，并分析了当前投资组合的防御性。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- activist-investing
+- bloomberg-podcasts
+- investment-trusts
+- japanese-market
+- korean-market
+- value-investing
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Xuyk0tiDJ9A
 status: evergreen
 ---
 ### 欢迎辞与本期主题

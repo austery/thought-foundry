@@ -1,23 +1,27 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DqU4Q3UxaaI
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - WTO
-  - Geopolitics
 title: 中国放弃WTO发展中国家待遇：战略转向背后的三重逻辑与全球贸易的未来推演
 summary: 深入分析中国宣布不再寻求WTO特殊待遇的战略意图，探讨其背后的外部压力、内部转型需求及地缘政治考量。文章同时推演了后特权时代全球贸易可能面临的三种未来走向。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- geopolitics-watch
+tags:
+- geopolitics
+people: []
+companies_orgs:
+- wto
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-06'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=DqU4Q3UxaaI
 status: evergreen
 ---
 ### 视频节目内容划分说明

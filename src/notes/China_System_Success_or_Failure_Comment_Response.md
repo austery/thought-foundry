@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 中国制度成功与否的评论回应——读评论！回应“E44自由派破防时代...”
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- 中国制度
+- 社会契约
+- 经济发展
+- 视频文稿
+- 评论回应
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 中国制度
-- 评论回应
-- 社会契约
-- 经济发展
-title: 中国制度成功与否的评论回应——读评论！回应“E44自由派破防时代...”
 ---
-
 ## 引言
 
 本期节目，我们将回应观众关于中国制度成功与否的诸多评论。

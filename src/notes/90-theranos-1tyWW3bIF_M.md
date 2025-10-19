@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1tyWW3bIF_M
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - theranos
-  - elizabeth-holmes
-  - tyler-shultz
-  - whistleblower
-  - silicon-valley-fraud
 title: 《坏血》第四期：90亿美金神话背后，豪门“叛逆者”如何揭露Theranos骗局？
 summary: Theranos估值达90亿，霍尔姆斯成全球偶像。前国务卿之孙泰勒·舒尔茨等吹哨人，揭露内部欺诈，誓戳破硅谷神话。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- elizabeth-holmes
+- silicon-valley-fraud
+- tyler-shultz
+- whistleblower
+people: []
+companies_orgs:
+- theranos
+products_models: []
+media_books: []
+date: '2025-09-20'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=1tyWW3bIF_M
 status: evergreen
 ---
 ### 悲剧废墟上的狂飙突进

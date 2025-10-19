@@ -1,26 +1,33 @@
 ---
-author: Lei
-date: 2025-10-01
-guest: Richard Sutton
-layout: post.njk
-source: https://www.youtube.com/watch?v=21EYKqUsPfg
-speaker: Dwarkesh Patel, Richard Sutton
-tags:
-- t-literature-note
-- richard-sutton
-- reinforcement-learning
-- large-language-models
-- ai-succession
-- the-bitter-lesson
 title: Richard Sutton on Reinforcement Learning, the Failures of LLMs, and AI Succession
-summary: A conversation with Richard Sutton, the father of reinforcement learning, discussing why he believes Large Language Models are a flawed approach to AI, the importance of learning from experience, the true meaning of "The Bitter Lesson," and his argument for the inevitability of AI succession.
-insight:
-file_name: sutton_on_rl_llms_and_ai_succession.md
-draft: true
-series:
-category:
-area:
+summary: A conversation with Richard Sutton, the father of reinforcement learning,
+  discussing why he believes Large Language Models are a flawed approach to AI, the
+  importance of learning from experience, the true meaning of "The Bitter Lesson,"
+  and his argument for the inevitability of AI succession.
+area: tech-insights
+category: technology
 project:
+- ai-impact-analysis
+tags:
+- ai-succession
+- large-language-models
+- reinforcement-learning
+- richard-sutton
+- the-bitter-lesson
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-01
+author: Lei
+speaker: Dwarkesh Patel, Richard Sutton
+draft: true
+file_name: sutton_on_rl_llms_and_ai_succession.md
+guest: Richard Sutton
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=21EYKqUsPfg
 status: evergreen
 ---
 ## Introduction

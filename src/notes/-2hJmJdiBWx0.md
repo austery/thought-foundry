@@ -1,26 +1,29 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=2hJmJdiBWx0
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - supreme-court
-  - conversion-therapy
-  - free-speech
-  - judicial-review
-  - cultural-war
 title: 美国最高法院新会期：转化疗法案与言论自由的文化战争
 summary: 美国最高法院新会期开审，首批案件之一是关于禁止转化疗法的禁令。本文深入探讨了该案的口头辩论，聚焦言论自由与医疗实践、科学共识与司法审查的复杂交锋。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- conversion-therapy
+- cultural-war
+- free-speech
+- judicial-review
+- new-york-times-podcasts
+- supreme-court
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-09'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=2hJmJdiBWx0
 status: evergreen
 ---
 ### 最高法院新会期开幕：聚焦总统权力与文化战争

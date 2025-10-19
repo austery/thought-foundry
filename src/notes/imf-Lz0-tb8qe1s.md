@@ -1,26 +1,32 @@
 ---
-author: LT視界
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Lz0-tb8qe1s
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - global-economy
-  - cryptocurrency-crash
-  - us-china-trade-war
-  - geopolitics
-  - china-real-estate
 title: 国际经济与地缘政治：IMF上调预期、加密货币暴跌与中美贸易战新动向
 summary: 本文分析了国际货币基金组织对全球经济的最新预测、美联储主席鲍威尔的经济风险提示、加密货币市场因关税消息的剧烈波动，以及中东和平协议的复杂后续。同时，探讨了印度与美国的贸易谈判、非洲终身领导人的危害，并深入剖析了中国房地产危机、胡锡进对言论管制的罕见不满，以及中美贸易战的最新升级与潜在缓和迹象。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- china-real-estate
+- cryptocurrency-crash
+- geopolitics
+- global-economy
+- us-china-trade-war
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Lz0-tb8qe1s
 status: evergreen
 ---
 ### 财经头条：全球经济预测、美联储动向与加密货币震荡

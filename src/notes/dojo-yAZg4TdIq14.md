@@ -1,25 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-08-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yAZg4TdIq14
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - tesla-ai
-  - dojo-supercomputer
-  - ai-chips
-  - autonomous-driving
-  - elon-musk
 title: 特斯拉Dojo超算团队解散：技术瓶颈、财务压力与战略重塑
 summary: 特斯拉Dojo超级计算机团队解散，主要原因在于技术路线冲突、长期研发停滞、高昂的财务支出以及英伟达Cortex集群的崛起。此举引发了核心人才流失与特斯拉AI业务的权力重组，标志着其AI战略正从自研超算转向集中化管理与商用解决方案。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- ai-chips
+- autonomous-driving
+- dojo-supercomputer
+- elon-musk
+- tesla-ai
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-20'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=yAZg4TdIq14
 status: evergreen
 ---
 ### 特斯拉Dojo超算团队解散始末

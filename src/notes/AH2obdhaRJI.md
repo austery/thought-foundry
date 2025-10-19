@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-05-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=AH2obdhaRJI
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - investment-outlook
-  - macroeconomics
-  - stock-market
-  - federal-reserve
-  - bitcoin
 title: 2025年投资展望：机构与KOL观点深度解析及个人策略
 summary: 本文分析摩根大通、贝莱德、BCA及KOL对2025年宏观经济、劳动力市场、通胀、美联储政策及股市的预测，并分享作者的投资策略与风险考量。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- federal-reserve
+- investment-outlook
+- macroeconomics
+- stock-market
+people: []
+companies_orgs: []
+products_models:
+- bitcoin
+media_books:
+- talk
+date: '2025-05-11'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=AH2obdhaRJI
 status: evergreen
 ---
 ### 引言：2025年市场展望概述

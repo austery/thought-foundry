@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 宇宙为何会有观察者
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 人择原理
+- 哲学
+- 宇宙论
+- 玻尔兹曼大脑
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 宇宙论
-- 人择原理
-- 玻尔兹曼大脑
-- 哲学
-title: 宇宙为何会有观察者
 ---
-
 ## 引言
 
 本篇探讨一个深邃的哲学与科学问题：宇宙为何会有观察者？这个问题看似简单，实则涉及物理学、宇宙学与哲学的交叉领域。宇宙本可以是一个荒凉、无人观察的世界，但它却演化出了人类这样能够观察并试图理解其奥秘的智慧生命。本文将从宇宙微调现象入手，介绍人择原理（Anthropic

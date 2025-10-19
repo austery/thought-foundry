@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qf8u9Qguv3k
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - rick-caruso
-  - california-wildfires
-  - los-angeles-politics
-  - hollywood-film-industry
-  - public-service
 title: 亿万富翁卡鲁索：加州野火后的复苏与好莱坞的未来
 summary: 房地产大亨里克·卡鲁索探讨加州野火后的复苏，批评政府应对不力，并分享他对领导力、公共服务以及如何重振好莱坞电影产业的看法。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- california-wildfires
+- hollywood-film-industry
+- los-angeles-politics
+- public-service
+- rick-caruso
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=qf8u9Qguv3k
 status: evergreen
 ---
 ### 彭博社介绍与市长巴斯的回应

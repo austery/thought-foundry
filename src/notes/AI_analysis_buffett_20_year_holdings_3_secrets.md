@@ -1,25 +1,33 @@
 ---
-author: Lei
-channel: null
+title: 用AI深扒巴菲特20年持仓，Gemini挖出了3个教科书上没有的秘密！
+summary: 通过AI分析巴菲特过去20年的13F持仓数据，揭示了其在永恒持仓、护城河认知和集中投资策略上的三个反直觉的秘密。
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- ai投资分析
+- 价值投资
+- 投资
+- 视频文稿
+people:
+- 巴菲特
+companies_orgs: []
+products_models: []
+media_books: []
 date: 2025-07-27
+author: Lei
+speaker: AI老司机
+channel: null
+draft: true
+file_name: AI_analysis_buffett_20_year_holdings_3_secrets.md
 guest: null
 insight: 这种思路很赞！我准备用这种方法分析一下其它的投资大师看看他们的思路是怎么样的。这样就不用只见树木，不见林了。
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=wt7Df8Y6jKw&t
-speaker: AI老司机
-summary: 通过AI分析巴菲特过去20年的13F持仓数据，揭示了其在永恒持仓、护城河认知和集中投资策略上的三个反直觉的秘密。
-tags:
-- 视频文稿
-- 巴菲特
-- AI投资分析
-- 价值投资
-- 投资
-title: 用AI深扒巴菲特20年持仓，Gemini挖出了3个教科书上没有的秘密！
-file_name: AI_analysis_buffett_20_year_holdings_3_secrets.md
-draft: true
 ---
-
 有没有想过，如果让当今最强的AI工具，比如Google的AI studio，去复盘投资界的神——沃伦·巴菲特过去20年的每一次出手，AI会发现什么我们普通人看不到的秘密？他会告诉我们，巴菲特只是运气好，还是真的有数据可以证明的神级操作？
 
 这期视频我就干了这么一件事：我把巴菲特过去20年的持仓数据，一字不漏地喂给AI studio。相信我，AI的发现绝对会颠覆你对价值投资的某些认知。

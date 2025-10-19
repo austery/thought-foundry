@@ -1,26 +1,28 @@
 ---
-author: EO
-date: '2025-09-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=al8nDmjVzxo
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - startup-advice
-  - leadership-philosophy
-  - fintech
-  - team-building
-  - personal-efficiency
 title: 22亿美元公司创始人的创业忠告与成功哲学
 summary: Sadi Khan分享创业忠告、AAN使命、团队建设、产品开发、领导力及个人生活哲学。
-insight: ''
+area: tech-insights
+category: technology
+project: []
+tags:
+- fintech
+- leadership-philosophy
+- personal-efficiency
+- startup-advice
+- team-building
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-09'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=al8nDmjVzxo
 status: evergreen
 ---
 ### 创业忠告：极度坚定的信念

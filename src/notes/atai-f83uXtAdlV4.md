@@ -1,26 +1,32 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=f83uXtAdlV4
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - stock-market
-  - earnings-report
-  - financial-services
-  - artificial-intelligence
-  - biopharmaceutical
 title: 股市异动：富国银行、沃尔玛及Atai生命科学深度解析
 summary: 本报告分析近期股市异动：富国银行因盈利指标提升及资产上限解除而上涨；沃尔玛与OpenAI合作，股价飙升；Atai生命科学因精神健康药物前景受关注而大涨。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- artificial-intelligence
+- biopharmaceutical
+- bloomberg-podcasts
+- earnings-report
+- financial-services
+- stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=f83uXtAdlV4
 status: evergreen
 ---
 ### 股市异动报告概述

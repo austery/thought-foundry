@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FrAf6E9XsjI
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - trump-campaign
-  - harris-campaign
-  - us-election-2024
-  - political-strategy
-  - debate-performance
 title: 2024年大选：特朗普与哈里斯竞选团队的权力游戏、偏执与“毁灭性”一击
 summary: 本文深入剖析2024年大选前夕，特朗普与哈里斯竞选团队的内部运作与外部挑战。从特朗普团队的权力游戏、辩论策略，到哈里斯的身份危机、应对失策，以及双方如何深陷各自的偏执与脱节，最终呈现一场充满戏剧性的选战。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- debate-performance
+- harris-campaign
+- political-strategy
+- trump-campaign
+- us-election-2024
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=FrAf6E9XsjI
 status: evergreen
 ---
 ### 特朗普竞选团队的权力游戏与内讧

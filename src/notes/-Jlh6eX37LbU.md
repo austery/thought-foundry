@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Jlh6eX37LbU
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - 法国政治
-  - 马克龙
-  - 债券市场
-  - 欧洲经济
-  - 选举
 title: 法国危机加剧：政治动荡与市场担忧
 summary: 法国正面临深度政治危机，与意大利债券息差扩大，市场对潜在的财政和政治风险表示担忧。分析指出，此次危机根源于政治而非财政， Elections 的不确定性加剧了市场波动。
-insight: ''
+area: market-analysis
+category: finance
+project: []
+tags:
+- bloomberg-podcasts
+- 债券市场
+- 欧洲经济
+- 法国政治
+- 选举
+- 马克龙
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Jlh6eX37LbU
 status: evergreen
 ---
 ### 法国政治动荡与政治人物的未来

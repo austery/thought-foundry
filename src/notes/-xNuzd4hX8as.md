@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2025-02-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=xNuzd4hX8as
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - life-transition
-  - die-with-zero
-  - digital-nomad
-  - family-reunion
-  - personal-growth
 title: 逃离加拿大：我选择亚洲，兑现自我人生
 summary: Ray分享了离开加拿大、搬到马来西亚吉隆坡的深层原因，包括摆脱生活困境、受“Die with Zero”理念启发，以及重新与家人建立连接的旅程。他强调“兑现”人生，并计划未来在亚洲和世界各地旅居。
-insight: ''
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- die-with-zero
+- digital-nomad
+- family-reunion
+- life-transition
+- personal-growth
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-02-23'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=xNuzd4hX8as
 status: evergreen
 ---
 ### 告别加拿大，开启亚洲新篇章

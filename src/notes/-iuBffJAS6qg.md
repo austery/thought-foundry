@@ -1,26 +1,29 @@
 ---
-author: 郭里有范
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iuBffJAS6qg
-speaker: 郭里有范
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - brics
-  - de-dollarization
-  - india
-  - tariffs
 title: 金砖支付加速：印度的转变与美元霸权的松动
 summary: 文章探讨了金砖国家去美元化的进程，分析了印度在此过程中的角色转变，以及美国关税政策如何意外促成了金砖支付系统的加速发展，并对金砖组织的未来潜力进行了展望。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- ''
+- brics
+- de-dollarization
+- india
+- t-literature-note
+- tariffs
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 郭里有范
+speaker: 郭里有范
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=iuBffJAS6qg
 status: evergreen
 ---
 ### 川普对金砖国家的警惕与哈萨克斯坦的谨慎态度

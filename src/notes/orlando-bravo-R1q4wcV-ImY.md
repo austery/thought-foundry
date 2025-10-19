@@ -1,26 +1,31 @@
 ---
-author: All-In Podcast
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=R1q4wcV-ImY
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - private-equity
-  - toma-bravo
-  - software-as-a-service
-  - business-strategy
-  - leadership
 title: Orlando Bravo的私募股权策略：如何打造顶尖公司
 summary: Toma Bravo创始人Orlando Bravo分享了公司从早期发展到成为行业巨头的历程，探讨了私募股权在经济中的作用、如何识别和改造科技公司，以及对AI时代挑战和波多黎各州地位的看法。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- entrepreneurship
+- vibe-coding
+tags:
+- all-in-podcast
+- business-strategy
+- leadership
+- private-equity
+- software-as-a-service
+- toma-bravo
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=R1q4wcV-ImY
 status: evergreen
 ---
 ### Toma Bravo的崛起与Orlando Bravo的个人故事

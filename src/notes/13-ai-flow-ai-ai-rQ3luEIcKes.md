@@ -1,26 +1,30 @@
 ---
-author: EO
-date: '2025-07-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=rQ3luEIcKes
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - ai-agent
-  - teenage-entrepreneur
-  - flow-ai
-  - artificial-intelligence
-  - startup-challenges
 title: 13岁少年课后打造通用AI智能体Flow AI：从学生视角看AI的机遇与挑战
-summary: 一位13岁的少年Michael Goldstein讲述了他如何利用课余时间开发通用AI智能体Flow AI的故事。他分享了AI在学校的普及、Flow AI的功能、创业过程中的挑战与机遇，以及对AI未来发展的展望。
-insight: ''
+summary: 一位13岁的少年Michael Goldstein讲述了他如何利用课余时间开发通用AI智能体Flow AI的故事。他分享了AI在学校的普及、Flow
+  AI的功能、创业过程中的挑战与机遇，以及对AI未来发展的展望。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-agent
+- artificial-intelligence
+- flow-ai
+- startup-challenges
+- teenage-entrepreneur
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-12'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=rQ3luEIcKes
 status: evergreen
 ---
 ### AI与我的灵感来源

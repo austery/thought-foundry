@@ -1,24 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5tTRlAostlw
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - kamala-harris
-  - democratic-party-politics
-  - us-presidential-election
-  - political-memoir
 title: 《107天》：卡马拉·哈里斯的复仇宣言与民主党内战的序幕
 summary: 卡马拉·哈里斯的回忆录《107天》揭示了她在拜登政府下的压抑四年、2024年退选的“甩锅”真相，以及她针对民主党同僚的“焦土策略”，旨在重塑人设，剑指2028年大选。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- democratic-party-politics
+- kamala-harris
+- political-memoir
+- us-presidential-election
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-30'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5tTRlAostlw
 status: evergreen
 ---
 ### 引言：哈里斯新书引爆民主党内战

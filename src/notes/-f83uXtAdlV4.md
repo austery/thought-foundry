@@ -1,26 +1,32 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=f83uXtAdlV4
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - stock-movers
-  - earnings-report
-  - ai-collaboration
-  - pharmaceuticals
-  - market-analysis
 title: 股市异动：富国银行、沃尔玛与阿泰生命科学的涨跌分析
 summary: 本期《股票异动报告》聚焦富国银行、沃尔玛和阿泰生命科学等公司，分析其股价波动背后的财报、合作与政策因素。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-collaboration
+- bloomberg-podcasts
+- earnings-report
+- market-analysis
+- pharmaceuticals
+- stock-movers
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=f83uXtAdlV4
 status: evergreen
 ---
 ### 股市异动报告：引言

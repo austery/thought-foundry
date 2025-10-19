@@ -1,26 +1,31 @@
 ---
-author: Peter Santenello
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yvNO0QDwq1A
-speaker: Peter Santenello
-tags:
-  - t-literature-note
-  - peter-santenello
-  - corruption
-  - New York City
-  - history
-  - government
-  - finance
 title: 纽约市的腐败：历史、演变与现代挑战
 summary: 本视频深入探讨了纽约市的腐败问题，从19世纪的Boss Tweed时代，到20世纪的警局腐败，再到现代的政府承包与住房政策。视频强调腐败的持续性和演变，以及纽约为应对挑战所做的努力。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- historical-insights
+- investment-strategy
+tags:
+- corruption
+- finance
+- government
+- history
+- new-york-city
+- peter-santenello
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Peter Santenello
+speaker: Peter Santenello
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=yvNO0QDwq1A
 status: evergreen
 ---
 ### 纽约的诞生：腐败与进步的交织

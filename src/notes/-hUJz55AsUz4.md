@@ -1,26 +1,32 @@
 ---
-author: Bg2 Pod
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=hUJz55AsUz4
-speaker: Bg2 Pod
-tags:
-  - t-literature-note
-  - bg2-pod
-  - 中国科技
-  - 中美竞争
-  - 风险投资
-  - 创新文化
-  - 政策改革
 title: 深度解析中国科技崛起的驱动力：创业文化、竞争格局与全球影响
 summary: 本期播客探讨了中国在技术领域的快速崛起，重点分析了中国创业者和VC对西方的深入研究，以及中国在电动汽车、AI等关键行业的创新水平。嘉宾强调了理解中国竞争力的重要性，并讨论了中美关系背景下竞争、脱钩与合作的复杂性。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- cultural-critique
+- investment-strategy
+tags:
+- bg2-pod
+- 中国科技
+- 中美竞争
+- 创新文化
+- 政策改革
+- 风险投资
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-06'
+author: Bg2 Pod
+speaker: Bg2 Pod
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=hUJz55AsUz4
 status: evergreen
 ---
 ### 对中国学习态度的观察

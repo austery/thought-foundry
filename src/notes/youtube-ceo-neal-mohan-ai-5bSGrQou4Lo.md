@@ -1,26 +1,31 @@
 ---
-author: All-In Podcast
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5bSGrQou4Lo
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - youtube
-  - creator-economy
-  - ai-content
-  - content-moderation
-  - streaming-platform
 title: YouTube CEO Neal Mohan谈AI、审查与创作者的未来
-summary: YouTube CEO Neal Mohan深入探讨了平台在全球创作者经济中的核心地位、对AI生成内容的政策、在内容审查方面的立场，以及YouTube TV、Premium等创新产品对其未来发展的战略意义。
-insight: ''
+summary: YouTube CEO Neal Mohan深入探讨了平台在全球创作者经济中的核心地位、对AI生成内容的政策、在内容审查方面的立场，以及YouTube
+  TV、Premium等创新产品对其未来发展的战略意义。
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+tags:
+- ai-content
+- all-in-podcast
+- content-moderation
+- creator-economy
+- streaming-platform
+people: []
+companies_orgs:
+- youtube
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5bSGrQou4Lo
 status: evergreen
 ---
 ### 开场致辞与YouTube的地位

@@ -1,28 +1,33 @@
 ---
-author: Lei
-date: 2025-09-11
-guest:
-layout: post.njk
-source: https://www.youtube.com/watch?v=J31TiOvG3bI
-speaker: 大宋佬
+title: The Inevitable Bankruptcy of the White-Collar Middle Class
+summary: A comparative analysis of the crisis facing the white-collar middle class
+  globally and in China, exploring the impacts of AI, economic shifts, and investment
+  environments, and predicting their future prospects.
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
 tags:
-- t-literature-note
-- middle-class-crisis
 - artificial-intelligence
 - economic-outlook
+- middle-class-crisis
 - social-commentary
-title: The Inevitable Bankruptcy of the White-Collar Middle Class
-summary: A comparative analysis of the crisis facing the white-collar middle class globally and in China, exploring the impacts of AI, economic shifts, and investment environments, and predicting their future prospects.
-insight:
-file_name: the_inevitable_bankruptcy_of_the_white_collar_middle_class.md
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-11
+author: Lei
+speaker: 大宋佬
 draft: true
-series:
-category:
-area:
-project:
+file_name: the_inevitable_bankruptcy_of_the_white_collar_middle_class.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=J31TiOvG3bI
 status: evergreen
 ---
-
 今天我們來談談白領中產的問題。這個問題分成兩部分來說：第一是全球普遍的情況，第二是中國特殊的情況。
 
 ### 全球白領中產的普遍困境

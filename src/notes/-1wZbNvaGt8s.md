@@ -1,26 +1,30 @@
 ---
-author: 郭里有范
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1wZbNvaGt8s
-speaker: 郭里有范
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - maritime-dispute
-  - exclusive-economic-zone
-  - international-law
-  - geopolitics
 title: 黄海深海养殖场争议：中韩专属经济区划界的复杂博弈
 summary: 本文深入剖析中国在黄海建设深海养殖场引发韩国强烈抗议的深层原因，探讨中韩专属经济区划界的历史渊源、法律争议及地缘政治影响，并分析未来可能的发展走向。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- geopolitics-watch
+tags:
+- ''
+- exclusive-economic-zone
+- geopolitics
+- international-law
+- maritime-dispute
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 郭里有范
+speaker: 郭里有范
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=1wZbNvaGt8s
 status: evergreen
 ---
 ### 韩国的激烈反应：深海养殖场引发的全国抗议

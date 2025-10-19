@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=NkcomyxX6Yc
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - peter-thiel
-  - gawker
-  - legal-battle
-  - revenge
-  - media-ethics
 title: 硅谷之王的复仇暗战：彼得·蒂尔如何将绝境逆转为绝杀？
 summary: 本文深入探讨了彼得·蒂尔对Gawker的复仇行动，从早期法律挫败到FBI钓鱼失败，再到佛罗里达州法院的转机。文章揭示了Gawker因傲慢和认知失误，在不对称战争中一步步走向毁灭的过程。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- gawker
+- legal-battle
+- media-ethics
+- peter-thiel
+- revenge
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-13'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=NkcomyxX6Yc
 status: evergreen
 ---
 ### 复仇之战的意外开局

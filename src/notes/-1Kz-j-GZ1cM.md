@@ -1,25 +1,30 @@
 ---
-author: 禁書筆記
-date: '2025-09-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1Kz-j-GZ1cM
-speaker: 禁書筆記
-tags:
-  - t-literature-note
-  - ko-wen-je
-  - tiberius-gracchus
-  - taiwan-politics
-  - political-persecution
-  - roman-republic
 title: 柯文哲与格拉古：跨越两千年的政治素人悲歌
 summary: 本文对比台湾政治人物柯文哲与古罗马保民官格拉古的经历，探讨政治素人挑战既得利益集团时面临的困境与可能的结局，揭示台湾政治生态中的“司法迫害”现象。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- ko-wen-je
+- political-persecution
+- roman-republic
+- taiwan-politics
+- tiberius-gracchus
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-12'
+author: 禁書筆記
+speaker: 禁書筆記
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=1Kz-j-GZ1cM
 status: evergreen
 ---
 ### 政治素人的跨时空共鸣

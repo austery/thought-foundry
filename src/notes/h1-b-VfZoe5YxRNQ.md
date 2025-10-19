@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=VfZoe5YxRNQ
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - h1-b-visa
-  - immigration-policy
-  - us-politics
-  - trump-administration
-  - national-competitiveness
 title: H1-B签证剧变：一场政治豪赌与美国未来之忧
 summary: 特朗普政府提出H1-B签证10万美元申请费新政，引发全球恐慌与混乱。本文深入分析该政策的真正意图，揭示其对美国科技竞争力、医疗系统及人才吸引力的潜在伤害，并指出其本质是一场为短期政治利益服务的政治表演。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- h1-b-visa
+- immigration-policy
+- national-competitiveness
+- trump-administration
+- us-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-22'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=VfZoe5YxRNQ
 status: evergreen
 ---
 ### H1-B签证风暴：天价申请费引发的混乱

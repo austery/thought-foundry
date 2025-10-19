@@ -1,25 +1,28 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-08-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Lh1L1jubm_U
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - byzantine-empire
-  - digenes-akritas
-  - medieval-literature
-  - christianity-vs-islam
 title: 混血英雄的信仰与罪恶：解读拜占庭史诗《狄吉尼斯·阿克里特》
 summary: 深入解读拜占庭史诗《狄吉尼斯·阿克里特》，分析其在基督教与伊斯兰教冲突背景下，如何用中世纪价值观扭曲古希腊英雄传说，展现主角充满矛盾的信仰与罪恶。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- byzantine-empire
+- christianity-vs-islam
+- digenes-akritas
+- medieval-literature
+- stella-an
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-02'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Lh1L1jubm_U
 status: evergreen
 ---
 ### 重返中世纪：拜占庭史诗《狄吉尼斯·阿克里特》

@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-08-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=SdBCdSbMNtQ
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-housing-market
-  - canada-housing-market
-  - fed-independence
-  - immigration-policy
-  - economic-outlook
 title: 美加楼市深度剖析：川普、美联储独立性与移民政策如何塑造房价未来
 summary: 本期深入分析美加楼市现状与未来趋势。探讨川普与美联储独立性争议，以及移民政策对加拿大房价的关键影响，并对比两国房价增速与消费者信贷健康状况。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- canada-housing-market
+- economic-outlook
+- fed-independence
+- immigration-policy
+- us-housing-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-27'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=SdBCdSbMNtQ
 status: evergreen
 ---
 ### 市场概览与银行板块表现

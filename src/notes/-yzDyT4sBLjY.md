@@ -1,26 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-09-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yzDyT4sBLjY
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - cosmology
-  - philosophy-of-science
-  - humanism
-  - harald-lesch
-  - meaning-of-life
 title: 宇宙的冷漠与生命的意义：在科学认知中重塑人文价值
 summary: 本文探讨了科学进步带来的哲学困境，特别是“信息人”理论与人类主体性之间的冲突。通过德国物理学家哈拉尔德·莱施的著作，重新审视了生命的特殊性、人类在宇宙中的独特位置，并提出在承认宇宙不可知性的基础上，从科学视角重建人类价值的可能路径。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- cosmology
+- harald-lesch
+- humanism
+- meaning-of-life
+- philosophy-of-science
+- stella-an
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-27'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=yzDyT4sBLjY
 status: evergreen
 ---
 ### 科技神话与“信息人”的挑战

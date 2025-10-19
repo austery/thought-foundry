@@ -1,26 +1,31 @@
 ---
-author: The Knowledge Project Podcast
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=kGnBwjOzuSQ
-speaker: The Knowledge Project Podcast
-tags:
-  - t-literature-note
-  - the-knowledge-project-podcast
-  - warren-buffett
-  - berkshire-hathaway
-  - investment-strategy
-  - corporate-leadership
-  - business-turnaround
 title: 与巴菲特共事十年：Tracy Britt Cool 的投资与管理哲学
 summary: Tracy Britt Cool 分享与巴菲特共事、担任CEO及创立Camber的经验，探讨长期投资、人才管理与企业转型。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- entrepreneurship
+- investment-strategy
+tags:
+- berkshire-hathaway
+- business-turnaround
+- corporate-leadership
+- investment-strategy
+- the-knowledge-project-podcast
+- warren-buffett
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: The Knowledge Project Podcast
+speaker: The Knowledge Project Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=kGnBwjOzuSQ
 status: evergreen
 ---
 ### 嘉宾介绍与早期职业生涯

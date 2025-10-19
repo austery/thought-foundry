@@ -1,26 +1,30 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=BS-7Jf29G4U
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - gaza-conflict
-  - trump-administration
-  - us-politics
-  - environmental-policy
-  - fast-fashion
 title: 加沙未来、特朗普新政与全球挑战：多维新闻速览
 summary: 本期节目涵盖了加沙和平计划的复杂性、特朗普政府对住房市场、新闻自由及煤矿工人的影响，加州野火保险改革，以及快时尚品牌Shein在法国面临的抵制。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- environmental-policy
+- fast-fashion
+- gaza-conflict
+- new-york-times-podcasts
+- trump-administration
+- us-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=BS-7Jf29G4U
 status: evergreen
 ---
 ### 加沙停火后的胜利宣言与和平挑战

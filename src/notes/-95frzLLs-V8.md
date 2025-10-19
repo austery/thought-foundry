@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=95frzLLs-V8
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - grayzone-news
-  - bill-ackman
-  - charlie-kirk
-  - israel-lobby
-  - us-foreign-policy
 title: 「灰区」新闻网爆料：比尔·阿克曼曾就以色列问题向查理·柯克施压
 summary: 一篇「灰区新闻网」的独家报道揭露了亿万富翁比尔·阿克曼如何在一个月前对查理·柯克施压，要求其改变对以色列影响力的批评立场。文章还探讨了亲以色列游说集团的幕后操作及其对美国政治和媒体的渗透。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- bill-ackman
+- charlie-kirk
+- israel-lobby
+- us-foreign-policy
+people: []
+companies_orgs:
+- grayzone-news
+products_models: []
+media_books: []
+date: '2025-09-22'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=95frzLLs-V8
 status: evergreen
 ---
 ### 「灰区」新闻网的独家报道

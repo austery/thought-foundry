@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2023-01-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=4zXTyc2ZjXM
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - early-rising
-  - personal-development
-  - time-management
-  - productivity
-  - habit-formation
 title: 坚持早起一年：我搞懂了改变人生的真正秘密
 summary: 作者分享了自己坚持早起一年多的心得，揭示了早起改变人生的两大奥义：聚焦于“5-am project”而非早起本身，以及将早起视为与时间进行的“田忌赛马”。视频还提供了实用的早起技巧和项目建议。
-insight: ''
+area: personal-growth
+category: productivity
+project:
+- personal-growth-lab
+tags:
+- early-rising
+- habit-formation
+- personal-development
+- productivity
+- time-management
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2023-01-07'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=4zXTyc2ZjXM
 status: evergreen
 ---
 ### 早起实践的起点与核心发现

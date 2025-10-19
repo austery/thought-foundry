@@ -1,26 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-08-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6xH37JVBQnY
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - elena-ferrante
-  - the-lost-daughter
-  - motherhood
-  - female-identity
-  - societal-expectations
 title: 女性的母职困境与自我挣扎：《暗处的女儿》深度解析
 summary: 《暗处的女儿》深度解析女性母职、自我与社会期待的冲突，探讨如何平衡个人价值与社会角色。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- elena-ferrante
+- female-identity
+- motherhood
+- societal-expectations
+- stella-an
+- the-lost-daughter
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-23'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6xH37JVBQnY
 status: evergreen
 ---
 ### 埃莱娜·费兰特：神秘作家与母职探讨

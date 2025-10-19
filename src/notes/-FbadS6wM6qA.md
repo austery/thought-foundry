@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FbadS6wM6qA
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - middle-east-peace
-  - market-strategy
-  - housing-market
-  - energy-transition
-  - economic-outlook
 title: 彭博观察：中东和平、市场策略与房地产及能源展望
 summary: 本期彭博观察探讨了中东人质释放后的以色列情绪、特朗普和平计划的影响、美国市场走势、金融业财报前瞻、房地产可负担性挑战及消费者信心，并深入分析了能源转型中的机遇与挑战。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- bloomberg-podcasts
+- economic-outlook
+- energy-transition
+- housing-market
+- market-strategy
+- middle-east-peace
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=FbadS6wM6qA
 status: evergreen
 ---
 ### 以色列人质归来与中东和平前景

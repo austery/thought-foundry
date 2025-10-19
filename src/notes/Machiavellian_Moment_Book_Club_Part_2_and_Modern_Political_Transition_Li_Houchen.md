@@ -1,24 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 马基雅维里时刻与现代政治转型
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 共和制
+- 政治哲学
+- 政治转型
+- 新君主
+- 视频文稿
+- 马基雅维里时刻
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 李厚辰
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=li5mqxcSpfQ&t
-speaker: 李厚辰
-summary: null
-tags:
-- 视频文稿
-- 马基雅维里时刻
-- 政治转型
-- 新君主
-- 共和制
-- 政治哲学
-title: 马基雅维里时刻与现代政治转型
 ---
-
 ## 引言：从制度想象到现实困境
 
 非常感谢大家，因为这个第二期还能来这么些人，我也挺意外的。因为这种系列的讲座，肯定总是人数越来越少的，尤其是这个内容还很硬。

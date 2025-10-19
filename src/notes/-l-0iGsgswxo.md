@@ -1,25 +1,29 @@
 ---
-author: 禁書筆記
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=l-0iGsgswxo
-speaker: 禁書筆記
-tags:
-  - t-literature-note
-  - taiwan-politics
-  - cross-strait-relations
-  - decapitation-strike
-  - democracy-index
-  - constitutional-law
 title: 中共斩首行动的台湾政治逻辑：有效性与社会假设深度解析
 summary: 本文深入分析解放军对台“斩首行动”的理论无效性，并剖析中共支撑此行动的三个台湾社会政治假设：台湾趋向准威权、内部民意撕裂及权力交接法律断层。文章逐一审视这些假设的合理性，探讨台湾民主现状与潜在危机。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- constitutional-law
+- cross-strait-relations
+- decapitation-strike
+- democracy-index
+- taiwan-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: 禁書筆記
+speaker: 禁書筆記
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=l-0iGsgswxo
 status: evergreen
 ---
 ### 斩首行动的悖论：对民主政体是否有效？

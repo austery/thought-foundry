@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-10-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1YOo-LbXvW8
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - humanoid-robots
-  - robotics-challenges
-  - ai-development
-  - rodney-brooks
-  - tactile-feedback
 title: 人形机器人是幻想吗？机器人专家Rodney Brooks深度解析灵活性与安全性挑战
 summary: 机器人专家Rodney Brooks认为，当前人形机器人对灵活性和安全性的预测过于乐观。他指出，端到端学习成功依赖领域专属预处理，而人形机器人缺乏触觉数据处理能力。同时，双足行走的安全隐患也未解决。他呼吁行业回归基础研究，理性看待发展。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-development
+- humanoid-robots
+- robotics-challenges
+- rodney-brooks
+- tactile-feedback
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-18'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=1YOo-LbXvW8
 status: evergreen
 ---
 ### 人形机器人热潮下的冷静思考

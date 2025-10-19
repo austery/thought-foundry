@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=wxNniP5CKKk
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - chatgpt
-  - stephen-wolfram
-  - artificial-intelligence
-  - neural-networks
-  - computational-irreducibility
 title: Stephen Wolfram拆解ChatGPT本质：幻觉智能与文字接龙的奥秘
 summary: 基于Stephen Wolfram的著作，本文深入剖析ChatGPT的运作机制，揭示其“智能”实为强大文字接龙的幻觉。探讨AI成功要素、神经网络原理、词嵌入与注意力机制，并提出结合符号计算AI以克服其局限性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- computational-irreducibility
+- neural-networks
+- stephen-wolfram
+people: []
+companies_orgs: []
+products_models:
+- chatgpt
+media_books: []
+date: '2025-09-11'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=wxNniP5CKKk
 status: evergreen
 ---
 ### ChatGPT本质的深度解析

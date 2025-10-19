@@ -1,25 +1,32 @@
 ---
-author: Lei
-date: 2025-08-09
-guest: Terry
-layout: post.njk
-channel: 
-source: 
-speaker: 课代表
-tags:
-  - 视频文稿
-  - 投资认知
-  - 长期持有
-  - 比特币
-  - 风险管理
 title: 嘴上长期持有，身体追涨杀跌？投资认知如何建立？
 summary: 投资的核心在于建立深刻的“认知”，而非追逐市场热点。本期与Terry探讨了如何通过理解投资标的的核心价值，来克服FOMO情绪和市场噪音，实现真正的长期持有。内容涵盖了从比特币到特斯拉、NVIDIA的实例分析，并深入讨论了集中投资策略、加密货币的未来以及法币体系面临的挑战，为投资者提供了建立独立思考框架的宝贵见解。
-insight: 
-file_name: how_to_build_investment_cognition.md
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 投资认知
+- 比特币
+- 视频文稿
+- 长期持有
+- 风险管理
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-09
+author: Lei
+speaker: 课代表
+channel: null
 draft: true
-series: 
+file_name: how_to_build_investment_cognition.md
+guest: Terry
+insight: null
+layout: post.njk
+series: null
+source: null
 ---
-
 ## 开场与近期回顾
 
 课代表: hello Terry。

@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 第五课：写给青少年的父母（下）
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 夫妻关系
+- 婚姻关系
+- 宗教
+- 家庭生活
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-12'
+author: Lei
+speaker: 林静芝,李秀全
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=0_3-hCgQ36c
-speaker: 林静芝,李秀全
-summary: null
-tags:
-- 视频文稿
-- 婚姻关系
-- 家庭生活
-- 夫妻关系
-- 宗教
-title: 第五课：写给青少年的父母（下）
 ---
-
 ## 引言：回顾与本期焦点
 
 **林静芝师母:**

@@ -1,26 +1,31 @@
 ---
-author: 人民公园说AI
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CLLOqyokj-s
-speaker: 人民公园说AI
-tags:
-  - t-literature-note
-  - ai
-  - intel
-  - x86-architecture
-  - ai-ecosystem
-  - semiconductor-industry
-  - geopolitics
 title: 瓜分英特尔：X86生态的战略价值与全球AI格局演变
 summary: 围绕英特尔，美国政府、英伟达、软银等多方博弈，凸显X86生态战略价值，预示全球AI格局可能走向中美分立。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- geopolitics-watch
+tags:
+- ai
+- ai-ecosystem
+- geopolitics
+- semiconductor-industry
+- x86-architecture
+people: []
+companies_orgs:
+- intel
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: 人民公园说AI
+speaker: 人民公园说AI
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=CLLOqyokj-s
 status: evergreen
 ---
 ### 英特尔的命运：从辉煌到“人工呼吸”

@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2024-03-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=b8Bx2oNJWlI
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - artificial-intelligence
-  - lifelong-learning
-  - foundational-knowledge
-  - cross-disciplinary
-  - future-skills
 title: AI时代：如何成为超级学习者，掌握核心知识与跨领域能力
 summary: 在AI飞速发展的时代，本文探讨了如何成为超级学习者。强调回归基础知识、跨领域学习，并利用AI加速成长，以应对专业界限模糊的挑战。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- cross-disciplinary
+- foundational-knowledge
+- future-skills
+- lifelong-learning
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2024-03-17'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=b8Bx2oNJWlI
 status: evergreen
 ---
 ### 引言：AI加速进化下的学习焦虑

@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2025-09-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=__AdJYwKJEE
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - signal-and-noise
-  - mental-models
-  - decision-making
-  - personal-growth
-  - entrepreneurship
 title: 如何辨别人生中的信号与噪音？我的五个思维模型
 summary: 本文分享了五个思维模型，帮助你辨别信息洪流中的信号与噪音，从而做出更准确的判断和决策，包括1%法则、交易信号、长期趋势、能量筛选及直觉指引。
-insight: ''
+area: personal-growth
+category: psychology
+project:
+- entrepreneurship
+- personal-growth-lab
+tags:
+- decision-making
+- entrepreneurship
+- mental-models
+- personal-growth
+- signal-and-noise
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-27'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=__AdJYwKJEE
 status: evergreen
 ---
 ### 识别噪音：从争议视频到核心洞察

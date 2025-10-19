@@ -1,26 +1,30 @@
 ---
-author: 郭里有范
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=I_NXorc_oXM
-speaker: 郭里有范
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - myanmar-conflict
-  - china-foreign-policy
-  - mercenary-forces
-  - rare-earth-metals
 title: 中国在缅甸的秘密军事部署：雇佣兵、稀土与地缘政治博弈
 summary: 分析中国在缅甸内战中的角色转变，从支持地方武装到派遣军事力量，以及其在地缘政治、稀土资源和战略通道方面的深层利益考量。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- ''
+- china-foreign-policy
+- mercenary-forces
+- myanmar-conflict
+- rare-earth-metals
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 郭里有范
+speaker: 郭里有范
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=I_NXorc_oXM
 status: evergreen
 ---
 ### 缅甸的混乱局势与国际关注的缺席

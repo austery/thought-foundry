@@ -1,25 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 《Hidden Potential》读书会：探讨刻意练习、犯错与成长
+summary: 社群成员围绕《Hidden Potential》一书，分享了学习新技能、看待犯错、以及通过刻意练习和战略性休息突破瓶颈的个人经历与感悟。
+area: null
+category: null
+project: []
+tags:
+- 刻意练习
+- 学习技能
+- 成长心态
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- 读书会
 date: 2025-07-27
+author: Lei
+speaker: Zelira
+channel: null
+draft: true
+file_name: hidden_potential_book_club_practice_and_growth.md
 guest: Kathy, Ara 陶飛, 张敏, Ivan, Tracy, Winwin, Serena, George, Ruth
 insight: 获取别人的评价，打分和追问的方式是不是一个好的方法，但的确是一个新的思路。
 layout: post.njk
 series: Hidden Potential
 source: null
-speaker: Zelira
-summary: 社群成员围绕《Hidden Potential》一书，分享了学习新技能、看待犯错、以及通过刻意练习和战略性休息突破瓶颈的个人经历与感悟。
-tags:
-- 视频文稿
-- 刻意练习
-- 成长心态
-- 学习技能
-- 读书会
-title: 《Hidden Potential》读书会：探讨刻意练习、犯错与成长
-file_name: hidden_potential_book_club_practice_and_growth.md
-draft: true
 ---
-
 ## 开场与自我介绍
 
 Zelira: 大家好，我是Zelira，最近刚加入我们社群，负责的是读书会这个板块。瑞对我们读书会板块的期望是成为华人中最好的读书会，我觉得雄心壮志很棒，一定要努力达到这个期许。我现在是刚毕业，还在未来打算找工作的一个状态。我是24年5月加入我们社群的，还参加了两次线下的读书会，遇到了明姐和很多朋友，第一次还碰到瑞突袭，整个过程都很开心，大家一起读书也很开心。之前虽然尝试 5am club 失败了，但是好像是有一点影响的，就是我没有办法提到5点那么早，但是我8点是可以的，以前可能是10点。很开心能够加入我们的社群。

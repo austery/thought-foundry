@@ -1,115 +1,115 @@
 ---
-author: Adam's Axiom
-date: '2025-01-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=K3vagMJ4g1U
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - economic-theory
-  - investment-strategy
-  - market-psychology
-  - financial-crises
-  - wealth-inequality
 title: 经济与金融领域最具影响力的30本书籍
 summary: 本文深入探讨了经济与金融领域最具影响力的30本经典书籍，从亚当·斯密的《国富论》到瑞·达利欧的《原则》，涵盖了经济理论、投资策略、市场行为和金融危机等核心议题。通过逐一解析这些著作的革命性思想和深远影响，揭示了它们如何塑造了我们对市场、投资和人类经济行为的理解。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
+category: finance
 project:
-  - investment-strategy
-  - market-cycles
+- investment-strategy
+- market-cycles
+- personal-growth-lab
+tags:
+- adam-s-axiom
+- economic-theory
+- financial-crises
+- investment-strategy
+- market-psychology
+- wealth-inequality
 people:
-  - Adam Smith
-  - John Maynard Keynes
-  - John Von Neumann
-  - Oskar Morgenstern
-  - Milton Friedman
-  - Benjamin Graham
-  - Philip Fisher
-  - David Dodd
-  - Edwin Lefèvre
-  - Jesse Livermore
-  - Roger Lowenstein
-  - Nassim Taleb
-  - Michael Lewis
-  - Hyman Minsky
-  - Daniel Kahneman
-  - Robert Shiller
-  - George Akerlof
-  - John Hull
-  - George Soros
-  - Antti Ilmanen
-  - Howard Marks
-  - Hernando de Soto
-  - Robert Gordon
-  - Carmen Reinhart
-  - Kenneth Rogoff
-  - Jack Schwager
-  - Burton Malkiel
-  - Ray Dalio
-  - Thomas Piketty
-  - Richard Schonberger
-  - Tanzan Ishibashi
-  - Warren Buffett
-  - Jack Bogle
-  - Dr. Michael Burry
+- Adam Smith
+- Antti Ilmanen
+- Benjamin Graham
+- Burton Malkiel
+- Carmen Reinhart
+- Daniel Kahneman
+- David Dodd
+- Dr. Michael Burry
+- Edwin Lefèvre
+- George Akerlof
+- George Soros
+- Hernando de Soto
+- Howard Marks
+- Hyman Minsky
+- Jack Bogle
+- Jack Schwager
+- Jesse Livermore
+- John Hull
+- John Maynard Keynes
+- John Von Neumann
+- Kenneth Rogoff
+- Michael Lewis
+- Milton Friedman
+- Nassim Taleb
+- Oskar Morgenstern
+- Philip Fisher
+- Ray Dalio
+- Richard Schonberger
+- Robert Gordon
+- Robert Shiller
+- Roger Lowenstein
+- Tanzan Ishibashi
+- Thomas Piketty
+- Warren Buffett
 companies_orgs:
-  - Long-Term Capital Management
-  - Vanguard
-  - Bridgewater
-  - Toyota
-  - Sony
-  - Bank of England
+- Bank of England
+- Bridgewater
+- Long-Term Capital Management
+- Sony
+- Toyota
+- Vanguard
 products_models:
-  - Invisible Hand
-  - Game Theory
-  - Financial Instability Hypothesis
-  - System 1 and System 2
-  - Reflexivity
-  - Economic Machine
-  - R > G
-  - Scuttlebutt Method
-  - Black-Scholes Model
+- Black-Scholes Model
+- Economic Machine
+- Financial Instability Hypothesis
+- Game Theory
+- Invisible Hand
+- R > G
+- Reflexivity
+- Scuttlebutt Method
+- System 1 and System 2
 media_books:
-  - The Wealth of Nations
-  - The General Theory of Employment, Interest and Money
-  - Theory of Games and Economic Behavior
-  - Capitalism and Freedom
-  - The Intelligent Investor
-  - Common Stocks and Uncommon Profits
-  - Security Analysis
-  - Reminiscences of a Stock Operator
-  - When Genius Failed
-  - The Black Swan
-  - Flash Boys
-  - Stabilizing an Unstable Economy
-  - Thinking, Fast and Slow
-  - Irrational Exuberance
-  - Animal Spirits
-  - Technical Analysis of Financial Markets
-  - Market Wizards
-  - A Random Walk Down Wall Street
-  - The Big Short
-  - Principles
-  - Capital in the Twenty-First Century
-  - Japanese Management Techniques
-  - The Oriental Economist
-  - Options, Futures, and Other Derivatives
-  - The Alchemy of Finance
-  - Expected Returns
-  - The Most Important Thing
-  - The Mystery of Capital
-  - The Rise and Fall of American Growth
-  - This Time Is Different
-  - 'Money: The True Story of a Made-Up Thing'
-  - Liar's Poker
-  - The Psychology of Money
-  - Manias, Panics, and Crashes
+- A Random Walk Down Wall Street
+- Animal Spirits
+- Capital in the Twenty-First Century
+- Capitalism and Freedom
+- Common Stocks and Uncommon Profits
+- Expected Returns
+- Flash Boys
+- Irrational Exuberance
+- Japanese Management Techniques
+- Liar's Poker
+- Manias, Panics, and Crashes
+- Market Wizards
+- 'Money: The True Story of a Made-Up Thing'
+- Options, Futures, and Other Derivatives
+- Principles
+- Reminiscences of a Stock Operator
+- Security Analysis
+- Stabilizing an Unstable Economy
+- Technical Analysis of Financial Markets
+- The Alchemy of Finance
+- The Big Short
+- The Black Swan
+- The General Theory of Employment, Interest and Money
+- The Intelligent Investor
+- The Most Important Thing
+- The Mystery of Capital
+- The Oriental Economist
+- The Psychology of Money
+- The Rise and Fall of American Growth
+- The Wealth of Nations
+- Theory of Games and Economic Behavior
+- Thinking, Fast and Slow
+- This Time Is Different
+- When Genius Failed
+date: '2025-01-03'
+author: Adam's Axiom
+speaker: Adam's Axiom
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+series: ''
+source: https://www.youtube.com/watch?v=K3vagMJ4g1U
 status: evergreen
 ---
 ### 1. 《国富论》：亚当·斯密的经济学奠基之作

@@ -1,26 +1,31 @@
 ---
-author: 最佳拍档
-date: '2025-09-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=D8_HxaHGLGs
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - ai-agent-development
-  - software-engineering
-  - production-systems
-  - design-principles
-  - human-in-the-loop
 title: 12-Factor Agents：构建生产级AI Agent的十二个核心原则
 summary: 本文深入探讨12-Factor Agents的十二个设计原则，旨在弥补AI Agent从原型到生产级应用的鸿沟。这些原则将传统软件工程的最佳实践引入Agent开发，提升Agent在可靠性、可伸缩性、可维护性、可调试性和安全性上的企业级标准。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai-agent-development
+- best-partners-tv
+- design-principles
+- human-in-the-loop
+- production-systems
+- software-engineering
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-08'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=D8_HxaHGLGs
 status: evergreen
 ---
 ### 引言：从概念到落地的Agent挑战

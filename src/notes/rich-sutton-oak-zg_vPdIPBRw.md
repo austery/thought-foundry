@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=zg_vPdIPBRw
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - rich-sutton
-  - oak-architecture
-  - reinforcement-learning
-  - superintelligence
-  - ai-philosophy
 title: 强化学习之父Rich Sutton的宏大构想：OaK架构如何让超级智能从经验中涌现
 summary: 强化学习之父Rich Sutton提出OaK架构，批评大语言模型路径依赖，强调AI应通过运行时经验持续学习、建立世界模型、创造开放式抽象，以实现真正超级智能的涌现，并指出当前持续学习和新特征元学习的挑战。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-philosophy
+- oak-architecture
+- reinforcement-learning
+- rich-sutton
+- superintelligence
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-25'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=zg_vPdIPBRw
 status: evergreen
 ---
 ### 警世之言：AI发展方向的迷失与终极目标

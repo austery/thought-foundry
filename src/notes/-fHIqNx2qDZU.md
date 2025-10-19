@@ -1,29 +1,36 @@
 ---
-author: LT視界
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fHIqNx2qDZU
-speaker: LT視界
-tags:
-  - t-literature-note
-  - US-Economy
-  - China-US-Relations
-  - Rare-Earth
-  - Geopolitics
-  - Taiwan
-  - Japan-Politics
-  - Middle-East-Peace
-  - Nobel-Peace-Prize
-  - AI-Chips
 title: 全球焦点：稀土战升级、地缘政治动荡与经济前景展望
 summary: 本期节目深入解析全球热点事件，涵盖美国经济展望、诺贝尔和平奖、日本政局变动、中东和平进程，以及引发广泛关注的中国稀土出口管制对中美关系和全球经济的深远影响。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- ai-chips
+- china-us-relations
+- geopolitics
+- japan-politics
+- middle-east-peace
+- nobel-peace-prize
+- rare-earth
+- taiwan
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fHIqNx2qDZU
 status: evergreen
 ---
 ### 开篇致辞与经济头条概览

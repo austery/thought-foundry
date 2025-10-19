@@ -1,26 +1,29 @@
 ---
-author: a16z
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=nkmPNvAU49Q
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - ai-progress
-  - ai-capabilities
-  - job-displacement
-  - ai-safety
-  - multimodal-ai
 title: AI发展放缓了吗？Nathan Labenz：我们问错了问题
 summary: Nathan Labenz深入探讨AI发展现状，反驳AI放缓论，分析其对就业、社会的影响，并强调非语言模型和多模态AI的巨大潜力。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-capabilities
+- ai-progress
+- ai-safety
+- job-displacement
+- multimodal-ai
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=nkmPNvAU49Q
 status: evergreen
 ---
 ### 引言：AI的本质与未来展望

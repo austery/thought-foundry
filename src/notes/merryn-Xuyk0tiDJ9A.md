@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Xuyk0tiDJ9A
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - activist-investing
-  - value-investing
-  - japan-market
-  - korea-market
-  - private-equity
 title: 从东京到首尔：如何发现并激活价值 | Merryn谈钱
 summary: 本期节目探讨了激进投资策略，以及如何在全球市场，特别是日本和韩国，发现并激活被低估的资产价值。嘉宾分享了其独特的自下而上投资方法、在不同市场中的经验，并展望了未来的机会。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- activist-investing
+- bloomberg-podcasts
+- japan-market
+- korea-market
+- private-equity
+- value-investing
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Xuyk0tiDJ9A
 status: evergreen
 ---
 ### 介绍：激进投资的复苏

@@ -1,28 +1,31 @@
 ---
-author: Lei
-date: 2025-09-01
-guest: 老隐, 索隆
-layout: post.njk
-source: 
-speaker: 陆飞
-tags:
-  - t-literature-note
-  - ai-bubble
-  - gpt-5
-  - large-language-model
-  - agi
 title: AI泡沫破灭：聊聊GPT-5的失望与行业的未来
 summary: 探讨AI泡沫破灭的现状，聚焦于GPT-5相较于前代版本令人失望的表现和日益严重的“幻觉”问题。对话深入分析了AI研发的巨额成本、通用人工智能（AGI）的夸大宣传与现实的差距，并展望了行业未来可能转向专用AI模型的发展趋势。
-insight: 
-file_name: ai_bubble_bursts_gpt5_disappointment.md
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- agi
+- ai-bubble
+- large-language-model
+people: []
+companies_orgs: []
+products_models:
+- gpt-5
+media_books: []
+date: 2025-09-01
+author: Lei
+speaker: 陆飞
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: ai_bubble_bursts_gpt5_disappointment.md
+guest: 老隐, 索隆
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ## GPT-5的初体验与失望
 
 陆飞: 好的，我们直播开始了。今天我们的主题，就像标题上说的，“AI泡沫破灭了？聊聊ChatGPT-5”。我不知道老隐，你和索隆两个人，有没有经常用这个最新的GPT？

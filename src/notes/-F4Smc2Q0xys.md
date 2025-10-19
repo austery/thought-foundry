@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2024-01-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=F4Smc2Q0xys
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - stock-selling-strategy
-  - investment-philosophy
-  - personal-finance
-  - long-term-investing
-  - regret-minimization
 title: 何时卖出股票：我的经历与三大思维模型
 summary: 本文结合个人九年股市经验，探讨何时卖出股票的难题。分享了三个核心思维模型：卖出原因匹配买入逻辑、最小化后悔原则，以及场外大于场内的人生财务观，旨在帮助投资者建立清晰的卖出决策框架。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- investment-philosophy
+- long-term-investing
+- personal-finance
+- regret-minimization
+- stock-selling-strategy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2024-01-20'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=F4Smc2Q0xys
 status: evergreen
 ---
 ### 引言：卖出股票的困惑与巴菲特的智慧

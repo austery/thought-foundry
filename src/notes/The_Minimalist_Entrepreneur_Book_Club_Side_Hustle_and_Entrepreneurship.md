@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 《小而美》读书会：关于副业与创业的思考与实践
+summary: null
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 个人成长
+- 小而美
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- 读书会
 date: '2025-07-10'
+author: Lei
+speaker: Vivian,Simon,Ge Su,路遥,金玲,Chelsea,翻新,Fancy
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Vivian,Simon,Ge Su,路遥,金玲,Chelsea,翻新,Fancy
-summary: null
-tags:
-- 视频文稿
-- 小而美
-- 读书会
-- 个人成长
-title: 《小而美》读书会：关于副业与创业的思考与实践
 ---
-
 **主题书籍：**《The Minimalist Entrepreneur》（小而美：持续盈利的经营法则）
 
 ## 讲述者简介

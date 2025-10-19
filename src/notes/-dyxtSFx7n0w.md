@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dyxtSFx7n0w
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - earnings-season
-  - nikkei-index
-  - fiscal-stimulus
-  - coca-cola-fcf
 title: 日经暴涨、美股展望与可口可乐现金流：深度解析市场信号与财报季
 summary: 本期节目深入分析近期市场动态，包括日经指数上涨、潜在的美国财政刺激。节目展望了即将到来的第三季度财报季，并探究可口可乐自由现金流转负的背后原因，揭示市场情绪与基本面差异，强调稳健投资策略的重要性。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- coca-cola-fcf
+- earnings-season
+- fiscal-stimulus
+- market-analysis
+- nikkei-index
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-10-06'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=dyxtSFx7n0w
 status: evergreen
 ---
 ### 市场回顾与本期焦点

@@ -1,26 +1,30 @@
 ---
-author: a16z
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=gfhV8gAl3eY
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - opendoor
-  - real-estate
-  - proptech
-  - marketplaces
-  - amazon-model
 title: Opendoor CEO：构建“房屋界的亚马逊”——重塑房地产市场
 summary: Opendoor CEO与a16z投资者深入探讨公司使命、房地产市场痛点，及其如何通过软件驱动的亚马逊模式重塑房屋交易，并应对行业挑战。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- investment-strategy
+- market-cycles
+tags:
+- amazon-model
+- marketplaces
+- proptech
+- real-estate
+people: []
+companies_orgs:
+- opendoor
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=gfhV8gAl3eY
 status: evergreen
 ---
 ### 上市公司的挑战与新任CEO的愿景

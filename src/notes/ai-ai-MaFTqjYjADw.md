@@ -1,26 +1,30 @@
 ---
-author: Internet of Bugs
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=MaFTqjYjADw
-speaker: Internet of Bugs
-tags:
-  - t-literature-note
-  - internet-of-bugs
-  - ai-doomerism
-  - ai-safety
-  - ai-accountability
-  - technological-risk
-  - misinformation
 title: AI末日论的谬误：我们面临的真正AI风险与问责制
 summary: 本文驳斥了AI末日论，认为其分散了对AI当前造成的真实危害的注意力。作者强调AI的电力依赖是其弱点，并批判行业将AI拟人化以逃避责任。呼吁关注AI引发的虚假信息、错误判决等即时风险，并通过追究个人和公司的法律责任来解决问题。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-accountability
+- ai-doomerism
+- ai-safety
+- internet-of-bugs
+- misinformation
+- technological-risk
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Internet of Bugs
+speaker: Internet of Bugs
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=MaFTqjYjADw
 status: evergreen
 ---
 ### 引言：AI末日论与真实问题

@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-04-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7q5I_z_bnfY
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - trump-policies
-  - market-volatility
-  - tariff-impact
-  - tesla-earnings
-  - ge-earnings
 title: 特朗普政策反复与市场波动：特斯拉与GE财报深度解析
 summary: 本文深入分析了特朗普在关税和美联储政策上的反复立场如何影响市场，并详细解读了特斯拉与GE的最新财报，探讨了企业如何应对关税挑战。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- ge-earnings
+- market-volatility
+- tariff-impact
+- tesla-earnings
+- trump-policies
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-04-23'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7q5I_z_bnfY
 status: evergreen
 ---
 ### 市场概览：特朗普政策主导下的剧烈波动

@@ -1,26 +1,30 @@
 ---
-author: 硅谷101
-date: '2025-09-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=MDNtfUTNvb4
-speaker: 硅谷101
-tags:
-  - t-literature-note
-  - '101'
-  - ai-applications
-  - sme-innovation
-  - international-trade
-  - ai-agent
-  - one-person-company
 title: AI赋能中小企业：国际贸易的“ChatGPT时刻”与一人公司的崛起
 summary: 本文探讨AI如何走出硅谷泡沫，赋能中小企业，尤其在国际贸易B2B领域。通过分析CoCreate大赛和阿里巴巴国际站的AI Agent“Accio”，揭示AI如何降低创业门槛，提升效率，并促成“一人公司”模式的兴起，为全球贸易带来新确定性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- '101'
+- ai-agent
+- ai-applications
+- international-trade
+- one-person-company
+- sme-innovation
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-23'
+author: 硅谷101
+speaker: 硅谷101
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=MDNtfUTNvb4
 status: evergreen
 ---
 ### 走出硅谷：AI如何改变普通人的生活

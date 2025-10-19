@@ -1,24 +1,32 @@
 ---
-author: Lei
-channel: null
+title: '#197 无痛理财魔法：构建让生活更轻松的个人财务系统'
+summary: 本期节目分享了三位主播在不同人生阶段的个人理财经验，探讨如何通过建立适合自己的财务习惯和系统，实现财务安心与生活从容。
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 个人财务
+- 投资
+- 理财
+- 视频文稿
+people:
+- 知行小酒馆
+companies_orgs: []
+products_models: []
+media_books:
+- 知行小酒馆
 date: 2025-07-26
+author: Lei
+speaker: 雨白, 仝仝, 星星
+channel: null
+draft: true
 guest: 仝仝, 星星
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=xAGGr91RBzQ&t
-speaker: 雨白, 仝仝, 星星
-summary: 本期节目分享了三位主播在不同人生阶段的个人理财经验，探讨如何通过建立适合自己的财务习惯和系统，实现财务安心与生活从容。
-tags:
-- 视频文稿
-- 理财
-- 个人财务
-- 投资
-- 知行小酒馆
-title: '#197 无痛理财魔法：构建让生活更轻松的个人财务系统'
-draft: true
 ---
-
 ## 引言：悄然改变生活的财务小习惯
 
 雨白: 欢迎来到知行小酒馆，这是一档有知有型出品的播客节目。我们关注投资，更关注怎样更好的生活。我是雨白，最近有件事儿让我很感慨，时间真的会悄悄改变一个人，尤其是那些藏在细节里面的成长。

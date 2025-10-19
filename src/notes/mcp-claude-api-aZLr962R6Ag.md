@@ -1,26 +1,29 @@
 ---
-author: Anthropic
-date: '2025-10-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=aZLr962R6Ag
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - model-context-protocol
-  - claude-api
-  - llm-integrations
-  - open-source-standards
-  - ai-ecosystem
 title: 使用MCP与Claude API进行构建：跨应用连接与通用标准的未来
 summary: 本文深入探讨Anthropic的**模型上下文协议** (**MCP**)，它如何作为连接大型语言模型与外部应用和数据的通用标准。文章讨论了MCP的起源、开源策略、发展现状及多个创新用例，展望了其在未来AI生态中的重要作用。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-ecosystem
+- claude-api
+- llm-integrations
+- model-context-protocol
+- open-source-standards
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-09'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=aZLr962R6Ag
 status: evergreen
 ---
 ### 介绍：MCP是什么？

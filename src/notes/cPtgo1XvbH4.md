@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-05-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=cPtgo1XvbH4
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-china-tariffs
-  - federal-reserve
-  - inflation
-  - asset-prices
-  - amd-earnings
 title: 中美关税、美联储困境与资产价格：一次性通胀还是持续影响？
 summary: 本期视频深入探讨美联储面临的双输困境，分析关税政策对通胀和资产价格的潜在影响，并结合AMD财报，提供宏观经济与个股投资的深度见解。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- us-analysis
+tags:
+- amd-earnings
+- asset-prices
+- federal-reserve
+- inflation
+- us-china-tariffs
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-05-07'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=cPtgo1XvbH4
 status: evergreen
 ---
 ### 引言：美联储的未来困境与市场展望

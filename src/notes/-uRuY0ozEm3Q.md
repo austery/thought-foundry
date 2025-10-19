@@ -1,26 +1,28 @@
 ---
-author: a16z
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uRuY0ozEm3Q
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - llm-limitations
-  - agi-definition
-  - mathematical-models
-  - information-theory
-  - new-architectures
 title: 哥伦比亚大学计算机科学教授：大型语言模型为何无法发现新科学
 summary: 哥伦比亚大学计算机科学教授探讨了大型语言模型的局限性，认为它们仅能驾驭现有知识而非创造新科学范式。他将通用人工智能定义为创造新科学的能力，并解释了他的矩阵模型以理解大型语言模型的推理过程。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- agi-definition
+- information-theory
+- llm-limitations
+- mathematical-models
+- new-architectures
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uRuY0ozEm3Q
 status: evergreen
 ---
 ### 大型语言模型与通用人工智能的界限

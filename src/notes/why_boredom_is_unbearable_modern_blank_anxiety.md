@@ -1,25 +1,31 @@
 ---
-author: Lei
-date: 2025-08-18
-guest: 
-layout: post.njk
-channel: 
-source: 
-speaker: 小蓝, 潘潘
-tags:
-  - 视频文稿
-  - 无聊
-  - 空白焦虑
-  - 多巴胺
-  - 创造力
 title: 无聊为何让人难以忍受？谈谈现代人的“空白焦虑”
 summary: 本期节目探讨了为何现代人难以忍受无聊。从将无聊分为浅层与深层的定义出发，深入剖析了无聊背后的心理机制与脑科学原理，如“对欲望的渴望”以及多巴胺水平的变化。节目还反思了社会对效率和忙碌的过度推崇如何导致了我们的“空白焦虑”，并最终指出，无聊并非完全负面，它也可以是激发创造力、促进自我连接的宝贵信号。
-insight: 
-file_name: why_boredom_is_unbearable_modern_blank_anxiety.md
+area: null
+category: null
+project: []
+tags:
+- 创造力
+- 多巴胺
+- 无聊
+- 空白焦虑
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-18
+author: Lei
+speaker: 小蓝, 潘潘
+channel: null
 draft: true
-series: 
+file_name: why_boredom_is_unbearable_modern_blank_anxiety.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 ---
-
 ## 引言：我们为何害怕无聊？
 
 小蓝: 嘿，找到你，欢迎乘坐我们的成长列车。我是小兰。

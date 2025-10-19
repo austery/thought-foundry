@@ -1,26 +1,31 @@
 ---
-author: Bg2 Pod
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fTqINzeudJ4
-speaker: Bg2 Pod
-tags:
-  - t-literature-note
-  - bg2-pod
-  - AI开源
-  - 中美科技竞争
-  - 全球贸易
-  - 算力竞赛
-  - 风险投资
 title: 中美AI竞争、开源模型崛起与全球贸易格局重塑
 summary: 本期播客深入探讨了中国在AI开源模型领域的快速发展，分析了其利用开源生态系统竞争的策略。同时，嘉宾讨论了美国对AI领导地位的战略布局，以及关税政策对全球贸易的实际影响，认为贸易战担忧被夸大，当前市场正因积极的贸易协议而走高。此外，嘉宾还展望了AI算力需求的爆炸性增长和企业在成本与价值间的权衡。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- ai开源
+- bg2-pod
+- 中美科技竞争
+- 全球贸易
+- 算力竞赛
+- 风险投资
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-06'
+author: Bg2 Pod
+speaker: Bg2 Pod
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fTqINzeudJ4
 status: evergreen
 ---
 ### 贸易协议的积极影响与市场反应

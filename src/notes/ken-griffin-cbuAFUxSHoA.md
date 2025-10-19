@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=cbuAFUxSHoA
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - Ken Griffin
-  - Trump
-  - AI
-  - Economy
-  - Inflation
 title: Ken Griffin 深度解读：特朗普政策、人工智能浪潮与经济前景
 summary: Citadel CEO Ken Griffin 深入探讨了特朗普政府的经济政策、人工智能的颠覆性潜力、通货膨胀的风险以及美国在全球经济格局中的地位。他强调了财政改革的紧迫性，并对美国高等教育体系提出了质疑。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai
+- bloomberg-podcasts
+- economy
+- inflation
+people:
+- ken griffin
+- trump
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=cbuAFUxSHoA
 status: evergreen
 ---
 ### 特朗普政府政策对美国经济的激发作用

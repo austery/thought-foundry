@@ -1,26 +1,31 @@
 ---
-author: The Knowledge Project Podcast
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=kGnBwjOzuSQ
-speaker: The Knowledge Project Podcast
-tags:
-  - t-literature-note
-  - the-knowledge-project-podcast
-  - long-term-investing
-  - operational-excellence
-  - talent-management
-  - business-systems
-  - corporate-strategy
 title: 从巴菲特分析师到企业帝国：Tracy Britt Cool的长期投资与运营洞见
 summary: Tracy Britt Cool分享从巴菲特助理到建立Cambrick的经验。她强调长期投资、运营卓越、人才文化和结构化商业系统，探讨了企业转型、人才吸引与培养，以及如何通过“五力”评估公司价值。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- entrepreneurship
+- investment-strategy
+tags:
+- business-systems
+- corporate-strategy
+- long-term-investing
+- operational-excellence
+- talent-management
+- the-knowledge-project-podcast
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: The Knowledge Project Podcast
+speaker: The Knowledge Project Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=kGnBwjOzuSQ
 status: evergreen
 ---
 ### 引言：孤独的CEO与Cambrick的诞生

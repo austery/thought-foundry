@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-04-24'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=QxpyU9oRViY
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - tariffs
-  - us-economy
-  - inflation
-  - corporate-earnings
-  - stock-market
 title: 关税政策深度剖析：对美国经济、通胀、企业盈利及选民票仓的影响
 summary: 本文深入分析了美国关税政策实施一个多月来的多方面影响，包括对政府财政收入、通胀预期、企业盈利能力以及川普支持者就业的冲击，并结合市场数据和Chipotle财报进行了具体阐述。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- corporate-earnings
+- inflation
+- stock-market
+- tariffs
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-04-24'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=QxpyU9oRViY
 status: evergreen
 ---
 ### 引言：关税政策的全面审视

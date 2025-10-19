@@ -1,26 +1,31 @@
 ---
-author: 硅谷101播客
-date: '2025-08-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=nSTAMyCE7tQ
-speaker: 硅谷101播客
-tags:
-  - t-literature-note
-  - '101'
-  - lululemon
-  - alo-yoga
-  - sports-brands
-  - growth-strategy
-  - market-trends
 title: 运动品牌的成长烦恼：Lululemon低谷、新秀崛起与巨头策略
 summary: 本期节目深入探讨运动品牌Lululemon的增长困境，分析其作为女装品牌的天花板及品牌泛化问题。节目同时关注Alo Yoga、Vuori等新秀崛起，On、HOKA等跑鞋品牌的成功之道，并分享Nike、Adidas等巨头应对市场变化的策略，讨论中国本土运动品牌的发展机遇与挑战。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- '101'
+- alo-yoga
+- growth-strategy
+- market-trends
+- sports-brands
+people: []
+companies_orgs:
+- lululemon
+products_models: []
+media_books: []
+date: '2025-08-22'
+author: 硅谷101播客
+speaker: 硅谷101播客
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=nSTAMyCE7tQ
 status: evergreen
 ---
 ### Lululemon的至暗时刻：增长放缓与市场质疑

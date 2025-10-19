@@ -1,26 +1,33 @@
 ---
-author: Lei
-date: 2025-09-23
-guest: Alex Karp
-layout: post.njk
-source: 
-speaker: Host
+title: Alex Karp on Palantir, Geopolitics, and the Decline of the West
+summary: Palantir CEO Alex Karp discusses the company's philosophy, controversies
+  surrounding its work on border security and national defense, the geopolitical landscape
+  with China, and his views on why Western civilization, particularly in Europe, is
+  facing a crisis of confidence and meritocracy.
+area: market-analysis
+category: geopolitics
+project:
+- geopolitics-watch
 tags:
-- t-literature-note
-- palantir
+- civil-liberties
 - geopolitics
 - national-security
 - western-civilization
-- civil-liberties
-title: Alex Karp on Palantir, Geopolitics, and the Decline of the West
-summary: Palantir CEO Alex Karp discusses the company's philosophy, controversies surrounding its work on border security and national defense, the geopolitical landscape with China, and his views on why Western civilization, particularly in Europe, is facing a crisis of confidence and meritocracy.
-insight:
-file_name: alex_karp_palantir_geopolitics_western_decline.md
+people: []
+companies_orgs:
+- palantir
+products_models: []
+media_books: []
+date: 2025-09-23
+author: Lei
+speaker: Host
 draft: true
-series:
-category:
-area:
-project:
+file_name: alex_karp_palantir_geopolitics_western_decline.md
+guest: Alex Karp
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
 ## Introduction: The Palantir Phenomenon

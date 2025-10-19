@@ -1,25 +1,29 @@
 ---
-author: Anthropic
-date: '2025-08-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DAQJvGjlgVM
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - claude-code
-  - ai-agents
-  - developer-tools
-  - sdk
 title: Claude Code：加速开发、高效协作的智能助手
-summary: 本文深入探讨了Anthropic的Claude Code工具，从其快速迭代的开发流程、独特的“狗粮”文化，到多样化的用户场景（如“多重Claude”和“计划模式”），以及强大的Claude Code SDK如何赋能开发者构建定制化智能代理。
-insight: ''
+summary: 本文深入探讨了Anthropic的Claude Code工具，从其快速迭代的开发流程、独特的“狗粮”文化，到多样化的用户场景（如“多重Claude”和“计划模式”），以及强大的Claude
+  Code SDK如何赋能开发者构建定制化智能代理。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-agents
+- claude-code
+- developer-tools
+- sdk
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-21'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=DAQJvGjlgVM
 status: evergreen
 ---
 ### 引言与快速迭代的开发模式

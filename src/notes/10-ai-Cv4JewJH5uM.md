@@ -1,25 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-08-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Cv4JewJH5uM
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-revolution
-  - sequoia-capital
-  - investment-trends
-  - ai-specialization
-  - future-of-ai
 title: 红杉资本：10万亿美元AI革命，专业化与速度重塑未来
 summary: 红杉资本预测，AI革命速度空前，专业化是核心。它将重塑万亿级服务市场，为AI创业公司带来巨大机遇与五大投资方向。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- ai-revolution
+- ai-specialization
+- future-of-ai
+- investment-trends
+people: []
+companies_orgs:
+- sequoia-capital
+products_models: []
+media_books: []
+date: '2025-08-30'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Cv4JewJH5uM
 status: evergreen
 ---
 ### AI革命的宏大愿景与核心判断

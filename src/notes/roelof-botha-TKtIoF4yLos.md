@@ -1,26 +1,34 @@
 ---
-author: All-In Podcast
-date: '2025-10-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=TKtIoF4yLos
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - venture-capital
-  - sequoia-capital
-  - startup-investment
-  - china-market
-  - leadership-culture
 title: 红杉资本Roelof Botha：风险投资行业为何“失灵”？伟大公司如何铸就？
-summary: 红杉资本管理合伙人Roelof Botha深度探讨了风投行业当前面临的挑战，如资金过剩和“无回报风险”。他分享了红杉在人才培养、中国市场战略调整以及独特投资哲学（如Sequoia Capital Fund）方面的洞见，并揭示了其成功文化背后的核心特质。
-insight: ''
+summary: 红杉资本管理合伙人Roelof Botha深度探讨了风投行业当前面临的挑战，如资金过剩和“无回报风险”。他分享了红杉在人才培养、中国市场战略调整以及独特投资哲学（如Sequoia
+  Capital Fund）方面的洞见，并揭示了其成功文化背后的核心特质。
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- cultural-critique
+- investment-strategy
+- market-cycles
+tags:
+- all-in-podcast
+- china-market
+- leadership-culture
+- startup-investment
+- venture-capital
+people: []
+companies_orgs:
+- sequoia-capital
+products_models: []
+media_books: []
+date: '2025-10-09'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=TKtIoF4yLos
 status: evergreen
 ---
 ### 红杉资本的卓越声誉与使命

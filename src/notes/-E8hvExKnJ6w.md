@@ -1,25 +1,28 @@
 ---
-author: 政經孫老師
-date: '2025-08-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=E8hvExKnJ6w
-speaker: 政經孫老師
-tags:
-  - t-literature-note
-  - gene-hegemony
-  - eugenics
-  - longtermism
-  - wealth-inequality
-  - technological-hubris
 title: 基因霸權之夢：精英階層壟斷優質基因的努力為何注定失敗？
 summary: 全球精英正試圖透過基因篩選與改造，壟斷優質基因以實現財富與權力的世代傳承。本文深入探討了這一「基因霸權」現象，分析其背後的哲學基礎與產業推動，並從基因多樣性、文化因素及技術風險等多維度，論證了這場逆天而行之夢終將失敗的必然性。
-insight: ''
+area: tech-insights
+category: technology
+project: []
+tags:
+- eugenics
+- gene-hegemony
+- longtermism
+- technological-hubris
+- wealth-inequality
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-21'
+author: 政經孫老師
+speaker: 政經孫老師
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=E8hvExKnJ6w
 status: evergreen
 ---
 ### 引言：基因霸權的崛起與精英的永恆統治夢想

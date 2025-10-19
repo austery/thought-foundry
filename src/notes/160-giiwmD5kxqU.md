@@ -1,26 +1,30 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=giiwmD5kxqU
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - 俄乌战争
-  - 战术反攻
-  - 地缘政治
-  - 援助分析
-  - 战略转折点
 title: 乌克兰收复160平方公里国土：是转折点还是局部胜利？深度解析俄乌战争态势新变化
 summary: 乌克兰在顿涅茨克州多布罗皮利亚方向的反攻收复160平方公里土地，打破了战争的消耗战僵局。本文通过开源情报分析方法论，验证战果的真实性，并探讨其在军事、政治和心理层面的影响，最终推演了未来战争可能走向的三种情景。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- geopolitics-watch
+tags:
+- 俄乌战争
+- 地缘政治
+- 战术反攻
+- 战略转折点
+- 援助分析
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-06'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=giiwmD5kxqU
 status: evergreen
 ---
 ### 节目轨道与内容概览

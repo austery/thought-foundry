@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 中国如何赢得钍核能竞赛
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- 中国
+- 核能
+- 能源
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: Cold Fusion
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Cold Fusion
-summary: null
-tags:
-- 视频文稿
-- 中国
-- 核能
-- 能源
-title: 中国如何赢得钍核能竞赛
 ---
-
 ## 引言：钍核能的曙光
 
 Hi, welcome to another episode of Cold Fusion. In the quiet deserts of

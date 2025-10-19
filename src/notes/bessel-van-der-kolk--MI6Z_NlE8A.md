@@ -1,26 +1,29 @@
 ---
-author: Big Think
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=-MI6Z_NlE8A
-speaker: Big Think
-tags:
-  - t-literature-note
-  - big-think
-  - 创伤
-  - PTSD
-  - 心理健康
-  - 大脑科学
-  - 治疗
 title: 创伤如何摧毁我们与他人建立联系的能力：Bessel van der Kolk 深度解读
 summary: 精神病学家 Bessel van der Kolk 探讨创伤对大脑和身体的影响，以及它如何阻碍人际连接。文章分析了创伤的根源、表现形式，并介绍了创新的治疗方法。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- big-think
+- ptsd
+- 创伤
+- 大脑科学
+- 心理健康
+- 治疗
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Big Think
+speaker: Big Think
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=-MI6Z_NlE8A
 status: evergreen
 ---
 ### 创伤的定义与影响

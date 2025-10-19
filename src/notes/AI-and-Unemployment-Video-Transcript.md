@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: AI与失业
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 卢德运动
+- 技术变革
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-05-25'
+author: Lei
+speaker: 秋叶2046
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 秋叶2046
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 技术变革
-- 卢德运动
-title: AI与失业
 ---
-
 ## 开场白与引入
 
 你好啊朋友们。

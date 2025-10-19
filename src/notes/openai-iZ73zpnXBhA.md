@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iZ73zpnXBhA
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - openai
-  - sam-altman
-  - ilya-sutskever
-  - ai-governance
-  - corporate-politics
 title: OpenAI信任危机：奥特曼的权力游戏与理想主义者的挣扎
 summary: 本文揭示了OpenAI首席执行官山姆·奥特曼被核心高管联手“背刺”并解雇的惊人内幕，以及他如何凭借强大的人脉和资本力量成功复辟。同时，文章也探讨了首席科学家伊尔雅·苏兹克维在理想与现实之间挣扎，并另起炉灶的故事。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-governance
+- corporate-politics
+- ilya-sutskever
+- sam-altman
+people: []
+companies_orgs:
+- openai
+products_models: []
+media_books: []
+date: '2025-09-26'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=iZ73zpnXBhA
 status: evergreen
 ---
 ### 马斯克的AI之路与OpenAI的铁三角

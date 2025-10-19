@@ -1,24 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 投资风格：激进还是保守？因人而异的风险控制策略
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 家庭理财
+- 投资
+- 投资策略
+- 视频文稿
+- 资产管理
+- 风险控制
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/@shijieshuo
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 投资
-- 风险控制
-- 家庭理财
-- 资产管理
-- 投资策略
-title: 投资风格：激进还是保守？因人而异的风险控制策略
 ---
-
 ## 讲述者：师姐 (shijieshuo)
 
 ### 引言：投资风格与风险控制

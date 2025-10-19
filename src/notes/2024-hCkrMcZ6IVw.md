@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=hCkrMcZ6IVw
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - us-election-2024
-  - donald-trump
-  - joe-biden
-  - hunter-biden-trial
-  - political-legal-challenge
 title: 两个法庭，一个王座：特朗普与拜登的2024背负之战
 summary: 2024年，美国两位总统候选人特朗普和拜登各自在法庭上面临严峻挑战。特朗普深陷财务欺诈与“封口费”案，而拜登则为儿子亨特的枪支重罪审判焦虑。法律困境与政治对决交织，他们的个人命运与国家领导权之争，正以残酷而真实的方式上演。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- donald-trump
+- hunter-biden-trial
+- joe-biden
+- political-legal-challenge
+- us-election-2024
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=hCkrMcZ6IVw
 status: evergreen
 ---
 ### 2024年：法庭上的政治对决

@@ -1,26 +1,29 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XtiqsC_a5aA
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - ice-crackdown
-  - trump-administration
-  - government-shutdown
-  - london-crime
-  - protein-supplements
 title: 芝加哥民众反抗ICE执法，特朗普政府多项争议，伦敦手机盗窃案，蛋白粉铅超标
 summary: 本期新闻报道芝加哥对ICE执法的反抗、特朗普政府多项争议，以及伦敦手机盗窃案和蛋白粉铅超标问题。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- government-shutdown
+- ice-crackdown
+- london-crime
+- new-york-times-podcasts
+- protein-supplements
+- trump-administration
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XtiqsC_a5aA
 status: evergreen
 ---
 ### 开篇：今日头条速览

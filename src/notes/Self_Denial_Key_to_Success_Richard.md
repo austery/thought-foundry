@@ -1,24 +1,32 @@
 ---
-author: Lei
-channel: null
+title: 前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键
+summary: null
+area: market-analysis
+category: finance
+project:
+- entrepreneurship
+- investment-strategy
+tags:
+- payfi
+- web3
+- 创业
+- 加密货币
+- 视频文稿
+people: []
+companies_orgs:
+- huma finance
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- Web3
-- 加密货币
-- Huma Finance
-- PayFi
-- 创业
-title: 前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键
 ---
-
 ## 讲述者简介
 
 **Richard：**Huma Finance

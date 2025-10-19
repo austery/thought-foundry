@@ -1,26 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=paPeISXpU4U
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai
-  - ai-adoption
-  - economic-impact
-  - anthropic-report
-  - ai-usage
-  - future-of-work
 title: Anthropic《经济指数》报告深度解读：AI采用速度、应用模式与经济影响
 summary: Anthropic《经济指数》报告指出AI采用速度历史罕见，已深入知识密集型任务。报告分析了个人与企业AI使用模式、全球及地区差异、上下文影响及成本敏感度，揭示AI对工作与经济的深远影响。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai
+- ai-adoption
+- ai-usage
+- anthropic-report
+- economic-impact
+- future-of-work
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=paPeISXpU4U
 status: evergreen
 ---
 ### 引言：Anthropic经济指数报告概览

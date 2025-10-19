@@ -1,24 +1,32 @@
 ---
-author: Lei
-channel: null
+title: 穿越周期的智慧：美股价值投资的核心法则
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- us-analysis
+tags:
+- 价值投资
+- 投资策略
+- 美股投资
+- 视频文稿
+- 风险控制
+people:
+- 刘宁
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 投资talk君
+channel: null
 guest: 刘宁
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Feck2fSffmI&t
-speaker: 投资talk君
-summary: null
-tags:
-- 视频文稿
-- 美股投资
-- 价值投资
-- 刘宁
-- 投资策略
-- 风险控制
-title: 穿越周期的智慧：美股价值投资的核心法则
 ---
-
 ## 开场白与嘉宾介绍
 
 **主持人:**

@@ -1,27 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=gOZnM5fFBJc
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - fed
-  - japan-economy
-  - artificial-intelligence
-  - gen-z
-  - gold
 title: 美联储政策、日本经济、AI浪潮与Z世代就业：深度解析
 summary: 本期节目深度探讨美联储的最新动向、日本经济的脆弱性、AI对生产力及就业的冲击，以及Z世代的价值观与职场适应性。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- bloomberg-podcasts
+- fed
+- gen-z
+- gold
+- japan-economy
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=gOZnM5fFBJc
 status: evergreen
 ---
 ### 经济学家的视角：泰勒法则与货币政策的演变

@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2022-11-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=-HonK6ex-KE
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - central-bank-digital-currency
-  - monetary-policy
-  - financial-system
-  - cryptocurrency-impact
-  - digital-economy
 title: 央行数字货币：控制、革新与挑战——深度解析CBDC的本质与影响
 summary: 本文深入探讨央行数字货币（CBDC）的定义、与现有电子支付的区别、各国央行推行的动因，以及它可能对金融体系带来的颠覆性变革与潜在挑战。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- central-bank-digital-currency
+- cryptocurrency-impact
+- digital-economy
+- financial-system
+- monetary-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-11-14'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=-HonK6ex-KE
 status: evergreen
 ---
 ### 央行数字货币：理解其核心定义与货币层级

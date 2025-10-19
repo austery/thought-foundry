@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=z0p8w6LZgkM
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - peter-thiel
-  - gawker
-  - hulk-hogan
-  - strategic-litigation
-  - media-ethics
 title: 硅谷之王的复仇暗战：摔跤手性爱录像背后的千万美元棋局
 summary: 本期深入探讨彼得·蒂尔如何策划一场耗资千万美元、长达五年的秘密诉讼，最终扳倒八卦媒体Gawker。通过摔跤手霍根的性爱录像案，揭示硅谷资本与网络媒体的权力对决及深层人性考验。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- gawker
+- hulk-hogan
+- media-ethics
+- peter-thiel
+- strategic-litigation
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-12'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=z0p8w6LZgkM
 status: evergreen
 ---
 ### 引言：千万美元的复仇

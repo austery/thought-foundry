@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: Web3 101
+title: 对话匹马：从MEME币到发射平台，梭哈文化背后的行为经济学盛宴与投资逻辑
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- meme币
+- solana
+- 投资
+- 行为金融学
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 刘峰, Jack
+channel: Web3 101
 guest: 匹马
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 刘峰, Jack
-summary: null
-tags:
-- 视频文稿
-- Meme币
-- 行为金融学
-- Solana
-- 投资
-title: 对话匹马：从MEME币到发射平台，梭哈文化背后的行为经济学盛宴与投资逻辑
 ---
-
 播客节目：Web3 101
 
 主持人：刘峰, Jack

@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=p1JXtE99alE
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - government-shutdown
-  - house-of-representatives
-  - senate
-  - federal-employees
 title: 国会休会僵局：众议院关闭，参议院拨款投票失败
 summary: 美国众议院休会， Speaker Johnson 拒绝召集议员返华。参议院拨款投票失败，政府可能面临关门。文中讨论了医保成本、联邦雇员薪资及国民警卫队部署等问题。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- federal-employees
+- government-shutdown
+- house-of-representatives
+- senate
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=p1JXtE99alE
 status: evergreen
 ---
 ### 议员为何留在华盛顿？

@@ -1,26 +1,30 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-08-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Abmq4dBXpLc
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - yuval-noah-harari
-  - information-networks
-  - totalitarianism
-  - democracy
-  - artificial-intelligence
 title: 《智人之上》：信息网络如何重塑我们的隐私、自由与未来
 summary: 本期节目深入探讨了尤瓦尔·赫拉利新书《智人之上》的核心观点，揭示了人类信息网络的演化，从讲故事到官僚制度，再到现代非生物信息网络（AI）。节目分析了先进技术如何同时加强极权与民主，并警示了无处不在的监控、算法偏见以及AI对人类自由和权力格局的深远影响。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- democracy
+- information-networks
+- stella-an
+- totalitarianism
+- yuval-noah-harari
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-30'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Abmq4dBXpLc
 status: evergreen
 ---
 ### 个人隐私的消逝与自我审查的困境

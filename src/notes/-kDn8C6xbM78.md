@@ -1,26 +1,30 @@
 ---
-author: KevinFeng 冯凯文
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=kDn8C6xbM78
-speaker: KevinFeng 冯凯文
-tags:
-  - t-literature-note
-  - kevinfeng
-  - t-literature-note
-  - language-learning
-  - brain-science
-  - procedural-knowledge
-  - contextual-learning
 title: 停止翻译，流利开口：拥抱大脑的“偷懒”学习法
 summary: 揭秘语言学习的“偷懒”秘诀，告别死记硬背，掌握将知识转化为流利表达的“场景化”学习方法，让你轻松开口说外语。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- brain-science
+- contextual-learning
+- language-learning
+- procedural-knowledge
+- t-literature-note
+people:
+- kevinfeng
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: KevinFeng 冯凯文
+speaker: KevinFeng 冯凯文
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=kDn8C6xbM78
 status: evergreen
 ---
 ### 告别“努力却学不好”的困境

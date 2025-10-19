@@ -1,26 +1,34 @@
 ---
-author: Lei
-channel: null
+title: 从Context Engineering 到无限制创作,Vibe Coding的社区0725
+summary: 讨论了如何利用 Gemini CLI 和 Claude Code 等 AI 工具，通过 Context Engineering 的思维模式，打破传统工作限制，实现自动化和高效创作，强调了为
+  AI 工具付费和提出“非分”要求的重要性。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai工具
+- context-engineering
+- vibe-coding
+- 生产力
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: 2025-07-27
+author: Lei
+speaker: 张敏
+channel: null
+draft: true
+file_name: ai_workflow_revolution_context_engineering.md
 guest: Ray, Long, 小西瓜, Mike, Betty, 伊文, Alex
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 张敏
-summary: 讨论了如何利用 Gemini CLI 和 Claude Code 等 AI 工具，通过 Context Engineering 的思维模式，打破传统工作限制，实现自动化和高效创作，强调了为
-  AI 工具付费和提出“非分”要求的重要性。
-tags:
-- 视频文稿
-- AI工具
-- Vibe Coding
-- Context Engineering
-- 生产力
-title: 从Context Engineering 到无限制创作,Vibe Coding的社区0725
-file_name: ai_workflow_revolution_context_engineering.md
-draft: true
 ---
-
 ## 开场与初体验
 
 张敏: Hello, Chloe。Hello, long change。早上好，你们是在国内吗？Chloe 是在国内。Hello, 我来邀请一下 Betty。哎哟，克洛伊拒绝我了，上来聊聊呗。

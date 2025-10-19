@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=kS7RjwOCtCg
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-economy
-  - monetary-policy
-  - tesla
-  - trade-tariffs
-  - stock-market-analysis
 title: 彭博预测9月不降息，特斯拉面临利空，关税即将落地——市场深度解析
 summary: 本期节目深入分析了周四大非农数据对美联储降息路径的影响，探讨了“大美丽法案”取消电动车补贴及EV积分对特斯拉的潜在利空，并展望了即将落地的关税政策及其对市场短期冲击与长期机遇。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- monetary-policy
+- stock-market-analysis
+- trade-tariffs
+- us-economy
+people: []
+companies_orgs:
+- tesla
+products_models: []
+media_books:
+- talk
+date: '2025-07-04'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=kS7RjwOCtCg
 status: evergreen
 ---
 ### 节目开篇与内容概览

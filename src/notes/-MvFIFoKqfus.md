@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2022-11-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=MvFIFoKqfus
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - knowledge-management
-  - content-creation
-  - research-methods
-  - personal-development
-  - lifelong-learning
 title: 将知识转化为资产：我的研究与内容创作方法论
 summary: 一位知识博主分享了她将知识转化为资产的研究与创作方法。她强调提问“蠢问题”、高效利用学习资料、有目的性地做笔记，并最终通过输出实现知识的最大价值，从而实现个人成长与社会贡献。
-insight: ''
+area: digital-garden
+category: productivity
+project:
+- knowledge-pipeline
+- pkm-research
+tags:
+- content-creation
+- knowledge-management
+- lifelong-learning
+- personal-development
+- research-methods
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-11-20'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=MvFIFoKqfus
 status: evergreen
 ---
 ### 知识博主的自我定位与创作动力

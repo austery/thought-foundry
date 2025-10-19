@@ -1,28 +1,32 @@
 ---
-author: Lei
-date: 2025-09-03
-guest: 
-layout: post.njk
-source: 
-speaker: 全球中国研究简报
+title: 全球中国研究简报：深度解析经济数据、数字货币与创新模式
+summary: 汇总并深度解读全球顶尖智库与媒体关于中国的分析，内容涵盖经济数据矛盾、美元稳定币挑战、国家主导的创新模式及其代价、以及重塑历史叙事的记忆战争等核心议题。
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
 tags:
-  - t-literature-note
-  - china-studies
-  - geopolitics
-  - economic-analysis
-  - innovation
-title: "全球中国研究简报：深度解析经济数据、数字货币与创新模式"
-summary: "汇总并深度解读全球顶尖智库与媒体关于中国的分析，内容涵盖经济数据矛盾、美元稳定币挑战、国家主导的创新模式及其代价、以及重塑历史叙事的记忆战争等核心议题。"
-insight: 
-file_name: global_china_research_briefing_analysis.md
+- china-studies
+- economic-analysis
+- geopolitics
+- innovation
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-03
+author: Lei
+speaker: 全球中国研究简报
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: global_china_research_briefing_analysis.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ## 引言：全球顶尖思考者的中国观察
 
 全球中国研究简报是一个汇总全球智库（如哈德逊研究中心、CSIS等）以及国际媒体（如《纽约时报》、政客新闻网等）针对中国的深度分析和报道的栏目。我们还为您搜集分析关于中国问题的Substack内容，关注全球顶尖思考者对中国问题的关切和分析。在信息爆炸时代，我们帮您选择内容并进行深度解读，为希望成为中国问题专家的思考者提供最好的信息。

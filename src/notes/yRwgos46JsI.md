@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-06-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yRwgos46JsI
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - investment-strategy
-  - macro-data
-  - stock-analysis
-  - market-risk
-  - us-debt
 title: 本周宏观数据展望、个股CRCL分析与市场风险思考
 summary: 本期视频展望了本周CPI和PPI数据，分析了美股个股CRCL的买入策略，探讨了市场参与度指标，并深入解析了美元指数与美债的背离现象，以及美国政府与家庭债务结构的潜在风险。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- investment-strategy
+- macro-data
+- market-risk
+- stock-analysis
+- us-debt
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-06-10'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=yRwgos46JsI
 status: evergreen
 ---
 ### 引言

@@ -1,26 +1,29 @@
 ---
-author: a16z
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=nkmPNvAU49Q
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - ai-development
-  - language-models
-  - technological-disruption
-  - future-of-work
-  - ai-safety
 title: AI发展正在放缓吗？Nathan Labenz：我们问错了问题
 summary: Nathan Labenz深入探讨了AI发展的现状与未来，驳斥了AI正在放缓的观点，强调了多模态AI、推理能力提升以及其对就业、社会和国际关系的影响，并鼓励人们积极思考AI驱动的未来。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-development
+- ai-safety
+- future-of-work
+- language-models
+- technological-disruption
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=nkmPNvAU49Q
 status: evergreen
 ---
 ### AI的真正潜力：超越语言模型

@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-08-05'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=N1k3M9QIWD4
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - earnings-analysis
-  - fed-monetary-policy
-  - stock-valuation
-  - tech-e-commerce
 title: 美股市场深度解析：估值、财报与美联储降息路径
-summary: 本期节目深入分析了美股第二季度财报季的总结，探讨了当前美股的估值水平及美联储降息预期的变化。同时，详细解读了Palantir、MercadoLibre和Sea Limited三家公司的最新财报数据及未来增长前景。
-insight: ''
+summary: 本期节目深入分析了美股第二季度财报季的总结，探讨了当前美股的估值水平及美联储降息预期的变化。同时，详细解读了Palantir、MercadoLibre和Sea
+  Limited三家公司的最新财报数据及未来增长前景。
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- earnings-analysis
+- fed-monetary-policy
+- stock-valuation
+- tech-e-commerce
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-05'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=N1k3M9QIWD4
 status: evergreen
 ---
 ### 市场概览与频道更新

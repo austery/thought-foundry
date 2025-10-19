@@ -1,25 +1,32 @@
 ---
-author: Lei
-date: 2025-08-07
-guest: 
-layout: post.njk
-channel: 
-source: https://app.pluralsight.com/library/courses/code-review-best-practices/transcript
-speaker: Andrejs Doronins
-tags:
-- 视频文稿
-- Code Review
-- 软件开发
-- 团队协作
-- 软技能
 title: 代码审查最佳实践 (Code Review Best Practices)
 summary: 本课程全面讲解了代码审查的最佳实践，内容涵盖了代码审查的基础流程、作为被审查者如何创建高质量的拉取请求、作为审查者如何提供有效反馈，以及如何处理具有挑战性的情况。课程强调软技能的重要性，旨在帮助开发者通过专业的代码审查，提升代码质量，促进团队协作和知识共享，从而最大化软件开发过程的价值。
-insight: 这是之前Ganesh要求大家上的一个培训课程，当时匆匆过了一遍，没有发现有多少用处，感受大家都是这么操作的。现在在CMT E2E project,发现问题了，来来回回搞了好久，就是approve，code quality issue我可以理解，但是为了一个名称的问题反复纠结，真是让人气愤。
-file_name: code_review_best_practices.md
+area: null
+category: null
+project: []
+tags:
+- code-review
+- 团队协作
+- 视频文稿
+- 软件开发
+- 软技能
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-07
+author: Lei
+speaker: Andrejs Doronins
+channel: null
 draft: true
+file_name: code_review_best_practices.md
+guest: null
+insight: 这是之前Ganesh要求大家上的一个培训课程，当时匆匆过了一遍，没有发现有多少用处，感受大家都是这么操作的。现在在CMT E2E project,发现问题了，来来回回搞了好久，就是approve，code
+  quality issue我可以理解，但是为了一个名称的问题反复纠结，真是让人气愤。
+layout: post.njk
 series: ''
+source: https://app.pluralsight.com/library/courses/code-review-best-practices/transcript
 ---
-
 ## 课程简介
 
 Hi, everyone. My name is Andrejs Doronins, and welcome to the course, Code Review: Best Practices.

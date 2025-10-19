@@ -1,26 +1,31 @@
 ---
-author: 金融汪
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=WmRNCdEIZAI
-speaker: 金融汪
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - ai
-  - investment
-  - blackstone
-  - economy
 title: AI时代的投资机遇与风险：黑石集团深度解析
 summary: 黑石集团探讨AI对投资环境的革命性影响，分析了AI驱动的生产力提升、科技投资热潮，并指出了AI估值过高、政府债务等潜在风险，以及商业地产、印度市场等投资机遇。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- ''
+- ai
+- economy
+- investment
+- t-literature-note
+people: []
+companies_orgs:
+- blackstone
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 金融汪
+speaker: 金融汪
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=WmRNCdEIZAI
 status: evergreen
 ---
 ### 黑石集团的起源与发展

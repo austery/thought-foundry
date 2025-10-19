@@ -1,25 +1,34 @@
 ---
-author: Lei
-date: 2025-08-04
-guest: Mike, Lei, 小贤, 小西瓜, Arlene, Remy, Serena
-layout: post.njk
-channel: ''
-source: ''
-speaker: Ray
+title: Vibe Coding：AI 辅助编程的实践与思考
+summary: 多位嘉宾分享了 Vibe Coding 的实践经验，包括使用 Claude Code、Obsidian 等工具进行编程、创作动画和管理知识。讨论深入探讨了
+  AI 如何降低技术门槛、激发个人创造力，并展示了从个人项目到多智能体系统的多种可能性。
+area: tech-insights
+category: technology
+project:
+- pkm-research
+- vibe-coding
 tags:
-- 视频笔记
-- Vibe Coding
-- Claude Code
-- Obsidian
+- claude-code
+- vibe-coding
 - 个人项目
-title: 'Vibe Coding：AI 辅助编程的实践与思考'
-summary: 多位嘉宾分享了 Vibe Coding 的实践经验，包括使用 Claude Code、Obsidian 等工具进行编程、创作动画和管理知识。讨论深入探讨了 AI 如何降低技术门槛、激发个人创造力，并展示了从个人项目到多智能体系统的多种可能性。
-insight: ''
-file_name: vibe_coding_ai_programming_practices.md
+- 视频笔记
+people: []
+companies_orgs: []
+products_models:
+- obsidian
+media_books: []
+date: 2025-08-04
+author: Lei
+speaker: Ray
+channel: ''
 draft: true
+file_name: vibe_coding_ai_programming_practices.md
+guest: Mike, Lei, 小贤, 小西瓜, Arlene, Remy, Serena
+insight: ''
+layout: post.njk
 series: Vibe Coding
+source: ''
 ---
-
 ## 开场闲聊与准备
 
 Ray: 我们其实都是这样的，咱们就是找机会聊聊天。我打算今年去墨西哥住上一个月再练一练西班牙语，现在只能让 AI 代劳翻译了。

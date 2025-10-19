@@ -1,25 +1,31 @@
 ---
-author: 三個水槍手
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6TisRb-Q8pc
-speaker: 三個水槍手
-tags:
-  - t-literature-note
-  - us-china-relations
-  - cold-war
-  - globalization
-  - political-economy
-  - taiwan-strait
 title: 中美关系：新冷战、一战前局势与全球化下的民主困境
 summary: 吴国光老师探讨中美关系是否进入新冷战，认为当前局势更像一战前，而非冷战。他分析了全球化对中美互动及各自政治体制的影响，并对中国内部改革与台海局势的未来走向提出了看法。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
+tags:
+- cold-war
+- globalization
+- political-economy
+- taiwan-strait
+- us-china-relations
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: 三個水槍手
+speaker: 三個水槍手
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6TisRb-Q8pc
 status: evergreen
 ---
 ### 中美关系：是否已进入“新冷战”？

@@ -1,27 +1,31 @@
 ---
-author: 最佳拍档
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=VOs9lfsTaFs
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - v3
-  - elon-musk
-  - artificial-intelligence
-  - space-exploration
-  - tesla
-  - starlink
-  - futurism
 title: 埃隆·马斯克访谈：Optimus、Tesla、星链、星舰与西方文明的未来
 summary: 本文深入解读埃隆·马斯克在All-in-Summit峰会上的访谈，涵盖Optimus机器人、Tesla AI芯片与FSD、星链、星舰的最新进展，以及他对AI未来、西方文明困境和人类星际使命的深刻思考。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- elon-musk
+- futurism
+- space-exploration
+- v3
+people: []
+companies_orgs:
+- tesla
+products_models:
+- starlink
+media_books: []
+date: '2025-10-17'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=VOs9lfsTaFs
 status: evergreen
 ---
 ### 马斯克对西方社会与科技布局的深刻洞察

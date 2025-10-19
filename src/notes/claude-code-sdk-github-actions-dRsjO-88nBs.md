@@ -1,26 +1,28 @@
 ---
-author: Anthropic
-date: '2025-07-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dRsjO-88nBs
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - claude-code
-  - sdk
-  - github-actions
-  - automation
-  - code-development
 title: Claude Code SDK 与 GitHub Actions：构建无头自动化
 summary: 深入探讨 Claude Code SDK 及其 GitHub Action，演示如何利用它们实现无头自动化，进行代码审查、功能开发及 bug 修复，并提供详细的安装与使用指南。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- automation
+- claude-code
+- code-development
+- github-actions
+- sdk
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-31'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=dRsjO-88nBs
 status: evergreen
 ---
 ### 介绍与议程概述

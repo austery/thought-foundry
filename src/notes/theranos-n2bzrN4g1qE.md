@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=n2bzrN4g1qE
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - theranos
-  - elizabeth-holmes
-  - corporate-fraud
-  - whistleblowers
-  - business-ethics
 title: Theranos的至暗时刻：谎言、胁迫与生命的代价
 summary: Theranos在内忧外患中，伊丽莎白·霍尔姆斯如何以谎言、胁迫和生命为代价维系帝国。本期揭露Safeway巨额投资打水漂、军方合作受阻及核心科学家伊恩·吉本斯悲剧性自杀，展现了谎言帝国走向公众前夕的至暗真相。
-insight: ''
+area: market-analysis
+category: business
+project:
+- entrepreneurship
+tags:
+- business-ethics
+- corporate-fraud
+- elizabeth-holmes
+- whistleblowers
+people: []
+companies_orgs:
+- theranos
+products_models: []
+media_books: []
+date: '2025-09-20'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=n2bzrN4g1qE
 status: evergreen
 ---
 ### 序言：谎言帝国的高潮

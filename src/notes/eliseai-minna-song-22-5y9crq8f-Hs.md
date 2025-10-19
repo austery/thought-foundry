@@ -1,26 +1,30 @@
 ---
-author: EO
-date: '2025-10-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5y9crq8f-Hs
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - startup-success
-  - ai-innovation
-  - entrepreneurship-lessons
-  - industry-disruption
-  - hard-work-ethic
 title: EliseAI创始人Minna Song：在“不性感”行业中，靠“蟑螂精神”成就22亿美元市场领导者
 summary: EliseAI创始人Minna Song分享了公司如何从零开始，通过不懈努力、专注客户、以及“蟑螂精神”，在住房和医疗保健等“不性感”行业中成为22亿美元的市场领导者。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+tags:
+- ai-innovation
+- entrepreneurship-lessons
+- hard-work-ethic
+- industry-disruption
+- startup-success
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-02'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5y9crq8f-Hs
 status: evergreen
 ---
 ### 努力工作：成为顶尖公司的核心原则

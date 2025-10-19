@@ -1,28 +1,35 @@
 ---
-author: Lei
-date: 2025-08-17
-guest: Dr. Daniel Amen, Dr. Terry Sejnowski
-layout: post.njk
-source: https://www.youtube.com/watch?v=SSJ3Kz3A_yU
-speaker: Steven Bartlett
-tags:
-- t-literature-note
-- ChatGPT
-- ArtificialIntelligence
-- BrainHealth
-- Dementia
-title: "Brain Experts Warn: The Shocking Impact of ChatGPT on Your Brain and Dementia Risk"
-summary: Brain experts Dr. Daniel Amen and Dr. Terry Sejnowski discuss a recent MIT study showing a 47% drop in brain activity with ChatGPT use. They explore the link between reduced cognitive load and increased dementia risk, offering guidance on using AI responsibly to enhance, not replace, human thinking.
-insight:
-file_name: brain_experts_warning_on_chatgpt_and_dementia_risk.md
-draft: true
-series:
-category:
-area:
+title: 'Brain Experts Warn: The Shocking Impact of ChatGPT on Your Brain and Dementia
+  Risk'
+summary: Brain experts Dr. Daniel Amen and Dr. Terry Sejnowski discuss a recent MIT
+  study showing a 47% drop in brain activity with ChatGPT use. They explore the link
+  between reduced cognitive load and increased dementia risk, offering guidance on
+  using AI responsibly to enhance, not replace, human thinking.
+area: tech-insights
+category: technology
 project:
+- ai-impact-analysis
+tags:
+- artificialintelligence
+- brainhealth
+- dementia
+people: []
+companies_orgs: []
+products_models:
+- chatgpt
+media_books: []
+date: 2025-08-17
+author: Lei
+speaker: Steven Bartlett
+draft: true
+file_name: brain_experts_warning_on_chatgpt_and_dementia_risk.md
+guest: Dr. Daniel Amen, Dr. Terry Sejnowski
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=SSJ3Kz3A_yU
 status: evengreen
 ---
-
 ## Introduction to the Experts
 
 Steven Bartlett: Dr. Daniel, Dr. Terry, I have asked you both to sit with me today to help me understand the impact of these tools that we call large language models, the ChatGPTs, the Geminis of the world, the Groks of the world are having on our brains and I guess more broadly on our lives. You two are experts in your field. You're two people that I admire tremendously. So by way of introduction, Terry, what is your academic background and what is your experience? I also know that you know one of our friends of the show Jeffrey Hinton. Can you give me an overview of your academic and your professional background?

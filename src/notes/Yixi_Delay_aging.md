@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: 一席
+title: 如何延缓衰老：生物学视角下的探索与前沿
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 健康
+- 衰老
+- 视频文稿
+- 长寿
+people: []
+companies_orgs:
+- 一席
+products_models: []
+media_books:
+- 一席
 date: '2020-07-10'
+author: Lei
+speaker: 田烨
+channel: 一席
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 田烨
-summary: null
-tags:
-- 视频文稿
-- 健康
-- 长寿
-- 衰老
-- 一席
-title: 如何延缓衰老：生物学视角下的探索与前沿
 ---
-
 ## 引言：重新认识衰老
 
 各位下午好，我是来自中国科学院遗传与发育生物学研究所的研究员田烨。今天我想跟大家探讨的话题是衰老以及如何延缓衰老。作为一名科研工作者，我将从生物学的角度与大家分享一些见解。

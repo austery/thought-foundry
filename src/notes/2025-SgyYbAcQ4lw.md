@@ -1,27 +1,30 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=SgyYbAcQ4lw
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - nobel-prize
-  - chinese-economy
-  - innovation
-  - technological-development
-  - creative-destruction
-  - industrial-policy
 title: 2025年诺贝尔经济学奖：中国经济创新之路的复杂解读
 summary: 2025年诺贝尔经济学奖聚焦制度与创新，探讨中国在科技发展中的独特路径。本文深入分析命题性知识、处方性知识、创造性破坏等理论，剖析中国科技进步的动力与挑战，并指出其深层制度性问题。
-insight: ''
+area: market-analysis
+category: finance
+project: []
+tags:
+- chinese-economy
+- creative-destruction
+- industrial-policy
+- innovation
+- nobel-prize
+- technological-development
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-16'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=SgyYbAcQ4lw
 status: evergreen
 ---
 ### 引言：诺奖与中国经济问题的关联

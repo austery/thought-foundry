@@ -1,26 +1,30 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-09-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=t1GhMsB8WVE
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - middle-class-illusion
-  - financial-capitalism
-  - social-mobility
-  - wealth-inequality
-  - sociology
 title: 中产阶级幻象：为何财富积累仍难逃返贫困境？
 summary: 本文探讨了中产阶级概念的虚构性与返贫现象。基于豪道斯·魏斯的《我们从未中产过》，揭示了金融资本主义下，个体为追求安全感而进行的投资，如何反而加剧了不安全感，并将社会系统性风险转嫁为个人责任。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- financial-capitalism
+- middle-class-illusion
+- social-mobility
+- sociology
+- stella-an
+- wealth-inequality
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-20'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=t1GhMsB8WVE
 status: evergreen
 ---
 ### 中国经济现状与中产返贫现象

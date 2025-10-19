@@ -1,26 +1,30 @@
 ---
-author: 金融汪
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=hAGukOE5iwQ
-speaker: 金融汪
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - energy-policy
-  - strategic-petroleum-reserve
-  - ukraine-minerals
-  - nuclear-power
 title: 美国能源部长专访：战略石油储备、乌克兰矿产协议与核电站前景
 summary: 美国能源部长在专访中讨论了增加美国石油产量、充实战略石油储备的计划，并对与乌克兰的稀土矿产合作协议表示乐观。同时，他还就美国参与乌克兰核电站运营的可能性进行了回应。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ''
+- energy-policy
+- nuclear-power
+- strategic-petroleum-reserve
+- t-literature-note
+- ukraine-minerals
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 金融汪
+speaker: 金融汪
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=hAGukOE5iwQ
 status: evergreen
 ---
 ### 能源生产与许可流程

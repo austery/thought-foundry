@@ -1,27 +1,32 @@
 ---
-author: 莊也雜談
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=hxncdeHUHPo
-speaker: 莊也雜談
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - travel-cost-analysis
-  - vancouver-island
-  - victoria-bc
-  - tofino
-  - pacific-rim-national-park
 title: 加西三日游费用全揭秘：超支吓退网友？盘点温哥华与维多利亚地区未曾到访的绝美景点
-summary: 资深旅行博主庄也详尽总结加西三日游的各项开销，包括机票、住宿、交通、游玩及餐饮，并对比分析其高昂程度。同时，盘点了大温哥华与大维多利亚地区被遗漏的六大必去景点，带领观众云游Malahat Skywalk、Craigdarroch Castle、维多利亚唐人街、Cathedral Grove、Tofino及Pacific Rim National Park Reserve。
-insight: ''
+summary: 资深旅行博主庄也详尽总结加西三日游的各项开销，包括机票、住宿、交通、游玩及餐饮，并对比分析其高昂程度。同时，盘点了大温哥华与大维多利亚地区被遗漏的六大必去景点，带领观众云游Malahat
+  Skywalk、Craigdarroch Castle、维多利亚唐人街、Cathedral Grove、Tofino及Pacific Rim National
+  Park Reserve。
+area: personal-growth
+category: lifestyle
+project: []
+tags:
+- ''
+- pacific-rim-national-park
+- t-literature-note
+- tofino
+- travel-cost-analysis
+- vancouver-island
+- victoria-bc
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 莊也雜談
+speaker: 莊也雜談
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=hxncdeHUHPo
 status: evergreen
 ---
 ### 加西三日游费用总览：机票、住宿、交通、游玩、餐饮及购物支出

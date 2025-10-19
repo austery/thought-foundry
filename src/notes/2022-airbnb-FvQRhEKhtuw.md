@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2022-09-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FvQRhEKhtuw
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - airbnb-rental
-  - short-term-rental
-  - real-estate-investment
-  - financial-analysis
-  - passive-income
 title: 2022年Airbnb短租利润大公开：真实财务数据与管理经验分享
 summary: 本文详细分析了加拿大班夫地区一套Airbnb短租房在2022年的经营状况，公开了包括收入、成本、投资回报率等真实财务数据。同时探讨了外包管理的可行性，并分享了房东在时间、精力消耗和自由度方面的运营心得。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- airbnb-rental
+- financial-analysis
+- passive-income
+- real-estate-investment
+- short-term-rental
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-09-25'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=FvQRhEKhtuw
 status: evergreen
 ---
 ### 引言：2022年Airbnb短租收益回顾

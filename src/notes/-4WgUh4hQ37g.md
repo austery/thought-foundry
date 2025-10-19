@@ -1,26 +1,34 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=4WgUh4hQ37g
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - government-shutdown
-  - us-china-tariffs
-  - market-liquidation
-  - gaza-ceasefire
-  - geopolitical-news
 title: 彭博新闻要点：政府停摆、中美关税、市场震荡与地缘冲突
 summary: 本期彭博新闻聚焦美国政府停摆、中美关税升级的市场影响、银行财报展望、加沙停火进展、法国政局、菲律宾地震等全球要闻。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- bloomberg-podcasts
+- gaza-ceasefire
+- geopolitical-news
+- government-shutdown
+- market-liquidation
+- us-china-tariffs
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=4WgUh4hQ37g
 status: evergreen
 ---
 ### 美国政府停摆与军人家庭困境

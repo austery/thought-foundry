@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-09-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iJSB7RmmyDM
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - stock-market-analysis
-  - us-treasury-yields
-  - market-sentiment
-  - investment-strategy
-  - economic-indicators
 title: 周二市场深度解析：美债利率飙升、股市波动与新闻解读
 summary: 本期视频深入分析了周二的市场走势，探讨了美债收益率飙升及其对市场的影响，并以迪士尼新闻为例，阐述了如何正确解读负面公司新闻对基本面的影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- economic-indicators
+- investment-strategy
+- market-sentiment
+- stock-market-analysis
+- us-treasury-yields
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-09-03'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=iJSB7RmmyDM
 status: evergreen
 ---
 ### 市场概览与本期焦点

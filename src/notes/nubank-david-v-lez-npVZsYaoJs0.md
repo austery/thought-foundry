@@ -1,26 +1,32 @@
 ---
-author: Norges Bank Investment Management
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=npVZsYaoJs0
-speaker: Norges Bank Investment Management
-tags:
-  - t-literature-note
-  - norges-bank-investment-management
-  - t-literature-note
-  - fintech
-  - nubank
-  - entrepreneurship
-  - digital-banking
 title: Nubank 创始人 David Vélez：从零到拉美金融科技巨头的创业之路
-summary: Nubank 联合创始人兼 CEO David Vélez 分享了他创立 Nubank 的历程，包括家庭背景、创业初衷、在巴西金融市场的挑战、公司文化、AI 赋能金融服务以及他对领导力、社会责任和未来金融的看法。
-insight: ''
+summary: Nubank 联合创始人兼 CEO David Vélez 分享了他创立 Nubank 的历程，包括家庭背景、创业初衷、在巴西金融市场的挑战、公司文化、AI
+  赋能金融服务以及他对领导力、社会责任和未来金融的看法。
+area: market-analysis
+category: finance
+project:
+- entrepreneurship
+- investment-strategy
+tags:
+- digital-banking
+- entrepreneurship
+- fintech
+- norges-bank-investment-management
+- t-literature-note
+people: []
+companies_orgs:
+- nubank
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Norges Bank Investment Management
+speaker: Norges Bank Investment Management
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=npVZsYaoJs0
 status: evergreen
 ---
 ### 童年经历与创业基因

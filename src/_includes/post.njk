@@ -109,7 +109,7 @@ layout: "base.njk"
     {# 实体提取信息 (v7.4) - 使用可折叠区域 #}
     {% if people or companies_orgs or products_models or media_books %}
       <div class="entity-section">
-        <details>
+        <details class="entity-details">
           <summary>📌 文中提及的人物和组织</summary>
           <div class="entity-content">
             {% if people and people.length > 0 %}

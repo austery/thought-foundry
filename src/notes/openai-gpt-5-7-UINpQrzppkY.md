@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=UINpQrzppkY
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - openai
-  - gpt-5
-  - monetization
-  - ai-agent
-  - e-commerce
 title: OpenAI GPT-5：路由器如何驱动7亿用户变现并重塑商业格局
 summary: 本文深入分析OpenAI GPT-5背后的商业策略，聚焦“路由器”功能如何驱动其7亿免费用户变现。探讨了OpenAI通过代理（Agent）模式进军电商领域，挑战谷歌、Meta等巨头的潜在路径，并揭示了未来消费者购物体验的变革。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-agent
+- e-commerce
+- monetization
+people: []
+companies_orgs:
+- openai
+products_models:
+- gpt-5
+media_books: []
+date: '2025-08-18'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=UINpQrzppkY
 status: evergreen
 ---
 ### GPT-5的商业意图：OpenAI的7亿用户变现之路

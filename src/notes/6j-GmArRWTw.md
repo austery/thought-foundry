@@ -1,26 +1,29 @@
 ---
-author: 投资TALK君
-date: '2025-07-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6j-GmArRWTw
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - cpi-data
-  - federal-reserve
-  - jerome-powell
-  - donald-trump
-  - interest-rates
 title: CPI预测、鲍威尔去留与利率市场风险深度解析
 summary: 本期节目深度解析CPI预测、特朗普对鲍威尔的施压，以及即使降息长期美债收益率也可能不跌的市场风险。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- cpi-data
+- donald-trump
+- federal-reserve
+- interest-rates
+- jerome-powell
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-15'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6j-GmArRWTw
 status: evergreen
 ---
 ### 宏观数据与财报展望

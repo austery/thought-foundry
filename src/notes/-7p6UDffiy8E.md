@@ -1,25 +1,28 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-06-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7p6UDffiy8E
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - civilized-to-death
-  - critique-of-progress
-  - hunter-gatherer
-  - modern-dilemma
 title: 进步的幻象：《文明至死》揭示现代文明的困境
 summary: 《文明至死》一书揭示了文明“进步”的代价：个人幸福感下降。走出困境的关键在于重新认识人类与自我。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- civilized-to-death
+- critique-of-progress
+- hunter-gatherer
+- modern-dilemma
+- stella-an
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-06-28'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7p6UDffiy8E
 status: evergreen
 ---
 ### 文明的困境：为何发展没有带来幸福？

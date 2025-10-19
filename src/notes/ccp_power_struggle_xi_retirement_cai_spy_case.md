@@ -1,29 +1,32 @@
 ---
-author: Lei
-date: 2025-10-04
-guest:
-layout: post.njk
-source: http://www.youtube.com/watch?v=72ftvUF1aTY
-speaker: 老灯
-tags:
-  - t-literature-note
-  - china-politics
-  - xi-jinping
-  - ccp-infighting
-  - military-coup-rumors
-  - wen-jiabao
 title: 中共权力斗争：元老逼宫习退、四中全会预案与蔡奇间谍案
 summary: 元老与将领联名上书要求习近平在四中全会退休，并流出三套接班人预案。同时爆料蔡奇涉嫌英国间谍案以及习明泽介入于朦胧案。
-insight:
-file_name: ccp_power_struggle_xi_retirement_cai_spy_case.md
-draft: true
-series:
-category:
-area:
+area: market-analysis
+category: geopolitics
 project:
+- china-analysis
+tags:
+- ccp-infighting
+- china-politics
+- military-coup-rumors
+- wen-jiabao
+- xi-jinping
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-04
+author: Lei
+speaker: 老灯
+draft: true
+file_name: ccp_power_struggle_xi_retirement_cai_spy_case.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: http://www.youtube.com/watch?v=72ftvUF1aTY
 status: evergreen
 ---
-
 # 中共权力斗争：元老逼宫习退、四中全会预案与蔡奇间谍案
 
 ## 元老与现役将领联名上书，要求习近平提前退休

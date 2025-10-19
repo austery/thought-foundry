@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jOr8I4J2QiA
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - federal-reserve
-  - trade-war
-  - bank-earnings
-  - european-politics
-  - market-outlook
 title: 鲍威尔暗示美联储或降息，中美贸易升级与全球经济挑战
 summary: 鲍威尔暗示美联储或降息，市场随之反弹。中美贸易战升级，IMF警告经济后果。银行巨头盈利亮眼却警示风险。欧洲政治与ASML财报亦受关注。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- bank-earnings
+- bloomberg-podcasts
+- european-politics
+- federal-reserve
+- market-outlook
+- trade-war
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=jOr8I4J2QiA
 status: evergreen
 ---
 ### 市场动态与美联储政策展望

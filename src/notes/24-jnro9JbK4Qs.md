@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jnro9JbK4Qs
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - us-politics
-  - 2024-election
-  - donald-trump
-  - joe-biden
-  - assassination-attempt
 title: 美国政治的转折点：子弹、背叛与24小时的命运抉择
 summary: 2024年7月13日，美国政治经历了一场史无前例的24小时。唐纳德·特朗普在集会上遭遇刺杀，奇迹生还后政治声望达到顶峰；而乔·拜登在党内巨大压力下，最终决定放弃连任竞选。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- 2024-election
+- assassination-attempt
+- donald-trump
+- joe-biden
+- us-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=jnro9JbK4Qs
 status: evergreen
 ---
 ### 特朗普的副手选择与享受掌控

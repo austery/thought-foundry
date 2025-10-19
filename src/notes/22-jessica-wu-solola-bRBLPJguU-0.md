@@ -1,26 +1,29 @@
 ---
-author: EO
-date: '2025-08-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bRBLPJguU-0
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - startup-journey
-  - ai-automation
-  - founder-insights
-  - customer-centricity
-  - rpa-technology
 title: 22岁创始人Jessica Wu：从华尔街到硅谷，Solola的创业心路与成长法则
 summary: Solola的年轻CEO Jessica Wu分享了她从金融量化研究员到科技创业者的历程，以及她对风险、学习、客户至上和创业挑战的独特见解。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-automation
+- customer-centricity
+- founder-insights
+- rpa-technology
+- startup-journey
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-29'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=bRBLPJguU-0
 status: evergreen
 ---
 ### 金融生涯与创业动机

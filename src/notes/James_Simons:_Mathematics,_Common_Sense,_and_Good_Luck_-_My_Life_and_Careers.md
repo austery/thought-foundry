@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 'James Simons: Mathematics, Common Sense, and Good Luck - My Life and Careers'
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 投资
+- 投资大师
+- 视频文稿
+- 量化投资
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-11'
+author: Lei
+speaker: 詹姆斯·西蒙斯
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 詹姆斯·西蒙斯
-summary: null
-tags:
-- 视频文稿
-- 詹姆斯·西蒙斯
-- 量化投资
-- 投资大师
-- 投资
-title: 'James Simons: Mathematics, Common Sense, and Good Luck - My Life and Careers'
 ---
-
 ## Speaker Introduction / 讲者简介
 
 **English:** James Simons is a renowned mathematician, hedge fund

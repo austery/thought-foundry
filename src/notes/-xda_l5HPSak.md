@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-10-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=xda_l5HPSak
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - investment-strategy
-  - risk-management
-  - fed-monetary-policy
-  - market-sentiment
 title: 美股再创新高：市场情绪、风险管理与美联储政策深度解析
 summary: 本文深入分析美股创新高背景下的市场情绪与参与度，探讨如何利用量化指标管理投资组合风险、制定减仓策略。同时，前瞻性解读美联储降息政策，并分享了个人投资实践案例及相关开户福利。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- fed-monetary-policy
+- investment-strategy
+- market-sentiment
+- risk-management
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-10-09'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=xda_l5HPSak
 status: evergreen
 ---
 ### 开篇与频道更新

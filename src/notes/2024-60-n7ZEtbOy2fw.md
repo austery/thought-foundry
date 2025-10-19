@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=n7ZEtbOy2fw
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - us-politics
-  - presidential-debate
-  - biden
-  - trump
-  - democratic-party-crisis
 title: 2024年总统辩论：拜登崩溃时刻，白宫战情室绝望60秒
 summary: 2024年总统辩论中，拜登表现失常，引发白宫绝望。本文揭示了辩论前后双方备战、拜登团队应对灾难，以及民主党内部在媒体、资金和国会压力下的前所未有政治危机。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- biden
+- democratic-party-crisis
+- presidential-debate
+- us-politics
+people:
+- trump
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=n7ZEtbOy2fw
 status: evergreen
 ---
 ### 班农的预言：辩论前的警告

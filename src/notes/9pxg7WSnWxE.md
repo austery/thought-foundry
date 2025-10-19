@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-06-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9pxg7WSnWxE
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - fed-meeting
-  - dot-plot
-  - slr-ratio
-  - market-analysis
-  - investment-strategy
 title: 美联储会议前瞻：点阵图、SLR调整与市场应对策略
 summary: 本期节目展望美联储周三会议，分析**经济预测摘要点阵图**（SEP Dot Plot）的鹰派信号与鲍威尔的鸽派发言预期。同时探讨美联储调整**补充杠杆比率**（SLR）对银行及美债的影响，并结合市场数据，提供潜在加仓策略与标的分析。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- dot-plot
+- fed-meeting
+- investment-strategy
+- market-analysis
+- slr-ratio
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-06-18'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9pxg7WSnWxE
 status: evergreen
 ---
 ### 引言与本期展望

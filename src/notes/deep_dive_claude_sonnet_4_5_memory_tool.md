@@ -1,28 +1,33 @@
 ---
-author: Lei
-date: 2025-10-03
-guest:
-layout: post.njk
-source: https://www.youtube.com/watch?v=pidnIHdA1Y8
-speaker: Charles
-tags:
-- t-literature-note
-- claude-sonnet-4-5
-- ai-memory-tool
-- large-language-models
-- agentic-ai
 title: A Deep Dive into Claude Sonnet 4.5's Powerful New Memory Tool
-summary: A discussion on Anthropic's Sonnet 4.5, focusing on its new memory tool which treats long-term memory as a client-side file directory, an evolution of concepts from MemGPT and coding agents.
-insight:
-file_name: deep_dive_claude_sonnet_4_5_memory_tool.md
-draft: true
-series:
-category:
-area:
+summary: A discussion on Anthropic's Sonnet 4.5, focusing on its new memory tool which
+  treats long-term memory as a client-side file directory, an evolution of concepts
+  from MemGPT and coding agents.
+area: tech-insights
+category: technology
 project:
+- ai-impact-analysis
+tags:
+- agentic-ai
+- ai-memory-tool
+- claude-sonnet-4-5
+- large-language-models
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-03
+author: Lei
+speaker: Charles
+draft: true
+file_name: deep_dive_claude_sonnet_4_5_memory_tool.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=pidnIHdA1Y8
 status: evergreen
 ---
-
 ### Introduction to Sonnet 4.5 and the Memory Tool
 
 Hi everyone, this is Charles from Leta. Today I'm going to be talking about Anthropic's brand new model release, Sonnet 4.5.

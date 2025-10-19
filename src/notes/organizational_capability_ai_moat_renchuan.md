@@ -1,25 +1,29 @@
 ---
-author: Lei
-date: 2025-09-26
-guest: 人川
-layout: post.njk
-source: 
-speaker: 主持人, 人川
-tags:
-- t-literature-note
-- ai-native
-- organizational-structure
-- engineering-efficiency
-- team-management
 title: 组织能力才是 AI 公司真正的壁垒
 summary: 湾区创业者人川分享了关于如何打造 AI Native 工程团队的深刻见解，论证了在 AI 时代，真正的壁垒是组织形式而非技术本身。讨论内容涵盖了具体的工作流、所需人才特质以及未来的组织形态。
-insight:
-file_name: organizational_capability_ai_moat_renchuan.md
-draft: true
-series:
-category:
-area:
+area: tech-insights
+category: technology
 project:
+- ai-impact-analysis
+tags:
+- ai-native
+- engineering-efficiency
+- organizational-structure
+- team-management
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-26
+author: Lei
+speaker: 主持人, 人川
+draft: true
+file_name: organizational_capability_ai_moat_renchuan.md
+guest: 人川
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
 ### 前言：组织形式是 AI 时代的核心壁垒

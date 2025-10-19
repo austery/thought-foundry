@@ -1,26 +1,35 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=YZHyiBabvH4
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - middle-east-peace
-  - us-china-trade
-  - european-ai-strategy
-  - commodity-markets
-  - geopolitics
 title: 特朗普中东和平协议、中美贸易紧张与欧洲AI独立性
 summary: 彭博欧洲日出播客探讨了特朗普促成的加沙停火协议、中美贸易关系紧张、欧洲在人工智能领域对美国的依赖，以及白银价格创历史新高等全球经济和地缘政治热点。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- geopolitics-watch
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- bloomberg-podcasts
+- commodity-markets
+- european-ai-strategy
+- geopolitics
+- middle-east-peace
+- us-china-trade
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=YZHyiBabvH4
 status: evergreen
 ---
 ### 播客引言与今日头条

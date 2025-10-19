@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2025-04-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=X6OYw3u_2kQ
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - entrepreneurship
-  - business-strategy
-  - downside-protection
-  - minimalist-entrepreneurship
-  - side-hustle
 title: 创业不失败的核心法则：Do Not Lose Money
 summary: 本视频分享了“不赔钱”这一创业法则在实际操作中的深层意义。通过空手套白狼、借机生蛋、设定正确衡量标准等策略，帮助创业者实现从零到一，避免失败，并强调了系统性思考和行动的重要性。
-insight: ''
+area: market-analysis
+category: business
+project:
+- entrepreneurship
+tags:
+- business-strategy
+- downside-protection
+- entrepreneurship
+- minimalist-entrepreneurship
+- side-hustle
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-04-12'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=X6OYw3u_2kQ
 status: evergreen
 ---
 ### 创业不失败的悖论与核心法则

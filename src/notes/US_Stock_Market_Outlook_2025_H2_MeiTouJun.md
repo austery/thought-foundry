@@ -1,22 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 2025下半年美股投资展望：全面解析政策、通胀与市场机遇
+summary: null
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- ai赋能
+- 投资
+- 视频文稿
+- 通胀风险
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 美投君
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 美投君
-summary: null
-tags:
-- 视频文稿
-- 投资
-- 通胀风险
-- AI赋能
-title: 2025下半年美股投资展望：全面解析政策、通胀与市场机遇
 ---
-
 ## 1. 导言：回顾与展望
 
 **美投君：**大家好，我是美投君，你们的美股探路者。前不久，美股灾难性的闪崩还历历在目，转眼间，股市就已经快要再创新高了。抓住这波机会的人赚得是盆满钵满，然而也有不少人因为市场涨得太快，仍然没有找到入场机会。不过没关系，不管你是哪一种，下半年的美股市场注定都将给你更多的机会。为什么这么说呢？

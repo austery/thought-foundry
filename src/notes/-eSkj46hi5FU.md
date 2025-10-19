@@ -1,25 +1,29 @@
 ---
-author: 禁書筆記
-date: '2025-08-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=eSkj46hi5FU
-speaker: 禁書筆記
-tags:
-  - t-literature-note
-  - kmt-factional-politics
-  - chiang-kai-shek
-  - hu-hanmin
-  - september-18th-incident
-  - tutelage-period
 title: 国民党高层派系政治：蒋介石权力巩固与九一八事变提前爆发
 summary: 本文深入探讨1930年代国民党内部的派系斗争，特别是蒋介石如何巩固权力、羁押胡汉民，以及这系列事件如何提前引爆九一八事变，最终促成民族危机下的团结。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- chiang-kai-shek
+- hu-hanmin
+- kmt-factional-politics
+- september-18th-incident
+- tutelage-period
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-22'
+author: 禁書筆記
+speaker: 禁書筆記
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=eSkj46hi5FU
 status: evergreen
 ---
 ### 国民党内部的白热化冲突

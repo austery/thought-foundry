@@ -1,26 +1,29 @@
 ---
-author: Adam's Axiom
-date: '2025-05-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=cOESNLP00Us
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - game-theory
-  - strategic-thinking
-  - cooperation
-  - nash-equilibrium
-  - prisoner-dilemma
 title: 博弈论：理解个人生活与全球挑战的经济理论
 summary: 本文深入探讨了博弈论这一强大的经济理论，从其起源、核心概念（如纳什均衡、囚徒困境）到在商业定价、谈判和国际关系中的实际应用。文章强调了理解博弈论如何揭示人类互动中的战略决策，以及通过重复博弈和制度设计实现合作共赢的重要性，最终指出博弈论对个人选择和应对全球挑战的深远影响。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- adam-s-axiom
+- cooperation
+- game-theory
+- nash-equilibrium
+- prisoner-dilemma
+- strategic-thinking
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-11'
+author: Adam's Axiom
+speaker: Adam's Axiom
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=cOESNLP00Us
 status: evergreen
 ---
 ### 博弈论入门：预测他人行为的艺术

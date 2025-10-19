@@ -1,26 +1,31 @@
 ---
-author: Adam's Axiom
-date: '2025-04-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=0o6gPFbq_1w
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - capitalism-evolution
-  - market-distortion
-  - wealth-concentration
-  - government-intervention
-  - worker-wages
 title: 亚当·斯密如何看待当今经济：一场跨越时空的对话
 summary: 本文通过一场模拟对话，探讨了“资本主义之父”亚当·斯密如果置身于现代经济，他将如何看待其演变。文章揭示了政府补贴、垄断、财富集中、全球化供应链以及工人待遇等现象如何偏离了斯密对自由市场的原始构想，并反思了当代资本主义在追求利润的同时，如何平衡人类福祉与社会公平的挑战。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- adam-s-axiom
+- capitalism-evolution
+- government-intervention
+- market-distortion
+- wealth-concentration
+- worker-wages
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-04-26'
+author: Adam's Axiom
+speaker: Adam's Axiom
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=0o6gPFbq_1w
 status: evergreen
 ---
 ### 引言：斯密的困惑与现代资本主义的挑战

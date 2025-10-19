@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-10-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=rv9vhv8AGuc
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - richard-sutton
-  - chatgpt
-  - reinforcement-learning
-  - artificial-general-intelligence
-  - ai-philosophy
 title: 图灵奖得主理查德·萨顿痛批ChatGPT：AI路线之争与智能的未来
-summary: 图灵奖得主理查德·萨顿对大语言模型提出尖锐批评，认为其是“没有目标的模仿者”，缺乏真正的世界模型，预言其将达扩展极限。他倡导强化学习，强调智能源于经验而非教导，认为Alpha Zero的进化是通向通用人工智能的正确路径，并探讨了AI继承的深远哲学意义。
-insight: ''
+summary: 图灵奖得主理查德·萨顿对大语言模型提出尖锐批评，认为其是“没有目标的模仿者”，缺乏真正的世界模型，预言其将达扩展极限。他倡导强化学习，强调智能源于经验而非教导，认为Alpha
+  Zero的进化是通向通用人工智能的正确路径，并探讨了AI继承的深远哲学意义。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-philosophy
+- artificial-general-intelligence
+- reinforcement-learning
+- richard-sutton
+people: []
+companies_orgs: []
+products_models:
+- chatgpt
+media_books: []
+date: '2025-10-02'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=rv9vhv8AGuc
 status: evergreen
 ---
 ### 引言：图灵奖得主对AI主流路线的质疑

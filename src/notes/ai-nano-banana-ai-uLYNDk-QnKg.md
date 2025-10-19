@@ -1,26 +1,30 @@
 ---
-author: 硅谷101
-date: '2025-09-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uLYNDk-QnKg
-speaker: 硅谷101
-tags:
-  - t-literature-note
-  - '101'
-  - google-ai
-  - multimodal-ai
-  - nano-banana
-  - generative-ai
-  - image-generation
 title: 谷歌AI多模态五大主线布局：从Nano Banana看其生成式AI战略
 summary: 本文深入探讨谷歌最新文生图模型Nano Banana的突破性能力，如惊人的一致性和多图融合。同时，系统梳理谷歌在文生图、文生视频、交互世界生成等五大多模态产品线，分析其在生成式AI领域的战略布局与市场潜力。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- '101'
+- generative-ai
+- google-ai
+- image-generation
+- multimodal-ai
+- nano-banana
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-06'
+author: 硅谷101
+speaker: 硅谷101
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uLYNDk-QnKg
 status: evergreen
 ---
 ### Nano Banana：文生图领域的“炸裂”新星

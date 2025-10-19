@@ -1,26 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-09-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=N9T93sQsIHc
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - ai-data
-  - data-curation
-  - large-language-models
-  - synthetic-data
-  - ari-morcos
 title: AI的尽头是更好的数据：Datology创始人解析数据策展的重要性
 summary: Datology创始人Ari Morcos强调，在AI发展中数据是最被低估的变量。面对模型增长放缓，他提出通过极致的数据策展，让模型更高效学习，突破性能瓶颈，并详细阐述了其系统性工程和实践经验。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-data
+- ari-morcos
+- best-partners-tv
+- data-curation
+- large-language-models
+- synthetic-data
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-15'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=N9T93sQsIHc
 status: evergreen
 ---
 ### 引言：AI发展中的数据困境与突破

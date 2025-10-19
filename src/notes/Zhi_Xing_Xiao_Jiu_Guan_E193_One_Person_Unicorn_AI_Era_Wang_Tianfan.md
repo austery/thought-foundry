@@ -1,22 +1,30 @@
 ---
-author: Lei
-channel: 知行小酒馆
+title: E193 AI时代，“一人独角兽”是幻想还是未来？
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- prompt
+- 人工智能
+- 视频文稿
+people:
+- 知行小酒馆
+companies_orgs: []
+products_models: []
+media_books:
+- 知行小酒馆
 date: '2025-07-10'
+author: Lei
+speaker: 雨白
+channel: 知行小酒馆
 guest: 汪天凡
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=2l8qpxDGWIE&t
-speaker: 雨白
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- Prompt
-- 知行小酒馆
-title: E193 AI时代，“一人独角兽”是幻想还是未来？
 ---
-
 ## 引言：一场关于“一人独角兽”的思维实验
 
 **雨白:**

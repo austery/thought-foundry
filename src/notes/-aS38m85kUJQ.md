@@ -1,25 +1,29 @@
 ---
-author: 课代表立正
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=aS38m85kUJQ
-speaker: 课代表立正
-tags:
-  - t-literature-note
-  - interview-skills
-  - career-development
-  - mindset
-  - personal-growth
-  - workplace-success
 title: 掌握“无我”心态：面试与职场成功的核心策略
 summary: 本视频深入探讨了在面试、工作和生活中，“无我”心态的重要性。通过具体案例，阐释了放下自我关注，专注于解决问题或对方，能帮助个人实现最佳表现，并提供相关福利。
-insight: ''
+area: personal-growth
+category: career
+project:
+- personal-growth-lab
+tags:
+- career-development
+- interview-skills
+- mindset
+- personal-growth
+- workplace-success
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: 课代表立正
+speaker: 课代表立正
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=aS38m85kUJQ
 status: evergreen
 ---
 ### 掌握“无我”心态：面试与职场成功的关键

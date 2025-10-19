@@ -1,24 +1,27 @@
 ---
-author: 一口新飯
-date: '2022-10-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=j7__VGVPBpc
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - modern-monetary-theory
-  - economic-policy
-  - government-debt
-  - inflation
 title: 现代货币理论（MMT）：争议、实践与未来趋势
 summary: 本文深入探讨备受争议的现代货币理论（MMT），对比其与主流经济学在政府财政、国债和印钱还债等问题上的根本分歧。文章分析了MMT在疫情期间的实践与通胀挑战，并展望了未来全球经济可能走向MMT道路的趋势。
-insight: ''
+area: market-analysis
+category: finance
+project: []
+tags:
+- economic-policy
+- government-debt
+- inflation
+- modern-monetary-theory
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-10-03'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=j7__VGVPBpc
 status: evergreen
 ---
 ### 美国债务困境与“印钱还债”的悖论

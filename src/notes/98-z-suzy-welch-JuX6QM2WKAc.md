@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=JuX6QM2WKAc
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - gen-z
-  - workforce-values
-  - employer-expectations
-  - generational-differences
 title: 98% 的 Z 世代价值观与企业需求脱节：Suzy Welch 深度分析
 summary: Suzy Welch 的研究揭示，只有 2% 的 Z 世代拥有企业青睐的价值观。她深入探讨了 Z 世代的价值观形成原因，以及企业在招聘和管理上的应对策略。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- employer-expectations
+- gen-z
+- generational-differences
+- t-literature-note
+- workforce-values
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=JuX6QM2WKAc
 status: evergreen
 ---
 ### Z 世代的价值观观察

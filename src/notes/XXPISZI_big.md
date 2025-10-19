@@ -1,26 +1,29 @@
 ---
-author: All-In Podcast
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XXPISZI_big
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - health
-  - sleep-optimization
-  - longevity
-  - biological-age
-  - mental-health
 title: 布莱恩·约翰逊的健康秘诀：优化睡眠，活得更久
 summary: 布莱恩·约翰逊分享了他对健康的深刻见解，强调通过优化睡前静息心率来改善睡眠质量，从而提升意志力、情绪和整体健康。他挑战了牺牲睡眠以追求成功的文化，并提出“不死”是人类的下一个主要意识形态。
-insight: ''
+area: personal-growth
+category: lifestyle
+project: []
+tags:
+- all-in-podcast
+- biological-age
+- health
+- longevity
+- mental-health
+- sleep-optimization
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XXPISZI_big
 status: evergreen
 ---
 ### 引言：生与死的哲学拷问

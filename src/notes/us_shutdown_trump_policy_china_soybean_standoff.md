@@ -1,26 +1,35 @@
 ---
-author: Lei
-date: 2025-10-03
-guest: 
-layout: post.njk
-source: 
-speaker: Lei
-tags:
-- t-literature-note
-- us-china-trade-war
-- government-shutdown
-- trump
-- soybean
-- involution
-title: Analysis of US Government Shutdown, Trump's Foreign Policy, and the US-China Soybean Standoff
-summary: This analysis covers the impacts of the US government shutdown on economic data, Trump's political and foreign policy maneuvers regarding funding and a Gaza peace plan, and the escalating US-China trade tensions centered on soybean purchases, which China is leveraging as a strategic weapon.
-insight:
-file_name: us_shutdown_trump_policy_china_soybean_standoff.md
-draft: true
-series:
-category:
-area:
+title: Analysis of US Government Shutdown, Trump's Foreign Policy, and the US-China
+  Soybean Standoff
+summary: This analysis covers the impacts of the US government shutdown on economic
+  data, Trump's political and foreign policy maneuvers regarding funding and a Gaza
+  peace plan, and the escalating US-China trade tensions centered on soybean purchases,
+  which China is leveraging as a strategic weapon.
+area: market-analysis
+category: geopolitics
 project:
+- china-analysis
+- us-analysis
+tags:
+- government-shutdown
+- involution
+- soybean
+- us-china-trade-war
+people:
+- trump
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-03
+author: Lei
+speaker: Lei
+draft: true
+file_name: us_shutdown_trump_policy_china_soybean_standoff.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
 大家好，我们一起来分享今天不能错过的重要新闻。今天是10月3日。

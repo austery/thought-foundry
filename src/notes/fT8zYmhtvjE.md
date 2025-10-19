@@ -1,26 +1,32 @@
 ---
-author: Amit Kukreja
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fT8zYmhtvjE
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - market-analysis
-  - semiconductors
-  - ai-industry
-  - earnings-report
-  - energy-demand
 title: 市场开盘：台积电财报强劲，AI与能源需求引发关注
 summary: 本期市场开盘节目深入探讨了台积电强劲的财报表现及其对半导体行业的影响，Salesforce的增长预期，加密货币市场动态，以及数据中心对能源需求的挑战。嘉宾Jose分享了对AMD、Navitas等半导体公司的独到见解，并讨论了AI基础设施投资策略。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-industry
+- amit-kukreja
+- earnings-report
+- energy-demand
+- market-analysis
+- semiconductors
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fT8zYmhtvjE
 status: evergreen
 ---
 ### 市场概览与开场

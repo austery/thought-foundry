@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 深度分析：泳池用品店是骗局吗？
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 水化学
+- 泳池维护
+- 消费陷阱
+- 行业内幕
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: steve.com
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https.www.youtube.com/watch?v=placeholder
-speaker: steve.com
-summary: null
-tags:
-- 视频文稿
-- 泳池维护
-- 水化学
-- 消费陷阱
-- 行业内幕
-title: 深度分析：泳池用品店是骗局吗？
 ---
-
 ## 问题的根源：认知差距与行业现实
 
 

@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 访谈报告：加拿大人的收入，工作与财富
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 加拿大收入
+- 投资
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-05-25'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 加拿大收入
-- 投资
-title: 访谈报告：加拿大人的收入，工作与财富
 ---
-
 # 加拿大人的收入，工作与财富
 
 主讲人：王红雨 \| 日期：2025年5月16号

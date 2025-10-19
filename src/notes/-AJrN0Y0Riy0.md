@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2022-12-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=AJrN0Y0Riy0
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - travel
-  - consumerism
-  - personal-finance
-  - intentional-traveling
-  - self-investment
 title: 旅行是消费主义还是个人投资？深度解析意向性旅行与消费主义陷阱
 summary: 本文探讨旅行的本质，区分消费性旅游与投资性旅行。作者分享了其“意向性旅行”原则，旨在帮助读者避免消费主义陷阱，实现更有意义的个人成长与回报。
-insight: ''
+area: personal-growth
+category: lifestyle
+project:
+- investment-strategy
+tags:
+- consumerism
+- intentional-traveling
+- personal-finance
+- self-investment
+- travel
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-12-10'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=AJrN0Y0Riy0
 status: evergreen
 ---
 ### 个人旅行经历与反思

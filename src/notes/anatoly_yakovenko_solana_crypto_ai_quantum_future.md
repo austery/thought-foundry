@@ -1,29 +1,35 @@
 ---
-author: Lei
-date: 2025-09-25
-guest: Anatoly Yakovenko
-layout: post.njk
-source: 
-speaker: Interviewer
-tags:
-- t-literature-note
-- solana
-- cryptocurrency
-- quantum-computing
-- artificial-intelligence
-- decentralized-finance
 title: Anatoly Yakovenko on Solana, Crypto's Next Era with AI and Quantum Computing
-summary: Solana co-founder Anatoly Yakovenko discusses the future of crypto, positioning Solana as the world's execution layer, and explores the transformative impact of regulation, AI, and quantum computing on decentralized finance.
-insight:
-file_name: anatoly_yakovenko_solana_crypto_ai_quantum_future.md
-draft: true
-series:
-category:
-area:
+summary: Solana co-founder Anatoly Yakovenko discusses the future of crypto, positioning
+  Solana as the world's execution layer, and explores the transformative impact of
+  regulation, AI, and quantum computing on decentralized finance.
+area: tech-insights
+category: technology
 project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- artificial-intelligence
+- cryptocurrency
+- decentralized-finance
+- quantum-computing
+- solana
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-25
+author: Lei
+speaker: Interviewer
+draft: true
+file_name: anatoly_yakovenko_solana_crypto_ai_quantum_future.md
+guest: Anatoly Yakovenko
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ### Introduction
 
 Interviewer: Anatoli is the CEO of a little crypto project known as Solana, one of the fastest growing blockchains in the world. As CEO of Solana Labs, he's driving web 3 innovation. BlackRock, the world's largest asset manager, expanded its $1.7 billion tokenized money market fund to Solana. Why don't we all switch to Solana? I mean, Solana sounds like it's actually commercial and the other guys sound like they're antique. Everybody in the world should be your customer. Crypto will eventually win. It's inevitable. Ladies and gentlemen, please welcome Solana co-founder Anatoly Yakovenko.

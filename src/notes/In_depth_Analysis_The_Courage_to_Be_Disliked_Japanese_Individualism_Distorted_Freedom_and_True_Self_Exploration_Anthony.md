@@ -1,24 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 深度剖析《被讨厌的勇气》：日式个人主义、自由观扭曲与自我探索的真谛
+summary: null
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 个人主义
+- 自我探索
+- 自由
+- 视频文稿
+- 阿德勒心理学
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- 被讨厌的勇气
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 被讨厌的勇气
-- 阿德勒心理学
-- 个人主义
-- 自由
-- 自我探索
-title: 深度剖析《被讨厌的勇气》：日式个人主义、自由观扭曲与自我探索的真谛
 ---
-
 大家好，我是安东尼，欢迎来到我的频道。
 
 ## 引言：《被讨厌的勇气》及其争议

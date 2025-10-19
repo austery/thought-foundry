@@ -1,25 +1,30 @@
 ---
-author: 禁書筆記
-date: '2025-08-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=z1m5tPxVqNY
-speaker: 禁書筆記
-tags:
-  - t-literature-note
-  - sino-japanese-war
-  - russia-ukraine-war
-  - international-relations
-  - war-history
-  - political-leadership
 title: 战火下的抉择：抗日与俄乌战争中弱国领袖的妥协与抗争
 summary: 本文通过比较抗日战争时期蒋介石与俄乌战争中泽连斯基的抉择，分析弱国领袖面对强敌时，为何拒绝妥协，并探讨陶德曼调停与伊斯坦布尔谈判、南京与布查大屠杀对战争走向的影响。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- historical-insights
+tags:
+- international-relations
+- political-leadership
+- russia-ukraine-war
+- sino-japanese-war
+- war-history
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-29'
+author: 禁書筆記
+speaker: 禁書筆記
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=z1m5tPxVqNY
 status: evergreen
 ---
 ### 引言：战火下的艰难抉择

@@ -1,26 +1,29 @@
 ---
-author: All-In Podcast
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XXPISZI_big
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - longevity
-  - sleep-optimization
-  - biological-age
-  - health-hacks
-  - bryan-johnson
 title: Bryan Johnson 探讨健康长寿秘诀：优化睡眠与生物年龄
 summary: Bryan Johnson 分享了其逆转衰老的实验，强调通过优化睡前静息心率、改善睡眠习惯等方法，实现更佳健康状态，并提出“不死亡”是人类的下一个主要思想。
-insight: ''
+area: personal-growth
+category: lifestyle
+project: []
+tags:
+- all-in-podcast
+- biological-age
+- bryan-johnson
+- health-hacks
+- longevity
+- sleep-optimization
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XXPISZI_big
 status: evergreen
 ---
 ### 开场：生死的哲学辩论

@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ogwjRtyZIrM
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - new-zealand-economy
-  - fiscal-policy
-  - monetary-policy
-  - housing-market
-  - nicola-willis
 title: 新西兰财政部长尼古拉·威利斯：重塑经济基础与未来愿景
 summary: 新西兰财政部长尼古拉·威利斯在访谈中讨论了新西兰经济面临的挑战与复苏策略，包括财政整顿、投资促进、住房市场改革及央行透明度提升。她强调了政府在可持续增长和长期责任方面的承诺。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- bloomberg-podcasts
+- fiscal-policy
+- housing-market
+- monetary-policy
+- new-zealand-economy
+- nicola-willis
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ogwjRtyZIrM
 status: evergreen
 ---
 ### 新西兰经济现状与政府应对

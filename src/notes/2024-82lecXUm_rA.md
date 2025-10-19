@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=82lecXUm_rA
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - us-election-2024
-  - biden-campaign
-  - trump-strategy
-  - political-machines
-  - campaign-dynamics
 title: 拜登与特朗普：2024选战中的两台政治机器对决
 summary: 2024大选前夕，拜登团队在内部混乱与外部质疑中挣扎，而特朗普阵营则通过血腥清洗和高效重塑，打造出冷酷的战争机器。一场不对称的终极对决即将展开。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- biden-campaign
+- campaign-dynamics
+- political-machines
+- trump-strategy
+- us-election-2024
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-06'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=82lecXUm_rA
 status: evergreen
 ---
 ### “记忆力不佳”的标签与政治风暴

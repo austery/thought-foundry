@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-04-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=69kT7bHQAn4
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - us-china-trade
-  - federal-reserve
-  - tech-earnings
-  - economic-outlook
 title: 市场反弹逻辑、中美关系进展与科技巨头财报解析
 summary: 本期视频深入分析了近期市场空头回补的逻辑、中美贸易关系的最新动态，并详细解读了谷歌、英特尔及Skechers的最新财报数据与市场影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- economic-outlook
+- federal-reserve
+- market-analysis
+- tech-earnings
+- us-china-trade
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-04-25'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=69kT7bHQAn4
 status: evergreen
 ---
 ### 引言与本期内容概览

@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fjOH0N_AtY0
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - market-analysis
-  - investment-strategy
-  - bond-market
-  - market-sentiment
 title: 美股三大卖出信号已触发？深度解析美银研报与市场情绪
 summary: 本期节目深入解读美国银行研报，分析美股三大卖出信号、潜在债市风险及政策影响，并结合市场情绪指标提供投资参考。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- bond-market
+- investment-strategy
+- market-analysis
+- market-sentiment
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-22'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fjOH0N_AtY0
 status: evergreen
 ---
 ### 市场概览与本期主题

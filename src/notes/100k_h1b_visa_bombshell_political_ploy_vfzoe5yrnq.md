@@ -1,29 +1,36 @@
 ---
-author: Lei
-date: 2025-09-22
-guest: 
-layout: post.njk
-source: https://www.youtube.com/watch?v=VfZoe5YxRNQ
-speaker: 王探长
+title: The $100,000 H1-B Bombshell - A Political Ploy Disguised as Reform
+summary: An analysis of the Trump administration's proposal for a $100,000 H1-B visa
+  fee. This discussion deconstructs the official rationale, highlights the immediate
+  chaos and fear it created for visa holders and industries like tech and healthcare,
+  and argues that the policy is a calculated political maneuver designed to create
+  uncertainty and cater to a specific base, rather than a genuine reform.
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
 tags:
-- t-literature-note
 - h1b-visa
-- us-immigration
-- trump-policy
 - political-analysis
 - tech-industry
-title: The $100,000 H1-B Bombshell - A Political Ploy Disguised as Reform
-summary: An analysis of the Trump administration's proposal for a $100,000 H1-B visa fee. This discussion deconstructs the official rationale, highlights the immediate chaos and fear it created for visa holders and industries like tech and healthcare, and argues that the policy is a calculated political maneuver designed to create uncertainty and cater to a specific base, rather than a genuine reform.
-insight: 
-file_name: 100k_h1b_visa_bombshell_political_ploy_vfzoe5yrnq.md
+- trump-policy
+- us-immigration
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-22
+author: Lei
+speaker: 王探长
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: 100k_h1b_visa_bombshell_political_ploy_vfzoe5yrnq.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=VfZoe5YxRNQ
 status: evergreen
 ---
-
 ## H1-B签证风暴：10万美元的申请费
 
 前两天，川普总统签署了一项行政命令，规定未来申请**H1-B工作签证**（一种美国向高技能外国人才发放的非移民工作签证），需要先交10万美元的申请费。你没听错，是10万美元。这个新闻一出，整个市场就炸了锅。

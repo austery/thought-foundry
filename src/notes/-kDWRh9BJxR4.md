@@ -1,26 +1,29 @@
 ---
-author: 超級歪 SuperY
-date: '2025-09-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=kDWRh9BJxR4
-speaker: 超級歪 SuperY
-tags:
-  - t-literature-note
-  - supery
-  - political-polarization
-  - emotional-politics
-  - critical-thinking
-  - philosophy-education
-  - social-media-impact
 title: 台湾社会两极化：情绪政治的挑战与批判性思维的重建
 summary: 本文探讨台湾社会日益加剧的两极化现象，指出情绪政治和社群媒体是主要驱动因素。文章借鉴法国哲学教育，强调培养批判性思维和思辨能力，以应对民主内耗，重建社会信任，并促进理性对话。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- critical-thinking
+- emotional-politics
+- philosophy-education
+- political-polarization
+- social-media-impact
+- supery
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-26'
+author: 超級歪 SuperY
+speaker: 超級歪 SuperY
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=kDWRh9BJxR4
 status: evergreen
 ---
 ### 台湾社会两极化：言论空间紧缩与情绪政治的兴起

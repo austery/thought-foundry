@@ -1,25 +1,31 @@
 ---
-author: 三個水槍手
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6TisRb-Q8pc
-speaker: 三個水槍手
-tags:
-  - t-literature-note
-  - us-china-relations
-  - new-cold-war
-  - globalization
-  - china-politics
-  - taiwan-strait
 title: 中美关系：新冷战、一战前夜还是全球化新秩序的角力？
 summary: 吴国光老师深入探讨中美关系，辨析“新冷战”与“一战前夜”的异同，分析全球化对两国政治经济的影响，并展望中国内部变革与台海局势的未来走向。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
+tags:
+- china-politics
+- globalization
+- new-cold-war
+- taiwan-strait
+- us-china-relations
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: 三個水槍手
+speaker: 三個水槍手
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6TisRb-Q8pc
 status: evergreen
 ---
 ### 引言：吴国光老师论中美关系

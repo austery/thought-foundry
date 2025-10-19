@@ -1,26 +1,30 @@
 ---
-author: Internet of Bugs
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FmYXyWbis9w
-speaker: Internet of Bugs
-tags:
-  - t-literature-note
-  - internet-of-bugs
-  - ai-polarization
-  - social-media-manipulation
-  - information-bubbles
-  - surveillance-capitalism
-  - digital-divide
 title: 超越科幻：机器早已接管，人类如何在极化时代重拾团结？
 summary: 本视频探讨了“机器”——一个由互联技术和扭曲激励组成的系统——如何早在ChatGPT之前就已接管社会，加剧了社会两极分化。作者认为，现代生成式AI正在加速这一进程，呼吁人类团结起来，共同对抗这一共同敌人，而非内斗。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-polarization
+- digital-divide
+- information-bubbles
+- internet-of-bugs
+- social-media-manipulation
+- surveillance-capitalism
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-06'
+author: Internet of Bugs
+speaker: Internet of Bugs
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=FmYXyWbis9w
 status: evergreen
 ---
 ### 机器的崛起：一个被误解的科幻预言

@@ -1,26 +1,31 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=D54dcOsF-2g
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - gaza-ceasefire
-  - government-shutdown
-  - us-china-trade
-  - nba-china
-  - columbus-day
 title: 加沙人质获释、美国政府停摆与中美贸易新局
 summary: 本文综述了加沙人质全部获释、美国政府持续停摆的影响、特朗普威胁对华加征关税引发的贸易紧张，以及NBA重返中国市场和哥伦布日争议等国际国内要闻。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- us-analysis
+tags:
+- columbus-day
+- gaza-ceasefire
+- government-shutdown
+- nba-china
+- new-york-times-podcasts
+- us-china-trade
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=D54dcOsF-2g
 status: evergreen
 ---
 ### 加沙人质获释与中东和平进程

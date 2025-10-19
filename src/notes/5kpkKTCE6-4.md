@@ -1,26 +1,33 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5kpkKTCE6-4
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - taiwan-politics
-  - xinjiang-human-rights
-  - us-china-relations
-  - geopolitics
-  - chinese-foreign-policy
 title: 台湾、新疆与中美博弈：全球智库深度解析中国挑战与未来走向
 summary: 本文汇集全球智库观点，深度剖析台湾对美策略、新疆人权危机、国民党路线之争及中美关系走向，揭示中国挑战与全球变局。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- chinese-foreign-policy
+- geopolitics
+- taiwan-politics
+- us-china-relations
+- xinjiang-human-rights
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-15'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5kpkKTCE6-4
 status: evergreen
 ---
 ### 节目开场与内容概述

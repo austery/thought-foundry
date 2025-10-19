@@ -1,26 +1,32 @@
 ---
-author: Joseph Wang
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=xxhGlBAQFNM
-speaker: Joseph Wang
-tags:
-  - t-literature-note
-  - joseph-wang
-  - trade-war
-  - precious-metals
-  - currency-markets
-  - global-economy
-  - rare-earths
 title: 市场周刊：贸易战重燃、金银飙升与美元反弹
 summary: 本期市场周刊探讨了美国政府停摆的背景下，中美贸易战的意外重燃、黄金白银价格的显著上涨，以及美元因欧洲和日本政治动荡而出现的复苏。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- currency-markets
+- global-economy
+- joseph-wang
+- precious-metals
+- rare-earths
+- trade-war
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: Joseph Wang
+speaker: Joseph Wang
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=xxhGlBAQFNM
 status: evergreen
 ---
 ### 本周市场概览与焦点

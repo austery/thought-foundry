@@ -1,25 +1,33 @@
 ---
-author: All-In Podcast
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=IbnrclsPGPQ
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - middle-east-peace
-  - us-domestic-policy
-  - ai-chip-market
-  - geopolitics
-  - economy
 title: 中东和平、美国城市治安与AI芯片投资热潮：All-In播客深度探讨
 summary: 播客探讨了中东停火协议、美国国民警卫队部署及AI芯片市场的大额交易与投资趋势，涉及政治、经济和社会议题。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- ai-chip-market
+- economy
+- geopolitics
+- middle-east-peace
+- us-domestic-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=IbnrclsPGPQ
 status: evergreen
 ---
 ### 播客开场与嘉宾介绍

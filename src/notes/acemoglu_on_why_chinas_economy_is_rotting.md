@@ -1,29 +1,32 @@
 ---
-author: Lei
-date: 2025-08-19
-guest: 
-layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=1AaLtt7gyoY&t
-speaker: 徒步的骑手
-tags:
-  - t-literature-note
-  - 中国经济
-  - 榨取性制度
-  - 制度经济学
-  - 阿西莫格鲁
-title: "从头部开始腐烂：诺奖得主阿西莫格鲁如何诊断中国经济困境"
+title: 从头部开始腐烂：诺奖得主阿西莫格鲁如何诊断中国经济困境
 summary: 本文探讨了诺贝尔经济学奖得主阿西莫格鲁的理论，分析了中国经济为何陷入“从头部腐烂”的困境。文章指出，中国的“榨取性”政治与经济制度是导致其长期衰败的根本原因，而非短期的周期性波动。
-insight: 
-file_name: acemoglu_on_why_chinas_economy_is_rotting.md
+area: market-analysis
+category: finance
+project:
+- china-analysis
+tags:
+- 中国经济
+- 制度经济学
+- 榨取性制度
+- 阿西莫格鲁
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-19
+author: Lei
+speaker: 徒步的骑手
+channel: null
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: acemoglu_on_why_chinas_economy_is_rotting.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=1AaLtt7gyoY&t
 status: evengreen
 ---
-
 ## 引言：中国经济正从头部腐烂
 
 各位好，今天讲个比较严肃的话题，中国经济正从头部腐烂。这个说法不是我的发明，而是去年诺贝尔经济学奖得主Daron Acemoglu一篇文章的标题，*China's Economy is Rotting from the Head*。这篇文章发表在2022年10月，当时中共刚开完二十大，极权达到登峰造极，但很多人盼着新冠疫情结束以后，中国经济会再度起飞，那种期望很快落空。

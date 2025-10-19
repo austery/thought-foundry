@@ -1,26 +1,29 @@
 ---
-author: 莊也雜談
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=mHdrBaobkLY
-speaker: 莊也雜談
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - victoria
-  - canada
-  - travel
-  - garden-city
 title: 加拿大小城维多利亚：花园之城与海天公路的绝美邂逅
 summary: 探索加拿大温哥华岛的花园城市维多利亚，从壮丽的海天公路到如画的布查特花园，再到充满活力的渔人码头，体验一场身心治愈的旅程。
-insight: ''
+area: personal-growth
+category: lifestyle
+project: []
+tags:
+- ''
+- canada
+- garden-city
+- t-literature-note
+- travel
+- victoria
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 莊也雜談
+speaker: 莊也雜談
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=mHdrBaobkLY
 status: evergreen
 ---
 ### 开启温哥华岛之旅：从海天公路到马蹄湾

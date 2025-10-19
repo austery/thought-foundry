@@ -1,25 +1,28 @@
 ---
-author: Anthropic
-date: '2025-10-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XuvKFsktX0Q
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - claude-developer-platform
-  - ai-agents
-  - large-language-models
-  - agentic-ai
 title: 构建Claude智能代理的未来：Anthropic开发者平台新进展
 summary: Anthropic团队探讨了Claude开发者平台如何助力构建智能代理，讨论了代理的定义、去脚手架化趋势、上下文管理、代理记忆等创新功能，并展望了未来发展。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- agentic-ai
+- ai-agents
+- claude-developer-platform
+- large-language-models
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-02'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XuvKFsktX0Q
 status: evergreen
 ---
 ### 开发者平台的演进

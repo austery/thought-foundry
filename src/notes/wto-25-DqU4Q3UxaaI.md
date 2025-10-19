@@ -1,26 +1,31 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DqU4Q3UxaaI
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - WTO
-  - China
-  - Trade Policy
-  - Global Economy
-  - Geopolitics
 title: 中国告别WTO特殊待遇：一场25年的红利终结与全球贸易新秩序的黎明
 summary: 文章深度剖析中国主动放弃WTO发展中国家特殊待遇的战略意义，揭示其背后的内外动因，并推演后特权时代全球贸易秩序可能的三种走向：合作重构、竞争共存与系统性碎片化。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+tags:
+- china
+- geopolitics
+- global-economy
+- trade-policy
+people: []
+companies_orgs:
+- wto
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-07'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=DqU4Q3UxaaI
 status: evergreen
 ---
 ### 中国加入WTO的“大交易”：特殊待遇的起源与红利

@@ -1,39 +1,37 @@
 ---
-author: Adam's Axiom
-date: '2025-01-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9BHwU2BEFzM
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - economic-systems-evolution
-  - history-of-money
-  - digital-economy
-  - social-safety-nets
-  - resource-management
 title: 从以物易物到比特币：塑造世界的经济体系演变指南
 summary: 本文深入探讨了人类经济体系从史前的礼物经济、贸易网络，到寺庙系统、青铜时代、古典商业、封建制度、中世纪商业、工业化、市场资本主义、社会主义实验，直至数字革命和未来经济的演变历程。文章揭示了这些系统如何应对人口增长、资源分配和信任挑战，并展望了AI驱动下经济模式的未来趋势。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
+category: finance
 project:
-  - systems-thinking
-  - historical-insights
+- historical-insights
+tags:
+- adam-s-axiom
+- digital-economy
+- economic-systems-evolution
+- history-of-money
+- resource-management
+- social-safety-nets
 people: []
 companies_orgs:
-  - Uber
-  - Airbnb
-  - Amazon
-  - Alibaba
-  - Federal Reserve
+- Airbnb
+- Alibaba
+- Amazon
+- Federal Reserve
+- Uber
 products_models:
-  - Bitcoin
-  - Venmo
+- Bitcoin
+- Venmo
 media_books: []
+date: '2025-01-20'
+author: Adam's Axiom
+speaker: Adam's Axiom
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+series: ''
+source: https://www.youtube.com/watch?v=9BHwU2BEFzM
 status: evergreen
 ---
 ### 史前礼物经济：人类最早的社会安全网

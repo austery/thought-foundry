@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9SWouQT4jJs
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - howard-lutnick
-  - donald-trump
-  - 9-11-attacks
-  - business-leadership
-  - resilience
 title: 两次从地狱爬出的男人：霍华德·卢特尼克的传奇人生与政治旅程
 summary: 本文讲述了霍华德·卢特尼克——一位两次从人生谷底爬起的华尔街精英，如何在9/11事件后重建公司、守护员工家庭，又如何凭借其独特韧性与智慧，从特朗普的密友蜕变为其政府的核心成员，甚至在幕后指导谈判对手，最终成为商务部长的传奇故事。
-insight: ''
+area: market-analysis
+category: business
+project:
+- entrepreneurship
+tags:
+- 9-11-attacks
+- business-leadership
+- donald-trump
+- howard-lutnick
+- resilience
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9SWouQT4jJs
 status: evergreen
 ---
 ### 魔鬼邻居与直觉的礼物

@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2025-03-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=o7fhf_kjdEE
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - nomadic-living
-  - financial-planning
-  - overseas-investment
-  - real-estate
-  - life-philosophy
 title: 卖掉加拿大房产去马来西亚旅居？Ray回应旅居疑虑与财务规划
 summary: 视频博主Ray分享他离开加拿大旅居的经历，详细解答了关于房产、投资、收入、税务、身份、子女教育等核心问题，并探讨了旅居的财务规划与人生感悟。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- financial-planning
+- life-philosophy
+- nomadic-living
+- overseas-investment
+- real-estate
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-03-08'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=o7fhf_kjdEE
 status: evergreen
 ---
 ### 旅居决定的缘由与观众疑问

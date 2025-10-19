@@ -1,25 +1,31 @@
 ---
-author: N/A
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=euL6bSwF1vo
-speaker: N/A
-tags:
-  - t-literature-note
-  - us-economy
-  - trump-policy
-  - trade-relations
-  - geopolitics
-  - china-us-trade-war
 title: 美国经济与政治多面观：数据挑战、川普政策与国际贸易博弈
 summary: 本文深入探讨了美国政府关门对经济数据发布的影响、川普政府的争议性政策（如冻结资金和中东和平计划）、全球贸易动态（阿根廷关税、印美能源合作、美阿芯片交易）以及中美贸易战中大豆的战略角色。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- china-us-trade-war
+- geopolitics
+- trade-relations
+- trump-policy
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=euL6bSwF1vo
 status: evergreen
 ---
 ### 财经头条：经济数据冻结与市场挑战

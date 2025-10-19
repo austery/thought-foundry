@@ -1,26 +1,30 @@
 ---
-author: a16z
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Kw2bK_jLz8M
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - middle-east-politics
-  - ai-sovereignty
-  - us-economy
-  - tech-giants
-  - fintech-innovation
 title: Keith Rabois 深度访谈：以色列、OpenAI、OpenDoor 与狗狗币背后的洞见
 summary: 本期访谈深入探讨了中东政治局势、AI对国家未来的影响、美国经济前景、政府规模的必要性、科技巨头在AI时代面临的挑战，以及房地产和金融科技领域的创新机遇，并强调了非专业人士在颠覆性创新中的关键作用。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- ai-sovereignty
+- fintech-innovation
+- middle-east-politics
+- tech-giants
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Kw2bK_jLz8M
 status: evergreen
 ---
 ### AI与国家未来：主权AI的重要性

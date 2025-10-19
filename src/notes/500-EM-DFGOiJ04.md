@@ -1,26 +1,32 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=EM-DFGOiJ04
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - stock-market
-  - s-and-p-500
-  - semiconductors
-  - openai
-  - wealth-transfer
 title: 股市狂欢：标普500指数大涨，芯片股领跑，宏观因素退居次席
 summary: 标普500指数创五月以来最大涨幅，芯片股因OpenAI合作表现强劲。节目还讨论了关键矿产、Beyond Meat的困境，以及女性财富转移和泰勒·斯威夫特对市场的影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- bloomberg-podcasts
+- s-and-p-500
+- semiconductors
+- stock-market
+- wealth-transfer
+people: []
+companies_orgs:
+- openai
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=EM-DFGOiJ04
 status: evergreen
 ---
 ### 市场收盘概览：逢低买入者回归

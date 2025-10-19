@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=NfP8rMfebTo
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - jpmorgan-chase
-  - commercial-real-estate
-  - wall-street
-  - consumer-spending
 title: 摩根大通新总部落成：一窥华尔街巨头的宏大版图与未来展望
 summary: 本文探讨了摩根大通位于纽约的新总部大楼，以及围绕该银行的一系列宏伟地产项目。同时，也分析了当前美国消费者的状况、华尔街的盈利前景以及对潜在经济衰退的担忧。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- commercial-real-estate
+- consumer-spending
+- jpmorgan-chase
+- t-literature-note
+- wall-street
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=NfP8rMfebTo
 status: evergreen
 ---
 ### 摩根大通新总部大楼的落成

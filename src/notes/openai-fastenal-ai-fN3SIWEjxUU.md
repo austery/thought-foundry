@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fN3SIWEjxUU
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - openai
-  - ai-chips
-  - supply-chain
-  - fastenal-earnings
-  - tariffs
 title: OpenAI与博通芯片合作及Fastenal财报：AI基础设施投入与全球供应链挑战
 summary: 彭博社访谈探讨了OpenAI与博通的芯片合作，揭示其AI基础设施投入策略及成本效益。Fastenal CEO则分享了公司财报，讨论定价压力、关税影响及多元化全球供应链的应对措施。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-chips
+- bloomberg-podcasts
+- fastenal-earnings
+- supply-chain
+- tariffs
+people: []
+companies_orgs:
+- openai
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fN3SIWEjxUU
 status: evergreen
 ---
 ### OpenAI与博通的定制芯片合作

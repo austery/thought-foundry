@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vDFZjEuKDfY
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - artificial-intelligence
-  - cognitive-decline
-  - brain-health
-  - human-computer-interaction
-  - neural-activity
 title: AI是否导致大脑退化？MIT研究揭示认知模式的深层变化
 summary: 麻省理工学院一项研究显示，使用AI写作可能导致大脑活动平均下降47%，记忆力减退。专家探讨了AI对认知模式、深度思考能力的影响，并提出了避免大脑退化、有效利用AI并锻炼脑力的方法。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- brain-health
+- cognitive-decline
+- human-computer-interaction
+- neural-activity
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-21'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vDFZjEuKDfY
 status: evergreen
 ---
 ### AI对大脑活动的影响：一项令人担忧的MIT研究

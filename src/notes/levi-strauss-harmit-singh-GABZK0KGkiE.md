@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=GABZK0KGkiE
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - levi-strauss
-  - tariffs
-  - consumer-trends
-  - financial-outlook
-  - denim-market
 title: Levi Strauss 首席财务官 Harmit Singh 谈关税、消费者与增长策略
 summary: Levi Strauss 首席财务官 Harmit Singh 深入探讨公司业绩、消费者韧性、关税影响及未来增长与产品战略。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- bloomberg-podcasts
+- consumer-trends
+- denim-market
+- financial-outlook
+- levi-strauss
+- tariffs
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=GABZK0KGkiE
 status: evergreen
 ---
 ### 公司业绩与市场反应

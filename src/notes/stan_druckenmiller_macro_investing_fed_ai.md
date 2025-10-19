@@ -1,27 +1,35 @@
 ---
-author: Lei
-channel: Norges Bank Investment Management
+title: 投资传奇斯坦·德鲁肯米勒：宏观洞察、美联储的错误与AI趋势
+summary: 这是我最想模仿的投资大师，另外还有像彼得林奇，但是他已经退休好久。投资传奇斯坦·德鲁肯米勒（Stan Druckenmiller）分享了他对当前宏观经济的看法，批评美联储过早宣布战胜通胀。他阐述了自己“先买入，后分析”的投资哲学，分享了从乔治·索罗斯那里学到的经验，以及对人工智能热潮和风险管理的独到见解。
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- 人工智能
+- 宏观投资
+- 投资大师
+- 视频文稿
+- 通货膨胀
+- 风险管理
+people:
+- 美联储
+companies_orgs: []
+products_models: []
+media_books: []
 date: 2024-11-06
+author: Lei
+speaker: Nicolai Tangen,Stan Druckenmiller
+channel: Norges Bank Investment Management
+draft: true
+file_name: stan_druckenmiller_macro_investing_fed_ai.md
 guest: Stan Druckenmiller
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=-5Weeox0Xus&t
-speaker: Nicolai Tangen,Stan Druckenmiller
-summary: 这是我最想模仿的投资大师，另外还有像彼得林奇，但是他已经退休好久。投资传奇斯坦·德鲁肯米勒（Stan Druckenmiller）分享了他对当前宏观经济的看法，批评美联储过早宣布战胜通胀。他阐述了自己“先买入，后分析”的投资哲学，分享了从乔治·索罗斯那里学到的经验，以及对人工智能热潮和风险管理的独到见解。
-tags:
-- 视频文稿
-- 宏观投资
-- 美联储
-- 通货膨胀
-- 人工智能
-- 风险管理
-- 投资大师
-title: 投资传奇斯坦·德鲁肯米勒：宏观洞察、美联储的错误与AI趋势
-file_name: stan_druckenmiller_macro_investing_fed_ai.md
-draft: true
 ---
-
 ## 当前宏观经济展望
 
 Nicolai Tangen: Hi everybody, I'm Nicolai Tangen, the CEO of the Norwegian Sovereign Wealth Fund, and today I'm here with Stan Druckenmiller, a proper legend in the investment world. Stan, what a pleasure to be here.

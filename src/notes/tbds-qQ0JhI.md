@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-08-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=tbds-qQ0JhI
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - cpi-data
-  - unemployment-rate
-  - consumer-spending
-  - fed-policy
 title: 7月CPI数据透视与8月大非农前瞻：消费强劲，就业市场现异动
 summary: 本期节目深入分析了近期美股市场走势、二季度财报表现及估值情况。重点解读了7月失业率数据中的“毕业即失业”现象，并结合美国银行数据揭示7月消费异常强劲。最后，节目展望了即将公布的CPI数据，探讨其对美联储降息路径的潜在影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- consumer-spending
+- cpi-data
+- fed-policy
+- unemployment-rate
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-10'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=tbds-qQ0JhI
 status: evergreen
 ---
 ### 市场回顾与板块表现

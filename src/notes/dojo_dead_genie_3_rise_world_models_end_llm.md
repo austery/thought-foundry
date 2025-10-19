@@ -1,26 +1,33 @@
 ---
-author: Lei
-date: 2025-08-17
-guest: 老修, 闲哥
-layout: post.njk
-channel: ''
-source: ''
-speaker: 主持人
-tags:
-  - 视频文稿
-  - Dojo
-  - 世界模型
-  - Genie 3
-  - 大语言模型
-  - 特斯拉
 title: Dojo已死，Genie 3当立：世界模型将终结大语言模型？
-summary: 本文深入探讨了特斯拉突然终止Dojo项目的决策，分析了其从自研芯片向采用英伟达方案的战略转变。对话进一步延伸至当前大语言模型的局限性，并重点讨论了以Google Genie 3为代表的“世界模型”作为下一代AI架构的巨大潜力，尤其是在具身智能和机器人领域的应用前景。
-insight: 
-file_name: dojo_dead_genie_3_rise_world_models_end_llm.md
+summary: 本文深入探讨了特斯拉突然终止Dojo项目的决策，分析了其从自研芯片向采用英伟达方案的战略转变。对话进一步延伸至当前大语言模型的局限性，并重点讨论了以Google
+  Genie 3为代表的“世界模型”作为下一代AI架构的巨大潜力，尤其是在具身智能和机器人领域的应用前景。
+area: null
+category: null
+project: []
+tags:
+- genie-3
+- 世界模型
+- 大语言模型
+- 视频文稿
+people: []
+companies_orgs:
+- 特斯拉
+products_models:
+- dojo
+media_books: []
+date: 2025-08-17
+author: Lei
+speaker: 主持人
+channel: ''
 draft: true
+file_name: dojo_dead_genie_3_rise_world_models_end_llm.md
+guest: 老修, 闲哥
+insight: null
+layout: post.njk
 series: ''
+source: ''
 ---
-
 ## 特斯拉Dojo项目终结：战略聚焦还是撤退？
 
 主持人: 马斯克突然宣布把**Dojo**团队全部裁撤，这个项目直接关掉了，这是一个相当震撼的新闻。老修，作为特斯拉的股东，你要不要出来讲两句？这是战略聚焦还是战略撤退？

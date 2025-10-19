@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 就业影响
+- 科技趋势
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-05-25'
+author: Lei
+speaker: Peter Diamandis
+channel: null
 guest: Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Peter Diamandis
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 科技趋势
-- 就业影响
-title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
 ---
-
 Moonshots
 
 WTF Just Happened in Tech

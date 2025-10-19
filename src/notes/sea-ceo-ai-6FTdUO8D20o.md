@@ -1,26 +1,32 @@
 ---
-author: Norges Bank Investment Management
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6FTdUO8D20o
-speaker: Norges Bank Investment Management
-tags:
-  - t-literature-note
-  - norges-bank-investment-management
-  - sea-group
-  - e-commerce-southeast-asia
-  - ai-in-business
-  - corporate-leadership
-  - fintech-innovation
 title: 科技巨头Sea集团CEO李小冬：从游戏分销到千亿市值，AI如何塑造未来？
 summary: 本期访谈中，Sea集团创始人兼CEO李小冬分享了公司从游戏分销到成为东南亚科技巨头的历程，涵盖了其游戏、电商和金融科技三大核心业务。他深入探讨了移动互联网和AI对业务的深远影响，以及Sea集团独特的企业文化与领导力哲学。
-insight: ''
+area: market-analysis
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+- investment-strategy
+tags:
+- ai-in-business
+- corporate-leadership
+- e-commerce-southeast-asia
+- fintech-innovation
+- norges-bank-investment-management
+- sea-group
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Norges Bank Investment Management
+speaker: Norges Bank Investment Management
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6FTdUO8D20o
 status: evergreen
 ---
 ### Sea集团的诞生与使命

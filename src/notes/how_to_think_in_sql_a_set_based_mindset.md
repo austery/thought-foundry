@@ -1,25 +1,31 @@
 ---
-author: Lei
-date: 2016-01-16
-guest:
-layout: post.njk
-channel:
-source: https://www.youtube.com/watch?v=DBinD6H0i68
-speaker: Kevin Devine
-tags:
-  - 视频文稿
-  - SQL
-  - Database Optimization
-  - Query Performance
-  - Set-Based Thinking
 title: How to Think in SQL, a Set-Based Mindset
 summary: 本文探讨了如何从过程式编程思维转向SQL的集合式思维，以显著提升数据库查询性能。内容涵盖了优化、索引、连接策略和执行计划分析等核心概念，旨在帮助开发者编写更高效、更具扩展性的SQL代码。
-insight: 在看了Ozer的一些关于Query performance的视频，我在网上找到这个，也给我了一个整体的思考，关于query的。
-file_name: how_to_think_in_sql_a_set_based_mindset.md
+area: null
+category: null
+project: []
+tags:
+- database-optimization
+- query-performance
+- set-based-thinking
+- sql
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2016-01-16
+author: Lei
+speaker: Kevin Devine
+channel: null
 draft: true
-series:
+file_name: how_to_think_in_sql_a_set_based_mindset.md
+guest: null
+insight: 在看了Ozer的一些关于Query performance的视频，我在网上找到这个，也给我了一个整体的思考，关于query的。
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=DBinD6H0i68
 ---
-
 ## 介绍：从过程式思维到集合式思维
 
 So how many people here want to learn about SQL? How many people are just in this theater because they're playing the movie afterwards? Okay, so let's get started. We're gonna talk about how to think in SQL.

@@ -1,21 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 深度对话：NotebookLM与AI内容生成的未来
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 视频文稿
+people:
+- 三个水枪手
+companies_orgs: []
+products_models: []
+media_books:
+- 三个水枪手
 date: '2025-06-11'
+author: Lei
+speaker: 李厚辰、贾葭、伍雷
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 李厚辰、贾葭、伍雷
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 三个水枪手
-title: 深度对话：NotebookLM与AI内容生成的未来
 ---
-
 ## 引言：播客的“最后一期”？
 
 **李厚辰：** AI 也许能替你说话，但他代替不了你活过的每一分钟。今天又是我们新的一期节目，而且很有可能是我们的最后一期节目了。

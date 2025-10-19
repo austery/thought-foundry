@@ -1,21 +1,29 @@
 ---
-author: Lei
-channel: 一席
+title: 阮筠庭：从今往后的人生，我希望你为自己而活 | 深度解析一位教师的23年自我探索
+summary: null
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 个人成长
+- 视频文稿
+people: []
+companies_orgs:
+- 一席
+products_models: []
+media_books:
+- 一席
 date: '2025-07-10'
+author: Lei
+speaker: 阮筠庭
+channel: 一席
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=4AohKyR5jME
-speaker: 阮筠庭
-summary: null
-tags:
-- 视频文稿
-- 个人成长
-- 一席
-title: 阮筠庭：从今往后的人生，我希望你为自己而活 | 深度解析一位教师的23年自我探索
 ---
-
 # 从今往后的人生，我希望你为自己而活：一位教师的23年自我探索
 
 大家好，我叫阮筠庭，我是一个漫画家，同时也是一个在大学教画画的老师。今天我讲的内容是关于怎么样找到自己在世界上的位置，想跟大家分享我自己的一些故事。

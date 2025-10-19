@@ -1,26 +1,29 @@
 ---
-author: 课代表立正
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DdFGgvahbi8
-speaker: 课代表立正
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - mind-heart
-  - decision-making
-  - self-awareness
-  - rationality
 title: 理性陷阱：用心而非用脑，找回真实的自己
 summary: 本文通过五个生活案例，阐述了“用心”而非“用脑”的重要性，强调倾听内心感受，摆脱逻辑束缚，从而做出更符合真实自我的选择，实现真正的成长和价值。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- ''
+- decision-making
+- mind-heart
+- rationality
+- self-awareness
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 课代表立正
+speaker: 课代表立正
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=DdFGgvahbi8
 status: evergreen
 ---
 ### 导言：人生最大的体会

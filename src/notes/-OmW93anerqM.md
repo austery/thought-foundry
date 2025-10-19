@@ -1,26 +1,32 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=OmW93anerqM
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - rare-earths
-  - us-china-trade-war
-  - export-controls
-  - semiconductor-industry
-  - geopolitical-strategy
 title: 中美稀土与芯片战升级：中国为何提前打出底牌？
 summary: 中国近期大幅升级稀土出口管制，设定严苛的价值和技术门槛，引发中美贸易战新一轮紧张。本文将深入分析此次禁令与美国芯片禁运的异同，探讨中国此举的战略考量及其对全球供应链和中美关系的长短期影响，并质疑其决策的时机与潜在成效。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- export-controls
+- geopolitical-strategy
+- rare-earths
+- semiconductor-industry
+- us-china-trade-war
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-14'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=OmW93anerqM
 status: evergreen
 ---
 ### 开场：社交媒体审查的阴影

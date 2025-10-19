@@ -1,25 +1,28 @@
 ---
-author: 一口新飯
-date: '2021-10-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DdiXunzH4VA
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - reading-habits
-  - personal-development
-  - lifelong-learning
-  - utilitarian-reading
-  - audiobooks
 title: 从不爱读书到阅读上瘾：我的功利性阅读三步法则
 summary: 主持人Ray分享他如何从不爱读书到成为阅读爱好者的个人经历，揭示了“功利性阅读”的三步上瘾法则，并强调读书应以解决实际问题为导向，而非盲目追求数量或书单。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- audiobooks
+- lifelong-learning
+- personal-development
+- reading-habits
+- utilitarian-reading
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2021-10-09'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=DdiXunzH4VA
 status: evergreen
 ---
 ### 从阅读困难到阅读上瘾：我的转变之路

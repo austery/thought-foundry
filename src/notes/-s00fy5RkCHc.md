@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=s00fy5RkCHc
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-reasoning
-  - large-language-models
-  - denny-zhou
-  - chain-of-thought
-  - self-consistency
 title: 丹尼·周解读大语言模型推理的本质、技术演进与未来挑战
 summary: 谷歌DeepMind的丹尼·周在斯坦福大学的讲座系统梳理了AI推理能力的发展。本文深入解析大语言模型推理的本质、思维链、自洽性、监督微调与自我进化范式，以及检索增强等核心技术，并探讨了当前面临的挑战。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-reasoning
+- chain-of-thought
+- denny-zhou
+- large-language-models
+- self-consistency
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-19'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=s00fy5RkCHc
 status: evergreen
 ---
 ### 引言：AI推理能力的巨大反差与核心谜题

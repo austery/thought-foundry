@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2024-09-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iCnMpVYqJsc
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - investment-strategy
-  - s-and-p-500
-  - behavioral-finance
-  - market-index
-  - risk-aversion
 title: 标普500的“缺陷”：为何多数人不敢投资能“打败市场”的组合？
 summary: 本视频探讨了标普500指数的市场加权缺陷，并通过“猴子实验”揭示了理论上多数人都能打败市场指数。然而，由于风险厌恶、社会比较和对确定性的追求，大多数投资者仍选择市场指数，而非那些可能带来更高回报的随机组合。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- behavioral-finance
+- investment-strategy
+- market-index
+- risk-aversion
+- s-and-p-500
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2024-09-20'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=iCnMpVYqJsc
 status: evergreen
 ---
 ### 开篇：CEO举重与市场悖论

@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FVAk2yg9eP8
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - us-politics
-  - 2024-election
-  - joe-biden
-  - kamala-harris
-  - donald-trump
 title: 「你确定吗？别让他们逼你！」：拜登退选、哈里斯接棒与特朗普的竞选乱局
 summary: 2024年7月，拜登突然宣布退选，哈里斯在震惊中接棒，其团队迅速启动竞选，并与特朗普阵营的内部混乱形成鲜明对比。文章揭示了双方竞选策略、团队变迁与权力斗争。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- 2024-election
+- donald-trump
+- joe-biden
+- kamala-harris
+- us-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=FVAk2yg9eP8
 status: evergreen
 ---
 ### 拜登退选：泳池小屋的秘密会议与历史性电话

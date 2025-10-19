@@ -1,26 +1,33 @@
 ---
-author: LT視界
-date: '2025-10-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=rPd0MWTUC78
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - us-china-relations
-  - geopolitics
-  - gaza-conflict
-  - taiwan-cross-strait
-  - rare-earth-trade
 title: 国际风云变幻：中美贸易战、加沙和平进程与两岸社会文化洞察
 summary: 本期节目探讨了中美贸易战的快速升温与降温，川普在加沙和平协议中的斡旋角色，巴基斯坦矿产与稀土谣言的真相，以及台湾歌曲《没出息》在两岸引发的社会共鸣，并揭示了英国中共间谍案的最新证据。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- gaza-conflict
+- geopolitics
+- rare-earth-trade
+- taiwan-cross-strait
+- us-china-relations
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-12'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=rPd0MWTUC78
 status: evergreen
 ---
 ### 财经头条与未来一周经济展望

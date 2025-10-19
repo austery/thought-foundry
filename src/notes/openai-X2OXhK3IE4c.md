@@ -1,25 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=X2OXhK3IE4c
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - openai
-  - ai-computing
-  - nvidia
-  - amd
-  - financial-alchemy
 title: OpenAI的算力神话：万亿帝国还是巨大泡沫？
 summary: 文章深入剖析OpenAI惊人的估值增长、对巨量算力的需求，以及其如何通过独特的金融策略，撬动英伟达、AMD等科技巨头共同构建万亿级算力生态，并探讨这场豪赌背后的巨大风险。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- ai-computing
+- financial-alchemy
+people: []
+companies_orgs:
+- amd
+- nvidia
+- openai
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=X2OXhK3IE4c
 status: evergreen
 ---
 ### OpenAI的估值飙升与算力需求

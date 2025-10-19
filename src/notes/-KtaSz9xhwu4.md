@@ -1,25 +1,28 @@
 ---
-author: 政經孫老師
-date: '2025-09-05'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=KtaSz9xhwu4
-speaker: 政經孫老師
-tags:
-  - t-literature-note
-  - chinese-egoism
-  - social-trust
-  - altruism-evolution
-  - authoritarian-rule
-  - strong-reciprocity
 title: 中国人的底层逻辑：极端利己主义的起源与结局
 summary: 本文探讨了中国人的“底层逻辑”——极端的利己主义。作者认为这是一种道德状态而非国籍，并通过分析心理学、生物学及社会学理论，揭示了中国特定政治社会环境如何塑造并固化了这种行为模式，并警示其最终可能导致社会崩溃与族群灭亡。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- altruism-evolution
+- authoritarian-rule
+- chinese-egoism
+- social-trust
+- strong-reciprocity
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-05'
+author: 政經孫老師
+speaker: 政經孫老師
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=KtaSz9xhwu4
 status: evergreen
 ---
 ### 中国人的特性与底层逻辑

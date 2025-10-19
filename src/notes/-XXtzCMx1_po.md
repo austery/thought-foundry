@@ -1,25 +1,31 @@
 ---
-author: 一口新飯
-date: '2023-10-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XXtzCMx1_po
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - us-treasury-yields
-  - economic-recession
-  - investment-strategy
-  - monetary-policy
-  - bond-market
 title: 美债收益率倒挂解除：经济衰退信号与投资策略解析
 summary: 本文深入探讨美债收益率倒挂解除现象，分析其预示经济衰退的两种可能情境及当前长期利率飙升的深层原因，并提供在潜在衰退中进行投资的实用建议。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- bond-market
+- economic-recession
+- investment-strategy
+- monetary-policy
+- us-treasury-yields
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2023-10-28'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XXtzCMx1_po
 status: evergreen
 ---
 ### 债券市场：经济衰退的预警信号

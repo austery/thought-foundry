@@ -1,28 +1,33 @@
 ---
-author: Lei
-date: 2025-09-27
-guest: 
-layout: post.njk
-source: http://www.youtube.com/watch?v=LSn6wCZ5FUM
-speaker: LT視界
-tags:
-  - t-literature-note
-  - china-politics
-  - system-thinking
-  - investment-strategy
-  - us-policy
 title: 官方文件揭示“人矿”本质：中共执政逻辑与社会冲击分析
 summary: 官方文件揭示“人矿”本质及其对中国社会的影响，同时分析了中美股市新动向、美国政府关门风险、联合国失效及顶尖肺癌专家抗癌心路。
-insight: 
-file_name: guan-fang-wen-jian-ren-kuang-fen-xi.md
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- investment-strategy
+- us-analysis
+tags:
+- china-politics
+- investment-strategy
+- system-thinking
+- us-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-27
+author: Lei
+speaker: LT視界
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: guan-fang-wen-jian-ren-kuang-fen-xi.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: http://www.youtube.com/watch?v=LSn6wCZ5FUM
 status: evergreen
 ---
-
 # 官方文件揭示“人矿”本质：中共执政逻辑与社会冲击分析
 
 ## 国际财经与投资焦点速览

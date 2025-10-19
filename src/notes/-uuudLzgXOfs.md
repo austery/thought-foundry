@@ -1,26 +1,30 @@
 ---
-author: 一席YiXi
-date: '2025-10-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uuudLzgXOfs
-speaker: 一席YiXi
-tags:
-  - t-literature-note
-  - yixi
-  - critical-thinking
-  - child-education
-  - decision-making
-  - media-literacy
-  - self-awareness
 title: 郭兆凡：当孩子遭遇负面评价时，如何运用批判性思维辨析事实与观点
 summary: 郭兆凡分享了五种批判性思维工具，帮助孩子和成年人应对负面评价、做出明智选择、分析问题及管理短视频沉迷，强调审慎思考、权衡利弊、内外因分析和知能愿框架的重要性。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- child-education
+- critical-thinking
+- decision-making
+- media-literacy
+- self-awareness
+people:
+- yixi
+companies_orgs: []
+products_models: []
+media_books:
+- yixi
+date: '2025-10-09'
+author: 一席YiXi
+speaker: 一席YiXi
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uuudLzgXOfs
 status: evergreen
 ---
 ### 引言：批判性思维与日常生活

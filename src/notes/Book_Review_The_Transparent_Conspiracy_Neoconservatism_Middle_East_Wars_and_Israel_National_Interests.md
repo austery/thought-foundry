@@ -1,24 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 书评：《透明的阴谋》——新保守主义、中东战争与以色列的国家利益
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- 中东战争
+- 以色列
+- 新保守主义
+- 美国外交
+- 视频文稿
+- 透明的阴谋
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 新保守主义
-- 中东战争
-- 以色列
-- 美国外交
-- 透明的阴谋
-title: 书评：《透明的阴谋》——新保守主义、中东战争与以色列的国家利益
 ---
-
 ## 引言：美国优先还是以色列优先？
 
 为何奉行“美国优先”的特朗普，宁可得罪其核心支持群体MAGA（Make America

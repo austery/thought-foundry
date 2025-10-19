@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-08-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5WsaAs_Xfho
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - monetary-policy
-  - tariff
-  - corporate-earnings
-  - streaming-media
 title: 基于最新数据与财报，深度解析美股市场、关税影响及美联储降息前景
 summary: 本期节目深入分析了芯片关税、大非农数据对美联储降息预期的影响，并通过麦当劳、Shopify和迪士尼财报，揭示宏观经济与流媒体行业趋势。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- corporate-earnings
+- monetary-policy
+- streaming-media
+- tariff
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-07'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5WsaAs_Xfho
 status: evergreen
 ---
 ### 市场动态与资产价格走势

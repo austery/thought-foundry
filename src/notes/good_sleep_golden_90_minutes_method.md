@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 如何拥有高质量睡眠：黄金90分钟法则与体温大脑双开关
+summary: 通过管理初睡时的“黄金90分钟”，利用体温和大脑两个开关，可以显著提升整体睡眠质量。
+area: null
+category: null
+project: []
+tags:
+- 健康
+- 睡眠
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: 2025-07-23
+author: Lei
+speaker: 樊登
+channel: null
+draft: true
+file_name: good_sleep_golden_90_minutes_method
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 樊登
-summary: 通过管理初睡时的“黄金90分钟”，利用体温和大脑两个开关，可以显著提升整体睡眠质量。
-tags:
-- 视频文稿
-- 睡眠
-- 健康
-title: 如何拥有高质量睡眠：黄金90分钟法则与体温大脑双开关
-file_name: good_sleep_golden_90_minutes_method
-draft: true
 ---
-
 ## 睡眠质量由初期的90分钟决定
 
 书中推荐的最重要的一个方法，叫做**黄金90分钟方法**。这个理论认为，在整个睡眠过程中，最关键的就是最初的90分钟。

@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-06-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=8merMt8urHM
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - interest-rates
-  - apple-investment
-  - macroeconomics
-  - fedex-earnings
 title: 美股市场回顾与投资策略：鲍威尔降息信号、苹果加仓及宏观经济洞察
 summary: 本期节目中，市场分析员小涛回顾了近期美股市场走势，分享了加仓苹果的理由，分析了Circle的技术买点，解读了鲍威尔关于降息的最新表态，探讨了潜在市场风险，并从FedEx财报中洞察宏观经济状况。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- apple-investment
+- fedex-earnings
+- interest-rates
+- macroeconomics
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-06-25'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=8merMt8urHM
 status: evergreen
 ---
 ### 市场概览与本期重点

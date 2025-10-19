@@ -1,24 +1,32 @@
 ---
-author: Lei
-channel: null
+title: 真格基金戴雨森：产业规律，这轮AI，顶级基金都看到了什么？
+summary: null
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- entrepreneurship
+- investment-strategy
+tags:
+- ai投资
+- 产业规律
+- 创业机会
+- 视频文稿
+people: []
+companies_orgs:
+- 真格基金
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 戴雨森
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 戴雨森
-summary: null
-tags:
-- 视频文稿
-- AI投资
-- 真格基金
-- 戴雨森
-- 创业机会
-- 产业规律
-title: 真格基金戴雨森：产业规律，这轮AI，顶级基金都看到了什么？
 ---
-
 总字数：约7,100 字 \| 预计阅读时间：约 24 分钟
 
 

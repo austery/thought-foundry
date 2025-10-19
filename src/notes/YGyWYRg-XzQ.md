@@ -1,26 +1,31 @@
 ---
-author: Adam's Axiom
-date: '2025-05-24'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=YGyWYRg-XzQ
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - economic-recessions
-  - financial-crises
-  - monetary-policy
-  - unemployment
-  - market-crashes
 title: 美国主要经济衰退解析：历史的循环与演变
 summary: 本文深入探讨了美国历史上几次主要的经济衰退，从1837年的金融恐慌到2020年的疫情衰退。文章分析了每次危机的独特成因、深远影响以及政府和央行的应对措施，揭示了资本主义经济中繁荣与萧条的周期性特征，并强调了全球市场日益增长的相互关联性。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- adam-s-axiom
+- economic-recessions
+- financial-crises
+- market-crashes
+- monetary-policy
+- unemployment
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-24'
+author: Adam's Axiom
+speaker: Adam's Axiom
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=YGyWYRg-XzQ
 status: evergreen
 ---
 ### 1837年恐慌：国家初建时的信贷狂潮

@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=KdjMRaWvMiM
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - peter-thiel
-  - gawker
-  - donald-trump
-  - media-ethics
-  - unintended-consequences
 title: 硅谷之王的复仇终局：Thiel扳倒Gawker，却打开特朗普的魔盒
 summary: Peter Thiel资助Gawker诉讼的最终章。本文探讨了胜利的代价、舆论的反转、与死敌的和解，以及这场秘密战争如何意外地影响美国政治，催生了特朗普现象，并反思了个人行动改变世界的可能性。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- donald-trump
+- gawker
+- media-ethics
+- peter-thiel
+- unintended-consequences
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-15'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=KdjMRaWvMiM
 status: evergreen
 ---
 ### 序章：胜利的代价与幽灵的反噬

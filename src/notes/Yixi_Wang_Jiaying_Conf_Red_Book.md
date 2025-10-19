@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: 一席
+title: 王佳莹：在朋友圈里独立自信、充满活力，在小红书上热爱生活、岁月静好
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 心理健康
+- 自我探索
+- 视频文稿
+people: []
+companies_orgs:
+- 一席
+products_models: []
+media_books:
+- 一席
 date: '2025-07-07'
+author: Lei
+speaker: 王佳莹
+channel: 一席
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: hhttps://www.youtube.com/watch?v=tnEp7uwrlLo
-speaker: 王佳莹
-summary: null
-tags:
-- 视频文稿
-- 心理健康
-- 一席
-- 自我探索
-title: 王佳莹：在朋友圈里独立自信、充满活力，在小红书上热爱生活、岁月静好
 ---
-
 # 在朋友圈里独立自信，在小红书上岁月静好
 
 大家好，我是王佳莹，来自南京师范大学。我是一个普通的高校心理教师，也是一个心理咨询师。这是我工作的地方，一间小小的心理咨询室。在10年间，有无数皱着眉头的年轻人来到这里。

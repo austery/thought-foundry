@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: https://www.youtube.com/@norgesbankinvestmentmanagement
+title: 克里斯·霍恩爵士在挪威银行投资管理公司《In Good Company》播客上的对话
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 投资
+- 护城河
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 克里斯·霍恩爵士，尼古拉·坦根
+channel: https://www.youtube.com/@norgesbankinvestmentmanagement
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=M01NZc2QlDk&t
-speaker: 克里斯·霍恩爵士，尼古拉·坦根
-summary: null
-tags:
-- 视频文稿
-- 投资
-- 护城河
-title: 克里斯·霍恩爵士在挪威银行投资管理公司《In Good Company》播客上的对话
 ---
-
 **Speakers:** Sir Chris Hohn (Founder of TCI), Nikolai Tangan (Host,
 Norges Bank Investment Management)
 

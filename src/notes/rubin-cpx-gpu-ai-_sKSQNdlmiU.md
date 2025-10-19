@@ -1,26 +1,32 @@
 ---
-author: 最佳拍档
-date: '2025-09-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=_sKSQNdlmiU
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - nvidia-rubin-cpx
-  - ai-inference
-  - gpu-architecture
-  - data-center-hardware
-  - memory-market
 title: 英伟达Rubin CPX GPU：AI推理硬件专用化的巨大飞跃
 summary: 英伟达推出Rubin CPX GPU，专为长上下文推理中的预填充阶段优化，通过GDDR7内存和无NVLink设计大幅降低成本。此举标志着AI推理硬件从通用化转向专用化，对竞争对手和内存市场产生深远影响，并为黄氏定律注入新的推动力。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-inference
+- best-partners-tv
+- data-center-hardware
+- gpu-architecture
+- memory-market
+- nvidia-rubin-cpx
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-16'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=_sKSQNdlmiU
 status: evergreen
 ---
 ### 英伟达Rubin CPX：AI推理硬件的新范式

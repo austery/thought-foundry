@@ -1,26 +1,30 @@
 ---
-author: EO
-date: '2025-07-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bwttXIyQmno
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - ai-agents
-  - startup-philosophy
-  - product-development
-  - leadership
-  - entrepreneurship
 title: Lindy创始人Flo Crivello：在AI浪潮中，为未来而非当下而构建
 summary: Lindy创始人Flo Crivello分享了在AI时代构建产品的独特见解。他强调应为下一代模型进行开发，忠于不变的用户需求，并分享了从失败的创业项目到创立Lindy的宝贵经验与领导哲学。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+tags:
+- ai-agents
+- entrepreneurship
+- leadership
+- product-development
+- startup-philosophy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-06'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=bwttXIyQmno
 status: evergreen
 ---
 ### Lindy：无代码构建AI代理的未来

@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: 一席
+title: 王俊：数字时代的不幸生活
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 哲学反思
+- 生活意义
+- 视频文稿
+people: []
+companies_orgs:
+- 一席
+products_models: []
+media_books:
+- 一席
 date: '2025-06-14'
+author: Lei
+speaker: 王俊
+channel: 一席
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=1zL655wp5zg&t
-speaker: 王俊
-summary: null
-tags:
-- 视频文稿
-- 哲学反思
-- 生活意义
-- 一席
-title: 王俊：数字时代的不幸生活
 ---
-
 # 数字时代的不幸生活
 
 ## 我们今天拥有了前所未有的知识，却无法回答人生整体的意义是什么

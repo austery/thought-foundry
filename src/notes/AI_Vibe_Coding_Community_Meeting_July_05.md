@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: null
+title: AI Vibe Coding 社区讨论会纪要0705
+summary: null
+area: tech-insights
+category: technology
+project:
+- vibe-coding
+tags:
+- prompt
+- vibe-coding
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-06'
+author: Lei
+speaker: Dusing
+channel: null
 guest: Amy, Ray, Jay, Vincent
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Dusing
-summary: null
-tags:
-- 视频文稿
-- Vibe Coding
-- Prompt
-title: AI Vibe Coding 社区讨论会纪要0705
 ---
-
 ## 开场与社区未来展望
 
 **Dusing:** Amy，我邀请你了。Hello，好久不见，三个月没见到你了。

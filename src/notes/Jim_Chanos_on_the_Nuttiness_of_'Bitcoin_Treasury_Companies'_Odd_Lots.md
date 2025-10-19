@@ -1,24 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 吉姆·查诺斯谈“比特币金库公司”的疯狂 | Odd Lots 现场版
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 卖空
+- 吉姆·查诺斯
+- 比特币金库公司
+- 视频文稿
+- 高频交易
+people: []
+companies_orgs:
+- 特斯拉
+products_models: []
+media_books: []
 date: '2025-06-30'
+author: Lei
+speaker: Tracy Alloway, Joe Weisenthal
+channel: null
 guest: Jim Chanos
 insight: null
 layout: post.njk
 series: null
 source: https://www.bloomberg.com/news/articles/2024-07-02/odd-lots-jim-chanos-on-the-nuttiness-of-bitcoin-treasury-companies
-speaker: Tracy Alloway, Joe Weisenthal
-summary: null
-tags:
-- 视频文稿
-- 吉姆·查诺斯
-- 比特币金库公司
-- 卖空
-- 高频交易
-- 特斯拉
-title: 吉姆·查诺斯谈“比特币金库公司”的疯狂 | Odd Lots 现场版
 ---
-
 ## 引言
 
 **Joe Weisenthal:** Hello there, Odd Lots listeners. You are about to

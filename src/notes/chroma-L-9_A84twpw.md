@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=L-9_A84twpw
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-development
-  - context-engineering
-  - llm-performance
-  - information-retrieval
-  - developer-experience
 title: 人工智能开发的“炼金术”到“工程学”：Chroma与上下文工程的深刻洞察
 summary: Chroma创始人杰夫·哈伯剖析AI开发，强调从“炼金术”到“工程学”的转变。他指出“上下文腐烂”问题，倡导“上下文工程”，并提出两阶段检索和生成式基准测试等策略，以构建高质量AI应用。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-development
+- context-engineering
+- developer-experience
+- information-retrieval
+- llm-performance
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-27'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=L-9_A84twpw
 status: evergreen
 ---
 ### 从“炼金术”到“工程学”：AI开发的现状与挑战

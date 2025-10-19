@@ -1,25 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 'Ukraine’s Drone Attack on Russia: A New Era of Warfare'
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 乌克兰
+- 俄罗斯
+- 无人机
+- 视频文稿
+- 非对称战争
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-20'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 乌克兰
-- 俄罗斯
-- 无人机
-- 非对称战争
-title: 'Ukraine’s Drone Attack on Russia: A New Era of Warfare'
 ---
-
-
-
 TED Explains the World with Ian Bremmer
 
 TED与伊恩·布雷默共同解读世界

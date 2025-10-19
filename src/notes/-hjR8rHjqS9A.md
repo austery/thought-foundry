@@ -1,26 +1,29 @@
 ---
-author: Big Think
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=hjR8rHjqS9A
-speaker: Big Think
-tags:
-  - t-literature-note
-  - big-think
-  - black holes
-  - general relativity
-  - quantum gravity
-  - Hawking radiation
-  - information paradox
 title: 黑洞：爱因斯坦的疑虑与量子引力的圣杯
 summary: 本文深入探讨了黑洞的概念演变，从早期物理学家的怀疑到现代广义相对论的描述，并揭示了黑洞在统一量子力学与广义相对论、探索量子引力理论中的核心作用，以及霍金辐射带来的信息悖论。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- big-think
+- black-holes
+- general-relativity
+- hawking-radiation
+- information-paradox
+- quantum-gravity
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Big Think
+speaker: Big Think
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=hjR8rHjqS9A
 status: evergreen
 ---
 ### 黑洞：量子引力理论的关键与时空深层理论的探索

@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-08-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CKcsnk3QkKY
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - cpi
-  - federal-reserve
-  - us-economy
-  - market-analysis
-  - investment-strategy
 title: CPI数据深度解析：美联储视角、市场影响与经济展望
 summary: 本期节目深入探讨了CPI数据的重要性，强调美联储对数据的解读远超数据本身。分析了市场对通胀、降息及衰退的预期，并结合前经济委员会主任的观点，对关税、劳动力市场和利率曲线进行了详细阐述。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- cpi
+- federal-reserve
+- investment-strategy
+- market-analysis
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-12'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=CKcsnk3QkKY
 status: evergreen
 ---
 ### CPI数据的重要性与美联储的解读视角

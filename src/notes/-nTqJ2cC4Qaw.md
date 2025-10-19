@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=nTqJ2cC4Qaw
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - government-spending
-  - national-debt
-  - socialism
-  - foreign-policy
 title: 美国参议员兰德·保罗：反对军事打击毒贩船只，担忧政府干预经济
 summary: 美国参议员兰德·保罗在访谈中，不仅表达了对政府开支和国家债务的担忧，还对军事打击毒贩船只的方式提出质疑，并批评政府过度干预经济，担忧其走向“社会主义”。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- foreign-policy
+- government-spending
+- national-debt
+- socialism
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=nTqJ2cC4Qaw
 status: evergreen
 ---
 ### 政府关门与财政赤字困境

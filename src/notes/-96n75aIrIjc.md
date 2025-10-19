@@ -1,25 +1,28 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-06-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=96n75aIrIjc
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - mario-vargas-llosa
-  - the-feast-of-the-goat
-  - dictatorship
-  - rafael-trujillo
 title: 《公羊的节日》：一部解剖独裁者及其统治体系的深刻小说
 summary: 小说《公羊的节日》以独裁者特鲁希略为原型，深刻剖析了独裁者的心理、权术以及维系其统治的恐惧与羞辱机制。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- dictatorship
+- mario-vargas-llosa
+- rafael-trujillo
+- stella-an
+- the-feast-of-the-goat
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-06-14'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=96n75aIrIjc
 status: evergreen
 ---
 ### 一部描绘典型独裁者的小说：《公羊的节日》

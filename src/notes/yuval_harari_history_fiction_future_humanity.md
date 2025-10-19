@@ -1,28 +1,34 @@
 ---
-author: Lei
-date: 2025-10-12
-guest: Yuval Noah Harari
-layout: post.njk
-source: 
-speaker: Steve Levitt
+title: A Conversation with Yuval Noah Harari on History, Fiction, and the Future of
+  Humanity
+summary: A deep dive with "Sapiens" author Yuval Noah Harari, exploring the power
+  of stories, the agricultural revolution as a fraud, the meaning of life, and the
+  potential dangers and promises of future technology.
+area: personal-growth
+category: culture
+project:
+- historical-insights
 tags:
-- t-literature-note
-- human-history
-- storytelling
 - consciousness
 - future-of-humanity
-title: A Conversation with Yuval Noah Harari on History, Fiction, and the Future of Humanity
-summary: A deep dive with "Sapiens" author Yuval Noah Harari, exploring the power of stories, the agricultural revolution as a fraud, the meaning of life, and the potential dangers and promises of future technology.
-insight:
-file_name: yuval_harari_history_fiction_future_humanity.md
+- human-history
+- storytelling
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-12
+author: Lei
+speaker: Steve Levitt
 draft: true
-series:
-category:
-area:
-project:
+file_name: yuval_harari_history_fiction_future_humanity.md
+guest: Yuval Noah Harari
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ### 节目前言
 
 **导读**: 大家好，欢迎收听《世界播明》，用中文解码世界的缤纷，带你听见不一样的风景。我是你们的导读。

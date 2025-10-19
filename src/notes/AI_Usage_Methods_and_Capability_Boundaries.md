@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: AI的使用方法与能力边界
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- prompt
+- 人工智能
+- 工作流
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 李厚辰
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 李厚辰
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- Prompt
-- 工作流
-title: AI的使用方法与能力边界
 ---
-
 ## 引言：AI付费现状与讨论范围
 
 首先，我想了解一下在座各位中已经为AI服务付费的朋友。看来，这部分人群数量可观。那么，每月付费超过20美元，例如同时订阅两三个服务，月支出达到五六十美元的用户也为数不少。这表明，今天在场的许多人可能已经对AI进行了较为深度的使用。

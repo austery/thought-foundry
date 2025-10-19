@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2025-05-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=F6Lr_ks2lss
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - youtuber
-  - imposter-syndrome
-  - entrepreneurship
-  - personal-development
-  - travel-adventure
 title: 张修修：我的“不正常”逆袭人生——从被退学到50万YouTuber的心路历程
 summary: 张修修分享了他从贫困童年、大学被退学，到骑行环游世界、创业失败，最终成为50万YouTuber的“不正常”人生。他如何在逆境中克服冒牌者症候群，找到自我价值，并以独特视角实现人生“升级”的故事。
-insight: ''
+area: market-analysis
+category: business
+project:
+- entrepreneurship
+tags:
+- entrepreneurship
+- imposter-syndrome
+- personal-development
+- travel-adventure
+- youtuber
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-29'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=F6Lr_ks2lss
 status: evergreen
 ---
 ### 引言：一个“不正常”的逆袭故事

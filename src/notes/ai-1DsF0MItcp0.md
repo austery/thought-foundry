@@ -1,22 +1,26 @@
 ---
-author: 课代表立正
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1DsF0MItcp0
-speaker: 课代表立正
-tags:
-  - t-literature-note
-  - Hackathon
-  - Career-Transformation
 title: 从迷茫到掌控：AI赋能下的硅谷职业与个人成长实践
 summary: 讲述了作者如何在硅谷通过AI工具实现职业转型，从运营走向高价值战略分析，并借助黑客松经历突破自我局限。她在创业实践中克服了失败恐惧，提升了判断力与沟通力，最终赢得顶级黑客松奖项，实现了个人与职业的全面成长。
-insight: ''
+area: personal-growth
+category: career
+project:
+- personal-growth-lab
+tags:
+- career-transformation
+- hackathon
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: 课代表立正
+speaker: 课代表立正
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=1DsF0MItcp0
 status: evergreen
 ---
 ### AI助力下的职业转型与高价值工作聚焦

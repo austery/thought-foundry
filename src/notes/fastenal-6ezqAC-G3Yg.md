@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6ezqAC-G3Yg
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - fastenal
-  - pricing-strategy
-  - tariffs-impact
-  - supply-chain-diversification
-  - industrial-sector
 title: Fastenal：软定价、关税与全球供应链重塑
 summary: Fastenal高管深入探讨了公司在定价疲软和关税压力下的季度业绩。面对市场对“完美定价”的预期，公司通过优化供应链和分散采购来源，以实现持续增长，并计划在第四季度和2026年进行价格调整，以应对不断变化的全球贸易环境。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- bloomberg-podcasts
+- industrial-sector
+- pricing-strategy
+- supply-chain-diversification
+- tariffs-impact
+people: []
+companies_orgs:
+- fastenal
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6ezqAC-G3Yg
 status: evergreen
 ---
 ### 分析师关注定价疲软

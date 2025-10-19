@@ -1,26 +1,29 @@
 ---
-author: 大问题Dialectic
-date: '2025-09-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=NCysqVNCXFQ
-speaker: 大问题Dialectic
-tags:
-  - t-literature-note
-  - dialectic
-  - plato
-  - noble-lie
-  - political-philosophy
-  - social-order
-  - the-republic
 title: 柏拉图的‘高贵的谎言’：统治者为何必须向民众撒谎以维系社会秩序？
 summary: 本文探讨柏拉图在《理想国》中提出的‘高贵的谎言’，阐释其如何通过虚构的公共叙事，维系社会各阶层的和谐与国家的秩序，并延伸讨论政治叙事在不同时代的演变与作用。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- dialectic
+- noble-lie
+- plato
+- political-philosophy
+- social-order
+- the-republic
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-25'
+author: 大问题Dialectic
+speaker: 大问题Dialectic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=NCysqVNCXFQ
 status: evergreen
 ---
 ### 统治者必须撒谎以维系秩序吗？

@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2022-01-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bAQYQWf_mzo
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - stock-market
-  - investment-strategy
-  - long-term-investing
-  - portfolio-management
-  - personal-finance
 title: 2022年美股生存指南：我的极简投资组合与长期投资策略
 summary: 面对2022年市场的不确定性，本文分享了作者的四大股市生存指南：抛弃牛市幻觉、选择自身游戏、保持安全边际及为投资做减法。同时，也详细介绍了作者以特斯拉股票和指数基金为主的极简投资组合及长期策略。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- investment-strategy
+- long-term-investing
+- personal-finance
+- portfolio-management
+- stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-01-29'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=bAQYQWf_mzo
 status: evergreen
 ---
 ### 重新审视投资：告别“抄底”思维

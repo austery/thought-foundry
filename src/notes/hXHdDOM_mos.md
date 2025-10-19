@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-07-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=hXHdDOM_mos
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - fed-policy
-  - market-analysis
-  - earnings-outlook
-  - labor-market
-  - technical-indicators
 title: 降息预期、劳动力市场与市场参与度：美股最新分析与展望
 summary: 本期视频分析了7月1日美股市场走势、5月劳动力数据，并解读了鲍威尔对降息的最新表态。探讨了9月降息50个基点的可能性，回顾了Q1财报并展望Q2，最后重点分析了50日均线市场参与度作为局部高点指标的意义。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- earnings-outlook
+- fed-policy
+- labor-market
+- market-analysis
+- technical-indicators
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-02'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=hXHdDOM_mos
 status: evergreen
 ---
 ### 市场回顾与机构操作观察

@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=I4RXv6HMCag
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - tesla
-  - elon-musk
-  - us-politics
-  - ev-policy
-  - stock-analysis
 title: 马斯克第三党派、关税更新与大美丽法案对特斯拉的深远影响分析
 summary: 本文深入探讨了埃隆·马斯克组建第三党派的政治动向、美国关税政策的最新进展以及“大美丽法案”对特斯拉财务和销量的潜在影响。文章还结合技术面分析，提供了对特斯拉股票的投资策略建议。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- elon-musk
+- ev-policy
+- stock-analysis
+- us-politics
+people: []
+companies_orgs:
+- tesla
+products_models: []
+media_books:
+- talk
+date: '2025-07-07'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=I4RXv6HMCag
 status: evergreen
 ---
 ### 引言：特斯拉面临的多重挑战与投资策略

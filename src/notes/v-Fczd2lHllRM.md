@@ -1,26 +1,33 @@
 ---
-author: Amit Kukreja
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Fczd2lHllRM
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - market-recap
-  - us-china-trade
-  - federal-reserve
-  - palantir
-  - financial-markets
 title: 市场V型反转：中美贸易、美联储政策与科技巨头动向解析
 summary: 本期回顾分析市场V型反转原因，探讨中美贸易谈判、美联储降息暗示及银行财报亮点，并关注Palantir股价与软件质疑。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- amit-kukreja
+- federal-reserve
+- financial-markets
+- market-recap
+- us-china-trade
+people: []
+companies_orgs:
+- palantir
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Fczd2lHllRM
 status: evergreen
 ---
 ### 每日回顾：市场概览与重要新闻

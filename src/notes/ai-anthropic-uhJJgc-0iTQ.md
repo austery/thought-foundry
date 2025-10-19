@@ -1,26 +1,29 @@
 ---
-author: Anthropic
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uhJJgc-0iTQ
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - ai-agents
-  - anthropic-claude
-  - multi-agent-systems
-  - code-sdk
-  - ai-development
 title: 构建更高效的AI智能体：Anthropic专家洞察
 summary: Anthropic专家Alex和Erik深入探讨了如何利用Claude构建高效AI智能体，包括多智能体系统、Claude Code SDK、Skills以及未来的发展方向，强调从简单入手和以用户为中心的设计原则。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-agents
+- ai-development
+- anthropic-claude
+- code-sdk
+- multi-agent-systems
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uhJJgc-0iTQ
 status: evergreen
 ---
 ### 引言：Anthropic的智能体研究

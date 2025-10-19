@@ -1,25 +1,32 @@
 ---
-author: 一口新飯
-date: '2024-01-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XsfzjalMpLo
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - tesla-stock
-  - fsd-technology
-  - artificial-intelligence
-  - elon-musk
-  - ev-market
 title: 特斯拉股价崩盘后，前FSD工程师于振华：坚信特斯拉是AI公司，股价将翻10倍
-summary: 一位前特斯拉FSD工程师在特斯拉股价大跌后，深入剖析公司财报、FSD技术、AI潜力及企业文化，坚信其股价将翻10倍，并认为Optimus是FSD的Plan B。
-insight: ''
+summary: 一位前特斯拉FSD工程师在特斯拉股价大跌后，深入剖析公司财报、FSD技术、AI潜力及企业文化，坚信其股价将翻10倍，并认为Optimus是FSD的Plan
+  B。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- artificial-intelligence
+- elon-musk
+- ev-market
+- fsd-technology
+- tesla-stock
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2024-01-28'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XsfzjalMpLo
 status: evergreen
 ---
 ### 特斯拉财报与股价大跌：预期之内的波动

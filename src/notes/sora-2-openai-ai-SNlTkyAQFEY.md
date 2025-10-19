@@ -1,26 +1,30 @@
 ---
-author: 人民公园说AI
-date: '2025-10-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=SNlTkyAQFEY
-speaker: 人民公园说AI
-tags:
-  - t-literature-note
-  - ai
-  - sora-2
-  - openai
-  - social-commerce
-  - ai-applications
-  - e-commerce-disruption
 title: Sora 2与OpenAI版“抖音”：重塑社交电商与AI生态的野心
 summary: Sora 2推出“抖音”版应用，其强大的物理引擎和社交电商闭环设计，正威胁着TikTok与亚马逊。本文深入探讨了OpenAI的产品策略、与谷歌等大厂的对比，及其背后的商业野心与算力挑战。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai
+- ai-applications
+- e-commerce-disruption
+- social-commerce
+- sora-2
+people: []
+companies_orgs:
+- openai
+products_models: []
+media_books: []
+date: '2025-10-01'
+author: 人民公园说AI
+speaker: 人民公园说AI
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=SNlTkyAQFEY
 status: evergreen
 ---
 ### Sora 2的惊艳亮相与行业震动

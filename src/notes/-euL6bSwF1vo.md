@@ -1,26 +1,30 @@
 ---
-author: LT視界
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=euL6bSwF1vo
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - US Government Shutdown
-  - Non-Farm Payrolls
-  - Trump China Policy
-  - Soybean Trade War
-  - Economic Contradictions
 title: 美国政府停摆冲击华尔街：数据真空下的交易困境与川普对华大豆策略的升级
 summary: 美国政府关门导致非农数据发布受阻，华尔街面临数据真空的挑战，交易员预警或将冲击市场。同时，川普政府冻结民主党地区联邦资金，并设定哈马斯最后期限。在中美经贸方面，大豆问题升温，川普准备提供百亿美元补贴，胡锡进则借此宣告中国策略的胜利。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- economic-contradictions
+- non-farm-payrolls
+- soybean-trade-war
+- trump-china-policy
+- us-government-shutdown
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-06'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=euL6bSwF1vo
 status: evergreen
 ---
 ### 财经头条：政府停摆对华尔街的影响及经济信号

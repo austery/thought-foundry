@@ -1,25 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-10-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=oC2T6Nk6Gqw
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-report
-  - ai-trends
-  - ai-safety
-  - ai-geopolitics
-  - ai-economy
 title: 2025年AI现状报告深度解读：推理飞跃、营收转型与全球博弈
 summary: 深度解读内森·贝纳奇2025年AI现状报告，分析推理突破、规模化营收、地缘政治、安全挑战与未来预测。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- geopolitics-watch
+tags:
+- ai-economy
+- ai-geopolitics
+- ai-report
+- ai-safety
+- ai-trends
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-12'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=oC2T6Nk6Gqw
 status: evergreen
 ---
 ### 引言：AI年度圣经揭示行业真貌

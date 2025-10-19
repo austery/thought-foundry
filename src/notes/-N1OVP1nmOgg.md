@@ -1,26 +1,34 @@
 ---
-author: 投资TALK君
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=N1OVP1nmOgg
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - earnings-season
-  - us-china-relations
-  - stock-market-analysis
-  - financial-outlook
-  - ai-investment
 title: 华尔街财报季深度解析：市场走势、中美关系及投资洞察
 summary: 本期节目深入分析美股财报季，探讨Progressive、阿斯麦和美国银行的业绩表现，并解读贝森特对中美关系的最新看法，展望市场前景。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- ai-investment
+- earnings-season
+- financial-outlook
+- stock-market-analysis
+- us-china-relations
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-10-16'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=N1OVP1nmOgg
 status: evergreen
 ---
 ### 财报季加更：市场概览与展望

@@ -1,26 +1,31 @@
 ---
-author: LT視界
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Lz0-tb8qe1s
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - global-economy
-  - us-china-trade
-  - cryptocurrency
-  - china-politics
-  - real-estate-crisis
 title: 全球经济挑战与中美博弈：从加密货币暴跌到中国内部困境
 summary: 国际货币基金组织上调全球经济预期，美联储关注风险。加密货币市场因关税引发历史性抛售。加沙和平协议前景不明，印度加速与美贸易谈判。非洲终身制领导人引警示。中国房地产危机加剧，万科高管被捕。胡锡进罕见批言论管制。中美贸易战升级，稀土与半导体成焦点。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- us-analysis
+tags:
+- china-politics
+- cryptocurrency
+- global-economy
+- real-estate-crisis
+- us-china-trade
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Lz0-tb8qe1s
 status: evergreen
 ---
 ### 财经头条：全球经济展望、美联储动向与加密货币震荡

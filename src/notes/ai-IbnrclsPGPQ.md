@@ -1,26 +1,33 @@
 ---
-author: All-In Podcast
-date: '2025-10-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=IbnrclsPGPQ
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - gaza-peace-deal
-  - us-immigration-policy
-  - artificial-intelligence
-  - gold-market
-  - prediction-markets
 title: 特朗普斡旋加沙停火，国民警卫队进驻芝加哥，及AI与黄金市场新动态
 summary: 本期播客深入探讨特朗普政府在加沙停火、移民执法上的行动，分析AMD与OpenAI的GPU交易对AI市场的影响，解读黄金价格上涨背后的多重因素，并展望预测市场PolyMarket的未来发展。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- all-in-podcast
+- artificial-intelligence
+- gaza-peace-deal
+- gold-market
+- prediction-markets
+- us-immigration-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-10'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=IbnrclsPGPQ
 status: evergreen
 ---
 ### 播客开场与近况更新

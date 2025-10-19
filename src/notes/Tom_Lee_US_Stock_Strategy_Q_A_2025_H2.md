@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: null
+title: Tom Lee：2025年下半年美股策略深度问答 (第一部分)
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 加密货币
+- 投资
+- 核能
+- 视频文稿
+people: []
+companies_orgs:
+- 特斯拉
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: Tampuro代表
+channel: null
 guest: Tom Lee
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
-speaker: Tampuro代表
-summary: null
-tags:
-- 视频文稿
-- 投资
-- 特斯拉
-- 加密货币
-- 核能
-title: Tom Lee：2025年下半年美股策略深度问答 (第一部分)
 ---
-
 ## 开场与市场宏观评估
 
 **主持人:**

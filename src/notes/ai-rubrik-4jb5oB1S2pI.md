@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=4jb5oB1S2pI
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - ai
-  - cybersecurity
-  - ransomware
-  - cyber-resilience
 title: AI 时代下的网络韧性：Rubrik 应对不可避免的网络攻击
 summary: 本文探讨了在 AI 驱动的时代，网络攻击日益严峻的挑战。Rubrik 公司强调网络攻击的不可避免性，并介绍了其如何通过 AI 自动化和数据分析，帮助企业实现网络韧性，即使在攻击发生后也能快速恢复业务。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai
+- bloomberg-podcasts
+- cyber-resilience
+- cybersecurity
+- ransomware
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=4jb5oB1S2pI
 status: evergreen
 ---
 ### AI 自动化与数据分析在网络安全中的应用

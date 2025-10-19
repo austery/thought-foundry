@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=EM-DFGOiJ04
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - stock-market
-  - semiconductors
-  - wealth-transfer
-  - critical-minerals
-  - taylor-swift-economy
 title: 股市上涨：逢低买入者回归，关注芯片、稀有金属与财富转移
 summary: 在主要股指大幅上涨的周一交易日，逢低买入者重返市场。OpenAI与博通的合作推动半导体板块走高，关键矿产股因地缘政治紧张而上涨。此外，报告指出全球正在经历一场大规模财富转移，女性在新财富格局中扮演日益重要的角色。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- bloomberg-podcasts
+- critical-minerals
+- semiconductors
+- stock-market
+- taylor-swift-economy
+- wealth-transfer
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=EM-DFGOiJ04
 status: evergreen
 ---
 ### 市场回顾：逢低买入者归来

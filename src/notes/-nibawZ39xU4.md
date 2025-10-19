@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=nibawZ39xU4
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - us-politics
-  - elizabeth-warren
-  - foreign-policy
-  - healthcare-policy
-  - local-government
 title: 伊丽莎白·沃伦参议员：从阿根廷救助到美国国内政策挑战
 summary: 马萨诸塞州参议员伊丽莎白·沃伦批评针对阿根廷的救助计划，指出其损害美国农民利益。她还讨论了政府关门对医疗保健的影响，并为波士顿市长吴弭辩护，反对特朗普总统的言论及部署国民警卫队的威胁。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- bloomberg-podcasts
+- elizabeth-warren
+- foreign-policy
+- healthcare-policy
+- local-government
+- us-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=nibawZ39xU4
 status: evergreen
 ---
 ### 阿根廷救助计划与美国农民的困境

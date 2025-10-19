@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ocJVH1mx9Bc
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - kentucky-economy
-  - trade-war
-  - tariffs
-  - electric-vehicles
-  - manufacturing
 title: 肯塔基州：美国贸易战前线与电动汽车转型挑战
 summary: 本文深入探讨了肯塔基州在美国贸易战中的独特地位，分析了关税政策对该州汽车制造、波本威士忌等关键产业的冲击。同时，文章还聚焦肯塔基州从传统煤炭经济向电动汽车产业的转型，以及这一转型在联邦政策、移民问题和市场需求放缓等多重挑战下所面临的困境与机遇。
-insight: ''
+area: market-analysis
+category: finance
+project: []
+tags:
+- bloomberg-podcasts
+- electric-vehicles
+- kentucky-economy
+- manufacturing
+- tariffs
+- trade-war
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ocJVH1mx9Bc
 status: evergreen
 ---
 ### 肯塔基州：贸易战的意外前线

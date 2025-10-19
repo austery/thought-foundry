@@ -1,25 +1,29 @@
 ---
-author: 东京人文论坛
-date: '2025-10-05'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=YtuZpLIxV_w
-speaker: 东京人文论坛
-tags:
-  - t-literature-note
-  - song-jiaoren
-  - constitutional-democracy
-  - republican-revolution
-  - tokyo-exiles
-  - chinese-history
 title: 东京重造中国：宋教人的宪政理想与悲剧
 summary: 傅国涌教授讲述宋教人在东京流亡期间，如何构想并推动中国宪政民主，成为中华民国早期最关键的政治人物，及其被刺的悲剧与深远影响。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- historical-insights
+tags:
+- chinese-history
+- constitutional-democracy
+- republican-revolution
+- song-jiaoren
+- tokyo-exiles
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-05'
+author: 东京人文论坛
+speaker: 东京人文论坛
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=YtuZpLIxV_w
 status: evergreen
 ---
 ### 在东京重塑中国的时代背景

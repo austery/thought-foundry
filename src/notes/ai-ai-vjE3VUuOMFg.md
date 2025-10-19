@@ -1,26 +1,30 @@
 ---
-author: Internet of Bugs
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vjE3VUuOMFg
-speaker: Internet of Bugs
-tags:
-  - t-literature-note
-  - internet-of-bugs
-  - ai-risk
-  - existential-risk
-  - study-critique
-  - misinformation
-  - ai-ethics
 title: 对“AI不会毁灭我们所有人”视频的后续：驳斥一项有缺陷的AI风险研究
 summary: 本视频驳斥了一项声称“AI生存风险叙事不会分散对即时危害的注意力”的研究，指出其定义、方法和结论存在严重缺陷，并重申关注AI当前危害的重要性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-ethics
+- ai-risk
+- existential-risk
+- internet-of-bugs
+- misinformation
+- study-critique
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: Internet of Bugs
+speaker: Internet of Bugs
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vjE3VUuOMFg
 status: evergreen
 ---
 ### 视频背景与研究争议

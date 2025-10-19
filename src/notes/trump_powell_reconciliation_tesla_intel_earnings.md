@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 川普鲍威尔和解！特斯拉利润下调，英特尔大跌的原因！
+summary: 分析川普与鲍威尔和解，更新谷歌、特斯拉财报数据，并深入解读英特尔的最新财报与未来战略。
+area: null
+category: null
+project: []
+tags:
+- 英特尔
+- 视频文稿
+- 财报
+people: []
+companies_orgs:
+- 特斯拉
+products_models: []
+media_books: []
 date: 2025-07-24
+author: Lei
+speaker: 投资TALK君
+channel: null
+draft: true
+file_name: trump_powell_reconciliation_tesla_intel_earnings
 guest: null
 insight: null
 layout: post.njk
 source: null
-speaker: 投资TALK君
-summary: 分析川普与鲍威尔和解，更新谷歌、特斯拉财报数据，并深入解读英特尔的最新财报与未来战略。
-tags:
-- 视频文稿
-- 特斯拉
-- 英特尔
-- 财报
-title: 川普鲍威尔和解！特斯拉利润下调，英特尔大跌的原因！
-file_name: trump_powell_reconciliation_tesla_intel_earnings
-draft: true
 ---
-
 ## 引言
 
 各位观众大家好，欢迎来到一个即使已经非常晚，也要为大家更新视频的日更美股博主，我是市场分析员肖涛。今天的内容上线时间又有点晚，因为确实非常忙，但这无法阻挡我为大家做视频的热情，还是得上线，该讲的还是得讲。

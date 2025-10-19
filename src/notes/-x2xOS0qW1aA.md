@@ -1,26 +1,29 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=x2xOS0qW1aA
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - zohran-mamdani
-  - new-york-politics
-  - democratic-socialism
-  - progressive-politics
-  - mayoral-election
 title: 卓兰·马姆达尼：一位民主社会主义者的崛起与纽约新愿景
 summary: 本文深入探讨了纽约市市长候选人卓兰·马姆达尼的政治崛起之路，他作为民主社会主义者的理念，对传统民主党政治的批判，他对以色列-巴勒斯坦问题和特朗普政府潜在干预的立场，以及他致力于为纽约市民带来变革的坚定承诺。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- democratic-socialism
+- mayoral-election
+- new-york-politics
+- new-york-times-podcasts
+- progressive-politics
+- zohran-mamdani
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=x2xOS0qW1aA
 status: evergreen
 ---
 ### 集会现场：选民心声

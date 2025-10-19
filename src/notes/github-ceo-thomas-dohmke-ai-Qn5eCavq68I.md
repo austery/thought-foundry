@@ -1,25 +1,31 @@
 ---
-author: 最佳拍档
-date: '2025-08-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Qn5eCavq68I
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-programming
-  - developer-future
-  - github-copilot
-  - ai-agents
-  - software-development
 title: GitHub CEO Thomas Dohmke的AI预言：开发者奥德赛与编程未来
-summary: GitHub CEO Thomas Dohmke即将离职，GitHub将并入微软Core AI团队。他预言未来两年内90%代码由AI生成，开发者将面临新阶层分化，并探讨AI编程对通用人工智能的关键作用，以及AI Agent如何重塑软件开发流程和协作模式。
-insight: ''
+summary: GitHub CEO Thomas Dohmke即将离职，GitHub将并入微软Core AI团队。他预言未来两年内90%代码由AI生成，开发者将面临新阶层分化，并探讨AI编程对通用人工智能的关键作用，以及AI
+  Agent如何重塑软件开发流程和协作模式。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai-agents
+- ai-programming
+- developer-future
+- github-copilot
+- software-development
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-22'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Qn5eCavq68I
 status: evergreen
 ---
 ### GitHub重组与AI编程的野心

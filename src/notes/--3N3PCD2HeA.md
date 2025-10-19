@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2024-12-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=-3N3PCD2HeA
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - investment
-  - insurance
-  - financial-planning
-  - decision-making
-  - cognitive-bias
 title: '一个得罪保险销售的视频: 投资与保险的底层逻辑与购买原则'
 summary: 本文深入探讨了投资与保险的关系，揭示人类追求确定性的本能如何影响决策，并详细分类了四种保险产品，提供了明智的购买原则。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- cognitive-bias
+- decision-making
+- financial-planning
+- insurance
+- investment
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2024-12-21'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=-3N3PCD2HeA
 status: evergreen
 ---
 ### 投资与保险关系的困惑

@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2023-06-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fTyvGHRWZRY
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - skype-bing-chatbot
-  - gpt-4-alternative
-  - free-ai-tools
-  - prompt-engineering
-  - ai-productivity
 title: Skype内置免费版GPT-4：无限制对话，功能超越ChatGPT-4？
 summary: 本文深入探讨微软Skype聊天软件中内置的免费GPT-4 Bing聊天机器人。它不仅对话无限制，且性能接近ChatGPT-4，并提供独特的群聊协作与管理功能，但也有其局限性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- personal-growth-lab
+tags:
+- ai-productivity
+- free-ai-tools
+- gpt-4-alternative
+- prompt-engineering
+- skype-bing-chatbot
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2023-06-17'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fTyvGHRWZRY
 status: evergreen
 ---
 ### Skype内置Bing聊天机器人：免费GPT-4的强大替代方案

@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=VWmdVwydrDo
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - france-assets
-  - investor-mood
-  - political-uncertainty
-  - pension-reform
 title: 法国资产前景不明朗：投资者的风险规避策略
 summary: 资深投资经理Christopher Dembik分析法国政治不确定性对资产的影响，认为减持法国资产是规避风险的明智之举。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- bloomberg-podcasts
+- france-assets
+- investor-mood
+- pension-reform
+- political-uncertainty
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=VWmdVwydrDo
 status: evergreen
 ---
 ### 法国政治局势分析

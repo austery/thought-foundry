@@ -1,26 +1,31 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bmZJY-7Xf18
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - TSMC
-  - Geopolitics
-  - Global Supply Chain
-  - Pharmaceuticals
-  - Authoritarian Alliance
 title: 台积电的战略突围与全球医药供应链的暗流：地缘政治下的产业博弈
 summary: 本文深入剖析了台积电在地缘政治压力下的全球扩张策略，及其在日本、德国和美国的布局。同时，文章揭示了中国在全球医药供应链，特别是原料药领域日益增长的主导地位，并警示其潜在的地缘政治风险。此外，还探讨了中俄朝等威权国家间看似紧密的联盟，以及中俄两国关系的不对称性与未来走向，并反思了全球化时代国家力量与企业自主性的博弈。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- geopolitics-watch
+tags:
+- authoritarian-alliance
+- geopolitics
+- global-supply-chain
+- pharmaceuticals
+people: []
+companies_orgs:
+- tsmc
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-07'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=bmZJY-7Xf18
 status: evergreen
 ---
 ### 台积电的全球战略：地缘政治下的商业抉择

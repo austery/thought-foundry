@@ -1,26 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-07-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=14-rWGEgSwI
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - intellectuals
-  - paul-johnson
-  - leo-tolstoy
-  - jean-paul-sartre
-  - morality
 title: 《知识分子》：揭开托尔斯泰与萨特等思想巨匠的道德假面
 summary: 保罗·约翰逊的《知识分子》一书，通过揭示托尔斯泰、萨特等思想巨匠在私生活中的道德瑕疵，挑战了“有才便可无德”的观念，引发对知识分子角色的深刻反思。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- intellectuals
+- jean-paul-sartre
+- leo-tolstoy
+- morality
+- paul-johnson
+- stella-an
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-19'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=14-rWGEgSwI
 status: evergreen
 ---
 ### 现代社会的缔造者：知识分子的光环与争议

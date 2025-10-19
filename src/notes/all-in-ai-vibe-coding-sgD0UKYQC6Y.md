@@ -1,25 +1,31 @@
 ---
-author: 一口新飯
-date: '2025-08-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=sgD0UKYQC6Y
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - ai-revolution
-  - vibe-coding
-  - career-transformation
-  - future-of-work
-  - automation
 title: 'ALL in AI: 为什么你需要立即开始Vibe Coding？'
 summary: AI时代，Vibe Coding助你从工具人跃迁为新工具与资源拥有者。本文阐述其策略与实践，强调解决实际问题，把握机遇。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- vibe-coding
+tags:
+- ai-revolution
+- automation
+- career-transformation
+- future-of-work
+- vibe-coding
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-23'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=sgD0UKYQC6Y
 status: evergreen
 ---
 ### AI时代下的紧迫变革

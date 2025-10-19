@@ -1,28 +1,32 @@
 ---
-author: Lei
-date: 2025-10-03
-guest:
-layout: post.njk
-source:
-speaker: LT
-tags:
-- t-literature-note
-- us-economy
-- china-us-relations
-- trade-war
-- public-opinion
 title: 美中贸易战的尴尬僵局与中国舆论的转向
 summary: 本期内容探讨了美国市场对政府关门的漠视、美中贸易战在大豆问题上陷入的尴尬局面，以及中国国内因K字签证和于朦胧事件引发的罕见反政府舆论浪潮。
-insight:
-file_name: us_china_trade_war_public_opinion_shift.md
-draft: true
-series:
-category:
-area:
+area: market-analysis
+category: geopolitics
 project:
+- china-analysis
+- us-analysis
+tags:
+- china-us-relations
+- public-opinion
+- trade-war
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-03
+author: Lei
+speaker: LT
+draft: true
+file_name: us_china_trade_war_public_opinion_shift.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ### 今日财经头条：市场为何无惧政府关门？
 
 大家好，今天是10月2日，我们一起来分享今天不能错过的重要新闻。首先了解今天的财经头条，有四个方面的最新信息。

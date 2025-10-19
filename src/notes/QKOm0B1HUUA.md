@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-08-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=QKOm0B1HUUA
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - amd-earnings
-  - macroeconomic-data
-  - consumer-lending
-  - stock-market-analysis
-  - ai-gpu
 title: AMD财报深度解析与宏观经济数据洞察：消费者借贷与市场走势
-summary: 本文深入分析了宏观经济数据，包括资产价格走势和ISM服务业指数，并详细解读了纽约联储发布的消费者借贷健康状况报告。此外，还对AMD的最新财报进行了全面剖析，探讨了其GPU业务发展、软件进展、市场需求及估值，并提及了Futu Moomoo的财报季功能及开户优惠。
-insight: ''
+summary: 本文深入分析了宏观经济数据，包括资产价格走势和ISM服务业指数，并详细解读了纽约联储发布的消费者借贷健康状况报告。此外，还对AMD的最新财报进行了全面剖析，探讨了其GPU业务发展、软件进展、市场需求及估值，并提及了Futu
+  Moomoo的财报季功能及开户优惠。
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-gpu
+- amd-earnings
+- consumer-lending
+- macroeconomic-data
+- stock-market-analysis
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-06'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=QKOm0B1HUUA
 status: evergreen
 ---
 ### 宏观经济概览：资产价格与服务业指数

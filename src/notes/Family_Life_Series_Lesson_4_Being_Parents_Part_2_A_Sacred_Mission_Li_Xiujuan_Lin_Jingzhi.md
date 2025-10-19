@@ -1,25 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 第四课：为人父母：一项神圣的使命 (下)
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 亲子关系
+- 夫妻关系
+- 婚姻成长
+- 宗教
+- 家庭教育
+- 家庭生活
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 林静芝,李秀全
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=plCCp2vWmgU
-speaker: 林静芝,李秀全
-summary: null
-tags:
-- 视频文稿
-- 亲子关系
-- 家庭教育
-- 婚姻成长
-- 家庭生活
-- 夫妻关系
-- 宗教
-title: 第四课：为人父母：一项神圣的使命 (下)
 ---
-
 ## 回顾与引言
 
 **李秀全 老师:**

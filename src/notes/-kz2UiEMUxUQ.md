@@ -1,26 +1,32 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-09-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=kz2UiEMUxUQ
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - social-darwinism
-  - win-ology
-  - appeasement-strategy
-  - stockholm-syndrome
-  - chinese-internet-culture
 title: 批判“赢学”与迎合施虐者：一种既缺德又愚蠢的生存策略
 summary: 本期节目批判了社会达尔文主义下的“赢学”思维，以及为求生存而讨好施虐者的行为，探讨其道德与实用性，并呼吁人们不要做蠢事。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- cultural-critique
+- investment-strategy
+- market-cycles
+tags:
+- appeasement-strategy
+- chinese-internet-culture
+- social-darwinism
+- stella-an
+- stockholm-syndrome
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- win-ology
+date: '2025-09-13'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=kz2UiEMUxUQ
 status: evergreen
 ---
 ### 对“赢学”与“计算机党”的批判

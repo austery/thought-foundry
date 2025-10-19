@@ -1,26 +1,28 @@
 ---
-author: TED
-date: '2025-10-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=IKOpcSRxHxQ
-speaker: TED
-tags:
-  - t-literature-note
-  - ted
-  - public-safety
-  - community-violence-intervention
-  - gang-peace-treaty
-  - newark-strategy
-  - social-justice
 title: 社区驱动的公共安全转型：从帮派和平条约到全国倡议
 summary: Aqeela Sherrills讲述了她从帮派成员到和平倡导者的转变，以及如何通过社区主导的解决方案，显著降低暴力并重塑公共安全。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- community-violence-intervention
+- gang-peace-treaty
+- newark-strategy
+- public-safety
+- social-justice
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-10'
+author: TED
+speaker: TED
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=IKOpcSRxHxQ
 status: evergreen
 ---
 ### 洛杉矶的和平协议

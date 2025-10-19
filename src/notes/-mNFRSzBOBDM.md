@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=mNFRSzBOBDM
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - steven-cohen
-  - sac-capital
-  - hedge-funds
-  - wall-street
-  - poker
 title: 史蒂文·科恩的崛起：从扑克牌桌到华尔街帝国
 summary: 本期节目深入探讨了史蒂文·科恩如何从贫困童年和扑克桌上的磨砺中崛起，创立SAC资本，凭借其独特的交易天赋、无情手腕和对信息的极致追求，逐步建立起百亿美金的金融帝国。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- hedge-funds
+- poker
+- sac-capital
+- steven-cohen
+- wall-street
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-26'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=mNFRSzBOBDM
 status: evergreen
 ---
 ### 引言：华尔街的幽灵——史蒂文·科恩

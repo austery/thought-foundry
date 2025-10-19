@@ -1,28 +1,35 @@
 ---
-author: LT視界
-date: 2025-10-04
-guest: 
-layout: post.njk
-source: https://www.youtube.com/watch?v=euL6bSwF1vo
-speaker: LT視界
-tags:
-  - t-literature-note
-  - china-us-relations
-  - government-shutdown
-  - soybeans
-  - trade-war
-title: Analysis of US Government Shutdown Impact, Trump's Gaza Plan, and the US-China Soybean Standoff
-summary: This video discusses the impact of the US government shutdown on economic data releases, Trump's Gaza peace plan, and the ongoing tension in US-China trade relations centered on soybean purchases.
-insight:
-file_name: analysis_us_shutdown_gaza_soybeans_20251004.md
-draft: true
-series:
-category:
-area:
+title: Analysis of US Government Shutdown Impact, Trump's Gaza Plan, and the US-China
+  Soybean Standoff
+summary: This video discusses the impact of the US government shutdown on economic
+  data releases, Trump's Gaza peace plan, and the ongoing tension in US-China trade
+  relations centered on soybean purchases.
+area: market-analysis
+category: geopolitics
 project:
+- china-analysis
+- us-analysis
+tags:
+- china-us-relations
+- government-shutdown
+- soybeans
+- trade-war
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-04
+author: LT視界
+speaker: LT視界
+draft: true
+file_name: analysis_us_shutdown_gaza_soybeans_20251004.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=euL6bSwF1vo
 status: evergreen
 ---
-
 # 2025年10月3日 重要新闻分享
 
 ## 1. 财经头条 (Financial Headlines)

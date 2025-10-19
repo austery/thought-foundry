@@ -1,26 +1,32 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5MkB9HOizv4
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - china manufacturing
-  - smart device security
-  - climate change policy
-  - geopolitics
-  - hong kong finance
 title: 智能设备威胁、中国制造崛起与气候博弈：深度解析中国议题
 summary: 本文深度剖析了智能设备的安全风险，中国在全球制造业的主导地位及其战略，以及中国在气候变化领域提出的保守但具变革性的目标。内容源自对全球顶尖智库和媒体文章的解读，旨在为关注中国问题的思考者提供深度洞察。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+- investment-strategy
+tags:
+- china-manufacturing
+- climate-change-policy
+- geopolitics
+- hong-kong-finance
+- smart-device-security
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-07'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5MkB9HOizv4
 status: evergreen
 ---
 ### 智能设备的“特洛伊木马”：中国制造与数字安全的潜在威胁

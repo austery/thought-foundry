@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-08-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=-L0eF-p7wfs
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - cpi-analysis
-  - fed-policy
-  - market-outlook
-  - earnings-review
-  - investment-strategy
 title: 2025年8月CPI数据深度解析与市场展望：降息预期、消费趋势及公司财报
 summary: 本期深入分析了2025年8月CPI数据，探讨9月降息前景，并结合市场情绪、消费趋势及Chipotle、On Holding、C Limited、Circle等公司财报，提供全面投资洞察。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- cpi-analysis
+- earnings-review
+- fed-policy
+- investment-strategy
+- market-outlook
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-13'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=-L0eF-p7wfs
 status: evergreen
 ---
 ### 引言与内容概览

@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: Software Is Changing (Again)
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- vibe-coding
+- 人工智能
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-20'
+author: Lei
+speaker: Andrej Karpathy
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Andrej Karpathy
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- Vibe Coding
-title: Software Is Changing (Again)
 ---
-
-
 ## Introduction: Software is Changing, Again / 引言：软件正在再次变革
 
 Hello. I'm excited to be here today to talk to you about software in the

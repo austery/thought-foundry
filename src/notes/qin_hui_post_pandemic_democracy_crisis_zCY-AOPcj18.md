@@ -1,26 +1,29 @@
 ---
-author: Lei
-date: 2025-09-25
-guest: 秦晖
-layout: post.njk
-source: https://www.youtube.com/watch?v=zCY-AOPcj18
-speaker: 李厚辰, 五雷
-tags:
-- t-literature-note
-- democracy-crisis
-- covid-19-impact
-- low-human-rights-advantage
-- global-governance
-- qin-hui
 title: 秦晖谈后疫情时代的民主危机与全球化挑战
 summary: 著名历史学家秦晖教授与“三个水枪手”深度探讨了新冠疫情对民主制度的冲击。内容涵盖中国防疫模式的“低人权优势”及其正反两面、西方民主国家在紧急状态下的决策困境，以及如何通过立法机制和公民社会来弥补民主体制在应对危机时的短板。
-insight:
-file_name: qin_hui_post_pandemic_democracy_crisis_zCY-AOPcj18.md
+area: null
+category: null
+project: []
+tags:
+- covid-19-impact
+- democracy-crisis
+- global-governance
+- low-human-rights-advantage
+- qin-hui
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-25
+author: Lei
+speaker: 李厚辰, 五雷
 draft: true
-series:
-category:
-area:
-project:
+file_name: qin_hui_post_pandemic_democracy_crisis_zCY-AOPcj18.md
+guest: 秦晖
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=zCY-AOPcj18
 status: evergreen
 ---
 ### 引言：后疫情时代的民主危机

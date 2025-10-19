@@ -1,25 +1,33 @@
 ---
-author: Lei
-date: 2025-08-15
-guest: Frank, Lydia, 彭哥
-layout: post.njk
-channel: ''
-source: ''
-speaker: Lei
-tags:
-  - 视频文稿
-  - ETF
-  - 投资策略
-  - 资产配置
-  - 美股
 title: ETF投资深度探讨：如何选择市场、构建投资组合与风险管理
 summary: 本文深入探讨了ETF的投资策略，涵盖了如何根据投资周期选择合适的ETF、美国与加拿大等不同市场的优劣势分析、主动与被动管理的选择，以及资产配置和风险控制等核心问题，为投资者提供了全面的决策参考。
-insight: ''
-file_name: ETF_investment_strategy_and_market_selection.md
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- us-analysis
+tags:
+- etf
+- 投资策略
+- 美股
+- 视频文稿
+- 资产配置
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-15
+author: Lei
+speaker: Lei
+channel: ''
 draft: true
+file_name: ETF_investment_strategy_and_market_selection.md
+guest: Frank, Lydia, 彭哥
+insight: ''
+layout: post.njk
 series: ''
+source: ''
 ---
-
 ## 开场与投资反思
 
 Frank: 你对 **ETF** (交易所交易基金：一种跟踪市场指数、可以在证券交易所自由买卖的开放式基金) 有什么研究吗？还是说无所谓？

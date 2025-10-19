@@ -1,27 +1,34 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=z7OjlFYTAVY
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - us-government-shutdown
-  - french-political-crisis
-  - middle-east-peace
-  - gold-market
-  - artificial-intelligence
 title: 聚焦国际焦点：美国政府停摆、法国政治危机、中东和平谈判及市场动态
 summary: 涵盖美国政府停摆的最新进展，法国总理的乐观态度，中东和平谈判的努力，以及黄金和人工智能领域的市场动态。同时关注了C罗成为首位足球亿万富翁的经济成就。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- artificial-intelligence
+- bloomberg-podcasts
+- french-political-crisis
+- gold-market
+- middle-east-peace
+- t-literature-note
+- us-government-shutdown
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=z7OjlFYTAVY
 status: evergreen
 ---
 ### 美国政府停摆进入第八天，白宫施压民主党

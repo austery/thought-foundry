@@ -1,23 +1,31 @@
 ---
-author: Lei
-channel: null
+title: E164：吉姆·西蒙斯，征服市场的人
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 投资
+- 投资大师
+- 视频文稿
+- 量化投资
+people:
+- 知行小酒馆
+companies_orgs: []
+products_models: []
+media_books:
+- 知行小酒馆
 date: '2025-07-10'
+author: Lei
+speaker: 雨白
+channel: null
 guest: 跑狮, 大卫翁
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=W1APBdE8wOs
-speaker: 雨白
-summary: null
-tags:
-- 视频文稿
-- 量化投资
-- 投资
-- 知行小酒馆
-- 投资大师
-title: E164：吉姆·西蒙斯，征服市场的人
 ---
-
 # E164 吉姆·西蒙斯：征服市场的人
 
 ## 引言：一位偶像的金融革命

@@ -1,26 +1,30 @@
 ---
-author: a16z
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Kw2bK_jLz8M
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - artificial-intelligence
-  - geopolitics
-  - fintech
-  - economic-growth
-  - disruptive-innovation
 title: Keith Rabois 深度解析AI、地缘政治与金融科技未来
 summary: Keith Rabois讨论了AI对国家未来的重要性、中东和平进程、特朗普的执政遗产，并深入分析了OpenAI与谷歌的竞争、AI时代的设备创新、传统科技巨头的挑战以及金融科技的机遇。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- geopolitics-watch
+tags:
+- artificial-intelligence
+- disruptive-innovation
+- economic-growth
+- fintech
+- geopolitics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Kw2bK_jLz8M
 status: evergreen
 ---
 ### AI与国家未来

@@ -1,26 +1,35 @@
 ---
-author: LT視界
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uwJPtZz1W-A
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - us-economy
-  - geopolitics
-  - china-us-relations
-  - financial-markets
-  - ukraine-war
 title: 全球经济、地缘政治与中美博弈：多维透视
 summary: 本期节目探讨美国经济表现、乌克兰战争底牌、加沙停火困境、印度与美国贸易，并深入分析中共对台统一模式、中国经济挑战、中美司法行动及贸易战最新动态，揭示全球复杂局势。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- geopolitics-watch
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- china-us-relations
+- financial-markets
+- geopolitics
+- ukraine-war
+- us-economy
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uwJPtZz1W-A
 status: evergreen
 ---
 ### 财经头条与黄金投资科普

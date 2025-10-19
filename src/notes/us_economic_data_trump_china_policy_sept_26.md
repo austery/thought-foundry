@@ -1,28 +1,35 @@
 ---
-author: Lei
-date: 2025-09-27
-guest:
-layout: post.njk
-source:
-speaker: LT
-tags:
-- t-literature-note
-- us-china-relations
-- trump-administration
-- trade-war
-- us-economy
 title: US Economic Data, Trump's Political Moves, and China's Policy Responses
-summary: A comprehensive analysis of recent US economic data, the political implications of James Comey's indictment, new trade war measures from the Trump administration, revelations in the TikTok deal, and China's latest domestic financial and social policies.
-insight:
-file_name: us_economic_data_trump_china_policy_sept_26.md
-draft: true
-series:
-category:
-area:
+summary: A comprehensive analysis of recent US economic data, the political implications
+  of James Comey's indictment, new trade war measures from the Trump administration,
+  revelations in the TikTok deal, and China's latest domestic financial and social
+  policies.
+area: market-analysis
+category: geopolitics
 project:
+- china-analysis
+- us-analysis
+tags:
+- trade-war
+- trump-administration
+- us-china-relations
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-27
+author: Lei
+speaker: LT
+draft: true
+file_name: us_economic_data_trump_china_policy_sept_26.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ### 财经头条：美国经济动态
 
 今天分享的财经头条有两个方面的最新信息。

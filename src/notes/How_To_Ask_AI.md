@@ -1,21 +1,27 @@
 ---
-author: Lei
-channel: null
+title: 深度研究之前，如何向AI提一个准确的问题？ - 专业报告
+summary: null
+area: null
+category: null
+project: []
+tags:
+- prompt
+- 研究方法
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-07'
+author: Lei
+speaker: Max (全麦AI搜索)
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=zx1T6TLDZ5I
-speaker: Max (全麦AI搜索)
-summary: null
-tags:
-- 视频文稿
-- Prompt
-- 研究方法
-title: 深度研究之前，如何向AI提一个准确的问题？ - 专业报告
 ---
-
 ## 引言：为何常规提问效果不佳？
 
 大家好，这里是全麦AI搜索，我是Max。本期我们来探讨一个话题：我们如何向AI提出一个更好的研究问题？

@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-10-05'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DagRnh1uYuc
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - causal-inference
-  - correlation-vs-causation
-  - sewall-wright
-  - data-science
-  - statistical-thinking
 title: 因果百年战争：从高尔顿之迷到“赖特之钥”，看穿数据表象下的真因
 summary: 本集深入探讨相关性与因果关系的百年之争。从高尔顿发现“回归均值”到皮尔逊禁止讨论因果，再到赖特提出“路径分析”，揭示了人类如何逐步理解并量化因果效应，并提供了识别数据背后真正原因的思维工具。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- causal-inference
+- correlation-vs-causation
+- data-science
+- sewall-wright
+- statistical-thinking
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-05'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=DagRnh1uYuc
 status: evergreen
 ---
 ### 引言：相关不等于因果的百年谜题

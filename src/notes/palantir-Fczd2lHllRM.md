@@ -1,26 +1,33 @@
 ---
-author: Amit Kukreja
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Fczd2lHllRM
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - palantir
-  - jerome-powell
-  - china-trade-tensions
-  - market-recap
-  - ai-investment
 title: Palantir评级上调、鲍威尔看涨及中美贸易紧张局势：市场一日回顾
 summary: 本期回顾Palantir评级上调、鲍威尔对经济和降息的看涨言论、中美稀土贸易紧张局势及其市场影响，以及银行财报和数据中心机遇。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- china-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-investment
+- amit-kukreja
+- china-trade-tensions
+- jerome-powell
+- market-recap
+people: []
+companies_orgs:
+- palantir
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Fczd2lHllRM
 status: evergreen
 ---
 ### 每日回顾概览

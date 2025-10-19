@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=49upl_ZlLcw
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - federal-judiciary
-  - sentencing-law
-  - pet-rights
-  - estate-planning
-  - family-law
 title: 联邦法官量刑争议与宠物法律地位：从财产到家庭成员
 summary: 本文探讨了马里兰州联邦法官黛博拉·博尔曼对刺杀最高法院大法官未遂案的量刑引发的争议，以及美国法律体系中宠物地位的演变，从财产到在离婚和信托中被视为家庭成员，同时呼吁立法改革以更好地保护宠物权益。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- estate-planning
+- family-law
+- federal-judiciary
+- pet-rights
+- sentencing-law
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=49upl_ZlLcw
 status: evergreen
 ---
 ### 刺杀未遂案量刑引发的争议

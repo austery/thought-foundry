@@ -1,26 +1,32 @@
 ---
-author: 硅谷101
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7fvQr224cGY
-speaker: 硅谷101
-tags:
-  - t-literature-note
-  - '101'
-  - ai-bubble
-  - circular-financing
-  - silicon-valley
-  - openai
-  - gpu-market
 title: 硅谷万亿AI资本闭环：杠杆、泡沫与市场情绪解析
 summary: OpenAI万亿算力采购引出“信任循环”与“AI泡沫”担忧。本文解析甲骨文、英伟达、AMD与OpenAI资本闭环，探讨杠杆效应及AI热潮持续性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- '101'
+- ai-bubble
+- circular-financing
+- gpu-market
+- silicon-valley
+people: []
+companies_orgs:
+- openai
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: 硅谷101
+speaker: 硅谷101
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7fvQr224cGY
 status: evergreen
 ---
 ### OpenAI万亿算力采购与Sam Altman的“新融资机制”

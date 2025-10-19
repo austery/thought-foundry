@@ -1,25 +1,29 @@
 ---
-author: 莊也雜談
-date: '2025-10-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=HysVFoJ2A0A
-speaker: 莊也雜談
-tags:
-  - t-literature-note
-  - canada-post
-  - labor-strike
-  - government-reform
-  - public-service
-  - financial-crisis
 title: 加拿大郵政危機：罷工、改革與百年國企的未來
 summary: 加拿大郵政因工會罷工陷入危機，揭示了其百年經營模式的困境。面對巨額虧損，政府推動改革，旨在減員增效，卻引發工會強烈反對。本文深度剖析罷工背後的勞資矛盾與社會影響，探討加拿大郵政的未來走向。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- canada-post
+- financial-crisis
+- government-reform
+- labor-strike
+- public-service
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-12'
+author: 莊也雜談
+speaker: 莊也雜談
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=HysVFoJ2A0A
 status: evergreen
 ---
 ### 加拿大郵政罷工的始末與社會衝擊

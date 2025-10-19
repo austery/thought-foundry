@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=8Ro4an-ndGA
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - anthropic
-  - claude
-  - ai-privacy
-  - data-training
-  - user-rights
 title: Anthropic推翻Claude用户隐私政策：数据训练与用户信任的博弈
 summary: Anthropic公司彻底反转Claude用户隐私承诺，将用户数据用于模型训练，并延长数据保留期至五年。此举引发用户强烈不满，凸显AI行业用户隐私困境，并引发对大厂数据透明度与监管的讨论。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-privacy
+- data-training
+- user-rights
+people: []
+companies_orgs:
+- anthropic
+products_models:
+- claude
+media_books: []
+date: '2025-08-31'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=8Ro4an-ndGA
 status: evergreen
 ---
 ### Claude用户隐私政策的重大反转

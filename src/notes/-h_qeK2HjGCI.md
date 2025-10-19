@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=h_qeK2HjGCI
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - media-industry
-  - streaming-platforms
-  - mobile-gaming
-  - public-broadcasting
-  - content-creation
 title: 彭博科技特辑：媒体、娱乐与直播行业的未来洞察
 summary: 本期彭博科技特辑深入探讨了媒体和娱乐行业的当前挑战与未来机遇，包括吉米·坎摩尔的争议事件、美国国家公共广播电台的资金困境、奈飞的游戏战略、Twitch的直播社区模式，以及移动游戏公司Scopely和知名主播Pokimane的商业洞察。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- content-creation
+- media-industry
+- mobile-gaming
+- public-broadcasting
+- streaming-platforms
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=h_qeK2HjGCI
 status: evergreen
 ---
 ### 彭博科技特辑：荧幕时间大会现场报道

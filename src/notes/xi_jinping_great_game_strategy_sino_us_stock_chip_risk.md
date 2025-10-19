@@ -1,28 +1,36 @@
 ---
-author: Lei
-date: 2025-09-25
-guest:
-layout: post.njk
-source: http://www.youtube.com/watch?v=9thFLZi-8yg
-speaker: LT視界
-tags:
-  - t-literature-note
-  - sino-us-strategy
-  - chip-supply-chain
-  - geopolitics
-  - china-stock-market
 title: 習近平的「大棋」戰略：華爾街日報深度解析中美博弈、股市與全球芯片供應鏈的系統性風險
 summary: 本期分析美國強勁宏觀數據對降息預期的影響；川普的裁員與和談策略；以及華爾街日報對習近平「拖延式」大棋戰略的深度解讀。
-insight:
-file_name: xi_jinping_great_game_strategy_sino_us_stock_chip_risk.md
-draft: true
-series:
-category:
-area:
+area: market-analysis
+category: geopolitics
 project:
+- ai-impact-analysis
+- china-analysis
+- geopolitics-watch
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- china-stock-market
+- chip-supply-chain
+- geopolitics
+- sino-us-strategy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-25
+author: Lei
+speaker: LT視界
+draft: true
+file_name: xi_jinping_great_game_strategy_sino_us_stock_chip_risk.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: http://www.youtube.com/watch?v=9thFLZi-8yg
 status: evergreen
 ---
-
 # 華爾街日報深度解析中美博弈、股市與全球芯片供應鏈的系統性風險
 
 ## 美國宏觀數據強勁，削弱美聯儲降息預期

@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ajU6EXTCZwA
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - peter-thiel
-  - gawker-media
-  - silicon-valley
-  - media-power
-  - privacy-rights
 title: 硅谷之王的十年复仇暗战：一篇八卦如何引爆百亿博弈
 summary: 本文深入探讨了彼得·蒂尔与Gawker媒体长达十年的复仇之战。从一篇八卦报道引发的个人羞辱，到蒂尔将其升华为一场捍卫创新与个人自由的文化战争，揭示了两位看似对立却本质相似的精英，在隐私与透明度哲学冲突下，如何利用秘密、耐心与法律，展开一场不对称的权力博弈。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- gawker-media
+- media-power
+- peter-thiel
+- privacy-rights
+- silicon-valley
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-10'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ajU6EXTCZwA
 status: evergreen
 ---
 ### 引言：一场由八卦引发的百亿复仇

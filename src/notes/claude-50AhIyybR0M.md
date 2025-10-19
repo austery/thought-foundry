@@ -1,26 +1,30 @@
 ---
-author: Anthropic
-date: '2025-07-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=50AhIyybR0M
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - artificial-intelligence
-  - financial-services
-  - large-language-models
-  - enterprise-solutions
-  - digital-transformation
 title: Claude 赋能金融服务：革新分析、驱动增长与应对挑战
 summary: Anthropic推出金融服务版Claude，通过统一智能层革新金融分析，提升效率，加速创新，助力机构应对市场挑战并实现价值增长。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- artificial-intelligence
+- digital-transformation
+- enterprise-solutions
+- financial-services
+- large-language-models
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-31'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=50AhIyybR0M
 status: evergreen
 ---
 ### 欢迎致辞：Claude 驱动金融未来

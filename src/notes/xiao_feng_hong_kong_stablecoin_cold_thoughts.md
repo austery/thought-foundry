@@ -1,26 +1,32 @@
 ---
-author: Lei
-date: 2025-08-01
-guest: 肖风
-layout: post.njk
-channel: null
-source: null
-speaker: 泓君, 刘峰, 肖风
-tags:
-- 视频文稿
-- 香港稳定币
-- 数字资产监管
-- RWA
-- 区块链
 title: 对话肖风：香港稳定币热潮下的冷思考与中国数字资产的未来路径
 summary: HashKey Group 董事长肖风博士深入剖析香港稳定币监管的谨慎态度，强调应回归区块链作为新型记账方式和金融基础设施的底层逻辑。他预测中国可能从稳定币开始，逐步接纳
   RWA 和更广泛的数字资产，并讨论了其中的机遇与挑战。
-insight: null
-file_name: xiao_feng_hong_kong_stablecoin_cold_thoughts.md
+area: null
+category: null
+project: []
+tags:
+- rwa
+- 区块链
+- 数字资产监管
+- 视频文稿
+- 香港稳定币
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-01
+author: Lei
+speaker: 泓君, 刘峰, 肖风
+channel: null
 draft: true
+file_name: xiao_feng_hong_kong_stablecoin_cold_thoughts.md
+guest: 肖风
+insight: null
+layout: post.njk
 series: null
+source: null
 ---
-
 ## 开场与介绍
 
 **泓君**: 欢迎收听硅谷101，这是一集硅谷101与 Web3 101 的串台节目。之前我们的节目聊过很多美元稳定币，就有很多听众给我们留言说能不能聊一下香港稳定币。这次我们的节目就请到了业界的大佬，HashKey Group 的董事长兼 CEO、万向区块链董事长肖风博士。Hello 肖博士，你好。

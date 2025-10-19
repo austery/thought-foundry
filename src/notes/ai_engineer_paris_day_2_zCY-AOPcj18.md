@@ -1,26 +1,31 @@
 ---
-author: Lei
-date: 2025-09-25
-guest: Yann Lechelle, Emil Eifrem, Tushar Jain, Martin Woodward, Andreas Blattmann, Aporna DENEKARAN, Laurent, Steve Morren, Tuana Çelik, Paige Bailey, Neil ZEGHDOUD
-layout: post.njk
-source: https://www.youtube.com/watch?v=zCY-AOPcj18
-speaker: Ralph J. ABRY
+title: AI工程师巴黎峰会：第二天重点回顾
+summary: AI工程师巴黎峰会第二天的主题演讲摘要，内容涵盖从AI基础设施和实时语音AI的演进，到提示学习、构建NotebookLM开源替代方案等前沿技术，以及大语言模型突破性的注意力机制。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
 tags:
-- t-literature-note
+- agentic-systems
 - ai-engineering
 - ai-infrastructure
 - large-language-models
 - voice-ai
-- agentic-systems
-title: AI工程师巴黎峰会：第二天重点回顾
-summary: AI工程师巴黎峰会第二天的主题演讲摘要，内容涵盖从AI基础设施和实时语音AI的演进，到提示学习、构建NotebookLM开源替代方案等前沿技术，以及大语言模型突破性的注意力机制。
-insight:
-file_name: ai_engineer_paris_day_2_zCY-AOPcj18.md
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-25
+author: Lei
+speaker: Ralph J. ABRY
 draft: true
-series:
-category:
-area:
-project:
+file_name: ai_engineer_paris_day_2_zCY-AOPcj18.md
+guest: Yann Lechelle, Emil Eifrem, Tushar Jain, Martin Woodward, Andreas Blattmann,
+  Aporna DENEKARAN, Laurent, Steve Morren, Tuana Çelik, Paige Bailey, Neil ZEGHDOUD
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=zCY-AOPcj18
 status: evergreen
 ---
 ### 开场致辞

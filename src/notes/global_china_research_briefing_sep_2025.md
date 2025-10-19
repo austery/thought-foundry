@@ -1,28 +1,32 @@
 ---
-author: Lei
-date: 2025-09-07
-guest: 
-layout: post.njk
-source: 
-speaker: 评论员
+title: 全球中国研究简报：中美峰会、军力评估、养老金危机与去美元化
+summary: 本简报汇总并深度解读全球智库与媒体关于中国的四篇核心文章，内容涵盖布鲁金斯学会对中美峰会的战略建议、CSIS对中国军力的量化评估、金融时报对中国养老金危机的分析，以及日经新闻对中国推动去美元化努力的探讨。
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- us-analysis
 tags:
-  - t-literature-note
-  - china-analysis
-  - us-china-relations
-  - pla-military
-  - china-economy
-title: "全球中国研究简报：中美峰会、军力评估、养老金危机与去美元化"
-summary: "本简报汇总并深度解读全球智库与媒体关于中国的四篇核心文章，内容涵盖布鲁金斯学会对中美峰会的战略建议、CSIS对中国军力的量化评估、金融时报对中国养老金危机的分析，以及日经新闻对中国推动去美元化努力的探讨。"
-insight: 
-file_name: global_china_research_briefing_sep_2025.md
+- china-analysis
+- china-economy
+- pla-military
+- us-china-relations
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-07
+author: Lei
+speaker: 评论员
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: global_china_research_briefing_sep_2025.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 全球中国研究简报是一个汇总全球智库如哈德逊研究中心、CSIS等以及国际媒体如纽约时报、政客新闻网等，针对中国的深度分析和报道，还为您搜集分析中国问题的相关内容。关注全球顶尖思考者对中国问题的关切和分析，在信息爆炸时代，帮您选择内容，进行深度解读，为希望成为中国问题专家的思考者提供最好的信息。欢迎订阅频道或分享给你的朋友们。
 
 以下是精选的全世界对中国的分析。

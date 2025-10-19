@@ -1,26 +1,32 @@
 ---
-author: 课代表立正
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=hU1hr7KCyqk
-speaker: 课代表立正
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - ai
-  - growth-marketing
-  - product-strategy
-  - startup
 title: AI时代下流量增长的终结：品味驱动的创业新范式
 summary: 本文探讨在AI时代，流量驱动增长模式的失效，并提出以“品味”为核心的品味驱动模式。文章分析了AI工具如何赋能品味驱动，以及创业者如何构建其产品和市场策略，尤其强调了内容教育和用户认知的关键作用。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ''
+- ai
+- growth-marketing
+- product-strategy
+- startup
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 课代表立正
+speaker: 课代表立正
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=hU1hr7KCyqk
 status: evergreen
 ---
 ### 创业初期的挑战与初心

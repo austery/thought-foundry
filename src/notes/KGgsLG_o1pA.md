@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-06-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=KGgsLG_o1pA
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - interest-rate-outlook
-  - investment-strategy
-  - economic-analysis
-  - semiconductor-stocks
 title: 美股市场展望：降息预期、指数新高与投资策略深度解析
 summary: 本期节目深入分析美股市场走势，探讨降息预期对市场的影响，回顾经济数据，并解析特朗普对美联储的言论。同时，针对指数高位，提供个股投资策略与风险控制建议。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- economic-analysis
+- interest-rate-outlook
+- investment-strategy
+- semiconductor-stocks
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-06-30'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=KGgsLG_o1pA
 status: evergreen
 ---
 ### 市场回顾与板块表现

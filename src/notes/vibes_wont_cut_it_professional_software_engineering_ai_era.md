@@ -1,25 +1,33 @@
 ---
-author: Lei
-date: 2025-08-17
-guest: 
-layout: post.njk
-channel: 
-source: 
-speaker: Chris Kelly
+title: 光凭感觉写代码是行不通的 — Augment Code 的 Chris Kelly
+summary: Augment Code的Chris Kelly探讨了为何尽管人工智能（AI）在编码领域大肆宣传，但专业的软件工程原则依然至关重要。他认为，AI生成代码的能力无法取代工程师在复杂生产系统中所需的决策、维护和深入理解。真正的软件工程是关于安全地变更软件，而这需要比AI模式匹配更深刻的洞察力。他还为工程师提供了如何有效利用AI、准备代码库以及提升代码审查等关键技能的实用建议。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
 tags:
-  - 视频文稿
-  - AI Coding
-  - Software Engineering
-  - Production Systems
-  - Code Review
-title: "光凭感觉写代码是行不通的 — Augment Code 的 Chris Kelly"
-summary: "Augment Code的Chris Kelly探讨了为何尽管人工智能（AI）在编码领域大肆宣传，但专业的软件工程原则依然至关重要。他认为，AI生成代码的能力无法取代工程师在复杂生产系统中所需的决策、维护和深入理解。真正的软件工程是关于安全地变更软件，而这需要比AI模式匹配更深刻的洞察力。他还为工程师提供了如何有效利用AI、准备代码库以及提升代码审查等关键技能的实用建议。"
-insight: 
-file_name: vibes_wont_cut_it_professional_software_engineering_ai_era.md
+- ai-coding
+- code-review
+- production-systems
+- software-engineering
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-17
+author: Lei
+speaker: Chris Kelly
+channel: null
 draft: true
-series: 
+file_name: vibes_wont_cut_it_professional_software_engineering_ai_era.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 ---
-
 Thanks for coming, by the way, and for sticking around for a little while.
 
 顺便说一句，感谢大家的到来，也感谢你们能留下来听一会儿。

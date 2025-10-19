@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2022-06-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1a92IBrcgjI
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - investment-strategy
-  - personal-finance
-  - bear-market-learning
-  - long-term-investing
-  - economic-outlook
 title: 2022年投资心路：构建与生活方式匹配的长期投资系统
 summary: 作者回顾2022上半年投资，分享对美联储加息、通胀与经济衰退的看法。强调个人投资者应构建与生活方式匹配的长期投资系统，而非短期对冲或预测市场。倡导在熊市中学习，摒弃消费主义，追求低成本幸福。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- bear-market-learning
+- economic-outlook
+- investment-strategy
+- long-term-investing
+- personal-finance
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-06-04'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=1a92IBrcgjI
 status: evergreen
 ---
 ### 2022年投资心路与非正式分享

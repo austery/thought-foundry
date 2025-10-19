@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2023-08-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=P200W3bWCns
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - opportunity-cost
-  - financial-freedom
-  - investment-strategy
-  - behavioral-economics
-  - personal-finance
 title: 财富自由之路上的五大机会成本难题与应对策略
 summary: 本文深入探讨了财富自由道路上常见的五大机会成本难题，包括对互斥性、边际效应递减、消费者与投资者视角差异、框架效应以及不确定性选择的误解，并提供了提升认知、明确基准线的实用建议。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- behavioral-economics
+- financial-freedom
+- investment-strategy
+- opportunity-cost
+- personal-finance
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2023-08-30'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=P200W3bWCns
 status: evergreen
 ---
 ### 重新审视机会成本：从Model 3换车引发的思考

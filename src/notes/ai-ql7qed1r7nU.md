@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-24'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ql7qed1r7nU
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - andrew-ng
-  - google-brain
-  - artificial-intelligence
-  - machine-learning
-  - ai-education
 title: 吴恩达：从质疑到突破——谷歌大脑的开创性旅程与AI的未来展望
 summary: 回顾吴恩达在谷歌大脑的开创性工作，探讨“规模决定性能”和“单一学习算法”两大基石，以及他对AI未来、教育和工作模式的深刻洞察。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-education
+- andrew-ng
+- artificial-intelligence
+- google-brain
+- machine-learning
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-24'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ql7qed1r7nU
 status: evergreen
 ---
 ### 吴恩达访谈回顾：谷歌大脑的诞生与AI的未来

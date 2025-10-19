@@ -1,26 +1,32 @@
 ---
-author: 课代表立正
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=YFYKMbYpcvI
-speaker: 课代表立正
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - startup
-  - ai
-  - career-path
-  - entrepreneurship
 title: 从大厂到创业：千万股权激励，他为何选择冒险？
 summary: 一位曾在大厂打拼、手握千万股权的科技精英，为何选择在这个AI技术爆发的时代，投身一场充满不确定性的创业征程？
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+- personal-growth-lab
+tags:
+- ''
+- ai
+- career-path
+- entrepreneurship
+- startup
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 课代表立正
+speaker: 课代表立正
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=YFYKMbYpcvI
 status: evergreen
 ---
 ### 创业的基因与大厂的“稳健”选择

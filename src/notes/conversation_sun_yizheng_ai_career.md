@@ -1,25 +1,33 @@
 ---
-author: Lei
-date: 2025-10-09
-guest: 孙益正
-layout: post.njk
-source: 
-speaker: 佐治亚小帅
+title: A Conversation with Sun Yizheng on AI, Career Paths, and Content Creation
+summary: A deep dive with Sun Yizheng (课代表立正) into his journey after Statsig's acquisition,
+  the nuances of his AI course, the controversial "Data Evangelist" role, and his
+  perspective on the future of AI in programming and career development.
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+- personal-growth-lab
 tags:
-- t-literature-note
 - ai
 - career-development
 - content-creation
 - entrepreneurship
-title: A Conversation with Sun Yizheng on AI, Career Paths, and Content Creation
-summary: A deep dive with Sun Yizheng (课代表立正) into his journey after Statsig's acquisition, the nuances of his AI course, the controversial "Data Evangelist" role, and his perspective on the future of AI in programming and career development.
-insight:
-file_name: conversation_sun_yizheng_ai_career.md
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-09
+author: Lei
+speaker: 佐治亚小帅
 draft: true
-series:
-category:
-area:
-project:
+file_name: conversation_sun_yizheng_ai_career.md
+guest: 孙益正
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
 ## 开场与嘉宾介绍

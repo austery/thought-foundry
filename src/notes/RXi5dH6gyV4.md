@@ -1,26 +1,34 @@
 ---
-author: Amit Kukreja
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=RXi5dH6gyV4
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - market-volatility
-  - regional-banks
-  - china-us-trade
-  - cryptocurrency
-  - stock-market-analysis
 title: 区域银行、对华关税与市场波动：早盘分析
-summary: 本期节目深入分析了早盘市场的剧烈波动，特朗普对华关税立场的转变如何提振市场，区域银行面临的信贷挑战及其影响，以及中美贸易对话的最新进展。同时探讨了比特币的停滞、OpenAI Sora引发的争议、PayPal稳定币的巨额错误，并提供了投资策略建议。
-insight: ''
+summary: 本期节目深入分析了早盘市场的剧烈波动，特朗普对华关税立场的转变如何提振市场，区域银行面临的信贷挑战及其影响，以及中美贸易对话的最新进展。同时探讨了比特币的停滞、OpenAI
+  Sora引发的争议、PayPal稳定币的巨额错误，并提供了投资策略建议。
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- amit-kukreja
+- china-us-trade
+- cryptocurrency
+- market-volatility
+- regional-banks
+- stock-market-analysis
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=RXi5dH6gyV4
 status: evergreen
 ---
 ### 早盘市场剧烈波动

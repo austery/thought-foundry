@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=a_66PTU1Ask
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - amd
-  - dell
-  - fair isaac
-  - equifax
 title: AMD 领涨，戴尔受益 AI 浪潮，Fair Isaac 受竞争对手冲击
 summary: AMD 股价飙升，戴尔因 AI 需求增长而上涨。Fair Isaac 则因竞争对手 Equifax 推出低价服务而股价下跌。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- bloomberg-podcasts
+- fair-isaac
+- t-literature-note
+people: []
+companies_orgs:
+- amd
+- dell
+- equifax
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=a_66PTU1Ask
 status: evergreen
 ---
 ### AMD 股价飙升，受益于 OpenAI 合作消息

@@ -1,27 +1,33 @@
 ---
-author: LT視界
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vBqT9a2IZtg
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - t-literature-note
-  - gold-price
-  - bitcoin
-  - artificial-intelligence
-  - geopolitics
-  - china-surveillance
 title: 金价飙升，比特币创新高，AI选股成新趋势，中俄朝关系微妙，中国数字监控引担忧
 summary: 本文梳理了近期重要财经及国际新闻，包括金价突破4000美元、比特币创新高、AI辅助选股的兴起、中韩朝关系的新动向，以及中国基层数字监控体系的深入报道。同时，也探讨了美国政府关门对经济数据发布的影响，并分析了台湾总统的涉美言论。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- geopolitics-watch
+tags:
+- artificial-intelligence
+- china-surveillance
+- geopolitics
+- gold-price
+- t-literature-note
+people:
+- lt
+companies_orgs: []
+products_models:
+- bitcoin
+media_books: []
+date: '2025-10-08'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vBqT9a2IZtg
 status: evergreen
 ---
 ### 财经头条：黄金、比特币价格创新高，AI选股成焦点

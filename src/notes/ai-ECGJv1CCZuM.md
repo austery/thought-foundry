@@ -1,26 +1,34 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ECGJv1CCZuM
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - us-china-trade
-  - ai-bubble
-  - market-analysis
-  - rare-earths
-  - investment-themes
 title: 美中贸易摩擦再起，AI泡沫与市场动向：资深编辑深度解读
 summary: 本期节目深入探讨了美中贸易紧张局势、市场对AI股票的狂热追捧及其潜在泡沫、以及黄金、美元和替代投资的最新动态。专家分析了当前市场面临的宏观经济挑战和投资机遇。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- ai-bubble
+- bloomberg-podcasts
+- investment-themes
+- market-analysis
+- rare-earths
+- us-china-trade
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ECGJv1CCZuM
 status: evergreen
 ---
 ### 美中贸易紧张与稀土争端升级

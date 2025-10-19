@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-08-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Ahua8_UB9ic
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - federal-reserve
-  - jackson-hole-symposium
-  - walmart-earnings
-  - consumer-health
 title: 全球央行年会前瞻与沃尔玛财报解读：市场、美联储及消费者健康状况分析
 summary: 本期内容深入分析了近期市场走势、美联储Jackson Hole会议前瞻及鲍威尔讲话预期，并结合沃尔玛财报探讨了当前消费者的健康状况，特别是不同收入群体的消费行为。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- consumer-health
+- federal-reserve
+- jackson-hole-symposium
+- market-analysis
+- walmart-earnings
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-22'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Ahua8_UB9ic
 status: evergreen
 ---
 ### 市场回顾与Jackson Hole会议前瞻

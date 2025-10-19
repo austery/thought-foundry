@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Q0vP9S-VAPg
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - demis-hassabis
-  - deepmind
-  - artificial-general-intelligence
-  - ai-creativity
-  - robotics
 title: 德米斯·哈萨比斯：AI需真创造力，AGI五年内可期
 summary: DeepMind CEO德米斯·哈萨比斯最新专访揭示：AGI五年内有望实现，需1-2个根本性突破；打造“机器人安卓”平台；强调AI需真正创造力，而非仅是技术堆叠。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-creativity
+- artificial-general-intelligence
+- demis-hassabis
+- robotics
+people: []
+companies_orgs:
+- deepmind
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Q0vP9S-VAPg
 status: evergreen
 ---
 ### DeepMind CEO专访：AGI前景与机器人新格局

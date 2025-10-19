@@ -1,26 +1,31 @@
 ---
-author: INDIGO 数字镜像
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uRPqTkmIeAY
-speaker: INDIGO 数字镜像
-tags:
-  - t-literature-note
-  - indigo
-  - ai-revolution
-  - accelerated-computing
-  - future-of-work
-  - societal-impact
-  - technology-trends
 title: 加速计算时代：INDIGO 2025年10月直播回顾与未来洞察
-summary: 本直播回顾2025年10月INDIGO的线上分享，探讨AI基建、大模型演进、物理世界进展及AI对经济社会的影响。内容涵盖诺贝尔奖、Google在AI领域的突破、亚洲AI见闻、Nvidia的产业布局、AI Agent经济、劳动力市场重塑，并推荐阅读，展望未来社群发展。
-insight: ''
+summary: 本直播回顾2025年10月INDIGO的线上分享，探讨AI基建、大模型演进、物理世界进展及AI对经济社会的影响。内容涵盖诺贝尔奖、Google在AI领域的突破、亚洲AI见闻、Nvidia的产业布局、AI
+  Agent经济、劳动力市场重塑，并推荐阅读，展望未来社群发展。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- accelerated-computing
+- ai-revolution
+- future-of-work
+- societal-impact
+- technology-trends
+people: []
+companies_orgs:
+- indigo
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: INDIGO 数字镜像
+speaker: INDIGO 数字镜像
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uRPqTkmIeAY
 status: evergreen
 ---
 ### 开场致辞与诺贝尔奖插播

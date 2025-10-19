@@ -1,24 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 「欧洲|亚洲场」2024年12月读书会「Deep Work」直播分享
+summary: 这是根据Deep Work的读书会分享纪要。
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 专注力
+- 个人成长
+- 时间管理
+- 深度工作
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- 读书会
 date: '2024-12-28'
+author: Lei
+speaker: Vivi
+channel: null
 guest: Lillian
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Vivi
-summary: 这是根据Deep Work的读书会分享纪要。
-tags:
-- 视频文稿
-- 深度工作
-- 专注力
-- 时间管理
-- 读书会
-- 个人成长
-title: 「欧洲|亚洲场」2024年12月读书会「Deep Work」直播分享
 ---
-
 ## 开场与主持人分享
 
 ### Vivi (主持人)

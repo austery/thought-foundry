@@ -1,26 +1,30 @@
 ---
-author: Big Think
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vSxomJb2KGE
-speaker: Big Think
-tags:
-  - t-literature-note
-  - big-think
-  - habits
-  - addiction
-  - neuroscience
-  - behavioral-psychology
-  - habit-change
 title: 习惯与成瘾：神经科学、心理学与行为改变的视角
 summary: 本文汇集神经科学家、心理学家和记者的观点，深入探讨习惯的形成机制、成瘾的本质（包括物质和行为成瘾），并提供了基于神经科学原理的有效习惯改变策略。
-insight: ''
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- addiction
+- behavioral-psychology
+- big-think
+- habit-change
+- habits
+- neuroscience
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Big Think
+speaker: Big Think
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vSxomJb2KGE
 status: evergreen
 ---
 ### 习惯的神经学基础

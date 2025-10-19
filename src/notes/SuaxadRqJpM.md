@@ -1,26 +1,28 @@
 ---
-author: TED
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=SuaxadRqJpM
-speaker: TED
-tags:
-  - t-literature-note
-  - ted
-  - communication-skills
-  - active-listening
-  - public-speaking
-  - julian-treasure
-  - self-improvement
 title: TED专家朱利安·特雷泽：提升沟通力的秘诀——学会倾听与真诚表达
 summary: TED演讲者朱利安·特雷泽分享了有效沟通的秘诀，强调了声音的力量、真诚表达的重要性，以及如何通过积极倾听来建立连接，从而成为更好的沟通者。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- active-listening
+- communication-skills
+- julian-treasure
+- public-speaking
+- self-improvement
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: TED
+speaker: TED
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=SuaxadRqJpM
 status: evergreen
 ---
 ### 声音的力量与倾听的挑战

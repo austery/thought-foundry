@@ -1,21 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 吴翼：AI的目标困境与价值对齐
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 视频文稿
+people: []
+companies_orgs:
+- 一席
+products_models: []
+media_books:
+- 一席
 date: '2025-06-08'
+author: Lei
+speaker: 吴翼
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=C-UBrnSjdLg&t
-speaker: 吴翼
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 一席
-title: 吴翼：AI的目标困境与价值对齐
 ---
-
 # 我们在训练AI的时候，目标都是简单的、明确的，但是人类的真实目标总是含糊的，不确定的
 
 **吴翼**  

@@ -1,26 +1,31 @@
 ---
-author: 硅谷101
-date: '2025-09-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9RMvKWHgyF8
-speaker: 硅谷101
-tags:
-  - t-literature-note
-  - '101'
-  - robotics
-  - dexterous-hand
-  - ai-robotics
-  - engineering-challenges
-  - open-source-hardware
 title: 机器人灵巧手：从“不可能三角”到六大技术门派的突破之路
 summary: 本文探讨机器人灵巧手在性能、成本、可靠性间的“不可能三角”挑战，并详细介绍直驱、绳驱、液压等六大技术门派的特点与发展，展望其未来普及前景。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- '101'
+- ai-robotics
+- dexterous-hand
+- engineering-challenges
+- open-source-hardware
+- robotics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-26'
+author: 硅谷101
+speaker: 硅谷101
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9RMvKWHgyF8
 status: evergreen
 ---
 ### 机器人灵巧手：比走路更难的终极挑战

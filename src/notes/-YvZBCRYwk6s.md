@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=YvZBCRYwk6s
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - china-clean-tech
-  - us-fossil-fuels
-  - energy-exports
-  - renewable-energy
-  - electrostate
 title: 中美能源出口竞争：清洁技术与化石燃料的较量
 summary: 本期节目探讨了中美两国在能源出口领域的竞争格局，对比了中国清洁技术出口与美国化石燃料出口的数据，并解释了“产油国”和“电能国”的概念，揭示了全球能源转型的新趋势。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- us-analysis
+tags:
+- bloomberg-podcasts
+- china-clean-tech
+- electrostate
+- energy-exports
+- renewable-energy
+- us-fossil-fuels
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=YvZBCRYwk6s
 status: evergreen
 ---
 ### 能源出口的里程碑

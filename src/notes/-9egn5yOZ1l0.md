@@ -1,26 +1,30 @@
 ---
-author: 一席YiXi
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9egn5yOZ1l0
-speaker: 一席YiXi
-tags:
-  - t-literature-note
-  - yixi
-  - mental-health
-  - psychiatry
-  - caregiver-support
-  - recovery-model
-  - community-services
 title: 精神科医生姚灏：超越病症，构建以人为本的精神健康复元之路
 summary: 姚灏医生分享精神障碍者困境及传统医疗局限，倡导“以人为本的复元模式”，呼吁构建涵盖社区、学校、家庭的全方位精神健康支持网络。
-insight: ''
+area: personal-growth
+category: lifestyle
+project: []
+tags:
+- caregiver-support
+- community-services
+- mental-health
+- psychiatry
+- recovery-model
+people:
+- yixi
+companies_orgs: []
+products_models: []
+media_books:
+- yixi
+date: '2025-10-16'
+author: 一席YiXi
+speaker: 一席YiXi
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9egn5yOZ1l0
 status: evergreen
 ---
 ### 精神障碍者的困境：从阴森印象到真实距离

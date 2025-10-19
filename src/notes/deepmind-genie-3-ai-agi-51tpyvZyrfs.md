@@ -1,24 +1,28 @@
 ---
-author: 最佳拍档
-date: '2025-08-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=51tpyvZyrfs
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - deepmind-genie-3
-  - world-model
-  - agi
-  - ai-understanding
 title: DeepMind Genie 3与世界模型：AI理解世界是通往AGI的必经之路
 summary: 本文探讨DeepMind Genie 3与世界模型，对比其与大语言模型的异同，强调AI理解世界对实现通用人工智能（AGI）的关键作用，并展望全能模型的未来。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- agi
+- ai-understanding
+- deepmind-genie-3
+- world-model
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-16'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=51tpyvZyrfs
 status: evergreen
 ---
 ### 引言：Genie 3与世界模型的核心议题

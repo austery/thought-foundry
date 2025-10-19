@@ -1,26 +1,30 @@
 ---
-author: 硅谷101播客
-date: '2025-09-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=FjC9qGPC7MA
-speaker: 硅谷101播客
-tags:
-  - t-literature-note
-  - '101'
-  - embodied-ai
-  - robotics-models
-  - open-source-ai
-  - ai-generalization
-  - data-challenges
 title: 机器人GPT-3时刻：具身智能开源模型的加速与挑战
 summary: 本期节目邀请Physical Intelligence与自变量机器人嘉宾，探讨具身智能模型的最新进展，聚焦泛化能力、长程任务、数据挑战及开源生态，展望机器人迈向GPT-3时刻的路径。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- '101'
+- ai-generalization
+- data-challenges
+- embodied-ai
+- open-source-ai
+- robotics-models
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-09'
+author: 硅谷101播客
+speaker: 硅谷101播客
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=FjC9qGPC7MA
 status: evergreen
 ---
 ### 播客引言与活动预告

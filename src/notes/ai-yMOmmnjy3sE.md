@@ -1,26 +1,30 @@
 ---
-author: EO
-date: '2025-08-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yMOmmnjy3sE
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - artificial-intelligence
-  - productivity
-  - prompt-engineering
-  - ai-collaboration
-  - cognitive-bias
 title: 斯坦福实用指南：如何将你的AI生产力提升十倍 | 杰里米·厄特利
 summary: 斯坦福教授杰里米·厄特利分享了上下文工程、思维链推理等实用AI协作技巧，强调将AI视为“超级热情实习生”，通过指导它将生产力提升十倍。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- personal-growth-lab
+tags:
+- ai-collaboration
+- artificial-intelligence
+- cognitive-bias
+- productivity
+- prompt-engineering
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-27'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=yMOmmnjy3sE
 status: evergreen
 ---
 ### AI：一个热情的实习生

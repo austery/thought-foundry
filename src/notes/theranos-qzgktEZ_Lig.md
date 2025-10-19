@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qzgktEZ_Lig
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - elizabeth-holmes
-  - theranos-scandal
-  - startup-culture
-  - corporate-fraud
-  - bad-blood-book
 title: 《坏血》揭秘：伊丽莎白·霍尔姆斯与Theranos谎言帝国的崛起
 summary: 本文深入剖析伊丽莎白·霍尔姆斯如何利用其个人魅力与家族背景，通过系统性欺诈和偏执控制，将Theranos公司从一个90亿美元的独角兽推向惊天骗局的深渊，揭示了谎言如何战胜事实的硅谷故事。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- cultural-critique
+tags:
+- bad-blood-book
+- corporate-fraud
+- elizabeth-holmes
+- startup-culture
+- theranos-scandal
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-18'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=qzgktEZ_Lig
 status: evergreen
 ---
 ### 引言：硅谷神话的破灭

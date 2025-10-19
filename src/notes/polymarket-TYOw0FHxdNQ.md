@@ -1,26 +1,31 @@
 ---
-author: 硅谷101
-date: '2025-09-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=TYOw0FHxdNQ
-speaker: 硅谷101
-tags:
-  - t-literature-note
-  - '101'
-  - polymarket
-  - prediction-markets
-  - information-finance
-  - web3
-  - regulatory-challenges
 title: Polymarket：预测市场如何重塑信息金融与未来争议
 summary: 深入探讨Polymarket预测平台的崛起、运作机制及其对传统信息、金融和政治格局的颠覆与挑战，分析其核心价值、监管争议及潜在伦理困境。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- '101'
+- information-finance
+- polymarket
+- prediction-markets
+- regulatory-challenges
+- web3
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-12'
+author: 硅谷101
+speaker: 硅谷101
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=TYOw0FHxdNQ
 status: evergreen
 ---
 ### Polymarket的崛起：从“不可能”到数十亿的预测市场

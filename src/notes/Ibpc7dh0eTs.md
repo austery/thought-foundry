@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Ibpc7dh0eTs
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - tech-earnings
-  - fed-monetary-policy
-  - macroeconomic-data
-  - market-analysis
-  - artificial-intelligence
 title: 科技巨头财报炸裂，美联储会议解读与市场展望
 summary: 市场分析员肖涛深入解读Meta和微软的亮眼财报、美联储鲍威尔的最新讲话及宏观经济数据。他指出大科技股表现强势，市场关注点转向企业盈利，并强调失业率对美联储未来决策的重要性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- artificial-intelligence
+- fed-monetary-policy
+- macroeconomic-data
+- market-analysis
+- tech-earnings
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-31'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Ibpc7dh0eTs
 status: evergreen
 ---
 ### 市场概览与主持人寄语

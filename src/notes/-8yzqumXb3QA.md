@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2021-12-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=8yzqumXb3QA
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - financial-freedom
-  - personal-finance
-  - mindset
-  - lifestyle-design
-  - active-passive-income
 title: 追求财务自由五年：我所领悟的真谛
 summary: 一位内容创作者在追求财务自由五年后，分享了他对财务自由的深刻理解。他指出，财务自由并非终极目标，而是一种可持续、有适应性的生活方式，旨在帮助人们去做真正想做的事情，而非单纯追求数字或停止工作。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- active-passive-income
+- financial-freedom
+- lifestyle-design
+- mindset
+- personal-finance
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2021-12-10'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=8yzqumXb3QA
 status: evergreen
 ---
 ### 财务自由的误解与质疑

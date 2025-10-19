@@ -1,25 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-05-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=PjRIrC6WIyE
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - social-psychology
-  - group-dynamics
-  - conformity
-  - evil
 title: 群体如何助长个体作恶：从党卫军到网络暴民的心理机制
 summary: 探讨群体如何通过社会化、从众压力等机制扭曲个体认知，使普通人理直气壮地作恶，并指出结构性改革是杜绝恶行的关键。
-insight: ''
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- conformity
+- evil
+- group-dynamics
+- social-psychology
+- stella-an
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-31'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=PjRIrC6WIyE
 status: evergreen
 ---
 ### 为何有人能理直气壮地作恶？

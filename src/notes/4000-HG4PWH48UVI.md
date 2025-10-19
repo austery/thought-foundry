@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=HG4PWH48UVI
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - gold
-  - federal-reserve
-  - bank-of-japan
-  - artificial-intelligence
 title: 黄金飙升至4000美元，日本央行面临加息困境，人工智能重塑金融业
 summary: 本期节目探讨了黄金价格飙升至4000美元的原因，以及日本新任首相可能对日本央行货币政策带来的影响。同时，节目深入分析了人工智能在金融服务业的应用及其带来的变革。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- bank-of-japan
+- bloomberg-podcasts
+- federal-reserve
+- gold
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=HG4PWH48UVI
 status: evergreen
 ---
 ### 黄金价格飙升与投资者避险情绪

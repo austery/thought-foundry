@@ -1,26 +1,34 @@
 ---
-author: LT視界
-date: '2025-10-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ozS-kc1QbIQ
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - global-economy
-  - geopolitics
-  - us-china-relations
-  - market-trends
-  - china-society
 title: 全球经济与地缘政治：股市震荡、乌克兰僵局、中美贸易战缓和及中国社会热点透视
 summary: 本期节目深入剖析了全球财经、地缘政治及社会热点。内容涵盖华尔街股市波动预警、特朗普对乌克兰战争的立场、哈马斯对加沙控制的坚持、台湾国民党主席选举结果、中国消费降级现象的另类解读、诺贝尔奖与中国“洋奖”之争，以及中美贸易战的最新缓和态势。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- china-society
+- geopolitics
+- global-economy
+- market-trends
+- us-china-relations
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-18'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ozS-kc1QbIQ
 status: evergreen
 ---
 ### 财经头条：股市波动与风险预警

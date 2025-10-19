@@ -1,21 +1,27 @@
 ---
-author: Lei
-channel: 硅谷101
+title: '硅谷101 Weekly: 苹果AI策略、特斯拉Robotaxi与网红品牌20时代'
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 视频文稿
+people:
+- 硅谷101
+companies_orgs:
+- 特斯拉
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 陈茜, 刘一鸣, 鲁漪文
+channel: 硅谷101
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 陈茜, 刘一鸣, 鲁漪文
-summary: null
-tags:
-- 视频文稿
-- 特斯拉
-- 硅谷101
-title: '硅谷101 Weekly: 苹果AI策略、特斯拉Robotaxi与网红品牌20时代'
 ---
-
 **本期嘉宾：**
 
 - **万伟尔：**Aizip首席技术官

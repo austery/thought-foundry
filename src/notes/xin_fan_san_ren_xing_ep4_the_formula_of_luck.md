@@ -1,29 +1,32 @@
 ---
-author: Lei
-date: 2025-08-20
-guest: Tracy, 友荣
-layout: post.njk
-channel: ""
-source: ""
-speaker: 文森
-tags:
-  - t-literature-note
-  - 幸运
-  - 心态
-  - 机会
-  - 投资
-title: "新犯三人行：幸运是一种概率、心态还是科学？"
+title: 新犯三人行：幸运是一种概率、心态还是科学？
 summary: 本期节目邀请嘉宾Tracy和友荣，共同探讨幸运的本质。他们分享了各自最幸运的经历，并讨论了如何通过心态、行动和抓住机会来创造和维持幸运。
-insight: ""
-file_name: xin_fan_san_ren_xing_ep4_the_formula_of_luck.md
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 幸运
+- 心态
+- 投资
+- 机会
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-20
+author: Lei
+speaker: 文森
+channel: ''
 draft: true
-series: ""
-category: ""
-area: ""
-project: ""
+file_name: xin_fan_san_ren_xing_ep4_the_formula_of_luck.md
+guest: Tracy, 友荣
+insight: ''
+layout: post.njk
+series: ''
+source: ''
 status: evengreen
 ---
-
 ## 幸运是什么？概率、心态还是科学？
 
 文森: 哈啰大家好，欢迎收听新犯三人行。我们这一集要来讨论一下幸运这件事情。你觉得自己是幸运的人吗？你想创造幸运吗？这就是我们这一集会谈论的主题。想讨论这个主题的原因，是因为我最近正在看的这一本书叫做《幸运的配方》。我想了解幸运到底是一种概率、一种心理状态，甚至是一门科学。

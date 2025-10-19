@@ -1,27 +1,30 @@
 ---
-author: 莊也雜談
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=sHZ0DC1UvfM
-speaker: 莊也雜談
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - vancouver
-  - travelogue
-  - capilano-suspension-bridge
-  - shannon-falls
-  - spot-prawns
 title: 溫哥華之旅：吊橋驚魂、瀑布奇觀與烤蝦之夜
 summary: 記錄溫哥華之旅的驚險與美麗，從卡皮拉諾吊橋的濕滑步道，到香農瀑布的壯麗，再到朋友家品嚐新鮮斑點蝦的溫馨夜晚，旅程雖有波折，卻更添回味。
-insight: ''
+area: personal-growth
+category: lifestyle
+project: []
+tags:
+- ''
+- capilano-suspension-bridge
+- shannon-falls
+- spot-prawns
+- t-literature-note
+- travelogue
+- vancouver
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 莊也雜談
+speaker: 莊也雜談
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=sHZ0DC1UvfM
 status: evergreen
 ---
 ### 告別溫哥華島，重返大陸

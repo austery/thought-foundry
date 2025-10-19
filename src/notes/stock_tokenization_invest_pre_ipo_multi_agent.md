@@ -1,23 +1,31 @@
 ---
-author: Lei
-date: 2025-08-01
-guest: null
-layout: post.njk
-channel: null
-source: https://www.youtube.com/watch?v=TDCRkiwJU6M
-speaker: Google Gemini
-tags:
-- 美股代币化
-- Pre-IPO
-- 区块链
-- 稳定币
 title: 虚拟专家团队研讨会：Jarsy 美股代币化访谈分析分析“美股代币化”
 summary: null
-insight: 使用多专家系统对Hellen和秦汉的访谈的分析
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- us-analysis
+tags:
+- pre-ipo
+- 区块链
+- 稳定币
+- 美股代币化
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-01
+author: Lei
+speaker: Google Gemini
+channel: null
 draft: true
+guest: null
+insight: 使用多专家系统对Hellen和秦汉的访谈的分析
+layout: post.njk
 series: 美股代币化
+source: https://www.youtube.com/watch?v=TDCRkiwJU6M
 ---
-
 ### **虚拟专家团队研讨会：Jarsy 美股代币化访谈分析**
 
 **核心材料：** Jarsy CEO Jack Halfon 关于美股代币化的访谈。

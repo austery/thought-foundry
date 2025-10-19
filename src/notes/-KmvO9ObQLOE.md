@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2023-02-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=KmvO9ObQLOE
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - financial-markets
-  - federal-reserve
-  - investment-strategy
-  - data-analysis
-  - long-term-investing
 title: 投资迷思：'不要与美联储作对'？历史数据分析与长期投资策略
 summary: 本文通过对美联储百年数据进行可视化分析，探讨“不要与美联储作对”这一投资格言的适用性。研究发现该原则并非普遍真理，仅在特定历史时期显著。文章强调长期投资中公司收益的重要性，并提出个体投资者应避免杠杆，保持韧性，简化策略以应对市场复杂性。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- data-analysis
+- federal-reserve
+- financial-markets
+- investment-strategy
+- long-term-investing
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2023-02-17'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=KmvO9ObQLOE
 status: evergreen
 ---
 ### “不要与美联储作对”：一个投资迷思

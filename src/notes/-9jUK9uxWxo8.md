@@ -1,26 +1,31 @@
 ---
-author: 郭里有范
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9jUK9uxWxo8
-speaker: 郭里有范
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - tibet
-  - political-history
-  - anglo-russian-great-game
-  - dalai-lama
 title: 西藏为何未能独立？探析清末民初的政治博弈与大国角力
 summary: 深入剖析西藏自清朝至民国初期的政治地位演变，揭示其未能像外蒙古一样独立的原因，以及英俄“大博弈”时代下西藏的复杂处境。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- ai-impact-analysis
+- historical-insights
+tags:
+- ''
+- anglo-russian-great-game
+- dalai-lama
+- political-history
+- t-literature-note
+- tibet
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 郭里有范
+speaker: 郭里有范
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9jUK9uxWxo8
 status: evergreen
 ---
 ### 导论：西藏的政治地位之谜

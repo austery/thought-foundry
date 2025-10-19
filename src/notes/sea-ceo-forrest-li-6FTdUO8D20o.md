@@ -1,26 +1,32 @@
 ---
-author: Norges Bank Investment Management
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6FTdUO8D20o
-speaker: Norges Bank Investment Management
-tags:
-  - t-literature-note
-  - norges-bank-investment-management
-  - forrest-li
-  - sea-group
-  - e-commerce
-  - artificial-intelligence
-  - corporate-culture
 title: Sea集团CEO Forrest Li：从游戏到万亿市值的科技巨头之路
 summary: Sea集团CEO Forrest Li分享了公司在游戏、电商和金融科技领域的成长历程，强调了本地化解决方案、客户至上、AI应用以及谦逊的企业文化，并就领导力、人才培养及个人财富观提供了深刻见解。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- cultural-critique
+- investment-strategy
+tags:
+- artificial-intelligence
+- corporate-culture
+- e-commerce
+- forrest-li
+- norges-bank-investment-management
+- sea-group
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Norges Bank Investment Management
+speaker: Norges Bank Investment Management
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6FTdUO8D20o
 status: evergreen
 ---
 ### Sea集团简介与核心业务

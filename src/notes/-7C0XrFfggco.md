@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2023-05-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7C0XrFfggco
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - medici-bank
-  - bills-of-exchange
-  - medieval-finance
-  - usury
-  - history-of-money
 title: 美第奇银行发家之谜：中世纪的资本与汇票
 summary: 本文深入探讨美第奇银行如何在禁止放贷的中世纪欧洲积累巨额财富。通过分析其国际换汇业务，揭示了汇票（Bill of Exchange）如何巧妙地将贷款和利息隐藏其中，以及汇票对货币发展史的深远影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- historical-insights
+- investment-strategy
+tags:
+- bills-of-exchange
+- history-of-money
+- medici-bank
+- medieval-finance
+- usury
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2023-05-31'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7C0XrFfggco
 status: evergreen
 ---
 ### 佛罗伦萨之旅与美第奇之谜

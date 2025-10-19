@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-09-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dKzOa1Kbo_o
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - mr-beast
-  - youtube-creator
-  - business-model
-  - financial-losses
-  - content-creation
 title: MrBeast的商业帝国：流量之王为何巨额亏损，又如何转型？
 summary: MrBeast，YouTube的流量王者，拥有4.3亿订阅，公司估值52亿美元，却年亏损1.1亿美金。本文探讨了他烧钱式内容制作、实体运营失误等亏损原因，以及聘请职业经理人改革商业模式的转型之路。
-insight: ''
+area: market-analysis
+category: business
+project:
+- entrepreneurship
+- investment-strategy
+tags:
+- business-model
+- content-creation
+- financial-losses
+- mr-beast
+- youtube-creator
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-25'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=dKzOa1Kbo_o
 status: evergreen
 ---
 ### MrBeast的惊人成就与财务悖论

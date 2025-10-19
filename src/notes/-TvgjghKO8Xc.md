@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=TvgjghKO8Xc
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - government-shutdown
-  - federal-employees
-  - legal-challenges
-  - death-penalty
-  - miranda-rights
 title: 特朗普政府关门裁员的法律挑战与曼吉昂案死刑辩论
 summary: 探讨特朗普政府关门期间解雇联邦雇员的法律挑战，以及曼吉昂案死刑指控和证据排除的法律争议。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- death-penalty
+- federal-employees
+- government-shutdown
+- legal-challenges
+- miranda-rights
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=TvgjghKO8Xc
 status: evergreen
 ---
 ### 政府关门期间的联邦雇员裁员争议

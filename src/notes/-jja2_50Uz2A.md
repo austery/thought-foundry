@@ -1,26 +1,30 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jja2_50Uz2A
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - middle-east-peace
-  - government-shutdown
-  - usaid-disbandment
-  - trump-administration
-  - foreign-aid
 title: 中东和平峰会与美国国际开发署的解体：政府权力运用与机构存废的教训
 summary: 本文探讨了中东和平峰会的背景、成果及其局限性，并深入剖析了美国国际开发署（USAID）如何在政府停摆期间被特朗普政府“解体”的详细过程，揭示了权力斗争、意识形态与官僚抵抗如何共同塑造了这一事件，以及其对美国外交和国内政治的深远影响。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- foreign-aid
+- government-shutdown
+- middle-east-peace
+- new-york-times-podcasts
+- trump-administration
+- usaid-disbandment
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=jja2_50Uz2A
 status: evergreen
 ---
 ### 中东和平峰会：人质与囚犯的交换

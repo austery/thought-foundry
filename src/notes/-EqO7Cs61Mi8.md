@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2025-07-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=EqO7Cs61Mi8
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - self-acceptance
-  - personal-growth
-  - the-courage-to-be-disliked
-  - authenticity
-  - mindset-shift
 title: 《被讨厌的勇气》：撕掉网红人设，活出真实的自己
 summary: 一位内容创作者分享《被讨厌的勇气》如何帮助他摆脱外界评价与“人设”束缚，通过不寻求认可、课题分离和构建主观现实，找到内在平静与自由，最终拥抱真实自我。
-insight: ''
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- authenticity
+- mindset-shift
+- personal-growth
+- self-acceptance
+- the-courage-to-be-disliked
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-12'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=EqO7Cs61Mi8
 status: evergreen
 ---
 ### 引言：一场网络争执与人设的困境

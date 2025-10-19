@@ -1,25 +1,31 @@
 ---
-author: Lei
-date: 2025-07-30
-guest: null
-layout: post.njk
-channel: null
-source: https://www.youtube.com/watch/6OXct7a0G50
-speaker: 投资Talk君
-tags:
-- 视频文稿
-- 财报分析
-- 美联储
-- Visa
-- UNH
 title: 美联储会议前瞻与UNH/Visa/Booking财报深度解析
 summary: 本视频深入分析了最新的宏观经济数据，探讨了美联储会议的可能动向，并详细解读了联合健康(UNH)、Visa及Booking的最新财报，揭示了消费者健康状况、行业风险与AI、稳定币等未来趋势。
-insight: 这几期关于UNH的都要结合一起看，来展示对于一个公司的理解。
-file_name: Fed_preview_UNH_Visa_Booking_earnings.md
+area: null
+category: null
+project: []
+tags:
+- visa
+- 视频文稿
+- 财报分析
+people:
+- 美联储
+companies_orgs:
+- unh
+products_models: []
+media_books: []
+date: 2025-07-30
+author: Lei
+speaker: 投资Talk君
+channel: null
 draft: true
+file_name: Fed_preview_UNH_Visa_Booking_earnings.md
+guest: null
+insight: 这几期关于UNH的都要结合一起看，来展示对于一个公司的理解。
+layout: post.njk
 series: null
+source: https://www.youtube.com/watch/6OXct7a0G50
 ---
-
 ## 引言
 
 各位观众大家好，欢迎来到一个我真的服了我自己，即使再晚也要为大家录制视频的日更美股专业博主频道。我是市场分析员小桃。今天前面的抬头非常的长，录这期视频的时候已经是凌晨2点。之所以这么晚，是因为之前录了一期最新的会员视频，主要讲的就是**UNH**（联合健康集团）这家公司，并且对这家公司进行了估值。稍后我在这期视频里边会和大家讲一个结论，但如果大家有兴趣的话，可以考虑加入会员去看那期视频。

@@ -1,20 +1,26 @@
 ---
-author: Lei
-channel: null
+title: 安大略省的学院体系陷入困境了吗？ - 《议程》文字记录
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 教育
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-05-28'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 教育
-title: 安大略省的学院体系陷入困境了吗？ - 《议程》文字记录
 ---
-
 **EN Topic:** 60th Anniversary Discussion of Ontario's College System and its Current Challenges
 
 **ZH 主题：** 安大略省学院体系60周年及其当前挑战的讨论

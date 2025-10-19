@@ -1,26 +1,31 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=eCAGjMbpQFU
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - global politics
-  - right-wing populism
-  - geopolitics
-  - China
-  - US elections
 title: 全球右转浪潮：高市早苗当选与民粹主义兴起的影响
 summary: 分析全球右翼至极右翼政治浪潮，探讨其特征、对国际格局及中国的影响，并关注美国大选的关键作用。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+tags:
+- china
+- geopolitics
+- global-politics
+- right-wing-populism
+- us-elections
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-07'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=eCAGjMbpQFU
 status: evergreen
 ---
 ### 全球右翼浪潮与高市早苗当选

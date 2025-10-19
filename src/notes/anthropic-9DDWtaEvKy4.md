@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-08-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9DDWtaEvKy4
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - anthropic
-  - ai-interpretability
-  - large-language-models
-  - neural-networks
-  - machine-learning
 title: Anthropic可解释性团队：揭秘大模型的思考方式与内部机制
 summary: Anthropic可解释性团队通过深入研究揭示大模型内部运作。他们探讨了模型如何形成抽象概念、进行计算、处理多语言，并区分了模型的真实思考与输出。研究强调理解模型对建立信任、优化性能及解决幻觉至关重要。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-interpretability
+- large-language-models
+- machine-learning
+- neural-networks
+people: []
+companies_orgs:
+- anthropic
+products_models: []
+media_books: []
+date: '2025-08-23'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9DDWtaEvKy4
 status: evergreen
 ---
 ### 引言：揭开大模型的神秘面纱

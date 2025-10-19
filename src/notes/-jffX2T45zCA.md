@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jffX2T45zCA
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - us-argentina-relations
-  - china-us-competition
-  - us-domestic-policy
-  - global-economy
-  - middle-east-conflict
 title: 特朗普问答：阿根廷、中国、美元与美国未来
 summary: 特朗普在一场问答中讨论了美国对阿根廷的援助、与中国的关系、拉美地区的民主进展、美元地位、国内治安与移民问题，并对政治对手进行了批评。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- us-analysis
+tags:
+- bloomberg-podcasts
+- china-us-competition
+- global-economy
+- middle-east-conflict
+- us-argentina-relations
+- us-domestic-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=jffX2T45zCA
 status: evergreen
 ---
 ### 美国与拉美盟友关系

@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: The Plain Bagel
+title: 'Margin Call: An Investment Analyst’s Explanation'
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- margin-call
+- 投资
+- 视频文稿
+- 金融危机
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-13'
+author: Lei
+speaker: Richard
+channel: The Plain Bagel
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=H7xCo0CJ02A
-speaker: Richard
-summary: null
-tags:
-- 视频文稿
-- Margin Call
-- 金融危机
-- 投资
-title: 'Margin Call: An Investment Analyst’s Explanation'
 ---
-
 ## Introduction 引言
 
 欢迎体验我们的系列节目第三期，我是投资分析师理查德·科芬（Richard

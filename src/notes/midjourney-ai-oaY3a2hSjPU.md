@@ -1,26 +1,30 @@
 ---
-author: How I AI
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=oaY3a2hSjPU
-speaker: How I AI
-tags:
-  - t-literature-note
-  - how-i-ai
-  - midjourney
-  - ai art
-  - prompt engineering
-  - image generation
-  - creative ai
 title: Midjourney 提示词三要素：打造更出色的 AI 图像生成效果
 summary: 本指南将揭示 Midjourney 提示词的关键三要素：主题、背景和风格，并提供具体示例，帮助您生成更具结构感和艺术性的 AI 图像。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-art
+- creative-ai
+- how-i-ai
+- image-generation
+- prompt-engineering
+people: []
+companies_orgs: []
+products_models:
+- midjourney
+media_books: []
+date: '2025-10-07'
+author: How I AI
+speaker: How I AI
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=oaY3a2hSjPU
 status: evergreen
 ---
 ### 基础提示词的局限性

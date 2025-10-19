@@ -1,26 +1,30 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XtiqsC_a5aA
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - ice-enforcement
-  - government-shutdown
-  - argentina-bailout
-  - phone-theft
-  - protein-supplements
 title: 《纽约时报》头条：芝加哥反抗ICE，特朗普政府关门操作，阿根廷救助争议，伦敦8万手机被盗案
 summary: 《纽约时报》头条：芝加哥民众反抗ICE执法，特朗普政府关门操作，阿根廷救助争议，伦敦8万手机被盗案。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- argentina-bailout
+- government-shutdown
+- ice-enforcement
+- new-york-times-podcasts
+- phone-theft
+- protein-supplements
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XtiqsC_a5aA
 status: evergreen
 ---
 ### 《纽约时报》头条：芝加哥民众反抗ICE执法

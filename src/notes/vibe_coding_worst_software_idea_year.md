@@ -1,25 +1,40 @@
 ---
-author: Lei
-date: 2025-08-17
-guest: 
-layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=1A6uPztchXk
-speaker: Dave Farley
-tags:
-  - 视频文稿
-  - Vibe Coding
-  - AI Programming
-  - Software Engineering
-  - Code Quality
 title: Why 'Vibe Coding' is the Worst Software Idea of the Year
-summary: This article critically examines the concept of 'Vibe Coding' introduced by Andrej Karpathy. It argues that this approach, which relies on casual interaction with AI to generate code, fundamentally misunderstands the nature of software development. The author contends that programming's core difficulty lies not in writing syntax, but in the precise problem decomposition, design, and communication required for building robust, maintainable systems. The rise of AI in programming amplifies the need for rigorous practices like automated testing and executable specifications, rather than imprecise 'vibes'.
-insight: 
-file_name: vibe_coding_worst_software_idea_year.md
+summary: This article critically examines the concept of 'Vibe Coding' introduced
+  by Andrej Karpathy. It argues that this approach, which relies on casual interaction
+  with AI to generate code, fundamentally misunderstands the nature of software development.
+  The author contends that programming's core difficulty lies not in writing syntax,
+  but in the precise problem decomposition, design, and communication required for
+  building robust, maintainable systems. The rise of AI in programming amplifies the
+  need for rigorous practices like automated testing and executable specifications,
+  rather than imprecise 'vibes'.
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai-programming
+- code-quality
+- software-engineering
+- vibe-coding
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-17
+author: Lei
+speaker: Dave Farley
+channel: null
 draft: true
-series: 
+file_name: vibe_coding_worst_software_idea_year.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=1A6uPztchXk
 ---
-
 ## Introduction to Vibe Coding
 
 On February the 2nd this year, Andrej Karpathy, an OpenAI founder and formerly head of AI at Tesla, introduced a new term for a style of programming with AI assistance.

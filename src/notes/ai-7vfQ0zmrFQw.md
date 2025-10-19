@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7vfQ0zmrFQw
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - jeff-bezos
-  - long-term-thinking
-  - ai-revolution
-  - entrepreneurship
-  - kindness
 title: 贝佐斯的智慧：善良、长线思维与AI时代的乐观坐标
 summary: 贝佐斯强调“善良比聪明更难”，以此构建亚马逊长线思维。文章分析AI热潮，区分金融与工业泡沫，并为个体在AI时代的发展提供策略。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+tags:
+- ai-revolution
+- entrepreneurship
+- jeff-bezos
+- kindness
+- long-term-thinking
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7vfQ0zmrFQw
 status: evergreen
 ---
 ### 贝佐斯的童年启示：善良比聪明更难

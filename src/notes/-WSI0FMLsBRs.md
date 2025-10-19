@@ -1,26 +1,30 @@
 ---
-author: Peter Santenello
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=WSI0FMLsBRs
-speaker: Peter Santenello
-tags:
-  - t-literature-note
-  - peter-santenello
-  - Staten Island
-  - New York City
-  - Urban Exploration
-  - Culture
-  - US Travel
 title: 深入纽约的遗忘之州：史泰登岛的真实面貌
 summary: 深入探索纽约市的第五区——史泰登岛，揭示其独特的文化、社区、历史遗迹以及鲜为人知的魅力，挑战刻板印象，展现其真实而多元的面貌。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- cultural-critique
+tags:
+- culture
+- new-york-city
+- peter-santenello
+- staten-island
+- urban-exploration
+- us-travel
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Peter Santenello
+speaker: Peter Santenello
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=WSI0FMLsBRs
 status: evergreen
 ---
 ### 导言：被低估的纽约第五区

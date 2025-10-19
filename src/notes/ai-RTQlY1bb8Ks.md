@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=RTQlY1bb8Ks
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - causal-inference
-  - artificial-intelligence
-  - data-science
-  - judea-pearl
-  - statistical-bias
 title: 揭秘AI的致命缺陷：因果革命与数据思维的转变
 summary: 本文探讨大数据与人工智能的局限性，指出其仅能发现相关性而无法理解因果。通过介绍图灵奖得主朱迪亚·珀尔的因果关系之梯，强调因果推理对驾驭数据、提升AI智能及解决实际问题的关键作用。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- causal-inference
+- data-science
+- judea-pearl
+- statistical-bias
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-04'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=RTQlY1bb8Ks
 status: evergreen
 ---
 ### 大数据与AI的因果盲区

@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-09-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=wuE-rrSlcJk
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - jeff-dean
-  - google-brain
-  - artificial-intelligence
-  - neural-networks
-  - tpu
 title: 杰夫·迪恩：从分布式系统到谷歌大脑，洞察AI的过去与未来
 summary: 谷歌AI巨头杰夫·迪恩回顾其职业生涯，从早期编程兴趣到谷歌大脑的创立，深入探讨神经网络、TPU、注意力机制等关键技术，并对AI的未来发展及社会影响提出深刻见解。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- google-brain
+- jeff-dean
+- neural-networks
+people: []
+companies_orgs: []
+products_models:
+- tpu
+media_books: []
+date: '2025-09-02'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=wuE-rrSlcJk
 status: evergreen
 ---
 ### 引言：杰夫·迪恩的AI旅程

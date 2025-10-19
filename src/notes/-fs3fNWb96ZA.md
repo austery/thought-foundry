@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fs3fNWb96ZA
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - uk-politics
-  - political-scandal
-  - jeffrey-epstein
-  - peter-mandelson
-  - media-leak
 title: 一句“孙子兵法”，如何让英国政坛教父身败名裂？
 summary: 英国驻美大使彼得·曼德尔森因与臭名昭著的金融家爱泼斯坦的往来邮件被曝光而身败名裂。邮件内容揭示了曼德尔森不仅与爱泼斯坦关系密切，甚至在其定罪后仍提供支持，并建议其运用“孙子兵法”反击，最终导致其被首相解职，引发了对精英体制和政府审查的深刻质疑。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- jeffrey-epstein
+- media-leak
+- peter-mandelson
+- political-scandal
+- uk-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-27'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fs3fNWb96ZA
 status: evergreen
 ---
 ### 英国驻美大使彼得·曼德尔森与爱泼斯坦丑闻爆发

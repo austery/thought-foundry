@@ -1,25 +1,32 @@
 ---
-author: Lei
-channel: null
+title: 美股顶级基金狙击UNH，暴跌背后的真相，是否迎来绝佳抄底机会？
+summary: 本视频深入分析了顶级对冲基金大佬Bill Ackman对医保巨头UNH的看法，探讨了UNH近期暴跌的原因，并结合Netflix和CrowdStrike的案例，分析UNH是否被市场错杀，是否存在抄底机会。
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 价值投资
+- 市场情绪
+- 投资
+- 视频文稿
+people: []
+companies_orgs:
+- unh
+products_models: []
+media_books: []
 date: 2025-07-28
+author: Lei
+speaker: 美股投资网
+channel: null
+draft: true
+file_name: top_fund_targets_UNH_opportunity_amid_plunge.md
 guest: null
 insight: 真是现实检验认知，今天UNH的财报出炉，又大跌了8%，我要用这个做个复盘。
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=n13E0mBaKbc
-speaker: 美股投资网
-summary: 本视频深入分析了顶级对冲基金大佬Bill Ackman对医保巨头UNH的看法，探讨了UNH近期暴跌的原因，并结合Netflix和CrowdStrike的案例，分析UNH是否被市场错杀，是否存在抄底机会。
-tags:
-- 视频文稿
-- UNH
-- 价值投资
-- 市场情绪
-- 投资
-title: 美股顶级基金狙击UNH，暴跌背后的真相，是否迎来绝佳抄底机会？
-file_name: top_fund_targets_UNH_opportunity_amid_plunge.md
-draft: true
 ---
-
 ## 引言
 
 主持人: 顶级对冲基金大佬 **Bill Ackman** 一直是我们美股投资网 CEO 最敬佩的投资人，没有之一。他的风格与我们如出一辙，始终追求超额回报（**Alpha**），而不是满足于复制市场的 **Beta**（平均表现）。我曾总结过一句我们投资箴言就是，“在激进的投资过程中，始终坚守价值投资的第一性原理”。这句话的意思是，当市场出现千载难逢的机会时，我们就应该重仓出击，坚定地赚一笔大的；但前提是，每一次选股都必须围绕着一个公司内在价值这个底层逻辑。只要偏离了基本面，泡沫就会滋生，亏损的风险也将来幅上升。这正是为什么 Bill Ackman 被誉为“小巴菲特”。他在投资理念和执行风格上，既有激进果断的一面，也始终没有背离巴菲特强调的长期主义与价值本质。

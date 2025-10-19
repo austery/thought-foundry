@@ -1,25 +1,31 @@
 ---
-author: 一口新飯
-date: '2024-04-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=LkaTvWlBR1k
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - tesla
-  - fsd
-  - optimus-robot
-  - robotaxi
-  - ev-market
 title: 特斯拉Q1财报深度解读：Model 2风波、FSD、Optimus与投资策略
 summary: 前特斯拉FSD工程师于振华与主持人一口新饭深度解读特斯拉Q1财报，探讨Model 2、FSD、Robotaxi、Optimus的最新进展及其对公司估值和投资者策略的影响。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- ev-market
+people: []
+companies_orgs:
+- tesla
+products_models:
+- fsd
+- optimus-robot
+- robotaxi
+media_books: []
+date: '2024-04-26'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=LkaTvWlBR1k
 status: evergreen
 ---
 ### 引言：特斯拉的挑战与机遇

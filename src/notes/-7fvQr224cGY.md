@@ -1,25 +1,29 @@
 ---
-author: 硅谷101
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7fvQr224cGY
-speaker: 硅谷101
-tags:
-  - t-literature-note
-  - '101'
-  - ai-bubble
-  - capital-loop
-  - tech-financing
-  - semiconductor-industry
 title: 硅谷万亿资本闭环：杠杆、垄断与泡沫解析
 summary: OpenAI的万亿算力采购协议引发对新型融资机制和AI泡沫的担忧。本文深入解读硅谷科技巨头间的资本循环，分析其金融杠杆及市场情绪，并探讨AI热潮的可持续性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- '101'
+- ai-bubble
+- capital-loop
+- semiconductor-industry
+- tech-financing
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: 硅谷101
+speaker: 硅谷101
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7fvQr224cGY
 status: evergreen
 ---
 ### OpenAI的万亿算力采购与新型融资迷局

@@ -1,26 +1,32 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=f83uXtAdlV4
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - wells-fargo
-  - walmart
-  - atai-life-sciences
-  - stock-movers
-  - earning-season
 title: Wells Fargo、沃尔玛与Atai生命科学：股市焦点股解析
 summary: 本报告聚焦Wells Fargo盈利指标提升、Walmart与OpenAI合作以及Atai生命科学因精神健康药物前景而大涨等股市热点，分析了这些公司股价异动背后的驱动因素。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- atai-life-sciences
+- bloomberg-podcasts
+- earning-season
+- stock-movers
+- wells-fargo
+people: []
+companies_orgs:
+- walmart
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=f83uXtAdlV4
 status: evergreen
 ---
 ### 市场概览与银行股表现

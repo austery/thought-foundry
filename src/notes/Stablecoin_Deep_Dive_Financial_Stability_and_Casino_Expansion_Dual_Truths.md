@@ -1,21 +1,27 @@
 ---
-author: Lei
-channel: null
+title: 稳定币深度解析：金融维稳与赌场扩张的双重真相
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 加密货币
+- 稳定币
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: Mr. Sun
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=3mUdydbgw3U&t
-speaker: Mr. Sun
-summary: null
-tags:
-- 视频文稿
-- 稳定币
-- 加密货币
-title: 稳定币深度解析：金融维稳与赌场扩张的双重真相
 ---
-
 总字数：约 7,800 字 \| 预计阅读时间：约 26 分钟
 
 

@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: “大而美”法案深度解析：对美元、黄金及美股的连锁反应
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- 市场影响
+- 美国经济
+- 视频文稿
+- 财政赤字
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-06'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=0vB4CiIiOYU&t
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 美国经济
-- 财政赤字
-- 市场影响
-title: “大而美”法案深度解析：对美元、黄金及美股的连锁反应
 ---
-
 ## 一、激烈的政治博弈：法案的诞生之路
 
 报道捕捉到了唐纳德·特朗普在凌晨一点仍在白宫，紧密关注“大而美”法案投票进展的画面。与此同时，为了阻止该法案，民主党领袖哈基姆·杰弗里斯在众议院进行了长达8小时44分钟的发言，直至声音沙哑。

@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ChiwwJjETfQ
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - gawker-media
-  - peter-thiel
-  - legal-battle
-  - jury-strategy
-  - media-ethics
 title: 硅谷之王的复仇：蒂尔团队如何利用“超重女性”陪审团绞杀Gawker
 summary: 本文揭示了Peter Thiel团队如何通过精密的模拟庭审和心理战，在与Gawker Media的亿万官司中，将“超重女性”作为秘密武器，最终在法庭上实现惊天逆转，并强调了理解环境与受众的重要性。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- gawker-media
+- jury-strategy
+- legal-battle
+- media-ethics
+- peter-thiel
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-14'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ChiwwJjETfQ
 status: evergreen
 ---
 ### 序言：决战前夜的暗流涌动

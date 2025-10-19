@@ -1,26 +1,32 @@
 ---
-author: EO
-date: '2025-08-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Xqsudhg-8qk
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - startup-ideas
-  - ai-innovation
-  - insurance-tech
-  - product-management
-  - market-opportunity
 title: 跨界掘金：如何在陌生市场发现千万级商机？| Commulate 创始人 Jordan Katz 与 Michael Mattheakis
-summary: Commulate 创始人 Jordan Katz 和 Michael Mattheakis 分享了他们如何打破硅谷“解决自身问题”的传统思维，进入保险业这个陌生市场，通过以产品为导向的深度洞察和利用 AI 技术，将行业痛点转化为巨大商业机遇，并成功获得客户认可的创业故事。
-insight: ''
+summary: Commulate 创始人 Jordan Katz 和 Michael Mattheakis 分享了他们如何打破硅谷“解决自身问题”的传统思维，进入保险业这个陌生市场，通过以产品为导向的深度洞察和利用
+  AI 技术，将行业痛点转化为巨大商业机遇，并成功获得客户认可的创业故事。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-innovation
+- insurance-tech
+- market-opportunity
+- product-management
+- startup-ideas
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-07'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Xqsudhg-8qk
 status: evergreen
 ---
 ### 硅谷迷思与保险业的发现

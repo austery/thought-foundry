@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-10-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=_HenXrB6PTQ
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - artificial-intelligence
-  - tech-investment
-  - market-shifts
-  - investment-themes
-  - us-tech-leadership
 title: AI并非泡沫：三大投资板块与市场领导力演变
 summary: AI非泡沫：能源、软件、芯片三大投资板块布局，重塑市场与企业效率。
-insight: ''
+area: market-analysis
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- artificial-intelligence
+- investment-themes
+- market-shifts
+- tech-investment
+- us-tech-leadership
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-10-04'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=_HenXrB6PTQ
 status: evergreen
 ---
 ### 引言：AI浪潮下的市场展望

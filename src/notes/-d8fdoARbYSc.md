@@ -1,26 +1,29 @@
 ---
-author: 超級歪 SuperY
-date: '2025-08-24'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=d8fdoARbYSc
-speaker: 超級歪 SuperY
-tags:
-  - t-literature-note
-  - supery
-  - demon-slayer
-  - infinity-castle-arc
-  - japanese-folklore
-  - social-darwinism
-  - psychoanalysis
 title: 《鬼灭之刃：无限城篇》：恶鬼之人性哲学——强弱、互助与无我之境
 summary: 本文深入探讨《鬼灭之刃：无限城篇》中关于恶鬼的深层哲学意涵，从愤怒、自我与阴影、社会边缘人到强弱之道，以及互助与无我思想对人类社会延续的启示。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- demon-slayer
+- infinity-castle-arc
+- japanese-folklore
+- psychoanalysis
+- social-darwinism
+- supery
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-24'
+author: 超級歪 SuperY
+speaker: 超級歪 SuperY
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=d8fdoARbYSc
 status: evergreen
 ---
 ### 《鬼灭之刃：无限城篇》的哲学深思

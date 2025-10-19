@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=roAgE4glhqM
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-agent
-  - reinforcement-learning
-  - implicit-world-modeling
-  - self-reflection
-  - imitation-learning
 title: AI Agent迈向经验时代：早期经验范式助力自主学习
 summary: 本文探讨AI Agent迈向经验时代。重点介绍META“早期经验”范式，通过隐式世界建模和自我反思，让Agent在无外部奖励下从自身试错中学习。该方法有效解决了模仿学习局限，并为强化学习提供优质初始化，助力Agent自主提升。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-agent
+- imitation-learning
+- implicit-world-modeling
+- reinforcement-learning
+- self-reflection
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=roAgE4glhqM
 status: evergreen
 ---
 ### 经验时代的到来与挑战

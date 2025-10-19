@@ -1,20 +1,27 @@
 ---
-author: Lei
+title: 第六课：婆媳之间 上
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 夫妻关系
+- 婚姻成长
+- 宗教
+- 家庭生活
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-12'
+author: Lei
+speaker: 林静芝,李秀全
 guest: null
 insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Jm_R84hY1n0
-speaker: 林静芝,李秀全
-summary: null
-tags:
-- 视频文稿
-- 婚姻成长
-- 家庭生活
-- 夫妻关系
-- 宗教
-title: 第六课：婆媳之间 上
 ---
 ## 引言：家庭关系的探讨
 

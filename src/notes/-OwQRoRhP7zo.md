@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=OwQRoRhP7zo
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - us-politics
-  - foreign-policy
-  - economy
-  - middle-east
-  - domestic-security
 title: 特朗普：新药物协议、对华政策、中东和平与国内挑战
 summary: 特朗普总统在发布会上介绍了与阿斯利康的药物协议、美国创纪录的投资，并阐述了其对华关税政策。他还就中东和平协议、加沙战后重建、移民及美国国内治安等问题回答了记者提问。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- bloomberg-podcasts
+- domestic-security
+- economy
+- foreign-policy
+- middle-east
+- us-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=OwQRoRhP7zo
 status: evergreen
 ---
 ### 经济成就与药物降价

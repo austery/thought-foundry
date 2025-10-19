@@ -1,26 +1,31 @@
 ---
-author: 最佳拍档
-date: '2025-09-09'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=mehWYKHNsy0
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - leopold-aschenbrenner
-  - ai-investment
-  - agi-safety
-  - situational-awareness
-  - openai
 title: 从OpenAI“异议者”到投资新贵：利奥波德的AI预言与15亿美元传奇
 summary: 23岁德国青年利奥波德·阿申布伦纳，因坚持AGI安全理念被OpenAI解雇。他凭借一份165页的AI趋势预言论文，在无金融背景下创立对冲基金，6个月内获得47%收益，并筹集15亿美元。本文拆解其论文核心观点及投资成功秘诀。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- agi-safety
+- ai-investment
+- best-partners-tv
+- leopold-aschenbrenner
+- situational-awareness
+people: []
+companies_orgs:
+- openai
+products_models: []
+media_books: []
+date: '2025-09-09'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=mehWYKHNsy0
 status: evergreen
 ---
 ### AI行业“双重反转剧”的开场

@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-10-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=XSJL9l5124U
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - ai-ethics
-  - geoffrey-hinton
-  - superintelligence
-  - existential-risk
-  - societal-impact
 title: 杰弗里·辛顿的警告：AI教父眼中人类文明的深渊与出路
 summary: 人工智能教父杰弗里·辛顿警示，超级智能的崛起不仅带来失业，更威胁人类尊严与社会共识。他呼吁正视AI的潜在危险，并改变认知，共同施压，以确保未来科技发展不致毁灭人类文明。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-ethics
+- existential-risk
+- geoffrey-hinton
+- societal-impact
+- superintelligence
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-02'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=XSJL9l5124U
 status: evergreen
 ---
 ### AI教父的“水管工”建议与深层恐惧

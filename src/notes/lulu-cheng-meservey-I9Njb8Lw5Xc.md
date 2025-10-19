@@ -1,26 +1,29 @@
 ---
-author: The Knowledge Project Podcast
-date: '2025-09-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=I9Njb8Lw5Xc
-speaker: The Knowledge Project Podcast
-tags:
-  - t-literature-note
-  - the-knowledge-project-podcast
-  - communication-strategy
-  - founder-communication
-  - trust-building
-  - narrative-power
-  - media-engagement
 title: 如何在喧嚣世界中高效沟通：Lulu Cheng Meservey的策略
 summary: Lulu Cheng Meservey探讨了在充满信息噪音的世界中如何吸引注意力、建立信任并有效沟通。她强调人类信念、叙事弧线和精准受众识别的重要性，并分享了应对危机和打造强大沟通策略的实用见解。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- communication-strategy
+- founder-communication
+- media-engagement
+- narrative-power
+- the-knowledge-project-podcast
+- trust-building
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-16'
+author: The Knowledge Project Podcast
+speaker: The Knowledge Project Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=I9Njb8Lw5Xc
 status: evergreen
 ---
 ### 引言：抓住注意力，磨砺“钩子”

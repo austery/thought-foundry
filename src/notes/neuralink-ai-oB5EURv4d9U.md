@@ -1,26 +1,30 @@
 ---
-author: 硅谷101播客
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=oB5EURv4d9U
-speaker: 硅谷101播客
-tags:
-  - t-literature-note
-  - '101'
-  - ultrasonic-bci
-  - neuralink-competition
-  - brain-science
-  - ai-integration
-  - medical-technology
 title: 超声脑机接口：挑战Neuralink，AI巨头与硅谷大佬的下一片蓝海
 summary: OpenAI创始人Sam Altman与多位硅谷大佬正涌入超声脑机接口领域，挑战Neuralink的侵入式技术。本节目深入探讨超声脑机接口的优势、临床应用、未来发展方向，以及脑科学与人工智能融合的深远影响。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- '101'
+- ai-integration
+- brain-science
+- medical-technology
+- neuralink-competition
+- ultrasonic-bci
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: 硅谷101播客
+speaker: 硅谷101播客
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=oB5EURv4d9U
 status: evergreen
 ---
 ### 引言：超声脑机接口的兴起与竞争格局

@@ -1,26 +1,29 @@
 ---
-author: a16z
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=JfE1Wun9xkk
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - ai
-  - openai
-  - agi
-  - energy
-  - sora
 title: Sam Altman谈Sora、能源与构建AI帝国
 summary: Sam Altman在本播客中探讨OpenAI的四重业务模式、Sora对AGI的意义、AI科学家的前景、能源挑战与核能未来，以及AI发展中的文化与商业化思考。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- agi
+- ai
+- energy
+people: []
+companies_orgs:
+- openai
+products_models:
+- sora
+media_books: []
+date: '2025-10-08'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=JfE1Wun9xkk
 status: evergreen
 ---
 ### AI发现的奇迹与进步

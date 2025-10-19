@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-04-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=PDA6pGFpS2I
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - financial-markets
-  - trump-policies
-  - q1-earnings
-  - asset-prices
 title: 市场震荡：美元指数急跌、美债反弹，川普关税政策与一季度财报深度解读
 summary: 本期节目分析市场剧烈波动，美元指数急跌，美债反弹，黄金与比特币表现强势。深入解读川普的关税政策与对美联储的看法，并总结一季度财报季。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- asset-prices
+- financial-markets
+- market-analysis
+- q1-earnings
+- trump-policies
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-04-22'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=PDA6pGFpS2I
 status: evergreen
 ---
 ### 引言与本期内容概览

@@ -1,23 +1,32 @@
 ---
-author: Lei
-date: 2025-08-11
-guest: 
-layout: post.njk
-channel: 
-source: 
-speaker: 肖涛
-tags:
-  - 视频文稿
-  - CPI
-  - 美联储
-  - 美股
-  - 衰退
 title: CPI的真正意义：为何降息25个基点可能优于50个基点
 summary: 探讨即将公布的CPI数据及其对美股的影响，分析为何温和通胀和25基点降息对牛市更优。内容涵盖美联储视角、关税影响及市场衰退预期的变化，并提及英特尔、Circle等公司动态。
-insight: 
-file_name: cpi_meaning_25bp_cut_better_than_50bp.md
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- us-analysis
+tags:
+- cpi
+- 美股
+- 衰退
+- 视频文稿
+people:
+- 美联储
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-11
+author: Lei
+speaker: 肖涛
+channel: null
 draft: true
-series: 
+file_name: cpi_meaning_25bp_cut_better_than_50bp.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 ---
 欢迎来到一个即使忙了一天，也要为大家做日更的专业美股频道，我是市场分析员肖涛。今天我们主要针对周二早上将要公布的 **CPI** (居民消费价格指数：衡量通货膨胀的关键指标) 数据去展开。虽然大家看到这期内容时，数据本身可能已经公布，但我个人认为，如何解读数据比数据本身更重要，尤其是美联储会带着怎样的视角去解读。相比数据，美联储的行为才是最重要的。
 

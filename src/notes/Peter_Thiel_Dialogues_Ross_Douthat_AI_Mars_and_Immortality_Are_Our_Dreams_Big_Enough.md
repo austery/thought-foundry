@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 深度报告：彼得·蒂尔对话罗斯·杜塔特
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 技术停滞
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: Ross Douthat (罗斯·杜塔特)
+channel: null
 guest: Peter Thiel (彼得·蒂尔)
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=kY6iE8tC3aI
-speaker: Ross Douthat (罗斯·杜塔特)
-summary: null
-tags:
-- 视频文稿
-- 技术停滞
-- 人工智能
-title: 深度报告：彼得·蒂尔对话罗斯·杜塔特
 ---
-
 # 彼得·蒂尔对话罗斯·杜塔特：人工智能、火星与不朽——我们的梦想足够远大吗？
 
 ## 引言：对话最具影响力的右翼思想家

@@ -1,22 +1,27 @@
 ---
-author: Lei
-channel: null
+title: 《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 小小而美
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- 读书会
 date: '2025-06-06'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 小小而美
-- 读书会
-title: 《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary
 ---
-
-
 ## 开场与引言 (Opening & Introduction)
 
 Ray

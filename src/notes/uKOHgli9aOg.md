@@ -1,26 +1,32 @@
 ---
-author: Joseph Wang
-date: '2025-10-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uKOHgli9aOg
-speaker: Joseph Wang
-tags:
-  - t-literature-note
-  - joseph-wang
-  - market-analysis
-  - economic-outlook
-  - banking-sector
-  - precious-metals
-  - government-shutdown
 title: 市场周报：政府停摆下的银行风险、经济线索与黄金白银走势
 summary: 本周市场波动，政府停摆致数据缺失。关注区域银行风险、经济私有数据及黄金白银的抛物线上升。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- banking-sector
+- economic-outlook
+- government-shutdown
+- joseph-wang
+- market-analysis
+- precious-metals
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-18'
+author: Joseph Wang
+speaker: Joseph Wang
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uKOHgli9aOg
 status: evergreen
 ---
 ### 市场概览与政府停摆影响

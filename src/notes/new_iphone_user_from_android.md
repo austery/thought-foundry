@@ -1,20 +1,26 @@
 ---
-author: Lei
-channel: null
+title: 献给父母的iPhone 16 Plus贴心指南：从安卓到苹果的全方位迁移与使用手册
+summary: null
+area: null
+category: null
+project: []
+tags:
+- iphone指南
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: 2025-07-27
+author: Lei
+speaker: Google Gemini
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Google Gemini
-summary: null
-tags:
-- 视频文稿
-- IPhone指南
-title: 献给父母的iPhone 16 Plus贴心指南：从安卓到苹果的全方位迁移与使用手册
 ---
-
 ## 欢迎来到您的新iPhone世界
 
 亲爱的爸爸妈妈：

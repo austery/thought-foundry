@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-05-22'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=wYcmjF7xXR0
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-treasury-bonds
-  - bitcoin-analysis
-  - market-sentiment
-  - tariffs
-  - investment-strategy
 title: 美债风险、比特币新高与市场参与度：投资TALK君深度解析
 summary: 市场分析师小桃深度解析美债、关税、比特币及市场参与度。他指出美债收益率反弹与日本国债走势相似，关税不确定性犹存，并提醒投资者警惕比特币新高后的风险。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- bitcoin-analysis
+- investment-strategy
+- market-sentiment
+- tariffs
+- us-treasury-bonds
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-05-22'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=wYcmjF7xXR0
 status: evergreen
 ---
 ### 开篇：近况与市场概览

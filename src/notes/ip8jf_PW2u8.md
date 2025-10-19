@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-08-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ip8jf_PW2u8
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - fed-policy
-  - cpi-data
-  - stock-market-analysis
-  - wall-street-predictions
-  - lululemon-valuation
 title: 市场深度解读：降息50基点预期、华尔街预测偏差及Lululemon估值分析
 summary: 本文深入探讨了最新CPI数据发布后，市场对美联储降息50个基点的预期，并对比了华尔街机构预测与实际市场走势的巨大偏差。此外，文章还对Lululemon的最新财报进行了详细分析，评估了其利润率、营收增速及当前估值的合理性。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- cpi-data
+- fed-policy
+- lululemon-valuation
+- stock-market-analysis
+- wall-street-predictions
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-14'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ip8jf_PW2u8
 status: evergreen
 ---
 ### 市场动态与降息50基点预期

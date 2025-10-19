@@ -1,25 +1,28 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-07-05'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=GDy_ruy_PFU
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - by-night-in-chile
-  - roberto-bolano
-  - intellectuals-and-politics
-  - authoritarianism
 title: 《智利之夜》：独裁下的知识分子，是献媚特权还是直面黑暗？
 summary: 智利作家波拉尼奥的小说《智利之夜》深刻剖析了独裁统治下，知识分子如何通过逃避政治责任，沦为精致的利己主义者和暴政的优雅共犯。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- authoritarianism
+- by-night-in-chile
+- intellectuals-and-politics
+- roberto-bolano
+- stella-an
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-05'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=GDy_ruy_PFU
 status: evergreen
 ---
 ### 黎明尚远，如何在黑夜中行走？

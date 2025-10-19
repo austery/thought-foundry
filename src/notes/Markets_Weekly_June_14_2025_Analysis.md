@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: Markets Weekly Analysis - June 14, 2025
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 市场分析
+- 稀土
+- 美元
+- 视频文稿
+people:
+- 美联储
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-14'
+author: Lei
+speaker: Joseph Wang
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Joseph Wang
-summary: null
-tags:
-- 视频文稿
-- 美联储
-- 美元
-- 稀土
-- 市场分析
-title: Markets Weekly Analysis - June 14, 2025
 ---
-
 ## Introduction / 引言
 
 Welcome. This past week of June 14, 2025, has been action-packed in the

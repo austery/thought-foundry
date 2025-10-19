@@ -1,26 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-09-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=eYq6Zc1M6pU
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - large-language-models
-  - ai-inference
-  - non-determinism
-  - floating-point-arithmetic
-  - batch-invariance
 title: 揭秘大模型推理非确定性：Thinking Machines Lab的批次不变性解决方案
 summary: 本文深入探讨大模型推理中输出非确定性的核心原因——批次不变性缺失。结合Thinking Machines Lab的研究，详细解释了浮点数非结合性如何导致批次依赖，并介绍了针对RMSNorm、矩阵乘法和注意力机制的批次不变内核解决方案，强调其对模型可重复性和在线策略强化学习的重要性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-inference
+- batch-invariance
+- best-partners-tv
+- floating-point-arithmetic
+- large-language-models
+- non-determinism
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-12'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=eYq6Zc1M6pU
 status: evergreen
 ---
 ### 开篇：大模型推理的“老大难”问题

@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iwFcMfN7n84
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - corporate-earnings
-  - economic-data
-  - investment-analysis
-  - market-trends
 title: 国际资本涌入美股，零售数据与财报深度解析
 summary: 本期节目深入分析了美股市场走势、零售销售数据、国际资本流向，并详细解读了GE、台积电、Lululemon、奈飞等多家公司的最新财报及散户杠杆情况。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- corporate-earnings
+- economic-data
+- investment-analysis
+- market-trends
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-18'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=iwFcMfN7n84
 status: evergreen
 ---
 ### 市场概览与板块表现

@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-07-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=cu0u-aflw5w
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - ipo-valuation
-  - earnings-report
-  - investment-strategy
-  - tech-stocks
 title: 市场动态、财报解读与Figma IPO估值策略
-summary: 本期节目深入分析了周二市场走势、美联储主席鲍威尔的任期讨论及关税影响。详细解读了通用汽车和可口可乐的最新财报，并对即将上市的Figma进行了详细的估值分析，同时回顾了Circle和On Holding的个股表现，并分享了技术面与基本面结合的投资策略。
-insight: ''
+summary: 本期节目深入分析了周二市场走势、美联储主席鲍威尔的任期讨论及关税影响。详细解读了通用汽车和可口可乐的最新财报，并对即将上市的Figma进行了详细的估值分析，同时回顾了Circle和On
+  Holding的个股表现，并分享了技术面与基本面结合的投资策略。
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- earnings-report
+- investment-strategy
+- ipo-valuation
+- market-analysis
+- tech-stocks
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-23'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=cu0u-aflw5w
 status: evergreen
 ---
 ### 市场概览与板块轮动分析

@@ -1,25 +1,28 @@
 ---
-author: Anthropic
-date: '2025-07-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ysPbXH0LpIE
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - prompt-engineering
-  - claude-ai
-  - ai-best-practices
-  - large-language-models
 title: 提示词工程101：使用Claude构建高效AI应用
 summary: Anthropic团队分享提示词工程最佳实践，通过真实车险案例，逐步演示如何构建结构化、高质量的AI提示词，提升Claude模型的性能与可靠性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-best-practices
+- claude-ai
+- large-language-models
+- prompt-engineering
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-31'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ysPbXH0LpIE
 status: evergreen
 ---
 ### 欢迎与提示词工程简介

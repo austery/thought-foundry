@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=U3gI4hQW3lM
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - steven-a-cohen
-  - sac-capital
-  - insider-trading
-  - white-collar-crime
-  - legal-strategy
 title: 华尔街之王科恩的“失忆大法”：美国司法系统如何围剿顶级白领罪犯？
 summary: 本期节目深入探讨了美国司法系统在围剿华尔街巨头史蒂文·科恩及其对冲基金SAC Capital时面临的挑战。重点分析了科恩的“失忆大法”、其律师团队的“救生筏”策略，以及马修·马托马的复杂背景，揭示了顶级白领犯罪的复杂性和司法困境。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- insider-trading
+- legal-strategy
+- sac-capital
+- steven-a-cohen
+- white-collar-crime
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-30'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=U3gI4hQW3lM
 status: evergreen
 ---
 ### 引言：围剿升级与对手的顽固

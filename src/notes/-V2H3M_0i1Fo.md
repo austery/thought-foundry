@@ -1,26 +1,28 @@
 ---
-author: TED
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=V2H3M_0i1Fo
-speaker: TED
-tags:
-  - t-literature-note
-  - ted
-  - poetry
-  - sarah-kay
-  - spoken-word
-  - education
-  - creative-writing
 title: 诗歌的力量：莎拉·凯的创作、教育与治愈之旅
 summary: 诗人莎拉·凯分享诗歌如何作为导航工具，在教育、治愈和社区建设中的作用，并进行诗歌处方问答。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- creative-writing
+- education
+- poetry
+- sarah-kay
+- spoken-word
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: TED
+speaker: TED
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=V2H3M_0i1Fo
 status: evergreen
 ---
 ### 欢迎与介绍

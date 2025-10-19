@@ -1,21 +1,29 @@
 ---
-author: Lei
-channel: 透明茶室
+title: 外资撤资FDI大跌不止，中国与世界经济的关系可能已到拐点
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+tags:
+- 中国经济
+- 地缘政治
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 李厚辰
+channel: 透明茶室
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 李厚辰
-summary: null
-tags:
-- 视频文稿
-- 中国经济
-- 地缘政治
-title: 外资撤资FDI大跌不止，中国与世界经济的关系可能已到拐点
 ---
-
 ## 讲述者简介：透明茶室，新闻事件分析频道，本期主要分析中国外商直接投资（FDI）现状及其对中国经济的深远影响。
 
 总字数：约 6,300 字  

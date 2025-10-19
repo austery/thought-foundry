@@ -1,26 +1,29 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=_SNHtZfu3BU
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - israel-gaza-conflict
-  - hostage-crisis
-  - middle-east-peace
-  - israeli-society
-  - humanitarian-crisis
 title: 以色列人质归来：战争的终结与社会的反思
 summary: 在为期两年的战争后，以色列人质重获自由。本文深入探讨了人质回归对以色列社会的影响，以及冲突各方对和平与重建的复杂情感与期望。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- hostage-crisis
+- humanitarian-crisis
+- israel-gaza-conflict
+- israeli-society
+- middle-east-peace
+- new-york-times-podcasts
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=_SNHtZfu3BU
 status: evergreen
 ---
 ### 人质广场的希望与期待

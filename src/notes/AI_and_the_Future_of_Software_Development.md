@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: AI与软件开发的未来
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 未来趋势
+- 视频文稿
+- 软件开发
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-06-07'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: AI企业应用研讨会
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 软件开发
-- 人工智能
-- 未来趋势
-title: AI与软件开发的未来
 ---
-
 ## The Evolving Role of AI in Programming / 人工智能在编程中角色的演变
 
 One speaker initiated the discussion by questioning whether AI,

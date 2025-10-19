@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 深度解析：挑战英伟达的中国芯片巨头华为
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 视频文稿
+people: []
+companies_orgs:
+- 英伟达
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: Joe Weisenthal, Tracy Alloway
+channel: null
 guest: Eva Dou
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=0R37p35EoeM&list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV
-speaker: Joe Weisenthal, Tracy Alloway
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 英伟达
-title: 深度解析：挑战英伟达的中国芯片巨头华为
 ---
-
 # 探秘华为：挑战英伟达的中国芯片巨头
 
 ## 引言：AI芯片领域的潜在挑战者

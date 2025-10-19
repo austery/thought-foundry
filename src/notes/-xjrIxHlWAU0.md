@@ -1,25 +1,30 @@
 ---
-author: 政經孫老師
-date: '2025-08-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=xjrIxHlWAU0
-speaker: 政經孫老師
-tags:
-  - t-literature-note
-  - chinese-stock-market
-  - economic-policy
-  - political-economy
-  - deflation
-  - capital-market
 title: 中国股市的“政策市”本质：牛市表象下的经济黑洞与政治逻辑
 summary: 中国股市近期上涨并非经济复苏信号，而是由政府政策驱动的“政策市”。在通缩、低利率及房地产崩塌背景下，民间资金被迫入市。这波“牛市”旨在配合“反内卷”与“全国统一大市场”的政治目标，实为“藏富于国”的短期烟花，无法持久且风险巨大。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- capital-market
+- chinese-stock-market
+- deflation
+- economic-policy
+- political-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-31'
+author: 政經孫老師
+speaker: 政經孫老師
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=xjrIxHlWAU0
 status: evergreen
 ---
 ### 引言：中国股市的异常上涨与政治解读

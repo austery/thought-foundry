@@ -1,26 +1,31 @@
 ---
-author: EO
-date: '2025-07-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=d9SKd-zqYAc
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - ai-video-platform
-  - synthesia
-  - startup-growth
-  - product-market-fit
-  - future-of-media
 title: Synthesia创始人：AI视频平台的崛起、挑战与未来展望
 summary: Synthesia CEO Victor Riparbelli分享AI视频平台从艰难起步到实现产品市场契合的历程，探讨增长策略、团队建设及对未来信息消费趋势的深刻洞察。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-video-platform
+- future-of-media
+- product-market-fit
+- startup-growth
+people: []
+companies_orgs:
+- synthesia
+products_models: []
+media_books: []
+date: '2025-07-27'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=d9SKd-zqYAc
 status: evergreen
 ---
 ### Synthesia的成长与核心使命

@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=VDCpozA80dg
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - paul-tudor-jones
-  - market-outlook
-  - inflation
-  - investment-strategy
-  - robin-hood-foundation
 title: 保罗·图德·琼斯：当前市场与历史泡沫的对比及投资洞察
 summary: 保罗·图德·琼斯深入分析当前市场，对比1999年互联网泡沫，探讨人工智能热潮、通胀前景及政府干预。他分享了对股票、黄金、比特币的看法，并强调了金融市场中的集中风险。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- bloomberg-podcasts
+- inflation
+- investment-strategy
+- market-outlook
+- paul-tudor-jones
+- robin-hood-foundation
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=VDCpozA80dg
 status: evergreen
 ---
 ### 罗宾汉基金会及其“选股大赛”

@@ -1,26 +1,30 @@
 ---
-author: INDIGO 数字镜像
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=uRPqTkmIeAY
-speaker: INDIGO 数字镜像
-tags:
-  - t-literature-note
-  - indigo
-  - accelerated-computing
-  - artificial-intelligence
-  - economic-impact
-  - future-of-work
-  - community-building
 title: 加速计算时代：AI、经济与社会变革的深度洞察
 summary: 本次直播深入探讨了加速计算时代下，谷歌在AI领域的突破、大模型演进、AI对全球经济及劳动力市场的深远影响。同时，分享了对贫富差距、认知泡泡的见闻，并介绍了个人对社群建设和未来生存方式的思考。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- accelerated-computing
+- artificial-intelligence
+- community-building
+- economic-impact
+- future-of-work
+people: []
+companies_orgs:
+- indigo
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: INDIGO 数字镜像
+speaker: INDIGO 数字镜像
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=uRPqTkmIeAY
 status: evergreen
 ---
 ### 开篇与近期动态回顾

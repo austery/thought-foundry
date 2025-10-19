@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-09-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=3iu9-UyPbeM
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - artificial-intelligence-history
-  - symbolic-ai
-  - connectionism
-  - deep-learning
-  - ai-ethics
 title: 人工智能的路线之争：气宗符号主义与剑宗连接主义的兴衰
 summary: 本文深入探讨人工智能七十年发展史中的两大流派——符号主义与连接主义的路线之争，分析其技术特点、历史演变、商业逻辑及当前深度学习面临的挑战与风险。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- historical-insights
+tags:
+- ai-ethics
+- artificial-intelligence-history
+- connectionism
+- deep-learning
+- symbolic-ai
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-17'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=3iu9-UyPbeM
 status: evergreen
 ---
 ### 引言：AI江湖的“气剑之争”

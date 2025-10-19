@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part
+  2) - Dialogue'
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- 经济影响
+- 美国政治
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-05-25'
+author: Lei
+speaker: Ezra Klein
+channel: null
 guest: Catherine Rampell
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Ezra Klein
-summary: null
-tags:
-- 视频文稿
-- 美国政治
-- 经济影响
-title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part
-  2) - Dialogue'
 ---
-
 # Why Ezra Klein is So F\*\*\*ing Angry (with Democrats)
 
 ## 嘉宾介绍与节目开场

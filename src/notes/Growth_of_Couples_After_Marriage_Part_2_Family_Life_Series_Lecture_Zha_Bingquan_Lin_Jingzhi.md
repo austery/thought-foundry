@@ -1,24 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 第一课：夫妻婚后的成长 下
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 信仰
+- 夫妻关系
+- 婚姻成长
+- 家庭生活
+- 感情成长
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 查秉全
+channel: null
 guest: 林静芝
 insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
-speaker: 查秉全
-summary: null
-tags:
-- 视频文稿
-- 婚姻成长
-- 夫妻关系
-- 感情成长
-- 家庭生活
-- 信仰
-title: 第一课：夫妻婚后的成长 下
 ---
-
 ## 单元二：感情的成长
 
 **查秉全 老师:**

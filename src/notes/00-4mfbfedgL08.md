@@ -1,26 +1,31 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=4mfbfedgL08
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - japan-society
-  - china-economic-stagnation
-  - youth-culture
-  - popular-culture
-  - social-change
 title: 《00年代的想象力》：从日本经验看中日社会心态与流行文化的变迁
 summary: 本文以宇野常宽的《00年代的想象力》为切入点，探讨30年前日本与当下中国在经济走势、社会心态和文化表现上的相似性，分析日本从“家里蹲”到“决断主义”的流行文化演变及其对社会的启示。
-insight: ''
+area: market-analysis
+category: culture
+project:
+- china-analysis
+- cultural-critique
+tags:
+- china-economic-stagnation
+- japan-society
+- popular-culture
+- social-change
+- stella-an
+- youth-culture
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=4mfbfedgL08
 status: evergreen
 ---
 ### 引言：中日社会心态的对照

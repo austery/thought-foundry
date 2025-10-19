@@ -1,28 +1,31 @@
 ---
-author: Lei
-date: 2025-09-11
-guest:
-layout: post.njk
-source:
-speaker: 大飞
-tags:
-- t-literature-note
-- ai-hallucination
-- large-language-model
-- model-evaluation
-- incentive-design
 title: 深度解析：为何语言模型会产生幻觉？
 summary: 深入剖析OpenAI与佐治亚理工的联合研究，揭示语言模型产生幻觉的两大根源：预训练阶段的统计误差传导，以及后训练阶段的评估机制激励错位，并探讨相应的解决方案。
-insight:
-file_name: deconstructing_why_language_models_hallucinate.md
-draft: true
-series:
-category:
-area:
+area: tech-insights
+category: technology
 project:
+- ai-impact-analysis
+tags:
+- ai-hallucination
+- incentive-design
+- large-language-model
+- model-evaluation
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-11
+author: Lei
+speaker: 大飞
+draft: true
+file_name: deconstructing_why_language_models_hallucinate.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ### 引言：揭开“幻觉之谜”
 
 大家好，这里是最佳拍档，我是大飞。今天要和大家深度拆解一篇有希望能彻底解开“幻觉之谜”的重磅研究，即来自OpenAI和佐治亚理工联合发表的论文《为什么语言模型会有幻觉（Why Language Models Hallucinate）》。

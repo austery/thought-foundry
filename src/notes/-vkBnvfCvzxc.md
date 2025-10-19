@@ -1,26 +1,30 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vkBnvfCvzxc
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - trump-administration
-  - venezuela-crisis
-  - cia-covert-action
-  - gaza-conflict
-  - us-refugee-policy
 title: 特朗普授权中情局秘密行动，哈马斯血腥镇压异己
 summary: 本期节目深入探讨了特朗普政府对委内瑞拉的军事和情报施压，以及美国难民政策的潜在变革。此外，还报道了哈马斯在加沙地带的行动，以及美国一分硬币的停产。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- cia-covert-action
+- gaza-conflict
+- new-york-times-podcasts
+- trump-administration
+- us-refugee-policy
+- venezuela-crisis
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vkBnvfCvzxc
 status: evergreen
 ---
 ### 特朗普政府的委内瑞拉军事与情报行动

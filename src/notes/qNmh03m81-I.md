@@ -1,63 +1,62 @@
 ---
-author: Adam's Axiom
-date: '2025-01-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qNmh03m81-I
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - asset-bubbles
-  - market-psychology
-  - investment-strategy
-  - fomo
-  - technological-revolutions
 title: 在市场泡沫中致富：富人如何利用市场失灵
 summary: 本文深入探讨了富人如何在资产泡沫中获利，即使泡沫破裂也能全身而退。文章揭示了六个关键步骤：识别下一场革命、推销梦想、出售基础设施工具、引入机构投资者、把握退出时机，以及制造“错失恐惧症”（FOMO）。通过分析历史上的互联网、加密货币和AI泡沫，文章强调了理解市场心理和周期性模式的重要性，而非盲目相信长期潜力。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
+category: finance
 project:
-  - investment-strategy
-  - market-cycles
-  - ai-impact-analysis
+- investment-strategy
+- market-cycles
+- personal-growth-lab
+tags:
+- adam-s-axiom
+- asset-bubbles
+- fomo
+- investment-strategy
+- market-psychology
+- technological-revolutions
 people:
-  - Sam Altman
-  - Jeff Bezos
-  - Pierre Omidyar
-  - Vitalik Buterin
-  - Satoshi Nakamoto
-  - Mark Cuban
-  - Elon Musk
+- Elon Musk
+- Jeff Bezos
+- Mark Cuban
+- Pierre Omidyar
+- Sam Altman
+- Satoshi Nakamoto
+- Vitalik Buterin
 companies_orgs:
-  - DeepSeek
-  - Nvidia
-  - Amazon
-  - eBay
-  - Akamai Technologies
-  - Coinbase
-  - Binance
-  - Goldman Sachs
-  - Deutsche Bank
-  - Webvan
-  - Pets.com
-  - MicroStrategy
-  - Tesla
-  - Microsoft
-  - OpenAI
-  - Yahoo
+- Akamai Technologies
+- Amazon
+- Binance
+- Coinbase
+- DeepSeek
+- Deutsche Bank
+- Goldman Sachs
+- MicroStrategy
+- Microsoft
+- Nvidia
+- OpenAI
+- Pets.com
+- Tesla
+- Webvan
+- Yahoo
+- eBay
 products_models:
-  - Project Stargate
-  - AGI
-  - ChatGPT
-  - Bitcoin
-  - Ethereum
-  - Mortgage-backed Securities
-  - GPU
+- AGI
+- Bitcoin
+- ChatGPT
+- Ethereum
+- GPU
+- Mortgage-backed Securities
+- Project Stargate
 media_books: []
+date: '2025-01-31'
+author: Adam's Axiom
+speaker: Adam's Axiom
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+series: ''
+source: https://www.youtube.com/watch?v=qNmh03m81-I
 status: evergreen
 ---
 ### 泡沫经济中的致富之道：富人的策略

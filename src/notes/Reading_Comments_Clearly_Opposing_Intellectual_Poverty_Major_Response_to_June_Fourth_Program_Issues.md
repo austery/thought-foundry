@@ -1,22 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 读评论：旗帜鲜明地反对知识贫瘠——关于六四两期节目问题的重大回应
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- historical-insights
+tags:
+- 中国政治
+- 历史反思
+- 视频文稿
+people:
+- 三个水枪手
+companies_orgs: []
+products_models: []
+media_books:
+- 三个水枪手
 date: '2025-07-10'
+author: Lei
+speaker: 李厚辰,贾葭,伍雷
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 李厚辰,贾葭,伍雷
-summary: null
-tags:
-- 视频文稿
-- 中国政治
-- 历史反思
-- 三个水枪手
-title: 读评论：旗帜鲜明地反对知识贫瘠——关于六四两期节目问题的重大回应
 ---
-
 ### 目录
 
 ## 开场白：为何要回应争议评论

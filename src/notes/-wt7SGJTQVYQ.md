@@ -1,25 +1,28 @@
 ---
-author: 三個水槍手
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=wt7SGJTQVYQ
-speaker: 三個水槍手
-tags:
-  - t-literature-note
-  - wang-jianlin
-  - wanda-group
-  - red-top-merchants
-  - chinese-entrepreneurs
-  - political-economy
 title: 王健林万达帝国的兴衰：权力、资本与红顶商人的困境
 summary: 本文深入探讨了前中国首富王健林及其万达帝国的兴衰。从其限高风波、高负债运营，到与多位高层官员的复杂政商关系，揭示了其作为“红顶商人”的挑战。文章还分析了其子王思聪的形象、万达上市困境以及与最高层的冲突，并对中国民营企业家的“原罪”及未来命运进行了探讨。
-insight: ''
+area: market-analysis
+category: finance
+project: []
+tags:
+- chinese-entrepreneurs
+- political-economy
+- red-top-merchants
+- wanda-group
+- wang-jianlin
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-06'
+author: 三個水槍手
+speaker: 三個水槍手
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=wt7SGJTQVYQ
 status: evergreen
 ---
 ### 王健林限高风波的真相

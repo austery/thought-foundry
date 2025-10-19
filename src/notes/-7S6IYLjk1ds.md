@@ -1,26 +1,32 @@
 ---
-author: Amit Kukreja
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7S6IYLjk1ds
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - market-analysis
-  - stock-performance
-  - geopolitics
-  - investment-strategies
-  - tech-industry
 title: 市场收盘聚焦：中美关系、科技股亮点与投资策略深度解析
 summary: 本期节目深入回顾了市场收盘情况，分析了中美紧张关系、主要科技股（AMD, HIMS）的最新动态，并探讨了个人投资组合调整、宏观经济数据及纽约州营商环境等多元话题。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- geopolitics-watch
+- investment-strategy
+- market-cycles
+tags:
+- amit-kukreja
+- geopolitics
+- investment-strategies
+- market-analysis
+- stock-performance
+- tech-industry
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7S6IYLjk1ds
 status: evergreen
 ---
 ### 市场概览与盘中波动

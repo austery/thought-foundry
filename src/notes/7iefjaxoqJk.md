@@ -1,26 +1,29 @@
 ---
-author: Adam's Axiom
-date: '2025-05-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7iefjaxoqJk
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - game-theory
-  - tit-for-tat
-  - cooperation
-  - prisoner-dilemma
-  - simplicity-power
 title: 简单即力量：揭秘博弈论中最强大的“以牙还牙”策略
 summary: 本文深入探讨博弈论中“以牙还牙”策略的惊人力量。通过计算机模拟和自然界（如吸血蝙蝠）的例子，揭示了这一简单规则（合作开始、回应合作、回应背叛、乐于宽恕）如何持续超越复杂算法，成为重复互动中实现成功的数学最优解，对人际关系、职业乃至生活都具深远启示。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- adam-s-axiom
+- cooperation
+- game-theory
+- prisoner-dilemma
+- simplicity-power
+- tit-for-tat
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-13'
+author: Adam's Axiom
+speaker: Adam's Axiom
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7iefjaxoqJk
 status: evergreen
 ---
 ### 简单策略的惊人力量

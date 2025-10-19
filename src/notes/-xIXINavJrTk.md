@@ -1,26 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-10-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=xIXINavJrTk
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - andres-barba
-  - republica-luminosa
-  - western-civilization
-  - racial-conflict
-  - social-critique
 title: 《光明共和国》：一部直指西方社会种族对立的争议小说
 summary: 本期节目深入探讨西班牙作家安德烈斯·巴尔瓦的争议小说《光明共和国》，揭示其如何以流浪儿童为隐喻，描绘西方社会中原住民与有色人种对白人文明的“入侵”与冲击。同时，节目也从历史角度反思文明的冲突与融合，探讨纯粹与稳定文明的潜在危机。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- andres-barba
+- racial-conflict
+- republica-luminosa
+- social-critique
+- stella-an
+- western-civilization
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-04'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=xIXINavJrTk
 status: evergreen
 ---
 ### 引言：一部“政治不正确”的争议之作

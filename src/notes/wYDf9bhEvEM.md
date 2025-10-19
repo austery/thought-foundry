@@ -1,26 +1,29 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=wYDf9bhEvEM
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - stephen-king
-  - film-adaptations
-  - non-horror
-  - hollywood
-  - literary-influence
 title: 斯蒂芬·金的非恐怖电影世界：从《伴我同行》到《肖申克的救赎》
 summary: 《纽约时报书评》编辑吉尔伯特·克鲁兹与电影评论员肖恩·芬尼西深入探讨斯蒂芬·金非恐怖作品的电影改编，分析其独特魅力与对好莱坞的深远影响。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- film-adaptations
+- hollywood
+- literary-influence
+- new-york-times-podcasts
+- non-horror
+- stephen-king
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=wYDf9bhEvEM
 status: evergreen
 ---
 ### 斯蒂芬·金的非恐怖魅力

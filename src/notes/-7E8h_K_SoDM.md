@@ -1,26 +1,29 @@
 ---
-author: 莊也雜談
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7E8h_K_SoDM
-speaker: 莊也雜談
-tags:
-  - t-literature-note
-  - ''
-  - t-literature-note
-  - vancouver
-  - travel
-  - canada
-  - attraction
 title: 温哥华深度游：六大完美错过宝藏景点，不容错过！
 summary: 盘点温哥华及周边六大被遗珠的宝藏景点，从历史渔村到壮丽山景，为你的下次旅程提供参考。
-insight: ''
+area: personal-growth
+category: lifestyle
+project: []
+tags:
+- ''
+- attraction
+- canada
+- t-literature-note
+- travel
+- vancouver
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: 莊也雜談
+speaker: 莊也雜談
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7E8h_K_SoDM
 status: evergreen
 ---
 ### 史蒂夫斯顿渔村 (Steveston Village)

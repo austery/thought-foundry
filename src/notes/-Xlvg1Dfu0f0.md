@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2022-05-02'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Xlvg1Dfu0f0
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - investment-strategy
-  - cash-management
-  - market-cycles
-  - financial-planning
-  - value-investing
 title: 深度解析：投资中的“现金为王”与周期性策略
 summary: 本文深入探讨“现金为王”的真正含义，强调其在牛市积累、熊市投资的重要性。文章分析了通胀与机会成本对现金的影响，并提出了合理的现金储备策略与实现“现金为王”所需的投资哲学转变。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- cash-management
+- financial-planning
+- investment-strategy
+- market-cycles
+- value-investing
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-05-02'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Xlvg1Dfu0f0
 status: evergreen
 ---
 ### “现金为王”的周期性与误解

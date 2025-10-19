@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: https://www.youtube.com/@Dr.IreneLee/featured
+title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 医学影像ai
+- 视频文稿
+people:
+- 谷歌工程师
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: Jimmy Hu,Irene
+channel: https://www.youtube.com/@Dr.IreneLee/featured
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=AbjE0-Nran4&t
-speaker: Jimmy Hu,Irene
-summary: null
-tags:
-- 视频文稿
-- 谷歌工程师
-- 医学影像AI
-title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
 ---
-
 ### 讲述者简介
 
 **胡思宇医师 (Jimmy

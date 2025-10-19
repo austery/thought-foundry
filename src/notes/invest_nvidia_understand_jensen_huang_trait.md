@@ -1,25 +1,32 @@
 ---
-author: Lei
-date: 2025-08-18
-guest:
-layout: post.njk
-channel:
-source: https://www.youtube.com/watch?v=5wk761XTNRA
-speaker: 美投君
-tags:
-  - 视频文稿
-  - 英伟达
-  - 黄仁勋
-  - CEO特质
-  - AI转型
 title: 投资英伟达深度解析：CEO黄仁勋的特质如何决定公司未来
 summary: 本文深入探讨了英伟达CEO黄仁勋的个人经历与领导特质如何深刻影响公司的发展轨迹。文章分析了他从早期的创业困境、关键的战略转型（如开发CUDA平台），到最终带领英伟达成为AI计算巨头的历程，揭示了他敏锐的商业头脑、坚决的执行力以及在高压下灵活变通的独特品质，这些是理解英伟达投资价值的核心。
-insight:
-file_name: invest_nvidia_understand_jensen_huang_trait.md
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai转型
+- ceo特质
+- 视频文稿
+people:
+- 黄仁勋
+companies_orgs:
+- 英伟达
+products_models: []
+media_books: []
+date: 2025-08-18
+author: Lei
+speaker: 美投君
+channel: null
 draft: true
-series:
+file_name: invest_nvidia_understand_jensen_huang_trait.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=5wk761XTNRA
 ---
-
 ## 引言：投资英伟达，就是投资黄仁勋
 
 你知道吗，投资英伟达，你有一半的价值，其实都给到了黄仁勋这个人。黄仁勋执掌英伟达32年，这在CEO更迭频繁的硅谷堪称神话。因此，英伟达这家公司也深深烙下了黄仁勋的烙印。

@@ -1,24 +1,28 @@
 ---
-author: 最佳拍档
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=s9h-KL_QBCU
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-data-center
-  - elon-musk
-  - artificial-general-intelligence
-  - reinforcement-learning
 title: xAI Colossus 2：马斯克的千兆瓦级AI数据中心豪赌与挑战
 summary: 本文深入分析xAI的Colossus 2项目，探讨其打造全球首个千兆瓦级AI数据中心的策略、面临的能源、资金、人才流失及技术路线争议，以及对AI行业的影响。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-data-center
+- artificial-general-intelligence
+- elon-musk
+- reinforcement-learning
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=s9h-KL_QBCU
 status: evergreen
 ---
 ### 引言：xAI的千兆瓦级野心

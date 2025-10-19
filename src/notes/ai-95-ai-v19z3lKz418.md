@@ -1,25 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=v19z3lKz418
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - artificial-intelligence
-  - business-strategy
-  - genai-divide
-  - mit-report
-  - enterprise-ai
 title: AI商业鸿沟：麻省理工报告揭示95%企业AI投资无回报之谜
 summary: 麻省理工学院NANDA报告指出，尽管企业在生成式AI上投入巨资，但95%的投资未能产生回报，形成了“生成式AI鸿沟”。本报告深入解读了鸿沟的表象、成因，并分析了成功跨越鸿沟的企业和AI构建者的关键策略。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+tags:
+- artificial-intelligence
+- business-strategy
+- enterprise-ai
+- genai-divide
+- mit-report
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=v19z3lKz418
 status: evergreen
 ---
 ### 生成式AI鸿沟的表象与挑战

@@ -1,25 +1,30 @@
 ---
-author: Lei
-date: 2025-09-25
-guest:
-layout: post.njk
-source: https://www.youtube.com/watch?v=9thFLZi-8yg
-speaker: LT
+title: 财经与地缘政治观察：从美国经济数据到习近平的战略大棋
+summary: 本期内容深入分析了美国强劲的宏观经济数据及其对美联储政策的影响，探讨了特朗普在乌克兰和加沙问题上的复杂策略，并剖析了中美贸易战的最新动态以及对习近平“下一盘大棋”战略的不同解读。
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- us-analysis
 tags:
-- t-literature-note
-- us-economy
 - china-us-relations
 - foreign-policy
 - trump-strategy
-title: 财经与地缘政治观察：从美国经济数据到习近平的战略大棋
-summary: 本期内容深入分析了美国强劲的宏观经济数据及其对美联储政策的影响，探讨了特朗普在乌克兰和加沙问题上的复杂策略，并剖析了中美贸易战的最新动态以及对习近平“下一盘大棋”战略的不同解读。
-insight:
-file_name: finance_geopolitics_us_china_9thFLZi-8yg.md
+- us-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-25
+author: Lei
+speaker: LT
 draft: true
-series:
-category:
-area:
-project:
+file_name: finance_geopolitics_us_china_9thFLZi-8yg.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=9thFLZi-8yg
 status: evergreen
 ---
 ### 美国宏观经济数据强劲，降息预期减弱

@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-07-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6OXct7a0G50
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - fed-outlook
-  - company-earnings
-  - consumer-spending
-  - stablecoins
 title: 市场洞察：美联储展望、关税影响与UNH、Visa、Booking财报深度解析
 summary: 本期视频深入分析了当前美股市场走势、宏观经济数据、美联储会议前瞻及关税影响。重点解读了联合健康、Visa和Booking的最新财报，揭示了医疗赔付风险、消费者健康状况差异，并探讨了Visa对AI购物和稳定币的看法。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- company-earnings
+- consumer-spending
+- fed-outlook
+- market-analysis
+- stablecoins
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-30'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6OXct7a0G50
 status: evergreen
 ---
 ### 引言

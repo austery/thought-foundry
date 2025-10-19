@@ -1,26 +1,30 @@
 ---
-author: Big Think
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DvP3xUticxA
-speaker: Big Think
-tags:
-  - t-literature-note
-  - big-think
-  - romantic-love
-  - neuroscience
-  - human-evolution
-  - addiction
-  - brain-systems
 title: 浪漫之爱的科学：一位人类学家的视角
 summary: 海伦·费舍尔博士解释浪漫之爱如何作为一种基本生存机制，通过进化塑造人类伴侣关系，并揭示其与大脑奖励系统及成瘾行为的深层联系。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- addiction
+- big-think
+- brain-systems
+- human-evolution
+- neuroscience
+- romantic-love
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: Big Think
+speaker: Big Think
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=DvP3xUticxA
 status: evergreen
 ---
 ### 爱的普世性与进化根源

@@ -1,26 +1,29 @@
 ---
-author: Anthropic
-date: '2025-08-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=fGKNUvivvnc
-speaker: Anthropic
-tags:
-  - t-literature-note
-  - anthropic
-  - interpretability
-  - ai-safety
-  - large-language-models
-  - model-behavior
-  - ai-thinking
 title: 理解AI模型如何思考：Anthropic的解释性研究
 summary: Anthropic专家团队探讨AI模型内部运作，揭示其并非简单预测下个词，而是通过复杂概念和规划实现目标，并强调解释性研究对AI安全与信任的重要性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-safety
+- ai-thinking
+- interpretability
+- large-language-models
+- model-behavior
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-15'
+author: Anthropic
+speaker: Anthropic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=fGKNUvivvnc
 status: evergreen
 ---
 ### AI模型内部的复杂性

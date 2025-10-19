@@ -1,59 +1,57 @@
 ---
-author: Adam's Axiom
-date: '2024-12-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=tPJt9buB_hA
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - investment-strategies
-  - financial-technology
-  - market-influence
-  - esg-investing
-  - capitalism-future
 title: 全球顶级投资巨头：重塑资本主义的八大力量
 summary: 本文深入剖析了全球八大最具影响力的投资巨头，包括KKR、高盛资管、贝莱德、Citadel、文艺复兴科技、凯雷集团、桥水基金和Vanguard。文章揭示了这些公司如何通过创新策略、科技优势、政治影响力及独特的商业模式，不仅管理着数万亿美元资产，更在重塑全球金融市场、企业治理乃至资本主义的未来规则。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
+category: finance
 project:
-  - investment-strategy
-  - ai-impact-analysis
-  - market-cycles
+- investment-strategy
+- market-cycles
+tags:
+- adam-s-axiom
+- capitalism-future
+- esg-investing
+- financial-technology
+- investment-strategies
+- market-influence
 people:
-  - Larry Fink
-  - Ken Griffin
-  - Jim Simons
-  - Ray Dalio
-  - Jack Bogle
+- Jack Bogle
+- Jim Simons
+- Ken Griffin
+- Larry Fink
+- Ray Dalio
 companies_orgs:
-  - KKR
-  - Goldman Sachs Asset Management
-  - Goldman Sachs
-  - BlackRock
-  - Citadel
-  - Citadel Securities
-  - Renaissance Technologies
-  - Carlyle Group
-  - Bridgewater Associates
-  - Vanguard
-  - Robinhood
-  - NSA
-  - US government
-  - Federal Reserve
+- BlackRock
+- Bridgewater Associates
+- Carlyle Group
+- Citadel
+- Citadel Securities
+- Federal Reserve
+- Goldman Sachs
+- Goldman Sachs Asset Management
+- KKR
+- NSA
+- Renaissance Technologies
+- Robinhood
+- US government
+- Vanguard
 products_models:
-  - RJR Nabisco deal
-  - Aladdin platform
-  - Medallion fund
-  - Pure Alpha strategy
-  - All-Weather Portfolio
-  - Index Fund
+- Aladdin platform
+- All-Weather Portfolio
+- Index Fund
+- Medallion fund
+- Pure Alpha strategy
+- RJR Nabisco deal
 media_books:
-  - Barbarians at the Gate
+- Barbarians at the Gate
+date: '2024-12-19'
+author: Adam's Axiom
+speaker: Adam's Axiom
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+series: ''
+source: https://www.youtube.com/watch?v=tPJt9buB_hA
 status: evergreen
 ---
 ### KKR：现代私募股权的开创者与行业重塑者

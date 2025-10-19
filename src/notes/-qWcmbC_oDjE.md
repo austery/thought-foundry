@@ -1,26 +1,29 @@
 ---
-author: 大问题Dialectic
-date: '2025-08-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qWcmbC_oDjE
-speaker: 大问题Dialectic
-tags:
-  - t-literature-note
-  - dialectic
-  - platonic-love
-  - philosophy
-  - immortality
-  - ancient-greece
-  - eros
 title: 柏拉图式爱情的真谛：超越肉体的永恒追求
 summary: 本讲深入探讨柏拉图哲学中的“柏拉图式爱情”，揭示其并非简单的精神恋爱，而是人类对不朽的深层爱欲，通过肉体与灵魂的生育，最终攀升至对智慧与真理的爱，以实现灵魂的永恒。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- ancient-greece
+- dialectic
+- eros
+- immortality
+- philosophy
+- platonic-love
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-28'
+author: 大问题Dialectic
+speaker: 大问题Dialectic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=qWcmbC_oDjE
 status: evergreen
 ---
 ### 重新审视柏拉图式爱情的定义

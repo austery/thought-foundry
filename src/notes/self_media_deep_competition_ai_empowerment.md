@@ -1,25 +1,32 @@
 ---
-author: Lei
-channel: null
+title: 深度竞争时代的自媒体：困境、机遇与AI赋能
+summary: 探讨在竞争白热化的当下，做自媒体的现实困境与心理压力，并分析了AI技术带来的新机遇，以及如何结合公民社会理念，找到可持续的创作方向。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 公民社会
+- 内容创作
+- 自媒体
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: 2025-07-27
+author: Lei
+speaker: 李厚辰
+channel: null
+draft: true
+file_name: self_media_deep_competition_ai_empowerment.md
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Vhd7xnKPXKk&t
-speaker: 李厚辰
-summary: 探讨在竞争白热化的当下，做自媒体的现实困境与心理压力，并分析了AI技术带来的新机遇，以及如何结合公民社会理念，找到可持续的创作方向。
-tags:
-- 视频文稿
-- 自媒体
-- 内容创作
-- 公民社会
-- 人工智能
-title: 深度竞争时代的自媒体：困境、机遇与AI赋能
-file_name: self_media_deep_competition_ai_empowerment.md
-draft: true
 ---
-
 ## 引言：自媒体的影响力与普遍性
 
 今天下午我们继续深入讨论，主要围绕互联网对海外公民社会的作用这一议题，特别是大家自己做自媒体的可能性。在场绝大多数人都知道“三个水上手”这个频道，这本身就体现了媒体的作用。我相信很多人之前听说过五雷，但可能是通过这个节目才慢慢熟悉他，甚至对他产生好感和偏好。

@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-05-27'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5DgOYUYwJ4w
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - market-valuation
-  - us-treasury-bonds
-  - fiscal-deficit
-  - consumer-sentiment
 title: 美股估值逼近高位，美债六月融资风险与市场情绪深度解析
 summary: 本期节目深入分析了上周美股市场表现、当前估值状况及2025年EPS预期。重点探讨了6月美债融资对市场可能造成的影响，财政赤字问题，以及消费者对未来工资增长的悲观情绪，并提及稳定币相关研究。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- consumer-sentiment
+- fiscal-deficit
+- market-valuation
+- us-stock-market
+- us-treasury-bonds
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-05-27'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5DgOYUYwJ4w
 status: evergreen
 ---
 ### 市场回顾与参与度分析

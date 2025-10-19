@@ -1,26 +1,30 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6z1cyWjG3h0
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - artificial-intelligence
-  - tech-bubble
-  - venture-capital
-  - circular-financing
 title: 人工智能交易热潮：循环融资与科技泡沫的警示
 summary: 本文探讨了人工智能领域日益增长的巨额交易，分析了Nvidia、OpenAI等公司之间的循环融资模式，以及由此引发的对科技泡沫的担忧。文章还回顾了互联网泡沫的教训，并评估了当前人工智能投资的潜在风险与机遇。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- bloomberg-podcasts
+- circular-financing
+- t-literature-note
+- tech-bubble
+- venture-capital
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6z1cyWjG3h0
 status: evergreen
 ---
 ### 人工智能行业的巨头协议

@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-09-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CC3pQp2jeWE
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - fed-rate-cuts
-  - nonfarm-payrolls
-  - labor-market
-  - economic-outlook
-  - market-analysis
 title: 降息确认！非农数据与劳动力市场深度解析及市场展望
 summary: 本期节目深入分析大非农数据、劳动力市场变化及美联储降息预期，探讨市场对经济放缓的反应，并介绍实用投资工具。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- economic-outlook
+- fed-rate-cuts
+- labor-market
+- market-analysis
+- nonfarm-payrolls
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-09-07'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=CC3pQp2jeWE
 status: evergreen
 ---
 ### 市场表现与资产价格回顾

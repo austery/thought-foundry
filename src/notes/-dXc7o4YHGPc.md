@@ -1,26 +1,31 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dXc7o4YHGPc
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - China Russia relations
-  - Siberia 2 pipeline
-  - Panda bonds
-  - Visa-free travel
-  - Geopolitics
 title: 中国为何近期大幅深化对俄经济合作？是贿赂还是战略布局？
 summary: 近期，中国与俄罗斯在天然气、熊猫债、免签等领域动作频频，深化经济合作。本文深入分析中国此举背后的动机，探讨其是出于对俄“贿赂”以应对潜在的国际局势变化，还是存在更深远的战略考量，并揭示了这种合作对双方及国际格局可能产生的影响。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+tags:
+- china-russia-relations
+- geopolitics
+- panda-bonds
+- siberia-2-pipeline
+- visa-free-travel
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-07'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=dXc7o4YHGPc
 status: evergreen
 ---
 ### 中俄关系升温：从9.3阅兵到“真金白银”的合作

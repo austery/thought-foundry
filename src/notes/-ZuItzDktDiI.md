@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2022-09-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ZuItzDktDiI
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - podcast-recommendations
-  - english-language-learning
-  - personal-development
-  - financial-literacy
-  - knowledge-acquisition
 title: 播客如何改变人生：深度解析与精选推荐
 summary: 本文深入探讨播客如何改变个人成长轨迹，强调其在英语学习、知识拓展和时间利用上的独特优势，并精选推荐多档财经、知识与故事类播客节目。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- english-language-learning
+- financial-literacy
+- knowledge-acquisition
+- personal-development
+- podcast-recommendations
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-09-13'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ZuItzDktDiI
 status: evergreen
 ---
 ### 我的播客之旅与收听倡议

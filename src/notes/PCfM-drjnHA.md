@@ -1,26 +1,32 @@
 ---
-author: LT視界
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=PCfM-drjnHA
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - us-china-trade-war
-  - federal-reserve
-  - china-military-purge
-  - financial-fraud
-  - us-politics
 title: 经济学人评中美贸易战：统帅自大与策略失误；美联储利率决策与地区银行欺诈；中共军队高层清洗与太子集团案
 summary: 本期节目深入分析了《经济学人》对中美贸易战中两国领导人策略的批判，探讨了美联储在数据缺失下的利率决策困境，揭示了地区银行信贷欺诈引发的市场担忧。此外，还关注了川普在乌克兰问题上的立场转变、对博尔顿的起诉、印度对俄石油的立场，以及FBI查处柬埔寨太子集团案及其与中共统战的关系，最后重点解读了中共军队高层前所未有的清洗行动。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- investment-strategy
+- us-analysis
+tags:
+- china-military-purge
+- federal-reserve
+- financial-fraud
+- us-china-trade-war
+- us-politics
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=PCfM-drjnHA
 status: evergreen
 ---
 ### 财经头条：美联储利率决策与地区银行信贷欺诈

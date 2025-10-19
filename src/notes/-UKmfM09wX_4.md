@@ -1,26 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-08-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=UKmfM09wX_4
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - doxxing
-  - cyberbullying
-  - content-creation
-  - mental-resilience
-  - social-phenomenon
 title: 面对网络“开盒”与暴力：一位自媒体博主的经历与反思
 summary: 一位自媒体博主分享了她多次被“开盒”和网络暴力的经历，探讨了这种行为背后的认知扭曲与群体影响，并提供了应对策略，鼓励受害者保持冷静、积极行动，并认识到网络暴力以恐惧为食的本质。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- content-creation
+- cyberbullying
+- doxxing
+- mental-resilience
+- social-phenomenon
+- stella-an
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-16'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=UKmfM09wX_4
 status: evergreen
 ---
 ### 突如其来的“开盒”事件

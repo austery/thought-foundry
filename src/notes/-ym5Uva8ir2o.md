@@ -1,27 +1,34 @@
 ---
-author: LT視界
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ym5Uva8ir2o
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - t-literature-note
-  - china-us-relations
-  - trump
-  - xi-jinping
-  - investment
-  - taiwan
 title: 彭博社揭秘：习近平以万亿投资换安全限制解除，博明警示“一带一路”模式重演
 summary: 彭博社报道称，中国敦促特朗普解除安全限制，并提出在美投资1万亿美元，以换取贸易优惠和降低关税。前白宫官员博明警示此举可能使美国成为“一带一路”的一部分。同时，美国驻华大使透露特朗普与习近平会面推迟，中美关系充满变数。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- investment-strategy
+- us-analysis
+tags:
+- china-us-relations
+- investment
+- t-literature-note
+- taiwan
+- xi-jinping
+people:
+- lt
+- trump
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ym5Uva8ir2o
 status: evergreen
 ---
 ### 沙特阿拉伯的石油策略与特朗普的关系

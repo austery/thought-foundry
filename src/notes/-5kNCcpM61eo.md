@@ -1,25 +1,32 @@
 ---
-author: 一口新飯
-date: '2023-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5kNCcpM61eo
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - personal-efficiency
-  - second-brain
-  - note-taking
-  - productivity-traps
-  - knowledge-management
 title: 警惕效率陷阱：你真的需要“第二大脑”或“个人知识库”吗？
 summary: 视频揭示了“第二大脑”的常见误解，强调其核心是“可操作性”和“输出决定输入”。提出“极简笔记法则”，并提醒警惕盲目追求效率工具，应聚焦自身“输出”。
-insight: ''
+area: tech-insights
+category: productivity
+project:
+- ai-impact-analysis
+- knowledge-pipeline
+- personal-growth-lab
+- pkm-research
+tags:
+- knowledge-management
+- note-taking
+- personal-efficiency
+- productivity-traps
+- second-brain
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2023-10-13'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5kNCcpM61eo
 status: evergreen
 ---
 ### “第二大脑”的普遍误解

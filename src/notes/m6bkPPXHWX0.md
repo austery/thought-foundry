@@ -1,26 +1,29 @@
 ---
-author: a16z
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=m6bkPPXHWX0
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - hollywood-film-industry
-  - cultural-impact-of-movies
-  - ai-in-filmmaking
-  - streaming-economy
-  - social-commentary
 title: 好莱坞的变迁：从文化神话到AI时代的新篇章
 summary: 本文深入探讨了电影在文化中的角色、流媒体对好莱坞经济模式的冲击、“信息”文化转向的影响，以及AI技术如何重塑电影制作的未来，并展望了喜剧和具有现实意义的电影的复兴。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-in-filmmaking
+- cultural-impact-of-movies
+- hollywood-film-industry
+- social-commentary
+- streaming-economy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=m6bkPPXHWX0
 status: evergreen
 ---
 ### 电影在文化中的角色

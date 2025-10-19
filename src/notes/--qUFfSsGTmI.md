@@ -1,26 +1,29 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=-qUFfSsGTmI
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - israel-gaza-conflict
-  - hostage-release
-  - humanitarian-impact
-  - peace-negotiations
-  - israeli-politics
 title: 两年后，以色列最后人质的回归：特拉维夫人质广场的故事与战争的终结
 summary: 本播客深入探讨以色列人质回归的复杂情感与社会影响，记录了人质家属的苦痛与希望，以及战争对以色列和加沙人民的深远改变，并分析了此次人质协议的政治意义。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- hostage-release
+- humanitarian-impact
+- israel-gaza-conflict
+- israeli-politics
+- new-york-times-podcasts
+- peace-negotiations
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=-qUFfSsGTmI
 status: evergreen
 ---
 ### 序言：人质协议与加沙之殇

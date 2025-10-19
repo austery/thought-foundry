@@ -1,26 +1,31 @@
 ---
-author: Bg2 Pod
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=pE6sw_E9Gh0
-speaker: Bg2 Pod
-tags:
-  - t-literature-note
-  - bg2-pod
-  - NVIDIA
-  - OpenAI
-  - AI-Infrastructure
-  - Scaling Laws
-  - American Dream
 title: 英伟达CEO谈论OpenAI的未来、计算的工业革命与美国梦
 summary: 英伟达CEO黄仁勋在播客中深入探讨了AI的三个扩展定律，特别是推理的巨大潜力，并详细阐述了与OpenAI的“星门”合作。他还分析了计算的范式转变、英伟达的竞争优势、中美AI竞赛以及H1B签证政策对美国吸引全球人才的影响。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- ai-infrastructure
+- american-dream
+- bg2-pod
+- scaling-laws
+people: []
+companies_orgs:
+- nvidia
+- openai
+products_models: []
+media_books: []
+date: '2025-10-06'
+author: Bg2 Pod
+speaker: Bg2 Pod
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=pE6sw_E9Gh0
 status: evergreen
 ---
 ### OpenAI：下一个万亿美元级巨头

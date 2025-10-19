@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dxVItEMFKqk
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - chatgpt-usage
-  - openai-report
-  - ai-trends
-  - user-behavior
-  - digital-tools
 title: ChatGPT的真实用途：OpenAI报告解读7亿用户的AI生活与工作
 summary: 基于OpenAI最新报告，深入分析ChatGPT的7亿周活跃用户数据。报告揭示ChatGPT正从生产力工具转向生活数字日用品，非工作用途占比飙升，决策支持和思维增强价值凸显，而非编程或陪伴。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-trends
+- chatgpt-usage
+- digital-tools
+- openai-report
+- user-behavior
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=dxVItEMFKqk
 status: evergreen
 ---
 ### 引言：颠覆认知的AI使用数据

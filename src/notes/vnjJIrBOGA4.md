@@ -1,26 +1,33 @@
 ---
-author: 投资TALK君
-date: '2025-06-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vnjJIrBOGA4
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - cpi-data
-  - us-china-tariffs
-  - elon-musk
-  - stablecoin
 title: 美股三大利好为何市场不买单？CPI、关税与马斯克/川普争端深度剖析
 summary: 本期节目深入分析了周三美股在CPI数据利好、中美关税谈判及马斯克与川普争端平息等三大利好背景下却下跌的原因。探讨了市场对未来通胀的预期、关税协议的真实影响以及特斯拉Robotaxi服务的推出，并分享了对稳定币未来发展的看法。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- cpi-data
+- elon-musk
+- us-china-tariffs
+- us-stock-market
+people: []
+companies_orgs: []
+products_models:
+- stablecoin
+media_books:
+- talk
+date: '2025-06-12'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vnjJIrBOGA4
 status: evergreen
 ---
 ### 美股三大利好与市场反应

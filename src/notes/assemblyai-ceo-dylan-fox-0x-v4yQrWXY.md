@@ -1,26 +1,31 @@
 ---
-author: EO
-date: '2025-09-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=0x-v4yQrWXY
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - founder-journey
-  - startup-insights
-  - speech-ai
-  - product-market-fit
-  - customer-centric
 title: 创始人之路：AssemblyAI CEO Dylan Fox的创业洞察与客户至上理念
 summary: AssemblyAI创始人兼CEO Dylan Fox分享了从编程瘾到创立估值过亿公司的心路历程，强调了创始人直觉、客户满意度、专注特定市场和快速迭代对创业成功的关键作用。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- customer-centric
+- founder-journey
+- product-market-fit
+- speech-ai
+- startup-insights
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-13'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=0x-v4yQrWXY
 status: evergreen
 ---
 ### 创始人的直觉与坚持

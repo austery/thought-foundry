@@ -1,26 +1,29 @@
 ---
-author: 超級歪 SuperY
-date: '2025-06-20'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=0KraEt1ebD0
-speaker: 超級歪 SuperY
-tags:
-  - t-literature-note
-  - supery
-  - rousseau
-  - inequality
-  - philosophy
-  - human-nature
-  - social-critique
 title: 卢梭：不平等的起源与人类社会的堕落
 summary: 本文深入探讨了卢梭在《论人类不平等的起源与基础》中的哲学思想，揭示不平等的真正来源并非自然人性，而是社会化后被扭曲的自尊心。文章分析了不平等如何导致自由丧失与普遍不幸，并探讨其复杂性。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- human-nature
+- inequality
+- philosophy
+- social-critique
+- supery
+people:
+- rousseau
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-06-20'
+author: 超級歪 SuperY
+speaker: 超級歪 SuperY
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=0KraEt1ebD0
 status: evergreen
 ---
 ### 引言：卢梭与《论人类不平等的起源与基础》

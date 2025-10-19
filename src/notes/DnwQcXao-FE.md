@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-06-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=DnwQcXao-FE
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - federal-reserve
-  - interest-rates
-  - monetary-policy
-  - inflation
-  - market-analysis
 title: 直击美联储会议：降息条件、点阵图解读与市场展望
 summary: 本文解读美联储最新会议，分析SEP和点阵图，探讨鲍威尔对降息条件、通胀及关税的看法，评估市场反应及降息路径，纠正美债持有情况误解。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- federal-reserve
+- inflation
+- interest-rates
+- market-analysis
+- monetary-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-06-19'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=DnwQcXao-FE
 status: evergreen
 ---
 ### 美联储SEP：经济预测与降息预期

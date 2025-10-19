@@ -1,27 +1,31 @@
 ---
-author: LT視界
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=euL6bSwF1vo
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - t-literature-note
-  - trade-war
-  - trump
-  - china
-  - tiktok
-  - defense
 title: 中国大豆策略奏效？川普面临选举压力；印尼暂停TikTok运营；美国防长讲话引发争议
 summary: 本期节目深入剖析中国大豆策略对美国大选的潜在影响，探讨印尼暂停TikTok运营的原因，并关注美国国防部长皮特·霍格塞斯的争议性演讲及其背后深层含义。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- china
+- defense
+- t-literature-note
+- trade-war
+people:
+- lt
+- trump
+companies_orgs:
+- tiktok
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=euL6bSwF1vo
 status: evergreen
 ---
 ### 国际财经动态：美国政府停摆下的经济数据挑战与市场应对

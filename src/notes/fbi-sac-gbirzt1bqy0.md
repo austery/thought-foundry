@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=gbirzt1bqy0
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - fbi-investigation
-  - insider-trading
-  - sac-capital
-  - wall-street
-  - informants
 title: 黑金系列：FBI策反华尔街精英，揭露SAC内幕交易核心运作
 summary: FBI从外围调查转向内部策反，通过心理战和录音证据击溃交易员防线，成功招募关键线人CB李和诺亚弗里曼，首次揭露SAC系统性腐败，华尔街恐慌升级，科恩面临全面围剿。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- fbi-investigation
+- informants
+- insider-trading
+- sac-capital
+- wall-street
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-29'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=gbirzt1bqy0
 status: evergreen
 ---
 ### 调查升级：从暗线到明线

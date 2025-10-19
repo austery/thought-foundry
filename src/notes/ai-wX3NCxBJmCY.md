@@ -1,26 +1,34 @@
 ---
-author: INDIGO 数字镜像
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=wX3NCxBJmCY
-speaker: INDIGO 数字镜像
-tags:
-  - t-literature-note
-  - indigo
-  - japan-ai-market
-  - chinese-companies-japan
-  - japanese-business-culture
-  - venture-capital-japan
-  - future-of-ai
 title: AI浪潮下的日本：独特市场、商业文化与社会未来
 summary: 资深创投人李路成深度解析日本AI市场，探讨中国公司出海机遇、日本商业文化，并展望AI对日本社会的未来影响。
-insight: ''
+area: market-analysis
+category: technology
+project:
+- ai-impact-analysis
+- cultural-critique
+- entrepreneurship
+- investment-strategy
+- market-cycles
+tags:
+- chinese-companies-japan
+- future-of-ai
+- japan-ai-market
+- japanese-business-culture
+- venture-capital-japan
+people: []
+companies_orgs:
+- indigo
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: INDIGO 数字镜像
+speaker: INDIGO 数字镜像
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=wX3NCxBJmCY
 status: evergreen
 ---
 ### 日本创投视角：AI时代下的独特市场观察

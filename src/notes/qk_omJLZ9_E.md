@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-10-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qk_omJLZ9_E
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - us-presidential-election
-  - campaign-strategy
-  - elite-politics
-  - trump
-  - harris
 title: 2024美国大选终局：哈里斯精英联盟的失策与特朗普的混乱胜利
 summary: 本文深入剖析2024年美国总统大选最后30天，揭示哈里斯竞选团队精英策略的惨败，以及特朗普团队如何凭借实用主义与混乱赢得胜利，探讨美国政治的深层裂痕。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- campaign-strategy
+- elite-politics
+- harris
+- us-presidential-election
+people:
+- trump
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-19'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=qk_omJLZ9_E
 status: evergreen
 ---
 ### 竞选策略的殊途同归：精英的迷茫与草根的混乱

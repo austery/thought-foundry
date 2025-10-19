@@ -1,25 +1,32 @@
 ---
-author: Lei
-date: 2025-08-17
-guest: 
-layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=TzOaXepgEtQ
-speaker: 原子能
-tags:
-  - 视频文稿
-  - TDD
-  - 测试驱动开发
-  - 软件工程
-  - 极限编程
 title: 测试驱动开发（TDD）的兴衰：为何我们讨厌写测试？
-summary: 本文探讨了测试驱动开发（TDD）的起源、核心理念及其在实践中遇到的困境。文章分析了TDD为何未能广泛普及，并指出其核心问题在于将测试置于开发之前，忽略了软件需求多变的本质。最后，文章提出了一种更现代、更有效的测试理念，即在模拟真实生产环境中进行基于属性的测试（Property-Based Testing），以确保软件的健壮性。
-insight: 
-file_name: why_we_hate_writing_tests_the_failure_of_tdd.md
+summary: 本文探讨了测试驱动开发（TDD）的起源、核心理念及其在实践中遇到的困境。文章分析了TDD为何未能广泛普及，并指出其核心问题在于将测试置于开发之前，忽略了软件需求多变的本质。最后，文章提出了一种更现代、更有效的测试理念，即在模拟真实生产环境中进行基于属性的测试（Property-Based
+  Testing），以确保软件的健壮性。
+area: null
+category: null
+project: []
+tags:
+- tdd
+- 极限编程
+- 测试驱动开发
+- 视频文稿
+- 软件工程
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-17
+author: Lei
+speaker: 原子能
+channel: null
 draft: true
-series: 
+file_name: why_we_hate_writing_tests_the_failure_of_tdd.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=TzOaXepgEtQ
 ---
-
 ## TDD 简介：先写测试，再写代码
 
 **Test Driven Development (TDD)** 是一种以测试驱动开发的模式。简单来说，就是拿到开发需求后，先凭空把测试写出来。因为这个时候是没有实际代码的，所以测试必然是失败的。然后你的工作就是把实际代码写出来，让测试结果的红灯一个个变绿，直到全部通过。之后再对代码进行重构增加新功能时，也要确保已有测试继续保持绿灯状态。

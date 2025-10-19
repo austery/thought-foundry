@@ -1,26 +1,34 @@
 ---
-author: 投资TALK君
-date: '2025-05-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1t947JsyGLk
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - stock-market-analysis
-  - us-china-tariffs
-  - investment-app
-  - cpi-data
-  - nvidia-valuation
 title: 美股市场回顾、中美关税谈判与投资APP发布：洞察市场情绪与未来展望
-summary: 本期视频深入回顾了过去一周及一个月的市场走势，分析了市场参与度与一季度财报反馈，并对芯片板块估值、中美关税谈判及下周宏观数据进行了展望。此外，还详细介绍了Talk君专属投资APP的功能及Seeking Alpha的特惠活动。
-insight: ''
+summary: 本期视频深入回顾了过去一周及一个月的市场走势，分析了市场参与度与一季度财报反馈，并对芯片板块估值、中美关税谈判及下周宏观数据进行了展望。此外，还详细介绍了Talk君专属投资APP的功能及Seeking
+  Alpha的特惠活动。
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- cpi-data
+- investment-app
+- nvidia-valuation
+- stock-market-analysis
+- us-china-tariffs
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-05-11'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=1t947JsyGLk
 status: evergreen
 ---
 ### 引言与本期内容概览

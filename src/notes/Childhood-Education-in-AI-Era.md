@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: Ezra Klein Show
+title: 播客报告：人工智能时代的儿童教育
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 儿童教育
+- 学习
+- 未来
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-05-25'
+author: Lei
+speaker: Ezra，Rebecca
+channel: Ezra Klein Show
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Ezra，Rebecca
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 儿童教育
-- 学习
-- 未来
-title: 播客报告：人工智能时代的儿童教育
 ---
-
 # 人工智能时代的儿童教育
 
 Ezra Klein Show 访谈 Rebecca Winthrop 逐字稿

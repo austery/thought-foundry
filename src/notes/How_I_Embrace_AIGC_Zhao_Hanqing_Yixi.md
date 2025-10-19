@@ -1,21 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 【一席】赵汗青：我如何拥抱AIGC
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 视频文稿
+people: []
+companies_orgs:
+- 一席
+products_models: []
+media_books:
+- 一席
 date: '2025-07-10'
+author: Lei
+speaker: 赵汗青
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 赵汗青
-summary: null
-tags:
-- 视频文稿
-- 人工智能
-- 一席
-title: 【一席】赵汗青：我如何拥抱AIGC
 ---
-
 # 我如何拥抱AIGC
 
 主讲人：赵汗青

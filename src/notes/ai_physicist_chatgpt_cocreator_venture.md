@@ -1,29 +1,32 @@
 ---
-author: Lei
-date: 2025-09-30
-guest: 
-layout: post.njk
-source: http://www.youtube.com/watch?v=5FoWFeJCa2A
-speaker: a16z
-tags:
-  - t-literature-note
-  - ai-for-science
-  - material-discovery
-  - physical-rd
-  - superconductivity
-  - reinforcement-learning
 title: AI物理学家：ChatGPT联合创始人的新探索——通过实验加速科学发现
 summary: 前OpenAI/DeepMind科学家创立Periodic Labs，旨在通过将LLM与物理实验紧密结合，构建“AI物理学家”，加速材料科学、化学等领域的研发，挑战传统AI模型的扩展局限。
-insight: 
-file_name: ai_physicist_chatgpt_cocreator_venture.md
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-for-science
+- material-discovery
+- physical-rd
+- reinforcement-learning
+- superconductivity
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-30
+author: Lei
+speaker: a16z
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: ai_physicist_chatgpt_cocreator_venture.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: http://www.youtube.com/watch?v=5FoWFeJCa2A
 status: evergreen
 ---
-
 ## 摘要与核心洞察：AI物理学家的诞生
 
 Ultimately, science is driven by experiments in the real world. That is what we are doing with Periodic Labs.

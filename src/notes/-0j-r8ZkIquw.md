@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2022-11-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=0j-r8ZkIquw
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - exchange-rates
-  - monetary-history
-  - gold-standard
-  - silver-standard
-  - bimetallism
 title: 货币与汇率的千年演进：从银本位到金本位的历史透视
 summary: 本文追溯了汇率制度从古代银本位到金本位的千年演变历程，探讨了货币贬值、市场供需、金银复本位等因素如何影响汇率，并揭示了政治、科技变革在其中扮演的关键角色，为理解现代汇率体系奠定基础。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- historical-insights
+tags:
+- bimetallism
+- exchange-rates
+- gold-standard
+- monetary-history
+- silver-standard
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-11-29'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=0j-r8ZkIquw
 status: evergreen
 ---
 ### 汇率制度的困惑与历史溯源

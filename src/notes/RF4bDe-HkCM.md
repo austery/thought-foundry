@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-08-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=RF4bDe-HkCM
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - amazon-earnings
-  - apple-ai-strategy
-  - microstrategy-bitcoin
-  - market-participation
-  - cloud-computing
 title: 科技巨头财报与市场深度：亚马逊AWS、苹果AI及MSTR比特币策略解析
 summary: 本期节目深入分析了亚马逊、苹果和MicroStrategy的最新财报，探讨了宏观经济数据和市场参与度的变化，并重点解读了亚马逊的AWS云服务战略、苹果的AI布局以及MicroStrategy的比特币溢价衡量标准。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- amazon-earnings
+- apple-ai-strategy
+- cloud-computing
+- market-participation
+- microstrategy-bitcoin
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-08-01'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=RF4bDe-HkCM
 status: evergreen
 ---
 ### 市场概览与宏观数据分析

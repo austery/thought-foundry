@@ -1,26 +1,31 @@
 ---
-author: EO
-date: '2025-07-31'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Z2GmRgmq3Ls
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - ai-startup
-  - generative-media
-  - niche-market
-  - fast-growth
-  - infrastructure-platform
 title: FAL联合创始人：三年内打造15亿美元AI独角兽的秘诀
 summary: FAL联合创始人分享了如何在生成式媒体这一利基市场中，通过极致的速度和专注，在三年内将公司估值推高至15亿美元，并成为AI基础设施的关键参与者。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-startup
+- fast-growth
+- generative-media
+- infrastructure-platform
+- niche-market
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-31'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Z2GmRgmq3Ls
 status: evergreen
 ---
 ### 发现图像模型潜力

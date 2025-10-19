@@ -1,26 +1,32 @@
 ---
-author: Adam's Axiom
-date: '2025-05-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=_d2cL5-l2o8
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - economic-theory
-  - market-mechanisms
-  - social-welfare
-  - resource-allocation
-  - economic-history
 title: 塑造经济思想的伟大先驱们
 summary: 本文深入探讨了从马尔萨斯到新制度经济学等十余种重要经济学流派及其代表人物。文章详细阐述了这些思想家所处的时代背景、核心理论（如马尔萨斯的人口论、边沁的功利主义、马克思的阶级斗争、凯恩斯的有效需求理论等），以及他们的理论如何革新了经济学，并对当今的经济政策和理解产生了深远影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- historical-insights
+- investment-strategy
+- market-cycles
+tags:
+- adam-s-axiom
+- economic-history
+- economic-theory
+- market-mechanisms
+- resource-allocation
+- social-welfare
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-07'
+author: Adam's Axiom
+speaker: Adam's Axiom
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=_d2cL5-l2o8
 status: evergreen
 ---
 ### 马尔萨斯理论：人口与稀缺性

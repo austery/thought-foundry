@@ -1,26 +1,30 @@
 ---
-author: 投资TALK君
-date: '2025-06-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Zpdu-DUU9fY
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - stablecoin
-  - crypto-regulation
-  - payment-innovation
-  - defi-ecosystem
-  - blockchain-future
 title: 稳定币的现状、应用与未来：深度解析机遇与挑战
 summary: 本期访谈邀请两位行业专家，深入探讨了稳定币在当前市场中的地位、作为支付工具的广泛应用潜力、未来的盈利模式及潜在风险。讨论涵盖了稳定币与传统金融的融合、监管挑战，并展望了其在AI、跨境支付等新兴领域的巨大机遇。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- blockchain-future
+- crypto-regulation
+- defi-ecosystem
+- payment-innovation
+people: []
+companies_orgs: []
+products_models:
+- stablecoin
+media_books:
+- talk
+date: '2025-06-17'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Zpdu-DUU9fY
 status: evergreen
 ---
 ### 引言与嘉宾介绍

@@ -1,26 +1,33 @@
 ---
-author: Amit Kukreja
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dPHK67zqMwA
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - china-us-relations
-  - stock-market-analysis
-  - amazon-investing
-  - nvidia-data-centers
-  - gold-commodities
 title: 每日市场回顾：中美博弈、亚马逊潜力与英伟达扩张
 summary: 本期每日回顾深入分析了中美关系对市场的影响，探讨了“逢低买入”策略的盛行，并详细解读了亚马逊被低估的投资价值，英伟达在数据中心领域的最新布局，以及黄金作为避险资产的吸引力。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- amazon-investing
+- amit-kukreja
+- china-us-relations
+- gold-commodities
+- nvidia-data-centers
+- stock-market-analysis
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=dPHK67zqMwA
 status: evergreen
 ---
 ### 每日回顾：市场动态与焦点

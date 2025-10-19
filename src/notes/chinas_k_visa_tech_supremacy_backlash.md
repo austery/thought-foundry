@@ -1,28 +1,34 @@
 ---
-author: Lei
-date: 2025-10-04
-guest: Jia, Wu
-layout: post.njk
-source: 
-speaker: Houchen
+title: China's K Visa Policy:A Bid for Tech Supremacy Amidst Public Backlash
+summary: A discussion on China's new K visa policy, exploring its goal of attracting
+  foreign tech talent to overcome technological bottlenecks, the intense public and
+  nationalist backlash it has triggered, and its potential effectiveness in the ongoing
+  US-China tech war.
+area: tech-insights
+category: technology
+project:
+- us-analysis
 tags:
-- t-literature-note
 - k-visa
+- sino-us-relations
 - talent-acquisition
 - tech-war
-- sino-us-relations
-title: China's K Visa Policy:A Bid for Tech Supremacy Amidst Public Backlash
-summary: A discussion on China's new K visa policy, exploring its goal of attracting foreign tech talent to overcome technological bottlenecks, the intense public and nationalist backlash it has triggered, and its potential effectiveness in the ongoing US-China tech war.
-insight:
-file_name: chinas_k_visa_tech_supremacy_backlash.md
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-04
+author: Lei
+speaker: Houchen
 draft: true
-series:
-category:
-area:
-project:
+file_name: chinas_k_visa_tech_supremacy_backlash.md
+guest: Jia, Wu
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ## 从“外国人永居条例”风波谈起
 
 侯辰: 最近的**K签证**（K签证：中国为吸引外国高科技人才推出的一种签证类型，允许持有人在没有雇主担保的情况下入境寻找工作）引发了巨大的网络舆论翻车，这情景和2020年那次“外国人永久居留管理条例”的风波简直一模一样。你们还记得那个事吗？当时也是因为要放宽外国人绿卡，结果在网上引起了万民唾骂，最后国家只好把这事收回去了。

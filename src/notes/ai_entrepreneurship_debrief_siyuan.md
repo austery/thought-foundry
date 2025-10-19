@@ -1,28 +1,35 @@
 ---
-author: Lei
-date: 2025-10-05
-guest: 思源, Mike
-layout: post.njk
-source: 
-speaker: Ray
-tags:
-- t-literature-note
-- entrepreneurship
-- ai-startup
-- product-market-fit
-- fundraising
 title: AI Entrepreneurship Debrief:From Fundraising Traps to Product-Market Fit
-summary: Entrepreneur Siyuan shares his AI startup journey, covering fundraising pitfalls, finding pilot users, pivoting for product-market fit, and co-founder selection.
-insight:
-file_name: ai_entrepreneurship_debrief_siyuan.md
-draft: true
-series:
-category:
-area:
+summary: Entrepreneur Siyuan shares his AI startup journey, covering fundraising pitfalls,
+  finding pilot users, pivoting for product-market fit, and co-founder selection.
+area: tech-insights
+category: technology
 project:
+- ai-impact-analysis
+- entrepreneurship
+- investment-strategy
+- market-cycles
+tags:
+- ai-startup
+- entrepreneurship
+- fundraising
+- product-market-fit
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-05
+author: Lei
+speaker: Ray
+draft: true
+file_name: ai_entrepreneurship_debrief_siyuan.md
+guest: 思源, Mike
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ### 自我介绍与创业背景
 
 Ray: 好的，那我们现在就正式开始。首先，我们先让思源跟大家分享，分享完之后会有一个Q&A的过程，我们大家再去讨论。我们现在给思源鼓个掌，大家去评论区打一个“+1”来给思源鼓个掌。思源你可以先介绍一下自己，然后就共享你的屏幕。

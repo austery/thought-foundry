@@ -1,25 +1,30 @@
 ---
-author: Lei
-date: 2025-10-01
-guest: Richard Sutton
-layout: post.njk
-source: https://www.youtube.com/watch?v=RLR4OpetiEc
-speaker: 大飞
-tags:
-- t-literature-note
-- richard-sutton
-- reinforcement-learning
-- large-language-models
-- artificial-general-intelligence
 title: Richard Sutton on Why Large Language Models Are a Dead End for AGI
-summary: A detailed breakdown of Richard Sutton's argument that LLMs are fundamentally flawed for achieving AGI, and his proposed alternative centered on experiential learning, world models, and the lessons from animal intelligence.
-insight:
-file_name: sutton_llms_dead_end_for_agi.md
+summary: A detailed breakdown of Richard Sutton's argument that LLMs are fundamentally
+  flawed for achieving AGI, and his proposed alternative centered on experiential
+  learning, world models, and the lessons from animal intelligence.
+area: null
+category: null
+project: []
+tags:
+- artificial-general-intelligence
+- large-language-models
+- reinforcement-learning
+- richard-sutton
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-10-01
+author: Lei
+speaker: 大飞
 draft: true
-series:
-category:
-area:
-project:
+file_name: sutton_llms_dead_end_for_agi.md
+guest: Richard Sutton
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch?v=RLR4OpetiEc
 status: evergreen
 ---
 大家好，这里是最佳拍档，我是大飞。

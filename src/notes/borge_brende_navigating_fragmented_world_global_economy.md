@@ -1,24 +1,32 @@
 ---
-author: Lei
-channel: null
+title: Børge Brende：在世界秩序之间，驾驭全球合作与数字化转型
+summary: 世界经济论坛总裁Børge Brende探讨了在日益加剧的极化时代，世界领导者如何寻求共识，分析了地缘政治格局、全球市场的韧性、人工智能的变革力量，以及达沃斯论坛如何创造解决问题的机遇。
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- geopolitics-watch
+tags:
+- 世界经济论坛
+- 人工智能
+- 全球经济
+- 地缘政治
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: 2025-06-17
+author: Lei
+speaker: Nicolai Tangen,Børge Brende
+channel: null
 file_name: borge_brende_world_orders_global_cooperation_digital_transformation
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Nicolai Tangen,Børge Brende
-summary: 世界经济论坛总裁Børge Brende探讨了在日益加剧的极化时代，世界领导者如何寻求共识，分析了地缘政治格局、全球市场的韧性、人工智能的变革力量，以及达沃斯论坛如何创造解决问题的机遇。
-tags:
-- 视频文稿
-- 世界经济论坛
-- 地缘政治
-- 全球经济
-- 人工智能
-title: Børge Brende：在世界秩序之间，驾驭全球合作与数字化转型
 ---
-
 ## 世界经济论坛的角色与愿景
 
 **Nicolai Tangen**: Hi everyone. I'm Nicolai Tangen, the CEO of the Norwegian Sovereign Wealth Fund. And today I'm really excited because I'm joined by my fellow Norwegian, Børge Brende. And Børge, he is the president and CEO of the World Economic Forum, the organization behind the iconic Davos gatherings and that's where the world's most powerful leaders meet each year to shape the global agenda. Um, Børge also happens to be, I think, the best connected person in the world. So, uh, Børge, pleasure to have you here.

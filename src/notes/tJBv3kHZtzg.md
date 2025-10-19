@@ -1,25 +1,29 @@
 ---
-author: 课代表立正
-date: '2025-10-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=tJBv3kHZtzg
-speaker: 课代表立正
-tags:
-  - t-literature-note
-  - hackathon-strategies
-  - ai-development
-  - startup-competitions
-  - product-management
-  - networking-tips
 title: OpenAI+YC双料冠军分享：黑客马拉松制胜五大干货原则
 summary: 一位在OpenAI和YC黑客马拉松中屡获殊荣的资深参与者，分享了她在短时间内打造成功项目的五大核心原则，包括如何构思好点子、以演示为导向的执行、高效团队协作、有效人脉网络，以及如何积极面对失败，为参与者提供宝贵经验。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-development
+- hackathon-strategies
+- networking-tips
+- product-management
+- startup-competitions
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-18'
+author: 课代表立正
+speaker: 课代表立正
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=tJBv3kHZtzg
 status: evergreen
 ---
 ### 开场与嘉宾介绍

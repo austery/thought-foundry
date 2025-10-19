@@ -1,26 +1,29 @@
 ---
-author: Adam's Axiom
-date: '2025-05-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=JVOF_jorAaE
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - capitalism-reimagined
-  - economic-philosophy
-  - division-of-labor
-  - invisible-hand
-  - consumer-impact
 title: 亚当·斯密的真实面貌：资本主义之父被误解的愿景
 summary: 本文深入探讨了被誉为“资本主义之父”的苏格兰哲学家亚当·斯密的真实思想。纠正了普遍存在的误解，揭示了他如何将经济学视为一种道德哲学，旨在构建一个让普通人享有尊严的社会。文章详细阐述了劳动分工、看不见的手、商业的真正目的以及消费者力量等核心概念，强调了斯密对社会福祉的深切关怀。
-insight: ''
+area: market-analysis
+category: finance
+project: []
+tags:
+- adam-s-axiom
+- capitalism-reimagined
+- consumer-impact
+- division-of-labor
+- economic-philosophy
+- invisible-hand
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-16'
+author: Adam's Axiom
+speaker: Adam's Axiom
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=JVOF_jorAaE
 status: evergreen
 ---
 ### 亚当·斯密：被误解的资本主义之父

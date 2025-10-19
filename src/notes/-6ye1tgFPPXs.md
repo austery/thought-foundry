@@ -1,25 +1,29 @@
 ---
-author: 三個水槍手
-date: '2025-10-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=6ye1tgFPPXs
-speaker: 三個水槍手
-tags:
-  - t-literature-note
-  - chinese-social-theories
-  - marriage-and-dating
-  - social-stratification
-  - internet-culture
-  - incel
 title: 中国社会的三大网络理论：性压抑、立功梭哈与安卓苹果之辨
 summary: 本文探讨了中国社交媒体上流行的“性压抑”、“立功梭哈”和“安卓苹果”三大理论，分析其内涵、社会背景及其所反映的中国社会现象，包括婚恋观念、阶层分化与民众情绪。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- cultural-critique
+tags:
+- chinese-social-theories
+- incel
+- internet-culture
+- marriage-and-dating
+- social-stratification
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-10'
+author: 三個水槍手
+speaker: 三個水槍手
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=6ye1tgFPPXs
 status: evergreen
 ---
 ### 近期时事与舆论焦点

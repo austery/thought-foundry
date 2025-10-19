@@ -1,46 +1,46 @@
 ---
-author: Adam's Axiom
-date: '2025-01-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=LQ0S_IPUOrM
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - financial-bubbles
-  - market-psychology
-  - speculation
-  - economic-crises
-  - regulatory-failures
 title: 金融泡沫的隐藏模式：从郁金香狂热到加密货币的400年教训
 summary: 本文深入探讨了历史上多次著名的金融泡沫，从17世纪的郁金香狂热到21世纪的加密货币泡沫，揭示了贯穿其中的共同模式：人类的投机心理、对新技术的狂热追捧以及监管的滞后。通过回顾密西西比泡沫、南海泡沫、铁路狂热、大萧条、日本资产泡沫、亚洲金融危机、互联网泡沫和2008年房地产危机，文章强调了历史教训的反复出现，警示投资者和政策制定者警惕过度杠杆和非理性繁荣。
-insight: ''
-draft: true
-series: ''
-category: finance
 area: market-analysis
+category: finance
 project:
-  - investment-strategy
-  - market-cycles
-  - historical-insights
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+- personal-growth-lab
+tags:
+- adam-s-axiom
+- economic-crises
+- financial-bubbles
+- market-psychology
+- regulatory-failures
+- speculation
 people:
-  - John Law
-  - Isaac Newton
-  - Sam Bankman-Fried
+- Isaac Newton
+- John Law
+- Sam Bankman-Fried
 companies_orgs:
-  - Mississippi Company
-  - South Sea Company
-  - IMF
-  - FTX
-  - Ford Motor Company
-  - Qualcomm
-  - Amazon
-  - Pets.com
+- Amazon
+- FTX
+- Ford Motor Company
+- IMF
+- Mississippi Company
+- Pets.com
+- Qualcomm
+- South Sea Company
 products_models:
-  - Bitcoin
-  - NFTs
+- Bitcoin
+- NFTs
 media_books: []
+date: '2025-01-10'
+author: Adam's Axiom
+speaker: Adam's Axiom
+draft: true
+guest: ''
+insight: ''
+layout: post.njk
+series: ''
+source: https://www.youtube.com/watch?v=LQ0S_IPUOrM
 status: evergreen
 ---
 ### 郁金香狂热：史上首次有记录的金融泡沫

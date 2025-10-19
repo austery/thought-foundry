@@ -1,26 +1,30 @@
 ---
-author: a16z
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=CWAMH9xMJfg
-speaker: a16z
-tags:
-  - t-literature-note
-  - a16z
-  - leadership
-  - company-culture
-  - business-strategy
-  - acquisitions
-  - startup-growth
 title: 百亿企业运营之道：DataBricks的领导力、文化与增长策略
 summary: 本·霍洛维茨和阿里·戈德西深入探讨了DataBricks从初创到百亿级公司的发展历程。他们分享了在危机中做出关键决策、建立高绩效文化、处理并购、以及如何克服挑战并保持团队动力的经验。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- cultural-critique
+- entrepreneurship
+tags:
+- acquisitions
+- business-strategy
+- company-culture
+- leadership
+- startup-growth
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: a16z
+speaker: a16z
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=CWAMH9xMJfg
 status: evergreen
 ---
 ### 卖掉公司还是坚持到底？一个关键时刻的抉择

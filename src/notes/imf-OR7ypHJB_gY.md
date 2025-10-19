@@ -1,25 +1,28 @@
 ---
-author: 一口新飯
-date: '2022-07-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=OR7ypHJB_gY
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - imf
-  - sovereign-debt-crisis
-  - bretton-woods
-  - global-economy
-  - capital-controls
 title: IMF：债务危机的救星、元凶，还是世界经济秩序的缩影？
 summary: 本文深入探讨国际货币基金组织（IMF）在国家债务危机中的角色，分析其备受争议的严苛贷款条件、对“穷国原罪”的定义，及其在国际资本流动和全球经济秩序中的演变与影响。
-insight: ''
+area: market-analysis
+category: finance
+project: []
+tags:
+- bretton-woods
+- capital-controls
+- global-economy
+- imf
+- sovereign-debt-crisis
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2022-07-18'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=OR7ypHJB_gY
 status: evergreen
 ---
 ### 斯里兰卡危机与IMF的争议

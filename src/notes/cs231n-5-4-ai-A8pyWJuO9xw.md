@@ -1,26 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-09-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=A8pyWJuO9xw
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - artificial-intelligence
-  - computer-vision
-  - deep-learning
-  - fei-fei-li
-  - imagenet
 title: 斯坦福CS231N：李飞飞解读5.4亿年视觉进化史与AI智能基石
 summary: 斯坦福大学CS231N课程由李飞飞主讲，串联5.4亿年视觉进化史，探讨视觉如何成为AI智能的基石，回顾计算机视觉发展历程，并展望深度学习、AI伦理与未来应用。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- artificial-intelligence
+- best-partners-tv
+- computer-vision
+- deep-learning
+- fei-fei-li
+- imagenet
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-13'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=A8pyWJuO9xw
 status: evergreen
 ---
 ### 斯坦福CS231N课程概述与核心观点

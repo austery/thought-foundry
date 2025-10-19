@@ -1,25 +1,31 @@
 ---
-author: 一口新飯
-date: '2025-03-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=IpbTVJhTyKg
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - ai-productivity
-  - apple-shortcuts
-  - notetaking-app
-  - speech-to-text
-  - workflow-automation
 title: 闪念笔记2.0：AI驱动的灵感捕捉与高效工作流秘籍
 summary: 本文详细介绍了“闪念笔记2.0”这一AI效率工具的升级功能与使用方法，包括灵感捕捉、AI转录、任务提取、多目标笔记支持及Whisper键盘。同时，分享了作者使用AI工具的三大心得，强调软件适应工作流的重要性及AI作为互动伙伴的定位。
-insight: ''
+area: tech-insights
+category: productivity
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- pkm-research
+tags:
+- ai-productivity
+- apple-shortcuts
+- notetaking-app
+- speech-to-text
+- workflow-automation
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-03-15'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=IpbTVJhTyKg
 status: evergreen
 ---
 ### 闪念笔记2.0：AI驱动的灵感捕捉器

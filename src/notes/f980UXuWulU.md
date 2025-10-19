@@ -1,26 +1,30 @@
 ---
-author: 投资TALK君
-date: '2025-07-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=f980UXuWulU
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - powell-resignation
-  - macro-economics
-  - chip-industry
-  - asml-earnings
-  - bank-of-america
 title: 鲍威尔离职演习、宏观数据与芯片股分析：ASML和美国银行财报解读
 summary: 本期节目探讨了特朗普威胁解雇鲍威尔的市场反应，分析了PPI数据和褐皮书揭示的通胀担忧。同时，深入解读了阿斯麦（ASML）和美国银行的最新财报，评估了ASML的投资价值，并从美国银行财报中洞察了借贷市场与消费者健康状况。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- us-analysis
+tags:
+- asml-earnings
+- bank-of-america
+- chip-industry
+- macro-economics
+- powell-resignation
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-17'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=f980UXuWulU
 status: evergreen
 ---
 ### 市场概览与本期焦点

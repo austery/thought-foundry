@@ -1,26 +1,30 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=HZ611OrdK90
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - argentina-economy
-  - milei-government
-  - us-foreign-policy
-  - economic-reforms
-  - energy-sector
 title: 阿根廷经济困境：美国干预、国内改革与未来挑战
 summary: 本文深入探讨了阿根廷在米莱政府执政期间面临的经济困境。从美国财政部出人意料的金融援助，到国内抑制通膨和实现财政盈余的初步进展，再到国会、司法和工会带来的改革阻力，以及能源产业的长期潜力与短期挑战，全面剖析了阿根廷经济的复杂现状及未来走向。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- us-analysis
+tags:
+- argentina-economy
+- economic-reforms
+- energy-sector
+- milei-government
+- us-foreign-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-13'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=HZ611OrdK90
 status: evergreen
 ---
 ### 阿根廷的经济困境与美国出人意料的干预

@@ -1,27 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-07'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=-6VqXRAxNdA
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - zwift
-  - virtual-cycling
-  - profitability
-  - hardware
-  - ai
 title: Zwift 首席执行官谈论盈利能力与虚拟骑行平台
 summary: Zwift 首席执行官 Eric Min 深入探讨了公司的盈利能力、硬件业务的成功以及未来的产品路线图，特别是人工智能在个性化训练中的应用。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai
+- bloomberg-podcasts
+- hardware
+- profitability
+- t-literature-note
+- virtual-cycling
+- zwift
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-07'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=-6VqXRAxNdA
 status: evergreen
 ---
 ### 智能单车的市场反响

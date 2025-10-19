@@ -1,25 +1,30 @@
 ---
-author: 政經孫老師
-date: '2025-09-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=J31TiOvG3bI
-speaker: 政經孫老師
-tags:
-  - t-literature-note
-  - ai-impact
-  - middle-class-crisis
-  - china-economy
-  - global-unemployment
-  - economic-outlook
 title: AI时代下白领中产的全球困境与中国特殊挑战
 summary: 本文深入探讨全球白领中产面临的人工智能冲击与结构性失业风险，并着重分析中国中产阶层在经济转型、房市股市低迷及就业机会减少下的严峻困境，同时探讨其可能的生存出路。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- china-analysis
+tags:
+- ai-impact
+- china-economy
+- economic-outlook
+- global-unemployment
+- middle-class-crisis
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-11'
+author: 政經孫老師
+speaker: 政經孫老師
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=J31TiOvG3bI
 status: evergreen
 ---
 ### 引言：白领中产的全球与中国困境

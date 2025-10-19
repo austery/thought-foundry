@@ -1,26 +1,30 @@
 ---
-author: EO
-date: '2025-08-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=J_pWyYxu6qE
-speaker: EO
-tags:
-  - t-literature-note
-  - eo
-  - silicon-valley
-  - entrepreneurship
-  - community-building
-  - leadership
-  - ai-innovation
 title: 硅谷三十载：创业、社区与领导力 | Nextdoor 创始人 Nirav Tolia
 summary: Nextdoor创始人Nirav Tolia分享了他在硅谷30年的创业、领导和社区建设经验，强调以人为本、用户价值和AI创新，呼吁利用科技赋能人类发展。
-insight: ''
+area: market-analysis
+category: business
+project:
+- ai-impact-analysis
+- entrepreneurship
+tags:
+- ai-innovation
+- community-building
+- entrepreneurship
+- leadership
+- silicon-valley
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-15'
+author: EO
+speaker: EO
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=J_pWyYxu6qE
 status: evergreen
 ---
 ### 创业之路与Nextdoor的回归

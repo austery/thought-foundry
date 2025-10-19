@@ -1,25 +1,29 @@
 ---
-author: 东京人文论坛
-date: '2025-07-28'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=3KEtLmFQ_s0
-speaker: 东京人文论坛
-tags:
-  - t-literature-note
-  - japanese-xenophobia
-  - cultural-identity
-  - history-of-japan
-  - right-wing-politics
-  - foreigner-experience
 title: 日本人排外真相：历史、制度与文化认同的深层解析
 summary: 贾葭深入探讨日本排外现象，从其悠久历史、独特天皇制度、家族式国家认同、锁国传统及近代右翼思潮等多维度剖析，并结合个人经历反思外国人融入日本社会面临的挑战。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- historical-insights
+tags:
+- cultural-identity
+- foreigner-experience
+- history-of-japan
+- japanese-xenophobia
+- right-wing-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-28'
+author: 东京人文论坛
+speaker: 东京人文论坛
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=3KEtLmFQ_s0
 status: evergreen
 ---
 ### 引言：日本排外现象的观察与思考

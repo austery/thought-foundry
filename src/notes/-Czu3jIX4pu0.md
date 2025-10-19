@@ -1,25 +1,29 @@
 ---
-author: 一口新飯
-date: '2025-05-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Czu3jIX4pu0
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - financial-freedom
-  - wealth-management
-  - frugality
-  - lifestyle-inflation
-  - decision-making
 title: 越有钱越抠门：一种买回自由的财富哲学
 summary: 为什么有钱人反而更“抠门”？本视频探讨了“越有钱越抠门”的财富哲学，分析了财富带来的副作用如生活方式膨胀、心理脆弱及债务风险，并阐释了自由选择的悖论。通过有意识地控制支出比例，实现真正的财务与心理独立，从而获得自由选择的能力。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- decision-making
+- financial-freedom
+- frugality
+- lifestyle-inflation
+- wealth-management
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-11'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Czu3jIX4pu0
 status: evergreen
 ---
 ### 越有钱越抠门：一种有意识的财富选择

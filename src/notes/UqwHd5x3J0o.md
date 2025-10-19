@@ -1,26 +1,31 @@
 ---
-author: 投资TALK君
-date: '2025-07-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=UqwHd5x3J0o
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - market-analysis
-  - cpi-data
-  - powell-resignation
-  - earnings-season
-  - investment-strategy
 title: 鲍威尔辞职传闻、CPI数据与市场展望：本周投资策略分析
 summary: 本期节目深入分析了鲍威尔辞职传闻的真实性及其市场影响，回顾了上周资产走势，并前瞻本周关键CPI、PPI数据及财报季。同时，提供了对关税政策、个股及加密货币的技术面分析，并给出投资策略建议。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+tags:
+- cpi-data
+- earnings-season
+- investment-strategy
+- market-analysis
+- powell-resignation
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-07-13'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=UqwHd5x3J0o
 status: evergreen
 ---
 ### 引言与听众互动

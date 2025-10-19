@@ -1,21 +1,28 @@
 ---
-author: Lei
-channel: null
+title: 桑达尔·皮查伊 (Sundar Pichai) Alphabet CEO 深度访谈逐字稿
+summary: null
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 视频文稿
+people: []
+companies_orgs:
+- 谷歌
+products_models: []
+media_books: []
 date: '2025-05-25'
+author: Lei
+speaker: Sundar Pichai
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Sundar Pichai
-summary: null
-tags:
-- 视频文稿
-- 谷歌
-- 人工智能
-title: 桑达尔·皮查伊 (Sundar Pichai) Alphabet CEO 深度访谈逐字稿
 ---
-
 The All-In Interview 记录
 
 David:

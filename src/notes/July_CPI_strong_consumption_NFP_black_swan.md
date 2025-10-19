@@ -1,23 +1,32 @@
 ---
-author: Lei
-date: 2025-08-10
-guest:
-layout: post.njk
-channel:
-source: ✨【投资TALK君1315期】偷看7月份CPI数据！7月消费异常强劲！探究8月的大非农黑天鹅✨20250810#CPI #nvda #美股 #投资 #英伟达 #ai #特斯拉
-speaker: 小涛
-tags:
-  - 视频文稿
-  - CPI
-  - 非农数据
-  - 美股
-  - 消费数据
 title: 偷看7月份CPI数据！7月消费异常强劲！探究8月的大非农黑天鹅
 summary: 本期内容对上周市场走势和二季度财报进行总结，并深入解读了大非农数据与失业率。分析显示，尽管劳动力市场数据疲软，但美国银行CEO透露7月份消费异常强劲，增速反弹。最后，结合Adobe物价指数等先行指标，对即将公布的7月份CPI数据进行了展望和分析。
-insight:
-file_name: July_CPI_strong_consumption_NFP_black_swan.md
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- us-analysis
+tags:
+- cpi
+- 消费数据
+- 美股
+- 视频文稿
+- 非农数据
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-10
+author: Lei
+speaker: 小涛
+channel: null
 draft: true
-series:
+file_name: July_CPI_strong_consumption_NFP_black_swan.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: ✨【投资TALK君1315期】偷看7月份CPI数据！7月消费异常强劲！探究8月的大非农黑天鹅✨20250810#CPI
 ---
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且周日也要为大家做更新的专业美股日更频道，我是市场分析员小涛。今天内容非常的多，所以大家可以慢慢的听。
 

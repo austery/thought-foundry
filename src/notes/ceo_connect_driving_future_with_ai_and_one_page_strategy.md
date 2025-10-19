@@ -1,25 +1,35 @@
 ---
-author: Lei
-date: 2025-08-15
-guest:
-layout: post.njk
-channel:
-source:
-speaker: CEO
-tags:
-- 视频文稿
-- AI
-- Corporate Strategy
-- Leadership
-- Engagement Survey
 title: CEO Connect Driving Our Future with AI and a One-Page Strategy
-summary: The CEO discusses the latest engagement survey results, emphasizing the critical, multi-billion dollar importance of adopting AI to stay competitive. A new, clear one-page strategic plan is introduced, designed to align the entire company, with the central rally cry to become "better and faster with AI."
-insight:
-file_name: ceo_connect_driving_future_with_ai_and_one_page_strategy.md
+summary: The CEO discusses the latest engagement survey results, emphasizing the critical,
+  multi-billion dollar importance of adopting AI to stay competitive. A new, clear
+  one-page strategic plan is introduced, designed to align the entire company, with
+  the central rally cry to become "better and faster with AI."
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai
+- corporate-strategy
+- engagement-survey
+- leadership
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-15
+author: Lei
+speaker: CEO
+channel: null
 draft: true
-series:
+file_name: ceo_connect_driving_future_with_ai_and_one_page_strategy.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 ---
-
 ## Introduction
 
 Hello everybody, welcome. I will try to keep an eye on the chat a little bit, but talking to myself and checking the chat are hard things to do, so welcome everyone. This is the August CEO Connect. For those of you who haven't been to one of these before, the intent is really to be transparent about what we're doing, share some information and thoughts that I have, and in large part, help with clarity and alignment.

@@ -1,25 +1,31 @@
 ---
-author: 一口新飯
-date: '2025-06-29'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=PZYxnIB076Y
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - robotaxi
-  - tesla-fsd
-  - autonomous-driving
-  - waymo-challenge
-  - ai-investment
 title: 特斯拉Robotaxi奥斯汀试运营：技术、运营与投资前景深度解析
 summary: 本文深度解析特斯拉Robotaxi在奥斯汀的试运营体验，探讨其技术实力、运营策略与Waymo的竞争态势，以及对特斯拉未来增长曲线和投资者影响的独到见解。强调特斯拉纯视觉方案的信心和运营模式的突破。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- investment-strategy
+- us-analysis
+tags:
+- ai-investment
+- autonomous-driving
+- tesla-fsd
+- waymo-challenge
+people: []
+companies_orgs: []
+products_models:
+- robotaxi
+media_books: []
+date: '2025-06-29'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=PZYxnIB076Y
 status: evergreen
 ---
 ### Robotaxi初体验：投资者的“眼见为实”

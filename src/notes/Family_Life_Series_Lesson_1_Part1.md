@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 第一课：夫妻婚后的成长
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 夫妻关系
+- 婚姻成长
+- 宗教
+- 家庭生活
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 李秀全,林静芝
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Z0NUvd24_qs&t=1242s
-speaker: 李秀全,林静芝
-summary: null
-tags:
-- 视频文稿
-- 婚姻成长
-- 家庭生活
-- 夫妻关系
-- 宗教
-title: 第一课：夫妻婚后的成长
 ---
-
 ## 开场白：家庭系列讲座的缘起与负担
 
 李秀全:

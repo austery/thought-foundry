@@ -1,26 +1,31 @@
 ---
-author: 人民公园说AI
-date: '2025-10-12'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=AofjBMX7_RY
-speaker: 人民公园说AI
-tags:
-  - t-literature-note
-  - ai
-  - openai-business-strategy
-  - ai-commercialization
-  - sora-ai-model
-  - amd-partnership
-  - ai-operating-system
 title: 深度解析OpenAI的商业化路径：从AI税到新时代操作系统
 summary: 本期节目深入探讨了OpenAI在商业化方面的雄心壮志，包括其Sora模型的IP授权策略、Agent Kit的生态构建，以及与AMD的创新合作。嘉宾们认为OpenAI正努力打造一个集软硬件、内容与服务于一体的AI帝国，最终目标是创建一个新的操作系统，颠覆现有格局。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- entrepreneurship
+tags:
+- ai
+- ai-commercialization
+- ai-operating-system
+- amd-partnership
+- openai-business-strategy
+- sora-ai-model
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-12'
+author: 人民公园说AI
+speaker: 人民公园说AI
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=AofjBMX7_RY
 status: evergreen
 ---
 ### 引言：OpenAI的商业化野心与行业风向

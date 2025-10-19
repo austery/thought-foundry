@@ -1,26 +1,32 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ETzS3oEZxqA
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - gaza-ceasefire
-  - openai-broadcom-deal
-  - us-china-trade
-  - corporate-earnings
-  - supply-chain-diversification
 title: 加沙停火、OpenAI芯片交易与美国经济展望：彭博商业周刊每日报道
 summary: 本期《彭博商业周刊每日》聚焦以色列与哈马斯停火协议的最新进展、OpenAI与博通的芯片合作，以及美国经济在政府停摆和关税影响下的工业与零售业表现。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- china-analysis
+- us-analysis
+tags:
+- bloomberg-podcasts
+- corporate-earnings
+- gaza-ceasefire
+- openai-broadcom-deal
+- supply-chain-diversification
+- us-china-trade
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ETzS3oEZxqA
 status: evergreen
 ---
 ### 开场与市场概览

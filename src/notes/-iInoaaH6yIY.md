@@ -1,25 +1,29 @@
 ---
-author: 三個水槍手
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iInoaaH6yIY
-speaker: 三個水槍手
-tags:
-  - t-literature-note
-  - cross-strait-relations
-  - chinese-public-opinion
-  - economic-impact
-  - political-leadership
-  - leadership-charisma
 title: 中国民意：武统、经济困境与领导人形象的复杂交织
 summary: 本期节目深入探讨了中国民众对武力统一台湾的真实态度，经济下行对民意的影响，以及民众对最高领导人形象的看法。讨论涵盖了多项民意调查，经济困境如何塑造公众行为，以及领导人个人权威与政治体制之间的张力。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- chinese-public-opinion
+- cross-strait-relations
+- economic-impact
+- leadership-charisma
+- political-leadership
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: 三個水槍手
+speaker: 三個水槍手
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=iInoaaH6yIY
 status: evergreen
 ---
 ### 台湾问题民意调查的解读

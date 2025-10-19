@@ -1,26 +1,31 @@
 ---
-author: Internet of Bugs
-date: '2025-07-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=SwviApWpOT4
-speaker: Internet of Bugs
-tags:
-  - t-literature-note
-  - internet-of-bugs
-  - ai-agents
-  - vibe-coding
-  - code-generation
-  - ai-limitations
-  - software-development
 title: AI智能体“Vibe Coding”：代码质量如何？Claude、Google、OpenAI谁更胜一筹？
 summary: 视频深入探讨了使用AI智能体进行“Vibe Coding”的实际效果，对比了Claude Code、Gemini CLI和OpenAI Codex，揭示了它们的优缺点、局限性，并对AI代码生成能力及其对未来AI发展的影响进行了分析。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai-agents
+- ai-limitations
+- code-generation
+- internet-of-bugs
+- software-development
+- vibe-coding
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-07-11'
+author: Internet of Bugs
+speaker: Internet of Bugs
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=SwviApWpOT4
 status: evergreen
 ---
 ### 智能体“Vibe Coding”的介绍与目的

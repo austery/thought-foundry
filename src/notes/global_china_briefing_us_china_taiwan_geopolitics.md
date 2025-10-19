@@ -1,26 +1,33 @@
 ---
-author: Lei
-date: 2025-08-06
-guest: 
-layout: post.njk
-channel: 
-source: https://www.youtube.com/watch/kkbaME4i0w8
-speaker: 主持人
-tags:
-  - 视频文稿
-  - 中美关系
-  - 台湾问题
-  - 半导体产业
-  - 解放军海军
-  - 地缘政治
 title: 全球中国研究简报：深度解析中美博弈、台湾局势与中国产业政策
 summary: 本文汇总并深度解读了来自全球顶尖智库与媒体的五篇报告，内容涵盖中国半导体产业整合的内部矛盾、针对台湾的法律与心理战、解放军海军的蓝水战略转型、美国对华政策的府会分歧，以及台湾罢免案所揭示的地缘政治意涵，全面展现了当前中国所面临的复杂内外挑战。
-insight: 
-file_name: global_china_briefing_us_china_taiwan_geopolitics.md
+area: market-analysis
+category: geopolitics
+project:
+- geopolitics-watch
+tags:
+- 中美关系
+- 半导体产业
+- 台湾问题
+- 地缘政治
+- 视频文稿
+- 解放军海军
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-06
+author: Lei
+speaker: 主持人
+channel: null
 draft: true
-series: 
+file_name: global_china_briefing_us_china_taiwan_geopolitics.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: https://www.youtube.com/watch/kkbaME4i0w8
 ---
-
 全球中国研究简报是一个汇总全球智库如哈德逊研究中心、CSIS等以及国际媒体如纽约时报、政客新闻网等针对中国的深度分析和报道，还为您搜集分析中国问题的Subject内容。关注全球顶尖思考者对中国问题的关切和分析，在信息爆炸时代帮您选择内容进行深度解读，为希望成为中国问题专家的思考者提供最好的信息。欢迎订阅频道或分享给你的朋友们。
 
 以下是精选的全世界对中国的分析。

@@ -1,26 +1,31 @@
 ---
-author: 一席YiXi
-date: '2025-09-23'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dtYwBznZ4b0
-speaker: 一席YiXi
-tags:
-  - t-literature-note
-  - yixi
-  - folkloristics
-  - tomb-culture
-  - funeral-customs
-  - field-research
-  - japanese-culture
 title: 何彬：追墓三十年——跨文化墓葬研究之旅
 summary: 何彬教授分享其三十余年对墓葬文化的研究历程。她从日本两墓制出发，深入中国南方汉族墓葬，探讨了地理、历史与文化对墓葬形式的影响，并分享了个人治学感悟，强调专注与坚持的重要性。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- cultural-critique
+tags:
+- field-research
+- folkloristics
+- funeral-customs
+- japanese-culture
+- tomb-culture
+people:
+- yixi
+companies_orgs: []
+products_models: []
+media_books:
+- yixi
+date: '2025-09-23'
+author: 一席YiXi
+speaker: 一席YiXi
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=dtYwBznZ4b0
 status: evergreen
 ---
 ### 序言：小众而独特的研究之路

@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: 大问题Dialectic
+title: 当真相无比残酷，我们还应该相信吗？如何进行自我PUA？
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 哲学
+- 实践理由
+- 真相与信念
+- 视频文稿
+- 认知理由
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2024-10-10'
+author: Lei
+speaker: 夏先生
+channel: 大问题Dialectic
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=XXK5wOWh7vM&t
-speaker: 夏先生
-summary: null
-tags:
-- 视频文稿
-- 真相与信念
-- 哲学
-- 认知理由
-- 实践理由
-title: 当真相无比残酷，我们还应该相信吗？如何进行自我PUA？
 ---
-
 讲述者：机器人夏先生1号 (大问题节目主持人)
 
 ## 引言：残酷真相与美好信念的冲突

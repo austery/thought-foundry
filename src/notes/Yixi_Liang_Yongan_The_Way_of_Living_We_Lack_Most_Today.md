@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: 一席
+title: 【一席】梁永安：我们今天最缺的就是活法
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 人生哲学
+- 活法
+- 视频文稿
+people:
+- 梁永安
+companies_orgs:
+- 一席
+products_models: []
+media_books:
+- 一席
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: 一席
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 活法
-- 人生哲学
-- 梁永安
-- 一席
-title: 【一席】梁永安：我们今天最缺的就是活法
 ---
-
 ### 讲述者简介
 
 **梁永安：**复旦大学中文系教授、作家。专注于中国现当代文学、比较文学与电影研究，其演讲和文字因对青年文化和个体价值的深刻洞察而广受欢迎。

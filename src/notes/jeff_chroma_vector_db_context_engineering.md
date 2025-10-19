@@ -1,28 +1,34 @@
 ---
-author: Lei
-date: 2025-08-27
-guest: Jeff
-layout: post.njk
-source: 
-speaker: Alessio, Swyx
+title: Jeff on Building Chroma - From Open-Source Vector DB to Context Engineering
+summary: Chroma founder Jeff discusses the journey of building an open-source vector
+  database, the importance of developer experience, and the emerging discipline of
+  context engineering to make AI applications more like engineering and less like
+  alchemy.
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
 tags:
-- t-literature-note
-- chroma
-- vector-database
 - ai-application
 - developer-experience
-title: Jeff on Building Chroma - From Open-Source Vector DB to Context Engineering
-summary: Chroma founder Jeff discusses the journey of building an open-source vector database, the importance of developer experience, and the emerging discipline of context engineering to make AI applications more like engineering and less like alchemy.
-insight: 
-file_name: jeff_chroma_vector_db_context_engineering.md
+- vector-database
+people: []
+companies_orgs: []
+products_models:
+- chroma
+media_books: []
+date: 2025-08-27
+author: Lei
+speaker: Alessio, Swyx
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: jeff_chroma_vector_db_context_engineering.md
+guest: Jeff
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ## Introduction and Chroma's Origin
 
 Alessio: Hey everyone, welcome to the Latent Space podcast in the new studio. This is Alessio, partner and CTO of Decible, and I'm joined by Swyx, founder of Smol AI.

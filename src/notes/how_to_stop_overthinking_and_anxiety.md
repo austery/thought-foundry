@@ -1,29 +1,31 @@
 ---
-author: Lei
-date: 2025-08-21
-guest: 王哥, Jay, Jeffrey, Vivi, Candy
-layout: post.njk
-source: 
-speaker: Zera
-tags:
-- t-literature-note
-- 焦虑
-- 思虑过多
-- 佛法
-- 修心
-- 放下
 title: 告别思虑过度的内耗：从佛法与心理学中寻找答案
 summary: 探讨如何停止由思虑过度引发的焦虑与内耗，并从个人经历、心理学和佛法智慧中寻找解决方案。
-insight: 
-file_name: stop_overthinking_anxiety_buddhism_psychology.md
+area: null
+category: null
+project: []
+tags:
+- 佛法
+- 修心
+- 思虑过多
+- 放下
+- 焦虑
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-21
+author: Lei
+speaker: Zera
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: stop_overthinking_anxiety_buddhism_psychology.md
+guest: 王哥, Jay, Jeffrey, Vivi, Candy
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evengreen
 ---
-
 ## 开场与焦虑的普遍性
 
 Zera: 可以听见我说话？可以。我现在把我们的问题发到评论区。没关系，我们可以等一会儿。我之前有一场欧洲场，等了很久都没有人，我差点就要关了，结果在最后一秒有人进来了，真是惊险。所以明姐，你那边风景还蛮好的。

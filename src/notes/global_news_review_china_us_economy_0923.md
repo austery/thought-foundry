@@ -1,25 +1,33 @@
 ---
-author: Lei
-date: 2025-09-23
-guest: 
-layout: post.njk
-source: 
-speaker: LT
+title: US-China Tensions, Economic Analysis, and Social Commentary
+summary: A review of key global news, including analysis of US economic data, Trump's
+  UN speech, security spillovers from the Ukraine war, Taiwan's diplomatic maneuvers
+  with chip exports, and a deep dive into China's internal social and political issues
+  like social insurance compliance and the recent crackdown on negative online sentiment.
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
 tags:
-- t-literature-note
 - china-politics
 - economic-commentary
 - geopolitics
 - social-issues
-title: US-China Tensions, Economic Analysis, and Social Commentary
-summary: A review of key global news, including analysis of US economic data, Trump's UN speech, security spillovers from the Ukraine war, Taiwan's diplomatic maneuvers with chip exports, and a deep dive into China's internal social and political issues like social insurance compliance and the recent crackdown on negative online sentiment.
-insight:
-file_name: global_news_review_china_us_economy_0923.md
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-23
+author: Lei
+speaker: LT
 draft: true
-series:
-category:
-area:
-project:
+file_name: global_news_review_china_us_economy_0923.md
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
 ## 美国商业活动增长放缓

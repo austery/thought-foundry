@@ -1,26 +1,31 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jffX2T45zCA
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - argentina-aid
-  - latin-america-policy
-  - brics-challenge
-  - us-politics
-  - foreign-policy
 title: 特朗普论阿根廷援助、BRICS挑战及国内政策
 summary: 本文整理了特朗普对阿根廷、玻利维亚等拉美国家的看法，强调美国援助与当地政治改革的关联。同时，他抨击了BRICS对美元的挑战，并讨论了国内政治、犯罪治理以及对中国、哈马斯的政策。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- us-analysis
+tags:
+- argentina-aid
+- bloomberg-podcasts
+- brics-challenge
+- foreign-policy
+- latin-america-policy
+- us-politics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-14'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=jffX2T45zCA
 status: evergreen
 ---
 ### 拉美盟友与地缘政治机遇

@@ -1,24 +1,28 @@
 ---
-author: How I AI
-date: '2025-10-11'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=bz-POj6myUE
-speaker: How I AI
-tags:
-  - t-literature-note
-  - how-i-ai
-  - t-literature-note
-  - Custom GPT
-  - Concise Writing
 title: 如何利用自定义GPT打造高效写作教练
 summary: 讲话者分享了如何构建一个自定义GPT来优化工作沟通。这个GPT依据简洁写作原则，将冗长的信息精简为清晰、可读且保留个人风格的短消息，显著提升了团队响应效率。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- concise-writing
+- custom-gpt
+- how-i-ai
+- t-literature-note
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-11'
+author: How I AI
+speaker: How I AI
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=bz-POj6myUE
 status: evergreen
 ---
 ### 引入定制化写作助手

@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 关于播客制作的深度对谈：从零到一的经验分享
+summary: null
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 个人成长
+- 内容创作
+- 播客制作
+- 社群
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: null
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 播客制作
-- 内容创作
-- 个人成长
-- 社群
-title: 关于播客制作的深度对谈：从零到一的经验分享
 ---
-
 **讲述者简介**
 
 **主持人Vincent：**新范三人行播客主持人，前软件架构师，现为创业者，热衷于通过对话和活动链接社群，探索不同的人生故事。

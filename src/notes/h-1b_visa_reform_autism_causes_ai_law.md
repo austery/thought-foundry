@@ -1,23 +1,32 @@
 ---
-author: Lei
-date: 2025-09-27
-guest: 
-layout: post.njk
-source: http://www.youtube.com/watch?v=xEaAR0AqMlk
-speaker: All-In Podcast
-tags: [h-1b-visa-reform, autism-causes, political-violence, ai-research, hate-speech-law]
 title: H-1B签证改革、吉米·坎摩尔道歉、自闭症成因与加州仇恨言论法案系统性分析
 summary: 本期节目深度分析了H-1B签证新规及其滥用、自闭症与泰诺的关联性争议、吉米·坎摩尔事件引发的政治暴力文化讨论，以及人工智能的最新突破和加州拟议的仇恨言论法案。
-insight: 
-file_name: h-1b_visa_reform_autism_causes_ai_law
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-research
+- autism-causes
+- h-1b-visa-reform
+- hate-speech-law
+- political-violence
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-27
+author: Lei
+speaker: All-In Podcast
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: h-1b_visa_reform_autism_causes_ai_law
+guest: null
+insight: null
+layout: post.njk
+series: null
+source: http://www.youtube.com/watch?v=xEaAR0AqMlk
 status: evergreen
 ---
-
 ## H-1B签证改革：打击滥用与市场化手段 [00:02:25]
 
 The topic of the week: H-1B visas are being overhauled.

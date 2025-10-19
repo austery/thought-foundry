@@ -1,25 +1,31 @@
 ---
-author: 最佳拍档
-date: '2025-08-26'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=zTdUzh-KVbE
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-chips
-  - fp8-quantization
-  - deep-learning-acceleration
-  - domestic-gpu
-  - cambricon-stock
 title: DeepSeek V3.1与国产芯片：UE8M0 FP8技术深度解析及其行业影响
 summary: 深度解析DeepSeek V3.1模型采用的UE8M0 FP8 Scale参数精度，探讨其技术逻辑、对国产芯片突围的潜在影响，以及在算力、生态和市场方面面临的挑战。文章还对寒武纪等相关概念股的投资风险进行了冷静分析。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- ai-chips
+- cambricon-stock
+- deep-learning-acceleration
+- domestic-gpu
+- fp8-quantization
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-26'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=zTdUzh-KVbE
 status: evergreen
 ---
 ### 引言：DeepSeek V3.1引爆国产算力芯片热潮

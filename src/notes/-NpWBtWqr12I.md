@@ -1,25 +1,30 @@
 ---
-author: 一口新飯
-date: '2023-12-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=NpWBtWqr12I
-speaker: 一口新飯
-tags:
-  - t-literature-note
-  - elon-musk
-  - life-lessons
-  - personal-growth
-  - entrepreneurship
-  - reading-habits
 title: 从埃隆·马斯克传中汲取的三个人生智慧
 summary: 本文结合个人经历，从埃隆·马斯克（Elon Musk）的传记中提炼出三个人生课程：如何面对原生家庭、成为最懂行的外行人，以及做一个务实的理想主义者，旨在为读者提供启发和帮助。
-insight: ''
+area: personal-growth
+category: psychology
+project:
+- entrepreneurship
+- personal-growth-lab
+tags:
+- elon-musk
+- entrepreneurship
+- life-lessons
+- personal-growth
+- reading-habits
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2023-12-16'
+author: 一口新飯
+speaker: 一口新飯
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=NpWBtWqr12I
 status: evergreen
 ---
 ### 引言：马斯克的人生课程

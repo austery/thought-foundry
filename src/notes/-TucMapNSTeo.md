@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=TucMapNSTeo
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - international-law
-  - war-powers
-  - drug-trafficking
-  - legal-theory
 title: 特朗普政府的“反恐战争”：法律边界与辩护困境
 summary: 本文探讨特朗普政府将贩毒分子定性为“非法战斗人员”的法律依据，分析了“自卫”理论的局限性，并讨论了国内及国际层面可能面临的法律挑战和争议。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- drug-trafficking
+- international-law
+- legal-theory
+- t-literature-note
+- war-powers
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=TucMapNSTeo
 status: evergreen
 ---
 ### 特朗普政府将贩毒分子定性为“非法战斗人员”

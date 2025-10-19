@@ -1,26 +1,31 @@
 ---
-author: Bg2 Pod
-date: '2025-10-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=yLTSqBzKG2s
-speaker: Bg2 Pod
-tags:
-  - t-literature-note
-  - bg2-pod
-  - OpenAI Enterprise
-  - GPT-5
-  - AI Agents
-  - Forward Deployed Engineering
-  - Model Customization
 title: OpenAI 平台工程与产品负责人谈企业级应用、GPT-5 及自主性未来
-summary: OpenAI 平台工程和产品负责人 Sherwin Wu 与 Olivier Godement 深入探讨了 OpenAI 企业级业务、客户案例（如 T-Mobile 和 Amgen）、GPT-5 的权衡与反馈，并分析了数字自主性超越物理自主性的技术原因。
-insight: ''
+summary: OpenAI 平台工程和产品负责人 Sherwin Wu 与 Olivier Godement 深入探讨了 OpenAI 企业级业务、客户案例（如
+  T-Mobile 和 Amgen）、GPT-5 的权衡与反馈，并分析了数字自主性超越物理自主性的技术原因。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-agents
+- bg2-pod
+- forward-deployed-engineering
+- model-customization
+- openai-enterprise
+people: []
+companies_orgs: []
+products_models:
+- gpt-5
+media_books: []
+date: '2025-10-06'
+author: Bg2 Pod
+speaker: Bg2 Pod
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=yLTSqBzKG2s
 status: evergreen
 ---
 ### 物理自主性领先数字自主性：2025年的现状与技术根源

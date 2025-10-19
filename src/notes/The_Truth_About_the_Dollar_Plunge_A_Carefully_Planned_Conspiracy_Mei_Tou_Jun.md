@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 美元暴跌的真相：一场精心策划的阳谋？
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 全球经济
+- 投资
+- 美元
+- 视频文稿
+- 贸易战
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 美投君
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 美投君
-summary: null
-tags:
-- 视频文稿
-- 美元
-- 贸易战
-- 投资
-- 全球经济
-title: 美元暴跌的真相：一场精心策划的阳谋？
 ---
-
 ## 川普的政策与全球资本的博弈
 
 ### 引言：市场崩盘与美元的意外走弱

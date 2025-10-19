@@ -1,25 +1,30 @@
 ---
-author: 郭里有范
-date: '2025-08-30'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=iuBffJAS6qg
-speaker: 郭里有范
-tags:
-  - t-literature-note
-  - brics
-  - de-dollarization
-  - trade-war
-  - geopolitics
-  - us-foreign-policy
 title: 川普关税战升级：金砖国家如何应对去美元化挑战？
 summary: 本文深入探讨川普政府升级关税政策对金砖国家的影响，以及这些国家在去美元化浪潮中，如何通过加强内部合作和本币结算来应对挑战，分析金砖组织是“纸老虎”还是“真老虎”。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- geopolitics-watch
+- us-analysis
+tags:
+- brics
+- de-dollarization
+- geopolitics
+- trade-war
+- us-foreign-policy
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-30'
+author: 郭里有范
+speaker: 郭里有范
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=iuBffJAS6qg
 status: evergreen
 ---
 ### 川普的关税威胁与金砖国家的崛起

@@ -1,26 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-09-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=VzVhFQXr8f8
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - technological-futurism
-  - communication-studies
-  - modern-mythology
-  - human-evolution
-  - posthumanism
 title: 科技未来主义：现代神话如何塑造人类未来
 summary: 本文解读詹姆斯·赫里克的《人类未来进化史》，探讨科技未来主义如何作为一种现代神话，通过叙事和传播，影响我们对进步、死亡与未来的理解，并警示其潜在风险。
-insight: ''
+area: tech-insights
+category: technology
+project: []
+tags:
+- communication-studies
+- human-evolution
+- modern-mythology
+- posthumanism
+- stella-an
+- technological-futurism
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-06'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=VzVhFQXr8f8
 status: evergreen
 ---
 ### 传播学视角下的科技未来

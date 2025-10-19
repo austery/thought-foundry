@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: 加拿大ETF投资小组
+title: 个股投资案例分析：Frank的公司股票投资复盘
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+tags:
+- 安全边际
+- 投资
+- 能力圈
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: Lei
+channel: 加拿大ETF投资小组
 guest: Frank, Vivian, Zhao Rui, Wang Will, Alvin
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Lei
-summary: null
-tags:
-- 视频文稿
-- 投资
-- 能力圈
-- 安全边际
-title: 个股投资案例分析：Frank的公司股票投资复盘
 ---
-
 ## 引言：抓住疫情带来的逆向投资机会
 
 **Frank:**

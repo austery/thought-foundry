@@ -1,27 +1,32 @@
 ---
-author: LT視界
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=9yzsxRUslOA
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - t-literature-note
-  - artificial-intelligence
-  - japan-politics
-  - french-politics
-  - china-economy
-  - uk-china-relations
 title: 国师孙立平呼吁关注农村困境，中美关系再起波澜，法国政坛动荡
 summary: 本文梳理了国际国内重要新闻，包括AMD与OpenAI的AI基础设施协议，高市早苗胜选对日本金融市场的影响，法国总理辞职引发政治危机，以及对中国农村困境和中英关系的深度剖析。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+tags:
+- artificial-intelligence
+- china-economy
+- french-politics
+- japan-politics
+- t-literature-note
+- uk-china-relations
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=9yzsxRUslOA
 status: evergreen
 ---
 ### 财经头条：人工智能基础设施投资潮涌

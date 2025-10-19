@@ -1,25 +1,29 @@
 ---
-author: 最佳拍档
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=roAgE4glhqM
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - ai-agent
-  - reinforcement-learning
-  - imitation-learning
-  - meta-ai
-  - experience-learning
 title: AI Agent的经验时代：Meta“早期经验”范式深度解析
 summary: 图灵奖得主Richard Sutton提出AI Agent将迎来经验时代。为解决当前AI Agent过度依赖专家数据、缺乏从试错中学习的问题，Meta研究团队提出“早期经验”范式，通过隐式世界建模和自我反思，让Agent在没有外部奖励下从自身经验中学习成长，显著提升了有效性、泛化性和RL兼容性。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-agent
+- experience-learning
+- imitation-learning
+- meta-ai
+- reinforcement-learning
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=roAgE4glhqM
 status: evergreen
 ---
 ### 引言：AI Agent迈向经验时代

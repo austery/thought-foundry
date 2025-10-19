@@ -1,24 +1,31 @@
 ---
-author: Lei
-channel: null
+title: 《被讨厌的勇气》读书会讨论-亚洲区
+summary: null
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 自我接纳
+- 视频文稿
+- 课题分离
+- 阿德勒心理学
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- 被讨厌的勇气
 date: '2025-07-10'
+author: Lei
+speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel,
+  David
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: Ray, Lichi, Vincent, Winnie, Jay, Kwang, Brian, Eddie, Junian, alex, Daniel,
-  David
-summary: null
-tags:
-- 视频文稿
-- 被讨厌的勇气
-- 阿德勒心理学
-- 课题分离
-- 自我接纳
-title: 《被讨厌的勇气》读书会讨论-亚洲区
 ---
-
 ## 开场与预告
 
 ### Ray:

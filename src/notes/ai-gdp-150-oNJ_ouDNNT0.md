@@ -1,26 +1,31 @@
 ---
-author: All-In Podcast
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=oNJ_ouDNNT0
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - disruptive-innovation
-  - artificial-intelligence
-  - bitcoin
-  - economic-forecast
-  - investment-strategy
 title: 凯茜·伍德：AI如何使GDP翻倍，比特币牛市目标150万美元，以及埃隆的万亿薪酬
 summary: 凯茜·伍德分析了颠覆性创新如何重塑经济，预测AI将加速GDP增长并抑制通胀。她分享了ARK的投资策略，包括比特币和特斯拉的展望，并讨论了零售投资者准入及公司治理等挑战。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- all-in-podcast
+- artificial-intelligence
+- disruptive-innovation
+- economic-forecast
+- investment-strategy
+people: []
+companies_orgs: []
+products_models:
+- bitcoin
+media_books: []
+date: '2025-10-14'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=oNJ_ouDNNT0
 status: evergreen
 ---
 ### 颠覆性创新：经济增长的驱动力

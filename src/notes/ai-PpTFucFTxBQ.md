@@ -1,26 +1,34 @@
 ---
-author: Amit Kukreja
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=PpTFucFTxBQ
-speaker: Amit Kukreja
-tags:
-  - t-literature-note
-  - amit-kukreja
-  - market-recap
-  - china-us-relations
-  - ai-investing
-  - ethereum
-  - precious-metals
 title: 每日市场回顾：中国局势、AI合作、以太坊投资与贵金属热潮
 summary: 本期每日市场回顾探讨了特朗普对华言论后的市场反弹、OpenAI与科技巨头的AI算力合作、Tom Lee对以太坊的大举投资策略、霍华德·马克斯对市场泡沫的看法，以及贵金属因AI需求和美元贬值而飙升的现象。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- ai-investing
+- amit-kukreja
+- china-us-relations
+- market-recap
+- precious-metals
+people: []
+companies_orgs: []
+products_models:
+- ethereum
+media_books: []
+date: '2025-10-13'
+author: Amit Kukreja
+speaker: Amit Kukreja
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=PpTFucFTxBQ
 status: evergreen
 ---
 ### 每日回顾回归：浓缩市场精华

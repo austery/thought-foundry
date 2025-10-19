@@ -1,29 +1,34 @@
 ---
-author: Lei
-date: 2025-09-22
-guest: Lulu Cheng Meservey
-layout: post.njk
-source: 
-speaker: Shane Parish
-tags:
-- t-literature-note
-- communication-strategy
-- storytelling
-- public-relations
-- trust-building
-- crisis-management
 title: How to Build a Cult - Mastering High-Stakes Communication
-summary: Lulu Cheng Meservey explains how founders and leaders can cut through a noisy world by using human stories, conviction, and narrative arcs. She shares frameworks for building trust, establishing deterrence, and effectively responding to public attacks, emphasizing the psychological principles behind powerful communication.
-insight: 
-file_name: how_to_build_cult_lulu_cheng_meservey.md
+summary: Lulu Cheng Meservey explains how founders and leaders can cut through a noisy
+  world by using human stories, conviction, and narrative arcs. She shares frameworks
+  for building trust, establishing deterrence, and effectively responding to public
+  attacks, emphasizing the psychological principles behind powerful communication.
+area: null
+category: null
+project: []
+tags:
+- communication-strategy
+- crisis-management
+- public-relations
+- storytelling
+- trust-building
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-09-22
+author: Lei
+speaker: Shane Parish
 draft: true
-series: 
-category: 
-area: 
-project: 
+file_name: how_to_build_cult_lulu_cheng_meservey.md
+guest: Lulu Cheng Meservey
+insight: null
+layout: post.njk
+series: null
+source: null
 status: evergreen
 ---
-
 ## Introduction: The Challenge of a Noisy World
 
 Host: Lulu, welcome to the podcast.

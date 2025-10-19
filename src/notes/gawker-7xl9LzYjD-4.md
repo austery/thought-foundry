@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7xl9LzYjD-4
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - peter-thiel
-  - gawker
-  - corporate-strategy
-  - media-warfare
-  - organizational-culture
 title: 彼得·蒂尔的复仇：硅谷之王如何以三大战略摧毁Gawker
 summary: 本文深入剖析彼得·蒂尔对媒体Gawker的秘密复仇战。通过极致保密、多线侧翼攻击及切断资金来源，蒂尔团队步步为营。最终，Gawker因其混乱的内部文化而自取灭亡。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- cultural-critique
+tags:
+- corporate-strategy
+- gawker
+- media-warfare
+- organizational-culture
+- peter-thiel
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-14'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7xl9LzYjD-4
 status: evergreen
 ---
 ### 硅谷之王的复仇：一场秘密战争的打响

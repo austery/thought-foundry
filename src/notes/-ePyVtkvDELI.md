@@ -1,26 +1,30 @@
 ---
-author: New York Times Podcasts
-date: '2025-10-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ePyVtkvDELI
-speaker: New York Times Podcasts
-tags:
-  - t-literature-note
-  - new-york-times-podcasts
-  - credit-card-points
-  - travel-hacking
-  - financial-tips
-  - loyalty-programs
-  - points-redemption
 title: 信用卡积分旅行最大化攻略
 summary: 专家分享如何利用信用卡积分最大化旅行优惠，涵盖积分类型、避险策略及有效运用。
-insight: ''
+area: personal-growth
+category: lifestyle
+project:
+- investment-strategy
+tags:
+- credit-card-points
+- financial-tips
+- loyalty-programs
+- new-york-times-podcasts
+- points-redemption
+- travel-hacking
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-10'
+author: New York Times Podcasts
+speaker: New York Times Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ePyVtkvDELI
 status: evergreen
 ---
 ### 节目介绍：用积分实现优惠旅行

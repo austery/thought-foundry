@@ -1,25 +1,31 @@
 ---
-author: 禁書筆記
-date: '2025-09-06'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=dA5k2bcaFsE
-speaker: 禁書筆記
-tags:
-  - t-literature-note
-  - taiwan-us-relations
-  - sino-soviet-split
-  - geopolitics
-  - semiconductor-industry
-  - finlandization
 title: 从冷战历史看台美关系：台湾外交困境与芬兰化路径探析
 summary: 本文通过对比中苏关系破裂的历史，分析台湾当前在美中竞争格局下的外交困境，探讨半导体产业、意识形态分歧及可能的“芬兰化”路径。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- finlandization
+- geopolitics
+- semiconductor-industry
+- sino-soviet-split
+- taiwan-us-relations
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-06'
+author: 禁書筆記
+speaker: 禁書筆記
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=dA5k2bcaFsE
 status: evergreen
 ---
 ### 台湾外交逆风与历史的启示

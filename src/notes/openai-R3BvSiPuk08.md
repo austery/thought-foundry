@@ -1,26 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-09-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=R3BvSiPuk08
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - best-partners-tv
-  - large-language-models
-  - ai-hallucinations
-  - model-evaluation
-  - openai-research
-  - machine-learning
 title: OpenAI论文深度解析：大语言模型幻觉的根源与破解之道
 summary: OpenAI与佐治亚理工联合研究揭示，大语言模型幻觉源于预训练阶段的统计误差传导和后训练阶段的评估机制激励错位。论文提出，通过明确置信度目标和修改主流评估逻辑，可有效引导模型从“盲目猜测”转向“诚实可靠”。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-hallucinations
+- best-partners-tv
+- large-language-models
+- machine-learning
+- model-evaluation
+- openai-research
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-10'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=R3BvSiPuk08
 status: evergreen
 ---
 ### 幻觉之谜：预训练误差与评估错位的必然产物

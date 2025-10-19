@@ -1,26 +1,34 @@
 ---
-author: LT視界
-date: '2025-10-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=WDptn8AtqEA
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - us-china-relations
-  - middle-east-peace
-  - china-economy
-  - geopolitics
-  - market-analysis
 title: 习主席的紧箍咒：中美博弈、中东和平与中国经济困境
 summary: 本文分析中美贸易战降温、川普中东和平行动、美国经济展望，并探讨中国稀土出口管制、地方财政困境及小米车祸事件，揭示多方博弈下的国际与国内挑战。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- geopolitics-watch
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- china-economy
+- geopolitics
+- market-analysis
+- middle-east-peace
+- us-china-relations
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-13'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=WDptn8AtqEA
 status: evergreen
 ---
 ### 财经头条：中美关系与市场动态

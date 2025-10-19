@@ -1,25 +1,29 @@
 ---
-author: 北美王路飞
-date: '2025-09-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=gPluwdaU3T4
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - kamala-harris
-  - us-politics
-  - biden-administration
-  - political-memoir
-  - vice-president
 title: 哈里斯新书揭秘白宫内幕：副总统的忠诚与被压制的声音
 summary: 卡玛拉·哈里斯新书摘要曝光其在白宫的经历。书中她首次公开指出拜登团队的问题，详述自己在白宫的成就如何被雪藏，失态却被放大，以及其对拜登忠诚的复杂心境。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- us-analysis
+tags:
+- biden-administration
+- kamala-harris
+- political-memoir
+- us-politics
+- vice-president
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-14'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=gPluwdaU3T4
 status: evergreen
 ---
 ### 哈里斯新书引发关注：打破沉默与政治困境

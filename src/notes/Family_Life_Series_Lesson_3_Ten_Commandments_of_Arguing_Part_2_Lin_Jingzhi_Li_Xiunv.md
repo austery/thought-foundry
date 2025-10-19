@@ -1,23 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 第三课：吵架十诫 (下)
+summary: null
+area: null
+category: null
+project: []
+tags:
+- 夫妻关系
+- 婚姻关系
+- 宗教
+- 家庭生活
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 林静芝,李秀全
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=F0fT7u99J3g
-speaker: 林静芝,李秀全
-summary: null
-tags:
-- 视频文稿
-- 婚姻关系
-- 家庭生活
-- 夫妻关系
-- 宗教
-title: 第三课：吵架十诫 (下)
 ---
-
 ## 前言：建设性的沟通法则
 
 **林静芝师母:**

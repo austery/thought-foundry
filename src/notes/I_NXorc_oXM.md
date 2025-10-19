@@ -1,25 +1,29 @@
 ---
-author: 郭里有范
-date: '2025-09-13'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=I_NXorc_oXM
-speaker: 郭里有范
-tags:
-  - t-literature-note
-  - myanmar-civil-war
-  - china-foreign-policy
-  - ethnic-armed-organizations
-  - military-junta
-  - wagner-group
 title: 中国在缅甸的深度介入：内战、电诈与“瓦格纳”模式
 summary: 本文深入探讨缅甸复杂内战，分析中国在其中扮演的角色，包括打击电诈、对军政府与民地武的策略，以及通过“安保公司”模式介入的深远影响。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- china-foreign-policy
+- ethnic-armed-organizations
+- military-junta
+- myanmar-civil-war
+- wagner-group
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-13'
+author: 郭里有范
+speaker: 郭里有范
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=I_NXorc_oXM
 status: evergreen
 ---
 ### 缅甸内战的复杂格局与国际关注的缺失

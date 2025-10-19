@@ -1,26 +1,30 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-10-18'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=ZwXKjB8J5yQ
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - cancel-culture
-  - class-struggle-ideology
-  - online-harassment
-  - social-darwinism
-  - power-dynamics
 title: 举报文化与阶级斗争思维：从网络遭遇看中国社会心态
 summary: 主持人安争鸣分享其在网络上因言论而遭遇举报和网暴的经历，深入剖析这种“举报文化”的根源，认为其与从小被灌输的“阶级斗争”思维密切相关，并呼吁人们在行动前多一份思考。
-insight: ''
+area: personal-growth
+category: culture
+project:
+- cultural-critique
+tags:
+- cancel-culture
+- class-struggle-ideology
+- online-harassment
+- power-dynamics
+- social-darwinism
+- stella-an
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-18'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=ZwXKjB8J5yQ
 status: evergreen
 ---
 ### 近期网络奇遇与节目缘起

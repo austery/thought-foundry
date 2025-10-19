@@ -1,21 +1,29 @@
 ---
-author: Lei
-channel: null
+title: Tom Lee投资策略问答报告 Part 2
+summary: null
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- us-analysis
+tags:
+- 投资
+- 美股
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-05'
+author: Lei
+speaker: null
+channel: null
 guest: Tom Lee
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=VIDEO_ID_HERE
-speaker: null
-summary: null
-tags:
-- 视频文稿
-- 投资
-- 美股
-title: Tom Lee投资策略问答报告 Part 2
 ---
-
 ## 问：如何看待特朗普当选对股市的影响？Granny Shots ETF的选股和调仓逻辑是怎样的？
 
 **Tom Lee:** Thank you for the question. Uh first, if you make

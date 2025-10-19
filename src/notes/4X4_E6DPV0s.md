@@ -1,27 +1,33 @@
 ---
-author: Adam's Axiom
-date: '2025-05-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=4X4_E6DPV0s
-speaker: Adam's Axiom
-tags:
-  - t-literature-note
-  - adam-s-axiom
-  - economic-theories
-  - market-failures
-  - government-intervention
-  - monetary-policy
-  - fiscal-policy
-  - rationality
 title: 24分钟速览顶尖经济学理论：从古典到现代的演变
 summary: 本文深入探讨了塑造现代经济思想的十五大顶尖经济学理论，包括古典经济学、凯恩斯主义、马克思主义、奥地利学派、新古典经济学、博弈论、行为经济学、新制度经济学、货币主义、新凯恩斯主义、公共选择理论、现代货币理论、女权主义经济学、生态经济学和供给侧经济学。文章梳理了这些理论的核心原则、演变历程及其对当前经济辩论和政策制定的深远影响。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+tags:
+- adam-s-axiom
+- economic-theories
+- fiscal-policy
+- government-intervention
+- market-failures
+- monetary-policy
+- rationality
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-05-03'
+author: Adam's Axiom
+speaker: Adam's Axiom
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=4X4_E6DPV0s
 status: evergreen
 ---
 ### 古典经济学

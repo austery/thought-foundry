@@ -1,26 +1,33 @@
 ---
-author: FearNation 世界苦茶
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=5kpkKTCE6-4
-speaker: FearNation 世界苦茶
-tags:
-  - t-literature-note
-  - fearnation
-  - us-china-relations
-  - taiwan-politics
-  - xinjiang-human-rights
-  - kmt-strategy
-  - geopolitics
 title: 中美台关系、新疆问题及国民党路线：多维视角下的挑战与反思
 summary: 本文汇集多篇国际智库分析，探讨美台关系在川普时代面临的挑战、中国在新疆的系统性镇压、国民党内部的路线之争，以及中美关系在潜在峰会前的复杂态势，并深入反思各方策略的盲点与深层矛盾。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- ai-impact-analysis
+- china-analysis
+- geopolitics-watch
+- us-analysis
+tags:
+- geopolitics
+- kmt-strategy
+- taiwan-politics
+- us-china-relations
+- xinjiang-human-rights
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- fearnation
+date: '2025-10-15'
+author: FearNation 世界苦茶
+speaker: FearNation 世界苦茶
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=5kpkKTCE6-4
 status: evergreen
 ---
 ### 台湾对美策略的重新校准：川普2.0时代的挑战

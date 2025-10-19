@@ -1,26 +1,30 @@
 ---
-author: INDIGO 数字镜像
-date: '2025-10-10'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=STsehM_nRuQ
-speaker: INDIGO 数字镜像
-tags:
-  - t-literature-note
-  - indigo
-  - stablecoin
-  - creator-economy
-  - gig-economy
-  - ai-agent-economy
-  - cross-border-payment
 title: 重建巴别塔：稳定币如何打破全球协作壁垒——赋能创作者、零工与AI智能体经济
 summary: 本期节目深入探讨稳定币在跨国支付、创作者经济、零工经济及AI智能体经济中的核心价值。嘉宾Shawn分享了AllScale如何通过自托管链上数字银行模式，解决新兴经济体的开户、收款、提款难题，并展望了AI时代机器经济与能源货币的未来。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+tags:
+- ai-agent-economy
+- creator-economy
+- cross-border-payment
+- gig-economy
+people: []
+companies_orgs:
+- indigo
+products_models:
+- stablecoin
+media_books: []
+date: '2025-10-10'
+author: INDIGO 数字镜像
+speaker: INDIGO 数字镜像
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=STsehM_nRuQ
 status: evergreen
 ---
 ### 稳定币：应对全球协作支付难题的新方案

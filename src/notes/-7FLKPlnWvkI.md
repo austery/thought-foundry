@@ -1,26 +1,30 @@
 ---
-author: 大问题Dialectic
-date: '2025-09-04'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=7FLKPlnWvkI
-speaker: 大问题Dialectic
-tags:
-  - t-literature-note
-  - dialectic
-  - aristotelian-ethics
-  - happiness-philosophy
-  - virtue-ethics
-  - eudaimonia
-  - self-realization
 title: 亚里士多德的幸福伦理学：如何实现自我实现的幸福人生？
 summary: 本文深入探讨古希腊哲学家亚里士多德的幸福伦理学，阐述他所归纳的三种生活方式：享乐、荣誉与沉思。通过分析这些生活方式的优劣，亚里士多德最终提出，真正的幸福在于追求德性的生活，即通过积极行动实现自我卓越。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- aristotelian-ethics
+- dialectic
+- eudaimonia
+- happiness-philosophy
+- self-realization
+- virtue-ethics
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-09-04'
+author: 大问题Dialectic
+speaker: 大问题Dialectic
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=7FLKPlnWvkI
 status: evergreen
 ---
 ### 什么是幸福：亚里士多德的哲学探究

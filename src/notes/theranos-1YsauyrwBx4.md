@@ -1,25 +1,28 @@
 ---
-author: 北美王路飞
-date: '2025-09-19'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=1YsauyrwBx4
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - theranos
-  - elizabeth-holmes
-  - sunny-balwani
-  - corporate-fraud
-  - bad-blood
 title: Theranos谎言帝国的升级：女王、暴君与恐惧文化
 summary: 本期深入探讨Theranos如何从内部被恐惧与欺骗侵蚀。在伊丽莎白·霍尔姆斯与桑尼·巴尔瓦尼的领导下，公司不仅对Walgreens和Safeway编织宏大谎言，更在内部建立起严酷的暴君文化，最终导致技术危机与法律诉讼的爆发。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bad-blood
+- corporate-fraud
+- elizabeth-holmes
+- sunny-balwani
+people: []
+companies_orgs:
+- theranos
+products_models: []
+media_books: []
+date: '2025-09-19'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=1YsauyrwBx4
 status: evergreen
 ---
 ### 谎言王国的全面升级

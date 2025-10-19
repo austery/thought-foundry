@@ -1,26 +1,32 @@
 ---
-author: All-In Podcast
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=OQcveYRfZgs
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - financial-crisis
-  - stock-market-crash
-  - economic-history
-  - financial-regulation
-  - andrew-ross-sorkin
 title: 《1929》：安德鲁·罗斯·索尔金解读金融危机与时代教训
 summary: 安德鲁·罗斯·索尔金探讨其新书《1929》，深入剖析1929年股市大崩盘前的经济背景、关键人物及社会心态。他将历史与当前金融市场、科技发展及监管环境进行对比，反思投机、创新、政府支出与社会契约等议题。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- historical-insights
+- investment-strategy
+- market-cycles
+tags:
+- all-in-podcast
+- andrew-ross-sorkin
+- economic-history
+- financial-crisis
+- financial-regulation
+- stock-market-crash
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=OQcveYRfZgs
 status: evergreen
 ---
 ### 《1929》：探寻历史的启示

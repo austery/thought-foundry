@@ -1,26 +1,32 @@
 ---
-author: LT視界
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=J4_UV2Qid-c
-speaker: LT視界
-tags:
-  - t-literature-note
-  - lt
-  - t-literature-note
-  - china-economy
-  - hong-kong-stock-exchange
-  - li-xiaojia
-  - wealth-distribution
 title: 中共掠夺财富真相揭秘：前港交所总裁李小加的惊人言论与中国经济的未来
 summary: 前港交所总裁李小加揭示中国经济模式真相，指出中共掠夺了数十亿农民的财富，并提出偿还欠债是推动中国经济未来的关键。同时，关注美联储利率政策、美国政府关门、日本新首相高市早苗及中俄合作等重要新闻。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+tags:
+- china-economy
+- hong-kong-stock-exchange
+- li-xiaojia
+- t-literature-note
+- wealth-distribution
+people:
+- lt
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: LT視界
+speaker: LT視界
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=J4_UV2Qid-c
 status: evergreen
 ---
 ### 未来一周五大关键经济事件

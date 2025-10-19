@@ -1,26 +1,29 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-08'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=b-VJzpc6ptw
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - t-literature-note
-  - blue-origin
-  - space-exploration
-  - commercial-spaceflight
-  - nasa
 title: 蓝色起源首次载人飞行：太空旅行的商业化与未来展望
 summary: 本文探讨蓝色起源New Shepard首次载人飞行，分析商业太空旅行的兴起、科学探索的意义以及NASA在其中的角色。同时，对比了SpaceX的星舰计划，展望了月球和火星探索的未来。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- bloomberg-podcasts
+- blue-origin
+- commercial-spaceflight
+- space-exploration
+- t-literature-note
+people: []
+companies_orgs:
+- nasa
+products_models: []
+media_books: []
+date: '2025-10-08'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=b-VJzpc6ptw
 status: evergreen
 ---
 ### 商业太空旅行的可能性

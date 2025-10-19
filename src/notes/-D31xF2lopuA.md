@@ -1,26 +1,33 @@
 ---
-author: Bloomberg Podcasts
-date: '2025-10-15'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=D31xF2lopuA
-speaker: Bloomberg Podcasts
-tags:
-  - t-literature-note
-  - bloomberg-podcasts
-  - us-china-trade
-  - monetary-policy
-  - market-volatility
-  - inflation-outlook
-  - credit-markets
 title: 美中贸易紧张局势重燃，鲍威尔暗示再次降息：市场与经济展望
 summary: 本期播客探讨了美中贸易关系再度紧张、关税对通胀的潜在影响，以及美联储的货币政策走向。专家们分析了企业财报、信贷质量担忧，并预计在劳动力市场疲软和流动性收缩的背景下，美联储可能再次降息。
-insight: ''
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- bloomberg-podcasts
+- credit-markets
+- inflation-outlook
+- market-volatility
+- monetary-policy
+- us-china-trade
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-15'
+author: Bloomberg Podcasts
+speaker: Bloomberg Podcasts
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=D31xF2lopuA
 status: evergreen
 ---
 ### 美中贸易紧张局势重燃

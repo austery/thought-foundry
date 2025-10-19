@@ -1,22 +1,29 @@
 ---
-author: Lei
-channel: null
+title: 资深程序员送给你的职业生涯三大忠告
+summary: null
+area: personal-growth
+category: psychology
+project:
+- personal-growth-lab
+tags:
+- 个人成长
+- 程序员
+- 职业生涯
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 原子能
+channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 原子能
-summary: null
-tags:
-- 视频文稿
-- 程序员
-- 职业生涯
-- 个人成长
-title: 资深程序员送给你的职业生涯三大忠告
 ---
-
 ## 引言
 
 大家好，我是原子能。今天的话题是职业生涯。我在直播间和私信里面收到的问题，可以说将近九成都是关于职业生涯的。问我要推荐一下应该学点什么，该干点什么，该去考研、去就职，还是上什么培训班之类等等。

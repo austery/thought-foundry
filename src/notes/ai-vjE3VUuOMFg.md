@@ -1,26 +1,30 @@
 ---
-author: Internet of Bugs
-date: '2025-10-16'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=vjE3VUuOMFg
-speaker: Internet of Bugs
-tags:
-  - t-literature-note
-  - internet-of-bugs
-  - ai-risk
-  - research-critique
-  - immediate-harms
-  - existential-risk
-  - ai-ethics
 title: 驳斥“AI不会毁灭人类”视频评论中的错误研究
 summary: 本视频是对“AI不会毁灭人类”的后续回应，旨在驳斥评论区中关于AI风险的错误研究。作者深入剖析了一项被误读的政治学研究，揭示其方法论缺陷和对关键术语的曲解，强调关注AI已造成的即时危害而非遥远的生存威胁。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- ai-ethics
+- ai-risk
+- existential-risk
+- immediate-harms
+- internet-of-bugs
+- research-critique
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-16'
+author: Internet of Bugs
+speaker: Internet of Bugs
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=vjE3VUuOMFg
 status: evergreen
 ---
 ### 视频引言与背景

@@ -1,23 +1,30 @@
 ---
-author: Lei
-channel: null
+title: 诺华CEO Vas Narasimhan：从医生到全球药企掌舵者，引领创新与变革
+summary: 本期视频采访了诺华（Novartis）首席执行官Vas Narasimhan，他拥有医师背景，曾在一线抗击传染病。视频中他分享了如何带领诺华专注于创新药物研发，通过剥离非核心业务释放价值，并积极拥抱人工智能等前沿科技。他还深入探讨了欧洲制药业面临的挑战、中国创新生态的崛起，以及他对领导力、个人健康和企业文化的深刻见解。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- 人工智能
+- 创新药物
+- 医药行业
+- 视频文稿
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: 2025-07-20
+author: Lei
+speaker: Nicolai Tangen,Vas Narasimhan
+channel: null
 file_name: vas_narasimhan_novartis_ceo_innovation_ai
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=A_z4Jow0c7A&t
-speaker: Nicolai Tangen,Vas Narasimhan
-summary: 本期视频采访了诺华（Novartis）首席执行官Vas Narasimhan，他拥有医师背景，曾在一线抗击传染病。视频中他分享了如何带领诺华专注于创新药物研发，通过剥离非核心业务释放价值，并积极拥抱人工智能等前沿科技。他还深入探讨了欧洲制药业面临的挑战、中国创新生态的崛起，以及他对领导力、个人健康和企业文化的深刻见解。
-tags:
-- 视频文稿
-- 医药行业
-- 创新药物
-- 人工智能
-title: 诺华CEO Vas Narasimhan：从医生到全球药企掌舵者，引领创新与变革
 ---
-
 ## 引言：诺华及其首席执行官的独特背景
 
 **Nicolai Tangen:** Hi everyone, I'm Nicolola Tangan, the CEO of the Norwegian Sovereign Wealth Fund and today I'm in really good company with Vas Narasiman, the CEO of Novartis. Vas has one of the most fascinating backgrounds in pharma. He is a trained physician who also worked on the front lines fighting tuberculosis and malaria in developing countries before rising to lead one of the world's largest pharmaceutical companies. Uh we own 2.3% of Novartis and that's worth more than $5 billion. Roughly 10,000 Norwegian growner per Norwegian citizen. So Vas big thanks for joining us.

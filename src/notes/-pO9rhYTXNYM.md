@@ -1,26 +1,29 @@
 ---
-author: 安争鸣（Stella An）
-date: '2025-06-21'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=pO9rhYTXNYM
-speaker: 安争鸣（Stella An）
-tags:
-  - t-literature-note
-  - stella-an
-  - israel-iran-conflict
-  - mossad
-  - targeted-killing
-  - rise-and-kill-first
-  - middle-east-politics
 title: 从《先发制人》看以色列的暗杀逻辑：为何定点清除无法带来和平？
 summary: 结合《先发制人》一书，探讨以色列情报机构摩萨德的“定点清除”行动，分析其“先发制人”战略的成效、代价，以及对当前以伊冲突的深远影响。
-insight: ''
+area: null
+category: null
+project: []
+tags:
+- israel-iran-conflict
+- middle-east-politics
+- mossad
+- rise-and-kill-first
+- stella-an
+- targeted-killing
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-06-21'
+author: 安争鸣（Stella An）
+speaker: 安争鸣（Stella An）
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=pO9rhYTXNYM
 status: evergreen
 ---
 ### 从一本书谈起：为何关注以伊冲突？

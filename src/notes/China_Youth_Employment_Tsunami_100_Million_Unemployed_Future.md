@@ -1,24 +1,31 @@
 ---
-author: Lei
-channel: 老周横眉
+title: 中国青年就业海啸：1亿人失业的未来？—— 老周横眉
+summary: null
+area: market-analysis
+category: geopolitics
+project:
+- china-analysis
+tags:
+- 中国
+- 失业率
+- 社会问题
+- 经济下行
+- 视频文稿
+- 青年就业
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
 date: '2025-07-10'
+author: Lei
+speaker: 老周
+channel: 老周横眉
 guest: null
 insight: null
 layout: post.njk
 series: null
 source: null
-speaker: 老周
-summary: null
-tags:
-- 视频文稿
-- 中国
-- 青年就业
-- 失业率
-- 经济下行
-- 社会问题
-title: 中国青年就业海啸：1亿人失业的未来？—— 老周横眉
 ---
-
 <div class="speaker-info">
 
 **讲述者：老周横眉**

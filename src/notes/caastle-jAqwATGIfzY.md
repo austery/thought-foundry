@@ -1,25 +1,30 @@
 ---
-author: 北美王路飞
-date: '2025-10-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=jAqwATGIfzY
-speaker: 北美王路飞
-tags:
-  - t-literature-note
-  - corporate-fraud
-  - startup-failure
-  - fashion-tech
-  - investment-scam
-  - due-diligence
 title: 科技女皇的皇帝新衣：CaaStle亿元骗局的始末
 summary: 本文讲述了CaaStle公司CEO克里斯汀·汉西克如何通过伪造财务报表，将一家估值近10亿美元的科技独角兽公司变成一场持续六年的惊天骗局，最终导致破产的商业故事。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- corporate-fraud
+- due-diligence
+- fashion-tech
+- investment-scam
+- startup-failure
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-03'
+author: 北美王路飞
+speaker: 北美王路飞
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=jAqwATGIfzY
 status: evergreen
 ---
 ### 引子：科技女皇的陨落

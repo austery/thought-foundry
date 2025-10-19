@@ -1,26 +1,30 @@
 ---
-author: 最佳拍档
-date: '2025-10-17'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=X3iRGwrkuc4
-speaker: 最佳拍档
-tags:
-  - t-literature-note
-  - rlvr
-  - universal-verifier
-  - reinforcement-learning
-  - generative-ai
-  - llm-as-a-judge
-  - oak-architecture
 title: 通用验证器：AI突破开放领域的关键技术与OaK终极蓝图
 summary: 通用验证器是AI突破二元判断、适应复杂开放世界的关键技术。本文深入探讨了其重要性、当前两大技术路径（大模型当裁判与模型自评）的研究进展，并展望了强化学习之父理查德·萨顿提出的OaK架构，揭示AI未来技术竞赛的核心。
-insight: ''
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+tags:
+- generative-ai
+- llm-as-a-judge
+- oak-architecture
+- reinforcement-learning
+- rlvr
+- universal-verifier
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-10-17'
+author: 最佳拍档
+speaker: 最佳拍档
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=X3iRGwrkuc4
 status: evergreen
 ---
 ### 引言：GPT-5背后的隐藏武器

@@ -1,25 +1,29 @@
 ---
-author: 政經孫老師
-date: '2025-08-25'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=Xgk8DCmH3iU
-speaker: 政經孫老師
-tags:
-  - t-literature-note
-  - china-economy
-  - deflation-spiral
-  - institutional-corruption
-  - economic-collapse
-  - ancient-rome-parallel
 title: 中国深陷通缩螺旋：制度性腐败与经济终结
 summary: 孙老师分析中国经济面临长期制度性通缩螺旋，根源于腐败政府和重税对市场经济的抑制，预示国家可能走向解体。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- china-analysis
+tags:
+- ancient-rome-parallel
+- china-economy
+- deflation-spiral
+- economic-collapse
+- institutional-corruption
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: '2025-08-25'
+author: 政經孫老師
+speaker: 政經孫老師
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=Xgk8DCmH3iU
 status: evergreen
 ---
 ### 中国经济的通缩困境

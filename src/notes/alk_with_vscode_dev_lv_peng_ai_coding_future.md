@@ -1,25 +1,34 @@
 ---
-author: Lei
-date: 2025-08-08
-guest: 吕鹏
-layout: post.njk
-channel: 
-source: https://www.youtube.com/watch?v=3f81GtoN31g&t
-speaker: GeekPlux
-tags:
-  - 视频文稿
-  - AI编程
-  - VS Code
-  - Vibe Coding
-  - 软件工程
 title: 和 VSCode 核心开发吕鹏聊 AI 编程、Vibe Coding 与程序员的未来
-summary: 本期节目邀请了微软 VS Code 团队的 Engineering Manager 吕鹏，深入探讨了 AI 编程工具（如 Copilot）的演进、Vibe Coding 的真正含义、未来程序员角色的转变，以及他从 IC 到 Manager 的个人经历和对工作与生活的思考。
-insight: 
-file_name: talk_with_vscode_dev_lv_peng_ai_coding_future.md
+summary: 本期节目邀请了微软 VS Code 团队的 Engineering Manager 吕鹏，深入探讨了 AI 编程工具（如 Copilot）的演进、Vibe
+  Coding 的真正含义、未来程序员角色的转变，以及他从 IC 到 Manager 的个人经历和对工作与生活的思考。
+area: tech-insights
+category: technology
+project:
+- ai-impact-analysis
+- vibe-coding
+tags:
+- ai编程
+- vibe-coding
+- vs-code
+- 视频文稿
+- 软件工程
+people: []
+companies_orgs: []
+products_models: []
+media_books: []
+date: 2025-08-08
+author: Lei
+speaker: GeekPlux
+channel: null
 draft: true
+file_name: talk_with_vscode_dev_lv_peng_ai_coding_future.md
+guest: 吕鹏
+insight: null
+layout: post.njk
 series: Vibe Coding
+source: https://www.youtube.com/watch?v=3f81GtoN31g&t
 ---
-
 ## 广告时间：Relingo
 
 亲爱的听众和观众朋友们，本期节目又有广告啦。**Relingo** 是一款借助 AI 来帮助你轻松扩大词汇量的工具。它本身提供了很多功能，比如网页查词、高亮显示这种基本的，还有沉浸式翻译、PDF 文档翻译，以及 YouTube、Netflix 等多个视频网站的实时字幕翻译。

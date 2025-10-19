@@ -1,26 +1,32 @@
 ---
-author: 投资TALK君
-date: '2025-10-03'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=qcf5P2hHc-0
-speaker: 投资TALK君
-tags:
-  - t-literature-note
-  - talk
-  - us-stock-market
-  - fiscal-stimulus
-  - employment-data
-  - tesla-valuation
-  - market-sentiment
 title: 川普潜在财政刺激、非农数据展望与特斯拉估值：美股市场深度分析
 summary: 本期分析探讨了美股市场走势、特朗普潜在的关税返还刺激政策、ADP及非农就业数据对美联储降息节奏的影响，并深入剖析了特斯拉交付数据及其未来估值，强调了Robotaxi业务的重要性。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- investment-strategy
+- market-cycles
+- us-analysis
+tags:
+- employment-data
+- fiscal-stimulus
+- market-sentiment
+- tesla-valuation
+- us-stock-market
+people: []
+companies_orgs: []
+products_models: []
+media_books:
+- talk
+date: '2025-10-03'
+author: 投资TALK君
+speaker: 投资TALK君
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=qcf5P2hHc-0
 status: evergreen
 ---
 ### 市场概览与板块表现

@@ -1,26 +1,31 @@
 ---
-author: All-In Podcast
-date: '2025-10-14'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=oNJ_ouDNNT0
-speaker: All-In Podcast
-tags:
-  - t-literature-note
-  - all-in-podcast
-  - artificial-intelligence
-  - bitcoin
-  - disruptive-innovation
-  - investment-strategy
-  - economic-outlook
 title: 凯西·伍德：AI如何驱动GDP增长，比特币百万美元展望，以及埃隆·马斯克的薪酬方案
 summary: ARK Invest创始人凯西·伍德深入探讨颠覆性创新如何加速GDP增长至7%，展望比特币牛市，并分享她对埃隆·马斯克巨额薪酬方案和美国投资环境的看法。
-insight: ''
+area: market-analysis
+category: finance
+project:
+- ai-impact-analysis
+- investment-strategy
+tags:
+- all-in-podcast
+- artificial-intelligence
+- disruptive-innovation
+- economic-outlook
+- investment-strategy
+people: []
+companies_orgs: []
+products_models:
+- bitcoin
+media_books: []
+date: '2025-10-14'
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
+guest: ''
+insight: ''
+layout: post.njk
 series: ''
-category: ''
-area: ''
-project: ''
+source: https://www.youtube.com/watch?v=oNJ_ouDNNT0
 status: evergreen
 ---
 ### 引言：颠覆性创新的投资女王
