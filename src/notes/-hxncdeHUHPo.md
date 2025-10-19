@@ -7,7 +7,6 @@ area: personal-growth
 category: lifestyle
 project: []
 tags:
-- ''
 - pacific-rim-national-park
 - t-literature-note
 - tofino

@@ -6,7 +6,6 @@ category: finance
 project:
 - geopolitics-watch
 tags:
-- ''
 - exclusive-economic-zone
 - geopolitics
 - international-law

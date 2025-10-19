@@ -5,7 +5,6 @@ area: personal-growth
 category: lifestyle
 project: []
 tags:
-- ''
 - attraction
 - canada
 - t-literature-note

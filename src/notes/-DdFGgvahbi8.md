@@ -5,7 +5,6 @@ area: null
 category: null
 project: []
 tags:
-- ''
 - decision-making
 - mind-heart
 - rationality

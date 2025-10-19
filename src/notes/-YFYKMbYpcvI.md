@@ -8,7 +8,6 @@ project:
 - entrepreneurship
 - personal-growth-lab
 tags:
-- ''
 - ai
 - career-path
 - entrepreneurship

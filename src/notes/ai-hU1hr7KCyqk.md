@@ -8,7 +8,6 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- ''
 - ai
 - growth-marketing
 - product-strategy

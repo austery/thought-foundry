@@ -6,7 +6,6 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ''
 - energy-policy
 - nuclear-power
 - strategic-petroleum-reserve

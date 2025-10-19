@@ -5,7 +5,6 @@ area: personal-growth
 category: lifestyle
 project: []
 tags:
-- ''
 - canada
 - garden-city
 - t-literature-note

@@ -7,7 +7,6 @@ project:
 - ai-impact-analysis
 - historical-insights
 tags:
-- ''
 - anglo-russian-great-game
 - dalai-lama
 - political-history

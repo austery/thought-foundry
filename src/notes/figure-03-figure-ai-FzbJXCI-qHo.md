@@ -6,7 +6,6 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ''
 - artificial-intelligence
 - commercial-robotics
 - figure-ai

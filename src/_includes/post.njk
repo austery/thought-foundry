@@ -17,7 +17,9 @@ layout: "base.njk"
       {% if area or category or (project and project.length > 0) %}
         <div class="pkm-taxonomy">
           {% if area %}
-            <p><strong>领域:</strong> <span class="taxonomy-value">{{ area }}</span></p>
+            <p><strong>领域:</strong>
+              <a class="taxonomy-link" href="{{ ('/areas/' + (area | getAreaUniqueKey(collections) | slug) + '/') | url }}">{{ area }}</a>
+            </p>
           {% endif %}
           {% if category %}
             <p><strong>分类:</strong>

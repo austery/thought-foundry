@@ -5,7 +5,6 @@ area: null
 category: null
 project: []
 tags:
-- ''
 - brics
 - de-dollarization
 - india

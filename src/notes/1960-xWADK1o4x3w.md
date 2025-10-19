@@ -7,7 +7,6 @@ project:
 - ai-impact-analysis
 - china-analysis
 tags:
-- ''
 - china-taiwan-relations
 - japan-politics
 - public-opinion

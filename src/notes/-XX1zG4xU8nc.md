@@ -6,7 +6,6 @@ category: geopolitics
 project:
 - geopolitics-watch
 tags:
-- ''
 - economy
 - geopolitics
 - political-reform

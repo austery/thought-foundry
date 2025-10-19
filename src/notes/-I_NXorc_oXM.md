@@ -6,7 +6,6 @@ category: geopolitics
 project:
 - china-analysis
 tags:
-- ''
 - china-foreign-policy
 - mercenary-forces
 - myanmar-conflict

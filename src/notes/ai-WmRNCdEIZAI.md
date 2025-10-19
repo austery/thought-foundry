@@ -7,7 +7,6 @@ project:
 - ai-impact-analysis
 - investment-strategy
 tags:
-- ''
 - ai
 - economy
 - investment
