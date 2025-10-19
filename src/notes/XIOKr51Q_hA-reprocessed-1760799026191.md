@@ -20,8 +20,8 @@ companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-10-18'
-author: N/A
-speaker: N/A
+author: All-In Podcast
+speaker: All-In Podcast
 draft: true
 guest: ''
 insight: ''
