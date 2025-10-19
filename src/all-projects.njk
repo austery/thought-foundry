@@ -1,0 +1,17 @@
+---
+title: "所有专题"
+layout: "default.njk"
+permalink: "/all-projects/"
+---
+
+<h1>所有专题</h1>
+
+<p>按 v7.4 PKM 专题项目组织的内容</p>
+
+<div class="project-list">
+  {% for projectInfo in collections.projectList %}
+    <a href="{{ ('/projects/' + (projectInfo.key | slug) + '/') | url }}" class="project-pill">
+      📂 {{ projectInfo.name }} ({{ projectInfo.posts.length }})
+    </a>
+  {% endfor %}
+</div>

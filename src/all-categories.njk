@@ -1,0 +1,17 @@
+---
+title: "所有分类"
+layout: "default.njk"
+permalink: "/all-categories/"
+---
+
+<h1>所有分类</h1>
+
+<p>按 v7.4 PKM 分类法组织的内容分类</p>
+
+<div class="category-list">
+  {% for categoryInfo in collections.categoryList %}
+    <a href="{{ ('/categories/' + (categoryInfo.key | slug) + '/') | url }}" class="category-pill">
+      🏷️ {{ categoryInfo.name }} ({{ categoryInfo.posts.length }})
+    </a>
+  {% endfor %}
+</div>

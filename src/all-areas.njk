@@ -1,0 +1,25 @@
+---
+layout: "base.njk"
+permalink: "/all-areas/"
+title: "所有领域"
+---
+
+<div class="container">
+<div class="home-layout">
+
+<h1>所有领域</h1>
+
+<p>共 {{ collections.areaList.length }} 个领域</p>
+
+<div class="category-list">
+  {%- for area in collections.areaList | sort(false, false, 'name') -%}
+    <a href="{{ ('/areas/' + (area.key | slug) + '/') | url }}" class="category-pill">
+      🌐 {{ area.name }} ({{ area.posts.length }})
+    </a>
+  {%- endfor -%}
+</div>
+
+<p><a href="{{ '/' | url }}">← 返回首页</a></p>
+
+</div>
+</div>

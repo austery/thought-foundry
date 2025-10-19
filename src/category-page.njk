@@ -1,21 +1,22 @@
 ---
 pagination:
-  data: collections.tagList
+  data: collections.categoryList
   size: 1
-  alias: tagInfo
+  alias: categoryInfo
 layout: "base.njk"
-# 在这里，我们必须对 tagInfo.key 使用 slug 过滤器
-permalink: "/tags/{{ tagInfo.key | slug }}/"
+permalink: "/categories/{{ categoryInfo.key | slug }}/"
 ---
 
 <div class="container">
 
 <div class="home-layout">
 
-<h1>标签：{{ tagInfo.name }}</h1>
+<h1>分类：{{ categoryInfo.name }}</h1>
+
+<p class="category-description">共 {{ categoryInfo.posts.length }} 篇文章</p>
 
 <ul>
-  {%- for item in tagInfo.posts | sort(true, false, 'date') -%}
+  {%- for item in categoryInfo.posts | sort(true, false, 'date') -%}
     <li>
       {# 第一行: 标题 + 徽章 + Speaker + 日期 #}
       <a href="{{ item.url | url }}">{{ item.data.title }}</a>

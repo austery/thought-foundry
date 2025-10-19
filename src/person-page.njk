@@ -1,21 +1,22 @@
 ---
 pagination:
-  data: collections.tagList
+  data: collections.peopleList
   size: 1
-  alias: tagInfo
+  alias: personInfo
 layout: "base.njk"
-# 在这里，我们必须对 tagInfo.key 使用 slug 过滤器
-permalink: "/tags/{{ tagInfo.key | slug }}/"
+permalink: "/people/{{ personInfo.uniqueKey | slug }}/"
 ---
 
 <div class="container">
 
 <div class="home-layout">
 
-<h1>标签：{{ tagInfo.name }}</h1>
+<h1>人物：{{ personInfo.name }}</h1>
+
+<p class="entity-description">共 {{ personInfo.posts.length }} 篇文章提及此人</p>
 
 <ul>
-  {%- for item in tagInfo.posts | sort(true, false, 'date') -%}
+  {%- for item in personInfo.posts | sort(true, false, 'date') -%}
     <li>
       {# 第一行: 标题 + 徽章 + Speaker + 日期 #}
       <a href="{{ item.url | url }}">{{ item.data.title }}</a>
@@ -41,7 +42,7 @@ permalink: "/tags/{{ tagInfo.key | slug }}/"
       {% endif %}
       <br>
 
-      {# 领域、分类和专题部分 - 显示在下一行 (v7.4) - 和首页保持一致 #}
+      {# 领域、分类和专题部分 #}
       {% if item.data.area or item.data.category or (item.data.project and item.data.project.length > 0) %}
         <div class="taxonomy-line">
           {% if item.data.area %}
@@ -64,13 +65,13 @@ permalink: "/tags/{{ tagInfo.key | slug }}/"
         </div>
       {% endif %}
 
-      {# 摘要部分 - 显示内容摘要 #}
+      {# 摘要部分 #}
       {% if item.data.summary %}
         <br>
         <small class="summary-text">📄 {{ item.data.summary }}</small>
       {% endif %}
 
-      {# 洞察部分 - 显示为什么观看这个视频或听这个播客 #}
+      {# 洞察部分 #}
       {% if item.data.insight %}
         <br>
         <small class="insight-text">💡 {{ item.data.insight }}</small>
@@ -78,6 +79,8 @@ permalink: "/tags/{{ tagInfo.key | slug }}/"
     </li>
   {%- endfor -%}
 </ul>
+
+<p><a href="{{ '/' | url }}">← 返回首页</a></p>
 
 </div>
 

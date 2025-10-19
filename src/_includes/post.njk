@@ -13,6 +13,27 @@ layout: "base.njk"
     {# ------------------- 元数据块代码开始 ------------------- #}
 
     <div class="metadata-block">
+      {# PKM 分类法 (v7.4) - 显示在最顶部 #}
+      {% if area or category or (project and project.length > 0) %}
+        <div class="pkm-taxonomy">
+          {% if area %}
+            <p><strong>领域:</strong> <span class="taxonomy-value">{{ area }}</span></p>
+          {% endif %}
+          {% if category %}
+            <p><strong>分类:</strong>
+              <a class="taxonomy-link" href="{{ ('/categories/' + (category | slug) + '/') | url }}">{{ category }}</a>
+            </p>
+          {% endif %}
+          {% if project and project.length > 0 %}
+            <p><strong>专题:</strong>
+              {% for proj in project %}
+                <a class="taxonomy-link" href="{{ ('/projects/' + (proj | slug) + '/') | url }}">{{ proj }}</a>{% if not loop.last %}, {% endif %}
+              {% endfor %}
+            </p>
+          {% endif %}
+        </div>
+      {% endif %}
+
       {# 第一部分：主讲人和来源信息 #}
       {% if speaker %}
         <p><strong>主讲人:</strong>
@@ -77,9 +98,56 @@ layout: "base.njk"
           <div class="insight-content">{{ insight }}</div>
         </div>
       {% endif %}
+    </div>
 
-      {# 关键字部分，我们直接遍历这篇文章的 tags #}
-      {% if tags %}
+    {# ------------------- 元数据块代码结束 ------------------- #}
+
+    {{ content | safe }}
+
+    {# ------------------- 文章末尾元数据开始 ------------------- #}
+
+    {# 实体提取信息 (v7.4) - 使用可折叠区域 #}
+    {% if people or companies_orgs or products_models or media_books %}
+      <div class="entity-section">
+        <details>
+          <summary>📌 文中提及的人物和组织</summary>
+          <div class="entity-content">
+            {% if people and people.length > 0 %}
+              <p><strong>人物:</strong>
+                {% for person in people %}
+                  <a href="{{ ('/people/' + (person | getPersonUniqueKey(collections) | slug) + '/') | url }}" class="entity-link person-link">{{ person }}</a>{% if not loop.last %}, {% endif %}
+                {% endfor %}
+              </p>
+            {% endif %}
+            {% if companies_orgs and companies_orgs.length > 0 %}
+              <p><strong>公司/组织:</strong>
+                {% for company in companies_orgs %}
+                  <a href="{{ ('/companies-orgs/' + (company | getCompanyUniqueKey(collections) | slug) + '/') | url }}" class="entity-link company-link">{{ company }}</a>{% if not loop.last %}, {% endif %}
+                {% endfor %}
+              </p>
+            {% endif %}
+            {% if products_models and products_models.length > 0 %}
+              <p><strong>产品/模型:</strong>
+                {% for product in products_models %}
+                  <a href="{{ ('/products-models/' + (product | getProductUniqueKey(collections) | slug) + '/') | url }}" class="entity-link product-link">{{ product }}</a>{% if not loop.last %}, {% endif %}
+                {% endfor %}
+              </p>
+            {% endif %}
+            {% if media_books and media_books.length > 0 %}
+              <p><strong>媒体/书籍:</strong>
+                {% for media in media_books %}
+                  <a href="{{ ('/media-books/' + (media | getMediaUniqueKey(collections) | slug) + '/') | url }}" class="entity-link media-link">{{ media }}</a>{% if not loop.last %}, {% endif %}
+                {% endfor %}
+              </p>
+            {% endif %}
+          </div>
+        </details>
+      </div>
+    {% endif %}
+
+    {# 关键字部分 - 移到文章正文之后 #}
+    {% if tags %}
+      <div class="tags-section">
         <p><strong>关键字:</strong>
           {% for tag in tags %}
             {% if tag != "post" and tag != "note" and tag != "视频文稿" %}
@@ -87,12 +155,10 @@ layout: "base.njk"
             {% endif %}
           {% endfor %}
         </p>
-      {% endif %}
-    </div>
+      </div>
+    {% endif %}
 
-    {# ------------------- 元数据块代码结束 ------------------- #}
-
-    {{ content | safe }}
+    {# ------------------- 文章末尾元数据结束 ------------------- #}
 
     {# ------------------- 系列相关文章开始 ------------------- #}
     {% if series and series.trim() != '' %}
@@ -133,6 +199,13 @@ layout: "base.njk"
     {# ------------------- 系列相关文章结束 ------------------- #}
   </main>
 
+  {# 全局展开/折叠英文原文按钮 #}
+  <button class="toggle-all-details-btn" id="toggleAllDetailsBtn" aria-label="展开/折叠所有英文原文">
+    <span class="icon">📖</span>
+    <span class="btn-text">展开全部原文</span>
+  </button>
+
 </div>
 
 <script src="{{ '/js/post.js' | url }}"></script>
+<script src="{{ '/js/toggle-details.js' | url }}"></script>

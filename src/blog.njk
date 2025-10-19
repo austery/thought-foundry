@@ -40,14 +40,27 @@ permalink: "/"
           {% endif %}
           <br>
 
-          {# 标签部分 - 显示文章的关键词标签 #}
-          {% if item.data.tags and item.data.tags.length > 0 %}
-            {%- for tag in item.data.tags -%}
-              {%- if tag != "post" and tag != "note" and tag != "视频文稿" -%}
-                <a href="{{ ('/tags/' + (tag | slug) + '/') | url }}" class="tag-link">#{{ tag }}</a>
-                {%- if not loop.last %} {% endif -%}
-              {%- endif -%}
-            {%- endfor -%}
+          {# 领域、分类和专题部分 - 显示在下一行 (v7.4) #}
+          {% if item.data.area or item.data.category or (item.data.project and item.data.project.length > 0) %}
+            <div class="taxonomy-line">
+              {% if item.data.area %}
+                <a href="{{ ('/areas/' + (item.data.area | getAreaUniqueKey(collections) | slug) + '/') | url }}" class="area-badge-inline">
+                  🌐 {{ item.data.area }}
+                </a>
+              {% endif %}
+              {% if item.data.category %}
+                <a href="{{ ('/categories/' + (item.data.category | slug) + '/') | url }}" class="category-badge-inline">
+                  🏷️ {{ item.data.category }}
+                </a>
+              {% endif %}
+              {% if item.data.project and item.data.project.length > 0 %}
+                {% for proj in item.data.project %}
+                  <a href="{{ ('/projects/' + (proj | slug) + '/') | url }}" class="project-badge-inline">
+                    📂 {{ proj }}
+                  </a>
+                {% endfor %}
+              {% endif %}
+            </div>
           {% endif %}
 
           {# 摘要部分 - 显示内容摘要 #}
