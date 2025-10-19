@@ -7,13 +7,13 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- adam-s-axiom
 - capitalism-evolution
 - government-intervention
 - market-distortion
 - wealth-concentration
 - worker-wages
-people: []
+people:
+- adam-s-axiom
 companies_orgs: []
 products_models: []
 media_books: []

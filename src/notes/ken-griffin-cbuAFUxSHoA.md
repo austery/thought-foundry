@@ -7,7 +7,6 @@ project:
 - ai-impact-analysis
 tags:
 - ai
-- bloomberg-podcasts
 - economy
 - inflation
 people:
@@ -15,7 +14,8 @@ people:
 - trump
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-07'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

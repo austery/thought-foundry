@@ -8,10 +8,10 @@ project:
 tags:
 - 9-11-attacks
 - business-leadership
+- resilience
+people:
 - donald-trump
 - howard-lutnick
-- resilience
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

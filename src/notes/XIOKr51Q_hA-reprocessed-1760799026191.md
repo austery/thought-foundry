@@ -9,7 +9,7 @@ project:
 - geopolitics-watch
 - us-analysis
 tags:
-- artificial-intelligence
+- ai
 - economic-policy
 - geopolitics
 - n-a

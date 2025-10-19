@@ -9,8 +9,8 @@ tags:
 - jury-strategy
 - legal-battle
 - media-ethics
+people:
 - peter-thiel
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

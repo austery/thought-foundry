@@ -8,15 +8,15 @@ project:
 - market-cycles
 tags:
 - bank-earnings
-- bloomberg-podcasts
 - financial-markets
-- jpmorgan-chase
-- wells-fargo
 people: []
 companies_orgs:
 - citigroup
+- jpmorgan-chase
+- wells-fargo
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

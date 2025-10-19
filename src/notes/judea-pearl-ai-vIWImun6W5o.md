@@ -6,12 +6,12 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
+- ai
 - causality
 - counterfactual-reasoning
 - critical-thinking
+people:
 - judea-pearl
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

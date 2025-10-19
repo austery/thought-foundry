@@ -10,10 +10,10 @@ tags:
 - economic-indicators
 - federal-reserve
 - government-shutdown
-- joseph-wang
 - labor-market
 - market-weekly
-people: []
+people:
+- joseph-wang
 companies_orgs: []
 products_models: []
 media_books: []

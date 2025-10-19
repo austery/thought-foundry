@@ -7,7 +7,6 @@ project:
 - investment-strategy
 tags:
 - investment-strategy
-- long-term-investing
 - personal-finance
 - wealth-ladder
 people: []

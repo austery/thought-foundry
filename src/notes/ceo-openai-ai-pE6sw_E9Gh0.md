@@ -8,7 +8,6 @@ project:
 - us-analysis
 tags:
 - ai基础设施
-- bg2-pod
 - 美国ai战略
 - 计算扩展定律
 people: []
@@ -16,7 +15,8 @@ companies_orgs:
 - openai
 products_models:
 - hbm
-media_books: []
+media_books:
+- bg2-pod
 date: '2025-10-06'
 author: Bg2 Pod
 speaker: Bg2 Pod

@@ -9,7 +9,7 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- artificial-intelligence
+- ai
 - investment-themes
 - market-shifts
 - tech-investment

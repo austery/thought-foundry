@@ -6,12 +6,11 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
+- ai
 - ai-education
-- andrew-ng
-- artificial-intelligence
 - google-brain
-- machine-learning
-people: []
+people:
+- andrew-ng
 companies_orgs: []
 products_models: []
 media_books: []

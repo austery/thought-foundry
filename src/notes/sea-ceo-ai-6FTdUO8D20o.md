@@ -13,9 +13,9 @@ tags:
 - e-commerce-southeast-asia
 - fintech-innovation
 - norges-bank-investment-management
-- sea-group
 people: []
-companies_orgs: []
+companies_orgs:
+- sea-group
 products_models: []
 media_books: []
 date: '2025-10-15'

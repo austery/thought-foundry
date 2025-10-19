@@ -10,9 +10,9 @@ project:
 tags:
 - china-economy
 - hong-kong-stock-exchange
-- li-xiaojia
 - wealth-distribution
 people:
+- li-xiaojia
 - lt
 companies_orgs: []
 products_models: []

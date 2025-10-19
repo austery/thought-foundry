@@ -10,9 +10,9 @@ tags:
 - ai-chips
 - autonomous-driving
 - dojo-supercomputer
-- elon-musk
 - tesla-ai
-people: []
+people:
+- elon-musk
 companies_orgs: []
 products_models: []
 media_books: []

@@ -6,12 +6,12 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-ethics
+- ai-governance
 - existential-risk
-- geoffrey-hinton
 - societal-impact
 - superintelligence
-people: []
+people:
+- geoffrey-hinton
 companies_orgs: []
 products_models: []
 media_books: []

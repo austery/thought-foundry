@@ -6,10 +6,10 @@ category: geopolitics
 project:
 - geopolitics-watch
 tags:
-- 中美关系
+- geopolitics
+- us-china-relations
 - 半导体产业
 - 台湾问题
-- 地缘政治
 - 视频文稿
 - 解放军海军
 people: []

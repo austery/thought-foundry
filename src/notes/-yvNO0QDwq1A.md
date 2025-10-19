@@ -12,8 +12,8 @@ tags:
 - government
 - history
 - new-york-city
+people:
 - peter-santenello
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

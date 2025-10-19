@@ -7,16 +7,16 @@ project:
 - ai-impact-analysis
 tags:
 - acting-training
-- bloomberg-podcasts
 - chef
 - culinary-producer
 - kitchen-life
 - restaurant-industry
-- the-bear
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
+- the-bear
 date: '2025-10-11'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

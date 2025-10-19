@@ -7,10 +7,10 @@ project: []
 tags:
 - active-listening
 - communication-skills
-- julian-treasure
 - public-speaking
 - self-improvement
-people: []
+people:
+- julian-treasure
 companies_orgs: []
 products_models: []
 media_books: []

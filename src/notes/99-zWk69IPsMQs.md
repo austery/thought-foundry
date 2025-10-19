@@ -8,10 +8,10 @@ project:
 tags:
 - personal-development
 - productivity
+- time-management
+people:
 - richard-hamming
 - sam-altman
-- time-management
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

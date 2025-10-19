@@ -9,12 +9,12 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- artificial-intelligence
-- elon-musk
+- ai
 - ev-market
 - fsd-technology
 - tesla-stock
-people: []
+people:
+- elon-musk
 companies_orgs: []
 products_models: []
 media_books: []

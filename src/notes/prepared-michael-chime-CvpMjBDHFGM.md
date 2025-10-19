@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 tags:
 - 911-emergency
-- artificial-intelligence
+- ai
 - public-safety
 - startup-strategy
 - user-centric-design

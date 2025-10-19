@@ -7,16 +7,16 @@ project:
 - ai-impact-analysis
 - entrepreneurship
 tags:
-- artificial-intelligence
+- ai
 - barry-diller
 - business-strategy
 - media-mogul
 - personal-development
-- the-knowledge-project-podcast
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-knowledge-project-podcast
 date: '2025-09-30'
 author: The Knowledge Project Podcast
 speaker: The Knowledge Project Podcast

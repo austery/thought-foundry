@@ -11,9 +11,9 @@ tags:
 - argentina-economy
 - federal-reserve
 - geopolitics
-- joseph-wang
 - monetary-policy
-people: []
+people:
+- joseph-wang
 companies_orgs: []
 products_models: []
 media_books: []

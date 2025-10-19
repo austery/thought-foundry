@@ -5,16 +5,16 @@ area: null
 category: null
 project: []
 tags:
-- elena-ferrante
 - female-identity
 - motherhood
 - societal-expectations
+people:
+- elena-ferrante
 - stella-an
-- the-lost-daughter
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-lost-daughter
 date: '2025-08-23'
 author: 安争鸣（Stella An）
 speaker: 安争鸣（Stella An）

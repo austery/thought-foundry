@@ -6,7 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- 人工智能
+- ai
 - 视频文稿
 people: []
 companies_orgs: []

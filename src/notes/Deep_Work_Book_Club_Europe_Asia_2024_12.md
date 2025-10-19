@@ -6,8 +6,8 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
+- personal-growth
 - 专注力
-- 个人成长
 - 时间管理
 - 深度工作
 - 视频文稿

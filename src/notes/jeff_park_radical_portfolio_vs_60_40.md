@@ -6,7 +6,7 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 价值投资
+- investment-strategy
 - 投资
 - 比特币
 - 激进投资组合

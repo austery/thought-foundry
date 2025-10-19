@@ -8,10 +8,10 @@ project:
 tags:
 - corporate-culture
 - gawker
-- peter-thiel
 - revenge
 - strategy
-people: []
+people:
+- peter-thiel
 companies_orgs: []
 products_models: []
 media_books: []

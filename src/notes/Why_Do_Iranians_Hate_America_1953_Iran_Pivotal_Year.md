@@ -6,8 +6,8 @@ category: culture
 project:
 - historical-insights
 tags:
+- history
 - 伊朗历史
-- 历史
 - 政治
 - 视频文稿
 people: []

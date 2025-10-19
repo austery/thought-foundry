@@ -9,8 +9,8 @@ tags:
 - ai-agent
 - imitation-learning
 - implicit-world-modeling
+- personal-growth
 - reinforcement-learning
-- self-reflection
 people: []
 companies_orgs: []
 products_models: []

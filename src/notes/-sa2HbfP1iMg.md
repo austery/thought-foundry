@@ -7,11 +7,11 @@ project: []
 tags:
 - biological-evolution
 - evolution-of-language
-- john-mcwhorter
 - linguistic-evolution
 - proto-indo-european
+people:
+- john-mcwhorter
 - richard-dawkins
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

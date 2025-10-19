@@ -11,7 +11,7 @@ project:
 - personal-growth-lab
 - vibe-coding
 tags:
-- artificial-intelligence
+- ai
 - future-of-work
 - platform-shift
 - software-as-a-service

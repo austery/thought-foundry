@@ -6,7 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- 人工智能
+- ai
 - 佛教哲学
 - 全局工作空间理论
 - 意识

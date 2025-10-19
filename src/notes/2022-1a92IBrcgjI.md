@@ -10,7 +10,6 @@ tags:
 - bear-market-learning
 - economic-outlook
 - investment-strategy
-- long-term-investing
 - personal-finance
 people: []
 companies_orgs: []

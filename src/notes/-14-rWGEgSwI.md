@@ -6,12 +6,12 @@ category: null
 project: []
 tags:
 - intellectuals
+- morality
+people:
 - jean-paul-sartre
 - leo-tolstoy
-- morality
 - paul-johnson
 - stella-an
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

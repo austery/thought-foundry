@@ -8,9 +8,9 @@ project:
 tags:
 - business-ethics
 - corporate-fraud
-- elizabeth-holmes
 - whistleblowers
-people: []
+people:
+- elizabeth-holmes
 companies_orgs:
 - theranos
 products_models: []

@@ -6,9 +6,9 @@ category: finance
 project:
 - investment-strategy
 tags:
+- investment-strategy
 - 家庭理财
 - 投资
-- 投资策略
 - 视频文稿
 - 资产管理
 - 风险控制

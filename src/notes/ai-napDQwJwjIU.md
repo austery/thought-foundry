@@ -9,11 +9,11 @@ project:
 - market-cycles
 tags:
 - agi-critique
-- ai-ethics
+- ai-governance
 - collective-intelligence
 - market-design
+people:
 - michael-jordan
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

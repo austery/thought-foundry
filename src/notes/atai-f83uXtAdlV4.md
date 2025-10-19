@@ -8,16 +8,16 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- artificial-intelligence
+- ai
 - biopharmaceutical
-- bloomberg-podcasts
 - earnings-report
 - financial-services
 - stock-market
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-15'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

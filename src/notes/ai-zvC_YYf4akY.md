@@ -6,12 +6,12 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- agentic-ai
-- ai-regulation
+- ai-agent
+- ai-governance
 - ai-safety
 - future-of-ai
+people:
 - yoshua-bengio
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

@@ -8,7 +8,7 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- artificial-intelligence
+- ai
 - fed-monetary-policy
 - macroeconomic-data
 - market-analysis

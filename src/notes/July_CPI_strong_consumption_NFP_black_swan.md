@@ -7,7 +7,7 @@ project:
 - investment-strategy
 - us-analysis
 tags:
-- cpi
+- inflation
 - 消费数据
 - 美股
 - 视频文稿

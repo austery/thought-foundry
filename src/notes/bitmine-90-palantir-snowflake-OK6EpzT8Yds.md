@@ -7,11 +7,11 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- amit-kukreja
 - bitmine
 - regional-banks
 - stock-market
-people: []
+people:
+- amit-kukreja
 companies_orgs:
 - palantir
 - snowflake

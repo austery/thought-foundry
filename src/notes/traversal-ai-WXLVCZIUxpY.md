@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
-- ai-agents
+- ai-agent
 - ai-software-engineering
 - causal-machine-learning
 - site-reliability-engineering

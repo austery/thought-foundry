@@ -8,7 +8,6 @@ project:
 - us-analysis
 tags:
 - argentina-aid
-- bloomberg-podcasts
 - brics-challenge
 - foreign-policy
 - latin-america-policy
@@ -16,7 +15,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -5,12 +5,12 @@ area: null
 category: null
 project: []
 tags:
-- 中美关系
+- finance
+- us-china-relations
 - 人民币国际化
 - 数字货币
 - 稳定币
 - 视频文稿
-- 金融
 people: []
 companies_orgs: []
 products_models: []

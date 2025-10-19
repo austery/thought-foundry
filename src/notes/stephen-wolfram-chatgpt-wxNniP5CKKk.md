@@ -6,11 +6,11 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
+- ai
 - computational-irreducibility
 - neural-networks
+people:
 - stephen-wolfram
-people: []
 companies_orgs: []
 products_models:
 - chatgpt

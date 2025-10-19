@@ -10,8 +10,8 @@ tags:
 - extraterrestrial-life
 - oumuamua
 - scientific-conservatism
+people:
 - stella-an
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

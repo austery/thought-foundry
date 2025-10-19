@@ -10,9 +10,9 @@ project:
 - us-analysis
 tags:
 - k-visa
-- sino-us-relations
 - talent-acquisition
 - tech-war
+- us-china-relations
 people: []
 companies_orgs: []
 products_models: []

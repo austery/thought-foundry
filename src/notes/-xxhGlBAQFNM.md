@@ -10,11 +10,11 @@ project:
 tags:
 - currency-markets
 - global-economy
-- joseph-wang
 - precious-metals
 - rare-earths
 - trade-war
-people: []
+people:
+- joseph-wang
 companies_orgs: []
 products_models: []
 media_books: []

@@ -9,7 +9,6 @@ project:
 - us-analysis
 tags:
 - ai-生产力
-- bg2-pod
 - invest-america-act
 - 人才竞争
 - 财政赤字
@@ -17,7 +16,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bg2-pod
 date: '2025-10-06'
 author: Bg2 Pod
 speaker: Bg2 Pod

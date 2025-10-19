@@ -8,8 +8,8 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- cpi
 - federal-reserve
+- inflation
 - investment-strategy
 - market-analysis
 - us-economy

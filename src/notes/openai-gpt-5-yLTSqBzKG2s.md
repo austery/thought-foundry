@@ -7,8 +7,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-agents
-- bg2-pod
+- ai-agent
 - forward-deployed-engineering
 - model-customization
 - openai-enterprise
@@ -16,7 +15,8 @@ people: []
 companies_orgs: []
 products_models:
 - gpt-5
-media_books: []
+media_books:
+- bg2-pod
 date: '2025-10-06'
 author: Bg2 Pod
 speaker: Bg2 Pod

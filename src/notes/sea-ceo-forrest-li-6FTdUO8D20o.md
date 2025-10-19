@@ -8,14 +8,14 @@ project:
 - cultural-critique
 - investment-strategy
 tags:
-- artificial-intelligence
+- ai
 - corporate-culture
 - e-commerce
-- forrest-li
 - norges-bank-investment-management
+people:
+- forrest-li
+companies_orgs:
 - sea-group
-people: []
-companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-10-15'

@@ -7,7 +7,6 @@ project:
 - china-analysis
 - us-analysis
 tags:
-- bloomberg-podcasts
 - clean-tech
 - energy-transition
 - fossil-fuels
@@ -16,7 +15,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

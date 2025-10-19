@@ -8,13 +8,12 @@ project:
 - market-cycles
 tags:
 - federal-reserve
-- fomc-meeting
 - inflation
 - interest-rates
-- joseph-wang
 - labor-market
 - tariffs
-people: []
+people:
+- joseph-wang
 companies_orgs: []
 products_models: []
 media_books: []

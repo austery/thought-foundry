@@ -8,13 +8,13 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- adam-s-axiom
 - economic-history
 - economic-theory
 - market-mechanisms
 - resource-allocation
 - social-welfare
-people: []
+people:
+- adam-s-axiom
 companies_orgs: []
 products_models: []
 media_books: []

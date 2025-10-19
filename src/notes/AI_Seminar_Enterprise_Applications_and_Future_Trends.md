@@ -6,7 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- 人工智能
+- ai
 - 企业应用
 - 商业策略
 - 技术创新

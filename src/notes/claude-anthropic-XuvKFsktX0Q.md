@@ -6,10 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- agentic-ai
-- ai-agents
+- ai-agent
 - claude-developer-platform
-- large-language-models
+- llm
 people: []
 companies_orgs: []
 products_models: []

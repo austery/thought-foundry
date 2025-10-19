@@ -13,7 +13,7 @@ tags:
 - ai-investment
 - earnings-season
 - financial-outlook
-- stock-market-analysis
+- market-analysis
 - us-china-relations
 people: []
 companies_orgs: []

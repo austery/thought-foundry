@@ -7,16 +7,16 @@ project:
 - ai-impact-analysis
 - investment-strategy
 tags:
-- bloomberg-podcasts
 - consumer-behavior
 - financial-performance
-- levi-strauss
 - supply-chain
 - tariffs
 people: []
-companies_orgs: []
+companies_orgs:
+- levi-strauss
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-13'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

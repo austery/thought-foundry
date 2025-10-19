@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 tags:
 - '101'
-- artificial-intelligence
+- ai
 - biotechnology
 - crispr
 - gene-editing

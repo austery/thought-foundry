@@ -8,7 +8,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
+- ai
 - economic-outlook
 - middle-class-crisis
 - social-commentary

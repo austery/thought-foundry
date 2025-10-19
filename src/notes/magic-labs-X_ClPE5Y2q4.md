@@ -7,7 +7,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-agents
+- ai-agent
 - blockchain-technology
 - startup-journey
 - user-experience

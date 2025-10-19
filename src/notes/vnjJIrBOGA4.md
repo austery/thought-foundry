@@ -9,11 +9,10 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- cpi-data
-- elon-musk
 - us-china-tariffs
 - us-stock-market
-people: []
+people:
+- elon-musk
 companies_orgs: []
 products_models:
 - stablecoin

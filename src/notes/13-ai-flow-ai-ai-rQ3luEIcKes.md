@@ -7,8 +7,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
+- ai
 - ai-agent
-- artificial-intelligence
 - flow-ai
 - startup-challenges
 - teenage-entrepreneur

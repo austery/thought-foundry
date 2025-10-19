@@ -8,15 +8,15 @@ project:
 - market-cycles
 tags:
 - bank-earnings
-- bloomberg-podcasts
+- economic-outlook
 - european-politics
 - federal-reserve
-- market-outlook
 - trade-war
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-15'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -7,7 +7,6 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- cpi-data
 - earnings-season
 - investment-strategy
 - market-analysis

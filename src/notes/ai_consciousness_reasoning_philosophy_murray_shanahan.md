@@ -6,8 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- 人工智能
-- 哲学
+- ai
+- philosophy
 - 意识
 - 推理
 - 视频文稿

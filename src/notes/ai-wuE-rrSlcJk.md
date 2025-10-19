@@ -6,11 +6,11 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
+- ai
 - google-brain
-- jeff-dean
 - neural-networks
-people: []
+people:
+- jeff-dean
 companies_orgs: []
 products_models:
 - tpu

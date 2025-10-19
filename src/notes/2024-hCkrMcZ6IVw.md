@@ -6,12 +6,12 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-- donald-trump
 - hunter-biden-trial
-- joe-biden
 - political-legal-challenge
 - us-election-2024
-people: []
+people:
+- donald-trump
+- joe-biden
 companies_orgs: []
 products_models: []
 media_books: []

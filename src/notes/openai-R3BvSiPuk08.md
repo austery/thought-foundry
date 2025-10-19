@@ -6,16 +6,16 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-hallucinations
-- best-partners-tv
-- large-language-models
-- machine-learning
+- ai
+- ai-limitation
+- llm
 - model-evaluation
 - openai-research
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-10'
 author: 最佳拍档
 speaker: 最佳拍档

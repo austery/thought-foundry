@@ -9,12 +9,12 @@ project:
 - market-cycles
 tags:
 - ai-industry
-- amit-kukreja
 - earnings-report
 - energy-demand
 - market-analysis
 - semiconductors
-people: []
+people:
+- amit-kukreja
 companies_orgs: []
 products_models: []
 media_books: []

@@ -6,7 +6,6 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- bloomberg-podcasts
 - industrial-sector
 - pricing-strategy
 - supply-chain-diversification
@@ -15,7 +14,8 @@ people: []
 companies_orgs:
 - fastenal
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-13'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

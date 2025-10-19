@@ -6,12 +6,10 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- abundance-mindset
 - life-philosophy
 - personal-growth
-- self-reflection
+people:
 - wang-yangming
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

@@ -5,15 +5,15 @@ area: null
 category: null
 project: []
 tags:
-- bloomberg-podcasts
 - commercial-real-estate
 - consumer-spending
-- jpmorgan-chase
 - wall-street
 people: []
-companies_orgs: []
+companies_orgs:
+- jpmorgan-chase
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-08'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

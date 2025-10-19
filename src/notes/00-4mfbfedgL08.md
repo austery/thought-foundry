@@ -11,9 +11,9 @@ tags:
 - japan-society
 - popular-culture
 - social-change
-- stella-an
 - youth-culture
-people: []
+people:
+- stella-an
 companies_orgs: []
 products_models: []
 media_books: []

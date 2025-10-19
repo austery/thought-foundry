@@ -9,8 +9,8 @@ tags:
 - learning-creativity
 - peak-performance
 - personal-development
+people:
 - steven-kotler
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

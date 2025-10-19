@@ -6,12 +6,12 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
+- ai
 - causal-inference
 - data-science
-- judea-pearl
 - statistical-bias
-people: []
+people:
+- judea-pearl
 companies_orgs: []
 products_models: []
 media_books: []

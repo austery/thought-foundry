@@ -6,7 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- 人工智能
+- ai
 - 人类价值
 - 尤瓦尔·赫拉利
 - 情感

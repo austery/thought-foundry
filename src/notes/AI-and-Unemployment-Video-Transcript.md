@@ -6,7 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- 人工智能
+- ai
 - 卢德运动
 - 技术变革
 - 视频文稿

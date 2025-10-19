@@ -7,11 +7,11 @@ project:
 - us-analysis
 tags:
 - 2024-election
+- us-politics
+people:
 - donald-trump
 - joe-biden
 - kamala-harris
-- us-politics
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

@@ -9,9 +9,9 @@ tags:
 - creative-writing
 - economic-independence
 - feminism
+people:
 - stella-an
 - virginia-woolf
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

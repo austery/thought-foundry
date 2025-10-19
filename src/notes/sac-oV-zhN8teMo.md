@@ -8,11 +8,11 @@ project:
 tags:
 - financial-crime
 - insider-trading
-- sac-capital
-- steven-cohen
 - whistleblower
-people: []
-companies_orgs: []
+people:
+- steven-cohen
+companies_orgs:
+- sac-capital
 products_models: []
 media_books: []
 date: '2025-09-28'

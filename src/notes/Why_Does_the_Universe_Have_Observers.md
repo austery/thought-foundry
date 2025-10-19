@@ -5,8 +5,8 @@ area: personal-growth
 category: culture
 project: []
 tags:
+- philosophy
 - 人择原理
-- 哲学
 - 宇宙论
 - 玻尔兹曼大脑
 - 视频文稿

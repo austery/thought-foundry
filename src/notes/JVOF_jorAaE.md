@@ -5,13 +5,13 @@ area: market-analysis
 category: finance
 project: []
 tags:
-- adam-s-axiom
 - capitalism-reimagined
 - consumer-impact
 - division-of-labor
 - economic-philosophy
 - invisible-hand
-people: []
+people:
+- adam-s-axiom
 companies_orgs: []
 products_models: []
 media_books: []

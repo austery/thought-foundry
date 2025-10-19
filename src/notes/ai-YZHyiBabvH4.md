@@ -11,7 +11,6 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- bloomberg-podcasts
 - commodity-markets
 - european-ai-strategy
 - geopolitics
@@ -20,7 +19,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -11,7 +11,6 @@ tags:
 - federal-reserve
 - financial-markets
 - investment-strategy
-- long-term-investing
 people: []
 companies_orgs: []
 products_models: []

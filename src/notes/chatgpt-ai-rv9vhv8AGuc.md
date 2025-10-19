@@ -10,8 +10,8 @@ tags:
 - ai-philosophy
 - artificial-general-intelligence
 - reinforcement-learning
+people:
 - richard-sutton
-people: []
 companies_orgs: []
 products_models:
 - chatgpt

@@ -8,13 +8,13 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- amit-kukreja
 - geopolitics
 - investment-strategies
 - market-analysis
 - stock-performance
 - tech-industry
-people: []
+people:
+- amit-kukreja
 companies_orgs: []
 products_models: []
 media_books: []

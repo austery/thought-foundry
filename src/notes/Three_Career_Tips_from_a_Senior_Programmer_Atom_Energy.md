@@ -6,7 +6,7 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- 个人成长
+- personal-growth
 - 程序员
 - 职业生涯
 - 视频文稿

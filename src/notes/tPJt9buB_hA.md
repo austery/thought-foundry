@@ -7,7 +7,6 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- adam-s-axiom
 - capitalism-future
 - esg-investing
 - financial-technology
@@ -19,6 +18,7 @@ people:
 - Ken Griffin
 - Larry Fink
 - Ray Dalio
+- adam-s-axiom
 companies_orgs:
 - BlackRock
 - Bridgewater Associates

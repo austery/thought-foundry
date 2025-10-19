@@ -8,9 +8,9 @@ project:
 - market-cycles
 tags:
 - earnings-outlook
-- fed-policy
 - labor-market
 - market-analysis
+- monetary-policy
 - technical-indicators
 people: []
 companies_orgs: []

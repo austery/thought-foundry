@@ -5,12 +5,11 @@ area: null
 category: null
 project: []
 tags:
-- cpi-data
-- donald-trump
 - federal-reserve
 - interest-rates
+people:
+- donald-trump
 - jerome-powell
-people: []
 companies_orgs: []
 products_models: []
 media_books:

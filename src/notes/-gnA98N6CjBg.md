@@ -5,7 +5,6 @@ area: personal-growth
 category: lifestyle
 project: []
 tags:
-- big-think
 - gender-gaps-education
 - male-mental-health
 - non-toxic-masculinity
@@ -14,7 +13,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- big-think
 date: '2025-10-11'
 author: Big Think
 speaker: Big Think

@@ -7,12 +7,12 @@ project:
 - ai-impact-analysis
 - historical-insights
 tags:
+- ai
 - ai-history
 - convolutional-neural-network
-- deep-learning
 - open-source-ai
+people:
 - yann-lecun
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

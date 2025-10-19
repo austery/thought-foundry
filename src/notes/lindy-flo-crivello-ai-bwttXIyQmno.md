@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 - entrepreneurship
 tags:
-- ai-agents
+- ai-agent
 - entrepreneurship
 - leadership
 - product-development

@@ -11,7 +11,7 @@ project:
 tags:
 - economic-data
 - investment-strategy
-- market-sentiment
+- market-analysis
 - trade-policy
 - us-stock-market
 people: []

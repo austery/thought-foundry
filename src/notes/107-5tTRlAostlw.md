@@ -7,10 +7,10 @@ project:
 - us-analysis
 tags:
 - democratic-party-politics
-- kamala-harris
 - political-memoir
 - us-presidential-election
-people: []
+people:
+- kamala-harris
 companies_orgs: []
 products_models: []
 media_books: []

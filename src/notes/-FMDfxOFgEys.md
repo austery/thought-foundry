@@ -12,8 +12,8 @@ tags:
 - consumer-rights
 - food-safety
 - freedom-of-speech
+people:
 - luo-yonghao
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

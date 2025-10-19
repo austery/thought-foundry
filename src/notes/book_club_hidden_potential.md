@@ -6,8 +6,8 @@ project:
 - ai-impact-analysis
 - personal-growth-lab
 tags:
-- 个人成长
-- 人工智能
+- ai
+- personal-growth
 - 学习方法
 - 视频文稿
 people: []

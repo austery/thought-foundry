@@ -10,11 +10,11 @@ tags:
 - mindset-shift
 - personal-growth
 - self-acceptance
-- the-courage-to-be-disliked
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-courage-to-be-disliked
 date: '2025-07-12'
 author: 一口新飯
 speaker: 一口新飯

@@ -7,11 +7,11 @@ project: []
 tags:
 - all-in-podcast
 - biological-age
-- bryan-johnson
 - health-hacks
 - longevity
 - sleep-optimization
-people: []
+people:
+- bryan-johnson
 companies_orgs: []
 products_models: []
 media_books: []

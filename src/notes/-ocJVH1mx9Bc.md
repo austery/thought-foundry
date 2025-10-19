@@ -5,7 +5,6 @@ area: market-analysis
 category: finance
 project: []
 tags:
-- bloomberg-podcasts
 - electric-vehicles
 - kentucky-economy
 - manufacturing
@@ -14,7 +13,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-13'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -5,11 +5,11 @@ area: null
 category: null
 project: []
 tags:
-- elizabeth-holmes
 - silicon-valley-fraud
-- tyler-shultz
 - whistleblower
-people: []
+people:
+- elizabeth-holmes
+- tyler-shultz
 companies_orgs:
 - theranos
 products_models: []

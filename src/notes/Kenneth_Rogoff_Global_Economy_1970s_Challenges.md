@@ -5,7 +5,7 @@ area: market-analysis
 category: finance
 project: []
 tags:
-- 经济
+- economy
 - 美元
 - 视频文稿
 people: []

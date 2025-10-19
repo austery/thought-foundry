@@ -6,12 +6,12 @@ category: null
 project: []
 tags:
 - cosmology
-- harald-lesch
 - humanism
 - meaning-of-life
 - philosophy-of-science
+people:
+- harald-lesch
 - stella-an
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

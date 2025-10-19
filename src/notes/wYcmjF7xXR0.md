@@ -10,7 +10,7 @@ project:
 tags:
 - bitcoin-analysis
 - investment-strategy
-- market-sentiment
+- market-analysis
 - tariffs
 - us-treasury-bonds
 people: []

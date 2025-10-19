@@ -8,7 +8,7 @@ project:
 - investment-strategy
 tags:
 - ai投资分析
-- 价值投资
+- investment-strategy
 - 投资
 - 视频文稿
 people:

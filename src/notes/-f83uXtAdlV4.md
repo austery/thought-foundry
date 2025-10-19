@@ -9,7 +9,6 @@ project:
 - market-cycles
 tags:
 - ai-collaboration
-- bloomberg-podcasts
 - earnings-report
 - market-analysis
 - pharmaceuticals
@@ -17,7 +16,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-15'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

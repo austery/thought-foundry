@@ -8,9 +8,9 @@ tags:
 - gawker
 - legal-battle
 - media-ethics
-- peter-thiel
 - revenge
-people: []
+people:
+- peter-thiel
 companies_orgs: []
 products_models: []
 media_books: []

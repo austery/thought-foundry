@@ -6,14 +6,14 @@ category: null
 project: []
 tags:
 - dictatorship
+people:
 - mario-vargas-llosa
 - rafael-trujillo
 - stella-an
-- the-feast-of-the-goat
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-feast-of-the-goat
 date: '2025-06-14'
 author: 安争鸣（Stella An）
 speaker: 安争鸣（Stella An）

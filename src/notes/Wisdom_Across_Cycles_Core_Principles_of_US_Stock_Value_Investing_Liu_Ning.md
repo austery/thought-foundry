@@ -7,8 +7,7 @@ project:
 - investment-strategy
 - us-analysis
 tags:
-- 价值投资
-- 投资策略
+- investment-strategy
 - 美股投资
 - 视频文稿
 - 风险控制

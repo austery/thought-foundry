@@ -8,10 +8,10 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- agentic-ai
+- ai-agent
 - ai-memory-tool
 - claude-sonnet-4-5
-- large-language-models
+- llm
 people: []
 companies_orgs: []
 products_models: []

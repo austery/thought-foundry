@@ -5,15 +5,15 @@ area: null
 category: null
 project: []
 tags:
-- bad-blood
 - corporate-fraud
+people:
 - elizabeth-holmes
 - sunny-balwani
-people: []
 companies_orgs:
 - theranos
 products_models: []
-media_books: []
+media_books:
+- bad-blood
 date: '2025-09-19'
 author: 北美王路飞
 speaker: 北美王路飞

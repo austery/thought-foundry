@@ -10,7 +10,7 @@ project:
 tags:
 - fed-monetary-policy
 - investment-strategy
-- market-sentiment
+- market-analysis
 - risk-management
 - us-stock-market
 people: []

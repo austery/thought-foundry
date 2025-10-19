@@ -6,7 +6,6 @@ category: null
 project: []
 tags:
 - baby-bonuses
-- bloomberg-podcasts
 - corporate-social-responsibility
 - demographic-crisis
 - fertility-rate
@@ -14,7 +13,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

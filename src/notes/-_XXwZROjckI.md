@@ -7,13 +7,13 @@ category: culture
 project:
 - cultural-critique
 tags:
-- peter-santenello
 - 城市生活
 - 多元文化
 - 实地探访
 - 纽约
 - 经济压力
-people: []
+people:
+- peter-santenello
 companies_orgs: []
 products_models: []
 media_books: []

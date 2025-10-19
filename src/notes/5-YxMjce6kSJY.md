@@ -8,14 +8,14 @@ project:
 tags:
 - border-czar
 - fbi-investigation
-- new-york-times-podcasts
 - political-corruption
-- tom-homeman
 - trump-administration
-people: []
+people:
+- tom-homeman
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- new-york-times-podcasts
 date: '2025-10-15'
 author: New York Times Podcasts
 speaker: New York Times Podcasts

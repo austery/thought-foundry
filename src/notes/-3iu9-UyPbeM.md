@@ -7,10 +7,10 @@ project:
 - ai-impact-analysis
 - historical-insights
 tags:
-- ai-ethics
+- ai
+- ai-governance
 - artificial-intelligence-history
 - connectionism
-- deep-learning
 - symbolic-ai
 people: []
 companies_orgs: []

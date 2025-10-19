@@ -6,7 +6,7 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- 心理学
+- psychology
 - 斯多葛主义
 - 视频文稿
 people: []

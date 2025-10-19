@@ -10,7 +10,7 @@ project:
 tags:
 - employment-data
 - fiscal-stimulus
-- market-sentiment
+- market-analysis
 - tesla-valuation
 - us-stock-market
 people: []

@@ -9,11 +9,11 @@ project:
 tags:
 - culture
 - new-york-city
-- peter-santenello
 - staten-island
 - urban-exploration
 - us-travel
-people: []
+people:
+- peter-santenello
 companies_orgs: []
 products_models: []
 media_books: []

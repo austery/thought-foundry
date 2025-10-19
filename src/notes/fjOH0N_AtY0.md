@@ -11,7 +11,6 @@ tags:
 - bond-market
 - investment-strategy
 - market-analysis
-- market-sentiment
 - us-stock-market
 people: []
 companies_orgs: []

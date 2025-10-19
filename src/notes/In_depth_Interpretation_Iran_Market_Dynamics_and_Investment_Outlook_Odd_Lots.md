@@ -7,9 +7,9 @@ project:
 - geopolitics-watch
 - investment-strategy
 tags:
+- geopolitics
 - 伊朗经济
 - 制裁
-- 地缘政治
 - 投资前景
 - 股票市场
 - 视频文稿

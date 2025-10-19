@@ -8,15 +8,15 @@ project:
 - investment-strategy
 tags:
 - ai-traffic
-- bloomberg-podcasts
 - debt-restructuring
 - fiber-networks
 - infrastructure-investment
-- lumen-technologies
 people: []
-companies_orgs: []
+companies_orgs:
+- lumen-technologies
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -6,8 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- agent
-- 人工智能
+- ai
+- ai-agent
 - 商业模式
 - 未来展望
 - 深度学习

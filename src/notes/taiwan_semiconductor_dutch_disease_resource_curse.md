@@ -6,8 +6,8 @@ category: finance
 project:
 - geopolitics-watch
 tags:
+- geopolitics
 - 台湾经济
-- 地缘政治
 - 视频文稿
 - 資源詛咒
 people: []

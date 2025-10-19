@@ -7,10 +7,9 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- cpi-data
-- fed-policy
 - lululemon-valuation
-- stock-market-analysis
+- market-analysis
+- monetary-policy
 - wall-street-predictions
 people: []
 companies_orgs: []

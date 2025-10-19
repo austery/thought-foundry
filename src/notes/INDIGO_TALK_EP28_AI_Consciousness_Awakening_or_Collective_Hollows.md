@@ -6,8 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- agent
-- 人工智能
+- ai
+- ai-agent
 - 意识
 - 视频文稿
 people: []

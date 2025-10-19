@@ -7,16 +7,16 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- bloomberg-podcasts
 - consumer-trends
 - denim-market
 - financial-outlook
-- levi-strauss
 - tariffs
 people: []
-companies_orgs: []
+companies_orgs:
+- levi-strauss
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-13'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

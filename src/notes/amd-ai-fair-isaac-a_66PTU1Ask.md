@@ -6,7 +6,6 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- bloomberg-podcasts
 - fair-isaac
 people: []
 companies_orgs:
@@ -14,7 +13,8 @@ companies_orgs:
 - dell
 - equifax
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-08'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -6,13 +6,13 @@ category: finance
 project:
 - investment-strategy
 tags:
-- canada-post
 - financial-crisis
 - government-reform
 - labor-strike
 - public-service
 people: []
-companies_orgs: []
+companies_orgs:
+- canada-post
 products_models: []
 media_books: []
 date: '2025-10-12'

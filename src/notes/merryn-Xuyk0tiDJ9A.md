@@ -8,15 +8,15 @@ project:
 - market-cycles
 tags:
 - activist-investing
-- bloomberg-podcasts
+- investment-strategy
 - japan-market
 - korea-market
 - private-equity
-- value-investing
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-13'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

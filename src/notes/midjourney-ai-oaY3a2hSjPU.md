@@ -8,14 +8,14 @@ project:
 tags:
 - ai-art
 - creative-ai
-- how-i-ai
 - image-generation
 - prompt-engineering
 people: []
 companies_orgs: []
 products_models:
 - midjourney
-media_books: []
+media_books:
+- how-i-ai
 date: '2025-10-07'
 author: How I AI
 speaker: How I AI

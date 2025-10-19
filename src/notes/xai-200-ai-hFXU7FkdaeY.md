@@ -8,14 +8,14 @@ project:
 tags:
 - ai-infrastructure
 - automotive-industry
-- bloomberg-podcasts
 - broadcasting-regulation
 - xai
 people: []
 companies_orgs:
 - nvidia
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-08'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -10,13 +10,13 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- amit-kukreja
 - china-us-trade
 - cryptocurrency
+- market-analysis
 - market-volatility
 - regional-banks
-- stock-market-analysis
-people: []
+people:
+- amit-kukreja
 companies_orgs: []
 products_models: []
 media_books: []

@@ -8,10 +8,10 @@ category: null
 project: []
 tags:
 - artificial-general-intelligence
-- large-language-models
+- llm
 - reinforcement-learning
+people:
 - richard-sutton
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

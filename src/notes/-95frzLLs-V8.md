@@ -6,11 +6,11 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-- bill-ackman
-- charlie-kirk
 - israel-lobby
 - us-foreign-policy
-people: []
+people:
+- bill-ackman
+- charlie-kirk
 companies_orgs:
 - grayzone-news
 products_models: []

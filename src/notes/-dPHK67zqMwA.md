@@ -10,12 +10,12 @@ project:
 - us-analysis
 tags:
 - amazon-investing
-- amit-kukreja
-- china-us-relations
 - gold-commodities
+- market-analysis
 - nvidia-data-centers
-- stock-market-analysis
-people: []
+- us-china-relations
+people:
+- amit-kukreja
 companies_orgs: []
 products_models: []
 media_books: []

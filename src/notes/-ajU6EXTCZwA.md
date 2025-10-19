@@ -7,10 +7,10 @@ project: []
 tags:
 - gawker-media
 - media-power
-- peter-thiel
 - privacy-rights
 - silicon-valley
-people: []
+people:
+- peter-thiel
 companies_orgs: []
 products_models: []
 media_books: []

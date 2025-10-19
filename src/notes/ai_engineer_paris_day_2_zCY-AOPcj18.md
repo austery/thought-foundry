@@ -9,7 +9,7 @@ tags:
 - agentic-systems
 - ai-engineering
 - ai-infrastructure
-- large-language-models
+- llm
 - voice-ai
 people: []
 companies_orgs: []

@@ -9,8 +9,7 @@ project:
 - us-analysis
 tags:
 - consumer-spending
-- cpi-data
-- fed-policy
+- monetary-policy
 - unemployment-rate
 - us-stock-market
 people: []

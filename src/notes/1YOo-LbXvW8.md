@@ -9,9 +9,9 @@ tags:
 - ai-development
 - humanoid-robots
 - robotics-challenges
-- rodney-brooks
 - tactile-feedback
-people: []
+people:
+- rodney-brooks
 companies_orgs: []
 products_models: []
 media_books: []

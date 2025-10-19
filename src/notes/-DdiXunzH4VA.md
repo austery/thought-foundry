@@ -6,8 +6,8 @@ category: null
 project: []
 tags:
 - audiobooks
-- lifelong-learning
 - personal-development
+- personal-growth
 - reading-habits
 - utilitarian-reading
 people: []

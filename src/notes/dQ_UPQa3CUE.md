@@ -7,7 +7,6 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- adam-s-axiom
 - economic-theories
 - government-intervention
 - human-behavior
@@ -32,6 +31,7 @@ people:
 - Milton Friedman
 - Muhammad Yunus
 - Ronald Coase
+- adam-s-axiom
 companies_orgs: []
 products_models:
 - Bolsa Familia

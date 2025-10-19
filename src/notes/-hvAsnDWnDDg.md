@@ -8,7 +8,6 @@ project:
 tags:
 - financial-education
 - investment-strategy
-- long-term-investing
 - signal-noise-ratio
 - tesla-investment
 people: []

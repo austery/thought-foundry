@@ -7,8 +7,8 @@ project:
 - ai-impact-analysis
 - investment-strategy
 tags:
+- ai
 - all-in-podcast
-- artificial-intelligence
 - disruptive-innovation
 - economic-outlook
 - investment-strategy

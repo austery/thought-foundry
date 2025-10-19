@@ -6,8 +6,8 @@ category: geopolitics
 project:
 - geopolitics-watch
 tags:
+- geopolitics
 - 伊朗核协议
-- 地缘政治
 - 秘密外交
 - 视频文稿
 people: []

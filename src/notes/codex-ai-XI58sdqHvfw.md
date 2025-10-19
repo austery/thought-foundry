@@ -9,14 +9,14 @@ project:
 tags:
 - ai-agent
 - ai-programming
-- best-partners-tv
 - software-engineering
 people: []
 companies_orgs:
 - openai
 products_models:
 - codex
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-11'
 author: 最佳拍档
 speaker: 最佳拍档

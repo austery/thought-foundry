@@ -10,9 +10,9 @@ tags:
 - keweenaw-peninsula
 - local-culture
 - michigan
-- peter-santenello
 - road-trip
-people: []
+people:
+- peter-santenello
 companies_orgs: []
 products_models: []
 media_books: []

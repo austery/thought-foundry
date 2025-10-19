@@ -7,8 +7,8 @@ project:
 - ai-impact-analysis
 - personal-growth-lab
 tags:
+- ai
 - ai-collaboration
-- artificial-intelligence
 - cognitive-bias
 - productivity
 - prompt-engineering

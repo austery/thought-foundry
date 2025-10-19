@@ -10,10 +10,10 @@ project:
 - china-analysis
 - us-analysis
 tags:
-- china-us-relations
 - government-shutdown
 - soybeans
 - trade-war
+- us-china-relations
 people: []
 companies_orgs: []
 products_models: []

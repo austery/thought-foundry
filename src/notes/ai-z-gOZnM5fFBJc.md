@@ -6,8 +6,7 @@ category: finance
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
-- bloomberg-podcasts
+- ai
 - fed
 - gen-z
 - gold
@@ -15,7 +14,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-08'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

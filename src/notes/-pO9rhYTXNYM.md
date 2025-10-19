@@ -9,9 +9,9 @@ tags:
 - middle-east-politics
 - mossad
 - rise-and-kill-first
-- stella-an
 - targeted-killing
-people: []
+people:
+- stella-an
 companies_orgs: []
 products_models: []
 media_books: []

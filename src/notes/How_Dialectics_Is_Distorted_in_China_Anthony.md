@@ -5,7 +5,7 @@ area: personal-growth
 category: culture
 project: []
 tags:
-- 哲学
+- philosophy
 - 批判性思维
 - 视频文稿
 - 辩证法

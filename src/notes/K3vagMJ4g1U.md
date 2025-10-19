@@ -8,7 +8,6 @@ project:
 - market-cycles
 - personal-growth-lab
 tags:
-- adam-s-axiom
 - economic-theory
 - financial-crises
 - investment-strategy
@@ -49,6 +48,7 @@ people:
 - Tanzan Ishibashi
 - Thomas Piketty
 - Warren Buffett
+- adam-s-axiom
 companies_orgs:
 - Bank of England
 - Bridgewater

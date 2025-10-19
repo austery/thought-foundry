@@ -8,14 +8,14 @@ project:
 tags:
 - climate-change
 - middle-east-peace
-- new-york-times-podcasts
 - nobel-prize
 - pop-culture-news
 - trump-politics
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- new-york-times-podcasts
 date: '2025-10-10'
 author: New York Times Podcasts
 speaker: New York Times Podcasts

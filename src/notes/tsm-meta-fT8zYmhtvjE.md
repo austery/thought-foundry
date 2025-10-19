@@ -9,12 +9,12 @@ project:
 - market-cycles
 tags:
 - ai-market
-- amit-kukreja
 - data-centers
 - market-analysis
 - semiconductor-industry
 - tsm-earnings
-people: []
+people:
+- amit-kukreja
 companies_orgs: []
 products_models: []
 media_books: []

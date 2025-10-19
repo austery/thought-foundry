@@ -10,7 +10,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificialintelligence
+- ai
 - brainhealth
 - dementia
 people: []

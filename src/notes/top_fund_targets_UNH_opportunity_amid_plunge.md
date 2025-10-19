@@ -6,7 +6,7 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 价值投资
+- investment-strategy
 - 市场情绪
 - 投资
 - 视频文稿

@@ -11,10 +11,10 @@ tags:
 - bank-of-japan
 - central-bank-policy
 - h-1b-visa
-- joseph-wang
 - market-analysis
 - us-immigration
-people: []
+people:
+- joseph-wang
 companies_orgs: []
 products_models: []
 media_books: []

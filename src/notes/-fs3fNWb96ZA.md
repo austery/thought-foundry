@@ -5,12 +5,12 @@ area: null
 category: null
 project: []
 tags:
-- jeffrey-epstein
 - media-leak
 - peter-mandelson
 - political-scandal
 - uk-politics
-people: []
+people:
+- jeffrey-epstein
 companies_orgs: []
 products_models: []
 media_books: []

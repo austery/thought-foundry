@@ -13,7 +13,7 @@ tags:
 - amd-earnings
 - consumer-lending
 - macroeconomic-data
-- stock-market-analysis
+- market-analysis
 people: []
 companies_orgs: []
 products_models: []

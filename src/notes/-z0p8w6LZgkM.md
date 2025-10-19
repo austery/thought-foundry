@@ -6,11 +6,11 @@ category: null
 project: []
 tags:
 - gawker
-- hulk-hogan
 - media-ethics
-- peter-thiel
 - strategic-litigation
-people: []
+people:
+- hulk-hogan
+- peter-thiel
 companies_orgs: []
 products_models: []
 media_books: []

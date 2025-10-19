@@ -9,12 +9,12 @@ tags:
 - founder-communication
 - media-engagement
 - narrative-power
-- the-knowledge-project-podcast
 - trust-building
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-knowledge-project-podcast
 date: '2025-09-16'
 author: The Knowledge Project Podcast
 speaker: The Knowledge Project Podcast

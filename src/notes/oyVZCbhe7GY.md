@@ -9,7 +9,6 @@ project:
 - us-analysis
 tags:
 - consumer-health
-- cpi-data
 - federal-reserve
 - jpmorgan-earnings
 - us-stock-market

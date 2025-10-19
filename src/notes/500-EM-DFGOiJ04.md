@@ -7,7 +7,6 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- bloomberg-podcasts
 - s-and-p-500
 - semiconductors
 - stock-market
@@ -16,7 +15,8 @@ people: []
 companies_orgs:
 - openai
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-13'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

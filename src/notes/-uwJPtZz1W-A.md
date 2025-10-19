@@ -11,10 +11,10 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- china-us-relations
 - financial-markets
 - geopolitics
 - ukraine-war
+- us-china-relations
 - us-economy
 people:
 - lt

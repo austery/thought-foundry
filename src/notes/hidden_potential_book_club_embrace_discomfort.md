@@ -5,8 +5,8 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
+- personal-growth
 - 不舒适区
-- 个人成长
 - 完美主义
 - 视频文稿
 people: []

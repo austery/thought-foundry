@@ -9,10 +9,10 @@ project:
 tags:
 - ai-revolution
 - entrepreneurship
-- jeff-bezos
 - kindness
 - long-term-thinking
-people: []
+people:
+- jeff-bezos
 companies_orgs: []
 products_models: []
 media_books: []

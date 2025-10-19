@@ -9,8 +9,8 @@ project:
 tags:
 - 13f-filings
 - investment-philosophy
+- investment-strategy
 - pricing-power
-- value-investing
 - 视频文稿
 people:
 - chris hohn

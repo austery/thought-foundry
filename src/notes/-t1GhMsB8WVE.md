@@ -10,9 +10,9 @@ tags:
 - middle-class-illusion
 - social-mobility
 - sociology
-- stella-an
 - wealth-inequality
-people: []
+people:
+- stella-an
 companies_orgs: []
 products_models: []
 media_books: []

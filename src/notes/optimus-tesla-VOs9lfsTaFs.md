@@ -6,12 +6,12 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
-- elon-musk
+- ai
 - futurism
 - space-exploration
 - v3
-people: []
+people:
+- elon-musk
 companies_orgs:
 - tesla
 products_models:

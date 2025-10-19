@@ -7,7 +7,6 @@ project:
 - ai-impact-analysis
 tags:
 - ai-chips
-- best-partners-tv
 - data-center-infrastructure
 - high-performance-computing
 - hot-chips-2025
@@ -15,7 +14,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-05'
 author: 最佳拍档
 speaker: 最佳拍档

@@ -8,13 +8,13 @@ tags:
 - democratic-socialism
 - mayoral-election
 - new-york-politics
-- new-york-times-podcasts
 - progressive-politics
+people:
 - zohran-mamdani
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- new-york-times-podcasts
 date: '2025-10-16'
 author: New York Times Podcasts
 speaker: New York Times Podcasts

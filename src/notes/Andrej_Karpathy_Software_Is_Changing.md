@@ -7,8 +7,8 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
+- ai
 - vibe-coding
-- 人工智能
 - 视频文稿
 people: []
 companies_orgs: []

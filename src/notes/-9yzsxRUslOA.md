@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 - china-analysis
 tags:
-- artificial-intelligence
+- ai
 - china-economy
 - french-politics
 - japan-politics

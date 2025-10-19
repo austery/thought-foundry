@@ -8,10 +8,10 @@ project:
 tags:
 - investment-strategy
 - mimetic-desire
+- silicon-valley
+people:
 - peter-thiel
 - rene-girard
-- silicon-valley
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

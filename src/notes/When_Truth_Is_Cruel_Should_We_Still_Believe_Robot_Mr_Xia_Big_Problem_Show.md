@@ -5,7 +5,7 @@ area: personal-growth
 category: culture
 project: []
 tags:
-- 哲学
+- philosophy
 - 实践理由
 - 真相与信念
 - 视频文稿

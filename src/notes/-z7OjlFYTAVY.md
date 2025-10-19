@@ -9,8 +9,7 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- artificial-intelligence
-- bloomberg-podcasts
+- ai
 - french-political-crisis
 - gold-market
 - middle-east-peace
@@ -18,7 +17,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-08'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

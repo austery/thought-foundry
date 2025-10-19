@@ -9,14 +9,14 @@ project:
 tags:
 - ai-infrastructure
 - american-dream
-- bg2-pod
 - scaling-laws
 people: []
 companies_orgs:
 - nvidia
 - openai
 products_models: []
-media_books: []
+media_books:
+- bg2-pod
 date: '2025-10-06'
 author: Bg2 Pod
 speaker: Bg2 Pod

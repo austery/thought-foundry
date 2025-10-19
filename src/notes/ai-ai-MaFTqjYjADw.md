@@ -9,13 +9,13 @@ tags:
 - ai-accountability
 - ai-doomerism
 - ai-safety
-- internet-of-bugs
 - misinformation
 - technological-risk
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- internet-of-bugs
 date: '2025-10-13'
 author: Internet of Bugs
 speaker: Internet of Bugs

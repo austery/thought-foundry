@@ -7,8 +7,8 @@ project:
 - ai-impact-analysis
 - china-analysis
 tags:
+- ai
 - 中国经济
-- 人工智能
 - 视频文稿
 people: []
 companies_orgs:

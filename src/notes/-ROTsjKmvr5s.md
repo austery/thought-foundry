@@ -9,10 +9,10 @@ project:
 tags:
 - childhood-beliefs
 - financial-literacy
-- george-kinder
 - money-psychology
 - personal-finance
-people: []
+people:
+- george-kinder
 companies_orgs: []
 products_models: []
 media_books: []

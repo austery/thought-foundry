@@ -13,9 +13,9 @@ tags:
 - intelligence-agencies
 - political-weaponization
 - russiagate
-- tulsi-gabbard
 - us-politics
-people: []
+people:
+- tulsi-gabbard
 companies_orgs: []
 products_models: []
 media_books: []

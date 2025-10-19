@@ -8,7 +8,7 @@ project:
 - ai-impact-analysis
 - pkm-research
 tags:
-- ai-agents
+- ai-agent
 - claude-code
 - 工作流自动化
 - 笔记方法

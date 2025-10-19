@@ -7,11 +7,11 @@ project:
 - ai-impact-analysis
 tags:
 - ai
-- benedict-evans
 - google-kodak-moment
 - platform-shift
 - tech-industry
-people: []
+people:
+- benedict-evans
 companies_orgs: []
 products_models: []
 media_books: []

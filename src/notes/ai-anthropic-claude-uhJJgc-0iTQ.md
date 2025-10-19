@@ -6,7 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-agents
+- ai-agent
 - ai-development
 - multi-agent-systems
 people: []

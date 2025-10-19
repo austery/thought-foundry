@@ -8,7 +8,7 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
-- ai-agents
+- ai-agent
 - ai-programming
 - developer-future
 - github-copilot

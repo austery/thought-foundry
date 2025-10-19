@@ -8,10 +8,10 @@ project:
 tags:
 - ai-reasoning
 - chain-of-thought
-- denny-zhou
-- large-language-models
+- llm
 - self-consistency
-people: []
+people:
+- denny-zhou
 companies_orgs: []
 products_models: []
 media_books: []

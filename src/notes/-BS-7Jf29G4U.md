@@ -9,13 +9,13 @@ tags:
 - environmental-policy
 - fast-fashion
 - gaza-conflict
-- new-york-times-podcasts
 - trump-administration
 - us-politics
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- new-york-times-podcasts
 date: '2025-10-14'
 author: New York Times Podcasts
 speaker: New York Times Podcasts

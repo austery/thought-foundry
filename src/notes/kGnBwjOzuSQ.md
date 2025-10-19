@@ -7,16 +7,16 @@ project:
 - entrepreneurship
 - investment-strategy
 tags:
-- berkshire-hathaway
 - business-turnaround
 - corporate-leadership
 - investment-strategy
-- the-knowledge-project-podcast
+people:
 - warren-buffett
-people: []
-companies_orgs: []
+companies_orgs:
+- berkshire-hathaway
 products_models: []
-media_books: []
+media_books:
+- the-knowledge-project-podcast
 date: '2025-10-14'
 author: The Knowledge Project Podcast
 speaker: The Knowledge Project Podcast

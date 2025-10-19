@@ -11,11 +11,11 @@ project:
 - us-analysis
 tags:
 - ai-investing
-- amit-kukreja
-- china-us-relations
 - market-recap
 - precious-metals
-people: []
+- us-china-relations
+people:
+- amit-kukreja
 companies_orgs: []
 products_models:
 - ethereum

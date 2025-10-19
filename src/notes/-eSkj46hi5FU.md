@@ -7,11 +7,11 @@ project:
 - ai-impact-analysis
 tags:
 - chiang-kai-shek
-- hu-hanmin
 - kmt-factional-politics
 - september-18th-incident
 - tutelage-period
-people: []
+people:
+- hu-hanmin
 companies_orgs: []
 products_models: []
 media_books: []

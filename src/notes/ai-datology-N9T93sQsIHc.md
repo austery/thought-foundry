@@ -7,15 +7,15 @@ project:
 - ai-impact-analysis
 tags:
 - ai-data
-- ari-morcos
-- best-partners-tv
 - data-curation
-- large-language-models
+- llm
 - synthetic-data
-people: []
+people:
+- ari-morcos
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-15'
 author: 最佳拍档
 speaker: 最佳拍档

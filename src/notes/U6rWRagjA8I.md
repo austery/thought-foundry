@@ -6,13 +6,13 @@ category: finance
 project:
 - investment-strategy
 tags:
-- adam-s-axiom
 - asset-management
 - diversification
 - financial-products
 - investment-funds
-- long-term-investing
-people: []
+- investment-strategy
+people:
+- adam-s-axiom
 companies_orgs:
 - Renaissance Technologies
 - Yale

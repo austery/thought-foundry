@@ -9,9 +9,9 @@ tags:
 - human-evolution
 - modern-mythology
 - posthumanism
-- stella-an
 - technological-futurism
-people: []
+people:
+- stella-an
 companies_orgs: []
 products_models: []
 media_books: []

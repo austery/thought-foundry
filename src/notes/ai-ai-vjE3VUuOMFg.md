@@ -6,16 +6,16 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-ethics
+- ai-governance
 - ai-risk
 - existential-risk
-- internet-of-bugs
 - misinformation
 - study-critique
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- internet-of-bugs
 date: '2025-10-16'
 author: Internet of Bugs
 speaker: Internet of Bugs

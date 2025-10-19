@@ -6,7 +6,6 @@ category: finance
 project:
 - investment-strategy
 tags:
-- adam-s-axiom
 - economic-governance
 - financial-crises
 - financial-institutions
@@ -16,6 +15,7 @@ people:
 - Ben Bernanke
 - Bernie Madoff
 - Bruno Iksil
+- adam-s-axiom
 companies_orgs:
 - AIG
 - African Development Bank

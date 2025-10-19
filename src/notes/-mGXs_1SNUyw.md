@@ -9,9 +9,9 @@ tags:
 - chinese-revolution
 - feminism-history
 - personality-types
-- qiu-jin
 - tokyo-studies
-people: []
+people:
+- qiu-jin
 companies_orgs: []
 products_models: []
 media_books: []

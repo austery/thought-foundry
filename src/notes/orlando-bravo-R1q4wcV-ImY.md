@@ -12,9 +12,9 @@ tags:
 - leadership
 - private-equity
 - software-as-a-service
-- toma-bravo
 people: []
-companies_orgs: []
+companies_orgs:
+- toma-bravo
 products_models: []
 media_books: []
 date: '2025-10-15'

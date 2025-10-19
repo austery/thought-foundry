@@ -10,13 +10,13 @@ project:
 - us-analysis
 tags:
 - ai-chips
-- china-us-relations
 - geopolitics
 - japan-politics
 - middle-east-peace
 - nobel-peace-prize
 - rare-earth
 - taiwan
+- us-china-relations
 - us-economy
 people: []
 companies_orgs: []

@@ -5,7 +5,6 @@ area: null
 category: null
 project: []
 tags:
-- big-think
 - classical-mechanics
 - determinism
 - free-will
@@ -14,7 +13,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- big-think
 date: '2025-10-16'
 author: Big Think
 speaker: Big Think

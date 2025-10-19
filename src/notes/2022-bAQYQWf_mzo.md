@@ -8,7 +8,6 @@ project:
 - market-cycles
 tags:
 - investment-strategy
-- long-term-investing
 - personal-finance
 - portfolio-management
 - stock-market

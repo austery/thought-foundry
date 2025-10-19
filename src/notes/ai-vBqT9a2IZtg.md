@@ -8,7 +8,7 @@ project:
 - china-analysis
 - geopolitics-watch
 tags:
-- artificial-intelligence
+- ai
 - china-surveillance
 - geopolitics
 - gold-price

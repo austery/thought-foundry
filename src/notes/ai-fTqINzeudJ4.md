@@ -8,7 +8,6 @@ project:
 - investment-strategy
 tags:
 - ai开源
-- bg2-pod
 - 中美科技竞争
 - 全球贸易
 - 算力竞赛
@@ -16,7 +15,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bg2-pod
 date: '2025-10-06'
 author: Bg2 Pod
 speaker: Bg2 Pod

@@ -8,12 +8,12 @@ project:
 - ai-impact-analysis
 tags:
 - agent-development
-- ai-agents
+- ai-agent
 - claude-llm
 - google-cloud
-- vertex-ai
 people: []
-companies_orgs: []
+companies_orgs:
+- vertex-ai
 products_models: []
 media_books: []
 date: '2025-07-31'

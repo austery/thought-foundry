@@ -5,13 +5,13 @@ area: null
 category: null
 project: []
 tags:
-- adam-s-axiom
 - cooperation
 - game-theory
 - nash-equilibrium
 - prisoner-dilemma
 - strategic-thinking
-people: []
+people:
+- adam-s-axiom
 companies_orgs: []
 products_models: []
 media_books: []

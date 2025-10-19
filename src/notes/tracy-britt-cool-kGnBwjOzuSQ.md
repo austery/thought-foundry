@@ -9,14 +9,14 @@ project:
 tags:
 - business-systems
 - corporate-strategy
-- long-term-investing
+- investment-strategy
 - operational-excellence
 - talent-management
-- the-knowledge-project-podcast
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-knowledge-project-podcast
 date: '2025-10-14'
 author: The Knowledge Project Podcast
 speaker: The Knowledge Project Podcast

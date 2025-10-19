@@ -12,7 +12,7 @@ tags:
 - earnings-season
 - economic-outlook
 - financial-tools
-- stock-market-analysis
+- market-analysis
 - us-china-relations
 people: []
 companies_orgs: []

@@ -7,16 +7,16 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- bloomberg-podcasts
+- economic-outlook
 - inflation
 - investment-strategy
-- market-outlook
-- paul-tudor-jones
 - robin-hood-foundation
-people: []
+people:
+- paul-tudor-jones
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

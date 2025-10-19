@@ -7,9 +7,9 @@ project:
 - china-analysis
 - us-analysis
 tags:
-- china-us-relations
 - public-opinion
 - trade-war
+- us-china-relations
 - us-economy
 people: []
 companies_orgs: []

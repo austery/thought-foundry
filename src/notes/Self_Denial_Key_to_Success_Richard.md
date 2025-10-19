@@ -7,9 +7,9 @@ project:
 - entrepreneurship
 - investment-strategy
 tags:
+- entrepreneurship
 - payfi
 - web3
-- 创业
 - 加密货币
 - 视频文稿
 people: []

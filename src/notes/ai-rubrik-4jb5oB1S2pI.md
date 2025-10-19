@@ -7,14 +7,14 @@ project:
 - ai-impact-analysis
 tags:
 - ai
-- bloomberg-podcasts
 - cyber-resilience
 - cybersecurity
 - ransomware
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-08'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -11,9 +11,9 @@ tags:
 - appeasement-strategy
 - chinese-internet-culture
 - social-darwinism
-- stella-an
 - stockholm-syndrome
-people: []
+people:
+- stella-an
 companies_orgs: []
 products_models: []
 media_books:

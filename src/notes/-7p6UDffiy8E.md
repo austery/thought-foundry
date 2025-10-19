@@ -5,15 +5,15 @@ area: null
 category: null
 project: []
 tags:
-- civilized-to-death
 - critique-of-progress
 - hunter-gatherer
 - modern-dilemma
+people:
 - stella-an
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- civilized-to-death
 date: '2025-06-28'
 author: 安争鸣（Stella An）
 speaker: 安争鸣（Stella An）

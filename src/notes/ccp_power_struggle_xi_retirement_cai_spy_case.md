@@ -9,9 +9,9 @@ tags:
 - ccp-infighting
 - china-politics
 - military-coup-rumors
+people:
 - wen-jiabao
 - xi-jinping
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

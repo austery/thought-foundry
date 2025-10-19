@@ -7,11 +7,11 @@ project:
 - us-analysis
 tags:
 - biden-administration
-- kamala-harris
 - political-memoir
 - us-politics
 - vice-president
-people: []
+people:
+- kamala-harris
 companies_orgs: []
 products_models: []
 media_books: []

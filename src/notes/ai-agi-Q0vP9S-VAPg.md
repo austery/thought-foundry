@@ -8,9 +8,9 @@ project:
 tags:
 - ai-creativity
 - artificial-general-intelligence
-- demis-hassabis
 - robotics
-people: []
+people:
+- demis-hassabis
 companies_orgs:
 - deepmind
 products_models: []

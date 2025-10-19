@@ -8,14 +8,14 @@ project:
 tags:
 - addiction
 - behavioral-psychology
-- big-think
 - habit-change
 - habits
 - neuroscience
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- big-think
 date: '2025-10-15'
 author: Big Think
 speaker: Big Think

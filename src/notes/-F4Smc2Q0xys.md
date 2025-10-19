@@ -8,7 +8,7 @@ project:
 - market-cycles
 tags:
 - investment-philosophy
-- long-term-investing
+- investment-strategy
 - personal-finance
 - regret-minimization
 - stock-selling-strategy

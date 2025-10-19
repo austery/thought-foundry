@@ -9,7 +9,6 @@ project:
 - us-analysis
 tags:
 - ai-bubble
-- bloomberg-podcasts
 - enterprise-ai
 - instagram-policy
 - tech-industry
@@ -17,7 +16,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

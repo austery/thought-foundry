@@ -8,11 +8,11 @@ project:
 tags:
 - concise-writing
 - custom-gpt
-- how-i-ai
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- how-i-ai
 date: '2025-10-11'
 author: How I AI
 speaker: How I AI

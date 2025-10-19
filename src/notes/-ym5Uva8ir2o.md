@@ -9,13 +9,13 @@ project:
 - investment-strategy
 - us-analysis
 tags:
-- china-us-relations
 - investment
 - taiwan
-- xi-jinping
+- us-china-relations
 people:
 - lt
 - trump
+- xi-jinping
 companies_orgs: []
 products_models: []
 media_books: []

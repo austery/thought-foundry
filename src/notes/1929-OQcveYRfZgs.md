@@ -9,12 +9,12 @@ project:
 - market-cycles
 tags:
 - all-in-podcast
-- andrew-ross-sorkin
 - economic-history
 - financial-crisis
 - financial-regulation
 - stock-market-crash
-people: []
+people:
+- andrew-ross-sorkin
 companies_orgs: []
 products_models: []
 media_books: []

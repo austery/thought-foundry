@@ -6,7 +6,7 @@ category: business
 project:
 - entrepreneurship
 tags:
-- 创业
+- entrepreneurship
 - 副业
 - 视频文稿
 people: []

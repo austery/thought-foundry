@@ -8,10 +8,10 @@ project:
 tags:
 - bad-blood-book
 - corporate-fraud
-- elizabeth-holmes
 - startup-culture
 - theranos-scandal
-people: []
+people:
+- elizabeth-holmes
 companies_orgs: []
 products_models: []
 media_books: []

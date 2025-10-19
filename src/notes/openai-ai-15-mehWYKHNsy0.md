@@ -9,14 +9,14 @@ project:
 tags:
 - agi-safety
 - ai-investment
-- best-partners-tv
-- leopold-aschenbrenner
 - situational-awareness
-people: []
+people:
+- leopold-aschenbrenner
 companies_orgs:
 - openai
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-09'
 author: 最佳拍档
 speaker: 最佳拍档

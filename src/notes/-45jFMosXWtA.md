@@ -10,8 +10,8 @@ tags:
 - plan-b
 - self-salvation
 - selfishness
+people:
 - wang-yangming
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

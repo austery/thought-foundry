@@ -11,8 +11,8 @@ tags:
 - online-harassment
 - power-dynamics
 - social-darwinism
+people:
 - stella-an
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

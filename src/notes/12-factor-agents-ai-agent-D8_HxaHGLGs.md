@@ -8,7 +8,6 @@ project:
 - vibe-coding
 tags:
 - ai-agent-development
-- best-partners-tv
 - design-principles
 - human-in-the-loop
 - production-systems
@@ -16,7 +15,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-08'
 author: 最佳拍档
 speaker: 最佳拍档

@@ -10,7 +10,7 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
-- artificial-intelligence
+- ai
 - design-system
 - product-design
 - software-development

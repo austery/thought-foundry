@@ -5,7 +5,6 @@ area: personal-growth
 category: psychology
 project: []
 tags:
-- big-think
 - ptsd
 - 创伤
 - 大脑科学
@@ -14,7 +13,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- big-think
 date: '2025-10-07'
 author: Big Think
 speaker: Big Think

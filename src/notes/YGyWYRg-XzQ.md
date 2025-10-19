@@ -7,13 +7,13 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- adam-s-axiom
 - economic-recessions
 - financial-crises
 - market-crashes
 - monetary-policy
 - unemployment
-people: []
+people:
+- adam-s-axiom
 companies_orgs: []
 products_models: []
 media_books: []

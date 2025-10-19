@@ -9,8 +9,8 @@ tags:
 - political-economy
 - red-top-merchants
 - wanda-group
+people:
 - wang-jianlin
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

@@ -5,13 +5,13 @@ area: null
 category: null
 project: []
 tags:
-- adam-s-axiom
 - cooperation
 - game-theory
 - prisoner-dilemma
 - simplicity-power
 - tit-for-tat
-people: []
+people:
+- adam-s-axiom
 companies_orgs: []
 products_models: []
 media_books: []

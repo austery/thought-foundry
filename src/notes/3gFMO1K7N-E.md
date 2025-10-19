@@ -10,7 +10,7 @@ project:
 tags:
 - gdp-analysis
 - investment-strategy
-- market-sentiment
+- market-analysis
 - tech-earnings
 - us-economy
 people: []

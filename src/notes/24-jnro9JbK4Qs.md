@@ -8,10 +8,10 @@ project:
 tags:
 - 2024-election
 - assassination-attempt
+- us-politics
+people:
 - donald-trump
 - joe-biden
-- us-politics
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

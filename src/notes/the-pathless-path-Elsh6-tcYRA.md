@@ -10,12 +10,12 @@ tags:
 - career-change
 - gap-year
 - personal-growth
-- the-pathless-path
 - uncertainty
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-pathless-path
 date: '2024-12-27'
 author: 一口新飯
 speaker: 一口新飯

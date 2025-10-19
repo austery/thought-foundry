@@ -10,8 +10,8 @@ tags:
 - gawker
 - media-warfare
 - organizational-culture
+people:
 - peter-thiel
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

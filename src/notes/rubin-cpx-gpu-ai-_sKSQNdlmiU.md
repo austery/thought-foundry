@@ -9,7 +9,6 @@ project:
 - market-cycles
 tags:
 - ai-inference
-- best-partners-tv
 - data-center-hardware
 - gpu-architecture
 - memory-market
@@ -17,7 +16,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-16'
 author: 最佳拍档
 speaker: 最佳拍档

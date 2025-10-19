@@ -6,7 +6,7 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- 个人成长
+- personal-growth
 - 视频文稿
 people: []
 companies_orgs:

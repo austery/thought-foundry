@@ -6,13 +6,13 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
+- ai
 - democracy
 - information-networks
-- stella-an
 - totalitarianism
+people:
+- stella-an
 - yuval-noah-harari
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

@@ -6,9 +6,8 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 价值投资
+- investment-strategy
 - 债务管理
-- 投资策略
 - 标普500
 - 视频文稿
 - 高利率

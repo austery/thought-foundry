@@ -7,8 +7,8 @@ project:
 - china-analysis
 - geopolitics-watch
 tags:
+- geopolitics
 - 中国经济
-- 地缘政治
 - 视频文稿
 people: []
 companies_orgs: []

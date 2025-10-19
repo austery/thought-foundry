@@ -9,8 +9,8 @@ project:
 tags:
 - content-creation
 - knowledge-management
-- lifelong-learning
 - personal-development
+- personal-growth
 - research-methods
 people: []
 companies_orgs: []

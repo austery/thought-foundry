@@ -9,13 +9,13 @@ tags:
 - ai-product-quality
 - data-driven-improvement
 - error-analysis
-- how-i-ai
-- llm-evaluation
+- llm
 - prompt-engineering
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- how-i-ai
 date: '2025-10-13'
 author: How I AI
 speaker: How I AI

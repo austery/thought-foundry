@@ -9,7 +9,7 @@ tags:
 - ai-safety
 - ai-thinking
 - interpretability
-- large-language-models
+- llm
 - model-behavior
 people: []
 companies_orgs: []

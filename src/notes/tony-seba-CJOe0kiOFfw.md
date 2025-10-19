@@ -10,8 +10,8 @@ tags:
 - energy-transition
 - technological-disruption
 - tesla-investment
+people:
 - tony-seba
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

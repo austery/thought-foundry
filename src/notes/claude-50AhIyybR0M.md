@@ -7,11 +7,11 @@ project:
 - ai-impact-analysis
 - investment-strategy
 tags:
-- artificial-intelligence
+- ai
 - digital-transformation
 - enterprise-solutions
 - financial-services
-- large-language-models
+- llm
 people: []
 companies_orgs: []
 products_models: []

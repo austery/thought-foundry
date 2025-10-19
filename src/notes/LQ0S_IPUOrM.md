@@ -9,7 +9,6 @@ project:
 - market-cycles
 - personal-growth-lab
 tags:
-- adam-s-axiom
 - economic-crises
 - financial-bubbles
 - market-psychology
@@ -19,6 +18,7 @@ people:
 - Isaac Newton
 - John Law
 - Sam Bankman-Fried
+- adam-s-axiom
 companies_orgs:
 - Amazon
 - FTX

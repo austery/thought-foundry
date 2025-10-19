@@ -7,7 +7,7 @@ project:
 - investment-strategy
 - us-analysis
 tags:
-- cpi
+- inflation
 - 美股
 - 衰退
 - 视频文稿

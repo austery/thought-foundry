@@ -10,8 +10,8 @@ tags:
 - doxxing
 - mental-resilience
 - social-phenomenon
+people:
 - stella-an
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

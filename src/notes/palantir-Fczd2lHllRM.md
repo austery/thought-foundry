@@ -10,11 +10,11 @@ project:
 - market-cycles
 tags:
 - ai-investment
-- amit-kukreja
 - china-trade-tensions
-- jerome-powell
 - market-recap
-people: []
+people:
+- amit-kukreja
+- jerome-powell
 companies_orgs:
 - palantir
 products_models: []

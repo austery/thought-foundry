@@ -9,12 +9,12 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- amit-kukreja
 - federal-reserve
 - financial-markets
 - market-recap
 - us-china-trade
-people: []
+people:
+- amit-kukreja
 companies_orgs:
 - palantir
 products_models: []

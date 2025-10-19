@@ -9,9 +9,9 @@ tags:
 - racial-conflict
 - republica-luminosa
 - social-critique
-- stella-an
 - western-civilization
-people: []
+people:
+- stella-an
 companies_orgs: []
 products_models: []
 media_books: []

@@ -6,15 +6,15 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
-- bloomberg-podcasts
+- ai
 - circular-financing
 - tech-bubble
 - venture-capital
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-08'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -7,13 +7,13 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- amit-kukreja
 - credit-crisis
 - investment-strategy
 - macroeconomics
 - market-analysis
 - regional-banks
-people: []
+people:
+- amit-kukreja
 companies_orgs: []
 products_models: []
 media_books: []

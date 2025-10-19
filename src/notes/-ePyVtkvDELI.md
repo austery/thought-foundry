@@ -9,13 +9,13 @@ tags:
 - credit-card-points
 - financial-tips
 - loyalty-programs
-- new-york-times-podcasts
 - points-redemption
 - travel-hacking
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- new-york-times-podcasts
 date: '2025-10-10'
 author: New York Times Podcasts
 speaker: New York Times Podcasts

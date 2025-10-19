@@ -6,11 +6,11 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
+- ai
 - cross-disciplinary
 - foundational-knowledge
 - future-skills
-- lifelong-learning
+- personal-growth
 people: []
 companies_orgs: []
 products_models: []

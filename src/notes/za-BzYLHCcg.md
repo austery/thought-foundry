@@ -8,9 +8,9 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- fed-policy
 - inflation
-- market-sentiment
+- market-analysis
+- monetary-policy
 - tariffs
 - us-economy
 people: []

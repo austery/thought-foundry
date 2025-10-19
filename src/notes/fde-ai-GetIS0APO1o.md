@@ -11,7 +11,6 @@ project:
 - market-cycles
 tags:
 - ai-agent
-- best-partners-tv
 - business-model
 - forward-deployed-engineer
 - product-market-fit
@@ -19,7 +18,8 @@ people: []
 companies_orgs:
 - palantir
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-14'
 author: 最佳拍档
 speaker: 最佳拍档

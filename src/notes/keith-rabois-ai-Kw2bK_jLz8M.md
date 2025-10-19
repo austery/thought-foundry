@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 - geopolitics-watch
 tags:
-- artificial-intelligence
+- ai
 - disruptive-innovation
 - economic-growth
 - fintech

@@ -8,14 +8,14 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- adam-s-axiom
 - economic-theories
 - fiscal-policy
 - government-intervention
 - market-failures
 - monetary-policy
 - rationality
-people: []
+people:
+- adam-s-axiom
 companies_orgs: []
 products_models: []
 media_books: []

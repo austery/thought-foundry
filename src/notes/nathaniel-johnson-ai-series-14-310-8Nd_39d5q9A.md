@@ -11,9 +11,9 @@ tags:
 - entrepreneurship
 - innovation
 - startup-funding
-- yale-university
 people: []
-companies_orgs: []
+companies_orgs:
+- yale-university
 products_models: []
 media_books: []
 date: '2025-08-25'

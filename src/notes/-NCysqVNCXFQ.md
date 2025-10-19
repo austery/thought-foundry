@@ -10,11 +10,11 @@ tags:
 - plato
 - political-philosophy
 - social-order
-- the-republic
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-republic
 date: '2025-09-25'
 author: 大问题Dialectic
 speaker: 大问题Dialectic

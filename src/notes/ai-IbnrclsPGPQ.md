@@ -9,8 +9,8 @@ project:
 - market-cycles
 - us-analysis
 tags:
+- ai
 - all-in-podcast
-- artificial-intelligence
 - gaza-peace-deal
 - gold-market
 - prediction-markets

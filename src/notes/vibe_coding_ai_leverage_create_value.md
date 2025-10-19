@@ -9,8 +9,8 @@ project:
 - vibe-coding
 tags:
 - ai编程
+- personal-growth
 - vibe-coding
-- 个人成长
 - 社群运营
 - 视频文稿
 people: []

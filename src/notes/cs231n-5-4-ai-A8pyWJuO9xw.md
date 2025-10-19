@@ -6,16 +6,15 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
-- best-partners-tv
+- ai
 - computer-vision
-- deep-learning
-- fei-fei-li
 - imagenet
-people: []
+people:
+- fei-fei-li
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-13'
 author: 最佳拍档
 speaker: 最佳拍档

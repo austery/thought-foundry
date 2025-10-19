@@ -6,13 +6,13 @@ category: finance
 project:
 - historical-insights
 tags:
-- adam-s-axiom
 - digital-economy
 - economic-systems-evolution
 - history-of-money
 - resource-management
 - social-safety-nets
-people: []
+people:
+- adam-s-axiom
 companies_orgs:
 - Airbnb
 - Alibaba

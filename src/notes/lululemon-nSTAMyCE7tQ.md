@@ -8,12 +8,12 @@ project:
 - market-cycles
 tags:
 - '101'
-- alo-yoga
 - growth-strategy
 - market-trends
 - sports-brands
 people: []
 companies_orgs:
+- alo-yoga
 - lululemon
 products_models: []
 media_books: []

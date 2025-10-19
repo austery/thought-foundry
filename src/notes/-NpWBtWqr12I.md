@@ -7,12 +7,12 @@ project:
 - entrepreneurship
 - personal-growth-lab
 tags:
-- elon-musk
 - entrepreneurship
 - life-lessons
 - personal-growth
 - reading-habits
-people: []
+people:
+- elon-musk
 companies_orgs: []
 products_models: []
 media_books: []

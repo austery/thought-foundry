@@ -6,13 +6,12 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-- asml-earnings
-- bank-of-america
 - chip-industry
 - macro-economics
 - powell-resignation
 people: []
-companies_orgs: []
+companies_orgs:
+- bank-of-america
 products_models: []
 media_books:
 - talk

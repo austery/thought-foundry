@@ -10,10 +10,9 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- cpi-data
 - investment-app
+- market-analysis
 - nvidia-valuation
-- stock-market-analysis
 - us-china-tariffs
 people: []
 companies_orgs: []

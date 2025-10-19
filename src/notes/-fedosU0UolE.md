@@ -10,14 +10,14 @@ project:
 tags:
 - ai-partnerships
 - bank-earnings
-- bloomberg-podcasts
 - cryptocurrency
 - market-close
 - trade-tensions
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

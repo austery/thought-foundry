@@ -8,10 +8,10 @@ project:
 - historical-insights
 tags:
 - anglo-russian-great-game
-- dalai-lama
 - political-history
 - tibet
-people: []
+people:
+- dalai-lama
 companies_orgs: []
 products_models: []
 media_books: []

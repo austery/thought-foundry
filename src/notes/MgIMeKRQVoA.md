@@ -6,11 +6,10 @@ layout: post.njk
 source: https://www.youtube.com/watch?v=MgIMeKRQVoA
 speaker: 老科谈科技股
 tags:
-  - nvidia-earnings
-  - gpu-market
-  - ai-acceleration
-  - market-saturation
-  - competitive-landscape
+- ai-acceleration
+- competitive-landscape
+- gpu-market
+- market-saturation
 title: 英伟达2025年第二季度财报深度解析：AI时代下的增长与挑战
 summary: 本文深入分析了英伟达（Nvidia）2025年第二季度的财务表现，包括营收、毛利率和每股盈利，并与市场预期及公司指引进行对比。文章探讨了英伟达数据中心业务的增长态势、与竞争对手AMD的差距，以及对AI市场饱和度的长期思考。同时，对英伟达的估值和未来投资前景给出了独到见解，强调了加速计算在AI时代的重要性。
 insight: ''
@@ -19,20 +18,20 @@ series: ''
 category: finance
 area: market-analysis
 project:
-  - investment-strategy
-  - ai-impact-analysis
-  - us-analysis
+- investment-strategy
+- ai-impact-analysis
+- us-analysis
 people:
-  - 黄仁勋
+- 黄仁勋
 companies_orgs:
-  - 英伟达
-  - AMD
-  - 苹果
-  - 微软
-  - CNBC
-  - Deepseek
+- AMD
+- CNBC
+- Deepseek
+- 微软
+- 英伟达
+- 苹果
 products_models:
-  - H20
+- H20
 media_books: []
 status: evergreen
 ---

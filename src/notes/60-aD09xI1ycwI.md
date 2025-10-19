@@ -5,7 +5,6 @@ area: null
 category: null
 project: []
 tags:
-- bloomberg-podcasts
 - drug-interdiction
 - federal-employees
 - government-shutdown
@@ -13,7 +12,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-07'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

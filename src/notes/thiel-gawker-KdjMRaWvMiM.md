@@ -5,12 +5,12 @@ area: null
 category: null
 project: []
 tags:
-- donald-trump
 - gawker
 - media-ethics
-- peter-thiel
 - unintended-consequences
-people: []
+people:
+- donald-trump
+- peter-thiel
 companies_orgs: []
 products_models: []
 media_books: []

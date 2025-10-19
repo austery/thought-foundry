@@ -8,7 +8,7 @@ project:
 tags:
 - ai-best-practices
 - claude-ai
-- large-language-models
+- llm
 - prompt-engineering
 people: []
 companies_orgs: []

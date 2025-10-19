@@ -6,9 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- artificial-intelligence
+- ai
+people:
 - elon-musk
-people: []
 companies_orgs:
 - tesla
 products_models:

@@ -15,8 +15,8 @@ tags:
 - geopolitics
 - news-commentary
 - us-china-relations
+people:
 - xi-jinping
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

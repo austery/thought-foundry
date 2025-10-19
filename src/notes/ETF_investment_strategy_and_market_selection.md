@@ -8,7 +8,7 @@ project:
 - us-analysis
 tags:
 - etf
-- 投资策略
+- investment-strategy
 - 美股
 - 视频文稿
 - 资产配置

@@ -6,7 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai-hallucination
+- ai-limitation
 - incentive-design
 - large-language-model
 - model-evaluation

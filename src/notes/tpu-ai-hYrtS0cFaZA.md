@@ -6,8 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
+- ai
 - ai-chip-design
-- deep-learning
 - first-principles
 - open-source-hardware
 people: []

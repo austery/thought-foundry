@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 tags:
 - accelerated-computing
-- artificial-intelligence
+- ai
 - community-building
 - economic-impact
 - future-of-work

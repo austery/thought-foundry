@@ -7,10 +7,10 @@ project:
 - ai-impact-analysis
 - personal-growth-lab
 tags:
-- 人工智能
+- ai
+- psychology
 - 人际关系
 - 学习方法
-- 心理学
 - 视频文稿
 people: []
 companies_orgs: []

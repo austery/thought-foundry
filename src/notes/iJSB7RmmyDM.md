@@ -10,8 +10,7 @@ project:
 tags:
 - economic-indicators
 - investment-strategy
-- market-sentiment
-- stock-market-analysis
+- market-analysis
 - us-treasury-yields
 people: []
 companies_orgs: []

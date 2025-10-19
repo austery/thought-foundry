@@ -5,7 +5,7 @@ area: null
 category: null
 project: []
 tags:
-- a-b-testing
+- ab-testing
 - data-science
 - experimentation
 - statistics

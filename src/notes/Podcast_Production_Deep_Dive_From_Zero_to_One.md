@@ -6,7 +6,7 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- 个人成长
+- personal-growth
 - 内容创作
 - 播客制作
 - 社群

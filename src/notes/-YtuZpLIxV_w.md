@@ -9,9 +9,9 @@ tags:
 - chinese-history
 - constitutional-democracy
 - republican-revolution
-- song-jiaoren
 - tokyo-exiles
-people: []
+people:
+- song-jiaoren
 companies_orgs: []
 products_models: []
 media_books: []

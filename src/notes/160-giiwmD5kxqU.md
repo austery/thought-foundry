@@ -6,8 +6,8 @@ category: geopolitics
 project:
 - geopolitics-watch
 tags:
+- geopolitics
 - 俄乌战争
-- 地缘政治
 - 战术反攻
 - 战略转折点
 - 援助分析

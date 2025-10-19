@@ -8,11 +8,11 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- elon-musk
 - ev-policy
 - stock-analysis
 - us-politics
-people: []
+people:
+- elon-musk
 companies_orgs:
 - tesla
 products_models: []

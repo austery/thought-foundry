@@ -10,14 +10,14 @@ project:
 - ai-impact-analysis
 tags:
 - ai-succession
-- large-language-models
+- llm
 - reinforcement-learning
+people:
 - richard-sutton
-- the-bitter-lesson
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- the-bitter-lesson
 date: 2025-10-01
 author: Lei
 speaker: Dwarkesh Patel, Richard Sutton

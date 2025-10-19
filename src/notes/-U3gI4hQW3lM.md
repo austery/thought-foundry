@@ -7,11 +7,11 @@ project: []
 tags:
 - insider-trading
 - legal-strategy
-- sac-capital
-- steven-a-cohen
 - white-collar-crime
-people: []
-companies_orgs: []
+people:
+- steven-a-cohen
+companies_orgs:
+- sac-capital
 products_models: []
 media_books: []
 date: '2025-09-30'

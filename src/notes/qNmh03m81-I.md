@@ -8,7 +8,6 @@ project:
 - market-cycles
 - personal-growth-lab
 tags:
-- adam-s-axiom
 - asset-bubbles
 - fomo
 - investment-strategy
@@ -22,6 +21,7 @@ people:
 - Sam Altman
 - Satoshi Nakamoto
 - Vitalik Buterin
+- adam-s-axiom
 companies_orgs:
 - Akamai Technologies
 - Amazon

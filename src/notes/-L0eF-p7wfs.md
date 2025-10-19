@@ -9,9 +9,9 @@ project:
 tags:
 - cpi-analysis
 - earnings-review
-- fed-policy
+- economic-outlook
 - investment-strategy
-- market-outlook
+- monetary-policy
 people: []
 companies_orgs: []
 products_models: []

@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 - investment-strategy
 tags:
-- 人工智能
+- ai
 - 宏观投资
 - 投资大师
 - 视频文稿

@@ -5,7 +5,6 @@ area: null
 category: null
 project: []
 tags:
-- bloomberg-podcasts
 - estate-planning
 - family-law
 - federal-judiciary
@@ -14,7 +13,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-14'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

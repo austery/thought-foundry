@@ -6,8 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
+- ai
 - 专注力
-- 人工智能
 - 视频文稿
 - 读书价值
 people: []

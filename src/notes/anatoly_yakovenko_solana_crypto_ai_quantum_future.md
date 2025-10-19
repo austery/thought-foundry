@@ -9,7 +9,7 @@ project:
 - ai-impact-analysis
 - investment-strategy
 tags:
-- artificial-intelligence
+- ai
 - cryptocurrency
 - decentralized-finance
 - quantum-computing

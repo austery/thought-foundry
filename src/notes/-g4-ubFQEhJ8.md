@@ -8,11 +8,11 @@ project:
 - market-cycles
 tags:
 - bear-market-strategy
-- elon-musk
-- long-term-investing
+- investment-strategy
 - personal-finance
 - tesla-investment
-people: []
+people:
+- elon-musk
 companies_orgs: []
 products_models: []
 media_books: []

@@ -7,7 +7,6 @@ project:
 - ai-impact-analysis
 tags:
 - addiction
-- big-think
 - brain-systems
 - human-evolution
 - neuroscience
@@ -15,7 +14,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- big-think
 date: '2025-10-17'
 author: Big Think
 speaker: Big Think

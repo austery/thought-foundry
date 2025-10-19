@@ -7,10 +7,10 @@ project:
 - ai-impact-analysis
 - geopolitics-watch
 tags:
+- ai
+- geopolitics
 - 世界经济论坛
-- 人工智能
 - 全球经济
-- 地缘政治
 - 视频文稿
 people: []
 companies_orgs: []

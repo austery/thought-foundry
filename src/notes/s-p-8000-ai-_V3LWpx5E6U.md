@@ -9,12 +9,12 @@ project:
 - market-cycles
 tags:
 - ai-sector
-- amit-kukreja
 - energy-stocks
+- market-analysis
 - market-close
 - openai-deals
-- stock-market-analysis
-people: []
+people:
+- amit-kukreja
 companies_orgs: []
 products_models: []
 media_books: []

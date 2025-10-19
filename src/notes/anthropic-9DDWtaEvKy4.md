@@ -6,9 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
+- ai
 - ai-interpretability
-- large-language-models
-- machine-learning
+- llm
 - neural-networks
 people: []
 companies_orgs:

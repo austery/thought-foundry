@@ -6,8 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
+- ai
 - prompt
-- 人工智能
 - 视频文稿
 people:
 - 知行小酒馆

@@ -9,16 +9,16 @@ project:
 - geopolitics-watch
 - us-analysis
 tags:
-- bloomberg-podcasts
-- china-us-relations
 - economic-protectionism
 - geopolitical-anxiety
 - japan-economic-miracle
 - pop-culture-influence
+- us-china-relations
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-11'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

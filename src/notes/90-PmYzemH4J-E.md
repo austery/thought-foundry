@@ -7,11 +7,11 @@ project:
 - investment-strategy
 tags:
 - corporate-fraud
-- elizabeth-holmes
 - investigative-journalism
 - silicon-valley
 - theranos-scandal
-people: []
+people:
+- elizabeth-holmes
 companies_orgs: []
 products_models: []
 media_books: []

@@ -8,7 +8,6 @@ project:
 - cultural-critique
 - investment-strategy
 tags:
-- bg2-pod
 - 中国科技
 - 中美竞争
 - 创新文化
@@ -17,7 +16,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- bg2-pod
 date: '2025-10-06'
 author: Bg2 Pod
 speaker: Bg2 Pod

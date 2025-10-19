@@ -9,8 +9,8 @@ tags:
 - christianity-vs-islam
 - digenes-akritas
 - medieval-literature
+people:
 - stella-an
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

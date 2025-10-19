@@ -8,9 +8,9 @@ project:
 tags:
 - ai-governance
 - corporate-politics
+people:
 - ilya-sutskever
 - sam-altman
-people: []
 companies_orgs:
 - openai
 products_models: []

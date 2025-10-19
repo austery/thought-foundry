@@ -8,9 +8,9 @@ project:
 tags:
 - ai-data-center
 - artificial-general-intelligence
-- elon-musk
 - reinforcement-learning
-people: []
+people:
+- elon-musk
 companies_orgs: []
 products_models: []
 media_books: []

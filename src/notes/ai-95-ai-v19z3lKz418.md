@@ -7,7 +7,7 @@ project:
 - ai-impact-analysis
 - entrepreneurship
 tags:
-- artificial-intelligence
+- ai
 - business-strategy
 - enterprise-ai
 - genai-divide

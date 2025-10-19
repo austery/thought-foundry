@@ -9,7 +9,6 @@ project:
 - market-cycles
 tags:
 - ai-market
-- bloomberg-podcasts
 - capital-expenditure
 - circular-funding
 people: []
@@ -17,7 +16,8 @@ companies_orgs:
 - nvidia
 - openai
 products_models: []
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-08'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

@@ -9,8 +9,8 @@ tags:
 - democracy-crisis
 - global-governance
 - low-human-rights-advantage
+people:
 - qin-hui
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

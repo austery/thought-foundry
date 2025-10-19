@@ -6,14 +6,14 @@ category: null
 project: []
 tags:
 - authoritarianism
-- by-night-in-chile
 - intellectuals-and-politics
+people:
 - roberto-bolano
 - stella-an
-people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- by-night-in-chile
 date: '2025-07-05'
 author: 安争鸣（Stella An）
 speaker: 安争鸣（Stella An）

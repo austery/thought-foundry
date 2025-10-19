@@ -10,9 +10,9 @@ tags:
 - european-history
 - marxism
 - social-solidarity
-- stella-an
 - welfare-state
-people: []
+people:
+- stella-an
 companies_orgs: []
 products_models: []
 media_books: []

@@ -11,7 +11,6 @@ tags:
 - financial-planning
 - investment-strategy
 - market-cycles
-- value-investing
 people: []
 companies_orgs: []
 products_models: []

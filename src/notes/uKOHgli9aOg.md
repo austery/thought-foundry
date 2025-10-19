@@ -11,10 +11,10 @@ tags:
 - banking-sector
 - economic-outlook
 - government-shutdown
-- joseph-wang
 - market-analysis
 - precious-metals
-people: []
+people:
+- joseph-wang
 companies_orgs: []
 products_models: []
 media_books: []

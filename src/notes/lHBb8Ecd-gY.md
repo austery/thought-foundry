@@ -11,7 +11,7 @@ tags:
 - earnings-season
 - investment-strategy
 - macro-economy
-- stock-market-analysis
+- market-analysis
 - us-equities
 people: []
 companies_orgs: []

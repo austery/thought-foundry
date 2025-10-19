@@ -9,10 +9,10 @@ tags:
 - fbi-investigation
 - informants
 - insider-trading
-- sac-capital
 - wall-street
 people: []
-companies_orgs: []
+companies_orgs:
+- sac-capital
 products_models: []
 media_books: []
 date: '2025-09-29'

@@ -6,9 +6,9 @@ category: psychology
 project:
 - systems-thinking
 tags:
+- systems-thinking
 - 复盘
 - 目标设定
-- 系统思维
 - 视频文稿
 people: []
 companies_orgs: []

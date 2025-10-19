@@ -8,8 +8,8 @@ project:
 - market-cycles
 - us-analysis
 tags:
+- market-analysis
 - monetary-policy
-- stock-market-analysis
 - trade-tariffs
 - us-economy
 people: []

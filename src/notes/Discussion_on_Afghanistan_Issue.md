@@ -6,7 +6,7 @@ category: geopolitics
 project:
 - geopolitics-watch
 tags:
-- 地缘政治
+- geopolitics
 - 政治
 - 视频文稿
 - 阿富汗

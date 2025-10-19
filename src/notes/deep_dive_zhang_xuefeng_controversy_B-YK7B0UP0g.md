@@ -8,8 +8,8 @@ tags:
 - chinese-nationalism
 - education-consulting
 - public-opinion
+people:
 - zhang-xuefeng
-people: []
 companies_orgs: []
 products_models: []
 media_books: []

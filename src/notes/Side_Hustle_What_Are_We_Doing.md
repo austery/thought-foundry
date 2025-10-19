@@ -7,7 +7,7 @@ project:
 - entrepreneurship
 - personal-growth-lab
 tags:
-- 个人成长
+- personal-growth
 - 人生经历
 - 创业精神
 - 副业探索

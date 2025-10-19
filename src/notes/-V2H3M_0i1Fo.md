@@ -8,9 +8,9 @@ tags:
 - creative-writing
 - education
 - poetry
-- sarah-kay
 - spoken-word
-people: []
+people:
+- sarah-kay
 companies_orgs: []
 products_models: []
 media_books: []

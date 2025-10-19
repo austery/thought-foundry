@@ -6,8 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
+- ai
 - prompt
-- 人工智能
 - 工作流
 - 视频文稿
 people: []

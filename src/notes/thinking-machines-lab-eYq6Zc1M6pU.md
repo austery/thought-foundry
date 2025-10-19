@@ -8,14 +8,14 @@ project:
 tags:
 - ai-inference
 - batch-invariance
-- best-partners-tv
 - floating-point-arithmetic
-- large-language-models
+- llm
 - non-determinism
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- best-partners-tv
 date: '2025-09-12'
 author: 最佳拍档
 speaker: 最佳拍档

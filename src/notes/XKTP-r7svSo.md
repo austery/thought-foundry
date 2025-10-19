@@ -7,13 +7,13 @@ project:
 - investment-strategy
 - market-cycles
 tags:
-- adam-s-axiom
 - behavioral-insights
 - economic-theory
 - government-intervention
 - macroeconomics
 - market-mechanisms
-people: []
+people:
+- adam-s-axiom
 companies_orgs: []
 products_models: []
 media_books: []

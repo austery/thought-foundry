@@ -8,7 +8,6 @@ project:
 - market-cycles
 - us-analysis
 tags:
-- bloomberg-podcasts
 - economic-policy
 - markets-update
 - middle-east-peace
@@ -17,7 +16,8 @@ people: []
 companies_orgs: []
 products_models:
 - bitcoin
-media_books: []
+media_books:
+- bloomberg-podcasts
 date: '2025-10-13'
 author: Bloomberg Podcasts
 speaker: Bloomberg Podcasts

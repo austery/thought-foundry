@@ -6,7 +6,6 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- die-with-zero
 - digital-nomad
 - family-reunion
 - life-transition
@@ -14,7 +13,8 @@ tags:
 people: []
 companies_orgs: []
 products_models: []
-media_books: []
+media_books:
+- die-with-zero
 date: '2025-02-23'
 author: 一口新飯
 speaker: 一口新飯
