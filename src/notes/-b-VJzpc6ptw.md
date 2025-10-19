@@ -9,7 +9,6 @@ tags:
 - blue-origin
 - commercial-spaceflight
 - space-exploration
-- t-literature-note
 people: []
 companies_orgs:
 - nasa

@@ -12,7 +12,6 @@ tags:
 - entrepreneurship
 - fintech
 - norges-bank-investment-management
-- t-literature-note
 people: []
 companies_orgs:
 - nubank

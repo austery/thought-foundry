@@ -10,7 +10,6 @@ tags:
 - mercenary-forces
 - myanmar-conflict
 - rare-earth-metals
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

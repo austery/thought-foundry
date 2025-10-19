@@ -8,7 +8,6 @@ project:
 tags:
 - bloomberg-podcasts
 - fair-isaac
-- t-literature-note
 people: []
 companies_orgs:
 - amd

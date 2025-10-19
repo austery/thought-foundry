@@ -9,7 +9,6 @@ tags:
 - english
 - language-learning
 - methodology
-- t-literature-note
 people:
 - kevinfeng
 companies_orgs: []

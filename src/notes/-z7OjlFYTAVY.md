@@ -14,7 +14,6 @@ tags:
 - french-political-crisis
 - gold-market
 - middle-east-peace
-- t-literature-note
 - us-government-shutdown
 people: []
 companies_orgs: []

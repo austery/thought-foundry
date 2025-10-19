@@ -12,7 +12,6 @@ tags:
 - aviation-disruption
 - bloomberg-podcasts
 - stock-market
-- t-literature-note
 - technology-stocks
 people: []
 companies_orgs: []

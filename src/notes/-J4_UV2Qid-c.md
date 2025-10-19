@@ -11,7 +11,6 @@ tags:
 - china-economy
 - hong-kong-stock-exchange
 - li-xiaojia
-- t-literature-note
 - wealth-distribution
 people:
 - lt

@@ -11,7 +11,6 @@ tags:
 - cyber-resilience
 - cybersecurity
 - ransomware
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

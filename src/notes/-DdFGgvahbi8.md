@@ -9,7 +9,6 @@ tags:
 - mind-heart
 - rationality
 - self-awareness
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

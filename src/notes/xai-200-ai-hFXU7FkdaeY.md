@@ -10,7 +10,6 @@ tags:
 - automotive-industry
 - bloomberg-podcasts
 - broadcasting-regulation
-- t-literature-note
 - xai
 people: []
 companies_orgs:

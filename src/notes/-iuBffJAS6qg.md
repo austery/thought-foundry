@@ -8,7 +8,6 @@ tags:
 - brics
 - de-dollarization
 - india
-- t-literature-note
 - tariffs
 people: []
 companies_orgs: []

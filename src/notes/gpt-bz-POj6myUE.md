@@ -9,7 +9,6 @@ tags:
 - concise-writing
 - custom-gpt
 - how-i-ai
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

@@ -10,7 +10,6 @@ tags:
 - government-spending
 - national-debt
 - socialism
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

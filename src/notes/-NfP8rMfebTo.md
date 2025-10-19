@@ -9,7 +9,6 @@ tags:
 - commercial-real-estate
 - consumer-spending
 - jpmorgan-chase
-- t-literature-note
 - wall-street
 people: []
 companies_orgs: []

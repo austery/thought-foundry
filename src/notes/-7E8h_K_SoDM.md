@@ -7,7 +7,6 @@ project: []
 tags:
 - attraction
 - canada
-- t-literature-note
 - travel
 - vancouver
 people: []

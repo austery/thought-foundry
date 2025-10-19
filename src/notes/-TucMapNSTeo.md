@@ -9,7 +9,6 @@ tags:
 - drug-trafficking
 - international-law
 - legal-theory
-- t-literature-note
 - war-powers
 people: []
 companies_orgs: []

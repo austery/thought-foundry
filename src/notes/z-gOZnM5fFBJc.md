@@ -6,7 +6,6 @@ category: finance
 project:
 - ai-impact-analysis
 tags:
-- --t-literature-note
 - ai
 - bloomberg-podcasts
 - federal-reserve

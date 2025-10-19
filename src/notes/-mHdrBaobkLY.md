@@ -7,7 +7,6 @@ project: []
 tags:
 - canada
 - garden-city
-- t-literature-note
 - travel
 - victoria
 people: []

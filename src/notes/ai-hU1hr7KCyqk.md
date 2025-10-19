@@ -12,7 +12,6 @@ tags:
 - growth-marketing
 - product-strategy
 - startup
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

@@ -10,7 +10,6 @@ tags:
 - bloomberg-podcasts
 - hardware
 - profitability
-- t-literature-note
 - virtual-cycling
 - zwift
 people: []

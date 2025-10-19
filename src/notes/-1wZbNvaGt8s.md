@@ -10,7 +10,6 @@ tags:
 - geopolitics
 - international-law
 - maritime-dispute
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

@@ -8,7 +8,6 @@ tags:
 - israel-palestine-conflict
 - middle-east
 - peace-plan
-- t-literature-note
 - united-nations-resolution
 people: []
 companies_orgs: []

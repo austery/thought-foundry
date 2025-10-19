@@ -11,7 +11,6 @@ tags:
 - bloomberg-podcasts
 - federal-reserve
 - gold
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

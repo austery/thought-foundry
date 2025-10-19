@@ -9,7 +9,6 @@ tags:
 - artificial-intelligence
 - bloomberg-podcasts
 - circular-financing
-- t-literature-note
 - tech-bubble
 - venture-capital
 people: []

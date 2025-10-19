@@ -12,7 +12,6 @@ tags:
 - bloomberg-podcasts
 - capital-expenditure
 - circular-funding
-- t-literature-note
 people: []
 companies_orgs:
 - nvidia

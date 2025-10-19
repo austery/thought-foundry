@@ -12,7 +12,6 @@ tags:
 - investor-mood
 - pension-reform
 - political-uncertainty
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

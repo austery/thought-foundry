@@ -11,7 +11,6 @@ project:
 tags:
 - china-us-relations
 - investment
-- t-literature-note
 - taiwan
 - xi-jinping
 people:

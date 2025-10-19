@@ -10,7 +10,6 @@ tags:
 - federal-employees
 - government-shutdown
 - obamacare
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

@@ -8,7 +8,6 @@ tags:
 - capilano-suspension-bridge
 - shannon-falls
 - spot-prawns
-- t-literature-note
 - travelogue
 - vancouver
 people: []

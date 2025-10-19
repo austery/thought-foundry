@@ -10,7 +10,6 @@ tags:
 - contextual-learning
 - language-learning
 - procedural-knowledge
-- t-literature-note
 people:
 - kevinfeng
 companies_orgs: []

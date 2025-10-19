@@ -10,7 +10,6 @@ tags:
 - ai
 - economy
 - investment
-- t-literature-note
 people: []
 companies_orgs:
 - blackstone

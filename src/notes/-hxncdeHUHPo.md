@@ -8,7 +8,6 @@ category: lifestyle
 project: []
 tags:
 - pacific-rim-national-park
-- t-literature-note
 - tofino
 - travel-cost-analysis
 - vancouver-island

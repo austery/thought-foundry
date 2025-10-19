@@ -12,7 +12,6 @@ tags:
 - china-surveillance
 - geopolitics
 - gold-price
-- t-literature-note
 people:
 - lt
 companies_orgs: []

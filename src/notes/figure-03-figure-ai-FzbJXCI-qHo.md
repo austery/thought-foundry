@@ -15,7 +15,6 @@ tags:
 - mass-production
 - robotics
 - sensory-systems
-- t-literature-note
 - tactile-sensors
 - wireless-charging
 people: []

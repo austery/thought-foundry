@@ -12,7 +12,6 @@ tags:
 - gen-z
 - gold
 - japan-economy
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

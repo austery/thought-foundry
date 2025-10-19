@@ -11,7 +11,6 @@ tags:
 - china-economy
 - french-politics
 - japan-politics
-- t-literature-note
 - uk-china-relations
 people:
 - lt

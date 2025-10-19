@@ -9,7 +9,6 @@ tags:
 - employer-expectations
 - gen-z
 - generational-differences
-- t-literature-note
 - workforce-values
 people: []
 companies_orgs: []

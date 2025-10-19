@@ -9,7 +9,6 @@ tags:
 - economy
 - geopolitics
 - political-reform
-- t-literature-note
 - vietnam
 people: []
 companies_orgs: []

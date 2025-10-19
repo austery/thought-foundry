@@ -10,7 +10,6 @@ tags:
 - focus
 - learning-strategy
 - productivity
-- t-literature-note
 people:
 - kevinfeng
 companies_orgs: []

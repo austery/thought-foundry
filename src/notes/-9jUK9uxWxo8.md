@@ -10,7 +10,6 @@ tags:
 - anglo-russian-great-game
 - dalai-lama
 - political-history
-- t-literature-note
 - tibet
 people: []
 companies_orgs: []

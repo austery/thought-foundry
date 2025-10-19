@@ -10,7 +10,6 @@ tags:
 - government-shutdown
 - house-of-representatives
 - senate
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

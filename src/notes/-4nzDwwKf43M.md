@@ -9,7 +9,6 @@ tags:
 - immersive-environment
 - language-acquisition
 - nordic-countries
-- t-literature-note
 people:
 - kevinfeng
 companies_orgs: []

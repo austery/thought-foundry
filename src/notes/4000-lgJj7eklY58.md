@@ -12,7 +12,6 @@ tags:
 - france
 - gold
 - macron
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

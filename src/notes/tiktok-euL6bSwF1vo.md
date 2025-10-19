@@ -8,7 +8,6 @@ project:
 tags:
 - china
 - defense
-- t-literature-note
 - trade-war
 people:
 - lt

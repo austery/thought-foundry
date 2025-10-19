@@ -9,7 +9,6 @@ tags:
 - energy-policy
 - nuclear-power
 - strategic-petroleum-reserve
-- t-literature-note
 - ukraine-minerals
 people: []
 companies_orgs: []

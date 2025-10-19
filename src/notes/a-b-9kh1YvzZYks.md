@@ -9,7 +9,6 @@ tags:
 - data-science
 - experimentation
 - statistics
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

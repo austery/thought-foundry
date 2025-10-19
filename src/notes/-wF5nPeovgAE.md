@@ -11,7 +11,6 @@ tags:
 - golden-age
 - innovation
 - norges-bank-investment-management
-- t-literature-note
 people: []
 companies_orgs: []
 products_models: []

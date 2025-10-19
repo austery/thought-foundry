@@ -11,7 +11,6 @@ tags:
 - bloomberg-podcasts
 - federal-workers
 - government-shutdown
-- t-literature-note
 - trade-negotiations
 - trump-administration
 people: []
