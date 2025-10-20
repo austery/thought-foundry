@@ -1,9 +1,9 @@
 ---
 title: 专题讨论：从哈佛演讲争议到六四历史反思
-summary: society-systems
-area: geopolitics
+summary: 
+area: society-systems
 category: geopolitics
-project: [china-analysis]
+project: [china-analysis,ystems-thinking]
 tags:
 - 哈佛演讲
 - 政治
