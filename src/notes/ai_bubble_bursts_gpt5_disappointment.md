@@ -16,7 +16,7 @@ products_models:
 media_books: []
 date: 2025-09-01
 author: Lei
-speaker: 北美王陆飞
+speaker: 北美王路飞
 draft: true
 file_name: ai_bubble_bursts_gpt5_disappointment.md
 guest: 老隐, 索隆
