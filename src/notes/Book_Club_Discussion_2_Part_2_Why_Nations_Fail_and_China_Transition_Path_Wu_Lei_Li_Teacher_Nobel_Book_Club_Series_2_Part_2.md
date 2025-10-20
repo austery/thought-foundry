@@ -1,7 +1,7 @@
 ---
 title: 读书会讨论(二) Part2：《国家为什么会失败》与中国的转型路径
 summary: null
-area: market-analysis
+area: society-systems
 category: geopolitics
 project:
 - china-analysis
