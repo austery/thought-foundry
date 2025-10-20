@@ -14,7 +14,7 @@ people: []
 companies_orgs: []
 products_models: []
 media_books: []
-date: 2025-08-19
+date: "2025-08-19"
 author: Lei
 speaker: 徒步的骑手
 channel: null

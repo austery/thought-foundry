@@ -32,12 +32,8 @@ permalink: "/people/{{ personInfo.uniqueKey | slug }}/"
       {% endif %}
       {# 日期部分 #}
       {% if item.date %}
-        <time datetime="{{ item.date }}">
-          {% if item.data.date %}
-            {{ item.data.date }}
-          {% else %}
-            {{ item.date.toLocaleDateString() }}
-          {% endif %}
+        <time datetime="{{ item.date.toISOString() }}">
+          {{ item.date.toLocaleDateString() }}
         </time>
       {% endif %}
       <br>

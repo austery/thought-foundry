@@ -19,7 +19,7 @@ author: Lei
 speaker: 北美王路飞
 draft: true
 file_name: ai_bubble_bursts_gpt5_disappointment.md
-guest: 老隐, 索隆
+guest: 老尹, 索隆
 insight: null
 layout: post.njk
 series: null

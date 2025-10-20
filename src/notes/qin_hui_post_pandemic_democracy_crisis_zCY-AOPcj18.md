@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: 李厚辰, 武雷
+speaker: 李厚辰, 伍雷
 draft: true
 file_name: qin_hui_post_pandemic_democracy_crisis_zCY-AOPcj18.md
 guest: 秦晖
