@@ -1,10 +1,10 @@
 ---
-author: N/A
+author: 贾葭
 date: '2025-10-20'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=3KEtLmFQ_s0
-speaker: N/A
+speaker: 贾葭
 tags:
   - japanese-xenophobia
   - national-identity
