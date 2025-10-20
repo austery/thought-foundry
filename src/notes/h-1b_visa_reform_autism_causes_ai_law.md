@@ -1,7 +1,7 @@
 ---
 title: H-1B签证改革、吉米·坎摩尔道歉、自闭症成因与加州仇恨言论法案系统性分析
 summary: 本期节目深度分析了H-1B签证新规及其滥用、自闭症与泰诺的关联性争议、吉米·坎摩尔事件引发的政治暴力文化讨论，以及人工智能的最新突破和加州拟议的仇恨言论法案。
-area: tech-insights
+area: society-systems
 category: technology
 project:
 - ai-impact-analysis

@@ -1,7 +1,7 @@
 ---
 title: H1-B签证剧变：一场政治豪赌与美国未来之忧
 summary: 特朗普政府提出H1-B签证10万美元申请费新政，引发全球恐慌与混乱。本文深入分析该政策的真正意图，揭示其对美国科技竞争力、医疗系统及人才吸引力的潜在伤害，并指出其本质是一场为短期政治利益服务的政治表演。
-area: market-analysis
+area: society-systems
 category: geopolitics
 project:
 - us-analysis

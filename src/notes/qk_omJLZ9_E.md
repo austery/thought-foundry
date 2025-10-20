@@ -1,18 +1,17 @@
 ---
 title: 2024美国大选终局：哈里斯精英联盟的失策与特朗普的混乱胜利
 summary: 本文深入剖析2024年美国总统大选最后30天，揭示哈里斯竞选团队精英策略的惨败，以及特朗普团队如何凭借实用主义与混乱赢得胜利，探讨美国政治的深层裂痕。
-area: tech-insights
-category: technology
+area: society-systems
+category: geopolitics
 project:
-- ai-impact-analysis
 - us-analysis
 tags:
 - campaign-strategy
 - elite-politics
-- harris
 - us-presidential-election
 people:
 - trump
+- harris
 companies_orgs: []
 products_models: []
 media_books: []
