@@ -1,9 +1,9 @@
 ---
 title: 中共宣传进化史：从舆论引导到舆论斗争
 summary: null
-area: null
-category: null
-project: []
+area: society-systems
+category: general
+project: china-analysis
 tags:
 - 内宣
 - 新闻反转
@@ -16,7 +16,7 @@ date: '2025-07-10'
 author: Lei
 speaker: 夸克说
 channel: null
-guest: 无
+guest: 
 insight: null
 layout: post.njk
 series: null

@@ -1,9 +1,9 @@
 ---
 title: 股票代币化时代：揭秘Robinhood的商业模式与加密野心
 summary: 本期播客深入探讨了资产代币化的趋势，重点剖析了**Robinhood**在欧洲推出的股票代币产品。节目详细对比了**Robinhood**的**CFD**（差价合约）模式与**Kraken**的**1:1**映射模式的本质区别，并揭示了**Robinhood**以**PFOF**（订单流支付）为核心的商业模式，解释了为何加密货币交易能为其带来远超股票交易的巨额利润。同时，节目还讨论了该模式面临的监管挑战、万物上链对全球金融格局的潜在影响，以及一级半市场的兴起对传统风投的冲击。
-area: null
-category: null
-project: []
+area: market-analysis
+category: business
+project: market-cycles
 tags:
 - pfof
 - 加密货币
@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: 2025-08-17
 author: Lei
-speaker: 泓君, 刘锋
+speaker: 泓君, 刘峰
 channel: ''
 draft: true
 file_name: robinhood_stock_tokenization_business_model_crypto_ambition.md

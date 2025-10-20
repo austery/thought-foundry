@@ -1,7 +1,7 @@
 ---
 title: 法庭风云：丁胖子金牌讲师背后的举报与政庇内幕
 summary: null
-area: market-analysis
+area: society-systems
 category: geopolitics
 project:
 - us-analysis
@@ -15,9 +15,9 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 刘索隆,路飞
+speaker: 北美王路飞
 channel: null
-guest: null
+guest: 刘索隆
 insight: null
 layout: post.njk
 series: null

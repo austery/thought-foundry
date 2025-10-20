@@ -18,7 +18,7 @@ products_models: []
 media_books: []
 date: 2025-08-11
 author: Lei
-speaker: 肖涛
+speaker: 投资TALK君
 channel: null
 draft: true
 file_name: cpi_meaning_25bp_cut_better_than_50bp.md

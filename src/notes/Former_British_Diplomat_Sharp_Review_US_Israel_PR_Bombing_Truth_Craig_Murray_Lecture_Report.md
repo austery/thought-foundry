@@ -1,9 +1,9 @@
 ---
 title: 前英国外交官锐评美以“公关式”轰炸真相
 summary: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
-area: null
-category: null
-project: []
+area: society-systems
+category: geopolitics
+project: [us-analysis]
 tags:
 - 中东冲突
 - 媒体偏见
@@ -15,7 +15,7 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 路飞
+speaker: 北美王路飞
 channel: null
 guest: Craig Murray
 insight: null

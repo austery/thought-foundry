@@ -1,9 +1,9 @@
 ---
 title: 专题讨论：从哈佛演讲争议到六四历史反思
-summary: null
-area: null
-category: null
-project: []
+summary: society-systems
+area: geopolitics
+category: geopolitics
+project: [china-analysis]
 tags:
 - 哈佛演讲
 - 政治
@@ -14,7 +14,7 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 路飞
+speaker: 北美王路飞
 channel: null
 guest: 老尹
 insight: null

@@ -1,9 +1,9 @@
 ---
 title: 中国海警船与驱逐舰南海相撞：意外乌龙还是帝国野心？
 summary: 近期中国海警船与驱逐舰在南海相撞，引发了关于中国军队专业性的讨论。本期探讨了事件背后的“灰域作战”策略、军事化的海警力量、南海仲裁案的影响，以及中国在南海的强硬姿态如何影响其与菲律宾、东盟及美日的关系，并反思其地缘战略的得与失。
-area: null
-category: null
-project: []
+area: society-systems
+category: geopolitics
+project: [china-analysis]
 tags:
 - 中菲关系
 - 南海问题
@@ -16,11 +16,11 @@ products_models: []
 media_books: []
 date: 2025-08-15
 author: Lei
-speaker: 后生
+speaker: 三個水槍手
 channel: ''
 draft: true
 file_name: nan_hai_hai_jing_chuan_xiang_zhuang_di_guo_ye_xin.md
-guest: 吴律,甲熊
+guest: 
 insight: ''
 layout: post.njk
 series: ''

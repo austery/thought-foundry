@@ -3,7 +3,7 @@ title: 第三课：吵架十诫
 summary: null
 area: personal-growth
 category: lifestyle
-project: []
+project: cultural-critique
 tags:
 - 夫妻关系
 - 婚姻关系
@@ -17,9 +17,6 @@ media_books: []
 date: '2025-07-10'
 author: Lei
 speaker: 林静芝,李秀全
-channel: null
-guest: 无
-insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=oP3lqZMNjts

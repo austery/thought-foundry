@@ -18,15 +18,11 @@ products_models: []
 media_books: []
 date: 2025-08-10
 author: Lei
-speaker: 小涛
-channel: null
+speaker: 投资TALK君
 draft: true
 file_name: July_CPI_strong_consumption_NFP_black_swan.md
-guest: null
-insight: null
 layout: post.njk
-series: null
-source: ✨【投资TALK君1315期】偷看7月份CPI数据！7月消费异常强劲！探究8月的大非农黑天鹅✨20250810#CPI
+source: https://www.youtube.com/watch?v=tbds-qQ0JhI
 ---
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且周日也要为大家做更新的专业美股日更频道，我是市场分析员小涛。今天内容非常的多，所以大家可以慢慢的听。
 
