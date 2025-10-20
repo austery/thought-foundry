@@ -6,6 +6,7 @@ source: https://www.youtube.com/watch?v=lXUZvyajciY
 date: "2025-10-18"
 area: "tech-insights"
 category: "technology"
+layout: post.njk
 project:
   - "ai-impact-analysis"
   - "systems-thinking"
