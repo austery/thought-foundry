@@ -46,8 +46,8 @@
 }
 
 .summary-text {
-    background-color: var(--theme-accent-blue-light);
-    color: var(--theme-accent-blue);
+    background-color: var(--theme-summary-bg);
+    color: var(--theme-text-secondary);
     border-left: 2px solid var(--theme-accent-blue);
 }
 

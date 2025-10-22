@@ -2,12 +2,12 @@
 /* 主题变量定义：支持浅色和深色主题 */
 
 :root {
-  /* ===== 浅色主题（默认） ===== */
-  --theme-bg-primary: #ffffff;
-  --theme-bg-secondary: #f9f9f9;
-  --theme-bg-tertiary: #f5f5f5;
+  /* ===== 浅色主题（柔和） ===== */
+  --theme-bg-primary: #FAFAFA;
+  --theme-bg-secondary: #f5f5f5;
+  --theme-bg-tertiary: #eeeeee;
 
-  --theme-text-primary: #222222;
+  --theme-text-primary: #18181B;
   --theme-text-secondary: #666666;
   --theme-text-muted: #999999;
 
@@ -21,6 +21,8 @@
   --theme-accent-green: #48bb78;
   --theme-accent-green-light: #f0fff4;
 
+  --theme-summary-bg: var(--theme-accent-blue-light); /* For summary blocks */
+
   --theme-shadow: rgba(0, 0, 0, 0.05);
   --theme-shadow-dark: rgba(0, 0, 0, 0.1);
 
@@ -30,37 +32,38 @@
   color-scheme: light;
 }
 
-/* ===== 深色主题（Material Design 3） ===== */
+/* ===== 深色主题 (基于 Obsidian Dev Blog) ===== */
 [data-theme="dark"] {
-  /* 背景色 - 基于 Material Design 3 深色主题 */
-  --theme-bg-primary: #121212;      /* Material Design 推荐的深色背景 */
-  --theme-bg-secondary: #1e1e1e;    /* 轻微提升 */
-  --theme-bg-tertiary: #2a2a2a;     /* 进一步提升 */
+  /* 背景色 */
+  --theme-bg-primary: #0d0d0d;
+  --theme-bg-secondary: #121212;
+  --theme-bg-tertiary: #1f1f1f;
 
-  /* 文本颜色 - 优化对比度和易读性 */
-  --theme-text-primary: #ffffff;    /* 纯白色，更清晰 */
-  --theme-text-secondary: #b3b3b3;  /* 中灰色，仍可读 */
-  --theme-text-muted: #808080;      /* 深灰色，降低焦点 */
+  /* 文本颜色 */
+  --theme-text-primary: rgba(255, 255, 255, 0.9);
+  --theme-text-secondary: rgba(255, 255, 255, 0.7);
+  --theme-text-muted: rgba(255, 255, 255, 0.6);
 
-  /* 边框颜色 - 增强分层感 */
-  --theme-border-color: #363636;    /* 更清晰的分隔线 */
-  --theme-border-dark: #4a4a4a;     /* 更深的边框 */
+  /* 边框颜色 */
+  --theme-border-color: #363636;
+  --theme-border-dark: #4a4a4a;
 
-  /* 强调色 - 基于 Material Design 色彩体系 */
-  --theme-accent-blue: #82b1ff;     /* 更亮的蓝色 */
-  --theme-accent-blue-light: #1f3a60; /* 深蓝色背景 */
-  --theme-accent-orange: #ffb74d;   /* 更亮的橙色 */
-  --theme-accent-orange-light: #4a3520; /* 深橙色背景 */
-  --theme-accent-green: #69f0ae;    /* 更亮的绿色 */
-  --theme-accent-green-light: #1b5e3f; /* 深绿色背景 */
+  /* 强调色 (柔和彩色系) */
+  --theme-accent-blue: #B48EAD;        /* Category: 薰衣草紫 */
+  --theme-accent-blue-light: #3e303d;   /* 浅紫色背景 (微调) */
+  --theme-accent-orange: #EBCB8B;      /* Project: 琥珀黄 */
+  --theme-accent-orange-light: #4a4230; /* 浅黄色背景 (微调) */
+  --theme-accent-green: #8FBCBB;        /* Area: 水蓝色 */
+  --theme-accent-green-light: #2e4040;  /* 浅蓝色背景 (微调) */
 
-  /* 阴影 - 在深色背景上更细微 */
+  /* 组件颜色 */
+  --theme-summary-bg: #2c2c2c; /* For summary blocks */
+  --theme-button-bg: #1f1f1f;
+  --theme-button-bg-hover: #383838;
+
+  /* 阴影 */
   --theme-shadow: rgba(0, 0, 0, 0.2);
   --theme-shadow-dark: rgba(0, 0, 0, 0.4);
-
-  /* 按钮颜色 */
-  --theme-button-bg: #1f88e5;       /* 鲜亮的蓝色 */
-  --theme-button-bg-hover: #1a6dcc; /* 稍深的蓝色 */
 
   color-scheme: dark;
 }

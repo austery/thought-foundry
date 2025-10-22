@@ -12,6 +12,7 @@
 .tag-pill {
     display: inline-block;
     padding: 0.25rem 0.75rem;
+    border: 1px solid var(--theme-border-color); /* Added theme-aware border */
     border-radius: 9999px;
     /* 用一个很大的值来创建药丸形状 */
     background-color: var(--theme-bg-secondary);
