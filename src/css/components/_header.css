@@ -41,3 +41,10 @@
     max-width: 400px;
     /* 限制搜索框宽度 */
 }
+
+/* 新增：确保搜索框和主题切换按钮垂直对齐 */
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}

@@ -6,12 +6,20 @@ permalink: "/all-speakers/"
 
 <h1>所有演讲者</h1>
 
-<div class="speaker-list">
-  {% for speakerInfo in collections.speakerList %}
-    <a href="{{ ('/speakers/' + (speakerInfo.uniqueKey | slug) + '/') | url }}" class="speaker-pill">
-      {{ speakerInfo.name }} ({{ speakerInfo.posts.length }})
-    </a>
-  {% endfor %}
+<div class="filterable-container">
+  <input type="text" class="list-filter-input" placeholder="筛选演讲者..." aria-label="Filter speakers">
+
+  <ul class="filterable-list speaker-list">
+    {% for speakerInfo in collections.speakerList %}
+      <li>
+        <a href="{{ ('/speakers/' + (speakerInfo.uniqueKey | slug) + '/') | url }}" class="speaker-pill">
+          {{ speakerInfo.name }} ({{ speakerInfo.posts.length }})
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
+
+<script src="{{ '/js/list-filter.js' | url }}" defer></script>
 
 <p><a href="{{ '/' | url }}">← 返回首页</a></p>

@@ -6,11 +6,18 @@ permalink: "/all-tags/"
 
 <h1>所有标签</h1>
 
-<div class="tag-list">
-  {% for tagInfo in collections.tagList %}
-    {# 同样，在这里的链接中，我们也对 tagInfo.key 使用 slug 过滤器 #}
-    <a href="{{ ('/tags/' + (tagInfo.key | slug) + '/') | url }}" class="tag-pill">
-      #{{ tagInfo.name }} ({{ tagInfo.posts.length }})
-    </a>
-  {% endfor %}
+<div class="filterable-container">
+  <input type="text" class="list-filter-input" placeholder="筛选标签..." aria-label="Filter tags">
+  
+  <ul class="filterable-list tag-list">
+    {% for tagInfo in collections.tagList %}
+      <li>
+        <a href="{{ ('/tags/' + (tagInfo.key | slug) + '/') | url }}" class="tag-pill">
+          #{{ tagInfo.name }} ({{ tagInfo.posts.length }})
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
+
+<script src="{{ '/js/list-filter.js' | url }}" defer></script>
