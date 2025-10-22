@@ -1,0 +1,437 @@
+Hello everyone, I'm Anthony
+Welcome to my channel
+Today's video
+We will reveal
+ChatGPT and Gemini
+Which one has better reading ability?
+In yesterday's video
+We first explored
+The potential of AI for free learning
+It can read large amounts of text quickly
+And in different literature
+Perform cross-comparison and theoretical transfer
+This is important for our thinking and learning.
+It is quite important
+And this way of learning
+It is also very consistent
+The learning concept emphasized by our channel
+In the previous video
+We have also completed the most critical preparations
+That is to say, those photocopied PDFs
+Through OCR tools
+Convert to relatively clean plain text
+We also set up a set of tests with increasing difficulty
+The title extracts information from the most basic
+Go to the table of contents summary
+Then refine and summarize the paragraph structure
+Finally, the theoretical transfer across chapters and logical chains
+As an assistant to help us read and think
+These are very practical abilities.
+Now we officially start testing
+I will post this video
+Put it in the list of "Psychology and Education"
+If you have anything you want to discuss with me
+and consultation topics
+You can contact my email to make an appointment
+First we select the sample books for the test
+It is "Attachment in Psychotherapy" published in 2014
+The reason for choosing this book
+Because it is a highly academic book
+Covers a wide range of psychological concepts
+and
+Its writing style is quite rigorous and precise
+There are a lot of long sentences in the book
+And the logic is complex and the concepts are dense
+This requires AI to not only be able to match keywords
+We must also truly understand the logical chain
+More importantly
+Such books are usually written in
+A core concept is mentioned repeatedly in different chapters
+But it will be given new meaning in different contexts
+This requires AI to be able to
+Correctly track the same concept
+And distinguish its application in different situations
+So in the first stage
+We set a basic and simple question
+For example, on page 134 there is this passage:
+Bowlby (1985) defines the psychotherapist's task as follows:
+Our Role
+It allows the patient to think
+Those parents who have hindered
+Forbid them to think
+To experience the obstacles that parents once prevented,
+Forbid them to experience feelings
+To consider those
+The behavior that their parents once forbade them to reflect on
+So
+We asked the same question to two AIs
+Mentioned in the book
+Bowlby in 1985
+How is the task of a psychotherapist defined?
+This question is not difficult
+Because it has a very high degree of overlap with the original sentence in the book
+It is essentially an information extraction problem
+So
+Plus-level ChatGPT 5 answers very accurately
+Basically a retelling of the original text
+No errors or omissions
+The Gemini 2.5 Pro also accurately answered
+And it is also pointed out that this is from Chapter 7
+It is equivalent to adding a positioning information to the answer
+So from the results
+There is no problem with both answers
+All are qualified or even excellent
+We can say that the two sides had a draw
+But it is precisely because the topic is too basic
+This round can only be regarded as a warm-up
+Help us verify
+Two AIs have at least the most basic
+Text search and citation capabilities
+Although this problem is simple
+But some models may be rewritten and restated
+Not completely faithful to the original text
+Therefore, this test is still necessary
+Next
+We enter the second stage
+That is to ask AI to summarize the table of contents of the whole book
+and summarize the main idea of ​​each chapter in a short paragraph
+because
+For a complex humanities and social sciences book
+The table of contents and chapters are the skeleton of the author's ideas
+If an AI only retrieves local text sporadically
+It may answer some details
+But I can't get a comprehensive grasp of the whole book.
+The summary directory
+In particular, it is required to write a summary of each chapter
+You can test whether it has really read the whole book
+and understand the logical context
+So I asked the same question to both AIs:
+"You can give a detailed catalog of this book.
+And in a short paragraph
+Summarize the main content of each chapter?"
+First, let’s look at Gemini’s answer
+Overall
+It generates chapter titles and content summaries
+is correct
+This shows that it does have a macro grasp of the entire book.
+There are some minor flaws though:
+For example, the original title of Chapter 8 is
+Nonverbal Experience and the "Unthought-Known"
+Entering the Emotional Core of Yourself
+Gemini missed the second half of the sentence
+In addition, the first part of the original book
+Actually, it starts from the second chapter.
+Chapter 1 is a preface
+And Gemini
+Mistakenly included the first chapter in the first part
+But these problems are not serious
+The flaws outweigh the merits
+More importantly,
+It is in the task of "Chapter Summary"
+Performed quite well
+because
+We ask AI to do more than just recite chapter titles
+Also avoid taking words literally
+That is to say
+It can't just guess the content based on the title
+You must read this chapter
+Only then can we grasp the key points that are not reflected in the title
+for example
+The summary of Gemini in Chapter 8 is:
+This chapter explores
+How therapists can process nonverbal cues
+To access and process implicit experiences
+The concept of "implicit experience"
+It's not in the title.
+You will only know it if you read the text.
+For example, Chapter 9
+The Self's Stance Toward Experience: Embedding, Mentalization, and Awareness
+Gemini concluded:
+This chapter believes
+From "embeddedness" to "mentalization and awareness"
+is the key goal of treatment
+This is more profound than just the title.
+It means it knows
+Mentalization and awareness are better than embedding
+From these details we can see
+Gemini is in this link
+It really showed
+Ability to understand the structure and details of the book
+It not only refines the outline
+You can also capture the author's focus in each chapter
+Demonstrated ability to read a book thoroughly and summarize it
+Then let's look at the performance of ChatGPT
+When I asked the same question
+GPT does not list the contents of the chapter
+Instead, I package several chapters together for a summary.
+This is obviously very different from the answer I expected.
+So I asked:
+Please give a detailed catalog of this book.
+And use a short paragraph to summarize the general content of each chapter."
+This time it does generate a chapter-by-chapter table of contents
+But problems also emerged
+The title is seriously different from the original book
+There were even fabricated
+For example
+The title of the first chapter of the original book is "Attachment and Change"
+GPT wrote "Bowlby's insights and inspiration"
+Chapter 5 of the original book is "Multiple Dimensions of Self"
+GPT refers to the relationship between the baby and the mother.
+These are obviously not the actual titles in the book
+Instead, GPT is based on the theme of the book.
+Self-expression
+but
+It's not entirely wrong
+Some chapter titles are given correctly by GPT
+For example, Chapter 7 and Chapter 8 are completely correct
+But the situation in Chapter 9 is more interesting.
+The original book is titled "Embedding, Mentalization, and Awareness"
+What GPT generates is "substitution, mentalization, and awareness"
+This is very confusing
+Did it read the text or not?
+This shows
+GPT may have captured the original text in some places
+But in other places
+Depends on its own language pattern
+and training experience to complement
+This makes it difficult for us to judge
+It is really read
+Or is it imitating the style of a book?
+Let’s look at GPT’s summary of the chapter content.
+Compared to Gemini
+GPT's summary is obviously more concise and contains less information
+And the error rate is higher
+for example
+Chapter 17 is entitled "Mentalization and Awareness:
+The Double Helix of Psychological Liberation
+GPT correctly rephrases the title
+But in the summary
+But the double helix structure is mentalization and mindfulness
+The "mindfulness" here is entirely GPT's own play
+Not consistent with the original meaning of the book
+This shows that GTT is good at dealing with details.
+There is a tendency to "autocomplete"
+It doesn't want to leave a vacancy
+Instead, they fill in the blanks with similar concepts seen in training.
+therefore
+In the second part of the
+Our conclusion is
+Gemini's performance is closer to "real reading"
+The performance of GPT has a lot of fantasy parts
+So this round can obviously be said to be the winner of Gemini
+If the first two links
+The main focus is on AI's ability to extract original text
+Then the third part
+It requires it to extract
+Abstract the author did not explicitly say
+But the implicit structure that can be logically inferred
+Our problem in this section is
+Main proposed metacognitive ability in 1991.
+On which three foundations is it built?
+The answer appears on page 184 of this book.
+In the original text,
+Main did not explicitly say that "metacognition has three foundations"
+Instead, three parallel concepts are listed.
+That is, the distinction between surface and substance
+Diversity of representation and change in representation
+This requires AI to understand syntactic structure
+Only then can we realize that these three are in parallel relationship
+So
+How do the two AIs perform?
+We say that Gemini's answer is almost perfect
+It not only correctly extracts these three concepts
+There is an additional "bonus point"
+The original English words are added to these keywords:
+For example, after the representational change
+Marked representational change
+To know
+These English words are not actually written in the main text of the book.
+They are attached in the Chinese and English index at the end
+Gemini should have captured the index
+And automatically completed the corresponding
+This means that when it processes text
+Not just passive extraction
+You can also check terminology
+Ensure the accuracy and professionalism of the answers
+Make book-wide associations
+It can be said that this was an extraordinary performance
+The performance of CHATGPT is much worse.
+First, GPT responded:
+Metacognitive ability is first established in
+“Cognition about cognition
+and the ability to think about thinking”
+This sentence makes sense at first glance.
+But this is not so much the basis of metacognitive ability
+It is better to say that the definition of metacognition itself
+That is to say
+It blurs the "conditions of the concept"
+The boundary between the concept and the meaning of the concept
+The second keyword given by GPT is
+"Understanding the Representational Nature of Mental Representations"
+This does not directly correspond to the original text of Main
+But its interpretation of the term
+But it is consistent with the original text
+GPT says this means "being able to realize
+Our own mental representations are just that: representations;
+Not equal to reality itself"
+This fits perfectly with what Main said.
+What does “distinguishing between appearance and substance” mean?
+in other words
+Although it does not correctly restore the original term
+But it is closer in semantic understanding
+Regarding the third point
+GPT is verbose
+On the surface, it seems to add a new concept
+But the actual content is still repeatedly emphasized
+The dimension of “distinguishing between appearance and substance”
+Therefore, taking a comprehensive view
+GPT can only be said to have answered one of the three concepts
+To further explore
+Is this related to the input text being too long?
+I have divided this book into two parts.
+And only feed the first half to GPT
+Ask the same question again
+This time GPT's answer has been significantly improved
+Successfully extracted the distinction between "surface and substance"
+The two concepts of “representational diversity”
+And the third "representational change"
+Understood as “variability of representation”
+Although the wording is not completely consistent
+But the semantics are very close.
+This means
+If you want GPT to answer correctly
+We may need to put a text
+Cut it into several parts and feed it
+But being able to read long texts is itself a manifestation of ability.
+OK
+Now let's move on to the most difficult part.
+It is to test the ability of AI to read deeply
+We hope
+AI can apply and transfer theories across chapters
+For example
+Chapter 7 of this book mentions the three foundations of metacognition
+Chapter 12 discusses indifferent attachment.
+We hope
+AI can be based on the three foundations of metacognition
+Analyze the psychological characteristics of indifferent attachment in these three dimensions
+The answer to this question
+It doesn't appear anywhere in the book
+It requires AI to reason on its own
+Therefore, when we evaluate the answers
+Mainly from two aspects
+The first is whether AI correctly understands
+And using these three foundations
+Second, does AI actually cite
+And integrated the content of Chapter 12
+That is to say
+To what extent is it
+Identifying the characteristics of indifferent attachment
+We hope
+AI can be used based on being faithful to the original text
+Otherwise, there is no need for it to read.
+So let's look at the performance of GPT
+I uploaded this book in two parts.
+Make sure it can be read separately by GPT
+From the analysis of GPT
+Its understanding of the foundations of metacognition is correct
+The analysis of apathetic patients is also in place
+However
+GPT's wording is relatively general
+More reliance on everyday language
+For example, words like ignore, exclude, and fix
+Of course there's nothing wrong with it.
+But it does not refer to Chapter 12
+Definition and theoretical analysis of indifferent attachment
+In theoretical precision and terminology
+Still a little bit off
+Therefore, the GPT analysis is more like
+A common-sense understanding of indifferent attachment
+Rather than a response to a specific chapter in this book
+Let's look at Gemini's answer.
+First, it says
+Core Strategies of Cold Attachment
+It reduces the activity of the attachment system
+And bold the key words
+The word "reduced activity"
+This is a concept clearly mentioned in the book
+It is used to describe the avoidant
+or individuals with indifferent attachment
+We use everyday language to describe such individuals
+They might say they exclude others.
+Or suppressing the need for intimacy
+That's certainly true.
+But the concept of attachment system activity
+Can indifferent attachment
+Differentiate from obsessive attachment
+Because the former is characterized by low activity
+The latter is over-activation
+therefore
+We can use the concept of attachment system activity
+To measure different types of people
+It provides a structural conceptual framework
+This is where the term becomes technical.
+Next, Gemini uses the three foundations of metacognition
+Analysis of Indifferent Attachment
+These analyses are of course completely correct.
+But compared to GPT
+Gemini's answer involves several keywords
+One is to belittle, the other is to idealize others
+This is exactly what is mentioned in Chapter 12
+Three Patterns of Indifferent Attachment
+Can also be considered as three subtypes
+That is, devaluation, control, and idealization
+That is to say
+Gemini
+Not only correctly understand the three foundations of metacognition
+It is also compared with the two modes of indifference
+Automatically combine
+It shows that it is closely related to the text
+and cross-chapter integration capabilities
+certainly
+It is a pity that the control mode is not mentioned.
+But that in itself is an additional goal
+Overall, the flaws are still not enough to hide the merits
+That's it
+Our game is over.
+In the end, Gemini won with a score of 4:1.
+certainly
+This test is definitely not rigorous.
+But you can explore and summarize it yourself
+Gemini's processing of long academic texts
+More rigorous performance
+As an academic assistant in the humanities and social sciences
+More stable and reliable
+certainly
+GPT also has its own unique advantages
+It has stronger language affinity
+Especially GPT-4o
+Not only easy to understand
+And have a very high emotional intelligence
+So my opinion is
+GPT is more like a friend who is good at empathy
+alright
+That's all for this video.
+If you have any confusion or questions
+Want to communicate with me
+Just contact my email directly
+for example
+You want to discuss an article or a paragraph with me
+A certain video, a certain social phenomenon
+Or your diary
+Please send me the relevant text in advance.
+I will read it before the formal communication
+Or you want to discuss your life experience with me
+Confusion and emotion
+All are possible
+If you are concerned about privacy, security
+Any questions about payment and communication methods
+Please also tell me in time
+If you are unable to pay or join the membership
+Please also contact me
+I will provide other details
+Please refer to this picture
+I will post this video
+Put it in the list of "Psychology and Education"
+Also recommend to everyone
+Check out my other videos in this list
+Thank you for watching, goodbye!
