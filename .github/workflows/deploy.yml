@@ -3,9 +3,14 @@
 name: Build and Deploy to Public Repo
 
 on:
-  push:
-    branches: ["main"]
+  # 每小时自动部署一次（UTC时间每小时整点）
+  schedule:
+    - cron: '0 * * * *'
+  # 保留手动触发选项
   workflow_dispatch:
+  # 如果需要push时也触发，可以取消下面的注释
+  # push:
+  #   branches: ["main"]
 
 jobs:
   build-and-deploy:
