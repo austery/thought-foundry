@@ -19,16 +19,17 @@
     max-height: 90vh;
     overflow-y: auto;
     padding: 15px;
-    background-color: #fff;
+    background-color: var(--theme-bg-primary);
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 2px 5px var(--theme-shadow);
 }
 
 .sidebar-toc h3 {
     margin-top: 0;
     font-size: 1.1em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--theme-border-color);
     padding-bottom: 10px;
+    color: var(--theme-text-primary);
 }
 
 .sidebar-toc ul {
@@ -60,23 +61,23 @@
     /* 占据所有剩余空间 */
     min-width: 0;
     /* 允许内容区在必要时收缩 */
-    background-color: #fff;
+    background-color: var(--theme-bg-primary);
     padding: 20px 30px;
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 2px 5px var(--theme-shadow);
 }
 
 /* 标题样式 */
 .main-content h1,
 .main-content h2,
 .main-content h3 {
-    color: #222;
+    color: var(--theme-text-primary);
 }
 
 .main-content h1 {
     font-size: 2em;
     margin-bottom: 0.8em;
-    border-bottom: 2px solid #eee;
+    border-bottom: 2px solid var(--theme-border-color);
     padding-bottom: 0.5em;
 }
 
@@ -84,7 +85,7 @@
     font-size: 1.5em;
     margin-top: 1.5em;
     margin-bottom: 0.8em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--theme-border-color);
     padding-bottom: 0.4em;
 }
 
@@ -97,6 +98,7 @@
 .main-content p {
     margin-bottom: 1em;
     line-height: 1.7;
+    color: var(--theme-text-primary);
     /* 增加行高，提升阅读舒适度 */
 }
 

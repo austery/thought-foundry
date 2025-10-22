@@ -13,13 +13,13 @@
 }
 
 .summary-section {
-    background-color: #f0f8ff;
-    border-left: 3px solid #4a90e2;
+    background-color: var(--theme-accent-blue-light);
+    border-left: 3px solid var(--theme-accent-blue);
 }
 
 .insight-section {
-    background-color: #fffbf0;
-    border-left: 3px solid #f39c12;
+    background-color: var(--theme-accent-orange-light);
+    border-left: 3px solid var(--theme-accent-orange);
 }
 
 .summary-content, .insight-content {
@@ -29,11 +29,11 @@
 }
 
 .summary-section p strong {
-    color: #4a90e2;
+    color: var(--theme-accent-blue);
 }
 
 .insight-section p strong {
-    color: #f39c12;
+    color: var(--theme-accent-orange);
 }
 
 /* 博客页面的摘要和洞察样式 */
@@ -46,21 +46,21 @@
 }
 
 .summary-text {
-    background-color: #f0f8ff;
-    color: #2c5aa0;
-    border-left: 2px solid #4a90e2;
+    background-color: var(--theme-accent-blue-light);
+    color: var(--theme-accent-blue);
+    border-left: 2px solid var(--theme-accent-blue);
 }
 
 .insight-text {
-    background-color: #fffbf0;
-    color: #cc7a00;
-    border-left: 2px solid #f39c12;
+    background-color: var(--theme-accent-orange-light);
+    color: var(--theme-accent-orange);
+    border-left: 2px solid var(--theme-accent-orange);
 }
 
 .speaker-text {
-    background-color: #f0fff4;
-    color: #22543d;
-    border-left: 2px solid #48bb78;
+    background-color: var(--theme-accent-green-light);
+    color: var(--theme-accent-green);
+    border-left: 2px solid var(--theme-accent-green);
 }
 
 /* 首页列表中的 speaker - inline 显示 */
@@ -68,8 +68,8 @@
     display: inline;
     padding: 0.2em 0.5em;
     margin: 0 0.5em;
-    background-color: #f0fff4;
-    color: #22543d;
+    background-color: var(--theme-accent-green-light);
+    color: var(--theme-accent-green);
     border-radius: calc(var(--pico-border-radius) / 2);
     font-size: 0.9em;
     text-decoration: none;
@@ -77,14 +77,14 @@
 }
 
 .speaker-inline:hover {
-    background-color: #c6f6d5;
-    color: #1a5d3a;
+    background-color: var(--theme-accent-green);
+    color: var(--theme-bg-primary);
     text-decoration: none;
 }
 
 /* 系列相关文章样式 */
 .related-series {
-    background-color: #f5f5f5;
+    background-color: var(--theme-bg-secondary);
     border-left: 4px solid var(--pico-secondary);
     padding: 1.5em;
     margin-top: 3em;
@@ -115,13 +115,13 @@
 .related-post-item {
     margin-bottom: 0.8em;
     padding: 0.8em;
-    background-color: white;
+    background-color: var(--theme-bg-primary);
     border-radius: calc(var(--pico-border-radius) / 2);
     transition: all 0.2s ease;
 }
 
 .related-post-item:hover {
-    background-color: #fafafa;
+    background-color: var(--theme-bg-tertiary);
     transform: translateX(2px);
 }
 
@@ -180,7 +180,7 @@
 }.css */
 
 .metadata-block {
-    background-color: #f9f9f9;
+    background-color: var(--theme-bg-secondary);
 
     /* 使用 Pico 的主题色变量作为边框颜色 */
     border-left: 4px solid var(--pico-primary);
@@ -194,7 +194,7 @@
 .metadata-block p {
     margin: 0.5em 0;
     /* 使用 Pico 的次要文字颜色变量 */
-    color: var(--pico-secondary);
+    color: var(--theme-text-secondary);
 }
 
 .metadata-block strong {

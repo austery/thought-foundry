@@ -2,11 +2,11 @@
 
 .main-content {
     flex: 1;
-    background-color: #fff;
+    background-color: var(--theme-bg-primary);
     padding: 20px 40px;
     /* 增加了左右的内边距 */
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 2px 5px var(--theme-shadow);
 }
 
 /* --- 新增的排版样式 --- */
@@ -15,20 +15,22 @@
 .main-content h1 {
     font-size: 2em;
     /* 显著增大字号 */
-    border-bottom: 2px solid #eee;
+    border-bottom: 2px solid var(--theme-border-color);
     /* 添加柔和的下边框 */
     padding-bottom: 10px;
     margin-top: 0;
     margin-bottom: 1.5em;
+    color: var(--theme-text-primary);
     /* 增加与下方内容的间距 */
 }
 
 /* 二级标题 (H2) */
 .main-content h2 {
     font-size: 1.6em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--theme-border-color);
     padding-bottom: 8px;
     margin-top: 40px;
+    color: var(--theme-text-primary);
     /* 显著增加与上方段落的间距，形成区隔 */
     margin-bottom: 1.2em;
 }
@@ -38,11 +40,13 @@
     font-size: 1.3em;
     margin-top: 30px;
     margin-bottom: 1em;
+    color: var(--theme-text-primary);
 }
 
 /* 普通段落 */
 .main-content p {
     margin-bottom: 1.2em;
+    color: var(--theme-text-primary);
     /* 增加段落间的行距 */
     line-height: 1.7;
     /* 增加行高，让阅读更轻松 */
@@ -51,7 +55,7 @@
 /* 双语内容样式 */
 .main-content .lang-en {
     font-style: italic;
-    color: #555;
+    color: var(--theme-text-secondary);
     font-size: 0.95em;
 }
 
@@ -66,7 +70,7 @@
 }
 
 #copy-md-button {
-    background-color: #007bff;
+    background-color: var(--theme-button-bg);
     color: white;
     border: none;
     padding: 10px 15px;
@@ -76,5 +80,5 @@
 }
 
 #copy-md-button:hover {
-    background-color: #0056b3;
+    background-color: var(--theme-button-bg-hover);
 }

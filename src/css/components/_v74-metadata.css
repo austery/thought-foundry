@@ -4,8 +4,8 @@
 
 /* PKM 分类信息块 */
 .pkm-taxonomy {
-  background-color: #f8f9fa;
-  border-left: 4px solid #007bff;
+  background-color: var(--theme-bg-secondary);
+  border-left: 4px solid var(--theme-accent-blue);
   padding: 12px 16px;
   margin-bottom: 16px;
   border-radius: 4px;
@@ -14,29 +14,31 @@
 .pkm-taxonomy p {
   margin: 8px 0;
   font-size: 0.95rem;
+  color: var(--theme-text-primary);
 }
 
 .pkm-taxonomy strong {
-  color: #495057;
+  color: var(--theme-text-primary);
   margin-right: 8px;
 }
 
 .taxonomy-value {
-  color: #6c757d;
+  color: var(--theme-text-secondary);
   font-weight: 500;
 }
 
 .taxonomy-link {
-  color: #007bff;
+  color: var(--theme-accent-blue);
   text-decoration: none;
   padding: 2px 8px;
-  background-color: #e7f1ff;
+  background-color: var(--theme-accent-blue-light);
   border-radius: 3px;
   transition: background-color 0.2s ease;
 }
 
 .taxonomy-link:hover {
-  background-color: #cce5ff;
+  background-color: var(--theme-accent-blue);
+  color: white;
   text-decoration: none;
 }
 
@@ -53,66 +55,69 @@
 .area-badge-inline {
   display: inline-block;
   padding: 3px 10px;
-  background-color: #e8f4f8;
-  color: #0c5460;
+  background-color: var(--theme-accent-green-light);
+  color: var(--theme-accent-green);
   border-radius: 12px;
   font-size: 0.85rem;
   font-weight: 500;
-  border: 1px solid #bee5eb;
+  border: 1px solid var(--theme-accent-green);
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 .area-badge-inline:hover {
-  background-color: #bee5eb;
-  border-color: #8ad4e0;
+  background-color: var(--theme-accent-green);
+  color: white;
+  border-color: var(--theme-accent-green);
   text-decoration: none;
   transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(12, 84, 96, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 /* 分类徽章（列表页 - 内联显示） */
 .category-badge-inline {
   display: inline-block;
   padding: 3px 10px;
-  background-color: #e7f1ff;
-  color: #0056b3;
+  background-color: var(--theme-accent-blue-light);
+  color: var(--theme-accent-blue);
   border-radius: 12px;
   font-size: 0.85rem;
   font-weight: 500;
-  border: 1px solid #cce5ff;
+  border: 1px solid var(--theme-accent-blue);
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 .category-badge-inline:hover {
-  background-color: #cce5ff;
-  border-color: #99ccff;
+  background-color: var(--theme-accent-blue);
+  color: white;
+  border-color: var(--theme-accent-blue);
   text-decoration: none;
   transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0, 86, 179, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 /* 专题徽章（列表页 - 内联显示） */
 .project-badge-inline {
   display: inline-block;
   padding: 3px 10px;
-  background-color: #fff3cd;
-  color: #856404;
+  background-color: var(--theme-accent-orange-light);
+  color: var(--theme-accent-orange);
   border-radius: 12px;
   font-size: 0.85rem;
   font-weight: 500;
-  border: 1px solid #ffeaa7;
+  border: 1px solid var(--theme-accent-orange);
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 .project-badge-inline:hover {
-  background-color: #ffeaa7;
-  border-color: #ffd966;
+  background-color: var(--theme-accent-orange);
+  color: white;
+  border-color: var(--theme-accent-orange);
   text-decoration: none;
   transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(133, 100, 4, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 /* 分类徽章（旧版 - 保留兼容性） */
@@ -131,7 +136,7 @@
 .entity-section {
   margin: 24px 0;
   padding: 16px;
-  background-color: #f1f3f5;
+  background-color: var(--theme-bg-secondary);
   border-radius: 6px;
 }
 
@@ -141,7 +146,7 @@
 
 .entity-section summary {
   font-weight: 600;
-  color: #495057;
+  color: var(--theme-text-primary);
   cursor: pointer;
   user-select: none;
   padding: 8px 0;
@@ -164,12 +169,12 @@
 }
 
 .entity-section summary:hover {
-  color: #212529;
+  color: var(--theme-accent-blue);
 }
 
 .entity-content {
   padding-top: 12px;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid var(--theme-border-color);
   margin-top: 8px;
 }
 
@@ -177,10 +182,11 @@
   margin: 10px 0;
   font-size: 0.95rem;
   line-height: 1.6;
+  color: var(--theme-text-primary);
 }
 
 .entity-content strong {
-  color: #495057;
+  color: var(--theme-text-primary);
   margin-right: 6px;
 }
 
@@ -188,11 +194,12 @@
 .tags-section {
   margin: 24px 0 16px 0;
   padding-top: 16px;
-  border-top: 2px solid #e9ecef;
+  border-top: 2px solid var(--theme-border-color);
 }
 
 .tags-section p {
   margin: 8px 0;
+  color: var(--theme-text-primary);
 }
 
 /* 分类和专题列表页的样式 */
@@ -208,8 +215,8 @@
 .project-pill {
   display: inline-block;
   padding: 8px 16px;
-  background-color: #e7f1ff;
-  color: #0056b3;
+  background-color: var(--theme-accent-blue-light);
+  color: var(--theme-accent-blue);
   border-radius: 20px;
   text-decoration: none;
   font-size: 0.95rem;
@@ -220,22 +227,22 @@
 
 .category-pill:hover,
 .project-pill:hover {
-  background-color: #007bff;
+  background-color: var(--theme-accent-blue);
   color: white;
   text-decoration: none;
   transform: translateY(-2px);
-  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 .project-pill {
-  background-color: #fff3cd;
-  color: #856404;
+  background-color: var(--theme-accent-orange-light);
+  color: var(--theme-accent-orange);
 }
 
 .project-pill:hover {
-  background-color: #ffc107;
-  color: #000;
-  box-shadow: 0 2px 8px rgba(255, 193, 7, 0.3);
+  background-color: var(--theme-accent-orange);
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* 分类/专题/领域描述文本 */
@@ -243,14 +250,14 @@
 .project-description,
 .area-description,
 .entity-description {
-  color: #6c757d;
+  color: var(--theme-text-secondary);
   font-size: 0.9rem;
   margin-bottom: 20px;
 }
 
 /* 实体链接样式 */
 .entity-link {
-  color: #007bff;
+  color: var(--theme-accent-blue);
   text-decoration: none;
   padding: 1px 4px;
   border-radius: 3px;
@@ -259,49 +266,49 @@
 
 .entity-link:hover {
   text-decoration: underline;
-  background-color: #e7f1ff;
+  background-color: var(--theme-accent-blue-light);
 }
 
 /* 人物链接 */
 .person-link {
-  color: #17a2b8;
+  color: var(--theme-accent-blue);
 }
 
 .person-link:hover {
-  background-color: #d1ecf1;
+  background-color: var(--theme-accent-blue-light);
 }
 
 /* 公司/组织链接 */
 .company-link {
-  color: #6610f2;
+  color: var(--theme-accent-blue);
 }
 
 .company-link:hover {
-  background-color: #e7e0ff;
+  background-color: var(--theme-accent-blue-light);
 }
 
 /* 产品/模型链接 */
 .product-link {
-  color: #fd7e14;
+  color: var(--theme-accent-orange);
 }
 
 .product-link:hover {
-  background-color: #ffe5d0;
+  background-color: var(--theme-accent-orange-light);
 }
 
 /* 媒体/书籍链接 */
 .media-link {
-  color: #20c997;
+  color: var(--theme-accent-green);
 }
 
 .media-link:hover {
-  background-color: #d4f4e8;
+  background-color: var(--theme-accent-green-light);
 }
 
 /* 英文原文样式（已存在于文档中） */
 .english-text {
   font-size: 1rem; /* 和正文字体一样大 */
-  color: #495057; /* 颜色也更接近正文 */
+  color: var(--theme-text-primary); /* 颜色也更接近正文 */
   font-style: normal; /* 去掉斜体，让它更像正文 */
   line-height: 1.7; /* 和正文行高一致 */
   margin: 12px 0;
@@ -309,10 +316,10 @@
 
 /* details 标签的通用样式增强 */
 details {
-  border: 1px solid #dee2e6;
+  border: 1px solid var(--theme-border-color);
   border-radius: 4px;
   padding: 12px;
-  background-color: #ffffff;
+  background-color: var(--theme-bg-primary);
   margin: 12px 0;
 }
 
@@ -320,12 +327,12 @@ details summary {
   cursor: pointer;
   font-weight: 500;
   font-size: 0.85rem; /* 让 summary 文字变小 */
-  color: #6c757d;
+  color: var(--theme-text-secondary);
   outline: none;
 }
 
 details summary:hover {
-  color: #007bff;
+  color: var(--theme-accent-blue);
 }
 
 details[open] {
@@ -337,7 +344,7 @@ details[open] {
   position: fixed;
   bottom: 80px;
   right: 30px;
-  background-color: #007bff;
+  background-color: var(--theme-button-bg);
   color: white;
   border: none;
   border-radius: 50px;
@@ -345,7 +352,7 @@ details[open] {
   font-size: 0.9rem;
   font-weight: 600;
   cursor: pointer;
-  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.4);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   z-index: 1000;
   transition: all 0.3s ease;
   display: flex;
@@ -354,9 +361,9 @@ details[open] {
 }
 
 .toggle-all-details-btn:hover {
-  background-color: #0056b3;
+  background-color: var(--theme-button-bg-hover);
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0, 123, 255, 0.5);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
 }
 
 .toggle-all-details-btn:active {

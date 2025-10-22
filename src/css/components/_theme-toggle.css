@@ -1,0 +1,48 @@
+/* src/css/components/_theme-toggle.css */
+/* 主题切换按钮样式 */
+
+.theme-toggle {
+    background: none;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+    transition: transform 0.3s ease, color 0.3s ease;
+    color: var(--theme-text-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.theme-toggle:hover {
+    transform: scale(1.1) rotate(20deg);
+    background-color: var(--theme-bg-secondary);
+}
+
+.theme-toggle:active {
+    transform: scale(0.95) rotate(20deg);
+}
+
+.theme-toggle-icon {
+    display: inline-block;
+    transition: transform 0.6s ease;
+}
+
+/* 深色主题下的按钮样式 */
+[data-theme="dark"] .theme-toggle-icon {
+    content: "☀️";
+}
+
+/* 确保页面背景和文字在主题切换时过渡平滑 */
+html {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body {
+    background-color: var(--theme-bg-primary);
+    color: var(--theme-text-primary);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}

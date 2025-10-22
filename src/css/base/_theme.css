@@ -1,0 +1,60 @@
+/* src/css/base/_theme.css */
+/* 主题变量定义：支持浅色和深色主题 */
+
+:root {
+  /* ===== 浅色主题（默认） ===== */
+  --theme-bg-primary: #ffffff;
+  --theme-bg-secondary: #f9f9f9;
+  --theme-bg-tertiary: #f5f5f5;
+
+  --theme-text-primary: #222222;
+  --theme-text-secondary: #666666;
+  --theme-text-muted: #999999;
+
+  --theme-border-color: #eeeeee;
+  --theme-border-dark: #cccccc;
+
+  --theme-accent-blue: #4a90e2;
+  --theme-accent-blue-light: #f0f8ff;
+  --theme-accent-orange: #f39c12;
+  --theme-accent-orange-light: #fffbf0;
+  --theme-accent-green: #48bb78;
+  --theme-accent-green-light: #f0fff4;
+
+  --theme-shadow: rgba(0, 0, 0, 0.05);
+  --theme-shadow-dark: rgba(0, 0, 0, 0.1);
+
+  --theme-button-bg: #007bff;
+  --theme-button-bg-hover: #0056b3;
+
+  color-scheme: light;
+}
+
+/* ===== 深色主题 ===== */
+[data-theme="dark"] {
+  --theme-bg-primary: #1a1a1a;
+  --theme-bg-secondary: #2d2d2d;
+  --theme-bg-tertiary: #3a3a3a;
+
+  --theme-text-primary: #e0e0e0;
+  --theme-text-secondary: #b0b0b0;
+  --theme-text-muted: #808080;
+
+  --theme-border-color: #404040;
+  --theme-border-dark: #555555;
+
+  --theme-accent-blue: #6ba3ff;
+  --theme-accent-blue-light: #1a2f4a;
+  --theme-accent-orange: #ffb84d;
+  --theme-accent-orange-light: #3a2e1a;
+  --theme-accent-green: #5edb7f;
+  --theme-accent-green-light: #1a3a23;
+
+  --theme-shadow: rgba(0, 0, 0, 0.3);
+  --theme-shadow-dark: rgba(0, 0, 0, 0.5);
+
+  --theme-button-bg: #0d6efd;
+  --theme-button-bg-hover: #0856ca;
+
+  color-scheme: dark;
+}

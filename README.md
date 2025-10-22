@@ -23,6 +23,7 @@ Thought Foundry is a personal knowledge base and digital garden built with [Elev
 * **Flat Frontmatter Structure**: Uses industry-standard flat frontmatter structure instead of nested data objects for better maintainability.
 * **Automated Deployment**: The project includes a GitHub Actions workflow that automatically builds and deploys the site to GitHub Pages whenever changes are pushed to the `main` branch.
 * **Responsive Design**: The CSS is structured to ensure the layout is responsive and works well on different screen sizes.
+* **Dark Mode & Theme Switching**: Built-in light and dark theme support with persistent user preferences. Users can toggle between themes with a single click, and their choice is saved in the browser. The system automatically detects system theme preferences on first visit.
 
 ## Content Types
 
@@ -310,6 +311,80 @@ The site features a modern badge system with visual content type indicators and 
 * **Better UX** - More intuitive content browsing and discovery
 * **Mobile Friendly** - Optimized for smaller screens with efficient space usage
 
+### Theme System (Dark Mode / Light Mode)
+
+The site features a fully functional theme switching system that allows users to toggle between light and dark modes with a persistent preference system.
+
+**Theme Features:**
+
+* 🌙 **Light Mode (Default)** - Clean white background with dark text for comfortable daytime viewing
+* 🌤️ **Dark Mode** - Deep gray background with light text for comfortable nighttime viewing
+* 💾 **Persistent Preferences** - User theme choice is saved to browser localStorage and persists across sessions
+* 🖥️ **System Detection** - Automatically detects system theme preference on first visit if user hasn't set a preference
+* ⚡ **Instant Switching** - Theme changes apply immediately with smooth transitions
+* 🎨 **Complete Coverage** - All page elements (backgrounds, text, borders, buttons, metadata blocks, etc.) support both themes
+
+**How It Works:**
+
+1. **CSS Variables System** (`src/css/base/_theme.css`):
+   - Defines all theme colors using CSS custom properties
+   - Light theme variables are set on `:root` (default)
+   - Dark theme variables are set on `[data-theme="dark"]`
+   - Includes colors for backgrounds, text, borders, accents, and shadows
+
+2. **Theme Toggle Button**:
+   - Located in the header next to the search box
+   - Shows 🌙 (moon) icon in light mode
+   - Shows ☀️ (sun) icon in dark mode
+   - Animated hover and click effects
+
+3. **JavaScript Logic** (`src/js/theme-toggle.js`):
+   - Initializes theme on page load based on saved preference or system setting
+   - Listens to theme toggle button clicks
+   - Saves user preference to localStorage
+   - Monitors system theme changes (when user hasn't manually set a preference)
+
+**Color Palettes:**
+
+**Light Theme:**
+```
+Background: #ffffff
+Text Primary: #222222
+Text Secondary: #666666
+Border: #eeeeee
+Accents: Blue (#4a90e2), Orange (#f39c12), Green (#48bb78)
+```
+
+**Dark Theme:**
+```
+Background: #1a1a1a
+Text Primary: #e0e0e0
+Text Secondary: #b0b0b0
+Border: #404040
+Accents: Blue (#6ba3ff), Orange (#ffb84d), Green (#5edb7f)
+```
+
+**Technical Implementation:**
+
+The theme system uses a multi-file approach for maintainability:
+
+* `src/css/base/_theme.css` - Theme variable definitions
+* `src/css/components/_theme-toggle.css` - Button styling and transitions
+* `src/js/theme-toggle.js` - Theme logic and persistence
+* Modified CSS files use `var(--theme-*)` instead of hardcoded colors
+
+All color-related CSS properties across the site have been refactored to use theme variables, ensuring complete theme support for:
+- Main content backgrounds and text
+- Navigation and headers
+- Tags and badges
+- Metadata blocks and sidebars
+- Links and interactive elements
+- Details and expandable sections
+
+**Usage:**
+
+Users simply click the theme toggle button (🌙 or ☀️) in the header to switch between themes. The preference is automatically saved and will be remembered on future visits.
+
 ### File Naming
 
 * Use underscores instead of spaces in filenames for URL-friendly paths
@@ -389,6 +464,7 @@ The site includes built-in debugging tools that run during build to detect:
 * **NEW: Tag Management Tools** automated Python scripts for batch tag replacement and frontmatter processing (212 files successfully updated from "视频笔记" to "视频文稿")
 * **NEW: Multi-layer filtering system** coordinated tag filtering across templates, collections, and build processes
 * **NEW: Batch frontmatter processing** with automated series field addition to all content
+* **NEW: Dark Mode & Theme Switching System** complete light/dark theme support with persistent user preferences, system detection, and smooth transitions using CSS variables
 * Optimized book note layout for better readability
 * Added URL-friendly file naming with underscore conversion
 * Improved CSS styling for metadata and related content sections

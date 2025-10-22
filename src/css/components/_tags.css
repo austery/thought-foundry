@@ -14,7 +14,7 @@
     padding: 0.25rem 0.75rem;
     border-radius: 9999px;
     /* 用一个很大的值来创建药丸形状 */
-    background-color: #f1f5f9;
+    background-color: var(--theme-bg-secondary);
     /* 浅灰色背景 */
     color: var(--pico-secondary);
     /* 使用 Pico.css 的次要文字颜色 */
@@ -24,7 +24,7 @@
 }
 
 .tag-pill:hover {
-    background-color: #e2e8f0;
+    background-color: var(--theme-bg-tertiary);
     /* 鼠标悬停时变深一点 */
 }
 
@@ -42,7 +42,7 @@
     display: inline-block;
     padding: 0.25rem 0.75rem;
     border-radius: 9999px;
-    background-color: #f0f9ff;
+    background-color: var(--theme-accent-blue-light);
     /* 浅蓝色背景来区分演讲者 */
     color: var(--pico-primary);
     font-size: 0.9em;
@@ -52,6 +52,6 @@
 }
 
 .speaker-pill:hover {
-    background-color: #e0f2fe;
-    color: var(--pico-primary-hover);
+    background-color: var(--theme-accent-blue);
+    color: white;
 }

@@ -29,6 +29,9 @@
           <form id="search-form" role="search">
             <input type="search" id="search-input" placeholder="Search..." />
           </form>
+          <button id="theme-toggle" class="theme-toggle" title="切换主题" aria-label="切换深色/浅色主题">
+            <span class="theme-toggle-icon">🌙</span>
+          </button>
         </div>
       </header>
 
@@ -46,6 +49,7 @@
     <script>
       const site_url = "{{ '/' | url }}";
     </script>
+    <script src="{{ '/js/theme-toggle.js' | url }}"></script>
     <script src="{{ '/js/search.js' | url }}"></script>
   </body>
 </html>
