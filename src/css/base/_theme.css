@@ -30,31 +30,69 @@
   color-scheme: light;
 }
 
-/* ===== 深色主题 ===== */
+/* ===== 深色主题（Material Design 3） ===== */
 [data-theme="dark"] {
-  --theme-bg-primary: #1a1a1a;
-  --theme-bg-secondary: #2d2d2d;
-  --theme-bg-tertiary: #3a3a3a;
+  /* 背景色 - 基于 Material Design 3 深色主题 */
+  --theme-bg-primary: #121212;      /* Material Design 推荐的深色背景 */
+  --theme-bg-secondary: #1e1e1e;    /* 轻微提升 */
+  --theme-bg-tertiary: #2a2a2a;     /* 进一步提升 */
 
-  --theme-text-primary: #e0e0e0;
-  --theme-text-secondary: #b0b0b0;
-  --theme-text-muted: #808080;
+  /* 文本颜色 - 优化对比度和易读性 */
+  --theme-text-primary: #ffffff;    /* 纯白色，更清晰 */
+  --theme-text-secondary: #b3b3b3;  /* 中灰色，仍可读 */
+  --theme-text-muted: #808080;      /* 深灰色，降低焦点 */
 
-  --theme-border-color: #404040;
-  --theme-border-dark: #555555;
+  /* 边框颜色 - 增强分层感 */
+  --theme-border-color: #363636;    /* 更清晰的分隔线 */
+  --theme-border-dark: #4a4a4a;     /* 更深的边框 */
 
-  --theme-accent-blue: #6ba3ff;
-  --theme-accent-blue-light: #1a2f4a;
-  --theme-accent-orange: #ffb84d;
-  --theme-accent-orange-light: #3a2e1a;
-  --theme-accent-green: #5edb7f;
-  --theme-accent-green-light: #1a3a23;
+  /* 强调色 - 基于 Material Design 色彩体系 */
+  --theme-accent-blue: #82b1ff;     /* 更亮的蓝色 */
+  --theme-accent-blue-light: #1f3a60; /* 深蓝色背景 */
+  --theme-accent-orange: #ffb74d;   /* 更亮的橙色 */
+  --theme-accent-orange-light: #4a3520; /* 深橙色背景 */
+  --theme-accent-green: #69f0ae;    /* 更亮的绿色 */
+  --theme-accent-green-light: #1b5e3f; /* 深绿色背景 */
 
-  --theme-shadow: rgba(0, 0, 0, 0.3);
-  --theme-shadow-dark: rgba(0, 0, 0, 0.5);
+  /* 阴影 - 在深色背景上更细微 */
+  --theme-shadow: rgba(0, 0, 0, 0.2);
+  --theme-shadow-dark: rgba(0, 0, 0, 0.4);
 
-  --theme-button-bg: #0d6efd;
-  --theme-button-bg-hover: #0856ca;
+  /* 按钮颜色 */
+  --theme-button-bg: #1f88e5;       /* 鲜亮的蓝色 */
+  --theme-button-bg-hover: #1a6dcc; /* 稍深的蓝色 */
 
   color-scheme: dark;
+}
+
+/* ===== 系统偏好支持：prefers-color-scheme 媒体查询 ===== */
+/* 注：JavaScript 实现了手动主题切换，系统偏好作为默认值 */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --theme-bg-primary: #121212;
+    --theme-bg-secondary: #1e1e1e;
+    --theme-bg-tertiary: #2a2a2a;
+
+    --theme-text-primary: #ffffff;
+    --theme-text-secondary: #b3b3b3;
+    --theme-text-muted: #808080;
+
+    --theme-border-color: #363636;
+    --theme-border-dark: #4a4a4a;
+
+    --theme-accent-blue: #82b1ff;
+    --theme-accent-blue-light: #1f3a60;
+    --theme-accent-orange: #ffb74d;
+    --theme-accent-orange-light: #4a3520;
+    --theme-accent-green: #69f0ae;
+    --theme-accent-green-light: #1b5e3f;
+
+    --theme-shadow: rgba(0, 0, 0, 0.2);
+    --theme-shadow-dark: rgba(0, 0, 0, 0.4);
+
+    --theme-button-bg: #1f88e5;
+    --theme-button-bg-hover: #1a6dcc;
+
+    color-scheme: dark;
+  }
 }
