@@ -65,34 +65,6 @@
   color-scheme: dark;
 }
 
-/* ===== 系统偏好支持：prefers-color-scheme 媒体查询 ===== */
-/* 注：JavaScript 实现了手动主题切换，系统偏好作为默认值 */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --theme-bg-primary: #121212;
-    --theme-bg-secondary: #1e1e1e;
-    --theme-bg-tertiary: #2a2a2a;
-
-    --theme-text-primary: #ffffff;
-    --theme-text-secondary: #b3b3b3;
-    --theme-text-muted: #808080;
-
-    --theme-border-color: #363636;
-    --theme-border-dark: #4a4a4a;
-
-    --theme-accent-blue: #82b1ff;
-    --theme-accent-blue-light: #1f3a60;
-    --theme-accent-orange: #ffb74d;
-    --theme-accent-orange-light: #4a3520;
-    --theme-accent-green: #69f0ae;
-    --theme-accent-green-light: #1b5e3f;
-
-    --theme-shadow: rgba(0, 0, 0, 0.2);
-    --theme-shadow-dark: rgba(0, 0, 0, 0.4);
-
-    --theme-button-bg: #1f88e5;
-    --theme-button-bg-hover: #1a6dcc;
-
-    color-scheme: dark;
-  }
-}
+/* ===== 系统偏好支持 ===== */
+/* 注：JavaScript 在 theme-toggle.js 中通过 window.matchMedia() 检测系统偏好 */
+/* 不在 CSS 中使用 @media (prefers-color-scheme: dark) 以避免与 JavaScript 切换冲突 */
