@@ -1,0 +1,757 @@
+- [Derek] What would happen
+if you dropped a penny
+off the Empire State Building?
+Could it kill someone walking
+on the sidewalk below?
+What does it take to
+create a deadly projectile?
+Well, I'm gonna put this to the test
+with original MythBuster Adam Savage.
+He's going up in a helicopter
+to throw pennies at me.
+No one hasn't heard that story.
+- When you talk about it,
+people are like, "Oh yeah,
+the penny from the Empire State Building."
+And when we went to the
+Empire State Building,
+every ledge below the observation deck
+is filled with change.
+I just love the idea of all these people.
+They're not murderers, but they're like,
+it's probably not true.
+They're like throwing
+pennies over the side
+thinking it's probably not true.
+- [Derek] A penny weighs
+around two and a half grams,
+which is about half to a
+quarter the weight of a bullet.
+If you ignore air resistance,
+a penny dropped from the
+Empire State Building,
+which is 443 meters to the very top,
+would accelerate to over
+300 kilometers per hour
+by the time it hits the ground.
+That's around half as
+fast as a typical bullet.
+The MythBusters made contraptions
+to shoot pennies at each other.
+- Stephen Colbert shot me in
+the ass with it a few times.
+- How did it feel?
+It's a baseball pitcher
+throwing a penny hard at you.
+- Yeah.
+- It'll sting.
+- [Derek] But they never
+tried the ultimate test.
+Dropping pennies
+from the height of the
+Empire State Building
+onto someone below.
+And that's what we're
+gonna do here with Adam.
+- That'd be great watching
+it bounce off your body.
+- [Derek] Yeah, yeah.
+- I say this thinking it's
+always been my body until now.
+First one, I'll drop the pennies
+to see where it's gonna land.
+You're gonna walk there.
+I'll throw a second one,
+that's good for you.
+- Yeah.
+- And then you're ready for the full dump.
+- Yep.
+(tense music)
+(helicopter engine revving)
+- I'm going underneath helicopter
+where Adam Savage is gonna
+drop a whole bunch of pennies
+on me.
+What are we even doing?
+I know I agreed to do this
+and I didn't think I'd get hurt,
+but as I'm walking out
+under the helicopter,
+I started to think, no one
+has actually done this.
+We planned for pennies
+falling through still air,
+but the helicopter
+creates a huge downdraft
+to support its weight.
+- In 3, 2, 1.
+- Oh boy, I hear them landing around me.
+I start to imagine pennies
+gouging into my shoulders.
+You can see how tense my body looks.
+- Ah, one hit my helmet
+in 3, 2, 1.
+- Aaaaaa-hahaha-owwww,
+that hit my shoulder.
+AAAAaAAh.
+(slow-motion screaming)
+- That's really good.
+In 3, 2, 1.
+- They feel like tiny little bullets.
+I feel like I'm gonna
+be bruised after this.
+Oh boy.
+Okay, I'm laying down, I'm going for it.
+- Here we go, doing the whole thing.
+In 3, 2, 1.
+(Guitar riff)
+Unbelievable.
+There you have it.
+A penny dropped from the
+Empire State Building
+is not gonna hurt.
+I mean it hurts a little, but not a lot.
+You'll be alright.
+- That was great.
+I saw little dust clouds all around you.
+- Amazing.
+- Tell me what it was like down here.
+- I was terrified.
+I got out there and the
+rotor wash is so heavy.
+I'm like, maybe we haven't
+calculated for rotor wash.
+It stung to get hit by
+pennies falling that far,
+but it certainly wasn't fatal.
+(upbeat music)
+So why aren't pennies more dangerous?
+Well, the reason is air resistance.
+- [David Scott] And I'll
+drop the two of 'em here
+and hopefully they'll hit
+the ground at the same time.
+- Take the classic experiment
+of a hammer and feather
+dropped simultaneously on the moon.
+In the near vacuum of the moon's surface,
+both objects speed up at the same rate
+due to the moon's gravity,
+and they're both still accelerating
+when they hit the ground at the same time.
+- [David Scott] How 'bout that?
+- Repeat the experiment on earth.
+And of course, the hammer
+lands way before the feather.
+If you watch the feather closely,
+you'll notice that it
+doesn't speed up as it falls.
+For most of its journey,
+it's moving at a constant speed
+known as its terminal velocity.
+Terminal velocity is reached
+when the force of gravity
+pulling an object down
+is equal to the force of air
+resistance pushing it up.
+In this case,
+which object, the hammer or the feather,
+experiences a greater
+force of air resistance.
+Well, I bet most people
+would say the feather
+because its motion is
+clearly affected by drag.
+But the answer is actually the hammer.
+Air resistance is
+proportional to speed squared
+and the hammer gets going
+much faster than the feather
+so it experiences the larger
+force of air resistance,
+but its weight is so much greater
+that drag is negligible in comparison.
+And that's why the
+hammer keeps speeding up
+while the feather reaches
+terminal velocity early
+and just stays at that speed.
+It all comes down to the ratio
+of weight to air resistance.
+Every object has its
+own terminal velocity,
+the maximum speed it will reach
+in free fall through still air.
+And I went indoor skydiving
+to experience this first hand.
+That was so amazing,
+that was totally wild.
+Objects that have the same size and shape
+experience the same air resistance.
+But if one is heavier, here
+I've got two identical balls,
+but this one has water added
+to it, so it's heavier,
+then it has a higher terminal velocity
+so it doesn't float at the same wind speed
+as the lighter object.
+Conversely,
+some objects are very
+different in size and shape
+like a person and a lacrosse ball,
+and obviously they have
+very different weights,
+but they also experience very different
+forces of air resistance.
+And the key thing is that
+the ratio of their weight
+to air resistance is
+the same for both bodies
+so they have the same terminal velocity,
+which means they will both
+float together in the tunnel.
+If you transported the sky
+diver and lacrosse ball
+to the stratosphere,
+they would continue to fall together,
+but their joint terminal
+velocity would be much faster.
+In 2012, Felix Baumgartner
+jumped from a weather balloon
+39 kilometers above sea level.
+After just 40 seconds of free fall,
+he reached a terminal velocity
+over 1300 kilometers per hour.
+It was 25% faster than the speed of sound
+making him the first person
+to break the sound barrier
+outside of a vehicle.
+What allowed him to do
+this was the lack of air
+at that altitude.
+Air resistance is directly proportional
+to the density of air
+you're moving through.
+And at that altitude,
+the air is 60 times less
+dense than at sea level.
+As he continued falling
+into thicker atmosphere,
+the increasing air density
+reduced his terminal velocity
+and by two and a half
+kilometers above sea level,
+he had slowed to 200 kilometers per hour,
+at which point he opened his parachute.
+Now rain also falls kilometers,
+but through the thicker
+air of the troposphere.
+One of the coolest
+things in the wind tunnel
+was to see water floating.
+Poured from a jug,
+it quickly breaks up into droplets
+the same size as raindrops
+from around 0.5 to four
+millimeters in diameter.
+And standing there,
+you can experience what it would be like
+to fall with raindrops.
+(soft music)
+They have a low terminal velocity
+of just 25 kilometers per hour
+and that's what the wind speed was set to
+for this demonstration.
+And what you can see
+is that raindrops aren't
+shaped like cartoon raindrops.
+They are closer to spherical,
+but a bit flatter on the bottom
+where they encounter oncoming air.
+If a raindrop gets too big,
+it flattens out, caves in in the middle
+and briefly resembles a little parachute
+before breaking up into smaller droplets.
+So raindrops aren't damaging,
+but it's a different story for hail.
+(hail hitting the ground)
+- [Man] I just completely
+lost my windshield right here.
+- [Derek] Every year in the US,
+hail injures around 20 people
+and since 2000 it's
+caused four fatalities.
+That's because hail can
+reach terminal velocities
+of over 200 kilometers per hour.
+That's around 10 times the
+terminal velocity of rain.
+But why is its terminal
+velocity so much higher
+even though ice itself
+is slightly less dense
+than liquid water?
+The main thing is that
+hail can get much bigger
+than a raindrop.
+Hailstones have been
+measured up to 20 centimeters
+in diameter.
+Now drag is proportional
+to cross sectional area,
+so it scales with radius squared,
+whereas weight scales with radius cubed.
+So the bigger the hailstone,
+the faster its terminal velocity.
+It also has more mass,
+so it carries even more kinetic energy
+and packs a bigger punch
+when it hits something.
+Pennies reach terminal
+velocity after falling
+only around 15 meters.
+You can see in this shot the
+average speed of the pennies
+in the top of the frame
+is the same as at the bottom of the frame.
+They aren't speeding up.
+They've reached terminal velocity.
+So it wouldn't matter if
+pennies were dropped on you
+from 15 meters or 300
+meters or 3000 meters,
+it would feel the same
+because they would be
+going the same speed.
+In fact, we didn't take the helicopter
+all the way up to Empire
+State Building height
+because that wouldn't have increased
+the speed of the pennies at all
+and it would've just
+made aiming much harder.
+- By the end, I'm throwing to account
+for this secondary air current
+that's moving between
+you and the helicopter.
+And so the pennies are
+making this like 12 foot arc
+all the way over and then coming back.
+- [Derek] One of the reasons
+pennies are so hard to aim
+is because they flutter
+and tumble as they fall.
+This tumbling behavior means
+pennies don't actually have
+a single terminal velocity.
+- A penny actually has
+two terminal velocities
+and it oscillates between them.
+So it's got one on its
+face and one on its edge.
+I've got a wind tunnel that can show you
+exactly how that works.
+It's really beautiful.
+- [Derek] I gotta see that.
+- Yeah, it's really neat.
+- Throw to the...
+- Yeah.
+- [Derek] Adam built a custom wind tunnel
+to witness this for himself.
+So I went to San Francisco
+to his cave to check it out.
+- This is literally like my
+MythBusters origin story,
+this device.
+I'm so delighted to fire this up again.
+- It's like looking at a
+piece of piece of history.
+How old is this?
+- 19 years old now.
+- It's old enough to drive
+and vote, but not drink.
+- There's people watching this video,
+you know?
+- Yeah.
+- Who weren't alive when
+you were making this.
+- [Derek] Because of the holes
+which allow air to escape,
+this wind tunnel has a
+gradient of wind speeds
+from around a hundred kilometers
+per hour at the bottom
+up to 25 kilometers per hour at the top.
+- This creates a little
+bit of back pressure
+that popsicle, the tongue
+depressors up here,
+and that back pressure is
+relieved by these holes enough
+so that the penny spins.
+- [Derek] If a penny really has
+two different terminal velocities,
+it should oscillate up and
+down in this wind tunnel
+as a result.
+- There you go.
+(sound of air rushing by)
+- That's amazing to see
+it oscillate, right?
+- I know.
+The fact that it goes up and down
+and then comes back up again.
+- Yeah.
+- Oh yeah.
+- It was just hanging out like that.
+- When in 2003 I dropped
+the penny on the top
+and it went up and down, like I'm still,
+every single time I tell
+that story, I get goosebumps
+because I remember that
+feeling of like, Oh wow.
+- [Derek] We made a separate
+video on Adam's channel
+that discusses the wind
+tunnel in more detail.
+So check it out after this.
+So the reason pennies aren't dangerous
+is because their terminal
+velocity is at most
+about 80 kilometers per hour.
+Yeah, it's not gonna hurt you.
+- That's busted.
+- Right.
+(both laughing)
+- Think I'm allowed to say like.
+- Like old habit.
+(both laughing)
+But something more aerodynamic
+would have a higher terminal velocity.
+And this has led some to
+suggest ballpoint pens
+falling from a skyscraper
+like the Empire State Building
+could be lethal.
+- But supposedly.
+- Yeah, a pen, a ballpoint pen.
+- Is as dangerous as a penny
+is mythically dangerous?
+- Yeah, yeah, like that's.
+Is meant to actually be lethal.
+- It's worth really trying.
+- [Derek] These pens weigh
+about twice as much as a penny
+and they have a smaller
+cross-sectional area.
+- All right, I'm gonna
+start the first drop.
+- [Derek] So this will increase
+the ratio of weight to drag,
+but will it be enough?
+Now, because I'm not
+sure what will happen,
+I'm not putting my body
+on the line for this one.
+Instead we'll use a ballistics gel dummy.
+- Here we go.
+In 3, 2, 1.
+Oh, that's very close.
+Back up again (murmuring)
+3, 2, 1.
+Oh oh, very close, very close.
+Here we go, 3, 2, 1.
+Oh, oh, almost.
+Okay, 3, 2, 1.
+Oh, almost.
+3, 2, 1.
+Okay, last one.
+3, 2, 1.
+Ah, over.
+- That might be it
+- Yeah, we're outta pens
+(helicopter revving)
+The second to last drop,
+we had almost no crosswinds at all.
+So they dropped perfectly down
+and kind of hit right below where we were
+and they were all cattywampus.
+If the myth was true, I would
+expect to see this everywhere.
+- [Derek] Right.
+- [Adam] Right?
+That's what I would expect to see.
+And I don't see a single one
+and I didn't after we dropped 'em all.
+- Are you gonna call it I?
+- (laughs) I will, sure.
+I'll come back outta
+retirement to say busted.
+Pens are not dangerous
+falling from tall objects.
+Ball point pens with their caps off.
+- [Derek] Narrow metal pens
+might still be dangerous,
+but these plastic ones still
+seem to have too much drag
+relative to their weight
+for them to achieve
+a high terminal velocity.
+One of the curious things
+about air resistance
+is that it depends not only
+on the cross sectional area
+of the object, but also
+on its overall shape.
+This dependence is captured
+in a dimensionless number
+known as the Drag Coefficient.
+The Drag Coefficient is all about
+how smoothly air can flow around an object
+and without creating vortices.
+The word bullet comes from
+the French boule meaning ball.
+So a boulette is a small ball,
+exactly what the earliest bullets were.
+But the drag Coefficient
+of a sphere is 0.5
+so people modified the
+shape to reduce drag
+and eventually, they settled
+on a modern bullet shape,
+which has a drag coefficient
+between 0.1 and 0.3.
+So drag coefficient is the reason a bullet
+is no longer a boulette.
+So what would happen
+if you dropped a bullet
+from a skyscraper?
+Not what you'd expect.
+Instead of falling pointy side down,
+a bullet would tumble and likely
+end up falling on its side.
+- The thing is that cylinders
+tend to fall on their sides
+if given enough chance.
+- Really?
+- But the object falls
+in relation to the highest resistance.
+It ends up finding the highest resistance
+as the most stable.
+- Why doesn't it fall
+in lowest resistance?
+- I know.
+- That seems intuitive.
+- Bullets, if you let them,
+they'll fall and make bullet shape holes--
+- On their side.
+A bullet fired straight up
+slows down as its kinetic energy
+is turned into gravitational energy.
+And at its highest point,
+which could be up to
+three kilometers high,
+it stops and then falls back down.
+At that moment, it's just
+like dropping a bullet
+from a really tall building.
+As it starts to fall,
+it will tumble and so it
+experiences far more air resistance
+than on the way up.
+And so it's not gonna get
+back a lot of that energy
+that went into its height,
+which means that by the
+time it reaches the ground,
+it will be much slower than it was shot.
+Now if the bullet isn't
+fired completely vertical,
+then it poses much greater danger.
+At the peak of its trajectory,
+only the vertical component
+of velocity is zero.
+It still maintains its
+horizontal velocity,
+and that combined with the
+spin imparted to the bullet
+by the grooves inside the gun barrel,
+keep it moving pointy and forwards.
+And so as the bullet
+comes back to the ground,
+it speeds up to a significant
+fraction of its launch speed.
+There are hundreds of cases
+of people being struck
+and killed by celebratory
+gunfire from all over the world.
+Now this is accidental,
+but the concept of dropping
+deadly projectiles on enemies
+is almost as old as aircraft.
+In World War I,
+these little pieces of metal
+were dropped out of planes
+and they look like nails with
+little feathers on the back
+to make sure they fall straight.
+They're called fléchettes,
+which is French for little arrow,
+but some were up to 15 centimeters long.
+- That is great.
+I totally wanna make a
+thing that shoots these.
+(Derek laughing)
+- And how big were these things?
+- About the size of a dart,
+a little heavier than a standard pub dart.
+And there were like
+endless different shapes.
+- [Derek] From a military perspective,
+the advantages were they
+didn't require any explosives
+and they were cheap to
+produce and deploy at scale.
+They could pierce helmets
+leading to enemy casualties
+and some nasty injuries.
+- They found darts that
+had gone through a rider
+and his horse.
+- That's insane.
+- But I also just love the idea
+of a guy in an open cockpit,
+cloth and wood plane just
+hurling handfuls of darts out.
+That is like a 10 year old's
+idea of warfare, right?
+Then I'm gonna hit him with darts.
+- Later, the US created similar
+weapons called Lazy Dogs,
+which were a bit heftier
+used in the Korean
+and Vietnam wars.
+The damage they inflicted
+was indiscriminate
+and unpredictable,
+but at least they didn't
+leave unexploded ordinances
+in the field.
+And militaries continue to use
+kinetic projectiles to this day,
+For example, to make precision
+strikes on terrorist leaders.
+Falling objects are also
+dangerous in civilian life.
+Nearly 700 Americans die each year
+by being struck by a falling object.
+These range from loose tiles and bricks
+to falling construction tools,
+falling rocks and tree branches,
+and even icicles.
+Death by icicle is rare
+but they were a serious enough concern
+that in the winter of 2014,
+streets around New York's
+One World Trade Center
+were closed due to the danger caused
+by icicles hanging on the building.
+So which projectiles are
+lethal and which aren't?
+Honestly, a lot of them are.
+The lower limit of the energy required
+to fracture a human skull
+is around 68 Joules.
+So anything that has kinetic
+energy greater than that
+is very likely to kill you.
+A raindrop at terminal
+velocity with its tiny mass
+will only deliver 2000th of a Joule.
+A falling penny has
+about a fifth of a Joule.
+But a baseball and the
+largest hailstone measured
+deliver more than 80 Joules.
+That is plenty to crack your skull.
+In 2014, a man was killed
+when he was hit by a
+falling measuring tape
+that had fallen 50 stories.
+And this is just calculating
+for blunt force trauma.
+The energy stored in a falling Flechette
+is not enough to crack your skull,
+but it can apply a large
+force to a very small area.
+So yeah,
+a penny falling from the
+Empire State Building
+won't kill you.
+A pen likely won't either.
+Anything that weighs a few
+grams and isn't aerodynamic
+isn't going to be fatal.
+But objects that weigh more
+than a few hundred grams
+traveling at terminal velocity
+are likely to be deadly.
+(upbeat music)
+You have made it to
+this part of the video,
+which means you like learning stuff.
+And I wanna tell you one thing
+that will help you learn even more.
+Right now for free,
+you can get started with
+my favorite learning tool
+and the sponsor of this video, Brilliant,
+by going to brilliant.org/veritasium,
+link in the description.
+So why should you try Brilliant?
+Well, because it allows you to learn
+a wide range of STEM concepts
+in an interactive way.
+They have advanced topics like calculus
+and gravitational physics.
+But if you need a refresher,
+they also have fundamentals
+of algebra or computer science
+or logic.
+There are so many courses to choose from.
+You know, people sometimes ask
+why I don't show more equations
+or work through numerical
+examples in my videos.
+And the reason is I don't think
+that's really where video shines.
+I did my PhD on how to make
+videos to teach physics,
+and I think they're a great way to inspire
+and excite people about science.
+But if you actually want
+to develop expertise
+and problem solving skills,
+you need to try things out for yourself.
+And that's where Brilliant comes in.
+You can experiment with
+demos and simulations,
+see the effects of changing parameters,
+and every step of the way
+you are asked questions
+which ensure you understand the concepts.
+And if you ever get stuck,
+there's always a helpful
+hint close at hand
+and full explanations if you want them.
+For the first 200 people to sign up,
+Brilliant are offering 20%
+off a premium subscription,
+just use my link brilliant.org/veritasium.
+And remember using that same link,
+you can get started for free.
+So go check it out.
+I wanna thank Brilliant
+for supporting Veritasium
+and I wanna thank you for watching.

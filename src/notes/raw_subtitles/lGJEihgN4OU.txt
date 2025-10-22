@@ -1,0 +1,448 @@
+- [Derek] This is the world's
+largest rainfall simulator,
+located in Tsukuba, Japan.
+Now, I know that it just looks
+like a warehouse with a lot
+of sprinklers, but this building
+is incredibly important.
+The science conducted here
+keeps tens of millions
+of people safe, and it's only
+becoming more and more vital.
+We were given exclusive
+access to tour the facility,
+and they even let us
+experience what it's like
+to stand under the most intense rainfall
+ever recorded.
+- [Petr] This is insane.
+Nope, nope, nope, nope,
+nope, nope, nope, nope.
+- Japan is a land of natural disasters.
+Most people will think
+of earthquakes, tsunamis,
+and volcanoes, but it also
+experiences massive typhoons,
+which are like hurricanes
+that pick up energy from the Pacific Ocean
+and dump meters of rain on the islands.
+Yakushima Island near the
+southern part of Japan is one
+of the wettest places on Earth,
+receiving up to 10 meters
+of rain every year.
+For comparison, the Amazon
+rainforest gets only
+about three meters of rain per year.
+That's three times less
+than Yakushima Island.
+Most of the time, rain isn't a problem.
+The water evaporates
+or seeps into the soil
+and is then absorbed by plants
+or enters the underground aquifer systems.
+But too much rain in a short period,
+like after a typhoon can
+lead to serious problems.
+Problems that scientists working
+at NIED use the rainfall
+simulator to study
+and hopefully prevent.
+The giant warehouse is equipped
+with 550 nozzles attached to the roof.
+The scientists can control the intensity
+of the rain from 15 millimeters per hour
+to 300 millimeters per hour.
+The most rainfall ever
+measured in one hour occurred
+on the 22nd of June,
+1947, when 305 millimeters
+of rain fell on the
+town of Holt, Missouri.
+So this warehouse can simulate
+the most intense rainfall
+anyone has ever experienced.
+In a way that makes it the
+rainiest place on Earth.
+And honestly, I'm having a good time here
+in sunny Australia.
+So I sent Veritasium
+producer Petr in my stead.
+- They're gonna turn on
+the rain really soon.
+So I'm running out to grab
+my rain jacket, I'm ready.
+Wow, this is so much rain.
+All around me, there is
+exactly 300 millimeters
+of rain falling every hour.
+We've only turned it on
+about five minutes ago,
+and there's just so much rain.
+There's already puddles, this
+is genuinely, absolutely wild.
+I don't think I've ever
+experienced anything
+like this before.
+- The nozzles at the
+simulator contain four holes
+of varying diameters, so
+they can produce raindrops
+of different sizes, and the
+size of the raindrop affects
+how fast it falls.
+You've likely experienced the kind of rain
+with the big droplets that pelt your face
+or walked through a drizzle
+where small drops hover like mist.
+Because the smaller the
+raindrop, the slower it falls.
+There are two forces
+that act on a raindrop,
+gravity and air resistance.
+And the larger raindrops
+have a higher weight
+to surface area ratio,
+and so they have a
+higher terminal velocity,
+so they will be falling faster.
+A raindrop that's one
+millimeter in diameter falls
+at only about two meters per second,
+while a three millimeter raindrop falls
+at six meters per second.
+Air resistance is also why
+raindrops aren't shaped
+like cartoon raindrops.
+They are closer to spherical,
+but a bit flatter on the bottom
+where they encounter oncoming air.
+If a raindrop gets too big,
+it flattens out, caves in in the middle
+and briefly resembles a little parachute
+before it breaks up into smaller droplets.
+Flooding is something that
+Japan takes very seriously
+and for good reason.
+In July, 2018, there were
+floods all over the country
+due to the rainfall
+from Typhoon Prapiroon.
+Some regions of the country
+received nearly two meters
+of rain in just 10 days,
+and the resulting floods were enough
+that more than 8 million people had
+to be evacuated from their homes.
+Over 200 people died,
+and the damage to property
+from the flooding was more
+than 1 trillion yen, nearly $10 billion.
+Tokyo, the capital city of Japan,
+is very vulnerable to flooding.
+There are more than a hundred
+rivers crisscrossing the city
+of nearly 40 million people.
+To prevent the rivers from
+overflowing, there are pipes
+and tunnels under the city leading
+to an enormous water storage tank.
+In October, 2019,
+typhoon Hagibis dumped over
+200 millimeters of rain
+onto the city in under 48 hours.
+The underground system diverted
+12 million cubic meters
+of water and prevented an
+estimated $1.7 billion in damage.
+But flooding isn't the only problem.
+Japan is a very mountainous
+country with many towns
+and villages situated in valleys.
+So combined with the heavy rainfall,
+this creates the perfect
+conditions for another hazard.
+(man screaming)
+The researchers at NIED have
+identified over 700,000 places
+where landslides are a
+significant threat to homes.
+But landslides are so complicated.
+There are so many factors
+that affect if a landslide will occur,
+how large it could be,
+how fast it will move,
+and how much damage it will do.
+Not just the slope angle
+or the amount of new rain,
+but the type of soil,
+the minerals present,
+and the vegetation growing
+on top of the slope.
+This is footage from a landslide
+that occurred in Norway in June of 2020.
+There's barely any slope angle here,
+but the whole area sits
+on a layer of quick clay,
+an incredibly unstable clay
+layer, which when exposed
+to intense rainfall loses
+its structural integrity,
+becoming a liquid.
+In the case of this landslide,
+there were no casualties,
+though several homes
+were swept out to sea.
+The complexity of the physics
+of landslides is why the work done
+at the large scale rainfall
+simulator is so important.
+The best way to minimize
+landslide damage is prevention,
+and it's the same for cybersecurity.
+Creating strong passwords,
+using anti-malware protection,
+backing up your data and
+updating your operating system
+and software regularly.
+Something that's particularly useful
+is a virtual private network
+like today's sponsor, NordVPN.
+NordVPN hides your IP address
+and helps protect your online identity.
+Petr filmed on location in Japan
+and he used NordVPN to safely
+access public wifi hotspots.
+And I am currently in Australia,
+and I've been using
+NordVPN to watch NHL games
+'cause I think the
+Canucks have a real shot
+at the cup this year.
+Something I especially
+like about NordVPN is
+that their speeds are blisteringly fast.
+So it's effortless to just
+keep it turned on all the time.
+High speeds are particularly
+useful when you're connecting
+to streaming services
+and hopping on servers in distant
+locations to watch content
+that's only available in those regions.
+For viewers of this channel,
+use the link nordvpn.com/veritasium
+for a huge discount on a two year plan,
+plus an extra four months for free.
+So I'll put that link
+down in the description.
+There's a 30 day money back guarantee,
+so it's entirely risk free.
+Just go to nordvpn.com/veritasium.
+So I wanna thank NordVPN
+for sponsoring this part
+of the video, and now back
+to the world's largest rainfall simulator.
+- All right, I'm gonna try
+it without an umbrella.
+I have a very nice, very nice jacket.
+I'm not sure how it's gonna
+hold up, but we're gonna try.
+(Petr screaming)
+Oh my God, this is insane.
+Nope, nope, nope, nope,
+nope, nope, nope, nope.
+My jacket is waterproof, so I was fine.
+But my jeans are
+absolutely soaked through.
+- [Derek] To study landslides,
+the whole warehouse
+has a secret, it moves.
+- [Peter] The rainfall simulator can be
+in one of five positions.
+- Velocity is about one
+meter per one minute.
+- One meter per minute.
+Wow, it moves on these railway tracks.
+Every time you move it, you need
+to grab this gigantic
+wrench and undo these bolts.
+This is the pipe that connects
+all the water up to the sprinklers.
+There's a number of these kind
+of openings in the pipe along the line.
+So when you move it,
+you just connect it to a different part.
+So this is the landslide testing facility?
+- Yes, this is a 30 degree
+slope, you can see this.
+This is a shallow landslide.
+Now you can put the soil
+here, about one meter.
+- [Petr] You would put all
+the sand and all the soil,
+and then you'd bring the building over.
+You'd move it over here.
+And then you'd start raining on it.
+- Yes.
+- [Dr. Sakai] 20 degrees
+this slope, is 20 degrees.
+- Right, so you have a 30, a 40, and a 20,
+20, 30, 40.
+- Yes.
+- [Derek] So what causes landslides?
+Well, a slope will slide when the force
+of gravity pulling it down becomes greater
+than the force of friction holding it up.
+- There's a misnomer out there
+that water makes the materials
+slipperier, so it rains
+and it soaks into the ground
+and it makes it slipperier.
+That's not true, water's
+actually an anti lubricant
+for many materials, including quartz,
+which is our most common
+mineral in soils and on earth.
+- [Derek] So water doesn't
+make soil slipperier,
+but soil is porous.
+There are grains and there are
+pores between those grains.
+And as it rains, the
+water seeps into the soil,
+the pores become filled with water,
+and as it keeps raining,
+the water pressure in the pores increases,
+which decreases the
+friction between the grains.
+For a slope that was
+already at risk of sliding,
+this decrease in friction
+is what ultimately leads
+to the slope breaking
+apart and sliding downhill.
+- One thing that our
+mathematical models are not
+very well developed at yet is determining
+is it going to slide slowly
+or is it going to slide
+or maybe flow rapidly?
+That's a tough one, that's, so
+experimentation's a great way
+of getting at that.
+And you know, the scaler effects are huge.
+So many people have a
+little model in their lab,
+you know, a small scale flume,
+but now you're dealing
+with materials, you know,
+you're starting to get off scale.
+A large scale stimulation
+device like they have in Japan
+is really important.
+- [Derek] So how can
+you prevent landslides?
+Well, there are a few things you can do,
+like using steel beams and
+mesh to anchor the slope.
+Or you can dig up the
+top layer of the soil
+to decrease the slope angle.
+And when it's expected
+that a slope will slide
+after too much rain, engineers
+drill holes into the slope
+and place pipes to drain the water out.
+Another solution is to
+create catchment zones
+and diversion channels,
+big holes in the ground
+that will catch or divert the landslide
+before it hits a residential area.
+Trees are incredibly effective
+at preventing landslides.
+Not only do their roots
+provide great anchors,
+they draw the water up from
+the soil to be evaporated away,
+which effectively drains the soil
+and decreases the water level.
+(chainsaw operating)
+Where steep slopes have been deforested
+for the timber industry,
+landslides have become more common.
+Over the last few decades,
+there has been a tenfold
+increase in landslides
+in the forests of British Columbia.
+- Humans are really good
+at causing landslides
+and we're shaping the land a heck
+of a lot more quickly than
+geologic processes do.
+So when we excavate over
+here or add more weight
+or more landslide or
+more material over here,
+and that triggers landslides
+very, very regularly.
+Study in Seattle from Seattle,
+Washington a few decades ago,
+showed that I think more than 85%
+had at least partial human
+trigger, if you will.
+- [Derek] While the focus
+of the work is primarily
+on landslide study and prevention,
+the simulator is also used to test
+how drones fly in rainy
+and windy conditions.
+It's also used to test self-driving cars.
+The data is used to improve the hardware
+and software of how the
+cars detect various objects.
+The two main ways that self-driving
+cars detect other cars,
+traffic lights and
+pedestrians is with cameras
+or LIDAR sensors.
+In both cases, rain can
+decrease the visibility
+and accuracy of these sensors.
+So testing them in a perfectly
+repeatable environment
+helps engineers develop solutions
+to these weather challenges.
+- In Japan, the rainfall
+condition is changing.
+And now in this century,
+the rainfall condition
+is so many heavy rainfall
+in so much short time.
+- [Derek] As the world heats
+up due to humanity's addiction
+to fossil fuels,
+extreme weather events
+are becoming more common.
+Compared to 30 years ago, the
+number of rain events in Japan
+with an intensity of
+50 millimeters per hour
+have become 40% more common.
+Rainfall at double
+that intensity has become 70% more common.
+Climate change will increase
+the rate of flooding
+and the occurrence of
+landslides in the future,
+which is why the work done
+at the world's largest rainfall
+simulator is becoming more
+and more important.
+But I hope that humanity
+focuses its efforts
+on addressing the root
+causes of climate change
+and not just on the mitigation
+of its negative impacts.

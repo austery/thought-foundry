@@ -1,0 +1,937 @@
+- Imagine you are an astronaut
+out drifting in deep space
+when you throw a rock as hard as you can.
+What's gonna happen to that rock?
+Well, you would think
+that it would continue
+with constant velocity in a straight line.
+That's just Newton's first law.
+But what actually happens
+is it eventually slows down
+and stops.
+So why does this happen?
+Where did all the rock's energy go?
+(pensive orchestral music)
+At the turn of the 20th century,
+the problem of energy conservation
+baffled some of the greatest minds,
+including Albert Einstein.
+Einstein came up with a possible solution,
+but then a little-known
+unpaid mathematician
+named Emmy Noether proved he was wrong.
+And in doing so,
+she created a whole new
+paradigm for physics,
+one that underlies all of particle physics
+and explains why anything is conserved.
+(gentle inquisitive music)
+It all started in 1915 at
+the University of Gottingen,
+where Einstein was giving six lectures
+on his new theory of gravity.
+What would become the
+general theory of relativity.
+The lectures were well received,
+but Einstein hadn't yet
+settled on the final form
+of the field equations.
+One problem he was facing
+was how to show that
+total energy was conserved
+in his new theory.
+- And this is the whole
+beginning of this story, right?
+Classically, they thought
+they had this understanding
+of what the energy of the
+gravitational field was.
+All of a sudden with these new equations,
+they go, "Where is it?
+You know, is it in the curvature?
+You know, is it in the
+stress-energy tensor?
+Where's the term that we're looking for?"
+- [Derek] Einstein
+suggested that the principle
+of conservation of energy,
+long established as a bedrock of physics,
+might hold the key to working out
+the correct field equations.
+In the audience, legendary mathematician
+David Hilbert was intrigued.
+So he started to look for the
+energy conservation equations
+in Einstein's new theory,
+but the best he could find
+was a set of equations known
+as the Bianchi identities.
+They showed that energy was conserved,
+but only in a completely empty universe.
+So for one like ours filled
+with stuff, they seemed useless.
+Hilbert was stumped.
+- Fortunately, he knew just
+the person for the job.
+His new assistant, Emmy Noether.
+(light thoughtful music)
+- [Derek] From an early
+age, Noether had dreamed
+of following the footsteps of her father,
+a mathematics professor at
+the University of Erlangen.
+She got special permission
+to attend lectures at the university,
+but they refused to admit
+her as an official student.
+The Erlangen Academic Senate
+held that the admission of women
+"would overthrow all academic order."
+(lively orchestral music)
+So in 1903, she spent a
+semester at Gottingen instead.
+There she learned about a
+new way to approach geometry
+using symmetry.
+(gentle thoughtful music)
+Symmetry is one of those
+ideas that's easy to recognize
+but harder to describe.
+- If I align a mirror on
+this triangle like so,
+then it looks the same
+as without the mirror,
+and that's because this
+is an axis of symmetry.
+The reflections about this axis
+leave the triangle unchanged.
+And the same thing happens
+if I put the mirror like this
+or if I orient the mirror like this.
+So this triangle has
+three axes of symmetry.
+Now, mathematicians generalize
+the idea of symmetry further
+to be any action you can take
+that leaves an object unchanged.
+So something else I could do
+is I could rotate this triangle
+by 120 degrees or by 240 degrees
+or by 360 degrees.
+Together, these six actions
+capture all the symmetries
+of the equilateral triangle.
+- [Derek] But you can also
+have more abstract symmetries,
+for example, with a mathematical function.
+If I shift this function up or
+down by some constant amount,
+call it a, then all of
+its y values will change.
+But if I differentiate that
+function, I get the slope,
+and that remains unchanged
+regardless of whatever constant is added.
+So you can add any
+constant to this function,
+and its derivative always stays the same.
+So there is a kind of
+translation symmetry.
+And unlike the symmetries of the triangle,
+this is a continuous symmetry,
+meaning you can shift it
+by any amount you like.
+Over the next 12 years,
+Noether became a leading
+expert on symmetry.
+She became only the
+second woman in Germany
+to earn a PhD in mathematics,
+and she used this
+expertise to help Hilbert
+and Einstein with their
+problem of energy conservation.
+The issue had bothered Einstein so much
+that he proposed a new
+conservation equation.
+It said that if we add
+together the energy of matter
+and the energy of the gravitational field,
+then that total remains constant.
+Its change over time and space is zero.
+But when Noether saw this,
+she was convinced Einstein
+had made a fundamental mistake
+because this equation disregards
+the foundational principle
+that general relativity is built on.
+(light pensive music)
+10 years earlier, in 1905,
+Einstein had introduced his
+special theory of relativity,
+and it was built on the idea
+that the laws of physics
+were independent of
+your frame of reference.
+But so far Einstein had
+only applied this principle
+to inertial frames of reference.
+Those are frames that
+move at a constant speed.
+- He began wondering
+what would it take to generalize that,
+to consider more general states of motion.
+After all, trains on the
+platform; he loved trains.
+Trains would speed up or slow down.
+People, you know, moving around the world
+don't only move at a single
+constant speed forever.
+- In 1907, he wrote,
+"Is it conceivable that
+the principle of relativity
+also applies to systems
+that are accelerated
+relative to each other?"
+This made him wonder;
+perhaps his principle could
+also be applied to accelerating
+and rotating frames, frames
+that move in any way in general.
+That's the "general"
+in general relativity.
+So Einstein got to work
+on this largely intellectual pursuit.
+- But then, as he was
+daydreaming in the patent office,
+he had what he called the
+happiest thought of his life.
+- [Derek] He imagined the window cleaner
+at the top of the opposite
+building falling off.
+(window cleaner screams)
+And Einstein realized that
+while the man was falling,
+he wouldn't feel his own weight.
+He would be weightless,
+and anything he dropped on his way down
+would remain stationary relative to him.
+It would be just as if he
+was floating in outer space.
+- It's ironic, we would've said,
+"Oh, he's being pulled down to the ground
+because the gravity of the
+Earth is exerting a force.
+But Einstein said, while
+that person is in motion,
+what we call free fall motion,
+they would actually
+feel no gravity at all.
+There must be some equivalence
+between accelerated motion
+and the action of gravity.
+So Einstein arrived
+at what he called the
+equivalence principle.
+- [Derek] If you were stuck
+in a rocket in outer space
+accelerating at 9.8
+meters per second squared,
+then it would be the exact same
+as if you were standing
+on the surface of Earth.
+- And this was huge
+because it meant that if
+Einstein could figure out
+how to understand accelerating frames,
+then he didn't just get
+a more general theory;
+he would also have a
+new theory of gravity.
+- But to achieve this,
+Einstein needed to make
+sure the laws of gravity
+had the same form in
+every frame of reference.
+(train whooshing)
+This is the idea of general covariance,
+and it's one of the core
+tenets of general relativity.
+To satisfy it, Einstein knew he had to use
+special mathematical
+objects called tensors.
+A simple kind of tensor is a vector.
+You can write a vector
+as a set of components
+multiplied by their basis vectors.
+For example, this vector can be written as
+3x hat plus 2y hat.
+But I can also write this
+using a different coordinate system.
+And with these new basis vectors,
+the original vector is
+now written as 2a plus 1b.
+So the components, the
+numbers in this list, changed,
+but the vector didn't.
+It stayed the same.
+And that's because when
+the basis vectors change,
+the components adjust
+in a complementary way
+to keep the vector the same.
+The vector itself is independent
+of which coordinate system you use.
+And the same is true for tensors,
+only now instead of having
+just two components,
+a general tensor can
+have any number of them
+in the form of a matrix.
+And just like with vectors,
+you can change a tensor
+from one coordinate system to another,
+and the tensor stays the same.
+So that's why Einstein had to use them
+to build his new theory.
+- And that was exactly the
+problem that Noether found
+because when she looked
+at Einstein's proposed
+energy conservation equation,
+it contained a pseudotensor.
+And as the name implies,
+that isn't quite a tensor.
+When you try to transform it
+from one frame of reference to another,
+it doesn't remain the same
+quantity in different frames.
+The gravitational energy you
+might observe in one frame
+completely disappears in another.
+- And Einstein, you know,
+he had some strange thoughts about this.
+I mean, people were trying to
+stamp conservation of energy
+into relativity by bending the rules
+of mathematics.
+- So, Noether knew that
+Einstein's proposed solution
+couldn't be the answer,
+and that made her think,
+"What if general covariance
+and energy conservation
+are simply incompatible?
+And if that's the case, then why?"
+General covariance says
+that laws of physics
+must stay the same when you
+change reference frames.
+So that is a kind of symmetry,
+exactly what Noether had
+spent her career studying.
+So she started thinking
+about the symmetries of the universe,
+beginning with the simplest possible case,
+an empty static universe.
+(light contemplative music)
+Imagine you are an
+astronaut in this universe.
+Since it's empty, there is nothing special
+about any particular point.
+I mean, it doesn't matter if
+you're over here or over there;
+the universe is completely symmetric
+under translations in space.
+So suppose you throw a ball;
+well, it'll travel at a given speed,
+and after a short amount of time,
+it will have traveled some distance.
+But since the laws of
+physics are the same here
+as just before, we can
+shift the whole universe,
+and we're back to the
+situation we started with.
+And we can keep doing this over and over,
+and this shows us that
+the object will continue
+with that same speed indefinitely.
+So what we've discovered
+is that the principle of
+conservation of momentum
+is a direct result
+of the fact that there's
+a translation symmetry
+in the universe, that an
+experiment done in one spot
+will give identical results
+to that same experiment
+done somewhere else.
+You could move everything
+from one place to another,
+and the physics won't change.
+Similarly, the laws of
+physics don't depend
+on whether you perform
+an experiment like this
+or rotate everything by 90 degrees.
+This universe is
+symmetric under rotations.
+So imagine we take a
+metal rod and spin it.
+If we let it rotate for a minute,
+then it will have moved
+through a small angle,
+but we can rotate the whole universe back
+by that same angle
+and now we're at the
+starting position again.
+And we can keep doing this
+so that each instant
+looks exactly the same
+as the one before, which means the object
+will keep rotating this way indefinitely.
+So the law of conservation
+of angular momentum
+comes from the rotational
+symmetry of the universe.
+Now, another important
+symmetry of this universe
+is time symmetry.
+The laws of physics
+don't change over time;
+if you do an experiment today or tomorrow,
+you will get the same result.
+So what does this symmetry lead to?
+Well, to understand this,
+we're gonna dig into some math
+and a different way of doing mechanics
+using the principle of least action.
+Previously on Veritasium,
+we learned that everything
+always follows the path
+that minimizes a quantity
+known as the action.
+This is equivalent to the integral
+of the Lagrangian L over time.
+In the simplest case,
+that's just the kinetic
+minus potential energy.
+Euler and Lagrange found
+that the principle of
+least action is obeyed,
+so long as this set of differential
+equations is satisfied.
+So Noether used action to see how physics
+was affected by different symmetries.
+- So suppose we do an experiment
+where the result is the same now
+as some tiny time interval epsilon later,
+then how does this affect the action?
+Well, the time is going
+to change from just t
+to t plus epsilon,
+and as a result, the Lagrangian
+is also going to change.
+So the new Lagrangian will be L prime,
+which is equal to the old Lagrangian,
+plus how much the Lagrangian
+changes over time,
+that's just dL by dt,
+multiplied by how long that change lasts,
+so multiplied by epsilon.
+But now also remember that the result
+is gonna be the exact same
+now as a little while later,
+which means that whatever this term is,
+the dL over dt, doesn't affect
+the equations of motion,
+and it's from this symmetry in the action
+that we're gonna be able to
+find the conserved quantity.
+So let's take dL/dt and rewrite
+it using the chain rule.
+That gives us the partial
+derivative of L with respect to X
+times dx over dt,
+plus the partial derivative
+of L with respect to v
+times dv over dt.
+But we can sub in the
+partial derivative of L
+with respect to x
+with this term from the
+Euler-Lagrange equation.
+And we can simplify this further
+by writing dx over dt as v,
+and that gives us this expression.
+And now notice what we've got right here.
+We've got the time derivative
+of some function, dL over dv,
+times another function,
+plus that first function
+times the time derivative
+of the second function.
+So we can use the reverse
+of the product rule
+to simplify this to the time
+derivative of dL over dv
+times v.
+Then as a final step, we can
+bring dL over dt to the right.
+So what we found is that
+if you take the time
+derivative of this quantity,
+it's equal to zero,
+which means that whatever
+this is has to be a constant.
+So what is it?
+Well, remember that in the
+simplest case, the Lagrangian
+is just equal to the kinetic
+minus potential energy,
+which we can write as
+1/2 mv squared minus v.
+So if we take the partial
+derivative of the Lagrangian
+with respect to v, we're
+just gonna get d over dt,
+m times v multiplied by v,
+so this is gonna become mv squared.
+And then we can sub in the Lagrangian.
+So this becomes minus
+1/2 mv squared minus v,
+but also minus here.
+So this becomes plus v, and
+all of that's equal to zero,
+which we can simplify
+to just 1/2 mv squared
+plus v is equal to zero.
+But wait a second because
+this is just the total energy.
+So what we've discovered is
+that time translation symmetry
+is equivalent to saying
+that energy is conserved.
+(dramatic orchestral music)
+- The principle of conservation of energy
+is a direct consequence of
+time translation symmetry.
+In a theorem, Noether proved
+that all of these examples
+are no coincidence.
+For centuries, people had no idea
+where conservation laws came from.
+But now Noether had discovered
+the origin of all of them.
+She proved that anytime you
+have a continuous symmetry,
+you get a corresponding conservation law.
+Translational symmetry gives
+you conservation of momentum,
+rotational symmetry gives you
+conservation of angular momentum,
+and time translation symmetry
+gives you conservation of energy.
+But these are all symmetries
+of a static empty universe.
+The universe we live in is very different.
+In the 1920s, astronomers
+measured the velocities
+of distant galaxies,
+and they realized all of
+them are moving away from us.
+The farther away they are,
+the faster they're moving.
+The implication was clear.
+In the distant past,
+everything must have been
+much closer together.
+In the 1990s, precise
+measurements of supernovae
+revealed that not only was
+the universe expanding,
+but that expansion was speeding up.
+This means over large timescales,
+our universe is not symmetric in time.
+It was very different
+13 billion years ago,
+and it'll be different
+billions of years from now.
+Since we don't have time symmetry,
+that also means energy,
+as we usually think of it,
+isn't conserved.
+- There's no reason for
+energy to be conserved anymore
+'cause you don't have that symmetry.
+- [Derek] Think about a
+photon of visible light
+emitted 380,000 years after the Big Bang,
+it travels through the universe unimpeded
+to arrive at our telescopes,
+not as visible light but as a microwave.
+It has lost 99.9% of its energy.
+- Where did the energy go?
+Doesn't go anywhere.
+Energy's not conserved.
+- [Derek] And this is exactly
+what's happening to the rock as well.
+It starts off with energy,
+but as it travels through
+the expanding universe,
+it slows down and stops.
+(gentle thoughtful music)
+The energy doesn't really go
+anywhere; it just disappears.
+- It ends up coming to rest
+with regard to the other
+particles in the universe.
+- This doesn't violate any laws of physics
+because energy and
+momentum aren't conserved
+if there is no time or spatial symmetry.
+- So once you know that
+symmetries give you conservation laws,
+and so once those symmetries are gone,
+you don't have to worry about
+those conservation laws anymore,
+then you can start dropping these concepts
+of trying to force something
+that you want to say is
+fundamental into the theory,
+and you just deal with
+what the theory gives you.
+- But if energy isn't
+conserved in our universe,
+then why does it usually seem like it is?
+(light mysterious music)
+That's because when you're
+looking at the short timescales
+that we're used to,
+time translation symmetry
+pretty much holds;
+an experiment done today
+will give the same results
+as the same experiment done tomorrow.
+So that means for all
+intents and purposes,
+energy is conserved.
+But over large timescales on
+the order of millions of years,
+well, then the expansion of the
+universe can't be neglected,
+and the symmetry is broken.
+So only when you look
+at timescales that big
+do you notice that energy isn't conserved.
+Noether's first theorem
+explains why a rock
+or a photon loses energy,
+but it didn't fully solve the problem
+of energy conservation
+in general relativity.
+See, so far, Noether had only
+dealt with an empty universe
+where you could shift the whole universe
+and the laws of physics
+would stay the same.
+But this doesn't work
+in general relativity,
+where the curvature can change
+from one point to another.
+Now if you shift the whole universe,
+rotate it, or let it evolve in time,
+things don't stay exactly the same.
+So you no longer have
+these global symmetries,
+but Noether realized there are
+still other symmetries left.
+See, no matter how you're moving,
+the laws of physics always look the same.
+That's general covariance,
+and it is a kind of symmetry
+that holds everywhere.
+It means that in any small region,
+we can always change
+our frame of reference.
+We can transform the
+points of space around
+as much as we like.
+And since these transformations
+aren't global but local,
+these are called local symmetries.
+In a second theorem,
+Noether proved that for
+these local symmetries,
+you no longer get proper conservation laws
+like we're used to in classical physics.
+Instead, you get something
+that only works locally:
+a continuity equation.
+One example of a continuity equation
+describes the flow of
+water through a pipe.
+This first term tells you how
+the amount of water changes
+in a section of the pipe,
+and the second tells you the difference
+between how much water is flowing out
+and how much is flowing in.
+In this case, the first term is positive
+because the water level in this
+pipe section is increasing,
+and the second term will be negative
+because less water is flowing
+out of the section than in.
+Together, the two terms
+cancel to give zero,
+which guarantees that no
+water is created or destroyed.
+If the total amount of
+water changes in a section,
+there must either be excess
+water flowing in or out.
+- In the case of general relativity,
+Noether found a similar
+continuity equation,
+but with an important difference.
+Imagine that now our pipes are
+little patches of space-time,
+and the water is energy flowing
+from one patch to another.
+In any individual section,
+the continuity equation looks
+exactly the same as before,
+so that in any small region of space-time,
+energy is conserved.
+But when we link these sections together,
+we need to take into account
+the curvature of space-time.
+And this changes the equation.
+Now, it's as if there are
+little cracks appearing
+between different sections of pipe,
+between the local patches of space-time,
+and through those cracks,
+energy can leak out.
+- In special activity,
+the pipe is imperturbable
+because the pipe is fixed.
+And in general activity, you know,
+we have to account for the energy
+that goes into other
+kinds of change over time,
+and that gets correspondingly more tricky.
+- [Derek] Now that we
+have this new equation,
+we can see how it works
+by expanding it as a
+sum of different terms.
+This first term is analogous
+to the continuity equation from before,
+the one which conserves energy
+within a local patch of space-time.
+But now we have all these extra terms.
+These describe the
+curvature of space-time.
+So as energy decreases in the first term,
+these curvature terms increase.
+- The energy that you lose from
+the system you're tracking,
+we now start attributing it to things like
+the gravitational field,
+which has changed 'cause the
+whole universe is stretched.
+We have to account for the energy
+that we attribute to the action
+of the gravitational field as well
+because space and time
+themselves aren't sitting still.
+- And all of this can be described
+by the continuity equation
+Noether had found.
+But when she looked at it,
+she realized something.
+It was exactly equivalent
+to the Bianchi identities,
+the half-solution Hilbert had found.
+He had dismissed it
+because it only gave you
+proper energy conservation
+in an empty universe.
+But now Noether proved that
+it was the best you could do
+in general relativity.
+With one paper, she had
+uncovered the source
+of all conservation laws, and
+she had solved the problem
+in general relativity that
+eluded Hilbert and Einstein.
+- She was so amazing.
+I mean, I would go out on a limb,
+and I would say these
+two theorems are probably
+the most important theorems for
+physics of the 20th century.
+- [Derek] In the following years,
+the University of Gottingen
+took steps to make Noether's
+position more official,
+allowing her to do what
+she loved most: to teach.
+They made her a professor,
+and she even got a small
+salary starting in 1923.
+But all of that changed on
+the 30th of January, 1933,
+when Hitler became chancellor of Germany.
+The Nazis banned Jewish people
+from working at universities,
+and almost immediately,
+one of her former students
+told the authorities
+of her Jewish heritage,
+and she was suspended.
+Despite this dismissal,
+she continued teaching in
+the kitchen of her home.
+Then one day, one of her old
+students knocked on her door.
+(hand knocking on door)
+Clothed in the brown shirt
+of the Nazi stormtroopers,
+Noether let him in.
+He had come to learn math,
+and Noether was happy to teach him.
+- I love what this sort
+of shows about Noether.
+You know, she truly,
+deeply cared about math,
+and she wouldn't discriminate.
+Whether someone was wearing
+a Nazi shirt or not;
+she taught all.
+- [Derek] But staying in
+Germany became untenable.
+Fortunately, with the
+help of other academics,
+she managed to obtain a
+teaching position at Bryn Mawr,
+a woman's college in America,
+where she would teach until her death.
+In an obituary for the New York Times,
+Einstein wrote that "Fraulein Noether
+was the most significant
+creative mathematical genius
+thus far produced
+since the higher
+education of women began."
+- The reason that Noether's
+theorem is so important
+is that everybody just
+changed their state of mind.
+All of a sudden, the physicists
+were thinking about physics
+in terms of these symmetries.
+- Physicists started applying these ideas
+to the quantum world too,
+realizing that charged particles
+like electrons also have symmetries.
+Electrons have a phase,
+which you can think of
+as an arrow pointing in some direction,
+but you can offset this
+phase by any arbitrary amount
+so long as you do it
+simultaneously for all electrons.
+And that doesn't change
+anything physically,
+so there's another symmetry.
+So what does this offset
+or gauge symmetry lead to?
+Well, it leads to the
+conservation of electric charge.
+In the 1960s and '70s,
+Noether's insights led
+directly to the discovery
+of new fundamental particles
+like quarks and the Higgs boson.
+It taught us where the
+forces of nature come from,
+and it even helped to explain
+the origin of all mass
+in the universe.
+Noether's two theorems,
+although little known,
+are what has gotten us the
+closest we've ever come
+to a theory of everything.
+But all of this and much more
+will be covered in a second video.
+So make sure you're subscribed
+to get notified when that video comes out.
+(radio waves whizzing)
+When Emmy Noether set
+out to study mathematics,
+she was following in
+her father's footsteps,
+but from there she forged her own path.
+And before long, she was
+coming up with a whole theory
+that reshaped our
+understanding of the universe.
+That is the great thing about learning.
+You start by following instructions,
+building on what others
+have done before you.
+But then at some point, you
+start asking your own questions;
+you start experimenting
+and making discoveries.
+I've loved watching my own
+kids start this journey,
+and my longtime sponsor, KiwiCo,
+has been a big part of it.
+This month they sent me their
+Rapid-Fire Disc Launcher crate,
+and at first, we followed
+the instructions carefully,
+putting it together step by step.
+But as soon as it was built,
+my kids immediately started experimenting.
+- [Child] Can I launch it?
+- Testing different launch techniques
+to better hit the target,
+changing the launch angles,
+and figuring out what would
+make the discs fly farther.
+Without even realizing it,
+they were engaging with the
+same questioning mindset
+that drives real scientific discoveries.
+So who knows, maybe a simple disc launcher
+will inspire a young scientist
+who will go on to make the
+next great breakthrough
+in science or engineering.
+KiwiCo makes this easy
+by delivering everything
+you need in a single box,
+and they have projects for all ages
+designed by experts and tested by kids
+to make sure they're
+not only loads of fun,
+but they also inspire
+kids to ask questions
+and get creative with learning.
+So if you want to try out KiwiCo,
+click the link in the
+description or scan this QR code.
+Use my code Veritasium to get 50% off
+your first monthly crate.
+I wanna thank KiwiCo for
+sponsoring this video,
+and I wanna thank you for watching.

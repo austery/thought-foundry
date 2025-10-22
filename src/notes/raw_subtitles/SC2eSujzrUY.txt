@@ -1,0 +1,1784 @@
+In 1929 in Chicago,
+people kept mysteriously
+dying inside their homes.
+It took 15 deaths for the
+authorities to realize
+that these people were getting
+killed by...
+their fridges
+because fridges back then were
+no longer just boxes of ice.
+Instead, they relied
+on a chemical looping
+through the back to stay cold.
+And the best chemical for
+the job was methyl chloride,
+a toxic and virtually odorless gas.
+So if it somehow leaked from the fridge,
+it could kill you without warning.
+Other fridges used
+flammable gases instead,
+so a leak combined with
+a spark from the stove,
+and your house could
+suddenly go up in flames.
+So one company tried
+to solve this problem,
+but in the process,
+they accidentally created a
+seemingly magical substance.
+Soon, it made its way into
+a huge range of products,
+which were so popular they ended up
+in nearly every home in America.
+But what people didn't know
+was that these products came at a price.
+The chemicals used to make them
+were being released into the environment,
+slowly poisoning everyone
+on the planet,
+including me.
+(swelling music)
+- You have high levels of a
+chemical you never heard of.
+- It shocks me.
+Like, where could this have come from?
+- Almost every living creature,
+from polar bears to birds to fish,
+massive worldwide contamination
+by completely manmade
+chemicals that are fingerprints
+back to just a couple of companies.
+- This is a video about one
+of the biggest chemical
+coverups in history.
+For legal reasons, I want to
+note that this investigation
+is based on publicly available
+documents, recordings,
+and third-party opinions.
+All sources are linked in the description.
+The story all began with
+an attempt to save lives.
+In 1936, a chemical company
+called DuPont set out
+to find a safer alternative
+to the gases used in fridges,
+one that was neither toxic nor flammable.
+Their lead scientist on the project
+was a 27-year-old chemist
+named Roy J. Plunkett.
+He was experimenting
+with a gas called
+tetrafluoroethylene, or TFE.
+It's a pair of double-bonded carbons,
+each bonded to two fluorine atoms.
+One morning, as Plunkett
+was setting up a test,
+his assistant picked out
+a cylinder full of TFE
+and twisted the valve,
+but nothing came out.
+Plunkett thought the gas must have leaked,
+but the cylinder still weighed
+about as much as a full one,
+so he grabbed a saw and
+cut the cylinder in half.
+Inside, he was shocked to see it was full
+of a white, slippery powder.
+So what happened to the gas?
+Well, what the chemist reasoned
+was that under the high
+pressure of the cylinder,
+one of the double bonds
+between the carbons in
+TFE must have broken.
+And now those two carbon atoms
+each had a bonding site free.
+So one of them probably
+grabbed onto a carbon
+from a different TFE molecule,
+breaking its double bond.
+And then that molecule did the same,
+and the process repeated again and again
+until all of the TFE was
+trapped in these long chains.
+The gas had polymerized into
+polytetrafluoroethylene,
+forming this slippery powder.
+Plunkett just wanted to get rid of it
+because it ruined his experiment.
+But before throwing it out,
+he decided to do some tests on it.
+So he tried pouring water on it,
+but the water just beaded off.
+So he tried acid. Again, nothing happened.
+Then he tried the strongest base he had,
+but that wouldn't melt it either.
+Plunkett went through all
+of the solvents in the lab,
+but the powder remained intact.
+It wouldn't melt, corrode,
+or react with anything.
+It was seemingly indestructible.
+The reason it was so indestructible
+was because of this bond,
+the carbon-fluorine bond.
+See, out of all of the elements,
+fluorine is the greediest,
+the most electron-hungry atom.
+Its outer shell is a single electron away
+from being complete, which
+would make it perfectly stable.
+So fluorine really, really
+wants that electron.
+And because it's so small
+compared to most other elements,
+the protons in its nucleus can get close
+to the electrons of other atoms.
+And because of their positive charge,
+they pull on them really hard.
+So near a carbon atom,
+fluorine grabs onto one
+of the carbon's electrons
+to complete its outer shell,
+and this keeps the two
+atoms bonded together.
+But the fluorine isn't done there.
+It keeps tugging on
+the carbon's electrons,
+pulling them closer to itself,
+which makes fluorine
+slightly negatively charged
+and the carbon slightly positive.
+So now there's an electrostatic attraction
+that makes this bond even stronger.
+Now, in reality, electrons
+behave more like fuzzy clouds
+than the orbiting points
+in this animation,
+but the principle still holds.
+In terms of energy,
+this is actually the strongest single bond
+a carbon can form.
+So if other atoms or molecules get close,
+they're essentially ignored.
+And Plunkett's magic powder
+was completely covered
+in carbon-fluorine bonds,
+so it hardly reacted with anything.
+Okay, so he is got this
+incredibly inert stuff.
+Was he really trying to get rid of it?
+- He actually didn't
+know what to do with it
+'cause like what do you
+do with the material
+that doesn't, you know,
+react with anything?
+But luckily his employer, DuPont,
+they were actually working
+with the US Army on the Manhattan Project.
+So they were refining
+uranium and plutonium
+'cause of course there's
+a World War II reference
+in a Veritasium video.
+You just have to have it.
+- To get the fuel for nuclear
+bombs, enriched uranium,
+you first have to turn the uranium
+into a gas, uranium hexafluoride.
+It was a nasty chemical
+that corroded everything.
+So all the gaskets, seals,
+and miles of pipe in
+the plant at Oak Ridge
+had to constantly replaced,
+slowing down production.
+- But then DuPont was like, "Listen,
+we have this seemingly
+indestructible chemical, right?
+It doesn't react with
+stuff it doesn't corrode,
+so maybe we can try and use it
+against uranium hexafluoride."
+So they get a bunch of this powder,
+they cram it together under high pressure
+to create these cakes, essentially.
+Now you had a solid of this material
+that you could machine
+into gaskets and cylinders
+that you could push into these pipes
+and put these tube linings into the pipe,
+and boom, it works like
+magic, like a charm.
+The uranium hexafluoride was no match
+for this magic material.
+- As Gordon Fee, the manager
+of the nuclear weapons plant, put it,
+"There was never a substitute
+considered, as far as I know."
+The material worked so well
+that the army wanted to
+use it for everything.
+The same gaskets and seals
+were installed into fuel tanks
+and airplane engines to protect
+them from oil and water.
+And weapons manufacturing
+plants no longer had issues
+with the corrosive nitric acid
+needed to make explosives.
+DuPont saw the potential too,
+so they trademarked the material in 1944.
+- They didn't trademark it
+under the name polytetrafluoroethylene
+'cause, admittedly,
+that name kind of sucks.
+So they took T-E from
+tetra, F-L from fluoro,
+and then they had a bunch
+of these other miracle
+materials, rayon, nylon.
+So they took O-N from the end
+of those, and boom, Teflon.
+- Nice. Okay, that's a good name.
+Under the army's order, DuPont
+ramped up Teflon production
+at their test plant in
+Arlington, New Jersey,
+giving their whole
+supply to the government.
+But DuPont struggled to
+produce enough Teflon
+to meet the military's demand.
+As their Arlington scientists put it,
+the major advantages of
+polytetrafluoroethylene,
+solvent resistance and
+high thermal stability,
+offer obstacles from the
+standpoint of ease in fabrication.
+- You could only really
+mold Teflon into solids,
+so gasket, seals, pipes,
+but you couldn't put it
+into water to make a spray
+because it doesn't dissolve in water.
+They actually didn't know
+anything that dissolved Teflon,
+but there was an even bigger
+problem at that point.
+- To polymerize TFE into Teflon,
+you can add a reactive atom
+or molecule that will hijack
+the first carbon double bond
+and start the reaction.
+This is called the initiator.
+And the bond formed between
+it and the first TFE molecule
+releases a small amount of energy.
+Then a bit of energy is also released
+when the next TFE molecule joins the chain
+and the next and the next.
+And if the process isn't controlled,
+the reaction gets very hot very quickly.
+And if it gets above 200 degrees celsius,
+TFE rapidly decomposes into
+carbon and tetrafluoromethane,
+which releases even
+more energy all at once.
+This caused a massive explosion
+at the Arlington plant in
+1944, killing two workers.
+You need a way to dissipate the heat,
+take the heat away from the reaction
+without it staying in there
+and, therefore, expanding
+and creating that force.
+- Yeah, and one of the ways to do that
+was to have the reaction
+happening in water,
+because water can absorb
+a huge amount of energy
+before it ever heats up.
+- But if you inject TFE
+into a water cylinder,
+the gas doesn't dissolve.
+Even at high pressure, most
+of the TFE just stays on top.
+So if you add an initiator,
+the polymerization is
+triggered in one place,
+and so it can still cause an explosion.
+What you need is some way
+to disperse the TFE
+throughout the water first.
+And to do that, DuPont needed help.
+In 1951, they purchased
+a special acid from 3M,
+the company behind Scotch Tape.
+This acid, called PFOA,
+looked almost exactly like Teflon.
+It had a chain of eight carbon
+atoms covered in fluorines,
+but at the other end, there
+was a double-bonded oxygen
+and an OH group.
+That's what makes it an acid.
+And since there were eight
+carbons in the chain,
+DuPont also referred to the acid as C8.
+The tail end of C8, like
+Teflon, was hydrophobic,
+but the acid head group loved water,
+it was hydrophilic.
+So when you add C8 into water,
+the molecules rearrange themselves
+so that the heads touch the water,
+but the Teflon-like tails don't.
+They create little bubbles
+all throughout the water,
+which are virtually dry on the inside.
+If you now inject TFE and
+stir the whole mixture up,
+well, the hydrophobic gas ends up
+in the middle of these C8 bubbles.
+And those bubbles are dispersed everywhere
+evenly throughout the water.
+You know what this reminds me of, is soap.
+So it's the great combiner
+that allows, like, oil and water to mix.
+- And now if you sprinkle
+in initiator molecules,
+the initiator molecules
+also go into these bubbles.
+They start the polymerization reaction,
+so from TFE to Teflon.
+But now since it's happening spread all
+throughout these bubbles,
+the heat is evenly dissipated
+throughout the water, and no one explodes.
+- And since Teflon is now
+suspended in a solution,
+you can spray it onto
+surfaces like a coating.
+This thing doesn't stick to anything.
+How do you stick it to the gaskets?
+You know, how do you actually use it?
+- Yeah, yeah, yeah,
+that's a good question.
+So the trick was actually the surface
+had to be really rough.
+So what you do is you
+sandblast it to create grooves
+and imperfections at this,
+like, nanoscopic level.
+Now if you spray the coating on,
+what happens is, if you heat
+it up, the water evaporates,
+the C8, it also evaporates,
+but Teflon, instead of it
+evaporating, it just softens up.
+So although there's no
+chemical interaction here,
+now it's mechanically
+stuck to the surface.
+That's how they got it to stick.
+(suspenseful music)
+(quirky music)
+- With the war over,
+the army lifted the secrecy
+bans on the Teflon patents,
+and DuPont was allowed
+to sell it commercially.
+And suddenly, people all over the world
+were coating everyday items in Teflon,
+trying to create a world-changing product.
+One day in 1954, a French
+engineer, Marc Gregoire,
+tried putting Teflon on his
+fishing gear to prevent tangles.
+- But then his wife saw him doing that,
+and her reaction was that,
+"This is absolute nonsense.
+No one is ever gonna use this.
+You should do something that
+someone's actually gonna use.
+So how about you put it on a
+pan? Make a pan non-stick."
+- And once these pans hit the market,
+it was a cooking revolution.
+- Teflon.
+- Teflon.
+- Teflon.
+- And DuPont knew
+exactly how to market it.
+- Even oatmeal won't stick to Teflon.
+- Hey, neat. Let me try.
+- And it wasn't just non-stick pans.
+Teflon, C8, and chemicals like
+it were used in everything.
+- Slip-Away contains the
+magic of DuPont's Teflon.
+- Suddenly, we had Teflon
+stain-resistant carpets
+and stain protection sprays
+like 3M's Scotchgard.
+Jackets lined with Teflon were
+waterproof and breathable.
+- Gore-Tex is the brand name.
+- Teflon was so inert that
+medical implants made out of it
+wouldn't be rejected by the body.
+It was used to coat the Statue
+of Liberty's steel framework
+to save it from corrosion.
+And even bullets were coated with Teflon
+to minimize the damage they did coming out
+of the gun barrel.
+The term Teflon was so ubiquitous
+that when the Italian mobster John Gotti
+was being prosecuted in the late 1980s,
+none of the charges
+against him would stick.
+So he was dubbed Teflon Don.
+By the late 1990s,
+the Teflon business generated
+roughly a billion dollars
+in yearly sales for DuPont.
+- Teflon has a great future,
+and its uses will be many.
+- The chemicals were everywhere,
+even where they shouldn't be.
+- He suspected that
+something in this creek
+was poisoning his cows.
+- Earl was desperate.
+So he hired a lawyer.
+- He came to our offices armed
+with boxes of VHS videotapes.
+We started watching these videotapes,
+and you know, there was
+a serious problem here.
+- The animals were wasting away,
+and they were skin and bones,
+and they had tumors and black teeth.
+And you could see, on the videotape,
+white foam coming out of the pipe
+on this landfill next door
+with these animals
+standing in the white foam.
+The hair on their hooves
+was being eaten off
+by whatever was in the water.
+- It was a discharge pipe,
+and it had the marking
+of E.I. du Pont de Nemours and Company.
+- And the landfill that pipe
+was draining from belonged
+to DuPont's massive factory complex
+outside of Parkersburg, West
+Virginia, just six miles away.
+That factory was Washington Works,
+the first commercial Teflon plant.
+It provided jobs for almost
+2,000 people in the town.
+And DuPont's presence was felt everywhere.
+- I have been a resident of
+Parkersburg for 48 years.
+I do not work for the DuPont company,
+but I have seen how their
+people have done much
+for the cultural growth of this community.
+- There are facilities for
+tennis, camping, swimming,
+softball, and more than 20
+areas equipped for cookouts
+and family picnics.
+- DuPont took care of the community.
+So when the town folk got word
+that Earl Tennant hired
+a lawyer to investigate,
+they shunned him and his family.
+As his sister-in-law put it,
+we'd walk into a restaurant
+and everybody in the restaurant
+would get up and leave.
+But Earl wasn't scared
+off, and neither was Rob.
+- I thought this was gonna
+be pretty straightforward.
+- See, the US Environmental
+Protection Agency, the EPA,
+dictates exactly which chemicals are safe
+to be disposed of in a
+landfill and in what amounts.
+- We would get those records and permits,
+and it would tell us which chemical
+was causing this problem.
+But none of those records
+were really showing anything
+that was really causing a problem,
+you know, nothing that would
+explain that white foam.
+- Whatever was in Earl's
+water wasn't on the permits.
+Now, already in the 1950s,
+people knew that Teflon,
+specifically PTFE, was pretty safe.
+It's a long and extremely inert molecule.
+So if you ingest it, your
+body just flushes it out.
+However, if you heat Teflon
+to 350 degrees Celsius,
+it starts releasing fumes
+that make people sick.
+This often happened to
+workers in Teflon plants.
+Stray PTFE powder would
+fall onto their cigarettes
+as they were working,
+and then later they would
+accidentally smoke one
+of these cigarettes.
+Luckily, the symptoms were mild:
+fatigue, tightness of chest, headaches,
+and they would usually
+pass within 48 hours.
+It was called polymer fume fever.
+And even though it rarely happens today,
+it's why you should never
+overheat your Teflon pan
+to these temperatures,
+especially if you have pet birds at home,
+because the fumes are
+much more toxic to them.
+But Teflon couldn't have
+poisoned Earl's cows.
+There were no fumes or high temperatures,
+so there must have been
+something else in the water.
+Rob filed a legal request
+for all of the Washington
+Works operational records,
+and DuPont sent them over,
+more than 60,000 documents.
+- A lot of folks would try to say,
+"Okay, you you want a lot of documents,
+we'll give you a of documents"
+and hope that there'd be no way
+somebody could actually wade
+through all of these files
+and all of these materials.
+But I am the kind of
+person that I do dig in,
+and I do want to go
+through those documents,
+so I actually did read all of that.
+- And in those files,
+a certain chemical kept
+popping up everywhere,
+C8.
+- I never saw the kinds
+of things I was seeing now
+in these documents from DuPont.
+(foreboding music)
+- In 1961, the same year
+Teflon pans hit the US market,
+DuPont's in-house scientists
+tested C8 on rats.
+Ingesting as little as 1.5 milligrams
+of C8 per kilogram of body
+weight caused the rat's livers
+to grow abnormally.
+And a dose of 570 milligrams
+per kilogram was lethal.
+For reference, sodium cyanide,
+one of the most dangerous
+poisons, is lethal to rats
+in doses of five to 15
+milligrams per kilogram.
+But even though C8 was less fatal,
+it was concerning for two other reasons.
+First, like Teflon,
+its tail is made of carbon-fluorine bonds,
+which makes it incredibly stable.
+So C8 wouldn't break down in
+the environment for decades.
+And second, C8 looks like the fatty acids
+that humans and animals
+need for normal functioning,
+just with fluorines instead of hydrogens.
+So the concern was that C8
+could get into the bloodstream,
+hitch a ride on the proteins
+that transport fatty acids around,
+and get almost anywhere in the body.
+And because of the carbon-fluorine bonds,
+humans and animals have
+no way to break down C8,
+so it could slowly build up,
+mimicking those fatty acids
+and potentially disrupting
+the systems they regulate,
+like the liver.
+- Toxic, persistent, bioaccumulative.
+So the concern was it's
+like a ticking time bomb.
+It's got more opportunity to cause harm.
+- As a safety measure, that
+same rat study suggested
+that all these materials should
+be handled with extreme care
+and that contact with skin
+should be strictly avoided.
+In 1962, DuPont redid the study
+and confirmed that high
+doses of C8 kill rats
+through injury to the stomach, intestine,
+brain, lungs, and pancreas.
+Then in 1965, they found those
+same toxic effects in dogs.
+The evidence was mounting.
+(suspenseful music)
+(camera clicks)
+- They were even studying monkeys.
+Some of the monkeys were dropping dead.
+These chemicals were causing toxic effects
+in multiple organ systems
+in multiple species.
+All these studies weren't being shared
+with the scientific community.
+- And likely no one outside
+of DuPont would've noticed
+something was wrong
+if it was not for...
+- Tooth decay, the most
+widespread of all diseases.
+- In the 1950s, tooth decay
+was a nationwide problem.
+So the US started adding
+inorganic fluorides
+like sodium fluoride to
+the public water supply.
+This helped fight cavities.
+- 16 years after fluoridation,
+all children will have
+65% less tooth decay.
+- In 1975, researchers wanted to know
+if that inorganic fluoride was
+getting into people's blood.
+So they sampled blood from around the US,
+and the results were as expected.
+More fluoride in the tap
+water meant more fluoride
+in the blood.
+But they found another type
+of fluorine in the blood too,
+which was organic fluorine,
+carbon-fluorine bonds, and it
+didn't follow the same trend.
+- Well, these researchers were wondering,
+where's this coming from?
+Because this is not a
+naturally occurring substance.
+And they did research,
+and they found that 3M was
+making these organic fluorides,
+things like PFOA.
+All right, so they approached
+3M in 1975, asking them,
+"Hey, we found this stuff
+in the general US population's blood.
+You know, could it be yours?"
+And 3M pled ignorance.
+- But just three months later,
+3M compared the spectrum of
+organic fluorine from the study
+to their own chemicals, and
+it was a match.
+Their chemicals were
+getting into the blood
+of people all across the United States,
+but they didn't tell the researchers.
+3M and DuPont were worried,
+so they checked their own workers' blood,
+and they found that they too
+were contaminated with C8
+at levels 1,000 times higher
+than those in the study.
+And when DuPont checked
+their medical records,
+many of these workers were
+showing signs of liver disease.
+Meanwhile, DuPont was
+dumping almost 10 tons of C8
+into the Ohio River each year,
+and they were piling
+up thousands more tons
+as C8 sludge that would leach
+from the landfill next to Earl's farm,
+all while showing commercials like these.
+- And the water that
+eventually flows to the river
+is collected at five points and analyzed
+to make sure we don't pollute the Ohio.
+- And by the early '80s,
+the first cancer study is done in rats,
+and it confirms PFOA causes,
+not just might be linked with,
+but causes testicular tumors, all right?
+That sends alarm bells
+off within the company
+because the concern is, of course,
+we're putting this in the air,
+we're putting in the water.
+It's in Teflon.
+- DuPont collected samples
+around Washington Works,
+and C8 wasn't just in the river,
+it was in the public water supply.
+So in 1984, DuPont officials met
+to assess whether C8 should be swapped
+for a safer chemical.
+But their conclusion
+was that currently none
+of the options developed are,
+from a fine powder business standpoint,
+economically attractive,
+so C8 stuck around,
+and DuPont just came up with a
+safe dose for drinking water.
+- DuPont scientists are the
+first people on the planet
+to say what would be a
+safe level for humans.
+They calculated something
+like 0.6 parts per billion,
+which they rounded up to one.
+And the importance of
+that is, at that time,
+that was about the lowest level
+you could detect in water.
+Essentially, if we can
+detect it, it's too high.
+- So to put that into perspective,
+here is one 2,500-liter tank of water.
+It filled to the brim.
+Now, imagine you take one drop
+of PFOA, 0.05 milliliters,
+and you place it not in one of these tanks
+or two or three,
+20 of these tanks.
+That's one part per billion,
+and that's the number DuPont thought
+would be unsafe for humans to drink.
+- And after determining
+its own safety metric,
+DuPont tested the landfill
+wastewater leaching
+into Earl's creek.
+It came back at 1,600 parts per billion.
+- They didn't tell anybody.
+So at that point, I
+thought I had figured out
+what had finally happened to the cows.
+- Rob compiled all the
+evidence into a 900-page letter
+and sent it to the EPA,
+the Department of Justice,
+and even the US Attorney General.
+And just a few months later,
+DuPont settled with Earl Tennant
+and his family for an undisclosed sum,
+although they didn't
+admit to any wrongdoing.
+- But this stuff wasn't just
+in the water the cows were drinking.
+This was in
+the surrounding communities'
+public wells, right?
+People around Mr. Tennant,
+the tens of thousands of people
+in that community had
+likely been drinking this
+for decades and didn't know.
+- So Rob sued DuPont again,
+now on behalf of the 70,000
+people around Parkersburg
+who were unwittingly exposed to C8.
+And it wasn't just
+Parkersburg or West Virginia.
+In the year 2000, researchers
+analyzed blood samples
+from thousands of Americans
+all across the country,
+and 100% of those samples
+came back positive for C8
+at an average of five parts per billion.
+But if virtually everyone
+in the US is contaminated,
+how harmful could C8 really be?
+This is exactly what Rob had to find out
+to have a fighting chance against DuPont.
+So in 2005, he spearheaded a medical study
+of everyone around Washington Works.
+- Scientists need to know
+if the chemical C8 causes
+any health problems.
+By completing a health questionnaire
+and having your blood
+tested, you can help.
+- Analyzing the blood samples
+and medical records took seven long years,
+and many in Parkersburg passed away
+before a verdict was even reached,
+including Earl and his wife Sandra.
+But finally, in 2013,
+an independent science
+panel had the results.
+They confirmed a probable link between C8
+and six human diseases,
+including thyroid disease,
+testicular cancer, and kidney cancer.
+And these findings were based
+solely on the nearby community
+with an average C8 blood
+level of 28 parts per billion.
+So for example, an American
+male has around a 1 in 43 chance
+of developing kidney cancer.
+It's around 1 in 73 for females,
+but a person with more
+than 30 parts per billion
+of C8 in their blood serum
+might have about double the odds,
+so roughly 1 in 22 for males
+and 1 in 37 for females.
+But the data in many
+of these studies only included survivors,
+not people who might have
+already died from C8 exposure.
+So the verdict was
+that the findings must be
+interpreted with caution.
+The true risk of C8 might be even higher.
+Luckily, once these studies
+were published in 2013,
+DuPont was pressured by the
+regulators to phase out C8.
+And by 2017, they had to
+pay out over $600 million
+to victims of C8 exposure,
+which is a pretty small price to pay
+for a company that made almost $80 billion
+in sales just that year.
+And all throughout, DuPont
+denied any wrongdoing,
+but that wasn't the end of it
+for Parkersburg or anyone else
+because DuPont separated
+its entire Teflon business
+into a spinoff company, Chemours,
+that agreed to use a different chemical.
+So what was it?
+- They simply took C8 and
+knocked two carbons off
+and started making C6.
+- They called it GenX.
+Because it was shorter
+and had an oxygen atom
+interrupting the carbon chain,
+it was expected to be more degradable.
+So Chemours claimed a dose as
+high as 70 parts per billion
+of GenX in drinking water
+would still be safe.
+- That chemical gets shipped
+to the same plant in West Virginia.
+So now GenX goes into the air.
+GenX goes into the Ohio River.
+GenX is found in public water supplies.
+So GenX is allowed to
+come out into the world,
+be used in Teflon.
+Then the cancer study is done,
+which shows GenX causes
+the exact same three tumors
+in rats that PFOA did:
+liver, testicular, and pancreatic.
+- And the fact that its chain
+is shorter also makes GenX more mobile,
+so it could contaminate larger areas.
+The truth is we just don't
+know enough about it,
+and that's exactly the problem.
+- It took us decades to get to the point
+of finally addressing C8.
+They simply tweak it a bit,
+change the chemical name.
+All of the science and all
+of the concern, that's on C8.
+This is C6 or C9 or C4.
+You don't have enough evidence
+that these other ones are bad.
+This is Whac-A-Mole.
+We get to the point we're addressing one
+and the new one pops up
+and we're told we have to start over.
+- And it isn't just C8 or GenX.
+They belong to a family
+of over 14,000 different
+manmade chemicals,
+all covered in carbon-fluorine bonds.
+And companies can make
+them however they want,
+C7s, C9s, branched, polymers, acids.
+The generic term for all of
+these substances is PFAS,
+per- and polyfluoroalkyl substances,
+and like Teflon, they have
+almost magical qualities.
+They repel liquids,
+so PFAS are used to make
+clothing waterproof.
+They're also grease-resistant,
+so we coat things like fast food wrappers
+and microwave popcorn bags
+in PFAS to prevent stains.
+Waterproof lipstick and
+mascara, hygiene products,
+and even contact lenses have PFAS in.
+Even the screen you're watching this on,
+likely has a PFAS anti-smudge coating.
+(brooding music)
+The trouble is that the
+same carbon-fluorine bonds
+that make PFAS so stable
+and useful in consumer products
+also make them incredibly
+persistent in the environment.
+Which is why you might also know PFAS
+under a different name, forever chemicals.
+They have been found
+everywhere from bustling cities
+to untouched areas of wilderness.
+Every continent, including
+Antarctica, has PFAS all over it.
+- Almost every living creature
+from polar bears to birds to fish,
+I mean, this stuff is
+being found everywhere.
+So massive worldwide contamination,
+but by completely manmade chemicals
+that are fingerprints back to
+just a couple of companies.
+- Even though companies knew
+how dangerous these
+chemicals were 50 years ago,
+they decided not to inform
+the public and the regulators.
+So we're only finding out
+about this global contamination now.
+And there've been many cases
+where important public health information
+doesn't get widely disseminated for years.
+And whenever that happens,
+media coverage can be inconsistent,
+which is why I've partnered
+up with Ground News
+as the sponsor of this video.
+Their platform reveals how
+stories like these are covered
+across the media landscape.
+For example, a recent study suggested
+that 23 million Americans
+were exposed to forever
+chemicals through wastewater,
+but you probably haven't seen the story
+since fewer than 40
+outlets even published it.
+And take a look at how different some
+of these headlines are.
+With Ground News,
+you can also see that
+government-funded sources
+had limited reporting of this story,
+and only 9% of the publications
+were right-leaning.
+So Ground News flagged this
+as a potential blind spot.
+It's highlighted on their blind-spot feed
+where you can see stories
+that are disproportionately covered
+by one side of the political spectrum.
+The whole point of
+Veritasium is to make videos
+that get to the truth,
+whether that's explaining misconceptions
+or getting to the bottom of
+potentially dangerous chemicals.
+Ground News helps us do that,
+and they can help you too.
+So if you, like us, care
+about getting to the truth,
+go to ground.news/ve or scan this QR code.
+Our link gets you 40%
+off their vantage plan.
+And now back to PFAS.
+(quirky music)
+Okay, now I wanna find out how much
+of these chemicals is
+actually in my blood.
+So I have a little test here. (groans)
+I hate the idea of drawing
+my own blood. (groans)
+Okay, that was pretty easy, actually.
+I was really worried
+that there was not gonna
+be enough blood coming out.
+But there was plenty.
+(sighs) So the question is,
+how much of these dangerous
+chemicals are in my blood?
+- Has anyone ever come back with blood
+that has zero PFAS whatsoever?
+- I've been doing blood
+testing on PFAS since 2007,
+and I've never seen a non-detect.
+- No way.
+- So I hear that 98%
+of the population has PFAS in their blood,
+but I'm looking for that 2% that doesn't
+because I've yet to see them.
+- That's incredible, I mean very,
+very bad incredible, but wow.
+- But if everyone on
+Earth has trace amounts
+of these chemicals in their blood,
+how much harm could they really be doing?
+- I wanna make a distinction
+because it turns out not all
+PFAS are equally dangerous.
+You can kind of split
+them up into two groups.
+First up, you have long, repeating chains
+of carbon-fluorine bonds
+that are tens or hundreds
+of thousands of atoms long,
+so stuff like Teflon.
+These are so big and inert that
+even if you do ingest them,
+your body's just gonna flush them out.
+They can't be absorbed
+into your bloodstream,
+so you're pretty safe.
+They're called fluoropolymers
+because of the long repeating chains
+of carbon and fluorine bonds.
+But the catch is to make
+these fluoropolymers,
+stuff like Teflon, you need
+to use processing aids,
+things like PFOA or GenX,
+and those are the nasty ones.
+These molecules are 5 to 10 carbons long,
+which makes them small enough
+to actually enter the bloodstream.
+They have functional groups at the ends
+that are usually acids.
+The most common ones are
+perfluoroalkyl acids,
+which means that they can bind
+to the proteins in your blood
+and be transported anywhere in the body.
+So they slowly accumulate
+and build up over time.
+Now, there are more than
+just two groups of PFAS
+and even different definitions
+of what PFAS even are,
+but most of what we know really relates
+to just a handful of chemicals
+from this group here,
+to these perfluoroalkyl acids.
+(wondrous music)
+- Perhaps the most comprehensive
+document on PFAS toxicity
+was published in 2022
+by the National Academies of Sciences,
+Engineering, and Medicine.
+And it looked at only
+seven perfluoroalkyl acids.
+These are sister chemicals to PFOA.
+And some of them, like PFOS and PFHxS,
+were used heavily in
+the production of stain
+and water-resistant products
+like 3M's Scotchgard
+before they too got phased
+out due to toxicity concerns.
+The report surmised that if the sum
+of these seven acids in your blood
+is below two parts per billion,
+there shouldn't be any harm.
+If your level is between 2
+and 20 parts per billion,
+there's a potential for
+harmful health effects.
+Although the exact mechanism
+by which PFAS cause harm
+isn't fully understood,
+exposure has most
+consistently been associated
+with high cholesterol, a
+decreased immune system response
+to vaccines and infections, kidney cancer,
+and decreased growth in infants.
+But PFAS have also been linked
+to dozens of other conditions,
+and above 20 parts per billion,
+the risk is even greater.
+So where do I fall on this graph?
+- Right, so I have your results here.
+- You're not gonna tell me what yours were
+before I see mine?
+- No.
+- All right.
+- You're positive for PFOA.
+- Okay.
+- The level for PFOA for
+a US person went down
+from five parts per
+billion around the 2000s
+to around 1.46, what you have.
+So you're super average for a US person.
+- Great. Okay.
+- The good news is though,
+no GenX for you or for me,
+which is great.
+- All right, let's go.
+- But the real surprise, I ,guess is PFOS,
+the sister chemical, and it
+was used in a similar way,
+so stain-resistant
+carpets, treated clothing,
+and your result is at
+8.93 parts per billion,
+whereas the US average is 4.3.
+-Yeah.
+- That's crazy.
+- Yeah, it is crazy
+'cause it was discontinued
+pretty much in 2002.
+- This is not the results I expected.
+I honestly expected very boring results
+of, like, yeah, you're
+around the middle of the pack
+or a little bit on the low side.
+- And then for PFHxS,
+basically PFOS but six
+instead of eight carbons,
+your levels here are almost
+seven parts per billion,
+but the US average average
+is one part per billion.
+You're higher than 95% of Americans.
+- It just, like, it shocks me
+'cause, like, I was fully walking
+into this meeting expecting to be,
+you know, roughly average.
+- Yeah, to me, it's scary.
+You know, you live in
+a normal life thinking
+that you're taking care of everything,
+and then you have high levels
+of a chemical you never heard of.
+- The combined sum of all
+the PFAS detected in my blood
+was 17.92 parts per billion,
+more than double the US median.
+I'm just below the level
+where the National Academies
+recommend additional screenings
+for PFAS-related diseases.
+I had no idea I would come
+back with such elevated levels.
+I'd love to get the
+level, sort of, down a bit
+to a level where I feel
+like it's more in line
+with the general population.
+- Yeah.
+- But, like, where could
+this have come from?
+There are three main ways we get exposed
+to forever chemicals,
+and the one you'll hear
+the most about in the media
+is likely PFAS-containing products.
+- Shampoo, dental floss,
+paints, varnishes.
+- Potentially dangerous chemicals.
+- Dangerous chemicals, toxic chemicals.
+- People are throwing out
+their non-stick cookware.
+- My wife threw out all our
+non-stick pans over a year ago,
+and since then, we've been
+using stainless steel.
+She is very good at making it
+not stick. Me, not so much.
+But are pans really the problem?
+The actual coating on the pan is Teflon,
+which, again, is just a long, inert chain
+of carbon-fluorine bonds.
+So even if you ingest it, it
+doesn't react with your body.
+If you have a pan like that at home,
+you probably don't need to throw it out.
+The same goes for most other
+PFAS-containing products.
+Waterproof clothing,
+stain-resistant furniture,
+and sweat-proof watchbands
+might all release some level of PFAS,
+but the risk of direct exposure
+through skin is likely low.
+So the bigger problem is how easily PFAS
+from these products can
+end up in the environment.
+And many of the factories
+that make these products
+don't have a good track record
+of keeping the chemicals contained.
+- People don't understand
+that the stories that you see,
+for example, what was happening
+in the community in West Virginia,
+this is the same chemical
+and the same things
+that we're seeing play
+out now in Australia
+and in Japan, in Italy,
+in Germany, in the UK.
+I mean, there are a lot of folks
+that are still not grasping the fact
+that these are the same chemicals.
+- Our second main source
+of exposure is food.
+A lot of it comes packaged
+in PFAS-treated materials,
+like takeout boxes,
+microwave popcorn bags,
+and burger wrappers.
+It's on a burger wrapper.
+Is it a tiny amount? Is it
+a ridiculously tiny amount?
+- We actually did tests at the lab
+with stuff that usually contains PFAS.
+So microwave popcorn, fast food wrappers,
+paper cups that are waterproof.
+So I have tap water here
+from a house in London.
+Could we boil some water?
+Because usually you
+interact with these products
+when they're hot and then see
+if any of the PFAS leaches off
+and you potentially
+eat them or drink them.
+- This is citizen science, right?
+So it's, like, there might be some error,
+but with a solid control
+and then with the same tap
+water going to all of them,
+we can at least get something, yeah.
+- Yeah, and even if we get nothing,
+we'll know that people are probably safe
+using these products.
+All right.
+- Whisk it around.
+- Yeah, really get that PFAS
+in that water, right.
+- The juices going.
+- And get the
+PFAS juices going.
+- Well, it's supposed
+to be safe for human consumption.
+- Yeah.
+- That's the wild thing.
+- We sloshed it around there,
+hot water, boiling water
+for around 30 seconds,
+and then we tested that water
+to see if any of the PFAS
+that are used to coat these items
+would actually make it into the water.
+So here's what I got.
+And these are parts per trillion now.
+So for PFOA, good news.
+Basically no detection anywhere
+except for the microwave popcorn.
+I will say these are very low
+levels, but hold your horses
+'cause microwave popcorn gets worse.
+- The thing about microwave popcorn,
+it's sitting in there
+wrapped up with the popcorn
+for months or years
+before you ever stick
+it in your microwave.
+That gives those chemicals plenty of time
+to, like, leach into the oils,
+and it's gonna go all over the popcorn,
+and you're gonna eat it.
+This could explain some
+of our own results.
+The level for PFPeA,
+which is a shorter variation of PFOA,
+came back at 10 parts per trillion
+after the popcorn bag test.
+And you can see similar results
+in some of the other PFAS species.
+- But then microwave popcorn
+actually drops for PFOS.
+Why could that be? We don't actually know.
+- I was gonna say maybe the PFOS, like,
+went on that wrapper and found its friends
+and just hung out there.
+- Yeah, could be.
+I know we've only done,
+like, one test here.
+No repeat measurements, so we
+can't conclude much from this,
+but there's something to be said
+for when you're using these products,
+they're gonna leach into your
+water and leach into your food
+- And research tends to agree.
+A 2019 study found that eating fast food
+and microwave popcorn especially
+can increase your PFAS load
+while eating homecooked meals doesn't.
+But even something as simple
+as reheating your food
+on a plate instead of in
+the original packaging
+could prevent PFAS from
+migrating to your food.
+Now, you might expect
+that these part per
+trillion levels we detected
+in the London tap water
+are nothing compared
+to the parts per billion
+you'd find in human blood,
+but the surprising thing is that
+to have two parts per billion
+of PFOA in your blood,
+you don't need to drink water
+with two parts per billion of PFOA in it
+because PFAS accumulate
+in your body over time.
+So even water with as little
+as four parts per trillion
+of PFOA combined with other
+exposure can be enough
+to maintain your blood levels this high.
+And this is why, in addition to food,
+water is your biggest source of exposure.
+This is especially true if
+you live near a PFAS factory
+where the local water is
+often heavily contaminated.
+But the same goes for areas
+near military bases or airports.
+See, adding chemicals like PFOA
+or PFOS to water lowers
+its surface tension
+so the water gets more slippery,
+and these chemicals also tend to foam up.
+So they make for an excellent ingredient
+in firefighting foams,
+they spread quicker,
+and the foam blocks access
+to oxygen extremely well.
+And since both military bases
+and airports frequently do
+fire drills with these foams,
+they end up seeping
+into the surrounding soil and groundwater.
+But it doesn't stop there.
+- Currently, we have reached
+planetary saturation levels
+for PFAS, which means that
+when you look up at that cloud
+and it rains, it rains unsafe levels
+of at least four PFAS species.
+- It turns out that our entire water cycle
+is contaminated with PFAS.
+So even when it rains
+on the Tibetan Plateau,
+that rain contains PFAS.
+To check the water levels in your area,
+you can use these maps
+that show PFAS
+contamination across the US,
+Europe, and Australia.
+What about Los Angeles, Encino?
+That's where I spent, like,
+7 of the last 10 years.
+- Crescenta Valley.
+- Those are all high.
+- Yeah.
+- Santa Clarita, some.
+PFHxS level is crazy.
+So maybe you're getting your
+water from Santa Clarita.
+- Wow.
+- There's a calculator.
+It could give you what an
+estimate in your blood serum is.
+What we can try to do now is
+put that up in the calculator,
+see if you get something close
+to what you have, if you want.
+- Sure.
+- PFHxS, so typical value for an adult
+is one part per billion,
+and then the Santa Clarita water
+is around 37 parts per trillion.
+- If you look after, like, 10 years.
+- So after roughly 10 years of exposure,
+you would have to have 6.85
+parts per billion in your blood.
+And then I can tell you
+that you are at 6.84.
+- That would explain things.
+Now, I can't say for sure
+where my drinking water was coming from,
+but if I was consistently
+drinking water contaminated
+at similar levels, then that
+would explain my results.
+But if you are worried
+about your own water,
+you should contact your provider directly
+for the most relevant information.
+It's concerning just
+how unregulated drinking water has been.
+It was actually only a
+year ago in April 2024
+that the US EPA finally set legal limits
+for PFAS in drinking water.
+The safe level for PFOA went down
+from DuPont's initial one part per billion
+to four parts per trillion.
+- So we're no longer talking
+about one drop of PFOA
+in 20 of these tanks,
+we're talking about one drop in 5,000.
+That's five Olympic-sized swimming pools.
+And if there's even a
+drop of PFOA in there,
+the EPA is concerned.
+- The same four parts per trillion limit
+was also set for PFOS,
+the sister chemical.
+And GenX went down
+from the 70,000 parts per
+trillion initially proposed
+by Chemours to just 10.
+The same goes for PFHxS.
+For reference, the EPA's
+limit for lead in water
+is 10,000 parts per trillion,
+and for cyanide, 200,000,
+- It gives you a pretty clear indication
+of how concerned the
+scientific community is.
+- And just when we got EPA limits,
+we got a new administration in the US,
+which might be reversing
+some of the PFAS bans.
+So you can't always
+depend on the regulators,
+and you seemingly can't
+depend on the companies
+that make this stuff to
+dispose of it safely.
+So what can you do?
+If your water is contaminated,
+you might want to consider
+getting a PFAS-certified filter.
+Reverse osmosis, granulated active carbon,
+and ion exchange filters are all capable
+of removing PFAS out of drinking water.
+But the responsibility
+to filter drinking water
+shouldn't come down to the individual.
+PFAS should be captured at the
+source, during manufacturing,
+before they ever reach the environment.
+And some companies like Puraffinity
+are developing custom
+filters to make that happen.
+- So very lab-looking lab.
+- Exactly. Yeah, yeah.
+So could you walk me through, like,
+what all these pipes do, and
+what do you have in here?
+- So this water is representative
+of where you've had a big
+firefighting foam incident.
+So you wanna filter this water,
+but basically, the concept
+is take it from the top
+through the vessel.
+As it passes through this material,
+it basically sticks on
+to some of the PFAS chemicals in water,
+and then you run into
+another part of treatment
+and a third one.
+- To me, it seems like if PFAS
+are so, like, bioaccumulative
+and actually persistent and stable,
+they don't really react with things.
+So how do you force them to
+react with stuff in here?
+- Basically, taking advantage
+of this long organic tail
+as well as the polar head,
+and so you can have some
+electrostatic interactions
+with the polar head,
+and then you can have some hydrophilic
+and hydrophobic
+interactions with the tail.
+And by combining these
+three binding mechanisms,
+you increase massively your
+likelihood of binding PFAS,
+even if it's still difficult.
+- Right, do the levels
+drop 100% already here,
+or do you see a gradual decrease in PFAS
+as you go?
+- That's the cool question.
+- Okay.
+- So in the beginning,
+it drops 100% after this one.
+- Oh, so problem solved, or?
+- Problem solved for the time being.
+- Okay. Okay.
+- What we see right now
+is it will last about 40,000
+volumes of this vessel.
+So a 10-liter vessel would
+basically provides all
+of the PFAS treatment for a household.
+- In a year.
+- For a year.
+- You want this to be in factories first,
+so it never gets into the water.
+- Yeah.
+- Yeah.
+- We are talking to the
+fluorochemicals manufacturers,
+and they're really trying to,
+yeah, move forward rather than
+just wait for regulations.
+(bright music)
+- Everyone's true risk from
+PFAS will be different.
+It depends on dozens of factors,
+like your water
+contamination, your lifestyle,
+what you eat.
+But how much should you
+really worry about it?
+Like, if I'm at 17 or
+18 parts per billion,
+is that the equivalent of
+drinking a beer a night
+or going out in the Australian
+sun without sunscreen?
+- So what I like to do is
+create this hierarchy of risk.
+And in terms of hierarchy
+of risk reduction,
+number one on that is
+stopping smoking, exercising,
+consuming a healthy, whole-food diet,
+and making sure you're getting
+seven to nine hours of sleep.
+Then you have medium
+levels of intervention,
+seeing your primary care doctor,
+controlling your cholesterol numbers.
+And then on the lower tier that you have,
+PFAS probably falls into that lower tier.
+- Being preventative about PFAS exposure
+is currently our only option
+because there are no approved
+medical treatments available.
+However, if you compare PFAS contamination
+between the sexes, male levels
+are consistently higher,
+at least up until around the age of 50
+when menopause usually starts.
+This is partly because
+menstruation, birth,
+and lactation are all ways
+PFAS can escape the body.
+PFAS can pass through the placenta
+and into the fetus during pregnancy,
+and then the baby can also get
+exposed through breast milk.
+- It's something that pregnant people
+should be extremely careful about.
+You know, young children
+are incredibly susceptible.
+They're drinking more
+water, they're growing,
+they're near surfaces
+like treated carpets.
+- Now, not everyone has
+to change their lifestyle
+because of PFAS, but if you
+are in a high-risk group
+because of pregnancy
+or because you live or work
+in a PFAS-contaminated area,
+you might want to consider it.
+(fire roaring)
+Firefighters have
+especially high PFAS levels
+because their gear and
+foams are laced with them.
+Remarkably, a 2022 study found
+that when firefighters donated blood
+or plasma frequently enough,
+they reduced their PFAS levels
+by up to 30% within a year.
+- And it's kind of ironic that,
+you know, our health system's
+coming back to bloodletting.
+- What do you think about
+the idea of donating blood
+as a way to reduce PFAS in the body?
+- I've never heard of that as a strategy.
+That's kind of interesting.
+Well, I definitely recommend
+people donate blood more frequently,
+not because of PFAS exposure,
+but because of the fact
+we desperately need blood.
+What's important to note is that,
+especially in this current administration,
+we need to be very careful
+about shifting budgets away
+from research agencies
+because without that research,
+the guidance that I'm giving
+is gonna be significantly more flawed.
+The reason I'm able to
+talk about what we know
+and what we don't know
+comes from that research.
+So if we're gonna be cutting the budgets
+to these major agencies
+and letting scientists go,
+we're only gonna get worse
+and worse information.
+- We are still a good few years away
+from proper medical treatment
+and better PFAS regulations
+because this is extremely tricky.
+There are places where we
+should ban PFAS completely,
+like hygiene products,
+cosmetics, and food packaging,
+and some countries are already doing that.
+But we also can't ban PFAS
+altogether, at least not yet,
+because we still rely on these chemicals
+for things like medical implants.
+And it's currently impossible
+to make semiconductors
+for our electronics without them
+- All the tubing
+for the vaccine
+manufacturing is PFAS-based.
+They take us to space as
+well, our space suits.
+But even in these niche applications,
+we have to be responsible
+around how we use it.
+- People are coming together
+from a lot of different disciplines
+to create destruction mechanisms,
+to create novel capture materials,
+and to create novel replacements.
+I am excited and inspired
+by all of the great work
+that's going on around me.
+So I think if people want to learn more,
+I would advise them to
+learn about the risk,
+but then also learn
+about the new technology
+that's being developed
+that will hopefully put
+us in the right direction.
+- So to me,
+you know, one of the most
+important things we can do
+is have discussions like
+what we're doing right here.
+If the story and the
+information's out there,
+people can make informed choices
+about whether they want to
+continue purchasing things
+that have these materials in them.
+And what we're seeing is
+consumers, as they do become aware,
+are saying, "No, we don't
+want these chemicals."
+And companies are
+voluntarily coming forward
+and taking these chemicals out of products
+because the consumers
+are now demanding it.
+- We've been here before
+with leaded gasoline,
+Freon, and asbestos.
+And each time, we did the research
+and made the right decision
+to phase these chemicals out.
+With PFAS, we're just starting
+to understand the problem.
+But I'm hopeful we'll make
+the same decision again.
+If you want to inform
+yourself more about PFAS,
+we've attached all the sources we've used
+to make this video down
+in the description.
+It's actually our longest episode ever,
+and we couldn't have made it
+without the help of our
+sponsor, Ground News.
+So if you wanna be more informed
+about the issues around the
+world that are affecting you
+and everyone else out there,
+go to ground.news/ve or use this QR code.
+I really wanna thank Ground
+News for sponsoring this video,
+and I wanna thank you for watching.

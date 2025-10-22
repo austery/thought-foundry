@@ -1,0 +1,1087 @@
+- Most of us tie our shoe laces wrong.
+There are two ways to tie
+a knot in your shoe laces.
+In one, you go counterclockwise
+around the loop,
+and in the other, you go clockwise.
+These two methods look almost identical,
+but one of these knots is
+far superior to the other.
+It doesn't loosen or come
+untied nearly as easily.
+To understand why,
+we need to delve into knot theory.
+This is a whole branch of mathematics
+that aims to identify,
+categorize and understand
+every possible knot that could ever exist.
+So far, we have discovered
+the first 352,152,252 knots.
+Each one has its own
+particular properties and characteristics.
+I think it's fascinating
+that there's something
+like a periodic table
+for knots out there,
+but it's not pure math.
+Knot theory has turned out
+to be remarkably useful.
+It is core to the structure
+of proteins and DNA.
+It's leading to new materials
+that could be stronger than Kevlar.
+It's even used to develop medicines
+that save millions of lives.
+All of this just from trying
+to understand the humble knot.
+So what is a knot?
+Well, in our everyday lives,
+we see knots like this or this,
+but if you are trying to
+rigorously study knots,
+you want to be able to pull them apart
+so you can really see what's going on.
+The problem is knots like
+this are held together
+only by tension and friction.
+So if you pull on them too hard,
+they fall apart.
+So in order to capture
+the knot on the rope,
+mathematicians got the idea
+to connect the two ends.
+And now, well, you can tease
+the knot apart to study it,
+but it will never fundamentally change.
+So in knot theory, all
+knots exist on closed loops.
+This means the simplest knot you can have
+is just a circle like this.
+Now, admittedly, this
+is not much of a knot,
+which is why it is called an unknot.
+Here is another knot.
+Again, it's made of a single piece of rope
+that forms a closed loop.
+Here is another.
+Two knots are only different
+if you can't make one into the other
+without breaking the loop.
+This is the simplest
+knot after the unknot.
+It is called the trefoil,
+and you can see that there's no way
+for me to turn this back into a circle
+unless I actually break it open,
+take out the knot and
+then close it up again.
+Now I have two unknots.
+It is surprisingly hard to
+tell two knots apart by eye.
+Here is a simple mystery knot.
+Is it an unknot, a trefoil or neither?
+I'll give you a second to figure it out.
+It is in fact a trefoil,
+which you can see if I just untwist this
+and rearrange the knot a little bit.
+And our first complicated knot,
+well, it is actually just the unknot.
+I'm going to try to disentangle
+it so you can see that.
+There you go.
+It was just a single loop.
+In fact, these are all unknots,
+and this is where the problem begins.
+You can't just randomly tangle some rope
+and connect the ends.
+To make a new mathematical knot,
+you need to prove
+it's not just a tangled up
+version of another knot.
+So how do you tell two knots apart?
+This one question,
+also known as the knot
+equivalence problem,
+is so famously difficult
+that it's propelled the
+entire field of knot theory
+for over 150 years.
+Alan Turing even wrote
+in his final publication,
+"No systematic method is yet known
+"by which one can tell whether
+two knots are the same.
+"A decision problem which
+might well be unsolvable
+"is the one concerning knots.
+"The results in this
+article set certain bounds
+"to what we can hope to
+achieve purely by reasoning.".
+Previously, the most famous
+knot problem in history
+was the Gordian knot.
+It was said that whoever untangled
+this massive knotted rope
+was destined to rule all of Asia.
+Legend goes, Alexander the Great
+simply came along and
+sliced right through it.
+That would not be a valid
+solution in knot theory.
+And there are other
+famous knots of history.
+The endless knot is seen as far back
+as clay tablets from the Indus Valley,
+and it was used in
+Medieval Celtic designs,
+Chinese knot work and
+Hinduism and Buddhism.
+In Incan civilization,
+knots were tied on chords called quipu
+to track everything
+from taxes to calendars.
+You can even find a knot
+in the coat of arms for
+the House of Borromeo,
+an Italian noble family that
+has existed since the 1300s.
+The Borromeon rings
+are technically a link,
+which is just a knot with
+multiple loops of rope.
+The most basic link is the unlink,
+two loops which aren't actually connected,
+much like the unknot.
+After that is the Hopf link.
+Then later, the Borromeon rings and more.
+But the knot equivalence problem
+was only encountered centuries later.
+In January of 1867,
+Scottish physicist Peter Guthrie Tait
+showed off his homemade smoke machine
+to renowned scientist William Thomson,
+later Lord Kelvin.
+Tait had read a paper
+that said a vortex ring
+should be eternally stable
+in an ideal fluid.
+So intrigued, he set up two wooden boxes
+containing a kind of toxic mixture
+of ammonia, sulfuric acid and salt.
+When he tapped a towel
+stretched across the back of each box,
+the chemical smoke popped
+out of a circular cutout
+in perfect rings.
+Kelvin, watching, was
+transfixed by the rings.
+He had been pondering
+the composition of atoms,
+a fundamental question of the time,
+and suddenly he saw an answer.
+He declared that atoms must be made
+out of vortex rings of ether,
+an invisible everywhere medium.
+Different knots of vortex rings
+would make different elements.
+The shape of the Hopf link
+explained the double
+spectral lines of sodium.
+The simple unknot ring was hydrogen.
+Tait was skeptical,
+but as Kelvin's vortex model of the atom
+became a leading theory,
+Tait began investigating knots in earnest.
+In his mind,
+creating a periodic table of the elements
+with every new knot he found.
+The crossing number is an
+easy way to categorize knots.
+Just take the simplest form of a knot,
+one with no extra twists or tangles,
+and count up all its crossings.
+By hand, Tait discovered a three
+crossing knot, the trefoil,
+then a four crossing
+knot, the figure eight,
+then two five crossing knots,
+three six crossing knots and
+seven seven crossing knots.
+One quick note, knots are additive.
+You can stick multiple knots
+together to make a new knot,
+like combining these two trefoils
+into a six crossing knot.
+This is called a composite knot,
+but some knots aren't
+decomposable into simpler knots.
+These are known as prime knots.
+Since all composite knots
+are just built from primes,
+people mainly focus on
+tabulating prime knots.
+Unfortunately for Tait,
+warning signs were on the horizon
+for Lord Kelvin's vortex
+theory of the atom.
+Mendeleev's first periodic table
+had been published in 1869.
+The Michelson-Morley
+experiment sowed seeds of doubt
+about an ether in 1887,
+and the most damning result
+was JJ Thomson's discovery
+of the electron in 1897.
+So there were particles
+smaller than the atom
+which were inside atoms.
+But Tait was already in too
+deep with knots to stop.
+He had even roped in his academic rival
+and close friend James Clerk Maxwell
+of Maxwell's equations fame.
+Thanks to Tait's influence,
+Maxwell became a knot enthusiast
+for the rest of his life.
+His last poem
+written shortly before his
+death from stomach cancer
+even begins, "My soul's
+an amphichiral knot,
+"upon a liquid vortex wrought."
+Assisted in part by hundreds
+of letters with Maxwell,
+Tait published his list
+of knots up to seven crossings in 1877,
+the first math paper with
+the word knots in its title.
+Then Tait paused his
+search for seven years.
+In a speech, he stated,
+"The requisite labor increases
+with extreme rapidity
+"as the number of crossings is increased.
+"Someone with the requisite leisure
+"should try to extend this list,
+"if possible, up to 11."
+Two mathematicians took him
+up on his call for help,
+Thomas Kirkman and Charles Little.
+Together, the three of them
+were able to find all
+21 eight crossing knots,
+all 49 nine crossing knots
+and all 166 10 crossing knots by 1899,
+just two years before Tait's death.
+This was all done painstakingly by hand.
+Tait admits in his paper,
+"I cannot be absolutely certain
+that all those groups are
+essentially different,
+one from another."
+In the process of tabulating knots,
+he had uncovered the central problem
+of how to possibly tell them apart.
+Somewhat miraculously,
+Tait, Kirkman and Little
+had done a near perfect job
+with their knot tables.
+Their list stood for 75
+years without change,
+until a single correction in 1973.
+But more on that later.
+For decades after Tait's death,
+little progress was made on
+the knot equivalence problem.
+But in 1927,
+German mathematician Kurt Reidemeister
+proved a radical theorem.
+You only need three types of moves
+to transform any two identical
+knots into each other.
+The twist, the poke and the slide,
+where you move a string
+from one side of a crossing to the other.
+Now we can prove some knots are the same.
+If you can show that they're connected
+by Reidemeister moves,
+you've proven that they must be identical.
+But we still don't know
+how to prove any knots
+different from each other
+because you could do Reidemeister moves
+on one knot for centuries
+without it ever looking
+like the other knot.
+And maybe they're actually different,
+but maybe they're the same
+and you just never made the right move
+to show that that is true.
+This may have been where
+Turing was coming from
+when he called the knot
+equivalence problem
+potentially undecidable.
+But in 1961,
+mathematician Wolfgang Haken
+created a computer algorithm
+that solved the not equivalence
+problem definitively
+for this specific case
+of distinguishing any
+knot from the unknot.
+That said, his paper
+was over 130 pages long
+and the algorithm would've taken longer
+than the age of the universe
+to run for large knots.
+In 2001, building on Haken's work,
+mathematicians found a way
+to distinguish between
+any knot and the unknot
+by simply setting an upper bound
+on the number of Reidemeister
+moves needed to connect them.
+If you check all sequences
+of Reidemeister moves
+up to that number,
+you can prove if the knot
+is the unknot or not.
+There's just one problem.
+That upper bound was two
+to the 100 billion n moves.
+As of today,
+the upper bound has improved dramatically
+to just 236 n to the power of 11.
+Now, while smaller than before,
+checking all possible
+sequences of Reidemeister moves
+up to this number is still unfathomable.
+For a single crossing knot,
+this is larger than the number of stars
+in the observable universe.
+In 2011, mathematicians
+found an upper bound
+on the number of Reidemeister moves needed
+to connect any two knots or links,
+solving the entire knot
+equivalence problem.
+This is the upper bound.
+First, raise two to the second power,
+then raise that to the power of two again.
+This operation is called
+tetration, and it grows fast.
+Now keep doing it until you
+have raised two to itself
+10 to the million n times.
+Cap it off with n again.
+This is easily the largest number
+we have ever shown in a video.
+But even just to have a
+solution is remarkable,
+given that Turing thought the problem
+was potentially undecidable
+only 60 years earlier.
+If it's this hard to tell two knots apart,
+how have we managed to tabulate
+350 million different knots?
+Well, there are some properties of a knot
+that never change,
+no matter how much you
+twist or tangle it up.
+These are called invariants,
+and these invariants will
+be different for some knots
+compared to other ones.
+So you can use them as
+hallmarks of a particular knot.
+They're not perfectly discriminating.
+I mean, some knots will share invariants,
+but if two knots have different invariants
+then you know for sure
+that they are different.
+Crossing number is itself aninvariant.
+Two knots can't be identical
+if they have different crossing numbers.
+But the crossing number
+is surprisingly difficult to calculate.
+You can put extra crossings into any knot,
+like just throw in a bunch of twists.
+Different variations of the same knot
+are known as different
+projections of that knot.
+Crossing number measures the
+least number of crossings
+a knot can have,
+but it only works for the
+simplest projection of a knot,
+also known as its reduced form,
+but it's difficult to ensure
+that a knot is fully reduced.
+Instead, we can use another invariant,
+one that's true right away
+for all projections of a knot.
+So it'll give the same value
+both for a messy trefoil
+and for a reduced trefoil.
+This first invariant is tricolorability
+or whether or knot can be
+colored in with three colors.
+Take a diagram of a knot
+and color in each individual segment.
+These are just separated
+by under crossings
+where you would lift
+your pen off the page.
+Tricolorability only has two rules.
+First, you must use at least two colors
+because you can color any
+knot in with one color.
+And second, at crossings,
+the three intersecting strands
+must either be all the same
+color or all different colors.
+Basically no two colored crossings.
+There are just two
+categories of this invariant,
+either a knot is tricolorable or it's not.
+Identical knots must match.
+So if one knot is tricolorable
+and the other one isn't,
+then you know they're different knots.
+It's hard to believe that
+tricolorability is constant
+across any possible
+projection of the same knot,
+but since you only need Reidemeister moves
+to move between projections,
+we just need to prove
+that it isn't affected
+by Reidemeister moves.
+The twist is easy.
+Everything's one color already,
+and it stays that way.
+With the poke,
+the intersection of two colors
+means that the loop formed
+must become the third color.
+So we have three colors
+at every intersection.
+With the slide,
+you never have to break tricolorability
+because you start with three
+colors at three intersections
+and then switch one
+intersection to just one color.
+So any knot will maintain
+its tricolorability,
+no matter what Reidemeister moves you do.
+This is a good time to note
+that we never actually proved
+the trefoil and the unknot
+were two different knots,
+but we can do it now with tricolorability.
+The unknot is not tricolorable
+since you can't use at least
+two colors to color it in,
+and the trefoil is easily tricolorable,
+just color in each of the three
+segments a different color.
+The crossings all have three colors,
+so it is tricolorable.
+Now we know
+every possible projection of
+the trefoil is tricolorable
+while every possible
+projection of the unknot isn't.
+So these two knots must
+be different knots.
+This invariant isn't very specific.
+It only gives you two
+categories across all knots.
+In fact, the next knot after the trefoil,
+the figure eight knot, isn't tricolorable.
+There's always a crossing with two colors.
+So how do we prove that this
+is different from the unknot,
+which also isn't tricolorable?
+Tricolorability expands into
+a much more powerful invariant
+called p-colorability,
+where p can be any prime
+number besides two.
+Instead of using colors,
+we'll number each strand
+with integers between
+zero and p minus one.
+p-colorability has two rules.
+First, you must use at
+least two different numbers.
+Second, at crossings,
+the two bottom strands added
+together and divided by p
+must give the same remainder
+as twice the top strand divided by p.
+Tricolorability was just
+a simple version of this.
+If we go from three to five colorability
+for the figure eight knot,
+we can number the strands zero, one,
+and then this strand must give
+a remainder of zero, so four,
+and this strand must give a
+remainder of two, so three.
+This knot is five colorable,
+so it's not the unknot.
+p-colorability is a huge tool.
+The unknot is completely uncolorable,
+so any knot with any
+colorability can't be the unknot.
+p-colorability still
+doesn't cover everything.
+Some of the most powerful
+invariants right now,
+the ones that can distinguish
+between the most unique knots,
+are polynomials.
+The Alexander polynomial
+was the first one discovered
+back in 1923 before
+even Reidemeister moves.
+Like p-colorability,
+it relies on only two rules.
+The first is that the Alexander
+polynomial of the unknot
+is equal to one.
+The second is that you can zoom in
+on any single crossing of a knot
+and vary it in three possible positions,
+forward, backward and separate.
+The Alexander polynomial
+gives a relationship
+between the three resulting knots.
+Let's do an example.
+What's the Alexander
+polynomial for the unlink?
+Well, if we zoom into
+this separate crossing
+and then vary it,
+we see that the other two knots
+formed are both the unknot,
+so we can plug in one for both of them,
+and we get that the Alexander
+polynomial for the unlink
+must be zero.
+Then we can do the same for the Hopf link.
+Taking this crossing as
+the forward crossing,
+then seeing that the backward
+crossing gives us the unlink,
+and the separate crossing is the unknot.
+So the Alexander polynomial
+for the Hopf link
+is minus t to the 1/2
+plus t to the minus 1/2.
+And now we can do the trefoil.
+When we vary this crossing,
+we get that the backward
+crossing gives us the unknot
+and the separate crossing
+gives the Hopf link.
+So the Alexander polynomial is t minus one
+plus t to the negative one.
+The polynomial is designed so
+that we get separate results
+for as many knots and links as we can,
+and this is recursive.
+We can calculate the polynomial forever
+for bigger and bigger knots.
+The Alexander polynomial stood
+unchanged for over 60 years
+as the knot invariant of choice.
+But in 1984,
+it was upended by an unlikely discovery.
+Mathematician Vaughan Jones
+had been working on a type of algebra
+for statistical mechanics,
+a concept in physics,
+when he realized
+his work resembled a series
+of equations in knot theory.
+He traveled to New York
+to consult knot theorist Joan
+Birman at Columbia University,
+who helped refine his equations
+into a knot invariant.
+They met again a week later
+and tested it against knot diagrams
+from Birman's filing cabinet,
+quickly realizing Jones had discovered
+a brand new polynomial invariant.
+He scribbled down all their
+work in a 15 page letter.
+The Jones polynomial
+is like the Alexander,
+but with the more specific
+equation for the second rule
+that lets it distinguish many more knots.
+For this discovery,
+Jones won the field's medal in 1990.
+The first new polynomial invariant
+kicked up a fervor in knot theory.
+Just months after Joan's result,
+six mathematicians each independently
+found an improved
+version of his polynomial
+with two variables instead of one.
+The editors of the American Math Society
+published all their papers together,
+naming it The HOMFLY polynomial.
+Two Polish Mathematicians missed the news
+and discovered it again
+a couple months later,
+upon which it became the
+HOMFLY-PT polynomial.
+None of these invariants works alone.
+Just like if you were
+searching for a person,
+you'd start by checking a
+first name, then a last name,
+then a birthday and so on
+to eventually narrow your
+search down to just one person.
+Similarly, knots have
+dozens of invariants,
+which when taken together,
+uniquely identify them.
+With invariants to prove
+if knots are different
+and Reidemeister moves to
+prove if knots are the same,
+you can attack from two angles
+to meet the gargantuan task
+of distinguishing every single knot.
+But this method isn't perfect.
+These two knots were
+listed next to each other
+in Tait's knot tables for over 75 years.
+They were the same by
+all invariant accounts.
+So Tait and Little likely
+tried Reidemeister moves
+to see if they could
+transform one into the other.
+And once they failed,
+they listed them as two separate knots.
+Kenneth Perko, a lawyer who
+had studied knot theory,
+spotted them in 1973
+while looking through Little's
+table of 10 crossing knots.
+Suspicious of their similarities,
+he pulled out a yellow legal pad
+to sketch some Reidemeister moves,
+and he quickly found a way
+to connect the two knots.
+These two projections now
+known as the Perko pair
+are the same knot.
+So the knot tables of
+Tait, Kirkman and Little
+were issued their single correction.
+And instead of 166 ten crossing knots,
+there are 165.
+It had taken decades of work
+to tabulate all 249 prime knots
+up to 10 crossings.
+No one dared tackle the 11
+crossings until John Conway.
+He found all 552,
+and claimed he did it
+in a single afternoon.
+This was the last tabulation by hand.
+In the '80s,
+Dowker and Thistlethwaite
+built a computer algorithm
+to count all 12 and 13 crossing knots.
+Thistlethwaite later joined
+forces with Hoste and Weeks
+to tabulate all 14, 15
+and 16 crossing knots
+in a paper titled "The
+First 1,701,936 Knots."
+The method they used is
+still the one used today,
+employing a computer to
+list all possible knots
+and then using invariants
+to weed out duplicates.
+They split into two teams
+and crosscheck their results,
+aligning perfectly on all but
+four knots on their first try.
+In 2020, mathematician Ben Burton
+single-handedly tabulated all
+17, 18 and 19 crossing knots,
+bringing the total number
+of known prime knots
+to 352,152,252.
+His project was so
+computationally intensive,
+several hundred computers
+had to run for months
+before obtaining the final number.
+The hardest part of knot tabulation
+is counting up every knot
+and then carefully eliminating duplicates.
+But if you just want to generate
+a huge number of distinct knots,
+you can make alternating knots,
+knots with crossings that
+alternate over, under.
+This computation is much easier,
+though it leaves out most knots.
+And back in 2007,
+this method was used to
+find alternating knots
+up to an absurd 24 crossings.
+So in total, we know of
+159,965,097,353 knots.
+Of course, we're missing
+a lot in between there.
+Knot theory was always just pure math.
+All the algorithms,
+invariants and tabulations
+were knowledge for the sake of knowledge.
+But in 1989, chemist Jean-Pierre Sauvage
+tied molecules around copper ions
+to form the first ever
+synthetic knotted molecule.
+This trefoil knot restricted
+the atoms from unfurling,
+trapping them in higher energy states
+to give the molecule new properties.
+Any type of knot tied in a molecule
+will change its properties,
+and we know of over 159 billion knots.
+So if you can tie a molecule
+into each of those knots,
+that's 159 billion new unique materials
+created from a single molecule.
+Though after the trefoil,
+chemists have only managed
+to tie five other molecular knots to date.
+It's a difficult task.
+Since they can't just nudge
+individual ions into place,
+molecules must be built to
+self-assemble into knots.
+Knot theory helps identify which knots
+match available molecular templates,
+symmetric knots are easier for one,
+and how to arrange those
+to assemble the knot.
+The most complex knot yet
+created is the 819 knot
+with 192 atoms tied around
+a central chloride ion.
+This molecule holds the
+Guinness World Record
+for tightest knot in the world,
+defined as the most
+crossings per unit length,
+in this case, eight
+crossings in 20 nanometers.
+Since it's knotted around a chloride ion,
+once the ion is removed,
+this molecule is one of the
+strongest chloride binders
+in existence.
+The field is still new
+for specific applications.
+Chemists are just focused
+on creating molecular knots
+before thinking about
+materials development,
+but they hope to eventually build things
+like durable fabrics stronger than Kevlar.
+Knot theory is also critical
+to biological processes
+that have saved millions of lives.
+Bacterial DNA consists of a single loop
+of the double helix molecule.
+This shape means that it
+always forms a knotted link
+when it replicates,
+and the bacteria can't
+separate into two cells
+with their DNA tangled up like this.
+So they have an enzyme called
+type two topoisomerase,
+which snips and reconnects the DNA.
+This turns their linked
+DNA back into an unlink
+so they can replicate cleanly.
+If you inhibit type two tophi summaries,
+the bacteria can't replicate properly,
+and in fact they die.
+This is how some of the most
+common antibiotics in the world
+called quinolones operate.
+Human DNA, while not circular,
+is long enough to also get into tangles.
+Each cell in your body
+contains two meters of DNA.
+That's the equivalent
+of stuffing 200 kilometers of fishing line
+into a basketball.
+When this mess inevitably tangles,
+human type two topoisomerases
+come to make crossing changes.
+The human version of the
+enzyme is different enough
+from the bacterial version
+that it's unaffected by antibiotics.
+But human topoisomerases
+are sometimes intentionally inhibited.
+This stops replication and kills cells,
+predominantly the rapidly
+dividing cancer cells.
+So it's one of the most
+common forms of chemotherapy.
+Biologists needed knot theory
+to first understand the mechanism
+of type two topoisomerase.
+Once they observed
+it was decreasing the crossing
+number of knots in DNA
+two at a time,
+they realized it had to
+be cutting and rejoining
+entire double strands of DNA.
+And there are many other
+obscure topoisomerases
+that act on DNA.
+Knot theory is used
+to analyze the knots they tie or untie
+and how they operate as a result.
+It's not just DNA that knots.
+1% of all proteins have various knots
+in their fundamental structure.
+If they get misknotted, they malfunction.
+So being able to
+accurately tell knots apart
+helps understand these
+proteins' mechanisms,
+as well as how to potentially
+repair or utilize them.
+When it comes to your shoe laces,
+both of the common ways to tie the knot
+are composed of two trefoils
+on top of each other.
+I'm going to tie some rope around my leg
+to make this easier to see.
+When you go counterclockwise
+around the loop,
+well, then you form two identical trefoils
+on top of each other.
+This is also known as a granny knot.
+But when you go clockwise around the loop,
+then you get mirror imaged
+trefoils on top of each other.
+This is also known as a square knot,
+and it doesn't loosen as easily.
+So we should all be tying
+our shoelaces like this,
+clockwise around the loop.
+Most of us aren't.
+I mean, I'm not, usually.
+I normally do it like this.
+A simple overhand knot
+is just the trefoil.
+The bow line knot,
+the most common knot for boating
+or just holding things
+together is the six two knot.
+And any knot tied without using the ends,
+also known as in the bite,
+that is just an unknot.
+So a slipknot is an example of an unknot.
+In 2007, researchers Dorian
+Raymer and Douglas Smith
+conducted 3,415 trials of
+spinning string in boxes
+to study how knots form in the real world.
+They ended up creating 120
+different types of knots,
+some as complicated as 11 crossings.
+They found that longer agitation time
+led to a higher chance of knotting.
+Longer string did as well,
+except this probability decreased
+once the string was put in a smaller box,
+which restrained its motion.
+So if you want to keep
+something like headphones
+from knotting in your pocket
+where you can't adjust string
+length or agitation time,
+then your best bet is to confine them
+to as small a space as possible.
+Raymer and Smith also proposed a model
+for real world knot formation.
+A series of loops are first formed
+when a string is placed into a container.
+Then when it's agitated,
+a free end of the string
+gets woven up and down through the loops,
+braiding itself into them to form knots.
+And let's see, a knot.
+So coiling up your wires
+is actually setting
+yourself up for failure
+because you're forming a bunch of loops
+for a loose end to braid
+perfectly into a knot.
+So instead, what you want to
+do is restrict its movement,
+whether by using a small box
+or increasing string stiffness.
+DNA increases its
+stiffness by super coiling,
+and you can do the same with your wires.
+I just double it up like this,
+and then I twist from the middle.
+And this is going to
+stiffen the length of wire.
+Now, this is naturally
+going to want to sort of coil in on itself
+and it's going to look
+like a big tangled mess,
+but all you have to do
+is take the opposite ends of
+the headphone and pull apart,
+and there's no tangles, no knots.
+Their study won an Ig Nobel Prize.
+It has been cited in studies
+of knots in surgical catheters,
+and even linked to an Apple
+patent for stiffer earbud wires.
+Knot theory began as a
+failed theory of everything,
+and for the next century,
+it was a standalone field of math
+propelled by nothing more
+than intellectual curiosity.
+But in recent years, it's
+reclaimed its original potential.
+Today, knot theory
+is a theory of everything
+from headphone tangles
+to material science to chemotherapy.
+In 1889, Kelvin gave
+a presidential address
+to the British Institution
+of Electrical Engineers
+about his failed atomic theory of knots.
+"I am afraid I must end
+"by saying that the
+difficulties are so great
+"in the way of forming anything
+like a comprehensive theory
+"that we cannot even imagine a finger-post
+"pointing to a way that leads
+us towards the explanation.
+"But this time next year,
+"this time 10 years,
+"this time 100 years,
+"I cannot doubt
+"but that these things which
+now seem to us so mysterious
+"will be no mysteries at all,
+"that the scales will fall from our eyes,
+"that we shall learn to look
+on things in a different way
+"when that which is now a difficulty
+"will be the only common sense
+"and intelligible way of
+looking at the subject."
+Knot theory is a perfect example
+of how knowledge in one area
+can become a tool to
+understand countless others.
+From learning how to tell a
+trefoil apart from an unknot,
+knot theorists have built all the way up
+to discovering brand new proteins.
+If you want a quick and easy way
+to build out your own mental toolkit,
+you should absolutely check
+out this video sponsor,
+brilliant.org.
+Brilliant is the best way to
+learn about almost any concept
+in math, data science,
+programming and more.
+They even have a
+computational biology course
+where you can apply
+concepts from this video
+to folding protein chains.
+With Brilliant, you just set your goal
+and they'll design the
+perfect learning path
+to help you reach it,
+equipping you with professional
+tools along the way.
+Want to harness the tools
+of a data scientist?
+Brilliant's newest course
+Predicting with Probability
+is the best place to get them.
+The course has everything you
+need and nothing you don't
+to start building your
+data science skills.
+There is no coding required.
+You'll learn easily to slice
+and dice massive data sets,
+compare distributions and
+master fundamental concepts
+like Bayes' theorem,
+all while working with
+real air traffic data.
+You'll learn to answer questions
+like which airlines have the
+least delays due to weather
+and how much more unruly
+passengers have gotten since the pandemic.
+Data skills are absolutely necessary
+to navigate our world today.
+And Brilliant is the
+best place to get them.
+Beyond their data courses,
+Brilliant also has a
+massive content library,
+all of it highly visual, interactive,
+and incredibly easy to understand.
+It's more than just a learning platform.,
+it's your path to understanding the world
+of math, data and computer science.
+By learning on Brilliant,
+you'll always be one step ahead
+as technology and the modern
+world advances every day.
+To try everything Brilliant
+has to offer for free
+for a full 30 days,
+visit brilliant.org/veritasium.
+I will put that link
+down in the description,
+and the first 200 of you to sign up
+will get 20% off Brilliant's
+annual premium subscription.
+So I want to thank Brilliant
+for sponsoring this video,
+and I want to thank you for watching.

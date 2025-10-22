@@ -1,0 +1,783 @@
+One single scientist created
+three inventions
+that accidentally caused the deaths
+of millions of people,
+including himself.
+Not only that, they decreased the 
+average intelligence of people 
+all around the world,
+increased crime rates,
+and caused two completely 
+separate environmental disasters
+that we are still dealing with today.
+Part of this video is
+sponsored by Wren.
+More about them at the end of the show.
+In 1944, as a young chemist
+who had just finished his
+Master's, Clair Patterson went
+to work on the Manhattan Project,
+building the first
+nuclear weapons.
+His job was to concentrate uranium-235,
+the fissile fuel for bombs
+from the much more common
+uranium-238.
+And this required huge machines, mass
+spectrometers, which separated
+the two types of uranium by
+their slight difference in mass.
+After the war, Patterson went
+back to grad school to get his
+PhD, he picked a research
+project that would take
+advantage of his experience
+with mass spectrometers:
+measuring the age of the
+Earth.
+Radioactive rocks are
+effectively clocks.
+Uranium-238, for example, decays into
+thorium and then protactinium,
+and then 12 More decays until
+it ends up as lead-206, which is stable.
+The rate of this
+decay is consistent and can be
+measured. It takes four and a
+half billion years for half of
+a sample of U-238. to decay
+into lead-206
+Patterson's PhD project was to determine the
+age of the Earth by measuring
+the ratio of uranium to lead
+in primordial rocks,
+but to calibrate his instrument, first
+he used zircon crystals whose
+ages were known.
+Zircon is ideal for this purpose,
+because when it forms it
+contains trace amounts of
+uranium but absolutely no
+lead.
+So any lead that you later find inside a zircon,
+you know must be the product
+of a uranium decay.
+Patterson was tasked with 
+measuring the lead content,
+and another student, George 
+Tilton, measured uranium
+Tilton 's uranium measurements
+were fine. They matched predictions.
+But Patterson's
+lead measurements were all
+over the place. And they were
+many many times higher than
+they expected.
+We'd take George's uranium and my lead...
+Not right Patterson!
+There was lead there that
+didn't belong there.
+So where was all this extra
+lead coming from?
+That mystery would take over the rest of
+Clair Patterson's life
+and bring him to the literal ends
+of the earth.
+In 1908, a woman was driving
+across the Belle Isle bridge
+in Detroit. When her car
+stalled.
+A passing motorist stopped to help.
+In those days
+cars needed to be hand cranked to start.
+He knelt down and
+turned the crank,
+and the engine roared to life. A
+little too suddenly.
+The man couldn't get out of the way.
+The crank handle hit him in
+the face and broke his jaw.
+He died as a result of his
+injuries.
+His name was Byron Carter, and he was the founder
+of his own car company.
+So he was well connected in the
+Detroit Auto scene.
+He counted among his close friends, the
+founder of Cadillac, Henry Leland.
+Leland was so
+distraught over his friend's
+death that he resolved to
+eliminate hand cranks from his vehicles.
+Leland hired Charles
+Kettering to create a self-
+starting car. And by 1911, he
+had a working prototype.
+Hand cranking was difficult and
+dangerous, and best left to men,
+but a car that started itself
+changed everything.
+The world's first crankless car
+was the Cadillac Model 30. It
+was much more powerful than
+cars before it. It had a top
+speed of 45 miles per hour and
+40 horsepower, double the Ford
+Model T. The Model 30 was a
+huge success for Cadillac,
+doubling the company's annual
+sales, but it had a problem.
+It was deafeningly loud.
+In internal combustion engines
+a piston compresses the fuel-air mixture,
+which is then
+ignited by a spark from the spark plug.
+The expanding hot
+gases push the piston back down.
+The problem with the
+Model 30 engine was it
+compressed the fuel-air
+mixture more than previous
+models so much in fact, that
+often the fuel would
+spontaneously combust before
+the spark from the spark plug.
+So rather than orderly,
+perfectly timed explosions,
+you'd get multiple haphazard
+combustions leading to
+turbulent pressure waves
+inside the cylinder. The
+resulting sound led the
+problem
+To become known as engine
+knocking.
+Knocking wasn't just hard on
+the ears, it hurt the engine's
+performance, it reduced power
+output and lowered fuel
+efficiency. The vibrations
+also damaged the piston and
+walls of the cylinder
+shortening the life of the
+engine.
+The good news was that engine
+knocking could be corrected by
+changing the fuel. Different
+fuels can withstand different
+levels of compression before
+detonating n-heptane for
+example, will spontaneously
+combust under only a little
+compression. Iso-octane, on
+the other hand can withstand a
+much higher compression ratio
+before it auto ignites. So
+it's much less likely to cause
+knocking. To quantify how much
+compression a fuel can
+withstand scientists came up
+with the octane rating system,
+they arbitrarily set
+iso-octane to have a rating of
+100 and n-heptane a rating of
+zero. Now real fuels aren't
+made up of only these two
+ingredients. They're a mix of
+lots of different
+hydrocarbons. But the octane
+rating tells you what mixture
+of octane and heptane gives
+equivalent performance. For
+example, 98 octane fuel can
+withstand the same compression
+as a mixture of 98% octane and
+2% heptane. Now, I'm going to
+take a little bit of 98 octane
+fuel and put it in this
+piston. And when I compress
+it,
+nothing happens which is
+exactly what you'd expect.
+This fuel can withstand a lot
+of compression. Diesel has an
+octane rating of 20. So it
+acts like a mixture of 20%
+iso-octane and 80% n-heptane.
+If I put a little bit of
+diesel in there, let's see
+what happens with the same
+compression ratio.
+There you go. You get a little
+explosion in there. That's
+because this is a low octane
+fuel. I mean, that's what
+diesel is meant to do. You
+compress it and it ignites.
+But you don't want this sort
+of fuel in an engine with
+spark plugs. The reason fancy
+cars demand high octane fuel
+is to prevent knocking in
+their high-compression
+high-performance engines.
+Kettering wanted to find an
+additive which would increase
+the octane rating of ordinary
+fuel and eliminate knocking in
+high-compression engines. So
+he hired a 27-year-old
+engineer Thomas Midgley Jr.
+Midgley experimented with all
+sorts of compounds from melted
+butter and camphor, to ethyl
+acetate and aluminum chloride.
+He later wrote, most of them
+had no more effect than
+spitting in the Great Lakes.
+Ethanol was an interesting
+exception, it did stop the
+knocking, but you needed a lot
+of it about 10% of the fuel
+mixture for it to be
+effective, that much ethanol
+would be expensive and hard to
+turn a profit on. And Midgley
+was really after an additive
+that was cheap, easy to
+produce and effective even at
+low concentrations. So he kept
+trying. Then he hit on
+tellurium. It worked
+wonderfully as an anti knock
+agent, but it had a terrible
+smell. You couldn't get rid of
+it by changing clothes or
+bathing. His wife was so
+offended by the stench that he
+had to sleep in the basement
+for seven months, Midgley
+wrote, I don't think that
+although this doubled the fuel
+economy, humanity would suffer
+this smell.
+On December 3 1921, after five
+years of working on the
+problem, Midgley found what he
+thought was the perfect
+solution, tetraethyl lead.
+That's a lead atom right there
+in the center. This additive
+was exactly what he was
+looking for. It stopped the
+knocking, it didn't smell. It
+was cheap to produce and
+readily available. Best of
+all, you only needed one part
+in 1000, for it to be
+effective. In a call to
+Kettering, Midgley said, can
+you imagine how much money
+we're going to make with this?
+We're going to make $200
+million, maybe even more. That
+is over 3 billion in today's
+dollars. Now for his
+discovery, the American
+Chemical Society gave him the
+prestigious Nichols award, and
+they asked him to do a series
+of public talks, but Midgley
+declined. He and Kettering
+patented the process for
+making Tetra ethyl led, and
+they called their new additive
+Ethyl, perhaps so it might be
+confused with another common
+additive ethyl alcohol they
+made no mention of lead. Then
+they teamed up with three of
+America's largest corporations
+General Motors, DuPont and
+Standard Oil of New Jersey to
+form the Ethyl Corporation.
+Their marketing was brilliant.
+No man can look at the amazing
+record of accomplishment here
+in this research division,
+without confidence that these
+men are going ahead with an
+eye to the future, looking for
+new facts and principles,
+which will make things better
+and make life easier for all of us.
+at the 1923 Indianapolis 500,
+the top three finishers all
+used Ethyl and the demand for
+leaded gasoline took off. To
+keep up Ethyl Corporation had
+to build a new chemical plant
+in New Jersey. But the project
+began terribly. Within two
+months of operating, dozens of
+workers fell ill with lead
+poisoning. Five of them died.
+To address the public outcry,
+Midgley held a press
+conference. And there he
+poured Tetraethyl lead onto
+his hands, and he inhaled it
+for a full minute. He claimed
+he could do this daily without
+harm. But Midgley knew the
+dangers. The reason he had
+turned down the public talks
+was because he spent much of
+1923 in Florida, where he
+himself was recovering from
+lead poisoning. He didn't go
+anywhere near his company's
+product if he could help it.
+Lead is dangerous even in
+small doses, it mimics calcium
+in our bodies, so there's no
+efficient way to get rid of
+it. And like calcium lead can
+be stored in bones for years,
+meaning it can continue to
+poison the body long after the
+initial exposure. The organ
+most sensitive to lead is the
+brain. Lead breaks down the
+myelin sheath around axons and
+prevents the release of
+neurotransmitters. That's why
+common symptoms of lead
+poisoning are headaches,
+memory loss and tingling in
+the hands and feet. And
+children are particularly
+susceptible, lead exposure can
+cause permanent learning
+disorders and behavioral
+problems, and the dangers of
+lead had been known for
+hundreds of years. Already in
+1786, Benjamin Franklin
+remarked that lead had been
+used for far too long
+considering its known
+toxicity, "you will observe
+with concern how long a useful
+truth may be known and exist
+before it is generally
+received and practiced on". He
+would have been aghast to
+learn that nearly 150 years
+later, scientists planned to add
+lead to fuel. Doctors and
+public health officials from
+MIT, Harvard, Yale, and the US
+health service, wrote to
+Midgley and warned them
+against producing Tetraethyl
+lead. They called lead a
+creeping and malicious poison
+and a serious menace to public
+health. Their concerns were
+dismissed.
+This model shows how just the
+right amount of fluid
+containing Tetraethyl lead and
+dye is added to the gasoline.
+No one doubted that a lot of
+lead was bad for you. But how
+much harm could a little lead
+do?
+By the 1950s, millions of
+motorists globally were
+burning lead in their cars and
+releasing it into the air.
+Some of that lead ended up on
+Clair Patterson's zircon on
+samples, preventing him from
+determining their age. In
+1952, he moved to Caltech,
+where he built a new lab from
+scratch, suspicious of
+environmental contamination,
+he tore the electrical cables
+out of the walls to remove the
+lead solder. He cleaned the
+floors and benches daily with
+ammonia and made sure that air
+was always being blown out of
+the lab. To go inside, you had
+to wear a plastic bunny suit.
+Patterson basically invented
+the cleanroom. Inside that
+room, he turned his attention
+to the oldest rocks in the
+solar system. meteorites. All
+the original rocks on Earth
+had long since been destroyed
+by tectonic activity. But
+meteorites come from asteroids
+which formed around the same
+time as Earth. They have just
+been drifting through space
+until they entered the Earth's
+atmosphere. So the best way to
+measure the age of the Earth
+was to measure the age of
+meteorites. Patterson measured
+five meteorites, each with
+three different radiometric
+dating techniques, and he
+found they were all 4.55
+billion years old. That number
+is within 0.15% of the
+currently accepted value for
+the age of the earth. You
+know, before Patterson's
+experiment, people thought the
+earth was a billion years
+younger. So Patterson had done
+it. He measured the age of the
+Earth, but he wasn't done
+getting rid of lead contaminants.
+Public concern about lead
+exposure had continued to
+grow. But President of
+Standard Oil, Frank Howard
+pushed back saying, "We do not
+feel justified in giving up
+what has come to the industry
+like a gift from heaven, on
+the possibility that a hazard
+may be involved in it."
+Scientists funded by the Ethyl
+Corporation claimed that lead
+was a natural part of our
+environment, and therefore not
+harmful to people. But
+Patterson wondered just how
+natural is the lead in our
+environment, and he had just
+the skills to find out.
+He began by measuring lead in
+the oceans. If it were
+natural, he expected the
+concentration of lead to be
+the same regardless of depth.
+But if lead pollution had
+increased recently, it would
+be more concentrated near the
+surface. He took samples in
+the Pacific and Atlantic
+Oceans down to a depth of four
+kilometers. And sure enough,
+lead concentrations were
+nearly 10 times higher near
+the surface. Lead pollution
+was clearly recent, but when
+exactly had it occurred?
+To find out Patterson had to
+go to Greenland and
+Antarctica. Ice cores record
+the level of lead in the air
+going back 1000s of years, the
+levels of lead in the
+atmosphere have been elevated
+for the last 4500 years. All
+of it is due to human activity
+mainly smelting ores to make
+metal. You can see the rise
+and fall of the Greek and
+Roman Empires. The dip caused
+by the Black Death in the
+1300s. And of course, the
+spike in the 20th century due
+to industrialization and
+Tetraethyl lead.
+So what did this do to people?
+Well, Patterson looked at the
+lead levels in the teeth and
+bones of recently deceased
+Americans. And for comparison,
+he measured the lead in bones
+and teeth of Peruvian and
+Egyptian mummies. Since they
+lived over 1600 years ago,
+they would have been exposed
+to much less lead in their
+lifetimes. He expected to find
+modern Americans had about 100
+times as much lead in their
+bones. But results showed it
+was closer to a factor of
+1,000. 20th century Americans
+had 1000 times more lead in
+their bones than their
+ancestors. Studies of baby
+teeth revealed that even Lead
+exposure well below the level
+considered safe resulted in
+delayed learning, decreased IQ
+and increased behavioral
+problems. And there's a broad
+consensus on the part of
+everybody except the lead
+industry and its spokesmen
+that lead is extremely toxic
+at extremely low doses. A
+follow up study showed that
+those with higher levels of
+lead in their baby teeth were
+many times more likely to fail
+out of high school. As a
+result of studies like these,
+the CDC's guidelines for the
+acceptable level of lead in
+children's blood dropped from
+60 micrograms per deciliter
+down to 3.5. And as far as we
+know, today, there is no safe
+level of lead. Globally, lead
+is believed to be responsible
+for nearly two thirds of all
+unexplained intellectual
+disability. According to a
+study published in 2022,
+more than half of the current
+US population, that's 170
+million people were exposed to
+high levels of lead in early
+childhood. Those born between
+1951 and 1980, are
+disproportionately affected.
+The author's estimate that in
+aggregate lead caused a loss
+of more than 800 million IQ
+points. The world is less
+intelligent today because of
+leaded gasoline. But there are
+even more troubling
+correlations. The US saw a
+steady rise in crime from the
+1970s to the 1990s, then it
+abruptly declined. This graph
+looks eerily similar to a plot
+of preschool blood lead levels
+just offset by 20 years. The
+obvious question is did kids
+who were exposed to higher
+levels of lead grow up to
+commit more crimes than they
+otherwise would have? You
+might think this is just a
+spurious correlation. But the
+same pattern appears in many
+countries, including Britain,
+Canada, and Australia. And we
+know there's a causal
+connection between lead
+exposure and antisocial or
+violent behavior. A study of
+340 Teenagers found that those
+who were arrested were four
+times as likely to have
+elevated lead in their bones
+than similar demographic
+controls who didn't have run
+ins with the law. Now, this
+doesn't mean that lead is
+responsible for all of the
+increase in crime, but it's
+very likely responsible for
+some of it.
+Now, it's tough to estimate
+the precise death toll of
+lead. One of its lesser known
+effects is a hardening of the
+arteries, leading to increased
+cardiovascular disease. A
+study from 2018 found lead was
+likely responsible for 250,000
+heart disease deaths per year
+in the US, assuming a constant
+rate over the past century,
+that amounts to 25 million
+deaths in the US alone.
+Globally, the figure may
+approach 100 million. Most of
+those deaths are due to
+Midgley's decision to put lead
+in gasoline, as substance he
+knew firsthand was toxic, but
+he did it anyway to maximize
+profits. And the problem is
+not over. Current estimates of
+deaths caused by lead range
+from 500 to 900 thousand per
+year. The 2020 UNICEF report
+warns that one in three
+children globally, that's over
+800 million children have
+blood lead levels at or above
+five micrograms per deciliter.
+A lot of this lead now comes
+from batteries and industrial
+processes, but some is still
+due to Midgley's invention.
+After Midgley's success with
+Ethyl, he was put in charge of
+another engineering project.
+GM wasn't just making cars but
+also household appliances and
+fridges had a problem. The two
+most common gases used as
+refrigerants were methyl
+formate and sulfur dioxide.
+One is highly toxic, the other
+is flammable. Midgley was
+tasked with creating a safer
+alternative and in 1928, he
+developed a non toxic and non
+flammable refrigerant
+dichlorodifluoromethane, GM
+called this new product Freon
+and to demonstrate Freon's
+safety, during the unveiling
+at the American Chemical
+Society, Midgley inhaled a
+lung full of this gas and blew
+out a candle. In the following
+decades CFCs like Freon became
+very popular and were used as
+solvents and aerosols. The
+problem is CFCs are light and
+stable. When released into the
+atmosphere, they climb up into
+the stratosphere where they
+can remain for 50 to 100
+years. But if a CFC molecule
+is hit by an ultraviolet
+photon of just the right
+energy, it breaks apart,
+releasing a chlorine atom and
+this chlorine atom can then
+react with ozone, breaking it
+apart into chlorine monoxide
+and oxygen gas. The results
+was another environmental
+disaster: the hole in the
+ozone layer. With less ozone
+more UV light penetrates the
+atmosphere increasing the
+rates of skin cancer and
+cataracts. Plus CFCs are
+potent greenhouse gases per
+kilogram they produce 10,000
+times more warming than CO2.
+The historian John McNeil
+wrote that Midgley had more
+impact on the atmosphere than
+any other single organism in
+Earth's history. An agreement
+to phase out CFCs the Montreal
+Protocol went into effect in
+1989. And the ozone layer is
+now showing signs of recovery,
+although it will take many
+more decades to fully recover.
+In 1940, at the age of 51,
+Midgley contracted polio and
+became physically disabled, so
+to help him get up, he devised
+a mechanical bed controlled by
+a series of ropes and pulleys.
+On November 2 1944, while
+using the contraption, he
+became tangled in the ropes
+and died of strangulation.
+Thanks to the work of Clair
+Patterson, it became clear
+that the lead in our
+environment is not natural.
+Burning lead and combustion
+engines spread the toxic
+elements across the planet.
+Into the air, oceans, the snow
+at the South Pole and even our
+bones. Japan was the first to
+ban leaded fuel and cars in
+1986. But other countries soon
+followed suit. Algeria was the
+last to do so in 2021. The UN
+calculates that the
+elimination of lead from gas
+saves over a million lives per
+year, and $2.45 trillion
+dollars.
+But leaded gas is still used,
+by the way in piston driven
+airplane engines. That's now
+the largest source of lead
+emissions into the air in the
+US.
+You will observe with concern how long a useful
+truth may be known and exist
+before it is generally
+received and practiced on.
+When I first learned about
+Thomas Midgley and Clair
+Patterson, I was amazed by how
+much harm or how much good a
+single person could do to the
+environment. Which brings me
+to the sponsor of this video
+Wren, an organization that's
+taking action on climate
+change. I think it's important
+that we tackle the climate
+crisis both by lobbying for
+systemic change. And by making
+more environmentally friendly
+choices ourselves. On Wren's
+website, you can calculate how
+much carbon you emit and which
+activities have the greatest
+impact. And if you like you
+can offset your emissions
+through a monthly
+subscription. The funds raised
+go to support a variety of
+projects that reduce
+greenhouse gases in the
+atmosphere. One project I
+particularly like involves
+collecting up flammable dead
+wood from California forests.
+This helps prevent wildfires.
+Plus the collected wood is
+converted into biochar, a
+material that locks up the
+carbon inside for 1000s of
+years. Once you sign up to
+offset your carbon footprint,
+you'll receive monthly updates
+from the projects you support.
+It's completely transparent
+with photos and details of
+every tree planted every acre
+reforested every tonne of
+carbon offset, and for the
+first 100 People who sign up
+using the link in the
+description. I will personally
+pay for the first month of
+your subscription. So I want
+to thank Wren for supporting
+Veritasium and I want to
+thank you for watching.

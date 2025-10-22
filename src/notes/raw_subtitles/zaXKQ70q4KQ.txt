@@ -1,0 +1,1006 @@
+Here's what happens
+when you put your DNA under a microscope.
+You can extract some from your mouth,
+just gargle salt water
+and mix this with soap and rubbing alcohol.
+You'll get a gooey mass at the top.
+This is DNA.
+Most of it is yours,
+but some of it actually
+comes from bacteria
+living in your mouth.
+At 100 times magnification,
+you'll see these strings,
+which are coiled up DNA,
+proteins and debris,  all clumped together.
+But looking at them is
+pretty much useless.
+I mean, even with a million
+dollar electron microscope,
+you can't actually see the
+genetic code that makes you you.
+So how do you read DNA?
+DNA.
+DNA evidence.
+DNA.
+Your family secrets.
+You are not the father.
+Diseases you haven't
+been diagnosed with yet.
+Predicting or even diagnosing cancers.
+The tiny quirks of what makes you you.
+But for the vast majority
+of human history,
+we have not been able to read it.
+It is completely illegible.
+All of this might still
+be impossible today,
+if not for one man who took a lot of drugs
+and stumbled upon a discovery
+that unlocked DNA forever.
+Also, he was kind of a jerk.
+In the 1960s as a biochemistry
+student at Berkeley,
+Kary Mullis wasn't interested
+in going to his classes.
+He was too busy taking LSD and lots of it.
+Mullis didn't take
+university very seriously.
+His PhD dissertation was filled with jokes
+and the committee refused to approve it
+until he, quote, cut
+all the wacko stuff out.
+But LSD fueled his eccentric genius,
+sparking all sorts of interesting ideas.
+It did trickle into his science.
+So for example, he wrote a
+letter to the journal Nature,
+which chronicled the, quote,
+entire universe from the
+beginning to the end,
+and they published it, which is amazing.
+He was like 22 years
+old, they published that.
+After graduating,
+Mullis just bummed around for a bit.
+First, he gets a job in a cardiology lab,
+but he's just kind of so horrified
+at how many rats are being killed.
+So he starts writing fiction,
+he gets a job in a bakery.
+One day he's working in this bakery,
+and this guy, Tom White, walks in
+and it turns out Tom White
+works at this company.
+It's a biotech startup called Cetus.
+They sort of get to talking,
+and this guy offers Kary
+Mullis, he offers him a job.
+White recommended Mullis to his higher-ups, saying
+ 
+"Hire this guy Mullis,
+he's an excellent synthetic chemist.
+I knew he was a good chemist because he'd been synthesizing
+hallucinogenic drugs at Berkeley."
+Cetus was one of the first
+biotech companies in the world.
+It was founded in 1971.
+An exciting time when scientists
+were starting to figure
+out how to manipulate DNA.
+One of the most important
+discoveries was actually made
+that year while researchers
+at Johns Hopkins
+were studying the bacteriophage.
+The phage is a virus that hijacks bacteria
+by injecting its DNA into the cell.
+The bacteria is then
+forced to create copies of the phage until it explodes.
+But the researchers realized
+that some bacteria evolved defenses
+that make them more
+resistant to the virus.
+Their defensive molecules
+would scan the phage DNA,
+looking for a specific sequence,
+and when they found a match,
+they would cut the DNA,
+turning it into useless strings.
+Scientists called these
+little scissor molecules restriction enzymes,
+and different types of restriction enzymes cut
+DNA at different places
+and they work on human DNA too.
+So the researchers extracted the enzymes
+to essentially create a
+toolbox of nanoscopic scissors
+that would allow them to cut DNA at will.
+Cetus was trying to use biotech like this
+to develop commercial DNA
+tests that hospitals could use
+to quickly diagnose diseases.
+But at the time, simple DNA
+tests like this were impossible.
+Say you want to detect
+sickle cell disease.
+I mean, you could just
+look at the blood cells
+under a microscope, but Cetus
+wanted to prove that they could
+do it with a genetic test.
+And for one of those, you would start off
+with a sample of DNA.
+In each of your cells,
+there are 23 pairs of chromosomes,
+and if you zoom into the
+tip of the 11th chromosome,
+you'll find the beta globin gene.
+This sequence of adenine,
+thymine, guanine,
+and cytosine nucleotides
+controls the shape
+of your red blood cells.
+And if you inherit a
+T instead of an A here
+from both of your parents,
+well, you're born with sickle cell anemia.
+But, you can't see any of
+this under a microscope.
+So how do you check
+these single letter mutations against DNA
+that's over six billion letters long?
+Mullis said that this was the equivalent to
+reading a license plate on interstate five
+in the dark
+from the Moon
+But luckily there was a way to do it.
+The first step is to
+separate the beta globin gene
+from the rest of the DNA.
+So you can use restriction
+enzymes on your sample
+to cut the DNA into little
+pieces, all of different lengths,
+and the sickle cell mutation
+will be on one of these ribbons.
+But how does that help?
+Well, DNA is negatively charged
+so if you place your cut up
+sample into a porous material
+like a gel and apply a voltage across it,
+the DNA pieces will flow
+from the negative end
+to the positive end.
+But because they're all different lengths,
+shorter pieces of DNA will
+navigate the gel pores quicker
+than longer ones.
+This is called gel electrophoresis,
+and it lets you separate
+DNA out by length.
+Its results are consistent enough
+that after the DNA is spread
+across the gel, you can see
+where different length strands end up.
+Near the start, you'll see DNA strands
+that are 10,000 base pairs
+followed by shorter ones,
+3000, 1000, and so on.
+And because you used specific
+restriction enzymes,
+you can predict that
+the sickle cell mutation
+was sliced into a 2000 base pair segment.
+So it's in here.
+And now that we know
+where the target DNA is,
+we can move on to step two,
+checking whether our sample
+actually has that mutation or not.
+If you soak the sample
+in an alkaline solution
+or heat it up to over 90
+degrees, the hydrogen bonds
+between nucleotides will
+break and the DNA will unzip.
+Now, the two strands will be
+able to pair to any other DNA
+as long as it's a match.
+As only pair to Ts and Gs only pair to Cs.
+You need a complimentary sequence.
+Scientists could take advantage of this
+by synthesizing short
+pieces of DNA in a lab.
+These are called probes,
+and they can be designed to
+have any specific sequence.
+So if the sickle cell mutation is CTGTG,
+you can create a probe that
+has the complimentary sequence,
+GACAC, that will stick to it.
+And because normal DNA
+is supposed to be CTGAG,
+your custom probe won't be a good match.
+Now, the trick is to make these
+synthetic probes radioactive
+and add them in.
+So after a while, your
+probes will either pair
+to the DNA or just keep floating around.
+And if you wash your sample,
+any probes that didn't
+pair will rinse off.
+So the final step is to check
+the sample for radioactivity.
+You can see that with sickle cell blood,
+there's a radioactive signal on the right.
+The probe found the
+mutation and stuck to it.
+But in the case of normal
+blood, there's no signal.
+None of the probes paired,
+so there must be no mutation.
+There is also this other
+huge signal in both cases.
+That's because the probes
+will match to other parts of the DNA too,
+not just
+to the sickle cell region.
+This is why you need to
+separate the mutation out
+using the gel first.
+This technique was known
+as the Southern Blot,
+and it worked, but there was a problem.
+It took days or even weeks.
+Every step of it is difficult
+and every step of it, it's
+like super inefficient.
+The matching is inefficient.
+The radio-sensitive paper
+is really inefficient,
+and you have these technicians
+having to work with radioactive stuff.
+And it happened in a
+way that it was so slow
+and cumbersome
+that it wasn't commercially
+feasible in any way.
+Cetus wanted a DNA test
+that could be done in a
+day in a single test tube,
+and they were close.
+They developed a method that could test
+for sickle cell disease
+in just seven hours.
+But this new test suffered
+from a different problem.
+The signal was just too faint.
+You could hardly tell whether the sample
+had the sickle cell mutation or not
+because it would barely
+return any results.
+Now, Kary Mullis didn't work
+on these cutting edge DNA tests.
+His job was to make those
+short radioactive bits of DNA
+that would be used as probes.
+He wasn't even doing the interesting part.
+So he's just making these snippets.
+That's his job, and it is a slow,
+repetitive, extremely boring job.
+So while he's working there, maybe in part
+because he is bored, he's just obnoxious,
+he's like a really annoying person.
+He doesn't get along with anybody.
+He picks fights with like receptionists
+and security guards and his colleagues.
+He also was a womanizer,
+so he would be hitting
+on people all the time,
+which was at the same
+time he was also married.
+There was one time where he threatened
+to bring a gun to work.
+Really like not someone
+you would wanna work with.
+But, one day they bring in this new machine
+into the workplace.
+This machine basically could synthesize
+these snippets all by itself.
+It's basically doing, you
+know, a month of his work
+in like a day.
+Mullis, he's like, now
+I both have free time
+and I have a lot of
+these little DNA snippets
+I can sort of play with and figure out
+like, what can I do with them?
+And now he doesn't really
+have a lot of work to do.
+And also people don't like him at work.
+So he basically starts taking weekends
+in Mendocino County to just relax.
+As he was driving up to his cabin
+on a Friday night in the spring of 1983,
+Mullis let his mind wander.
+He thought about that new DNA test
+and was trying to think
+of a way to fix it.
+Then a thought struck him.
+What if instead of inventing a more powerful telescope
+to read a single license
+plate from the Moon,
+he just created more of
+that same license plate.
+His mind raced.
+Mullis
+could see DNA chains
+floating all around him.
+"Blue and pink images
+of electric molecules injected themselves
+between the mountain and my eyes."
+He wasn't on LSD,
+but his mind by then had
+learned how to get there.
+He could sit on a DNA molecule
+watching the reactions unwind.
+See, the whole DNA sequence
+around the sickle cell mutation was known.
+And because Mullis knew one
+strand, by complementarity,
+he knew the other as well.
+So if he heated up the DNA
+and separated the strands, he
+could design short bits of DNA
+that would pair to both strands
+anywhere on the sequence.
+These would be his primers.
+Then, Mullis could use something
+called DNA polymerase.
+It's a special protein
+that attaches itself
+to sites like these
+where primers are paired
+to the original DNA.
+The polymerase basically grabs nucleotides
+floating around and extends the primer.
+And the primer is built as
+a perfect complimentary pair
+to the strand of DNA it's attached to.
+This creates an identical copy
+of the initial double helix.
+Polymerase exists in every
+cell of every living thing.
+It is what's responsible
+for replicating DNA
+during cell division.
+But it will only ever build out a primer in one direction.
+It's kind of like a one-way street.
+You see each DNA strand starts
+with a phosphate molecule.
+This is called the five prime end.
+That phosphate is attached
+to a sugar molecule called deoxyribose,
+which holds one of the four nucleotides.
+And deoxyribose also connects
+to the next phosphate,
+and so this pattern repeats.
+But the last deoxyribose molecule
+doesn't have another
+phosphate connected to it.
+So it ends with an OH group instead.
+This is the three prime
+end, our street exit.
+The three prime end on one
+DNA strand is always connected
+to the five prime end on the other.
+The second DNA strand
+always points the other way.
+And DNA polymerase needs an OH group
+to attach the next nucleotide.
+So it always builds on
+the three prime end.
+But that wasn't a limitation,
+it was an advantage,
+and Mullis knew exactly how to use it.
+He could create two primers
+that would bind to the DNA
+before the sickle cell mutation,
+each on a different strand
+pointing at each other.
+And if he added polymerase
+along with some spare nucleotides,
+it would have to extend both primers
+toward and over the sickle cell mutation.
+This would create two
+separate DNA segments,
+both with the mutation.
+A few miles down the road,
+he had another eureka.
+He could just do these three
+steps again,
+Unzip the DNA,
+pair the primers, and use
+polymerase to extend them.
+He now had four DNA
+sequences with the mutation
+and he could make that eight
+and then 16, 32, 64.
+And he realized that if he
+repeated this chain reaction
+30 times, he would have
+over a billion copies
+of that specific DNA segment,
+all with the sickle cell mutation.
+He could cover the entire Earth
+with identical copies
+of the license plate.
+And if he designed different primers,
+he could change the length
+of the DNA section that
+would get replicated.
+This didn't only work for
+the sickle cell mutation.
+As long as you knew the
+sequence for any part
+of any DNA, human, plant, bacterial,
+you could make copies
+of that exact segment
+and the copies would grow exponentially,
+like a nuclear chain reaction.
+(upbeat music)
+Mullis had invented a DNA photocopier.
+He named it the polymerase chain
+reaction, or PCR for short.
+Immediately he stopped the car
+and scribbled his idea on
+the back of a gas receipt.
+PCR consumed his thoughts
+for the rest of the weekend.
+"It was difficult for me to sleep
+with DNA bombs exploding in my brain.
+What if I had not taken LSD ever?
+Would I have invented PCR?
+I don't know. I doubt it.
+I seriously doubt it."
+Monday morning, he bursts
+into the office at Cetus Corp,
+and he pitches his idea.
+He's like, basically,
+look, hey, I came up with
+a DNA Xerox machine.
+Like, we are working so hard to read this tiny tiny thing.
+What if we made a billion copies of it?
+It would be so much easier.
+Mullis presented his idea
+at a company-wide seminar,
+but people started leaving
+before he was done.
+A lot of them are skeptical.
+They've heard him pitch
+cockamamie ideas before.
+The other thing is that they
+were like, that's so simple.
+It had to have been tried before
+and it can't possibly work.
+Like, there must be a reason
+why this is not the way we're doing this.
+But Mullis was undeterred.
+He started his first
+experiment in September, 1983,
+trying to replicate a 400 base
+pair fragment of human DNA.
+After months of trying, he
+couldn't get PCR to work.
+Human DNA was just too complicated.
+So he set his sights on a smaller fragment
+of bacterial DNA, just 25 base pairs.
+For months, he'd separate the
+strands, attach the primers,
+add the polymerase, hoping
+to amplify that small section
+of bacterial DNA.
+By the summer of 1984,
+Mullis thought he had it — indisputable
+proof that PCR worked.
+But others at Cetus weren't convinced.
+His work was sloppy.
+He didn't have any controls
+or do repetitions of his experiments.
+Tom White and Norman Arnheim,
+another colleague at
+Cetus said that
+"No one but Kary believed the data he showed
+demonstrated what he said it did."
+"Any independent scientist
+looking at the data today
+would come to the same conclusion."
+Mullis took these comments personally.
+He constantly argued with his colleagues
+about these results and
+even started a fist fight
+at one point.
+He was
+losing credibility fast and everyone wanted him out.
+But White argued that PCR had potential,
+so Mullis was given a one
+year probationary period
+to prove that PCR could work,
+but he wouldn't be doing it alone.
+White, Arnheim
+and Henry Ehrlich
+assigned other technicians
+to develop PCR along with Mullis.
+And from there on out,
+this group of scientists
+worked overtime to make PCR a reality.
+And by spring 1985, after
+months of painstaking trial and error,
+the group finally cracked it.
+They had definitive proof
+that PCR was possible.
+With it, their new sickle
+cell diagnostic method
+worked like a charm
+and could be done in under 10 hours.
+But PCR was still just a concept
+with a huge problem.
+For each cycle, you needed
+to raise the temperature
+to 95 degrees Celsius to unzip the DNA,
+and then lower it to around 30
+degrees to allow the primers
+to pair and the polymerase to extend them.
+And then you would repeat that cycle,
+heating back up to 95 degrees.
+The problem was that the polymerase
+would get destroyed when it was heated up.
+It was extracted from E. coli bacteria
+and E. coli can only survive up to
+around 50 degrees Celsius.
+So you would have to stand there
+and manually add in more polymerase
+every time you cycled the temperature.
+And that was expensive and time consuming.
+You have to do this
+loop like maybe 30 times
+for a piece of DNA you're looking at,
+and every time you gotta stop,
+you gotta add more polymerase.
+It was just getting in
+the way of the vision
+and of the efficacy.
+This was like, yeah, it
+was adding more time.
+It was adding more
+difficulty to the process.
+But, it turns out a solution
+had been bubbling away
+in the background for over 20 years.
+In 1964,
+a microbiologist named Tom Brock
+was visiting Yellowstone National Park.
+He'd never been before,
+but when he got to the
+boiling hot springs,
+immediately the vivid hues of the yellow
+and orange water caught his
+eye.
+Are these colors bacteria?
+Nobody thought that something
+could live at higher
+than 60 degrees Celsius.
+But this professor Thomas
+Brock, this microbiologist,
+he was like, no, no, no, no, no.
+I think not only can things
+live at that temperature,
+I think things can live
+above 100 degrees Celsius.
+I think things can live in boiling water.
+Brock set up a lab next
+to one of the springs
+and asked his undergraduate student,
+Hudson Freeze, to tag along.
+I mean, I wasn't even old enough to drink.
+So, we would go to the spring
+and collect the samples there,
+and then bring them back to the
+laboratory for the analysis.
+So every day, oh,
+over about three or four days,
+I would go in
+and I would pick up this tube.
+So, a standard looking test tube.
+And I would go like that, and I'd flick it just to see
+if there was anything growing in there.
+Didn't see anything.
+You know, this is never gonna work.
+Third day, nothing, fourth
+day, ooh, look at this.
+There's a little something on the bottom.
+So I picked up the tube and shook it.
+And this time there was this
+this stuff that was going (whistles)
+like this.
+And I, well, that's interesting.
+So I got a little pipette
+out, took a little drop,
+put it under a microscope.
+I still get goosebumps,
+man, I'll tell you.
+I still get goosebumps.
+I looked at it, and
+here are all these worms
+just crawling around.
+I thought, my god, I'm the
+first person to the world
+that ever sees this.
+There was a graduate student in the lab.
+And so this graduate student said,
+well, I think we ought to call
+it 'Hudsoniae Freeziensis'.
+I mean, you do have a great name.
+And Tom said, no, no, you can't name it
+after a person, we're gonna
+call it Thermus Aquaticus.
+And the graduate student and I
+both looked at each other - hot water?
+Man, that's not very creative.
+So it meant that if an organism
+was gonna live out there,
+it had to have all of its
+essential enzymes adapted,
+living at that temperature.
+So it was clear, boiling water
+is not going to knock these guys off,
+but we thought it had no applications.
+Brock and Hudson published their findings
+and stored a culture of Taq
+at the American Type Culture Collection,
+a database that preserves
+microbial samples.
+16 years later, in the spring of 1985,
+Kary Mullis stumbled upon their discovery.
+He was looking for a polymerase
+that could survive the
+high heat of the PCR cycle
+and he had found it.
+At his suggestion,
+the group isolated the
+polymerase out of Taq
+and tried it in a PCR test.
+The results were breathtaking.
+David Gelfand, the Cetus scientist
+who purified the new polymerase said,
+"It worked like a charm.
+It worked better than anything
+we have ever fantasized.
+The holy grail had been achieved."
+Not only was Taq able to
+survive the high temperature
+of PCR, it thrived in it.
+These are the results with
+the old E. coli polymerase.
+You can see that it amplified
+the sickle cell DNA,
+but it amplified a lot of
+the background DNA too.
+So it was messy.
+That's because primers
+can actually attach to DNA
+even if they aren't a perfect match,
+they just need a low enough temperature,
+otherwise the high kinetic
+energy peels them off.
+But with Taq, you never had
+to lower the temperature
+below 50 degrees,
+so the primers would
+virtually only ever bind
+to their target region.
+These were the results with Taq.
+It completely erased all
+of the background noise.
+You could sort of set it and forget it
+and come back, you know, 30 cycles later,
+a couple hours later
+and all of a sudden you have a billion
+of the thing you're looking for.
+PCR worked and it worked effortlessly.
+They could amplify any
+piece of DNA they wanted,
+no matter how small the sample.
+Cetus realized they had a golden goose.
+But other companies like Perkin Elmer
+and Kodak were starting
+to catch onto their idea.
+And if anyone else even briefly mentioned
+the concept of PCR in their paper,
+Cetus would lose all rights to the patent.
+So they had to go public and
+they had to do it quickly.
+The PCR group urged Mullis
+to publish a solo paper
+first, since PCR was his idea.
+But Mullis procrastinated.
+Afraid they would lose credit for PCR,
+the rest of the group was forced
+to publish an article on
+their own PCR research.
+So the first paper on PCR
+that came out in Science
+Magazine in December of 1985
+listed Mullis as the fourth author.
+He was furious.
+By the time he got his own paper ready,
+no reputable journal wanted it.
+He remarked, "Nature didn't call me.
+I wasn't one of the good old boys.
+Science rejected it too."
+He claimed the PCR group stole his work.
+"My God, they're going to get
+away with their little trick."
+But the group scrambled together
+to get Mullis the proper recognition.
+He became the face of PCR
+after giving a talk at a
+microbiology symposium in 1986.
+But, it was too late.
+Shortly after, still fueled
+by his anger for the group,
+Mullis left Cetus.
+However, the work on PCR
+continued without him.
+And after he leaves,
+they come up with like,
+basically there are new PCR machines
+that do the whole thing for you.
+And basically these machines are now
+in like every lab that
+does any kind of work
+with DNA anywhere.
+PCR was a huge success.
+Polymerase chain reaction test.
+PCR, PCR.
+It's a DNA photocopier.
+Measure remaining blood cancer cells
+that other tests can't detect.
+Everyone was using it.
+From DNA cloning and vaccines to detecting cancer and HIV,
+PCR was saving lives.
+It completely opened up everything,
+it revolutionized everything.
+P-P-P-PCR.
+PCR could amplify the
+tiniest sample of DNA.
+It supercharged forensics.
+Texas man should be freed from prison
+because new DNA evidence does
+not link him to the crime.
+Hundreds of wrongfully convicted people
+were freed and thousands
+of criminals were caught.
+Families separated by
+war could be reunited.
+We use PCR all the time, all the time.
+Everybody in our institute.
+Scientists even tried
+to use PCR on ancient DNA from
+insects fossilized in amber.
+Sound familiar?
+Like it's completely taken
+over so much of our world.
+And right at the center of this takeover,
+Kary Mullis.
+Dr. Kary Mullis, a surfer,
+a scientist who proved
+that science can be fun.
+The world renowned inventor
+of polymerase chain reaction.
+What inspired you to invent this?
+It wasn't people, it was...
+Drugs, drug, drug, drugs,
+I'm experienced with drugs.
+In 1993, Mullis was awarded
+both the Japan Prize
+and the Nobel Prize in
+chemistry for his invention
+of the polymerase chain reaction method.
+Although it wouldn't have
+existed without his colleagues,
+Mullis made PCR his
+story and his story only.
+There were a lot of people
+who were like, he's such a fame hog.
+Like, he completely didn't
+give any of us credit.
+I invented PCR.
+After I had invented PCR.
+And now it's like they
+bought into his version
+of the story
+where he did this solo.
+Whereas there were a lot of people at Cetus Corp who helped him.
+As Erlich remarked,
+"To Kary, rewriting
+history was more important
+than writing papers."
+"He seems to have viewed PCR
+as a means to a celebrity."
+He left Cetus and as far as I could tell,
+really stopped being a scientist.
+... realized, I had in my hands
+the thing that would make me famous,
+'cause I knew that night
+I was gonna get a Nobel Prize for that.
+He used his publicity to
+springboard his eccentric views.
+He talked about seeing glowing raccoons
+and being abducted by aliens.
+He would go around saying
+kind of crazy, shocking stuff.
+Distrust your fellow man.
+We're an arrogant little
+bunch of naked apes.
+He wrote this book
+called "Dancing Naked in the Mind Field",
+which the blurb on the book is amazing.
+It's from the Washington
+Post, and it's like:
+"The strangest guy to ever win
+the Nobel Prize in chemistry.
+He just would do like weird stuff.
+Did you see me eating those leaves?
+Was that a drug?
+He was an expert witness
+in the OJ Simpson trial.
+He started a company
+where he would PCR DNA from famous
+dead celebrities like Marilyn Monroe.
+And then he would make
+like little trinkets
+out of them and sell them.
+But not all of his
+ideas were as harmless.
+He didn't believe in global warming.
+He didn't believe in the ozone hole.
+He didn't believe that HIV caused AIDS.
+HIV is not deadly. There's
+not something called AIDS.
+In the early 2000s, HIV
+denialism in South Africa
+was at a high,
+while the country was battling
+a crippling AIDS epidemic.
+What we are facing is a catastrophe,
+which is indescribable.
+President Thabo Mbeki
+was under the influence
+of AIDS denialists.
+Does HIV cause AIDS?
+How does the virus cause
+a syndrome? It can't.
+An even invited Nobel Prize winner,
+Kary Mullis, to weigh in on the issue.
+Under Mbeki's leadership,
+the government refused
+to provide adequate
+treatment for those affected.
+And more than 330,000 people died.
+Kary Mullis passed away in
+August, 2019 at the age of 74
+due to complications from pneumonia.
+Nonetheless, the legacy of PCR lives on.
+Just a year later,
+the method reached perhaps
+its most significant use yet,
+as PCR COVID tests helped keep billions
+of people safe throughout the pandemic.
+Sometimes he's like, he's
+very funny and charming
+and a good storyteller,
+but he's also, you feel
+like he's a very sleazy guy.
+He's like not a person
+you'd want to be around.
+He did have a sort of, a sparky mind.
+He was not being forced by some company
+to discover something.
+He was playing.
+It was like imaginative play.
+He was like, I have these snippets
+and what could I do with them?
+And to me, he invented the solution,
+and then like a huge field
+of problems emerged to fit.
+But maybe the real takeaway
+from Mullis's story
+is about automation.
+I mean, he discovered PCR partly
+because his day-to-day job
+was taken over by a machine.
+And this is a pretty important point
+because all of us are maybe
+staring down the barrel
+of a future where machines
+take over our jobs,
+especially now with the surge
+of AI and generative models.
+And that's pretty scary.
+But it could also force
+us to come up with bigger,
+more creative ideas, just
+like it did for Kary Mullis.
+Automation might open our
+minds to breakthroughs
+and discoveries that
+could change the world.
+(upbeat music)
+Of course, making breakthroughs like PCR
+take more than just opportunity.
+You also need a mind
+trained in problem solving
+so you're ready to seize the
+moment when opportunity arises.
+And if you're looking for a free
+and easy way to start building
+your problem solving skills
+right now, look no further
+than today's sponsor Brilliant.
+Brilliant, helps you
+become smarter every day
+with thousands of quick,
+interactive lessons on
+everything from math
+and science to data analysis,
+programming, AI, you name it.
+And what I love most about Brilliant
+is that you learn by doing.
+You get hands on with key concepts
+and learn to apply them
+to real world situations, all
+while building your intuition.
+And that way you gain the tools
+to solve whatever problems come your way.
+On Brilliant, you don't
+just learn new topics.
+You learn new ways of
+seeing the world around you,
+like their rebooted course
+on scientific thinking
+that helps you think like an engineer
+and see the physics in everyday objects
+like gears, mirrors and structures.
+And if you wanna solve
+problems like a programmer,
+mathematician or data analyst,
+well Brilliant's got
+you covered there too.
+With new courses that explore
+everything from algebra
+and algorithms through
+fun, interactive puzzles.
+Best of all, all of Brilliant's
+lessons are bite-sized.
+So whenever you have a few minutes,
+you can be building a
+quicker, sharper mind,
+which is extra helpful if you
+plan on making daily learning
+one of your New Year's resolutions.
+So to try everything Brilliant
+has to offer for free
+for a full 30 days, visit
+brilliant.org/veritasium,
+click that link in the
+description or scan this QR code.
+And if you sign up,
+you'll also get 20% off
+their annual premium subscription.
+So I want to thank Brilliant
+for sponsoring this video
+and I want to thank you for watching.

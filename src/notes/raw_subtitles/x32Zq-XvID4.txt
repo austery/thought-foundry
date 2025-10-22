@@ -1,0 +1,1608 @@
+- [Derek] In Xiamen, China,
+in the winter of 1954,
+(fire crackling)
+air raid sirens
+(explosions thudding)
+are sounded all over the city.
+(siren blaring)
+People scramble for cover
+(people screaming)
+as artillery shells
+(artillery shells blasting)
+are being fired in the distance.
+(artillery shells blasting)
+The people's Republic
+of China is bombarding
+the nearby Kinmen Islands
+in an attempt to take over control
+from the anti-communist Chinese.
+(tank rattling)
+(boots thudding)
+But troops on the islands
+fire back.
+(artillery shells blasting)
+Soon, artillery shells are raining down
+on both sides.
+(explosion thudding)
+(siren blaring)
+(tense music continuing)
+Back in Xiamen,
+(siren blaring)
+Inside one of these shelters
+is 21-year-old Chen Jingrun.
+As others are fidgeting impatiently,
+waiting for the explosions to stop,
+Chen is reading pages
+(explosion blasting)
+from a math book,
+(pages rustling)
+because he's on a mission
+to solve one of the
+oldest problems in math.
+(dramatic tense music)
+- A child can understand
+the statement,
+but the greatest geniuses
+in mathematical history
+have not been able to solve it.
+- In the year 2000,
+a publishing house even offered
+ 
+a $1 million prize
+to anyone who could solve the problem.
+But for nearly 300 years,
+everyone who has tried
+(dramatic music building)
+has failed.
+So the problem is this,
+can every even number greater than 2
+be written as the sum of two primes?
+- So that's the problem.
+So we can do some examples.
+(pen cap clicking)
+We can say, for example, 6.
+You know that's an even integer.
+So can we write it as
+the sum of two primes?
+So those are numbers that
+only divide by themselves
+and by 1.
+So for 6, it's just 3 plus 3,
+and we can do more and more numbers.
+So 10, for example, would be,
+you know, 5 plus 5,
+but also 7 plus 3.
+There's one I want to do, one extra,
+which is your favorite number.
+- 42.
+- 42.
+What makes it up?
+- 37 and 5.
+- 37.
+Yeah.
+But there's also a, sort of, nicer,
+more methodical, way of writing this out,
+and it will help us
+(paper rustling)
+build some intuition.
+- [Casper] We'll start by
+drawing two diagonal lines.
+(soft inquisitive music)
+- I'm building like a pyramid.
+A pyramid of prime numbers.
+(pen cap clicking)
+- [Derek] All right.
+- [Casper] So, we're
+gonna start at the top.
+We're gonna write down 2.
+Then we'll write down 3.
+5.
+And this is gonna be a good test
+of how well I know my primes.
+Then we'll do the same on the other sides.
+Okay, and now, what we're gonna do is,
+we're gonna draw a line from each prime.
+Can you see where this is going?
+- [Derek] And where
+they cross is every sum?
+- [Casper] Yeah.
+Now I can start adding them.
+So we get 2 plus 2.
+- 4.
+- [Casper] 4.
+3 plus 3.
+- 6.
+- 6.
+You can see, we're starting
+to get all these numbers.
+The main point here is
+just, as you go down,
+not only do you see all
+the even numbers appear,
+but they also seem to
+appear more frequently.
+And it seems like it should always happen.
+And, of course, the conjecture is
+that it does always happen,
+and that's known as the
+gold Goldbach's conjecture.
+- [Derek] Chen's obsession
+(mysterious gentle music)
+with the conjecture
+goes back to his high school years,
+when his teacher stood
+in front of the class
+telling the students
+all about the sciences,
+and said, "Mathematics is
+the queen of the sciences.
+Number theory is the queen's crown.
+And the Goldbach's conjecture
+is the pearl on the crown."
+(soft music continuing)
+- Shortly after,
+the teacher said, "Well, perhaps, one day,
+one of you kids will solve it."
+And then the whole class
+burst out laughing.
+(people laughing)
+Everyone except for Chen Jingrun.
+(inspiring classical music)
+He later said,
+"I did not laugh.
+I did not dare to laugh.
+I was worried my classmates
+would know my vision,
+but I never forgot this lesson
+to always remember the pearl on the crown,
+and to never forget my
+aspirations or ideals."
+- [Derek] And now,
+(alarm blaring)
+as air raid alarms are ringing,
+he's maintained his vision.
+(alarm blaring)
+He's working on his math,
+trying to solve Goldbach's conjecture.
+- And then it's like, well,
+who the hell is Goldbach?
+(playful classical music)
+Do you know a Goldbach?
+- I know nothing about Goldbach.
+- Christian Goldbach
+is a little known Prussian mathematician
+who grew up in the early 1700s.
+At first,
+(paper rustling)
+he mostly studied medicine and law,
+only occasionally dabbling in mathematics.
+But then in 1710, at the age of 20,
+he set off on a 14 year,
+and over 4,000 kilometer long, journey
+to meet some of the greatest
+mathematicians alive.
+(playful classical music playing)
+In Leipzig, he met with Gottfried Leibniz,
+the co-inventor of calculus.
+And, in London, he met with
+both Nicolaus Bernoulli,
+and, perhaps the greatest
+mathematician of all time,
+Sir Isaac Newton.
+(classical music continuing)
+He then finished this trip around Europe
+before ultimately settling down in Russia
+at the newly formed St.
+Petersburg Academy of Sciences.
+(waves crashing)
+(seagulls cawing)
+Where, in 1727, he met his
+most important connection,
+a 20-year-old math prodigy.
+Can you guess who?
+- Leonard Euler?
+- Leonard Euler.
+(both laughing)
+- The two quickly became friends,
+bonding over a shared
+obsession with number theory.
+Then, in 1729, Goldbach moved to Moscow,
+but the two stayed in touch,
+writing letters to each
+other for the next 35 years,
+literally until Goldbach died.
+(tense fast music playing)
+(wind whooshing)
+It was in one of these letters,
+(paper rustling)
+on the 7th of June, 1742,
+where Goldbach scribbled
+a line in the margin.
+It was not the exact form
+of the conjecture which
+now bears his name,
+but something related.
+(wind whooshing)
+"It seems that every
+integer greater than 2
+can be written as the
+sum of three primes."
+(slow classical music)
+Euler was intrigued
+by the proposition,
+but he thought the idea
+could be refined further.
+It made sense to him
+that odd numbers might need three numbers
+to add together to make them,
+but then he turned his
+attention to even numbers,
+and he thought, "Well, with even numbers,
+perhaps just two prime
+numbers would be enough
+to sum to give you every even number."
+In fact, as Euler wrote in his letter,
+this is how Goldbach
+originally framed the problem
+in person.
+So, Euler reformulated Goldbach's idea
+(wind whooshing)
+into two separate conjectures.
+(wind whooshing)
+The first
+dealt with odd numbers,
+and said, "Every odd number
+greater than 5 can be written
+as the sum of three primes."
+This became known as the
+weak Goldbach conjecture.
+And the second
+(wind whooshing)
+dealt with even numbers.
+It said, "Every even number
+greater than 2 can be written
+as the sum of two primes."
+This became known as the
+strong Goldbach conjecture.
+(wind whooshing)
+(playful gentle music)
+They get their names
+strong and weak conjecture,
+because
+(wind whooshing)
+if you have the strong conjecture,
+then you've shown that every
+even number greater than 2
+can be written as the
+sum of just two primes.
+And then you can add three
+(wind whooshing)
+to each of those sums
+to get all of the odd numbers.
+So if you can prove the strong conjecture,
+you get the weak one for free.
+But the reverse is not true.
+If you can prove the weak conjecture,
+you still don't get the strong one.
+Now, after Euler reformulated
+these conjectures,
+he was so confident they were true,
+that he wrote, "I regard this
+as a completely certain theorem,
+although I cannot prove it."
+- And he couldn't, you know?
+And for the next 150 years,
+almost no progress is made.
+(cymbals crashing)
+- [Derek] That is until, in 1900,
+German mathematician David Hilbert
+addressed the International
+Congress of Mathematicians,
+in Paris.
+(paper rustling)
+And there, he listed 23
+of the most important
+problems for the 20th century.
+(pages rustling)
+Number eight
+on that list was all about prime numbers,
+including Goldbach's conjecture.
+(pen scratching)
+- Goldbach's conjecture
+was back on the radar.
+Only now,
+mathematicians started to look
+at the problem differently.
+(gentle inquisitive music)
+- [Derek] Let's take a look
+at our pyramid again.
+One thing to notice is that
+this pyramid is symmetrical.
+When two primes add to make an even number
+on the right side,
+those same two primes make an
+even number on the left side.
+So, to avoid double counting,
+we can look only at the right
+side of this center line.
+And what we find is that
+for very small even
+numbers, like 4, 6, or 8,
+well, there's only one way to write them
+as the sum of two primes.
+But for larger numbers, like 20,
+well, now there are
+multiple different ways
+to write it as the sum of two primes,
+and the further down you go,
+the more combinations you find.
+- So, mathematicians started
+asking a new question,
+not just whether every
+even number can be written
+as the sum of two primes,
+but in how many different
+ways it can be done.
+- [Derek] Let's call that number H of N.
+For example, H of 4 is 1,
+because you can only write 4
+as the sum of primes 2 plus 2.
+H of 20 is 2,
+because that is 3 plus 17, and 7 plus 13.
+H of 42 is 4, and so on.
+(bubble popping)
+Now, so far,
+we're just counting up what
+the value of H should be.
+But in 1923, two English mathematicians,
+G. H. Hardy and John Littlewood,
+tried to come up with a function
+that would estimate H of N.
+To do it, they relied on one
+of the most important results
+from number theory,
+the prime number theorem.
+(harp chiming)
+(bright classical music)
+This tells you that, on average,
+a large number in the neighborhood of N,
+has 1 over the natural logarithm
+of N chance of being prime.
+So here's a crude version of
+what Hardy and Littlewood did.
+They imagined this large even number,
+and they said it equal to 2N.
+So you could split it
+right down the middle at N.
+Now they considered a
+pair of numbers, A and B,
+that together add up to 2N.
+Where A is smaller than
+N, and B is larger.
+They both must differ
+from N by the same amount.
+Let's call it C.
+Now, according to the
+prime number theorem,
+the chance that A is prime is
+1 over the natural algorithm
+of N - C.
+And the chance that B is prime is
+1 over the natural algorithm of N plus C.
+But here's the trick.
+- Most of the times we're talking about Ns
+that are ginormous, that
+are super, super large.
+And if you look at 1 over L and N,
+that function would be something like
+this.
+Where, basically, it drops
+very quickly at the start.
+And, for large numbers,
+it's almost constant.
+So that this C really doesn't
+affect it a whole lot.
+So, for most of the numbers,
+we can, sort of, ignore
+the C, in both cases,
+and it becomes much simpler,
+which is just the chance of A being prime
+is about 1 over L and N,
+and the chance of B being
+prime is about 1 over L and N.
+Now, what's the chance
+that both are prime?
+- [Derek] You're gonna
+multiply 'em together,
+- We're gonna multiply them together
+- [Derek] Still, so far we've
+just looked at one pair,
+while, in total, there are
+about N possible pairs,
+N ways to add up two numbers to get to 2N.
+So we can just multiply the
+chance of one pair being prime
+with the total number of pairs,
+to find the total expected
+number of prime pairs,
+which comes out to about
+N over ln N squared.
+And if we plot this,
+we find that the expected number of ways
+to write any number as
+the sum of two primes
+increases for larger and larger numbers.
+- Hardy and Littlewood, they
+refined this a bit more,
+but essentially what they find,
+you know, is the exact same thing.
+They just have like a
+correction factor in front,
+but then this term is still the same.
+- [Derek] The only problem is
+that this is just an
+estimate, not a proof.
+And as they point out
+in their own conclusion,
+"It is only proof that counts."
+- And that's about as far as they get
+for the strong Goldbach conjecture.
+But on the weak one,
+they have more success.
+(inquisitive pulsing music)
+- [Derek] It all comes back
+to a curious incident 10
+years earlier, in 1913.
+We've invited Elmer, from
+the YouTube channel, Fern,
+to tell you about it.
+(tense inquisitive music)
+- [Elmer] Hardy sits
+at his breakfast table,
+when a strange letter arrives.
+(inquisitive music continuing)
+It's sent by a completely
+unknown mathematician
+from India,
+(camera clicking)
+Srinivasa Ramanujan.
+The letter reads, "I'm
+now about 23 years of age.
+I have no university education,
+but I have undergone the
+ordinary school course.
+After leaving school,
+I've been employing the
+spare time at my disposal
+to work at mathematics."
+Ramanujan writes that he's a poor clerk,
+earning only about 20 pounds a year.
+He's attached some formulas
+and is asking for Hardy's opinion.
+The letter is over 10 pages long
+and is packed with over 100 theorems,
+many of them highly advanced,
+(clicker clicking)
+yet Ramanujan provides no proofs
+and very little explanation.
+Hardy is astounded.
+He has never seen anything like it.
+Some are already known,
+(clock ticking)
+others are completely new,
+(clock ticking)
+unknown to the world.
+(clock ticking)
+And then there are results
+(clock ticking)
+that seem impossible.
+(clock ticking)
+Like that the sum of all
+positive integers up to infinity
+is negative 1 12th.
+How did he come up with this?
+(shutter clicking)
+(inquisitive music continuing)
+Hardy shows a letter to Littlewood.
+The two stay up until midnight
+going through the manuscript,
+debating whether the
+mysterious author is a genius
+or a fraud.
+- But it sounded like Hardy felt
+these couldn't be crank results
+because you couldn't imagine
+them if you were just a crank.
+They're too fantastical
+to be the the work of that
+kind of second rate mind.
+Only a really phenomenal,
+off-the-chart, genius
+could have come up with them.
+- [Elmer] So Hardy writes back.
+The rigorous and strict
+mathematician he is,
+he asks for proof.
+(birds tweeting)
+Ramanujan, however,
+is nothing like Hardy.
+He works on intuition,
+often guided by dreams.
+- He would just see the result,
+or in some mystical
+versions of his own telling,
+he would say that his
+personal goddess, Namagiri,
+would come to him in his dreams,
+and write the formulas on his tongue.
+- Wait on his tongue?
+- On his tongue is the
+version I've sometimes heard.
+But in any case, she
+planted it in his mind.
+- [Elmer] "An equation
+for me has no meaning
+unless it expresses a thought of God."
+Ramanujan never really learned
+how to provide proof to his theorems.
+So Hardy urges him to come to Cambridge
+to explain them in more detail.
+But there's a problem.
+(bird tweeting)
+Ramanujan is a devout Hindu.
+His faith forbids him
+from crossing the sea.
+Then one night his mother has a dream,
+(harp trilling)
+a goddess appears,
+and tells her to let
+Ramanujan fulfill his destiny.
+Convinced by the vision
+she gives her blessing.
+(camera clicking)
+And so,
+Ramanujan finally sets out for England.
+(inspiring music playing)
+In Cambridge, Hardy and
+Ramanujan start working together.
+- I mean, I'm gonna get
+choked up thinking about it.
+It's such a beautiful sentiment.
+Trying to remember how Hardy put it.
+It's something like he thought,
+(gentle music continuing)
+you know, on a scale from 0 to 100,
+you know, maybe he's a 10.
+Littlewood is a 30.
+Like Ramanujan is an 80,
+some kind of crazy thing like that.
+So he knew that Ramanujan was special.
+Hmm, didn't expect to
+get emotional for you,
+but this is what I do when
+I think about Ramanujan.
+(Professor Strogatz laughing)
+- [Elmer] But his new
+life in England is harsh.
+He's not used to the climate,
+(emotional string music)
+he's not used to the
+food, and war is ravaging.
+It will become one of the
+darkest chapters of his life.
+If you wanna know more
+about Ramanujan's struggles,
+and what made him such a genius,
+there's an upcoming video
+on our channel, Fern.
+- [Derek] While Ramanujan struggled,
+Hardy and he did make a breakthrough.
+(hopeful classical music playing)
+Around 1917,
+they invented what's known
+as the circle method,
+and used it to tackle different
+problems in number theory.
+Hardy and Littlewood later
+developed this idea further,
+and for the next a hundred years,
+this would be the main method
+to tackle the weak Goldbach conjecture.
+- But let's remind
+ourselves of the problem.
+We're trying to prove
+that we can always write an odd number,
+large odd number,
+as the sum of three primes.
+Call it P1, P2, and P3.
+(gentle inquisitive music)
+- But just like before,
+we don't only want to know
+whether it's possible,
+but in how many different
+ways it can be done.
+So, Hardy and Littlewood
+imagined a counting machine
+of sorts.
+As input, it would take
+all possible combinations
+of three prime numbers smaller than N.
+(machine ticking)
+For each combination
+it would add them up
+and check if that sum is equal to N.
+And, if it is, the machine
+increments a counter
+by 1.
+(bell dinging)
+But if not, the machine
+does nothing.
+(bell dinging)
+It goes on
+(machine whirring)
+to the next combination.
+(machine whirring)
+Let's do an example.
+(machine whirring)
+Say N is 11.
+Well, the machine first
+checks the primes 2, 2, and 2,
+adds them up to get 6,
+(machine whirring)
+which is not equal to 11.
+So the counter stays at 0.
+(bell dinging)
+Next it tries 2, 2, 3, which is 7.
+So again, it does nothing.
+(bell dinging)
+And it keeps cycling through
+until it hits 2, 2, 7,
+(bell dinging)
+which is equal to 11.
+(machine whirring)
+So now the machine increments the counter
+(bell dinging)
+by 1.
+As it keeps running through primes,
+the counter increments only one more time
+for 3, 3, 5.
+(bell dinging)
+(machine whirring)
+So in total,
+there are two ways
+to write 11
+(bell dinging)
+as the sum of three primes.
+But how would you go about
+building this machine
+out of mathematics?
+(pen scratching)
+Because that is exactly what
+Hardy and Littlewood did.
+Their technique is so ingenious,
+I want to take you
+through it step by step.
+It starts with the
+function E to the I theta.
+This function just
+traces out a unit circle
+in the complex plane.
+The angle theta determines
+how far around the circle you are.
+Now imagine that theta is restricted
+to be some multiple M of 2 pi.
+And since 2 pi is one complete revolution,
+it doesn't matter if M is
+0, 1, 2, 3, or any integer,
+a vector from the origin
+would always point
+in the same direction,
+to the right.
+But now Hardy and Littlewood
+multiply the angle by alpha,
+where alpha is just some
+number between 0 and 1.
+You can think of it as a slider.
+So if M equals 1,
+and you increase alpha from 0,
+well, the vector slowly
+makes one full rotation.
+If M equals 2,
+the vector will move around faster
+and make two full rotations.
+And this keeps going
+for higher values of M.
+Now imagine taking all possible values
+of alpha simultaneously,
+and then averaging out
+all of those vectors.
+Mathematically, we can
+write this as the integral
+from 0, to 1 of E of the
+I 2 pi alpha, D alpha.
+So what happens?
+Well, this vector cancels
+with this one on the opposite side,
+and this one with that one.
+And the same thing happens
+with all the vectors.
+So, averaging them, we get 0.
+The same thing happens if
+M equals 2, or 3, or 4.
+This integral will give
+0 for all values of M.
+Except a single case.
+If M equals 0,
+then we have E to the 0 which equals 1.
+So no matter what alpha is,
+the vector always points to the right,
+and averaging that will always give 1.
+So this equation is very close
+to the machine we were trying to create.
+If M equals 0, it returns 1,
+(bell dinging)
+but if M is not equal to 0,
+it returns 0.
+(bell dinging)
+So all that's left to do is replace M
+with what we're interested in.
+Specifically, is the sum of
+P1 plus P2 plus P3 equal to N?
+We can rearrange that
+to get P1 plus P2 plus P3 minus equals 0.
+So, if we sub in this expression for M,
+then every time the
+three primes add up to N,
+this value will be 0,
+and the integral
+(bell dinging)
+will be equal to one.
+And every time the
+primes don't add up to N,
+this value will be non-zero.
+And so the integral will
+return 0.
+(bell dinging)
+But, right now,
+this equation only checks
+one triplet of primes.
+To check all possible combinations
+of primes smaller than N,
+we need to add a sum.
+Since this will count up
+all the ways three
+primes can add to make N,
+we can call it H of N.
+So in fact, let's try it out.
+Put in N equals 11, compute this function,
+and it gives 6.
+(wind whooshing)
+(paper rustling)
+Which is not the 2
+we found before.
+So what happened?
+Well, we've simplified
+the logic a little bit,
+so we actually get some
+duplicates this time.
+For example, the machine finds 2, 2, 7,
+but also 7, 2, 2, and 2, 7, 2.
+Mathematicians correct for this
+when doing the real calculation,
+but for our purposes, this
+machine is good enough.
+So we've got our H of N,
+and if we can show that
+H of N is at least 1
+for every odd number greater than 5,
+then we've proven the
+weak Goldbach conjecture.
+But there are two issues
+with this approach.
+The first is that we assumed
+that we know all of the
+prime numbers smaller than N,
+which is true when N is small.
+But as N goes to infinity,
+we just don't know all of the primes.
+The second problem is that,
+as the number of primes increases,
+the number of possible
+combinations explodes.
+If N is 10,001,
+there are 1,229 smaller prime numbers,
+which means a total
+of 310 million, 144 thousand,
+296 possible prime triplets.
+Increase N to a billion,
+and the possible combinations jumps up
+to nearly 22 sextillion.
+(soft piano music playing)
+And this trend continues.
+So, using this approach in
+a simple way won't work.
+So Hardy and Littlewood
+came up with a smarter way.
+They fundamentally reframed the problem
+by taking the sum inside the integral.
+Rather than checking all
+possible combinations
+of prime numbers by brute force,
+they now analyze the collective behavior
+of all the primes at once.
+To see how this works, take
+a look at the equation.
+In the exponent is the sum
+of three primes minus N,
+but adding in the exponent is the same
+as multiplying exponentials together.
+So we can rewrite this as the
+product of four exponentials.
+The first three of these
+are actually identical
+because there's nothing to distinguish
+what we call P1, P2, P3.
+They're all prime numbers
+drawn from the same set.
+So we could just call this
+function S of alpha and N,
+and we could multiply it
+by itself three times,
+or just cube it.
+By doing this, H of N is now
+a function of just two things,
+E to the minus I two pi N alpha,
+which is just a complex
+number that you could compute,
+and this new function, S of alpha and N.
+But what is this function?
+Well, let's do an example.
+Again, say N equals 11.
+Then S of alpha and 11 equals
+just a sum of four exponentials,
+each governed by its own prime number.
+You can think of each of
+these exponentials as a clock,
+each with its own prime number
+that determines how fast the clock spins.
+So 2 turns the slowest, 3 turns faster,
+5 turns faster still, and so on.
+But remember, this is a sum.
+So we actually need to add up
+all the clocks tip to tail.
+Now watch what happens
+as we increase alpha.
+All the clocks wind
+around at their own rates.
+What we're interested
+in is not the behavior
+of any individual clock,
+but instead all of them together.
+Since we've chosen a
+pretty small value for N,
+nothing too exciting happens,
+but watch what happens
+if we pick a larger value for N, like 99.
+Now there are 25 prime numbers
+that are smaller than 99,
+and hence 25 clocks in our sum.
+Now as we increase alpha,
+all the clocks, again, wind
+around at their different rates.
+It almost looks like a dragon's tail.
+And for a while everything
+seems kind of chaotic,
+circling around the origin,
+but then, when alpha hits
+1 over 6, the tail unwinds,
+and suddenly almost all the clocks point
+in a similar direction,
+and we get a large resultant value.
+If we increase alpha further,
+the clocks cancel out again
+until we hit the next
+magic point, 1 over 3.
+Here again, many clocks line up.
+And this curious pattern keeps repeating.
+For the majority of values of alpha,
+the clocks cancel each other out.
+But at a few special points, like a half,
+the tail unwinds, the clocks
+interfere constructively,
+and we get a large resultant value.
+- If the angle is, you know,
+360 degrees divided by a whole number,
+you get some very particular behavior
+that's very predictable.
+Those are the angles
+at which this function,
+when you sum the primes,
+they actually go far from from 0.
+And what happens at a random angle,
+and you just start adding the primes up,
+it keeps changing which way it's pointing,
+and the thing just bounces around.
+- So why is this happening?
+Well, let's look at when
+alpha equals a half.
+Here what we're doing is multiplying
+each prime number in
+the exponent by a half.
+In other words, dividing
+each prime number by 2.
+So let's do this for each of the primes.
+In the first column,
+we'll write down how many
+times it can be divided by 2.
+And in the second column we'll
+write down the remainder.
+So 2 divided by 2 equals 1,
+leaving a remainder of 0.
+So we've just made one full rotation.
+3 divided by two is 1,
+but that leaves a remainder of 1,
+so it makes one full rotation
+and then a half rotation.
+5 divided by 2 is 2 with a remainder of 1.
+So it makes two full rotations
+and then a half rotation more.
+Now, we don't really care
+about the first column
+because it doesn't matter
+how many full rotations a clock makes,
+we only care about
+where the arrow ends up.
+And that's fully determined
+by the remainder.
+It's just the remainder times alpha.
+So from now on we'll just
+keep track of the remainders.
+And what we find is
+that all of the other
+remainders are equal to 1.
+So all clocks, except the
+first one, point the same way.
+This is because when we're
+dividing whole numbers by 2,
+there are only two possible
+remainders, 0 or 1.
+And since we're working
+with prime numbers,
+only 2 can have the remainder 0,
+because no other prime number is even,
+therefore, all other primes
+must share the remainder 1.
+(wind whooshing)
+Meaning all those clocks
+end up making another half rotation,
+so they all point left and
+constructively interfere.
+(wind whooshing)
+A similar thing happens
+when alpha equals a third.
+Now each prime is divided by 3.
+So the possible remainders are 0, 1, or 2.
+Again, 3 is the only clock
+that has remainder 0,
+so that points right.
+But all the other primes
+follow a special pattern,
+a pattern that makes the
+entire circle method possible.
+The remaining primes distribute
+themselves roughly equally
+between remainders 1 and 2,
+which means all the
+remaining clocks are rotated
+one third or two thirds of
+the way around the circle.
+Since these clocks are
+pointing to the left,
+again, we get constructive interference.
+And this pattern of constructive
+interference also occurs
+for other small rational fractions.
+But for non-rational numbers,
+you don't get these nicely
+restricted remainders.
+So the clocks are roughly
+distributed equally
+all over the circle,
+and you get destructive interference.
+(upbeat tense music playing)
+Hardy and Littlewood
+realized they could use this.
+Imagine taking this plot
+of the magnitude of the resultant arrow
+and wrapping it around a circle.
+What they found is that the
+majority of the contributions
+come from very small
+regions of the circle,
+what they called the major arcs.
+The rest of the circle only
+adds minor contributions.
+So they called these the minor arcs.
+This allowed them to
+split up their calculation
+into two parts.
+The major arc part gives you the main term
+for how many ways you can write a number N
+as the sum of three primes.
+And the minor arcs just
+gives you an error term.
+(upbeat classical music playing)
+They then showed that,
+if the generalized Riemann
+hypothesis is true,
+then the main term grows
+faster than the error term.
+So eventually, for some large
+enough number, call it K,
+this value will always be larger than 1,
+and the weak Goldbach conjecture holds.
+But there are two problems
+with this approach.
+The first is that they assumed
+that a generalization of the
+Riemann's hypothesis is true,
+which we don't know.
+And the second is
+that they didn't actually
+specify that number, K.
+I mean, how big of a number
+do you need to get to
+before you can guarantee that
+all numbers larger than that
+adhere to Goldbach conjecture?
+- Then we've got to wait until 1937
+when Russian mathematician,
+Ivan Vinogradov,
+proves the same as Hardy and Littlewood.
+But he did it without the
+generalized Riemann hypothesis.
+So, you know, assumption free.
+- It's one thing to just
+assume the Riemann hypothesis,
+and say, "Oh yeah, you
+can make some progress."
+But Vinogradov's like, "No guys,
+you don't need the Riemann hypothesis.
+You can really prove this stuff."
+- But again, he gives
+some large enough number
+for which the weak Goldbach
+conjecture will hold
+without specifying that number.
+And so it's very unsatisfying.
+(bright classical music)
+Over the next 19 years,
+one of his students did
+get that satisfaction
+when he could specify that number.
+Do you want to have any guess
+as to what the number is?
+- 10 to the 50?
+10 to the 80?
+10 of the 3000?
+I don't know.
+I was guessing things that
+are far too low, probably.
+- Yeah, yeah, yeah, yeah.
+It's about 10 to the 6.8 million.
+- Wow, okay.
+- It's huge.
+But then you know, from here on,
+people start working on this method more,
+and they all use the same techniques.
+In 1989, the number was brought
+down to 10 to the 43,000.
+Next it dropped to 10 to the 7,194.
+And by 2002 it had
+dropped all the way down
+to 10 to the 1,346.
+Now that seems so much smaller
+than what we had before,
+but if you compare it
+to how many, you know,
+protons there are in the universe,
+which is 10 to the power 80,
+that's not something you
+can check by computer.
+It's absolutely, absolutely hopeless.
+Even if you turned the whole
+universe into a computer,
+you would still have no
+chance of solving this.
+So it really needed to get dragged down.
+- [Derek] This is roughly where
+the problem stood in 2005,
+when, Peruvian mathematician,
+Harald Helfgott became interested in it.
+(upbeat classical music playing)
+- He was reading papers about
+the weak Goldbach conjecture,
+and new techniques that
+were being developed.
+So these were the cutting
+edge techniques at the time.
+He was reading it and he thought.
+- I can do better.
+I'm having some ideas how to do better.
+And, you know, it took
+me a couple of weeks
+to get better estimates.
+Not still, you know, strong enough
+to revolutionize everything,
+but to make real progress.
+- So he gets to work
+and within a couple of weeks
+he's got better estimates
+than that in the paper.
+So now he's getting more confident,
+like, "Okay, I got this."
+- Of course, I was a bit naive.
+I underestimate some
+difficulties elsewhere.
+(upbeat bright string music)
+- To solve the problem,
+he realized he needed to do two things.
+One, get the computational
+number as high as possible,
+and two, get the constant
+down as much as he could,
+which is where the
+difficult math comes in.
+So, over the next eight years,
+he attacked the problem from both sides.
+Together with David Platt,
+he checked all numbers up
+to 8.8 times 10 to the 30
+by computer.
+And by refining his math,
+he slowly brought down
+the constant number,
+K.
+(numbers ticking)
+By 2013, he gets the
+number all the way down
+to 10 to the 27,
+which is below the number
+that his computers had already checked.
+- So he solved it.
+He wrote up his results
+in a paper called "The Ternary
+Goldbach Conjecture is True,"
+which is quite the mike-drop title.
+So, nearly 300 years after
+Goldbach's original letter,
+Helfgott proved that every
+odd number greater than five
+can be written as the sum of three primes.
+And as a result, he also proved
+that every even number greater than 2,
+can be written as the sum
+of at most four primes.
+This is because you can always just add 3
+to all the odd numbers
+to get all the even numbers.
+- So was it a big deal?
+Were people excited?
+(playful gentle music playing)
+- Yeah, it's a good question.
+I feel like it is mostly
+an obscure problem.
+I think the strong one,
+and this with both of these problems,
+like they don't have
+any direct application
+to the real world.
+(inquisitive music continuing)
+Because it's so simple, it
+has this massive wide appeal,
+and everyone will kind of know about it.
+It's also one of the
+oldest unsolved problems.
+What did you do when you proved it?
+- Well, I put it on the archive.
+Like any normal person.
+It was a big relief.
+- You know, given your success
+(playful piano music playing)
+with the weak form of
+the Goldbach conjecture,
+how do you feel about the strong form?
+- Oh, I think that's
+hopeless for the moment.
+(Casper laughing)
+And if it yields.
+If it were to yield during our lifetimes,
+I wouldn't bet on it,
+in fact, I would bet against it.
+- See, the reason the circle method works
+for the weak Goldbach conjecture is
+because this main term grows
+faster than this error term.
+But that's not the case for
+the strong Goldbach conjecture.
+- The major arcs are no longer major.
+The main contribution
+comes from the minor arc.
+So at least as much of the contribution
+comes from the minor arcs.
+- So, to solve the strong conjecture,
+we need some fundamentally
+new technique, or approach,
+but we haven't found it yet.
+(tense classical music playing)
+- The person who arguably got the closest
+was Chen Jingrun.
+(pen scratching)
+In 1956, Chen was recognized
+for his mathematical prowess,
+and, a year later, he became an assistant
+at the Chinese Academy of Sciences,
+where he spent the next 10
+years working on problems
+in number theory,
+including Goldbach's conjecture.
+By 1966, he hit a major breakthrough.
+By using another approach,
+known as sieve methods,
+he proved that every
+sufficiently large even number
+is the sum of a prime and a
+number that's either a prime,
+or the product of exactly two primes,
+what we call a semi prime.
+- It's a very learned and brilliant proof.
+I think Andre Weil compared
+following his proof,
+is like climbing along
+the top of the Himalayas.
+(wind whooshing)
+You know, that you're way up high
+in (laughing) practically
+the stratosphere.
+It's such a sophisticated argument.
+- This was the closest anyone had gotten
+to solving the problem.
+(playful music continuing)
+Elated, Chen showed the
+proof to a colleague,
+who suggested he should
+announce the result,
+and then tidy it up before publishing.
+- But just as Chen announced his result,
+the country plunged into chaos.
+(dramatic music)
+(crowd shouting)
+- [Derek] In May, 1966,
+chairman of the Communist
+Party, Mao Zedong, declared
+that bourgeois elements had
+infiltrated the government
+and society,
+and they must be purged.
+This marked the start of
+the Cultural Revolution,
+a radical campaign to defeat
+perceived enemies of the Party.
+With support from Mao,
+militant student revolutionaries,
+known as the Red Guard,
+(soldiers marching)
+stormed institutions.
+(soldiers marching)
+They burned books and
+turned on intellectuals.
+Teachers, scientists, and
+professors were subjected
+to brutal public spectacles,
+known as struggle sessions.
+They were beaten, humiliated,
+and forced to wear towering caps,
+and placards listing
+their supposed crimes,
+like capitalist sympathizer
+or enemy of the revolution.
+(emotional soft music)
+Across China,
+the pursuit of knowledge
+was replaced by fear
+and political conflict.
+By 1968, 131 of the 171 senior members
+of the Chinese Academy
+of Sciences in Beijing
+faced persecution.
+And many others lost their lives.
+- Chen was one of the targets.
+(shove rattling)
+He was forced
+into manual labor,
+(fire crackling)
+and made to live
+in a converted boiler
+room with no electricity.
+(shove rattling)
+The Red Guard insulted him,
+spat on him,
+and beat him so badly that
+Chen often lost consciousness.
+- In one report, it was so bad
+that he may have tried to commit suicide.
+He jumped off of a third story building
+and, fortunately, didn't hit the ground.
+He landed on the second
+floor, and got injured,
+but didn't die.
+- [Derek] Despite all of this,
+(tense music playing)
+Chen kept secretly working on his math
+under the dim light of a kerosene lamp.
+Then on the 13th of September,
+(plane whirring)
+1971,
+Mao's right-hand man died
+(camera clicking)
+in a mysterious plane crash.
+(camera clicking)
+After supposedly trying organize a coup.
+His death shattered the
+illusion of unity in the Party,
+(clicker clicking)
+and the cultural revolution
+began to lose steam.
+(clicker clicking)
+(bright dramatic music)
+- But Chen faced a dilemma.
+On the one hand, he wanted
+to publish his proof,
+but on the other he was
+terrified of being criticized,
+Unsure what to do, he
+turned to Luo Shengxiong,
+the head of the mathematical institute,
+who told him, "The result is sound.
+You must publish."
+(dramatic music continuing)
+- [Derek] And so in April, 1973,
+Chen published his theorem.
+Three years later, Mao Zedong died
+and the Cultural Revolution ended.
+Famous journalist, Xu Chi
+took note of Chen's story,
+and wrote an article about
+his achievements and hardship.
+(uplifting music)
+The article was reprinted
+in China's most popular newspaper,
+and read by millions.
+The State that, just 10
+years earlier, silenced Chen
+now celebrated him as a national hero.
+His story was retold in
+schools, books, and films.
+He even got an asteroid
+named after him in 1996.
+- And imagine if he
+hadn't done it, you know,
+if he hadn't published it.
+Like all his work, his whole mission,
+his whole ideals, his whole vision,
+maybe no one would've known about it.
+It would've just been a
+little line somewhere,
+like, "Oh, I've got this proof, but, yeah,
+I'm not gonna show it to you."
+You know?
+But so often we like shoot ourselves down,
+whereas really do your best
+and then put it out into the world,
+and then let the world,
+sort of, like evaluate it.
+And while Chen got incredibly close,
+he was never able to
+fulfill his ultimate dream,
+to solve the strong Goldbach conjecture.
+(dramatic music playing)
+Perhaps one reason
+why it's so hard to prove true is
+because maybe it's not.
+Maybe it's false.
+But if it is false,
+then there's a very easy way to show that,
+by finding a counter example.
+A single even number
+that can't be written as
+the sum of two primes.
+- If Goldbach is false,
+it would be very easy
+for you to convince me
+that Goldbach is false.
+- Just find a counter example.
+- That is the only way
+that you can convince me
+that Goldbach is false.
+If Goldbach is false,
+then it's false because
+there's a counter example.
+And if there's a counter example,
+then you can give me the counter example,
+and I can check for myself,
+then, yes, that's a counter example.
+- [Casper] In this pursuit, in 1938,
+a mathematician, named Nils Pipping,
+checked all numbers up to a
+hundred thousand, by hand,
+but he didn't find a
+single counterexample.
+Since then, modern computers
+have brought this number up
+to four quintillion,
+and the conjecture holds for
+every single one of them.
+- [Derek] In fact,
+we can also use computers to check
+in just how many ways a
+different number can be written
+as the sum of two primes,
+(bright music)
+which gives us this pattern.
+It looks like a curve with tails,
+it strongly resembles a comet,
+which is why this is
+known as Goldbach's comet.
+It shows that as the number gets larger,
+there are more and more ways
+to write every even number
+as the sum of two primes.
+And if we overlay our
+heuristic argument from before,
+we find that it matches
+up remarkably well.
+- The one way the conjecture
+could be false is if,
+for whatever reason, at
+some very large number,
+there's a conspiracy where
+this completely breaks down,
+and it suddenly drops below that line.
+Are there any examples
+where you suddenly have a big drop
+in the number of ways you can compose
+a number?
+- No, no,
+those asymptotics seem
+to hold very nicely.
+There are no big drops.
+- [Derek] So it seems like
+the conjecture should be true.
+- We've tested, by brute force,
+all the numbers up to four quintillion,
+and they all obey Goldbach's conjecture.
+So you might think
+that we should have found
+a counterexample by now,
+or, at least, a number
+that doesn't follow this
+general trend we've seen.
+But, on the scale of all numbers,
+four quintillion is nothing.
+So we'll have to come up
+with some smart approach,
+or fundamentally new way,
+of solving this problem.
+Now, as far as we know,
+solving Goldbach's conjecture
+doesn't really affect
+any other areas of math.
+And it also doesn't seem to
+have any direct applications
+to the real world.
+So you might think, why
+bother solving this problem?
+Why not work on some big problem
+that we know is important?
+But I think that misses the point.
+(gentle inquisitive music)
+- What if the Goldbach
+conjectures turns out
+it is opening up a whole
+new part of the multiverse
+of mathematical ideas.
+We don't really know
+'cause we don't have the bird's eye view,
+or the God's eye view, of math.
+It's what it looks like to us
+right now on the web of math.
+So, I tend to dislike this picture
+of certain things are central
+(inquisitive music continuing)
+and other things are peripheral.
+People should do what fires them up.
+Because if you do that,
+you'll be passionate,
+you'll think about it all the time.
+You'll do it when you're in the shower.
+You'll think about it when you're driving.
+And you might do something remarkable
+because of that passion.
+And if you're just doing something
+'cause you think it's important,
+I think you'll tend to be second
+rate, honestly. (laughing)
+I like the modest view
+that we don't know what's
+necessarily important,
+but we do know what we love.
+So work on that.
+(electronics whirring)
+(inquisitive music continuing)
+- Goldbach's conjecture
+frustrated mathematicians
+for centuries.
+And, for a long time,
+(wind whooshing)
+it seemed like
+an unsolvable problem.
+Many gave up,
+thinking it was just too big to tackle.
+But as we've seen,
+it only takes a few incredibly
+determined individuals
+who reject the status quo
+to keep pushing towards a solution.
+And it's not just big math problems.
+Life is full of inconveniences
+(bright happy music)
+that some of us just start
+to accept as unsolvable.
+For me, shaving was one of these things.
+The irritation, the razor burn,
+the cost of constantly replacing razors.
+It felt like something I just
+kinda had to put up with.
+But then I started using
+(choir vocalizing)
+the Henson Razor,
+and I can honestly say
+it was a game changer.
+(upbeat joyful music)
+I've been using it
+ever since we first started
+working together two years ago,
+and now I don't go anywhere without it.
+And it's not just me.
+(clicker clicking)
+Many of you have shared
+your experiences too.
+The experts from Henson come
+from the aerospace world
+and they applied the same obsessive focus
+to create a better shaving experience.
+Their razor is made using CNC machines,
+which are capable of achieving
+incredibly tight tolerances.
+The razor blades stick
+out just 0.03 millimeters.
+That means that the blade
+is perfectly supported,
+so it maintains its precise
+30 degree cutting angle,
+and it reduces chaffer,
+the tiny up and down vibrations
+that can cause skin irritation.
+If you want a better shaving experience,
+engineered by experts,
+head over to hensonshaving.com/veritasium.
+Use my code "veritasium"
+for a hundred free blades
+with the purchase of any razor.
+Make sure to add both the razor
+and the blades to your cart
+for the code to take effect.
+And try the Henson Razor for yourself.
+I wanna thank Henson for
+sponsoring this video
+and I want to thank you for watching.

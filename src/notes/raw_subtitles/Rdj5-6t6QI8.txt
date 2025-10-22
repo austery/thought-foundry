@@ -1,0 +1,895 @@
+- Let's torch it!
+Previously on Veritasium, we
+learned how Hans Goldschmidt
+discovered that metal oxide-like rust
+can react with aluminum powder
+to produce pure liquid metal.
+Oh!
+Reactions of this type are
+known as thermite reactions.
+(dramatic music)
+Whoa! (laughs)
+Whoa! Yeah!
+(explosions popping)
+That is crazy!
+Wow.
+(dramatic music continues)
+Initially, thermite found
+limited applications,
+repairing heavy machinery
+in remote locations.
+It's much more common use,
+The one where it's widely employed today,
+took a bit more convincing.
+There is one sound that everyone
+associates with railroads.
+(soft banjo music)
+(train wheels clacking)
+This is the sound of
+train wheels passing over
+the join between one rail and the next.
+In the early days of railroads,
+steel mills produced rails
+that were around 12 meters long.
+Then, out in the field,
+these were bolted together
+using fish plates.
+(soft banjo music fades)
+- That would create these little gaps
+between the pieces of rail.
+And cause this kinda like signature sound,
+This ta-tak, ta-tak, right?
+And everybody who thinks railroad,
+this this ta-tak, ta-tak, ta-tak, ta-tak,
+even though we don't hear that anymore.
+But we still imagine it
+because it was so signature
+for the sound to ride on the train
+(train wheels clacking)
+- The track would flex, causing
+the train to rock and roll,
+and it would also increase
+the wear on the wheels
+and create vibrations in the tracks,
+so they required frequent maintenance.
+So you might expect that
+after thermite was invented,
+railroads would've been excited
+to weld their rails
+together with liquid metal,
+but that was not the case.
+(soft whimsical music)
+- They would never have
+the idea to weld them.
+If he'd come to a railroad
+manager and told them,
+"I'm Dr. Hans Goldschmidt,
+I have a process by which I
+can weld your thumbs together."
+To these railroad managers,
+that would've sounded more useful
+than what he actually proposed,
+which was welding their rail.
+- See, the gaps between rails
+were considered essential,
+because railroads are
+exposed to the elements
+all year round.
+So, they shrink when
+they get cold in winter,
+and expand in the heat of summer.
+An increase of 40 degrees Celsius
+would cause a 12 meter length of rail
+to grow by six millimeters.
+Without gaps in the rail,
+people expected kilometers of railway
+to expand and buckle,
+leading to the worst possible outcome.
+Train derailments.
+So if someone pitched,
+"We're just gonna connect
+all the rails together."
+That would be a terrible idea.
+- That would be a terrible idea.
+(dramatic music)
+The longer the rail, the bigger the gap,
+the bigger the problem.
+And now somebody says, "Hey,
+I can make an infinite rail."
+That just causes an infinite problem.
+(dramatic music continues)
+- The first ones that were
+actually willing to discuss this
+were the tram rails.
+Tram rails, they're in cities,
+they're embedded into the streets.
+Tram rail is much, much smaller,
+so the forces are much less.
+So, the tram rails were the first ones
+that were interested in,
+"How can we kind of get rid
+of this ta-tak, ta-tak?"
+Because it's kind of annoying,
+you know, in the middle of the street.
+That was basically the first attempts.
+And I think in Essen, and
+then later on in other cities
+(mellow guitar music)
+- For this video, I got the opportunity
+to weld two rails together using thermite.
+And I'm going to take you through
+the eight steps in the process.
+First, I'll show you how I did it...
+(Derek sighs)
+Man, this is difficult.
+And then we'll compare that
+with how the pros do it.
+All experiments were performed
+under the supervision of professionals,
+with proper safety precautions.
+Okay. We're out here in
+the German countryside,
+and tonight they're going
+to be welding this rail.
+They're gonna do like 150 welds tonight.
+(mellow guitar music fades)
+When you're welding rail for real,
+you wanna do it at the neutral
+temperature of the rail.
+That is, a predefined
+temperature at which the rail
+should have no stress in it.
+- And is the temperature by
+which that piece of track
+that you're welding in,
+is supposed to have zero tension.
+When it gets colder than this,
+there's going to be negative tension,
+and when it gets warmer,
+there's positive tension.
+- And since we were filming
+in Germany in the summer,
+they weld at night, after
+the rail has cooled off.
+Initially, when the rails are laid out,
+they're placed so they're
+touching each other.
+And the first step in welding rail
+is therefore to create a gap into which
+we'll pour the liquid thermite steel.
+So, you have to cut about
+two and a half centimeters
+off the end of one rail.
+This can be done with a circular saw.
+Let's do this.
+(circular saw revs)
+Cutting a rail.
+Out in the field, they cut
+their gap with a torch.
+(mellow guitar music)
+Looks good.
+(circular saw buzzing)
+(mellow guitar music continues)
+Whew!
+I just need to take a little break.
+Ugh.
+That is really exhausting.
+(circular saw buzzing)
+The next step is to line up the rail
+so the weld will make
+a seamless connection.
+Both rails have to be angled
+slightly up toward the gap.
+This is because when the liquid
+thermite steel is poured in,
+it will contract as it cools,
+which creates an inward pulling force.
+But that force won't
+be the same everywhere.
+Since there's more metal at the top,
+there's more force pulling
+the rail together there.
+So, that's why the rails
+have to be angled up,
+so that after the liquid steel contracts,
+the rails will be perfectly flat.
+- Now you take one of the wrenches,
+and put it a little bit under the rail.
+- Like there? Or like this?
+Sideways.
+- Sideways would be a little bit better.
+- Yep.
+(metal clangs)
+- [Christoph] Yep, that's fine.
+- [Derek] Okay.
+- Same goes for the other side.
+We will check.
+There's no gap at the moment.
+We need 2.42, 3.6 here.
+Hit it.
+(hammer clangs)
+But now this rail is way
+higher than this one,
+and we want to have both on the same high.
+Means now we have to hit this batch.
+We do that so long until
+we have correct height.
+(hammer clangs)
+(whimsical music)
+Okay, stop.
+Up.
+(hammer clangs)
+- In addition to the vertical alignment,
+the rails also have to
+be horizontally aligned.
+- [Christoph] If we take a look here,
+there's a large gap between the
+straight edge and the rails.
+- [Derek] There's a gap there.
+- [Christoph] And they need to-
+- [Derek] We need more
+of a peak this side.
+- [Christoph] Yeah.
+- Okay.
+(hammer clangs)
+And it's a frustrating process,
+because trying to align them horizontally
+throws out the vertical
+alignment and vice versa.
+I'm lucky I had help, or I
+would've been here for hours.
+When we were finally done that,
+we double checked the alignment
+at the head and foot of the rail,
+and we made a terrifying discovery.
+- Our rail is twisted.
+- [Derek] Even though both
+rails were aligned at the top,
+One rail was slightly twisted
+relative to the other,
+which you can see by it
+not lining up at the foot.
+- [Christoph] We have a maximum tolerance
+that is allowed here of two millimeters.
+- [Derek] Yep.
+- Here we have more than two millimeters,
+so we have to untwist the rail.
+- This, of course,
+throughout the vertical
+and horizontal alignment,
+so we had to do that all over again.
+(hammer clangs)
+Are we getting closer?
+- [Christoph] A little bit more.
+(hammer clangs)
+- [Derek] But out in the field,
+the guys align the rail
+so quickly and easily,
+It really is an art.
+(hammers clanging)
+(objects rattling)
+- Now we can adjust the clamping device.
+- [Derek] This will hold the mold shoes
+and preheating torch in place.
+- The preheating torch will sit in here.
+- Yeah.
+- [Christoph] And we will
+keep the molds in place
+with that arms here.
+- Okay.
+- [Christoph] The next step,
+we will align the burner.
+- It's really important to
+align the torch properly,
+so that both sides of the
+rail get heated equally.
+I mean, I think it looks pretty good,
+but maybe a little bit that way,
+so maybe it could go just a touch.
+- [Christoph] There's one
+mold, and the plug for you.
+- [Derek] Next, we'll put the
+molds inside the mold shoes,
+attach them to the clamps...
+Line 'em up.
+And align both sides.
+It's essential to make
+the seal water tight,
+because liquid steel
+is as liquid as water,
+but almost eight times more dense.
+So if it's not sealed properly,
+the steel would just pour out.
+It looks pretty good.
+- [Christoph] I hope so.
+(both laughing)
+- I didn't expect us to get
+it this good on our first go,
+after just the trouble aligning the rails.
+(whimsical music)
+- The alining the rails is
+one of the hardest parts.
+- Ugh.
+It's madness.
+So, this is sand? Like beach sand?
+- No, it has larger amount of clay inside.
+It holds in place and seals.
+I will start sealing this side,
+you can start sealing this side.
+I start sealing with hand,
+and I will compact it
+with stamping the walls.
+(whimsical music)
+(tools clattering)
+- [Derek] And to make sure
+that none of the liquid metal
+can spill out,
+we pack in additional sand
+all over on the sides,
+so there's absolutely no gaps.
+(tense music)
+Then it's time for one of
+the most crucial steps,
+to preheat the rail.
+- [Christoph] Put it
+in, tighten the screw,
+and the opening the valve.
+- [Derek] We also prepared
+a demo behind glass,
+so we can see into the welding process,
+including preheating.
+Preheating is essential for a few reasons.
+First, it gets rid of any moisture
+and other volatiles in the mold,
+which would create bubbles
+when the molten steel is poured in.
+Second, it makes both
+rail ends really hot,
+which is crucial because
+the rate of heat transferred
+depends on the difference in temperature
+between two materials.
+If we poured liquid steel in between
+two room temperature rails,
+well, the liquid steel would cool rapidly,
+and that's a problem.
+(tense music)
+- We will heat up two pieces of rail...
+(torch hisses)
+And we will cool down one
+really fast in water...
+(torch hisses)
+And the other one we will
+cool down in sand, so, slowly.
+(tense music continues)
+Just to show how the hardness increase
+depending on the cool-down time.
+And now you try to break it.
+- That's hard to bend, actually.
+(Derek grunts)
+(whimsical music)
+(tool clangs)
+(hammer thuds)
+Yeah, it's hard to bend.
+That's the one that was in the water.
+- Yeah.
+And we cooled it down really fast.
+(whimsical music continues)
+(metal clangs)
+And that is how to break it.
+And now you see how the structure
+of the steel has changed.
+It breaks very easily.
+- [Derek] That's because
+when steel cools rapidly,
+carbon atoms get trapped in the lattice,
+creating this needle-like microstructure.
+And that forms a kind of
+steel known as martensite.
+Martensite is really
+hard, but also brittle,
+since the lattice can
+no longer absorb energy
+without fracturing.
+(whimsical music fades)
+(metal clangs)
+(tense music)
+- Now we can take a look on the clock.
+- Yep.
+- We have 1.5 minutes until
+we have to remove it again.
+- Okay.
+The next step is to ignite the thermite.
+And it's important to do this right after
+we turn off the preheating.
+- Five, four, three...
+Two, one.
+- So, I put the plug in the mold,
+and then the thermite bucket on top,
+and then I ignited it...
+(flame hisses)
+Oh my goodness, no!
+(tense music)
+In making these videos,
+the team and I often
+travel around the world
+talking to scientists and
+filming at research facilities.
+I mean, guess where I am right now?
+We filmed part one of
+this video in Germany.
+Casper's been in the Netherlands
+learning about strongbase,
+and Peter has just come
+back from trying and failing
+to break glass in New York.
+It is a great job perk,
+but there is one really annoying problem,
+which is that it's hard to stay connected
+with the rest of the team
+while we're out on location.
+We either have to pay
+ridiculous roaming charges,
+or find a local sim card,
+or just search around for public wifi.
+And as you can imagine,
+this isn't something we
+really wanna be dealing with
+while we're making a video.
+Which is why we use this
+video sponsor, Saily.
+Saily makes it incredibly
+easy and affordable
+to stay connected while you're abroad.
+You download it once,
+and then you can use it
+in over 180 countries.
+Just choose how much data you want,
+how long you want it for,
+and it's super quick to set up.
+All you have to do is select
+the country and the plan,
+then activate the eSIM, and you're done.
+It's also much cheaper than roaming.
+Then when you land, you
+can automatically connect
+to a local network with no hidden charges,
+and you're able to do the
+important things like access maps,
+book a car, or make calls.
+So for your next trip, make
+sure you scan this QR code
+to download the app,
+choose a plan in the
+country you're traveling to.
+And here's the most important thing,
+use our code "Veritasium" at checkout
+to get an exclusive 15%
+off your first purchase.
+So, scan that code, checkout
+with code "Veritasium",
+and get ready for traveling.
+So I wanna say a big thank you to Saily
+for sponsoring this video,
+and now back to thermite welding.
+(tense music)
+Oh my goodness!
+(Derek laughs)
+(intense music)
+Woo!
+Wow!
+(intense music continues)
+So, the thermite reaction
+is taking place inside.
+We're forming molten steel and
+also molten aluminum oxide.
+(intense music continues)
+All these demos are
+incredibly difficult to shoot,
+because they're gonna be many, many
+orders of magnitude brighter
+than the normal scene.
+So, just getting exposure
+is a huge challenge.
+Something this reminds me of
+is that the power radiated
+by something thermally
+is proportional to temperature
+to the power of four.
+So, slight increases in temperature
+result in huge increases in power.
+(dark tense music)
+(torch hisses)
+(dark tense music continues)
+In the previous video,
+we showed what happened in
+the crucible through glass.
+So, you can see the liquid steel
+and the liquid aluminum oxide
+forming and separating out,
+and then the liquid steel
+dropping out the bottom.
+Well, here we get to see that liquid steel
+falling into the mold.
+(dark tense music continues)
+So, the liquid steel comes in first,
+and it goes all the way to the bottom.
+Next, the slag starts to come out.
+But since aluminum oxide has
+a lower density than steel,
+it's just gonna float on top,
+and go out the sides into the slag pans.
+So, that makes sure that
+we don't get any slag
+mixed in with the liquid steel.
+- That is so awesome.
+- [Derek] Yeah.
+- [Axel] That is just spectacular.
+Whoa!
+- [Derek] Ah, that is brilliant.
+(tense music)
+- And now we wait.
+We need the steel to cool long
+enough so that it's solid,
+but not too long so that
+the excess steel and slag
+is difficult to remove.
+You have to get the time right.
+What does he think?
+You guys tell me if
+it's not liquid anymore.
+I believe you.
+- Oh, two minutes passed.
+So, let's wait 30 seconds more.
+- [Derek] After that time has elapsed,
+then it's time to essentially
+clean up this weld.
+So, we can remove the slag
+pans and the mold shoes.
+(objects clanging)
+And we break off the top of this mold.
+(soft dramatic music)
+These are really single use molds.
+They get destroyed in this process.
+(machinery humming)
+- [Christoph] And now
+we put it on the side.
+- Put this...
+By the slag pens?
+- [Christoph] That's fine.
+- Then we used a weld shear
+that can create up to 20 tons of force
+to shear off the excess steel
+from the top of the weld.
+(weld shear buzzes)
+(soft dramatic music fades)
+(tense music)
+And after that's done,
+we hammered off the
+remaining excess parts.
+(hammer bangs)
+That's fun, actually. I like that step.
+The next step is to grind down the weld,
+so it's exactly the
+same level as the rail.
+Obviously, you don't want any bumps
+when the train is going over it,
+but also you don't want any indents,
+so this grinding step is really important.
+- So, we put on the grinding machine,
+and grind until maximum one
+millimeter of materials left.
+And we try to only grind
+on top of the weld.
+- Yeah.
+(grinder whirring)
+(intense music)
+(grinders buzzing)
+It's normally conducted in two phases.
+First there's a rough grind,
+and then a finer grind is applied later.
+- And we only grinded the top surface.
+- Yep.
+- We did not grind the running flank.
+- Yep.
+- [Christoph] Then you have to lift down
+the grinding device,
+and hold everything so it's even heavier
+than the part we've done before.
+That's rough grinding right there.
+- I'm sweating'
+It's like a serious workout.
+(Derek chuckles)
+The guys in the field
+were obviously much better
+at grinding down the rail than I was.
+So, they would move on,
+leaving a still glowing hot
+section of the rail behind them.
+(mellow music fades)
+There probably will be millions of people
+watching this video.
+What is the likelihood
+that they have ridden over
+one of your thermite welds?
+- They will.
+- Hundred percent.
+- Hundred percent.
+- Anywhere in the world?
+- Anywhere in the world.
+Of course, there is countries-
+- North Korea.
+- Where are not the market
+leader or something, but...
+Finally they will ride above our welds.
+(soft tense music)
+- [Axel] We'll just cut it out,
+and then take it over
+to the methodology lab.
+(Derek grunts)
+- That is heavy.
+Oh!
+That's my weld.
+My first thermite weld.
+Man, that is hot.
+(Derek exhales)
+- This is what you have done yesterday.
+We can now put it in the acid.
+- What does the acid do to the surface?
+- The acid attacks the steel.
+But because the orientation
+of the crystals,
+inside the steel is not the same,
+the acid attacks it not in
+the same way everywhere.
+And because this is different,
+you can see different structures.
+You can see some fine
+structures in the rail,
+in the heat-affected zone,
+and in, let's say, the fusion zone.
+- Mhm.
+Can I touch it?
+- Yeah.
+- [Derek] Yeah, you can't really feel it.
+- [Christopher] It's a microscopic basis.
+- Yeah.
+- You cannot feel it.
+- It's interesting, you
+can see it, but not-
+- Yeah.
+- [Derek] And it's a very fine line.
+- [Christoph] I mean, you can
+see the different structures
+of the crystals even.
+- [Derek] In the weld, you
+can see three different zones.
+The normal rail is on either
+side with a horizontal grain,
+due to how it was rolled
+in the steel mill.
+In the middle is the thermite steel.
+You can still see a bit
+of horizontal grain,
+but here it doesn't come
+from the steel being rolled,
+since this just solidified from liquid.
+Instead, it formed from
+the solidification front,
+moving from the sides to the center.
+And when the crystals
+from both sides meet,
+it creates tiny microscopic pores,
+resulting in this darker
+line in the center.
+Now, the boundary of the
+thermite steel isn't sharp.
+And that's because as the
+liquid steel pours in,
+it actually melts some of the rail.
+This helps it form a strong bond.
+- A good weld would be enough
+with just one atom layer fused.
+But we are using the process
+on a construction site.
+And on the construction site,
+not everything is so good
+handled like in a laboratory.
+The gap is not a hundred
+percent, always the same.
+So, we need something robust,
+which functions on construction sites.
+- [Derek] In Germany,
+regulations require melting
+of about three millimeters off each rail.
+The final zone is in
+between the normal rail
+and the thermite steel.
+This steel didn't melt,
+but it received enough heat
+that the crystal structure changed,
+resulting in a smaller grain structure.
+This is known as the Heat Affected Zone.
+If you measure the
+hardness across the weld,
+this zone is actually the weakest,
+both in terms of hardness and yield.
+The amount of force it takes
+to permanently deform the steel.
+So if a weld breaks,
+it's almost always here.
+- [Christoph] That's a line you could see
+on that macro etching.
+Thermite.
+- [Derek] Yep.
+- That's a fusion line.
+And here we have now
+rail seal heat affected.
+So, the structure is
+changed by heating up,
+and then re-crystallization of the steel.
+- [Derek] So then I guess the question is,
+how strong is rail that's been welded?
+Well, at Goldschmidt, they
+actually take sections of rail
+that they have welded,
+and they test them until failure.
+- Every 200, basically,
+we create one test weld,
+and we analyze it in terms of chemistry,
+we analyze it in terms of hardness,
+and we analyze the bending.
+And this is the bending press.
+They put this in, right?
+And then the force comes
+from top and then goes down,
+and it breaks it.
+And we measure the speed
+and also the force.
+I'd say, it looks like it's flexing a bit.
+- So we're loading up that
+weld, bending it until it snaps.
+See that curve go.
+We wanna see how much
+force it takes to snap,
+and exactly where that break occurs.
+140 tons.
+It's getting really deflected now.
+- Yes.
+- Yeah.
+- 150 tons.
+(metal clangs)
+Ooh! That was cool.
+I was just expecting a little crack,
+like that was catastrophic failure.
+(person laughs)
+Just over 150 tons.
+So, we think the crack propagated
+from the bottom upwards?
+'Cause it's being pushed down like that.
+So, this is under a lot of tension.
+- [Axel] Yes.
+- So, it breaks under tension
+down here, rips up this way.
+And so it doesn't break
+in the middle of the weld.
+You're saying this zone beside it,
+which is a previous rail material
+that got heated up in the weld.
+- Yeah.
+- Is actually weaker.
+- Yes.
+- [Derek] Whoosh.
+(grinder buzzes)
+Every year, around 2 million welds
+are performed using thermite.
+And around half use
+Goldschmidt's thermite.
+Now, each weld creates about
+two and a half centimeters of rail.
+So, in total, that's 50
+kilometers of railroad
+created every year out of liquid steel.
+- You have a very demanding process,
+and you have to make sure that
+there's certain properties
+with respect to bending,
+with respect to tension,
+with respect to hardness.
+(soft music)
+That's a process that needs
+to be kind of replicated
+every, every, every time,
+a million times a year.
+- So, with all this continuously welded
+rail around the world,
+why doesn't it buckle in
+summer when it heats up?
+Well, that's because there's another way
+to change the length of the rail.
+Okay, imagine a piece of rail.
+If we use a powerful machine
+to push on it from both sides,
+it will shorten slightly.
+And if on the other hand
+we pull on the rail,
+it will lengthen.
+So, you can use mechanical stress
+to change the length of the rail.
+The fractional change in
+length is called "strain".
+And if you plot the relationship
+between stress and strain,
+you find it has a linear relationship,
+at least with elastic deformation.
+As long as the stresses
+applied are not too large,
+the rail will spring back
+to its original length
+when the stress is removed.
+And this is key, because
+as long as we do that,
+we have two ways to change the length.
+Thermal and mechanical.
+And we can use one to
+compensate for the other.
+When the rail thermally wants to expand,
+we can use mechanical
+forces to compress it.
+This is what the sleepers
+and the ballast are for.
+The sleepers pin down the rail,
+and the ballast locks
+the sleepers in place.
+So as the temperature increases,
+the rail doesn't lengthen.
+Instead, the stress in the rail,
+the compressive stress increases.
+And the rail just expands
+to the top =and sides,
+which are unconstrained.
+It's also interesting to note
+that railroads typically use
+as high of a neutral
+temperature as they can,
+because a rail that
+shrinks too much in winter
+and cracks under tension
+is less problematic
+than one that expands too much in summer,
+and therefore buckles.
+It's also easier to detect a cracked rail
+using conductivity measurements
+than one that has buckled.
+So, thermal expansion and contraction
+are counteracted by mechanical stress.
+That is the reason why we don't need
+expansion joints in railways.
+It allows trains to go faster
+with fewer bumps and vibrations,
+and much less maintenance.
+Grady from Practical
+Engineering actually made
+a whole video about
+this, and it's excellent.
+I'd recommend it.
+So far, we've seen thermite
+under normal conditions.
+Wow!
+Conditions that are expertly tuned
+to protect thermite from its environment.
+Oh, oh, oh!
+But in the next thermite episode,
+we'll find out what happens
+when this is not the case.
+And we'll learn how to work with thermite
+under these conditions.
+(explosions booming)
+So trust me, you don't
+want to miss part three.
+- [Cameraman] My hands are shaking.
+- Right?
+Make sure you're
+subscribed to get notified
+when that video comes out.
+(electronic beeping)

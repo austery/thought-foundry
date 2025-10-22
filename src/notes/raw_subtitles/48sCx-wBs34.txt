@@ -1,0 +1,290 @@
+A portion of this video was sponsored by lastpass
+This video is about a pattern people thought was impossible, and a material that wasn't supposed to exist.
+The story begins over 400 years ago in Prague
+I'm now in Prague and the Czech Republic, which is perhaps my favorite European city that I've visited so far.
+I'm going to visit the Kepler museum,
+because he's one of the most famous scientists who lived and worked around Prague.
+I want to tell you five things about Johannes Kepler that are essential to our story.
+Number one: Kepler is most famous for figuring out that the shapes of planetary orbits are ellipses,
+but before he came to this realization,
+He invented a model of the solar system
+He invented a model of the solar system in which the planets were on nested spheres separated by the platonic solids
+What are the platonic solids?
+Well they are objects where all of the faces are identical and all of the vertices are identical
+which means you can rotate them through some angle, and they look the same as they did before
+So the cube is an obvious example.
+Then you also have the tetrahedron,
+the octahedron,
+the dodecahedron which has 12 pentagonal sides,
+and the icosahedron which has 20 sides.
+And that's it. There are just five platonic solids.
+Which was convenient for Kepler because in his day they only knew about six planets
+So this allowed him to put a unique platonic solid between each of the planetary spheres
+Essentially he used them as spacers
+He carefully selected the order of the platonic solids
+so that the distances between planets would match astronomical observations as closely as possible
+He had this deep abiding belief that there was some geometric regularity in the universe
+and of course there is. Just not this.
+Two: Kepler's attraction to geometry extended to more practical questions like,
+How do you stack cannonballs so they take up the least space on a ship's deck?
+By 1611 Kepler had an answer:
+hexagonal close packing and the face centered cubic arrangement
+are both equivalently and optimally efficient,
+with cannonballs occupying about 74 percent of the volume they take up
+now this might seem like the obvious way to stack spheres:
+I mean it is the way that oranges are stacked in the supermarket.
+But Kepler hadn't proved it.
+He just stated it as fact, which is why this became known as Kepler's conjecture.
+Now it turns out he was right, but it took around 400 years to prove it.
+The formal proof was only published in the journal Form of Mathematics in 2017.
+Three: Kepler published his conjecture in a pamphlet called deniva sexangula,
+on the six cornered snowflake.
+In which he wondered, there must be a definite cause why,
+whenever snow begins to fall its initial formations invariably display the shape of a six cornered starlet
+for if it happens by chance why do they not fall just as well with five corners, or with seven
+Why always with six?
+In Kepler's day, there was no real theory of atoms or molecules or how they self-arrange into crystals
+but Kepler seemed to be on the verge of understanding this
+I mean he speculates about the smallest natural unit of a liquid like water, essentially a water molecule,
+and how these tiny units could stack together mechanically to form the hexagonal crystal
+Not unlike the hexagonal close-packed cannonballs
+Four: Kepler knew that regular hexagons can cover a flat surface perfectly with no gaps
+In mathematical jargon we say the hexagon tiles the plane periodically.
+You know that a tiling is periodic if you can duplicate a portion of it
+and continue the pattern only through translation, with no rotations or reflections.
+Periodic tilings can also have rotational symmetry.
+A rhombus pattern has twofold symmetry because if you rotate it 180 degrees, one half turn,
+the pattern looks the same as it did before
+Equilateral triangles have three-fold symmetry
+squares have four-fold symmetry and hexagons have six-fold symmetry
+but those are the only symmetries you can have: two, three, four, and six
+There is no five-fold symmetry.
+Regular pentagons do not tile the plane
+But that didn't stop Kepler from trying
+See this pattern right here?
+He published it in his book harmonics mundi or harmony of the world
+it has a certain five-fold symmetry,
+but not exactly, and it's not entirely clear how you would continue this pattern to tile the whole plane
+There are an infinite number of shapes that can tile the plane periodically
+The regular hexagon can only tile the plane periodically
+There are also an infinite number of shapes that can tile the plane periodically or non-periodically
+For example, isosceles triangles can tile the plane periodically
+but if you rotate a pair of triangles, well then the pattern is no longer perfectly periodic
+a sphinx tile can join with another rotated 180 degrees and tile the plane periodically
+But a different arrangement of these same tiles is non-periodic
+This raises the question: are there some tiles that can only tile the plane non-periodically?
+Well in 1961 Hao Wang was studying multi-colored square tiles
+the rules were, touching edges must be the same color,
+and you can't rotate or reflect tiles only slide them around.
+Now the question was, if you're given a set of these tiles,
+can you tell if they will tile the plane?
+Wang's conjecture was that if they can tile the plane, well they can do so periodically
+but it turned out Wang's conjecture was false.
+His student, Robert Burger, found a set of 20426 tiles
+that could tile the plane but only non-periodically
+think about that for a second: here we have a finite set of tiles
+Okay it's a large number, but it's finite.
+And it can tile all the way out to infinity without ever repeating the same pattern
+there's no way even to force them to tile periodically
+and a set of tiles like this that can only tile the plane non-periodically is called an aperiodic tiling
+and mathematicians wanted to know,
+Were there aperiodic tilings that required fewer tiles?
+Well Robert Burger himself found a set with only 104.
+Donald Knuth got the number down to 92,
+and then in 1969, you had Raphael Robinson who came up with six tiles.
+Just six, that could tile the entire plane without ever repeating
+Then along came Roger Penrose, who would ultimately get the number down to two
+Penrose started with a pentagon.
+He added other pentagons around it and of course noticed the gaps
+But this new shape could fit within a larger pentagon which gave Penrose an idea:
+What if he took the original pentagons and broke them into smaller pentagons?
+Well now some of the gaps start connecting up into rhombus shapes,
+Other gaps have three spikes.
+But Penrose didn't stop there:
+He subdivided the pentagons again
+Now some of the gaps are large enough that you can use pentagons to fill in part of them
+and the remaining holes you're left with are just rhombuses, stars, and a fraction of a star that penrose calls a justice cap.
+You can keep subdividing indefinitely, and you will only ever find these shapes
+So with just these pieces, you can tile the plane aperiodically
+With an almost five-fold symmetry.
+The fifth thing about Johannes Kepler is that if you take his pentagon pattern,
+and you overlay it on top of Penrose's,
+The two match up perfectly.
+Once Penrose had his pattern, he found ways to simplify the tiles.
+He distilled the geometry down to just two tiles: a thick rhombus and a thin rhombus.
+The rules for how they can come together can be enforced by bumps and notches, or by matching colors
+And the rules ensure that these two single tiles can only tile the plane non-periodically
+Just two tiles go all the way out to infinity without ever repeating
+Now one way to see this is to print up two copies of the same Penrose pattern
+and one on a transparency and overlay them on top of each other
+Now the resulting interference you get is called a Moire pattern,
+where it is dark the patterns are not aligned
+you can see there are also some light spots
+and that's where the patterns do match up.
+And as I rotate around you can see the light spots move in and get smaller
+and then at a certain point they move out and get bigger
+and what I want to do is try to enlarge one of these bright spots,
+and see how big of a matching section I can find
+oh yes yes!
+It's like all of a sudden everything is illuminated
+I love it
+So these patterns are perfectly matching up here here here here and here but not along these radial lines
+and that is why they look dark.
+So what this shows us is that you can't ever match any section perfectly to one beneath it:
+There will always be some difference.
+So my favorite Penrose pattern is actually made out of these two shapes
+which are called kites and darts
+And they have these very particular angles
+and the way they're meant to match up is based on these two curves.
+So you can see there's a curve on each piece
+and so you have to connect them so that the curves are continuous
+and that's the rule that allows you to build an aperiodic tiling from these two pieces
+so uh I laser cut thousands of these pieces
+and oh i'm gonna try to put them together and make a huge Penrose tiling
+Oh man. Come on
+If you stare at a pattern of kites and darts
+you'll start to notice all kinds of regularities like stars and suns
+but look closer and they don't quite repeat in the way you'd expect them to
+these two tiles create an ever-changing pattern that extends out to infinity without repeating
+Does this mean there is only one pattern of kites and darts
+and every picture that we see is just a portion of that overall singular pattern?
+Well the answer is no.
+There are actually an uncountably infinite number of different patterns of kites and darts that tile the entire plane
+and it gets weirder:
+If you were on any of those tilings,
+you wouldn't be able to tell which one it is.
+I mean you might try to look further and further out gather more and more data, but it's futile.
+Because any finite region of one of these tilings appears infinitely many times
+in all of the other versions of those tilings
+I mean don't get me wrong those tilings are also different in an infinite number of ways,
+But it's impossible to tell that unless you could see the whole pattern, which is impossible
+There's this kind of paradox to Penrose tilings
+where there's an uncountable infinity of different versions,
+but just by looking at them, you could never tell them apart
+Now what if we count up all the kites and darts in this pattern?
+Well I get 440 kites and 272 darts.
+Does that ratio ring any bells?
+Well if you divide one by the other you get 1.618
+That is the golden ratio.
+So why does the golden ratio appear in this pattern?
+Well as you know it contains a kind of five-fold symmetry
+and of all the irrational constants, the golden ratio phi is the most five-ish of the constants.
+I mean you can express the golden ratio as 0.5 plus 5 to the power of 0.5 times 0.5
+The golden ratio is also heavily associated with pentagons
+I mean the ratio of the diagonal to an edge is the golden ratio
+And the kite and dart pieces themselves
+are actually sections of pentagons,
+Same with the rhombuses
+So they actually have the golden ratio built right into their construction
+The fact that the ratio of kites to darts approaches the golden ratio, an irrational number,
+provides evidence that the pattern can't possibly be periodic.
+If the pattern were periodic, then the ratio of kites to darts
+could be expressed as a ratio of two whole numbers:
+The number of kites to darts in each periodic segment.
+And it goes deeper:
+If you draw on the tiles not curves but these particular straight lines,
+well now when you put the pattern together you see something interesting
+they all connect up perfectly into straight lines
+there are five sets of parallel lines
+this is a kind of proof of the five-fold symmetry of the pattern
+but it is not perfectly regular
+take a look at any one set of parallel lines.
+You'll notice there are two different spacings.
+Call them long and short
+From the bottom we have long short long short long long..
+wait that breaks the pattern
+These gaps don't follow a periodic pattern either
+but count up the number of longs and shorts in any section:
+here I get 13 shorts and 21 longs,
+and you have the fibonacci sequence
+1 1 2 3 5 8 13 21 34 and so on
+And the ratio of one Fibonacci number to the previous one approaches the golden ratio
+Now the question Penrose faced from other scientists was, could there be a physical analog for these patterns?
+Do they occur in nature, perhaps in crystal structure
+Penrose thought that was unlikely.
+The very nature of a crystal is that it is made up of repeating units
+Just as the fundamental symmetries of the shapes that tile the plane had been worked out much earlier,
+the basic unit cells that compose all crystals were well established.
+There are 14 of them
+and no one had ever seen a crystal that failed to fit one of these patterns.
+And there was another problem
+Crystals are built by putting atoms and molecules together locally,
+whereas Penrose tilings -- well, they seem to require some sort of long range coordination.
+Take this pattern for example
+You could put a dart over here and continue to tile out to infinity. No problems.
+Or you could put a kite over here on the other side. Again, no problems.
+But, if you place the kite and dart in here simultaneously, well then this pattern will not work
+I mean, you can keep tiling for a while
+but when you get to somewhere around here, well it's not gonna work.
+You can put a dart in there which completes the pattern nicely,
+But then you get this really awkward shape there, which is actually the shape of another dart
+but if you put that one in there then the lines don't match up.
+The pattern doesn't work.
+So how could this work as a crystal?
+I mean, both of these tiles obey the local rules,
+but in the long term, they just don't work.
+Paul Steinhardt and his students were using computers to model how atoms come together into condensed matter,
+In the early 1980s,
+that is essentially solid material at the smallest scales,
+and he found that locally, they like to form icosahedrons
+but this was known to be the most forbidden shape because it is full of five-fold symmetries.
+So the question they posed was, how big can these icosahedrons get?
+They thought maybe 10 atoms or 100 atoms,
+but inspired by Penrose tilings, they designed a new kind of structure.
+A 3D analog of Penrose tilings now known as a quasi-crystal.
+And they simulated how x-rays would diffract off such a structure
+and they found a pattern with rings of 10 points, reflecting the five-fold symmetry
+Just a few hundred kilometers away, completely unaware of their work,
+another scientist Dan Shechtman created this flaky material from aluminum and manganese
+and when he scattered electrons off his material, this is the picture he got.
+It almost perfectly matches the one made by Steinhardt
+So if Penrose tilings require long range coordination, then how do you possibly make quasi crystals?
+Well i was talking to Paul Steinhardt about this and he told me,
+if you just use the matching rules on the edges,
+those rules are not strong enough and if you apply them locally you run into problems like this.
+You misplace tiles.
+But he said if you have rules for the vertices --
+the way the vertices can connect with each other,
+those rules are strong enough locally so that you never make a mistake and the pattern can go on to infinity
+One of the seminal papers on quasi crystals was called De Nive Quinquangula:
+on the pentagonal snowflake in a shout out to Kepler.
+Now not everyone was delighted at the announcement of quasi crystals,
+a material that up until then people thought totally defied the laws of nature.
+Double Nobel Prize winner Linus Pauling famously remarked,
+"There are no quasi crystals, only quasi scientists"
+burn
+But uh Shechtman got the last laugh.
+He was awarded the Nobel Prize for chemistry in 2011
+and quasi crystals have since been grown with beautiful dodecahedral shapes
+they are currently being explored for applications from non-stick electrical insulation and cookware, to ultra durable steel.
+And the thing about this whole story that fascinates me the most is,
+What exists that we just can't perceive because it's considered impossible?
+I mean the symmetries of regular geometric shapes seemed so obvious and certain
+that no one thought to look beyond them, that is until Penrose.
+And what we found are patterns that are both beautiful and counter-intuitive,
+and materials that existed all along that we just couldn't see for what they really are
+Hey this portion of the video was sponsored by lastpass
+And they have sponsored a number of my videos in the past,
+Which tells me two things:
+Number one: many of you have signed up so you don't have to remember your passwords anymore
+or worry about getting locked out of your accounts
+and number two: some of you have not yet signed up,
+hence this reminder that your accounts will be more secure and your brain less cluttered
+when you put your passwords on autopilot with lastpass
+They give you unlimited password storage,
+free cross-device sync
+and even password sharing
+If you ever need to give someone else access to one of your accounts.
+Lastpass autofills your credentials on mobile sites and apps for ios and android
+and it is so fast and easy when you open an app or site,
+Lastpass fills in your username and password in an instant
+Now real talk: do you have important accounts with the same password?
+I used to and it's not secure
+but remembering a random string of characters is not something I expect my brain to do
+Have you had to reset one of your passwords recently?
+It's annoying and the time you waste will just accumulate over your lifetime
+There are small steps you can take today that will improve every day for the rest of your life,
+and getting a great password manager is one of those steps.
+So click the link below and start using lastpass today
+I want to thank lastpass for sponsoring this portion of the video,
+and I want to thank you for watching

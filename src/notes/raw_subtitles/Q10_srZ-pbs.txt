@@ -1,0 +1,1063 @@
+- This is a video about
+a single simple rule
+that underpins all of
+physics, every principle,
+from classical mechanics
+to electromagnetism,
+from quantum theory to general relativity,
+right down to the ultimate
+constituents of matter,
+the fundamental particles.
+All of it can be replaced
+by this single rule.
+It feels like we're
+approaching spooky territory.
+- We're approaching spooky territory.
+I hear you and I agree.
+- [Derek] It may in fact
+explain the behavior
+of life itself.
+- I think I'm stuck in some
+classical mindset where, to me,
+the local picture,
+the differential equation way
+of thinking about the universe,
+that that's really what's going on.
+But I fear that I have
+it exactly backwards.
+- And it all starts with a simple problem.
+If you wanna slide a mass
+from point A to point B,
+what shape of ramp will
+get it there the fastest?
+This is known as the
+problem of fastest descent.
+- You know, common sense, you might say
+take the shortest path.
+Straight line from A to B.
+- [Derek] But if you
+bend the ramp down a bit
+at the beginning,
+well, the mass accelerates
+to a higher speed earlier.
+So even though it
+travels slightly farther,
+it travels faster and
+beats the straight ramp.
+So the question is, what shape
+provides the perfect balance
+of acceleration and path length
+to minimize travel time?
+According to Galileo, it
+was the arc of a circle.
+He showed that this is
+faster than any polygon.
+But is it the fastest?
+Nearly 60 years later, in June of 1696,
+Johann Bernoulli set this
+problem as a challenge
+to the best mathematicians in the world.
+- Mainly because he's a big show off
+and he wants to show that
+he's better than all of them.
+- [Derek] He gave everyone six months
+to come up with solutions,
+but none were submitted.
+So Gottfried Leibniz, a
+friend of Bernoulli's,
+persuaded him to extend the deadline
+to give foreigners a chance.
+- And I think Newton was
+probably the intended target
+because everybody thought
+of him as the best,
+and so Johann would've wanted to show
+that he was better than Newton.
+He was no longer a really active
+mathematician or physicist.
+He was working as the warden of the Mint,
+like a big high government position.
+- [Derek] And on the
+29th of January, 1697,
+Newton returned home
+after a long day at work
+to find Bernoulli's challenge in the mail.
+Irritated, he wrote,
+"I do not love to be dunned
+and teased by foreigners
+about mathematical things."
+But the problem was too enticing,
+so Newton spent the rest
+of the day and night on it,
+and by 4:00 a.m. he had
+come up with a solution,
+something that took Bernoulli two weeks.
+Newton submitted his solution
+to the journal Philosophical Transactions.
+- He sent his solution
+there but didn't sign it.
+And Johann Bernoulli,
+after seeing the solution,
+is alleged to have said,
+"I recognize the lion by his claw."
+You know, that, "Okay, you
+don't need to sign it, Newton,
+I can tell who you are.
+Who else could give such a solution?"
+- [Derek] And while overall
+Newton dominated Bernoulli,
+in this instance,
+Bernoulli's solution
+actually out-shone Newton's.
+- I could see why Johann Bernoulli
+wanted to challenge everybody,
+because he came up with a really clever,
+I would say like a truly
+creative, beautiful solution.
+- To do it, he took inspiration
+from a problem faced by
+ancient philosophers.
+How does light travel
+from one place to another?
+This was contemplated
+by Hero of Alexandria
+in the 1st century AD.
+He realized that in a
+single medium, like air,
+light always follows the shortest path.
+A consequence is that when
+light reflects, say, off a lake,
+the angle of incidence is always equal
+to the angle of reflection.
+Any other path between
+the start and end points
+would be longer.
+But when light goes from
+one medium into another,
+like from air into water,
+it bends in a peculiar way.
+It refracts and it doesn't
+follow the shortest path.
+- If you've ever dropped something
+at the bottom of a swimming pool
+and you look for it through the water,
+if you put your hand in there,
+it's not necessarily where you think it is
+because the light has bent
+away from the flat surface.
+- So what is the guiding principle here?
+Well, over the next 1,600
+years people slowly figured out
+that the sine of the angle of incidence
+divided by the sine of
+the angle of refraction
+is equal to a constant, n,
+which depends on the
+nature of the two media.
+This came to be known as Snell's Law.
+But no one knew why it worked.
+That is, until 1657.
+- So another great mathematician
+enters our story at this point.
+This is Pierre Fermat.
+By day he was a judge,
+but at night he'd come home
+and hang out with his wife and kids
+and then do what he really loved the most,
+which was work on math for fun.
+And he mostly worked in pure math
+but at one point he got
+interested in the question of,
+why does light obey this
+principle of refraction?
+- [Derek] And he thought
+maybe Hero of Alexandria
+was on the right track,
+but it's not distance
+that is being minimized,
+but rather time.
+But to see if this was true for refraction
+would be difficult.
+He would have to work out
+every possible path light could take
+by varying the point where
+it intersects the boundary
+and compute the time for each,
+and then show that light takes the path
+for which the total travel
+time is the shortest.
+- He doesn't know how to solve it
+and he worries that it's
+gonna come out complicated
+even if he could solve it,
+so he's not gonna do it. 
+I think it's 'cause he
+wasn't super interested
+in physics, actually.
+But anyway, years go by,
+he gets interested in it five years later
+and tries to solve it,
+and then he does solve it
+and he shows that Snell's
+Law actually pops out
+as the minimizing path
+for light, you know,
+under these conditions
+of moving from one medium
+with one speed of light
+to another with another.
+- [Derek] And that constant, n,
+well, that's just equal
+to the speed of light
+in the first medium
+divided by the speed of
+light in the second medium,
+which allows us to rewrite
+Snell's Law like this.
+- And he says this thing,
+I just wanna read you a
+little quote 'cause I love it.
+He says that this is
+"the most extraordinary,
+the most unforeseen,
+and the happiest calculation" of his life.
+See, it's good to do physics.
+(both laugh)
+If you use that principle of least time,
+you can explain everything
+that was known about light
+at the time of Fermat.
+It's the first time, as far as I know,
+that anyone shows that nature obeys
+an optimization principle,
+that nature does the best possible thing.
+In this case, that light takes
+the shortest possible time.
+- [Derek] Now, Bernoulli knew
+about Fermat's principle of least time,
+and he thought he could
+use it to solve the problem
+of fastest descent.
+- He converted the problem
+from a mechanics problem
+about a particle sliding down a chute
+to a problem about optics.
+- [Derek] Instead of a mass
+that's accelerated by gravity,
+he imagined a ray of light
+that would go faster and faster
+as it went into layers of
+less and less dense media.
+And if you make the
+layers thinner and thinner
+where Snell's Law is
+obeyed at each interface,
+you eventually get a continuous curve.
+Now the question is,
+how should the speed of light change
+from one layer to the next
+so that it accurately
+models a falling object?
+- [Steven] You could try to
+solve the problem by thinking,
+if the particle has to fall from A to B,
+it's gonna be picking up kinetic energy,
+it's going faster and faster
+as it slides down the chute
+and it's converting the
+loss in potential energy
+into this kinetic energy.
+If you write down the
+conservation of energy
+for that relationship,
+you find that the velocity
+that the particle achieves
+at any time,
+having fallen a distance, let's say y,
+its velocity squared will
+be proportional to y,
+the height from the top.
+So velocity goes like
+the square root of y.
+And that'd be sort of like saying
+imagine light moving in a way where,
+instead of a constant speed of light,
+the speed of light is proportional
+to the distance from the top.
+- [Derek] Now let's zoom in
+and look at a single interface.
+We can plug in our expression
+for the speed of light in each layer
+into Snell's Law.
+Then find that the sine of the first angle
+divided by the square root
+of y for the first layer
+is equal to the sine of the second angle
+divided by the square root
+of y for the second layer.
+And now here's the key insight.
+Snell's Law also holds for the next layer,
+and there the ingoing
+angle is simply theta 2.
+So this is also equal to
+the sine of the third angle
+divided by the square root of y3.
+And the same goes for the next
+layer and the next and so on.
+In other words,
+this ratio must be equal to
+some constant, call it k.
+And this equation, the story goes,
+Bernoulli immediately recognized
+as the equation of a cycloid.
+That is the path traced out by a point
+attached to the rim of a rolling wheel.
+This is also known as
+a brachistochrone curve
+from the Greek for shortest time.
+- [Steven] And so the astonishing solution
+is that the fastest way to get from A to B
+is to follow an arc of a cycloid.
+Not a circle, a shape called a cycloid.
+- Now, this curve also has
+another surprising property.
+No matter where I release the mass from,
+it always reaches the
+end at the same time.
+For this reason,
+it's also known as the tautochrone curve,
+from the Greek for same time.
+Upon finding this solution,
+Bernoulli wrote, "In this way
+I have solved at one stroke
+two important problems,
+an optical and a mechanical one,
+and have achieved more than
+I demanded from others.
+I have shown that the two problems
+taken from entirely separate
+fields of mathematics
+have the same character."
+Little did Bernoulli know he
+was onto something much bigger.
+Around 40 years later,
+one of his students,
+Pierre Louis de Maupertuis,
+also studied the behavior
+of light and particles,
+and he noticed that there are cases
+where the two behave very similarly.
+This made him think,
+what if Fermat's principle of least time
+wasn't the most fundamental?
+I mean, why should nature
+care about minimizing time?
+Maybe there is a more foundational
+quantity being minimized,
+one that doesn't only govern
+light, but also particles.
+So, in the 1740s, he
+proposed a new quantity,
+which he called the action.
+It is mass times velocity times distance.
+His thinking went something like this.
+The farther something travels,
+the greater the action.
+The faster it goes,
+the greater the action.
+And if it's a particle,
+then the more massive it is,
+the greater the action.
+If there are multiple
+segments to the journey,
+then the total action is just the sum
+of the mass times velocity
+times distance for each segment.
+To see the principle in action,
+here is a super simple example
+with no friction or losses.
+Imagine a 0.5 kilogram ball
+is rolled over the ground
+for 6 meters at 3 meters per second.
+Then that would be 9 units of action.
+If the ball then bounces
+and travels another 6 meters
+at 3 meters per second,
+then the action for the whole trip
+is 9 plus 9, or 18 units of action.
+Now, what Maupertuis claimed
+is that out of all possible trajectories
+where the ball bounces off the wall,
+the path it will follow
+is the one that minimizes the action.
+In 1744, he wrote,
+"This action is the
+true expense of Nature,
+which she manages to make
+as small as possible."
+So what was the response to
+Maupertuis' revolutionary idea?
+He was attacked and ridiculed.
+One of his longtime friends,
+a fellow physicist named Samuel Konig,
+wrote that "not only is
+your principal wrong,
+you also stole it from Leibniz."
+Voltaire, who used to be a
+close friend of Maupertuis,
+accused him of plagiarism,
+bad physics, being stupid,
+and just about anything
+else he could think of.
+In fact, he wrote a 32-page pamphlet
+just to mock Maupertuis.
+Of course, this may have
+been partly due to rumors
+Voltaire's lover had an
+affair with Maupertuis.
+But not everyone attacked him.
+Some just ignored him.
+- Maupertuis, I've taken
+a lot of math and physics
+in my life.
+I think you're the first person
+I ever heard pronounce it.
+He doesn't get much mention.
+- All of this was terribly
+stressful for Maupertuis
+who was nearing the end of his life,
+and more than anything,
+he thought the principle of least action
+would be what he was remembered for.
+That would be his legacy.
+But now he was attacked,
+mocked, ridiculed, and ignored.
+Unfortunately, this treatment
+was at least somewhat justified
+because Maupertuis came
+up with this principle
+by kind of just picking
+it out of thin air.
+There was no obvious reason
+why nature should care
+about mass times velocity times distance,
+or even less, why that
+quantity should be minimized.
+And mathematically, the
+principle of least action
+wasn't rigorous either.
+But there was one man who
+vehemently defended it,
+and that man was Leonhard Euler.
+The first thing Euler did
+was he replaced the sum with an integral
+so you could calculate the action
+while speed or direction
+changed continuously.
+And he used this to find
+the path of a particle
+around a central mass,
+like the orbit of a planet around a star.
+Solving this meant that
+out of every possible path
+between two points,
+he would have to find the one
+for which the action was the smallest.
+This is similar to the
+problem Fermat tried to solve,
+only now, instead of
+changing one variable,
+he would have to vary every
+possible point along the path,
+which is infinitely many.
+Needless to say, this was an arduous task.
+Math had not yet developed the tools
+required to handle such problems.
+Fortunately, Euler himself
+invented a new method.
+It was clunky and time
+consuming, but it worked.
+Through this process,
+he realized that the
+principle of least action
+only works if the total
+energy is conserved,
+and it is the same for
+all paths considered.
+These were two conditions
+that Maupertuis hadn't
+realized were necessary.
+So Euler improved the mathematical
+rigor of the principle.
+He found two extra conditions
+and he provided a specific
+example of it working.
+- Euler is an astonishingly powerful
+and not just great mathematician,
+but appears to be a good guy.
+As far as we could tell,
+he was very generous.
+You can still read Euler
+and really understand it.
+He helps you, he's empathetic.
+You know, he was like you are, man.
+He's trying to explain stuff.
+- But Euler was still
+far from a general proof.
+That would have to wait for
+another legendary mathematician,
+Joseph-Louis Lagrange.
+Joseph-Louis Lagrange
+was a shy 19-year-old,
+mostly self-taught.
+But despite his age,
+he was already working at
+the forefront of mathematics,
+including with Euler's new method.
+In 1754, he shared his results with Euler,
+who replied that Lagrange
+had "extolled the theory
+to the highest summit of perfection,"
+which caused him "the greatest joy."
+But besides being world
+class mathematicians,
+the two had another thing in common.
+They were both huge proponents
+of the principle of least action.
+And around five years later,
+just a year after Maupertuis' death,
+Lagrange succeeded in
+providing a general proof.
+Is there any intuitive
+way to think about action?
+I feel like there's an intuitive
+way to think about force
+and there's kind of an intuitive
+way to think about energy,
+but is there an intuitive
+way to think about action?
+- I don't know.
+I wanna watch your show to learn.
+I hope you'll come up with it
+because I don't have a
+good feeling about action.
+- [Derek] Now I wanna
+explain Lagrange's proof,
+but I don't want to do it the way he did.
+So instead, we'll go through three steps.
+First we'll explain the general approach
+Euler and Lagrange came up with.
+Then we'll rewrite the
+principle into its modern form.
+And finally we'll apply this
+math to a simple example
+to show you why it works.
+So first, the general approach.
+If there are infinite possible paths,
+how do you find the one
+with the least action?
+Well, Euler and Lagrange
+realized you can do it
+in a similar way to how you
+find the minimum of a function.
+There you take the derivative
+and set it equal to 0.
+And where the slope is horizontal,
+that must be the minimum.
+So if you took a tiny step
+to the left or the right,
+the value of the function
+basically doesn't change.
+And similarly, if you have
+the path of least action,
+then if you were to change it a little bit
+by, say, adding a tiny bump
+here or flattening it out there,
+imagine we're just adding
+a tiny function, eta,
+to our path of least action,
+well, then the action
+basically shouldn't change
+because we're at this
+really special point,
+the path of least action.
+You add a little bit to the minimal path
+but the action is still the same.
+If that is the optimal path
+that has the least action,
+then any other path must have more action.
+- So the counter there
+is like all of this is the first order.
+So if you're looking at linear terms
+that are proportional
+to eta, the deviation,
+then the first order,
+the difference in action will be 0.
+And the way you could imagine this is like
+let's say you're at the bottom of a bowl
+and you're at the minimum
+and you make some tiny step
+away and we call that step eta.
+If that change would
+be proportional to eta,
+you would maybe increase on this side
+but decrease on this side
+and then this would no
+longer be a minimum.
+So sort of the coefficient
+of eta has to be 0.
+But since you're at a minimum,
+it kind of goes like a parabola,
+so it can be proportional to eta squared
+or potentially some higher order term.
+So there is a tiny
+deviation in the action,
+but it's not proportional to eta.
+So the first order,
+the change in action
+between the optimal path
+and some trial path is 0.
+- So what you can write
+is that the action of this trial path
+minus the action of the true path
+is equal to 0 to first order.
+This is a compact way
+of writing the principle of least action,
+and it's the general approach you use
+to solve all these problems.
+So with that in hand,
+let's rewrite the principle
+into its modern form,
+starting with Maupertuis' action,
+which is the sum of mass
+times velocity times distance.
+But Euler changed this into an integral,
+so it's the integral
+of mass times velocity
+integrated over distance.
+Now the velocity is equal to ds over dt,
+which we can rearrange
+to get ds equals vdt.
+And plugging this in,
+we have an integral of
+mv squared over time.
+But wait, that's just
+twice the kinetic energy.
+And as Euler pointed out,
+the total energy must be conserved.
+Total energy is just
+kinetic plus potential.
+So we can rewrite this
+as T equals E minus V.
+And filling this in for
+the second T gives us
+that the variation of T plus
+E minus V integrated over time
+is equal to 0.
+Now we can split this integral into two,
+and since the energy is constant,
+we can integrate this term
+over time to get this.
+And we can simplify this even further.
+Just like with a normal derivative,
+we can write the variation of E times t
+as E times the variation of t
+plus t times the variation of E.
+But remember, as Euler found,
+the energy of different
+paths has to be the same,
+so the variation between them is 0
+and this term drops out.
+If we rearrange this like so,
+then we find that the
+variation of this integral
+is equal to minus the energy
+times the variation of time.
+This looks a lot like some
+other minimization principle,
+if only this was equal to 0.
+Well, we can make this 0
+by only considering paths that
+have the same travel time.
+If you do that, then there's
+no longer any variation in time
+and this term drops out.
+And what we find is that
+Maupertuis' principle
+has changed into another form
+where now the variation of kinetic energy
+minus potential energy
+integrated over time is equal to 0.
+- T minus V, kinetic energy
+minus potential energy,
+and then you integrate that along a path
+that you're traveling from A to B,
+and then integrate it
+with respect to time.
+It's all very strange
+and yet that turns out to be
+the correct thing to integrate.
+- [Derek] Now this is a little weird.
+We started with mass times velocity
+integrated over distance,
+and now we have the kinetic energy
+minus the potential energy
+integrated over time.
+And somehow both are ways
+to write the principle of least action.
+But that also means
+that this integral here,
+T minus V integrated over time,
+is another way to write the action.
+The first person
+to write the principle
+of least action like this
+was William Rowan Hamilton in 1834,
+and by doing so, he got the
+principle named after him.
+- So the principle of least action
+that we write as integral of Ldt,
+L being being the Lagrangian,
+the T minus V, the kinetic
+minus potential energy,
+they don't call it Lagrange's Principle,
+they call it Hamilton's Principle.
+So I guess Hamilton is building
+on Lagrange in that way.
+- Hamilton's Principle is the modern way
+of writing the principle of least action
+and the way you'd find it in
+almost every physics book.
+In part that's because
+Hamilton's Principle tells you
+how objects move from one place to another
+rather than just giving
+you the shape of the path.
+Two other important differences
+between both principles
+are that the action is
+now an integral over time
+instead of space.
+And a consequence is that
+with Hamilton's Principle,
+you now need a start and end point,
+and also a start and end time.
+The third is that with
+Maupertuis' principle,
+you need to keep the energy
+of different paths the same,
+but the time can vary.
+While with Hamilton's Principle,
+the energies can differ
+but the time has to be
+the same between paths.
+So now we have our general approach
+and the modern way of
+writing the principle,
+so let's apply it to a simple
+example to see why it works.
+Let's say I throw this ball
+straight up in the air,
+so it goes from some start point
+to say a different end point
+in a certain amount of time.
+Now if we call the height
+of the ball y of t,
+then we can plot these two points like so,
+and then we can imagine
+infinitely many possible trajectories
+that could connect these two points.
+Some go a little higher, some lower,
+some have wiggles, others don't.
+The only condition
+is that all paths must have
+the same start and end point
+and the same amount of
+time elapsed between them.
+Now to find the real trajectory,
+we proceed as before.
+We imagine that this is
+the true path, y of t,
+the one with the least action.
+And then we imagine making
+small variations to it
+by pushing it up a little here,
+down a little there, and so on,
+making tiny changes at every time step,
+which we'll call eta of t.
+So when you add y and eta together,
+you get this new trial path,
+let's call it q of t.
+And since the variations are small,
+the difference in action
+between these two paths is 0.
+Our next task is to solve this equation.
+So we compute the action for each path.
+For this, we need the kinetic
+and potential energy for each,
+and we write them as a
+function of y and eta.
+Plugging that in,
+you get the difference in
+actions is equal to this.
+But wait, this first integral
+is just the action of the true path,
+so these integrals cancel,
+and what you're left with is just that.
+m times dy over dt
+times d eta over dt
+minus eta times the
+derivative of the potential
+integrated over time
+is equal to 0.
+We can rewrite this further
+by using integration by parts.
+That allows us to replace
+this term with this one.
+And if we plug that in,
+we now have some function
+that when multiplied by eta
+and integrated over time
+has to be equal to 0.
+But since eta can be just about anything,
+this can only be true if this part is 0.
+So what we found is that the
+action is minimal for the path
+that satisfies this curious
+differential equation.
+Now it might look
+complicated, but it's not.
+Minus the derivative of the
+potential is just the force.
+And the second derivative of height?
+Well, that's just acceleration.
+So if we rearrange this,
+we find that the path that satisfies
+the principle of least action
+is the one that obeys F equals ma.
+In other words, the principle
+of least action is equivalent
+to Newton's Second Law,
+but it covers more than just mechanics.
+Fermat's principle of least time
+turned out to be nothing
+more than a special case
+of the principle of least action.
+So with this single principle,
+you could suddenly describe everything,
+from light reflecting and refracting,
+to the swinging of a pendulum clock,
+to planets orbiting the sun
+and stars orbiting the core of the galaxy.
+What used to be viewed
+as entirely separate fields of physics
+were now all unified under
+a single simple rule.
+The variation of the action is 0.
+After Euler found out
+about Lagrange's proof,
+he wrote to him,
+"How satisfied would
+not Mr. Maupertuis be,
+were he still alive,
+if he could see his
+principle of least action
+applied to the highest degree of dignity
+to which it is susceptible."
+With Lagrange's proof,
+we now have two ways to
+solve any mechanics problem.
+You can either use forces and vectors
+or you can use energies and scalars.
+It seems like the
+principle of least action
+is just way too complicated.
+It is so unnecessary.
+Who would ever use this, you know,
+when you could just use
+Newton's Second Law?
+Like that's a piece of cake.
+- Your options are either use all of this
+or just start with F equals ma,
+and they give you the same answer.
+Why ever use the
+principle of least action?
+Well, that's because Euler and
+Lagrange came up with a way
+to make all of this like
+super, super simple.
+- [Derek] If this is the action,
+then T minus V is called the Lagrangian.
+Now let's replace everything we did before
+with the Lagrangian.
+Then you see that the
+principle of least action works
+whenever this differential
+equation is satisfied.
+- So all you have to do now
+if you wanna solve any mechanics problem
+is you just write down the
+kinetic and potential energy
+and you plug it into this
+equation and you're done.
+And that becomes extremely powerful.
+- I remember thinking,
+"Man, force is like hard
+to get the right answer."
+You can do it if you're good,
+and people who are good
+at mechanics can do it.
+But with the Lagrangian approach,
+you have this machine
+crank out the principle
+of least action on it
+and you get the right equation to motion
+and you don't have to be a good physicist.
+That was what I took from it,
+that as a math guy I can do physics
+thanks to Lagrange and Euler.
+- And it doesn't just
+work in one dimension.
+If you have more dimensions,
+then you just solve the
+Euler-Lagrange equation
+for each coordinate.
+- Another thing that's great is
+you could use weird coordinate systems
+that might be better
+suited to the problem.
+Like if you were doing a
+problem with something rotating,
+you might want to use polar coordinates
+instead of Cartesian coordinates.
+And this will give you the
+correct equations of motion
+in polar coordinates,
+which again might be kind of
+tricky to do with vectors.
+- [Derek] Like with the double pendulum.
+Trying to solve this using
+forces is extremely hard.
+- Because as one pendulum is swinging,
+it provides the attachment point
+for the pendulum hanging below it,
+and so that pendulum is in
+this moving reference frame
+as it's swinging.
+It's a very nasty job to write
+down the correct F equals ma
+for a double pendulum.
+But if you write it down with
+kinetic and potential energy,
+it's pretty easy.
+- This is actually how
+we made this simulation.
+Now, there is one little side note
+we should give about the
+principle of least action,
+because the name is a little misleading.
+- Although we often refer to the principle
+as the principle of least action,
+it's probably good to
+add a little caveat here,
+that sometimes it's not
+necessarily the minimum.
+Just as when you find in calculus
+when you set a derivative to 0,
+that doesn't guarantee
+you're getting the minimum
+of a function.
+The principle of least
+action more properly stated
+should be the principle
+of stationary action.
+That the laws of motion
+come from demanding a stationary point,
+which is tantamount to this condition
+of setting a certain derivative to 0
+and then getting the
+Euler-Lagrange equation from that.
+So very often it is a true
+minimum, but not always.
+- But action is much more fundamental
+than just classical mechanics.
+Around the turn of the 20th century,
+action popped up as the
+key part of a solution
+to one of the biggest
+problems in atomic physics
+at the time.
+The UV catastrophe.
+- It's kind of spooky
+that this breakthrough
+that starts the ball rolling
+toward quantum theory
+brings action in.
+Not energy and not force, action.
+It gives you a hint, yeah.
+- But that and much more
+will have to wait for a separate video,
+so make sure you're subscribed
+to get notified when it comes out.
+The story of the principle of least action
+is the story of how knowledge compounds,
+growing through steady
+progress one step at a time
+until it changes how we
+see the world completely.
+And it's not just big
+scientific discoveries
+where this happens.
+Learning a little every
+day compounds over time,
+making you smarter and
+a better problem-solver.
+And you can start doing
+this right now for free
+with this video's sponsor, Brilliant.
+Brilliant helps you get smarter every day
+while building real practical skills
+in everything from math and physics
+to data science and programming,
+whatever it is that sparks your curiosity.
+What I love most about Brilliant
+is that you learn by doing,
+getting hands on with real problems
+that help you build intuition.
+And since all their
+lessons are bite-sized,
+it's easy to take small steps
+toward mastering huge topics
+like the language of most
+of physics, calculus.
+Brilliant recently updated
+their excellent course on calculus
+which doesn't just
+explain the big concepts,
+it guides you through them
+interactively one step at a time.
+That way you don't just memorize concepts,
+you really understand them
+in a way that just clicks.
+Now, I truly believe that
+learning a little bit every day
+is one of the best gifts
+you can give yourself.
+And with Brilliant, it's super easy.
+All it takes is a few minutes,
+which could be on your
+commute, on a break, whenever.
+And before you know it,
+you're ending each day a bit smarter.
+So to try everything Brilliant
+has to offer for free
+for a full 30 days,
+visit brilliant.org/veritasium,
+click that link in the
+description or scan this QR code.
+And if you sign up,
+you'll also get 20% off their
+annual premium subscription.
+So I wanna thank Brilliant
+for sponsoring this video
+and I wanna thank you for watching.

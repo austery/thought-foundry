@@ -1,0 +1,322 @@
+This is a robot that walks,
+flies, 
+skateboards,
+and slacklines. 
+But why?
+A portion of this video was sponsored by Bluehost.
+More about them at the end of the show.
+There are lots of
+bipedal robots out there,
+and drones are ubiquitous.
+But until now, no one had engineered
+walking and flying
+technology to work together
+in a single robot.
+- So it's the first robot
+that truly integrates
+the walking and the flying.
+It's not just a drone with legs.
+- [Dr. Chung] It's
+LEONARDO and it stands for
+LEgs ONboARD drOne.
+So I think it's a pretty good name.
+- [Derek] Why is this potentially useful?
+- Yeah, so any flying vehicles
+actually have to start from
+the ground to take off.
+And eventually, they can
+not stay in the air forever.
+They have to eventually come down.
+But sometimes they have to come down
+on the very challenging
+terrain or some obstacles.
+So it's actually a good idea to have
+these controlLable legs.
+So they can actually land
+in a very interesting configuration,
+or posture, or orientation.
+- [Derek] But there are
+additional benefits.
+A robot like this is more
+stable than a regular drone.
+- I view these propellers
+almost like arms.
+So some people might say that,
+oh, you guys are cheating because I mean,
+bipedal robots do not have propellers,
+but we are essentially
+using the propellers
+to do additional stabilization.
+(robot whirring)
+So basically, you generate
+the lift or thruster force
+to cancel some of the
+the weight of the robot,
+but that's really a secondary factor.
+The most important thing is basically
+posture or orientation, stabilization.
+(robot whirring)
+- [Derek] That is so cool to see.
+- So the main facility for this lab
+is this one.
+It's a gigantic fan array.
+- [Derek] I can see all the fans now.
+- [Dr. Chung] Yeah, we have
+- you can start counting,
+but 1,296 computer fans.
+Those are really literally computer fans.
+- [Derek] How fast can it generate wind?
+- So up to 15 meters per
+second or 20 meters per second.
+- [Derek] It's like a wind tunnel
+without the need for a tunnel.
+- Yes.
+- It might mess with our
+audio or with our microphones.
+Whoa.
+- The idea of the smoke machines
+is to actually visualize the flow,
+but also with all these
+additional sensors,
+like infrared cameras or radar and LIDAR,
+how we can actually figure
+out the kind of location
+or environment around your vehicle
+in the presence of this fog.
+- [Derek] I wanted to feel
+their power for myself.
+- [Man] All right, you ready?
+- [Derek] Yeah, let's do it.
+(machine whirring loudly)
+Yeah!
+That was so cool.
+I love it.
+They use this facility to test Leonardo
+to see how stable he is even
+in different wind conditions.
+(orchestral music)
+- And we showed that Leo
+is more robust than a drone
+because a drone gets
+blown away by the wind.
+But then Leo does not because
+of its ground contact.
+So for example, if you go
+hiking and there's like,
+suddenly a lot of wind,
+you're not gonna fall
+because you have the ground contact.
+But for a drone, it might be blown away.
+(gentle soft orchestra music)
+(robot whirring)
+- [Man] Oh no.
+- So we actually took
+one of the whiteboards
+that we have at home and we put oil.
+So we applied perturbations to Leo,
+and what's happening is as you
+push Leo, instead of falling,
+it stays upright, but it also
+slides on the white board.
+So that's an interesting capability.
+So it's very robust.
+- You said perturbations.
+Are you poking the robot?
+- Yes, without harming the robot.
+We are gentle.
+(robot whirring)
+- LEONARDO is so stable and
+good at adjusting its balance,
+that it can skateboard.
+(robot whirring)
+That's a fancy trick.
+Not many people can go
+backwards on a skateboard.
+How did you get the idea for
+a robot that will skateboard?
+- Should I say the truth
+or make a nice story?
+- [Derek] Tell us the truth.
+- Yeah, so we went hiking and we saw
+about 10 people going down
+the mountain on a skateboard.
+And then we thought,
+wow, this is really cool.
+What if we try our robots
+to make it do this?
+So we went to the first shop
+and we bought a skateboard.
+We modified it and we
+tried it and it worked.
+- [Derek] So do you
+think it allows the robot
+to save energy by riding on a skateboard?
+- It's more efficient because
+it uses the legs less.
+The legs are basically used to steer,
+and then it's just the propellors
+that are used to accelerate the skateboard
+forward and backwards.
+So yeah, it makes it
+save a bit more energy.
+- The propellors of
+course, make it possible
+to skateboard backwards.
+Something I struggled with.
+It definitely would help
+if I had a propeller.
+(woman chattering)
+But the real challenge was slacklining.
+(upbeat latino dance music)
+This looks incredibly unstable.
+So I think this proves
+the point of just like,
+how important control systems are.
+You can tell from the footage
+I have no idea what I'm doing.
+(Derek shrieks)
+All right, I thought I would
+be slightly better at that.
+Let's give it another shot.
+Okay.
+Can anyone slackline?
+Oh!
+This is impossible.
+I need a robot to do this for me.
+(upbeat latino dance music)
+(robot whirring)
+I like the sidestepping technique.
+Maybe I should have been doing that.
+Kind of like copy his technique.
+I tried to get some tips
+by watching Leonardo.
+(robot whirring)
+But improvement was negligible.
+I should've prepared.
+You might think it's
+cheating to use propellers,
+but the robot is clearly not flying.
+It is supporting itself
+mostly using the rope,
+and it's able to stabilize itself
+even with the wild bouncing.
+- So human professional slack liner,
+you can see some of their videos,
+actually they use arms stretched
+and then they can balance themselves.
+We don't have the arms for LEO yet.
+We are planning to add a manipulation
+so that he can actually carry some object.
+But in the meantime, we
+are using the propellers
+to stabilize LEO while he's actually
+walking on a slackline.
+- It's funny because
+like the robot feels like
+it's got kind of a personality to it.
+The way it walks and flies.
+It's just totally something
+you're not used to seeing.
+- It looks natural.
+Actually, I have to say that the sensors
+are sampled at 1,000 times per second,
+but the controller is
+actually being recomputed
+whatever signal you are sending
+to propellers and the leg
+joints is 200 times per second.
+So it's pretty fast computation.
+- [Derek] 200 times a second
+it is adjusting what it's doing
+to maintain balance?
+- Yes, especially
+propeller control signal.
+- How does that compare to humans?
+- Oh, humans.
+So humans can do very sophisticated tasks,
+but in terms of a fast reaction,
+it's a very crude machine.
+So humans, overall, has
+a few seconds of delay.
+Time delay.
+- Is this why I was
+struggling on the slackline?
+- Maybe, but... (chuckles)
+- [Derek] How do you feel about
+the performance here today?
+- Yeah, I think it beat you.
+(Derek laughs)
+- I mean, not that that's hard,
+but this is very impressive.
+If you imagine a robot like
+LEONARDO in the future,
+like the greatest LEONARDO you could make,
+what would that robot look like and do?
+- So definitely having a
+LEO-like robot in space,
+that would be amazing.
+But of course, depending on where you go,
+you might not be able to use propellers.
+So then you would need to use thrusters.
+- So eventually, yes.
+We want to develop this
+leg-based adaptive landing gear,
+and then we give that to next
+generation Mars helicopter,
+or next generation flying cars
+so that it can actually land
+in very challenging conditions.
+- And still move around once-
+- And then once, yeah, once you land,
+then you can walk over.
+(robot whirring)
+- Imagine if you have a cliff
+and then you have the robot
+just jump out of the cliff,
+deploy the propellers and fly.
+- [Derek] That'd be wild.
+(quirky sound effect)
+Oh, hey there.
+This portion of the video
+was sponsored by Bluehost.
+You know, tech is now so advanced
+that robots can skateboard.
+So why is it still so
+hard to build a website?
+Make the process simple with Bluehost.
+It's easier than ever to get started.
+Bluehost provides you with
+a completely free domain
+for the first year, as well
+as quick start templates.
+So you can have a beautiful website
+up and running in just minutes.
+The templates are mobile ready
+so your website is optimized
+for both phones and
+computers from the start.
+Unlike the process of
+building a robot like LEO,
+you don't need code in
+order to make your website.
+Bluehost lets you customize everything
+with simple drag and drop editing.
+And Bluehost builder also allows people
+to choose their own editing journey.
+It's built on WordPress.
+So at any time you can toggle
+between WordPress core,
+the traditional editing experience,
+and the Bluehost builder
+with no loss of functionality.
+This is a first of its
+kind builder experience.
+So start building your
+website today with Bluehost.
+Just go to bluehost.com/track/veritasium
+to receive more than 65% off.
+I will put that link
+down in the description.
+So I wanna thank Bluehost again
+for sponsoring this portion of the video.
+And I wanna thank you for watching.

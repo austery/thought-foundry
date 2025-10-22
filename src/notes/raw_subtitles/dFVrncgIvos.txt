@@ -1,0 +1,617 @@
+There is this famous Google interview
+question that everyone gets wrong.
+You're shrunk down to the size of a nickel
+and put into a blender.
+The blades will start spinning in 60 seconds,
+so what do you do?
+I would like to think I could duck down
+and miss the blades
+Break the thing at the bottom maybe?
+Push the blades?
+Ask nicely for the blender
+not to be turned on.
+Tie my clothes together, and then like
+use it as a rope I guess?
+If I was lighter I could maybe catch a draft up?
+- Just accept defeat.
+- I mean, I'm the size of a nickel
+what quality of life is that?
+Okay, resonance.
+I'm going to run to one wall,
+push on it, run to the other wall. Push on it.
+Run to the other wall, so
+I'm going to tip the container over.
+Honestly, the thing I would think about
+is trying to get to the very center
+of the blades.
+It's spinning around me, but
+the actual RPM is probably not that high,
+if I'm standing in the middle.
+I tie my clothes to one of the tips
+of the blades as it’s starting up.
+Yeah, I get it to swing
+me around and then I woooo!
+But these answers don't cut it.
+Now, I first heard about this problem
+in this book.
+It describes how each year Google received
+about 3 million applications,
+but they would only hire 7000 people.
+That's a 0.2% acceptance rate.
+So one way to screen out
+millions of applicants was to use brainteasers,
+and the interviewers
+would make these up for fun.
+We didn't get a list, at that time of
+what questions to ask.
+We would share questions among each other.
+Some of them gained traction,
+questions like:
+How many golf balls can fit in a 747?
+Or, how much should you charge
+to wash all the windows in Seattle?
+But the blender question
+really stuck with me, and I'm not alone.
+- Just lay back and enjoy that breeze.
+The best model in the world is only going to
+run maybe 10 or 11 hours,
+so we're getting out and when we do, we're better off for it because whatever doesn't kill you makes you stronger.
+- The question has been hotly debated
+in Reddit comment sections.
+There are so many different answers,
+but which one is the best?
+I try to hide underneath the blades,
+I guess.
+Hide under the blade, probably
+Great first reaction,
+but maybe that doesn't solve your problem
+entirely.
+Now you're just stuck inside of a spinning
+blender, so maybe you want to escape.
+Can I climb the walls?
+Are there defects in the walls that are
+sufficiently large for me to grip on to?
+Do I have Van der Waals forces that are
+strong enough to connect me to the wall?
+Am I, like, essentially a tiny gecko?
+A gecko can stick
+to the wall of a blender,
+even though neither its foot, nor
+the glass are charged.
+The gecko's foot has to be pressed
+firmly against the glass,
+so its atoms are within a few nanometers
+of the glass atoms.
+Then, at any moment one atoms electrons
+aren't uniformly spread about the nucleus,
+they might be slightly more on one
+side than the other.
+This makes the atom momentarily
+slightly positively charged
+on one side and slightly
+negatively charged on the other.
+The glass atom next to it experiences
+the pull of this charge imbalance,
+and so a similar charge
+imbalance is induced on the glass atom,
+and therefore the electrons in the glass
+atom are drawn
+to the nucleus of the gecko
+atom, and vice versa.
+So there is a very weak attractive force
+between neutral atoms.
+This is known as a Van der Waals force,
+and it's what makes geckos stick to walls.
+It's the same force
+that holds graphite together.
+There's no actual bonding between
+the layers of graphene in a pencil.
+It's like a stack of paper.
+The layers only stick because of Van
+der Waals forces.
+Now these forces are pretty weak.
+But since we're so small, maybe
+they'd be enough to help us climb out.
+This I can almost certainly say,
+we wouldn't be sticking at that scale,
+and that's because the Van der Waals
+type interactions are still small.
+And I studied climbing, so that of these types of
+scale, cockroach and gecko, you know,
+it turns out that you have to get
+very special to do that.
+Geckos have millions of tiny
+branches on their feet that increase
+their surface area
+and allow them to mold to surfaces.
+Our hands aren't like that,
+but ants and cockroaches
+don't rely on Van der Waals forces,
+and they can still climb up walls.
+So maybe a miniature human could too?
+The mechanism of a cockroach foot,
+and I used to know all that
+cockroach feet, is absolutely gorgeous,
+Same with an ant, by the way.
+There's two little claws, the tarsal claws
+those are things
+that slap down on a surface and really do slap
+when climbing meters a second... slap and
+engage, despite having no adhesion,
+they have very sophisticated,
+frictional attachment.
+Those claws can grip almost anything,
+even glass. 
+While glass feels smooth to us,
+It's actually covered in tiny surface
+imperfections.
+At insect scale,
+these features are significant.
+- Ants basically have climbing gear.
+- Oh yeah.
+They're like, using these little
+like axes basically to pick their way in.
+We don't have the attachment disks
+or whatever that would be,
+or like the special claws
+or the Van der Waals forces.
+Well, we have claws, if you're that scale,
+our fingers are claws.
+We have only really got... we have
+two claws, really.
+And then our feet
+aren't great at climbing, I don't know.
+Well, again, at that scale though,
+I don't know, right?
+Imagine putting a little sharp, spike into your foot
+and sharpen your
+shoes, wear high heel shoes.
+You'll be good to go.
+So now I'm climbing in heels.
+But there's still a problem.
+I mean, I'll have to be pretty careful
+placing each hand and foot slowly.
+It's going to take longer
+than 60 seconds to get out.
+And in that time,
+the blades will have started spinning.
+One mistake and I'm a smoothie.
+So Google was looking
+for a different answer.
+Now we’re going to the physics building.
+Maybe they know?
+Yeah. I really got nothing. I’m stumped.
+This is so embarrassing.
+We’re in our last year of our degree, we should
+definitely know this!
+I feel like I could probably swing running
+around the sides and yeeting myself out.
+Okay, if we're just talking about the entropy,
+it should increase at some point.
+So some sort of chaos should be...
+None of the system will stay un-disrupted...
+Take that as a limit to infinity
+and I'll be chilling...
+Like using that logic
+if I just like extrapolate...
+Now that's still too big for me
+to Quantum Tunnel or anything like that.
+- Whoa whoa whoa whoa.
+I mean, that is really overthinking it.
+It's actually not that complicated.
+- Do you want to hear the best answer I've heard yet?
+- Sure.
+Just jump.
+Just jump?
+How would that work?
+- Just jump!
+- How?
+-Does that work like that?
+- Jump where? 
+- Out of the blender, just go up.
+- So whoever told you that is...  
+- ...crazy, right?
+Yeah, does that makes sense to you?
+No, it doesn't, but...
+do you want to hear why that works?
+Yeah, tell me how it works.
+Jumping out of a blender seems impossible
+because at nickel size,
+the wall of a blender is 15x
+your height.
+It'd be like leaping over an eight story building.
+But watch these clips...
+Did you notice it?
+A horse, a dog and a squirrel.
+They all jump to about the same height.
+This is exactly what Alfonso Borrelli,
+the father of biomechanics,
+looked at in the 17th century.
+As he put it, in the same conditions,
+smaller and lighter animals
+make bigger jumps relative to their body.
+if the other conditions are equal,
+and indeed the limbs and the other organs
+are in the same proportion,
+the dog will jump as far as the horse.
+Now, sure, there is variation.
+A species whose survival depends on
+jumping will be optimized for it,
+while others, like turtles and elephants,
+they don't jump at all.
+But when you consider the huge variations
+in size,
+I mean a horse is 1500 times
+heavier than a squirrel.
+It's incredible that they jump to
+around the same height.
+And it's not because squirrels
+are super muscly or something.
+Horses and squirrels have similar muscle
+to weight percentages,
+and insects have even less muscle
+relative to their weight.
+Why do you think an ant can lift
+50 times its own body weight?
+Like, is it any more muscular? No
+you guys hit the gym.
+Come on. Like
+you're more muscular than an ant.
+So how are small things so strong?
+Well if you look closely at a muscle. It’s made up of tiny units called sarcomeres.
+They act like miniature springs.
+How far a muscle compresses depends on
+how many of these springs are in series.
+But the strength of a muscle depends
+only on how many are working in parallel.
+The thicker the muscle, the more springs
+in parallel, and the greater the strength.
+Therefore strength depends
+on the cross-sectional area of a muscle.
+And as animals shrink,
+this cross-sectional area
+scales down
+with the square of their height.
+But an animal's weight
+is proportional to its volume,
+so that scales
+with the cube of their height.
+So as you scale down, weight decreases
+faster than strength,
+and as a result, smaller animals have much
+higher strength to weight ratios.
+I mean, you could probably lift, 
+your own weight,
+like if you were to put your own body
+weight on your back and squat that, you could now lift... 
+100 hundred times.
+Yeah. Let's go!
+And for us, stuck in that blender,
+that extra strength
+relative to our weight
+means we could jump right out.
+Your surface area
+decreases with the square.
+You'd be like a little superman.
+- I see, okay!
+- That's really cool.
+So I could jump, like,
+literally out of a blender.
+You could jump out of a blender.
+But in movies and games
+where people are shrunk,
+they almost never show it like that.
+Honey, I Shrunk the Kids It was one of my favorite movies
+when I was a kid.
+I loved that.
+Tiny people struggle picking up scissors.
+They almost get crushed by raindrops.
+If it was scientifically accurate, they’d actually be overpowered. 
+Most people don't think of this
+when they first hear the question.
+The answer almost seems too simple.
+When you ask the right questions,
+you define the problem.
+There's some really obvious solutions
+that work, and that's
+actually true for a lot of problems
+in the real world too.
+Now I'm all for obvious solutions,
+but from the start,
+the answer of jumping out
+didn't sit right with me.
+Even this idea of like, I'm
+going to jump out of the blender like that
+doesn't make sense to me,
+because jumping is not just like,
+okay, how strong
+you are relative to your weight.
+It's also timing
+and your kinetics and all that.
+So like, how long can you be in
+touch with the ground?
+How much can you apply that force in
+one burst like over a really short period?
+Would it be
+fair to say you're overthinking things?
+You got to suspend your disbelief
+somewhere.
+I think if you like, factor in all the
+potential challenges a human would have.
+Just like if they just all of a sudden
+that size, they don't have
+like time to practice using their legs
+and stuff in that new environment.
+Like, I don't give them very good
+chances of jumping out.
+Sometimes there are people
+who make everything more complex
+than it needs to be,
+and that can be problematic.
+I would like to see like,
+you know, realistic modeling of,
+we scale me down 100 times.
+Like, can I jump higher?
+I want to see someone do
+those physics equations, yeah,
+you could jump higher, but you couldn’t jump
+100x higher, you know?
+So that's why we got the researchers
+at Georgia Tech's biomechanics lab to investigate.
+While, they're figuring that out,
+let me tell you about today's
+sponsor, Incogni.
+Every time you browse the internet,
+sign up for a newsletter, or even just buy
+something online.
+Your personal data is collected,
+it is stored.
+And sometimes sold
+without your permission.
+So how do you escape?
+Well, with your permission, Incogni
+contacts data brokers on your behalf
+and requests using proper legal language
+that they delete
+your personal information.
+So instead of spending countless hours
+trying to track these companies
+down yourself, Incogni
+does all that hard work for you.
+I started using Incogni
+and within just a week
+my inbox was less overrun
+and my phone even got fewer spam calls.
+After a month,
+my dashboard showed even more removals.
+Companies I had never
+even interacted with, but who
+somehow had my personal information.
+If you want to try the easy way
+to escape the clutches
+of data brokers, visit
+incogni.com/veritasium.
+You can click that link down
+in the description or scan this QR code.
+Make sure to use Code Veritasium
+to get 60% off
+your annual subscription
+to take control of your data today.
+That's incogni.com/veritasium.
+Now let's see how that
+simulation is coming along.
+Okay, so we have our simulated blender.
+We’re 2 centimeters tall and we have to jump at least 30 centimeters to get out.
+I was like, well, what about me?
+Like, I'm pretty,
+you know, embarrassingly non-athletic.
+What if I do this? So I did it right here
+next to my desk.
+My partner sort of measured my jump height,
+and I know how much I weigh
+and all that stuff.
+So what would it look like for me?
+If we have a person
+that weighs 84kg, is squatting
+15cm and has a jump height of 27cm.
+That person, if they were scaled down
+to 1% of their original size,
+they would jump 42cm high.
+The simple simulation
+shows a jump height of 42cm.
+So you would make it out.
+But we need to add in air resistance.
+Since our cross-sectional area is now
+100 times larger relative to our weight,
+drag should have a greater effect
+at nickel size.
+If it was 42cm jump height
+before for the jumper, with drag...
+considering drag, then it's about 39cm.
+So we do decrease in jump height a little bit.
+But that drag calculation
+is assuming you jump perfectly vertically.
+But what if you're a bit uncoordinated
+and you flip onto your side mid jump?
+Well, then you're exposing
+ten times the surface area
+and that increases
+the amount of air resistance.
+Like if somehow you flipped,
+and you're still moving up like this.
+Like what is the air resistance then?
+So doing that,
+that means 22 centimeter jump height.
+Oh. So we don't we don't.
+Oh. Darn.
+If you start getting overconfident
+and you wanted to do,
+like, a backflip while you're at it,
+then you're going to mess it up. Yeah.
+Don't backflip out of the blender 
+is a good piece of advice.
+Don't try and show off.
+You're trying to not get chopped up.
+Just like, just go headfirst.
+It's not so much getting out
+of the blender.
+It's what happens next.
+You've got two nickel sized men free
+in the world. Think of the posibilities.
+The simulation came back, 
+You can jump out of the freaking blender.
+Alright, okay.
+I'm glad we went through this,
+this exercise.
+Do you want me to do another month
+of research on this?
+No. You know, like you've done it.
+You've done enough.
+You've done enough. I'm convinced.
+I feel like jumping is
+an unsatisfactory answer.
+It was unsatisfactory
+when you mentioned it in the first place.
+And you went through
+and you got the simulation,
+you got the model, and you're like, look,
+you know, our little guy can jump 40cm.
+Are you convinced now?
+And I'm like, I guess.
+But like, my spidey sense was tingling.
+- Oh was it now!
+- There is something going on...
+You're telling me
+that I have to apply a force
+in 1/1000 of a second,
+and I have to undergo
+278 G's?
+I'm not going to survive that.
+So what I'm getting now is that, like,
+my intuition was good.
+I think everyone's intuition was like,
+you can't jump out of a blender.
+I think they're right.
+And you may say,
+well, that's overthinking it,
+but that's the whole point of the brain
+teaser is to overthink it is to get to
+that point where you're thinking about it
+in the detail of like,
+what would actually be feasible.
+A whole lot of things would go wrong.
+Our hearts have to generate
+a certain amount of pressure
+to get the blood, you know, going up
+to our head and going all the way down.
+If you take the human heart
+and shrink it down,
+it's not going to be able
+to generate the same kinds of forces.
+I think it would be a catastrophe,
+in a smaller size. Controlling
+air pressure inside these countless sacks
+inside of our lungs.
+There's an exquisite balance there.
+Now, you try to take that same design
+and squeeze it down.
+I would be skeptical that you'd be able
+to keep the passageways open.
+You wouldn't even be able
+to think this through, because you just
+wouldn't have the brain structures that we have.
+You can't fit 86 billion neurons in a nickel sized volume.
+You can't scale cells down either.
+That's the thing. Like cells are cells.
+I mean, jumping out would be, to me,
+seems like your only option, but I don't
+think you're going to be able to jump
+because you can't breathe
+and your heart can't pump blood,
+so you just keel over and die
+before you can make your jump.
+Okay, so if you're a biologist,
+you think we die.
+If you're a physicist, you can decide
+whether we'd be little supermen or,
+as I believe, incapable
+of fully harnessing our extra strength.
+What did Borelli know?
+He didn't even have blenders.
+He doesn't know the stress.
+But if you're an interviewer at Google,
+you might not even care what the answer is.
+I think one of the misconceptions
+that candidates have is
+when I'm asked this question, it's
+because they want to see
+if I can solve this problem.
+That's actually not quite right.
+There are five attributes
+people are looking for.
+There's addressing ambiguity,
+There's breaking down the problem,
+being creative, being smart,
+and then communication.
+- So I guess like none of those five are
+whether it's correct.
+- Right. 
+We’re the idiots who went
+and tried to figure out what's the best
+of those answers.
+Um, yes!
+Google realized that asking these types of questions
+didn't make much sense.
+Laszlo Bock, the senior vice president
+of people operations at Google, said this:
+On the hiring side, we found that brain
+teasers are a complete waste of time.
+How many golf balls
+can you fit into an airplane?
+How many gas stations are in Manhattan?
+A complete waste of time.
+They don't predict anything.
+They serve primarily
+to make the interviewer feel smart.
+But I just feel like there's that moment
+where you're like,
+so are you going to admit you're wrong?
+And I'm like, nyah, you know, I think
+this is further to like, I'm not wrong.
+This is crazy.
+This question is crazy.
+And I think it goes to your very point.
+Your very point,
+which is that like brain teasers like this
+are not good ways to assess whether people
+know what they're talking about.
+So although brain teasers aren't useful
+to assess
+job applicants,
+they are useful for something.
+I mean, every time we ask this question
+to people on the street,
+to physics students and to scientists,
+they lit up.
+They had to try to see the world
+from a new perspective.
+And it's exactly this way of thinking
+that has led to
+some of the biggest scientific
+discoveries.
+Einstein used thought experiments
+to come up with his theory of relativity.
+Euler's solution
+to the bridges of Königsberg puzzle
+is what inspired graph theory.
+And when Schrödinger wanted to illustrate
+his problems with quantum mechanics,
+he imagined a cat in a torture box.
+The blender question is admittedly silly,
+but silly
+questions can yield profound answers
+and show us new things.
+I think in order to learn something new,
+you have to be willing
+to embrace the ridiculous
+and just go with it.

@@ -1,0 +1,571 @@
+- What would happen if
+a star exploded near the earth?
+Well, the nearest star to
+Earth, of course, is the sun,
+and it is not going to explode,
+but if it had eight times the mass,
+then it would go supernova
+at the end of its life.
+So what would that look like?
+Well, as noted by xkcd if you held up
+a hydrogen bomb right to your
+eyeball and detonated it,
+that explosion would still be
+a billion times less bright
+than watching the sun
+go supernova from Earth.
+That's how insanely powerful
+supernova explosions are.
+They are the biggest
+explosions in the universe.
+When we see supernovae in other galaxies,
+they are brighter than the combined light
+of hundreds of billions of
+stars, so bright, in fact,
+that they appear to come out of nowhere.
+On the 8th of October, 1604,
+the astronomer Johannes Kepler
+looked up into the night sky
+and noticed a bright star
+he had never seen before.
+It was brighter than all
+the other stars in the sky
+and about as bright as the planet Jupiter.
+On moonless nights, it was
+bright enough to cast a shadow.
+Kepler published his observations
+of this star in a book
+called "De Stella Nova,"
+which means "about a new star" in Latin.
+Kepler thought he was witnessing
+the birth of a new star,
+but it was actually a
+star's violent death.
+Over the following year and a half,
+the light faded until it
+was no longer visible,
+but the name stuck.
+Even once we learned what was
+really happening in the 1930s,
+the violent final explosion for stars
+between about 8 and 30 solar masses
+has been called a supernova.
+But how exactly a star explodes is not
+what most people think.
+For most of a star's life, it
+exists in a stable balance.
+In its core, it fuses
+lighter elements together
+to make heavier ones, and in the process
+it converts a small amount
+of matter into energy.
+This energy is really what keeps the star
+from collapsing in on itself.
+Gravity compresses the star,
+but that force is counteracted
+by the pressure generated
+by the movement of
+particles inside the star,
+and by the pressure of
+photons released by fusion.
+So in effect, stars are
+propped up by their own light.
+If the rate of fusion drops
+at the center of the star,
+the temperature and the pressure decrease.
+Gravity starts winning,
+compressing the star,
+but this increases the temperature
+and pressure in the core,
+which increases the rate of fusion.
+It's a stable self-regulating
+system, but there's a problem.
+Stars have a finite amount of fuel,
+which over time gets used up.
+Our sun is about 5 billion years
+into its 10-billion-year lifespan.
+There are stars dozens of times
+more massive than the sun,
+which you would think
+would live much longer,
+but they actually use up
+their nuclear fuel faster
+A star 20 times the mass of our sun has
+a lifespan of just 10 million years,
+and more massive stars burn
+hotter, and even brighter,
+but for much shorter lives.
+For 90% the life of a star,
+the core is only hot enough
+to fuse hydrogen into helium,
+and when the hydrogen runs out,
+fusion slows, gravity compresses the core
+and its temperature increases
+to 200 million degrees,
+at which point helium fuses into carbon.
+There's enough helium to
+power the star for around
+a million years, but
+as the helium runs out,
+the core is, again, compressed and heated.
+Carbon starts fusing into neon,
+which lasts about 1,000 years,
+and then neon fuses into
+oxygen for a few more years,
+then oxygen to silicon for a few months
+and at 2.5 billion degrees, silicon fuses
+into nickel which decays into iron.
+Now, at the heart of this giant star,
+there is an iron core building that's only
+a few thousand kilometers across.
+Iron is where this pattern stops.
+Instead of liberating energy as it fuses
+into heavier elements, it
+actually requires energy.
+Iron is the most stable element.
+So it actually takes energy both
+to fuse it into heavier elements
+and to break it down into lighter ones.
+Both fusion and fission reactions
+ultimately end up at iron.
+The iron core grows,
+but the crush of gravity becomes greater
+and greater as the rate of fusion drops.
+When the iron core is about
+1.4 times the mass of our sun,
+which is known as the
+Chandrasekhar limit, the pull
+of gravity is so strong that
+something totally wild happens.
+Quantum mechanics takes over.
+Electrons run out of room to move,
+and they're forced into
+their lowest energy states,
+and they then become absorbed
+by the protons in the nucleus.
+In this process, the protons turn
+into neutrons and release neutrinos.
+With the electrons gone,
+the core collapses,
+and fast, at about 25% the speed of light.
+So what used to be a ball
+of iron 3,000 kilometers
+in diameter becomes
+a ball of neutrons just
+30 kilometers across.
+Essentially, it's a neutron star.
+With no outward pressure to hold it up,
+the rest of the star caves in.
+Also, falling at a quarter
+of the speed of flight,
+it hits the neutron star and bounces off,
+creating a huge pressure wave.
+But this kinetic energy isn't quite enough
+to start a supernova explosion.
+No, the thing that really kicks it off
+is the humble neutrino.
+Now, I normally think of neutrinos
+as particles that do basically nothing.
+I mean, they interact
+so rarely with matter
+that right now there are
+100 trillion neutrinos
+passing through your body per second.
+It would take a light year of lead just
+to give you a 50-50 chance
+of stopping a neutrino,
+and that's because they interact only
+through gravity and the weak force
+but in a supernova, when
+the electrons are captured
+by the protons, an unbelievable number
+of neutrinos is released, around 10^58.
+You would think they would just fly off
+at nearly the speed of light, but the core
+of a supernova is incredibly dense,
+about 10 trillion times
+more dense than lead
+and as a result, it traps
+some of those neutrinos
+and captures their energy,
+and this is what makes
+a star go supernova.
+A particle that is millions
+of times less massive than an
+electron that barely interacts
+with anything is responsible for some
+of the largest explosions in the universe.
+In that explosion, only 1/100 of 1%
+of the energy is released as
+electromagnetic radiation,
+the light that we can see.
+Even then, supernova have enough energy
+to outshine a whole galaxy.
+About 1% of the energy is
+released as the kinetic energy
+of the exploding matter,
+but the vast majority
+of the energy is released in the form
+of neutrinos, and neutrinos are actually
+the first signal we
+detect from supernovae,
+and that's because after they're generated
+in the core, they can escape
+before the shockwave reaches the surface,
+where the light that we see is generated.
+So neutrinos can arrive on
+Earth hours before the photons,
+giving astronomers a chance
+to aim their telescopes
+at the right part of the sky.
+I actually used to work
+at a neutrino observatory back in college,
+and I would work the graveyard shift
+between midnight and 8:00 AM.
+So if I detected a really big increase
+in the neutrino flux during my shift,
+it was my job to call
+and wake up scientists,
+so they could go look out for a supernova.
+Now, that never actually happened,
+but we did have some close calls.
+Now, I need to clarify a couple things.
+First, not all really
+massive stars explode.
+As they collapse, some
+form black holes instead,
+which means they do not go supernova
+and second, there's another
+way to make a supernova.
+Sometimes a white dwarf star,
+which is incredibly dense,
+pulls matter off a nearby star,
+and when it's mass reaches
+that Chandrasekhar limit
+of 1.4 solar masses,
+the white dwarf collapses,
+creating a supernova.
+This is actually the type
+of supernova that Kepler saw
+in 1604, a supernova 20,000
+light years from Earth.
+Now, because the shocks are asymmetric,
+supernova explain neutron stars
+that can move really fast.
+There's a neutron star we've
+observed with a velocity
+of 1,600 kilometers per second,
+and we think that was caused
+by a very asymmetric supernova explosion,
+sent it shooting off
+in the other direction.
+Despite only recently learning
+about how supernovae work,
+humans have been observing
+them for thousands of years.
+Ancient Indian, Chinese, Arabic
+and European astronomers
+all observed supernovae,
+but they are quite rare.
+In a galaxy like our Milky Way,
+consisting of 100 billion stars,
+there are only about one or
+two supernovae per century.
+A particularly amazing example
+is the supernova of 1054,
+when the light of a supernova
+6,500 light years away
+reached the earth and was
+recorded by Chinese astronomers.
+If we look to where that
+supernova was recorded,
+we see the Crab Nebula.
+It is a giant remnant
+of radioactive matter,
+left behind by the explosion.
+In the 1,000 years since the explosion,
+the remnant has grown to
+11 light years in diameter.
+Supernovas produce a lot of cosmic rays.
+Cosmic rays are actually particles,
+mainly protons and helium nuclei,
+and they travel out at very,
+very nearly the speed of light.
+They have a tremendous amount of energy.
+So at what distance could
+a supernova cause problems
+for life on Earth?
+The closest stars to us, besides the sun,
+are the three stars in Alpha Centauri.
+They are 4.4 light years
+away, but stars do move around
+and on average, a star
+gets within one light year
+of Earth every 500,000 years.
+So what would happen if
+such a star went off?
+- Yeah, so within a
+light year, you're easily
+within a danger distance
+from just the kinetic energy.
+So I think even at that distance,
+you're looking at possibly
+blowing the atmosphere off.
+- But we would also
+have other problems to worry about.
+Supernovae create conditions
+that are hot enough
+to fuse elements heavier than iron.
+In the months after the
+explosion, these elements
+undergo radioactive decay,
+producing gamma rays
+and cosmic rays.
+Less than 0.1% of the energy produced
+by a supernova is emitted as gamma rays
+from these radioactive decays,
+but even this tiny
+percentage can be dangerous.
+At a few light years from a supernova,
+the radiation could be deadly, though most
+of it would be blocked by our atmosphere.
+Now, the earth is protected
+from solar and cosmic radiation
+by our atmosphere, and
+specifically by ozone molecules,
+three oxygen atoms bonded together,
+but high energy cosmic rays
+from supernova can come down
+and break apart nitrogen
+molecules in the atmosphere,
+and then these bond with oxygen atoms,
+which can then break apart ozone,
+and so we can lose a lot of our ozone
+if there's too many cosmic rays coming
+from supernova events,
+and that can expose us
+to all kinds of dangerous
+radiation coming in from space.
+We actually see an increase
+in atmospheric NO3 concentrations,
+coinciding with supernova explosions.
+A supernova within 30 light years is rare,
+only happening maybe once every
+1 1/2 billion years or so,
+but a recent article suggests
+supernovae could be lethal all
+the way out to 150 light years away,
+and so those would be much more common.
+We actually have evidence
+for a supernova that
+went off 150 light years
+from Earth 2.6 million years ago.
+It would've been seen by
+our early human ancestors,
+like Australopithecus, and we know this
+because there are
+elements present on Earth
+that could only have been
+deposited by a recent supernova.
+In sedimentary rocks at the
+bottom of the Pacific Ocean,
+scientists have found traces of iron-60,
+in a layer that was deposited
+2.6 million years ago.
+Iron-60 is an isotope of iron
+with four more neutrons than
+the most common type of iron.
+Iron-60 is really hard to make.
+Our sun doesn't make it, nor
+is it produced, basically,
+anywhere else in the solar system.
+Iron-60 is made, basically, exclusively
+in supernova explosions,
+and iron-60 is radioactive.
+It has a half life of 2.6 million years.
+So every 2.6 million years,
+half of the sample decays into cobalt-60.
+So all of the iron-60 that was
+around during the formation
+of the earth, 4.5 billion years ago,
+has definitely decayed.
+So the iron-60 that the scientists measure
+is proof of a recent supernova.
+Scientists also measured
+trace amounts of manganese-53
+in the same sediments,
+giving further evidence
+supporting the idea
+that recently there was
+an explosion of a nearby supernova.
+The supernova that happened
+2.6 million years ago
+wasn't catastrophic for our ancestors,
+but some researchers hypothesized
+that it could be related
+to the mass extinction, which is seen
+at the Pliocene-Pleistocene boundary
+in the fossil record around the same time.
+This extinction wiped out
+around 1/3 of marine megafauna.
+The idea is that the cosmic rays
+from the supernova hit
+particles in our atmosphere,
+creating muons, which
+are charged particles
+like the electron, only
+more than 200 times heavier.
+The muon flux for years
+after the supernova
+would've been 150 times
+higher than normal,
+and the bigger the animal, the larger
+the radiation dose it would've
+received from these muons,
+which is why megafauna were so
+disproportionately affected,
+and what's more, the animals that lived
+in shallower waters were more likely
+to become extinct compared to
+the ones that lived at depth,
+where the water would've
+protected them from muons.
+Further evidence for these
+recent nearby supernovae comes
+from our place in the galaxy.
+You know, if you look in the space
+between the stars in
+our galaxy, on average,
+there are around a million
+hydrogen atoms per cubic meter.
+That may sound like a lot,
+but it's basically a perfect vacuum
+but for hundreds of light years
+in all directions around our solar system,
+you find there are 1,000
+times fewer hydrogen atoms.
+It's like they've all
+been blown out somewhere,
+and our solar system is
+existing in this cosmic void,
+inside a low density bubble.
+So that is evidence for
+maybe tens of supernovae
+that would've blown all
+this material outwards,
+but there are cosmic
+explosions that are even
+more deadly than normal
+supernovae, gamma ray bursts.
+Gamma ray bursts were discovered
+by the Vela satellites,
+which were looking for
+Soviet nuclear tests
+but on the 2nd of July, 1967,
+the satellites detected a
+large burst of gamma rays,
+which were coming from space.
+There are two main sources
+of gamma ray bursts,
+mergers of neutron stars
+and the core collapses
+of gigantic stars called hypernovae.
+Hypernovae are caused by stars that are
+at least 30 solar masses
+and rapidly spinning.
+Their collapse leads to an
+explosion 10 times more powerful
+than a regular supernova, and
+it leaves behind a black hole.
+The gamma ray bursts caused
+by hypernovae channel most
+of their energy into beams
+which are just a few degrees across.
+If there was a gamma ray burst
+within 6,000 light years,
+it would decrease the ozone level enough
+that it could be catastrophic.
+To put this distance in
+context, a sphere with a radius
+of 6,000 light years contains
+hundreds of millions of stars.
+On October 9th, 2022,
+astronomers detected one
+of the most powerful gamma
+ray bursts ever measured.
+It was powerful enough
+to measurably affect how
+the ionosphere bounces radio waves.
+The effect on the ionosphere was
+around the same as a solar flare,
+but this gamma ray burst was located
+in a galaxy 2.5 billion light years away.
+Astronomers speculate
+that a gamma ray burst
+could have caused the Late
+Ordovician mass extinction,
+which wiped out 85% of marine
+species 440 million years ago.
+There is no direct evidence,
+but gamma ray bursts are common enough
+that it is estimated that there has been
+a 50% chance that there was
+an ozone-removing, extinction-causing GRB
+in the vicinity of Earth in
+the last 500 million years.
+So if a supernova or
+a gamma ray burst were
+to go off near the earth now,
+that would be pretty catastrophic
+but in an ironic twist,
+we kind of owe our
+existence to these sorts
+of explosions because
+4.6 billion years ago,
+it was probably the shockwave
+from a nearby supernova
+which triggered the
+collapse of a cloud of gas
+and dust that gradually coalesced
+to form our solar system.
+So the sun, the earth and all
+of us wouldn't be here today
+without the explosions of nearby stars.
+Figuring out how supernova
+explode was incredibly difficult.
+It took a combination of astrophysics,
+particle physics, computer
+science and mathematics,
+and if you wanna develop
+a better understanding
+of our universe, then you should check out
+the sponsor of this video, Brilliant.
+Just go to brilliant.org/veritasium,
+and you can get started
+for free right now.
+Brilliant is an interactive learning tool
+that uses a hands-on approach to teach you
+a wide range of STEM concepts.
+You know, watching a video can give you
+a good overview of a topic,
+but if you really want
+to have a deep understanding, you need
+to learn interactively and test yourself
+from the foundations up.
+Brilliant offers simulations to manipulate
+and quizzes to master any new subject.
+There are thousands of lessons to explore,
+ranging from the foundations of math
+to cosmology and quantum mechanics,
+and there are new exclusive
+lessons released every month.
+Brilliant is the best way to
+learn something new every day,
+and there's no better time to start.
+The first 200 people to sign
+up at brilliant.org/veritasium,
+get 20% off an annual
+premium subscription.
+So I wanna thank Brilliant
+for supporting Veritasium,
+and I wanna thank you for watching.

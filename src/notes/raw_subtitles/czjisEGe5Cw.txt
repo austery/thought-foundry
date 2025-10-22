@@ -1,0 +1,536 @@
+- On December 1st, 2022,
+the journal "Nature"
+published a cover story
+about a holographic wormhole.
+It was purportedly created
+inside a quantum computer
+to probe the intersection of
+quantum mechanics and gravity.
+The story kicked off a frenzy
+of tweets and news headlines.
+- Nobody has seen the wormhole.
+Nobody has produced one.
+- Well, we'll
+take the world's best
+quantum computer and
+see if we can map that
+into building the wormhole.
+- The wormhole becomes
+traversable, it opens.
+You really can go through.
+- Bull (beep).
+(host laughing)
+(magnets clicking)
+- This video is sponsored by Shopify.
+The problem was, of course,
+that no wormhole had been created.
+- It feeds on itself, right?
+When one story starts,
+then other media outlets grab hold of it
+and so it spreads very, very quickly.
+- What actually happened is that a super,
+a quantum computer is built
+and within this quantum computer,
+you can do some calculations.
+Calculations that can
+be done with my iPhone
+because all the most powerful
+quantum computers today,
+at most do calculations
+that can easily be done on my iPhone.
+- You basically have something
+that represents the
+mathematics of a wormhole.
+But the way the story was sold, of course,
+is that in doing this,
+whatever calculation they did,
+they had created the wormhole.
+- They say so in the same
+sense in which I could say,
+"Look, my children has built a rocket
+"that goes to the moon."
+Say, "Wow, what kind of child you have?
+"Yeah, here it is."
+And I show you a little
+sketch on a piece of paper
+when there is a drawing of
+a rocket going to the moon
+and say, "Look!"
+So what the quantum computer
+has done is exactly that.
+There's a little sketch of what
+could be perhaps a warm hole
+in some hypothetical theory,
+which is probably wrong.
+Is this interesting?
+Yes, it is interesting
+because the fact that
+with quantum computers
+you can do these things
+mean that quantum computers,
+a little bit, sort of begin working.
+So people get excited about
+that and then they go out
+and tell to the world, "Oh,
+we've created a wormhole
+"in a quantum computer,"
+over overemphasizing the wormhole,
+which probably don't exist,
+the theory being used of that,
+which probably is wrong,
+and the utility of quantum computers,
+which is not yet there.
+So that's an example of bad communication,
+very bad communication.
+I was embarrassed,
+I was angry with my
+colleagues who did that.
+- To me, it looks like the source
+of this problem is bad incentives.
+Scientists need to secure
+funding for their research
+and increasingly that depends on
+attracting public attention to their work.
+- It's just become part
+of the culture of science,
+that it's expected that you will have some
+sort of media attention
+and to get that attention,
+you have to sell your science
+and often it's not the
+result of the science
+that is the story, it's something else.
+- Universities seek to promote themselves
+to attract students and
+bolster their reputations.
+- And nowhere in the scientific method is,
+and you release a press release,
+but it's just become part of the norm now.
+- Press releases simplify and
+may overstate the research
+and journalists just want to get
+as many clicks on their
+stories as they can.
+The end result of this incentivized game
+of telephone can be oversimplified
+sensationalized headlines,
+science that is just plain wrong.
+Now, I myself have been guilty
+of over-hyping a science story.
+Back in 2014, I made a video
+about the bicep two experiment.
+So this is one of the hugest discoveries
+in science of all time.
+Researchers reportedly
+detected polarization
+in the cosmic microwave
+background radiation.
+Allegedly it was caused by
+gravitational fluctuations
+just a fraction of a
+second after the big bang.
+The result was considered
+the first real evidence
+of the quantum nature of gravity
+and a smoking gun for inflation theory.
+Experimenters even surprised Andre Lind,
+one of the founders of
+inflation theory with the news.
+- Let's just hope that it is not a trick.
+I always leave with this feeling,
+what if I'm tricked?
+What if I believe in this
+just because it is beautiful?
+- Unfortunately, further
+observations showed
+that it was likely just
+dust in our own galaxy
+rather than primordial gravitational waves
+that created the polarization in the CMB.
+So I took down my video
+and to this day I am
+wary about making videos
+about breaking science news.
+Like any type of breaking news,
+there is a high probability
+that early reports will
+turn out to be wrong.
+Just a few months ago,
+a paper was uploaded
+to the Archive Pre-print Server
+claiming to have discovered
+the first room temperature
+ambient pressure superconductor.
+This again triggered a
+flood of media attention.
+- [Reporter] A monumental breakthrough,
+room temperature superconductor LK99.
+- One of the most important scientific
+breakthroughs of the 21st century.
+- If the discovery were real,
+it would've been a big deal.
+- The room temperature
+superconductor stuff,
+of course, is such a
+dream 'cause if it worked,
+it would revolutionize everything, right?
+Transmission of energy,
+that kind of stuff.
+The world would be different if it worked.
+- But even before attempts
+to replicate the material
+and its properties failed,
+there were clear signs
+that the claim was false.
+In the only published
+plot showing resistivity
+versus temperature, the
+resistivity did not drop to zero
+as you'd expect at the
+supposed critical temperature.
+Instead, it continued to
+decrease below this value.
+Plus the resistivity
+scale was given in units
+of 10 to the minus two ohm centimeters.
+On that scale, any ordinary conductor
+would appear to have zero resistivity.
+Copper's resistivity, for example,
+is on the order of 10 to the
+minus six ohm centimeters.
+A video showed the material
+apparently levitating
+above a permanent magnet
+in a supposed demonstration
+of the Meisner effect.
+But in that same video, the material
+also sticks to the magnet,
+something a superconductor would not do.
+And finally there is this plot,
+showing that over the
+past a hundred years,
+scientists have found new materials
+with progressively higher
+critical temperatures.
+But as of now, all the
+highest temperature materials
+only super conduct at very high pressures.
+For an ambient pressure room
+temperature superconductor,
+we would need a jump
+in critical temperature
+of around 125 degrees Celsius.
+That's a lot and this brings up the point
+that it is the most unexpected
+and surprising results
+that get the most attention,
+but it is also these very same results
+that are the most likely to be false.
+In social science, it's
+been shown that studies
+that later fail to be replicated,
+receive on average 153 more citations
+than studies that can be replicated.
+Similar buzz surrounds faulty research
+in the physical sciences.
+- The Italians, I'm Italian,
+came out announcing into
+the world some time ago
+that the neutrino was faster than light
+and then measured it and
+it turned out to be a plug
+that was not fitting well
+and so the entire machine
+was not working well.
+- When the truth is discovered,
+it rarely gets as much attention
+as the original finding.
+- The fallout where everybody was going,
+"Oh, well this doesn't work
+and this doesn't look right
+"and there's no way this material can do
+"what they say it's doing."
+That sort of fizzles in the background,
+it doesn't get the same media attention.
+- There is the apt saying,
+"A lie can travel around the world
+"while the truth is still
+putting on its shoes."
+But that saying might need to be updated
+in the age of social
+media when lies now have
+an even greater advantage.
+Do you think it's a bigger
+problem now than it used to be?
+- I must admit that I
+think it's getting worse.
+I think there's a feeling
+that you've got to change the world
+to be noticed by the media.
+- Over-hyping science
+discoveries can give people
+a false sense of how science works.
+If that latest discovery I hear
+about turns out to be false,
+what else could be untrue?
+- People keep telling me
+that cosmology's in crisis
+and all this kind of stuff
+because that's the kind of stories
+they hear in the media.
+Eventually people will say,
+"Well, why are we funding these things
+"if it's always just turmoil?"
+- Making bold unsubstantiated claims
+also reduces trust in scientists.
+- So we are enlarging a little bit.
+The conversation here is not
+just single pieces of news.
+I think there are entire
+fields which are hyped.
+- Wait, entire fields of science that are-
+- Yes.
+- Hyped.
+- Yes.
+- But aren't really legit
+or just they're all hot air or...
+- Oh no, no, they're not hot air.
+- [Host] Fusion, fusion's big in the news.
+People think it's close, right?
+There's startups,
+there's people getting
+billions of dollars.
+- Exactly, I don't know
+where we are there.
+Again, it's not my field,
+but there was one particular announcement,
+what is it?
+One year ago or something.
+- [Host] I remember this announcement.
+- Scientists have produced
+a nuclear fusion reaction
+that created more energy
+than was expended,
+a breakthrough to tap into
+the same kind of energy
+that powers the sun and the stars.
+- Simply put, this is one of the most
+impressive scientific
+feats of the 21st century.
+(audience applauding)
+Right?
+(audience applauding)
+- Which is bull (beep) again
+because it was in the
+context of military research,
+nuclear energy, basically for
+weapons in a way of doing it,
+which at the present, has no visible way
+of how to become industrial
+way of producing energy.
+- [Host] Yeah, there's no way to scale.
+- There's no way to scale it up.
+- [Host] This is just lasers at appellate.
+- Just little thing and
+you compress it enormously
+and then it's basically it explodes
+because it's a mini,
+mini nuclear explosion
+and then you have more energy
+than the actual pressure energy
+that was needed to compress it.
+That's correct, but you
+need huge amount of,
+excessive energy for doing that.
+That was sold as a big step
+toward the solving the energetic
+problem of the world, but it's not.
+- Back in '87, fusion,
+already people were talking about it
+like it's around the corner.
+We just need 20 years more
+work and we'll crack it.
+And we have exactly the same story today
+with the current experiments.
+- Something that is not overhyped
+is this video sponsor, Shopify.
+And I would know, because I've been
+personally using Shopify for eight years.
+You know something a lot of
+people don't know about me
+is that before I was a YouTuber,
+I worked as a science
+teacher at a tutoring company
+in Sydney.
+But I was always frustrated
+by this misconception
+students had that bonds
+store energy, they don't.
+So I decided to make a better version
+of the traditional ball and
+stick model of molecules.
+One where the atoms snapped
+together magnetically.
+I came across these little ball magnets
+and in my first prototype I pushed them
+inside little styrofoam
+balls and I learned
+about plastics and injection
+molding, ultrasonic welding,
+and I brought my
+invention Snatoms to life.
+(magnets clicking)
+But one thing I had no clue about
+was how to run an online store
+and that's where Shopify came in.
+They had simple templates.
+So I set up the Snatoms
+store in just one day.
+Shopify allowed me to process payments,
+withhold appropriate state taxes
+and see everything that was happening
+with my store at a glance.
+Plus, it also integrates
+with lots of third party apps and sites.
+So, for example, I could offer
+multiple different methods
+of shipping and this
+makes fulfillment a snap.
+(magnet clicking)
+I also got set up for Google shopping
+right from within the app
+and it was simple to create
+automated reminder emails
+like if someone forgets
+something in their cart.
+The whole store runs with
+very little attention from me,
+which is great because I'm
+always working on the next video.
+So I think there is a reason
+that everyone is using Shopify
+for their online store
+or their side hustle,
+because it offers
+everything you could want,
+it's easy to use and it's very affordable.
+I highly recommend Shopify to anyone
+who's thinking about starting a business
+and for a free trial of Shopify,
+go to shopify.com/veritasium.
+And now back to science hype.
+Science is interesting in
+that you can divide it up
+into basically two categories.
+One is an established body of knowledge
+and the other is speculations,
+things that might be true,
+but we don't really have any
+solid evidence for them yet.
+And because there can be
+an infinity of bad ideas
+and only one truth,
+most of these speculations
+are likely wrong.
+But the way certain topics
+are discussed in the media,
+it may be impossible to tell
+if they're part of the
+established body of knowledge
+or just very fanciful speculation.
+- There are too many
+books out there saying,
+"We have understood that the world's
+"made by strings and string theory."
+It's not true, not at all.
+We have not understood that the world
+is described as string theory.
+We have a very interesting
+tentative theory,
+which is string theory,
+which has that some success
+and some failures and that's interesting.
+If you want to tell about this research,
+do tell about this research,
+but don't tell people that
+it's what we have learned about the world.
+- One question I have is,
+how do we get past the
+over-hyping of science?
+Because it seems like the system is set up
+to reward over-hyping.
+It rewards the journalists
+'cause they get the clicks.
+It rewards the scientists,
+they may get the money or the attention.
+So I don't know, I'm kind of curious
+whether a solution is possible.
+- Yeah, I think there is one,
+and it's exactly what you're doing.
+By talking about the fact
+that there is a risk of overhyping.
+If I can go out and say,
+"Oh, my quantum computer
+produced a wormhole,"
+and nobody says anything,
+that's a problem.
+If we talk about the risk of over-hyping,
+if we talk about the
+risk of presenting ideas,
+theories, radical results,
+which are very, very tentative, as solid,
+then we sort of immunize
+ourself against this danger.
+- Science is not presented on the news
+like sport is presented on the news.
+At the end of the news, you
+get 10 minutes of sports
+where they will talk about the fact
+that somebody kicked a
+ball around in a field
+and it's not that particularly important.
+So you get the full rundown
+of lots of bits and
+pieces of what's going on.
+But to get a science story,
+it has to be Earth
+shattering kind of thing.
+It has to be a big story.
+What many scientists would
+like is this larger picture
+of the fact that the entire
+enterprise is moving forward.
+That there are lots of things happening
+and we definitely know more
+tomorrow than we do today,
+but that's not the way that it
+gets picked up by the media.
+- Well, ultimately, almost
+everyone is incentivized
+to sensationalize scientific findings.
+So I think it's important to remember that
+anytime you hear a
+science story on the news,
+surprising, unexpected results
+that have not been
+independently replicated,
+they are more likely than not to be wrong.
+But despite this, I remain
+convinced that science
+is the best way to get at the truth.
+I mean, sure, in the short term,
+some may seek the spotlight
+by rushing the data analysis,
+overstating results or
+circumventing peer review.
+but in the long term,
+that is not going to
+win you the Nobel Prize.
+The bold claims, mistakes and dead ends,
+they will fade into oblivion
+and only sound science
+that is vigorously tested
+and independently validated,
+that is what makes it into the
+accepted body of knowledge.
+(magnets clicking)

@@ -1,0 +1,375 @@
+This little mechanism shrinks when you try to stretch it.
+You try to pull it apart and all of a sudden it pulls back on you.
+That's so weird, right?
+Here it is under controlled conditions.
+There's a cup hanging from the mechanism, but now look what happens as you add water to it.
+All of a suddenly the cup shoots up.
+The amount it shoots up is tiny, but the physics behind it is so counterintuitive, nobody thought it was possible.
+It feels like it violates physics.
+That's why it's fun.
+The paradox that controls this mechanism governs everything from mechanical systems to food chains, from traffic jams to power grids.
+And to understand it, you just need to ask a simple question.
+What will happen to this weight if you cut the green rope?
+Where is this gonna end up?
+Is it gonna go up, is it gonna, gonna go down, or is it gonna stay the same?
+Uhhh 
+Can I touch?
+Yeah, yeah, you can try it.
+Nothing.
+You don't think anything's gonna happen?
+In the same place.
+Wait, it's gonna be right over there.
+Like it's going to fly off or what?
+No, not too much, but probably it's going to go to this way.
+If you cut the green rope, this is going to come down.
+It will go down.
+It will down.
+It drops.
+It'll fall down on it.
+The first thing that occurs to me is as soon as you cut that the weight is going to drop
+I Imagine the weight ends up lower than it started
+Here's a closer look at the setup.
+You have a spring hanging from a hook up here and then via this green rope,
+it's connected to another spring that's carrying this weight below them.
+There are two extra ropes here as well.
+So the red one and the black one are slack.
+They're not under any tension whatsoever.
+So they're not actually carrying any weight.
+What's gonna happen, if you cut the green rope?
+You can pause the video here and try to figure it out for yourself.
+Oh.
+Here it is in slow motion.
+So even though the ropes on the side were slack and we cut the only rope in tension,
+the weight somehow went up.
+Okay, so if you're unconvinced that cutting the green rope actually makes the weight go up,
+here's a huge version of the experiment.
+So the black and red ropes are still very much slack
+and it's just held together by this tiny piece of green rope here.
+So let's see what happens now.
+Okay, you ready?
+Okay, three, two, one.
+That was actually insane.
+Pretty good, right?
+I still don't believe it looking at it.
+Okay, so why does this actually happen?
+Because the springs are contracting back and just pulling it together.
+The tension in the you know this part is changed.
+It releases the tension in the springs and only goes to the length of the ropes.
+Look at what happens when you remove the slack side ropes from the initial setup.
+You're left with this.
+A mass hanging from a spring, hanging from another spring.
+So these springs are connected in series.
+Obviously, when you hang a weight from one spring, it extends, just like you'd expect.
+And the amount it extends by, call it x, is proportional to the force exerted by the weight.
+That's Hooke's Law.
+But if you add another spring in between, in series, now both springs extend roughly the same amount.
+x, because both springs feel the same force of the weight pulling from below.
+So in the case of ideal massless springs, you would end up with exactly 2x of displacement.
+Now, there's another way to connect these two springs to the weight, and that is in parallel.
+This way, both springs are independently connected to the hook above and to the weight.
+So each spring is only carrying half the weight of the mass below,
+which is why both springs extend only half as far, or x over 2.
+If you look at the setup right after the green rope is cut,
+you'll notice that this is actually exactly how the springs are laid out.
+So the red rope is connecting the bottom spring directly to the hook above,
+and the black rope is connecting the top spring to the weight.
+So these springs are in parallel.
+So by cutting the green rope,
+you're actually forcing the springs to go from a series to a parallel,
+and that change is what causes the contraction to happen.
+When you cut the rope, each spring only extends by about half as far as before,
+which is why you can add so much slack on these black and red ropes
+to give the impression that the weight is going to fall down.
+When you cut the rope, you go from series to parallel, and that pushes you up.
+The slack ropes, that's where I get to cheat, and that's the misleading bit, you know?
+Yeah, got ya.
+The key to getting this paradox right comes down to the length of the slack ropes.
+Each one has to be longer than the length one of the springs in series plus the green rope.
+That's what adds the slack.
+But they also can't be much longer than that
+because too much slack will nullify the contraction you get between series and parallel and the weight will still fall.
+Now, you might think that this paradox only really works with the springs in this demo,
+but the first time it was discovered was actually because of its influence on people.
+In April of 1990, New York was getting ready for its 20th annual Earth Day.
+It was going to be Manhattan's biggest celebration of environmentalism to date.
+STOP THE WAR!
+AGAINST THE EARTH!
+On the day, Central Park was turned into a massive festival ground,
+with almost a million people pouring in to see a stacked line-up of performers, including Hall & Oates and the B-52s.
+But the boldest stunt of the day was to ban traffic on some of New York's most important streets,
+including 42nd Street, one of the busiest streets in Manhattan.
+It stretches from river to river,
+connecting Times Square to Grand Central Station,
+and it's almost always jammed with slow-moving traffic.
+The only thing that's an hour from 42nd street is 43rd street.
+And maybe not surprisingly, people were really against this idea,
+insisting that just a six-hour closure of 42nd Street would mean doomsday.
+As the Commissioner of New York's Department of Transportation put it,
+you didn't need to be a rocket scientist or have a sophisticated computer queuing model to see that this could have been a major problem.
+But the city went ahead with it anyway, and no cars were allowed on 42nd street for the day.
+Now, to everyone's surprise...
+the traffic in the surrounding area actually got better.
+The number of cars was reduced by 20 percent,
+with bystanders claiming the whole area was a ghost town compared to the way it normally is.
+But one man wasn't surprised by this result.
+In fact, he predicted it over 20 years earlier.
+His name was Dietrich Braess, a German mathematician.
+And back in 1968, Braess was studying road networks.
+As part of his research,
+he imagined a scenario where drivers from one side of a fictional town were trying to get to the other.
+But there were only two possible routes the drivers could take.
+Route 1 starts with a wide highway that takes you halfway across town.
+The road is so wide that regardless of how many cars are on it, this part of the trip always takes 25 minutes.
+The second half of this route turns into a narrow city street,
+and the time to through this street depends on how many cars are on it.
+For every 100 cars on the street, the time to pass through it takes an additional minute.
+So 100 cars will take one minute, 200 cars will two minutes, and so on.
+The second route through town starts with a similar narrow city street that depends on the number of cars.
+It takes you halfway across and then turns into another 25 minute highway stretch where the transit time doesn't depend on traffic.
+So which route would you take to get across town?
+Well, you can see that the routes are identical, but flipped.
+So it doesn't really matter.
+Since this is just a mathematical model, both will get you there at the same time.
+So say there were 2,000 drivers trying to get across the city.
+Half of the cars would end up on the first route and half on the second route.
+And since there are now 1,000 cars going down each narrow city street,
+the travel time on these segments increases to 10 minutes.
+So the total time on both routes is 10 minutes for the narrow street
+plus 25 minutes for highway, a total of 35 minutes regardless of route.
+But now, say the city decides to connect these two routes at the halfway point with a small piece of highway to give drivers more options.
+This piece only takes a minute to travel across.
+So which roads would you use now to get across town?
+Well, as an individual driver, you should just go straight down.
+It will take you 10 minutes to get through the first city street,
+one minute on the new connecting road, and another 10 minutes for the second street.
+So your total journey time would now be only 21 minutes, compared to the 35 minutes for everyone else on routes one and two.
+Ok great, so you minimize your own time and that's that, right?
+Well not really.
+See, drivers like you are selfish and everyone wants the shortest possible travel time,
+which means everyone starts flooding the narrow city streets.
+As drivers switch to this new shortcut,
+the narrow streets become more and more congested, making the route slower and slower.
+But this makes the original routes worse too,
+because the time to get through the street segments keeps increasing for every driver.
+So everyone decides to switch to the shortcut, and now all 2,000 cars are driving down the city streets.
+Now the time time to traverse each city street jumps to 20 minutes.
+So the total journey time for everyone increases to a whopping 41 minutes
+compared to the 35 minutes we had before the new road was constructed.
+So traffic actually got worse for everyone.
+To fix it, the drivers could simply go back to their original routes, right?
+Well, who's gonna be the first to switch back?
+If any one driver goes back to route one or two,
+their journey time will be the 25 minutes on the highway plus 20 minutes on now congested city streets
+or 45 minutes in total, which is even worse than the now congested streets.
+So no single driver would ever want to go back to the original route.
+And because humans are humans, it's not like we could all just agree to ignore this new road.
+So even though every driver was making a rational decision to try to minimize their own travel time by just using the city streets,
+collectively, this made the situation worse for everyone.
+And there's no way out.
+But if the city were to destroy this new connecting road,
+everyone's journey time would drop from 41 minutes back to the original 35 minutes on route one and two.
+So removing the road would actually make the traffic better.
+It's just like cutting the green rope from before.
+That's because both of these are examples of the same paradox.
+The springs are like the narrow city roads.
+The more weight or cars you add, the longer they get.
+And the ropes are like the highways.
+It doesn't matter how much weight is on them, they don't change.
+That is, unless you don't know how to tie them properly.
+This is the paradox Dietrich Braess discovered in 1968.
+It's now known as Braess's paradox,
+and it is the reason why New York traffic got better after 42nd Street was closed on Earth Day.
+Now sure,
+you'd be right to argue that the reason the traffic decreased on Earth Day in New York
+was simply because people decided to walk or cycle more that day.
+But it turns out mathematicians actually modeled the whole city in 2008
+and they found 12 roads that were redundant and could be cut to actually reduce traffic.
+And it's not only New York.
+The paradox showed up in Boston, London, Seoul.
+In fact, if you were to randomly add a new road to just about any city,
+you'd have an equal chance of making the traffic better as worse.
+But there's nothing special about the flow of cars.
+Say instead you wanna send electricity from one station to another.
+Well, now you're looking at the flow of electrons in a power grid.
+And just as before, you could try to improve the grid by increasing the capacity of existing lines
+or by adding new lines, but it turns out that this can actually destabilize the grid or even cause a blackout.
+And virtually any other network, any time you're sending things from one place to another,
+it can fall prey to Braess's paradox.
+Be it a food chain, blockchain, or even the internet,
+adding elements to the network can make it worse.
+So less can actually be more and that kind of got me thinking it's the same with your data on the internet.
+The less of your private info is on the web, the better.
+See I got an email from someone a couple of months ago suggesting that they can create tailored solutions to accelerate growth.
+Okay I thought it was spam so I didn't reply
+and then I got a couple emails and I felt bad and I thought okay I'd be nice and actually respond.
+I drafted up a little email but once I hit send suddenly my inbox flooded with spam emails.
+Grace and Jenny offering price lists for, well, I don't really know what.
+Oh, and the best email actually suggested we should turn Veritasium's existing content into high-performing YouTube videos
+to increase our audience and extend the brand's reach.
+That's a genius idea, but unfortunately, most of these emails are spam and I'd very much like them to stop.
+And I can, with the help of today's sponsor, Incognito.
+So I only signed up to Incogni about six days ago.
+They already sent out 49 requests to get my data out of data brokers hands.
+And as of today, 33 of those requests have been completed, saving me 24 hours of time.
+Precious time I can spend tying springs to strings and asking strangers what happens when you cut the green one.
+Incogni tracks down the data brokers holding your information and starts cutting those connections.
+With the new Unlimited plan,
+you can use their custom removals feature to target specific people search sites
+or sketchy corners of the internet where your info pops up.
+And Incogni's privacy agents will take care of it for you.
+And the Family plan lets you extend that same protection to others in your life,
+especially those who might be a little too polite when replying to spam emails.
+What was that?
+To try Incogni, you can go to incogni.com/veritasium or also scan this QR code.
+And if you use our code veritasum, you get an exclusive 60% off to get your data off the internet.
+So that's incogni.com/veritasium, or also there's a link in the description.
+Get your data off the internet.
+Go, go get it off
+What are you doing here?
+Braess's paradox doesn't occur every time you modify a network.
+You need a very specific set of conditions for it to occur.
+But if you can make it work consistently...
+you get this.
+So we're here at the AMOLF Institute where they've actually figured out,
+how to make something shrink when you pull it. 
+So let's go check it out.
+Is it here?
+Yeah, I made all the samples.
+Oh, that's so weird.
+Right?
+I guess you never expect things to yank back on you so unexpectedly
+because a rubber band you're stretching it and you feel
+it wants to pull back on you more and more but here just,
+you're not ready for it
+- Yeah, the force is increasing suddenly, which is a weird feeling.
+There's something almost like human about it where it starts tugging back on you when it gets mad.
+What's special about this mechanism is that everything else around us works in the complete opposite way.
+Try to press one of your keyboard buttons slowly so that it steadily goes down into place.
+You can't do it.
+No matter how slowly you go, there is some point at which it just gives way and clicks through.
+The same happens if you try to stretch a bendy straw.
+You can pull on it as slowly as you like,
+but at some point the individual straw joints are going to expand suddenly.
+Light switches, eyeglasses, grasshopper legs,
+these all have a failure point beyond which they give way and quickly snap into a different position.
+And this is called, well, snapping.
+Here it is mapped to a force displacement graph.
+As you'd expect, the more force you apply, the the more the material bends or displaces.
+But eventually you reach a tipping point,
+and beyond it, the force required to bend material further actually drops.
+So if you apply a force higher than that peak,
+the displacement has to rush to the next corresponding value to match the force,
+which is all the way on the other side of this dip.
+And as a result, you get a huge amount of displacement for that tiny increase in force.
+That's what creates the sudden snap.
+It's very intuitive, I mean, you've all experienced it, at least if you're in the Netherlands with your umbrella,
+there's a gust of wind underneath your umbrella.
+It pops to the other side, so you sort of go over a peak
+in energy or in force, and it suddenly snaps, and typically it becomes softer.
+And this is the way all things snap.
+Everything used to fail in the direction of the applied force
+until this mechanism came about, doing the exact opposite of snapping.
+Call it counter-snapping.
+Imagine that gust of wind blows under your umbrella, but instead of flipping out,
+your umbrella suddenly closes in.
+Or you try to pull apart a straw and the joints suddenly contract.
+The wind is pushing on my umbrella, but instead of it folding out...
+- It would push itself against the wind to close itself.
+But it feels like it violates physics.
+It's just so counterintuitive that the displacement is in the other direction to the force.
+- Yeah that's why it's fun.
+So how does this thing work?
+Well, the mechanism itself is built out of three different components,
+and on their own, they all stretch normally when you try to pull them apart.
+Individually they behave like springs in the sense that they extend when you pull on them.
+- But then you combine them together and then suddenly they shrink?
+- Exactly
+If you draw the system as a set of springs, it looks something like this.
+The long and lanky components represent the two springs on the sides,
+but they actually don't feel like springs at all.
+You can easily pull them apart until they suddenly get very stiff.
+Meanwhile, these pieces represent the top and bottom springs, and they feel a lot more springy.
+So the more you pull them, the more they pull back.
+And finally, the central piece, it looks very similar to the previous one, but pulling it apart feels very snappy.
+In fact, you can even hear it snap out.
+Put them all together, and you get the mechanism.
+If you stretch it slowly, you'll see how tension builds up in the three middle pieces,
+with the sides staying mostly relaxed.
+But if you keep stretching,
+the centrepiece will suddenly snap out and transfer most of its tension to the side springs.
+This causes the system to stiffen and shrink.
+If you now let go, the system resets.
+So the mechanism can flip between a set of springs in series to one in parallel
+It's a reversible case of Braess's paradox.
+The network is basically the same as the Braess paradox,
+- Yep
+so the way they are connected, the topology of the connection is exactly the same.
+The force displacement graph you get for the mechanism is one that loops in on itself,
+with two distinct curves.
+One for the system in series, and the other for the systems in parallel.
+And this leads to some pretty remarkable properties.
+If you slowly control the stretching force by adding water to a cup below the mechanism,
+the mechanism first slightly sags, like you'd expect,
+but when you reach the tipping point at the end of this curve.
+Displacement has to quickly reduce to keep following the force along the graph,
+and this jump back is why the mechanism shrinks.
+Now, you can also control displacement instead of force,
+and measure how much force it takes to stretch the mechanism at any point.
+This time, when you reach the tipping point,
+it's the force that has to follow displacement along the graph, so you get a sudden jump up in force,
+showing that the material has stiffened.
+Oh.
+This little force jump is enough to make it slip out of your hands, if you pick some.
+I mean it even though you said it is a small jump.
+It's like this is the only thing that does this anywhere probably on earth.
+Yeah, as far as we know, the force jump thing like this, it's not reported.
+It's pretty insane.
+So what is countersnapping actually useful for?
+Well, notice that there is a force at which the series and parallel curves of the system overlap,
+which means that at this force, the mechanism will actually be the same length in both states.
+So if you exert that exact force on the structure by, for example, hanging a weight from it,
+you can flip between the two states by giving the mechanism a little tug.
+And although that will change whether the springs are in series or parallel,
+it won't change how long the system actually is.
+So you can change the stiffness without changing the length.
+Now look at what happens if you give the mechanism a nudge in its original series state.
+If you poke it, it's basically a way to measure the natural frequency.
+- Oh yeah.
+When the mechanism is in series, the natural frequency is 3.7 Hz.
+But if you switch to a parallel setup, the Natural frequency increases to 6.4 Hz.
+You switch it and we look at the natural frequency now we can see it's much higher.
+What's unique here is that you're able to almost double the natural frequency of the material
+without changing its length.
+I'm going to move the robotic arm very slightly, just up and down.
+- Yeah, ok.
+And I put a frequency of 3.5 Hz, so it's close to the natural frequency of this system.
+This is going to drive the structure into resonance,
+but once the vibrations get big enough, the mechanism is actually going to switch states on its own,
+change its natural frequency, and thereby reduce the vibrations.
+Like, it gets stronger and stronger and then it just locks it out.
+Yeah, that's cool.
+The same happens in reverse.
+If you vibrate the robot hand at 6.4 hertz,
+the mechanism is quickly going to switch back to its original state and minimize the vibrations.
+It's interesting, the way that you say it, we're moving the point at which resonance happens
+and that's what stops excessive vibrations.
+Interesting, yeah.
+Other snapping structures could also switch upon resonance,
+but the problem is that once they switch,
+they are much more elongated, much more contracted, so they wouldn't provide the same function.
+You could use this effect to keep structures from vibrating or reaching resonance.
+Could it be easier to install a system like this where you're actually moving the resonance instead of
+like a whole tune mass damper or,
+or something like that?
+Yeah, I think this solution is still very complex.
+It's a very complicated design, but I think the principle could be used.
+I know it's still super early, but I'm really excited to see it pop up somewhere in a couple of years or decades.
+It's more about the concept and showing what it can do.
+We're going to try to see if we can maybe make counter snapping also, maybe with different type of variables.
+It's going to be like a balloon that deflates when you inflate it.
+You increase the pressure and the volume would decrease.
+Wait, really?
+That's crazy.
+That would be the equivalent, but it's not there yet.
+We'll see if, in principle, it should be possible.
+- That's so cool.

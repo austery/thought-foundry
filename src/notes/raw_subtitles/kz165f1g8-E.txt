@@ -1,0 +1,714 @@
+- This is the world's largest 3D metal printer.
+It was built by Relativity Space,
+a startup that aims to
+print an entire rocket,
+including fuel tanks and rocket
+engines, in just 60 days.
+I'm like looking inside
+a 3D printed rocket
+that is actually gonna go to space.
+This giant hunk of
+metal, it's unbelievable.
+This video is sponsored by Omaze.
+Offering you the chance
+to win a trip to space.
+More about that at the end of the show.
+- There's a lot of UV
+coming off the welds,
+you can film it, but
+don't look directly at it.
+You get sunburned fast, so
+it's like you're suiting up
+to go in a volcano.
+All right, we're gonna
+go in to the 3D printer,
+and see how it works.
+All right, so, yep, just hold this up.
+Don't look at it.
+We are in the printer.
+- I can see it over there.
+- If we walk around here,
+we can get up close.
+(machinery whirring)
+(machinery beating)
+So that's the wire melt team,
+and the print head moving around.
+So that's the plasma discharge,
+and it's hard to tell,
+but it's doing things every
+couple of milliseconds,
+it's actually changing
+the electric wave form,
+which is how it's controlling
+the deposition so well.
+- Do you know the temperature of it?
+Like, is it just above melt temp?
+- It's just above melting for aluminum.
+Yeah, probably a few
+hundred degrees above.
+- The melting point of aluminum
+is 660 degrees Celsius.
+So the whole body of the rocket
+is effectively melted together
+one tiny bit at a time.
+- All the raw metal
+for the whole rocket
+that's printed is this.
+It's a, you know, we kind of joke
+it's like Charlotte's web.
+Like a spider silk, but
+this is an aluminum alloy
+that's on a wire spool.
+We actually print about
+10 inches a second.
+So this wire is really going super fast,
+and then the combination of
+lasers and plasma arc discharge
+are working to melt both of
+them together at the same time.
+- So where does the wire come out?
+- So it's right there, and
+then the electric arc discharge
+happens right at the tip of the wire too.
+- This is a camera.
+- Yeah, that's a camera.
+- But why would you want
+to 3D print a rocket?
+Is it just because we can?
+It's funny to me that
+you had this experience with
+3D printing where you're like,
+oh, 3D printing is clearly the future.
+Whereas, I feel like a
+lot of people's experience
+with 3D printers as mine has been,
+it's like incredibly frustrating.
+I feel like 3D printing is that thing
+that seems like it should be great,
+and yet whenever I try it,
+I don't get a result that I'm happy with.
+- Yeah, I know.
+I can tell you, we had
+plenty of experiences
+the first couple of years,
+where we ended up with a pile
+of metal and it didn't work.
+- But there are actually good
+reasons to 3D print a rocket.
+A rocket has four major systems.
+Payload, guidance,
+structural, and propulsion.
+The bulk of the rocket is made
+up of the propulsion system,
+including the propellant
+tanks and the rocket engines.
+Cryogenic fuel and oxidizer are pumped
+through an injector into
+the combustion chamber
+where they react, releasing
+an enormous amount of heat.
+This causes the exhaust gases to expand,
+exiting the rocket
+nozzle at high velocity.
+The faster this exit velocity
+and the higher the mass flow rate,
+the more thrust that can be generated.
+So rockets are huge, complex
+engineering projects,
+which up to this point have
+largely been manufactured
+using traditional techniques.
+That means before you
+can build the rocket,
+you first have to build the
+tools to build the rocket.
+For example, to build
+NASA's next huge rocket,
+the Space Launch System or SLS,
+they first needed to construct
+the vertical assembly center or VAC.
+This is a 170 foot tall
+tool for welding together
+the domes, rings, and barrel sections
+of the rocket's fuel tanks.
+- They built that like an aerospace thing,
+and they've had to spin up all
+these custom tooling designs
+and validate that those work
+before actually starts
+building the rocket.
+And they finally got one
+being assembled on the pad
+after 11 years of development.
+In contrast, Relativity Space the company,
+is just five and a half years old,
+and they plan to launch
+their first rocket this year.
+- I see this as a like
+old engineering style
+versus Silicon valley
+style of build something,
+figure out what's wrong with it,
+and build another thing
+that fixes those, right?
+The differences, I've always
+done that with software.
+These guys are doing it
+with aerospace hardware.
+- So this is the actual
+rocket tank structure
+of what we're gonna be launching to orbit
+at the end of this year.
+So this actual thing
+is launching to space.
+- That will go to space?
+- This will go to space,
+and it's by far the largest
+3D printed product really,
+of any type ever made that's gonna fly.
+I think maybe of any type in the world.
+- But it still looks 3D printed.
+Like you can still see the layers.
+- Yeah, yeah, you can
+still see the layers.
+It only adds an extra
+5 to 10% of the mass
+with the roughness.
+When you actually cross
+section the material
+and look at the machine parts of it,
+it looks like normal metal.
+Like actually at this end,
+this is printed as well.
+We just machine it afterwards.
+So it looks like normal
+metal in the joint sections.
+- Does the surface roughness
+cause any aerodynamic problems?
+- No, none at all.
+Yeah, it's actually the
+exact same aerodynamically.
+This whole thing, we simulate
+the print before printing,
+because if you just printed,
+you know, the 3D file
+and said press print, you
+would end up with a printer
+that's warped and like material
+falling all over the place
+that wouldn't actually work.
+So we've invented software
+that reverse warps
+the whole part before printing it.
+So the robots are actually doing this
+really wobbly, weird shape,
+but then it's actually perfectly straight
+within a human hair at the entire length.
+- As it cools
+- As it cools.
+The warpy thing turns into the...
+- And then we simulate all of that.
+So it's a big computational solver
+that simulates it, and there's
+many, many other problems
+we've had to solve to actually get
+printing a rocket to work.
+But it's all these little pieces
+over the last couple of years,
+and we've really started
+to hit some breakthroughs,
+which is also why now
+you see a whole rocket.
+Yeah, you can step up here actually
+if you want.
+- Can I?
+- Yeah, yeah.
+(man laughs)
+- Hello.
+I'm like looking inside
+a 3D printed rocket
+that is actually gonna go to space.
+- Yes.
+- This giant hunk of metal.
+It's unbelievable.
+There's like rings inside.
+- Those are printed in stiffeners.
+And so those help prevent the rocket
+from buckling and crumpling.
+So if you had a Coke can,
+and didn't pop the tab,
+if you try to step on it,
+it's almost impossible
+because there's pressure inside
+that keeps it from buckling.
+But then when you pop the tab,
+there's no pressure and you
+can crunch it super easy.
+It's not hard at all.
+So rockets are the same.
+The 50 PSI of pressure,
+which is about the same as a car tire,
+keeps it inflated and
+keeps it from crumpling,
+but then the stiffeners
+also help keep it rigid.
+- Yeah, so believe it or not,
+a rocket tank is thinner
+versus its diameter
+than a Coke can.
+So when you look at a Coke can,
+you know how big it is
+and then how thin it is,
+a rocket tank is actually
+thinner than that.
+So yeah, it's pretty light.
+It has to be very light.
+- Sure.
+Aerospace companies started
+using metal 3D printing
+over a decade ago to
+construct small complex parts.
+For example, the injector.
+- That is the most important
+part of any rocket engine,
+where you basically gotta
+take the liquid propellant,
+and turn it into a fine mist
+that mixes really rapidly.
+And those have actually been transitioned
+to 3D printing all over the industry.
+- Traditionally, something like this,
+it's a bucket engine injector.
+So it mixes liquid oxygen
+and liquid methane propellants together,
+and this is what actually
+produces all the fire and flame
+that is in a rocket engine.
+Traditionally, it would be over
+a thousand individual pieces
+and it would take nine months,
+but here we're 3D printing
+the whole thing in one piece.
+It takes two weeks and
+it costs 10 times less.
+- One of the big benefits of 3D printing
+is reducing the number of parts.
+Have you ever thought about
+how inside a rockets combustion
+chamber, it gets really hot.
+Up to 3,500 Kelvin.
+That's hot enough to
+melt virtually any metal.
+So how do the combustion chamber
+and rocket nozzle not melt?
+The answer is they're cooled by passing
+the cryogenic propellants over them.
+- On the Space Shuttle main engines.
+I love to talk about them
+because inside those engines,
+it's hot enough to boil iron.
+On the outside, you can freeze stuff
+to the exterior of this
+because you're running liquid
+hydrogen through these things.
+But to make those,
+you basically had to take
+thousands of very small pipes,
+and then you would form them
+into the shape of the combustion
+chamber and the nozzle,
+and then you would braze
+weld them together.
+And this was a ridiculously
+labor-intensive task.
+You would have 1,080 individual
+pipes running up the side,
+all having to be weld together
+to make the combustion
+chamber and the nozzle
+on the Space Shuttle engines.
+So you can actually 3D print these things.
+- This is a rocket
+nozzle being 3D printed,
+and you can see the channels
+for the cryogenic propellants
+being printed right into the single part
+instead of having to add a
+thousand pipes on the outside.
+Smaller parts like these
+are typically 3D printed
+using metal powder and lasers.
+- So you can see the cooling channels
+are all being built as the one piece.
+So this is a nozzle.
+It really just lays down a layer of powder
+that's about a 20th the
+thickness of a human hair.
+So it's really, really fine layers
+just over and over and
+over and over relentlessly
+for probably about a week or so,
+and then out comes the rocket nozzle
+all printed as one piece.
+It's way cheaper than traditional.
+And this has four lasers going at once.
+- That's amazing.
+- I get asked a lot, well,
+aren't 3D printed metals
+not very strong?
+Or how can it actually work?
+But the printed materials are stronger
+than they would be built
+traditionally, actually.
+It's counterintuitive.
+- It is.
+- Because we develop our
+own custom alloys in house.
+So we have a whole material science team
+just developing our own
+alloys for 3D printing,
+and the fact that it melts
+and then cools and solidifies
+very, very quickly, you can take advantage
+of that physics principle
+to get really strong alloys.
+- Another major benefit of 3D printing
+is that it allows for rapid iteration.
+You can build a part quickly, test it,
+and then redesign rapidly and print again.
+- So this is a version of the engine
+that's about three
+years old at this point,
+but what's amazing is
+when you actually look
+at the engine design today,
+it looks entirely different than this.
+So each version we build, we
+can iterate and make better.
+So that's the other, you know,
+when we say software driven manufacturing,
+that's really what it is.
+Since you don't have fixed tooling,
+all the part geometries
+are just controlled
+via the CAD model, and then
+the printers just print
+direct from file essentially.
+It means you can actually change
+the design extremely fast.
+So building a whole engine
+only takes us about a month.
+So then a month later, you
+can do a better version,
+and a month later, a
+better version than that.
+So this particular one will actually be,
+I believe one of the first flight engines
+that's actually launching to
+orbit on our first rocket.
+- So this tubing, not 3D printed, right?
+- Not today.
+- Okay.
+- In the future versions,
+we're actually integrating that
+into the printed housings.
+And we're gonna have a way
+that that's all printed too.
+- Perhaps the biggest impact
+of the 3D printing approach
+could be to totally transform
+what a rocket looks like.
+With 3D printing,
+engineers can build parts
+that would be impractical or impossible
+with traditional techniques.
+Smooth, curvy, bio-inspired designs
+are just as easy to print
+as ordinary structures.
+- This is actually part of
+our next rocket, Terran R.
+So it's even larger.
+- This is like the base of a tank.
+- Yeah. Yeah.
+So it's gonna go out.
+It's almost done printing.
+It's gonna go out about to here.
+So it's 16 foot diameter,
+but it's almost like a shell.
+- I was gonna say like,
+this reminds me of suddenly
+we're in The Little Mermaid or something.
+- Yeah, yeah.
+Yeah, it's just for stiffness though.
+- It's not that you plan
+to make it bio inspired.
+It's like that structure is
+actually the optimal structure.
+- Yeah, yeah.
+- We're actually designing
+many features in the rocket
+that could not be manufactured
+unless it was 3D printed,
+which is one of the secret sauces
+of why you had to build a
+whole company around it,
+is because our rocket actually looks
+entirely different 3D printed
+than it does traditionally.
+Like in my mind, it's been more akin
+to like gas internal
+combustion engine to electric.
+You know, really, people
+are trying to put batteries
+and electric motors into
+existing products for decades.
+Like everyone knew electric
+vehicles were the future,
+but Nissan and Ford had
+really not compelling products
+for a long time.
+It wasn't until a company
+came along called Tesla
+that decided, well, actually
+the shift to electrification
+means the batteries, the
+electric motors, the factory,
+the design of the product,
+how we're actually
+gonna scale the company,
+the supply chain, all of it's different
+because of electrification.
+I mean, that's in some ways,
+the dirty secret of electric cars
+and why they're able to
+be automated in production
+because the part count is so much lower.
+So for a fully 3D printed rocket,
+we have a hundred times fewer parts,
+which is what we're guiding to.
+There's no fixed tooling
+in our factory at all.
+Unlike the rest of aerospace
+that's still really, 60 years later,
+even since Apollo building products
+one at a time by hand
+with hundreds of thousands
+to millions of individual parts.
+And no one's really changed that paradigm
+of how an aerospace factory
+actually fundamentally works.
+- Yeah, this is the new
+fully 3D printed rocket.
+So yeah, we'll have dragon
+fly wing type structures
+and we're building it so.
+But that's the first one,
+and then that's that one for scale.
+So yeah, it is definitely bigger.
+Yeah, so our rocket is named
+Terran One and Terran R,
+and then our 3D printer's Stargate.
+So all the things here at Relativity
+are named after StarCraft.
+So yeah, of course, the Stargate printer
+was with the Protoss
+used to warp in spaceships.
+And so, that's what's warping
+in spaceships at Relativity.
+We have a system in our
+avionics called the Pylon
+that we have to build a lot of.
+So we always joke, we have to
+construct additional Pylons.
+Most people don't know how rockets
+are built traditionally at all anyway.
+And I think a lot of
+people assume it's rockets,
+so shouldn't it be already very advanced
+and robots everywhere and you know,
+Elon's got Space X and Tesla,
+so doesn't Space X just look like Tesla
+with all these robots and automation?
+But that's really not true.
+I mean, aerospace hasn't
+adopted automation at all.
+- One of the issues, right,
+is that you're not making
+a lot of rockets?
+- Right?
+- So there's no incentive
+to like figure out
+how to tool up a factory
+to like pump out rockets
+like a hundred a day or something.
+- Exactly.
+- Like you would for cars.
+- Exactly, you're not making a lot.
+Even with commercial aircraft,
+you're not making nearly as many
+and there's orders of magnitude
+more parts and complexity.
+A commercial aircraft has
+several million individual parts.
+So to have robots assemble
+several million parts
+when an automobile has tens of thousands
+is completely different.
+It's a much harder problem.
+So that's where 3D printing
+is automation for aerospace
+because you're not assembling
+all those parts with robots
+like you would with a car,
+you're assembling them in the 3D file
+and then the printer just
+prints them assembled.
+- The plan for Relativity Space,
+is it low-earth orbit or is
+it going further than that?
+- So for Terran One, it's
+mostly low earth orbit.
+The first rocket.
+Terran R can actually send
+payload to the moon to Mars.
+I mean, it's pretty, pretty huge.
+I founded the company
+because I really thought
+that there needed to be, you know,
+dozens of hundreds of
+companies making Mars happen.
+We're focused on taking
+this 3D printing tech
+and what we call the
+factory of the future,
+and one day shrinking it down to something
+we'll actually launch to Mars
+and build an industrial base.
+So that's the long-term
+vision of the company,
+is build the industrial base on Mars.
+In many ways, this factory
+is just a prototype.
+It's still far smaller
+than a traditional factory.
+It's far lighter.
+And I think it's inevitable
+someone has to build this company.
+- I don't know that in 10, 20 years
+that you will be 3D printing
+rockets all the time.
+Because if you are flying lots of rockets,
+it becomes cheaper to have
+a dedicated machine for it.
+I do think that as a
+company, they are well-placed
+because even if Terran fails
+to capitalize on the market,
+even if nobody wants to
+use it as a launch vehicle,
+they are clearly now the world experts
+on 3D printing rocket hardware,
+'cause they've done everything, right?
+They've tried to apply
+3D printing to places
+where a lot of people dismissed it.
+So I think they're sort
+of secure as a company.
+Whether we will see rockets
+being 3D printed all the time?
+That's a good question.
+- There've been a lot of talk recently
+about billionaires going to space.
+- Yeah.
+- Will a 3D printed
+rocket make it possible
+and a lot cheaper for me to go to space?
+- Yes, I mean, certainly what we're doing
+is lowering the cost.
+So our rockets are
+costing about five times
+to, you know, I believe we can get to 10
+or even a hundred times cheaper
+with a fully reusable rocket
+than what we have today.
+So it can definitely
+climb down the cost curve.
+But I also think, you know, going to Mars
+and the first people that are going,
+it really is about what is the
+point of being a human being?
+Like for me, why go to Mars?
+If we were having this conversation
+and a million people were
+living on another planet,
+I think it would expand the possibilities
+of human experience and what
+it means to be a person.
+Like we'd have YouTube channels on Mars
+and people sharing what life
+on Mars is like versus earth.
+And there'd be long distance
+Amelie, like love stories.
+Like I think there's
+just a lot of richness
+in what human culture
+and society can be about.
+Yes, I think there's criticism about,
+you know, billionaires going to space
+and I don't agree with.
+You know, all of the projects
+need to actually add up to
+some vision that is meaningful.
+I think that's really important.
+But I do think going to
+Mars is really just about,
+you know, we've lived
+for generations on earth,
+so what's it all about like,
+why do we want to keep
+improving and getting better
+and furthering society on earth?
+So for me, it's pretty existential.
+What it means to be a human being.
+(techy sound effect)
+- Hey, this video is sponsored by Omaze.
+Offering you the chance
+to win a trip to space.
+The winner will get two seats
+on one of Virgin Galactic's
+first commercial space flights.
+Meaning you and a guest
+will travel 80 kilometers
+up in the sky.
+You'll get to see the
+curve of planet earth,
+experience weightlessness,
+and become one of the
+few people in the world
+to have gone to space.
+And you also get to
+join Sir Richard Branson
+for a personal VIP tour
+of Spaceport America.
+The flight is estimated to
+take place in early 2022.
+So enter at omaze.com/veritasium
+for your chance to win.
+Now, Omaze partners with charities,
+in this case Space for Humanity,
+an organization whose mission
+is to expand access to space
+and train global leaders
+in the eventual goal
+of creating a sustainable future.
+So part of your contribution
+supports this cause.
+To potentially win a trip to space
+and support Space for
+Humanity, a great cause,
+go to omaze.com/veritasium.
+I will put that link
+down in the description.
+So I wanna thank Omaze
+for sponsoring this video,
+and I wanna thank you for watching.

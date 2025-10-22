@@ -1,0 +1,724 @@
+- [Derek] There are
+robots the size of bees,
+others that can jump on water,
+and some that are powered
+by tiny combustion engines
+the size of a penny.
+One day they could work in swarms,
+they could save your
+life, or even spy on you.
+We got access to the best micro
+robotics labs in the world.
+- Whoo, that flipped.
+- [Derek] To learn
+how these robots work
+and what are they for.
+This video is sponsored by Onshape.
+This is a tiny yellow submarine.
+Under water, it can move around
+by flapping these miniature
+wings nine times per second,
+but you can use those same wings
+when the submarine is out of the water,
+only now you have to flap
+them 250 times a second
+to make it fly.
+So, this robot can do both.
+It can fly and swim,
+but since it weighs only 175 milligrams,
+about the mass of two Cheerios,
+surface tension is a problem.
+- That's a consequence of
+physics at a smaller scale.
+The surface tension is like a wall
+that blocks the transition process.
+- This happens because water molecules
+are slightly polar.
+Groups of these molecules
+pull in all directions,
+but at the surface there's no water above,
+so the pull is only
+sideways and downwards.
+This imbalance creates
+strong, cohesive forces
+that compress the surface
+into a tightly packed layer,
+making it difficult to break.
+This is the same effect
+that lets water striders walk
+on the surfaces of ponds and lakes.
+This other robot weighs only 68 milligrams
+and by using a spring mechanism
+that mimics a flea's leg,
+it can jump without breaking
+the water's surface,
+just like a water strider.
+(upbeat music)
+(water bubbles)
+It's like there's solid ground below.
+(water bubbles)
+Now that's great if you wanna
+stay on top of the water,
+but this barrier can also be a problem
+if you want to go underwater.
+To escape this trap,
+the submarine splits water
+into hydrogen and oxygen
+and then stores these gases
+in a buoyancy chamber.
+It does this because the
+wings are super fragile.
+If they started flapping while the robot
+was still trapped under water,
+they would break right off.
+So, the buoyancy from the gas
+helps bring the fragile parts
+of the robot out of the water,
+but the robot is still stuck
+in that top layer of surface tension.
+So, a sparker inside the
+chamber ignites the gas,
+and the explosion breaks
+the surface tension
+and shoots the robot 30
+centimeters into the air.
+And once it's free, this robot can fly.
+This robot found a different way
+to break through the surface tension.
+It uses these large water
+repellent copper pads on its feet
+to walk on the water,
+but when it needs to dive beneath,
+it applies 600 volts to those pads,
+which creates a positive charge
+that attracts water molecules to it
+and breaks the hydrophobic barrier,
+and that allows it to sink on command.
+(gentle music)
+(water gurgling)
+Then, once submerged,
+it can walk underwater.
+Both of these robots were
+made by Dr. Kevin Chen at MIT.
+- We're looking at the flight room,
+and this is where we do all
+of our flight experiment.
+As you can see, it has
+motion capture cameras.
+- [Derek] This lab
+is one of the only places in the world
+where robots this small attempt flight.
+- [Henry] Okay, so because
+this robot's so small,
+it is such low inertia, right?
+So, you're saying that
+it could flip faster
+than any other drone in the world?
+- Beyond 7,000 degrees per second.
+I mean, you can actually hit the button.
+- You'd let me hit the button?
+Yeah, I'd love to.
+- Ready?
+- Yep.
+- Okay.
+- Three, two, one.
+(robot buzzing)
+(triumphant music)
+(group cheering)
+(defeated music)
+(robot buzzing)
+- We know who's fault it is.
+(group laughing)
+- [Derek] Getting these
+robots flying is tough.
+I mean, they're the size of bees,
+so the internal mechanisms
+have to be even smaller,
+like the parts of a watch.
+- Yep.
+(wing buzzes)
+- You got that?
+- [Derek] Components
+have to be precise
+to within five microns.
+That's a 10th the width of a human hair.
+- In the summer,
+we have those very big
+flies zipping by in the lab,
+and I was making the statement of,
+"Oh, they're just showing off."
+(group laughing)
+- [Henry] Take two.
+- Three, two, one.
+(robot buzzes)
+- Whoo!
+(gentle music)
+- That flipped.
+- There we go.
+(group clapping)
+- So these bots fly but not like birds.
+I mean, they don't soar.
+Instead, they have to use
+a whole lot more energy,
+flapping their wings
+hundreds of times per second.
+So why do they do that?
+Well, it comes down to
+this scale phenomenon.
+Larger objects typically
+have less surface area
+relative to their volume,
+and that's important.
+Let's just approximate a flyer by a cube.
+Let's say it's 10 centimeters on a side.
+Well then that would have
+a volume of 10 by 10 by 10,
+or a thousand cubic centimeters,
+and it would have an area
+of 10 by 10 by six sides,
+600 square centimeters.
+So the surface area to volume
+ratio would be 0.6 to one.
+But now imagine we have
+a much smaller flyer
+that is just one cubic
+centimeter in volume.
+Well, its surface area is going
+to be one by one times six.
+That is six square centimeters.
+So that's gonna be 10
+times the surface area
+to volume ratio.
+It's gonna have a surface
+area to volume ratio
+of six to one.
+Now why is that so important?
+Well, it's because drag
+depends on surface area.
+So if you have more surface area to volume,
+well you're gonna have a lot more drag,
+and also, at that small scale,
+you'll be much lighter
+relative to that drag.
+So you're not gonna have as much inertia,
+so you'll get pushed
+around more by the air,
+so you can't just soar
+through it like a bird.
+And that's why bees
+and other insects flap their wings a lot.
+What they're doing is
+generating swirls of air
+above the top of the wing,
+and those vortices create
+low-pressure zones.
+When combined with the high
+pressure below the wing,
+that is what generates lift.
+So they're pushed up into
+that low pressure region
+by flapping their wings back and forth.
+This robot was inspired by
+seeds from a maple tree.
+(gentle music)
+Their unique shape creates
+the same swirling vortices
+above the seed's leading edge,
+and as they fall,
+they spin and generate
+surprisingly high lift.
+These seeds are still just falling,
+but if you add miniature electric rotors
+to the ends of each wingtip on this robot,
+then it can generate enough lift to fly.
+(gentle music)
+(robot whirring)
+But this robot isn't quite insect scale.
+It actually weighs about 50
+times more than the RoboBees
+in Kevin's lab.
+So to power something that small,
+you can't just use electric motors.
+I mean, the magnets and coils
+don't scale down effectively
+to such a small size.
+(gentle music)
+So to power the first RoboBees,
+they had wings driven by special crystals
+called piezoelectric crystals.
+By applying a voltage across the crystal,
+they contract slightly,
+but only around 0.1%,
+not nearly enough of a
+deflection to make a robot fly.
+So roboticists designed a chassis
+that mechanically amplifies
+the motion 30 times.
+If you then turn the voltage on
+and off 120 times per second,
+the RoboBee flaps its wings and flies.
+But there is a downside
+to piezoelectric crystals,
+which is, they're fragile.
+Even a small impact to the
+wings and the crystal cracks,
+and the RoboBee stops working.
+So at MIT, they are building
+their RoboBees differently.
+- They're so confident that
+it will survive being dropped
+that they're gonna let me
+throw it off of a building.
+So, I mean, here we go.
+(robot dings)
+(laughing)
+Okay, we gotta go see it. Come on.
+(gentle music)
+(henry laughs)
+I mean, it looks pretty good.
+This is amazing.
+Like how does this thing
+survive? I have no idea.
+- [Derek] Well, these
+robots have a secret ingredient.
+- So put into scale.
+- Okay.
+- Zero it.
+- [Derek] Instead of using
+piezos to drive the wings,
+these bees use soft polymers.
+They effectively work like tiny muscles.
+- Just drop it here.
+- [Derek] They take a polymer
+and they coat each side
+with carbon nanotubes
+that creates two effective
+conducting plates.
+So if you apply opposite
+charges to these plates,
+that pulls them together,
+stretching out the polymer.
+But if like charges are applied
+to both plates, they repel,
+and so the polymer shrinks
+and if we roll up layers
+like this into a tube,
+we can amplify the force they generate.
+It stretches up to 25% of its length.
+By cycling the voltage
+hundreds of times per second,
+these muscles drive the RoboBees wings.
+- When you shrink down to smaller scale,
+your fly wing frequency goes up higher.
+So we are at the 400 hertz range.
+- Which is right in between
+a honeybee and a mosquito.
+- Yes.
+(group laughs)
+- [Derek] This flexible
+muscle can take bumps
+and scrapes and keep working,
+but if it's pierced by a needle,
+the carbon nanotubes get pulled in
+and then the plates touch,
+causing a short circuit that
+renders the muscle useless.
+But the scientists have even
+found a way around this.
+When high current is cycled,
+the carbon nanotubes that
+are touching burn off
+and so the muscle self-heals.
+Kevin and his team even invented a process
+to perform laser surgery on the robot.
+- You're creating smaller defect
+around a very, very big defect
+and then by isolating the small defect,
+you're using the small defect
+to isolate the big defect.
+So that was what we call
+the laser-assisted clearing process.
+- One robot was really
+tested to its limits.
+Its artificial muscle was
+pierced by cactus needles
+and hit by a laser beam
+(laser sizzling)
+and it could still fly,
+but these muscles are energy intensive
+and for robots at this scale
+that have to be so light,
+there's no room for extra batteries.
+Luckily, there is another
+way to get around.
+- [Henry] That's a jumping, flying robot.
+- [Kevin] Yeah.
+(upbeat music)
+- [Derek] This RoboBee
+conserves energy by hopping.
+This tech was used on another drone
+at the City University of Hong Kong.
+Normally this drone can
+only fly continuously
+for 6.3 minutes,
+but with the hopping attachment,
+it can keep moving for 50 minutes,
+nearly 10 times longer.
+(RoboBee buzzing)
+Scientists believe this
+could be even more effective
+in low-gravity, low-air
+resistance environments like Mars.
+So it would be perfect for
+an ingenuity version 2.0.
+But microrobots are
+already being used today.
+(gentle music)
+(airplane whooshing)
+Every day planes complete
+hundreds of thousands of flights
+and most of them have
+multiple turbine engines.
+Now a crack in a turbine
+can be catastrophic,
+so manufacturers inspect
+them every 3000 flight cycles
+or 180 days,
+but inspections cost tens
+of thousands of dollars
+and can take a whole day.
+That's where this cockroach-inspired
+robot from earlier,
+HAMR, comes in.
+It's incredibly fast,
+it can run 10.5 body lengths per second.
+Speaking in relative terms,
+that's faster than a
+horse, and it's versatile.
+Its special foot pads can apply a voltage
+to polarized metal surfaces,
+creating an opposite
+charge underneath its feet
+and that's how it's able
+to stick to metal surfaces,
+similar to a balloon sticking to a wall
+after you rub it on your hair.
+Rolls-Royce and Harvard
+are working to put HAMR
+inside of engines to
+inspect for turbine cracks
+even upside down.
+And since its mass is so small,
+adhesion forces are much
+stronger relative to its weight.
+So HAMR can get into some tight spaces
+and that can be pretty useful.
+(sirens wailing)
+One of the first times
+that robots were deployed
+in an emergency situation
+was during the 9/11 search
+for survivors at Ground Zero.
+Unfortunately, they didn't
+turn out to be that helpful.
+They were big and expensive
+and they'd get stuck.
+Three different types inspected
+eight sections of rubble,
+but none found survivors.
+So an ideal rescue robot
+should be able to navigate tight spaces,
+withstand damage and debris,
+operate across varied environments,
+and be inexpensive enough
+to be replaced if destroyed.
+- The material cost is actually quite low
+for making the robot.
+The human labor is high,
+but in terms of the material, right,
+couple of dollars per robot,
+but it's really not that much.
+- Really?
+- Yes.
+- So the idea is to deploy swarms
+of insect-sized microrobots
+to search for survivors in disaster zones.
+(dramatic music)
+(siren wailing)
+But I understand when I say swarm,
+you might get a little worried.
+I mean, swarms of miniature killer robots
+are straight out of dystopian sci-fi.
+Think the hunter-seeker from "Dune"
+or the killer robot bees
+from "Black Mirror."
+- You might be familiar
+with that like famous
+"Black Mirror" TV episode
+where all like the bees.
+- Yeah, yeah.
+- Yeah.
+When that came out,
+everybody that I had ever
+met in my entire life
+sent me a text message and was like,
+"Hey bro, you seen this?"
+- [Derek] But this
+idea isn't so farfetched.
+In the early 2000s, bees were dying off.
+- It's called
+colony collapse disorder.
+- Congress is holding hearings,
+even the Vice President has been briefed.
+- In fact, the whole
+RoboBee project started
+with the goal of replacing the bees.
+Thankfully that idea didn't last long.
+- Bees can do much better jobs
+in terms of pollination than
+those robots much more cheaply.
+To pollinate,
+you need a huge colony of
+bees to do those effectively.
+Also, from an environmental
+protection perspective,
+I think it doesn't make sense
+to replace bees with robotics bees
+from a cost-effective perspective
+and also from the
+perspective of, you know,
+if you have so much money,
+why you making those bees
+than protecting the real bees.
+- Okay, so they won't replace the bees,
+but I can still easily imagine a world
+where these same robots
+that are supposed to help in a disaster
+are secretly being used to spy on me.
+(tense music)
+(robot buzzing)
+I mean, it's a bug that would
+literally look like a bug.
+(shower water dripping)
+That's terrifying.
+- Is there any fear from you
+about what they could be
+used for, like ethically?
+- We really focus on
+the fundamental science
+and solving the fun technical problems.
+And as a society in general,
+we all should think about collectively
+how to prevent those new
+technology from doing harm.
+- But we're getting a
+bit ahead of ourselves.
+I mean, most of the robots we've seen
+aren't able to spy on us.
+In fact, they're not
+even fully autonomous.
+- We have offboard sensing
+from those cameras,
+you have offboard power from those,
+and offboard computation.
+What you see today is
+everything is offboard.
+But hopefully in five years,
+then we can combine both sensing autonomy
+and power autonomy,
+and that's the longer-term goal.
+- That's awesome.
+- Harvard's RoboBee has
+managed short bursts
+of untethered autonomous flight.
+So it's fair to say we aren't that far off
+from robot insects
+operating freely around us.
+Still, there is a limit
+to how far these robots
+can go on just batteries.
+Batteries need shielding
+to prevent damage,
+short circuits, and leaks.
+And the thing is, as
+batteries are scaled down,
+this shielding has to stay
+about the same thickness.
+So that means smaller batteries
+become increasingly inefficient.
+And that's ignoring that
+the energy-to-weight ratio
+of batteries is just fundamentally lower
+than that of chemical fuels.
+At the insect scale,
+every milligram matters.
+- We just said, like let's
+just sail past all of that
+and just use a video game cheat code
+and just power our robot
+with the smallest explosions possible
+and put two tiny internal
+combustion engines on board it,
+and it works.
+(upbeat music)
+(robot tapping)
+And it sounds like a combustion engine,
+which is probably my favorite part of it.
+(robot tapping)
+- [Derek] Cameron's
+penny-sized engine runs
+on a constant stream
+of methane and oxygen.
+This is fed into a chamber
+where it's ignited by a spark
+and so it combusts,
+releasing a burst of energy.
+The hot gases rapidly expand,
+pushing against a
+flexible polymer membrane
+that acts like a piston.
+- So the membrane moves as the piston
+and then instead of having
+to, like, have any sort
+of elaborate system
+that brings it back down
+because it just naturally is elastic,
+it sort of has its own restoring force.
+That was our clever little innovation.
+- As the membrane shrinks back,
+it vents the exhaust gases,
+allowing the cycle to repeat.
+(mechanism tapping)
+Despite the continuous
+flow of methane and oxygen,
+the fuel line never catches fire.
+That's because as explosions get smaller,
+their volume shrinks much
+faster than their surface area.
+This causes them to lose heat more quickly
+to their surroundings.
+In Cameron's robot,
+only a small amount of
+gas burns at a time,
+so heat quickly escapes
+into the fuel line,
+cooling the gas
+and stopping the flame from
+traveling back up the line.
+With just two of these combustion chambers
+on a little robot,
+one for the front legs
+and one for the back,
+Cameron can control its heading.
+- You can actuate just
+one of the two sides
+at a given time if you want
+because both sides are operational.
+So if we spark in both
+sides, it'll move straight.
+But if we just do one or
+the other, it'll pivot.
+- [Derek] And this robot
+is super powerful for its size.
+- It weighs 1.6 grams,
+which is about as much
+as a gummy bear weighs.
+(robot tapping)
+It can jump like two feet
+in the air approximately.
+It can carry 22 times its body weight,
+which is about what a cockroach
+or a lot of beetles can do.
+We'll be able to put
+a fuel tank, you know,
+microelectronics sensors,
+a camera battery,
+and still have weight left over to go,
+and this thing will still chug along.
+That's the future. That's the goal.
+- Scientists have created robots
+that can do what some insects do
+and there are clear
+applications for this work.
+But for these roboticists,
+these self-labeled misfits,
+that's not what it's all about.
+- If it's about application,
+we should all like make a startup
+and try to like think about what we can do
+to make money, right?
+We think there are nice applications,
+like inspection and search and rescue,
+but I would say as a research lab,
+we are mostly driven by curiosity.
+I think that's a very
+honest answer. (laughs)
+(quirky electronic music)
+- So cool.
+If you are someone
+who designs hardware like
+these robots, mini or mighty,
+you know that you need to
+create a CAD model first
+so you can prototype and
+bring your ideas to life.
+But the problem with most
+mainstream CAD software
+is you need a very powerful
+computer and a mighty budget.
+That's why we reached out
+to today's sponsor, Onshape.
+Onshape is a modern CAD
+and PDM system designed for businesses.
+And unlike any other
+professional CAD system,
+Onshape is built entirely in the cloud,
+powered by Amazon Web Services.
+That means you don't need
+expensive computer hardware,
+it never crashes, and
+you never lose your work.
+It just runs in your
+browser on any system,
+be it Windows, Mac, Linux,
+or even on your phone.
+I can actually pull up that
+mini robot model right now
+and start moving some
+of these things around.
+It's also built to be collaborative
+so you can work alongside friends
+or colleagues like never before
+on the same design in real time.
+For businesses, you can
+trial Onshape for six months
+and for students' hobbyists,
+it's completely free to use.
+Just head over to onshape.pro/veritasium
+and sign up to get started today.
+Onshape also uses tried
+and tested Git-style
+version control methods
+from software design so
+you don't have to worry
+about sending multiple large files around
+and keeping track of all
+the different iterations.
+It is all done for you.
+None of this emailing V2 final final
+for real this time one nonsense.
+If you work for a government agency
+or have contracts with the
+government, I have good news.
+Onshape now has a plan that enables teams
+to comply with federal
+regulations like ITAR and EAR,
+so nothing is holding you back.
+Go sign up for free at
+onshape.pro/veritasium
+to get started engineering
+for the future today.
+I wanna thank Onshape for
+sponsoring this video,
+and I want to thank you for watching.
+It's so cool.

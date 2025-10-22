@@ -1,0 +1,865 @@
+This is a video about the most important
+algorithm of all time,
+the Fast Fourier Transform or FFT.
+I mean, you use it all the time
+including right now to watch this video
+and it's used in radar
+and sonar, 5G and WiFi.
+Basically, anytime a signal is processed,
+there's a good chance that
+a Fast Fourier Transform
+is involved.
+But on top of all this, the FFT
+was discovered by scientists
+trying to detect covert
+nuclear weapons tests.
+And if they had discovered it sooner,
+it may have put a stop
+to the nuclear arms race.
+You know I always assumed
+that the nuclear arms race
+was inevitable, that once
+the U.S. dropped atomic bombs
+on Hiroshima and Nagasaki,
+it was just unavoidable that
+all the other major powers
+would develop nukes.
+But maybe it wasn't because
+it was clear to everyone
+that nuclear weapons were game changing.
+The bomb dropped on Hiroshima
+released a thousand times
+more energy than the biggest
+conventional explosive
+so other countries were
+rightfully concerned.
+At the end of the war, Canada and the U.K.
+requested a meeting to
+discuss what would be done
+about nuclear weapons.
+And contrary to what I expected,
+the U.S. was actually
+open to these discussions.
+They realized that they
+wouldn't be the only nation
+with nukes for long.
+So they offered to decommission
+all their nuclear weapons
+if other nations would
+pledge never to make them.
+This was known as the Baruch plan
+and it proposed that an
+international body would control
+all radioactive materials on earth,
+from mining to refining
+to using these materials
+for peaceful purposes as a
+nuclear power generation.
+But the Soviets rejected the proposal.
+They saw it as just
+another ploy to maintain
+American nuclear dominance
+and so the global nuclear arms race began.
+To develop new nuclear weapons
+required extensive testing
+and most of it was done in
+remote places like the Arctic
+or the South Pacific Islands.
+The U.S. also created a
+nuclear testing site in Nevada,
+the radioactive products of
+which blew across the country
+so that outside of Japan, the
+people most adversely affected
+by American nuclear weapons
+were Americans themselves.
+The U.S. soon graduated
+from fission weapons
+to thermonuclear bombs which
+combined fission and fusion
+to release even more energy.
+They were as big leap from
+the first atomic bombs
+as those devices were from
+conventional explosives,
+a thousand times again more powerful.
+- Annihilation of any life
+on earth has being brought
+within the range of technical possibility.
+- [Narrator] In 1954 at Bikini
+Atoll in the South Pacific,
+the U.S. tested a new thermonuclear design
+that used lithium deuteride as a fuel
+and they expected the
+device code named Shrimp
+to release the energy equivalent
+of six million tons of TNT
+but they were wrong.
+(bomb blasts)
+It released two and a half times that
+due to unanticipated
+reactions with lithium-7.
+And as a result, more
+radioactive material was created
+and it rained down over a
+much larger area than planned.
+Residents of neighboring
+atolls were only evacuated
+three days later suffering
+from radiation sickness.
+And further east, the 23 crew
+of a Japanese fishing boat
+were caught in a flurry
+of radioactive white ash.
+And by that evening,
+they were suffering from
+acute radiation syndrome.
+One of the crew died from
+ensuing complications
+six months later.
+- [Reporter] As a result
+of the extended illness
+brought about by his exposure
+to the radiation fallout.
+- These events triggered public outcry
+against nuclear testing.
+The modern peace sign
+was designed in the 1950s
+by combining the semaphore
+letters for N and D
+standing for nuclear disarmament.
+A number of world leaders
+called for a comprehensive
+test ban, no more testing of
+nuclear weapons by any state
+and this call was actually taken seriously
+by the world's nuclear powers.
+They entered into negotiations at meetings
+with very literal names like
+the Conference on the Discontinuance
+of Nuclear Weapon Tests
+held in Geneva in 1958.
+And to show just how serious they were,
+they even stopped all testing
+during the negotiations
+which is why 1959 is the
+only year in a long stretch
+when no nuclear weapons were detonated.
+But there was a big
+problem with negotiating
+a comprehensive test ban
+which is how do you know
+that the other side will hold
+up their end of the bargain?
+The U.S. worried that the
+Soviets would continue
+testing covertly and
+leapfrog them technologically
+and the Soviets similarly
+distrusted the U.S..
+So to address these concerns,
+they convened the Conference
+of Experts to Study
+the Possibility of Detecting Violations
+of a Possible Agreement on
+Suspension of Nuclear Tests.
+Seriously, that was the name,
+I am not making this up.
+Now detecting atmospheric tests
+was fairly straightforward.
+The radioactive isotopes
+they produced disperse
+in the atmosphere and can be detected
+thousands of kilometers away.
+Underwater tests produce
+distinctive sounds
+that travel efficiently around
+a kilometer below the surface
+of the ocean and these can
+be picked up by hydrophones.
+But underground tests are much
+harder to detect from afar
+because their radiation
+is mostly contained
+and the Soviets refused to
+allow onsite compliance visits
+which they regarded as espionage.
+And this is ultimately why when
+a test ban treaty was signed
+in 1963, it was only a partial ban.
+It banned testing underwater,
+in the atmosphere and in space,
+places where compliance could be verified,
+but it didn't ban testing
+underground for the simple reason
+that it was almost impossible
+to verify compliance.
+But scientists had been
+trying to find a way
+to reliably detect
+underground detonations.
+Following the Geneva meeting,
+American and Soviet scientists
+formed a working group
+to discuss the issue
+and their idea was to
+use seismometers located
+outside the countries where
+nukes were being tested
+to detect the faint ground
+vibrations caused by explosions.
+The problem was how do you
+distinguish a nuclear test
+from an earthquake?
+Every day around the world,
+there are close to 300 earthquakes
+with a magnitude of three or greater.
+In addition, part of
+the purpose of detecting
+your adversaries tests is to spy on them,
+to know how big of an
+explosion they can make.
+But the seismometer signal
+depends not only on the yield
+of the device but also on
+how deep it was buried.
+For a given yield, deeper
+explosions appear smaller.
+So scientists wanted a
+method to reliably determine
+whether a given signal was
+a bomb or an earthquake
+and if it was a bomb, how big it was
+and how deep it was buried.
+They knew that all this
+information was contained
+in the seismometer signal but
+it couldn't just be read off
+by looking at the squiggles.
+They needed to know how much
+of different frequencies
+were present which meant
+they needed to take
+a Fourier transform.
+A Fourier transform is a
+way of decomposing a signal
+into pure sine waves, each
+with its own amplitude
+and frequency that add to make it up.
+This seems a bit like magic since the sum
+of a set of sine waves can
+look arbitrarily complicated
+and nothing like its component parts.
+There are some elegant ways to understand
+how Fourier transforms work,
+shout out to the awesome
+video by 3Blue1Brown.
+But I wanna take more of
+a brute force approach.
+If you wanna know how much
+of a particular sine wave
+is in a signal, just multiply
+the signal by the sine wave
+at each point and then add
+up the area under the curve.
+As a simple example, say our
+signal is just a sine wave
+with a certain frequency but
+pretend we don't know that
+and we're trying to figure out
+which sine waves add to make it up.
+Well, if you multiply
+this signal by a sine wave
+of an arbitrary frequency, the
+two waves are uncorrelated.
+You're just as likely to
+find places where they have
+the same sign, both
+positive or both negative
+as where they have opposite
+signs and therefore
+when you multiply them together,
+the area above the x-axis
+is equal to the area below the x-axis.
+So these areas add up to zero which means
+that frequency sine wave is
+not a part of your signal
+and this will be true for
+almost all frequencies
+you could try assuming you're looking over
+a long enough timeframe.
+The only exception is if the
+frequency of the sine wave
+exactly matches that of the signal,
+now these waves are correlated
+so their product is always
+positive and so is the area
+under the curve that indicates
+that this sine wave is part of our signal.
+And this trick works even
+if the signal is composed
+of a bunch of different frequencies.
+If the sine waves frequency
+is one of the components
+of the signal it will
+correlate with the signal
+producing a non-zero area.
+And the size of this area tells
+you the relative amplitude
+of that frequency sine wave in the signal.
+Repeat this process for all
+frequencies of sine waves
+and you get the frequency spectrum.
+Essentially which frequencies are present
+and in what proportions.
+Now so far I've only
+talked about sine waves
+but if the signal is a cosine wave,
+then even if you multiply
+it by a sine wave
+of the exact same frequency,
+the area under the curve will be zero.
+So for each frequency,
+we actually need to
+multiply by a sine wave
+and a cosine wave and find
+the amplitudes for each.
+The ratio of these amplitudes
+indicates the phase
+of the signal that is
+how much it's shifted
+to the left or to the right.
+You can calculate these
+sine and cosine amplitudes
+separately or you can use Euler's formula
+so you only need to multiply your signal
+by one exponential term.
+Then the real part of the
+sum is the cosine amplitude
+and the imaginary part
+is the sine amplitude.
+In the American delegation
+at the Geneva meeting,
+there was a physicist, Richard Garwin
+and a mathematician John Tukey.
+They got into a debate
+with the Soviet delegation
+over which nation's
+seismometers were superior.
+So Garwin simulated the responses
+of both countries' devices
+on a computer at CERN.
+The next day, everyone agreed
+there wasn't much difference.
+The real obstacle to detecting
+underground explosions
+wasn't the accuracy of the seismometers,
+it was the vast amounts
+of computation required
+to Fourier transform
+the seismometer signals.
+Here's an example seismometer signal
+and its Fourier transform.
+Thus far I've been thinking about signals
+as infinite continuous waves
+and when you take their Fourier transform,
+you get an infinite
+continuous frequency spectrum.
+But real world signals are not like that.
+They are finite and made
+up of individual samples
+or data points.
+Even though a seismometer
+signal looks smooth
+and continuous, it doesn't
+record ground motion
+with infinite precision.
+There is some fundamental
+graininess to the data
+so what you have is discreet finite data.
+So you can't use the
+idealized Fourier transform.
+Instead, you have to perform something
+called a Discreet Fourier Transform.
+And one of the distinguishing features
+of a Discreet Fourier Transform
+is that the frequency spectrum
+is also discreet and finite.
+You can think of the frequencies
+as falling into a finite number of bins.
+And what determines the
+number and size of these bins
+is the number of samples in the signal
+and how closely spaced they are.
+For example, the more
+spaced out the samples are,
+the lower the maximum
+frequency you can measure.
+Because the samples aren't
+close enough together
+to capture high frequency oscillations,
+the shorter the duration of the signal,
+the harder it is to tell
+similar frequencies apart.
+So this lowers the frequency resolution.
+The shorter the signal, the
+wider each frequency bin is.
+The lowest non-zero frequency
+you can effectively measure
+is one whose period is equal
+to the duration of the signal.
+And the higher frequency bins
+are just integer multiples
+of this frequency.
+So they fit two, three,
+four, and so on periods
+in the duration of the signal.
+The total number of
+frequency bins is equal
+to the number of samples in the signal.
+So if the signal is made
+up of eight samples,
+then the transform has
+eight frequency bins
+going from zero up to seven
+times the fundamental frequency.
+So let's do an example.
+Say we have a signal
+made up of eight samples.
+Well, then the discrete Fourier transform
+will have eight frequency bins.
+The first bin corresponds
+to a frequency of zero.
+Essentially this measures if the signal
+is systematically shifted off the x-axis.
+You can think of it as
+measuring the DC offset.
+You multiply each data point by one
+and add them all together, in
+this case, they add to zero.
+The second frequency bin
+corresponds to the frequency
+that fits one period in
+the duration of the signal.
+So in this case that
+corresponds to one hertz.
+You multiply each point by a
+sine wave of this frequency
+and a cosine wave of this frequency
+and separately add them up.
+For sine, they add to zero.
+For cosine, they add to four
+and then repeat the process
+for two hertz, three hertz,
+and so on, up to seven hertz.
+And you have the discreet
+Fourier transform
+of this really simple signal.
+Now this process works fine in principle
+and you could use it to calculate
+all discrete Fourier transforms.
+But the problem is it requires
+way too many calculations.
+To complete one discrete Fourier transform
+requires multiplying N data points
+by N different frequency waves.
+So N squared complex multiplications.
+Now this is doable for eight samples
+but if you had say a million samples,
+that would require a million squared
+or one trillion calculations.
+At the speed of 1960s computers,
+that would take over
+three years to complete,
+all for a single transform.
+Now a million samples is
+admittedly more than you would need
+for a single seismic event
+but to analyze tens of events
+per day from hundreds of seismometers,
+it would just be far too time consuming
+and that's what gave
+scientists the impetus
+to look for a better way.
+And the breakthrough
+came in 1963 at a meeting
+of the President's Science
+Advisory Committee.
+President John F. Kennedy was there,
+as were Garwin and Tukey,
+the physicist and mathematician
+from the Geneva meeting.
+Although they were discussing
+issues of national importance
+like the Apollo program and
+nuclear fallout shelters,
+the meeting was apparently pretty boring.
+Garwin observed Tukey doodling throughout
+but what he was actually doing
+was working on discreet
+Fourier transforms.
+At the end of the meeting,
+Garwin asked Tukey
+what he had worked out and
+he was shocked to learn
+that Tukey knew a way to compute
+discreet Fourier transforms
+with many fewer computations.
+It would mean that the
+calculation that would've taken
+over three years could be
+done in just 35 minutes.
+This has aptly become known
+as the Fast Fourier Transform.
+So here is how it works.
+Consider the example from
+before with eight samples.
+Each of those data
+points must be multiplied
+by the eight different frequency waves.
+Here I'm only showing
+cosines for simplicity.
+So you would expect this to
+require eight times eight
+or 64 complex multiplication.
+But due to the periodic
+nature of sinusoids,
+these waves of different frequencies
+overlap in a predictable way.
+For example, at the middle data point,
+all of the four odd
+frequencies have the same value
+and all of the four even frequencies
+have the same value as well.
+So instead of doing eight multiplication,
+you only need to do two.
+And this sort of duplication occurs
+at the other data points as well.
+So instead of performing 64
+calculations, you need only 24.
+Now that might seem
+like a small improvement
+but it's the difference
+between a calculation
+that scales as N, the
+number of samples squared
+versus one that scales
+as Nlog base two of N
+which means the bigger the data set,
+the greater the savings.
+A signal with a thousand
+samples would require
+100 times fewer calculations
+and a million samples
+would require 50,000
+times fewer calculations.
+But how do you know which
+calculations are redundant?
+Well, take your samples and split them
+into even and odd index points.
+You still need to multiply
+each of these by the eight
+different frequency waves.
+But now let's look only at
+the even points and compare
+the first four frequencies to
+the second four frequencies.
+And what you find is that in each case
+at the location of the samples,
+the values of the two
+sine waves are the same.
+A similar pattern can be
+observed for the odd index points
+except the values of one
+sine wave are the negative
+of the other.
+More generally, they're
+related by a complex number.
+But what this means is
+that you don't have to do
+all the multiplication for the second half
+of the frequencies.
+Once you've calculated
+the odd and even sums
+for the lower half the frequencies,
+you can reuse these values
+to find the upper half.
+So you've effectively cut
+the number of calculations
+required in half but that's
+only a factor of two,
+how do you get down to Nlog base two of N?
+Well, you repeat the same trick,
+split the samples again
+into even an odd points
+and then again repeatedly
+until you're down to single data points.
+At each split, you can
+exploit the symmetries
+of sinusoidal functions to
+cut the number of calculations
+in half.
+And that is how the Fast
+Fourier Transform reduces
+N squared calculations down to NlogN.
+And it's why today whenever anyone takes
+a Fourier transform,
+it's almost always done
+as a Fast Fourier Transform.
+Garwin approached an IBM
+researcher, James Cooley
+to program a computer
+to run the FFT algorithm
+but he didn't tell him
+the reason was to detect
+underground Soviet nuclear tests.
+He said it was to work out the spins
+in a crystal of helium-3.
+Cooley and Tukey published the algorithm
+in a seminal 1965 paper and
+its use immediately took off
+but it was too late to secure
+a comprehensive nuclear test ban.
+By that time, the U.K., France and China
+had joined the Soviet Union
+and the U.S. as nuclear powers.
+And the partial test ban treaty,
+far from deescalating
+the nuclear arms race
+just sent it underground.
+The thinking was if you were only allowed
+to test underground, then you
+better be testing extensively
+so as not to fall behind all
+the other nuclear states.
+So from 1963, 1,500 nuclear
+weapons were detonated.
+That's roughly one a week for 30 years.
+This testing facilitated the construction
+of an absurd number of nukes.
+At the peak in the mid 1980s,
+70,000 nuclear warheads were in existence.
+Total expenditure on
+nukes in the 20th century
+is estimated at around $10
+trillion each for the U.S.
+and the Soviet Union
+adjusting for inflation.
+If only scientists had been
+confident in their ability
+to remotely detect underground
+tests in the early 1960s,
+then a comprehensive test
+ban could have been reached,
+stopping the nuclear arms race
+before it really got going.
+To check how realistic this is,
+I asked Richard Garwin himself.
+- Well, it's a good story.
+- It is a good story.
+- It would've helped and it
+might have turned the tide.
+- But that would've required
+an earlier discovery
+of the Fast Fourier Transform
+and as luck would have it,
+it was discovered earlier
+but then forgotten.
+All the way back in 1805,
+Mathematician Carl Friedrich Gauss
+was studying the newly
+discovered asteroids
+of Pallas, Ceres and Juno.
+To determine the orbit of Juno,
+Gauss devised a novel
+approach to harmonic analysis
+and he jotted it down in his notes
+but later used a different method
+and he never thought to
+publish that first insight.
+Today we can see that
+Gauss had figured out
+the discreet Fourier Transform
+before Joseph Fourier himself
+published it in 1807.
+And he had developed the
+same Fast Fourier Transform
+algorithm as Cooley and Tukey
+a century and a half earlier.
+The reason his breakthrough
+was not widely adopted
+was because it only appeared
+after his death in volume three
+of his collected works and it
+was written with non-standard
+notation in a 19th
+century version of Latin.
+What do you think would've
+happened if Gauss had realized
+the significance of his
+discovery and had published it
+in a way that others could understand?
+With our modern network of seismometers
+and computing and the
+Fast Fourier Transform,
+today, we have the ability to
+detect magnitude three events
+which correspond to a one
+kilo ton or so explosion,
+basically anywhere on earth.
+Following Cooley and Tukey's
+paper, the use of FFTs exploded
+and they are the basis for
+most compression algorithms
+like the ones that allow you to watch
+and listen to this video.
+Here's how the Fast Fourier Transform
+allows you to compress an image.
+You take the pixel brightness
+values for each row
+of an image and perform
+a Fast Fourier transform.
+So essentially, you're
+figuring out what frequencies
+are present in the brightness values
+of the rows of an image.
+Here, brightness represents the magnitude
+of each frequency component and the color
+represents the phase, how
+shifted that frequency is
+to the left or the right.
+And then you perform another
+FFT for the columns of pixels.
+It doesn't matter if you do
+the rows or columns first,
+which you need is a two dimensional FFT
+of the original image.
+For almost all real world images,
+you find that a lot of the
+values in the transform
+are close to zero.
+I've taken the log of the transform values
+so you can see them but if
+I don't, then it's clear
+most of the values,
+especially toward the edges
+are very small and these
+correspond to high frequencies.
+And what this means is
+that you can throw out
+a lot of the information
+in the transformed image
+say 99% of it.
+But when you invert that result,
+you still get a fairly good
+representation of the original image.
+So on your computer, most
+of the images will be saved
+in this form as a two dimensional
+Fast Fourier Transform
+and then when you wanna
+look at the picture again,
+the computer simply inverts the transform.
+There are so many applications for FFTs
+from solving differential
+equations to radar and sonar,
+studying crystal structures, WiFi and 5G.
+Basically all kinds of
+signal processing use FFTs
+and that's why mathematician
+Gilbert Strang called the FFT
+the most important numerical
+algorithm of our lifetime.
+If only it had become more widely adopted
+after Gauss discovered it,
+the FFT may have even more dramatically
+transformed our world.
+Now I don't think Gauss
+could ever have imagined
+how important the FFT would be,
+just as most people don't think
+about the cumulative impact
+of their life's work.
+You know in an average career,
+you work 40 hours a week,
+50 weeks a year for 40 years
+and that works out to 80,000 hours.
+It means that your career might
+be your biggest opportunity
+to make a difference in the world.
+So what do you wanna
+do with all that time?
+Now the name of this video
+sponsor is 80,000 Hours
+referencing the amount
+of impact you can have,
+the amount of hours you spend at work,
+and they are not selling anything.
+80,000 Hours is a
+nonprofit that helps people
+find fulfilling careers
+that make a positive impact.
+The typical advice from career
+centers or aptitude tests
+really just focuses on finding a job
+that fits your personal preferences.
+But what if you care
+more about doing good?
+Well, they won't really
+know what to tell you
+besides a few well known professions
+like being a doctor or a teacher.
+When I finished college, I knew
+I liked filmmaking, teaching
+and science and that I wanted
+to have a big positive impact
+but YouTube didn't exist yet
+and so I honestly had no idea
+what I was gonna do.
+Now I feel really fortunate
+to be able to do something
+every day that I both enjoy
+and which makes a positive
+impact on the world.
+So believe me, there are
+a lot of things out there
+that you can do and 80,000
+Hours offers tons of resources
+to help you find those things.
+From research backed guides
+on how to pick a career
+that tackles pressing issues
+to a regular newsletter and podcast.
+They even have a curated job
+board that's kept up to date
+with hundreds of jobs they
+think will make an impact.
+They have done over 10 years
+of research alongside academics
+at Oxford University on how
+to find a career that is both
+fulfilling and which makes
+a positive difference.
+So their recommendations
+are accurate, specific,
+and actionable.
+If you care about what the evidence says
+about having an impactful
+career and you want real advice
+that goes beyond empty cliches
+like follow your passion,
+then check out 80,000 Hours.
+Everything they provide from their podcast
+to their job board is free forever.
+If you join the newsletter right now,
+you'll also get a free copy
+of their in-depth career guide
+sent right to your inbox.
+So to get started on a career that tackles
+the world's most pressing problems,
+sign up now at 80000hours.org/veritasium.
+I will put that link
+down in the description.
+So I wanna thank 80,000 Hours
+for sponsoring this part of the video
+and I wanna thank you for watching.

@@ -1,0 +1,781 @@
+Here are two metal
+cylinders and a single drop of superglue.
+Once it sets, you can literally hang
+from that one drop of adhesive.
+Oh my God.
+That is crazy.
+So how is superglue so strong?
+Well, that's what I want to find out.
+And along the way, we're going to learn
+how it sets so quickly,
+why it's so good at sticking to skin,
+how it saves lives,
+and how it might even help
+solve our plastic pollution problem.
+Plus, if it's so strong, one single
+drop can easily lift over three tons.
+Why is it weak in certain circumstances?
+Mom is going to kill us.
+*scream*
+In 1942, the US was at war.
+And to accelerate the production of gun
+sights, the Eastman Kodak Company
+was looking for a clear plastic
+that could be cast
+instead of grinding glass lenses.
+Chemist Harry Coover was working on
+a compound called cyanoacrylate.
+It looked promising,
+but it had the unfortunate tendency
+to stick to everything it touched.
+Coover called it a severe pain.
+And as the war wound down,
+Kodak gave up on finding
+a plastic replacement and kept on making
+gun sights out of glass.
+By 1951,
+Coover was again trying to develop a clear plastic.
+This time for jet plane canopies.
+If he could just solve the stickiness
+problem, cyanoacrylate could work.
+Coover showed the material to his coworker
+Fred Joyner,
+but gave him strict instructions.
+I told him, look, don't take a refractive
+index of this material.
+If you do, you're going
+to wreck the refractometer.
+Cos it’s going to stick it together.
+But after testing 909
+other compounds, Joyner had forgotten.
+So he prepped the 910 test by smearing
+cyanoacrylate between two prisms.
+After taking the measurement,
+Joyner discovered
+he couldn't pull the prisms apart.
+He panicked.
+The refractometer, worth nearly $10,000
+adjusted for inflation, was ruined.
+But instead of getting angry,
+Coover had a flash of insight.
+He got a sample of cyanoacrylate
+and began gluing together
+anything within reach. Glass
+plates, rubber stoppers,
+metal spatulas, wood, paper, in all different combinations.
+He said “Everything stuck to everything
+almost instantly and with bonds
+I could not break apart.”
+With this discovery, he dubbed the compound Eastman 910 Adhesive,
+as it was the 910th substance
+tested in the company's search.
+But nowadays,
+everyone calls this super glue.
+So how does it work so quickly with
+such strength on so many different things?
+Bonds almost anything.
+A plastic knob,
+a plastic plug,  a rubber boot, a metal brooch,
+a fishing rod, a cycle
+grip, model planes and model
+trains, a doorknob screw,
+a flashlight case,
+the broken trim on any car.
+Super glue in the tube is a liquid of
+identical monomer molecules.
+The molecule is ethyl cyanoacrylate.
+When you put it between two surfaces,
+the liquid flows
+into all the pores and crevices.
+Then the monomers
+start reacting with each other,
+joining to form long polymer chains.
+This turns the glue from a liquid into a solid,
+and at this point it can no longer be
+pulled out of the cracks and crevices,
+so it's stuck in place
+and the two surfaces are connected.
+If you're ever trying to glue surfaces
+that are too smooth,
+this is probably the reason
+super glue sticks poorly.
+There are few crevices or pores for it
+to cling to.
+To fix this, you can sand the surfaces
+to introduce some surface texture.
+That way when the liquid glue solidifies,
+it's stuck in the cracks.
+But what triggers the monomers to solidify
+instead of staying liquid
+like they are in the tube?
+Well, ethyl cyanoacrylate is primed to react
+because it has two double bonds
+and one triple bond close together.
+What makes it
+so reactive is you have a double bond
+attached to a nitrile group
+and an ester group.
+And the unique part about
+that is the chemistry of those groups
+that make that double bond so electron deficient.
+The oxygen and the nitrogen atoms
+attract electrons more than the carbons.
+So that leaves this carbon
+slightly positively charged.
+It is hungry. It is looking.
+And anything
+even slightly electronegative,
+it will attack and it'll start a reaction.
+In the presence of a negative ion,
+the carbon double bond breaks
+and four single bonds form.
+But the nitrile and ester
+groups are so electronegative they pull
+the extra electron on across the molecule,
+making this carbon negative. That invites
+another slightly positive carbon
+on a separate monomer to attack.
+And now they're chemically linked
+together.
+The start of a polymer chain.
+And once that goes
+now it has the ability to go react
+with all those other super glue
+hungry monomers and rapidly polymerize.
+It's a really, really chemically reactive
+species.
+That single initiator
+started a chain reaction.
+The next monomer again
+pulls across the electron
+and more and more monomers bond together,
+forming longer and longer chains
+until the super glue has solidified.
+It normally takes between
+10 and 30 seconds to set.
+This was much faster than other adhesives
+available in the 1950s.
+A lot of glues like white
+glue and glue sticks work by drying out,
+so you have to wait for the water
+to evaporate.
+But with super glue it's
+almost the opposite.
+While I was prototyping snatoms, I 3D
+printed these plastic shells
+and super glued them together.
+One day I was trying to open a bottle of
+super glue where the cap had gotten
+glued on to the nozzle,
+so I tried twisting it off with my teeth,
+but the bottle exploded,
+filling my mouth with super glue.
+And I was thinking, well,
+I might have a few seconds to spit it out
+with the saliva in my mouth before it set.
+But the super glue actually hardened
+immediately.
+It stuck to my teeth and my tongue.
+I had to get my now wife to pick it
+out of my teeth with tweezers.
+Luckily, it didn't glue together
+anything essential.
+I think it's
+because it solidified so rapidly.
+And the reason it did
+that is because the polymerization
+of super glue
+is actually triggered by water.
+Specifically, it's the slightly negative
+oxygen atoms in the polar water molecule
+and the negative hydroxide ions in water
+that often break
+open the carbon double bond,
+initiating the formation of chains.
+And water is everywhere.
+I mean, there's moisture in the air,
+little bits of water on most surfaces,
+or absorbed into materials like fabrics.
+That's why super glue sets rapidly
+on almost every surface.
+Each water molecule can initiate
+the formation of a polymer chain.
+There's a forensic technique
+that uses super glue
+fumes to pull fingerprints
+from non-porous surfaces.
+When you grab something,
+your hand leaves behind moisture
+and oils that are perfect
+for super glue to bind with.
+And this also makes
+skin ideal to stick to.
+There are a lot of wrinkles and pores
+for super glue to seep into.
+Plus, the protein collagen has a number
+of negative regions that can initiate
+the polymerization reaction
+and bond directly with a monomer.
+So your skin is the perfect sort
+of surface for super glue to stick to.
+And that's why it's so hard to get off.
+Some of your molecules literally
+become part of the polymer chain.
+There's a medical case study where someone
+got cyanoacrylate all over his hands.
+So he quickly went to wash it off
+with soap and water.
+But that accelerated
+the polymerization reaction,
+and his hands were stuck together.
+So he went to multiple medical
+professionals, and he got terrible advice.
+They tried alcohol, water and soap.
+They also attempted physical separation.
+And he went to consult cosmetic surgery.
+But finally someone suggested acetone.
+Acetone, or nail polish remover,
+dissolved the glue and released his hands.
+Now, unfortunately,
+the bottles for some types of super glue
+look incredibly similar
+to those for eyedrops.
+So there are hundreds of cases of people
+putting super glue directly
+into their eyes.
+In that case, acetone is not the solution.
+Don't try to separate
+your eyelids, just seek medical attention.
+Super glue is strong.
+To demonstrate this and promote
+his new product,
+Coover went on a game show.
+He showed that
+with only a single drop of glue,
+he could lift himself
+and the host into the air.
+Here we go. One drop of glue.
+And after 24 hours,
+it would support something
+like 15,000 pounds.
+One drop of glue.
+Now, doctor,
+you must be very proud of this.
+I imagine many years of research
+went into its discovery.
+No, as a matter of fact,
+it wasn't Gary.
+This discovery was purely by accident.
+Bully for you.
+Super glue polymers are almost all single chains running linearly between the surfaces.
+They have a directionality to them,
+kind of like wood grain.
+The chains are densely packed
+with some cross-linking
+between them,
+and this makes the polymer fairly rigid.
+It's about as hard as a hard hat.
+This makes it strong in compression.
+Under tension,
+super glue is strongest when you pull
+in the same direction as the chains.
+The tensile strength of super glue
+can be upwards of 25 mega pascals,
+which is similar to other polymers,
+meaning a square patch just five
+centimeters on a side could suspend a
+fully grown African elephant.
+But super glue also has its weaknesses.
+It is brittle,
+so if there's a sudden impact,
+it just kind of falls apart.
+As a super glue is very quickly reacting.
+It usually produces really short polymer
+chains that have a matrix with built in stress.
+Any time you have stress in a material,
+it's a potential failure point.
+The thing that makes it a really good
+adhesive is kind of its Achilles heel.
+in some cases. Polyethylene,
+polypropylene,
+nylons, like those squishy plastics.
+Their polymer chains
+and their chemistry
+are such that they can absorb a lot of impact.
+If a force comes
+in, they'll kind of deform.
+Whereas in the chains
+of a super glue polymer,
+it doesn't have the ability to do that.
+So any impact will come and it'll
+physically break those rigid bonds.
+And it'll also kind of be absorbed
+in those stress points, and it'll cause
+the whole thing to fracture.
+Super glue is also
+weak if a force is applied perpendicular
+to the polymer chains.
+That is, it's weak in shear.
+During this shear test,
+the stress releases
+breaking the super glue bond.
+So shear is
+kind of a combination of forces.
+So you kind of have like a compression
+and like a friction going on.
+Tension is a pretty uni-directional force.
+And the polymer
+chains are able to deform enough.
+However, in shear you have a more dynamic
+set of forces going on.
+And and they're just kind of breaking up
+all at once.
+Shear force doesn't get spread evenly.
+It's highest
+at the edges and lower in the middle.
+And since super glue is so brittle,
+it can't redistribute this stress,
+causing the bond to fail.
+It's even worse if you grab one
+end of a surface and try to peel it back.
+In that case,
+all that force is on a few polymers,
+so the chains break one by one
+like a zipper unzipping.
+Two long bars super glued together could be strong since there's a lot of surface area.
+But if one end breaks,
+the rest can easily peel off.
+Now a bond breaking is bad, but
+there are some materials that super glue
+won't even stick to at all.
+So here we have
+a milk bottle,
+and this is
+made out of a plastic called polyethylene.
+I'm going to put one drop right here.
+But it's so weak
+you can see the glue has made a perfect
+little film
+and it doesn't stick whatsoever.
+The materials
+that super glue does not bond to.
+They fall in to category of materials
+that are known as chemically inert.
+And by inert
+it just means that
+they don't have reactive sites.
+So super glue is so reactive
+because it is so electron deficient.
+It's looking for any source of electrons.
+But you have a polypropylene
+or a polyethylene or a Teflon.
+And carbon loves carbon,
+and carbon is not sharing its electrons.
+So there's nothing on the surface
+that is willing to donate any reactivity.
+Even if you add initiators, say,
+by spraying water, it still doesn't work.
+That's because these materials
+are hydrophobic and non-porous.
+If you spray like,
+a polypropylene sheet, with water
+ it'll just fall off, right?
+You know, if you can think of, like,
+the beating up of water
+on a hydrophobic surface.
+So if you pour super glue on top of water,
+it'll just like, you'll
+just get like a clump of super glue on it.
+And then you can just peel it off.
+Most super glue specifically warns against
+using it on polyethylene and polypropylene
+because it won't stick.
+But this is actually a good thing.
+You have to have something that super glue
+won't stick to, so it can be contained
+and stored without setting.
+Super glue quickly found industrial applications.
+Its first sale was to Mason
+and Hanger in 1956,
+who used it to assemble atomic bombs.
+Soon, different additives were devised
+to change the properties
+of pure ethyl cyanoacrylate.
+The monomers by themselves are very runny,
+almost like water,
+so companies added thickening agents
+like fumed silica to turn it into a gel.
+Fumed silica forms branched structures
+that increase viscosity.
+Some acid is often added
+to inhibit polymerization in the tube.
+If you want to speed up the setting
+of super glue, one way is to add
+more negative ions, the initiators
+that start the polymerization reaction.
+You can buy accelerators specifically
+for this purpose off the shelf,
+but a number of DIYers and handymen
+use baking soda - sodium bicarbonate.
+It reacts with moisture in the air
+to produce hydroxide ions.
+So when you add super glue, it sets even
+faster due to all those ion initiators.
+Plus, it forms a really hard
+composite substance.
+You can layer super glue and baking soda
+to strengthen a joint and fill gaps.
+It can even be drilled or sanded
+after setting.
+It's interesting
+to see how baking soda in solution
+speeds up the polymerization of super glue.
+If you take pure water
+and pour in super glue, you get a bunch
+of little plastic droplets.
+The glue sets quickly, but not fast enough
+to keep the whole stream connected. But
+with baking soda dissolved in the water,
+the super glue sets even faster.
+This creates a continuous
+length of polymer,
+which is really cool to see,
+but the resulting plastic is fragile
+and can easily be crushed.
+If you wanna glue things
+underwater with superglue,
+the key is actually to slow
+the polymerization down.
+With a gel cyanoacrylate, the
+thickeners slow the reaction,
+giving you enough time to
+apply and detach objects.
+- Wow, there it is: glued underwater.
+It's not even a perfect fit.
+I didn't put it together quite
+right, but it’s still stuck.
+- One day, Coover's eldest
+son was making a model,
+when he accidentally cut his finger.
+As a quick-thinking and
+experimentally-minded father,
+Coover got some super glue
+he brought home from the lab
+and applied it to the cut.
+It instantly sealed shut.
+Coover immediately saw
+its potential in medicine,
+and he went to work.
+He envisioned a glue that could
+completely replace sutures.
+But his team soon ran
+into three key problems:
+First, as super glue sets,
+all those bonds forming release heat.
+- This is a standard cotton ball.
+Just gonna add some liquid super glue.
+86. Oh my gosh, it's starting to smoke.
+93, 99, 108.
+Whoo, made my eyes water. 120.
+If you do this at home, wear goggles,
+and probably a respirator,
+and probably do it outside.
+I'm feeling it now. It
+is hot, hot to the touch.
+- The cotton has a lot of surface area,
+and it's absorbed a lot of water,
+so the superglue sets
+even faster than usual
+and releases all its heat at once.
+If I get it on my skin,
+the temperature increase
+wouldn't be as dramatic,
+but it's enough to irritate a wound.
+The second problem is that over time,
+super glue in the body breaks down,
+and some of the things it breaks down into
+are toxic chemicals like formaldehyde.
+And finally, super glue is
+hard and brittle, unlike us.
+We are mostly just squishy
+bags of meat and water.
+So an adhesive for living
+tissue needs to be soft
+and flexible for the entire
+duration of the healing process.
+Remarkably, Coover and
+his team found that all
+of these problems could be solved
+with a single change to the molecule:
+Simply increase the number of
+carbons in the alkyl chain.
+With longer carbon
+chains, it takes more time
+for the monomers to bind together,
+which slows down the rate of reaction.
+This slows the rate of heat released,
+so there's not a significant
+temperature increase
+all at once.
+The longer polymers also
+break down much more slowly,
+so the wound has enough time to heal
+before the glue starts
+releasing toxins into the body.
+It's removed before that happens.
+And finally, since the reaction is slower,
+there's more time for the
+monomers to float around
+and form longer polymers.
+These longer polymers
+can absorb stress better
+than shorter chains,
+meaning the glue can flex
+more without breaking.
+With the main problems addressed,
+Coover submitted an
+application to the FDA in 1964
+for medical superglue.
+The US military was very
+interested in Coover's adhesive,
+and they developed a
+medical super glue spray
+for use in the Vietnam War.
+The spray saved lives.
+In one case, a bullet hit
+a 24-year-old soldier,
+passing through his kidney and liver.
+After part of his liver was removed,
+they gave him 12 liters of blood.
+That's enough to replace all the blood
+in his body twice over.
+But the bleeding just wouldn't stop.
+By conventional methods, he was gone.
+But then the surgeons sprayed superglue
+directly on the liver.
+The bleeding stopped, vital
+signs returned to normal,
+and the soldier recovered.
+Despite its success on the battlefield,
+medical superglue was held
+up in bureaucratic red tape
+for years, so long that Coover
+had to abandon the project.
+It wasn't until 1998 that he saw his dream
+of a medical glue approved:
+a 2-octyl cyanoacrylate called Dermabond.
+Medical super glue has now grown
+to be a $900-million-a-year industry.
+In the 74 years since
+Coover's accidental discovery,
+cyanoacrylate has grown to
+become a $3 billion industry.
+But its impact doesn't stop there,
+because now scientists are turning
+to Coover's original research,
+exploring its use as a plastic,
+and it could well solve one
+of the biggest problems the planet faces:
+how to recycle the mountain of
+plastic we produce each year.
+Manufacturers can shred, melt,
+and reform other plastics,
+but the polymers degrade,
+so the quality is worse
+and the process generates microplastics.
+- So you can only recycle mechanically
+and thermally like that
+a certain number of times
+before you get a material
+that's kind of useless.
+It still will sit in the environment,
+and it won't break down,
+but it's not useful.
+- [Derek] But superglue is unique.
+If you heat it up to 210 degrees Celsius,
+it'll break back down into pure monomers.
+These can be distilled
+and then reactivated
+back into fresh polymer.
+- We have a starting material, we
+make it into a plastic,
+and then, under a certain stimulus,
+we can turn it back to
+that starting material.
+So let's see if we can
+make a plastic from this,
+you know, 'cause the goal
+of a depolymerizable plastic
+is that it's sustainable, right?
+- There are just two problems:
+First, how do you cast something
+that sticks to basically everything?
+And second, super glue
+on its own is brittle,
+so how do you stop it from breaking?
+- The big problem is the handleability.
+That was kind of the original problem.
+They found that, okay,
+this isn't a great plastic
+because it sticks to everything.
+That's how they discovered
+that it was an excellent adhesive.
+So we were faced with that same problem.
+- But Coover didn't have the
+modern plastics we have today.
+Polypropylene, polyethylene,
+and Teflon are so inert,
+they don't activate superglue.
+So they are the perfect
+materials to handle the monomers.
+- So we were able to actually handle it,
+so that was, you know, a huge check.
+We can actually work with this material.
+- Next, to reduce brittleness,
+you need super glue
+to form long chains that tangle together.
+And this problem can actually
+be broken down into two parts.
+First, a lot of initiators means lots
+of short polymer chains.
+Second, as the superglue sets,
+the existing chains freeze
+and they can't connect together.
+There also might be some unused monomers
+that can't get into the
+right spot to attach.
+If you can solve both these
+issues, you get longer chains.
+The first fix is to use a very weak base.
+By mixing in a little
+bit of this weak base,
+there are enough initiators
+to start the polymerization
+reaction, but not too many,
+so the polymer chains end up being longer.
+- We use DMSO, dimethyl sulfoxide,
+which, in no other context,
+would be used as an initiator,
+but it was just electronegative
+enough that we were able
+to initiate a reaction
+that could go slowly
+and proceed in a way that
+produced a nice solid plastic.
+- [Derek] Next, you need a
+solvent, in this case, acetone.
+- And what a solvent is,
+is it's just a medium that
+dilutes the conditions.
+It does not participate in the reaction.
+Usually, it provides additional mobility.
+- [Derek] After mixing the glue
+and initiator into the acetone,
+the mobile polymers are
+able to form even longer,
+more stable chains than usual.
+And after a while, all the superglue sets,
+the acetone evaporates, and
+the new plastic is removed.
+To reuse it, just heat it up
+and distill it to get
+back superglue monomers.
+- So I would, on average, get around 93%,
+which is excellent.
+- [Derek] Compared to that,
+even the most widely recycled plastics
+can't return to the same quality,
+and they can only be
+downcycled once or twice
+before ending up in landfill.
+- I'm super glue's biggest fan, obviously,
+but I hope that it can
+actually have a real impact
+in terms of sustainability
+and kind of revolutionizing
+how we look at plastics
+and how we look at
+materials that, you know,
+we've existed with for decades.
+You know, okay, what if we
+use this for something else?
+- Coover said it took the right
+mindset to see cyanoacrylate
+as a great adhesive.
+The first time he worked with it,
+he was thinking about gun sights
+and nothing but gun sights.
+Its sticky qualities were a pain.
+The second time he encountered it,
+his colleagues fixated on
+the broken refractometer,
+but he could finally see the quality
+that frustrated him as a benefit.
+And then, after decades of
+researchers only viewing it
+as a useful adhesive, it took
+another flash of inspiration
+to see its potential
+as a plastic once more.
+As Coover said, this should
+serve as a reminder to all of us
+to be open-minded and curious enough
+to pursue unexplained events
+and unexpected results,
+which may unlock new secrets
+and lead to new and exciting
+discoveries of the future.
+Coover's ability to look beyond roadblocks
+and see the breakthroughs
+on the other side is a skill
+that every great innovator shares.
+It's not some kind of rare genius,
+it just takes strong critical thinking
+and problem-solving skills,
+which anyone can learn.
+And if you wanna start
+building these skills yourself,
+right now for free,
+look no further than
+today's sponsor, Brilliant.
+Brilliant will help you build real skills
+through thousands of interactive lessons
+on everything from math and science
+to programming and technology.
+On Brilliant, you don't
+just learn new topics,
+you learn new ways of
+seeing the world around you.
+You'll be able to solve
+problems like a scientist,
+engineer, or data analyst.
+And since every lesson gets
+you hands-on with key concepts,
+you'll know how to apply them
+to real-world situations.
+I truly believe that learning
+a little bit every day is one
+of the most important things you can do.
+And if you're like me
+and made a resolution
+to end each day a little
+smarter this year,
+well, Brilliant will
+help you actually do it.
+All their lessons are bite-sized,
+and you can do them right on your phone.
+So whenever you have a few minutes,
+you can be building a
+quicker, sharper mind.
+So to try everything Brilliant
+has to offer for free
+for a full 30 days, visit
+brilliant.org/veritasium.
+Click that link in the description
+or scan this QR code right here.
+And if you sign up,
+you'll also get 20% off their
+annual premium subscription.
+So I wanna thank Brilliant
+for sponsoring this video,
+and I wanna thank you for watching.

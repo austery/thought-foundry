@@ -1,0 +1,492 @@
+This video was sponsored
+by Caséta by Lutron.
+Imagine you have a giant circuit
+consisting of a battery,
+a switch, a light bulb,
+and two wires which are each
+300,000 kilometers long.
+That is the distance light
+travels in one second.
+So, they would reach
+out half way to the moon
+and then come back to be
+connected to the light bulb,
+which is one meter away.
+Now, the question is,
+after I close this switch,
+how long would it take
+for the bulb to light up.
+Is it half a second,
+one second,
+two seconds,
+1/c seconds,
+or none of the above.
+You have to make some
+simplifying assumptions
+about this circuit,
+like the wires have to have no resistance,
+otherwise this wouldn't work
+and the light bulb has
+to turn on immediately
+when current passes through it.
+But I want you to commit to an answer
+and put it down in the comments
+so you can't say,
+oh yeah I knew that was the answer,
+when I tell you the answer later on.
+This question actually relates
+to how electrical energy
+get from a power plant to your home.
+Unlike a battery,
+the electricity in the grid
+comes in the form of
+alternating current, or AC,
+which means electrons in the power lines
+are just wiggling back and forth.
+They never actually go anywhere.
+So, if the charges don't
+come from the power plant
+to your home,
+how does the electrical
+energy actually reach you?
+When I used to teach this subject,
+I would say that power lines
+are like this flexible plastic tubing
+and the electrons inside
+are like this chain.
+So, what a power station does,
+is it pushes and pulls the
+electrons back and forth
+60 times a second.
+Now, at your house,
+you can plug in a device, like a toaster,
+which essentially means
+allowing the electrons to run through it.
+So when the power station
+pushes and pulls the electrons,
+well, they encounter resistance
+in the toaster element,
+and they dissipate their energy as heat,
+and so you can toast your bread.
+Now, this is a great story,
+I think it's easy to visualize,
+and I think my students understood it.
+The only problem is, it's wrong.
+For one thing,
+there is no continuous conducting wire
+that runs all the way from a
+power station to your house.
+No, there are physical gaps,
+there are breaks in the line,
+like in transformers
+where one coil of wire
+is wrapped on one side,
+a different coil of wire is
+wrapped on the other side.
+So, electrons cannot possibly flow
+from one the other.
+Plus, if it's the electrons
+that are carrying the energy
+from the power station to your device,
+then when those same electrons
+flow back to the power station,
+why are they not also carrying energy
+back from your house to the power station?
+If the flow of current is two ways,
+then why does energy only
+flow in one direction?
+These are the lies you were
+taught about electricity,
+that electrons themselves
+have potential energy,
+that they are pushed or pulled
+through a continuous conducting loop
+and that they dissipate
+their energy in the device.
+My claim in this video
+is that all of that is false.
+So, how does it actually work?
+In the 1860's and 70's,
+there was a huge breakthrough
+in our understanding of the universe
+when Scottish physicist,
+James Clerk Maxwell,
+realized that light is made up
+of oscillating electric
+and magnetic fields.
+The fields are oscillating
+perpendicular to each other
+and they are in phase,
+meaning when one is at its maximum,
+so is the other wave.
+Now, he works out the equations
+that govern the behavior of
+electric and magnetic fields
+and hence, these waves,
+those are now called Maxwell's equations.
+But in 1883,
+one of Maxwell's former
+students, John Henry Poynting,
+is thinking about conversation of energy.
+If energy is conserved locally
+in every tiny bit of space,
+well, then you should be
+able to trace the path
+that energy flows from
+one place to another.
+So, think about the energy
+that comes to us from the sun,
+during those eight minutes
+when the light is traveling,
+the energy is stored and being transmitted
+in the electric and magnetic
+fields of the light.
+Now, Poynting works out an equation
+to describe energy flux,
+that is, how much electromagnetic energy
+is passing through an area per second.
+This is known as the Poynting vector
+and it's given the symbol S.
+And the formula is really pretty simple,
+it's just a constant one over mu naught,
+which is the permeability of free space
+times E X B.
+Now, E X B,
+is the cross product
+of the electric and magnetic fields.
+Now, the cross product
+is just a particular way
+of multiplying two vectors together,
+where you multiply their
+perpendicular magnitudes
+and to find the direction,
+you put your fingers in the
+direction of the first vector,
+which in this case is the electric field,
+and curl them in the direction
+of the second vector,
+the magnetic fields,
+then your thumb points
+in the direction of the resulting vector,
+the energy flux.
+So, what this shows us about light
+is that the energy is
+flowing perpendicular
+to both the electronic
+an the magnetic fields.
+And it's in the same direction
+as the light is traveling,
+so this makes a lot of sense.
+Light carries energy from its source
+out to its destination.
+But the kicker is this,
+Poynting's equation doesn't
+just work for light,
+it works anytime there are electric
+and magnetic fields coinciding.
+Anytime you have electric
+and magnetic fields together,
+there is a flow of energy
+and you can calculate
+using Poynting's vector.
+To illustrate this,
+let's consider a simple circuit
+with a battery and a light bulb.
+The battery by itself
+has an electric field
+but since no charges are moving,
+there is no magnetic field
+so the battery doesn't lose energy.
+When the battery is
+connected into the circuit,
+its electric field extends
+through the circuit
+at the speed of light.
+This electric field
+pushes electrons around
+so they accumulate on some of
+the surfaces of the conductors
+making them negatively charged,
+and are depleted elsewhere
+leaving their surfaces positively charged.
+These surface charges
+create a small electric
+field inside the wires,
+causing electrons to drift
+preferentially in one direction.
+Note that this drift
+velocity is extremely slow
+around a tenth of a millimeter per second.
+But this is current,
+well, conventional current
+is defined to flow opposite
+the motion of electrons,
+but this is what's making it happen.
+The charge on the
+surfaces of the conductors
+also creates an eclectic
+field outside the wires
+and the current inside the wires
+creates a magnetic
+field outside the wires.
+So, now there is a combination
+of electric and magnetic fields
+in this space around the circuit.
+So, according to Poynting's theory,
+energy should be flowing
+and we can work out the
+direction of this energy flow
+using the right hand rule.
+Around the battery for example,
+the electric field is down
+and the magnetic field is into the screen.
+So, you find the energy
+flux is to the right
+away from the battery.
+In fact, all around the battery,
+you'll find the energy
+is radially outwards.
+Energy is going out through
+the sides of the battery
+into the fields.
+Along the wires, again,
+you can use the right hand rule
+to find the energy is
+flowing to the right.
+This is true for the
+fields along the top wire
+and the bottom wire.
+But at the filament,
+the Poynting vector is directed
+in toward the light bulb.
+So, the light bulb is getting
+energy from the field.
+If you do the cross product,
+you find the energy is coming
+in from all around the bulb.
+It takes many paths from
+the battery to the bulb,
+but in all cases,
+the energy is transmitted
+by the electric and magnetic fields.
+- People seem to think that
+you're pumping electrons
+and that you're buying
+electrons or something,
+which is just so wrong. (laughs)
+For most people,
+and I think to this day,
+it's quite counterintuitive
+to think that the energy is
+flowing through the space
+around the conductor,
+but the energy is,
+which is traveling through the field,
+yeah, is going quite fast.
+- So, there are a few
+things to notice here.
+Even though the electrons go two ways
+away from the battery and towards it,
+by using the Poynting vector,
+you find that the energy
+flux only goes one way
+from the battery to the bulb.
+This also shows it's the fields
+and not the electrons
+that carry the energy.
+- How far do the electrons go
+in this little thing you're talking about,
+they barely move,
+they probably don't move at all.
+- Now, what happens if
+in place of a battery,
+we use an alternating current source?
+Well then, the direction of current
+reverses every half cycle.
+But this means that both the
+electric and magnetic fields
+flip at the same time,
+so at any instant,
+the Poynting vector still
+points in the same direction,
+from the source to the bulb.
+So the exact same analysis we used for DC
+still works for AC.
+And this explains how
+energy is able to flow
+from power plants to home in power lines.
+Inside the wires,
+electrons just oscillate back and forth.
+Their motion is greatly exaggerated here.
+But they do not carry the energy.
+Outside the wires,
+oscillating eclectic and magnetic fields
+travel from the power
+station to your home.
+You can use the Poynting vector to check
+that the energy flux is
+going in one direction.
+You might think this is
+just an academic discussion
+that you could see the
+energy as transmitted
+either by fields or by
+the current in the wire.
+But that is not the case,
+and people learned this the hard way
+when they started laying
+undersea telegraph cables.
+The first Trans Atlantic
+cable was laid in 1858.
+- It only worked for about a month,
+it never worked properly.
+- There are all kinds of distortions
+when they try to send signals.
+- Enormous amounts of distortion.
+They could work it at
+a few words per minute.
+- What they found was sending signals
+over such a long distance under the sea,
+the pulses became
+distorted and lengthened.
+It was hard to differentiate
+dots from dashes.
+To account for the failure,
+there was a debate among scientists.
+William Thomson, the future Lord Kelvin,
+thought electrical signals
+moved through submarine cables
+like water flowing through a rubber tube.
+But others like Heaviside and Fitzgerald,
+argued it was the fields around the wires
+that carried the energy and information.
+And ultimately,
+this view proved correct.
+To insulate and protect
+the submarine cable,
+the central copper conductor
+had been coated in an insulator
+and then encased in an iron sheath.
+The iron was only meant
+to strengthen the cable,
+but as a good conductor,
+it interfered with a propagation
+of electromagnetic fields
+because it increased the
+capacitance of the line.
+This is why today, most power
+lines are suspended high up.
+Even the damp earth acts as a conductor,
+so you want a large insulating gap of air
+to separate the wires from the ground.
+So, what is the answer
+to our giant circuit light bulb question?
+Well, after I close the switch,
+the light bulb will turn
+on almost instantaneously,
+in roughly 1/C seconds.
+So, the correct answer is D.
+I think a lot of people imagine
+that the electric field needs to travel
+from the battery,
+all the way down the wire
+which is a light second long,
+so it should take a second
+for the bulb to light up.
+But what we've learned in this video
+is it's not really what's
+happening in the wires
+that matters,
+it's what happens around the wires.
+And the electric and magnetic fields
+can propagate out through space
+to this light bulb,
+which is only one meter
+away in a few nanoseconds.
+And so, that is the limiting factor
+for the light bulb turning on.
+Now, the bulb won't receive
+the entire voltage of
+the battery immediately,
+it'll be some fraction,
+which depends on the
+impedance of these lines
+and the impedance of the bulb.
+Now, I asked several
+experts about this question,
+and got kind of different answers,
+but we all agreed on these main points.
+So, I'm gonna put their
+analysis in the description
+in case you want to learn more
+about this particular setup.
+If I get called out on it
+and people don't think it's real,
+we can definitely invest the resources
+and string up some lines,
+and make our own power
+lines in the desert.
+- I think you're gonna
+get called out on it.
+- I agree, I think you're
+gonna get called out.
+(laughing)
+I think that's right.
+- I think it's just kinda wild
+that this is one of those things
+that we use everyday,
+that almost nobody thinks about
+or knows the right answer to.
+These traveling electromagnetic
+waves around power lines
+are really what's delivering your power.
+Hey, now that you understand
+how electrical energy actually flows,
+you can think about that
+every time you flick on a light switch.
+And if you want to take your
+switches to the next level,
+the sponsor of this
+video, Caseta by Lutron,
+provides premium smart lighting control,
+including switches, remotes,
+and plug-in smart dimmers.
+And since one switch can
+control many regular bulbs,
+you can effectively make
+all those bulbs smart
+just by replacing the switch.
+Then, you can turn your lights on and off
+using your phone,
+or you can use another device
+like Alexa or Google Assistant.
+Caseta works with more
+leading smart home brands
+than any other smart
+lighting control system.
+One of the things I
+like is setting timers.
+The lights in my office for example,
+turn on by themselves every evening.
+And this feature gives you peace of mind
+that everyone in your household
+will always come home to a well-lit house.
+And once you're already in bed,
+you can check which lights
+you forgot to turn off
+and do that from your phone.
+Installation is easy.
+Make sure you turn off
+power to the switch first
+and then disconnect the existing wires
+and connect Caseda's smart switch.
+If you need any help,
+they're just a click or a call away.
+Learn more about Caseda
+at Lutron's website,
+lutron.com/veritasium.
+I will put that link
+down in the description.
+So, I want to thank Lutron Electronics
+for sponsoring this video,
+and I want to thank you for watching.

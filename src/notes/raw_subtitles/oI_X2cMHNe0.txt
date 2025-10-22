@@ -1,0 +1,871 @@
+I made a video about a gigantic circuit
+with light-second long wires
+that connect up to a light bulb,
+which is just one meter away
+from the battery and switch,
+and I asked you, after
+I closed the switch,
+how long will it take for us to get light
+from that light bulb?
+And my answer was 1/c seconds.
+- And his answer is wrong.
+- We would be able to communicate
+faster than the speed of light.
+- That violates causality
+and common sense.
+- This is actually a bit misleading.
+- Misleading.
+- Misleading in a way.
+- Extremely unconvinced.
+- Naughty Mr. Veritasium has
+stirred up a right hornet's nest.
+- Clearly I did not do a
+good job of explaining
+what was really going
+on in the last video.
+So I wanna clear up any
+confusion that I created.
+So behind me, we have a scaled
+down model of this circuit.
+It is only 10 meters in
+length on either side.
+Obviously that's a lot
+shorter than one light-second,
+but for the first 30 nanoseconds,
+this model should be
+identical to the big circuit,
+and Caltech has very fast scopes,
+so we'll be able to see
+what's going on in this time.
+I got a ton of help on
+this from Richard Abbott,
+who works on LIGO, the
+gravitational wave detector.
+Over here, we are going
+to put a little resistor,
+which is gonna be the stand
+in for our light bulb,
+and we're going to measure it with
+a scope and see essentially,
+what is the time delay
+between applying a pulse
+on the other side, basically
+flicking the switch,
+for us to get a voltage
+across our resistor.
+And the magnitude of that
+voltage is really important.
+A lot of people thought
+it would be negligible.
+- The amount of energy supplied
+by this is so minuscule.
+- A tiny, tiny effect, right?
+- The amount of power you're getting
+to the lamp over here, it's nuff-all
+- He meant the light turns on
+at any current level immediately.
+- That is not what I meant.
+- Well, actually, with that assumption,
+Derek's answer is wrong.
+The light never turns off
+no matter the state of the switch.
+Some electrons will jump the
+gap and result in an extremely
+small continuous leakage current.
+- Let me be clear about
+what I am claiming.
+Okay, it is my claim
+that we will see voltage
+and current through the
+load that is many orders
+of magnitude greater than leakage current,
+an amount of power
+that would actually produce visible light
+if you put it through
+an appropriate device,
+and we will see that power there
+in roughly the time it takes the light
+to cross the one meter gap,
+but to understand why this happens,
+we first have to clear
+up some misconceptions
+that I saw in responses.
+Misconception number one
+is thinking that electrons
+carry the energy from
+the battery to the bulb.
+Let's say we have a simple
+circuit with a battery and a bulb
+operating at steady state.
+If you zoom in on the light bulb filament,
+you'd see a lattice of positively
+charged cores of atoms,
+the nucleus and lowest
+shells of electrons,
+surrounded by a sea of negative electrons,
+which are free to move around the lattice.
+The actual speed of these
+electrons is very fast,
+around a million meters per second,
+but all in random directions.
+The average drift velocity of an electron
+is less than 0.1 millimeters per second.
+Now frequently, an electron
+will bump into a metal ion,
+and transfer some or all
+of its kinetic energy
+to the lattice.
+The electron slows down
+and the metal lattice
+starts wiggling more.
+It heats up.
+And ultimately this is
+what causes the filament
+to glow and emit light.
+So a lot of people will
+look at this and conclude
+the electron carried the energy
+from the battery to the bulb
+where it dissipated its
+kinetic energy as heat,
+but consider, where did the
+electron get its kinetic energy
+from before the collision?
+It didn't carry that
+energy from the battery.
+In fact, if the circuit has
+only been on for a short time,
+that electron hasn't been
+anywhere near the battery.
+So how was it accelerated
+before the collision?
+The answer is, it was by an
+electric field in the wire.
+The electron repeatedly
+collides with the lattice,
+and loses energy.
+And after each collision,
+it is again accelerated
+by the electric field.
+So although it is the
+electron that transfers energy
+to the lattice, the energy
+came from the electric field.
+So where does that
+electric field come from?
+Well, a lot of animations make
+it look like the electrons
+push each other through the circuit
+via their mutual repulsion.
+So you might think the electric field
+comes from the electron behind it.
+There is the analogy of
+water flowing through a hose,
+or marbles in a tube.
+This is misconception two,
+thinking that mobile electrons
+push each other through the circuit.
+That is not how electrons
+flow in circuits.
+The truth is if you
+average over a few atoms,
+you find the charge density
+everywhere inside a conductor is zero.
+The negative charge of
+electrons and the positive cores
+of atoms perfectly cancel out.
+So for each repulsive
+force between electrons,
+there is an equal and opposite
+force from the positive ion
+next to it.
+These forces cancel out.
+So mobile electrons cannot push
+each other through the wire.
+So where does the
+electric field come from?
+Misconception number
+three is that it comes
+entirely from the battery.
+This makes intuitive sense,
+since the battery is the
+active element in the circuit,
+it has a positive side
+and a negative side.
+So it has an electric field,
+but this is not the electric
+field that all the electrons
+within the wire experience.
+Consider that the electric field
+of the battery is much
+larger close to the battery.
+So if its field were really what's pushing
+the electrons around,
+then if you brought the light
+bulb close to the battery,
+then the bulb would glow much brighter.
+And it doesn't.
+The truth is that the
+electric field in the wire
+comes both from the
+battery and from charges
+on the surface of the
+wires of the circuit.
+As you go along the wire
+from the negative end
+of the battery to the positive end,
+there is a gradient of charge
+built up on its surface,
+starting with an excess of electrons,
+through to roughly no
+charge in the middle,
+as we'll see the steepest
+charge gradient is actually
+across the load to a
+deficiency of electrons,
+the exposed positive cores
+of atoms on the surface
+of the positive end of the wire.
+All these charges and the
+charges on the battery
+create the electric field
+everywhere inside the wires.
+They also create an electric field
+in the space around the wires.
+These surface charges were
+set up almost instantaneously
+when the battery was
+inserted into the circuit.
+You might think you'd
+have to move electrons
+a significant distance to
+create this charge distribution,
+but that is not the case.
+Even a slight expansion or
+contraction of the electron sea,
+with electrons moving on
+average, the radius of a proton,
+can establish the surface charges you see.
+So the time for the charges to move
+is completely negligible.
+The speed of the setup process is limited
+only by the speed of light.
+Once that surface charge
+distribution has been established,
+the battery does continuous
+work to maintain it,
+by moving electrons through the battery
+against the Coulomb force.
+In the load, the electric field
+created by all the surface
+charges, accelerates electrons,
+which dissipate their energy
+in collisions with the lattice.
+So the battery is putting
+energy into the field,
+which electrons take out
+and transfer to the load.
+An electrical engineer
+who made a response video,
+Ben Watson, came up with a good analogy.
+The battery is like a shepherd.
+The surface charges are the sheep dogs
+responding to his orders.
+And the mobile electrons are the sheep,
+guided by those barking dogs.
+The surface charge description
+of electric circuits
+is omitted from most textbooks,
+but there is a great treatment of it
+in Matter and Interactions
+by Chabay and Sherwood.
+They also have a VPython
+simulation where you can see
+the positive surface charge in red,
+and negative surface charge in blue.
+You can see how this
+entire charge distribution
+creates a net electric field
+shown by the orange arrow,
+everywhere in and around the circuit,
+everywhere inside the wire,
+the electric field has the same magnitude
+and its direction is along the wire.
+This is really showing
+you the electric field
+in the center of the wire, but
+it's depicted on the surface
+so you can see it.
+In this circuit,
+all the conductors are
+made of the same material,
+but the segment at the bottom
+has a much narrower cross section.
+So it represents a resistor.
+Since the cross sectional area is smaller,
+the electron drift velocity
+through the resistor
+has to be higher so that it
+can carry the same current
+as everywhere else in the circuit.
+Now, drift velocity is
+directly proportional
+to electric field.
+So the electric field must be
+largest inside the resistor.
+And this is achieved by
+having the steepest gradient
+of surface charges here.
+You can also see the contribution
+to the net electric field
+from the battery in magenta,
+and the contribution from
+surface charges in green.
+Far from the battery,
+most of the electric field
+is due to surface charges,
+whereas close to the battery,
+it has a greater contribution
+and the field due to surface charges
+is actually in the opposite direction
+to the field from the battery.
+So to sum up, electrons
+don't carry the energy
+from battery to bulb,
+nor do they push each
+other through the wire.
+They are pushed along
+by an electric field,
+which is created by
+charges on the battery,
+and charges on the surface of the wires.
+With this view of circuits,
+things that might have
+previously seemed mysterious,
+make a lot more sense.
+Like if electrons leave a
+battery at the same rate,
+and with the same drift
+velocity as they return,
+how do they carry energy from the battery?
+The answer is they don't.
+They are accelerated by the electric field
+before each collision with the lattice.
+At a junction, how do the
+correct number of electrons
+go down each path?
+Well, they're guided
+by the electric field,
+which extends everywhere
+throughout the circuit.
+The fields are the main actors,
+extending everywhere
+throughout the circuit,
+and the electrons are just their pawns.
+So how does this apply to the big circuit?
+When the battery is
+connected into the circuit,
+even with the switch open,
+charges rearrange themselves.
+On the negative side of the battery,
+there is an excess of electrons
+on the surface of the
+wires and the switch.
+On the positive side, there
+is a deficiency of electrons.
+So positive charges built up
+on the surface of the wires.
+The charges rearrange themselves
+until the electric field
+is zero everywhere inside the conductor.
+This electric field is due
+to all the surface charges
+and the charges on the battery.
+There is an electric
+field outside the wires
+due to these charges, but
+it's zero inside the wires.
+We now have the full potential difference
+of the battery across the switch.
+And no current is full flowing,
+except for leakage current,
+which I'll assume is negligible.
+When we close the switch,
+the surface charges on
+both sides of the switch
+neutralize each other on contact.
+And at that instant,
+the electric field inside the
+conductor is no longer zero,
+and current starts flowing
+through the switch.
+Simultaneously, the new electric field
+from the modified surface charges
+radiates outwards at
+essentially the speed of light.
+And when it reaches the bulb,
+the electric field inside
+it is no longer zero.
+So current starts to flow here too.
+This is why I said the bulb
+lights up in 1/c seconds,
+because the bulb was one
+meter from the switch,
+and the change in the
+electric field travels out
+at the speed of light.
+As some of you pointed out,
+the answer should have been
+one meter divided by C.
+And I apologize for the
+casual use of units.
+If you were to move the switch,
+then the bulb would take
+a different amount of time to emit light,
+which just depends on the distance
+between the switch and the bulb.
+In response to my original video,
+Ben Watson simulated
+a model of the circuit
+using software from Ansys called HFSS.
+It provides a complete
+solution to Maxwell's equations
+in three dimensions.
+Now have worked with Ben and Ansys
+to make these simulations.
+When the switch is closed,
+you can see the electric
+field radiate out,
+and as it hits the far
+wire, it generates current.
+The electric field is to the right.
+So the electrons flow to the left.
+This simulation shows the
+magnitude of the magnetic field,
+which falls off pretty
+rapidly as it crosses the gap.
+But then a magnetic field
+appears around the far wire,
+and this magnetic field is created
+by the current in that wire.
+To me, this suggests that it
+really is the electric field,
+and not the changing magnetic field
+that creates the current through the load.
+Some commenters on the original video
+claimed my answer of
+three or four nanoseconds
+violates causality.
+I guess they were thinking that the bulb
+would only go on if the
+circuit were complete.
+And it wouldn't if the
+circuit were broken somewhere,
+which could be up to
+half a light second away.
+So it seemed like I was saying,
+we could get information about the status
+of the whole circuit, even
+half a light second away,
+in just nanosecond seconds.
+But that is not what I was saying.
+What I should have stated explicitly,
+is that the bulb goes on
+regardless of whether the
+circuit is complete or not.
+The current flows through the load
+due to the electric field it experiences.
+To illustrate this, Ben added
+a wire below the circuit
+that is completely disconnected from it.
+You can see is that its response
+to the changing electric
+field is virtually identical
+to that of the top wire,
+at least up until the
+signal reaches the far end
+and reflects back.
+This is why my answer
+doesn't break causality.
+At least initially, connected
+and disconnected wires
+behave exactly the same.
+Using this software,
+you can also simulate the Poynting vector
+that is the cross product of
+electric and magnetic fields.
+In the last video, I showed
+how the Poynting vector
+indicates the direction of energy flow.
+And after the switch is closed,
+the Poynting vector
+points out of the battery,
+across the gap to the other
+wire, whether connected or not,
+because energy is carried
+by fields and not electrons,
+it can go straight across the gap.
+So you might ask, why
+do we need wires at all?
+Well, we don't, I mean,
+phones and toothbrushes
+charge without wires connecting them
+to a stream of electrons,
+and researchers have
+demonstrated remote charging
+using the energy from WiFi signals.
+Wires are more efficient
+because they channel the fields
+and hence the energy from source to load.
+Here's another angle
+on the Poynting vector.
+And you can see once there
+is current in the top wire,
+the fields around it carry
+energy in both directions.
+Now, of course, the
+Poynting vector also points
+parallel to the first wire,
+carrying the energy around the circuit
+as most people would expect.
+But again, note how the energy
+is carried outside the wires,
+not in the wires.
+Now admittedly, thinking
+about circuits this way
+is complicated.
+And since nobody wants to
+solve Maxwell's equations
+in three dimensions just to
+analyze a basic circuit,
+scientists and engineers
+have worked out shortcuts.
+For example, Ohm's law,
+voltage equals current times resistance,
+is just the macroscopic result
+of all the surface charges,
+their electric fields
+and zillions of electrons
+bumping into zillions of metal ions.
+You can simplify all that physics
+into a single circuit element, a resistor,
+and the basic quantities
+of current and voltage.
+This is called the lumped element model,
+lump all the spread-out
+multi particle and field
+interactions into a few
+discrete circuit elements.
+And we use this technique
+every time we draw a circuit diagram.
+So our original diagram of
+the big circuit is flawed
+because fields between the wires
+are important to the problem,
+but there are no circuit elements
+to indicate these interactions.
+To fix it, we need to add
+capacitors all down the wires.
+These capture the effect
+charges on one wire
+have on the other.
+If there are negative
+charges on the surface
+of the bottom wire, for example,
+they'll induce positive charges
+on the surface of the top wire.
+Also, since these wires are long,
+they're gonna create
+significant magnetic fields
+around them, which resist
+changes in current.
+So we model this with inductors
+all the way down the wires.
+We could also add resistors,
+making what electrical
+engineers would recognize
+as the distributed element
+model for a transmission line.
+But we're assuming that these
+wires are super conducting.
+So this is how we could model
+a super conducting transmission line.
+This diagram offers another
+way of understanding
+why current flows through
+the load almost immediately.
+When you first apply a
+voltage across a capacitor,
+current flows as opposite charge builds up
+on the two plates.
+In the short time limit, a
+capacitor is a short circuit.
+It acts just like an ordinary wire.
+Once it's charged up,
+no more current flows,
+but by this point, the next
+capacitor is charging up.
+And then the next one,
+and then the next one.
+And so we have a loop of
+current that is expanding out
+at roughly the speed of light.
+This is of course, just
+another way of talking
+about the effect the electric field
+that the bottom wire has on the top wire.
+One reason it's useful to
+look at the circuit this way,
+is because you can use
+the values of inductance
+and capacitance to calculate
+the characteristic impedance
+of the transmission lines.
+You can think of this as the resistance
+to alternating current
+that a source would see
+when sending a signal down the wires.
+The characteristic impedance
+is equal to the square root
+of inductance divided by capacitance.
+And for our circuit,
+I measured the capacitance and
+the inductance of the lines,
+- 11.85, call it, micro Henry's.
+- So we got a characteristic
+impedance of about 550 Ohms.
+To maximize the power
+delivered to our load,
+we want its resistance to
+equal the sum of the other
+impedances in the circuit.
+So that's why we picked
+a 1.1 kilo-Ohm resistor.
+Now, I hope you're convinced
+that current will flow
+as soon as the electric
+field reaches the far wire.
+The question is, how much?
+Are we gonna see an appreciable voltage
+even with these lines a meter apart?
+That's what it seemed like a
+lot of people were doubting
+in the last video.
+So that's really what we
+want to find out here.
+Okay, so now we're
+putting a pulse in there.
+- Yep.
+Well looky, looky, Derek.
+- So what do we got
+that yellow one is our-
+- Got a fraction of the
+applied voltage overshoot.
+And then-
+- So it looks to me
+like the initial voltage
+that we're getting is about-
+- Five volts per division.
+So it looks like about five volts,
+roughly four or five volts.
+- The green curve rising
+up to around 18 volts
+is the source voltage.
+And the yellow line is the
+voltage across the resistor.
+So after just a few nanoseconds,
+this voltage rises to around four volts.
+Since the resistor was a kilo-Ohm,
+that means four milliamps of current
+are flowing in the resistor,
+before the signal goes all
+the way around the circuit.
+So we were transferring
+about 14 milliwatts of power.
+This is what 14 milliwatts
+of light actually looks like.
+So, yeah, it's not a fully on bulb,
+but it is visible light and
+way more than you would get
+from just leakage current.
+Now, some of you may argue,
+it's unfair to use a little
+LED when I showed a bulb
+and car battery in the original video,
+but those items were for
+illustrative purposes only.
+The clue that this is
+actually a thought experiment
+is the two light-seconds
+of super conducting wire
+that stretch out into space.
+This is not an engineering
+question about how best
+to wire up a light bulb in your bedroom.
+The question was intentionally vague.
+And if you want to
+choose circuit components
+such that the bulb never goes on,
+you are welcome to do that
+and I support your conclusion.
+Just to me, the most interesting way
+to approach this problem is to ask,
+how could you make the
+light go on fastest?
+I was worried that those
+long wires would pick up
+all the radio waves passing through,
+and we wouldn't even be able to see
+the signal for that noise,
+but you can see clearly on the graph
+that the signal is way
+above the noise level.
+Alpha Phoenix set up a kilometer of wire
+and got a very similar result.
+- So the light bulb turns on a little bit,
+and then after one light-speed delay,
+the light bulb turns
+on the rest of the way.
+- YouTuber, ZY, simulated the
+transmission line circuit,
+and found that even with
+realistic assumptions,
+he transferred 12 milliwatts
+to the load straight away.
+- Derek is actually more correct
+than we give him credit for.
+So, I believe that he's
+correct on all counts.
+And the question is neither deceptive
+or requires like technicalities.
+- So everyone agrees that a steady, small,
+but way-bigger-than-leakage-current signal
+flows through the load in the first second
+after the switch is closed.
+Is it enough to emit light?
+Yes, if you use an LED.
+But the point of the thought experiment
+was to reveal something
+that's normally hidden
+by the way that we think about
+and teach electric circuits.
+You know, we use voltage and
+current and lumped elements
+because they're more convenient
+than working with Maxwell's equations,
+but we shouldn't forget
+that the main actors
+are actually the fields.
+They are what carry the energy,
+and you don't have to take my word for it.
+This is Rick Hartley,
+a veteran printed circuit board designer.
+- I used to think in terms
+of voltage and current.
+And I used to think that
+the energy in the circuit
+was in the voltage and
+current, but it's not.
+The energy in the
+circuit is in the fields.
+The most important thing you need to know
+is that when you route a trace,
+you better define the other
+side of that transmission line,
+because if you don't, those
+fields are gonna spread
+and they're gonna leave
+you an unhappy individual.
+- I think one of the things
+that I'm most excited
+about the circuit's video
+was the response videos
+I saw by so many people,
+especially people with
+far better credentials
+in electrical engineering than me.
+I really enjoyed watching those videos.
+So I feel like my circuits
+video was kind of like,
+a mistake on my part in certain ways
+that I didn't delve deep enough
+into this part of the problem.
+I honestly didn't think that this
+was the focus of the video,
+but clearly everyone who
+watched it did, so that's on me,
+but by making that mistake,
+and by not going deep into my explanation,
+I invited seemingly a
+whole bunch of other people
+to make explanations,
+which I thought were great.
+And some people like
+Alpha Phoenix even took up
+the challenge and set up his
+own version of the experiment.
+So, frankly, I'm just really
+excited at what came about,
+even though I do acknowledge
+that this was my fault
+in the first place.
+Like I should have done
+a better explanation,
+but by not doing so, you know,
+there are a lot of great
+explanations out there.
+And that's what I love.
+So I'm gonna recommend a whole bunch
+of electrical engineering YouTubers to you
+in case you wanna check those out
+because they're a lot of great channels,
+and you should really see how
+they think about electronics,
+and how they explain this circuit.
+Hey, this video was
+sponsored by Brilliant,
+the website and app that
+gets you thinking deeply
+about concepts in math,
+science, and computer science.
+Brilliant is sponsoring a
+lot of our videos this year,
+because they know someone
+who makes it to the end
+of a Veritasium video is
+exactly the sort of person
+who would love to learn with Brilliant.
+And they have a great course
+on electricity and magnetism,
+which methodically steps
+you through an introduction
+to E&M with questions, simulations,
+videos, and experiments.
+I really think this is
+the best way to learn
+because the sequence of
+steps is so well thought out.
+The difficulty builds gradually.
+And by asking you questions,
+you are forced to check your
+understanding at each step.
+If you need help,
+there's always a useful
+hint or explanation.
+You know what sets Brilliant
+apart is their interactivity.
+You can learn calculus or machine learning
+or computer science fundamentals
+all in this very active way.
+So I encourage you to go over
+to brilliant.org/veritasium
+and just take a look at their courses.
+I will put that link
+down in the description.
+And if you click through right now,
+Brilliant are offering 20% off
+an annual premium subscription
+to the first 200 people to sign up.
+So I want to thank Brilliant
+for supporting Veritasium.
+And I wanna thank you for watching.

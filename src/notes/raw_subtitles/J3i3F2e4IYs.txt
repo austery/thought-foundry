@@ -1,0 +1,1019 @@
+- This is Tom Brady.
+He's the greatest American
+football quarterback of all time.
+Holy.
+- Can you hear it
+go by you?
+- (laughing) Yeah, it's scary.
+(dynamic music)
+He's won seven Super Bowls
+and has thrown the most
+touchdown passes in history.
+- Ooh.
+- Ooh, that one
+hurt the chest, I heard that.
+- Right in the chest.
+- I'm like
+glad I'm not catching those.
+- Every quarterback takes pride
+in their ability to throw a tight spiral.
+The tighter the spiral you throw
+means the more control
+you have of the football.
+- We analyzed his throw in detail.
+Have people shot you in really slow motion
+for the release and everything?
+- Never.
+- And discovered
+something surprising.
+Even Tom Brady can't
+throw a perfect spiral.
+Just look.
+- Said hut.
+- On his deep passes,
+no matter how hard he tries
+to spin the ball cleanly
+around its long axis,
+if you look closely enough,
+you'll notice this little wobble.
+Not only that, there's a
+slight drift to the ball,
+which means even Tom Brady
+can't throw straight.
+Virtually all his long
+passes curve to the right.
+But these aren't mistakes,
+they're actually
+fundamental to the physics
+of throwing a football accurately.
+To find out why,
+we ran a full computational
+fluid dynamics analysis,
+tested spinning balls in a wind tunnel,
+and even embedded sensors
+in real footballs.
+- That's crazy.
+- Now, admittedly,
+who are we to tell Tom Brady
+anything about football?
+(inquisitive music)
+(Derek grunting)
+I've never really played much football.
+I grew up in Canada.
+I'd be much happier to be playing hockey.
+Like why can't I throw at all?
+That is so rough.
+- Okay, well, he'll walk you through it,
+I'm not gonna bother
+doing it (laughing) right now.
+- Yeah, yeah, yeah, yeah.
+(upbeat music)
+- Try to do this,
+over-exaggerate the tilt.
+So instead of standing
+straight up-
+- Yeah, lean forward?
+- lean like you're almost
+like a shortstop, right,
+and like you're falling over,
+and then you're just here,
+like that.
+(Derek grunting and laughing)
+- Good catch.
+- So lean over
+a little bit.
+- I feel like I'm like
+not ready for it.
+- So get down
+like a shortstop.
+- Yeah, yeah,
+like this?
+- Even more.
+- Even more?
+- Yeah.
+Now throw it sidearm.
+- Yeah?
+I feel like this is weird.
+There you go, that was a better throw.
+- That is a better throw.
+- It was really good.
+- [Derek] What's the key to throwing
+like a really tight spiral?
+- The key to me is, first of all,
+you gotta have very light grip pressure
+on the football.
+I learned over a period of time
+that I had to be really
+efficient with my mechanics.
+I had to have all my energy
+going right toward the target
+with a very relaxed posture.
+And then it's a really smooth,
+efficient throwing motion.
+- [Derek] And then how
+are you actually imparting
+the spin to the ball?
+- So you're really popping
+your wrist at the end.
+So I can even go really slow
+and just pop my wrist at the end.
+And even that little bit of wrist pop
+will create a little snap on the ball
+as it releases from my fingertips.
+Henry, you can't drop the easy one.
+(bright music)
+- That snap and the spin it creates
+is the key to Brady's
+record-breaking throw.
+But the big question is why?
+I mean, what does the spin
+actually do to the football?
+(audience cheering)
+It seems like such a simple question,
+but the physics turned out
+to be much more complicated
+than I initially thought.
+In fact, physicists studying the problem
+didn't get close to the real answer
+until just five years ago.
+So let's break it down from the start.
+A question for Tom is,
+can he throw the ball without spinning it.
+- Like a knuckleball?
+- Yeah, can you knuckleball a football?
+- Yeah, I could try.
+Can I throw it underhand?
+- Yeah, yeah, yeah.
+- Yeah, however you
+wanna toss it.
+- Even overhand, there's no way to do it
+without getting a spin on it
+or it's just gonna mess with you?
+- I mean, you'd have to
+almost throw it sideways.
+- Yeah, yeah.
+- Oh, that spun a little bit.
+- When you launch a ball without spin,
+perfectly aligned with
+the direction of motion,
+it seems like the air
+flowing over the ball
+will be totally symmetric.
+But this is unstable.
+Any slight disturbance,
+like a tiny bit of wind,
+will cause more air to hit
+one side than the other,
+and that starts to change
+the ball's orientation.
+And now more area on that side
+is exposed to the oncoming air,
+so it deflects even more.
+So drag on the ball increases,
+it's pushed off course,
+and it can begin to tumble.
+The total drag force on the ball
+is proportional to the area
+presented to the airflow
+and the drag coefficient.
+That's just a measure of how
+streamlined an object is.
+Pointed straight in the
+direction of motion,
+a football is pretty streamlined,
+with a drag coefficient of just 0.14.
+That's better than a bullet.
+But on its side, the
+drag coefficient is 0.85,
+which is worse than a cow.
+- Man, I'm learning a lot today.
+That's what I'm gonna use
+with all the quarterbacks,
+going, "Man, your drag coefficient sucks."
+(laughing)
+"What are we doing?
+We need .14.
+.85, no good.
+- To make matters worse,
+when a football is going sideways,
+it exposes nearly 70% more
+area to the oncoming air.
+And combined with the
+higher drag coefficient,
+this means that the drag force
+is 10 times greater
+than when the football is
+aligned with the throw.
+So an un-spinning ball
+can end up going sideways,
+meaning it decelerates
+up to 10 times faster.
+Plus, as it tumbles,
+the air pushes on it in
+different directions,
+making it move unpredictably.
+Now, in some cases,
+you actually want this.
+Like when kicking the ball
+back to the other team,
+punters sometimes intentionally
+kick the ball end over end
+so that it gets pushed around erratically.
+That makes it far harder
+for the opposing team
+to predict where the ball's gonna go
+and get under it.
+But when you're passing to your own team,
+you want the ball to be predictable
+and go as fast and as far as possible.
+And for that, you need spin.
+(suspenseful music)
+The benefits of spin
+really became clear in the mid 1800s
+during the Crimean War.
+Back then, soldiers
+were armed with muskets
+that fired round lead balls.
+And to make reloading
+faster on the battlefield,
+these musket balls were
+made significantly smaller
+than the barrel.
+But when the gunpowder was ignited,
+some of the expanding
+gases would then escape
+around the bullet,
+making the bullet's exit
+velocity unpredictable.
+This, combined with
+inconsistent manufacturing
+and the round ball's poor aerodynamics,
+meant that muskets were
+somewhat unreliable.
+- There was a British
+army musketry instructor
+who famously said,
+"I'm willing to stand and
+be shot at all day long,
+as long as whoever's shooting at me
+with the smoothbore musket
+promises to aim at me every single time."
+(Henry laughing)
+Because he knew
+the bullet's never actually gonna go
+(laughing) where the gun is being aimed.
+(pensive music)
+- [Derek] All of that
+changed in the fall of 1854.
+Russian troops huddled in Sevastopol
+under siege by French and British forces.
+The soldiers watched as British troops
+set up on a distant hillside.
+They were far out of
+standard musket range,
+so the Russians weren't worried,
+when suddenly
+a window shatters.
+(window smashing)
+- They were shooting through the windows
+of the Russian barracks at
+their naval base in Sevastopol,
+900 yards away,
+they're shooting bullets
+through the windows.
+(window smashing)
+- But these were
+no ordinary bullets.
+Eight years earlier,
+an enterprising French army
+officer, Claude-Etienne Minie,
+made a breakthrough.
+He developed a conical
+bullet with a hollow base
+and an iron plug that would fit into it.
+So when fired,
+the gas pressure drove
+the plug into the base,
+which expanded the bullet,
+pressing it firmly
+against the barrel walls
+so no gas could escape.
+This made the bullet's muzzle velocity
+much more predictable.
+But it also enabled something else.
+The expanded bullet
+could grip spiral grooves
+carved into the inside of the barrel,
+called rifling.
+This imparted spinned the
+bullet as it shot out.
+And this is key
+because all spinning objects
+have a fundamental quantity
+they can serve,
+angular momentum.
+This helps them resist
+changes in their orientation.
+It's just like the spinning top.
+- Now, without spin,
+the top just falls over like you'd expect.
+But if we add a little bit of spin,
+we can see that it resists
+changes in its orientation.
+So if I give it a little touch,
+it reorients itself
+in the direction of its angular momentum.
+- [Derek] A similar thing
+happens with a spinning bullet.
+Its angular momentum resists changes
+to its axis of rotation.
+So even if wind applies an
+unbalanced force to the bullet,
+it maintains its orientation.
+This reduces drag and helps
+the projectile fly further,
+faster and more accurately.
+The exact same thing is going on
+when Tom Brady throws a tight spiral.
+- The important part of a spiral
+is you feel the wind blown at us.
+If the ball wobbles at all,
+it's gonna catch a lot of
+resistance in the wind,
+and it's gonna slow the
+velocity of the ball down a lot
+and the accuracy.
+The tighter the spiral
+and the more it spins,
+the more it can just
+rotate through the air
+and the wind will have a
+less effect on the ball.
+So for any good quarterback,
+the ability to throw a tight spiral
+is really important
+when you play in windy conditions.
+- A spinning ball will
+maintain its orientation,
+and therefore cut through the air
+with a smaller frontal area
+and a lower drag coefficient.
+This all makes sense,
+but here's where things get weird.
+If the ball is maintaining its orientation
+then on a long Hail Mary pass,
+it should stay pitched up
+like this the whole time,
+just like when it was thrown.
+But that is not what happens.
+- There's kind of a paradox in football,
+which is, when you release the ball,
+you're angled say positive 30 degrees.
+- Okay.
+- And when your receiver catches it,
+it's angled negative 30 degrees.
+- Perfect, I love that.
+- So what we just said was,
+angular momentum makes
+the ball hard to pivot.
+- Okay.
+- But what we saw
+was it pitches from this
+to this in four seconds.
+- Right, turnover-
+- Yes, exactly.
+- is what we would call that.
+Now, turnover is essential to a good throw
+because it means at every
+point along the arc,
+the ball's orientation
+stays closely aligned
+with its direction of motion.
+That means it stays pointed
+directly into the airflow,
+which minimizes drag.
+Now, sure, you might think
+this isn't that crazy?
+I mean, arrows and birdies
+align themselves along the
+path of the arc as well.
+But that works in these cases
+because the objects are front weighted.
+The feathers catch the air
+and get pushed behind the heavier tip,
+which leads the way.
+But a football's totally different.
+I mean, it doesn't have feathers or fins,
+and its weight is evenly
+distributed along its axis.
+So it just can't use the same
+mechanisms to align itself.
+So in 2020, the editor-in-chief
+of "The American Journal of Physics"
+decided to figure it out.
+- I was surprised at how
+many bad explanations
+that were easy to debunk got published.
+When you think about it,
+it doesn't make any sense,
+because the air resistance
+would push the nose of the football up,
+and you want the nose of
+the football to go down.
+So it's pretty curious.
+- [Henry] So Price put
+together a theoretical model
+to explain the football's turnover.
+And today, we're gonna see
+whether his findings hold up
+by simulating Tom Brady's own throws
+in a wind tunnel.
+- The idea of having anything
+to do with Tom Brady,
+whom I greatly respect,
+not only because of his skill,
+but because of his work ethic.
+It's otherworldly.
+(dynamic music)
+- We have these sensors in these balls.
+So we should be able to see
+how fast the balls are actually
+going from inside the ball.
+And just to be sure,
+I'm measuring the speed of these balls
+the old-fashioned way,
+a decision I might regret.
+- Do you wanna go right on the side
+of the dummy with the gun?
+I'll throw it right over your head.
+(Derek laughing)
+I won't hit you, trust me.
+(dynamic music)
+Yeah, right there, perfect.
+Ready?
+- Yep.
+45.
+- Maybe scoot just a smidge more that way.
+Perfect.
+- Holy (bleep).
+46.
+You gonna do another one?
+- Yeah.
+(dynamic music)
+(football whizzing)
+- 49.
+My God, that's scary.
+That's like 80 kilometers an hour.
+But would you actually
+use that speed in a game?
+- That'd be a good speed.
+That's a normal pass.
+- That's like terrifying.
+(upbeat music)
+And that's just for a regular throw.
+For his long throws,
+the speed jumps even higher,
+over 60 miles per hour,
+that's almost 100 kilometers per hour.
+Now, I'm not about to step
+in front of that cannon.
+I was not built for being an athlete.
+- You're built for
+analyzing the. (laughing)
+- That's right, I'm here for the data.
+And that's why I've got Henry here.
+- Ooh.
+- Ooh, that one hurt the chest.
+I heard that.
+- Sure you don't wanna
+swap in, Derek? (laughing)
+- You're doing great.
+(dynamic music)
+When Tom Brady is throwing,
+you gotta react fast.
+But that kind of pressure
+isn't limited to the football field.
+- Now, the internet's a lot like football.
+When you're online,
+threats are coming at you from all sides.
+Now, you got hackers, you got trackers,
+you got ads for things
+you never even googled.
+- And you don't even
+have to be near someone
+to mess with them.
+- (laughing) That was close. (laughing)
+(transition beeping)
+With today's sponsor, NordVPN,
+it's like having your own offensive line.
+(upbeat music)
+(Henry sharply exhaling)
+- NordVPN gives you
+real protection.
+It hides your IP, masks your location,
+and encrypts all your internet traffic
+so no one sees what you're doing online.
+Threat protection blocks
+malware, stops trackers,
+and even protects you
+from those annoying ads.
+It even works when you're
+not connected to a VPN.
+- Plus, NordVPN has a
+strict no-logs policy,
+so they never track,
+collect or share your private data.
+You can use it on up to 10
+devices with one account,
+desktop, tablet, or even your phone.
+So you're protected even
+when you're on the field.
+When you're online, don't
+just stand there unprotected,
+set up your own offensive line.
+(transition booming)
+- To be clear, NordVPN does not come
+with five 300-pound linemen,
+but it does protect your connection
+like one of them.
+Nord is giving you an exclusive
+discount through my link.
+So when you sign up,
+make sure to go to nordvpn.com/veritasium,
+or just scan this handy QR code.
+And with this deal,
+you'll get a discount on a two-year plan,
+plus an extra four months free.
+And if you're still not totally convinced,
+Nord has a 30-day money-back guarantee,
+so you can try it out
+completely risk-free.
+Just check it out at
+nordvpn.com/veritasium.
+I'd like to thank NordVPN
+for sponsoring this video.
+And now, back to Tom Brady.
+Have people shot you in really slow motion
+for the release and everything?
+Did you ever watch that back?
+- Never.
+- [Derek] You guys ready?
+- I'm ready.
+- [Ricky] Three, two, one.
+- Oh my God.
+Are you good? You good, Ricky?
+- [Ricky] Yeah, yeah, I'm good, I'm good.
+- [Henry] Is that plexy
+or is that real glass?
+- That's plexiglass.
+- That's incredible.
+- You get one shot at these things.
+- Oh (bleep), all right,
+I'd have given it my best.
+Should we try one more,
+even if the camera breaks?
+(Henry and Derek laughing)
+- [Ricky] I don't see the cracks-
+- Wow.
+- so we can go again.
+- Let's try one more.
+- Are you kidding?
+- Let me just throw a little harder.
+- All right, let's go again.
+- I'm gonna throw a little harder.
+(football smacking)
+- [Ricky] Aw.
+- Now we're broke down.
+- That went right there.
+Are we able to watch the throw back?
+- Good spiral.
+(laughing) Oh, that's so cool.
+- The sensors show Brady's
+maximum spin rate on this day
+was 628 revolutions per minute.
+So armed with this data,
+let's analyze Brady's
+throws in a wind tunnel.
+How much data are you used to getting?
+- Zero.
+- Really?
+- When I played?
+- Yeah.
+- None of it was available.
+(dynamic music)
+- [Phillip] So this is
+the low-speed wind tunnel
+here at the university.
+This wind tunnel facility
+can get up to about Mach .2,
+so 20% of the speed of sound.
+- [Derek] Typically this wind tunnel
+is used in the development
+of advanced wing geometries
+for innovative sustainable
+aircraft design.
+But today, it's being used for football.
+- We have just a sting mount
+mounted to a turntable.
+We actually have a
+six-component load cell here.
+And with this six-component load cell,
+we can measure all three
+components of force and torque.
+We then have an electric motor, right,
+that we can spin to basically
+simulate the spiral.
+- [Derek] First, we're gonna
+simulate one of Brady's throws
+where the ball travels
+straight into the airflow
+with his classic spiral.
+(inquisitive music)
+And everything proceeds as we expect,
+no significant forces or torques develop.
+But during a game,
+a ball doesn't travel like this
+in a straight line.
+During any throw,
+its center of mass follows a
+roughly parabolic trajectory.
+So let's say you align the ball
+perfectly with this
+parabola when you launch it.
+Well, then, from the ball's perspective,
+just a moment later, this
+parabola starts to curve down
+away from the ball,
+which means more air
+will be hitting the underside
+of the ball than on top.
+Now, you would expect this
+would tilt the ball back,
+but that's only what happens
+if the ball is not spinning.
+If it is spinning,
+then the situation is very different,
+which you can see with this amazing demo.
+Imagine this ring of golf balls
+is like a cross-sectional
+slice of the football.
+- Here's what happens when
+I try and push it back
+with this leaf blower.
+(leaf blower blowing)
+I mean, it tilts back
+just like you'd expect.
+But if I do the exact same thing,
+but this time, get the wheel spinning,
+tilts out to the right.
+And you can see why if we slow it down.
+So as the ring passes the leaf bar,
+that's where the force is applied.
+But each ball still has momentum
+in the direction of rotation.
+So it actually reaches its peak
+90 degrees further along
+from where the force is applied,
+and this is known as
+gyroscopic procession.
+- So if the wind was hitting it,
+it's gonna keep the point up.
+- So you'd think that it
+would just push it back.
+- Right?
+- But because it's spinning,
+when you push up,
+it actually tilts to the right.
+- Oh, interesting.
+- But it doesn't stop there.
+As the ball tilts right,
+it exposes more area on that side.
+So now, because of gyroscopic procession,
+the ball pitches downward.
+And with more air hitting
+the top of the ball,
+well, it's going to deflect to the left.
+And that is going to make
+the ball deflect back up.
+And now we're back to where we started.
+So this cycle is going to repeat,
+but since this is happening continuously,
+the nose traces out a circle
+around the direction of airflow.
+So we get a slow wobble.
+- We used to joke, whenever
+you would not throw
+a tight spiral,
+you would call it a tight wobbler.
+That was a Brett Favre-coined phrase.
+He let it go and have
+a little wobble to it,
+and he'd go, "Oh, tight wobbler."
+(Henry laughing)
+- Now, if the ball were
+just traveling straight,
+this would be the whole story.
+But remember from before,
+the ball's path is a parabola,
+meaning that from the ball's perspective,
+the oncoming air is constantly
+dipping down away from it.
+So the ball is trying to process
+around the airflow direction,
+but that direction is constantly changing.
+(light music)
+For example, by the time
+the ball has reached
+the bottom of the procession,
+the airflow has moved down too.
+And what that means is the ball
+is not gonna tilt out to the left
+as much as you'd expect.
+So when it processes back up,
+it doesn't go as high as where it started.
+And over time, it is this
+that gradually pitches
+the nose of the football down,
+keeping it aligned with
+its parabolic path.
+- I can visualize it all,
+your fancy science words.
+- Okay, okay.
+- I'm going all the way back
+to my high school days.
+I was a very average science student, so.
+But you're teaching me a lot.
+- As the ball goes through the air,
+there's gonna be more air resistance
+on the bottom of the ball than on the top.
+- The front of the ball, not the back,
+'cause that's hitting the wind first.
+- The front bottom of the ball.
+- Okay.
+- And so what that means is,
+it creates this processive
+effect that pushes it out,
+pushes it down, pushes it right.
+It creates a wobble no matter what you do.
+- Very cool.
+- So wobble is actually
+not only impossible to avoid,
+but it's essential to make sure
+that the ball follows the path
+that you want it to follow.
+- [Derek] You can see
+this in the wind tunnel.
+We've tilted the ball up by three degrees
+and it's free to pivot in any direction.
+- Yeah, you're definitely seeing a pitch.
+Oh, that's awesome.
+What we're seeing is,
+it's starting out aligning itself
+about three degrees off.
+You know, 'cause that's how we spin it up.
+But as the airflow starts,
+it's pointing itself in the
+direction that minimizes drag.
+That's so cool.
+I mean, that's exactly
+what we were expecting,
+but it's still incredible
+to see it in person.
+(inquisitive music)
+- [Derek] If you look at
+a real football flight,
+you'll notice that it spends more time
+angled slightly to the right
+when thrown by a right hander.
+That is what creates the force,
+which, through procession,
+gradually pitches the nose downward.
+It creates the turnover effect
+that Tom Brady was talking about.
+- Just wanna reframe the wobble
+as not necessarily a bad thing.
+- Okay, good.
+- (laughing) Yeah.
+- Peyton Manning had a
+good wobble on the balls,
+but he found a way to complete
+a lot of touchdowns that way.
+(inquisitive music)
+- [Derek] But the
+right-ward lean of the ball
+also has an unintended side effect.
+Something we've heard
+is that for right-handed throwers,
+the ball will drift right,
+and for left-handed throwers,
+the ball will drift left.
+Do you think that's true
+or is that something you notice?
+- So I wouldn't necessarily
+agree with that.
+- So we got Tom to throw
+straight down one of
+the lines on the field.
+Is the drone set?
+That's a pretty straight throw.
+- [Tom] Henry, don't move,
+you're making it look bad.
+(Derek laughing)
+- I'll stay planted.
+- The more still you go,
+the better it looks for my throw.
+It's like a catcher.
+when you frame the pitch.
+- [Henry] I'll frame it,
+I'll frame it. (laughing)
+(bright music)
+- From ground level,
+his passes looked amazingly straight.
+But from the drone, if you watch closely,
+just at the end of the pass,
+the ball does drift off to the right.
+This is because up until now,
+we've been ignoring a very
+important aerodynamic effect,
+which is lift.
+When the ball is tilted to the right,
+it generates lift out in that direction.
+The more it's tilted,
+the larger this force is.
+The rightward tilt is required
+to get the ball to turn over
+during its parabolic path.
+But it does mean that right-handed throws
+tend to drift, right?
+The effect is subtle,
+but some players notice it intuitively.
+In the fall of 1991, Jerry Rice,
+generally considered the
+greatest wide receiver
+of all time,
+changed quarterbacks.
+In place of the right-handed Joe Montana,
+he was now catching passes
+from the left-handed Steve Young.
+And for Rice, something felt off.
+He wasn't sure exactly why,
+but he said the throws
+were coming up short.
+Of course, what was actually happening
+was that the ball was drifting away
+from where he expected it to be.
+Joe Montana's right-handed throws
+drifted to the right,
+whereas Steve Young's drifted left.
+It's a subtle effect,
+but it's all part of the procession
+that minimizes drag on the ball
+and lets it fly farther,
+faster and more accurately.
+- So it's not because
+you're a bad quarterback
+throwing it with a wobble,
+it's because wind, you know?
+- Okay, so what if you're in
+a dome and there's no wind?
+- See, that's a great question.
+So I'm just saying this
+is just air resistance.
+So even in a dome, the
+same thing would happen.
+- Whether in an outdoor
+stadium or a closed-top dome,
+the ball will always wobble.
+But outdoor stadiums are
+significantly harder to throw in
+because of the wind.
+With the ball being thrown
+at 50 to 60 miles per hour,
+most of the airflow over the ball
+is due to its own motion,
+but in winds gusting
+over 15 miles per hour,
+the weather starts to play a major role.
+We commissioned the NFL data team
+to do an analysis of completion percentage
+in outdoor stadiums versus indoor domes.
+And they found that
+throws in indoor stadiums
+are consistently more accurate,
+no matter the distance.
+So maybe Brady was hard
+done by Foxborough,
+New England's stadium.
+Do you prefer to throw in
+a game when it's no wind?
+Do you prefer wind, rain, snow?
+Does it matter?
+- I preferred outdoor, 70 degrees, humid,
+tiny little breeze, just to keep you cool.
+- Right, but why did
+you like being outdoors
+as opposed to being in a dome?
+- I felt like my depth perception
+was a little better outside.
+I liked just the natural
+feel of the natural air.
+The dome always felt like a vacuum.
+- Do you think you had an edge
+if the weather was bad
+compared to other quarterbacks?
+- I would say yes.
+And the reason why is
+I'd say I practiced in it
+all the time.
+And I think getting used to the conditions
+and the familiarity of the wind,
+of the humidity, of the rain,
+of the snow, you know,
+grass field, turf field,
+I knew exactly what to wear
+for every single condition.
+I played 23 seasons, 100
+to 120 practices a year.
+- You saw everything.
+- So that's over
+2,000 plus practices.
+- That's crazy.
+- You know the thickness
+you want your sleeves,
+you go, okay, "What's the temperature?
+It's 50 degrees.
+Okay, this is the shirt I
+wear when it's 50 degrees.
+Oh, it's 35 degrees,
+this is the two shirts I wear
+when it's 35 degrees.
+You know, this is the muff that I wear.
+You know, this is how many
+heat packs I put in the muff
+to keep my hand warm when it's 30 degrees
+versus 50 degrees."
+- You had it all dialed in.
+- You just have to, I mean,
+you just observe over time,
+and you, you know, get better and better.
+It's a lot like an F1 car.
+You know, everything is just fractions
+of, you know, things to do
+to make yourself feel
+the most comfortable.
+- So maybe Brady is a bit more scientific
+than he gives himself credit for.
+Over 383 career games,
+more than 7,700 completed passes
+and tens of thousands
+of hours on the field,
+Brady intuitively
+understands all the physics
+we've just analyzed.
+Plus he knows how to harness these effects
+to get the ball where he wants it to go
+with just a few seconds to throw it.
+In a game where perfection is impossible,
+he's internalized all the complex physics,
+the kinematics, the aerodynamics,
+and he still makes it look simple.
+- Yeah, I don't have to move. (laughing)
+So we actually made a video
+together with Tom Brady
+teaching us how to throw a football.
+And if you wanna learn more about that,
+you can check it out right here.
+(dynamic music)
+- Now what we got for you
+are some balls that you've
+never thrown before.
+- Oh God, what have
+you guys got cooked up?
+- But we're not done yet.
+- What the heck?
+In other sports, surfaces are engineered
+down to the smallest
+detail to control airflow.
+But footballs, they've
+hardly changed in decades.
+So we tested whether a football's
+design is really optimal.
+And to find out,
+we had Tom Brady through
+a series of custom balls,
+including one built to
+eliminate his spin entirely.
+- I don't even know how
+you could throw that.
+- Now, in investigating this,
+we actually uncovered a secret technique
+that teams are using to modify their balls
+and give their players an advantage.
+But we'll get to that in a future video.
+So make sure to subscribe
+and stay notified,
+and we'll see you then.
+- That's insane.
+(Henry laughing)
+(transition whirring)
+(transition whooshing)

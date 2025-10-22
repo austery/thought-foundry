@@ -1,0 +1,447 @@
+- This is one of the strangest
+materials I have ever seen.
+It is not sticky at all.
+You can't even stick regular tape to it.
+But if I drape it over this tomato,
+it holds it up,
+unless you turn it upside-down,
+in which case it just falls off.
+Now does it only stick to fruit?
+No, it'll stick to a water
+bottle or a bag of chips,
+basically any approximately
+smooth surface.
+And that's because
+this material is made to mimic gecko skin.
+Artificial gecko skin
+comes out of Professor Mark
+Cutkosky's Stanford lab
+and it has now been used
+on robotic grippers,
+on tiny robots that can pull way more
+than their weight,
+on a robot that floats
+around the International Space Station
+and even enabling a person
+to scale a glass wall, Spider-man style.
+It all started with a competition
+to make a robot that climbs a
+vertical wall without suction.
+- Here's sticky type.
+Everybody's familiar with it.
+You press it on and it sticks.
+Sticks pretty hard actually.
+And then you peel it off.
+Here's gecko material.
+And the first thing you notice
+is that it's actually...
+It's not sticky at all,
+but if I lift it from the
+middle I can lift a football.
+You might say, "Well you could do that
+if you had this other sticky tape", right?
+Well, yes, but if I had
+the other sticky tape
+it wouldn't do that.
+And that's important because
+if you're a small robot
+trying to climb a wall,
+you can't afford to have something
+like chewing gum on your feet,
+'cause then every step you take is effort.
+What you want is something that only grabs
+when you need it to,
+and that's kind of the main principle
+of our gecko-inspired adhesive.
+Here this is an early
+prototype of the sticky bot
+gecko-inspired robot.
+This got us into a a long effort
+to understand what is it
+that makes gecko adhesion work,
+having something which grips
+but is not sticky.
+- [Derek] Geckos are incredible climbers.
+They scale walls and
+even walk on ceilings,
+but for a long time we
+didn't know how they did it.
+They don't use hairs or spikes
+like spiders or other insects.
+You might think they'd have
+tiny little suction cups
+at the end of their feet,
+but their adhesion
+is actually way stronger
+than suction cups.
+- [Mark] A gecko can easily
+hang its entire weight
+from just part of one toe.
+- [Derek] The clue to how
+this works can be seen
+if you zoom in on a gecko's toe
+- [Mark] These are called lamella.
+They're regions of stalks,
+which are called seta.
+And the seta branch
+into these incredibly fine
+structures called spatula,
+which are less than one micrometer across.
+- [Derek] And that's important
+because the physical
+principle they use to stick
+is actually incredibly weak.
+It's not like an ionic bond
+where atoms are attracted to each other
+because one is positive
+and the other is negative.
+It's not even a hydrogen
+bond like in water
+where part of the molecule
+is slightly positive
+and the other part is slightly negative.
+No, geckos rely on the
+attraction between neutral atoms.
+So how does that work?
+Say a gecko is climbing up a glass window.
+The gecko atoms are neutral
+and the glass atoms are neutral,
+but at any particular instant
+the electrons around in atom
+are not perfectly evenly
+distributed about the nucleus.
+They may be a little bit more
+on one side than the other.
+And this makes the atom
+momentarily a little
+positively charged on one side
+and a little negatively
+charged on the other side.
+Now if there's a neighboring
+atom really close to it,
+say an atom for the glass
+is within a few nanometers,
+this charge can induce a
+complimentary charge imbalance
+on the glass atom.
+So now the electrons from the glass atom
+are attracted to the
+nucleus of the gecko atom
+and vice versa.
+There is a very weak force of attraction
+between gecko and glass.
+And this is known as a
+Van der Waal's Force.
+Van der Waal's Forces
+are, at least in part,
+why gauge blocks,
+smooth flat pieces of steel,
+can stick together.
+- It's there all the time.
+If you have a car with, you know,
+you can put these vinyl
+sheets on the back window
+so that your kids don't
+get like excessive sun
+when they're in the car seat.
+That's also Van der Waal's Force.
+- [Derek] But generally we don't notice
+Van der Waal's Forces.
+We don't feel them with our fingers
+because at least on the molecular scale,
+our skin is incredibly bumpy.
+Touching a piece of glass
+is like putting a mountain
+range on top of a flat plane.
+There aren't many points of close contact.
+Geckos overcome this using
+all those tiny branches.
+- So this means that
+when the gecko puts its foot down,
+it has a very large
+intimate area of contact
+It's almost as if you were pouring glue
+on the surface
+and letting it flow.
+And that's what makes the adhesion work.
+- [Derek] Replicating the gecko's
+intricate branching structures
+is currently impossible.
+- We cannot make what the gecko has.
+We can't.
+- [Derek] That structure,
+that really fine branching structure.
+- That sophisticated branching structure.
+but we can make a more
+crude approximation.
+- [Derek] Under a microscope,
+you can see that the
+artificial gecko adhesive
+is covered in rows of sharp wedges.
+The tips are around one
+or two micrometers wide.
+That's a hundred times
+narrower than a human hair.
+To create such fine structures
+requires a labor-intensive process.
+A block of wax is used
+as the base for a mold
+and then a razor blade
+is repeatedly pressed
+into the block creating
+wedge-shaped indents.
+A silicone polymer is poured into the mold
+and a backing material is attached.
+- This is silicone?
+- [Lab Worker] So it's called Sylgard 170.
+And it is a type of silicone, yes.
+- [Derek] And after about 24 hours,
+the adhesive is cured and ready to go.
+And that's what it looks like.
+But the mold can only be used a few times
+before the quality of
+the adhesive declines
+and you have to start all over again.
+- This sharp wedge structure,
+which has this interesting property
+that when you first
+bring it up to a surface,
+the only part in contact is these tips.
+So therefore it's not sticky
+because there's no Van der
+Waal's Force worth mentioning.
+As you load it in shear,
+these things all bend over
+and we get a much larger,
+in fact almost continuous contact area.
+And so like the gecko,
+we have some Van der
+Waal's Forces to work with
+and that's what give us adhesion.
+- [Derek] So to make the adhesive stick
+you have to pull it
+parallel to the surface,
+that's known as a shear force,
+and you have to pull it in the direction
+that will bend the wedges
+so that they make
+contact with the surface.
+If you pull it in any other direction,
+it won't stick.
+This makes it easy to pull the adhesive
+straight off the surface.
+I mean, there is basically
+no contact force.
+- [Lab Worker] And so
+the way we clean this
+is just with tape,
+because tape doesn't stick to the Sylgard,
+but the dust particles do.
+- [Derek] They used this property
+to create an incredibly small
+and lightweight robot called MicroTug.
+It weighs just 17 grams,
+but is able to pull a 20 kilogram weight.
+That's the equivalent of a
+human towing a blue whale.
+Just six of these tiny
+robots can tow a car.
+The gecko adhesive is on the
+underside of the MicroTugs.
+So when they're pulling the car,
+the material is in shear
+and it sticks tight to the ground.
+But as the car moves forward,
+the shear force decreases
+and so it's easy for the
+robot to pick itself up
+and move itself forward.
+The amount of pulling force attainable
+depends on the area of adhesive
+that's in contact with the surface.
+So they've developed a
+method for measuring this
+by shining light through acrylic.
+- [Tony] So what it does is shines the LED
+across the acrylic
+and whenever there's a
+contact with the surface,
+it frustrates the ray
+and it shows you exactly
+where the contact area is.
+- [Derek] One square inch of contact area
+can support the weight of
+about four-and-a-half kilograms
+or 10 pounds.
+Since the adhesive is directional,
+to grip an object
+two pieces of adhesive are
+attached in opposite directions.
+So when you pull up,
+both sides are in shear
+and so they both stick.
+Two opposing pads of adhesive
+were actually tested on a robot
+on the international space station.
+- It's called Astrobee.
+Think of it as like a drone,
+a UAV, only actually uses
+a fan to push itself around
+inside the International Space Station.
+And the idea is that it could be there
+to take video
+or fetch something for astronauts.
+Our proposal was,
+"How about it should be
+able to float along gently
+and stick itself to a wall, for example.
+Or pick up a big box.
+- [Astronaut] Our goal is to
+get that blue LED to turn green
+- Because there's no gravity.
+You don't actually need a lot of force
+but you do want to be
+able to grab very gently
+and and release easily.
+And so we got the gecko adhesives up
+at International Space Station
+and it works just as well up
+there as it does down here.
+- [Derek] This went to space,
+this was in the space station?
+- This was in Space station
+for about a year-and-a-half.
+- Wow.
+This principle can be extended
+to three pieces of adhesive
+so that when you pull them all in
+they can stick to a flat surface.
+When it's at rest, these
+things are sticking up
+just a little bit
+and then when you pull there,
+then they become flatter right?
+- Yeah, the entire pad doesn't touch
+because it's both surfaces
+is not perfectly flat.
+And then once you activate it.
+- [Derek] Oh yeah, I
+could totally see that.
+- [Tony] So I'm going to unplug the power
+so there's absolutely
+no power to it at all
+and it's still attach the surface.
+- [Derek] Yeah, I was thinking
+that you'd have to keep the motor on but
+it just sort of like
+locks in position or what?
+- [Tony] Yeah, as long as
+there's tiny bit of tension
+it just stays there forever.
+- [Derek] There are lots
+of potential applications
+for this material,
+but the most obvious one
+is for robotic grippers.
+Since the adhesive sticks well
+with just a small shear force,
+it's great for picking up
+delicate items like produce.
+- These are meant to be
+smart gecko palms, basically.
+So we're trying to grasp
+with minimal squeezing.
+- We're not even really engaging
+the ratchet mechanism there.
+- [Lab Worker] Yeah, not at all.
+- So it's like less than a Newton.
+It can also grab bulky items
+or palm a basketball.
+Now can the gecko adhesive pull a car?
+They have hooked this one up to this rope,
+which is connected to a winch here,
+but the winch is not actually secured.
+It is tethered back to four
+pieces of gecko adhesive
+which are just sitting on this pipe.
+So the question is,
+can these four pieces of gecko adhesive
+anchor the winch as it
+pulls that car back?
+(winch grinding)
+Oh yeah, it's moving.
+(winch grinding)
+Wow.
+Could I pull these off?
+- [All] Yep, yeah.
+- How much does...
+like there was nothing holding it on.
+That's wild.
+But of course the
+application everyone wants
+is to be able to climb a building.
+And this was actually a PhD project
+for grad student Elliot Hawks.
+It was a challenge
+because he had to get
+enough gecko adhesive
+in contact with the glass at any one time
+to support his whole weight.
+Let me know if you want me
+to try to climb a building
+with gecko adhesive
+and maybe even go a little bit faster.
+(electronic beeping)
+Hey, this video was
+sponsored by Brilliant,
+the online learning tool
+that helps you understand
+game-changing technologies.
+Not only in the physical sciences,
+but also in computer science.
+You know, these days everyone's
+talking about neural networks.
+How AI can win any game or
+write sonnets with ChatGPT.
+Tech like this is already
+changing the world
+and you should really know how it works.
+Brilliant has courses that delve
+into the inner machinery
+of neural networks
+to discover how a computer
+system can actually learn.
+You'll be able to apply
+what you've learned
+and build a neural network yourself
+to recognize numbers, shapes, and objects.
+And if you need to refresh your math
+or computer science skills first,
+Brilliant has a whole library of courses,
+ranging from beginner to
+intermediate to advanced.
+Personally, I use
+Brilliant as a mental gym.
+The other day I was going through a lesson
+on group theory,
+and the thing Brilliant does better
+than any other platform
+is it forces you to think for yourself.
+It asks you questions
+every step of the way
+and the material is carefully curated
+to increase in complexity as you go.
+I find it really satisfying
+to work things out for myself.
+That's the only way to
+truly understand something.
+And you can try Brilliant out for free
+by going to brilliant.org/veritasium.
+And if you want to sign up
+for an annual premium subscription,
+the first 200 people to join
+get 20% off through that link.
+So I will put it down in the description.
+I want to thank Brilliant
+for supporting Veritasium
+and I want to thank you for watching.

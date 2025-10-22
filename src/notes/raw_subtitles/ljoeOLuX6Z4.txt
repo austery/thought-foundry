@@ -1,0 +1,183 @@
+This video was sponsored by Fasthosts,
+who are offering UK viewers the chance to win a 5,000 pound tech bundle
+if you can answer my Techie Test question later in the show.
+On May 1st, 2015 a group of scientists predicted that the following November,
+we would see a star go supernova billions of light years away in a spiral galaxy designated SP1149.
+This was the first time anyone had ever tried to predict a supernova.
+And for good reason: they are incredibly rare and unpredictable.
+For a star larger than 8 times the mass of our sun,
+a supernova marks the end of its life cycle.
+Running out of fuel in its core, the star collapses in on itself,
+and then, in the ensuing crush of matter, it violently explodes.
+A supernova can be as bright as a whole galaxy.
+And importantly, the light emitted follows a predictable pattern:
+it glows brightly for weeks and then fades down over a period of months
+But supernovae are rare.
+In any galaxy of 100 billion stars or so,
+you can expect on average only two per century.
+So just try picking the star that is going to explode.
+Now, we can say how long a given star will live based on its mass, luminosity and color temperature.
+These data pinpoint its stage of life in a predictable life cycle.
+But the estimate of exactly when a large star will go supernova has big error bars.
+Take the red supergiant Betelgeuse, for example, in our own Milky Way Galaxy.
+It is a great candidate to go supernova.
+Scientists think Betelgeuse will explode any day now in the next few...
+hundred thousand years.
+When it does, it'll be so bright you can see it in the daytime, and it will rival the full moon’s brightness at night.
+Compared to the lifespan of a star, a hundred thousand years is a brief window of time,
+but for us short-lived humans, it may as well be forever.
+So you might think it would have been a tough sell when the scientists who predicted we’d see a supernova in November 2015
+asked for time on the Hubble Space Telescope to take pictures of galaxy SP1149.
+But their request was granted.
+They could image this part of the sky roughly once a month starting on October 30th.
+Before this, the galaxy was too close to the sun to point Hubble at it.
+In this first image taken at the end of October there is no supernova.
+The next image was taken on Nov. 14
+Again, no Supernova.
+But in third image, taken on Dec. 11th, jackpot.
+There’s a supernova right where they predicted it would be and almost exactly when they said it would happen
+So how did they manage to predict a supernova, almost to the month?
+Well the truth is they had seen this same exact supernova before.
+Not once, not twice, but four additional times!
+A year earlier and five months before the predictions, Hubble took this image.
+See those 4 bright dots?
+Those are multiple images of that same supernova.
+The reason we see the same supernova in four different locations
+is because there is a lens between us and the exploding star
+not a lens made of glass of course but a gravitational lens
+made of a huge amount of ordinary matter and dark matter.
+Gravitational lensing tends to magnify distant sources and increase their apparent brightness, as rays of light become concentrated.
+This smears the image of distant galaxies into arcs, strands, and all kinds of weird shapes.
+And of course, to some distant observer in another galaxy,
+the light from our sun and Milky Way galaxy may be similarly warped
+In gravitational lensing, there are three essential components --
+the source, the lens, and the telescope.
+If the lens and the source are spherically symmetric,
+And if the source, lens, and telescope are all perfectly aligned,
+you get what’s known as an Einstein ring.
+The light from the source is bent around the lens, equally in all directions,
+leading to the image of a smeared out ring.
+If the source and the lens are spherically symmetric, but are not perfectly aligned,
+what we end up seeing is a break in the Einstein ring --
+it splits into two semi-circles.
+And if the source, lens and telescope are aligned but the lens is not axially symmetric
+for example it could have an elliptical shape -
+then you get four images in the shape of a cross, an Einstein cross.
+So what happened to our supernova is
+9.3 billion years ago, a dying star in a galaxy far, far away went out with a bang as a supernova.
+The explosion sent out a blast of light in all directions.
+About 5 billion years ago, before the Earth even existed,
+that light encountered a very massive object that warped spacetime
+it was a cluster of galaxies called MACS J1149.5+2223.
+(I know that’s a mouthful. But the name just tells us
+where in the sky it was discovered by the MAssive Cluster Survey.)
+This galaxy cluster is made of lots of massive substructures
+like individual galaxies and halos of dark matter.
+At some point as the light traveled through this region,
+it encountered an elliptical galaxy almost perfectly lined up with where the Earth would eventually be.
+The gravitational deflection focused light rays that were initially diverging onto paths that converged at the Earth.
+This is why we saw the same supernova in four different locations.
+Not only did the supernova appear at 4 different places,
+the images also appeared at different times.
+Relative to the first image, the others were delayed by periods ranging from 5 days to over 3 weeks.
+We could measure this time delay because of the distinctive light-curve of the supernova.
+Some of the images of the explosion were further along in their light curve than others.
+This was a particularly lucky discovery -
+the first time a multiply-lensed supernova has ever been observed.
+There are other objects that due to gravitational lensing appear multiple times on the sky, like multiple images of galaxies.
+But these objects don’t change predictably with time
+so there is no way to use their images to work out the relative time delay between them.
+One reason for the time delay is because the four paths the light took were different lengths.
+So it took the light longer to travel further.
+But there is another reason:
+Light passing through curved spacetime appears to travel more slowly relative to an external observer.
+This is much less intuitive, but is a well established and well tested part of General Relativity.
+Back in 1964, Irwin Shapiro suggested
+it would be possible to test this gravitational time delay
+by sending radar signals to Venus, and measuring how long it takes for the echo to come back.
+He calculated that, due to the gravitational influence of the sun,
+the signals would take an extra 200 microseconds when Venus was on the other side of the sun compared to when it was close to us.
+This is solely a gravitational time delay, not related to the extra distance the light has to travel.
+And within a couple years,
+experimental data revealed the gravitational time delay for light traveling past the sun, was exactly as predicted.
+Today, in order to accurately determine the distance to the Voyager and Pioneer spacecraft,
+this Shapiro time delay must be taken into account.
+Now I want you to have a look at the four supernova images again.
+Do you notice how the same galaxy appears three times in this image?
+That is the supernova’s host galaxy.
+It is itself lensed by the 
+massive galaxy cluster MACS J1149.5+2223
+In fact, this cluster lenses tens of galaxies.
+So scientists had been studying and modeling the distribution of matter in the cluster
+long before the supernova.
+They asked: if we see these four images of the supernova in one image of its host galaxy,
+when would the supernova appear in these other two images of the host galaxy?
+Using the models of mass distribution and General Relativity,
+they calculated that in this image the supernova would have appeared twenty years earlier - in 1995!
+Now there are no close-up pictures of this part of the sky from 1995
+so there is no way to check.
+But in the other image of the galaxy they predicted the supernova would appear again in about one year's time
+Almost exactly when it showed up in that Hubble image.
+This successful prediction is a fantastic confirmation of our understanding of light and gravity on the scale of the whole universe.
+But it has even bigger implications.
+One of the hottest debates in astronomy right now is:
+how fast is our universe actually expanding?
+This is measured by the Hubble constant:
+the rate at which distant galaxies are receding, depending on their distance apart.
+There are two main ways this measurement has traditionally been made.
+One is to look for stars in the nearby universe whose absolute luminosity we know.
+Then we can use how bright they appear to us to determine how far away they are.
+If you combine this distance information with how redshifted their light is,
+you can work out how fast the universe is expanding.
+This is known as the distance ladder method
+and the value of the Hubble constant it produces is around 74 kilometers per second per megaparsec.
+Meaning for every megaparsec that separates two galaxies,
+they will on average be moving apart at 74 km/s
+The other way to measure the Hubble constant is to study the features in the cosmic microwave background radiation-
+which is essentially just a picture of the early universe.
+Using the standard model of cosmology (which is called Lambda-CDM)
+we can work out how this early universe picture would expand over time.
+The result obtained from this method comes out to 67 kilometers per second per megaparsec,
+substantially slower than the 74 found via the other method.
+Over the years both of these techniques have been refined, reducing their uncertainties
+but the values have not gotten closer together.
+So at this moment the two values really seem different -
+they are on the cusp of being a 5 sigma result.
+Astrophysicist Joseph Silk has called it a “possible crisis for cosmology”
+But there are independent ways to measure the Hubble constant.
+One of them is to look at a mutiply-lensed supernova
+and use the time delay between their appearances to work it out.
+This was first proposed by a Norwegian astronomer Sjur Refsdal in 1964.
+Since this is the first observed multiply-lensed supernova, it has become known as Supernova Refsdal.
+Calculations of the Hubble constant from this data yield a value of 64 kilometers per second per megaparsec.
+And although the result has large error bars,
+it is more in line with the measurements of the cosmic microwave background than with the distance ladder method.
+The thing I keep thinking about is how strange space is.
+I mean, I used to think of it essentially like glass, 
+fundamentally transparent with some foggy regions or some slight distortions.
+But here we have space warping light on multiple curved trajectories,
+making the same event appear in six different places on the sky separated by days, weeks, a year and twenty years.
+And what is contained in those distortions is information about the workings of our entire universe.
+Hey this video was sponsored by Fasthosts,
+who are offering UK viewers the chance to win a 5,000 pound tech bundle 
+including your dream PC setup -
+if you can answer my Techie Test question.
+Now, Fasthosts provides of a wide range of web hosting products.
+If you’re in the UK and looking to start a podcast, blog, or business,
+you’re going to need a website.
+And Fasthosts have got you covered.
+They offer easy registration for a huge range of domain names with powerful management features included.
+Plus a website builder with drag and drop templates.
+You can create a custom, mobile-optimized website with no coding required.
+Get up to three months free 
+and if you’re not satisfied in the first 30 days you can cancel without paying a penny.
+Now on to my techie test question:
+Which famous scientist criticized Newtonian gravity saying:
+"That Gravity should be innate, inherent and essential to Matter,
+so that one body may act upon another at a distance through a vacuum, 
+without the mediation of anything else...
+is to me so great an absurdity that 
+I believe no Man who has in philosophical Matters a competent Faculty of thinking can ever fall into it."
+If you know the answer and you live in the UK, 
+click the link below for your chance to win the ultimate tech bundle.
+I want to thank Fasthosts for sponsoring the video and I want to thank you for watching.

@@ -1,0 +1,215 @@
+This episode was sponsored by KiwiCo
+More about them at the end of the show
+Until recently, half the universe was missing
+or hidden or just... undetected
+And no, I'm not talking about dark matter or dark energy,
+which make up 27 and 68 percent of our universe, respectively.
+No, I'm talking about normal ordinary matter
+Which makes up you and me and the planets and stars and nebulae,
+and basically everything you can see.
+And since most of this stuff is made of protons and neutrons, which are forms of baryons,
+this has been known as the missing baryon problem.
+We expect the universe to be made up of 5 percent baryonic matter.
+But when we go looking, we only find 2.5 percent.
+Now, the first question you're probably asking is
+"Why should we expect the universe to be 5 percent ordinary baryonic matter in the first place?"
+The answer is because, with that density,
+we can explain the relative abundances of different elements that we observe in the universe.
+Specifically, the ratio of deuterium to hydrogen to helium.
+In the beginning, like right after the Big Bang,
+there were all of these neutrons and protons whizzing around.
+It was incredibly hot, and there was tons of radiation.
+The universe was radiation dominated.
+But, as the universe expanded, it cooled to the point where protons and neutrons could start fusing together.
+A particularly stable nucleus to form would be helium-4,
+made of two neutrons and two protons.
+The problem was, to form helium-4, you first have to form deuterium, one proton and one neutron.
+And, this is a less stable nucleus. And as quickly as it formed, it would get smashed apart.
+But, by about 10 seconds after the big bang,
+the universe had cooled sufficiently that deuterium could form.
+And as soon as it did, it would rapidly fuse into helium.
+The rate at which this happened depended on the density of matter in the early universe.
+The higher the density - the faster this fusion could occur.
+Then, by 20 minutes after the Big Bang,
+the temperature had dropped low enough that fusion could no longer occur.
+So, at this point, the elemental abundances were locked in.
+Like a snapshot of this moment.
+There were 75% hydrogen and 25% helium, by mass.
+Which is basically still what we observe in the universe today.
+Of the hydrogen nuclei,
+26 out of every million were deuterium.
+What's amazing about deuterium is that it's stable - it doesn't decay.
+And there are no known processes that can produce it in significant quantities since the Big Bang.
+And that means, virtually all the deuterium in the universe today,
+including the one out of every 6000 hydrogen atoms in tap water
+was created not in stars but in the first 20 minutes after the Big Bang.
+When we look deep into space,
+the oldest light we can see is the Cosmic Microwave Background Radiation.
+The afterglow of the big bang which has been traveling through the universe
+unimpeded since about 400,000 years after the Big Bang.
+And so we can literally count up those photons
+and work out the density of radiation right after the Big Bang.
+And using the value of 26 deuterium nuclei per million hydrogen nuclei,
+well, we can work out the ratio of baryonic matter to photons,
+and that is how we work out that there should be about five percent baryonic matter in the universe.
+So in the late 1990s
+scientists went looking for all this baryonic matter.
+It was a census of sorts.
+They added up all of the planets and stars and black holes, galaxies, dust clouds, gas,
+basically everything you can see or infer exists using a telescope.
+And what they found is that everything that I normally think of as the actual stuff in our universe,
+it only makes up barely 20 percent of all the baryonic matter.
+So where is the rest?
+Well, not all ordinary matter is glowing brightly or is illuminated by nearby stars
+It's not dark matter but it is ordinary matter that is just in darkness.
+And so if you want to find those baryons,
+well, one way is to use a backlight
+-- a bright source of light very far away,
+and that also means in the very early universe.
+And quasars are the perfect backlight.
+Their luminosity can be thousands of times that of whole galaxies.
+The light comes from the accretion disk of a supermassive black hole
+at the center of an early galaxy
+as it engulfs all this matter.
+And since it is so distant
+the light we receive from quasars is heavily redshifted.
+For example, the light emitted when a hydrogen atom
+goes from its first excited state to its ground state,
+the Lyman-alpha transition,
+it produces ultraviolet light of around 121.6 nanometers in a lab.
+But from a quasar it can be observed as a peak in their spectrum
+at over 560 nanometers -- that is yellow light.
+What's fascinating is if you look to the left of this peak
+you see many little dips.
+These are absorption lines created by neutral hydrogen atoms
+that lie along our line of sight with the quasar.
+When light from the quasar reaches neutral hydrogen
+the photons that can excite the electrons
+from the ground state to the first excited state are absorbed.
+This is the same Lyman-alpha transition,
+but since these patches of hydrogen gas are closer to us
+they are less redshifted
+so the notches they make in the spectrum are at shorter and shorter wavelengths the closer the gas is to us.
+This has been described as the Lyman-alpha forest.
+It's like a one-dimensional map
+that shows us where and how much neutral hydrogen gas
+lies along the line connecting us to the quasar.
+Adding all of that neutral hydrogen gas into our baryon budget
+brings us almost to 50 percent.
+So where is the other half of the baryons?
+Well, computer simulations of the entire universe suggested
+they are out there just in between the galaxies in these sheets or filaments
+and they're very spread out -- just one to ten particles per cubic meter.
+Plus, these particles are ionized so they don't absorb the light like the neutral hydrogen gas.
+And they're in a temperature range between about 100,000 and 10 million Kelvin,
+a range astronomers like to refer to as warm-hot,
+so this is known as the warm-hot intergalactic medium or WHIM for short.
+But finding the WHIM has been a real challenge
+because they're ionized, because of their temperature,
+they only emit or absorb in the high energy UV or low energy X-rays.
+Now, some people have used very sophisticated techniques to try to find the WHIM
+but then recently a naturally occurring physical phenomenon
+allowed us to find all of the missing baryons.
+Let's find out how.
+First we need to talk lightning
+and I promise this is related.
+Okay so did you know that it's possible to detect lightning from the other side of the earth?
+This is because lightning produces a flash of electromagnetic radiation in all parts of the spectrum.
+I mean we see the white light but there's also broad spectrum radio waves which are released
+and if you were nearby you could detect those as a pulse.
+But the very low frequency radio waves can actually travel up and out of the atmosphere
+and they get guided along the Earth's magnetic field lines
+out several radii from the Earth
+and then back down where they can be detected in the other hemisphere.
+Except if they're detected there they don't come in as a single pulse,
+instead they are spread out as a whistler.
+Now if you play these radio waves through a speaker
+we can actually hear them, so listen to this.
+You hear that descending tone
+that sounds like a sci-fi laser gun?
+Yeah, that is lightning on the other side of the earth.
+So what's happening here?
+Well, as the radio waves travel through the earth's magnetosphere
+they encounter free electrons, which slows them down
+and more for the lower frequency waves: this is dispersion.
+Just as a prism separates white light into its component colors
+the plasma in the magnetosphere separates the radio waves into its component frequencies:
+low frequencies are slowed down more than high frequencies,
+so what started as a pulse ends up as a whistler.
+And the amount of dispersion tells you how many free electrons
+that radio wave had to pass through to reach the detector.
+Now just imagine we could do something very similar
+to find all the ionized baryons in the universe.
+All we would need is a bright flash of radio waves somewhere in the distant universe
+and as if on cue in 2007 astronomers found the first fast radio burst,
+which is just what it sounds like: a very short-duration pulse of intense radio waves.
+And it came from the deep universe, from other galaxies.
+Now, these pulses can be incredibly powerful,
+I'm talking billions or trillions of times as powerful as the sun,
+but they last for on order of a millisecond.
+We don't really know what creates them,
+though some people suspect that it's magnetars or neutron stars
+or some sort of collision between these very powerful massive objects
+like black holes and neutron stars.
+But for our purposes all we need to know is that those flashes exist
+and that we can use them to look at their dispersion
+and figure out how many ionized baryons are between us and the source.
+And this is exactly what one recent paper did in Nature:
+they plotted out the dispersion measure of several of these fast radio bursts
+versus the redshift of their host galaxy.
+And what they found was, sure enough, the further out these fast radio bursts were
+the more dispersed their signal when it reached the earth.
+And in fact using their measurements
+they were able to estimate the total baryonic matter that is out there,
+and that includes all the ionized particles in the WHIM,
+and they found that it was five percent.
+They found the missing baryons. Roughly 50 percent of them
+are in that warm-hot intergalactic medium
+and so this validates what we had been thinking the whole time.
+You know, what surprised me in making this video was realizing
+just how little of the ordinary matter from the big bang
+ended up in things like stars and galaxies,
+what I normally consider as the stuff of the universe.
+No, that's only like 10 or 20 percent of all the baryonic matter.
+So it turns out the formation of these interesting structures
+is a really inefficient process.
+But this finding is yet another triumph for science.
+Those computer simulations run decades ago turned out largely to be correct
+and so everyone involved should be congratulated.
+But this also highlights for me the difference between scientists and non-scientists.
+I feel like non-scientists like being right,
+they like when things turn out the way they were expecting,
+but scientists on the other hand, they want things to work out not the way they expected
+because that's the way we get clues into
+what new physics is still out there to be discovered.
+I guess for now we'll have to be content with being right.
+Hey, this video was sponsored by kiwiko
+which i'm really excited about because i've been using their monthly crates
+since the beginning of the year with my four-year-old, he got it as a christmas present
+and I've got to say they have been a great resource for learning at home.
+Each crate has super cool hands-on projects that are fun to make and
+They expose kids to STEAM concepts: that's science technology engineering art and math
+now each box includes all the supplies needed meaning no extra trips to the store
+and kiwico offers eight subscription lines for different age groups and topics
+they sent me some of the older age group crates to try out
+and I had a lot of fun uh making this…… this is a planetarium
+and something you might not know is kiwico is not only a subscription service
+you can browse their store and purchase individual projects or value packs for different ages
+no subscription required
+so let's talk about why kiwico is so useful right now
+I mean anyone who has been at home with kids over the past few months
+knows just how important it is to get them engaged in something other than a screen
+the summer brain drain happens every year
+but it is especially challenging right now with disruptions to school
+and online learning just not being as good as you know in in-person hands-on learning
+now what I know from my own experience is my son loves making kiwico projects with me
+he has a lot of fun and doesn't even realize he's learning
+what do you see
+It's a star!
+You know one day we will talk about the missing baryons but for right now
+these projects are a great way for us to connect and learn together
+so if you want to try it out
+you can get 20% off everything in the kiwico store using code: veritasium
+or go to kiwico.com/veritasium I'll put that link in the description
+so I really want to thank kiwiko for supporting me
+and I want to thank you for watching

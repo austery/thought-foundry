@@ -1,0 +1,382 @@
+Nitrogen is everywhere.
+It's a fundamental building block of life.
+It makes up 78% of the atmosphere,
+AND it's in these tiny micro bubbles,
+in my Starbucks 'Nitro-Cold Brew.'
+And yes, this episode is sponsored
+by Starbucks.
+They challenged me to liquify
+nitrogen out of the air,
+and that's what I'm gonna be doing in this video.
+But first I'm gonna try Nitro Cold Brew
+for the first time...
+[Drinking the nitro cold brew]
+Mmmm
+It's subtly sweet without having to add sugar,
+and obviously it's cold and frothy,
+and I'm gonna explain why nitrogen
+makes this possible.
+But first I'm gonna try to liquify some nitrogen for myself out of this atmosphere.
+Come on, let's go.
+Okay, in order to make liquid nitrogen,
+we need a way to make the air really cold.
+And to do that, I'm going to use this cryo-cooler.
+So essentially what's inside here is a
+cylinder of helium and a couple pistons.
+There's a piston that compresses
+the helium down into this section,
+and when it does that, it makes that gas really hot.
+And so, that heat gets ejected to
+the surroundings through this heat sink.
+Then the helium is expanded down in here,
+and as that happens, it gets really cold.
+So it absorbs the heat from the surroundings.
+So this is the part of the cryo-cooler
+that is going to get down to less than -200°C.
+So cryogenic temperatures.
+This is the place where we can really
+liquify some gas.
+So, I want to put this to the test
+and first do a sort of simple proof-of-concept and make sure that this is working
+and just try to liquify air,
+liquify the air in this room.
+This is Allen Pan.
+Allen is handier with tools than I am,
+so uuh, I brought him here to help me make
+this happen.
+How should people know you, Allen? Like what do you get into, what's your thing?
+Allen: I'm a failed Mythbuster,
+and also I have a YouTube channel called
+"Sufficiently Advanced".
+Derek VO: You may know Allen from
+his creations and,
+relevant to this project, shooting
+liquid nitrogen from his hands.
+[Allen laughs]
+Allen: I'm definitely breaking your drill by the way ><, that plastic is coming right off. >D: I see that :) I see that.<
+Did I measure this correctly?
+Let's see.
+Does it go in and stop right there-
+Oh my God!
+Look at that!
+Perfect!
+Derek: So now, let's turn it on,
+and you can listen, you can hear it turn on.
+Ohhhh, the pump is starting.
+Allen: Its purring.
+[Elevator Music]
+This is the moment of truth:
+been running the cryo-cooler
+for about 4 hours.
+Hopefully getting some liquid air in there.
+Allen: I bet you 50 bucks there's at least 50 millilitres of liquid air in there.
+Derek: "50 millilitres."
+D: Sir?
+Allen: That's not even that much.
+Derek: It ISN'T even that much,>< but
+I will be amazed if it happens. > Allen: It's like a whole-<
+Allen: Oh, that- that's 50 millilitres, right there.
+Derek: I bring you a 50 millilitre beaker.
+Allen: Do you feel any sloshing??
+Derek: [Whouf!]
+[Slight sloshing]
+Allen: I hear something..! >I hear something!<
+Derek: Oh ohoh >< oh oh!
+Allen: I HEAR something.
+Derek: I can hear liquid
+D: We have made liquid air.
+Allen: That sounds like...
+Derek: How much have we made?
+Allen: 50 millilitres..
+Derek: Is that how much we've made? Allen: ..of liquid air!
+Derek: OooohH..! Cameraman: Oh hoho hoh! Allen: 50! 50!
+Allen: OOOhh!
+A: Dude, that's 50 ml of liquid air.
+Derek VO: I know it doesn't look like much,
+but to make 50 ml of liquid air,
+we needed to condense around
+35 litres of air from the room.
+Derek: What's funny to me is I've done
+a lot of experiments with liquid nitrogen,
+but this feels like the most precious... [Allen laughs]
+liquified gas that I've ever had
+because we made it ourselves.
+There was more than 50 ml.
+Allen: I know we didn't shake on it,
+but you definitely owe me $50.
+Derek: I definitely do.
+[Allen erupts with laughter]  [Cameraman chuckles]
+Derek: 'Cause that's impressive from just
+a few hours!
+Y'know, running it for the first time.
+Derek VO: Liquid oxygen is paramagnetic,
+which means it's attracted to permanent magnets.
+I'm going to use this effect to try
+to extract some liquid oxygen.
+Derek: Something came out.
+Allen: Hey, dude, you got it!
+You got some.
+Derek VO: See that droplet at the end of the magnets?
+To make sure it really was liquid oxygen,
+we tested how it affected a flame.
+Allen: Yeheheha!
+Allen: So that's 'for-sure' oxygen, that is liquid oxygen.
+Derek: You can see how the matchstick REIGNITES with the liquid oxygen,
+and the flame spreads towards
+the higher concentration of oxygen.
+[Allen laughs]
+[Low-pitched squeaking and chuting sounds emanate from the flame]
+Derek: Ohh!
+[quiet Alien Chestbuster squawk/click sounds emanate from the experiment]
+Allen: Whwch!
+Derek: There you go, we have made: liquid air.
+Next step: remove the oxygen,
+and just make liquid nitrogen.
+[Allen wheezes with laughter]
+Derek: Okay, it is day two and time to scale up.
+We are uh, moving the cryo-cooler to a bigger stand.
+Allen: Should I just go?
+Derek Behind Cam: Yeah, go for it.
+Allen: I'm putting a lot of sawdust
+into your-into your carpet.
+I'm sorry.
+Derek: [chuckles] That's okay, Allen :)
+[Allen laughs lightly]
+[Chugging, whirring and banging spark sounds]
+Derek VO: To make pure nitrogen,
+we need pressurised air.
+So I've got an air compressor here in the garage.
+Derek: The pressure of this compressor
+is about 10 'atmospheres'.
+So I'm going to pressurise this line here...
+behind cam: Now the first thing we've got on the line is...
+a filter to remove.. water vapour.
+And to get pure nitrogen,
+this is the key component.
+It is a nitrogen membrane,
+and what it actually contains is a bunch
+of hollow polymer fibres.
+And so we supply compressed air in this end,
+and all of the gas molecules try to diffuse out of those fibres because of that high pressure.
+But:
+these polymer fibres are made out of
+a material that is
+SELECTIVELY PERMEABLE.
+It allows oxygen and carbon dioxide and water vapour to diffuse out much faster than nitrogen.
+And so, those gases actually come out
+preferentially through these holes.
+So what you're left with at the end is a high concentration of nitrogen.
+And to get the highest purity,
+what you need to do is have a very high pressure and a slow flow rate,
+because that gives a lot of time for
+those other gases to escape.
+Derek: Whoo!
+D: I don't know about this gauge.
+[Allen laughs]
+Derek: So what I want to count on the watch is how long it takes to increase the pressure in the tank.
+Well, we worked it out yesterday
+and we figured out if it takes six minutes
+to fill the tank...
+at 100 psi (pressure per inch²), then we've got 98% pure nitrogen.
+Allen: Cool, perfect.
+Derek: Right, we just have to be very slow
+with this tank filling
+and I don't know if we ARE that slow.
+We're going to try to check the oxygen levels that have come through this membrane.
+Allen: Let's put some money on it.
+How about 50 bucks says the oxygen
+is less than 5%. (<5%)
+Yeah?
+Derek: Are you gonna bet that?
+'cause I will easily take that bet.
+Allen: Yeah. All right
+Derek: I don't think this went very well
+because that was the first filling of the tank,
+so we weren't high pressure going through the membrane.
+So I don't think it's going to be...
+Allen: I think we're getting 95% nitrogen.
+Derek: 95% nitrogen
+So this meter measures oxygen.
+So we're looking for a number less than 5%,
+which I suspect we will not see.
+D: Huuh.
+D: Can hear-
+[BEEPING] Allen: Oh, it going down! D: Whoa!
+A: It's going way down. D: WHOA!
+[BEEP BEEP]
+Allen: Come on 5%! Fi-
+Ohhhh...!
+There it is!
+Derek: Whoa!
+D: Here we go 99.
+Allen: Over 99%, 99.2, 99.3
+Derek: Whoa, I am shocked.
+Allen:There is no oxygen in this air, baby, it's all nitrogen!
+99.5.
+Derek: I am so shocked right now!
+Allen: So we're at 50 bucks for the liquid air bet?
+Derek: Yeah
+Allen: We're at 50 bucks for the oxygen.
+Derek: Yeah, you just have made yourself 100 bucks.
+Look at that, 99.7..!
+Allen: ..% nitrogen!
+Derek: This is insane,
+and you can understand why there would be an alarm if, uh
+[Allen laughs]
+you were in a room with
+Both: 0.3% oxygen.
+Derek: Yeah.
+Allen: I knew it. I told you.
+Derek: You knew that you would win.
+Allen: Didn't I tell you? Yes!
+Derek: Okay. So we've achieved, I guess,
+the second part of this,
+which is isolating nitrogen from the atmosphere.
+And now we just have to... 
+Allen: Get it super cold.
+What we got to do is we got to put
+this thing.. here.
+Derek VO: For better insulation, we scaled up to a dewar.
+Derek: That's impressive.
+Allen: Kinda sci-fi, janky garage, sci-fi
+kind of a look.
+Allen: Go ahead and lower that.
+You know just squish right on.
+Derek: I hope.
+Allen: I mean that's sealed,
+y'know.
+[Derek laughs]
+Allen: I think, uh, honestly? We could just turn it on
+and see if it works at this point.
+Derek: Do it.
+Just letting some nitrogen in there,
+so that when the nitrogen goes in there,
+it'll push out any...
+remaining air that's still in the tank.
+Derek: Gonna switch on the 'variac' which
+powers up the cryo-cooler.
+The other thing I need is the fan...
+A: Yes.
+D:This is the fan.
+I'm going to plug THAT in.
+That's a cooling fan of the cryo-cooler.
+We're up to 8 Watts.
+Allen behind cam: OoOooOh!
+[More Elevator Music]
+Derek: Okay, I have been running the nitrogen setup for about
+3 hours,
+and my concern - because the temperature
+on the thermo-couple never got very low -
+was that I wasn't actually making
+any liquid nitrogen.
+So I've stopped the test and I just want to see...
+whether or not there is anything in here.
+Doesn't sound like it.
+[Pant-laughs]
+Nothing..!
+Huh.
+What I think could be part of the problem,
+I was putting nitrogen possibly
+at a rate that's too high.
+So this is effectively nitrogen coming in
+at room temperature.
+And I wonder if it was just too warm
+for it to ever reach
+the liquifying temperature right here
+at the end of the, uh,
+the cold finger of the cryocooler.
+So I feel like I need a slower flow rate,
+maybe a better way to introduce
+the nitrogen into the dewar.
+Not- as- easy as I'd hoped.
+Okay, my plan is to go with a smaller flask,
+..something like this
+and, we are going to use its lid to make a nice tight seal.
+Except we're going to cut a hole through the top.
+Allen: I think it's good enough for this coldfinger.
+Derek: Alright.
+Then we're going to try to drill
+a hole in the side for the supply of nitrogen.
+We need to make nice tight seals
+around both of those things.
+So that is going to be the challenge.
+This is the kind of- the new design here
+that we've got.
+[Allen giggles]
+Derek: I feel like it's pretty good.
+Allen: I think it's going to work.
+I think we're going to wake up, and there's going to be liquid nitrogen in there.
+[Yet more Elevator Music]
+Allen: I bet you $160 that there is
+liquid nitrogen in there.
+Derek: I don't know if I'll take that.
+[Allen laughs uproariously]
+I'm gonna turn down the cryo-cooler.
+Aaand..
+let's see what we got..?
+It looks cold..
+Allen: Yeah, there's definitely some condensation.
+So there's something cold in there.
+What do you see?
+Both: OHHHH!!!
+Allen: THERE'S LIQUID NITROGEN!
+Derek: Haha! Allen: There's like,
+There's like THIS much.. That's liquid nitrogen!
+D: We have: some liquid nitrogen out of the air.
+Allen through laughter: That was so much effort for this much...
+Derek VO: So, what do you do with homemade
+liquid nitrogen?
+Well, make homemade ice cream.
+Just a bit of cream and sugar,
+and then the liquid nitrogen.
+Derek: The most precious liquid nitrogen I've ever had.
+Is it enough to make ice cream?
+Come have a look, have a look.
+[DRAMATIC PAUSE]
+That is delicious.
+By freezing everything so fast,
+because it is...
+-196 Celsius,
+you get really small ice crystals.
+And so that gives the ice cream
+a really smooth flavour, smooth texture.
+(Can Allen have some?)
+In a lot of stores, Starbucks too generates nitrogen just out of the air, because-
+Why not? It's an available resource.
+They purify it and then infuse it inline into the drink,
+creating millions of those tiny bubbles.
+That gives it its unique texture.
+So nitrogen bubbles are much smaller
+than the bubbles you're normally used to:
+the carbon dioxide bubbles that you find in soda.
+And that gives this a sort of creamier texture.
+The other nice thing about nitrogen
+is that it's totally inert.
+So it doesn't react with the drink.
+CO2 reacts with water creating some acid,
+which you might like in soda.
+You might want a little bit of a sour tangy flavour, but you don't want that in coffee.
+Hence, the nitrogen.
+One thing I found really interesting
+when they were pouring
+this Nitro Cold Brew is that you can
+actually see bubbles coming
+down on the sides of the glass!
+And that's strange, because these bubbles
+are obviously less dense than the coffee.
+They should be rising up to the surface.
+So why are they doing that?
+Well, the answer is the nitrogen bubbles
+are rising up to the surface a lot
+in the center of the drink.
+And so that actually creates a current that
+pushes them down around the outside.
+And so that's why you see those
+bubbles cascading down at the beginning
+when you're pouring the Nitro Cold Brew.
+So there you have it: nitrogen is everywhere and useful for lots of things.
+If you want to try out a Nitro Cold Brew,
+I'll put a link to order it down
+in the description.
+And thanks for watching.
+[Outro Sound FX]

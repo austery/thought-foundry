@@ -1,0 +1,660 @@
+- In 1901,
+this ancient Greek artifact
+was discovered in a shipwreck
+of the island of Antikythera.
+3D x-ray scans have revealed
+it contains 37 interlocking bronze gears,
+allowing it to model the
+motions of the sun and moon,
+and predict eclipses decades in advance.
+Constructed around 100 or 200 BC,
+the Antikythera mechanism
+represents a sophisticated early computer.
+The likes of which would not be seen again
+for at least a thousand years.
+Now, of course,
+this computer didn't work
+like modern digital computers.
+It works by analogy.
+The gears were constructed in such a way
+that the motions of certain dials
+are analogous to the
+motion of the sun and moon.
+It is an analog computer.
+- Here is a simple analog computer
+for adding two numbers together.
+If you turn the black wheel some amount
+and then turn this white
+wheel a different amount,
+the gray wheel shows the
+sum of the two rotations.
+In contrast, this is a
+digital mechanical computer
+where you can add two single bit numbers.
+So zero plus zero equals zero.
+Zero plus one equals one.
+And one plus one equals two.
+These two devices
+illustrate the differences
+between analog and digital computers.
+Analog computers have a continuous range
+of inputs and outputs,
+whereas digital only works
+with discrete values.
+With analog computers,
+the quantities of interest
+are actually represented
+by something physical,
+like the amount a wheel has turned.
+Whereas digital computers work on symbols
+like zeros and ones.
+If the answer is, say, two,
+there is nothing in the computer
+that is 'twice as much' as a one.
+In analog computers, there is.
+For thousands of years,
+people used analog devices
+like the Antikythera
+mechanism or slide rules,
+alongside digital devices like abacuses.
+And up until the 1960s,
+the most powerful computers on the planet
+were actually analog.
+Digital computers exploded onto the scene
+with the advent of
+solid-state transistors.
+And now, almost everything is digital.
+Most people have never even
+heard of analog computers.
+But today, that may all be changing.
+Moore's Law,
+the idea that you can double
+the number of transistors
+on a chip every two years,
+it's reaching its limit,
+because transistors are
+nearly the same size as atoms.
+Simultaneously, advancements
+in machine learning
+are straining the capabilities
+of digital computers.
+The solution to these challenges
+may well be a new generation
+of analog computers.
+(soft upbeat music)
+- One of the
+most important problems
+humans have faced for millennia
+is predicting the tides.
+Napoleon and his men nearly
+died crossing the Red Sea
+due to a miscalculation
+of the rising tide.
+And sailors routinely
+needed to know the tides
+to bring their ships into
+port without running aground.
+Most coastal locations on earth
+experience two high and
+two low tides per day,
+but their exact timing varies
+as does their magnitude.
+And this is partly caused by local factors
+like the depth of the sea bed
+and the shape of the shoreline.
+In the late 1700s, to describe
+the tidal flow of the oceans,
+Pierre-Simon Laplace
+derived a set of complicated
+differential equations.
+They had no analytical solution,
+so at that time they
+were basically useless.
+But in the process of
+deriving his equations,
+Laplace made a key finding.
+Tides are driven
+at only a few specific
+astronomical frequencies,
+including the moon, the sun,
+and the eccentricity of the lunar orbit.
+Each one of these factors
+contributes a sine wave
+of a particular amplitude and
+phase to the total tide curve.
+If someone could figure out
+how to correctly combine
+these frequency components,
+well the tides could finally be predicted.
+It took nearly a century.
+But in the 1860s,
+William Thompson, later Lord
+Kelvin, took up the challenge.
+Having completed several voyages
+to lay the first
+transatlantic telegraph cable,
+he developed a fascination with the sea.
+And subsequently, he threw
+his full scientific effort
+into measuring and predicting the tides.
+Tide gauges at that time used a buoy
+to record the height of
+the sea onto a paper roll.
+Kelvin set out to
+determine how sine waves,
+with the frequencies
+identified by Laplace,
+could add together to produce
+the observed tidal curve.
+The key was to apply the
+work of French mathematician,
+Joseph Fourier, who had shown
+how to decompose any function
+into a sum of sine waves.
+Most English scientists
+were skeptical of the work,
+but Thompson was enthralled by it.
+His first paper, published at
+17, was a defense of Fourier.
+While it was straightforward
+to apply Fourier's
+analysis to tidal curves,
+the computation required was enormous.
+First, divide the tide curve
+up into short time intervals.
+And for each interval,
+multiply the tide level by a sine wave
+with the frequency of interest.
+Add up the area of all these rectangles,
+and divide by the total time.
+And this gives you a single coefficient,
+the amplitude of the sine
+wave with this frequency.
+Then you have to repeat the
+process for a cosine function
+with the same frequency.
+Kelvin found that to make
+accurate predictions,
+he actually needed 10
+different frequency components.
+So that is a lot of
+multiplication and addition
+to characterize the tides
+at just one location.
+For each additional location,
+you have to perform this
+analysis all over again.
+And this is only half the problem.
+Once you have the amplitudes and phases
+of the sine functions,
+you have to add them up to
+predict the future tides.
+- Lord Kelvin spent years
+analyzing and predicting tides by hand.
+Then he had a stroke of inspiration.
+Could you design a machine
+to carry out these
+calculations automatically?
+In Kelvin's words to
+"substitute brass for brains,"
+the resulting analog computers
+were in use for nearly a century.
+They even played a critical role
+in the outcome of World War II.
+- Kelvin started
+with the problem of prediction,
+adding the sine waves together,
+given you know their
+amplitudes and phases.
+He knew he could create sinusoidal motion
+with a device called a scotch yoke.
+It extracts one dimension
+from uniform circular motion.
+But to make a tide prediction,
+he needed a way to combine
+10 sine waves together.
+He needed a mechanical
+analog for addition.
+Stuck on this problem in
+1872, Kelvin boarded a train
+for a meeting with the main
+sponsor of his tidal research,
+the British Association.
+On the train, Kelvin bumped into a friend,
+inventor Beauchamp Tower, to
+whom he explained his dilemma.
+Towers suggested he used Wheatstone's plan
+of a chain passing around
+a number of pulleys.
+And this was exactly
+the addition mechanism
+Kelvin was looking for.
+By attaching a pulley to each scotch yoke
+and running a weighted cord around them,
+he could mechanically add
+all of their contributions
+at once.
+He scribbled down the entire plan
+for this predictor machine
+by the end of the train ride.
+He pitched it to the British Association,
+and secured funding to build
+it all before he returned home.
+If you knew the relative contributions
+of different frequency components,
+Kelvin now had a machine to
+automate the tedious task
+of predicting future tides.
+This was a great leap forward.
+Four hours of cranking the handle
+yielded a full year of tidal predictions.
+But for many years,
+the harder half of the problem
+was still done by hand,
+breaking apart an existing tide curve
+into its component frequencies.
+To automate this step,
+Kelvin needed a machine
+capable of multiplying the
+tide curve times the sine wave,
+and then taking its integral.
+What would such a device even look like?
+With his older brother, James Thompson,
+Kelvin came up with a
+mechanical integrator.
+It consists of a ball on a rotating disk.
+Due to the rotation of the disk,
+the further the ball is from the center,
+the faster it spins.
+If the ball is at the
+very center of the disk,
+it doesn't turn at all.
+And if it's on the left side,
+it turns in the opposite direction.
+Now the motion of the ball
+is converted into an output
+via a roller,
+which moves a pen up or down
+on the output graph paper.
+So the way it works
+is you trace the function
+you want to integrate
+with a stylus,
+and the stylus controls the
+position of the ball on the disk
+and hence its speed of rotation.
+This is transferred through
+the roller to the output,
+which plots the integral
+of the original function.
+Now to decompose a tide curve,
+we don't just wanna
+integrate the function.
+We first wanna multiply it
+by a sine wave of a particular frequency.
+And the way to do this
+is to make the disk rotate back and forth
+at that specific frequency.
+Now the rotation of the ball
+depends not only on
+where it is on the disk,
+but also on how the disc
+is turning at an instant.
+You trace the tide curve with the stylus,
+which moves the ball back and
+forth on the oscillating disk,
+and the roller sums up the
+integral of the tide curve
+times the sine wave.
+Simply divide by the total
+time to get the coefficient.
+Several of these ball and disk integrators
+can be connected in parallel
+with each disk oscillating
+at a different frequency
+to calculate the coefficients
+for multiple frequency
+components at the same time.
+Kelvin's analog computers
+revolutionized our
+ability to predict tides.
+Tidal curves from anywhere in the world
+could be turned into a set
+of sinusoidal coefficients
+using the ball and disk harmonic analyzer.
+And the resulting sinusoids
+could be added together
+to predict the future tides
+using his scotch yoke pulley machine.
+- [Derek] Kelvin's harmonic analyzers
+were the basis for a
+landmark analog computer
+called the differential analyzer,
+and his tide predicting machines
+were used well into the 1960s.
+In fact, they were later overhauled
+to include 26 frequency components
+and used to plan the
+allied invasion on D-Day.
+- The Germans
+expected any invasion
+to come at high tide to minimize the time
+Allied soldiers would be
+exposed on the beaches.
+So they installed millions of obstacles
+that would be underwater by mid tide,
+many with explosive mines attached.
+But the allies spotted the
+obstacles and change tack.
+Instead, they plan to begin
+the invasion at low tide.
+This would allow demolition teams
+to first clear channels
+through the obstacles,
+then the main forces could
+come through those gaps
+as the water rose.
+This would also give
+landing craft enough time
+to depart without getting beached.
+The low water times were different
+at the five landing
+beaches by over an hour,
+so the invasion times were staggered
+according to the tide predictions.
+- This wasn't the only
+use of analog computers
+in World War II.
+Dive bomber aircraft would
+plummet out of the sky
+directly toward their targets
+at up to an 80 degree angle,
+and their rapid descents
+made them very difficult to shoot down.
+So the U.S. began searching for devices
+to automatically aim guns at dive bombers.
+Most of the proposed solutions
+fell into one of two categories.
+Some were analog machines
+like Lord Kelvin's.
+Others were essentially fast calculators.
+Mechanical calculating
+machines like the abacus
+had been around for millennia,
+but they were far too slow
+to respond to dive bombers.
+These new calculating
+machines sped things up
+by using electrical pulses.
+The committee considered
+naming these devices
+after the pulses they used.
+But member George Stibitz
+proposed a more general name: digital,
+because these machines
+operated on numbers themselves
+or digits.
+And this is the origin of
+the term digital computer.
+But digital would have to wait.
+Of all the proposals and
+innovative analog machine
+from David Parkinson won out.
+At Bell Labs in New York,
+Parkinson had been working on a device
+to chart telephone data called
+an automatic level recorder.
+It used a variable resistor
+called a potentiometer
+to control the motion of a pen.
+One night, after hearing reports
+of the harrowing allied
+evacuation of Dunkirk,
+Parkinson had a dream that
+he was on the front lines.
+(radio tatters)
+(mystical music)
+(gun firing)
+"I found myself in a gun pit
+with an anti-aircraft gun crew.
+"A gun there was firing occasionally,
+"and the impressive
+thing was that every shot
+"brought down an airplane.
+"After three or four shots,
+"one of the men in the crew smiled at me
+"and beckoned me to
+come closer to the gun.
+"When I drew near,
+"he pointed to the exposed
+end of the left trunnion.
+"Mounted there was the
+control potentiometer
+"of my level recorder."
+When he woke up, Parkinson realized
+the device he was
+building to control a pen
+could be scaled up to
+control an anti-aircraft gun.
+He shared this idea with his supervisor,
+and after receiving
+approval from the military,
+they set out to make
+Parkinson's dream a reality.
+Researchers at Bell Labs
+had recently invented an
+analog electrical device
+called an operational amplifier or op-amp.
+It could perform mathematical
+operations with voltages,
+like addition and multiplication.
+They used these op-amps to
+create an analog computer
+that could solve the ballistics equations
+for anti-aircraft guns.
+Using radar and optical
+sites to obtain the speed,
+altitude and direction of enemy planes,
+the M9 Gun Director, as
+the computer was called,
+could rapidly calculate
+the correct trajectory
+and few setting.
+Potentiometers were used
+to ascertain the direction
+the gun was pointing.
+This was not the first
+electric analog computer,
+but it was an important one.
+In World War I, It took an
+average of 17,000 rounds
+to take down a single airplane.
+In 1943, after the invention of the M9,
+it took an average of only 90.
+During the war, the U.S.
+invested big in analog computers.
+If you break down their
+total military budget,
+the third largest single expense
+was the development and production
+of an incredibly complex
+mechanical analog computer
+called the Norden bombsight.
+Unfortunately, they didn't
+get their money's worth.
+- Designed by
+the eccentric Dutch engineer,
+Carl Norden, the Norden
+bombsight was built
+to enable high precision airborne bombing.
+It implemented 64 different
+simultaneous algorithms,
+including one that compensated
+for the rotation of the
+earth as the bomb fell.
+(bomb exploding)
+The Norden was one of the
+most closely guarded secrets
+of the war.
+To prevent the technology
+from falling into enemy hands,
+American bombardiers carried handguns
+specifically to destroy it
+in the event of a crash.
+But despite its hype and funding,
+the Norden didn't work as advertised.
+With over 2,000 fine parts,
+it required extreme
+precision to manufacture.
+The problem with analog computers
+is that the physical device
+is a model for the real world.
+So any inaccuracy in the components
+translates into inaccuracy
+of the computation.
+And since there will always be some slop
+in the connections between parts,
+if you run the same calculation twice,
+you won't get the exact same answer.
+In the American campaign against Japan,
+bomber crews using the bombsite
+were unable to destroy critical
+Japanese war infrastructure.
+And ultimately,
+the U.S. abandoned its
+precision bombing approach,
+and instead blanketed whole
+Japanese cities in napalm.
+As the war progressed, digital
+computers gained traction.
+The digital and electronic
+Colossus machines
+of Bletchley Park in the UK
+were critical to breaking German codes.
+In the United States,
+the military invested
+in an enormously complex
+and expensive digital
+machine, known as ENIAC.
+It was designed
+to speed up the calculation of
+land artillery firing tables.
+At the time,
+these were computed using
+differential analyzers,
+the analog mechanical computers
+based on Kelvin's harmonic analyzer.
+Although not finished until after the war,
+ENIAC demonstrated the
+power of digital computers.
+It's considered by many to
+be the first modern computer.
+- What really opened the door
+to this digital revolution
+was the discovery made by Claude Shannon
+in his 1936 master's thesis.
+He showed that any numerical
+operation can be carried out
+using the basic building
+blocks of Boolean algebra:
+Two values, true or false,
+also notated as one or zero,
+and three operations and, or, and not.
+This makes digital computers
+the ideal versatile computing machines.
+In contrast, each analog computer
+is an analog for only one type of problem.
+Furthermore, since digital computers
+operate on ones and zeros,
+they are more resilient
+in the face of noise.
+It would take a large error
+to mistake a one for a zero
+or vice versa.
+Whereas, even small errors
+in analog computers can grow
+and ultimately swamp the signal.
+So these days, everything is digital.
+Our phones, computers,
+and internet data centers,
+even TV and radio is now
+being broadcast as digital.
+The advantages are obvious.
+Since digital devices operate on symbols,
+usually zeros and ones,
+they provide exact answers.
+And repeat the calculation,
+and you get the same result.
+They are robust to noise.
+Plus, since only a few
+components are required
+to perform virtually any computation,
+those components have been
+miniaturized and optimized,
+making digital computers
+the ideal universal computing machines.
+So you would think analog
+computers would be long gone,
+a relic of the distant past.
+But, analog may now be making a comeback.
+There are startups actively
+working on analog computers.
+Why is this happening?
+What could be the benefit of analog?
+I wanted to put all of
+these into one video.
+But the story is too good
+to bury 20 minutes in,
+so that is coming up in part two.
+Be sure you're subscribed to the channel
+to be notified when that comes out.
+(soft upbeat music)
+I'll give you a hint about the sequel
+in this section of the video,
+which is sponsored by Brilliant.
+Brilliant is a website and
+app that uses interactivity
+to help you learn STEM concepts.
+For the sequel to this video,
+it would be a good idea
+to brush up on artificial intelligence,
+which you can do with Brilliant's courses
+on neural networks.
+Here you can analyze
+how a neural network
+decodes your handwriting.
+I also recommend their calculus courses,
+which are highly interactive.
+What's great about Brilliant
+is how it gets you to step through topics,
+answering questions as you go.
+In that way, you can't trick yourself
+into thinking you already
+understand everything,
+because you're constantly
+putting your knowledge
+to the test.
+Personally, I find their
+courses challenging,
+which they should be in order
+for you to learn anything.
+But if you ever get stuck,
+there's always a helpful
+hint close at hand,
+and more in-depth
+explanations are available
+if you want them.
+As the holiday season is upon us,
+an annual subscription to Brilliant
+makes an awesome gift for any
+curious learners in your life.
+And whether it's for you or someone else,
+Brilliant is offering 20%
+off an annual subscription
+to the first 200 people to sign up.
+Just go to brilliant.org/veritasium.
+I'll put that link down
+into the description.
+So I wanna thank Brilliant
+for supporting Veritasium,
+and I wanna thank you for watching.

@@ -1,0 +1,722 @@
+I'm here at the Navy's
+Indoor Ocean at Carderock.
+This is the biggest wave pool in the world
+and they can make all
+kinds of different waves
+so they can test scale
+ships and make them better
+before they actually go
+out on the open ocean.
+I came in and I'd seen some pictures,
+but I just walked in here
+and it's just, it's insane.
+'Cause they say indoor ocean,
+but it's exactly what it is.
+The water even looks ocean colored.
+(laughing)
+It doesn't look like a swimming pool,
+this looks like an ocean,
+looks like a test facility.
+It is huge.
+- It is 360 feet long in this dimension,
+240 feet long in that dimension.
+It's 20 feet deep.
+Just about the size of a
+football field out there.
+The dome above us was the
+largest free standing dome
+for a while.
+- [Derek] Largest free
+standing dome in the world?
+- Yep.
+- What?
+(Miguel laughs)
+In this pool they can make
+waves of all shapes and sizes
+using huge paddles that
+line two walls of the pool.
+- We have 216 individual wave makers.
+We can make waves from -45
+degrees up to 135 degrees,
+which is kind of coming right back at it.
+- We are now behind the big
+paddles that make the waves.
+These 216 paddles are programmed to move
+in incredibly well choreographed ways
+so that they can produce reproducible,
+perfect sized, perfect frequency waves
+that go across the entire pool.
+- You can see these air bellows
+that are what's making the angular motion.
+That vertical piece is
+the force transducer.
+The other force transducer's
+right up on the top.
+- [Derek] There are lots
+of wave pools in the world,
+but what makes this one
+different is control.
+You can create waves of a
+specific amplitude and frequency
+and do so repeatedly.
+Can we try a one Hertz?
+- [Miguel] Yeah. Do me a
+favor and dial up one Hertz.
+- [Operator] Amplitude
+will be 0.078 at one Hertz.
+- Okay, go ahead and
+send it from zero please.
+And so this is the largest
+wave we can make, at one Hertz.
+That's based on the motion
+and power requirement
+for the wave maker.
+- [Derek] There's something a bit surreal
+about watching this,
+'cause it almost looks like an ocean
+except you never see waves
+this regular out there.
+- [Miguel] Yeah, correct.
+- One of the fundamental characteristics
+of a wave is its wavelength,
+the distance from one crest to the next.
+The first thing most people learn
+about waves is they transmit energy
+rather than material from
+one place to another.
+In this case, as the wave
+travels to the right,
+the water molecules themselves
+basically move along
+circular paths.
+And the deeper the water,
+the smaller this motion.
+All motion stops at a depth
+equal to half the wavelength.
+This is known as the wave base.
+But even in an ideal water wave,
+the molecules do drift a bit
+in the direction of wave motion.
+And this is because the
+molecules travel faster
+the higher up they are.
+So they move farther at
+the top of their loop
+than they move backwards at the bottom,
+creating a spiral path.
+This place is perfect
+for observing properties
+of different waves.
+I asked Miguel to show me some waves
+with different frequencies
+but the same amplitude.
+- So what I'll have him do now is
+I'll have him stop this wave
+and just change the frequency.
+'Cause we're at .6, we'll go to .5,
+so it'll be a two second wave.
+- Here I'm split screening
+waves with frequencies
+of .67, .5, and .33 Hertz,
+all with the same amplitude.
+So two things to notice.
+Even though they all
+have the same amplitude,
+the ones with higher frequency
+look like they have a greater amplitude
+because the slope of the waves is steeper.
+And second, the frequency
+of a wave affects its speed.
+High frequency waves travel
+slower than low frequency waves.
+In fact, as long as the water
+is deeper than the wave base,
+wave speed is inversely
+proportional to its frequency.
+They have a really cool demo
+that takes advantage
+of the different speeds
+of different frequency waves.
+You can see it starting here.
+They send out high frequency waves first
+followed by lower and
+lower frequency waves.
+And because the high
+frequency waves travel slower,
+the lower frequency
+waves gradually catch up.
+Whoa.
+And they've timed it so
+that all the waves meet up
+at exactly the same time
+and place in the pool,
+and this causes the wave to break.
+The ocean engineers can do this again
+and again,
+in exactly the same way,
+thanks to their precise
+control over the waves.
+This demo also nicely illustrates
+the principle of superposition,
+that when waves meet they add together.
+The height of the water is
+equal to the sum of the heights
+of the individual waves
+meeting at that point.
+You can see how much
+bigger the amplitude is.
+Those individual waves weren't that big,
+but when you add them all together,
+you can make this big breaking wave.
+They can also take advantage
+of the superposition principle
+to create standing waves.
+- So what's coming up
+next are two regular waves
+coming at each other.
+What we call the quilt wave.
+So we're gonna have a wave coming this way
+and a wave going this way,
+and it's gonna create standing waves.
+So there's two regular waves coming out
+and if you look at the wave,
+it looks like a big
+quilt pattern out there.
+- At some places in the pool,
+the waves always cancel
+out to zero amplitude,
+and at other places the waves
+add up for maximum amplitude.
+They can even send waves
+from all directions,
+so they form circular wave fronts
+and then all the wave energy
+is channeled into one spot
+they call the bullseye.
+- And so now we're gonna
+run the bullseye wave
+which is essentially the same thing,
+but instead of having a line of waves,
+we're having it all coalesce
+at one individual point.
+So you can start seeing the waves are
+coming from the long bank here,
+and you can see they're
+making a spherical wave.
+And then you have another spherical wave
+coming from the short bank.
+And this is breaking due
+to the coalescing waves,
+and the wave height being more than
+one seventh of the wavelength.
+- We tried throwing some toys
+into the wave to see what
+would happen to them.
+Would they get pushed
+into the breaking wave?
+Even though there's not much
+net movement of the water,
+the ducky drifts with the waves,
+and pretty quickly is
+pushed into the bullseye.
+How's the ducky doing?
+(Miguel laughs)
+- He's getting to the
+danger zone right now.
+It's starting to funnel him
+right into that breaking wave.
+Ooh, it's getting up, getting up.
+- [Miguel] Oh!
+(laughs) It swamped it.
+- [Derek] That's amazing.
+- That was right where we wanted it.
+- [Derek] Now the real
+purpose of this facility
+is not to play with toys or
+make perfect unnatural waves.
+It is to replicate on a small scale
+the types of waves Navy
+ships will encounter
+in the oceans of the world.
+Research engineers place
+ships modeled after
+billion dollar vessels in the water
+to see how different
+designs actually behave
+in real world conditions.
+- [Miguel] Right now this
+is coming from 45 degrees.
+It's gonna be about a five
+inch significant wave height,
+which if we were to scale
+it up for this model
+would be 20 foot waves.
+When we're doing a free
+running model like this,
+we usually run a race track,
+like a big circle or a figure eight track,
+so we know the headings
+that we're running in,
+so that we can correlate that
+to the full scale vessel.
+- [Derek] For the model to provide
+an accurate representation
+of the real world,
+a lot of things must
+be taken into account.
+Is the water fresh?
+- Fresh water.
+- [Derek] Okay, not salty.
+- Nope. Fresh water.
+So when you're in salty water,
+you're gonna have a lot more buoyancy.
+So when we're balasting our models,
+we have to make sure that
+they take into account
+that buoyancy difference.
+So when we go full scale
+you're in the same conditions.
+- [Derek] For fluid mechanics,
+I always expect that you have
+to keep the Reynolds number
+the same as in the real world phenomena.
+But actually to get the
+right wave dynamics,
+you have to use a different scaling
+which is based on the Froude number.
+So the Froude number is a measure
+of the ratio of inertial
+to gravitational forces.
+It's equal to the flow velocity divided
+by the square root of the
+acceleration due to gravity
+times the characteristic length,
+like the length of the ship.
+In this case, the model ship's hull
+is 46 times smaller than the real thing,
+which means to get accurate data,
+it should be traveling at one
+over the square root of 46
+times it's real world speed.
+And to make the footage from the model
+look the same as that
+from the full size ship,
+you have to slow it down
+by a factor of the square root of 46.
+So roughly 6.8 times slower.
+I'm amazed at just how
+well these shots match,
+but of course that's the idea.
+Scale the model and the the waves,
+so the physics are
+identical to a real ship
+out on the open ocean.
+Naturally, I asked if I could
+go swimming in the pool,
+but they said, very kindly, "No way."
+The closest I could get
+would be on a little dingy.
+This is our boat.
+With a catch.
+It's pretty smooth sailing
+out here right now.
+- (laughs) Yep. No waves
+while we're out here.
+- [Derek] So I'm assuming
+no one's ever been out here
+in waves?
+- Nope. That's one of the
+no-nos they don't want us to do.
+I guess it's a risk thing, so...
+- This place seems like a... I don't know
+Like a massive playground kind of.
+(Miguel laughs)
+- It kind of is for engineers like us
+where we kind of dork out on the science
+and what we're doing here.
+It's a huge volume.
+Like I guess I never understood
+how deep 20 feet was,
+until they emptied it to
+put in the new wave makers.
+It's a large volume that's
+taken up by this water.
+- [Derek] Yeah.
+- So as we come by, these
+are our sensors right here.
+We have a big array here.
+These are ultrasonic sensors,
+and that's how we measure wave height
+and period and direction in the basin.
+So we wanna measure that to
+make sure that what we test in
+is what we think we have.
+- [Derek] In this pool, they can create
+all sorts of different wave
+conditions you might encounter
+in different parts of the world.
+Most ocean waves are created by wind
+and the strongest winds
+occur in and around storms.
+Five factors affect the size
+and shape of waves created.
+These are the wind
+speed, the wind duration,
+the distance over which
+the wind is acting,
+which is known as the fetch,
+the width of the fetch,
+and the depth of the water.
+As waves travel out from a storm,
+the higher frequency waves
+dissipate their energy more quickly.
+So the waves that travel a long way
+are the fast moving low frequency waves,
+which are called swell.
+- When those waves end up
+becoming hundreds of miles away,
+like if you have it in the Pacific,
+eventually you'll get long
+period swell from them.
+So you're no longer near the storm,
+but it created enough
+energy to make long waves,
+and that's where you get
+your open ocean swell.
+- Tell me if this is a good analogy.
+I feel like with sound, a
+lot of the high frequencies
+will die off quickly away from a source.
+- Yep.
+- [Derek] But the low frequencies
+will travel much further.
+- Correct.
+- So is it the same thing with the waves?
+It's like you're walking
+away from a concert,
+and you can still hear the bass,
+but you can't see any
+of the high frequencies.
+- That's a great analogy. Yep.
+- What's the deal with rogue waves?
+- People like to think it's a rogue wave
+where it just came outta
+nowhere and just came up.
+No, it's usually multiple
+waves that are meeting up
+and creating an amplitude
+that's much larger
+than what the self-standing wave would be.
+So when it meets it's gonna break,
+because you have this large wave
+creating this huge amplitude
+that it just can't hold it and it breaks.
+- [Derek] On a calm day,
+when you see waves crashing
+at the beach around 10 seconds apart,
+that is swell.
+But because of its long wavelength,
+swell isn't really a concern for ships
+out in the open ocean.
+- You know, if you're
+in a long period swell,
+your ship's probably just
+gonna heave a little bit.
+You're more worried about the steep waves
+and the windy waves
+that are really moving you around.
+- [Derek] Wind waves are
+formed in three steps.
+First, as wind blows across the surface
+of perfectly still water,
+the turbulent motion of
+the air creates regions
+of slightly higher and
+slightly lower pressure.
+And this makes tiny ripples
+with wavelengths of around a centimeter.
+But now the wind can act on these ripples
+creating larger pressure differences
+between the front and the
+top of the wave crest,
+pulling them up into bigger waves.
+And the interaction of
+the wind with these waves
+then creates even larger
+pressure differences
+and even larger waves.
+The waves are mostly
+uniform at this point,
+but as they interact with each other,
+they create a range of
+different wavelength waves.
+And as the wind keeps blowing,
+these waves begin breaking
+transferring their kinetic energy
+into swirling eddies that
+dissipate their energy as heat.
+Once the energy dissipation matches
+the energy input from the wind,
+the waves have reached their maximum size
+and this is known as
+a fully developed sea.
+- [Miguel] So this is
+gonna be an irregular wave.
+- [Derek] This is irregular?
+- Irregular wave,
+so what you saw earlier
+with the regular waves
+were one frequency, one amplitude.
+This is what we call a spectra,
+or multiple frequencies
+and multiple amplitudes.
+You can see there's higher
+frequency with the waves
+that kind of go travel slower
+than the low frequency waves.
+Those low frequency waves will
+travel fast and overcome 'em
+and that's what's making 'em look peaky
+or kind of dulling it out.
+- [Derek] What surprised me
+is that the different oceans of the world
+have different mixtures
+of wave frequencies
+or different spectra,
+depending on their geography
+and the types of storms
+that occur there.
+For example, the North Sea and
+other small bodies of water
+have a peakier spectrum,
+and this is due to
+the limited fetch of
+storms that occur there.
+In the mid-Atlantic, a broader
+spectrum best describes
+the developing or
+decaying open ocean waves
+that you'd find there.
+And in the North Atlantic,
+the steady wind across an open ocean
+produces the broadest
+spectrum of wind waves.
+So when testing, engineers
+first have to figure out
+where the ship will be deployed,
+and which spectra best
+match these locations
+before creating them in the pool.
+For most people I think,
+an ocean is an ocean.
+But you're saying that there's sort of
+different conditions
+depending on where you are?
+- The destroyer when I was in command,
+we did an operation off
+the coast of South Korea
+in the spring.
+Very rough sea keeping conditions.
+But then, when you're
+crossing the Pacific,
+a lot of that is a lot calmer.
+So again, you know from there
+to the coast of South Korea
+to the Arabian Gulf, all those
+very different conditions.
+- Were there any conditions that were
+particularly rough for you?
+- So my bed was actually
+in the middle of a room
+and the seas were so bad,
+and this was either
+South or East China Sea.
+The seas were so bad that one night,
+I woke up in the middle of the night
+and my whole mattress with me on it
+was sliding off of my bed frame,
+and that's a pretty
+significantly sized mattress.
+So you can imagine the
+seas we were in that night.
+Much bigger than this would terrify me.
+I know it probably looks benign, but...
+(laughs)
+Much bigger than this,
+I think that model will
+take a lot of water.
+- Why do you care about how
+much water goes on the deck?
+- So on the back of this DDG
+is a helicopter landing pad.
+They don't want any water on the deck
+when a helicopter's about to land.
+That's a big problem.
+You know, that's one of
+the tests that we do here
+is we'll put cameras to look at the deck
+and understand how much water washes on.
+- [Derek] Since I knew
+they wouldn't wanna risk
+their fancy model in rough conditions,
+we brought along a little
+remote controlled boat to test.
+- Yeah, I wouldn't be happy on that boat.
+A lot of people would be getting seasick.
+- Whoa!
+(Miguel laughs)
+- Oh no.
+- [Miguel] Is it gone?
+- [Derek] It's gone.
+- [Miguel] No, it's
+right there. It came up.
+It's upside down.
+(laughs)
+- It was totally gone.
+It was in the air, then it went under.
+Now, not all the models tested here
+can be remote controlled.
+- So on the carriage is where
+we're gonna do captain model tests
+where you can tether, put
+power and instrumentation
+onto a model that can't hold it itself.
+So usually the model go in
+this moon bay right here.
+- [Derek] The models are hooked up here
+and then the whole lab
+speeds over the waves
+towing the model underneath.
+(pensive music)
+(waves crashing)
+People have been making
+ships for thousands of years.
+- Mm-hm.
+- Is there actually any innovation today?
+- Most definitely.
+So sometimes, you know,
+people say that's the
+way we've always done it.
+And then when you look into it,
+there's some validity to some hair-brained ideas,
+And when we test them,
+that's why you cut your
+cost of doing a model test
+versus building the full thing and saying,
+"Oh that didn't work."
+Every ship that's in the Navy's
+fleet has gone through here,
+has gone through either our purview,
+or has been tested peripherally with us.
+But all of the Navy-owned ships
+have been tested in this facility,
+and there is a ship out there
+with a tumble home design
+where if you look at this ship
+behind you, it flares out.
+So this flare is usually
+what helps protect you from,
+when you start rolling, it
+gives you a reaction force
+or helps push you back.
+A tumble home is shaped, you
+know, the opposite direction.
+And if you have a ship
+shaped in that direction,
+it doesn't have as much of a
+restoring force when you roll.
+- But what is the idea with
+making a ship like that?
+- There's a lot of different reasons
+why you want to change a hull design.
+Some of it is the above water signatures.
+It's all about the
+shape and radar sections
+and there's a lot that goes into that.
+You always wanna be stealthier,
+you always want to be faster,
+you always wanna have more power.
+And that's always what
+the innovations come.
+- [Derek] So most of
+the sailors aren't aware
+of the work that's going
+on in the background
+to support what they do.
+- When I was in the fleet,
+and I've been in the Navy 27 years,
+I never had any idea,
+certainly not the
+magnitude of what they do.
+I'm not exaggerating when I say
+it's impacted every ship
+and submarine in the fleet.
+(waves crashing)
+(electronic zoom)
+- Hey, if you don't have a
+huge wave pool in your house
+to test out wave physics,
+I suggest you check out Brilliant,
+the sponsor of this video.
+Brilliant is the best learning tool I know
+for mastering concepts in math, science,
+and computer science.
+All their lessons are
+built around interactivity.
+Just check out this one on buoyancy.
+You can adjust the size
+of void in this block
+and see whether it sinks or floats,
+and then you proceed through a series
+of increasingly challenging
+questions and simulations.
+You know, what I love about Brilliant
+is that it really gets me thinking.
+So when I complete a lesson,
+I feel a sense of accomplishment
+because I figured it out myself.
+And this applies to their
+fundamentals courses
+as well as to their more advanced topics.
+For example, the wave principles
+of superposition and interference
+also apply to their course
+on quantum mechanics,
+which I found to be both engaging
+and really comprehensive.
+This is a great interactive
+which forces you to deeply
+engage with the conditions
+that lead to interference,
+a concept I know a lot of
+students struggle with.
+Brilliant keeps supporting Veritasium
+I think for two reasons.
+First, they know that viewers
+of this channel are smart
+and they want to understand things deeply.
+So, a lot of you have already signed up.
+And second, I know that some of you
+haven't given it a try yet.
+So I guess my question is,
+what are you waiting for?
+You can try it out for free right now
+by going to brilliant.org/veritasium.
+And finally,
+I wanna remind you that with
+the holiday season coming up,
+you can give the gift of Brilliant
+to a friend or family member,
+that clever person in your
+life who is really into STEM.
+There are courses tailored for anyone,
+whether beginner,
+intermediate, or advanced.
+And if you sign up right now,
+Brilliant are offering 20% off
+an annual premium subscription
+to the first 200 people to sign up.
+Just use my link brilliant.org/veritasium.
+So I wanna thank Brilliant
+for supporting Veritasium,
+and I wanna thank you for watching.

@@ -1,0 +1,645 @@
+- This video was sponsored by KiwiCo.
+More about KiwiCo at the end of the show.
+I know what you're thinking.
+- Clickbait!
+- No one has measured the speed
+of light, that's ridiculous.
+The speed of light is exactly
+299,792,458 meters per second.
+We are so sure of it that since 1983,
+we've actually used the speed of light
+to define how long a meter is.
+It's just the distance
+light travels in a vacuum
+in 1/299,792,458ths of a second.
+That definition ensures
+that the speed of light
+is exactly this number, no decimals.
+But hear me out, in this video,
+I will prove to you
+that light may never
+actually travel at this speed
+and I can say that because no
+one has actually measured it.
+We can't measure the speed of light
+the same way we measure
+the speed of anything else.
+Destin: I think we're recording everywhere.
+What are we doing?
+- This is a video about
+measuring the speed of stuff.
+Destin: OK
+Tell me about how you measured
+the speed of the baseball
+fired out of your cannon.
+- Well, to get the speed of the baseball,
+you need to know two things.
+You need to know the
+distance between two points
+and you need to know
+the time that it takes
+the baseball to travel
+between those points.
+So basically we took
+distance divided by time,
+and that's the speed of the baseball.
+And in our case, we were shooting
+with a high-speed camera,
+so you basically just count the frames
+and then your clock is internal.
+Oh, you're going relativity.
+You're gonna do something
+weird, aren't you?
+- You saw it coming.
+I can't believe it.
+Destin: Oh man!
+The thing I want to ask you
+about is the speed of light.
+Destin: OK
+Could you measure the
+speed of light like this?
+Imagine you have a laser
+that can fire a beam
+through a perfect vacuum
+for one kilometer.
+Start a timer the instant
+you fire the laser beam
+and then exactly when it
+hits the end, stop the clock.
+Except how do you know when
+light reaches one kilometer
+if you and the clock are
+at the starting point?
+Okay, so you need two
+clocks, one at the laser
+and one at the end,
+which stops automatically
+when it detects the laser light.
+But now, how do you make sure
+your two clocks are synchronized?
+Well, you could connect them via a wire
+and send a pulse from one to the other,
+but that pulse will travel
+at the speed of light,
+so it will arrive with a time delay.
+You might think you can just
+subtract that time delay
+but it is equal to the time it takes
+for light to travel one kilometer.
+That's what we don't know
+and are trying to measure.
+Okay, new plan, start
+with the clocks together
+and sync them up first
+and then send one of the
+clocks down to the end.
+Now, what could possibly go wrong?
+Well, I'll tell you.
+The clock at the finish line was moving
+with respect to the one at the start
+and special relativity tells
+us moving clocks ticks slow
+relative to stationary observers.
+So by the time the clock
+reaches one kilometer,
+it will no longer be in sync
+with the clock at the start.
+Can I tell you the only
+solution to this problem?
+Ditch the second clock.
+Put a mirror at the end
+to reflect the light back
+and use a single clock at the start
+to time the full two kilometer round trip.
+- Wasn't this actually done before?
+He was on a mountain and
+there's a wagon wheel
+with a lantern and there's
+something like a mirror
+on the other side of the mountain?
+I've always wanted to do this.
+- So, that sounds a little
+like how the speed of light
+was first experimentally measured
+by Hippolyte Fizeau in 1849.
+He shone a beam of light between the teeth
+of a rapidly spinning gear to a mirror
+up on a hill eight kilometers away.
+And then by increasing
+the speed of the gear,
+he reached a point where
+the reflected light
+passed through the next gap on the gear
+and so it was observed.
+So he measured the speed of light
+to be 313,000 kilometers per second,
+which is within 5% of the
+presently accepted value.
+So someone has measured the
+speed of light?
+or have they?
+What has been measured is the round trip
+or two-way speed of light,
+but no one has measured
+the one-way speed of light.
+One thing I'm gonna throw at you.
+And I'm just gonna come out and tell you.
+It's like what if the speed
+of light in this direction
+is different from the speed
+of light in this direction?
+- Then that sounds like
+a Veritasium video.
+(both laughing)
+- The question is could you figure it out?
+The kind of crux of this problem
+is that the only way people have managed
+to measure the speed of
+light is for a round trip.
+No one's ever managed
+to measure the speed of
+light in just one direction.
+It's possible that the speed of light
+is half of 'c' in one direction,
+and then instantaneous
+on the return journey.
+Destin: What?!
+That's possible.
+Destin: Are you serious?
+- Think about communicating
+with an astronaut
+stranded on Mars.
+Let's call him...
+Mark.
+We send out a signal and get
+a response 20 minutes later.
+So we imagine our signal
+takes 10 minutes to get there
+and the reply takes 10
+minutes to come back,
+but it's possible that our
+message took all 20 minutes to get there 
+and the reply
+came back instantaneously.
+There's no way we could
+tell the difference
+between these two scenarios.
+But why would the speed
+of light be different?
+Well, it's possible that there
+is some preferred direction
+through spacetime.
+I mean, our universe
+has a lot of symmetries,
+but there is also some asymmetry.
+For example, why is there so much matter
+relative to anti-matter?
+And physicists have worked out
+internally consistent theories of physics
+in which the speed of light is different
+forwards and in reverse.
+The speed of light could
+vary by just a few percent
+up to at the extreme, going
+'c' over two in one direction
+and infinitely fast in
+the other direction.
+Destin: Okay, so let me figure this out.
+So yeah,
+I kind of don't believe you.
+I kinda don't believe you.
+I don't believe you that
+light is a different speed
+in one direction, but in the other,
+but I know you well enough to
+know that you wouldn't call me
+and put a camera on me unless
+you knew you were right
+and that's what scares me about this conversation.
+That scares me.
+- Now, you might think it is just simpler
+that light should travel at the same speed
+in all directions,
+but the truth is: that is a convention
+rather than an
+experimentally verified fact.
+Einstein himself pointed this
+out in his famous 1905 paper,
+On the Electrodynamics of Moving Bodies.
+He spends the first couple
+of pages on the problem
+of synchronizing clocks at
+different locations A and B.
+And he says there is no way
+that we can meaningfully
+compare the times they measure
+unless we established by definition
+that the time required by
+light to travel from A to B
+equals the time it requires
+to travel from B to A.
+He's essentially defining
+that the speed of light
+in opposite directions is the same.
+And he puts by definition
+in italics to remind us
+that this is only a convention.
+It's known as the Einstein
+synchronization convention.
+So the idea
+that the speed of light is the
+same in opposite directions
+as Einstein would later write
+is neither a supposition nor a hypothesis
+about the physical nature of light,
+but a stipulation that I can make
+of my own free will to arrive
+at a definition of simultaneity.
+That sounds a lot more subjective
+than how I think most people would imagine
+the speed of light is defined.
+Destin: Dude, this is hardcore.
+(laughs)
+I've never thought about this.
+- I didn't think about this before either.
+I always assumed that when we said
+the speed of light is c,
+we meant the one way speed of light.
+There's no way to define
+the one-way speed of light,
+so the only thing we can really define
+is the two way speed of light.
+Just look at the way Einstein defined c.
+It's for the round trip
+from A to B and back.
+I don't know if you saw
+on your physics classes,
+but whenever there was a light clock
+it would always bounce the
+light up and then back.
+You would never see a light
+clock just bounce light one way.
+And this is why the only
+thing we can be certain
+is constant for all inertial observers
+is the two-way speed of light.
+For over 100 years,
+scientists have tried to
+find a way around this
+to measure the one way
+speed of light by itself.
+Here is a paper published
+in the American Journal of Physics in 2009
+that claims to measure the
+one-way speed of light.
+And here is the paper
+debunking this study,
+pointing out that these authors
+were actually measuring
+the two way speed of light.
+But I'm imagining you
+might have some ideas
+for how to measure the
+one way speed of light,
+so let's go through some of them.
+I mean, can't we just
+use a high-speed camera
+that shoots at a trillion frames a second
+so we can actually see light
+passing through an object?
+The problem is you're not only seeing
+the light pass through the object,
+you're also seeing it
+bounce back to the camera,
+measuring the two way speed, not one way.
+Destin: Here you go.
+Get a spool of fiber optic cable.
+I don't know, like 186,000 miles.
+And you could shine the light here
+and you have the other
+end of the fiber here
+and you could shine here and
+then wait and see the delay,
+see if it's one second later over here.
+- The thing is like that fiber
+is going around and around and around,
+so it could be that when
+the light goes this way
+over the top of the loop, it goes slower
+and then when it goes on
+the bottom, it goes faster.
+It all averages out in the fiber.
+And you're essentially
+getting lots of round trips
+in that fiber, so you're
+never getting a one-way.
+What if you center a synchronizing device
+between your two clocks and
+send out simultaneous pulses?
+Well, if the speed of light is
+the same in both directions,
+this perfectly synchronizes your clocks.
+But if the speed of light is
+different in each direction,
+one of the clocks will
+be ahead of the other.
+And it will be ahead by
+just the right amount
+so that when you measure
+the speed of light,
+you'll find the value to be C
+even though that was not the
+speed the light was traveling.
+This is the same reason GPS
+synchronized clocks won't work.
+The whole GPS system is
+based on the assumption
+that the speed of light is
+the same in all directions.
+If the speed of light is
+different in different directions,
+the light pulses from satellites
+will travel at different speeds
+so the clocks won't be properly synced.
+By that, I mean they will always measure c
+for the one way speed of
+light whether it is or isn't.
+How about starting with
+synchronized clocks in the middle
+and moving them apart with
+equal and opposite speeds?
+That way, the time dilation
+for each clock will be the same
+and they'll still be synchronized
+when they reached the end points.
+But again, this only works
+if the speed of light in
+each direction is the same.
+If the speed of light
+depends on direction,
+then so does time dilation.
+You might think you could move the clocks
+really, really slowly so that
+time dilation is negligible.
+But if the speed of light is different
+in different directions,
+you can't just use the standard formula
+to calculate what that
+time dilation would be.
+I mean, it could be a
+lot worse than you think.
+So, the reality is we're stuck.
+We need synchronized clocks
+to measure the one-way speed of light,
+but we need to know the
+one-way speed of light
+in order to synchronize our clocks.
+Now, this might sound like
+just an academic concern,
+so I want to go through an example
+to illustrate just how
+differently the universe works
+if the speed of light is not
+the same in all directions.
+Let's say on Mars,
+Mark is trying to synchronize
+his clock with the Earth.
+At noon, mission control
+sends out a message
+that says this signal was
+sent at exactly 12 o'clock.
+When Mark receives this message,
+he uses the Einstein
+synchronization convention
+to set his clock.
+He knows the roundtrip
+time delay is 20 minutes,
+so he assumes the signal
+must have taken 10 minutes
+to reach him.
+He programs his clock to 12:10 PM
+and sends a return message.
+This reply sent at 12:10.
+The message is received
+on Earth at 12:20 PM,
+so both parties know the
+synchronization was successful.
+When the clock reads 12:20 on Earth,
+it simultaneously reads 12:20 on Mars.
+But now consider what
+happens if the speed of light
+is not the same in both directions.
+Let's say it is 'c' over
+two from Earth to Mars,
+and then instantaneous
+from Mars back to Earth.
+No one knows this, of course,
+so they continue to use
+the Einstein convention.
+The message is sent from Earth,
+but now it takes a full
+20 minutes to reach Mars.
+But Mark doesn't know this.
+And as before he assumes the signal
+took 10 minutes to reach him,
+so he sets his clock to 12:10 PM
+even though on Earth, it is now 12:20.
+Mark then sends this
+reply sent at 12:10 PM,
+which is instantaneously received on Earth
+at 12:20 Earth time.
+The experience for the two
+communicators is the same.
+The same messages were received
+with the same local time delays,
+but their clocks are out
+of sync by 10 minutes.
+What they think is the same moment
+for the other observer actually isn't
+and there is no way
+they can ever recognize
+or correct this error.
+Imagine if someone on
+Earth immediately responded
+how long did this message
+take to reach you?
+It's now 12:20.
+Well, the message would take
+20 minutes to reach Mars,
+but due to the clocks being out of sync,
+it would arrive at 12:30 Mars time,
+so Mark would reply 10 minutes,
+a message that would
+instantaneously reach the Earth
+at 12:40 Earth time.
+The space-time diagram shows
+how there is flexibility
+in what you consider to be the same moment
+at two different locations
+and in how you define the
+one-way speed of light.
+Einstein chose the convention
+where the one-way speed of
+light is always the same,
+but from an experimental perspective,
+any other convention is just as valid,
+up to and including one
+where the speed of light
+is C over two one way and
+instantaneous the other way.
+And in that case, it's
+interesting to think about
+what each observer is seeing
+when they look at the other.
+Mark would be seeing the Earth
+as it was 20 minutes ago,
+but Earth is seeing Mars in real time
+exactly as it is right now.
+And this effect wouldn't
+stop at Mars, look beyond it
+and you could see stars
+hundreds of light years away,
+not as they looked centuries ago,
+but exactly as they
+are right this instant.
+One of the things is you
+only know about that light
+when it reaches you and you
+don't know anything about
+what journey it took to get to you.
+You just see it and it's there,
+so like it's instantaneous.
+So an instantaneous
+interpretation of that light
+is just as good as one
+where it takes 'c' to reach us.
+- This is breaking my brain.
+Yeah, I mean, it's kind
+of unknowable, isn't it?
+- It is unknowable.
+That's the whole point of the video.
+Is to say, we've all agreed
+and this is based on something
+Einstein wrote in 1905.
+We've all agreed to just say
+it's 'c' in every direction,
+but the truth is the
+physics works the same
+whether it's 'c' or 'c' over
+two and instantaneous
+or anything in between.
+As long as the roundtrip
+works out to be 'c',
+none of physics breaks
+and that's the crazy thing.
+- So if we can never measure
+the one-way speed of light,
+and if it makes no difference
+to any of the laws of physics,
+then what's the point in
+even talking about it?
+Well, that is certainly
+one valid perspective
+in a debate that has
+been ongoing since 1905.
+Some physicists appeal to Occam's razor.
+Isn't it just simpler if light
+travels at the same speed
+in all directions?
+Most working physicists
+just accept the convention
+and move on with their lives,
+but I think it's important to point out
+that it is just a convention,
+not an empirically verified fact.
+Personally, I find it fascinating
+that this is something about the universe
+that is hidden from us.
+Sure, the round trip speed of light is 'c',
+but does the one way speed
+even have a well-defined value?
+And if it doesn't,
+what does that mean for the
+concept of simultaneity?
+When is right now on Mars?
+Does it even make sense to talk
+about things happening at the same time
+if they're separated by distance?
+Y'know maybe this is an odd quirk of the universe
+and there's no good reason for it
+or maybe, when physics takes
+the next paradigmatic leap,
+our inability to measure
+the one way speed of light
+will be the obvious clue to
+the way General Relativity,
+Quantum Mechanics, space
+and time are all connected.
+And we'll wonder why we
+didn't see it before.
+Hey, this video was sponsored by KiwiCo.
+They create awesome projects
+and toys to get kids making.
+I use their crates with my son
+and they are a lot of fun
+while also being educational.
+Now, for viewers of this video,
+they are offering 50% off
+your first month of any crate,
+just go to KiwiCo.com/veritasium50.
+And I'll put that link down
+in the description below.
+Now, I think this is a fantastic offer
+because these crates are a great resource
+for learning at home, which is something
+anyone with kids is doing
+a lot of at the moment.
+Plus all the supplies you
+need come right in the box,
+which means you don't
+need to run to the store,
+which is again ideal.
+Now my kids are still young,
+but KiwiCo offers eight subscription lines
+for different age groups
+and different topics.
+I do the koala crates with
+my oldest, who is now four,
+but the kit I'm actually showing
+you here is for older kids.
+I built an infinity
+mirror, which is perfect
+for talking about the
+roundtrip speed of light.
+There's lots of round
+trips going on in here.
+Now, can I just tell you how useful it is
+to have a box turn up at
+your door once a month
+that is packed with fun things to make?
+All the supplies you need
+and hours of entertainment right there?
+Plus my son and I are learning
+something new together
+every month and we're connecting.
+It's become a special
+thing that we do together.
+So, KiwiCo is a perfect
+option for a holiday gift.
+My son actually got his
+subscription last year at this time.
+And I just think what other
+option will get kids thinking
+and doing throughout the year?
+So for me, that's the most important part.
+I want my kids to feel like they can make
+and discover things on their own.
+And these crates give
+them that confidence.
+So, click the link below to learn more
+and for 50% off the
+first month of any crate,
+go to KiwiCo.com/veritasium50.
+I want to thank KiwiCo for
+sponsoring this episode
+and I want to thank you for watching.

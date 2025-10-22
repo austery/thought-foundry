@@ -1,0 +1,586 @@
+- All right, I'm about to
+go for my first ever ride
+in a fully autonomous vehicle.
+Whoa, no driver.
+All right.
+- [Electronic Voice] Good morning, Derek.
+This car is all yours
+with no one up front.
+- I really like the idea of
+fully autonomous vehicles,
+but it's weird getting
+into a car with no driver
+and just trusting the car.
+I'm gonna report back how this ride goes
+and how I feel about it.
+Oh, but full disclosure, this
+video is sponsored by Waymo.
+(car door clicking)
+(seatbelt clicking)
+Start ride.
+(car navigation chiming)
+Ha ha!
+- [Electronic Voice] Make sure
+your seatbelt is fastened.
+(Derek vocalizes)
+For any questions,
+press the Help button to speak
+with a rider support agent.
+- Okay. Now let's see where we go.
+It's looking at this car coming
+here. What's it gonna do?
+Oh, and it pulls in
+very smoothly behind it.
+No problems. Did not turn into traffic.
+Waited until the cars
+went, and then it turned.
+I like that.
+I polled YouTube viewers
+about autonomous vehicles
+and half of you are excited
+and ready for them to be on the roads,
+but over 40% said you
+thought the technology
+was still over 10 years away.
+And for those people, I have news,
+which is that, well, there
+is no driver in this car.
+I'm currently inside a fully
+autonomous vehicle driving
+around a suburb of Phoenix, Arizona.
+Now I get that in some parts of the world,
+like, the roads aren't
+well enough maintained
+and people don't stay in
+their lane necessarily,
+and so it'd be very hard for
+a computer to drive there,
+but at least under good conditions,
+the technology is currently functional.
+(downtempo music)
+(bright comedic music)
+- Now Waymo started out
+as the Google self-driving car project
+with what is possibly one of
+the cutest cars ever made.
+I am inside the world's first
+fully autonomous vehicle.
+Back in October 2015, this
+car went on a public road,
+ridden by Steve Mann,
+who has a disability, he is legally blind,
+but he could get around in this thing,
+which is affectionately
+known as the Firefly.
+This is such a simple vehicle.
+There's basically nothing in here.
+There's no steering wheel, no dashboard.
+This car is super basic.
+There is no AC, but there
+is an emergency stop button.
+(button cover clicks)
+That's my favorite button in the car.
+It reminds me of elevators.
+One of the important
+measures that they had to put
+in automatic elevators
+was a big red stop button.
+Did you know that before the 1940s,
+almost all elevators had drivers in them?
+And when people started putting
+in driverless elevators,
+well, the public was very concerned,
+and they didn't wanna
+ride in those elevators.
+There was one guy who was like,
+"I don't care if I have to
+walk up 12 flights of stairs
+for the rest of my life.
+I'm not taking that elevator."
+And adoption was slow.
+I mean, they tried to advertise
+to help people understand
+that it was in fact safe,
+but, ultimately, there was
+an elevator drivers strike
+in New York City, and that
+really annoyed people,
+and it helped the adoption
+of automated elevators.
+If you found a driver
+in an elevator today,
+you would wonder, "Why are they there?"
+Now you might think an
+elevator is just so simple,
+I mean, it is effectively
+one dimensional motion,
+but airplanes are also flown
+extensively by computers.
+(tense percussive music)
+I saw this particular landing
+where a plane is coming in into Vienna,
+and it's just so foggy
+that the pilots can see almost nothing.
+I mean, this is the view from the cockpit,
+and yet, they make a perfect,
+a textbook landing right on target.
+So how do they do it?
+The answer is the pilots didn't do it.
+It was a CAT II autoland procedure.
+The plane just came in and
+landed itself essentially.
+Now, of course, the pilots are important
+and they're monitoring all of
+the instruments and controls,
+but it's actually the plane
+and its computer getting the
+plane to land appropriately.
+I was surprised to learn that
+humans are much more likely
+to take manual control
+and land on sunny days,
+like July 6th, 2013, when
+Asiana Airlines flight 214
+was on final approach to San Francisco.
+Attempting to manually land the plane,
+the pilot accidentally
+left the throttle at zero,
+and by the time they realized
+and tried to abort the
+landing, it was too late.
+The plane crashed into the
+runway seawall and split in two.
+Three people died in the
+aftermath of this accident.
+I think the counterintuitive thing
+is that we expect the humans to be better,
+particularly in tough situations,
+but when it comes to
+airplanes, if it's bad weather,
+you actually want the plane flying itself.
+So the obvious next question is,
+would you want the same thing for cars?
+(oscillating music)
+There are all these
+different levels of autonomy,
+and everything up to four
+requires a human driver
+to be responsible and have
+the wheel at all times.
+In the early days of the Google
+self-driving car project,
+they had a vehicle that
+was not yet level four,
+so it still required a human driver.
+They let Google employees borrow the cars,
+but they still had to be
+in control of the wheel.
+And the volunteers were informed
+that they were responsible
+for the car at all times
+and that they would be
+constantly recorded,
+like video recorded, while
+they were in the car.
+But still, within a short period of time,
+the engineers observed
+drivers rummaging around
+in their bags or checking
+phones, putting on makeup,
+or even sleeping in the driver's seat.
+All these drivers were trusting
+the technology too much,
+which makes almost fully
+autonomous vehicles
+potentially more dangerous
+than regular cars,
+I mean, if the driver is distracted
+or not prepared to take over.
+So this is why Waymo decided
+that the only safe way
+to proceed is with a car
+that has at least level four autonomy.
+This is the depot where the cars go
+when they're not on the road.
+And it's also where people monitor
+all the rides in progress.
+- Yes, so that's where my team sits.
+You see three teams basically here.
+One of the teams is my
+team of fleet dispatchers,
+so basically making sure
+that all the mission
+are assigned every day
+and they are completed
+successfully on the road.
+And then you have the Rider Support team
+that takes the calls.
+(electronic tone chiming)
+- [Beulah] Thank you for
+calling the Waymo Rider Support.
+This is Beulah, how can I help today?
+- I just completed my ride,
+but I don't wanna get out of the car.
+I just wanna keep driving.
+Is there a way that I can do that?
+- [Beulah] Right now, I
+don't see a trip started.
+Give me one moment here while
+I partner with my team, okay?
+- Okay.
+(chuckling) Well, I just
+left all my stuff in the car.
+I hope it comes back.
+(car humming)
+- I think there's a lot
+of, still, resistance
+in terms of trusting the vehicle.
+And they ask you like,
+"How does it feel to be in
+a car without the driver?"
+I was the first person to do public roads,
+fully driverless ride at night.
+I always share the experience with them.
+It takes about two minutes
+for you to completely forget
+that you are in a driverless vehicle.
+If the system really provides
+that feeling that you're safe
+and you see a couple of maneuvers,
+in less than two minutes,
+you're talking to whoever is next to you
+and not paying attention to
+what's happening anymore.
+- Whoa, all right, it doesn't
+make the indicator sound,
+so I just don't know
+when it's going to turn,
+but if I was watching
+the map, I would know.
+I think we have this bias to believe
+that we're better at certain
+tasks than we actually are,
+like thinking that people
+are good at driving.
+Surveys show 74% of people believe
+they are above average drivers.
+Think about that.
+In the 20th century,
+60 million people were killed on the road.
+That's basically an extra
+world war's worth of deaths.
+And we really have no one
+to blame but ourselves.
+The National Transportation
+and Safety Board
+has identified human error as
+the cause of 94% of accidents.
+Most of these errors are
+impossible for a machine to make.
+Every year when people are backing out
+of driveways or parking spaces,
+in the U.S, up to 200 people are killed,
+and it's frequently
+older people or children,
+the children of the drivers.
+It's awful.
+And it comes down to the fact
+that we don't have eyes
+in the back of our head,
+and even the backup cameras
+still have blind spots.
+But if you have a vehicle that has LiDAR
+and radar and 29 cameras,
+you're just not going to hit them.
+Up here in the very prominent
+top, there is a 360 LiDAR.
+So it can see all around the car.
+It can see up to 300
+meters away with a LiDAR.
+The way the LiDAR works
+is it shoots out invisible laser beams,
+scanning around millions
+of times a second,
+and then it detects the reflection,
+and how long it takes
+to come back allows you
+to determine how far it is to that object.
+So what it's doing is
+like painting a 3D picture
+of the world.
+There are 29 cameras around this vehicle,
+which gives you full 360 vision.
+It gives you close range vision,
+what is right next to the car,
+and also long range vision,
+going out 500 meters.
+This car could detect a stop sign
+or a pedestrian 500 meters away.
+How many of us have
+eyesight that is that good?
+There is also a microphone up on top
+to listen to what's
+happening in the environment,
+and if there are sirens,
+then the car will pull over
+to the side of the road.
+It's gotta be able to respond
+to emergency vehicles.
+(light percussive music)
+What I wanna see here is, how
+does it handle a parking lot
+where there's people
+driving in unusual ways
+and possibly pedestrians walking around?
+(car humming)
+(tires squeak)
+Whoa.
+That was a sudden stop.
+The car made a pretty hard stop there.
+I think it saw that guy
+with a cart coming up
+on a pedestrian crosswalk.
+And one of the interesting things
+that the vehicle is always doing
+is not only seeing where things are
+and where they're going,
+but also making predictions
+about where they're likely to go.
+So this car doesn't just
+have one potential future.
+It's constantly imagining,
+"Well, he might cross at the crosswalk,"
+or, "He might keep going,"
+or, "He might turn left,"
+and so it has to be prepared
+for all of those different options.
+And it even weights the options
+of like how likely it thinks
+that he's gonna go on the crosswalk
+versus go straight versus turn.
+And you can see that with
+the thickness of the line
+in the little simulated
+graphic that they have.
+(seatbelt clicking)
+Phew.
+A few years back, I think a
+lot of people were talking
+about how autonomous
+vehicles have to figure out
+who to hit in case of an accident,
+like do the pick the orphan or the nun?
+Should the car hit the
+motorcyclist with the helmet on
+because his injuries might be less severe
+or should the car hit the motorcyclist
+who does not have a helmet on
+because he did not
+properly protect himself?
+If cars were programmed
+to hit the motorcyclist with the helmet,
+that would mean that, in a way,
+it would become safer to
+ride without a helmet.
+(whimsical music)
+But the reality is that 99%
+of accidents aren't like that.
+Every year, around 1.3
+million people are killed
+on the roads, almost all
+of them due to human error.
+If autonomous cars can
+reduce these fatalities,
+then the real moral dilemma
+is not getting them on the road sooner
+for fear we haven't worked
+out exactly how they'll react
+to extremely unlikely
+hypothetical scenarios.
+I think humans are becoming worse drivers
+because we're just so
+prone to distraction.
+(light contemplative music)
+Think about the main
+reasons why cars crash:
+because people are speeding,
+they're under the influence,
+they're distracted.
+I mean, these sorts of problems,
+an autonomous vehicle would not have.
+You don't get a distracted driver.
+The ultimate question, right,
+that everyone wants to know,
+that I want to know the answer to is,
+as these vehicles stand,
+(car electronic beeping)
+are they better than the average human?
+Not than the best human, but
+just like an average human.
+Like replacing some
+random car on the street
+with one of these vehicles,
+does that make the road safer?
+- Yes, it does.
+I think we would never
+launch a rider-only service
+if we did not meet that
+base safety framework.
+- If that's true, it
+means like every vehicle
+that's not on the road is
+kind of a worse situation,
+do you know what I mean?
+- We are really working
+really hard to launch this in larger areas
+and new areas too, but we
+need to have the experience
+to show the regulators
+why we believe it's safer,
+and, for that, you need
+to be driving miles,
+a number of miles that
+you feel comfortable with,
+statistically speaking.
+- These vehicles have way more experience
+than any human driver because
+they've now accumulated data
+over 20 million miles of
+driving on public roads.
+If you were an average driver,
+you'd have to drive for a thousand years
+to accumulate that sort of experience.
+And all of that experience can be used
+to train the systems, to fix the software,
+and used across all the
+vehicles in the fleet.
+In 2019, Waymo released
+a study of its data,
+over 6.1 million miles
+of automated driving
+in the Phoenix, Arizona metropolitan area.
+Of the 18 total accidents that
+occurred during the study,
+none were serious enough
+to expect significant injury or death.
+In Waymo's Safety Report,
+they found some types of accidents
+have been completely eliminated
+by this autonomous driving system,
+like the car doesn't go off the road
+and it doesn't hit stationary objects.
+Humans, humans do those things.
+If you look at the eight
+significant accidents
+that happened with Waymo vehicles
+over the six million miles of driving,
+all eight of them involve a human driver
+of another vehicle doing something stupid,
+like driving on the wrong side of the road
+or running a red light
+or going through a stop
+sign or failing to yield
+or going 20 miles per
+hour over the speed limit.
+There were three incidents
+involving Waymo vehicles
+and pedestrians, but in all three,
+the Waymo vehicle was
+stationary and the pedestrian
+or cyclist/skateboarder
+ran into the vehicle.
+Waymo also takes some
+of that real-world data
+and they put it into simulations
+and they tweak it a bit.
+So they try adding like
+a bicyclist going fast
+or going slow, or they make
+the car turn faster or slower.
+So they change all these
+parameters and variables,
+and they see what the software will do.
+And they've trained the software
+on an additional 20
+billion miles of driving,
+not on the road but in the simulation,
+so that's a thousand times
+more experience again.
+The question for me is,
+when is stepping inside an autonomous car
+gonna feel the same as
+stepping inside an elevator?
+Because I think that
+time may be coming sooner
+than you think.
+I like the idea of this technology,
+but, honestly, getting in the car,
+I wasn't quite sure how I would feel.
+I was a little bit uncertain,
+but once I saw it just
+handles so confidently...
+Like driving is one of those things
+that I feel like you can't hide
+whether you're a good or bad driver.
+It's just like, "Oh, what's gonna happen
+when there's a parked car or
+a cyclist or a pedestrian,"
+and it just sort of handles
+all those situations
+with such confidence and ease
+that I think I stopped thinking about it.
+- After they pass a couple
+of your mental tests,
+you're like, "I'm good."
+I think, again, "I'll
+be okay." (chuckling)
+- Yeah, yeah, I felt the same way.
+I think a lot of people
+miss the bigger implications
+of what is achievable
+once fully autonomous
+driving is commonplace.
+Riders with disabilities, seniors,
+and the blind can get around more easily.
+Transportation will get cheaper.
+Think of all the wasted value in the cars
+that spend over 95% of their time parked.
+We can regain a bunch
+of time and feel happier
+because commuting and being
+stuck in traffic sucks.
+We can reduce traffic
+because vehicles will have
+better awareness of each other.
+You can imagine one day
+when all the cars are fully autonomous,
+they can execute a beautiful
+ballet driving together,
+and when that time comes, we
+can eliminate parking lots
+and add green spaces to our cities.
+And, most importantly,
+widespread adoption of autonomous cars
+could prevent tens of
+thousands of fatalities
+in the U.S. alone.
+When do you think that
+this will be a reality,
+but clearly it's coming,
+but when?
+- Yeah.
+If you're talking about big cities,
+I'm hoping the next five years
+will be really game changing.
+- [Derek] I'm excited to see it.
+- Me too, believe me. Believe me.
+I just don't want to
+commute to work anymore.
+I would love to sit in the backseat,
+do my work on the way there and
+on the way back. (chuckling)
+- [Derek] Or do something
+fun, watch a movie.
+- Or sleep, yeah. (chuckling)
+(futuristic tones beeping)
+(frequency tone whistling)

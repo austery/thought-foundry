@@ -1,0 +1,745 @@
+- Democracy might be
+mathematically impossible.
+(serious music)
+This isn't a value judgment,
+a comment about human nature,
+nor a statement about how rare
+and unstable democratic
+societies have been
+in the history of civilization.
+Our current attempt at democracy,
+the methods we're using
+to elect our leaders,
+are fundamentally irrational.
+And this is a well-established
+mathematical fact.
+This is a video about the math
+that proved that fact
+and led to a Nobel Prize.
+It's a video about how groups
+of people make decisions
+and the pitfalls that our
+voting systems fall into.
+(subdued music)
+One of the simplest
+ways to hold an election
+is to ask the voters to mark one candidate
+as their favorite on a ballot.
+And when the votes are counted,
+the candidate with the most
+votes wins the election.
+This is known as "first
+past the post" voting.
+The name is kind of a misnomer though.
+There is no post
+that any of the candidates
+need to get past.
+The winner is just the
+candidate with the most votes.
+This method likely goes back to antiquity.
+It has been used to elect members
+of the House of Commons in
+England since the 14th century,
+and it's still a common voting system
+with 44 countries in the world using it
+to elect its leaders.
+30 of these countries were
+former British colonies.
+The US, being a former British colony,
+still uses first past the
+post in most of its states
+to elect their representatives
+to the electoral college.
+But first past the post has problems.
+If you are selecting
+representatives in a parliament,
+you can, and frequently do,
+get situations where the
+majority of the country
+did not vote for the party
+that ends up holding the power.
+In the last a hundred years,
+there were 21 times a single party held
+a majority of the seats
+in the British Parliament,
+but only two of those times
+did the majority of the voters
+actually vote for that party.
+So a party, which only a
+minority of the people voted for,
+ends up holding all of
+the power in government.
+Another thing that happens
+because of first past the post
+is that similar parties
+end up stealing votes
+from each other.
+- The 2000 US presidential election,
+which was an election essentially
+between Al Gore and George W. Bush.
+At that point, every state in the nation
+used first past the post
+to determine the outcome of the election.
+Bush had more votes in Florida,
+but by a ridiculously slim margin.
+It was fewer than 600 votes.
+But there was another candidate
+on the ballot, Ralph Nader.
+Nader was a Green candidate.
+He was certainly to the
+left of either Gore or Bush.
+- And what we need is the upsurge
+of citizen concern, people concern,
+poor, rich, or middle class,
+to counteract the power
+of the special interests.
+- And he got almost a hundred
+thousand votes in Florida.
+- I just don't know if I
+can, with a conscience,
+vote for Bush or Gore.
+- I will vote for Ralph Nader.
+- Most of those voters were devastated
+that by voting for Nader rather than Gore,
+they ended up electing Bush.
+This is what is called a spoiler effect.
+Almost all Nader voters
+preferred Gore to Bush,
+but in a first past the post system,
+they had no way of
+expressing that preference
+because you could only
+vote for one candidate.
+(inquisitive music)
+- So first past the
+post incentivizes voters
+to vote strategically.
+Say there are five parties,
+one of them will be the smallest
+one, and so they won't win.
+Why would you vote for them?
+This is also true if you have
+four parties or three parties.
+This winner-takes-all voting system leads
+to a concentration of
+power in larger parties,
+eventually, leading to a two-party system.
+This effect is common enough
+that it has a name: Duverger's Law.
+So first past the post
+isn't a great option.
+So what else could we do?
+(subdued music)
+Well, we can say that a candidate
+can only win an election
+if they get a majority, at
+least 50% plus one of the vote.
+But what if we hold an election
+and no one gets a majority?
+We could go to the people
+who voted for the candidate
+with the fewest votes and
+ask them to vote again,
+but choose a different candidate
+and we could repeat this
+process over and over
+eliminating the smallest candidate
+until one candidate reaches a majority.
+But holding many elections is a big hassle
+so instead we could just ask voters
+to rank their preferences
+from their favorite to
+their least favorite.
+And if their favorite
+candidate gets eliminated,
+we go to their second preferences.
+When the polls close, you count
+the voters' first choices.
+If any candidate has a
+majority of the votes,
+then they're the winner.
+But if no candidate has a majority,
+the candidate with the
+fewest votes gets eliminated
+and their ballots are distributed
+to those voters' second preferences,
+and this keeps happening
+until one candidate has
+a majority of the votes.
+This is mathematically identical
+to holding repeated elections,
+it just saves the time and hassle
+so it's referred to as instant runoff,
+but the system is also known
+as preferential voting
+or ranked-choice voting.
+An instant runoff doesn't
+just affect the voters,
+it affects how the candidates
+behave towards each other.
+- It was the Minneapolis
+mayor's race, 2013,
+they were using ranked-choice voting.
+The incumbent mayor had stepped down
+and there were all of these people
+came out from the woodwork
+wanting to be mayor.
+There're 35 candidates.
+And so you would think
+if there's 35 candidates
+you'd want to dunk on someone,
+you'd wanna like kind of elbow
+yourself into the spotlight.
+That's not what happened.
+These 35 candidates,
+all of them were really
+nice to each other.
+They were all super cordial, super polite,
+to the degree that at the end
+of the final mayoral debate,
+they all came together and
+they sang "Kumbaya" together.
+♪ Kumbaya, my Lord, kumbaya ♪
+♪ Oh, Lord, kumbaya ♪
+- The amount of vitriol and anger
+and partisan, you know,
+mudslinging that we're all used to,
+to see this vision of an actual "Kumbaya."
+It's not even a joke.
+All of these people getting along
+so desperate for second and third choices
+from other people that they're like,
+"I'm gonna be the picture-perfect,
+kindest candidate possible."
+- But there's also a
+problem with instant runoff.
+There can be cases where
+a candidate doing worse
+can actually help get them elected.
+Let's say we have three candidates:
+Einstein, Curie, and Bohr.
+Now, Einstein and Bohr
+have very conflicting views
+while Curie is
+ideologically in the center.
+So let's say Einstein
+gets 25% of the vote,
+Curie gets 30, and Bohr gets 45.
+No one got a majority.
+So it goes to the second round
+with Einstein being eliminated
+and because people who voted for Einstein
+put down Curie as their second choice,
+well, Curie ultimately gets elected.
+But now imagine that Bohr has
+a terrible campaign speech
+or proposes a very unpopular policy
+so bad that some of his voters
+actually switch over to Einstein's side.
+Well now it's Curie that gets eliminated
+and because she's more moderate,
+half of her voters select Einstein
+and the other half select
+Bohr in the second round,
+and this leads to Bohr winning.
+So Bohr doing worse in the first round
+actually leads to him
+winning the election.
+Clearly, this isn't something
+that we want in a voting system.
+(serious music)
+This is what
+the French mathematician
+Condorcet also thought.
+Condorcet was one of the
+first people applying logic
+and mathematics to rigorously
+study voting systems
+making him one of the founders
+of a branch of mathematics
+known as social choice theory.
+He was working during the
+time of the French Revolution,
+so fairly determining
+the will of the people
+was having a cultural moment right then.
+In 1784, Condorcet's contemporary
+at the French Royal Society of Science,
+Jean-Charles de Borda,
+proposed a voting method.
+You ask the voters to rank the candidates.
+If there are five candidates,
+ranking someone first gives
+that candidate four points,
+ranking them second would
+give them three, and so on,
+with zero points being
+awarded for last place.
+But the Borda count has a problem
+because the number of points
+given to each candidate
+is dependent on the total
+number of candidates.
+Adding extra people that
+have no chance of winning
+can affect the winner.
+Because of this, Condorcet
+hated Borda's idea.
+He wrote that it was
+"bound to lead to error
+because it relies on irrelevant
+factors for its judgments."
+So in 1785, Condorcet published an essay
+in which he proposed a new voting system,
+one he thought was the most fair.
+(soft music)
+Basically the winner needs
+to beat every other candidate
+in a head-to-head election.
+But with more than two candidates,
+do you need to hold a large number
+of head-to-head elections
+to pick the winner?
+Well, no.
+Just ask the voters to
+rank their preferences
+just like in instant runoff
+and then count how many voters
+rank each candidate higher
+than each other candidate.
+This feels like the
+most fair voting method.
+This voting system was actually discovered
+450 years earlier by Ramon Llull,
+a monk who was looking at how
+church leaders were chosen,
+but Llull's ideas didn't make an impact
+because his book, "Ars
+eleccionis," the art of elections,
+was lost and only rediscovered in 2001.
+So the voting system is named
+after Condorcet and not Llull.
+(gentle music)
+But will there always
+be a winner in this way?
+Let's try Condorcet's
+method for choosing dinner
+between you and two friends.
+There are three options:
+burgers, pizza or sushi.
+You really like burgers, so
+that's your first preference,
+your second choice is pizza,
+and you put sushi last.
+Your friend prefers pizza,
+then sushi, then burgers,
+and your other friend prefers sushi,
+then burgers, then pizza.
+Now if you choose
+burgers, it can be argued
+that sushi should have won instead
+since two of you prefer sushi over burgers
+and only one prefers burgers to sushi.
+However, by the same argument,
+pizza is preferred to sushi
+and burgers are preferred to pizza
+by a margin of two-to-one
+on each occasion.
+So it seems like you and your
+friends are stuck in a loop.
+Burgers are preferred to pizza,
+which is preferred to sushi,
+which is preferred to burgers and so on.
+This situation is known
+as Condorcet's paradox.
+Condorcet died before he could resolve
+this problem with his voting system.
+He was politically active
+during the French Revolution
+writing a draft of France's constitution.
+In 1793 during the Reign of Terror
+when La Montagne came to power,
+he was deemed a traitor
+for criticizing the regime,
+specifically their new constitution.
+In the next year, he was
+arrested and died in jail.
+(gentle music)
+Over the next 150 years,
+dozens of mathematicians
+were proposing their own voting systems
+or modifications to
+Condorcet's or Borda's ideas.
+One of those mathematicians
+was Charles Dodgson,
+better known as Lewis Carroll.
+When he wasn't writing
+"Alice in Wonderland,"
+he was trying to find a
+system to hold fair elections.
+But every voting system had
+similar kinds of problems,
+You'd either get Condorcet loops
+or other candidates that
+had no chance of winning
+would affect the outcome of the election.
+(lively jazz music)
+In 1951, Kenneth Arrow
+published his PhD thesis
+and in it he outlined five very obvious
+and reasonable conditions
+that a rational voting system should have.
+Condition number one:
+if everyone in the group
+chooses one option over another,
+the outcome should reflect that.
+If every individual in the group
+prefers to eat sushi over pizza,
+then the group as a whole
+should prefer sushi over pizza.
+This is known as unanimity.
+Condition two: no single person's vote
+should override the
+preferences of everyone else.
+If everyone votes for pizza
+except one person who votes for sushi,
+the group should obviously choose pizza.
+If a single vote is decisive,
+that's not a democracy,
+that's a dictatorship.
+Condition three: everyone should be able
+to vote however they want
+and the voting system must
+produce a conclusion for society
+based on all the ballots, every time.
+It can't avoid problematic ballots
+or candidates by simply ignoring them
+or just guessing randomly,
+it must reach the same answer
+for the same set of ballots every time.
+This is called unrestricted domain.
+Condition four: the voting
+system should be transitive.
+If a group prefers burgers over pizza
+and pizza over sushi,
+then they should also
+prefer burgers over sushi.
+This is known as transitivity.
+Condition five: if the
+preference of the group
+is sushi over pizza,
+the introduction of another
+option, like burgers,
+should not change that preference.
+Sure, the group might collectively
+rank burgers above both
+or in the middle or at the bottom,
+but the ranking of sushi over pizza
+should not be affected by the new option.
+This is called the independence
+of irrelevant alternatives.
+But here's the thing, Arrow
+proved that satisfying all five
+of these conditions in
+a ranked voting system
+with three or more
+candidates is impossible.
+This is Arrow's Impossibility Theorem,
+and it was so groundbreaking
+that Arrow was awarded the Nobel
+Prize in Economics in 1972.
+So I wanna go through
+a version of his proof
+based on a formulation by Geanakoplos.
+So let's say there are
+three candidates running for election:
+Aristotle, Bohr, and Curie,
+but we'll refer to them as A, B, and C,
+and we have a collection of voters
+that we'll line up in order.
+So we have voter 1, 2, 3, and
+so on all the way up to N.
+Each of these voters
+is free to rank A, B
+and C however they like.
+I'll even allow ties.
+And the first we wanna show
+is that if everyone ranks
+a particular candidate first or last,
+then society as a whole
+must also rank that
+candidate first or last.
+Let's arbitrarily pick candidate B.
+If say half of the voters rank B first
+and half rank B last, then the claim is
+our voting system must
+put B either first or last
+and we'll prove it by contradiction.
+So say this is how everyone voted.
+If our system does not
+put B first or last,
+but rather in the middle,
+say A is ranked above B,
+which is above C, then
+we'll get a contradiction.
+Because if each of our
+voters moved C above A,
+then by unanimity, C
+must be ranked above A.
+However, because we
+didn't change the position
+of any A relative to B,
+A must still be ranked above B
+and because we didn't change the position
+of any C relative to B, C
+must still be ranked below B,
+and by transitivity,
+if A is preferred to B
+and B is preferred to C,
+then A must be ranked above C.
+But this contradicts
+the result by unanimity
+and that proves that if everyone ranks
+a candidate first or last,
+then society must also
+rank them first or last.
+Now let's do a thought experiment
+where every voter puts B at
+the bottom of their ranking,
+we'll leave the ranking
+of A and C arbitrary.
+Well then, by unanimity,
+we know that B must be at the
+bottom of society's ranking
+and we'll call this setup Profile 0.
+Now we'll create Profile 1
+which is identical to Profile 0
+except the first voter moves
+B from the bottom to the top.
+This, of course, doesn't
+affect the outcome,
+but we can keep doing this
+creating Profiles 2, 3, 4, and so on
+with one more voter flipping B
+from the bottom to the top each time.
+If we keep doing this, there
+will eventually come a voter
+whose change from having B
+at the bottom to B at the top
+will first flip society's
+ranking, moving B to the top.
+Let's call this voter the pivotal voter
+and we'll label the Profile p.
+Profile o is then the profile
+right before the pivotal change happens.
+Let's now create a Profile
+q, which is the same as p,
+except the pivotal voter moves A above B.
+By independence of
+irrelevant alternatives,
+the social rank must also put A above B.
+Since for all of our voters,
+the relative position of A and B
+is the same as it was in Profile o,
+and B must be ranked above C
+because the relative positions
+of B and C are the same
+as they were in Profile p,
+where our pivotal voter
+moved B to the top.
+By transitivity A must be ranked above C
+in the social ranking.
+This is true regardless
+of how any of the
+non-pivotal voters rearrange
+their positions of A and C,
+because these rearrangements don't change
+the position of A relative
+to B or C relative to B.
+This means the pivotal
+voter is actually a dictator
+for determining society's
+preference of A over C.
+The social rank will always
+agree with the pivotal voter
+regardless of what the other voters do.
+We can run a similar thought experiment
+where we put C at the bottom
+and prove that there is again, a dictator,
+who in this case determines
+the social preference of A over B.
+And it turns out this
+voter is the same one
+who determines the social
+preference for A over C.
+The pivotal voter is
+therefore a complete dictator.
+(dark music)
+So is democracy doomed?
+Well, Arrow's impossibility
+theorem seems to say so.
+If there are three or more
+candidates to choose from,
+there is no ranked-choice method
+to rationally aggregate voter preferences.
+You always need to give something up.
+(hopeful music)
+But the mathematician, Duncan Black,
+found a much more optimistic theorem
+which might actually
+represent reality better.
+If voters and candidates
+are naturally spread
+along a single dimension,
+say ranging from liberal on the left
+to conservative on the right,
+but this could apply to any
+other political dimension.
+Well, then Black showed
+that the preference
+of the median voter will
+reflect the majority decision.
+The median voter's choice
+will often determine the
+outcome of the election,
+a result that aligns with
+the majority of voters,
+avoiding the paradoxes
+and inconsistencies highlighted by Arrow.
+And there's more good news.
+Arrow's Impossibility Theorem only applies
+to ordinal voting systems,
+ones in which the voters
+rank candidates over others.
+There is another way:
+rated voting systems.
+The simplest version is
+known as approval voting
+where instead of ranking the candidates,
+the voters just tick the
+candidates they approve of.
+There are also versions
+where you could indicate
+how strongly you like each candidate,
+say from -10, strongly disapprove of,
+to +10, strongly approve.
+Research has found
+that approval voting
+increases voter turnout,
+decreases negative campaigning
+and prevents the spoiler effect.
+Voters could express their
+approval for a candidate
+without worrying about the size
+of the party they're voting for.
+It's also simple to tally,
+just count up what
+percentage of the voters
+approve of each candidate
+and the one with the
+highest approval wins.
+Kenneth Arrow was initially skeptical
+of rated-voting systems,
+but toward the end of his life,
+he agreed that they were
+likely the best method.
+Approval voting is not new.
+It was used by priests in the Vatican
+to elect the Pope between 1294 and 1621.
+It's also used to elect
+the Secretary General
+of the United Nations,
+but it hasn't been widely
+used in large-scale elections.
+And so more real-world
+testing is likely required.
+(mellow music)
+So is democracy mathematically impossible?
+Well, yes, if we use ranked
+choice methods of voting,
+which is what most
+countries in the world use
+to elect their leaders.
+And some methods are clearly better
+at aggregating the people's
+preferences than others,
+the use of first past the post voting
+feels quite frankly ridiculous to me,
+given all of its flaws.
+But just because things aren't perfect
+doesn't mean we shouldn't try.
+Being interested in the world around us,
+caring about issues,
+and being politically
+engaged is important.
+It might be one of the few ways
+we can make a real
+difference in the world.
+Like Winston Churchill said,
+"Democracy is the worst form of government
+except for all the other
+forms that have been tried."
+Democracy is not perfect, but
+it's the best thing we've got.
+The game might be crooked, but
+it's the only game in town.
+(static buzzes and whines)
+The world is changing.
+How it works today is no guarantee
+of how it'll work tomorrow
+from how we elect presidents
+to how we do our jobs.
+Luckily, there's an easy way to be ready
+for whatever the future holds
+by expanding your knowledge
+and critical thinking skills
+a little bit every day.
+And you can get started
+doing that right now for free
+with today's sponsor: Brilliant.
+Brilliant will make you a better
+thinker and problem solver
+while helping you build real skills
+in everything from math and data analysis
+to programming and AI,
+whatever it is that you're curious about.
+On Brilliant you'll
+learn through discovery
+by trying things out for yourself,
+and you'll not only gain
+knowledge of key concepts,
+you'll learn to apply them
+to real-world situations.
+Learning a little every day
+is one of the most
+important things you can do,
+and Brilliant is the perfect way to do it
+with thousands of bite-sized
+lessons that take just minutes.
+Now, thinking about
+elections for this video
+led me to revisit some of their courses
+on probability and statistics.
+They're a great on-ramp to learning
+how we use data to make predictions.
+Plus, they get you hands-on with real data
+and even let you run simulations
+for things like who
+will win the World Cup.
+And the best part about Brilliant is
+you can learn from anywhere
+right on your phone.
+So whenever you have a few minutes,
+you can be building a
+quicker, sharper mind.
+To try everything Brilliant has to offer
+for free for 30 days,
+visit brilliant.org/veritasium
+or scan this QR code
+or click that link down
+in the description.
+You will also get 20% off an
+annual Premium subscription.
+So I want to thank Brilliant
+for supporting the show
+and I want to thank you for watching.

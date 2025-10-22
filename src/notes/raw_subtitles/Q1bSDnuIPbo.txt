@@ -1,0 +1,624 @@
+This video is sponsored by KiwiCo,
+more about them at the end of the show.
+This is a picture of the
+supermassive black hole
+at the center of our Milky Way galaxy
+known as Sagittarius A*.
+The black hole itself doesn't emit light
+so what we're seeing is the
+hot plasma swirling around it.
+This is only the second
+picture of a black hole ever.
+It was taken by the Event
+Horizon Telescope collaboration,
+the same people who brought you this image
+of the supermassive black hole
+at the center of galaxy M87.
+Now, their original plan was
+to image Sagittarius A* first.
+Since it's in our own galaxy,
+it is 2,000 times closer than M87*,
+but it's also over 1,000 times smaller
+so from Earth, it appears only
+slightly larger than M87*.
+And there are a number
+of additional challenges to observing it.
+First of all, there is
+a lot of dust and gas
+between us and the center of our galaxy
+so you can't even see
+it with visible light.
+In this video from the
+European Southern Observatory,
+we zoom in on our Galaxy's core.
+As we get closer and closer,
+at some point we have to
+switch over to infrared light
+which can better penetrate the debris,
+allowing us to see it from Earth.
+Over the past three decades,
+we've been able to peer into
+the heart of the Milky May
+and witness something truly amazing.
+A collection of stars zipping around
+on all kinds of eccentric orbits.
+They go incredibly fast.
+One of the stars was clocked
+going 24 million meters per second.
+That's 8% the speed of light.
+All these stars appear
+to be orbiting something
+incredibly massive and compact,
+but this object isn't
+glowing brightly like a star.
+If you watch closely, you can
+see it flicker now and then.
+This is what we believe to
+be a supermassive black hole.
+From the motion of the stars around it,
+we can infer that the black hole's mass
+is about 4 million times that of our Sun
+but all crammed down into a
+tiny point, the singularity.
+Anything including light that comes
+within a Schwarzschild
+radius of this point
+can't escape and ends
+up in the singularity.
+So for us to see any
+radiation from the black hole,
+it must come from further out than this,
+usually from superheated
+plasma as it falls in.
+But for its size,
+Sagittarius A* doesn't
+consume much matter.
+It's unusually quiet and dark.
+The supermassive black hole at the center
+of M87 in contrast is much more active,
+gobbling up matter from
+its accretion disk.
+Plus, since it's over 1,000 times bigger,
+it takes 1,000 times longer
+for objects to orbit it.
+And that means from Earth,
+its appearance over time
+is more consistent in
+contrast to Sagittarius A*
+where things can change
+on the order of minutes.
+These visualizations are
+from Luciano Rezzolla
+and colleagues at Goethe
+University Frankfurt.
+But the biggest challenge
+of all in making an image
+of either supermassive black
+hole is that these objects
+are so compact and so far from Earth,
+in the sky, they appear very, very tiny.
+To get a sense of just how tiny,
+take the whole sky and
+divide it into 180 degrees.
+The Andromeda galaxy
+spans about three degrees.
+Then divide one degree into 60 arcminutes
+and one arc minute into 60 arcseconds.
+Divide an arcsecond into 100,
+into a 100 again and into 100 once more.
+And this is the size of
+the black holes on the sky.
+It's equivalent to taking a
+picture of a donut on the moon.
+Now, there is no optical
+telescope on Earth
+that could produce such an image.
+So in this video, I wanna
+answer two questions.
+How did they do it?
+And what are we actually looking at?
+So starting with,
+how did they make these
+images of black holes?
+Well, the first thing to know
+is they weren't made with visible light.
+They were made using radio waves
+with a wavelength of 1.3 millimeters.
+So all the observations were
+taken by radio telescopes
+which essentially look
+like huge satellite dishes.
+When a source emits radio
+waves, they travel out radially
+in all directions, but
+Earth is so far away
+that by the time they reach our planet,
+the wavefronts are almost
+completely flat and parallel.
+This is known as a plane wave.
+A radio telescope works
+by scanning back and forth across the sky.
+When it is pointed
+directly at a radio source,
+it produces a bright spot.
+That's because all the radio
+waves travel the same distance,
+bounce off the dish, and are
+received at the same time
+so they are in phase meaning
+peaks line up with peaks
+and troughs with troughs.
+They constructively interfere.
+As the telescope moves past the source,
+some of the radio waves now
+travel farther than others
+and therefore they meet up out of phase,
+destructively interfere,
+and the intensity of the
+signal drops to zero.
+To make a sharp image,
+you want this drop off
+to be as steep as possible
+so the telescope produces peak intensity
+only when aimed directly at the source
+and then the intensity drops rapidly
+when the dish is moved just
+a tiny bit in any direction.
+There are two ways of achieving this.
+One is to observe higher
+frequency radio waves.
+That way any slight
+movement of the telescope
+represents a greater
+fraction of a wavelength.
+This causes destructive
+interference to occur sooner.
+The other way is to increase
+the diameter of the telescope,
+and this increases the
+difference in path length
+between radio waves on
+opposite sides of the telescope
+for a given angular adjustment.
+How narrowly a telescope
+can identify the source of radio waves
+is known as its angular resolution.
+You can think of it as the
+size of the spot on the sky
+that the telescope is sensitive to.
+It is proportional to wavelength,
+and inversely proportional to
+the diameter of the telescope.
+The challenge with making
+a picture of a black hole
+is that you're trying to see the structure
+in a tiny area of the sky.
+Imagine scanning a radio telescope
+across the center of a black hole.
+You would want to see the bright spot
+as the telescope passes over the left edge
+and then a dark spot and
+then another bright spot
+as it passes the right edge.
+The problem is, for any individual
+radio telescope on Earth,
+the angular resolution is too large.
+So as it passes over the black hole,
+it would still be receiving
+radio waves from the left side
+as it begins receiving radio
+waves from the right side.
+The resolution isn't high enough
+to tell if there's a ring structure there
+as we'd expect with a black
+hole, or if it's just a blob.
+Observing at shorter wavelengths
+isn't really an option
+because that light is blocked
+either by our atmosphere
+or by the matter around the black hole.
+So if you wanna improve resolution,
+the only way you can do it
+is by increasing the
+diameter of the telescope.
+But if you actually do the calculation,
+you find that the telescope you'd need
+would have to be the size of the Earth
+in order to see the ring of a black hole,
+which is obviously impossible,
+but there is a way to do
+something that's almost as good.
+You don't need a complete
+dish the size of the Earth,
+just pieces of it.
+Individual radio telescopes
+that are separated by distances
+up to the Earth's diameter.
+As long as you can properly
+combine the signals
+from all these distant telescopes,
+you get the constructive
+and destructive interference required
+to achieve the same angular resolution
+as an Earth-sized dish.
+This technique is called very
+long baseline interferometry.
+So the event horizon telescope
+is not just one telescope
+but a global network
+of radio observatories.
+All these telescopes
+observe Sagittarius A* at the same time.
+Unlike a single telescope,
+you can't bounce all the radio
+waves to a central receiver
+and add them up in real time.
+So instead each telescope records
+the signal at its location
+and the exact time down
+to the femtosecond.
+Petabytes of data are generated.
+But now that data needs
+to be brought together,
+and the fastest way to do it
+was actually to carry hard
+drives as hand luggage
+to centralized locations.
+Now, think about the data we've got.
+Electrical signals and precise timings
+from a number of radio
+telescopes around the world,
+but none of those radio telescopes
+has enough angular resolution
+to see the ring of the black hole.
+So how do you combine that data
+and get finer detail
+than any of the inputs?
+Well, there is additional information
+in the relative distances
+between these telescopes
+and in the time delays
+between when a wavefront
+hits one telescope relative to the others.
+Imagine combining the signals
+from two distant telescopes.
+Let's say they both received
+the same wave at the same time
+so those waves were coming in phase.
+Well, then the source
+must have been located
+directly between them.
+The radio waves would've
+traveled the same distance
+to each telescope to
+arrive at the same time,
+except with just two telescopes,
+that only narrows it
+down to a line in the sky
+that is equidistant from both telescopes.
+The source could have been
+anywhere on that line.
+And it's actually worse than that.
+It's possible that the source
+could be exactly one wavelength closer
+to one of the telescopes
+and that way the radio waves
+would still arrive perfectly in phase.
+Or the difference could be two or three
+or four wavelengths,
+but you get the point.
+So from one pair of telescopes,
+the information we get
+about the source is actually a series
+of bright and dark fringes.
+Telescopes that are close
+together produce wide fringes,
+while those that are far
+apart produce narrow fringes.
+So to make an image, you
+need pairs of telescopes
+at all different orientations
+and different distances apart.
+Each pair makes a different
+interference pattern.
+And then by combining all these patterns,
+we get an image of the black
+hole which created them.
+But now that we have this picture,
+what exactly is it showing us?
+Well, this is how I explained it
+when the first image of a
+black hole was released.
+So here is my mock black hole of science.
+And this sphere represents
+the event horizon.
+Once you're inside here,
+there is no coming back,
+not even for light.
+The radius of the event horizon
+is known as the Schwarzschild radius.
+Now, if we were just
+to look at a black hole
+with nothing around it,
+we would not be able
+to make an image like this because, well,
+it would just absorb all
+electromagnetic radiation
+that falls on it, but the black
+hole that they're looking at
+has matter around it in an accretion disk.
+In this accretion disk,
+there is dust and gas
+swirling around here very chaotically.
+It's incredibly hot. We're
+talking millions of degrees.
+And it's going really fast,
+a significant fraction
+of the speed of light.
+And it's this matter that
+the black hole feeds off
+and gets bigger and bigger over time,
+but you'll notice that the accretion disk
+does not extend all the way
+in to the event horizon.
+Why is that?
+Well that's because there is
+an innermost stable circular orbit,
+and for matter around a
+non-spinning black hole,
+that orbit is at three
+Schwarzschild radii.
+Now, in all likelihood, the black hole
+at the center of our
+galaxy will be spinning.
+But for simplicity,
+I'm just considering
+the non-spinning case.
+You can see my video
+on spinning black holes
+if you wanna find out more about that.
+So this is the innermost orbit
+for matter going around a black hole.
+If it goes inside this orbit,
+it very quickly goes into
+the center of the black hole
+and we never hear from it
+again, but there is something
+that can orbit closer to the
+black hole, and that is light.
+Because light has no mass,
+it can actually orbit
+at 1.5 Schwarzschild radii.
+Now here, I'm representing it with a ring,
+but really this could
+be in any orientation.
+So it's a sphere of photon orbits.
+And if you were standing there,
+of course you could never go there,
+but if you could, you could look forward
+and actually see the back of your head
+'cause the photons could go
+around and complete that orbit.
+Now, the photon sphere
+is an unstable orbit
+meaning eventually either
+the photons have to spiral
+into the singularity or spiral
+out and head off to infinity.
+Now, the question I want to answer is,
+what does this black, quote
+unquote, shadow in the image
+correspond to in this picture
+of what's actually going
+on around the black hole?
+Is it the event horizon? Are
+we simply looking at this?
+Or is it the photon sphere
+or the innermost stable, circular orbit?
+Well, things are complicated.
+And the reason is, this
+black hole warps space-time
+around it which changes
+the path of light rays
+so they don't just go in straight lines
+like we normally imagine that they do.
+I mean, they are going in straight lines,
+but space-time's curved so
+yeah, they go in curves.
+So the best way to think of this
+is maybe to imagine parallel
+light rays coming in
+from the observer and
+striking this geometry here.
+Of course, if the parallel light rays
+cross the event horizon,
+we'll never see them
+again so they're gone.
+That will definitely be a dark region,
+but if a light ray comes in
+just above the event horizon,
+it too will get bent and end
+up crossing the event horizon.
+It ends up in the black hole.
+Even a light ray coming
+in the same distance away
+as the photon sphere will
+end up getting warped
+into the black hole and curving
+across the event horizon.
+So in order for you to get a parallel ray
+which does not end up in the black hole,
+you actually have to
+go out 2.6 radii away.
+If a light ray comes in 2.6
+Schwarzschild radii away,
+it will just graze the photon sphere
+at its closest approach and
+then it will go off to infinity.
+And so the resulting shadow
+that we get looks like this.
+It is 2.6 times bigger
+than the event horizon.
+And you say, what are we
+really looking at here?
+What is this shadow?
+Well in the center of
+it is the event horizon.
+It maps pretty cleanly onto
+the center of the shadow.
+But if you think about it,
+light rays going above or below
+also end up crossing the event horizon,
+just on the backside.
+So in fact, what we get
+is the whole backside
+of the event horizon mapped
+onto a ring on this shadow.
+So looking from our one point
+in space at the black hole,
+we actually get to see the entirety
+of the black hole's event horizon.
+I mean, maybe it's silly
+to talk about seeing it
+because it's completely black,
+but that really is where the points
+would map to on this shadow.
+It gets weirder than that
+because the light can come in
+and go around the back and,
+say, get absorbed in the front,
+you get another image of the
+entire horizon next to that
+in another annular ring
+And then another one after that
+and another one after that.
+And you get basically infinite
+images of the event horizon
+as you approach the edge of this shadow.
+So what is the first
+light that we can see?
+It is those light rays that
+come in at just such an angle
+that they graze the photon sphere
+and then end up at our telescopes,
+and they produce a shadow
+which is 2.6 times the
+size of the event horizon.
+So this is roughly what we'd see
+if we happen to be looking perpendicular
+to the accretion disk, but
+more likely we will be looking
+at some sort of random
+angle to the accretion disk.
+We may be even looking edge on.
+And in that case, do we see
+this shadow of the black hole?
+You might think that we
+wouldn't, but the truth is
+because of the way the
+black hole warps space time
+and bends light rays,
+we actually see the back
+of the accretion disk.
+The way it works is light rays
+coming off the accretion disk
+bend over the top and end
+up coming to our telescopes.
+So what we end up seeing is
+something that looks like that.
+Similarly, light from the
+bottom of the accretion disk
+comes underneath, gets bent
+underneath the black hole
+and comes towards us like that.
+And this is where we get an
+image that looks something
+like the interstellar black hole.
+(dramatic music)
+It gets even crazier than this
+'cause light that comes off the top
+of the accretion disk here
+can go around the back of the black hole,
+graze the photon sphere, and
+come out the bottom right here
+producing a very thin ring
+underneath the shadow.
+Similarly, light from
+underneath the accretion disk
+in the front can go
+underneath and around the back
+and come out over the top,
+which is why we see
+this ring of light here.
+This is what we could see
+if we were very close to the black hole,
+something that looks truly spectacular.
+One other really important
+effect to consider
+is that the matter in this accretion disk
+is going very fast, close
+to the speed of light.
+And so if it's coming towards us,
+it's gonna look much brighter
+than if it's going away.
+That's called relativistic
+beaming or Doppler beaming.
+And so one side of this accretion disk
+is going to look much
+brighter than the other,
+and that's why we're gonna see
+a bright spot in our image.
+So hopefully this gives you an idea
+of what we're really looking at
+when we look at an image of a black hole.
+(outro sounds)
+Hey, this video was sponsored by KiwiCo,
+creator of awesome
+hands-on projects for kids.
+You know, I've used KiwiCo
+with my own kids for years.
+They have nine different
+subscription lines
+targeted at different age groups,
+all the way down to newborns.
+The way it works is every month
+a box shows up at your door
+and inside it is everything you need
+to complete the project.
+That means no extra trips to the store.
+And when I show my kids the box,
+they jump at the chance
+to make it with me,
+and we can spend hours building something,
+playing with it, and learning
+about STEAM concepts together.
+There really is no substitute
+for getting your hands dirty
+and making something to figure
+out how it actually works.
+Plus, it's a ton of fun.
+And to me, that's how learning should be.
+I want my kids to
+approach learning as play.
+And I have seen how this
+fosters their curiosity
+and sparks new ideas.
+KiwiCo have been long-time
+supporters of the channel.
+I've visited their
+offices, which really seem
+like a giant playground
+for adults like me.
+And I've met their
+expert project designers
+and seen how thoroughly they
+test and iterate their designs.
+Now, for viewers of this channel
+KiwiCo are offering 30% off
+your first month of any kit.
+Just go to kiwico.com/veritasium30.
+I will put that link
+down in the description.
+So I wanna thank KiwiCo
+for supporting Veritasium,
+and I wanna thank you for watching.

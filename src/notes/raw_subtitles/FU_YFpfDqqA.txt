@@ -1,0 +1,616 @@
+- [Derek] The modern era of electronics
+began with the light bulb
+but not in the way you might think.
+Early light bulbs consisted
+of a carbon filament
+sealed inside a glass bulb
+with a vacuum inside.
+When a potential difference was
+applied across the filament,
+current flowed through it,
+heating it up to over 2000 Kelvin,
+so hot that it glowed.
+If there had been much oxygen in the bulb,
+the filament would've burned immediately.
+That was the reason for the vacuum.
+But from the perspective of electronics,
+the real breakthrough came
+from a curious observation
+made by Thomas Edison.
+He saw that over a bulb's lifetime,
+the glass became discolored,
+turning yellow, and then brown,
+but only on one side.
+So what was going on?
+Well, the heated filament
+emits not only light and heat
+but also electrons.
+You can think of them being
+boiled off the surface
+of the carbon.
+This phenomenon, known
+as thermionic emission,
+had twice been discovered independently
+by other scientists up
+to 27 years earlier.
+But after Edison, it became widely known.
+In fact, for a time,
+the emission of electrons
+off a hot filament
+was called the Edison effect.
+Now, these electrons floating
+around were unobstructed
+because they're in a vacuum.
+But since there was a potential difference
+across the wires that led to the filament,
+the electrons were attracted
+to the positive wire.
+So they accelerated towards it
+and most would whizz straight past it
+and crash into the glass,
+over time discoloring it
+only on the positive side.
+I should note that Edison
+was using DC electricity.
+If he had been using AC,
+then both sides would've been discolored.
+But it was this observation
+that set the scene
+for an electronics revolution,
+and eventually the
+first digital computers.
+In 1904, John Ambrose
+Fleming patented a device
+that was very similar
+to Edison's light bulb,
+but with one important addition:
+a second electrode in the bulb.
+By charging this plate positively
+with respect to the filament,
+electrons could be
+accelerated across the gap,
+completing the circuit.
+But if the plate were slightly negative
+relative to the filament,
+then it would repel electrons
+and no current would flow.
+Fleming called his device a
+one-way street for electricity.
+Since only one of the
+electrodes was heated,
+electrons could only flow
+from there to the plate
+and not the other way around.
+The device was called a thermionic diode
+and it was used initially
+for detecting radio signals
+but it could also convert
+alternating current to direct current.
+Scientists quickly realized
+that a more efficient design
+had the filament in the center
+and the other electrode
+to the plate or anode
+as a cylinder surrounding it.
+This geometry captured
+more of the electrons
+coming off the filament
+and allowed for larger currents to flow.
+-  Oh, there she goes.
+- [Derek] With just one of these diodes,
+you could convert AC
+into a bumpy kind of DC.
+But combining a few diodes and a capacitor
+led to a fairly steady direct current,
+and this was a big deal.
+It was the first practical
+vacuum tube device
+and the model for all vacuum tubes
+that would dominate the industry
+for the next half century.
+In the early 1900s,
+the big problem in
+electronics was amplification.
+Radio had just been invented
+but its range was limited
+by the lack of reliable equipment
+that could boost weak signals.
+Similarly, telephone calls were limited
+to at most 1300 kilometers
+because by that point,
+the signal was two faint to hear.
+Rudimentary form of
+amplification had been built
+for telegraph operation called the relay.
+In a relay, there is an electromagnet.
+And when current flows
+through that electromagnet,
+it attracts a switch,
+turning on a second circuit.
+But when the current through
+the electromagnet stops,
+the switch is released
+and the second circuit is open again.
+This device works well for amplifying
+the dots and dashes of Morse
+code along a telegraph line
+but its binary output means it's incapable
+of amplifying the complex
+and analog signals
+of phone calls and radio waves.
+And that's why it was such
+a breakthrough in 1906
+when Lee de Forest took the diode
+and added another electrode into the bulb.
+This electrode wasn't
+a solid piece of metal
+but rather a sparse wire mesh
+and it was positioned in
+between the filament or cathode
+and the anode.
+With three electrodes,
+it was called a triode.
+Now, a large potential
+difference could be applied
+across the anode and cathode
+but the number of electrons
+that actually flowed between them
+was controlled by the voltage on the grid,
+as this new electrode was known.
+If the grid were slightly
+negatively charged,
+it repelled electrons from the filament
+so that none could flow
+through to the anode.
+But if the grid were slightly positive,
+then electrons were attracted
+away from the filament
+and most of them would pass
+through the holes in the grid,
+and then accelerate to the anode.
+So in this way, a small
+change in voltage on the grid
+can control a huge voltage at the anode
+and the response is rapid.
+So you can get high
+frequency amplification.
+I like to think of it
+as standing at the top of a high cliff,
+opening and closing a
+valve on a big water pipe.
+I mean, it doesn't take much
+energy to turn the valve
+but that small input is converted
+into a huge output of water
+falling down the cliff.
+- [Derek] You're powering
+up this track here.
+- [David] Warming up, you
+can see it warming up there.
+- [Derek] So the yellow is the input?
+- [David] Yellow is the input.
+Purple is the output.
+We have essentially a two-volt change
+on the input giving us, what is this?
+Five volts, so five, 10,
+15-volt change on the output.
+- [Derek] For this demonstration,
+we were only using 24 volts on the anode.
+If we had used a higher voltage,
+we could have got a lot more amplification
+and people did.
+This was the device that allowed us
+to call long distance for the first time.
+Using vacuum tubes,
+the first transcontinental call
+from New York to San Francisco
+took place on the 25th of January, 1915.
+- [Derek] Whoa.
+- [David] Yeah, there we go,
+should be 10 volts.
+- [Derek] It's hard to see the grid here
+because just like with
+the cylindrical diode,
+the best configuration for a triode
+is to have a cylindrical configuration.
+The anode is on the outside,
+the grid is cylindrically inside that,
+and the cathode or
+filament is in the center.
+The invention of the triode
+was incredibly important.
+Radios, TVs, whatever
+electronics people had
+were powered by vacuum tubes.
+You would've had so many in your house
+even up until the 1960s and '70s.
+But vacuum tubes weren't done
+revolutionizing electronics.
+In his 1937 thesis,
+Claude Shannon found a connection
+between electric circuits
+and a branch of mathematics
+known as Boolean algebra.
+Working in the mid-1800s,
+George Boole was trying to find
+a mathematical foundation for logic.
+Under his system,
+a true statement was represented
+as a 1 and a false statement as a 0.
+And Boole also developed
+a few operations like AND.
+If both statements A and B were true,
+then the output would also be true.
+What Shannon realized is
+that Boole's operations
+could be represented
+as electronic circuits,
+that there was an equivalence
+between mathematical statements
+and electric circuits.
+All you needed to realize these
+circuits in the real world
+were a couple switches.
+That same year, 1937,
+George Stibitz built the
+first digital calculator.
+It could add two 1-bit binary numbers.
+That is it could add two numbers
+so long as they were either 0 or 1.
+The calculator worked using a relay,
+that electromechanical
+switch from telegraphy.
+There were two inputs.
+If they were left open, the input was 0.
+If closed, it was a 1.
+The output was shown with two light bulbs.
+If no lights were on,
+the answer was 0.
+If the output light was on,
+the answer was 1.
+And if the carry light was on,
+the answer was a 2.
+The circuit diagram works like this.
+If neither switch A or B is closed,
+so adding 0 + 0,
+then no current flows through the circuit
+and no light bulb would light up.
+But if input A was closed,
+the current would flow
+through the solenoid,
+creating a magnetic field
+that pulls the switch inside it closed,
+and this connects the
+output light bulb to power
+and disconnects the carry light bulb.
+So the output light bulb lights up,
+meaning that the answer is 1.
+And the same thing would happen
+when input B was closed and A was open.
+But if you closed both
+A and B simultaneously,
+then there is no current
+flowing through the solenoid
+but there would be a current flowing
+from the battery connected to A,
+which is connected to
+the carry light bulb.
+So it lights up indicating 1 + 1 equals 2.
+This is the beginning of the digital age,
+and no it was not glamorous.
+Stibitz built his device
+out of a few batteries,
+light bulbs, and relays
+he had lying around.
+And for the inputs, he
+cut up a tin of tobacco.
+He built it in one night
+at his kitchen table
+which is why it became
+known as the Model K.
+The circuit that Stibitz built
+is now called a half adder.
+But if you look at the circuit
+through the eyes of Claude Shannon,
+you realize it's actually
+a pair of logic gates.
+The output light bulb should turn on
+when either A or B, but
+not both, are closed,
+so this is known as an exclusive OR gate.
+Whereas the carry light
+bulb should only turn on
+when both A and B are closed,
+so this is an AND gate.
+This circuit uses electrical versions
+of Boolean operators, XOR and AND.
+And it's possible to build
+other Boolean operators
+as electronic gates
+for things like OR, NOR, and NAND.
+And you might say, what's the big deal?
+I mean, the big deal is
+that you just tricked
+a bunch of electrons
+into doing math for you.
+Sure, it's very simple math,
+but you could connect a bunch
+of these half adders together
+and build more and more
+complicated circuits
+that could do more complex math,
+which is exactly what Stibitz
+and his colleagues at Bell Labs did.
+Two years later, they built the model I,
+which had more than 400 relays
+and could add two eight
+digit numbers together
+in a 10th of a second.
+It could also multiply eight digit numbers
+and do multiplication of complex numbers,
+though these more complicated
+operations took longer,
+about a minute per calculation.
+- So you put a voltage through a coil
+and it'll turn that switch on or off.
+So you've got your two operands here.
+And if you wanna add two numbers together,
+so 2 is this,
+3 is this, right?
+So 1, 0 is 2.
+- [Derek] Yeah.
+- [David] And 1, 1 is 3.
+And so then when you want to calculate it,
+you just hit the go button down here.
+We get 101.
+- [Derek] I love the sound of that.
+That is amazing.
+- It's magical, so if
+you wanna do like say,
+8 plus, that would be 4
+so 8 + 8, I think, right?
+- [Derek] Okay.
+- [David] Yeah, 8 + 8,
+that would be, 16, no,
+it clears it on its own.
+- [Derek] Okay.
+- [David] There you go.
+Eight plus eight is 16 in binary,
+which would be 1 0 0 0 0.
+(machine clacking)
+This is essentially a
+1-bit arithmetic unit.
+There's no logic functions.
+It only ever does add.
+Now, let's say we wanna do 5 - 2,
+the answer's gonna be 3.
+So we flip this little switch here
+that lets me know that I'm
+doing a subtraction operation
+and we do subtraction
+by doing 2's complement.
+So essentially what we're doing
+is we're inverting one of the operands
+and we're adding one.
+So now when I run it,
+(machine clacking)
+we can see 5 - 2 is equal to 3,
+so 2 and 1 is 3.
+Now, because of the way that we do this,
+the final carry flag
+ends up getting illuminated
+here on the end.
+But if we know that we're
+doing a subtraction operation,
+we know that this final carry flag
+is never going to be on otherwise.
+- [Derek] Over the next 10 years,
+they built six more
+computers based on relays
+which were used by the US military
+and the National Advisory Committee
+for Astronautics or NACA,
+which later would become NASA.
+But even by the early 1940s,
+it was clear that the
+mechanical nature of the relay,
+the physical closing and
+opening of the switches,
+was too slow to be the future of computers
+and they were also prone to breaking.
+- Anytime you have
+something that's mechanical,
+it's gonna wear down.
+Every time that relay switches,
+there's a little bit of friction
+on the rotation point inside of there
+and there's contacts
+that are making and breaking
+electrical connections,
+and those are gonna wear out.
+- [Derek] And all the
+relays opening and closing
+meant that the computers
+were incredibly loud.
+(machine clacking)
+- So it doesn't really work
+in a business environment all that well.
+You can't really stuff it into your office
+that you're gonna drive people insane.
+- [Derek] So what computer
+scientists really needed
+was an electronic switch
+and that is where the
+vacuum tube triode comes in.
+Whoa!
+I mean, sure it can work as an amplifier
+if you put slightly positive
+or negative voltages on the grid,
+but it can also work as a switch.
+If the grid voltage is very negative,
+then no current flows.
+And if the grid voltage is very positive,
+then maximum current flows.
+So a triode can be controlled
+using no moving parts.
+Just a voltage will set it
+to be either a 0 or a 1.
+And best of all, switching between the two
+can be done rapidly with no noise
+since you're just controlling electrons
+zipping around in a vacuum.
+This is the invention that took
+computing to the next level.
+The world's first electronic
+programmable computer
+was called ENIAC
+and it came online for the first time
+on December 10th, 1945.
+It took up a whole room, weighed 30 tons,
+and used 175 kilowatts of power.
+So much that it led to a rumor
+that every time it turned on,
+the lights in Philadelphia,
+where ENIAC was located, would dim.
+Now, that was just a rumor,
+but mainly because ENIAC
+had its own dedicated electrical generator
+to keep up with the enormous power draw.
+Unlike previous computers,
+ENIAC wasn't limited
+to just solving one type
+of mathematical problem.
+It could be programmed and it was fast,
+completing 500 operations per second.
+At the time, the word computers
+still referred to people
+doing calculations with pen and paper.
+So 500 operations per
+second was really fast.
+ENIAC's flexibility and power
+was immediately useful
+for the development of the hydrogen bomb.
+The computations needed were so complex
+that the director of
+Los Alamos at the time
+said that, "It would've been impossible
+to arrive at any solution
+without the aid of ENIAC."
+- This is a hilarious part
+bout having a processor
+that is 1 meter tall
+and 70 centimeters wide,
+is that you can point at
+actual parts of the processor.
+- [Derek] This is what a 1-bit
+vacuum tube computer looks like.
+- [David] Can you feel
+the heat coming off of it?
+- [Derek] I certainly can.
+- [David] I can feel the heat coming off.
+- [Derek] It's getting warm.
+- Well, I mean, 190 vacuum tubes is a lot.
+I think we figured it out.
+This is pulling like 350
+or 400 watts of power
+or something like that,
+which is absurd.
+At night, it's awesome.
+It looks like a city.
+- [Derek] But there were also major flaws
+with vacuum tubes.
+The filaments always needed to be heated,
+so they used a lot of
+power even when idle,
+and they were big.
+It was hard to make a glass vacuum tube
+with complex electrodes
+inside arbitrarily small.
+They were also unreliable.
+On average, a vacuum tube in ENIAC
+broke down every few days.
+And then, it needed to
+be found and replaced.
+The longest that ENIAC
+operated for without failure
+was just 116 hours.
+The first digital computers
+ran on glorified light bulbs.
+That is why they were so big,
+power-hungry, and unreliable.
+The miracle and what has made
+our modern lives possible
+is that someone figured out
+how to perform the same
+trick with electrons
+inside a solid piece of
+material, in silicon.
+But that's a story for another day.
+If you wanna learn about
+how modern computing devices
+store and access information,
+I highly recommend you check out
+this video's sponsor brilliant.org.
+They have courses on everything
+from computer science fundamentals
+to neural networks to quantum computing.
+Their latest interactive course
+is called How Technology Works.
+It includes a lesson on computer memory
+where you can get hands-on with the kinds
+of computational logic gates
+we discussed in this video.
+It also has a lesson that
+delves into the ingenious ways
+video compression makes
+modern day streaming possible,
+so you can watch videos like this one.
+Ever wondered how your
+phone knows where you are?
+There's a lesson on that too.
+There's even a lesson on password theft
+where you can walk in
+the footsteps of a hacker
+to discover why some passwords
+are stronger than others.
+You can try all these out for free
+by going to brilliant.org/veritasium.
+You know, whether it's
+getting a working knowledge
+of modern day technology
+or building skills in math,
+computer science or data science,
+Brilliant is the best way to learn.
+They have thousands of
+bite-sized interactive lessons
+that not only help master key concepts
+but connect what you learn
+to real-world examples.
+And because each lesson is hands-on,
+you'll build real intuition
+so you can put what you've learned to use.
+Now, as we've seen, the
+development of technology
+is an ongoing process
+that constantly reshapes
+the way we interact with
+the world around us.
+Today, it's more important than ever
+to keep up with these changes.
+Who knows what revolutionary
+technology will emerge next?
+But whatever it is, you can rest assured
+that you'll be able to
+learn about it on Brilliant.
+And you can try everything
+Brilliant has to offer for free
+for a full 30 days.
+Just go to brilliant.org/veritasium.
+I will put that link
+down in the description
+and the first 200 of you to sign up
+will get 20% off Brilliant's
+annual premium subscription.
+So I wanna thank Brilliant
+for sponsoring this video
+and I wanna thank you for watching.

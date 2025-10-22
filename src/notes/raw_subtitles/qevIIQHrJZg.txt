@@ -1,0 +1,517 @@
+- This is a robot that can grow
+to hundreds of times its size,
+and it can't be stopped
+by adhesives or spikes.
+Although it looks kind
+of simple and cheap,
+it has dozens of potential applications,
+including, one day maybe saving your life.
+This video is sponsored by Morning Brew,
+the free daily newsletter.
+Now I made a video before
+about a soft truss robot.
+And this is also a soft robot,
+but very different in how
+it works and what it can do.
+These robots can be made
+out of almost any material,
+but they all follow the
+same basic principle.
+Powered by compressed air,
+they grow from the tip.
+(air hissing)
+(object rustling)
+- That's good.
+- And this allows the robot
+to pass through tight spaces,
+and also over sticky surfaces.
+- Something like a car
+will get stuck to it.
+(car winding)
+It gets stuck in the wheels.
+Now, if I do the same
+thing with the vine robot,
+see the robot is able to extend...
+- It can navigate this
+curvy and twisted passageway
+effortlessly,
+which suggests some of the applications
+it's well-suited for.
+Now you might think spikes
+would be the downfall
+of an inflatable robot,
+but even if it's punctured,
+as long as you have
+sufficient air pressure,
+the robot keeps going.
+- And you might be able to hear it.
+(air hissing)
+It's actually leaking now,
+so I'll have to turn up the pressure.
+(object rustling)
+(air hissing)
+This by itself is not yet a robot,
+but once we add steering,
+a camera, some sensors,
+and maybe some intelligence as
+to where we're directing it,
+then we could say it's a robot.
+So this is sort of the
+backbone of our robot.
+This is what allows us to
+build our type of robots.
+- So where did the idea
+for this device come from?
+- I had a vine in my
+office that was on a shelf,
+and it was kind of out of the sunlight.
+And over the course of like a year or so,
+it slowly grew out this tender roll
+out and around the edge of the shelf
+and towards the sunlight.
+I said, "That's a pretty cool
+thing it just did," right?
+So I started thinking,
+"Well is there a way you
+can do that robotically?"
+- The solution is really
+elegant in its simplicity.
+Just take some airtight tubing
+and fold it in on itself.
+It's kind of like a water wiggle,
+those toys that are really hard to hold.
+(air hissing)
+When you inflate it
+with compressed air, it starts
+growing out from the tip.
+And if you want the tube to
+always bend at a certain spot,
+you could just tape the
+tubing on the outside
+to shorten one of the sides.
+For example, you could tape
+it into a helical shape
+to create a deployable antenna.
+What about getting them to retract?
+- Yeah, that's a challenging problem.
+When you're in a constrained environment,
+all you really have to do
+is pull on, we call it the tail,
+so the material that is passing
+through the core of the body,
+you pull on it and it basically ungrows,
+it just goes back inside itself.
+Now, if you're in a big
+open area like this,
+and you try pulling on that,
+instead of inverting, so retracting,
+it tends to kind of coil
+up and make a ugly shape.
+- And the engineers have come up with ways
+to retract the tube to
+prevent it from buckling
+using internal rollers.
+But the two doesn't have
+to be the same diameter
+the whole way along,
+here there's actually
+a much wider section,
+think of it like a pillow
+that's packed into the end of the robot.
+- Yeah, if you could
+sit cross-legged on it.
+- Cross-legged on the table.
+This sounds (groans) super sketchy.
+- So it grows underneath
+the table just as usual,
+and then as the pillow
+part starts inflating,
+(object clattering)
+(man mumbles)
+Is this not good, or is this okay?
+It can actually lift me up.
+So my balance is not great as we can see.
+- You're standing on it.
+- Stand on it?
+- Yeah.
+- What's amazing is that this
+doesn't require much pressure
+above atmospheric,
+just a 10th of an atmosphere
+applied over a large
+area like a square meter
+can lift something as
+heavy as 1000 kilograms,
+all the while remaining soft.
+(object rustling)
+Oh.
+Whoa, (sighs) that was great.
+That's the paradoxical
+thing about pressure.
+You can get a large overall
+force with low pressure
+as long as the area is large enough.
+What sort of area is
+that, that pillow there?
+- It's 600 square inches.
+All right, so with one
+PSI it's 600 pounds.
+- Yeah.
+- Yeah. (laughs)
+- Two PSI is 1200 pounds.
+- That's just crazy.
+And the whole time it feels really soft.
+- Yeah, 'cause there's
+a couple PSI, right?
+- It's important that
+the device is still soft
+so it doesn't hurt anyone.
+- So you can design these things
+to have cross-section that
+changes along its length.
+So it can be a very small body
+that could grow into, for
+example, a collapsed building
+and potentially lift a large object
+off someone who's trapped,
+or maybe in a car crash
+or something like that.
+It can apply huge forces
+with very soft
+(air whooshing)
+and lightweight cheap material.
+- These robots can also be deployed
+in search and rescue operations
+by attaching sensors like
+a camera onto the front.
+- These robots are actually
+really hard to stop.
+So you can take them,
+grow them into a clutter,
+potentially a class building
+or something like that,
+and they will continue to go somewhere.
+And alternative is they're so cheap,
+I mean, they're basically free.
+You could grow a hundred
+of them, let's say,
+into a collapsed building
+with some sensing on them,
+and maybe only one of them finds somebody.
+I mean, that's a huge success if it does.
+- But how do you keep a camera connected
+to the front of the robot when
+it grows out from the tip?
+Well, one way is to use an end cap
+which allows that camera
+just to stay on the front,
+pushed from behind by the robot,
+but there are other
+mechanisms of attachment.
+The tiny wireless camera is
+mounted on an external frame,
+but this frame interlocks
+with an internal frame
+which is actually inside
+the pressurized part
+of the robot body.
+It's similar to how a
+roller coaster's wheels
+go around the track.
+So this prevents the
+camera from falling off
+as the robot grows.
+What's really interesting
+is how the vine robot
+can be actively steered.
+They attach artificial
+muscles to the robot.
+(air hissing)
+So the way this muscle works
+is that if you inflate
+it, it expands sideways,
+which leads to it contracting in length.
+- We don't actually use these much anymore
+because although it's soft,
+it's still somewhat stiff.
+So what we use instead
+are simply tubes of this
+ripstop nylon fabric
+with the braid oriented at 45 degrees.
+So in this sense
+we just have one single
+layer of airtight fabric.
+(air hissing)
+This is the main robot body here,
+then we have three pneumatic
+muscles connected to it.
+Now, these three muscles
+are each connected to their own air supply
+connected to regulators over here.
+As the robot extends from the tip,
+we can steer it by shortening
+and lengthening the sides.
+So, you know, just the way your hand works
+is if I shorten this tendon in my arm
+my hand will move this way,
+or if I shorten the one on this side
+it'll move the other way.
+So our vine robot, we have
+these muscles along its side,
+so as they inflate
+they'll turn it one way,
+then if I deflate the
+one on the other side,
+it'll turn the other way.
+- So the vine robot can
+fit through tight spaces.
+It doesn't typically get stuck on anything
+and isn't bothered by sharp objects.
+And once you attach that
+camera on the front,
+it's ideal for things like archeology.
+(group chattering)
+(objects clanking)
+The robot was actually taken to Peru
+to investigate some very narrow shafts.
+- So we were looking at
+this archeological site
+that was built somewhere
+between 1500 and 500 BC
+in the Andes mountains of Peru,
+and it was an ancient temple
+that had all these underground spaces.
+And part of what the
+archeologists were doing
+was trying to understand
+what the spaces were for
+and what the people who built them
+were trying to do with them.
+So part of that was unknown,
+but there were these giant rooms
+that they called galleries,
+and then there were these
+small ducts or tunnels
+that were offshoots of these rooms,
+and they wanted to know
+where these ducts led
+but they were too small
+for a person to go in.
+So we were able to
+successfully use the vine robot
+to explore three of the tunnels
+that couldn't have been
+seen through other means,
+which was super exciting.
+And we got video inside the entire tunnels
+and gave it to the archeology team.
+- There's an application
+where I feel like this
+solution is just so obvious
+I wonder why it didn't exist before.
+- Intubation is literally
+the process of putting a tube
+into a patient.
+The purpose is to breathe for the patient
+when the patient isn't breathing.
+And so traditionally a highly
+trained medical professional
+would take their laryngoscope,
+come above the patient,
+and once they see the trachea,
+you start to pass your tube down inside.
+I'm almost there, I can see the light.
+So if you can see right now
+I just got it in to the trachea.
+- Oh yeah.
+- Right there.
+And it took me a couple of minutes
+and I was really kind of
+wrenching on this patient here
+as if there's somebody
+who's not breathing.
+Every second counts.
+- But by using a miniature
+version of this vine robot,
+researchers are hoping to make
+intubation faster and safer.
+- You know, somebody
+like me with no training
+could pretty simply insert this device
+aimed towards the nose and...
+(object squealing)
+just like that.
+If you can see, we've already intubated,
+and all it took was a little
+bit of pressurization.
+(man laughs)
+Just like that.
+- It almost looks like
+sort of a party favor.
+- Yeah, right.
+This reminds me a lot of those inflatable
+kind of like play-doh
+structures you see at car lots.
+- How does it know to
+go down the right tube?
+- Yeah, so that's one of
+the kind of cool things
+about soft robotics,
+is the robot is quite compliant.
+And we see that in a lot of these demos,
+you know, they can squish, they can bend.
+And so how we've designed it
+is that the main robot grows
+down into the esophagus,
+and then we have this side branch
+that heads towards the trachea,
+and it's quite flexible
+and so it basically finds the opening.
+So it's a really neat example
+of kind of a passive intelligence,
+mechanical intelligence
+some people call it,
+where it can find its path
+even if we don't know
+exactly the shape beforehand.
+- Have you tried this
+on a real person yet?
+- Not on a real person,
+but we've actually tried
+this in a cadaver lab.
+And we've shown that we can move
+from this nice idealized version
+to an actual in-vivo situation
+and successfully intubate a patient.
+- There's another application
+which is burrowing into sand or soil.
+When you blow compressed air
+into something like sand,
+it fluidizes, it becomes like a liquid,
+and that can allow the vine robot
+to grow into granular materials like sand.
+- If you've ever been to the beach
+and you try to stick like you
+umbrella pole into the ground,
+it's fairly difficult.
+- And I'm trying to push that
+probe down into the sand,
+no fluid decision.
+- Yeah, it feels like it
+sort of gets wedged in there.
+- Let's now turn on the air.
+(air hissing)
+- Oh yeah.
+You can feel it immediately.
+Oh, wow.
+Yeah, that's a lot.
+- So what we've done here is essentially,
+we just blow a jet of air
+out the front of the robot
+and that loosens up the sand enough
+to reduce the force of the sand
+so that the robot just by tip extension
+can make its way through.
+(air hissing)
+- This makes vine robots an
+attractive option for NASA
+when they look for ways
+to study the surfaces
+of other planets.
+(machine roaring)
+Recently on Mars
+they tried to have a burrowing
+robot but it got stuck.
+Could you do it better
+basically with this?
+- Yeah, that's a good question.
+So the Mars InSight mission,
+they have this heat probe,
+the idea there was to be able
+to sort of hammer its way
+down into the core,
+and then place a sensor
+that could detect the temperature of Mars.
+However, the problem they ran into there
+is that it turned out the
+material that they put it in
+was more cohesive than they expected.
+Inside the robot
+something would wind up
+and then pound it down,
+wind up and pound it down.
+But it turned out there
+wasn't enough friction
+between the probe and the sand.
+So what was really happening
+was it would wind up pound
+down, wind up pound down,
+wind up pound down.
+So it never actually got anywhere.
+The advantage of something
+like this, like tip extension,
+is you'd have your base,
+you start at the surface
+and you just keep extending your way down.
+You're not necessarily
+relying on the interaction
+with what is surrounding
+it to make it work.
+- What amazes me about vine robots
+is how a plant inspired
+this simple, elegant design.
+It's so easy in fact that
+you could build one yourself
+in as little as a minute.
+There are instructions
+online that I'll link to.
+But from that basic design
+have come a huge variety of robots
+with different applications,
+from archeology to search and rescue,
+or intubation to space exploration.
+And what else can you
+think of to do with it?
+(electronic buzzing)
+Hey, this video is
+sponsored by Morning Brew,
+the free daily newsletter
+that gets you up to speed
+on business, finance and
+tech, in just five minutes.
+For some years now, my main
+method of procrastinating
+has been scrolling through news websites.
+And to prevent that,
+I've tried cutting news
+out of my life altogether,
+but I still wanna stay informed.
+So Morning Brew offers
+the perfect middle ground.
+It's delivered to my inbox every
+morning, seven days a week,
+and it's witty and informative
+unlike traditional news.
+Plus it gives me
+everything I need to know,
+so I don't have to check news
+sites multiple times a day
+to make sure that I'm not missing
+something, like inflation,
+which is currently running
+at its highest rate
+in nearly nine years.
+Or the impending Boba shortage
+due to supply chain
+disruptions caused by COVID.
+Boba is a big deal in this household.
+So if you're interested in
+business, finance and tech,
+then why not try out Morning Brew.
+You can sign up for
+free in under 15 seconds
+at morningbrew.com/veritasium.
+I will put that link in the description.
+So I wanna thank Morning Brew
+for sponsoring this video,
+and I wanna thank you for watching.

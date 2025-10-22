@@ -1,0 +1,436 @@
+This tiny robot weighs
+less than a tennis ball
+and can jump higher than
+anything in the world.
+In the competitive
+world of jumping robots,
+the previous record was 3.7 meters,
+enough to leap a single-story building.
+This jumper can reach 31 meters,
+higher than a 10-story building.
+It could jump all the way from
+the Statue of Liberty's
+feet up to eye level.
+For something to count as a jump,
+it must satisfy two criteria.
+First, motion must be created
+by pushing off the ground,
+so, a quad-copter doesn't count
+because it pushes off the air.
+And second, no mass can be lost,
+so, rockets constantly ejecting
+burnt fuel are not jumping,
+and neither is an arrow
+launched from a bow.
+The bow would have to come with the arrow
+for it to count as a jump.
+Many animals jump,
+from sand fleas to grass
+hoppers to kangaroos
+and they launch their bodies into the air
+with a single stroke of their muscles.
+The amount of energy delivered
+in that single stroke
+determines the jump height.
+So if you wanna jump higher,
+you have to maximize the
+strength of the muscle.
+The best jumper in the animal kingdom is
+the Galago or Bush baby.
+And that's because 30% of
+their entire muscle mass
+is dedicated to jumping.
+This allows the squirrel-sized primate
+to jump over two meters from a standstill.
+It has like very small arms and upper body
+and it's just like, huge jumping legs.
+It doesn't have better
+muscles or anything,
+it just has more of them.
+- There are some clever jumping toys.
+(laughs)
+- I used to play with
+these poppers as a kid
+and when you deform a popper,
+you store energy in its deformed shape.
+Effectively it becomes a spring
+and then just like an animal in one stroke
+it applies a large force to the ground
+launching itself into the air.
+(whimsical music)
+All elastic jumpers
+follow the same principle
+of storing energy in a spring
+and releasing that energy
+in a single stroke to jump.
+But none of the jumping toys we had
+could compare to this tiny robot.
+(bouncy music)
+- Of all the things that
+I have ever tried to film,
+this is the most challenging.
+Because it's so small,
+it accelerates rapidly
+and travels a huge distance on each jump.
+Each takeoff happened faster
+than we could even register.
+Now, jumping might sound
+like a niche skill,
+but engineered jumpers would be perfect
+for exploring other worlds,
+particularly where the atmosphere
+is thin or non-existent.
+On the moon with one sixth
+the gravity of earth,
+this robot would be able
+to leap 125 meters high
+and half a kilometer forward.
+Rovers may struggle with
+steep cliffs and deep craters,
+but jumpers could hop in and out,
+fetching samples to
+bring back to the Rover.
+And you don't lose much
+energy when jumping,
+so if you could store
+the kinetic energy back
+in the spring on landing,
+the efficiency could be near perfect.
+The team has already started
+to build an entire fleet
+of jumping robots.
+Some of them can right
+themselves after landing so,
+they can take off again right away.
+Others are steerable.
+They have three adjustable
+legs that allow the
+jumper to launch in any direction.
+- Essentially, what we've done is
+we've added three additional legs
+that don't store energy
+but rather allow it
+to form a tripod sort of that
+allows it to point a direction
+and launch in that direction.
+- But how does this
+jumping mechanism work?
+Well, the main structure
+consists of four pieces
+of carbon fiber bound
+together by elastic bands.
+Together they create a
+spring that stores all
+the energy needed for
+the jump at the top of
+the robot is a small motor,
+a string wrapped around the
+axle is connected to the bottom
+of the robot.
+So when the motor is turned
+on, it winds up the string
+compressing the robot
+and this stores energy in
+the carbon fiber and rubber bands.
+After about a minute and a half
+the structure reaches maximum compression.
+How do you know like when to put it down?
+- Basically once the bottom there,
+sits inward and it can stand up,
+right now it would roll over.
+- Right.
+- Then you put it down.
+- Got it.
+- So as soon as you can.
+- And at this point, a
+trigger releases the latch
+that's holding the string on the axle.
+So all the string unspools all at once and
+the energy stored in
+the spring is released.
+- The jumper goes from a standstill
+to over a hundred kilometers an hour
+in only nine milliseconds.
+That gives an acceleration
+of over 300 g's.
+That would be enough to kill
+basically any living creature.
+- Watch out, watch out, watch out.
+- But how does it jump so much
+higher than everything else?
+Nearly 10 times higher than
+the previous record holder.
+Well, this jumper has three
+special design features.
+First, the jumper is incredibly
+light at just 30 grams.
+It achieves this weight
+by employing a tiny motor
+and battery.
+Plus its entire structure made
+of lightweight carbon fiber
+and rubber doubles as the spring.
+Per unit mass natural latex
+rubber can store more energy
+than nearly any other elastic material,
+7,000 joules per kilogram.
+And the design of the spring
+makes it ideal for its purpose.
+Initially they tried using
+only rubber bands connected
+to hinged aluminum rods,
+but with this design when
+compressing it, the force rises
+to a peak and then decreases.
+Just feels like it all of a
+sudden got a lot easier to pull.
+Another design with only carbon
+fiber slats requires a lot
+of force to get started,
+and then it increases linearly after that.
+There is more and more
+force required to do this.
+The ultimate design is a
+hybrid of these two approaches.
+The benefit being it's
+force profile is almost flat
+over the entire range of compression.
+Feels like that needs a lot of force,
+and now it feels pretty steady
+with the amount of force
+that I need to apply.
+Therefore it provides
+double the energy storage
+of a typical spring
+where force is proportional
+to displacement.
+The researchers argue this is the most
+efficient spring ever made.
+- Sometimes a string will snap,
+it's not always consistent
+that it releases
+when it's supposed to.
+- Ooh.
+- There's a string cut,
+let me go re-string it.
+(fingers snap)
+I'll be right back.
+- All right.
+- You'd probably expect
+that lighter would always
+be better with a jumper,
+especially if the added
+weight is simply dead weight
+rather than anything useful
+like a spring or a motor.
+- So we're adding
+basically a chunk of steel
+to our jumper and it's gonna jump higher.
+And the key is that we're
+adding it to the top.
+You want your body,
+the part that's moving to weigh
+at least as much as the foot
+and when your body's lighter
+it's basically this collision
+this energy transfer is very inefficient
+and you don't jump very high.
+- But the real secret to how
+this jumper can achieve such
+heights is through something
+the researchers call work
+multiplication, unlike an animal
+which can only jump using a
+single stroke of its muscle,
+an engineered jumper can store up
+the energy from many
+strokes or in this case
+many revolutions of its motor.
+And that's how the motor can be so small.
+It doesn't have to deliver
+the energy all at once.
+It builds it up gradually
+over a few minutes.
+So the trade off is kind
+of like time for energy.
+- Exactly.
+- And this is possible because
+there is a latch under
+tension preventing the spring
+from unspooling until the
+robot is fully compressed.
+Interestingly, biological
+organisms do use latches,
+for example the sand flee,
+which can jump incredibly
+high for its body size.
+- It has a muscle that is attached,
+let's say right here,
+is right inside of the pivot point.
+So as it contracts
+that muscle the leg doesn't extend, right?
+It's actually closing it more,
+but then it has a second
+muscle that pulls it out.
+It's going to shift this
+muscle ever so slightly
+outside the pivot point.
+That's wild. So there's these
+two muscles that are working.
+- Yeah. So here's your big power muscle,
+here's your trigger muscle.
+It's a torque reversal mechanism
+and then all of a sudden it shoots.
+- But even though the
+biological world has latches
+no organism has developed
+work multiplication for a jump
+from standstill.
+At least not internally, spider
+monkeys have been observed
+pulling back a branch hand
+over hand using multiple muscle
+strokes stored in the
+bend of the branch to
+catapult themselves forward.
+There's a spider that
+shoots out a silky string
+which they pull back
+multiple times in order
+to slingshot themselves
+to another location.
+So it's like slingshotting itself?
+- Yes. So they are called
+the slingshot spider.
+- Now I tried jumping
+in moon boots to see if
+they would help me go higher.
+- That is okay.
+(laughs)
+- Okay
+Ooh.
+- And it certainly felt like they did,
+but Elliot pointed out
+that from a standing start
+they don't actually help much.
+- Like kinda build it, build
+it, build it, and then go.
+- Okay.
+Only if you jump a few times
+before, can you store up some
+of the previous jumps energy
+in the elastic bands and then
+that energy helps launch you
+higher on the following jump.
+For years, engineered
+jumping was developed to
+mimic biological jumping,
+but with work multiplication
+it gained an advantage.
+If you can generate a
+large burst of energy
+simply by running a motor for a long time
+the power of the motor is no
+longer the limiting factor
+The spring is.
+So you can focus on making
+the most powerful spring possible.
+This jumper has nearly
+maximized the achievable height
+with this spring.
+Assuming an infinitely light motor
+with infinite time to wind
+up the highest possible jump
+with this compression spring is only
+around 19% higher than
+what they've achieved.
+If you want to incorporate air resistance
+and play with aerodynamics
+another way to send
+the jumper higher is to
+make it 10 times
+isometrically larger leading
+to a 15 to 20% higher jump.
+- So we're in kind of an
+intermediate scale where
+we still are getting hit by air drag
+but it's not as bad as the flee.
+If we went 10 times bigger
+we could actually avoid drag completely.
+- This works since if the
+jumper is scaled up ten times
+on all sides the cross
+sectional area increases
+by a hundred,
+which increases the drag force
+but the jumper's mass
+increases by a thousand.
+So it has way more inertia meaning
+the drag force affects it less.
+The entire concept of work multiplication
+could bring robots to the next level.
+Currently motors and robots
+have to be relatively small
+so they remain portable.
+But the simple principle of building
+up the energy from
+multiple turns of a motor
+over time would allow robots to store
+and then release huge amounts of energy
+and set some world records in the process.
+(outro music)
+Getting this robot off
+the ground required more
+than just engineering.
+It took a deep understanding
+of math and physics.
+And if you wanna take your
+STEM skills to the next level
+I highly recommend this
+video's sponsor Brilliant.
+It's a website, an app
+that helps you learn Math
+Science and Computer
+science interactively.
+They have thousands of lessons
+with exclusive new content added monthly.
+So they cover everything from the basics
+of algebra and graph manipulation through
+to college level content like
+calculus and neural networks.
+Now I did my PhD studying how
+much people learn from videos,
+and unfortunately it's
+often shockingly little.
+But brilliant gets around this
+because it is interactive.
+You can manipulate simulations and visuals
+and you have to answer
+questions every step of the way.
+This is the best way to learn
+because it allows you to
+check your understanding.
+And if you get stuck
+there are always helpful
+hints and full explanations.
+I like to incorporate
+brilliant into my daily routine
+with just 30 minutes a day,
+I can get my brain working
+and challenge myself
+to learn something new.
+And this is way better than
+wasting time on social media.
+So I encourage you to go
+to brilliant.org/veritasium
+to check out all the courses
+on offer and see if there's
+something you want to learn.
+Plus the first 200 people
+to sign up through that link
+get 20% off an annual
+premium subscription.
+I'll put the link down in the description.
+So I want to thank brilliant
+for supporting Veritasium
+and I want to thank you for watching.
