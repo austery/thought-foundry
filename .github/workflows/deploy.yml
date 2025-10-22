@@ -3,9 +3,20 @@
 name: Build and Deploy to Public Repo
 
 on:
-  push:
-    branches: ["main"]
+  # 定时构建：每小时运行一次（在每小时的第5分钟）
+  schedule:
+    - cron: '5 * * * *'
+
+  # 保留手动触发，用于紧急部署
   workflow_dispatch:
+
+  # 可选：只在文章目录变化时触发（如果需要实时性，可以取消注释）
+  # push:
+  #   branches: ["main"]
+  #   paths:
+  #     - 'content/**'
+  #     - 'src/**'
+  #     - '.eleventy.js'
 
 # 并发控制：自动取消旧的部署任务，只保留最新的
 concurrency:

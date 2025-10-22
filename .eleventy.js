@@ -3,6 +3,81 @@ module.exports = async function (eleventyConfig) {
   const { default: slugify } = await import("@sindresorhus/slugify");
   const { pinyin } = await import("pinyin");
 
+  // 性能优化：调试开关 - 设置 DEBUG=true 来启用调试输出
+  const DEBUG = process.env.DEBUG === 'true';
+
+  // 性能优化：拼音转换缓存
+  const pinyinCache = new Map();
+
+  function cachedPinyin(text, options = { style: pinyin.STYLE_NORMAL }) {
+    const cacheKey = `${text}:${JSON.stringify(options)}`;
+    if (pinyinCache.has(cacheKey)) {
+      return pinyinCache.get(cacheKey);
+    }
+    const result = pinyin(text, options).join(" ");
+    pinyinCache.set(cacheKey, result);
+    return result;
+  }
+
+  // 实体规范化配置 - 用于自动合并相似实体名称
+  const ENTITY_NORMALIZATION = {
+    // 统一key生成：转小写、去除特殊字符、统一分隔符
+    normalizeKey: (name) => {
+      if (!name) return '';
+      return name
+        .toLowerCase()
+        .replace(/[''""]/g, '')              // 去除各种引号
+        .replace(/[áàäâ]/g, 'a')             // 统一重音字符
+        .replace(/[éèëê]/g, 'e')
+        .replace(/[íìïî]/g, 'i')
+        .replace(/[óòöô]/g, 'o')
+        .replace(/[úùüû]/g, 'u')
+        .replace(/ñ/g, 'n')
+        .replace(/ç/g, 'c')
+        .replace(/\s+/g, '-')                // 空格转连字符
+        .replace(/[^\w\u4e00-\u9fa5-]/g, '') // 只保留字母、数字、中文和连字符
+        .replace(/-+/g, '-')                 // 合并多个连字符
+        .replace(/^-|-$/g, '')               // 去除首尾连字符
+        .trim();
+    },
+
+    // 从多个变体中选择最规范的显示名称
+    selectCanonical: (variants) => {
+      if (!variants || variants.length === 0) return '';
+      if (variants.length === 1) return variants[0];
+
+      // 评分系统：选择最"规范"的名称
+      const scored = variants.map(name => {
+        let score = 0;
+
+        // 优先：首字母大写的英文（如 "Donald Trump"）
+        if (/^[A-Z][a-z]/.test(name)) score += 100;
+
+        // 次选：包含空格的多词英文（如 "Bank of America"）
+        if (/^[A-Z].*\s+.*[A-Z]/.test(name)) score += 50;
+
+        // 中文形式（如 "习近平"）
+        if (/[\u4e00-\u9fa5]/.test(name)) score += 30;
+
+        // 惩罚：全小写形式（如 "donald-trump"）
+        if (/^[a-z]/.test(name) && !name.includes('-')) score -= 50;
+
+        // 惩罚：包含连字符的slug形式（如 "bank-of-america"）
+        if (name.includes('-') && name === name.toLowerCase()) score -= 100;
+
+        // 长度适中更好
+        const length = name.length;
+        if (length >= 3 && length <= 30) score += 10;
+
+        return { name, score };
+      });
+
+      // 按分数排序，返回最高分的
+      scored.sort((a, b) => b.score - a.score);
+      return scored[0].name;
+    }
+  };
+
   // --- 过滤器 (Filters) ---
   eleventyConfig.addFilter("jsonify", function (value) {
     return JSON.stringify(value);
@@ -22,9 +97,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) return;
     const trimmedStr = str.trim();
-    const pinyinStr = pinyin(trimmedStr, { style: pinyin.STYLE_NORMAL }).join(
-      " "
-    );
+    const pinyinStr = cachedPinyin(trimmedStr);
     return slugify(pinyinStr);
   });
 
@@ -34,9 +107,7 @@ module.exports = async function (eleventyConfig) {
     function (speakerName, collections) {
       if (!collections || !collections.speakerList)
         return slugify(
-          pinyin(speakerName.trim().toLowerCase(), {
-            style: pinyin.STYLE_NORMAL,
-          }).join(" ")
+          cachedPinyin(speakerName.trim().toLowerCase())
         );
 
       const cleanedName = speakerName.replace(/^['"]|['"]$/g, "").trim();
@@ -53,9 +124,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addFilter("getAreaUniqueKey", function (areaName, collections) {
     if (!collections || !collections.areaList)
       return slugify(
-        pinyin(areaName.trim().toLowerCase(), {
-          style: pinyin.STYLE_NORMAL,
-        }).join(" ")
+        cachedPinyin(areaName.trim().toLowerCase())
       );
 
     const lowerCaseName = areaName.trim().toLowerCase();
@@ -67,9 +136,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addFilter("getPersonUniqueKey", function (personName, collections) {
     if (!collections || !collections.peopleList)
       return slugify(
-        pinyin(personName.trim().toLowerCase(), {
-          style: pinyin.STYLE_NORMAL,
-        }).join(" ")
+        cachedPinyin(personName.trim().toLowerCase())
       );
 
     const lowerCaseName = personName.trim().toLowerCase();
@@ -81,9 +148,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addFilter("getCompanyUniqueKey", function (companyName, collections) {
     if (!collections || !collections.companiesOrgsList)
       return slugify(
-        pinyin(companyName.trim().toLowerCase(), {
-          style: pinyin.STYLE_NORMAL,
-        }).join(" ")
+        cachedPinyin(companyName.trim().toLowerCase())
       );
 
     const lowerCaseName = companyName.trim().toLowerCase();
@@ -95,9 +160,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addFilter("getProductUniqueKey", function (productName, collections) {
     if (!collections || !collections.productsModelsList)
       return slugify(
-        pinyin(productName.trim().toLowerCase(), {
-          style: pinyin.STYLE_NORMAL,
-        }).join(" ")
+        cachedPinyin(productName.trim().toLowerCase())
       );
 
     const lowerCaseName = productName.trim().toLowerCase();
@@ -109,9 +172,7 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addFilter("getMediaUniqueKey", function (mediaName, collections) {
     if (!collections || !collections.mediaBookslist)
       return slugify(
-        pinyin(mediaName.trim().toLowerCase(), {
-          style: pinyin.STYLE_NORMAL,
-        }).join(" ")
+        cachedPinyin(mediaName.trim().toLowerCase())
       );
 
     const lowerCaseName = mediaName.trim().toLowerCase();
@@ -199,28 +260,30 @@ module.exports = async function (eleventyConfig) {
       });
     });
 
-    console.log("\n--- Tag Slug Conflict Report ---");
-    let foundConflict = false;
-    slugConflictMap.forEach((tags, slug) => {
-      if (tags.length > 1) {
-        console.error(
-          `[!! CONFLICT FOUND !!] The slug "${slug}" is generated by these tags:`
-        );
-        tags.forEach((tagData) => {
+    if (DEBUG) {
+      console.log("\n--- Tag Slug Conflict Report ---");
+      let foundConflict = false;
+      slugConflictMap.forEach((tags, slug) => {
+        if (tags.length > 1) {
           console.error(
-            `  - Tag: "${
-              tagData.name
-            }" is found in file(s): ${tagData.sources.join(", ")}`
+            `[!! CONFLICT FOUND !!] The slug "${slug}" is generated by these tags:`
           );
-        });
-        foundConflict = true;
-      }
-    });
+          tags.forEach((tagData) => {
+            console.error(
+              `  - Tag: "${
+                tagData.name
+              }" is found in file(s): ${tagData.sources.join(", ")}`
+            );
+          });
+          foundConflict = true;
+        }
+      });
 
-    if (!foundConflict) {
-      console.log("No tag conflicts found. All slugs are unique.");
+      if (!foundConflict) {
+        console.log("No tag conflicts found. All slugs are unique.");
+      }
+      console.log("--------------------------------\n");
     }
-    console.log("--------------------------------\n");
     // --- END: 调试代码 ---
 
     return tagList;
@@ -292,7 +355,6 @@ module.exports = async function (eleventyConfig) {
     );
 
     // Debug output for speaker conflicts and resolve slug conflicts
-    console.log("\n--- Speaker Slug Conflict Report ---");
     const slugConflictMap = new Map();
     const slugifyFilter = eleventyConfig.getFilter("slug");
 
@@ -309,17 +371,21 @@ module.exports = async function (eleventyConfig) {
     let foundConflict = false;
     slugConflictMap.forEach((speakers, slug) => {
       if (speakers.length > 1) {
-        console.error(
-          `[!! SPEAKER CONFLICT FOUND !!] The slug "${slug}" is generated by these speakers:`
-        );
-        speakers.forEach((speakerData, index) => {
+        if (DEBUG) {
           console.error(
-            `  - Speaker: "${
-              speakerData.name
-            }" is found in file(s): ${Array.from(speakerData.sources).join(
-              ", "
-            )}`
+            `[!! SPEAKER CONFLICT FOUND !!] The slug "${slug}" is generated by these speakers:`
           );
+          speakers.forEach((speakerData, index) => {
+            console.error(
+              `  - Speaker: "${
+                speakerData.name
+              }" is found in file(s): ${Array.from(speakerData.sources).join(
+                ", "
+              )}`
+            );
+          });
+        }
+        speakers.forEach((speakerData, index) => {
           // Resolve conflict by adding index suffix
           speakerData.uniqueKey = `${speakerData.key}-${index + 1}`;
         });
@@ -330,12 +396,15 @@ module.exports = async function (eleventyConfig) {
       }
     });
 
-    if (!foundConflict) {
-      console.log("No speaker conflicts found. All slugs are unique.");
-    } else {
-      console.log("Conflicts resolved by adding unique identifiers.");
+    if (DEBUG) {
+      console.log("\n--- Speaker Slug Conflict Report ---");
+      if (!foundConflict) {
+        console.log("No speaker conflicts found. All slugs are unique.");
+      } else {
+        console.log("Conflicts resolved by adding unique identifiers.");
+      }
+      console.log("------------------------------------\n");
     }
-    console.log("------------------------------------\n");
 
     return speakerList;
   });
@@ -368,12 +437,14 @@ module.exports = async function (eleventyConfig) {
       a.name.localeCompare(b.name)
     );
 
-    console.log("\n--- Category List Report ---");
-    console.log(`Found ${categoryList.length} categories:`);
-    categoryList.forEach((cat) => {
-      console.log(`  - ${cat.name}: ${cat.posts.length} posts`);
-    });
-    console.log("----------------------------\n");
+    if (DEBUG) {
+      console.log("\n--- Category List Report ---");
+      console.log(`Found ${categoryList.length} categories:`);
+      categoryList.forEach((cat) => {
+        console.log(`  - ${cat.name}: ${cat.posts.length} posts`);
+      });
+      console.log("----------------------------\n");
+    }
 
     return categoryList;
   });
@@ -412,12 +483,14 @@ module.exports = async function (eleventyConfig) {
       a.name.localeCompare(b.name)
     );
 
-    console.log("\n--- Project List Report ---");
-    console.log(`Found ${projectList.length} projects:`);
-    projectList.forEach((proj) => {
-      console.log(`  - ${proj.name}: ${proj.posts.length} posts`);
-    });
-    console.log("---------------------------\n");
+    if (DEBUG) {
+      console.log("\n--- Project List Report ---");
+      console.log(`Found ${projectList.length} projects:`);
+      projectList.forEach((proj) => {
+        console.log(`  - ${proj.name}: ${proj.posts.length} posts`);
+      });
+      console.log("---------------------------\n");
+    }
 
     return projectList;
   });
@@ -453,7 +526,6 @@ module.exports = async function (eleventyConfig) {
     );
 
     // Conflict detection and resolution
-    console.log("\n--- Area Slug Conflict Report ---");
     const slugConflictMap = new Map();
     const slugifyFilter = eleventyConfig.getFilter("slug");
 
@@ -468,15 +540,19 @@ module.exports = async function (eleventyConfig) {
     let foundConflict = false;
     slugConflictMap.forEach((areas, slug) => {
       if (areas.length > 1) {
-        console.error(
-          `[!! AREA CONFLICT FOUND !!] The slug "${slug}" is generated by these areas:`
-        );
-        areas.forEach((areaData, index) => {
+        if (DEBUG) {
           console.error(
-            `  - Area: "${areaData.name}" is found in file(s): ${Array.from(
-              areaData.sources
-            ).join(", ")}`
+            `[!! AREA CONFLICT FOUND !!] The slug "${slug}" is generated by these areas:`
           );
+          areas.forEach((areaData, index) => {
+            console.error(
+              `  - Area: "${areaData.name}" is found in file(s): ${Array.from(
+                areaData.sources
+              ).join(", ")}`
+            );
+          });
+        }
+        areas.forEach((areaData, index) => {
           areaData.uniqueKey = `${areaData.key}-${index + 1}`;
         });
         foundConflict = true;
@@ -485,18 +561,21 @@ module.exports = async function (eleventyConfig) {
       }
     });
 
-    if (!foundConflict) {
-      console.log("No area conflicts found. All slugs are unique.");
-    } else {
-      console.log("Conflicts resolved by adding unique identifiers.");
+    if (DEBUG) {
+      console.log("\n--- Area Slug Conflict Report ---");
+      if (!foundConflict) {
+        console.log("No area conflicts found. All slugs are unique.");
+      } else {
+        console.log("Conflicts resolved by adding unique identifiers.");
+      }
+      console.log("-------------------------------------\n");
     }
-    console.log("-------------------------------------\n");
 
     return areaList;
   });
 
   // 集合 7.6-7.9: 实体集合 (v7.4) - 按实体字段分组文章
-  // 人物集合
+  // 人物集合 - 使用实体规范化自动合并相似名称
   eleventyConfig.addCollection("peopleList", (collectionApi) => {
     const peopleMap = new Map();
     collectionApi.getAll().forEach((item) => {
@@ -510,21 +589,34 @@ module.exports = async function (eleventyConfig) {
       ) {
         item.data.people.forEach((person) => {
           const personName = person.trim();
-          const lowerCasePerson = personName.toLowerCase();
           if (personName !== "") {
-            if (!peopleMap.has(lowerCasePerson)) {
-              peopleMap.set(lowerCasePerson, {
+            // 使用规范化的key代替简单的toLowerCase
+            const normalizedKey = ENTITY_NORMALIZATION.normalizeKey(personName);
+
+            if (!peopleMap.has(normalizedKey)) {
+              peopleMap.set(normalizedKey, {
                 name: personName,
-                key: lowerCasePerson,
+                key: normalizedKey,
+                variants: new Set([personName]), // 记录所有变体
                 posts: [],
                 sources: new Set(),
               });
             }
-            peopleMap.get(lowerCasePerson).posts.push(item);
-            peopleMap.get(lowerCasePerson).sources.add(item.inputPath);
+
+            // 添加变体
+            peopleMap.get(normalizedKey).variants.add(personName);
+            peopleMap.get(normalizedKey).posts.push(item);
+            peopleMap.get(normalizedKey).sources.add(item.inputPath);
           }
         });
       }
+    });
+
+    // 选择最规范的名称作为显示名称
+    peopleMap.forEach((value) => {
+      const variants = Array.from(value.variants);
+      value.name = ENTITY_NORMALIZATION.selectCanonical(variants);
+      delete value.variants; // 清理临时数据
     });
 
     const peopleList = Array.from(peopleMap.values()).sort((a, b) =>
@@ -532,7 +624,6 @@ module.exports = async function (eleventyConfig) {
     );
 
     // Conflict detection and resolution
-    console.log("\n--- People Slug Conflict Report ---");
     const slugConflictMap = new Map();
     const slugifyFilter = eleventyConfig.getFilter("slug");
 
@@ -547,15 +638,19 @@ module.exports = async function (eleventyConfig) {
     let foundConflict = false;
     slugConflictMap.forEach((people, slug) => {
       if (people.length > 1) {
-        console.error(
-          `[!! PEOPLE CONFLICT FOUND !!] The slug "${slug}" is generated by these people:`
-        );
-        people.forEach((personData, index) => {
+        if (DEBUG) {
           console.error(
-            `  - Person: "${personData.name}" is found in file(s): ${Array.from(
-              personData.sources
-            ).join(", ")}`
+            `[!! PEOPLE CONFLICT FOUND !!] The slug "${slug}" is generated by these people:`
           );
+          people.forEach((personData, index) => {
+            console.error(
+              `  - Person: "${personData.name}" is found in file(s): ${Array.from(
+                personData.sources
+              ).join(", ")}`
+            );
+          });
+        }
+        people.forEach((personData, index) => {
           personData.uniqueKey = `${personData.key}-${index + 1}`;
         });
         foundConflict = true;
@@ -564,17 +659,20 @@ module.exports = async function (eleventyConfig) {
       }
     });
 
-    if (!foundConflict) {
-      console.log("No people conflicts found. All slugs are unique.");
-    } else {
-      console.log("Conflicts resolved by adding unique identifiers.");
+    if (DEBUG) {
+      console.log("\n--- People Slug Conflict Report ---");
+      if (!foundConflict) {
+        console.log("No people conflicts found. All slugs are unique.");
+      } else {
+        console.log("Conflicts resolved by adding unique identifiers.");
+      }
+      console.log("---------------------------------------\n");
     }
-    console.log("---------------------------------------\n");
 
     return peopleList;
   });
 
-  // 公司/组织集合
+  // 公司/组织集合 - 使用实体规范化自动合并相似名称
   eleventyConfig.addCollection("companiesOrgsList", (collectionApi) => {
     const companiesMap = new Map();
     collectionApi.getAll().forEach((item) => {
@@ -588,21 +686,34 @@ module.exports = async function (eleventyConfig) {
       ) {
         item.data.companies_orgs.forEach((company) => {
           const companyName = company.trim();
-          const lowerCaseCompany = companyName.toLowerCase();
           if (companyName !== "") {
-            if (!companiesMap.has(lowerCaseCompany)) {
-              companiesMap.set(lowerCaseCompany, {
+            // 使用规范化的key代替简单的toLowerCase
+            const normalizedKey = ENTITY_NORMALIZATION.normalizeKey(companyName);
+
+            if (!companiesMap.has(normalizedKey)) {
+              companiesMap.set(normalizedKey, {
                 name: companyName,
-                key: lowerCaseCompany,
+                key: normalizedKey,
+                variants: new Set([companyName]), // 记录所有变体
                 posts: [],
                 sources: new Set(),
               });
             }
-            companiesMap.get(lowerCaseCompany).posts.push(item);
-            companiesMap.get(lowerCaseCompany).sources.add(item.inputPath);
+
+            // 添加变体
+            companiesMap.get(normalizedKey).variants.add(companyName);
+            companiesMap.get(normalizedKey).posts.push(item);
+            companiesMap.get(normalizedKey).sources.add(item.inputPath);
           }
         });
       }
+    });
+
+    // 选择最规范的名称作为显示名称
+    companiesMap.forEach((value) => {
+      const variants = Array.from(value.variants);
+      value.name = ENTITY_NORMALIZATION.selectCanonical(variants);
+      delete value.variants; // 清理临时数据
     });
 
     const companiesList = Array.from(companiesMap.values()).sort((a, b) =>
@@ -610,7 +721,6 @@ module.exports = async function (eleventyConfig) {
     );
 
     // Conflict detection and resolution
-    console.log("\n--- Companies/Orgs Slug Conflict Report ---");
     const slugConflictMap = new Map();
     const slugifyFilter = eleventyConfig.getFilter("slug");
 
@@ -625,17 +735,21 @@ module.exports = async function (eleventyConfig) {
     let foundConflict = false;
     slugConflictMap.forEach((companies, slug) => {
       if (companies.length > 1) {
-        console.error(
-          `[!! COMPANY CONFLICT FOUND !!] The slug "${slug}" is generated by these companies:`
-        );
-        companies.forEach((companyData, index) => {
+        if (DEBUG) {
           console.error(
-            `  - Company: "${
-              companyData.name
-            }" is found in file(s): ${Array.from(companyData.sources).join(
-              ", "
-            )}`
+            `[!! COMPANY CONFLICT FOUND !!] The slug "${slug}" is generated by these companies:`
           );
+          companies.forEach((companyData, index) => {
+            console.error(
+              `  - Company: "${
+                companyData.name
+              }" is found in file(s): ${Array.from(companyData.sources).join(
+                ", "
+              )}`
+            );
+          });
+        }
+        companies.forEach((companyData, index) => {
           companyData.uniqueKey = `${companyData.key}-${index + 1}`;
         });
         foundConflict = true;
@@ -644,17 +758,20 @@ module.exports = async function (eleventyConfig) {
       }
     });
 
-    if (!foundConflict) {
-      console.log("No company conflicts found. All slugs are unique.");
-    } else {
-      console.log("Conflicts resolved by adding unique identifiers.");
+    if (DEBUG) {
+      console.log("\n--- Companies/Orgs Slug Conflict Report ---");
+      if (!foundConflict) {
+        console.log("No company conflicts found. All slugs are unique.");
+      } else {
+        console.log("Conflicts resolved by adding unique identifiers.");
+      }
+      console.log("-----------------------------------------------\n");
     }
-    console.log("-----------------------------------------------\n");
 
     return companiesList;
   });
 
-  // 产品/模型集合
+  // 产品/模型集合 - 使用实体规范化自动合并相似名称
   eleventyConfig.addCollection("productsModelsList", (collectionApi) => {
     const productsMap = new Map();
     collectionApi.getAll().forEach((item) => {
@@ -668,21 +785,34 @@ module.exports = async function (eleventyConfig) {
       ) {
         item.data.products_models.forEach((product) => {
           const productName = product.trim();
-          const lowerCaseProduct = productName.toLowerCase();
           if (productName !== "") {
-            if (!productsMap.has(lowerCaseProduct)) {
-              productsMap.set(lowerCaseProduct, {
+            // 使用规范化的key代替简单的toLowerCase
+            const normalizedKey = ENTITY_NORMALIZATION.normalizeKey(productName);
+
+            if (!productsMap.has(normalizedKey)) {
+              productsMap.set(normalizedKey, {
                 name: productName,
-                key: lowerCaseProduct,
+                key: normalizedKey,
+                variants: new Set([productName]), // 记录所有变体
                 posts: [],
                 sources: new Set(),
               });
             }
-            productsMap.get(lowerCaseProduct).posts.push(item);
-            productsMap.get(lowerCaseProduct).sources.add(item.inputPath);
+
+            // 添加变体
+            productsMap.get(normalizedKey).variants.add(productName);
+            productsMap.get(normalizedKey).posts.push(item);
+            productsMap.get(normalizedKey).sources.add(item.inputPath);
           }
         });
       }
+    });
+
+    // 选择最规范的名称作为显示名称
+    productsMap.forEach((value) => {
+      const variants = Array.from(value.variants);
+      value.name = ENTITY_NORMALIZATION.selectCanonical(variants);
+      delete value.variants; // 清理临时数据
     });
 
     const productsList = Array.from(productsMap.values()).sort((a, b) =>
@@ -690,7 +820,6 @@ module.exports = async function (eleventyConfig) {
     );
 
     // Conflict detection and resolution
-    console.log("\n--- Products/Models Slug Conflict Report ---");
     const slugConflictMap = new Map();
     const slugifyFilter = eleventyConfig.getFilter("slug");
 
@@ -705,17 +834,21 @@ module.exports = async function (eleventyConfig) {
     let foundConflict = false;
     slugConflictMap.forEach((products, slug) => {
       if (products.length > 1) {
-        console.error(
-          `[!! PRODUCT CONFLICT FOUND !!] The slug "${slug}" is generated by these products:`
-        );
-        products.forEach((productData, index) => {
+        if (DEBUG) {
           console.error(
-            `  - Product: "${
-              productData.name
-            }" is found in file(s): ${Array.from(productData.sources).join(
-              ", "
-            )}`
+            `[!! PRODUCT CONFLICT FOUND !!] The slug "${slug}" is generated by these products:`
           );
+          products.forEach((productData, index) => {
+            console.error(
+              `  - Product: "${
+                productData.name
+              }" is found in file(s): ${Array.from(productData.sources).join(
+                ", "
+              )}`
+            );
+          });
+        }
+        products.forEach((productData, index) => {
           productData.uniqueKey = `${productData.key}-${index + 1}`;
         });
         foundConflict = true;
@@ -724,17 +857,20 @@ module.exports = async function (eleventyConfig) {
       }
     });
 
-    if (!foundConflict) {
-      console.log("No product conflicts found. All slugs are unique.");
-    } else {
-      console.log("Conflicts resolved by adding unique identifiers.");
+    if (DEBUG) {
+      console.log("\n--- Products/Models Slug Conflict Report ---");
+      if (!foundConflict) {
+        console.log("No product conflicts found. All slugs are unique.");
+      } else {
+        console.log("Conflicts resolved by adding unique identifiers.");
+      }
+      console.log("------------------------------------------------\n");
     }
-    console.log("------------------------------------------------\n");
 
     return productsList;
   });
 
-  // 媒体/书籍集合
+  // 媒体/书籍集合 - 使用实体规范化自动合并相似名称
   eleventyConfig.addCollection("mediaBookslist", (collectionApi) => {
     const mediaMap = new Map();
     collectionApi.getAll().forEach((item) => {
@@ -748,21 +884,34 @@ module.exports = async function (eleventyConfig) {
       ) {
         item.data.media_books.forEach((media) => {
           const mediaName = media.trim();
-          const lowerCaseMedia = mediaName.toLowerCase();
           if (mediaName !== "") {
-            if (!mediaMap.has(lowerCaseMedia)) {
-              mediaMap.set(lowerCaseMedia, {
+            // 使用规范化的key代替简单的toLowerCase
+            const normalizedKey = ENTITY_NORMALIZATION.normalizeKey(mediaName);
+
+            if (!mediaMap.has(normalizedKey)) {
+              mediaMap.set(normalizedKey, {
                 name: mediaName,
-                key: lowerCaseMedia,
+                key: normalizedKey,
+                variants: new Set([mediaName]), // 记录所有变体
                 posts: [],
                 sources: new Set(),
               });
             }
-            mediaMap.get(lowerCaseMedia).posts.push(item);
-            mediaMap.get(lowerCaseMedia).sources.add(item.inputPath);
+
+            // 添加变体
+            mediaMap.get(normalizedKey).variants.add(mediaName);
+            mediaMap.get(normalizedKey).posts.push(item);
+            mediaMap.get(normalizedKey).sources.add(item.inputPath);
           }
         });
       }
+    });
+
+    // 选择最规范的名称作为显示名称
+    mediaMap.forEach((value) => {
+      const variants = Array.from(value.variants);
+      value.name = ENTITY_NORMALIZATION.selectCanonical(variants);
+      delete value.variants; // 清理临时数据
     });
 
     const mediaList = Array.from(mediaMap.values()).sort((a, b) =>
@@ -770,7 +919,6 @@ module.exports = async function (eleventyConfig) {
     );
 
     // Conflict detection and resolution
-    console.log("\n--- Media/Books Slug Conflict Report ---");
     const slugConflictMap = new Map();
     const slugifyFilter = eleventyConfig.getFilter("slug");
 
@@ -785,15 +933,19 @@ module.exports = async function (eleventyConfig) {
     let foundConflict = false;
     slugConflictMap.forEach((mediaItems, slug) => {
       if (mediaItems.length > 1) {
-        console.error(
-          `[!! MEDIA CONFLICT FOUND !!] The slug "${slug}" is generated by these media:`
-        );
-        mediaItems.forEach((mediaData, index) => {
+        if (DEBUG) {
           console.error(
-            `  - Media: "${mediaData.name}" is found in file(s): ${Array.from(
-              mediaData.sources
-            ).join(", ")}`
+            `[!! MEDIA CONFLICT FOUND !!] The slug "${slug}" is generated by these media:`
           );
+          mediaItems.forEach((mediaData, index) => {
+            console.error(
+              `  - Media: "${mediaData.name}" is found in file(s): ${Array.from(
+                mediaData.sources
+              ).join(", ")}`
+            );
+          });
+        }
+        mediaItems.forEach((mediaData, index) => {
           mediaData.uniqueKey = `${mediaData.key}-${index + 1}`;
         });
         foundConflict = true;
@@ -802,12 +954,15 @@ module.exports = async function (eleventyConfig) {
       }
     });
 
-    if (!foundConflict) {
-      console.log("No media conflicts found. All slugs are unique.");
-    } else {
-      console.log("Conflicts resolved by adding unique identifiers.");
+    if (DEBUG) {
+      console.log("\n--- Media/Books Slug Conflict Report ---");
+      if (!foundConflict) {
+        console.log("No media conflicts found. All slugs are unique.");
+      } else {
+        console.log("Conflicts resolved by adding unique identifiers.");
+      }
+      console.log("--------------------------------------------\n");
     }
-    console.log("--------------------------------------------\n");
 
     return mediaList;
   });
@@ -824,7 +979,7 @@ module.exports = async function (eleventyConfig) {
       .filter((item) => item.data.exclude);
 
     // 调试输出
-    if (excludedItems.length > 0) {
+    if (DEBUG && excludedItems.length > 0) {
       console.log("\n--- Excluded Items Report ---");
       console.log(`Found ${excludedItems.length} excluded item(s):`);
       excludedItems.forEach((item, index) => {
@@ -841,6 +996,8 @@ module.exports = async function (eleventyConfig) {
   // --- START: 新增的临时侦测代码 ---
   // 集合 10: 这个集合专门用来寻找有问题的 speaker 字段
   eleventyConfig.addCollection("longSpeakerDetector", function (collectionApi) {
+    if (!DEBUG) return [];
+
     console.log("\n--- Checking for long speaker fields ---");
     let problemsFound = 0;
     const problematicFiles = [];

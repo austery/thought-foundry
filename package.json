@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy",
+    "build:debug": "DEBUG=true npx @11ty/eleventy",
+    "build:incremental": "npx @11ty/eleventy --incremental"
   },
   "repository": {
     "type": "git",
