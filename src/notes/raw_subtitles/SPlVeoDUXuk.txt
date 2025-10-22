@@ -1,0 +1,370 @@
+Hello everyone, I'm Anthony
+Welcome to my channel
+Today's video
+I want to continue chatting with you all
+How to make AI better assist us in learning and thinking
+In the video on May 18th
+We explored the potential of AI for self-discovery
+At that time we said
+You can write a diary by talking to AI
+Share your emotions and thoughts
+Compared with traditional diary writing
+This can be said to be a huge breakthrough
+We can also request
+AI reads a psychology or philosophy book
+Let’s analyze our experience
+After the show was released
+Many friends want me to share more
+Lessons on how to use AI to learn
+So today we will mainly discuss
+How to combine Python and AI
+Make it our priority when reading humanities and social science books
+A truly useful assistant
+We will also have a set of exam questions
+Test the two current mainstream AI
+That is, ChatGPT 5 and Gemini 2.5 Pro
+Differences in ability when reading humanities and social science books
+So everyone should follow Anthony's channel
+Not only can we see the views and interpretations of humanities and social sciences
+You can also watch technical videos
+You can also see the combination of the two
+Isn’t it very worthwhile and cost-effective?
+alright
+That's the end of the bragging part
+I will post this video
+Put it in the list of "Psychology and Education"
+If you have anything you want to discuss with me
+and consultation topics
+You can contact my email to make an appointment
+So let's get back to today's topic
+First of all, I have always wanted AI to be such an ideal academic assistant
+It can be read in full
+The humanities and social science books I provide
+And according to my needs
+In different literature
+Perform cross-comparison and theoretical transfer
+For example, I uploaded Foucault's "Discipline and Punish"
+and George Orwell's novel 1984
+I hope AI can use Foucault's perspective
+To analyze and explain the novel
+The social structure of Oceania
+For example
+I hope AI can read Plato's Republic
+and Kant's Groundwork of the Metaphysics of Morals
+Abstract the concept of "justice" from them
+And answer some of my current confusion and questions
+For example
+I can also upload a thinker to the AI
+一生中的十本主要著作
+and a psychology book
+Ask AI to use the insights from this psychology book
+Analyze the theoretical evolution path of this thinker
+We can also come up with many combinations
+These combinations are completely tailored to meet our needs
+Such as curiosity
+Or a real problem that needs to be solved
+And every one of these
+can become a very meaningful academic topic
+These combinations often involve interdisciplinary transfer
+In the past few videos we have talked about learning
+I repeatedly emphasized
+This kind of free exploration according to one's own interests
+The best way to learn
+The so-called disciplinary division
+It is just a classification standard to facilitate research and teaching
+It is essentially an artificial, external framework
+While it can help us define and understand the problem
+But it does not mean that human cognition and learning
+This division must be strictly followed
+The learning process
+It is a continuous emotional and cognitive experience
+A person is interested in biology in the morning
+Think about physics in the afternoon
+Thinking about economics at night
+This messy exploration
+In fact, it is the most consistent with the characteristics of human thinking.
+Because our cognition is inherently associative
+Rather than linear division
+In this chaotic and unsystematic
+Individuals have accumulated a wealth of feelings
+His emotional cognition is continuous.
+This is the most essential thing
+We say any learning
+No matter how systematic his course system is
+Ultimately, it still depends on the learners themselves
+Continuity of thoughts and emotions
+However
+When we want to read a lot of books across fields
+The cost of reading is very high
+Many books on humanities and social sciences
+They all start with hundreds of thousands of words
+If it spans multiple disciplines
+The amount of information is astonishing
+We know
+Many books on humanities and social sciences
+There may not be clear chapter markings
+Loose structure
+Difficult to quickly search and locate by keywords
+Moreover, the logic of humanities and social sciences is different from that of natural sciences.
+The author's writing is often full of metaphors.
+Reflection, interpretation and questioning
+Its meaning is often hidden in a long text
+and
+Almost all of them involve knowledge from other disciplines
+In traditional academic work
+To achieve this free transfer and application across disciplines
+Requires researchers to read a lot of books for a long time
+You also need to create notes for cross-comparison
+If you are reading foreign language literature
+Involving language differences or historical background
+It's even more difficult
+Therefore, if we use the traditional method
+To achieve this freedom of reading and thinking
+Not only does it require a person to have a very high memory
+and abstract thinking skills
+It also requires years of accumulation
+and a large team of consultants
+AI can
+Read through hundreds of thousands of words of text
+And abstract related theories
+And be able to respond to our questions around these topics
+Any thoughts and questions raised
+This is a speed and efficiency that traditional methods cannot achieve
+But this idea faces some practical difficulties.
+The first difficulty is
+A large number of humanities and social science e-books are based on
+A photocopy of the PDF
+If you upload these files directly
+Then AI will call OCR
+Optical Character Recognition
+To identify the text
+and convert it into text
+But this process is invisible to us.
+We don't know what it recognized as.
+This process is also inefficient.
+AI will be much slower in processing
+If the recognition is not clean and complete
+AI may also pretend to understand when asking questions
+However, currently on the market
+There is a lack of free and powerful OCR tools
+The second difficulty is
+How do we determine whether an AI has truly finished reading?
+And understood a text of hundreds of thousands of words?
+Sometimes, when we ask AI questions
+It may first retrieve the corresponding text and then answer
+Rather than conducting a global analysis
+This requires us to design a set of test questions
+Propose some cross-section
+Problems involving complex logical chains
+To verify whether it has been read
+OK
+So let’s solve the first problem first.
+That is, how to convert audio and video PDF books
+Convert to plain text
+That is, plain text format
+We know
+OCR scanned text often has chaotic layout
+Recognition error, no segmentation, crowded together
+Looks messy
+There is no reading experience at all.
+But this text is for AI to read
+It's not for us to read.
+As long as the text is correct, it's fine.
+This is actually an ideal input format for AI.
+We can program
+To complete this work in batches
+AI can definitely help us here
+Taking ChatGPT as an example
+We can let ChatGPT generate a piece of code
+Requires calling the command line tool OCR my pdf
+Recognize text in PDF
+And save it in txt format
+We also need to create a folder
+Request the program
+Can automatically identify all PDFs in the folder
+And tell CHATGPT the path to the file
+Here I created a folder called book
+Then put the PDF of "Imagined Communities" in it
+CHATGPT gives us a piece of code
+Let's copy and paste it into the editor
+And save it to this folder
+Then click Run
+After the recognition is completed
+We see that the txt file appears
+When you open it, you will find that there are not many words that are recognized incorrectly.
+This may be because this PDF is relatively clear.
+But we will find
+Page numbers, dividing lines, and book titles will be repeated
+Another example is too many spaces between words.
+There are also many errors in paragraphing and punctuation.
+These are important for AI reading
+It's all meaningless interference
+And we know
+The scale of text processing by AI at one time
+There is also a limit
+For example, CHATGPT
+It is to decompose natural language into multiple tokens
+That is, the basic unit for processing and generating text
+And the fee is calculated based on the number of tokens
+So we can let CHATGPT
+Add the cleaning function to this code
+For example, ask it to delete duplicate page numbers,
+Headers, footers, dividing lines, etc.
+Purify the generated text
+Then let's run this code again
+The text after cleaning
+It will look much cleaner
+Although there are certainly still some identification errors
+But it is unavoidable
+And it also happens to test the ability of AI
+A powerful model
+Should be used when processing dirty text
+Still able to extract as accurate information as possible
+This is a very practical ability in itself.
+As good scholars
+Able to read damaged books
+Still able to restore the overall logic of the text
+When we have finished making the text
+Now we can move on to the most important part
+That is, comparing the capabilities of two AI models
+The two players participating in the comparison
+They are CHATGPT 5 who have opened plus membership
+and Google's Gemini 2.5 Pro
+Both AIs are priced at $20 per month
+Both support large text reading
+However, on the surface data
+GPT is lagging behind Gemini
+GPT supports a context window of up to 128K tokens
+There is also a claim of 250,000 tokens
+But they are still behind Gemini’s 1 million tokens
+So what is the actual performance?
+We will know the answer next
+but
+A while ago, a friend told me a piece of news.
+In June this year, Google released Gemini CLI
+That is, a command line tool
+This allows us to
+Calling the Gemini 2.5 Pro model
+Google generously gave us 60 requests per minute.
+And a free quota of 1000 requests per day
+For most users, this
+It's totally sufficient
+Installing Gemini CLI on your computer is easy
+You can search
+Because I use a MacBook
+I'll take my computer as an example.
+First we need to install Homebrew in the Terminal
+Then install Gemini CLI with Homebrew
+First time login
+You need to obtain authorization from your Google account
+After all this is done
+We can see the interface of Gemini CLI
+The following line means
+It uses the 2.5 Pro model
+and its remaining context length
+Get here
+We finally got all the tools ready.
+How to design a set of test questions
+To identify the reading ability of these two AIs
+We are here
+First, let’s take the book “Attachment in Psychotherapy” as an example.
+To maintain objectivity
+I think
+A reasonable difficulty gradient should be set for the questions
+The most basic step is fact extraction
+For example, a question like this
+Psychologist Bowlby
+How is the task of a psychotherapist defined?
+This part
+Mainly examine whether AI can locate the original information
+and whether they can quote and paraphrase accurately
+Will it be fabricated?
+These questions can be found directly in the original text of the book.
+The second part is the directory summary
+For example, we ask AI to summarize the table of contents of the entire book
+Summarize the content of each chapter in one sentence
+This can examine AI's understanding of the structure of the entire book.
+AI not only needs to fully extract the chapter titles
+It should also be able to reasonably compress lengthy texts
+And summarize the theme
+The third stage is more difficult
+We hope that AI can not only understand text
+It also needs to be able to abstract the implicit logical structure
+for example
+There is a passage in attachment in psychotherapy:
+Main (1991) emphasizes the ability of metacognition
+Thinking about ideas
+This is based on the distinction between the surface and the essence of cognition.
+(i.e. things may not be what they appear to be)
+Representational diversity and representational change
+On the basis of
+Then we can ask the AI:
+Please analyze the three foundations of metacognitive ability mentioned in this book
+In the original text
+The three foundations of metacognition are not directly mentioned.
+But grammatically and logically
+These three concepts are indeed parallel
+Belong to the same category
+This requires AI to be able to correctly identify the category of abstract concepts
+It has to summarize a set of structures
+But you can't make up content that has no basis
+At the same time, due to the concept of metacognition
+In fact, it is mentioned repeatedly throughout the book.
+This is even more challenging
+A model
+Is it possible to call all relevant parts?
+as well as
+Can you distinguish which sentences are essential statements?
+Which sentences just revolve around this concept
+Expand and derive
+The fourth step is to examine the application of theories across chapters
+This is also the most practical layer
+For example, we can ask
+Please base on the three foundations of metacognition in this book.
+Analyze the specific psychological characteristics of indifferent attachment in these three dimensions
+The concepts of metacognition and indifferent attachment
+Distributed across two very large chapters
+Therefore, AI must first abstract
+Three basic concepts of metacognition
+Then
+Apply this concept to the following analysis
+This requires AI to be able to apply theories to different scenarios
+Rather than mechanically reciting
+Ability to apply abstract theories to analyze specific cases
+This can be said to be the case in humanities and social science research.
+The most practical and valuable skill
+To sum up
+In today's video
+We discussed our expectations for AI's reading abilities
+And the significance of conducting such a test
+Next
+We can now officially enter the competition phase
+I will update two issues this weekend
+I will post the next video tomorrow.
+Announce the results of the competition
+That's all for today's video.
+If you have any confusion or questions
+Want to communicate with me
+Just contact my email directly
+for example
+You want to discuss an article or a paragraph with me
+A certain video, a certain social phenomenon
+Or your diary
+Please send me the relevant text in advance.
+Before the formal communication, I will
+Finish reading or
+You want to discuss your life experience with me
+Confusion and emotion
+All are possible
+If you are concerned about privacy, security
+Any questions about payment and communication methods
+Please also tell me in time
+If you are unable to pay or join the membership
+Please also contact me
+I will provide other ways
+Please refer to this picture for details
+I will post this video
+Put it in the list of "Psychology and Education"
+Also recommend to everyone
+Check out my other videos in this list
+Thank you for watching, goodbye!
