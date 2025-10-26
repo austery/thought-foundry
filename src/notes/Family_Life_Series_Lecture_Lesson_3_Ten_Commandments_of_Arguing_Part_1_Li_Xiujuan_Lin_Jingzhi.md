@@ -1,6 +1,6 @@
 ---
 title: 第三课：吵架十诫
-summary: null
+summary: 
 area: personal-growth
 category: lifestyle
 project: cultural-critique
@@ -10,10 +10,10 @@ tags:
 - 宗教
 - 家庭生活
 - 视频文稿
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
+people: 
+companies_orgs: 
+products_models: 
+media_books: 
 date: '2025-07-10'
 author: Lei
 speaker: 林静芝,李秀全
