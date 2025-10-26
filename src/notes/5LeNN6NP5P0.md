@@ -1,10 +1,10 @@
 ---
-author: Unknown
+author: 夸克说
 date: '2025-10-26'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=5LeNN6NP5P0
-speaker: Unknown
+speaker: 夸克说
 tags:
   - us-societal-division
   - free-speech

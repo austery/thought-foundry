@@ -1,10 +1,10 @@
 ---
-author: Unknown
+author: 夸克说
 date: '2025-10-26'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=FYGI5RKIRP8
-speaker: Unknown
+speaker: 夸克说
 tags:
   - communist-ideology
   - surplus-value-critique
