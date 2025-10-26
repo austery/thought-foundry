@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 徒步的骑手
+speaker: 徒步的騎手
 channel: null
 guest: null
 insight: null

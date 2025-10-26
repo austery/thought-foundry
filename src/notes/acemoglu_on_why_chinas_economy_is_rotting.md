@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: "2025-08-19"
 author: Lei
-speaker: 徒步的骑手
+speaker: 徒步的騎手
 channel: null
 draft: true
 file_name: acemoglu_on_why_chinas_economy_is_rotting.md

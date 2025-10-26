@@ -1,10 +1,10 @@
 ---
-author: Unknown
+author: 徒步的騎手
 date: '2025-10-26'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=Xhj4z0FFiA4
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - cultural-comparison
   - individualism

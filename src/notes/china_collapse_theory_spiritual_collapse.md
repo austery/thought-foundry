@@ -17,7 +17,7 @@ products_models: []
 media_books: []
 date: 2025-08-07
 author: Lei
-speaker: 徒步的骑手
+speaker: 徒步的騎手
 channel: null
 draft: true
 file_name: china_collapse_theory_spiritual_collapse.md

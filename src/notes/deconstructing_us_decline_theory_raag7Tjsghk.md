@@ -4,7 +4,7 @@ date: 2024-12-24
 guest:
 layout: post.njk
 source: https://www.youtube.com/watch?v=raag7Tjsghk
-speaker: 徒步的骑手
+speaker: 徒步的騎手
 title: 辨析美国衰退论：从政治口号到文明断层
 summary: 本次演讲深入辨析了“美国衰退论”的多种来源，从美国保守派的政治修辞到中文世界的“东升西降”叙事。演讲者通过回顾美国宪政（尤其是第14修正案）和政治参与（如女性投票权）的历史演变，论证了美国民主的进步性，并探讨了“民选独裁”的威胁以及现代文明与反现代文明在东亚形成的“文明断层”。
 tags:

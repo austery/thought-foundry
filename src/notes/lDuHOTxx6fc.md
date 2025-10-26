@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-25'
+author: 夸克说
+date: '2025-09-12'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=lDuHOTxx6fc
-speaker: Unknown
+speaker: 夸克说
 tags:
   - communism-history
   - political-philosophy

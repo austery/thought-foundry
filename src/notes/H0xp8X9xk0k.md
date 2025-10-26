@@ -1,10 +1,10 @@
 ---
-author: Unknown
+author: 徒步的騎手
 date: '2025-10-26'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=H0xp8X9xk0k
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - red-gene-curse
   - rule-of-law
