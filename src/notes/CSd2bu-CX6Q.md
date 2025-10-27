@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-27'
+date: '2025-08-04'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=CSd2bu-CX6Q
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - autonomous-driving-safety
   - product-liability
@@ -31,6 +31,7 @@ products_models:
 media_books: []
 status: evergreen
 ---
+
 ### 案件背景：佛罗里达州的致命车祸
 
 近期，特斯拉在美国市场遭遇了一次沉重的法律打击。佛罗里达州的一个州法院陪审团裁定，在一起涉及特斯拉车辆的致命事故中，特斯拉公司需承担部分责任，并向遇难者家属支付高达2.43亿美元的赔偿金。

@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-09-11'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=SHY1Tp6c2HM
@@ -30,6 +30,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 从“红太阳”到“桩上龟公”：解构被神化的偶像
 
 在中国，曾经有一代人，他们将领袖视为“红太阳”，认为他是带来光明和希望的神。然而，随着时间的推移和信息的流通，人们开始用一个新的词来形容他——**桩上龟公**（zhuāng shàng guī gōng: 一个民间俚语，比喻那些被强行安放在高位上，却毫无实际能力、只能任人摆布的傀儡）。

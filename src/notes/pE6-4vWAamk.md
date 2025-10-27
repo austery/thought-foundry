@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-08-29'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=pE6-4vWAamk
@@ -34,6 +34,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### “溃而不崩”：一种更具杀伤力的状态
 
 近几年来，关于中国社会经济的讨论中，出现了一个比“崩溃”更令人担忧的词——**溃而不崩**（Collapsing without Disintegrating: 指社会经济持续衰败，但政治体制依旧维持稳定，导致整个社会陷入长期停滞和痛苦的状态）。这种状态之所以更具杀伤力，是因为它不像剧烈的崩溃那样能够迅速带来改变，而是将一代人甚至两代人锁定在经济凋敝、社会僵化和精神压抑的漫长时期里。

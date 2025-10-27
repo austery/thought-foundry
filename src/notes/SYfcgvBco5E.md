@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-09-25'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=SYfcgvBco5E
@@ -32,6 +32,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 德克萨斯平原上的科曼奇幽魂
 
 这些年，我几乎每年都会驾车穿越德克萨斯州。德州地域辽阔，从东到西、从南到北的距离都超过1200公里。当你驱车行驶在广袤的平原上，窗外的天空似乎永远没有尽头。如今，这片土地上是现代化的牧场和城镇，但在150多年前，这里是**科曼奇人**（Comanche: 历史上活动于美国大平原南部的印第安民族，以其精湛的马术和骁勇善战而闻名，被称为“平原之王”）的天下。

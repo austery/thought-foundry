@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-26'
+date: '2025-08-10'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=ReSHs4qKqO8
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - risk-perception
   - predator-prey-dynamics
@@ -31,6 +31,7 @@ media_books:
   - 《辛德勒的名单》
 status: evergreen
 ---
+
 ### 引言：为什么有些人总被“人渣”盯上？
 
 今天我们来探讨一个问题：为什么有些人似乎总是被**人渣**（rénzhā: 字面意思为“人类的渣滓”，泛指那些品行败坏、为达目的不择手段地损害他人利益的人）盯上？

@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-09-30'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=Xhj4z0FFiA4
@@ -34,6 +34,7 @@ products_models:
 media_books: []
 status: evergreen
 ---
+
 ### 户外生活与冷水澡的启示
 
 这个频道已经做了107期了。做视频和写文字是两种完全不同的技能。我深知从文字转向视频有一个学习曲线，所以我一直在努力适应。这个频道的目标是，在我完成第107期之后，在科罗拉多庆祝一下。

@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-08-25'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=zevFSFL0uaE
@@ -30,6 +30,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 引言：一个普通女孩的非凡成就
 
 人活一世，离不开衣食住行，而这一切都与金钱息息相关。我们努力工作，希望能够多赚一些钱，改善生活。最近，我在 CNBC 上看到一篇报道，标题是《30岁，没上过医学院，她在医院年入超过30万美元》。这个故事的主人公是一位名叫 Chabelli 的年轻女性，她的经历非常鼓舞人心。

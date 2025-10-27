@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-09-26'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=B0LyPKotbC0
@@ -33,6 +33,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 中国知识分子的两种“鸦片”
 
 大家好，今天我们来谈谈“鸦片”。一提到鸦片，人们通常会联想到中国近代史。但卡尔·马克思也曾说过一句名言：“宗教是人民的鸦片。” 那么，对于今天的中国人来说，马克思主义是他们的鸦片吗？我认为不是。

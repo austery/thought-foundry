@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-09-09'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=y2jvpfbMHaQ
@@ -32,6 +32,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 华盛顿特区的紧张景象
 
 最近我去了趟华盛顿特区，那里的气氛让我感触很深。在街上，你会看到警察和**国民卫队**（National Guard: 美国各州的预备役军事部队，通常在紧急状态下由州长调动以维持秩序）在抓人。一位优步司机告诉我，现在特区的街头很不安全，你不知道什么时候就会遇到麻烦。

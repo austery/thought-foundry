@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-10-04'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=fKQ8R1chSGk
@@ -30,6 +30,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 富人的嗅觉：为何他们率先“润”出中国？
 
 近年来，中国社会一个日益明显的趋势是，越来越多的人感到不安。富裕阶层虽然不一定都是最聪明的人，但他们对风险和环境变化的嗅觉，远比普通人灵敏得多。当他们开始大规模地用脚投票时，往往预示着某种深层问题的出现。

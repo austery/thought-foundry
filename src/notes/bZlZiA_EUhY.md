@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-26'
+date: '2025-10-16'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=bZlZiA_EUhY
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - cognitive-revolution
   - world-centric-view
@@ -32,6 +32,7 @@ media_books:
   - 《晚清七十年》
 status: evergreen
 ---
+
 ### 周有光的诊断：要从世界看中国
 
 很多人都在思考中国的问题，但最根本的问题是什么？被誉为“汉语拼音之父”的周有光先生，用他一生的思考给出了一个深刻的答案。周有光先生生于1906年，于2017年以111岁高龄去世，他的人生跨越了晚清、民国、毛泽东时代以及改革开放，见证了中国的百年沧桑。

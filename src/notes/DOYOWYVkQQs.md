@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-09-12'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=DOYOWYVkQQs
@@ -38,6 +38,7 @@ media_books:
   - The Daily Beast
 status: evergreen
 ---
+
 ### 查理·柯克遇刺案：事实与媒体乱象
 
 两天前，在犹他州发生了一起事件，很快登上了新闻头条。许多人要求我谈论此事，但我实际上并不清楚具体情况。媒体的报道都显得语无伦次，案件的基本事实，甚至连**美国联邦调查局**（FBI: Federal Bureau of Investigation）和警方都无法确定，我也无从得知。

@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-27'
+date: '2025-08-01'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=AALHvZym16w
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - social-mobility
   - educational-anxiety
@@ -28,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 中国社会的财富分配与阶层固化
 
 在中国，社会财富的分配呈现出高度集中的金字塔结构。顶端极少数人掌握着绝大部分财富，而超过95%的普通人，仅拥有社会总财富的一小部分。根据招商银行的数据，不到2%的人拥有超过80%的金融资产，这揭示了巨大的财富鸿沟。

@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-09-15'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=VcQHigpAWOE
@@ -40,6 +40,7 @@ media_books:
   - 《Yale Law Journal》
 status: evergreen
 ---
+
 ### “值得的代价”：枪支暴力与第二修正案的现代争议
 
 枪支是美国社会一个非常特殊的问题。最近，美国保守派活动家查理·科克（Charlie Kirk）在犹他州的一所大学演讲时，被问及每年因枪支暴力丧生的人是否“值得”。他回答说：“我认为，为了我们能拥有第二修正案，每年不幸地付出一些枪支死亡的代价是值得的。”

@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-26'
+date: '2025-08-14'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=ObeI-z35qnQ
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - ancient-civilization-syndrome
   - historical-burden
@@ -30,6 +30,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 从南海撞船事件说起
 
 最近两天，中国海警船在南海与菲律宾船只发生了撞击。菲律宾方面公布了视频，使得全世界主流媒体都对此进行了报道。然而，中国的官方回应却首先指责菲律宾“碰瓷”，这种反应在外界看来非常奇特。

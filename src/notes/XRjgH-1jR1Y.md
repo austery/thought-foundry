@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-27'
+date: '2025-08-07'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=XRjgH-1jR1Y
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - strong-control-weak-governance
   - social-governance
@@ -28,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 四川霸凌事件：一场“人心未死”的群体抗议
 
 最近，四川某地发生的一起涉及14岁女孩的校园霸凌事件，通过一段长达10分45秒的视频在社交网络上发酵，引发了公众的强烈愤慨。事件发生后的72小时内，成千上万的民众，尤其是年轻人，自发聚集到当地，为受害者发声。他们唯一的诉求，就是为那个被欺凌的孩子讨回公道。

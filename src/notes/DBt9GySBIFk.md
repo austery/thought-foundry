@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-10-06'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=DBt9GySBIFk
@@ -32,6 +32,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 只要愚蠢未过时，古老智慧便永存
 
 今天我们来谈谈最后几句话。中国古人有言，至今依然适用。有句话说得好：只要愚蠢还没有过时，古老的智慧就不会过时。这句话据说是**孔子**（Confucius: 中国古代著名的思想家、教育家，儒家学派创始人）所言，距今已有2509年。

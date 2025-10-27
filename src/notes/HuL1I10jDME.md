@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-26'
+date: '2025-10-09'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=HuL1I10jDME
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - personal-transformation
   - life-changing-moments
@@ -30,6 +30,7 @@ media_books:
   - 《山丘》
 status: evergreen
 ---
+
 ### 和山丘一样平坦的人生
 
 大家好，这个频道创立九年来，收到了很多朋友的故事。每个人的经历各不相同，但生命中似乎总有某些共通的体验。今天，我想分享一下我自己的故事。

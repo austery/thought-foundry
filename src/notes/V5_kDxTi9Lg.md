@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-10-08'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=V5_kDxTi9Lg
@@ -29,6 +29,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 在绝望中把自己活成希望
 
 一年前，这个频道分享了一些年轻人的故事，他们从乡村走向大城市，在事业和生活中挣扎、奋斗。这些故事充满了汗水和力量，给了很多人希望。希望是上帝免费的礼物，它支撑着我们前行。

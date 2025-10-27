@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-08-15'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=15FQbZIsWh0
@@ -31,6 +31,7 @@ media_books:
   - 《南京照相馆》
 status: evergreen
 ---
+
 ### 两种家庭，两种未来
 
 大家好。最近我在社交媒体上看到一个引人深思的对比：什么样的家庭会带孩子去日本旅游，而什么样的家庭又会带孩子去看《南京照相馆》？这背后反映了当今中国社会一个深刻的分裂。

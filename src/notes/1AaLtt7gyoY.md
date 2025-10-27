@@ -1,6 +1,6 @@
 ---
 author: 徒步的騎手
-date: '2025-10-26'
+date: '2025-08-19'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=1AaLtt7gyoY
@@ -35,6 +35,7 @@ media_books:
   - 《国家为什么会失败》
 status: evergreen
 ---
+
 ### 诺奖得主的预言：中国经济正从“头部”开始腐烂
 
 今天我们来探讨一个比较严肃的话题：中国经济正从“头部”开始腐烂。这句话并非危言耸听，而是引自诺贝尔经济学奖得主**达龙·阿西莫格鲁**（Daron Acemoglu）在2022年发表的一篇文章，标题就是《中国的经济正从头部腐烂》。

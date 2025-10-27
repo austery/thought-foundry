@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-27'
+date: '2025-08-07'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=FiJJYqOhqBk
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - collapse-theory
   - value-system
@@ -29,6 +29,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### “崩溃论”：一个令人上瘾的社会心态
 
 在中国，我们正经历一个剧烈的社会变迁，许多人似乎陷入了一种“时代病”。这种病的典型症状是：从早晨睁开眼开始，就不断地刷新社交媒体，沉浸在海量的信息流中，尤其关注那些关于“崩溃”的叙事。
