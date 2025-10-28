@@ -3,9 +3,9 @@
 name: Build and Deploy to Public Repo
 
 on:
-  # 定时构建：每小时运行一次（在每小时的第5分钟）
+  # 定时构建：每8小时运行一次（在每8小时的第5分钟）
   schedule:
-    - cron: '5 * * * *'
+    - cron: '5 */8 * * *'
 
   # 保留手动触发，用于紧急部署
   workflow_dispatch:
