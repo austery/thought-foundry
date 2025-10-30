@@ -1,9 +1,9 @@
 ---
 title: 关于中国真实失业率及其对政权影响的探讨
 summary: null
-area: null
-category: null
-project: []
+area: society-systems
+category: general
+project: china-analysis
 tags:
 - 政治
 - 数字极权
@@ -14,12 +14,12 @@ products_models: []
 media_books: []
 date: '2025-05-25'
 author: Lei
-speaker: 夸克
+speaker: 夸克说
 channel: null
 guest: null
 insight: null
 layout: post.njk
-source: null
+source: https://www.youtube.com/watch?v=il0nRsgDXeg
 ---
 大家好，欢迎收看夸克说，我是夸克。
 

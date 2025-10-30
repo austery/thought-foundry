@@ -1,29 +1,27 @@
 ---
 title: 【夸克说】中美稳定币战争，中国一定会输吗？
 summary: null
-area: null
-category: null
-project: []
+area: society-systems
+category: geopolitics
+project: china-analysis
 tags:
-- finance
 - us-china-relations
 - 人民币国际化
 - 数字货币
 - 稳定币
-- 视频文稿
 people: []
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 夸克
+speaker: 夸克说
 channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
-source: https://www.youtube.com/watch?v=S016G-XgRws
+source: https://www.youtube.com/watch?v=pxvXVXRkvKQ
 ---
 ## 引言：稳定币热潮与中国舆论
 
