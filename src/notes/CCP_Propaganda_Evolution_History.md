@@ -1,13 +1,12 @@
 ---
 title: 中共宣传进化史：从舆论引导到舆论斗争
-summary: null
+summary: 
 area: society-systems
 category: general
 project: china-analysis
 tags:
 - 内宣
 - 新闻反转
-- 视频文稿
 people: []
 companies_orgs: []
 products_models: []
