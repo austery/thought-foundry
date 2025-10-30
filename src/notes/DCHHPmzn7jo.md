@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-02-08'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=DCHHPmzn7jo
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - humor-suppression
   - chinese-society
@@ -37,6 +37,7 @@ media_books:
   - 《普心难断》
 status: evergreen
 ---
+
 ### 中国人是否开得起玩笑？
 
 今天我们来聊一个看似轻松却又有些沉重的话题：中国人是否开得起玩笑？中国当然有不少人喜欢开玩笑，也有很多人开得起玩笑。然而，从近十年出现的各种怪现象来看，许多中国人的确开不起玩笑。这些人借助网络与权力勾结，将中国变成了一个开不起玩笑的国家。尤其是近两年，中国似乎又回到了开玩笑可能引来大祸的时代。

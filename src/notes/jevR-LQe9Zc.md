@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-03-28'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=jevR-LQe9Zc
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - us-political-spectrum
   - political-polarization
@@ -45,6 +45,7 @@ media_books:
   - 约翰逊总统传记
 status: evergreen
 ---
+
 ### 美国政治的真实光谱：中间偏右的主流
 
 这些年中文世界有个现象，就是不少人夸大美国左派的影响力。从各种民调和社会学研究来看，美国总体上是个中间偏右的国家。在政治、经济、宗教、文化以及福利政策方面，美国不但比欧盟要右，比英国要右，而且比邻国加拿大也要右一些。

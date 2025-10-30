@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2024-12-27'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=Uwh6LpY10AA
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - unequal-starting-points
   - personal-resilience
@@ -40,6 +40,7 @@ media_books:
   - 《詹姆斯王清定本圣经》
 status: evergreen
 ---
+
 ### “国家大事”与“生活大事”：语言与三观的塑造
 
 今天外面下雨，无法划艇也无法骑车，我们继续讲故事。年底前，我去了趟日本，见到了几位朋友和几位书人，走了两段熊野古道。在中途，我做了两场演讲，随想随说，讲的都是些国家小事、生活大事。为什么反过来说呢？道理是这样的：

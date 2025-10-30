@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-05-15'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=ByzkAFinj2g
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - political-success
   - human-nature-exploitation
@@ -33,6 +33,7 @@ media_books:
   - 《乌合之众》
 status: evergreen
 ---
+
 ### 政治赢家：人性弱点与愚蠢政客的成功之道
 
 各位好，给大家讲一个有意思的话题：为什么蠢货会成为政治赢家？在民主国家，有些政客愚蠢、无知、腐败、不靠谱、刚愎自用、没有远见，却能在选举中获胜，战胜比他们聪明的对手。而在独裁国家，有些政客政绩平平，甚至政绩拙劣，口才也很差，却能战胜党内外对手，或者直接干掉党内外对手，成为国家元首。奥秘究竟在什么地方呢？我们这期节目就讲一讲这个问题。

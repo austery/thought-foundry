@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-06-05'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=znht8hwlIh4
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - elite-education-critique
   - moral-hypocrisy
@@ -37,6 +37,7 @@ media_books:
   - The Harvard Crimson
 status: evergreen
 ---
+
 ### 对哈佛毕业演讲的批评与“假大空”现象
 
 从武岭下来比较困乏，睡了两天觉。前天在台北跟几位年轻朋友吃饭，说起中文圈最近的一个热点。他们都看过中国留学生江宇荣在哈佛大学毕业典礼上的演讲。一个共同的感受是，太假了。蒋小姐那个演讲的主题“Our shared humanity, our shared future”这本身没有问题，尤其是在川普时代，世界更加割裂，强调共同的人性、共同的未来是个很好的毕业演讲主题。但演讲的具体内容太空洞了，他传递的方式太虚假了，假到让人有不适感。大学把一个年轻人教育成什么都不会错的**假大空Bot**（假大空机器人: 指那些言辞空泛、内容虚假、缺乏实际行动的人或言论，常用于批评精英教育的产物），让人叹息，让人惋惜。

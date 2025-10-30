@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-07-10'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=zPVi8G-N3nQ
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - chinese-debt-crisis
   - land-finance
@@ -33,6 +33,7 @@ media_books:
   - 《经济学人》
 status: evergreen
 ---
+
 ### 中国家庭债务危机：从勤俭到负债累累
 
 前段时间我们讲美国比较多，今天我们来谈谈中国。最新一期**《经济学人》**（The Economist: 一份英国的全球性新闻和国际事务刊物）有一篇报道，题目是《为什么这么多中国人被债务淹没》（Why so many Chinese are drowning in debt）。曾几何时，中国人以勤俭节约、爱存钱著称，贷款消费是不可思议的事情。

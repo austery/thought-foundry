@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-04-30'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=wy32xsNzRy0
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - us-supreme-court
   - judicial-review
@@ -46,6 +46,7 @@ media_books:
   - 《垂帘听政》
 status: evergreen
 ---
+
 大家好，上周我在东京做了三场演讲，节目因此没有更新，十分抱歉。这周又回到了徒步路上，可以恢复节目录制和更新。上上周五傍晚，在德克萨斯州发生了一件不同寻常的事情。
 
 ### 德克萨斯州紧急遣返事件始末

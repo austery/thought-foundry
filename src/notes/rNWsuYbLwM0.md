@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-02-08'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=rNWsuYbLwM0
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - concepts-of-freedom
   - negative-liberty
@@ -37,6 +37,7 @@ media_books:
   - Two Concepts of Liberty
 status: evergreen
 ---
+
 ### 自由的复杂性与多重含义
 
 卢梭有句话说：“人生而自由，却无处不在枷锁之中。”很多人听到“人生而自由”这句话，可能马上会想到呱呱坠地的婴儿，但这种想象是错误的。卢梭说“人生而自由”不是指婴儿一生下来就自由，而是说人的**原初状态**（Original State: 哲学假定，指人类在社会和法律出现之前的状态）。婴儿生下来没有什么自由，离开母亲根本生存不下去，他谈不上自由。人在原初状态，这是一种哲学假定，它在现实世界根本就不存在，在历史上也不存在，它只是存在于理论世界。它是哲学思考或者说建立一种理论时必须假定的一个前提，不可能用经验来验证。观念世界离不开这种假设的前提，你只要有思想、只要有思考，它必须有一个出发点，它必须有一个前提，没有前提人是无法思考的。只不过人们经常意识不到自己的思考还有一个前提。

@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-03-06'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=jsSY0hLTjl4
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - us-supreme-court
   - executive-orders
@@ -36,6 +36,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 最高法院叫停川普行政命令
 
 今天上午，美国最高法院否决了川普政府的上诉，支持联邦地区法院的一项判决。这意味着最高法院勒令川普政府向承包商支付被**行政命令**（Executive Order: 总统向联邦行政系统发出的指示，无需国会批准即可生效）冻结的对外援助款项。

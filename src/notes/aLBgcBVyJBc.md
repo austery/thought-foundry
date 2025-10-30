@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-04-04'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=aLBgcBVyJBc
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - government-size-debate
   - dogmatic-interpretation
@@ -36,6 +36,7 @@ media_books:
   - 《奴役之路》
 status: evergreen
 ---
+
 ### “小政府”教条的起源与误读
 
 在中文世界，不少人谈论**小政府**（Small Government: 一种主张政府权力与干预范围应尽可能小的政治理念），并将其与**保守主义**（Conservatism: 一种强调维护传统、限制政府干预的政治哲学）联系起来。他们喜欢引用**里根总统**（Ronald Reagan: 第40任美国总统，以其保守主义经济政策闻名）的格言：“政府解决不了我们的问题，政府才是问题。”然而，这句话是从里根1981年总统就职演说中抽取出来的一句话，经过掐头去尾、删掉上下文后，才成了简单易记的口号。

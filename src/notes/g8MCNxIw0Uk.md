@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-01-25'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=g8MCNxIw0Uk
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - self-growth
   - immigrant-experience
@@ -50,6 +50,7 @@ media_books:
   - 《原罪与正义》
 status: evergreen
 ---
+
 ### 开播满月，感谢相遇
 
 这个播客从圣诞夜上线到今天，正好满一个月。这期间，我收到了三百多条听众留言，大部分是夸赞和鼓励的话，也提出了一些宝贵的建议。作为播客新手，读了以后很受激励，也很感动，在此一并致谢。

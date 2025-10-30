@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-07-26'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=LeFobtxKgQU
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - autonomous-driving-safety
   - misleading-marketing
@@ -54,6 +54,7 @@ media_books:
   - 《我为什么不得不放弃使用特斯拉的全自动驾驶》
 status: evergreen
 ---
+
 ### 智能驾驶的狂热炒作与安全隐患
 
 近两年，国内车企对**自动驾驶**（Autonomous Driving: 车辆在无需人类驾驶员操作的情况下，能够感知环境、规划路径并执行驾驶任务的技术）的炒作达到了前所未有的热度，甚至让发明这项技术的美国市场都望尘莫及。一些车主轻信车厂的虚假广告，将**辅助驾驶**（Advanced Driver-Assistance Systems, ADAS: 通过各种传感器和技术帮助驾驶员更安全、更轻松地驾驶车辆的系统，但仍需驾驶员保持警惕并随时准备接管）当作全自动驾驶来使用，导致了车毁人亡的悲剧。事故发生后，车企大多撇清关系，指责车主操作不当，声称驾驶手册和购车合同已明确规定，事故责任全在车主，与车厂无关。那么，目前市场上家用汽车自动驾驶的性能和安全性究竟如何呢？

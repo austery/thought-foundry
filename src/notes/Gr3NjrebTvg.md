@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-01-19'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=Gr3NjrebTvg
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - information-quality
   - digital-divide
@@ -46,6 +46,7 @@ media_books:
   - Substack
 status: evergreen
 ---
+
 ### 引言：心智难民与信息时代
 
 今天，我们来探讨一下互联网时代**心智难民**（Mind Refugees: 指在信息洪流中迷失、无法有效获取和运用高质量信息的人群）的现象。我们这里谈论的是**心智**（Intelligence: 一种更综合性的能力，根据牛津词典的定义，是指获取和运用知识的能力），而非智力。智力通常容易让人联想到智商（IQ）。

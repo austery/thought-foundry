@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-02-11'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=Rp03uYZbh6g
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - us-politics
   - executive-orders
@@ -40,6 +40,7 @@ media_books:
   - Ezra Klein的博客
 status: evergreen
 ---
+
 ### 引言：本能与理性的反应
 
 今天我们来谈谈特朗普新政。特朗普上任三个星期以来，已经签发了五十多个行政命令，平均每天签发三个。每当他签发一个行政命令，人们就会做出不同的反应，支持的表示支持，反对的表示反对。从这些反应来看，无论是支持者还是反对者，都可以分成两大类：第一类是未经大脑处理的**本能反应**（reflex: 未经大脑处理、快速、非自主的生理或心理反应）；第二类是理性思考后做出的**理性反应**（reaction: 经过大脑思考、分析、理解后做出的判断和行为）。这两种性质不同的反应会直接影响到人的判断力和行为方式。

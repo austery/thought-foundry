@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-02-06'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=BIAsYA0u_6E
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - freedom-definition
   - political-philosophy
@@ -44,6 +44,7 @@ media_books:
   - 《美国宪法》
 status: evergreen
 ---
+
 ### 厘清“自由”的含义：避免思维与行为的混乱
 
 在中文世界，“自由”是一个经常被滥用的词；在英文世界，“自由”则是一个每天都被滥用的高频词。现代生活的方方面面，从吃喝拉撒、上学工作到政治法律，都离不开自由。然而，如此重要的一个词在日常语言中却混乱无比。用词混乱导致思维混乱，思维混乱导致行为混乱，也导致很多人在追求自由时，反而成为被奴役、被操纵的对象。要避免这种命运降临到自己头上，就必须保持头脑清楚。保持头脑清楚的第一步，就是要为自由**正名**（zhèng míng: 澄清或确定事物的名称和概念）。

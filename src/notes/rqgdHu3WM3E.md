@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-06-15'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=rqgdHu3WM3E
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - us-election-2024
   - political-polarization
@@ -52,6 +52,7 @@ media_books:
   - Syracuse University
 status: evergreen
 ---
+
 ### 川普阅兵与“不要国王日”抗议
 
 今天我们来谈谈川普阅兵、昨天遍布全国的抗议示威、洛杉矶骚乱，以及我们从这一系列事件中能看到什么。昨天，川普在首都华盛顿举行了**阅兵**（Military Parade: 国家为展示军事实力、纪念重大事件或欢迎重要宾客而举行的军队检阅仪式），以纪念美国陆军建军250周年。这一天碰巧也是川普的79岁生日。

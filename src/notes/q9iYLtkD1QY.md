@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-01-17'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=q9iYLtkD1QY
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - food-security
   - social-welfare
@@ -35,6 +35,7 @@ media_books:
   - 《狂人日记》
 status: evergreen
 ---
+
 ### 揭穿“美国饥饿论”的谎言
 
 近年来，中国的官方媒体和自媒体中流传着一个消息，声称有几千万美国人挨饿，许多家长没有钱给孩子买吃的。这类消息的中文来源通常是官方的宣传机器。例如，2020年8月18日，**中央电视台**（CCTV: 中国国家广播电视机构）曾发布一条国际新闻，标题为“饥饿的美国：近两成家长难以负担孩子饮食”，并声称是引用了**《华尔街日报》**（The Wall Street Journal: 美国著名商业报纸）的报道。然而，中国官方喉舌报道国外新闻的惯用套路是掐头去尾、歪曲翻译，将国外新闻拼凑成一点真消息掺杂假消息的产物。

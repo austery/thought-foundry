@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-03-21'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=GF84F1GMlDU
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - interpersonal-boundaries
   - online-etiquette
@@ -46,6 +46,7 @@ media_books:
   - 《追求幸福》
 status: evergreen
 ---
+
 ### 人际交往的边界与社交媒体的生态
 
 今天，我们将结合听众的留言评论，探讨几个问题，包括人与人交往的**边界感**（Boundary Sense: 人际互动中保持适当距离和尊重的基本社交规范）、中文世界流行的“善意的粗鲁”、生活中的一些遗憾、YouTube博主与观众的关系，以及中文世界的**民主饥渴症**（Democracy Hunger Syndrome: 渴望民主但对其理解停留在表面，缺乏深入认知）和**望梅止渴**（Plum-gazing to Quench Thirst: 比喻对民主的理解停留在想象层面，而非基于现实）现象。

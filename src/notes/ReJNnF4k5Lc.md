@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2024-12-29'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=ReJNnF4k5Lc
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - loneliness-companionship
   - personal-courage
@@ -33,6 +33,7 @@ media_books:
   - 《为幸福而生》
 status: evergreen
 ---
+
 ### 博客缘起：“徒步的棋手”
 
 今天在湖上划艇划了差不多四个小时，阳光灿烂，跟春天一样，一点冬天的感觉都没有。有些男孩子女孩子在后边躺椅上穿着短裤比基尼在晒日光浴。说说开这个博客的想法，我是**徒步的棋手**（The Hiking Chess Player: 结合徒步和下棋两个爱好而起的笔名）。推特和Substack上曾有读者问为什么叫徒步的棋手，因为我喜欢徒步也喜欢下棋，把这两个爱好放到一起就成了徒步的棋手，没有其他含义。这几年我经常出门，连徒步带骑行加起来差不多有两万多公里。

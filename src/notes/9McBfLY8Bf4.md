@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-01-28'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=9McBfLY8Bf4
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - wage-arrears
   - labor-rights
@@ -36,6 +36,7 @@ media_books:
   - 《Wall Trash》
 status: evergreen
 ---
+
 ### 中国欠薪现象的蔓延与深层原因
 
 每到年关，中国国内就会出现**讨薪潮**（指工人集中向雇主追讨被拖欠工资的现象）。许多农民工辛辛苦苦工作数月甚至大半年，却领不到薪水。近两年，随着经济不景气，欠薪现象开始向各行各业蔓延，农民工不再是唯一的受害群体。拖欠工人薪水这种行为，比压低工人工资更为恶劣，因为中国普通工人，尤其是农民工，享有的社会保障水平很低，基本没有什么社会保障。领不到薪水，常常是压垮他们个人和家庭的最后一根稻草。

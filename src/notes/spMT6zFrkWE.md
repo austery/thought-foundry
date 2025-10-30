@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-03-31'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=spMT6zFrkWE
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - phrase-slavery
   - theoretical-simplification
@@ -47,6 +47,7 @@ media_books:
   - GPS
 status: evergreen
 ---
+
 ### 引言：短语的奴隶与理论的简化
 
 在中文世界，不少人读书后只记住人名、书名以及几个短语。这些年流行的“**文明的冲突**”（Clash of Civilizations: 萨缪尔·亨廷顿提出的关于冷战后世界冲突模式的理论）、“**历史的终结**”（The End of History: 弗朗西斯·福山提出的关于自由民主制是人类政府最终形式的理论）、“**修昔底德陷阱**”（Thucydides Trap: 格雷厄姆·艾利森提出的关于新兴大国挑战守成大国时战争难以避免的理论）等短语，都是亨廷顿和他的学生们发明的。

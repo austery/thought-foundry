@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-03-26'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=qWV4kvQa53U
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - us-political-history
   - supreme-court-rulings
@@ -46,6 +46,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 美国政治的复杂性与“政治单层人”的误区
 
 我们中文世界很多人了解美国是从看总统大选开始的。美国每四年一大选，每两年一小选。在正常年份，大选就像一部好莱坞大片，两党候选人是主角，广大选民是群众演员，有序幕、有情节、有铺垫、有高潮、有起承转合，有悲剧也有喜剧。选举结果一揭晓，影片就算落幕了。总统上台执政，大部分政策都是可以预见到的日常政治，枯燥乏味，除非出现什么丑闻，普通人并不感兴趣。但是遇到唐纳德·川普（Donald Trump），他有很高的表演天赋，把好莱坞大片变成了演不完的连续剧，从2016年一季一季地演到现在，观众遍及全世界。除美国以外，观众人数最多的国家可能就是中国。

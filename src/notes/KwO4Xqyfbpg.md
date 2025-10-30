@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-03-14'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=KwO4Xqyfbpg
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - cognitive-upgrading
   - critical-thinking
@@ -37,6 +37,7 @@ media_books:
   - 《中国学者谈启蒙》《割靴挠痒》或者《瞎子摸象》
 status: evergreen
 ---
+
 ### 知识精英的责任与“居高临下感”的迷思
 
 人应该在法律上平等，在尊严上平等，但是在知识、见识、阅历方面，人与人之间差别很大。缺少学习能力又固执己见的人，容易觉得被人居高临下。我很欣赏的一位老师徐奔曾经讲过这个道理。徐奔老师在加州的一所大学教书，出版了很多著作。几年前，他的新书《与时俱进的启蒙》出版，《燕京书评》对他有个访谈，题目叫《中国学者谈启蒙》《割靴挠痒》或者《瞎子摸象》，很值得一读。

@@ -4,7 +4,7 @@ date: '2025-10-28'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=uyN-cCUpAXM
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - healthcare-corruption
   - whistleblower-system
@@ -46,6 +46,7 @@ media_books:
   - 《华尔街日报》
 status: evergreen
 ---
+
 ### 美国医药行业的灰色地带：合法芬太尼的腐败链
 
 从中国到北美的地下芬太尼产业链令人震惊，而美国境内也存在着合法的芬太尼腐败链。一些处于灰色地带的医生和药厂，以及一位从科学家、专科医生一步步沦为“绝命毒师”的传奇人物，构成了这个复杂的故事。在美国，医生是一个高收入行业，正如那首流行了半个多世纪的乡村歌曲《妈妈们别让你们的孩子长大当牛仔》所唱，父母们更希望孩子成为医生或律师，这两个职业在美国社会被认为是高门槛、高收入的象征。今天，我们将讲述一位来自山东的医生，阮秀璐的故事。

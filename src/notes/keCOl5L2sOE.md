@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-01-15'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=keCOl5L2sOE
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - chinese-fraud-industry
   - propaganda-fraud
@@ -43,6 +43,7 @@ media_books:
   - 《旧王绝论》
 status: evergreen
 ---
+
 ### 中国诈骗业的兴盛与“歧视链”
 
 这几年，中国百业凋敝，似乎只有诈骗业越来越发达。这不仅指民间的各种经济诈骗，更包括官办的舆论诈骗。这种舆论诈骗蔓延到各行各业，渗透到普通人生活的方方面面。除了官方喉舌，各种追求流量的自媒体也都加入进来，争取分一杯羹。

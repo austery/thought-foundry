@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-01-22'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=L-MEGePkUIs
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - garbage-time
   - pursuit-of-happiness
@@ -41,6 +41,7 @@ media_books:
   - 《骆驼祥子》
 status: evergreen
 ---
+
 ### 垃圾时间，追求快乐：现代文明的普世信条
 
 去年开始，中文世界流行一个词，叫**垃圾时间**（Garbage Time: 指结局已定，普通人无能为力，只能等待时间流逝的时期）。结局既然已经注定，普通人无能为力，除了躺平，还能做点什么呢？其实，越是在历史的垃圾时段，人们越要追求快乐。

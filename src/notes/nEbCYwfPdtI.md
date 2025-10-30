@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-04-10'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=nEbCYwfPdtI
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - us-tariff-policy
   - economic-consequences
@@ -43,6 +43,7 @@ media_books:
   - 《Why Musk vs. Navarro Matters》
 status: evergreen
 ---
+
 ### 川普关税战的序幕：政策反复与市场震荡
 
 上周，唐纳德·川普拉开了关税战的序幕，宣布实施**全面对等关税**（Reciprocal Tariffs: 一种贸易政策，旨在对贸易伙伴征收与对方对本国商品相同的关税，以实现贸易平衡）。此前，节目中一直未对此做评论，主要原因是该政策注定会变来变去。就在全面对等关税即将实施之际，川普突然宣布全面推迟90天，只保留10%的关税，但对中国是个例外，他将中国的关税加到了125%。子弹飞了一周，现在算是关税战序幕的首场，暂告一段落，我们可以就一些相关的事实和背后的逻辑进行探讨。

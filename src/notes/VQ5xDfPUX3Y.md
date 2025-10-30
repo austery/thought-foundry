@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-06-28'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=VQ5xDfPUX3Y
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - israel-iran-conflict
   - military-strategy
@@ -43,6 +43,7 @@ media_books:
   - 《权力的游戏》
 status: evergreen
 ---
+
 ### 军事行动代号背后的文化寓意
 
 早晨阅读《**华尔街日报**》（The Wall Street Journal: 美国著名商业财经报纸）的头版报道“Inside Operation Narnia”（揭秘纳尼亚行动），觉得内容非常精彩，因此决定与大家分享。在最近两周，以色列轰炸了伊朗，美国随后也补了一波超级炸弹，其目标是摧毁伊朗的核武研发能力。按照西方军队的传统，每个军事行动都有一个代号。美国轰炸伊朗核设施的代号是“**午夜重锤行动**”（Operation Midnight Hammer: 美国轰炸伊朗核设施的军事行动代号），它使用的锤子确实比较重，每颗炸弹重达3万磅，相当于13000公斤，据说能钻透18米的钢筋混凝土，或者能钻透60米的地面然后在地下爆炸。轰炸的效果仍在评估当中，媒体报道引用的各种人物说法真真假假，至今还没有定论。

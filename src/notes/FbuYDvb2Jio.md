@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-04-15'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=FbuYDvb2Jio
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - us-china-trade-war
   - alliance-dynamics
@@ -43,6 +43,7 @@ media_books:
   - 《新约》
 status: evergreen
 ---
+
 ### 引言：在动荡世界中观察川普贸易战
 
 大家好，我在东海道上已经两周了，本来是想慢慢走，看看风景，体会一下沿途的人文和历史。然而，这两周整个世界、整个美国都像过山车一样，想少看新闻也不容易。不过，路上毕竟看新闻的时间少了很多，还在看的主要是《华尔街日报》和《经济学人》这两家报刊。它们都有一个好处，就是大部分文章都有语音功能，可以一边走路一边听。昨天路上听了几篇文章，其中有两篇想跟大家分享。这期节目先分享《华尔街日报》的一篇报道，标题是“US Allies Are Sitting Out of Trump's Trade War with China”（川普跟中国打贸易战，盟友袖手旁观）。我们这期节目就借用《华尔街日报》的这个标题，下面讲的大部分事实和分析也来自于《华尔街日报》的这篇文章。

@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-05-17'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=TtWiRJsaAq8
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - tariff-war
   - trade-policy
@@ -38,6 +38,7 @@ media_books:
   - 《华尔街日报》
 status: evergreen
 ---
+
 ### 特朗普关税战的开端与市场反噬
 
 在中山道上一边走一边听新闻，大部分内容都与特朗普的关税战有关。这两个星期，发现对特朗普判断最准确的是《华尔街日报》。判断准确不是说每个判断都对，那是不可能的，只有上帝和骗子才永远对。当然，对于有些特朗普支持者来说，只有上帝和特朗普才永远对。2025年4月2日，特朗普宣布“解放日”，高调向全世界发动贸易战，导致美国股市、汇市、债市“三杀”，股市暴跌，美元汇率下降，美债收益率上涨。特朗普号称要给对手**极限施压**（Maximum Pressure: 一种外交策略，通过施加巨大压力迫使对手让步），结果却成了给美国经济极限施压。

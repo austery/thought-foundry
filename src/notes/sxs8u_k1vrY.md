@@ -1,10 +1,10 @@
 ---
 author: Unknown
-date: '2025-10-29'
+date: '2025-02-22'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=sxs8u_k1vrY
-speaker: Unknown
+speaker: 徒步的騎手
 tags:
   - elected-autocracy
   - political-legitimacy
@@ -37,6 +37,7 @@ media_books:
   - 《民选独裁》
 status: evergreen
 ---
+
 ### 民选独裁的悖论：真选举还是假支持？
 
 **民选独裁**（Elected Autocracy: 指通过定期选举上台并维持统治，但实际权力高度集中、压制反对派的政权形式）国家的选举到底是真选举还是假选举？像普京这样通过选举维持统治的民选独裁者，他得到的选票是真的吗？换句话说，普京得到的选民支持到底是真的还是假的？要搞清楚这个问题并不容易。西方学者和一些媒体也习惯于把这个问题简单化，对民选独裁的认知也流于简单化。
