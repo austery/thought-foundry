@@ -1,8 +1,8 @@
 ---
-date: '2025-10-31'
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=Y7dwbJ0AtUA
+source: 'https://www.youtube.com/watch?v=Y7dwbJ0AtUA'
 tags:
   - ai-development
   - human-intelligence
@@ -51,6 +51,8 @@ products_models:
 media_books:
   - The Innovator's Dilemma
 status: evergreen
+speaker: a16z
+author: a16z
 ---
 ### AI产品形态的演变与未来
 

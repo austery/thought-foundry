@@ -1,8 +1,8 @@
 ---
-date: '2025-10-31'
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=5ze3ZNvOdRY
+source: 'https://www.youtube.com/watch?v=5ze3ZNvOdRY'
 tags:
   - ai-bubble-debate
   - market-structure
@@ -61,8 +61,10 @@ products_models:
   - Ethernet
   - TPU
   - Tranium
-media_books: []
+media_books: '[]'
 status: evergreen
+speaker: a16z
+author: a16z
 ---
 ### AI泡沫：与2000年互联网泡沫的对比
 

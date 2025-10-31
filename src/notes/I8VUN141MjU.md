@@ -1,8 +1,8 @@
 ---
-date: '2025-10-31'
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=I8VUN141MjU
+source: 'https://www.youtube.com/watch?v=I8VUN141MjU'
 tags:
   - image-generation
   - ai-editing
@@ -36,6 +36,8 @@ products_models:
 media_books:
   - The Diamond Age
 status: evergreen
+speaker: a16z
+author: a16z
 ---
 ### AI 赋能创意：从繁琐到创新
 

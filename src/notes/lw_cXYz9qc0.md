@@ -1,8 +1,8 @@
 ---
-date: '2025-10-31'
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=lw_cXYz9qc0
+source: 'https://www.youtube.com/watch?v=lw_cXYz9qc0'
 tags:
   - us-china-relations
   - trade-war
@@ -44,8 +44,10 @@ companies_orgs:
 products_models:
   - H20
   - Blackwell
-media_books: []
+media_books: '[]'
 status: evergreen
+speaker: FearNation 世界苦茶
+author: FearNation 世界苦茶
 ---
 ### 中美元首峰会：谁是赢家？
 
