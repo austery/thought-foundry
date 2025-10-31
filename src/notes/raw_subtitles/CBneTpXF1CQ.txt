@@ -260,46 +260,43 @@ its
  sandbox
  with
  full
-
-
-[music]
  git
- access
+
+
+access
  and
  we
  can
  watch
  the
-
-
-progress
+ progress
  in
- real
+
+
+real
  time.
  But
  while
  this
-
-
-runs,
+ runs,
  let
  me
- tell
+
+
+tell
  you
  about
  some
  of
  the
-
-
-other
+ other
  stuff
- that
+
+
+that
  we've
  recently
-
-
-launched.
+ launched.
 
 
 The
@@ -346,9 +343,6 @@ followed
  Claude
  Haiku
  4.5.
-
-
-[music]
 
 
 And
@@ -405,14 +399,13 @@ the
 certain
  tasks
  like
- [music]
  computer
  use.
-
-
-Now
+ Now
  the
- benchmarks
+
+
+benchmarks
  are
  impressive.
  73.3%
@@ -460,14 +453,13 @@ probably
 developers
  use
  haiku
- [music]
  4.5
  and
  the
+ big
 
 
-big
- pattern
+pattern
  that
  we're
  seeing
@@ -504,12 +496,11 @@ actually
  implement
  and
  write
- [music]
  the
+ code.
 
 
-code.
- Now
+Now
  this
  multi-
  aent
@@ -737,61 +728,60 @@ that
  have
  been
  changed.
- [music]
  I
  can
  go
-
-
-into
+ into
  VS
- Code
+
+
+Code
  and
  see
  all
  of
  the
  changes
+ that
 
 
-that
- were
+were
  made
  to
  the
  service
  signup,
+ the
 
 
-the
- signup.touchcript
+signup.touchcript
  file,
  and
  much
+ more.
 
 
-more.
- And
+And
  I
  can
  continue
  right
  from
-
-
-where
+ where
  I
- left
+
+
+left
  off
  on
  my
  mobile
  phone
  or
+ the
 
 
-the
- browser.
+browser.
  Now,
  I
  want
@@ -825,148 +815,143 @@ I
 talking
  about
  adding
- [music]
  caching
  to
+ my
 
 
-my
- application,
+application,
  but
  I
  gave
  it
  a
  very
+ broad
 
 
-broad
- prompt
+prompt
  saying,
  "Hey,
  I
  would
  like
-
-
-to
+ to
  add
- caching
+
+
+caching
  to
  my
  application."
  And
+ what
 
 
-what
- Claude
+Claude
  Code
  did
  is
  it's
- [music]
-
-
-going
+ going
  to
  ask
  me
- a
+
+
+a
  number
  of
  follow-up
-
-
-questions
+ questions
  to
  make
- sure
+
+
+sure
  that
  it
-
-
-implements
+ implements
  it
  correctly.
- So,
+
+
+So,
  it's
  going
-
-
-to
+ to
  ask
  the
  caching
  level
- here.
+
+
+here.
  Uh,
-
-
-should
+ should
  it
  be
  database
  query
- caching,
+
+
+caching,
  API
-
-
-response
+ response
  caching?
  And
  I
  can
- choose
+
+
+choose
  any
-
-
-of
+ of
  these,
  go
  to
  the
  next
- section
+
+
+section
  and
-
-
-[music]
  figure
  out
  what
  my
  goals
- are.
+
+
+are.
  Is
-
-
-it
+ it
  to
  improve
  performance,
- reduce
 
 
-database
+reduce
+ database
  load,
  the
  target
  area,
- is
+
+
+is
  it
-
-
-for
+ for
  the
  workout
  data,
  for
  the
  user
- data,
 
 
-analytics,
+data,
+ analytics,
  choose
  the
  technology,
@@ -1024,53 +1009,51 @@ web
 
 at
  home
- [music]
  and
  on
  the
  go.
  Haiku
  4.5
+ for
 
 
-for
- lightning
+lightning
  fast
  coding
  at
  a
  fraction
+ of
 
 
-of
- the
+the
  cost
- [music]
  and
  smarter
  local
+ workflows
 
 
-workflows
- with
+with
  multi-question
  support.
-
-
-Cloud
+ Cloud
  Code
- on
+
+
+on
  the
  web
  is
  available
  now
-
-
-for
+ for
  pro
  and
- max
+
+
+max
  users
  at
  cloud.ai/code.
@@ -1091,6 +1074,3 @@ Give
 think.
  Happy
  building.
-
-
-[music]
