@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: Peter Pang
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=sFK5ypLDlrI
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=sFK5ypLDlrI'
+speaker: Peter Pang
 tags:
   - blockchain-limitations
   - decentralization-critique
@@ -39,7 +39,7 @@ products_models:
   - Kafka
   - Raft协议
   - BFT
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### 区块链：一场席卷全球的技术狂热

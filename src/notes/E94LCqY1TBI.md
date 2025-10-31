@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-30'
+author: 徒步的騎手
+date: 2025-07-30
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=E94LCqY1TBI
+source: 'https://www.youtube.com/watch?v=E94LCqY1TBI'
 speaker: 徒步的騎手
 tags:
   - parenting-philosophy
@@ -30,7 +30,7 @@ companies_orgs:
   - NPR
   - CDC
   - Gallup
-products_models: []
+products_models: '[]'
 media_books:
   - 《娇惯的美国心灵》
   - 《搏击俱乐部》

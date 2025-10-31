@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-08-04'
+author: 徒步的騎手
+date: 2025-08-04
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=CSd2bu-CX6Q
+source: 'https://www.youtube.com/watch?v=CSd2bu-CX6Q'
 speaker: 徒步的騎手
 tags:
   - autonomous-driving-safety
@@ -21,14 +21,14 @@ area: society-systems
 project:
   - us-analysis
   - ai-impact-analysis
-people: []
+people: '[]'
 companies_orgs:
   - Tesla
   - NPR
 products_models:
   - Autopilot
   - FSD (Full Self-Driving)
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 

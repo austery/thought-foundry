@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-05'
+author: 徒步的騎手
+date: 2025-01-05
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=WTf7D9zgiDM
+source: 'https://www.youtube.com/watch?v=WTf7D9zgiDM'
 speaker: 徒步的騎手
 tags:
   - china-economic-downturn
@@ -32,8 +32,8 @@ companies_orgs:
   - 华尔街
   - Pew
   - 中国统计局
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

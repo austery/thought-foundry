@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-10-28'
+author: 徒步的騎手
+date: 2025-10-28
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=uyN-cCUpAXM
+source: 'https://www.youtube.com/watch?v=uyN-cCUpAXM'
 speaker: 徒步的騎手
 tags:
   - healthcare-corruption

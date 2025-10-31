@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-01'
+author: 徒步的騎手
+date: 2025-02-01
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=Pt_TNOgoq_M
+source: 'https://www.youtube.com/watch?v=Pt_TNOgoq_M'
 speaker: 徒步的騎手
 tags:
   - arbitrary-rule
@@ -27,9 +27,9 @@ people:
   - John Locke
   - Montesquieu
   - Thomas Jefferson
-companies_orgs: []
-products_models: []
-media_books: []
+companies_orgs: '[]'
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

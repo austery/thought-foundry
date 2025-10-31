@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-14'
+author: 徒步的騎手
+date: 2025-03-14
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=KwO4Xqyfbpg
+source: 'https://www.youtube.com/watch?v=KwO4Xqyfbpg'
 speaker: 徒步的騎手
 tags:
   - cognitive-upgrading
@@ -30,7 +30,7 @@ people:
   - 毛主席
 companies_orgs:
   - 燕京书评
-products_models: []
+products_models: '[]'
 media_books:
   - 《与时俱进的启蒙》
   - 《批判性思维的认知和伦理》

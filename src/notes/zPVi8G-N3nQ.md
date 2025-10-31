@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-10'
+author: 徒步的騎手
+date: 2025-07-10
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=zPVi8G-N3nQ
+source: 'https://www.youtube.com/watch?v=zPVi8G-N3nQ'
 speaker: 徒步的騎手
 tags:
   - chinese-debt-crisis
@@ -22,13 +22,13 @@ project:
   - china-analysis
   - geopolitics-watch
   - historical-insights
-people: []
+people: '[]'
 companies_orgs:
   - 世界贸易组织
   - 国际货币基金组织
   - 中国人民银行
   - 中国财政部
-products_models: []
+products_models: '[]'
 media_books:
   - 《经济学人》
 status: evergreen

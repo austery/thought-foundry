@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2024-12-31'
+author: 徒步的騎手
+date: 2024-12-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=qSuZcS42aR4
+source: 'https://www.youtube.com/watch?v=qSuZcS42aR4'
 speaker: 徒步的騎手
 tags:
   - life-philosophy
@@ -24,10 +24,10 @@ people:
   - Friedrich Nietzsche
   - André Gide
   - 刘叔叔
-companies_orgs: []
+companies_orgs: '[]'
 products_models:
   - Substack
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 

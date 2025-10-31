@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-06'
+author: 徒步的騎手
+date: 2025-02-06
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=BIAsYA0u_6E
+source: 'https://www.youtube.com/watch?v=BIAsYA0u_6E'
 speaker: 徒步的騎手
 tags:
   - freedom-definition
@@ -34,7 +34,7 @@ companies_orgs:
   - 共和党
   - 民主党
   - 美国最高法院
-products_models: []
+products_models: '[]'
 media_books:
   - 《群己权界论》
   - 《生活的艺术》

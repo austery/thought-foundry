@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-31'
+author: 徒步的騎手
+date: 2025-01-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=i1kukrBcCYk
+source: 'https://www.youtube.com/watch?v=i1kukrBcCYk'
 speaker: 徒步的騎手
 tags:
   - cognitive-style
@@ -28,10 +28,10 @@ people:
   - 丰臣秀吉
   - 苏格拉底
   - 孔子
-companies_orgs: []
+companies_orgs: '[]'
 products_models:
   - DeepSeek
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 

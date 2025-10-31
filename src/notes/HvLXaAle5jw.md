@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-30'
+author: Peter Pang
+date: 2025-10-30
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=HvLXaAle5jw
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=HvLXaAle5jw'
+speaker: Peter Pang
 tags:
   - code-refactoring
   - software-development-practices

@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-06-28'
+author: 徒步的騎手
+date: 2025-06-28
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=VQ5xDfPUX3Y
+source: 'https://www.youtube.com/watch?v=VQ5xDfPUX3Y'
 speaker: 徒步的騎手
 tags:
   - israel-iran-conflict
@@ -34,7 +34,7 @@ companies_orgs:
   - 哈马斯
   - 真主党
   - 伊朗革命卫队
-products_models: []
+products_models: '[]'
 media_books:
   - Inside Operation Narnia
   - 《指环王》

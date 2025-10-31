@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-12'
+author: 徒步的騎手
+date: 2025-01-12
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ZmreL0JNUmI
+source: 'https://www.youtube.com/watch?v=ZmreL0JNUmI'
 speaker: 徒步的騎手
 tags:
   - self-made-man
@@ -38,7 +38,7 @@ companies_orgs:
   - Gates Foundation
   - Sam Houston National Forest
   - University of Hawaii
-products_models: []
+products_models: '[]'
 media_books:
   - 《民主政变》
   - 《唤醒你的天才》

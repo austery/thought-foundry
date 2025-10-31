@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-29'
+author: 徒步的騎手
+date: 2025-10-29
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=pcA9RbzcEas
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=pcA9RbzcEas'
+speaker: 徒步的騎手
 tags:
   - christmas-traditions
   - holiday-greetings
@@ -30,7 +30,7 @@ people:
   - Joe Rogan
   - Lex Friedman
   - Tom Bell
-companies_orgs: []
+companies_orgs: '[]'
 products_models:
   - Camry
 media_books:

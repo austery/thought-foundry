@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-08-14'
+author: 徒步的騎手
+date: 2025-08-14
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ObeI-z35qnQ
+source: 'https://www.youtube.com/watch?v=ObeI-z35qnQ'
 speaker: 徒步的騎手
 tags:
   - ancient-civilization-syndrome
@@ -25,9 +25,9 @@ people:
   - Mahatma Gandhi
   - Adolf Hitler
   - 刘晓波
-companies_orgs: []
-products_models: []
-media_books: []
+companies_orgs: '[]'
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

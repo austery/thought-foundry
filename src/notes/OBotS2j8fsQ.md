@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-30'
+author: Peter Pang
+date: 2025-10-30
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=OBotS2j8fsQ
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=OBotS2j8fsQ'
+speaker: Peter Pang
 tags:
   - semantic-versioning
   - ai-model-versions
@@ -38,7 +38,7 @@ products_models:
   - Linux kernel
   - Windows XP
   - Windows Vista
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### AI时代版本号的混乱与用户困境

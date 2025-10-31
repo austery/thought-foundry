@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: Peter Pang
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=vJGoQigiXAE
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=vJGoQigiXAE'
+speaker: Peter Pang
 tags:
   - agile-software-development
   - project-management

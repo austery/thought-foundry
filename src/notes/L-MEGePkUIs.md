@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-22'
+author: 徒步的騎手
+date: 2025-01-22
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=L-MEGePkUIs
+source: 'https://www.youtube.com/watch?v=L-MEGePkUIs'
 speaker: 徒步的騎手
 tags:
   - garbage-time
@@ -33,8 +33,8 @@ people:
   - Lord Acton
   - Albert Einstein
   - Dai Jitao
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《独立宣言》
   - 《沉思录》

@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-13'
+author: 徒步的騎手
+date: 2025-02-13
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=RMBcda2IFPk
+source: 'https://www.youtube.com/watch?v=RMBcda2IFPk'
 speaker: 徒步的騎手
 tags:
   - ordered-liberty
@@ -32,8 +32,8 @@ people:
 companies_orgs:
   - 美国最高法院
   - 美国国会
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

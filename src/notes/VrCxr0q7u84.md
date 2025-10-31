@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-04-07'
+author: 徒步的騎手
+date: 2025-04-07
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=VrCxr0q7u84
+source: 'https://www.youtube.com/watch?v=VrCxr0q7u84'
 speaker: 徒步的騎手
 tags:
   - long-distance-walking
@@ -23,8 +23,8 @@ project:
   - historical-insights
 people:
   - Mr. Wolf
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《低俗小说》
 status: evergreen

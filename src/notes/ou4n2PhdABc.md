@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-25'
+author: 徒步的騎手
+date: 2025-02-25
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ou4n2PhdABc
+source: 'https://www.youtube.com/watch?v=ou4n2PhdABc'
 speaker: 徒步的騎手
 tags:
   - financial-freedom
@@ -37,7 +37,7 @@ companies_orgs:
   - YouTube
   - 香港中文大学
   - 21世纪评论
-products_models: []
+products_models: '[]'
 media_books:
   - 《心经》
   - 《论语》

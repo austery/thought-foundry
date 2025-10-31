@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-15'
+author: 徒步的騎手
+date: 2025-07-15
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=XbVkRWZTJ-g
+source: 'https://www.youtube.com/watch?v=XbVkRWZTJ-g'
 speaker: 徒步的騎手
 tags:
   - china-economic-downturn

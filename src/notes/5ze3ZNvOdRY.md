@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: a16z
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=5ze3ZNvOdRY
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=5ze3ZNvOdRY'
+speaker: a16z
 tags:
   - ai-bubble
   - data-center-infrastructure

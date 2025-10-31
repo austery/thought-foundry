@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-04-04'
+author: 徒步的騎手
+date: 2025-04-04
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=aLBgcBVyJBc
+source: 'https://www.youtube.com/watch?v=aLBgcBVyJBc'
 speaker: 徒步的騎手
 tags:
   - government-size-debate
@@ -31,7 +31,7 @@ people:
   - Friedrich Hayek
 companies_orgs:
   - International Monetary Fund (IMF)
-products_models: []
+products_models: '[]'
 media_books:
   - 《奴役之路》
 status: evergreen

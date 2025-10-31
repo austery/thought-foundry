@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-22'
+author: 徒步的騎手
+date: 2025-02-22
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=sxs8u_k1vrY
+source: 'https://www.youtube.com/watch?v=sxs8u_k1vrY'
 speaker: 徒步的騎手
 tags:
   - elected-autocracy
@@ -32,7 +32,7 @@ companies_orgs:
   - MIT
   - 金融时报
   - 经济学人
-products_models: []
+products_models: '[]'
 media_books:
   - 《民选独裁》
 status: evergreen

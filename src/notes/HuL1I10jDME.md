@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-10-09'
+author: 徒步的騎手
+date: 2025-10-09
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=HuL1I10jDME
+source: 'https://www.youtube.com/watch?v=HuL1I10jDME'
 speaker: 徒步的騎手
 tags:
   - personal-transformation
@@ -25,7 +25,7 @@ people:
   - Ralph Waldo Emerson
 companies_orgs:
   - 北京大学
-products_models: []
+products_models: '[]'
 media_books:
   - 《山丘》
 status: evergreen

@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-28'
+author: 徒步的騎手
+date: 2025-07-28
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=bp2UAuj8R0I
+source: 'https://www.youtube.com/watch?v=bp2UAuj8R0I'
 speaker: 徒步的騎手
 tags:
   - emotional-intelligence
@@ -27,8 +27,8 @@ people:
   - Michael Corleone
   - Chen Wing-yan
   - Lau Kin-ming
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《肖申克的救赎》
   - 《萨利机长》

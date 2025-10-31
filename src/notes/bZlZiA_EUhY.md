@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-10-16'
+author: 徒步的騎手
+date: 2025-10-16
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=bZlZiA_EUhY
+source: 'https://www.youtube.com/watch?v=bZlZiA_EUhY'
 speaker: 徒步的騎手
 tags:
   - cognitive-revolution
@@ -26,8 +26,8 @@ people:
   - 季羡林
   - 毛泽东
   - 唐德刚
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《晚清七十年》
 status: evergreen

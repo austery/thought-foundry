@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-21'
+author: 徒步的騎手
+date: 2025-07-21
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=8SrTiZ3JjDo
+source: 'https://www.youtube.com/watch?v=8SrTiZ3JjDo'
 speaker: 徒步的騎手
 tags:
   - epstein-scandal
@@ -44,7 +44,7 @@ companies_orgs:
   - News Corp
   - ABC News
   - CBS
-products_models: []
+products_models: '[]'
 media_books:
   - 《Lolita》
   - 《经济学人》

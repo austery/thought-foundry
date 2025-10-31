@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-23'
+author: 徒步的騎手
+date: 2025-07-23
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=vU-Xt4c3JrI
+source: 'https://www.youtube.com/watch?v=vU-Xt4c3JrI'
 speaker: 徒步的騎手
 tags:
   - food-safety
@@ -32,8 +32,8 @@ people:
 companies_orgs:
   - 哥伦比亚大学
   - 福布斯杂志
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

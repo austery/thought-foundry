@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: 夸克说
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=oqeXx3q5d-I
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=oqeXx3q5d-I'
+speaker: 夸克说
 tags:
   - scientific-ethics
   - totalitarianism

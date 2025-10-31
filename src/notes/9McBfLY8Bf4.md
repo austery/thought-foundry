@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-28'
+author: 徒步的騎手
+date: 2025-01-28
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=9McBfLY8Bf4
+source: 'https://www.youtube.com/watch?v=9McBfLY8Bf4'
 speaker: 徒步的騎手
 tags:
   - wage-arrears
@@ -30,7 +30,7 @@ companies_orgs:
   - 德克萨斯州劳工委员会
   - 台湾劳工局
   - 法律辅助基金会
-products_models: []
+products_models: '[]'
 media_books:
   - 《华盛顿邮报》
   - 《Wall Trash》

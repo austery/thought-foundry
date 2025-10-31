@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-21'
+author: 徒步的騎手
+date: 2025-03-21
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=GF84F1GMlDU
+source: 'https://www.youtube.com/watch?v=GF84F1GMlDU'
 speaker: 徒步的騎手
 tags:
   - interpersonal-boundaries
@@ -38,7 +38,7 @@ companies_orgs:
   - PBS
   - Amazon
   - FBI
-products_models: []
+products_models: '[]'
 media_books:
   - 'Stop Reading the News: A Manifesto for a Happier, Calmer and Wiser Life'
   - How to see yourself as you really are

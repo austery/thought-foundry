@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: New York Times Podcasts
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=SXOmqlc-QfE
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=SXOmqlc-QfE'
+speaker: New York Times Podcasts
 tags:
   - government-shutdown
   - food-security
@@ -36,7 +36,7 @@ companies_orgs:
   - RSF
   - United Arab Emirates
   - Buckingham Palace
-products_models: []
+products_models: '[]'
 media_books:
   - Jeffrey's Memoir
   - JAMA Network Open

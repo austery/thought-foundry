@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-06-15'
+author: 徒步的騎手
+date: 2025-06-15
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=rqgdHu3WM3E
+source: 'https://www.youtube.com/watch?v=rqgdHu3WM3E'
 speaker: 徒步的騎手
 tags:
   - us-election-2024
@@ -42,7 +42,7 @@ companies_orgs:
   - Democratic Party
   - Republican Party
   - Hamas
-products_models: []
+products_models: '[]'
 media_books:
   - The Pledge of Allegiance
   - The Economist

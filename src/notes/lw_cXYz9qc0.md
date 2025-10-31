@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: FearNation 世界苦茶
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=lw_cXYz9qc0
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=lw_cXYz9qc0'
+speaker: FearNation 世界苦茶
 tags:
   - us-china-relations
   - geopolitical-competition
@@ -45,7 +45,7 @@ companies_orgs:
 products_models:
   - H20
   - Blackwell
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### 中美元首釜山峰会：谁是赢家？

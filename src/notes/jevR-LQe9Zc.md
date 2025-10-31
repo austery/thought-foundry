@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-28'
+author: 徒步的騎手
+date: 2025-03-28
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=jevR-LQe9Zc
+source: 'https://www.youtube.com/watch?v=jevR-LQe9Zc'
 speaker: 徒步的騎手
 tags:
   - us-political-spectrum
@@ -39,7 +39,7 @@ companies_orgs:
   - Fox News
   - CNN
   - Hamas
-products_models: []
+products_models: '[]'
 media_books:
   - 不明白博客
   - 约翰逊总统传记

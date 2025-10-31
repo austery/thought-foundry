@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-15'
+author: 徒步的騎手
+date: 2025-02-15
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=DMaP-GMUWOU
+source: 'https://www.youtube.com/watch?v=DMaP-GMUWOU'
 speaker: 徒步的騎手
 tags:
   - political-humor
@@ -57,7 +57,7 @@ companies_orgs:
   - 白宫
   - 共和党
   - 民主党
-products_models: []
+products_models: '[]'
 media_books:
   - The Tonight Show
   - YouTube

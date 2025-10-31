@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: Peter Pang
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=IGizcoOzuG0
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=IGizcoOzuG0'
+speaker: Peter Pang
 tags:
   - metaverse-failure
   - ar-vr-development
@@ -56,7 +56,7 @@ products_models:
   - Unity引擎
   - 虚幻引擎
   - GQL
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### 元宇宙的诞生与消亡：一场科技泡沫的审视

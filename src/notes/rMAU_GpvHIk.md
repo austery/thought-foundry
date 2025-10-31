@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-06-24'
+author: 徒步的騎手
+date: 2025-06-24
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=rMAU_GpvHIk
+source: 'https://www.youtube.com/watch?v=rMAU_GpvHIk'
 speaker: 徒步的騎手
 tags:
   - ai-workplace-transformation

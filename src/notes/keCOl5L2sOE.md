@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-15'
+author: 徒步的騎手
+date: 2025-01-15
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=keCOl5L2sOE
+source: 'https://www.youtube.com/watch?v=keCOl5L2sOE'
 speaker: 徒步的騎手
 tags:
   - chinese-fraud-industry
@@ -36,7 +36,7 @@ companies_orgs:
   - 《时代周报》
   - 《世界报》
   - 公检法
-products_models: []
+products_models: '[]'
 media_books:
   - 《聊斋志异》
   - 《阅微草堂笔记》

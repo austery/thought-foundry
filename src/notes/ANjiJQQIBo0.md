@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: AI超元域
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ANjiJQQIBo0
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=ANjiJQQIBo0'
+speaker: AI超元域
 tags:
   - spec-driven-development
   - ai-coding-assistant
@@ -21,8 +21,8 @@ area: tech-insights
 project:
   - ai-impact-analysis
   - systems-thinking
-people: []
-companies_orgs: []
+people: '[]'
+companies_orgs: '[]'
 products_models:
   - OpenSpec
   - SpecKit
@@ -35,7 +35,7 @@ products_models:
   - Xcode
   - VS Code
   - iOS
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### OpenSpec：AI驱动的规范化开发，加速现有项目迭代

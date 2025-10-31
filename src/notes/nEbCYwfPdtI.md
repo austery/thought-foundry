@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-04-10'
+author: 徒步的騎手
+date: 2025-04-10
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=nEbCYwfPdtI
+source: 'https://www.youtube.com/watch?v=nEbCYwfPdtI'
 speaker: 徒步的騎手
 tags:
   - us-tariff-policy
@@ -38,7 +38,7 @@ companies_orgs:
   - Harvard
   - The Wall Street Journal
   - Amazon
-products_models: []
+products_models: '[]'
 media_books:
   - 《Why Musk vs. Navarro Matters》
 status: evergreen

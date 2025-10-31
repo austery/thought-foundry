@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-25'
+author: 徒步的騎手
+date: 2025-01-25
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=g8MCNxIw0Uk
+source: 'https://www.youtube.com/watch?v=g8MCNxIw0Uk'
 speaker: 徒步的騎手
 tags:
   - self-growth

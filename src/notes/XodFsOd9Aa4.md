@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: 夸克说
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=XodFsOd9Aa4
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=XodFsOd9Aa4'
+speaker: 夸克说
 tags:
   - chinese-men-struggles
   - societal-pressure
@@ -38,7 +38,7 @@ people:
   - 波夫娃
 companies_orgs:
   - 中共
-products_models: []
+products_models: '[]'
 media_books:
   - 《我的叔叔娱乐》
   - 《红楼梦》

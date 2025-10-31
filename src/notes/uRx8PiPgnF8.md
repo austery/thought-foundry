@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-03'
+author: 徒步的騎手
+date: 2025-01-03
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=uRx8PiPgnF8
+source: 'https://www.youtube.com/watch?v=uRx8PiPgnF8'
 speaker: 徒步的騎手
 tags:
   - healthcare-crisis
@@ -22,13 +22,13 @@ project:
   - china-analysis
   - systems-thinking
   - historical-insights
-people: []
+people: '[]'
 companies_orgs:
   - 世界银行
   - 北京朝阳医院
   - 联邦司法部
   - 德州总检察长
-products_models: []
+products_models: '[]'
 media_books:
   - 《黄帝内经》
 status: evergreen

@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: Amit Kukreja
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=8zt_fJCWQT0
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=8zt_fJCWQT0'
+speaker: Amit Kukreja
 tags:
   - earnings-report
   - tech-stocks
@@ -99,7 +99,7 @@ products_models:
   - Graviton
   - EC2
   - Gemini
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### 收盘前市场情绪低迷

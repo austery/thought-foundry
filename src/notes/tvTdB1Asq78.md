@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-19'
+author: 徒步的騎手
+date: 2025-07-19
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=tvTdB1Asq78
+source: 'https://www.youtube.com/watch?v=tvTdB1Asq78'
 speaker: 徒步的騎手
 tags:
   - human-nature
@@ -26,8 +26,8 @@ people:
   - Stephen King
   - Benjamin Franklin
   - Nietzsche
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《肖申克的救赎》
   - 《Carrie》

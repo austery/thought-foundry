@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2024-12-29'
+author: 徒步的騎手
+date: 2024-12-29
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ReJNnF4k5Lc
+source: 'https://www.youtube.com/watch?v=ReJNnF4k5Lc'
 speaker: 徒步的騎手
 tags:
   - loneliness-companionship
@@ -25,8 +25,8 @@ people:
   - 空海大师
   - 托马斯·杰斐逊
   - 爱默生
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《独立宣言》
   - 《追求幸福》

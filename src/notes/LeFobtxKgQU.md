@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-26'
+author: 徒步的騎手
+date: 2025-07-26
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=LeFobtxKgQU
+source: 'https://www.youtube.com/watch?v=LeFobtxKgQU'
 speaker: 徒步的騎手
 tags:
   - autonomous-driving-safety

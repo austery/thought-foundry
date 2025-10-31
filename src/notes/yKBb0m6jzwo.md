@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-04-12'
+author: 徒步的騎手
+date: 2025-04-12
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=yKBb0m6jzwo
+source: 'https://www.youtube.com/watch?v=yKBb0m6jzwo'
 speaker: 徒步的騎手
 tags:
   - us-supreme-court
@@ -31,8 +31,8 @@ companies_orgs:
   - 美国国务院
   - 美国国土安全部
   - 美国移民与海关执法局
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

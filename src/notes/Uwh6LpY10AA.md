@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2024-12-27'
+author: 徒步的騎手
+date: 2024-12-27
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=Uwh6LpY10AA
+source: 'https://www.youtube.com/watch?v=Uwh6LpY10AA'
 speaker: 徒步的騎手
 tags:
   - unequal-starting-points
@@ -34,7 +34,7 @@ companies_orgs:
   - 北大
   - 哈佛
   - 美国海军学院
-products_models: []
+products_models: '[]'
 media_books:
   - 《路加福音》
   - 《詹姆斯王清定本圣经》

@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-31'
+author: 徒步的騎手
+date: 2025-03-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=spMT6zFrkWE
+source: 'https://www.youtube.com/watch?v=spMT6zFrkWE'
 speaker: 徒步的騎手
 tags:
   - phrase-slavery
@@ -36,7 +36,7 @@ companies_orgs:
   - Harvard University
   - Johns Hopkins University
   - US State Department
-products_models: []
+products_models: '[]'
 media_books:
   - 《第三波浪潮》
   - 《文明的冲突及世界秩序的重建》

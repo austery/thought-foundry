@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-28'
+author: 徒步的騎手
+date: 2025-02-28
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=J8Tjn8p_ttg
+source: 'https://www.youtube.com/watch?v=J8Tjn8p_ttg'
 speaker: 徒步的騎手
 tags:
   - personal-boundaries
@@ -27,8 +27,8 @@ people:
   - Mandy Hill
   - Bertrand Russell
   - Max Weber
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《大地惊雷》
   - 微博

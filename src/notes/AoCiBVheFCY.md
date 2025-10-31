@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-08-12'
+author: 徒步的騎手
+date: 2025-08-12
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=AoCiBVheFCY
+source: 'https://www.youtube.com/watch?v=AoCiBVheFCY'
 speaker: 徒步的騎手
 tags:
   - surrogacy-industry
@@ -26,8 +26,8 @@ people:
 companies_orgs:
   - FBI
   - Marke Surrogacy Investment
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

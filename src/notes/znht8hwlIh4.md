@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-06-05'
+author: 徒步的騎手
+date: 2025-06-05
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=znht8hwlIh4
+source: 'https://www.youtube.com/watch?v=znht8hwlIh4'
 speaker: 徒步的騎手
 tags:
   - elite-education-critique
@@ -32,7 +32,7 @@ companies_orgs:
   - 哈马斯
   - 最高法院
   - 科罗拉多大学波德分校
-products_models: []
+products_models: '[]'
 media_books:
   - The Harvard Crimson
 status: evergreen

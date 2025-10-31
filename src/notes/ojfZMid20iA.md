@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: TED
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ojfZMid20iA
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=ojfZMid20iA'
+speaker: TED
 tags:
   - mercury-contamination
   - artisanal-gold-mining
@@ -26,8 +26,8 @@ people:
 companies_orgs:
   - Centro de Innovación Científica Amazónica
   - WHO
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 ### 序言：森林的价值与黄金的代价

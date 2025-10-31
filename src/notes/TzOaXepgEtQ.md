@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: Peter Pang
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=TzOaXepgEtQ
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=TzOaXepgEtQ'
+speaker: Peter Pang
 tags:
   - test-driven-development
   - software-testing

@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-04-02'
+author: 徒步的騎手
+date: 2025-04-02
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=nr3uZnoIh84
+source: 'https://www.youtube.com/watch?v=nr3uZnoIh84'
 speaker: 徒步的騎手
 tags:
   - anglo-protestant-tradition

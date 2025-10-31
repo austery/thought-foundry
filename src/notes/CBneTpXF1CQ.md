@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: Anthropic
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=CBneTpXF1CQ
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=CBneTpXF1CQ'
+speaker: Anthropic
 tags:
   - ai-coding
   - developer-tools
@@ -20,7 +20,7 @@ category: technology
 area: tech-insights
 project:
   - ai-impact-analysis
-people: []
+people: '[]'
 companies_orgs:
   - GitHub
 products_models:
@@ -28,7 +28,7 @@ products_models:
   - Claude Haiku 4.5
   - Claude Sonnet 4.5
   - Claude Sonnet 4
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### 网页版 Claude Code：赋能并行云开发

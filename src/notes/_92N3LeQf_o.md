@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: 小翠時政財經
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=_92N3LeQf_o
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=_92N3LeQf_o'
+speaker: 小翠時政財經
 tags:
   - us-china-relations
   - monetary-policy

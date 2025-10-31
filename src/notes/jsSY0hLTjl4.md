@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-06'
+author: 徒步的騎手
+date: 2025-03-06
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=jsSY0hLTjl4
+source: 'https://www.youtube.com/watch?v=jsSY0hLTjl4'
 speaker: 徒步的騎手
 tags:
   - us-supreme-court
@@ -32,8 +32,8 @@ companies_orgs:
   - U.S. Court of Federal Claims
   - U.S. District Court
   - Congress
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

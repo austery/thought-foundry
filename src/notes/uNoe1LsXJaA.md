@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-10-14'
+author: 徒步的騎手
+date: 2025-10-14
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=uNoe1LsXJaA
+source: 'https://www.youtube.com/watch?v=uNoe1LsXJaA'
 speaker: 徒步的騎手
 tags:
   - culture-of-growth
@@ -25,8 +25,8 @@ people:
   - Joel Mokyr
   - Joseph Needham
   - Huang Yasheng
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《增长的文化：现代经济的起源》
 status: evergreen

@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-08-01'
+author: 徒步的騎手
+date: 2025-08-01
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=AALHvZym16w
+source: 'https://www.youtube.com/watch?v=AALHvZym16w'
 speaker: 徒步的騎手
 tags:
   - social-mobility
@@ -22,10 +22,10 @@ project:
   - china-analysis
   - systems-thinking
   - cultural-critique
-people: []
-companies_orgs: []
-products_models: []
-media_books: []
+people: '[]'
+companies_orgs: '[]'
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-18'
+author: 徒步的騎手
+date: 2025-02-18
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=QRXIb3LmeE4
+source: 'https://www.youtube.com/watch?v=QRXIb3LmeE4'
 speaker: 徒步的騎手
 tags:
   - cultural-relativism
@@ -37,7 +37,7 @@ companies_orgs:
   - Breitbart News
   - Tulane University
   - Princeton University
-products_models: []
+products_models: '[]'
 media_books:
   - 《国史大纲》
   - 《知道分子》

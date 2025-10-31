@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: Peter Pang
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=RyGA6zBHcJg
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=RyGA6zBHcJg'
+speaker: Peter Pang
 tags:
   - uml-modeling
   - software-development-history

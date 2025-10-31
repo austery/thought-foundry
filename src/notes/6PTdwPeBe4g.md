@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-02'
+author: 徒步的騎手
+date: 2025-07-02
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=6PTdwPeBe4g
+source: 'https://www.youtube.com/watch?v=6PTdwPeBe4g'
 speaker: 徒步的騎手
 tags:
   - us-politics
@@ -31,8 +31,8 @@ companies_orgs:
   - SpaceX
   - OpenAI
   - NASA
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

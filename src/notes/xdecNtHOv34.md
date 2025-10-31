@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-04-22'
+author: 徒步的騎手
+date: 2025-04-22
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=xdecNtHOv34
+source: 'https://www.youtube.com/watch?v=xdecNtHOv34'
 speaker: 徒步的騎手
 tags:
   - china-tourism
@@ -33,7 +33,7 @@ companies_orgs:
   - 哥伦比亚大学
   - 福布斯
   - 香港大学
-products_models: []
+products_models: '[]'
 media_books:
   - 《以理问答》
 status: evergreen

@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-04'
+author: 徒步的騎手
+date: 2025-02-04
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=4sb_MeotgCw
+source: 'https://www.youtube.com/watch?v=4sb_MeotgCw'
 speaker: 徒步的騎手
 tags:
   - freedom-concept
@@ -30,8 +30,8 @@ people:
   - 韩愈
   - 王安石
   - 朱熹
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《天演论》
   - 《法意》

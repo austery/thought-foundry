@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: FearNation 世界苦茶
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=3FDSNmqppwM
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=3FDSNmqppwM'
+speaker: FearNation 世界苦茶
 tags:
   - us-china-competition
   - ai-strategy

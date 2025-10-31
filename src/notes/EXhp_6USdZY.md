@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-30'
+author: 夸克说
+date: 2025-10-30
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=EXhp_6USdZY
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=EXhp_6USdZY'
+speaker: 夸克说
 tags:
   - economic-growth
   - innovation-theory

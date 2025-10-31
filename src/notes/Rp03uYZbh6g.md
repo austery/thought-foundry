@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-11'
+author: 徒步的騎手
+date: 2025-02-11
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=Rp03uYZbh6g
+source: 'https://www.youtube.com/watch?v=Rp03uYZbh6g'
 speaker: 徒步的騎手
 tags:
   - us-politics
@@ -34,7 +34,7 @@ companies_orgs:
   - CBS
   - 联邦法院
   - 美国最高法院
-products_models: []
+products_models: '[]'
 media_books:
   - 路透社
   - Ezra Klein的博客

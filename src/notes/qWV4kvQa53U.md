@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-26'
+author: 徒步的騎手
+date: 2025-03-26
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=qWV4kvQa53U
+source: 'https://www.youtube.com/watch?v=qWV4kvQa53U'
 speaker: 徒步的騎手
 tags:
   - us-political-history
@@ -42,8 +42,8 @@ companies_orgs:
   - 民主党
   - 美国最高法院
   - 美国律师协会
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

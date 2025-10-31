@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-08-07'
+author: 徒步的騎手
+date: 2025-08-07
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=XRjgH-1jR1Y
+source: 'https://www.youtube.com/watch?v=XRjgH-1jR1Y'
 speaker: 徒步的騎手
 tags:
   - strong-control-weak-governance
@@ -23,9 +23,9 @@ project:
   - systems-thinking
 people:
   - David Molak
-companies_orgs: []
-products_models: []
-media_books: []
+companies_orgs: '[]'
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

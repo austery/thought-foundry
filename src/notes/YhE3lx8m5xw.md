@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-09-02'
+author: 徒步的騎手
+date: 2025-09-02
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=YhE3lx8m5xw
+source: 'https://www.youtube.com/watch?v=YhE3lx8m5xw'
 speaker: 徒步的騎手
 tags:
   - historical-narrative
@@ -34,8 +34,8 @@ companies_orgs:
   - Kuomintang
   - Eighth Route Army
   - Soviet Union
-products_models: []
-media_books: []
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

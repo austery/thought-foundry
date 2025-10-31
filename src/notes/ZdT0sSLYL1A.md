@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: LT視界
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ZdT0sSLYL1A
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=ZdT0sSLYL1A'
+speaker: LT視界
 tags:
   - us-china-relations
   - nuclear-weapons-testing

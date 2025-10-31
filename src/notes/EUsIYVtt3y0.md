@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: 硅谷101
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=EUsIYVtt3y0
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=EUsIYVtt3y0'
+speaker: 硅谷101
 tags:
   - ai-model-evaluation
   - lm-arena

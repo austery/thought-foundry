@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-30'
+author: AI超元域
+date: 2025-10-30
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=K6-sR__mA3s
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=K6-sR__mA3s'
+speaker: AI超元域
 tags:
   - ai-coding
   - agent-skills
@@ -21,7 +21,7 @@ area: tech-insights
 project:
   - ai-impact-analysis
   - knowledge-pipeline
-people: []
+people: '[]'
 companies_orgs:
   - Anthropic
   - Microsoft
@@ -34,7 +34,7 @@ products_models:
   - Codex CLI
   - MCP
   - Ollama
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### AI Agent Skills与Skill Seeker简介

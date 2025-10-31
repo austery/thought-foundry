@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-08'
+author: 徒步的騎手
+date: 2025-02-08
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=rNWsuYbLwM0
+source: 'https://www.youtube.com/watch?v=rNWsuYbLwM0'
 speaker: 徒步的騎手
 tags:
   - concepts-of-freedom
@@ -28,8 +28,8 @@ people:
   - Isaiah Berlin
   - Franklin D. Roosevelt
   - Gretchen Whitmer
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《论自由》
   - 《独立宣言》

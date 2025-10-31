@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-08'
+author: 徒步的騎手
+date: 2025-01-08
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=GJnYnI1Sai8
+source: 'https://www.youtube.com/watch?v=GJnYnI1Sai8'
 speaker: 徒步的騎手
 tags:
   - hard-times
@@ -30,8 +30,8 @@ people:
   - 斯大林
   - 毛
   - 刘宗坤
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《大河湾》
   - 微博

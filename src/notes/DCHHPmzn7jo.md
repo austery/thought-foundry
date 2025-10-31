@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-08'
+author: 徒步的騎手
+date: 2025-02-08
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=DCHHPmzn7jo
+source: 'https://www.youtube.com/watch?v=DCHHPmzn7jo'
 speaker: 徒步的騎手
 tags:
   - humor-suppression
@@ -29,7 +29,7 @@ people:
 companies_orgs:
   - 纽约时报
   - 波士顿环球报
-products_models: []
+products_models: '[]'
 media_books:
   - In China, comedy is giving women a voice, but can men take a joke?
   - Why can't men in China take a joke?

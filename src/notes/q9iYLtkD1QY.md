@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-17'
+author: 徒步的騎手
+date: 2025-01-17
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=q9iYLtkD1QY
+source: 'https://www.youtube.com/watch?v=q9iYLtkD1QY'
 speaker: 徒步的騎手
 tags:
   - food-security
@@ -29,7 +29,7 @@ companies_orgs:
   - Food Bank
   - Meals on Wheels
   - 绿洲公益
-products_models: []
+products_models: '[]'
 media_books:
   - 《华尔街日报》
   - 《狂人日记》

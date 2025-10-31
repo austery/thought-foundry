@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-04'
+author: 徒步的騎手
+date: 2025-07-04
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=PU1poPjWfG4
+source: 'https://www.youtube.com/watch?v=PU1poPjWfG4'
 speaker: 徒步的騎手
 tags:
   - car-ownership
@@ -57,7 +57,7 @@ products_models:
   - Canyon Endurance
   - Raybould CGR725
   - Nokia
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 

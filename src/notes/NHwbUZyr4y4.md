@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: TVO Today
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=NHwbUZyr4y4
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=NHwbUZyr4y4'
+speaker: TVO Today
 tags:
   - canadian-foreign-policy
   - us-canada-relations
@@ -32,7 +32,7 @@ companies_orgs:
   - Ontario government
   - Pew Research Center
   - Angus Reed
-products_models: []
+products_models: '[]'
 media_books:
   - Gloves Off
 status: evergreen

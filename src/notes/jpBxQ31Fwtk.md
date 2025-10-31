@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-05'
+author: 徒步的騎手
+date: 2025-07-05
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=jpBxQ31Fwtk
+source: 'https://www.youtube.com/watch?v=jpBxQ31Fwtk'
 speaker: 徒步的騎手
 tags:
   - independence-day
@@ -23,8 +23,8 @@ project:
   - historical-insights
 people:
   - Donald Trump
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《独立宣言》
   - 《宪法》

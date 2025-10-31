@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-21'
+author: 徒步的騎手
+date: 2025-01-21
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=PPhLbyu-mC4
+source: 'https://www.youtube.com/watch?v=PPhLbyu-mC4'
 speaker: 徒步的騎手
 tags:
   - us-national-identity
@@ -36,7 +36,7 @@ people:
   - Joe Biden
 companies_orgs:
   - Carnegie Corporation
-products_models: []
+products_models: '[]'
 media_books:
   - 《我们是谁》
   - 《美国难题》

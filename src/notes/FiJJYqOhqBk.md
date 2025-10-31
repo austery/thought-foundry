@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-08-07'
+author: 徒步的騎手
+date: 2025-08-07
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=FiJJYqOhqBk
+source: 'https://www.youtube.com/watch?v=FiJJYqOhqBk'
 speaker: 徒步的騎手
 tags:
   - collapse-theory
@@ -24,9 +24,9 @@ project:
   - personal-growth-lab
 people:
   - John Maynard Keynes
-companies_orgs: []
-products_models: []
-media_books: []
+companies_orgs: '[]'
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

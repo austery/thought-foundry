@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-02'
+author: 徒步的騎手
+date: 2025-03-02
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=oNnd5A_uHds
+source: 'https://www.youtube.com/watch?v=oNnd5A_uHds'
 speaker: 徒步的騎手
 tags:
   - us-ukraine-relations
@@ -51,7 +51,7 @@ companies_orgs:
   - 共和党
   - 基民党
   - 选项党
-products_models: []
+products_models: '[]'
 media_books:
   - 《The Soul of America》
   - GPS

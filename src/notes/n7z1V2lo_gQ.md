@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: Peter Pang
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=n7z1V2lo_gQ
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=n7z1V2lo_gQ'
+speaker: Peter Pang
 tags:
   - big-data-era
   - technology-prediction
@@ -22,7 +22,7 @@ project:
   - ai-impact-analysis
   - systems-thinking
   - historical-insights
-people: []
+people: '[]'
 companies_orgs:
   - Google
   - Facebook
@@ -34,7 +34,7 @@ products_models:
   - BigQuery
   - Hadoop
   - Apache log
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### 大数据时代的兴衰：一场未兑现的预言

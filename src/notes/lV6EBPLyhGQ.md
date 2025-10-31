@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: 硅谷101 podcast
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=lV6EBPLyhGQ
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=lV6EBPLyhGQ'
+speaker: 硅谷101 podcast
 tags:
   - ai-infrastructure
   - data-centers

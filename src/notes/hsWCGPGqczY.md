@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-30'
+author: Peter Pang
+date: 2025-10-30
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=hsWCGPGqczY
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=hsWCGPGqczY'
+speaker: Peter Pang
 tags:
   - dotcom-bubble
   - ai-hype
@@ -43,7 +43,7 @@ products_models:
   - intelliSense
   - PHP
   - Spring
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### 互联网的“第一次死亡”与Dotcom泡沫

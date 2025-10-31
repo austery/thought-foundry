@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-04-15'
+author: 徒步的騎手
+date: 2025-04-15
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=FbuYDvb2Jio
+source: 'https://www.youtube.com/watch?v=FbuYDvb2Jio'
 speaker: 徒步的騎手
 tags:
   - us-china-trade-war
@@ -36,7 +36,7 @@ people:
 companies_orgs:
   - 欧盟委员会
   - 欧洲外交关系委员会
-products_models: []
+products_models: '[]'
 media_books:
   - 《华尔街日报》
   - 《经济学人》

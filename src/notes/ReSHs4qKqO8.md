@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-08-10'
+author: 徒步的騎手
+date: 2025-08-10
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ReSHs4qKqO8
+source: 'https://www.youtube.com/watch?v=ReSHs4qKqO8'
 speaker: 徒步的騎手
 tags:
   - risk-perception
@@ -26,7 +26,7 @@ people:
   - Oskar Schindler
 companies_orgs:
   - 纳粹
-products_models: []
+products_models: '[]'
 media_books:
   - 《辛德勒的名单》
 status: evergreen

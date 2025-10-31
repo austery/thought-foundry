@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-19'
+author: 徒步的騎手
+date: 2025-01-19
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=Gr3NjrebTvg
+source: 'https://www.youtube.com/watch?v=Gr3NjrebTvg'
 speaker: 徒步的騎手
 tags:
   - information-quality

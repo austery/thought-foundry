@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-02-20'
+author: 徒步的騎手
+date: 2025-02-20
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=TdWFZeBXwXI
+source: 'https://www.youtube.com/watch?v=TdWFZeBXwXI'
 speaker: 徒步的騎手
 tags:
   - electoral-dictatorship
@@ -36,7 +36,7 @@ companies_orgs:
   - NATO
   - Cornell University
   - 美国海军研究生院
-products_models: []
+products_models: '[]'
 media_books:
   - 《民选独裁危机：民意和民选威权主义的兴起》
   - '《Popular Dictatorships: Crisis, Mass Opinion and the Rise of Electoral Authoritarianism》'

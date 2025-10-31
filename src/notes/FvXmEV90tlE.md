@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-11'
+author: 徒步的騎手
+date: 2025-07-11
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=FvXmEV90tlE
+source: 'https://www.youtube.com/watch?v=FvXmEV90tlE'
 speaker: 徒步的騎手
 tags:
   - national-narratives
@@ -30,8 +30,8 @@ people:
   - 庄子
   - Mildred Jeter Loving
   - Richard Loving
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《皇帝新装》
 status: evergreen

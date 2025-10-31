@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-06-28'
+author: 徒步的騎手
+date: 2025-06-28
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=XnEqVGucKAA
+source: 'https://www.youtube.com/watch?v=XnEqVGucKAA'
 speaker: 徒步的騎手
 tags:
   - political-anxiety
@@ -32,8 +32,8 @@ people:
   - 卢生
   - 司马迁
   - 马克·吐温
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《史记》
 status: evergreen

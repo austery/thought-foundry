@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: 夸克说
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=TmBnEmT4FPQ
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=TmBnEmT4FPQ'
+speaker: 夸克说
 tags:
   - nobel-prize
   - innovation-suppression

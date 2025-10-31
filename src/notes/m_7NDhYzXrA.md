@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-01-10'
+author: 徒步的騎手
+date: 2025-01-10
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=m_7NDhYzXrA
+source: 'https://www.youtube.com/watch?v=m_7NDhYzXrA'
 speaker: 徒步的騎手
 tags:
   - true-self
@@ -31,7 +31,7 @@ people:
 companies_orgs:
   - 哈佛大学
   - 美国最高法院
-products_models: []
+products_models: '[]'
 media_books:
   - 《大河湾》
   - 《金融时报》

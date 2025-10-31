@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: 投资TALK君
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=HD_SbJkpvmE
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=HD_SbJkpvmE'
+speaker: 投资TALK君
 tags:
   - earnings-report
   - aws-growth

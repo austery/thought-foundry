@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-24'
+author: 徒步的騎手
+date: 2025-07-24
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=AD9_xWCndvE
+source: 'https://www.youtube.com/watch?v=AD9_xWCndvE'
 speaker: 徒步的騎手
 tags:
   - spotlight-effect
@@ -30,7 +30,7 @@ companies_orgs:
   - Netflix
   - 康奈尔大学
   - YouTube
-products_models: []
+products_models: '[]'
 media_books:
   - The Tonight Show
 status: evergreen

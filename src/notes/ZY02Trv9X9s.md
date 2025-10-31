@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-04-18'
+author: 徒步的騎手
+date: 2025-04-18
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ZY02Trv9X9s
+source: 'https://www.youtube.com/watch?v=ZY02Trv9X9s'
 speaker: 徒步的騎手
 tags:
   - two-extremes-thinking
@@ -30,8 +30,8 @@ people:
   - 孟子
   - 麦克阿瑟
   - Donald Trump
-companies_orgs: []
-products_models: []
+companies_orgs: '[]'
+products_models: '[]'
 media_books:
   - 《劝学篇》
 status: evergreen

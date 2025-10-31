@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-05-12'
+author: 徒步的騎手
+date: 2025-05-12
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=qzF0CM7fQfM
+source: 'https://www.youtube.com/watch?v=qzF0CM7fQfM'
 speaker: 徒步的騎手
 tags:
   - maternal-sacrifice
@@ -25,9 +25,9 @@ people:
   - Paul Offler
   - 母亲
   - 邻居大妈
-companies_orgs: []
-products_models: []
-media_books: []
+companies_orgs: '[]'
+products_models: '[]'
+media_books: '[]'
 status: evergreen
 ---
 

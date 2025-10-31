@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-07-17'
+author: 徒步的騎手
+date: 2025-07-17
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=3brSN21GZAg
+source: 'https://www.youtube.com/watch?v=3brSN21GZAg'
 speaker: 徒步的騎手
 tags:
   - giant-baby-syndrome
@@ -38,7 +38,7 @@ companies_orgs:
   - YouTube
   - 微博
   - 微信
-products_models: []
+products_models: '[]'
 media_books:
   - 《巨婴国》
 status: evergreen

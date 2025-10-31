@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: 大飞说科技
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=xefsis6QGG0
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=xefsis6QGG0'
+speaker: 大飞说科技
 tags:
   - ai-innovation
   - accelerated-computing

@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: New York Times Podcasts
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=oD0Ig8Ku77U
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=oD0Ig8Ku77U'
+speaker: New York Times Podcasts
 tags:
   - home-improvement
   - diy

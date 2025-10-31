@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: The Knowledge Project Podcast
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=E4wXp-DaW8g
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=E4wXp-DaW8g'
+speaker: The Knowledge Project Podcast
 tags:
   - forensic-accounting
   - market-euphoria

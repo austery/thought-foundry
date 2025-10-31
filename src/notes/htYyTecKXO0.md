@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-25'
+author: 徒步的騎手
+date: 2025-03-25
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=htYyTecKXO0
+source: 'https://www.youtube.com/watch?v=htYyTecKXO0'
 speaker: 徒步的騎手
 tags:
   - us-constitutional-crisis
@@ -41,7 +41,7 @@ companies_orgs:
   - US Congress
   - NATO
   - EU
-products_models: []
+products_models: '[]'
 media_books:
   - 《狱中书简》
   - 《英语国家史》

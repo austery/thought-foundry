@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: LT視界
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=b3AVX3tAH1I
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=b3AVX3tAH1I'
+speaker: LT視界
 tags:
   - us-china-relations
   - trade-war
@@ -46,7 +46,7 @@ products_models:
   - 稀土
   - 大豆
   - BlackWire芯片
-media_books: []
+media_books: '[]'
 status: evergreen
 ---
 ### 川习会成果：华尔街日报的初步评估

@@ -1,10 +1,10 @@
 ---
-author: Unknown
-date: '2025-10-31'
+author: TVO Today
+date: 2025-10-31
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=ZV-Cv_lLE9U
-speaker: Unknown
+source: 'https://www.youtube.com/watch?v=ZV-Cv_lLE9U'
+speaker: TVO Today
 tags:
   - canada-us-relations
   - political-boycott

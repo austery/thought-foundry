@@ -1,9 +1,9 @@
 ---
-author: Unknown
-date: '2025-03-18'
+author: 徒步的騎手
+date: 2025-03-18
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=2pFYkzZ-DNI
+source: 'https://www.youtube.com/watch?v=2pFYkzZ-DNI'
 speaker: 徒步的騎手
 tags:
   - alien-enemies-act
@@ -46,7 +46,7 @@ companies_orgs:
   - Maduro Government of Venezuela
   - Government of El Salvador
   - Government of Honduras
-products_models: []
+products_models: '[]'
 media_books:
   - 《独立宣言》
   - The Alien Enemies Act of 1798
