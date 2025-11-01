@@ -7492,12 +7492,12 @@ their
  prices
  of
  Nvidia.
- AND
+ And
 
 
-JENSEN'S
- LIKE,
- "WOW,
+Jensen's
+ like,
+ "Wow,
  look
  at
  that.
