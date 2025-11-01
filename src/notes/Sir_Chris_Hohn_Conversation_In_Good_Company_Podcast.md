@@ -15,16 +15,14 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 克里斯·霍恩爵士，尼古拉·坦根
-channel: https://www.youtube.com/@norgesbankinvestmentmanagement
-guest: null
+speaker: Norges Bank Investment Management
+guest: Nikolai Tangan,Chris Hohn
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=M01NZc2QlDk&t
 ---
-**Speakers:** Sir Chris Hohn (Founder of TCI), Nikolai Tangan (Host,
-Norges Bank Investment Management)
+
 
 **主讲人：**
 克里斯·霍恩爵士（TCI 创始人），尼古拉·坦根（主持人，挪威银行投资管理公司）

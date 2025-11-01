@@ -17,7 +17,7 @@ products_models: []
 media_books: []
 date: 2025-08-09
 author: Lei
-speaker: 课代表
+speaker: 课代表立正
 channel: null
 draft: true
 file_name: how_to_build_investment_cognition.md
