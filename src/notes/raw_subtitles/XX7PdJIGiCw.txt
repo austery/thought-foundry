@@ -1,0 +1,829 @@
+If you want to know if someone really understands 
+evolution, just ask them this one weird question.
+Why does poop smell bad?
+Oh.
+Oh, gosh.
+Because it has bacteria in it, I guess?
+Microbiome, probably.
+Trash-
+Yeah, trash from the gut.
+... of the body.
+The food we eat?
+Because of the chemicals?
+Farts don't always smell bad.
+Yeah. Well, that's a different question 
+entirely. Do you think it objectively smells bad?
+Yes, I think so.
+Yes.
+How do you think it smells to flies?
+Like the fly?
+Yeah-
+They like it.
+They love it.
+They like it, yeah.
+They love it.
+Animals love stinky things.
+Yeah.
+They're attracted to it.
+Poop smells good to flies because 
+poop is full of nutrients.
+They use it as food.
+But it's also full of bacteria that 
+can be life-threatening to humans.
+So the real reason poop 
+smells bad to us is because
+if anyone ever thought it smelled good,
+they would probably get really sick, 
+die, and not pass on their genes.
+After all, it's about survival of the fittest.
+But survival of the fittest what?
+I mean, most people think of natural selection  
+as being about the survival of 
+the fittest individual animal.
+Individual.
+Individuals.
+Individual animal.
+Animal. Okay, so it's like an individual.
+Yeah.
+Which makes sense.
+I mean, individuals best adapted to their 
+environment have increased odds of survival,
+and therefore a higher likelihood 
+of passing on their genes.
+So it follows that each individual should do 
+everything it can to survive and reproduce.
+That is, it should be selfish.
+But if that's true, then how do you explain this?
+Worker bees will sting 
+predators to protect the hive,
+even though it might kill them in the process.
+Female worker ants are sterile,
+so they can't reproduce,
+but regardless, they work for the colony 
+for their entire lives until they die.
+Monkeys adopt orphans, wolves bring 
+meat to non-hunting members of the pack,
+and squirrels can let out alarm calls 
+to warn others about nearby predators.
+So if natural selection is 
+all about selfish individuals,
+why do we observe so much altruism in nature?
+The survival is of the species that can adapt.
+I think generally the species.
+For the survival of the species.
+So it's the survival of the species.
+Okay. Yeah, you're right.
+Okay.
+But survival of the fittest species or 
+the fittest group also doesn't work.
+I mean, think about what you need 
+for natural selection to occur.
+You need something that replicates 
+itself many times over, creating copies,
+and then you need a pruning process,
+whereby some of those copies get eliminated and 
+some thrive to go on and create more copies.
+The problem with groups or species is that 
+they don’t typically make copies of themselves.
+So you almost never get copies of groups fighting  
+other copies of groups to 
+see which groups win out.
+So if it's not survival of the fittest individual 
+and it's not survival of the fittest group,
+then what is it?
+Well, to explain that, I want 
+to take you on a little journey,
+all the way back to the beginnings of the Earth.
+Where we are now, there is nothing.
+Well, not really nothing, but nothing interesting.
+There are only simple things, like these blobs.
+This one might be a carbon dioxide 
+molecule, or it might be cyanide.
+We don't know for sure what they are,
+but we do know that these 
+compounds are very simple.
+So for now, they'll just be 
+blobs floating around our void.
+In fact, much of what we'll encounter 
+along our journey here are just hypotheses.
+A lot of Earth's early history is still a mystery,
+so keep that in mind.
+Now, every so often, our 
+blobs get a surplus of energy,
+maybe from a ray of UV light 
+or a nearby hot source.
+This is the first major upgrade 
+to our void, excess energy,
+as it allows our blobs to 
+interact with each other.
+And most of the time, this 
+interaction leads to nothing,
+but sometimes these blobs can combine 
+into more complicated compounds. 
+Here's a simple simulated example, 
+where we only have four red blobs.
+Right now, they are all individual particles, 
+but each time step we move forward,
+let's say there's a 10% chance that all 
+four combine into one red mega-blob.
+And now imagine this mega-blob isn't very stable.
+For every time step it's alive,
+it has a 95% chance of falling apart 
+back into the four smaller blobs.
+If we add more of these red blobs into the mix, 
+you'll notice that they rarely ever come together.
+On average, a mega-blob only 
+exists around 10% of the time.
+But if we were to reduce the chances of 
+the mega-blobs dissolving to only 1%,
+the void would suddenly be filled with them.
+This fact hints at an important 
+law that governs our void,
+the law of stability.
+Unstable blobs fall apart and 
+vanish. Stable ones endure.
+Now, watch what happens if we 
+speed this up dramatically,
+maybe a couple of years per second, 
+maybe even a couple million.
+You can see our blobs keep 
+getting random jolts of energy,
+so they combine with others to 
+form more complex compounds.
+Most attempts fail and fall 
+apart, but every so often,
+by pure chance,
+you get a compound that is more 
+stable than the blobs it's made of.
+This doesn't happen because the blobs 
+want to build more complex structures.
+It's just because these new configurations 
+happen to be more favorable in the environment.
+And now when these complicated 
+compounds become abundant enough,
+they too get a chance to combine,
+making our void increasingly complex.
+And one day, by accident,
+this causes an extremely unique shape to form,
+one with a special property.
+See, the blobs it's made of just happen to attract 
+similar blobs from the surrounding environment.
+This red blob always attracts green blobs,
+and this purple blob always attracts yellow ones,
+and piece by piece, all these 
+blobs attract their opposites
+until their counterparts suddenly snap 
+into position next to the original shape.
+Now, this shape goes on to do the same thing.
+Its green blobs attract red ones
+and yellow ones attract the purple until 
+another shape yet again snaps into position.
+This new shape looks exactly like the original.
+What just happened fully 
+spontaneously is replication.
+One shape became two.
+This marks the birth of the first replicator.
+We don't know exactly what 
+this replicator looked like.
+It might've been a single standalone molecule  
+or a group of molecules that 
+worked together to replicate.
+There's a lot of debate on this today,
+so instead, let's represent 
+the replicator as a character.
+How about this one here?
+Perfect.
+Keep in mind it's still just a lifeless 
+molecule, one without any intent or purpose.
+Now, you might think that the chances for the 
+replicator to form were extremely unlikely,
+but in our void, where we have hundreds 
+of millions of years to play with,
+what might seem impossible to 
+us becomes virtually inevitable.
+And the thing is, the replicator 
+only has to arise once.
+Once it's here,
+it can take the simpler compounds available in the 
+environment to copy itself at a much faster pace.
+And so it does that,
+until it entirely fills our void.
+At least, that's what you'd expect,
+but there is a flaw in the process.
+See, during the replicator's conquest of the void,
+one of its copies makes a mistake.
+Perhaps a stray ray of UV light hits 
+it during the replication process,
+or the replicator uses a building 
+block it wasn't supposed to.
+As a result, what we're left with is a new shape,
+which is slightly different from its parent,
+and so its properties might 
+be slightly different too.
+This error might be harmful.
+For example, it might make the copy less stable.
+It could be beneficial, making 
+the copy better at replicating,
+or it could be neutral,
+not changing the replicator in any meaningful way.
+This marks the final milestone in our void,
+mutation.
+Many species of replicators now occupy the void,
+and what they do is they replicate themselves.
+The problem is they all need 
+the same limited resources,
+and so our void turns into a battleground.
+So which replicator will win? What 
+kind of properties will the void favor?
+Well, let's try to simulate what happens.
+Now, if you’re looking to 
+run your own simulations,
+or need a place to run your own code
+look no further than today’s sponsor — Hostinger.
+Say you wanted to keep track 
+of everyday science news.
+Manually filtering through thousands of articles  
+for the most important stories 
+would be almost impossible!
+But Hostinger lets you easily automate this.
+You can use n8n, a platform 
+that lets you automate tasks,
+but you need a place to host it.
+And the easiest, most price-effective and 
+secure place to host n8n workflows is on  
+a Virtual Private Server or VPS from Hostinger!
+It’s like a powerful computer 
+you rent on the cloud.
+So here’s how you can create an article scrubber:
+The workflow can grab every new 
+science article from a list of portals.
+Then, it can send the articles to 
+Chat GPT to summarize their content.
+And finally, you can add these quick 
+summaries to a board in Notion.
+Using Hostinger’s pre-installed n8n template,  
+the setup only takes one click, and 
+you’re good to start creating workflows.
+By hosting n8n on a Hostinger VPS,  
+you get all the resources needed to 
+run your workflow smoothly, 24/7!
+Plus, you can have unlimited 
+workflows running simultaneously.
+Imagine the things you could do and the time 
+you can save with automations on Hostinger.
+They’re having a Black Friday 
+sale right now, so don’t miss out!
+Scan this QR code or visit 
+hostinger.com/veritasiumn8n  
+and use the code VERITASIUM to get an 
+extra discount on top of the sale prices!
+Thanks to Hostinger for sponsoring this part 
+of the video, and now back to our simulation.
+To simulate what a replicator 
+battle might look like,
+let's assign simplified traits to each of 
+the replicators, starting with the first one.
+This replicator is special,
+since it's the only one that can form 
+spontaneously from smaller building blocks.
+So we'll give it a spawn rate.
+This should be quite rare,
+so let's set the chance of 
+formation to 1% per time step.
+Just keep in mind we're just making these numbers 
+up. The simulation is purely illustrative.
+Now, once the replicator spawns,
+let's say it's governed by three key traits.
+First, a death rate,
+the chance of it falling apart or 
+being destroyed with each time step.
+Let's set that to be, say, 2%.
+Second, a replication rate,
+the chance to copy itself with each time step.
+Let's say 4%.
+And finally, a mutation rate,
+the chance a copy comes out mutated.
+If it's 4%, roughly one in 
+25 copies will be a mutation.
+So every time a new mutation spawns,
+it will inherit the replication death 
+and mutation stats from its parent,
+but slightly randomized.
+Notice that we won't give any of these 
+secondary replicators a spawn rate.
+They'll only be able to form as 
+mutations from previous generations.
+So if all of their copies die 
+out, they'll be gone for good.
+Now, before we run the simulation,
+I want to quickly shout out 
+the YouTube channel Primer.
+Our setup was inspired by his amazing 
+in-depth simulations on evolutionary biology.
+You should really check him out.
+Okay, let's run it.
+The graph on the right will 
+show how the populations grow,
+and this box on the left will 
+show a slice of the void,
+with all the winning replicators 
+and the correct ratios.
+You can see how the first replicator 
+appears and then immediately disappears,
+because it just happened to die 
+before it got the chance to replicate.
+But that's okay.
+The original replicator can be created from 
+smaller blobs, so it'll come back at some point.
+This time, it's starting to take off.
+You can also see that it spawns some 
+mutations, but they're struggling to keep up.
+Eventually, though, superior mutations pop up 
+and start to replicate faster than the original.
+But you can see almost all of them are 
+growing exponentially, which is unrealistic.
+That's because we're missing the 
+final piece of our simulation,
+limited resources.
+The building blocks should eventually run out.
+We can simulate this effect by introducing a sort  
+of resource factor to each 
+species' replication rate.
+This factor should depend on the total 
+number of replicators in the void, N,
+which will also divide with an 
+arbitrary crowding factor, C.
+C lets us define the maximum number of 
+replicators we'll allow into the void.
+Say C is 10,000.
+Then once there are 10,000 replicators,
+the two terms cancel out and drive 
+the replication rate down to zero,
+meaning none of the replicators will be able to 
+make copies until the population drops again. 
+So let's see how this changes our simulation.
+Okay.
+Like the last time, the original 
+replicator starts to grow,
+after which it's quickly 
+taken over by its mutations,
+but this time, most of these mutation 
+populations start to decline.
+Because of the scarce resources, 
+the new best population,
+the lime one,
+actually starts stealing 
+resources from the others.
+After that, a few more mutations pop 
+up, even more powerful than the lime.
+Ultimately, the purple replicator takes over,
+occupying around 9,000 of 
+the 10,000 available spaces.
+It completely curbs all the other populations.
+It goes without saying that the environment 
+plays a massive role in which replicator wins.
+If you change the environment, 
+you likely change the outcome.
+But let's look at the stats of the 
+replicator that came out on top this time.
+That winning species has 
+a replication rate of 20%,
+compared to the 17% average 
+across all populations.
+Obviously, being able to 
+replicate quickly pays off here.
+Its death rate is below average.
+Replicators that fall apart less 
+quickly can make more copies.
+And finally, it has a 1% mutation 
+rate, compared to the average of 3.73%.
+Although mutations help by injecting diversity,
+for any single species,
+fewer mutations mean more faithful copies.
+If we rerun the simulation, you'll notice 
+the outcomes are always slightly different,
+but the winning species consistently have high 
+replication and low death and mutation rates.
+Now, in the real void, things 
+wouldn't have been as simple.
+Instead of just tweaking these three stats,
+the replicators would have to mutate all 
+sorts of different ways to gain an advantage.
+For example, one replicator might mutate a 
+trait that lets it destroy other individuals
+and then use their building blocks 
+to make more copies of itself.
+This looks like strategy,
+but it's really just chemistry 
+that gets copied over and over  
+because it helps the replicator survive.
+Naturally, a risk of offense would 
+likely favor mutations that result in defense.
+So an opposing replicator might 
+stumble upon a mutation that helps  
+it form protective barriers from nearby materials,
+letting it endure those attacks.
+These barriers would also help protect the 
+fragile replicators from environmental damage,
+like UV light.
+This marks an important threshold.
+The replicator's traits aren't limited to just  
+determining the properties 
+of the molecules themselves.
+They can also shape the environment.
+So by chance,
+the replicators inevitably mutate in 
+ways that build scaffolding around  
+themselves to increase the 
+chances of their survival.
+They stumble upon ways of making 
+structures to propel themselves around.
+They develop senses and ways of storing energy.
+They even mix, exchange, and 
+steal traits from each other.
+Through billions of years of trial and error, 
+this scaffolding gets more and more complex,
+and as a result,
+the replicator's interactions with 
+the void become exceedingly indirect.
+They build complex survival 
+machines for themselves,
+machines whose sole purpose is to 
+protect the replicators inside.
+These machines became such experts at surviving,
+they're still around some 4 billion years later.
+They are the bacteria,
+plants,
+fungi,
+and animals all around you.
+Everything alive,
+including you,
+was built as a survival 
+vessel for these replicators.
+But today, you'd barely 
+recognize them as replicators.
+Now we just call them genes.
+They're hidden deep within every living creature,
+strands of DNA made from the sequences 
+of A, T, G, and C nucleotides.
+Now, one of the leading theories is that those  
+earliest replicators were actually 
+something closer to RNA molecules,
+but then over time,
+this must have evolved into a more 
+stable system of storing information,
+the DNA and proteins we use today.
+They are the code that shapes our traits.
+We’re taught that these traits are 
+here solely to help ensure our survival
+the survival of the individual or the species.
+But do we have this the wrong way around?
+When you have a child, what do you 
+pass on? The DNA. The DNA, the genes.
+Yeah, the genes.
+Genes.
+Okay, yeah.
+These tiny replicators are still fighting the 
+same battle that started billions of years ago,
+and the logic behind them hasn't changed.
+The traits just become more convoluted.
+Replicators that produce traits poorly suited 
+to their environment tend to become less common,
+while those that produce advantageous traits 
+become more numerous in the population.
+So it's not about the fittest individual or group,
+it's fundamentally about the 
+survival of the fittest genes.
+They are the core unit of natural selection.
+But why would natural selection 
+care exactly for the gene?
+Why not something smaller or something bigger?
+Well, for something to undergo selection,
+it needs to have three characteristics.
+First, it needs to be able to make 
+near identical copies of itself.
+Second, it needs to exhibit traits that affect 
+its interaction with the environment which,
+third, affect the probability of survival 
+and reproduction of the replicator.
+Something small like a single 
+nucleotide doesn't work, because,
+sure, it'll make identical copies of itself,
+but alone,
+it doesn't exhibit a trait 
+that could be selected for.
+What about something bigger, like a chromosome?
+Well, each chromosome affects 
+potentially thousands of traits  
+that could influence its survival,
+but when most creatures reproduce,
+sections of chromosomes get swapped around.
+So a chromosome doesn't stay together 
+as a cohesive replicating unit,
+and therefore it can't be selected for.
+But a gene is somewhere in the middle.
+It's a long enough stretch of DNA that 
+it can independently influence a trait,
+but it's also short and stable enough to be 
+faithfully copied over into future generations.
+This is why the gene is the 
+unit of natural selection.
+This perspective led to one of the most powerful 
+and controversial ways of seeing evolution,
+one popularized by Richard Dawkins 
+in his book The Selfish Gene.
+Based on the work of evolutionary 
+biologists in the 1960s and 1970s.
+And as a response against the, then very popular,
+group selection theory.
+Dawkins argued that just about every trait,
+from animals helping each other 
+to being completely selfish,
+is a strategy that helps their 
+genes survive and replicate.
+Genes that maximize their own survival 
+are the genes that propagate best,
+even if they do so at the expense of others.
+Or in Dawkins' words,
+we are survival machines,
+robot vehicles blindly programmed to preserve 
+the selfish molecules known as genes.
+Now, you might think this framework 
+isn't all that groundbreaking.
+I mean, take the emperor penguins 
+in Antarctica for example.
+They hesitate to jump into the water until 
+they are sure there are no seals around.
+So what kind of genes could help a 
+penguin survive in this environment?
+Well, if the penguin’s set of genes 
+make it more likely to be timid,
+the penguin might stay back until 
+someone braver tests the water.
+That way, the penguin is at 
+a lower risk of being eaten,
+and has a better chance to survive, 
+reproduce and pass on its ‘timid’ genes.
+Here, you can think about this either 
+as ‘the timid genes help the penguin’
+or ‘the penguin helps the timid genes’.
+Either way works.
+So is there any real benefit to viewing 
+things from the gene's perspective?
+Well, look at what happens when you use these 
+two frameworks to explain altruistic behavior,
+which appears in a lot of places in nature.
+Take California ground squirrels for example.
+Females will let out alarm 
+calls if they spot a predator,
+like a fox or a hawk,
+to warn other nearby squirrels, even 
+though this puts her survival at risk.
+The genes influencing this behavior 
+surely don’t help the squirrel.
+But can the squirrel still help the genes?
+I think this is a bit more 
+clear if you think about the  
+fact that most living things reproduce sexually.
+Right.
+So a squirrel will get half its DNA 
+from its mom and half from its dad.
+So it's actually sharing half 
+its genes with each parent.
+But also, any child that it has,
+it's also going to share half of its genes 
+with the child, but also any siblings.
+But then if you take a step out to an uncle or up 
+to a grandparent, then it's sharing one-quarter,
+and then another step out is one-eighth.
+All to say, you share a lot of 
+genes with your immediate family.
+And California ground squirrels, females 
+in particular, they live around family.
+So if a squirrel has a set of genes that 
+make her call out when it spots a predator,
+there is a very good chance that the 
+squirrels that hear her warning call
+also carry those genes.
+Now, as a result of her alarm call,
+let's say the squirrel attracts a predator 
+her way, and it ends up getting eaten.
+This action cost the ‘call’ genes 
+the chance to pass themselves on  
+to any future offspring of that squirrel.
+But, if the warning call saved 
+at least 2 copies of those genes
+in two of the squirrel’s relatives…
+well then, in total, these 
+2 squirrels have a better
+chance of passing on the genes through their 
+offspring than the single squirrel did.
+From the gene's perspective, 
+this could be a good trade-off.
+It doesn’t matter which individual 
+helps the genes replicate,
+only that as many copies as possible survive.
+This principle, that altruistically helping your 
+close relatives helps preserve your own genes,
+is known as kin selection.
+And the payoff behind any altruistic 
+gesture under kin selection
+depends heavily on how related you 
+are to the individuals you're helping,
+because the less related you are,
+the smaller the chances that you will share 
+that particular gene with another individual.
+And you can see this in nature.
+Male squirrels that don't live near relatives 
+almost never give out warning calls.
+Now, there is a big question this 
+gene-centric view still has to address.
+If selection really favors 
+genes that replicate well,
+then why would sex ever evolve 
+as a means of replication,
+if it throws away roughly half the genes?
+Most animals reproduce sexually.
+So why do it, when some organisms,
+like certain plants and fungi,
+get to pass on all of their genes 
+through asexual reproduction?
+From a gene's perspective, this 
+seems like a much better deal.
+When it comes to sexual 
+reproduction, people like to say,
+"Okay. Well, it mixes up the genes. 
+It's like shuffling a deck of cards,
+and isn't that better for creating more 
+variation? And clearly, that's advantageous."
+Another way this has been explained 
+is if the genes that regulate sexual  
+reproduction benefit from replicating sexually,
+then they're going to keep 
+pushing for these genes.
+Right.
+Even if it's a net negative to 
+all the other genes in the genome.
+Yeah.
+So if it benefits them, 
+they'll keep pushing for it.
+So are there any problems with how The 
+Selfish Gene explains natural selection?
+Well, yes. I mean, it turns out the 
+framework comes with a lot of controversy.
+One of the biggest criticisms against The 
+Selfish Gene is that it leaves little to chance.
+It implies that every gene present in the genome 
+is there because it actively got selected for,
+by natural selection, over many generations.
+But many genes are actually 
+invisible to natural selection,
+because they don't really exhibit 
+meaningful traits in the population.
+Yet, they can still evolve over time.
+Imagine 20 blind cave fish,
+10 with green eyes and 10 with blue.
+Since they’re blind,
+we’ll assume that their eye color traits 
+make no difference to their survival
+so they get passed down purely by chance.
+Now, to form the next generation,
+randomly “pick” any fish from 
+the first group and replicate it.
+If you repeat this 20 times, 
+you get a 2nd generation.
+By chance alone, one color will probably 
+appear more often than the other.
+And if you repeat this 
+process over many generations,
+one color might eventually completely take over.
+Not because it’s better,
+but purely due to random sampling.
+This shift in the frequency of gene 
+variants is called genetic drift.
+It’s most apparent in small populations and for  
+traits that aren't pruned 
+for by natural selection.
+But it doesn’t only apply to silent genes.
+Even when genes exhibit meaningful traits,  
+there is a chance that genetic 
+drift overrides natural selection,
+and a less fit gene will spread 
+through the population just by chance.
+Look back at our replicator battle.
+If we run our simulation enough times,
+sometimes the winning gene won’t be the one 
+with the traits that maximize its own survival.
+Here, you can see that the winning population 
+actually has a higher than average mutation rate,
+just by chance.
+And the average mutation rate is 
+also higher than the starting value.
+These are simplified examples, 
+but there is an ongoing argument  
+about how much of evolution was 
+actually due to natural selection
+and how much of it was up to chance.
+Another major criticism of 
+The Selfish Gene is about the  
+unavoidable implication behind the word selfish.
+It seems to imply that genes have agency,
+like they know what they're doing 
+and they understand the consequences,
+but it's only a metaphor,
+just as portraying them as characters was a 
+way for us to make the story more engaging.
+Of course, molecules don't 
+know what they're doing.
+They don't decide to replicate or 
+conspire to out-compete others.
+They just react according to the laws of physics.
+So what may look like intention
+is just simple chemistry that 
+happens to work well and propagates.
+But perhaps the most obvious and 
+easiest to understand criticism is  
+that the whole framework is an oversimplification,
+and that's true.
+Genes are much more complicated than we thought.
+It's not as simple as one gene equals one trait.
+One gene can influence many traits, and 
+one trait can be influenced by many genes.
+There are genes that are wholly 
+contained within other genes.
+There are genes that inhibit or activate others,
+and then there are even genes that 
+seem to not encode for anything,
+the so-called non-coding DNA.
+All to say, we still have 
+a lot to learn about genes.
+Not to mention that the environment itself,
+like whether it's hot or cold,
+or how much food there is,
+also affects how different genes get expressed.
+Genes are much less deterministic 
+than they might seem!
+So you might think that a single gene 
+would rarely have a large enough effect  
+that natural selection can directly impact it,
+but it doesn't matter how 
+convoluted the pathway is.
+If a gene has a measurable effect 
+on its own survival and replication,
+it will be subject to some 
+amount of natural selection.
+And surely, the whole theory is a simplification, 
+but any theory or framework of nature is.
+And what we're covering in this video is an 
+even more simplified picture of that framework,
+but that doesn't take away the fact 
+that viewing the world through this  
+lens has an incredible power to help 
+us understand the process of evolution.
+It helps us understand why we see such a 
+range of different behaviors in our world
+because fundamentally,
+those traits tend to cause the increasing 
+prevalence of the genes they are associated with.
+It's like the whole point 
+is figure out what's true.
+Get to the truth.
+And this, to me, is the 
+baseline truth of evolution.
+This is what I love about making Veritasium,
+is that we get to sort of 
+unpack and dig under the hood.
+And it's what I loved about 
+reading The Selfish Gene book,
+is that it really opened my eyes to this.
+Previously, I'd always just probably 
+thought at the level of the individual,
+but it makes more sense to 
+think at the level of the gene.
+The feeling that you and every other 
+living organism is being driven by some  
+molecules deep in every cell 
+is fundamentally unsettling,
+and seems to remove agency from you as 
+an acting, thinking being in the world.
+Yeah, it's pretty grim.
+But whether or not you agree with the fact that  
+we might be controlled by our genes 
+and we're simply their flesh robots,
+I think it's kind of unreasonable 
+and unrealistic to go through life  
+thinking that every decision is governed by this.
+It doesn't really do you any good,
+because we perceive the world as individuals.
+So I think it's very beneficial to see 
+yourself as your own thing, as your own unit.
+I want to give a big shout-out to Joe Hanson 
+from BeSmart for helping us out with this video,
+and another shout-out to Primer for letting us 
+adapt his simulation on the first replicators.
+I have put links to their 
+channels down in the description,
+so please check them out.
+And finally, I want to say 
+a huge shout-out to you.
+Thank you for watching.
