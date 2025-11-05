@@ -1,6 +1,6 @@
 ---
 author: 记者易速利
-date: '2025-11-02'
+date: '2025-10-31'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=-TgENNs7Q4U
@@ -69,6 +69,7 @@ media_books:
   - TED演讲
 status: evergreen
 ---
+
 ### 中国军工崛起与美国防务困境
 
 中国拥有比美国多300倍的海军造船能力。美国建造一艘航空母舰所需的时间，中国可以建造300艘。目前，中国并未大量建造航空母舰，而是主要专注于与他们想要做的——入侵台湾——更相关的其他方面，主要是两栖登陆艇。

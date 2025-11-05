@@ -1,6 +1,6 @@
 ---
 author: 记者易速利
-date: '2025-11-04'
+date: '2025-10-18'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=TLfz5Z1P3XM
@@ -59,6 +59,7 @@ media_books:
   - 《论暴政》
 status: evergreen
 ---
+
 ### 斯蒂芬·米勒与政治冲突
 
 最近，美国政坛上两党之间爆发了一场个人冲突。一方是白宫办公厅副主任**斯蒂芬·米勒**（Stephen Miller: 特朗普政府核心幕僚，以强硬保守派立场著称），他出生于1985年，今年40岁。另一方是来自纽约的民主党国会议员**亚历山德里娅·奥卡西奥-科尔特斯**（Alexandria Ocasio-Cortez: 简称AOC，拉丁裔，年轻一代民主社会主义者的代表人物之一），她出生于1989年，今年36岁。AOC在2018年29岁时首次当选国会议员，此前曾在纽约酒吧做女招待。
