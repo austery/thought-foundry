@@ -1,208 +1,317 @@
 ---
-title: 市场周报：政府停摆下的银行风险、经济线索与黄金白银走势
-summary: 本周市场波动，政府停摆致数据缺失。关注区域银行风险、经济私有数据及黄金白银的抛物线上升。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-- market-cycles
-- us-analysis
-tags:
-- banking-sector
-- economic-outlook
-- government-shutdown
-- market-analysis
-- precious-metals
-people:
-- joseph-wang
-companies_orgs: []
-products_models: []
-media_books: []
-date: '2025-10-18'
 author: Joseph Wang
-speaker: Joseph Wang
-draft: true
+date: '2025-11-05'
 guest: ''
-insight: ''
 layout: post.njk
-series: ''
 source: https://www.youtube.com/watch?v=uKOHgli9aOg
+speaker: Joseph Wang
+tags:
+  - regional-banks
+  - credit-quality
+  - shadow-banking
+  - economic-indicators
+  - gold-silver-rally
+title: 市场周报：区域银行风险、经济现状与黄金白银的抛物线式上涨
+summary: 本期《市场周报》深入分析了当前金融市场的多个关键动态。首先，探讨了近期区域银行面临的信贷担忧，并结合大型银行的财报数据，评估了系统性风险。其次，节目揭示了后金融危机时代影子银行的崛起，以及其对传统银行信贷风险转移的影响。此外，还通过私人数据源审视了美国经济的现状，特别是劳动力数据与GDP增长之间的背离。最后，重点分析了黄金和白银的抛物线式上涨，探讨了其背后的驱动因素，并警示了潜在的回调风险。
+insight: ''
+draft: true
+series: ''
+category: finance
+area: market-analysis
+project:
+  - investment-strategy
+  - market-cycles
+  - geopolitics-watch
+people:
+  - Joseph Wang
+  - President Putin
+companies_orgs:
+  - Bank of America
+  - Truist
+  - US Bank
+  - JP Morgan
+  - American Express
+  - Blackstone
+  - Polo Capital
+  - Atlanta Fed
+  - Fed
+products_models: []
+media_books:
+  - Fed's Beige Book
 status: evergreen
 ---
 ### 市场概览与政府停摆影响
 
-Today is October 18th, and this is Markets Weekly. This past week was a pretty volatile week in markets, but if you zoom out a bit, you see that over the past few months, the equity market could only go up. Now it looks like there's some two-sided risk; sometimes it goes down. So maybe there's a little bit of a change in the mood of the market.
+大家好，今天是10月18日，这里是《市场周报》。过去一周市场波动剧烈，但如果将时间拉长到过去几个月，股市似乎只会上涨，而现在则出现了双向风险，有时也会下跌。这或许表明市场情绪有所转变。
 
-今天是10月18日，这里是《市场周报》。过去一周市场波动较大，但如果将时间线拉长，你会发现过去几个月股市似乎只会上涨。现在看来，市场存在双向风险，有时也会下跌。这可能意味着市场情绪发生了一些变化。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Hello my friends. Today is October 18th and this is Markets Weekly. So this past week was a pretty volatile week in markets, but if you zoom out a bit and see that, you know, over the past few months, the equity market could only go up, but now it looks like there's some two-sided risk. Sometimes it goes down. So maybe a little bit of a change in the mood of the market.</p>
+</details>
 
-This week, we're still in a government shutdown, so we don't have any official data. The betting markets are suggesting that the shutdown could go deep into November. So maybe we won't have data for some time, and concerningly, if no one's working, no one's collecting the data. So even when the government opens, we might not really get any official data. We're going to be flying blind for some time.
+本周，我们仍处于政府停摆状态，因此没有任何官方数据。博彩市场预测停摆可能会持续到11月深处。因此，我们可能在一段时间内都无法获得数据，更令人担忧的是，如果没人工作，就没有人收集数据。所以，即使政府重新开放，我们可能也无法真正获得任何官方数据。这意味着我们将在一段时间内“盲飞”。
 
-本周，我们仍处于政府停摆状态，因此没有任何官方数据。博彩市场预测停摆可能会持续到11月深处。所以我们可能在一段时间内都无法获得数据，更令人担忧的是，如果没人工作，就没人收集数据。因此，即使政府重新开放，我们可能也无法真正获得任何官方数据。我们将在一段时间内盲目航行。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now this week, we're still in a government shutdown, so we don't have any official data. The betting markets are suggesting that the shutdown could go deep into November. So maybe we won't have data for some time and concerningly if no one's working, no one's collecting the data. So even when the government opens, we might not really get any official data. So we're going to be flying blind for some time today.</p>
+</details>
 
-Today, let's talk about three things. First, we have to talk about the regional bank scare we had last week, where credit concerns were prompting a pretty big sale of a couple of regional banks. Secondly, let's look at some private data to see where the economy might be heading. And lastly, we have to talk about the parabolic ascent of gold and silver.
+今天，我们来谈三件事。首先，我们必须讨论上周发生的区域银行恐慌，当时信贷担忧导致几家区域银行股票遭到大幅抛售。其次，我们将审视一些私人数据，以了解经济可能走向何方。最后，我们必须谈谈黄金和白银的抛物线式上涨。
 
-今天，我们来谈谈三件事。首先，我们必须谈谈上周发生的**区域银行** (Regional Bank: 在美国指资产规模介于100亿至2500亿美元之间的银行) 恐慌，当时信贷担忧导致几家区域银行遭遇了相当大的抛售。其次，我们来看一些私人数据，以了解经济可能走向何方。最后，我们必须谈谈黄金和白银的**抛物线上升** (Parabolic Ascent: 资产价格在短时间内急剧加速上涨的形态)。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Let's talk about three things. First off, we have to talk about the regional bank scare that we had the past week where credit concerns were prompting a pretty big sale of a couple regional banks. Secondly, let's look at some private data to see where the economy might be heading. And lastly, we have to talk about the parabolic ascent of gold and silver.</p>
+</details>
 
-### 区域银行恐慌与信贷市场担忧
+### 区域银行恐慌与信贷质量评估
 
-Starting with the regional banks. If you look at this price index of regional bank stocks, you can see that there was a tumble. What happened was that a couple of regional banks got sold significantly because there were reports that they had to write down some of their loans made to an investment fund that lost money.
+好的，我们从区域银行开始。如果你看一下区域银行股票的价格指数，你会发现它们经历了一次下跌。事情是这样的：有报道称几家区域银行不得不减记向一个亏损的投资基金发放的部分贷款，导致这些银行的股票被大幅抛售。
 
-从区域银行开始。如果你看一下区域银行股票的价格指数，你会发现出现了一次下跌。发生的情况是，几家区域银行遭遇了大幅抛售，因为有报道称它们不得不减记向一家亏损的投资基金发放的部分贷款。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">All right, starting with the regional banks. So, if you look at this price index of regional bank stocks, you can see that there was kind of a tumble. So what happened was that a couple regional banks got sold significantly because there were reports that they had to write down some of their loans made to an investment fund that lost money.</p>
+</details>
 
-This is occurring during a broader context where there seems to be a little bit more concern in the credit markets about credit quality not being as good as the pricing suggests. So **信用利差** (Credit Spreads: 债券收益率与无风险资产收益率之差，反映信用风险) are still pretty tight.
+这种情况发生在一个更广泛的背景下，即信贷市场似乎对信贷质量存在更多担忧，认为其可能不如定价所暗示的那么好。因此，**信贷利差**（Credit Spreads: 衡量债券风险的指标，即风险债券与无风险债券之间的收益率差）仍然相当紧张。
 
-这发生在一个更广泛的背景下，即信贷市场似乎对信贷质量的担忧有所增加，认为其可能不如定价所暗示的那么好。因此，信用利差仍然相当紧张。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now this is occurring uh during a broader context where there seems to be a little bit more concern in the credit markets about uh you know maybe credit is not as good quality as as the pricing suggests. So credit spreads are still pretty tight.</p>
+</details>
 
-In the past few months, we've had the bankruptcies of two pretty large companies: one that specialized in lending to illegal immigrants, and also First Brands, which had a lot of business in auto parts.
+过去几个月，我们看到两家相当大的公司破产。一家是专门向非法移民提供贷款的公司，另一家是**First Brands**（一家在汽车零部件业务中占有很大份额的公司）。这两家公司都是私营企业，因此没有相同的公开披露信息，但很容易将它们的失败视为**特异性事件**（Idiosyncratic: 指特定于某个个体或情境，而非普遍性的）。
 
-在过去几个月里，我们有两家相当大的公司破产：一家专门向非法移民提供贷款，另一家是First Brands，它在汽车零部件业务方面有很多业务。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now, in the past few months, we've had the bankruptcies of two pretty large companies. We had, which was a company that basically specialized in lending uh to illegal immigrants, and also First Brands, which was a company that uh had a lot of business in auto parts. Now, those two companies are both privately held, so there they don't have the same public disclosures, but it's easy to see them as idiosyncratic.</p>
+</details>
 
-Those two companies are both privately held, so they don't have the same public disclosures, but it's easy to see them as **特异性事件** (Idiosyncratic Event: 仅影响特定公司或行业的事件，而非系统性风险). For the first company, the president has a different immigration policy, enforcing immigration law now, so when your clients are getting deported, that's not good for business. When it comes to First Brands, there are some allegations of potential fraud, and there's always fraud in the corporate space. So maybe these two failures could just be idiosyncratic, or maybe they're **系统性风险** (Systemic Risk: 影响整个金融系统或市场的风险) of something that's a lot deeper. With that cloud in mind, the market was very jumpy when it came to reports that these regional banks had lost some money.
+当然，当谈到移民政策时，总统正在执行不同的移民法，所以当你的客户被驱逐出境时，这显然不利于业务。至于First Brands，存在一些潜在欺诈的指控，而企业界总是存在欺诈行为。所以，这两起失败可能只是特异性事件，或者它们可能预示着更深层次的系统性问题。考虑到这种不确定性，当有报道称这些区域银行亏损时，市场表现得非常紧张。
 
-这两家公司都是私营的，所以它们没有相同的公开披露，但很容易将它们视为特异性事件。对于第一家公司，总统现在实行不同的移民政策，正在执行移民法，所以当你的客户被驱逐出境时，这对业务显然不利。至于First Brands，有一些潜在欺诈的指控，而且在企业领域总是存在欺诈。所以，也许这两次失败可能只是特异性事件，或者它们是更深层次系统性风险的体现。考虑到这种不确定性，当有报道称这些区域银行亏损时，市场反应非常紧张。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So when it comes toricolor of course the president has a uh different immigration policy he's enforcing immigration law now and so you know when your clients are getting deported obviously that's not going to be good for business when it comes to first brands there's some allegations of potential fraud and there's always fraud in the corporate space right so you know maybe these two failures could just be idiosyncratic or you know maybe they're systemic of something that's a lot deeper and so with that cloud in mind the market was very jumpy when it came to reports that uh these regional banks had lost some money.</p>
+</details>
 
-This past week was also a very big week for bank earnings. So we can take a step back and look broadly to see whether or not there's a systemic risk. Maybe there's a whole bunch of bad loans, or maybe these are just really idiosyncratic events, and the market is getting a bit too jumpy.
+但过去一周也是银行财报发布的重要一周。因此，我们可以退一步，从更广阔的视角来看是否存在系统性风险。也许存在大量不良贷款，或者这些只是真正的特异性事件，而市场反应有些过于敏感。
 
-过去一周也是银行财报发布的重要一周。所以我们可以退一步，从宏观角度审视是否存在系统性风险。也许存在大量不良贷款，或者这些只是真正的特异性事件，而市场反应过度了。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But over this past week was also a very big week for bank earnings. So we can take a step back and we can kind of look broadly to see whether or not there's a systemic risk. Maybe there's a whole bunch of bad loans or maybe these are just really idiosyncratic events and the market is getting a bit too jumpy.</p>
+</details>
 
-### 银行财报与信贷质量
+首先，我们从大型银行开始。显然，如果你是一家银行，你拥有大量数据。很多人在你这里有存款账户，你发放贷款。因此，你对市场脉搏了如指掌。看看**美国银行**（Bank of America），你会发现他们表示信贷质量非常好，实际上还在改善，对吗？那么，他们是一家庞大的银行，但再次强调，这只是一家银行。如果问题只存在于区域银行呢？
 
-First, let's start with the mega banks. Obviously, if you are a bank, you have tremendous amounts of data. A lot of people have deposit accounts with you, and you make loans. So, you have your finger on the pulse.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now first let's start with the mega banks. Obviously if you are a bank you have tremendous amounts of data. A lot of people have deposing accounts with you. You make loans. So, you have your finger on the pulse. Now, looking at Bank of America, you can see that, you know, they're saying credit quality is is really good. It's actually improving, right? So, they're a huge ginormous bank and but again, there's just one bank. What if it's just something in the regional banks?</p>
+</details>
 
-首先，我们从大型银行开始。显然，如果你是一家银行，你拥有大量数据。很多人在你这里有存款账户，你发放贷款。因此，你对市场脉搏了如指掌。
+那么，如果我们看看大型区域银行，比如**Truist**，它们在财报演示中说了什么？你会发现它们也说了同样的话：信贷质量不仅良好，而且正在改善。贷款损失准备金正在下降，冲销也在减少。那么**美国合众银行**（US Bank）呢？这家大型区域银行也说了同样的话。实际上，所有区域银行和大型银行都说了同样的话：到目前为止，银行体系的信贷质量似乎正在改善。
 
-Looking at Bank of America, you can see that they're saying credit quality is really good; it's actually improving. They're a huge, ginormous bank, but again, it's just one bank. What if it's just something in the regional banks?
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So, if we look at the large regional banks, let's say Truest, what are they saying in their earnings presentation? You can see they're saying the same thing. credit quality is not just fine but it's getting better. Loan loss reserves coming down, charge offs also declining. Uh what about uh US Bank also a large regional bank saying the same thing and actually uh basically all the regional banks are saying the same thing as are the big banks. Credit quality so far in the banking system appears to be uh improving.</p>
+</details>
 
-看看美国银行，你会发现他们说信贷质量非常好；实际上正在改善。他们是一家庞大的银行，但话说回来，它只是一家银行。如果问题只存在于区域银行呢？
+现在需要注意的一点是，在大金融危机之后，银行体系的结构发生了显著变化，以至于当我们确实出现信贷问题时，它们极不可能来自银行业。
 
-If we look at the large regional banks, let's say Truist, what are they saying in their earnings presentation? They're saying the same thing: credit quality is not just fine, but it's getting better. **贷款损失准备金** (Loan Loss Reserves: 银行预留以弥补未来贷款损失的资金) are coming down, and **核销** (Charge Offs: 银行将无法收回的贷款从账面上移除的行为) are also declining.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now one thing to keep in note keep in mind is that after the great financial crisis the structure of the banking system has changed significantly such that when we do have credit issues they're really unlikely to come from the banking sector.</p>
+</details>
 
-如果我们看看大型区域银行，比如Truist，他们在财报演示中说了什么？他们也说了同样的话：信贷质量不仅良好，而且正在改善。贷款损失准备金正在下降，核销也在减少。
+### 影子银行的崛起与风险转移
 
-What about US Bank, also a large regional bank? They're saying the same thing, and actually, basically all the regional banks are saying the same thing as the big banks. Credit quality so far in the banking system appears to be improving.
+在大金融危机中，银行发放了大量不良贷款，这些不良贷款导致它们损失惨重，进而引发了银行危机，并最终演变为一场巨大的金融危机。监管机构不希望这种情况再次发生，因为消费者和家庭将银行存款视为安全资产，尽管从技术上讲它们并非完全安全，你实际上是在向银行提供无担保贷款。但当人们把钱存入银行时，他们认为这是安全的。因此，当银行业出现问题时，就会引发恐慌。所以，监管机构出台了所有这些规定，以确保银行变得更加保守。
 
-那么美国银行呢，它也是一家大型区域银行，也说了同样的话。实际上，基本上所有区域银行都和大银行一样，表示信贷质量正在改善。到目前为止，银行系统的信贷质量似乎正在好转。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So in the great financial crisis the banks made a whole bunch of bad loans and those bad loans caused them to lose a lot of money which in turn caused a banking crisis that basically morphed into a great financial crisis. The regulators don't want that to happen because consumers, households view bank deposits as safe assets, even though technically they're not safe. You're lending unsecured to a bank. But when people put money in a bank, they think of it as safe. And so when you have issues in the banking sector, that causes panics. So they put on all these regulations to make sure that banks became much more conservative.</p>
+</details>
 
-### 影子银行的兴起与风险转移
+因此，如今很多贷款实际上是通过所谓的**影子银行**（Shadow Banks: 指从事类似银行信贷业务，但不受传统银行监管的金融机构）进行的。举例来说，在大金融危机之前，商业银行发放了大量抵押贷款。而如今，大多数抵押贷款实际上是由并非银行的抵押贷款公司发起的，这些公司基本上是私人金融公司。
 
-One thing to keep in mind is that after the **全球金融危机** (Great Financial Crisis: 2008年爆发的全球性金融危机), the structure of the banking system has changed significantly, such that when we do have credit issues, they're really unlikely to come from the banking sector.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So today a lot of lending actually happens um through the what they call shadow banks. So for example before the great financial crisis the commercial banks made a whole bunch of mortgages. Today most mortgages are actually originated from mortgage lending companies that are not banks that are just basically private financial companies.</p>
+</details>
 
-需要记住的一点是，在全球金融危机之后，银行系统的结构发生了显著变化，以至于当我们确实出现信贷问题时，它们极不可能来自银行业。
+同样的情况也适用于许多其他领域。假设你是一家中型市场公司。如果你想获得贷款，你可以去找银行，但现在你也可以越来越多地去找私人投资者，比如私人信贷基金，并在那里获得贷款。
 
-In the global financial crisis, banks made a whole bunch of bad loans, and those bad loans caused them to lose a lot of money, which in turn caused a banking crisis that basically morphed into a global financial crisis. Regulators don't want that to happen because consumers and households view bank deposits as safe assets, even though technically they're not safe; you're lending unsecured to a bank. But when people put money in a bank, they think of it as safe. So when you have issues in the banking sector, that causes panics. They put on all these regulations to make sure that banks became much more conservative.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And you can say similarly with many other things right. So uh let's say that you are a middle market company. If you want to get a loan, you could go to a bank, but increasingly you or you could go to a private investor like a private uh credit fund and get a loan there.</p>
+</details>
 
-在全球金融危机中，银行发放了大量不良贷款，这些不良贷款导致它们损失惨重，进而引发了一场银行危机，最终演变为全球金融危机。监管机构不希望这种情况再次发生，因为消费者和家庭将银行存款视为安全资产，尽管从技术上讲它们并不安全；你是在无抵押地借钱给银行。但当人们把钱存入银行时，他们认为它是安全的。因此，当银行业出现问题时，就会引起恐慌。他们制定了所有这些法规，以确保银行变得更加保守。
+如果你看看过去一年银行贷款增长的图表，你会发现商业银行的巨额贷款增长并非流向企业，而是流向了所谓的**非银行金融机构**（Non-Bank Financial Institutions: 指不接受存款，但提供其他金融服务的机构）。确切地说，是非存款性金融机构，基本上就是那些不是银行的金融公司。如果你看那张图表，你会看到一个巨大的跳跃。其中一部分是由于重新分类。
 
-Today, a lot of lending actually happens through what they call **影子银行** (Shadow Banks: 从事类似银行信贷活动的非银行金融机构). For example, before the global financial crisis, commercial banks made a whole bunch of mortgages. Today, most mortgages are actually originated from mortgage lending companies that are not banks, but are just basically private financial companies.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Um if you look at this chart of bank loan growth over the past year, you can see that a tremendous amount of loan growth from the commercial banks is not to say uh corporations, but it's to what's called uh non non uh non-bank financial institutions. Well, non-depository financial institutions, basically financial companies that are not banks. And if you look at that chart, you can see there's a big jump. Part of it was because of a reclassification.</p>
+</details>
 
-如今，许多贷款实际上是通过他们所称的影子银行进行的。例如，在全球金融危机之前，商业银行发放了大量抵押贷款。而今天，大多数抵押贷款实际上是由非银行的抵押贷款公司发起的，这些公司基本上只是私人金融公司。
+总之，银行喜欢向这些私人金融公司放贷，然后这些私人金融公司再向实体经济放贷。因此，如今很多银行贷款都是间接进行的。
 
-And you can say similarly with many other things. Let's say you are a middle market company. If you want to get a loan, you could go to a bank, but increasingly you could go to a private investor, like a private credit fund, and get a loan there.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So in any case, banks like to lend to these private financial companies and then these private financial companies then lend to the real economy. So a lot of bank lending today is done indirectly.</p>
+</details>
 
-许多其他事情也类似。假设你是一家中型市场公司。如果你想获得贷款，你可以去银行，但越来越多地，你也可以去找私人投资者，比如私人信贷基金，在那里获得贷款。
+因此，当出现信贷问题时，比如说一家公司无法偿还债务，这会成为影子银行或私人非银行贷款机构的问题，然后私人贷款机构将不得不处理。在问题上升到银行层面之前，私人贷款机构必须耗尽其资源。因此，这为商业银行增加了一层额外的安全保障。
 
-If you look at this chart of bank loan growth over the past year, you can see that a tremendous amount of loan growth from the commercial banks is not to corporations, but to what are called **非存款性金融机构** (Non-depository Financial Institutions: 不接受公众存款的金融机构，如抵押贷款公司、私募信贷基金). Basically, financial companies that are not banks. If you look at that chart, you can see there's a big jump; part of it was because of a reclassification.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And so when there are credit problems, let's say a company can't pay, it's a problem for the shadow bank for the private non-bank lender and then the private mom lender will have to deal with it. Now before it goes up to the bank level, the private lender is going to have to exhaust their resources. And so it's an extra layer of safety for the commercial banks.</p>
+</details>
 
-如果你看一下过去一年银行贷款增长的图表，你会发现商业银行的大量贷款增长并非流向企业，而是流向所谓的非存款性金融机构。基本上，就是那些非银行的金融公司。如果你看一下那张图表，你会看到有一个很大的跳跃；其中一部分是由于重新分类。
+因此，商业银行向**黑石集团**（Blackstone）或**保罗资本**（Polo Capital，假设为金融机构）这样的机构放贷，这些基本上是复杂而老练的金融赞助商，然后由他们管理的信贷基金再去进行贷款。因此，在我个人看来，受监管的银行业出现信贷问题的可能性非常小，仅仅是因为大部分风险已经转移到了私人领域。在私人领域可能会出现一些问题，但至少到目前为止，我们看到一些公开交易的**业务发展公司**（BDCs: Business Development Companies: 专注于投资中小型私营公司的公开交易投资公司）表现不佳，但总体看来尚可。所以，我们姑且拭目以待。
 
-In any case, banks like to lend to these private financial companies, and then these private financial companies then lend to the real economy. So a lot of bank lending today is done indirectly.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So the commercial banks, they're lending to, let's say, a Blackstone or a Polo, basically these, you know, fancy sophisticated uh financial sponsors and then the credit funds managed by these guys then go and do the lending. So it's in my personal view very unlikely for there to be any credit problems in the regulated banking sector uh simply because so much of the risk has basically been moved to the private space and there you could have some issues but so far at least uh you see a little bit of that with the with the public traded business developed corporations the BDC's not having a good uh quarter but so far it seems Okay. So, we'll guess we'll watch that going forward.</p>
+</details>
 
-无论如何，银行喜欢向这些私人金融公司放贷，然后这些私人金融公司再向实体经济放贷。因此，现在很多银行贷款都是间接进行的。
+### 经济现状：私人数据与劳动力-GDP悖论
 
-So when there are credit problems, let's say a company can't pay, it's a problem for the shadow bank, for the private non-bank lender, and then the private non-bank lender will have to deal with it. Before it goes up to the bank level, the private lender is going to have to exhaust their resources. So it's an extra layer of safety for the commercial banks.
+好的。接下来我们要讨论的是经济状况。我们没有任何公开收集的数据，而且可能要到11月深处才能获得。谁知道呢，也许政府更喜欢这样。但我们确实有一些私人数据来源提供的线索，可以了解经济的运行状况。
 
-所以当出现信贷问题时，比如说一家公司无法偿还债务，这首先是影子银行、私人非银行贷款机构的问题，然后私人非银行贷款机构必须处理它。在问题上升到银行层面之前，私人贷款机构必须耗尽他们的资源。所以，这对商业银行来说是额外的一层安全保障。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Okay. The next thing we want to talk about is the state of the economy. So, we don't have any publicly collected data and probably won't have it until deep into November. And who knows, maybe the government prefers it this way. Um, but we do have some clues from some private data sources as to how the economy is doing.</p>
+</details>
 
-Commercial banks are lending to, let's say, a Blackstone or an Apollo, basically these fancy, sophisticated **金融发起人** (Financial Sponsors: 投资公司，如私募股权基金，为企业提供融资和战略支持), and then the credit funds managed by these guys then go and do the lending. So, in my personal view, it's very unlikely for there to be any credit problems in the regulated banking sector, simply because so much of the risk has basically been moved to the private space. There, you could have some issues, but so far, at least, you see a little bit of that with the publicly traded **业务发展公司** (Business Developed Corporations: BDCs: 一种公开交易的封闭式基金，投资于中小型私营企业) not having a good quarter, but so far it seems okay. So, we'll watch that going forward.
+当然，我们首先要看大型银行。正如我之前提到的，大型银行掌握着经济的脉搏。但我们来听听**摩根大通**（JP Morgan）的看法，它是所有银行中最大的，拥有关于实体经济最多数据的一家。在财报电话会议上被问及消费者状况时，摩根大通基本上表示消费者状况良好，一切都很好，他们没有看到任何压力。
 
-商业银行正在向，比如说，黑石或阿波罗这些花哨、复杂的金融发起人放贷，然后由这些公司管理的信贷基金再去进行贷款。所以，在我个人看来，受监管的银行业出现任何信贷问题的可能性非常小，仅仅是因为大部分风险已经转移到了私人领域。在那里可能会出现一些问题，但到目前为止，至少你看到一些公开交易的业务发展公司（BDCs）本季度表现不佳，但目前看来还可以。所以，我们将继续关注未来的情况。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Of course, we want to go first to the mega banks. The mega banks, like I mentioned earlier, have their finger on the pulse of the economy. But let's hear it from JP Morgan, the biggest bank of the them all, the one with the most uh I guess most data on the real economy. When asked about the state of the consumer on their earnings call, JP Morgan basically said the consumer is fine. Everything is okay. They don't really see any stresses.</p>
+</details>
 
-### 经济现状：数据缺失与私人线索
+而且，如果你看看**美国运通**（American Express）的信用卡消费数据，你也会得到同样的结论：信用卡消费有所增长。需要明确的是，美国运通和摩根大通可能服务于消费者市场中更富裕的阶层。
 
-The next thing we want to talk about is the state of the economy. We don't have any publicly collected data and probably won't have it until deep into November. And who knows, maybe the government prefers it this way. But we do have some clues from some private data sources as to how the economy is doing.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And you know if you look at say card spending data from American Express you'll also get the same picture as well. Card spending is up. Now to be clear American Express and maybe JP Morgan probably has a more affluent slice of the consumer market.</p>
+</details>
 
-接下来我们要谈的是经济状况。我们没有任何公开收集的数据，而且可能要到11月深处才能获得。谁知道呢，也许政府更喜欢这样。但我们确实有一些来自私人数据源的线索，可以了解经济的运行情况。
+但我们上周也收到了**美联储褐皮书**（Fed's Beige Book: 美国联邦储备系统发布的经济状况报告，每八周发布一次，提供对当前经济状况的定性评估）。因此，即使政府停摆，美联储仍在继续工作。他们所做的一件事就是与行业内的所有联系人交谈，试图定性地了解企业的运营状况。
 
-Of course, we want to go first to the mega banks. The mega banks, as I mentioned earlier, have their finger on the pulse of the economy. But let's hear it from JPMorgan, the biggest bank of them all, the one with the most data on the real economy.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But we also got the Fed's beige book last week. So even as the government shut down the Fed continues to work. And one of the things they do is they go and they talk to all their contacts in industry and try to get a qualitative sense as to how the businesses are performing.</p>
+</details>
 
-当然，我们首先要关注大型银行。正如我之前提到的，大型银行对经济脉搏了如指掌。但让我们听听摩根大通的说法，它是所有银行中最大的，拥有最多关于实体经济的数据。
+根据褐皮书，经济状况，你知道，不算太好也不算太坏。它基本上处于一种“停滞速度”（stall speed）状态。因此，褐皮书表明招聘活动不活跃，但也没有出现大规模裁员。富裕阶层的消费支出良好，而较不富裕阶层的消费支出则不那么理想，但总体而言，经济仍然处于停滞速度。这与过去几个月的情况基本一致。所以，看起来目前为止经济状况没有恶化。
 
-When asked about the state of the consumer on their earnings call, JPMorgan basically said the consumer is fine. Everything is okay. They don't really see any stresses. And if you look at card spending data from American Express, you'll also get the same picture. Card spending is up.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now according to the beige book the economy is you know it's not great but it's not bad. It's basically uh just kind of um install speed right now. So the beige book suggests that you know hiring is is is low but you know there's not like a huge amount of firing. Consumer spending among the affluent, good among the less affluent, not as great, but you know, it's it's still basically at stall speed. So that's kind of consistent with what's been happening over the past few months. So looks like it hasn't deteriorated so far.</p>
+</details>
 
-当在财报电话会议上被问及消费者状况时，摩根大通基本上表示消费者状况良好。一切都很好。他们没有看到任何压力。如果你查看美国运通的信用卡消费数据，你也会得到同样的结论。信用卡消费正在增长。
+但我认为目前经济领域最大的谜团是劳动力数据与**GDP增长**（Gross Domestic Product Growth: 国内生产总值增长，衡量经济产出增长率）之间的背离。看看**亚特兰大联储**（Atlanta Fed），亚特兰大联储仍然在运作。他们的**GDP Now**（GDP Now: 亚特兰大联储实时预测美国GDP增长率的模型）估值非常高，根据他们的GDP估算，一切都在蓬勃发展。
 
-To be clear, American Express and maybe JPMorgan probably have a more affluent slice of the consumer market. But we also got the **美联储褐皮书** (Fed's Beige Book: 美联储发布的经济状况报告，基于各地区商业联系人的定性信息) last week. So even as the government shut down, the Fed continues to work. One of the things they do is they go and talk to all their contacts in industry and try to get a qualitative sense as to how businesses are performing.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But I think the biggest puzzle when it comes to the economy right now is the divergence between the labor data and GDP growth. Now when you look at the Atlanta Fed, uh again Atlanta Field still works. Their GDP now estimates are really high according to their GDP estimates everything is booming.</p>
+</details>
 
-需要明确的是，美国运通和摩根大通可能拥有更富裕的消费者市场份额。但我们上周也收到了美联储的褐皮书。所以即使政府停摆，美联储仍在继续工作。他们做的一件事就是去与行业内的所有联系人交谈，试图定性地了解企业的经营状况。
+现在你可以看看股市，也许能从中得出一些结论。但众所周知，股市并非经济本身。坦白说，随着时间的推移，两者之间的关联度越来越低。但与此同时，我们也知道招聘速度缓慢。那么，在没有更多劳动力的情况下，如何实现强劲的GDP增长呢？为了生产更多的商品和服务，你需要更多的人工作。因此，这是一种困境，我认为这是当前经济领域的热门话题，也是美联储正在努力解决的问题。
 
-According to the Beige Book, the economy is not great, but it's not bad. It's basically just kind of at stall speed right now. The Beige Book suggests that hiring is low, but there's not a huge amount of firing. Consumer spending among the affluent is good, among the less affluent, not as great, but it's still basically at stall speed. So that's consistent with what's been happening over the past few months. It looks like it hasn't deteriorated so far.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now you can look at the stock market and maybe draw some conclusions there. But as we all know, the stock market is not the economy. It's honestly less and less related as time goes on. But at the same time, we also know that hiring is slow. So how can you have strong GDP growth when you're not having more workers, right? In order to produce more goods and services, you have to have more people working. So this is kind of a conundrum that I think is is the topic duour when it comes to the economy and also what the Fed is struggling as well.</p>
+</details>
 
-根据褐皮书，经济状况不好不坏。目前基本上处于停滞速度。褐皮书表明招聘人数很少，但也没有大量裁员。富裕人群的消费支出良好，而不太富裕人群的消费支出则不那么好，但基本上仍处于停滞速度。这与过去几个月发生的情况一致。到目前为止，经济状况似乎没有恶化。
+如果你是一个乐观主义者，你可能会说，也许存在巨大的生产力提升，可能是由于**人工智能**（AI: Artificial Intelligence: 模拟人类智能的机器系统）导致的，这使得公司在不增加劳动力的情况下变得更具生产力。尽管我想指出，有很多轶事证据表明，人工智能对大多数公司来说，实际上并没有带来超高的生产力提升，它可能在编码方面有所帮助，但工程师们也表示，他们需要花费大量时间来修复人工智能中的错误。
 
-### 劳动力数据与GDP增长的背离
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">If you're an optimist, you could say that maybe there's this huge productivity boost maybe due to AI that's causing companies to be much more productive without growing their labor force. Although I would point out that there are a lot of anecdotes that suggest that AI actually isn't really super productivity enhancing for most companies probably helps a bit in coding but then uh they also say that uh the engineers have to spend a lot of time to fix the bugs in the AI.</p>
+</details>
 
-But I think the biggest puzzle when it comes to the economy right now is the divergence between the labor data and GDP growth. When you look at the Atlanta Fed (which still works), their **GDP即时估算** (GDP Now Estimates: 亚特兰大联储实时预测国内生产总值增长率的模型) are really high. According to their GDP estimates, everything is booming.
+因此，这些数据测量中有一个是错误的。要么GDP过高，要么劳动力市场没有人们想象的那么糟糕。所以，我们可能需要一段时间才能弄清楚这一点，因为目前没有官方数据，而且再次强调，也许当局就喜欢这种状态。
 
-但我认为目前经济领域最大的谜团是劳动力数据与GDP增长之间的背离。如果你看看亚特兰大联储（它仍在运作），他们的GDP即时估算非常高。根据他们的GDP估算，一切都在蓬勃发展。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So uh one of these data measurements is wrong. Either GDP is too high or labor market is not as bad as people think. So this is something we'll find out probably not for some time since there's no official data and again maybe maybe the authorities like it that way.</p>
+</details>
 
-You can look at the stock market and maybe draw some conclusions there. But as we all know, the stock market is not the economy; it's honestly less and less related as time goes on. But at the same time, we also know that hiring is slow. So how can you have strong GDP growth when you're not having more workers? In order to produce more goods and services, you have to have more people working. So this is a conundrum that I think is the topic du jour when it comes to the economy, and also what the Fed is struggling with.
+### 黄金白银的抛物线式上涨及其驱动因素
 
-你可以看看股市，也许能从中得出一些结论。但众所周知，股市并非经济本身；随着时间的推移，它们之间的关联度越来越低。但与此同时，我们也知道招聘速度缓慢。那么，在没有更多工人的情况下，如何能实现强劲的GDP增长呢？为了生产更多的商品和服务，你必须有更多的人工作。所以，我认为这是一个难题，是当前经济领域的热门话题，也是美联储正在努力解决的问题。
+好的，我们要谈的最后一件事是黄金和白银的**抛物线式上涨**（Parabolic Ascent: 价格或价值在短时间内急剧加速上涨，形成类似抛物线的走势）。如果你是我的作品的订阅者，你会知道我有一个市场观点投资组合。基本上，今年我们没有股票敞口，但黄金的权重约为50%。
 
-If you're an optimist, you could say that maybe there's this huge **生产力提升** (Productivity Boost: 单位劳动投入产出增加), perhaps due to **人工智能** (AI: Artificial Intelligence: 模拟人类智能的计算机系统), that's causing companies to be much more productive without growing their labor force. Although I would point out that there are a lot of anecdotes suggesting that AI actually isn't really super productivity-enhancing for most companies; it probably helps a bit in coding, but then they also say that engineers have to spend a lot of time to fix the bugs in the AI.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Okay, the last thing we want to talk about is the parabolic ascent of gold and silver. Now if you are a subscriber to to my work, you know that I have a market view portfolio. The whole year basically we had no equities exposure but we did have about 50% weight in gold.</p>
+</details>
 
-如果你是一个乐观主义者，你可能会说，也许存在巨大的生产力提升，这可能是由于人工智能所致，使得公司在不增加劳动力的情况下，生产效率大大提高。尽管我指出，有许多轶事表明，人工智能实际上对大多数公司来说并非超级生产力增强工具；它可能在编码方面有所帮助，但他们也表示，工程师必须花费大量时间来修复人工智能中的错误。
+今年早些时候这听起来很奇怪，但希望今天听起来没那么奇怪了。黄金基本上呈抛物线式上涨，远远跑赢了股市。当然，它的“小兄弟”白银也一样。
 
-So one of these data measurements is wrong. Either GDP is too high, or the labor market is not as bad as people think. This is something we'll find out probably not for some time, since there's no official data, and again, maybe the authorities like it that way.
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now that sounded very strange earlier in the year, but hopefully a little bit less strange today. Gold has basically gone parabolic, far outperforming the equity market. And of course, it's little brother silver has as well.</p>
+</details>
 
-所以这些数据测量中有一个是错误的。要么GDP过高，要么劳动力市场没有人们想象的那么糟糕。这可能需要一段时间才能弄清楚，因为没有官方数据，而且，也许当局就喜欢这样。
+我认为这实际上非常好，因为我很高兴黄金上涨，但我也认为这非常令人担忧。当事物缓慢上涨时，那很好，你知道，稳扎稳打才能赢得比赛。但一旦达到这种抛物线式上涨，它就不会横向调整。抛物线式上涨通常会剧烈向下修正。而且，你也不知道修正何时结束，或者抛物线式上涨何时停止。
 
-### 黄金白银的抛物线上升与风险
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now, I think this is actually really good because I'm happy that gold is going up, but I think it's also really worrying. Uh when things go up slowly, that's great. you know, slow and steady wins the race. But once you reach this kind of parabolic ascent, you know, it doesn't really correct sideways. The parabolic asense usually correct violently downwards. And also, you don't really know uh when these when the correction ends or when the parabolic ascent stops.</p>
+</details>
 
-The last thing we want to talk about is the parabolic ascent of gold and silver. If you are a subscriber to my work, you know that I have a market view portfolio. The whole year, we basically had no equities exposure, but we did have about 50% weight in gold.
+如果你放大来看白银，你会发现几十年来它一直都在上涨，但每次直线上涨之后，也都会直线下跌。黄金在某种程度上也是如此。那么，黄金这次大涨的驱动因素是什么呢？
 
-我们要谈的最后一件事是黄金和白银的抛物线上升。如果你是我的订阅者，你知道我有一个市场观点投资组合。这一整年，我们基本上没有股票敞口，但黄金的权重约为50%。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now, if you zoom out and look at silver, for example, you can see throughout the decades, it's just gone straight up, but every time it's gone straight up, it's also gone straight down. And to some extent gold does this as well. So what are the drivers for this huge rally in gold.</p>
+</details>
 
-That sounded very strange earlier in the year, but hopefully a little bit less strange today. Gold has basically gone parabolic, far outperforming the equity market. And of course, its little brother silver has as well.
+老实说，在牛市中，每个人都是天才。每个人都有自己关于价格上涨原因的理论，当他们看到价格上涨时，他们就认为自己的理论是正确的，然后他们觉得自己像个天才，于是买入更多。但归根结底，这真的是黄金上涨的原因吗？我们上次谈到非常流行的**贬值交易**（Debasement Trade: 指投资者预期货币价值将因通货膨胀或政府政策而下降，从而买入黄金等硬资产以保值的行为），认为黄金上涨是因为美元正在贬值，最终将归零。但话又说回来，通货膨胀率在3%或更高，一个更好的市场信号是10年期国债收益率大约在4%左右。
 
-这在今年早些时候听起来很奇怪，但希望今天听起来不那么奇怪了。黄金基本上呈抛物线上涨，远远跑赢了股市。当然，它的“小兄弟”白银也一样。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">You know honestly in a bull market everyone is a genius. So everyone has their theories as to why the price goes up and then when they see the price goes up they think their theory is correct and then they say and then they feel like a genius and they buy more. But at the end of the day you know is that really why gold is going up? So again we talked about last time the debasement trade very popular gold is going up because the dollar is uh you know depreciating debasing going to zero but then again inflation is at 3% or more a better market signal would be uh the 10-year Treasury yield right around 4%.</p>
+</details>
 
-I think this is actually really good because I'm happy that gold is going up, but I think it's also really worrying. When things go up slowly, that's great; slow and steady wins the race. But once you reach this kind of parabolic ascent, it doesn't really correct sideways. The parabolic ascent usually corrects violently downwards. Also, you don't really know when the correction ends or when the parabolic ascent stops.
+如果美元正在大规模贬值，如果通货膨胀极其严重，你不会预期10年期国债收益率只有4%，对吗？所以，这种贬值论调显然是无稽之谈。但相信这一点的人，你知道，他们买入黄金，黄金价格上涨，他们觉得自己很聪明，也许会买入更多。
 
-我认为这实际上非常好，因为我很高兴黄金上涨，但我也认为这非常令人担忧。当事物缓慢上涨时，那很好；稳扎稳打才能赢得比赛。但一旦达到这种抛物线上升的程度，它就不会真正横向调整。抛物线上升通常会剧烈向下修正。而且，你也不知道修正何时结束，或者抛物线上升何时停止。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">If you were having a massive dollar view basement, if you were having a tremendous amount of inflation, you would not expect a 10-year yield to be at 4%, right? So, this this basement stuff is obvious nonsense. But people who believe that, you know, they're buying gold, gold prices go up, they feel smart, maybe they buy more.</p>
+</details>
 
-If you zoom out and look at silver, for example, you can see throughout the decades, it's just gone straight up, but every time it's gone straight up, it's also gone straight down. To some extent, gold does this as well. So what are the drivers for this huge rally in gold?
+另一个流行的说法是，世界上可能存在巨大的地缘政治风险，但到目前为止，中东战争的风险似乎正在降低。除此之外，总统似乎想再次与**普京总统**（President Putin）对话。因此，地缘政治风险未来也可能出现缓和。所以，这似乎也不太可能。
 
-如果你放大看看白银，例如，你会发现几十年来，它一直在直线上涨，但每次直线上涨之后，也都会直线暴跌。在某种程度上，黄金也如此。那么，黄金这次大涨的驱动因素是什么呢？
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Uh, another popular narrative is that, you know, maybe there's tremendous amounts of geopolitical risk in the world, but so far it looks like Middle East war risk is going lower. And in addition to that, it looks like the president wants to speak with President Putin again. So maybe there's a potential future deescalation in geopolitical risk as well. So that doesn't seem likely as well.</p>
+</details>
 
-Honestly, in a bull market, everyone is a genius. Everyone has their theories as to why the price goes up, and then when they see the price go up, they think their theory is correct, they feel like a genius, and they buy more. But at the end of the day, is that really why gold is going up?
+所以归根结底，这只是**动量**（Momentum: 资产价格在一段时间内持续上涨或下跌的趋势），基本上是当今许多资产的驱动因素。价格上涨，所以你买入更多，你加杠杆，你再次买入更多。这可能就是为什么会出现像我们周五看到的那种剧烈反应，特别是白银，出现了突然下跌。当人们加杠杆时，他们会变得贪婪，进一步加杠杆，这使得市场更加波动和脆弱。
 
-老实说，在牛市中，每个人都是天才。每个人都有自己关于价格为何上涨的理论，然后当他们看到价格上涨时，他们认为自己的理论是正确的，感觉自己像个天才，然后买入更多。但归根结底，这真的是黄金上涨的原因吗？
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So at the end of the day, this is just momentum basically what drives a lot of assets today. Price goes up, so you buy more, you lever up, you buy more again. And that's probably why you can have these violent reactions like we saw on Friday where you had kind of a sudden tumble, especially in silver. Whereas people become levered um they feel greedy, lever up more and that makes it more volatile and more fragile.</p>
+</details>
 
-Again, we talked about last time the **贬值交易** (Debasement Trade: 认为货币将贬值而购买黄金等硬资产的投资策略), very popular: gold is going up because the dollar is depreciating, debasing, going to zero. But then again, inflation is at 3% or more. A better market signal would be the **10年期国债收益率** (10-year Treasury yield: 美国10年期国债的年化投资回报率) right around 4%. If you were having a massive dollar debasement, if you were having a tremendous amount of inflation, you would not expect a 10-year yield to be at 4%, right? So, this debasement stuff is obvious nonsense. But people who believe that are buying gold, gold prices go up, they feel smart, maybe they buy more.
+现在我要指出另一件事是，在过去几年里，很多人评论说黄金表现不佳，可能是因为许多原本会购买黄金的人，那些担心财政不可持续性并希望持有“硬资产”的人，转而购买了**加密货币**（Crypto: Cryptocurrencies: 一种使用密码学原理来确保交易安全及控制交易单位创建的数字或虚拟货币）。现在，如果你看看**比特币**（Bitcoin: 最早且最知名的加密货币）的价格，今年大部分时间它表现不错，但过去几个月它基本上原地踏步。
 
-再说一次，我们上次谈到了非常流行的贬值交易：黄金上涨是因为美元正在贬值、贬值，走向归零。但话又说回来，通货膨胀率在3%或更高。一个更好的市场信号应该是10年期国债收益率，目前约为4%。如果美元正在大规模贬值，如果通货膨胀非常严重，你不会预期10年期国债收益率会是4%，对吧？所以，这种贬值论调显然是无稽之谈。但相信这一点的人正在购买黄金，黄金价格上涨，他们觉得自己很聪明，也许会买入更多。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now one other thing that I'll note is that uh over the past few years uh a lot of people have commented that you know maybe that gold is not doing not performing as well because a lot of people who would buy gold people who are afraid of let's say the fiscal unsustainability who want to have quote unquote hard assets are instead buying crypto. Now, if you look at the price of Bitcoin now, it did well uh for most of this year, but over the past few months, it just really hasn't gone anywhere.</p>
+</details>
 
-Another popular narrative is that maybe there's tremendous amounts of **地缘政治风险** (Geopolitical Risk: 国际政治事件对市场和经济造成的不确定性) in the world, but so far it looks like Middle East war risk is going lower. In addition to that, it looks like the president wants to speak with President Putin again. So maybe there's a potential future de-escalation in geopolitical risk as well. So that doesn't seem likely either.
+老实说，它似乎正在走低。有报道称，上周很多人都加了高杠杆，损失惨重。因此，如果人们对比特币感到失望，也许其中一些人会回到黄金市场，而黄金到目前为止表现确实非常好。
 
-另一个流行的说法是，世界上可能存在巨大的地缘政治风险，但到目前为止，中东战争风险似乎正在降低。除此之外，总统似乎想再次与普京总统对话。所以地缘政治风险也可能在未来有所缓和。因此，这似乎也不太可能。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And and honestly, it looks like it's trending lower. And reports suggest that a lot of people were really levered last week. A lot of lost a lot of money. And so, if Bitcoin, if they're souring on Bitcoin, maybe some of those guys will go back to gold, which actually has performed very well uh so far.</p>
+</details>
 
-So at the end of the day, this is just **动量** (Momentum: 资产价格持续上涨或下跌的趋势), basically what drives a lot of assets today. Price goes up, so you buy more, you **加杠杆** (Levered: 借入资金以增加投资回报的策略), you buy more again. And that's probably why you can have these violent reactions like we saw on Friday, where you had a sudden tumble, especially in silver. As people become levered, they feel greedy, lever up more, and that makes it more volatile and more fragile.
+但无论如何，你知道，当价格呈抛物线式上涨时，你不知道它能涨多高，但最终我认为存在大幅回调的重大风险。我并不是说周五的情况就是如此，那看起来还算温和。但这种回调很可能会在未来发生。所以，有理由保持谨慎。但再次强调，我并不是说它会看跌，因为你真的不知道抛物线能涨多高。好的。这就是我今天准备的所有内容。非常感谢您的收听，我们下周再聊。
 
-所以归根结底，这只是动量，基本上是当今许多资产的驱动力。价格上涨，所以你买入更多，你加杠杆，你再次买入更多。这可能就是为什么会出现我们在周五看到的那种剧烈反应，当时突然暴跌，尤其是在白银方面。当人们加杠杆时，他们会感到贪婪，进一步加杠杆，这使得市场更加波动和脆弱。
-
-One other thing I'll note is that over the past few years, a lot of people have commented that gold is not performing as well because many who would buy gold—people who are afraid of, let's say, **财政不可持续性** (Fiscal Unsustainability: 政府债务和支出水平长期无法维持的状态) and want to have **硬资产** (Hard Assets: 具有内在价值的实物资产，如黄金、房地产)—are instead buying **加密货币** (Crypto: Cryptocurrency: 一种使用密码学保护交易并控制新单位创建的数字或虚拟货币).
-
-我要注意的另一件事是，在过去的几年里，很多人评论说黄金表现不佳，因为许多原本会购买黄金的人——那些害怕，比如说，财政不可持续性并希望拥有硬资产的人——转而购买了加密货币。
-
-If you look at the price of **比特币** (Bitcoin: 一种去中心化的数字加密货币) now, it did well for most of this year, but over the past few months, it just really hasn't gone anywhere. Honestly, it looks like it's trending lower. Reports suggest that a lot of people were really levered last week, and many lost a lot of money. So, if they're souring on Bitcoin, maybe some of those guys will go back to gold, which actually has performed very well so far.
-
-如果你现在看看比特币的价格，今年大部分时间它表现不错，但过去几个月它真的没有太大进展。老实说，它似乎正在走低。有报道称，上周很多人都加了杠杆，很多人损失惨重。所以，如果他们对比特币感到失望，也许其中一些人会回到黄金，而黄金到目前为止表现确实非常好。
-
-But in any case, when you're going parabolic, you don't know how high you can go, but ultimately, I think there's significant risk of a sharp pullback. I'm not saying that Friday was the case; that actually seemed kind of mild. But that is probably coming going forward. So it's reason to be cautious. But again, I'm not telling you it's bearish because you don't really know how high the parabola can go.
-
-但无论如何，当你呈抛物线上升时，你不知道它能涨多高，但最终，我认为存在大幅回调的重大风险。我并不是说周五就是这种情况；那实际上看起来有点温和。但这种情况很可能在未来发生。所以有理由保持谨慎。但再次强调，我并不是告诉你它是看跌的，因为你真的不知道抛物线能涨多高。
-
-That's all I prepared for today. Thanks so much for tuning in, and I'll talk to you next week.
-
-这就是我今天准备的所有内容。非常感谢您的收听，我们下周再聊。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Uh but in any case, you know, when you're going parabolic, you don't know how high you can go, but ultimately uh I think there's there's significant risk of a sharp pullback. And I'm not saying that Friday was the case. That actually seemed kind of mild. Um but that is probably coming going forward. So it's reason to be cautious. But again, not telling you it's bearish because you don't really know how high the parabola can go. All right. So that's all I prepared for today. Thanks so much for tuning in and I'll talk to you guys next week.</p>
+</details>
