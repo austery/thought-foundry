@@ -12493,7 +12493,6 @@ Cipher
  deal
  is
  absolute
- [ __ ]
  And
 
 
@@ -39267,7 +39266,6 @@ is
  popped
  up.
  Oh
- [ __ ]
 
 
 Okay.
