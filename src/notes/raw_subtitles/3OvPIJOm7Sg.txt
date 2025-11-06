@@ -2709,7 +2709,6 @@ I
 
 no
  195.
- [laughter]
 
 
 >> Yeah,
@@ -3106,31 +3105,30 @@ Google
 
 
 >> I'm
- [clears throat]
  seeing
  a
  tweet
  here.
-
-
-Nvidia
+ Nvidia
  tumbles
- after
+
+
+after
  reports
  suggest
-
-
-major
+ major
  cloud
- providers
+
+
+providers
  are
  scaling
  back
-
-
-GPU
+ GPU
  orders
- for
+
+
+for
  2025.
 
 
@@ -3280,24 +3278,21 @@ accurate.
 
 
 scaling
- [laughter]
  back.
  The
  neoclouds
-
-
-are
+ are
  coming
- in
+
+
+in
  to
  uh
  to
  take
  all
  those
-
-
-GPUs.
+ GPUs.
 
 
 >> Yeah.
@@ -3726,10 +3721,7 @@ now
  closed.
 
 
->> [music]
-
-
->> All
+All
  right,
  here
  we
@@ -4059,7 +4051,6 @@ Emit.
 
 
 >> Yes,
- [laughter]
  bro.
 
 
@@ -4969,7 +4960,6 @@ to
 
 
 Oh
- [laughter]
  my
  gosh.
 
@@ -6569,11 +6559,8 @@ down
  numbers
  for
  us.
- [music]
  Hi,
-
-
-Julia.
+ Julia.
 
 
 >> Hey,
@@ -7699,7 +7686,6 @@ Hood?
  goodness.
  That
  is
- [laughter]
 
 
 >> 131,
@@ -8147,7 +8133,6 @@ that's
 
 
 honest
- [laughter]
  like
 
 
@@ -8211,10 +8196,7 @@ yeah,
 
 
 >> Um,
- [snorts]
-
-
-slide
+ slide
  14's
  interesting
  to
@@ -9300,22 +9282,21 @@ earnings
  out
  as
  well.
- [music]
  Beat
  on
+ earnings
 
 
-earnings
- and
+and
  revenue.
  The
  company
  says
-
-
-it
+ it
  saw
- royalty
+
+
+royalty
  revenue
  growth
  and
@@ -9373,7 +9354,6 @@ are
 why
  it's
  getting
- [clears throat]
 
 
 >> Axon
@@ -11182,7 +11162,6 @@ Snapchat.
  No,
  I'm
  kidding.
- [laughter]
 
 
 >> No,
@@ -11990,7 +11969,6 @@ year.
  this
  is
  incredible.
- [snorts]
 
 
 I
@@ -13901,7 +13879,6 @@ until
 
 >> Um,
  I
- [laughter]
 
 
 during
@@ -14770,78 +14747,75 @@ Thank
  I
 
 
-[clears throat]
- I
+I
  think
  a
  slide
  that
  I
-
-
-could
+ could
  see
  myself
- highlighting
+
+
+highlighting
  constantly
-
-
-is
+ is
  that
  market
- share
+
+
+share
  slide.
  If
  markets
-
-
-turn
+ turn
  red
  and
- total
+
+
+total
  volume
  goes
  down,
-
-
-Robin
+ Robin
  Hood
  will
- inevitably
+
+
+inevitably
  be
  hurt.
  But
-
-
-it's
+ it's
  going
  to
  be
- this
+
+
+this
  slide
  that
  says,
-
-
-"Okay,
+ "Okay,
  but
  how
- much
+
+
+much
  market
  share
  are
-
-
-they
+ they
  gaining?
- Well,
+
+
+Well,
  times
  are
  not
  that
-
-
-good."
+ good."
  Okay,
 
 
@@ -14907,7 +14881,6 @@ going
 yeah,
  they're
  just
- [laughter]
 
 
 it's
@@ -15578,7 +15551,6 @@ just
 the
  call.
  What?
- [laughter]
 
 
 What
@@ -15592,7 +15564,6 @@ What
  that
  make
  sense?
- [laughter]
 
 
 >> I'm
@@ -15919,35 +15890,34 @@ kind
 
 
 technically
- [snorts]
  one
  question,
  but
-
-
-it's
+ it's
  a
  big
- step
+
+
+step
  up
  from,
  I
  think,
-
-
-expected
+ expected
  volume.
- Um,
+
+
+Um,
  and
  so
  you
  might
-
-
-ask
+ ask
  about
  that,
- too.
+
+
+too.
 
 
 Uh,
@@ -15978,9 +15948,6 @@ billion,
  200
  million
  more
-
-
-[laughter]
  than
 
 
@@ -17117,9 +17084,6 @@ sister
  today.
 
 
-[laughter]
-
-
 So,
  she
  like
@@ -17405,8 +17369,7 @@ remarks
  Jason.
 
 
-[snorts]
- And
+And
 
 
 >> make
@@ -17820,7 +17783,7 @@ that,
  Jason.
 
 
-[applause]
+[Applause]
 
 
 >> Good
@@ -20230,10 +20193,10 @@ Verma
  here.
 
 
->> [applause]
+[Applause]
 
 
->> Long
+Long
  time
  no
  see
@@ -20908,22 +20871,19 @@ to
 someday.
  Um,
  Chris,
- [snorts]
  why
  don't
-
-
-we
+ we
  go
- ahead
+
+
+ahead
  and
  uh
  and
  take
  some
-
-
-questions.
+ questions.
 
 
 >> All
@@ -21343,46 +21303,43 @@ question
 
 there
  was
- [clears throat]
  a
  recent
  AWS
-
-
-AWS
+ AWS
  related
- outage.
+
+
+outage.
  How
  are
  you
+ strengthening
 
 
-strengthening
- platform
+platform
  resil
  uh
  re
  uh
-
-
-resiliency
+ resiliency
  to
- address
+
+
+address
  that?
  Sure.
  Yeah,
-
-
-that's
+ that's
  a
  great
- question.
+
+
+question.
  So,
  for
  those
-
-
-of
+ of
  you
  that
 
@@ -23546,7 +23503,6 @@ after
  he's
  wrapping
  up.
- [laughter]
 
 
 >> All right.
@@ -25724,7 +25680,6 @@ us
 
 
 row.
- [clears throat]
 
 
 >> Hi,
@@ -26225,9 +26180,6 @@ about
  while
  we're
  waiting?
-
-
-[laughter]
 
 
 >> I
@@ -27786,9 +27738,6 @@ next
 Deutschbank.
 
 
-[clears throat]
-
-
 >> Great.
  Thanks.
  Can
@@ -28830,7 +28779,6 @@ volumes
 
 
 this.
- [laughter]
 
 
 >> Um,
@@ -31043,142 +30991,140 @@ talk
 the
  previous
  callers
- [snorts]
  have
  have
+ brought
 
 
-brought
- up
+up
  prediction
- [clears throat]
-
-
-markets
+ markets
  is
  another
  uh
- another
+
+
+another
  asset
-
-
-class
+ class
  that
  actually
  has
  a
- strong
+
+
+strong
  crypto
-
-
-component
+ component
  particularly
- outside
+
+
+outside
  the
  US.
-
-
-So,
+ So,
  we're
  definitely
- taking
+
+
+taking
  a
  look
  at
-
-
-what's
+ what's
  the
  most
- effective
+
+
+effective
  way
  to
  get
-
-
-that
+ that
  to
  our
- customers.
+
+
+customers.
  And
  I
  think
  it's
-
-
-going
+ going
  to
  be
- on
+
+
+on
  a
  case-byase
  basis,
  maybe
+ slightly
 
 
-slightly
- different
+different
  in
  uh
  each
-
-
-jurisdiction,
+ jurisdiction,
  but
- we
+
+
+we
  have
  some
  options.
-
-
-You
+ You
  know,
  as
  a
- scaled
+
+
+scaled
  traditional
-
-
-player,
+ player,
  but
  also
  on
- the
+
+
+the
  on
  the
  crypto
-
-
-side,
+ side,
  uh
  I
  think
  we
- we'll
+
+
+we'll
  have
  our
  our
-
-
-pick
+ pick
  of
  what's
  best
- in
+
+
+in
  each
-
-
-jurisdiction,
+ jurisdiction,
  and
  that's
- something
+
+
+something
  we're
-
-
-we're
+ we're
  definitely
  closely
- looking
+
+
+looking
  at.
 
 
@@ -31928,32 +31874,30 @@ uh
  here
 
 
-[laughter]
- and
+and
  Jason
  wanted
  to
  share
-
-
-this
+ this
  with
  uh
- with
+
+
+with
  everyone
  in
  person
  and
+ virtually
 
 
-virtually
- vicariously.
+vicariously.
 
 
 A
  baked
  Alaska.
- [laughter]
 
 
 >> You
@@ -32220,6 +32164,9 @@ with
 >> Stephen
 
 
+[Music]
+
+
 >> bringing
  out
  that
@@ -32321,7 +32268,6 @@ Tanner.
 
 
 >> Uh,
- [laughter]
 
 
 >> you
@@ -32351,7 +32297,6 @@ you.
 >> Okay,
  whatever,
  bro.
- [laughter]
 
 
 Dude,
@@ -33954,9 +33899,6 @@ seeing
  that
  every
  month.
-
-
-[sighs]
 
 
 All
