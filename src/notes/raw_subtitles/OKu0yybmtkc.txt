@@ -1,0 +1,390 @@
+Now I'm going to start by getting you
+to visualize sporting greatness.
+And what do you see?
+It's probably athletes like LeBron James,
+Caitlin Clark, Saquon Barkley,
+Simone Biles, Ronaldo, Messi.
+You see, we tend to think of athletes
+from quite a small subset of countries.
+So I'd forgive you for thinking
+that the best talent in the world
+just comes from those places.
+But that's not strictly true.
+Because talent existed long
+before their sporting greatness,
+and many things
+have to happen along the way
+for them to realize their potential.
+Now, one thing that's commonly overlooked
+is that they got an opportunity
+and were visible.
+You see, talent exists everywhere.
+It's finding the talent
+that can be the challenge.
+So how do we do that?
+Now typically, that's scouting.
+It's every young athlete's
+dream to be scouted.
+You see the old guy up in the bleachers,
+he's writing his notes,
+and later you get the call,
+he wants you to try out.
+It's a thrilling fantasy
+for so many people.
+There's only so many scouts.
+Now I'm from the UK,
+where Chelsea Football Club
+have one of the most prestigious
+and well-funded youth academy
+programs in the world.
+But each Premier League team,
+or each Premier League scout,
+can only see about 2,000 players per year.
+But millions play the game.
+And even from those 2,000,
+it's already super limited
+by the player's geography,
+their cost factors, their access factors.
+Lots of young people are now
+taking that into their own hands.
+They're uploading social media clips
+of their best plays online.
+But now we've just replaced
+a human with an algorithm
+that's not designed for talent ID
+to decide who gets seen.
+What do we do about that?
+It's simply not possible
+for Chelsea Football Club
+to see every talent in the world.
+Or is it?
+You see, there's technologies now
+like computer vision,
+AI and deep learning,
+that are helping us bridge that gap.
+Now, personally,
+I'm not a scout or a coach.
+My route was biomechanics,
+which is the science of motion.
+And like many people in my profession,
+we work in sports laboratories
+or with clubs with a remit
+of improving athlete performance
+or reducing injury risk.
+And I was working in my lab that one day,
+my now founder and CEO, Darren Peries,
+walked in with his son, Reef,
+who was struggling with an injury,
+and we started analyzing him
+with all this wonderful equipment.
+And we got talking
+about the scouting problem,
+and he noted just how unfair
+and biased scouting could be.
+He'd seen it himself.
+Entire futures could be decided
+in one day by one person
+who has an opinion.
+He noted how completely devoid
+of data youth scouting can be.
+And he said to me,
+what if we took all this lab protocols,
+all the data, all the equipment,
+and put them into a set
+of standardized smartphone drills
+so any kid, anywhere in the world
+could be tested fairly and equitably?
+For me, it was a brilliant vision
+to a genuine problem.
+So I joined his team, ai.io,
+where we build AI-based
+solutions across all of sport.
+Now the first thing we built was aiScout
+for the problem at hand.
+And here's how it works,
+simply speaking.
+Kid downloads an app for free
+and they record themselves
+doing these predefined drills
+directly from the phone.
+We use computer-vision AI
+in the cloud to analyze that.
+We analyze 22 key body segments.
+We can even do things like
+turn the 2D video into an inferred 3D
+and bring all that together.
+We get things like what direction
+did they run, how did they turn,
+how high did they jump, the speed,
+the symmetry, the coordination, and so on.
+But collecting that raw-level data
+is just one part of the problem.
+So you've got to know
+how to interpret that data,
+and you've got to be able to score
+an athlete based on that data.
+And most importantly,
+you've got to make it specific
+for those that are looking for talent.
+Specificity is key here.
+For example, in football --
+soccer, for the Americans
+in the audience --
+each team or scout or coach
+kind of look for a different thing
+depending on what they need
+at that given moment of time.
+So some teams or coaches
+might want athletes with power and pace,
+others might want
+coordination and technique
+and great body movement.
+So we have to make our scout,
+we have to be tailored,
+on that club-by-club basis.
+Now to answer these questions
+and really to build out that product,
+we partner with two Premier League teams,
+Burnley Football Club
+and Chelsea Football Club.
+And we started by just
+asking them directly,
+if we could analyze any kid
+in the world, from a smartphone
+and give you football-specific metrics,
+what do you need to know
+to make that relevant
+to you and to use it?
+And interestingly, they said,
+comparable, benchmarkable, reliable data.
+And above all else,
+both themselves and the kids
+they'd be analyzing,
+would need to understand
+where the data is coming from.
+There can be no ambiguity.
+So we started developing
+these predefined drills with them.
+They were ten-meter sprints,
+counter-movement jumps,
+they were dribbling through cones,
+they were passing, shooting.
+This is nothing new.
+This was just genuine things
+that scouts would normally look at
+to make an assessment of a player.
+And then we sat down with those scouts
+and looked through a ton of video.
+Do you prefer player A or player B?
+Now it turns out the art of scouting
+is actually incredibly complex.
+So much of what experienced
+scout does is really intuitive.
+So whilst they knew
+they preferred player B,
+and maybe most of us can,
+looking at the video here,
+but they couldn't articulate it to us.
+So we had to sit with them,
+ask the questions,
+and turn their insights
+into something we could use to score.
+We created the algorithm.
+And with that algorithm,
+we just pumped thousands
+of videos through it.
+So we started to make benchmarks
+and standards across age and gender.
+Because of course,
+you can't analyze a 13-year-old
+to a 22-year-old.
+The 22-year-old is almost always
+going to be bigger, stronger, faster.
+You need to compare
+13-year-olds to 13-year-olds
+so you can really see who stands out.
+And talking of standing out,
+I'll never forget, when we were
+first developing the app,
+we recruited 50 college kids from the UK.
+They were, honestly,
+kind of average footballers,
+except this one guy, Ben.
+They all did our drills
+and he was head
+and shoulders above the rest.
+Like, just really, really good.
+Like, he was 17.
+How has this guy
+not been scouted before?
+And the crazy thing is,
+he lived just minutes down the road
+from Chelsea FC training ground.
+He wasn't in some remote village.
+He was literally down the road
+from one of the world's best academies.
+The system didn't see him, but we did.
+I'll cut a long story short here,
+but this is where we knew
+what we were building was working.
+Because he got a trial
+for Chelsea Football Club,
+scored in his under-18 debut,
+and he later signed for another
+Premier League club
+and even represented his country.
+But that wasn't enough.
+We needed to test this
+in those remote places.
+This should be for everyone.
+Now, theoretically,
+because all the heavy lifting
+is done in the cloud,
+the analysis of the video,
+the processing, the scoring, the modeling,
+it means that whether
+you're from London or Mumbai,
+if you've got access to a smartphone,
+this thing can work.
+And we're lucky to partner
+with Reliance Foundation in India.
+They have an amazing program where
+they send scouts out every single year
+to find the best 11-year-old talent
+to give them five-year scholarships
+to play sport and have free education.
+With the best of those
+generally going on to play
+professional sport in India.
+Same problem as Chelsea.
+Few scouts can see a few thousand people;
+potentially millions that are eligible.
+So they turned to us
+to try and find some
+of those hard-to-reach kids
+in difficult locations.
+And they put out a call
+on WhatsApp to their audience.
+New to us to do this on WhatsApp,
+but the parents and students
+were asked to download an app
+and do the drills inside the phone
+and trial for Reliance Foundation
+directly from aiScout.
+Tens of thousands of kids
+now do this every single year.
+And the best ones, based on their data,
+get sent to an in-person talent ID day
+where the scouts make the decision
+on who gets those scholarships.
+It's a great example of how
+we're augmenting the scouting process,
+not just replacing their processes.
+The best example of success was,
+we've had many there,
+is one player actually downloaded the app
+from a shared community phone,
+had never played organized sport,
+and got himself a five-year scholarship.
+On top of that, only last year, the IOC
+and their partner at the time, Intel,
+they reached out to us
+about the up-and-coming Youth Olympics,
+which is in Senegal.
+They had a little concern that actually
+the Senegalese national teams
+didn't have enough talent
+to fill all the teams
+that are going to be
+in those Youth Olympics.
+Now, here's the great thing
+about the technology.
+You want to play football?
+You can trial for a football
+club through our app.
+You can also do the opposite.
+Based on your strengths,
+it can tell you what you might be good at.
+So if you've got great acceleration,
+great reactive strength,
+it could be rugby sevens or futsal.
+You've got great upper body power
+and hand-eye coordination.
+It could be a baseball or a softball.
+And that's exactly what we did.
+We put the app into tablets,
+we gave it to military leaders
+and school teachers,
+and they just stood there
+and they recorded the kids in their class.
+A few days into that,
+thousands of kids later,
+40 are now being trained
+ahead of those Youth Olympics
+in things like wrestling
+and athletics and football.
+Now, where does this go from here?
+So the app today runs
+through partnership programs,
+talent ID initiatives,
+with clubs, with federations,
+sometimes there are
+brand partners on the app,
+where hundreds of thousands of kids
+trial and do these drills.
+Hundreds of those have had
+successful outcomes
+and now playing professional sport.
+And where do we go from here?
+Actually we go global with this, right?
+So it's now multi-language,
+it's starting to roll out into the app.
+Multi-cloud is coming.
+So it can be cloud-agnostic,
+which means we can put
+country-specific things into the app
+in any region that we need to work with.
+And right here, in the US,
+proud to announce the MLS,
+or Major League Soccer
+as we know it here,
+have rolled this out
+to the MLS NEXT program.
+45,000 kids right now are using
+the app three times per year.
+Preseason, mid-season, postseason
+so we can track and monitor
+their changes over time.
+And the great thing is,
+the scouts and the coaches
+get all the data in real time
+via our control center.
+It's not a black box,
+but something they can trust
+and learn from the data
+and see where that data is coming from.
+And where else do we go?
+It's probably not a big leap
+for you all to imagine
+how we start to move into things
+like at-home healthcare and medical.
+But we're also starting to create
+the kind of movement libraries
+for American football, for basketball,
+for baseball, for cricket.
+Because the underlying
+movement primitives,
+the cut, the deceleration,
+the jump, the throw, the strike,
+they translate well
+across quite a lot of sports.
+Because one thing in sport is always true.
+Talent is universal
+and brilliance exists
+in every corner of the globe.
+Now, with technology
+and your very own smartphone,
+you can make that talent visible
+and level the playing field.
+Thank you.
+(Applause)
