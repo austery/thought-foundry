@@ -29,6 +29,7 @@ hard
  next
  five
  years.
+ [music]
 
 
 >> Humanity
@@ -90,23 +91,26 @@ through
 entrepreneurs
  that
  this
- technology
+ [music]
+
+
+technology
  is
-
-
-going
+ going
  to
  enable.
  It's
- vastly
+
+
+vastly
  increased
-
-
-what
+ what
  a
  single
  person
- can
+
+
+can
  do.
 
 
@@ -126,16 +130,17 @@ massively
 
 
 the
+ [music]
  ability
  for
  more
  people
  to
- be
+
+
+be
  able
-
-
-to
+ to
  become
  entrepreneurs
  is
@@ -679,11 +684,14 @@ it's
  different.
  I
  think
- I
+
+
+[laughter]
+
+
+I
  mean
-
-
-you
+ you
  know
  one
  one
@@ -691,11 +699,11 @@ you
  I
  I
  I
- I
+
+
+I
  kind
-
-
-of
+ of
  like
  is
  um
@@ -704,32 +712,32 @@ of
  say
  that
  you
- have
+
+
+have
  a
-
-
-remote
+ remote
  worker
  a
  human
  any
  job
- that
+
+
+that
  could
-
-
-be
+ be
  done
  by
  someone
  whose
  job
- can
+
+
+can
  be
  done
-
-
-remotely
+ remotely
 
 
 um
@@ -1089,6 +1097,7 @@ been
 
 right
  perhaps
+ [laughter]
 
 
 >> dare
@@ -12605,10 +12614,13 @@ window
 
 the
  text
+ [laughter]
  instead
  of
  the
- [ __ ]
+
+
+[ __ ]
  text.
 
 
@@ -12632,185 +12644,188 @@ to
  than
  that.
  But
+
+
+[laughter]
  like
-
-
-it's
+ it's
  there's
  there's
- definitely
+
+
+definitely
  some
-
-
-some
+ some
  really
  interesting
- things.
+
+
+things.
  Yeah,
  I
-
-
-saw
+ saw
  another
  thing
  on
- hacker
+
+
+hacker
  news
  the
-
-
-other
+ other
  day
  where
  um
  you
- know
- uh
- text
-
-
-diffusion
- uh
- where
- someone
- made
- a
- text
-
-
-diffusion
- model
- by
- instead
- of
- doing
- go
-
-
-saying
- dnoising
- he
- would
- take
- like
- a
-
-
-single
- BERT
- instance
- and
- like
- try
- to
- you
 
 
 know
+ uh
+ text
+ diffusion
+ uh
+ where
+ someone
+
+
+made
+ a
+ text
+ diffusion
+ model
+ by
+ instead
+
+
+of
+ doing
+ go
+ saying
+ dnoising
+ he
+ would
+
+
+take
+ like
+ a
+ single
+ BERT
+ instance
+ and
+
+
+like
+ try
+ to
+ you
+ know
  mask
  different
- words
+
+
+words
  and
  uh
  and
-
-
-just
+ just
  predict
  like
  these
- different
+
+
+different
  tokens
-
-
-and
+ and
  um
  and
  so
  we
  have
  a
- lot
+
+
+lot
  of
-
-
-components
+ components
  like
  I
  don't
  think
- people
 
 
-think
+people
+ think
  a
  lot
  about
  that
  you
  know
- we
+
+
+we
  have
-
-
-now
+ now
  the
  you
  know
  base
- pre-trained
 
 
-models.
- We
- have
- the
- all
- these
- RL
-
-
-reasoning
+pre-trained
  models.
  We
  have
  the
- uh
- you
-
-
-know
- encoder
- decoder
- models.
- We
- have
-
-
-diffusion
- models.
- We
- have
- there's
  all
 
 
 these
+ RL
+ reasoning
+ models.
+ We
+ have
+ the
+
+
+uh
+ you
+ know
+ encoder
+ decoder
+ models.
+ We
+
+
+have
+ diffusion
+ models.
+ We
+ have
+ there's
+
+
+all
+ these
  different
  things
  like
  just
- like
 
 
-you
+like
+ you
  know
  you
  mix
  them
  in
  different
- ways.
+
+
+ways.
 
 
 >> Yeah.
@@ -13908,10 +13923,13 @@ jobs
 Adam,
  thanks
  for
+ [music]
  coming
  on
  the
- podcast.
+
+
+podcast.
 
 
 >> Thank
@@ -13922,4 +13940,7 @@ Adam,
  you.
 
 
-[Music]
+>> [music]
+
+
+[music]
