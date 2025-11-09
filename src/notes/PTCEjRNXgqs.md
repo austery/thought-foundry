@@ -3,7 +3,7 @@ author: "Lei"
 date: "2025-11-08"
 guest: ""
 layout: "post.njk"
-source: ""
+source: https://www.youtube.com/watch?v=PTCEjRNXgqs
 speaker: 林静芝,李秀全
 title: "基督信仰家庭观(四)：亲子关系与父母的神圣使命"
 summary: "本课探讨基督信仰中的亲子关系，强调儿女是神所赐的产业，父母应做忠心管家。课程重点讨论了父母履行神圣使命的两个关键：提供四重生活榜样（夫妻相爱、敬虔生活、孝敬长辈、生活形态）以及保持谦卑学习的态度（因材施教、智慧言语等）。"
