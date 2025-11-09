@@ -3,7 +3,7 @@ title: 第三课：吵架十诫
 summary: 
 area: personal-growth
 category: lifestyle
-project: cultural-critique
+project: ‘cultural-critique’
 tags:
 - 夫妻关系
 - 婚姻关系
