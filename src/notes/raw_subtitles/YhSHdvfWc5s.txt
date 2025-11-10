@@ -11476,491 +11476,14 @@ she
  here.
 
 
->> More
- and
- more
- investors
- to
- the
- table.
-
-
->> I
- want
- to
- talk
- a
- little
- bit
- about
-
-
-something
- we
- were
- um
- chatting
- about
-
-
-backstage
- which
- is
- this
- idea
- of
- of
-
-
-circularity.
- Bear
- with
- me.
- It's
- a
- longer
-
-
-question
- and
- I
- I
- know
- you
- have
- thoughts.
-
-
-So
- take
- Coreweave
- which
- rents
- out
- data
-
-
-center
- capacity.
- We're
- going
- to
- hear
-
-
-from
- the
- CEO
- later
- today.
- You're
- a
- Coree
-
-
-shareholder
- and
- customer.
- Coreweave's
-
-
-biggest
- customer
- is
- Microsoft
- which
- is
-
-
-an
- investor
- in
- OpenAI
- and
- a
- key
- partner
-
-
-with
- whom
- you
- have
- a
- revenue
- sharing
-
-
-agreement.
- There's
- been
- you
- know
- sort
- of
-
-
-questions
- about
- you
- know
- are
- we
- do
- these
-
-
-sort
- of
- deals
- have
- a
- circularity
- to
- them
-
-
-that
- is
- reminiscent
- of
- past
- busts?
-
-
->> What
- say
- you?
-
-
 >> So
- I
- kind
- of
- reject
- the
- premise
-
-
-completely.
- We're
- all
- just
- building
- out
-
-
-a
- a
- full
- infrastructure
- today
- that
-
-
-allows
- more
- compute
- to
- come
- into
- the
-
-
-world
- which
- allows
- it
- to
- be
- digested
- by
-
-
-our
- models.
- So
- our
- models
- get
- better
- and
-
-
-better,
- allows
- us
- to
- productize
- those
-
-
-models
- so
- we
- can
- sell
- to
- consumers
- and
-
-
-to
- enterprises
- for
- all
- the
- benefits
- that
-
-
-I've
- already
- talked
- about.
- Um
- I
- don't
-
-
-view
- it
- as
- circular
- at
- all.
- Right?
-
-
-Coreweave
- is
- building
- incredible
-
-
-compute.
- Um,
- thank
- you
- Mike
- if
- you're
- in
-
-
-the
- audience.
- Um,
- along
- with
- many
- of
- our
-
-
-partners,
- in
- fact,
- a
- huge
- body
- of
- work
-
-
-in
- the
- last
- year
- has
- been
- to
- diversify
-
-
-that
- supply
- chain.
- But
- if
- you
- go
- back
- to
-
-
-a
- year
- ago
- today,
- we
- pretty
- much
- bought
-
-
-our
- compute
- solely
- from
- Microsoft
- who've
-
-
-been
- a
- great
- partner
- who
- saw
- it
- early.
-
-
-So
- full
- kodust
- to
- that
- team
- but
- we
-
-
-needed
- to
- get
- into
- a
- position
- where
- we
-
-
-could
- have
- access
- to
- more
- compute
- to
- be
-
-
-able
- to
- look
- at
- different
- design
- specs
-
-
-to
- work
- with
- different
- vendors
- so
- we
-
-
-understand
- ultimately
- the
- best
- outcome
-
-
-to
- get
- more
- efficient
- and
- so
- on
- and
- then
-
-
-ultimately
- to
- get
- a
- good
- price
- point
-
-
-because
- you
- do
- need
- some
- competition
- in
-
-
-a
- market
- to
- get
- it
- priced
- appropriately
-
-
-and
- so
- that's
- how
- I
- see
- our
- supply
- chain
-
-
-rising
- to
- meet
- this
- moment
- and
- I
- just
-
-
-reject
- the
- premise.
- I
- don't
- think
- it's
-
-
-any
- different
- from
- any
- other
- business
- in
-
-
-the
- world.
-
-
->> So,
  you
  got
  the
  OpenAI
  CFO
  saying,
- hey,
+ "Hey,
 
 
 this
@@ -12004,7 +11527,7 @@ they
 
 
 with
- them.
+ them."
  That's
  not
  the
@@ -12044,7 +11567,7 @@ ROI
  we're
 
 
-spending
+spending,
  even
  if
  we're
@@ -12096,145 +11619,144 @@ uh,
 
 
 year-over-year,
- 900%
+ 900%,
  way
  faster
  than
- the
 
 
-consumer
+the
+ consumer
  side
  of
  the
  business.
  And
- this
 
 
-is
+this
+ is
  also
  why
  OpenAI
  is
  really
- optimistic
 
 
-to
+optimistic
+ to
  get
  to
  those
  couple
- hundred
+
+
+hundred
  billions
-
-
-of
+ of
  dollars
  of
  revenue
- by
+
+
+by
  2030.
- And
-
-
-again,
+ Again,
  I
  will
  say
- this,
+ this.
  I
  say
- this,
+
+
+this
  I
-
-
-feel
+ feel
  like
  once
  a
- day,
- you
+ day.
+ You
  don't
- have
+
+
+have
  to
-
-
-love
+ love
  OpenAI,
  but
  they've
  got
  to
- win.
 
 
-They've
+win.
+ They've
  got
  to
  win.
  If
  they
  don't
- win,
+
+
+win,
  I
-
-
-don't
+ don't
  know
  if
  the
  other
  comp
  I
- mean,
 
 
-other
+mean,
+ other
  another
  LLM
  could
  take
  their
- their
 
 
-spot.
+their
+ spot.
  David
  Sax
  is
  right
  about
- that.
+
+
+that.
  The
-
-
-problem
+ problem
  is
  the
  other
  LLM
- companies
 
 
-haven't
+companies
+ haven't
  pledged
  1.4
  trillion
- of
 
 
-spending,
+of
+ spending,
  which
  is
  the
  reason
  AMD
- went
 
 
-from
+went
+ from
  a
  $300
  billion
@@ -12242,76 +11764,77 @@ from
  cap
  to
  a
- $400
 
 
-billion
+$400
+ billion
  market
  cap.
  So,
  whatever
- stock
 
 
-you're
+stock
+ you're
  invested
  in,
  a
  lot
  of
  us
- are
+
+
+are
  in
-
-
-Oracle,
+ Oracle,
  AMD,
  Nvidia,
  etc.
  Not
- saying
 
 
-those
+saying
+ those
  stocks
  go
  to
  the
  gutter
  if
- the
+
+
+the
  if
-
-
-OpenAI
+ opening
+ eye
  doesn't
  win,
  but
  a
- lot
+
+
+lot
  of
  the
-
-
-reason
+ reason
  their
  market
  cap
  went
- up
+
+
+up
  is
-
-
-because
+ because
  of
  OpenAI
  spending.
  And
- so,
- at
+ so
 
 
-its
+at
+ its
  core,
  you
  would
@@ -12322,814 +11845,195 @@ its
 
 business
  hopefully
- does
- play
- out.
-
-
->> Intelligence
- gets
- you
- to
- the
- best
-
-
-answer,
- not
- the
- paid
- for
- answer.
- So
- on
-
-
-revenue,
- you
- mentioned
- about
- 134
- billion
-
-
-this
- year.
- What
- do
- you
- envision
- the
- mix
-
-
-of
- consumer
- versus
- enterprise
- being
- in
-
-
-the
- next
- year
- and
- sort
- of
- longer
- term?
-
-
->> Sure.
- So
- on
- the
- enterprise
- side,
- I
- mean
-
-
-our
- consumer
- business
- has
- been
-
-
-incredible,
- but
- our
- enterprise
- business
-
-
-is
- now
- really
- starting
- to
- take
- off.
- And
-
-
-so
- this
- year
- we
- entered
- this
- year,
-
-
-consumer
- business
- was
- about
- 70%
- of
-
-
-revenue,
- enterprise
- about
- 30.
- We're
-
-
-actually
- starting
- to
- tip
- right
- now
- to
-
-
-6040.
- And
- that
- will
- give
- you
- a
- sense
- of
-
-
-how
- fast
- the
- enterprise
- business
- has
-
-
-grown.
- So
- just
- year-over-year,
- we've
-
-
-seen
- enterprise
- business
- grow
- about
- 9x
-
-
-year-over-year.
-
-
->> Um
- we
- just
- made
- an
- announcement
- this
-
-
-morning
- that
- we
- just
- hit
- 1
- million
-
-
-enterprise
- customers
- on
- the
- platform.
-
-
-And
- so
- there
- has
- been
- incredible
- growth.
-
-
-What
- where
- is
- that
- happening?
- What
- what
-
-
-is
- happening?
- I
- think
- number
- one,
- we're
-
-
-seeing
- enterprises
- move
- very
-
-
-definitively
- now
- from
- pilots
- to
- full
-
-
-production.
-
-
-um
- what
- we're
- in
- terms
- of
- sectors
- our
-
-
-focus
- has
- been
- financial
- services,
-
-
-health
- care
- and
- consumer
- um
- so
- kind
- of
-
-
-CPG,
- consumer
- package
- goods
- and
- then
- I
-
-
-would
- say
- kind
- of
- a
- tear
- down
- folks
- like
-
-
-life
- sciences,
- professional
- services
-
-
-um
- and
- manufacturing
- probably
- that
- would
-
-
-give
- you
- but
- really
- it's
- all
- sectors
- of
-
-
-the
- economy.
- Originally
- people
- were
- just
-
-
-doing
- wall-to-wall
- chat
- GPT.
- Now
- they
-
-
-are
- taking
- the
- API
- and
- then
- some
- of
- the
-
-
-starting
- to
- get
- more
- sophisticated
- above
-
-
-to
- do
- things
- that
- are
- truly
- transforming
-
-
-their
- business.
- I'll
- give
- you
- a
- couple
-
-
-of
- examples.
- So
- MGEN
- uh
- is
- a
- customer.
- I
-
-
-was
- just
- with
- their
- CFO
- a
- few
- weeks
- ago.
-
-
-MGEN
- is
- using
- our
- product
- for
- faster
- FDA
-
-
-approvals.
- So
- the
- FDI
- pro
- process
- is
-
-
-full
- of
- process,
- full
- of
- a
- lot
- of
-
-
-documents,
- full
- of
- a
- lot
- of
- data.
+ does.
  You
-
-
-have
- to
- package
- it
- up
- in
- exactly
- the
-
-
-right
- way
- so
- the
- FDA
- can
- digest
- it
- and
-
-
-decide
- can
- a
- drug
- be
- put
- forth
- to
- be
-
-
-safe
- for
- consumers
- to
- use.
- If
- you
- think
-
-
-about
- that
- process,
- if
- you
- can
- just
-
-
-speed
- that
- up
- by
- weeks
- and
- what
- Amgen
- is
-
-
-seeing
- is
- even
- months
- of
- speeding
- it
- up,
-
-
-not
- only
- is
- it
- good
- for
- Amgen's
-
-
-business,
- but
- it
- can
- be
- the
- difference
-
-
-between
- a
- cancer
- patient
- living
- long
-
-
-enough
- to
- get
- access
- to
- the
- drug
- that
-
-
-could
- save
- their
- life
- and
- perhaps
- not
-
-
-being
- able
- to
- get
- access.
- So
- it
- has
- a
-
-
-beautiful
  kind
  of
- mission
- alignment.
- Um
-
-
-if
- you
- look
- at
- another
- customer
- like
-
-
-Walmart,
- Walmart
- is
- a
- good
- example
- of
- a
-
-
-customer
- now
- working
- with
- us
- on
- the
- on
+ get
 
 
 the
- commerce
- side
- but
- also
- using
- a
- lot
-
-
-of
- our
- technology
- internally
- around
-
-
-things
- like
- how
- to
- merchandise,
- how
- to
-
-
-handle
- um
- risk
- and
- so
- on
- on
- their
- site.
-
-
->> You
- kind
- of
- get
- the
  argument
  she's
-
-
-trying
+ trying
  to
  make.
  The
- enterprise
+
+
+enterprise
+ business
+ is
+ growing
+
+
+dramatically.
+ And
+ as
+ that
  business
 
 
-is
- growing
- dramatically
- and
- as
- that
-
-
-business
- continues
+continues
  to
- grow
+ grow,
  there
  is
-
-
-going
+ going
  to
  be
- more
+
+
+more
  adoption
  for
- OpenAI.
-
-
-hopefully
+ OpenAI
+ hopefully
  long
- term.
+
+
+term.
  Now
  again,
  look,
  if
-
-
-OpenAI
+ OpenAI
  fails,
- could
- Gemini,
- could
- Grock,
 
 
 could
+ Gemini,
+ could
+ Grock,
+ could
  all
- these
+
+
+these
  other
  companies
  kind
  of
-
-
-replace
+ replace
  a
- lot
- of
- the
+
+
+lot
+ of the
  work
  that
  they're
-
-
-doing?
+ doing?
  Of
- course,
+
+
+course,
  that's
  very
  possible.
-
-
-My
+ My
  only
- concern
+
+
+concern
  is
  that
  the
  level
  of
+ deals
 
 
-deals
- between
+between
  Nebius
  and
  Iran
  and
+ Microsoft.
 
 
-Microsoft,
- remember,
+Remember
  OpenAI
  is
-
-
-contracted
+ contracted
  to
  give
- Microsoft
+
+
+Microsoft
  $250
-
-
-billion.
+ billion.
  They
  work
  with
- GCP,
- they
+
+
+GCP.
+ They
  just
-
-
-contracted
+ contracted
  to
  give
  AWS
  38
- billion,
 
 
-Oracle
+billion.
+ Oracle
  300
- billion,
+ billion.
  AMD
  100
- billion.
+
+
+billion.
  A
-
-
-lot
+ lot
  of
  that
  stuff
  doesn't
- just
+
+
+just
  get
-
-
-replaced
- overnight.
+ replaced
+ overnight
  and
  you
- know,
+
+
+know,
  Gemini
-
-
-takes
+ takes
  that
  over.
- Uh,
+ Uh
  and
  if
- that
+
+
+that
  does
-
-
-happen,
+ happen,
  that
  happens
  after
- significant
 
 
-declines
+significant
+ declines
  in
  market
  cap
  for
- those
 
 
-companies
+those
+ companies
  when
  you
- know,
+ know
  the
 
 
@@ -13142,7 +12046,7 @@ manifestation
 
 
 place.
- So,
+ So
  that's
  why
  I
@@ -13215,7 +12119,8 @@ opportunity.
 talk
  about
  these
- revshare
+ rev
+ share
  agreements
 
 
@@ -13268,7 +12173,7 @@ the
 
 something
  new.
- So,
+ So
  there's
  a
  lot
@@ -13279,7 +12184,7 @@ different
  ways
  I
  think
- OpenAI
+ OpenI
  is
  trying
 
@@ -13294,8 +12199,8 @@ to
  real
 
 
-time.
- And
+time
+ and
  they
  kind
  of
@@ -13324,7 +12229,7 @@ that
 
 
 still
- vading
+ vating
  waiting
  for
  this
@@ -13387,8 +12292,8 @@ six
  more.
  Six
  more.
- Yes.
- Six
+ Yes,
+ six
  more.
  Okay.
 
@@ -13433,9 +12338,9 @@ move.
 
 
 after
- hours
- again.
- Everything
+ hours.
+ Again,
+ everything
  pretty
 
 
@@ -13457,51 +12362,52 @@ Officially
 
 will
  definitely
- help.
- Rockab
+ help
+ it.
+ Rocket
+ Lab
  got
- to
+
+
+to
  47
-
-
-last
- week
+ last
+ week,
  now
  at
  5474.
  That's
  up
- 6%.
+
+
+6%.
  So,
-
-
-a
+ a
  lot
- of
- these
+ of these
  names
  benefiting
- from
+
+
+from
  the
-
-
-idea
+ idea
  of
  the
  shutdown
  being
- done.
 
 
-Yes,
+done.
+ Yes,
  the
  vote
  is
  finishing
- currently.
 
 
-Right
+currently
+ right
  now
 
 
@@ -13534,170 +12440,167 @@ Farzad,
 Aid's
  greatest
  qualities
- and
- sustain
-
-
-ability
+ ability
  to
- grind
+
+
+grind.
  Sunday
  night
- and
- this
-
-
-guy
+ in
+ the
+ sky
  does
  not
- stop.
+
+
+stop.
  Love
  you,
  bro.
  You're
-
-
-destined
+ destined
  for
- greatness.
+
+
+greatness.
  Farzad,
-
-
-appreciate
+ appreciate
  you,
  man.
- Thank
+
+
+Thank
  you
  so
  much
-
-
-for
+ for
  being
  here
  and
- hope
+
+
+hope
  you
  are
  doing
-
-
-well,
+ well,
  sir.
- Uh
+ Uh,
  Silly
- Chapman,
- thank
- you
 
 
-for
+Chapman,
+ thanks
+ for
  the
  $10
  chat.
- Myth
+ I
+
+
+admit
  you
  think
  some
- of
-
-
-the
+ of the
  company
- layoffs
+
+
+layoffs
  are
  due
  to
- tariffs.
-
-
-Due
+ tariffs,
+ due
  to
  high
- prices,
- companies
+
+
+prices.
+ Companies
  can't
-
-
-increase
+ increase
  prices.
- Yeah,
+
+
+Yeah,
  I
  think
  there's
  a
-
-
-variety
+ variety
  of
- things
+
+
+things
  going
  on
  with
  layoffs.
-
-
-And
+ And
  again,
- this
+
+
+this
  was
  the
  number
  one
-
-
-reason
+ reason
  why
  I
- think
+
+
+think
  last
  week
  we
  had
  some
-
-
-issues.
+ issues.
  Take
- a
+
+
+a
  look
  at
  this
  chart
  right
-
-
-here.
+ here.
  Um,
  so
- if
+
+
+if
  you
  look
  at
  this
  right
-
-
-here,
+ here,
  US
- companies
+
+
+companies
  announced
  153,000
  job
-
-
-cuts
+ cuts
  in
- October,
+
+
+October,
  a
  175%
  increase
  from
  a
+ year
 
 
-year
- ago.
+ago.
  This
  was
  the
@@ -13769,7 +12672,7 @@ why
  were
  down
  last
- week.
+ week,
  I
 
 
@@ -13809,7 +12712,7 @@ headline
  we
 
 
-Vshape.
+V-shaped.
  I
  mean,
  all
@@ -13853,7 +12756,7 @@ worst
  at
  around
  1
- PM
+ pm
  Eastern?
  By
 
@@ -13863,12 +12766,13 @@ around
  we
  were
  green.
- So,
+ And
+ so,
  um,
- it
 
 
-seemed
+it
+ seemed
  like
  the
  shutdown
@@ -13928,7 +12832,7 @@ ends
 
 tonight.
  Yeah,
- pounder
+ pound
  up
  3%.
  Again,
@@ -13946,8 +12850,7 @@ Michael
 
 minutes
  ago.
- I
- still
+ Still
  don't
  get
  what
@@ -13964,7 +12867,7 @@ heck
  Uh
 
 
-carb
+Karp
  kind
  of
  went
@@ -14040,7 +12943,7 @@ given
  the
  way
  he's
- framed
+ framing
  it.
  Four
  more
@@ -14090,53 +12993,54 @@ and
 
 
 44
- to22.
-
-
-Someone
+ to
+ 22.
+ Someone
  says,
  "I
  picked
  up
- 2,000
+
+
+2,000
  shares
-
-
-of
+ of
  BMR
  at
  35
  and
  sold
  out
- at
+
+
+at
  39."
  Well,
-
-
-look,
+ look,
  you
  got
  a
  $4
  move,
- which
+
+
+which
  is
  8,000
-
-
-bucks
+ bucks
  on
  2,000
  shares.
- So,
+
+
+So,
  that's
  not
-
-
-too
+ too
  bad.
- It's
+
+
+It's
  just
  it
  feels
@@ -14145,54 +13049,53 @@ too
 
 the
  ETH
- move.
- moving.
- But
+ move,
+ but
  you
  know,
  when
+ the
 
 
-the
- market
+market
  was
  going
  down,
  ETH
  and
+ Bitcoin
 
 
-Bitcoin
- were
+were
  actually
  holding
  on,
  which
-
-
-is
+ is
  why
- it
+
+
+it
  was
  weird
  why
  BMR
  was
  getting
-
-
-hit
+ hit
  as
- bad.
+
+
+bad.
  It's
  almost
  just
  like
  the
+ algos
 
 
-algos
- were
+were
  taking
  it
  down
@@ -14275,7 +13178,7 @@ ETH
  right
  here
  at
- 3,600.
+ 3600.
 
 
 Imagine
@@ -14404,8 +13307,7 @@ taking
  of
  anything.
  We're
- going
- to
+ gonna
 
 
 have
@@ -14442,7 +13344,7 @@ for
 
 
 without
- pay.
+ pay,
 
 
 which
@@ -14476,31 +13378,31 @@ once
 
 Here's
  Jeff
- Bezos.
- He
+ Bezos,
+ who
  was
  at
  an
- American
 
 
-business
+American
+ business
  conference
  over
  the
- weekend
 
 
-once
+weekend
+ once
  again
  making
  up
  the
- argument
+
+
+argument
  about
-
-
-data
+ data
  centers
  in
  space,
@@ -14602,110 +13504,106 @@ our
  industry
  off
  Earth.
- And
- we
+ We
+ and
  and
 
 
 and
- and
  that
  will
  happen.
  I
  know
  it
-
-
-sounds
+ sounds
  a
- little
+
+
+little
  fantastical.
  Maybe
  it
-
-
-sounds
+ sounds
  like
- science
+
+
+science
  fiction
  to
  some
-
-
-degree,
+ degree,
  but
  it
- it
+
+
+it
  will
  happen.
  I
  don't
-
-
-know
+ know
  how
  how
- soon
+
+
+soon
  it
  will
  happen.
  It's
  a
-
-
-job
+ job
  that
  I
- won't
+
+
+won't
  finish.
  Probably
  my
+ children's
 
 
-children's
- children
+children
  won't
  finish.
  You
-
-
-know,
+ know,
  this
  is
- something
+
+
+something
  that
  multiple
-
-
-generations
+ generations
  will
- work
+
+
+work
  on,
  but
  it
  will
-
-
-happen.
+ happen.
  And
  uh
  you
- know,
- I
+
+
+I
  just
-
-
-mentioned
+ mentioned
  one
  of
  the
  first
  steps
- there
 
 
-is
+there
+ is
  that
  you
  know,
@@ -14713,21 +13611,11 @@ is
  already
  put
  a
- lot
 
 
-of
+lot
+ of
  communications
- in
- space.
- We
- can
- start
-
-
-to
- build
- factories
  in
  space.
  We
@@ -14737,97 +13625,107 @@ to
 start
  to
  build
- data
- centers
+ factories
  in
  space.
  We
 
 
-will
+can
+ start
+ to
+ build
+ data
+ centers
+ in
+
+
+space.
+ We
+ will
  ultimately
  get
  the
- materials
+
+
+materials
  not
-
-
-even
+ even
  from
  earth
  but
  get
- the
+
+
+the
  materials
-
-
-from
+ from
  the
  moon
  and
- near-earth
+ near
+
+
+earth
  objects
  and
-
-
-asteroids.
+ asteroids.
  We
  have
- unlimited
+
+
+unlimited
  energy
  in
-
-
-space
+ space
  and
  unlimited
- material
+
+
+material
  resources
-
-
-in
+ in
  space.
  And
  this
- planet
+
+
+planet
  is
  so
-
-
-beautiful
+ beautiful
  and
  so
  unusual.
- This
+
+
+This
  is
  the
-
-
-one
+ one
  that
  we're
  going
  to
  want
- to
+
+
+to
  protect.
-
-
-There's
+ There's
  no
  plan
  B.
  We
  have
- sp
- we
- have
 
 
-yet
- at least
+sp
  we
  have
+ not
+ yet
+ we
 
 
 >> you
@@ -14972,8 +13870,7 @@ the
  month
 
 
-over
- month
+overmonth
  which
  is
  what
@@ -15087,7 +13984,7 @@ Nancy
  Pelosi
  is
  retiring.
- correct.
+ Correct.
  She
 
 
@@ -15200,7 +14097,7 @@ enough
 end
  of
  November.
- Now
+ Now,
  Tom
  Lee
  did
@@ -15229,13 +14126,13 @@ weeks
 obviously
  it
  has
- been
+ been,
  you
- know
+ know,
 
 
 relatively
- choppy
+ choppy,
 
 
 but
@@ -15247,257 +14144,259 @@ but
  to
 
 
-consolidate
- then
+consolidate,
+ then,
  you
- know
+ know,
  we
  might
- not
 
 
-get
+not
+ get
  that
  move
  back
  up
  to
  alltime
- highs
 
 
-anytime
+highs
+ anytime
  soon.
  Some
  more
  macro
- stats.
 
 
-Take
+stats.
+ Take
  a
  look
  at
  this.
  Uh
  call
- options
+
+
+options
  are
-
-
-absolutely
+ absolutely
  going
  crazy.
  uh
- call
+
+
+call
  option
-
-
-volume
+ volume
  has
  surpassed
  put
- volume
+
+
+volume
  over
  the
-
-
-last
+ last
  month
  by
  the
- largest
+
+
+largest
  margin
  in
-
-
-history
+ history,
  which
  is
  kind
- of
+
+
+of
  crazy
  because
-
-
-it
+ it
  means
  a
  ton
  of
- people
+
+
+people
  are
  still
-
-
-betting
+ betting
  on
  obviously
- the
+
+
+the
  market
  going
-
-
-higher
+ higher
  with
  these
  calls
- versus
+
+
+versus
  these
-
-
-puts.
+ puts.
  Uh
  we
  know
  that
- leveraged
+
+
+leveraged
  margin
-
-
-debt
+ debt
  is
  at
  the
  highest
- of
+
+
+of
  its
  levels.
-
-
-It's
+ It's
  surpassing
  2021,
- surpassing
+
+
+surpassing
  2000.
  I
-
-
-think
+ think
  there's
  um
  1.3
- trillion
+
+
+trillion
  roundabout
-
-
-is
+ is
  what
  we
  have
  in
- margin
+
+
+margin
  debt.
  And
  you
-
-
-saw
+ saw
  it
  at
  Robin
- Hood's
+
+
+Hood's
  numbers.
  I
  mean
-
-
-the
+ the
  amount
  of
- margin
+
+
+margin
  they're
  giving
  out
-
-
-and
+ and
  they
  made
- 153
+
+
+153
  million
  in
  interest
  on
-
-
-margin
+ margin
  which
- is
+
+
+is
  just
  incredible.
  So
+ you're
+ seeing
+
+
+that
+ margin
+ be
+ taken
+ out
+ and
+ obviously
 
 
 you're
  seeing
  that
- margin
- be
- taken
- out
-
-
-and
- obviously
- you're
- seeing
- that
  in
  the
+ options
 
 
-options
- market.
+market.
  These
  are
  the
  worst
+ performing
 
 
-performing
- stocks
+stocks
  of
  the
  S&P
  500
  so
  far.
+ Chipotle,
 
 
-Chipotle
- Molina
- Faxet
- Dow
+Molina,
+ Faxet,
+ Dow,
  Alexandria
+ Reality,
 
 
-Reality
- Lululemon
- Deckers
- Trade
+Lululemon,
+ Deckers,
+ Trades,
  and
+ Fiser.
 
 
 Fiser
- Fiser
  recently
  took
  it
  on
  the
  chin
+ after
 
 
-after
- their
+their
  crappy
  earnings.
  Lulu,
+ Deckers,
 
 
-Deckers,
- and
+and
  Chipotle
 
 
@@ -15554,76 +14453,74 @@ continuing
  to
  be
  hit.
-
-
-Put
+ Put
  ESP
  there.
- Yeah,
+
+
+Yeah,
  I
  forgot
- ESP,
+ ESB,
  dude.
-
-
-ESP
+ ESP
  got
  hit
  as
- well.
+
+
+well.
  ESP
  year
  to
- date.
-
-
-Well,
+ date,
+ well,
  it's
  still
- up
+
+
+up
  year
  to
  date
  because
-
-
-it
+ it
  IPOed
  at
  a
- very
+
+
+very
  or
  it
  went
  it
  did
-
-
-this
+ this
  ETH
- treasury
- thing
+ Treasury
+
+
+thing
  at
  a
  very
  low
-
-
-price
+ price,
  like
  three
- bucks.
+
+
+bucks.
  Past
- month
+ month,
  it's
-
-
-down
+ down
  29%
  though.
 
 
-So
+So,
  that
  one
  got
@@ -15679,85 +14576,79 @@ Yeah,
 need.
 
 
-So
+It's
+ so
  crazy,
  dude.
- So
- so
+ So,
+ so,
  so
  many
  of
- you
 
 
-guys
+you
+ guys
  internationally
  might
- must
- might
+ much
 
 
-
-
-
-
-must might must might must might must
-might must might must might must might
-must might must might must
+might
  must
  just
  be
-
-
-looking
+ looking
  at
  this
  like
- you
+
+
+you
  might
  not
  even
-
-
-care
+ care
  about
  the
  US
- government,
+
+
+government,
  but
  you're
-
-
-like,
+ like,
  "Damn
  it,
  I
- invest
+
+
+invest
  in
  a
  lot
  of
  US
-
-
-stocks
+ stocks
  and
  I
  need
- your
+
+
+your
  stupid
  government
-
-
-to
+ to
  be
  open
  so
  my
- stocks
+
+
+stocks
  can
  go
- higher.
+ higher."
 
 
 Oh,
@@ -15779,14 +14670,13 @@ trying
 How
  many
  Democrats
- voted?
- Yes.
- So,
- guys,
+ voted
+ yes,
+ guys?
+ How
 
 
-how
- many
+many
  Democrats
  is
  there?
@@ -15815,8 +14705,8 @@ one,
 one,
  two,
  three,
- seven.
- Right.
+ seven,
+ right?
 
 
 Seven
@@ -15832,7 +14722,7 @@ give
  eight.
 
 
-So,
+So
  if
  you
  get
@@ -15841,11 +14731,11 @@ So,
  you
  got
  to
+ get
 
 
-get
- two
- more.
+two
+ more
 
 
 and
@@ -15870,111 +14760,109 @@ that's
  you
  feel.
  Well,
+ it's
+ the
 
 
-the
- thing
+thing
  about
  investing
  in
  US
- stocks,
+ stocks.
+ You
 
 
-you
- got
+got
  to
  care
  about
  the
  US
  government,
+ all
 
 
-all
- the
+the
  nuances
  of
  the
  US
  government,
+ which
 
 
-which
- is
+is
  kind
  of
- crazy,
- dude.
+ crazy.
  Like
  for
-
-
-those
+ those
  that
- invest
+
+
+invest
  in
- multiple
+ multiple,
  like
  my
-
-
-uncle,
+ uncle,
  he
- invests
+
+
+invests
  in
  India
  and
  the
-
-
-United
+ United
  States
- and
+
+
+and
  like
  he
  has
  to
  keep
  up
-
-
-with
+ with
  Indian
- politics,
- which
+
+
+politics.
+ But
  you
  just
-
-
-have
+ have
  to,
  right?
- There's
+
+
+There's
  no
  way
  you
  can
-
-
-invest
+ invest
  in
  Indian
- companies
+
+
+companies
  and
  not
  know
-
-
-the
+ the
  headlines
- about
+
+
+about
  what's
  going
  on.
-
-
-managing
+ Managing
  one
 
 
@@ -15988,9 +14876,9 @@ country
  to
 
 
-manage
+manage.
  I
- mean
+ mean,
  now
  that
  I've
@@ -16002,94 +14890,98 @@ investing
  Southeast
  Asia
  with
- grabb
+ Grab,
 
 
 I've
- been
+ been,
  you
- know
+ know,
  keeping
  up
  more
- with
 
 
-them
- but
+with
+ them.
+ But,
  you
- know
+ know,
  at
  the
  end
- of the
- day
+ of
 
 
-there's
+the
+ day,
+ there's
  not
  that
  many
  sort
  of
- tailwinds
 
 
-or
+tailwinds
+ or
  headwinds
  in
  the
  region
- that
+
+
+that
  you
  have
-
-
-to
+ to
  worry
  out
  too
- much
- especially
+ much,
+
+
+especially
  if
  you
-
-
-have a
+ have
+ a
  long-term
- thesis
- but
+
+
+thesis.
+ But,
  if
  you're
+ investing
 
 
-investing
- day-to-day
+day-to-day
  in
  multiple
-
-
-companies
+ companies
  in
  a
- country
+
+
+country,
  you
  got
  to
  know
-
-
-about
+ about
  how
  that
- country
- operates
 
 
-and
- it's
+country
+ operates.
+
+
+And
+ it's,
  you
- know
+ know,
  it
  does
  take
@@ -16099,12 +14991,13 @@ and
 
 care
  about
- it
- oh
+ it.
+ Oh,
  it's
- done
- we
+ done.
+ We
  got
+ it.
 
 
 We
@@ -16128,7 +15021,7 @@ I
  think
  we
  are
- done
+ done.
 
 
 or
@@ -16202,7 +15095,7 @@ and
  hurt
  by
  government
- shutdown,
+ shutdown
 
 
 to
@@ -16246,10 +15139,10 @@ these
  separately."
 
 
-That
+that
  had
  been
- Katherryn
+ Katherine
  Cortez
  Mass's
 
@@ -16331,7 +15224,7 @@ yes.
  big
  moment
  here.
- Seven
+ Seventh
 
 
 Democratic
@@ -16521,7 +15414,7 @@ Grab
 
 29.
  Hoodie
- 13,540.
+ 13540.
 
 
 ETH
@@ -16877,14 +15770,15 @@ end
 
 
 reset
+ and
  needed.
  Excess
  leverage
  is
- flush.
 
 
-Fundamentals
+flush.
+ Fundamentals
  remain
  intact
  and
@@ -16921,7 +15815,7 @@ assets,
 
 
 selective
- re-risking
+ re-risking,
  not
  retreat.
  Key
@@ -17026,8 +15920,8 @@ in
  if
  that's
  the
- case.
- If
+ case,
+ if
  we're
 
 
@@ -17035,8 +15929,8 @@ entering
  a
  winter
  for
- crypto,
- but
+ crypto.
+ But
  I
 
 
@@ -17218,7 +16112,7 @@ maybe
  a
  good
  thing.
- Even
+ even
  though
 
 
@@ -17240,8 +16134,8 @@ people
 
 uh
  into
- crypto.
- But
+ crypto,
+ but
  when
  you
  got
@@ -17272,63 +16166,63 @@ bro.
  of
  risk
  on
+ appetite
 
 
-appetite.
- And
+and
  that
  appetite
  can't
  last
-
-
-forever.
+ forever.
  At
- some
- point
+
+
+some
+ point,
  that
  leverage
-
-
-goes
+ goes
  the
- opposite
+
+
+opposite
  direction.
  But
  if
  the
-
-
-flush
+ flush
  out
- is
+
+
+is
  Bitcoin
  at
  98
  and
  that
  was
-
-
-the
+ the
  worst
- of
- it.
+
+
+of
+ it,
  I
- mean
+ mean,
  I'll
  take
  that
-
-
-any
+ any
  day
  of
- the
+
+
+the
  week.
 
 
-Doesn't
+doesn't
  feel
  like
  that's
@@ -17398,7 +16292,7 @@ it's
 
 
 from
- 625
+ 625,
 
 
 but
@@ -17420,6 +16314,7 @@ Should
 
 
 2.2%
+ 2%
  as
  well.
 
@@ -17432,7 +16327,8 @@ So
  end
 
 
-at least.
+at
+ least.
  Again,
  this
  is
@@ -17489,7 +16385,7 @@ start
  have
  for
  today.
- Okay.
+ Okay,
  I
 
 
@@ -17508,6 +16404,7 @@ the
  consumer.
  Uh
  the
+ Olm
  podcast
  had
  a
@@ -17527,8 +16424,8 @@ curious
  you
  guys
  are
- on.
- But
+ on,
+ but
 
 
 we've
@@ -17623,132 +16520,128 @@ early
 
 
 about
- tariffs,
- al
- alttimeter
+ tariffs
+ altimeter
  was
+ positioned
 
 
-positioned
- small,
- right?
- By
- May,
+small
+ right
+ by
+ May
  we
-
-
-thought
+ thought
  they
  would
- land
+
+
+land
  the
  plane
  with
- a
+ the
+ best
+ consensus
 
 
-Bessant
- consensus,
- you
- know,
- uh,
+you
+ know
+ uh
  on
-
-
-trade.
- We'd
+ trade
+ we'd
  get
  the
  big
- beautiful
+
+
+beautiful
  bill
-
-
-passed
+ passed
  and
  we
  went
  to
- kind
+
+
+kind
  of
  extra
-
-
-large
+ large
  positioning
  and
- we've
+
+
+we've
  been
  there
-
-
-most
+ most
  of
  the
- year.
- And
+ year
+ and
  so
- now
- we're
- back
 
 
-to
- kind
- of
- Chimat
- just
- nailed
- it.
- You
-
-
-know,
+now
  we're
  back
  to
  kind
  of
- medium
+ chimat
+ just
+
+
+nailed
+ it
+ you
+ know
+ we're
+ back
+ to
+ kind
+ of
 
 
 medium
+ medium
  small
  positioning
  in
  the
- market.
 
 
-And
+market
+ and
  I'll
  I'll
  walk
  through
  a
- couple
 
 
-slides
+couple
+ slides
  as
  to
  the
  reasoning
  for
- that.
 
 
-Maybe
+that
+ maybe
  we
  can
  kick
  it
  around
  a
- little
 
 
-bit.
+little
  The
  first
  one
@@ -17759,19 +16652,19 @@ bit.
 
 growing
  signs
- um,
+ um
  you
- know,
+ know
  the
  consumer
 
 
 is
  pulling
- back.
- And
+ back
+ and
  you
- know,
+ know
  you
  heard
 
@@ -17779,16 +16672,15 @@ is
 it
  out
  of
- uh
  Chipotle,
  you
  heard
  it
  out
+ of
 
 
-of
- Cava,
+Cava,
  you
  heard
  it
@@ -17796,259 +16688,257 @@ of
  of
  NCL,
  you
+ heard
 
 
-heard
- it
+it
  out
  of
- JetBlue.
- And
+ JetBlue
+ and
  and
  you
+ know
+ the
 
 
-know,
- the
- the
+the
  nature
  of
  it
  is
  we
  have
+ this
 
 
-this
- two-tier
+two-tier
  economy.
  The
  low-end
+ consumer
 
 
-consumer
- is
- faltering.
- The
- higherend
-
-
-consumer
- is
- hanging
- in
- there.
- But
+is
+ faltering
  the
-
-
-consumer
- thing
+ higherend
+ consumer
  is
+
+
+hanging
+ in
+ there
+ but
+ the
+ consumer
+ thing
+
+
+is
  making
  people
  nervous.
-
-
-Now,
+ Now
  uh
- compounding
+
+
+compounding
  that
  is
  US
  credit
+ card
 
 
-card
- delinquencies
+delinquencies
  are
  now
  uh
  uh
  back
  to
-
-
-two,
- you
- know,
- 2009
- levels,
-
-
->> right?
- And
- so
- you
- have
- okay
- consumer
-
-
-cracking
- a
- little
- bit,
- delinquencies,
+ two
 
 
 you
- know,
+ know
+ 2009
+ levels
+ right
+ and
+ so
+ you
+
+
+have
+ okay
+ consumer
+ cracking
+ a
+ little
+ bit
+
+
+delinquencies
+ you
+ know
  and
  now
  we're
- seeing
+
+
+seeing
  regional
-
-
-banks
+ banks
  roll
- over,
- etc.
- We're
+ over
+ etc
+
+
+we're
  seeing
  the
-
-
-credit
+ credit
  markets
- beginning
+
+
+beginning
  to
  crack
  a
-
-
-little
- bit,
+ little
+ bit
  credit
- spreads
+
+
+spreads
  blowing
  out
  a
+ little
+ bit
+ and
 
 
-little
- bit.
- And
- then
+then
  if
  you
  go
  to
  this
-
-
-next
- slide,
+ next
+ slide
  you
- know,
+
+
+know
  this
  goes
  to
  what
-
-
-Sachs
+ Sachs
  has
  has
- talked
+
+
+talked
  a
  lot
  about
  on
  this
-
-
-pod
+ pod
  that
- we're
+
+
+we're
  still
  in
  highly
+ restrictive
 
 
-restrictive
- territory
- when
+territory
+ When
  you
  look
  at
-
-
-the
+ the
  10-year
- tips.
+
+
+tips,
  you
  know,
  uh,
  the
  Fed
-
-
-is
+ is
  still,
- you
+
+
+you
  know,
  got
  the
  market
  tight
+ because
 
 
-because
- they're
+they're
  seeing,
  you
  know,
  the
-
-
-market
+ market
  at
- all-time
+
+
+all-time
  highs.
  They're
  seeing
-
-
-AI
+ AI
  stocks
- rip,
+
+
+rip,
  but
  under
  the
  surface,
  I
+ think
 
 
-think
- there's
+there's
  a
  lot
  of
  concern
  and
+ question
 
 
-question
- about
+about
  what's
  going
  on.
  The
  good
+ news
 
 
-news
- about
+about
  this
  is
  we
  still
  have
-
-
-firepower.
+ firepower.
 
 
 So,
@@ -18060,8 +16950,8 @@ So,
  earnings
 
 
-season?
- You
+season,
+ you
  know,
  this
  next
@@ -18154,8 +17044,8 @@ real
  next
 
 
-year
- and
+year.
+ And
  so,
  you
  know,
@@ -18453,10 +17343,10 @@ go
  what
  Brad
  Gersonner
- is
+ was
 
 
-saying
+saying,
  which
  is
  that
@@ -18525,33 +17415,33 @@ saying,
 that
  are
  showing
- to
+ the
  consumers."
- Okay,
- if
+ Okay.
 
 
-you
+If
+ you
  look
  at
  the
  comments,
  because
  I
- love
 
 
-to
+love
+ to
  look
  at
  comments
  on
  these
  types
- of
 
 
-debates
+of
+ debates
  and
  see
  like
@@ -18571,11 +17461,11 @@ the
  on
 
 
-JCL's
+Jal's
  side.
  And
  Jay
- Cal
+ Cal,
  for
  those
  that
@@ -18630,7 +17520,7 @@ were
 
 
 um
- Chimamathan
+ Chimathan
  Sachs
  basically
 
@@ -18701,7 +17591,7 @@ broader
  when
 
 
-Jacel
+Jake
  kind
  of
  called
@@ -18762,30 +17652,29 @@ on
  You
  say
  the
- subjective
+ objective
 
 
-voice
- company
+company
  where
  the
  CEO
  said
  the
+ exact
 
 
-exact
- opposite
+opposite
  and
  you
  won't
  take
- him
+ them
  at
+ your
 
 
-your
- word.
+word.
 
 
 >> He
@@ -18810,7 +17699,7 @@ your
 
 own
  [ __ ]
- doesn't
+ Doesn't
  make
  it
  right.
@@ -18819,37 +17708,39 @@ own
 
 was
  very
+ tell
  they
  literally
  were
  saying
- in
 
 
-the
+in
+ the
  leaked
  documents
  that
  they
  had
  a
- PR
 
 
-crisis
+PR
+ crisis
  on
  their
  hand
  and
  they
  were
- going
 
 
-to
+going
+ to
  try
  to
  spin
+ the
  job.
 
 
@@ -18858,20 +17749,21 @@ to
  about
  Amazon
  and
- Jal
- is
+ Jay
+ Cal
 
 
-10,000%
+is
+ 10,000%
  correct
  about
  that.
  There
  was
- a
 
 
-leaked
+a
+ leaked
  document
  that
  that
@@ -18920,44 +17812,37 @@ public
  jobs.
 
 
->> Part
- of
- what
- he
- said
- trillion
+>> Trillion
  dollar
-
-
-public
+ public
  company
  said
  on
- the
+
+
+the
  record
  and
-
-
-filed
+ filed
  with
  the
  SEC
  that
- the
+
+
+the
  reason
  he
-
-
-did
+ did
  these
  layoffs
  was
- because
+
+
+because
  of
  ZERP
-
-
-and
+ and
  DEI.
 
 
@@ -19221,7 +18106,8 @@ other
 saying,
  "Hey,
  we're
- going to
+ going
+ to
  derisk
 
 
@@ -19270,107 +18156,105 @@ we've
 
 couple
  weeks.
-
-
-I
+ I
  think
  it's
  a
  real
  thing,
- dude.
+
+
+dude.
  I
  think
-
-
-it's
+ it's
  a
  real
  thing
  because
- again,
+
+
+again,
  if
-
-
-Chipotle
+ Chipotle
  and
  Lululemon
  and
  all
- these
 
 
-companies
+these
+ companies
  are
  coming
  out
  and
- saying
+
+
+saying
  we
-
-
-have
+ have
  issues,
  but
  the
  S&P
  500,
- 80%
+
+
+80%
  of
  the
-
-
-companies
+ companies
  so
  far
  that
  have
- reported
+
+
+reported
  have
-
-
-beat
+ beat
  by
  double
  digits
  on
- earnings.
+
+
+earnings.
  You
-
-
-have
+ have
  the
  AI
  EPS
  tailwind
- that's
 
 
-increasing
+that's
+ increasing
  margin
  efficiency,
  but
- then
 
 
-you
+then
+ you
  have
  these
  real
  consumer
- brands,
 
 
-which
+brands,
+ which
  maybe
  it's
  a
  problem
  with
- them.
 
 
-And
+them.
+ And
  I
  think
  we're
@@ -19378,156 +18262,155 @@ And
  to
  need
  at
- least
 
 
-another
+least
+ another
  quarter
  or
  two
  to
  see
  is
- it
 
 
-really
+it
+ really
  a
  Lululemon
- thing
+ thing,
  or
  is
  it,
- you
 
 
-know,
+you
+ know,
  a
  structural
  thing
  with
  Target
- and
 
 
 and
+ and
  Urban
  Outfitters
  and
  all
  these
- other
 
 
-clothing
+other
+ clothing
  brands
  that
  are
  just
- seeing
 
 
-people
+seeing
+ people
  pull
  back
  on
  their
- spending?
 
 
-Because
+spending?
+ Because
  if
  it
  is
  the
  latter,
- then
+
+
+then
  that's
-
-
-going
+ going
  to
  affect
  earnings
- eventually.
 
 
-Now,
+eventually.
+ Now,
  will
  that
  affect
  Meta
- and
- Google
 
 
 and
+ Google
+ and
  Microsoft
  and
  Amazon
  to
- an
+
+
+an
  extent?
-
-
-Will
- it
+ will
  affect
  them
  to
  the
  point
- where,
 
 
-you
- know,
+where
+ you
+ know
  you
  want
  to
  be
  out
  of
- those
 
 
-stocks?
+those
+ stocks.
  I
  don't
  know.
  I
  don't
- think
+
+
+think
  so.
-
-
-especially
+ Especially
  as
  rates
  come
  down
- and
+
+
+and
  rates
-
-
-coming
+ coming
  down
  is
  the
  natural
- tailwind
+
+
+tailwind
  that
-
-
-should,
+ should
  you
- know,
+ know
  provide
- some
+
+
+some
  reprieve
-
-
-to
+ to
  the
  entire
  market.
@@ -19601,8 +18484,9 @@ I
  votes
 
 
-left.
- Less
+left
+ and
+ less
  than
  10
  votes.
@@ -19664,8 +18548,8 @@ again.
 
 AOC
  just
- said
- the
+ said,
+ "The
  average
  monthly
  SNAP
@@ -19731,7 +18615,7 @@ lives.
 
 word
  means
- something.
+ something."
 
 
 Okay.
@@ -19763,11 +18647,11 @@ the
  shutdown
  to
  end
- though.
- Regardless,
+ though
+ regardless.
 
 
-four
+Four
  more
  votes.
 
@@ -19826,13 +18710,13 @@ tomorrow
  in
  less
  than
- 3
+ three
  years.
  Yeah,
- I
 
 
-definitely
+I
+ definitely
  think
  it's
  sector
@@ -20149,13 +19033,13 @@ and
 
 
 that
- correct?
- Or
+ correct
+ or
  is
  this
  the
- No,
- it's
+ no?
+ It's
 
 
 just
@@ -20172,8 +19056,8 @@ Some
  of
  you
  saying
- no,
- some
+ no.
+ Some
  of
  you
 
@@ -20237,13 +19121,13 @@ right
  here
  saying
  that
- Jeffre
+ Jeff
  is
  not
+ going
 
 
-going
- to
+to
  allow
  it
  to
@@ -20251,10 +19135,10 @@ going
  a
  house
  vote,
+ but
 
 
-but
- that's
+that's
  not
  making
  any
@@ -20295,9 +19179,9 @@ votes,
 
 
 Some
- of you
+ of
+ you
  guys
- are
  saying
  the
  House
@@ -20348,43 +19232,42 @@ on
  appropriations
  bill
  or
- continue
+ continuing
 
 
 resolution
  funding
  the
  government
- pass
 
 
-still
- needs
+passes.
+ I
+ still
+ need
  to
  go
- to
- the
+ to the
  House
- of
 
 
-Representatives.
+of
+ Representatives.
  The
  60
  votes
- incentives
 
 
-is
- off
- in
+incentive
+ is
+ often
  the
  threshold
  needed
- to
 
 
-overcome
+to
+ overcome
  a
  filibuster
  to
@@ -20392,8 +19275,8 @@ overcome
  the
 
 
-bill.
- But
+bill,
+ but
  it
  doesn't
  bypass
@@ -20426,49 +19309,50 @@ Okay.
 don't
  think
  it's
- going to
+ going
+ to
  be
  an
  issue
 
 
 because
- they
+ I
  think
  they
  have
  enough
+ votes
 
 
-votes
- in
+in
  the
  House
  regardless.
  But
  these
+ four
 
 
-four
- and
+and
  that's
  why
  the
  headlines
  are
+ that
 
 
-that
- the
+the
  shutdown
  is
  over
  because,
  you
+ know,
 
 
-know,
- once
+once
  it's
  passed
  in
@@ -20508,32 +19392,33 @@ procedure
  ahead
  still
  and
+ then
  the
  House
- must
 
 
-vote.
+must
+ vote.
  Okay,
  so
  it
  looks
  like
  the
- House
 
 
-will
+House
+ will
  vote
  on
  this.
  We
  should
- easily
+
+
+easily
  get
-
-
-that
+ that
  passed
  hopefully.
 
@@ -20599,14 +19484,13 @@ They
  to
  worry
  about
- if
+ that.
 
 
 they
  had
  a
- super
- majority.
+ supermajority.
 
 
 This
@@ -20769,14 +19653,15 @@ my
 
 the
  original
- Pounder
+ Palenter
  tweet.
  He
  put
- out
+ it
 
 
-an
+out
+ an
  hour
  ago,
  but
@@ -20784,20 +19669,20 @@ an
  he
  put
  out
- another
 
 
-one,
+another
+ one,
  and
  I
  don't
  have
  it
  because
- he
 
 
-deleted
+he
+ deleted
  it.
 
 
@@ -20825,36 +19710,35 @@ Karp
  bit
  viral
  as
-
-
-well.
  I
- don't
+
+
+don't
  know if
  people
  have
  people
+ seen
 
 
-seen
- the
+the
  Axios
  interview
  with
  Karp.
+ There
 
 
-There
- were
+were
  some
  uh
  really
  good
  moments
+ with
 
 
-with
- him
+him
  speaking
  there
 
@@ -20913,7 +19797,7 @@ mother.
  show
  this
  one.
- This
+ The
 
 
 story
@@ -20929,7 +19813,7 @@ story
 that
 
 
-is
+his
  autobiography,
  but
  this
@@ -21007,11 +19891,10 @@ landlord
 
 store.
  do
- you
- tell?
+ tell
 
 
->> Well,
+>> well
  it's
  in
  the
@@ -21053,14 +19936,14 @@ my
  [ __ ]
 
 
-Someone
+someone
  helped
- her.
+ her
 
 
 I
  paid
- him
+ them
  back
  and
  that
@@ -21069,8 +19952,8 @@ I
  a
 
 
-landlord.
- Gave
+landlord
+ gave
  her
  and
  you
@@ -21082,7 +19965,7 @@ landlord.
 live
 
 
-and
+And
  they
  still
  own
@@ -21095,21 +19978,20 @@ and
 how
  did
  you
-
-
->> I
- used
- to
+ I
+ just
  buy
  a
  lot
  of
  stuff
- from
- them
 
 
-to
+from
+ them.
+
+
+>> To
  this
  day.
 
@@ -21129,15 +20011,15 @@ to
 
 from
  that?
- very
+ Very
  few
  people
  will
  help
- you
 
 
-and
+you.
+ And
 
 
 it's
@@ -21148,11 +20030,10 @@ it's
  helping
  my
  mom
- Mrs.
+ Mr.
 
 
-Snider
- uh
+Schneider
  kind
  of
  helped
@@ -21163,24 +20044,24 @@ Snider
 
 people
  in
- general,
+ general
  people
  don't
  help
+ you
 
 
-you,
- which
+which
  is
  totally
- okay,
- but
+ okay.
+ But
  the
  ones
+ that
 
 
-that
- do
+do
  are
  special.
 
@@ -21244,13 +20125,13 @@ has
 definitely
  was
  a
- very
+ very,
  very
  important
 
 
-book,
- but
+book.
+ But
  that
  was
  one
@@ -21278,9 +20159,9 @@ real
  nothing
 
 
-and
+and,
  you
- know
+ know,
  trying
  to
  give
@@ -21326,10 +20207,10 @@ today's
 
 age
  of
- AI
+ AI.
 
 
->> bit
+bit
  from
  this
  prosperity.
@@ -21351,56 +20232,55 @@ should
  the
  hell
  out?
- The
+
+
+>> The
  the
-
-
-thing
+ thing
  about
  the
  commodity
  nature
- of
- LLMs
 
 
-is
+of
+ LLM
+ is
  it
  commodifies
  general
- knowledge.
+
+
+knowledge.
  So
-
-
-like
+ like
  if
  you
  went
  to
  Yale
- picking
+
+
+picking
  on
  Yale
-
-
-because
+ because
  I
  have
  family
- members
+
+
+members
  there
  and
-
-
-like
+ like
  so
  it's
  like
+ you
 
 
->> you've
- been
- picking
+picking
  on
  them
  a
@@ -21462,9 +20342,9 @@ to
  if
  you
  get
- into.
+ into
  Yale's
- one,
+ one.
 
 
 Stanford's
@@ -21478,8 +20358,8 @@ Stanford's
 maybe
  should
  go
- to
- otherwise
+ to.
+ Otherwise,
  go
  to
  the
@@ -21497,43 +20377,44 @@ cheapest
 just
  come
  here.
- Like
+ But
+ like
  if
  you
  are
  the
- kind
 
 
-of
+kind
+ of
  person
  that
  would
  have
  gone
  to
- Yale,
 
 
-would
+Yale,
+ would
  have
  ear
  kind
  of
  classically
- high
 
 
-IQ
+high
+ IQ
  um
  and
  you
  have
  generalized
- knowledge
 
 
-but
+knowledge,
+ but
  it's
  not
  specific,
@@ -21589,39 +20470,39 @@ script
 
 terrorists
  in
- Poundinger?
+ Pounder?
  How
  do
  I
+ impute
 
 
-impute
- the
+the
  problem
  in
  this
  complicated
+ device
 
 
-device
- that's
+that's
  going
  wrong
  that
  otherwise
+ would
 
 
-would
- be
+be
  fixed
  by
  a
  Japanese
  engineer
+ while
 
 
-while
- being
+being
  a
  high
  school
@@ -21629,10 +20510,10 @@ while
  How
  do
  I
+ put
 
 
-put
- the
+the
  cement
  in
  a
@@ -21708,7 +20589,7 @@ you
  any
  way
  you
- want
+ want,
  but
  at
 
@@ -21717,7 +20598,7 @@ the
  end
  of
  the
- day
+ day,
  within
  a
  relative
@@ -21726,7 +20607,7 @@ the
 rapid
  amount
  of
- time
+ time,
  you
  will
  get
@@ -21736,7 +20617,8 @@ rapid
 downstream
  of
  the
- value.
+ value
+ period.
 
 
 Karp's
@@ -21760,8 +20642,8 @@ age
  create
 
 
-value
- and
+value.
+ And
  I
  think
  this
@@ -21786,7 +20668,7 @@ market
  market
  is
  all
- a
+ the
 
 
 question
@@ -21848,8 +20730,7 @@ they're
 
 their
  employees
- at
- least
+ at least
  in
  some
  of
@@ -21857,66 +20738,66 @@ their
 
 these
  traditional
- roles
- so
+ roles.
+ So
  in
  the
  age
- of
 
 
-AI
+of
+ AI
  I
  think
  he's
  incredibly
  um
- accurate
 
 
-on
- this
- you
+accurate
+ on
+ this.
+ You
  have
  to
  have
  a
- specific
+
+
+specific
  set
-
-
-of
+ of
  skills
  that
  can
  then
  be
- tailored
+
+
+tailored
  and
-
-
-work
+ work
  with
  and
  adopted
  via
- artificial
 
 
-intelligence
+artificial
+ intelligence
  to
  just
  become
- more
 
 
-valuable
+more
+ valuable
  as
  an
- employee
+ employee.
 
 
-and
+And
  I
  think
  longterm
@@ -21937,8 +20818,7 @@ matter
 the
  broader
  trajectory
- of
- the
+ of the
  labor
 
 
@@ -21947,8 +20827,8 @@ market.
  green
  2.8%
  pushing
- 240
- got
+ 240.
+ Got
 
 
 SoFi
@@ -21966,11 +20846,11 @@ shutdown
  is
  not
  officially
- done
- but
+ done,
 
 
-it
+but
+ it
  looks
  like
  it
@@ -21978,45 +20858,45 @@ it
  be
  done
  soon.
- And
 
 
-then
+And
+ then
  once
  it
  passes
  the
- house
+ house,
  we
- should
 
 
-have
+should
+ have
  the
  government
  reopening
- probably
 
 
-by
+probably
+ by
  like
  Tuesday
  or
  Wednesday,
- maybe
+
+
+maybe
  even
-
-
-tomorrow
+ tomorrow,
  depending
  on
  how
- quick
+
+
+quick
  they
  do
-
-
-the
+ the
  vote.
 
 
@@ -22027,10 +20907,10 @@ But
  markets
  are
  going
- green
+ green.
 
 
-and
+And
  that
  is
  why
@@ -22060,17 +20940,16 @@ this
 
 
 November
- uh
  the
  stats
  of
  the
  second
  half
+ of
 
 
-of
- November
+November
  tend
  to
  be
@@ -22078,10 +20957,10 @@ of
  the
  side
  of
+ the
 
 
-the
- bulls,
+bulls,
 
 
 but
@@ -22155,88 +21034,88 @@ been
 we've
  been
  talking
- about.
- And
+ about."
+
+
+And
  then
  you
-
-
-got
+ got
  a
  complete
  reversal
  on
- Friday
+
+
+Friday
  and
-
-
-you're
+ you're
  getting
  an
  extension
- of
+
+
+of
  that
-
-
-reversal
+ reversal
  today
  because
  if
  the
- shutdown
 
 
-was
+shutdown
+ was
  the
  reason
  to
  go
  bearish,
- now
+
+
+now
  the
-
-
-shutdown
+ shutdown
  might
  not
  be
  a
  reason.
- Which
+
+
+Which
  is
-
-
-why
+ why
  we're
  going
  to
  have
  to
- see.
- Can
+ see
+
+
+can
  this
-
-
-momentum
+ momentum
  hold
  itself
  or
  is
  this
- just
 
 
-going
+just
+ going
  to
  get
  whipsawed
  back
  down
  to
- the
 
 
-downside
+the
+ downside
  and
  it
  wasn't
@@ -22334,7 +21213,7 @@ doesn't
  of
  the
  consumer
- stock
+ stocks
 
 
 that
@@ -22364,7 +21243,7 @@ crushing
 Cororeweave,
  Rocket
  Lab,
- ESTS,
+ AS,
  Big
  Bear,
 
@@ -22389,87 +21268,89 @@ Wow,
 
 
 and
- then
- you
- got
- Big
- Bear,
- then
- you
- got
+ AS
 
 
-Wolf,
+Big
+ Bear.
+ Then
+ you
+ got
+ Wolf,
  which
  is
- another
+
+
+another
  Bitcoin
  miner.
-
-
-Then
+ Then
  you
  got
- Regetti
+
+
+Regetti
  Quantum.
  Then
  you
-
-
-have
- Cororeweave.
- Uh,
- Tuesday
- we
  have
 
 
-Nebus
+Cororeweave.
+ Uh
+ Tuesday
+ we
+ have
+ Nebus
  on
- the
+
+
+the
  morning.
  I
  know
  that's
-
-
-gonna
+ going
+ to
  be
- big
+
+
+big
  for
  all
  the
- Nebius
+ nebiest
  people.
+ Um,
 
 
-Um,
- Wednesday
+Wednesday
  we
  have
  Cisco
  and
  DLO.
+ Nothing
 
 
-Nothing
- too
+too
  crazy.
  Thursday
  we
  have
-
-
-Disney,
+ Disney,
  New
- Bank.
 
 
-That's
+Bank,
+
+
+and
+ that's
  pretty
  much
  it.
- Oaklo
+ Oaklow
  is
  on
 
@@ -22541,204 +21422,205 @@ know,
  reopen
  as
  well.
- And
- I
+
+
+I
  don't
  know
-
-
-if
+ if
  the
  BLS
  has
  been
- tracking
+
+
+tracking
  any
  of
  the
-
-
-data
+ data
  when
  the
- government's
+
+
+government's
  been
  closed.
+ Some
+ third
 
 
-Some
- third-party
+party
  sites
  have,
  but
  if
  the
-
-
-BLS
+ BLS
  haven't
- been,
+
+
+been,
  we're
  probably
- going
-
-
-to
+ going to
  have
  to
- wait
+
+
+wait
  another
  couple
  weeks
-
-
-until
+ until
  we
  get
- real
+
+
+real
  data.
  But
  like
  we
  get
-
-
-initial
+ initial
  jobs
- claims
+
+
+claims
  every
  Thursday.
  So
+ like
 
 
-like
- theoretically,
+theoretically,
  if
  we
  open
  up
  on
+ Monday,
 
 
-Monday,
- will
+will
  we
  get
  claims
  by
  Thursday?
-
-
-I
+ I
  don't
- know.
- Maybe
+
+
+know,
+ maybe
  in
  a
  week
  we'll
  get
+ them
 
 
-them
- next
+next
  Thursday.
  But
  it
  will
  be
+ important
 
 
-important
- to
+to
  see
  if
  we
  can
  get
  them.
-
-
-Again,
+ Again,
  this
- is
+
+
+is
  another
  chart
  around
  data
+ centered
 
 
-centered
- related
+related
  debt
  issuances.
- Uh
-
-
-record
+ uh
+ record
  25
- billion
+
+
+billion
  of
  US
  debt
  in
  2025.
-
-
-This
+ This
  would
- be
+
+
+be
  a
  112%
  jump
  from
  the
  12
+ billion
 
 
-billion
- issued
+issued
  in
  2024.
  Um
  one
  could
-
-
-argue
+ argue
  this
- would
+
+
+would
  be
  even
  greater
  in
-
-
-2026.
+ 2026.
  But
  as
- long
+
+
+long
  as
  there
  is
  some
  level
-
-
-of
+ of
  ROI
  from
- all
+
+
+all
  the
  debt
  spend
  that
  we
-
-
-are
+ are
  seeing
- for
+
+
+for
  data
  centers,
 
@@ -22785,7 +21667,6 @@ think
  is
  why
  Bur
- is
  pissed
  off.
  Bur
@@ -22811,7 +21692,7 @@ underwater
  don't
 
 
-have
+know
  the
  exact
  price
@@ -22823,6 +21704,7 @@ have
 
 unless
  he
+ uh
  unless
  he
  got
@@ -22837,61 +21719,61 @@ didn't,
  which
  he
  didn't,
- because
+ cuz
+ we
 
 
-we
- were
+were
  we
  touched
  190
  for
  like
  5
+ seconds
 
 
-seconds
- in
+in
  Q2,
  and
  he
  put
  on
  this
+ position
 
 
-position
- during
+during
  Q2,
  which
  means
  his
  he
-
-
-had
+ had
  to
  put
- on
+
+
+on
  these
  puts
  when
  it
  was,
-
-
-you
+ you
  know,
- trailing
+
+
+trailing
  around
  160
  to
  180,
  I
+ would
 
 
-would
- imagine.
+imagine.
  And
  if
  he
@@ -22899,10 +21781,10 @@ would
  on
  the
  puts
+ when
 
 
-when
- it
+it
  was
  at
  140
@@ -22910,10 +21792,10 @@ when
  in
  August,
  then
+ he's
 
 
-he's
- really
+really
  down.
  Maybe
  last
@@ -22955,7 +21837,7 @@ or
  short
  position
  on
- Palter
+ Pounder
  in
  Q2,
 
@@ -22972,7 +21854,7 @@ which
 
 profitable
  because
- Palter
+ Pounder
  is
  not
 
@@ -23082,8 +21964,7 @@ not
 
 So,
  I
- don't
- know.
+ don't know.
  It
  feels
  like
@@ -23180,7 +22061,7 @@ very
  high.
  Google
  right
- there,
+ there
  285.
 
 
@@ -23436,72 +22317,74 @@ move
  here,
  up
  1%.
- you're
+
+
+you're
  probably
-
-
-waiting
+ waiting
  for
  that
  type
  of
- big
+
+
+big
  short
-
-
-moment
+ moment
  again.
  And
  yes,
  he
  got
- China
 
 
-right.
- Like
+China
+ right,
+ like
  he
  went
  long
  on
  China
- and
+
+
+and
  he
-
-
-he
+ he
  got
  it
  right,
  which
  is
  great.
- But
 
 
-it's
+But
+ it's
  like
  he
  hasn't
  gotten
  that
- super
 
 
 super
+ super
  contrarian
  argument
  on
  the
- short
 
 
-side
+short
+ side
  of
  something
  right
  since
- 2008.
+
+
+2008.
 
 
 And
@@ -23555,8 +22438,8 @@ the
  kept
 
 
-alive.
- This
+alive,
+ this
  is
  these
  are
@@ -23609,19 +22492,19 @@ when
  two
  and
  two
- together.
+ together,
 
 
-Obviously,
+obviously
  it
  seems
  like
  he
  doesn't
+ think
 
 
-think
- the
+the
  AI
  capex
  trade
@@ -23660,8 +22543,8 @@ And
 why
  he's
  picking
- Palanter
- in
+ Palunteer
+ and
  Nvidia.
 
 
@@ -23709,65 +22592,67 @@ there's
  that
  Nvidia
  and
- Paler
+
+
+Palenteer
  go
-
-
-down
+ down
  and
  the
  market
  doesn't
- go
+
+
+go
  down.
  I
-
-
-think
+ think
  those
  two
  names
  are
- just
+
+
+just
  too
-
-
-attached
+ attached
  to
  what
  we've
  got
- going
+
+
+going
  on
  in
-
-
-the
+ the
  broader
  market.
  By
  the
- way,
+
+
+way,
  gold
  ETF
-
-
-funds,
+ funds,
  here's
  another
- chart.
+
+
+chart.
  17
  billion
-
-
-in
+ in
  September
  for
  gold
- ETFs.
 
 
-even
+ETFs.
+
+
+Even
  with
  the
  4%
@@ -23874,270 +22759,272 @@ in
  don't
  see
  them
- indep
 
 
-unless
+independ
+ unless
  the
  companies
  mess
  up
- something
 
 
-fundamentally
+something
+ fundamentally
  which
  if
  you've
- seen
- their
 
 
-earnings
+seen
+ the
+ earnings
  I
  don't
  see
  there's
  it
- doesn't
 
 
-seem
+doesn't
+ seem
  like
  there's
  anything
  that
- scary
 
 
-given
- their
+scary
+ given
+ the
  earnings
  yes
  the
- multiples
 
 
-are
+multiples
+ are
  high
  that's
  for
  sure
  but
- and
+
+
+and
  mainly
-
-
-on
- palenture
+ on
+ palentry
  on
  Nvidia
  the
- multiple
 
 
-still
+multiple
+ still
  is
  trading
  at
  28
  times
- forward
+
+
+forward
  as
-
-
-at
+ at
  a
  $5
  trillion
  market
  cap
- like
+
+
+like
  it's
-
-
-it's
+ it's
  still
  quite
  incredible
- how
+
+
+how
  cheap
  it
-
-
-theoretically
+ theoretically
  is
  um
  you
- could
+
+
+could
  have
  an
-
-
-issue
+ issue
  with
  the
  multiple
- but
+
+
+but
  to
  say
  you
-
-
-know
+ know
  they're
  going
  to
- collapse
+
+
+collapse
  by
  50%
  it
-
-
-just
+ just
  seems
  like
  a
- naive
+
+
+naive
  take
  on
  the
-
-
-state
+ state
  of
  valuations
- And
+
+
+And
  Bur
  is
  supposed
-
-
-to
+ to
  be,
  you
  know,
  a
- bit
+
+
+bit
  smarter
  than
  than
-
-
-just
+ just
  saying,
  "Oh,
- the
+
+
+the
  stock
  trades
  at
  a
-
-
-aggressive
+ aggressive
  PE,
- therefore
- it's
+
+
+therefore
  I
  mean,
-
-
-what
+ what
  like
  has
  Tesla
- not
+
+
+not
  taught
  us
-
-
-anything?"
+ anything?
  Tesla's,
  you
- know,
+
+
+know,
  been
  a
-
-
-stock
+ stock
  that
  has
  been
- egregiously
- valued
-
-
-over
- the
- past
- decade.
- Still
- is
 
 
 egregiously
+ valued
+ over
+ the
+ past
+ decade.
+
+
+Still
+ is
+ egregiously
  valued.
  They're
- growing
 
 
-negative
+growing
+ negative
  30%.
  And
  the
  reason
  it
- gets
+
+
+gets
  a
-
-
-premium
+ premium
  is
  because
  there's
- something
 
 
-else
+something
+ else
  other
  than
  just
  the
  raw
- numbers
 
 
-that
+numbers
+ that
  people
  care
  about.
  In
  fact,
- here's
 
 
-Mar.
+here's
+ Marian
+ time.
  She
  went
  on
- Bloomberg
+
+
+Bloomberg
  Tech.
  Here's
-
-
-what
+ what
  she
  had
  to
- say
+
+
+say
  about
- pounders.
-
-
-upgraded
+ Poundress.
+ upgraded
  them
  to
- $255
+
+
+$255
 
 
 and
@@ -24161,18 +23048,17 @@ the
  getting.
 
 
->> Volunteers
- has
+>> Has
  proven
  that
  has
  been
  the
-
-
-winner
+ winner
  of
- this
+
+
+this
  AI
  implementation.
 
@@ -24284,8 +23170,8 @@ to
  make
  that
  software
- work.
- And
+ work
+ and
 
 
 Palanteer
@@ -24366,7 +23252,7 @@ you're
  red
 
 
-pillar
+pill
  is
  there
  with
@@ -24389,8 +23275,8 @@ MIT
  drew
  a
  focus
- on,
- they're
+ on.
+ They're
  managing
  to
 
@@ -24448,8 +23334,8 @@ that
  uh
  that's
  retail
- baby
- retail
+ baby.
+ Retail
 
 
 retail
@@ -24669,6 +23555,7 @@ commercial
 
 
 they're
+ a
  winner.
  They
  were
@@ -24729,7 +23616,7 @@ bearish
  including
  on
  on
- palunteer
+ Palunteer
 
 
 uh
@@ -24804,7 +23691,7 @@ what
  in
 
 
-Palunteer
+Palanteer
  that
  you
  that
@@ -24973,7 +23860,7 @@ Why
  is
  VG
  up
- 10%?
+ 10%.
 
 
 I'm
@@ -24984,8 +23871,7 @@ I'm
 VG
  being
  one
- of
- the
+ of the
  wieners
  after
  hours
@@ -25005,39 +23891,38 @@ thank
  the
  $10
  super
- chat
- admit.
+ chat.
+ Thank
 
 
-Thank
- you
+you
  for
  these
  wonderful
  streams.
+ Sashi,
 
 
-Sashi,
- thank
+thank
  you
  for
  being
  here.
-
-
-Appreciate
+ Appreciate
  you
- taking
+
+
+taking
  the
  time
  to
  be
-
-
-here.
+ here.
  VG's
  up
- 10.76%.
+
+
+10.76%.
 
 
 Uh
@@ -25101,7 +23986,7 @@ aggressively,
  low
 
 
-volume
+volume,
  too.
  That
  could
@@ -25242,7 +24127,7 @@ but
  this.
 
 
->> Thanks,
+Thanks,
  Maggie.
  Thank
  you.
@@ -25567,10 +24452,10 @@ impossible.
  just
  win
  New
- York,
+ York.
 
 
-he
+He
  flipped
  it
  upside
@@ -25635,7 +24520,7 @@ doesn't
  a
 
 
-30inut
+30inute
  video.
  Bill
  Aman
@@ -25703,9 +24588,9 @@ country.
 
 He
  is
- brilliant.
+ brilliant,
  incredibly
- articulate
+ articulate,
 
 
 and
@@ -25717,7 +24602,7 @@ I
  bro,
  at
  some
- point
+ point,
  you
  got
  to
@@ -25793,8 +24678,8 @@ followed
  Elon
  for
  many
- years.
- The
+ years,
+ the
  choice
 
 
@@ -25858,109 +24743,110 @@ obvious
  of
  us
  this
+ is
  AI.
- Imagine
 
 
-when
+Imagine
+ when
  it
  like
  legit
  becomes
- impossible
+
+
+impossible
  to
-
-
-to
+ to
  like
  see
  from
  from
- truth
+
+
+truth
  and
  reality
-
-
-if
+ if
  this
  is
  AI
  or
  not.
- But
+
+
+But
  within
  10
-
-
-seconds
+ seconds,
  I
- mean
+ mean,
  let
  me
- play
+
+
+play
  this
  again.
-
-
-Within
+ Within
  10
- seconds
+ seconds,
  it's
- pretty
+
+
+pretty
  obvious
-
-
-that
+ that
  this
  is
  AI.
- Yesterday,
+
+
+Yesterday,
  we
  watched
-
-
-Zoran
+ Zoran
  Mdani
  pull
- off
+
+
+off
  what
  everyone
-
-
-thought
+ thought
  was
- impossible.
+
+
+impossible.
  He
  didn't
  just
-
-
-win
+ win
  New
- York.
- He
+ York,
+
+
+he
  flipped
  it
  upside
  down
+ overnight,
+ but
 
 
-overnight.
- But
- that
+that
  was
  only
  the
-
-
-beginning.
+ beginning.
 
 
 >> It's
- weird.
+ weird,
 
 
-But
+but
  regardless,
  AI
  is
@@ -26020,8 +24906,8 @@ ago.
 
 been
  on
- fire,
- right?
+ fire.
+ Right.
  So
  what
  what
@@ -26136,8 +25022,7 @@ the
  markets
 
 
-ch
- turn
+turn
  on
  you,
  change
@@ -26233,7 +25118,8 @@ Elon
  here
  is
  one
- of the
+ of
+ the
  most
 
 
@@ -26313,7 +25199,7 @@ definitively
  not.
 
 
-Meaning
+meaning
  he's
  saying
  there's
@@ -26379,7 +25265,7 @@ Chat
  saying
  about
  Zoron
- Mdani.
+ Mumdani.
 
 
 What
@@ -26576,9 +25462,7 @@ believes.
 
 deep
  fake
-
-
-around
+ around
  Elon
  Musk.
 
@@ -26678,8 +25562,8 @@ think
 the
  video
  is
- fake,
- but
+ fake.
+ But
  him
  then
 
@@ -26721,8 +25605,8 @@ but
  fake
 
 
-video,
- like
+video.
+ Like
  what
  if
  Elon
@@ -26734,48 +25618,48 @@ in
  this
  stuff?
  You're
- you're
  forcing
-
-
-people
+ people
  to
- see
+
+
+see
  a
  version
  of
  Elon
  that
  is
+ obviously
 
 
-obviously
- not
+not
  himself.
  Maybe
  he
  does,
-
-
-but
+ but
  if
  he
- doesn't,
+
+
+doesn't,
  then
  like
  it's
  just
-
-
-weird
+ weird
  to
- put
+
+
+put
  that
  out
  there.
 
 
-All right,
+All
+ right,
  so
  that's
  what
@@ -27088,106 +25972,106 @@ be
  generation
  inheriting
  all
- of
+ this
 
 
-this
- wealth.
+wealth.
  So
- really
+ the
+ same
+ group
  of
  young
- people
 
 
-and
+people
+ and
  generation
  that's
  driving
- what
 
 
-you're
+what
+ you're
  seeing
  in
  in
  prediction
- markets.
 
 
-I
+markets.
+ I
  I
  don't
  want
  to
  recount
  the
- data
+
+
+data
  too
-
-
-much
+ much
  though,
  but
  just
  in
  the
- month
+
+
+month
  of
-
-
-October
+ October,
  contracts
  and
- predictions
+
+
+predictions
  have
-
-
-eclipsed
+ eclipsed
  what
- we
+ you
  did
- in
+
+
+in
  the
  entire
  third
-
-
-quarter.
+ quarter.
  So
  so
  maybe
- talking
+
+
+talking
  about
  some
-
-
-of
- the
+ of the
  underlying
- trends
+
+
+trends
  and
  activity
-
-
-will
+ will
  give
  us
  a
- better
+
+
+better
  understanding
  of
-
-
-who's
+ who's
  driving
  it
- and
+
+
+and
  and
  what's
-
-
-happening.
+ happening.
 
 
 >> Yeah,
@@ -27310,47 +26194,47 @@ crypto
  and
  now
  prediction
- markets
+ markets,
  a
  lot
 
 
 of
  the
- events
+ events,
  particularly
  in
- sports
- are
+ sports,
 
 
-happening
+are
+ happening
  nights
  and
  weekends.
- So
- Robin
+ So,
 
 
-Hood
+Robin
+ Hood
  is
  becoming
  increasingly
  a
- 247
 
 
-platform
+247
+ platform
  where
  I'll
  put
  the
  link
  in
- the
 
 
-chat
+the
+ chat
  for
  anyone
  who
@@ -27361,78 +26245,78 @@ chat
 
 watching
  that.
- But
- uh
+ But,
+ uh,
  he
  basically
- goes
 
 
-on
+goes
+ on
  to
  say
  they're
  becoming
  a
- financial
 
 
-super
+financial
+ super
  app
  and
  as
  they
  continue
- to
+
+
+to
  become
-
-
-a
+ a
  financial
  super
- app
+ app,
  you
- know
+
+
+know,
  Robin
-
-
-Hood
  is
  positioned
  in
  a
  pretty
- strong
 
 
-suit.
- Now,
+strong
+ suit.
+ Now
  look,
  if
  2026
  ends
  up
- going
 
 
-bearish,
+going
+ bearish,
  obviously
  Robin
  is
- going to
+ going
 
 
-have
+to
+ have
  some
  issues
  because
  they
  do
  need
- a
 
 
-bull
+a
+ bull
  market
  to
  continue
@@ -27477,64 +26361,64 @@ that's
 
 you
  know,
+ if
  Robin
  is
  a
  stock
  that
  takes
- a
 
 
-pretty
+a
+ pretty
  nasty
  dip
  next
- year.
- If
+ year,
+ if
  we
  end
- up
 
 
-getting
+up
+ getting
  a
  market
  correction,
  it's
- going
 
 
-to
+going
+ to
  be
  one
- of
- the
+ of the
  first
  stocks
  on
- the
 
 
-list.
+the
+ list.
  You
  just
  you
  can't
  undermine
- the
 
 
-level
+the
+ level
  of
  product
  velocity
  that
  Vlad
- is
 
 
-putting
+is
+ putting
  out
  there.
  They're
@@ -27570,7 +26454,7 @@ think
  long
  term
  we're
- up
+ off
  and
  it's
  going
@@ -27599,7 +26483,8 @@ and
  think
  Q4
  is
- going to
+ going
+ to
  be
 
 
@@ -27749,8 +26634,8 @@ years,
 
 out
  a
- little
- bit more,
+ little bit
+ more,
  I
  started
  like
@@ -27776,6 +26661,7 @@ I
 
 looks
  like.
+ AI.
  My
  eyebrows
  are
@@ -27801,8 +26687,8 @@ speaking
  this
  is
  an
- AI.
- But
+ AI,
+ but
 
 
 shout
@@ -27827,7 +26713,7 @@ new
 
 Currently
  Right
- Now,
+ Now
  and
  he's
  taking
@@ -27870,7 +26756,7 @@ of
  this
  over
  the
- weekend,
+ weekend
  and
 
 
@@ -27961,7 +26847,7 @@ have
  But
 
 
->> Oh,
+>> oh,
  Spotify's
  at
  all
@@ -28009,13 +26895,11 @@ highs.
 Stephen.
 
 
->> My
- list
- is
- solid.
+>> I
+ listed
 
 
->> He
+he
  called
  you
  Stephen.
@@ -28056,7 +26940,7 @@ You
  You
  have
  Amazon
- and
+ or
 
 
 Latin
@@ -28121,24 +27005,18 @@ Christ.
 
 just
  sitting
- here
- like
+ here.
 
 
->> Chris
- is
- getting
- so
+So
  quiet
  for
  so
- long.
-
-
-He
+ long
+ and
+ he
  just
- throws
- [ __ ]
+ throws.
 
 
 >> Bro,
@@ -28163,14 +27041,10 @@ real
  life.
  Just
  pick
+
+
+it
  a
- stock
- and
- call
- it
-
-
-a
  day.
 
 
@@ -28202,6 +27076,7 @@ are.
  and
  here.
  All right.
+ Real.
 
 
 >> Okay.
@@ -28262,7 +27137,7 @@ Shout
 
 
 I
- There's
+ there's
  so
  many
  moments
@@ -28391,16 +27266,14 @@ with
  a
  with
  freaking
- Dualingo
+ Dolingo
  as
  my
  last
 
 
 pick.
-
-
-Stock
+ Stock
  draft
  by
  the
@@ -28408,22 +27281,22 @@ Stock
  I
  am
  in
- first
 
 
-place
+first
+ place
  somehow.
  I
  don't
  know
  how
- but
+
+
+but
  I
-
-
-think
+ think
  Matt
- money
+ Money
  will
  gap
  back
@@ -28508,25 +27381,27 @@ Uh
 
 
 three
- and a
+ and
+ a
  half.
  S&P
  up
  more
- than6.
+ than
+ 6.
 
 
 Nvidia
  192.
- The
- GooGs
+
+
+The
+ Googs
  at
  284
  and
  then
-
-
-S&P
+ S&P
 
 
 at
@@ -28535,7 +27410,7 @@ at
  are
  we
  above
- 43?
+ 43
  4391.
 
 
@@ -28639,11 +27514,11 @@ it's
  1%
  a
  week.
- It's
+
+
+It's
  paying
-
-
-you
+ you
  1%
  a
  week.
@@ -28651,84 +27526,86 @@ you
  if
  you
  buy
- a thousand
 
 
-shares
+a thousand
+ shares
  of
  Verizon,
  that's
- $40,000,
+
+
+$40,000,
  and
-
-
-then
+ then
  you
  sell
  the
  $40
  call,
- you
+
+
+you
  get
  paid
-
-
-$420
+ 420
  bucks.
  So
  this
  is
  not
  a
- stock
+
+
+stock
  to
-
-
-buy
+ buy
  to
  get
  capital
- appreciation.
+
+
+appreciation.
  That
  is
-
-
-not
+ not
  the
  goal
  of
- Verizon.
+
+
+Verizon.
  But
  I
  was
  just
-
-
-looking
+ looking
  at
  the
- chart.
+
+
+chart.
  I
  was
  looking
  at
-
-
-the
+ the
  premiums.
  I
- was
+
+
+was
  like,
  first
  of
  all,
-
-
-why
+ why
  is
  there
  a
- 1%
+
+
+1%
 
 
 premium
@@ -28803,12 +27680,10 @@ The
  this
  year
  was
+ 44
 
 
-44.
-
-
-And
+and
  you
  have
  a
@@ -28878,9 +27753,9 @@ you
  it
  at
  the
- money,
+ money
  call
- it
+ at
  40
 
 
@@ -28919,16 +27794,16 @@ say
  it
  goes
  to
- 38,
- you
+ 38.
+ You
  can
  keep
  it
  at
 
 
-40,
- next
+40.
+ Next
  week
  it
  goes
@@ -28948,7 +27823,7 @@ like,
  of
 
 
-there's
+There's
  a
  2
  cent
@@ -29126,8 +28001,8 @@ it
  to
  go
  up
- either,
- but
+ either.
+ But
  that's
  what
 
@@ -29169,14 +28044,14 @@ not
 
 
 week.
- you'll
+ You'll
  get
  like
  4%
  a
  week,
  but
- B&R
+ BMR
 
 
 will
@@ -29190,7 +28065,7 @@ will
  10
 
 
-bucks
+bucks.
  in
  a
  single
@@ -29202,58 +28077,60 @@ So,
  the
  reason
  I
+ haven't
  even
- mentioned
+
+
+mentioned
  this
-
-
-is
+ is
  because
  I'm
  trying
  to
- put
+
+
+put
  out
  a
+ a
  set
-
-
-of
+ of
  stocks.
  I'm
  trying
  to
- find
+
+
+find
  10
-
-
-different
+ different
  names
  that
  people
  can
- run
 
 
-covered
+run
+ covered
  calls
  on
  comfortably
  in
- 2026.
 
 
-And
+2026.
+ And
  the
  criteria
  I'm
  looking
  for
- is
+
+
+is
  not
-
-
-even
+ even
  1%
  a
  week.
@@ -29261,30 +28138,29 @@ even
  be
  happy
  with
- like
 
 
-half
+like
+ half
  a
  percent
  a
  week.
  The
  fact
- that
 
 
-Verizon's
+that
+ Verizon's
  g
  That's
  what
  I'm
  trying
- to
 
 
-say.
- is
+to
+ say.
  this
  is
  there
@@ -29420,22 +28296,23 @@ about.
  Like
  I
  don't
+ really
  if
  I
  buy
- Verizon
 
 
-next
+Verizon
+ next
  year,
  I'm
  probably
  not
- going
+
+
+going
  to
-
-
-stress
+ stress
  that
  much
  about
@@ -29562,16 +28439,15 @@ Case
  PayPal
  is
  down
- 22%
+ 22%.
 
 
-year
- to
+Year-to
  date.
 
 
 Verizon,
- dude,
+ dude.
  I'm
  telling
  you,
@@ -29815,8 +28691,7 @@ their
 I
  know
  a
- lot
- of
+ lot of
  people
  do
  that
@@ -29982,8 +28857,8 @@ another
 
 this
  year
- though
- so
+ though.
+ So
  it
  has
  been
@@ -30009,7 +28884,7 @@ like
  stock
  has
  moved
- 5
+ five
  cents
  all
 
@@ -30077,245 +28952,245 @@ about
 
 
 like
- again
+ again,
  we
  got
  a
  market
  downturn
- next
 
 
-year.
+next
+ year.
  Verizon
  will
  be
  down,
  but
- it's
+
+
+it's
  not
-
-
-going
+ going
  to
  be
  down
  as
  much
  as
- like
+
+
+like
  a
  Robin
-
-
-Hood.
-
-
-trying
+ Hood.
+ So,
+ trying
  to
  figure
- out
+
+
+out
  how
  to
  balance
-
-
-certain
+ certain
  parts
  of
  the
- portfolio.
+
+
+portfolio.
  You
-
-
-know,
+ know,
  I
  said
  I
  would
  do
- this
+
+
+this
  last
  year.
-
-
-I
+ I
  said
  last
  year
  going
- into
+
+
+into
  2025
  after
  I
-
-
-sold
+ sold
  all
  the
  hood
- options.
+
+
+options.
  I
  said
  I
  was
-
-
-going
+ going
  to
  balance
- out
+
+
+out
  the
  portfolio
  and
-
-
-just
+ just
  like,
  you
- know,
+
+
+know,
  get
  a
  little
  bit
-
-
-more
+ more
  stability.
  I
- did
+
+
+did
  the
  exact
+ opposite.
+ Deepseek
 
 
-opposite.
- Deep
- Seek
- happened
+happened
  and
  I
  went
-
-
-straight
+ straight
  for
  Nvidia
- and
+
+
+and
  I
  just
  said
  risk
-
-
-on.
+ on.
  I
  bought
  Rocket
- Lab.
+
+
+Lab.
  I
  bought
-
-
-DeepSeek.
+ Deepseek.
  I
  obviously
- bought
+
+
+bought
  more
  Hood,
-
-
-more
+ more
  Palunteer.
  And
  it
- just
+
+
+just
  turned
  into
-
-
-a
+ a
  risky
  portfolio
- again.
+
+
+again.
  And
  thankfully
-
-
-we've
+ we've
  had
  a
  super
- risk-on
+
+
+risk-on
  year
  and
-
-
-hopefully
+ hopefully
  it
  ends
  out
- that
+
+
+that
  way.
  And
  then
-
-
-I
+ I
  got
  BMR
  like
  you
- know
+
+
+know
  Tesla
  got
  it
  at
-
-
-335.
+ 335.
  Should
  have
- bought
+
+
+bought
  a
  lot
  more
  but
  I
-
-
-don't
+ don't
  know
  if
- 2026
+
+
+2026
  we
  get
  to
  do
  that
-
-
-again.
+ again.
  But
  I
- don't
+
+
+don't
  want
  to
  sell
  those
-
-
-parts
+ parts
  of
  the
- portfolio
+
+
+portfolio
  to
  to
  balance
  out
+ the
 
 
-the
- stability.
+stability.
  I
  just
  want
@@ -30360,8 +29235,8 @@ into
  and
 
 
-VO
- obviously
+VO.
+ Obviously,
  those,
  you
  know,
@@ -30558,12 +29433,12 @@ Texas.
  ahead
  and
  check
- in
+ in.
  Andy
 
 
 Mack
- with
+ was
  speaking
  uh
  essentially
@@ -30612,10 +29487,11 @@ We're
  one.
 
 
->> Um
+Um
 
 
-reelection
+>> is
+ reelection
  bid.
  He's
  an
@@ -30724,17 +29600,16 @@ in
 
 
 >> Yeah.
- Well,
+ We'll
  first
- they
  need
  to
  get
  the
+ tally
 
 
-tally
- and
+and
  then
  they
  need
@@ -30742,10 +29617,10 @@ tally
  do
  the
  test
+ vote
 
 
-vote
- and
+and
  then
  we
  need
@@ -30758,18 +29633,19 @@ vote
 Senate
  and
  then
- the
+
+
+>> the
  House
-
-
->> and
+ and
+ then
  the
  House.
  Yes.
  And
 
 
->> uh
+>> um
 
 
 >> Okay.
@@ -30810,7 +29686,7 @@ enough.
  the
 
 
-House
+house
  and
  then
  after
@@ -30877,8 +29753,8 @@ But
 
 
 fairly
- open.
- But
+ open,
+ but
  again,
  anybody
  could
@@ -30906,7 +29782,8 @@ heard
 getting
  late
  into
- tonight
+ the
+ night
  and
  the
  hope
@@ -30936,7 +29813,7 @@ out
  and
  I
  think
- the
+ a
  question
 
 
@@ -30980,8 +29857,11 @@ numbers
  And
  do
  they
- publication
- numbers?
+ public
+ information
+
+
+numbers?
 
 
 >> Do
@@ -31002,63 +29882,65 @@ all
 
 >> Oh,
  yeah.
- that
+
+
+>> that
  we
  missed.
  I
  don't
  know
+ like
+ what
 
 
-like
- what
- what
+what
  does
  the
  flow
  of
  data
-
-
-going
+ going
  to
  look
- like
- uh
+
+
+like?
+
+
+>> Uh
  that's
  going
  to
  be
-
-
-quite
+ quite
  interesting
- too,
+
+
+too,
  right?
  But
  I
-
-
-think
+ think
  some
  have
  said,
- you
+
+
+you
  know,
  those
-
-
-that
+ that
  watch
  it
  say
  it's
- going
+
+
+going
  to
  take
-
-
-some
+ some
  time
 
 
@@ -31159,19 +30041,17 @@ officially
 
 
 and
-
-
-keep
+ keep
  going
  from
  there.
  Then
  we
  just
- got
 
 
-to
+got
+ to
  get
  to
  the
@@ -31203,20 +30083,21 @@ little
 
 almost
  44.
- Oscar
+ Oscar,
  Oscar
  was
  down
- eight.
+ eight,
 
 
-Now
+now
  it's
  only
  down
  four.
- So
- at least
+ So,
+ at
+ least
 
 
 you're
@@ -31226,15 +30107,15 @@ you're
  there.
 
 
-Palanteer
+Pounder
  making
  highs
  overnight
- 18450,
+ 18450.
 
 
 Nvidia
- 193,
+ 193
  and
  then
  S&P
@@ -31243,7 +30124,7 @@ Nvidia
 
 
 strong
- 67545,
+ 67545
 
 
 which
@@ -31266,8 +30147,9 @@ shutdown
  over.
 
 
-All right,
- guys.
+All
+ right
+ guys,
  I
  think
  that's
@@ -31316,7 +30198,7 @@ go
  the
  house.
  I
- mean
+ mean,
  it
  could
  be
@@ -31434,7 +30316,8 @@ not
 and
  then
  13F.
- Bergkshire,
+ So,
+ Burkshar,
  by
  the
  way,
@@ -31443,7 +30326,7 @@ and
 what's
  his
  name?
- Uh,
+ Uh
  Buffett.
  He's
 
@@ -31456,7 +30339,8 @@ putting
  It's
 
 
-going to
+going
+ to
  be
  his
  final
@@ -31517,9 +30401,10 @@ Um,
  to
  get
  the
+ 13F
 
 
-13Fs.
+apps.
  They're
  probably
  going
@@ -31545,16 +30430,16 @@ So,
  we'll
  see
  if
- Birkshshire
+ uh
+ Bergkshire
  bought
- more
 
 
-UNH,
+more
+ UNH,
  a
  lot
- of
- these
+ of these
  other
  firms
  are
@@ -31640,7 +30525,7 @@ wants
  to
  watch
  Alternative
- Acid
+ Asset
  Weekly.
 
 
@@ -31664,7 +30549,7 @@ What
  already
 
 
-spam
+spammed
  CRN
  so
  many
@@ -31716,7 +30601,7 @@ still
 620.
  Look,
  I
- look
+ look,
  I
  think
  if
@@ -31824,22 +30709,22 @@ justify
 
 
 frankly.
- So
+ So,
  I
  don't
  think
  it's
  crazy
- for
 
 
-Meta
+for
+ Meta
  to
  be
- by
+ by.
 
 
-spamming
+Spamming
  67
  is
  boring.
@@ -31953,6 +30838,7 @@ And
  go.
  That's
  the
+ word.
 
 
 >> I
@@ -31976,7 +30862,7 @@ We're
 
 
 Charizard
- setter,
+ Setter,
  as
  Rudy
  would
@@ -32076,7 +30962,7 @@ They
  have
  a
  better
- PR.
+ print.
  This
  is
 
@@ -32119,151 +31005,151 @@ the
  Costco.
 
 
-All right,
+All
+ right,
  folks.
  Thank
- you
  everybody
+ for
 
 
-for
- being
+being
  here.
  Deeply,
  deeply
+ appreciate
 
 
-appreciated.
+it.
  Hope
  everyone
  had
  a
  good
-
-
-weekend.
+ weekend.
  It
- looks
+
+
+looks
  like
  the
  bulls
  are
  in
-
-
-control
+ control
  and
- we're
+
+
+we're
  going
  green.
  Uh
  I'll
-
-
-be
+ be
  back
- tomorrow
+
+
+tomorrow
  for
  the
  market
  open.
  We
-
-
-got
+ got
  a
- very
+
+
+very
  very
  busy
  day.
  Lots
  of
+ earnings,
 
 
-earnings,
- lots
+lots
  of
  different
  macro
  stuff
-
-
-to
+ to
  cover.
- Hopefully
+
+
+Hopefully
  the
  shutdown
  is
  done
-
-
-by
+ by
  mid
- tomorrow
+
+
+tomorrow
  if
  the
  House
  makes
  the
-
-
-vote.
+ vote.
  We
- know
+
+
+know
  the
  Senate
  will
  vote
-
-
-tonight.
+ tonight.
  We
- got
+
+
+got
  one
  vote
  left.
  We'll
  get
-
-
-6040.
+ 6040.
  Go
  to
- the
+
+
+the
  House
  hopefully
  in
  the
+ morning.
 
 
-morning.
- Shutdown
+Shutdown
  should
  be
  done
  and
-
-
-then
+ then
  we
  keep
- going
+
+
+going
  from
  there
  as
  we
  get
-
-
-into
+ into
  the
  end
- of
+
+
+of
  November.
 
 
-All
- right,
+All right,
  that's
  it.
  Thank
@@ -32294,7 +31180,7 @@ are
  differentiate
  me
  from
- AI
+ AI,
  but
 
 
@@ -32480,8 +31366,7 @@ it
  on
  Friday.
  I'm
- going
- to
+ gonna
  have
  to
  leave
@@ -32518,8 +31403,8 @@ Should
  be
  a
  fun
- one
- and
+ one.
+ And
  uh
  we'll
  get
@@ -32534,30 +31419,33 @@ through
 
 
 Thank
+ you
  everybody.
  No,
  I'm
  not
- becoming
+
+
+becoming
  a
-
-
-Grinder
+ Grinder
  representative.
- Goodness
 
 
-gracious.
+Goodness
+ gracious.
  Bye.
  See
  you
  guys
- tomorrow
- on
 
 
-the
+tomorrow
+ in
+ the
  market
  open.
  Bye
- everyone.
+
+
+everyone.
