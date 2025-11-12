@@ -3,8 +3,8 @@ author: "Lei"
 date: "2025-11-12"
 guest: ""
 layout: "post.njk"
-source: ""
-speaker: ""
+source: https://www.youtube.com/watch?v=LdWvaE7iPD8
+speaker: 向杨Alan君
 title: "The University of Chicago's Approach to Academic Writing: Stop Thinking About Rules, Start Thinking About Readers"
 summary: "Professor Larry McEnerney explains the University of Chicago's 'top-down' writing philosophy. He argues that serious academic writing is not a basic skill governed by rules, but a high-level tool for thinking. The core challenge for experts is that professional readers are not paid to care about you; therefore, writing must create value by challenging or refining the existing community conversation, rather than just being 'new' or 'clear'."
 
