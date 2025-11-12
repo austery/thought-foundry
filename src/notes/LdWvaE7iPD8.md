@@ -19,7 +19,7 @@ project:
 tags:
   - "academic-writing"
   - "value-creation"
-  -- "reader-centricity"
+  - "reader-centricity"
   - "expert-thinking"
   - "communication-strategy"
 

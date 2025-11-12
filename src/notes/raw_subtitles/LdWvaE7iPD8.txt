@@ -1,0 +1,4431 @@
+1
+00:00:00,800 --> 00:00:05,680
+Let me immediately uh clarify things a
+
+2
+00:00:03,919 --> 00:00:06,960
+bit by telling you a little bit about
+
+3
+00:00:05,680 --> 00:00:09,280
+the difference of the University of
+
+4
+00:00:06,960 --> 00:00:11,440
+Chicago's writing program. We're one of,
+
+5
+00:00:09,280 --> 00:00:13,200
+as far as we know, two in the country
+
+6
+00:00:11,440 --> 00:00:14,960
+who takes what we call a top- down
+
+7
+00:00:13,200 --> 00:00:17,039
+approach to writing rather than bottom
+
+8
+00:00:14,960 --> 00:00:20,240
+up. Every other school in the country,
+
+9
+00:00:17,039 --> 00:00:21,920
+their primary constituency is freshmen.
+
+10
+00:00:20,240 --> 00:00:23,359
+Um so most every school has something
+
+11
+00:00:21,920 --> 00:00:25,920
+like freshman composition, freshman
+
+12
+00:00:23,359 --> 00:00:28,160
+writing, freshman seminars, etc. Um we
+
+13
+00:00:25,920 --> 00:00:32,079
+don't actually have that course here.
+
+14
+00:00:28,160 --> 00:00:33,120
+Um, as I remind people, Chicago is I
+
+15
+00:00:32,079 --> 00:00:36,239
+don't know if it's the only country,
+
+16
+00:00:33,120 --> 00:00:38,079
+only university in the country, but one
+
+17
+00:00:36,239 --> 00:00:40,879
+of the few that has more faculty than we
+
+18
+00:00:38,079 --> 00:00:42,640
+have freshmen. Um, that's because our
+
+19
+00:00:40,879 --> 00:00:43,920
+program teaches uh throughout the
+
+20
+00:00:42,640 --> 00:00:45,600
+medical school, and they don't usually
+
+21
+00:00:43,920 --> 00:00:48,000
+count those faculty when they're talking
+
+22
+00:00:45,600 --> 00:00:49,280
+about faculty ratios to students, but we
+
+23
+00:00:48,000 --> 00:00:50,960
+teach in the medical school all the
+
+24
+00:00:49,280 --> 00:00:52,399
+time, and they're chucka block with
+
+25
+00:00:50,960 --> 00:00:55,120
+faculty because most of their doctors
+
+26
+00:00:52,399 --> 00:00:57,199
+are are also faculty members. So when
+
+27
+00:00:55,120 --> 00:00:59,440
+this program got started in the late 70s
+
+28
+00:00:57,199 --> 00:01:02,079
+early 80s our task was not to help the
+
+29
+00:00:59,440 --> 00:01:05,119
+students it was to help the faculty. Um
+
+30
+00:01:02,079 --> 00:01:07,760
+this writing program got created because
+
+31
+00:01:05,119 --> 00:01:10,640
+the people on this campus as guy who
+
+32
+00:01:07,760 --> 00:01:13,119
+started it used to say you know our
+
+33
+00:01:10,640 --> 00:01:14,960
+freshman write pretty well
+
+34
+00:01:13,119 --> 00:01:17,840
+by the time they're third and fourth
+
+35
+00:01:14,960 --> 00:01:20,880
+year students they don't write as well.
+
+36
+00:01:17,840 --> 00:01:22,320
+Our graduate students struggle but the
+
+37
+00:01:20,880 --> 00:01:25,360
+people with the real writing problems
+
+38
+00:01:22,320 --> 00:01:27,680
+are the faculty which just turns on its
+
+39
+00:01:25,360 --> 00:01:30,159
+head the standard notion that writing is
+
+40
+00:01:27,680 --> 00:01:32,159
+a basic skill. The standard notion in
+
+41
+00:01:30,159 --> 00:01:33,600
+the US and around the world is writing
+
+42
+00:01:32,159 --> 00:01:35,840
+reading writing arithmetic you're
+
+43
+00:01:33,600 --> 00:01:37,360
+supposed to learn it in high school or
+
+44
+00:01:35,840 --> 00:01:39,680
+grammar school high school maybe a
+
+45
+00:01:37,360 --> 00:01:41,280
+little bit of college but if you have to
+
+46
+00:01:39,680 --> 00:01:42,799
+learn it after that there's something
+
+47
+00:01:41,280 --> 00:01:44,799
+wrong with you and therefore there's
+
+48
+00:01:42,799 --> 00:01:47,200
+something remedial about programs like
+
+49
+00:01:44,799 --> 00:01:48,720
+this. I've been talking to people for 30
+
+50
+00:01:47,200 --> 00:01:51,040
+years
+
+51
+00:01:48,720 --> 00:01:52,560
+who their main reaction to any program I
+
+52
+00:01:51,040 --> 00:01:54,960
+teach is that they do not want to be
+
+53
+00:01:52,560 --> 00:01:57,680
+there and they think there's something a
+
+54
+00:01:54,960 --> 00:02:01,200
+little bit, you know,
+
+55
+00:01:57,680 --> 00:02:02,640
+offensive. I teach a lot in London. Let
+
+56
+00:02:01,200 --> 00:02:04,560
+me tell you, you get a whole bunch of
+
+57
+00:02:02,640 --> 00:02:07,840
+Oxford and Cambridge educated
+
+58
+00:02:04,560 --> 00:02:10,000
+professionals or academics in a room and
+
+59
+00:02:07,840 --> 00:02:12,959
+say, "We've brought in this guy to help
+
+60
+00:02:10,000 --> 00:02:15,760
+you with your writing, and by the way,
+
+61
+00:02:12,959 --> 00:02:18,800
+he's from Chicago."
+
+62
+00:02:15,760 --> 00:02:22,239
+You know, waves of hostility coming at
+
+63
+00:02:18,800 --> 00:02:24,879
+me across the room. So, I need to I need
+
+64
+00:02:22,239 --> 00:02:26,959
+you to know that this is not a remedial
+
+65
+00:02:24,879 --> 00:02:28,319
+writing course. This is not a course in
+
+66
+00:02:26,959 --> 00:02:30,800
+anything that you should have learned
+
+67
+00:02:28,319 --> 00:02:34,400
+earlier on and didn't. It is
+
+68
+00:02:30,800 --> 00:02:36,160
+overwhelmingly not a course in rules. I
+
+69
+00:02:34,400 --> 00:02:37,599
+am not going to give you rules for
+
+70
+00:02:36,160 --> 00:02:39,680
+writing. In fact, I'm going to spend a
+
+71
+00:02:37,599 --> 00:02:41,680
+lot of a time attacking the fact that
+
+72
+00:02:39,680 --> 00:02:45,040
+your training has been rulegoverned
+
+73
+00:02:41,680 --> 00:02:46,640
+training. We think that is very bad for
+
+74
+00:02:45,040 --> 00:02:49,440
+people who are operating at the level
+
+75
+00:02:46,640 --> 00:02:51,840
+that you're operating. Rulego training
+
+76
+00:02:49,440 --> 00:02:54,319
+is very useful for people who are, and
+
+77
+00:02:51,840 --> 00:02:56,319
+forgive me for saying this, who are
+
+78
+00:02:54,319 --> 00:02:58,640
+turnurning out a lot of writing, each of
+
+79
+00:02:56,319 --> 00:03:00,400
+which is of relatively low value. So, if
+
+80
+00:02:58,640 --> 00:03:03,040
+you're working at a business where you
+
+81
+00:03:00,400 --> 00:03:05,840
+have to write a short memo every day or
+
+82
+00:03:03,040 --> 00:03:08,239
+two to convey some information to
+
+83
+00:03:05,840 --> 00:03:09,680
+somebody, it's fine to have a rule. It's
+
+84
+00:03:08,239 --> 00:03:11,120
+fine to say, "This is what it's going to
+
+85
+00:03:09,680 --> 00:03:13,519
+look like. Here's what your sentences
+
+86
+00:03:11,120 --> 00:03:15,840
+should look like. Get it out." But that
+
+87
+00:03:13,519 --> 00:03:17,760
+is not what you're doing. That is not
+
+88
+00:03:15,840 --> 00:03:19,519
+the level of value your work has to
+
+89
+00:03:17,760 --> 00:03:20,800
+generate. And so, you one of the things
+
+90
+00:03:19,519 --> 00:03:22,720
+that I'm going to be saying to you is
+
+91
+00:03:20,800 --> 00:03:25,920
+you need to stop thinking about rules
+
+92
+00:03:22,720 --> 00:03:28,879
+and start thinking about readers.
+
+93
+00:03:25,920 --> 00:03:31,680
+So here's the problem that experts have.
+
+94
+00:03:28,879 --> 00:03:34,480
+You are in our
+
+95
+00:03:31,680 --> 00:03:36,560
+our vocabulary, you are what we call
+
+96
+00:03:34,480 --> 00:03:38,400
+expert writers.
+
+97
+00:03:36,560 --> 00:03:40,159
+What this means is not that you are
+
+98
+00:03:38,400 --> 00:03:43,120
+necessarily expert at writing, although
+
+99
+00:03:40,159 --> 00:03:45,200
+you may be extremely good at writers.
+
+100
+00:03:43,120 --> 00:03:47,760
+But what it means is that you are
+
+101
+00:03:45,200 --> 00:03:51,120
+writing about a subject at which you
+
+102
+00:03:47,760 --> 00:03:53,040
+have expert knowledge. You are not like
+
+103
+00:03:51,120 --> 00:03:56,239
+high school students who are using their
+
+104
+00:03:53,040 --> 00:03:58,319
+writing to introduce themselves to some
+
+105
+00:03:56,239 --> 00:04:01,439
+something at a fairly basic level. You
+
+106
+00:03:58,319 --> 00:04:03,599
+are operating at the most sophisticated
+
+107
+00:04:01,439 --> 00:04:05,040
+levels. When I work with faculty on this
+
+108
+00:04:03,599 --> 00:04:06,720
+and other campus, I am working with
+
+109
+00:04:05,040 --> 00:04:08,319
+people who are after all on the
+
+110
+00:04:06,720 --> 00:04:10,640
+frontiers of knowledge. They're thinking
+
+111
+00:04:08,319 --> 00:04:13,599
+stuff nobody's thought before. This is
+
+112
+00:04:10,640 --> 00:04:15,120
+very hard stuff.
+
+113
+00:04:13,599 --> 00:04:17,519
+So
+
+114
+00:04:15,120 --> 00:04:20,239
+here's what you're doing.
+
+115
+00:04:17,519 --> 00:04:23,120
+You are thinking about your world in
+
+116
+00:04:20,239 --> 00:04:25,040
+very difficult ways.
+
+117
+00:04:23,120 --> 00:04:27,360
+This is a terrifically good thing and
+
+118
+00:04:25,040 --> 00:04:29,680
+it's the source of most of the value of
+
+119
+00:04:27,360 --> 00:04:31,919
+your work.
+
+120
+00:04:29,680 --> 00:04:34,639
+Now you are also writing about that
+
+121
+00:04:31,919 --> 00:04:37,360
+world and this is where it starts a
+
+122
+00:04:34,639 --> 00:04:39,360
+problem starts arising. Unlike a
+
+123
+00:04:37,360 --> 00:04:42,400
+journalist,
+
+124
+00:04:39,360 --> 00:04:46,639
+almost surely you are using your writing
+
+125
+00:04:42,400 --> 00:04:49,040
+process to help yourself think.
+
+126
+00:04:46,639 --> 00:04:52,080
+In other words, the thinking that you're
+
+127
+00:04:49,040 --> 00:04:54,639
+doing is at such a level of complexity
+
+128
+00:04:52,080 --> 00:04:57,840
+that you have to use writing to help
+
+129
+00:04:54,639 --> 00:04:59,520
+yourself do your thinking. This is quite
+
+130
+00:04:57,840 --> 00:05:01,199
+different from high school students. My
+
+131
+00:04:59,520 --> 00:05:02,560
+high school teachers told me, Larry,
+
+132
+00:05:01,199 --> 00:05:04,160
+there are two different processes.
+
+133
+00:05:02,560 --> 00:05:06,080
+First, there's a thinking process, then
+
+134
+00:05:04,160 --> 00:05:07,440
+there's a writing process. I had a
+
+135
+00:05:06,080 --> 00:05:09,120
+teacher who said to me, "You are not
+
+136
+00:05:07,440 --> 00:05:11,600
+ready to write your first word until you
+
+137
+00:05:09,120 --> 00:05:13,520
+are finished thinking." And she said to
+
+138
+00:05:11,600 --> 00:05:15,440
+me, "To prove this to you, I'm going to
+
+139
+00:05:13,520 --> 00:05:16,720
+have you, whenever you turn in a paper,
+
+140
+00:05:15,440 --> 00:05:19,360
+I'm going to have you turn in the
+
+141
+00:05:16,720 --> 00:05:21,520
+outline you use to do your thinking."
+
+142
+00:05:19,360 --> 00:05:23,440
+This was not a problem for me. First, I
+
+143
+00:05:21,520 --> 00:05:25,039
+wrote the paper, then I wrote the
+
+144
+00:05:23,440 --> 00:05:27,280
+outline.
+
+145
+00:05:25,039 --> 00:05:29,120
+But I thought I was the only one. I
+
+146
+00:05:27,280 --> 00:05:32,560
+thought everybody else when they did
+
+147
+00:05:29,120 --> 00:05:35,680
+this thinking just, you know, thought it
+
+148
+00:05:32,560 --> 00:05:38,479
+till they were done and then their essay
+
+149
+00:05:35,680 --> 00:05:41,199
+like Athena burst from their forehead
+
+150
+00:05:38,479 --> 00:05:42,720
+onto the page. I thought I was trying to
+
+151
+00:05:41,199 --> 00:05:45,759
+keep it secret that I didn't work that
+
+152
+00:05:42,720 --> 00:05:47,280
+way. Nobody works that way. It doesn't
+
+153
+00:05:45,759 --> 00:05:48,560
+mean you don't have outlines or good
+
+154
+00:05:47,280 --> 00:05:50,000
+idea. It doesn't mean you don't take
+
+155
+00:05:48,560 --> 00:05:51,600
+notes. It's a good idea. It doesn't mean
+
+156
+00:05:50,000 --> 00:05:53,600
+you don't have other ways of thinking.
+
+157
+00:05:51,600 --> 00:05:55,680
+But you are using your writing to help
+
+158
+00:05:53,600 --> 00:05:57,199
+yourself think.
+
+159
+00:05:55,680 --> 00:05:58,639
+If you don't do this for most people,
+
+160
+00:05:57,199 --> 00:06:01,039
+you cannot think at the level you need
+
+161
+00:05:58,639 --> 00:06:02,720
+to think. Quite different say from a
+
+162
+00:06:01,039 --> 00:06:04,479
+journalist who's sitting down writing.
+
+163
+00:06:02,720 --> 00:06:07,520
+The journalist is not using the writing
+
+164
+00:06:04,479 --> 00:06:10,400
+process to think up new ideas about the
+
+165
+00:06:07,520 --> 00:06:12,000
+world. You are
+
+166
+00:06:10,400 --> 00:06:13,919
+this means you have a very different set
+
+167
+00:06:12,000 --> 00:06:16,000
+of writing challenges than anybody else
+
+168
+00:06:13,919 --> 00:06:17,840
+has. This is a course about those
+
+169
+00:06:16,000 --> 00:06:22,400
+challenges. Our program is about those
+
+170
+00:06:17,840 --> 00:06:24,880
+challenges because here's the challenge.
+
+171
+00:06:22,400 --> 00:06:26,639
+You write this text, this grant
+
+172
+00:06:24,880 --> 00:06:29,919
+proposal, this article, this
+
+173
+00:06:26,639 --> 00:06:32,000
+dissertation proposal, this book. You
+
+174
+00:06:29,919 --> 00:06:34,319
+actually generate it on the horizontal
+
+175
+00:06:32,000 --> 00:06:36,720
+axis. You actually generate the text
+
+176
+00:06:34,319 --> 00:06:38,880
+while you are doing your thinking. But
+
+177
+00:06:36,720 --> 00:06:42,080
+then you're going to send this text out
+
+178
+00:06:38,880 --> 00:06:43,440
+to readers
+
+179
+00:06:42,080 --> 00:06:45,520
+and the readers are going to look
+
+180
+00:06:43,440 --> 00:06:46,720
+through that text and if you've done
+
+181
+00:06:45,520 --> 00:06:49,520
+your job, they're going to change the
+
+182
+00:06:46,720 --> 00:06:52,400
+way they see the world. So here's the
+
+183
+00:06:49,520 --> 00:06:54,639
+problem symbolically.
+
+184
+00:06:52,400 --> 00:06:57,840
+You actually generate a text on the
+
+185
+00:06:54,639 --> 00:07:01,039
+horizontal axis, but whether it does its
+
+186
+00:06:57,840 --> 00:07:02,800
+job depends on the vertical axis.
+
+187
+00:07:01,039 --> 00:07:04,319
+And here's the problem. Very
+
+188
+00:07:02,800 --> 00:07:05,840
+predictably,
+
+189
+00:07:04,319 --> 00:07:08,720
+experts
+
+190
+00:07:05,840 --> 00:07:11,120
+use language in one set of patterns to
+
+191
+00:07:08,720 --> 00:07:14,400
+do their thinking, but those very same
+
+192
+00:07:11,120 --> 00:07:16,639
+experts read with a different pattern.
+
+193
+00:07:14,400 --> 00:07:18,560
+So here's what happens. You have used
+
+194
+00:07:16,639 --> 00:07:20,319
+your text as you must use it to help
+
+195
+00:07:18,560 --> 00:07:21,919
+yourself think, but you're going to use
+
+196
+00:07:20,319 --> 00:07:23,759
+writing patterns and language patterns
+
+197
+00:07:21,919 --> 00:07:26,400
+that interfere with the way your readers
+
+198
+00:07:23,759 --> 00:07:29,199
+read when they read, even when those
+
+199
+00:07:26,400 --> 00:07:30,639
+readers are also other experts.
+
+200
+00:07:29,199 --> 00:07:33,520
+So, you are interfering with their
+
+201
+00:07:30,639 --> 00:07:36,160
+reading process when you're writing. I
+
+202
+00:07:33,520 --> 00:07:37,680
+promise you, you are.
+
+203
+00:07:36,160 --> 00:07:40,680
+What happens to readers when you do
+
+204
+00:07:37,680 --> 00:07:40,680
+that?
+
+205
+00:07:41,120 --> 00:07:44,720
+>> The last thing they're going to do is
+
+206
+00:07:42,639 --> 00:07:46,800
+they're just going to stop. What happens
+
+207
+00:07:44,720 --> 00:07:48,080
+before then? What leads up to that
+
+208
+00:07:46,800 --> 00:07:49,919
+stopping? You're absolutely right. They
+
+209
+00:07:48,080 --> 00:07:52,720
+stop. But let's talk a little bit about
+
+210
+00:07:49,919 --> 00:07:55,440
+what leads up to it. You're writing like
+
+211
+00:07:52,720 --> 00:07:59,479
+this. They're reading like this. What's
+
+212
+00:07:55,440 --> 00:07:59,479
+the first thing that happens to them?
+
+213
+00:08:00,879 --> 00:08:04,960
+>> This has never happened to you.
+
+214
+00:08:04,160 --> 00:08:06,319
+>> I can't hear.
+
+215
+00:08:04,960 --> 00:08:09,039
+>> Cannot interrupt it. Right.
+
+216
+00:08:06,319 --> 00:08:10,800
+>> Right. So they misunderstand. That's the
+
+217
+00:08:09,039 --> 00:08:12,479
+second thing that happens. The second
+
+218
+00:08:10,800 --> 00:08:14,720
+thing that happens is you interfere.
+
+219
+00:08:12,479 --> 00:08:18,520
+They do not understand.
+
+220
+00:08:14,720 --> 00:08:18,520
+What's the first thing that happens?
+
+221
+00:08:18,720 --> 00:08:21,599
+>> They're skipping stuff.
+
+222
+00:08:20,160 --> 00:08:23,520
+>> They're skipping stuff. I'm going to put
+
+223
+00:08:21,599 --> 00:08:26,000
+that in the bucket of stopping. They
+
+224
+00:08:23,520 --> 00:08:28,960
+just either either in little ways or big
+
+225
+00:08:26,000 --> 00:08:31,520
+ways, they stop, right? What was the
+
+226
+00:08:28,960 --> 00:08:33,279
+first thing that happened?
+
+227
+00:08:31,520 --> 00:08:34,880
+This has never happened to you. You've
+
+228
+00:08:33,279 --> 00:08:36,560
+never tried to read something which was
+
+229
+00:08:34,880 --> 00:08:38,880
+clearly not written in the way you're
+
+230
+00:08:36,560 --> 00:08:40,880
+trying to read it. I bet that in the
+
+231
+00:08:38,880 --> 00:08:42,880
+last week you've written you've read
+
+232
+00:08:40,880 --> 00:08:45,120
+stuff that was not written in the way
+
+233
+00:08:42,880 --> 00:08:47,680
+you are seeking to read it. What's the
+
+234
+00:08:45,120 --> 00:08:49,040
+first thing that happens to you?
+
+235
+00:08:47,680 --> 00:08:50,240
+>> It seems
+
+236
+00:08:49,040 --> 00:08:51,680
+>> that I'm going to put that in the
+
+237
+00:08:50,240 --> 00:08:53,519
+doesn't understand bucket. See what I
+
+238
+00:08:51,680 --> 00:08:55,360
+mean? I mean I'm being crude. Pardon me.
+
+239
+00:08:53,519 --> 00:08:56,959
+>> paragraphs. You need to reread
+
+240
+00:08:55,360 --> 00:08:57,600
+paragraphs. You're reading them over and
+
+241
+00:08:56,959 --> 00:08:59,600
+over and over.
+
+242
+00:08:57,600 --> 00:09:01,200
+>> The first thing that happens is you slow
+
+243
+00:08:59,600 --> 00:09:03,360
+down.
+
+244
+00:09:01,200 --> 00:09:05,839
+And rereading is a version of slowing
+
+245
+00:09:03,360 --> 00:09:07,200
+down. You either read more slowly the
+
+246
+00:09:05,839 --> 00:09:10,000
+first time or you have to read and
+
+247
+00:09:07,200 --> 00:09:12,320
+reread and reread and reread. You slow
+
+248
+00:09:10,000 --> 00:09:14,720
+down. We're going to get back to why
+
+249
+00:09:12,320 --> 00:09:18,800
+this matters in a minute. Second, you
+
+250
+00:09:14,720 --> 00:09:21,279
+don't understand. Third,
+
+251
+00:09:18,800 --> 00:09:23,920
+come on.
+
+252
+00:09:21,279 --> 00:09:29,519
+>> You get aggravated.
+
+253
+00:09:23,920 --> 00:09:31,760
+Then you're done. Right? Done.
+
+254
+00:09:29,519 --> 00:09:34,240
+Now, when this happens to you and you
+
+255
+00:09:31,760 --> 00:09:36,080
+reread and reread, why did you do that?
+
+256
+00:09:34,240 --> 00:09:38,240
+Why didn't you just stop?
+
+257
+00:09:36,080 --> 00:09:40,560
+>> Because I need to read the content or
+
+258
+00:09:38,240 --> 00:09:43,040
+understand the content of this paper.
+
+259
+00:09:40,560 --> 00:09:44,880
+>> That's exactly right. What do you
+
+260
+00:09:43,040 --> 00:09:47,519
+suppose happens if they don't need to
+
+261
+00:09:44,880 --> 00:09:50,800
+read it?
+
+262
+00:09:47,519 --> 00:09:52,800
+>> They don't.
+
+263
+00:09:50,800 --> 00:09:55,519
+The problem is, forgive me for saying
+
+264
+00:09:52,800 --> 00:09:58,240
+this, you have no idea how to handle
+
+265
+00:09:55,519 --> 00:10:02,720
+that problem.
+
+266
+00:09:58,240 --> 00:10:04,000
+You don't. You really don't. Why not?
+
+267
+00:10:02,720 --> 00:10:06,959
+How many things have you written in your
+
+268
+00:10:04,000 --> 00:10:08,880
+life? Imagine the number of categyy
+
+269
+00:10:06,959 --> 00:10:10,800
+stuff. Forget the letters and all that
+
+270
+00:10:08,880 --> 00:10:15,360
+kind of stuff. Academicy stuff. Order of
+
+271
+00:10:10,800 --> 00:10:17,279
+magnitude. I don't know. 300 300 text.
+
+272
+00:10:15,360 --> 00:10:18,480
+Let's make it up. 500,000. I don't know
+
+273
+00:10:17,279 --> 00:10:22,800
+how many is. Let's make it up. I'll make
+
+274
+00:10:18,480 --> 00:10:25,120
+it up. 200. 200. 100. About 100. She's
+
+275
+00:10:22,800 --> 00:10:28,800
+better with 100. You've written a 100
+
+276
+00:10:25,120 --> 00:10:33,079
+academic texts in your life.
+
+277
+00:10:28,800 --> 00:10:33,079
+Did the reader stop reading them?
+
+278
+00:10:34,560 --> 00:10:36,240
+>> Did they?
+
+279
+00:10:35,519 --> 00:10:37,519
+>> Never.
+
+280
+00:10:36,240 --> 00:10:39,200
+>> No. Why not?
+
+281
+00:10:37,519 --> 00:10:40,880
+>> They were grading it.
+
+282
+00:10:39,200 --> 00:10:44,560
+>> They were grading it. Let's be a little
+
+283
+00:10:40,880 --> 00:10:47,200
+more crude about it. They were paid.
+
+284
+00:10:44,560 --> 00:10:49,839
+Oh my god. Guys, academics get all
+
+285
+00:10:47,200 --> 00:10:52,000
+freaked out when I talk about money. I
+
+286
+00:10:49,839 --> 00:10:54,959
+said, "Guys, I got news for you. Your
+
+287
+00:10:52,000 --> 00:10:58,000
+teachers read your stuff because they
+
+288
+00:10:54,959 --> 00:11:00,320
+were paid to what were your teachers
+
+289
+00:10:58,000 --> 00:11:02,640
+reading your text
+
+290
+00:11:00,320 --> 00:11:04,720
+to think about the world?
+
+291
+00:11:02,640 --> 00:11:08,800
+That's not what they're paid to do. Why
+
+292
+00:11:04,720 --> 00:11:10,959
+were your teachers reading your text?
+
+293
+00:11:08,800 --> 00:11:13,680
+Why were people paying them to do it? To
+
+294
+00:11:10,959 --> 00:11:17,160
+change the way they see the world?
+
+295
+00:11:13,680 --> 00:11:17,160
+No. Why?
+
+296
+00:11:19,680 --> 00:11:25,000
+>> Teachers
+
+297
+00:11:21,680 --> 00:11:25,000
+read texts
+
+298
+00:11:25,360 --> 00:11:29,680
+because they are paid to care about the
+
+299
+00:11:27,760 --> 00:11:31,519
+students.
+
+300
+00:11:29,680 --> 00:11:33,279
+You've learned to write in a system
+
+301
+00:11:31,519 --> 00:11:37,360
+where you're writing to readers who are
+
+302
+00:11:33,279 --> 00:11:40,839
+paid to care about you.
+
+303
+00:11:37,360 --> 00:11:40,839
+That will stop.
+
+304
+00:11:41,519 --> 00:11:46,800
+That will stop. Right?
+
+305
+00:11:44,720 --> 00:11:49,040
+That will stop. The rules that you've
+
+306
+00:11:46,800 --> 00:11:51,440
+learned about writing were rules that
+
+307
+00:11:49,040 --> 00:11:53,600
+were generated in the system where you
+
+308
+00:11:51,440 --> 00:11:56,240
+are writing to somebody who's paid to
+
+309
+00:11:53,600 --> 00:11:58,079
+care about you.
+
+310
+00:11:56,240 --> 00:12:00,079
+That's over
+
+311
+00:11:58,079 --> 00:12:01,600
+in the real in the world beyond school.
+
+312
+00:12:00,079 --> 00:12:04,160
+I call it a real world, but I'm not sure
+
+313
+00:12:01,600 --> 00:12:06,480
+it's real. It's just the world beyond
+
+314
+00:12:04,160 --> 00:12:10,079
+school. They're not paid to care about
+
+315
+00:12:06,480 --> 00:12:12,000
+you. Why are they reading
+
+316
+00:12:10,079 --> 00:12:15,360
+Why are they reading your stuff? Why
+
+317
+00:12:12,000 --> 00:12:18,680
+will they read it? The journals
+
+318
+00:12:15,360 --> 00:12:18,680
+your colleagues
+
+319
+00:12:18,720 --> 00:12:20,480
+>> if they think it's relevant for their
+
+320
+00:12:20,000 --> 00:12:22,560
+work
+
+321
+00:12:20,480 --> 00:12:24,880
+>> because they think it's valuable to
+
+322
+00:12:22,560 --> 00:12:26,880
+them.
+
+323
+00:12:24,880 --> 00:12:28,800
+How much of student work is valuable to
+
+324
+00:12:26,880 --> 00:12:31,800
+the faculty to which the students are
+
+325
+00:12:28,800 --> 00:12:31,800
+writing?
+
+326
+00:12:35,200 --> 00:12:39,120
+And by the way, some faculty who said to
+
+327
+00:12:36,959 --> 00:12:41,760
+you, "Oh, your work was so val. Thank
+
+328
+00:12:39,120 --> 00:12:44,160
+you." They were lying.
+
+329
+00:12:41,760 --> 00:12:45,680
+No, they were lying. It was valuable to
+
+330
+00:12:44,160 --> 00:12:47,120
+them, but it was valuable to them
+
+331
+00:12:45,680 --> 00:12:48,720
+because they learned that people
+
+332
+00:12:47,120 --> 00:12:52,079
+misunderstood things in ways they had no
+
+333
+00:12:48,720 --> 00:12:54,800
+idea people could misunderstand.
+
+334
+00:12:52,079 --> 00:12:55,920
+Hm. Faculty sometimes look at me and
+
+335
+00:12:54,800 --> 00:12:57,680
+say, "Oh, no, no, Larry, you're wrong."
+
+336
+00:12:55,920 --> 00:12:59,680
+"No, no, no. Student writing is actually
+
+337
+00:12:57,680 --> 00:13:02,800
+actually professionally valuable." I
+
+338
+00:12:59,680 --> 00:13:05,920
+say, "Then did you publish it?"
+
+339
+00:13:02,800 --> 00:13:07,200
+Then if you didn't, it's plagiarism.
+
+340
+00:13:05,920 --> 00:13:09,920
+And they say, "Well, no, actually, it
+
+341
+00:13:07,200 --> 00:13:12,880
+wasn't that valuable." Look, here's the
+
+342
+00:13:09,920 --> 00:13:15,519
+problem you've got. Yeah. Your writing
+
+343
+00:13:12,880 --> 00:13:18,079
+needs to be clear. Sure. Your writing
+
+344
+00:13:15,519 --> 00:13:19,760
+needs to be organized.
+
+345
+00:13:18,079 --> 00:13:20,959
+The rules that govern this are not what
+
+346
+00:13:19,760 --> 00:13:22,560
+you think they are. In fact, they're not
+
+347
+00:13:20,959 --> 00:13:24,320
+rules.
+
+348
+00:13:22,560 --> 00:13:26,160
+Yes, your writing needs to be
+
+349
+00:13:24,320 --> 00:13:28,639
+persuasive. This is way more important
+
+350
+00:13:26,160 --> 00:13:32,000
+than this. But more than anything else,
+
+351
+00:13:28,639 --> 00:13:34,000
+from now on, your writing needs to be
+
+352
+00:13:32,000 --> 00:13:35,519
+valuable
+
+353
+00:13:34,000 --> 00:13:38,160
+because if it's not that, nothing else
+
+354
+00:13:35,519 --> 00:13:41,279
+matters. It makes zero difference.
+
+355
+00:13:38,160 --> 00:13:43,279
+Faculty come into my office
+
+356
+00:13:41,279 --> 00:13:45,360
+and forgive me for the drama, but in my
+
+357
+00:13:43,279 --> 00:13:46,639
+office there's two chairs in the writing
+
+358
+00:13:45,360 --> 00:13:48,000
+corner. I have a chair at my desk and
+
+359
+00:13:46,639 --> 00:13:49,360
+then there's two chairs over here.
+
+360
+00:13:48,000 --> 00:13:50,959
+There's my chair and then there's a
+
+361
+00:13:49,360 --> 00:13:54,320
+writer's chair. And next to the writer's
+
+362
+00:13:50,959 --> 00:13:56,560
+chair is a box of Kleenex.
+
+363
+00:13:54,320 --> 00:13:57,920
+And I'm not kidding
+
+364
+00:13:56,560 --> 00:13:59,760
+because I have people coming to me
+
+365
+00:13:57,920 --> 00:14:01,600
+saying I'm not getting they're not
+
+366
+00:13:59,760 --> 00:14:04,160
+accepting my proposal. They're not
+
+367
+00:14:01,600 --> 00:14:06,399
+accepting my draft. I get faculty who
+
+368
+00:14:04,160 --> 00:14:09,279
+come in and say they're not publishing
+
+369
+00:14:06,399 --> 00:14:11,680
+my work. And of course there's Kleenex
+
+370
+00:14:09,279 --> 00:14:13,920
+there because like you know careers are
+
+371
+00:14:11,680 --> 00:14:15,680
+depending on it.
+
+372
+00:14:13,920 --> 00:14:17,120
+And sometimes it's because it's not
+
+373
+00:14:15,680 --> 00:14:18,639
+clear. And sometimes it's because it's
+
+374
+00:14:17,120 --> 00:14:20,079
+not organized. And sometimes it's
+
+375
+00:14:18,639 --> 00:14:21,839
+because it's not persuasive. But
+
+376
+00:14:20,079 --> 00:14:24,480
+overwhelmingly,
+
+377
+00:14:21,839 --> 00:14:27,120
+it's because it's not valuable.
+
+378
+00:14:24,480 --> 00:14:30,480
+And the other stuff doesn't matter. If
+
+379
+00:14:27,120 --> 00:14:32,160
+it's clear and useless, it's useless.
+
+380
+00:14:30,480 --> 00:14:34,880
+It's organized and useless, it's
+
+381
+00:14:32,160 --> 00:14:37,120
+useless. It's persuasive and useless,
+
+382
+00:14:34,880 --> 00:14:39,839
+it's useless.
+
+383
+00:14:37,120 --> 00:14:43,440
+That's the way it is.
+
+384
+00:14:39,839 --> 00:14:44,959
+Now, this terrifies people because they
+
+385
+00:14:43,440 --> 00:14:47,199
+make the mistake. Fortunately, I'm
+
+386
+00:14:44,959 --> 00:14:50,000
+talking to social scientists. Physical
+
+387
+00:14:47,199 --> 00:14:52,800
+scientists don't have this mistake.
+
+388
+00:14:50,000 --> 00:14:54,720
+They think value lies here.
+
+389
+00:14:52,800 --> 00:14:58,880
+They think, "Oh my god, what if my ideas
+
+390
+00:14:54,720 --> 00:15:01,680
+just aren't valuable?" That's a dopey.
+
+391
+00:14:58,880 --> 00:15:04,160
+There's no such thing as value here.
+
+392
+00:15:01,680 --> 00:15:06,000
+Value's here.
+
+393
+00:15:04,160 --> 00:15:08,399
+The question is whether this particular
+
+394
+00:15:06,000 --> 00:15:10,240
+community of readers values it, which is
+
+395
+00:15:08,399 --> 00:15:12,560
+why it's so much about readers and not
+
+396
+00:15:10,240 --> 00:15:15,279
+about content. Can you imagine writing a
+
+397
+00:15:12,560 --> 00:15:17,279
+text which one group of readers thinks
+
+398
+00:15:15,279 --> 00:15:19,680
+is terrifically useful and another group
+
+399
+00:15:17,279 --> 00:15:22,880
+of readers thinks is useless? Well,
+
+400
+00:15:19,680 --> 00:15:24,800
+yeah. I got to tell you, sometimes PhD
+
+401
+00:15:22,880 --> 00:15:26,000
+students come into my office and say, "I
+
+402
+00:15:24,800 --> 00:15:27,360
+really got to get this article
+
+403
+00:15:26,000 --> 00:15:28,720
+published. I'm under so much pressure to
+
+404
+00:15:27,360 --> 00:15:30,160
+publish. I got to publish." And I say,
+
+405
+00:15:28,720 --> 00:15:31,920
+"Okay, what journals are you going to
+
+406
+00:15:30,160 --> 00:15:35,800
+submit it to?" and they look at me and
+
+407
+00:15:31,920 --> 00:15:35,800
+say,"What does that matter?"
+
+408
+00:15:37,760 --> 00:15:41,360
+Because they think it needs to be clear.
+
+409
+00:15:39,920 --> 00:15:42,560
+It needs to be organized. It needs to be
+
+410
+00:15:41,360 --> 00:15:44,480
+persuasive. And those are just sort of
+
+411
+00:15:42,560 --> 00:15:47,279
+in the thing itself or anybody could
+
+412
+00:15:44,480 --> 00:15:49,519
+look at it and decide it's clear. That's
+
+413
+00:15:47,279 --> 00:15:53,199
+crazy wrong. But most importantly is
+
+414
+00:15:49,519 --> 00:15:55,440
+valuable. Value lies in readers, right?
+
+415
+00:15:53,199 --> 00:15:57,440
+Not in the thing.
+
+416
+00:15:55,440 --> 00:15:59,600
+And so how people can think about their
+
+417
+00:15:57,440 --> 00:16:02,079
+writing without thinking about readers
+
+418
+00:15:59,600 --> 00:16:04,160
+is probably the biggest challenge you
+
+419
+00:16:02,079 --> 00:16:07,759
+face. You've been trained to think about
+
+420
+00:16:04,160 --> 00:16:09,920
+writing formally rule governed.
+
+421
+00:16:07,759 --> 00:16:13,839
+You have to stop and you have to think
+
+422
+00:16:09,920 --> 00:16:15,440
+about readers, not generic readers. God
+
+423
+00:16:13,839 --> 00:16:17,519
+help you if you came up in a system with
+
+424
+00:16:15,440 --> 00:16:21,519
+standardized tests where you had to
+
+425
+00:16:17,519 --> 00:16:25,199
+write papers for a standardized reader
+
+426
+00:16:21,519 --> 00:16:26,720
+like on an AP test or an SAT test.
+
+427
+00:16:25,199 --> 00:16:28,560
+That's disastrous because it
+
+428
+00:16:26,720 --> 00:16:30,800
+specifically teaches you not to think
+
+429
+00:16:28,560 --> 00:16:32,079
+about any differences between readers.
+
+430
+00:16:30,800 --> 00:16:34,240
+We are going to be talking about
+
+431
+00:16:32,079 --> 00:16:36,399
+differences between readers and thinking
+
+432
+00:16:34,240 --> 00:16:38,560
+about those differences because that's
+
+433
+00:16:36,399 --> 00:16:40,320
+what I think is how writing actually
+
+434
+00:16:38,560 --> 00:16:42,880
+works except in the bizarre world of
+
+435
+00:16:40,320 --> 00:16:44,480
+standardized testing. So, I'm going to
+
+436
+00:16:42,880 --> 00:16:47,759
+pass these out.
+
+437
+00:16:44,480 --> 00:16:49,920
+>> I wanted to hear.
+
+438
+00:16:47,759 --> 00:16:52,480
+>> Okay, turn to the first page. And here's
+
+439
+00:16:49,920 --> 00:16:55,440
+what I want to do very quickly. I want
+
+440
+00:16:52,480 --> 00:16:57,839
+to imagine that this is a group of uh by
+
+441
+00:16:55,440 --> 00:16:59,199
+the way, any biologists in the group?
+
+442
+00:16:57,839 --> 00:17:01,920
+Wonderful. Because biologists have to
+
+443
+00:16:59,199 --> 00:17:03,759
+leave. Um, no, this is a this is a this
+
+444
+00:17:01,920 --> 00:17:05,199
+is a a test about it has to do with
+
+445
+00:17:03,759 --> 00:17:06,720
+content has to do with biology. And I
+
+446
+00:17:05,199 --> 00:17:08,240
+don't want you to know anything about it
+
+447
+00:17:06,720 --> 00:17:10,400
+because I want you to be responding to
+
+448
+00:17:08,240 --> 00:17:11,520
+the language, the writing of it. So,
+
+449
+00:17:10,400 --> 00:17:14,000
+here's what I'm going to ask you to do.
+
+450
+00:17:11,520 --> 00:17:16,799
+We're going to read two imagined uh
+
+451
+00:17:14,000 --> 00:17:18,079
+contenders for a grant or publication,
+
+452
+00:17:16,799 --> 00:17:20,720
+and we're going to decide which of these
+
+453
+00:17:18,079 --> 00:17:22,160
+two we're going to publish. Okay? I'm
+
+454
+00:17:20,720 --> 00:17:25,120
+going to read. You stay with me as I
+
+455
+00:17:22,160 --> 00:17:27,439
+read. 1. A. As a consequence of the cost
+
+456
+00:17:25,120 --> 00:17:29,360
+of sex, the theoretical probability of
+
+457
+00:17:27,439 --> 00:17:32,400
+clonal and sexual coexistence is low.
+
+458
+00:17:29,360 --> 00:17:34,240
+This is not sociology. This is biology.
+
+459
+00:17:32,400 --> 00:17:36,400
+As a consequence of the cost of sex, the
+
+460
+00:17:34,240 --> 00:17:38,160
+theoretical probability and clonal of
+
+461
+00:17:36,400 --> 00:17:40,240
+clonal and sexual coexistence is low.
+
+462
+00:17:38,160 --> 00:17:42,720
+Observation of coexistence in vertebrae
+
+463
+00:17:40,240 --> 00:17:44,480
+taxa has been reported within the frozen
+
+464
+00:17:42,720 --> 00:17:46,240
+niche variation model. The relevant
+
+465
+00:17:44,480 --> 00:17:48,160
+parameter is difference in overall niche
+
+466
+00:17:46,240 --> 00:17:49,840
+breadth. A wider niche breath for the
+
+467
+00:17:48,160 --> 00:17:51,520
+sexuals and for the clones is predicted
+
+468
+00:17:49,840 --> 00:17:52,880
+in performances in monocultures.
+
+469
+00:17:51,520 --> 00:17:55,200
+Performances and mixtures do not
+
+470
+00:17:52,880 --> 00:17:56,960
+indicate such a relationship. Switching
+
+471
+00:17:55,200 --> 00:17:58,559
+of behaviors or resource use patterns
+
+472
+00:17:56,960 --> 00:18:00,880
+between mixed and pure cultures may be
+
+473
+00:17:58,559 --> 00:18:03,200
+the cause. Post study will examine the
+
+474
+00:18:00,880 --> 00:18:04,559
+predictions of the FNB model. Okay, as
+
+475
+00:18:03,200 --> 00:18:07,440
+again I hope you didn't understand any
+
+476
+00:18:04,559 --> 00:18:09,200
+of that. 1B. As a consequence of the
+
+477
+00:18:07,440 --> 00:18:11,679
+cost of sex, the theoretical probability
+
+478
+00:18:09,200 --> 00:18:13,600
+of clonal and sexual coexistence is low.
+
+479
+00:18:11,679 --> 00:18:15,360
+Nonetheless, observation of coexistence
+
+480
+00:18:13,600 --> 00:18:17,679
+in vertebrae taxa has been widely
+
+481
+00:18:15,360 --> 00:18:19,760
+reported. Within the accepted model of
+
+482
+00:18:17,679 --> 00:18:21,440
+frozen niche variation, coexistence is
+
+483
+00:18:19,760 --> 00:18:23,679
+explained by difference in overall niche
+
+484
+00:18:21,440 --> 00:18:25,280
+breadth. However, although the FNV model
+
+485
+00:18:23,679 --> 00:18:26,799
+correctly predicts wider niche breadth
+
+486
+00:18:25,280 --> 00:18:28,160
+for the sexuals and for the clones, its
+
+487
+00:18:26,799 --> 00:18:30,400
+predictions are inconsistent with
+
+488
+00:18:28,160 --> 00:18:32,080
+reported performances in mixtures. The
+
+489
+00:18:30,400 --> 00:18:33,360
+proposed study will examine whether the
+
+490
+00:18:32,080 --> 00:18:34,960
+anomaly may be explained by the
+
+491
+00:18:33,360 --> 00:18:36,240
+switching of behaviors or research use
+
+492
+00:18:34,960 --> 00:18:37,520
+patterns between mixed and pure
+
+493
+00:18:36,240 --> 00:18:39,919
+cultures. Which of these were going to
+
+494
+00:18:37,520 --> 00:18:44,960
+be more likely to fund? Second one, of
+
+495
+00:18:39,919 --> 00:18:46,880
+course, why? Now, tell me why.
+
+496
+00:18:44,960 --> 00:18:47,919
+>> It laid out why their work was important
+
+497
+00:18:46,880 --> 00:18:50,320
+or how it
+
+498
+00:18:47,919 --> 00:18:55,880
+>> Okay, I'm going to I'm going to be
+
+499
+00:18:50,320 --> 00:18:55,880
+really big on particular words, right?
+
+500
+00:18:56,240 --> 00:19:02,000
+Important.
+
+501
+00:18:58,720 --> 00:19:05,600
+Right. the first thing you said. Now
+
+502
+00:19:02,000 --> 00:19:08,080
+imagine if you're the writer of 1A
+
+503
+00:19:05,600 --> 00:19:10,799
+and we said to her, "Your work doesn't
+
+504
+00:19:08,080 --> 00:19:13,280
+seem important."
+
+505
+00:19:10,799 --> 00:19:14,960
+What's her likely response?
+
+506
+00:19:13,280 --> 00:19:18,640
+>> You obviously didn't understand.
+
+507
+00:19:14,960 --> 00:19:22,720
+>> You obviously didn't understand it. And
+
+508
+00:19:18,640 --> 00:19:25,919
+we said, "All right, fix it.
+
+509
+00:19:22,720 --> 00:19:29,280
+Make it better. What is this is crucial.
+
+510
+00:19:25,919 --> 00:19:32,080
+What is that writer likely to do if we
+
+511
+00:19:29,280 --> 00:19:34,400
+said we didn't it's not important and
+
+512
+00:19:32,080 --> 00:19:37,280
+the writer thinks you didn't understand
+
+513
+00:19:34,400 --> 00:19:40,320
+it. They're about to make a gigantic
+
+514
+00:19:37,280 --> 00:19:41,760
+mistake because they would do what?
+
+515
+00:19:40,320 --> 00:19:44,320
+>> What do you do when somebody says to
+
+516
+00:19:41,760 --> 00:19:46,320
+you, "I don't understand."
+
+517
+00:19:44,320 --> 00:19:49,090
+>> You explain.
+
+518
+00:19:46,320 --> 00:19:53,040
+Do not do that.
+
+519
+00:19:49,090 --> 00:19:53,040
+[Laughter]
+
+520
+00:19:53,200 --> 00:19:57,760
+You think I'm kidding?
+
+521
+00:19:55,840 --> 00:19:59,200
+Why do I not want you to explain? And by
+
+522
+00:19:57,760 --> 00:20:01,360
+the way, why did your teachers want you
+
+523
+00:19:59,200 --> 00:20:02,640
+to explain?
+
+524
+00:20:01,360 --> 00:20:04,240
+Why did your teachers want you to
+
+525
+00:20:02,640 --> 00:20:05,520
+explain stuff?
+
+526
+00:20:04,240 --> 00:20:06,240
+>> They want to know what you're what
+
+527
+00:20:05,520 --> 00:20:08,160
+you're thinking.
+
+528
+00:20:06,240 --> 00:20:11,280
+>> Because they wanted to know whether you
+
+529
+00:20:08,160 --> 00:20:13,440
+understood it. You guys don't know how
+
+530
+00:20:11,280 --> 00:20:15,120
+to explain stuff. You explain stuff
+
+531
+00:20:13,440 --> 00:20:16,799
+under the model of demonstrating to
+
+532
+00:20:15,120 --> 00:20:18,640
+somebody that you understand it. That's
+
+533
+00:20:16,799 --> 00:20:20,080
+how you've learned to explain. You don't
+
+534
+00:20:18,640 --> 00:20:22,400
+even know. You know that you've done
+
+535
+00:20:20,080 --> 00:20:24,880
+this. You have learned that what
+
+536
+00:20:22,400 --> 00:20:28,559
+explaining is, it's revealing to the
+
+537
+00:20:24,880 --> 00:20:31,520
+world the inside of your head.
+
+538
+00:20:28,559 --> 00:20:33,760
+No one cares about the inside of your
+
+539
+00:20:31,520 --> 00:20:37,840
+head.
+
+540
+00:20:33,760 --> 00:20:41,440
+At least not unless you pay us.
+
+541
+00:20:37,840 --> 00:20:43,039
+If you pay us to care, we will care,
+
+542
+00:20:41,440 --> 00:20:44,960
+right?
+
+543
+00:20:43,039 --> 00:20:47,360
+But in the real world, you're going to
+
+544
+00:20:44,960 --> 00:20:50,640
+stop paying your readers to care about
+
+545
+00:20:47,360 --> 00:20:53,039
+the inside of your head. Here's a shock.
+
+546
+00:20:50,640 --> 00:20:56,159
+You think writing
+
+547
+00:20:53,039 --> 00:20:58,240
+is conveying your ideas.
+
+548
+00:20:56,159 --> 00:21:01,679
+It's not.
+
+549
+00:20:58,240 --> 00:21:05,760
+Let me say that again. You think that
+
+550
+00:21:01,679 --> 00:21:10,240
+writing is communicating your ideas to
+
+551
+00:21:05,760 --> 00:21:11,440
+your readers. It is not.
+
+552
+00:21:10,240 --> 00:21:15,200
+What is professional writing?
+
+553
+00:21:11,440 --> 00:21:17,760
+Professional writing. What is it?
+
+554
+00:21:15,200 --> 00:21:20,760
+It's not conveying your ideas to your
+
+555
+00:21:17,760 --> 00:21:20,760
+readers.
+
+556
+00:21:22,640 --> 00:21:31,240
+>> It's changing their ideas.
+
+557
+00:21:26,559 --> 00:21:31,240
+Nobody cares what ideas you have.
+
+558
+00:21:33,600 --> 00:21:39,039
+This is way more radical than it sounds.
+
+559
+00:21:37,360 --> 00:21:40,799
+I used to make the mistake of saying to
+
+560
+00:21:39,039 --> 00:21:42,799
+students who came in I teach argument a
+
+561
+00:21:40,799 --> 00:21:45,280
+lot and I say to students who make an
+
+562
+00:21:42,799 --> 00:21:47,760
+argument why do you think that and then
+
+563
+00:21:45,280 --> 00:21:50,559
+I realize this is a horrible question
+
+564
+00:21:47,760 --> 00:21:51,840
+it's a teacherly question a teacher says
+
+565
+00:21:50,559 --> 00:21:54,720
+why do you think that because the
+
+566
+00:21:51,840 --> 00:21:57,440
+teacher wants to know what what's in his
+
+567
+00:21:54,720 --> 00:21:59,760
+head I said oh my god I'm doing the same
+
+568
+00:21:57,440 --> 00:22:02,320
+thing so now I don't say to him why do
+
+569
+00:21:59,760 --> 00:22:04,240
+you think that I say now why should I
+
+570
+00:22:02,320 --> 00:22:07,360
+think that
+
+571
+00:22:04,240 --> 00:22:10,880
+>> because I think that
+
+572
+00:22:07,360 --> 00:22:12,559
+And guess what? That doesn't work.
+
+573
+00:22:10,880 --> 00:22:13,919
+Right? Which is interesting. Why it
+
+574
+00:22:12,559 --> 00:22:17,039
+doesn't work in academia? Why doesn't it
+
+575
+00:22:13,919 --> 00:22:18,320
+work in academia? Why doesn't that work
+
+576
+00:22:17,039 --> 00:22:20,320
+of professionals? This is a great
+
+577
+00:22:18,320 --> 00:22:21,600
+question, right? Why is it that I don't
+
+578
+00:22:20,320 --> 00:22:23,919
+say, "Okay, you think it, I'll think
+
+579
+00:22:21,600 --> 00:22:25,840
+it." Why does it not work in I mean, at
+
+580
+00:22:23,919 --> 00:22:27,440
+least it's not supposed to work in
+
+581
+00:22:25,840 --> 00:22:30,720
+sometimes it works. But why is it not
+
+582
+00:22:27,440 --> 00:22:32,880
+supposed to work in an academic realm?
+
+583
+00:22:30,720 --> 00:22:33,600
+>> Because we are all stubborn.
+
+584
+00:22:32,880 --> 00:22:36,240
+>> Because what?
+
+585
+00:22:33,600 --> 00:22:37,760
+>> We all stubborn. Well, that's probably
+
+586
+00:22:36,240 --> 00:22:39,120
+why it does work, but that's not why
+
+587
+00:22:37,760 --> 00:22:40,400
+it's supposed to work.
+
+588
+00:22:39,120 --> 00:22:42,000
+>> It's new.
+
+589
+00:22:40,400 --> 00:22:42,559
+>> Supposed to critically examine
+
+590
+00:22:42,000 --> 00:22:45,200
+everything
+
+591
+00:22:42,559 --> 00:22:46,960
+>> because there's a rule of Western
+
+592
+00:22:45,200 --> 00:22:48,880
+academia.
+
+593
+00:22:46,960 --> 00:22:51,200
+It's rule that's of course broken in the
+
+594
+00:22:48,880 --> 00:22:54,159
+breach a million times. But the rule
+
+595
+00:22:51,200 --> 00:22:57,120
+says nothing will be accepted as
+
+596
+00:22:54,159 --> 00:22:59,120
+knowledge or understanding until it has
+
+597
+00:22:57,120 --> 00:23:01,360
+been challenged by someone competent to
+
+598
+00:22:59,120 --> 00:23:03,440
+challenge it.
+
+599
+00:23:01,360 --> 00:23:05,840
+That's the rule.
+
+600
+00:23:03,440 --> 00:23:09,840
+This is very important because it
+
+601
+00:23:05,840 --> 00:23:12,080
+changes your readers. Look,
+
+602
+00:23:09,840 --> 00:23:14,000
+teachers read because they're paid to
+
+603
+00:23:12,080 --> 00:23:16,080
+care about writers.
+
+604
+00:23:14,000 --> 00:23:18,080
+Some readers in the world in many cases
+
+605
+00:23:16,080 --> 00:23:19,679
+read to find out information they need.
+
+606
+00:23:18,080 --> 00:23:20,799
+If you go to somebody on the quad and
+
+607
+00:23:19,679 --> 00:23:22,640
+say, "Excuse me," or somebody stops you
+
+608
+00:23:20,799 --> 00:23:25,120
+on the quad and says, "Excuse me, can
+
+609
+00:23:22,640 --> 00:23:27,120
+you tell me how to get to the library?"
+
+610
+00:23:25,120 --> 00:23:29,360
+And you say, "Okay, yeah, go over there
+
+611
+00:23:27,120 --> 00:23:33,280
+and turn right and go up there." They
+
+612
+00:23:29,360 --> 00:23:36,159
+don't say, "Well, I doubt that.
+
+613
+00:23:33,280 --> 00:23:39,200
+because they're not they don't as
+
+614
+00:23:36,159 --> 00:23:42,000
+readers have the function of challenging
+
+615
+00:23:39,200 --> 00:23:44,720
+what you say. But at least in theory and
+
+616
+00:23:42,000 --> 00:23:46,640
+in a lot of practice, your readers are
+
+617
+00:23:44,720 --> 00:23:50,080
+different from those readers on the quad
+
+618
+00:23:46,640 --> 00:23:52,159
+and they're way different from teachers.
+
+619
+00:23:50,080 --> 00:23:56,159
+Your readers have the professional
+
+620
+00:23:52,159 --> 00:24:00,320
+function of challenging what you say.
+
+621
+00:23:56,159 --> 00:24:04,400
+So explaining turns out only to happen
+
+622
+00:24:00,320 --> 00:24:08,000
+inside of these two functions. You only
+
+623
+00:24:04,400 --> 00:24:11,120
+explain inside of value having been
+
+624
+00:24:08,000 --> 00:24:14,320
+generated and persuasion having begun.
+
+625
+00:24:11,120 --> 00:24:19,360
+It is an enormous mistake of PhD level
+
+626
+00:24:14,320 --> 00:24:20,960
+writers that they try to explain first.
+
+627
+00:24:19,360 --> 00:24:22,320
+And I know why you try to explain first.
+
+628
+00:24:20,960 --> 00:24:24,159
+Because in school they just wanted you
+
+629
+00:24:22,320 --> 00:24:26,159
+to explain first because the whole thing
+
+630
+00:24:24,159 --> 00:24:28,159
+was just about seeing what you know.
+
+631
+00:24:26,159 --> 00:24:29,679
+Start explaining. Line one classic
+
+632
+00:24:28,159 --> 00:24:30,960
+thing. Begin with the definition.
+
+633
+00:24:29,679 --> 00:24:32,640
+Teachers love this. Begin with the
+
+634
+00:24:30,960 --> 00:24:35,600
+definition because it tells the teachers
+
+635
+00:24:32,640 --> 00:24:38,320
+that you what you know the definition.
+
+636
+00:24:35,600 --> 00:24:42,480
+Don't begin with definition guys. All
+
+637
+00:24:38,320 --> 00:24:45,039
+right. So back to B.
+
+638
+00:24:42,480 --> 00:24:47,919
+How you going to make it important? How
+
+639
+00:24:45,039 --> 00:24:52,039
+do you make it important?
+
+640
+00:24:47,919 --> 00:24:52,039
+Now, the second word you said,
+
+641
+00:24:52,080 --> 00:24:57,039
+>> oh no, that's a terrible word.
+
+642
+00:24:55,039 --> 00:25:02,279
+Do me a favor. Do me a favor. Take the
+
+643
+00:24:57,039 --> 00:25:02,279
+word new or worse, original.
+
+644
+00:25:03,279 --> 00:25:06,799
+If you think that you're here to do new
+
+645
+00:25:04,640 --> 00:25:08,559
+and original work, if you would find the
+
+646
+00:25:06,799 --> 00:25:11,840
+syninnapse in your brain that is storing
+
+647
+00:25:08,559 --> 00:25:13,440
+those words, kill it.
+
+648
+00:25:11,840 --> 00:25:15,360
+No. And people say to me, "Oh, does that
+
+649
+00:25:13,440 --> 00:25:16,880
+mean I'm here to do non-original work?"
+
+650
+00:25:15,360 --> 00:25:18,240
+No.
+
+651
+00:25:16,880 --> 00:25:21,840
+But you are not here to do original
+
+652
+00:25:18,240 --> 00:25:24,480
+work. You are here to do valuable work.
+
+653
+00:25:21,840 --> 00:25:26,159
+What's the difference?
+
+654
+00:25:24,480 --> 00:25:29,679
+You think you're here to create new
+
+655
+00:25:26,159 --> 00:25:31,279
+knowledge? Well, you know how hard it is
+
+656
+00:25:29,679 --> 00:25:33,279
+to create new knowledge. We can create
+
+657
+00:25:31,279 --> 00:25:34,559
+new knowledge in the next 30 seconds.
+
+658
+00:25:33,279 --> 00:25:36,640
+All we have to do is count up the number
+
+659
+00:25:34,559 --> 00:25:37,919
+of people who are in this room because
+
+660
+00:25:36,640 --> 00:25:40,799
+nobody in the world knows how many
+
+661
+00:25:37,919 --> 00:25:42,880
+people are in this room.
+
+662
+00:25:40,799 --> 00:25:44,159
+No one knows. And we will create new
+
+663
+00:25:42,880 --> 00:25:45,039
+knowledge right now. We'll just count
+
+664
+00:25:44,159 --> 00:25:47,840
+the people in this room. We'll say,
+
+665
+00:25:45,039 --> 00:25:51,919
+"Okay, now we know." Is anybody going to
+
+666
+00:25:47,840 --> 00:25:54,080
+read that paper? Why not?
+
+667
+00:25:51,919 --> 00:25:57,120
+They're going to say, "Who cares how
+
+668
+00:25:54,080 --> 00:25:58,880
+many people are in that room?" Dear
+
+669
+00:25:57,120 --> 00:26:00,720
+friend of mine, when I was a PhD student
+
+670
+00:25:58,880 --> 00:26:02,240
+here,
+
+671
+00:26:00,720 --> 00:26:04,559
+discovered
+
+672
+00:26:02,240 --> 00:26:07,279
+journals written by a woman in the late
+
+673
+00:26:04,559 --> 00:26:08,880
+part of the 19th century
+
+674
+00:26:07,279 --> 00:26:10,640
+in England. She traveled around the
+
+675
+00:26:08,880 --> 00:26:12,960
+world and every year she wrote a journal
+
+676
+00:26:10,640 --> 00:26:15,120
+and somehow they ended up in a library
+
+677
+00:26:12,960 --> 00:26:16,880
+in Norwich. and she was over in Norwich
+
+678
+00:26:15,120 --> 00:26:18,240
+one day and she stumbled into a back
+
+679
+00:26:16,880 --> 00:26:19,679
+room and there's all these journals with
+
+680
+00:26:18,240 --> 00:26:20,960
+tons of dust on them. She blew up the
+
+681
+00:26:19,679 --> 00:26:22,080
+dust and she said, "My gosh, it's
+
+682
+00:26:20,960 --> 00:26:23,440
+amazing. This woman traveled the world
+
+683
+00:26:22,080 --> 00:26:25,760
+for 30 years and wrote a journal every
+
+684
+00:26:23,440 --> 00:26:27,840
+time you travel." She came back here,
+
+685
+00:26:25,760 --> 00:26:29,679
+wrote up a grant and said, "Whoa, I want
+
+686
+00:26:27,840 --> 00:26:30,960
+to spend three months studying this."
+
+687
+00:26:29,679 --> 00:26:32,159
+And she got her money and she went over
+
+688
+00:26:30,960 --> 00:26:33,279
+to Norwich and she spent three months
+
+689
+00:26:32,159 --> 00:26:34,720
+and she read the whole thing and she
+
+690
+00:26:33,279 --> 00:26:36,000
+wrote it all up and she handed it to a
+
+691
+00:26:34,720 --> 00:26:37,360
+committee and in an hour and a half they
+
+692
+00:26:36,000 --> 00:26:39,600
+sent it back and they said, "You've got
+
+693
+00:26:37,360 --> 00:26:40,799
+to be kidding."
+
+694
+00:26:39,600 --> 00:26:41,760
+She said, "Well, I'm going to get my
+
+695
+00:26:40,799 --> 00:26:43,120
+dissertation. I'm going to get green
+
+696
+00:26:41,760 --> 00:26:44,720
+now, right?" They said, "You've got to
+
+697
+00:26:43,120 --> 00:26:47,760
+be kidding. Of course, we're not going
+
+698
+00:26:44,720 --> 00:26:50,080
+to give you your PhD." And she said,
+
+699
+00:26:47,760 --> 00:26:52,400
+"But but but but but nobody in the world
+
+700
+00:26:50,080 --> 00:26:54,720
+knew what this woman said, right?" They
+
+701
+00:26:52,400 --> 00:27:01,360
+said, "And we still wish we didn't know
+
+702
+00:26:54,720 --> 00:27:04,159
+what she said because we do not care."
+
+703
+00:27:01,360 --> 00:27:06,400
+And she said, "But it's original
+
+704
+00:27:04,159 --> 00:27:09,120
+research."
+
+705
+00:27:06,400 --> 00:27:12,159
+She said, "I guarantee you it's new."
+
+706
+00:27:09,120 --> 00:27:14,320
+And they said, "That's right. It's new
+
+707
+00:27:12,159 --> 00:27:17,600
+and it's original,
+
+708
+00:27:14,320 --> 00:27:20,159
+but it is not knowledge.
+
+709
+00:27:17,600 --> 00:27:22,080
+And she said, "That's ridiculous. It has
+
+710
+00:27:20,159 --> 00:27:25,080
+to be knowledge." No, it's not
+
+711
+00:27:22,080 --> 00:27:25,080
+ridiculous.
+
+712
+00:27:26,080 --> 00:27:32,080
+She was living in a positivistic world
+
+713
+00:27:29,360 --> 00:27:34,799
+where knowledge looks like this. In a
+
+714
+00:27:32,080 --> 00:27:37,600
+positivistic world, knowledge is just
+
+715
+00:27:34,799 --> 00:27:39,279
+built up over time. And anytime you find
+
+716
+00:27:37,600 --> 00:27:42,000
+out something that people didn't know,
+
+717
+00:27:39,279 --> 00:27:43,520
+you get to just add up to this model and
+
+718
+00:27:42,000 --> 00:27:46,080
+knowledge just keeps on growing and
+
+719
+00:27:43,520 --> 00:27:50,000
+everybody's happy. And that is dead.
+
+720
+00:27:46,080 --> 00:27:53,320
+Dead. Well, mostly dead. Here's the
+
+721
+00:27:50,000 --> 00:27:53,320
+model. Now,
+
+722
+00:27:54,960 --> 00:28:00,080
+sorry. These are people.
+
+723
+00:27:57,840 --> 00:28:02,960
+These are human beings. There are
+
+724
+00:28:00,080 --> 00:28:05,039
+conversations moving through time and
+
+725
+00:28:02,960 --> 00:28:07,760
+there's a bunch of people and they get
+
+726
+00:28:05,039 --> 00:28:09,760
+to say what knowledge is and that
+
+727
+00:28:07,760 --> 00:28:13,760
+horrifies you. Why would those people
+
+728
+00:28:09,760 --> 00:28:15,520
+get to say? Why did they get to say?
+
+729
+00:28:13,760 --> 00:28:18,110
+Especially because historically, of
+
+730
+00:28:15,520 --> 00:28:20,240
+course, they've looked just like me.
+
+731
+00:28:18,110 --> 00:28:22,159
+[Laughter]
+
+732
+00:28:20,240 --> 00:28:28,360
+As my niece says to me every time she
+
+733
+00:28:22,159 --> 00:28:28,360
+sees me, too male, too pale, too stale.
+
+734
+00:28:28,559 --> 00:28:35,200
+Why on earth would these people get to
+
+735
+00:28:31,200 --> 00:28:39,120
+say what knowledge is? I get it.
+
+736
+00:28:35,200 --> 00:28:41,760
+I get it. Big problem. But they do. And
+
+737
+00:28:39,120 --> 00:28:45,279
+that's a fact.
+
+738
+00:28:41,760 --> 00:28:47,679
+These people get to say what counts as
+
+739
+00:28:45,279 --> 00:28:49,520
+knowledge. The good news is they are
+
+740
+00:28:47,679 --> 00:28:52,000
+changing.
+
+741
+00:28:49,520 --> 00:28:54,000
+Way too long, way too late, way too
+
+742
+00:28:52,000 --> 00:28:55,919
+slow, but they're changing. But the
+
+743
+00:28:54,000 --> 00:28:57,360
+point is that's the way it works. You
+
+744
+00:28:55,919 --> 00:29:00,240
+may not like it, but that's the way it
+
+745
+00:28:57,360 --> 00:29:03,120
+works. They get to say,
+
+746
+00:29:00,240 --> 00:29:04,559
+so they get to say, "Yep, you're right.
+
+747
+00:29:03,120 --> 00:29:07,039
+That was new. I didn't know how many
+
+748
+00:29:04,559 --> 00:29:09,600
+people were in 302, but it doesn't count
+
+749
+00:29:07,039 --> 00:29:13,679
+as knowledge. It doesn't have any value
+
+750
+00:29:09,600 --> 00:29:15,360
+to us. Doesn't count."
+
+751
+00:29:13,679 --> 00:29:17,360
+The good news is this thing just moves
+
+752
+00:29:15,360 --> 00:29:21,559
+does move through time. The other good
+
+753
+00:29:17,360 --> 00:29:21,559
+news is this boundary is permeable.
+
+754
+00:29:21,679 --> 00:29:27,600
+stuff comes in
+
+755
+00:29:24,320 --> 00:29:29,120
+and unlike this model, stuff goes out. I
+
+756
+00:29:27,600 --> 00:29:32,399
+like to think of academic conversations
+
+757
+00:29:29,120 --> 00:29:35,360
+as sort of excreting as they go. Stuff
+
+758
+00:29:32,399 --> 00:29:38,080
+gets left behind. It's not like this
+
+759
+00:29:35,360 --> 00:29:40,399
+where everything gets added up is always
+
+760
+00:29:38,080 --> 00:29:42,799
+there forever. That's not the way it
+
+761
+00:29:40,399 --> 00:29:44,000
+works. They go along for a while. They
+
+762
+00:29:42,799 --> 00:29:46,799
+think of things for a while and they
+
+763
+00:29:44,000 --> 00:29:49,120
+say, "Whoop, that was dumb. Don't think
+
+764
+00:29:46,799 --> 00:29:51,440
+that anymore." They go along for a while
+
+765
+00:29:49,120 --> 00:29:53,679
+and they say, "Whoa, we were doing that.
+
+766
+00:29:51,440 --> 00:29:55,679
+Don't do that anymore." It's not this
+
+767
+00:29:53,679 --> 00:29:57,039
+buildup model. This buildup model
+
+768
+00:29:55,679 --> 00:29:58,320
+assumed that everything was right. We
+
+769
+00:29:57,039 --> 00:30:00,159
+don't think that. We think a lot of what
+
+770
+00:29:58,320 --> 00:30:02,240
+we think right now is wrong. We just
+
+771
+00:30:00,159 --> 00:30:04,320
+don't know what the wrong is. And we
+
+772
+00:30:02,240 --> 00:30:07,120
+don't know what better is. We want to
+
+773
+00:30:04,320 --> 00:30:10,720
+know. We do. We want to get better at
+
+774
+00:30:07,120 --> 00:30:13,840
+it. But in order for us to do that, you
+
+775
+00:30:10,720 --> 00:30:16,960
+have to be dealing with the stuff we say
+
+776
+00:30:13,840 --> 00:30:20,000
+is knowledge.
+
+777
+00:30:16,960 --> 00:30:21,760
+that might not feel good. But that's how
+
+778
+00:30:20,000 --> 00:30:25,919
+it works.
+
+779
+00:30:21,760 --> 00:30:28,480
+So important isn't going to do it.
+
+780
+00:30:25,919 --> 00:30:30,080
+New isn't going to do it. Original isn't
+
+781
+00:30:28,480 --> 00:30:31,279
+going to do it. Because I talk to people
+
+782
+00:30:30,080 --> 00:30:32,159
+and they say, you know, people don't
+
+783
+00:30:31,279 --> 00:30:33,840
+think this is val. They're not
+
+784
+00:30:32,159 --> 00:30:34,960
+publishing it. Well, somebody says they
+
+785
+00:30:33,840 --> 00:30:38,159
+don't think it's important. So, you know
+
+786
+00:30:34,960 --> 00:30:40,960
+what they do? They say this important
+
+787
+00:30:38,159 --> 00:30:43,360
+study.
+
+788
+00:30:40,960 --> 00:30:45,440
+Well, no.
+
+789
+00:30:43,360 --> 00:30:47,679
+What is it about B that makes it feel
+
+790
+00:30:45,440 --> 00:30:50,399
+important?
+
+791
+00:30:47,679 --> 00:30:51,440
+What is it? Tell me the words on the
+
+792
+00:30:50,399 --> 00:30:54,559
+page. There's
+
+793
+00:30:51,440 --> 00:30:58,000
+>> Oh, there's there's like a first
+
+794
+00:30:54,559 --> 00:31:00,399
+disconnect between a
+
+795
+00:30:58,000 --> 00:31:02,240
+>> Here's what I literally want you to do.
+
+796
+00:31:00,399 --> 00:31:04,000
+I want you to literally everybody in the
+
+797
+00:31:02,240 --> 00:31:07,679
+room, I want you to literally go through
+
+798
+00:31:04,000 --> 00:31:10,640
+1B and circle the words, the specific
+
+799
+00:31:07,679 --> 00:31:13,120
+words that are making it valuable to the
+
+800
+00:31:10,640 --> 00:31:14,880
+audience, to the readers. What's the
+
+801
+00:31:13,120 --> 00:31:16,880
+first verb you see? A word, not verb.
+
+802
+00:31:14,880 --> 00:31:18,720
+What's the first word you see that makes
+
+803
+00:31:16,880 --> 00:31:19,200
+it valuable?
+
+804
+00:31:18,720 --> 00:31:22,240
+>> Nonetheless.
+
+805
+00:31:19,200 --> 00:31:23,360
+>> Nonetheless. Next.
+
+806
+00:31:22,240 --> 00:31:28,000
+>> Accepted.
+
+807
+00:31:23,360 --> 00:31:29,679
+>> Accepted is but actually widely
+
+808
+00:31:28,000 --> 00:31:31,679
+accepted.
+
+809
+00:31:29,679 --> 00:31:34,799
+Next.
+
+810
+00:31:31,679 --> 00:31:37,279
+However, next.
+
+811
+00:31:34,799 --> 00:31:39,840
+Although. Although.
+
+812
+00:31:37,279 --> 00:31:41,440
+Next.
+
+813
+00:31:39,840 --> 00:31:44,440
+>> Inconsistent.
+
+814
+00:31:41,440 --> 00:31:44,440
+Next.
+
+815
+00:31:44,880 --> 00:31:49,360
+reported
+
+816
+00:31:47,840 --> 00:31:52,000
+next
+
+817
+00:31:49,360 --> 00:31:53,360
+anomaly. Here's my first piece of advice
+
+818
+00:31:52,000 --> 00:31:55,840
+to you that you can use to make your
+
+819
+00:31:53,360 --> 00:31:58,559
+writing better starting this afternoon.
+
+820
+00:31:55,840 --> 00:32:03,120
+Spend 15 minutes a week for the rest of
+
+821
+00:31:58,559 --> 00:32:05,279
+this year taking articles in your field.
+
+822
+00:32:03,120 --> 00:32:08,799
+Print them out so you have a hard copy.
+
+823
+00:32:05,279 --> 00:32:11,120
+Go through and circle every word in the
+
+824
+00:32:08,799 --> 00:32:12,640
+writing that is creating value to the
+
+825
+00:32:11,120 --> 00:32:14,640
+readers.
+
+826
+00:32:12,640 --> 00:32:17,120
+If you see an article that you think
+
+827
+00:32:14,640 --> 00:32:19,440
+doesn't have any of those words, send it
+
+828
+00:32:17,120 --> 00:32:20,880
+to me. I'll give you my email. Send me
+
+829
+00:32:19,440 --> 00:32:22,399
+your email and say, "Larry, I found an
+
+830
+00:32:20,880 --> 00:32:26,960
+article that doesn't do it." Here's what
+
+831
+00:32:22,399 --> 00:32:30,000
+I bet you will see none. I will see 10.
+
+832
+00:32:26,960 --> 00:32:34,159
+Now, 10's five. I guarantee you five.
+
+833
+00:32:30,000 --> 00:32:36,720
+Likely 10. What's going on? How come you
+
+834
+00:32:34,159 --> 00:32:38,720
+don't see them and I see five or 10? You
+
+835
+00:32:36,720 --> 00:32:43,360
+missed them here.
+
+836
+00:32:38,720 --> 00:32:43,360
+I see them. I know the code.
+
+837
+00:32:43,600 --> 00:32:48,799
+Every community has its own codes. The
+
+838
+00:32:46,880 --> 00:32:52,000
+communities you're entering have their
+
+839
+00:32:48,799 --> 00:32:55,679
+own codes. A set of words that
+
+840
+00:32:52,000 --> 00:32:57,360
+communicates value. You must know the
+
+841
+00:32:55,679 --> 00:32:59,120
+codes of the communities you're working
+
+842
+00:32:57,360 --> 00:33:00,880
+in. And they are particular to
+
+843
+00:32:59,120 --> 00:33:02,799
+communities. Some codes are shared among
+
+844
+00:33:00,880 --> 00:33:06,080
+a bunch of communities. Some aren't.
+
+845
+00:33:02,799 --> 00:33:07,760
+You've got to know. You got to know. You
+
+846
+00:33:06,080 --> 00:33:10,000
+spend 15 minutes a week for the rest of
+
+847
+00:33:07,760 --> 00:33:11,440
+this year, you'll be doing two things.
+
+848
+00:33:10,000 --> 00:33:14,159
+One, you'll be training yourself to look
+
+849
+00:33:11,440 --> 00:33:15,360
+for the code of what creating value. The
+
+850
+00:33:14,159 --> 00:33:17,360
+other thing you'll be doing, if you're
+
+851
+00:33:15,360 --> 00:33:19,200
+smart, is you'll be writing down each of
+
+852
+00:33:17,360 --> 00:33:22,240
+those words and you'll be creating an
+
+853
+00:33:19,200 --> 00:33:24,080
+invaluable word list.
+
+854
+00:33:22,240 --> 00:33:26,000
+So that when it's a week before
+
+855
+00:33:24,080 --> 00:33:27,679
+something is done and you're doing one
+
+856
+00:33:26,000 --> 00:33:29,200
+of your revisions, you're going to do
+
+857
+00:33:27,679 --> 00:33:31,600
+what? You're going to do the same thing
+
+858
+00:33:29,200 --> 00:33:33,440
+on your own work. And if you can't
+
+859
+00:33:31,600 --> 00:33:35,279
+underline 10 words in the first two
+
+860
+00:33:33,440 --> 00:33:36,880
+paragraphs, you're going to do what?
+
+861
+00:33:35,279 --> 00:33:39,679
+You're going to go to the word list and
+
+862
+00:33:36,880 --> 00:33:42,880
+you're going to jump them in.
+
+863
+00:33:39,679 --> 00:33:45,760
+Ryan, sometimes sometimes it's that
+
+864
+00:33:42,880 --> 00:33:47,600
+simple. Sometimes we take articles that
+
+865
+00:33:45,760 --> 00:33:49,360
+wouldn't get published and in an hour we
+
+866
+00:33:47,600 --> 00:33:52,159
+do things and they get published.
+
+867
+00:33:49,360 --> 00:33:53,919
+Sometimes weeks. I'm not suggesting this
+
+868
+00:33:52,159 --> 00:33:55,679
+is always magic, but sometimes it's
+
+869
+00:33:53,919 --> 00:33:59,120
+magic cuz sometimes the problem are
+
+870
+00:33:55,679 --> 00:34:01,360
+pretty simple. The problems have to do
+
+871
+00:33:59,120 --> 00:34:04,080
+with these people. You have to know
+
+872
+00:34:01,360 --> 00:34:05,279
+them. As I say to undergraduates who
+
+873
+00:34:04,080 --> 00:34:07,039
+look at me and they say, "Why does it
+
+874
+00:34:05,279 --> 00:34:08,480
+take six years or five years or even
+
+875
+00:34:07,039 --> 00:34:11,119
+four years to get a PhD? Aren't they
+
+876
+00:34:08,480 --> 00:34:12,560
+just learning more stuff? No. Half their
+
+877
+00:34:11,119 --> 00:34:15,520
+time is spent learning more stuff. The
+
+878
+00:34:12,560 --> 00:34:17,440
+other half is learning their readers.
+
+879
+00:34:15,520 --> 00:34:19,760
+I will say this again. If you do not
+
+880
+00:34:17,440 --> 00:34:23,320
+know your readers, the particular people
+
+881
+00:34:19,760 --> 00:34:23,320
+in a community,
+
+882
+00:34:26,879 --> 00:34:32,000
+if you do not know these people,
+
+883
+00:34:29,760 --> 00:34:33,679
+you are very unlikely to create value
+
+884
+00:34:32,000 --> 00:34:35,359
+and you are very unlikely to be
+
+885
+00:34:33,679 --> 00:34:38,560
+persuasive
+
+886
+00:34:35,359 --> 00:34:40,560
+because persuasion depends on what they
+
+887
+00:34:38,560 --> 00:34:42,079
+doubt. If you don't know what they
+
+888
+00:34:40,560 --> 00:34:44,879
+doubt, how on earth are you going to
+
+889
+00:34:42,079 --> 00:34:46,320
+overcome those doubts? You must know
+
+890
+00:34:44,879 --> 00:34:47,679
+them.
+
+891
+00:34:46,320 --> 00:34:51,119
+It's not enough to know your subject
+
+892
+00:34:47,679 --> 00:34:53,280
+matter. You got to know your readers.
+
+893
+00:34:51,119 --> 00:34:54,960
+Okay. So, what is it about none? There's
+
+894
+00:34:53,280 --> 00:34:56,879
+two things going on here then. One of
+
+895
+00:34:54,960 --> 00:34:59,280
+them has to go on with the community of
+
+896
+00:34:56,879 --> 00:35:02,560
+readers. Tell me the words you underline
+
+897
+00:34:59,280 --> 00:35:05,040
+that has to do with the community
+
+898
+00:35:02,560 --> 00:35:07,119
+of the word you underline in B. Which
+
+899
+00:35:05,040 --> 00:35:07,760
+words have to do with the community?
+
+900
+00:35:07,119 --> 00:35:09,119
+>> Widely,
+
+901
+00:35:07,760 --> 00:35:09,680
+>> widely
+
+902
+00:35:09,119 --> 00:35:11,200
+>> accepted.
+
+903
+00:35:09,680 --> 00:35:11,920
+>> Accepted.
+
+904
+00:35:11,200 --> 00:35:14,880
+>> Reported.
+
+905
+00:35:11,920 --> 00:35:17,599
+>> Reported. Those are words that cued that
+
+906
+00:35:14,880 --> 00:35:20,960
+there was a community of people who want
+
+907
+00:35:17,599 --> 00:35:23,200
+to understand this.
+
+908
+00:35:20,960 --> 00:35:25,839
+You don't have those words. You're not
+
+909
+00:35:23,200 --> 00:35:29,440
+signaling any community.
+
+910
+00:35:25,839 --> 00:35:34,400
+What do the other words do? Nonetheless,
+
+911
+00:35:29,440 --> 00:35:37,280
+however, although, what do they do?
+
+912
+00:35:34,400 --> 00:35:40,520
+>> They create a flow to a certain extent.
+
+913
+00:35:37,280 --> 00:35:40,520
+>> They do.
+
+914
+00:35:41,280 --> 00:35:46,880
+and find the syninnapse in your head
+
+915
+00:35:43,760 --> 00:35:48,240
+that has that word and kill it.
+
+916
+00:35:46,880 --> 00:35:51,280
+>> Okay,
+
+917
+00:35:48,240 --> 00:35:54,240
+>> here's what's going on. He has been told
+
+918
+00:35:51,280 --> 00:35:57,040
+or taught or learned
+
+919
+00:35:54,240 --> 00:35:59,359
+that in order to have persuasive, clear,
+
+920
+00:35:57,040 --> 00:36:01,280
+organized pros,
+
+921
+00:35:59,359 --> 00:36:03,760
+you had to have what are sometimes
+
+922
+00:36:01,280 --> 00:36:06,560
+called flow words or are sometimes
+
+923
+00:36:03,760 --> 00:36:12,720
+called transition words. Words like
+
+924
+00:36:06,560 --> 00:36:16,079
+because and if and unless and however
+
+925
+00:36:12,720 --> 00:36:18,240
+and although
+
+926
+00:36:16,079 --> 00:36:20,400
+and and and
+
+927
+00:36:18,240 --> 00:36:22,400
+but.
+
+928
+00:36:20,400 --> 00:36:24,160
+All right. Are those words bad? Those
+
+929
+00:36:22,400 --> 00:36:25,599
+words aren't bad. I It's bad to have is
+
+930
+00:36:24,160 --> 00:36:27,680
+it bad to have flow? It's not bad to
+
+931
+00:36:25,599 --> 00:36:30,320
+have flow. But they have nothing to do
+
+932
+00:36:27,680 --> 00:36:33,440
+with value.
+
+933
+00:36:30,320 --> 00:36:38,440
+Why? What's the difference between and
+
+934
+00:36:33,440 --> 00:36:38,440
+and but in creating value?
+
+935
+00:36:38,480 --> 00:36:41,440
+>> That challenges the point making someone
+
+936
+00:36:40,880 --> 00:36:44,079
+else.
+
+937
+00:36:41,440 --> 00:36:45,440
+>> That's it.
+
+938
+00:36:44,079 --> 00:36:49,920
+Imagine if you go to your readers and
+
+939
+00:36:45,440 --> 00:36:53,119
+say, "Hey readers, hey community,
+
+940
+00:36:49,920 --> 00:36:55,520
+hey community,
+
+941
+00:36:53,119 --> 00:36:57,599
+I've read your stuff. I've thought about
+
+942
+00:36:55,520 --> 00:37:02,079
+what you think
+
+943
+00:36:57,599 --> 00:37:02,079
+and I have something to say.
+
+944
+00:37:03,839 --> 00:37:09,440
+Hey readers, I've read your stuff. I
+
+945
+00:37:07,119 --> 00:37:10,960
+know what you think,
+
+946
+00:37:09,440 --> 00:37:14,280
+but
+
+947
+00:37:10,960 --> 00:37:14,280
+you're wrong.
+
+948
+00:37:15,760 --> 00:37:18,640
+Which one are they going to pay
+
+949
+00:37:16,640 --> 00:37:20,560
+attention to?
+
+950
+00:37:18,640 --> 00:37:22,400
+It's hard when you try to publish on
+
+951
+00:37:20,560 --> 00:37:26,720
+journals because if you say the people
+
+952
+00:37:22,400 --> 00:37:28,400
+are wrong and those are your editors.
+
+953
+00:37:26,720 --> 00:37:30,320
+>> Here's what here's what I will say and
+
+954
+00:37:28,400 --> 00:37:32,160
+if somebody wants to do it right now
+
+955
+00:37:30,320 --> 00:37:34,800
+check it.
+
+956
+00:37:32,160 --> 00:37:36,720
+He can name a journal. We will go to the
+
+957
+00:37:34,800 --> 00:37:40,720
+every edition of that journal in the
+
+958
+00:37:36,720 --> 00:37:44,160
+last 20 years and every paper will say
+
+959
+00:37:40,720 --> 00:37:46,160
+that somebody's wrong.
+
+960
+00:37:44,160 --> 00:37:50,560
+Everyone.
+
+961
+00:37:46,160 --> 00:37:52,640
+Now he just wait what's the difference?
+
+962
+00:37:50,560 --> 00:37:55,280
+He says and he's been and I understand
+
+963
+00:37:52,640 --> 00:37:57,520
+it. I can't go to these editors and say
+
+964
+00:37:55,280 --> 00:38:00,320
+they're wrong.
+
+965
+00:37:57,520 --> 00:38:02,160
+And I am telling you that every article
+
+966
+00:38:00,320 --> 00:38:04,640
+published in that journal in the last 20
+
+967
+00:38:02,160 --> 00:38:06,560
+years has opened by saying readers are
+
+968
+00:38:04,640 --> 00:38:07,839
+wrong.
+
+969
+00:38:06,560 --> 00:38:11,040
+First is looking at me like I don't
+
+970
+00:38:07,839 --> 00:38:13,040
+believe it. Oh look what's the
+
+971
+00:38:11,040 --> 00:38:14,800
+difference?
+
+972
+00:38:13,040 --> 00:38:16,720
+>> I guess there is a difference between
+
+973
+00:38:14,800 --> 00:38:19,520
+saying
+
+974
+00:38:16,720 --> 00:38:21,280
+things saying that is wrong and like
+
+975
+00:38:19,520 --> 00:38:23,119
+nullifying the knowledge all together
+
+976
+00:38:21,280 --> 00:38:27,320
+and contributing knowledge.
+
+977
+00:38:23,119 --> 00:38:27,320
+>> Yeah. One way to put it is
+
+978
+00:38:27,440 --> 00:38:33,839
+you have to know the code.
+
+979
+00:38:31,280 --> 00:38:35,440
+You have to know the code. If you say to
+
+980
+00:38:33,839 --> 00:38:38,240
+the people who are the dominant figures
+
+981
+00:38:35,440 --> 00:38:41,839
+in your field, you know what? I've read
+
+982
+00:38:38,240 --> 00:38:44,480
+all your stuff and you're idiots.
+
+983
+00:38:41,839 --> 00:38:47,760
+Not going to go well,
+
+984
+00:38:44,480 --> 00:38:49,520
+right? Don't say that. What did you say
+
+985
+00:38:47,760 --> 00:38:52,000
+to them?
+
+986
+00:38:49,520 --> 00:38:54,000
+The dominant figures in their field.
+
+987
+00:38:52,000 --> 00:38:55,839
+>> I would build them their knowledge to
+
+988
+00:38:54,000 --> 00:38:57,760
+show that they're wrong.
+
+989
+00:38:55,839 --> 00:38:58,560
+>> I say,
+
+990
+00:38:57,760 --> 00:38:59,680
+what do you say to them?
+
+991
+00:38:58,560 --> 00:39:00,960
+>> You've been thinking about this wrong
+
+992
+00:38:59,680 --> 00:39:02,960
+and I have value.
+
+993
+00:39:00,960 --> 00:39:05,119
+>> Yeah, but if you want to learn the code,
+
+994
+00:39:02,960 --> 00:39:07,440
+what do you suppose the code is?
+
+995
+00:39:05,119 --> 00:39:07,920
+>> Well, you address exactly what you think
+
+996
+00:39:07,440 --> 00:39:09,760
+there is.
+
+997
+00:39:07,920 --> 00:39:12,000
+>> Yeah, but the code is Wow. Are you
+
+998
+00:39:09,760 --> 00:39:14,000
+smart?
+
+999
+00:39:12,000 --> 00:39:18,400
+>> Wow.
+
+1000
+00:39:14,000 --> 00:39:20,560
+Me. Whoa. I'm just amazed. You are so
+
+1001
+00:39:18,400 --> 00:39:23,359
+smart and you've contributed and you've
+
+1002
+00:39:20,560 --> 00:39:25,920
+advanced this
+
+1003
+00:39:23,359 --> 00:39:29,920
+you've advanced this community through
+
+1004
+00:39:25,920 --> 00:39:31,520
+in fabulous ways,
+
+1005
+00:39:29,920 --> 00:39:34,960
+but
+
+1006
+00:39:31,520 --> 00:39:37,599
+there's this little thing you got here
+
+1007
+00:39:34,960 --> 00:39:39,839
+that's wrong.
+
+1008
+00:39:37,599 --> 00:39:42,160
+And now they say, "Oh,
+
+1009
+00:39:39,839 --> 00:39:43,280
+well, thank you for appreciating it."
+
+1010
+00:39:42,160 --> 00:39:45,440
+But what do you think? What do you think
+
+1011
+00:39:43,280 --> 00:39:49,119
+we have wrong? And then you better have
+
+1012
+00:39:45,440 --> 00:39:51,520
+an argument, not an explanation.
+
+1013
+00:39:49,119 --> 00:39:53,680
+Do not explain. Argue. You're talking to
+
+1014
+00:39:51,520 --> 00:39:55,280
+people who like wrote this stuff. You
+
+1015
+00:39:53,680 --> 00:39:56,880
+don't have to explain it to them. You
+
+1016
+00:39:55,280 --> 00:40:00,079
+have to predict what they're going to
+
+1017
+00:39:56,880 --> 00:40:02,320
+doubt when you say they're wrong. So you
+
+1018
+00:40:00,079 --> 00:40:04,560
+say to them, "You're wrong about this."
+
+1019
+00:40:02,320 --> 00:40:06,079
+And they say, "Why should I agree that
+
+1020
+00:40:04,560 --> 00:40:09,440
+I'm wrong?" And you say, "Well, here's
+
+1021
+00:40:06,079 --> 00:40:11,760
+why." That's what introductions do. They
+
+1022
+00:40:09,440 --> 00:40:14,560
+give a quick version of why these people
+
+1023
+00:40:11,760 --> 00:40:17,359
+should think that they're wrong
+
+1024
+00:40:14,560 --> 00:40:19,200
+and they say, "Well, okay,
+
+1025
+00:40:17,359 --> 00:40:21,119
+preliminarily, I've read your first two
+
+1026
+00:40:19,200 --> 00:40:24,320
+pages. Now, I'll start reading the rest
+
+1027
+00:40:21,119 --> 00:40:26,160
+of it." Why? Because you've caused them
+
+1028
+00:40:24,320 --> 00:40:28,960
+to think that your work might be
+
+1029
+00:40:26,160 --> 00:40:31,119
+valuable for them. Imagine if you go to
+
+1030
+00:40:28,960 --> 00:40:33,119
+them and say, "Wow, your work has been
+
+1031
+00:40:31,119 --> 00:40:36,079
+really great and now here's something
+
+1032
+00:40:33,119 --> 00:40:38,640
+new that you didn't know." See, here's
+
+1033
+00:40:36,079 --> 00:40:40,560
+what happens. People say to me, "Man, if
+
+1034
+00:40:38,640 --> 00:40:44,320
+I say that they've done something wrong,
+
+1035
+00:40:40,560 --> 00:40:47,200
+I'm taking a huge risk." True. You think
+
+1036
+00:40:44,320 --> 00:40:50,000
+you're not taking a risk if you do this.
+
+1037
+00:40:47,200 --> 00:40:51,839
+What's the risk you run if you do this?
+
+1038
+00:40:50,000 --> 00:40:53,280
+Hey, really smart people? I've done all
+
+1039
+00:40:51,839 --> 00:40:57,920
+your work. I've studied all your stuff
+
+1040
+00:40:53,280 --> 00:40:59,119
+and I have something I want to add.
+
+1041
+00:40:57,920 --> 00:41:01,520
+No, no, no. That's actually a really
+
+1042
+00:40:59,119 --> 00:41:04,160
+good reaction, right? What's the risk
+
+1043
+00:41:01,520 --> 00:41:05,920
+you run there
+
+1044
+00:41:04,160 --> 00:41:08,240
+when you say there's something I want to
+
+1045
+00:41:05,920 --> 00:41:10,480
+add?
+
+1046
+00:41:08,240 --> 00:41:12,640
+>> We don't care.
+
+1047
+00:41:10,480 --> 00:41:14,560
+Or worse,
+
+1048
+00:41:12,640 --> 00:41:17,560
+I'd like to put my voice into the
+
+1049
+00:41:14,560 --> 00:41:17,560
+conversation.
+
+1050
+00:41:17,680 --> 00:41:22,079
+Say, we don't have any reason to listen
+
+1051
+00:41:19,520 --> 00:41:26,200
+to it.
+
+1052
+00:41:22,079 --> 00:41:26,200
+Let's pause on that one for a minute.
+
+1053
+00:41:27,599 --> 00:41:30,720
+The University of Chicago writing
+
+1054
+00:41:28,960 --> 00:41:32,880
+program is not real popular in the world
+
+1055
+00:41:30,720 --> 00:41:36,520
+of writing programs.
+
+1056
+00:41:32,880 --> 00:41:36,520
+And you can see why.
+
+1057
+00:41:36,560 --> 00:41:40,599
+A lot of people think we're fascists.
+
+1058
+00:41:40,880 --> 00:41:47,119
+I don't dispute it. Here's what we teach
+
+1059
+00:41:43,680 --> 00:41:50,480
+people to do. We say, "Identify the
+
+1060
+00:41:47,119 --> 00:41:53,839
+people with power in your community and
+
+1061
+00:41:50,480 --> 00:41:56,640
+give them what they want."
+
+1062
+00:41:53,839 --> 00:41:58,160
+That's what we teach people to do.
+
+1063
+00:41:56,640 --> 00:42:00,560
+Lots of people have said to us in some
+
+1064
+00:41:58,160 --> 00:42:03,119
+version or another, you're supposed to
+
+1065
+00:42:00,560 --> 00:42:04,880
+teach people to
+
+1066
+00:42:03,119 --> 00:42:06,960
+challenge
+
+1067
+00:42:04,880 --> 00:42:10,079
+the existing community. Well, actually,
+
+1068
+00:42:06,960 --> 00:42:12,960
+I just did, right? But notice that I did
+
+1069
+00:42:10,079 --> 00:42:14,880
+it inside the terms of the community.
+
+1070
+00:42:12,960 --> 00:42:19,119
+People say, why don't you teach people
+
+1071
+00:42:14,880 --> 00:42:21,680
+to have their own individual voice?
+
+1072
+00:42:19,119 --> 00:42:24,640
+And I'm going to say, I get that
+
+1073
+00:42:21,680 --> 00:42:27,359
+argument. I get the moral and ethical
+
+1074
+00:42:24,640 --> 00:42:30,000
+pressure to teach people to have their
+
+1075
+00:42:27,359 --> 00:42:32,000
+individual voices.
+
+1076
+00:42:30,000 --> 00:42:34,079
+But when I sit with somebody up in my
+
+1077
+00:42:32,000 --> 00:42:36,319
+office who's worried about their career
+
+1078
+00:42:34,079 --> 00:42:38,079
+not going anywhere,
+
+1079
+00:42:36,319 --> 00:42:40,319
+it can't be about their individual
+
+1080
+00:42:38,079 --> 00:42:44,400
+voice. It's about what's going to make
+
+1081
+00:42:40,319 --> 00:42:46,560
+it valuable to their readers.
+
+1082
+00:42:44,400 --> 00:42:49,440
+You need to understand that this program
+
+1083
+00:42:46,560 --> 00:42:51,839
+that we have is motivated by those
+
+1084
+00:42:49,440 --> 00:42:55,040
+people who have come to us and said our
+
+1085
+00:42:51,839 --> 00:42:58,160
+writing is not succeeding and the whole
+
+1086
+00:42:55,040 --> 00:43:01,280
+program is aimed at them. How do you
+
+1087
+00:42:58,160 --> 00:43:04,560
+make them help them succeed? There's a
+
+1088
+00:43:01,280 --> 00:43:06,079
+ton of ethical issues involved in that.
+
+1089
+00:43:04,560 --> 00:43:08,000
+We're not going you don't really care. I
+
+1090
+00:43:06,079 --> 00:43:10,640
+just want to put them out there. There's
+
+1091
+00:43:08,000 --> 00:43:12,319
+also the personal at risk issue. You
+
+1092
+00:43:10,640 --> 00:43:13,760
+want me to go to this really important
+
+1093
+00:43:12,319 --> 00:43:15,119
+person, this the editors of this
+
+1094
+00:43:13,760 --> 00:43:17,520
+journal, and tell them they're wrong.
+
+1095
+00:43:15,119 --> 00:43:19,440
+Yeah, I do. I need you to do it under
+
+1096
+00:43:17,520 --> 00:43:22,079
+the code. You want to do it under the
+
+1097
+00:43:19,440 --> 00:43:24,160
+code. There's polite ways to do it.
+
+1098
+00:43:22,079 --> 00:43:26,800
+There's insulting ways to do it. You
+
+1099
+00:43:24,160 --> 00:43:29,119
+need to learn how they do it in that
+
+1100
+00:43:26,800 --> 00:43:31,599
+community. If you don't do it in the way
+
+1101
+00:43:29,119 --> 00:43:34,240
+they code it, you're going to get
+
+1102
+00:43:31,599 --> 00:43:35,920
+slapped down. What if you don't do it at
+
+1103
+00:43:34,240 --> 00:43:38,319
+all?
+
+1104
+00:43:35,920 --> 00:43:41,920
+You're going to get rejected.
+
+1105
+00:43:38,319 --> 00:43:43,599
+Right? So, all right.
+
+1106
+00:43:41,920 --> 00:43:45,680
+Sorry for the drama. Oh my gosh.
+
+1107
+00:43:43,599 --> 00:43:50,000
+Especially because we're on page one of
+
+1108
+00:43:45,680 --> 00:43:50,000
+a 30-page handout. All right.
