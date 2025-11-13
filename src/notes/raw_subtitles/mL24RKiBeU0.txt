@@ -2106,425 +2106,420 @@ It's
 Tesla's
  case
  is
- a
- canary
- in
- the
- coal
-
-
-mine,
+ mine
  if
  I
- may,
+ may
  for
  a
  much
- larger
 
 
-pattern
+larger
+ pattern
  across
  AI,
  across
- autonomous
 
 
-vehicles
+autonomous
+ vehicles
  or
  adjacent
  tech
- sectors.
+
+
+sectors.
  In
-
-
-August
+ August
  this
  year,
  there
  was
- a
+
+
+a
  lawsuit
-
-
-against
+ against
  Tesla
  in
  regards
  to
  a
- wrongful
 
 
-death
+wrongful
+ death
  case
  with
  Tesla
  ordered
- to
+
+
+to
  pay
-
-
-almost
+ almost
  $243
  million.
  There
  was
  a
- crash.
 
 
-It
+crash.
+ It
  happened
- six
+ 6
  years
  ago
  when
  a
- driver
 
 
-was
+driver
+ was
  operating
  a
  2019
  Tesla
  Model
- S
+
+
+S
  with
-
-
-autopilot
+ autopilot
  engaged.
  The
  car
- approached
+
+
+approached
  a
-
-
-T
+ T
  intersection
  with
- multiple
+
+
+multiple
  stop
  signs
-
-
-and
+ and
  flashing
  red
- lights.
+
+
+lights.
  The
  driver
  took
-
-
-his
+ his
  eyes
  off
  the
- road
+
+
+road
  and
  neither
  the
-
-
-driver
+ driver
  nor
  Tesla
- reacted
+
+
+reacted
  to
  what
  was
-
-
-happening
+ happening
  in
  the
- intersection
+
+
+intersection
  and
  the
-
-
-car
+ car
  drove
  straight
- through
+
+
+through
  it.
  Now
-
-
-listen
+ listen
  to
  the
  verdict
- breakdown.
+
+
+breakdown.
  This
  is
-
-
-important.
+ important.
  The
- liability
+
+
+liability
  was
  split
  like
+ this.
+ 6
+ to
+ 7%
 
 
-this.
- 67%
- of
+of
  fault
  assigned
  to
  the
-
-
-driver.
- 33%
- assigned
- to
- Tesla.
- That
+ driver,
  33%
 
 
 assigned
  to
- Tesla
+ Tesla.
+ That
+ 33%
+ assigned
+ to
+
+
+Tesla
  means
  that
  the
  system
-
-
-itself
+ itself
  was
- found
+
+
+found
  to
  be
  a
  meaningful
-
-
-cause
+ cause
  of
  harm,
- not
+
+
+not
  just
  a
  passive
  tool
-
-
-that
+ that
  was
  misused
- by
+
+
+by
  a
  driver.
  And
  this
-
-
-was
+ was
  the
  signal
  to
- the
+
+
+the
  entire
  automotive
-
-
-industry.
+ industry.
  And
  now
- they
+
+
+they
  have
  to
  be
-
-
-careful
+ careful
  with
  their
- marketing.
+
+
+marketing.
  And
  if
-
-
-you're
+ you're
  listening
  to
- this
+
+
+this
  and
  thinking,
-
-
-okay,
+ okay,
  so
  Meta
  was
- excited
+
+
+excited
  about
  the
-
-
-whole
+ whole
  metaverse,
  but
- now
+
+
+now
  they're
  kind
  of
-
-
-shifting
+ shifting
  away
  from
- that.
+
+
+that.
  Tesla
  said
  we
-
-
-wouldn't
+ wouldn't
  need
  taxi
- drivers
+
+
+drivers
  by
  2020
  and
-
-
-had
+ had
  to
  take
  it
  back.
- But
+
+
+But
  now
  everybody's
-
-
-talking
+ talking
  about
  the
- bubble.
+
+
+bubble.
  How
  did
  this
-
-
-bubble
+ bubble
  form?
  If
- there
+
+
+there
  were
  signs
  prior
-
-
-to
+ to
  the
  explosion
- of
+
+
+of
  Chad
  GBT,
  why
  did
  it
-
-
-happen?
- So
+ happen?
+ So,
  I
- spent
+
+
+spent
  the
  last
  week
-
-
-studying
+ studying
  why
  bubbles
- form,
+
+
+form,
  why
  we
  don't
-
-
-learn,
+ learn,
  and
  why
  even
- though
+
+
+though
  we
  know
  that
-
-
-the
+ the
  bubble
  is
- coming,
+
+
+coming,
  we
  keep
  buying
  AI
-
-
-stocks.
+ stocks.
  And
- the
+
+
+the
  answer
  to
  that
  is
  that
-
-
-it's
+ it's
  human
- nature.
+
+
+nature.
  And
  the
  reason
  this
-
-
-bubble
+ bubble
  has
- formed
+
+
+formed
  is
  a
  perfect
  storm
  of
+ technical
 
 
-technical
- inaccuracies,
+inaccuracies,
  economic
-
-
-pressures,
+ pressures,
  and
  a
- mountain
+
+
+mountain
  of
-
-
-psychological
+ psychological
  biases.
  Let
  me
- prove
+
+
+prove
  it
  to
-
-
-you.
+ you.
 
 
 The
@@ -2612,18 +2607,18 @@ model
 
 
 AI
- has.
- Think
+ has
+ think
  of
  it
  as
  like
  the
  number
+ of
 
 
-of
- knobs
+knobs
  that
  you
  can
@@ -2631,18 +2626,18 @@ of
  in
  a
  machine.
+ So
 
 
-So
- scaling
+scaling
  laws
  assume
  that
  increasing
+ all
 
 
-all
- three
+three
  improves
  performance
 
@@ -2857,7 +2852,7 @@ Remember
  the
  Moors
  law?
- Essentially,
+ Essentially
  the
 
 
@@ -3115,10 +3110,10 @@ but
  But
  everybody
  expecting
- revolution
+ revolution.
 
 
-but
+But
  the
  revolution
  isn't
@@ -3137,8 +3132,8 @@ this
  was
  the
  technical
- layer
- and
+ layer.
+ And
  now
 
 
@@ -3380,7 +3375,7 @@ plateaued.
 rapid
  improvement
  from
- GBT3
+ GPT3
  to
  GPT4
  does
@@ -3465,7 +3460,7 @@ limits,
  data
  quality,
  and
- scurves.
+ S-curves.
  Chad
 
 
@@ -3488,7 +3483,7 @@ became
 tech
  consciousness.
  Cassie
- Kazerkov
+ Kazerov
 
 
 called
@@ -3596,7 +3591,8 @@ completely
 GBT
  is
  a
- consumer-facing
+ consumerf
+ facing
  app
  with
 
@@ -3961,14 +3957,14 @@ product
  that
  is
  80%
- ready
- as
+ ready.
+ As
  long
  as
- you
 
 
-can
+you
+ can
  make
  it
  work
@@ -3977,20 +3973,20 @@ can
  end.
  If
  you
- can
 
 
-demo
+can
+ demo
  your
  product
  in
  its
  basic
  form
- and
 
 
-it
+and
+ it
  will
  solve
  a
@@ -3998,65 +3994,65 @@ it
  problem
  end
  to
- end,
 
 
-80%
+end,
+ 80%
  is
  sufficient
  for
  a
  demo
- because
 
 
-time
+because
+ time
  to
  market
  is
  everything.
- You
+
+
+You
  show
-
-
-the
+ the
  80%
  and
  if
  it
  works,
  you
- continue
 
 
-patching
+continue
+ patching
  up
  the
  remaining
  20
- and
+
+
+and
  you
-
-
-prepare
+ prepare
  for
  the
  release.
  But
  FSD
- is
+
+
+is
  a
-
-
-piece
+ piece
  of
  software
  inside
  hardware,
- a
 
 
-car.
+a
+ car.
  You
  can't
  deliver
@@ -4243,8 +4239,8 @@ past.
 
 bit
  more
- creative.
- And
+ creative
+ and
  instead
  of
  using
@@ -4310,10 +4306,10 @@ us
  more
  rails,
  more
- wealth.
+ wealth,
 
 
-Parliament
+parliament
  says
  yes,
  do
@@ -4406,7 +4402,7 @@ collapse.
 fortunes.
  projects
  are
- canceled
+ cancelled
  or
 
 
@@ -4634,7 +4630,7 @@ plethora
  second
  clips
  on
- TikTok.
+ TikTok?
 
 
 And
@@ -4778,8 +4774,7 @@ demands
 
 
 rebranded
- chat
- bots
+ chatbots
  as
  intelligent
  or
@@ -4791,88 +4786,87 @@ smart
  the
  result
  is
- 100
 
 
-something
+hundredsome
  companies
  doing
  genuine
  AI
- and
 
 
-thousands
+and
+ thousands
  of
  AI
  lookalikes
  with
- massive
 
 
-FOMO.
+massive
+ FOMO.
  When
  basic
  critical
- thinking
+
+
+thinking
  goes
-
-
-out
+ out
  the
  window
  because
  you
- feel
 
 
-pressured
+feel
+ pressured
  to
  simply
  follow
  the
- crowd
+
+
+crowd
  and
-
-
-the
+ the
  FOMO
  is
  so
  strong
  that
  it
- runs
+
+
+runs
  on
-
-
-institutional
+ institutional
  scale
  because
  the
- fear
+
+
+fear
  of
-
-
-somebody
+ somebody
  else
  winning
  the
  market
- has
 
 
-never
+has
+ never
  been
  higher.
  And
  you
  may
  ask,
- but
 
 
-what
+but
+ what
  about
  investors?
  If
@@ -4966,7 +4960,7 @@ economist
  name
  is
  Andre
- Schlifer
+ Schifer
 
 
 who
@@ -5144,8 +5138,8 @@ that
 many
  levels.
  But
- why
- why
+ why?
+ Why
  do
  they
  fall
@@ -5343,7 +5337,7 @@ can't
 
 
 keeps
- flotting
+ flooding
  in
  despite
  knowing
