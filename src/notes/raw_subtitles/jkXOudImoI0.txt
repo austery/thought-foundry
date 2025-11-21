@@ -1,0 +1,1790 @@
+- I get to talk to people all the time
+about how they use AI in
+their work and in their lives,
+and also how it has
+changed them as people.
+There's many different
+ways of knowing things,
+and many different ways
+of understanding things.
+Computers, science,
+what both of those ways
+of seeing the world are trying to do
+is reduce the world
+into a set of really clean universal laws
+that apply in any situation.
+If X is true, then Y will happen.
+And what language models see instead
+is a dense web of causal relationships
+between different parts of the world
+that all come together in unique,
+very context specific ways
+to produce what comes next.
+And what's really interesting
+about neural networks
+is the way that they think
+or the way that they operate
+is a lot like human intuition.
+Human intuition is also trained
+by thousands, and thousands,
+and thousands of hours
+of direct experience.
+The reason I love that
+is because I hope that it
+makes more visible to us,
+the value and importance
+of intuitive thought.
+My name is Dan Shipper, I'm the
+Co-Founder and CEO of Every,
+and I'm the host of the AI & I podcast.
+- [Narrator] Chapter 1,
+the limits of rationalism
+from Socrates to neural networks.
+- I think rationalism is one
+of the most important ideas
+in the last, like 2,000 years.
+Rationalism is really the idea
+that if we can be explicit
+about what we know,
+if we can really reduce what we know
+down into a set of
+theories, a set of rules
+for how the world works,
+that is true knowledge about the world,
+and that is distinct from everything else
+that kind of messes with our heads,
+messes with how we operate in society.
+And you may not have heard that word,
+or maybe you have,
+but it is built into the
+way that you see the world.
+For example, the way computers work,
+or the way vaccines work,
+or the way that we predict the weather,
+or the way that we try to
+make decisions when we're,
+you know, thinking about,
+I don't wanna be too emotional about this.
+I want to get really precise
+about my thinking on this issue.
+Even the way that we do therapy,
+a lot of therapy is about rationalizing,
+or rationalizing through what
+you think, and what you feel.
+All that stuff comes from an
+extensive lineage of ideas
+that started in Ancient Greece,
+really blossomed during the enlightenment,
+and now is like the
+bedrock of our culture,
+and the way that we think about the world.
+I think the father of rationalism
+is Socrates, the philosopher.
+Socrates is one of the first people
+to really examine the question
+of what we know and how.
+What is true and what's not true.
+To be able to describe what
+we know, and how we know it,
+to make that clear and explicit
+so that only people that knew the truth,
+that knew how the world really works
+were the ones that were
+steering the state.
+That really became the
+birth of philosophy,
+is this idea that if you inquire deeply
+into what is usually kind of
+like the in explicit intuitions
+that we have about the world,
+you can find, you can identify
+a set of rules, or a theory,
+about what the world is like,
+and what's true and what's not,
+that you can lay out explicitly,
+and that you can use to
+decide the difference
+between true and false.
+I think that you can trace
+the birth of rationalism
+to this dialogue, Protagoras.
+And in the dialogue,
+it's a debate between
+Socrates on the one hand,
+and Protagoras.
+And Protagoras is what we call a sophist.
+And it's where the term, sophistry
+which means like kind of,
+you know, someone who says
+really compelling things
+but is actually full of shit.
+What Protagoras and
+Socrates are debating is,
+can excellence be taught?
+And excellence,
+the word is often translated
+in English as virtue,
+but I think a more appropriate
+translation is excellence.
+And in Ancient Greece, like
+that kind of excellence
+was really prized.
+It's sort of like a general ability
+to be good at important things
+in life, and in society.
+And they approach it from
+very different angles.
+Protagoras believes that
+everyone has the capacity,
+every human has the
+capacity to be excellent,
+and he tells this big myth
+about how we, as humans, gain
+the capacity to be excellent.
+And Socrates is saying,
+no, no, no, I don't want any of that.
+What I want is I want a definition.
+I want you to say explicitly
+what it is and what it's not,
+and what are the components of it.
+And that's a really big moment.
+At least the way that Plato writes it,
+Socrates kind of like
+takes apart Protagoras,
+and it's pretty clear by the end,
+that Protagoras doesn't know,
+doesn't have any way to define
+in a non-contradictory way
+what excellence is, what
+it means to be good.
+And the implication is that
+then he doesn't know it.
+And that sort of set
+western society on this path
+of trying to find really
+clear definitions and theories
+for the things that we talk about,
+and to identify knowledge,
+the ability to know something,
+or whether or not you know something
+with whether or not
+you can really clearly define it.
+And that idea became incredibly important
+in the scientific enlightenment.
+Thinkers on the philosophy
+side, like Descartes,
+and on the science side,
+like Newton and Galileo,
+took this idea,
+and used it as a new method
+to understand and explain the world.
+So what it became is,
+can we use mathematics
+to explain and predict
+different things in the world?
+And from Socrates, to Galileo, to Newton,
+they continually reinforced this idea
+that in order to truly know something,
+you have to be able to
+describe it explicitly.
+You have to be able to
+have a theory about it.
+You have to be able to describe
+it mathematically ideally.
+The world around us is
+shaped by this framework.
+So everything from
+smartphones, to computers,
+to cars, to rockets, to
+cameras, to electricity,
+every appliance in your house, vaccines,
+everything in our world
+is shaped with this idea,
+or this way of seeing the world.
+It's been incredibly impactful.
+And you can find this too
+in the rest of the culture,
+like anytime you see, you
+know, a book, or a movie,
+or a blog post or whatever,
+talking about like the five laws of power,
+or like the five laws of negotiation.
+All that stuff is ways that physics has,
+and rationalism in general
+has like sort of seeped into
+the everyday way that we
+think about the world.
+And to be clear, it's
+been super successful.
+But in areas of the world like psychology,
+or economics, or neuroscience,
+it has been really hard to make progress
+in the same way that
+physics has made progress.
+I think if you look, for
+example, at the social sciences,
+a lot of the way that the
+social sciences are structured
+is inspired by physics.
+What we're trying to do
+is take very complex
+higher level phenomena,
+so like maybe psychology, or economics,
+or you know, any other
+branch of social science.
+And we're trying to reduce it down
+to a set of definitions, and
+a theory, and a set of rules
+for how things in that domain work.
+And what's really interesting
+is if you look at those fields,
+so like psychology, for example,
+it's in the middle of a
+gigantic replication crisis.
+Even though we spent like 100 years
+doing psychology research,
+the body of knowledge that
+we've been able to build there
+in terms of its universal applicability,
+our ability to find, you know,
+universal laws in the same way
+that Newton found universal
+laws seems pretty suspect.
+And we feel like we can't stop doing it
+because we have no better alternative.
+Another really interesting and
+important part of the world
+that this way of looking at things
+didn't work for in many ways is AI.
+So this is usually the
+part of an explanation
+where I try to define it.
+And like, what is AI?
+And what's really interesting is,
+there's no universal agreed
+upon definition for this,
+in the same way that there's,
+we've struggled to come up
+with a universal definition
+for what it is to know something,
+or universal definition for
+what anxiety is, for example,
+in psychology is another
+really good example.
+There are a lot of ways
+to kind of like gesture at
+what AI is.
+But really it's like obviously,
+or maybe not obviously,
+AI stands for artificial intelligence.
+And the AI's project
+is to build a computer
+that can think and learn in
+the same way that humans learn.
+And because of the way
+that computers work,
+for a very long time, that
+was a really hard problem.
+AI started as a field in
+the '50s at Dartmouth,
+and you can like actually
+look at the original paper.
+They were very optimistic.
+They were like, you know,
+maybe like, you know,
+a summer's worth of work
+and we'll have nailed this.
+And the way that they defined it
+is to be able to reduce
+down human intelligence
+into a system of symbols
+that they could combine
+together based on explicit rules
+that would mimic human intelligence.
+And so there's a really clear through line
+from Socrates's original
+project to the enlightenment,
+to the original approach
+that AI theorists took called symbolic AI.
+The idea that you could
+embody thinking in,
+essentially like logic, logical symbols,
+and transformations
+between logical symbols,
+which is, it's very similar
+to just basic philosophy.
+And there were actually
+a lot of early successes.
+For example, the two
+founding fathers of AI,
+Herbert Simon and Alan Newell,
+built this machine that they called
+the general problem solver.
+And what's really interesting
+is it wasn't even built as a computer
+because computers were
+extremely expensive back then.
+They originally codified the
+general problem solver on paper
+and then executed it themselves by hand.
+Actually, I think one of them
+had their family do it with
+them to try to simulate
+how a computer would work
+to solve complex problems.
+And the general problem solver,
+they kind of, they tried to reduce down,
+you know, complex real world situations
+into simple logical logic problems,
+that they look a little bit like games.
+And then they tried to see if
+they could build a computer
+that would solve some of those games.
+And they were actually
+quite successful at first.
+What they found was it worked really well
+for simple problems.
+But as problems got more and more complex,
+the search space of possible solutions
+got really, really, really, really big.
+And so by representing
+the problem in that way,
+the systems that they
+built started to fail
+as soon as they moved
+away from toy problems
+to more complex ones.
+I think a really interesting
+and simple example of this
+is thinking about
+how you might decide whether
+an email in your inbox is spam,
+or whether it's important.
+And you might say something like,
+if it mentions that I won the
+lottery, it's spam, right?
+And so that sort of like if then rule,
+is a lot like the kinds of rules
+that early symbolic AI theorists
+were trying to come up with
+to help you solve any problem,
+is to codify like if X, Y, Z is true,
+then here are the implications.
+What happens is if you look
+at that really closely,
+there are always lots
+of little exceptions.
+So an example might be,
+if it says emergency,
+maybe you wanna put that
+at the top of your inbox,
+But very quickly you'll have
+spammers obviously being like,
+just put emergency in the subject line,
+and they'll shoot to the top.
+So then you have to kind of
+like create another rule,
+which is it's emergency,
+but only if it's from my
+coworkers or my family.
+But computers don't really know
+what coworkers or family is.
+So then you have to define,
+okay, like how is it gonna know
+what a coworkers or
+what a family member is?
+So what you can do
+is maybe it's like a coworker
+is anybody from my company.
+And so if it says emergency,
+and it's from anybody in my company,
+put it at the top of my inbox.
+But what you may find
+is that there are certain
+people at your company
+who are annoying and want your attention,
+even if you don't really
+want them to contact you.
+And so they start putting
+emergency into their inbox,
+and now you have to create another rule
+which is like, don't let people
+who are abusing the privilege
+of getting to the top of my inbox,
+abuse it even if they're coworkers.
+And what you find is anytime
+you try to create rules
+to define these things,
+you always run up against exceptions.
+If you wanna, for example,
+define what an important email is,
+you have to define pretty much
+everything about the world.
+You have to create a
+world full of definitions.
+And that project
+of making the entire world
+explicit in definitions
+just didn't work.
+It's too brittle, it's too hard,
+there's too much
+computational power required
+to loop through all the
+different definitions
+to decide, you know, if this
+email is important or not.
+And it's just, there are too
+many definitions to create.
+It's just, it's too big of a project.
+And so that symbolic AI project
+worked in some limited domains,
+and there were these things
+called expert systems,
+for example, in the '70s
+and '80s that tried to,
+for example, reduce medical diagnosis
+down to a set of rules.
+And they were somewhat successful,
+but even in a case like medical diagnosis,
+trying to reduce down to
+a simple set of rules,
+something like do you have measles,
+or maybe even do you have
+anxiety or depression,
+turned out to be really complicated,
+and really, really hard.
+And in fact, impossible to get right
+100% of the time in an explicit way.
+The alternative, which
+originated around the time
+that AI itself originated,
+but really wasn't taken that seriously
+until probably the '80s and '90s
+is what's called a neural network.
+And a neural network,
+it is inspired by the way our brains work.
+It doesn't work exactly the same way,
+but it is inspired that way.
+It is inspired from brains.
+And it basically consists of
+layers of artificial neurons
+that are connected to each other.
+And what you can do with a neural network
+is you can get it to recognize patterns
+by giving it lots of examples.
+You can, you know, for example,
+if you want it to recognize
+like whether an email is important,
+what you can do is you
+can give it an example,
+say like, you know, here's
+an email from a coworker,
+and have a guess the answer.
+And if the answer is wrong,
+what we've done is we've created
+a way to train the network
+to correct its wrong answer.
+And what happens is over many,
+many, many, many iterations,
+and many, many different examples,
+what we find is without any
+explicit set of definitions,
+or explicit rules about like, you know,
+this is a important
+email, or this is a cat,
+or this is a good move in chess.
+The neural network learns
+to recognize patterns,
+and is able to do
+a lot of the more complex
+thinking style tasks
+that early symbolic AI was unable to do.
+Language models are a particular
+kind of neural network
+that operates by finding complex
+patterns inside of language
+and using that to produce
+what comes next in a sequence.
+So what we've done with language models
+is fed them basically,
+you know, all of the text on the internet.
+And when we feed them a piece of text,
+we'll give them, you know,
+of a big chunk of text.
+And then we will say, based on this chunk,
+what's the next word that
+comes after this chunk?
+And language models learn
+that there are many, many thousands
+of partially fitting
+rules that they can apply
+based on the previous
+history of texts they've seen
+to predict what comes next.
+And all of those rules are inexplicit.
+They're kind of like,
+you can observe them in the
+overall behavior of the network,
+but they don't exist
+anywhere in the network.
+You can't go and look
+inside of a neural network,
+and find like this is exactly,
+this is the entire set
+of rules that it has.
+You may be able to find a couple,
+but you can't find a definitive list.
+In the same way that if
+I like took a microscope
+and looked in your brain,
+I would not be able to find that.
+I would not be able to find
+the list of rules that you use,
+for example, to, you
+know, recognize a cat,
+or do the next move in chess.
+They're represented all inexplicitly.
+And what's really interesting
+about neural networks
+is the way that they think,
+or the way that they
+operate is a lot like,
+it looks a lot like human intuition.
+Human intuition is also trained
+by thousands, and thousands,
+and thousands of hours
+of direct experience.
+Often our best metaphor for our minds
+are the tools that we use.
+So a really good example is Freud,
+has one of the most
+impactful models of the mind.
+And the way that he came up with that,
+is he used the steam engine as a metaphor,
+so it's an explicitly
+steam engine-based idea.
+In the 20th century, the
+metaphor for our minds
+moved into being like a computer
+that became the kind of thing
+that we all wanted to be like,
+we wanted to be logical and rational,
+and operate like a machine
+to make the best decisions possible.
+And I think one of the
+most interesting things
+about that way of thinking
+is it makes invisible to us.
+And this, I think, relates a lot
+to the like sort of Socratic enlightenment
+type of thinking as well.
+It makes invisible to us
+the importance of our intuition
+in being the foundation
+of everything that we do,
+everything we think,
+everything that we know.
+In a lot of ways you
+can think of rationality
+as emerging out of intuition.
+So like we have this sort
+of like squishy inexplicit,
+intuitive way of understanding
+what's going on in the world.
+And our rational thought
+comes out of that,
+and is able to,
+once intuition sort of
+sets the frame for us,
+is able to go in, and
+sort of manipulate things
+in a more methodical,
+rational, logical way.
+But you sort of need both.
+And neural networks are
+the first technology
+we've ever invented that works
+a lot like human intuition.
+And the reason I love that is because it,
+I hope that it makes more visible to us
+the value and importance
+of intuitive thought.
+And that actually loops back
+and takes us all the
+way back to Protagoras,
+and is sort of the thing that we lost
+in this birth of rationalism,
+and back in Callias's house,
+because Protagoras is arguing
+that everyone teaches us
+excellence all the time.
+He's arguing, he's using
+stories, and myths, and metaphor
+to help understand something that he knows
+from his own personal experience.
+And Socrates is saying,
+well, if you can't define it,
+if you can't tell me exactly the rules
+by which you know something,
+then you don't know it.
+And that way of thinking about the world
+has been very successful for us,
+but it also kind of
+blinded us to how important
+that idea that everyone
+teaches us to be excellent,
+that stories and personal
+hands-on experience
+give us a way of knowing about things
+that we may not be able
+to explicitly talk about,
+but we still know,
+just as much as we know things
+that we can explicitly say.
+And it was only when we
+began to embody that way
+of being in the world or
+that way of knowing things,
+that way of thinking into machines
+that we started to get actual
+artificial intelligence.
+There's many different
+ways of knowing things,
+and many different ways
+of understanding things,
+and we may not understand
+all of the particulars
+of how, humans, for example,
+how our minds come to certain
+conclusions intuitively.
+And we may not understand
+all the particulars
+of how language models, for example,
+come to any particular output,
+but that doesn't mean that
+we don't understand them,
+it just means that we understand them
+in a different way than
+we might be used to.
+So for example, if you
+use ChatGPT all the time,
+you develop an intuition
+for what it's good at
+and what it's not good at,
+and when it might be hallucinating,
+and when it might not be.
+In the same way that you
+might develop an intuition
+for when a friend of yours is sad,
+or when a friend of yours
+is not being totally truthful with you.
+And that's not a universal set of rules
+that applies to everyone
+in every situation,
+or even to your friend in every situation.
+It's just a sort of like intuitive feel
+that is a core part of understanding,
+but that we normally discount.
+History shows that it is better to be open
+to more ways of seeing and
+working with the world.
+And that in this particular era,
+it's very important to be
+able to work with things
+that are a little bit mysterious,
+and be comfortable with that.
+- [Narrator] Chapter 2,
+seeing the world like
+a large language model.
+- I've always been like a
+real huge note-taking nerd.
+I love taking notes,
+especially because when I
+started my first company,
+I started my first company in college.
+And I ended up selling it.
+I flew from my college
+graduation to Boston
+to finish negotiating the deal to sell it.
+So that whole situation for me
+was this trial by fire of
+like, I felt like I had to,
+I was like an information firehose.
+I had to learn so much
+in order to successfully
+run a software company as a,
+I guess I was 20, 21, 22.
+And the way that I felt
+like I could do that best
+was to start taking notes,
+is to be like, okay, I learned
+this thing from a book,
+and it's about for how to
+hire people for example.
+And I know, I think
+it'll be relevant for me,
+but I don't know when
+it's gonna be relevant.
+So I'm gonna write it down
+and I'm gonna try to create
+like the perfect organizational system
+to categorize all this stuff
+so it'll come back to me when I need it.
+And if you really take
+seriously that question of like
+how do you build the perfect note taking
+or organizational system,
+you actually run into the same problems
+that early symbolic AI theorists run into,
+and philosophers have been
+running into for a long time,
+which is how do we
+create the perfect system
+to organize reality?
+How do you know, you know,
+where to put a particular note?
+Is the same sort of question as like,
+how do we know what we know?
+And so when I first bumped
+into the language models,
+I realized that they had this ability
+to be sort of flexible and contextual
+in a way that meant that
+I didn't have to create
+the like perfect organizational system
+to teach a computer how
+to like organize my notes.
+It operated in this way that
+was ruleless, and fuzzy,
+and flexible.
+And I had just never seen
+a computer do that before.
+Like the first experience
+of seeing that line of words
+go across your screen,
+it's kind of in your voice a little bit,
+and it's kind of like picking
+up where you left off,
+and it kind of understands
+all the little contextual cues
+that tell it about what
+you're talking about
+that no computer previously could do.
+The interesting difference
+between the way that a language
+model might see the world
+and maybe another kind of
+computer is computers, science,
+what both of those ways of
+seeing the world are trying to do
+is reduce the world
+into a set of really clean universal laws
+that apply in any situation.
+Is to say if X is true,
+then Y will happen.
+Like really clear cause and
+effect, really clear chains
+that are universal and context-free.
+And what language models see instead
+is a dense web of causal relationships
+between different parts of the world
+that all come together in unique
+very context-specific ways
+to produce what comes next.
+And I think language models do something
+really, really unique,
+which is that they can give you the best
+of what humanity knows,
+at the right place, at the right time
+in your particular context,
+for you specifically.
+Where, you know, for example,
+previously on the internet,
+you could get an answer
+that was written by someone
+for like a very general reader
+or a very general situation,
+and maybe you'd have to like
+hunt through a Wikipedia page
+to find like the one sentence
+that answers your question.
+Language models go one step further,
+which is they reduce down
+their response to you
+to be written for you
+in your context, in your
+place, and in your time.
+If you look at the history
+of machine learning
+from symbolic AI,
+where we're trying to
+break down intelligence
+into a set of definitions of,
+you know, a theory and a set of rules
+for how thinking should work,
+all the way up to neural
+networks and language models
+where it's much more contextual,
+it's much more about pattern matching,
+it's much more about
+interpreting the richness
+of a particular situation,
+and using all prior
+experience in a sort of,
+in an explicit way to
+predict what comes next.
+That sweep of the history of AI,
+in a lot of ways is speed running
+the history of philosophy.
+So philosophy started with this attempt
+to make explicit what
+it is to know something.
+Now we're in this place
+where it's like actually,
+like it's all kind of like
+fuzzy, and pattern matching,
+and it's very, very
+contextual and relational.
+But it's also not anything goes.
+And it's being done in a way that like,
+we've created a positive
+tool that you can use,
+and like build stuff with in your life.
+We're not just sort of
+deconstructing everything around us.
+And so in a lot of ways,
+machine learning and AI's
+speed running philosophy,
+and it's gone a little
+bit of a step further,
+because it's built something
+with it that you can do.
+A way of being in the world that you can,
+or a tool you can use.
+And I think, A, that's just
+like critically important
+and very interesting.
+And B, I think a lot of the changes
+that have happened in both
+philosophy, and in AI,
+and machine learning
+are going to happen in
+the rest of culture.
+So moving from this way of
+thinking about knowledge,
+which is about making everything explicit,
+finding theories, and
+definitions, and rules
+for how to understand the world,
+to a more balanced
+appreciation for both that,
+and the way that a more intuitive
+relational fuzzy pattern matching type
+experiential, contextual type
+way of knowing about the world
+has to be underneath the
+like the rational stuff
+in order for the rational
+stuff to work at all.
+And it's really about recognizing
+the more intuitive ways
+of knowing about the world
+as being the sort of
+original parent and partner
+of rationality,
+and appreciating that for what it is.
+You know, a lot of what
+we've been talking about
+is that looking for one general rule,
+or one general theory about a
+particular part of the world
+sometimes is really valuable,
+and sometimes leads us down dead ends.
+And instead, what we
+have to pair it with is,
+deeply contextual understanding
+based on experience
+that allows us to work with
+the richness and novelty
+of any particular situation
+to understand what comes next.
+And that's what language
+models are able to do.
+And it sort of begs the question of like,
+should we stop looking
+for general theories?
+And for example, should we, you know,
+not be trying to unify quantum physics
+with Newtonian mechanics?
+I definitely think that it's awesome
+that we're trying to unify those things,
+and trying to build a universal theory.
+But I think it's also worth thinking about
+what that will actually tell us,
+and how far that will get us
+once we have a universal
+theory of physics,
+if we do get there.
+And my contention,
+or the way that I feel
+is it will be beautiful,
+and it'll be amazing, and
+it will tell us a lot.
+But also, there are many, many, many, many
+parts of the world that
+it won't touch at all.
+That we still,
+even if we have a universal
+theory of physics,
+like that probably won't filter into
+our understanding of depression.
+It's like, what is depression?
+How is it caused?
+How do you treat it?
+What is anxiety?
+How is it caused, how do you treat it?
+We've been searching for those things
+for a really, really long time.
+And we've had a lot of
+like different answers.
+Like if you ask Freud, he'd say one thing,
+and if you ask like a modern psychiatrist,
+neuropsychologist, psychiatrist,
+they might say something else.
+But really, like we just, we
+still don't actually know.
+And we keep trying to do that.
+We keep trying to find that
+kind of like universal theory,
+that explanation that says,
+well, if X, then Y,
+if you have this going on in
+your life or in your brain,
+then you're gonna get depressed.
+Or if you take this medication,
+then depression will go away.
+We've been trying to find
+that for a really long time,
+because we felt like we
+had no other options,
+because normally in order
+to predict an outcome,
+to know, oh, if I do this,
+then it'll cure someone's depression.
+To predict it,
+you have to have an underlying
+scientific explanation,
+you have to have a theory about it.
+And I think AI actually changes this.
+So with AI, what you can do is,
+and people are really
+already starting to do this,
+you can train neural networks
+that are, for example,
+able to identify who is depressed
+or who will get depressed.
+You can train neural networks
+who will be able to predict
+which interventions might for which people
+and which circumstances
+in a very contextual,
+hyper-personalized kind of way
+without having to discover beforehand
+any scientific explanation
+for the underlying phenomena
+that we're trying to predict.
+So like we don't have to have
+an explanation for depression,
+we can just train a model on enough data
+that it will be able to
+predict what might work,
+or whether you have it or
+whether you're gonna get it.
+The reason why I think
+that's so valuable is,
+one, it allows us to make
+progress immediately,
+'cause we turn what used
+to be a scientific problem
+into an engineering problem.
+And then, two, it like really changes
+how we should conduct science,
+how science should be done.
+It changes our view of that,
+because right now, if you're a scientist,
+and you wanna like figure out depression,
+or any number of things in
+the field of psychology,
+what you're gonna want to do is like,
+a really small scale
+study where you're like,
+I'm gonna take 16 undergrads,
+and I'm going to, maybe
+they have depression,
+I'm gonna ask them to
+like smile every day.
+And I'm gonna put them in an fMRI,
+and then I'm gonna like
+measure the results afterwards.
+And if I get a little bit of a result
+on a very, very small
+number of undergrads,
+then I'm gonna like get more funding
+to do a study with a hundred or whatever.
+And you're kind of like
+trying to climb this ladder
+of going from very small
+scale interventions,
+to like very big ones.
+And to use that to come to
+some sort of underlying theory
+about what is actually going
+on in those situations.
+And what we found
+because of the replication
+of crisis is like,
+it's just really hard
+to using that, you know,
+those 16 undergrads,
+it's really hard to like find out
+anything that feels universal
+or universally applicable.
+It's one of the reasons why
+even though antidepressants
+have been around for like 60
+years or something like that,
+like we still actually don't know
+when they work or how they work.
+We know they work for some
+people some of the time,
+but that's pretty much all we can say.
+What AI does is it kind of helps us,
+I think, to me,
+it helps us realize that
+there's a better way,
+which is rather than have,
+you know, random academics
+doing small scale studies,
+what we should do is have like the,
+you know, Apples, and Metas,
+and Googles of the world
+donate their data to
+science and data trusts
+so that scientists can
+access 'em to train models.
+You can figure out ways to do it in ways
+that are privacy-preserving
+so that doesn't violate
+the trust of users.
+But I think that would seriously enhance
+the progress of science,
+in a way that like doing
+billions of dollars
+worth of like small scale studies
+like has not been able to.
+And what I think is even more
+interesting is once you have,
+once you've trained models that can,
+for example, predict
+depression really well,
+what you may be able to do is,
+models are actually easier
+to interpret and understand
+than brains are.
+And so if you have a
+good enough predictor,
+what you can do is just
+go into the neural network
+and try to figure out how it's wired.
+And it may be that the
+explanation for what depression is
+is like too big and too complicated,
+and you can't figure it out.
+But mechanical
+interpretability is good enough
+that you may be able to like find
+what is a solid theory for depression
+in the weights of a
+trained neural network.
+For me, I've just spent so much of my life
+trying to explain things,
+or understand myself,
+or understand my world
+in this sort of theoretical
+definitional way,
+and I've seen how important that can be,
+and also how limiting it can be.
+In particular, if you
+stop paying attention to
+what your intuition tells you,
+and you just rely on your
+kind of logical brain,
+it's really easy to get lost.
+There's like this whole
+richness to life that,
+and to like what you know
+that comes out of
+this sort of like
+intuitive sense of yourself
+that helps you in your,
+helps me, for example, in
+business, in my personal life,
+and my ability to make decisions,
+and my ability to write or make good art.
+All of that is sort of based
+on this ineffable intuition
+that I built up over many,
+many, many, many years.
+And my logical brain is helpful
+in certain circumstances,
+but I think like it can blot out,
+or take over from my intuitive self
+in ways that have been destructive for me.
+And I think also have been destructive
+just as a society.
+There's a lot of stuff that we miss
+because we miss how
+important intuition is.
+And now we have tools that can embody
+a lot of that intuition,
+that can take some of that
+intuition that we built up,
+and we can put it into
+something else in the world
+that we can pass around,
+which was never possible before.
+You know, like I think we've been pursuing
+explicit definitions and
+scientific explanations
+for things for a long time,
+because if you can write
+it down, you can spread it.
+And that becomes a, like the
+way that society progress
+is sort of like these
+spreading explanations.
+But if you're dealing
+with parts of the world
+that you can't write down explicitly,
+there's been no good way
+to collaborate on them
+or make progress on them.
+And what neural networks allow us to do,
+is to take some of that
+intuitive experience,
+or intuition that we might
+have built up ourselves,
+and put it into a machine
+that we can pass around.
+And that's useful, for
+example, for like doctors,
+for expert clinical diagnosis.
+The best clinicians in
+the world know something
+about how to deal with patients
+that they can't write down,
+they can't embody in a set of rules,
+and is trapped in their head.
+But language models and AI in general
+allows us to put that kind
+of intuition into a tool
+that will allow anyone in the
+world to access, for example,
+the best clinician in the world.
+Even if we can't write
+down what they know.
+- [Narrator] Chapter 3,
+will AI steal our humanity?
+- Well, first of all,
+I think like AI will seriously enrich
+our understanding of ourselves.
+I think AI is an incredible mirror.
+Like I understand so
+much more about myself
+just from being able to talk to ChatGPT,
+and being able to throw into it,
+like here's a meeting that I just had,
+like can you tell me like how
+I showed up in that meeting?
+So it's an incredible mirror.
+It's also an incredible
+metaphor for our minds.
+So we're moving from this
+metaphor of our minds,
+as like in an ideal world,
+this like logic rule-based
+explicit computer,
+to a much squishier,
+contextually-sensitive
+pattern-matching,
+experience-driven language model
+that I think is a really good metaphor
+for the more intuitive parts of our mind.
+And so I think that will enrich our,
+what used to be a very narrow picture
+of what it means to be human.
+But I think what's what's most
+important is to understand
+that the humanity is inside of us.
+Like we bring the humanity to the tools,
+to the tools that use, to
+the things that we build.
+And I think in a lot of ways,
+the like, will it take our humanity?
+It makes two errors.
+The first error is to think
+that you can like pin down
+what it is to be human into
+like one unchanging thing.
+Like that actually has evolved,
+and is different over time.
+And I think the second error
+is to confuse what we are-
+It's a little hard to
+put it, but it's like,
+it's sort of like saying that
+what you're unfamiliar with is bad.
+And that's not exactly the right thing.
+But like, I think a really
+good example is, you know,
+when my grandmother, for
+example, she's not alive anymore,
+but when she would use like
+the phone, or text someone,
+or be on the phone with someone,
+to her, it felt very impersonal.
+In a lot of ways, it feels
+like kind of inhuman, right?
+Like a sort of face-to-face interaction
+is a much more human,
+personal thing for her.
+For me, or for people who
+are even younger than me,
+texting like can feel very, very intimate.
+You know, in the late 1800s,
+getting a typewritten letter from someone
+was kind of insulting.
+It felt very impersonal not
+to get something in longhand.
+But now we don't get any longhand letters.
+If you do, it's like that is actually,
+it's still very, very personal,
+but it's not insulting to
+get an email from someone.
+If someone sends you a long email,
+you're kind of like,
+wow, that's really nice
+that they took the time to think of me.
+I think all those worries
+that are sort of like,
+does it take away my humanity?
+A lot of them come from the fact
+that we just don't have
+a lot of experience yet
+with these new things.
+They don't have that like patina
+of like nostalgia and history
+that other things that
+we look at in our lives
+that our technologies do have.
+So like books,
+at a certain point books
+were a very suspicious thing.
+And now they are, I love books.
+Like I have such a romantic
+attachment to them.
+And I think that's one of
+the things that we miss
+when we evaluate new technologies,
+is they just, we just
+haven't had the chance
+to allow them to feel human to us,
+'cause we're unfamiliar with them.
+I think the people who
+are super afraid of AI,
+it is actually, it sort of goes back
+to this rationalist idea that
+we've been talking about,
+which is if you can't explicitly define,
+and prove 100% that a thing is safe,
+then it's dangerous.
+I don't know if anyone's had
+like a teacher, or a parent,
+or someone in school that's
+like, no matter what you do,
+you can be the smartest
+person in the world,
+but they're gonna find that one fuck up,
+and just like hammer you for it.
+And I think a lot of people
+that are worried about that are,
+they're just waiting for that one fuck up.
+And it's true, that does happen.
+But the alternative is, the
+demand that AI only say things
+that can be proved to be true.
+And that sort of, to me at least,
+like takes away a lot of the magic of AI.
+Like the thing about it that
+makes it actually powerful
+is that it works on probability,
+it works on many, many, many
+thousands of correlations
+coming together to figure out
+what the appropriate response
+is in this one very unique,
+very rich context.
+And allowing it to say only
+things that are provable,
+obviously begs the question like,
+well, what is true and how do we know?
+And there are certain domains
+where we can answer that question.
+So like in math and computer
+science, for example,
+it's like pretty clear whether or not
+like a theorem is right.
+It's back to the same question
+from Socrates, which is like,
+what do we know and how do we know it?
+And a demand for explicit
+rational explanation
+for every single thing that we say.
+And I think that that demand
+is like way, way, way too strong,
+and actually eliminates a lot of things
+that we know about the world,
+or parts of the world
+we want to work with,
+where we actually don't have
+precise, exact explicit answers.
+And it sort of results in
+these thought experiments
+that get people really scared,
+like the sort of one shot idea,
+that you have one shot,
+once you build a super intelligence,
+you have one shot to make
+sure that it's aligned,
+that it will follow human preferences,
+or it will kill us and
+take over the world.
+And you can find people who
+are like real rationalists,
+like Eliezer Yudkowsky,
+who really believe this,
+and really believe that
+we're like going to all die.
+Which that sucks.
+That's like not a great place to be.
+And what's kind of interesting
+is we have really smart AI right now.
+Like I think it's the kind of AI
+that if you had asked rationalists,
+or people who were thinking
+about this stuff 10 years ago,
+is this AI and is this
+at a level that's like,
+could be dangerous?
+They would have probably have said yes.
+If you look at how it's actually built,
+yes, we don't have any provable ways
+to be like it's 100% safe.
+Ignoring the fact that even
+defining what 100% safe is,
+is like impossible.
+And that's like the whole reason
+that language models work.
+But what we're doing every single day
+is we are training these
+models on human preferences.
+We're giving them examples
+over, and over, and over again
+of what we want and why.
+And each model builds on
+models that came before it.
+They actually have a dense, rich idea
+of what it is to be good from
+all the data that they get.
+They also have a dense, rich idea
+of like probably what it is to be bad.
+But in a lot of ways, the
+training that we're doing
+makes them much, much, much less likely
+to do any of that stuff.
+There's something very like
+practical and pragmatic about,
+we have a machine, we don't
+know fully how it works,
+but we're just gonna like teach it,
+and we're gonna like iterate with it
+over, and over, and over again
+until we kind of basically get it to work.
+And it's sort of squishy.
+We don't have any guarantees,
+and that world is,
+it is actually the sort
+of like messy real world.
+It is actually kind of
+like how you think about
+interacting with a human is like,
+yeah, I don't know if
+you're gonna lie to me,
+but like I'm gonna sort of figure it out.
+The fact that we don't
+have those guarantees
+from language models is
+what makes them so powerful.
+And so I think like,
+it's not that language models
+could never be dangerous,
+but I think adopting
+the more pragmatic
+experience-based mindset,
+which is like, we're
+gonna build these things,
+we're going to improve them
+in a fairly predictable way.
+It's not predictable
+exactly all of the specific capabilities
+that they're gonna get,
+but we can basically tell like in general,
+how much smarter they're gonna get
+every time we do a training run.
+And along the way, we are
+going to iterate with them
+in real world scenarios
+to make them less likely to do bad things.
+That scares people
+who demand a certain kind
+of rationalistic guarantee.
+But for people like me,
+people who build stuff,
+solving the problems in practice
+actually is a better way to do things
+than solving them in theory.
+I think there's a really
+big question about
+how AI may change creative work.
+And there's this idea that,
+well, it's gonna do all the work for me,
+so like I'm basically not
+even doing it anymore.
+It's not mine.
+It's not like, it's not my work.
+And I like thinking up ideas or metaphors
+for what it may actually be like,
+or what it sort of,
+honestly what it is like now,
+and what it will continue to
+be like more in the future
+to explain how you can
+still do creative work
+that feels authentic and feels like you
+while an AI is doing some part of it.
+One of the metaphors that I like to use
+is this sort of difference
+between a sculptor and a gardener.
+So creative work ordinarily
+is a lot like sculpting.
+If you're a sculptor, and you
+have a big block of marble,
+or you know, big piece
+of clay or whatever,
+every curve in line in
+that finished product
+is something that you decided to do
+like with your own hands.
+So you had to decide to do it,
+otherwise it would not be there.
+And I think that working
+with AI is actually,
+it's a bit different.
+It's a lot more like gardening.
+If you're a gardener,
+you don't like pull the
+plants up from the ground
+by the roots to try to make them grow.
+Like that won't work.
+You can't directly cause
+the plants to grow.
+But what you can do is you
+can create the conditions
+for the plants or the
+garden that you're making
+to flourish in a particular kind of way.
+You can change the amount of sun,
+you can change the soil, you
+can change the amount of water,
+or you can decide which plants go where,
+you can do some weeding.
+And all of that stuff is a
+way for you to shape something
+by altering the conditions
+under which it happens
+without doing it yourself.
+And I think that's a lot like
+what working with a model well is,
+especially a model that is more agentic
+and does a lot more by itself.
+I think a lot of, I think
+that's a good metaphor
+for what that experience is like.
+I think the thing that I love most
+about this era of technology
+is I'm a generalist.
+Like I love doing lots
+of different things.
+I run a company where
+we have a newsletter,
+we have three software products,
+we have a consulting arm.
+I am writing, I'm programming,
+I am making decisions all day,
+I'm like making little memes.
+Like there's, my day is full
+of different things to do,
+and I would not be able
+to do all these things
+at the level at which
+I'm doing it without AI.
+It has all of the specialized
+knowledge already.
+So it's like having 10,000
+PhDs in your pocket.
+And so I can dip into an area
+of study or an area of work,
+like writing, or programming,
+or whatever it is.
+The AI does a lot of the
+sort of more repetitive
+specialized tasks,
+and it will allow individuals
+to be more generalistic in
+general in the work that they do.
+And I think that would
+be a very good thing.
+What's most important is to
+have hands-on experience,
+like hands-on use of them to
+understand for yourself like,
+okay, here's a place where
+it may not work as well,
+and here's a place where it may,
+it's gonna work really, really well.
+Here's where I need to watch
+everything that it does,
+and here's where I can
+kind of like delegate more.
+And this actually gets me
+to like another metaphor
+that I really like, or
+another idea for understanding
+this wave of technology
+in a way that I think is really helpful,
+which is this idea that we're moving from
+a knowledge economy to
+an allocation economy.
+In a knowledge economy,
+you are compensated
+based on what you know.
+In an allocation economy,
+you're compensated based on how well
+you allocate the
+resources of intelligence.
+And there's a particular set
+of skills that are useful today
+but are not particularly
+widely distributed
+that I think will become
+some of the main skills
+in this new economy, in
+this new allocation economy.
+And that is the skills of managers,
+those are the skills of
+managers, human managers.
+And human managers are only
+a very small percentage
+of the economy right now.
+I think it's like 7% of the
+economy is a human manager.
+But I think the skills
+that those people have
+are going to be very widely distributed.
+Things like knowing what you want,
+being able to articulate what you want,
+being able to break down a complex task
+or a complex project
+into a set of smaller, achievable subtasks
+that you can then give
+to the right person.
+Knowing what any given
+person on your team can do.
+Like what are they good at,
+what are they not good at?
+Being able to know like,
+do I micromanage them?
+Do I delegate it entirely?
+How can I trust if I
+didn't do the work myself?
+How can I trust that it was done right?
+These are all questions
+that human managers today,
+especially younger human
+managers like need to figure out.
+It's so easy to be like, well,
+I can't trust this person
+so I'm gonna like go in and
+check every little thing.
+But then you realize as a manager,
+well, I'm just basically
+doing the work myself.
+Like that doesn't
+actually get me anywhere.
+It doesn't get me anywhere.
+But on the other hand,
+if I delegate everything,
+then it may not happen the way I want.
+So you have to figure out the nuances
+of all those situations.
+And I think the same thing is
+true of being a model manager.
+You can see like the overlap
+in the kinds of complaints
+or the kinds of problems that
+people run into using models.
+It's like, well, if I
+didn't do the work myself,
+like how can I trust it?
+And the answer is, you have to
+get good at managing a model.
+You have to get good at having
+an intuitive understanding
+of how do I know what I want?
+How do I express it to the model?
+How do I know which model to
+use in which circumstance,
+and how do I know like what
+are the particular pitfalls
+of this particular model,
+this particular personality,
+its skills, its way of being in the world?
+You can throw your hands up and be like,
+well, it doesn't work.
+Or you can say like, no,
+there's an intuition I can build
+for how to manage it
+and how to build with it
+that will actually,
+that might be a sort of a different skill
+than the one that I've
+developed so far in my life,
+but is incredibly valuable,
+and can be immensely
+effective, and productive,
+and satisfying if you'd
+learn how to do it right.
+One of the most important
+questions in philosophy
+is the sort of hard
+problem of consciousness.
+Like how does something become conscious
+out of inert matter?
+And if we're looking for a
+definition of intelligence,
+one of the ones that
+makes a lot of sense to me
+is the idea that
+intelligence in a lot of ways
+is like a form of compression.
+So if you think of problem
+solving as like a search space,
+like you wanna find the right chess move,
+you wanna mark a email as
+important, you wanna whatever,
+you have a whole search space
+of different possibilities.
+Something that's intelligent
+is able to compress
+a lot of the answers,
+or yeah, is able to compress
+a lot of the answers
+into a very, very small amount of space.
+And so it's able to,
+given a new situation,
+get through that space
+and find the right thing
+like very, very quickly.
+So brains contain like an
+extraordinary compression
+of like all of the
+situations that we've faced,
+and all the memories that we have,
+and all the problems that we solved,
+and are able to use that
+to apply to new situations.
+And I think my guess is
+that consciousness functions
+as a highly efficient method
+of compression in one sense.
+But I'm also, I don't really know.
+And I think there's also something
+interesting and beautiful
+about thinking about things in the world
+as all having a little
+bit of consciousness,
+like a sort of panpsychic perspective.
+And humans just having to
+happened to have a lot of it.
+And from that perspective,
+like language models have maybe,
+probably have a little
+bit of consciousness.
+And the reason I like
+that is it encourages us
+to treat things in the world
+as if they were conscious,
+which I think is a much
+better, more compassionate way
+to operate in the world,
+and I think would actually
+make us more effective
+at getting the most
+out of language models.
+Away someone who is from a
+particular religious tradition
+might put it is to say
+that everything has a
+little bit of God in it.
+And to operate in the world that way
+is to operate in a world
+full of meaningfulness
+and significance.
+And to me, just feels
+like a better way to live,
+versus like a world
+where like everything is just sort of like
+gray lifeless stuff.
+If everything's alive,
+it makes the possibilities for like life,
+and doing things like way
+more fun and interesting.
+I always say please and
+thank you to ChatGPT
+'cause you never know when
+the machine apocalypse
+is gonna come.
+Like I'm saying all this good
+stuff, but like it's possible.
+It's always possible.
+There's no guarantee,
+and I just, you know, I think
+saying please and thank you
+will make it less likely
+that if it does come,
+I will, you know, be on
+the bad list, you know?
+- [Narrator] Wanna support the channel?
+Join the Big Think's Members Community,
+where you get access to
+videos early, ad-free.
