@@ -1,0 +1,512 @@
+Artificial intelligence tools are transforming 
+the way people find information on the internet  
+and this change is happening faster than 
+publishers can adapt. When users question  
+chatbots rather than using search engines, 
+they are given answers, rather than links  
+to follow and this is changing the economics of 
+the internet – and in particular the economics  
+of news providers – who spend money gathering 
+information that they can no longer monetize. 
+ 
+Over the last few years, millions of users 
+have shifted from search engines to AI  
+chat tools for research, recommendations, and 
+real-time answers. Tools like ChatGPT, Claude,  
+and Perplexity are now directly answering 
+questions that once sent readers to primary  
+online sources that they felt they could trust. 
+As users drift away from trusted news sources,  
+they place growing faith in AI systems trained 
+to mimic authority—tools that scrape the web  
+for answers but offer no accountability.  
+About a year ago Google rolled out AI Overviews  
+and then more recently AI Mode - features that 
+answer questions directly on the google search  
+page, often without crediting the original 
+sources. For users, this feels seamless – they  
+don’t have to constantly refine their search terms 
+to find the information they were looking for and  
+they don’t have to read ten different articles 
+to work out an answer to their question - but  
+for publishers, this has been disastrous. 
+A report by Enders Analysis, based on Sistrix  
+data was released a few weeks ago showing that 
+news visibility in search results has collapsed.  
+The Mirror’s presence on Google is down 80% since 
+2019. The Mail has lost more than half. Even the  
+Financial Times – a specialist publication 
+with a loyal subscriber base, saw a 21% drop  
+in traffic this spring. The report attributes this 
+decline primarily to changes in Google’s systems,  
+in particular - the rollout of AI Overviews 
+and AI Mode, rather than publisher strategy.
+ 
+This shift is structural. AI tools are 
+intercepting the audience before they  
+reach the source of the information they are 
+seeking. Google’s AI overviews is doing this  
+even for users who weren’t looking for an 
+AI answer. Publishers can’t opt out from  
+this without disappearing from search entirely 
+– meaning that the economic model that sustained  
+journalism—clicks, subscriptions, advertising—is 
+being rapidly eroded by systems that extract  
+value from news providers without returning any.
+This chart from the Economist shows that news and  
+media are by no means the most affected by this 
+change. Science and education sites and reference  
+sites (like Wikipedia) are doing even worse – with 
+health information being the most impacted.  
+ 
+Search engines were – and still are – to a certain 
+extent - the gateway to the internet – but that  
+gate is rapidly closing. The shift in user 
+behavior is already measurable. In April,  
+Apple reported the first-ever decline in Safari 
+search volume, a change they attributed to users  
+turning to AI chat tools instead of traditional 
+search engines. A TechRadar survey conducted in  
+December found that 27% of U.S. users and 13% of 
+UK users now use AI tools like ChatGPT instead  
+of search engines to begin their information 
+gathering. The reasons cited include speed,  
+specificity, and ease of use. 
+Google referrals to news sites have  
+dropped from around 65% in 2019 to 30% today, but 
+this decline began long before AI Overviews. 
+ 
+A few years ago, people used to say that “nothing 
+ever disappears from the internet” – usually as  
+a warning against posting anything that 
+you might later be ashamed of – but we  
+have since learned that things can still 
+disappear – even if they are never erased  
+because they just become impossible to find.
+Over the last few years, Google became less  
+and less efficient at finding the information 
+you were searching for – both because the web  
+became saturated with SEO-optimized content, and 
+because google started returning sponsored search  
+results. Users found that they had to sift 
+through clutter to find credible sources.
+ 
+AI tools turned up on the scene right as 
+internet search was faltering and according to  
+The Atlantic - AI-chatbots have already replaced 
+search for more than 25 percent of Americans. 
+ 
+Google’s own AI features have made this 
+switch even more extreme, As they provide  
+AI answers to people who were planning on 
+using traditional search. The problem is  
+that if things continue in this direction AI will 
+eat itself. If news organizations and reporters  
+can no longer earn a living by doing the hard 
+work of researching an important story – that  
+work just won’t be done – and chatbots will 
+just have to resort to making up answers,  
+relying on press releases or on propaganda 
+– posted deliberately to mislead readers.
+ 
+Content producers are obviously working to find 
+a new structure where AI companies pay them for  
+valuable information, but if that can’t, the open 
+web may evolve into something very different.
+ 
+So, let’s look at how AI is accelerating the 
+collapse of the web’s information economy,  
+what it means for the future of journalism and 
+online content, and why the stakes are higher  
+than most people realize. Before we dig into that 
+let me tell you about this week’s video sponsor  
+Tello mobile. If you're tired of overpaying 
+for phone service, TM Mobile might be exactly  
+what you need. With prices starting at just $5 
+a month, T lets you build your own phone plan,  
+so you only pay for the minutes and data you 
+actually use. Whether you're a student, a senior,  
+or someone who's always on Wi-Fi, Tello gives 
+you the flexibility to stay connected without  
+breaking the bank. All plans come with 
+unlimited texting, free mobile hotspot,  
+and no contracts ever. And because Tello runs on 
+a major nationwide network, you'll get great 5G,  
+4G, LTE coverage wherever you go. Need to switch 
+things up? No problem. Tello’s month-to-month  
+structure means that you can adjust your plan 
+anytime, hassle-free. So, if you're looking for  
+a smarter, more affordable way to stay connected, 
+Tello Mobile offers flexible and affordable phone  
+plans with prices up to $25 a month. Check 
+out Tello using the link in my description.
+ 
+The problem Google has with AI companies - is 
+not the AI technology itself - but what that  
+technology does to their existing business model. 
+Google is not really in the business of giving you  
+the best answer to your search questions; it's in 
+the business of giving you a good enough answer  
+so that you stick with google search, while 
+encouraging you to click on an ad. If you ask  
+what’s the best webcam, Google has to ensure that 
+you will see ad placements paid by its customers  
+at the top of the list. Google is now pitching 
+that their new AI driven approach to search allows  
+you to “let Google do the Googling for you.”
+In theory, with the AI mode you can still see  
+the links and use your own judgment, but 
+not many users are clicking on the links  
+anymore. And because their advertiser driven 
+business model needs to continue working,  
+the answers you get - might be colored 
+by the need to sell certain products.
+ 
+If you ask for health advice – as it appears 
+many users are – will you be served information  
+from reputable sources or from questionable 
+supplement sellers who are paying for clicks? 
+ 
+I’m not sure how much you can trust this AI 
+stuff…Recently I have been getting all these  
+adverts on YouTube from a guy who says he is 
+68 – he’s also AI – and he has been doing Tai  
+Chi and is in great shape. And I figure I’d 
+like to be AI and in great shape too – but  
+when I click on the link it tries to get me to 
+do those exercises that you see old people doing  
+at the park – and I don’t want to do that – as I 
+worry that they’ll scramble my brain – like they  
+did for this guy. I mean look at what he wrote on 
+the white board… I started Tai Chi Chi fifty. Now  
+I now I’m 68 Doctors ack ask me for advice. 
+They’re probably not ack asking him for advice  
+on how to write…  
+Anyhow…  
+ 
+Good journalism is expensive to produce. 
+It requires reporters on the ground,  
+editors with judgment, and teams of fact-checkers. 
+Traditionally, this work was funded through either  
+subscriptions or advertising. If users stop 
+visiting websites, the incentive to produce  
+original content disappears entirely. Why would 
+anyone write a news report - just for it to be  
+scraped by a dozen AI bots, scrambled up with 
+other news and delivered to an audience – who  
+have no interest in how it was created? 
+The result would be fewer investigations,  
+fewer foreign correspondents, fewer deep 
+dives into complex issues. The web turns  
+into a hall of mirrors—reflecting summaries of 
+summaries, AI hallucinations and press releases,  
+with no original source in sight.
+This affects publishers, advertisers,  
+and AI companies alike. AI tools depend on fresh, 
+high-quality content so that they can function.  
+They need journalists to gather facts, analysts 
+to interpret data, and reviewers to test products.  
+If those people can’t earn a living, the source 
+material dries up. The bots will still generate  
+answers—but those answers will be stitched 
+together from outdated articles, press releases,  
+and propaganda. AI ends up eating itself.
+Publishers are trying to fight back—through  
+licensing deals, lawsuits, and technical 
+blocks—but the economics are brutal. If  
+the ad money flows elsewhere, and the 
+traffic never arrives, the open web may  
+not survive in its current form. AI won’t 
+just disrupt journalism. It will hollow out  
+the information ecosystem it was trained on.
+Journalism isn’t the only thing under threat.  
+The entire ecosystem of online 
+reviews—once a vital part of  
+consumer decision-making—is breaking down too.
+Before the internet, reviews were published in  
+magazines. But those weren’t always trustworthy. 
+Big advertisers could influence editorial  
+decisions, and readers had limited ways to verify 
+claims. The internet offered an alternative:  
+independent reviewers who built trust through 
+transparency and consistency. Tech reviewers,  
+car reviewers, and niche experts earned 
+loyal audiences by being honest—and monetized  
+that trust through views and subscriptions.
+Online reviews were one of the best things about  
+the early internet. Platforms like Amazon offered 
+a new kind of transparency—real feedback from real  
+users. For shoppers, this was a breakthrough. You 
+didn’t have to trust an advert or a sales pitch.  
+You could read what other consumers thought.
+That trust didn’t last. Sellers began gaming the  
+system. Some offered free gifts or discounts 
+in exchange for five-star reviews. Others  
+paid bot farms to flood platforms with fake 
+praise—or to sabotage competitors. Studies  
+show that in categories like electronics and 
+supplements, the majority of reviews may be fake.
+ 
+Now AI tools are summarizing reviews—but 
+they don’t distinguish between honest  
+feedback and manipulated content. If trusted 
+reviewers lose traffic because their work is  
+scraped and repackaged without attribution 
+or compensation, their incentive to produce  
+high-quality, unbiased reviews disappears.
+The review ecosystem isn’t just about choosing  
+the right headphones or booking a good hotel. 
+It’s part of how we evaluate truth. If AI  
+tools can’t be trusted on this front—because 
+their source material is compromised—they lose  
+a key pillar of credibility.
+As AI tools scrape and summarize  
+content – often without permission or 
+compensation, some creators are pushing back.
+ 
+The musician Benn Jordan – who has one 
+of the most interesting channels on  
+YouTube - developed a tool called Poisonify to 
+protect artists from unauthorized AI training.  
+It’s designed to prevent AI companies from 
+using music without the creator’s permission.
+ 
+His video on this project – along with his 
+most recent one on AI companies that are  
+logging and sharing your vehicle's location 
+without your consent are well worth watching.  
+I’ll include links in the description.
+Poisonify works by adding imperceptible  
+“adversarial noise” to a music track—so the 
+audio sounds unchanged to human listeners  
+but sounds entirely different to AI scrapers. His 
+software not only prevents AI’s from replicating  
+an artist’s music without permission, but it may 
+even punish them for taking the music without  
+permission by corrupting their training data. If 
+scraped, the poisoned tracks can possibly degrade  
+an AI model’s performance, making it harder for 
+AI companies to profit from stolen content.
+ 
+Publishers are deploying countermeasures too. 
+Cloudflare and other infrastructure providers  
+now offer tools to block AI crawlers. Some media 
+groups are negotiating licensing deals with AI  
+firms and others are suing. The New York Times, 
+for example, has filed lawsuits against OpenAI and  
+Microsoft, arguing that their models were trained 
+on copyrighted journalism without permission.
+ 
+The most effective strategy may be branding. In 
+a world where AI can mimic tone and summarize  
+content, personality becomes a moat. Publishers 
+are promoting individual voices—columnists,  
+YouTubers, Substack writers—as a way to 
+build loyalty and retain traffic. The  
+Wall Street Journal recently advertised for 
+a “Talent Coach” to help journalists build  
+personal brands. This is based on the idea that 
+readers follow people, rather than platforms.
+ 
+This shift mirrors the rise of the creator 
+economy, where independent journalists, analysts,  
+and reviewers build direct relationships 
+with their audiences—through newsletters,  
+podcasts, and paid subscriptions. But even 
+these models depend on visibility. If AI  
+tools intercept the audience before they reach 
+the creator, the economics still collapse.
+ 
+The irony is that this strategy—building 
+personality as a moat—only works if the  
+personality is real. AI-generated influencers 
+are already gaining traction. Synthetic voices,  
+synthetic faces and synthetic opinions. If 
+the last defensible asset is authenticity,  
+then the next arms race is 
+over what it means to be real.
+ 
+Some startups are trying to build 
+new models around AI access. Tollbit,  
+which describes itself as a “paywall for bots,” 
+allows content sites to charge AI crawlers  
+variable rates—charging more for new stories 
+than old ones. The firm argues that charging  
+for access incentivizes uniqueness, unlike 
+traditional search which rewards generic content.
+ 
+Another approach comes from ProRata, which 
+proposes that ad revenue from AI-generated  
+answers should be redistributed to 
+the sites whose content contributed  
+to those answers. Its engine already shares 
+revenue with over 500 partner publications.
+ 
+A growing concern with users turning to AI 
+chatbots for information is that the companies  
+behind them have been aggressively overselling 
+their capabilities. These systems are pitched as  
+superintelligent beings—smarter than any expert, 
+unbiased by design, and capable of answering  
+anything. That framing gives users a false sense 
+of confidence in the output. Elon Musk has claimed  
+that his chatbot Grok is more intelligent than 
+PhD holders in every discipline, that it can  
+discover new physics, and outperform humans on 
+Humanity’s Last Exam—a benchmark designed to  
+test reasoning across 100 disciplines. Of course, 
+he has also been claiming that his cars can drive  
+themselves for nearly a decade – so we should 
+probably take these claims with a pinch of salt.
+ 
+Angela Collier made an excellent – and funny 
+- video a few weeks ago called “Vibe Physics”,  
+where she explains how tech entrepreneurs like the 
+guys on the All In podcast mistake chatbot fluency  
+for intelligence—especially when the bot starts 
+talking about subjects outside their expertise,  
+like her field: physics. They’re quick 
+to spot errors when the chatbot discusses  
+something they know, but once it shifts 
+to unfamiliar territory, they’re suddenly  
+amazed by its brilliance. The illusion of 
+superintelligence kicks in precisely when  
+the user lacks the tools to evaluate the answer.
+Meta – which really ought to go back to calling  
+itself Facebook - says that its AI-powered 
+nerd glasses will give users a cognitive edge,  
+and who knows – they might. Maybe trying to ignore 
+the adverts being served to you all day long  
+while you are trying to focus on more important 
+things will boost your cognitive abilities.  
+ 
+When users stop reading news outlets—where they 
+understand the editorial standards, reputations,  
+and biases of both the journalist and the 
+publisher—and start asking chatbots for answers  
+assuming neutrality where bias may exist, they’re 
+not just changing platforms. They’re changing who  
+they trust to explain the world.
+And that trust may be misplaced.
+ 
+AI systems are not neutral. They reflect the 
+data they’re trained on, the assumptions of  
+their coders, and the incentives of 
+the companies that deploy them. Bias  
+can creep in through training data, algorithmic 
+design, and moderation choices. Sometimes it’s  
+accidental – but sometimes it’s deliberate.
+Grok is a case study in what happens when those  
+filters fail. After a July update designed to 
+make it sound more “raw,” Grok began referring  
+to itself as “MechaHitler.” Turkey banned 
+the chatbot – not because of the Nazi stuff  
+but because it also insulted President Erdogan. 
+Other bots have had breakdowns too - fabricating  
+sources, hallucinating facts 
+and misattributing quotes. 
+ 
+The myth of superintelligence encourages 
+users to place their trust in machines  
+that sound authoritative, even when they lack 
+transparency or accountability. As chatbots  
+become the default source of information, users 
+may begin to rely on them more than qualified  
+experts—especially in areas where expertise is 
+hard-earned and context matters. This shift is  
+happening at a time when public confidence in 
+expert communities is already under pressure.  
+According to Pew Research, trust in scientists 
+has declined steadily over the last five years,  
+with fewer than half of Americans now expressing 
+strong confidence in scientific leaders. As AI  
+systems take on the role of explainer-in-chief, 
+the institutions that once anchored public  
+understanding risk being sidelined. It is quite 
+worrying that in that Economist chart I showed  
+earlier that health information is most heavily 
+impacted by the move to AI tools for information.
+ 
+The open web was built on a simple 
+exchange: publishers create content,  
+users visit websites, and their attention is then 
+monetized—funding the next round of reporting. AI  
+tools are already breaking that loop.
+If no one pays for the news, the news  
+stops being reported. Investigations don’t happen. 
+Deep dives into complex issues are replaced by AI  
+summaries of press releases and hallucinations.
+While some argue that citizen journalism can fill  
+the gap, professional journalism can’t be replaced 
+by individuals posting on social media. Eyewitness  
+accounts and grassroots reporting can be powerful, 
+but they don’t come with editors, legal teams,  
+or the resources to spend months verifying leads 
+and protecting sources. The BBC’s investigation  
+into the Wagner Group in Libya, NBC’s exposé on 
+forced adoptions in Christian boarding homes,  
+and ProPublica’s reporting on U.S. Supreme Court 
+ethics scandals all required institutional backing  
+and sustained access to data and sources. These 
+aren’t stories that could have been broken by  
+someone with a smartphone and a Twitter account. 
+Journalism isn’t just about being there—it’s  
+about knowing what to do with what you find, and 
+having the infrastructure to do it responsibly.
+ 
+The disruption unfolding reaches beyond 
+journalism and could reshape the entire  
+information ecosystem. If the source material 
+dries up due to lack of funding, the bots will  
+still generate answers—but those answers will 
+be stitched together from outdated articles,  
+corporate PR, and propaganda. The web could 
+begin to resemble a television camera pointed  
+at a television—recycling recycled content.
+I have talked in the past on this channel  
+about the strategy of blitzscaling - where 
+well-funded tech disruptors prioritize growth  
+over profitability. The idea is that rapid 
+expansion attracts high market valuations,  
+allowing venture capitalists to flip unprofitable 
+(or barely profitable) companies to the public  
+before they ever find a sustainable source 
+of profit. Blitzscaled firms often lose  
+money deliberately, undercutting incumbents 
+with the goal of eliminating competition and  
+raising prices later. Uber didn’t need to 
+be profitable to reshape urban transport;  
+it just needed to be fast, cheap, and relentless.
+AI is now following the same playbook. Vast sums  
+are being spent to build tools that have yet 
+to find a viable business model. But even  
+without a path to profitability, they could still 
+destroy the economic scaffolding that supports  
+journalism, education, and public knowledge.
+Technology eventually comes for everything.  
+But when it comes for the institutions that help 
+us understand the world, the stakes are higher  
+than most people realize. [Jesse Welles Clip]
+Business models evolve. When the internet first  
+appeared, it looked like newspapers 
+were doomed—but the industry adapted,  
+reinventing itself for the digital age. Napster 
+made it seem like music would be free forever,  
+threatening that industry. Yet musicians 
+found new ways to earn—through touring,  
+streaming, and direct fan engagement.
+The information economy is facing a  
+similar moment, but having access to high-quality 
+information is essential to the functioning of the  
+modern world. And while today’s disruption feels 
+existential, it’s more likely that journalism  
+and knowledge institutions will adapt to 
+the new environment than vanish from it.  
+The business models may change. The platforms 
+may shift. But the demand for truth, context,  
+and accountability isn’t going away.
+If you found this video interesting,  
+you should watch this video on Americas mortgage 
+divide next. Don’t forget to check out our sponsor  
+Tello using the link in the description. Have a 
+great day and talk to you in the next video. Bye!
