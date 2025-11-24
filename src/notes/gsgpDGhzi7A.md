@@ -1,6 +1,6 @@
 ---
 author: Anthony看世界
-date: '2025-11-05'
+date: '2025-10-19'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=gsgpDGhzi7A
@@ -32,6 +32,7 @@ media_books:
   - The Second Sex
 status: evergreen
 ---
+
 ### 引言：NPD叙事在中国的兴起
 
 大家好，我是Anthony。欢迎来到我的频道。今天，我想和大家聊聊最近在中国互联网上一个热门话题，那就是**NPD**（Narcissistic Personality Disorder: 自恋型人格障碍）。

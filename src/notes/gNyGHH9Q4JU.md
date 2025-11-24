@@ -45,6 +45,7 @@ media_books:
   - Dream of the Red Chamber
 status: evergreen
 ---
+
 ### 引言：中国文化的深层危机
 
 今天，我们继续探讨中国文化的危机，以及**理学**（Neo-Confucianism: 宋明时期儒家思想发展出的哲学体系）如何应对这场危机。在上一期视频中，我们谈到中国政治制度、意识形态和宗教信仰呈现出独特的演变轨迹。

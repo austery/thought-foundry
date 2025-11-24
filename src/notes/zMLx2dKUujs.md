@@ -34,6 +34,7 @@ media_books:
   - Inferiority and Transcendence
 status: evergreen
 ---
+
 ### 流行心理学的“目的论”陷阱
 
 大家好，我是Anthony，欢迎来到我的频道。今天，我们继续来聊聊《被讨厌的勇气》以及其背后的思想。

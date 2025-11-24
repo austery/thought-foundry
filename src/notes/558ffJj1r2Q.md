@@ -55,6 +55,7 @@ media_books:
   - Book of Rites
 status: evergreen
 ---
+
 ### 阳明心学的吸引力与内在矛盾
 
 今天，让我们继续探讨**阳明心学**（Wang Yangming's philosophy of mind: 一种强调个人独立、自我觉醒的儒家学说）与中国文化。

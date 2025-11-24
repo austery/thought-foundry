@@ -31,6 +31,7 @@ media_books:
   - new light on children's thinking
 status: evergreen
 ---
+
 ### 中国聪明孩子的困境
 
 大家好，我是Anthony，欢迎来到我的频道。

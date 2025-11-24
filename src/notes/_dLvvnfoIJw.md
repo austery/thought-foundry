@@ -31,6 +31,7 @@ media_books:
   - A New Intellectual Framework for Psychiatry
 status: evergreen
 ---
+
 ### 自由意志与基因决定论的哲学困境
 
 大家好，我是Anthony，欢迎来到我的频道。

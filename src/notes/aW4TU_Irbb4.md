@@ -30,6 +30,7 @@ media_books:
   - Phenomenology of Spirit
 status: evergreen
 ---
+
 ### 区分两种抑郁：外部事件与哲学性困境
 
 大家好，我是Anthony。欢迎来到我的频道。今天我们继续探讨如何摆脱无意义感和抑郁。

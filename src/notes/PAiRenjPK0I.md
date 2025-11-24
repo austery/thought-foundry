@@ -42,6 +42,7 @@ media_books:
   - The Courage to Be Disliked
 status: evergreen
 ---
+
 ### 开启新系列：王阳明心学与中国社会
 
 大家好，我是Anthony，欢迎来到我的频道。

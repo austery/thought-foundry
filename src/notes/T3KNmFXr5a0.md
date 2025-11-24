@@ -31,6 +31,7 @@ media_books:
   - What to Do When Your Child is a Little Pink
 status: evergreen
 ---
+
 ### 中国社会“猎巫”心态的深层逻辑
 
 大家好，我是Anthony。欢迎来到我的频道。在今天的视频中，我想和大家聊聊为什么“**猎巫心态**”（Witch Hunt Mentality: 一种通过指责和迫害异见者来维护自身纯洁性或权力地位的社会现象）在中国社会如此盛行，以及它背后的底层逻辑是什么。

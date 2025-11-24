@@ -1,6 +1,6 @@
 ---
 author: Anthony看世界
-date: '2025-11-05'
+date: '2025-10-26'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=NWfvpA9QIAo
@@ -27,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 引言：NPD批判的意义与误区
 
 大家好，我是Anthony，欢迎来到我的频道。

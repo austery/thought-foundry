@@ -42,6 +42,7 @@ media_books:
   - The Courage to Be Disliked
 status: evergreen
 ---
+
 ### 导言：阳明心学的本质与文化危机
 
 大家好，我是Anthony，欢迎来到我的频道。

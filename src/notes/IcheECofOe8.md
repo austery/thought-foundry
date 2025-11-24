@@ -47,6 +47,7 @@ media_books:
   - Tolstoy's works
 status: evergreen
 ---
+
 ### 阳明心学与文革：精神自虐机制的深层关联
 
 大家好，我是Anthony。欢迎来到我的频道。

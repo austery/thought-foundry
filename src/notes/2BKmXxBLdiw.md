@@ -27,6 +27,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 创伤迷恋：为何“道理都懂却难以改变”？
 
 大家好，我是Anthony。欢迎来到我的频道。在本期视频中，我们将继续探讨**创伤迷恋**（Trauma Fascination: 一种长期被有毒关系吸引并受其伤害的心理模式），以及如何寻找到一段良好的亲密关系。

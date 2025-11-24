@@ -28,6 +28,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 引言：警惕统计学思维的陷阱
 
 大家好，我是Anthony。欢迎来到我的频道。今天我想和大家聊聊许多人在做决策时常犯的一个错误，那就是**统计学思维**（Statistical Thinking: 一种通过回归分析和优化模型进行决策的思维方式）。

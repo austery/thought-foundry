@@ -1,6 +1,6 @@
 ---
 author: Anthony看世界
-date: '2025-11-05'
+date: '2025-10-12'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=WFbnEwqdqog
@@ -31,6 +31,7 @@ products_models: []
 media_books: []
 status: evergreen
 ---
+
 ### 导语：从NTR到男娘文化
 
 大家好，我是Anthony。欢迎来到我的频道。在前两期视频中，我们讨论了**NTR幻想**（NTR: Netorare，指伴侣出轨并被他人占有的性幻想）及其背后的心理状态。

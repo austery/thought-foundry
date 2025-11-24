@@ -40,6 +40,7 @@ media_books:
   - Chosun Ilbo
 status: evergreen
 ---
+
 ### 对《被讨厌的勇气》的批判性反思
 
 上周末，我们通过两期视频分析了书籍《被讨厌的勇气》中存在的问题。
