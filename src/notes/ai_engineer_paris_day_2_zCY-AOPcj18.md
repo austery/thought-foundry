@@ -12,7 +12,8 @@ tags:
 - llm
 - voice-ai
 people:
-  - Ralph J. ABRY
+- Ralph J. ABRY
+- Aporna DENEKARAN, Laurent, Steve Morren, Tuana Çelik, Paige Bailey, Neil ZEGHDOUD
   - Yann Lechelle
   - Emil Eifrem
   - Tushar Jain
@@ -33,7 +34,6 @@ speaker: ''
 draft: true
 file_name: ai_engineer_paris_day_2_zCY-AOPcj18.md
 guest: ''
-  Aporna DENEKARAN, Laurent, Steve Morren, Tuana Çelik, Paige Bailey, Neil ZEGHDOUD
 insight: null
 layout: post.njk
 series: null

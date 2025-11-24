@@ -6,9 +6,21 @@ layout: "base.njk"
     
   <aside id="toc-container" class="sidebar-toc"></aside>
   
-  <main id="content-body" class="main-content" data-page-title="{{ title }}">
-    
+  <main id="content-body" class="main-content" data-page-title="{{ title }}" lang="zh-CN" {% if not exclude %}data-pagefind-body{% else %}data-pagefind-ignore{% endif %}>
+
     <div id="top"></div>
+
+    {# Pagefind metadata for search indexing #}
+    {% if not exclude %}
+      <span data-pagefind-meta="title" style="display:none;">{{ title }}</span>
+      {% if speaker %}<span data-pagefind-meta="speaker" style="display:none;">{{ speaker }}</span>{% endif %}
+      {% if guest %}<span data-pagefind-meta="guest" style="display:none;">{{ guest }}</span>{% endif %}
+      {% if date %}
+        <span data-pagefind-meta="date" style="display:none;">
+          {% if date.toLocaleDateString %}{{ date.toLocaleDateString() }}{% else %}{{ date }}{% endif %}
+        </span>
+      {% endif %}
+    {% endif %}
     
     {# ------------------- 元数据块代码开始 ------------------- #}
 

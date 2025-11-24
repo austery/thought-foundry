@@ -4,6 +4,8 @@ layout: "default.njk"
 permalink: "/all-categories/"
 ---
 
+<div data-pagefind-ignore>
+
 <h1>所有分类</h1>
 
 <p>按 v7.4 PKM 分类法组织的内容分类</p>
@@ -14,4 +16,6 @@ permalink: "/all-categories/"
       🏷️ {{ categoryInfo.name }} ({{ categoryInfo.posts.length }})
     </a>
   {% endfor %}
+</div>
+
 </div>

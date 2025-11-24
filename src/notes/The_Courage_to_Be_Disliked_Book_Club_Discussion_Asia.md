@@ -30,7 +30,6 @@ media_books:
 date: '2025-07-10'
 author: Lei
 speaker: ''
-  David
 channel: null
 guest: ''
 insight: null

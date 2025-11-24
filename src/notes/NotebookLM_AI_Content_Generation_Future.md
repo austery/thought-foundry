@@ -8,7 +8,7 @@ project:
 tags:
 - ai
 - 视频文稿
-people: []
+people:
 - 三个水枪手
 companies_orgs: []
 products_models: []

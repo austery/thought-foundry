@@ -30,8 +30,7 @@ media_books:
 - 读书会
 date: '2025-07-10'
 author: Lei
-speaker: ''
-  张硕
+speaker: '一口新饭'
 channel: null
 guest: ''
 insight: null

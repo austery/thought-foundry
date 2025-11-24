@@ -1,5 +1,12 @@
 # CLAUDE.md
 
+This is a Polyglot project (Node.js + Python).
+
+Content Rule: All Markdown content lives in src/notes/. DO NOT put code files here.
+
+Python Rule: All Python automation scripts must live in scripts/. Use uv for dependency management.
+
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
@@ -238,3 +245,4 @@ GitHub Actions automatically builds and deploys the site:
 - Builds with Node 18
 - Deploys `_site` directory to public repo (austery/austery.github.io)
 - Uses SSH deploy key stored in repository secrets
+

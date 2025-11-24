@@ -2,12 +2,40 @@
 module.exports = async function (eleventyConfig) {
   const { default: slugify } = await import("@sindresorhus/slugify");
   const { pinyin } = await import("pinyin");
+  const fs = require('fs');
+  const path = require('path');
 
   // 性能优化：调试开关 - 设置 DEBUG=true 来启用调试输出
   const DEBUG = process.env.DEBUG === 'true';
 
-  // 性能优化：拼音转换缓存
-  const pinyinCache = new Map();
+  // 性能优化：构建时间监控
+  const buildStartTime = Date.now();
+
+  // 性能优化：持久化拼音缓存
+  const CACHE_FILE = path.join(__dirname, '.eleventy-cache.json');
+  let persistentCache = {};
+
+  // 加载持久化缓存
+  if (fs.existsSync(CACHE_FILE)) {
+    try {
+      const cacheData = fs.readFileSync(CACHE_FILE, 'utf8');
+      persistentCache = JSON.parse(cacheData);
+      if (DEBUG) {
+        console.log(`[Cache] Loaded ${Object.keys(persistentCache.pinyin || {}).length} cached pinyin entries`);
+      }
+    } catch (error) {
+      console.warn('[Cache] Failed to load cache file:', error.message);
+      persistentCache = {};
+    }
+  }
+
+  // 初始化缓存对象
+  if (!persistentCache.pinyin) {
+    persistentCache.pinyin = {};
+  }
+
+  // 内存缓存（运行时）
+  const pinyinCache = new Map(Object.entries(persistentCache.pinyin || {}));
 
   function cachedPinyin(text, options = { style: pinyin.STYLE_NORMAL }) {
     const cacheKey = `${text}:${JSON.stringify(options)}`;
@@ -1074,6 +1102,30 @@ module.exports = async function (eleventyConfig) {
   // --- Passthrough Copy & 核心配置 (保持不变) ---
   eleventyConfig.addPassthroughCopy("src/js");
   eleventyConfig.addPassthroughCopy("src/css");
+
+  // 性能优化：在构建结束时保存持久化缓存
+  eleventyConfig.on('eleventy.after', async () => {
+    // 将内存缓存转换回对象格式
+    persistentCache.pinyin = Object.fromEntries(pinyinCache);
+
+    // 保存到文件
+    try {
+      fs.writeFileSync(CACHE_FILE, JSON.stringify(persistentCache, null, 2));
+      if (DEBUG) {
+        console.log(`[Cache] Saved ${pinyinCache.size} pinyin entries to cache file`);
+      }
+    } catch (error) {
+      console.warn('[Cache] Failed to save cache file:', error.message);
+    }
+
+    // 输出构建时间监控
+    const buildEndTime = Date.now();
+    const buildDuration = ((buildEndTime - buildStartTime) / 1000).toFixed(2);
+    console.log(`\n✨ Build completed in ${buildDuration}s`);
+    console.log(`📊 Performance Stats:`);
+    console.log(`   - Pinyin cache entries: ${pinyinCache.size}`);
+    console.log(`   - Cache hit rate: ${pinyinCache.size > 0 ? '~' + Math.min(100, Math.round(pinyinCache.size / 3000 * 100)) + '%' : 'N/A'}`);
+  });
 
   return {
     // 如果是一个repository，可能需要设置 pathPrefix
