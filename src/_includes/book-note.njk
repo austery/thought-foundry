@@ -5,9 +5,21 @@ layout: "base.njk"
     
   <aside id="toc-container" class="sidebar-toc"></aside>
   
-  <main id="content-body" class="main-content">
+  <main id="content-body" class="main-content" lang="zh-CN" {% if not exclude %}data-pagefind-body{% else %}data-pagefind-ignore{% endif %}>
     <div class="book-note-layout">
-      
+
+      {# Pagefind metadata for search indexing #}
+      {% if not exclude %}
+        <span data-pagefind-meta="title" style="display:none;">{{ title }}</span>
+        {% if author %}<span data-pagefind-meta="author" style="display:none;">{{ author }}</span>{% endif %}
+        {% if publisher %}<span data-pagefind-meta="publisher" style="display:none;">{{ publisher }}</span>{% endif %}
+        {% if date %}
+          <span data-pagefind-meta="date" style="display:none;">
+            {% if date.toLocaleDateString %}{{ date.toLocaleDateString() }}{% else %}{{ date }}{% endif %}
+          </span>
+        {% endif %}
+      {% endif %}
+
       {# ------------------- 书籍元数据块代码开始 ------------------- #}
 
       <div class="metadata-block">

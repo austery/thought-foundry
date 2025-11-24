@@ -34,12 +34,9 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: ''
-  Kazmi-Ishaq
+speaker: Kazmi-Ishaq
 channel: null
-guest: ''
-  Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka
-  Dhar, Panelists
+guest: 'Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka Dhar, Panelists'
 insight: null
 layout: post.njk
 series: null

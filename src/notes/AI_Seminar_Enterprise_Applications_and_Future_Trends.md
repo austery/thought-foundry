@@ -49,14 +49,9 @@ products_models: []
 media_books: []
 date: '2025-06-21'
 author: Lei
-speaker: ''
+speaker: 'PCC Internal AI Meeting'
 exclude: true
 guest: ''
-  Misra, Caleb Waldemar, Kristy Liu, Mary Henschel, Julia Groza, Raka Dhar, Jenna
-  Paglia, Daisy Dool, Erik Stabile, Jordan Bowman, Syed Hasan, Ruben Vieira, Pawandeep
-  Kaur, Victor Tarnovski, Dave Chodos, Kate Kaplya, Charley Yang, Maja Madirazza,
-  Krisika Suthan, Rahim Hashwani, Cedric Anne, Dean Slawson, Lisa Jarrett, Dr. Cindy
-  Plunkett
 insight: null
 layout: post.njk
 program: null

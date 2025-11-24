@@ -4,6 +4,12 @@
 # The static website built by Eleventy
 _site/
 
+# Pagefind search index (generated during build)
+_site/pagefind/
+
+# Eleventy persistent cache (for performance optimization)
+.eleventy-cache.json
+
 # Node.js dependencies
 node_modules/
 npm-debug.log

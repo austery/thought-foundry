@@ -4,10 +4,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx @11ty/eleventy",
+    "build": "npx @11ty/eleventy && npx pagefind --source _site",
     "dev": "npx @11ty/eleventy --serve",
-    "build:debug": "DEBUG=true npx @11ty/eleventy",
-    "build:incremental": "npx @11ty/eleventy --incremental"
+    "build:debug": "DEBUG=true npx @11ty/eleventy && npx pagefind --source _site",
+    "build:incremental": "npx @11ty/eleventy --incremental && npx pagefind --source _site"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,8 @@
   "description": "",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "@sindresorhus/slugify": "^2.2.1"
+    "@sindresorhus/slugify": "^2.2.1",
+    "pagefind": "^1.4.0"
   },
   "dependencies": {
     "pinyin": "^4.0.0"

@@ -28,8 +28,7 @@ date: '2025-07-10'
 author: Lei
 speaker: ''
 channel: null
-guest: ''
-  Donald Hoffman, Norman Wildberger
+guest: 
 insight: null
 layout: post.njk
 series: null
