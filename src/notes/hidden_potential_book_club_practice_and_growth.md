@@ -9,18 +9,28 @@ tags:
 - 学习技能
 - 成长心态
 - 视频文稿
-people: []
+people:
+  - Zelira
+  - Kathy
+  - Ara 陶飛
+  - 张敏
+  - Ivan
+  - Tracy
+  - Winwin
+  - Serena
+  - George
+  - Ruth
 companies_orgs: []
 products_models: []
 media_books:
 - 读书会
 date: 2025-07-27
 author: Lei
-speaker: Zelira
+speaker: ''
 channel: null
 draft: true
 file_name: hidden_potential_book_club_practice_and_growth.md
-guest: Kathy, Ara 陶飛, 张敏, Ivan, Tracy, Winwin, Serena, George, Ruth
+guest: ''
 insight: 获取别人的评价，打分和追问的方式是不是一个好的方法，但的确是一个新的思路。
 layout: post.njk
 series: Hidden Potential

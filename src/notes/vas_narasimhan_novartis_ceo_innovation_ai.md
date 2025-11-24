@@ -10,16 +10,18 @@ tags:
 - 创新药物
 - 医药行业
 - 视频文稿
-people: []
+people:
+  - Nicolai Tangen
+  - Vas Narasimhan
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-07-20
 author: Lei
-speaker: Nicolai Tangen,Vas Narasimhan
+speaker: ''
 channel: null
 file_name: vas_narasimhan_novartis_ceo_innovation_ai
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

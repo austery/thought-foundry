@@ -11,17 +11,19 @@ tags:
 - 理财
 - 视频文稿
 people:
-- 知行小酒馆
+  - 雨白
+  - 仝仝
+  - 星星
 companies_orgs: []
 products_models: []
 media_books:
 - 知行小酒馆
 date: 2025-07-26
 author: Lei
-speaker: 雨白, 仝仝, 星星
+speaker: 知行小酒馆
 channel: null
 draft: true
-guest: 仝仝, 星星
+guest: ''
 insight: null
 layout: post.njk
 series: null

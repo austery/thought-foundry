@@ -9,15 +9,17 @@ tags:
 - 习惯
 - 意志力
 - 视频文稿
-people: []
+people:
+  - 李笑来
+  - 脱不花
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-15'
 author: Lei
-speaker: 李笑来,脱不花
+speaker: ''
 channel: null
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

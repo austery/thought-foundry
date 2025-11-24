@@ -11,16 +11,18 @@ tags:
 - llm
 - reinforcement-learning
 people:
-- richard-sutton
+  - richard-sutton
+  - 大飞
+  - Richard Sutton
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-10-01
 author: Lei
-speaker: 大飞
+speaker: ''
 draft: true
 file_name: sutton_llms_dead_end_for_agi.md
-guest: Richard Sutton
+guest: ''
 insight: null
 layout: post.njk
 series: null

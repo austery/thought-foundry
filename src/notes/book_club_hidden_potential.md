@@ -10,7 +10,13 @@ tags:
 - personal-growth
 - 学习方法
 - 视频文稿
-people: []
+people:
+  - Vivi
+  - Cate W
+  - Carmen Tao
+  - Qi Shi
+  - Su Ge
+  - 彭哥
 companies_orgs: []
 products_models: []
 media_books:
@@ -18,11 +24,11 @@ media_books:
 - 读书会
 date: 2025-07-28
 author: Lei
-speaker: Vivi
+speaker: ''
 channel: ''
 draft: true
 file_name: book_club_hidden_potential.md
-guest: Cate W, Carmen Tao, Qi Shi, Su Ge, 彭哥
+guest: ''
 insight: 本次读书会深入探讨了《Hidden Potential》的核心思想，强调通过拥抱不完美、刻意练习和集体智慧来释放潜能，并结合AI时代背景，探讨了人类在未来不可替代的价值所在。
 layout: post.njk
 series: Hidden Potential

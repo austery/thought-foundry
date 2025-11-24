@@ -10,16 +10,18 @@ tags:
 - 人类价值
 - 视频文稿
 people:
-- 三个水枪手
+  - 李厚辰
+  - 伍雷
+  - 贾葭
 companies_orgs: []
 products_models: []
 media_books:
 - 三个水枪手
 date: '2025-05-30'
 author: Lei
-speaker: 李厚辰, 伍雷, 贾葭
+speaker: 三个水枪手
 channel: null
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

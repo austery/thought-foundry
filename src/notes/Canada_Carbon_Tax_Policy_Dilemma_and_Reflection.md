@@ -8,15 +8,17 @@ tags:
 - 加拿大
 - 碳税
 - 视频文稿
-people: []
+people:
+  - Steve Paikin
+  - Chris Ragan
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Steve Paikin, Chris Ragan
+speaker: ''
 channel: null
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

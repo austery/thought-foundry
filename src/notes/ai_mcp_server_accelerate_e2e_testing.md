@@ -12,18 +12,24 @@ tags:
 - github-copilot
 - mcp-server
 - 视频文稿
-people: []
+people:
+  - Tejasvini Chawla
+  - Harzinder Grewal
+  - Tom Mohney
+  - Habel Kurian
+  - Anthony Yuan
+  - Ilona Medvedovsky
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-07-31
 author: Lei
-speaker: Tejasvini Chawla
+speaker: ''
 Exclude: true
 channel: null
 draft: true
 file_name: ai_mcp_server_accelerate_e2e_testing.md
-guest: Harzinder Grewal, Tom Mohney, Habel Kurian, Anthony Yuan,Ilona Medvedovsky
+guest: ''
 insight: null
 layout: post.njk
 series: null

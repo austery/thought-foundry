@@ -9,16 +9,18 @@ tags:
 - 司美格鲁肽
 - 视频文稿
 people:
-- 硅谷101
+  - 硅谷101
+  - 泓君
+  - Yushan
 companies_orgs: []
 products_models:
 - glp-1
 media_books: []
 date: '2025-05-25'
 author: Lei
-speaker: 泓君
+speaker: ''
 channel: null
-guest: Yushan
+guest: ''
 insight: null
 layout: post.njk
 series: null

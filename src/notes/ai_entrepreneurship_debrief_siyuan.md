@@ -14,16 +14,19 @@ tags:
 - entrepreneurship
 - fundraising
 - product-market-fit
-people: []
+people:
+  - Ray
+  - 思源
+  - Mike
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-10-05
 author: Lei
-speaker: Ray
+speaker: ''
 draft: true
 file_name: ai_entrepreneurship_debrief_siyuan.md
-guest: 思源, Mike
+guest: ''
 insight: null
 layout: post.njk
 series: null

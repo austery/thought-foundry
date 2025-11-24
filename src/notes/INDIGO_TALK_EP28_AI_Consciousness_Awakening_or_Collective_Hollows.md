@@ -10,15 +10,17 @@ tags:
 - ai-agent
 - 意识
 - 视频文稿
-people: []
+people:
+  - INDIGO
+  - Mohan
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: INDIGO
+speaker: ''
 channel: null
-guest: Mohan
+guest: ''
 insight: null
 layout: post.njk
 series: null

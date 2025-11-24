@@ -9,17 +9,20 @@ tags:
 - 天命观
 - 政治
 - 视频文稿
-people: []
+people:
+  - 李厚辰
+  - 伍雷
+  - 贾葭
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-07-22
 author: Lei
-speaker: 李厚辰, 伍雷, 贾葭
+speaker: ''
 channel: https://www.youtube.com/@%E4%B8%89%E5%80%8B%E6%B0%B4%E6%A7%8D%E6%89%8B
 draft: true
 file_name: chinese_endurance_mandate_of_heaven_info_control
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

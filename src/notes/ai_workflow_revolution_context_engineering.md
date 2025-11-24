@@ -13,17 +13,25 @@ tags:
 - vibe-coding
 - 生产力
 - 视频文稿
-people: []
+people:
+  - 张敏
+  - Ray
+  - Long
+  - 小西瓜
+  - Mike
+  - Betty
+  - 伊文
+  - Alex
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-07-27
 author: Lei
-speaker: 张敏
+speaker: ''
 channel: null
 draft: true
 file_name: ai_workflow_revolution_context_engineering.md
-guest: Ray, Long, 小西瓜, Mike, Betty, 伊文, Alex
+guest: ''
 insight: null
 layout: post.njk
 series: null

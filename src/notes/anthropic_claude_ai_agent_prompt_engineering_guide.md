@@ -12,17 +12,20 @@ tags:
 - kilo-code
 - prompt-engineering
 - 视频文稿
-people: []
+people:
+  - Alex
+  - Justin
+  - Carly
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-01
 author: Lei
-speaker: Alex, Justin, Carly
+speaker: ''
 channel: null
 draft: true
 file_name: anthropic_claude_ai_agent_prompt_engineering_guide.md
-guest: Carly
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -9,14 +9,17 @@ tags:
 - 投资
 - 护城河
 - 视频文稿
-people: []
+people:
+  - Norges Bank Investment Management
+  - Nikolai Tangan
+  - Chris Hohn
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Norges Bank Investment Management
-guest: Nikolai Tangan,Chris Hohn
+speaker: ''
+guest: ''
 insight: null
 layout: post.njk
 series: null

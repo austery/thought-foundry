@@ -11,17 +11,18 @@ tags:
 - 投资大师
 - 视频文稿
 people:
-- 段永平
-- 知行小酒馆
+  - 段永平
+  - 雨白
+  - 小波老师
 companies_orgs: []
 products_models: []
 media_books:
 - 知行小酒馆
 date: '2025-07-10'
 author: Lei
-speaker: 雨白
+speaker: 知行小酒馆
 channel: null
-guest: 小波老师
+guest: ''
 insight: null
 layout: post.njk
 series: null

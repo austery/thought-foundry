@@ -11,17 +11,19 @@ tags:
 - 视频文稿
 - 长期持有
 - 风险管理
-people: []
+people:
+  - 课代表立正
+  - Terry
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-09
 author: Lei
-speaker: 课代表立正
+speaker: ''
 channel: null
 draft: true
 file_name: how_to_build_investment_cognition.md
-guest: Terry
+guest: ''
 insight: null
 layout: post.njk
 series: null

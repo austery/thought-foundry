@@ -10,17 +10,20 @@ tags:
 - 心态
 - 投资
 - 机会
-people: []
+people:
+  - 文森
+  - Tracy
+  - 友荣
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-20
 author: Lei
-speaker: 文森
+speaker: ''
 channel: ''
 draft: true
 file_name: xin_fan_san_ren_xing_ep4_the_formula_of_luck.md
-guest: Tracy, 友荣
+guest: ''
 insight: ''
 layout: post.njk
 series: ''

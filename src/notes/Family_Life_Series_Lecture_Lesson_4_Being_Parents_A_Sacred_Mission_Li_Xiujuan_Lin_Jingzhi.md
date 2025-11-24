@@ -10,15 +10,17 @@ tags:
 - 宗教
 - 家庭教育
 - 视频文稿
-people: []
+people:
+  - 林静芝
+  - 李秀全
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 林静芝,李秀全
+speaker: ''
 channel: null
-guest: 林静芝
+guest: ''
 insight: null
 layout: post.njk
 series: 家庭生活系列讲座

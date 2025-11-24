@@ -12,18 +12,23 @@ tags:
 - job-security
 - software-testing-automation
 - 视频文稿
-people: []
+people:
+  - Summer
+  - Juliet Sime
+  - Amardeep Singh
+  - Brent Barker
+  - KC Naegle
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-01
 author: Lei
-speaker: Summer, Juliet Sime, Amardeep Singh, Brent Barker, KC Naegle
+speaker: ''
 Exclude: true
 channel: null
 draft: true
 file_name: ai_impact_on_software_testing_adaptation_vs_obsolescence.md
-guest: Juliet Sime, Amardeep Singh, Brent Barker, KC Naegle
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -13,16 +13,19 @@ tags:
 - talent-acquisition
 - tech-war
 - us-china-relations
-people: []
+people:
+  - Houchen
+  - Jia
+  - Wu
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-10-04
 author: Lei
-speaker: Houchen
+speaker: ''
 draft: true
 file_name: chinas_k_visa_tech_supremacy_backlash.md
-guest: Jia, Wu
+guest: ''
 insight: null
 layout: post.njk
 series: null

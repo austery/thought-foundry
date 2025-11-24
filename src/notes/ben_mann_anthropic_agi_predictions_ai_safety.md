@@ -10,19 +10,21 @@ tags:
 - ai-safety
 - superintelligence
 - 视频文稿
-people: []
+people:
+  - Lenny Rachitsky
+  - Ben Mann
 companies_orgs:
 - anthropic
 products_models: []
 media_books: []
 date: 2025-07-23
 author: Lei
-speaker: Lenny Rachitsky, Ben Mann
+speaker: ''
 Series: null
 channel: LennysPodcast
 draft: true
 file_name: ben_mann_anthropic_agi_predictions_ai_safety.md
-guest: Ben Mann
+guest: ''
 insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=S2sZ-D5T5_g

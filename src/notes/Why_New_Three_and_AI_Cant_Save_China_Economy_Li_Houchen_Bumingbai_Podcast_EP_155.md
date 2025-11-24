@@ -10,7 +10,9 @@ tags:
 - ai
 - 中国经济
 - 视频文稿
-people: []
+people:
+  - 袁莉
+  - 李厚辰
 companies_orgs:
 - 不明白播客
 products_models: []
@@ -18,9 +20,9 @@ media_books:
 - 不明白播客
 date: '2025-07-10'
 author: Lei
-speaker: 袁莉
+speaker: ''
 channel: 不明白播客
-guest: 李厚辰
+guest: ''
 insight: null
 layout: post.njk
 series: null

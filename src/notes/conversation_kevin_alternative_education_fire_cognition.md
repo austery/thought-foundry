@@ -12,16 +12,18 @@ tags:
 - alternative-education
 - cognitive-enhancement
 - fire-movement
-people: []
+people:
+  - Lia
+  - Kevin
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-21
 author: Lei
-speaker: Lia, Kevin
+speaker: ''
 draft: true
 file_name: kevin_fire_lifestyle_cognitive_enhancement.md
-guest: Kevin
+guest: ''
 insight: null
 layout: post.njk
 series: null

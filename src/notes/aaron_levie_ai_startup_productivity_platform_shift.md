@@ -16,16 +16,18 @@ tags:
 - platform-shift
 - software-as-a-service
 - startup-productivity
-people: []
+people:
+  - Interviewer
+  - Aaron Levie
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: Interviewer
+speaker: ''
 draft: true
 file_name: aaron_levie_ai_startup_productivity_platform_shift.md
-guest: Aaron Levie
+guest: ''
 insight: null
 layout: post.njk
 series: null

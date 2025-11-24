@@ -10,15 +10,16 @@ tags:
 - 投资
 - 美股
 - 视频文稿
-people: []
+people:
+  - Tom Lee
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-05'
 author: Lei
-speaker: null
+speaker: ''
 channel: null
-guest: Tom Lee
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -13,17 +13,19 @@ tags:
 - pricing-power
 - 视频文稿
 people:
-- chris hohn
+  - chris hohn
+  - Joseph Carlson
+  - Chris Hohn
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-01
 author: Lei
-speaker: Joseph Carlson, Chris Hohn
+speaker: ''
 channel: null
 draft: true
 file_name: elite_super_investor_chris_hohn_explains_beat_market.md
-guest: Chris Hohn
+guest: ''
 insight: null
 layout: post.njk
 series: null

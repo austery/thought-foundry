@@ -9,15 +9,20 @@ tags:
 - prompt
 - vibe-coding
 - 视频文稿
-people: []
+people:
+  - Dusing
+  - Amy
+  - Ray
+  - Jay
+  - Vincent
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-06'
 author: Lei
-speaker: Dusing
+speaker: ''
 channel: null
-guest: Amy, Ray, Jay, Vincent
+guest: ''
 insight: null
 layout: post.njk
 series: null

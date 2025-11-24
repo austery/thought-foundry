@@ -13,17 +13,19 @@ tags:
 - geopolitics
 - national-security
 - western-civilization
-people: []
+people:
+  - Host
+  - Alex Karp
 companies_orgs:
 - palantir
 products_models: []
 media_books: []
 date: 2025-09-23
 author: Lei
-speaker: Host
+speaker: ''
 draft: true
 file_name: alex_karp_palantir_geopolitics_western_decline.md
-guest: Alex Karp
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -13,17 +13,19 @@ tags:
 - llm
 - reinforcement-learning
 people:
-- richard-sutton
+  - richard-sutton
+  - Dwarkesh Patel
+  - Richard Sutton
 companies_orgs: []
 products_models: []
 media_books:
 - the-bitter-lesson
 date: 2025-10-01
 author: Lei
-speaker: Dwarkesh Patel, Richard Sutton
+speaker: ''
 draft: true
 file_name: sutton_on_rl_llms_and_ai_succession.md
-guest: Richard Sutton
+guest: ''
 insight: null
 layout: post.njk
 series: null

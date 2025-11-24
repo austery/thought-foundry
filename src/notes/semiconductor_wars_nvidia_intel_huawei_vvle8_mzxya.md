@@ -15,7 +15,10 @@ tags:
 - ai-hardware
 - geopolitics
 - semiconductor
-people: []
+people:
+  - Eric Tarczynski
+  - Dylan Patel
+  - Guido Appenzeller
 companies_orgs:
 - intel
 - nvidia
@@ -23,10 +26,10 @@ products_models: []
 media_books: []
 date: 2025-09-22
 author: Lei
-speaker: Eric Tarczynski
+speaker: ''
 draft: true
 file_name: semiconductor_wars_nvidia_intel_huawei_vvle8_mzxya.md
-guest: Dylan Patel, Guido Appenzeller
+guest: ''
 insight: null
 layout: post.njk
 series: null

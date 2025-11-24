@@ -13,16 +13,18 @@ tags:
 - content-creation
 - podcast-processing
 - prompt-engineering
-people: []
+people:
+  - Clarvo
+  - Tom Tungus
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-25
 author: Lei
-speaker: Clarvo
+speaker: ''
 channel: null
 file_name: how_tom_tungus_processes_36_podcasts_with_ai.md
-guest: Tom Tungus
+guest: ''
 insight: null
 layout: post.njk
 series: null

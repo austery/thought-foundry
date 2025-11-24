@@ -12,15 +12,16 @@ tags:
 - 视频文稿
 - 风险控制
 people:
-- 刘宁
+  - 刘宁
+  - 投资talk君
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 投资talk君
+speaker: ''
 channel: null
-guest: 刘宁
+guest: ''
 insight: null
 layout: post.njk
 series: null

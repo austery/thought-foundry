@@ -7,16 +7,19 @@ project: []
 tags:
 - 视频文稿
 people:
-- 硅谷101
+  - 硅谷101
+  - 陈茜
+  - 刘一鸣
+  - 鲁漪文
 companies_orgs:
 - 特斯拉
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 陈茜, 刘一鸣, 鲁漪文
+speaker: ''
 channel: 硅谷101
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

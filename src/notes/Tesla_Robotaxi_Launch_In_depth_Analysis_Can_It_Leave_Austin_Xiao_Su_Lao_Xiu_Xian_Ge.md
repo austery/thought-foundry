@@ -7,16 +7,19 @@ project: []
 tags:
 - 自动驾驶
 - 视频文稿
-people: []
+people:
+  - 小苏
+  - 老修
+  - 闲哥
 companies_orgs:
 - 特斯拉
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 小苏
+speaker: ''
 channel: null
-guest: 老修, 闲哥
+guest: ''
 insight: null
 layout: post.njk
 series: null

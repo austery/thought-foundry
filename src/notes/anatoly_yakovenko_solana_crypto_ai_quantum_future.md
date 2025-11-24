@@ -14,16 +14,18 @@ tags:
 - decentralized-finance
 - quantum-computing
 - solana
-people: []
+people:
+  - Interviewer
+  - Anatoly Yakovenko
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: Interviewer
+speaker: ''
 draft: true
 file_name: anatoly_yakovenko_solana_crypto_ai_quantum_future.md
-guest: Anatoly Yakovenko
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -12,17 +12,20 @@ tags:
 - ai-application
 - developer-experience
 - vector-database
-people: []
+people:
+  - Alessio
+  - Swyx
+  - Jeff
 companies_orgs: []
 products_models:
 - chroma
 media_books: []
 date: 2025-08-27
 author: Lei
-speaker: Alessio, Swyx
+speaker: ''
 draft: true
 file_name: jeff_chroma_vector_db_context_engineering.md
-guest: Jeff
+guest: ''
 insight: null
 layout: post.njk
 series: null

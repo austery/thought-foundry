@@ -13,17 +13,19 @@ tags:
 - vs-code
 - 视频文稿
 - 软件工程
-people: []
+people:
+  - GeekPlux
+  - 吕鹏
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-08
 author: Lei
-speaker: GeekPlux
+speaker: ''
 channel: null
 draft: true
 file_name: talk_with_vscode_dev_lv_peng_ai_coding_future.md
-guest: 吕鹏
+guest: ''
 insight: null
 layout: post.njk
 series: Vibe Coding

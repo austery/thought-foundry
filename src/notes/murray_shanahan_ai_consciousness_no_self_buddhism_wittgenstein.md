@@ -12,15 +12,17 @@ tags:
 - 意识
 - 维特根斯坦
 - 视频文稿
-people: []
+people:
+  - Jonathan B.
+  - Murray Shanahan
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-07-21
 author: Lei
-speaker: Jonathan B., Murray Shanahan
+speaker: ''
 channel: null
-guest: Murray Shanahan
+guest: ''
 insight: null
 layout: post.njk
 series: null

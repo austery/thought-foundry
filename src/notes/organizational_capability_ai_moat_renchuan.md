@@ -10,16 +10,18 @@ tags:
 - engineering-efficiency
 - organizational-structure
 - team-management
-people: []
+people:
+  - 主持人
+  - 人川
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-26
 author: Lei
-speaker: 主持人, 人川
+speaker: ''
 draft: true
 file_name: organizational_capability_ai_moat_renchuan.md
-guest: 人川
+guest: ''
 insight: null
 layout: post.njk
 series: null

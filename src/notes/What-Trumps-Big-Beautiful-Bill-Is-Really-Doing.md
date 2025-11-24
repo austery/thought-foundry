@@ -10,15 +10,17 @@ tags:
 - 经济影响
 - 美国政治
 - 视频文稿
-people: []
+people:
+  - Ezra Klein
+  - Catherine Rampell
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-05-25'
 author: Lei
-speaker: Ezra Klein
+speaker: ''
 channel: null
-guest: Catherine Rampell
+guest: ''
 insight: null
 layout: post.njk
 series: null

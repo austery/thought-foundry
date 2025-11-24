@@ -13,16 +13,18 @@ tags:
 - public-relations
 - storytelling
 - trust-building
-people: []
+people:
+  - Shane Parish
+  - Lulu Cheng Meservey
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-22
 author: Lei
-speaker: Shane Parish
+speaker: ''
 draft: true
 file_name: how_to_build_cult_lulu_cheng_meservey.md
-guest: Lulu Cheng Meservey
+guest: ''
 insight: null
 layout: post.njk
 series: null

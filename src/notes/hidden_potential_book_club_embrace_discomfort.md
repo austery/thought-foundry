@@ -9,7 +9,17 @@ tags:
 - 不舒适区
 - 完美主义
 - 视频文稿
-people: []
+people:
+  - Ray
+  - 小西瓜
+  - Ivan
+  - Alex
+  - Zalira
+  - Dora
+  - Serena
+  - Asuka Ci
+  - Tracy
+  - 嘉欣
 companies_orgs: []
 products_models: []
 media_books:
@@ -17,11 +27,11 @@ media_books:
 - 读书会
 date: 2025-07-28
 author: Lei
-speaker: Ray
+speaker: ''
 channel: ''
 draft: true
 file_name: hidden_potential_book_club_embrace_discomfort.md
-guest: 小西瓜, Ivan, Alex, Zalira, Dora, Serena, Asuka Ci, Tracy, 嘉欣
+guest: ''
 insight: 本次读书会围绕《Hidden Potential》展开，探讨了如何通过拥抱不适、打破完美主义来释放个人潜能。分享者结合自身经历，讨论了学习、工作与个人成长中的挑战与感悟，强调了社群支持和持续行动的重要性。
 layout: post.njk
 series: Hidden Potential

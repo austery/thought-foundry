@@ -14,16 +14,18 @@ tags:
 - career-development
 - content-creation
 - entrepreneurship
-people: []
+people:
+  - 佐治亚小帅
+  - 孙益正
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-10-09
 author: Lei
-speaker: 佐治亚小帅
+speaker: ''
 draft: true
 file_name: conversation_sun_yizheng_ai_career.md
-guest: 孙益正
+guest: ''
 insight: null
 layout: post.njk
 series: null

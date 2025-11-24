@@ -12,17 +12,19 @@ tags:
 - 稳定币
 - 美股代币化
 - 视频文稿
-people: []
+people:
+  - Hellen
+  - 秦瀚
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-01
 author: Lei
-speaker: Hellen, 秦瀚
+speaker: ''
 channel: null
 draft: true
 file_name: stock_tokenization_invest_pre_ipo_spacex.md
-guest: 秦瀚
+guest: ''
 insight: null
 layout: post.njk
 series: 美股代币化
