@@ -4,17 +4,17 @@ summary: 本文详细介绍了创意效率软件Milanote如何通过其灵活自
 area: digital-garden
 category: productivity
 project:
-- knowledge-pipeline
-- pkm-research
+  - knowledge-pipeline
+  - pkm-research
 tags:
-- creative-workflow
-- knowledge-management
-- project-planning
-- visual-thinking
+  - creative-workflow
+  - knowledge-management
+  - project-planning
+  - visual-thinking
 people: []
 companies_orgs: []
 products_models:
-- milanote
+  - milanote
 media_books: []
 date: '2022-05-16'
 author: 一口新飯
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=dH3DtMzwqUs
 status: evergreen
 ---
+
 ### Milanote：解决传统笔记痛点的创意效率软件
 
 在之前讲解美国大通胀历史的影片中，展示时间逻辑和人物关系的思维导图引起了观众的广泛关注。许多观众在评论区询问制作这个思维导图的软件是什么。因此，决定为大家介绍最喜欢的创意效率软件——**Milanote** (Milanote: 一款专为创意工作者设计的视觉化工作空间，支持自由组织各类信息和协作)。作为一名摄影师，起初使用Milanote主要是进行拍摄计划。后来，随着知识类频道MoneyXYZ的创立，需要进行大量的阅读和调研，便突然意识到Milanote简直就是一个完美的知识管理系统。

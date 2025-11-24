@@ -4,14 +4,14 @@ summary: 作者分享了自己从贫困中挣扎成长，以及对“安全边�
 area: personal-growth
 category: psychology
 project:
-- investment-strategy
-- personal-growth-lab
+  - investment-strategy
+  - personal-growth-lab
 tags:
-- financial-literacy
-- life-philosophy
-- personal-growth
-- risk-management
-- social-privilege
+  - financial-literacy
+  - life-philosophy
+  - personal-growth
+  - risk-management
+  - social-privilege
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=sTQQUKWb0G4
 status: evergreen
 ---
+
 ### 绝望与自信：安全边际的引入
 
 当时，我感觉我的人生彻底完蛋了。在所有关于埃隆·马斯克（Elon Musk）的影像资料中，有一幕让我最为印象深刻。当时，特斯拉（Tesla）和**SpaceX**（太空探索技术公司: 美国的航空航天制造商和空间运输服务公司）都濒临失败破产，这恐怕是他人生中最绝望的时刻。这让我想起了另一位姓马的人的类似影像，那就是马云当时开创**中国黄页**（China Pages: 中国最早的互联网信息发布平台之一）失败后，带领团队离开北京回杭州之前，最困难的一段时间。

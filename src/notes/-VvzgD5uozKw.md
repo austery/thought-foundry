@@ -4,14 +4,14 @@ summary: 本文通过现金流贴现法（DCF）深入解析高利率如何影�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- market-cycles
+  - investment-strategy
+  - market-cycles
 tags:
-- dcf-valuation
-- financial-markets
-- growth-stocks
-- interest-rates
-- stock-valuation
+  - dcf-valuation
+  - financial-markets
+  - growth-stocks
+  - interest-rates
+  - stock-valuation
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=VvzgD5uozKw
 status: evergreen
 ---
+
 ### 利率与股票估值的基本原理
 
 沃伦·巴菲特曾多次指出，利率对于股票估值的作用如同地球引力。当利率处于低位时，股票即便拥有较高的估值也并不令人意外；然而，一旦利率升高，这种“地球引力”便会将股票估值生生地向下拽。2022年初，美联储缩表加息的计划最终尘埃落定，股市随即遭受重挫，其中尤以中小盘科技成长股成为重灾区。

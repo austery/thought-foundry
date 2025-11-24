@@ -4,14 +4,14 @@ summary: 本视频分享了Airbnb新房东从市场调查、期待值设定、�
 area: tech-insights
 category: technology
 project:
-- ai-impact-analysis
-- investment-strategy
+  - ai-impact-analysis
+  - investment-strategy
 tags:
-- airbnb-hosting
-- host-tips
-- property-management
-- real-estate-investment
-- short-term-rental
+  - airbnb-hosting
+  - host-tips
+  - property-management
+  - real-estate-investment
+  - short-term-rental
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=HzMRtl-pilI
 status: evergreen
 ---
+
 ### 引言：承诺兑现与福利预告
 
 大家好，欢迎回到MoneyXYZ的视频。我是Ray。在我上一期分享关于做Airbnb一年赚多少钱的视频中，我曾做出两个承诺。第一个承诺是，如果使用我的推荐链接注册成为Airbnb房东，并成功接待第一位客人，你我都拿到Airbnb的佣金后，我将免费提供一小时的一对一视频咨询来回答你的问题。截至目前，已有二十多个人使用我的链接注册成为房东，其中六人成功接待了第一位客人，并且有四人已与我进行了一对一通话。

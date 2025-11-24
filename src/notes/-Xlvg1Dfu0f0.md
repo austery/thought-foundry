@@ -4,13 +4,13 @@ summary: 本文深入探讨“现金为王”的真正含义，强调其在牛�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- market-cycles
+  - investment-strategy
+  - market-cycles
 tags:
-- cash-management
-- financial-planning
-- investment-strategy
-- market-cycles
+  - cash-management
+  - financial-planning
+  - investment-strategy
+  - market-cycles
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=Xlvg1Dfu0f0
 status: evergreen
 ---
+
 ### “现金为王”的周期性与误解
 
 本期节目将分享对“现金为王”这一投资理念的看法。人们常发现，“现金为王”的说法具有显著的周期性和争议性。在牛市中提及“现金为王”，常被视为不明智，甚至被误解为阻碍他人获利。然而，熊市时“现金为王”的呼声渐高，讽刺的是，此时许多人却缺乏现金储备。若此时入市买股，又可能被嘲笑为“接飞刀”、“做韭菜”。这种现象反映出许多人并未真正理解“现金为王”的深层含义。

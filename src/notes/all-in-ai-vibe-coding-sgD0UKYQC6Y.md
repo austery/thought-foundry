@@ -4,15 +4,15 @@ summary: AI时代，Vibe Coding助你从工具人跃迁为新工具与资源拥�
 area: tech-insights
 category: technology
 project:
-- ai-impact-analysis
-- personal-growth-lab
-- vibe-coding
+  - ai-impact-analysis
+  - personal-growth-lab
+  - vibe-coding
 tags:
-- ai-revolution
-- automation
-- career-transformation
-- future-of-work
-- vibe-coding
+  - ai-revolution
+  - automation
+  - career-transformation
+  - future-of-work
+  - vibe-coding
 people: []
 companies_orgs: []
 products_models: []
@@ -28,6 +28,7 @@ series: ''
 source: https://www.youtube.com/watch?v=sgD0UKYQC6Y
 status: evergreen
 ---
+
 ### AI时代下的紧迫变革
 
 最近发生的两件事，让我觉得必须制作一个视频，告诉大家为什么每个人都需要立即开始**Vibe Coding**。我知道这听起来可能有些制造焦虑，但我相信当你看完这个视频后，就会明白我分享的是很多人尚未意识到的正在发生的现实。

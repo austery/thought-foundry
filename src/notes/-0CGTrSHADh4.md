@@ -5,11 +5,11 @@ area: null
 category: null
 project: []
 tags:
-- critical-thinking
-- deep-reading
-- personal-development
-- reading-habits
-- reading-philosophy
+  - critical-thinking
+  - deep-reading
+  - personal-development
+  - reading-habits
+  - reading-philosophy
 people: []
 companies_orgs: []
 products_models: []
@@ -25,6 +25,7 @@ series: ''
 source: https://www.youtube.com/watch?v=0CGTrSHADh4
 status: evergreen
 ---
+
 ### 挑战“一年百本”：阅读的本质与误区
 
 你一定在网上看到过“我是如何一年读上100本书”这样的标题。这些内容可能会让你感到鼓舞，但我相信更多人感到的是焦虑或自卑，因为他们的阅读速度慢，似乎永远也成不了那种一年读上100本书的人。然而，作为一个阅读量不小的知识类UP主，我想说你真的不需要一年读上100本书，甚至不应把数量作为自己的目标，更不应该为自己的阅读速度感到焦虑。因为数量和速度都不是阅读的本质，它们更是阅读的结果，而不是你应该去追求的目标。在今天的视频中，我将探讨读书的本质是什么，把数量和速度作为目标有何不妥，以及那些所谓能提升阅读速度的有声书、速读技巧和干货总结存在什么问题。最后，我将分享在读书上我们真正应该追求的目标。

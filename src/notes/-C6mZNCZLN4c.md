@@ -5,11 +5,11 @@ area: personal-growth
 category: lifestyle
 project: []
 tags:
-- budget-accommodation
-- digital-nomad
-- travel-tips
-- university-dorms
-- vpn-for-travel
+  - budget-accommodation
+  - digital-nomad
+  - travel-tips
+  - university-dorms
+  - vpn-for-travel
 people: []
 companies_orgs: []
 products_models: []
@@ -25,6 +25,7 @@ series: ''
 source: https://www.youtube.com/watch?v=C6mZNCZLN4c
 status: evergreen
 ---
+
 ### 疫情后旅行的高昂成本
 
 在经历了将近三年的**大流行病**（Pandemic: 特指全球范围内的传染病爆发）之后，我们终于出门旅行了。作为一名工作相对自由的**数字游民**（Digital Nomad: 一种生活方式，指通过互联网远程工作，同时环游世界的人），我们通常会避开暑假、圣诞节、新年等旅行旺季出行。然而今年，我相信很多人和我一样，在家中实在憋闷许久，迫不及待地想要尽快出门旅行，已经等不到旅行淡季的到来。但是，今年的旅行费用确实显得有些高昂，机票和酒店的价格都在上涨，并且市场需求非常火爆。

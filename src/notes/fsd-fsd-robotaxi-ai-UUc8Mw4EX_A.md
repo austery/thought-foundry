@@ -4,16 +4,16 @@ summary: 本期节目邀请前特斯拉FSD工程师老于，深度探讨特斯�
 area: tech-insights
 category: technology
 project:
-- ai-impact-analysis
+  - ai-impact-analysis
 tags:
-- ai
+  - ai
 people:
-- elon-musk
+  - elon-musk
 companies_orgs:
-- tesla
+  - tesla
 products_models:
-- fsd
-- robotaxi
+  - fsd
+  - robotaxi
 media_books: []
 date: '2025-04-05'
 author: 一口新飯
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=UUc8Mw4EX_A
 status: evergreen
 ---
+
 ### 引言：特斯拉的跌宕起伏与特邀嘉宾
 
 **Ray:** 大家好，欢迎回到MoneyXYZ。本期节目将深入探讨特斯拉，作为特斯拉的长期投资者，我深知其近期股价的“过山车”表现让许多人感到不安。应广大观众要求，今天我们特别邀请到老朋友——特斯拉前自动驾驶工程师老于，一同深入聊聊特斯拉这几个月来的公司表现与股价波动、埃隆·马斯克（Elon Musk）参政的争议、**FSD**（Full Self-Driving: 特斯拉的完全自动驾驶系统）进入中国的进展、**Robotaxi**（无人出租车: 完全自动驾驶的车辆提供按需出行服务）和**Optimus**（擎天柱: 特斯拉开发的人形机器人）的未来，以及我们作为长期投资者近期的一些改变和计划。

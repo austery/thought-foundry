@@ -4,14 +4,14 @@ summary: 视频创作者“一口新饭”宣布会员网站开通，旨在提�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- personal-growth-lab
+  - investment-strategy
+  - personal-growth-lab
 tags:
-- content-creation
-- creator-economy
-- financial-freedom
-- membership-website
-- personal-growth
+  - content-creation
+  - creator-economy
+  - financial-freedom
+  - membership-website
+  - personal-growth
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=YqyhxXusFXM
 status: evergreen
 ---
+
 ### 会员网站的重大宣布与核心理念
 
 一直以来，我不断收到观众要求开设会员的评论。现在，我很高兴向大家宣布，我们的会员网站终于可以和大家见面了！这个网站倾注了我大量的时间和心思，因为我希望能够为大家提供一些丰富且独特的内容。会员网站的名字叫做“一口新饭”，如果你加入会员，就会成为我的“饭友”。网站的网址是onenewbite.com，即“一口新饭”的英文。除了网页版，会员网站也提供了手机App供大家使用。接下来，我将详细介绍开设这个会员网站的原因，以及成为会员后将获得的专属内容和特权。

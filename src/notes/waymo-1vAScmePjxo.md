@@ -4,16 +4,16 @@ summary: 作者亲身体验Waymo自动驾驶出租车，探讨其高精度地图
 area: market-analysis
 category: geopolitics
 project:
-- us-analysis
+  - us-analysis
 tags:
-- autonomous-driving
-- lidar
-- tesla-fsd
-- waymo
+  - autonomous-driving
+  - lidar
+  - tesla-fsd
+  - waymo
 people: []
 companies_orgs: []
 products_models:
-- robotaxi
+  - robotaxi
 media_books: []
 date: '2024-10-06'
 author: 一口新飯
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=1vAScmePjxo
 status: evergreen
 ---
+
 ### Waymo Robotaxi初体验：科技感与安全性的震撼
 
 在特斯拉发布Robotaxi之前，我专程从加拿大飞往旧金山，亲身体验了其主要竞争对手**Waymo**（谷歌母公司Alphabet旗下的自动驾驶技术公司）的**Robotaxi**（机器人出租车: 一种无需人类驾驶员即可自动载客的车辆服务）。我们进行了两段短途测试和一段横跨旧金山近一小时的长途测试，旨在解答许多特斯拉投资者心中的疑问：Waymo是否已真正解决了自动驾驶难题？如果答案是肯定的，特斯拉又能否实现“弯道超车”？此外，在体验Waymo之后，我对特斯拉10月10日的发布会又会有怎样的期待。

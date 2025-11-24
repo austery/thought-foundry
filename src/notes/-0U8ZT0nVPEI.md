@@ -4,13 +4,13 @@ summary: 本文深入探讨美联储如何调整联邦基金利率（FFR），�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- federal-funds-rate
-- federal-reserve
-- financial-system
-- interest-rates
-- monetary-policy
+  - federal-funds-rate
+  - federal-reserve
+  - financial-system
+  - interest-rates
+  - monetary-policy
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=0U8ZT0nVPEI
 status: evergreen
 ---
+
 ### 美联储加息：理解核心金融概念的钥匙
 
 投资者经常听到“**美联储加息**”（Federal Reserve Rate Hike: 美国中央银行提高基准利率以调控经济的行为），但其具体操作原理鲜有清晰解释。许多人误以为美联储调息过程简单，仅通过会议决定利率。然而，实际过程复杂而有趣，涉及至少五种利率，且调息方式在历史上经历过重要变革。理解美联储调息的具体原理和历史演变对投资者至关重要，因为它涵盖了许多常见却不被理解的重要金融概念。掌握此话题有助于理解当代金融体系的核心基础。本文将尝试以最简单语言，深入探讨美联储如何调整利率。

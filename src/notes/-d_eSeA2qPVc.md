@@ -5,12 +5,12 @@ area: null
 category: null
 project: []
 tags:
-- flow-state
-- learning-creativity
-- peak-performance
-- personal-development
+  - flow-state
+  - learning-creativity
+  - peak-performance
+  - personal-development
 people:
-- steven-kotler
+  - steven-kotler
 companies_orgs: []
 products_models: []
 media_books: []
@@ -25,6 +25,7 @@ series: ''
 source: https://www.youtube.com/watch?v=d_eSeA2qPVc
 status: evergreen
 ---
+
 ### 心流：实现大目标的关键
 
 你是否曾全身心投入某个任务，忘记一切杂念，失去时间的感知，并拥有超高的效率？或许那一刻，你正处于**心流**（Flow State: 一种全身心投入某任务，忘记杂念、时间，拥有超高效率的心理状态）状态。这种神奇的心流，正是实现人生大目标的关键。去年我阅读了**《不可能的艺术》**（The Art of Impossible: Steven Kotler所著，探讨如何实现不可能，达到巅峰表现的著作），并在一年时间里反复研读，获得了许多新的感悟。在今天的分享中，我将探讨心流背后的科学原理、如何用心流实现大目标，以及这本书给我带来的四个重要启发。

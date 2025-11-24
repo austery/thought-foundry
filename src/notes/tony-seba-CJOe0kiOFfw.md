@@ -4,14 +4,14 @@ summary: 本文基于Tony Seba的技术革新框架，探讨了特斯拉市值�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- electric-vehicles
-- energy-transition
-- technological-disruption
-- tesla-investment
+  - electric-vehicles
+  - energy-transition
+  - technological-disruption
+  - tesla-investment
 people:
-- tony-seba
+  - tony-seba
 companies_orgs: []
 products_models: []
 media_books: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=CJOe0kiOFfw
 status: evergreen
 ---
+
 ### 引言：特斯拉万亿市值背后的信念来源
 
 特斯拉近期经历了历史性的一周，其市值首次跨过1万亿美金大关，这对于所有投资者来说都是一个值得庆祝的时刻。然而，这种快速而猛烈的增长也让许多投资者感到不安，甚至开始怀疑是否应该继续持有、买入还是卖出。事实上，任何投资决定都与个人情况息息相关，没有标准答案。作为一名持有特斯拉股票三年并制作过许多相关专题视频的投资者，我将分享我长期保持对特斯拉超高信念的秘诀。

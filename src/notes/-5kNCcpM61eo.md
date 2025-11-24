@@ -4,16 +4,16 @@ summary: 视频揭示了“第二大脑”的常见误解，强调其核心是�
 area: digital-garden
 category: productivity
 project:
-- ai-impact-analysis
-- knowledge-pipeline
-- personal-growth-lab
-- pkm-research
+  - ai-impact-analysis
+  - knowledge-pipeline
+  - personal-growth-lab
+  - pkm-research
 tags:
-- knowledge-management
-- note-taking
-- personal-efficiency
-- productivity-traps
-- second-brain
+  - knowledge-management
+  - note-taking
+  - personal-efficiency
+  - productivity-traps
+  - second-brain
 people: []
 companies_orgs: []
 products_models: []
@@ -29,6 +29,7 @@ series: ''
 source: https://www.youtube.com/watch?v=5kNCcpM61eo
 status: evergreen
 ---
+
 ### “第二大脑”的普遍误解
 
 如果关注个人效率提升，你一定听说过“打造**第二大脑**”（Second Brain: 一种通过数字笔记系统来存储、整理和利用个人知识的方法）的说法。然而，很多人对此的理解可能存在偏差。按照这些误解来打造的“第二大脑”，并不能真正帮助提升效率，你也不需要一个所谓的“个人知识库”。

@@ -4,13 +4,13 @@ summary: 本文通过对美联储百年数据进行可视化分析，探讨“�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- market-cycles
+  - investment-strategy
+  - market-cycles
 tags:
-- data-analysis
-- federal-reserve
-- financial-markets
-- investment-strategy
+  - data-analysis
+  - federal-reserve
+  - financial-markets
+  - investment-strategy
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=KmvO9ObQLOE
 status: evergreen
 ---
+
 ### “不要与美联储作对”：一个投资迷思
 
 投资市场中流传着一句格言：“**不要与美联储作对**（Don’t fight the Fed: 指投资者应根据美联储的政策来制定投资决策）”。这句话强调美联储对经济和投资市场具有巨大影响力，投资者理应顺应其政策方向。许多人奉此为圭臬，认为遵循此原则投资从未失手。然而，如果这一说法是普适真理，那么投资将变得异常简单：在降息时买入，升息时卖出即可。直觉上，投资不可能如此简单。

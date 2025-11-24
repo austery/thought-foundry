@@ -4,13 +4,13 @@ summary: 本文揭示负债的三大真相：它限制行动、剥夺选择，�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- debt
-- decision-making
-- financial-fragility
-- personal-finance
-- risk-management
+  - debt
+  - decision-making
+  - financial-fragility
+  - personal-finance
+  - risk-management
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=xHjMDCwW1dA
 status: evergreen
 ---
+
 ### 债务：人生最大的奢侈品
 
 大家好，我是Ray。今天想和大家聊聊负债，我有一个大胆的观点，那就是债务是人生最大的奢侈品。这句话并非夸张的比喻，而是我这几年越来越深刻的体会。三年前，我曾制作视频提醒大家要小心负债，结果有人认为我在妖魔化负债。但我理解，当时市场环境良好，利率低，股市繁荣，许多人杠杆拉满，赚取丰厚利润，因此更倾向于将负债合理化。例如，有人说几乎没有一个富人没有负债，而几乎没有一个穷人有勇气负债。又如，多伦多有观众表示，只要五大银行肯给他贷款，他就会继续买房，甚至抵押房子借钱炒股，并用各种计算来证明其可行性。

@@ -4,18 +4,18 @@ summary: 作者分享《异类》一书如何影响其人生选择，强调外�
 area: personal-growth
 category: career
 project:
-- ai-impact-analysis
-- personal-growth-lab
+  - ai-impact-analysis
+  - personal-growth-lab
 tags:
-- career-strategy
-- life-choices
-- personal-development
-- unfair-advantage
+  - career-strategy
+  - life-choices
+  - personal-development
+  - unfair-advantage
 people: []
 companies_orgs: []
 products_models: []
 media_books:
-- outliers-book
+  - outliers-book
 date: '2023-01-26'
 author: 一口新飯
 speaker: 一口新飯
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=CXVW_YOLbhY
 status: evergreen
 ---
+
 ### 《异类》对个人选择的深远影响
 
 我过去不止一次在视频中提到过我手上的这本书对我有多么重要。在今天的视频里，我将用自己十几年前的故事，来分享这本**《异类》**（**Outliers**: 马尔科姆·格拉德威尔所著，探讨成功人士并非仅靠天赋和努力，而是受外部环境、文化背景和机遇影响的畅销书）是如何改变我的人生的。在视频的最后，我也会介绍额外两本深刻影响我的书。不过，我首先要带你认识一个人，这是Nathan。在2010年，因为**《异类》**这本书，我们成为了室友和同事。我刚工作半年就成为学校的经理，这也与**《异类》**这本书的理念有关。

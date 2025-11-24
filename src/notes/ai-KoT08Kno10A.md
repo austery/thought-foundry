@@ -4,15 +4,15 @@ summary: ChatGPT的出现为不懂技术的人提供了前所未有的机遇。�
 area: tech-insights
 category: technology
 project:
-- ai-impact-analysis
-- personal-growth-lab
-- vibe-coding
+  - ai-impact-analysis
+  - personal-growth-lab
+  - vibe-coding
 tags:
-- ai-opportunities
-- career-transition
-- learning-to-code
-- natural-language-programming
-- prompt-engineering
+  - ai-opportunities
+  - career-transition
+  - learning-to-code
+  - natural-language-programming
+  - prompt-engineering
 people: []
 companies_orgs: []
 products_models: []
@@ -28,6 +28,7 @@ series: ''
 source: https://www.youtube.com/watch?v=KoT08Kno10A
 status: evergreen
 ---
+
 ### 科技革命与个人机遇
 
 自从**ChatGPT**（Generative Pre-trained Transformer: 一种基于大型语言模型的聊天机器人）出现以来，我一直在思考它对像我这样不懂技术、不会写代码的人意味着什么。每一次科技革命都会带来新的机遇。在最近的互联网和智能手机浪潮中，懂技术的人通常能够最早享受到科技带来的红利，而像我这样不懂技术、不会编程的普通人，往往只能在技术浪潮的边缘观望。我们每个人似乎又被科技革命推上了新的人生分水岭。我们一直在等待这一时刻，这就是AI的“iPhone时刻”。

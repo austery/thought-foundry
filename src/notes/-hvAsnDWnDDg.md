@@ -4,12 +4,12 @@ summary: 本文总结了2024年上半年投资特斯拉的经验，深入探讨�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- financial-education
-- investment-strategy
-- signal-noise-ratio
-- tesla-investment
+  - financial-education
+  - investment-strategy
+  - signal-noise-ratio
+  - tesla-investment
 people: []
 companies_orgs: []
 products_models: []
@@ -25,6 +25,7 @@ series: ''
 source: https://www.youtube.com/watch?v=hvAsnDWnDDg
 status: evergreen
 ---
+
 ### 特斯拉投资的过山车与“噪音”的本质
 
 对于**特斯拉**（Tesla: 一家美国电动汽车及清洁能源公司）的长期投资者而言，2024年上半年无疑是一段坐过山车般的经历。本文旨在总结这半年投资特斯拉所带来的关于信号与噪音的四个重要道理，并分享一位长期投资者在持续购买两年后，决定停止加仓特斯拉的原因。

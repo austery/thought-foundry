@@ -4,14 +4,14 @@ summary: 本文深入探讨美第奇银行如何在禁止放贷的中世纪欧�
 area: personal-growth
 category: culture
 project:
-- historical-insights
-- investment-strategy
+  - historical-insights
+  - investment-strategy
 tags:
-- bills-of-exchange
-- history-of-money
-- medici-bank
-- medieval-finance
-- usury
+  - bills-of-exchange
+  - history-of-money
+  - medici-bank
+  - medieval-finance
+  - usury
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=7C0XrFfggco
 status: evergreen
 ---
+
 ### 佛罗伦萨之旅与美第奇之谜
 
 2023年4月，我在佛罗伦萨进行了一周的旅行。此行的第一站并非著名的美术馆或标志性景点，而是当地的档案馆，目的是办理会员手续，寻找一份500多年前的资料，以解答我长久以来的一个疑问。我身后的建筑是著名的**美第奇里卡迪宫**（Palazzo Medici Riccardi: 从1460年起，美第奇家族在此居住了100多年），但今天我想探讨的并非这座建筑或其家族史，而是网上关于美第奇家族故事中常被忽略甚至误解的一点：美第奇银行究竟是如何赚钱的？

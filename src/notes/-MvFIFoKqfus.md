@@ -4,14 +4,14 @@ summary: 一位知识博主分享了她将知识转化为资产的研究与创�
 area: digital-garden
 category: productivity
 project:
-- knowledge-pipeline
-- pkm-research
+  - knowledge-pipeline
+  - pkm-research
 tags:
-- content-creation
-- knowledge-management
-- personal-development
-- personal-growth
-- research-methods
+  - content-creation
+  - knowledge-management
+  - personal-development
+  - personal-growth
+  - research-methods
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=MvFIFoKqfus
 status: evergreen
 ---
+
 ### 知识博主的自我定位与创作动力
 
 一位观众曾留言误以为我是一名经济学教授，这让我感到非常得意。然而，我并非经济学专业出身，大学时只学过基础会计，且过往工作也与金融无关。我所有的投资、金融和经济学知识均通过自学获得。作为一名知识类博主，我始终致力于为大家提供准确、硬核的干货知识，这背后需要投入大量时间进行研究（research）。

@@ -4,12 +4,12 @@ summary: 作者经历心梗后，通过罗永浩的“彪悍的人生不需要�
 area: personal-growth
 category: psychology
 project:
-- personal-growth-lab
+  - personal-growth-lab
 tags:
-- life-philosophy
-- personal-growth
+  - life-philosophy
+  - personal-growth
 people:
-- wang-yangming
+  - wang-yangming
 companies_orgs: []
 products_models: []
 media_books: []
@@ -24,6 +24,7 @@ series: ''
 source: https://www.youtube.com/watch?v=Vs81k1uQ1Ek
 status: evergreen
 ---
+
 ### 领悟“彪悍人生”的真谛
 
 我相信每个人都曾有过类似的经历，听到一句很爽很有道理的话，但真的要解释却又难以说清楚。直到经历了一些事情后，在某个瞬间突然顿悟。对我而言，罗永浩的“**彪悍的人生不需要解释**”（Brave Life Needs No Explanation: 罗永浩提出的理念，强调个体追求目标时无需向外界证明或辩解）就是这样一句话。

@@ -4,17 +4,17 @@ summary: 一位内容创作者分享《被讨厌的勇气》如何帮助他摆�
 area: personal-growth
 category: psychology
 project:
-- personal-growth-lab
+  - personal-growth-lab
 tags:
-- authenticity
-- mindset-shift
-- personal-growth
-- self-acceptance
+  - authenticity
+  - mindset-shift
+  - personal-growth
+  - self-acceptance
 people: []
 companies_orgs: []
 products_models: []
 media_books:
-- the-courage-to-be-disliked
+  - the-courage-to-be-disliked
 date: '2025-07-12'
 author: 一口新飯
 speaker: 一口新飯
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=EqO7Cs61Mi8
 status: evergreen
 ---
+
 ### 引言：一场网络争执与人设的困境
 
 《被讨厌的勇气》是一本需要勇气才能分享的书。我将分享它以及我从中获得的人生课程，如何帮助我撕掉**网红人设**（Online Persona: 互联网内容创作者为满足观众期待而塑造的形象），活出真实的自己。如果你也曾因外界评价、期待或所谓的人设而感到内耗，失去做自己的勇气，我相信这本书和我的经历会给你带来启发。

@@ -4,14 +4,14 @@ summary: 本视频探讨了“自私”如何成为“自救”的第一步，�
 area: personal-growth
 category: psychology
 project:
-- personal-growth-lab
+  - personal-growth-lab
 tags:
-- personal-growth
-- plan-b
-- self-salvation
-- selfishness
+  - personal-growth
+  - plan-b
+  - self-salvation
+  - selfishness
 people:
-- wang-yangming
+  - wang-yangming
 companies_orgs: []
 products_models: []
 media_books: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=45jFMosXWtA
 status: evergreen
 ---
+
 ### 自救的起点：学会毫无保留的“自私”
 
 我来自中国的一个贫困农村家庭，人生中经历过许多卡住的时刻。起初，我并不清楚如何**自救**（Self-salvation: 指在困境中依靠自身力量摆脱困境、实现自我提升的过程）。然而，一次重要的心态转变，让我一次次实现了人生的反转，这个心态就是学会**毫无保留的自私**（Selfishness: 在这里指将注意力优先放在自身需求和成长上，而非传统意义上只顾自己不顾他人的负面含义）。今天，我想通过一些故事和思考，分享为什么自私是自救的第一步。它包含两个关键部分：先给自己戴上氧气面罩，以及拿好你的人生底牌。

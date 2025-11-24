@@ -4,13 +4,13 @@ summary: 本文深入探讨了Couch Potato Portfolio，一种旨在平衡风险�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- asset-allocation
-- couch-potato-portfolio
-- index-investing
-- passive-investing
-- rebalancing
+  - asset-allocation
+  - couch-potato-portfolio
+  - index-investing
+  - passive-investing
+  - rebalancing
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=c3eiLNETGM8
 status: evergreen
 ---
+
 ### 指数投资的多元选择与“沙发土豆”策略
 
 提及**指数投资**（Index Investing: 购买追踪特定市场指数表现的基金，而非个股选择的被动投资策略），人们常会联想到巴菲特推荐的标普500指数基金。然而，可投资的指数远不止标普500，且指数基金投资与其他任何投资一样，存在多样化的投资思路和偏好。本文将分享一种在FIRE（Financial Independence, Retire Early）群体中极具影响力的指数基金投资策略——**Couch Potato Portfolio**（Couch Potato Portfolio: 一种由股票和债券指数基金组成的投资策略，旨在通过定期再平衡实现风险与回报的平衡）。

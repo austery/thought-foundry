@@ -4,14 +4,14 @@ summary: 本文详细分析了加拿大班夫地区一套Airbnb短租房在2022�
 area: market-analysis
 category: finance
 project:
-- ai-impact-analysis
-- investment-strategy
+  - ai-impact-analysis
+  - investment-strategy
 tags:
-- airbnb-rental
-- financial-analysis
-- passive-income
-- real-estate-investment
-- short-term-rental
+  - airbnb-rental
+  - financial-analysis
+  - passive-income
+  - real-estate-investment
+  - short-term-rental
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=FvQRhEKhtuw
 status: evergreen
 ---
+
 ### 引言：2022年Airbnb短租收益回顾
 
 大家好，欢迎回到MoneyXYZ，我是Ray。作为本频道的忠实观众，大家应该知道我在2021年6月在加拿大**班夫国家公园**（Banff National Park: 位于加拿大落基山脉的著名国家公园，以其自然风光和旅游活动闻名）附近投资了一套**Airbnb**（Airbnb: 一个在线短租平台，允许房东出租房屋给旅行者）短租房。我之前也做过三期视频分享这段经历，其中一期关于我做Airbnb第一个月赚了多少钱的视频非常受欢迎。现在一年多过去了，我将借此机会分享疫情后的2022年，我做Airbnb到底赚了多少钱。与之前的视频一样，我将完全公开真实的经营数据，直白地谈钱，全是干货。这些数据是普通人看不到也不愿分享的，我相信它们一定会给想要做Airbnb的你提供巨大帮助。

@@ -4,17 +4,17 @@ summary: 前特斯拉FSD工程师于振华与主持人一口新饭深度解读�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- market-cycles
+  - investment-strategy
+  - market-cycles
 tags:
-- ev-market
+  - ev-market
 people: []
 companies_orgs:
-- tesla
+  - tesla
 products_models:
-- fsd
-- optimus-robot
-- robotaxi
+  - fsd
+  - optimus-robot
+  - robotaxi
 media_books: []
 date: '2024-04-26'
 author: 一口新飯
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=LkaTvWlBR1k
 status: evergreen
 ---
+
 ### 引言：特斯拉的挑战与机遇
 
 一口新饭: 三个月前，我邀请了曾在特斯拉工作七年的自动驾驶工程师于振华，共同探讨特斯拉的“十倍之路”。然而，三个月过去，特斯拉股价一路下跌，许多投资者感到恐慌。近期特斯拉公布了第一季度的财报，于是我再次邀请老于进行访谈。我们讨论了近期**Model 2风波**（Model 2 Controversy: 关于特斯拉廉价车型Model 2是否被取消或推迟的争议），分析了财报，深入探讨了**FSD**（Full Self-Driving: 特斯拉的高级驾驶辅助系统，旨在实现完全自动驾驶）、**Robotaxi**（Robotaxi: 无人驾驶的自动驾驶出租车服务）以及**Optimus**（Optimus: 特斯拉正在开发的人形机器人）。我们还分享了各自投资特斯拉的**仓位**（Position: 投资者持有的某种证券的数量）和操作，以及对长期投资特斯拉的看法。

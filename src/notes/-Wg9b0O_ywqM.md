@@ -4,13 +4,13 @@ summary: 本文探讨了人类普遍存在的二元思维本能，它如何影�
 area: personal-growth
 category: psychology
 project:
-- personal-growth-lab
+  - personal-growth-lab
 tags:
-- binary-thinking
-- cognitive-bias
-- decision-making
-- human-instinct
-- psychology
+  - binary-thinking
+  - cognitive-bias
+  - decision-making
+  - human-instinct
+  - psychology
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=Wg9b0O_ywqM
 status: evergreen
 ---
+
 ### 二元思维的普遍性与本能根源
 
 作为一名内容创作者，经常会面对一些极端评论。大多数情况下会选择忽略，因为自以为与他们不同，认为他们爱走极端，有着非黑即白的二元思维。然而，黑白之间其实充满不同的灰度，对灰度的探讨能让我们更加接近真相。但事实并非如此，我们每个人都是**二元思维**（Black-And-White Thinking: 一种非黑即白、极端化的思考模式）的忠实信徒，只不过表现方式不同罢了。

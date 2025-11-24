@@ -4,14 +4,14 @@ summary: 本文分享了五个思维模型，帮助你辨别信息洪流中的�
 area: personal-growth
 category: psychology
 project:
-- entrepreneurship
-- personal-growth-lab
+  - entrepreneurship
+  - personal-growth-lab
 tags:
-- decision-making
-- entrepreneurship
-- mental-models
-- personal-growth
-- signal-and-noise
+  - decision-making
+  - entrepreneurship
+  - mental-models
+  - personal-growth
+  - signal-and-noise
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=__AdJYwKJEE
 status: evergreen
 ---
+
 ### 识别噪音：从争议视频到核心洞察
 
 前不久，我发布了一个关于“Vibe Coding”的视频，并在视频最后介绍了我的新创业项目——一个AI社群。这个视频成为了我做YouTube以来最具争议的一个，收到了大量负面评论。这些评论多到有粉丝私信来表达支持，并关怀我的内心状态，希望我不要被这些评论伤害。

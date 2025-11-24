@@ -4,13 +4,13 @@ summary: 本视频分享了“不赔钱”这一创业法则在实际操作中�
 area: market-analysis
 category: business
 project:
-- entrepreneurship
+  - entrepreneurship
 tags:
-- business-strategy
-- downside-protection
-- entrepreneurship
-- minimalist-entrepreneurship
-- side-hustle
+  - business-strategy
+  - downside-protection
+  - entrepreneurship
+  - minimalist-entrepreneurship
+  - side-hustle
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=X6OYw3u_2kQ
 status: evergreen
 ---
+
 ### 创业不失败的悖论与核心法则
 
 大家好，我是Ray。今天我想分享一个能帮助我创业永不失败的法则。我知道这个说法听起来有点夸张，因为创业怎么可能不失败呢？事情是这样的，前段时间我在一次采访中被问到：“你创业经历过哪些失败？毕竟失败是成功之母嘛。”然后我就认真想了想，回答说：“我好像没怎么失败过。”对方当时有点懵，因为我显然没有按照套路出牌。他又问：“那你给创业者有什么建议呢？”我说就一条：“**Do not lose money**。”

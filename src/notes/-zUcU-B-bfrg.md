@@ -4,13 +4,13 @@ summary: 本文探讨了“向上社交”的常见误区，指出真正的贵�
 area: personal-growth
 category: psychology
 project:
-- personal-growth-lab
+  - personal-growth-lab
 tags:
-- career-development
-- mentorship
-- networking-strategy
-- personal-growth
-- upward-social-climbing
+  - career-development
+  - mentorship
+  - networking-strategy
+  - personal-growth
+  - upward-social-climbing
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=zUcU-B-bfrg
 status: evergreen
 ---
+
 ### 重新审视“向上社交”：大佬为何伸出援手？
 
 近期，**向上社交**（Upward Social Climbing / Networking: 与比自己地位高、资源多的人交往，希望借助他人的资源获得更多的信息、扩展人脉，最终获益）一词频繁出现在我的视野中。前两天我采访了一位观众会员，他通过出售亚马逊电商生意实现了财富自由。我发现他有个特点，那就是每年都会花重金飞往世界各地参加各类圈子聚会，这在我看来就是所谓的向上社交。于是，我向他提出了一个问题：是否存在向上社交的可能？

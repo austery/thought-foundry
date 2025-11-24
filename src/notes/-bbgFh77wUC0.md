@@ -4,13 +4,13 @@ summary: 视频探讨了债务对个人行为的限制，并提出了一个“�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- debt-management
-- financial-formula
-- financial-freedom
-- personal-finance
-- wealth-building
+  - debt-management
+  - financial-formula
+  - financial-freedom
+  - personal-finance
+  - wealth-building
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=bbgFh77wUC0
 status: evergreen
 ---
+
 ### 债务：限制人类行为的经济根源
 
 1861年美国爆发了南北战争，其核心争端之一是南北双方对待奴隶制的态度。历史常将北方描述为废除奴隶制的道德高地，而南方奴隶主则被描绘成贪婪、残忍、种族主义且没有人性。这种道德视角的描述虽易于理解，但事实可能很大程度上源于另一个与道德无关的原因：债务。

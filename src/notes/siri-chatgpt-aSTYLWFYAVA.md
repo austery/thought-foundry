@@ -4,13 +4,13 @@ summary: 本视频分享了如何利用Siri和ChatGPT，解决传统口语练习
 area: tech-insights
 category: technology
 project:
-- ai-impact-analysis
+  - ai-impact-analysis
 tags:
-- ai-tools
-- chatgpt-english
-- language-learning
-- prompt-engineering
-- siri-shortcuts
+  - ai-tools
+  - chatgpt-english
+  - language-learning
+  - prompt-engineering
+  - siri-shortcuts
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=aSTYLWFYAVA
 status: evergreen
 ---
+
 ### 引言：Talk GPT的诞生与核心理念
 
 我利用Siri和**ChatGPT**（ChatGPT: 由OpenAI开发的人工智能聊天机器人）成功打造了一个强大的英文口语应用程序——Talk GPT 4。这款应用的灵感来源于知名口语软件**Speak**（Speak: 一款由OpenAI投资合作、基于ChatGPT技术的英文口语学习软件），其核心技术正是ChatGPT。在试用Speak后，我发现其AI对话体验极佳，由此萌生了利用自身拥有的ChatGPT资源，构建一个专属口语练习工具的想法，Talk GPT因此应运而生。

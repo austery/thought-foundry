@@ -4,13 +4,13 @@ summary: 本视频深入探讨美联储加息缩表与“美元回流”现象�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- asian-financial-crisis
-- capital-flows
-- dollar-repatriation
-- federal-reserve
-- monetary-policy
+  - asian-financial-crisis
+  - capital-flows
+  - dollar-repatriation
+  - federal-reserve
+  - monetary-policy
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=cWVGiz8nf-I
 status: evergreen
 ---
+
 ### 引言：揭示“收割论”的困扰
 
 今年美联储开始加息缩表，中文世界里开始出现一种说法：美联储挥起镰刀开始收割世界，美国通过美元回流收割世界。这种说法听起来特别像阴谋论，常用的词语如“挥起镰刀”、“转嫁危机”、“收割”、“阴谋阳谋”、“一盘大棋”、“套路”等，似乎这一切都是美国设的一个局，而美国之外的全世界都是他们的韭菜，随时等待被宰割。

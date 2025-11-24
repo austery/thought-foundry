@@ -4,13 +4,13 @@ summary: 本视频深入解析美国“合格投资者”（Accredited Investor�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- accredited-investor
-- financial-regulation
-- private-equity
-- venture-capital
-- wealth-management
+  - accredited-investor
+  - financial-regulation
+  - private-equity
+  - venture-capital
+  - wealth-management
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=hTEdcgAvPKw
 status: evergreen
 ---
+
 ### 引言：揭秘“合格投资者”身份
 
 2015年，我读过一本《穷爸爸富爸爸》作者的另一本书，叫做《富爸爸投资指南》（Rich Dad’s Guide to Investing）。多年过去，书中其他内容已模糊，但一个词汇却让我念念不忘，它就是**合格投资者**（Accredited Investor: 指在美国联邦证券法下被认定为有能力承担高风险投资的个人或机构）。

@@ -4,15 +4,15 @@ summary: 本文结合个人经历，从埃隆·马斯克（Elon Musk）的传记
 area: market-analysis
 category: business
 project:
-- entrepreneurship
-- personal-growth-lab
+  - entrepreneurship
+  - personal-growth-lab
 tags:
-- entrepreneurship
-- life-lessons
-- personal-growth
-- reading-habits
+  - entrepreneurship
+  - life-lessons
+  - personal-growth
+  - reading-habits
 people:
-- elon-musk
+  - elon-musk
 companies_orgs: []
 products_models: []
 media_books: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=NpWBtWqr12I
 status: evergreen
 ---
+
 ### 引言：马斯克的人生课程
 
 今年我读完了最新出版的埃隆·马斯克（Elon Musk）传记，想结合一些个人经历，分享我从他身上学到的三个重要人生课程，希望能对你有所启发和帮助。这次我还邀请了大小马聊科技的几位朋友，共同探讨这些话题。

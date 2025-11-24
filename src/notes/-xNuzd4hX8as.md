@@ -4,17 +4,17 @@ summary: Ray分享了离开加拿大、搬到马来西亚吉隆坡的深层原�
 area: personal-growth
 category: psychology
 project:
-- personal-growth-lab
+  - personal-growth-lab
 tags:
-- digital-nomad
-- family-reunion
-- life-transition
-- personal-growth
+  - digital-nomad
+  - family-reunion
+  - life-transition
+  - personal-growth
 people: []
 companies_orgs: []
 products_models: []
 media_books:
-- die-with-zero
+  - die-with-zero
 date: '2025-02-23'
 author: 一口新飯
 speaker: 一口新飯
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=xNuzd4hX8as
 status: evergreen
 ---
+
 ### 告别加拿大，开启亚洲新篇章
 
 大家好，我是Ray。老观众可能已经注意到，我的背景与之前在加拿大时有所不同。事实上，在录制这段视频时，我们全家已经离开加拿大近三个月，搬到了亚洲。目前我身处马来西亚的吉隆坡，窗外便是这座城市的两大地标建筑。本期视频，我将与大家分享我长时间离开加拿大的原因、旅途中的故事，以及我未来的旅居计划，希望能为屏幕前的你带来一些启发。

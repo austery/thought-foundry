@@ -4,13 +4,13 @@ summary: 本文深入探讨《模仿欲望的力量》一书核心理念，揭�
 area: personal-growth
 category: psychology
 project:
-- personal-growth-lab
+  - personal-growth-lab
 tags:
-- book-summary
-- mimetic-desire
-- personal-growth
-- self-control
-- social-psychology
+  - book-summary
+  - mimetic-desire
+  - personal-growth
+  - self-control
+  - social-psychology
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=kSLg9PmvslY
 status: evergreen
 ---
+
 ### 欲望的模仿本质与痛苦根源
 
 你是否曾思考过，自己为何想要所求、追求所愿、投资所投？你的欲望究竟源自何处？若有人声称自己某天醒来，毫无缘由地突然想跑马拉松、攀登喜马拉雅山、购买狗狗币或追求财务自由，那他一定是在说谎。因为在欲望层面，人类并不具备原创性，我们所有的欲望都是模仿他人而获得的。然而，人生绝大多数的痛苦恰恰来源于这些欲望。为了摆脱或缓解这些痛苦，我们必须主动掌控自己的欲望，这在社交网络盛行的当代世界尤为重要。

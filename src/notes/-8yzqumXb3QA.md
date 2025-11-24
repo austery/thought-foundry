@@ -4,13 +4,13 @@ summary: 一位内容创作者在追求财务自由五年后，分享了他对�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- active-passive-income
-- financial-freedom
-- lifestyle-design
-- mindset
-- personal-finance
+  - active-passive-income
+  - financial-freedom
+  - lifestyle-design
+  - mindset
+  - personal-finance
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=8yzqumXb3QA
 status: evergreen
 ---
+
 ### 财务自由的误解与质疑
 
 前段时间，有观众告知我的视频被擅自搬运到国内B站，我在联系删除的同时，也留意了国内观众对视频的评论。其中，关于财务自由系列的视频反响最为强烈，有一条评论特别有代表性：“你还在做这个视频说明你还没有财务自由。”这条评论虽然表面看似聪明，但实质上代表了许多人对财务自由的误解。我一直觉得迟早会有人提出这样的质疑。

@@ -4,14 +4,14 @@ summary: 本文深入探讨微软Skype聊天软件中内置的免费GPT-4 Bing�
 area: tech-insights
 category: technology
 project:
-- ai-impact-analysis
-- personal-growth-lab
+  - ai-impact-analysis
+  - personal-growth-lab
 tags:
-- ai-productivity
-- free-ai-tools
-- gpt-4-alternative
-- prompt-engineering
-- skype-bing-chatbot
+  - ai-productivity
+  - free-ai-tools
+  - gpt-4-alternative
+  - prompt-engineering
+  - skype-bing-chatbot
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=fTyvGHRWZRY
 status: evergreen
 ---
+
 ### Skype内置Bing聊天机器人：免费GPT-4的强大替代方案
 
 许多人可能不知道微软的Skype聊天软件内置了一个免费的**GPT-4**（Generative Pre-trained Transformer 4: OpenAI开发的大型语言模型，具有强大的文本生成和理解能力）**Bing聊天机器人**。如果认为它与Edge浏览器中的**New Bing**（New Bing: 微软Edge浏览器中集成的基于AI的聊天机器人，提供搜索、内容创作等功能）相同，那就大错特错了。Skype内置的机器人比Edge浏览器中的版本强大许多，其效果与GPT-4类似，最重要的是，它没有GPT-4每3小时25条消息的使用限制，并且完全免费。它甚至在某些功能上超越了ChatGPT-4，拥有许多新奇的用法。

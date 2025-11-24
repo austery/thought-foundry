@@ -4,13 +4,13 @@ summary: 马来西亚30岁创业者Wilson分享十年创业经历。他从接手
 area: market-analysis
 category: business
 project:
-- entrepreneurship
+  - entrepreneurship
 tags:
-- business-transformation
-- entrepreneurship
-- leadership-development
-- malaysian-business
-- wealth-management
+  - business-transformation
+  - entrepreneurship
+  - leadership-development
+  - malaysian-business
+  - wealth-management
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=F3b_s8OiNdU
 status: evergreen
 ---
+
 ### 开场白与Wilson的自我介绍
 
 **Ray:** 大家好，我是Ray。这次采访的对象Wilson对我来说完全是个意外。Wilson是我们在吉隆坡的观众，也是“一口新饭”社群的成员。今年三月，我们计划在吉隆坡举办一个小型的线下聚会（meetup），他联系我说可以帮忙提供场地。一开始我以为他可能是个年轻的经理，但当我去看现场时，我被彻底惊到了。原来他不是什么经理，而是一家非常成功企业的**首席执行官**（CEO: Chief Executive Officer，一家公司的最高行政负责人），整层楼都是他的办公室。所有这些事情我事前都完全不知道，所以当时我决定必须采访他，因为我相信一个这么年轻就能获得巨大成功，而且还很谦虚的人，一定有很多故事和经验能跟大家分享。在这次采访中，我们聊了Wilson成功背后的故事，他如何接手一个沉没中的公司并将其打造成一个九位数的商业帝国，他现在正在经历的转型以及对人生季节和财富的讨论。希望你能够享受这次对话。

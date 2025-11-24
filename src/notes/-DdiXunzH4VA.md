@@ -5,11 +5,11 @@ area: null
 category: null
 project: []
 tags:
-- audiobooks
-- personal-development
-- personal-growth
-- reading-habits
-- utilitarian-reading
+  - audiobooks
+  - personal-development
+  - personal-growth
+  - reading-habits
+  - utilitarian-reading
 people: []
 companies_orgs: []
 products_models: []
@@ -25,6 +25,7 @@ series: ''
 source: https://www.youtube.com/watch?v=DdiXunzH4VA
 status: evergreen
 ---
+
 ### 从阅读困难到阅读上瘾：我的转变之路
 
 我手中这本厚达500多页的《富兰克林传》，是2014年在多伦多旧书摊淘来的“藏书”。直到上个月，我才花了24个小时将其一字不落地读完。我突然意识到，几年前对我来说几乎不可能读完的**大部头**（tome: 指篇幅很长、内容丰富或深奥的著作），现在已毫无挑战。稍后我将分享我是如何做到的。

@@ -4,15 +4,15 @@ summary: 本文深入探讨美债收益率倒挂解除现象，分析其预示�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- market-cycles
-- us-analysis
+  - investment-strategy
+  - market-cycles
+  - us-analysis
 tags:
-- bond-market
-- economic-recession
-- investment-strategy
-- monetary-policy
-- us-treasury-yields
+  - bond-market
+  - economic-recession
+  - investment-strategy
+  - monetary-policy
+  - us-treasury-yields
 people: []
 companies_orgs: []
 products_models: []
@@ -28,6 +28,7 @@ series: ''
 source: https://www.youtube.com/watch?v=XXtzCMx1_po
 status: evergreen
 ---
+
 ### 债券市场：经济衰退的预警信号
 
 投资市场流传着一句话：“When Bonds speak, you listen”，强调了债券市场对宏观经济和投资市场的预测能力。近期，债券市场再次发出信号：美国10年期国债收益率自2007年以来首次逼近5%大关，引发了整个投资市场的紧张情绪，人们开始担忧经济衰退是否即将来临。本文将深入探讨近期债券市场的变化对经济及投资的潜在影响。

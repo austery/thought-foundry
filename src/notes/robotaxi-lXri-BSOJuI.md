@@ -4,18 +4,18 @@ summary: 本视频从特斯拉投资者角度，深度解读了近期Robotaxi发
 area: market-analysis
 category: finance
 project:
-- ai-impact-analysis
-- investment-strategy
-- us-analysis
+  - ai-impact-analysis
+  - investment-strategy
+  - us-analysis
 tags:
-- ai-investment
-- autonomous-driving
-- tesla-robotaxi
+  - ai-investment
+  - autonomous-driving
+  - tesla-robotaxi
 people: []
 companies_orgs: []
 products_models:
-- fsd
-- optimus-robot
+  - fsd
+  - optimus-robot
 media_books: []
 date: '2024-10-15'
 author: 一口新飯
@@ -28,6 +28,7 @@ series: ''
 source: https://www.youtube.com/watch?v=lXri-BSOJuI
 status: evergreen
 ---
+
 ### 对特斯拉Robotaxi发布会的整体看法
 
 2024年10月10日的特斯拉**Robotaxi**（无人驾驶出租车）发布会，在精心准备之下，呈现了一场精彩的派对，但作为一场产品发布会（presentation），它在细节披露上有所欠缺。许多重要信息需要从现场参与者那里获取，这可能导致屏幕前的观众感到失望。然而，这并不意味着发布会没有亮点或价值。

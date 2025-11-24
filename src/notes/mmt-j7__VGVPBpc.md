@@ -5,10 +5,10 @@ area: market-analysis
 category: finance
 project: []
 tags:
-- economic-policy
-- government-debt
-- inflation
-- modern-monetary-theory
+  - economic-policy
+  - government-debt
+  - inflation
+  - modern-monetary-theory
 people: []
 companies_orgs: []
 products_models: []
@@ -24,6 +24,7 @@ series: ''
 source: https://www.youtube.com/watch?v=j7__VGVPBpc
 status: evergreen
 ---
+
 ### 美国债务困境与“印钱还债”的悖论
 
 2011年，美国因未能及时提高债务上限，面临违约风险，其**国债**（National Debt: 政府为筹集资金而发行的债券，代表政府向公众或机构的借款）历史上首次被评级公司降级。当时，前美联储主席格林斯潘在一次电视采访中被问及美国国债是否仍是安全的投资品。许多人对政府印钱还债的看法是荒唐且后果严重，这与当时一位旁听者忍俊不禁的表情不谋而合。然而，当前美国国债已超过30万亿美元，美国并未破产，美元依然坚挺，这似乎印证了格林斯潘的观点。

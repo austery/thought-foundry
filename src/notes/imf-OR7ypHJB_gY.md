@@ -5,11 +5,11 @@ area: market-analysis
 category: finance
 project: []
 tags:
-- bretton-woods
-- capital-controls
-- global-economy
-- imf
-- sovereign-debt-crisis
+  - bretton-woods
+  - capital-controls
+  - global-economy
+  - imf
+  - sovereign-debt-crisis
 people: []
 companies_orgs: []
 products_models: []
@@ -25,6 +25,7 @@ series: ''
 source: https://www.youtube.com/watch?v=OR7ypHJB_gY
 status: evergreen
 ---
+
 ### 斯里兰卡危机与IMF的争议
 
 当今世界的一个角落，一场灾难正在上演，经济学家称之为“贫穷国家的原罪”。这种诅咒在过去半个世纪中反复出现，例如斯里兰卡正经历的**主权债务危机**（Sovereign Debt Crisis: 国家无法偿还外债的情况）。最终，斯里兰卡不得不向**IMF-世界货币基金组织**（International Monetary Fund: 协调各国汇率、国际支付并向出现支付问题的成员国提供借贷的国际金融组织）寻求帮助。然而，令人费解的是，斯里兰卡在过去一年中一直抗拒IMF的援助，即使在国家崩溃的边缘，也迟迟不愿求助。要知道，斯里兰卡此前已接受过16次IMF的帮助，但此次却避之不及，仿佛与IMF借款是与魔鬼签订协议。

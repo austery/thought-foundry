@@ -4,13 +4,13 @@ summary: 作者分享了自己坚持早起一年多的心得，揭示了早起�
 area: personal-growth
 category: productivity
 project:
-- personal-growth-lab
+  - personal-growth-lab
 tags:
-- early-rising
-- habit-formation
-- personal-development
-- productivity
-- time-management
+  - early-rising
+  - habit-formation
+  - personal-development
+  - productivity
+  - time-management
 people: []
 companies_orgs: []
 products_models: []
@@ -26,6 +26,7 @@ series: ''
 source: https://www.youtube.com/watch?v=4zXTyc2ZjXM
 status: evergreen
 ---
+
 ### 早起实践的起点与核心发现
 
 2021年8月21日，我在YouTube社区分享了自己阅读了那本著名的**《5 AM CLUB》**（The 5 AM Club: 一本倡导早起习惯以提升效率和改变人生的畅销书）后，已坚持5点起床25天的状态。当时我之所以尝试早起，是想弄清楚这种习惯是否真如书中所说那般神奇，能够倍增效率，甚至彻底改变人生。到2023年1月5日，我已坚持早起一年多，自认终于搞懂了早起的奥义。在本期视频中，我将结合自身真实体会，探讨我们对早起的误解，并分享如何通过早起真正改变人生的方法，以及一些实用的早起技巧。

@@ -4,15 +4,15 @@ summary: 安特卫普曾是16世纪欧洲的贸易与金融中心，以其开放
 area: personal-growth
 category: culture
 project:
-- historical-insights
-- investment-strategy
-- us-analysis
+  - historical-insights
+  - investment-strategy
+  - us-analysis
 tags:
-- antwerp
-- european-history
-- financial-history
-- religious-wars
-- trade-routes
+  - antwerp
+  - european-history
+  - financial-history
+  - religious-wars
+  - trade-routes
 people: []
 companies_orgs: []
 products_models: []
@@ -28,6 +28,7 @@ series: ''
 source: https://www.youtube.com/watch?v=NkPRrFD6E4I
 status: evergreen
 ---
+
 ### 序言：一座被遗忘的金融中心
 
 在资本的历史长河中，许多伟大的城市曾作为世界金融的中心，一次次改写人类经济的进程。佛罗伦萨、阿姆斯特丹、伦敦、纽约等名字我们耳熟能详。然而，在这些资本地标之外，安特卫普这座如今比利时的一个中等城市，却一直困扰着我。很多人可能都没有听说过它，但当我深入研究中世纪资本史时，它反复出现在我的视线中，我逐渐意识到它的历史地位并不逊色于我刚才提到的那些城市。

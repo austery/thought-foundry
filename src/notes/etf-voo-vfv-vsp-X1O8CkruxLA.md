@@ -4,14 +4,14 @@ summary: 本文为加拿大投资者深入分析了美股ETF（VOO、VFV、VSP�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- us-analysis
+  - investment-strategy
+  - us-analysis
 tags:
-- canada-investing
-- etf-comparison
-- rrsp-strategies
-- us-etfs
-- withholding-tax
+  - canada-investing
+  - etf-comparison
+  - rrsp-strategies
+  - us-etfs
+  - withholding-tax
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=X1O8CkruxLA
 status: evergreen
 ---
+
 ### 美股ETF选择：加拿大投资者的汇率困境
 
 频道一直建议普通投资者应投资**美股指数基金**（US Stock Index Fund: 一种投资于美国股票市场指数的基金）。然而，身处加拿大的投资者在购买美股指数基金时，常面临与汇率相关的问题。例如，Vanguard公司推出了三支追踪**标普500ETF**（S&P 500 ETF: 追踪标准普尔500指数表现的交易所交易基金）：**VFV** (Vanguard S&P 500 Index ETF (CAD-unhedged): Vanguard公司在加拿大上市的非对冲标普500指数ETF) 以加币交易，**VOO** (Vanguard S&P 500 ETF: Vanguard公司在美国上市的标普500指数ETF) 以美金交易，而**VSP** (Vanguard S&P 500 Index ETF (CAD-hedged): Vanguard公司在加拿大上市的加币对冲标普500指数ETF) 则以加币交易并具有**加币对冲**（CAD-hedged: 通过金融工具对冲汇率波动风险的投资策略）属性。面对这三种选择，许多投资新手感到困惑，不清楚它们的区别及如何选择。本文将以这三支ETF为例，从**汇率风险**（Currency Exposure/Currency Risk: 投资价值因汇率变动而产生的风险）、费用与灵活度，以及**美国股息预扣税**（U.S. Dividend Withholding Tax: 美国政府对外国投资者征收的股息税）等几个方面，分析这三类ETF的异同，帮助投资者做出更符合自身情况的选择。

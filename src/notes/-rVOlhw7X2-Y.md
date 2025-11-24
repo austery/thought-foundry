@@ -4,14 +4,14 @@ summary: 一位資深投資者分享其不追逐熱門股、不尋找「下一�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
+  - investment-strategy
 tags:
-- investment-strategy
-- personal-finance
-- wealth-ladder
+  - investment-strategy
+  - personal-finance
+  - wealth-ladder
 people: []
 companies_orgs:
-- tesla
+  - tesla
 products_models: []
 media_books: []
 date: '2025-10-11'
@@ -25,6 +25,7 @@ series: ''
 source: https://www.youtube.com/watch?v=rVOlhw7X2-Y
 status: evergreen
 ---
+
 ### 不尋找「下一個特斯拉」的緣由
 
 我們好久沒有聊過投資了，今天就跟大家聊聊天。許多熟悉我的朋友都知道，我是一名特斯拉的長期投資者，從2018年底至今一直在持有，這是我人生中最成功的一筆投資。也因此，有很多老觀眾都問我，你為什麼不試圖去尋找下一個特斯拉呢？例如，經常有人問我，你為什麼不去投NVIDIA？看著最近AMD、Oracle這些公司瘋漲，包括我的一位好朋友投資的Lemonade也在瘋狂地增長。很多人都會好奇，你為什麼會錯過這些顯而易見的投資機會，不去投這些熱門的股票呢？所以今天我想借這個視頻來簡單分享一下，我為什麼不試圖去尋找下一個特斯拉，或者說我為什麼不去追求投資那些所謂的熱門股。我主要會講四個原因，其中我還會給大家推薦一本書。

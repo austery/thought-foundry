@@ -4,14 +4,14 @@ summary: 本视频深入浅出地解释了投资者普遍困惑的两个问题�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- market-cycles
+  - investment-strategy
+  - market-cycles
 tags:
-- federal-reserve
-- financial-literacy
-- government-bonds
-- interest-rates
-- open-market-operations
+  - federal-reserve
+  - financial-literacy
+  - government-bonds
+  - interest-rates
+  - open-market-operations
 people: []
 companies_orgs: []
 products_models: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=u_TtGdl2d9A
 status: evergreen
 ---
+
 ### 利率困惑与债券基础知识的重要性
 
 长期以来，人们对两个关于利率的概念感到非常困惑。首先是新闻中专家们常提及的央行加息减息对经济和股市的影响，但却很少有人能简单直接地解释央行究竟是如何控制利率的，其具体机制是什么。这并非通过央行直接下达命令规定利率，因为我们身处市场经济，利率理应由市场参与者决定。人们好奇，各国央行是否拥有某种神秘力量来控制利率，而这种力量的具体机制又是什么。

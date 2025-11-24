@@ -4,15 +4,15 @@ summary: 在2022年特斯拉股价狂跌超60%的背景下，一位长期投资�
 area: market-analysis
 category: finance
 project:
-- investment-strategy
-- market-cycles
+  - investment-strategy
+  - market-cycles
 tags:
-- bear-market-strategy
-- investment-strategy
-- personal-finance
-- tesla-investment
+  - bear-market-strategy
+  - investment-strategy
+  - personal-finance
+  - tesla-investment
 people:
-- elon-musk
+  - elon-musk
 companies_orgs: []
 products_models: []
 media_books: []
@@ -27,6 +27,7 @@ series: ''
 source: https://www.youtube.com/watch?v=g4-ubFQEhJ8
 status: evergreen
 ---
+
 ### 特斯拉投资历程与背景
 
 2022年，特斯拉股票一路狂跌超过60%，许多投资者，特别是特斯拉的持有者，承受了巨大的压力，感到纠结甚至恐惧。特斯拉近期的表现更是让许多人濒临破防。本文将探讨为何在2022年，作者仍不断买入特斯拉股票，对埃隆·马斯克看法的改变，以及作为一名长期投资者，如何应对熊市中的恐慌情绪。
