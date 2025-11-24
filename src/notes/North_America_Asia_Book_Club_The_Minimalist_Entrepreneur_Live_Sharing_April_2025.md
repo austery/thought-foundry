@@ -10,17 +10,30 @@ tags:
 - 副业
 - 社群
 - 视频文稿
-people: []
+people:
+  - Ray
+  - Dora
+  - Julian
+  - 麒麟
+  - Frank
+  - Alex
+  - 伊万
+  - Serena
+  - Alan
+  - 婷
+  - Victor
+  - Kayden
+  - 张硕
 companies_orgs: []
 products_models: []
 media_books:
 - 读书会
 date: '2025-07-10'
 author: Lei
-speaker: Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan, 婷, Victor, Kayden,
+speaker: ''
   张硕
 channel: null
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

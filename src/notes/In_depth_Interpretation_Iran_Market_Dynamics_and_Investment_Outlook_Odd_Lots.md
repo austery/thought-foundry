@@ -13,15 +13,18 @@ tags:
 - 投资前景
 - 股票市场
 - 视频文稿
-people: []
+people:
+  - Tracy Alloway
+  - Joe Weisenthal (Odd Lots)
+  - Matia Wial (Antelon Capital CEO & CIO)
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Tracy Alloway, Joe Weisenthal (Odd Lots)
+speaker: ''
 channel: null
-guest: Matia Wial (Antelon Capital CEO & CIO)
+guest: ''
 insight: null
 layout: post.njk
 series: null

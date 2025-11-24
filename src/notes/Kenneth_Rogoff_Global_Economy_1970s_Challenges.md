@@ -8,15 +8,17 @@ tags:
 - economy
 - 美元
 - 视频文稿
-people: []
+people:
+  - Nicolai Tangen
+  - Kenneth Rogoff
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-04-30'
 author: Lei
-speaker: Nicolai Tangen,Kenneth Rogoff
+speaker: ''
 channel: null
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

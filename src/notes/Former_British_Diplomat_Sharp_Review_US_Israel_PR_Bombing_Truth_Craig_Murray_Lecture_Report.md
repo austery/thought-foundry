@@ -9,15 +9,17 @@ tags:
 - 媒体偏见
 - 美以关系
 - 视频文稿
-people: []
+people:
+  - 北美王路飞
+  - Craig Murray
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 北美王路飞
+speaker: ''
 channel: null
-guest: Craig Murray
+guest: ''
 insight: null
 layout: post.njk
 series: null

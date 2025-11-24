@@ -11,16 +11,18 @@ tags:
 - 时间管理
 - 深度工作
 - 视频文稿
-people: []
+people:
+  - Vivi
+  - Lillian
 companies_orgs: []
 products_models: []
 media_books:
 - 读书会
 date: '2024-12-28'
 author: Lei
-speaker: Vivi
+speaker: ''
 channel: null
-guest: Lillian
+guest: ''
 insight: null
 layout: post.njk
 series: null

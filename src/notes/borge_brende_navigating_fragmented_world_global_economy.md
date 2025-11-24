@@ -12,16 +12,18 @@ tags:
 - 世界经济论坛
 - 全球经济
 - 视频文稿
-people: []
+people:
+  - Nicolai Tangen
+  - Børge Brende
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-06-17
 author: Lei
-speaker: Nicolai Tangen,Børge Brende
+speaker: ''
 channel: null
 file_name: borge_brende_world_orders_global_cooperation_digital_transformation
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

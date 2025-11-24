@@ -11,15 +11,24 @@ tags:
 - 泛心论
 - 视频文稿
 - 语言学
-people: []
+people:
+  - Curt Jaimungal
+  - Noam Chomsky
+  - Joscha Bach
+  - Avi Loeb
+  - Karl Friston
+  - Philip Goff
+  - Tim Maudlin
+  - Donald Hoffman
+  - Norman Wildberger
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Curt Jaimungal
+speaker: ''
 channel: null
-guest: Noam Chomsky, Joscha Bach, Avi Loeb, Karl Friston, Philip Goff, Tim Maudlin,
+guest: ''
   Donald Hoffman, Norman Wildberger
 insight: null
 layout: post.njk

@@ -9,17 +9,20 @@ tags:
 - agi
 - ai-bubble
 - large-language-model
-people: []
+people:
+  - 北美王路飞
+  - 老尹
+  - 索隆
 companies_orgs: []
 products_models:
 - gpt-5
 media_books: []
 date: 2025-09-01
 author: Lei
-speaker: 北美王路飞
+speaker: ''
 draft: true
 file_name: ai_bubble_bursts_gpt5_disappointment.md
-guest: 老尹, 索隆
+guest: ''
 insight: null
 layout: post.njk
 series: null

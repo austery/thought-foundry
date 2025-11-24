@@ -11,16 +11,17 @@ tags:
 - personal-growth
 - 视频文稿
 people:
-- 知行小酒馆
+  - 雨白
+  - 王汉洋
 companies_orgs: []
 products_models: []
 media_books:
 - 知行小酒馆
 date: '2025-06-10'
 author: Lei
-speaker: 雨白
+speaker: 知行小酒馆
 channel: 知行小酒馆
-guest: 王汉洋
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -10,15 +10,21 @@ tags:
 - 投资
 - 能力圈
 - 视频文稿
-people: []
+people:
+  - Lei
+  - Frank
+  - Vivian
+  - Zhao Rui
+  - Wang Will
+  - Alvin
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Lei
+speaker: ''
 channel: 加拿大ETF投资小组
-guest: Frank, Vivian, Zhao Rui, Wang Will, Alvin
+guest: ''
 insight: null
 layout: post.njk
 series: null

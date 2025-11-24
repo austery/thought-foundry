@@ -9,15 +9,17 @@ tags:
 - 政治
 - 美国
 - 视频文稿
-people: []
+people:
+  - 北美王路飞
+  - 刘索隆
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 北美王路飞
+speaker: ''
 channel: null
-guest: 刘索隆
+guest: ''
 insight: null
 layout: post.njk
 series: null

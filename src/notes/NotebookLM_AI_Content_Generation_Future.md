@@ -8,7 +8,7 @@ project:
 tags:
 - ai
 - 视频文稿
-people:
+people: []
 - 三个水枪手
 companies_orgs: []
 products_models: []
@@ -16,7 +16,7 @@ media_books:
 - 三个水枪手
 date: '2025-06-11'
 author: Lei
-speaker: 李厚辰、贾葭、伍雷
+speaker: 三个水枪手
 channel: null
 guest: null
 insight: null

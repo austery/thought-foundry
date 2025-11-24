@@ -10,17 +10,20 @@ tags:
 - 自我成长
 - 自我认知
 - 视频文稿
-people: []
+people:
+  - Vincent
+  - Lin
+  - Simon
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-07
 author: Lei
-speaker: Vincent
+speaker: ''
 channel: ''
 draft: true
 file_name: xinfan_sanrenxing_ep6_the_power_of_journaling.md
-guest: Lin, Simon
+guest: ''
 insight: null
 layout: post.njk
 series: null

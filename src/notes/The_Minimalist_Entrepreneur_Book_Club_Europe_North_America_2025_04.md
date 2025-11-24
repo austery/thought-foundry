@@ -9,16 +9,23 @@ tags:
 - entrepreneurship
 - 副业
 - 视频文稿
-people: []
+people:
+  - Vivian
+  - Simon L
+  - Ge Su
+  - 路遥
+  - Kathy
+  - 翻新
+  - Fancy
 companies_orgs: []
 products_models: []
 media_books:
 - 读书会
 date: '2025-07-10'
 author: Lei
-speaker: Vivian, Simon L,Ge Su, 路遥, Kathy, 翻新, Fancy
+speaker: ''
 channel: null
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

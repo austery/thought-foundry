@@ -12,17 +12,20 @@ tags:
 - 独立开发者
 - 生活平衡
 - 视频文稿
-people: []
+people:
+  - Koji
+  - Monica
+  - 主持人
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-01
 author: Lei
-speaker: Koji, Monica, 主持人
+speaker: ''
 channel: null
 draft: true
 file_name: koji_monica_advice_for_ai_anxiety.md
-guest: Koji, Monica
+guest: ''
 insight: null
 layout: post.njk
 series: null

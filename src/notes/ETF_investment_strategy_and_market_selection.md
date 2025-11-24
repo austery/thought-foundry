@@ -12,17 +12,21 @@ tags:
 - 美股
 - 视频文稿
 - 资产配置
-people: []
+people:
+  - Lei
+  - Frank
+  - Lydia
+  - 彭哥
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-15
 author: Lei
-speaker: Lei
+speaker: ''
 channel: ''
 draft: true
 file_name: ETF_investment_strategy_and_market_selection.md
-guest: Frank, Lydia, 彭哥
+guest: ''
 insight: ''
 layout: post.njk
 series: ''

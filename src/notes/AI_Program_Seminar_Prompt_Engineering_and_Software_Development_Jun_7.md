@@ -9,15 +9,19 @@ tags:
 - 学习方法
 - 视频文稿
 - 软件开发
-people: []
+people:
+  - 独行
+  - Vincent
+  - Jay
+  - Thomas
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-06-07'
 author: Lei
-speaker: 独行
+speaker: ''
 channel: null
-guest: Vincent, Jay, Thomas
+guest: ''
 insight: null
 layout: post.njk
 series: null

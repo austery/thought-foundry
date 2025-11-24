@@ -13,17 +13,20 @@ tags:
 - ai
 - brainhealth
 - dementia
-people: []
+people:
+  - Steven Bartlett
+  - Dr. Daniel Amen
+  - Dr. Terry Sejnowski
 companies_orgs: []
 products_models:
 - chatgpt
 media_books: []
 date: 2025-08-17
 author: Lei
-speaker: Steven Bartlett
+speaker: ''
 draft: true
 file_name: brain_experts_warning_on_chatgpt_and_dementia_risk.md
-guest: Dr. Daniel Amen, Dr. Terry Sejnowski
+guest: ''
 insight: null
 layout: post.njk
 series: null

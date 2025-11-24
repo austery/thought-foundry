@@ -11,15 +11,18 @@ tags:
 - 投资
 - 行为金融学
 - 视频文稿
-people: []
+people:
+  - 刘峰
+  - Jack
+  - 匹马
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 刘峰, Jack
+speaker: ''
 channel: Web3 101
-guest: 匹马
+guest: ''
 insight: null
 layout: post.njk
 series: null

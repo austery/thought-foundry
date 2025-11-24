@@ -15,16 +15,18 @@ tags:
 - russiagate
 - us-politics
 people:
-- tulsi-gabbard
+  - tulsi-gabbard
+  - Interviewer
+  - Tulsi Gabbard
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: Interviewer
+speaker: ''
 draft: true
 file_name: tulsi_gabbard_russiagate_hoax_intelligence_reform.md
-guest: Tulsi Gabbard
+guest: ''
 insight: null
 layout: post.njk
 series: null

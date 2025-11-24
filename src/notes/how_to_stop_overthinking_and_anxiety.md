@@ -10,16 +10,22 @@ tags:
 - 思虑过多
 - 放下
 - 焦虑
-people: []
+people:
+  - Zera
+  - 王哥
+  - Jay
+  - Jeffrey
+  - Vivi
+  - Candy
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-21
 author: Lei
-speaker: Zera
+speaker: ''
 draft: true
 file_name: stop_overthinking_anxiety_buddhism_psychology.md
-guest: 王哥, Jay, Jeffrey, Vivi, Candy
+guest: ''
 insight: null
 layout: post.njk
 series: null

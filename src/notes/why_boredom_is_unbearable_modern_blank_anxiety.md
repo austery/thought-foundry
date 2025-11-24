@@ -10,17 +10,19 @@ tags:
 - 无聊
 - 空白焦虑
 - 视频文稿
-people: []
+people:
+  - 小蓝
+  - 潘潘
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-18
 author: Lei
-speaker: 小蓝, 潘潘
+speaker: ''
 channel: null
 draft: true
 file_name: why_boredom_is_unbearable_modern_blank_anxiety.md
-guest: null
+guest: ''
 insight: null
 layout: post.njk
 series: null

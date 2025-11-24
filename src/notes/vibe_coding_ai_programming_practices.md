@@ -12,18 +12,26 @@ tags:
 - vibe-coding
 - 个人项目
 - 视频笔记
-people: []
+people:
+  - Ray
+  - Mike
+  - Lei
+  - 小贤
+  - 小西瓜
+  - Arlene
+  - Remy
+  - Serena
 companies_orgs: []
 products_models:
 - obsidian
 media_books: []
 date: 2025-08-04
 author: Lei
-speaker: Ray
+speaker: ''
 channel: ''
 draft: true
 file_name: vibe_coding_ai_programming_practices.md
-guest: Mike, Lei, 小贤, 小西瓜, Arlene, Remy, Serena
+guest: ''
 insight: ''
 layout: post.njk
 series: Vibe Coding

@@ -10,16 +10,34 @@ tags:
 - 企业价值
 - 医疗健康
 - 视频文稿
-people: []
+people:
+  - Dave Wessinger
+  - Alan Missen
+  - Marina Stojanovic
+  - Ketki Yennemadi
+  - Auroosa Kazmi-Ishaq
+  - Aakif Shaik
+  - Pam Martin
+  - Sonal Misra
+  - Caleb Waldemar
+  - Kristy Liu
+  - Daisy Dool
+  - Jenna Paglia
+  - Pawandeep Kaur
+  - Victor Tarnovski
+  - Erik Stabile
+  - Julia Groza
+  - Raka Dhar
+  - Panelists
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Dave Wessinger, Alan Missen, Marina Stojanovic, Ketki Yennemadi, Auroosa
+speaker: ''
   Kazmi-Ishaq
 channel: null
-guest: Aakif Shaik, Pam Martin, Sonal Misra, Caleb Waldemar, Kristy Liu, Daisy Dool,
+guest: ''
   Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka
   Dhar, Panelists
 insight: null

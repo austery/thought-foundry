@@ -8,7 +8,9 @@ tags:
 - scaling-law
 - 多模态
 - 视频文稿
-people: []
+people:
+  - 陈茜
+  - Bill Zhu
 companies_orgs:
 - openai
 products_models:
@@ -16,11 +18,11 @@ products_models:
 media_books: []
 date: 2025-08-11
 author: Lei
-speaker: 陈茜
+speaker: ''
 channel: ''
 draft: true
 file_name: GPT-5_release_backlash_and_AI_dilemma.md
-guest: Bill Zhu
+guest: ''
 insight: ''
 layout: post.njk
 series: ''

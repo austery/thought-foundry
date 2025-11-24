@@ -1,10 +1,10 @@
 ---
 author: "Lei"
 date: "2025-11-17"
-guest: "Baher Abdulhai, Michaela Helliwell, Victor Couture, Janno Lieber, Prabmeet Sarkaria"
+guest: ''
 layout: "post.njk"
 source: "https://www.youtube.com/watch?v=uFVvlSclg_Q"
-speaker: "Chris"
+speaker: ''
 title: "Canada's Worst Commute: Investigating Gridlock and the Search for Solutions"
 summary: "This investigation explores Canada's worst traffic commutes, ranking the top 10 congested routes. It examines the causes of gridlock, from bottlenecks to driver behavior, and explores potential solutions like improved public transit, AI-driven traffic management, and the implementation of congestion pricing, drawing comparisons with New York City's system."
 
@@ -22,17 +22,17 @@ tags:
   - "congestion-pricing"
 
 people:
-  - "Baher Abdulhai"
-  - "Michaela Helliwell"
-  - "Victor Couture"
-  - "Janno Lieber"
-  - "Prabmeet Sarkaria"
-  - "Chris"
-  - "Asha"
-  - "Rosa"
-  - "David"
-  - "Jaden"
-  - "Cindy Hunter"
+  - Baher Abdulhai
+  - Michaela Helliwell
+  - Victor Couture
+  - Janno Lieber
+  - Prabmeet Sarkaria
+  - Chris
+  - Asha
+  - Rosa
+  - David
+  - Jaden
+  - Cindy Hunter
 
 companies_orgs:
   - "Marketplace"

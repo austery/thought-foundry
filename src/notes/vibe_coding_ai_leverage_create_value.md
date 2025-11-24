@@ -13,17 +13,26 @@ tags:
 - vibe-coding
 - 社群运营
 - 视频文稿
-people: []
+people:
+  - Ray
+  - 张修修
+  - Alex
+  - 子龙
+  - Mike
+  - Wendy
+  - 海里
+  - 而令
+  - Remy
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-17
 author: Lei
-speaker: Ray
+speaker: ''
 channel: ''
 draft: true
 file_name: vibe_coding_ai_leverage_create_value.md
-guest: 张修修, Alex, 子龙, Mike, Wendy, 海里, 而令, Remy
+guest: ''
 insight: ''
 layout: post.njk
 series: ''

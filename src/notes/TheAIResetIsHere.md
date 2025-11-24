@@ -10,15 +10,20 @@ tags:
 - 就业影响
 - 科技趋势
 - 视频文稿
-people: []
+people:
+  - Peter Diamandis
+  - Anish Acharya
+  - Dave Blundin
+  - Salim Ismail
+  - and Peter Diamandis
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-05-25'
 author: Lei
-speaker: Peter Diamandis
+speaker: ''
 channel: null
-guest: Anish Acharya, Dave Blundin, Salim Ismail, and Peter Diamandis
+guest: ''
 insight: null
 layout: post.njk
 series: null

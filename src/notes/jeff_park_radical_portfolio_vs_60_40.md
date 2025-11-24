@@ -12,16 +12,18 @@ tags:
 - 激进投资组合
 - 视频文稿
 - 资产稀缺性
-people: []
+people:
+  - David Bonnie
+  - Jeff Park
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-07-26
 author: Lei
-speaker: David Bonnie,Jeff Park
+speaker: ''
 channel: null
 draft: true
-guest: Jeff Park
+guest: ''
 insight: 我也对债券的投资和资产组合很感兴趣，60/40，还有50/50的coach potato的方式曾经很流行。要思考为什么它们失效了。基本的理解是股票和债券相关性太强了，同时没有太高的利率了。
 layout: post.njk
 series: null

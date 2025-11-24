@@ -14,17 +14,19 @@ tags:
 - design-system
 - product-design
 - software-development
-people: []
+people:
+  - Allesio
+  - Dylan Field
 companies_orgs:
 - figma
 products_models: []
 media_books: []
 date: 2025-10-03
 author: Lei
-speaker: Allesio, Dylan Field
+speaker: ''
 draft: true
 file_name: taste_is_your_moat_dylan_field_figma_ai.md
-guest: Dylan Field
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -7,18 +7,19 @@ project:
 - investment-strategy
 tags:
 - 投资
-- 视频文稿
 people:
-- 硅谷101
+  - 弘君
+  - Yiwen
+  - 刘沁东
 companies_orgs:
 - 谷歌
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 弘君 (硅谷101创始人，播客主理人)
+speaker: '硅谷101'
 channel: null
-guest: Yiwen，刘沁东
+guest: ''
 insight: null
 layout: post.njk
 series: null

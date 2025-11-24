@@ -14,17 +14,19 @@ tags:
 - 通货膨胀
 - 风险管理
 people:
-- 美联储
+  - 美联储
+  - Nicolai Tangen
+  - Stan Druckenmiller
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2024-11-06
 author: Lei
-speaker: Nicolai Tangen,Stan Druckenmiller
+speaker: ''
 channel: Norges Bank Investment Management
 draft: true
 file_name: stan_druckenmiller_macro_investing_fed_ai.md
-guest: Stan Druckenmiller
+guest: ''
 insight: null
 layout: post.njk
 series: null

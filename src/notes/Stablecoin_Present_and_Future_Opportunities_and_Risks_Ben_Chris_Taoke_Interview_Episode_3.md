@@ -10,15 +10,18 @@ tags:
 - 投资
 - 稳定币
 - 视频文稿
-people: []
+people:
+  - 投资TALK君
+  - Ben
+  - hris
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 投资TALK君
+speaker: '投资TALK君'
 channel: 逃课访谈
-guest: Ben,hris
+guest: ''
 insight: null
 layout: post.njk
 series: null

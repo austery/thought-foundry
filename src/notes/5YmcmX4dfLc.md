@@ -1,10 +1,10 @@
 ---
 author: "Lei"
 date: "2025-10-28"
-guest: "罗博深 (Po-Shen Loh)"
+guest: ''
 layout: "post.njk"
 source: "https://www.youtube.com/watch?v=5YmcmX4dfLc"
-speaker: "夏博士Yuni Xia"
+speaker: ''
 title: "AI时代的教育变革：对话罗博深教授——如何培养孩子的核心竞争力与善良品质"
 summary: "本次对话深入探讨了人工智能时代对教育的颠覆性影响。罗博深教授分享了他对传统考试失效的观察，并介绍了他创立的旨在培养学生解决未知问题能力、领导力和利他品质的创新教育体系。对话还涉及儿童编程教育、家长角色、价值观培养以及未来人才所需的核心素养等关键议题。"
 
@@ -25,10 +25,11 @@ tags:
   - "problem-solving"
 
 people:
-  - "罗博深 (Po-Shen Loh)"
-  - "夏宇迷"
-  - "Mark Stehlik"
-  - "Warren Buffett"
+  - 罗博深 (Po-Shen Loh)
+  - 夏宇迷
+  - Mark Stehlik
+  - Warren Buffett
+  - 夏博士Yuni Xia
 
 companies_orgs:
   - "Carnegie Mellon University (CMU)"

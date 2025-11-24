@@ -9,16 +9,19 @@ tags:
 - education-consulting
 - public-opinion
 people:
-- zhang-xuefeng
+  - zhang-xuefeng
+  - 三個水槍手
+  - 武律
+  - 贾老师
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-25
 author: 三個水槍手
-speaker: 三個水槍手
+speaker: ''
 draft: true
 file_name: deep_dive_zhang_xuefeng_controversy_B-YK7B0UP0g.md
-guest: 武律, 贾老师
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -11,15 +11,17 @@ tags:
 - 意识
 - 推理
 - 视频文稿
-people: []
+people:
+  - Hannah Fry
+  - Murray Shanahan
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-07-21
 author: Lei
-speaker: Hannah Fry,Murray Shanahan
+speaker: ''
 channel: https://www.youtube.com/@googledeepmind
-guest: Murray Shanahan
+guest: ''
 insight: null
 layout: post.njk
 series: null

@@ -8,16 +8,19 @@ project:
 tags:
 - ai
 - 视频文稿
-people: []
+people:
+  - Joe Weisenthal
+  - Tracy Alloway
+  - Eva Dou
 companies_orgs:
 - 英伟达
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Joe Weisenthal, Tracy Alloway
+speaker: ''
 channel: null
-guest: Eva Dou
+guest: ''
 insight: null
 layout: post.njk
 series: null

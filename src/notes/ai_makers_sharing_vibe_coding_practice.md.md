@@ -13,17 +13,29 @@ tags:
 - 个人项目
 - 社群建设
 - 视频文稿
-people: []
+people:
+  - Ray
+  - 嘉宾
+  - 子龙
+  - 小西瓜
+  - Aska
+  - Remy
+  - Mike
+  - Sirena
+  - Cathy
+  - Wendy
+  - Sophia
+  - 赵硕
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-11
 author: Lei
-speaker: Ray
+speaker: ''
 channel: null
 draft: true
 file_name: ai_makers_sharing_vibe_coding_practice.md
-guest: 嘉宾, 子龙, 小西瓜, Aska, Remy, Mike, Sirena, Cathy, Wendy, Sophia, 赵硕
+guest: ''
 insight: null
 layout: post.njk
 series: null

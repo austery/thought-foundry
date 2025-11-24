@@ -11,17 +11,20 @@ tags:
 - 数字资产监管
 - 视频文稿
 - 香港稳定币
-people: []
+people:
+  - 泓君
+  - 刘峰
+  - 肖风
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-01
 author: Lei
-speaker: 泓君, 刘峰, 肖风
+speaker: ''
 channel: null
 draft: true
 file_name: xiao_feng_hong_kong_stablecoin_cold_thoughts.md
-guest: 肖风
+guest: ''
 insight: null
 layout: post.njk
 series: null

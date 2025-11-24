@@ -13,16 +13,18 @@ tags:
 - future-of-humanity
 - human-history
 - storytelling
-people: []
+people:
+  - Steve Levitt
+  - Yuval Noah Harari
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-10-12
 author: Lei
-speaker: Steve Levitt
+speaker: ''
 draft: true
 file_name: yuval_harari_history_fiction_future_humanity.md
-guest: Yuval Noah Harari
+guest: ''
 insight: null
 layout: post.njk
 series: null

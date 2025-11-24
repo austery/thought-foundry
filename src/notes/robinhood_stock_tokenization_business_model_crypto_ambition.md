@@ -9,18 +9,21 @@ tags:
 - 加密货币
 - 股票代币化
 - 视频文稿
-people: []
+people:
+  - 泓君
+  - 刘峰
+  - 郑迪
 companies_orgs:
 - robinhood
 products_models: []
 media_books: []
 date: 2025-08-17
 author: Lei
-speaker: 泓君, 刘峰
+speaker: ''
 channel: ''
 draft: true
 file_name: robinhood_stock_tokenization_business_model_crypto_ambition.md
-guest: 郑迪
+guest: ''
 insight: ''
 layout: post.njk
 series: ''

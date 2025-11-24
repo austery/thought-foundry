@@ -10,7 +10,10 @@ tags:
 - 世界模型
 - 大语言模型
 - 视频文稿
-people: []
+people:
+  - 主持人
+  - 老修
+  - 闲哥
 companies_orgs:
 - 特斯拉
 products_models:
@@ -18,11 +21,11 @@ products_models:
 media_books: []
 date: 2025-08-17
 author: Lei
-speaker: 主持人
+speaker: ''
 channel: ''
 draft: true
 file_name: dojo_dead_genie_3_rise_world_models_end_llm.md
-guest: 老修, 闲哥
+guest: ''
 insight: null
 layout: post.njk
 series: ''

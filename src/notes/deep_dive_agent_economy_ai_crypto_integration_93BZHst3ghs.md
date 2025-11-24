@@ -10,16 +10,18 @@ tags:
 - ai-governance
 - crypto-integration
 - web3
-people: []
+people:
+  - Indigo
+  - 郑迪
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: Indigo
+speaker: ''
 draft: true
 file_name: deep_dive_agent_economy_ai_crypto_integration_93BZHst3ghs.md
-guest: 郑迪
+guest: ''
 insight: null
 layout: post.njk
 series: null

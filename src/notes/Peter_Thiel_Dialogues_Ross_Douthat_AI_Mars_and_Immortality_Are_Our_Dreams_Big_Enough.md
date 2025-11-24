@@ -9,15 +9,17 @@ tags:
 - ai
 - 技术停滞
 - 视频文稿
-people: []
+people:
+  - Ross Douthat (罗斯·杜塔特)
+  - Peter Thiel (彼得·蒂尔)
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Ross Douthat (罗斯·杜塔特)
+speaker: ''
 channel: null
-guest: Peter Thiel (彼得·蒂尔)
+guest: ''
 insight: null
 layout: post.njk
 series: null

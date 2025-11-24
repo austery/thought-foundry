@@ -12,17 +12,18 @@ tags:
 - claude-code
 - prompt-engineering
 - 视频文稿
-people: []
+people:
+  - Cal
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-07-31
 author: Lei
-speaker: Cal
+speaker: ''
 channel: null
 draft: true
 file_name: claude_code_best_practices_and_advanced_techniques.md
-guest: Cal
+guest: ''
 insight: null
 layout: post.njk
 series: null

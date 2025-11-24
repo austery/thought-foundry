@@ -13,16 +13,19 @@ tags:
 - student-debt
 - university-crisis
 - viewpoint-diversity
-people: []
+people:
+  - Interviewer
+  - Rich Lyons
+  - Sian Beilock
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: Interviewer
+speaker: ''
 draft: true
 file_name: college_crisis_dartmouth_berkeley_debate_us_universities.md
-guest: Rich Lyons, Sian Beilock
+guest: ''
 insight: null
 layout: post.njk
 series: null

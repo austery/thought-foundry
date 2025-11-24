@@ -11,15 +11,47 @@ tags:
 - 商业策略
 - 技术创新
 - 视频文稿
-people: []
+people:
+  - Marina Stojanovic
+  - Ketki Yennemadi
+  - Auroosa Kazmi-Ishaq
+  - Dave Wessinger
+  - Alan Missen
+  - Aakif Shaik
+  - Pam Martin
+  - Hazelle Florencio
+  - Sonal Misra
+  - Caleb Waldemar
+  - Kristy Liu
+  - Mary Henschel
+  - Julia Groza
+  - Raka Dhar
+  - Jenna Paglia
+  - Daisy Dool
+  - Erik Stabile
+  - Jordan Bowman
+  - Syed Hasan
+  - Ruben Vieira
+  - Pawandeep Kaur
+  - Victor Tarnovski
+  - Dave Chodos
+  - Kate Kaplya
+  - Charley Yang
+  - Maja Madirazza
+  - Krisika Suthan
+  - Rahim Hashwani
+  - Cedric Anne
+  - Dean Slawson
+  - Lisa Jarrett
+  - Dr. Cindy Plunkett
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-06-21'
 author: Lei
-speaker: Marina Stojanovic, Ketki Yennemadi, Auroosa Kazmi-Ishaq
+speaker: ''
 exclude: true
-guest: Dave Wessinger, Alan Missen, Aakif Shaik, Pam Martin, Hazelle Florencio, Sonal
+guest: ''
   Misra, Caleb Waldemar, Kristy Liu, Mary Henschel, Julia Groza, Raka Dhar, Jenna
   Paglia, Daisy Dool, Erik Stabile, Jordan Bowman, Syed Hasan, Ruben Vieira, Pawandeep
   Kaur, Victor Tarnovski, Dave Chodos, Kate Kaplya, Charley Yang, Maja Madirazza,

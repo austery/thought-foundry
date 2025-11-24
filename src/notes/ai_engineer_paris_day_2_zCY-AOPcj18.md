@@ -11,16 +11,28 @@ tags:
 - ai-infrastructure
 - llm
 - voice-ai
-people: []
+people:
+  - Ralph J. ABRY
+  - Yann Lechelle
+  - Emil Eifrem
+  - Tushar Jain
+  - Martin Woodward
+  - Andreas Blattmann
+  - Aporna DENEKARAN
+  - Laurent
+  - Steve Morren
+  - Tuana Çelik
+  - Paige Bailey
+  - Neil ZEGHDOUD
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: Ralph J. ABRY
+speaker: ''
 draft: true
 file_name: ai_engineer_paris_day_2_zCY-AOPcj18.md
-guest: Yann Lechelle, Emil Eifrem, Tushar Jain, Martin Woodward, Andreas Blattmann,
+guest: ''
   Aporna DENEKARAN, Laurent, Steve Morren, Tuana Çelik, Paige Bailey, Neil ZEGHDOUD
 insight: null
 layout: post.njk

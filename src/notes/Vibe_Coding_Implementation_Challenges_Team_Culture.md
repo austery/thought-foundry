@@ -13,17 +13,20 @@ tags:
 - 团队协作
 - 敏捷开发
 - 视频文稿
-people: []
+people:
+  - JUGG
+  - Derek
+  - Zen
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-04
 author: Lei
-speaker: JUGG, Derek, Zen
+speaker: ''
 channel: null
 draft: true
 file_name: Vibe_Coding_Implementation_Challenges_Team_Culture.md
-guest: null
+guest: ''
 insight: 好奇怪，这期竟然推荐给我，我也同样的感受。我提交一个AI 生成的代码（自己先review），但是同事看到500-600代码，都审核的很慢，5天还没有完成，我代码才写1天，AI倾向于大改。AI也倾向于重新造轮子，我们的codebase也有很多现存的方法，它不用。这点，我可能要用一些context来提示，我要多研究一下，MCP。
 layout: post.njk
 series: Vibe Coding

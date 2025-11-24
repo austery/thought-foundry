@@ -9,15 +9,16 @@ tags:
 - personal-growth
 - 视频文稿
 people:
-- 知行小酒馆
+  - 雨白
+  - 半佛
 companies_orgs: []
 products_models: []
 media_books:
 - 知行小酒馆
 date: '2025-07-13'
 author: Lei
-speaker: 雨白
-guest: 半佛
+speaker: 知行小酒馆
+guest: ''
 insight: null
 layout: post.njk
 program: 知行小酒馆

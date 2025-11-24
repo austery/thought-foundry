@@ -10,19 +10,22 @@ tags:
 - browser-war
 - google-chrome
 - search-engine
-people: []
+people:
+  - Howie Sheng
+  - Howie Xu
+  - Guru Pangal
 companies_orgs:
 - perplexity
 products_models: []
 media_books: []
 date: 2025-08-29
 author: Lei
-speaker: Howie Sheng
+speaker: ''
 channel: https://www.youtube.com/@101.school
 created: 2025-08-29T16:34
 draft: true
 file_name: deep_dive_ai_browser_wars_perplexity_chrome.md
-guest: Howie Xu, Guru Pangal
+guest: ''
 insight: null
 layout: post.njk
 series: null
