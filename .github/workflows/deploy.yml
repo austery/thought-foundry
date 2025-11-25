@@ -3,20 +3,24 @@
 name: Build and Deploy to Public Repo
 
 on:
-  # 定时构建：每8小时运行一次（在每8小时的第5分钟）
+  # 定时构建：每小时运行一次（批量发布内容更新）
   schedule:
     - cron: '5 * * * *'
 
   # 保留手动触发，用于紧急部署
   workflow_dispatch:
 
-  # 可选：只在文章目录变化时触发（如果需要实时性，可以取消注释）
-  # push:
-  #   branches: ["main"]
-  #   paths:
-  #     - 'content/**'
-  #     - 'src/**'
-  #     - '.eleventy.js'
+  # 代码/模板/配置变化时立即触发（不包括内容文件）
+  push:
+    branches: ["main"]
+    paths-ignore:
+      # 忽略内容文件变化（等待定时构建）
+      - 'src/notes/**'
+      - 'src/posts/**'
+      - 'src/books/**'
+      # 忽略文档变化
+      - '*.md'
+      - 'docs/**'
 
 # 并发控制：自动取消旧的部署任务，只保留最新的
 concurrency:
