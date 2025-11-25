@@ -37,6 +37,18 @@ jobs:
         with:
           node-version: "18"
           cache: "npm"
+
+      # 步骤 2.5: 缓存 Eleventy 构建缓存（持久化 slug/pinyin 计算结果）
+      - name: Cache Eleventy Build Cache
+        uses: actions/cache@v3
+        with:
+          path: .eleventy-cache.json
+          # 缓存 key 基于 package-lock.json（依赖变化时重建缓存）
+          key: eleventy-cache-${{ hashFiles('package-lock.json') }}
+          # 如果精确匹配失败，尝试使用任何 eleventy-cache- 开头的缓存
+          restore-keys: |
+            eleventy-cache-
+
       - name: Install dependencies
         run: npm ci
 
