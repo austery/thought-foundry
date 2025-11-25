@@ -37,6 +37,11 @@ module.exports = async function (eleventyConfig) {
   // 内存缓存（运行时）
   const pinyinCache = new Map(Object.entries(persistentCache.pinyin || {}));
 
+  // 性能优化：Slug 结果缓存 - 缓存完整的 slug 计算结果
+  const slugCache = new Map();
+  let slugCallCount = 0;
+  let slugCacheHits = 0;
+
   function cachedPinyin(text, options = { style: pinyin.STYLE_NORMAL }) {
     const cacheKey = `${text}:${JSON.stringify(options)}`;
     if (pinyinCache.has(cacheKey)) {
@@ -124,9 +129,23 @@ module.exports = async function (eleventyConfig) {
 
   eleventyConfig.addFilter("slug", (str) => {
     if (!str) return;
+
+    slugCallCount++;
     const trimmedStr = str.trim();
+
+    // 检查缓存
+    if (slugCache.has(trimmedStr)) {
+      slugCacheHits++;
+      return slugCache.get(trimmedStr);
+    }
+
+    // 未命中缓存，计算新的 slug
     const pinyinStr = cachedPinyin(trimmedStr);
-    return slugify(pinyinStr);
+    const result = slugify(pinyinStr);
+
+    // 存入缓存
+    slugCache.set(trimmedStr, result);
+    return result;
   });
 
   // 添加一个过滤器来获取演讲者的唯一键
@@ -1124,7 +1143,13 @@ module.exports = async function (eleventyConfig) {
     console.log(`\n✨ Build completed in ${buildDuration}s`);
     console.log(`📊 Performance Stats:`);
     console.log(`   - Pinyin cache entries: ${pinyinCache.size}`);
-    console.log(`   - Cache hit rate: ${pinyinCache.size > 0 ? '~' + Math.min(100, Math.round(pinyinCache.size / 3000 * 100)) + '%' : 'N/A'}`);
+    console.log(`   - Pinyin cache hit rate: ${pinyinCache.size > 0 ? '~' + Math.min(100, Math.round(pinyinCache.size / 3000 * 100)) + '%' : 'N/A'}`);
+    console.log(`\n🚀 Slug Filter Performance:`);
+    console.log(`   - Total slug calls: ${slugCallCount.toLocaleString()}`);
+    console.log(`   - Cache hits: ${slugCacheHits.toLocaleString()}`);
+    console.log(`   - Cache misses: ${(slugCallCount - slugCacheHits).toLocaleString()}`);
+    console.log(`   - Cache hit rate: ${slugCallCount > 0 ? ((slugCacheHits / slugCallCount) * 100).toFixed(1) + '%' : 'N/A'}`);
+    console.log(`   - Unique slugs: ${slugCache.size.toLocaleString()}`);
   });
 
   return {
