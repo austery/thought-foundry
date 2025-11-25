@@ -10,7 +10,7 @@ Thought Foundry is a personal knowledge base and digital garden built with [Elev
 * **Related Posts Display**: Posts with the same series value automatically show links to other posts in the series at the bottom of each article.
 * **Tagging System**: A robust tagging system allows for easy categorization and discovery of content. The system is case-insensitive and generates a list of all tags used across the site.
 * **Speaker System**: A comprehensive speaker/presenter system that automatically extracts speakers from content, creates dedicated speaker pages, and provides clickable speaker links with conflict resolution for duplicate names.
-* **Client-Side Search**: A vanilla JavaScript search implementation allows users to easily find articles by title or content.
+* **Full-Text Search**: Pagefind-powered static search with Chinese language support, allowing users to instantly search through all content with highlighted excerpts and metadata filtering.
 * **Table of Contents**: A Table of Contents is automatically generated for each post based on its headings, improving navigation for longer articles.
 * **SEO-Friendly Slugs**: The site uses the `pinyin` and `slugify` libraries to automatically generate clean, readable URLs from post titles, even those in Chinese.
 * **Book Notes Template**: Specialized template for book reviews with metadata display including author, publisher, rating, cover images, and reading dates.
@@ -403,7 +403,8 @@ Users simply click the theme toggle button (🌙 or ☀️) in the header to swi
 * **[Eleventy](https://www.11ty.dev/)**: A simpler static site generator.
 * **[Nunjucks](https://mozilla.github.io/nunjucks/)**: The templating engine used for layouts.
 * **[Markdown](https://www.markdownguide.org/)**: For writing content.
-* **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**: For client-side functionality like search and table of contents generation.
+* **[Pagefind](https://pagefind.app/)**: Static site search library with Chinese language support for full-text search functionality.
+* **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**: For client-side functionality like table of contents generation.
 * **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**: For styling the website.
 * **[Pinyin](https://www.npmjs.com/package/pinyin)**: For Chinese text to pinyin conversion and URL slugification.
 * **[GitHub Actions](https://github.com/features/actions)**: For continuous integration and deployment.
@@ -465,6 +466,8 @@ The site includes built-in debugging tools that run during build to detect:
 * **NEW: Multi-layer filtering system** coordinated tag filtering across templates, collections, and build processes
 * **NEW: Batch frontmatter processing** with automated series field addition to all content
 * **NEW: Dark Mode & Theme Switching System** complete light/dark theme support with persistent user preferences, system detection, and smooth transitions using CSS variables
+* **NEW: Pagefind Search Migration** complete migration from 101MB JSON search file to Pagefind static search system, resolving GitHub file size limits while maintaining full-text search across all 2,691+ articles with Chinese language support
+* **NEW: Build Performance Optimization** implemented persistent pinyin cache system (.eleventy-cache.json) for 30-40% faster subsequent builds and added build time monitoring
 * Optimized book note layout for better readability
 * Added URL-friendly file naming with underscore conversion
 * Improved CSS styling for metadata and related content sections

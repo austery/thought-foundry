@@ -13,10 +13,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Thought Foundry is a personal knowledge base and digital garden built with Eleventy (11ty). It's a static site generator that converts Markdown content into HTML pages with support for Chinese content, advanced tagging, speaker tracking, and entity management.
 
-**⚠️ Known Issues:** See [docs/performance-issues.md](docs/performance-issues.md) for critical information about:
-- Search index size exceeding GitHub's 100MB limit (currently 101MB)
-- Build performance optimization strategies
-- Recommended solutions and migration paths
+**Search System:** Uses Pagefind for static site search with full-text indexing and Chinese language support.
 
 ## Development Commands
 
@@ -32,21 +29,21 @@ Starts local server at `http://localhost:8080/` with hot-reloading.
 ```bash
 npm run build
 ```
-Generates production build in `_site` directory.
+Generates production build in `_site` directory and creates Pagefind search index.
 
 ### Debug Build
 ```bash
 npm run build:debug
 # or
-DEBUG=true npx @11ty/eleventy
+DEBUG=true npx @11ty/eleventy && npx pagefind --site _site
 ```
-Enables verbose logging including conflict detection reports for tags, speakers, and entities.
+Enables verbose logging including conflict detection reports for tags, speakers, and entities. Also generates Pagefind search index.
 
 ### Incremental Build
 ```bash
 npm run build:incremental
 ```
-Only rebuilds changed files (faster for large sites).
+Only rebuilds changed files (faster for large sites) and regenerates Pagefind index.
 
 ## Architecture Overview
 
@@ -54,7 +51,7 @@ Only rebuilds changed files (faster for large sites).
 
 The Eleventy configuration file is the heart of the site. Key architectural components:
 
-**Pinyin Slugification System**: Converts Chinese text to URL-friendly slugs using cached pinyin conversion. All slugs are generated through the `slug` filter which combines pinyin conversion with @sindresorhus/slugify.
+**Pinyin Slugification System**: Converts Chinese text to URL-friendly slugs using persistent cached pinyin conversion. All slugs are generated through the `slug` filter which combines pinyin conversion with @sindresorhus/slugify. Cache is saved to `.eleventy-cache.json` for 30-40% faster subsequent builds.
 
 **Entity Normalization Engine**: Automatically merges similar entity names (e.g., "Donald Trump" and "donald-trump") using a sophisticated scoring system that prefers properly capitalized names over slug-like variants.
 
@@ -101,7 +98,6 @@ src/
 │   └── layouts/   # Page-specific styles
 └── js/
     ├── theme-toggle.js  # Dark/light mode with localStorage
-    ├── search.js        # Client-side search
     └── toc.js          # Table of contents generator
 ```
 
@@ -168,11 +164,15 @@ The site supports light/dark mode through:
 
 ### Search System
 
-Client-side search implemented in `src/js/search.js`:
-- Searches a JSON index generated at build time (`search.json.njk`)
-- Respects `exclude: true` (excluded posts not in index)
-- Filters out internal tags like "视频文稿"
-- Searches title, content, tags, and speakers
+Pagefind static site search with full-text indexing:
+- Automatically generates search index during build (`npx pagefind --site _site`)
+- Index files stored in `_site/pagefind/` (split across many small files)
+- Respects `exclude: true` via `data-pagefind-ignore` attribute
+- Listing pages excluded from search with `data-pagefind-ignore`
+- Content pages marked with `data-pagefind-body` for indexing
+- Chinese language support configured in PagefindUI
+- Searches full content with highlighted excerpts and metadata filtering
+- No single index file exceeds GitHub's 100MB limit
 
 ## Python Utility Scripts
 
@@ -228,7 +228,7 @@ Posts with matching `series` values automatically show related posts at the bott
 ### Adding New Frontmatter Field
 1. Update relevant collection processing in `.eleventy.js`
 2. Update template files to display the field
-3. Consider adding to search index in `search.json.njk`
+3. Consider adding metadata tags for Pagefind search (e.g., `<span data-pagefind-meta="field">value</span>`)
 4. Update this documentation
 
 ### Debugging Build Issues
