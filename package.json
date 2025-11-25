@@ -4,10 +4,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx @11ty/eleventy && npx pagefind --source _site",
+    "build": "npx @11ty/eleventy && npx pagefind --site _site",
     "dev": "npx @11ty/eleventy --serve",
-    "build:debug": "DEBUG=true npx @11ty/eleventy && npx pagefind --source _site",
-    "build:incremental": "npx @11ty/eleventy --incremental && npx pagefind --source _site"
+    "build:debug": "DEBUG=true npx @11ty/eleventy && npx pagefind --site _site",
+    "build:incremental": "npx @11ty/eleventy --incremental && npx pagefind --site _site"
   },
   "repository": {
     "type": "git",
