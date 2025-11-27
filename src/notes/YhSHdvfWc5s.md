@@ -8,11 +8,11 @@ speaker: Amit Kukreja
 tags:
   - government-shutdown
   - market-reaction
-  - santa-claus-rally
-  - consumer-economy
-  - ai-capex
-title: 政府停摆结束在即，特朗普再提刺激计划，市场未来走向何方？
-summary: 美国政府长达40天的停摆危机似乎即将结束，市场对此反应积极，股指期货普遍上涨。与此同时，前总统特朗普周末提出50年期抵押贷款和每人2000美元“分红”等刺激性想法，引发市场关注。尽管市场情绪乐观，但关于消费者健康状况、AI行业资本支出的可持续性以及潜在的“牛市陷阱”等宏观经济担忧依然存在。本文将深入分析这些关键动态及其对市场未来走向的潜在影响。
+  - stimulus-policy
+  - consumer-health
+  - ai-chip-demand
+title: 政府停摆有望结束，特朗普再提刺激计划，市场期货应声上涨
+summary: 持续40天的美国政府停摆危机似乎即将结束，推动市场期货普遍走高。参议院正在推进一项临时拨款法案，以维持政府运营至明年1月底。与此同时，前总统特朗普周末提出50年期抵押贷款和每人2000美元“分红”的构想，引发市场关注。此外，英伟达因Blackwell芯片需求强劲而向台积电增加50%订单的消息，也为科技板块注入了积极信号。然而，关于消费者健康状况的担忧以及迈克尔·贝瑞的看空押注，也为市场前景增添了不确定性。
 insight: ''
 draft: true
 series: ''
@@ -21,416 +21,414 @@ area: market-analysis
 project:
   - us-analysis
   - investment-strategy
+  - market-cycles
 people:
   - Donald Trump
   - Tom Lee
   - Alex Karp
   - Michael Burry
+  - Jensen Huang
   - Howard Marks
   - Ray Dalio
   - Bill Ackman
-  - Jensen Huang
-  - Graham Stephan
   - Chuck Schumer
   - Jeff Bezos
   - Brad Gerstner
-  - Jason Calacanis
-  - David Sacks
-  - Chamath Palihapitiya
   - Vlad Tenev
-  - Warren Buffett
+  - Nancy Pelosi
   - Elon Musk
+  - Marjorie Taylor Greene
 companies_orgs:
   - Politico
   - Bloomberg
   - Fox News
-  - Coinbase
-  - MicroStrategy
-  - S&P 500
-  - SoFi
-  - Palantir
-  - Nvidia
-  - TSMC
+  - McDonald's
   - OpenAI
+  - TSMC
+  - Nvidia
   - AMD
   - Google
   - Microsoft
-  - BitMine
-  - Robinhood
-  - Weeble
-  - Broadcom
-  - Nebius
-  - Cipher
+  - Coinbase
+  - MicroStrategy
+  - SoFi
+  - Palantir
+  - Micron
+  - Robin Hood
+  - Berkshire Hathaway
   - Oracle
-  - Archer
-  - Rocket Lab
-  - Grab
-  - Meta
+  - Amazon
   - CoreWeave
-  - DraftKings
-  - Apple
-  - Galaxy Digital
-  - Oscar Health
-  - UnitedHealth Group
-  - Molina Healthcare
+  - Meta
+  - UnitedHealth
   - CVS
+  - Clover
   - Hims
+  - Teldoc
   - Eli Lilly
   - Novo Nordisk
-  - Amazon
-  - Cisco
-  - Disney
-  - Nubank
+  - SpaceX
+  - Rocket Lab
   - Verizon
+  - PayPal
   - Ford
-  - Axios
-  - Bureau of Labor Statistics
-  - Altimeter Capital
-  - Chipotle
-  - Lululemon
-  - Beyond Meat
+  - Altria Group
   - Costco
+  - Bureau of Labor Statistics
+  - Axios
 products_models:
   - Blackwell
   - HBM
-  - Ethereum
-  - Bitcoin
-  - Affordable Care Act
-  - SNAP
+  - 13F
 media_books:
   - The Plain Bagel
-  - The Wall Street Journal
 status: evergreen
 ---
-### 政府停摆危机结束在即，市场应声上涨
+### 政府停摆危机暂解，市场期货全线飘绿
 
-大家好，欢迎回到新一期的周日市场期货分析节目。我们正在直播，感谢各位的到来。希望大家度过了一个愉快的周末。
-
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Hello everybody. Welcome back to another episode of the Sunday market futures. We are live. Thank you everybody for being here. I hope everyone had a great weekend.</p>
-</details>
-
-市场一片绿色，非常亮眼的绿色。我们之所以看到绿色，就像上周五收盘时一样，是因为看起来政府停摆即将结束。当时周五市场经历了一场相当剧烈的下跌，直到东部时间下午2点左右才结束。
+大家好，欢迎回到新一期的周日市场期货节目。我们现在是直播。感谢各位的到来，希望大家度过了一个愉快的周末。市场现在一片绿色，非常亮眼的绿色。我们之所以看到绿色，就像上周五收盘时那样，在经历了周五东部时间下午2点左右结束的剧烈下跌后，市场最终还是收绿了。我们现在看到市场上涨的原因是，朋友们，这次的政府停摆似乎要结束了。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Well, we're green. We are pretty freaking green. And the reason we are green, just like we were green at the end of the day on Friday after dealing with a pretty aggressive drawdown that ended at around 2 pm Eastern on Friday. The reason we are green is because it looks like this shutdown is coming to an end, folks. It looks like this shutdown is coming to an end.</p>
+<p class="english-text">Hello everybody. Welcome back to another episode of the Sunday market futures. We are live. Thank you everybody for being here. I hope everyone had a great weekend and well, we're green. We are pretty freaking green. And the reason we are green, just like we were green at the end of the day on Friday after dealing with a pretty aggressive draw down that ended at around 2 pm Eastern on Friday. The reason we are green is because it looks like this shutdown is coming to an end, folks. It looks like this shutdown is coming to an end.</p>
 </details>
 
-虽然我们还没有掌握所有官方细节，但我看到的大部分头条新闻都表明这次停摆已经结束。参议院目前正在开会，并将进行投票。根据 Politico 和 Bloomberg 的报道，他们似乎已经获得了足够的民主党选票来完成这项工作。如果一切顺利，我们就达成了一项结束停摆的协议。
+虽然我们还没有掌握所有官方细节，但我看到的大部分头条新闻都表明这次停摆已经结束。是的，参议院目前正在开会，并将进行投票。根据 Politico 和 Bloomberg 的报道，他们似乎已经获得了足够的民主党票数来完成这项工作。如果成功，那么我们就达成了一项结束停摆的协议。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">We don't officially have every single detail on it. The majority of what I'm seeing in terms of headlines is that this shutdown is done. The Senate, yes, is in session right now. They will be taking a vote. Based on reporting from Politico and Bloomberg, it seems like they have enough Democratic votes to get the job done. And if it happens, then we've got an agreement to end the shutdown.</p>
+<p class="english-text">Uh we don't officially have every single detail on it. The majority of what I'm seeing in terms of headlines is that this shutdown is done. The Senate, yes, is in session right now. They will be taking a vote. Based on reporting from Politico and Bloomberg, it seems like they have enough Democratic votes to get the job done. And if it happens, then we've got an agreement to end the shutdown.</p>
 </details>
 
-我们已经掌握了一些细节。参议院将推进众议院的**临时拨款法案**（Stop Gap Measure: 为避免政府关门而在正式预算案未通过前使用的短期支出法案），并着手一项资金法案，为退伍军人事务部（VA）、农业部和军事建设提供全年资金。**SNAP**（Supplemental Nutrition Assistance Program: 补充营养援助计划）福利也同样如此。其他机构的资金将延长至1月30日。所以，大约两个月后我们还得再经历一次这个过程，但这总比未来两个月都处于停摆状态要好。
+根据我们掌握的一些细节，参议院将推进众议院的**权宜之计措施**（Stop-gap measure: 指为了避免政府关门而通过的短期临时拨款法案），并继续推进一项拨款法案，为退伍军人事务部（VA）、农业部和军事建设提供全年资金。SNAP 福利也是如此。为其他机构延长运作的资金将批给至1月30日。所以，大约两个月后我们还得再经历一次这个过程，但这至少比未来两个月都处于停摆状态要好。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Some details that we have. The Senate will advance the House's stop gap measure and proceed with a funding bill that provides full-year funding for the VA, agriculture, and military construction. Same thing with SNAP benefits. Funding for extending other agencies will be granted through January 30th. So, we're going to have to do this rodeo again in about two months, but at least it's better than being shut down for the next two months.</p>
+<p class="english-text">Some details that we have. The Senate will advance the House's stop gap measure and proceed with a funding bill that provides fullyear funding for the VA, agriculture, and military construction. Same thing with SNAP benefits. Funding for extending other agencies will be granted through January 30th. So, we're going to have to do this rodeo again in about two months, but at least it's better than, you know, being shut down for the next two months.</p>
 </details>
 
-民主党还确保了在12月进行一次投票，以延长**ACA补贴**（ACA Subsidies: 根据《平价医疗法案》为中低收入者提供的医疗保险保费补贴）。所以，目前这项法案还不会延长这些补贴，至少现在不会。但法案保证了被临时解雇的联邦雇员可以获得补发工资和重新雇用，同时还有12月的那次投票，那次投票不涉及整个政府停摆，而是专门针对ACA补贴。我不知道共和党将如何应对那次投票，因为这正是过去40天我们政府停摆的主要原因。但这总比什么都没有好，看起来停摆至少要告一段落了。
+民主党人还确保了在12月进行一次投票，以延长**ACA补贴**（Affordable Care Act subsidies: 即“平价医疗法案”补贴，旨在帮助中低收入人群支付医疗保险费用）。所以，这项法案本身并不会延长这些ACA补贴，至少目前还不会。但是，除了12月那次关于ACA补贴的投票外，还保证了为被临时解雇的联邦雇员提供补发工资和重新雇佣。我不知道共和党将如何应对那次投票，因为这可以说是过去40天我们政府停摆的主要原因。但有总比没有好，看起来停摆至少要结束了。因此，你看到期货市场一片绿色。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">And Democrats have also secured a December vote to extend ACA subsidies. So, this is not the bill that is going to extend those ACA subsidies, at least not yet. But there's guarantees of backpay and rehiring for furloughed federal employees along with that vote in December, which is not an entire shutdown vote, but rather an ACA subsidy vote. I don't know how the Republicans are going to navigate that vote because that was kind of the main reason for why we've been shut down for the past 40 days. But this is better than nothing, and it looks like the shutdown is at least coming to an end.</p>
+<p class="english-text">And Democrats have also secured a December vote to extend ACA subsidies. So, this is not the bill that is going to extend those ACA subsidies, at least not yet. But there's guarantees of backpay and rehiring for furloughed federal employees along with that vote in December, which is not an entire shutdown vote, but rather an ACA subsidy vote. I don't know how the Republicans are going to navigate that vote because that was kind of the main reason for why we've been shut down for the past 40 days. But this is better than nothing, and it looks like the shutdown is at least coming to an end. Uh, and as a result, you got futures that are green. You've got futures that are green.</p>
 </details>
 
-### 加密货币与科技股引领反弹
+### 市场情绪乐观，加密货币与科技股领涨
 
-因此，你可以看到期货市场一片绿色。我们有很多话题要谈，很多头条新闻。希望大家周末愉快。正如你在这里看到的，在隔夜市场中，我们相对来说是绿色的。市场即将再次开盘，期货是绿色的。以太坊正在发力，它已经有一段时间没有出现5%的不错涨幅了，但现在它做到了，实际上是7%的涨幅，价格达到3600美元，甚至3650美元。
+我们有很多东西要谈，很多头条新闻。希望大家周末愉快。正如你在这里看到的，在隔夜市场中，我们相对来说是绿色的。我们即将再次开盘。期货是绿色的。以太坊正在发力，已经有一段时间没有看到以太坊有不错的5%涨幅了，但现在它来了。实际上是7%的日涨幅，以太坊价格达到3600美元，甚至3650美元。然后是比特币，这东西在周五曾达到98,000美元，现在是106,200美元，当天上涨了4,480美元。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">And as a result, you got futures that are green. You've got futures that are green. So, we got a lot to talk about, a lot of headlines. I hope everyone had a great weekend. As you can see right here in the overnight markets, we are relatively green. We're about to open up again. Futures are green. Ethereum is the one making a move. It's been a minute since Ethereum had a nice little 5% day, but there you go. Actually, a 7% day. 3600 on Ethereum. 3650.</p>
+<p class="english-text">So, we got a lot to talk about, a lot of headlines. I hope everyone had a great weekend. As you can see right here in the overnight markets, um, we are relatively green. We're about to open up again. Futures are green. Ethereum is the one making a move. It's been a minute since Ethereum had a nice little 5% day, but there you go. Actually, a 7% day. 3600 on Ethereum. 3650. And then Bitcoin. This thing got to 98,000 on Friday. It is at 106.2 up $4,480 on the day.</p>
 </details>
 
-然后是比特币。上周五它一度跌至98,000美元，现在已经回升到106,200美元，当天上涨了4,480美元。这两个资产都出现了漂亮的两根绿色K线，而实际上自10月份以来，它们的表现一直不佳。这意味着Coinbase、MicroStrategy，当然还有BMR等资产，在晚上8点市场开盘时应该会受益。所以情况还不错。
+你看到这两个自10月份以来表现一直不佳的资产出现了两根绿色蜡烛图。这意味着像 Coinbase、MicroStrategy，当然还有 BMR 这样的资产，在晚上8点市场开盘时应该会受益。所以情况还不错。这个市场继续显示出它的韧性。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">And then Bitcoin. This thing got to 98,000 on Friday. It is at 106.2 up $4,480 on the day. You got a nice two you have two green candlesticks on two assets that is, realistically since October have just not been doing that well. And that means Coinbase, Micro Strategy, obviously BMR, those assets should benefit at 8 p.m. when the market opens. So, it's not too bad.</p>
+<p class="english-text">You got a nice two uh you have two green candlesticks on two assets that is, you know, realistically since October have just not been doing that well. And that means Coinbase, Micro Strategy, obviously BMR, uh those assets should benefit at 8 p.m. when the market opens. So, it's not too bad. It's not too bad. Again, this market continues to show how resilient it is.</p>
 </details>
 
-市场继续展现出它的韧性。我们有很多不同的宏观数据需要讨论。一旦隔夜市场在11分钟后开盘，我们将深入探讨其中一些宏观数据。有些令人担忧，有些则偏向利好。尽管如此，我认为市场希望迎来**圣诞老人行情**（Santa Claus Rally: 指每年年底最后五个交易日和新年头两个交易日期间，股市通常会上涨的现象）。为了实现这一波上涨，我们需要一个大的推动力，而政府停摆的结束至少会帮助启动这个过程，这将是非常好的现象。
+有很多不同的宏观数据我们需要讨论。一旦隔夜市场在11分钟后开盘，我们将深入探讨其中一些宏观数据。有些令人担忧，有些则比悲观更乐观。尽管如此，我认为你想要这个**圣诞老人行情**（Santa Claus rally: 指每年年底最后五个交易日和新年头两个交易日期间，股市通常上涨的趋势），或者至少市场想要有这个圣诞老人行情。为了实现这次反弹，我们需要一个大的推动力。而停摆的结束至少会帮助启动这个行情，这将是非常好的现象。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">It's not too bad. Again, this market continues to show how resilient it is. There's a lot of different macro stats we got to talk talk about. And once the overnight markets open in 11 minutes, we'll go through some of those macro stats. Some of them are concerning, some of them are more bullish than bearish. Nonetheless, I think you want this Santa Claus rally or at least the market wants to have the Santa Claus rally. And in order to get this rally, we're going to need a big move. And the shutdown is at least going to help start that, which would be very nice to see.</p>
+<p class="english-text">There's a lot of different macro stats we got to talk talk about. And uh once the overnight markets open in 11 minutes, we'll go through some of those macro stats. Some of them are concerning, some of them are more bullish than bearish. Nonetheless, I think you want this Santa Claus rally or at least the market wants to have the Santa Claus rally. And in order to get this rally, we're going to need a big move. And uh the shutdown is at least going to help start that, which would be very nice to see.</p>
 </details>
 
-上周五最疯狂的事情是，市场显然是红色的，这很烦人，而且是下跌的一周。所以我们很多人都预料到周五市场可能会下跌，但后来跌得非常厉害，到了让人觉得“到底发生了什么？”的程度。市场到底在为什么事情感到不安？没人真正知道。你可以指出各种各样的事情，但无法将下午1点市场如此糟糕的下跌归咎于某一个具体原因。
+### 回顾上周五的V型反转
+
+上周五最疯狂的事情显然是市场下跌，这很烦人，而且那一周都是下跌的。所以我们很多人都预料到周五市场可能会继续下跌，但后来跌得非常厉害，到了让人觉得“好吧，到底发生了什么？”的程度。说真的，到底发生了什么？有什么头条新闻吗？市场到底为什么这么不安？没有人真正知道。你可以指出各种各样的事情，但无法将市场在下午1点时的大跌归咎于某一个具体原因。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">I think the craziest thing that happened last Friday was obviously markets were red and it was annoying and it was a red week. So, a lot of us, you know, expected markets probably to be red on Friday, but then it got really red and it got red to the point where it was like, okay, what is going on? Like, seriously, what's happening right here? What's the headline? Like, what is the market so upset about? And no one really knew. You could point to a variety of different things, but you couldn't pinpoint the market going down as bad as it was at 1 p.m. on one specific thing.</p>
+<p class="english-text">I think the craziest thing that happened last Friday was obviously markets were red and it was annoying and it was an it was a red week. So, a lot of us, you know, expected markets probably to be red on Friday, but then it got really red and and it got red to the point where it was like, okay, what is going on? Like, seriously, what's happening right here? What's the headline? Like, what is the market so upset about? And no one really knew. You could point to a variety of different things, but you couldn't pinpoint the market going down as bad as it was at 1 p.m. on one specific thing.</p>
 </details>
 
-然而到了下午2点40分，我们几乎看到了一个完整的V形反转。我在3点05分发了这张图，当时市场正准备V形反转。标普500指数最终收于672点。SoFi涨到25美元，Palantir涨到169美元。很多不同的股票都受到了冲击。这都是基于一条头条新闻：民主党可能准备就重新开放政府进行谈判。然后事情就变得明朗了，哦，所有这一切都是因为政府停摆。至少从价格走势来看是这样。
+然后到了2点40分，我们几乎看到了一个完整的V型反转。我在3点05分发了这张图的推文，当时市场正准备V型反转。标普500指数最终收于672点。Sofi 涨到25美元，Palantir 涨到169美元。很多不同的股票都受到了冲击。而这一切都是基于“民主党可能准备就重新开放进行谈判”的头条新闻。然后事情就变得明朗了，哦，所有这一切都是因为政府停摆。至少从价格走势来看是这样的。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">And then by 240, we almost had an entire V-shape. I tweeted this picture at 3:05, and this is when the market was getting ready to V-shape. It actually ended at 672 on the S&P 500. Sofi got to 25. Palantir got to 169. I mean, you had a lot of different things that got hit. And this was based on the Democrats potentially are ready to negotiate for a reopening headline and then it became apparent, oh, all of this is because of the shutdown. I mean, that's at least what it felt like from the price action.</p>
+<p class="english-text">And then by 240, we almost had an entire Vshape. I tweeted this picture at 3:05, and this is when the market was getting ready to Vshape. actually ended at 672 on the S&P 500. Sofi got to 25. Pounder got to 169. I mean, you had a lot of different things that got hit. And this was based on the Democrats potentially are ready to negotiate for a reopening headline and and then it became apparent, oh, all of this is because of the shutdown. I mean, that's at least what it felt like from the price action.</p>
 </details>
 
-今天，我们将在隔夜市场开盘时看看这种情况是否会持续。但原因似乎就是这个。我想这与劳动力市场或特朗普上周在各种推文中发表的言论关系不大。他周末确实发了一些关于50年期抵押贷款的推文，我们稍后会讨论。但似乎政府停摆是导致我们承受如此多痛苦的核心催化剂，而现在这个停摆可能即将结束。
+今天，当隔夜市场开盘时，我们将会看到这种情况是否会持续。但这就是原因。我想这真的与劳动力市场无关，也与特朗普上周在各种推文中说的无关。他周末确实发了一些关于50年期抵押贷款的推文，我们稍后会谈到。但似乎停摆是我们经历这么多痛苦的核心催化剂，而这个停摆可能即将结束。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">And today, we'll see when the overnight markets open if that continues. But, that was the reason. And I guess it wasn't really labor market or Trump saying whatever he was saying last week in a variety of different tweets. He did have some tweets over the weekend about a 50-year mortgage that we'll talk about. But it seems like the shutdown was the sort of core catalyst for why we had this much pain and maybe that shutdown is going to end.</p>
+<p class="english-text">And today, we'll see when the overnight markets open if that continues. But, uh, that was the reason. And I guess it wasn't really labor market or Trump saying whatever he was saying last week in a variety of different tweets. Uh he did have some tweets over the weekend about a 50-year mortgage that we'll talk about. But um it seems like the shutdown was the sort of core catalyst for why we had this much pain and maybe that shutdown is going to end.</p>
 </details>
 
-### 英伟达需求强劲，增加芯片订单
+### 特朗普周末发声：50年抵押贷款与2000美元“分红”
 
-在我们大约七分钟后市场开盘之前，我想快速谈论另一个头条新闻，那就是英伟达。这是30分钟前发布的消息，对英伟达来说相当利好，尤其是在经历了 OpenAI 和英伟达一些相当糟糕的头条新闻的一周之后。
+特朗普可能不希望市场下跌。周末期间，他发了很多不同的推文。显然，他对市场抛售感到恼火。而这项协议，无论最终变成什么样，对任何一方来说都不会是完美的，但至少能让政府在未来两个月内保持开放。这就是我们所需要的。看起来，当市场在接下来的九分钟内开盘时，我们就会得到这个结果。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Trump might not have wanted the market to dip. Over the weekend, he was tweeting a bunch of different things. Obviously, he was probably annoyed that the markets were selling off. And this deal, whatever it ends up turning into, which is not going to be a perfect deal for either side, but it's at least going to extend the government to be open for the next two months. That's what we need. And it looks like that's what we're going to get uh in the next nine minutes when this opens up.</p>
+</details>
+
+同时，他们仍在开会，对吧？所以，在我们做节目的同时，我们应该会看到投票结果，我想大概在接下来的30分钟内，最多一个小时。一旦我们得到投票结果，我们就会正式知道市场是否会重新开放。这就是你所得到的信息。这非常非常令人兴奋。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Also, there's still um they're still in session, right? So, while we're doing the show, we should probably get a vote, I would imagine, like probably in the next 30 minutes max, maybe in the next hour. And once we get that vote, we'll officially know if the markets are reopening. That's what you got. That is what you got. And it's very, very exciting to see.</p>
+</details>
+
+一位知情人士告诉福克斯新闻，共和党和足够多的参议院民主党人已达成协议，结束长达40天的政府停摆。好的，所以你有 Politico、福克斯、彭博社，还有一大堆不同的人说这事会成。是的，我想在接下来的几分钟，或者几个小时内，我们应该很快就能知道具体情况。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Republicans and uh and enough Sen Democrats have reached a deal to end the government shutdown after 40 days. A source familiar tells Fox News. Okay, so you have Politico, Fox, Bloomberg, a ton of different people saying it's going to come through. And yeah, I guess in the next couple of either minutes, maybe couple of hours, but we should know pretty damn soon what this looks like.</p>
+</details>
+
+比特币的反应已经像是协议已经达成。比特币回到了106,000美元以上。再说一次，这真的只是一个问题，即市场认为这项协议的好处是否足以支撑我们可能进入的圣诞老人行情。然后，我们必须看看逢低买入者会投入多少。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Bitcoin's already acting like the deal is done. Bitcoin right there back above 106. Again, this is really just going to be a question of how much the market thinks this um deal is good enough to withstand potentially going into a Santa Claus rally. And then, you know, then we have to see how much the dip buyers come through.</p>
+</details>
+
+如果今年以来的核心论点一直是“逢低买入”，如果你持续逢低买入，那么到目前为止确实得到了回报。如果政府停摆是导致“逢低买入”策略无法获得回报的关键因素，那么，如果停摆问题逆转，也许“逢低买入”将会再次得到回报。我们将拭目以待。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But, if the core argument has been this year to buy the dip, if you've continued to buy the dip, I mean, so far it has indeed been rewarded. And if the shutdown was the lynch pin for why the buying the dip wouldn't be rewarded, well, if the shutdown reverses, then maybe buying the dip is going to be rewarded. and we're gonna see when that plays out.</p>
+</details>
+
+是的，我们终于能得到一些经济数据了。这是另一件事。我们终于能知道经济到底发生了什么。说实话，除了我们，没人关心**劳工统计局**（Bureau of Labor Statistics, BLS）。你的朋友和家人可能都不知道 BLS 是什么，因为他们不关心失业救济申请之类的数据。但对于我们这些追踪市场的人来说，这真的很重要。为了能日复一日地继续追踪市场，我们需要这些数据。看起来我们很快就能得到这些数据了。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Um, yes, we'll finally get some economic data. This is the other thing. Like, we will finally get to know what the hell is going on in the economy. I mean, no one like besides us honestly cares about the Bureau of Labor Statistics. Like, your friends and family probably don't even know what the BLS stands for because, you know, they don't care about like jobless claims, but for those of us that are tracking the markets, uh, yeah, it really matters. And in order to continue to track the markets on a day-to-day, we need that data. And it looks like we'll be getting that data.</p>
+</details>
+
+### AI 芯片需求强劲，英伟达向台积电追加订单
+
+现在，在市场大约七分钟后开盘前，我想快速谈论另一个头条新闻，然后我们将深入探讨所有正在发生的事情，那就是英伟达。这个消息是30分钟前发布的，对于经历了一周来自OpenAI和英伟达一些相当难看头条新闻的英伟达来说，这无疑是利好消息。
 
 <details>
 <summary>View/Hide Original English</summary>
 <p class="english-text">Now, before we open the markets in about seven minutes, one other headline I want to talk about real quick and then we'll get into all the deeper stuff we've got going on is Nvidia. So, this just came out 30 minutes ago. Pretty damn bullish for Nvidia after a week of some pretty ugly headlines from OpenAI and Nvidia.</p>
 </details>
 
-新闻标题是：“Blackwell 需求旺盛，英伟达向台积电增订50%晶圆”。英伟达已要求台积电将其用于 Blackwell 芯片的3纳米晶圆产量提高多达50%，将月产能从大约10万至11万片推高至16万片。这意味着每月额外增加3.5万片与 Blackwell 芯片相关的晶圆。
+在Blackwell需求旺盛的背景下，英伟达向台积电增订50%的晶圆。据当地报道，英伟达已要求台积电将其用于Blackwell的3纳米晶圆产量提高多达50%，将月产能从大约10万至11万片推高至16万片。这意味着每月额外增加3.5万片与Blackwell芯片相关的晶圆。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Nvidia orders 50% more wafers from TSMC amid Blackwell demand. Nvidia has asked TSMC to boost the 3 nanometer wafer output for Blackwell by up to 50% pushing capacity from roughly a 100,000 to 110,000 a month to 160,000 according to local reports. That's an extra 35,000 wafers monthly tied to Blackwell chips.</p>
+<p class="english-text">Nvidia orders 50% more wafers from TSMC amid Blackwell demand. Nvidia has asked TSMC to boost the 3 nanometer wafer output for black hole by up to 50% pushing capacity from roughly a 100,000 to 110,000 a month to 160,000 according to local reports. That's an extra 35,000 wafers monthly tied to Blackwell chips.</p>
 </details>
 
-黄仁勋表示，需求逐月增强，所有三家**HBM**（High Bandwidth Memory: 高带宽内存，一种用于高性能计算的内存技术）供应商已经扩大产能以支持产量提升。这也解释了为什么美光（Micron）的股价一直在创历史新高。如果这个消息属实——台湾的一些本地报道似乎证实了这一点——那么情况就非常乐观了。
+黄仁勋表示，需求逐月增强，所有三家**HBM**（High Bandwidth Memory: 高带宽内存）供应商都已扩大产能以支持这一增长。这也解释了为什么美光（Micron）的股价一直在创历史新高。但如果这个消息是真的，而台湾的一些本地报道似乎也证实了其真实性，那么情况就非常乐观了。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Jensen Huang said demand is strengthening month by month and that all three HBM suppliers have already scaled capacity to support the ramp. That also explains why Micron has been hitting all-time highs. But if this news is true, which some of the local reporting in Taiwan seems to suggest that it is true.</p>
+<p class="english-text">Jensen Wong said demand is strengthening month by month and that all three HBM suppliers have already scaled capacity to support the ramp. That also explains why Micron has been hitting all-time highs. But if this news is true, which some of the local reporting in Taiwan seems to suggest that it is true, I know last week the main headline that um was annoying to the markets was this whole OpenAI wants to get a federal backs stop guarantee and then the Jensen said China's going to beat us.</p>
 </details>
 
-我知道上周困扰市场的主要头条是 OpenAI 想要获得联邦政府的支持担保，然后黄仁勋又说中国将击败我们。这些都是令人烦恼的头条，搅乱了市场。但从核心来看，这些头条会打破人工智能交易的热潮吗？可能不会。如果说有什么影响的话，那就是它们反而强化了未来将会有多少**资本支出**（Capex: 公司用于购买、维护或升级实物资产的资金）投入。
+我知道上周让市场烦恼的主要头条是 OpenAI 想要获得联邦支持的担保，然后黄仁勋又说中国将击败我们。这些都是烦人的头条新闻，它们在很大程度上搅乱了市场。但从核心来看，这些头条新闻会打破人工智能交易的热潮吗？可能不会。如果说有什么影响的话，那就是它们强化了未来将会有多少**资本支出**（Capex: Capital Expenditure，指公司用于购买、维护或升级实物资产的资金）。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">I know last week the main headline that was annoying to the markets was this whole OpenAI wants to get a federal backstop guarantee and then the Jensen said China's going to beat us. And you know, those were annoying headlines and they kind of muddied a lot of the markets. But at its core, are those headlines that break away from the AI trade? Probably not. I mean, if anything, they're headlines that reinforce how much capex is going to be spent.</p>
+<p class="english-text">And you know, those were annoying headlines and they kind of muddied a lot of the markets. But at its core, are those headlines that break away from the AI trade? Probably not. I mean, if anything, they're headlines that reinforce how much capex is going to be spent.</p>
 </details>
 
-因此，从这个角度来看，即使没有中国市场，英伟达向台积电增订50%的晶圆也是利好消息。记住，我们不能向中国出售任何那些晶圆或 Blackwell 芯片。特朗普上周也明确表示，他们甚至可能不会向中国提供降级版的英伟达芯片，AMD也一样。
+所以从这个角度来看，即使没有中国市场，英伟达向台积电增订50%的晶圆也是一个看涨信号。记住，我们不能向中国出售任何那些晶圆或任何那些Blackwell芯片。特朗普上周也明确表示，他们甚至可能不会向中国提供降级版的英伟达芯片，AMD也是如此。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">So from that perspective, bullish even without China for Nvidia to be ordering 50% more wafers from TSMC. Remember, we can't sell any of those wafers or any of those Blackwell chips to China. And Trump made that pretty clear last week that, you know, they're likely not even going to give you the downscale version of the Nvidia chips to China. Same thing with AMD.</p>
+<p class="english-text">So from that perspective, bullish even without China for Nvidia to be ordering 50% more wafers from TM TSMC. Remember, we can't sell any of those wafers or any of those black wall chips to China. And Trump made that pretty clear uh last week that, you know, they're likely not even going to give you the downscale version of the Nvidia chips to China. Same thing with AMD.</p>
 </details>
 
-仍然有如此巨大的需求，意味着在国内和除中国以外的国际市场上，英伟达应该会表现得不错。
+仍然有如此巨大的需求，这意味着在国内和除中国以外的国际市场上，英伟达应该会表现得很好。你知道，英伟达周五收盘价为190美元。尽管我们经历了那么多痛苦，Hood在跌至120美元后收于131.75美元。Palantir跌至169美元，又回升至180美元。然后英伟达一路跌至178美元，最终又跳空高开回到190美元。标普500指数收于672点。所以这些股票有很多反弹的空间。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">The fact that there's still that much demand means that domestically and internationally outside of China, Nvidia should be doing okay.</p>
+<p class="english-text">The fact that there's still that much demand means that domestically and internationally outside of China, Nvidia should be doing okay. And you know, Nvidia ended the day on Friday at 190. Like for all the pain that we had to go through, Hood ended at 13175 after going to 120. Pounder went to 169, got back up to 180. And then Nvidia fell all the way to 178, ended up gapping up back to 190 again. S&P 500 at 672. So there is a lot of room for some of these names to make up.</p>
 </details>
 
-### Michael Burry 对 Palantir 的神秘推文
+### 迈克尔·贝瑞的看空押注与复杂的市场信号
 
-还有四分钟隔夜市场就要开盘了。让我们看看 Burry 说了什么。我们知道这个仓位对他来说非常重要。哇，他发了很长一段。
+哦，天哪，贝瑞（Burry）刚刚发了关于 Palantir 的推文。好吧，在隔夜市场开盘前四分钟。我们来看看贝瑞说了什么。我们知道这个仓位对他来说非常重要。哇，他发了好多。好吧，贝瑞，他说了什么？“亚历克斯·卡普（Alex Karp）和他的本体论公司 Palantir 无法解读一份简单的**13F文件**（Form 13F: 美国证券交易委员会要求管理资产超过1亿美元的机构投资者每季度披露其持有的股票），这让我一点也不惊讶。任何严谨的本体论认识论模型，无论是哲学的还是数据科学的，其基本原则都是要认识到你的信息集何时不足以得出有效结论。”
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">All right, four minutes before the overnight markets open. Let's see what did Burry say. We know that this position is going to be very important for him. Wow, he put out a lot.</p>
+<p class="english-text">See, Bur just tweeted on Pounder. Oh boy. All right, four minutes before the overnight markets open. Let's see what did Bur say. We know that this position is going to be very important for him. Wow, he put out a lot. Okay, Bur, what does he say? Doesn't surprise me one bit that Alex Karp and his ontology Palunteer cannot crack a simple 13F, a fundamental principle of any rigorous ontological epistemological model, whether philosophical or in data science, is recognizing when your information set is insufficient for valid conclusions.</p>
 </details>
 
-他说：“Alex Karp 和他的本体论公司 Palantir 无法破解一份简单的**13F报告**（13F: 美国证券交易委员会规定，管理超过1亿美元资产的机构投资者每个季度必须披露其持仓情况的报告），这让我一点也不惊讶。任何严谨的本体论或认识论模型，无论是哲学的还是数据科学的，其基本原则都是要认识到何时你的信息集不足以得出有效结论。”
+好吧，我不知道他到底在说什么。贝瑞在这里可能想表达的唯一细微差别，就是我们在他披露仓位时讨论过的那样，即他可能没有做空 Palantir，他可能只是持有大量 Palantir 的看跌期权，这是不同的。因为如果你做空某样东西，你可能会有无限的损失。如果你持有看跌期权，你最多只会损失你为期权支付的全部权利金。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Okay, Burry, what does he say? Doesn't surprise me one bit that Alex Karp and his ontology Palantir cannot crack a simple 13F, a fundamental principle of any rigorous ontological epistemological model, whether philosophical or in data science, is recognizing when your information set is insufficient for valid conclusions.</p>
+<p class="english-text">Okay, I don't know what the hell he's talking about. The only nuance that Bur could be making right here is what we talked about when the uh the position was disclosed, which is that he might not be short Palunteer. He might just have a ton of puts on Palunteer, which is different, right? Because if you're shorting something, you can have infinite losses. If you have puts on something, the most you can lose is the uh overall premium that you paid for the puts.</p>
 </details>
 
-好的，我不知道他到底在说什么。Burry 在这里可能暗示的唯一细微差别，就是我们在他披露仓位时讨论过的一点，即他可能没有做空 Palantir，他可能只是持有大量 Palantir 的**看跌期权**（Put Option: 赋予持有者在特定日期前以特定价格卖出资产的权利，通常用于对冲或看跌）。这两者是不同的，因为如果你做空某物，你可能会有无限的亏损。如果你持有看跌期权，你最多只会损失你为期权支付的总权利金。
+所以当他说“我很惊讶 Palantir 无法解读一份简单的13F”时，我直接的反应是，他是在说 Palantir 没有意识到他实际上并没有做空这家公司。这没问题，但如果你仍然持有大量的看跌期权头寸，你仍然是在押注它下跌。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Okay, I don't know what the hell he's talking about. The only nuance that Burry could be making right here is what we talked about when the position was disclosed, which is that he might not be short Palantir. He might just have a ton of puts on Palantir, which is different, right? Because if you're shorting something, you can have infinite losses. If you have puts on something, the most you can lose is the overall premium that you paid for the puts.</p>
+<p class="english-text">Um, so when he's saying I'm surprised that Palunteer cannot crack a simple 13F, the the immediate gut reaction I get from this is that he's saying Palunteer doesn't realize that he's not actually short the the company, which is fine, but if you still have a massive put position, you're still betting against it.</p>
 </details>
 
-所以当他说“我很惊讶 Palantir 无法破解一份简单的13F报告”时，我直接的反应是，他在说 Palantir 没有意识到他实际上并没有做空这家公司。这没问题，但如果你仍然持有一个巨大的看跌期权头寸，你仍然是在押注它下跌。
+现在，如果他想暗示他既没有看跌期权头寸也没有做空，那我就很困惑了，因为你为什么要提前披露你的13F，还在推特上发那些关于AI泡沫之类的东西呢？很明显，你把这些线索联系起来，就会认为这家伙在对 Palantir 和英伟达进行看空押注。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">So when he's saying I'm surprised that Palantir cannot crack a simple 13F, the immediate gut reaction I get from this is that he's saying Palantir doesn't realize that he's not actually short the company, which is fine, but if you still have a massive put position, you're still betting against it.</p>
+<p class="english-text">Now, if he's trying to imply that he doesn't have a put position and he's not short, well, that's very confusing to me because why would you disclose your 13F early, you know, and tweet all the things that he's been tweeting about AI bubble, yada yada. I mean, obviously, you put two and two together, you think, okay, the guy's making a bearish bet on pounder and Nvidia.</p>
 </details>
 
-现在，如果他想暗示他既没有看跌期权头寸也没有做空，那我就非常困惑了。因为你为什么要提前披露你的13F报告，还发那些关于AI泡沫的推文呢？很明显，把这些线索联系起来，你会认为这家伙在对 Palantir 和英伟达进行看跌押注。
+所以，除非他只是在戏弄大家，并且已经完全平掉了看跌期权仓位——顺便说一句，我们还要再等45天才能知道。所有的13F文件我们将在周五之前拿到。所以我们会知道霍华德·马克斯（Howard Marks）是否增持了 Grab。我们会知道雷·达里奥（Ray Dalio）一直在做什么。我们会了解比尔·阿克曼（Bill Ackman）在谷歌和耐克等股票上的操作。所以我们会得到很多这类数据。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Now, if he's trying to imply that he doesn't have a put position and he's not short, well, that's very confusing to me because why would you disclose your 13F early, you know, and tweet all the things that he's been tweeting about AI bubble, yada yada. I mean, obviously, you put two and two together, you think, okay, the guy's making a bearish bet on Palantir and Nvidia.</p>
+<p class="english-text">So, unless he's just toying with people and he's completely out of the puts, which we're not going to find out for another 45 days. By the way, all the 13Fs we will get by Friday. So, we will know if Howard Marks added to Grab. We will know what Ray Dalio has been doing. We will know learn what Bill Aman's been doing with Google and Nike and all that stuff. So, we're gonna get a lot of that data.</p>
 </details>
 
-所以，除非他只是在戏弄大家，并且已经完全平掉了看跌期权仓位——顺便说一句，我们还要再等45天才能知道真相。所有的13F报告都会在本周五之前公布。所以我们会知道 Howard Marks 是否增持了 Grab，Ray Dalio 在做什么，Bill Ackman 在 Google 和 Nike 上的操作等等。
+贝瑞的这个论点非常奇怪。如果他说 Palantir 不理解一份13F，据我所知，他的13F文件显示，他对 Palantir 的看跌期权名义价值为9.5亿美元，对英伟达的看跌期权为1.87亿美元。他可能已经平仓了，这没问题。但说 Palantir 看不懂一份13F，然后暗示他已经平仓了。那 Palantir 怎么会知道呢？没人能知道。除了他自己，任何人都无法合法地知道，因为在接下来的45天内，法律不要求披露。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">So, unless he's just toying with people and he's completely out of the puts, which we're not going to find out for another 45 days. By the way, all the 13Fs we will get by Friday. So, we will know if Howard Marks added to Grab. We will know what Ray Dalio has been doing. We will know learn what Bill Ackman's been doing with Google and Nike and all that stuff.</p>
+<p class="english-text">But, this is a very weird argument by Bur. I mean, if he's saying that Palunteer doesn't understand a 13F, his 13F, from my understanding, had a notional value of 950 million of puts on Palunteer, 187 million of puts on Nvidia. He might be out of the position. That's fine. But saying that pounder can't crack a 13F and then you know implying he's out of the position. Well, how the hell will pounder know? No one can know. It is illegal for anyone to know except him because it it legally doesn't have to be disclosed within the next 45 days.</p>
 </details>
 
-### 开盘表现：市场对停摆结束预期反应积极
+所以没人知道，除非他是说他实际上持有看跌期权，而不是做空，而卡普（Karp）则根据他做空 Palantir 的情况来评论他，但他试图告诉全世界他没有做空。这就好比，好吧，技术上讲，你确实没有做空，但如果你仍然有一个看跌的押注，我认为卡普的所有评论基本上还是一样的，对吧？在细微差别上不会有太大不同。所以，不确定贝瑞到底在暗示什么，但我们本周将会看到这一切如何发展。
 
-好了，各位，还有30秒。让我们看看市场能否迎来绿色开盘，能否反弹回来。显然，周五有点艰难，但我们在收盘前有了一个不错的复苏，可能让大家的周末都好过了一些。如果政府停摆是下跌的原因，而现在停摆基本上结束了，那么我们应该能看到一个相对绿色的市场开盘。
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So, no one freaking knows unless he's saying he's actually h he has puts on it, not short, and Karp is going off of him on being short pounder, but he's trying to tell the world that he's not short. It's like, okay, well, technically, sure, you're not short, but you still, if you still have a bearish bet, I think all of Karp's comments would relatively be the same, right? There wouldn't be that much nuance in terms of difference. So, not sure exactly what Bur is implying there, but we're going to find out and see this week kind of how this plays out.</p>
+</details>
+
+### 隔夜市场开盘，科技股与加密货币相关资产普涨
+
+好了，各位，30秒倒计时。让我们看看市场能否重回绿色。显然，周五有点艰难。我们在收盘前有了一个不错的小幅回升，可能让每个人的周末都好过了一些。如果政府停摆是下跌的原因，而现在停摆基本上结束了，那么看起来我们应该能够迎来一个相对绿色的市场开盘。
 
 <details>
 <summary>View/Hide Original English</summary>
 <p class="english-text">All right, 30 seconds, folks. Let's see if we can get the green, if it can come back. Obviously, Friday was a bit rough. We had a nice little recovery towards the end of the day. probably made everybody's weekends better. If the shutdown was the reason and now the shutdown is basically done, then it looks like we should be able to get a relatively green market open and we're going to see what we get in the overnight markets.</p>
 </details>
 
-好了，各位，开始了。还有5秒钟。让我们看看情况如何。感谢大家来到这里。隔夜市场……开始了。Robinhood 开盘报133美元，上涨5%，现为134美元。Palantir 开盘报181美元，上涨2%。特斯拉上涨1%，从429美元涨至435美元。英伟达报191.80美元，略有上涨。标普500指数显然上涨了0.5%，报674点。AMD报237美元，上涨了3美元。SoFi报28.77美元，上涨了约1.5美元。
+好了，各位，我们开始吧。5秒倒计时。让我们看看我们得到了什么。感谢大家来到这里。隔夜市场。我们开始。Robinhood 开盘133美元，上涨5%。Palantir 181美元，开盘上涨2%。特斯拉上涨1%，从429美元涨到435美元。英伟达191.80美元，略有上涨。标普指数显然上涨了0.5%，达到674点。AMD 237美元，上涨了3美元。SoFi 28.77美元，上涨了约1.5美元。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">All right, folks. Here we go. 5 seconds. Let's see what we've got. Thank you everybody for being here. The overnight market. And here we go. Robin Hood 133 on the open that's up 5% 134. Palantir 181 that's up 2% on the open. Tesla's up 1% 435 from 429. Nvidia is 191.80 up a little bit. S&P obviously up half a percent 674. AMD 237 that's up three bucks. SoFi 28.77. That's up about a $1.50 on SoFi.</p>
+<p class="english-text">All right, folks. Here we go. 5 seconds. Let's see what we've got. Thank you everybody for being here. The overnight market. And here we go. Robin Hood 133 on the open that's up 5% 134. Palanteer 181 that's up 2% on the open. Tessy's up 1% 435 from 429. Nvidia is 19180 up a little bit. S&P obviously up half a percent 674. AMD 237 that's up three bucks. SoFi 2877. That's up about a$150 on SoFi.</p>
 </details>
 
-BitMine 涨了10%到11%，达到4.55美元。BitMine 正在上涨。Oaklo 上涨3%，DWA 上涨2%，Zeta 上涨1%，Oracle 上涨1%，AS 上涨2%，Archer 上涨2%，AMD 上涨2%，Rocket Lab 上涨2.4%，Grab 上涨约三分之一百分点，台积电上涨1.83%，Joby 上涨1.6%。英伟达在哪里？英伟达在192.30美元。
+Bitmine 涨了10%到11%，达到4.55美元。Bitmine 绿了。Oaklo 涨了3%。DWA 涨了2%。Zeta 涨了1%。Oracle 涨了1%。AS 涨了2%。Archer 涨了2%。AMD 涨了2%。Rocket Lab 涨了2.4%。Grab 涨了约0.3%。TSM 涨了1.83%。Joby 涨了1.6%。英伟达在哪里？英伟达在192.30美元。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Bit mine is up 10%, 11%. $4.55. Bit mine is green. Oaklo's up 3%. DWA's up 2%. Zeta is up 1%. Oracle's up 1%. AS is up 2%. Archer is up 2%. AMD is up 2%. Rocket Lab up 2.4. Grab's up about a third of a percent. TSM's up 1.83%. Joby's up 1.6. Where is Nvidia? Nvidia's at 192.30.</p>
+<p class="english-text">Bit mine is up. Okay, hold on. Bit mine doesn't show on Weeble. Let me go on my phone and see what I've got. 4453. Okay, cool. 44 53. Bit mine's up 10%. Bit mine is up 10 11%. $4.55. Bit mine is green. Oaklo's up 3%. DWA's up 2%. Zeta is up 1%. Oracle's up 1%. AS is up 2%. Archer is up 2%. AMD is up 2%. Rocket Lab up 2.4. Grabs up about a third of a percent. TSM's up 1.83%. Job's up 1.6. Where is Nvidia? Nvidia's at 19230.</p>
 </details>
 
-### 特朗普的周末推文：50年期抵押贷款与2000美元分红
+### 消费者健康状况引发激辩
 
-让我们来谈谈特朗普周末的一些言论。他今天早上发了这条推文：“伟大的美国总统们。罗斯福总统创造了30年期抵押贷款。唐纳德·特朗普可能创造50年期抵押贷款。”
+我认为，我们过去一周经常讨论的关于 Meta 的最大问题，是担心他们的资本支出无法带来投资回报。即使有这些担忧，当你审视数据时，它还是很便宜的。所以，如果你现在买入 Meta，我不能怪你。也许你想在大量定投之前给它一些时间。但你看，当你仔细研究这些数字时，Meta 真的非常便宜。很难否认它便宜。你只需要克服对资本支出能否带来有意义回报的担忧。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">I think we'll start off with this first. I don't know how many people saw it, but Trump tweeted this in the morning. great American presidents. President Roosevelt created the 30-year mortgage. Donald Trump potentially creating a 50-year mortgage.</p>
+<p class="english-text">Look, I think the biggest issue with Meta, and we talked about it a lot last week, is the fear of no ROI from their like capex spend. Even with those fears, I mean, it is cheap when you look at the numbers. So, if you're buying Meta right here, I can't blame you. Uh maybe you want to give it some time before you really heavily DCA. But look, when you go through the numbers, Meta is freaking cheap. It's hard to deny it's cheap. It's just you got to look past the concerns on if there's going to be a meaningful return on capex.</p>
 </details>
 
-我没有深入研究这个方案的数学计算。我今天看了 Graham Stephan 的一个视频，非常棒，我推荐大家去看。他从事房地产行业已经有大约10年了。我看到他对此做了一些快速计算。根据他列出的数学模型，这将使你每月的房屋还款额减少10%。
+现在，关于消费者状况，All-In 播客对此进行了相当激烈的辩论。我很好奇你们站在哪一边，但我们已经看到了很多关于消费者状况的不同观点。这是布拉德·格斯特纳（Brad Gerstner）的一些分析。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">I have not gone super deep into the math around this. I watched the video by Graham Stephan today. It's a great video. I would recommend people watching it. He is in real estate. He's been in real estate for like the past 10 years. And so, I just saw him do some quick numbers on it. And based on the math that he laid out, it would reduce your cost of a house by 10% on the monthly payment.</p>
+<p class="english-text">I want to play this clip on the state of the consumer. Uh the Olm podcast had a pretty large debate about this. I'm curious what side you guys are on, but we've seen a lot of different perspectives on what's going on with the consumer. Here is uh here's a little bit of analysis here from Brad Gersonner as well and then we'll keep talking from there.</p>
 </details>
 
-他举的例子是，如果你增加了额外的20年还款期，你每月的抵押贷款将从3000美元降至2600美元。为了几乎翻倍的贷款时间，每月少付10%的抵押贷款。我不是房地产专家，对房地产了解不多，但这对我来说似乎不是最好的交易。
+有越来越多的迹象表明，消费者正在缩减开支。你从 Chipotle、Cava、NCL、JetBlue 那里都听到了这个消息。情况的本质是，我们有一个双层经济。低端消费者正在步履维艰，而高端消费者则在坚持。但消费者的问题让人们感到紧张。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">So his example used it went from like instead of paying 3,000 a month on your mortgage, you would pay 2,600 if you add those extra 20 years. Paying 10% less on a mortgage for almost doubling the amount of time that you're stuck in that mortgage. Again, I'm not a real estate expert. I don't know that much about real estate, but that to me doesn't seem like the best deal.</p>
+<p class="english-text">The first one is just there's growing signs um you know the consumer is pulling back and you know you heard it out of Chipotle, you heard it out of Cava, you heard it out of NCL, you heard it out of JetBlue and and you know the the nature of it is we have this two-tier economy. The low-end consumer is faltering the higherend consumer is hanging in there but the consumer thing is making people nervous.</p>
 </details>
 
-除此之外，特朗普今天还继续发推文，他提出了一个想法，即向每个人（不包括高收入人群）支付至少2000美元的“分红”。他写道：“反对关税的人是傻瓜。我们现在是世界上最富有、最受尊敬的国家，几乎没有通货膨胀，股市价格创下历史新高。401k达到了有史以来的最高水平。我们正在吸纳数万亿美元，并将很快开始偿还我们高达37万亿美元的巨额债务。对美国的投资创下纪录，工厂遍地开花。将向每个人支付至少2000美元的分红。”
+让情况更糟的是，美国的信用卡拖欠率现在已经回到了2009年的水平。所以你看到消费者出现裂痕，拖欠率上升，现在我们看到区域性银行开始出问题等等，信贷市场开始出现一些裂痕，信贷利差有所扩大。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Then on top of that, you had Trump continue to tweet today and he flirted with this idea of a dividend of at least $2,000 a person, not including high-income people, will be paid to everyone. People that are against tariffs are fools. We are now the richest, most respected country in the world with almost no inflation at a record stock market price. 401ks are the highest ever. We are taking in trillions of dollars and will soon begin paying down our enormous $37 trillion debt. Record investment in the USA. plants and factories going up all over the place. A dividend of at least 2,000 a person will be paid to everyone.</p>
+<p class="english-text">Now uh compounding that is US credit card delinquencies are now uh uh back to two you know 2009 levels right and so you have okay consumer cracking a little bit delinquencies you know and now we're seeing regional banks roll over etc we're seeing the credit markets beginning to crack a little bit credit spreads blowing out a little bit.</p>
 </details>
 
-我不知道特朗普是不是真的在谈论给每人2000美元，他是不是真的说我们要回到新冠疫情时期的发钱模式。我认为有些人是这样解读的。根据我的理解，这可能不完全准确。
+好消息是，我们仍然有火力。那么，在这个财报季发生了什么呢？基本上，财报表现非常强劲。有70%的公司业绩超出预期，而且超出的幅度很大。但如果你看预测，基本上盈利比去年高出约11%，而股票上涨了约13%或14%。但真正的问题是当我们进入明年时会怎样。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">Now, I don't know if Donnie T is actually talking about $2,000 a person, if he's legit legit saying that we're going back to COVID stimulus days where people get a check in the mail. I think that's how some people have interpreted it. That might not necessarily be the most accurate from my understanding.</p>
+<p class="english-text">The good news about this is we still have firepower. So, what's gone on in this earnings season, you know, this next slide, basically earnings have come in really strong, you know, so we have 70% of companies that are beating. They're beating by wide margins, you know, in earnings. But if you look at the forecast, you know, basically earnings have come in about 11% higher than last year and the stocks are up about 13 or 14%. But the real question is as we roll into next year.</p>
 </details>
 
-所谓的“分红”更多是通过减税和特朗普政府正在做的所有其他事情来支付的，这些事情对你拥有更多可支配资金是利好的，但不一定是一张2000美元的支票。尽管他说的“每人2000美元的分红”听起来像是支票。他没有说“刺激支票”，而是说“分红”，这可以有多种解释。
+我倾向于同意，那些在信用卡、汽车贷款等方面支付高额费用的低端消费者显然正在受苦。我们看到这些裁员，这些裁员也在伤害其中一些人。所以当你审视市场估值时，我们仍然相信，像我们三年来一直做的那样，持有所有计算相关的股票，这个人工智能交易还有上涨空间，但显然估值已经上涨了很多。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">And Ben kind of clarified this earlier today and we'll watch a video of that. It's more so the dividend being paid through like reduced taxes and all these other different things that the Trump administration is doing that's like, you know, bullish for you having more money to spend. But it's not necessarily a $2,000 check. Although the way that he says it, $2,000 a person of a dividend. Now, he doesn't say a stimulus check. He says a dividend, which could be interpreted in a variety of different ways.</p>
+<p class="english-text">I tend to agree the low-end consumer who pays a lot on their credit cards, on their car loan, etc. is clearly hurting. We see these layoffs, these layoffs are are hurting some of these people as well. And so when you look at the multiples of the market, how do we look at it from an altimter perspective? We still believe that owning all of compute like we have for 3 years and a this AI trade has room to run but there obviously multiples have come up a lot.</p>
 </details>
 
-如果真的发2000美元，假设发给大约2亿人，不包括国内的1亿人，总共有3.5亿人。那大约是4000亿美元。我们有钱支付4000亿美元吗？我不这么认为。关税在最好的情况下也只能带来大约3500亿美元。所以我认为我们没有钱来支付这个，这也是为什么我实际上不认为我们会这么做。
+### AI 行业的资本狂热与未来展望
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">If he were to give $2,000, let's assume that goes to about 200 million people. Again, you're going to exclude a 100 million people in the country. There's 350 million people. That's about $400 billion. Do we have the money to pay $400 billion? I don't think so. The tariffs in the best case only bring in about 350 billion. So, I don't think we're going to have the money to pay for it, which is why I don't actually think that we're doing this.</p>
-</details>
-
-但如果真的发生了，那我们就要“飞向月球”了。而这一次，我想很多人会意识到，好吧，我们要制造一个泡沫。如果我们印4000亿美元，我们肯定知道这是一个泡沫。所以我们只需要把握好这个泡沫的时机。我不认为他会真的给每个人2000美元。但如果他这么做了，我想我们都会明白这绝对会变成一个泡沫，最终我们只需要想办法把握好时机。
-
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">But if that does happen, I mean, we're going back to the moon. And this time, I think a lot of people realize, okay, so we're going to create a bubble. We we definitely know it's a bubble if we're printing $400 billion. So, we just got to time the bubble. I don't think he's literally giving $2,000 to everybody. But if he were, I think all of us would understand this is absolutely going to turn into a bubble and eventually we just have to figure out how to time it.</p>
-</details>
-
-### 消费者状况之辩：经济是强劲还是脆弱？
-
-现在让我们来谈谈消费者状况。播客上对此有一场相当大的辩论。我很好奇你们站在哪一边。但我们已经看到了关于消费者状况的许多不同观点。这是 Brad Gerstner 的一些分析。
-
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">I want to play this clip on the state of the consumer. The podcast had a pretty large debate about this. I'm curious what side you guys are on. But we've seen a lot of different perspectives on what's going on with the consumer. Here is here's a little bit of analysis here from Brad Gerstner as well and then we'll keep talking from there.</p>
-</details>
-
-有越来越多的迹象表明消费者正在退缩。你从 Chipotle、Cava、NCL、JetBlue 那里都听到了这个消息。情况的本质是，我们有一个双层经济。低端消费者正在步履维艰，而高端消费者则在坚持。但消费者的问题让人们感到紧张。
-
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">The first one is just there's growing signs the consumer is pulling back. And you know, you heard it out of Chipotle, you heard it out of Cava, you heard it out of NCL, you heard it out of JetBlue. And the nature of it is we have this two-tier economy. The low-end consumer is faltering. The higher-end consumer is hanging in there. But the consumer thing is making people nervous.</p>
-</details>
-
-更糟糕的是，美国的信用卡拖欠率现在已经回到了2009年的水平。所以你看到消费者有点裂痕，拖欠率上升，现在我们看到区域性银行也在倒下等等。我们看到信贷市场开始出现裂痕，信贷利差有所扩大。
-
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Now, compounding that is US credit card delinquencies are now back to 2009 levels, right? And so you have okay consumer cracking a little bit, delinquencies, you know, and now we're seeing regional banks roll over, etc. We're seeing the credit markets beginning to crack a little bit, credit spreads blowing out a little bit.</p>
-</details>
-
-我倾向于同意，那些在信用卡、汽车贷款等方面支付高额费用的低端消费者显然正在受苦。我们看到这些裁员，这些裁员也伤害了其中一些人。所以当你审视市场的市盈率时，我们从 Altimeter 的角度是如何看待的呢？我们仍然相信，像我们三年来一直持有的那样，拥有所有计算能力，这个AI交易还有上涨空间，但显然市盈率已经上涨了很多。
-
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">I tend to agree the low-end consumer who pays a lot on their credit cards, on their car loan, etc. is clearly hurting. We see these layoffs, these layoffs are are hurting some of these people as well. And so when you look at the multiples of the market, how do we look at it from an altimeter perspective? We still believe that owning all of compute like we have for 3 years and this AI trade has room to run but there obviously multiples have come up a lot.</p>
-</details>
-
-### AI 资本支出热潮：泡沫还是基础设施建设？
-
-让我们来谈谈人工智能。上周另一个让市场非常恼火的大新闻是关于债务分析。看看这个。为资助AI数据中心支出而进行的借贷在9月份和10月份至今都出现了爆炸式增长。Meta发行了300亿美元的债券，Oracle发行了180亿美元，总计750亿美元。然后Google发行了大约30亿美元。还有更多在路上，微软也加入了进来。
+现在，让我们谈谈人工智能。这是上周另一个让市场非常恼火的重大新闻。看看这个。为资助人工智能数据中心支出而进行的借贷在9月份爆发式增长，10月份至今也是如此。Meta 发行了300亿美元的债券，Oracle 发行了180亿美元，总计750亿美元。然后谷歌也发行了大约30亿美元。而且还有更多在路上。微软也加入了这场行动。
 
 <details>
 <summary>View/Hide Original English</summary>
 <p class="english-text">AI. Let's talk about AI. So, let's get into some debt analysis. I mean, this is one of the other big headlines last week that really got the market pissed off. Take a look at this. Borrowing to fund AI data center spending exploded in September and so far in October. Meta 30 billion of bonds. Oracle 18 billion, 75 billion in total. Then you had Google with around three billion. And you've got more that is on the way. Microsoft as well getting into the action.</p>
 </details>
 
-正如你所看到的，债务融资，特别是围绕AI数据中心的债务融资，自2015年以来就一直存在。只是它没有像你在这张图表上看到的那样急剧增长。我知道，因此，我们将承担更多债务来资助我们在数据中心方面的工作。
+我知道因此我们将承担更多债务来资助我们在数据中心方面的工作。The Plain Bagel 频道这个周末有一个很棒的视频，也深入探讨了像“循环融资”这样的问题。当你从根本上分解它时，它显然感觉非常循环。摆脱这种循环性的关键在于，嘿，这些公司能否产生足够的收入，从而能够对它们正在进行的总体支出产生有意义的影响？
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">So, as you can see, the debt funding, particularly around AI data centers, has been a thing since 2015. It's just not ramped up the way it's ramped up that you're seeing on this chart. And I know as a result, we're going to be taking on more debt to be able to fund what we're doing in regards to data centers.</p>
+<p class="english-text">I know as a result, we're going to be taking on more debt to be able to fund what we're doing in regards to data centers. There was a great video by The Plain Bagel this weekend as well that kind of went deeper into like the circular financing. And you know when you break it down at the end of the day it obviously feels very circular just looking at it from a baseline level. The thing that gets rid of the circularity is hey are these companies going to be able to produce enough revenue to get the revenue to be able to meaningfully make a difference in the overall amount of spending that these companies are doing?</p>
 </details>
 
-OpenAI 的首席财务官被直接问及这种循环融资的问题，她这样回答。她从一开始就拒绝了这个前提。
+OpenAI 的首席财务官被直接问及这种循环融资，她基本上拒绝了整个前提。她表示，我们有很多增长，我们从实际花费的资金中获得了大量的投资回报，即使我们还没有盈利。从核心来看，这最终将变成一个非常大的业务。她还提到，他们的企业业务同比增长了9倍，达到900%，比消费者业务增长快得多。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">The OpenAI CFO was point blank asked about this circular financing and here is what she had to say. She kind of rejected the entire premise of it in the first place.</p>
+<p class="english-text">But she was point blank asked about this circular financing and here is what she had to say. She kind of rejected the uh the entire premise of it in the in the first place. So let's take a listen to what she had to say here. So you got the OpenAI CFO saying, "Hey, this whole circular thing that you guys are thinking, you know, we do this and then they do that and the only reason they can do that is because we do this with them." That's not the case. And the reason that's not the case is because we have a lot of growth. We have a lot of ROI from the actual money that we're spending, even if we're not profitable yet. And at its core, this is eventually going to turn into a very large business. Here's the part where she talks about their enterprise business, uh, which she says is growing 9x year-over-year, 900%, way faster than the consumer side of the business.</p>
 </details>
 
-她说：“我完全不接受这个前提。我们都只是在构建一个完整的基础设施，让更多的计算能力进入世界，从而让我们的模型消化它。所以我们的模型变得越来越好，让我们能够将这些模型产品化，以便我们能够向消费者和企业销售，带来我已经谈到的所有好处。我根本不认为这是循环的。”
+杰夫·贝佐斯（Jeff Bezos）周末在一个美国商业会议上再次提出了在太空中建立数据中心的论点。他表示，如果我们想继续发展文明并使用更多能源，最终将不得不把所有重工业移出地球。我们可以在太空中开始建造工厂，可以开始建造数据中心。我们将最终从月球和近地天体获取材料。我们在太空中拥有无限的能源和无限的物质资源。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">So I kind of reject the premise completely. We're all just building out a a full infrastructure today that allows more compute to come into the world which allows it to be digested by our models. So our models get better and better, allows us to productize those models so we can sell to consumers and to enterprises for all the benefits that I've already talked about. I don't view it as circular at all. Right?</p>
+<p class="english-text">Here's Jeff Bezos, who was at an American business conference over the weekend once again making up the argument about data centers in space. Well, for me there's a bunch of reasons for, you know, I but literally since I was a kid, literally a kid here in Miami, I have been thinking that ultimately if we want to keep growing our civilization and using more energy per person and so on and so on, we're eventually going to have to move all of our heavy industry off Earth. We can start to build factories in space. We can start to build data centers in space. We will ultimately get the materials not even from earth but get the materials from the moon and near earth objects and asteroids. We have unlimited energy in space and unlimited material resources in space.</p>
 </details>
 
 ### 参议院投票进行中，市场拭目以待
 
-好了，各位，我想在大家睡觉前，至少在东海岸的各位，我们应该能看到参议院正式批准这项法案，然后继续前进。接着我们只需要通过众议院，然后，砰，我想我们就完成了。
+好了，各位，我们应该在一小时内知道结果。看起来市场想要的就是这个。我现在要在聊天中向大家提一个问题。很好奇大家的想法。明天是涨还是跌？我问的潜在问题是，这是熊市陷阱还是牛市陷阱？我们怎么看？我们认为市场会抓住政府停摆的消息不放吗？这是否是足够的催化剂？还是我们明天会再次被震荡出局？
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">All right, guys. I think before everyone goes to sleep, at least here on the East Coast, we should get the Senate officially approving this and keep going from there. Then we just got to get to the House and then boom, I think we're done.</p>
+<p class="english-text">All right, they're going to start voting. We should know in about an hour, folks. We should know in about an hour. There you go. Looks like that's what the market wanted. Looks like that's what the market wanted. Here's the question I'm going to put in the chat for everybody. Curious what people think. um red or green tomorrow? Red or green? And the the sort of underlying question I'm asking is bear trap or bull trap. What do we think? Do we think the market holds on to the government shutdown news? Is that enough of a catalyst? Or do we get whipsaw again tomorrow?</p>
 </details>
 
-如果政府停摆的问题下周解决，那么下一个大的担忧就是数据、美联储会议和英伟达的财报。下周没有那么多财报。哦，还有13F报告。顺便说一句，伯克希尔的巴菲特明天要发表一份声明。这将是他给股东的最后一份声明。它将包括巴菲特先生关于慈善事业、伯克希尔以及伯克希尔股东和其他人可能感兴趣的其他事宜的信息。
+上周我们有很多非常利好的消息，但随后我们就遭遇了下行震荡。根据目前的价格走势——价格走势可能非常具有欺骗性——感觉这正是市场想要的。上周真的很奇怪，因为你可以想象市场下跌有很多原因，但到了周五，停摆最终成了我们反转的原因。所以我必须假设，停摆的逆转是我们V型上涨的原因。如果是这样，希望我们能继续保持绿色。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">So, I think if we get rid of the shutdown next week, then the next big concern is data, the Fed meeting, Nvidia earnings. There's not that many earnings next week. Oh, and then 13F. Berkshire, by the way, what's his name? Buffett. He's putting out a statement tomorrow. It's going to be his final statement to shareholders. It will include a message from Mr. Buffett regarding philanthropy, Berkshire, and other matters that Berkshire shareholders and others may find to be of interest.</p>
+<p class="english-text">We had a bunch of different pieces of news last week that were super bullish, then we just got whips out to the downside. I mean based on this price action and price action can be very deceiving. It does feel like this is what the market wanted again last week was just so weird because there were so many reasons you can imagine the market was red but then on Friday the shutdown ended up being the reason why we reversed. So I I have to assume the shutdown reversing is the reason why we we Vshape up. Uh and if that's the case hopefully we continue green.</p>
 </details>
 
-所以这将会非常重要。然后我们会得到13F报告。它们可能明天开始公布，最有可能在周四之前，你会得到大部分。所以我们会看到伯克希尔是否购买了更多的UNH，很多其他公司是否继续增持英伟达，David Tepper 这些人在做什么。我们已经知道了Burry的持仓，因为他提前披露了。这将是本周最重要的事情。
+协议将持续到1月30日。你们中有些人说是牛市陷阱。我不能否认这可能是一个牛市陷阱，因为上周我们确实得到了一些不利的头条新闻。但话又说回来，我很难抓住那些论点不放，因为我们正接近年底。年底通常是看涨的。我们的盈利增长仍然非常出色。你还有英伟达的财报即将公布，然后还有降息。
 
 <details>
 <summary>View/Hide Original English</summary>
-<p class="english-text">So, that's going to be really important. And then we're going to get the 13Fs. They're probably going to start tomorrow most likely by Thursday. You'll get most of them. So, we'll see if Berkshire bought more UNH, a lot of these other firms are continuing to load up on Nvidia, David Tepper, what these guys are doing. We already have Burry's because he disclosed early. That should be the most important thing for for this week.</p>
+<p class="english-text">The agreement lasts until January 30th. Until January 30th. Couple of you guys saying bull trap. You know, I I can't dismiss that it could be a bull trap because there are some things that we got in terms of headlines last week that weren't bullish. But then again, it's hard for me to like latch on to those arguments because we're getting towards the end of the year. The end of the year tends to be bullish. We have earnings growth that has still been phenomenal. You have Nvidia earnings coming up and then you got rate cuts.</p>
+</details>
+
+我确实认为明天会有一些人获利了结，仅仅因为他们厌倦了这种反复无常，他们可能只想说，“你知道吗，我退出了。就这样了。我今年不玩了。我拿走我的利润。我不在乎是否要为此缴税。” 但我不想等到十二月底，然后又出现什么公告把一切都搞砸了。我完全可以看到明天会发生这种情况。所以这是我认为我们都必须注意的一件事。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I do think tomorrow there's going to be some people taking profits just because they are getting tired of the back and forth and they might just want to say, you know what, I'm out. This is it. I'm done for the year. I'm taking my profits. I don't care if I have to pay taxes on it. But I don't want to wait until the end of December and then there's some announcement that comes up and it messes up everything. I could definitely see that happening tomorrow. So, that's one thing that I think we all have to pay attention to.</p>
+</details>
+
+但无论如何，市场似乎喜欢停摆的消息。标普500指数上涨了0.5%，达到674点。上周五我们一度跌至661点。好了，各位，这就是我们现在的情况。让我们进入其他一些宏观新闻，然后继续。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But, nonetheless, market seems to like the shutdown news. S&P 500, right? They're up half a percent, 674. We fell all the way to 661 last week on Friday. All right, folks. That's what we got. Let's get into a bunch of this other macro news and keep going from there.</p>
 </details>
