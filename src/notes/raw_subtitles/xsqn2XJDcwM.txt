@@ -1,0 +1,9161 @@
+[Music]
+
+
+Bloomberg
+ Audio
+ Studios
+ podcasts,
+ radio,
+
+
+news.
+
+
+[Music]
+
+
+>> Hello
+ and
+ welcome
+ to
+ another
+ episode
+ of
+
+
+the
+ All
+ Thoughts
+ Podcast.
+ I'm
+ Tracy
+
+
+Aloway
+
+
+>> and
+ I'm
+ Joe
+ Weisenthal.
+
+
+>> Joe,
+
+
+>> yes.
+
+
+>> Have
+ you
+ ever
+ wanted
+ to
+ tour
+ a
+ data
+
+
+center?
+
+
+>> Uh,
+ I'd
+ love
+ to.
+ Um,
+
+
+>> part
+ of
+ me
+ thinks
+ it
+ would
+ be
+ really
+
+
+boring,
+ like
+ if
+ you
+ actually
+ went
+
+
+inside,
+ cuz
+ it
+ would
+ just
+ be
+ a
+ bunch
+ of
+
+
+the
+ same
+ cables
+ like
+ over
+ and
+ over
+ and
+
+
+over
+ again,
+ but
+ part
+ of
+ me
+ thinks
+ just
+
+
+seeing
+ the
+ scale
+ of
+ it
+ would
+ be
+ amazing.
+
+
+You
+ know
+ what
+ I
+ would
+ do
+ if
+ I
+ tooured
+ a
+
+
+data
+ center
+ is
+ I
+ would
+ look
+ at
+ those
+
+
+cables
+ and
+ every
+ nut
+ and
+ bolt
+ and
+ vac
+
+
+and
+ um
+ and
+ heating
+ thing
+ and
+ get
+ every
+
+
+brand
+ name
+ I
+ could
+ on
+ any
+ little
+ piece
+
+
+of
+ equipment
+ in
+ the
+ entire
+ thing
+ and
+
+
+then
+ see
+ are
+ there
+ any
+ of
+ these
+ that
+ are
+
+
+AI
+ plays
+ that
+ the
+ market
+ doesn't
+ real
+
+
+you
+ know
+ any
+ random
+ screwdriver
+ that's
+
+
+being
+ used
+ in
+ this
+ operation
+ what
+ is
+ the
+
+
+name
+ is
+ it
+ publicly
+ traded
+
+
+>> so
+ literally
+ picks
+ and
+ shovels
+
+
+>> yeah
+ just
+ lit
+ exactly
+ oh
+ here
+ is
+ here
+
+
+there's
+ a
+ company
+ that
+ makes
+ the
+ um
+ you
+
+
+know
+ the
+ doors
+ stop
+ is
+ are
+ they
+ an
+ AI
+
+
+play
+ because
+ they're
+ going
+ to
+ need
+ a
+ lot
+
+
+of
+ doors
+ stops
+ for
+ all
+ these
+ doors.
+
+
+That's
+ what
+ I
+ would
+ do.
+
+
+>> Okay.
+ So,
+ uh
+ I
+ guess
+ the
+ the
+ Joe
+ Hypers
+
+
+scale
+ data
+ center
+ ETF
+ um
+ coming
+ to
+ a
+
+
+market
+ near
+ you
+ eventually.
+ That
+ would
+
+
+be
+ a
+ good
+ idea.
+
+
+>> That's
+ a
+ great
+ idea.
+
+
+>> Well,
+ today
+ we're
+ going
+ to
+ talk
+ about
+ uh
+
+
+some
+ of
+ these
+ data
+ centers.
+ Yeah.
+ with
+
+
+someone
+ who
+ has
+ actually
+ gone
+ on
+ a
+ field
+
+
+trip
+ and
+ looked
+ at
+ them
+ and
+ then
+ we're
+
+
+going
+ to
+ talk
+ about
+ broader
+ AI
+ because
+
+
+of
+ course
+
+
+>> with
+ markets
+ still
+ you
+ know
+ basically
+ at
+
+
+records
+ there's
+ a
+ lot
+ of
+ concern
+ that
+
+
+valuations
+ are
+ getting
+ out
+ of
+ hand
+ we've
+
+
+had
+ these
+ financing
+ deals
+ which
+ just
+ do
+
+
+my
+ head
+ in
+ in
+ terms
+ of
+ like
+ trying
+ to
+
+
+track
+ who's
+ lending
+ to
+ who
+ and
+ who's
+
+
+buying
+ from
+ who
+ and
+ all
+ of
+ that
+ so
+ we
+
+
+should
+ talk
+ about
+ it
+
+
+>> totally
+ because
+ I
+ mean
+ two
+ things
+ which
+
+
+is
+ one
+ we
+ know
+ how
+ important
+ AI
+ is
+ to
+
+
+the
+ stock
+ market
+ two,
+ you
+ know,
+ as
+
+
+there's
+ all
+ these
+ sort
+ of
+ complicated
+
+
+financing
+ deals
+ and
+ the
+ numbers
+ change
+
+
+by
+ the
+ day.
+ So
+ just
+ today
+ we
+ got
+ news
+
+
+that
+ in
+ the
+ latest
+ Open
+ AI
+ is
+ allowing
+
+
+some
+ of
+ its
+ employees
+ to
+ sell
+ shares
+ at
+
+
+a
+ half
+ a
+ trillion
+ dollar
+ valuation.
+ It
+
+
+just
+ seems
+ like
+ it's
+ constant
+ fund
+
+
+raise,
+ constant
+ numbers
+ that
+ go
+ higher
+
+
+and
+ higher
+ and
+ higher
+ every
+ day.
+ Various
+
+
+estimates
+ for
+ how
+ much
+ capital
+
+
+expenditure
+ is
+ going
+ to
+ happen
+ in
+ this
+
+
+cycle
+ seem
+ to
+ go
+ up.
+ I
+ feel
+ like
+ what
+ we
+
+
+really
+ need
+ to
+ do
+ is
+ have
+ one
+ of
+ these
+
+
+conversations
+ every
+ month
+ and
+ just
+ get
+
+
+for
+ real
+ like
+ we
+ need
+ to
+ keep
+ uh
+ like
+ it
+
+
+changes
+ so
+ fast
+ and
+ the
+ stakes
+ seem
+ so
+
+
+high.
+
+
+>> Yeah,
+ you
+ definitely
+ need
+ frequent
+
+
+updates.
+ The
+ other
+ thing
+ of
+ course
+
+
+hovering
+ in
+ the
+ background
+ is
+ the
+
+
+importance
+ of
+ the
+ AI
+ buildout
+ to
+ the
+
+
+overall
+ economy,
+ right?
+ And
+ this
+ is
+ the
+
+
+question
+ like
+ is
+ the
+ I
+ think
+ Deutsche
+
+
+Bank
+ actually
+ put
+ out
+ a
+ note
+ on
+ this.
+ Is
+
+
+the
+ entire
+ US
+ economy
+ being
+ propped
+ up
+
+
+by
+ AI
+ right
+ now?
+ Maybe
+ that's
+ not
+ a
+
+
+problem
+ if
+ you
+ know
+ if
+ the
+ AI
+ stuff
+
+
+actually
+ gets
+ built
+ and
+ materializes
+
+
+into
+ real
+ money.
+ But
+ you
+ can
+ imagine
+ if
+
+
+it
+ is
+ a
+ bubble
+ then
+ that
+ would
+ be
+ bad.
+
+
+>> The
+ way
+ I
+ see
+ it
+ is
+ there's
+ essentially
+
+
+two
+ ways
+ this
+ is
+ going
+ to
+ end
+ up.
+ One
+ is
+
+
+it
+ turns
+ out
+ it
+ was
+ a
+ bubble
+ we
+ have
+ a
+
+
+massive
+ recession
+ and
+ we
+ all
+ lose
+ our
+
+
+jobs.
+ And
+ the
+ other
+ possibility
+ is
+ that
+
+
+AI
+ is
+ not
+ a
+ bubble.
+ We
+ have
+ AGI
+ and
+ we
+
+
+all
+ lose
+ our
+ jobs.
+ And
+ so
+ I'm
+ curious
+
+
+which
+ of
+ the
+ two
+ paths
+ is
+ going
+ to
+
+
+happen.
+ Well,
+ I
+ got
+ to
+ say
+ there
+ are
+
+
+some
+ alternate
+ possibilities.
+ Did
+ you
+
+
+see
+ the
+ uh
+ Dallas
+ Fed
+ chart?
+
+
+>> Uh
+ I
+ haven't
+ seen
+ that
+ one.
+
+
+>> So,
+ it
+ showed
+ GDP
+ per
+ capita
+ and
+ one
+
+
+line
+ was
+ like
+ for
+ AGI
+ and
+ it
+ just
+ goes
+
+
+straight
+ up.
+
+
+>> Straight
+ up.
+ It
+ just
+ literally
+ vertical.
+
+
+>> Yeah.
+ But
+ then
+ the
+ other
+ line
+ is
+ what
+ if
+
+
+the
+ robots
+ take
+ over
+ the
+ world
+ and
+ kill
+
+
+everyone
+ and
+ that
+ line
+ went
+ straight
+
+
+down.
+
+
+>> So,
+ yeah.
+ So,
+
+
+>> okay.
+ Okay.
+
+
+>> Lots
+ of
+ good
+ outcomes
+ here.
+
+
+>> Yes.
+ All right.
+ Uh
+ so
+ we
+ have
+ the
+
+
+perfect
+ guest,
+ someone
+ we've
+ spoken
+ to
+
+
+before,
+ uh
+ who
+ writes
+ absolutely
+
+
+phenomenal
+ research
+ about
+ AI
+ and
+
+
+actually
+ digs
+ into
+ literally
+ the
+ nuts
+
+
+and
+ bolts
+ of
+ everything.
+ We're
+ going
+ to
+
+
+be
+ speaking
+ with
+ James
+ Van
+ Gilan.
+ He
+ is
+
+
+the
+ author
+ of
+ the
+ Catrini
+ newsletter.
+
+
+James,
+ thanks
+ for
+ coming
+ back
+ on.
+
+
+>> Thanks
+ for
+ having
+ me.
+ I
+ feel
+ like
+ uh
+ the
+
+
+last
+ time
+ we
+ were
+ here,
+ we
+ were
+ also
+
+
+discussing
+ whether
+ AI
+ is
+ a
+ bubble
+ or
+
+
+not,
+ and
+ now
+ we
+ get
+ to
+ do
+ it
+ again.
+
+
+>> One
+ day,
+ one
+ day
+ it'll
+ be
+ right.
+ Right.
+
+
+Analysts
+ going
+ on
+ field
+ trips
+ is
+ one
+ of
+
+
+my
+ favorite
+ genres
+ of
+ research.
+ Explain
+
+
+to
+ us
+ how
+ you
+ managed
+ to
+ do
+ this.
+
+
+>> So
+
+
+drones
+ have
+ become
+ very
+ commoditized.
+
+
+The
+ likelihood
+ of
+ anything
+ in
+ the
+ world
+
+
+being
+ more
+ than
+ a
+ 10
+ mile
+ radius
+ from
+
+
+someone
+ with
+ a
+ drone
+ is
+ extremely
+ low.
+
+
+>> And
+ we
+ kind
+ of
+ use
+ that
+ to
+ our
+ advantage
+
+
+because
+ we've
+ been
+ sitting
+ in
+ front
+ of
+ a
+
+
+screen
+ watching
+ green
+ numbers
+ go
+ up
+ and
+
+
+up
+ and
+ up.
+ And
+ it's
+ not
+ my
+ fault
+ that
+
+
+they
+ named
+ it
+ Stargate.
+ It
+ kind
+ of
+ lends
+
+
+itself
+ to
+ not
+ taking
+ it
+ as
+ serious
+ as
+ as
+
+
+one
+ otherwise
+ might.
+
+
+>> And
+ someone
+ I
+ read
+ a
+ tweet
+ that
+ said,
+
+
+"Well,
+ where's
+ the
+ proof?
+
+
+>> There
+ probably
+ should
+ be
+ proof,
+ right?"
+
+
+So,
+ we
+ looked
+ at
+ some
+ satellite
+ images
+
+
+and
+ we
+ went,
+ "Okay,
+ a
+ year
+ ago
+ this
+ was
+
+
+dirt
+ and
+ now
+ there's
+ this
+ thing
+ and
+ it's
+
+
+the
+ size
+ of
+ lower
+ Manhattan."
+
+
+>> Wow.
+
+
+>> So,
+
+
+>> it's
+ in
+ Texas,
+ right?
+
+
+>> It's
+ in
+ Abalene,
+ Texas.
+ And
+ and
+ the
+ the
+
+
+I
+ mean,
+ this
+ is
+ actually
+ one
+ of
+ the
+
+
+smaller
+ ones.
+ I
+ mean,
+ if
+ you
+ look
+ at
+
+
+Louisiana
+ Meta's
+ Hyperion,
+ it
+ would
+
+
+start,
+ the
+ footprint
+ would
+ start
+ at
+ the
+
+
+top
+ of
+ Central
+ Park
+ and
+ it
+ would
+ go
+ down
+
+
+to
+ Soho.
+
+
+>> Wow.
+
+
+>> So,
+
+
+>> that's
+ why
+ they
+ call
+ it
+ hypers
+ scale.
+
+
+>> So,
+ just
+ to
+ be
+ clear
+ with
+ Stargate,
+ this
+
+
+is
+ like
+ the
+ thing
+ that
+ like
+ Trump
+ and
+
+
+Oracle
+ and
+ probably
+ SoftBank
+ is
+ in
+ the
+
+
+middle.
+ Like,
+ what
+ is
+ this
+ complex?
+
+
+Who's
+ behind
+ it?
+ This
+ thing
+ that
+ you
+
+
+went
+ and
+ uh
+ toured
+ and
+ got
+ some
+ drone
+
+
+footage
+ of.
+ So
+ it's
+ essentially
+ a
+ mix
+ of
+
+
+um
+ you
+ know
+ Oracle,
+ OpenAI,
+ there's
+ some
+
+
+involvement
+ from
+ Nvidia,
+ there's
+ Saudi
+
+
+interest
+ with
+ MGX,
+ there
+ is
+ some
+
+
+financing
+ involved
+ and
+ it
+ is
+ just
+ one
+ of
+
+
+uh
+ currently
+ five
+ uh
+ data
+ centers
+ that
+
+
+are
+ planned
+ with
+ a
+ half
+ a
+ trillion
+
+
+dollars
+ of
+ investment.
+ That's
+ why
+ we
+
+
+went
+ and
+ looked
+ at
+ it
+ because
+ when
+ you
+
+
+really
+ think
+ about
+ it,
+ this
+ represents
+
+
+probably
+ the
+ largest
+ infrastructure
+
+
+buildout
+ and
+ effort
+ since
+ World
+ War
+ II.
+
+
+>> Where
+ are
+ they
+ getting
+ the
+ energy
+ from?
+
+
+>> So,
+ that's
+ the
+ that's
+ the
+ best
+ part.
+
+
+That
+ was
+ the
+ first
+ thing
+ we
+ saw
+ in
+ the
+
+
+drone
+ is
+ you
+ fly
+ over
+ it
+
+
+>> and
+ they
+ just
+ built
+ their
+ own
+ natural
+
+
+gas
+ plant
+
+
+>> and
+ going
+ like
+ Joe,
+ great
+ idea.
+ just
+
+
+going
+ and
+ looking
+ at
+ all
+ the
+ but
+ you
+ got
+
+
+to
+ look
+ at
+ the
+ big
+ stuff
+ too,
+ right?
+ And
+
+
+and
+ without
+ uh
+
+
+>> I
+ mean
+ without
+ power
+ these
+ are
+ just
+ kind
+
+
+of
+ you
+ know
+ hunks
+ of
+ metal.
+ So
+
+
+you
+ have
+ outside
+ of
+ Stargate
+ Avalene
+ 10
+
+
+natural
+ gas
+ turbines
+ and
+ the
+ interesting
+
+
+thing
+ is
+ these
+ aren't
+ like
+ the
+ really
+
+
+good
+ natural
+ gas
+ turbines
+ because
+ if
+ you
+
+
+wanted
+ so
+ natural
+ gas
+ turbines
+ follow
+
+
+along
+ simple
+ cycle
+ combined
+ cycle
+ these
+
+
+are
+ simple
+ cycle
+ they're
+ each
+ 35
+
+
+megawatt
+ which
+ is
+ very
+ much
+ on
+ the
+ lower
+
+
+end
+ uh
+ half
+ of
+ them
+ are
+ from
+ G
+ Vernova
+
+
+half
+ of
+ them
+ are
+ from
+ Caterpillar
+ a
+
+
+company
+ that
+ Caterpillar
+ owns
+ called
+
+
+solar
+ turbines
+ and
+ the
+ reason
+ why
+
+
+they're
+ not
+ you
+ would
+ think
+ oh
+ you're
+
+
+spending
+ half
+ a
+ trillion
+ dollars
+ on
+
+
+these
+ things,
+ you
+ could
+ probably
+ get
+ the
+
+
+best
+ thing
+ ever,
+ but
+ that'll
+ take
+ you
+
+
+seven
+ years.
+
+
+>> Oh,
+ right.
+ Because
+ there's
+ a
+ there's
+ a
+
+
+natural
+ gas
+ turbine
+ Yeah.
+ shortage.
+ By
+
+
+the
+ way,
+ there's
+ a
+ headline
+ speak.
+ So,
+
+
+there's
+ a
+ headline,
+ an
+ article
+ on
+ the
+
+
+Bloomberg
+ today
+ by
+ Matthew
+ Griffin.
+ The
+
+
+hunt
+ for
+ winners
+ in
+ the
+ artificial
+
+
+intelligence
+ gold
+ rush
+ has
+ landed
+ on
+ an
+
+
+unlikely
+ target.
+ Oldline
+ industrial
+
+
+equipment
+ maker
+ Caterpillar
+ Inc.
+ So,
+ you
+
+
+got
+ to
+ look
+ at
+ every
+ one
+ of
+ these
+ brands
+
+
+that's
+ uh
+ supplying
+ it.
+ And
+ Caterpillar
+
+
+is
+ up
+ a
+ lot
+ or
+ it's
+ up
+ today
+ and
+ the
+
+
+stock
+ is
+ uh
+ done
+ very
+ well.
+ So,
+ okay,
+
+
+Caterpillar,
+ who
+ else?
+ What
+ are
+ some
+ of
+
+
+the
+ What
+ else
+ do
+ you
+ see
+ besides
+ these
+
+
+big
+ turbines
+ when
+ you
+ go
+ out
+ and
+ tour
+
+
+this
+ facility?
+
+
+>> So,
+
+
+>> oh,
+ this
+ stock
+ is
+ a
+ rocket.
+ So,
+ that's
+
+
+at
+ 40.
+
+
+>> You
+ see
+ any
+ people
+ like
+ security
+ guards?
+
+
+>> So
+ many
+ people,
+
+
+>> huh?
+
+
+>> And
+ I
+ mean,
+ it's
+ there.
+
+
+>> I
+ don't
+ know.
+ you've
+ seen
+ like
+ Silicon
+
+
+Valley
+ and
+ there's
+ that
+ scene
+ where
+
+
+there's
+ like
+ one
+ guy
+ in
+ the
+ data
+ center
+
+
+and
+ he's
+ like,
+ "Yeah,
+ you
+ know,
+ night
+
+
+and
+ day
+ don't
+ really
+ matter
+ much
+ down
+
+
+here
+ and
+ it's
+ just
+ one
+ guy
+ running."
+ But
+
+
+>> in
+ the
+ buildout,
+ I
+ mean,
+ there
+ are
+ every
+
+
+single
+ HVAC
+ technician
+ or
+ guy
+ that
+ knows
+
+
+how
+ to
+ lay
+ fiber
+ or
+ guy
+ that
+ knows
+
+
+electrical
+ or
+ plumbing.
+ Uh
+
+
+>> within
+ a
+ 100
+ mile
+ radius
+ of
+ Abene,
+ those
+
+
+are
+ they're
+ all
+ there,
+ right?
+ There's
+
+
+7,000
+ people
+ working
+ on
+ building
+ this
+
+
+and
+ this
+ is
+ just
+ one
+ site.
+ And
+ uh
+ yeah,
+
+
+>> so
+ people
+ have
+ been
+ talking
+ about
+ the
+
+
+picks
+ and
+ shovels
+ fa
+ phase
+ of
+ AI
+
+
+investment
+ for
+ a
+ while
+ now,
+ but
+ it
+ seems
+
+
+like
+ stuff
+ is
+ still
+ getting
+ built
+ and
+ it
+
+
+has
+ further
+ to
+ run.
+ my
+ kind
+ of
+ favorite
+
+
+we
+ can
+ you
+ know
+ and
+ I'm
+ sure
+ we
+ will
+
+
+discuss
+ whether
+ this
+ is
+ a
+ bubble
+ or
+ not
+
+
+but
+ at
+ the
+ end
+ of
+ the
+ day
+ the
+ money
+ is
+
+
+getting
+ spent
+ and
+ my
+ favorite
+ kind
+ of
+
+
+setup
+ in
+ the
+ market
+ is
+ you
+ have
+
+
+something
+ that
+ has
+ a
+ multiple
+ that
+
+
+reflects
+ kind
+ of
+ a
+ wrong
+ reality
+ or
+
+
+doesn't
+ really
+ fully
+ integrate
+ a
+ secular
+
+
+theme
+ and
+ then
+ you
+ have
+ a
+ cycle
+ that's
+
+
+really
+ bad.
+ So
+ whether
+ it's
+ kind
+ of
+ the
+
+
+robotic
+ supply
+ chain
+ goes
+ throughout
+ the
+
+
+automotive
+ cycle
+ and
+ if
+ you
+ guys
+ are
+
+
+aware
+ that's
+ been
+ a
+ nightmare.
+ Uh
+ and
+
+
+then
+ you
+ have
+ some
+ of
+ these
+ a
+ lot
+ of
+
+
+these
+ companies
+ took
+ really
+ significant
+
+
+draw
+ downs
+ when
+ Trump
+ got
+ elected
+
+
+>> because
+ uh
+ the
+
+
+>> this
+ isn't
+ really
+ tech
+ capex.
+ It's
+ much
+
+
+more
+ similar
+ to
+ like
+ LG
+ terminal
+ capex
+
+
+>> that
+ kind
+ of
+ entails
+ the
+ same
+ companies
+
+
+that
+ were
+ benefiting
+ from
+ the
+ IRA.
+ Oh,
+
+
+interesting.
+
+
+>> So,
+ everyone
+ sold
+ them
+ and
+ now
+ it
+ turns
+
+
+out
+ it's
+ kind
+ of
+ like
+ the
+ horseshoe
+
+
+theory,
+ right?
+ You
+ can
+
+
+>> No,
+ that's
+ super
+ interesting.
+ Like,
+ it's
+
+
+just
+ these
+ sort
+ of
+ like
+ oldline
+
+
+industrials
+ and
+ they
+ did
+ very
+ well
+ under
+
+
+the
+ Obama
+ administration
+ because
+ of
+ all
+
+
+the
+ factories
+ and
+ all
+ that
+ stuff
+ that
+ we
+
+
+talked
+ about
+ and
+ then
+ it's
+ like,
+ okay,
+
+
+we're
+ pulling
+ the
+ plug
+ on
+ this,
+ but
+ now
+
+
+there's
+ just
+ this
+ title
+ wave
+ of
+ money.
+
+
+By
+ the
+ way,
+ Caterpillar
+ was
+ a
+ $334
+ stock
+
+
+on
+ April
+ 2nd,
+ right
+ before
+ Liberation
+
+
+Day,
+ which
+ is
+ sort
+ of
+ where
+ we
+ should
+
+
+benchmark
+ things.
+ now
+ 486
+ at
+ an
+ all-time
+
+
+high.
+ What
+ are
+ some
+ of
+ the
+ other
+
+
+companies
+ you
+ see
+ out
+ there?
+ No,
+ for
+
+
+real,
+ like
+
+
+>> preferably
+ the
+ ones
+ that
+ haven't
+ gone
+ up
+
+
+yet,
+ right?
+
+
+>> Yeah.
+ Well,
+ but
+ seriously,
+ like
+ who
+ else
+
+
+is
+ uh
+ who
+ else
+ is
+ getting
+ a
+ piece
+ of
+
+
+this
+ action?
+
+
+>> So,
+ uh
+ something
+ that
+ I
+ want
+ to
+ make
+
+
+sure
+ I
+ mention
+ just
+ to
+ frame
+ this
+ whole
+
+
+thing,
+ uh
+ if
+ you
+ look
+ at
+ the
+ building
+
+
+site
+ plans,
+ they
+ have
+ the
+ names
+ of
+ all
+
+
+the
+ data
+ halls
+ and
+ they
+ are
+ literally
+
+
+each
+ called
+ Ludicrous
+ Building.
+ So,
+ it's
+
+
+Ludicrous
+ Building
+ One,
+ Ludicrous
+
+
+Building
+ Two.
+ Wait,
+ is
+ it
+ Ludicrous
+ with
+
+
+a
+ K?
+
+
+>> No.
+
+
+>> Oh,
+ that
+ would
+ be
+ great.
+
+
+>> I
+ mean,
+ Ludicrous
+ spelled
+ correctly
+ is
+
+
+also
+ fantastic,
+ but
+
+
+>> uh
+ the
+ compet
+ I
+ mean
+
+
+really
+ I
+ would
+ encourage
+ anyone
+ to
+ go
+
+
+and
+ look
+ at
+ this
+ video
+ because
+ the
+ the
+
+
+it's
+ it's
+ just
+ a
+ there
+ is
+ such
+ a
+
+
+disconnect
+ between
+
+
+looking
+ at
+ green
+ numbers
+ going
+ up
+ like
+
+
+like
+ caterpillar
+ going
+ you
+ okay
+ cool.
+
+
+Yeah.
+ And
+ then
+ you
+ see
+ it
+ and
+ it
+ is
+
+
+mind-blowing.
+ I
+ mean
+ they
+ have
+ rows
+ of
+
+
+uh
+ dry
+ and
+ adiatic
+ coolers
+ that
+ are
+ you
+
+
+know
+ hundreds
+ and
+ hundreds
+ for
+ the
+
+
+liquid
+ cooling
+ loops
+
+
+>> and
+ then
+ you
+ have
+ uh
+ the
+ kind
+ of
+ uh
+ all
+
+
+the
+ HVAC
+ the
+ power
+ generation
+
+
+transmission.
+
+
+>> We
+ compiled
+ a
+ list
+ of
+ basically
+
+
+200
+ companies
+ 50
+ of
+ which
+ were
+ high
+
+
+confidence
+ in
+ in
+ kind
+ of
+ seeing
+ as
+ part
+
+
+of
+ this
+ buildout.
+ And
+ the
+ interesting
+
+
+thing
+ is
+ you
+ have
+ these
+ multinational
+
+
+OEMs.
+
+
+The
+ scale
+ of
+ this
+ project
+ is
+ so
+ large
+
+
+that
+ you
+ can
+ call
+ one
+ of
+ them
+ and
+ say
+
+
+okay
+ we
+ want
+ to
+ go
+ with
+ uh
+ you
+ know
+ uh
+
+
+Mitsubishi
+ heavy
+ or
+ we
+ want
+ to
+ use
+ uh
+
+
+eaten
+ for
+ for
+ this
+ thing
+ and
+ they
+ will
+
+
+say
+ yeah
+ okay
+ well
+ we
+ can
+ do
+ 60%
+ of
+ it.
+
+
+>> I
+ mean
+ it
+ it
+ the
+ biggest
+ companies
+ in
+
+
+the
+ world
+ are
+ are
+ yeah
+
+
+>> they're
+ just
+ fighting
+ they
+ don't
+ have
+ to
+
+
+fight
+ with
+ each
+ other
+ because
+ the
+ pie
+ is
+
+
+so
+ big.
+ how
+ scarce,
+ you
+ know,
+ there's
+
+
+all
+ this
+ um
+ around
+ the
+ country
+ there's
+
+
+been
+ all
+ this
+ tension
+ like
+ is
+ there
+
+
+going
+ to
+ be
+ enough
+ energy
+ for
+ data
+
+
+centers?
+ What
+ about
+ the
+ water?
+ What
+
+
+about
+ the
+ politics?
+ People
+ we
+ see
+ these
+
+
+uh
+ town
+ halls
+ where
+ the
+ locals
+ still
+
+
+want
+ a
+ data
+ center.
+ How
+ scarce
+ are
+
+
+locations
+ like
+ Abolene?
+ I
+ mean,
+ there's
+
+
+a
+ lot
+ of
+ empty
+ space
+ in
+ Texas.
+ Could
+ you
+
+
+see
+ are
+ there
+ more
+ Stargates
+ or
+ more
+
+
+Abalines
+ out
+ there
+ waiting
+ where
+ the
+
+
+companies
+ can
+ just
+ say,
+ you
+ know
+ what,
+
+
+we're
+ just
+ going
+ to
+ build
+ our
+ own
+
+
+infrastructure.
+ we're
+ going
+ to
+ build
+ our
+
+
+own
+ natural
+ gas
+ plant
+ and
+ we're
+ just
+
+
+going
+ to
+ do
+ it
+ in
+ the
+ desert
+ in
+ Texas
+
+
+where
+ we
+ don't
+ have
+ to
+ worry
+ about
+
+
+nimbies
+ or
+ local
+ politics
+ or
+ anything.
+
+
+Is
+ that
+ the
+ future
+ for
+ a
+ lot
+ of
+ this
+
+
+stuff?
+
+
+>> Yeah,
+ there's
+ already
+ another
+ uh
+
+
+facility
+ that's
+ planned
+ in
+ Shackleford,
+
+
+Texas,
+ which
+ is
+ not
+ too
+ far
+ from
+
+
+Abalene.
+ Abalene
+ is
+ already
+ planning
+ on
+
+
+expanding
+ by
+ another
+ 600
+ megawatts.
+ I
+
+
+mean,
+ that's
+ how
+ we're
+ measuring
+ data
+
+
+centers
+ now
+ is
+ is
+ just
+ in
+ megawatts
+ and
+
+
+gigawatts.
+ Uh
+ in
+ Louisiana,
+ that's
+ where
+
+
+Meta
+ is
+ building
+ Hyperion.
+ you
+ have
+ uh
+
+
+some
+ uh
+ unidentified
+ or
+ unannounced
+
+
+Midwest
+ facility
+ that'll
+ probably
+ be
+ in
+
+
+Ohio.
+ Uh
+ basically,
+ yeah,
+ anywhere
+ that
+
+
+you
+ can
+ get
+ the
+ gas,
+ anywhere
+ you
+ can
+
+
+get
+ the
+ power,
+ anywhere
+ that
+ there's
+ the
+
+
+land.
+ Uh
+ there
+ was
+ one
+ planned
+ in
+
+
+Indianapolis.
+ And
+ it's
+ interesting
+ you
+
+
+bring
+ up
+ water
+ cuz
+ we
+ wrote
+ about
+ water
+
+
+a
+ little
+ while
+ ago
+ as
+ well,
+ and
+ we
+ were
+
+
+basing
+ our
+ projections
+ off
+ of
+ what
+ the
+
+
+water
+ consumption
+ of
+ like
+ existing
+ data
+
+
+centers
+ were.
+ The
+ advancements
+ in
+ liquid
+
+
+cooling
+ have
+ changed
+ that
+ a
+ lot.
+ So
+
+
+there
+ was
+ a
+ huge
+ kind
+ of
+ uproar
+ about
+
+
+well
+ this
+ data
+ center
+ is
+ going
+ to
+ use
+ so
+
+
+much
+ water
+ and
+ if
+ you
+ look
+ at
+ it
+ this
+
+
+was
+ in
+ Indianapolis
+ and
+ if
+ you
+ look
+ at
+
+
+it
+ it's
+ about
+ the
+ same
+ amount
+ of
+ water
+
+
+as
+ a
+ thousand
+ households
+ because
+ it's
+
+
+all
+ closed
+ loop
+ liquid
+ cooling
+ now
+ the
+
+
+water
+ just
+ gets
+ recycled
+ and
+ and
+
+
+filtered
+ back.
+ So,
+
+
+it's
+ really
+ just
+ something
+ where
+ the
+
+
+constraint
+ is
+ still
+ power
+ and
+ getting
+
+
+these
+ kind
+ of
+ turbines
+ and
+ it's
+ and
+ and
+
+
+it's
+ going
+ to
+ increasingly
+ become
+ a
+
+
+thing
+ where
+ it's
+ behind
+ the
+ meter
+ power
+
+
+generation.
+
+
+>> They're
+ just
+ going
+ to
+ build
+ their
+ own
+
+
+power
+ plants.
+ They're
+ not
+ going
+ to
+ rely
+
+
+on
+ the
+ grid.
+ You
+ guys
+ remember
+ what
+
+
+happened
+ in
+ Texas
+ in
+ 21
+ with
+ Erica?
+
+
+Yeah.
+ They
+ you
+ cannot
+ underwrite
+ that
+ as
+
+
+a
+ data
+ center.
+
+
+>> Like
+ uh
+ you
+ you
+ just
+ can't
+ be
+ offline.
+
+
+So
+
+
+that's
+ kind
+ of
+ where
+ we're
+ headed
+ is
+
+
+this
+ power
+ and
+ energy
+ kind
+ of
+ bottleneck
+
+
+is
+ the
+ bottleneck.
+ The
+ mo
+ one
+ of
+ the
+
+
+more
+ interesting
+ things
+ we
+ ran
+ across
+ is
+
+
+you
+ look
+ at
+ XAI's
+ data
+ center
+ and
+ we
+
+
+went
+ through
+ a
+ lot
+ of
+ the
+ filings
+ of
+ all
+
+
+these
+ different
+ data
+ centers.
+ are
+
+
+permitted
+ for
+ 15
+ 35
+ megawatt
+ turbines
+
+
+>> and
+ there's
+ thermal
+ imaging
+ of
+ the
+ site
+
+
+that
+ shows
+ they're
+ using
+ 35
+
+
+>> H
+ gnova
+ another
+ one
+ that
+ was
+ a
+ 330
+
+
+>> you're
+ just
+ typing
+ tickers.
+
+
+>> Yeah,
+ that
+ was
+ a
+ $330
+ stock
+ on
+ April
+
+
+2nd.
+ That's
+ a
+ $69
+ stock.
+ So
+ check
+ out
+
+
+Seaman's
+ Energy.
+
+
+>> Thank
+ you,
+ Joe.
+ Oh,
+ he's
+ he's
+ doing
+ it.
+
+
+>> You
+ could
+ you
+ could
+ keep
+ going.
+
+
+>> All
+ right.
+ Um
+ I
+ have
+ kind
+ of
+ this
+ isn't
+
+
+an
+ essential
+ question,
+ but
+
+
+>> Okay,
+ wait.
+ I
+ got
+ it.
+
+
+Hey,
+ Sean.
+ I
+ knew
+ this
+ was
+ going
+ to
+
+
+happen.
+ I
+ know.
+ Seaman's
+ Energy
+ was
+ a
+
+
+$56
+ stock
+ on
+ April
+ 2nd.
+ That's
+ 108.
+
+
+That's
+ a
+ straight
+ lineup.
+ Okay.
+
+
+>> Okay.
+ Clearly,
+ someone's
+ making
+ money.
+
+
+>> Yeah.
+
+
+[Music]
+
+
+Like
+ how
+ big
+ are
+ the
+ walls
+ of
+ these
+
+
+things?
+ And
+ what
+ does
+ security
+ actually
+
+
+look
+ like?
+ Because,
+ you
+ know,
+ we
+ talk
+
+
+about
+ people
+ being
+ upset
+ about
+ higher
+
+
+energy
+ prices.
+ I
+ understand
+ that
+ maybe
+
+
+some
+ of
+ the
+ some
+ of
+ them
+ are
+ building
+
+
+out
+ their
+ own
+ energy
+ capacity,
+ but
+ you
+
+
+know,
+ in
+ a
+ populist
+ mindset,
+ people
+
+
+might
+ still
+ be
+ upset
+ at
+ AI.
+ Still
+ upset
+
+
+that
+ AI
+ is
+ going
+ to
+ take
+ jobs
+ and
+ things
+
+
+like
+ that.
+ They
+ could
+ become
+ targets,
+
+
+right?
+
+
+>> Yeah,
+ absolutely.
+ I
+ I
+ I
+ mean,
+ apparently
+
+
+security
+ isn't
+ tight
+ enough
+ to
+ shoot
+
+
+down
+ a
+ drone
+ yet.
+
+
+>> Oh,
+ of
+ course.
+ Yeah.
+ But
+ when
+ you
+ talk
+
+
+about
+ the
+ walls,
+ like
+ the
+ interesting
+
+
+thing
+ is
+ everything
+ in
+ this
+ data
+ center
+
+
+has
+ you
+ can't
+ just
+ build
+ it
+ like
+ a
+
+
+house.
+
+
+>> Everything
+ needs
+ to
+ have
+ the
+ right,
+ you
+
+
+know,
+ anti-corrosion,
+ uh,
+ insulation.
+
+
+You
+ can't
+ just
+ be
+ losing
+ heat.
+ You're
+
+
+already
+ spending
+ so
+ much
+ money
+ on
+
+
+cooling.
+ So
+ everything
+ in
+ the
+ building
+
+
+envelope
+ is
+ also
+ kind
+ of
+ the
+ most
+
+
+expensive
+ thing
+ it
+ could
+ be.
+
+
+>> And
+ I
+ assume
+ it's
+ like
+ a
+ sealed
+
+
+envelope,
+ I
+ guess.
+
+
+>> Yeah,
+ exactly.
+ and
+ and
+ uh
+ the
+
+
+the
+ opportunity
+ of
+ just
+
+
+how
+ how
+ big
+ is
+ this
+ going
+ to
+ be
+ if
+ you
+
+
+actually
+ believe
+ the
+ the
+ the
+ people
+ that
+
+
+are
+ building
+ this
+ uh
+ and
+ this
+ is
+ kind
+ of
+
+
+an
+ interesting
+ dynamic
+ of
+ the
+
+
+hyperscalers
+ are
+ in
+ somewhat
+ of
+ a
+
+
+prisoner's
+ dilemma.
+ We
+ can't
+ speak
+ to
+
+
+whether
+ they
+ actually
+ uh
+ believe
+ or
+ not,
+
+
+but
+ the
+ party
+ line
+ is
+ we're
+ building
+
+
+machine
+ God.
+
+
+>> And
+ if
+ we're
+ building
+ machine
+ God,
+ then
+
+
+that's
+ kind
+ of
+ a
+ religious
+ zealatry.
+ So
+
+
+uh
+ 3
+ years
+ ago
+ most
+ of
+ these
+
+
+hyperscalers
+ were
+ making
+ net
+ zero
+ by
+
+
+2030.
+ Uh
+ that
+ is
+ not
+ happening.
+ There's
+
+
+no
+ way
+ that's
+ happening.
+ Uh
+ maybe
+ they
+
+
+buy
+ carbon
+ off
+ it
+ but
+ that's
+ not
+
+
+happening
+ because
+ if
+ you
+ need
+ to
+ do
+ it
+
+
+now
+ you're
+ using
+ natural
+ gas.
+
+
+>> And
+
+
+then
+ you
+ say
+ well
+ once
+ we
+ create
+ machine
+
+
+God
+ machine
+ God
+ will
+ fix
+ it
+
+
+>> right
+
+
+>> and
+ you
+ can
+ justify
+ a
+ lot
+ of
+ stuff.
+
+
+>> Wait.
+ Okay.
+ So,
+ let's
+ talk
+ about
+ is
+ AI
+
+
+in
+ a
+ bubble?
+ Cuz
+ when
+ when
+ we're
+
+
+conversing
+ about
+ buildings
+ that
+ are
+
+
+literally
+ called
+ Ludicrous
+ and
+ we're
+
+
+talking
+ about
+ machine
+ God
+ will
+ solve
+ all
+
+
+our
+ problems,
+ sounds
+ a
+ little
+ bubbly.
+
+
+>> Yeah,
+ that's
+ the
+ kind
+ of
+ stuff
+ you
+ look
+
+
+back
+ on
+ and
+ say,
+ "Oh,
+ yeah,
+ that
+ was
+ the
+
+
+top."
+
+
+>> I
+ know
+ that
+ we
+ we
+ have
+ to
+ talk
+ about
+
+
+this
+ and
+ that
+ requires
+ some
+ numbers,
+ so
+
+
+I
+ have
+ some
+ notes.
+ But
+ the
+ interesting
+ I
+
+
+mean
+ you
+ can
+ make
+ a
+ case
+ for
+ either
+ side
+
+
+and
+ it
+ kind
+ of
+ hinges
+ on
+
+
+not
+ so
+ much
+ what
+ AI
+ looks
+ like
+ in
+ the
+
+
+future
+ but
+ more
+ where
+ we
+ are
+ in
+ the
+
+
+cycle.
+ If
+ the
+ question
+ is
+ is
+ AI
+ a
+
+
+bubble?
+ Yeah,
+ probably.
+ It's
+ a
+ new
+
+
+technology.
+ It's
+ exciting.
+ Every
+ single
+
+
+time
+ we've
+ the
+ railroads,
+ the
+ you
+ know
+
+
+com
+
+
+if
+ it's
+ not
+ a
+ bubble,
+ it
+ will
+ be
+ and
+ it
+
+
+probably
+ is
+ already.
+
+
+>> But
+ where
+ are
+ we
+ in
+ the
+ bubble?
+ That's
+
+
+the
+ interesting
+ thing
+ for
+ investors.
+ So
+
+
+if
+ you
+ look
+ at
+ kind
+ of
+
+
+where
+ are
+ we
+ in
+ the
+ financing
+ side?
+ When
+
+
+we
+ had
+ the.com
+ bubble,
+ the
+ big
+ thing
+ uh
+
+
+are
+ you
+ guys
+ familiar
+ with
+ dark
+ fiber?
+
+
+>> No.
+
+
+>> So
+ essentially
+ they
+ were
+ building
+ out
+
+
+this
+ kind
+ of
+ infrastructure
+ for
+ the
+
+
+internet
+ and
+ uh
+ the
+ the
+ conviction
+ of
+
+
+the
+ day
+ was
+ the
+ internet's
+ going
+ to
+ be
+
+
+the
+ biggest
+ thing
+ in
+ the
+ world.
+ Correct.
+
+
+And
+ 97%
+ of
+ the
+ fiber
+ that
+ was
+ laid
+ was
+
+
+called
+ dark
+ fiber
+ because
+ it
+ wasn't
+ lit
+
+
+up.
+ It
+ was
+ just
+ laying
+ there
+ because
+
+
+eventually
+ we're
+ going
+ to
+ need
+ it.
+
+
+That's
+ not
+ the
+ case
+ right
+ now.
+ Every
+
+
+single
+ time
+ that
+ one
+ of
+ these
+ data
+
+
+centers
+ comes
+ online,
+ you're
+ at
+ 100%
+
+
+utilization.
+ There's
+ no
+ dark
+ fiber.
+ And
+
+
+we're
+ continuing
+ to
+ need
+ more.
+ I
+ mean,
+ I
+
+
+don't
+ know if
+ you
+ guys
+ saw
+ Sora
+ 2,
+ more
+
+
+than
+ 70%
+ of
+ the
+ content
+ that
+ we
+ consume
+
+
+is
+ video.
+
+
+>> So,
+ a
+ video
+ model
+ makes
+ a
+ lot
+ of
+ sense.
+
+
+It's
+ also
+ way
+ more
+ computensive.
+ And
+
+
+the
+ the
+ final
+ form
+ of
+ chat
+ AI
+ is
+ not
+
+
+chat
+ bots.
+ It's
+ going
+ to
+ be
+ video.
+ It's
+
+
+going
+ to
+ be
+ robotics
+ which
+ use
+ video
+
+
+models.
+ So
+ that's
+ kind
+ of
+ like
+ the
+ the
+
+
+bullish
+ side,
+ but
+ I
+ totally
+ see
+ I
+ have
+
+
+some
+ numbers
+ here.
+ So
+ we've
+ had
+ some
+ of
+
+
+these
+ circular
+ deals.
+ Um
+
+
+>> and
+ uh
+
+
+>> so
+ far
+ I
+ mean
+
+
+>> there's
+ hundreds
+ of
+ billions
+ of
+ dollars
+
+
+for
+ this.
+ Most
+ of
+ the
+ financing
+ is
+
+
+structured
+ much
+ more
+ like
+ toll
+ roads
+ or
+
+
+or
+ LG
+ terminals.
+ The
+ Meta
+ Hyperion
+ was
+
+
+$29
+ billion.
+ uh
+ 26
+ billion
+ of
+ that
+ was
+
+
+PIMCO
+ on
+ debt
+ and
+ then
+ Blue
+ Owl
+ with
+ 3
+
+
+billion
+ of
+ equity.
+ An
+ offbalance
+ sheet
+
+
+arrangement
+ which
+ also
+ was
+ pretty
+
+
+popular
+ during
+ the
+ com
+ bubble.
+ Then
+ you
+
+
+have
+ stuff
+ like
+ GPU
+ collateralized
+ SPVS.
+
+
+Coreweave
+ has
+ a
+ 7.5
+ billion
+ Blackstone
+
+
+SPV.
+ There's
+ like
+ an
+ 11
+ billion
+ dollar
+
+
+GPUbacked
+ loan
+ market
+ now
+ which
+
+
+compared
+ to
+ the
+ the
+ infrastructure
+ thing
+
+
+I
+ can
+ get
+ the
+ that
+ it's
+ like
+ those
+ GPUs
+
+
+are
+ going
+ to
+ be
+ worth
+ like
+ they
+ will
+
+
+depreciate.
+ So
+
+
+>> that's
+ that's
+ ABS,
+ right?
+ That's
+ like
+
+
+asset
+ back
+ securities.
+ Okay.
+
+
+>> Yeah.
+ But
+ when
+ you
+ look
+ at
+ the
+ where
+ we
+
+
+just
+ saying
+ where
+ are
+ we
+ in
+ the
+ cycle?
+
+
+Well,
+
+
+>> there's
+ been
+ there's
+ been
+ a
+ lot
+ of
+ these
+
+
+off
+ balance
+ sheet
+ arrangements.
+ But
+ in
+
+
+terms
+ of
+ that
+ prisoners
+ dilemma
+ that
+ we
+
+
+spoke
+ about
+ where
+ nobody's
+ going
+ to
+ back
+
+
+off
+ because
+ then
+ maybe
+ they
+ risk
+ not
+
+
+creating
+ machine
+ God.
+ The
+ debt
+ to
+ equity
+
+
+ratio
+ on
+ most
+ of
+ the
+ hyperscalers
+ is
+ not
+
+
+crazy.
+ Sure,
+
+
+>> Oracle
+ has
+ the
+ highest
+ and
+ but
+ they
+
+
+still
+ have
+ a
+ lot
+ of
+ room
+ to
+ lever
+ up
+ in
+
+
+pursuit
+ of
+ this
+ goal.
+ The
+ interesting
+
+
+kind
+ of
+ dynamic
+ of
+ Nvidia
+ finances
+ its
+
+
+customers
+ and
+ then
+ its
+ customers
+ buy
+
+
+Nvidia
+ GPUs
+ and
+ then
+ you
+ know
+ that
+ yeah
+
+
+that's
+ a
+ bubble
+ dynamic
+ that's
+ that's
+
+
+visible
+ circular
+ financing
+ and
+ and
+ but
+
+
+the
+ demand
+ is
+ real.
+ Well,
+ this
+ is
+ my
+
+
+this
+ is
+ I
+ guess
+ the
+ question.
+ If
+ the
+
+
+demand
+ is
+ real,
+ why
+ are
+ the
+ Nvidia
+ of
+
+
+the
+ world
+ financing
+ their
+ customers,
+
+
+right?
+ Intuitively,
+ you
+ think,
+ okay,
+
+
+Nvidia's
+ the
+ demand
+ for
+ chips
+ is
+ maxed
+
+
+out,
+ right?
+ Then
+ intuitively,
+ you
+ think,
+
+
+well,
+ then
+ there's
+ plenty
+ of
+ money
+
+
+elsewhere.
+ So,
+ do
+ you
+ have
+ a
+ uh
+ guess
+
+
+for
+ why
+ Nvidia
+ is
+ impelled
+ to,
+ you
+ know,
+
+
+invest
+ in
+ OpenAI,
+ invest
+ in
+ Corewave?
+
+
+It's
+ been
+ a
+ long
+ time
+ investor
+ in
+
+
+Cororeweave
+ and
+ so
+ forth.
+ Yeah,
+ I
+ I
+
+
+could
+ I
+ could
+ take
+ the
+ very
+ skeptical
+
+
+view
+ or
+ the
+ kind
+ of
+ not
+ skeptical
+ view.
+
+
+The
+ not
+ skeptical
+ view
+ is
+ the
+ best
+ thing
+
+
+for
+ Nvidia
+ is
+ that
+ we
+ accomplish
+ AGI.
+
+
+So,
+ anything
+ that
+ it
+ can
+ do
+ to
+ get
+ us
+
+
+closer
+ to
+ that
+ massive
+ massive
+
+
+infrastructure
+ that's
+ required
+ for
+ that
+
+
+is
+ great
+ for
+ them
+
+
+>> as
+ quickly
+ as
+ possible.
+
+
+>> As
+ quickly
+ as
+ possible
+ because
+ uh
+ every
+
+
+year
+ that
+ you
+ don't
+ achieve
+ AGI
+ becomes
+
+
+less
+ likely.
+ So,
+ uh,
+ that
+ is
+ maybe
+ the
+
+
+core
+ factor.
+ And
+ then
+ there's
+
+
+>> it's
+ good
+ for
+ for
+ them
+ and,
+ uh,
+ the
+ the
+
+
+and
+ playing
+ into
+ that
+
+
+>> the
+ because
+ this
+ this
+ isn't
+ necessarily
+
+
+like
+ the
+ dot
+ bubble
+ because
+ the.com
+
+
+bubble
+ had
+ fiber
+ and
+ then
+ it
+ had,
+ you
+
+
+know,
+ pets.com
+ and
+ and
+ Amazon
+ and
+ all
+
+
+that
+ stuff.
+ This
+ is
+ all
+ pretty
+ much
+
+
+capex,
+ right?
+ Tech
+ is
+ capital
+ intensive
+
+
+again,
+ which
+ means
+ that
+ it's
+ the
+ bust
+
+
+won't
+ necessarily
+ be
+ like
+ the.com
+ bubble
+
+
+where
+ it
+ gives
+ the
+ real
+ players
+ time
+ to
+
+
+shine.
+ If
+ the
+ capex
+ spending
+ grinds
+ to
+ a
+
+
+halt
+ because
+ the
+ market
+ goes
+ down,
+
+
+that's
+ the
+ worst
+ thing
+ in
+ the
+ world.
+ So,
+
+
+in
+ a
+ way,
+ it's
+ also
+ it's
+ in
+ their
+
+
+interest
+ obviously
+ to
+ make
+ sure
+ that
+
+
+that
+ doesn't
+ happen.
+
+
+Another
+
+
+[Music]
+
+
+question
+ actually
+ but
+ and
+ I
+ want
+ to
+ ask
+
+
+it
+ now
+ because
+ I
+ might
+ forget.
+ Um
+ there
+
+
+was
+ a
+ headline
+ I
+ think
+ earlier
+ this
+ week
+
+
+again
+ headlines
+ almost
+ every
+ day.
+ Can
+
+
+you
+ explain
+ why
+ Meta
+ which
+ is
+ building
+
+
+out
+ which
+ obviously
+ hyperscaler
+ they
+
+
+have
+ tons
+ of
+ data
+ center
+ capacity.
+ Why
+
+
+do
+ they
+ need
+ to
+ do
+ a
+ deal
+ with
+
+
+coreweave?
+ So
+ I
+ saw
+ that
+ meta
+ is
+ going
+
+
+to
+ uh
+ pay
+ a
+ few
+ bill
+ 14
+ billion
+ some
+
+
+number
+ for
+ capacity
+ on
+ core.
+ What
+ can
+
+
+the
+ what
+ do
+ the
+ neoclouds
+ bring
+ to
+ the
+
+
+table
+ such
+ that
+ the
+ legacy
+ is
+ like
+ you
+
+
+know what
+ we
+ we
+ want
+ some
+ of
+ your
+
+
+capacity?
+
+
+>> It's
+ basically
+ I
+ would
+ say
+
+
+anything
+ you
+ can
+ do
+ to
+ shift
+ that
+ capex
+
+
+away
+ from
+ yourself
+ is
+ is
+ great.
+ Right?
+
+
+If
+ if
+ you're
+ if
+ you're
+ right
+ now
+ a
+ lot
+
+
+of
+ this
+ stuff
+ is
+ funded
+ from
+ cash
+ flow
+
+
+and
+ yeah,
+ we're
+ starting
+ to
+ see
+ debt
+
+
+financing
+ take
+ its
+ place,
+ but
+
+
+if
+ you
+ the
+ the
+ you're
+ running
+ a
+ company
+
+
+that's
+ existed
+ for
+ a
+ while
+ and
+ is
+ one
+ of
+
+
+the
+ biggest
+ companies
+ in
+ the
+ world
+ and
+
+
+yes,
+ you
+ could
+ justify
+ taking
+ inordinate
+
+
+amount
+ amounts
+ of
+ risk
+ to
+ do
+ this,
+ but
+
+
+just
+ like
+ anyone
+ else,
+ if
+ you
+ have
+ a
+
+
+goal
+ and
+ you
+ can
+ kind
+ of
+ shift
+ away
+ some
+
+
+of
+ that
+ risk
+ to
+ because
+ if
+ you
+ know,
+ if
+
+
+Cororeweave
+ goes
+ bankrupt,
+ Meta's
+ not
+
+
+it's
+ not
+ it's
+ not
+ the
+ worst
+ thing
+ in
+ the
+
+
+world
+ for
+ Meta.
+ What
+ would
+ you
+ be
+
+
+looking
+ out
+ for
+ for
+ signs
+ of
+ the
+ bubble
+
+
+bursting
+ or
+ I
+ guess
+ the
+ capex
+ um
+ faucet
+
+
+starting
+ to
+ turn
+ off?
+
+
+>> So,
+ in
+ terms
+ of
+ like
+ the
+ uh
+ warning
+
+
+signs
+ first,
+ monitoring
+ used
+ GPU
+ prices,
+
+
+I
+ think
+ is
+ a
+ great
+ way
+ to
+ to
+ see
+ what's
+
+
+going
+ on.
+ Seeing
+ like
+ contract
+
+
+renegotiations,
+ waiver
+ headlines
+ from
+
+
+private
+ credit,
+ and
+ also
+ a
+ big
+ one
+ would
+
+
+be
+ any
+ delays
+ in
+ delivering
+ power.
+ uh
+
+
+make
+ it
+ so
+ that
+ you
+ finance
+ this
+ thing
+
+
+and
+ then
+ it's
+ not
+ going
+ to
+ be
+ able
+ to
+
+
+work
+
+
+>> right.
+ I
+ do
+ think
+ that
+ another
+ in
+ you
+
+
+really
+ do
+ have
+ to
+ kind
+ of
+ index
+ to
+ the
+
+
+revenue
+ that's
+ being
+ generated
+ by
+ the
+ AI
+
+
+companies
+ as
+ well.
+ And
+ I
+ don't
+ you
+ saw
+
+
+OpenAI
+ recently
+ announced
+ that
+ they're
+
+
+uh
+ basically
+ allowing
+ you
+ to
+ buy
+ things
+
+
+with
+ one
+ click
+ from
+ the
+ inside
+ the
+ app.
+
+
+Mhm.
+
+
+>> And
+ I
+ think
+ that
+ that
+ was
+ also
+ a
+ big
+ uh
+
+
+driving
+ factor
+ in
+ the
+ router
+ where
+ they
+
+
+kind
+ of
+ route
+ your
+ model
+ to
+ the
+ it's
+
+
+it's
+ it's
+ setting
+ it
+ up
+ for
+ advertising
+
+
+cuz
+ the
+ other
+ day
+ I
+ asked
+ Google
+ a
+
+
+pretty
+ simple
+ question
+ and
+ it
+ just
+ gave
+
+
+me
+ the
+ answer
+
+
+>> with
+ no
+ advertisements
+ delivered
+ to
+ me.
+
+
+So
+ we
+ need
+ to
+ I
+ think
+ that
+ there
+ is
+ the
+
+
+killer
+ apps
+ kind
+ of
+ are
+ here
+ or
+ coming
+
+
+but
+ that
+ has
+ to
+ happen
+ fast.
+
+
+>> Yeah.
+ the
+ um
+ the
+ fact
+ that
+ the
+ internet
+
+
+kind
+ of
+ runs
+ on
+ ads
+ is
+ an
+
+
+underappreciated
+
+
+reality
+ of
+ our
+ world
+ and
+ we
+ did
+ an
+
+
+episode
+ on
+ it
+ way
+ way
+ back
+ in
+ the
+ day.
+
+
+Is
+ there
+ any
+ way
+ if
+ I
+ wanted
+ to
+ get
+
+
+exposure
+ to
+ like
+ the
+ good
+ stuff
+ of
+ AI,
+
+
+the
+ actual
+ money
+ being
+ spent,
+ but
+ then
+ I
+
+
+don't
+ like
+ all
+ the
+ circular
+ financing
+
+
+arrangements.
+ Is
+ there
+ a
+ way
+ to
+ hedge
+
+
+that
+ particular
+ risk?
+ Yeah,
+ you
+ could
+ uh
+
+
+you
+ could
+ uh
+ buy
+ all
+ the
+ real
+ companies
+
+
+that
+ are
+ building
+ this
+ kind
+ of
+ uh
+ data
+
+
+center
+ and
+ then
+ you
+ could
+ short
+ Blue
+ Owl
+
+
+and
+ the
+ private
+ credit
+ companies
+ that
+
+
+are
+ doing
+ the
+ kind
+ of
+ uh
+ financing
+
+
+aspect
+ of
+ it
+ because
+ if
+ it
+ goes
+ bad,
+
+
+they
+ have
+ limited
+ upside
+ and
+ kind
+ of
+
+
+unlimited
+ downside.
+ And
+ if
+ it
+ continues
+
+
+happening,
+ the
+ companies
+ that
+ are
+
+
+actually
+ building
+ it
+ have
+ unlimited
+
+
+upside
+ and
+ they're
+ still
+ like
+ you
+ said,
+
+
+these
+ old
+ line
+ uh
+ kind
+ of
+ industrial
+
+
+that
+ like
+ they
+ still
+ have
+ a
+ core
+
+
+business
+ to
+ go
+ back
+ to.
+ What's
+ your
+ take
+
+
+on
+ so
+ OpenAI
+ announced
+ its
+ new
+ Sora
+
+
+thing
+ that
+ Tracy
+ has
+ a
+ code
+ for.
+ Meta
+
+
+announced
+ its
+ Meta
+ AI
+ which
+ a
+ lot
+ of
+
+
+people's
+ like
+ this
+ is
+ slop
+ and
+ I
+ don't
+
+
+we
+ don't
+ need
+ to
+ get
+ into
+ a
+ debate
+ about
+
+
+whether
+ this
+ is
+ all
+ garbage.
+ I
+ kind
+ of
+
+
+think
+ it
+ is
+ but
+ that's
+ not
+ actually
+ the
+
+
+question
+ I'm
+ interested
+ in.
+ The
+ question
+
+
+I'm
+ interested
+ in
+ is
+ one
+ way
+ to
+ view
+
+
+these
+ things
+ is
+ you
+ know
+ what
+ these
+ are
+
+
+going
+ to
+ be
+ these
+ video
+ these
+ AI
+ videos
+
+
+are
+ going
+ to
+ be
+ really
+ important
+ sort
+ of
+
+
+business
+ revenue
+ drivers
+ in
+ our
+ pursuit
+
+
+to
+ AGI
+ and
+ the
+ other
+ view
+ is
+ look
+ if
+
+
+they
+ were
+ close
+ to
+ AGI
+ they
+ would
+ not
+ be
+
+
+devoting
+ time
+ to
+ the
+ slot
+ factories
+ and
+
+
+this
+ is
+ the
+ sort
+ of
+ question
+ and
+ I'm
+
+
+curious
+ from
+ your
+ perspective
+ what
+ do
+
+
+you
+ think
+ is
+ the
+ real
+ logic
+ behind
+ all
+
+
+of
+ this
+ effort
+ to
+ create
+ these
+ sort
+ of
+
+
+you
+ know
+ dumb
+ like
+ oh
+ a
+ video
+ of
+ a
+
+
+astron
+ not
+ riding
+ a
+ horse
+ through
+ space
+
+
+with
+ a,
+ you
+ know,
+ cowboy
+ hat
+ on
+ or
+
+
+whatever.
+
+
+>> Video
+ models
+ are
+ going
+ to
+ become
+ the
+
+
+most
+ important
+ part
+ of
+ this.
+ You
+ uh
+ you
+
+
+need,
+ for
+ example,
+ LLMs
+ don't
+ really
+
+
+interact
+ with
+ the
+ world,
+
+
+>> but
+ we're
+ starting
+ to
+ see
+ in
+ robotics
+ AI
+
+
+models
+ interact
+ with
+ the
+ world.
+ So
+ you
+
+
+have
+ these
+ video
+ language
+ action
+ models
+
+
+and
+ you
+ can
+ structure
+ it
+ so
+ that
+ there
+
+
+was
+ a
+ interesting
+ paper
+ on
+ archive
+
+
+recently
+ that
+ uh
+ and
+ you
+ know
+ this
+ is
+ uh
+
+
+video
+ models
+ like
+ V3
+ are
+ emergent
+
+
+zerosot
+ learners
+ and
+ understanders
+ and
+
+
+what
+ that
+ just
+ means
+ is
+ you
+ can
+ give
+ it
+
+
+uh
+ basically
+ like
+ a
+ second
+ of
+ context
+
+
+and
+ then
+ it
+ can
+ extrapolate
+ about
+ what's
+
+
+going
+ on
+ beyond
+ that
+ becomes
+ extremely
+
+
+important
+ for
+ robotics
+ and
+ you
+ can
+
+
+structure
+ these
+ vision
+ language
+ action
+
+
+models
+ where
+ you
+ have
+ uh
+ like
+ a
+ slow
+
+
+reasoning
+ model
+ that
+ is
+ kind
+ of
+ like
+
+
+your
+ conscious
+ mind
+ and
+ determines
+ what
+
+
+it
+ needs
+ to
+ do
+ and
+ then
+ you
+ have
+ like
+ a
+
+
+fast
+ model
+ that
+ actually
+ does
+ the
+
+
+movements
+ and
+ stuff.
+ AI
+ kind
+ of
+ extends
+
+
+into
+ the
+ realm
+ of
+
+
+you
+ need
+ to
+ generate
+ as
+ much
+ data
+ as
+
+
+possible
+ and
+ having,
+ you
+ know,
+ video
+
+
+data
+ and
+ knowing
+ what's
+ good
+ and
+ what's
+
+
+bad
+ is
+ also
+ very
+ important.
+ But
+ yeah,
+ to
+
+
+your
+ question,
+ Open
+ AI
+ probably
+ does
+
+
+want
+ to
+ show
+ that
+ they're
+ making
+ more
+
+
+money.
+ And
+ I
+ don't
+ doubt
+ that
+ there
+ are
+
+
+people
+ there
+ that
+ truly
+ believe
+ that
+
+
+they're
+ building
+ the
+ machine
+ god.
+ And
+ I
+
+
+also
+ don't
+ doubt
+ that
+ they
+ realize
+ if
+
+
+they
+ to
+ have
+ a
+ shot
+ at
+ doing
+ that,
+ they
+
+
+need
+ the
+ market
+ to
+ play
+ along
+ and
+ they
+
+
+need
+ to
+ keep
+ growing
+ their
+ revenues.
+ So
+
+
+I
+ think
+ there's
+ a
+ lot
+ of
+ really
+ good
+
+
+counterarguments
+ about
+ like
+ not
+
+
+necessarily
+ are
+ we
+ in
+ a
+ bubble?
+ Yes.
+ Uh
+
+
+is
+ the
+ bubble
+ over?
+ Like
+ there
+ are
+ good
+
+
+arguments
+ for
+ that.
+ I
+ don't
+ think
+ one
+ of
+
+
+the
+ I
+ don't
+ think
+ that
+ oh
+ well
+ they're
+
+
+leaning
+ into
+ like
+ kind
+ of
+ this
+ slops
+
+
+that
+ you
+ know
+ it's
+ a
+ company.
+ They're
+
+
+going
+ to
+ do
+ whatever
+ they
+ can
+ to
+ make
+
+
+money.
+ That's
+ capitalism.
+
+
+>> Um,
+ you
+ know,
+ one
+ of
+ the
+ things
+ I
+ think
+
+
+about
+ another
+ reality
+ of
+ our
+ current
+
+
+time,
+ this
+ is
+ kind
+ of
+ related,
+ but
+ if
+
+
+we're
+ talking
+ about
+ video
+ data,
+ YouTube
+
+
+staying
+ power
+ has
+ been
+ like
+ phenomenal,
+
+
+right?
+ It's
+ been
+ around
+ for
+ decades
+ now,
+
+
+and
+ we
+ haven't
+ really
+ seen
+ any
+
+
+successful
+ competitors.
+
+
+>> Anyway,
+
+
+>> well,
+ since
+ uh
+ we
+ wanted
+ to
+ talk
+ about
+
+
+stocks
+ that
+ are
+ going
+ up,
+ I
+ I
+ know
+
+
+>> that's
+ another
+ one.
+
+
+Uh
+
+
+people
+ kind
+ of
+ forgot
+ that
+ video
+ takes
+
+
+up
+ a
+ lot
+ more
+ storage
+ than
+ text
+ does.
+
+
+And
+ if
+ we're
+ going
+ to
+ start
+ just
+ like
+
+
+throwing
+ out
+ the
+ slop
+ on
+ video,
+ the
+ part
+
+
+basically
+ one
+ of
+ the
+ only
+ areas
+ of
+
+
+semiconductors
+ that
+ has
+ gotten
+ ignored
+
+
+has
+ been
+ storage.
+ Not
+ like
+ not
+ like
+
+
+memory
+ like
+ like
+ uh
+ RAM
+ and
+ stuff,
+ but
+
+
+like
+ hard
+ drives
+ and
+ solid
+ state
+ discs
+
+
+like
+ Western
+ Digital
+ and
+ uh
+ you
+ know.
+
+
+>> Okay.
+ So
+ Seagate.
+
+
+>> Yeah.
+
+
+>> That's
+ what
+ we're
+ talking
+ about.
+ So
+ this
+
+
+was
+ a
+ this
+ was
+ a
+ $84
+ stock
+ in
+ late
+ March
+
+
+and
+ now
+ it's
+ a
+ 254.
+ That's
+ where
+ you're
+
+
+going,
+ right?
+ Okay.
+
+
+>> Yeah.
+ And
+ yeah,
+ there's
+ a
+ crazy
+ there's
+
+
+a
+ crazy
+ chart,
+
+
+>> but
+ it
+ has
+ gotten
+ attention,
+ but
+ you
+
+
+think
+ it
+ could
+ go
+ up
+ more.
+
+
+>> I
+ think
+ so.
+ And
+ I
+ think
+ that
+ uh
+ to
+
+
+illustrate
+ that
+ dynamic
+ that's
+ going
+ to
+
+
+keep
+ happening.
+ Basically,
+ you
+ just
+ keep
+
+
+looking
+ at
+ stuff
+ where
+ there's
+ people
+
+
+say,
+ "Oh,
+ well,
+ you
+ know,
+ there's
+ a
+
+
+there's
+ a
+ glut
+ of
+ X
+ and
+ that's
+ why
+ this
+
+
+isn't
+ going
+ to
+ win
+ from
+ AI."
+ And
+ then
+
+
+eventually
+ the
+ glut
+ of
+ X
+ doesn't
+ matter.
+
+
+It's
+ a
+ that
+ that's
+ what
+ happened
+ to
+
+
+Nvidia
+ in
+ the
+ beginning
+ of
+ all
+ this.
+
+
+There
+ was
+ a
+ glut
+ of
+ crypto
+ GPUs
+ and
+ now
+
+
+nobody
+ car
+ like
+ when's
+ the
+ last
+ time
+ you
+
+
+heard
+ someone
+ bearish
+ on
+ Nvidia
+ because
+
+
+there's
+ too
+ many
+ crypto
+ miners.
+
+
+>> SanDisk
+ was
+ $48
+ in
+ April
+ 2nd.
+ That's
+
+
+$126
+ stock.
+ Pretty
+ crazy.
+ These
+ are
+ just
+
+
+these
+ are
+ like
+ just
+ the
+ tools
+ are
+ just
+
+
+store
+ just
+ basic.
+ Yeah.
+
+
+>> Yeah.
+ Crazy.
+
+
+>> It's
+ it
+ is.
+ And
+ uh
+ it's
+ it
+ I
+ guess
+ you
+
+
+could
+ be
+ worried
+ by
+ that
+ or
+ you
+ could
+
+
+say
+ this
+ isn't
+ uh
+ this
+ isn't
+ like
+ Nvidia
+
+
+doubling
+ in
+ a
+ month
+ necessarily,
+ right?
+
+
+That
+ it's
+ just
+ people
+ discovering
+ I
+
+
+think
+ it's
+ a
+ good
+ barometer
+ which
+ is
+
+
+important
+ in
+ a
+ bubble
+ that
+ people
+ are
+
+
+still
+ paying
+ very
+ close
+ attention
+
+
+>> and
+ uh
+ you
+ start
+ to
+ get
+ worried
+ when
+
+
+everybody
+ just
+ goes
+ into
+ the
+ Cisco
+ of
+ it
+
+
+all.
+ But
+ these
+ are
+ real
+ companies
+ that
+
+
+have
+ real
+ products.
+ Of
+ course,
+ there's
+
+
+some
+ silly
+ stuff
+ that's
+ happening,
+ but
+
+
+it's
+ not
+ only
+ silly
+ stuff.
+ It's
+ not
+ 2021
+
+
+with
+ the,
+ you
+ know,
+
+
+>> yeah,
+
+
+>> I
+ don't
+ need
+ to.
+
+
+>> So,
+ speaking
+ of
+ on
+ the
+ ground
+ research,
+
+
+or
+ maybe
+ I
+ should
+ say
+ in
+ the
+ sky
+
+
+research.
+ When
+ it
+ comes
+ to
+ robotics,
+ you
+
+
+had
+ a
+ robot
+ dog,
+ right?
+ One
+ of
+ those
+
+
+like
+ really
+ advanced
+ ones.
+
+
+>> We
+ got
+ a
+ unitry
+ robot
+ dog.
+ It
+ is
+ super
+
+
+impressive.
+ It's
+ also
+ incredibly
+ creepy
+
+
+when
+ it
+ stands
+ up
+ on
+ its
+ hind
+ legs.
+
+
+>> Yeah.
+ Have
+ you
+ seen
+ the
+ video?
+
+
+>> Yeah,
+ I
+ saw
+ your
+ video
+ of
+ it.
+ Yeah.
+
+
+>> It's
+ uh
+ and
+
+
+Unitry.
+ We
+ went
+ and
+ visited
+ Unitry,
+ too.
+
+
+And
+ it's
+ I've
+ seen
+ Boston
+ Dynamics
+ uh
+
+
+you
+ know,
+ spot
+ robot,
+ which
+ is
+ actually
+
+
+more
+ impressive.
+ Also
+ could
+ probably
+
+
+murder
+ you
+ like
+ and
+ and
+ the
+ interesting
+
+
+thing
+ about
+ Unitry
+ is
+ yeah,
+ this
+ the
+
+
+robot
+ kind
+ of
+ feels
+ like
+ a
+ weapon.
+ It's
+
+
+very
+ heavy
+ and
+ stuff,
+ but
+ it's
+ even
+
+
+they're
+ humanoid
+ like
+ it
+ can't
+ lift
+ more
+
+
+than
+ 8
+ pounds.
+ And
+ also,
+ Unitry
+ is
+ not
+
+
+focused
+ on
+ like
+ making
+ the
+ brain.
+ They
+
+
+just
+ want
+ to
+ make
+ the
+ hardware.
+ And
+ you
+
+
+go
+ there
+ and
+
+
+they
+ were
+ like,
+ "Where's
+ your
+ LAR
+ from?"
+
+
+Oh,
+ well,
+ we
+ needed
+ this
+ specific
+ thing,
+
+
+so
+ we
+ just
+ made
+ it
+ ourselves.
+
+
+>> H
+
+
+>> Okay.
+ Where
+ what
+ about
+ your
+ actuators?
+
+
+Well,
+ we
+ made
+ those
+ ourselves,
+ too.
+
+
+Anything
+ that
+ they
+ don't
+ make
+
+
+themselves,
+ they
+ get
+ within
+ a
+ 90
+ km
+
+
+radius
+ of
+ their
+ headquarters.
+
+
+>> Wait,
+ where's
+ their
+ headquarters?
+ It's
+
+
+in
+ uh
+ Hanghao.
+
+
+>> Nice.
+
+
+>> So,
+ it's
+ something
+ where
+ you're
+ really
+
+
+that's
+ the
+ competition
+ that
+ we
+ have
+
+
+stacked
+ up
+ against
+ us
+ in
+ the
+ US
+ versus
+
+
+China.
+ And
+
+
+>> I
+ think
+ the
+ interesting
+ route
+ that
+
+
+they've
+ taken
+ is
+
+
+>> it's
+ super
+ advanced.
+ You
+ can
+ code
+ on
+ it.
+
+
+You
+ can
+ you
+ can
+ already
+ see
+ videos
+ of
+
+
+people,
+ you
+ know,
+ buying
+ them
+ and
+ making
+
+
+them
+ do
+ specific
+ things.
+ But
+ they
+ made
+
+
+them
+ not
+ super
+ like
+ it's
+ not
+ going
+ to
+
+
+kill
+ you.
+ And
+ that's
+ a
+ great
+ way
+ to
+ get
+
+
+a
+ bunch
+ of
+ training
+ data
+ because
+ we
+
+
+don't
+ have
+ enough
+ training
+ data
+ of
+ what
+
+
+it's
+ like
+ to
+ move
+ around
+ the
+ world.
+ We
+
+
+have
+ the
+ sum
+ history
+ of
+ all
+ human
+
+
+knowledge
+ that's
+ been
+ recorded
+ for
+ text
+
+
+models,
+ but
+ we
+ need
+ more
+ data
+ for
+
+
+robotics.
+ And
+ I
+ think
+ that
+ that's
+ like
+
+
+an
+ interesting
+ kind
+ of
+ thing
+ where
+
+
+they're
+ just
+ kind
+ of
+ sending
+ these
+ out
+
+
+into
+ the
+ world
+ so
+ that
+ they
+ can
+ get
+
+
+enough
+ data
+ to
+ actually
+ make
+ it
+ safe
+
+
+enough
+ to
+ have
+ a
+ robot
+ in
+ your
+ house.
+
+
+>> How
+ can
+ anyone
+ buy
+ a
+ unit
+ dog?
+ Like
+ are
+
+
+they
+ for
+ is
+ for
+ sale
+ online?
+ Yeah,
+ there
+
+
+there's
+ a
+ lead
+ time,
+ but
+ uh
+ I
+ can
+ get
+
+
+around
+ it
+ if
+ you
+
+
+>> Wait,
+ how
+ much
+ are
+ they?
+
+
+>> Uh
+ so
+ they
+ start
+ at
+ uh
+ 3,000
+ and
+ then
+ uh
+
+
+we
+ got
+ the
+ the
+ super
+ advanced
+ one
+ that
+
+
+you
+ can
+ attach
+ a
+ robotic
+ arm
+ to
+ so
+ it
+
+
+can
+ manipulate
+ its
+ environment
+ and
+ that
+
+
+was
+ $8,000.
+ And
+ then
+ their
+ humanoid
+ is
+
+
+16,
+ which
+ is
+ like
+ less
+ than
+ the
+ cost
+ of
+
+
+a
+ used
+ Honda.
+
+
+>> That's
+ not
+ bad.
+
+
+>> Well,
+ 3,000
+ also
+ the
+ price
+ for
+ like
+ a
+
+
+really
+ good
+ purebred
+ dog.
+
+
+>> Well,
+ that's
+ what
+ I
+ was
+ going
+ to
+ say.
+
+
+Like
+ right
+ there
+ people
+ pay
+ a
+ lot
+ of
+
+
+money
+ for
+ actual
+ dogs.
+ So
+ yeah,
+ it
+ seems
+
+
+>> Why
+ are
+ you
+ looking
+ at
+ me?
+
+
+>> Why
+ do
+ you
+ think
+ I'm
+ looking
+ at
+ you?
+
+
+>> Okay,
+ James,
+ that
+ was
+ so
+ much
+ fun.
+ Thank
+
+
+you
+ so
+ much
+ for
+ coming
+ in
+ and
+ uh
+ sharing
+
+
+with
+ us
+ your
+ your
+ field
+ trip
+
+
+observations.
+
+
+>> Thanks,
+ Rob.
+
+
+[Music]
+
+
+Joe,
+ I
+ think
+ maybe
+ it's
+ the
+ cynical
+
+
+journalist
+ in
+ me,
+ but
+ I
+ get
+ really
+
+
+nervous
+ when
+ we
+ start
+ saying
+ it's
+
+
+different
+ this
+ time.
+
+
+>> Yeah.
+ I
+ mean,
+ it's
+ always
+ different.
+
+
+It's
+ always
+ the
+ same.
+ It's
+ sort
+ of
+ there
+
+
+certainly,
+ you
+ know.
+ Yeah.
+ I
+ mean,
+ look,
+
+
+it's
+ crazy
+ and
+ it's
+ a
+ lot
+ of
+ money
+ and
+
+
+it's
+ still,
+ you
+ know,
+ we've
+ been
+ asking
+
+
+people
+ on
+ the
+ podcast,
+ what
+ kind
+ of
+ use
+
+
+value
+ are
+ you
+ getting
+ out
+ of
+ this
+
+
+technology?
+ And
+ it's
+ still
+ very
+
+
+ambiguous.
+ Um,
+
+
+>> I
+ don't
+ know.
+ I
+ don't
+ have
+ It's
+ not
+ my
+
+
+job
+ to
+ time
+ the
+ market.
+ So,
+ I'm
+ glad
+ I
+
+
+don't
+ have
+ to
+ have
+ a
+ view
+ on
+ all
+ of
+ this
+
+
+stuff.
+ But
+ I
+ do
+ think
+
+
+>> that's
+ a
+ copout,
+ Joe.
+
+
+>> No,
+ I
+ do
+ think
+ I
+ do
+ think
+ for
+ Okay,
+
+
+what's
+ your
+ Okay,
+ give
+ us
+ your
+ Give
+ us
+
+
+your
+ price
+ target.
+ You
+ That's
+ a
+ Okay,
+
+
+give
+ give
+ us
+ your
+ price
+ target.
+ Okay.
+
+
+Um,
+ I
+ do
+ think
+ this
+ is
+ moving
+ so
+ fast
+
+
+and
+ every
+ day
+ the
+ numbers
+ are
+ so
+ big
+ and
+
+
+it's
+ the
+ stakes
+ are
+ so
+ high
+ for
+ all
+ of
+
+
+this
+ that
+ it
+ does
+ feel
+ like
+ we
+ just
+ need
+
+
+regular
+ updates
+ on
+ the
+ state
+ of
+ how
+ much
+
+
+money
+ is
+ being
+ spent
+ in
+ this
+ area
+ and
+
+
+what
+ the
+ eventual
+ payoff
+ will
+ be.
+
+
+>> I
+ want
+ someone
+ to
+ draw
+ a
+ massive
+ like
+
+
+infographic
+ of
+ all
+ the
+ financing
+ details
+
+
+because
+ I
+ think
+ you
+ could
+ make
+ a
+ really
+
+
+interesting
+ one.
+
+
+>> Yeah,
+ you
+ definitely
+ could.
+
+
+>> That
+ would
+ probably
+ be
+ illuminating.
+ On
+
+
+that
+ note,
+ I
+ did
+ think
+ James'
+ suggestion
+
+
+of,
+ you
+ know,
+ shorting
+ the
+ private
+
+
+credit
+ players
+ and
+ then
+ going
+ long
+ the
+
+
+actual
+ physical
+ hardware
+ ones.
+ That
+ was
+
+
+interesting.
+
+
+>> Yeah.
+ No,
+ it's
+ really
+ interesting.
+ Also,
+
+
+I
+ had
+ not
+ realized
+ I
+ mean,
+ it
+ is
+ very
+
+
+interesting
+ the
+ way
+ booms
+ or
+ bubbles,
+
+
+whatever
+ you
+ want
+ to
+ call
+ it.
+ I
+ don't
+
+
+like
+ using
+ the
+ word
+ bubble
+ because
+ that
+
+
+applies
+ whatever
+ booms
+ or
+ bubbles,
+ the
+
+
+way
+ they
+ spread
+ out.
+ I
+ just
+ think
+ that's
+
+
+extremely
+ interesting.
+ Right.
+ So
+ Nvidia
+
+
+takes
+ off
+ in
+ late
+ 2022
+ when
+ people
+ are
+
+
+blown
+ away
+ by
+ Chat
+ GPT
+ and
+ they
+ say
+ this
+
+
+incredible
+ and
+ it's
+ being
+ powered
+ by
+ all
+
+
+these
+ uh
+ Nvidia
+ chips
+ and
+ then
+ people
+ go
+
+
+on
+ the
+ hunt
+ right
+ for
+ other
+ things.
+ It's
+
+
+like
+ what
+ else?
+ And
+ even
+ still
+ today
+ in
+
+
+October
+ 2025,
+ that
+ spreading
+ out
+ process
+
+
+continues.
+ And
+ so,
+ okay,
+ in
+ the
+ last
+ few
+
+
+months,
+ maybe
+ it's
+ like
+ a
+ caterpillar
+ or
+
+
+maybe
+ suddenly
+ people
+ realizing
+ that
+
+
+just
+ sort
+ of
+ old-fashioned
+ computer
+
+
+storage
+ is
+ going
+ to
+ be
+ very
+ hot,
+ but
+
+
+we're
+ still
+ in
+ this
+ phase
+ where
+ as
+
+
+people
+ open
+ their
+ eyes
+ to
+ these
+ things,
+
+
+the
+ spreading
+ out
+ uh
+ continues
+ to
+ this
+
+
+day.
+
+
+>> Right.
+ Well,
+ also
+ there's
+ an
+ expectation
+
+
+that
+ eventually,
+ you
+ know,
+ normal
+
+
+companies
+ are
+ going
+ to
+ benefit
+ from
+ it
+
+
+as
+ well
+ and
+ become
+ more
+ efficient
+ and
+
+
+all
+ of
+ that.
+
+
+>> I
+ just
+ remembered
+ I
+ the
+ one
+ question
+ I
+
+
+was
+ going
+ to
+ ask
+ James,
+ but
+ I
+ could
+ just
+
+
+throw
+ it
+ out
+ as
+ sort
+ of
+ a
+ speculative
+
+
+question.
+ So,
+ he
+ mentioned
+ all
+ of
+ the
+
+
+workers.
+ Could
+ you
+ ask
+ all
+ of
+ the
+
+
+workers
+ that
+ are
+ out
+ this
+ are
+ building
+
+
+these
+ things?
+ And
+ it
+ does
+ make
+ me
+ wonder
+
+
+about
+ the
+ sort
+ of
+ crowding
+ out
+
+
+possibility.
+ Like
+ imagine
+ if
+ you
+ imagine
+
+
+if
+ you
+ had
+ some
+ other
+ business
+ in
+
+
+Abelene
+ and
+ you're
+ trying
+ to
+ hire
+ an
+
+
+HVAC
+ worker
+ right
+ now
+ because
+ HVAC,
+ you
+
+
+know,
+ you're
+ like,
+ "Oh,
+ restaurant
+
+
+competing
+ with
+ like
+ Open
+ AI."
+
+
+>> Yeah.
+ You're
+ like
+ you're
+ you
+ have
+ a
+
+
+restaurant
+ in
+ Abene
+ and
+ you're
+ like,
+
+
+"You
+ know what?
+ I
+ need
+ to
+ update
+ my
+ air
+
+
+conditioner
+ or
+ whatever
+ or
+ what
+ and
+ what
+
+
+are
+ you
+ going
+ to
+ do
+ because
+ all
+ the
+ HVAC
+
+
+workers
+ are
+ at
+ that
+ uh
+ big
+ Stargate
+
+
+operation."
+ And
+ I
+ do
+ think
+ this
+ is
+ a
+
+
+very
+ interesting
+ macro
+ question
+ on
+ all
+
+
+kinds
+ of
+ things,
+ which
+ is
+ the
+ degree
+ to
+
+
+which
+ all
+ of
+ this
+ spending
+ with
+
+
+uncertain
+ payoffs
+ will
+ have
+ a
+ crowding
+
+
+out
+ and
+ potentially
+ inflationary
+ effect
+
+
+on
+ the
+ rest
+ of
+ the
+ economy.
+
+
+>> Well,
+ presumably
+ machine
+ God
+ will
+
+
+eventually
+ design
+ HVAC
+ robots.
+ So,
+
+
+problem
+ will
+ be
+ solved.
+
+
+>> Problem
+ will
+ be
+ solved.
+
+
+>> All right.
+ Shall
+ we
+ leave
+ it
+ there?
+
+
+>> Let's
+ leave
+ it
+ there.
+
+
+>> This
+ has
+ been
+ another
+ episode
+ of
+ the
+ Odd
+
+
+Thoughts
+ podcast.
+ I'm
+ Tracy
+ Aloway.
+ You
+
+
+can
+ follow
+ me
+ at
+ Tracy
+ Aloway.
+
+
+>> And
+ I'm
+ Jill
+ Weisenthal.
+ You
+ can
+ follow
+
+
+me
+ at
+ the
+ stalwart.
+ Follow
+ our
+ guest
+
+
+James
+ Van
+ Gilan.
+ He's
+ @
+ catrini7.
+ Follow
+
+
+our
+ producers
+ Carmen
+ Rodriguez
+ at
+ Carmen
+
+
+Arman
+ Dashel
+ Bennett
+ at
+ D-bot
+ and
+
+
+Kalebrooks
+ at
+ Kalebrooks.
+ For
+ more
+
+
+OddLots
+ content,
+ go
+ to
+
+
+bloomberg.com/odlotss.
+
+
+We
+ have
+ a
+ daily
+ newsletter
+ and
+ all
+ of
+
+
+our
+ episodes
+ and
+ you
+ can
+ chat
+ about
+ all
+
+
+these
+ topics
+ 247
+ in
+ our
+ Discord,
+
+
+discord.gg/odlots.
+
+
+>> And
+ if
+ you
+ enjoy
+ OddLots,
+ if
+ you
+ like
+ it
+
+
+when
+ we
+ talk
+ about
+ the
+ physical
+
+
+realities
+ of
+ AI,
+ then
+ please
+ leave
+ us
+ a
+
+
+positive
+ review
+ on
+ your
+ favorite
+ podcast
+
+
+platform.
+ And
+ remember,
+ if
+ you
+ are
+ a
+
+
+Bloomberg
+ subscriber,
+ you
+ can
+ listen
+ to
+
+
+all
+ of
+ our
+ episodes
+ absolutely
+ adree.
+
+
+All
+ you
+ need
+ to
+ do
+ is
+ find
+ the
+ Bloomberg
+
+
+channel
+ on
+ Apple
+ Podcast
+ and
+ follow
+ the
+
+
+instructions
+ there.
+ Thanks
+ for
+
+
+listening.
+
+
+[Music]
