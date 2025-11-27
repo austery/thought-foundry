@@ -1,0 +1,1440 @@
+I feel, Tracy, like this conversation
+is really about
+like the magical object that you don't
+you can't look at, right?
+Because it'll freeze you.
+Or maybe it's the Shining gold
+in the briefcase in Pulp Fiction.
+You can't see it.
+So all we've done historically, mostly, is
+we've attempted to figure out what it is
+by observing its reflection
+onto the world,
+which we observe that reflection,
+the unemployment.
+And now this is an attempt
+to see the unseeable and to actually stare
+into the abyss at this crucial number
+and find out what it truly is.
+Everyone's been wondering
+what's in the suitcase.
+Pulp fiction it was our star.
+It was our star all along.
+Hello and welcome to another episode
+of the All Thoughts podcast.
+I'm Tracy Alloway and I'm Joe Weisenthal.
+Joe. Yeah.
+Yes. Recently? Yes. Recently.
+Stephen Myron, who is chair of the Council
+of Economic Advisers
+and also the newly confirmed
+fed board member.
+Yeah, he made his first public speech
+since joining the central bank.
+And you know what it was about?
+I do, but go on.
+The neutral rate.
+The natural rate of interest? Yes.
+Our star. Yes.
+Basically all about our star, which is
+pretty significant for his first speech.
+I mean, to me, this has come up
+on a bunch of episodes lately.
+To me, this is the multi-trillion
+dollar question, which is, why is it?
+You know what?
+We're here.
+We're recording to September 24th, 2025.
+Why are long term rates so much higher?
+Why does the market perceive
+that rates will have to be so much higher
+in order for the fed to hit its inflation
+goals, then, it
+then the market perceived in 2019
+what changed in the last six years
+or five years or whatever?
+Well, also, I mean, our star has always
+been something of a controversial idea
+and people criticize it
+for being this unobserved label thing.
+Yeah.
+You know, it's
+a hypothetical estimate that's extracted
+from all this different stuff,
+like savings and spending and productivity
+and demographics investment.
+You can go on and on and on.
+Climate immigration. Yeah. Exactly. Yeah.
+But I think, you know,
+our star is probably going
+to get even more controversial or perhaps
+more under
+the spotlight is a way of putting it.
+Given that people like Myron in his speech
+where he was arguing
+that the natural rate of interest
+should be zero right now,
+which is very, very different than other
+sort of normal estimates out there,
+which has the natural rate of interest
+at like 3.3 or 3.9%, something like that.
+And so if you think the neutral rate
+of interest is a lot lower,
+then then you
+would assume that the fed
+should be loosening more.
+And conversely,
+if you think our star is high,
+which a lot of people have argued
+in recent years, then you would, argue
+that the fed you know, interest rates
+don't look that restrictive at the moment.
+So I'll just say two things.
+Probably something of an R star truther
+in the specific sense
+that I doubt, like, okay, everyone agrees
+it's like quote, unobservable, etc.
+but I doubt that
+there is actually some rate
+that will magically
+bring the economy into balance.
+If we knew what it was.
+That doesn't mean I don't find this
+to be a conceptually useful conversation.
+And yet you don't believe in the term
+premium?
+I don't really believe in any,
+any of this stuff.
+No, that's not true.
+I am very interested in setting aside
+whether something could
+theoretically be observed,
+whether one number
+could bring everything into balance,
+all of these things.
+Setting aside that question, something is
+changed in the underlying economy.
+If you want to call that
+a neutral rate of interest,
+I guess I'm totally fine with that.
+But something's
+changed and I want to know what it is.
+But more importantly,
+I want to know why. Okay.
+All right, well,
+we have the perfect guess.
+We're going to be speaking
+with Tom Orlik
+who is, of course, chief economist
+at Bloomberg Economics.
+He's been on a number of times before.
+And Jamie Rush,
+director of global economics at Bloomberg
+Economics,
+and together with Stephanie Flanders,
+who is the head of Bloomberg Economics,
+of course, and also the host of the Trump
+Enomics podcast, have written a book
+all about the new
+and a whole book about it.
+Yeah, called The Price of Money
+A guide to the past, present, and Future
+of the Natural Rate of Interest.
+Amazing. I'm really excited.
+All right, so let's get started.
+Tom and Jamie, thank you
+so much for coming on. All thoughts.
+Great to be here. Thanks, Tracy.
+Thanks, Jay.
+Thanks for having us.
+Well, first of all, congratulations
+on the new book.
+And I got to say, it's
+kind of ballsy to, to tackle
+this concept that a lot of people
+don't believe in excluding Joe.
+And, you know,
+that tends to generate a lot of criticism.
+And maybe it's even easier
+to publish your own model,
+so that everyone can see
+what the estimates actually are.
+I mean, not as a genuine compliment,
+but why a book on the neutral rate?
+What prompted it?
+So I actually recall a tweet from Joe
+a while ago.
+He took aim at books as a concept.
+Oh. Yeah.
+So not only do
+I not believe in our star or anything,
+I don't even believe
+in the premise of a book.
+No, I do believe in Joe.
+It's all book. Should be a tweet. Sorry.
+Keep going.
+So we've written about a concept
+Joe doesn't believe in, in a format
+that Joe doesn't support.
+So we shouldn't be on this on the podcast.
+So why now?
+Well, I think there's a couple of, ways
+to answer that question.
+The first is,
+I mean, this is really important, right?
+We talk
+about the neutral rate of interest.
+But really a different way of saying it
+is it's the cost of borrowing
+in the economy. Right?
+And the cost of borrowing
+is incredibly consequential.
+For ministers of finance, it's
+incredibly consequential
+for businesses,
+for households, for investors.
+So it's always a good time to write about
+neutral rate, interest
+rates, the cost of borrowing.
+Why specifically?
+No. Well, it's because something
+really important has changed,
+from the late 1980s to the mid 20 tens.
+The global economy was characterized by
+too much saving and not enough investment.
+And in that state of affairs,
+the neutral rate of interest,
+the cost of borrowing
+was continually falling.
+What's happened in the last decade?
+Well, that dynamic has swung into reverse.
+And now we have less
+saving, more investment.
+And that means
+the neutral rate of interest,
+the cost of borrowing for the US Treasury
+and for everyone else is going up.
+I like this framing.
+So it's less about the idea
+that there is some rate
+that will bring everything
+into balance magically, etc.
+because I think a lot of people
+intuitively understand
+why you know that's not so true.
+You know, I think that problem
+makes a lot of people uncomfortable,
+but it is seems objectively true
+or real that
+the cost of money
+or the cost of borrowing has gone up.
+And so we can talk about that.
+Specifically, let's talk
+about the cost of borrowing today
+like it is more expensive.
+And how much more expensive is it
+to borrow money today by some measure,
+than it was, say, pre-COVID?
+Wait, just before we do this,
+can we get like a,
+three sentence definition
+of how you view our star?
+I feel like we should define our terms
+before we start.
+Excellent idea.
+So? So our
+star, the natural rate of interest
+is what balances
+demand for investment
+and saving in the economy.
+And when those two things are imbalanced,
+the economy is on trend
+and inflation is roughly at target.
+All right.
+That's a simple definition. Okay.
+I like that.
+All right. So why is it going up.
+I mean this is the big
+this is the big question, right?
+But actually, no.
+Before we say why is it going up?
+How much has it gone up?
+Or has it, in fact gone up versus
+the pre-COVID environment?
+Let's start with that.
+Well, if we cast our mind back to that,
+that Covid experience,
+there was a period
+where governments could basically be paid
+to borrow in real terms,
+interest rates were so low for so long,
+so far across the yield curve,
+that they could borrow without having
+to worry about whether they'd pay it back.
+So you can see that the real world
+implications of that and the behavior
+that we saw during the pandemic,
+the borrowing that happened,
+is the interest rate
+was enormously consequential.
+And a big part of that.
+We're not in that world now.
+Interest rates, Treasury yields
+in excess of 4% are much higher,
+much more burdensome.
+And now we're seeing that the costs of
+those policies manifest in budgets today.
+So I remember way back
+in 2016, Goldman Sachs
+put out this note arguing that the fed
+had a big new idea to justify
+keeping rates low, basically.
+And the argument was that
+our star was was low.
+And so, you know, monetary policy wasn't
+actually that that loose at the time.
+Even though benchmark rates were already
+pretty low and the Goldman analysts
+had this chart in their note,
+where they basically looked at mentions
+of thematic ideas in fed speeches
+and press releases and things like that.
+And indeed, you could see that
+starting in 2016,
+mentions of our star start going up.
+And, you know, they basically came off
+of nothing for like the previous decade,
+no one was talking
+about the natural rate of interest.
+I know our star itself is an old idea,
+because I read the book
+and there's a chunky chapter
+on the history, and development
+of the entire concept, but am I right
+in thinking that there has been
+a resurgence in interest in our star
+over the past decade or so?
+Chunky seems like a neutral adjective.
+Tracy, I like an informative chapter.
+I should say.
+Okay.
+So, I think I think that that clearly has.
+Right.
+And I think
+one of the reasons for that, is
+because the state of the world
+has changed, right?
+In the run
+up to the global financial crisis.
+I didn't feel like there were sort
+of fundamental issues
+with how monetary policy was operating.
+Right?
+Interest rates
+moved up, interest rates moved down.
+The economy responded in the way which,
+the textbooks would suggest.
+But in the aftermath
+of the financial crisis,
+we were in this extended period
+of economic malaise.
+Right.
+And from a monetary policy perspective,
+it was hard to explain.
+Interest rates were on the floor.
+There'd been a huge amount
+of quantitative easing.
+And yet unemployment rates remain
+stubbornly high
+growth remained stubbornly low.
+Why was that?
+And that's one of the reasons
+why this neutral rate of interest
+rose in profile as an explanatory factor.
+Because if the neutral rate of interest
+has come down, if it's come down very far,
+well, that means the central banks
+have to do a lot to stimulate the economy.
+And if the neutral rate of interest
+is close to zero,
+well, that effectively means
+that central banks are out of firepower.
+They can't take interest rates
+low enough to stimulate growth.
+This is a very important point actually,
+because
+and again
+just let's stay in the 20 tens here.
+When interest rates
+were at zero or near zero for a long time,
+you probably heard a lot of people
+in the financial press say, oh, you know,
+the fed is super loose
+monetary policy, etc..
+How long will the fed continue
+to print money or whatever?
+And yet, looking at the actual results
+in the real economy, as you've described,
+unemployment remaining stubbornly
+high, inflation consistently
+undershooting, which in retrospect,
+very nice problem to have.
+I think we should have appreciated it
+more at the time.
+Really not a problem at all in my opinion.
+The implication, though,
+and we could have understood this from
+Milton Friedman and some of his
+talk about Japan, was that actually,
+implicitly, we were still running tight
+monetary policy,
+even with nominal rates
+basically at their physical floor.
+Yeah.
+So I so I guess during that period,
+interest rates were low, the economy
+was failing to gain traction.
+And policymakers
+were puzzling over it.
+And so, so one of the thing and actually
+the the puzzle continues, right.
+Policymakers still don't know how
+restrictive policy is.
+They have they
+have they infer what they think
+the natural rate
+should be for by looking around them,
+seeing what's happening to unemployment,
+see what's happening to inflation.
+But they don't know.
+And so, well, one of the things that
+we did and we tried to achieve in our book
+is to rather than inferring
+the natural rate of interest,
+we looked over a broader sweep of history
+and trying to pin down the explanatory
+drivers of the rates of interest
+to try and get shed some light on
+why these things are as they are,
+why interest rates fell so much,
+why there was an inflection
+point around the pandemic, and why
+we think interest rates may therefore
+go forward, go upwards in the future.
+So it was for its thrust,
+the exercise the book was really about
+trying to pin down the drivers
+and then tell a story about those drivers
+so we can think about it in the future.
+I feel, Tracy, like this
+conversation is really about
+like the magical object that you don't
+you can't look at, right?
+Because it'll freeze you.
+Or maybe it's the shining gold
+in the briefcase in Pulp Fiction.
+You can't see it.
+So all we've done historically, mostly, is
+we've attempted to figure out what it is
+by observing its reflection
+onto the world,
+which we observe that reflection,
+the unemployment.
+And now this is an attempt
+to see the unseeable and to actually stare
+into the abyss at this crucial number
+and find out what it truly is.
+Everyone's been wondering
+what's in the suitcase.
+Pulp fiction it was our star.
+It was our star all along.
+Okay.
+Well, on that note,
+I mean,
+I take the point that most of the book
+is about the specific drivers of our star.
+But you do come up with a model.
+And you do come up with an estimate,
+for the sort of long
+run trajectory of our star.
+Can you walk us through
+how your model actually differs
+from some of the other models out there?
+Because I think that might help us
+to understand, you know, when people say
+this is unobservable
+or we're sort of staring at the reflection
+of the economy and trying to come up
+with this hypothetical, number,
+what we're actually doing or what
+economists are actually doing.
+Yeah.
+Of because so the, the conventional way
+or least the way that's been
+gained a lot of popularity
+over the past couple of decades has been
+at the Lao back.
+And William's model of the natural rate
+of interest on neutral rate of interest.
+And what they do is they they look at
+what's going on with inflation,
+what's going on with unemployment.
+And they and
+they judge, they try to judge from that
+how far current interest rates
+must be away from the neutral rate.
+So if interest rates are very restrictive,
+very far away from the neutral rate,
+inflation's going to be very low
+and unemployment's going to be
+very high and vice versa.
+And this this has the benefit
+of giving you
+a feel for what's going on right now
+based on observable data.
+But it doesn't tell you anything
+about why the interest rate is what it is.
+Or therefore where it may where it may go.
+And so what we tried to do,
+was, was pin the, the natural rate down
+by using some,
+some actual data and some theory.
+So if we think about what the natural rate
+is, what it is that determines
+it, well, it's the price of money,
+it's the price and that's determined
+by in the same way as anything else, it's
+determined, by the supply and the demand.
+So on the one
+hand, you've got investment demand
+and then you've got the supply of savings.
+And when these two things move, it
+shifts the rate of interest.
+And because of that fundamental
+theoretical understanding,
+you're able to think about, well,
+what is it that determines investment?
+Why do people want to invest?
+Why do people want to save?
+What is it about them that or different
+types of people or different age people,
+that affects their saving behavior.
+And so you can
+you go from that theory to these drivers
+of the,
+these theoretical drivers of behavior,
+and then you can try
+and try and pin it down empirically
+and that's exactly what we did.
+So we fed into this model,
+what economists generally think
+are the main drivers
+of, of these investment
+and saving decisions.
+So there were quite a few of them.
+And, and then we estimate
+their relationship
+with the interest rates over the sweep of,
+say, 50 years.
+And that really is the
+that that really was
+what supported our results.
+And it allows us, of course, then to think
+about how those drivers may change.
+Just in, keeping in mind Tracy's
+mentioned the beginning
+of defining terms investment.
+Just sort clear.
+This is like real investment. Right.
+So this is hiring impulse capital expense.
+Like what is investment
+mean in your terms?
+Yeah.
+So we're thinking specifically
+actually the the the capital expenditure.
+Okay. So
+I mean let's give
+you let's take an example, I
+so I, I it's great.
+I can't do it on a Casio calculator.
+I have to buy something to make it work.
+I have to spend money.
+I have to invest, in chips in,
+in fabs, to reap the benefits
+of those frontier technologies.
+So as I lift the growth rate of the
+of the economy,
+it also raises the investment needs.
+And so this is the
+this is one of the linkages
+that we kind of explore is like
+what is the relationship between overall
+growth in the economy and productivity
+growth, the investment need that creates.
+And then therefore the the knock
+on consequence for interest rates.
+So I mean, whether it's
+ICT revolution in the 90s,
+railroads or
+anything else,
+these things
+all have impacts on investment
+and therefore
+the natural rates of interest.
+And just to define the other term,
+when you talk about savings, is this
+because it's, you know, in the sense
+a savings loan to a bank, etc..
+But this is the impulse
+to have sort of liquidity, right?
+Or at any given moment,
+the various actors, the desire
+to hold essentially dollar or euro
+or whatever liquidity.
+Yeah.
+That's right. I mean, okay,
+I guess you can think about it
+on the, the, the individual level.
+So I want to save right now
+as I get older,
+I want to spend those savings
+in my retirement.
+So that's one of the key drivers
+of saving behavior.
+China. China used to save a lot.
+Now it saves a little, but state actors
+also matter to the global supply
+of saving, an investment.
+So, yes, it's everybody,
+and it touches on everything.
+Yeah.
+One of the light bulb moments for me
+reading this book was kind of,
+touching the idea of generational warfare
+and the idea that
+from the 1980s onwards,
+baby boomers started saving a lot.
+And so the supply of savings went up
+and the neutral rate went down.
+And that's the reason
+why I never earned interest on my bank
+account until two years ago.
+Okay.
+Serious question in your model,
+what's the biggest driver
+of the neutral rate
+actually going up in the future?
+Well, then I'm not the main driver.
+Really?
+Is is this saving by governments
+or spending by governments?
+So there were a number.
+I mean, if you look at the recent past
+experience of the pandemic,
+if you look at the the path of the deficit
+in the US and other countries
+since then, what we've learned,
+is that governments like to spend
+and they have continued to do so
+even though, it's become more costly.
+And a lot of that reflects, politics.
+Politics are fragmented.
+It's hard to get support around
+closing budget deficits.
+And so governments continue to spend,
+which is tilting the balance
+between investment
+and saving in the global economy.
+And of course, they have big outlays
+coming up.
+Defense spending,
+is going up in much of the in much the,
+the advanced world
+and the need to green the energy
+infrastructure again
+in some parts of the world is also,
+crimping, saving.
+And then just that fundamental point
+that you've got
+aging populations, increasing outlays for,
+for dealing with that on health,
+for dealing with that on,
+on, on benefits and pensions.
+All of this is just making it
+very difficult to keep spending down.
+I think this it also intersects,
+with the argument which you, kicked off
+with Joe and Tracy, from Steven.
+Myron.
+So, Steven, Myron.
+The new fed governor, has made the case
+that, the policies from the Trump
+administration,
+are going to have a big negative impact
+on the neutral rate of interest.
+And that's
+why he's advocating for very aggressive,
+rate cuts, to keep policy accommodative.
+Now, the argument we make in our book,
+actually, points
+in the opposite direction, right.
+If you think about the policies
+of the Trump administration,
+well, firstly, we've got the one
+big beautiful bill, which adds trillions
+and trillions of dollars to government
+borrowing over the next decade.
+That significantly pushes up
+the neutral rate of interest.
+And if you think more broadly about Trump
+policies, well,
+it's kind of the end of the grand bargain
+which America has struck with the world.
+Right?
+One way of thinking about the last
+few decades is America said to the world,
+we will buy your stuff and we will
+defend you, but you have to finance us.
+You have to send your savings
+to the United States, buy US treasuries.
+But what the Trump administration
+now is saying is, well,
+we're not going to buy your stuff
+and we're not going to defend you.
+Right.
+So it wouldn't be that surprising
+if the rest of the world said, well,
+if you're not going to buy our stuff,
+then you're not going to defend us.
+We're not going to finance you any more.
+Right.
+So Stephen, Myron, who's
+a super smart, super articulate guy,
+and if you've not had him on Odd Lots
+already, we have, we have.
+And we'll have them again sometime.
+Fan favorite episode makes the case.
+Makes the case that the Trump
+administration has significantly lowered
+the neutral rate of interest.
+And that's
+why the fed needs to aggressively,
+the model which Jamie
+developed the argument, weaken our book
+actually points in the opposite direction.
+Yeah.
+On this note, do you get the sense that
+central bankers, policymakers, economists
+sometimes use our star as a crutch
+to justify whatever they're doing?
+Like if you think rates should be lower,
+then you can just argue
+that our star is in fact, low.
+And our star is this unobservable thing
+that's based on your own estimates.
+So you can argue about it.
+But no one's ever going to prove
+what our star actually is.
+And if you think that rate
+should be higher,
+then you just argue that, well, actually
+something has structurally changed,
+and the natural rate of interest
+is in fact quite high.
+Do people use it in that way?
+It feels like it.
+Well,
+one thing I suppose is that with our star,
+you're never beholden to a prediction.
+Really?
+So if you say
+I think interest rates should be lower
+because the economy is going to tank
+and then the economy doesn't tank
+you just like a bit of an idiot.
+But if you say,
+I think rate should be lower
+because our star is actually lower
+than no one's ever going to say,
+oh, actually, you are completely wrong,
+because I've got irrefutable proof
+that our star was actually,
+in fact, higher.
+So I think it's probably a safe way to
+to express your views
+if you just have a belief, an inner belief
+that rates need to be lower.
+But it is perhaps one
+that's less easy to hold to account
+when we talk about Trump policies
+and their effect on our star.
+Another thing that I think about a lot is,
+you do talk about this
+grand bargain falling apart.
+The trade and every country
+wanting to be increasingly
+more self-sufficient in various goods,
+which strikes me
+as something that once again
+adds to the investment impulse.
+The US is worried that maybe one day we
+won't be able to rely on Taiwan for chips.
+Europe might be worried
+that if the EU, that the US
+may not be a great supplier for whatever
+the US supplies to Europe, etc.,
+does this sort of fracturing of global
+trade, which may or may not be happening,
+contribute to a positive investment
+impulse in a sense,
+and therefore, raise our star?
+Yeah, I think there's a couple of dynamics
+at work there, Joe.
+So the first one is the one you mentioned.
+If everyone
+wants to make their own stuff at home,
+then clearly there has to be
+a massive amount of capital spending
+so everyone can build their own
+everything, right?
+We can't just have semiconductor fabs
+in Taiwan.
+We need semiconductor fabs
+in Germany and Japan.
+And the United States.
+And that means there needs to be much
+more investment spending.
+The second dynamic, and this is something
+which one of our coauthors,
+Dan Hanson, gets into, in
+the book, is around,
+globalization
+and the cost of investment goods.
+Right.
+Think about how much more computing power
+you get for your money today
+than you did in 1980.
+Right?
+There's just been a massive increase
+in productivity.
+A massive increase
+in the amount of computing power
+you get for a certain amount of money.
+And that means you don't have to spend
+as much, in order to buy investment goods.
+Well, if globalization now breaks down
+and we come to the end of that kind of
+productivity miracle in technology, well,
+that means that the cost of investment
+goods is going to stop falling.
+You're going to need to pay more
+to buy a certain
+amount of technology,
+a certain amount of investment goods.
+And that is also going to be a factor
+pushing up the natural rate.
+So on a related note, I mean,
+we we have had a number of supply shocks
+in recent years.
+You know, during the pandemic,
+during the Russian invasion
+of Ukraine, all that stuff
+which has led a lot of governments
+to start thinking about how to solve
+these sort of choke points
+or shortages in the system.
+What does that actually mean
+for central bank policy?
+If, you know, perhaps
+the neutral rate of interest is going up
+because of these supply shocks,
+because you need more investment.
+But at the same time, the central bank
+raising rates doesn't necessarily produce
+more wheat or more shipping capacity
+and things like that.
+How should central banks respond?
+Well,
+there are obviously going to be periods,
+where inflation just moves higher.
+Because because of the supply shocks
+you mentioned, I think,
+and we should expect those to happen
+with increasing frequency.
+Right.
+So climate change is going to make it
+harder to, to produce stuff.
+It's going to make feed price shocks more,
+more common.
+It's going to create other distortions
+which will hit production.
+So central banks of the future
+will perhaps have to keep
+interest rates
+higher anyway, just to kind of prevent
+those shocks from feeding through
+to inflation expectations.
+And therefore,
+keeping inflation away from targets
+is because supply shocks really
+are very different from demand shocks,
+as you guys know I'm sure.
+And but,
+you know, history was was dominated,
+at least in the last couple of decades
+by demand shocks.
+And, and now we're seeing a world which is
+dominated increasingly by spy shocks.
+And actually it's just
+a different playbook for central banks.
+I agree with all of that.
+I think there's other
+there's another dynamic for central banks,
+which is also going to be,
+a force
+for higher interest rates, going forwards.
+And that's the challenge to central bank
+independence.
+Right.
+We've talked about, Steven, Myron coming
+on to the board of governors at the fed.
+Well, guess what?
+He's still holding onto his position.
+As the chair of the Council of Economic
+Advisers, senior member of Donald Trump's,
+economic policy team,
+having someone from the president's team
+serve on the fed concurrently.
+That's unprecedented going back to 1936.
+And raises significant questions
+about fed independence.
+And so the Fed's credibility as
+an inflation is as an inflation fighter.
+Right.
+Now, we've not really seen this in markets
+so far.
+Markets have been paying surprisingly
+little attention, to this dynamic.
+But if the fed does lose its independence,
+if the fed does lose its credibility
+as an inflation fighter,
+then markets are going to start demanding
+an additional premium,
+to hold long term U.S.
+Treasury debt. Right.
+So you're going to have all
+of these structural forces,
+less saving, more investment.
+You're going to have the greater
+preponderance of supply shocks,
+which Jamie spoke about is
+an additional driver of higher inflation.
+And you're going to have risks
+to fed independence.
+And all of these are forces
+which are going to be pushing up.
+Yeah.
+Long term
+borrowing costs for the U.S. Treasury.
+And because the Treasury rate
+is the anchor for global
+markets, also pushing up
+borrowing costs for everybody else.
+I'm glad you brought this up,
+because even setting aside
+the sort of formal risks to fed
+independence,
+there are others who question the degree
+to which the fed
+still takes its own 2% inflation
+targeting, target seriously,
+including our own colleague here,
+and one who says implicitly,
+if you look at what's going on,
+it looks like
+they're no longer targeting 2%.
+They're targeting 2.8%.
+Tim. Julie, an economist we've had says,
+you know what?
+As long as inflation is below 3%,
+we think the fed
+is mostly concerned
+about the labor side of the mandate.
+So setting aside Myron's role or Trump's
+truth social posts,
+when you look at market,
+is there the sort of growing belief
+that the fed just does
+not take 2% as seriously as once it did?
+Yeah.
+So it's a powerful argument,
+which Ana, our chief U.S.
+economist,
+makes, and, part of that argument
+is that, this divergence between
+what the fed should be doing
+if they take 2% inflation seriously
+and what they're actually doing,
+didn't start under Trump.
+It started under Biden.
+And actually,
+it was those rate cuts in the run
+up to the 2024 election,
+which were the beginning
+of the fed, diverging from a kind of pure,
+apolitical Taylor rule path.
+Right.
+So, as I'm sure you've seen,
+Joe and Tracy,
+there's not much,
+which Republicans and Democrats agree on.
+In America right now.
+One point of bipartisan consensus,
+unfortunately,
+is that there's too much politics
+in the fed.
+Tracy.
+So one once told me that the two things
+that everyone agrees on, by the way,
+in America, are that,
+Dolly Parton is
+good and that Epstein didn't kill himself.
+We can add a third, that there is too much
+politics in monetary policy making.
+So the three points of,
+bipartisan agreement, that's going to be
+my new conversation
+starter at dinner is for everyone.
+Just ask them
+if they think there's too much politics.
+In fed policy. Okay.
+Joe mentioned markets just then.
+So I think when people think of the era
+of low interest rates,
+and low natural rates, people
+think about high asset prices, right?
+There tends to be a correlation there.
+If the price of money is going up,
+what does that actually mean for asset
+prices.
+Well, I it kind of depends on the reason.
+And as we sort of talked about earlier
+about the kind of role of I well, I,
+I can raise equity values
+because it's a frontier technology
+that's going to potentially transform
+the way the economy operates and create
+lots of profits along the way.
+It can it's
+also going to suck in a load of capital,
+and make it less available for others,
+which is going to drive up interest rates.
+So if that's the source,
+you can see this world continuing.
+You can see that interest rates
+will continue to rise as investments
+are sucked into the AI nexus.
+But the if sounds the
+the actual promise is realized.
+You see equity values going up as well,
+which is kind of a
+slightly unusual arrangement.
+But then we don't have
+technological revolutions every day.
+I'm glad you brought up a
+because I wanted to go there.
+You know, I've seen, Jason Furman.
+He is characterized AI spending as being
+almost quasi fiscal in nature
+because it has this there's not that
+we haven't got the productivity
+pay off yet, but there is this incredible
+flood of money coming in.
+So it sort of has this perhaps
+crowding out effect.
+Neel Kashkari gave a interesting, posted
+and I guess it was a blog post
+called three Questions.
+I think you posted it last week,
+but he talks about our star
+and he about how this higher neutral
+rate of interest
+may be appropriate
+given the given the intense pace of,
+AI investment that's going on.
+But also it may not be appropriate,
+you know, for the housing sector, the,
+that's not what bring into balance.
+And we see this decline.
+Could there be to our stars,
+could there be this,
+our star, that sort of the high tech
+economy booming?
+But it's not a it's
+not the our star that brings
+the rest of the economy into balance.
+It's a it's a good question, Jay.
+And I think people do
+think about this concept,
+quite a lot in the sense that there's a
+maybe there's an all star
+which keeps the economy balanced,
+and maybe there's an all star
+which keeps the financial sector
+and financial markets balanced
+and not getting carried away
+with themselves.
+And there's no guarantee
+or any particular reason
+to think that they should be the same,
+which implies then, that you've got this
+policy trade off, you've got you.
+What's good for the economy may not be
+good for, for financial stability.
+And so that's, that's another thing
+for central banks
+to be grappling
+with in the, in the years to come.
+When it
+comes to the composition of investment,
+one topic that, gets a lot of attention
+nowadays is the idea of dollarization.
+And perhaps people buying fewer U.S
+assets per perhaps
+people, you know,
+had choosing to hedge those U.S assets.
+And we have seen
+some very big buyers, of securities
+like foreign central banks
+actually slow down their purchases of U.S.
+treasuries or U.S mortgage bonds
+and things like that.
+How would that affect
+the neutral rate of interest if you know
+there's less money flowing into dollars
+specifically, or dollar assets?
+So I think there's a number of reasons
+why we would expect less money
+flowing into dollars. Right.
+So one really big reason, is
+that China has changed its FX policy.
+For, more than a decade, China
+was pegging the yuan to the dollar,
+and that meant the PBoC
+needed to hoover up the whole trade
+surplus and park that in treasuries
+to stop the yuan appreciating.
+The second big important reason,
+is that shift in the grand bargain
+between the US and the rest of the world.
+Think about how,
+the US and Europe acted to freeze Russia's
+FX reserves following, Putin's,
+full scale invasion of Ukraine.
+That's a kind of shift
+in the grand bargain.
+And it tells Russia,
+but also everybody else.
+Guess what?
+There's geopolitics in the dollar, right?
+And if you put your assets
+in the United States,
+there's a risk you might lose them.
+And of course, the tariffs
+themselves are a factor.
+That huge hike in tariffs
+that we saw on Liberation Day.
+Well that's the US saying
+we're going to play a smaller part
+in the global trade system in the future.
+And if the US is going to play
+a smaller part in the global trade system.
+Well, the utility of holding dollars
+as a way of settling import
+and export transactions goes down.
+So there's a lot of reasons to be
+concerned about this dollarization trend.
+And, Jamie may have
+a more sophisticated way
+of thinking about this, this than me.
+But basically,
+I think about buying dollars and buying
+treasuries is pretty strongly
+correlated in this context.
+So if the rest of the world
+is the dollar rising, that also means
+they're buying less U.S. treasuries.
+That means less demand
+for U.S. treasuries.
+And so it's another force
+pushing us borrowing costs higher.
+I think all that is
+and that was all entirely true.
+I and I guess one thing
+when you're trying to think next to the
+the linkage with global
+borrowing costs is,
+is what happens to those,
+those savings instead.
+Now if you can't find anywhere else
+any other assets to buy in place of U.S.
+treasuries, what are you going to do?
+Well, quite possibly
+you end up spending them.
+And particularly
+you think about the geopolitical context.
+You think about the impact of tariffs
+on China, for example,
+when I was actually an extra
+incentive to spend more.
+And if you think about in those terms,
+then actually that
+that policy itself is going to shift
+the international balance of investment.
+And saving,
+again, away from saving is partly
+because it's just too, too hard to save me
+anywhere safe.
+My computer, just for the Air Force
+reboot.
+I had a great chart on my screen,
+but now I can't look at it.
+But, December 27th
+or whatever
+the last day of trading was in 2019,
+the US ten year was about 1.8, and today
+it's probably like 1.12%.
+Maybe both of you get list
+your five reasons in order.
+I know this the ten year is not the
+our star, but you know for our purposes
+for for podcast talk we could just
+sort of our star is everywhere.
+Yeah like
+and maybe ranked the five for both of you
+in order rank the five major things
+or however many you on to
+that have contributed
+most significantly to this,
+regime change or price change.
+Maybe I'll take the easy ones, of course.
+So here's my here's my three.
+So firstly, it's demographics.
+For decades we had the baby boomers
+in prime working age
+saving money for retirement.
+That pushed the neutral rate down.
+Now they're retiring,
+spending down their savings.
+That's a powerful force
+pushing the neutral rate up.
+Second is that, for decades,
+from the 1980s to the global
+financial crisis, borrowing from the US
+and from other major advanced economies,
+leaving aside,
+Japan, was low and stable,
+since the global financial crisis
+and again, since the Covid pandemic,
+there's been a massive increase
+in government borrowing.
+And when there's more government
+borrowing,
+that pushes
+the natural rate of interest higher.
+And then the third, the globalization.
+So one of the factors
+driving neutral rates lower
+was that Ben Bernanke savings
+glut hypothesis.
+Yeah.
+Chinese saving Petra saving from Saudi
+and others heading into the United States.
+The forces of globalization
+have now brought that to an end.
+So conveniently, 3DS demographics,
+d globalization
+all pushing neutral rates higher.
+Very good.
+Jamie, you have to beat that now.
+I'm. I think I only had one extra,
+to be honest
+and that's I so when we, when we were
+putting pen to paper for the book,
+ChatGPT wasn't really a thing.
+That's when we started out.
+By the time we published the book, it's
+very much a thing.
+And we can already see that the,
+the transformational impact
+that's having on the investment landscape,
+whether it has a transformational impact
+on the economic landscape,
+remains to be seen.
+But I think that is now playing out
+faster than we thought.
+We had a scenario in our book, about what
+that could do to the natural rate.
+No surprise, it pushes it up.
+And I think we're actually in a world
+now with that scenario is basically coming
+to pass.
+I'm going to help everyone out here
+with a little bit of marketing.
+So, Tom, you mentioned the 3DS,
+debt demographics.
+D globalization,
+I we can rebrand as data centers.
+So that's the fourth D
+and then the fifth one,
+which you guys talked about,
+but you didn't hit your list.
+And that is defense spending. Yeah.
+So really we can talk about the five five.
+Is that demographics D globalization data
+centers
+and defense as having contributed this
+we've come to something
+we could really market this
+I think the four of us together,
+the five DS that have caused
+the price of money to get so much higher
+in the last six years, well,
+that can be the next book.
+Yeah.
+Although the current one talks a lot
+about all of these, obviously,
+I think there could be the,
+the title to this episode,
+the five DS, the five DS,
+the pushing up the price of money.
+Yeah, yeah, that would work.
+Okay.
+Well, on that note, Tom and Jamie,
+thank you so much for joining
+our thoughts. Really appreciate it.
+Thank you so much for having us do, Tracy.
+Always a blast.
+Thank you so much.
+That was great pleasure. Thanks, guys.
+Thank you Joe. That was very fun.
+Always a fun time having our Bloomberg
+Economics colleagues on the podcast.
+I think, our star filled
+I believe in it now.
+I believe that there are some number
+that if only we could stare at it
+directly, we could kind of
+bring things into balance.
+I think it's a useful concept.
+Yeah, for sure.
+And it's something to aim for,
+and it's kind of a framework under which,
+like an umbrella under
+which you can put all your thoughts
+about the economy, basically.
+That said,
+and I mean, Tom and Jamie and Stephanie
+lay out a very convincing argument
+for why they think our star
+is going to be higher in the future.
+Meanwhile, you have people like Myron.
+Yeah, arguing the exact opposite.
+We can debate whether it's
+convincing or not, but it does feel like
+our star is not a method of achieving
+consensus.
+Let's
+just put it that way. No, it's not, but,
+and to your point,
+anyone, if you can't make an argument
+for either our star
+going higher or lower in the future,
+it's like an intelligence test.
+Any intelligent person
+should be able to argue both sides.
+Yeah, exactly.
+Exactly right.
+You can always come up with an eloquent,
+nice sounding argument for any direction.
+This is true.
+The one thing I'll say is that while
+our star may not truly be observable,
+etc., and maybe there isn't one number
+that satisfies the whole economy,
+what's that line?
+It's like all models are fake,
+but some are at least useful.
+It strikes me that it may be
+a fake concept, but a useful concept,
+and that plugging some of these factors
+in, what can we anticipate
+about
+where defense spending is going to go?
+What can we anticipate
+about the nature of savings
+or savings or spending decisions
+among an aging population?
+These are useful things
+to try to wrap our head around it.
+And maybe these could be
+this could be a useful exercise,
+even if the underlying concept
+is still like a little,
+yeah, except that a lot of people argue
+that the models are garbage to know.
+Of course, except for this one, obviously.
+Of course, that was argued for everything,
+but I'm just saying, like,
+I mean, you just go total nihilist
+and think that the profession of economics
+is nonsense, but, but it does strike me
+as useful to say there is going to be
+a lot more spending here
+because real reasons that are happening.
+What is that going to do
+to the availability of money or capital?
+Yeah, whatever. I think that makes sense.
+Although one thing I would like to see
+more study of is like, maybe not,
+not necessarily our star
+and whether it's too high or too low,
+but like the actual impact
+of interest rates on economic growth,
+like the sensitivity, you know, of growth
+to rates is a great question.
+And that's, I think, one of the other big
+sort of mysteries
+of the last several years. Yeah.
+Which is how do you get
+the biggest interest rate hike in decades.
+And the growth trajectory barely budged,
+and the unemployment
+or the employment trajectory, barely.
+Budges.
+These are like things, you know,
+I think a lot of people would have thought
+in retrospect, oh, we're definitely going
+to go to recession
+with this rapid pace of rate
+hikes, the degree to which
+policy actually affects the real economy
+in predictable ways.
+Highly, highly contested.
+Yeah.
+Well, maybe that can be Tom
+and Jamie's next book. Yeah.
+Shall we leave it
+there? Let's leave it there.
+All right.
+This has been another episode
+of the All Thoughts podcast.
+I'm Tracy Alloway.
+You can follow me at Tracy Alloway
+and I'm Joe Weisenthal.
+You can follow me at The stalwart.
+And if you enjoyed this conversation
+then please like and subscribe
+or leave a comment down
+below. Thanks for watching.
+To see.
