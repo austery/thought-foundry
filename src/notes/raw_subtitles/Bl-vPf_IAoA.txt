@@ -1,0 +1,335 @@
+Revolutionizing science,
+turbocharging productivity,
+even solving climate change,
+AI has been promised
+to transform the future of humanity.
+Or it’s set to bring about
+the end of humanity as we know it.
+It really depends on who you ask.
+In my opinion, both of these
+statements are wrong,
+and what they do is they distract us
+from the real issue at hand.
+We're doing AI wrong
+at the expense of people and the planet.
+As it stands,
+a handful of large corporations
+are using huge capital
+to sell us large language models, or LLMs,
+as the solution to all of our problems,
+possibly because they think that
+they'll bring about superintelligence,
+emotional intelligence,
+basically whatever flavor of intelligence
+is trending in Silicon Valley these days.
+And in this race, they're building
+more and bigger data centers,
+the people and the planet be damned.
+Meta is set to build a data center
+the size of Manhattan
+in the next few years,
+part of an investment
+of hundreds of billions of dollars
+towards a quest
+to develop superintelligence.
+OpenAI recently announced the first phase
+of their Stargate data center in Texas.
+Once operational,
+it's set to emit 3.7 million tons
+of CO2 equivalents per year,
+as much as the whole country of Iceland.
+xAI is currently being sued
+by the residents of South Memphis
+because of the air pollution
+caused by their 35
+questionably legal gas turbines,
+which are powering
+its data center, Colossus,
+exacerbating the health issues
+of the city's most vulnerable residents.
+And yet, for years,
+activists and scientists like myself
+have been sounding the alarm
+when it comes to AI's
+increasing unsustainability.
+Does this ring a bell?
+Remember Big Oil? Well now we have Big AI
+following the exact same playbook:
+using more and more resources,
+building bigger and bigger
+data structures.
+and selling us the narrative
+that this is somehow inevitable.
+But what if we could learn
+from the lessons of the past
+and use them to build a future
+in which AI is giving back to the planet,
+instead of taking away from it?
+A future in which AI models
+are small but mighty,
+in which they are both
+better performing and more sustainable.
+To do this, we have to take back
+the power, pun intended,
+from the big AI companies,
+and put it back into the hands
+of the developers,
+regulators and users of AI.
+Today we use AI as if we were turning on
+all of the lights of a stadium
+just to find a pair of keys.
+Using huge AI models trained
+using the energy demands of a small city
+just to tell us "knock-knock" jokes
+or help us figure out
+what to make for dinner.
+This is driven by
+a "bigger is better" mentality.
+This has become
+somewhat of a mantra in AI.
+Bigger models, more compute,
+bigger datasets, more energy
+equals better performance.
+And the pinnacle of this approach
+are LLMs, models like ChatGPT,
+which are trained specifically
+to be general purpose,
+able to answer any question,
+generate any haiku,
+and act as your therapist
+while they're at it.
+But this performance comes at a cost
+because models that are
+trained to do all tasks
+use more energy each time than models
+that can do a certain task at a time.
+In a recent study I led,
+we looked at using LLMs
+to answer simple questions,
+like, “What’s the capital of Canada?”
+And we found that compared
+to a smaller task-specific model,
+they use up to 30 times more energy.
+And as this energy use grows,
+so does their cost.
+Essentially, with the number
+of organizations that can afford
+to build and deploy what’s considered
+state-of-the-art AI is shrinking,
+becoming limited
+to a handful of big tech companies
+with millions of dollars to burn,
+while startups, academics and nonprofits
+are all left in the dust.
+So now this handful of big AI companies,
+largely gathered by the
+"move fast and break things" mentality,
+decides the future of a technology
+that can impact the lives
+of billions of people.
+But in the background
+of all this hubbub around the DeepSeeks
+and the ChatGPTs of the world,
+a revolution has been quietly
+building in recent months.
+This revolution is driven by small LMs,
+which are also language models,
+but that are orders of magnitude
+smaller than traditional LLMs.
+The smallest of this family
+has around 135 million parameters,
+making it 5,000 times smaller
+than DeepSeek’s model.
+These models are flipping the script
+on the "bigger is better" mentality
+by using less data,
+less compute, less energy,
+and still having
+the same level of performance.
+The data used to train
+Hugging Face's small LM models
+was carefully curated to be
+60 percent educational web pages,
+explicitly chosen based
+on the quality of their content.
+This also means that the models
+that are trained on this data
+are less likely to produce misinformation
+or toxicity when we query them.
+And since the models are so small,
+they can run literally
+on your phone or in your web browser,
+giving you access to state of the art AI
+in the palm of your hand
+without needing massive data centers.
+And above and beyond
+environmental impacts,
+they also have benefits
+when it comes to cybersecurity,
+when it comes to data privacy
+and sovereignty,
+giving users more power
+over the AI that they're using.
+And since they're smaller
+and cheaper to train,
+they give smaller AI companies
+the ability to connect with a community
+and to compete with big AI companies,
+because they can actually afford
+to be training and deploying these models
+and adapting them to different uses,
+and then sharing them back
+with the community,
+proving that reduce, reuse, recycle
+also applies to AI.
+But the truth of the matter is
+that there's more to AI
+than just small LMs.
+And if we really want to make AI
+more sustainable,
+we have to be thinking beyond LLMs
+to using all sorts of different approaches
+that can be really useful
+in our fight against climate change.
+Because sure, ChatGPT can tell you
+which countries signed
+the Paris Agreement,
+but it can't predict
+extreme weather events,
+which requires an understanding
+of the physics of weather
+patterns and geography.
+And sure, Claude can explain
+the whys and hows of climate change,
+but it can't help a farmer decide
+when to plant their crops
+based on temperature, humidity
+and historical weather patterns.
+There are so many other approaches in AI
+that use less energy
+and still are really useful
+in our fight against climate change.
+For example, recently
+a team of researchers funded by NASA
+trained the Galileo models,
+which can be used
+for all sorts of different tasks,
+from crop mapping to flood detection,
+without needing specialized hardware.
+This makes them accessible
+to governments and nonprofits.
+And Rainforest Connection
+uses AI to do bioacoustic monitoring.
+That means that they listen
+to the sounds of rainforests
+across the world,
+identify species
+and even detect the sounds
+of illegal logging in real time.
+Their AI models are so small,
+they run on old cell phones
+powered with solar panels.
+And Open Climate Fix uses AI
+to analyze satellite imagery,
+weather forecasts and topography data
+to predict the output
+of solar and wind installations,
+allowing us to move forward
+to decarbonizing energy grids
+around the world.
+This includes data centers
+because currently they're powered
+by mostly coal and gas,
+but they could be renewable
+if we had the right tools.
+But another problem is, as users of AI,
+we don't know how much energy
+an AI model is using
+or how much carbon it's emitting
+when we use it.
+That means that we can't make decisions
+with sustainability in mind,
+as we do for the food that we eat
+or for how we get around town.
+This led me to create
+the AI Energy Score project,
+in which we tested
+over 100 open source AI models
+across a variety of different tasks,
+from text generation to images,
+and we assigned them scores
+from 1 to 5 stars
+based on energy efficiency.
+So say that you forgot
+the capital of Canada again.
+It's Ottawa.
+You could use a model like SmolLM,
+which would use 0.007 watt-hours
+to give you that answer.
+Or you could use a model like DeepSeek,
+which would use 150 times
+more energy for that answer.
+But sadly, big AI companies
+didn't want to play ball
+and evaluate their models
+with our methodology.
+And honestly, I can't blame them
+because the truth
+might only make them look bad.
+Because currently we don't have
+the laws or incentives
+that we need to encourage AI companies
+to evaluate the environmental
+impacts of their models
+or to take accountability for them.
+The EU AI Act started this process
+by introducing voluntary disclosures
+around the energy
+and resource use of AI models.
+But enforcing this act in Europe
+and eventually writing
+laws like this across the world
+will take time that we simply don't have,
+given the speed and the scale
+of the climate crisis.
+But the good news is
+that we don't need to stay hooked
+on the AI sold to us
+by big AI companies today,
+as we've stayed hooked
+on the coal and plastic and fossil fuels
+that have been sold to us
+by Big Oil for all these decades.
+And in fact, instead of believing
+that the future of AI is already written,
+that it consists of huge LLMs
+powered by infinite amounts of energy
+that will somehow result
+in superhuman intelligence
+and magically solve all of our problems,
+we can take back the wheel and shape
+an alternative future for AI together.
+A future where AI models
+are small but mighty,
+where they run on our cell phones
+and do the task they're meant to do
+without needing huge data centers.
+A future in which we have
+the information we need
+to choose one AI model over the other
+based on its carbon footprint.
+A future in which legislation exists
+that makes big AI companies
+take accountability
+for the damage that they're causing
+to people and the environment.
+A future in which
+AI serves all of humanity,
+and not just a handful
+of for-profit tech companies.
+With every prompt,
+every click and every query,
+we can reinvent the future of AI
+to be more sustainable together.
+Thank you.
+(Applause)
