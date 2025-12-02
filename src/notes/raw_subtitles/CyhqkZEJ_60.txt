@@ -1,0 +1,535 @@
+- As humans, we all want the same thing,
+a life that's full of good experiences,
+more time with family, with friends,
+more time to love,
+but sometimes genetic
+illness can cut that short
+or really, for all of us at some point,
+our body breaks down.
+And our bodies are genetic machines.
+For many diseases, the
+cause of the disease
+is a mutation in the genome.
+Gene therapy is a vision that
+many have had for decades,
+more than 50 years.
+The power of genetic technology is that
+once you get inside of
+cells with a DNA molecule,
+that molecule can stay there
+for the lifetime of the cell.
+So it's the potential
+for a one-time treatment
+for a disease where you wouldn't otherwise
+be able to reach the cells
+and solve for the root
+cause of the disease.
+Today though, for the most part,
+the genome you're born with
+is the genome you die with.
+Access to this molecular level
+is out of reach for almost all of us.
+We've tried many different things,
+but have really struggled
+to be able to get
+enough of the genetic
+payload into the cells
+where they're gonna be
+effective as a therapeutic.
+And it's getting inside of the cells
+that has really been a
+challenge for many, many years.
+I'm Eric Kelsic, CEO and
+co-founder at Dyno Therapeutics.
+For the past 10 years, I've been working
+to solve the grand
+challenge of gene delivery.
+How are we gonna make gene therapy
+a mainstream kind of medicine?
+We need to solve these grand
+challenges like delivery,
+being able to deliver
+a therapeutic payload
+to every organ or every cell
+where there might be some
+benefit to patient health.
+To do that, we're
+engineering protein shells
+derived from viruses.
+Capsids are the protein shells
+of adeno-associated virus.
+AAVs, adeno-associated virus,
+is a parasite of other viruses.
+AAV naturally isn't known
+to cause any disease.
+The reason why AAV gets a lot of attention
+is because it's one of
+the smallest viruses,
+and that enables it to get into
+many places all across the body
+where we need to deliver
+a therapeutic DNA.
+We still don't know a lot about
+how it functions naturally.
+That said, we don't need to understand
+everything about how the virus works
+in order to adapt it as
+a therapeutic technology,
+and that's our focus at Dyno,
+engineering the capsid sequence
+to make capsids a better delivery vehicle
+for gene therapies.
+What's amazing about capsids
+is they're evolved in nature
+to do so many different things.
+So they can go through your
+body, through the blood,
+find a cell, enter the cell,
+and then be released
+into the cell cytoplasm,
+get into the nucleus
+through the nuclear pore,
+break open the capsid
+and release the genome,
+and that's where it expresses.
+So for a gene therapy, going
+from the blood, into cells,
+into the cytoplasm, into the nucleus,
+and then expressing the genetic payload,
+that's entirely the goal.
+And when therapeutic genes
+are expressed in the nucleus,
+they can be treating those cells
+for a patient's entire lifetime.
+As a one-time treatment, it
+can be an effective cure.
+However, natural capsids,
+they're not efficient enough
+for most therapeutic purposes.
+So for the past 28 years,
+protein engineers have been
+working to modify the capsid
+to make it better as
+a therapeutic protein,
+applying a technique
+called directed evolution.
+Directed evolution is
+evolution like occurs in nature
+but for a goal that we choose,
+and the most common
+approach there had been to
+randomly change the capsid sequence
+to make very large libraries,
+millions or even billions of different
+capsid sequence molecules.
+With a very low quality
+library, but a very large one,
+you have a chance of getting a good hit,
+but it's like a needle in a haystack.
+And the reason is because the capsid has
+many different functions,
+and if you break even one of them,
+then, as a therapeutic,
+it's essentially useless.
+Roughly 80% of the single changes
+that you could make to the capsid
+break the most essential function,
+which is the assembly and
+packaging of the genome.
+What that means is that, if by
+chance you make any mutation,
+four out of five times, it's
+gonna break the function.
+And that's a problem
+for engineering because,
+to get improved function,
+we're gonna need to make multiple changes,
+maybe even hundreds of changes.
+So if every time you make a change,
+the viability drops down,
+it's really hard to have
+a library of changes that are going to
+do a chance of finding an improved capsid.
+And that's just the basics.
+You need to be able to
+produce and purify that capsid at scale.
+It needs to be stable at
+low temperature or frozen,
+but even when it's in your body,
+which is a relatively high temperature,
+it also needs to get into the right cells.
+For example, there's a lot of unmet need
+for gene therapy in the brain
+because it's very difficult
+to get therapeutic proteins
+or other molecules across
+the blood-brain barrier.
+At a high dose, you might
+be able to get into .1%
+or maybe a little bit more
+of the neurons in the brain.
+That's not enough to treat many diseases.
+And in addition to that,
+most of the capsid delivers
+its payload to the liver.
+And at a high enough dose,
+that can also become toxic.
+We need to improve the
+efficiency of delivery
+to the target cell.
+Over decades of trying this approach,
+we just didn't get
+enough improved variants
+or variants that were optimized
+for all the different
+functions that were needed
+to make them effective as gene therapies.
+I had seen that there was a
+new wave of technologies coming
+with the potential to change
+the way that we engineer
+proteins completely.
+It starts with this DNA
+multiplexing technology.
+So we have an idea of an
+experiment we want to run,
+testing many different capsids.
+They might be designed to
+bind to a certain receptor
+or they might be designed
+in a neighborhood of sequence space
+that before we found is promising.
+And we came up with a way of
+building very large libraries of
+capsids in which the
+sequence was programmed,
+meaning we had designed it on a computer,
+synthesized that DNA,
+and then cloned it into the capsid,
+so this could be injected in a few mLs.
+The best way we have to make a prediction
+about what's gonna be safe
+and effective for humans
+is to do an animal experiment.
+We do most of our screening
+in non-human primates,
+especially in cynomolgus monkeys.
+That's one reason why we
+developed this technology
+because their lives
+are also very precious.
+We wanna get as much information as we can
+from even one experiment.
+In this case, we're measuring
+maybe a hundred or two hundred thousand,
+sometimes even a million
+different capsid sequences
+in that one animal.
+We'll get all these tissues back
+from our animal experiments,
+and then we wanna learn as much as we can
+from that experiment,
+meaning look at every organ.
+Where did the capsids go
+or where did they not go?
+Extract the nucleic acids,
+purify the DNA, purify the RNA.
+You can then work all the way back to
+what was the capsid sequence
+that this molecule corresponds to?
+Is there more or less
+of that in the library?
+And if there's more, that might mean that
+it was functionally improved for delivery.
+If there's less, it might
+mean that there was a problem
+and it was broken.
+We do this across all of our library.
+At Dyno today we've got petabytes of data
+from the DNA sequencing.
+I had always thought that proteins,
+they're too complex for us
+to understand as humans,
+certainly too complex
+for me to understand.
+When you look at a string of 735 letters,
+it's really hard to notice
+all the differences.
+But with all that data, what
+I could see, even myself, was
+there's a lot of patterns in that data,
+patterns about which amino
+acids work at each position.
+My thought was that if I
+could recognize those patterns
+and the data set is so vast,
+there's probably a lot more
+information in them as well.
+That's actually the
+perfect type of problem
+for a machine learning model.
+We can use AI to automate
+the analysis of all that data
+and to find even more nuanced patterns
+to maximize the chances of success,
+the expected value of
+finding an improved variant.
+We call that AI-guided design.
+But once we have that data
+and we've trained models on it,
+we can now query those models
+billions and billions of times.
+So our ability to scale
+the computational work
+is even higher than the molecular side.
+We can't possibly test
+everything in an experiment.
+But with machine learning,
+we can test many different
+sequences in silico,
+meaning on a computer,
+and the models will tell us which ones
+they think are better,
+or we might try many models,
+tens or hundreds of different models
+that each have a different insight.
+And we compare the opinions
+of all those different experts
+to choose the ones that
+we're very confident
+are worth investing in
+as we bring them forward
+into the next experiment.
+So it's this iterative cycle
+of making libraries in DNA,
+measuring their properties,
+then building models
+to analyze and understand
+those properties.
+Then querying the models to know
+where are the most promising regions
+of sequence space that we should go next.
+And then going back to
+design a new library,
+turning that into DNA.
+We're using a lot of technology,
+but there's always human
+judgment at some point
+before we do another round of experiments.
+I think that, over time, what we wanna do
+is put humans at an even
+higher point of leverage
+so that they're able to use
+their exceptional judgment
+and shift some of the more
+routine tasks to AI agents
+or even just to simple scripts
+that run on the computer.
+Being able to collaborate
+with AIs more effectively
+is where we'd like to go so that we can,
+for example, give instructions to the AI
+to automate how we analyze the
+library or how we design it
+and get back the answers that we expect.
+We wanna get the results
+as fast as we can.
+Patients are waiting for better medicines.
+We wanna make sure that,
+if there's anything wrong,
+we catch it quickly,
+and for that, we need a human in the loop.
+The power of genetic technology is that
+once you get inside of
+cells with a DNA molecule,
+that molecule can stay there
+for the lifetime of the cell.
+So for example, in the neurons
+where they're not dividing,
+getting the right therapeutic
+DNA sequence into the neuron
+can be effectively a cure for
+a patient's entire lifetime.
+That's the reason why at Dyno,
+and myself personally, and many of us
+are so excited about the
+potential of gene therapy.
+A good example of this would be Zolgensma,
+which is now an approved medicine
+and was really a breakthrough drug.
+SMA, spinal muscular atrophy,
+was the leading cause of death
+from a genetic disease in
+children prior to this treatment.
+The problem is that the SMN1 gene
+is not functional in patients.
+This disease, prior to gene
+therapy, was always fatal
+at a very young age. Children would die
+usually around two or three years old.
+With Zolgensma though,
+if children are treated very early,
+in the first few weeks of life, say,
+the gene therapy can restore
+the function of that gene.
+It can, with a one-time treatment,
+completely cure the disease.
+And it's an example of the
+amazing potential of gene therapy.
+What's unfortunate is that there's,
+today, just a handful of
+FDA-approved gene therapies,
+but there's thousands of genetic diseases
+that we know about, 7,000 or more.
+And for most of them,
+we have no good treatment
+options available.
+What we want to be able to do
+with our capsid engineering work,
+by solving deliveries,
+make it easier to get into
+all the cells that will
+enable us to then apply
+the knowledge we have
+from genome sequencing
+and from systems biology
+to develop therapies that are gonna treat
+the underlying cause of those diseases.
+Today, most of our attention,
+most of the industry's attention
+is focused on a smaller
+number of diseases,
+diseases that could benefit more patients,
+and where the markets are large enough
+to justify commercial investment.
+There's also a long tail of
+rare and ultra-rare diseases
+where there might only be 10
+or even a single patient
+in the entire world
+who has a certain disease.
+Today, gene therapies are very expensive.
+A single dose might cost
+millions of dollars.
+Our goal is to bring the cost
+of delivery down to zero,
+or very, very close to it.
+To do that, we also need
+to enable there to be
+many more genetic medicines
+so that there's good
+competition between developers.
+We can also look to other
+industries where there's been
+really dramatic changes
+in the cost efficiencies
+and the scale economies over time.
+One of them is in semiconductors,
+as we've been able to dramatically improve
+the number of transistors
+that you can put on a chip.
+Other areas like solar where
+we'd been able to bring the cost down
+more than 200 fold over five decades
+and increase deployment
+over 100,000 times.
+These phenomena are all
+called Wright's Law,
+which is basically that with
+every doubling of production,
+there's a percentage decrease in the cost.
+And in gene therapy,
+I think there will be something similar.
+So we can go from a gene
+therapy that might cost
+hundreds of thousands of dollars
+down to something that costs $10,000
+or even $1,000 to develop.
+To the point where rare
+diseases or ultra-rare diseases,
+non-profit efforts could be fully funding
+the treatments for patients.
+Obviously, there's a lot
+of things we need to do
+in order to achieve that.
+Solving delivery is just one of them.
+The therapies are complex
+and we don't understand exactly how to
+design them in a way they're
+gonna work in humans,
+but AI may be part of that solution
+because if an AI could design
+a therapy just for one patient
+and customize it to their genome sequence,
+customize it to their goals,
+that could be done on-demand,
+and that AI could even chart out
+how to develop the
+therapy, how to produce it,
+how to test it, how to
+ensure that it's safe.
+This could be done in a
+massively scalable way.
+And I think that's the
+path that we can use
+to solve for the long tail of disease
+and to help patients who, today,
+we understand their genetics.
+We know what the problem is.
+We even, in many cases, know how to design
+a therapy that could help them,
+but we need to be able to bring that
+to the patient directly,
+and AI is a way that
+they can get the benefit
+from all this innovation
+in a way that's economically affordable.
+As there's more gene therapies,
+one thing that we may want to do is
+to be able to reset or
+remove prior gene therapies.
+It's far away because it's
+not the urgent priority today.
+But for a future with genetic agency
+where patients are making the best choice
+for them to live a healthy life,
+they may want to be able to
+upgrade their therapy in time.
+This ability to reset would
+give them that potential.
+For example, if there's a new approach
+that's even more effective,
+a patient wouldn't think
+twice about taking that now,
+knowing that they could
+remove it in the future
+and replace it with a better therapy
+that might come along in 10 or 20 years.
+That makes gene therapy a
+much more routine decision.
+What that means is that
+we can think about genetic technologies
+less as really a part of us,
+but just something that we choose to use
+in the same way that I might
+wear one set of clothes a day
+or a different set next year,
+but that's not really part of who I am.
+And I think about that
+very differently than
+today how I think about my genome,
+which has always been a part of me.
+And up until very recently,
+I thought I would die
+with the same genome that I was born with.
+Because of the genetic technologies,
+I think we're gonna no longer
+associate the genetics that
+we have with who we are,
+and it's more a decision
+for who we want to be
+or what we want to become,
+and you'll be able to have
+much more control over that
+so you can live the
+very best possible life.
