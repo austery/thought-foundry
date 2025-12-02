@@ -1,0 +1,6941 @@
+Hey
+ everybody,
+ welcome
+ back
+ to
+ the
+
+
+channel.
+ We
+ are
+ back
+ on
+ another
+ episode
+
+
+of
+ the
+ daily
+ recap.
+ I
+ hope
+ everyone
+ had
+
+
+a
+ great
+ Thanksgiving.
+ You
+ know,
+ I
+
+
+legitimately
+ did
+ not
+ think
+ about
+ the
+
+
+markets
+ and
+ quite
+ frankly
+ anything
+ over
+
+
+the
+ past
+ couple
+ days.
+ It's
+ the
+ longest
+
+
+4-day
+ break
+ that
+ I've
+ had
+ from
+ even
+
+
+streaming
+ or
+ making
+ videos
+ in
+ a
+ while.
+
+
+And
+ so,
+ uh,
+ I
+ think
+ it
+ was
+ a
+ need
+ a
+
+
+refresher.
+ Spent
+ some
+ time
+ with
+ family.
+
+
+Hopefully,
+ you
+ guys
+ got
+ to
+ enjoy.
+ As
+ you
+
+
+can
+ see,
+ the
+ beard
+ is
+ continuing
+ to
+ grow
+
+
+out.
+ I
+ legit
+ have
+ gray
+ hair.
+ Like,
+ I
+
+
+like
+ I
+ don't
+ even
+ know
+ how
+ to
+ feel
+ about
+
+
+it.
+ I'm
+ 28.
+ I
+ don't
+ know if
+ that's
+ the
+
+
+age
+ you're
+ supposed
+ to
+ get
+ gray
+ hair.
+ I
+
+
+don't
+ know if
+ the
+ market
+ has
+ aged
+ me.
+
+
+I'm
+ not
+ going
+ to
+ shave
+ my
+ beard
+ just
+ cuz
+
+
+I
+ have
+ gray
+ hair.
+ But
+ it's
+ like
+ it's
+
+
+obvious.
+ It's
+ very
+ visible.
+ It's
+ like
+
+
+freaking
+ Santa
+ Claus.
+ Like
+
+
+[laughter]
+
+
+this
+ is
+ I
+ told
+ you
+ guys
+ I'm
+ becoming
+ an
+
+
+you
+ guys
+ say
+ I'm
+ still
+ young.
+ I'm
+
+
+getting
+ older.
+ But
+ lot
+ to
+ talk
+ about
+
+
+today.
+ Jensen
+ finally
+ addressing
+ the
+
+
+issues
+ with
+ Google's
+ TPUs
+ versus
+ Nvidia.
+
+
+So
+ we'll
+ get
+ into
+ what's
+ going
+ on
+ in
+ the
+
+
+world
+ of
+ AI
+ and
+ what
+ Jensen
+ had
+ to
+ say.
+
+
+uh
+ state
+ of
+ the
+ consumer,
+ lots
+ of
+ new
+
+
+updates
+ in
+ regards
+ to
+ the
+ retailer
+
+
+companies,
+ Kohl's,
+ Best
+ Buy,
+ Abocram,
+
+
+etc.
+ that
+ have
+ put
+ up
+ some
+ really
+ good
+
+
+earnings
+ and
+ the
+ Black
+ Friday
+ analytics
+
+
+that
+ we
+ got
+ over
+ the
+ past
+ two
+ days
+ are
+
+
+looking
+ pretty
+ strong
+ for
+ the
+ consumer.
+
+
+So,
+ we'll
+ talk
+ more
+ about
+ that.
+ Uh
+ and
+
+
+then
+ crypto,
+ what
+ the
+ hell
+ is
+ happening
+
+
+in
+ crypto?
+ Got
+ some
+ issues
+ with
+ Japan.
+ I
+
+
+know
+ people
+ have
+ heard
+ about
+ the
+ yen
+
+
+carry
+ trade.
+ We're
+ going
+ to
+ have
+ to
+ talk
+
+
+about
+ it
+ again
+ today
+ because
+ it's
+
+
+affecting
+ the
+ crypto
+ markets
+ and
+ quite
+
+
+frankly,
+ it
+ might
+ affect
+ the
+ stock
+
+
+market.
+ Let's
+ get
+ into
+ it.
+ All
+ right,
+
+
+let's
+ get
+ started
+ with
+ Nvidia.
+ Uh,
+ big
+
+
+announcement
+ today
+ from
+ Jensen,
+ $2
+
+
+billion
+ investment
+ into
+ Synopsis.
+ Going
+
+
+to
+ be
+ honest,
+ I
+ don't
+ know
+ everything
+
+
+about
+ that
+ company.
+ However,
+ it
+ is
+ one
+
+
+of
+ the
+ more
+ important
+ companies
+ when
+ it
+
+
+comes
+ to
+ semiconductor
+ manufacturing
+ for
+
+
+chip
+ design.
+ They're
+ a
+ leading
+ provider
+
+
+of
+ electronic
+ design
+ automation,
+ which
+
+
+is
+ EDA
+ software.
+ Uh,
+ basically,
+ it's
+
+
+essential
+ for
+ designing
+ and
+ verifying
+
+
+integrated
+ circuits
+ for
+ the
+ creation
+ of
+
+
+complex
+ chips
+ and
+ systems.
+ Nvidia
+ put
+ in
+
+
+two
+ billion.
+ and
+ the
+ stock
+ was
+ up
+ 7%
+ on
+
+
+the
+ day.
+ Why
+ did
+ Nvidia
+ invest?
+ Well,
+ uh
+
+
+they've
+ got
+ a
+ lot
+ of
+ cash.
+ They
+ need
+ to
+
+
+put
+ that
+ cash
+ to
+ use.
+ And
+ as
+ a
+ result,
+
+
+Jensen
+ continued
+ to
+ make
+ another
+
+
+investment
+ into
+ Nvidia
+ or
+ into
+ synopsis.
+
+
+Real
+ quick
+ before
+ we
+ get
+ into
+ what
+ he
+
+
+said
+ about
+ Google
+ and
+ the
+ TPUs
+ because
+ I
+
+
+know
+ that's
+ the
+ more
+ interesting
+ comment
+
+
+here.
+ A
+ lot
+ of
+ people
+ once
+ again
+ today
+
+
+are
+ talking
+ about
+ this
+ circular
+
+
+financing
+ argument
+ and
+ again
+ it
+ really
+
+
+just
+ doesn't
+ make
+ a
+ lot
+ of
+ sense
+ to
+ me.
+
+
+Jensen
+ made
+ [clears throat]
+ a
+ comment
+ on
+
+
+the
+ investment
+ in
+ Synopsis
+ by
+ saying
+
+
+Synopsis
+ is
+ helping
+ design
+ the
+
+
+architecture
+ of
+ very
+ complex
+ chip
+
+
+systems.
+ Nvidia
+ is
+ a
+ chip
+ company.
+ So
+
+
+yes,
+ will
+ Nvidia
+ benefit
+ from
+ uh
+ a
+
+
+company
+ like
+ Synopsis
+ procuring
+ the
+
+
+services
+ from
+ Nvidia
+ and
+ buying
+ chips?
+
+
+Of
+ course,
+ but
+ there's
+ also
+ something
+
+
+very
+ very
+ special
+ to
+ CUDA,
+ which
+ is
+ one
+
+
+would
+ argue
+ Nvidia
+ software
+ mode
+ that
+
+
+synopsis
+ is
+ uniquely
+ intertwined
+ in.
+ So,
+
+
+the
+ idea
+ that
+ Nvidia
+ is
+ giving
+ them
+ $2
+
+
+billion
+ and
+ participating
+ in
+ the
+ upside
+
+
+of
+ their
+ stock
+ going
+ up
+ and
+ Synopsis
+
+
+potentially
+ buying
+ products
+ from
+ Nvidia,
+
+
+which
+ also
+ helps
+ Nvidia's
+ revenue
+ growth
+
+
+being
+ circular
+ to
+ me
+ doesn't
+ make
+ a
+ lot
+
+
+of
+ sense
+ if
+ Synopsis
+ has
+ an
+ actual
+
+
+business
+ outside
+ of
+ just
+ buying
+ from
+
+
+Nvidia,
+ selling
+ to
+ Nvidia,
+ which
+ is
+
+
+where
+ the
+ sort
+ of
+ circular
+ loop
+ comes
+
+
+in.
+ Same
+ thing
+ with
+ Enthropic,
+ same
+
+
+thing
+ with
+ OpenAI.
+ If
+ these
+ companies
+
+
+have
+ actual
+ business
+ models,
+ even
+ if
+
+
+they
+ get
+ an
+ investment
+ from
+ an
+ Nvidia
+
+
+like
+ an
+ Intel,
+ which
+ got
+ a
+ $5
+ billion
+
+
+investment
+ from
+ from
+ Nvidia,
+ which
+ is
+
+
+now
+ eight
+ billion,
+ so
+ Jensen's
+ up
+ 70%
+ on
+
+
+that.
+ If
+ they
+ make
+ money
+ on
+ other
+ things
+
+
+outside
+ of
+ the
+ investment
+ from
+ the
+
+
+investor
+ and
+ the
+ entity
+ that
+ that
+ that
+
+
+is
+ creating
+ the
+ the
+ the
+ share
+ price
+
+
+appreciation
+ aka
+ in
+ this
+ case
+ Nvidia
+ and
+
+
+that's
+ not
+ circular.
+ That's
+ Nvidia
+
+
+making
+ an
+ investment
+ in
+ a
+ company
+ that
+
+
+happens
+ to
+ be
+ a
+ client
+ but
+ that
+ company
+
+
+going
+ out
+ providing
+ products
+ and
+
+
+services
+ to
+ the
+ world
+ and
+ then
+
+
+increasing
+ their
+ earnings
+ and
+ then
+
+
+Nvidia
+ sharing
+ the
+ upside
+ of
+ the
+ price
+
+
+appreciation
+ if
+ the
+ company
+ is
+ able
+ to
+
+
+use
+ that
+ investment
+ to
+ grow
+ their
+ actual
+
+
+earnings.
+ So
+ I
+ really
+ don't
+ think
+ this
+
+
+is
+ circular.
+ I
+ think
+ the
+ circular
+
+
+argument
+ is
+ starting
+ to
+ be
+ a
+ bit
+ stale.
+
+
+Uh
+ you've
+ got
+ Michael
+ Bur
+ putting
+ out
+
+
+more
+ substacks.
+ I
+ think
+ his
+ latest
+
+
+substack
+ now
+ was
+ about
+ Nvidia
+ stockbased
+
+
+compensation
+ being
+ bearish.
+ I
+ mean,
+ it's
+
+
+just
+ more
+ and
+ more
+ arguments
+ that
+ are
+
+
+being
+ thrown
+ out
+ there.
+ Genuinely,
+ I
+ am
+
+
+starting
+ to
+ sleep
+ like
+ a
+ baby
+ at
+ night
+
+
+holding
+ my
+ Nvidia.
+ I
+ mean,
+ last
+ week
+ I
+
+
+really
+ thought
+ about
+ this
+ TPU
+ Google
+
+
+thing
+ and
+ I'm
+ still
+ doing
+ more
+ research
+
+
+on
+ it,
+ but
+ I
+ don't
+ think
+ it's
+ a
+ big
+
+
+deal.
+ Like,
+ I
+ really
+ don't.
+ You
+ had
+ the
+
+
+Google
+ Deep
+ Mind
+ research
+ guy
+ last
+ week
+
+
+say
+ the
+ market
+ selling
+ off
+ Nvidia
+ is
+
+
+stupid
+ and
+ he's
+ a
+ guy
+ who
+ helps
+ design
+
+
+TPUs.
+ And
+ then
+ you
+ have
+ the
+ growth
+ of
+
+
+the
+ overall
+ AI
+ data
+ center
+ market
+ that
+
+
+we're
+ about
+ to
+ talk
+ about
+ continuing
+ to
+
+
+just
+ be
+ tremendous.
+ Which
+ makes
+ me
+ think
+
+
+even
+ if
+ Google
+ was
+ able
+ to
+ take
+ some
+
+
+market
+ share,
+ Nvidia
+ training
+ at
+ 25
+
+
+times
+ earnings
+ with
+ a
+ quarter
+ that
+
+
+they're
+ likely
+ going
+ to
+ beat
+ on
+ $65
+
+
+billion
+ in
+ revenue
+ in
+ Q4
+ is
+ stupid.
+ And
+
+
+I
+ think
+ eventually
+ the
+ market
+ will
+ catch
+
+
+up
+ to
+ that.
+ Catch
+ up
+ to
+ that
+ as
+ well.
+
+
+Here's
+ what
+ Jensen
+ said
+ about
+ Google
+
+
+today.
+
+
+You
+ know,
+ listen,
+ we've
+ been
+ uh
+ we've
+
+
+been
+ competing
+ with
+ AS6
+ now
+ for
+ quite
+ a
+
+
+long
+ time
+ and
+ Google
+ has
+ A6
+ for
+ a
+ long
+
+
+time.
+ Nvidia's
+ Nvidia
+ and
+ they
+ did
+ a
+
+
+great
+ job
+ as
+ you
+ know
+ and
+ I've
+ always
+
+
+been
+ complimentary
+
+
+>> always.
+
+
+>> What
+ NVIDIA
+ does
+ is
+ much
+ more
+ versatile.
+
+
+Our
+ technology
+ is
+ much
+ more
+ funible.
+
+
+Notice
+ the
+ announcement
+ today.
+
+
+Accelerating
+ synopsis
+ design
+ tools,
+ the
+
+
+EDA,
+ the
+ SDA,
+ the
+ CAE
+ tools
+ requires
+ a
+
+
+computer
+ architecture
+ like
+ CUDA.
+ It's
+
+
+not
+ available
+ for
+ AS6.
+ And
+ so
+ NVIDIA
+ can
+
+
+address
+ markets
+ that
+ are
+ much
+ much
+
+
+broader,
+ not
+ just
+ chatbots.
+ We
+ are
+ also
+
+
+everywhere.
+ We're
+ in
+ every
+ cloud.
+ We're
+
+
+in
+ every
+ single
+ OEM.
+ We're
+ on
+ prem
+ and
+
+
+we're
+ also
+ at
+ the
+ edge.
+ And
+ so
+ the
+
+
+NVIDIA
+ opportunity
+ is
+ much
+ much
+ larger.
+
+
+And
+ you're
+ now
+ seeing
+ a
+ real
+ tangible
+
+
+experience
+ example
+ of
+ an
+ opportunity
+
+
+that
+ we
+ could
+ do
+ with
+ our
+ platform
+ that
+
+
+nobody
+ else
+ can.
+ And
+ so
+ this
+ is
+ a
+ very
+
+
+big
+ opportunity
+ for
+ us,
+ huge
+ opportunity
+
+
+to
+ reinvent
+ the
+ EDA
+ industry,
+ the
+ design
+
+
+and
+ engineering
+ industry
+ for
+ Synopsis
+
+
+and
+ the
+ rest
+ of
+ the
+ industry
+ and
+ a
+
+
+growth
+ opportunity
+ for
+ us
+ because
+ this
+
+
+is
+ so
+ computationally
+ intensive.
+
+
+>> So
+ pretty
+ nice
+ response
+ from
+ Jensen.
+ He
+
+
+uh
+ you
+ know
+ respectful
+ to
+ Google
+
+
+congratulates
+ them
+ on
+ the
+ on
+ their
+
+
+success
+ but
+ he
+ says
+ Google's
+ had
+ them
+
+
+for
+ a
+ long
+ time
+ when
+ he's
+ talking
+ about
+
+
+them
+ he
+ means
+ A6
+ and
+ what
+ Nvidia
+ does
+ is
+
+
+much
+ more
+ versatile.
+ We
+ are
+ everywhere.
+
+
+We
+ are
+ in
+ every
+ cloud.
+ The
+ Nvidia
+
+
+opportunity
+ is
+ just
+ much
+ larger.
+ I
+ think
+
+
+Jensen's
+ basically
+ making
+ the
+ argument
+
+
+that
+ yes
+ these
+ TPUs
+ are
+ awesome
+ and
+ yes
+
+
+we're
+ happy
+ that
+ Google
+ is
+ successful
+
+
+but
+ this
+ is
+ not
+ the
+ death
+ of
+ Nvidia
+ and
+
+
+people
+ saying
+ it's
+ the
+ death
+ of
+ Nvidia
+
+
+is
+ a
+ bit
+ premature.
+ Morgan
+ Stanley
+ put
+
+
+out
+ a
+ report
+ today
+ as
+ well
+ saying
+ that
+
+
+they
+ forecast
+ if
+ Google
+ sells
+
+
+approximately
+ 12
+ million
+ TPUs
+ over
+ the
+
+
+next
+ two
+ years,
+ which
+ would
+ be
+ double
+
+
+their
+ estimate
+ of
+ 6.2
+ million.
+ Every
+
+
+500,000
+ TPUs
+ could
+ add
+ 13
+ billion
+ in
+
+
+revenue
+ and
+ 40
+ cents
+ to
+ Google
+ earnings
+
+
+per
+ share
+ in
+ 2027
+ alone.
+ Bullish,
+
+
+very
+ bullish
+ Google,
+ not
+ bearish
+ Nvidia.
+
+
+And
+ so
+ I
+ didn't
+ buy
+ more
+ Nvidia
+ today.
+
+
+It
+ dipped
+ for
+ a
+ little
+ bit
+ and
+ then
+ it
+
+
+kind
+ of
+ rebounded,
+ closed
+ at
+ around
+ 179.
+
+
+Uh
+ last
+ time
+ I
+ bought
+ was
+ at
+ 170.
+ If
+ we
+
+
+go
+ below
+ 170,
+ I
+ will
+ be
+ buying
+ more.
+ I
+
+
+don't
+ know if
+ the
+ Santa
+ Claus
+ rally
+ is
+
+
+necessarily
+ going
+ to
+ happen
+ this
+ year.
+
+
+We'll
+ talk
+ more
+ about
+ what's
+ going
+ on
+ in
+
+
+the
+ macro,
+ but
+ if
+ it
+ does
+ happen
+ or,
+ you
+
+
+know,
+ we
+ get
+ any
+ level
+ of
+ broad-based
+
+
+market
+ momentum,
+ two
+ and
+ a
+ half%
+ away
+
+
+from
+ the
+ S&P
+ 500
+ getting
+ to
+ 7,000,
+ which
+
+
+by
+ the
+ way,
+ since
+ 1950,
+ 75%
+ of
+ the
+ time,
+
+
+the
+ S&P
+ 500
+ has
+ averaged
+ a
+ 1.5%
+ move
+ in
+
+
+the
+ month
+ of
+ December.
+ So
+ maybe
+ that
+
+
+happens
+ this
+ time
+ as
+ well.
+ Then
+ I
+ think
+
+
+Nvidia
+ probably
+ is
+ closer
+ to
+ that
+ 190
+
+
+range
+ standout
+ of the
+ year.
+ Maybe
+ even
+
+
+higher
+ if
+ we're
+ able
+ to
+ have
+ a
+
+
+broad-based
+ rally.
+ Last
+ thing
+ on
+ Nvidia
+
+
+right
+ here,
+ I
+ saw
+ this
+ note
+ from
+ Morgan
+
+
+Stanley
+ that
+ I
+ thought
+ was
+ also
+ very
+
+
+interesting.
+ So
+ again,
+ they
+ Morgan
+
+
+Stanley
+ super
+ bullish
+ on
+ Alphabet
+ and
+
+
+their
+ TPUs,
+ but
+ once
+ again,
+ they
+ said,
+
+
+"We're
+ not
+ bearish
+ Nvidia.
+ We
+ continue
+
+
+to
+ see
+ Nvidia
+ maintaining
+ dominant
+
+
+market
+ shares
+ as
+ threats
+ are
+ becoming
+
+
+overstated,
+ though
+ we
+ aren't
+ exactly
+
+
+sure
+ what
+ will
+ turn
+ sentiment
+ around.
+
+
+Our
+ belief
+ informed
+ by
+ industry
+
+
+contracts
+ is
+ that
+ Nvidia
+ will
+ have
+ the
+
+
+best
+ economics
+ for
+ most
+ applications,
+
+
+and
+ that
+ is
+ unwavering.
+ And
+ here's
+ the
+
+
+sentence
+ that
+ I
+ thought
+ was
+ the
+ most
+
+
+important.
+ company's
+ biggest
+ anxiety
+ for
+
+
+the
+ next
+ 12
+ months
+ is
+ their
+ ability
+ to
+
+
+procure
+ enough
+ Nvidia
+ product
+ generally
+
+
+and
+ Vera
+ Rubin
+ specifically.
+
+
+So
+ you've
+ got
+ the
+ market
+ saying
+ that
+
+
+this
+ is
+ all
+ a
+ um
+ all
+ a
+ bubble
+ and
+ Morgan
+
+
+Stanley
+ is
+ like
+ well
+ the
+ customers
+ we're
+
+
+talking
+ to
+ their
+ biggest
+ concern
+ is
+
+
+anxiety
+ that
+ they
+ don't
+ have
+ enough
+
+
+chips
+ or
+ that
+ they
+ won't
+ be
+ next
+ up
+ in
+
+
+line
+ to
+ get
+ the
+ latest
+ chip
+ not
+ that
+
+
+there's
+ a
+ bubble
+ in
+ too
+ many
+ chips
+ or
+
+
+too
+ many
+ data
+ centers.
+ And
+ so
+ I
+ think
+
+
+when
+ you
+ look
+ at
+ it
+ from
+ that
+
+
+perspective,
+ and
+ we'll
+ keep
+ covering
+ it
+
+
+every
+ single
+ day
+ on
+ this
+ show
+ because
+
+
+that
+ is
+ the
+ side
+ of
+ the
+ argument
+ that
+
+
+the
+ data
+ is
+ leading
+ me
+ to
+ believe.
+ And
+
+
+I'm
+ trying
+ to
+ be
+ super
+ objective
+ here,
+
+
+if
+ I've
+ got
+ a
+ bad
+ investment
+ in
+ Nvidia,
+
+
+I
+ would
+ want
+ to
+ know
+ first
+ before
+ anyone
+
+
+else
+ so
+ I
+ could
+ sell
+ it,
+ right?
+ Like
+ I'm
+
+
+trying
+ to
+ be
+ very
+ objective
+ and
+ say,
+ is
+
+
+this
+ real
+ or
+ is
+ it
+ not?
+ And
+ based
+ on
+ all
+
+
+the
+ data
+ we're
+ looking
+ at,
+ based
+ on
+ the
+
+
+numbers
+ that
+ I'm
+ looking
+ at,
+ it
+ seems
+
+
+very,
+ very
+ real.
+ And
+ as
+ a
+ result,
+ it
+
+
+does
+ not
+ seem
+ like
+ it's
+ going
+ anywhere.
+
+
+And
+ it
+ seems
+ like
+ Nvidia
+ is
+ going
+ to
+
+
+continue
+ to
+ grow
+ and
+ maintain
+ this
+
+
+moment.
+ Last
+ quick
+ thing
+ on
+ Nvidia.
+ This
+
+
+is
+ what
+ their
+ 13F
+ looks
+ like
+ now.
+
+
+Synopsis,
+ $2
+ billion
+ valuation
+ or
+ $2
+
+
+billion
+ stake.
+ Coreweave
+ was
+ worth
+ 3.3
+
+
+billion.
+ Now
+ it's
+ 1.8
+ billion
+ and
+ then
+
+
+Intel
+ at
+ about
+ eight
+ and
+ a
+ half
+ billion.
+
+
+So
+ I
+ think
+ Nvid
+ is
+ also
+ becoming
+ a
+
+
+little
+ bit
+ of
+ a
+ Birkshire
+ Hathaway,
+ you
+
+
+know,
+ kind
+ of
+ a
+ holding
+ company
+ for
+ a
+
+
+lot
+ of
+ these
+ equity
+ stakes.
+ And
+ it
+ makes
+
+
+sense.
+ They
+ have
+ too
+ much
+ cash.
+ Buying
+
+
+back
+ the
+ stock's
+ not
+ going
+ to
+ help.
+
+
+Giving
+ a
+ dividend
+ is
+ not
+ going
+ to
+ help.
+
+
+they
+ need
+ to
+ put
+ that
+ money
+ back
+ into
+
+
+the
+ ecosystem
+ and
+ not
+ get
+ that
+ money
+
+
+back
+ in
+ terms
+ of
+ chip
+ sales,
+ but
+ get
+
+
+these
+ companies
+ to
+ be
+ able
+ to
+ really
+ use
+
+
+that
+ money
+ to
+ grow
+ their
+ own
+ earnings.
+
+
+And
+ I
+ think
+ if
+ Nvidia
+ continues
+ to
+ do
+
+
+that,
+ that's
+ another
+ angle
+ on
+ how
+ they
+
+
+can
+ grow
+ earnings
+ per
+ share
+ without
+
+
+having
+ to
+ do
+ anything,
+ just
+ letting
+
+
+those
+ companies
+ continue
+ to
+ grow
+ as
+ the
+
+
+equity
+ stakes
+ will
+ uh
+ influence
+ Nvidia's
+
+
+earnings
+ a
+ decade
+ from
+ now.
+ And
+ that's
+
+
+another
+ way
+ to
+ think
+ that
+ this
+ stock
+
+
+continues
+ to
+ be
+ at
+ 25
+ times
+ earnings
+
+
+next
+ year,
+ pretty
+ cheap.
+ All
+ right,
+ next
+
+
+topic.
+ Let's
+ get
+ into
+ it.
+ We
+ got
+ Japan.
+
+
+So,
+ what
+ happened
+ last
+ night?
+ Bitcoin
+
+
+fell
+ from
+ 91,000
+ to
+ 85,000.
+ That
+ carnage
+
+
+has
+ continued
+ to
+ affect
+ Bitcoin
+ today.
+
+
+Uh
+ Micro
+ Strategy,
+ BMR,
+ Ethereum,
+ all
+
+
+those
+ stocks
+ getting
+ hit
+ badly.
+ Bitcoin
+
+
+right
+ now
+ at
+ 86,000.
+ So
+ why
+ is
+ Bitcoin
+
+
+selling
+ off
+ and
+ why
+ is
+ it
+ having
+ as
+ much
+
+
+pain
+ as
+ it
+ has
+ been
+ having
+ over
+ the
+ past
+
+
+basically
+ 24
+ hours?
+ Well,
+
+
+Japanese
+ bond
+ yields
+ are
+ rising
+ again.
+
+
+Now,
+ Japanese
+ bond
+ yields
+ were
+ rising
+
+
+last
+ week
+ after
+ the
+ announcement
+ of
+ all
+
+
+the
+ stimulus.
+ And
+ basically,
+ when
+ bond
+
+
+yields
+ go
+ up,
+ that
+ means
+ the
+ value
+ of
+
+
+bonds
+ go
+ down.
+ Uh
+ investors
+ are
+ um
+
+
+selling
+ off
+ those
+ bonds
+ because
+ they
+ are
+
+
+afraid
+ of
+ something.
+ In
+ this
+ case,
+ bond
+
+
+yields
+ tend
+ to
+ be
+ signaling
+ afraid
+ of
+ uh
+
+
+well,
+ I
+ mean,
+ when
+ you're
+ selling
+ off
+
+
+bonds,
+ it
+ tends
+ to
+ be
+ signaling
+ you're
+
+
+afraid
+ either
+ of
+ inflation,
+ you're
+
+
+afraid
+ of
+ the
+ credit
+ situation
+ in
+ a
+
+
+country.
+ You're
+ afraid
+ of
+ the
+ ability
+
+
+for
+ a
+ country
+ to
+ pay
+ back
+ its
+ debt.
+ I
+
+
+mean,
+ there's
+ a
+ variety
+ of
+ reasons,
+ but
+
+
+the
+ number
+ one
+ reason
+ is
+ you're
+ not
+
+
+fully
+ sure
+ that
+ the
+ monetary
+ policy
+ that
+
+
+the
+ government
+ is
+ engaging
+ in
+ is
+
+
+effective.
+ So,
+ what
+ really
+ sparked
+ a
+ lot
+
+
+of
+ excitement
+ last
+ night,
+ and
+ that
+
+
+excitement
+ ended
+ up
+ being
+ not
+ as
+
+
+exciting
+ for
+ the
+ price
+ action
+ of
+
+
+Bitcoin,
+ is
+ that
+ the
+ 10-year
+ Japanese
+
+
+yield,
+ 10-year
+ bond,
+ uh,
+ ended
+ up
+
+
+yielding
+ its
+ highest
+ percentage
+ since
+
+
+April
+ of
+ 2008.
+ Folks,
+ the
+ 10-year
+ on
+
+
+Japanese
+ markets
+ ended
+ up
+ going
+ up
+ to
+
+
+1.8%.
+ So,
+ this
+ was
+ not
+ good
+ to
+ see.
+ And
+
+
+and
+ the
+ reason
+ this
+ was
+ not
+ good
+ to
+ see
+
+
+is
+ because
+ you
+ cannot
+ have
+ these
+ yields
+
+
+spiking
+ at
+ astronomical
+ levels.
+ The
+ more
+
+
+they
+ spike,
+ the
+ more
+ investor
+ confidence
+
+
+gets
+ scared
+ about
+ what
+ the
+ heck
+ is
+ going
+
+
+on
+ in
+ the
+ country
+ of
+ the
+ yield
+ or
+ the
+
+
+bond
+ that
+ is
+ spiking.
+ And
+ and
+ and
+ and
+
+
+part
+ of
+ the
+ reason
+ why
+ the
+ um
+ country
+ is
+
+
+having
+ some
+ issues
+ right
+ now
+ from
+ a
+
+
+macro
+ perspective
+ is
+ that
+ Japan
+ is
+ one
+
+
+of
+ the
+ largest
+ owners
+ of
+ US
+ treasuries.
+
+
+So,
+ if
+ people
+ aren't
+ trusting
+ Japanese
+
+
+debt
+ and
+ and
+ and
+ saying,
+ "We're
+ going to
+
+
+sell
+ off
+ your
+ bonds
+ because
+ we
+ don't,
+
+
+you
+ know,
+ we
+ don't
+ think
+ what
+ you're
+
+
+doing
+ is
+ right
+ when
+ it
+ comes
+ to
+ monetary
+
+
+policy."
+ Well,
+ that
+ country
+ has
+ to
+ get
+
+
+the
+ money
+ to
+ finance
+ their
+ obligations
+
+
+in
+ some
+ capacity.
+ Obviously,
+ most
+
+
+countries
+ are
+ financing
+ it
+ through
+ debt.
+
+
+Uh,
+ the
+ United
+ States
+ obviously
+ issues
+ a
+
+
+lot
+ of
+ debt.
+ The
+ reason
+ we
+ usually
+ get
+ a
+
+
+market
+ for
+ our
+ debt
+ is
+ because
+ people
+
+
+know
+ that
+ we're
+ the
+ United
+ States
+ and
+
+
+everyone's
+ going
+ to
+ buy
+ our
+ debt
+ or
+
+
+we're
+ at least
+ going
+ to
+ be
+ good
+ for
+ our
+
+
+debt,
+ so
+ people
+ want
+ to
+ buy
+ it.
+
+
+um
+ you
+ are
+ starting
+ to
+ get
+ some
+ fears
+
+
+that
+ Japan
+ might
+ not
+ be
+ good
+ for
+ the
+
+
+interest
+ that
+ they
+ owe
+ on
+ the
+ debt
+ or
+ at
+
+
+least
+ investors
+ are
+ saying,
+ "Hey,
+ if
+
+
+you're
+ going
+ to
+ take
+ our
+ money,
+ we
+ need
+
+
+a
+ lot
+ more
+ interest.
+ We
+ need
+ a
+ lot
+ more
+
+
+yield
+ on
+ these
+ bonds.
+ So,
+ we're
+ going
+ to
+
+
+sell
+ these
+ bonds
+ until
+ you
+ give
+ us
+ this
+
+
+yield,
+ aka
+ these
+ rates
+ go
+ higher
+ for
+ us
+
+
+to
+ be
+ more
+ excited
+ to
+ buy
+ your
+ bonds."
+
+
+Uh,
+ now
+ if
+ Japan
+ had
+ to
+ sell
+ the
+ 1.1
+
+
+trillion
+ of
+ US
+ bonds
+ that
+ they
+ have
+ on
+
+
+their
+ balance
+ sheet
+ to
+ be
+ able
+ to
+
+
+finance
+ whatever
+ they're
+ doing,
+ that
+
+
+would
+ also
+ not
+ be
+ the
+ best
+ thing
+ in
+ the
+
+
+world
+ for
+ our
+ bond
+ markets
+ because
+ then
+
+
+our
+ bond
+ yields
+ would
+ spike
+ and
+ then
+
+
+that
+ would
+ create
+ issues
+ in
+ a
+ variety
+ of
+
+
+uh
+ assets
+ in
+ the
+ United
+ States.
+ Now,
+ how
+
+
+does
+ this
+ affect
+ the
+ stock
+ market?
+ It
+
+
+goes
+ back
+ to
+ the
+ yen
+ carry
+ trade.
+ I
+
+
+think
+ people
+ have
+ heard
+ about
+ this
+ by
+
+
+now.
+ April
+ 2020
+ or
+ August
+ 2024
+ is
+ when
+
+
+this
+ kind
+ of
+ first
+ started.
+ But
+ the
+ yen
+
+
+and
+ shorting
+ the
+ yen,
+ which
+ is
+ the
+
+
+Japanese
+ currency,
+ has
+ been
+ one
+ of
+ the
+
+
+best
+ ways
+ for
+ hedge
+ funds
+ in
+ particular
+
+
+to
+ go
+ long
+ US
+ tech
+ stocks
+ because
+ the
+
+
+arbitrage
+ between
+ the
+ yen
+ and
+ the
+ dollar
+
+
+is
+ something
+ that
+ could
+ easily
+ be
+
+
+exploited
+ because
+ Japan
+ always
+ has
+ tried
+
+
+to
+ make
+ sure
+ their
+ yen
+ depreciated
+
+
+against
+ the
+ dollar.
+ Now,
+ the
+ yen
+ is
+
+
+appreciating
+ because
+ not
+ only
+ are
+ they
+
+
+uh
+ issuing
+ stimulus
+ in
+ the
+ country,
+
+
+which
+ is
+ getting
+ the
+ bond
+ market
+ to
+ be
+
+
+like,
+ "What
+ the
+ hell
+ is
+ going
+ on
+ here?"
+
+
+Like,
+ you
+ guys
+ can't
+ afford
+ to
+ do
+ this.
+
+
+Um,
+ but
+ Japan's
+ also
+ raised
+ rates
+ and
+
+
+they're
+ likely
+ going
+ to
+ raise
+ rates
+
+
+again
+ on
+ December
+ 19th.
+ And
+ I
+ I've
+ tried
+
+
+to
+ understand
+ why
+ they're
+ doing
+ this
+
+
+because
+ it
+ kind
+ of
+ seems
+
+
+counterintuitive.
+ Why
+ would
+ you
+ print
+
+
+money
+ and
+ then
+ raise
+ rates
+ at
+ the
+ same
+
+
+time?
+ Uh,
+ but
+ there's
+ a
+ unique
+
+
+relationship
+ Japan
+ Japan
+ has
+ between
+
+
+deflation,
+ interest
+ rates,
+ their
+ labor
+
+
+market,
+ their
+ stagnant
+ wages
+ over
+ the
+
+
+past
+ 20
+ years
+ and
+ the
+ rising
+ inflation
+
+
+that
+ has
+ started
+ to
+ happen
+ after
+
+
+basically
+ 20
+ years
+ of
+ deflation.
+ And
+ so
+
+
+they
+ kind
+ of
+ got
+ to
+ do
+ multiple
+ things
+
+
+at
+ once.
+ I'm
+ not
+ fully,
+ you
+ know,
+ an
+
+
+expert
+ on
+ exactly
+ how
+ they're
+ navigating
+
+
+it,
+ but
+ the
+ market's
+ obviously
+ not
+ the
+
+
+happiest
+ about
+ what
+ they're
+ doing.
+ On
+
+
+top
+ of
+ that,
+ Japan
+ has
+ a
+ massive
+
+
+population
+ crisis.
+ The
+ reason
+ the
+
+
+Japanese
+ prime
+ minister,
+ by
+ the
+ way,
+
+
+even
+ is
+ the
+ current
+ prime
+ minister
+ right
+
+
+now,
+ the
+ the
+ first
+ woman
+ prime
+ minister,
+
+
+is
+ because
+ the
+ previous
+ prime
+ minister
+
+
+tried
+ to
+ increase
+ immigration
+ because
+ he
+
+
+was
+ like,
+ "People
+ are
+ getting
+ older.
+
+
+Young
+ people
+ don't
+ want
+ to
+ do
+ these
+
+
+jobs.
+ We're
+ going
+ to
+ need
+ some
+
+
+immigration
+ to
+ to
+ to
+ bolster
+ up
+ the
+
+
+working
+ class
+ of
+ Japan."
+ So
+ he
+ wanted
+ to
+
+
+import
+ 500,000
+ Nigerians
+ and
+ Indians
+
+
+into
+ the
+ country.
+ Country
+ got
+ really
+
+
+mad.
+ Japan
+ people
+ revolted.
+ The
+ prime
+
+
+minister
+ had
+ to
+ resign
+ out
+ of
+ disgrace.
+
+
+That's
+ like
+ a
+ real
+ thing.
+ He
+ like
+ was
+
+
+disgraced.
+ He
+ had
+ to
+ apologize
+ to
+ the
+
+
+country.
+ And
+ you
+ had
+ a
+ new
+ prime
+
+
+minister
+ that
+ promised
+ no
+ massive
+ crazy
+
+
+immigration
+ and
+ lots
+ of
+ stimulus.
+ So
+ the
+
+
+market's
+ not
+ really
+ buying
+ exactly
+
+
+what's
+ going
+ on
+ right
+ now
+ in
+ Japan.
+ If
+
+
+the
+ yen
+ continues
+ to
+ appreciate
+ against
+
+
+the
+ dollar,
+ hedge
+ funds
+ that
+ were
+ short
+
+
+the
+ yen
+ long
+ something
+ like
+ Bitcoin
+
+
+because
+ the
+ cost
+ of
+ borrowing
+ is
+
+
+significantly
+ cheaper
+ than
+ the
+ cost
+ of
+
+
+borrowing
+ in
+ the
+ United
+ States,
+ they
+
+
+have
+ to
+ sell
+ their
+ Bitcoin
+ or
+ sell
+ their
+
+
+Nvidia
+ or
+ sell
+ whatever
+ tech
+ stock
+
+
+they're
+ long
+ on
+ and
+ buy
+ back
+ their
+
+
+short,
+ cover
+ their
+ short
+ position
+ if
+
+
+rates
+ go
+ higher.
+ And
+ that
+ arbitrage
+ is
+
+
+what's
+ potentially
+ creating
+ the
+ decline
+
+
+in
+ very
+ heavy
+ risk
+ on
+ assets
+ like
+ a
+
+
+Bitcoin.
+ Now,
+ the
+ one
+ thing
+ Nvidia
+ has
+
+
+going
+ for
+ it
+ is
+ that
+ Nvidia
+ is
+ cheap
+ on
+
+
+a
+ in
+ my
+ opinion
+ fundamental
+ basis.
+ If
+
+
+you
+ look
+ at
+ the
+ earnings,
+ Bitcoin
+ is
+
+
+pure
+ speculation.
+ Now,
+ I
+ don't
+ say
+ that
+
+
+as
+ someone
+ who's
+ bearish
+ Bitcoin.
+ In
+
+
+fact,
+ quite
+ the
+ opposite.
+ But,
+ um,
+ quite
+
+
+lit
+ legitimately,
+ you
+ don't
+ have
+ any
+
+
+earnings
+ to
+ say
+ Bitcoin's
+ cheap
+ compared
+
+
+to
+ Nvidia
+ or
+ Bitcoin's
+ cheap
+ compared
+ to
+
+
+like
+ Apple.
+ It's
+ like,
+ no,
+ it's
+ just
+
+
+like
+ it's
+ pure
+ gut
+ emotion
+ and
+ how
+
+
+people
+ feel.
+ And
+ if
+ the
+ number
+ one
+ thing
+
+
+they
+ need
+ to
+ do
+ to
+ get
+ liquidity,
+ which
+
+
+it's
+ a
+ very
+ liquid
+ market
+ open
+ 24
+ hours,
+
+
+is
+ sell
+ a
+ risk-on
+ asset
+ versus
+ Nvidia,
+
+
+which
+ is
+ also
+ a
+ risk
+ on
+ asset.
+ But
+ if
+
+
+you
+ think
+ Nvidia
+ is
+ cheap,
+ then
+ maybe
+
+
+people
+ are
+ holding
+ on
+ to
+ their
+ video
+ and
+
+
+they're
+ selling
+ their
+ most
+ speculative
+
+
+positions
+ like
+ a
+ Bitcoin
+ or
+ Ethereum
+ or
+
+
+Salana.
+ That
+ is
+ what's
+ creating
+ the
+
+
+carnage
+ in
+ the
+ crypto
+ market.
+ that
+ along
+
+
+with
+ the
+ deleveraging
+ uh
+ thesis
+ that
+ Tom
+
+
+Lee
+ has
+ had.
+ I
+ know
+ you
+ put
+ those
+ two
+
+
+together,
+ maybe
+ that
+ thesis
+ is
+ fully
+
+
+correct,
+ maybe
+ it's
+ not
+ fully
+ correct,
+
+
+but
+ there's
+ definitely
+ margin
+ and
+
+
+leverage
+ on
+ these
+ crypto
+ assets
+ that's
+
+
+now
+ not
+ as
+ easily
+ accessible
+ based
+ on
+
+
+what's
+ happening
+ in
+ Japan.
+
+
+Is
+ this
+ going
+ to
+ blow
+ up
+ the
+ US
+ stock
+
+
+market?
+ I
+ don't
+ think
+ so.
+ But
+ I
+ don't
+
+
+fully
+ know.
+ Well,
+ I
+ mean,
+ I
+ I
+ I
+
+
+definitely
+ don't
+ think
+ the
+ yen
+ carry
+
+
+trade
+ is
+ something
+ that
+ can
+ unwind
+ to
+
+
+the
+ point
+ where
+ the
+ entire
+ United
+ States
+
+
+S&P
+ 500
+ stock
+ market
+ takes
+ a
+ meaningful
+
+
+draw
+ down.
+ Has
+ it
+ affected
+ kind
+ of
+ the
+
+
+investor
+ sentiment
+ around
+ a
+ lot
+ of
+ these
+
+
+risk
+ on
+ assets?
+ Sure.
+ But
+ the
+ S&P
+ 500
+ is
+
+
+less
+ than
+ 1%
+ away
+ from
+ high.
+ So,
+ so,
+ so
+
+
+to
+ me
+ it's
+ it's
+ it's
+ something
+ that's
+ an
+
+
+issue
+ for
+ particularly
+ risk
+ on
+ assets
+
+
+that
+ have
+ global
+ liquidity
+ like
+ a
+
+
+Bitcoin.
+ Not
+ necessarily
+ a
+ stock
+ market
+
+
+that
+ is
+ putting
+ up
+ record
+ earnings
+
+
+that's
+ getting
+ a
+ Fed
+ that's
+ ready
+ to
+
+
+cut.
+ Like,
+ you
+ have a
+ lot
+ of
+ different
+
+
+things
+ going
+ on
+ for
+ why
+ I
+ think
+ the
+ US
+
+
+is
+ going
+ to
+ be
+ okay
+ in
+ terms
+ of
+ our
+
+
+stock
+ market,
+ but
+ I
+ think
+ that's
+
+
+creating
+ the
+ carnage
+ in
+ crypto.
+
+
+Hopefully,
+ that
+ doesn't
+ bleed
+ into
+ the
+
+
+stock
+ market.
+ And
+ if
+ it
+ does,
+ we're
+
+
+going
+ to
+ have
+ to
+ see
+ how
+ the
+ United
+
+
+States
+ deals
+ with
+ this
+ when
+ it
+ comes
+ to
+
+
+All right,
+ last
+ thing
+ we're
+ going
+ to
+
+
+talk
+ about
+ is
+ some
+ macro
+ updates
+ in
+
+
+terms
+ of
+ headlines.
+ First
+ of
+ all,
+ JPA
+ is
+
+
+speaking
+ today.
+ In
+ fact,
+ he's
+ probably
+
+
+speaking
+ right
+ now
+ as
+ I'm
+ recording
+
+
+this.
+ Um,
+ I
+ doubt
+ he's
+ going
+ to
+ say
+
+
+anything
+ that
+ meaningful
+ around
+ the
+
+
+markets.
+ I
+ mean,
+ maybe
+ he
+ will.
+ If
+ he
+
+
+does,
+ we'll
+ talk
+ about
+ it
+ tomorrow
+ on
+
+
+the
+ market
+ open,
+ but
+ uh
+ if
+ he
+ doesn't,
+
+
+then
+ it's
+ probably
+ not
+ going
+ to
+ be
+
+
+something
+ that's
+ going
+ to
+ be
+ that
+
+
+important.
+ The
+ Fed
+ meeting
+ is
+ on
+
+
+February
+ 10th.
+ I
+ will
+ February
+ 10th.
+
+
+Maybe
+ there
+ is
+ a
+ Fed
+ meeting
+ on
+ February
+
+
+10th
+ as
+ well.
+ December
+ 10th,
+ which
+ is
+ a
+
+
+week
+ from
+ now.
+ Um,
+ there
+ is
+ actually
+ no
+
+
+Fed
+ meeting
+ in
+ February.
+ It's
+ January,
+
+
+March,
+ and
+ then
+ April.
+ So,
+ uh,
+ 87.6
+ 6%
+
+
+chance,
+ highest
+ it's
+ been
+ in
+ weeks.
+ It
+
+
+looks
+ like
+ we
+ are
+ going
+ to
+ get
+ this
+ rate
+
+
+cut,
+ which
+ is
+ super
+ bullish
+ because
+
+
+again,
+ if
+ Japan's
+ hiking,
+ then
+ we
+
+
+definitely
+ need
+ to
+ be
+ cutting.
+ And
+ in
+
+
+general,
+ I
+ think
+ this
+ market
+ is
+ not
+
+
+priced
+ for
+ us
+ not
+ getting
+ the
+ rate
+ cut.
+
+
+So,
+ we're
+ going
+ to
+ need
+ to
+ get
+ that
+ rate
+
+
+cut
+ in
+ a
+ meaningful
+ way.
+ Uh,
+ so
+ rate
+
+
+cuts
+ on
+ the
+ way.
+ QT,
+ by
+ the
+ way,
+
+
+quantitative
+ tightening
+ officially
+ stops
+
+
+today,
+ December
+ 1st,
+ which
+ is
+ the
+ Fed
+
+
+selling
+ off
+ mortgage
+ back
+ securities
+ on
+
+
+their
+ balance
+ sheet.
+ more
+ liquidity
+
+
+entering
+ the
+ system
+ from
+ rate
+ cuts
+
+
+hopefully
+ and
+ from
+ the
+ end
+ of
+ QT
+ which
+
+
+is
+ also
+ going
+ to
+ be
+ very
+ very
+ important
+
+
+for
+ assets
+ like
+ Bitcoin
+ that
+ need
+ to
+ do
+
+
+better.
+ By
+ the
+ way,
+ last
+ thing
+ I
+ got
+ to
+
+
+say,
+ I
+ I
+ forgot
+ to
+ mention
+ this
+ on
+
+
+Japan.
+ Um
+ they're
+ moving
+ to
+ a
+ 20%
+ flat
+
+
+tax
+ on
+ crypto.
+ So
+ again,
+ you
+ got
+ even
+
+
+more
+ nuance
+ to
+ kind
+ of
+ how
+ they're
+
+
+navigating
+ the
+ the
+ stimulus
+ in
+ the
+
+
+country.
+ But
+ that
+ could
+ theoretically
+ be
+
+
+bearish
+ crypto
+ because
+ then
+ people
+ are
+
+
+selling
+ because
+ they
+ know
+ they
+ don't
+
+
+have
+ to
+ pay
+ a
+ lot
+ of taxes
+ or
+ that's
+
+
+bullish
+ because
+ you
+ get
+ a
+ lot
+ more
+ money
+
+
+coming
+ into
+ the
+ system
+ knowing
+ that
+
+
+they're
+ not
+ going
+ to
+ have
+ to
+ pay
+ massive
+
+
+taxes
+ whenever
+ they
+ do
+ sell
+ for
+ a
+
+
+profit.
+ And
+ so
+ you've
+ got
+ that
+ happening
+
+
+in
+ crypto.
+ Vanguard
+ is
+ also
+ allowing
+
+
+people
+ as
+ of
+ tomorrow
+ to
+ start
+ buying
+
+
+the
+ Bitcoin
+ ETF.
+ The
+ Vanguard
+ CEO
+ said
+ a
+
+
+couple
+ months
+ ago
+ or
+ a
+ year
+ ago,
+ they
+
+
+would
+ never
+ let
+ people
+ buy
+ Bitcoin
+ on
+
+
+the
+ platform.
+ They've
+ had
+ to
+ adapt
+ and
+
+
+that
+ adaptation
+ is
+ starting
+ to
+ be
+ very
+
+
+helpful
+ for
+ an
+ asset
+ like
+ Bitcoin.
+ Other
+
+
+macro
+ stats,
+ VO
+ monthly
+ record
+ flows
+ in
+
+
+November
+ 20.8
+ 8
+ billion,
+ second
+ highest
+
+
+in
+ the
+ last
+ four
+ years,
+ fifth
+
+
+consecutive
+ monthly
+ inflow.
+ And
+ year
+ to
+
+
+date,
+ VO
+ net
+ inflows
+ are
+ now
+ up
+ 17%
+ to
+
+
+124
+ billion
+ on
+ track
+ for
+ its
+ biggest
+
+
+yearly
+ inflow
+ since
+ inception.
+
+
+As
+ the
+ market
+ worries
+ about
+ an
+ AI
+
+
+bubble,
+ you
+ have
+ investors
+ that
+ continue
+
+
+to
+ buy
+ essentially
+ America
+ betting
+ on
+
+
+the
+ biggest
+ tech
+ companies
+ in
+ the
+ world
+
+
+and
+ that
+ these
+ tech
+ companies
+ will
+
+
+continue
+ to
+ do
+ what
+ they
+ need
+ to
+ do.
+ So,
+
+
+I
+ think
+ a
+ lot
+ of
+ noise
+ is
+ out
+ there
+
+
+around
+ AI
+ bubble.
+ I
+ listen
+ to
+ Jensen
+
+
+speak.
+ I
+ look
+ at
+ the
+ earnings.
+ I
+ look
+ at
+
+
+where
+ the
+ money
+ is
+ being
+ allocated
+ to.
+
+
+Hedge
+ funds.
+ By
+ the
+ way,
+ Goldman
+ Sachs
+
+
+said
+ last
+ week
+ that
+ they
+ bought
+ the
+ dip
+
+
+at
+ the
+ highest
+ record
+ over
+ the
+ past
+
+
+couple
+ years
+ in
+ the
+ in
+ the
+ last
+ two
+
+
+days,
+ which
+ was
+ like
+ the
+ last
+ two
+ days
+
+
+of
+ the
+ week
+ where
+ the
+ S&P
+ hit
+ like
+ 650.
+
+
+Um,
+ so
+ I
+ think
+ that
+ was
+ that
+ Thursday
+
+
+and
+ Friday
+ of
+ two
+ weeks
+ ago.
+ They
+ bought
+
+
+the
+ dip.
+ I
+ mean,
+ you're
+ just
+ starting
+ to
+
+
+see
+ more
+ and
+ more
+ data
+ come
+ out
+ saying
+
+
+that
+ these
+ opportunities
+ end
+ up
+ being
+
+
+opportunities
+ that
+ people
+ want
+ to
+ take
+
+
+advantage
+ of.
+ This
+ is
+ a
+ chart
+ from
+ Ryan
+
+
+Dietrich
+ right
+ here.
+ I
+ also
+ thought
+ was
+
+
+really
+ important.
+ A
+ lot
+ of
+ people
+ have
+
+
+been
+ asking,
+ "Hey
+ Emit,
+ when
+ does
+ the
+
+
+Santa
+ Claus
+ rally
+ happen?"
+ First
+ of
+ all,
+
+
+don't
+ know
+ if
+ the
+ Santa
+ Claus
+ rally
+ is
+
+
+definitely
+ going
+ to
+ happen.
+ One
+ thing
+ to
+
+
+remember
+ about
+ that
+ piece
+ of
+ data
+ is
+
+
+that
+ usually
+ the
+ Santa
+ Claus
+ rally,
+
+
+which
+ is
+ a
+ 1.4%
+ rally
+ the
+ month
+ of
+
+
+December,
+ uh,
+ happening
+ 75%
+ of
+ the
+ time
+
+
+since
+ 1950,
+ historically
+ is
+ based
+ on
+
+
+September
+ and
+ October
+ sucking.
+ So
+ you
+
+
+get
+ a
+ lot
+ of
+ the
+ sort
+ of
+ reversal
+ of
+
+
+September
+ and
+ October
+ sucking
+ going
+ into
+
+
+the
+ end
+ of
+ the
+ year.
+ You
+ also
+ have
+ fund
+
+
+managers
+ chasing.
+ There's
+ a
+ bunch
+ of
+
+
+different
+ other
+ arguments.
+ Um
+ maybe
+ that
+
+
+doesn't
+ happen
+ because
+ September,
+
+
+October,
+ and
+ November
+ were
+ all
+ green.
+
+
+Even
+ November
+ inched
+ out
+ a
+ 03%
+ green
+
+
+month
+ with
+ all
+ the
+ pain
+ that
+ we
+ had
+ to
+
+
+go
+ through.
+ So
+ I
+ I
+ do
+ think
+ people
+
+
+should
+ just
+ remember
+ December
+ this
+ time
+
+
+might
+ not
+ be
+ a
+ Santa
+ Claus
+ rally
+ because
+
+
+we
+ had
+ three
+ green
+ months
+ in
+ a
+ row.
+ Now
+
+
+granted,
+ there's
+ a
+ lot
+ of
+ reasons
+ why
+ I
+
+
+think
+ it
+ could
+ happen.
+ The
+ rate
+ cut,
+
+
+earnings,
+ etc.,
+ But
+ historically,
+ it's
+
+
+been
+ the
+ volatility
+ around
+ September
+
+
+through
+ November
+ that
+ creates
+ that
+
+
+December
+ momentum.
+ If
+ we
+ were
+ to
+ get
+ a
+
+
+set
+ and
+ close
+ rally,
+ it
+ should
+ happen
+ by
+
+
+the
+ last
+ two
+ weeks
+ of
+ the
+ year.
+ So,
+ as
+
+
+you
+ can
+ see,
+ December
+ 1st
+ to
+ December
+
+
+15th,
+ relatively
+ flat.
+ And
+ then
+ December
+
+
+15th
+ to
+ the
+ 31st
+ is
+ when
+ you
+ get
+ your
+
+
+real
+ move.
+ So,
+ if
+ it
+ does
+ happen,
+ we
+
+
+should
+ be
+ expecting
+ it
+ over
+ the
+ next
+
+
+couple
+ weeks.
+ And
+ then
+ we
+ get
+ into
+ 2026,
+
+
+which
+ I
+ think
+ is
+ going
+ to
+ be
+ something
+
+
+that
+ is,
+
+
+I
+ think,
+ nuanced,
+
+
+has
+ a
+ lot
+ of
+ variables.
+ I'm
+ going
+ to
+ be
+
+
+making
+ a
+ lot
+ more
+ videos
+ soon
+ on
+ uh
+
+
+navigating
+ 2026
+ and
+ kind
+ of
+ just
+
+
+portfolio
+ construction,
+ my
+ ideas
+ for
+
+
+where
+ 2026
+ is
+ going,
+ uh
+ positions
+ I
+ have
+
+
+going
+ into
+ the
+ year.
+ I
+ I
+ think
+ I
+ give
+
+
+you
+ guys
+ a
+ little
+ preview
+ right
+ now.
+ I
+
+
+think
+ Meta,
+ Microsoft,
+ Amazon,
+ and
+
+
+Nvidia.
+ And
+ if
+ I
+ had
+ to
+ pick
+ three
+ of
+
+
+those,
+ Meta,
+ Amazon,
+ and
+ Nvidia,
+ I
+ think
+
+
+those
+ are
+ easy
+ in
+ 2026.
+ And
+ we'll
+ we'll
+
+
+we'll
+ talk
+ a
+ lot
+ more
+ about
+ it.
+ I
+ don't
+
+
+even
+ think
+ it's
+ controversial
+ saying
+
+
+that.
+ Amazon
+ being
+ my
+ favorite
+ of
+ them
+
+
+because
+ Nvidia
+ already
+ have
+ a
+ big
+
+
+position
+ and
+ Meta
+ have
+ a
+ position,
+ not
+ a
+
+
+massive
+ position.
+ Amazon,
+ I
+ just
+ think
+
+
+AWS
+ growth
+ plus
+ robotics
+ increasing
+
+
+operating
+ margins.
+ It's
+ it's
+ it's
+ the
+
+
+next
+ one
+ to
+ go
+ to
+ 300.
+ We
+ saw
+ Google
+ do
+
+
+it.
+ I
+ think
+ Amazon's
+ going
+ to
+ do
+ it
+ next
+
+
+year.
+ So,
+ I
+ think
+ those
+ three
+ are
+ going
+
+
+to
+ be
+ some
+ obvious
+ longs
+ going
+ into
+
+
+2026.
+ Uh,
+ last
+ thing,
+ Cyber
+ Monday,
+
+
+Black
+ Friday,
+ absolutely
+ monster
+ monster
+
+
+results
+ from
+ the
+ consumer.
+ I
+ mean,
+ I
+
+
+didn't
+ expect
+ it
+ to
+ be
+ this
+ good,
+ but
+
+
+it's
+ pretty
+ freaking
+ good.
+ So,
+ take
+ a
+
+
+look
+ at
+ this
+ for
+ Black
+ Friday.
+ Uh,
+ Toby
+
+
+Luke,
+ the
+ CEO
+ of
+ Shopify.
+ Shopify,
+ by
+
+
+the
+ way,
+ it
+ was
+ down
+ 5%
+ today.
+ I
+ think
+
+
+because
+ they
+ had
+ a
+ little bit
+ of
+ an
+
+
+outage,
+ which
+ means
+ actually
+ kind
+ of
+
+
+bullish
+ because
+ it
+ means
+ that
+ they
+ have
+
+
+so
+ much
+ demand
+ on
+ their
+ platform.
+ 25%
+
+
+yearover-year
+ growth
+ for
+ merchants
+ on
+
+
+Black
+ Friday.
+
+
+6.2
+ billion
+ in
+ sales.
+ Edge
+ peaked
+ at
+ 480
+
+
+million
+ requests
+ per
+ minute.
+ Peak
+
+
+database
+ queries
+ 53
+ million
+ per
+ second.
+
+
+API
+ process
+ over
+ 31
+ million
+ requests
+ per
+
+
+minute
+ at
+ the
+ peak.
+ I
+ mean,
+ where
+ is
+
+
+this
+ weak
+ consumer?
+ Because
+ you
+ had
+
+
+Abberrombi,
+ Kohl's,
+ Best
+ Buy,
+
+
+Burlington.
+ We'll
+ see
+ Urban
+ Outfitters
+
+
+last
+ week.
+ We'll
+ see
+ tomorrow
+ with
+
+
+American
+ Eagle
+ what
+ ends
+ up
+ happening.
+
+
+But
+ I
+ did
+ not
+ expect
+ these
+ clothing
+
+
+companies
+ to
+ have
+ these
+ record
+ Q3s.
+ I
+
+
+mean,
+ it
+ really
+ it's
+ just
+ like
+ where
+ is
+
+
+this
+ stuff
+ coming
+ from?
+ But
+ it
+ continues
+
+
+to
+ be
+ strong.
+ And
+ if
+ all
+ these
+ companies
+
+
+are
+ coming
+ out
+ and
+ they're
+ showing
+ the
+
+
+types
+ of
+ earnings
+ growth
+ that
+ is
+ very
+
+
+very
+ important
+ for
+ them
+ to
+ continue
+
+
+proving
+ that
+ the
+ consumer
+ is
+ not
+ as
+ weak
+
+
+as
+ some
+ people
+ think,
+ even
+ though
+ the
+
+
+consumer
+ might
+ not
+ be
+ perfect,
+ which
+
+
+100%
+ the
+ consumer
+ is
+ obviously
+ not
+
+
+perfect.
+ If
+ the
+ consumer
+ is
+ better
+ than
+
+
+expected,
+
+
+well,
+ and
+ we're
+ easing
+ and
+ corporate
+
+
+earnings
+ are
+ good.
+ And
+ as
+ you
+ can
+ see
+
+
+right
+ here,
+ Black
+ Friday
+ sales
+ hit
+ a
+
+
+record
+ high
+ 11.8
+ billion
+ as
+ per
+ Adobe
+
+
+Analytics.
+ Salesforce
+ reported
+ 18
+
+
+billion
+ in
+ total
+ Black
+ Friday
+ spending.
+
+
+We'll
+ get
+ Amazon's
+ numbers
+ probably
+
+
+tomorrow.
+
+
+And
+ by
+ the
+ way,
+ Amazon
+ did
+ come
+ out
+ and
+
+
+say
+ that
+ Rufus,
+ their
+ LLM,
+ has
+ actually
+
+
+influenced
+ how
+ their
+ Black
+ Friday
+ sales
+
+
+have
+ gone
+ and
+ just
+ made
+ it
+ more
+
+
+efficient
+ for
+ customers.
+ So
+ that's
+ AI
+
+
+being
+ a
+ tailwind
+ for
+ their
+ e-commerce
+
+
+sales.
+ Um
+ it
+ it it
+ does
+ feel
+ like
+ if
+ the
+
+
+consumer
+ is
+ not
+ as
+ bad
+ as
+ we
+ think,
+
+
+maybe
+ we're
+ not
+ going to
+ get
+ that
+ many
+
+
+rate
+ cuts
+ going
+ into
+ next
+ year,
+ although
+
+
+once
+ Trump
+ replaces
+ power,
+ get
+ a
+ lot
+
+
+more
+ rate
+ cuts.
+ But
+ if
+ the
+ consumer
+ is
+
+
+not
+ that
+ bad,
+ it's
+ bad,
+ but
+ it's
+ not
+
+
+that
+ bad.
+ There's
+ this
+ nuance
+ of
+ okay,
+
+
+we
+ can
+ cut
+ rates,
+ the
+ labor
+ market
+
+
+doesn't
+ collapse.
+ We
+ can
+ probably
+ save
+
+
+the
+ labor
+ market
+ from
+ collapsing.
+ If
+ we
+
+
+cut
+ rates,
+ the
+ consumer
+ is
+ not
+ horrible.
+
+
+So,
+ they
+ can
+ keep
+ spending.
+ Company
+
+
+earnings
+ can
+ keep
+ showing
+ uh
+ momentum
+
+
+and
+ growth.
+ And
+ then
+ you've
+ got
+ rates
+
+
+coming
+ down
+ which
+ should
+ overall
+ create
+
+
+more
+ liquidity
+ and
+ easing
+ in
+ the
+
+
+financial
+ system.
+ And
+ then
+ if
+ this
+ AI
+
+
+stuff
+ increases
+ productivity,
+ margins,
+
+
+maybe
+ we
+ have
+ to
+ worry
+ about
+ deflation,
+
+
+not
+ inflation.
+ I
+ mean,
+ there's
+ a
+ lot
+ of
+
+
+things
+ that
+ can
+ happen
+ in
+ 2026,
+ but
+ this
+
+
+consumer's
+ week
+ narrative
+ is
+ being
+
+
+challenged.
+ Chipotle
+ and
+ Starbucks
+ told
+
+
+us
+ the
+ consumer
+ is
+ weak.
+ Urban
+
+
+Outfitters
+ and
+ Abbercrombrian
+ Fish,
+
+
+which
+ sells
+ $75
+ hoodies,
+ are
+ telling
+ us
+
+
+the
+ consumer
+ is
+ fine.
+ Now,
+ maybe
+ it's
+
+
+one
+ part
+ of
+ the
+ consumer
+ that's
+
+
+subsidizing
+ the
+ other
+ part
+ of
+ the
+
+
+consumer.
+ That's
+ a
+ fair
+ point,
+ but
+ it
+
+
+was
+ like
+ seven
+ companies
+ last
+ week.
+ XRT,
+
+
+the
+ retailer
+ ETF,
+ had
+ its
+ best
+ two-day
+
+
+stretch
+ since
+ May
+ of
+ 2025.
+ ISM
+ PMI
+ data
+
+
+this
+ morning
+ was
+ not
+ necessarily
+ the
+
+
+best.
+ We
+ we
+ missed
+ on
+ expectations,
+ but
+
+
+these
+ retailer
+ earnings
+ are
+ pretty
+ good.
+
+
+So,
+ I
+ think
+ we're
+ going
+ to
+ need
+ more
+
+
+data
+ to
+ see
+ what's
+ happening
+ in
+ the
+
+
+world
+ of
+ retail,
+ but
+ if
+ we're
+
+
+challenging
+ this
+ consumer's
+ week
+
+
+narrative,
+ that's
+ not
+ the
+ worst
+ thing
+
+
+for
+ corporate.
+ All right,
+ that's
+ it
+ for
+
+
+me.
+ Thank
+ you everybody
+ for
+ listening
+
+
+and
+ watching.
+ We
+ are
+ back
+ with
+ the
+ daily
+
+
+recaps.
+ Happy
+ to
+ be
+ back.
+ Uh,
+ I
+ think it
+
+
+was
+ a
+ much
+ needed
+ break
+ for
+ everyone
+ to
+
+
+kind
+ of
+ just
+ relax
+ and
+ spend
+ time
+ with
+
+
+their
+ family,
+ but
+ we're
+ back.
+ We
+ got
+ one
+
+
+month
+ left
+ of
+ the
+ year.
+ We
+ got
+ a
+ lot
+ of
+
+
+stuff
+ to
+ plan,
+ a
+ lot
+ of
+ new
+ updates
+
+
+coming
+ in
+ terms
+ of
+ um
+ this
+ YouTube
+
+
+channel
+ as
+ well
+ going
+ to
+ 2026.
+ And
+ I'll
+
+
+give
+ more
+ details
+ about
+ that
+ over
+ the
+
+
+weeks.
+ but
+ excited
+ to
+ be
+ back
+ and
+ got
+
+
+one
+ month
+ left.
+ We're
+ entering
+ 2026
+ and
+
+
+we're
+ going
+ to
+ see
+ how
+ we
+ can
+ all
+
+
+navigate
+ 2026.
+ I'll
+ be
+ here
+ every
+ single
+
+
+day
+ and
+ uh
+ do
+ my
+ part
+ to
+ help
+ in
+
+
+whatever
+ way
+ I
+ can,
+ but
+ I
+ think
+ there
+
+
+are
+ some
+ good
+ ideas
+ and
+ opportunities
+
+
+going
+ into
+ 2026
+ and
+ we'll
+ continue
+ to
+
+
+nab
+ you
+ as
+ we
+ can
+ every
+ single
+ Thank
+ you
+
+
+everybody.
+ I'll
+ see
+ you
+ guys
+ on
+ the
+ next
