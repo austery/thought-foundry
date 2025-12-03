@@ -51,7 +51,7 @@ products_models:
   - "Claude"
   - "YouTube"
   - "AWS"
-
+layout: post.njk
 media_books: []
 ---
 
