@@ -1,0 +1,2149 @@
+[music]
+
+
+Hi
+ guys.
+ Um,
+ really
+ nice
+ to
+ meet
+ you
+ all
+
+
+and
+ um,
+ thanks
+ for
+ First
+ Mark
+ for
+ having
+
+
+me
+ here
+ today.
+ I'm
+ Sneha,
+ the
+ co-founder
+
+
+and
+ CEO
+ at
+ Spur
+ and
+ yeah,
+ excited
+ to
+
+
+kind
+ of
+ take
+ you
+ through
+ the
+
+
+presentation
+ today.
+ Just
+ a
+ quick
+ agenda.
+
+
+I'm
+ going
+ to
+ go
+ over
+ what
+ Spur
+ is,
+ who
+
+
+we
+ are,
+ our
+ customers,
+ investors,
+ and
+
+
+then
+ really
+ spend
+ most
+ of
+ the
+ session
+
+
+today
+ on
+ um
+ giving
+ you
+ a
+ demo
+ and
+ what
+
+
+we
+ call
+ spurring
+ time.
+ Spur
+ is
+ a
+ new
+ way
+
+
+to
+ test.
+ Um
+ we
+ are
+ basically
+ building
+ AI
+
+
+browser
+ agents
+ that
+ automate
+ software
+
+
+quality
+ assurance
+ with
+ agentic
+ AI.
+ I
+
+
+know
+ that
+ there's
+ a
+ good
+ number
+ of
+
+
+technical
+ folks
+ in
+ the
+ audience.
+ So
+ this
+
+
+is
+ really
+ what
+ the
+ state-of-the-art
+ in
+
+
+testing
+ today
+ or
+ I
+ would
+ say
+ not
+ not
+ no
+
+
+no no
+ longer
+ the
+ case
+ with
+ agentic
+
+
+systems
+ but
+ this
+ is
+ what
+ this
+ is
+ what
+ an
+
+
+end
+ toend
+ test
+ looked
+ like
+ for
+ the
+
+
+longest
+ time.
+ Um
+ it's
+ very
+ long
+ very
+
+
+hard
+ to
+ build
+ super
+ flaky
+ and
+ yeah
+ it
+
+
+just
+ doesn't
+ really
+ scale.
+ Now
+ with
+ spur
+
+
+the
+ idea
+ is
+ a
+ test
+ on
+ spur
+ um
+ you
+ know
+
+
+you
+ can
+ kind
+ of
+ build
+ it
+ in
+ 10
+ minutes.
+
+
+I
+ say
+ 10
+ minutes
+ this
+ could
+ even
+ be
+ a
+
+
+minute.
+ The
+ idea
+ is
+ you
+ can
+ write
+ tests
+
+
+in
+ natural
+ language.
+ The
+ inputs
+ and
+ the
+
+
+intent
+ behind
+ a
+ test
+ is
+ ultimately
+ the
+
+
+script
+ that
+ is
+ given
+ to
+ an
+ AI
+ browser
+
+
+agent.
+ And
+ we'll
+ dive
+ deeper
+ into
+ how
+
+
+this
+ actually
+ works
+ under
+ the
+ hood.
+ So
+ a
+
+
+little
+ bit
+ of
+ background
+ on
+ the
+ team.
+ So
+
+
+Spur
+ was
+ co-founded
+ by
+ myself
+ and
+ my
+ CTO
+
+
+Anushka.
+ Uh
+ we
+ both
+ have
+ a
+ product
+ and
+ a
+
+
+research
+ background.
+ So
+ Anushka
+ used
+ to
+
+
+work
+ at
+ DeepMind
+ and
+ myself
+ at
+ Figma
+ and
+
+
+we
+ met
+ at
+ the
+ Yale
+ NLP
+ lab.
+ We're
+ backed
+
+
+by
+ an
+ amazing
+ team
+ and
+ of
+ you
+ know
+ a
+
+
+team
+ of
+ ex-founders,
+ customers
+ and
+
+
+competitors
+ um
+ as
+ well
+ as
+ investors
+ that
+
+
+you
+ know
+ we
+ really
+ love
+ and
+ we
+ have
+ an
+
+
+amazing
+ team
+ here
+ and
+ we're
+ also
+ hiring
+
+
+across
+ um
+ many
+ different
+ roles.
+ So
+ short
+
+
+plug,
+ please
+ find
+ me
+ after
+ the
+ event
+ if
+
+
+you're,
+ you
+ know,
+ looking
+ for
+ applied
+
+
+AI,
+ uh,
+ you
+ know,
+ research,
+ design,
+
+
+sales,
+ etc.
+ We're
+ we're
+ hiring
+ across
+
+
+the
+ board.
+ And
+ we're
+ working
+ with
+ some
+
+
+of
+ the
+ fastest
+ growing
+ brands
+ in
+ the
+
+
+world.
+ And
+ you
+ might
+ wonder
+ like
+ why
+ why
+
+
+brands,
+ right?
+ So
+ typically
+ you
+ saw
+ the
+
+
+Selenium
+ Cypress
+ Playright
+ test
+ that
+ I
+
+
+kind
+ of
+ showed
+ earlier.
+ brands
+ and
+ BTOC
+
+
+companies,
+ they
+ have
+ user
+ interfaces
+
+
+that
+ are
+ constantly
+ changing,
+ which
+
+
+makes
+ the
+ idea
+ of
+ having
+ rigid
+ tests
+
+
+just
+ doesn't
+ really
+ scale
+ and
+ really
+
+
+bleeds
+ the
+ need
+ to
+ have
+ a
+ more
+ agentic
+
+
+approach
+ for
+ testing.
+ So
+ with
+ some
+ of
+
+
+our
+ customers,
+ the
+ impact
+ that
+ we've
+
+
+created
+ is
+ really,
+ you
+ know,
+ cutting
+
+
+down
+ that
+ release
+ cycle
+ time
+ from
+ one
+
+
+week
+ to
+ a
+ couple
+ of
+ hours,
+ from
+ 6
+ months
+
+
+to
+ even
+ 5
+ days.
+ Um
+ so
+ it's
+ it's
+ pretty
+
+
+incredible
+ what
+ a
+ gentic
+ QA
+ can
+ do
+ for
+
+
+um
+ QA
+ teams.
+ So
+ the
+ technology
+ powering
+
+
+spur
+ as
+ I
+ mentioned
+ Anushka
+ and
+ myself
+
+
+we
+ both
+ met
+ at
+ the
+ NLP
+ lab.
+ So
+ the
+
+
+underlying
+ technology
+ is
+ really
+ um
+
+
+browser
+ agents
+ and
+ browser
+ agents
+
+
+trained
+ for
+ specifically
+ software
+
+
+testing
+ and
+ quality
+ assurance
+ tasks.
+ So
+
+
+under
+ the
+ hood
+ it's
+ powered
+ by
+ LLMs.
+ The
+
+
+idea
+ is
+ you
+ can
+ now
+ give
+ natural
+
+
+language
+ instructions
+ and
+ instead
+ of
+
+
+having
+ to
+ go
+ through
+ a
+ step
+ of
+ making
+ it
+
+
+into
+ a
+ test
+ script
+ in
+ code,
+ you
+ give
+
+
+those
+ instructions
+ to
+ a
+ browser
+ agent
+
+
+that
+ goes
+ in
+ and
+ executes
+ those
+ actions
+
+
+simulating
+ an
+ actual
+ end
+ user
+ or
+
+
+customer.
+ So
+ the
+ idea
+ is
+ the
+ agent
+ can
+
+
+catch
+ a
+ lot
+ more
+ things
+ than
+ a
+ typical
+
+
+script
+ can
+ and
+ even
+ what
+ you
+ and
+ I
+ can
+
+
+which
+ we
+ will
+ I
+ will
+ be
+ putting
+ you
+ guys
+
+
+to
+ the
+ test
+ shortly.
+ So
+ under
+ the
+ hood
+
+
+you
+ know
+ we
+ support
+ all
+ different
+ model
+
+
+providers
+ and
+ because
+ of
+ this
+ you
+ know
+
+
+from
+ a
+ testing
+ perspective
+ right
+ we're
+
+
+going
+ way
+ beyond
+ just
+ functional
+
+
+testing.
+ Um
+ we
+ have
+ a
+ whole
+ set
+ of
+
+
+agents
+ that
+ we
+ support
+ from
+ action
+
+
+agents,
+ assertion
+ agents,
+ extraction
+
+
+agents,
+ um
+ UIUX
+ testing
+ agents
+ and
+
+
+persona
+ agents.
+ So
+ essentially
+ it's
+ not
+
+
+just
+ QA
+ in
+ the
+ sense
+ of
+ does
+ this
+ flow
+
+
+work
+ but
+ also
+ is
+ this
+ flow
+ optimal?
+ Does
+
+
+it
+ really
+ feel
+ good
+ as
+ an
+ end
+ user?
+ And
+
+
+then
+ going
+ a
+ little
+ deeper
+ into
+ the
+
+
+underlying
+ architecture.
+ Um
+ the
+ idea
+ is
+
+
+the
+ enentic
+ inputs
+ as
+ I
+ mentioned
+ can
+ be
+
+
+natural
+ language
+ instructions
+ but
+ we
+
+
+take
+ everything
+ from
+ you
+ know
+ a
+ text
+
+
+input
+ a
+ Jira
+ ticket
+ you
+ know
+ a
+ video
+ or
+
+
+loom
+ recording
+ and
+ actually
+ we
+ use
+
+
+Gemini's
+ models
+ for
+ that
+ um
+ and
+ or
+ even
+
+
+like
+ PDF
+ or
+ CSV
+ files
+ of
+ test
+ cases
+ and
+
+
+then
+ that
+ gets
+ into
+ a
+ system
+ of
+ robust
+
+
+robust
+ multi-
+ aent
+ architecture
+ where
+ we
+
+
+have
+ overseer
+ agents
+ kind
+ of
+ overseeing
+
+
+both
+ action
+ and
+ assertion
+ agents
+ So
+ this
+
+
+is
+ just
+ one
+ example.
+ Um
+ I
+ kind
+ of
+ shared
+
+
+that
+ we
+ have
+ many
+ different
+ agents.
+ So
+
+
+each
+ agent
+ actually
+ has
+ its
+ own
+ um
+
+
+custom
+ under
+ the
+ hood
+ architecture.
+ But
+
+
+that's
+ really
+ where
+ the
+ magic
+ happens.
+
+
+Okay.
+ So
+ um
+ now
+ I
+ kind
+ of
+ want
+ to
+ walk
+
+
+us
+ through
+ a
+ couple
+ of
+ examples
+ on
+ spur.
+
+
+Okay.
+ So
+ I'm
+ going
+ to
+ cover
+ a
+ bug
+ that
+
+
+we
+ found
+ on
+ Alo
+ Yoga.
+ There
+ is
+ a
+ bug
+ on
+
+
+this
+ screen.
+ So
+ it's
+ not
+ addressed.
+ So,
+
+
+is
+ this
+ something
+ typically
+ like
+ a
+ coded
+
+
+script
+ can
+ catch?
+ Probably
+ not.
+ It's
+
+
+impossible.
+ But
+ errors
+ like
+ this
+ are
+
+
+critical
+ to
+ conversion,
+ especially
+ for
+
+
+large
+ brands.
+ Like
+ imagine
+ on
+ Black
+
+
+Friday,
+ you're
+ going
+ on
+ a
+ sale.
+ The
+
+
+reviews
+ don't
+ even
+ match
+ up
+ to
+ the
+
+
+product
+ that
+ you're
+ buying.
+ Are
+ you
+
+
+going
+ to
+ actually
+ buy
+ it?
+ Um,
+ and
+ this
+
+
+is
+ millions
+ of
+ dollars
+ lost
+ for
+ a
+ brand
+
+
+like
+ Alo
+ Yoga
+ that's
+ doing
+ 300
+ plus
+
+
+million
+ dollars
+ in
+ revenue.
+ So,
+ this
+ is
+
+
+actually
+ an
+ example
+ of
+ a
+ real
+ bug
+ that
+
+
+Spur
+ caught
+ for
+ the
+ customer.
+ This
+ is
+ an
+
+
+example
+ of
+ a
+ test
+ result
+ on
+ Spur.
+ The
+
+
+inputs
+ for
+ this
+ test
+ are
+ actually
+ on
+ the
+
+
+left
+ hand
+ side
+ of
+ the
+ screen.
+ So,
+ as
+ you
+
+
+can
+ see,
+ um
+ the
+ instructions
+ are
+ very
+
+
+dynamic.
+ So,
+ I'm
+ going
+ to
+ just
+ zoom
+ in
+ a
+
+
+little
+ bit.
+ If
+ you
+ can
+ see
+ some
+ of
+ the
+
+
+steps
+ here,
+ which
+ is
+ close
+ the
+ password
+
+
+page
+ if
+ present,
+ then
+ wait
+ for
+ a
+
+
+homepage
+ to
+ load.
+ The
+ idea
+ is
+ these
+ step
+
+
+these
+ steps
+ are
+ exactly
+ like
+ you
+ would
+
+
+be
+ talking
+ to
+ another
+ human.
+ So
+ the
+ way
+
+
+we
+ tell
+ our
+ customers
+ in
+ terms
+ of
+ how
+
+
+they
+ should
+ think
+ about
+ writing
+ tests
+ is
+
+
+really
+ taking
+ a
+ shift
+ from
+ how
+ can
+ I
+
+
+codify
+ these
+ steps
+ to
+ really
+ like
+ how
+
+
+can
+ I
+ prompt
+ engineer
+ the
+ spur
+ agent
+ to
+
+
+QA
+ my
+ site
+ in
+ the
+ way
+ I
+ wanted
+ to.
+ So
+
+
+kind
+ of
+ going
+ into
+ the
+ actual
+ bug
+ and
+
+
+error
+ description.
+ This
+ is
+ typically
+ the
+
+
+output
+ of
+ a
+ test
+ and
+ particularly
+ this
+
+
+step
+ which
+ is
+ basically
+ caught
+ that
+ the
+
+
+review
+ summary
+ that
+ was
+ extracted
+
+
+earlier
+ refers
+ to
+ a
+ dress
+ but
+ the
+
+
+current
+ product
+ is
+ a
+ 3-in
+ high-waist
+
+
+shot
+ shorts
+ not
+ 3
+ in
+ I
+ don't
+ know
+ what
+
+
+that
+ three
+ means
+ but
+ [laughter]
+
+
+um
+ [clears throat]
+ the
+ specific
+ review
+
+
+summary
+ about
+ dress
+ versatility
+ fall
+
+
+weddings
+ and
+ girls
+ night
+ out
+ is
+ not
+
+
+displayed
+ on
+ the
+ page
+ because
+ it's
+ not
+
+
+relevant
+ to
+ the
+ shorts
+ product
+ being
+
+
+viewed
+ and
+ this
+ error
+ description
+ is
+
+
+also
+ generated
+ by
+ the
+ agent.
+ So
+ the
+
+
+customer
+ can
+ really
+ trust
+ the
+ agent
+ to
+
+
+catch
+ everything
+ that
+ even
+ you
+ know
+ even
+
+
+like
+ a
+ human
+ tester
+ might
+ not
+ see.
+ The
+
+
+idea
+ is
+ for
+ any
+ test
+ that
+ runs
+ um
+ we
+
+
+give
+ users
+ a
+ video
+ playback
+ of
+ the
+
+
+actual
+ agent
+ execution
+ as
+ well.
+ So
+ I'm
+
+
+going
+ to
+ hop
+ into
+ the
+ next
+ example.
+
+
+Okay,
+ second
+ bug
+ challenge.
+ Um,
+ this
+ is
+
+
+a
+ bug
+ found
+ on
+ living
+ spaces
+ just
+
+
+yesterday.
+ Um,
+ right
+ before
+ their
+ like
+
+
+code
+ freeze
+ before
+ Black
+ Friday.
+ On
+ the
+
+
+left
+ is
+ the
+ before
+ and
+ on
+ the
+ right
+ is
+
+
+the
+ after.
+ The
+ bug
+ is
+ actually
+ on
+ the
+
+
+after
+ image.
+ Yeah,
+ exactly.
+ Um,
+ no
+
+
+storage.
+ Um,
+ so
+ again,
+ this
+ is
+ kind
+ of
+
+
+another
+ example
+ of
+ an
+ error
+ that
+ the
+
+
+agent
+ finds
+ where
+ you've
+ basically
+ set
+
+
+up
+ the
+ filter
+ for
+ storage
+ and
+ in
+ that
+
+
+validation
+ step,
+ the
+ agent
+ is
+ basically
+
+
+flagging
+ this
+ as
+ an
+ error.
+ The
+ last
+
+
+example,
+ which
+ is
+ um
+ on
+ HelloFresh,
+ the
+
+
+prompt
+ for
+ the
+ agent
+ is
+ actually
+ pretty
+
+
+broad.
+ Um,
+ you
+ know,
+ we've
+ not
+ really
+
+
+given
+ we're
+ giving
+ the
+ agent
+ a
+ persona.
+
+
+So,
+ I'm
+ not
+ going
+ to
+ read
+ the
+ full
+
+
+persona
+ for
+ you,
+ but
+ basically,
+ you
+ are
+
+
+a
+ efficient,
+ inspired
+ user.
+ You
+ want
+ to
+
+
+get
+ tasty,
+ fresh,
+ home-cooked
+ meals
+ on
+
+
+the
+ table,
+ etc.
+ This
+ persona
+ is
+
+
+something
+ that
+ their
+ UX
+ or
+ research
+ team
+
+
+would
+ provide.
+ With
+ this
+ test,
+ typically
+
+
+for
+ a
+ brand
+ like
+ HelloFresh,
+ they
+ get
+ a
+
+
+lot
+ of
+ bugs
+ just
+ by
+ the
+ unhappy
+ parts,
+
+
+right?
+ It's
+ not
+ always
+ just
+ about
+
+
+testing
+ the
+ happy
+ parts.
+ So
+ the
+ prompt
+
+
+given
+ here
+ is
+ actually
+ explore
+ the
+ page
+
+
+and
+ click
+ through
+ the
+ other
+ pages.
+
+
+Evaluate
+ what
+ you
+ see,
+ what
+ you're
+
+
+missing,
+ and
+ suggestions
+ for
+ changes
+ and
+
+
+warnings.
+ Don't
+ give
+ up
+ too
+ fast.
+ So
+ as
+
+
+you
+ can
+ see,
+ this
+ is
+ a
+ 25m
+ minute
+ long
+
+
+test.
+ So
+ the
+ agent
+ is
+ actually
+ going
+
+
+back
+ and
+ forth
+ while
+ it's
+ performing
+ the
+
+
+execution.
+ And
+ I'm
+ going
+ to
+ just
+ play
+
+
+the
+ the
+ bug
+ that
+ was
+ found.
+ And
+ this
+ was
+
+
+on
+ hellofresh.com
+
+
+US.
+ So
+ you
+ can
+ just
+ imagine
+ how
+ big
+ this
+
+
+was.
+ So
+ in
+ this
+ test
+ the
+ agent
+ is
+
+
+actually
+ going
+ through
+ the
+ funnel
+ and
+ as
+
+
+you
+ can
+ tell
+ um
+ it's
+ basically
+ gone
+ back
+
+
+a
+ step
+ and
+ in
+ that
+ process
+ of
+ going
+ back
+
+
+the
+ entire
+ page
+ is
+ actually
+ blanked
+ out
+
+
+and
+ this
+ is
+ it
+ you
+ know
+ this
+ is
+ a
+ simple
+
+
+react
+ state
+ bug
+ but
+ you're
+ not
+ going
+ to
+
+
+catch
+ something
+ like
+ this
+ if
+ you
+ test
+
+
+things
+ purely
+ linearly
+ which
+ again
+ a
+
+
+coded
+ script
+ um
+ is
+ really
+ not
+ going
+ to
+
+
+be
+ able
+ to
+ give
+ you
+ that
+ level
+ of
+
+
+coverage.
+ So
+ the
+ idea
+ is
+ with
+ these
+
+
+prompts,
+ it's
+ really
+ up
+ to
+ the
+ end
+ user
+
+
+to
+ kind
+ of
+ um
+ be
+ creative
+ and
+ you
+ know
+
+
+come
+ up
+ with
+ different
+ use
+ cases
+ for
+ the
+
+
+agent
+ and
+ kind
+ of
+ go
+ beyond
+ that
+
+
+functional
+ um
+ codified
+
+
+test
+ approach.
