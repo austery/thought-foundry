@@ -1,0 +1,5568 @@
+[music]
+
+
+Welcome
+ back
+ to
+ How
+ I
+ AI.
+ I'm
+ Claireo,
+
+
+product
+ leader
+ and
+ AI
+ obsessive
+ here
+ on
+
+
+a
+ mission
+ to
+ help
+ you
+ build
+ better
+ with
+
+
+these
+ new
+ tools.
+ Today
+ I
+ have
+ a
+ really
+
+
+fun
+ mini
+ episode
+ where
+ I'm
+ going
+ to
+
+
+answer
+ the
+ question
+ on
+ everyone's
+ mind.
+
+
+Which
+ of
+ these
+ new
+ models
+ is
+ actually
+
+
+the
+ best
+ designer?
+ I'm
+ going
+ to
+ take
+ a
+
+
+page
+ on
+ my
+ site
+ that
+ I
+ don't
+ think
+ is
+
+
+particularly
+ welldesigned
+ and
+ have
+
+
+Gemini
+ [music]
+ 3,
+ Opus45,
+ and
+ Codeex
+ 51
+
+
+duke
+ it
+ out
+ and
+ see
+ which
+ one
+ can
+
+
+redesign
+ my
+ page
+ better.
+ One
+ shot.
+ Let's
+
+
+get
+ to
+ it.
+ This
+ episode
+ is
+ brought
+ to
+
+
+you
+ by
+ Lovable.
+ If
+ you've
+ ever
+ had
+ an
+
+
+idea
+ for
+ an
+ app,
+ but
+ didn't
+ know
+ where
+
+
+to
+ start,
+ Lovable
+ is
+ [music]
+ for
+ you.
+
+
+Lovable
+ lets
+ you
+ build
+ working
+ apps
+ and
+
+
+websites
+ by
+ simply
+ chatting
+ with
+ AI.
+
+
+[music]
+ Then
+ you
+ can
+ customize
+ it,
+ add
+
+
+automations,
+ and
+ deploy
+ it
+ to
+ a
+ live
+
+
+domain.
+ It's
+ perfect
+ for
+ marketers
+
+
+spinning
+ up
+ tools,
+ product
+ managers
+
+
+[music]
+ prototyping
+ new
+ ideas,
+ or
+
+
+founders
+ launching
+ their
+ next
+ business.
+
+
+Unlike
+ no
+ code
+ tools,
+ Lovable
+ isn't
+
+
+about
+ static
+ [music]
+ pages.
+ It
+ builds
+
+
+full
+ apps
+ with
+ real
+ functionality.
+ And
+
+
+it's
+ fast.
+ What
+ used
+ to
+ take
+ weeks,
+
+
+months,
+ or
+ even
+ years,
+ [music]
+ you
+ can
+
+
+now
+ do
+ over
+ the
+ weekend.
+ So,
+ if
+ you've
+
+
+been
+ sitting
+ on
+ an
+ idea,
+ now's
+ the
+ time
+
+
+to
+ bring
+ it
+ to
+ life.
+ Get
+ started
+ for
+
+
+free
+ at
+ lovable.dev.
+
+
+[music]
+ That's
+ lovable.dev.
+
+
+If
+ you've
+ been
+ paying
+ attention
+ the
+ last
+
+
+couple
+ of
+ weeks,
+ it
+ seems
+ like
+ every
+
+
+single
+ model
+ provider
+ has
+ released
+ a
+
+
+brand
+ new
+ coding
+ model.
+ And
+ what
+ I
+ heard
+
+
+the
+ most
+ from
+ people
+ is
+ sure
+ they're
+
+
+fast
+ and
+ sure
+ they're
+ great
+ and
+ sure
+
+
+they're
+ beating
+ benchmarks,
+ but
+ they
+ are
+
+
+all
+ really
+ good
+ at
+ design.
+ If
+ you've
+
+
+been
+ on
+ X
+ or
+ social
+ media,
+ you've
+
+
+probably
+ seen
+ these
+ beautifully
+ designed
+
+
+landing
+ pages,
+ apps,
+ and
+ user
+ experience
+
+
+components
+ generated
+ using
+ Gemini
+ 3
+ or
+
+
+Opus
+ 45
+ or
+ even
+ Codeex
+ 5.1.
+ And
+ I
+
+
+thought,
+ let's
+ put
+ these
+ side
+ by
+ side
+
+
+and
+ actually
+ see
+ which
+ one's
+ better
+ at
+
+
+redesigning
+ an
+ existing
+ page.
+ I
+ think
+
+
+it's
+ easy
+ to
+ oneshot
+ something
+ and
+ make
+
+
+it
+ look
+ beautiful,
+ especially
+ if
+ you're
+
+
+a
+ great
+ prompter
+ and
+ know
+ exactly
+ what
+
+
+to
+ say
+ as
+ a
+ designer,
+ but
+ if
+ you
+ have
+ an
+
+
+existing
+ site
+ and
+ you
+ want
+ to
+ make
+ it
+
+
+better,
+ who's
+ your
+ trusted
+ design
+
+
+engineer?
+ Which
+ of
+ these
+ models
+ is
+
+
+really
+ going
+ to
+ do
+ the
+ trick?
+ And
+ I'm
+
+
+going
+ to
+ show
+ you
+ what
+ I
+ think
+ today
+ in
+
+
+a
+ couple
+ minutes
+ on
+ which
+ of
+ these
+
+
+models
+ is
+ the
+ better
+ designer
+ or
+
+
+redesigner
+ of
+ a
+ page
+ that
+ I
+ don't
+ think
+
+
+is
+ really
+ great.
+ So,
+ this
+ is
+ the
+ chat
+
+
+PRD
+ blog.
+ It
+ is
+ not
+ very
+ good.
+ I
+ don't
+
+
+think
+ this
+ is
+ a
+ very
+ beautiful
+ site.
+
+
+It's
+ not
+ my
+ favorite.
+ I
+ think
+ it
+ could
+
+
+be
+ a
+ lot
+ better.
+ And
+ it
+ could
+ be
+ a
+ lot
+
+
+better
+ from
+ a
+ functional
+ perspective,
+
+
+but
+ it
+ can
+ also
+ be
+ a
+ lot
+ better
+ from
+ a
+
+
+design
+ perspective.
+ And
+ you
+ know,
+ if
+ I
+
+
+had
+ a
+ team,
+ which
+ I
+ have
+ a
+ little
+ small
+
+
+one,
+ but
+ if
+ I
+ had
+ a
+ team
+ that
+ was
+ not
+
+
+AI,
+ I
+ might
+ send
+ this
+ to
+ designer
+ and
+
+
+say,
+ "Hey,
+ we
+ just
+ launched
+ this
+ um
+
+
+early
+ on.
+ It's
+ not
+ great.
+ Can
+ you
+
+
+redesign
+ it?"
+ And
+ so
+ I
+ wanted
+ to
+ test
+
+
+that
+ flow
+ with
+ some
+ of
+ the
+ new
+ models
+
+
+that
+ have
+ come
+ out
+ that
+ have
+ said
+ that
+
+
+they
+ are
+ better
+ designers
+ than
+ previous
+
+
+versions.
+ And
+ so
+ I
+ fired
+ up
+ cursor
+ and
+ I
+
+
+did
+ a
+ model
+ by
+ model
+ comparison
+ of
+
+
+redesigns.
+ And
+ I
+ used
+ the
+ exact
+ same
+
+
+prompt,
+ exact
+ same
+ input
+ code,
+ and
+ we're
+
+
+just
+ going
+ to
+ see
+ which
+ one
+ we
+ think
+ is
+
+
+the
+ better
+ designer.
+ So
+ I'm
+ going
+ to
+
+
+show
+ you
+ my
+ prompt
+ here
+ in
+ cursor.
+
+
+It
+ was
+ pretty
+ straightforward.
+ It
+ was
+
+
+this
+ redesign
+ the
+ blog
+ page.
+ So
+ I
+ just
+
+
+showed
+ it
+ the
+ directory
+ of
+ where
+ our
+
+
+blog
+ page
+ is
+ to
+ improve
+ both
+ the
+ visual
+
+
+appeal
+ and
+ user
+ experience.
+ So
+ sort
+ of
+
+
+both
+ like
+ will
+ it
+ look
+ nicer
+ and
+ will
+ it
+
+
+be
+ functionally
+ a
+ little
+ easier
+ to
+ use
+
+
+and
+ then
+ I
+ added
+ a
+ functional
+ component
+
+
+to
+ it
+ which
+ was
+ add
+ best
+ practices
+ for
+
+
+SEO
+ and
+ navigation.
+ And
+ then
+ I
+ did
+ that
+
+
+for
+ three
+ different
+ models.
+ I
+ did
+ it
+ for
+
+
+Gemini
+ 3
+ Pro.
+ I
+ did
+ it
+ for
+ Opus45
+ for
+
+
+anthropic
+ and
+ I
+ did
+ it
+ from
+ GPT51
+
+
+codecs.
+ These
+ are
+ all
+ recently
+ released
+
+
+models
+ that
+ have
+ been
+ said
+ to
+ be
+ their
+
+
+bestin-class
+ models
+ from
+ OpenAI,
+ from
+
+
+Anthropic,
+ and
+ from
+ Google.
+ And
+ so
+ we're
+
+
+going
+ to
+ see
+ exactly
+ what
+ it
+ did.
+ And
+ I
+
+
+started
+ with
+ Gemini
+ 3
+ Pro.
+ The
+ reason
+
+
+why
+ I
+ started
+ with
+ Gemini
+ 3
+ Pro
+ is
+ I've
+
+
+heard
+ over
+ and
+ over
+ and
+ over
+ again
+ what
+
+
+a
+ great
+ designer
+ Gemini
+ 3
+ Pro
+ is.
+ And
+ I
+
+
+really
+ wanted
+ to
+ see
+ what
+ it
+ did.
+ And
+ so
+
+
+you
+ can
+ see
+ here
+ it
+ thought
+ quite
+ a
+ bit
+
+
+um
+ about
+ visual
+ design,
+ user
+ experience,
+
+
+SEO,
+ navigation.
+ It
+ looked
+ at
+ the
+ code
+
+
+and
+ it
+ start
+ started
+ executing.
+ So
+ it
+
+
+started
+ writing
+ some
+ code
+ and
+ we're
+
+
+going
+ to
+ switch
+ over
+ and
+ see
+ exactly
+
+
+what
+ it
+ generated.
+ So
+ it
+ generated
+ this.
+
+
+This
+ was
+ the
+ before
+ if
+ you
+ recall.
+ Very,
+
+
+very
+ boring,
+ not
+ very
+ good.
+ And
+ in
+ the
+
+
+after,
+ it
+ generated
+ a
+ nice
+ hero
+ image
+ of
+
+
+the
+ most
+ recent
+ blog
+ post.
+ So,
+ there's
+
+
+now
+ this
+ like
+ highlighted
+ blog
+ post
+ at
+
+
+the
+ top
+ and
+ then
+ these
+ cards
+ at
+ the
+
+
+bottom.
+ And
+ a
+ couple
+ improvements
+ I
+ see
+
+
+here.
+ There's
+ some
+ tagging
+ here.
+ There's
+
+
+some
+ date
+ of
+ releases.
+ There's
+ this
+ nice
+
+
+hover
+ effect
+ that
+ zooms
+ in
+ on
+ our
+
+
+featured
+ images
+ when
+ you
+ zoom
+ in.
+
+
+Haven't
+ done
+ anything
+ regarding
+
+
+pageionation,
+ which
+ is
+ a
+ current
+
+
+functionality
+ that
+ doesn't
+ really
+ take
+
+
+into
+ account
+ whether
+ or
+ not
+ we
+ have
+
+
+featured
+ images
+ and
+ making
+ that
+ look
+
+
+good.
+ So,
+ there's
+ some
+ things
+ there
+ that
+
+
+could
+ be
+ improved,
+ but
+ I
+ think
+ overall
+
+
+it's
+ pretty
+ good.
+ One
+ thing
+ that
+ I
+
+
+noticed
+ that
+ it
+ did
+ that
+ I
+ did
+ not
+ love
+
+
+is
+ that
+ there's
+ this
+ tag
+ at
+ the
+ very
+ top
+
+
+of
+ the
+ page,
+ and
+ it's
+ just
+ a
+ little
+ too
+
+
+tight
+ with
+ the
+ rest
+ of
+ the
+ navigation.
+
+
+So,
+ one
+ of
+ my
+ reflections
+ here
+ is,
+ you
+
+
+know,
+ it
+ doesn't
+ have
+ like
+ the
+ full
+
+
+visual
+ context
+ of
+ the
+ page,
+ but
+ it
+ did
+ a
+
+
+pretty
+ nice
+ job
+ and
+ it
+ was
+ very
+ fast.
+
+
+But
+ I
+ have
+ to
+ say,
+ despite
+ Gemini
+ 3's
+
+
+reputation
+ for
+ being
+ the
+ best
+ designer,
+
+
+it
+ was
+ actually
+ not
+ my
+ favorite.
+ So
+ we
+ I
+
+
+ran
+ the
+ exact
+ same
+ query
+ in
+ cursor
+ with
+
+
+Opus
+ 45.
+ So
+ if
+ you
+ look
+ up
+ here,
+
+
+redesigned
+ the
+ blog
+ to
+ improve
+ both
+ the
+
+
+visual
+ appeal
+ and
+ UX
+ and
+ add
+ best
+
+
+practices
+ for
+ SEO
+ and
+ navigation.
+ Now,
+
+
+the
+ difference
+ that
+ I
+ thought
+ was
+ really
+
+
+interesting
+ when
+ using
+ Gemini
+ 3
+ versus
+
+
+Opus
+ 45
+ is
+ Opus45
+ actually
+ triggered
+ um
+
+
+a
+ to-do
+ list
+ inside
+ cursor.
+ So,
+ it
+ did
+ a
+
+
+tool
+ call
+ to
+ to
+ create
+ a
+ to-do
+ list
+ and
+
+
+it
+ gave
+ a
+ stepbystep
+ flow
+ it
+ was
+ going
+
+
+to
+ follow.
+ So,
+ Gemini
+ 3
+ sort
+ of
+ did
+ that
+
+
+chain
+ of
+ thought
+ um
+ reasoning
+ and
+ then
+
+
+just
+ you'll
+ load
+ code.
+ Opus
+ 45
+ created
+
+
+four
+ to-dos.
+ So
+ the
+ to-dos
+ were
+ redesign
+
+
+the
+ blog
+ listing
+ page,
+ improve
+ the
+ blog
+
+
+layout,
+ enhance
+ the
+ post
+ display
+ and
+ add
+
+
+comprehensive
+ SEO
+ structure
+ data,
+
+
+canonical
+ URLs
+ and
+ metatags.
+ And
+ so
+ it
+
+
+was
+ very
+ precise
+ step
+ by
+ step
+ on
+ what
+ it
+
+
+was
+ going
+ to
+ do
+ in
+ terms
+ of
+
+
+implementing.
+ And
+ so
+ I
+ think
+ the
+
+
+planning
+ capabilities
+ of
+ Opus
+ 45
+ are
+
+
+certainly
+ better.
+ I
+ think
+ Anthropic
+ has
+
+
+really
+ different
+ differentiated
+
+
+themselves
+ as
+ experts
+ in
+ coding
+ models.
+
+
+You
+ know,
+ if
+ I
+ wanted
+ to
+ get
+ the
+ best
+
+
+outcome
+ here,
+ I
+ probably
+ should
+ have
+
+
+done
+ this
+ in
+ Claude
+ code
+ because
+ I
+ think
+
+
+there's
+ some
+ optimizations
+ they've
+ done
+
+
+there
+ recently
+ as
+ well.
+ But
+ I
+ thought
+ it
+
+
+was
+ really
+ interesting
+ that
+ the
+ output
+
+
+of
+ a
+ planned
+ implementation
+ was
+ much
+
+
+better
+ than
+ the
+ output
+ of
+ a
+ straight
+
+
+shot
+ oneshot
+ implementation.
+ And
+ so
+ you
+
+
+can
+ see
+ it
+ went
+ step
+ by
+ step
+ and
+
+
+actually
+ checked
+ off
+ those
+ changes
+ and
+
+
+then
+ provided
+ me
+ a
+ a
+ summary
+ of
+ changes.
+
+
+And
+ I'm
+ going
+ to
+ switch
+ and
+ show
+ you
+
+
+exactly
+ what
+ that
+ looked
+ like
+ cuz
+ I
+ was
+
+
+actually
+ impressed
+ by
+ by
+ the
+ design.
+ So,
+
+
+this
+ is
+ what
+ we
+ got
+ from
+ Opus45,
+ which
+ I
+
+
+think,
+ spoiler
+ alert,
+ from
+ all
+ the
+
+
+models
+ was
+ the
+ most
+ beautifully
+ designed
+
+
+blog
+ page
+ that
+ I
+ got
+ and
+ also
+ honestly
+
+
+the
+ most
+ functional
+ from
+ an
+ SEO
+
+
+perspective.
+ And
+ so,
+ what
+ you
+ can
+ see
+
+
+that
+ Opus45
+ did
+ here
+ is
+ it
+ pulled
+ some
+
+
+images.
+ We
+ have
+ a
+ repository
+ of
+
+
+beautiful
+ background
+ images
+ and
+ featured
+
+
+images
+ that
+ we
+ use
+ throughout
+ the
+ chat
+
+
+pd
+ website.
+ It
+ actually
+ pulled
+ and
+
+
+looked
+ for
+ assets
+ that
+ it
+ could
+ bring
+ in
+
+
+that
+ would
+ look
+ nice.
+ These
+ rings
+ are
+
+
+some
+ um
+ design
+ elements
+ that
+ we
+ use
+
+
+commonly.
+ And
+ so
+ it
+ pulled
+ in
+ some
+
+
+interesting
+ assets.
+ If
+ you
+ recall,
+
+
+Gemini
+ 3
+ just
+ had
+ a
+ gradient
+ background.
+
+
+Opus
+ 45
+ actually
+ added
+ some
+ imagery
+ in
+
+
+the
+ background.
+ very
+ similar
+ concept
+ in
+
+
+terms
+ of
+ the
+ layout.
+ So
+ you
+ see
+ again
+ a
+
+
+featured
+ article
+ that
+ is
+ the
+ most
+ recent
+
+
+blog
+ post.
+ Again,
+ three
+ column
+ cards
+
+
+with
+ the
+ zoomin
+ trick.
+ So
+ I
+ guess
+ people
+
+
+like
+ it.
+ But
+ if
+ you
+ look
+ at
+ this,
+ a
+
+
+couple
+ nice
+ design
+ tweaks
+ that
+ Opus45
+
+
+added.
+ When
+ you
+ hover,
+ not
+ only
+ does
+ the
+
+
+image
+ zoom
+ in,
+ but
+ it
+ gives
+ you
+ this
+
+
+nice
+ little
+ call
+ to
+ action
+ here,
+ this
+
+
+little
+ arrow.
+ I
+ think
+ it
+ is
+ so
+ cute.
+
+
+Just
+ does
+ that
+ nice
+ little
+ touch
+ hover
+
+
+treatment
+ on
+ the
+ um
+ anchor
+ link
+ for
+ the
+
+
+blog
+ post.
+ Again,
+ tags
+ are
+ in.
+ And
+ then
+
+
+it
+ did
+ a
+ little
+ bit
+ more
+ on
+ the
+ SEO
+
+
+side.
+ And
+ I
+ will
+ wrap
+ back
+ around
+ to
+ the
+
+
+SEO
+ changes
+ that
+ each
+ of
+ them
+ made.
+ But
+
+
+if
+ you
+ see
+ here,
+ not
+ only
+ do
+ you
+ have
+
+
+the
+ author,
+ which
+ is
+ me,
+ Clarvo,
+ you
+
+
+have
+ the
+ date,
+ which
+ we
+ also
+ saw
+ in
+ the
+
+
+Gemini
+ 3
+ option,
+ but
+ it
+ also
+ has
+ an
+
+
+estimated
+ time
+ reading
+ and
+ a
+ link.
+ And
+
+
+so
+ I
+ just
+ think
+ the
+ quality
+ of
+ the
+
+
+design
+ here
+ went
+ probably
+ 20
+ or
+ 30%
+
+
+further
+ than
+ the
+ Gemini
+ 3
+ model
+ went.
+
+
+And
+ it's
+ those
+ nice
+ edge
+ touches
+ that
+ I
+
+
+feel
+ like
+ AI
+ can
+ add
+ into
+ any
+ design
+
+
+that
+ just
+ makes
+ it
+ so
+ much
+ nicer
+ to
+ work
+
+
+with.
+ And
+ I
+ was
+ really
+ impressed
+ with
+
+
+Opus
+ 45
+ in
+ terms
+ of
+ the
+ quality
+ of
+ the
+
+
+detail
+ orientation.
+ Now
+ let's
+ go
+ down.
+
+
+You
+ know,
+ one
+ of
+ the
+ things
+ that
+ it
+ did
+
+
+is
+ it
+ handled
+ no
+ images
+ a
+ little
+ smarter
+
+
+than
+ Gemini
+ 3
+ did.
+ So,
+ if
+ you
+ recall,
+
+
+Gemini
+ 3
+ kind
+ of
+ collapsed
+ these
+ cards
+
+
+here,
+ did
+ not
+ put
+ placeholder
+ images
+ in.
+
+
+Here
+ with
+ Opus45,
+ it
+ saw
+ that
+ we
+ were
+
+
+missing
+ images
+ for
+ some
+ of
+ our
+ blog
+
+
+posts
+ and
+ put
+ a
+ little
+ placeholder
+ with
+
+
+a
+ nice
+ little
+ book
+ icon
+ here,
+ which
+ I
+
+
+think
+ is
+ lovely.
+ It
+ makes
+ these
+ cards
+
+
+just
+ look
+ a
+ lot
+ nicer
+ and
+ is
+ really
+
+
+welld
+ designigned.
+
+
+So
+ overall,
+ I
+ think
+ that
+ Opus45
+ did
+ an
+
+
+excellent
+ job
+ out
+ of
+ the
+ box
+ of
+
+
+redesigning
+ a
+ page
+ and
+ not
+ only
+
+
+redesigning
+ the
+ page,
+ but
+ really
+
+
+thinking
+ about
+ the
+ functional
+ components
+
+
+of
+ it.
+ And
+ I
+ think
+ a
+ lot
+ of
+ that
+ goes
+ to
+
+
+its
+ planning
+ mode
+ and
+ its
+ ability
+ to
+
+
+call
+ tools
+ and
+ then
+ do
+ some
+ of
+ these
+
+
+implementations
+ step
+ by
+ step.
+
+
+Now,
+ let's
+ get
+ to
+ the
+ last
+ model
+ that
+ I
+
+
+tested,
+ which
+ was
+ codeex
+ 51
+ Pro.
+ So,
+
+
+again,
+ same
+ prompt
+ here.
+ Redesign
+ the
+
+
+blog
+ to
+ improve
+ the
+ visual
+ appeal
+ and
+ UX
+
+
+and
+ add
+ best
+ practices
+ from
+ SEO.
+ Edit
+
+
+GPT51
+
+
+codecs,
+ um,
+ the
+ leading
+ coding
+ model
+
+
+from
+ Open
+ AI.
+ Again,
+ codec
+ codecs
+ like
+
+
+Opus
+ 45
+ thought
+ and
+ generated
+ to-dos.
+
+
+The
+ to-dos
+ were
+ a
+ little
+ less
+ granular
+
+
+than
+ the
+ one
+ from
+ Opus.
+ So,
+ if
+ you
+ look
+
+
+at
+ Opus,
+ the
+ to-dos
+ were
+ redesign
+ the
+
+
+blog
+ listing
+ page
+ with
+ specifics
+ about
+
+
+how
+ I
+ was
+ going
+ to
+ redesign,
+ improve
+ the
+
+
+blog
+ layout,
+ enhance
+ a
+ specific
+
+
+component,
+ and
+ then
+ add
+ SEO.
+ The
+ plans
+
+
+for
+ 51
+ codecs
+ were
+ a
+ little
+ bit
+ more
+
+
+general.
+ They
+ were
+ investigate
+ current
+
+
+layout,
+ redesign,
+ apply
+ SEO.
+ So
+ I
+ think
+
+
+the
+ planning
+ was
+ just
+ not
+ as
+ thoughtful
+
+
+from
+ a
+ design
+ perspective
+ as
+ the
+
+
+planning
+ was
+ from
+ Opus
+ 45.
+ And
+ then
+ if
+
+
+we
+ actually
+ look
+ at
+ the
+ design,
+ oh,
+
+
+OpenAI,
+ you
+ know,
+ I
+ love
+ you.
+ Some
+ of
+ my
+
+
+favorite
+ models,
+ but
+ it
+ did
+ not
+ do
+ well
+
+
+on
+ this
+ redesign.
+ And
+ so
+ you
+ can
+ see
+ a
+
+
+couple
+ things
+ that
+ it
+ didn't
+ do
+ well
+
+
+right
+ out
+ the
+ gate.
+ one,
+ it
+ gave
+ me
+ AI
+
+
+slop
+ purple
+ gradient.
+ Like,
+ we
+ do
+ not
+
+
+need
+ any
+ more
+ purple
+ to
+ blue
+ gradients
+
+
+in
+ a
+ AI
+ designs.
+ We
+ need
+ to
+ get
+ them
+ out
+
+
+of
+ here.
+ And
+ so,
+ just
+ the
+ fact
+ that
+ we
+
+
+got
+ AI
+ purple
+ is
+ an
+ immediate
+
+
+disappointment.
+ The
+ other
+ thing,
+ and
+
+
+this
+ may
+ be
+ a
+ me
+ problem,
+ but
+ I
+ think
+ we
+
+
+have
+ a
+ white
+ um
+ word
+ mark
+ and
+ a
+ better
+
+
+logo
+ to
+ use
+ here.
+ And
+ you
+ can
+ tell
+ here
+
+
+just
+ the
+ image
+ it
+ selected
+ is
+ not
+ nice
+
+
+on
+ top
+ of
+ a
+ colored
+ background.
+ Now
+ I
+ do
+
+
+think
+ that
+ the
+ headline
+ and
+ copy
+ from
+
+
+the
+ um
+ from
+ the
+ blog
+ is
+ really
+ nice
+
+
+stories,
+ playbooks
+ and
+ experiments
+ from
+
+
+the
+ team.
+ Um
+ so
+ it
+ gives
+ a
+ little
+ bit
+
+
+more
+ context.
+ So
+ this
+ was
+ the
+ model
+ that
+
+
+did
+ the
+ best
+ copywriting
+ perhaps
+ but
+
+
+overall
+ the
+ design
+ was
+ not
+ very
+ good.
+
+
+And
+ then
+ again
+ it
+ did
+ a
+ featured
+ post
+
+
+here.
+ This
+ is
+ the
+ image
+ from
+ our
+ most
+
+
+recent
+ blog
+ post,
+ but
+ there's
+ no
+
+
+context.
+ There's
+ no
+ call
+ to
+ action.
+ It
+
+
+doesn't
+ link
+ to
+ anywhere.
+ And
+ so,
+ I'm
+
+
+just
+ really
+ unsure
+ what
+ it
+ was
+ expecting
+
+
+users
+ to
+ experience.
+ Now,
+ it's
+ repeated
+
+
+here.
+ Um,
+ the
+ featured
+ blog.
+ So,
+ again,
+
+
+I
+ think
+ these
+ I
+ think
+ these
+ models
+
+
+really
+ like
+ I
+ guess
+ there
+ aren't
+ that
+
+
+many
+ fancy
+ things
+ in
+ blog
+ design
+ and
+
+
+that
+ you
+ all
+ have
+ to
+ have
+ a
+ featured
+
+
+image
+ and
+ then
+ a
+ three
+ row
+ um
+ layout
+ for
+
+
+your
+ blog
+ post.
+ So,
+ it
+ did
+ do
+ the
+
+
+featured
+ image
+ here,
+ but
+ the
+ problem
+ is
+
+
+it
+ added
+ a
+ bunch
+ of
+ these
+ links
+ that
+
+
+don't
+ really
+ I
+ don't
+ understand
+ how
+ they
+
+
+work.
+ They
+ only
+ do
+ the
+ featured
+ image
+ in
+
+
+each
+ of
+ these
+ categories.
+ The
+ jumping's
+
+
+kind
+ of
+ weird.
+ And
+ then
+ if
+ you
+ look
+ at
+
+
+it
+ at
+ browse
+ the
+ library,
+
+
+it
+ doesn't
+ even
+ show
+ the
+ blog
+ posts
+ that
+
+
+exist
+ in
+ our
+ overall
+ um
+ library.
+ And
+ so
+
+
+it's
+ both
+ not
+ pretty,
+
+
+it's
+ purple,
+ and
+ it
+ doesn't
+ work.
+ And
+ so
+
+
+I
+ was
+ really
+ surprised
+ cuz
+ I've
+ had
+
+
+pretty
+ good
+ experience
+ with
+ um
+ GPT5
+ and
+
+
+51
+ in
+ functional
+ sort
+ of
+ backend
+ work,
+
+
+but
+ the
+ front
+ end
+ work,
+ it
+ just
+ really
+
+
+struggled.
+ And
+ I
+ will
+ tell
+ you,
+ this
+ is
+
+
+not
+ a
+ complicated
+ app.
+ This
+ is
+ a
+ basic,
+
+
+you
+ know,
+ blog
+ layout
+ with
+ a
+ basic
+ CMS
+
+
+on
+ the
+ background.
+ It
+ is
+ nothing
+ that
+ is
+
+
+technically
+ complicated.
+ And
+ so
+ what
+ I
+
+
+would
+ say
+ from
+ a
+ GPT
+ codeex
+ 51
+
+
+perspective
+ is
+ it's
+ not
+ going
+ to
+ be
+ the
+
+
+designer
+ on
+ your
+ team.
+ It
+ has
+ another
+
+
+role
+ to
+ play
+ on
+ your
+ team.
+ And
+ I
+ have
+
+
+found
+ plenty
+ of
+ places
+ for
+ this
+ model
+ to
+
+
+be
+ really
+ really
+ useful.
+ But
+ design
+ is
+
+
+not
+ one
+ of
+ them.
+ And
+ so
+ I
+ would
+ say
+ just
+
+
+looking
+ back
+ Opus
+ 45
+ absolutely
+ my
+
+
+favorite
+ from
+ a
+ front-end
+ design
+
+
+perspective.
+ Gemini
+ 3
+ very
+ serviceable
+
+
+could
+ probably
+ benefit
+ from
+ some
+
+
+planning
+ and
+ implementation
+ and
+ then
+
+
+codeex
+ 5.1
+ is
+ just
+ not
+ your
+ front-end
+
+
+girl.
+ So
+ we
+ got
+ to
+ get
+ something
+ else
+ in
+
+
+the
+ front
+ end.
+ And
+ what
+ I
+ like
+ about
+
+
+testing
+ these
+ models
+ on
+ a
+ specific
+ use
+
+
+case
+ like
+ this
+ where
+ it's
+ repeated
+ is
+
+
+you
+ can
+ start
+ to
+ understand
+ which
+ model
+
+
+goes
+ at
+ what
+ part
+ of
+ your
+ workflow.
+ I'm
+
+
+a
+ real
+ believer
+ in
+ model
+ switching.
+ I
+
+
+know
+ everybody
+ has
+ their
+ personal
+
+
+preferences,
+ but
+ I
+ think
+ there
+ are
+ great
+
+
+models
+ for
+ writing.
+ I
+ think
+ there
+ are
+
+
+great
+ models
+ for
+ design.
+ I
+ think
+ there
+
+
+are
+ great
+ models
+ for
+ image
+ genen.
+ I
+
+
+think
+ there's
+ great
+ models
+ for
+ planning
+
+
+and
+ strategic
+ thought.
+ And
+ I
+ think
+
+
+there's
+ great
+ models
+ for
+ back-end
+
+
+coding.
+ And
+ not
+ all
+ of
+ these
+ models
+ are
+
+
+created
+ equal.
+ They're
+ all
+ exceptional.
+
+
+I
+ mean,
+ think
+ about
+ the
+ work
+ that
+ they
+
+
+can
+ do
+ on
+ behalf
+ of
+ teams.
+ But
+ they're
+
+
+not
+ all
+ the
+ same.
+ And
+ I
+ think
+ as
+ you
+
+
+test
+ them
+ out,
+ looking
+ at
+ similar
+ use
+
+
+cases
+ over
+ models
+ and
+ making
+ a
+ decision
+
+
+about
+ where
+ you're
+ going
+ to
+ place
+ a
+
+
+model
+ on
+ a
+ team
+ is
+ a
+ really
+ important
+
+
+skill
+ to
+ have
+ as
+ you're
+ developing
+ your
+
+
+AI
+ fluency
+ as
+ a
+ designer,
+ as
+ a
+ product
+
+
+manager,
+ and
+ as
+ an
+ engineer.
+ Now,
+ I
+ want
+
+
+to
+ go
+ through
+ the
+ functional
+ side
+ of
+
+
+things
+ before
+ we
+ wrap
+ up
+ this
+ little
+
+
+mini
+ app,
+ which
+ is
+ going
+ to
+ be
+ a
+ true
+
+
+mini
+ app
+ hopefully
+ under
+ 20
+ minutes,
+
+
+which
+ is
+ summarizing
+ the
+ changes
+ you
+
+
+made.
+ So,
+ I
+ asked
+ each
+ of
+ the
+ models
+ to
+
+
+summarize
+ the
+ changes
+ they
+ made
+ into
+ in
+
+
+terms
+ of
+ design
+ changes,
+ SEO
+ changes,
+
+
+and
+ just
+ what
+ did
+ it
+ do?
+ And
+ so,
+ you
+
+
+know,
+ I
+ like
+ this
+ as
+ a
+ workflow
+ as
+
+
+you're
+ working
+ with
+ coding
+ agents,
+
+
+especially
+ if
+ you're
+ if
+ you're
+ running
+ a
+
+
+lot
+ of
+ them
+ and
+ you're
+ not
+ paying
+
+
+attention
+ to
+ them,
+ asking
+ it
+ to
+
+
+summarize
+ the
+ changes
+ it
+ made
+ so
+ you
+ can
+
+
+compare
+ them
+ are
+ really
+ useful.
+ And
+ so
+
+
+if
+ you
+ look
+ at
+ Gemini
+ 3,
+ it
+ made
+ a
+ new
+
+
+hero
+ section,
+ which
+ we
+ know.
+ It
+ made
+
+
+feature
+ post
+ layout,
+ which
+ we
+ know.
+
+
+Glassmorphism
+ card.
+ Thank
+ you.
+ Thank
+
+
+you,
+ Apple,
+ for
+ giving
+ us
+ glassorphism.
+
+
+I
+ think
+ we
+ could
+ live
+ without
+ it,
+ but
+
+
+it's
+ at
+ least
+ a
+ standard
+ likable
+ design
+
+
+style.
+ So,
+ it
+ has
+ scaling
+ images,
+
+
+deepening
+ shadows,
+ improved
+ typography,
+
+
+related
+ articles,
+ and
+ visual
+
+
+breadcrumbs.
+ Now,
+ let's
+ look
+ at
+ this
+
+
+because
+ one
+ of
+ the
+ things
+ I
+ did
+ not
+
+
+check
+ is
+ if
+ these
+ models
+ actually
+
+
+changed
+ how
+ the
+ blog
+ post
+ themselves
+
+
+showed
+ up.
+ So,
+ let's
+ click
+ into
+ that
+ and
+
+
+see
+ if
+ there
+ were
+ layout
+ changes
+ that
+
+
+were
+ made
+ to
+ the
+ actual
+ blog
+ posts.
+ And
+
+
+there
+ were.
+ Okay.
+ So,
+ Gemini
+ 3
+ did
+ make
+
+
+some
+ changes
+ to
+ the
+ actual
+ blog
+ posts
+
+
+and
+ it
+ said
+ it
+ added
+ related
+ articles.
+
+
+Okay.
+ So
+ that's
+ a
+ little
+ bonus
+ is
+ it
+
+
+went
+ beyond
+ just
+ the
+ the
+ blog
+ homepage
+
+
+and
+ it
+ added
+ some
+ SEO
+ functionality
+ into
+
+
+the
+ blog
+ post
+ itself.
+ Now
+ let's
+ read
+ the
+
+
+rest
+ of
+ the
+ changes
+
+
+from
+ an
+ SEO
+ perspective.
+ Good
+ JSON
+ LD
+
+
+great
+ SEO
+ schema
+ that
+ we
+ definitely
+ want
+
+
+breadcrumbs
+ which
+ we
+ definitely
+ want
+
+
+semantic
+ HTML
+ which
+ is
+ really
+ helpful
+
+
+especially
+ in
+ blog
+ and
+ then
+ related
+
+
+articles
+ and
+ metadata.
+ So,
+ lots
+ of
+ very
+
+
+helpful,
+ I
+ think,
+ highquality
+ SEO
+
+
+changes
+ to
+ my
+ blog
+ post
+ from
+ Gemini
+ 3
+
+
+Pro.
+ So,
+ I'm
+ going
+ to
+ give
+ it
+ a
+ little
+
+
+bit
+ more
+ credit
+ in
+ that
+ it
+ went
+ a
+ little
+
+
+further
+ than
+ I
+ initially
+ analyzed.
+ Um,
+
+
+and
+ actually
+ went
+ to
+ the
+ blog
+ pages
+
+
+itself.
+ But,
+ let's
+ check
+ that
+ against
+ my
+
+
+favorite,
+ which
+ was
+ Opus
+ 45.
+ So,
+ I'm
+
+
+going
+ to
+ look
+ at
+ Opus
+ 45.
+ What
+ changes
+
+
+did
+ it
+ make?
+ Now,
+ see,
+ these
+ changes
+ are
+
+
+extensive.
+ So
+ again,
+ I
+ think
+ that
+
+
+planning
+ mode
+ really
+ allowed
+ it
+ to
+ make
+
+
+very
+ specific
+ changes
+ across
+ a
+ variety
+
+
+of
+ components.
+ So
+ it
+ made
+ future
+ post
+
+
+and
+ three
+ column
+ card
+ grid
+ which
+ we
+ know
+
+
+the
+ little
+ arrow
+ slide
+ in
+ that
+ I
+ noted,
+
+
+reading
+ time
+ badges,
+ category
+ pills,
+
+
+breadcrumbs
+ which
+ we
+ like,
+ and
+ graceful
+
+
+empty
+ state.
+ So
+ these
+ are
+ all
+ things
+
+
+that
+ I
+ identified
+ when
+ I
+ was
+ visually
+
+
+scanning
+ the
+ design
+ that
+ I
+ thought
+ was
+
+
+really
+ nice.
+ Um
+ the
+ blog
+ layout
+ had
+ this
+
+
+nice
+ rings
+ pattern
+ improving
+ spacing
+ and
+
+
+then
+ the
+ post
+ display
+
+
+um
+ has
+ more
+ information.
+ So
+ let's
+
+
+actually
+ see
+ what
+ it
+ did
+ on
+ the
+ posts
+ if
+
+
+anything.
+ So
+ let's
+ click
+ through.
+
+
+So
+ it
+ made
+ again
+ very
+ similar
+ changes
+ to
+
+
+what
+ we
+ saw
+ in
+ Gemini
+ 3.
+ So
+ again
+ like
+
+
+don't
+ redesign
+ uh
+ everything.
+ If
+ you
+ are
+
+
+doing
+ something
+ like
+ a
+ blog,
+ you're
+
+
+going
+ to
+ get
+ best
+ practices.
+ So,
+ it
+
+
+brought
+ in
+ that
+ metadata
+ in
+ terms
+ of
+
+
+author,
+ date,
+ and
+ reading
+ time.
+ Let's
+
+
+see
+ if
+ it
+ added
+ those
+ anchor
+ links.
+ It
+
+
+did
+ not
+ add
+ um
+ any
+ related
+ links.
+ So,
+ it
+
+
+maybe
+ didn't
+ do
+ as
+ great
+ of
+ a
+ job
+ on
+ the
+
+
+SEO
+ on
+ the
+ individual
+ article
+ pages,
+ but
+
+
+it
+ did
+ do
+ a
+ really
+ nice
+ job
+ redesigning
+
+
+the
+ call
+ to
+ action
+ at
+ the
+ bottom
+ of
+ our
+
+
+blog
+ post,
+ which
+ is
+ something
+ that
+ I
+
+
+don't
+ think
+ Gemini
+ did.
+ So,
+ it
+ added
+ I'm
+
+
+sorry
+ to
+ say
+ it
+ is
+ again
+ AI
+ purple
+ slop.
+
+
+So,
+ we
+ got
+ to
+ say
+ no
+ more
+ purple.
+
+
+Especially
+ chat
+ purity
+ is
+ so
+ pink.
+ It
+
+
+should
+ know
+ it.
+ It
+ should
+ see
+ pink
+
+
+everywhere
+ in
+ my
+ repo.
+ It
+ should
+ do
+
+
+this.
+ But
+ other
+ than
+ the
+ purple,
+ I
+ think
+
+
+this
+ is
+ a
+ really
+ nice
+ call
+ to
+ action
+ for
+
+
+a
+ newsletter
+ subscribe.
+ There's
+ a
+ subtle
+
+
+gradient
+ in
+ here.
+ There's
+ a
+ drop
+ shadow.
+
+
+This
+ little
+ um
+ kind
+ of
+ uh
+ avatar
+ call
+
+
+out
+ next
+ to
+ how
+ many
+ product
+ managers
+
+
+are
+ subscribed.
+ Actually,
+ there's
+ like
+
+
+90,000
+ product
+ managers
+ subscribed,
+ so
+
+
+we
+ got
+ to
+ update
+ the
+ content
+ there.
+ I
+
+
+think
+ this
+ is
+ a
+ really
+ nice
+ little
+
+
+component.
+ And
+ this
+ is
+ another
+ thing
+
+
+I've
+ noticed
+ about
+ these
+ new
+ coding
+
+
+models
+ is
+ we're
+ all
+ getting
+ wowed
+ by
+
+
+these
+ beautiful
+ page
+ designs
+ and
+ app
+
+
+designs.
+ What
+ is
+ really
+ impressive
+ is
+
+
+you
+ give
+ it
+ like
+ a
+ small
+ little
+
+
+component,
+ a
+ little
+ widget,
+ and
+ have
+ it
+
+
+redesign,
+ it
+ looks
+ so
+ much
+ nicer.
+
+
+So
+ that's
+ what
+ it
+ did
+ from
+ a
+ design
+
+
+perspective.
+ Let's
+ see
+ from
+ an
+ SEO
+
+
+perspective.
+ So,
+ metadata
+ again,
+ open
+
+
+graph,
+ um,
+ structured
+ data.
+ Let's
+ see
+ if
+
+
+it
+ did
+ JSON
+ LD.
+ It
+ didn't
+ specifically
+
+
+call
+ out
+ JSON
+ LD.
+ So,
+ I'm
+ going
+ to
+ have
+
+
+to
+ check
+ to
+ see
+ if
+ it
+ did
+ that.
+ That's
+
+
+one
+ important
+ part
+ of
+ our
+ SEO
+ road
+ map
+
+
+at
+ Chatard
+ we've
+ been
+ working
+ on.
+ So,
+ I
+
+
+was
+ surprised
+ not
+ to
+ see
+ it.
+ But
+ again,
+
+
+maybe
+ you
+ put
+ Opus
+ 45
+ in
+ the
+ designer
+
+
+mode
+ and
+ you
+ put
+ some
+ of
+ these
+ other
+
+
+models
+ in
+ your
+ like
+ SEO
+ engineer
+ mode
+
+
+and
+ then
+ another
+ model
+ in
+ your
+ sort
+ of
+
+
+like
+ backend
+ engineering
+ mode.
+ So
+ maybe
+
+
+we
+ just
+ have
+ figured
+ out
+ where
+ each
+ of
+
+
+these
+ models
+ need
+ to
+ live.
+ Now
+ let's
+ do
+
+
+our
+ last
+ one
+ and
+ look
+ at
+ codeex
+ 51.
+
+
+What
+ were
+ the
+ changes
+ it
+ made?
+ Now
+ this
+
+
+is
+ the
+ shortest
+ uh
+ shortest
+ summary.
+ And
+
+
+again,
+ this
+ is
+ the
+ one
+ that
+ did
+ the
+
+
+worst
+ job
+ at
+ this.
+ I
+ will
+ say
+ also
+
+
+GPT5
+ models
+ love
+ a
+ bullet
+ point.
+ If
+ you
+
+
+see
+ a
+ bullet
+ point,
+ this
+ is
+ a
+ five
+ or
+ 51
+
+
+response
+ here.
+ And
+ so
+ I
+ asked
+ it
+ to
+
+
+categorize
+ the
+ changes
+ you
+ made.
+ Again,
+
+
+use
+ the
+ exact
+ same
+ prompt.
+ It
+ gave
+ me
+
+
+five
+ bullet
+ points.
+ Very
+ lazy.
+ Um,
+ so
+
+
+hero
+ panel,
+ category
+ chips,
+ featured
+
+
+article
+ layout,
+ and
+ then
+ SEO
+ changes,
+
+
+did
+ metadata,
+ and
+ embedded
+ a
+ schema.org.
+
+
+So
+ they
+ it
+ did
+ the
+ JSON
+ LD
+ block.
+ Um,
+ so
+
+
+that's
+ good.
+ So
+ again,
+ we
+ weren't
+ really
+
+
+impressed
+ with
+ the
+ codeex
+ 5
+ GPT
+ 51
+
+
+codeex
+ model
+ on
+ design
+ and
+ actually
+ not
+
+
+that
+ impressed
+ on
+ the
+ details
+ in
+ terms
+
+
+of
+ user
+ experience
+ and
+ SEO.
+ So
+ I
+ think
+
+
+maybe
+ this
+ this
+ guy
+ belongs
+ in
+ the
+ back
+
+
+end.
+ I
+ probably
+ could
+ have
+ prompted
+ it
+
+
+better,
+ but
+ again,
+ the
+ point
+ of
+ this
+
+
+mini
+ episode
+ is
+ to
+ show
+ if
+ we
+ have
+ a
+
+
+basic
+ prompt.
+ The
+ same
+ way
+ I
+ would
+ speak
+
+
+to
+ a
+ colleague
+ that
+ I
+ don't
+ have
+ time
+ to
+
+
+tell
+ exactly
+ how
+ to
+ make
+ better,
+ I'm
+
+
+hoping
+ they
+ can
+ research
+ and
+ understand
+
+
+how
+ to
+ make
+ a
+ page
+ better.
+ I
+ would
+ just
+
+
+say,
+ "Hey,
+ our
+ blog
+ is
+ not
+ good.
+ We
+ need
+
+
+to
+ prove
+ the
+ SEO.
+ We
+ need
+ to
+ prove
+ the
+
+
+UX
+ and
+ it
+ needs
+ to
+ be
+ prettier.
+ Can
+ you
+
+
+just
+ take
+ care
+ of
+ it?"
+ um
+ what
+ it
+ would
+
+
+do.
+ And
+ that's
+ how
+ I
+ like
+ to
+ think
+ about
+
+
+these
+ models
+ is
+ how
+ do
+ they
+ respond
+ to
+
+
+these
+ natural
+ requests
+ you
+ would
+ make
+ in
+
+
+the
+ day-to-day
+ of
+ your
+ work
+ and
+ then
+
+
+compare
+ how
+ they
+ do
+ on
+ the
+ outset.
+ So
+ to
+
+
+recap
+ for
+ everyone,
+ we
+ did
+ a
+ we
+ started
+
+
+with
+ a
+ existing
+ layout.
+ It
+ was
+ not
+
+
+pretty.
+ It
+ was
+ not
+ functional.
+ It
+ was
+
+
+not
+ good.
+ We
+ gave
+ a
+ threeline
+ prompt
+ to
+
+
+redesign
+ it
+ for
+ UX,
+ visual
+ appeal,
+ and
+
+
+SEO.
+ And
+ then
+ we
+ compared
+ three
+ models.
+
+
+We
+ compared
+ Google's
+ Gemini
+ 3,
+
+
+Anthropics,
+ Opus
+ 45,
+ and
+ Open
+ AI's
+ GPD
+
+
+5.1
+ codecs.
+ And
+ the
+ winner
+ was
+ for
+ sure
+
+
+on
+ the
+ design
+ side
+ Anthropic's
+ Opus45
+
+
+model
+ both
+ from
+ a
+ design
+ perspective
+ as
+
+
+well
+ as
+ a
+ usability
+ and
+ SEO
+ perspective
+
+
+and
+ it
+ went
+ further
+ than
+ even
+ my
+ prompt
+
+
+requested.
+ The
+ hypothesis
+ here
+ is
+ both
+
+
+it
+ is
+ better
+ trained
+ on
+ high-quality
+
+
+front-end
+ design
+ as
+ well
+ as
+ its
+ detailed
+
+
+planning
+ allows
+ it
+ to
+ do
+ a
+ much
+ better
+
+
+job
+ on
+ the
+ details
+ and
+ implementation
+
+
+than
+ these
+ other
+ models
+ that
+ do
+ more
+
+
+shallow
+ planning
+ or
+ no
+ planning
+ at
+ all
+
+
+as
+ we
+ saw
+ in
+ the
+ Gemini
+ 3
+ case
+ and
+ so
+ we
+
+
+just
+ got
+ a
+ better
+ outcome.
+ I
+ love
+ my
+ new
+
+
+blog
+ design.
+ I
+ am
+ very
+ excited
+ about
+
+
+this.
+ If
+ we
+ just
+ take
+ a
+ step
+ back,
+ it
+ is
+
+
+incredible
+ that
+ in
+ less
+ than
+ 20
+ minutes,
+
+
+we
+ were
+ able
+ to
+ generate
+ not
+ one,
+ not
+
+
+two,
+ but
+ three
+ alternative
+ designs
+ for
+
+
+an
+ existing
+ website.
+ We
+ were
+ able
+ to
+ get
+
+
+massive
+ upgrades
+ on
+ the
+ functionality
+ of
+
+
+it,
+ especially
+ some
+ technical
+ SEO
+ stuff,
+
+
+and
+ I
+ was
+ able
+ to
+ pick
+ the
+ one
+ I
+ like.
+
+
+Imagine
+ asking
+ your
+ teammate
+ to
+ design
+
+
+you
+ three
+ different
+ options,
+ give
+ you
+
+
+three
+ different
+ plans
+ for
+ SEO,
+ and
+ then
+
+
+tell
+ you
+ which,
+ you
+ know,
+ have
+ to
+ go
+
+
+back
+ and
+ forth
+ on
+ which
+ one
+ you
+ like
+
+
+better.
+ I
+ think
+ this
+ is
+ an
+ awesome
+ flow.
+
+
+I
+ loved
+ it
+ so
+ much.
+ I'm
+ actually
+ just
+
+
+going
+ to
+ go
+ ahead
+ and
+ ship
+ this
+ today.
+
+
+So,
+ we'll
+ put
+ it
+ in
+ the
+ show
+ notes
+ so
+
+
+you
+ can
+ see
+ exactly
+ what
+ happened.
+ And
+
+
+that
+ is
+ my
+ takedown
+ of
+ which
+ of
+ the
+ new
+
+
+models
+ from
+ November
+ 2025
+ is
+ the
+ best
+
+
+designer.
+ And
+ I
+ think
+ the
+ winner
+ is
+
+
+Opus45.
+ Thank
+ you
+ so
+ much
+ for
+ joining
+
+
+this
+ mini
+ episode
+ of
+ How
+ I
+ AI.
+ I
+ cannot
+
+
+wait
+ to
+ share
+ more
+ tips
+ and
+ tricks
+ and
+
+
+hands-on
+ experience
+ with
+ AI
+ and
+ I
+ will
+
+
+see
+ you
+ soon.
+
+
+Thanks
+ so
+ much
+ for
+ watching.
+ [music]
+ If
+
+
+you
+ enjoyed
+ this
+ show,
+ please
+ like
+ and
+
+
+subscribe
+ here
+ on
+ YouTube
+ or
+ even
+
+
+better,
+ leave
+ us
+ a
+ comment
+ with
+ your
+
+
+thoughts.
+ You
+ can
+ also
+ find
+ this
+ podcast
+
+
+on
+ Apple
+ Podcasts,
+ Spotify,
+ or
+ your
+
+
+favorite
+ podcast
+ app.
+ Please
+ consider
+
+
+leaving
+ us
+ a
+ rating
+ and
+ review
+ which
+
+
+will
+ help
+ others
+ find
+ the
+ show.
+ You
+ can
+
+
+see
+ all
+ our
+ episodes
+ and
+ learn
+ more
+
+
+about
+ the
+ show
+ at
+ howiipod.com.
+
+
+See
+ you
+ next
+ time.
