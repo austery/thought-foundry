@@ -21,7 +21,6 @@ date: 2025-09-01
 author: Lei
 speaker: LT
 draft: true
-file_name: trump_tax_reform_china_rare_earth_sco_summit.md
 guest: null
 insight: null
 layout: post.njk

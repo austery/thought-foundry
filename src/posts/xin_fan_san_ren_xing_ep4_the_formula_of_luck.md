@@ -22,7 +22,6 @@ author: Lei
 speaker: ''
 channel: ''
 draft: true
-file_name: xin_fan_san_ren_xing_ep4_the_formula_of_luck.md
 guest: ''
 insight: ''
 layout: post.njk

@@ -90,7 +90,6 @@ products_models:
 
 media_books: []
 
-file_name: "duan_yongping_investment_philosophy_1ikLMn2naSA.md"
 draft: true
 status: "evergreen"
 ---

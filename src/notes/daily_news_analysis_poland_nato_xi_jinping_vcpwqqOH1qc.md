@@ -24,7 +24,6 @@ date: 2025-09-10
 author: Lei
 speaker: LT
 draft: true
-file_name: daily_news_analysis_poland_nato_xi_jinping_vcpwqqOH1qc.md
 guest: null
 insight: null
 layout: post.njk

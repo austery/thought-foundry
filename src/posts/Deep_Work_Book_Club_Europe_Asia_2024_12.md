@@ -1,4 +1,4 @@
----
+---\
 title: 「欧洲|亚洲场」2024年12月读书会「Deep Work」直播分享
 summary: 这是根据Deep Work的读书会分享纪要。
 area: personal-growth
@@ -6,11 +6,10 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- personal-growth
-- 专注力
-- 时间管理
-- 深度工作
-- 视频文稿
+  - personal-growth
+  - 专注力
+  - 时间管理
+  - 深度工作
 people:
   - Vivi
   - Lillian
@@ -27,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开场与主持人分享
 
 ### Vivi (主持人)

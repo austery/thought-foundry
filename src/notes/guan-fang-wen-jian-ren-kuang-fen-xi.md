@@ -20,7 +20,6 @@ date: 2025-09-27
 author: Lei
 speaker: LT視界
 draft: true
-file_name: guan-fang-wen-jian-ren-kuang-fen-xi.md
 guest: null
 insight: null
 layout: post.njk

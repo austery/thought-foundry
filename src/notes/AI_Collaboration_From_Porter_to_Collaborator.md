@@ -1,13 +1,12 @@
----
+---\
 title: AI 协作深度解析：从“搬运工”到“协作者”(完整版)
 summary: null
 area: null
 category: null
 project: []
 tags:
-- prompt
-- 工作流
-- 视频文稿
+  - prompt
+  - 工作流
 people: []
 companies_orgs: []
 products_models: []
@@ -21,7 +20,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=-a_umjxdcIg&t
----
+---\
 ## 开场：AI 付费用户的现状与讨论焦点
 
 我想先问问大家，在座有多少人平时已经为 AI 付费了？请举一下手。

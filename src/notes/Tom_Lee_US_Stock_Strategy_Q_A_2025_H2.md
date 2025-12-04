@@ -1,4 +1,4 @@
----
+---\
 title: Tom Lee：2025年下半年美股策略深度问答 (第一部分)
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 加密货币
-- 投资
-- 核能
-- 视频文稿
+  - 加密货币
+  - 投资
+  - 核能
 people:
   - Tampuro代表
   - Tom Lee
@@ -26,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
----
+---\
 ## 开场与市场宏观评估
 
 **主持人:**

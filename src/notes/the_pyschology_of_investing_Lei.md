@@ -1,4 +1,4 @@
----
+---\
 title: 投资心理学｜THE PSYCHOLOGY OF INVESTING
 summary: null
 area: market-analysis
@@ -6,9 +6,8 @@ category: finance
 project:
 - investment-strategy
 tags:
-- book
-- 投资
-- 视频文稿
+  - book
+  - 投资
 people: []
 companies_orgs: []
 products_models: []
@@ -21,7 +20,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Yqn0lv9ymLk
----
+---\
 # 投资心理学深度解析：驾驭市场波动与人性弱点
 
 ## 一、波动的代价：投资回报的入场券

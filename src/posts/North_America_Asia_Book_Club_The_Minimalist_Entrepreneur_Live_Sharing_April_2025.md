@@ -1,4 +1,4 @@
----
+---\
 title: 「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: business
 project:
 - entrepreneurship
 tags:
-- entrepreneurship
-- 副业
-- 社群
-- 视频文稿
+  - entrepreneurship
+  - 副业
+  - 社群
 people:
   - Ray
   - Dora
@@ -37,7 +36,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 **主讲人：** Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan,
 婷, Victor, Kayden, 张硕
 

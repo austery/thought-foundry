@@ -25,7 +25,6 @@ date: 2025-08-17
 author: Lei
 speaker: ''
 draft: true
-file_name: brain_experts_warning_on_chatgpt_and_dementia_risk.md
 guest: ''
 insight: null
 layout: post.njk

@@ -1,4 +1,4 @@
----
+---\
 title: 真格基金戴雨森：产业规律，这轮AI，顶级基金都看到了什么？
 summary: null
 area: market-analysis
@@ -8,10 +8,9 @@ project:
 - entrepreneurship
 - investment-strategy
 tags:
-- ai投资
-- 产业规律
-- 创业机会
-- 视频文稿
+  - ai投资
+  - 产业规律
+  - 创业机会
 people: []
 companies_orgs:
 - 真格基金
@@ -26,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 总字数：约7,100 字 \| 预计阅读时间：约 24 分钟
 
 

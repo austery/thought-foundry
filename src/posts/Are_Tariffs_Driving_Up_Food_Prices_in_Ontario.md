@@ -1,4 +1,4 @@
----
+---\
 title: 'Are Tariffs Driving Up Food Prices in Ontario & Dangerous Games: Roblox and
   Metaverse Exposed'
 summary: null
@@ -6,9 +6,8 @@ area: null
 category: null
 project: []
 tags:
-- ontario
-- 教育
-- 视频文稿
+  - ontario
+  - 教育
 people: []
 companies_orgs: []
 products_models: []
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## Are Tariffs Driving Up Food Prices in Ontario? / 关税正在推高安大略省的食品价格吗？
 
 

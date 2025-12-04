@@ -1,4 +1,4 @@
----
+---\
 title: 美元暴跌的真相：一场精心策划的阳谋？
 summary: null
 area: market-analysis
@@ -6,11 +6,10 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 全球经济
-- 投资
-- 美元
-- 视频文稿
-- 贸易战
+  - 全球经济
+  - 投资
+  - 美元
+  - 贸易战
 people: []
 companies_orgs: []
 products_models: []
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 川普的政策与全球资本的博弈
 
 ### 引言：市场崩盘与美元的意外走弱

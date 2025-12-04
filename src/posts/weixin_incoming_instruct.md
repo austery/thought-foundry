@@ -1,13 +1,12 @@
----
+---\
 title: 微信接收海外亲人汇款：详细指南
 summary: null
 area: null
 category: null
 project: []
 tags:
-- wise
-- 指南
-- 视频文稿
+  - wise
+  - 指南
 people: []
 companies_orgs: []
 products_models: []
@@ -21,7 +20,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 您的子女或亲人在国外给您汇钱，现在可以直接汇到您的微信里，非常方便。第一次操作需要设置一下，但请放心，这个过程是完全安全的，是国家和微信官方合作的正规服务。只要设置好一次，以后就特别简单了。
 
 ## 第一部分：写在前面：您需要准备什么？

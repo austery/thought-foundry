@@ -1,15 +1,14 @@
----
+---\
 title: 第三课：吵架十诫 (下)
 summary: null
 area: personal-growth
 category: lifestyle
 project: []
 tags:
-- 夫妻关系
-- 婚姻关系
-- 宗教
-- 家庭生活
-- 视频文稿
+  - 夫妻关系
+  - 婚姻关系
+  - 宗教
+  - 家庭生活
 people:
   - 林静芝
   - 李秀全
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=F0fT7u99J3g
----
+---\
 ## 前言：建设性的沟通法则
 
 **林静芝师母:**

@@ -19,7 +19,6 @@ date: 2025-09-30
 author: Lei
 speaker: a16z
 draft: true
-file_name: ai_physicist_chatgpt_cocreator_venture.md
 guest: null
 insight: null
 layout: post.njk

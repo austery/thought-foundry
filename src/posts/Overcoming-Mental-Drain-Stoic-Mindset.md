@@ -1,4 +1,4 @@
----
+---\
 title: 视频转写报告
 summary: null
 area: personal-growth
@@ -6,9 +6,8 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- psychology
-- 斯多葛主义
-- 视频文稿
+  - psychology
+  - 斯多葛主义
 people: []
 companies_orgs: []
 products_models: []
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 **主讲人:** 大问题阿伦
 
 ## 区分 可控与不可控

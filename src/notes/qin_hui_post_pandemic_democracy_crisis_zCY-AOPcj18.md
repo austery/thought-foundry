@@ -21,7 +21,6 @@ date: 2025-09-25
 author: Lei
 speaker: ''
 draft: true
-file_name: qin_hui_post_pandemic_democracy_crisis_zCY-AOPcj18.md
 guest: ''
 insight: null
 layout: post.njk

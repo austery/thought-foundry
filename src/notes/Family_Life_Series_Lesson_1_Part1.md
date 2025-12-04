@@ -1,15 +1,14 @@
----
+---\
 title: 第一课：夫妻婚后的成长
 summary: null
 area: personal-growth
 category: lifestyle
 project: []
 tags:
-- 夫妻关系
-- 婚姻成长
-- 宗教
-- 家庭生活
-- 视频文稿
+  - 夫妻关系
+  - 婚姻成长
+  - 宗教
+  - 家庭生活
 people:
   - 李秀全
   - 林静芝
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Z0NUvd24_qs&t=1242s
----
+---\
 ## 开场白：家庭系列讲座的缘起与负担
 
 李秀全:

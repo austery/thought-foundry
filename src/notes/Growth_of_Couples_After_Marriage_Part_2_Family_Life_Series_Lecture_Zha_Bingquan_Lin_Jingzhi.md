@@ -1,16 +1,15 @@
----
+---\
 title: 第一课：夫妻婚后的成长 下
 summary: null
 area: personal-growth
 category: lifestyle
 project: []
 tags:
-- 信仰
-- 夫妻关系
-- 婚姻成长
-- 家庭生活
-- 感情成长
-- 视频文稿
+  - 信仰
+  - 夫妻关系
+  - 婚姻成长
+  - 家庭生活
+  - 感情成长
 people:
   - 查秉全
   - 林静芝
@@ -26,7 +25,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
----
+---\
 ## 单元二：感情的成长
 
 **查秉全 老师:**

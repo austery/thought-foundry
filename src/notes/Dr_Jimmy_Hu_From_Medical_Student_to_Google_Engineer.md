@@ -1,4 +1,4 @@
----
+---\
 title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
 summary: null
 area: tech-insights
@@ -6,8 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- 医学影像ai
-- 视频文稿
+  - 医学影像ai
 people:
   - 谷歌工程师
   - Jimmy Hu
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=AbjE0-Nran4&t
----
+---\
 ### 讲述者简介
 
 **胡思宇医师 (Jimmy

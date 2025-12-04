@@ -1,4 +1,4 @@
----
+---\
 title: 为什么说AI正在迅速拉开人的差距？
 summary: null
 area: tech-insights
@@ -7,11 +7,10 @@ project:
 - ai-impact-analysis
 - personal-growth-lab
 tags:
-- ai
-- psychology
-- 人际关系
-- 学习方法
-- 视频文稿
+  - ai
+  - psychology
+  - 人际关系
+  - 学习方法
 people: []
 companies_orgs: []
 products_models: []
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Q00ABRDePls
----
+---\
 怎样利用 ChatGPT 高效学习？AI 不能替代人类，但它胜过 99%的人际关系｜心理学｜哲学｜ ChatGPT ｜叙事疗法
 
 大家好，我是Anthony，欢迎来到我的频道。本期视频我们来聊聊如何利用 AI 进行学习和自我探索。

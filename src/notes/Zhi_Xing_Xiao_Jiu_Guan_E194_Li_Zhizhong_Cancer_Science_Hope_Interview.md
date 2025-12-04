@@ -1,13 +1,12 @@
----
+---\
 title: E194 当科普面对算法高墙：癌症生物学博士李志忠谈《癌症天敌》与信息茧房的突围
 summary: null
 area: personal-growth
 category: lifestyle
 project: []
 tags:
-- health
-- 癌症科普
-- 视频文稿
+  - health
+  - 癌症科普
 people:
   - 雨白
   - 李志忠（菠萝）
@@ -24,7 +23,7 @@ layout: post.njk
 program: 知行小酒馆
 series: null
 source: https://www.youtube.com/watch?v=giSlEc0ZofI&t
----
+---\
 ## 引言：科普的持久影响力与现实困境
 
 **雨白:**

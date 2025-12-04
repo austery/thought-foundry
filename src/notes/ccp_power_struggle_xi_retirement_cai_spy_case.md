@@ -19,7 +19,6 @@ date: 2025-10-04
 author: Lei
 speaker: 老灯
 draft: true
-file_name: ccp_power_struggle_xi_retirement_cai_spy_case.md
 guest: null
 insight: null
 layout: post.njk

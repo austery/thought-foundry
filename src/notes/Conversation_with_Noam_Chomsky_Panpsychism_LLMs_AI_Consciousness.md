@@ -1,4 +1,4 @@
----
+---\
 title: 与诺姆·乔姆斯基的对话：泛心论、大语言模型与人工智能意识
 summary: null
 area: tech-insights
@@ -6,11 +6,10 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 意识
-- 泛心论
-- 视频文稿
-- 语言学
+  - ai
+  - 意识
+  - 泛心论
+  - 语言学
 people:
   - Curt Jaimungal
   - Noam Chomsky
@@ -33,7 +32,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=GxZp6890hQk
----
+---\
 ## 引言与访谈说明
 
 **Curt Jaimungal:** I just finished recording with Noam Chomsky. This is

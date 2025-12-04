@@ -22,7 +22,6 @@ date: 2025-09-11
 author: Lei
 speaker: Lei
 draft: true
-file_name: global_news_digest_us_jobs_nvidia_geopolitics_1jGU7siwXKE.md
 guest: null
 insight: null
 layout: post.njk

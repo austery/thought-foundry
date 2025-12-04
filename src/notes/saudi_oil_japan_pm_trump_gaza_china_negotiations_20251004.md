@@ -20,7 +20,6 @@ date: 2025-10-04
 author: LT視界
 speaker: LT視界
 draft: true
-file_name: saudi_oil_japan_pm_trump_gaza_china_negotiations_20251004.md
 guest: null
 insight: null
 layout: post.njk

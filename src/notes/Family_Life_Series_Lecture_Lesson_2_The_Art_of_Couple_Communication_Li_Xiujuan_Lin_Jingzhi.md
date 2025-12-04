@@ -1,15 +1,14 @@
----
+---\
 title: 第二课：夫妻沟通的艺术
 summary: 这是团契的学习的课程。
 area: personal-growth
 category: lifestyle
 project: []
 tags:
-- 夫妻关系
-- 婚姻成长
-- 宗教
-- 家庭生活
-- 视频文稿
+  - 夫妻关系
+  - 婚姻成长
+  - 宗教
+  - 家庭生活
 people:
   - 林静芝
   - 李秀全
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t
----
+---\
 ## 开场与引言
 
 林静芝:

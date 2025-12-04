@@ -1,4 +1,4 @@
----
+---\
 title: 深度解析：如何超越搜索引擎，高效驾驭AI
 summary: null
 area: tech-insights
@@ -6,9 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- prompt
-- 视频文稿
+  - ai
+  - prompt
 people: []
 companies_orgs: []
 products_models: []
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=-a_umjxdcIg&t=2732s
----
+---\
 ## 引言：超越想象力的AI应用现状
 
 我想先问一下，在座有多少人平时已经为AI付费了？请举手。看来有很多。那么，每月付费超过20美金的请举下手，比如同时订阅两三个服务，花费五六十美金的用户。看来今天确实有很多人在深度使用AI。不过，很抱歉，今天我只能分享AI在编程以外的应用，因为我并非程序员，我的工作主要集中在如何利用AI进行语言输出等相关领域，对于AI编程我并不了解。

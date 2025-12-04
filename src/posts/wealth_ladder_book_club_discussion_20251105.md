@@ -1,10 +1,11 @@
 ---
+
 author: "Ray"
 date: "2025-11-05"
-guest: "Ye Wei, Betty, Xigua, Eric, Max, Azka, Jake, Caipei, Evan, Huiwen, Zalira, Zhang Min"
+guest:
 layout: "post.njk"
 source: ""
-speaker: "Ray"
+speaker:
 title: "《财富的阶梯》读书会：探讨财富等级、资产观念与人生游戏"
 summary: "本次读书会深入探讨了《财富的阶梯》一书的核心理念。参与者们结合个人经历，分享了对不同财富等级的理解、从“工作”到“事业”的转变思考、对书中规则的批判性审视，以及如何在追求财务增长与体验人生价值之间找到平衡。讨论涵盖了资产配置、消费观念、风险管理以及“标准姿势”与“非标路径”在财富积累过程中的作用等多个维度。"
 
@@ -24,26 +25,25 @@ tags:
   - "lifestyle-design"
 
 people:
-  - "Ray"
-  - "Ye Wei"
-  - "Betty"
-  - "Xigua"
-  - "Eric"
-  - "Max"
-  - "Azka"
-  - "Jake"
-  - "Caipei"
-  - "Evan"
-  - "Huiwen"
-  - "Zalira"
-  - "Zhang Min"
-  - "Naval Ravikant"
-  - "Elon Musk"
-  - "Jeff Bezos"
-  - "Bill Gates"
-  - "Sep Kappe"
-  - "Ronald Reed"
-
+  - Ray
+  - Ye Wei
+  - Betty
+  - Xigua
+  - Eric
+  - Max
+  - Azka
+  - Jake
+  - Caipei
+  - Evan
+  - Huiwen
+  - Zalira
+  - Zhang Min
+  - Naval Ravikant
+  - Elon Musk
+  - Jeff Bezos
+  - Bill Gates
+  - Sep Kappe
+  - Ronald Reed
 companies_orgs:
   - "Airbnb"
   - "Alibaba"
@@ -67,10 +67,11 @@ media_books:
   - "《纳瓦尔宝典》"
   - "《Die with Zero》"
 
-file_name: "wealth_ladder_book_club_discussion_20251105.md"
 draft: true
 status: "evergreen"
+
 ---
+
 
 ## 开场与近况分享
 

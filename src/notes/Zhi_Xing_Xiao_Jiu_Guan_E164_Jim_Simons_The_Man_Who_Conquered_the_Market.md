@@ -1,4 +1,4 @@
----
+---\
 title: E164：吉姆·西蒙斯，征服市场的人
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 投资
-- 投资大师
-- 视频文稿
-- 量化投资
+  - 投资
+  - 投资大师
+  - 量化投资
 people:
   - 雨白
   - 跑狮
@@ -27,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=W1APBdE8wOs
----
+---\
 # E164 吉姆·西蒙斯：征服市场的人
 
 ## 引言：一位偶像的金融革命

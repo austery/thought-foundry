@@ -20,7 +20,6 @@ date: 2025-09-25
 author: Lei
 speaker: ''
 draft: true
-file_name: deep_dive_agent_economy_ai_crypto_integration_93BZHst3ghs.md
 guest: ''
 insight: null
 layout: post.njk

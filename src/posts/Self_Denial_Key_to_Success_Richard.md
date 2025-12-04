@@ -1,4 +1,4 @@
----
+---\
 title: 前谷歌总监，Huma创始人Richard：不断否定自己才是成功关键
 summary: null
 area: market-analysis
@@ -7,11 +7,10 @@ project:
 - entrepreneurship
 - investment-strategy
 tags:
-- entrepreneurship
-- payfi
-- web3
-- 加密货币
-- 视频文稿
+  - entrepreneurship
+  - payfi
+  - web3
+  - 加密货币
 people: []
 companies_orgs:
 - huma finance
@@ -26,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 讲述者简介
 
 **Richard：**Huma Finance

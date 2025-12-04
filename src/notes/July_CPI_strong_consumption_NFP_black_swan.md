@@ -1,4 +1,4 @@
----
+---\
 title: 偷看7月份CPI数据！7月消费异常强劲！探究8月的大非农黑天鹅
 summary: 本期内容对上周市场走势和二季度财报进行总结，并深入解读了大非农数据与失业率。分析显示，尽管劳动力市场数据疲软，但美国银行CEO透露7月份消费异常强劲，增速反弹。最后，结合Adobe物价指数等先行指标，对即将公布的7月份CPI数据进行了展望和分析。
 area: market-analysis
@@ -7,11 +7,10 @@ project:
 - investment-strategy
 - us-analysis
 tags:
-- inflation
-- 消费数据
-- 美股
-- 视频文稿
-- 非农数据
+  - inflation
+  - 消费数据
+  - 美股
+  - 非农数据
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ draft: true
 file_name: July_CPI_strong_consumption_NFP_black_swan.md
 layout: post.njk
 source: https://www.youtube.com/watch?v=tbds-qQ0JhI
----
+---\
 各位观众大家好，欢迎来到一个每天不单只聊新闻，且周日也要为大家做更新的专业美股日更频道，我是市场分析员小涛。今天内容非常的多，所以大家可以慢慢的听。
 
 首先，先对上一周市场的走势去做一个总结，包括二季度的财报，我们从FactSet数据去出发，也去做一个总结，聊一下市场的参与度，聊一下市场的估值。然后上上周五公布了**大非农数据**，在那组大非农数据里面的**失业率**，比起上一个月是出现了0.13%的上涨。那今天我想借由这个机会，我们对于**大非农数据**，对于**失业率**去做一个比较深入的解读。

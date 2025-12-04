@@ -26,7 +26,6 @@ date: 2025-09-25
 author: Lei
 speaker: ''
 draft: true
-file_name: aaron_levie_ai_startup_productivity_platform_shift.md
 guest: ''
 insight: null
 layout: post.njk

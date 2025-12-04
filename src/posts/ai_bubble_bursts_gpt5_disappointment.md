@@ -21,7 +21,6 @@ date: 2025-09-01
 author: Lei
 speaker: ''
 draft: true
-file_name: ai_bubble_bursts_gpt5_disappointment.md
 guest: ''
 insight: null
 layout: post.njk

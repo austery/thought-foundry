@@ -1,10 +1,11 @@
 ---
+
 author: "Lei"
 date: "2025-09-30"
-guest: "Giselle, Alex, Betty, Eliza, Vincent, Evan, Max, 小西瓜, Zalira"
+guest:
 layout: "post.njk"
 source: ""
-speaker: "Ray"
+speaker:
 title: "《精益学习法》读书会：摸着石头过河，在行动中内化知识"
 summary: "这是一场关于《精益学习法》(The Lean Learning) 的读书会。分享者们探讨了 'Just-in-Time' 信息、行动先于准备、以及 '摸着石头过河' 的重要性。大家结合各自在内容创作、职业发展和家庭生活中的经历，分享了如何克服信息过载、运用 '自愿约束' (voluntary force function) 和从行动中学习的深刻体会。活动也预告了下个月将共读的书籍《财富的阶梯》(The Wealth Ladder)。"
 
@@ -23,28 +24,27 @@ tags:
   - "book-club"
 
 people:
-  - "Ray"
-  - "Giselle"
-  - "Alex"
-  - "Betty"
-  - "Eliza"
-  - "Vincent"
-  - "Evan"
-  - "Max"
-  - "小西瓜"
-  - "Zalira"
-  - "Paul Miller"
-  - "Vivi"
-  - "Caleb"
-  - "Ramy"
-  - "James Clear"
-  - "Ali Abdaal"
-  - "Oliver Burkeman"
-  - "Ivy"
-  - "Buffett"
-  - "Duan Yongping"
-  - "查理·芒格"
-
+  - Ray
+  - Giselle
+  - Alex
+  - Betty
+  - Eliza
+  - Vincent
+  - Evan
+  - Max
+  - 小西瓜
+  - Zalira
+  - Paul Miller
+  - Vivi
+  - Caleb
+  - Ramy
+  - James Clear
+  - Ali Abdaal
+  - Oliver Burkeman
+  - Ivy
+  - Buffett
+  - Duan Yongping
+  - 查理·芒格
 companies_orgs:
   - "YouTube"
   - "Google"
@@ -78,10 +78,11 @@ media_books:
   - "《The Home of Humanity》"
   - "《绿山墙的安妮》"
 
-file_name: "lean_learning_book_club_action_over_preparation_202509.md"
 draft: true
 status: "evergreen"
+
 ---
+
 
 ## 读书会开场与社群近况
 

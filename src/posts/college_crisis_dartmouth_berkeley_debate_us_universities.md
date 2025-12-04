@@ -24,7 +24,6 @@ date: 2025-09-25
 author: Lei
 speaker: ''
 draft: true
-file_name: college_crisis_dartmouth_berkeley_debate_us_universities.md
 guest: ''
 insight: null
 layout: post.njk

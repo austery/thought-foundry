@@ -55,7 +55,6 @@ products_models:
 
 media_books: []
 
-file_name: "ai_coding_evolution_copilot_cursor_tree_solo_vision.md"
 draft: true
 status: "evergreen"
 ---

@@ -23,7 +23,6 @@ date: 2025-08-25
 author: Lei
 speaker: ''
 channel: null
-file_name: how_tom_tungus_processes_36_podcasts_with_ai.md
 guest: ''
 insight: null
 layout: post.njk

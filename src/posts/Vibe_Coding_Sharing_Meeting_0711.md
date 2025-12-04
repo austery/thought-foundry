@@ -1,21 +1,20 @@
 ---
-title: Vibe Coding分享会纪要
+title: Vibe Coding分享会纪要20250712
 summary: null
 area: tech-insights
 category: technology
 project:
 - vibe-coding
 tags:
-- vibe-coding
-- 工作流
-- 视频文稿
+  - vibe-coding
+  - 工作流
 people: []
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-12'
 author: Lei
-speaker: 张敏
+speaker: 为AI发电
 channel: null
 guest: null
 insight: null
@@ -23,6 +22,7 @@ layout: post.njk
 series: Vibe Coding
 source: null
 ---
+
 ## 开场与介绍
 
 **Ray:**

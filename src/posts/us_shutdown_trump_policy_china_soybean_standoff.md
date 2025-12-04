@@ -24,7 +24,6 @@ date: 2025-10-03
 author: Lei
 speaker: Lei
 draft: true
-file_name: us_shutdown_trump_policy_china_soybean_standoff.md
 guest: null
 insight: null
 layout: post.njk

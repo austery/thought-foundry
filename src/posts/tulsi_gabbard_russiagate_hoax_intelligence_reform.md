@@ -25,7 +25,6 @@ date: 2025-09-25
 author: Lei
 speaker: ''
 draft: true
-file_name: tulsi_gabbard_russiagate_hoax_intelligence_reform.md
 guest: ''
 insight: null
 layout: post.njk

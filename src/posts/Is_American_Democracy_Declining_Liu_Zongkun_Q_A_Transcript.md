@@ -1,4 +1,4 @@
----
+---\
 title: 美国民主在衰退吗？——刘宗坤先生问答实录
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-- 政治体制
-- 美国民主
-- 衰退
-- 视频文稿
+  - 政治体制
+  - 美国民主
+  - 衰退
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开场白：关于台湾民主转型的讨论
 
 由于最后的这些评论，今天大家可以提出的问题和可以讨论的话题其实很多。除了关于美国政治、美国民主的提问之外，最后这部分也牵扯到中国大陆。我知道这一直是伍雷律师特别关切的一个题目。伍雷律师曾问我，是否能安排人来讲台湾的民主转型。我答应想想，但思考了很久，一直想不出合适的人选。

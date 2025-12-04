@@ -1,13 +1,12 @@
----
+---\
 title: 深聊GPT-5发布：过度营销的反噬与AI技术突破的困局
 summary: 探讨GPT-5发布的争议、技术方案与商业应用。分析其因过度营销和技术未达预期引发的失望，讨论Scaling Law瓶颈，并展望强化学习、多模态等未来AI突破方向。
 area: null
 category: null
 project: []
 tags:
-- scaling-law
-- 多模态
-- 视频文稿
+  - scaling-law
+  - 多模态
 people:
   - 陈茜
   - Bill Zhu
@@ -27,7 +26,7 @@ insight: ''
 layout: post.njk
 series: ''
 source: ''
----
+---\
 陈茜: 大家好，欢迎来到硅谷101，我是陈茜。
 
 陈茜: GPT-5的发布在硅谷引发了不小的舆论争议。我身边大多数AI从业者和技术人员，本来都非常期待又一个**ChatGPT Moment**的出现，但看完发布会，基本上都一个表情：“就这？！”

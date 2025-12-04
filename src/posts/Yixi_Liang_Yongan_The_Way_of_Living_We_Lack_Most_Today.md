@@ -1,13 +1,12 @@
----
+---\
 title: 【一席】梁永安：我们今天最缺的就是活法
 summary: null
 area: personal-growth
 category: culture
 project: []
 tags:
-- 人生哲学
-- 活法
-- 视频文稿
+  - 人生哲学
+  - 活法
 people:
 - 梁永安
 companies_orgs:
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ### 讲述者简介
 
 **梁永安：**复旦大学中文系教授、作家。专注于中国现当代文学、比较文学与电影研究，其演讲和文字因对青年文化和个体价值的深刻洞察而广受欢迎。

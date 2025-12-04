@@ -1,4 +1,4 @@
----
+---\
 title: 'E192 AI: 真正的机会，不在AI，在现实世界'
 summary: null
 area: personal-growth
@@ -7,9 +7,8 @@ project:
 - ai-impact-analysis
 - personal-growth-lab
 tags:
-- ai
-- personal-growth
-- 视频文稿
+  - ai
+  - personal-growth
 people:
   - 雨白
   - 王汉洋
@@ -26,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开场：一个有趣的朋友——王汉洋
 
 **雨白:**

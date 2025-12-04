@@ -1,4 +1,4 @@
----
+---\
 title: 吴翼：AI的目标困境与价值对齐
 summary: null
 area: tech-insights
@@ -6,8 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 视频文稿
+  - ai
 people: []
 companies_orgs:
 - 一席
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=C-UBrnSjdLg&t
----
+---\
 # 我们在训练AI的时候，目标都是简单的、明确的，但是人类的真实目标总是含糊的，不确定的
 
 **吴翼**  

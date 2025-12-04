@@ -23,7 +23,6 @@ date: 2025-09-25
 author: Lei
 speaker: LT視界
 draft: true
-file_name: xi_jinping_great_game_strategy_sino_us_stock_chip_risk.md
 guest: null
 insight: null
 layout: post.njk

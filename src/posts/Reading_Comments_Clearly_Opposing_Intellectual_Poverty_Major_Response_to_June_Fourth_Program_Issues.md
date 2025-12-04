@@ -1,4 +1,4 @@
----
+---\
 title: 读评论：旗帜鲜明地反对知识贫瘠——关于六四两期节目问题的重大回应
 summary: null
 area: market-analysis
@@ -7,9 +7,8 @@ project:
 - china-analysis
 - historical-insights
 tags:
-- 中国政治
-- 历史反思
-- 视频文稿
+  - 中国政治
+  - 历史反思
 people:
   - 李厚辰
   - 贾葭
@@ -27,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ### 目录
 
 ## 开场白：为何要回应争议评论

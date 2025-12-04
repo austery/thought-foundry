@@ -1,15 +1,14 @@
----
+---\
 title: 揭秘纳尼亚行动 - 讲座报告
 summary: null
 area: null
 category: null
 project: []
 tags:
-- 以色列
-- 伊朗
-- 军事行动
-- 纳尼亚行动
-- 视频文稿
+  - 以色列
+  - 伊朗
+  - 军事行动
+  - 纳尼亚行动
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=kR6Dk10xWew
----
+---\
 ## 引言：《华尔街日报》的头版报道
 
 各位好。早晨起来读报，读到《华尔街日报》的头版报道“Inside Operation

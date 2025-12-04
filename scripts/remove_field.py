@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Script to remove a specific tag from 'tags' in src/posts/ and src/notes/
+Script to remove a specific field from frontmatter in src/posts/ and src/notes/
 
-Default Tag to Remove: "视频文稿"
+Target Field: "file_name"
 """
 
 import os
@@ -16,7 +16,7 @@ TARGET_DIRS = [
     Path("/Users/leipeng/Documents/Projects/thought-foundry/src/posts"),
     Path("/Users/leipeng/Documents/Projects/thought-foundry/src/notes")
 ]
-DEFAULT_TAG = "视频文稿"
+DEFAULT_FIELD = "file_name"
 
 def parse_frontmatter(content: str) -> tuple[Dict, str, str]:
     """
@@ -42,65 +42,34 @@ def parse_frontmatter(content: str) -> tuple[Dict, str, str]:
 
     return frontmatter, frontmatter_raw, body
 
-def remove_tag_from_list(tags_list, tag_to_remove):
-    """Removes a tag from a list, preserving order."""
-    if not isinstance(tags_list, list):
-        return tags_list, False
-    
-    if tag_to_remove in tags_list:
-        new_list = [t for t in tags_list if t != tag_to_remove]
-        return new_list, True
-    return tags_list, False
-
-def update_frontmatter(frontmatter_raw: str, frontmatter: Dict, tag_to_remove: str) -> str:
+def update_frontmatter(frontmatter_raw: str, field_to_remove: str) -> str:
     """
-    Updates the frontmatter text to remove the tag.
-    Preserves comments and formatting as much as possible by selectively rewriting the tags block.
+    Updates the frontmatter text to remove the specific field line(s).
     """
     lines = frontmatter_raw.split('\n')
     new_lines = []
     
-    # Get current tags
-    current_tags = frontmatter.get('tags', [])
-    if not isinstance(current_tags, list):
-        # If tags is not a list (e.g. string or empty), we probably don't need to do anything 
-        # unless the tag matches the string exactly.
-        # For safety, let's skip complex cases unless it's a simple list
-        return frontmatter_raw
-
-    # Calculate new tags list
-    new_tags_list = [t for t in current_tags if t != tag_to_remove]
-    
-    tags_processed = False
     i = 0
     while i < len(lines):
         line = lines[i]
         stripped = line.strip()
         
-        if stripped.startswith('tags:'):
-            # We found the tags block. Rewrite it.
-            new_lines.append('tags:')
-            if not new_tags_list:
-                # If empty, make it an empty list
-                new_lines[-1] = 'tags: []'
-            else:
-                for tag in new_tags_list:
-                    new_lines.append(f'  - {tag}')
-            
-            tags_processed = True
+        # Check if line starts with the field name
+        if stripped.startswith(f"{field_to_remove}:"):
+            # Skip this line
             i += 1
-            
-            # Skip existing tag lines
-            if stripped == 'tags: []':
-                continue
-                
+            # Also skip any subsequent lines that might be part of a multiline value (indented)
             while i < len(lines):
                 next_line = lines[i]
-                if next_line.strip().startswith('-'):
-                    i += 1
-                elif not next_line.strip(): # Empty line
+                if not next_line.strip(): # Empty lines, maybe keep? let's skip for safety if attached
+                     i += 1
+                     continue
+                
+                # If next line is indented, it's likely part of the previous key's value
+                if next_line.startswith(' ') or next_line.startswith('\t'):
                     i += 1
                 else:
+                    # Not indented, so it's a new key or something else
                     break
             continue
             
@@ -109,8 +78,8 @@ def update_frontmatter(frontmatter_raw: str, frontmatter: Dict, tag_to_remove: s
         
     return '\n'.join(new_lines)
 
-def scan_and_fix(tag_to_remove, run_mode=False):
-    print(f"Target Tag: '{tag_to_remove}'")
+def scan_and_fix(field_to_remove, run_mode=False):
+    print(f"Target Field: '{field_to_remove}'")
     print(f"Mode: {'EXECUTE' if run_mode else 'SCAN (Dry Run)'}")
     print("-" * 40)
 
@@ -130,14 +99,13 @@ def scan_and_fix(tag_to_remove, run_mode=False):
                 content = md_file.read_text(encoding='utf-8')
                 frontmatter, raw, body = parse_frontmatter(content)
                 
-                tags = frontmatter.get('tags')
-                if isinstance(tags, list) and tag_to_remove in tags:
+                if field_to_remove in frontmatter:
                     files_found += 1
                     if not run_mode:
                         print(f"[FOUND] {md_file.name}")
                     else:
-                        new_fm = update_frontmatter(raw, frontmatter, tag_to_remove)
-                        new_content = f"---\{new_fm}---\{body}"
+                        new_fm = update_frontmatter(raw, field_to_remove)
+                        new_content = f"---{new_fm}---{body}"
                         md_file.write_text(new_content, encoding='utf-8')
                         print(f"[FIXED] {md_file.name}")
                         files_modified += 1
@@ -147,15 +115,15 @@ def scan_and_fix(tag_to_remove, run_mode=False):
 
     print("-" * 40)
     if run_mode:
-        print(f"Completed. Removed tag '{tag_to_remove}' from {files_modified} files.")
+        print(f"Completed. Removed field '{field_to_remove}' from {files_modified} files.")
     else:
-        print(f"Found {files_found} files containing tag '{tag_to_remove}'.")
+        print(f"Found {files_found} files containing field '{field_to_remove}'.")
         print("To remove them, run with --fix")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Remove a specific tag from posts and notes.")
-    parser.add_argument('--tag', type=str, default=DEFAULT_TAG, help="Tag to remove")
+    parser = argparse.ArgumentParser(description="Remove a specific field from frontmatter.")
+    parser.add_argument('--field', type=str, default=DEFAULT_FIELD, help="Field key to remove")
     parser.add_argument('--fix', action='store_true', help="Execute changes")
     args = parser.parse_args()
 
-    scan_and_fix(args.tag, args.fix)
+    scan_and_fix(args.field, args.fix)

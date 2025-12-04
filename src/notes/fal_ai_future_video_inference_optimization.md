@@ -20,7 +20,6 @@ date: 2025-08-01
 author: Lei
 speaker: a16z
 draft: true
-file_name: fal_ai_future_video_inference_optimization.md
 guest: null
 insight: null
 layout: post.njk

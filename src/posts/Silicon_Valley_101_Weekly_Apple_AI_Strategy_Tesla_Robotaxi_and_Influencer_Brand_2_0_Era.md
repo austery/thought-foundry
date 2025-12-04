@@ -1,11 +1,10 @@
----
+---\
 title: '硅谷101 Weekly: 苹果AI策略、特斯拉Robotaxi与网红品牌20时代'
 summary: null
 area: null
 category: null
 project: []
-tags:
-- 视频文稿
+tags: []
 people:
   - 硅谷101
   - 陈茜
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 **本期嘉宾：**
 
 - **万伟尔：**Aizip首席技术官

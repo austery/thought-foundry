@@ -1,4 +1,4 @@
----
+---\
 title: 美国最高法院大法官吵架的事
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: geopolitics
 project:
 - us-analysis
 tags:
-- 司法制度
-- 法律与公平
-- 美国最高法院
-- 视频文稿
+  - 司法制度
+  - 法律与公平
+  - 美国最高法院
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=DLAUDk0TFWA
----
+---\
 ## 一、沃伦传记与大法官的争吵
 
 各位好，今天讲讲美国最高法院大法官吵架的事。首席大法官沃伦传记载了一起美国最高法院大法官吵架事件。就是这本书，《Chief Justice: A Biography of Earl Warren》（《首席大法官：厄尔·沃伦传》）。

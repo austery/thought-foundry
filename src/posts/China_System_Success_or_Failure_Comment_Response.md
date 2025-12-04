@@ -1,4 +1,4 @@
----
+---\
 title: 中国制度成功与否的评论回应——读评论！回应“E44自由派破防时代...”
 summary: null
 area: market-analysis
@@ -6,11 +6,10 @@ category: geopolitics
 project:
 - china-analysis
 tags:
-- 中国制度
-- 社会契约
-- 经济发展
-- 视频文稿
-- 评论回应
+  - 中国制度
+  - 社会契约
+  - 经济发展
+  - 评论回应
 people: []
 companies_orgs: []
 products_models: []
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言
 
 本期节目，我们将回应观众关于中国制度成功与否的诸多评论。

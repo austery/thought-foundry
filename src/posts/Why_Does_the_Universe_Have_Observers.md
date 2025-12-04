@@ -1,15 +1,14 @@
----
+---\
 title: 宇宙为何会有观察者
 summary: null
 area: personal-growth
 category: culture
 project: []
 tags:
-- philosophy
-- 人择原理
-- 宇宙论
-- 玻尔兹曼大脑
-- 视频文稿
+  - philosophy
+  - 人择原理
+  - 宇宙论
+  - 玻尔兹曼大脑
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言
 
 本篇探讨一个深邃的哲学与科学问题：宇宙为何会有观察者？这个问题看似简单，实则涉及物理学、宇宙学与哲学的交叉领域。宇宙本可以是一个荒凉、无人观察的世界，但它却演化出了人类这样能够观察并试图理解其奥秘的智慧生命。本文将从宇宙微调现象入手，介绍人择原理（Anthropic

@@ -1,4 +1,4 @@
----
+---\
 title: 使用 Obsidian + Claude AI 代理让你的笔记效率提升10倍
 summary: McKay 演示了如何将 Obsidian 与 Claude Code 结合，构建强大的 AI 代理工作流，从而极大地提升笔记效率。视频详细介绍了环境设置，并分步讲解了10个核心工作流，包括自定义规则、自动化标签、并行研究、连接外部工具（MCP）以及通过
   GitHub Actions 实现云端自动化，旨在将用户从基础使用者转变为能够驾驭 AI 进行复杂任务的“代理人”。
@@ -8,11 +8,10 @@ project:
 - ai-impact-analysis
 - pkm-research
 tags:
-- ai-agent
-- claude-code
-- 工作流自动化
-- 笔记方法
-- 视频文稿
+  - ai-agent
+  - claude-code
+  - 工作流自动化
+  - 笔记方法
 people: []
 companies_orgs: []
 products_models:
@@ -28,7 +27,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=d7Pb73dbcIM&t
----
+---\
 ## 介绍与准备工作
 
 Hi everybody, my name is McKay and in this video I'm going to teach you how to 10x your notes with AI agents.

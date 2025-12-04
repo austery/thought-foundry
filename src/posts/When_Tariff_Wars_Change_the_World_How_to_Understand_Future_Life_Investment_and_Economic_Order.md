@@ -1,4 +1,4 @@
----
+---\
 title: 当关税战改变世界：我们要怎样理解未来的生活、投资以及经济秩序？
 summary: null
 area: market-analysis
@@ -6,9 +6,8 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 全球经济
-- 投资
-- 视频文稿
+  - 全球经济
+  - 投资
 people:
   - 雨白
   - 陈老师
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61
----
+---\
 ## 开场：波澜壮阔的市场与远方的观察者
 
 **俞白**

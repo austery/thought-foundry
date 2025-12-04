@@ -23,7 +23,6 @@ date: 2025-09-19
 author: Lei
 speaker: Lei
 draft: true
-file_name: xi_trump_rmb_geopolitics_q57j.md
 guest: null
 insight: null
 layout: post.njk

@@ -1,4 +1,4 @@
----
+---\
 title: 【一席】赵汗青：我如何拥抱AIGC
 summary: null
 area: tech-insights
@@ -6,8 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 视频文稿
+  - ai
 people: []
 companies_orgs:
 - 一席
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 # 我如何拥抱AIGC
 
 主讲人：赵汗青

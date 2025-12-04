@@ -24,7 +24,6 @@ date: 2025-09-23
 author: Lei
 speaker: ''
 draft: true
-file_name: alex_karp_palantir_geopolitics_western_decline.md
 guest: ''
 insight: null
 layout: post.njk

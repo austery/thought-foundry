@@ -70,7 +70,6 @@ products_models:
 
 media_books: []
 
-file_name: "ai_era_education_reform_po_shen_loh.md"
 draft: true
 status: "evergreen"
 ---

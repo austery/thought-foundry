@@ -1,10 +1,11 @@
 ---
+
 author: "Lei"
 date: "2025-11-06"
-guest: "张老师, Frank, Peter, Rui, 小西瓜, Vivi"
+guest:
 layout: "post.njk"
 source: "https://example.com/Spokenly_transcript_2025-11-06_0847"
-speaker: "Remy, 张老师, Frank, Peter, Rui, 小西瓜, Vivi"
+speaker:
 title: "精益学习与敏捷行动：克服完美主义，拥抱求助的力量"
 summary: "本次读书会深入探讨了“精益学习”的核心理念，讨论了如何通过敏捷行动克服因过度规划导致的“分析瘫痪”。分享者们结合个人经历，探讨了识别“垃圾火花”、放下骄傲去求助，以及从不完美的第一步开始的重要性，强调了在实践中学习和成长的价值。"
 
@@ -24,18 +25,17 @@ tags:
   - "opportunity-cost"
 
 people:
-  - "Remy"
-  - "张老师"
-  - "Frank"
-  - "Peter"
-  - "Rui"
-  - "小西瓜"
-  - "Vivi"
-  - "Alex"
-  - "Zelira"
-  - "Tom Hanks"
-  - "Bill Gates"
-
+  - Remy
+  - 张老师
+  - Frank
+  - Peter
+  - Rui
+  - 小西瓜
+  - Vivi
+  - Alex
+  - Zelira
+  - Tom Hanks
+  - Bill Gates
 companies_orgs:
   - "明镜"
   - "小红书"
@@ -51,10 +51,11 @@ products_models:
 media_books:
   - "《The Creative Act》"
 
-file_name: "lean_learning_agile_action_overcoming_perfectionism_20251106.md"
 draft: true
 status: "evergreen"
+
 ---
+
 
 ## 开场与新平台测试
 

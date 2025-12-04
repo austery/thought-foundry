@@ -1,14 +1,13 @@
----
+---\
 title: Markets Weekly Analysis - June 14, 2025
 summary: null
 area: null
 category: null
 project: []
 tags:
-- 市场分析
-- 稀土
-- 美元
-- 视频文稿
+  - 市场分析
+  - 稀土
+  - 美元
 people:
 - 美联储
 companies_orgs: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## Introduction / 引言
 
 Welcome. This past week of June 14, 2025, has been action-packed in the

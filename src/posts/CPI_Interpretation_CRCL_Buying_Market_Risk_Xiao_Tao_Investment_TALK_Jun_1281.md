@@ -1,4 +1,4 @@
----
+---\
 title: 【投资TALK君1281期】周三CPI解读、CRCL买入思路及市场风险思考
 summary: 看看他对于市场参与度的使用
 area: market-analysis
@@ -6,9 +6,8 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 投资
-- 美元
-- 视频文稿
+  - 投资
+  - 美元
 people: []
 companies_orgs: []
 products_models: []
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开篇导言
 
 尊敬的各位观众，大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小涛。今天这期视频，我将首先带大家展望本周即将公布的关键宏观数据；接着，将深入探讨个股

@@ -1,4 +1,4 @@
----
+---\
 title: 亚马逊总裁的公开信与AI时代的职场生存法则
 summary: null
 area: tech-insights
@@ -6,8 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 视频文稿
+  - ai
 people: []
 companies_orgs:
 - 亚马逊
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言：冰火两重天的亚马逊
 
 各位好。最近几天，除了伊朗挨炸，亚马逊公司也成了舆论的焦点，横跨商业新闻和娱乐新闻。一边是公司总裁预报要裁员，职场山雨欲来；一边是亚马逊公司的老板要举办盛大婚礼。再过两天，婚礼就要在意大利的威尼斯举行，全世界的抗议专业户闻风而动，已经组织起来，提前到达了威尼斯，要在婚礼上抗议。

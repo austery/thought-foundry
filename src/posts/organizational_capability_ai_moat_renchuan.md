@@ -20,7 +20,6 @@ date: 2025-09-26
 author: Lei
 speaker: ''
 draft: true
-file_name: organizational_capability_ai_moat_renchuan.md
 guest: ''
 insight: null
 layout: post.njk

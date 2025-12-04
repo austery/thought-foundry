@@ -20,7 +20,6 @@ date: 2025-09-25
 author: 三個水槍手
 speaker: ''
 draft: true
-file_name: deep_dive_zhang_xuefeng_controversy_B-YK7B0UP0g.md
 guest: ''
 insight: null
 layout: post.njk

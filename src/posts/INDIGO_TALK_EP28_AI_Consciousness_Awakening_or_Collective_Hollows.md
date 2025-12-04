@@ -1,4 +1,4 @@
----
+---\
 title: AI 的下一步是“意识觉醒”还是“集体游魂”？ - INDIGO TALK EP28
 summary: null
 area: tech-insights
@@ -6,10 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- ai-agent
-- 意识
-- 视频文稿
+  - ai
+  - ai-agent
+  - 意识
 people:
   - INDIGO
   - Mohan
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 INDIGO TALK - EP28
 
 **主持人 (Indigo)：** 欢迎回到INDIGO TALK。这一期我邀请了我的NFT入门导师

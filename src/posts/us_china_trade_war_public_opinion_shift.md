@@ -19,7 +19,6 @@ date: 2025-10-03
 author: Lei
 speaker: LT
 draft: true
-file_name: us_china_trade_war_public_opinion_shift.md
 guest: null
 insight: null
 layout: post.njk

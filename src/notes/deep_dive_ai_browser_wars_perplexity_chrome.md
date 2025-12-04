@@ -24,7 +24,6 @@ speaker: ''
 channel: https://www.youtube.com/@101.school
 created: 2025-08-29T16:34
 draft: true
-file_name: deep_dive_ai_browser_wars_perplexity_chrome.md
 guest: ''
 insight: null
 layout: post.njk

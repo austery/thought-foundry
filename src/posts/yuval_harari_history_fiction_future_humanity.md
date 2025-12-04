@@ -23,7 +23,6 @@ date: 2025-10-12
 author: Lei
 speaker: ''
 draft: true
-file_name: yuval_harari_history_fiction_future_humanity.md
 guest: ''
 insight: null
 layout: post.njk

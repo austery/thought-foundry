@@ -21,15 +21,14 @@ products_models: []
 media_books: []
 date: 2025-08-03
 author: Lei
-speaker: ''
+speaker: JUGG’s Agile, Product Science & AI
 channel: ''
 draft: true
-file_name: vibe_coding_practice_boost_team_productivity.md
 guest: ''
 insight: 他们的方法好实用，我做得和他们比较接近，要继续学习他们的好的实践。
 layout: post.njk
 series: Vibe Coding
-source: ''
+source: https://www.youtube.com/watch?v=Vb8Vgs5sZiA
 ---
 ## 什么是 Vibe Coding？
 

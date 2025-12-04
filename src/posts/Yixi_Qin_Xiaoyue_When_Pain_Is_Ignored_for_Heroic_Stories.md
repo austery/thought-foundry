@@ -1,14 +1,13 @@
----
+---\
 title: 秦潇越：当所有人都鼓吹一个英雄式的励志故事时，痛苦就不被重视
 summary: null
 area: null
 category: null
 project: []
 tags:
-- 理想与现实
-- 痛苦的价值
-- 纪录片
-- 视频文稿
+  - 理想与现实
+  - 痛苦的价值
+  - 纪录片
 people: []
 companies_orgs:
 - 一席
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: '#section-1'
----
+---\
 # 当所有人都鼓吹一个英雄式的励志故事时，痛苦就不被重视
 
 ## 我们今天拥有了前所未有的知识，却无法回答人生整体的意义是什么

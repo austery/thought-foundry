@@ -25,7 +25,6 @@ date: 2025-10-03
 author: Lei
 speaker: ''
 draft: true
-file_name: taste_is_your_moat_dylan_field_figma_ai.md
 guest: ''
 insight: null
 layout: post.njk

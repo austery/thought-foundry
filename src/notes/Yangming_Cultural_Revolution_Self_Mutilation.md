@@ -1,4 +1,4 @@
----
+---\
 title: 解析阳明心学与文革思维的内在联系 | 安东尼
 summary: null
 area: personal-growth
@@ -6,11 +6,10 @@ category: culture
 project:
 - cultural-critique
 tags:
-- 思想改造
-- 文化大革命
-- 精神自虐
-- 视频文稿
-- 阳明心学
+  - 思想改造
+  - 文化大革命
+  - 精神自虐
+  - 阳明心学
 people: []
 companies_orgs: []
 products_models: []
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=0h09gC2c60Y
----
+---\
 # 解密阳明心学到文革的惊人一致：中国文化中的精神自虐机制
 
 ## 引言：从阳明心学到文化大革命的内在逻辑

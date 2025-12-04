@@ -1,4 +1,4 @@
----
+---\
 title: 人类的最后堡垒：情感能否对抗AI？
 summary: null
 area: tech-insights
@@ -6,12 +6,11 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 人类价值
-- 尤瓦尔·赫拉利
-- 情感
-- 意识
-- 视频文稿
+  - ai
+  - 人类价值
+  - 尤瓦尔·赫拉利
+  - 情感
+  - 意识
 people: []
 companies_orgs: []
 products_models: []
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 **讲述者简介：**尤瓦尔·诺亚·赫拉利（Yuval Noah
 Harari），以色列历史学家、哲学家及畅销书作家。他以其著作《人类简史》（Sapiens）、《未来简史》（Homo
 Deus）和《今日简史》（21 Lessons for the 21st

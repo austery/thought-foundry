@@ -20,7 +20,6 @@ date: 2025-09-27
 author: Lei
 speaker: a16z
 draft: true
-file_name: unifying_force_tech_ai_health.md
 guest: null
 insight: null
 layout: post.njk

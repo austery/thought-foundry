@@ -1,4 +1,4 @@
----
+---\
 title: 中国青年就业海啸：1亿人失业的未来？—— 老周横眉
 summary: null
 area: market-analysis
@@ -6,12 +6,11 @@ category: geopolitics
 project:
 - china-analysis
 tags:
-- 中国
-- 失业率
-- 社会问题
-- 经济下行
-- 视频文稿
-- 青年就业
+  - 中国
+  - 失业率
+  - 社会问题
+  - 经济下行
+  - 青年就业
 people: []
 companies_orgs: []
 products_models: []
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 <div class="speaker-info">
 
 **讲述者：老周横眉**

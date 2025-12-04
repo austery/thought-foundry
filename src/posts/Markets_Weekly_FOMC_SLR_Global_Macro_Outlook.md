@@ -1,14 +1,13 @@
----
+---\
 title: 市场周评：FOMC会议、财政主导与全球资本流动
 summary: null
 area: null
 category: null
 project: []
 tags:
-- fomc
-- 市场分析
-- 美元
-- 视频文稿
+  - fomc
+  - 市场分析
+  - 美元
 people:
   - Felix
   - Quinn Thompson
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 1. 开场与介绍
 
 **Felix:**

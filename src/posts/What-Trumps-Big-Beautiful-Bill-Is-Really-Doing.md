@@ -1,4 +1,4 @@
----
+---\
 title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part
   2) - Dialogue'
 summary: null
@@ -7,9 +7,8 @@ category: finance
 project:
 - us-analysis
 tags:
-- 经济影响
-- 美国政治
-- 视频文稿
+  - 经济影响
+  - 美国政治
 people:
   - Ezra Klein
   - Catherine Rampell
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 # Why Ezra Klein is So F\*\*\*ing Angry (with Democrats)
 
 ## 嘉宾介绍与节目开场

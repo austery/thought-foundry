@@ -1,4 +1,4 @@
----
+---\
 title: 个股投资案例分析：Frank的公司股票投资复盘
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 安全边际
-- 投资
-- 能力圈
-- 视频文稿
+  - 安全边际
+  - 投资
+  - 能力圈
 people:
   - Lei
   - Frank
@@ -29,7 +28,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言：抓住疫情带来的逆向投资机会
 
 **Frank:**

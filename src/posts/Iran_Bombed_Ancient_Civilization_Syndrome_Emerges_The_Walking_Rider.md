@@ -1,4 +1,4 @@
----
+---\
 title: 伊朗挨炸，炸出来的“文明古国综合症”
 summary: null
 area: personal-growth
@@ -6,11 +6,10 @@ category: culture
 project:
 - cultural-critique
 tags:
-- 伊朗
-- 奈保尔
-- 文化自信
-- 文明古国综合症
-- 视频文稿
+  - 伊朗
+  - 奈保尔
+  - 文化自信
+  - 文明古国综合症
 people: []
 companies_orgs: []
 products_models: []
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言：“文明古国综合症”
 
 各位好，今天说说伊朗挨炸，炸出来的“文明古国综合症”。文明古国是加引号的。

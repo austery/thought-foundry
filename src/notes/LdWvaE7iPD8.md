@@ -36,7 +36,6 @@ products_models:
 
 media_books: []
 
-file_name: "uchicago_writing_value_vs_rules_mcenerney.md"
 draft: true
 status: "evergreen"
 ---

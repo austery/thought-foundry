@@ -1,4 +1,4 @@
----
+---\
 title: 金融常识：评估金钱决策的底层逻辑
 summary: 很多都知道，但是在自己做出符合自己需要的投资或者金融决策的时候，需要来看看其它专业人士的分析。
 area: market-analysis
@@ -6,11 +6,10 @@ category: finance
 project:
 - investment-strategy
 tags:
-- irr
-- 投资决策
-- 视频文稿
-- 金融常识
-- 金钱时间价值
+  - irr
+  - 投资决策
+  - 金融常识
+  - 金钱时间价值
 people: []
 companies_orgs: []
 products_models: []
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=_KqWctjw9kY&t
----
+---\
 ## 学历贬值时代，普通人必须掌握的金融知识
 
 老周横眉：两周前，我给大家分析了中国失控的青年失业率。在学历贬值（学历贬值：指学历的实际价值和社会认可度下降，高学历不再能保证高收入和好工作的现象）已经成为既定现实，并且预计将会持续很长一段时间的情况下，评论区里很多年轻人和家长都觉得很迷茫，不知道未来的路要怎么走。

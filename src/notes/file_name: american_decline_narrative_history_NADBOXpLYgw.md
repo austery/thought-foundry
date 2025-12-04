@@ -50,7 +50,6 @@ media_books:
   - 西方没落
   - 文明的冲突
   - 我们是谁
-file_name: american_decline_narrative_history_NADBOXpLYgw.md
 draft: true
 status: evergreen
 ---

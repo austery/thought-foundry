@@ -27,10 +27,9 @@ products_models:
 media_books: []
 date: 2025-08-04
 author: Lei
-speaker: ''
+speaker: 为AI发电
 channel: ''
 draft: true
-file_name: vibe_coding_ai_programming_practices.md
 guest: ''
 insight: ''
 layout: post.njk

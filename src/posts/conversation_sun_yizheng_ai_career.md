@@ -24,7 +24,6 @@ date: 2025-10-09
 author: Lei
 speaker: ''
 draft: true
-file_name: conversation_sun_yizheng_ai_career.md
 guest: ''
 insight: null
 layout: post.njk

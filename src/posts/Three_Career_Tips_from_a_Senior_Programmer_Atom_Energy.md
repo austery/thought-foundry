@@ -1,4 +1,4 @@
----
+---\
 title: 资深程序员送给你的职业生涯三大忠告
 summary: null
 area: personal-growth
@@ -6,10 +6,9 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- personal-growth
-- 程序员
-- 职业生涯
-- 视频文稿
+  - personal-growth
+  - 程序员
+  - 职业生涯
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言
 
 大家好，我是原子能。今天的话题是职业生涯。我在直播间和私信里面收到的问题，可以说将近九成都是关于职业生涯的。问我要推荐一下应该学点什么，该干点什么，该去考研、去就职，还是上什么培训班之类等等。

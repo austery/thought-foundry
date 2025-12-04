@@ -28,7 +28,6 @@ date: 2025-09-22
 author: Lei
 speaker: ''
 draft: true
-file_name: semiconductor_wars_nvidia_intel_huawei_vvle8_mzxya.md
 guest: ''
 insight: null
 layout: post.njk

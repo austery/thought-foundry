@@ -1,15 +1,14 @@
----
+---\
 title: 深度分析：泳池用品店是骗局吗？
 summary: null
 area: null
 category: null
 project: []
 tags:
-- 水化学
-- 泳池维护
-- 消费陷阱
-- 行业内幕
-- 视频文稿
+  - 水化学
+  - 泳池维护
+  - 消费陷阱
+  - 行业内幕
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https.www.youtube.com/watch?v=placeholder
----
+---\
 ## 问题的根源：认知差距与行业现实
 
 

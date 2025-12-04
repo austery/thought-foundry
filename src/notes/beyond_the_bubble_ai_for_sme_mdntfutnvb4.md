@@ -24,7 +24,6 @@ date: 2025-09-22
 author: Lei
 speaker: 陈茜
 draft: true
-file_name: beyond_the_bubble_ai_for_sme_mdntfutnvb4.md
 guest: null
 insight: null
 layout: post.njk

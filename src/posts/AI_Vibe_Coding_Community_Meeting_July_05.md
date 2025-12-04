@@ -1,4 +1,4 @@
----
+---\
 title: AI Vibe Coding 社区讨论会纪要0705
 summary: null
 area: tech-insights
@@ -6,9 +6,8 @@ category: technology
 project:
 - vibe-coding
 tags:
-- prompt
-- vibe-coding
-- 视频文稿
+  - prompt
+  - vibe-coding
 people:
   - Dusing
   - Amy
@@ -27,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开场与社区未来展望
 
 **Dusing:** Amy，我邀请你了。Hello，好久不见，三个月没见到你了。

@@ -1,16 +1,15 @@
----
+---\
 title: 加拿大联邦大选解析与国际格局展望
 summary: null
 area: null
 category: null
 project: []
 tags:
-- 加拿大
-- 国际格局
-- 种族问题
-- 联邦大选
-- 视频文稿
-- 贸易
+  - 加拿大
+  - 国际格局
+  - 种族问题
+  - 联邦大选
+  - 贸易
 people: []
 companies_orgs: []
 products_models: []
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 <div class="speaker-intro">
 
 **提问者：**Edward

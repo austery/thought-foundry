@@ -1,4 +1,4 @@
----
+---\
 title: AI 的正确使用姿势：从 Prompt 到工作流
 summary: null
 area: tech-insights
@@ -6,10 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- prompt
-- 工作流
-- 视频文稿
+  - ai
+  - prompt
+  - 工作流
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=-a_umjxdcIg&t
----
+---\
 ## 付费用户的崛起：AI 已成刚需
 
 我想问一下，大家平时已经为AI（人工智能：模拟人类智能的计算机科学分支）付费的人请举一下手。你看，有很多，所以今天在场的很多人都已经深度使用AI了。付到20美金以上的再举一下手。还是有不少。如果同时订阅两三个服务，一个月五六十美金就出去了。这说明很多人其实已经是在比较深度地使用AI了。

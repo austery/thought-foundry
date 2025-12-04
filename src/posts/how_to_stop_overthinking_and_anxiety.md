@@ -24,7 +24,6 @@ date: 2025-08-21
 author: Lei
 speaker: ''
 draft: true
-file_name: stop_overthinking_anxiety_buddhism_psychology.md
 guest: ''
 insight: null
 layout: post.njk

@@ -1,4 +1,4 @@
----
+---\
 title: 科技巨头如何通过“非收购式收购”悄然主导AI领域
 summary: null
 area: tech-insights
@@ -6,9 +6,8 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 反垄断
-- 视频文稿
+  - ai
+  - 反垄断
 people: []
 companies_orgs: []
 products_models: []
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=YOUR_VIDEO_ID
----
+---\
 ## 引言：一种规避监管的新型控制策略
 
 **Narrator:** In the race to dominate generative AI, Big Tech firms

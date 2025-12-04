@@ -1,4 +1,4 @@
----
+---\
 title: 「欧洲_北美场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 summary: null
 area: market-analysis
@@ -6,9 +6,8 @@ category: business
 project:
 - entrepreneurship
 tags:
-- entrepreneurship
-- 副业
-- 视频文稿
+  - entrepreneurship
+  - 副业
 people:
   - Vivian
   - Simon L
@@ -30,7 +29,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开场与介绍
 
 ### Vivian:

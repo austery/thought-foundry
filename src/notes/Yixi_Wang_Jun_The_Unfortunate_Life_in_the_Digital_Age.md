@@ -1,13 +1,12 @@
----
+---\
 title: 王俊：数字时代的不幸生活
 summary: null
 area: personal-growth
 category: culture
 project: []
 tags:
-- 哲学反思
-- 生活意义
-- 视频文稿
+  - 哲学反思
+  - 生活意义
 people: []
 companies_orgs:
 - 一席
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=1zL655wp5zg&t
----
+---\
 # 数字时代的不幸生活
 
 ## 我们今天拥有了前所未有的知识，却无法回答人生整体的意义是什么

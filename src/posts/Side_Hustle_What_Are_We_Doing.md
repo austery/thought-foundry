@@ -1,4 +1,4 @@
----
+---\
 title: 当我们搞副业时，我们到底在搞什么？ - Yehuan的分享
 summary: null
 area: personal-growth
@@ -7,11 +7,10 @@ project:
 - entrepreneurship
 - personal-growth-lab
 tags:
-- personal-growth
-- 人生经历
-- 创业精神
-- 副业探索
-- 视频文稿
+  - personal-growth
+  - 人生经历
+  - 创业精神
+  - 副业探索
 people: []
 companies_orgs: []
 products_models: []
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言：如何从众多粉丝中脱颖而出
 
 大家好。在开始今天的主题之前，我想先分享一下我与Ray（活动主办方）结识的经历，因为他刚才的分享确实触动了我。我关注Ray大约有两三年了，每次看他的视频，都对其独到深刻的见解赞叹不已，觉得他的三观非常正。因此，我一直很想认识他本人。

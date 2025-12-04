@@ -23,7 +23,6 @@ date: 2025-09-22
 author: Lei
 speaker: ''
 draft: true
-file_name: how_to_build_cult_lulu_cheng_meservey.md
 guest: ''
 insight: null
 layout: post.njk

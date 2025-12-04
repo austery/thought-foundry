@@ -1,4 +1,4 @@
----
+---\
 title: All-In 播客深度分析：12日战争、纽约社会主义、股市新高与AI版权
 summary: null
 area: tech-insights
@@ -6,10 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 国际政治
-- 版权
-- 视频文稿
+  - ai
+  - 国际政治
+  - 版权
 people: []
 companies_orgs: []
 products_models: []
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Dp75wqOrtBs
----
+---\
 ## (0:00) 好哥们介绍：核心四人组回归
 
 **Jason:** Did you guys see this uh White House video?

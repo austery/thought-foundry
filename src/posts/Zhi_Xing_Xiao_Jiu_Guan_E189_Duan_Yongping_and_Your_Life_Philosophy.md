@@ -1,4 +1,4 @@
----
+---\
 title: E189 聊聊段永平，以及你想活出怎样的人生
 summary: 可以看看段永平的书，好像是他在雪球的合集
 area: market-analysis
@@ -6,10 +6,9 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 人生哲学
-- 投资
-- 投资大师
-- 视频文稿
+  - 人生哲学
+  - 投资
+  - 投资大师
 people:
   - 段永平
   - 雨白
@@ -27,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言：聊聊段永平的契机
 
 **雨白:**

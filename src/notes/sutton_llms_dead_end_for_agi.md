@@ -21,7 +21,6 @@ date: 2025-10-01
 author: Lei
 speaker: ''
 draft: true
-file_name: sutton_llms_dead_end_for_agi.md
 guest: ''
 insight: null
 layout: post.njk

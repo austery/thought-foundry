@@ -1,12 +1,11 @@
----
+---\
 title: SoFi、PayPal、UNH 财报解析：暴涨暴跌后的投资机遇？
 summary: 深入解析 SoFi、PayPal 及 UNH 的 Q2 财报。SoFi 财报后股价剧烈波动，UNH 业绩虽不及预期但或已超跌，PayPal 数据稳健且估值具吸引力。视频探讨了各公司的机遇、风险与投资策略。
 area: null
 category: null
 project: []
 tags:
-- 视频文稿
-- 财报分析
+  - 财报分析
 people: []
 companies_orgs:
 - paypal
@@ -25,7 +24,7 @@ insight: ''
 layout: post.njk
 series: ''
 source: https://www.youtube.com/watch/1sFu3oDyU-s
----
+---\
 嘿各位观众，欢迎收看美股咖啡馆，我是尼科。不知道你有没有这个感觉，就是今年Q2这个财报周，比上一轮Q1要精彩非常多。昨天是 **SoFi**、**UNH**、**PayPal**，一个又接一个的炸弹，几乎没有喘息的空间。所以这集影片又是相当忙碌的一集，直接带大家看三家公司的财报：先看 **Sofi**，再看 **UNH**，最后用 **PayPal** 来个结尾。相信这都是大家非常关注的公司。
 
 所有你身为一位投资者需要知道的关于这三大公司的最新动态，包括现在财报公布了，到底可不可以买，我都会在这集影片里给你分享，所以务必把它从头看到尾。

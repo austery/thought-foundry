@@ -48,7 +48,6 @@ products_models: []
 media_books:
   - "《Hedda Gabler》"
 
-file_name: "how_to_speak_communication_heuristics.md"
 draft: true
 status: "evergreen"
 ---

@@ -1,15 +1,14 @@
----
+---\
 title: 第四课：为人父母 - 一项神圣的使命
 summary: null
 area: personal-growth
 category: culture
 project: []
 tags:
-- 亲子关系
-- 婚姻关系
-- 宗教
-- 家庭教育
-- 视频文稿
+  - 亲子关系
+  - 婚姻关系
+  - 宗教
+  - 家庭教育
 people:
   - 林静芝
   - 李秀全
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=F0mJ15eK2v4
----
+---\
 ## 引言：从夫妻关系到亲子关系
 
 **李秀全老师:**

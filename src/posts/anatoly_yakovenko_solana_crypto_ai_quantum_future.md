@@ -24,7 +24,6 @@ date: 2025-09-25
 author: Lei
 speaker: ''
 draft: true
-file_name: anatoly_yakovenko_solana_crypto_ai_quantum_future.md
 guest: ''
 insight: null
 layout: post.njk

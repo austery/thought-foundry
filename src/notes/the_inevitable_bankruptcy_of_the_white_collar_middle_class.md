@@ -20,7 +20,6 @@ date: 2025-09-11
 author: Lei
 speaker: 大宋佬
 draft: true
-file_name: the_inevitable_bankruptcy_of_the_white_collar_middle_class.md
 guest: null
 insight: null
 layout: post.njk

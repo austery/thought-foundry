@@ -19,7 +19,6 @@ author: Lei
 speaker: 徒步的騎手
 channel: null
 draft: true
-file_name: acemoglu_on_why_chinas_economy_is_rotting.md
 guest: null
 insight: null
 layout: post.njk

@@ -1,4 +1,4 @@
----
+---\
 title: AI与失业
 summary: null
 area: tech-insights
@@ -6,10 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 卢德运动
-- 技术变革
-- 视频文稿
+  - ai
+  - 卢德运动
+  - 技术变革
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开场白与引入
 
 你好啊朋友们。

@@ -1,4 +1,4 @@
----
+---\
 title: 'James Simons: Mathematics, Common Sense, and Good Luck - My Life and Careers'
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 投资
-- 投资大师
-- 视频文稿
-- 量化投资
+  - 投资
+  - 投资大师
+  - 量化投资
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## Speaker Introduction / 讲者简介
 
 **English:** James Simons is a renowned mathematician, hedge fund

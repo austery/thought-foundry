@@ -24,7 +24,6 @@ date: 2025-08-27
 author: Lei
 speaker: ''
 draft: true
-file_name: jeff_chroma_vector_db_context_engineering.md
 guest: ''
 insight: null
 layout: post.njk

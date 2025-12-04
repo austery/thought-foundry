@@ -1,4 +1,4 @@
----
+---\
 title: AI与软件开发的未来
 summary: null
 area: tech-insights
@@ -6,10 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 未来趋势
-- 视频文稿
-- 软件开发
+  - ai
+  - 未来趋势
+  - 软件开发
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: AI企业应用研讨会
 source: null
----
+---\
 ## The Evolving Role of AI in Programming / 人工智能在编程中角色的演变
 
 One speaker initiated the discussion by questioning whether AI,

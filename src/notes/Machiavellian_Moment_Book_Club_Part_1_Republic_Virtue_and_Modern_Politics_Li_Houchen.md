@@ -1,16 +1,15 @@
----
+---\
 title: 马基雅维里时刻读书会（一）：共和、美德与现代政治
 summary: null
 area: personal-growth
 category: culture
 project: []
 tags:
-- 佛罗伦萨
-- 共和制
-- 政治哲学
-- 英国宪政
-- 视频文稿
-- 马基雅维里时刻
+  - 佛罗伦萨
+  - 共和制
+  - 政治哲学
+  - 英国宪政
+  - 马基雅维里时刻
 people: []
 companies_orgs: []
 products_models: []
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=X6Qdgf1GK3k&t
----
+---\
 ## 开场与引言
 
 **主持人:**

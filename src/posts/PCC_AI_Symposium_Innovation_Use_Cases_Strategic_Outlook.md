@@ -1,4 +1,5 @@
----
+---\
+
 title: AI研讨会纪要：创新、应用案例与战略展望
 summary: null
 area: tech-insights
@@ -6,10 +7,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 企业价值
-- 医疗健康
-- 视频文稿
+  - ai
+  - 企业价值
+  - 医疗健康
 people:
   - Dave Wessinger
   - Alan Missen
@@ -29,19 +29,22 @@ people:
   - Julia Groza
   - Raka Dhar
   - Panelists
+  - Kazmi-Ishaq
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Kazmi-Ishaq
+speaker:
 channel: null
-guest: 'Jenna Paglia, Pawandeep Kaur, Victor Tarnovski, Erik Stabile, Julia Groza, Raka Dhar, Panelists'
+guest:
 insight: null
 layout: post.njk
 series: null
 source: null
----
+
+---\
+
 ## 主题演讲对话：AI 的紧迫性与机遇
 
 ### 领导力要务：学会取舍，聚焦未来

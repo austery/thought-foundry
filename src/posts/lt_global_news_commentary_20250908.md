@@ -19,7 +19,6 @@ date: 2025-09-08
 author: Lei
 speaker: LT
 draft: true
-file_name: lt_global_news_commentary_20250908.md
 guest: null
 insight: null
 layout: post.njk

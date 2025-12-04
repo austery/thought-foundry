@@ -1,4 +1,4 @@
----
+---\
 title: 《Just Keep Buying》深度解读指南
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 投资
-- 理财
-- 视频文稿
-- 财富积累
+  - 投资
+  - 理财
+  - 财富积累
 people:
 - nickmaggiulli
 companies_orgs: []
@@ -25,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.harriman-house.com/press/full/4200
----
+---\
 ### 作者背景: 数据分析达人 Nick Maggiulli
 
 Nick Maggiulli (昵称“老王”, Maggiulli

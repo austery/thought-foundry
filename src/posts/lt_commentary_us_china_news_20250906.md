@@ -19,7 +19,6 @@ date: 2025-09-06
 author: Lei
 speaker: LT
 draft: true
-file_name: lt_commentary_us_china_news_20250906.md
 guest: null
 insight: null
 layout: post.njk

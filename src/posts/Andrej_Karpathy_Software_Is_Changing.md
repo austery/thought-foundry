@@ -1,4 +1,4 @@
----
+---\
 title: Software Is Changing (Again)
 summary: null
 area: tech-insights
@@ -7,9 +7,8 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
-- ai
-- vibe-coding
-- 视频文稿
+  - ai
+  - vibe-coding
 people: []
 companies_orgs: []
 products_models: []
@@ -23,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## Introduction: Software is Changing, Again / 引言：软件正在再次变革
 
 Hello. I'm excited to be here today to talk to you about software in the

@@ -1,4 +1,4 @@
----
+---\
 title: AI研讨会：探索企业级应用与未来趋势
 summary: 这是我们公司内部的分享会，大家提出很多很好的mvp,我最感兴趣的是-AI驱动的元数据生成器，我们小组马上就可以用。
 area: tech-insights
@@ -6,11 +6,10 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 企业应用
-- 商业策略
-- 技术创新
-- 视频文稿
+  - ai
+  - 企业应用
+  - 商业策略
+  - 技术创新
 people:
   - Marina Stojanovic
   - Ketki Yennemadi
@@ -57,7 +56,7 @@ layout: post.njk
 program: null
 series: AI企业应用研讨会
 source: null
----
+---\
 ## 开场讨论：AI时代的学习、机遇与紧迫感
 
 **Dave Wessinger:** And my, kind of, two major investors in Dragonair and Hillman Friedman.

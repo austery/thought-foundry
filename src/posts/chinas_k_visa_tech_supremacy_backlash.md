@@ -24,7 +24,6 @@ date: 2025-10-04
 author: Lei
 speaker: ''
 draft: true
-file_name: chinas_k_visa_tech_supremacy_backlash.md
 guest: ''
 insight: null
 layout: post.njk

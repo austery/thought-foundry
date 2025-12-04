@@ -23,7 +23,6 @@ date: 2025-09-22
 author: Lei
 speaker: 王探长
 draft: true
-file_name: 100k_h1b_visa_bombshell_political_ploy_vfzoe5yrnq.md
 guest: null
 insight: null
 layout: post.njk

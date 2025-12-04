@@ -22,7 +22,6 @@ date: 2025-10-04
 author: LT視界
 speaker: LT視界
 draft: true
-file_name: analysis_us_shutdown_gaza_soybeans_20251004.md
 guest: null
 insight: null
 layout: post.njk

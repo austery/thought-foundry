@@ -1,4 +1,4 @@
----
+---\
 title: 市场周评：当赚钱变得容易，如何警惕风险？特斯拉财报前瞻
 summary: 本期视频回顾了上周美股市场的表现，深入分析了CPI、PPI数据公布后市场对PCE通胀指标的预期，并探讨了股市上涨对金融服务通胀的影响。主持人提醒，当市场中超过半数人感觉赚钱容易时，往往是风险信号，强调了制定可复制的投资目标与策略的重要性。此外，视频还解读了美联航财报所反映的消费复苏迹象，并对本周即将公布的特斯拉、谷歌、英特尔等重要财报进行了前瞻分析。
 area: market-analysis
@@ -7,10 +7,9 @@ project:
 - investment-strategy
 - us-analysis
 tags:
-- 宏观经济
-- 美股
-- 视频文稿
-- 财报分析
+  - 宏观经济
+  - 美股
+  - 财报分析
 people: []
 companies_orgs:
 - 特斯拉
@@ -26,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=lHBb8Ecd-gY
----
+---\
 ## 开场与上周市场回顾
 
 **小桃:** 各位观众大家好，欢迎来到一个不单只聊新闻的专业美股频道。我是市场分析员小桃。

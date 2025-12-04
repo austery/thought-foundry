@@ -44,7 +44,6 @@ products_models:
 media_books:
   - Declaration of Independence
   - US Constitution
-file_name: deconstructing_us_decline_theory_raag7Tjsghk.md
 draft: true
 status: evergreen
 ---

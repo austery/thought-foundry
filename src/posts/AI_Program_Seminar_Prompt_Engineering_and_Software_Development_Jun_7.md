@@ -1,14 +1,13 @@
----
-title: '# AI 知识管理程序研讨会'
+---\
+title: 'AI 知识管理程序研讨会'
 summary: null
 area: null
 category: null
 project: []
 tags:
-- prompt
-- 学习方法
-- 视频文稿
-- 软件开发
+  - prompt
+  - 学习方法
+  - 软件开发
 people:
   - 独行
   - Vincent
@@ -26,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 引言与常用AI工具分享
 
 **独行:**

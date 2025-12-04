@@ -1,14 +1,13 @@
----
+---\
 title: 《Hidden Potential》读书会：拥抱不适，打破完美主义，释放内在潜能
 area: personal-growth
 category: psychology
 project:
 - personal-growth-lab
 tags:
-- personal-growth
-- 不舒适区
-- 完美主义
-- 视频文稿
+  - personal-growth
+  - 不舒适区
+  - 完美主义
 people:
   - Ray
   - 小西瓜
@@ -36,7 +35,7 @@ insight: 本次读书会围绕《Hidden Potential》展开，探讨了如何通�
 layout: post.njk
 series: Hidden Potential
 source: ''
----
+---\
 ## 开场与下月书目介绍
 
 Ray: 不好意思，我刚才好像总是自动静音。小西瓜你是不是放假了？

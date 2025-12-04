@@ -1,4 +1,4 @@
----
+---\
 title: 'Vibe Coding: 人人都能利用AI杠杆创造价值'
 summary: 本次社群会议探讨了“Vibe Coding”的核心理念，即普通人如何利用AI和自然语言编程来解决实际问题、提升效率。会议分享了新社群的共创愿景、课程规划，并邀请多位成员分享了他们利用AI创造个人应用和自动化工作流的实践经验，强调了在AI时代定义问题和持续创造的重要性。
 area: tech-insights
@@ -8,11 +8,10 @@ project:
 - personal-growth-lab
 - vibe-coding
 tags:
-- ai编程
-- personal-growth
-- vibe-coding
-- 社群运营
-- 视频文稿
+  - ai编程
+  - personal-growth
+  - vibe-coding
+  - 社群运营
 people:
   - Ray
   - 张修修
@@ -28,7 +27,7 @@ products_models: []
 media_books: []
 date: 2025-08-17
 author: Lei
-speaker: ''
+speaker: 为AI发电
 channel: ''
 draft: true
 file_name: vibe_coding_ai_leverage_create_value.md
@@ -37,7 +36,7 @@ insight: ''
 layout: post.njk
 series: ''
 source: ''
----
+---\
 ## 新平台测试与成员见面
 
 Ray: 他默认打开之后，就像咱们普通直播一样，必须邀请才能上来。当被邀请为 **co-host** (共同主持人) 后，总共可以上来五十个人。Cirina，我邀请你了，收到了吗？

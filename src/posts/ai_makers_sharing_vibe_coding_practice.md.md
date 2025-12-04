@@ -1,4 +1,4 @@
----
+---\
 title: AI创客们的热情分享：从电子衣橱到自动化工具的Vibe Coding实践
 summary: 一场关于AI应用开发的社群分享会。成员们展示了各自的Vibe Coding项目，包括AI内容生成、个人财务追踪App、电子衣橱、批量抠图工具等。讨论涵盖了GPT-5、Perplexity
   Comet等新工具的使用体验，并宣布了新社群PathEnfold.ai的启动。
@@ -8,11 +8,10 @@ project:
 - ai-impact-analysis
 - vibe-coding
 tags:
-- ai应用开发
-- vibe-coding
-- 个人项目
-- 社群建设
-- 视频文稿
+  - ai应用开发
+  - vibe-coding
+  - 个人项目
+  - 社群建设
 people:
   - Ray
   - 嘉宾
@@ -40,7 +39,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开场与新工具讨论
 
 Ray: 哈喽，小西瓜，我先邀请你们上来一下。麦克也来了。我现在发现一个特别特别好用的浏览器，应该都知道，就是那个 **Perplexity** 新出的那个 **Comet**，我已经用上了，这真的名不虚传。

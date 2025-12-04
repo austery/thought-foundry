@@ -1,4 +1,4 @@
----
+---\
 title: 传奇投资者克里斯·霍恩的投资心法
 summary: 主持人约瑟夫·卡尔森深入剖析了传奇投资者克里斯·霍恩的投资哲学，涵盖了经济护城河、定价权和长期主义的重要性。此外，视频还分析了多家顶级投资公司的最新13F文件，并探讨了关于爱彼迎、Waymo和HBO
   Max的最新行业动态。
@@ -7,11 +7,10 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 13f-filings
-- investment-philosophy
-- investment-strategy
-- pricing-power
-- 视频文稿
+  - 13f-filings
+  - investment-philosophy
+  - investment-strategy
+  - pricing-power
 people:
   - chris hohn
   - Joseph Carlson
@@ -30,7 +29,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch/oiNDKCn1Dj4
----
+---\
 ## 传奇投资者克里斯·霍恩的投资心法
 
 Joseph Carlson: Welcome back everyone. Today on the Joseph Carlson show, we have a special episode. We finally get to hear from Chris Hohn.

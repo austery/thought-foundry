@@ -1,4 +1,4 @@
----
+---\
 title: 专访伊朗历史专家厄尔凡德·阿布拉哈米安：从1953年政变到当今核危机
 summary: 1953 年政变与美伊关系,政变为后续美伊紧张提供“历史底噪”，却非宿命式敌对的唯一成因；伊朗社会愿意淡化此事，而美国政坛因人质危机等事件持续“记仇”，加深了对伊不信任。摩萨德格的历史定位,国内广泛尊其为“国父”：①成功收回伊朗石油主权，被视为宣告摆脱半殖民地地位；②继承 1906 年宪政革命的自由-平等-议会理想。
 area: personal-growth
@@ -6,10 +6,9 @@ category: culture
 project:
 - historical-insights
 tags:
-- 1953政变
-- 伊朗
-- 历史研究
-- 视频文稿
+  - 1953政变
+  - 伊朗
+  - 历史研究
 people: [厄尔凡德·阿布拉哈米安,摩萨德格]
 companies_orgs: []
 products_models: []
@@ -21,7 +20,7 @@ guest: null
 insight: null
 layout: post.njk
 source: https://www.youtube.com/watch?v=Jz8tuCLbLWc&t
----
+---\
 **采访者：王路飞**
 
 **受访者：厄尔凡德·阿布拉哈米安 (Ervand Abrahamian)**

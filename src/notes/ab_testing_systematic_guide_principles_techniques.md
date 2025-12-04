@@ -21,7 +21,6 @@ date: 2025-09-24
 author: Lei
 speaker: Lei
 draft: true
-file_name: ab_testing_systematic_guide_principles_techniques.md
 guest: null
 insight: null
 layout: post.njk

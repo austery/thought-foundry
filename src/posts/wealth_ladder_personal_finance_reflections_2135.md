@@ -1,10 +1,11 @@
 ---
+
 author: "Lei"
 date: "2025-11-05"
-guest: "Zalira, Remy, Lu Yao, Vance, Frank, Xiao Xigua, Vivi"
+guest:
 layout: "post.njk"
 source: ""
-speaker: "Zalira"
+speaker:
 title: "财富的阶梯：从生存挣扎到财务自由的个人经验与反思"
 summary: "本次读书会深入探讨了财富的六个层级概念。参与者们分享了各自在不同财富阶段的亲身经历和感悟，从Level 1的生存挣扎到对更高阶财富自由的思考。讨论不仅涵盖了投资、储蓄等实际策略，更触及了金钱与幸福感、个人价值实现以及子女财商教育等深层话题，反思了财富阶梯作为人生地图的意义与局限性。"
 
@@ -24,18 +25,17 @@ tags:
   - "happiness"
 
 people:
-  - "Zalira"
-  - "Remy"
-  - "Lu Yao"
-  - "Vance"
-  - "Frank"
-  - "Xiao Xigua"
-  - "Vivi"
-  - "Wes"
-  - "Chandler"
-  - "Jeff Bezos"
-  - "Warren Buffett"
-
+  - Zalira
+  - Remy
+  - Lu Yao
+  - Vance
+  - Frank
+  - Xiao Xigua
+  - Vivi
+  - Wes
+  - Chandler
+  - Jeff Bezos
+  - Warren Buffett
 companies_orgs:
   - "Amazon"
   - "Tesla"
@@ -53,10 +53,11 @@ media_books:
   - "《拿铁因素》"
   - "《成为母亲》"
 
-file_name: "wealth_ladder_personal_finance_reflections_2135.md"
 draft: true
 status: "evergreen"
+
 ---
+
 
 ## 开场与技术调试
 

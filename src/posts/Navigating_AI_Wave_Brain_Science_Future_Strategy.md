@@ -20,7 +20,6 @@ channel: null
 created: 2025-08-21T13:15
 draft: true
 exclude: true
-file_name: null
 guest: null
 insight: 这篇太平庸了，我要再做研究一下，
 layout: post.njk

@@ -1,13 +1,12 @@
----
+---\
 title: 专题讨论：从哈佛演讲争议到六四历史反思
 summary: 
 area: society-systems
 category: geopolitics
 project: [china-analysis,ystems-thinking]
 tags:
-- 哈佛演讲
-- 政治
-- 视频文稿
+  - 哈佛演讲
+  - 政治
 people:
   - 北美王路飞
   - 老尹
@@ -16,14 +15,14 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: ''
+speaker: 北美王路飞
 channel: null
 guest: ''
 insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 一、 哈佛毕业生蒋语荣演讲引发的争议
 
 **路飞:**

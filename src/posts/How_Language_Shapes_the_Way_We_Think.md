@@ -1,14 +1,13 @@
----
+---\
 title: How Language Shapes the Way We Think - Lera Boroditsky
 summary: null
 area: null
 category: null
 project: []
 tags:
-- 思维
-- 视频文稿
-- 语言
-- 语言相对论
+  - 思维
+  - 语言
+  - 语言相对论
 people: []
 companies_orgs: []
 products_models: []
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 Lera Boroditsky
 
 ### About the Speaker

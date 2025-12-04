@@ -20,7 +20,6 @@ date: 2025-10-03
 author: Lei
 speaker: Charles
 draft: true
-file_name: deep_dive_claude_sonnet_4_5_memory_tool.md
 guest: null
 insight: null
 layout: post.njk

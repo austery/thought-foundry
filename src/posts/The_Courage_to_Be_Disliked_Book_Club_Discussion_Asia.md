@@ -1,4 +1,4 @@
----
+---\
 title: 《被讨厌的勇气》读书会讨论-亚洲区
 summary: null
 area: personal-growth
@@ -6,10 +6,9 @@ category: psychology
 project:
 - personal-growth-lab
 tags:
-- 自我接纳
-- 视频文稿
-- 课题分离
-- 阿德勒心理学
+  - 自我接纳
+  - 课题分离
+  - 阿德勒心理学
 people:
   - Ray
   - Lichi
@@ -29,14 +28,14 @@ media_books:
 - 被讨厌的勇气
 date: '2025-07-10'
 author: Lei
-speaker: ''
+speaker: 一口新饭读书会
 channel: null
 guest: ''
 insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 ## 开场与预告
 
 ### Ray:

@@ -19,7 +19,6 @@ date: 2025-09-07
 author: Lei
 speaker: 评论员
 draft: true
-file_name: global_china_research_briefing_sep_2025.md
 guest: null
 insight: null
 layout: post.njk

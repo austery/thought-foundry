@@ -25,7 +25,6 @@ date: 2025-10-05
 author: Lei
 speaker: ''
 draft: true
-file_name: ai_entrepreneurship_debrief_siyuan.md
 guest: ''
 insight: null
 layout: post.njk

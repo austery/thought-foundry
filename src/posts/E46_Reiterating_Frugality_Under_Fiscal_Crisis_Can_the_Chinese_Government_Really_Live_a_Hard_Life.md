@@ -1,4 +1,4 @@
----
+---\
 title: E46 财政危机下重提“厉行节约”，中国政府真的能过苦日子吗？
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: geopolitics
 project:
 - china-analysis
 tags:
-- 中国政治
-- 官僚体系
-- 政治
-- 视频文稿
+  - 中国政治
+  - 官僚体系
+  - 政治
 people:
   - 李厚辰
   - 伍雷
@@ -27,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 本期节目探讨中国政府在财政压力下重提“厉行节约”的背景、具体措施及其可能面临的挑战。三位讨论者结合个人经历和观察，分析了政府浪费的普遍现象，并对新政策的有效性持怀疑态度。
 
 ## 开场：财政困境与“过苦日子”的反复

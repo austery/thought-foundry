@@ -1,4 +1,4 @@
----
+---\
 title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
 summary: null
 area: tech-insights
@@ -6,10 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 就业影响
-- 科技趋势
-- 视频文稿
+  - ai
+  - 就业影响
+  - 科技趋势
 people:
   - Peter Diamandis
   - Anish Acharya
@@ -28,7 +27,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 Moonshots
 
 WTF Just Happened in Tech

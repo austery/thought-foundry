@@ -22,7 +22,6 @@ date: 2025-09-27
 author: Lei
 speaker: LT
 draft: true
-file_name: us_economic_data_trump_china_policy_sept_26.md
 guest: null
 insight: null
 layout: post.njk

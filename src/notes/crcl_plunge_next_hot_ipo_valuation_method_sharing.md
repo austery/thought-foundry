@@ -1,14 +1,13 @@
----
+---\
 title: CRCL大跌后的反思与下一个热门IPO（Figma）估值分析
 summary: 市场分析员小涛深入分析了Figma的IPO估值，认为其极具吸引力。同时解读了通用汽车和可口可乐的财报，并探讨了近期美股市场的板块轮动现象与Circle的技术面走势。
 area: null
 category: null
 project: []
 tags:
-- ipo
-- 市场轮动
-- 视频文稿
-- 财报分析
+  - ipo
+  - 市场轮动
+  - 财报分析
 people: []
 companies_orgs: []
 products_models: []
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=cu0u-aflw5w
----
+---\
 各位观众大家好，欢迎来到一个不单只聊新闻的专业日更美股频道，我是市场分析员小涛。今天为大家准备了丰富的新内容，涵盖财报、热门IPO以及个股分析。
 
 首先，财报季我们将讨论通用汽车和可口可乐两家公司。其次，正如标题所示，Circle（CRCL）今日出现下跌，如果错过了它的**IPO**（首次公开募股：指一家企业或公司第一次将它的股份向公众出售），下一个值得我们关注的IPO是哪家公司呢？稍后我将揭晓答案。最后，和大家分享一只我今天清仓的个股，并解释在何种条件下我会做出清仓决定。

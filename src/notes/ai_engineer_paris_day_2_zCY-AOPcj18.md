@@ -32,7 +32,6 @@ date: 2025-09-25
 author: Lei
 speaker: ''
 draft: true
-file_name: ai_engineer_paris_day_2_zCY-AOPcj18.md
 guest: ''
 insight: null
 layout: post.njk

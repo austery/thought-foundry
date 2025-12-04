@@ -1,12 +1,11 @@
----
+---\
 title: 安大略省的学院体系陷入困境了吗？ - 《议程》文字记录
 summary: null
 area: null
 category: null
 project: []
 tags:
-- 教育
-- 视频文稿
+  - 教育
 people: []
 companies_orgs: []
 products_models: []
@@ -20,7 +19,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 **EN Topic:** 60th Anniversary Discussion of Ontario's College System and its Current Challenges
 
 **ZH 主题：** 安大略省学院体系60周年及其当前挑战的讨论

@@ -6,10 +6,9 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 创新药物
-- 医药行业
-- 视频文稿
+  - ai
+  - 创新药物
+  - 医药行业
 people:
   - Nicolai Tangen
   - Vas Narasimhan
@@ -20,13 +19,13 @@ date: 2025-07-20
 author: Lei
 speaker: ''
 channel: null
-file_name: vas_narasimhan_novartis_ceo_innovation_ai
 guest: ''
 insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=A_z4Jow0c7A&t
 ---
+
 ## 引言：诺华及其首席执行官的独特背景
 
 **Nicolai Tangen:** Hi everyone, I'm Nicolola Tangan, the CEO of the Norwegian Sovereign Wealth Fund and today I'm in really good company with Vas Narasiman, the CEO of Novartis. Vas has one of the most fascinating backgrounds in pharma. He is a trained physician who also worked on the front lines fighting tuberculosis and malaria in developing countries before rising to lead one of the world's largest pharmaceutical companies. Uh we own 2.3% of Novartis and that's worth more than $5 billion. Roughly 10,000 Norwegian growner per Norwegian citizen. So Vas big thanks for joining us.

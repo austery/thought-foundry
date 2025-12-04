@@ -18,7 +18,6 @@ date: 2025-09-11
 author: Lei
 speaker: 大飞
 draft: true
-file_name: deconstructing_why_language_models_hallucinate.md
 guest: null
 insight: null
 layout: post.njk

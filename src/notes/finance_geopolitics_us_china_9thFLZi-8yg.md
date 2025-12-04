@@ -19,7 +19,6 @@ date: 2025-09-25
 author: Lei
 speaker: LT
 draft: true
-file_name: finance_geopolitics_us_china_9thFLZi-8yg.md
 guest: null
 insight: null
 layout: post.njk

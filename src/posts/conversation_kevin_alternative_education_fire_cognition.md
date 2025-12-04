@@ -22,7 +22,6 @@ date: 2025-09-21
 author: Lei
 speaker: ''
 draft: true
-file_name: kevin_fire_lifestyle_cognitive_enhancement.md
 guest: ''
 insight: null
 layout: post.njk

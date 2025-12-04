@@ -1,15 +1,14 @@
----
+---\
 title: 第六课：婆媳之间 上
 summary: null
 area: personal-growth
 category: lifestyle
 project: []
 tags:
-- 夫妻关系
-- 婚姻成长
-- 宗教
-- 家庭生活
-- 视频文稿
+  - 夫妻关系
+  - 婚姻成长
+  - 宗教
+  - 家庭生活
 people:
   - 林静芝
   - 李秀全
@@ -24,7 +23,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Jm_R84hY1n0
----
+---\
 ## 引言：家庭关系的探讨
 
 **李秀全:**

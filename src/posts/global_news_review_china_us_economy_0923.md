@@ -22,7 +22,6 @@ date: 2025-09-23
 author: Lei
 speaker: LT
 draft: true
-file_name: global_news_review_china_us_economy_0923.md
 guest: null
 insight: null
 layout: post.njk

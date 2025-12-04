@@ -1,4 +1,4 @@
----
+---\
 title: 逃课访谈”第三期：稳定币的现状与未来——机遇与风险
 summary: null
 area: market-analysis
@@ -6,10 +6,9 @@ category: finance
 project:
 - investment-strategy
 tags:
-- 加密货币
-- 投资
-- 稳定币
-- 视频文稿
+  - 加密货币
+  - 投资
+  - 稳定币
 people:
   - 投资TALK君
   - Ben
@@ -26,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Zpdu-DUU9fY&t
----
+---\
 ### 讲述者简介
 
 **主持人：** 播客主持人，关注加密货币与金融科技领域。

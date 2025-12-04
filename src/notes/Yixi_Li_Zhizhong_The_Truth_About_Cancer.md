@@ -1,12 +1,11 @@
----
+---\
 title: 李治中：癌症的真相
 summary: null
 area: null
 category: null
 project: []
 tags:
-- 癌症科普
-- 视频文稿
+  - 癌症科普
 people: []
 companies_orgs:
 - 一席
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Jm9n1d2G3a4
----
+---\
 ## 引言：科普的动力源于遗憾
 
 今天非常高兴来到这里。还是先自我介绍一下，我叫李治中，我的笔名是菠萝。很多人问我为什么叫菠萝，是我从来没有想过自己会出名。如果知道我会出名，我会取一个格调更高的名字。

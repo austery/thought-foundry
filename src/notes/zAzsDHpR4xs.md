@@ -55,7 +55,6 @@ media_books:
   - "《金庸小说》"
   - "《Nature Machine Learning》"
   - "《关于ChatGPT最重要的五个问题》"
-file_name: "grokking_memorization_to_generalization_zAzsDHpR4xs.md"
 draft: true
 status: "evergreen"
 ---

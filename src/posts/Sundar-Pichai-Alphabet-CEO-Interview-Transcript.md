@@ -1,4 +1,4 @@
----
+---\
 title: 桑达尔·皮查伊 (Sundar Pichai) Alphabet CEO 深度访谈逐字稿
 summary: null
 area: tech-insights
@@ -6,8 +6,7 @@ category: technology
 project:
 - ai-impact-analysis
 tags:
-- ai
-- 视频文稿
+  - ai
 people: []
 companies_orgs:
 - 谷歌
@@ -22,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----
+---\
 The All-In Interview 记录
 
 David:
