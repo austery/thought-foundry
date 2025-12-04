@@ -9,7 +9,6 @@ tags:
   - 自我接纳
   - 课题分离
   - 阿德勒心理学
-people: []
 companies_orgs: []
 products_models: []
 media_books:
@@ -18,12 +17,11 @@ date: '2025-07-10'
 author: Lei
 speaker: 一口新饭读书会
 people:
-- 陆瑶
-- 康
-- Fancy
-- Suge
-- LEI
-- Catherine
+  - 陆瑶
+  - Fancy
+  - Suge
+  - LEI
+  - Catherine
 channel: null
 guest: null
 insight: null
@@ -31,6 +29,7 @@ layout: post.njk
 series: null
 source: null
 ---
+
 ## 开场与介绍
 
 **陆瑶**
