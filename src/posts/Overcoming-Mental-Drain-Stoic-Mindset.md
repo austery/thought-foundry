@@ -1,5 +1,5 @@
 ---
-title: 视频转写报告
+title: 区分 可控与不可控
 summary: null
 area: personal-growth
 category: psychology
@@ -14,7 +14,7 @@ products_models: []
 media_books: []
 date: '2025-05-25'
 author: Lei
-speaker: 大问题阿伦
+speaker: 大问题Dialectic
 channel: null
 guest: null
 insight: null
