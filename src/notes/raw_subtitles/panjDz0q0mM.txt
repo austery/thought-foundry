@@ -1,0 +1,4708 @@
+A
+ shopper
+ grabs
+ five
+ tomatoes
+ and
+ walks
+
+
+out.
+ Who
+ knows
+ how
+ much
+ they
+ paid
+ when
+
+
+the
+ cameras
+ guess
+ wrong?
+ A
+ pizza
+ bakes
+
+
+in
+ a
+ moving
+ truck.
+ Who
+ stops
+ the
+ cheese
+
+
+from
+ sliding?
+ A
+ remastered
+ Gone
+ with
+ the
+
+
+Wind
+ hits
+ streaming.
+ Who
+ approves
+ it
+
+
+when
+ the
+ faces
+ look
+ off?
+ Automation
+
+
+works
+ well
+ when
+ there
+ is
+ an
+ army
+ of
+
+
+people
+ behind
+ it.
+ Today's
+ story
+ is
+ about
+
+
+five
+ failed
+ AI
+ pivots
+ where
+ product
+ bets
+
+
+were
+ hit
+ with
+ physics,
+ market
+ reality,
+
+
+and
+ margins.
+ We
+ will
+ study
+ five
+ big
+
+
+cases
+ where
+ the
+ unit
+ economics
+ snapped
+
+
+and
+ the
+ product
+ failed
+ and
+ figure
+ out
+
+
+what
+ we
+ can
+ learn
+ from
+ them.
+ Let's
+ dive
+
+
+in.
+
+
+Amazon's
+ just
+ walk
+ out
+ was
+ supposed
+ to
+
+
+be
+ a
+ checkout
+ free
+ project
+ at
+ grocery
+
+
+and
+ convenience
+ stores.
+ The
+ idea
+ was
+ to
+
+
+let
+ customers
+ enter
+ a
+ store,
+ pick
+ up
+ the
+
+
+items,
+ and
+ leave
+ without
+ scanning
+
+
+anything
+ or
+ stopping
+ to
+ pay
+ at
+ the
+ till.
+
+
+The
+ project
+ launched
+ in
+ 2018,
+ and
+ later
+
+
+on
+ they
+ rolled
+ it
+ out
+ in
+ Amazon
+ Go
+ and
+
+
+Amazon
+ Fresh
+ stores.
+ The
+ idea
+ was
+ to
+
+
+create
+ a
+ new
+ age
+ frictionless
+ shopping
+
+
+experience.
+ The
+ Just
+ Walk
+ Out
+ project
+
+
+was
+ the
+ first
+ example
+ of
+ a
+ massive
+
+
+investment
+ in
+ AI
+ retail
+ automation,
+ but
+
+
+nevertheless,
+ the
+ company
+ retired
+ the
+
+
+system
+ from
+ its
+ stores
+ in
+ 2024.
+
+
+Let's
+ understand
+ why.
+ Amazon
+ reportedly
+
+
+spend
+ around
+ $1
+ million
+ annually
+ on
+ Just
+
+
+Walkout
+ between
+ 2019
+ and
+ 2020.
+ This
+
+
+investment
+ covered
+ all
+ R&D
+ and
+ capital
+
+
+expenses.
+ Now,
+ how
+ much
+ is
+ it?
+ a
+ billion
+
+
+dollars.
+ Is
+ it
+ a
+ lot
+ or
+ is
+ it
+ a
+ little?
+
+
+The
+ implementation
+ of
+ this
+ system
+ in
+
+
+large
+ supermarkets
+ required
+ from
+ 10
+ to
+
+
+15
+ million
+ per
+ store,
+ which
+ is
+ far
+ above
+
+
+traditional
+ checkout
+ systems.
+ Behind
+ the
+
+
+automation
+ curtain,
+ Amazon
+ hired
+ more
+
+
+than
+ 1,000
+ people
+ in
+ India
+ labeling
+
+
+videos
+ in
+ real
+ time.
+ That
+ human
+ layer
+
+
+kept
+ things
+ accurate,
+ but
+ it
+ also
+
+
+destroyed
+ the
+ margins.
+ The
+ cost
+ of
+
+
+processing
+ data
+ and
+ fixing
+ mistakes
+
+
+outpaced
+ a
+ normal
+ retail
+ operation,
+
+
+especially
+ in
+ big
+ box
+ stores
+ with
+
+
+complex
+ product
+ mixes.
+ It
+ is
+ a
+ lot
+
+
+easier
+ to
+ implement
+ a
+ system
+ like
+ this
+
+
+at
+ a
+ convenience
+ store
+ like
+ Amazon
+ Go
+ or
+
+
+Amazon
+ Fresh.
+ And
+ the
+ reason
+ for
+ that
+ is
+
+
+because
+ the
+ product
+ mix
+ and
+ the
+ possible
+
+
+combination
+ of
+ products
+ at
+ those
+ stores
+
+
+are
+ quite
+ limited.
+ Now,
+ if
+ you
+ think
+
+
+about
+ a
+ store
+ like
+ Walmart,
+ for
+ example,
+
+
+you
+ can
+ get
+ a
+ few
+ tomatoes
+ that
+ need
+ to
+
+
+be
+ weighted.
+ You
+ can
+ get
+ a
+ box
+ of
+
+
+tomatoes
+ that
+ needs
+ to
+ be
+ scanned
+ and
+
+
+perhaps
+ a
+ pillow
+ that
+ is
+ 25%
+ off
+ if
+ you
+
+
+get
+ a
+ toaster
+ by
+ the
+ end
+ of
+ the
+ week.
+
+
+When
+ you
+ work
+ with
+ a
+ product
+ mix
+ like
+
+
+that,
+ and
+ that's
+ just
+ a
+ tiny
+ example,
+
+
+Amazon's
+ just
+ walk
+ out
+ starts
+ to
+ produce
+
+
+a
+ lot
+ of
+ errors,
+ which
+ is
+ why
+ they
+
+
+struggled
+ with
+ the
+ adoption
+ among
+ the
+
+
+large
+ stores.
+ It
+ was
+ estimated
+ that
+ up
+
+
+to
+ 70%
+ of
+ transactions
+ required
+ human
+
+
+intervention.
+ The
+ labor
+ cost
+ savings
+
+
+expected
+ from
+ removing
+ cashiers
+ were
+
+
+wiped
+ out
+ by
+ the
+ substantial
+ off-site
+
+
+human
+ operation.
+ And
+ if
+ you
+ think
+ about
+
+
+it,
+ the
+ need
+ to
+ have
+ the
+ humans
+ behind
+
+
+it
+ really
+ defeats
+ the
+ purpose
+ of
+
+
+automation
+ in
+ the
+ first
+ place.
+ The
+
+
+project
+ also
+ required
+ lots
+ of
+ hardware,
+
+
+thousands
+ of
+ cameras,
+ shelf
+ sensors,
+ a
+
+
+backend
+ infrastructure
+ for
+ computer
+
+
+vision
+ and
+ AI,
+ all
+ of
+ which
+ resulted
+ in
+
+
+high
+ setup
+ and
+ maintenance
+ costs.
+ In
+
+
+this
+ business
+ model,
+ stores
+ would
+ have
+
+
+needed
+ to
+ dramatically
+ increase
+ sales
+ to
+
+
+offset
+ capital
+ and
+ operational
+ expenses.
+
+
+And
+ that
+ was
+ the
+ threshold
+ that
+ Amazon
+
+
+never
+ met.
+ The
+ end
+ result,
+ Amazon
+
+
+continues
+ using
+ this
+ project
+ and
+ smaller
+
+
+Amazon
+ Go
+ stores,
+ but
+ they
+ have
+
+
+abandoned
+ the
+ grocery
+ store
+ application.
+
+
+You
+ know
+ how
+ every
+ meeting
+ ends
+ in
+ the
+
+
+same
+ way.
+ 10
+ people
+ nod,
+ three
+ people
+
+
+take
+ notes,
+ and
+ only
+ one
+ remembers
+ what
+
+
+got
+ decided.
+ If
+ you're
+ lucky,
+ you
+ might
+
+
+say,
+ "But
+ costs
+ get
+ recorded."
+ Now,
+
+
+sure,
+ if
+ you're
+ paying
+ for
+ those
+
+
+recordings,
+ and
+ even
+ if
+ you
+ do,
+ what
+
+
+happens
+ after?
+ You've
+ got
+ a
+ pile
+ of
+ text
+
+
+that
+ you
+ still
+ need
+ to
+ do
+ something
+
+
+with,
+ creating
+ action
+ items,
+ updating
+
+
+tickets,
+ drafting
+ follow-ups,
+ or
+
+
+cleaning
+ up
+ the
+ chaos.
+ And
+ this
+ is
+ why
+
+
+we
+ partnered
+ with
+ Radiant,
+ because
+ in
+ a
+
+
+world
+ where
+ you're
+ paying
+ for
+ every
+
+
+single
+ app,
+ the
+ smartest
+ move
+ is
+ to
+ pay
+
+
+for
+ one
+ that
+ replaces
+ five.
+ And
+ Radiant
+
+
+is
+ actually
+ totally
+ free
+ while
+ it's
+ in
+
+
+beta,
+ so
+ you
+ don't
+ have
+ to
+ pay
+ for
+
+
+anything
+ at
+ all.
+ I
+ personally
+ love
+ tools
+
+
+that
+ work
+ across
+ multiple
+ platforms.
+
+
+It's
+ a
+ lot
+ cleaner.
+ It
+ gets
+ you
+ the
+ best
+
+
+value
+ for
+ your
+ money,
+ and
+ you
+ don't
+ have
+
+
+to
+ remember
+ which
+ app
+ handles
+ what.
+
+
+Radiant
+ is
+ an
+ AI
+ meeting
+ assistant
+ that
+
+
+captures
+ your
+ calls,
+ converts
+ them
+ into
+
+
+notes,
+ and
+ then
+ turns
+ those
+ notes
+ into
+
+
+completed
+ actions.
+ Slack
+ messages,
+
+
+project
+ updates,
+ backlog
+ tickets,
+
+
+drafted
+ documents,
+ and
+ even
+ prototypes.
+
+
+And
+ it
+ works
+ across
+ Zoom,
+ Teams,
+ Google
+
+
+Meet,
+ Notion,
+ Cursor,
+ Lovable,
+ Asana,
+
+
+ClickUp,
+ and
+ so
+ many
+ more.
+ So
+ your
+
+
+follow-ups
+ appear
+ exactly
+ where
+ you
+
+
+already
+ work.
+ Radiant
+ is
+ not
+ a
+ bot
+ that
+
+
+joins
+ your
+ calls.
+ It
+ runs
+ silently
+ in
+
+
+the
+ background
+ and
+ stores
+ your
+
+
+transcripts
+ locally
+ for
+ privacy
+ so
+ that
+
+
+they
+ never
+ leave
+ your
+ device.
+ Radiant
+
+
+takes
+ care
+ of
+ the
+ admin
+ work
+ that
+ drains
+
+
+your
+ time.
+ And
+ instead
+ of
+ dumping
+ a
+ pile
+
+
+of
+ text
+ on
+ you
+ after
+ the
+ meeting,
+ it
+
+
+immediately
+ takes
+ action.
+ It's
+ available
+
+
+for
+ M1
+ and
+ newer
+ Macs.
+ And
+ it
+ already
+
+
+feels
+ like
+ a
+ glimpse
+ of
+ what
+ future
+ of
+
+
+workplace
+ AI
+ should
+ feel
+ like.
+
+
+Multi-functional,
+ crossplatform,
+
+
+invisible,
+ and
+ secure.
+ So,
+ if
+ you
+ want
+
+
+to
+ know
+ what
+ it
+ feels
+ like
+ to
+ have
+ your
+
+
+meetings
+ end
+ and
+ your
+ work
+ is
+ already
+
+
+done,
+ check
+ out
+ Radiant
+ using
+ the
+ link
+
+
+below.
+ No
+ bots,
+ no
+ setups,
+ just
+ results.
+
+
+Huge
+ thanks
+ to
+ Radiant
+ for
+ sponsoring
+
+
+this
+ part
+ of
+ the
+ video.
+
+
+Moving
+ on
+ to
+ IBM's
+ Watson
+ Health.
+ IBM's
+
+
+Watson
+ Health
+ is
+ perhaps
+ the
+ most
+
+
+expensive
+ AI
+ pivot
+ failure
+ in
+ corporate
+
+
+history.
+ The
+ one
+ that
+ has
+ burned
+ through
+
+
+four
+ to
+ five
+ billion
+ dollars
+ in
+ cash
+
+
+over
+ a
+ decade.
+ And
+ in
+ the
+ end,
+ it
+ ended
+
+
+up
+ being
+ sold
+ for
+ a
+ fraction
+ of
+ the
+
+
+money
+ that
+ was
+ invested.
+ IBM
+ is
+ an
+
+
+example
+ of
+ how
+ AI
+ marketing
+ can
+ outpace
+
+
+technological
+ reality.
+ IBM's
+ failure
+ is
+
+
+rooted
+ in
+ extremely
+ high
+ operational
+
+
+costs,
+ deeply
+ flawed
+ unit
+ economics,
+ and
+
+
+glaring
+ gaps
+ between
+ AI
+ promise
+ and
+
+
+practical
+ medical
+ results.
+ IBM
+
+
+positioned
+ its
+ product
+ Watson
+ as
+ a
+
+
+revolutionary
+ cancer
+ diagnosis
+
+
+technology.
+ They
+ also
+ partnered
+ with
+ MD
+
+
+Anderson
+ Cancer
+ Center.
+ Now,
+ if
+ you
+
+
+aren't
+ familiar
+ with
+ the
+ world
+ of
+ cancer
+
+
+care,
+ MD
+ Anderson
+ is
+ a
+ pretty
+ big
+ deal.
+
+
+The
+ promise
+ was
+ ambitious.
+ AI
+ that
+ could
+
+
+analyze
+ vast
+ amounts
+ of
+ medical
+
+
+literature
+ and
+ patient
+ data
+ to
+ recommend
+
+
+personalized
+ and
+ tailored
+ cancer
+ care.
+
+
+Onto
+ the
+ unit
+ economics
+ and
+ costs.
+ IBM
+
+
+spent
+ an
+ estimated
+ $5
+ billion
+ on
+
+
+healthcare
+ acquisitions.
+ And
+ that
+ was
+
+
+done
+ with
+ a
+ goal
+ to
+ feed
+ Watson's
+ AI
+
+
+engine
+ with
+ data.
+ At
+ its
+ peak,
+ Watson
+
+
+Health
+ employed
+ more
+ than
+ 7,000
+ people
+
+
+of
+ various
+ medical
+ and
+ scientific
+
+
+specialties,
+ which
+ meant
+ a
+ massive
+ fixed
+
+
+cost
+ spent
+ in
+ salaries,
+ technical
+ teams,
+
+
+and
+ support
+ staff.
+ Watson's
+ cost
+ per
+ one
+
+
+oncology
+ diagnosis
+ or
+ support
+ case
+ was
+
+
+reportedly
+ much
+ higher
+ than
+ usual.
+ And
+
+
+on
+ the
+ consumer
+ side,
+ consumer
+ being
+ a
+
+
+hospital,
+ the
+ product
+ ended
+ up
+ being
+
+
+very
+ expensive
+ to
+ purchase
+ and
+ maintain
+
+
+with
+ no
+ clear
+ ROI
+ and
+ most
+ importantly
+
+
+no
+ proven
+ clinical
+ benefit.
+ The
+ MD
+
+
+Anderson
+ Cancer
+ Care
+ Partnership
+ alone
+
+
+consumed
+ $62
+ million
+ without
+ producing
+ a
+
+
+deployable
+ product.
+ Watson
+ Health's
+
+
+implementation
+ at
+ hospitals
+ was
+ often
+ in
+
+
+the
+ millions
+ per
+ contract
+ but
+ required
+
+
+additional
+ budget
+ for
+ ongoing
+ support
+
+
+customization
+ and
+ integration
+ with
+
+
+electronic
+ health
+ records
+ and
+ electronic
+
+
+health
+ records
+ is
+ the
+ backbone
+ of
+ any
+
+
+hospital.
+ Most
+ hospital
+ deployments
+
+
+required
+ custom
+ configuration
+ because
+
+
+Watson
+ struggled
+ with
+ unstructured
+
+
+patient
+ data.
+ System
+ costs
+ grew
+ faster
+
+
+than
+ revenues.
+ IBM
+ never
+ scaled
+ Watson
+
+
+Health
+ to
+ profitability.
+ Their
+ peak
+
+
+financial
+ performance
+ was
+ when
+ they
+
+
+broke
+ even
+ by
+ slashing
+ jobs
+ and
+
+
+eventually
+ selling
+ the
+ unit
+ for
+ about
+ $1
+
+
+billion,
+ which
+ is
+ the
+ loss
+ of
+ about
+ 80%
+
+
+of
+ investment.
+ So
+ why
+ did
+ it
+ fail?
+
+
+What's
+ in
+ health
+ is
+ an
+ example
+ of
+ a
+
+
+fundamental
+ misalignment
+ between
+ AI
+
+
+expectations
+ and
+ the
+ reality
+ of
+ a
+
+
+medical
+ practice.
+ IBM's
+ marketing
+
+
+promised
+ revolutionary
+ breakthroughs
+ the
+
+
+technology
+ couldn't
+ deliver.
+ They
+ did
+
+
+not
+ account
+ for
+ realworld
+ messy
+ patient
+
+
+records
+ and
+ contextrich
+ doctor's
+ notes.
+
+
+Watson
+ could
+ only
+ analyze
+ well
+
+
+ststructured
+ data.
+ A
+ minority
+ at
+ most
+
+
+hospital
+ databases.
+ Doctors,
+ the
+
+
+ultimate
+ users
+ of
+ Watson,
+ found
+ it
+ hard
+
+
+to
+ use
+ and
+ often
+ preferred
+ their
+ own
+
+
+expertise.
+ All
+ of
+ this
+ resulted
+ in
+ many
+
+
+abandoned
+ deployments
+ after
+ months
+ of
+
+
+frustration
+ with
+ complicated
+ interfaces
+
+
+and
+ most
+ importantly
+ unreliable
+
+
+recommendation
+ system.
+ And
+ on
+ top
+ of
+
+
+that,
+ privacy
+ concerns
+ and
+ multiaceted
+
+
+healthcare
+ laws
+ were
+ not
+ addressed
+ by
+
+
+the
+ product.
+ In
+ the
+ meantime,
+ Oracle
+ and
+
+
+Microsoft
+ took
+ advantage
+ of
+ the
+ fact
+
+
+that
+ IBM
+ was
+ distracted
+ by
+ Watson's
+
+
+complexity
+ and
+ issues
+ and
+ decided
+ to
+
+
+make
+ large
+ and
+ focused
+ acquisitions
+ that
+
+
+yielded
+ clear
+ enterprise
+ value.
+ End
+
+
+result,
+ by
+ 2021,
+ Watson
+ Health
+ became
+
+
+unprofitable,
+ which
+ prompted
+ IBM
+ to
+ sell
+
+
+it.
+ All
+ in
+ all,
+ what's
+ in
+ health
+
+
+enormous
+ losses
+ were
+ a
+ result
+ of
+
+
+unrealistic
+ expectations
+ from
+ AI,
+
+
+unchecked
+ spending,
+ hight
+ touch
+
+
+implementations,
+ and
+ AI
+ that
+ never
+
+
+matched
+ its
+ marketing
+ narrative,
+ and
+ the
+
+
+needs
+ of
+ clinical
+ medicine.
+
+
+Moving
+ on
+ to
+ Netflix,
+ AI
+ content
+
+
+upscaling.
+ In
+ early
+ 2025,
+ Netflix
+ pushed
+
+
+to
+ use
+ AI
+ for
+ content
+ enhancement
+ and
+
+
+upscaling,
+ which
+ draw
+ a
+ lot
+ of
+ attention
+
+
+and
+ multiple
+ controversies,
+ especially
+
+
+around
+ the
+ mangled
+ restoration
+ of
+
+
+classic
+ shows.
+ Customer
+ backlash
+ has
+
+
+been
+ intense
+ and
+ on
+ top
+ of
+ this,
+ their
+
+
+use
+ of
+ AI
+ triggered
+ broader
+ questions
+
+
+raised
+ about
+ the
+ role
+ of
+ artificial
+
+
+intelligence
+ in
+ media
+ and
+ specifically
+
+
+in
+ media
+ preservation,
+ content
+ quality,
+
+
+and
+ authenticity.
+ Netflix
+ is
+ a
+ prime
+
+
+example
+ of
+ PR
+ crisis
+ around
+ AI.
+ Let's
+
+
+look
+ at
+ what
+ happened.
+ Netflix
+ used
+ AI
+
+
+upscaling
+ to
+ convert
+ older,
+ lower
+
+
+resolution
+ television
+ shows
+ to
+ high
+
+
+definition,
+ notably
+ A
+ different
+ world.
+
+
+What
+ they
+ did
+ is
+ that
+ they
+ bypassed
+
+
+traditional
+ manual
+ remastering
+ that
+
+
+requires
+ original
+ film
+ negatives
+ and
+
+
+detailed
+ human
+ restoration
+ work.
+ The
+
+
+goal
+ behind
+ this
+ move
+ was
+ rapid,
+
+
+cost-effective
+ restoration
+ of
+ old
+ film.
+
+
+But
+ as
+ it
+ turned
+ out,
+ AI
+ really
+
+
+struggled
+ with
+ grainy
+ source
+ materials.
+
+
+It
+ produced
+ lots
+ of
+ distorted
+ visuals,
+
+
+blurred
+ faces,
+ overly
+ smooth
+ textures,
+
+
+and
+ extremely
+ distorted
+ and
+ unrealistic
+
+
+backgrounds.
+ Netflix
+ also
+ faced
+ massive
+
+
+backlash
+ when
+ fans
+ discovered
+ AI
+
+
+generated
+ promotional
+ posters
+ for
+ Arcane
+
+
+season
+ 2.
+ Those
+ posters
+ included
+
+
+telltale
+ signs
+ of
+ artificial
+ generation
+
+
+included
+ distorted
+ anatomy
+ and
+ unnatural
+
+
+details.
+ The
+ controversy
+ reached
+ 6
+
+
+million
+ viewers
+ and
+ forced
+ Netflix
+ to
+
+
+remove
+ the
+ content.
+ In
+ Netflix's
+ case,
+
+
+unlike
+ Amazon
+ Just
+ Walk
+ Out
+ or
+ IBM
+
+
+Watson,
+ it's
+ less
+ about
+ lost
+ revenue
+ or
+
+
+burned
+ cash
+ and
+ a
+ lot
+ more
+ about
+ damaged
+
+
+customer
+ trust
+ and
+ brand
+ perception.
+
+
+Let's
+ go
+ through
+ the
+ unit
+ economics
+ of
+
+
+this
+ move.
+ If
+ we
+ put
+ ourselves
+ in
+ the
+
+
+shoes
+ of
+ Netflix
+ and
+ look
+ at
+ it
+ from
+ the
+
+
+business
+ perspective,
+ it
+ makes
+ sense
+ to
+
+
+try
+ AI
+ and
+ use
+ it
+ for
+ content
+ upscaling
+
+
+because
+ manual
+ remastering
+ is
+ very
+
+
+expensive
+ and
+ slow.
+ And
+ if
+ there
+ is
+ a
+
+
+part
+ of
+ it
+ that
+ can
+ be
+ restored
+ by
+ a
+
+
+model
+ so
+ you
+ can
+ delegate
+ the
+ most
+
+
+delicate
+ work
+ to
+ an
+ experienced
+
+
+professional,
+ why
+ not
+ do
+ it?
+ AI
+
+
+upscaling
+ can
+ process
+ large
+ libraries
+ at
+
+
+scale
+ with
+ minimum
+ labor.
+ Netflix
+
+
+invested
+ heavily
+ in
+ machine
+ learning
+ for
+
+
+video
+ restoration
+ and
+ the
+ key
+ goal
+ was
+
+
+to
+ reduce
+ the
+ per
+ title
+ cost.
+ But
+ in
+ my
+
+
+opinion,
+ it's
+ one
+ of
+ those
+ things
+ that
+
+
+need
+ to
+ be
+ done
+ in
+ a
+ waterfall
+ sequence.
+
+
+It
+ only
+ works
+ when
+ it's
+ done
+ well
+
+
+because
+ when
+ it
+ fails,
+ the
+ brand
+ damage
+
+
+and
+ customer
+ dissatisfaction
+ offset
+
+
+those
+ savings
+ 10fold.
+ So
+ why
+ did
+ it
+
+
+fail?
+ The
+ models
+ that
+ Netflix
+ deployed
+
+
+couldn't
+ faithfully
+ recreate
+ the
+
+
+artistic
+ intent,
+ colors,
+ or
+ subtle
+
+
+details
+ of
+ the
+ original
+ footage.
+ Instead
+
+
+of
+ enhancing
+ nostalgia,
+ that
+ is
+ actually
+
+
+very
+ much
+ a
+ trend,
+ especially
+ among
+ Gen
+
+
+Z,
+ with
+ non-conforming
+ anti-perfect
+
+
+aesthetics,
+ it
+ alienated
+ longtime
+ fans.
+
+
+Another
+ curious
+ thing
+ is
+ that
+ the
+
+
+critical
+ flaws
+ with
+ the
+ upscaled
+ content
+
+
+like
+ garble
+ text,
+ cut
+ off
+ scenes,
+
+
+blurred
+ faces,
+ all
+ of
+ them
+ pass
+
+
+Netflix's
+ quality
+ checks.
+ And
+ that
+ in
+
+
+turn
+ signals
+ extreme
+ over
+ reliance
+ on
+
+
+algorithmic
+ solutions
+ and
+ the
+ absolute
+
+
+need
+ for
+ human
+ oversight.
+ AI
+ was
+ used
+
+
+not
+ just
+ in
+ upscaling
+ but
+ also
+ to
+
+
+manipulate
+ actors
+ mouth
+ movements
+ and
+
+
+dubbed
+ films
+ which
+ in
+ turn
+ raised
+
+
+broader
+ ethical
+ concerns
+ over
+ artistic
+
+
+integrity
+ and
+ performer
+ rights.
+ This
+ was
+
+
+not
+ the
+ first
+ time
+ when
+ Netflix
+ faced
+
+
+backlash
+ for
+ AI
+ generated
+ visuals
+ in
+
+
+original
+ documentaries
+ and
+ marketing
+
+
+which
+ they
+ did
+ not
+ adequately
+ address.
+
+
+All
+ in
+ all,
+ to
+ me,
+ this
+ is
+ a
+ PR
+ failure,
+
+
+even
+ more
+ so
+ than
+ the
+ technical.
+
+
+Technical,
+ too,
+ for
+ sure,
+ but
+ mostly
+ PR.
+
+
+This
+ entire
+ situation
+ has
+ triggered
+
+
+industry-wide
+ debate
+ on
+ the
+ limits
+ of
+
+
+automation
+ in
+ creative
+ media.
+ So,
+ this
+
+
+is
+ a
+ lot
+ more
+ than
+ just
+ Netflix,
+ meaning
+
+
+this
+ whole
+ situation
+ had
+ an
+
+
+industry-wide
+ impact.
+
+
+Moving
+ on
+ to
+ Zoom
+ Pizza.
+ Zoom
+ Pizza
+ was
+
+
+an
+ ambitious
+ softbankbacked
+
+
+startup
+ whose
+ ambition
+ was
+ to
+
+
+revolutionize
+ pizza
+ delivery.
+ Their
+
+
+vision
+ was
+ to
+ cook
+ pizzas
+ inside
+ trucks
+
+
+and
+ deliver
+ them
+ to
+ customers
+ homes
+ much
+
+
+faster
+ than
+ any
+ other
+ traditional
+ pizza
+
+
+chain.
+ Trucks
+ were
+ filled
+ with
+ dozens
+ of
+
+
+internet
+ connected
+ ovens.
+ Orders
+ were
+
+
+placed
+ through
+ the
+ app.
+ Ingredients
+ and
+
+
+toppings
+ were
+ robotically
+ assembled,
+
+
+although
+ some
+ human
+ workers
+ did
+ some
+
+
+prep.
+ And
+ pizzas
+ were
+ cooked
+ just
+ before
+
+
+delivery
+ arrival.
+ The
+ goal
+ was
+ maximum
+
+
+freshness
+ and
+ efficiency.
+ But
+ there
+ was
+
+
+one
+ painfully
+ simple
+ problem
+ that
+ sort
+
+
+of
+ killed
+ the
+ business.
+ Cheese
+ kept
+
+
+sliding
+ off
+ pizzas
+ while
+ they
+ were
+
+
+cooked
+ and
+ moving
+ trucks.
+ If
+ you're
+
+
+thinking
+ that
+ it
+ doesn't
+ sound
+ like
+ a
+
+
+big
+ problem,
+ why
+ close
+ the
+ entire
+
+
+business
+ because
+ of
+ the
+ cheese?
+ I'd
+ like
+
+
+to
+ argue
+ and
+ say
+ that
+ on
+ the
+ surface
+ it
+
+
+actually
+ does
+ sound
+ like
+ a
+ good
+ idea.
+ I
+
+
+understand
+ why
+ they
+ got
+ funding,
+ but
+ I
+
+
+would
+ like
+ to
+ invite
+ you
+ to
+ play
+ product
+
+
+management
+ 101
+ with
+ me
+ and
+ really
+
+
+understand
+ the
+ problem.
+ But
+ before
+ we
+ go
+
+
+there,
+ unit
+ economics
+ and
+ cost
+
+
+breakdown.
+ Zoom's
+ entire
+ automation
+ bet
+
+
+was
+ based
+ on
+ staggering
+ capital
+ and
+
+
+operational
+ costs
+ in
+ an
+ industry
+ known
+
+
+for
+ very
+ tight
+ margins.
+ They
+ raised
+ $445
+
+
+million
+ from
+ Soft
+ Bank,
+ but
+ they
+ did
+ not
+
+
+do
+ a
+ due
+ diligence
+ calculating
+
+
+operational
+ costs.
+ Zoom
+ had
+ one
+
+
+fundamental
+ flaw.
+ Despite
+ hundreds
+ of
+
+
+millions
+ in
+ funding
+ and
+ teams
+ of
+
+
+engineers,
+ Zoom
+ forgot
+ about
+ the
+ physics
+
+
+of
+ cooking
+ pizza
+ and
+ moving
+ vehicles.
+
+
+And
+ when
+ the
+ business
+ began
+ operating,
+
+
+the
+ cheese
+ was
+ simply
+ sliding
+ off.
+ They
+
+
+had
+ teams
+ of
+ engineers
+ trying
+ to
+ solve
+
+
+the
+ cheese
+ problem
+ after
+ years
+ of
+ R&D.
+
+
+But
+ the
+ entire
+ operation
+ got
+ essentially
+
+
+defeated
+ by
+ simple
+ physics
+ and
+ realworld
+
+
+conditions
+ that
+ robots
+ could
+ not
+
+
+overcome.
+ Zoom's
+ trucks
+ cost
+ millions
+ to
+
+
+design
+ and
+ build.
+ with
+ each
+ truck
+
+
+fitting
+ 56
+ mini
+ ovens
+ and
+ was
+ supplied
+
+
+with
+ highly
+ advanced
+ GPS-driven
+
+
+scheduling.
+ Now,
+ I
+ haven't
+ found
+ a
+ lot
+
+
+of
+ data
+ on
+ the
+ whole
+ thermo
+ isolation
+
+
+piece
+ of
+ it.
+ But
+ can
+ you
+ imagine
+ having
+
+
+a
+ truck
+ full
+ of
+ gas
+ with
+ 56
+ working
+
+
+ovens
+ inside
+ of
+ it?
+ Ingredient
+ costs
+
+
+were
+ around
+ $6
+ per
+ pizza
+ and
+ the
+ selling
+
+
+price
+ was
+ set
+ at
+ $18
+ or
+ more
+ per
+ pizza.
+
+
+Now,
+ the
+ price,
+ in
+ my
+ opinion,
+ is
+
+
+actually
+ quite
+ competitive.
+ Yeah,
+ it's
+
+
+not
+ cheap,
+ but
+ it
+ is
+ a
+ typical
+ price
+ of
+
+
+a
+ restaurant
+ quality
+ pizza.
+ Soft
+ Bank
+
+
+invested
+ $375
+ million
+ in
+ 2018
+ and
+ valued
+
+
+Zoom
+ at
+ $2.25
+ billion
+ based
+ on
+ visions
+
+
+of
+ becoming
+ the
+ Amazon
+ of
+ pizzas.
+ They
+
+
+saw
+ Zoom
+ as
+ part
+ of
+ their
+ strategic
+
+
+portfolio
+ alongside
+ food
+ delivery
+
+
+companies
+ like
+ Uber.
+ Now,
+ Zoom
+ had
+ other
+
+
+investors
+ as
+ well,
+ but
+ the
+ largest
+ sum
+
+
+came
+ from
+ SoftBank.
+ For
+ Soft
+ Bank,
+ the
+
+
+investment
+ became
+ a
+ complete
+ loss
+
+
+because
+ Zoom
+ shut
+ down
+ in
+ 2023.
+ They
+
+
+tried
+ to
+ make
+ a
+ pivot
+ by
+ 2020.
+ They
+
+
+abandoned
+ the
+ pizza
+ delivery
+ service
+ as
+
+
+a
+ whole
+ and
+ pivoted
+ to
+ sustainable
+
+
+packaging
+ manufacturing
+ using
+ the
+ very
+
+
+robots
+ that
+ they
+ already
+ paid
+ for.
+
+
+Investor
+ pressure,
+ especially
+ from
+ Soft
+
+
+Bank,
+ led
+ them
+ to
+ scale
+ prematurely
+ and
+
+
+make
+ an
+ aggressive
+ pivot
+ into
+ unrelated
+
+
+packaging
+ and
+ logistics
+ industry,
+ which
+
+
+kept
+ burning
+ cash
+ without
+ any
+ sight
+ of
+
+
+product
+ market
+ fit.
+ End
+ result,
+ Zoom's
+
+
+failure
+ demonstrates
+ how
+ fundamental
+
+
+physics
+ can
+ defeat
+ all
+ kinds
+ of
+
+
+sophisticated
+ AI
+ and
+ robots.
+ Now,
+ let's
+
+
+come
+ back
+ to
+ Product
+ Management
+ 101
+ for
+
+
+a
+ second
+ and
+ realize
+ that
+ they
+ created
+ a
+
+
+business
+ around
+ a
+ problem
+ that
+ didn't
+
+
+really
+ exist.
+ When
+ doing
+ research
+ for
+
+
+this
+ video,
+ I
+ found
+ this
+ awesome,
+ very
+
+
+niche
+ YouTube
+ channel
+ that
+ talks
+ about
+
+
+how
+ to
+ start
+ and
+ operate
+ pizza
+
+
+businesses
+ and
+ they
+ explain
+ this
+ very
+
+
+problem
+ as
+ people
+ who
+ specialize
+ in
+
+
+pizza
+ business.
+ The
+ thing
+ is,
+ pizza
+
+
+delivery
+ service
+ as
+ we
+ know
+ it
+ works
+
+
+fine.
+ It's
+ not
+ ideal,
+ but
+ it's
+ good
+
+
+enough.
+ And
+ there
+ isn't
+ enough
+ evidence
+
+
+for
+ a
+ service
+ gap
+ that
+ Zoom
+ set
+ out
+ to
+
+
+fix.
+ Zoom's
+ focus
+ on
+ technology
+ over
+
+
+basic
+ product
+ quality
+ created
+ an
+
+
+unscalable
+ business
+ model.
+ They
+ went
+
+
+into
+ aggressive
+ expansion
+ without
+
+
+validating
+ their
+ business
+ model
+ and
+
+
+product
+ in
+ initial
+ markets.
+ I'm
+ frankly
+
+
+extremely
+ surprised
+ how
+ this
+ problem
+ did
+
+
+not
+ come
+ up
+ in
+ initial
+ testing.
+ But
+ if
+
+
+the
+ initial
+ testing
+ never
+ happened,
+ then
+
+
+that
+ would
+ answer
+ my
+ question.
+
+
+And
+ lastly,
+ Quibby,
+ the
+ 1.75
+ billion
+
+
+short
+ form
+ streaming
+ disaster.
+ Quibby
+
+
+was
+ a
+ short
+ form
+ video
+ streaming
+
+
+platform
+ in
+ early
+ 2020s.
+ They
+ raised
+
+
+approximately
+ $1.75
+ billion
+ from
+
+
+investors
+ before
+ launching
+ in
+ April
+ 2020
+
+
+and
+ shutting
+ down
+ in
+ December
+ 2020.
+ The
+
+
+company
+ was
+ alive
+ for
+ 6
+ months.
+ Quibby
+
+
+is
+ probably
+ the
+ fastest
+ and
+ the
+ most
+
+
+expensive
+ content
+ platform
+ failure.
+ And
+
+
+the
+ core
+ theme
+ here
+ is
+ that
+ they
+ failed
+
+
+to
+ understand
+ how
+ people
+ consume
+ mobile
+
+
+content.
+ This
+ is
+ definitely
+ the
+ fastest
+
+
+failure
+ given
+ the
+ funding
+ of
+ all
+ the
+
+
+companies
+ that
+ we
+ covered
+ today.
+ Let's
+
+
+understand
+ why.
+ Quibby
+ raised
+ funds
+
+
+through
+ multiple
+ rounds
+ and
+ multiple
+
+
+investors.
+ They
+ were
+ backed
+ by
+ top
+ tier
+
+
+Hollywood
+ studios.
+ NBC,
+ Sony,
+ Warner
+
+
+Brothers,
+ Lionsgate,
+ MGM,
+ tech
+ firms
+
+
+like
+ Alibaba,
+ and
+ investors
+ like
+ Goldman
+
+
+Sachs
+ and
+ JP
+ Morgan.
+ The
+ company
+ spent
+
+
+lavishly
+ on
+ content
+ production.
+ Budgets
+
+
+reached
+ up
+ to
+ $100,000
+ per
+ minute
+ for
+
+
+original
+ scripted
+ shows.
+ They
+ produced
+ a
+
+
+wide
+ range
+ of
+ original
+ short
+ form
+
+
+content
+ with
+ a
+ heavy
+ focus
+ on
+ high
+ value
+
+
+production
+ and
+ big
+ Hollywood
+ talent.
+
+
+Given
+ that
+ they
+ were
+ on
+ the
+ market
+ for
+
+
+six
+ months,
+ they've
+ got
+ quite
+ a
+ few
+
+
+shows
+ under
+ their
+ belt.
+ Quibby
+ invested
+
+
+heavily
+ in
+ content,
+ announcing
+ plans
+ to
+
+
+spend
+ over
+ $1.1
+ billion
+ on
+ original
+
+
+programming
+ during
+ its
+ first
+ year
+ of
+
+
+operation.
+ prestigious
+ filmmakers
+ and
+
+
+stars
+ signed
+ on,
+ and
+ many
+ shows
+ had
+
+
+massive
+ production
+ budgets,
+ very
+ much
+
+
+comparable
+ to
+ high-end
+ cable
+ TV
+ and
+ even
+
+
+Netflix
+ originals.
+ Advertising
+ spending
+
+
+reached
+ $63
+ million
+ in
+ just
+ 6
+ months
+ of
+
+
+operations.
+ But
+ despite
+ all
+ of
+ that,
+
+
+Quibby's
+ revenue
+ from
+ subscriptions
+ and
+
+
+ads
+ was
+ $7
+ million,
+ and
+ advertiser
+
+
+payments
+ started
+ being
+ deferred
+ due
+ to
+
+
+low
+ viewership.
+ So,
+ let's
+ talk
+ about
+
+
+what
+ went
+ wrong.
+ The
+ biggest
+ theme
+ with
+
+
+Quibby
+ is
+ that
+ they
+ really
+ misunderstood
+
+
+the
+ market.
+ Quibby's
+ executives
+ believe
+
+
+that
+ people
+ wanted
+ high
+ quality
+ short
+
+
+form
+ content
+ for
+ commuting,
+ but
+ they
+
+
+launched
+ in
+ 2020
+ when
+ commuting
+
+
+disappeared.
+ The
+ service
+ charged
+ from
+ $5
+
+
+to
+ 7
+ for
+ content
+ that
+ users
+ could
+ get
+
+
+free
+ on
+ Tik
+ Tok
+ or
+ YouTube.
+ Now,
+ another
+
+
+problem
+ is
+ the
+ production
+ costs.
+ Despite
+
+
+spending
+ over
+ $1
+ billion
+ on
+ content
+ from
+
+
+Hollywood
+ talent,
+ Quibby
+ failed
+ to
+
+
+produce
+ any
+ breakout
+ hits.
+ Now,
+ as
+
+
+someone
+ who
+ got
+ into
+ content
+ creation
+
+
+fairly
+ recently,
+ I
+ genuinely
+ think
+ that
+
+
+there
+ is
+ no
+ point
+ in
+ making
+ large
+
+
+investments
+ into
+ production
+ until
+ you
+
+
+start
+ feeling
+ the
+ content
+ market
+ fit,
+ so
+
+
+to
+ say.
+ And
+ to
+ be
+ clear,
+ I'm
+ not
+
+
+comparing
+ myself
+ to
+ a
+ media
+ company
+ with
+
+
+massive
+ Hollywood
+ investors.
+ They're
+ in
+
+
+a
+ polar
+ opposite
+ scale.
+ But
+
+
+nevertheless,
+ this
+ is
+ a
+ content
+ business
+
+
+and
+ I
+ treat
+ my
+ own
+ channel
+ from
+ a
+
+
+perspective
+ of
+ a
+ product
+ manager.
+ This
+
+
+is
+ my
+ product.
+ The
+ point
+ where
+ we
+ knew
+
+
+that
+ it
+ makes
+ sense
+ for
+ us
+ to
+ start
+
+
+investing
+ in
+ better
+ visuals
+ was
+ when
+ we
+
+
+hit
+ several
+ consecutive
+ breakout
+ videos.
+
+
+When
+ our
+ channel
+ had
+ 500
+ subscribers
+
+
+back
+ in
+ April,
+ our
+ video
+ started
+
+
+reaching
+ 50
+ to
+ 80,000
+ views,
+ which
+ was
+ a
+
+
+massive
+ number
+ for
+ our
+ channel
+ size
+ at
+
+
+the
+ time
+ and
+ given
+ our
+ subscriber
+ count.
+
+
+and
+ we
+ hit
+ those
+ views
+ when
+ videos
+ were
+
+
+filmed
+ on
+ my
+ iPhone
+ 13
+ with
+ one
+ $80
+
+
+softbox.
+ I
+ deliberately
+ kept
+ everything
+
+
+extremely
+ low
+ budget
+ because
+ I
+ wanted
+ to
+
+
+see
+ if
+ my
+ content
+ could
+ get
+ breakout
+
+
+through
+ the
+ value
+ of
+ the
+ research
+ and
+
+
+the
+ content
+ that
+ I
+ produce.
+ So,
+
+
+investing
+ billions
+ in
+ production
+ when
+
+
+you
+ have
+ absolutely
+ no
+ idea
+ whether
+ your
+
+
+content
+ is
+ going
+ to
+ be
+ watched
+ makes
+ no
+
+
+sense.
+ They
+ also
+ had
+ a
+ lot
+ of
+ technical
+
+
+limitations.
+ The
+ app's
+ inability
+ to
+
+
+share
+ content
+ on
+ social
+ media
+ prevented
+
+
+organic
+ growth
+ and
+ word
+ of
+ mouth
+
+
+marketing.
+ And
+ that
+ is
+ the
+ bread
+ and
+
+
+butter
+ of
+ modern
+ content
+ platforms.
+
+
+Users
+ could
+ not
+ take
+ screenshots.
+ They
+
+
+could
+ not
+ create
+ clips.
+ They
+ could
+ not
+
+
+share
+ anything
+ with
+ friends.
+ End
+ result,
+
+
+within
+ 6
+ months
+ since
+ inception,
+ Quibby
+
+
+announced
+ it
+ shut
+ down.
+ They
+ admitted
+ to
+
+
+have
+ failed
+ to
+ achieve
+ sustainable
+
+
+subscriber
+ numbers
+ for
+ profitability.
+
+
+The
+ company
+ returned
+ some
+ remaining
+
+
+investor
+ funds
+ as
+ goodwill
+ and
+ laid
+ off
+
+
+nearly
+ 250
+ employees.
+ Roku
+ acquired
+
+
+Quibby's
+ content
+ library
+ in
+ early
+ 2021
+
+
+for
+ hund00
+ million
+ and
+ rebranded
+ it
+ as
+
+
+Roku
+ Originals.
+
+
+Building
+ a
+ scalable
+ AI
+ business
+ is
+ very
+
+
+hard.
+ It's
+ just
+ as
+ hard
+ for
+ larger
+ corps
+
+
+as
+ it
+ is
+ for
+ startups.
+ The
+ difference
+ is
+
+
+in
+ the
+ scale,
+ but
+ it's
+ equally
+ as
+ hard.
+
+
+Don't
+ overestimate
+ the
+ model
+ and
+
+
+underestimate
+ basic
+ product
+ quality.
+
+
+Price
+ the
+ invisible
+ labor.
+ Account
+ for
+
+
+basic
+ physics.
+ Test
+ before
+ you
+ invest
+
+
+and
+ benchmark
+ against
+ the
+ boring
+ product
+
+
+management
+ metrics
+ that
+ always
+ work.
+
+
+Ship
+ the
+ smallest
+ thing
+ that
+ pays
+ for
+
+
+itself
+ and
+ let
+ AI
+ amplify
+ an
+ already
+
+
+solid
+ product.
+ If
+ the
+ unit
+ economics
+
+
+don't
+ beat
+ the
+ baseline,
+ it's
+ not
+ a
+
+
+pivot
+ and
+ it's
+ not
+ a
+ business.
+ You're
+
+
+building
+ a
+ demo
+ and
+ demo
+ doesn't
+ pay
+ the
+
+
+bills.
+ If
+ this
+ video
+ was
+ helpful,
+ let
+ us
+
+
+know
+ what
+ you
+ think
+ in
+ the
+ comments.
+
+
+Till
+ next
+ time.
+ Bye.
