@@ -1,4 +1,4 @@
----\
+---
 title: 外资撤资FDI大跌不止，中国与世界经济的关系可能已到拐点
 summary: null
 area: market-analysis
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 讲述者简介：透明茶室，新闻事件分析频道，本期主要分析中国外商直接投资（FDI）现状及其对中国经济的深远影响。
 
 总字数：约 6,300 字  

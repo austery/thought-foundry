@@ -1,4 +1,4 @@
----\
+---
 title: Software Is Changing (Again)
 summary: null
 area: tech-insights
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## Introduction: Software is Changing, Again / 引言：软件正在再次变革
 
 Hello. I'm excited to be here today to talk to you about software in the

@@ -1,4 +1,4 @@
----\
+---
 title: 第一课：夫妻婚后的成长
 summary: null
 area: personal-growth
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Z0NUvd24_qs&t=1242s
----\
+---
 ## 开场白：家庭系列讲座的缘起与负担
 
 李秀全:

@@ -1,4 +1,4 @@
----\
+---
 title: 默里·沙纳汉：从佛教与维特根斯坦视角，探讨人工智能意识与“无我”的深层联系
 summary: 听了Murry的另一篇，我又找来这篇看看。帝国理工学院的默里·沙纳汉探讨了如何验证机器意识。他认为，研究AI意识揭示了人类自我的本质，并借鉴佛教哲学与维特根斯坦的思想，提出“自我”可能只是一种幻觉，而大语言模型正以一种独特的方式向我们展示了“无我”的概念。
 area: tech-insights
@@ -26,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=bBdE7ojaN9k&t
----\
+---
 ## 介绍：我们为何要关心人工智能意识？
 
 **Jonathan B.**: How do we tell when AI is conscious? My guest, Imperial's Murray Shanahan, has spent his career investigating this question. And in this interview, we'll lay out a systematic proposal for how to validate machine consciousness. Now, you might think that the question of whether AIs are conscious is a trivial theoretical fancy with no use in the real world. But this interview will show you why it's one of the most important questions with practical implications for not just how we treat AI systems, but also how we build and align them. But the most unexpected reward of investigating AI consciousness turns out to be what it reveals about our consciousness, about the nature of the human self. Murray's most interesting claim is that LLMs have an important Buddhist lesson to teach all of us, namely that there is no us. What we've learned to call the self is merely an illusion. My name is Jonathan B. I'm a founding member of Cosmos. We fund research, incubate, and invest in AI startups and believe that philosophy is critical to building technology. If you want to join our ecosystem of philosopher builders, you can find roles we're hiring for, events, grant programs, and other ways to get involved on jonathanb.com/cosmos. Without further ado, Murray Shanahan.

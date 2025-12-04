@@ -1,4 +1,4 @@
----\
+---
 title: How to Think in SQL, a Set-Based Mindset
 summary: 本文探讨了如何从过程式编程思维转向SQL的集合式思维，以显著提升数据库查询性能。内容涵盖了优化、索引、连接策略和执行计划分析等核心概念，旨在帮助开发者编写更高效、更具扩展性的SQL代码。
 area: null
@@ -24,7 +24,7 @@ insight: 在看了Ozer的一些关于Query performance的视频，我在网上�
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=DBinD6H0i68
----\
+---
 ## 介绍：从过程式思维到集合式思维
 
 So how many people here want to learn about SQL? How many people are just in this theater because they're playing the movie afterwards? Okay, so let's get started. We're gonna talk about how to think in SQL.

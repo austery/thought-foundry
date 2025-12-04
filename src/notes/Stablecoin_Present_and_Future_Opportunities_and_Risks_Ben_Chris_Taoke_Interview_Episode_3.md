@@ -1,4 +1,4 @@
----\
+---
 title: 逃课访谈”第三期：稳定币的现状与未来——机遇与风险
 summary: null
 area: market-analysis
@@ -25,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Zpdu-DUU9fY&t
----\
+---
 ### 讲述者简介
 
 **主持人：** 播客主持人，关注加密货币与金融科技领域。

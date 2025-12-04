@@ -1,4 +1,4 @@
----\
+---
 author: Lei
 date: 2025-08-16
 guest: ""
@@ -18,7 +18,7 @@ file_name: wybot_s1_cordless_pool_robot_review.md
 draft: true
 series: ""
 
----\
+---
 
 ## 前言：为何选择 WYBOT S1
 

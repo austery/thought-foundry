@@ -1,4 +1,4 @@
----\
+---
 title: 稳定币深度解析：金融维稳与赌场扩张的双重真相
 summary: null
 area: null
@@ -20,7 +20,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=3mUdydbgw3U&t
----\
+---
 总字数：约 7,800 字 \| 预计阅读时间：约 26 分钟
 
 

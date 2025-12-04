@@ -1,4 +1,4 @@
----\
+---
 title: Vibe Coding 实战对谈：从导入挑战到团队文化转型
 summary: 本期 JUGG 聊敏捷邀请了开发一线的 Derek 和 Zen，深入探讨 Vibe Coding 在团队中的实际应用。内容涵盖导入过程中的常见陷阱、如何应对
   AI 生成的大量程式码、以及 Vibe Coding 对敏捷开发流程和团队文化的深远影响与挑战。
@@ -30,7 +30,7 @@ insight: 好奇怪，这期竟然推荐给我，我也同样的感受。我提�
 layout: post.njk
 series: Vibe Coding
 source: https://www.youtube.com/watch?v=eZWVzTd3mkU&t
----\
+---
 ## 开场与嘉宾介绍
 
 JUGG: Hello 大家好，欢迎大家来到 JUGG 聊敏捷，我是 JUGG。最近有一个词非常的火红：**Vibe Coding**。**Vibe Coding** 是透过和 **AI** 的对话，让 **AI** 根据这些对话直接实作程式。听起来很梦幻，但他真的这么神吗？今天我们邀请到两位来自开发第一线的实战者，他们已经在团队里实际导入了 **Vibe Coding**，然后也是我的朋友。所以我们今天就要来聊聊，**Vibe Coding** 虽然强大，但是导入团队里会遇到什么问题？要注意什么？那大家一定一定要听到最后，我们会跟大家分享我们各自的秘密武器跟实战心法。那我们就来邀请我的两位好朋友，Derek 跟 Zen。

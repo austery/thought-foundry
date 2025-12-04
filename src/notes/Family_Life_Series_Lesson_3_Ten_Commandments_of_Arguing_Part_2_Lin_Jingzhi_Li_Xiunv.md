@@ -1,4 +1,4 @@
----\
+---
 title: 第三课：吵架十诫 (下)
 summary: null
 area: personal-growth
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=F0fT7u99J3g
----\
+---
 ## 前言：建设性的沟通法则
 
 **林静芝师母:**

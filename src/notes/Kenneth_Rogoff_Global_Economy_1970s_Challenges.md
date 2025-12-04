@@ -1,4 +1,4 @@
----\
+---
 title: Kenneth Rogoff：全球经济的70年代回响与未来挑战
 summary: 在本次深度对话中，哈佛大学经济学教授肯尼斯·罗格夫探讨了当前全球经济的复杂局势。他分析了特朗普政府的贸易政策，特别是关税的深远影响，并将其与1970年代的经济动荡进行比较。罗格夫还讨论了美元的全球地位、中国经济面临的“日本化”风险、通货膨胀的政治经济学根源，以及对美联储独立性的潜在威胁。他还展望了技术（尤其是人工智能）对未来经济的颠覆性作用和高额国债的可持续性问题。
 area: market-analysis
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=zAkj8tOq3kQ&t
----\
+---
 ## 全球经济现状：70年代的既视感
 
 **Nicolai Tangen:** Hi everyone, I'm Nicolai Tangen, the head of the Norwegian sovereign wealth fund and today I'm in really good company with Ken Rogoff. Now Ken is known for his insights into global finance, economic history and for his incredible book which he wrote together with Carmen Reinhart which is like a seminal book actually and it's called This Time It's Different. He's out with a new book coming up soon. Uh and you can look forward to it. Ken, wonderful to have you here.

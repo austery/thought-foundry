@@ -1,4 +1,4 @@
----\
+---
 title: E193 AI时代，“一人独角兽”是幻想还是未来？
 summary: null
 area: tech-insights
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=2l8qpxDGWIE&t
----\
+---
 ## 引言：一场关于“一人独角兽”的思维实验
 
 **雨白:**

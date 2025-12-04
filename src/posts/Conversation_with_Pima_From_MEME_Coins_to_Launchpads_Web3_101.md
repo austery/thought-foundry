@@ -1,4 +1,4 @@
----\
+---
 title: 对话匹马：从MEME币到发射平台，梭哈文化背后的行为经济学盛宴与投资逻辑
 summary: null
 area: market-analysis
@@ -26,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 播客节目：Web3 101
 
 主持人：刘峰, Jack

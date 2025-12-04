@@ -1,4 +1,4 @@
----\
+---
 title: American Democracy Is Collapsing, And This Man Predicted It | Aaron Bastani
   Meets Joseph Stiglitz
 summary: null
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: '#${id}'
----\
+---
 ### Speakers
 
 **Joseph Stiglitz:** 2001 Nobel Prize laureate in Economics, renowned

@@ -1,4 +1,4 @@
----\
+---
 title: 投资小组第五次会议纪要：Vivian的BRRR案例分享
 summary: null
 area: market-analysis
@@ -29,7 +29,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 一、 会议开场与新成员介绍
 
 **Lei:** 好的，我觉得可以开始了。今天我们有一位新成员

@@ -1,4 +1,4 @@
----\
+---
 title: Why 'Vibe Coding' is the Worst Software Idea of the Year
 summary: This article critically examines the concept of 'Vibe Coding' introduced
   by Andrej Karpathy. It argues that this approach, which relies on casual interaction
@@ -33,7 +33,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=1A6uPztchXk
----\
+---
 ## Introduction to Vibe Coding
 
 On February the 2nd this year, Andrej Karpathy, an OpenAI founder and formerly head of AI at Tesla, introduced a new term for a style of programming with AI assistance.

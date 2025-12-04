@@ -1,4 +1,4 @@
----\
+---
 title: 第四课：为人父母：一项神圣的使命 (下)
 summary: null
 area: personal-growth
@@ -26,7 +26,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=plCCp2vWmgU
----\
+---
 ## 回顾与引言
 
 **李秀全 老师:**

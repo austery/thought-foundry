@@ -1,4 +1,4 @@
----\
+---
 title: 记住这些万能炒菜公式，做菜怎么都不会难吃
 summary: 烹饪博主阿伟为厨房新手分享了万能炒菜公式，涵盖了从厨具选择、调味汁配比到炒制蔬菜、肉菜和纯肉菜的具体步骤，旨在让新手也能轻松做出美味菜肴。
 area: null
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=SD30xd3pi_M
----\
+---
 即使你是不会做菜的小白，拿到这些公式，最起码也能超过80%的人。
 
 ## 厨房新手的准备工作

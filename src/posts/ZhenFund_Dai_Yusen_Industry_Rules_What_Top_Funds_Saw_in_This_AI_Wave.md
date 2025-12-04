@@ -1,4 +1,4 @@
----\
+---
 title: 真格基金戴雨森：产业规律，这轮AI，顶级基金都看到了什么？
 summary: null
 area: market-analysis
@@ -25,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 总字数：约7,100 字 \| 预计阅读时间：约 24 分钟
 
 

@@ -1,4 +1,4 @@
----\
+---
 title: 美元将永远存在，但其地位将有所削弱
 summary: null
 area: market-analysis
@@ -21,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 **Kenneth Rogoff**
 
 Distinguished Professor of Economics at Harvard University, former Chief

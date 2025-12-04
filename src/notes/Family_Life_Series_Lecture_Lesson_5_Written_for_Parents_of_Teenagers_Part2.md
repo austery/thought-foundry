@@ -1,4 +1,4 @@
----\
+---
 title: 第五课：写给青少年的父母（下）
 summary: null
 area: personal-growth
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=0_3-hCgQ36c
----\
+---
 ## 引言：回顾与本期焦点
 
 **林静芝师母:**

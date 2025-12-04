@@ -1,4 +1,4 @@
----\
+---
 title: 'AI 知识管理程序研讨会'
 summary: null
 area: null
@@ -25,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 引言与常用AI工具分享
 
 **独行:**

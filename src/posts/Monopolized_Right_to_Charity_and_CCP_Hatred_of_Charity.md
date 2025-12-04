@@ -1,4 +1,4 @@
----\
+---
 title: 黄杨钿甜天价耳环背后：被垄断的“慈善权”与中共对慈善的憎恨
 summary: null
 area: null
@@ -23,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 **讨论主题**：中国慈善体系的问题、官方垄断、NGO困境
 
 **涉及事件**：黄杨钿甜事件、雅安地震、汶川地震、郭美美事件、武汉疫情

@@ -1,4 +1,4 @@
----\
+---
 title: 穿越周期的智慧：美股价值投资的核心法则
 summary: null
 area: market-analysis
@@ -25,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=Feck2fSffmI&t
----\
+---
 ## 开场白与嘉宾介绍
 
 **主持人:**

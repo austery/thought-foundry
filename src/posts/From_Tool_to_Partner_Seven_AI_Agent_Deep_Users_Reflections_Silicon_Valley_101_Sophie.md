@@ -1,4 +1,4 @@
----\
+---
 title: 从工具到伙伴：七位AI Agent深度使用者的思考
 summary: 很关注其它人是如何使用AI或者AI tools，还有最近很火的词，AI agent,我只在github copilit用agent mode自动处理了很多代码。
 area: tech-insights
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 **主持人简介**
 
 **Sophie**：【特约研究员】，关注AI应用。

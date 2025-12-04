@@ -1,4 +1,4 @@
----\
+---
 title: How Language Shapes the Way We Think - Lera Boroditsky
 summary: null
 area: null
@@ -21,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 Lera Boroditsky
 
 ### About the Speaker

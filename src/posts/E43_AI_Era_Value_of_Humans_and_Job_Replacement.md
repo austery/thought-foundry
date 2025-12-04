@@ -1,4 +1,4 @@
----\
+---
 title: E43 深度对话：NotebookLM与AI内容生成的未来
 summary: null
 area: tech-insights
@@ -25,7 +25,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 引言：播客的“最后一期”？
 
 **主持人：** AI也许能替你说话，但他代替不了你活过的每一分钟。今天又是我们新的一期节目，而且很有可能是我们的最后一期节目了。

@@ -1,4 +1,4 @@
----\
+---
 title: 《小小而美》读书会纪要 | The Minimalist Entrepreneur Book Club Summary
 summary: null
 area: null
@@ -20,7 +20,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 开场与引言 (Opening & Introduction)
 
 Ray

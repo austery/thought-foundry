@@ -1,4 +1,4 @@
----\
+---
 title: ASML、Lam Research、台积电深度分析：AI时代的半导体投资机遇
 summary: 深度剖析半导体三巨头：ASML、Lam Research 和台积电。探讨在AI浪潮下，这些公司的核心护城河、财务状况及未来增长潜力，为投资者提供全面的分析视角。
 area: market-analysis
@@ -25,7 +25,7 @@ guest: null
 insight: 我很认同每个人都要有自己的投资体系，要逻辑自洽，很感兴趣他的投资体系，打分什么的。
 layout: post.njk
 source: https://www.youtube.com/watch?v=EgzXI18t9pI
----\
+---
 ## 引言：半导体巨头的十字路口
 
 **ASML** 最近跌惨了！短短两个星期暴跌了17.31%！**ASML** 的未来还有戏吗？现在究竟是抄底的好机会？还是说 **ASML** 其实自始至终都是一个价值陷阱呢？

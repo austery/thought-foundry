@@ -1,4 +1,4 @@
----\
+---
 title: 中国如何赢得钍核能竞赛
 summary: null
 area: market-analysis
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 引言：钍核能的曙光
 
 Hi, welcome to another episode of Cold Fusion. In the quiet deserts of

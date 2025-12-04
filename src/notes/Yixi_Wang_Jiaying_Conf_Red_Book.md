@@ -1,4 +1,4 @@
----\
+---
 title: 王佳莹：在朋友圈里独立自信、充满活力，在小红书上热爱生活、岁月静好
 summary: null
 area: personal-growth
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: hhttps://www.youtube.com/watch?v=tnEp7uwrlLo
----\
+---
 # 在朋友圈里独立自信，在小红书上岁月静好
 
 大家好，我是王佳莹，来自南京师范大学。我是一个普通的高校心理教师，也是一个心理咨询师。这是我工作的地方，一间小小的心理咨询室。在10年间，有无数皱着眉头的年轻人来到这里。

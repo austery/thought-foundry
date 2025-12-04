@@ -1,4 +1,4 @@
----\
+---
 title: AI对话的艺术：2025年，为何提示词工程仍是核心技能？
 summary: null
 area: tech-insights
@@ -21,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 一、引言：提示词工程的重要性是否已过时？
 
 本报告旨在探讨一个核心问题：在2025年，我们为什么仍需学习**提示词工程

@@ -1,4 +1,4 @@
----\
+---
 title: 斯坦福大学教授：如何在13分钟内学会由AI驱动的创造力
 summary: null
 area: tech-insights
@@ -21,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=wv779vmyPVY&t
----\
+---
 > I've always been jealous of Winston Churchill. There's a quote, by the way. The history of innovation is the bed, the bus and the bathtub. It's always these moments when we're not really thinking about work or we're kind of doing something else that good ideas come to us.
 
 我一直很羡慕温斯顿·丘吉尔。顺便提一句，有这样一句名言：创新的历史诞生于床笫、公交和浴缸。总是在我们没有真正思考工作，或者正在做别的事情的时候，好点子才会不期而至。

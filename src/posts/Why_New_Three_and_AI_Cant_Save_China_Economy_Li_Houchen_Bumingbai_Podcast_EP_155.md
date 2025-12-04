@@ -1,4 +1,4 @@
----\
+---
 title: 李厚辰：为什么“新三样”和AI救不了中国经济？- 不明白播客EP-155文字版
 summary: null
 area: market-analysis
@@ -26,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://bumingbai.net/2025/06/20/155-lhc-text/
----\
+---
 ## 引言：“闪闪发光”与“暗淡萧条”并存的两个中国
 
 **袁莉:** 大家好，欢迎来到不明白播客，我是主持人袁莉。

@@ -1,4 +1,4 @@
----\
+---
 title: AI的使用方法与能力边界
 summary: null
 area: tech-insights
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 引言：AI付费现状与讨论范围
 
 首先，我想了解一下在座各位中已经为AI服务付费的朋友。看来，这部分人群数量可观。那么，每月付费超过20美元，例如同时订阅两三个服务，月支出达到五六十美元的用户也为数不少。这表明，今天在场的许多人可能已经对AI进行了较为深度的使用。

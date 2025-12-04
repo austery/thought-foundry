@@ -1,4 +1,4 @@
----\
+---
 title: What is life? A Nobel Prize-winning scientist answers | Paul Nurse Full Interview
 summary: null
 area: null
@@ -20,7 +20,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 # What is life? / 生命是什么？
 
 **讲述者简介**

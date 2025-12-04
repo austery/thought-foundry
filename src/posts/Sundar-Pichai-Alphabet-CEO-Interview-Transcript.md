@@ -1,4 +1,4 @@
----\
+---
 title: 桑达尔·皮查伊 (Sundar Pichai) Alphabet CEO 深度访谈逐字稿
 summary: null
 area: tech-insights
@@ -21,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 The All-In Interview 记录
 
 David:

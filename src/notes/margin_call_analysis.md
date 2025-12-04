@@ -1,4 +1,4 @@
----\
+---
 title: 'Margin Call: An Investment Analyst’s Explanation'
 summary: null
 area: market-analysis
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=H7xCo0CJ02A
----\
+---
 ## Introduction 引言
 
 欢迎体验我们的系列节目第三期，我是投资分析师理查德·科芬（Richard

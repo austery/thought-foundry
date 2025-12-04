@@ -1,4 +1,4 @@
----\
+---
 title: CEO Connect Driving Our Future with AI and a One-Page Strategy
 summary: The CEO discusses the latest engagement survey results, emphasizing the critical,
   multi-billion dollar importance of adopting AI to stay competitive. A new, clear
@@ -28,7 +28,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## Introduction
 
 Hello everybody, welcome. I will try to keep an eye on the chat a little bit, but talking to myself and checking the chat are hard things to do, so welcome everyone. This is the August CEO Connect. For those of you who haven't been to one of these before, the intent is really to be transparent about what we're doing, share some information and thoughts that I have, and in large part, help with clarity and alignment.

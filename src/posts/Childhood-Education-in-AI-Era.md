@@ -1,4 +1,4 @@
----\
+---
 title: 播客报告：人工智能时代的儿童教育
 summary: null
 area: tech-insights
@@ -23,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 # 人工智能时代的儿童教育
 
 Ezra Klein Show 访谈 Rebecca Winthrop 逐字稿

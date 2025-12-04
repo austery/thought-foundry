@@ -1,4 +1,4 @@
----\
+---
 title: 'The AI Reset: Search, Jobs, and Everything Else - A Conversation'
 summary: null
 area: tech-insights
@@ -27,7 +27,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 Moonshots
 
 WTF Just Happened in Tech

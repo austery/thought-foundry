@@ -1,4 +1,4 @@
----\
+---
 title: AI与失业
 summary: null
 area: tech-insights
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 开场白与引入
 
 你好啊朋友们。

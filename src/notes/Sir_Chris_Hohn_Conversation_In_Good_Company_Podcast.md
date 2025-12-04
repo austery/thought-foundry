@@ -1,4 +1,4 @@
----\
+---
 title: 克里斯·霍恩爵士在挪威银行投资管理公司《In Good Company》播客上的对话
 summary: null
 area: market-analysis
@@ -23,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=M01NZc2QlDk&t
----\
+---
 
 
 **主讲人：**

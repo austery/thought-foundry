@@ -1,4 +1,4 @@
----\
+---
 title: 深度研究之前，如何向AI提一个准确的问题？ - 专业报告
 summary: null
 area: null
@@ -20,7 +20,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=zx1T6TLDZ5I
----\
+---
 ## 引言：为何常规提问效果不佳？
 
 大家好，这里是全麦AI搜索，我是Max。本期我们来探讨一个话题：我们如何向AI提出一个更好的研究问题？

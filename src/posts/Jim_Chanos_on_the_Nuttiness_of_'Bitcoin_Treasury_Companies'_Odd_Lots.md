@@ -1,4 +1,4 @@
----\
+---
 title: 吉姆·查诺斯谈“比特币金库公司”的疯狂 | Odd Lots 现场版
 summary: null
 area: null
@@ -26,7 +26,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.bloomberg.com/news/articles/2024-07-02/odd-lots-jim-chanos-on-the-nuttiness-of-bitcoin-treasury-companies
----\
+---
 ## 引言
 
 **Joe Weisenthal:** Hello there, Odd Lots listeners. You are about to

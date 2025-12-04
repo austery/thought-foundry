@@ -1,4 +1,4 @@
----\
+---
 title: 《被讨厌的勇气》读书会讨论-欧洲区
 summary: null
 area: personal-growth
@@ -30,7 +30,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 开场与介绍
 
 **陆瑶**

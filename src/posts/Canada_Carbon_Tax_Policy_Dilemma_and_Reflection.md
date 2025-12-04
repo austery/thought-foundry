@@ -1,4 +1,4 @@
----\
+---
 title: 加拿大碳税政策的困境与反思
 summary: null
 area: null
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: '#section-1'
----\
+---
 **主讲人：** Steve Paikin (主持人), Chris Ragan (麦吉尔大学教授)
 
 ## 1. 导言：碳定价的曲折之路

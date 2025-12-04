@@ -1,4 +1,4 @@
----\
+---
 title: 第一课：夫妻婚后的成长 下
 summary: null
 area: personal-growth
@@ -25,7 +25,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=04G3ti78ZFk&t=20s
----\
+---
 ## 单元二：感情的成长
 
 **查秉全 老师:**

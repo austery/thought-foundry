@@ -1,4 +1,4 @@
----\
+---
 title: 视频转写报告
 summary: null
 area: personal-growth
@@ -21,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 **主讲人:** 大问题阿伦
 
 ## 区分 可控与不可控

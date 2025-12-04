@@ -1,4 +1,4 @@
----\
+---
 title: 市场周报：苹果的外交胜利，美联储主席之争与就业数据修正解密
 summary: 本周市场分析涵盖了苹果公司因CEO蒂姆·库克的白宫访问而股价飙升，以及瑞士在贸易关税下面临的困境。同时，深入探讨了特朗普政府即将出台的芯片政策，以及克里斯托弗·沃勒在美联储主席竞选中成为热门人选的背后策略。此外，报告还分析了史蒂夫·莫兰被提名为美联储理事的短期影响，并解释了近期非农就业报告出现大幅修正的原因。
 area: null
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=9x1pG9Zhz74
----\
+---
 Hello my friends. Today is August 9th and this is Markets Weekly.
 
 我的朋友们，大家好。今天是8月9日，欢迎收看《市场周报》。

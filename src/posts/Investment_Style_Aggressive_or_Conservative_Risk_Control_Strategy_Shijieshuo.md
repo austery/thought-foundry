@@ -1,4 +1,4 @@
----\
+---
 title: 投资风格：激进还是保守？因人而异的风险控制策略
 summary: null
 area: market-analysis
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/@shijieshuo
----\
+---
 ## 讲述者：师姐 (shijieshuo)
 
 ### 引言：投资风格与风险控制

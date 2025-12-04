@@ -1,4 +1,4 @@
----\
+---
 title: 第六课：婆媳之间 上
 summary: null
 area: personal-growth
@@ -23,7 +23,7 @@ insight: null
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=Jm_R84hY1n0
----\
+---
 ## 引言：家庭关系的探讨
 
 **李秀全:**

@@ -1,4 +1,4 @@
----\
+---
 title: 瑞银中国住房调查报告深度解读
 summary: null
 area: market-analysis
@@ -24,7 +24,7 @@ insight: null
 layout: post.njk
 series: null
 source: '#section-1'
----\
+---
 ## 引言：报告背景与重要性
 
 大家好，这里是隐枫视野。今天与大家一同解读一份报告，就是现在大家看到的瑞银（UBS）于2025年6月19日发布的《中国住房调查报告》。

@@ -1,4 +1,4 @@
----\
+---
 title: AI 对软件测试的影响：是技术颠覆还是效率革命？
 summary: 软件测试专业人士探讨了 AI 崛起的双重影响。他们讨论了 AI 在自动化重复任务和提高效率方面的潜力，同时也表达了对工作安全的焦虑，尤其是对测试工程师（estats）而言。对话权衡了适应新工具的必要性与被取代的真实风险。
 area: tech-insights
@@ -32,7 +32,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 开场：Azure AI 培训与认证介绍
 
 **Summer**: and do the recordable part. Yeah, you have to reshare. Reshare faces if willing.

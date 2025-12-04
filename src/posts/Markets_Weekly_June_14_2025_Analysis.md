@@ -1,4 +1,4 @@
----\
+---
 title: Markets Weekly Analysis - June 14, 2025
 summary: null
 area: null
@@ -22,7 +22,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## Introduction / 引言
 
 Welcome. This past week of June 14, 2025, has been action-packed in the

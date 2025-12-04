@@ -1,4 +1,4 @@
----\
+---
 title: 前英国外交官锐评美以“公关式”轰炸真相
 summary: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
 area: society-systems
@@ -23,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=kR6Dk10xWew
----\
+---
 ## 引言：克雷格·莫瑞的背景与视角
 
 大家好，欢迎来到我的频道。这期节目，我想给大家讲解一下我最近看到的一部视频，是克雷格·莫瑞（Craig

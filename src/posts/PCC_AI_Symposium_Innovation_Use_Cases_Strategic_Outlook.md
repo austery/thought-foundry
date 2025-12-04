@@ -1,4 +1,4 @@
----\
+---
 
 title: AI研讨会纪要：创新、应用案例与战略展望
 summary: null
@@ -43,7 +43,7 @@ layout: post.njk
 series: null
 source: null
 
----\
+---
 
 ## 主题演讲对话：AI 的紧迫性与机遇
 

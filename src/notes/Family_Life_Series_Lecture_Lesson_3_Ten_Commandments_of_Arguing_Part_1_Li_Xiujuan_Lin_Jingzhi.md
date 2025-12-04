@@ -1,4 +1,4 @@
----\
+---
 title: 第三课：吵架十诫
 summary: 
 area: personal-growth
@@ -22,7 +22,7 @@ speaker: ''
 layout: post.njk
 series: 家庭生活系列讲座
 source: https://www.youtube.com/watch?v=oP3lqZMNjts
----\
+---
 ## 引言：以学习之心进入新课题
 
 **李秀全：**

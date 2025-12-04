@@ -1,4 +1,4 @@
----\
+---
 title: 深度报告：彼得·蒂尔对话罗斯·杜塔特
 summary: null
 area: tech-insights
@@ -23,7 +23,7 @@ insight: null
 layout: post.njk
 series: null
 source: https://www.youtube.com/watch?v=kY6iE8tC3aI
----\
+---
 # 彼得·蒂尔对话罗斯·杜塔特：人工智能、火星与不朽——我们的梦想足够远大吗？
 
 ## 引言：对话最具影响力的右翼思想家

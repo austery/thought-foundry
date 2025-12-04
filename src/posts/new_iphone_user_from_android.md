@@ -1,4 +1,4 @@
----\
+---
 title: 献给父母的iPhone 16 Plus贴心指南：从安卓到苹果的全方位迁移与使用手册
 summary: null
 area: null
@@ -19,7 +19,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 ## 欢迎来到您的新iPhone世界
 
 亲爱的爸爸妈妈：

@@ -1,4 +1,4 @@
----\
+---
 title: 访谈报告：加拿大人的收入，工作与财富
 summary: null
 area: market-analysis
@@ -21,7 +21,7 @@ insight: null
 layout: post.njk
 series: null
 source: null
----\
+---
 # 加拿大人的收入，工作与财富
 
 主讲人：王红雨 \| 日期：2025年5月16号
