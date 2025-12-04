@@ -1,0 +1,6953 @@
+[music]
+
+
+Will
+ generative
+ AI
+ push
+ the
+ boundaries
+
+
+of
+ creativity
+ and
+ expand
+ human
+
+
+knowledge?
+ Well,
+ that's
+ certainly
+ what
+
+
+its
+ boosters
+ think.
+ Here's
+ Sam
+ Olman,
+
+
+CEO
+ of
+ Open
+ AI.
+ I
+ think
+ the
+ creative
+
+
+spirit
+ of
+ humanity
+ is
+ an
+ [music]
+
+
+incredibly
+ important
+ thing
+ and
+ we
+ want
+
+
+to
+ build
+ tools
+ that
+ lift
+ that
+ up
+ that
+
+
+make
+ it
+ so
+ that
+ new
+ people
+ can
+ create
+
+
+better
+ art,
+ better
+ content,
+ write
+ better
+
+
+novels
+ that
+ we
+ all
+ enjoy.
+ But
+ according
+
+
+to
+ many
+ authors,
+ [music]
+ artists,
+ and
+
+
+journalists,
+ it's
+ all
+ based
+ on
+ theft.
+
+
+That's
+ because
+ companies
+ like
+ OpenAI
+
+
+need
+ the
+ material
+ to
+ train
+ their
+ models,
+
+
+and
+ a
+ whole
+ lot
+ of
+ that
+ material
+ is
+
+
+under
+ copyright.
+ Some
+ groups
+ are
+ now
+
+
+about
+ to
+ challenge
+ that
+ in
+ court.
+
+
+Recently,
+ a
+ coalition
+ of
+ Canadian
+ news
+
+
+outlets
+ got
+ permission
+ to
+ proceed
+ with
+ a
+
+
+copyright
+ lawsuit
+ [music]
+ against
+ Open
+
+
+AI.
+ So,
+ what
+ are
+ their
+ chances?
+ And
+ how
+
+
+could
+ lawsuits
+ like
+ this
+ change
+ the
+
+
+future
+ of
+ AI
+ and
+ of
+ journalism?
+ Then,
+
+
+rich
+ oligarchs
+ aren't
+ just
+ remaking
+ the
+
+
+tech
+ world,
+ they're
+ also
+ increasingly
+
+
+reshaping
+ democracy.
+ I
+ talked
+ to
+ [music]
+
+
+author
+ Jacob
+ Silverman
+ about
+ his
+ new
+
+
+book,
+ Gilded
+ Rage,
+ Elon
+ Musk,
+ and
+ the
+
+
+Radicalization
+ of
+ Silicon
+ Valley.
+ This
+
+
+is
+ the
+ rundown.
+
+
+[music]
+
+
+Last
+ year,
+ a
+ group
+ of
+ Canadian
+ media
+
+
+companies
+ launched
+ a
+ lawsuit
+ against
+
+
+Open
+ AI.
+ Here's
+ a
+ bit
+ of
+ the
+ joint
+
+
+statement
+ they
+ released
+ at
+ the
+ time.
+
+
+Open
+ AI
+ regularly
+ breaches
+ copyright
+ and
+
+
+online
+ terms
+ of
+ use
+ by
+ scraping
+ large
+
+
+swats
+ of
+ content
+ from
+ Canadian
+ media
+ to
+
+
+help
+ develop
+ its
+ products
+ such
+ as
+ chat
+
+
+GBT.
+ Open
+ AI
+ is
+ capitalizing
+ and
+
+
+profiting
+ from
+ the
+ use
+ of
+ this
+ content
+
+
+without
+ getting
+ permission
+ or
+
+
+compensating
+ content
+ owners.
+ Now,
+ an
+
+
+Ontario
+ court
+ has
+ decided
+ the
+ case
+ can
+
+
+proceed
+ here.
+ I
+ asked
+ Kevin
+ Seu,
+ an
+
+
+intellectual
+ property
+ lawyer
+ with
+
+
+Gilbert
+ LLP,
+ how
+ this
+ case
+ is
+ shaping
+ up
+
+
+and
+ how
+ worried
+ Open
+ AI
+ should
+ be
+ about
+
+
+the
+ multiple
+ cases
+ that
+ have
+ been
+ filed
+
+
+against
+ it.
+
+
+[music]
+
+
+Kevin,
+ welcome
+ to
+ the
+ rundown.
+ How
+ are
+
+
+you
+ doing?
+
+
+>> Good.
+ Thanks
+ for
+ having
+ me.
+
+
+>> Yeah,
+ no
+ worries.
+ Now,
+ before
+ we
+ get
+
+
+started,
+ I
+ want
+ to
+ mention
+ that
+ uh
+ and
+
+
+to
+ our
+ viewers
+ that
+ TBO
+ is
+ not
+
+
+participating
+ in
+ this
+ lawsuit
+ that
+ we
+
+
+are
+ talking
+ about
+ and
+ you
+ Kevin
+ are
+ not
+
+
+involved
+ in
+ the
+ case.
+ Correct.
+
+
+>> That's
+ correct.
+ I
+ am
+ a
+ lawyer,
+ but
+ I
+
+
+don't
+ represent
+ any
+ of
+ the
+ parties
+ um
+ in
+
+
+the
+ lawsuit.
+
+
+>> All
+ right.
+ Well,
+ let's
+ talk
+ about
+ the
+
+
+case.
+ Uh
+ the
+ plaintiffs
+ in
+ the
+ copyright
+
+
+case
+ against
+ Open
+ AI
+ in
+ Ontario
+ include
+
+
+the
+ Canadian
+ Press,
+ Tourar,
+ the
+ Glob
+ and
+
+
+Mail,
+ Post
+ Media,
+ and
+ CBC.
+ What
+ are
+
+
+their
+ main
+ complaints?
+
+
+So
+ this
+ is
+ a
+ conglomeration
+ of
+ I
+ think
+
+
+most
+ of
+ Canada's
+ biggest
+ news
+ publishers
+
+
+and
+ their
+ complaints
+ are
+ um
+ pretty
+ broad
+
+
+but
+ largely
+ they
+ focus
+ on
+ um
+ OpenAI's
+
+
+use
+ of
+ various
+ news
+ articles
+ that
+
+
+they've
+ scraped
+ from
+ um
+ online.
+ So
+ as
+
+
+you
+ know
+ you
+ know
+ you
+ can
+ access
+ CBC
+ or
+
+
+the
+ Toronto
+ Star
+ and
+ get
+ some
+ news
+
+
+articles.
+ um
+ some
+ of
+ them
+ are
+ paywalled
+
+
+and
+ you
+ can
+ access
+ those
+ articles
+ and
+
+
+their
+ complaint
+ is
+ that
+ OpenAI
+ has
+ um
+
+
+copied,
+ downloaded,
+ scraped
+ some
+ of
+
+
+these
+ articles
+ and
+ used
+ it
+ to
+ train
+ um
+
+
+their
+ chat
+ GPT
+ model
+ in
+ order
+ to
+ produce
+
+
+the
+ product
+ chat
+ GPT.
+
+
+>> All
+ right.
+ OpenAI
+ uses
+ what's
+ known
+ as
+
+
+retrieval
+ augmented
+ generation.
+ Uh
+ and
+
+
+it's
+ quite
+ central
+ to
+ this
+ case
+ for
+
+
+people
+ who
+ don't
+ know
+ including
+ myself.
+
+
+What
+ does
+ that
+ actually
+ mean?
+
+
+>> Yeah.
+ So
+ retrieval
+ augmented
+ generation
+
+
+or
+ rag
+ is
+ the
+ acronym
+ that's
+ often
+ used
+
+
+ra
+ um
+ that
+ refers
+ to
+ one
+ part
+ of
+ the
+
+
+sort
+ of
+ output
+ process
+ for
+ these
+ large
+
+
+language
+ models.
+ So
+ if
+ you've
+ ever
+ used
+
+
+chatpt
+ and
+ you
+ um
+ you
+ know
+ enter
+ some
+
+
+input
+ and
+ the
+ chat
+ GPT
+ bot
+ says
+
+
+something
+ um
+ it
+ goes
+ through
+ a
+ couple
+ of
+
+
+processes.
+ One
+ process
+ is
+ is
+ sort
+ of
+
+
+taking
+ your
+ input
+ um
+ determining
+ what
+ it
+
+
+should
+ do
+ and
+ then
+ there's
+ a
+ process
+ at
+
+
+the
+ end
+ called
+ uh
+ ra
+ which
+ is
+ used
+ to
+
+
+prevent
+ or
+ limit
+ hallucinations.
+ What
+ it
+
+
+does
+ is
+ um
+ when
+ the
+ output
+ is
+ about
+ to
+
+
+be
+ um
+ coming
+ out
+ from
+ the
+ LLM,
+ the
+ large
+
+
+language
+ model,
+ the
+ rag
+ system
+ usually
+
+
+is
+ designed
+ to
+ um
+ access
+ a
+ fact
+ storage
+
+
+or
+ or
+ access
+ the
+ internet
+ and
+ fact
+ check
+
+
+its
+ own
+ output
+ before
+ giving
+ you
+ an
+
+
+answer
+ so
+ that
+ it
+ can
+ you
+ know
+ limit
+ the
+
+
+amount
+ of
+ hallucination
+ um
+ that
+ the
+ uh
+
+
+the
+ chat
+ bot
+ gives
+ you.
+ So
+ here
+ in
+
+
+Canada
+ we
+ have
+ fair
+ dealing
+ uh
+ which
+ for
+
+
+people
+ who
+ don't
+ know
+ is
+ a
+ law
+ that
+
+
+allows
+ us
+ to
+ use
+ copyrighted
+ material
+
+
+without
+ permission
+ for
+ certain
+ purposes.
+
+
+One
+ of
+ them
+ including
+ news
+ reporting
+ as
+
+
+well.
+ Um
+ could
+ open
+ AAI
+ have
+ its
+
+
+copyrighted
+ material
+ use
+ that
+ instead?
+
+
+>> Yeah.
+ So
+ fair
+ dealing
+ is
+ a
+ very
+ nuanced
+
+
+subject.
+ Um
+ it's
+ often
+ used
+ as
+ a
+ defense
+
+
+but
+ it's
+ it's
+ called
+ it's
+ also
+ been
+
+
+called
+ a
+ user's
+ right
+ in
+ Canada.
+ So
+ if
+
+
+you
+ or
+ I
+ were
+ just
+ researching
+ news
+ um
+
+
+for
+ our
+ own
+ educational
+ purposes,
+ then
+
+
+we
+ would
+ be
+ able
+ to,
+ you
+ know,
+ uh
+ buy
+ a
+
+
+newspaper
+ or
+ access
+ it
+ online
+ and
+ we
+ can
+
+
+read
+ it
+ and
+ perhaps
+ um
+ you
+ know,
+
+
+reproduce
+ a
+ bit
+ of
+ it,
+ you
+ know,
+ send
+ it
+
+
+back
+ and
+ forth
+ for
+ mark
+ it
+ up
+ for
+
+
+research.
+ Um
+ and
+ those
+ are
+ sort
+ of
+
+
+allowable
+ fair
+ dealing
+ purposes.
+ They're
+
+
+sort
+ of
+ a
+ scope
+ um
+ of
+ permitted
+
+
+activities
+ that
+ users
+ in
+ Canada
+ are
+
+
+allowed
+ to
+ do
+ with
+ copyrighted
+ works
+
+
+like
+ books
+ and
+ news
+ articles.
+ And
+ this
+
+
+is
+ a
+ central
+ doctrine
+ in
+ Canadian
+
+
+copyright
+ law.
+ Um
+ but
+ it
+ has
+ certain
+
+
+limits
+ to
+ it.
+ There
+ are
+ specified
+
+
+purposes
+ like
+ education
+ um
+ and
+ research
+
+
+where
+ you're
+ definitely
+ allowed
+ to
+ um
+
+
+use
+ the
+ fair
+ deal
+ uh
+ work
+ in
+ a
+ manner
+
+
+that
+ is
+ in
+ accordance
+ with
+ fair
+ dealing
+
+
+subject
+ to
+ some
+ limitations
+ but
+ it
+ often
+
+
+depends
+ on
+ what
+ you're
+ doing
+ and
+ how
+
+
+much
+ um
+ you're
+ using
+ that
+ work
+ for.
+
+
+>> Help
+ us
+ understand
+ really
+ what's
+ at
+
+
+stake
+ here
+ with
+ those
+ the
+ plaintiff
+ and
+
+
+open
+ AI.
+
+
+>> Yeah.
+ So
+ I
+ mean
+ I
+ think
+ there
+ are
+ two
+
+
+aspects
+ to
+ it
+ at
+ least
+ two
+ aspects
+ there
+
+
+are
+ many
+ more
+ than
+ that
+ but
+ one
+ is
+ as
+
+
+you've
+ identified
+ it's
+ it's
+ monetary
+
+
+it's
+ commercial
+ um
+ which
+ you
+ know
+ goes
+
+
+back
+ to
+ your
+ last
+ question
+ about
+ fair
+
+
+dealing
+ one
+ of
+ the
+ factors
+ as
+ to
+ whe
+
+
+whether
+ some
+ use
+ is
+ fair
+ or
+ not
+ under
+
+
+Canadian
+ law
+ um
+ includes
+ how
+ commercial
+
+
+that
+ is
+ so
+ is
+ someone
+ like
+ OpenAI
+ or
+ any
+
+
+other
+ company
+ making
+ a
+ lot
+ of
+ money
+ off
+
+
+of
+ right
+ you
+ know
+ Toronto
+ Star
+ or
+ CBC's
+
+
+news
+ articles
+ and
+ you
+ know
+ they
+ do
+
+
+charge
+ a
+ fee
+ for
+ um
+ using
+ some
+ of
+ their
+
+
+you
+ know
+ pro
+ or
+ plus
+ versions
+ of
+ their
+
+
+products.
+ So
+ they
+ are
+ making
+ some
+ amount
+
+
+of
+ money.
+ Um
+ and
+ so
+ at
+ stake
+ in
+ part
+ is
+
+
+who
+ can
+ profit
+ off
+ of
+ those
+ works.
+ Uh
+
+
+you
+ know
+ obviously
+ for
+ news
+
+
+organizations
+ um
+ the
+ core
+ of
+ their
+
+
+business
+ is
+ you
+ know
+ selling
+ newspapers
+
+
+selling
+ subscriptions
+ to
+ their
+ website
+
+
+and
+ licensing
+ their
+ content
+ to
+ various
+
+
+outlets.
+ And
+ you
+ know,
+ as
+ far
+ as
+ we
+ know
+
+
+and
+ as
+ complained
+ in
+ the
+ lawsuit,
+ OpenAI
+
+
+hasn't
+ paid
+ any
+ licensing
+ fees
+ for
+ the
+
+
+use
+ of
+ those
+ works.
+ So
+ a
+ large
+ aspect
+ of
+
+
+this
+ is,
+ you
+ know,
+ should
+ OpenAI
+ pay
+ for
+
+
+the
+ use
+ of
+ those
+ works
+ and
+ how
+ much
+
+
+should
+ they
+ pay
+ for
+ the
+ use
+ of
+ those
+
+
+works?
+ Because,
+ you
+ know,
+ some
+ aspects
+
+
+of
+ it
+ is
+ if
+ you're,
+ again,
+ let's
+ take
+ an
+
+
+example.
+ if
+ it's
+ just
+ me
+ and
+ you
+ going
+
+
+to
+ buy
+ a
+ newspaper,
+ you
+ know,
+ we're
+
+
+paying
+ a
+ pretty
+ low
+ amount
+ of
+ money
+ and
+
+
+we're
+ not
+ really
+ profiting
+ off
+ of
+ it.
+
+
+But
+ a
+ large
+ company
+ like
+ Open
+ AAI,
+ which
+
+
+is,
+ you
+ know,
+ has
+ millions
+ of
+ users,
+ how
+
+
+much
+ should
+ they
+ pay
+ for
+ um
+ the
+ use
+ of
+
+
+articles
+ and
+ they
+ use
+ many
+ millions
+ of
+
+
+articles.
+ Um
+ so
+ that's,
+ you
+ know,
+ a
+ key
+
+
+aspect
+ of
+ the
+ case.
+
+
+>> What
+ happens?
+ Uh
+ let's
+ say
+ this
+ court
+
+
+case
+ goes
+ through
+ and
+ and
+ the
+ business
+
+
+model
+ of
+ OpenAI
+ changes
+ where
+ they
+ do
+
+
+have
+ to
+ pay
+ for
+ something.
+ How
+ does
+ that
+
+
+impact
+ their
+ bottom
+ line
+ and
+ their
+
+
+business
+ model?
+
+
+>> Well,
+ you
+ know,
+ I'm
+ not
+ the
+ I'm
+ not
+ in
+
+
+charge
+ of
+ Open
+ AI,
+ uh,
+ thank
+ goodness,
+
+
+but
+ um,
+ you
+ know,
+ I
+ think
+ it
+ it
+ it's
+
+
+pretty
+ fundamental
+ to
+ how
+ they
+ operate.
+
+
+And
+ I
+ think
+ um
+ if
+ you
+ sort
+ of
+ take
+ apart
+
+
+and
+ look
+ at
+ it
+ at
+ a
+ at
+ a
+ more
+ high
+ level
+
+
+view
+ for
+ most
+ of
+ these
+ companies
+ who
+
+
+develop
+ large
+ language
+ models,
+ right,
+ a
+
+
+part
+ of
+ the
+ technological
+ innovation
+
+
+that
+ they
+ they
+ claim
+ to
+ have
+ brought
+ um
+
+
+to
+ the
+ forefront
+ these
+ days
+ is
+ that
+
+
+they've
+ they've
+ used
+ or
+ they've
+ ingested
+
+
+into
+ their
+ AI
+ models
+ a
+ large
+ portion
+ if
+
+
+not
+ all
+ of
+ the
+ internet.
+ You
+ know,
+ they
+
+
+claim,
+ you
+ know,
+ that's
+ the
+ large
+ in
+
+
+large
+ language
+ model.
+ Um,
+ and
+ if
+ they
+
+
+have
+ to
+ pay
+ for
+ a
+ significant
+ or
+ all
+ of
+
+
+the
+ content
+ that
+ they're
+ consuming,
+ then
+
+
+it
+ really
+ could
+ um
+ impact
+ their
+ bottom
+
+
+line
+ because
+ they,
+ you
+ know,
+ they're
+
+
+they're
+ certainly
+ using
+ a
+ lot
+ of
+ data.
+
+
+They're
+ they're
+ continually
+ scraping
+ um
+
+
+information
+ and,
+ you
+ know,
+ depending
+ on
+
+
+how
+ much
+ they
+ have
+ to
+ pay
+ to
+ access
+ or
+
+
+use
+ that
+ content.
+ Um,
+ it
+ could
+ really
+
+
+impact
+ whether
+ or
+ not
+ those
+ models
+
+
+become
+ financially
+ viable.
+
+
+>> Kevin,
+ we
+ are
+ going
+ to
+ leave
+ it
+ there.
+
+
+Really
+ appreciate
+ the
+ insights
+ and
+ of
+
+
+course
+ something
+ that
+ we
+ will
+ continue
+
+
+to
+ follow.
+ Appreciate
+ it.
+ Thank
+ you
+ for
+
+
+having
+ me.
+
+
+>> US
+ tech
+ oligarchs
+ are
+ very
+ very
+ rich
+ and
+
+
+many
+ of
+ them
+ are
+ also
+ very
+ angry
+ at
+ the
+
+
+woke
+ mind
+ virus
+ at
+ regulation
+ at
+
+
+democracy
+ and
+ they're
+ using
+ their
+
+
+extraordinary
+ wealth
+ and
+ power
+ to
+ try
+ to
+
+
+make
+ the
+ world
+ reflect
+ their
+ vision.
+ I
+
+
+sat
+ down
+ with
+ Jacob
+ Silverman,
+ author
+ of
+
+
+the
+ new
+ book
+ Gilded
+ Rage,
+ Elon
+ Musk
+ and
+
+
+the
+ Radicalization
+ of
+ Silicon
+ Valley,
+
+
+and
+ host
+ of
+ the
+ CBC
+ podcast,
+ The
+ Making
+
+
+of
+ Elon
+ Musk,
+ to
+ find
+ out
+ how
+ men
+ like
+
+
+Elon
+ Musk
+ and
+ Peter
+ Theel
+ are
+ combining
+
+
+corporate
+ and
+ government
+ power
+ in
+
+
+pursuit
+ of
+ their
+ goals.
+
+
+>> Great
+ to
+ have
+ you
+ here,
+ Jacob.
+
+
+>> Thank
+ you.
+
+
+>> All
+ right.
+ I
+ want
+ to
+ talk
+ early
+ history
+
+
+of
+ Silicon
+ Valley
+ because
+ I
+ think
+ not
+ a
+
+
+lot
+ of
+ people
+ know
+ that
+ closely
+ close
+
+
+ties
+ to
+ the
+ cold
+ war
+ the
+ national
+
+
+security
+ state
+ when
+ we
+ talk
+ about
+ sort
+
+
+of
+ the
+ early
+ funding
+ for
+ startups
+ those
+
+
+were
+ coming
+ from
+ the
+ department
+ of
+
+
+defense
+ NASA
+ I
+ want
+ to
+ get
+ a
+ better
+
+
+understanding
+ how
+ did
+ Silicon
+ Valley
+
+
+later
+ gain
+ this
+ sort
+ of
+ reputation
+ uh
+ as
+
+
+a
+ bastion
+ of
+ progressive
+ political
+
+
+ideas.
+
+
+>> Sure.
+ Yeah.
+ In
+ many
+ ways,
+ the
+ Silicon
+
+
+Valley
+ of
+ today
+ is
+ actually
+ returning
+ to
+
+
+its
+ early
+ roots.
+ But,
+ uh,
+ in
+ the
+ 70s
+ and
+
+
+80s,
+ especially
+ coming
+ out
+ of
+ the
+ 60s
+
+
+and
+ 70s
+ counterculture,
+ the
+ tech
+
+
+industry
+ was
+ seen
+ as
+ kind
+ of
+ a
+ new
+
+
+frontier
+ and
+ a
+ new
+ area
+ of
+ almost
+
+
+countercultural
+ experimentation.
+ A
+ lot
+
+
+of
+ people,
+ a
+ lot
+ of
+ hippies
+ who
+ were
+
+
+involved
+ in
+ the
+ hippie
+ movement
+ in
+ San
+
+
+Francisco
+ ended
+ up
+ uh,
+ getting
+ learning
+
+
+how
+ to
+ program
+ or
+ getting
+ involved
+ in
+
+
+tech.
+ And
+ it
+ was
+ certainly
+ seen
+ as
+ an
+
+
+industry
+ that
+ was
+ much
+ more
+ liberal
+ and
+
+
+progressive
+ in
+ its
+ attitudes,
+ open
+ to
+
+
+kind
+ of
+ uh
+ new
+ forms
+ of
+ social
+
+
+experimentation.
+ And
+ it
+ wasn't
+ seen
+ and
+
+
+I
+ think
+ in
+ inside
+ as
+ well
+ the
+ industry,
+
+
+it
+ wasn't
+ seen
+ as
+ close
+ to
+ the
+
+
+government
+ or
+ supporting
+ the
+
+
+prerogatives
+ of
+ say
+ the
+ national
+
+
+security
+ state
+ or
+ US
+ foreign
+ policy.
+ And
+
+
+we
+ had
+ that
+ general
+ attitude
+ or
+ culture
+
+
+for
+ a
+ little
+ while
+ certainly
+ in
+ the
+ 80s
+
+
+and
+ 90s.
+ I
+ I
+ would
+ say
+ that
+ was
+ kind
+ of
+
+
+the
+ prevailing
+ attitude
+ in
+ tech.
+ Um,
+ but
+
+
+things
+ really
+ started
+ to
+ change
+ after
+
+
+9/11
+ and
+ then
+ have
+ kind
+ of
+ intensified
+
+
+in
+ recent
+ years,
+ I
+ would
+ say,
+ until
+
+
+we're
+ almost
+ more
+ back
+ to
+ the
+
+
+relationship
+ that
+ tech
+ had
+ in
+ in
+ the
+ 50s
+
+
+and
+ 60s
+ when
+ it
+ was
+ being
+ directly
+
+
+funded
+ by
+ the
+ Defense
+ Department.
+
+
+>> All right,
+ so
+ let's
+ uh
+ fast
+ forward
+ here
+
+
+to
+ uh
+ 2024,
+ the
+ presidential
+ election.
+
+
+Uh,
+ according
+ to
+ the
+ Washington
+ Post,
+
+
+80%
+ of
+ San
+ Francisco
+ residents
+ and
+ about
+
+
+70%
+ of
+ residents
+ in
+ the
+ counties
+ near
+
+
+Silicon
+ Valley
+ vote
+ for
+ Kla
+ Harris.
+ So
+
+
+explain
+ to
+ me
+ what
+ do
+ you
+ mean
+ by
+
+
+radicalization
+ and
+ sort
+ of
+ who
+ are
+ the
+
+
+poster
+ boys
+ and
+ I
+ say
+ poster
+ boys
+
+
+because
+ incidentally
+ they
+ are
+ all
+ men.
+
+
+>> They
+ are
+ all
+ men.
+ I
+ mean
+ there
+ are
+ a
+ few
+
+
+prominent
+ women
+ in
+ tech
+ who
+ are
+ Trump
+
+
+supporters
+ like
+ Saffric
+ Catz
+ uh
+ who
+ was
+
+
+the
+ co-CEO
+ of
+ Oracle
+ or
+ Genie
+ Remedi
+
+
+from
+ IBM.
+ But
+ you
+ know
+ this
+ we
+ are
+
+
+talking
+ about
+ and
+ this
+ book
+ is
+ a
+ little
+
+
+bit
+ of
+ a
+ group
+ biography
+ of
+ 20
+ to
+ 30
+ men
+
+
+almost
+ all
+ white
+ men
+ who
+ uh
+ are
+
+
+millionaires
+ and
+ billionaires.
+ They
+ are
+
+
+uh
+ CEOs
+ of
+ tech
+ companies.
+ They
+ are
+
+
+venture
+ capitalists.
+ And
+ of
+ course
+ at
+
+
+the
+ top
+ of
+ this
+ heap
+ is
+ Elon
+ Musk.
+ But
+
+
+there's
+ also
+ a
+ lot
+ of
+ his
+ friends
+ and
+
+
+colleagues,
+ people
+ from
+ the
+ greater
+
+
+PayPal
+ mafia
+ as
+ it's
+ been
+ called.
+ Peter
+
+
+Teal
+ has
+ long
+ been
+ probably
+ the
+ most
+
+
+important
+ Silicon
+ Valley
+ conservative.
+
+
+And
+ I
+ think
+ what
+ changed
+ really
+ in
+ the
+
+
+last
+ few
+ years
+ leading
+ up
+ to
+ the
+ 2024
+
+
+election
+ was
+ that
+ you
+ had
+ some
+
+
+traditional
+ tech
+ conservatives
+ like
+
+
+Peter
+ Teal
+ or
+ someone
+ like
+ David
+ Saxs
+ or
+
+
+some
+ lesserk
+ known
+ names
+ like
+ Doug
+ Leon
+
+
+who's
+ a
+ major
+ venture
+ capitalists
+ but
+
+
+then
+ you
+ had
+ a
+ lot
+ of
+ their
+ friends
+ and
+
+
+colleagues
+ people
+ of
+ a
+ similar
+ social
+
+
+status
+ and
+ economic
+ status
+ who
+ who
+ spent
+
+
+time
+ with
+ the
+ with
+ them
+ who
+ really
+ did
+
+
+start
+ getting
+ radicalized
+ against
+ the
+
+
+Democrats
+ and
+ Republican
+ party.
+ And
+ some
+
+
+of
+ that,
+ I
+ think,
+ did
+ really
+ start
+ in
+
+
+San
+ Francisco
+ where
+ they
+ started
+ to
+ see
+
+
+San
+ Francisco
+ as
+ a
+ failed
+ city.
+ And
+ they
+
+
+blamed
+ it
+ on
+ liberals
+ and
+ on
+ Democrats
+
+
+and
+ they
+ saw
+ they
+ feared
+ that
+ what
+ was
+
+
+happening
+ in
+ San
+ Francisco,
+ some
+ of
+ its
+
+
+its
+ social
+ issues,
+ the
+ homelessness,
+ the
+
+
+open
+ air
+ drug
+ use,
+ they
+ essentially
+
+
+decided
+ that
+ it
+ couldn't
+ be
+ fixed.
+ And
+
+
+not
+ only
+ that,
+ it
+ was
+ spreading
+ to
+ other
+
+
+cities.
+ And
+ that
+ I
+ think
+ explains
+ a
+ lot
+
+
+of
+ the
+ transformation.
+ And
+ then
+ you
+ also
+
+
+had
+ um
+ some
+ of
+ these
+ CEOs,
+ people
+ like
+
+
+Mark
+ Andre,
+ who's
+ a
+ major
+ venture
+
+
+capitalist,
+ starting
+ to
+ think
+ that
+ um
+
+
+the
+ social
+ justice
+ movements
+ of
+ the
+ time
+
+
+like
+ Black
+ Lives
+ Matter
+ or
+ more
+ recently
+
+
+some
+ of
+ the
+ protests
+ against
+ uh
+ Israeli
+
+
+military
+ activity
+ in
+ Gaza
+ um
+ that
+ they
+
+
+just
+ found
+ those
+ movements
+ unacceptable.
+
+
+Um
+ you
+ hear
+ from
+ senior
+ people
+ in
+ tech,
+
+
+but
+ publicly
+ especially
+ that
+ um
+ they
+
+
+think
+ that
+ this
+ is
+ wokeness
+ gone
+ a
+ muck
+
+
+or
+ this
+ is
+ something
+ that's
+ gone
+ too
+
+
+far.
+ So
+ whatever
+ vision
+ of
+ kind
+ of
+
+
+liberal
+ attitudes
+ or
+ even
+ social
+ justice
+
+
+that
+ some
+ of
+ these
+ CEOs
+ and
+ venture
+
+
+capitalists
+ may
+ have
+ tolerated
+ before
+
+
+certainly
+ during
+ the
+ co
+ era
+ that
+ started
+
+
+changing
+ to
+ a
+ degree
+ that
+ they
+ they
+
+
+either
+ didn't
+ recognize
+ or
+ weren't
+
+
+willing
+ to
+ tolerate
+ anymore.
+
+
+>> I
+ want
+ to
+ talk
+ a
+ little
+ bit
+ more
+ about
+
+
+uh
+ Peter
+ Peter
+ Teio.
+ um
+ a
+ little
+ bit
+
+
+different
+ when
+ you
+ compare
+ him
+ to
+
+
+someone
+ like
+ Elon
+ Musk
+ who
+ you
+ put
+ on
+ on
+
+
+your
+ book's
+ title,
+ you
+ know,
+ a
+ little
+
+
+bit
+ more
+ enthusiastic,
+ someone
+ who's
+
+
+called
+ himself,
+ you
+ know,
+ at
+ the
+ time,
+
+
+at
+ one
+ time
+ a
+ half
+ Democrat,
+ half
+
+
+Republican,
+ but
+ when
+ you
+ look
+ at
+ Peter
+
+
+Teal
+ has
+ always
+ solidly
+ been
+
+
+conservative.
+ Help
+ me
+ understand
+ sort
+ of
+
+
+his
+ influence
+ on
+ the
+ radicalization
+ of
+
+
+Silicon
+ Valley.
+
+
+>> He
+ is
+ sort
+ of
+ the
+ the
+ presiding
+
+
+godfather
+ of
+ this
+ movement,
+ I
+ would
+ say.
+
+
+I
+ mean,
+ he
+ is
+ a
+ political
+ animal
+ from
+
+
+from
+ the
+ beginning.
+ And
+ someone
+ like
+
+
+Elon
+ Musk,
+ I
+ would
+ argue,
+ wasn't
+ before.
+
+
+But,
+ uh,
+ Teal
+ has
+ been
+ a
+ hardcore
+
+
+conservative/
+ libertarian
+ since
+ he
+ was
+
+
+in
+ college
+ at
+ Stanford.
+ He
+ founded
+ a
+ a
+
+
+conservative
+ publication
+ called
+ the
+
+
+Stanford
+ Review.
+ He's
+ been
+ hiring
+ people
+
+
+from
+ that
+ magazine
+ ever
+ since
+ for
+ his
+
+
+companies.
+ And
+ um,
+ he
+ was
+ also
+ a
+ writer
+
+
+for
+ a
+ while
+ and
+ he
+ co-wrote
+ a
+ book
+
+
+called
+ Thy
+ Diversity
+ Myth,
+ which
+ was
+
+
+basically
+ today
+ we'
+ call
+ it
+ kind
+ of
+ like
+
+
+an
+ anti-woke
+ [clears throat]
+ sort
+ of
+
+
+rabble
+ rousing
+ sort
+ of
+ book.
+ At
+ the
+
+
+time,
+ the
+ the
+ big
+ bogey
+ man
+ was
+
+
+multiculturalism,
+ which
+ and
+ political
+
+
+correctness,
+ which
+ in
+ the
+ early
+ 90s
+ kind
+
+
+of
+ meant
+ the
+ same
+ thing
+ as
+ what
+ we
+ might
+
+
+talk
+ about
+ wokeness
+ or
+ progressive
+
+
+politics
+ now.
+ So,
+ that
+ has
+ always
+ been
+
+
+something
+ important
+ to
+ Teal.
+ Max
+
+
+Chaffkin,
+ who
+ wrote
+ a
+ biography
+ of
+ Peter
+
+
+Teal,
+ has
+ said
+ that
+ the
+ PayPal
+ Mafia
+
+
+Network,
+ which
+ we
+ know
+ as
+ sort
+ of
+ the
+
+
+group
+ of
+ people
+ who
+ got
+ really
+ rich
+ at
+
+
+PayPal
+ and
+ funded
+ all
+ these
+ companies
+
+
+afterwards,
+ started
+ more
+ as
+ a
+ political
+
+
+network,
+ uh,
+ Chaffkin
+ has
+ said,
+ rather
+
+
+than
+ a
+ business
+ one.
+ Yes,
+ it
+ came
+ out
+ of
+
+
+PayPal,
+ but
+ these
+ were
+ people
+ who
+ were
+
+
+very
+ some
+ of
+ them
+ were
+ very
+ interested
+
+
+in
+ politics,
+ including
+ Teal.
+ And
+ Teal
+
+
+was
+ the
+ Silicon
+ Valley
+ figure
+ during
+ the
+
+
+2016
+ election
+ who
+ was
+ kind
+ of
+ helping
+
+
+broker
+ those
+ connections
+ between
+ Silicon
+
+
+Valley
+ and
+ MAGA
+ and
+ the
+ Trump
+ campaign.
+
+
+>> Well,
+ let's
+ talk
+ a
+ little
+ bit
+ about
+ that
+
+
+time
+ uh
+ just
+ shortly
+ after
+ uh
+ Trump's
+
+
+first
+ term.
+ Uh
+ I
+ want
+ to
+ get
+ a
+ better
+
+
+sense
+ of
+ what's
+ happening
+ there
+ because
+
+
+at
+ the
+ end
+ of
+ that
+ and
+ the
+ beginning
+ of
+
+
+his
+ second
+ term,
+ Silicon
+ Valley
+ and
+ the
+
+
+executives
+ have
+ kind
+ of
+ moved
+ further
+ to
+
+
+the
+ right.
+ What
+ was
+ happening
+ between
+
+
+that
+ administration,
+ Biden
+
+
+administration,
+ uh
+ that
+ kind
+ of
+ pushed
+
+
+everything
+ that
+ way?
+
+
+>> Well,
+ Teal
+ himself
+ would
+ say
+ that
+ um
+ the
+
+
+the
+ Trump
+ camp
+ the
+ Trump
+ administration
+
+
+was
+ a
+ little
+ too
+ chaotic
+ for
+ him.
+ And
+ I
+
+
+think
+ there
+ was
+ some
+ dissatisfaction
+
+
+among
+ people
+ in
+ tech
+ or
+ certainly
+ some
+
+
+of
+ Trump's
+ conservative
+ supporters
+ that
+
+
+they
+ didn't
+ get
+ done
+ the
+ things
+ that
+
+
+they
+ wanted
+ to
+ get
+ done.
+ At
+ the
+ same
+
+
+time
+ during
+ the
+ Biden
+ administration
+
+
+there
+ this
+ is
+ when
+ COVID
+ was
+ raging.
+
+
+This
+ is
+ when
+ some
+ of
+ these
+ uh
+
+
+entrepreneurs
+ are
+ coming
+ into
+ more
+
+
+conflicts
+ with
+ the
+ state
+ than
+ they
+ were
+
+
+used
+ to.
+ I
+ would
+ still
+ argue
+ that
+ these
+
+
+weren't
+ necessarily
+ major
+ conflicts
+ by
+
+
+most
+ standards,
+ but
+ for
+ example,
+ like
+
+
+some
+ of the
+ the
+ shutdowns
+ or
+ quarantine
+
+
+uh
+ methods
+ during
+ COVID,
+ Elon
+ Musk
+
+
+especially
+ was
+ very
+ upset
+ about
+ having
+
+
+to
+ shut
+ down
+ his
+ main
+ factory
+ in
+
+
+Fremont,
+ California,
+ his
+ main
+ Tesla
+
+
+factory.
+ And
+ that
+ was
+ something
+ he
+ bowed
+
+
+with
+ local
+ authorities
+ about.
+ He
+
+
+eventually
+ said,
+ "You
+ know
+ what?
+ I'm
+
+
+going
+ to
+ open
+ it
+ anyway.
+ If
+ you
+ need
+ to
+
+
+arrest
+ someone,
+ let
+ it
+ be
+ me."
+ In
+ his
+
+
+sort
+ of
+ typical
+ overdramatic
+ style.
+ Um
+
+
+but
+ there
+ were
+ other
+ instances
+ like
+ Mark
+
+
+Andre,
+ major
+ venture
+ capitalist,
+ major
+
+
+political
+ player
+ now.
+ He
+ said
+ that
+ the
+
+
+red
+ line
+ for
+ him
+ was
+ when
+ the
+ Biden
+
+
+administration
+ proposed
+ attacks
+ on
+
+
+unrealized
+ capital
+ gains.
+ It
+ was
+ really
+
+
+only
+ over
+ a
+ very
+ high
+ amount
+ of
+ money,
+
+
+millions
+ and
+ millions
+ of
+ dollars.
+ But
+
+
+this
+ meant
+ that
+ if
+ you
+ were
+ say
+ a
+
+
+venture
+ capitalist
+ who
+ invests
+ in
+ a
+
+
+startup,
+ it
+ goes
+ public,
+ the
+ stock
+
+
+booms,
+ and
+ say
+ you
+ you
+ have
+ a
+ hundred
+
+
+$100
+ million
+ in
+ paper
+ gains,
+ you
+ might
+
+
+you
+ maybe
+ have
+ to
+ pay
+ some
+ taxes
+ on
+ it.
+
+
+Now,
+ it's
+ worth
+ noting
+ this
+ was
+ not
+
+
+implemented
+ under
+ the
+ B
+ administration.
+
+
+It
+ was
+ just
+ proposed,
+ right?
+ But
+ that
+
+
+was
+ something
+ that
+ Andre
+ on
+ his
+ own
+
+
+podcast
+ said
+ was
+ a
+ red
+ line
+ and
+ he
+
+
+really
+ didn't
+ like.
+ So
+ um
+ for
+ some
+ of
+
+
+these
+ different
+ people
+ they
+ were
+
+
+different
+ things
+ but
+ they
+ they
+ saw
+
+
+themselves
+ now
+ as
+ being
+ a
+ little
+ more
+
+
+oppressed
+ by
+ the
+ powers
+ that
+ be
+
+
+>> uh
+ I
+ how
+ much
+ of
+ this
+ radicalization
+ of
+
+
+US
+ politics
+ can
+ be
+ traced
+ back
+ to
+ 2010
+
+
+because
+ something
+ big
+ happens
+ in
+ 2010
+
+
+Supreme
+ Court
+ citizens
+ united
+ decision.
+
+
+>> Help
+ us
+ understand
+ how
+ that
+ kind
+ of
+
+
+opens
+ up
+ this
+ door
+ for
+ tech
+ elites
+ to
+
+
+sort
+ of
+ some
+ would
+ say
+ meddal
+ in
+ in
+ some
+
+
+of
+ the
+ politics
+ here.
+ So
+ now
+ we
+ live
+ in
+
+
+the
+ era
+ in
+ the
+ US
+ of
+ unlimited
+ spending
+
+
+for
+ for
+ political
+ campaigns.
+
+
+>> How
+ much
+ money
+ are
+ we
+ talking?
+ Give
+ us
+ a
+
+
+sense
+ of
+ that.
+
+
+>> Sure.
+ I
+ mean
+ the
+ last
+ election
+ must
+
+
+donate
+ more
+ than
+ or
+ donated
+ is
+ a
+ funny
+
+
+term
+ but
+ put
+ forward
+ more
+ than
+ $200
+
+
+million
+ probably
+ closer
+ to
+ 300.
+ The
+
+
+crypto
+ industry
+ who
+ I
+ talk
+ a
+ lot
+ about
+
+
+in
+ my
+ book
+ um
+ became
+ the
+ biggest
+ donor
+
+
+by
+ industry.
+ They
+ donated
+ about
+ $200
+
+
+million
+ mostly
+ to
+ uh
+ one
+ political
+
+
+action
+ committee,
+ one
+ of these
+ super
+
+
+PACs
+ called
+ Fair
+ Shake.
+ And
+ I
+ I
+ think
+ in
+
+
+especially
+ in
+ the
+ last
+ election,
+ the
+ the
+
+
+tech
+ industry,
+ you
+ know,
+ they
+ when
+ they
+
+
+go
+ get
+ into
+ something,
+ sometimes
+ they
+ go
+
+
+all
+ the
+ way,
+ you
+ know,
+ and
+ they're
+ used
+
+
+to
+ raising
+ huge
+ amounts
+ of
+ money.
+ So
+ to
+
+
+put
+ 200
+ or
+ $400
+ million
+ towards
+ a
+
+
+political
+ goal
+ for
+ them
+ makes
+ a
+ kind
+ of
+
+
+sense.
+ And
+ you
+ know,
+ we
+ had
+ seen
+ since
+
+
+2010
+ a
+ lot
+ of
+ money
+ flooding
+ into
+
+
+politics
+ and
+ these
+ huge
+ super
+ PACs
+ being
+
+
+created,
+ but
+ we
+ had
+ never
+ really
+ seen
+
+
+one
+ industry
+ or
+ really
+ tech
+ and
+ crypto
+
+
+together.
+ they're
+ they're
+ kind
+ of
+ one
+
+
+and
+ the
+ same
+ uh
+ put
+ forward
+ so
+ much
+
+
+money
+ at
+ the
+ same
+ time
+ and
+ that
+ I
+ think
+
+
+was
+ really
+ novel
+ and
+ at
+ the
+ same
+ time
+
+
+you
+ also
+ had
+ individual
+ tech
+ leaders
+
+
+most
+ notably
+ Elon
+ Musk
+ basically
+ implant
+
+
+themselves
+ within
+ the
+ Trump
+ campaign
+ and
+
+
+Musk
+ himself
+ starting
+ to
+ be
+ on
+ stage
+ a
+
+
+lot
+ and
+ at
+ Trump's
+ side
+ and
+ that
+ kind
+ of
+
+
+behavior
+ was
+ also
+ something
+ we
+ hadn't
+
+
+really
+ seen
+ before.
+ All
+ right,
+ I
+ want
+ to
+
+
+come
+ back
+ to
+ a
+ point
+ that
+ we
+ were
+
+
+talking
+ about
+ sort
+ of
+ uh
+ local
+ politics.
+
+
+A
+ few
+ years
+ ago,
+ uh
+ wealthy
+ tech
+ mogul
+
+
+started
+ weighing
+ in
+ on
+ local
+ politics
+ in
+
+
+San
+ Francisco
+ specifically.
+ I
+ want
+ to
+
+
+read
+ a
+ quote
+ uh
+ from
+ Gil
+ Duran,
+ a
+ San
+
+
+Francisco
+ based
+ journalist,
+ alarmed
+ by
+
+
+the
+ political
+ ambitions
+ of
+ those
+ people
+
+
+that
+ you
+ mentioned
+ in
+ your
+ book.
+ These
+
+
+people
+ have
+ enough
+ money
+ to
+ be
+ dumb
+ and
+
+
+dangerous
+ for
+ a
+ very
+ long
+ time.
+ They
+
+
+have
+ to
+ start
+ finding
+ ways
+ to
+ seize
+
+
+territory
+ and
+ power
+ and
+ create
+ a
+
+
+different
+ world
+ that
+ doesn't
+ look
+
+
+anything
+ like
+ the
+ United
+ States
+ we
+ have
+
+
+today.
+ I
+ think
+ what
+ we're
+ seeing
+ here
+ in
+
+
+San
+ Francisco
+ politics
+ is
+ like
+ the
+
+
+emergence
+ of
+ that
+ strategy.
+ What
+ are
+
+
+some
+ of
+ the
+ examples
+ of
+ the
+ strategy
+
+
+that
+ Duran
+ is
+ uh
+ describing?
+
+
+>> Well,
+ there
+ there
+ are
+ a
+ couple
+ of
+
+
+important
+ things
+ there.
+ For
+ one
+ thing,
+
+
+the
+ one
+ of
+ the
+ one
+ of
+ the
+ changes
+ that
+
+
+we've
+ seeded
+ seeing
+ a
+ few
+ years
+ ago
+ was
+
+
+uh
+ tech
+ people
+ in
+ San
+ Francisco
+ putting
+
+
+a
+ lot
+ more
+ money
+ into
+ local
+ politics
+
+
+because
+ they
+ realized
+ they
+ can
+ get
+
+
+something
+ for
+ their
+ money.
+ So
+ we
+ saw
+ a
+
+
+recall
+ of
+ members
+ of
+ the
+ San
+ Francisco
+
+
+school
+ board,
+ something
+ that
+ had
+ never
+
+
+happened
+ before.
+ There
+ was
+ and
+ people
+
+
+like
+ David
+ Saxs,
+ who's
+ now
+ Trump's
+ AI
+
+
+and
+ cryptozar,
+ were
+ at
+ the
+ head
+ of
+ this.
+
+
+He
+ was
+ donating
+ a
+ lot
+ of
+ money.
+ And
+ then
+
+
+they
+ tried
+ to
+ recall
+ Governor
+ Gavin
+
+
+Newsome.
+ That
+ actually
+ wasn't
+
+
+successful.
+ But
+ then
+ they
+ had
+ a
+ big
+
+
+victory
+ when
+ they
+ recalled
+ the
+ district
+
+
+attorney
+ Chasa
+ Bodin
+ who
+ was
+ considered
+
+
+this
+ reformist
+ progressive
+ DA
+ but
+ really
+
+
+got
+ tred
+ as
+ someone
+ who
+ was
+ a
+ sororos
+ DA
+
+
+who
+ was
+ you
+ know
+ letting
+ criminals
+ off
+
+
+and
+ and
+ responsible
+ for
+ an
+ upsurge
+ of
+
+
+crime
+ in
+ San
+ Francisco
+ and
+ that
+ that
+ was
+
+
+actually
+ at
+ the
+ time
+ even
+ a
+ misreading
+
+
+of
+ the
+ situation.
+ I
+ would
+ say
+ that
+ the
+
+
+crime
+ didn't
+ uh
+ necessarily
+ crime
+
+
+violent
+ crime
+ wasn't
+ in
+ a
+ bad
+ way
+ in
+ San
+
+
+Francisco.
+ what
+ you
+ had
+ was
+ a
+ lot
+ of
+ uh
+
+
+social
+ destitution.
+ You
+ had
+ a
+ lot
+ of
+
+
+property
+ crime
+ and
+ non-violent
+ crime,
+
+
+but
+ it
+ had
+ become
+ very
+ visible
+ to
+ people
+
+
+there
+ and
+ and
+ intolerable
+ to
+ the
+ San
+
+
+Francisco
+ elites.
+ So,
+ that's
+ kind
+ of
+
+
+where
+ it
+ started.
+ And
+ when
+ Gil
+ is
+
+
+talking
+ about
+ seizing
+ actual
+ land
+ and
+
+
+territory
+ and
+ there's
+ kind
+ of
+ two
+ tracks
+
+
+that
+ we
+ see
+ the
+ tech
+ elites
+ on.
+ They're
+
+
+involved
+ in
+ regular
+ politics,
+ you
+ know,
+
+
+trying
+ to
+ influence
+ what's
+ happening
+ in
+
+
+San
+ Francisco
+ and
+ nationally
+ via
+ Trump,
+
+
+but
+ they
+ are
+ also
+ uh
+ part
+ of
+ these
+
+
+movements.
+ One's
+ called
+ the
+ the
+ network
+
+
+state
+ movement
+ that
+ Gil
+ reports
+ very
+
+
+well
+ on.
+ They're
+ also
+ called
+ charter
+
+
+cities
+ where
+ they're
+ actually
+ trying
+ to
+
+
+gain
+ land
+ where
+ they
+ can
+ have
+
+
+sovereignty
+ over
+ it.
+
+
+>> Let's
+ talk
+ about
+ it.
+ Honduras.
+ What's
+
+
+happening?
+
+
+>> Honduras
+ is
+ the
+ big
+ one
+ which
+ is
+ there's
+
+
+an
+ island
+ called
+ Roatan
+ there
+ and
+
+
+there's
+ a
+ settlement
+ called
+ Prospera
+
+
+which
+ is
+ owned
+ by
+ an
+ American
+ company,
+ a
+
+
+piece
+ of
+ land
+ there
+ that
+ under
+ a
+
+
+previous
+ more
+ right-wing
+ Honduran
+
+
+regime,
+ they
+ were
+ able
+ to
+ essentially
+
+
+buy
+ sovereignty
+ over
+ this
+ land
+ and
+ turn
+
+
+it
+ into
+ a
+ charter
+ city.
+ And
+ the
+ main
+
+
+goal
+ of
+ these
+ things
+ is
+ really
+ to
+ escape
+
+
+taxes,
+ to
+ have
+ a
+ sort
+ of
+ bespoke
+ nation
+
+
+that
+ is
+ somewhat
+ of
+ a
+ dictatorship,
+ you
+
+
+know,
+ run
+ by
+ a
+ small
+ group
+ of
+ tech
+
+
+elites.
+ And
+ one
+ thing
+ that
+ they
+ talk
+
+
+about
+ a
+ lot
+ that
+ they
+ want
+ to
+ do
+ in
+
+
+these
+ kinds
+ of
+ charter
+ cities
+ are
+
+
+medical
+ experiments
+ that
+ may
+ not
+ be
+
+
+legal
+ in
+ in
+ the
+ US
+ or
+ other
+ countries.
+
+
+This
+ very
+ much
+ relates
+ to
+ the
+ industry's
+
+
+interests
+ in
+ life
+ extension
+ research
+ or
+
+
+or
+ radical
+ forms
+ of
+ human
+
+
+experimentation
+ that
+ most
+ of
+ us
+ probably
+
+
+aren't
+ that
+ comfortable
+ with
+ yet.
+ Uh
+ and
+
+
+there
+ h
+ there
+ are
+ a
+ lot
+ of
+ efforts
+ going
+
+
+on
+ right
+ now
+ from
+ in
+ Honduras
+ to
+ even
+
+
+places
+ in
+ the
+ United
+ States
+ to
+ the
+ open
+
+
+ocean
+ uh
+ to
+ um
+ Greenland.
+ Uh
+ there's
+ a
+
+
+there's
+ a
+ big
+ uh
+ charter
+ city
+ startup
+
+
+that
+ would
+ be
+ very
+ happy
+ to
+ see
+ Trump
+
+
+and
+ the
+ United
+ States
+ take
+ over
+
+
+Greenland
+ because
+ that's
+ another
+
+
+possible
+ territory.
+ But
+ um
+ really
+ what
+
+
+they're
+ looking
+ for
+ are
+ places
+ with
+ weak
+
+
+sovereignty
+ or
+ places
+ where
+ the
+ local
+
+
+government
+ has
+ given
+ up
+ and
+ they
+ can
+
+
+hand
+ it
+ over
+ to
+ a
+ corporation
+
+
+essentially
+ or
+ a
+ few
+ American
+ venture
+
+
+capitalists
+ and
+ say
+ here
+ start
+ your
+ own
+
+
+community
+ and
+ you
+ know
+ it's
+ often
+
+
+presented
+ as
+ hey
+ this
+ is
+ just
+ what's
+
+
+wrong
+ with
+ a
+ new
+ community
+ or
+ building
+
+
+something
+ new
+ but
+ it
+ the
+ in
+ practice
+
+
+these
+ things
+ look
+ more
+ like
+ mini
+
+
+dictatorships
+ that
+ are
+ are
+ really
+ there
+
+
+to
+ serve
+ a
+ few
+ millionaires
+ and
+
+
+billionaires.
+ You
+ mentioned
+ Greenland,
+
+
+so
+ right
+ off
+ the
+ bat,
+ I'm
+ thinking
+ of
+
+
+Vice
+ President
+ JD
+ Vance.
+ Maybe
+ not
+ a
+ a
+
+
+favorite
+ there,
+ but
+ uh
+ you
+ talk
+ about
+
+
+him
+ a
+ bit
+ in
+ in
+ this
+ book.
+ Uh
+ he
+ was
+
+
+sponsored
+ early
+ in
+ his
+ political
+ career
+
+
+by
+ Peter
+ Teal.
+
+
+>> Um
+ did
+ Teal
+ create
+ JD
+ Vance
+ in
+ his
+ own
+
+
+image
+ or
+ in
+ a
+ in
+ the
+ same
+ way
+ he
+ created
+
+
+say
+ Prosper?
+ Vance
+ was
+ someone
+ who
+ met
+
+
+Teal
+ a
+ little
+ at
+ a
+ different
+ point
+ in
+
+
+his
+ life
+ when
+ he
+ was
+ at
+ Yale
+ Law
+ School
+
+
+and
+ he
+ as
+ as
+ Teal
+ I
+ mean
+ as
+ Vance
+ has
+
+
+described
+ it
+ uh
+ he
+ was
+ felt
+ a
+ little
+
+
+lost.
+ I
+ mean
+ Vance
+ is
+ someone
+ who
+
+
+through
+ his
+ own
+ narrative
+ and
+ and
+ his
+ uh
+
+
+memoir
+ has
+ described
+ himself
+ as
+
+
+searching
+ for
+ a
+ sense
+ of
+ identity
+ at
+
+
+different
+ points
+ of
+ his
+ life.
+ I
+ mean
+ he
+
+
+even
+ changed
+ his
+ name
+ a
+ couple
+ times.
+ He
+
+
+went
+ into
+ the
+ Marines.
+ He
+ uh
+ he
+ was
+
+
+trying
+ to
+ escape
+ kind
+ times
+ hard
+ luck
+
+
+upbringing.
+ And
+ when
+ he
+ met
+ Teal
+ at
+ Teal
+
+
+came
+ to
+ to
+ give
+ a
+ speech
+ at
+ Yale,
+ Teal
+
+
+is
+ someone
+ who
+ goes
+ to
+ a
+ lot
+ of
+ colleges
+
+
+even
+ still
+ to
+ give
+ speeches.
+ And
+
+
+according
+ to
+ his
+ account,
+ he
+ heard
+
+
+someone
+ there
+ who
+ he
+ thought
+ was
+ very
+
+
+smart,
+ but
+ also
+ telling
+ him
+ to
+ kind
+ of
+
+
+get
+ away
+ from
+ the
+ merit-driven
+ rat
+ race
+
+
+of
+ elite
+ law.
+ And
+ also
+ what
+ he
+ liked
+
+
+about
+ Teal
+ is
+ that
+ Teal's
+ religious.
+
+
+He's
+ a
+ Christian.
+ And
+ that
+ appealed
+ a
+
+
+lot
+ to
+ Vance.
+ And
+ after
+ that,
+ Vance
+ got
+
+
+in
+ touch
+ with
+ him.
+ And
+ from
+ there
+ his
+
+
+whole
+ life
+ really
+ changed
+ and
+ was
+ shaped
+
+
+by
+ by
+ Teal.
+ But
+ it
+ it
+ was
+ a
+ it
+ was
+ a
+
+
+choice
+ I
+ would
+ say
+ of
+ Vances
+ of
+ them
+ of
+
+
+him
+ seeing
+ someone
+ who
+ he
+ could
+ use
+ as
+ a
+
+
+model
+ and
+ a
+ mentor
+ and
+ then
+ really
+ going
+
+
+for
+ it.
+
+
+>> All
+ right.
+ Many
+ right-wing
+ moguls
+ have
+
+
+denounced
+ DEI,
+ diversity,
+ equity,
+
+
+inclusion
+ policies.
+ Uh
+ but
+ I'm
+ hoping
+
+
+you
+ can
+ help
+ me
+ understand
+ the
+ irony
+
+
+here
+ because
+ it
+ seems
+ in
+ their
+ own
+ way
+
+
+these
+ wealthy
+ tech
+ mogul
+ are
+ obsessed
+
+
+with
+ identity.
+
+
+>> Mhm.
+ How
+ so?
+
+
+>> Yeah.
+ Uh
+ certainly
+ a
+ lot
+ of
+ them
+
+
+consider
+ themselves
+ elites
+ and
+ some
+ of
+
+
+them
+ consider
+ themselves
+ genetic
+ elites.
+
+
+I
+ mean
+ and
+ so
+ in
+ that
+ way
+ there
+
+
+>> what's
+ the
+ distinction
+ between
+ those
+
+
+two?
+
+
+>> Well,
+ you
+ unfortunately
+ you
+ see
+ a
+ a
+
+
+recurrence
+ in
+ what
+ could
+ politely
+ be
+
+
+called
+ eugenics
+ in
+ a
+ lot
+ of
+ Silicon
+
+
+Valley.
+ I
+ mean,
+ not
+ just
+ what
+ I
+ was
+
+
+talking
+ about
+ with
+ um
+ this
+ research
+ into
+
+
+life
+ extension,
+ but
+ uh
+ a
+ lot
+ of
+ research
+
+
+into
+ um
+ IVF
+ and
+ different
+ reproductive
+
+
+procedures
+ that
+ go
+ beyond
+ just
+ trying
+
+
+to,
+ you
+ know,
+ make
+ people
+ fertile
+ or
+
+
+ability
+ to
+ reproduce,
+ but
+ actually,
+ you
+
+
+know,
+ screening
+ babies
+ for
+ or
+ embryos
+
+
+for
+ different
+ qualities.
+ And
+ I
+ think
+
+
+there
+ there
+ is
+ a
+ sense
+ among
+ tech
+ elites
+
+
+that
+ whether
+ you're
+ a
+ founder
+ which
+ is
+ a
+
+
+pretty
+ hallowed
+ identity
+ or
+ an
+ engineer
+
+
+or
+ a
+ venture
+ capitalist
+ you
+ are
+ part
+ of
+
+
+this
+ distinguished
+ elite
+ at
+ the
+ same
+
+
+time
+ you
+ know
+ more
+ traditional
+ forms
+ of
+
+
+identity
+ like
+ they
+ are
+ I
+ think
+ they
+ are
+
+
+very
+ conscious
+ of
+ their
+ status
+ that
+ most
+
+
+of
+ them
+ are
+ white
+ males
+ and
+ they
+ have
+
+
+chosen
+ to
+ think
+ that
+ DEI
+ and
+ any
+ other
+
+
+diversity
+ measures
+ and
+ also
+ social
+
+
+justice
+ movements
+ that
+ some
+ of
+ which
+ try
+
+
+to
+ write
+ old
+ wrongs
+ against
+ you
+
+
+for
+ marginalized
+ people
+ are
+ h
+ are
+
+
+instead
+ um
+ a
+ form
+ of
+ victimization
+ or
+
+
+discrimination
+ against
+ white
+ people
+ like
+
+
+them.
+ And
+ so
+ in
+ that
+ way
+ that
+ they
+ seem
+
+
+to
+ feel
+ like
+ they're
+ on
+ the
+ back
+ foot
+
+
+and
+ that
+ their
+ own
+ identity
+ is
+
+
+threatened,
+ that
+ it's
+ not
+ okay
+ to
+ be
+ a
+ a
+
+
+conservative
+ white
+ male.
+ Um
+ I
+ I
+
+
+certainly
+ don't
+ think
+ that's
+ true
+ and
+ I
+
+
+think
+ the
+ proof
+ is
+ in
+ uh
+ how
+ successful
+
+
+that
+ they
+ they've
+ been
+ but
+ they
+ feel
+
+
+like
+ they
+ sort
+ of
+ have
+ to
+ apolog
+
+
+the
+ the
+ the
+ buying
+ era
+ having
+ to
+
+
+apologize
+ for
+ who
+ they
+ are
+ and
+ now
+
+
+there's
+ a
+ sense
+ that
+ they
+ can
+ be
+ proud
+
+
+of
+ who
+ they
+ are
+ again
+ and
+ part
+ of
+ that
+
+
+is
+ considering
+ themselves
+ the
+ sort
+ of
+
+
+these
+ elites
+ the
+ elect
+ who
+ can
+ rule
+ over
+
+
+the
+ rest
+ of
+ us.
+
+
+>> Got
+ one
+ last
+ question
+ for
+ you
+ here.
+ Um,
+
+
+tech
+ moguls
+ as
+ as
+ we
+ discussed
+ have
+
+
+succeeded
+ in
+ not
+ only
+ limiting
+
+
+regulations
+ for
+ cryptocurrency,
+
+
+artificial
+ intelligence.
+ They're
+
+
+becoming
+ more
+ deeply
+ embedded
+ in
+ the
+
+
+national
+ security
+ state
+ and
+ they
+ lead
+
+
+the
+ anti-dei
+
+
+sort
+ of
+ woke
+ charge.
+ What
+ will
+ they
+ want
+
+
+in
+ the
+ years
+ ahead?
+
+
+>> Well,
+ they're
+ certainly
+ looking
+ to
+ the
+
+
+government
+ as
+ uh
+ a
+ cash
+ source.
+ They
+
+
+want
+ contracts
+ with
+ the
+ government.
+ They
+
+
+want,
+ they
+ know
+ that
+ a
+ lot
+ of
+ money
+ is
+
+
+going
+ to
+ be
+ coming
+ from
+ there.
+ It
+ always
+
+
+has,
+ but
+ um
+ given
+ how
+ right-wing
+ tech
+
+
+leads
+ have
+ kind
+ of
+ circled
+ around
+ Trump
+
+
+and
+ are
+ populating
+ his
+ administration,
+
+
+they're
+ now
+ looking
+ for
+ big
+ contracts.
+
+
+And
+ I
+ think
+ that
+ there's
+ still
+ going
+ to
+
+
+be
+ consumer-f
+ facing
+ companies,
+ of
+
+
+course,
+ and
+ trying
+ to
+ sell
+ their
+
+
+products
+ to
+ the
+ public.
+ But
+ with
+
+
+something
+ like
+ the
+ Stargate
+ initiative,
+
+
+which
+ is
+ hundreds
+ of
+ billions
+ of
+ dollars
+
+
+being
+ put
+ into
+ data
+ centers
+ for
+ AI
+ and
+
+
+computing,
+ that
+ that's
+ a
+ huge
+ uh
+
+
+possibility
+ for
+ the
+ tech
+ industry.
+ But
+
+
+now
+ they're
+ ve
+ very
+ proudly
+ going
+ back
+
+
+to
+ working
+ for
+ the
+ state,
+ working
+ for
+
+
+the
+ security
+ state.
+ It's
+ not
+ just
+
+
+companies
+ like
+ Peter
+ Teal's
+ Palanteer,
+
+
+you
+ know,
+ it's
+ Google,
+ Microsoft,
+ all
+
+
+the
+ tech
+ companies
+ and
+ also
+ ones
+ that
+
+
+are
+ purpose-built
+ to
+ work
+ for
+ the
+ uh
+
+
+defense
+ and
+ intelligence
+ uh
+
+
+establishment
+ like
+ Andil.
+ Um
+ so
+ I
+ think
+
+
+that's
+ where
+ they
+ see
+ their
+ future
+ now
+
+
+is
+ um
+ none
+ of
+ them
+ are
+ really
+
+
+libertarians
+ in
+ practice
+ even
+ if
+ they
+
+
+sometimes
+ claim
+ to
+ be
+ in
+ in
+ in
+ theory
+
+
+and
+ they
+ are
+ much
+ more
+ willing
+ to
+ unite
+
+
+with
+ the
+ powers
+ that
+ be
+ and
+ to
+ seek
+
+
+mutual
+ profit
+ and
+ power
+ there
+ in
+ a
+ way
+
+
+that
+ I
+ think
+ wouldn't
+ have
+ been
+
+
+acceptable
+ kind
+ of
+ to
+ the
+ tech
+ rank
+ and
+
+
+file
+ 10
+ or
+ 15
+ years
+ ago.
+
+
+>> All
+ right,
+ thank
+ you
+ Jacob.
+ This
+ was
+ a
+
+
+fantastic
+ career.
+ Thank you
+ for
+ raising
+
+
+the
+ flags
+ and
+ uh
+ really
+ well
+ researched
+
+
+stuff.
+ Appreciate
+ it.
+ Thank
+ you.
+
+
+>> We
+ are
+ building
+ this
+ show
+ for
+ you
+ and
+ we
+
+
+want
+ you
+ to
+ build
+ it
+ with
+ us.
+ What
+
+
+issues
+ do
+ you
+ want
+ to
+ know
+ more
+ about?
+
+
+What
+ do
+ you
+ like
+ or
+ not
+ like
+ about
+ what
+
+
+we're
+ doing
+ so
+ far?
+ Let
+ us
+ know.
+ Send
+
+
+your
+ feedback
+ and
+ ideas
+ to
+
+
+tvO.org/runddown
+
+
+feedback.
+ Until
+ then,
+ we'll
+ see
+ you
+
+
+tomorrow.
