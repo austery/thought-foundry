@@ -17,8 +17,8 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Sophie
-channel: 硅谷101
+speaker: 硅谷101
+channel: 
 guest: null
 insight: null
 layout: post.njk

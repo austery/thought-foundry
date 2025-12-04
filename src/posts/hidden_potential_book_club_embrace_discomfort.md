@@ -26,7 +26,7 @@ media_books:
 - 读书会
 date: 2025-07-28
 author: Lei
-speaker: ''
+speaker: 一口新饭读书会
 channel: ''
 draft: true
 file_name: hidden_potential_book_club_embrace_discomfort.md

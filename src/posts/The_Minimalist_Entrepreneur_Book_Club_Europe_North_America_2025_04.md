@@ -22,7 +22,7 @@ media_books:
 - 读书会
 date: '2025-07-10'
 author: Lei
-speaker: ''
+speaker: 一口新饭读书会
 channel: null
 guest: ''
 insight: null

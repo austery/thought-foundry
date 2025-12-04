@@ -25,7 +25,7 @@ media_books:
 - 读书会
 date: 2025-07-27
 author: Lei
-speaker: ''
+speaker: 一口新饭读书会
 channel: null
 draft: true
 file_name: hidden_potential_book_club_practice_and_growth.md
