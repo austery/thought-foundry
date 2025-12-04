@@ -19,7 +19,7 @@ products_models:
 media_books: []
 date: 2025-09-01
 author: Lei
-speaker: ''
+speaker: 北美王路飞
 draft: true
 guest: ''
 insight: null

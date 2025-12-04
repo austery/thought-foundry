@@ -17,20 +17,21 @@ tags:
 - software-as-a-service
 - startup-productivity
 people:
-  - Interviewer
+  - Erik Torenberg
   - Aaron Levie
+  - Steven Sinofsky
 companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: ''
+speaker: a16z
 draft: true
 guest: ''
 insight: null
 layout: post.njk
 series: null
-source: null
+source: https://www.youtube.com/watch?v=JI_lyrkh4Gs
 status: evergreen
 ---
 ### Debating Immigration Policy for Tech Talent

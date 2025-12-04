@@ -22,7 +22,7 @@ products_models: []
 media_books: []
 date: 2025-08-01
 author: Lei
-speaker: ''
+speaker: PCC insider
 Exclude: true
 channel: null
 draft: true
