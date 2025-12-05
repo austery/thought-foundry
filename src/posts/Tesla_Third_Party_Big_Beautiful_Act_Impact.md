@@ -14,7 +14,7 @@ products_models: []
 media_books: []
 date: '2025-07-07'
 author: Lei
-speaker: talk君
+speaker: 投资TALK君
 channel: null
 guest: null
 insight: null
