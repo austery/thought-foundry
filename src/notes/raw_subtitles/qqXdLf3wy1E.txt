@@ -1,0 +1,4266 @@
+All
+ right.
+ So
+ this
+ is
+ my
+ talk
+ called
+
+
+Agents
+ of
+ Robots
+ 2.
+ I've
+ given
+ different
+
+
+variants
+ of
+ this
+ talk
+ in
+ person
+ for
+
+
+different
+ events,
+ but
+ this
+ is
+ the
+ first
+
+
+one
+ that
+ I've
+ done
+ for
+ coding
+ agents.
+
+
+So
+ to
+ kick
+ things
+ off,
+ um
+ just
+ a
+ little
+
+
+bit
+ about
+ me.
+ I've
+ been
+ a
+ lifelong
+ ML
+
+
+engineer
+ and
+ I've
+ worked
+ at
+ places
+ like
+
+
+YouTube
+ and
+ Google
+ where
+ I
+ worked
+ on
+ the
+
+
+two
+ tower
+ embedding
+ model
+ as
+ well
+ as
+
+
+some
+ early
+ work
+ on
+ BERT
+ and
+ mixture
+ of
+
+
+experts.
+
+
+I
+ worked
+ on
+ ML
+ and
+ robotics
+ at
+ Whimo
+
+
+where
+ a
+ lot
+ of
+ my
+ focus
+ was
+ on
+ the
+ data
+
+
+side
+ as
+ well
+ as
+ reward
+ modeling
+ and
+
+
+evaluation.
+
+
+And
+ most
+ recently,
+ I've
+ been
+ working
+ on
+
+
+a
+ company
+ called
+ Abundant,
+ where
+ we
+ work
+
+
+on
+ a
+ lot
+ of
+ the
+ same
+ concepts
+ applied
+ to
+
+
+data
+ sets
+ for
+ Foundation
+ Model
+ Labs
+ and
+
+
+their
+ training
+ for
+ agentic
+ coding
+
+
+models.
+
+
+Um,
+ none
+ of
+ this
+ will
+ cover
+ any
+ inside
+
+
+information
+ about
+ Whimo,
+ but
+ we'll
+
+
+instead
+ cover
+ some
+ general
+ topics
+ that
+
+
+are
+ carried
+ over
+ from
+ self-driving
+ and
+
+
+robotics
+ into
+ digital
+ agents.
+
+
+So
+ I'll
+ kick
+ things
+ off
+ in
+ kind
+ of
+ like
+
+
+talking
+ about
+ what
+ some
+ of
+ the
+ parallels
+
+
+are.
+ And
+ I
+ think
+ one
+ of
+ the
+ main
+ things
+
+
+is
+ that
+ you
+ sort
+ of
+ have
+ this
+ 1%
+ versus
+
+
+99%
+ problem
+ where
+ you
+ think
+ that
+ the
+
+
+model
+ is
+ doing
+ most
+ of
+ the
+ work.
+ But
+
+
+when
+ you
+ get
+ into
+ real
+ world
+
+
+applications,
+ the
+ model
+ is
+ only
+ doing
+ 1%
+
+
+of
+ the
+ work
+ and
+ 99%
+ of
+ the
+ work
+ goes
+
+
+into
+ other
+ things.
+ So
+ in
+ robotics
+ you
+
+
+have
+ the
+ hardware
+ and
+ sensors
+ and
+
+
+actuators
+ you
+ have
+ integration
+
+
+deployment
+ and
+ you
+ have
+ this
+ whole
+
+
+offline
+ stack
+ that
+ does
+ simulation
+
+
+training
+ um
+ and
+ other
+ things.
+ In
+ agents
+
+
+you
+ also
+ have
+ this.
+ So
+ if
+ we
+ take
+ a
+ look
+
+
+at
+ the
+ two
+ stacks
+
+
+um
+ so
+ in
+ in
+ robotics
+ you
+ have
+ hardware
+
+
+and
+ you
+ have
+ actuators
+ you
+ have
+ the
+
+
+fleet
+ and
+ in
+ agents
+ you
+ also
+ have
+ um
+
+
+sort
+ of
+ like
+ a
+ body
+ right
+ whereas
+
+
+robotics
+ is
+ you
+ know
+ very
+ obviously
+
+
+embodied
+ because
+ you
+ go
+ from
+ a
+ brain
+ to
+
+
+a
+ physical
+ body.
+ In
+ agents
+ you
+ go
+ from
+ a
+
+
+model
+ to
+ sort
+ of
+ a
+ body
+ of
+ a
+ digital
+
+
+robot
+ that
+ includes
+ tools.
+ So
+ now
+ we
+
+
+have
+ APIs
+ and
+ MCPs
+ as
+ well
+ as
+ more
+
+
+advanced
+ uh
+ embodiment
+ in
+ terms
+ of
+ the
+
+
+terminal
+ and
+ the
+ browser
+ and
+ the
+ VM.
+ So
+
+
+you're
+ starting
+ to
+ see
+ like
+ the
+ robots
+
+
+hands
+ and
+ arms
+ and
+ legs
+ to
+ even
+ more
+
+
+advanced
+ things
+ like
+ the
+ entire
+ OS
+ and
+
+
+persistent
+ file
+ systems
+ and
+ things
+ like
+
+
+that.
+ Um
+ in
+ addition
+ you
+ have
+ the
+
+
+offline
+ stacked
+ so
+ transfer
+ over.
+ So
+
+
+we're
+ not
+ just
+ finished
+ when
+ we
+ have
+ the
+
+
+model.
+ We
+ also
+ have
+ to
+ continuously
+
+
+retrain.
+ We
+ have
+ to
+ monitor
+ these
+
+
+things.
+ We
+ also
+ have
+ human
+ feedback
+
+
+loops
+ and
+ all
+ this
+ other
+ stuff
+ that
+ we
+
+
+have
+ to
+ build
+ as
+ far
+ as
+ the
+ tooling
+ to
+
+
+even
+ support
+ development
+ of
+ the
+ agent.
+
+
+And
+ that's
+ like
+ sort
+ of
+ one
+ of
+ the
+ first
+
+
+learnings
+ that
+ I
+ I
+ want
+ to
+ share
+ is
+ that
+
+
+um
+ often
+ times
+ in
+ self-driving
+ people
+
+
+would
+ often
+ talk
+ about
+ the
+ winning
+ team
+
+
+not
+ just
+ having
+ the
+ best
+ model
+ and
+ the
+
+
+best
+ online
+ stack
+ but
+ having
+ the
+ best
+
+
+offline
+ stack
+ because
+ that
+ enables
+
+
+developers
+ to
+ be
+ much
+ faster
+ and
+ ship
+
+
+more
+ much
+ more
+ reliably.
+
+
+So
+ moving
+ on,
+ there's
+ this
+ concept
+ I
+
+
+want
+ to
+ share
+ in
+ robotics
+ of
+ open
+ loop
+
+
+and
+ closed
+ loop.
+ This
+ is
+ very
+ simply
+ uh
+
+
+being
+ able
+ to
+ take
+ an
+ action
+ or
+ to
+ uh
+
+
+move
+ an
+ actuator
+ or
+ a
+ motor
+ and
+ then
+
+
+being
+ able
+ to
+ get
+ the
+ feedback
+ of
+ how
+
+
+that
+ actually
+ uh
+ happened
+ in
+ the
+ real
+
+
+world
+ so
+ that
+ you
+ can
+ close
+ the
+ loop
+ on
+
+
+that
+ actual
+ action.
+ So,
+ for
+ example,
+ if
+
+
+I
+ turn
+ the
+ wheel
+ left,
+ I
+ want
+ to
+
+
+actually
+ measure
+ uh
+ how
+ much
+ did
+ my
+ car
+
+
+actually
+ turn
+ so
+ that
+ I
+ can
+ recalibrate
+
+
+and
+ make
+ sure
+ that
+ I'm
+ turning
+ exactly
+
+
+the
+ amount
+ I
+ intended
+ to
+ because
+ these
+
+
+things
+ aren't
+ perfect.
+
+
+In
+ the
+ same
+ way,
+ we're
+ starting
+ to
+ see
+
+
+where
+ some
+ openloop
+ things
+ actually
+ need
+
+
+to
+ be
+ closed.
+ So,
+ for
+ example,
+ if
+ I
+ run
+
+
+a
+ bash
+ command
+ and
+ I
+ run
+ an
+ open-ended
+
+
+process,
+ well,
+ sometimes
+ I
+ can't
+ observe
+
+
+the
+ outputs,
+ at least
+ not
+ in
+ real
+ time.
+
+
+I
+ can't
+ measure
+ whether
+ that
+ bash
+
+
+command
+ completed
+ and
+ I
+ can't
+ exit
+ early
+
+
+if
+ I
+ need
+ to.
+ So
+ that
+ that's
+ an
+ example
+
+
+of
+ where
+ we
+ need
+ to
+ make
+ things
+ more
+
+
+closed
+ loop.
+
+
+Another
+ thing
+ that's
+ kind
+ of
+ nuanced
+ is
+
+
+the
+ fact
+ that
+ um
+ we
+ are
+ implicitly
+
+
+discretizing
+ in
+ time.
+ So
+ what
+ do
+ I
+ mean
+
+
+by
+ that?
+ There
+ are
+ explicit
+ design
+
+
+choices
+ that
+ we
+ need
+ to
+ make
+ in
+ robotics
+
+
+about
+ the
+ input
+ space
+ and
+ then
+ the
+
+
+action
+ space.
+ And
+ particularly
+ in
+ the
+
+
+input
+ space,
+ you
+ have
+ different
+
+
+modalities.
+ So
+ you
+ have
+ the
+ option
+ to
+
+
+use
+ vision,
+ LAR,
+ radar,
+ all
+ these
+
+
+different
+ inputs
+ and
+ then
+ combine
+ them
+
+
+in
+ different
+ ways
+ to
+ get
+ a
+ sense
+ for
+ the
+
+
+world.
+ You
+ also
+ have
+ the
+ ability
+ to
+
+
+discretize
+ the
+ world
+ in
+ different
+ ways.
+
+
+You
+ can
+ sample
+ things
+ every
+ second.
+ You
+
+
+can
+ sample
+ things
+ only
+ when
+ they're
+
+
+pushed
+ to
+ you.
+ Or
+ you
+ can
+ sample
+ things
+
+
+in
+ this
+ example
+ on
+ like
+ 50
+ Hz,
+ so
+ 50
+
+
+times
+ per
+ second.
+
+
+So
+ that
+ means
+ I'll
+ keep
+ updating
+ the
+
+
+state
+ of the
+ world
+ and
+ I'll
+ keep
+
+
+replanning
+ uh
+ and
+ I'll
+ react
+ to
+ the
+
+
+world
+ very
+ quickly.
+ However,
+ in
+ agents
+
+
+we've
+ kind
+ of
+ done
+ this
+ implicitly.
+ So
+
+
+in
+ agents
+ we
+ often
+ have
+ a
+ conversation.
+
+
+So
+ we
+ wait
+ to
+ take
+ our
+ turn.
+ We
+ execute
+
+
+a
+ tool,
+ wait
+ for
+ the
+ entire
+ response.
+
+
+Maybe
+ we
+ do
+ that
+ in
+ sort
+ of
+ weird
+ ways,
+
+
+but
+ we
+ don't
+ do
+ this
+ thing
+ that's
+
+
+natural
+ robotics
+ where
+ we
+ keep
+ sampling
+
+
+from
+ the
+ world
+ and
+ we
+ keep
+ interacting
+
+
+in
+ real
+ time.
+ So
+ this
+ is
+ an
+ implicit
+
+
+design
+ decision
+ that
+ is
+ made
+ that
+ has
+
+
+its
+ pros
+ and
+ cons.
+ The
+ pros
+ are
+ it's
+
+
+very
+ easy
+ to
+ reason
+ about
+ when
+ we
+ have
+
+
+turns.
+ It's
+ very
+ easy
+ to
+ reason
+ about
+ a
+
+
+conversation.
+ It's
+ really
+ easy
+ to
+ reason
+
+
+about
+ an
+ input
+ and
+ output
+ of
+ a
+ turn.
+ Um
+
+
+but
+ in
+ in
+ uh
+ but
+ the
+ downside
+ of
+ that
+ is
+
+
+that
+ we
+ don't
+ get
+ to
+ do
+ things
+ in
+ real
+
+
+time.
+ You
+ can't
+ immediately
+ respond
+ to
+ a
+
+
+pop-up.
+ We
+ can't
+ immediately
+ interact
+
+
+with
+ a
+ longunning
+ process.
+ So
+ these
+ are
+
+
+the
+ implications
+ of
+ the
+ design
+ decisions
+
+
+that
+ we
+ make.
+
+
+So
+ more
+ on
+ those
+ uh
+ inputs
+ and
+ action
+
+
+spaces.
+ So
+ in
+ inputs
+ we
+ actually
+ have
+
+
+handcrafted
+ a
+ bunch
+ of
+ tools,
+ a
+ bunch
+ of
+
+
+ways
+ that
+ we
+ can
+ stream
+ from
+ tools,
+ we
+
+
+can
+ stream
+ from
+ the
+ user,
+ but
+ there
+ are
+
+
+other
+ options
+ out
+ there.
+ So
+ one
+ example
+
+
+I
+ want
+ to
+ highlight
+ is
+ the
+ terminus
+
+
+agent
+ from
+ terminal
+ bench.
+ Um,
+ so
+ this
+
+
+is
+ very
+ very
+ awesome
+ and
+ unique
+ in
+ that
+
+
+they're
+ actually
+ using
+ a
+ T-X
+ stream.
+ So
+
+
+you
+ can
+ actually
+ do
+ character
+ by
+
+
+character
+ uh
+ input
+ and
+ output
+ if
+ you
+
+
+want
+ to
+ where
+ you
+ can
+ do
+ things
+ like
+
+
+control
+ C
+ or
+ you
+ can
+ do
+ various
+ window
+
+
+commands
+ if
+ you
+ want
+ to.
+ Um,
+ and
+ so
+ that
+
+
+that's
+ a
+ very
+ unique
+ and
+ more
+ flexible
+
+
+way
+ of
+ interacting
+ with
+ our
+ action
+ space
+
+
+that
+ we
+ don't
+ traditionally
+ think
+ about
+
+
+when
+ designing
+ agents.
+
+
+Other
+ ways
+ in
+ which
+ you
+ could
+ do
+ action
+
+
+space
+ and
+ robotics.
+ We
+ could
+ plan
+ in
+
+
+purely
+ XY.
+ So
+ you
+ move
+ up
+ one
+ block
+ and
+
+
+then
+ move
+ over
+ by
+ two.
+ You
+ can
+ do
+ that
+
+
+in
+ coarse
+ ways.
+ You
+ can
+ do
+ that
+ in
+
+
+continuous
+ space.
+ You
+ can
+ do
+ things
+ in
+
+
+2D.
+ You
+ can
+ do
+ things
+ in
+ 3D.
+ You
+ can
+ do
+
+
+things
+ in
+ acceleration
+ instead
+ of
+ just
+
+
+position.
+ You
+ can
+ do
+ things
+ in
+
+
+velocities.
+ Um
+ in
+ agents
+ we
+ should
+ also
+
+
+think
+ about
+ this
+ although
+ it's
+ less
+
+
+relevant.
+ You
+ can
+ you
+ don't
+ have
+ to
+
+
+think
+ about
+ just
+ interacting
+ with
+ uh
+
+
+MCPS
+ and
+ tool
+ calls.
+ Like
+ I
+ mentioned
+
+
+with
+ Terminus,
+ you
+ can
+ interact
+ with
+ the
+
+
+computer
+ at
+ a
+ character
+ level.
+ You
+ can
+
+
+even
+ do
+ things
+ like
+ the
+ dreamer
+ paper
+
+
+where
+ you
+ interact
+ with
+ the
+ computer
+
+
+purely
+ by
+ interacting
+ at
+ 20
+ frames
+ per
+
+
+second
+ with
+ the
+ mouse
+ clicks
+ and
+
+
+keyboard.
+ So
+ the
+ question
+ is
+ what
+
+
+trade-offs
+ are
+ we
+ making
+ and
+ what
+
+
+implicit
+ or
+ explicit
+ design
+ decisions
+
+
+have
+ we
+ made
+ that
+ either
+ enable
+ us
+ to
+ do
+
+
+more
+ or
+ is
+ limiting
+ what
+ we
+ can
+ do
+ with
+
+
+our
+ agent.
+
+
+The
+ next
+ thing
+ I
+ want
+ to
+ talk
+ about
+ is
+
+
+how
+ we're
+ going
+ from
+ stateless
+ processes
+
+
+to
+ stateful
+ processes.
+ If
+ you
+ think
+
+
+about
+ driving
+ in
+ a
+ video
+ game,
+ you
+ can
+
+
+spawn
+ from
+ nothing.
+ And
+ you
+ don't
+ have
+
+
+to
+ worry
+ about
+ where
+ I
+ came
+ from
+ and
+
+
+where
+ I
+ go
+ after
+ I
+ terminate
+ the
+
+
+session.
+ You
+ just
+ have
+ to
+ worry
+ about
+
+
+what
+ I
+ do
+ during
+ that
+ session.
+ But
+
+
+that's
+ obviously
+ not
+ true
+ in
+ the
+ real
+
+
+world.
+ In
+ the
+ real
+ world,
+ you
+ have
+ a
+
+
+real
+ car.
+ That
+ car
+ takes
+ up
+ mass.
+ It
+
+
+takes
+ up
+ space.
+ And
+ so,
+ you
+ do
+ have
+ to
+
+
+worry
+ about
+ where
+ that
+ car
+ ends
+ up.
+ And
+
+
+you
+ have
+ to
+ worry
+ about
+ how
+ we
+ got
+ into
+
+
+the
+ scene,
+ right?
+ everything
+ is
+ moving.
+
+
+There
+ are
+ implications
+ to
+ how
+ fast
+
+
+you're
+ moving
+ and
+ how
+ fast
+ everyone
+ else
+
+
+is
+ moving.
+ Similarly,
+ we're
+ going
+ from
+
+
+these
+ stateless
+ agents
+ to
+ more
+ stateful
+
+
+agents.
+ Right?
+ Before
+ we
+ just
+ had
+ to
+
+
+spin
+ up
+ a
+ session
+ and
+ the
+ session,
+ get
+
+
+an
+ artifact
+ out
+ of
+ it.
+ That's
+ great.
+
+
+Now,
+ we
+ have
+ VMs.
+ VMs
+ that
+ are
+ stateful
+
+
+both
+ in
+ terms
+ of
+ what's
+ running,
+ but
+
+
+also
+ the
+ persistent
+ file
+ store.
+ And
+ so,
+
+
+now
+ when
+ we
+ have
+ agents
+ and
+ we
+ spin
+ them
+
+
+up,
+ we
+ have
+ to
+ consider,
+ hey,
+ what
+ is
+
+
+the
+ entire
+ space
+ that
+ we're
+ running
+
+
+into?
+ What
+ are
+ all
+ the
+ Slack
+ messages
+
+
+that
+ are
+ currently
+ going
+ on?
+ What
+ is
+ the
+
+
+state
+ of
+ the
+ world?
+ What
+ are
+ all
+ of
+ the
+
+
+things
+ that
+ I
+ have
+ to
+ interact
+ with?
+ And
+
+
+not
+ only
+ how
+ we
+ do
+ that,
+ deal
+ with
+ that
+
+
+online,
+ but
+ how
+ does
+ that
+ impact
+ how
+ we
+
+
+do
+ evaluation
+ and
+ simulation?
+ So
+ these
+
+
+are
+ this
+ is
+ one
+ of
+ the
+ more
+ interesting
+
+
+things
+ that's
+ happening
+ in
+ agent
+ space
+
+
+right
+ now.
+
+
+One
+ of
+ the
+ more
+ nuanced
+ things
+ more
+
+
+familiar
+ to
+ the
+ people
+ that
+ are
+ working
+
+
+on
+ modeling
+ and
+ training
+ is
+ a
+ sort
+ of
+
+
+like
+ dagger
+ and
+ out
+ of
+ distribution
+
+
+problem.
+ So
+ just
+ like
+ in
+ robotics
+ and
+
+
+agents,
+ we
+ have
+ options
+ of
+ training
+ our
+
+
+models
+ with
+ imitation
+ uh
+ imitation
+
+
+learning
+ being
+ similar
+ to
+ the
+ SFT
+ from
+
+
+human
+ demonstrations
+ versus
+ RL.
+ And
+ RL
+
+
+can
+ be
+ in
+ simulation
+ or
+ it
+ can
+ be
+ in
+
+
+other
+ ways
+ as
+ well.
+ But
+ one
+ of
+ the
+ known
+
+
+issues
+ with
+ imitation
+ is
+ that
+ as
+ soon
+ as
+
+
+you
+ get
+ a
+ little
+ bit
+ out
+ of
+ distribution
+
+
+or
+ off
+ policy
+ in
+ relation
+ to
+ the
+ human
+
+
+examples,
+ you
+ get
+ really
+ out
+ of
+
+
+distribution.
+ And
+ you
+ can
+ start
+ to
+ see
+
+
+this
+ in
+ agents
+ such
+ as
+ browser
+ agents.
+
+
+When
+ you
+ see
+ a
+ pop-up
+ that
+ never
+
+
+happened
+ in
+ training
+ because
+ humans
+
+
+actually
+ interact
+ with
+ pop-ups
+ quite
+
+
+naturally,
+ it
+ gets
+ confused
+ and
+ it
+ gets
+
+
+really
+ confused.
+ So
+ this
+ is
+ an
+ issue
+ of
+
+
+cascading
+ issues
+ that
+ you
+ can
+ see
+ has
+
+
+been
+ studied
+ for
+ quite
+ a
+ while
+ in
+
+
+robotics.
+
+
+And
+ the
+ general
+ theme
+ around
+ this
+ is
+
+
+that
+ actions
+ have
+ consequences.
+ We're
+
+
+not
+ just
+ dealing
+ with
+ classification
+
+
+models.
+ We're
+ not
+ just
+ dealing
+ with
+
+
+prediction
+ models
+ or
+ sequences.
+ We're
+
+
+dealing
+ with
+ a
+ whole
+ new
+ paradigm
+ in
+
+
+which
+ you
+ predict,
+ you
+ act,
+ and
+ then
+ you
+
+
+deal
+ with
+ the
+ consequences
+ of
+ that
+
+
+action
+ and
+ then
+ re-evaluate
+ everything
+
+
+you've
+ done
+ before.
+ And
+ that's
+ really
+
+
+tough
+ because
+ actions
+ have
+ consequences
+
+
+and
+ actions
+ have
+ consequences
+ in
+ a
+ very
+
+
+messy
+ real
+ world.
+
+
+And
+ as
+ a
+ result
+ of
+ the
+ complexity
+ of
+ the
+
+
+real
+ world,
+ that's
+ where
+ simulation
+
+
+comes
+ into
+ play
+ such
+ that
+ you
+ can
+
+
+represent
+ all
+ of
+ these
+ complexities
+ and
+
+
+all
+ the
+ messiness
+ of
+ the
+ real
+ world
+ into
+
+
+your
+ starting
+ state
+ and
+ you
+ can
+ play
+
+
+through
+ uh
+ the
+ real
+ world
+ not
+ just
+ in
+ a
+
+
+single
+ path
+ but
+ all
+ the
+ paths
+ that
+ you
+
+
+could
+ possibly
+ take
+ as
+ your
+ agent
+
+
+changes.
+ So
+ we
+ call
+ that
+ playing
+ out
+
+
+counterfactuals.
+
+
+The
+ other
+ thing
+ to
+ be
+ aware
+ about,
+ and
+
+
+this
+ is
+ sort
+ of
+ like
+ classic
+
+
+reinforcement
+ learning
+ or
+ robotics,
+ is
+
+
+the
+ concept
+ of
+ an
+ MDP.
+ And
+ so
+ that's
+
+
+where
+ there's
+ an
+ agent
+ that
+ takes
+ into
+
+
+account
+ a
+ state
+ and
+ a
+ reward
+ and
+ then
+
+
+we'll
+ take
+ actions
+ on
+ an
+ environment
+ or
+
+
+a
+ world.
+ And
+ this
+ is
+ just
+ sort
+ of
+ a
+
+
+formalism
+ about
+ how
+ to
+ conceptualize
+ how
+
+
+you're
+ running
+ the
+ agent
+ loop.
+ And
+ these
+
+
+are
+ just
+ useful
+ primitives
+ to
+ have
+ on
+
+
+hand
+ so
+ that
+ you
+ can
+ describe
+ and
+ you
+
+
+can
+ communicate
+ what's
+ going
+ on.
+
+
+The
+ reason
+ this
+ is
+ important
+ is
+ because
+
+
+we're
+ moving
+ from
+ just
+ plain
+ chat
+ models
+
+
+to
+ agent
+ models
+ that
+ take
+ action.
+ For
+
+
+context,
+ a
+ lot
+ of
+ self-driving
+ uh
+
+
+initially
+ seemed
+ really
+ fast
+ but
+ was
+
+
+really
+ slow
+ in
+ progress
+ because
+ it
+ was
+
+
+sort
+ of
+ the
+ same
+ issues.
+ So
+ everybody
+ in
+
+
+the
+ space
+ from
+ 2017
+ to
+ 2020
+ was
+ really
+
+
+focused
+ on
+ perception
+ models
+ and
+
+
+thinking
+ that
+ all
+ you
+ really
+ needed
+ to
+
+
+do
+ was
+ uh
+ take
+ the
+ state
+ of
+ the
+ world
+
+
+and
+ make
+ boxes
+ and
+ then
+ you
+ can
+ drive
+
+
+around
+ the
+ boxes
+ really
+ easily.
+ It
+ turns
+
+
+out
+ that
+ assumption
+ wasn't
+ necessarily
+
+
+true
+ and
+ there's
+ a
+ lot
+ of
+ hidden
+
+
+complexity
+ in
+ creating
+ action
+ models
+ and
+
+
+not
+ just
+ predictive
+ models.
+ Similarly
+ in
+
+
+language
+ models
+ we
+ can
+ see
+ that
+ we
+ can
+
+
+understand
+ basically
+ everything
+ about
+
+
+the
+ world
+ that
+ comes
+ in
+ via
+ text.
+ We
+ can
+
+
+generate
+ really
+ long
+ sophisticated
+
+
+reasoning
+ traces.
+
+
+But
+ when
+ you
+ take
+ these
+ really
+
+
+sophisticated
+ plans,
+ really
+
+
+sophisticated
+ chains
+ of
+ tool
+ calls
+ and
+
+
+you
+ implement
+ them
+ in
+ the
+ real
+ world,
+
+
+you
+ can
+ see
+ things
+ go
+ wrong
+ all
+ the
+
+
+time.
+ You
+ can
+ see
+ the
+ tool
+ calls
+ fail
+
+
+and
+ the
+ agent
+ failed
+ to
+ progress.
+ You
+
+
+can
+ see
+ the
+ agent
+ failed
+ to
+ correct
+ from
+
+
+its
+ own
+ mistakes.
+ This
+ is
+ sort
+ of
+ the
+
+
+loop
+ that
+ is
+ deceptively
+ tricky
+ about
+
+
+when
+ you
+ get
+ into
+ actions
+ from
+
+
+predictive
+ models.
+ This
+ is
+ really
+ where
+
+
+the
+ bulk
+ of
+ the
+ work
+ had
+ been
+ and
+ where
+
+
+a
+ bulk
+ of
+ the
+ work
+ will
+ continue
+ to
+ be
+
+
+in
+ agents
+ as
+ well.
+
+
+I
+ also
+ want
+ to
+ point
+ out
+ in
+ both
+ of
+
+
+these
+ cases
+ in
+ self-driving
+ when
+ it
+
+
+comes
+ to
+ robotics
+
+
+and
+ in
+ code
+ when
+ it
+ comes
+ to
+ digital
+
+
+agents
+ we're
+ actually
+ very
+ lucky
+ in
+
+
+both.
+ Like
+ why
+ are
+ we
+ lucky?
+ I
+ you
+ can
+
+
+see
+ self-driving
+ working
+ really
+ well
+ in
+
+
+production
+ today
+ in
+ limited
+ cases
+
+
+whereas
+ the
+ rest
+ of
+ robotics
+ is
+ still
+
+
+limited
+ to
+ demos
+ and
+ this
+ is
+ because
+ of
+
+
+how
+ we
+ have
+ this
+ machine
+ that's
+
+
+predefined
+ with
+ human
+ controls
+ that's
+
+
+been
+ really
+ well
+ refined
+ over
+ the
+ last
+
+
+few
+ decades
+ and
+ then
+ it
+ has
+ electronic
+
+
+controls
+ and
+ it
+ has
+ built-in
+ telemetry
+
+
+right
+ so
+ it's
+ something
+ that
+ you
+ already
+
+
+have
+ a
+ predefined
+ interface
+ to
+ take
+
+
+actions
+ with
+ and
+ you
+ have
+ predefined
+
+
+interfaces
+ to
+ collect
+ the
+ data
+ from.
+
+
+So
+ that
+ makes
+ it
+ really
+ convenient
+ to
+
+
+operate
+ through
+ code
+ and
+ it
+ makes
+ it
+
+
+really
+ convenient
+ to
+ perform
+ machine
+
+
+learning
+ and
+ learning
+ in
+ general
+ on.
+ We
+
+
+have
+ this
+ predefined
+ interface
+ with
+
+
+predefined
+ actions
+ and
+ predefined
+
+
+telemetry
+ and
+ that
+ makes
+ it
+ much
+ much
+
+
+easier
+ of
+ a
+ task
+ than
+ going
+ into
+ some
+ of
+
+
+these
+ other
+ knowledge
+ work
+ tasks
+ that
+
+
+require
+ the
+ full
+ desktop
+ and
+ things
+ that
+
+
+are
+ less
+ easy
+ to
+ codify.
+
+
+So
+ when
+ we
+ explore
+ new
+ domains,
+ these
+
+
+are
+ some
+ of
+ the
+ things
+ we
+ want
+ to
+
+
+consider.
+ Is
+ there
+ somewhere
+ where
+ we
+
+
+already
+ get
+ a
+ predefined
+ human
+ interface
+
+
+that
+ makes
+ it
+ easy
+ to
+ do
+ those
+ two
+
+
+things?
+
+
+Finally,
+ I
+ want
+ to
+ talk
+ about
+ one
+ of
+ the
+
+
+things
+ that
+ we
+ face
+ from
+ day-to-day
+ and
+
+
+that's
+ the
+ hill
+ climbing
+ process.
+ And
+ if
+
+
+you're
+ not
+ familiar
+ with
+ hill
+ climbing,
+
+
+it's
+ basically
+ this
+ iterative
+ process
+ of
+
+
+building
+ or
+ iterating
+ on
+ a
+ complex
+
+
+system
+ such
+ as
+ an
+ LM
+ or
+ an
+ agent.
+ when
+
+
+you
+ don't
+ always
+ make
+ forward
+ progress.
+
+
+So
+ before
+ when
+ we
+ were
+ working
+ on
+ full
+
+
+stack
+ web
+ applications
+ or
+ working
+ on
+
+
+more
+ simple
+ systems,
+ you
+ implement
+ a
+
+
+feature
+ and
+ you
+ probably
+ guarantee
+ that
+
+
+feature
+ will
+ arrive
+ into
+ prod.
+ Nowadays
+
+
+you
+ have
+ this
+ sort
+ of
+ like
+ nebulous
+
+
+metric
+ that
+ you're
+ trying
+ to
+ hit.
+ And
+
+
+the
+ only
+ way
+ you
+ can
+ do
+ that
+ is
+ by
+
+
+guessing
+ and
+ checking.
+ So
+ you
+ have
+ a
+
+
+metric
+ like
+ a
+ benchmark,
+ then
+ you
+ make
+
+
+some
+ guess,
+ you
+ run
+ some
+ experiment
+ and
+
+
+you
+ hope
+ you
+ go
+ up,
+ sometimes
+ you
+ go
+
+
+down,
+ but
+ as
+ long
+ as
+ you
+ keep
+ going
+ up
+
+
+and
+ up
+ and
+ up,
+ then
+ you
+ can
+ eventually
+
+
+reach
+ your
+ goal.
+ And
+ that's
+ the
+ concept
+
+
+of
+ hill
+ climbing.
+ But
+ how
+ we
+ do
+ it
+ in
+
+
+the
+ self-driving
+ way
+ is
+ a
+ little
+ bit
+
+
+more
+ sophisticated.
+ We
+ actually
+ start
+ by
+
+
+learning
+ and
+ then
+ going
+ through
+
+
+simulation.
+ Simulation
+ helps
+ you
+ deploy
+
+
+with
+ confidence
+ and
+ it
+ also
+ helps
+ your
+
+
+learning.
+ But
+ then
+ once
+ you
+ deploy,
+ you
+
+
+can
+ actually
+ get
+ logs
+ from
+ the
+ real
+
+
+world
+ that
+ feed
+ back
+ into
+ your
+
+
+simulation
+ engine.
+ That's
+ really
+
+
+important
+ because
+ you
+ want
+ to
+ ground
+
+
+your
+ simulation
+ on
+ something.
+ And
+ so
+ you
+
+
+start
+ to
+ get
+ this
+ full
+ loop.
+ The
+ logs
+
+
+actually
+ become
+ a
+ much
+ more
+ important
+
+
+part
+ of
+ the
+ process
+ than
+ they
+ are
+ today.
+
+
+you
+ can
+ get
+ a
+ lot
+ more
+ insights
+ than
+
+
+just
+ your
+ numbers,
+ right?
+ So
+ like
+ a
+ 70%
+
+
+at
+ a
+ benchmark
+ will
+ tell
+ you
+ a
+ little
+
+
+bit,
+ but
+ if
+ you
+ start
+ to
+ break
+ them
+ down
+
+
+into
+ different
+ categories,
+ different
+
+
+cities,
+ different
+ ways
+ you
+ can
+ mess
+ up,
+
+
+start
+ to
+ triage
+ the
+ individual
+ failures,
+
+
+you
+ can
+ get
+ a
+ lot
+ more
+ insights
+ about
+
+
+how
+ to
+ improve
+ your
+ system
+ and
+ on
+ where
+
+
+to
+ improve.
+ And
+ that's
+ a
+ lot
+ of
+ what
+
+
+we've
+ developed
+ our
+ tooling
+ around
+ and
+ a
+
+
+lot
+ of
+ what
+ we've
+ developed
+ our
+
+
+processes
+ around
+ that
+ help
+ some
+ of
+ our
+
+
+customers
+ with
+ their
+ hill
+ climbing.
+
+
+Finally,
+ like
+ you
+ know,
+ we're
+ only
+ part
+
+
+of
+ the
+ way
+ there.
+ At least
+ this
+ is
+ a
+
+
+metric
+ from
+ the
+ remote
+ labor
+ benchmark.
+
+
+And
+ you
+ know,
+ I'd
+ like
+ to
+ compare
+ this
+
+
+to
+ where
+ self-driving
+ was
+ back
+ in
+ the
+
+
+beginning.
+ And
+ it's
+ because
+ we
+ have
+
+
+really
+ great
+ demos
+ and
+ we
+ have
+ really
+
+
+great
+ predictive
+ models,
+ but
+ we're
+ not
+
+
+nearly
+ there
+ as
+ far
+ as
+ endto-end
+ work
+
+
+completion.
+ A
+ lot
+ of
+ the
+ reasons
+ are
+
+
+because
+ of
+ the
+ things
+ I
+ brought
+ up
+
+
+before
+ with
+ actions
+ having
+ consequences
+
+
+and
+ the
+ complexity
+ of
+ the
+ real
+ world.
+ To
+
+
+recap,
+ we've
+ covered
+ the
+ parallels
+
+
+between
+ robotics
+ and
+ agents.
+ Some
+ of
+
+
+those
+ are
+ having
+ to
+ do
+ closed
+ loop
+
+
+systems,
+ getting
+ closed
+ loop
+ feedback,
+
+
+how
+ we
+ discretize
+ systems,
+ how
+ we
+ pick
+
+
+action
+ and
+ input
+ spaces,
+ how
+ we
+ can
+ go
+
+
+from
+ stateless
+ to
+ stateful,
+ how
+ we're
+
+
+going
+ from
+ predictive
+ models
+ to
+ action
+
+
+models,
+ how
+ we
+ utilize
+ simulation
+ in
+
+
+deployment
+ and
+ in
+ training,
+ um,
+ and
+ how
+
+
+infrastructure
+ is
+ really
+ important
+ to
+
+
+the
+ entire
+ development
+ process.
+ If
+
+
+you've
+ gotten
+ this
+ far,
+ I'd
+ like
+ to
+ say
+
+
+congrats
+ and
+ you've
+ become
+ a
+ master
+ in
+
+
+this
+ new
+ topic
+ that
+ we're
+ calling
+
+
+agentics
+ because
+ why
+ not?
+ Because,
+ you
+
+
+know,
+ robotics
+ sounds
+ cool.
+ Why
+ not
+ make
+
+
+the
+ this
+ agent
+ development
+ stuff
+ just
+ as
+
+
+cool?
+ Um
+ because
+ I
+ think
+ it
+ takes
+ a
+ lot
+
+
+of
+ these
+ core
+ concepts
+ and
+ abstractions
+
+
+to
+ really
+ make
+ this
+ go
+ from
+ something
+
+
+that
+ we
+ hack
+ on
+ to
+ something
+ that
+ has
+
+
+dedicated
+ real
+ science
+ and
+ really
+
+
+becomes
+ a
+ practice.
+ And
+ so
+ if
+ any
+ of
+
+
+these
+ concepts
+ are
+ useful
+ for
+ you
+ like
+ a
+
+
+lot
+ of
+ these
+ things
+ are
+ pretty
+ easy
+ to
+
+
+understand
+ and
+ read
+ about.
+ You
+ can
+ read
+
+
+about
+ openloop
+ and
+ closed
+ loop
+ control
+
+
+MDPs
+ fully
+ versus
+ partially
+ observable
+
+
+environments.
+ You
+ can
+ read
+ about
+ dagger
+
+
+uh
+ offline
+ RL
+ is
+ a
+ really
+ cool
+ topic
+
+
+that
+ is
+ featured
+ in
+ more
+ recent
+ robotics
+
+
+work.
+ And
+ then
+ just
+ like
+ the
+ intro
+
+
+reinforcement
+ learning
+ book
+ is
+ all
+
+
+great.
+ You
+ probably
+ will
+ understand
+
+
+these
+ things
+ natively
+ because
+ the
+
+
+problems
+ are
+ really
+ obvious
+ and
+ easier
+
+
+to
+ understand
+ in
+ agent
+ space.
+ And
+
+
+finally,
+ you
+ can
+ read
+ up
+ on
+ a
+ lot
+ of
+ the
+
+
+recent
+ robotics
+ literature
+ as
+ well
+ since
+
+
+a
+ lot
+ of
+ the
+ field
+ is
+ converging.
+ So
+ you
+
+
+can
+ just
+ start
+ from
+ the
+ papers.
+
+
+Just
+ as
+ a
+ recap,
+ you
+ know,
+ agents
+ are
+
+
+robots
+ too.
+ They
+ act
+ in
+ the
+ real
+ world.
+
+
+They
+ make
+ mistakes.
+ They
+ have
+ to
+
+
+recover.
+ And
+ all
+ of
+ these
+ little
+ things
+
+
+really
+ matter.
+ Thanks.
+ You
+ can
+ feel
+ free
+
+
+to
+ get
+ in
+ touch.
+ Here's
+ my
+ email,
+
+
+jesseabund.ai.
+
+
+Feel
+ free
+ to
+ send
+ me
+ any
+ thoughts
+ or
+
+
+feedback.
+ Thanks.
