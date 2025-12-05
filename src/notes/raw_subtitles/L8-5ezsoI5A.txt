@@ -1,0 +1,4378 @@
+[Music]
+
+
+Hello
+ everyone.
+ My
+ name
+ is
+ Diego
+
+
+Rodriguez.
+ I
+ am
+ co-founder
+ and
+ CTO
+ at
+
+
+Korea.
+ We're
+ building
+ an
+ AI
+ creative
+
+
+suite.
+ I'm
+ going
+ to
+ tell
+ you
+ three
+
+
+stories
+ and
+ then
+ I'll
+ try
+ to
+ hire
+ you.
+
+
+So,
+ a
+ friend
+ once
+ told
+ me,
+ if
+ you
+ think
+
+
+about
+ it,
+ like
+ cars
+ are
+ easy
+ to
+ predict,
+
+
+right?
+ Like
+ it's
+ like
+ you
+ you
+ get
+ the
+
+
+horse,
+ you
+ have
+ the
+ wheels,
+ you
+ swap
+ the
+
+
+horse,
+ and
+ you
+ put
+ an
+ engine,
+ which
+ was
+
+
+known
+ at
+ the
+ time,
+ and
+ that's
+ a
+ car.
+ But
+
+
+like,
+ you
+ know
+ what's
+ really
+ hard
+ to
+
+
+predict?
+
+
+Traffic.
+
+
+So
+ it's
+ my
+ job
+ to
+ ask
+ what
+ are
+ the
+
+
+traffics
+ that
+ are
+ we
+ we're
+ missing
+
+
+especially
+ with
+ AI
+ you
+ know
+ JAMAMO
+ JSON
+
+
+MCP
+ whatever
+ it's
+ like
+ okay
+ okay
+ but
+
+
+like
+ what
+ comes
+ what
+ happens
+ when
+
+
+you
+ generate
+ a
+ million
+ images
+ per
+ day
+
+
+like
+ we
+ do
+ for
+ one
+ studio
+ how
+ do
+ you
+
+
+find
+ that
+
+
+another
+ story
+
+
+tower
+ babble
+ we
+ wanted
+ to
+ reach
+ heaven
+
+
+go
+ was
+ like
+ no
+ created
+ a
+ bunch
+ of
+
+
+languages
+ and
+ basically
+ misunderstanding
+
+
+misunderstanding
+ was
+ like
+ nope
+ we
+ are
+
+
+not
+ going
+ to
+ go
+ there
+ and
+ it
+ reminds
+ me
+
+
+of
+ standup
+ meetings
+ where
+ people
+ are
+
+
+like
+ no
+ it
+ should
+ be
+ react
+ no
+ no
+ but
+
+
+like
+ it
+ should
+ be
+ like
+ JavaScript
+ any
+
+
+was
+ like
+ dude
+ we're
+ not
+ re
+ God
+ is
+
+
+winning
+
+
+uh
+ but
+ now
+ we
+ have
+ AI
+ so
+ maybe
+ okay
+ he
+
+
+if
+ it
+ wasn't
+ with
+ crypto
+ it
+ was
+ with
+ AI
+
+
+you'll
+ see
+ um
+ so
+ this
+ is
+ only
+ like
+
+
+people
+ trying
+ to
+ convey
+ ideas
+ and
+ that's
+
+
+what
+ we're
+ trying
+ to
+ tell
+ just
+ trying
+ to
+
+
+tell
+ stories.
+ Um
+ the
+ final
+ story
+ is
+ I
+
+
+was
+ talking
+ with
+ someone
+ from
+ Netflix
+ uh
+
+
+and
+ she
+ was
+ like
+
+
+what
+ happens
+
+
+when
+ we
+ are
+ making
+ so
+ much
+ content
+
+
+personalized
+ to
+ each
+ town
+ in
+ India?
+ How
+
+
+do
+ I
+ even
+ find
+ that?
+ Like,
+ right.
+ And
+
+
+and
+ then
+ a
+ few
+ days
+ ago,
+ I
+ just
+ realized
+
+
+that
+ Korea
+ was
+ already
+ being
+ used
+ for
+
+
+broadcasting
+ an
+ ad
+ uh
+ with
+ Fox
+ to
+
+
+millions
+ of
+ people.
+ And
+ then
+ I
+ look
+ and
+
+
+they
+ literally
+ signed
+ up
+ two
+ days
+ ago.
+
+
+So,
+ we
+ went
+ from
+ sign
+ up
+ to
+ conversion
+
+
+to
+ payment
+ to
+ broadcasting
+ two
+ days.
+ I
+
+
+And
+ then
+ this
+ was
+ the
+ CTO
+ telling
+ me
+
+
+that.
+ I
+ was
+ like,
+ well,
+
+
+um
+ I
+ basically
+ I'm
+ about
+ to
+ run
+ out
+ of
+
+
+time.
+ So
+ the
+ mandatory
+ slide
+ a
+ bunch
+ of
+
+
+users
+ 25
+ million
+ raised
+ a
+ bunch
+ of
+ money
+
+
+we
+ did
+ this
+ with
+ eight
+ people
+ some
+ of
+
+
+the
+ people
+ who
+ are
+ using
+ us
+ uh
+ an
+ email
+
+
+that
+ I
+ created
+ for
+ today
+ that
+ is
+ going
+
+
+to
+ prioritize
+ applications
+ um
+ thank
+ you
+
+
+all
+ right
+ home.
+ Okay,
+ everybody.
+ The
+
+
+smartphone
+ was
+ the
+ number
+ one
+
+
+bestselling
+ consumer
+ product
+ last
+ year
+
+
+and
+ the
+ laptop
+ was
+ the
+ second.
+
+
+Pop
+ quiz
+ for
+ all
+ you
+ here.
+ What
+ was
+ the
+
+
+third?
+
+
+>> Apple
+ Watch.
+
+
+>> Wasn't
+ the
+ Apple
+ Watch?
+ Wasn't
+ the
+
+
+AirPod?
+ No,
+ I
+ think
+ I
+ heard
+ it.
+ It
+ was
+ a
+
+
+smart
+ speaker.
+
+
+500
+ million
+ smart
+ speakers
+ were
+ sold
+
+
+last
+ year.
+ But
+ why
+ do
+ they
+ still
+ suck?
+
+
+You
+ can
+ barely
+ talk
+ to
+ them.
+ There's
+ no
+
+
+customization.
+ There's
+ no
+ community.
+
+
+There's
+ nothing.
+ That's
+ why
+ we
+ built
+
+
+OpenHome,
+
+
+the
+ very
+ first
+ AIdriven
+ smart
+ speaker.
+
+
+And
+ we're
+ letting
+ you
+ guys
+ build
+ smart
+
+
+speakers,
+ too.
+
+
+And
+ we
+ believe
+ here
+ that
+ the
+ future
+ is
+
+
+talking
+ with
+ AI.
+ You
+ should
+ be
+ able
+ to
+
+
+talk
+ seamlessly,
+ intuitively.
+ In
+ fact,
+
+
+you
+ shouldn't
+ have
+ to
+ use
+ this
+ really
+
+
+awkward
+ command-based
+ language.
+ You
+
+
+should
+ be
+ able
+ to
+ just
+ chat
+ naturally.
+
+
+So
+ that's
+ what
+ we're
+ building
+ and
+ we're
+
+
+letting
+ people
+ here
+ today
+ build
+ their
+
+
+own
+ smart
+ speakers
+ and
+ build
+ them
+ in
+
+
+whatever
+ form
+ that
+ they
+ want.
+
+
+And
+ the
+ key
+ here
+ is
+ developer
+ ecosystems
+
+
+and
+ well
+ we
+ know
+ developer
+ ecosystems.
+
+
+I
+ started
+ my
+ career
+ as
+ the
+ chief
+ of
+
+
+staff
+ for
+ the
+ founder
+ of
+ Splunk
+ a
+ 30
+
+
+billion
+ big
+ data
+ company.
+ Then
+ I
+ was
+ on
+
+
+the
+ founding
+ team
+ of
+ MakerDo
+ a5
+ billion
+
+
+developer
+ ecosystem.
+
+
+My
+ co-founder
+ and
+ I
+ raised
+ $50
+ million
+
+
+for
+ our
+ last
+ business,
+ a
+ big
+ a
+ data
+
+
+privacy
+ tool,
+ and
+ we
+ sold
+ that
+ business.
+
+
+But
+ it
+ all
+ came
+ down
+ to
+ developers
+ and
+
+
+really
+ building
+ what
+ people
+ actually
+
+
+wanted.
+ And
+ well,
+ now
+ with
+ OpenHome,
+ we
+
+
+have
+ over
+ 10,000
+ developers
+ building
+ on
+
+
+OpenHome.
+ They're
+ building
+ all
+ kinds
+ of
+
+
+interesting
+ things.
+ All
+ types
+ of
+
+
+different
+ custom
+ smart
+ speakers,
+
+
+building
+ interesting
+ voice
+ AI
+
+
+applications.
+
+
+Sky's
+ is
+ really
+ the
+ limit.
+
+
+And
+ well,
+ what
+ do
+ developers
+ really
+
+
+want?
+ They
+ want
+ open
+ source.
+ They
+ want
+
+
+LLM
+ driven.
+ And
+ they
+ want
+ fully
+
+
+jailbroken.
+
+
+They
+ want
+ OpenHome,
+ the
+ AI
+ smart
+
+
+speaker.
+
+
+And
+ now
+ what's
+ really
+ exciting
+ is
+ with
+
+
+voice
+ AI,
+ you
+ can
+ put
+ it
+ on
+ any
+ type
+ of
+
+
+hardware.
+ We
+ have
+ developers
+ building
+
+
+talking
+ toys,
+ AI
+ robots,
+ AI
+ appliances.
+
+
+You
+ should
+ be
+ able
+ to
+ talk
+ to
+ the
+ world
+
+
+around
+ you
+ in
+ a
+ much
+ more
+ natural
+ way.
+
+
+And
+ you
+ can
+ do
+ that
+ now
+ with
+ OpenHome
+ in
+
+
+AI
+ smart
+ speaker.
+ Here's
+
+
+our
+ dashboard.
+ We
+ have
+ many,
+ many
+
+
+applications,
+ hundreds
+ of
+ applications
+
+
+that
+ have
+ been
+ built.
+ Games,
+
+
+personalities.
+ We
+ have
+ an
+ editor
+ that
+
+
+you
+ guys
+ can
+ go
+ in
+ and
+ build
+ and
+ all
+
+
+kinds
+ of
+ interesting
+ things,
+ home
+
+
+automation
+ tools.
+
+
+And
+ what's
+ really
+ exciting
+ is
+ our
+ last
+
+
+dev
+ kit
+ got
+ booked
+ up
+ within
+ minutes.
+
+
+And
+ today,
+ we
+ have
+ a
+ special
+
+
+announcement
+ for
+ you
+ guys
+ here
+ today.
+
+
+We're
+ releasing
+ the
+ next
+ batch
+ of
+ 500
+
+
+dev
+ kits
+ for
+ free
+ for
+ everybody
+ here.
+ If
+
+
+you
+ guys
+ want
+ it,
+ we
+ will
+ ship
+ you
+ a
+ dev
+
+
+kit.
+ It's
+ very
+ cool.
+ You
+ can
+ build
+ on
+
+
+it.
+ You
+ can
+ talk
+ with
+ AI.
+ You
+ can
+ build
+
+
+your
+ own
+ smart
+ speaker
+ here
+ and
+ we're
+
+
+doing
+ it
+ today.
+ Thank
+ you
+ so
+ much.
+
+
+>> How's
+ it
+ going
+ y'all?
+ Uh
+ I'm
+ Josh.
+ I'm
+
+
+the
+ founder
+ of
+ company
+ called
+ Koframe.
+
+
+Uh
+ the
+ last
+ company
+ that
+ I
+ started
+ we
+
+
+scaled
+ to
+ over
+ $2
+ billion
+ in
+ the
+ course
+
+
+of
+ a
+ couple
+ years.
+ Um,
+ but
+ when
+ I
+
+
+started
+ to
+ tinker
+ on
+ uh
+ using
+ AI
+ to
+
+
+generate
+ code
+ and
+ created
+ one
+ of
+ the
+
+
+actual
+ top
+ uh
+ autonomous
+ coding
+ agents
+
+
+on
+ GitHub,
+ was
+ one
+ number
+ one
+ on
+ GitHub
+
+
+for
+ a
+ week,
+ I
+ realized
+ it
+ was
+ time
+ to
+
+
+build
+ something
+ bigger.
+
+
+The
+ internet
+ is
+ dead.
+
+
+It's
+ not
+ adaptive.
+ It's
+ not
+ personal.
+
+
+It's
+ not
+ truly
+ living
+ in
+ a
+ sense.
+
+
+Websites
+ are
+ all
+ one
+ sizefits-all.
+
+
+And
+ we're
+ bringing
+ that
+ concept
+ to
+ life.
+
+
+We
+ are
+ giving
+ websites
+ a
+ life
+ of
+ their
+
+
+own,
+ giving
+ every
+ single
+ customer
+
+
+experience
+ its
+ own
+ AI
+ growth
+ team.
+ But
+
+
+this
+ isn't
+ just
+ a
+ pipe
+ dream.
+ We
+ made
+
+
+$20
+ million
+ for
+ the
+ for
+ Europe's
+ largest
+
+
+travel
+ company
+ in
+ just
+ a
+ few
+ weeks.
+ We
+
+
+increased
+ clickthrough
+ rate
+ for
+ India's
+
+
+largest
+ company,
+ a
+ $400
+ billion
+
+
+enterprise
+ also
+ in
+ a
+ few
+ weeks.
+ And
+ how
+
+
+are
+ we
+ doing
+ it?
+ We're
+ working
+ with
+ the
+
+
+best
+ and
+ we
+ have
+ the
+ best.
+ Uh
+ we're
+ the
+
+
+only
+ marketing
+ tech
+ company
+ that's
+
+
+partnered
+ directly
+ with
+ OpenAI
+ to
+ date
+
+
+and
+ they
+ actually
+ called
+ our
+ team
+
+
+cracked
+ which
+ is
+ cool.
+ So
+ if
+ you're
+
+
+interested
+ in
+ learning
+ more
+ about
+ this,
+
+
+reach
+ out.
+ Thank
+ you.
+
+
+[Applause]
+
+
+Hi,
+ I'm
+ Eugene.
+
+
+I'm
+ sorry.
+ My
+ team
+ is
+ obsoleting
+ all
+ the
+
+
+air
+ models
+ you
+ see
+ today
+
+
+cuz
+ you
+ see
+ uh
+ my
+ team
+ built
+ Quorki
+ 72B
+
+
+the
+ world's
+ largest
+ model
+ without
+ the
+
+
+transformer
+ attention
+ with
+ only
+ eight
+
+
+GPUs
+ and
+ this
+ allow
+ us
+ to
+ have
+ a
+
+
+thousandx
+ lower
+ inference
+ on
+ our
+ on
+ our
+
+
+new
+ architecture
+ while
+ performing
+ the
+
+
+same.
+ Surprisingly
+ the
+ techniques
+ that
+
+
+we've
+ uh
+ the
+ technology
+ that
+ we
+ built
+
+
+can
+ also
+ be
+ applied
+ to
+ existing
+
+
+transformer
+ models
+ through
+ speculative
+
+
+decoding.
+
+
+nothing
+ nothing
+ too
+ big
+ nothing
+ too
+
+
+important
+ but
+ here's
+ my
+ hot
+ take
+ scale
+
+
+is
+ dead
+ and
+ I'm
+ not
+ saying
+ this
+ just
+
+
+from
+ my
+ own
+ opinion
+ like
+ we
+ are
+ burning
+
+
+billions
+ into
+ making
+ AI
+ models
+ bigger
+
+
+but
+ at
+ the
+ same
+ time
+ the
+ deep
+ mind
+
+
+founder
+ and
+ CEO
+ is
+ saying
+ compound
+ AI
+
+
+agents
+ errors
+ will
+ take
+ more
+ than
+ 10
+
+
+years
+ to
+ fix
+ Lun
+ is
+ even
+ saying
+ that
+ we
+
+
+need
+ a
+ new
+ AI
+ architecture
+ to
+ push
+ the
+
+
+paradigm
+ forward
+
+
+and
+
+
+in
+ production
+ we
+ see
+ over
+ 90%
+ %
+ of
+ AI
+
+
+projects
+ fail.
+ The
+ reason
+ behind
+ this
+ is
+
+
+not
+ something
+ that
+ scale
+ can
+ fix.
+ The
+
+
+problem
+ is
+ reliability.
+
+
+The
+ thing
+ is
+ like
+ would
+ you
+ order
+ and
+
+
+use
+ an
+ app
+ that
+ only
+ succeeds
+ 45%
+ of
+ the
+
+
+time?
+ Would
+ you
+ order
+ Door
+ Dash
+ that
+
+
+way?
+ Of
+ course
+ not.
+ You
+ if
+ your
+ order
+
+
+goes
+ missing
+ or
+ or
+ you
+ you
+ end
+ up
+ having
+
+
+100
+ pizza,
+ you're
+ going
+ to
+ be
+ stuck
+ with
+
+
+customer
+ support
+ screaming
+ down
+ there.
+
+
+It's
+ a
+ frustrating
+ experience.
+ But
+
+
+that's
+ what
+ AI
+ agents
+ do.
+ When
+ they
+
+
+work,
+ they're
+ awesome.
+ When
+ they
+ don't
+
+
+work,
+ we
+ are
+ stuck
+ cleaning
+ up
+ the
+ mess.
+
+
+And
+ that's
+ even
+ with
+ frontier
+ models.
+
+
+And
+ here's
+ the
+ thing,
+ what
+ companies
+
+
+want
+ is
+ not
+ a
+ smarter
+ model
+ that
+ can
+ do
+
+
+PhD
+ level
+ math.
+ We
+ the
+ models
+ are
+
+
+already
+ smart
+ enough,
+ but
+ what
+ we
+
+
+actually
+ really
+ want
+ is
+ the
+ models
+
+
+reliable
+ enough
+ to
+ book
+ airline
+ tickets,
+
+
+sort
+ out
+ our
+ emails
+ or
+ file
+ taxes
+ and
+
+
+invoices.
+ That's
+ what
+ we
+ actually
+ want
+
+
+and
+ that
+ is
+ what
+ we
+ are
+ building
+ at
+
+
+Federous
+ AI.
+ We
+ are
+ a
+ research
+ lab
+ that
+
+
+is
+ building
+ personalized
+ AGI
+ that's
+ made
+
+
+reliable
+ for
+ each
+ one
+ of
+ you
+ and
+ and
+
+
+most
+ recently
+ uh
+ we
+ are
+ in
+ our
+ research
+
+
+that
+ we
+ actually
+ shown
+ that
+ we
+ built
+ an
+
+
+action
+ R1
+ agent
+ that
+ beats
+ clot
+ for
+
+
+Sonet
+ and
+ Gemini
+ and
+ OpenAI.
+ This
+ model
+
+
+is
+ not
+ going
+ to
+ do
+ PhD
+ level
+ math,
+ but
+
+
+it's
+ going to
+ fill
+ up
+ the
+ form
+ with
+
+
+absolute
+ reliability
+ better
+ than
+ the
+
+
+frontier.
+
+
+And
+ that's
+ the
+ thing
+ like
+ are
+ we
+ going
+
+
+to
+ burn
+ billions
+ more
+ to
+ make
+ a
+ smarter
+
+
+model
+ that
+ is
+ just
+ a
+ few
+ percentage
+
+
+point
+ higher
+ IQ
+ or
+ are
+ we
+ going
+ to
+ make
+
+
+something
+ that's
+ 99.9%
+ reliable
+ for
+ the
+
+
+boring
+ things
+ in
+ life?
+ Because
+ this
+ is
+
+
+where
+ the
+ money
+ is
+ for
+ all
+ of
+ you.
+
+
+Because
+ think
+ of
+ it
+ as
+ AI
+ engineers,
+
+
+reliability
+ is
+ revenue.
+ For
+ every
+ use
+
+
+case
+ you
+ unlock
+ and
+ find,
+ you're
+ going
+
+
+to
+ do
+ a
+ billion
+ dollar
+ app
+ in
+ in
+ in
+ be
+
+
+in
+ e-commerce
+ or
+ in
+ in
+ B2B
+ sales.
+ And
+
+
+that
+ is
+ something
+ that
+ all
+ of
+ you
+ can
+
+
+build
+ on,
+ not
+ rocket
+ science.
+ And
+ that's
+
+
+what
+ we
+ are
+ building.
+ And
+ if
+ you're
+
+
+excited
+ about
+ it,
+ feel
+ free
+ to
+ reach
+ out
+
+
+to
+ us.
+ I'm
+ eugened.com.
+
+
+>> My
+ name
+ is
+ Jonas.
+ I'm
+ an
+ engineer
+ and
+ I
+
+
+like
+ working
+ with
+ data.
+ I
+ love
+ working
+
+
+with
+ data.
+ Actually,
+ I
+ love
+ it
+ so
+ much.
+
+
+I
+ dropped
+ out
+ of
+ high
+ school
+ when
+ I
+ was
+
+
+15.
+ I
+ got
+ on
+ a
+ plane.
+ I
+ moved
+ across
+ the
+
+
+country
+ to
+ California
+ and
+ I
+ joined
+ a
+
+
+startup
+ called
+ Branch.
+ You
+ might
+ have
+
+
+heard
+ of
+ it.
+ Anytime
+ you
+ were
+ clicking
+
+
+one
+ of
+ those
+ links
+ on
+ your
+ phone
+ for
+ an
+
+
+app,
+ that
+ was
+ probably
+ us.
+ I
+ also
+ led
+ a
+
+
+team
+ there
+ that
+ built
+ a
+ search
+ engine
+
+
+that
+ over
+ a
+ 100
+ million
+ people
+ used
+
+
+every
+ day.
+ And
+ then
+ last
+ year
+ I
+ left
+
+
+along
+ with
+ one
+ of
+ the
+ founders
+ of
+ branch
+
+
+to
+ tackle
+ an
+ even
+ bigger
+ challenge.
+
+
+This
+ is
+ probably
+ what
+ you
+ think
+ your
+
+
+sales
+ and
+ marketing
+ teams
+ are
+ doing
+ with
+
+
+their
+ budgets.
+
+
+And
+ you
+ wouldn't
+ be
+ entirely
+ wrong.
+ So
+
+
+that's
+ why
+ I
+ co-ounded
+ Upside.
+ We
+ do
+
+
+forensic
+ revenue
+ attribution
+ and
+
+
+intelligence.
+
+
+But
+ what
+ does
+ that
+ actually
+ mean?
+ Well,
+
+
+how
+ many
+ of
+ you
+ have
+ an
+ email
+ from
+ a
+
+
+saleserson
+ like
+ this
+ sitting
+ in
+ your
+
+
+inbox
+ right
+ now?
+
+
+Uhhuh.
+ And
+ how
+ many
+ of
+ you
+ are
+ actually
+
+
+going
+ to
+ reply
+ to
+ it?
+
+
+Yeah,
+ I
+ didn't
+ think
+ so.
+ These
+ teams
+ are
+
+
+shouting
+ into
+ the
+ void
+ hoping
+ something
+
+
+will
+ work
+ because
+ they
+ don't
+ actually
+
+
+know
+ what
+ works
+ because
+ their
+ data
+ is
+ a
+
+
+mess.
+
+
+I
+ mean,
+ don't
+ get
+ me
+ wrong,
+ they're
+ data
+
+
+hoarders.
+ They
+ store
+ everything.
+ They
+
+
+stuff
+ it
+ in
+ Salesforce.
+ They
+ treat
+ it,
+
+
+you
+ know,
+ it's
+ basically
+ a
+ SQL
+ database
+
+
+in
+ a
+ trench
+ coat,
+ but
+ they're
+ not
+ data
+
+
+practitioners.
+ They
+ don't
+ know
+ what
+ to
+
+
+do
+ with
+ it
+ once
+ they
+ have
+ it.
+ But
+ now
+ we
+
+
+have
+ things
+ like
+ LLM.
+ They
+ can
+ help
+ with
+
+
+this.
+ They
+ can
+ take
+ that
+ poor,
+
+
+mishandled,
+ abused
+ email
+ record
+ and
+ they
+
+
+can
+ pull
+ the
+ most
+ important
+ details
+ out
+
+
+of
+ it
+ into
+ a
+ structured
+ form.
+ And
+ so
+
+
+just
+ as
+ search
+ engines
+ and
+ web
+ crawlers
+
+
+learn
+ how
+ to
+ make
+ sense
+ of
+ the
+
+
+unstructured
+ web,
+ upside
+ is
+ turning
+ raw
+
+
+enterprise
+ data
+ into
+ a
+ highly
+ structured
+
+
+map
+ of
+ the
+ world
+ and
+ all
+ the
+
+
+interactions
+ that
+ people
+ do
+ in
+ it.
+ So
+
+
+there's
+ hope.
+ We
+ can
+ untangle
+ this
+ mess
+
+
+and
+ we
+ can
+ create
+ a
+ data
+ command
+ center
+
+
+that
+ these
+ teams
+ can
+ actually
+ use
+ to
+
+
+reach
+ their
+ customers
+ more
+ effectively.
+
+
+We
+ only
+ just
+ started
+ talking
+ about
+ this
+
+
+publicly
+ a
+ couple
+ weeks
+ ago.
+ Um,
+ we've
+
+
+been
+ quietly
+ building
+ in
+ the
+ background
+
+
+for
+ the
+ last
+ year
+ or
+ so
+ and
+ my
+
+
+co-founder
+ decided
+ to
+ make
+ a
+ small
+ post
+
+
+on
+ her
+ LinkedIn,
+ you
+ know,
+ just
+ to
+
+
+update
+ our
+ network
+ on
+ what
+ we'd
+ been
+ off
+
+
+doing
+ and
+ the
+ things
+ that
+ we'd
+ been
+
+
+building
+ and
+ it
+ blew
+ up.
+ Like
+ there's
+ so
+
+
+much
+ pain
+ people
+ feel
+ around
+ this
+ and
+
+
+they're
+ hungry
+ for
+ a
+ solution.
+ We
+ got
+ a
+
+
+whole
+ slew
+ of
+ demo
+ requests
+ coming
+ in
+
+
+from
+ people
+ that
+ want
+ access
+ to
+ the
+
+
+product
+ and
+ now
+ we
+ have
+ a
+ bunch
+ of
+
+
+customers
+ lining
+ up
+ that
+ want
+ to
+ get
+
+
+into
+ our
+ platform.
+ It's
+ a
+ who's
+ who
+ of
+
+
+companies
+ you've
+ heard
+ of.
+ Um,
+ and
+ we
+
+
+just
+ have
+ a
+ lot
+ of
+ building
+ to
+ do
+ now.
+
+
+So,
+ if
+ you're
+ interested
+ in
+ working
+ on
+
+
+knowledge
+ graphs,
+ on
+ data
+ analytics
+
+
+agents,
+ on
+ graph
+ analytics
+ and
+ graph
+
+
+learning
+ models,
+ come
+ talk
+ to
+ me.
+ We're
+
+
+hiring.
+
+
+[Applause]
+
+
+>> Hello
+ everyone.
+ I'm
+ Sua,
+ the
+ founder
+ of
+
+
+Open
+ AI.
+ Uh,
+ sorry,
+ I
+ mean
+ Open
+ Audio.
+
+
+Before
+ that,
+ I
+ created
+ something
+ you
+
+
+might
+ be
+ heard
+ of,
+ Fish
+ Audio.
+
+
+We
+ have
+ grown
+ from
+ 400K
+ to
+ 5.5
+ million
+
+
+annualized
+ revenue
+ in
+ just
+ four
+ months.
+
+
+And
+ we
+ closed
+ our
+ C
+ runs
+ at
+ 100
+ million
+
+
+valuation.
+
+
+It
+ all
+ started
+ with
+ my
+ girlfriend.
+
+
+I
+ had
+ a
+ girlfriend
+ for
+ six
+ years
+ from
+
+
+the
+ beginning
+ of
+ high
+ school
+ to
+ college.
+
+
+I
+ love
+ her
+ so
+ much
+ and
+ it
+ was
+ so
+ good
+
+
+until
+ one
+ day
+ I
+ found
+ out
+ she
+ cheated.
+
+
+I
+ wasn't
+ angry,
+ just
+ confused,
+
+
+disappointed.
+ And
+ I
+ asked
+ myself,
+ if
+
+
+this
+ can
+ happen,
+ how
+ can
+ we
+ trust
+
+
+relationships
+ again?
+
+
+I
+ thought
+ about
+ it
+ for
+ days,
+ all
+ day
+ and
+
+
+all
+ night.
+ And
+ finally,
+ I
+ found
+ my
+
+
+answer.
+ AI.
+
+
+But
+ nobody
+ can
+ really
+ fall
+ in
+ love
+ with
+
+
+today's
+ AI,
+ right?
+ It's
+ flat.
+ It's
+
+
+emotionless.
+ It's
+ robotic.
+
+
+So
+ I
+ set
+ out
+ on
+ a
+ mission
+ to
+ build
+ an
+ AI
+
+
+that
+ I
+ could
+ really
+ fall
+ in
+ love
+ with
+
+
+starting
+ with
+ her
+ voice.
+
+
+So
+ we
+ began
+ with
+ open
+ source
+ and
+ crush
+
+
+it.
+ We
+ build
+ so
+ as
+ VC
+ birth
+ 2
+ and
+ also
+
+
+fish
+ speech.
+
+
+Today
+ actually
+ not
+ today
+ it's
+ the
+ day
+
+
+before
+ yesterday.
+ I'm
+ excited
+ to
+
+
+introduce
+ S1,
+ the
+ first
+ ever
+
+
+instructible
+ voice
+ model.
+ It's
+ the
+ only
+
+
+model
+ where
+ you
+ can
+ control
+ not
+ just
+
+
+what
+ to
+ say,
+ but
+ how
+ to
+ say
+ it.
+ Here's
+ a
+
+
+demo.
+
+
+>> You
+ can
+ pinpoint
+ focus
+ or
+ draw
+ it
+
+
+closer.
+ Even
+ yelling
+ while
+ you
+ betray
+ me
+
+
+like
+ this.
+
+
+>> Yeah,
+ you
+ can
+ control
+ whatever
+ you
+ want.
+
+
+And
+ uh
+ with
+ open
+ audio
+ S1
+ we
+ have
+ the
+
+
+most
+ expressive
+ voice
+ model
+ in
+ the
+
+
+world.
+ And
+ the
+ most
+ importantly
+ she
+ will
+
+
+never
+ leave.
+ So
+
+
+so
+ we
+ have
+ blown
+ 11
+ labs
+ out
+ of
+ the
+
+
+water
+ based
+ on
+ the
+ TTS
+ arena
+ ranking
+ and
+
+
+they
+ are
+ so
+ hurry
+ and
+ they
+ dropped
+ their
+
+
+latest
+ model
+ today.
+ But
+ unfortunately
+
+
+it's
+ just
+ a
+ demo.
+ So
+ try
+ them
+ now.
+ Fish
+
+
+audio.
+ It's
+ instantly
+ available
+ at
+
+
+fish.audio.
+ Thank
+ you.
+
+
+[Applause]
+
+
+Hello,
+ I'm
+ David
+ Vorick
+ and
+ I'm
+ building
+
+
+Glow.
+ Prior
+ to
+ Glow,
+ I
+ built
+ Sciacoin,
+ a
+
+
+cryptocurrency
+ that
+ we
+ took
+ from
+ a
+
+
+$10,000
+ market
+ cap
+ to
+ more
+ than
+ $3
+
+
+billion.
+
+
+And
+ we
+ think
+ Glow
+ is
+ going
+ to
+ be
+ even
+
+
+bigger.
+ That's
+ why
+ Framework
+ and
+ USV
+
+
+Union
+ Square
+ Ventures
+ led
+ a
+ $30
+ million
+
+
+round
+ into
+ our
+ company.
+
+
+Subsequently,
+ we
+ posted
+ the
+ world
+ record
+
+
+for
+ onchain
+ deepin
+ revenue,
+ doing
+ more
+
+
+than
+ $10
+ million
+ of
+ revenue
+ in
+ a
+ single
+
+
+day.
+
+
+What
+ does
+ Glow
+ do?
+ Glow
+ builds
+ solar,
+
+
+not
+ with
+ shovels,
+ but
+ with
+ incentives.
+
+
+This
+ is
+ not
+ a
+ stock
+ photo.
+ This
+ is
+ a
+
+
+photograph
+ taken
+ of
+ taken
+ by
+ our
+ team
+ in
+
+
+India
+ of
+ a
+ solar
+ farm
+ that
+ was
+
+
+constructed
+ for
+ the
+ purpose
+ of
+ mining
+
+
+glow
+ tokens.
+
+
+A
+ lot
+ of
+ people
+ don't
+ realize,
+ but
+ in
+
+
+the
+ developing
+ world,
+ rising
+
+
+temperatures
+ and
+ growing
+ populations
+
+
+have
+ strained
+ the
+ grid.
+ In
+ a
+ lot
+ of
+
+
+cases,
+ people
+ are
+ unable
+ to
+ run
+ their
+
+
+air
+ conditioners
+ during
+ the
+ heat
+ of
+ the
+
+
+day.
+ This
+ causes
+ people
+ to
+ die
+ of
+ heat
+
+
+stroke.
+ Glow
+ is
+ an
+ incentive
+ protocol
+
+
+that
+ revolutionizes
+ what
+ governments
+ do
+
+
+and
+ can
+ take
+ the
+ same
+ subsidy
+ and
+ turn
+
+
+it
+ into
+ 10
+ times
+ as
+ much
+ solar.
+
+
+If
+ you're
+ interested
+ in
+ working
+ with
+ us,
+
+
+we're
+ currently
+ building
+ incentive
+
+
+projects
+ in
+ India,
+ in
+ Mexico,
+ in
+
+
+Lebanon,
+ and
+ across
+ the
+ entire
+ world.
+
+
+and
+ my
+ email
+ davidglowabs.org.
+
+
+I'd
+ love
+ to
+ be
+ in
+ touch.
+
+
+Hi,
+
+
+I'm
+ David.
+
+
+I'm
+ an
+ engineer.
+
+
+Uh,
+ I
+ made
+ a
+ social
+ app
+ with
+ 250
+ million
+
+
+users
+
+
+making
+ $20
+ million
+ a
+ year.
+ Everyone
+
+
+thought
+ it
+ was
+ luck.
+
+
+So,
+ I
+ did
+ it
+ again.
+ I'm
+ building
+
+
+favored.
+
+
+We
+ built
+ the
+ world's
+ most
+ engaging
+ app
+
+
+and
+ we
+ scaled
+ up
+ from
+ 1
+ to$und00
+ million
+
+
+annualized
+
+
+engineer
+ that
+ wants
+ to
+ join
+ the
+ fastest
+
+
+growing
+ company
+ of
+ all
+ time.
+ Uh,
+ talk
+ to
+
+
+me.
+
+
+Hello,
+ I'm
+ Alex
+ Atala
+ building
+ open
+
+
+router
+ the
+ first
+ and
+ largest
+ LLM
+
+
+marketplace.
+
+
+Thank
+ you.
+
+
+So
+ open
+ I
+ want
+ to
+ tell
+ a
+ little
+ bit
+
+
+about
+ how
+ it
+ started.
+ Um,
+ I
+ co-founded
+
+
+OpenC
+ in
+ 2017
+ and
+ in
+ at
+ the
+ end
+ of
+ 2022,
+
+
+I
+ really
+ wanted
+ to
+ know
+ if
+ inference
+ was
+
+
+going
+ to
+ be
+ a
+ winner
+ take
+ all
+ market
+
+
+because
+ the
+ way
+ it
+ looked
+ this
+ could
+ be
+
+
+the
+ largest
+ market
+ in
+ software
+ that
+ has
+
+
+ever
+ happened
+ before.
+
+
+And
+ uh,
+ the
+ first
+ experiment
+ that
+ we
+
+
+tried
+ was
+ building
+ a
+ Chrome
+ extension
+ to
+
+
+help
+ you
+ bring
+ your
+ own
+ language
+ model
+
+
+to
+ any
+ website
+ that
+ supported
+ uh,
+ the
+
+
+protocol.
+ And
+ that
+ eventually
+ evolved
+
+
+into
+ open
+ router,
+ a
+ single
+ place
+ and
+ a
+
+
+single
+ API
+ to
+ get
+ all
+ language
+ models
+ uh
+
+
+with
+ the
+ best
+ prices,
+ best
+ performance
+
+
+and
+ highest
+ uptime.
+
+
+And
+ the
+ way
+ it
+ works
+ is
+ you
+ just
+ have
+ a
+
+
+single
+ API.
+ You
+ pay
+ once
+ and
+ there's
+
+
+near
+ zero
+ switching
+ costs
+ to
+ move
+ from
+
+
+one
+ model
+ to
+ another.
+ We
+ do
+ all
+ the
+
+
+heavy
+ work
+ to
+ implement
+ tool
+ calling,
+
+
+edge
+ cases,
+ caching,
+ and
+ give
+ you
+ the
+
+
+best
+ prices
+ and
+ performance
+ possible
+ for
+
+
+your
+ region
+ or
+ wherever
+ your
+ servers
+ are
+
+
+deployed.
+
+
+And
+ because
+ inference
+ is
+ so
+ important,
+
+
+remember
+ this
+ might
+ be
+ the
+ most
+
+
+important
+ software
+ market
+ ever.
+ It
+
+
+deserves
+ its
+ own
+ marketplace
+ just
+ for
+
+
+language
+ models
+ optimized
+ for
+ them,
+
+
+including
+ filtering
+ for
+ context,
+ for
+
+
+features,
+ for
+ tool
+ calling,
+ for
+
+
+structured
+ output,
+ and
+ much
+ more.
+ And
+ so
+
+
+we
+ built
+ that.
+ Then
+ we
+ built
+ a
+ chat
+ room
+
+
+for
+ you
+ to
+ obviously
+ compare
+ models
+
+
+head-to-head
+ as
+ simply
+ as
+ you
+ do
+ when
+
+
+chatting
+ with
+ people
+ in
+ iMessage.
+
+
+We
+ built
+ fine
+ grain
+ privacy
+ settings
+
+
+including
+ API
+ level
+ controls.
+ We
+ built
+ a
+
+
+a
+ lot
+ of
+ observability
+ so
+ you
+ could
+ see
+
+
+which
+ models
+ you're
+ using
+ and
+ why.
+ And
+
+
+we
+ built
+ public
+ data
+ in
+ our
+ rankings
+
+
+page
+ which
+ has
+ become
+ the
+ go-to
+ place
+
+
+for
+ comparing
+ models
+ on
+ their
+ real
+ world
+
+
+usage
+ and
+ on
+ different
+ categories
+ for
+
+
+their
+ prompts
+ as
+ well.
+ This
+ has
+ grown
+
+
+for
+ the
+ last
+ two
+ months
+ 10
+ to
+ 100%
+ every
+
+
+single
+ month
+ or
+ for
+ the
+ last
+ two
+ years
+
+
+10
+ to
+ 100%
+ every
+ single
+ month.
+ Uh
+ and
+
+
+scaling
+ it
+ has
+ been
+ a
+ lot
+ of
+ the
+ work
+
+
+that
+ we've
+ done
+ so
+ far.
+ The
+ the
+
+
+fundamental
+ goal
+ here
+ is
+ to
+ make
+ a
+
+
+heterogeneous
+ ecosystem
+ homogeneous
+
+
+because
+ we
+ believe
+ inference
+ is
+ a
+
+
+commodity.
+ Claude
+ from
+ bedrock
+ is
+ the
+
+
+should
+ be
+ the
+ same
+ as
+ claude
+ from
+ vertex
+
+
+is
+ claude
+ from
+ enthropic
+ and
+ we
+ do
+ all
+
+
+the
+ abstraction
+ and
+ heavy
+ work
+ to
+ make
+
+
+it
+ uh
+ that
+ way
+ for
+ you.
+ I
+ want
+ to
+ talk
+ a
+
+
+little
+ bit
+ about
+ some
+ of
+ our
+ technical
+
+
+challenges.
+ Um,
+ we
+ built
+ our
+ own
+ system,
+
+
+our
+ own
+ middleware
+ for
+ doing
+ inference
+
+
+called
+ plugins,
+ which
+ are
+ kind
+ of
+ like
+
+
+MCPs
+ except
+ a
+ little
+ bit
+ more
+ powerful
+
+
+because
+ you
+ can
+ call
+ MCPS
+ from
+ inside
+ of
+
+
+them
+ and
+ you
+ can
+ transform
+ the
+ outputs
+
+
+from
+ language
+ models.
+
+
+Bunch
+ of
+ other
+ tricky
+ problems
+ that
+
+
+we've
+ done
+ to
+ make
+ the
+ fastest
+ routing
+
+
+in
+ the
+ market.
+ Um,
+ and
+ we're
+ bringing
+ a
+
+
+lot
+ more
+ features
+ in
+ the
+ coming
+ months,
+
+
+including
+ images,
+ enterprise
+ features,
+
+
+prompt
+ observability,
+ and
+ more.
+
+
+So,
+ if
+ you're
+ interested,
+ come
+ find
+ me
+
+
+after
+ or
+ check
+ out
+ our
+ careers
+ page.
+
+
+Thank
+ you.
+
+
+[Applause]
+
+
+[Music]
