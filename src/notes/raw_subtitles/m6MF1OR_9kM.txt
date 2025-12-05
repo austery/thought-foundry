@@ -1,0 +1,3401 @@
+Hello
+ everyone.
+ I'm
+ John
+ from
+ VAI
+ and
+
+
+I'm
+ very
+ happy
+ to
+ here
+ to
+ talk
+ about
+ our
+
+
+latest
+ model
+ series
+ uh
+ J
+ 4.6
+ series.
+ And
+
+
+let's
+ jump
+ right
+ in.
+
+
+First
+ uh
+ I
+ will
+ introduce
+ the
+ GM
+ series
+
+
+model.
+
+
+Gen
+ 4.6
+ Six
+ is
+ not
+ our
+ first
+ open
+ source
+
+
+model
+ since
+ 2022
+ starting
+ from
+ the
+ very
+
+
+first
+ G30B.
+
+
+We
+ have
+ been
+ quite
+ serious
+ about
+ open
+
+
+source
+ our
+ work.
+ Over
+ the
+ years,
+ we
+ have
+
+
+released
+ a
+ whole
+ family
+ of
+ models
+ such
+
+
+as
+ chat
+ gem
+ 6p
+ for
+ language
+ model
+ and
+
+
+the
+ code
+ for
+ vision
+ understanding
+ code
+
+
+view
+ for
+ image
+ generation
+ and
+ the
+ video
+
+
+for
+ video
+ generation
+ and
+ the
+ very
+ uh
+
+
+many
+ more
+ across
+ the
+ different
+ domains
+
+
+and
+ on
+ this
+ side
+ you
+ can
+ see
+ a
+ map
+ of
+
+
+our
+ open
+ source
+ model
+ so
+ far
+ and
+ include
+
+
+the
+ different
+ color
+ such
+ as
+ the
+ white
+ is
+
+
+for
+ the
+ language
+ model
+ the
+ z
+ GM
+ series
+
+
+and
+ the
+ pink
+ for
+ the
+ multi
+ mode
+
+
+understanding
+ such
+ as
+ the
+ code
+ VM
+ and
+
+
+now
+ it's
+ called
+ GMV
+ and
+ the
+ green
+ one
+ is
+
+
+for
+ image
+ generation
+ and
+ the
+ yellow
+ is
+
+
+for
+ video
+ generation.
+
+
+Uh
+ 2025
+ is
+ our
+ open
+ source
+ year
+ of
+ and
+
+
+in
+ this
+ year
+ we
+ added
+ even
+ more
+ models
+
+
+including
+ the
+ GM4
+ 0414
+ dense
+ model
+
+
+including
+ like
+ 9B
+ and
+ 32B
+ and
+ the
+ GM4.5
+
+
+G4.6
+ M
+ O
+ series
+ model
+ which
+ is
+ actually
+
+
+our
+ first
+ MO
+ models
+ family.
+ So
+ up
+ to
+ now
+
+
+we
+ have
+ released
+ over
+ 65
+ module
+ in
+ total
+
+
+and
+ the
+ closed
+ platform
+ like
+ hing
+ face
+
+
+monoscope
+ and
+ others
+ we
+ have
+ already
+
+
+passed
+ 100
+ million
+ downloads.
+ If
+ you
+
+
+search
+ for
+ the
+ GM
+ or
+ video
+ on
+ GitHub
+ you
+
+
+will
+ find
+ 105
+ 1,500
+ community
+ project
+
+
+really
+ top
+ of
+ them
+ and
+ is
+ much
+ a
+
+
+communitydriven
+ ecosystem.
+ Now
+
+
+let's
+ move
+ to
+ uh
+ GE
+ 4.6.
+
+
+Uh
+ I
+ will
+ introduce
+ it
+ now.
+
+
+So
+ G
+ 4.6
+ is
+ our
+ latest
+ flagship
+ model
+ or
+
+
+many
+ public
+ benchmark
+ especially
+ in
+ math
+
+
+and
+ coding.
+ G
+ 4.6
+ shows
+ a
+ clear
+ game
+
+
+over
+ GM
+ 4.5.
+
+
+It
+ also
+ output
+ opensource
+ model
+ release
+
+
+in
+ the
+ same
+ period
+ like
+ dipstick
+ version
+
+
+3.2.
+
+
+and
+ even
+ beat
+ this
+ commercial
+ model
+ such
+
+
+as
+ the
+ cloud
+ SOS
+ 4
+ on
+ several
+
+
+benchmarks.
+
+
+Of
+ course,
+ if
+ we
+ compare
+ to
+ the
+ clock
+
+
+4.5,
+ there
+ still
+ be
+ a
+ noticeable
+ uh
+
+
+noticeable
+ gap.
+ So,
+ we
+ are
+ not
+ coming
+
+
+with
+ everything,
+ but
+ we're
+ getting
+ close
+
+
+and
+ close.
+
+
+uh
+ but
+ what
+ makes
+ us
+ especially
+ happy
+ is
+
+
+here
+ is
+ um
+ arena
+ uh
+ this
+ benchmark
+
+
+uh
+ this
+ is
+ uh
+ which
+ is
+ closer
+ to
+ real
+
+
+user
+ preference
+ and
+ on
+ element
+ arena
+ gem
+
+
+4.6
+ say
+ it's
+ time
+ for
+ number
+ one
+
+
+together
+ with
+ GPD5
+ and
+ the
+ cost
+ cross
+
+
+storage
+ 4.5
+ and
+ it's
+ the
+ only
+ open
+
+
+source
+ model
+ here
+ and
+ so
+ I'm
+ very
+ happy
+
+
+appreciate
+ and
+ I
+ want
+ to
+ thank
+ our
+
+
+developer
+ who
+ try
+ to
+ who
+ try
+ our
+ model
+
+
+and
+ votes
+ for
+ it
+ so
+ let's
+ move
+ to
+ the
+ CC
+
+
+bench
+
+
+so
+ beside
+ the
+ user
+ benchmark
+ we
+ also
+
+
+build
+ our
+ own
+ data
+ set
+ called
+ the
+ CC
+
+
+bench
+ Here
+ we
+ want
+ to
+ text
+ agent
+ style
+
+
+coding
+ in
+ real
+ world
+ not
+ just
+ iso
+ lore
+
+
+problem.
+ So
+ we
+ built
+ a
+ agent
+ coding
+ text
+
+
+platform
+ based
+ on
+ the
+ cloud
+ code
+ and
+ on
+
+
+top
+ of
+ that
+ we
+ create
+ CCB
+ version
+ 1.1.
+
+
+So
+ compared
+ with
+ version
+ one
+ version
+ one
+
+
+uh
+ the
+ new
+ version
+ added
+ 22
+ hard
+ coding
+
+
+task
+ and
+ we
+ statistically
+ evaluate
+ coco
+
+
+sonets
+ a
+ consonate
+ 4
+ and
+ g
+ 4.5
+ the
+ kim
+
+
+K2
+ and
+ the
+ versions
+ 3.1
+ terminus
+
+
+in
+ total
+ citybench
+ have
+ 74
+ tasks
+ is
+
+
+covering
+ the
+ front
+ end
+ development
+ and
+
+
+internal
+ tool
+ development
+ in
+ the
+ data
+
+
+analyze
+ and
+ also
+ So
+ algorithm
+
+
+implementation.
+ So
+ for
+ every
+ model
+ we
+
+
+record
+ the
+ full
+ agent
+ trader
+ query
+ the
+
+
+planning
+ st
+ the
+ call
+ and
+ code
+ adds
+ and
+
+
+execution
+ the
+ fully
+ open
+ source
+ this
+
+
+benchmark.
+ So
+ you
+ can
+ check
+ all
+ the
+ link
+
+
+later
+ uh
+ below
+ in
+ the
+ hiring
+ phase
+ and
+
+
+JM
+ 4.6
+ made
+ a
+ clear
+ jump
+ over
+ June
+ 4.5
+
+
+and
+ over
+ uh
+ over
+ performance
+ is
+ called
+
+
+to
+ call
+ 4
+ with
+ about
+ 68.6%
+ 6%
+ win
+ rate
+
+
+while
+ being
+ significant
+ better
+ than
+
+
+under
+ open
+ source
+ baseline.
+ So
+ uh
+ where
+
+
+does
+ the
+ performance
+ come
+ from?
+ A
+ lot
+ of
+
+
+uh
+ let's
+ talk
+ about
+ GM
+ 4.6
+ training
+
+
+and
+ in
+ this
+ uh
+ we
+ will
+ start
+ from
+ the
+
+
+data
+ v
+ training
+ design.
+ First
+ part
+ is
+
+
+the
+ general
+ pre-training.
+ So
+ we
+ start
+
+
+with
+ about
+ 15
+ billion
+ uh
+ 15
+ trillion
+
+
+tokens
+ of
+ the
+ generate
+ proposal
+ data
+
+
+includes
+ web
+ page
+ books
+ uh
+ acupedia
+ and
+
+
+multilang
+ multi
+ uh
+ multilingual
+ content
+
+
+and
+ so
+ on.
+ So
+ this
+ stage
+ is
+ about
+
+
+building
+ a
+ strong
+ allrounder
+ best
+ model.
+
+
+The
+ contest
+ then
+ here
+ is
+ 4,000
+ tokens
+
+
+and
+ the
+ next
+ step
+ is
+ called
+ the
+
+
+reasoning
+ continue
+ training.
+ So
+ on
+ top
+
+
+of
+ that
+ base
+ with
+ about
+ 7
+ trillion
+ token
+
+
+of
+ extra
+ code
+ and
+ reasoning
+ data.
+ So
+
+
+it's
+ part
+ of
+ this
+ part
+ of
+ this
+ counts
+
+
+for
+ a
+ high
+ quality
+ open
+ source
+ reports
+
+
+and
+ another
+ part
+ is
+ math
+ science
+ and
+
+
+context
+ program
+ with
+ four
+ stepbystep
+
+
+reasoning.
+
+
+Then
+ we
+ come
+ to
+ the
+ mid
+ training.
+ So
+ we
+
+
+move
+ to
+ ripple
+ label
+ codes
+ uh
+ include
+
+
+that
+ multiple
+ files
+ issues
+ and
+ pull
+
+
+request
+ and
+ the
+ difference
+ from
+ the
+ same
+
+
+project
+ and
+ all
+ these
+ packed
+ into
+ one
+
+
+long
+ contains
+ and
+ the
+ goal
+ is
+ to
+ teach
+
+
+the
+ model
+ to
+ following
+ the
+ close
+ file
+
+
+and
+ understand
+ the
+ chains
+ and
+ to
+ also
+
+
+understand
+ the
+ pro
+ square
+ chains
+ and
+
+
+read
+ the
+ real
+ project
+ structure
+ end
+ to
+
+
+end.
+ So
+ at
+ this
+ stage
+ we
+ stand
+ the
+
+
+content
+ to
+ 32,000
+
+
+and
+ the
+ model
+ can
+ basically
+ see
+ the
+ key
+
+
+file
+ of
+ a
+ medium
+ size
+ ripple
+ on
+ one
+
+
+shot.
+
+
+Then
+ is
+ a
+ synetic
+ reasoning
+ data.
+ We
+
+
+added
+ about
+ 500
+ billion
+ token
+ of
+ synetic
+
+
+reasoning
+ data.
+ So
+ it
+ cover
+ map
+ science
+
+
+and
+ algorithm
+ with
+ experience
+ thinking
+
+
+trace.
+ So
+ it's
+ mean
+ the
+ lay
+ of
+ the
+
+
+groundwork
+ of
+ future
+ agent
+ behavior
+ like
+
+
+breaking
+ down
+ the
+ task
+ refle
+ uh
+
+
+reflecting
+ on
+ the
+ mistake
+ and
+ doing
+
+
+longchain
+ reasoning.
+ Uh
+ the
+ next
+ step
+ is
+
+
+the
+ long
+ content
+ and
+ agent
+ data.
+ Uh
+
+
+finally
+ we
+ use
+ about
+ 100
+ billion
+ token
+
+
+of
+ a
+ long
+ content
+ and
+ agent
+ data.
+ Here
+
+
+the
+ secret
+ then
+ is
+ now
+ pushed
+ further
+ to
+
+
+180
+ uh
+ 20
+ uh
+ 128,000
+ for
+ GM
+ 4.6
+ is
+
+
+200,000.
+ So
+ the
+ model
+ can
+ handle
+ four
+
+
+documents
+ and
+ the
+ whole
+ data
+ uh
+ code
+
+
+base
+ and
+ very
+ long
+ chart
+ at
+ the
+ same
+
+
+time
+ we
+ feed
+ lots
+ of
+ agent
+ chery.
+ So
+
+
+include
+ that
+ multi-step
+ two
+ calls
+ the
+
+
+search
+ and
+ the
+ code
+ execution
+ extra.
+ So
+
+
+uh
+ in
+ this
+ space
+ improve
+ the
+ model
+ long
+
+
+content
+ capability
+ and
+ the
+ aging
+
+
+capability.
+
+
+Also
+ in
+ this
+ slide
+ we
+ introduce
+ slide
+
+
+and
+ it's
+ our
+ reinforcement
+ learning
+
+
+framework
+ and
+ based
+ on
+ eston
+ inference
+
+
+stack
+ uh
+ in
+ practice
+ uh
+ we
+ design
+ in
+
+
+house
+ training
+ framework
+ here
+ and
+ we
+
+
+also
+ open
+ source
+ it
+ uh
+ we
+ found
+ that
+ the
+
+
+different
+ task
+ need
+ very
+ different
+
+
+system
+ design
+
+
+for
+ short
+ reasoning
+ task
+ like
+ the
+ math
+
+
+or
+ the
+ code
+ completion.
+ So
+ the
+ best
+
+
+setup
+ is
+ clocked
+ uh
+ with
+ the
+ average
+
+
+agriculture.
+ So
+ we
+ train
+ inference
+ in
+
+
+the
+ same
+ GPU.
+ So
+ after
+ one
+ batch
+ update
+
+
+wave.
+ So
+ the
+ next
+ batch
+ immediately
+
+
+sample
+ for
+ the
+ latest
+ policy.
+ the
+
+
+screens
+ the
+ most
+ of
+ GPU
+ memory
+ and
+
+
+compute
+ and
+ but
+ for
+ agent
+ task
+ and
+ for
+
+
+example
+ the
+ real
+ software
+ engineering
+ uh
+
+
+usually
+ have
+ many
+ steps
+ like
+ for
+ example
+
+
+open
+ the
+ browser
+ and
+ hit
+ uh
+ backend
+ API
+
+
+and
+ for
+ the
+ external
+ response
+ um
+ extra
+
+
+so
+ if
+ we
+ force
+ every
+ worker
+ to
+ stay
+ in
+
+
+the
+ sameness
+ the
+ forces
+ the
+ get
+ dragged
+
+
+down
+ by
+ the
+ service
+ field
+ and
+ GPU
+
+
+So
+ in
+ slide
+ we
+ decide
+ he
+ agriculture
+ to
+
+
+support
+ both
+ uh
+
+
+and
+ secret
+ model.
+ If
+ you
+ look
+ at
+ the
+
+
+diagramraph
+ the
+ blue
+ part
+ is
+ meatron
+
+
+batch
+ training
+ engine
+ w
+ for
+ data
+ buffer
+
+
+and
+ opposite
+ ways
+ and
+ the
+ green
+ pause
+ is
+
+
+high
+ throughout
+ intervention
+ coaster.
+ So
+
+
+with
+ a
+ routine
+ of
+ dispatch
+ request
+ and
+
+
+in
+ the
+ middle
+ the
+ data
+ buffer
+ act
+ like
+
+
+the
+ share
+ nist
+ systems.
+ So
+ one
+ side
+
+
+connect
+ training
+ and
+ other
+ side
+
+
+differential
+ agent
+ environments
+ for
+
+
+regular
+ reinforcement
+ learning
+ cost.
+ We
+
+
+keep
+ training
+ and
+ in
+ uh
+ inference
+ on
+ the
+
+
+same
+ GPU
+ pool
+ using
+ with
+ a
+ sim
+ mode
+ and
+
+
+dynamic
+ sampling
+ instant
+ update
+ and
+ the
+
+
+maximum
+ throughputs.
+ Once
+ we
+ switch
+
+
+reach
+ to
+ complete
+ agent
+ task
+ we
+ move
+ to
+
+
+a
+ decouple
+ and
+ synchroniz
+ mode.
+ So
+ the
+
+
+row
+ outside
+ port talks
+ directly
+ to
+ real
+
+
+environments
+ and
+ just
+ regenerate
+
+
+tractory
+ and
+ write
+ them
+ into
+ the
+ buffer
+
+
+and
+ then
+ the
+ training
+ side
+ consume
+ the
+
+
+data
+ in
+ own
+ space
+ up
+ the
+ model
+ and
+ uh
+
+
+periodically
+ push
+ new
+ way.
+
+
+So
+ the
+ nice
+ thing
+ is
+ even
+ if
+ some
+ tasks
+
+
+super
+ slow
+ they
+ don't
+ block
+ the
+ whole
+
+
+training
+ pipeline.
+ So
+ on
+ top
+ of
+ that
+ we
+
+
+have
+ done
+ a
+ branch
+ of
+ efficiency
+
+
+optimization
+
+
+[Music]
+
+
+like
+ the
+ main
+ chain
+ still
+ run
+ flow
+ 16
+ uh
+
+
+stability
+ but
+ after
+ each
+ policy
+ update
+
+
+we
+ do
+ blockwise
+ FDA
+ cronization
+ on
+ the
+
+
+latest
+ ways
+ and
+ send
+ FPA
+ version
+ through
+
+
+our
+ work.
+ So
+ the
+ most
+ expensive
+ part
+ the
+
+
+data
+ generation
+ and
+ running
+ FDA
+ with
+
+
+much
+ higher
+ output
+ while
+ training
+ this
+
+
+keep
+ BF
+ BF16
+ precision.
+ So
+ in
+ practice
+
+
+we
+ will
+ get
+ the
+ benefit
+ both
+ accuracy
+
+
+and
+ speed
+ in
+ this
+ framework.
+
+
+Now
+ let's
+ zoom
+ in
+ reasonal
+ ISO
+ and
+ this
+
+
+slide
+ with
+ some
+ plots.
+ So
+ the
+ first
+ one
+
+
+is
+ about
+ the
+ two-stage
+ curriculum
+ we
+
+
+use.
+ We
+ don't
+ change
+ all
+ the
+ fixed
+ data
+
+
+set
+ from
+ start
+ to
+ finish.
+ Instead,
+ we
+
+
+use
+ a
+ two-stage
+ difficulty
+ curriculum.
+
+
+In
+ stage
+ one,
+ we
+ use
+ medium
+ difficulty
+
+
+problem.
+ In
+ each
+ batch,
+ some
+ arrive
+ in
+
+
+some
+ room.
+ So,
+ the
+ rewards
+ have
+ various
+
+
+in
+ the
+ grinding
+ are
+ meaningful.
+ All
+ the
+
+
+model
+ get
+ stronger
+ with
+ which
+ you
+
+
+extremely
+ hard
+ problem
+ in
+ stage
+ two.
+ But
+
+
+with
+ 512
+ samples,
+ you
+ can
+ still
+
+
+occasionally
+ get
+ a
+ correct
+ solution.
+ So
+
+
+you
+ can
+ see
+ on
+ the
+ pause
+ the
+ blue
+ curve
+
+
+is
+ our
+ method
+ after
+ switching
+ to
+ hard
+
+
+problem
+ the
+ curve
+ is
+ keep
+ going
+ up.
+
+
+However
+ use
+ the
+ uh
+ median
+ difficulty
+ the
+
+
+way
+ uh
+ is
+ not
+ on
+ the
+ red
+ curve.
+ The
+ next
+
+
+picture
+ is
+ about
+ a
+ single
+ stage
+
+
+reinforcement
+ learning
+ as
+ 64,000
+ tokens.
+
+
+Some
+ previous
+ works
+ such
+ as
+ multi-stage
+
+
+reason
+ uh
+ reinforcement.
+
+
+for
+ is
+ that
+ uh
+ for
+ example
+ is
+ uh
+ 16
+ then
+
+
+32
+ then
+ 48
+ and
+ finally
+ 6
+ 64
+ but
+ we
+ found
+
+
+that
+ for
+ model
+ that
+ is
+ already
+ been
+
+
+trained
+ with
+ 64,000
+ token
+ uh
+ SFT
+ those
+
+
+shorter
+ IO
+ strange
+ actually
+ make
+ you
+
+
+forget
+ it
+ long
+ content
+ ability
+ so
+
+
+average
+ upper
+ listings
+ and
+ the
+ finals
+
+
+64k
+ token
+ stage
+ can't
+ fully
+ recover
+ the
+
+
+loss
+
+
+So
+ the
+ red
+ curve
+ here
+ is
+ our
+ approach.
+
+
+We
+ start
+ directly
+ with
+ 40
+ uh
+ 64,000
+
+
+uh
+ token
+ and
+ train
+ in
+ one
+ single
+ stage
+
+
+re
+ is
+ clearly
+ outperform
+ than
+ the
+ blue
+
+
+middle
+ multi-stage
+ curve.
+ Uh
+
+
+the
+ the
+ picture
+ below
+ is
+ about
+ the
+ code.
+
+
+So
+ on
+ the
+ left
+ bottom
+ we
+ complain
+ two
+
+
+ways
+ of
+ committing
+ the
+ laws
+ for
+ code.
+ So
+
+
+the
+ blue
+ one
+ is
+ classic
+ sequence
+ means
+
+
+loss
+ is
+ sequence
+ has
+ one
+ loss
+ value
+ and
+
+
+the
+ red
+ one
+ is
+ our
+ token
+ w
+ means
+ loss
+
+
+which
+ average
+ over
+ token
+ instead
+ of
+
+
+sequence.
+ The
+ token
+ w
+ version
+ converts
+
+
+faster
+ and
+ most
+ steadily
+ and
+ it
+ reduce
+
+
+the
+ chances
+ to
+ generate
+ very
+ short
+
+
+template
+ answer
+ just
+ to
+ get
+ the
+ rewards.
+
+
+And
+ the
+ right
+ you
+ can
+ see
+ the
+ data.
+
+
+uh
+ we
+ do
+ get
+ a
+ science
+ reinforcement
+
+
+learning
+ on
+ GPQA
+ demons
+ and
+ the
+
+
+messaging
+ almost
+ opposite
+ of
+ more
+ data
+
+
+is
+ better.
+ The
+ red
+ curve
+ red
+ curve
+ is
+
+
+trained
+ only
+ the
+ small
+ set
+ of
+ expert
+
+
+verify
+ but
+ high
+ quality
+ multiple
+ choice
+
+
+question
+ and
+ the
+ blue
+ curve
+ use
+ mixed
+
+
+quality
+ data.
+ So
+ this
+ result
+ that
+ a
+
+
+small
+ blood
+ clean
+ data
+ set
+ gives
+ much
+
+
+better
+ performance.
+ So
+ for
+ scientific
+
+
+reasoning
+ data
+ quality
+ really
+ matters
+
+
+more
+ than
+ raw
+ size.
+
+
+After
+ talking
+ about
+ J
+ 4.6
+ language
+ model
+
+
+we
+ move
+ to
+ the
+ multimodel.
+
+
+J
+ 4.5
+
+
+supports
+ the
+ both
+ image
+ and
+ video
+
+
+understanding.
+ It
+ is
+ our
+ latest
+ visual
+
+
+understanding
+ model
+ and
+ go
+ and
+ on
+
+
+grounding
+ and
+ the
+ image
+ understanding
+
+
+benchmark
+ it
+ shows
+ strong
+ performance
+
+
+and
+ the
+ clear
+ advantages
+ over
+ other
+ open
+
+
+source
+ model
+ release
+ around
+ the
+ same
+
+
+time.
+
+
+So
+ agriculturally
+ you
+ have
+ the
+ three
+
+
+main
+ PS
+ here
+
+
+the
+ one
+ is
+ a
+ version
+ transforming
+ coord
+
+
+and
+ then
+ it's
+ like
+ with
+ MLP
+ projector
+
+
+and
+ the
+ finally
+ is
+ 4.5
+ base
+ model
+ at
+ the
+
+
+coordinates.
+ So
+ we're
+ trying
+ hard
+ to
+
+
+keep
+ the
+ virtual
+ input
+ as
+ original
+ as
+
+
+possible.
+ So
+ the
+ model
+ can
+ see
+ the
+ image
+
+
+negative
+ resolution
+ and
+ accept
+ ratio
+
+
+instead
+ of
+ focusing
+ everything
+ into
+ a
+
+
+fixed
+ square.
+ So
+ this
+ matter
+ a
+ lot
+ of
+ us
+
+
+screenshot
+ and
+ also
+ long
+ vertical
+ image
+
+
+and
+ the
+ pawn
+ point
+ slides.
+ So
+ looking
+
+
+for
+ the
+ video
+ we
+ also
+ insert
+ a
+ time
+
+
+index
+ token
+ after
+ each
+ time
+ basically
+
+
+telling
+ model
+ this
+ is
+ the
+ friend
+ C
+ and
+
+
+this
+ is
+ the
+ second
+ T
+ and
+ they
+ help
+ it
+
+
+understand
+ the
+ temporal
+ order
+ and
+
+
+reience
+ which
+ is
+ crucial
+ for
+ action
+
+
+understanding
+ and
+ step
+ by
+ step
+ uh
+
+
+producer.
+
+
+Uh
+ we
+ also
+ use
+ a
+ method
+ uh
+ as
+ we
+
+
+researched
+ before
+ co
+ uh
+ in
+ coke
+ agent.
+
+
+Now
+ the
+ GUI
+ agent
+ capability
+ is
+ also
+
+
+support
+ on
+ GM
+ 4.5
+ B.
+ So
+ you
+ can
+ like
+ uh
+
+
+it
+ can
+ also
+ help
+ you
+ to
+ control
+ the
+
+
+computer
+ and
+ also
+ like
+ the
+ website
+ to
+
+
+control
+ uh
+ you
+ can
+ use
+ the
+ mouse
+ or
+ the
+
+
+keyboard
+ touching
+ and
+ to
+ communicate
+
+
+with
+ your
+ uh
+ browser
+ also
+ computer
+ or
+
+
+mobile
+ environments.
+
+
+So
+ how
+ to
+ use
+ G
+ 4.6
+ or
+ G
+ 4.5
+ V
+ model.
+
+
+The
+ first
+ one
+ is
+ using
+ a
+ open
+ source
+
+
+weight.
+ Uh
+ as
+ we
+ know
+ this
+ both
+ these
+
+
+tool
+ is
+ open
+ source.
+ So
+ you
+ can
+ use
+ the
+
+
+echelon
+ or
+ v
+ or
+ other
+ framework
+ to
+
+
+inference
+ it.
+ Uh
+ along
+ with
+ the
+ weights
+
+
+on
+ the
+ release
+ day
+ we
+ already
+ had
+
+
+achelon
+ and
+ the
+ vlm
+ integrated
+ ready
+ and
+
+
+we
+ also
+ work
+ with
+ many
+ third
+ party
+ open
+
+
+source
+ frameworks
+ like
+ the
+ llama
+ factory
+
+
+or
+ ms
+ swift.
+ So
+ thank
+ you
+ to
+ this
+
+
+community
+ there
+ you
+ have
+ you
+ can
+ choose
+
+
+uh
+ any
+ that
+ framework
+ you
+ want
+ and
+ to
+
+
+try
+ our
+ model
+ but
+
+
+the
+ GM
+ uh
+ GM
+ 4.6
+ model
+ is
+ a
+ large
+ model
+
+
+with
+ like
+ more
+ than
+ 35
+ uh
+ 355
+
+
+billion
+ parameter.
+ So
+ if
+ you
+ don't
+ have
+
+
+that
+ 100
+ or
+ like
+ and
+ other
+ uh
+ GPUs
+
+
+there's
+ an
+ easier
+ way
+ to
+ uh
+ use
+ our
+
+
+model.
+ So
+ in
+ this
+ slide
+ we
+ show
+ the
+
+
+deploy
+ uh
+ command
+ of
+ using
+ Helon
+ or
+ the
+
+
+VLM.
+ Here
+
+
+the
+ next
+ slide
+ uh
+ we
+ can
+ use
+ the
+ GM
+ on
+
+
+the
+ Z.
+ AI
+ uh
+ Z.AI
+ AI.
+ This
+ is
+ a
+ website
+
+
+and
+ you
+ can
+ try
+ your
+ uh
+ directly
+
+
+and
+ you
+ can
+ use
+ the
+ writing
+ code
+ you
+ can
+
+
+using
+ to
+ generate
+ powerpoints
+ and
+ so
+ on.
+
+
+And
+ in
+ this
+ uh
+ demo
+ is
+ uh
+ using
+
+
+one
+ command
+ to
+ write
+ the
+ Google
+
+
+searching
+ in
+ our
+ dat
+
+
+uh
+ demo.
+ So
+ you
+ can
+ just
+ uh
+ communicate
+
+
+with
+ it
+
+
+and
+ also
+ GM
+ is
+ famous
+ in
+ coding
+
+
+capability.
+
+
+So
+ we
+ also
+ provides
+ the
+ GM
+ coding
+ plan
+
+
+which
+ connect
+ GM
+ with
+ tools
+ and
+ other
+
+
+plugins
+ that
+ cloud
+ code
+ or
+ other
+ coding
+
+
+developer
+ uh
+ develop
+ tools
+ and
+ to
+
+
+provide
+ a
+ very
+ strong
+ coding
+ assistant
+
+
+experience.
+ We
+ also
+ have
+ a
+ short
+ demo
+
+
+video
+ that
+ uh
+ show
+ how
+ to
+ replace
+ Yodi
+
+
+model
+ in
+ a
+ cocoa
+ livea
+ with
+ gem
+ 4.6
+ here
+
+
+and
+ you
+ can
+ uh
+ see
+ the
+ you
+ can
+ watch
+
+
+this
+ on
+ YouTube
+
+
+then
+ is
+ the
+ uh
+ our
+ community
+ activity
+
+
+beyond
+ today
+ talk
+ where
+ regularly
+ host
+
+
+events
+ both
+ online
+ and
+ offline.
+ So
+
+
+whenever
+ we
+ release
+ a
+ new
+ model
+ we
+
+
+usually
+ run
+ a
+ several
+ community
+ session
+
+
+afterwards
+ as
+ the
+ first
+ one
+ there
+ is
+ AMA
+
+
+in
+ the
+ Reddit
+ and
+ we
+ also
+ have
+ some
+ uh
+
+
+we
+ also
+ have
+ some
+ offline
+ and
+ onsite
+ uh
+
+
+techn
+ uh
+ tech technology
+ sharing
+ so
+ you
+
+
+can
+ join
+ us
+
+
+the
+ final
+ uh
+ slide
+ is
+ some
+ important
+
+
+link
+ you
+ may
+ to
+ know
+ uh
+ is
+ about
+ website
+
+
+as
+ I
+ as
+ I
+ mentioned
+ mentioned
+ before
+ to
+
+
+try
+ GM
+ model
+ as
+ ZAI
+ and
+ also
+ our
+ API
+ on
+
+
+here
+ then
+ we
+ also
+ provide
+ GM
+ 4.6
+ six
+
+
+technical
+ uh
+ technical
+ board
+ and
+ J4.5
+
+
+tech
+ reports.
+ Uh
+ you
+ can
+ check
+ it
+ and
+
+
+you
+ want
+ to
+ join
+ our
+ community
+ here
+ is
+
+
+the
+ discord
+ link
+ and
+ also
+ the
+ GitHub
+
+
+link
+ is
+ below
+ with
+ the
+ open
+ source
+ model
+
+
+including
+ the
+ readme
+ to
+ how
+ to
+ deploy
+ on
+
+
+the
+ open
+ source
+ method.
+ That's
+ all
+ of
+
+
+today.
+ Thank
+ you
+ very
+ much.
