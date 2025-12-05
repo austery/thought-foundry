@@ -30,18 +30,21 @@ layout: "base.njk"
         <div class="pkm-taxonomy">
           {% if area %}
             <p><strong>领域:</strong>
-              <a class="taxonomy-link" href="{{ ('/areas/' + (area | getAreaUniqueKey(collections) | slug) + '/') | url }}">{{ area }}</a>
+              {# [OPTIMIZATION] Use getAreaSlug helper #}
+              <a class="taxonomy-link" href="{{ ('/areas/' + (area | getAreaSlug(collections)) + '/') | url }}">{{ area }}</a>
             </p>
           {% endif %}
           {% if category %}
             <p><strong>分类:</strong>
-              <a class="taxonomy-link" href="{{ ('/categories/' + (category | slug) + '/') | url }}">{{ category }}</a>
+              {# [OPTIMIZATION] Use getCategorySlug helper #}
+              <a class="taxonomy-link" href="{{ ('/categories/' + (category | getCategorySlug(collections)) + '/') | url }}">{{ category }}</a>
             </p>
           {% endif %}
           {% if project and project.length > 0 %}
             <p><strong>专题:</strong>
               {% for proj in project %}
-                <a class="taxonomy-link" href="{{ ('/projects/' + (proj | slug) + '/') | url }}">{{ proj }}</a>{% if not loop.last %}, {% endif %}
+                {# [OPTIMIZATION] Use getProjectSlug helper #}
+                <a class="taxonomy-link" href="{{ ('/projects/' + (proj | getProjectSlug(collections)) + '/') | url }}">{{ proj }}</a>{% if not loop.last %}, {% endif %}
               {% endfor %}
             </p>
           {% endif %}
@@ -56,8 +59,8 @@ layout: "base.njk"
           {% for speakerName in speakers %}
             {% set trimmedSpeaker = speakerName.trim() %}
             {% if trimmedSpeaker != '' %}
-              {% set speakerUniqueKey = trimmedSpeaker | getSpeakerUniqueKey(collections) %}
-              <a class="speaker-link" href="{{ ('/speakers/' + (speakerUniqueKey | slug) + '/') | url }}">{{ trimmedSpeaker }}</a>{% if not loop.last %}, {% endif %}
+              {# [OPTIMIZATION] Use getSpeakerSlug helper #}
+              <a class="speaker-link" href="{{ ('/speakers/' + (trimmedSpeaker | getSpeakerSlug(collections)) + '/') | url }}">{{ trimmedSpeaker }}</a>{% if not loop.last %}, {% endif %}
             {% endif %}
           {% endfor %}
         </p>
@@ -70,8 +73,8 @@ layout: "base.njk"
           {% for guestName in guests %}
             {% set trimmedGuest = guestName.trim() %}
             {% if trimmedGuest != '' %}
-              {% set guestUniqueKey = trimmedGuest | getSpeakerUniqueKey(collections) %}
-              <a class="speaker-link" href="{{ ('/speakers/' + (guestUniqueKey | slug) + '/') | url }}">{{ trimmedGuest }}</a>{% if not loop.last %}, {% endif %}
+              {# [OPTIMIZATION] Use getSpeakerSlug helper #}
+              <a class="speaker-link" href="{{ ('/speakers/' + (trimmedGuest | getSpeakerSlug(collections)) + '/') | url }}">{{ trimmedGuest }}</a>{% if not loop.last %}, {% endif %}
             {% endif %}
           {% endfor %}
         </p>
@@ -129,28 +132,32 @@ layout: "base.njk"
             {% if people and people.length > 0 %}
               <p><strong>人物:</strong>
                 {% for person in people %}
-                  <a href="{{ ('/people/' + (person | getPersonUniqueKey(collections) | slug) + '/') | url }}" class="entity-link person-link">{{ person }}</a>{% if not loop.last %}, {% endif %}
+                  {# [OPTIMIZATION] Use getPersonSlug helper #}
+                  <a href="{{ ('/people/' + (person | getPersonSlug(collections)) + '/') | url }}" class="entity-link person-link">{{ person }}</a>{% if not loop.last %}, {% endif %}
                 {% endfor %}
               </p>
             {% endif %}
             {% if companies_orgs and companies_orgs.length > 0 %}
               <p><strong>公司/组织:</strong>
                 {% for company in companies_orgs %}
-                  <a href="{{ ('/companies-orgs/' + (company | getCompanyUniqueKey(collections) | slug) + '/') | url }}" class="entity-link company-link">{{ company }}</a>{% if not loop.last %}, {% endif %}
+                  {# [OPTIMIZATION] Use getCompanySlug helper #}
+                  <a href="{{ ('/companies-orgs/' + (company | getCompanySlug(collections)) + '/') | url }}" class="entity-link company-link">{{ company }}</a>{% if not loop.last %}, {% endif %}
                 {% endfor %}
               </p>
             {% endif %}
             {% if products_models and products_models.length > 0 %}
               <p><strong>产品/模型:</strong>
                 {% for product in products_models %}
-                  <a href="{{ ('/products-models/' + (product | getProductUniqueKey(collections) | slug) + '/') | url }}" class="entity-link product-link">{{ product }}</a>{% if not loop.last %}, {% endif %}
+                  {# [OPTIMIZATION] Use getProductSlug helper #}
+                  <a href="{{ ('/products-models/' + (product | getProductSlug(collections)) + '/') | url }}" class="entity-link product-link">{{ product }}</a>{% if not loop.last %}, {% endif %}
                 {% endfor %}
               </p>
             {% endif %}
             {% if media_books and media_books.length > 0 %}
               <p><strong>媒体/书籍:</strong>
                 {% for media in media_books %}
-                  <a href="{{ ('/media-books/' + (media | getMediaUniqueKey(collections) | slug) + '/') | url }}" class="entity-link media-link">{{ media }}</a>{% if not loop.last %}, {% endif %}
+                  {# [OPTIMIZATION] Use getMediaSlug helper #}
+                  <a href="{{ ('/media-books/' + (media | getMediaSlug(collections)) + '/') | url }}" class="entity-link media-link">{{ media }}</a>{% if not loop.last %}, {% endif %}
                 {% endfor %}
               </p>
             {% endif %}
@@ -165,7 +172,8 @@ layout: "base.njk"
         <p><strong>关键字:</strong>
           {% for tag in tags %}
             {% if tag != "post" and tag != "note" and tag != "视频文稿" %}
-              <a class="tag-link" href="{{ ('/tags/' + (tag | slug) + '/') | url }}">{{ tag }}</a>
+              {# [OPTIMIZATION] Use getTagSlug helper #}
+              <a class="tag-link" href="{{ ('/tags/' + (tag | getTagSlug(collections)) + '/') | url }}">{{ tag }}</a>
             {% endif %}
           {% endfor %}
         </p>

@@ -4,7 +4,8 @@ pagination:
   size: 1
   alias: mediaInfo
 layout: "base.njk"
-permalink: "/media-books/{{ mediaInfo.uniqueKey | slug }}/"
+# [OPTIMIZATION] Use pre-computed slug
+permalink: "/media-books/{{ mediaInfo.slug }}/"
 ---
 
 <div class="container" data-pagefind-ignore>

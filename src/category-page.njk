@@ -4,7 +4,8 @@ pagination:
   size: 1
   alias: categoryInfo
 layout: "base.njk"
-permalink: "/categories/{{ categoryInfo.key | slug }}/"
+# [OPTIMIZATION] Use pre-computed slug
+permalink: "/categories/{{ categoryInfo.slug }}/"
 ---
 
 <div class="container" data-pagefind-ignore>

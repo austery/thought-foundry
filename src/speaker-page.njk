@@ -4,7 +4,8 @@ pagination:
   size: 1
   alias: speakerInfo
 layout: "base.njk"
-permalink: "/speakers/{{ speakerInfo.uniqueKey | slug }}/"
+# [OPTIMIZATION] Use pre-computed slug instead of | slug filter
+permalink: "/speakers/{{ speakerInfo.slug }}/"
 ---
 
 <div class="container" data-pagefind-ignore>

@@ -4,7 +4,8 @@ pagination:
   size: 1
   alias: companyInfo
 layout: "base.njk"
-permalink: "/companies-orgs/{{ companyInfo.uniqueKey | slug }}/"
+# [OPTIMIZATION] Use pre-computed slug
+permalink: "/companies-orgs/{{ companyInfo.slug }}/"
 ---
 
 <div class="container" data-pagefind-ignore>

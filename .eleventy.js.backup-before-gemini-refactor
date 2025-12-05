@@ -169,69 +169,6 @@ module.exports = async function (eleventyConfig) {
     return eleventyConfig.getFilter("slug")(str);
   });
 
-  // [PHASE 3 OPTIMIZATION] Slug lookup helpers that return pre-computed slugs
-  // These avoid calling | slug filter in templates by looking up pre-computed values
-  
-  eleventyConfig.addFilter("getSpeakerSlug", function (speakerName, collections) {
-    if (!collections || !collections.speakerList) return eleventyConfig.getFilter("slug")(speakerName);
-    const uniqueKey = eleventyConfig.getFilter("getSpeakerUniqueKey")(speakerName, collections);
-    const speaker = collections.speakerList.find(s => s.uniqueKey === uniqueKey);
-    return speaker ? speaker.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getAreaSlug", function (areaName, collections) {
-    if (!collections || !collections.areaList) return eleventyConfig.getFilter("slug")(areaName);
-    const uniqueKey = eleventyConfig.getFilter("getAreaUniqueKey")(areaName, collections);
-    const area = collections.areaList.find(a => a.uniqueKey === uniqueKey);
-    return area ? area.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getCategorySlug", function (categoryName, collections) {
-    if (!collections || !collections.categoryList) return eleventyConfig.getFilter("slug")(categoryName);
-    const category = collections.categoryList.find(c => c.key === categoryName);
-    return category ? category.slug : eleventyConfig.getFilter("slug")(categoryName);
-  });
-
-  eleventyConfig.addFilter("getProjectSlug", function (projectName, collections) {
-    if (!collections || !collections.projectList) return eleventyConfig.getFilter("slug")(projectName);
-    const project = collections.projectList.find(p => p.key === projectName);
-    return project ? project.slug : eleventyConfig.getFilter("slug")(projectName);
-  });
-
-  eleventyConfig.addFilter("getPersonSlug", function (personName, collections) {
-    if (!collections || !collections.peopleList) return eleventyConfig.getFilter("slug")(personName);
-    const uniqueKey = eleventyConfig.getFilter("getPersonUniqueKey")(personName, collections);
-    const person = collections.peopleList.find(p => p.uniqueKey === uniqueKey);
-    return person ? person.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getCompanySlug", function (companyName, collections) {
-    if (!collections || !collections.companiesOrgsList) return eleventyConfig.getFilter("slug")(companyName);
-    const uniqueKey = eleventyConfig.getFilter("getCompanyUniqueKey")(companyName, collections);
-    const company = collections.companiesOrgsList.find(c => c.uniqueKey === uniqueKey);
-    return company ? company.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getProductSlug", function (productName, collections) {
-    if (!collections || !collections.productsModelsList) return eleventyConfig.getFilter("slug")(productName);
-    const uniqueKey = eleventyConfig.getFilter("getProductUniqueKey")(productName, collections);
-    const product = collections.productsModelsList.find(p => p.uniqueKey === uniqueKey);
-    return product ? product.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getMediaSlug", function (mediaName, collections) {
-    if (!collections || !collections.mediaBookslist) return eleventyConfig.getFilter("slug")(mediaName);
-    const uniqueKey = eleventyConfig.getFilter("getMediaUniqueKey")(mediaName, collections);
-    const media = collections.mediaBookslist.find(m => m.uniqueKey === uniqueKey);
-    return media ? media.slug : eleventyConfig.getFilter("slug")(uniqueKey);
-  });
-
-  eleventyConfig.addFilter("getTagSlug", function (tagName, collections) {
-    if (!collections || !collections.tagList) return eleventyConfig.getFilter("slug")(tagName);
-    const tag = collections.tagList.find(t => t.name === tagName);
-    return tag ? tag.slug : eleventyConfig.getFilter("slug")(tagName);
-  });
-
   // 添加一个过滤器来获取演讲者的唯一键
   eleventyConfig.addFilter(
     "getSpeakerUniqueKey",

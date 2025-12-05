@@ -4,7 +4,8 @@ pagination:
   size: 1
   alias: productInfo
 layout: "base.njk"
-permalink: "/products-models/{{ productInfo.uniqueKey | slug }}/"
+# [OPTIMIZATION] Use pre-computed slug
+permalink: "/products-models/{{ productInfo.slug }}/"
 ---
 
 <div class="container" data-pagefind-ignore>

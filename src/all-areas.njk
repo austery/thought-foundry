@@ -13,7 +13,8 @@ title: "所有领域"
 
 <div class="category-list">
   {%- for area in collections.areaList | sort(false, false, 'name') -%}
-    <a href="{{ ('/areas/' + (area.key | slug) + '/') | url }}" class="category-pill">
+    {# [OPTIMIZATION] Use pre-computed slug #}
+    <a href="{{ ('/areas/' + area.slug + '/') | url }}" class="category-pill">
       🌐 {{ area.name }} ({{ area.posts.length }})
     </a>
   {%- endfor -%}

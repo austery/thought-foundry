@@ -12,7 +12,8 @@ permalink: "/all-categories/"
 
 <div class="category-list">
   {% for categoryInfo in collections.categoryList %}
-    <a href="{{ ('/categories/' + (categoryInfo.key | slug) + '/') | url }}" class="category-pill">
+    {# [OPTIMIZATION] Use pre-computed slug #}
+    <a href="{{ ('/categories/' + categoryInfo.slug + '/') | url }}" class="category-pill">
       🏷️ {{ categoryInfo.name }} ({{ categoryInfo.posts.length }})
     </a>
   {% endfor %}

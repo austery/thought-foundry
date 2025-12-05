@@ -4,8 +4,8 @@ pagination:
   size: 1
   alias: tagInfo
 layout: "base.njk"
-# 在这里，我们必须对 tagInfo.key 使用 slug 过滤器
-permalink: "/tags/{{ tagInfo.key | slug }}/"
+# [OPTIMIZATION] Use pre-computed slug instead of | slug filter
+permalink: "/tags/{{ tagInfo.slug }}/"
 ---
 
 <div class="container" data-pagefind-ignore>

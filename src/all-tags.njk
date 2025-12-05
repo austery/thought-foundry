@@ -14,7 +14,7 @@ permalink: "/all-tags/"
   <ul class="filterable-list tag-list">
     {% for tagInfo in collections.tagList %}
       <li>
-        <a href="{{ ('/tags/' + (tagInfo.key | slug) + '/') | url }}" class="tag-pill">
+        <a href="{{ ('/tags/' + tagInfo.slug + '/') | url }}" class="tag-pill">
           #{{ tagInfo.name }} ({{ tagInfo.posts.length }})
         </a>
       </li>

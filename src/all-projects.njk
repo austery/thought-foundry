@@ -12,7 +12,8 @@ permalink: "/all-projects/"
 
 <div class="project-list">
   {% for projectInfo in collections.projectList %}
-    <a href="{{ ('/projects/' + (projectInfo.key | slug) + '/') | url }}" class="project-pill">
+    {# [OPTIMIZATION] Use pre-computed slug #}
+    <a href="{{ ('/projects/' + projectInfo.slug + '/') | url }}" class="project-pill">
       📂 {{ projectInfo.name }} ({{ projectInfo.posts.length }})
     </a>
   {% endfor %}

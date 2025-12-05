@@ -58,7 +58,8 @@ layout: "base.njk"
         {% if tags %}
           <p><strong>关键字:</strong> 
             {% for tag in tags %}
-              <a class="tag-link" href="{{ ('/tags/' + (tag | slug) + '/') | url }}">{{ tag }}</a>
+              {# [OPTIMIZATION] Use getTagSlug helper #}
+              <a class="tag-link" href="{{ ('/tags/' + (tag | getTagSlug(collections)) + '/') | url }}">{{ tag }}</a>
             {% endfor %}
           </p>
         {% endif %}

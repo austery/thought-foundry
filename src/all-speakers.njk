@@ -14,7 +14,7 @@ permalink: "/all-speakers/"
   <ul class="filterable-list speaker-list">
     {% for speakerInfo in collections.speakerList %}
       <li>
-        <a href="{{ ('/speakers/' + (speakerInfo.uniqueKey | slug) + '/') | url }}" class="speaker-pill">
+        <a href="{{ ('/speakers/' + speakerInfo.slug + '/') | url }}" class="speaker-pill">
           {{ speakerInfo.name }} ({{ speakerInfo.posts.length }})
         </a>
       </li>

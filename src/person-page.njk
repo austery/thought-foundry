@@ -4,7 +4,8 @@ pagination:
   size: 1
   alias: personInfo
 layout: "base.njk"
-permalink: "/people/{{ personInfo.uniqueKey | slug }}/"
+# [OPTIMIZATION] Use pre-computed slug
+permalink: "/people/{{ personInfo.slug }}/"
 ---
 
 <div class="container" data-pagefind-ignore>
