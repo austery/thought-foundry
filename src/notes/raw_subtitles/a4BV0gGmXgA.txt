@@ -1,0 +1,4540 @@
+[Music]
+
+
+Uh
+ let's
+ talk
+ about
+ some
+ of
+ the
+
+
+interesting
+ things
+ we've
+ learned
+ uh
+ over
+
+
+time.
+
+
+Um
+ so
+ the
+ first
+ thing
+ is
+ I
+ think
+ it's
+
+
+super
+ important
+ for
+ you
+ to
+ uh
+ understand
+
+
+and
+ define
+ um
+ whether
+ evals
+ are
+ actually
+
+
+providing
+ value
+ uh
+ for
+ your
+ organization
+
+
+or
+ not.
+ Um
+ and
+ I
+ tried
+ to
+ come
+ up
+ with
+
+
+three
+ signs
+ that
+ you
+ should
+ look
+ for
+ um
+
+
+that
+ that
+ are
+ good.
+ Uh
+ so
+ the
+ first
+ is
+
+
+um
+ if
+ a
+ new
+ model
+ comes
+ out
+ uh
+ you
+
+
+should
+ be
+ prepared
+ um
+ uh
+ via
+ your
+ evals
+
+
+to
+ be
+ able
+ to
+ launch
+ an
+ update
+ to
+ your
+
+
+product
+ within
+ 24
+ hours
+ that
+
+
+incorporates
+ the
+ new
+ model.
+ Uh
+ Sarah
+
+
+from
+ Notion
+ um
+ she
+ talked
+ yesterday
+ she
+
+
+talked
+ about
+ this
+ um
+ specifically
+ but
+ um
+
+
+for
+ the
+ past
+ several
+ model
+ releases
+
+
+every
+ time
+ something
+ comes
+ out
+ Notion's
+
+
+able
+ to
+ incorporate
+ um
+ the
+ new
+ model
+
+
+within
+ 24
+ hours.
+ And
+ I
+ think
+ that's
+ a
+
+
+really
+ good
+ sign
+ of
+ success.
+ If
+ you
+
+
+can't
+ do
+ that,
+ um,
+ then
+ it
+ means
+ that,
+
+
+uh,
+ you
+ have
+ some
+ work
+ to
+ do
+ on
+ your
+
+
+emails.
+
+
+Um,
+ another
+ sign
+ of
+ success
+ is
+ if
+ a
+ user
+
+
+complains
+ about
+ something,
+ do
+ you
+ have
+ a
+
+
+very
+ clear
+ and
+ straightforward
+ path
+ to
+
+
+take
+ their
+ complaint
+ and
+ add
+ it
+ into
+
+
+your
+ evals?
+ Um,
+ if
+ you
+ do,
+ then
+ you
+ have
+
+
+a
+ shot
+ at
+ actually
+ um,
+ incorporating
+
+
+user
+ feedback,
+ pulling
+ it
+ into
+ your
+
+
+emails,
+ and
+ ultimately
+ doing
+ it
+ better.
+
+
+If
+ you
+ don't,
+ then
+ you're
+ going
+ to
+ lose
+
+
+a
+ lot
+ of
+ valuable
+ information
+ into
+ the
+
+
+ether.
+ Uh
+ so
+ again
+ I
+ think
+ this
+ is
+ a
+
+
+really
+ important
+ kind
+ of
+ threshold
+ or
+
+
+milestone
+ to
+ hit.
+
+
+Um
+ and
+ the
+ last
+ one
+ which
+ I'm
+ actually
+
+
+going
+ to
+ talk
+ about
+ a
+ little
+ bit
+ more
+
+
+throughout
+ the
+ presentation
+ is
+ um
+ you
+
+
+should
+ really
+ start
+ using
+ evals
+ to
+ play
+
+
+offense
+ and
+ understand
+ which
+ use
+ cases
+
+
+you
+ can
+ solve
+ um
+ and
+ how
+ well
+ you
+ can
+
+
+solve
+ them
+ before
+ you
+ actually
+ ship
+
+
+things
+ not
+ like
+ unit
+ tests
+ which
+ allow
+
+
+you
+ to
+ just
+ test
+ for
+ regressions.
+ Um,
+
+
+and
+ so
+ if
+ you
+ if
+ you
+ really
+ adopt
+ EVELs,
+
+
+then
+ I
+ think
+ uh
+ before
+ you
+ launch
+ a
+ new
+
+
+product,
+ you
+ have
+ a
+ really
+ good
+ idea
+ of
+
+
+how
+ well
+ the
+ product
+ might
+ work
+ given
+
+
+what
+ your
+ EVLs
+ say.
+
+
+Um,
+ the
+ second
+ lesson
+ is
+ that
+ great
+ eval
+
+
+uh
+ they
+ have
+ to
+ be
+ engineered.
+ They
+
+
+don't
+ just
+ come
+ for
+ free
+ with
+ uh
+
+
+synthetic
+ data
+ sets
+ and
+ random
+ LLM
+ as
+ a
+
+
+judge
+ scores
+ that
+ you
+ read
+ about
+ online.
+
+
+Um,
+ and
+ I
+ think
+ there's
+ maybe
+ two
+ ways
+
+
+of
+ thinking
+ about
+ this.
+ Um,
+ there's
+ no
+
+
+data
+ set
+ that
+ is
+ perfectly
+ aligned
+ with
+
+
+reality.
+ I
+ think
+ in
+ the
+ cases
+ that
+ there
+
+
+are,
+ there's
+ like
+ basically
+ nothing
+ to
+
+
+do
+ and
+ the
+ use
+ cases
+ already
+ work,
+ which
+
+
+there
+ are
+ a
+ few
+ that
+ that
+ are
+ kind
+ of
+
+
+like
+ that,
+ like
+ solving
+ competition
+ math
+
+
+problems
+ for
+ example.
+ But
+ for
+ most
+ real
+
+
+world
+ use
+ cases,
+ any
+ data
+ set
+ that
+ you
+
+
+can
+ come
+ up
+ with
+ ahead
+ of
+ time
+ is
+ not
+
+
+going
+ to
+ represent
+ what
+ users
+ are
+
+
+actually
+ experiencing.
+ And
+ I
+ think
+ um
+
+
+the
+ best
+ data
+ sets
+ are
+ those
+ that
+ you
+
+
+can
+ continuously
+ reconcile
+ um
+ as
+ you
+
+
+actually
+ experience
+ what
+ happens
+ in
+
+
+reality.
+ And
+ doing
+ that
+ well
+ requires
+
+
+quite
+ a
+ bit
+ of
+ engineering.
+ Um
+ of
+ course
+
+
+brain
+ trust
+ can
+ help
+ you
+ with
+ that.
+ But
+
+
+I
+ think
+ the
+ the
+ point
+ is
+ you
+ have
+ to
+
+
+think
+ about
+ uh
+ a
+ data
+ set
+ as
+ an
+
+
+engineering
+ problem
+ not
+ just
+ something
+
+
+that's
+ given
+ to
+ you.
+
+
+And
+ the
+ same
+ is
+ true
+ with
+ scorers.
+ I
+
+
+think
+ um
+ a
+ lot
+ of
+ people
+ we
+ talk
+ to
+ ask
+
+
+hey
+ what
+ scorers
+ does
+ brain
+ trust
+ come
+
+
+with
+ and
+ and
+ how
+ can
+ we
+ use
+ those
+ uh
+ so
+
+
+that
+ we
+ don't
+ need
+ to
+ think
+ about
+
+
+scoring
+ and
+ we
+ actually
+ have
+ a
+ really
+ uh
+
+
+powerful
+ um
+ open
+ source
+ library
+ called
+
+
+auto
+ evals
+ but
+ it's
+ very
+ open-
+ source
+
+
+and
+ uh
+ uh
+ flexible
+ for
+ a
+ reason
+ which
+ is
+
+
+that
+ um
+ every
+ company
+ that
+ we
+ work
+ with
+
+
+that's
+ sufficiently
+ advanced
+ is
+ writing
+
+
+their
+ own
+ scoring
+ functions
+ um
+ and
+
+
+modifying
+ them
+ uh
+ constantly
+ and
+ I
+ think
+
+
+uh
+ one
+ way
+ to
+ think
+ about
+ scores
+ is
+
+
+they're
+ like
+ a
+ spec
+ or
+ like
+ a
+ PRD
+ for
+
+
+your
+ AI
+ application.
+ And
+ if
+ you
+ think
+
+
+about
+ them
+ that
+ way,
+ um,
+ one,
+ it
+ it
+
+
+actually
+ justifies
+ making
+ an
+ investment
+
+
+in
+ scoring
+ beyond
+ just
+ using
+ something
+
+
+off
+ the
+ shelf.
+ And
+ two,
+ hopefully
+ it's
+
+
+fairly
+ obvious
+ that
+ if
+ you
+ just
+ use,
+ you
+
+
+know,
+ an
+ open-
+ source
+ or
+ generic
+ scorer,
+
+
+that's
+ a
+ spec
+ for
+ someone
+ else's
+
+
+project,
+ not
+ yours.
+
+
+Um,
+ there's
+ been
+ a
+ real
+ shift
+ towards
+
+
+context
+ in
+ prompts
+ that's
+ not
+ just
+ the
+
+
+system
+ prompt
+ that
+ you
+ write.
+ And
+ I
+
+
+actually
+ think
+ that
+ um
+ just
+ traditional
+
+
+prompt
+ engineering
+ pe
+ people
+ say
+ this
+ in
+
+
+different
+ ways,
+ but
+ I
+ think
+ traditional
+
+
+prompt
+ engineering
+ is
+ evolving
+ quite
+ a
+
+
+bit
+ and
+ it's
+ very
+ important
+ to
+ think
+
+
+about
+ context,
+ not
+ just
+ a
+ prompt.
+ Um
+ so
+
+
+this
+ um
+ is
+ an
+ example
+ of
+ what
+ kind
+ of
+ a
+
+
+modern
+ prompt
+ looks
+ like
+ for
+ an
+ agent.
+
+
+Usually
+ you
+ have
+ a
+ system
+ prompt
+ and
+
+
+then
+ a
+ for
+ loop
+ which
+ you
+ know
+ uh
+ runs
+
+
+LLM
+ calls
+ uh
+ issues
+ tool
+ calls,
+
+
+incorporates
+ the
+ tool
+ calls
+ into
+ the
+
+
+prompt
+ and
+ then
+ iterates
+ and
+ iterates.
+
+
+Um,
+ and
+ I
+ I
+ actually
+ took
+ a
+ few
+ uh
+ um
+ uh
+
+
+uh
+ trajectories
+ from
+ agents
+ that
+ that
+ we
+
+
+see
+ in
+ the
+ wild
+ and
+ summarized
+ these
+
+
+numbers.
+ And
+ as
+ you
+ can
+ see,
+ a
+ vast
+
+
+majority
+ of
+ the
+ tokens
+ in
+ the
+ average
+
+
+prompt
+ um
+ are
+ not
+ from
+ the
+ system
+
+
+prompt.
+ And
+ so,
+ yes,
+ it's
+ very
+ important
+
+
+to
+ write
+ a
+ good
+ system
+ prompt
+ and
+
+
+continue
+ to
+ improve
+ it.
+ But
+ if
+ you're
+
+
+not
+ very
+ precise
+ about
+ uh
+ how
+ you
+ define
+
+
+tools
+ and
+ how
+ you
+ define
+ their
+ outputs,
+
+
+uh
+ then
+ you're
+ leaving
+ a
+ lot
+ on
+ the
+
+
+table.
+ And
+ I
+ think
+ one
+ of
+ the
+ most
+
+
+important
+ things
+ we've
+ learned
+ uh
+
+
+together
+ with
+ some
+ customers
+ is
+ that
+ um
+
+
+you
+ can't
+ just
+ take
+ tools
+ as
+ a
+
+
+reflection
+ of
+ your
+ APIs
+ or
+ your
+ product
+
+
+as
+ it
+ exists
+ today.
+ You
+ have
+ to
+ think
+
+
+about
+ tools
+ in
+ terms
+ of
+ what
+ the
+ LLM
+
+
+wants
+ to
+ see
+ um
+ and
+ how
+ you
+ can
+ use
+ you
+
+
+know
+ exactly
+ what
+ you
+ uh
+ present
+ to
+ the
+
+
+LLM
+ to
+ make
+ it
+ work
+ really
+ well.
+ And
+ I
+
+
+think
+ that
+ in
+ most
+ projects
+ um
+ it's
+
+
+actually
+ very
+ disruptive
+ when
+ you
+ write
+
+
+good
+ tools.
+ Um
+ it's
+ not
+ something
+ that's
+
+
+just
+ like
+ an
+ API
+ layer
+ on
+ top
+ of
+ the
+
+
+stuff
+ that
+ you
+ already
+ have.
+ And
+ the
+
+
+same
+ is
+ true
+ with
+ their
+ outputs.
+ Um
+
+
+there's
+ one
+ example
+ that
+ we
+ uh
+ worked
+ on
+
+
+recently
+ for
+ an
+ internal
+ project
+ where
+
+
+um
+ shifting
+ the
+ output
+ of
+ a
+ tool
+ from
+
+
+JSON
+ to
+ YAML
+ actually
+ made
+ a
+ significant
+
+
+difference.
+ And
+ I
+ know
+ that's
+ a
+ little
+
+
+bit
+ of
+ a
+ meme
+ in
+ the
+ AI
+ universe,
+ but
+
+
+it's
+ just
+ so
+ much
+ more
+ token
+ efficient
+
+
+and
+ easy
+ for
+ an
+ LLM
+ to
+ look
+ at
+ um
+ a
+ YAML
+
+
+shaped
+ data
+ while
+ doing
+ analysis
+ than
+
+
+extremely
+ verbose
+ JSON.
+ Um
+ now,
+ if
+
+
+you're
+ writing
+ code
+ and
+ you're
+ plugging
+
+
+something
+ into,
+ you
+ know,
+ a
+ charting
+
+
+library,
+ it
+ makes
+ no
+ difference
+ because
+
+
+to
+ JavaScript,
+ YAML
+ and
+ JSON
+ are
+ both
+
+
+structured
+ data.
+ Um
+ but
+ to
+ an
+ LLM,
+
+
+they're
+ very
+ different.
+ And
+ so
+ I
+ think
+
+
+you
+ have
+ to
+ be
+ very
+ very
+ thoughtful
+
+
+about
+ um
+ you
+ know
+ how
+ you
+ actually
+
+
+construct
+ the
+ definition
+ of
+ a
+ tool
+ and
+
+
+how
+ you
+ construct
+ its
+ output
+ for
+ the
+ LLM
+
+
+to
+ maximally
+ benefit
+ from
+ it.
+
+
+So
+ I
+ think
+ one
+ of
+ the
+ most
+ important
+
+
+things
+ we've
+ learned
+ um
+ and
+ actually
+ I
+ I
+
+
+would
+ credit
+ some
+ of
+ the
+ folks
+ at
+ Replet
+
+
+uh
+ for
+ really
+ uh
+ pioneering
+ this
+
+
+pattern.
+ Um
+ but
+ you
+ know
+ every
+ time
+ a
+
+
+new
+ model
+ comes
+ out
+ uh
+ everything
+ might
+
+
+change.
+ Um
+ and
+ I
+ think
+ you
+ need
+ to
+
+
+engineer
+ your
+ product,
+ engineer
+ your
+
+
+team,
+ um
+ engineer
+ your
+ you
+ know
+ mindset
+
+
+so
+ that
+ when
+ a
+ new
+ model
+ comes
+ out
+ if
+ it
+
+
+changes
+ everything
+ for
+ you,
+ you
+ can
+ jump
+
+
+on
+ that
+ opportunity
+ and
+ and
+ ship
+
+
+something
+ that
+ maybe
+ wasn't
+ possible
+
+
+before.
+ Um
+ and
+ I'm
+ going
+ to
+ show
+ you
+
+
+some
+ numbers
+ uh
+ for
+ a
+ product
+ uh
+ feature
+
+
+that
+ we're
+ actually
+ launching
+ and
+ I'm
+
+
+going
+ to
+ show
+ you
+ a
+ little
+ bit
+ of
+ it
+
+
+today.
+ Um,
+ but
+ uh
+ we
+ we've
+ had
+ an
+ eval
+
+
+for
+ a
+ while
+ that
+ tells
+ us
+ how
+ well
+ this
+
+
+feature
+ might
+ work
+ and
+ we
+ run
+ it
+ every
+
+
+few
+ months
+ and
+ you
+ can
+ see
+ you
+ know
+ it
+
+
+wasn't
+ uh
+ that
+ long
+ ago
+ that
+ GPT40
+
+
+was
+ the
+ best
+ model
+ out
+ there.
+ Um
+ but
+ but
+
+
+things
+ have
+ changed
+ uh
+ and
+ you
+ know
+
+
+progressively
+ uh
+ GPT41
+ did
+ a
+ little
+ bit
+
+
+better.
+ Uh
+ 37
+ sonnet
+ is
+ much
+ better
+ and
+
+
+and
+ for
+ sonnet
+ is
+ actually
+ even
+ more
+
+
+remarkably
+ better.
+ Um
+ and
+ uh
+ what
+ what
+
+
+that's
+ meant
+ for
+ us
+ is
+ that
+ this
+ feature
+
+
+that
+ um
+ you
+ know
+ at
+ 10%
+ would
+ would
+
+
+really
+ not
+ be
+ viable
+ for
+ our
+ users
+ to
+
+
+use
+ suddenly
+ becomes
+ viable.
+ Um
+ and
+ so
+
+
+you
+ know
+ Cloud
+ 4
+ sonnet
+ actually
+ came
+
+
+out
+ two
+ weeks
+ ago.
+ Um
+ and
+ we're
+ shipping
+
+
+the
+ first
+ version
+ of
+ this
+ feature
+ today
+
+
+which
+ is
+ just
+ two
+ weeks
+ later.
+ But
+ we
+
+
+were
+ able
+ to
+ jump
+ on
+ that
+ opportunity
+
+
+because
+ we
+ ran
+ this
+ eval.
+ Um
+ we
+ were
+
+
+ready
+ to
+ do
+ it
+ and
+ we
+ we
+ saw
+ that
+ okay
+
+
+great
+ we've
+ actually
+ finally
+ crossed
+ uh
+
+
+this
+ threshold.
+ Um
+ so
+ everyone
+ that
+ I
+
+
+personally
+ work
+ with
+ or
+ talk
+ to
+ I
+
+
+encourage
+ to
+ create
+ evals
+ that
+ are
+ very
+
+
+very
+ ambitious
+ and
+ um
+ likely
+ not
+ uh
+ uh
+
+
+viable
+ with
+ today's
+ models
+ and
+ construct
+
+
+them
+ in
+ a
+ way
+ that
+ when
+ a
+ new
+ model
+
+
+comes
+ out
+ you
+ can
+ just
+ plug
+ the
+ new
+
+
+model
+ in
+ and
+ try
+ it.
+ Um,
+ in
+ Brain
+ Trust,
+
+
+we
+ have
+ this
+ tool
+ called
+ the
+ Brain
+ Trust
+
+
+proxy.
+ Um,
+ there's
+ a
+ lot
+ of
+ of
+ similar
+
+
+tools.
+ You
+ could
+ use
+ ours
+ or
+ you
+ could
+
+
+use
+ something
+ else.
+ Uh,
+ but
+ really
+ the
+
+
+point
+ is
+ that
+ you
+ don't
+ need
+ to
+ change
+
+
+any
+ code
+ to
+ work
+ across
+ model
+ providers.
+
+
+And
+ so,
+ um,
+ you
+ know,
+ Google
+ just
+
+
+launched
+ the
+ newest
+ version
+ of
+ of
+ uh,
+
+
+Gemini.
+ Um,
+ actually
+ Gemini
+ 2.5
+ Pro0520
+
+
+scores
+ 1%
+ on
+ this
+ benchmark.
+ Uh,
+ so
+ we
+
+
+didn't
+ even
+ put
+ it
+ on
+ here.
+ Um,
+ but
+
+
+maybe
+ the
+ thing
+ they
+ launched
+ today
+
+
+actually
+ uh
+ does
+ a
+ lot
+ better.
+ We
+ can
+
+
+find
+ out,
+ you
+ know,
+ with
+ with
+ just
+ a
+ few
+
+
+keystrokes
+ maybe
+ right
+ after
+ this
+ talk.
+
+
+Um,
+ and
+ the
+ last
+ thing
+ is
+ it's
+ super
+
+
+important
+ if
+ you
+ uh
+ think
+ about
+ um
+
+
+optimizing
+ your
+ prompts
+ to
+ optimize
+ the
+
+
+entire
+ system.
+ Um
+ so
+ that
+ means
+ uh
+
+
+thinking
+ holistically
+ about
+ your
+ um
+ AI
+
+
+system
+ as
+ the
+ data
+ that
+ you
+ use
+ for
+ your
+
+
+evals,
+ the
+ task
+ which
+ is
+ you
+ know
+ the
+
+
+prompt,
+ the
+ agentic
+ system,
+ tools
+ etc
+
+
+and
+ the
+ scoring
+ functions
+ and
+ and
+ every
+
+
+time
+ you
+ think
+ about
+ making
+ um
+ you
+ know
+
+
+your
+ your
+ app
+ better
+ you
+ need
+ to
+ think
+
+
+about
+ improving
+ this
+ overall
+ system.
+ Um
+
+
+we
+ actually
+ ran
+ a
+ benchmark
+ uh
+ which
+ is
+
+
+uh
+ the
+ same
+ benchmark
+ that
+ I
+ showed
+
+
+previously.
+ um
+ it
+ autooptimizes
+ prompts
+
+
+uh
+ using
+ um
+ an
+ LLM
+ and
+ uh
+ we
+ ran
+ it
+ once
+
+
+by
+ just
+ giving
+ it
+ the
+ prompt
+ and
+ saying
+
+
+like
+ hey
+ please
+ optimize
+ the
+ prompt
+ and
+
+
+a
+ second
+ time
+ giving
+ it
+ the
+ prompt
+ the
+
+
+data
+ set
+ and
+ the
+ scores
+ and
+ said
+ please
+
+
+optimize
+ this
+ whole
+ system.
+ Um
+ and
+ you
+
+
+can
+ see
+ there's
+ a
+ very
+ dramatic
+
+
+difference.
+ So
+ again
+ um
+ something
+ goes
+
+
+from
+ unviable
+ to
+ viable.
+ Um,
+ but
+ it's
+
+
+just
+ super
+ important
+ to
+ optimize
+ the
+
+
+entire
+ system,
+ not
+ not
+ just
+ the
+ prompt.
+
+
+And
+ actually,
+ uh,
+ this
+ is,
+ uh,
+ a
+ new
+
+
+product
+ feature
+ that
+ we
+ are
+ starting
+ to
+
+
+launch
+ today.
+ Um,
+ if
+ you're
+ a
+ Brain
+
+
+Trust
+ user,
+ uh,
+ you
+ can
+ go
+ to
+ the
+
+
+feature
+ flag
+ section
+ of
+ Brain
+ and
+ turn
+
+
+on
+ a
+ new
+ feature
+ flag
+ called
+ loop.
+ Um
+
+
+and
+ uh
+ the
+ loop
+ is
+ this
+ amazing
+ cool
+ new
+
+
+feature
+ that
+ actually
+ autooptimizes
+
+
+uh
+ your
+ eval
+ um
+ directly
+ within
+ brain
+
+
+trust.
+ Uh
+ so
+ uh
+ you
+ can
+ work
+ in
+ our
+
+
+playground
+ and
+ um
+ give
+ it
+ you
+ know
+ a
+
+
+prompt
+ uh
+ a
+ data
+ set
+ um
+ and
+ some
+ scores
+
+
+and
+ it
+ can
+ actually
+ create
+ prompts,
+ data
+
+
+sets
+ and
+ scores
+ too
+ um
+ and
+ just
+ you
+ know
+
+
+work
+ with
+ it.
+ Uh
+ the
+ kinds
+ of
+ things
+
+
+that
+ we've
+ seen
+ work
+ really
+ well
+ are
+
+
+optimize
+ this
+ prompt
+ or
+ uh
+ what
+ am
+ I
+
+
+missing
+ from
+ this
+ data
+ set
+ that
+ would
+ be
+
+
+really
+ good
+ to
+ test
+ for
+ this
+ use
+ case?
+
+
+Um
+ why
+ is
+ my
+ score
+ so
+ low?
+ Um
+ or
+ why
+ is
+
+
+my
+ score
+ so
+ high?
+ Can
+ you
+ please
+ help
+ me
+
+
+write
+ a
+ score
+ that
+ is
+ uh
+ you
+ know
+
+
+harsher
+ than
+ the
+ one
+ that
+ I
+ have
+ right
+
+
+now?
+ Um
+ you
+ can
+ also
+ try
+ it
+ out
+ with
+
+
+different
+ models.
+ So,
+ uh,
+ as
+ you
+ could
+
+
+see
+ from
+ this,
+ uh,
+ we've
+ definitely
+ seen
+
+
+the
+ best
+ performance
+ with
+ Cloud
+ 4
+ Sonnet
+
+
+and
+ Cloud
+ 4
+ Opus
+ performs
+ a
+ couple
+ of
+
+
+percentage
+ points
+ better.
+ Um,
+ but
+ we
+
+
+encourage
+ you
+ to
+ try
+ it
+ out
+ with
+
+
+different
+ models.
+ You
+ can
+ use
+ 03,
+ you
+
+
+can
+ use
+ 04
+ mini,
+ you
+ can
+ use
+ Gemini,
+
+
+maybe
+ you're
+ building
+ your
+ own
+ uh,
+ LLM
+
+
+or
+ fine-tune
+ model.
+ You
+ can
+ try
+ that
+ as
+
+
+well.
+ Um,
+ and
+ yeah,
+ we're
+ very
+ excited
+
+
+uh,
+ for
+ this.
+ I
+ think
+ uh,
+ I'm
+ going
+ to
+
+
+talk
+ about
+ this
+ a
+ little
+ bit
+ later.
+ Um,
+
+
+and
+ I'm
+ happy
+ to
+ do
+ it
+ with
+ some
+ Q&A
+ as
+
+
+well,
+ but
+ um,
+ I
+ actually
+ I
+ really
+ think
+
+
+that
+ the
+ workflow
+ around
+ evals
+ is
+ going
+
+
+to
+ dramatically
+ change
+ now
+ that
+ LLMs
+ are
+
+
+capable
+ of
+ looking
+ at
+ prompts
+ and
+
+
+looking
+ at
+ data
+ and
+ actually
+ making
+ um,
+
+
+you
+ know,
+ constructive
+ improvements
+
+
+automatically.
+ A
+ lot
+ of
+ the
+ manual
+ labor
+
+
+that
+ went
+ into
+ iterating
+ with
+ EVELs
+ um,
+
+
+doesn't
+ need
+ to
+ be
+ there
+ anymore.
+ So,
+
+
+it's
+ it's
+ really
+ exciting.
+ Uh,
+ we're
+
+
+excited
+ uh,
+ to
+ ship
+ this
+ and
+ and
+ to
+
+
+start
+ to
+ get
+ some
+ feedback.
+
+
+Uh
+ so
+ just
+ to
+ recap
+ um
+ five
+ lessons
+ that
+
+
+I
+ think
+ are
+ really
+ important.
+ Um
+
+
+effective
+ eval
+ speak
+ for
+ themselves.
+
+
+It's
+ it's
+ important
+ to
+ understand
+
+
+whether
+ you've
+ kind
+ of
+ reached
+ a
+ point
+
+
+of
+ eval
+ competence
+ in
+ your
+ organization
+
+
+or
+ not.
+ It's
+ okay
+ if
+ you
+ haven't.
+ Um
+
+
+it's
+ not
+ easy,
+ but
+ it's
+ important
+ to
+ be
+
+
+honest
+ about
+ that
+ and
+ work
+ towards
+ it.
+
+
+Um
+ when
+ you're
+ working
+ on
+ evals,
+ it's
+
+
+very
+ important
+ to
+ engineer
+ the
+ entire
+
+
+system.
+ So
+ don't
+ just
+ think
+ about
+ the
+
+
+prompt.
+ Don't
+ just
+ think
+ about
+ improving
+
+
+the
+ prompt.
+ Please
+ don't
+ just
+ use
+
+
+synthetic
+ data
+ or
+ hugging
+ face
+ data
+
+
+sets.
+ I
+ know
+ they're
+ awesome,
+ but
+ please
+
+
+use
+ more
+ than
+ just
+ that.
+ Please
+ don't
+
+
+use
+ off-the-shelf
+ scores
+ only.
+ Write
+
+
+your
+ own.
+ Think
+ very
+ deliberately
+ about
+
+
+um
+ how
+ you
+ can
+ craft
+ the
+ spec
+ of
+ what
+
+
+you're
+ working
+ on
+ into
+ your
+ scoring
+
+
+functions.
+
+
+Um
+ think
+ very
+ carefully
+ about
+ context.
+
+
+And
+ I
+ think
+ in
+ particular
+ um
+ what
+ helps
+
+
+me
+ personally
+ is
+ to
+ think
+ about
+ writing
+
+
+tools
+ uh
+ like
+ I
+ would
+ think
+ about
+
+
+writing
+ a
+ prompt.
+ It's
+ my
+ opportunity
+ to
+
+
+communicate
+ with
+ an
+ LLM
+ and
+ set
+ it
+ up
+
+
+for
+ success.
+ And
+ how
+ I
+ define
+ the
+ API
+
+
+interface
+ of
+ the
+ tool
+ and
+ I
+ define
+ its
+
+
+output
+ has
+ a
+ very
+ dramatic
+ impact
+ on
+
+
+that.
+
+
+Make
+ sure
+ that
+ you're
+ ready
+ for
+ new
+
+
+models
+ to
+ come
+ out
+ and
+ to
+ just
+ change
+
+
+everything.
+ Um,
+ so
+ if
+ a
+ if
+ a
+ new
+ model
+
+
+comes
+ out,
+ you
+ want
+ to
+ be
+ prepared
+ to
+
+
+know
+ that
+ immediately,
+ ideally
+ the
+ day
+
+
+that
+ it
+ comes
+ out.
+ Um,
+ and
+ also
+ be
+
+
+prepared
+ to
+ like
+ rip
+ out
+ everything
+ and
+
+
+replace
+ it
+ with
+ a
+ fundamentally
+ new
+
+
+architecture
+ that
+ takes
+ advantage
+ of
+
+
+that
+ new
+ model.
+ And
+ I
+ think
+ part
+ of
+ that
+
+
+is
+ obviously
+ having
+ the
+ right
+ eval.
+ Part
+
+
+of
+ it
+ is
+ engineering
+ your
+ product
+ in
+ a
+
+
+way
+ that
+ actually
+ allows
+ you
+ to
+ do
+ that.
+
+
+And
+ then
+ finally
+ when
+ you
+ think
+ about
+
+
+optimizing
+ or
+ improving
+ uh
+ your
+ eval
+
+
+performance
+ um
+ you
+ have
+ to
+ think
+ about
+
+
+optimizing
+ the
+ whole
+ system
+ the
+ data
+ and
+
+
+how
+ you
+ get
+ that
+ data
+ the
+ task
+ itself
+ um
+
+
+which
+ you
+ know
+ the
+ prompt
+ tools
+ etc
+ and
+
+
+the
+ scoring
+ functions
+
+
+and
+ with
+ that
+ uh
+ we
+ have
+ some
+ time
+ for
+
+
+Q&A.
+
+
+>> Yeah
+ there's
+ uh
+ two
+ microphones
+ up
+ here
+
+
+one
+ on
+ the
+ left
+ side
+ one
+ on
+ the
+ right
+
+
+side.
+ uh
+ feel
+ free
+ to
+ stand
+ up
+ and
+ ask
+
+
+your
+ questions.
+
+
+>> Hi,
+ this
+ is
+ Joti.
+ Um,
+ one
+ of
+ your
+ slides
+
+
+said
+ take
+ feedback
+ and
+ turn
+ it
+ into
+ an
+
+
+eval.
+
+
+Are
+ you
+ concerned
+ about
+ overfitting
+
+
+evals
+ at
+ that
+ point
+ where
+ every
+ feedback
+
+
+then
+ turns
+ into
+ an
+ eval?
+
+
+>> Oh,
+ that's
+ a
+ great
+ question.
+ Um,
+ also
+
+
+nice
+ to
+ see
+ you.
+ Um
+ so
+ uh
+ the
+ question
+
+
+was
+ um
+ one
+ of
+ the
+ slides
+ was
+ about
+
+
+taking
+ feedback
+ uh
+ from
+ you
+ know
+ real
+
+
+data
+ and
+ adding
+ it
+ to
+ a
+ data
+ set
+ and
+
+
+incorporating
+ it
+ in
+ an
+ email.
+ Are
+ you
+
+
+worried
+ about
+ overfitting?
+ Um
+ and
+ I
+
+
+think
+ the
+ answer
+ is
+ I'm
+ actually
+ way
+
+
+more
+ worried
+ about
+ overfitting
+ to
+ the
+
+
+data
+ set
+ without
+ the
+ user's
+ feedback
+
+
+than
+ I
+ am
+ to
+ um
+ adjusting
+ the
+ fit
+ to
+
+
+incorporate
+ the
+ user's
+ feedback.
+ Like
+
+
+the
+ most
+ important
+ thing
+ about
+ a
+ data
+
+
+set
+ is
+ not
+ the
+ state
+ of
+ the
+ data
+ set
+ at
+
+
+any
+ point
+ in
+ time.
+ It
+ is
+ how
+ well
+ you
+
+
+are
+ equipped
+ to
+ reconcile
+ the
+ data
+ set
+
+
+with
+ the
+ reality
+ that
+ you
+ want.
+ Um
+ and
+ I
+
+
+actually
+ think
+ one
+ of
+ the
+ things
+ that
+ we
+
+
+discourage
+ uh
+ in
+ the
+ product
+ and
+ some
+
+
+people
+ complain
+ to
+ us
+ about
+ this.
+ I
+ get
+
+
+it
+ uh
+ if
+ you're
+ one
+ of
+ those
+ people.
+ Um
+
+
+but
+ we
+ don't
+ automatically
+ take
+ user
+
+
+feedback
+ and
+ add
+ it
+ to
+ data
+ sets
+ right
+
+
+now.
+ We
+ actually
+ want
+ a
+ human
+ who
+ has
+
+
+some
+ taste
+ and
+ maybe
+ uh
+ can
+ build
+ some
+
+
+intuition
+ about
+ the
+ problem
+ to
+ find
+ the
+
+
+uh
+ data
+ points
+ from
+ users
+ that
+ are
+
+
+interesting
+ and
+ add
+ them
+ to
+ the
+ data
+
+
+set.
+ And
+ I
+ think
+ that
+ is
+ your
+
+
+opportunity
+ as
+ a
+ user
+ to
+ apply
+ some
+
+
+judgment
+ about
+ like
+ oh
+ okay
+ this
+ user
+ is
+
+
+trying
+ to
+ do
+ something
+ that
+ should
+
+
+obviously
+ work.
+ It's
+ really
+ sad
+ that
+ it
+
+
+doesn't
+ work
+ in
+ my
+ product.
+ Let
+ me
+ add
+
+
+it
+ to
+ the
+ data
+ set
+ so
+ I
+ can
+ make
+ sure
+ it
+
+
+does.
+ Excuse
+ me.
+
+
+You
+ had
+ a
+ slide
+ I
+ think
+ in
+ the
+ tool
+
+
+descriptions
+ about
+ like
+ with
+ some
+
+
+percentages
+ on
+ it.
+ Yeah,
+ this
+ one.
+
+
+>> What
+ what
+ is
+ that?
+
+
+>> Yeah.
+ So,
+ um
+ we
+ took
+ a
+ few
+ agents
+ um
+
+
+like
+ we
+ you
+ know
+ have
+ a
+ lot
+ of
+ traces
+ uh
+
+
+and
+ we
+ analyzed
+ the
+ relative
+ um
+ number
+
+
+of
+ tokens
+ for
+ different
+ message
+ types.
+
+
+So
+ the
+ system
+ prompt
+ is
+ one
+ message
+
+
+type.
+ Tool
+ definitions
+ um
+ are
+ you
+ know
+
+
+the
+ spec
+ of
+ what
+ uh
+ tools
+ the
+ model
+ can
+
+
+call.
+ user
+ and
+ assistant
+ um
+ uh
+ are
+ um
+
+
+tokens
+ from
+ user
+ and
+ assistant
+ just
+ text
+
+
+interactions
+ and
+ then
+ tool
+ responses
+ are
+
+
+um
+ tokens
+ from
+ the
+ that
+ you
+ know
+ that
+
+
+the
+ tool
+ generates
+ itself.
+
+
+>> Oh
+ this
+ is
+ the
+ percentage
+ of
+ tokens
+
+
+>> correct
+ and
+ this
+ is
+ the
+ relative
+
+
+percentage
+ of
+ those
+ tokens.
+ Yeah.
+ Yeah.
+
+
+Yeah.
+ Yeah.
+ So
+ the
+ the
+ the
+ the
+ point
+
+
+that
+ we're
+ trying
+ to
+ make
+ here
+ is
+ that
+
+
+um
+ I
+ think
+ in
+ modern
+ agentic
+ systems
+ uh
+
+
+tools
+ actually
+ like
+ very
+ very
+
+
+significantly
+ dominate
+ the
+ token
+ budget
+
+
+of
+ the
+ LLM.
+ And
+ I
+ think
+ that
+ it's
+ very
+
+
+important
+ to
+ um
+ think
+ about
+ how
+ you
+
+
+define
+ the
+ definition
+ of
+ tools
+ and
+ how
+
+
+you
+ define
+ their
+ outputs
+ so
+ that
+ you
+ u
+
+
+you
+ know
+ engineer
+ the
+ LLM
+ for
+ success.
+
+
+uh
+ not
+ just
+ sort
+ of
+ take
+ you
+ know
+ your
+
+
+GraphQL
+ API
+ and
+ give
+ it
+ as
+ a
+ bunch
+ of
+ uh
+
+
+you
+ know
+ uh
+ tool
+ calls
+ to
+ to
+ the
+ LLM.
+
+
+>> Um
+ first
+ off
+ that
+ point
+ about
+ the
+ thumbs
+
+
+down
+ is
+ such
+ a
+ good
+ point.
+ I'm
+ working
+
+
+with
+ the
+ government
+ and
+ people
+ don't
+
+
+like
+ the
+ answer
+ they
+ got
+ for
+ example
+
+
+about
+ taxes
+ and
+ they
+ give
+ it
+ a
+ thumbs
+
+
+down.
+
+
+>> Yeah.
+
+
+>> Right.
+ So
+ like
+ adding
+ that
+ human
+ aspect
+
+
+is
+ a
+ really
+ good
+ idea.
+ We
+ actually
+ even
+
+
+added
+ a
+ little
+ thing
+ that
+ said
+ the
+
+
+answer
+ is
+ right,
+ but
+ I
+ just
+ don't
+ like
+
+
+it.
+
+
+>> That's
+ awesome.
+
+
+>> Um,
+ but
+ my
+ question
+ is
+ about
+ your
+ point
+
+
+that
+ the
+ new
+ model
+ changes
+ everything.
+
+
+We've
+ updated
+ our
+ models
+ several
+ times
+
+
+and
+ and
+ use
+ code
+ and
+ open
+ AAI
+ and
+ we
+
+
+haven't
+ found
+ huge
+ differences
+ other
+
+
+than
+ recently
+ someone
+ really
+ cheap
+
+
+wanted
+ to
+ use
+ 4.1
+ mini
+ and
+ like
+ it
+
+
+seemed
+ to
+ ignore
+ every
+ it.
+ I
+ swear
+ it
+
+
+ignored
+ the
+ system
+ prop
+ completely.
+
+
+>> Yeah.
+
+
+>> But
+ what
+ kind
+ of
+ things
+ when
+ you
+ say
+ it
+
+
+changes
+ everything,
+ can
+ you
+ tell
+ me
+ a
+
+
+little
+ more
+ about
+ what
+ kind
+ of
+ changes
+
+
+you're
+ seeing?
+
+
+>> For
+ sure.
+ I
+ think
+ um
+ the
+ use
+ case
+ that
+
+
+we
+ just
+ shipped
+ with
+ loop
+ is
+ a
+ really
+
+
+good
+ example
+ of
+ that.
+ So
+ this
+ is
+ a
+ very
+
+
+ambitious
+ uh
+ agent.
+ It's
+ looking
+ at
+
+
+prompts
+ and
+ uh
+ data
+ sets
+ and
+ scores
+ and
+
+
+automatically
+ optimizing
+ the
+ prompts
+
+
+based
+ on
+ the
+ data
+ sets
+ and
+ scores.
+ And
+
+
+this
+ is
+ something
+ that
+ um
+ you
+ know
+ we
+
+
+wrote
+ a
+ benchmark
+ for
+ a
+ while
+ ago
+ and
+ we
+
+
+ran
+ with
+ every
+ consecutive
+ model
+ launch
+
+
+and
+ the
+ numbers
+ looked
+ more
+ like
+ what
+
+
+you
+ see
+ for
+ GPT40
+ for
+ a
+ very
+ long
+ time.
+
+
+This
+ isn't
+ true
+ for
+ every
+ benchmark.
+ So
+
+
+um
+ as
+ part
+ of
+ this
+ exercise
+ we
+ actually
+
+
+have
+ a
+ bunch
+ of
+ uh
+ evals
+ that
+ loop
+
+
+optimizes.
+ That's
+ our
+ eval
+ set.
+ And
+
+
+there's
+ some
+ evals
+ like
+ uh
+ classifying
+
+
+taking
+ movie
+ quotes
+ and
+ figuring
+ out
+
+
+what
+ movie
+ they're
+ coming
+ from
+ that
+ have
+
+
+worked
+ really
+ well
+ since
+ GPT
+ 3.5.
+ Um
+ and
+
+
+so
+ there
+ are
+ certain
+ use
+ cases
+ where
+ it
+
+
+just
+ doesn't
+ matter.
+ There
+ are
+ other
+ use
+
+
+cases
+ where
+ um
+ they're
+ so
+ ambitious
+ that
+
+
+they
+ just
+ don't
+ work
+ today.
+ And
+ I
+ think
+
+
+you
+ want
+ to
+ create
+ evals
+ uh
+ so
+ that
+ if
+
+
+there's
+ something
+ ambitious
+ that
+ you
+
+
+want
+ to
+ do
+ in
+ the
+ future,
+ you
+ are
+ very
+
+
+well
+ prepared
+ when
+ a
+ new
+ model
+ comes
+ out
+
+
+to
+ just
+ push
+ a
+ button
+ and
+ find
+ that
+ out.
+
+
+>> Okay.
+ Thank
+ you.
+
+
+[Music]
