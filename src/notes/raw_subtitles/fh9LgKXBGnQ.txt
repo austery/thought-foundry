@@ -1,0 +1,1120 @@
+Hi,
+ I'm
+ Offer
+ from
+ Victara.
+ At
+ Victara,
+
+
+we
+ developed
+ a
+ trustworthy
+ agent
+
+
+operating
+ system.
+ And
+ there's
+ a
+ lot
+ of
+
+
+really
+ cool
+ use
+ cases
+ with
+ this
+ like
+
+
+document
+ generation,
+ conversational
+ AI
+
+
+or
+ chat
+ bots,
+ either
+ internal
+ or
+
+
+external,
+ and
+ enterprise
+ deep
+ research,
+
+
+which
+ I'm
+ going
+ to
+ talk
+ about
+ today.
+ But
+
+
+before
+ I
+ jump
+ into
+ Enterprise
+ Deep
+
+
+Research,
+ let
+ me
+ tell
+ you
+ a
+ little
+ bit
+
+
+more
+ about
+ our
+ operating
+ system
+ for
+
+
+agents.
+ First
+ of
+ all,
+ it's
+ a
+ SAS
+
+
+platform,
+ but
+ also
+ runs
+ on
+ your
+ own
+ VPC
+
+
+or
+ on
+ premise
+ in
+ your
+ own
+ data
+ center.
+
+
+And
+ here's
+ some
+ of
+ the
+ main
+ features
+
+
+that
+ we
+ really
+ are
+ proud
+ of.
+ We
+ have
+
+
+very
+ advanced
+ multimodal
+ injust
+ to
+
+
+support
+ images,
+ tables
+ in
+ a
+ way
+ that
+
+
+makes
+ them,
+ you
+ know,
+ findable
+ and
+
+
+retrieved
+ to
+ be
+ able
+ to
+ make
+ sense
+ of
+
+
+them
+ in
+ a
+ in
+ a
+ rag
+ or
+ a
+ gentic
+ rag
+
+
+workflow.
+ Very
+ strong
+ focus
+ on
+ again
+
+
+retrieval
+ accuracy
+ with
+ hybrid
+
+
+retrieval,
+ lots
+ of
+ features
+ around
+
+
+metadata,
+ reranking,
+ etc.
+ And
+ then
+ we're
+
+
+we're
+ kind
+ of
+ known
+ for
+ a
+ lot
+ of
+ work
+
+
+around
+ hallucination
+ mitigation,
+ both
+
+
+hallucination
+ detection
+ and
+ correction.
+
+
+In
+ fact,
+ our
+ hallucination
+ detection
+
+
+model,
+ also
+ called
+ HHM,
+
+
+has
+ just
+ passed
+ 5
+ mill
+ downloads
+ about
+
+
+couple
+ months
+ ago.
+ I
+ think
+ it's
+ at
+ 5.5
+
+
+right
+ now
+ or
+ something
+ like
+ that.
+ And
+
+
+generally
+ our
+ our
+ operating
+ system
+
+
+platform
+ is
+ what
+ you
+ would
+ need
+ for
+
+
+enterprisegrade
+ deployment.
+ So
+ security,
+
+
+role-
+ based
+ access
+ controls,
+ bring
+ your
+
+
+own
+ model,
+ custom
+ prompts,
+
+
+observability,
+ monitoring,
+ everything
+
+
+you
+ would
+ need.
+
+
+So
+
+
+why
+ does
+ this
+ matter?
+ Well,
+ in
+ any
+
+
+generative
+ AI
+ application,
+ an
+ enterprise
+
+
+deep
+ research
+ is
+ no
+ different.
+
+
+Hallucinations
+ are
+ still
+ a
+ problem
+ and
+
+
+you
+ want
+ to
+ base
+ your
+ applications
+ on
+
+
+really
+ robust
+ information.
+ In
+ fact,
+ this
+
+
+is
+ a
+ statistics
+ that
+ shows
+ that
+ about
+
+
+73%
+ of
+ LM
+ customers
+ implementing
+ use
+
+
+cases
+ say
+ that
+ factual
+ accuracy
+ is
+ their
+
+
+top
+ challenge
+ right
+ now.
+ So
+ that's
+ why
+
+
+we
+ spend
+ so
+ much
+ time
+ in
+ hallucination
+
+
+mitigation
+ which
+ enables
+ enterprise
+ deep
+
+
+research
+ at
+ really
+ high
+ quality.
+
+
+Okay,
+ so
+ with
+ that
+ in
+ mind,
+ let
+ me
+ jump
+
+
+into
+ what
+ is
+ deep
+ research.
+ Deep
+
+
+research
+ itself
+ is
+ something
+ many
+ of
+ you
+
+
+probably
+ know
+ already.
+ It's
+ when
+ an
+ AI
+
+
+agent
+ conducts
+ indepth
+ multi-step
+
+
+investigation,
+
+
+usually
+ by
+ autonomously
+ browsing
+ or
+
+
+searching
+ the
+ web
+ in
+ some
+ way,
+ getting
+
+
+results,
+ synthesizing
+ all
+ these
+ results
+
+
+together
+ to
+ generate
+ a
+ comprehensive
+
+
+report
+ for
+ you
+ with
+ citations
+ and
+ all
+
+
+the
+ information
+ you
+ need
+ to
+ answer
+ a
+
+
+particular
+ question.
+ Many
+ have
+
+
+implemented
+ this
+ sort
+ of
+ web-
+ based
+ deep
+
+
+research.
+ Gemini
+ or
+ Google
+ has
+ that
+ chat
+
+
+GPT
+ anthropic
+ perplexity
+ etc.
+ Here's
+ an
+
+
+example
+ what
+ it
+ looks
+ like.
+ If
+ you
+
+
+haven't
+ used
+ it,
+ I
+ highly
+ encourage
+ you
+
+
+to
+ use
+ it.
+ It's
+ a
+ very
+ powerful
+ tool.
+
+
+And
+ I
+ use
+ this
+ all
+ the
+ time.
+ This
+ is
+ the
+
+
+screenshot
+ of
+ how
+ you
+ choose
+ it
+ in
+
+
+Gemini,
+ for
+ example.
+ And
+ here's
+ how
+ you
+
+
+choose
+ it
+ in
+ Chat
+ GPT.
+ And
+ this
+ is
+
+
+usually
+ something
+ that
+ takes
+ about,
+ you
+
+
+know,
+ 20
+ 30
+ minutes
+ to
+ complete
+ because
+
+
+it
+ does
+ a
+ lot
+ of
+ work
+ underneath
+ the
+
+
+covers.
+
+
+Now,
+ enterprise
+ deep
+ research,
+ think
+
+
+about
+ it
+ as
+ exactly
+ the
+ same
+ idea
+ only
+
+
+now
+ it
+ goes
+ to
+ your
+ private
+ data.
+ So
+
+
+again
+ the
+ same
+ process
+ multi-
+ aent
+ with
+
+
+reflection
+ with
+ synthesis
+ of
+ the
+ final
+
+
+results
+ parallel
+ execution
+ of
+ of
+ agents
+
+
+underneath
+ and
+ it
+ queries
+ your
+
+
+enterprise
+ data
+ of
+ course
+ using
+ in
+ this
+
+
+case
+ victarogentic
+ rank
+ capabilities
+
+
+with
+ all
+ the
+ bells
+ and
+ whistles
+ of
+ high
+
+
+accuracy
+ and
+ hallucination
+ mitigation
+
+
+and
+ then
+ we
+ have
+ corpus
+ understanding
+
+
+which
+ allows
+ you
+ to
+ plan
+ properly
+ based
+
+
+on
+ your
+ data.
+
+
+There
+ are
+ many
+ really
+ amazing
+ use
+ cases
+
+
+for
+ this
+ and
+ I'm
+ going
+ to
+ just
+ mention
+ a
+
+
+few
+ here
+ that
+ I
+ like.
+ One
+ is
+ responding
+
+
+to
+ an
+ RFP.
+ I've
+ had
+ this
+ in
+ my
+ career
+
+
+multiple
+ times
+ when
+ you
+ have
+ to
+ respond
+
+
+to
+ an
+ RFP
+ and
+ getting
+ the
+ answers
+ to
+ 150
+
+
+questions
+ is
+ really
+ difficult.
+ So
+ having
+
+
+being
+ able
+ to
+ use
+ enterprise
+ deep
+
+
+research
+ to
+ go
+ through
+ all
+ of
+ your
+
+
+enterprise
+ data
+ sets,
+ picking
+ up
+ the
+
+
+right
+ documents
+ and
+ answering
+ those
+
+
+questions
+ is
+ a
+ really
+ cool
+ use
+ case.
+
+
+Employee
+ on
+ boarding
+ is
+ this
+ idea
+ of
+ if
+
+
+you
+ come
+ to
+ a
+ new
+ team
+ or
+ you
+ join
+ a
+ new
+
+
+company
+ and
+ a
+ company
+ wants
+ to
+ onboard
+
+
+you
+ quickly,
+ it's
+ usually
+ very
+
+
+difficult.
+ Nobody
+ knows
+ what's
+ going
+ on.
+
+
+There's
+ no
+ like
+ onboarding
+ guide.
+ The
+
+
+last
+ one
+ was
+ generated
+ three
+ years
+ ago
+
+
+and
+ it's
+ not
+ up
+ to
+ date
+ etc.
+ So
+ again
+
+
+being
+ able
+ to
+ generate
+ a
+ ondemand
+
+
+onboarding
+ guide
+ using
+ all
+ the
+
+
+documentation
+ we
+ have
+ on
+ Jira
+ or
+ on
+
+
+notion
+ or
+ Google
+ Drive
+ or
+ SharePoint.
+
+
+very
+ very
+ powerful.
+
+
+And
+ then
+ in
+ different
+ industries
+ there's
+
+
+also
+ different
+ use
+ cases.
+ For example,
+
+
+in
+ financial
+ services
+ you
+ might
+ have
+ the
+
+
+generation
+ of
+ an
+ investment
+ memo
+ as
+ a
+
+
+really
+ cool
+ use
+ case.
+ And
+ you
+ can
+
+
+imagine
+ the
+ same
+ thing
+ in
+ healthcare,
+ in
+
+
+insurance
+ and
+ other
+ industries
+ as
+ well.
+
+
+So
+ those
+ are
+ some
+ of
+ the
+ use
+ cases.
+
+
+There's
+ a
+ lot
+ more
+ I'm
+ offering.
+ You
+ can
+
+
+connect
+ with
+ me
+ here
+ in
+ the
+ links
+ I'm
+
+
+showing
+ below.
+ And
+ if
+ you
+ are
+ interested
+
+
+to
+ learn
+ more
+ about
+ Victara
+ and
+
+
+enterprise
+ deep
+ research,
+ please
+ contact
+
+
+us
+ and
+ we'll
+ happy
+ to
+ to
+ do
+ a
+ demo
+ for
+
+
+you.
+ Thanks
+ very
+ much.
