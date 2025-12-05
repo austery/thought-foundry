@@ -1,0 +1,4986 @@
+[Music]
+
+
+Good
+ afternoon
+ everyone.
+ My
+ name
+ is
+ Ola
+
+
+Mabad.
+ I'm
+ a
+ product
+ guy
+ from
+ Cisco.
+ Um
+
+
+so
+ my
+ presentation
+ is
+ going
+ to
+ be
+ a
+
+
+little
+ more
+ producty
+ than
+ techy,
+ but
+ um
+
+
+uh
+ I
+ think
+ you're
+ going
+ to
+ enjoy
+ it.
+ So
+
+
+um
+ I've
+ been
+ at
+ Cisco
+ working
+ on
+ uh
+ AI
+
+
+for
+ the
+ last
+ three
+ years
+ and
+ um
+ I
+ work
+
+
+in
+ this
+ group
+ called
+ outshift.
+ So
+
+
+outshift
+ is
+ Cisco's
+ incubation
+ group.
+ uh
+
+
+our
+ charter
+ is
+ to
+ help
+ Cisco
+ look
+ at
+
+
+emerging
+ technologies
+ and
+ see
+ how
+ this
+
+
+emerging
+ technologies
+ can
+ help
+ us
+
+
+accelerate
+ the
+ road
+ maps
+ of
+ our
+
+
+traditional
+ business
+ units
+ and
+ uh
+ so
+ um
+
+
+by
+ uh
+ by
+ training
+ I'm
+ an
+ electrical
+
+
+engineer
+ um
+ dabbled
+ into
+ network
+
+
+engineering
+ enjoyed
+ it
+ and
+ I've
+ been
+
+
+doing
+ that
+ for
+ a
+ while
+ but
+ over
+ the
+ last
+
+
+three
+ years
+ focused
+ on
+ AI
+ um
+ our
+ group
+
+
+also
+ focuses
+ on
+ quantum
+ technology
+ so
+
+
+quantum
+ networking
+ is
+ something
+ that
+
+
+we're
+ focused
+ on
+ and
+ um
+ if
+ you
+ want
+ to
+
+
+learn
+ more
+ about
+ what
+ we
+ do.
+ Uh
+ we're
+
+
+out
+ shift
+ at
+ Cisco.
+ Uh
+ you
+ can
+ learn
+
+
+more
+ about
+ that.
+ So
+ uh
+ for
+ today
+ we're
+
+
+going
+ to
+ dive
+ into
+ this
+ uh
+ real
+ quick
+
+
+and
+ um
+ like
+ I
+ said
+ I'm
+ a
+ product
+ guy.
+ So
+
+
+I
+ usually
+ start
+ with
+ my
+ customers
+
+
+problems
+ trying
+ to
+ understand
+ what
+ are
+
+
+they
+ trying
+ to
+ solve
+ for
+ and
+ then
+ from
+
+
+that
+ work
+ backwards
+ towards
+ creating
+ a
+
+
+solution
+ for
+ that.
+ So
+ as
+ part
+ of
+ the
+
+
+process
+ for
+ us
+ we
+ usually
+ go
+ through
+
+
+this
+ incubation
+ phase
+ where
+ we
+ ask
+
+
+customers
+ a
+ lot
+ of
+ questions
+ and
+ then
+ we
+
+
+come
+ up
+ with
+ prototypes
+ we
+ do
+ a
+ testing
+
+
+b
+ testing
+ and
+ then
+ we
+ kind
+ of
+ deliver
+ an
+
+
+MVP
+ into
+ a
+ production
+ environment
+ and
+
+
+once
+ we
+ get
+ product
+ market
+ fit
+ that
+
+
+product
+ graduates
+ into
+ the
+ Cisco
+
+
+businesses
+ so
+ this
+ customer
+ had
+ this
+
+
+issue
+ they
+ said
+ when
+ we
+ do
+ change
+
+
+management
+ we
+ have
+ a
+ lot
+ of
+ challenges
+
+
+with
+ failures
+ in
+ production
+ how
+ can
+ we
+
+
+reduce
+ that
+ can
+ we
+ use
+ AI
+ to
+ reduce
+ that
+
+
+problem.
+ So
+ we
+ double
+ clicked
+ on
+ that
+
+
+problem
+ statement
+ and
+ we
+ realized
+ it
+ was
+
+
+a
+ major
+ problem
+ across
+ the
+ industry.
+ I
+
+
+won't
+ go
+ into
+ the
+ details
+ here
+ but
+ it's
+
+
+a
+ big
+ problem.
+ Now
+ uh
+ for
+ us
+ to
+ solve
+
+
+the
+ problem
+ wanted
+ to
+ understand
+ does
+ AI
+
+
+really
+ have
+ a
+ place
+ here
+ or
+ it's
+ just
+
+
+going
+ to
+ be
+ rulebased
+ automation
+ to
+ to
+
+
+solve
+ this
+ problem.
+ And
+ we
+ looked
+ at
+ the
+
+
+workflow
+ we
+ realized
+ that
+ there
+ are
+
+
+specific
+ spots
+ in
+ the
+ workflow
+ where
+ AI
+
+
+agents
+ can
+ actually
+ help
+ address
+ a
+
+
+problem.
+ And
+ so
+ we
+ we
+ kind
+ of
+
+
+highlighted
+ three,
+ four
+ and
+ five
+ where
+
+
+we
+ believe
+ that
+ AI
+ agents
+ can
+ help
+
+
+increase
+ the
+ value
+ uh
+ for
+ customers
+ and
+
+
+reduce
+ the
+ pain
+ points
+ that
+ they
+ were
+
+
+describing.
+ And
+ so
+ we
+ sat
+ down
+ together
+
+
+with
+ the
+ teams.
+ We
+ said
+ let's
+ figure
+ out
+
+
+a
+ solution
+ for
+ this.
+ Um
+ and
+ so
+ uh
+ this
+
+
+solution
+ consists
+ of
+ three
+ big
+ buckets.
+
+
+The
+ first
+ one
+ is
+ the
+ fact
+ that
+ it's
+ a
+ it
+
+
+has
+ to
+ be
+ natural
+ language
+ interface
+
+
+where
+ network
+ operations
+ teams
+ can
+
+
+actually
+ interact
+ with
+ the
+ system.
+ So
+
+
+that's
+ the
+ first
+ thing
+ and
+ not
+ just
+
+
+engineers
+ but
+ also
+ systems.
+ So
+ for
+
+
+example
+ in
+ our
+ case
+ we
+ built
+ this
+ system
+
+
+to
+ talk
+ to
+ an
+ ITSM
+ tool
+ such
+ as
+ service
+
+
+now.
+ So
+ we
+ actually
+ have
+ a
+ agents
+ on
+ the
+
+
+service
+ now
+ side
+ talking
+ to
+ agents
+ on
+
+
+our
+ side.
+ Um
+ the
+ second
+ piece
+ of
+ this
+ is
+
+
+the
+ multi-
+ aent
+ system
+ that
+ sits
+ within
+
+
+the
+ within
+ this
+ application.
+ So
+ we
+ have
+
+
+agents
+ that
+ are
+ tasked
+ at
+ doing
+ specific
+
+
+things.
+ So
+ an
+ agent
+ that
+ is
+ tasked
+ as
+
+
+doing
+ impact
+ assessment
+ doing
+ testing
+
+
+doing
+ uh
+ reasoning
+ around
+ uh
+ potential
+
+
+failures
+ that
+ could
+ happen
+ in
+ the
+ in
+ the
+
+
+network.
+ And
+ then
+ the
+ third
+ piece
+ of
+
+
+this
+ is
+ where
+ we're
+ going
+ to
+ spend
+ some
+
+
+of
+ the
+ time
+ today,
+ which
+ is
+ network
+
+
+knowledge
+ graph.
+ So
+ we
+ have
+ a
+ a
+ the
+
+
+concept
+ of
+ a
+ digital
+ twin
+ in
+ this
+ case.
+
+
+So
+ what
+ we're
+ trying
+ to
+ do
+ here
+ is
+ to
+
+
+build
+ a
+ twin
+ of
+ the
+ actual
+ production
+
+
+network.
+ And
+ that
+ twin
+ includes
+ a
+
+
+knowledge
+ graph
+ plus
+ a
+ set
+ of
+ tools
+ to
+
+
+execute
+ test
+ testing.
+ And
+ so
+ um
+ we're
+
+
+going
+ to
+ dive
+ into
+ that
+ in
+ a
+ little
+ bit.
+
+
+But
+ before
+ we
+ go
+ into
+ that,
+ I
+ I
+ we
+ we
+
+
+had
+ this
+ challenge
+ of
+ okay,
+ we
+ want
+ to
+
+
+build
+ a
+ representative
+ representation
+ of
+
+
+the
+ actual
+ network.
+ How
+ are
+ we
+ going
+ to
+
+
+do
+ this?
+ Um
+ because
+ if
+ you
+ know
+
+
+networking
+ pretty
+ well,
+ networking
+ is
+ a
+
+
+very
+ complex
+ uh
+ technology.
+ You
+ have
+ a
+
+
+variety
+ of
+ vendors
+ in
+ the
+ customers
+
+
+environment,
+ variety
+ of
+ devices,
+
+
+firewalls,
+ switches,
+ routers
+ and
+ so
+ on.
+
+
+And
+ all
+ of
+ these
+ different
+ devices
+ are
+
+
+spitting
+ out
+ data
+ in
+ different
+ formats.
+
+
+So
+ the
+ challenge
+ for
+ us
+ was
+ how
+ can
+ we
+
+
+create
+ a
+ representation
+ of
+ this
+ real
+
+
+world
+ network
+ using
+ knowledge
+ graphs
+ in
+
+
+a
+ data
+ schema
+ that
+ can
+ that
+ can
+ be
+
+
+understood
+ by
+ agents.
+ And
+ so
+ the
+ goal
+
+
+was
+ for
+ us
+ to
+ create
+ this
+ ingestion
+
+
+pipeline
+ that
+ can
+ represent
+ the
+ network
+
+
+in
+ such
+ a
+ way
+ that
+ agents
+ can
+ take
+ the
+
+
+the
+ right
+ actions
+ in
+ a
+ meaningful
+ way
+
+
+and
+ predictive
+ way.
+ And
+ so
+ for
+ us
+ to
+ to
+
+
+kind
+ of
+ proceed
+ with
+ that
+ we
+ had
+ this
+
+
+three
+ big
+ buckets
+ of
+ things
+ to
+ consider.
+
+
+So
+ we
+ we
+ had
+ to
+ think
+ about
+ what
+ are
+ the
+
+
+data
+ sources
+ going
+ to
+ be.
+ So
+ if
+ you
+
+
+again
+ in
+ networking
+ there
+ are
+
+
+controllers
+ systems
+ there
+ the
+ devices
+
+
+themselves
+ there
+ agents
+ in
+ the
+ devices
+
+
+there
+ are
+ configuration
+ management
+
+
+systems
+ all
+ of
+ these
+ things
+ are
+ all
+
+
+collecting
+ data
+ from
+ the
+ network
+ or
+
+
+they'll
+ have
+ data
+ about
+ the
+ network
+ now
+
+
+when
+ they
+ spit
+ out
+ their
+ data
+ they're
+
+
+spitting
+ it
+ out
+ in
+ different
+ languages
+
+
+yang
+ JSON
+ and
+ so
+ on
+ another
+ set
+ of
+
+
+considerations
+ to
+ have
+ and
+ then
+ in
+ terms
+
+
+of
+ how
+ the
+ data
+ is
+ actually
+ coming
+ out
+
+
+it
+ could
+ be
+ coming
+ out
+ in
+ term
+ of
+
+
+streaming
+ telemetry
+ it
+ could
+ be
+
+
+configuration
+ files
+ in
+ JSON
+ it
+ could
+ be
+
+
+some
+ other
+ form
+ of
+ of
+ data
+
+
+How
+ can
+ we
+ look
+ at
+ all
+ of
+ these
+ three
+
+
+different
+ considerations
+ and
+ be
+ able
+ to
+
+
+set
+ come
+ up
+ with
+ a
+ set
+ of
+ requirements
+
+
+that
+ allows
+ us
+ to
+ actually
+ build
+ a
+
+
+system
+ that
+ that
+ addresses
+ the
+
+
+customer's
+ pain
+ point
+ again
+ and
+ so
+ um
+
+
+the
+ team
+ uh
+ from
+ a
+ product
+ side
+ we
+ had
+ a
+
+
+set
+ of
+ requirements
+ we
+ we
+ wanted
+ a
+
+
+system
+ that
+ uh
+ a
+ knowledge
+ graph
+ that
+
+
+can
+ have
+ multimodel
+ flexibility
+ uh
+ that
+
+
+means
+ you
+ can
+ talk
+ key
+ value
+ pairs
+ you
+
+
+understand
+ JSON
+ files
+ it
+ understands
+ uh
+
+
+relationships
+ across
+ different
+ entities
+
+
+in
+ a
+ network.
+ Second
+ thing
+ is
+
+
+performance.
+ Uh
+ if
+ a
+ if
+ an
+ engineer
+ is
+
+
+querying
+ a
+ knowledge
+ graph,
+ we
+ want
+ to
+
+
+have
+ instant
+ access
+ to
+ the
+ node
+
+
+information
+ about
+ the
+ node
+ no
+ matter
+
+
+where
+ the
+ the
+ location
+ of
+ that
+ node
+ is.
+
+
+That
+ was
+ important
+ for
+ our
+ customers.
+
+
+The
+ second
+ thing
+ was
+ operational
+
+
+flexibility.
+ So
+ the
+ schema
+ has
+ to
+ be
+
+
+such
+ that
+ uh
+ we
+ can
+ consolidate
+ into
+ one
+
+
+schema
+ framework.
+ Uh
+ the
+ fourth
+ piece
+
+
+here
+ is
+ where
+ the
+ the
+ the
+ rag
+ piece
+
+
+comes
+ into
+ place.
+ So
+ we've
+ been
+ hearing
+
+
+a
+ little
+ about
+ graph
+ rag
+ for
+ for
+ for
+ a
+
+
+little
+ bit
+ today.
+ uh
+ we
+ wanted
+ this
+ to
+
+
+be
+ a
+ system
+ that
+ has
+ ability
+ to
+ have
+
+
+vector
+ indexing
+ in
+ it
+ so
+ that
+ when
+ you
+
+
+want
+ to
+ do
+ semantic
+ searches
+ at
+ some
+
+
+point
+ you
+ can
+ do
+ that
+ as
+ well.
+ And
+ then
+
+
+in
+ terms
+ of
+ just
+ ecosystem
+ uh
+ um
+
+
+stability
+ we
+ want
+ to
+ make
+ sure
+ that
+ when
+
+
+we
+ put
+ this
+ in
+ the
+ customer's
+
+
+environments
+ uh
+ there's
+ not
+ there's
+ not
+
+
+going to
+ be
+ a
+ lot
+ of
+ heavy
+ lifting
+
+
+that's
+ going
+ to
+ be
+ done
+ by
+ the
+ customer
+
+
+to
+ integrate
+ with
+ their
+ systems
+ and
+
+
+again
+ it
+ has
+ to
+ support
+ multiple
+
+
+vendors.
+ So
+ these
+ were
+ the
+ requirements
+
+
+from
+ a
+ product
+ side
+ and
+ then
+ our
+
+
+engineering
+ teams
+ kind
+ of
+ we
+ started
+ to
+
+
+consider
+ some
+ of
+ the
+ options
+ on
+ the
+
+
+table.
+ uh
+ neo
+ forj
+ obviously
+ uh
+ market
+
+
+leader
+ uh
+ and
+ the
+ various
+ other
+ open
+
+
+source
+ tools.
+ At
+ the
+ end
+ of
+ the
+ day
+ the
+
+
+engineering
+ teams
+ decided
+ to
+ kind
+ of
+ do
+
+
+uh
+ some
+ analysis
+ around
+ this.
+ So
+ I
+ can
+
+
+I'm
+ showing
+ a
+ table
+ on
+ the
+ right
+ hand
+
+
+side.
+ It's
+ not
+ an
+ exhaustive
+ list
+ of
+
+
+things
+ that
+ they
+ considered
+ but
+ these
+
+
+were
+ the
+ things
+ that
+ they
+ looked
+ at
+ that
+
+
+they
+ wanted
+ to
+ see
+ okay
+ what
+ is
+ the
+
+
+right
+ solution
+ to
+ address
+ the
+
+
+requirements
+ coming
+ from
+ product
+ and
+ um
+
+
+uh
+ we
+ they
+ kind
+ of
+ we
+ kind
+ of
+ all
+
+
+centered
+ around
+ the
+ first
+ two
+ here
+ no
+ 4G
+
+
+and
+ Arango
+ DB
+ but
+ for
+ historical
+ reasons
+
+
+the
+ team
+ decided
+ to
+ go
+ with
+ because
+ we
+
+
+had
+ some
+ use
+ cases
+ that
+ were
+ in
+ the
+
+
+security
+ space
+ uh
+ that
+ was
+ kind
+ of
+ a
+
+
+recommendation
+ system
+ uh
+ type
+ of
+ use
+
+
+cases
+ that
+ we
+ wanted
+ to
+ kind
+ of
+ continue
+
+
+using
+ and
+ so
+ um
+ But
+ we
+ are
+ still
+
+
+exploring
+ the
+ use
+ of
+ Neo
+ forj
+ for
+ some
+
+
+of
+ the
+ use
+ cases
+ that
+ are
+ coming
+ up
+ as
+
+
+part
+ of
+ this
+ project.
+ So
+ um
+ we
+ settled
+
+
+on
+ on
+ a
+ DV
+ for
+ this
+ and
+ uh
+ we
+ eventually
+
+
+came
+ up
+ with
+ a
+ solution
+ that
+ looks
+ like
+
+
+this.
+ So
+ we
+ have
+ this
+ knowledge
+ graph
+
+
+solution.
+ This
+ is
+ an
+ overview
+ of
+ it.
+ Um
+
+
+on
+ the
+ left
+ hand
+ side
+ we
+ have
+ all
+ of
+ the
+
+
+production
+ environment.
+ We
+ have
+ the
+
+
+controllers
+ the
+ the
+ Splunk
+ which
+ is
+ a
+
+
+sim
+ system
+ traffic
+ telemetry
+ coming
+ in.
+
+
+All
+ of
+ them
+ are
+ coming
+ into
+ this
+
+
+ingestion
+ service
+ uh
+ which
+ is
+ doing
+ an
+
+
+ETL
+ transforming
+ all
+ of
+ this
+ information
+
+
+into
+ one
+ schema
+ open
+ config.
+ So
+ open
+
+
+config
+ schema
+ is
+ a
+ schema
+ that
+ is
+
+
+designed
+ around
+ networking
+ primarily
+ and
+
+
+uh
+ it
+ helps
+ us
+ to
+ because
+ it
+ there's
+ a
+
+
+lot
+ of
+ documentation
+ about
+ it
+ on
+ the
+
+
+internet.
+ So
+ LM
+ understand
+ this
+ very
+
+
+well.
+ So
+ um
+ this
+ setup
+ is
+ primarily
+ a
+ a
+
+
+database
+ of
+ uh
+ of
+ uh
+ networking
+
+
+information
+ that
+ has
+ open
+ config
+ schema
+
+
+as
+ a
+ primary
+ way
+ for
+ us
+ to
+ communicate
+
+
+with
+ it.
+ So
+ uh
+ natural
+ language
+
+
+communication
+ through
+ an
+ individual
+
+
+engineer
+ or
+ the
+ agents
+ that
+ are
+ actually
+
+
+interacting
+ with
+ that
+ system.
+ And
+ so
+ we
+
+
+built
+ this
+ in
+ the
+ form
+ of
+ layers.
+ So
+ uh
+
+
+if
+ you
+ if
+ you're
+ if
+ you're
+ into
+
+
+networking
+ again
+ um
+ there
+ is
+ a
+ set
+ of
+
+
+entities
+ in
+ the
+ network
+ that
+ you
+ want
+ to
+
+
+be
+ able
+ to
+ interact
+ with.
+ Uh
+ so
+ we
+ have
+
+
+layered
+ this
+ up
+ in
+ this
+ way
+ such
+ that
+ if
+
+
+uh
+ there's
+ a
+ tool
+ call
+ or
+ there's
+ a
+
+
+decision
+ to
+ be
+ made
+ about
+ a
+ test
+ for
+
+
+example
+ let's
+ say
+ you
+ want
+ to
+ do
+ a
+ test
+
+
+about
+ uh
+ configuration
+ drift
+ as
+ an
+
+
+example
+ um
+ you
+ don't
+ need
+ to
+ go
+ to
+ all
+
+
+of
+ the
+ layers
+ of
+ the
+ graph
+ you
+ just
+ go
+
+
+straight
+ down
+ to
+ the
+ raw
+ configuration
+
+
+file
+ and
+ be
+ able
+ to
+ do
+ your
+ comp
+
+
+comparisons
+ there.
+ If
+ you're
+ trying
+ to
+
+
+do
+ like
+ a
+ test
+ around
+ reachability
+ for
+
+
+example
+ then
+ you
+ need
+ a
+ couple
+ of
+ layers
+
+
+maybe
+ you
+ need
+ raw
+ configuration
+ layers
+
+
+data
+ control
+ data
+ plane
+ layers
+ and
+
+
+control
+ plane
+ layers.
+ So
+ um
+ it's
+
+
+structured
+ in
+ a
+ way
+ that
+ when
+ the
+ agents
+
+
+are
+ making
+ their
+ calls
+ to
+ this
+ system
+ uh
+
+
+they
+ understand
+ what
+ the
+ request
+ is
+ from
+
+
+the
+ from
+ the
+ uh
+ system
+ and
+ they're
+ able
+
+
+to
+ actually
+ go
+ to
+ the
+ right
+ layer
+ to
+
+
+pick
+ up
+ the
+ information
+ that
+ they
+ need
+
+
+to
+ ex
+ to
+ execute
+ on
+ it.
+ So
+ this
+ is
+ kind
+
+
+of
+ a
+ high
+ level
+ view
+ of
+ what
+ the
+ graph
+
+
+system
+ looks
+ like
+ in
+ layers.
+ Now
+ um
+ I'm
+
+
+going
+ to
+ kind
+ of
+ switch
+ gear
+ switch
+
+
+gears
+ now
+ and
+ go
+ back
+ to
+ the
+ system.
+
+
+Remember
+ I
+ described
+ a
+ system
+ that
+ had
+
+
+agents
+ a
+ knowledge
+ graph
+ and
+ digital
+
+
+twin
+ as
+ well
+ as
+ natural
+ language
+
+
+interface.
+ So
+ let's
+ talk
+ about
+ the
+
+
+agentic
+ layer
+ and
+ before
+ I
+ kind
+ of
+ talk
+
+
+about
+ the
+ specific
+ agents
+ in
+ um
+ in
+ this
+
+
+system
+ on
+ this
+ application
+ we
+ are
+
+
+looking
+ at
+ how
+ we
+ are
+ going
+ to
+ build
+ a
+
+
+system
+ that
+ is
+ based
+ on
+ open
+ standards
+
+
+for
+ all
+ of
+ the
+ internet
+ and
+ this
+ is
+ one
+
+
+of
+ the
+ challenge
+ we
+ have
+ within
+ Cisco.
+
+
+We
+ we
+ are
+ looking
+ at
+ a
+ system
+ a
+ a
+ set
+ of
+
+
+a
+ collective
+ open
+ source
+ collective
+ that
+
+
+includes
+ all
+ of
+ the
+ partners
+ we
+ see
+ down
+
+
+here.
+ So
+ we
+ have
+ uh
+ outship
+ by
+ Cisco
+ we
+
+
+have
+ lang
+ chain
+ Galileo
+ we
+ have
+ all
+ of
+
+
+these
+ uh
+ members
+ who
+ are
+ supporters
+ of
+
+
+this
+ uh
+ of
+ this
+ collective
+ and
+ what
+ we
+
+
+are
+ trying
+ to
+ do
+ is
+ to
+ set
+ up
+ a
+ system
+
+
+that
+ allows
+ agents
+ from
+ across
+ the
+
+
+world.
+ Uh
+ so
+ it's
+ a
+ big
+ vision
+ uh
+ that
+
+
+they
+ can
+ talk
+ to
+ each
+ other
+ without
+
+
+having
+ to
+ do
+ heavy
+ lifting
+ of
+
+
+reconstructing
+ your
+ agents
+ every
+ time
+
+
+you
+ want
+ to
+ integrate
+ them
+ with
+ another
+
+
+agent.
+ So
+ it
+ consists
+ of
+ identity
+ uh
+
+
+schema
+ framework
+ for
+ defining
+ an
+ agent
+
+
+skills
+ and
+ capabilities
+ the
+ directory
+
+
+where
+ you
+ actually
+ store
+ this
+ agent
+ and
+
+
+then
+ how
+ you
+ actually
+ compose
+ the
+ agents
+
+
+both
+ at
+ the
+ semantic
+ layer
+ and
+ the
+
+
+synthetic
+ layer
+ and
+ then
+ how
+ do
+ you
+
+
+observe
+ the
+ agents
+ in
+ process
+ all
+ of
+
+
+these
+ are
+ part
+ of
+ this
+ collective
+ uh
+
+
+vision
+ as
+ as
+ as
+ a
+ group
+ and
+ if
+ you
+ want
+
+
+to
+ learn
+ more
+ about
+ this
+ is
+ on
+
+
+agency.org
+ RG
+ and
+ I
+ also
+ have
+ a
+ slide
+
+
+here
+ that
+ kind
+ of
+ talks
+ about
+ um
+ there's
+
+
+real
+ code
+ actually
+ that
+ you
+ can
+ leverage
+
+
+today
+ or
+ if
+ you
+ want
+ to
+ contribute
+ to
+
+
+the
+ code
+ uh
+ you
+ can
+ actually
+ go
+ there
+
+
+there's
+ a
+ GitHub
+ repo
+ here
+ that
+ you
+ can
+
+
+go
+ to
+ and
+ and
+ you
+ can
+ start
+ to
+
+
+contribute
+ or
+ use
+ use
+ the
+ use
+ the
+ data
+
+
+um
+ there's
+ documentation
+ available
+ as
+
+
+well
+ and
+ there's
+ sample
+ applications
+
+
+that
+ allows
+ you
+ to
+ actually
+ see
+ how
+ this
+
+
+works
+ in
+ real
+ life
+ and
+ uh
+ u
+ we
+ know
+ that
+
+
+there's
+ MCP
+ there's
+ A2A
+ all
+ of
+ these
+
+
+protocols
+ are
+ becoming
+ uh
+ very
+ popular
+
+
+uh
+ we
+ also
+ integrate
+ all
+ of
+ these
+
+
+protocols
+ Because
+ the
+ goal
+ again
+ is
+ not
+
+
+to
+ uh
+ create
+ something
+ that
+ is
+ bespoke.
+
+
+We
+ want
+ to
+ make
+ it
+ open
+ to
+ everyone
+ to
+
+
+be
+ able
+ to
+ create
+ agents
+ and
+ be
+ able
+ to
+
+
+make
+ these
+ agents
+ work
+ in
+ production
+
+
+environments.
+ So
+ back
+ to
+ the
+ specific
+
+
+application
+ we're
+ talking
+ about
+ based
+ on
+
+
+this
+ framework,
+ we
+ delivered
+ this
+ set
+ of
+
+
+agents.
+ Uh
+ we
+ built
+ a
+ set
+ of
+ agents
+ as
+ a
+
+
+group.
+ So
+ we
+ have
+ five
+ agents
+ right
+ now
+
+
+as
+ part
+ of
+ this
+ application.
+ Um
+ there's
+
+
+an
+ assistant
+ agent
+ that's
+ kind
+ of
+ the
+
+
+planner
+ that
+ kind
+ of
+ orchestrates
+ things
+
+
+across
+ the
+ glo
+ across
+ all
+ of
+ these
+ agent
+
+
+agents.
+ And
+ then
+ we
+ have
+ other
+ agents
+
+
+that
+ are
+ all
+ based
+ on
+ React
+ reasoning
+
+
+loops.
+ There's
+ one
+ particular
+ agent
+ I
+
+
+want
+ to
+ call
+ out
+ here,
+ the
+ query
+ agent.
+
+
+This
+ query
+ agent
+ is
+ the
+ one
+ that
+
+
+actually
+ interacts
+ directly
+ with
+ the
+
+
+knowledge
+ graph
+ on
+ a
+ regular
+ basis.
+ Um
+
+
+we
+ have
+ to
+ fine-tune
+ this
+ agent
+ because
+
+
+um
+ we
+ initially
+ started
+ by
+ doing
+ a
+ uh
+
+
+attempting
+ to
+ use
+ rack
+ to
+ do
+ some
+
+
+querying
+ of
+ the
+ knowledge
+ graph,
+ but
+
+
+that
+ was
+ not
+ working
+ out
+ well.
+ So
+ we
+
+
+decided
+ that
+ for
+ immediate
+ results,
+
+
+we're
+ going
+ to
+ fine-tune
+ it.
+ And
+ so
+ we
+
+
+did
+ some
+ finetuning
+ of
+ of
+ the
+ of
+ of
+ this
+
+
+agent
+ with
+ some
+ schema
+ information
+ as
+
+
+well
+ as
+ example
+ queries.
+ And
+ so
+ that
+
+
+helped
+ us
+ to
+ actually
+ reduce
+ two
+ things.
+
+
+The
+ number
+ of
+ tokens
+ we
+ were
+ burning
+
+
+because
+ every
+ time
+ we
+ were
+ before
+ that
+
+
+the
+ AQL
+ queries
+ were
+ going
+ through
+ all
+
+
+of
+ the
+ layers
+ of
+ the
+ knowledge
+ graph
+ and
+
+
+in
+ a
+ in
+ a
+ reasoning
+ loop
+ was
+ consuming
+
+
+lots
+ of
+ tokens
+ and
+ taking
+ a
+ lot
+ of
+ time
+
+
+for
+ it
+ to
+ result
+ to
+ return
+ results.
+
+
+After
+ fine-tuning,
+ we
+ saw
+ a
+ drastic
+
+
+reduction
+ in
+ number
+ of
+ tokens
+ consumed
+
+
+as
+ well
+ as
+ the
+ amount
+ of
+ time
+ it
+ took
+ to
+
+
+actually
+ come
+ back
+ with
+ the
+ results.
+ So
+
+
+that
+ kind
+ of
+ helped
+ us
+ there.
+ Um
+ so
+ um
+
+
+I'm
+ going
+ to
+ kind
+ of
+ pause
+ here.
+ I'm
+
+
+talking
+ a
+ lot
+ about
+ there's
+ a
+ lot
+ of
+
+
+slide
+ wear
+ here.
+ I
+ want
+ to
+ show
+ a
+ quick
+
+
+demo
+ of
+ what
+ this
+ actually
+ looks
+ like.
+
+
+So
+ tying
+ together
+ everything
+ from
+ the
+
+
+natural
+ language
+ interface
+ interaction
+
+
+with
+ an
+ ITSM
+ system
+ to
+ how
+ the
+ agents
+
+
+interact
+ to
+ how
+ that
+ collects
+
+
+information
+ from
+ knowledge
+ graph
+ and
+
+
+delivers
+ results
+ to
+ the
+ customer.
+ Okay.
+
+
+So
+ um
+ the
+ scenario
+ we
+ have
+ here
+ is
+ a
+ a
+
+
+network
+ engineer
+ wants
+ to
+ make
+ a
+ change
+
+
+to
+ a
+ firewall
+ rule.
+ they
+ have
+ to
+ do
+ that
+
+
+to
+ accommodate
+ a
+ new
+ server
+ into
+ the
+
+
+network.
+ No
+ doubt.
+ And
+ so
+ what
+ they
+ need
+
+
+to
+ do
+ is
+ to
+ first
+ of
+ all
+ start
+ from
+
+
+ITSM.
+ So
+ the
+ submit
+ a
+ ticket
+ in
+ uh
+ in
+
+
+their
+ in
+
+
+service
+ now.
+ Now
+ our
+ system
+ here
+ the
+ the
+
+
+v
+ the
+ UI
+ I'm
+ showing
+ you
+ right
+ here
+ is
+
+
+the
+ UI
+ of
+ the
+ actual
+ system
+ we've
+ built
+
+
+the
+ application
+ we
+ built.
+ We
+ have
+
+
+ingested
+ information
+ about
+ the
+ uh
+
+
+tickets
+ here
+ in
+ natural
+ language
+ and
+ so
+
+
+the
+ agents
+ here
+ are
+ able
+ to
+ actually
+
+
+start
+ to
+ work
+ on
+ this.
+ So
+ I'm
+ going
+ to
+
+
+play
+ a
+ video
+ here
+ just
+ to
+ make
+ it
+ uh
+ uh
+
+
+more
+ relatable.
+ So
+ the
+ first
+ thing
+
+
+that's
+ happening
+ here
+ is
+ that
+ these
+
+
+agents
+ uh
+ the
+ first
+ agent
+ is
+ asking
+ that
+
+
+the
+ inter
+ for
+ the
+ for
+ the
+ information
+ to
+
+
+be
+ synthesized
+ in
+ a
+ summarized
+ way
+ so
+
+
+that
+ they
+ can
+ understand
+ uh
+ what
+ to
+
+
+quickly
+ do.
+ The
+ next
+ action
+ that
+ has
+
+
+been
+ asked
+ here
+ is
+ for
+ you
+ to
+ create
+ an
+
+
+impact
+ assessment.
+ So
+ impact
+ assessment
+
+
+here
+ just
+ means
+ that
+ I
+ want
+ to
+
+
+understand.
+ So
+ will
+ this
+ change
+ have
+ any
+
+
+implications
+ for
+ me
+ beyond
+ the
+ immediate
+
+
+uh
+ target
+ area
+ and
+ that's
+ going
+ to
+ be
+
+
+summarized
+ and
+ we
+ are
+ now
+ going
+ to
+ ask
+
+
+the
+ agent
+ that
+ is
+ responsible
+ for
+ this
+
+
+particular
+ task
+ to
+ go
+ and
+ attach
+ this
+
+
+information
+ into
+ the
+ ITSM
+ ticket.
+ So
+ I'm
+
+
+going
+ to
+ say
+ uh
+ attach
+ this
+ information
+
+
+about
+ the
+ impact
+ assessment
+ into
+ the
+
+
+ITSM
+ ticket.
+ So
+ that's
+ been
+ done.
+ Now
+
+
+the
+ next
+ step
+ is
+ to
+ actually
+ create
+ a
+
+
+test
+ plan.
+ So
+ test
+ plan
+ is
+ one
+ of
+ the
+
+
+biggest
+ problems
+ that
+ our
+ customers
+ are
+
+
+facing.
+ Um
+ they
+ they
+ run
+ a
+ lot
+ of
+ test
+
+
+but
+ they
+ miss
+ out
+ on
+ the
+ right
+ test
+ to
+
+
+run.
+ So
+ this
+ agents
+ are
+ actually
+ able
+ to
+
+
+reason
+ through
+ a
+ lot
+ of
+ information
+
+
+about
+ test
+ plans
+ across
+ the
+ internet
+ and
+
+
+based
+ on
+ the
+ intent
+ that
+ was
+ collected
+
+
+from
+ the
+ service
+ now
+ ticket
+ is
+ going
+ to
+
+
+come
+ up
+ with
+ a
+ list
+ of
+ tests
+ that
+ you
+
+
+have
+ to
+ run
+ to
+ be
+ able
+ to
+ make
+ sure
+ that
+
+
+this
+ firewall
+ rule
+ change
+ doesn't
+ make
+ a
+
+
+big
+ impact
+ or
+ create
+ problems
+ in
+
+
+production
+ environment.
+ So
+ as
+ you
+ can
+
+
+see
+ here,
+ this
+ agent
+ has
+ gone
+ ahead
+ and
+
+
+actually
+ listed
+ all
+ of
+ the
+ test
+ cases
+
+
+that
+ needs
+ to
+ be
+ run
+ and
+ the
+ expected
+
+
+results
+ for
+ each
+ of
+ the
+ tests.
+ So
+ we're
+
+
+going
+ to
+ ask
+ this
+ agent
+ to
+ attach
+ this
+
+
+information
+ again
+ back
+ to
+ the
+ ITSM
+
+
+ticket
+ because
+ that's
+ where
+ the
+ approval
+
+
+board
+ needs
+ to
+ see
+ this
+ information
+
+
+before
+ they
+ implement
+ before
+ the
+
+
+approved
+ implementation
+ of
+ this
+ change
+
+
+in
+ production
+ environment.
+ So
+ we
+ can
+ see
+
+
+here
+ that
+ that
+ information
+ has
+ now
+ been
+
+
+attached
+ back
+ by
+ this
+ agent
+ to
+ the
+ ITSM
+
+
+tickets.
+ So
+ two
+ separate
+ systems
+ but
+
+
+agents
+ talking
+ to
+ each
+ other.
+ Now
+ the
+
+
+next
+ step
+ is
+ actually
+ run
+ a
+ test
+ on
+ one
+
+
+of
+ these
+ test
+ cases.
+ So
+ um
+ in
+ this
+ case
+
+
+the
+ configuration
+ file
+ that
+ is
+ going
+ to
+
+
+be
+ used
+ to
+ make
+ the
+ change
+ in
+ the
+
+
+firewall
+ is
+ sitting
+ in
+ the
+ GitHub
+ repo.
+
+
+And
+ so
+ we're
+ going
+ to
+ do
+ a
+ pull
+ request
+
+
+of
+ that
+ config
+ file
+ and
+ going
+ to
+ take
+
+
+that
+ information.
+ So
+ this
+ is
+ the
+ GitHub
+
+
+repo
+ where
+ the
+ where
+ we're
+ going
+ to
+ do
+ a
+
+
+pull
+ request.
+ We're
+ going
+ to
+ take
+ the
+
+
+link
+ for
+ that
+ pull
+ request
+ and
+ paste
+ it
+
+
+in
+ the
+ ticket
+
+
+and
+ so
+ that
+ when
+ the
+ executor
+ execution
+
+
+agent
+ starts
+ doing
+ its
+ job
+ is
+ actually
+
+
+going
+ to
+ pull
+ from
+ that
+ and
+ use
+ it
+ to
+
+
+run
+ this
+ test.
+ So
+ um
+ at
+ this
+ moment
+ we
+
+
+we
+ have
+ we're
+ going
+ to
+ start
+ running
+ the
+
+
+test.
+ We're
+ going
+ to
+ ask
+ this
+ agent
+ to
+
+
+go
+ ahead
+ and
+ actually
+ run
+ the
+ test
+ and
+
+
+execute
+ on
+ this
+ test.
+ And
+ so
+ um
+ I
+ have
+
+
+attached
+ the
+ change
+ sorry
+ I
+ don't
+ have
+
+
+my
+ glasses.
+ I've
+ attached
+ my
+ uh
+ change
+
+
+candidates
+ to
+ the
+ ticket.
+ Can
+ you
+ go
+
+
+ahead
+ and
+ run
+ the
+ test?
+ So
+ what
+ is
+ going
+
+
+to
+ happen
+ here
+ is
+ if
+ you
+ look
+ on
+ the
+
+
+right
+ hand
+ side
+ of
+ this
+ screen
+ here,
+ a
+
+
+series
+ of
+ things
+ are
+ happening.
+ The
+
+
+first
+ thing
+ is
+ that
+ the
+ this
+ agent
+
+
+called
+ the
+ executor
+ agent
+ goes
+ looks
+ at
+
+
+the
+ test
+ cases
+ and
+ then
+ it
+ goes
+ into
+ the
+
+
+knowledge
+ graph
+ and
+ it's
+ going
+ to
+ go
+
+
+ahead
+ and
+ actually
+ do
+ a
+ snapshot
+ of
+ the
+
+
+most
+ recent
+ visual
+ or
+ most
+ recent
+
+
+information
+ about
+ the
+ network.
+ is
+ now
+
+
+going
+ to
+ take
+ the
+ pull
+ request
+ that
+ it
+
+
+pulled
+ from
+ GitHub,
+ the
+ snapshot
+ it
+ just
+
+
+took
+ from
+ the
+ knowledge
+ graph.
+ It's
+
+
+going
+ to
+ compute
+ it
+ together
+ and
+ then
+
+
+run
+ all
+ of
+ the
+ individual
+ test
+ one
+ at
+ a
+
+
+time.
+ So
+ we
+ can
+ see
+ that
+ it's
+ running
+
+
+the
+ test
+ one
+ test,
+ test test
+ one,
+ test
+
+
+two,
+ test
+ three,
+ test
+ four.
+ So
+ all
+ of
+
+
+this
+ is
+ happening
+ in
+ what
+ we
+ call
+ a
+
+
+digital
+ twin.
+ So
+ a
+ digital
+ twin
+ again
+ is
+
+
+a
+ cons
+ combination
+ of
+ the
+ knowledge
+
+
+graph,
+ a
+ set
+ of
+ tools
+ that
+ you
+ can
+ use
+
+
+to
+ run
+ the
+ test.
+ So
+ an
+ an
+ example
+ of
+ a
+
+
+tool
+ here
+ could
+ be
+ batfish
+ or
+ could
+ be
+
+
+routnet
+ or
+ some
+ other
+ tools
+ that
+ you
+ use
+
+
+for
+ engineering
+ purp
+ for
+ network
+
+
+engineering
+ purposes.
+ So
+ once
+ all
+ of
+
+
+these
+ tests
+ are
+ completed
+ uh
+ this
+ tool
+
+
+actually
+ is
+ going
+ to
+ this
+ agent
+ is
+ going
+
+
+to
+ now
+ generate
+ a
+ report
+ about
+ the
+ test
+
+
+results.
+ So
+ um
+ we
+ give
+ it
+ some
+ time
+ to
+
+
+run
+ through
+ this.
+ It's
+ still
+ running
+ the
+
+
+tests
+ but
+ when
+ once
+ it
+ concludes
+ all
+ of
+
+
+the
+ tests
+ it's
+ going
+ to
+ report
+ actually
+
+
+uh
+ the
+ test
+ results
+ are.
+ So
+ which
+
+
+results
+ which
+ tests
+ actually
+ passed
+
+
+which
+ ones
+ failed.
+ for
+ the
+ ones
+ that
+
+
+have
+ failed,
+ he's
+ going
+ to
+ make
+ some
+
+
+recommendations
+ on
+ what
+ you
+ can
+ do
+ to
+ go
+
+
+and
+ fix
+ the
+ problem.
+ Um
+ um
+ I'm
+ going
+ to
+
+
+skip
+ to
+ the
+ front
+ here
+ to
+ just
+ quickly
+
+
+get
+ this
+ on
+ uh
+ done
+ quickly
+ because
+ of
+
+
+time.
+ Um
+ so
+ um
+ it's
+ attached
+ the
+ results
+
+
+to
+ the
+ ticket
+ and
+ this
+ is
+ the
+ report
+
+
+that
+ it's
+ spitting
+ out
+ in
+ terms
+ of
+ this
+
+
+is
+ the
+ report
+ for
+ the
+ test
+ that
+ were
+
+
+run.
+ So
+ this
+ execution
+ agent
+ actually
+
+
+created
+ a
+ report
+ about
+ all
+ of
+ the
+
+
+different
+ test
+ cases
+ that
+ were
+ run
+ by
+
+
+the
+ system.
+ So
+ um
+ very
+ quick
+ short
+ demo
+
+
+here.
+ Uh
+ there's
+ a
+ lot
+ of
+ detail
+ behind
+
+
+the
+ scenes
+ but
+ I
+ can
+ answer
+ some
+
+
+questions
+ offline.
+ Um
+ the
+ the
+ the
+ couple
+
+
+of
+ things
+ I
+ want
+ to
+ leave
+ us
+ with
+ is
+
+
+that
+ uh
+ before
+ I
+ go
+ to
+ the
+ end
+ of
+ this
+
+
+uh
+ is
+ that
+ evaluation
+ is
+ very
+ critical
+
+
+here
+ for
+ us
+ to
+ be
+ to
+ able
+ to
+ understand
+
+
+how
+ this
+ delivers
+ value
+ to
+ customers.
+ Um
+
+
+we're
+ looking
+ at
+ a
+ variety
+ of
+ things
+
+
+here.
+ So
+ the
+ agents
+ themselves
+ the
+
+
+knowledge
+ graph
+ digital
+ twin
+ and
+ we're
+
+
+looking
+ at
+ the
+ what
+ can
+ we
+ actually
+
+
+measure
+ quantifiably.
+ Now
+ for
+ the
+
+
+knowledge
+ graph,
+ we're
+ looking
+ at
+
+
+extrinsic
+
+
+metrics
+ particularly
+ not
+ intrinsic
+ ones
+
+
+because
+ we
+ want
+ to
+ map
+ this
+ back
+ to
+ the
+
+
+customer's
+ use
+ case.
+ So
+ this
+ is
+ the
+
+
+summary
+ of
+ the
+ of
+ what
+ we
+ see
+ in
+ terms
+
+
+of
+ evaluation
+ metrics.
+ Um
+ we
+ are
+ still
+
+
+learning
+ this
+ is
+ a
+ this
+ is
+ for
+ for
+ now
+
+
+it's
+ it's
+ an
+ MVP
+ u
+ but
+ what
+ we
+ are
+
+
+learning
+ so
+ far
+ is
+ that
+ those
+ two
+ key
+
+
+building
+ blocks
+ the
+ knowledge
+ graph
+ and
+
+
+the
+ open
+ framework
+ for
+ building
+ agents
+
+
+is
+ very
+ critical
+ for
+ us
+ to
+ actually
+
+
+build
+ a
+ scalable
+ system
+ for
+ our
+
+
+customers.
+ And
+ so,
+ um,
+ I'm
+ going
+ to
+
+
+stop.
+ It's
+ 8
+ seconds
+ to
+ go.
+ Thank
+ you
+
+
+for
+ listening
+ to
+ me.
+ And
+ then
+ if
+ you
+
+
+have
+ questions,
+ I'll
+ be
+ out
+ there.
+
+
+[Music]
