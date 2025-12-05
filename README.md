@@ -45,6 +45,20 @@ Book reviews and reading notes with specialized metadata including:
 * Cover image display
 * Tag-based categorization
 
+## Performance Highlights
+
+**Build Time**: ~80 seconds (down from 3+ hours)  
+**Content**: 3,240+ indexed pages  
+**Files Generated**: 35,887  
+**Search**: Instant full-text search with Chinese support
+
+### Recent Optimizations (2025-12)
+- ✅ **Phase 2 & 3 Complete**: Slug caching system with 91% hit rate
+- ✅ **Persistent Pinyin Cache**: 100% hit rate, 46k entries
+- ✅ **Pre-computed Collection Slugs**: All collections optimized
+- ✅ **Regex Pre-compilation**: Avoided 465k+ object creations
+- ✅ **Pagefind Migration**: Distributed search index (previously 101MB JSON)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -52,6 +66,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You'll need to have [Node.js](https://nodejs.org/) (version 18 or higher is recommended) and npm installed on your machine.
+
+For Python automation scripts, you'll need Python 3.13+ and `uv` for dependency management.
 
 ### Installation
 
