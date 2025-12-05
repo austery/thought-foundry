@@ -1,0 +1,1840 @@
+So for
+what it's worth, I spend a lot of my time
+contemplating the word
+ecosystem, mostly raging against it
+because it is one of the less documented
+wealth transfers.
+And by the way, the credit card industry
+in general is a regressive wealth transfer
+where people who never
+evolve transactions, like probably
+both of you and me,
+when I use credit cards,
+which is really rare
+these days, we're paying our bills.
+At the end of the month,
+we're not paying a penny of interest.
+I think Joe on the record
+saying you've never paid any interest.
+And so I think that's a
+that's a nice place to be
+if you can afford it, telling people
+that they should just not borrow
+and pay it off at the end of the month
+is an incredibly let them eat cake
+equivalent for the 21st century, payments.
+Lots of people in America revolve.
+Half the country revolves in a $10,000.
+And so the idea of those people caring
+about rewards is sort of preposterous.
+They do not. They care about
+making their minimum payment.
+Hello and
+welcome to another episode of the Odd Lots
+podcast.
+I'm Joe Weisenthal and I'm Tracy Alloway.
+Tracy,
+it feels like, everybody, whether,
+they want to come after the banks
+right there is this effort.
+So many of our episodes,
+whether we're talking about crypto,
+whether we're talking
+about private credit,
+whether we're talking about payment, it's
+this goal, this dream of like, let's
+chip away at some of these bank businesses
+or these businesses that were associated
+with some sort of legacy institutions.
+The banks, they mostly seem to be doing
+pretty well still.
+But there's this dream
+that they can all be sort
+of like disintermediated away,
+or that someone could.
+Each one of these functions that they do
+can be better done somewhere else.
+Yeah.
+So let's see,
+I have been in financial journalism
+for almost 20 years now,
+which is kind of crazy.
+It makes me feel very old,
+but for as long as I can remember,
+someone has been trying to either
+reinvent bank
+lending or reinvent the payments space.
+And I guess I can see a few reasons.
+So like, genuinely, some payment
+architecture is really old fashioned.
+Yeah.
+Especially in the US where, you know,
+sometimes you still have to write a check
+for something. Yeah, blows my mind.
+And the U.S.
+didn't get chips for a really long time.
+Chips and credit cards
+and stuff like that.
+But also, if you think about the payment
+and lending and financial market
+just in general, it's
+one of the biggest out there, right?
+Like you're talking
+about all the economic activity basically.
+And so if you can get a tiny slice
+of that total interchange or fees,
+then you can see how people, you know,
+people are really interested
+in that space, know completely.
+And we know that there are a lot of
+like fintech companies for a long time.
+I mean, some of the most, you know,
+the earliest internet success stories,
+period, were,
+you know, this is definitely nothing new.
+And of course, one of the first ever
+was PayPal, which recognized that with
+the internet was going to come, all kinds
+of new opportunities for payments
+and sort of quasi peer to peer literal,
+peer to peer, transactions, etc..
+PayPal is still, of course,
+extremely important part of the payments,
+infrastructure, etc..
+But yeah, there's so much going on.
+But to your point,
+lots of companies have gotten
+those little slices
+and made an incredible fortune.
+Yeah.
+We also did an episode on Buy
+now, pay later, a couple months ago.
+And there are clearly some
+interesting questions
+brought up by the expansion of that space.
+And you and I talked about how
+wherever you go on the internet
+nowadays, you get like, you know, probably
+at least 2 or 3 little buttons that offer
+you installment loans on your purchases.
+And obviously, the concern is
+whether or not people are taking out
+credit that they shouldn't necessarily be.
+There's a big discussion about that.
+And also the transparency of the credit
+that they're taking out.
+Right.
+This is we have,
+you know, and we'll get into this there,
+there are pros and cons,
+I guess, relative to credit cards.
+But one thing with credit cards
+is that there is decades
+and decades of data on them,
+and we know how they're used,
+and there's really good
+risk profiling and scores and all this
+and credit scoring and all this stuff.
+Bnpl is sort of more novel.
+And so therefore, to
+what degree do we know how is as an asset
+or as a function
+it performs across different, cycles?
+Do we know the cohort
+cohort of people who use Bnpl as
+well as we know the people,
+the types of people who use credit cards?
+It seems a little bit, at a minimum, a bit
+more ambiguous.
+Absolutely.
+Well, we've sort of hinted at
+what we're going to be talk about.
+I mentioned PayPal, we talked about Bnpl,
+we are going to be speaking
+with one of the original members
+of the PayPal Mafia.
+We're going to be speaking with Max
+Levchin.
+He's the founder and CEO of Affirm,
+one of the
+biggest Bnpl companies
+publicly traded. Max.
+Thank you so much for coming on Odd Lots
+Thank you for having me.
+I'm a big fan of the show.
+Thank you.
+It's a bit of a privilege to be here.
+Thank you
+for saying that on the recording.
+So we always love hearing it,
+but we love when it's on the public record
+as part of the episode.
+So, thank you so much.
+Where did you get the idea
+to start a firm?
+Why did you what what what prompted it?
+But a two sided coin.
+Both sides bad of personal experience,
+actually
+tying neatly to the PayPal story.
+So I came to the US at 16
+from Soviet Union.
+And so you can imagine I understood
+very little about borrowing and credit
+and things like that.
+And so I got my first credit card
+on campus
+at college at 18.
+Didn't fully understand
+what I was signing up for, certainly
+didn't read the fine print where it said
+0% asterisk, don't worry about it.
+Borrowed a bunch of money,
+financed my first startup
+from that very same credit card.
+Promptly got into more
+that I could afford to pay for.
+Startup failed,
+eventually got some nasty calls
+from collectors,
+paid it off, and four years later,
+or five years later,
+took this little company.
+PayPal public was basically independently
+wealthy overnight.
+Went to buy a fancy car that you know, as
+I originally deserved.
+At the ripe age of 23,
+I wanted to show off to my
+my then girlfriend, now wife,
+and was the client for credit.
+And not only did I feel completely screwed
+by the moment when I found out that you're
+supposed to make the minimum payment.
+And by the way, interest accrues
+into principle,
+and this seemingly low
+Apr is actually not what it seems to be.
+Because I missed some date of the specific
+amount that I was supposed to pay, it
+sort of bit me again
+five years later was like, oh, by the way,
+wreck your credit rating too,
+so you can't get a loan for anything,
+even as you sort of proudly sticking
+a finger at the article and newspaper
+saying, you know, the company,
+public, youngest, whatever, whatever.
+And so that was the thing
+that stayed with me for years.
+My friends would prank me at restaurants.
+They would ask the waitstaff to tell me
+that my credit card was declined, which by
+then was a different credit
+card, and I would turn beet purple
+and basically be like,
+oh my God, like it happened again.
+Like what?
+And you know, eventually
+I knew it was a joke,
+but I was in my mid 30s
+when I realized that that's now
+more likely a joke than that
+credit score bite from 18.
+And so in my late 30s,
+I sat down with a friend from high school,
+college and people, you know,
+I've many of these friends who'd sort of
+I met when I was just getting my feet
+wet in America.
+And ultimately we, you know,
+we built this amazing company together
+and asked them the sort of the obvious
+question, 20 years too late,
+why didn't we try to fix the yuck
+that comes with having credit cards?
+As a young person?
+And he said, you know,
+I don't know, but we built so much great.
+I at PayPal fighting fraud and doing
+all these really stunning things.
+Surely we could do a better job
+scoring credit
+for young people like you were at 18
+and then 23.
+Then what currently happens?
+That was sort of the seminal moment.
+And, you know, a couple of years later
+we started a firm.
+So I have a bunch of questions already.
+Firstly, what kind of car was it?
+Did you get it in? And,
+I had to pay cash for it.
+I actually wired money, and 
+it would begin like an 8 a.m.
+visit to a dealership. Ended up like,
+it's 5 p.m..
+Your wired hasn't cleared up.
+You can't drive off this lot.
+And it did.
+You know, drama, at the time.
+Don't judge me.
+It was a black hardtop
+Mercedes convertible.
+Oh, and no judgment at all.
+I'm judging a little bit.
+I was really young.
+I was very much trying to impress the girl
+who's now my wife and the mother.
+Well, it clearly works. It works,
+it works, it works.
+Okay, Another question.
+So I just want to.
+I love those old those Mercedes.
+I think that there's one of the if I, if
+I have some rough conception, no judgment.
+I think those those are great design
+cars. Anyway.
+Should we just talk about
+cars? Yeah, we could. Okay.
+Well,
+you mentioned the underwriting process,
+and this, in my mind, is supposed to be
+what makes the buy now, pay later.
+Bnpl model different, right?
+Like the underwriting process
+is more technologically driven,
+perhaps more nuanced.
+Talk to us
+about what you do differently versus,
+you know, a credit card company or a bank
+or someone like that.
+Sure. And you're
+you're pulling on a thread that's
+going to take a long time to unwind.
+I'll try to be pithy, but, 
+this is where the the rage kicks in.
+So one of the things that happens
+with credit cards at the very core,
+they tell you a bunch of things
+they don't actually want you to do.
+So a credit card business model
+is accrual of interest into principle.
+So this exponential function
+of your signing up for Apr x,
+but you don't actually know
+what's going to cost you, is all the fact
+that as you make the minimum payments
+or whatever the payments you're making,
+whatever you haven't paid off,
+the interest that you've accrued folds
+right into the principal and it compounds
+and compounds and compounds.
+And so the longer you take to pay it back,
+the more it will cost,
+which seems obvious, but it's impossible
+for most mere mortals to predict.
+And they love it when you're late, because
+there are late fees which are fixed.
+And so the less you spend, the higher
+the percentage the late fee represents.
+So it's the sort of amazing
+business model, which is why, you know,
+one of your recent episodes puzzled over
+how are these rates so high.
+The rates
+themselves are actually not the problem.
+The problem is the structure.
+As you fold interest into principle
+and pay and pay and pay late fees,
+it can be extraordinarily expensive.
+And so from the very beginning of a firm,
+we asked the question,
+how can we make a product where
+you don't have this weird
+misalignment of interests,
+where the lender tells you,
+please pay your bills on time?
+But what they're saying sort of is,
+but not to on time and ideally
+take as long as possible because that's
+when we make the most money.
+So the obvious answer is,
+of course, obvious.
+Make a plan that you commit as a lender
+that you'll never change
+and don't charge late fees.
+And that's it.
+If you agree to those design principles,
+you are not going to make more money.
+If someone is late
+and you're not going to make more money
+if they take longer to pay you back,
+obviously you'll make less money because
+getting money to lend isn't free either.
+We have to pay for our sources of capital.
+As you know, as everybody else does,
+which means that it immediately rotates
+you sort of 180 degrees
+where you say, I only want to lend money
+when I have a lot of conviction.
+The person is going to pay me back
+on time, because if they don't,
+I am just going to lose money.
+And so we put those two principles
+down in the ground very, very early on.
+It's literally written
+down to the foundation of the company.
+We will not misalign ourselves
+with our borrowers.
+From that came a lot of things like, hey,
+we need to understand your cash flow.
+We don't really care what your credit
+rating is.
+Maybe you gamed it,
+maybe it's not accurate.
+Maybe your 18 year old immigrant
+does not matter.
+We need to understand
+what your actual capability is.
+We have to have the right to tell you
+you are overextending yourself,
+not just once every few years
+when you renew your credit card agreement,
+but for every transaction
+you have to be able to underwrite and
+decide yes or no for every single moment
+that you create these payment plans.
+Because that allows us to not lose money
+because we are aligned with you.
+When you pay us back on time,
+we'll make some money.
+If you don't,
+we're just going to be worse off.
+And so that is the foundation of a firm's
+take on Bnpl.
+Many people have come along since
+and sort of change the model a little bit.
+They introduce late fees,
+all kinds of other fees we never have.
+And never will.
+But even with those modifications,
+the model is still better
+than credit cards because of this
+individual underwriting moment.
+In our case,
+no fees of any kind just to be clear.
+So let's say I wind up at some website
+and maybe I want to buy
+like some Nike's or something like that.
+And I see the affirm option.
+How does how do you know
+how good of a credit I am in that moment?
+So it's
+not a effort free thing for you to use
+affirm.
+You'll have to click on affirm,
+and we will ask you
+if you've ever seen you before.
+It will ask you to provide
+some information for us.
+That information will allow us to tap
+into the standard set of records
+that the credit bureaus
+aggregated about you.
+If there's enough data there
+for us to use our custom credit score,
+we'll render a decision based on that.
+If there's not, we'll actually say, hey,
+we don't fully understand
+your personal financial situation.
+We would like to have a peek at your bank
+account, cash flow, and decide
+how your cash ebbs and flows
+relative to your ability to pay us back.
+All of this is made possible
+with really good new technology,
+so this takes seconds,
+even though it probably takes about
+as long to do as it takes to describe it.
+But we'll look through your personal
+financial state of right now
+and make a decision,
+not just whether it's a yes or no,
+but also how much of a risk you have
+of that financial situation changing
+and that price is the credit.
+Do you use any like, creative data points
+you mentioned?
+Checking against like the type of item
+that people are buying.
+So that's one thing
+I imagine could be interesting.
+Like if people are buying
+groceries on installment, does that mean
+they're more of a credit risk
+than someone who is, I don't know,
+buying a computer or a big ticket item?
+And then the other thing
+I'm very curious about,
+and I think I've told this story before
+on all lots,
+but I remember going to see, a startup
+that eventually failed,
+and they were in the peer
+to peer lending space,
+and they described some of the stuff
+they were doing with underwriting,
+where they were like trying to measure
+people's impulsiveness
+by how quickly they moved
+a slider for a loan and stuff like that,
+which freaked me out a little at the time.
+It would freak me out, too.
+So, no, we do not do, telemetry
+as a input variable into underwriting.
+So before I get into what we do use,
+it bears mentioning that
+the variables you use in underwriting
+is a very, very highly regulated
+domain of lending and underwriting.
+There's lots and lots of laws going back
+quite far, things like Fair Credit Act
+and any other sort of subsequent additions
+to both federal and state level law
+that prohibits you from using kind
+of the obvious things you wouldn't want
+people to use, like your race
+or your gender or your age or your creed.
+Cannot be a factor.
+It's actually a federal offense
+to do that.
+And so we don't do any of those things.
+We go as far as to say if it correlates
+to some of those things,
+we also couldn't use it.
+And that too is a subsequent law as well.
+So, so so first of all, we're very,
+very thoughtful about making
+sure we don't step into a prohibited
+territory.
+That's called prohibited basis as the,
+the fancy term in the industry.
+What we can use and what we do use,
+as you mentioned, merchants
+share with us what's being purchased
+despite the burrito
+gate that sometimes,
+comes back in the press,
+people don't actually use affirm
+to finance Mexican food or other cuisines.
+They do sometimes use affirm
+for groceries, but it mostly is,
+or almost entirely really is for things
+like I'm throwing a giant party
+and I need several hundred dollars
+worth of foodstuffs,
+and that's a lot to pay down
+with my debit card.
+So I'm going to use a firm instead.
+So the average sized
+transactions for us is roughly $300.
+So it gives you a sense
+for like what people use a firm for.
+So that's just,
+you know, apropos apropos
+where it's being used, what we glean
+from the information
+about what's being purchased,
+one good mental model,
+which this is like an approximation,
+but but a decent one
+if the useful life of the item
+is meaningfully shorter
+than the time it takes you to pay it back,
+you may find yourself
+questioning the quality of the item
+long afterwards disappeared.
+And so a natural question
+we should be asking is
+what do we understand about this item?
+But also maybe these items
+history of quality.
+Before we say,
+oh yeah, sure, buy this thing
+that's going to be out in six months
+and pay for it over two years.
+So maybe the most useful thing I can say
+about actually what variables,
+what new variables we've introduced
+into our underwriting a vast, vast, vast
+majority of them, in fact,
+all of them actually in
+influence, a decision
+we make by 1 or 2% at most.
+Anytime someone tells you
+I found this magic variable, and if I just
+look at that, it's like 30%
+better underwriting or 5% better defaults.
+They're lying
+probably to themselves more than to you,
+but they're definitely lying.
+Anything like that
+just immediately becomes brittle
+as the macroeconomic reality changes,
+as people suddenly
+don't care about the item
+or whatever it is that they found.
+As this magic bullet of like,
+suddenly I know who's a good risk,
+it just disappears.
+And so you actually want lots
+and lots of subtle factors
+that are also compliant
+with all the various regulations helping
+you shape a score that will tell you
+how likely this person is to pay back.
+And that's what we use.
+Let's go back to the
+just the core of the business model.
+So let's imagine
+there is a shirt that costs $100
+and I have an opportunity to okay, I'm
+going to buy it, with a firm.
+So to be for payments of $25
+and there's no interest.
+And so for me,
+there is almost a free lunch
+because the time value of money, etc..
+All right.
+I'm spreading this out over four payments.
+You're going to get that 100 in an index.
+And then I'm going to get that extra,
+that extra $75 after the first payment
+I'm going to know.
+And so you make money
+because the retailer is paying you a cut
+because that you've brought
+someone into the door.
+So talk about how is that gut determined?
+What how much are they paying
+you for that?
+And how competitive
+is that against other potential Bnpl
+companies, or perhaps new entrants
+that haven't come into the market yet?
+Talk to us about how that prices for them.
+This is my question too, because
+when you go to check out, you see buttons.
+And the buttons,
+I presume don't mean that much to people.
+You just click one of them.
+So how do you differentiate yourself?
+We've been around for nearly 15 years,
+and the way we've differentiated ourselves
+by the way we basically don't advertise.
+When you see us a checkout, that's
+when you learn about a firm at some point
+and then you come back to use again.
+And we have incredible retention rates.
+People who have used a firm
+a couple of times, basically with 90%
+probability, will come back to use a firm
+again, not necessarily the next week.
+In fact, we average something like five
+plus transactions per year.
+But when it matters to them,
+they will use a firm.
+And the way we differentiate ourselves is
+we were there for them when they needed us
+and if they ever stumbled.
+Our best customers
+are the ones that email us or call us
+and say, hey, I was late to pay my bill,
+something happened.
+What's the late fee?
+And we tell them there isn't one.
+That's the moment when they grasp
+how we're different
+from the rest of the industry, and that
+that's probably why they come back to us
+as often, as much as they do.
+Something like 95% of our transactions
+come from repeat customers.
+So just to give you a sense
+for the loyalty
+that we've engendered in our user base
+without ever making promises,
+you know, in on broadcast media,
+that's sort of why they come back
+to the business model point.
+So first of all, probably worth
+expanding the aperture a little bit.
+So we offer both interest free
+and not interest free loans.
+The paying for the Joe
+described is exactly as it sounds.
+So in our case
+there are no fees of any kind.
+So if you see $100 shirt and you say it's
+going to be for payments of $25,
+that is it.
+You cannot you can take a decade
+and you wouldn't be able to use affirm
+pretty soon after you went
+well past the window of repayment.
+So the punishment for
+for being late for too long is, hey,
+you need to pay us back actually, before
+you can do this again, which I think
+stands to reason much more than actually
+let us hit you with a $30 late fee.
+But that's beside the point.
+So that's one form of transaction.
+We also have what we call longer term
+zeros, which is for $1,000 fancy suit.
+You could potentially get a loan
+from a firm for 24 months
+or even 36 months,
+which will also be zero.
+In both of those cases, it's the retailer
+that's effectively paying your interest
+on value of money
+becomes even more expensive in six months.
+So you've sort of
+you've nailed the business model there.
+In some situations.
+The retailer just doesn't have the margin
+or isn't interested
+in paying your interest.
+And so they'll say, look,
+you're going to use credit card,
+you'll pay some interest.
+If you're going to use a firm, it's
+okay for
+for us to have this transaction happen.
+If you are willing to pay interest
+to a firm.
+And in that scenario,
+you will see both the principal
+and interest
+will calculate for you
+both the rate and the dollars.
+And we'll show you the schedule.
+And before you commit to any of that,
+you will see and agree to the schedule
+that we agree on.
+In the latter case,
+the consumer is paying us something.
+The merchant is probably paying us
+something
+significantly less
+than what they're paying us.
+If they're absorbing the cost of interest,
+the cost of time, value of money.
+The business model is really,
+really simple.
+In our case, to understand
+the value is fixed,
+so whoever is paying us
+almost doesn't matter.
+That has to cover the fixed cost of
+underwriting, servicing all the usual bits
+leave a little bit for us to actually be
+a profitable company, which we are.
+And also absorb the probability
+of default, which, by the way,
+sort of all the way back to this alignment
+of incentives and easy check.
+Like so
+did it work like this whole idea of like,
+oh, you know,
+you're just not going to profit
+when people stumble.
+Our delinquency rates are about half
+the industry of credit cards.
+That should give you a sense for
+we don't make nearly as many mistakes.
+Or perhaps we are not willing
+to let people go late
+because we don't benefit from it.
+Back to the business model.
+That's how it works.
+The competitiveness of this industry
+is just like any other competitiveness
+of any payment.
+Industry payments
+are notoriously a competitive world.
+There's actually never been
+a monopoly in payments.
+Full stop is a fun puzzle.
+I used to do cocktail parties
+like name a monopoly in payments.
+It turns out there has never been one.
+I go to talking to all
+about cocktail parties. Yeah,
+I you know, there's a reason I'm
+a fan of the show, right?
+I listen to, to, to you opine
+and all sorts of esoteric things
+with, with great gusto.
+And so I think that's
+we'll tell you everything you want to know
+about the competitiveness
+of the, of the space.
+But we have decided
+from the very beginning that we want
+transparency and honesty with everyone
+involved, with our borrowers.
+That's why we say everything upfront.
+That's why we tell them, here's
+your disclosure on exactly the rates
+and the schedules with our merchants.
+We tell them, here is the price
+you will have to pay us
+if that's where you're paying.
+If you can't, don't want to, that's fine.
+We will probably not be the right
+one for you.
+We won't make it up elsewhere.
+We're not going to take it out of the
+consumers hide when they least expect it.
+That's just not the brand.
+There are definitely cheaper
+providers out there.
+There are plenty of brands
+that will say we're just like a firm,
+but way less expensive for merchants.
+What that really means is that's because
+we charge all sorts of hidden fees.
+We have all sorts of other ways
+of taking it out of consumers skin.
+What this
+means practically,
+with 15 years of experience is consumers
+as they cast their eye
+over the list of buttons,
+they say, well, the one I want to use
+is the one that's not going to get me.
+If I stumble.
+And that makes for 24 million
+active users in the last 12 months.
+And we feel like we've
+we've kept our promise and the consumers
+keep coming back.
+Just reiterating Joe's question, though,
+on the merchant side again,
+I imagine they're getting offers
+from a bunch of different, installment
+lenders, Bnpl companies,
+and I don't think they do.
+They care much about the underwriting.
+It's not really their problem.
+It's your problem. Right.
+So I assume the thing they care
+most about is the fee,
+which seems like they actually care
+about three things.
+Okay. So they absolutely care
+about the fee like that.
+Without it, which which can range
+from as low as less than credit card.
+So a typical credit card rate
+today is on the order of between
+two and a half and 3%,
+depending on the size of the merchant.
+But that's kind of the average
+in the industry.
+We will definitely
+meet you around those numbers
+at the absolute lowest,
+and goes up all the way
+to, let's say, low single
+digit percentage points when you are
+subsidizing consumer interest.
+So we are not a cheaper than credit cards
+provider like that.
+That's not you know,
+they want anybody to have that illusion.
+They care about the rate
+more than the rates.
+They care about incremental sales.
+So if your next marginal buyer is either a
+no thanks or it will cost you 5%,
+if you have the margin of better than 5%,
+you don't want the item
+staying on your shelves.
+You would like to pay this 5%
+to get the marginal buyer to say yes
+and so because of that incentive,
+which I think is easy to follow,
+you do have lots and lots of merchants
+that say, all right,
+so what I really care about
+then is the approval rates,
+which is the second variable
+we care about.
+So as people come through and say,
+hey, I'm not going to use a credit card,
+not interested in buying unless I have an
+installment loan, let's say from a firm.
+They need to know that that rate
+is going to be high enough.
+Otherwise why have a button that just sits
+there and looks pretty?
+And so our rates are typically higher
+than the rest of the industry because
+we are so obsessed with underwriting,
+because we have no crutches e.g.
+late fees.
+And so this underwriting thing, I don't
+we don't really try to explain it
+to merchants at all.
+What do we do? Say,
+look at our approval rates.
+If you see their approvals reach
+a meaningfully higher than the industry,
+you know
+you're going to get value from this.
+That's why
+it's worth paying more than credit cards.
+And so that is true.
+And that's that's what they do.
+The third piece they do care about
+every merchant knows that.
+The second transaction is they want
+they want the first transaction
+cost them
+probably more than the margin in it.
+They're paying Google,
+they're paying Facebook.
+They'll soon be paying an Elm provider
+or Chatterbot provider
+to drive that first transaction in.
+They want to sell you another thing.
+So they very much care about
+if they had sold that first transaction
+using a buy now, pay later
+provider, it better not harm their brand
+because if they buy now, pay later
+provider is harassing the consumer
+for paying them back, or has late fees
+or has unexpected fees.
+It's going to accrete
+negatively to the merchants brand.
+And so they actually do
+care about lead fees
+in a way that has less to do
+with financial consequences,
+be more with will people come back to us
+and use our firm again?
+Or will they be like,
+oh, I hated that merchant.
+I got into some bad transaction.
+So they care about all these things
+through their own lens.
+That makes a lot of sense.
+So let's say
+I start accepting your premise.
+Okay?
+This is per se better than, credit card.
+One reason that people can't
+just sort of quit credit cards
+generally is not every place takes buy
+now, pay later.
+People want something
+in their wallet, right?
+They want something at the restaurant.
+And wherever it is
+that they know it's going to be accepted.
+Now, if you are launching a card
+or you have a card, right, we have a card
+okay around for a couple years.
+So you have a card.
+But I'm curious, you know, you
+you mentioned you referenced
+that recent episode
+that we did with our Drexler.
+And one of the things that he said about
+cards is they're very costly to advertise.
+The marketing expenditure for the card
+companies is very high.
+You mentioned that
+you don't do a lot of advertising.
+I'm curious, though, on the card component
+specifically, is that going to be,
+you know, if you want to be, quote,
+top of wallet to consumers?
+The first thing
+I think I've heard that phrase, I sorry.
+That's right.
+I'm laughing because I'm really I'm
+trying to claim myself with the industry
+lingo, your true insider,
+that if you do that, that's, you.
+So if you want to be top of wallet
+for the consumer and in the card,
+can you do that
+with an advertising lite model,
+or do you really need to spend
+to get significant wallet?
+Sure you can.
+The card is available to our users.
+So this is not a thing that you'll see on
+times Square displays.
+This is a thing you find out from affirm
+once you are a borrower.
+Once you're actually in good standing,
+you qualify for the affirm card
+as the hey, you really liked
+us, didn't you?
+This was great.
+You're transacting five times a year.
+If you want to take us with you
+to your retail,
+shopping experiences, restaurant
+or otherwise, we have a way.
+It's called the affirm card.
+It's actually pretty magical.
+The card is a dual mode card.
+It switches from debit to credit
+explicitly as you tell it to.
+And so when you're buying a burrito,
+we expect you to use the debit mode,
+which just literally takes the money
+from your account and that's it.
+There's no interest,
+obviously, it's just a paynow transaction.
+If you're buying a TV,
+you can buy it now with affirm in the app,
+you say, hey, my next transaction.
+I want that to be a 12 months to 0% loan
+because the retailer wants you to have it
+interest free.
+Maybe you're paying some interest,
+but you're setting up
+that transaction in the app
+and then your card is ready
+when you tap it.
+Next time it becomes a loan automatically.
+It's a pretty magical experience.
+It's super popular.
+It's a it's a thing that we haven't
+needed to advertise because we went from,
+we have this card idea
+to about 12% of our users having one very,
+very quickly because it's just a really,
+really good product.
+Again, our user,
+their mindset has long been changed from
+revolving is okay, I don't understand it,
+but I don't care to.
+I don't like revolving.
+I don't want to pay late fees.
+I don't want to pay excessive interest.
+This affirm thing is neat.
+The card is a logical next step.
+It's how much more can I have
+of this type of financial life?
+How much insight do you have into,
+how much people are borrowing
+from other Bnpl lenders?
+So the sort of stacking issue,
+which has been discussed multiple times
+now, it's a great question.
+We have a decent insight in the sense
+that we understand
+pretty
+well the overlap between user basis.
+So there's two prongs to his answer,
+and this one, it's worth
+delving into pretty deeply,
+because this is where we differ
+from the rest of the industry
+pretty significantly.
+So before I get into the stacking
+part, I'll address the, the overlap.
+So we do a lot of studying
+just externally through surveys.
+Also because
+when we log into your bank account
+or we ask a provider to log into your bank
+account and pull in
+some of your transactional data,
+we get a glimpse into
+what else you're spending money on.
+So we have a decent sense for where else
+you might be using buy now, pay later.
+And to date, the user base overlap
+with other providers is quite minimal,
+so there's not a whole lot of stacking
+possibility simply because people
+who use affirm tend to state with affirm
+they sometimes straight and use
+other providers, but it's quite minimal
+for a meaningfully lower
+transactional amount.
+I think we average a
+significantly higher average transaction
+relative to the rest of the industry.
+So far, that's not been a problem
+in the long term.
+You, of course, can make the argument
+like, sure,
+right now you guys are all still tiny.
+You're growing really quickly.
+Everybody's taken a bite
+out of the credit card industry.
+What happens five years from now
+when everyone has signed up
+for their favorite deal, and they're
+now signing up for a second one?
+The right way to address this problem,
+and this is the right way.
+And it's it's traditionalist of me,
+but I really do believe is the right
+way is for everyone
+to report to the credit bureaus.
+Today, when we tap into one of the three
+major credit bureaus,
+we see what you're borrowing
+and relatively current
+state of your borrowing
+from other traditional sources of credit.
+And it is a variable that we use inside
+of our own underwriting.
+A firm
+today is the only one that furnishes.
+That's another fancy industry
+term, delivers the data of both positive
+and negative as you're on time,
+you're not on time to the credit bureaus.
+The rest of our competitive set,
+generally speaking, does not.
+Although everyone has experimented
+a little bit from the very beginning,
+we saw the idea of building credit history
+and improving credit scores
+for people who are on time
+as a key value proposition
+for our borrower, like
+we are not going to be the only lender
+for our consumers that each bar for a card
+they need to borrow for a house one day.
+That means whatever they're doing with us,
+especially if they're doing
+well, which 97% of our consumers are doing
+really, really well.
+They're on time all the time.
+It has to reflect
+in their permanent record somehow.
+So we've been furnishing basically
+from the very beginning.
+It took a long time to persuade
+not just the credit bureaus,
+but also the companies that provide
+traditional credit scores to understand
+the data
+we furnish and treat it in the right way,
+so that when you are on time,
+the scores go up,
+when you're not on time,
+the scores go down, etc..
+And so we did all that work basically
+on a volunteer basis over the last decade.
+And today, right now,
+the state of the industry is if you are a
+Bnpl provider and you're not furnishing
+data, you kind of have no excuse.
+Like, we pioneered this,
+we did all the work, we worked with
+the score builders and the credit bureaus,
+and we're now sending all of our data.
+And so we want everyone to join us.
+Because most people do pay on time,
+their credit histories should reflect
+their good repayment, but also people
+who should not be borrowing
+should be reflected.
+And I think that's just really,
+really important.
+If I can, if I can do
+one bit of advertising on your show,
+it won't be for a firm. It will be
+all of you out there.
+If you are in a buy now, pay later
+industry, furnish your damn data.
+It will help consumers and it will
+eventually agreed to your brand too.
+But for now, we are the only major one.
+Wait, what's the resistance then?
+Because it seems kind of obvious.
+If everyone cares about the underwriting,
+you would want more data out there.
+So why not provide it?
+So I don't want to pretend
+that I understand all the motivations,
+but I think a basic inferential
+thought might occur that if you're making
+a lot of money from late fees,
+it's a cool thing to tell your consumers,
+don't worry,
+you can just pay me off
+and it won't go on your permanent record.
+And if you don't make any money from late
+fees, you have no incentive
+to tell your consumers,
+oh, it's okay, just pay me some sum and,
+we won't tell on you.
+The connection between late fees
+and lack of reporting
+is unfortunately, the, the underlying fact
+that because we don't make any money
+from late fees, because we don't charge
+any, we're very pro reporting
+just out of curiosity.
+So if you're talking about late fees
+and credit and all that stuff
+here we are
+recording this on December 2nd, 2025.
+You have any, you take the temperature
+of the consumer for us.
+I don't think you're doing
+seeing any signs of growing
+missed payments or anything like that.
+Not as of December 2nd, 2025.
+The important thing to understand
+I I'm asked this question fairly often.
+I am a great I am a firm is a great lens
+into the financial hearts
+and minds of North American consumer.
+Operate in the US, Canada and now UK.
+It is a specific set of people.
+These people
+are more financially responsible.
+They made a conscious choice.
+They picked us
+not just because it's installment pay.
+And yeah, it's convenient.
+It's also because we told them
+we don't charge late fees.
+It's also because we told them
+he'd be asterisk next to the 0%.
+We don't have any asterisks. And
+one of our core values is no fine print.
+And we mean it. And on and on and on.
+And so it stands to reason that affirm
+consumers will be probably much later
+into any kind of a macro economic
+earthquake territory.
+If there was one to come.
+But as of right now, we're we feel quite
+good about our book
+and also about the U.S.
+consumer.
+I'm going to ask you a question and,
+I'm going to mention a competitor.
+I won't make you name the competitor,
+but I'll just say it my question
+and then I'll ask you about.
+So one of your competitors,
+Klarna, recently announced a new dollar
+pegged stablecoin. And I'm very cynical.
+And so when I see, like, random companies
+announcing some crypto thing, like
+sometimes it makes sense, but,
+but often it's like, well, maybe is this
+just a good press
+release or something like that?
+And I haven't really looked
+at the Klarna one.
+The but for you affirm right now,
+when you look at and you as someone
+who has been in the internet payment
+trenches for literally decades right
+now, does do stablecoins or anything
+crypto unlock anything for you right now?
+When you think about the future
+and you think about opportunities
+that you can't do with traditional rails,
+the short answer is I don't think so.
+Now, I'm also very cynical,
+so I think you're unfortunately tapping
+into the exact same mind flow
+that that you have.
+This is our way of asking them
+to want to come on the podcast and have
+argue against it, but keep going,
+keep going.
+I, you know, I, I am confident that
+there is some
+thought that went to the press release.
+So I don't think it's a pure
+press release.
+So I will, I will I get
+I try to tell us about I won't make you.
+We're not going to make
+you speculate on a competitor, but just
+tell us about from different perspective.
+Sure I will strawman
+the reasons why. Yes.
+So why not is obvious.
+I think you probably can do
+a much better job than I can.
+The why? Yes.
+So there are a couple of reasons.
+One, in general, if you have a lot of
+cross-border commerce,
+foreign exchange,
+the complexity of just diligence around,
+you know, everything from sanctions
+to reserve accounts,
+etc., you can sort of squint
+a little and say, you know what?
+If we just lived in dollar
+pegged stablecoins everywhere all at once,
+it would be a little bit easier.
+And I think that's true.
+E-commerce is not
+a very significantly
+cross-border discipline.
+And so before you sort of say,
+oh, wouldn't it be amazing if I bought
+lots of things from Zanzibar
+and just paid them with a firm,
+but they got stablecoin
+as a settlement currency,
+they'll be very happy
+because they want dollars in
+this thing is essentially dollar
+equivalent. It's a good story.
+Just most people in the US
+don't buy a lot of things from Zanzibar.
+They buy some things in other countries,
+but most of the time,
+because we all want things shipped to us
+very, very quickly,
+we're probably buying it from a US
+subsidiary that's warehouses somewhere
+pretty close to the US, and so it's
+not that big of a market just yet.
+But in like five years, if you see me
+putting out a press release, it's
+not because I finally realized
+that I'm missing out.
+It's because there's enough
+cross-border commerce in our scale
+where it starts to make a difference.
+That's the best I got in terms of
+why would you want to do this?
+The obvious of why nots.
+It's like, well, maybe you want to
+move money around person to person,
+but that's not our business.
+Maybe you want to believe that one day
+Joe will have
+a wallet full of stablecoins.
+I really have a hard time
+imagining you supporting a whole bunch
+of different kinds of brand.
+A dollar pegged, effectively equivalent
+stablecoins like a coupon book of
+I got my affirm stablecoin
+and my brand XYZ stablecoin,
+and I'm going to choose between the two
+like none of that.
+Maybe some of the like.
+What about for like rewards?
+Like, you know,
+that's one thing that credit cards
+currently have that like, oh, I get miles.
+Like, could there be something with
+if I use the stablecoin, I get remitted,
+but I don't know.
+I'm just I'm just throwing stuff
+out. So for what it's worth,
+I spend a lot of my
+time contemplating the word ecosystem
+and mostly raging against it
+because it is one of the less documented
+wealth transfers.
+And by the way, the credit card
+industry in general is a regressive wealth
+transfer where people
+who never evolve transactions,
+like probably both of you and me,
+when I use credit cards,
+which is really rare
+these days, we're paying our bills.
+At the end of the month,
+we're not paying a penny of interest.
+I think Joe on the record
+saying you've never paid any interest.
+And so I think that, that, that, that
+that's a nice place to be,
+if you can afford it, telling people
+that they should just not borrow
+and pay it off at the end of the month
+is an incredibly let them eat cake
+equivalent for the 21st century, payments.
+Lots of people in America revolve
+half the country involved in a $10,000,
+and so the idea of those people caring
+about rewards is sort of preposterous.
+They do not.
+They care about making their minimum
+payment.
+People who are figuring out which
+reward scheme they want to be a part of.
+I, I'm
+just not so convinced that they're going
+to be
+expanding their horizons
+to have more stable coins,
+because ultimately they're
+they're getting dollars in the world
+of a firm people that are people
+that we serve every single day,
+24 million of them in the last 12 months.
+They really, really care
+about the interest rates they pay,
+because a lot of them understand
+that the alternative is revolving.
+And so for them being told, hey,
+your reward is a 0% loan
+is incredibly powerful.
+And so before we get into
+using our hard
+earned revenue into stablecoins,
+we will just give it back to the consumers
+in the form of no, no interest.
+So we talked about how you make money,
+but we should talk a little bit
+about your cost side as well.
+And you mentioned funding earlier.
+So you have to get money from somewhere
+and you're paying for that money.
+What levers do you have to pull
+if the cost of money goes up?
+And again,
+I'm aware that we're recording this
+in early December
+and everyone expects an imminent rate cut.
+But in theory,
+if interest rates were to go
+up, what could you do to
+offset that additional cost?
+So the most important thing to understand
+about our business,
+from the capital sourcing
+part of the game,
+everyone understands
+that rates are not super volatile.
+But, you know, if you look back a couple
+of years, they were very volatile.
+If for for a brief, 
+not so shining moment.
+And so we all knew it was possible.
+So all of our contracts
+with various lenders of money to us,
+but also people who will buy our loans,
+the all adjust
+fairly gently over a course of a fairly
+long period of time.
+So it's not about can we deal
+with rising costs of credit for us, it's
+how quickly do they change for us?
+And of course, we understand
+that they might change quickly.
+Therefore, a lot of our contracts
+stipulate that, hey, if they do move up,
+the adjustments to our cost will go fairly
+slowly over a period of time.
+So the more likely outcome in
+December is probably a downward motion
+of the current rates.
+Or perhaps they stay steady,
+but just the same as I described,
+we're not going to wake up to all 25 three
+basis points of incremental revenue.
+It will eventually come to us in a form
+of accrual margin, but it'll take its time
+because these contracts adjust
+both up and down quite slowly.
+And we're in no way
+unique in the industry.
+Everybody does that.
+The levers
+we have to deal with such cost changes
+are exactly what you would expect.
+So we will either pass it
+through to the consumers and moving up
+in the increments or down of 25 basis
+points is not that significant.
+Then most people,
+I think, generally don't care that much.
+In some cases, we actually choose to tell,
+hey merchant X,
+you are providing these rates for nothing.
+You should continue doing so, but the cost
+to you will go up a tiny bit because
+the rate of change
+now, because of time value of money,
+the merchants pay us in real time,
+essentially as a transaction
+is consummated,
+the true cost to them is truly de minimis.
+And so in either of these two cases,
+so long as the movements
+are not very violent, it's not that major
+a component of our business.
+I just have one last question.
+I so setting aside the technology
+for the underwriting,
+which I'm sure is very high tech, data
+intensive application and setting aside
+that, probably many of your engineers on
+staff are using code generating for that.
+Just putting your tech hat on.
+As someone who oversees
+a large organization, people looking for
+how large language models in particular
+are being deployed in productive capacity
+at a firm today, is any of this technology
+in use in production
+and saving human hours
+in some respect or another?
+Yes. Emphatically so.
+So we just wrapped up the
+Cyber Weekend, Turkey
+five, Black Friday, Cyber Monday,
+whatever, whatever you want to call.
+I don't actually have the stat yet
+because I will get the report immediately
+after this podcast is recorded,
+but I'm constantly,
+well, I probably can't,
+pronounce the results
+we report early next year,
+but we will have handled
+tens of thousands of consumer contacts,
+people saying everything from, hey,
+I just borrowed money from you
+and I don't understand
+when my first payment is due.
+And, you know, maybe it's
+because they hadn't
+read the emails clearly
+or everything all the way down to
+I just borrowed money
+and I realized that I need a refund
+because I actually have no intention
+of buying this thing
+and all this stuff, and a lot of it.
+We try to serve them in real time
+as they're transacting,
+but plenty of people contact us
+right after or maybe sometime, you know,
+after the purchase.
+A huge percentage
+of that is handled entirely by AI.
+Now, now,
+that has not caused us to lay off
+our wonderful customer service
+staff at all.
+What it has allowed us to do
+is to go really deep into specialization.
+AI is very, very good today
+at handling basic questions.
+It can do cool things like look up
+your account and say, no, you're not late,
+you're mistaken. Don't worry about it.
+Or yes, you're late,
+but we don't charge late fees.
+So just please make yourself current
+and we'll move on.
+All of that can be handled by
+AI wonderfully.
+If it's something like
+I changed my name or,
+you know, I changed where I live, right
+as I was consummating this transaction,
+there's all sorts of crazy
+things that come up out of
+that is something that a human can handle.
+AI models are not smart enough yet
+to handle some of these things,
+and also frequently, if we wouldn't want
+the possibility of hallucination to derail
+what is a good customer relationship.
+So we've been able to move
+our human helpers
+into a much more sophisticated,
+much more specific role.
+So the theme in our customer service
+for last year has been
+specialization, specialization,
+specialization where we train people now
+to serve very,
+very specific subset of problems
+because they can be effective
+and move faster.
+And so these tools
+are actually making them more efficient
+by letting them focus on just a
+very specific thing that they're good at.
+So that's one example.
+We track all sorts of interesting metrics
+about AI tool usage internally.
+The interesting or sort of random factoid,
+our engineering group is not the single
+largest consumer of AI tools.
+I will not reveal exactly who it is.
+And by the way, the vast majority
+or cannot reveal who it is.
+Give us a hint or something.
+It's actually finance.
+Our, finite finance
+group uses these tools obsessively.
+I'm cheating a little bit here.
+So for a very long time
+it's not the case anymore,
+but for a very long time, because we are
+so AI and ML heavy company.
+One of the core requirements for any
+employee, but certainly in finance, was
+you have to know how to read code
+and probably write code.
+And so huge percentage
+of what we do in our finance group
+actually looks a lot like coding
+and a lot of software engineering.
+And so but there's some how maybe
+because the smaller group on average.
+But, they're great
+adopters of these tools.
+Our legal team uses it all the time.
+We have literally hundreds of thousands
+of very custom contracts.
+Every time a merchant pays your interest
+for you, they signed up for it.
+Contractually, that's a custom contract.
+Imagine managing
+half a million of these things.
+They're all carefully written and spoken,
+so I can read
+and find errors and corrections,
+etcetera, etcetera.
+We use.
+So one of the things we're responsible
+for as a regulated business is
+we cannot allow merchants
+to advertise our service incorrectly.
+We're actually on the hook when a merchant
+says something like hooray!
+Affirm
+interest free for everyone. It's not true.
+Some people will actually pay
+some interest sometimes.
+And so we have to.
+We are responsible for finding that
+and telling the merchant,
+please stop saying things that aren't.
+Strictly speaking, true.
+AI tools are amazing at reading boatloads
+of advertising copy and saying hey,
+this second, that is inaccurate.
+We got a fire off an email
+and tell this merchant to fix it
+so you can sort of
+imagine a flood of ideas that we had
+with the ChatGPT moment happen,
+and put it to work for the last few years.
+I'm going to end with,
+a sort of theoretical question,
+big picture theoretical question.
+But if you could design the ideal
+payment system
+from scratch, complete scratch,
+you know, using today's technology,
+there's no legacy card networks,
+maybe not even legacy banks.
+What would it look like,
+and how much of a firm's
+current business model
+would sort of survive in that environment?
+Well, I think
+you would look an awful lot like a firm.
+A firm is my personal attempt
+to build a system
+that I can be proud about.
+One of the core things we tell people
+who join us, one of the reasons we had
+this such a black and white, no late fees,
+no compounding, no deferred interest.
+None of the yuck is
+because I wanted the smartest people
+that would have otherwise gone
+to Wall Street and traded in quant funds
+to join us and build the system
+that they could be proud about.
+It's very hard to be proud about a thing
+that makes half its money and late fees,
+and that's why we don't do it.
+And so what we've built is biased as I am.
+It's pretty darn great.
+It really is something
+that I'm very proud about.
+And I think the totality of the team here
+takes an enormous amount of pride in
+how we went about building this.
+It is dependent, intertwined
+with the legacy systems.
+But even as we go through guardrails
+to use another industry jargon
+or many other systems that have existed,
+when we tap into capital markets,
+which are certainly been here long
+before we came about, and everything else
+in between, we maintain the moral
+integrity of the product and
+its DNA all the way through.
+We might pay late fees
+if we borrow money to lend.
+We haven't, because obviously
+we're on a pretty tight ship here.
+It will not be pass through.
+We take an incredible amount of pride
+in the diligence
+we exercise within the system,
+all the way down to leaving a penny
+on the table for our partners
+to keep because we refuse
+to make more money than we said we would.
+And so I would love to have a blank sheet
+design exercise in payments.
+But I think what would emerge is a system
+that looks a lot like a firm,
+just doesn't
+have some of the 1980s craft in it.
+Max Levchin, founder and CEO of a firm.
+So great chatting with you.
+Very illuminating, helpful conversation,
+and I appreciate you coming on our lot.
+Tricia I thought that was great.
+I thought that was really interesting
+and just sort of understanding
+the real nuts and bolts
+about how the money is made
+and what's different
+about the Bnpl companies
+from the credit card companies,
+to my mind, very helpful conversation.
+Yeah, I thought it was really interesting,
+the discussion about why
+other Bnpl companies don't want to report.
+Yeah,
+the credit bureaus and things like that.
+You know,
+I wonder if that'll change, anytime soon.
+Maybe politicians will start
+getting interested in it.
+Regulators as the space expands.
+A thought that I had listening
+to Max was,
+he mentioned the sort of the regressive
+ness of the point system.
+Right.
+So there's people like us
+who rarely roll their credit card,
+but get frequent
+flier miles or other rewards, etc.
+but that's paid for by the people
+that roll, right?
+Or sorry,
+that's paid for by the people who roll.
+Now, if affirm is targeting,
+they're not they're clearly targeting
+people who are not thinking about points.
+Right.
+They're thinking about people
+who really do need
+to extend their payments or implicitly
+roll and say, we have a better option.
+So it's sort of cleaving off if,
+you know, if this grows, the firm
+is still just a $22 billion company,
+by market cap.
+Whatever this grows, you gotta wonder,
+like if in the maximal version
+where you've cleaved off
+a significant number of people who roll,
+what happens to the point ecosystem
+for the people like us?
+Now, granted, I don't think like, oh,
+what about the poor freaking flier
+and all the great rewards you're getting,
+but you just someone think the point?
+Well,
+someone please think about the points.
+Accumulators who never go into debt
+or who never, like, roll their debt.
+But it is interesting to think about,
+if you could, like, cleave off that,
+then a big part of the business model
+of credit card, the legacy card companies
+could potentially be unstable
+and part of the appeal
+of going to any credit card
+that offers a lot of rewards
+could decline if revolvers
+moved to this alternate payment model.
+Yeah, it's a really good point.
+Yeah, it's a really good point on points.
+Okay.
+Thank you.
+That one was a little obvious I'm sorry.
+No it's good
+I like that it was straightforward.
+I actually got this one.
+Okay. Actually you know what?
+I really also appreciated
+that Max had substantive answers
+for things that they're doing with
+AI that aren't just code generation.
+Even if it sounds like
+the finance department is probably
+still using it for code generation,
+like that makes a lot of sense.
+Like being able
+to proactively scan websites
+to say who is sort of, claiming something
+that's not true about a firm, etc..
+So maybe there are productive uses
+of all this technology or is sending out
+millions and millions of contracts
+automatically. Totally.
+All right. Shall we leave it
+there? Let's leave it there.
+This has been another episode
+of the All Thoughts podcast.
+I'm Tracy Alloway.
+You can follow me @TracyAlloway
+and I'm Joe Weisenthal.
+You can follow me @thestalwart
+follow or guest Max Levchin.
+He's @MLevchin.
+Follow our producers
+Carmen Rodriguez @CarmenArmen, Dash Bennett,
+@dashbot and Cale Brooks @CaleBrooks.
+And for more all lots content,
+you should definitely check out
+our daily newsletter.
+You can find that @bloomberg.com/oddlots
+And you can
+join fellow listeners in conversation 24-7
+in our discord discord.GG/oddlots
+and if you enjoyed this conversation
+then please like leave a comment
+or better yet, subscribe.
+Thanks for watching.
