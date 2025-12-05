@@ -1,0 +1,4298 @@
+So,
+ I
+ was
+ told
+ that
+ this
+ could
+ be
+
+
+between
+ five
+ and
+ 55
+ minutes
+ long,
+ quite
+
+
+a
+ range,
+ and
+ that
+ I
+ could
+ yap
+ and
+ go
+ on
+
+
+whatever
+ side
+ tangent
+ I
+ wanted,
+ and
+
+
+it'll
+ be
+ fine.
+ So,
+ I'm
+ just
+ prepping
+ you
+
+
+and
+ giving
+ you
+ some
+ explanation
+ for
+ why
+
+
+this
+ is
+ the
+ way
+ it
+ is.
+ Uh,
+ so
+ my
+ name
+ is
+
+
+Dax.
+ I
+ work
+ on
+ a
+ project
+ called
+ Open
+
+
+Code.
+ It
+ is
+ one
+ of
+ the
+ most
+ used
+ coding
+
+
+agents
+ out
+ there.
+ Uh,
+ it's
+ fully
+ open
+
+
+source,
+ works
+ with
+ any
+ model.
+ Um,
+ every
+
+
+other
+ company
+ likes
+ to
+ say
+ we
+ have
+ the
+
+
+smartest
+ coding
+ agent.
+ Well,
+ we've
+ got
+
+
+the
+ hottest
+ coding
+ agent.
+ You
+ go
+ take
+ a
+
+
+look
+ at
+ it.
+ It's
+ a
+ great
+ experience.
+ Uh,
+
+
+awesome
+ UX,
+ totally
+ themeable,
+
+
+personalizable,
+ fun
+ fun
+ project
+ to
+ use.
+
+
+Uh,
+ that's
+ all
+ the
+ shilling
+ I'm
+ going
+ to
+
+
+do
+ for
+ now.
+ Um,
+ but
+ let's
+ get
+ into
+ the
+
+
+meat
+ of
+ this
+ talk.
+ So,
+ what
+ I
+ want
+ to
+
+
+talk
+ about
+ today
+ is
+ why
+ AI
+ is
+ not
+ going
+
+
+to
+ make
+ you
+ a
+ winner.
+ Um,
+ we're
+ at
+ an
+ AI
+
+
+conference.
+ There's
+ a
+ ton
+ of
+ AI
+ content
+
+
+out
+ there.
+ It's
+ all
+ anyone's
+ ever
+
+
+talking
+ about
+ these
+ days.
+ You
+ got
+ lots
+
+
+of
+ people
+ saying
+ that
+ this
+ is
+ the
+
+
+future.
+ It
+ changes
+ everything.
+ The
+ way
+
+
+like
+ software
+ development
+ is
+ going
+ to
+
+
+change.
+ Software
+ development
+ is
+ not
+
+
+going
+ to
+ exist.
+ You've
+ got
+ all
+ these
+
+
+crazy
+ proclamations
+ about
+ how
+ suddenly
+
+
+everything
+ is
+ different
+ and
+ if
+ you
+ hop
+
+
+on,
+ you're
+ going to
+ be able
+ to
+ get
+ the
+
+
+benefits.
+ Um,
+ and
+ some
+ of
+ that
+ is,
+ you
+
+
+know,
+ there's
+ some
+ truth
+ to
+ that
+ to
+ some
+
+
+degree,
+ but
+ I
+ want
+ to
+ focus
+ on
+ the
+ stuff
+
+
+that
+ hasn't
+ changed,
+ the
+ stuff
+ that
+ AI
+
+
+is
+ not
+ going
+ to
+ help
+ you
+ with.
+ Uh,
+ the
+
+
+things
+ that
+ are
+ critical
+ to
+ make
+ a
+
+
+successful
+ product
+ that
+ people
+ use,
+
+
+these
+ things
+ haven't
+ changed.
+ They're
+
+
+not
+ going
+ to
+ change
+ anytime
+ soon.
+ And
+ to
+
+
+be
+ honest,
+ AI
+ has
+ not
+ really
+ helped
+ us
+
+
+with
+ them.
+ So,
+ I'm
+ going
+ to
+ talk
+ about
+
+
+things
+ in
+ terms
+ of
+ funnel.
+ If
+ you
+ think
+
+
+about
+ I'm
+ making
+ a
+ product,
+ I've
+ got
+
+
+users
+ that
+ I
+ want
+ to
+ start
+ using
+ my
+
+
+product.
+ They
+ start
+ from
+ knowing
+ nothing
+
+
+about
+ you
+ to
+ hearing
+ about
+ you
+ to
+ trying
+
+
+your
+ product
+ to
+ liking
+ it
+ to
+ then
+ like
+
+
+fully
+ converting.
+ Uh
+ if
+ we
+ think
+ about
+
+
+that
+ journey,
+ there
+ are
+ critical
+
+
+moments.
+ I'm
+ going
+ to
+ identify
+ three
+
+
+critical
+ moments
+ that
+ you
+ need
+ to
+ focus
+
+
+on.
+ And
+
+
+it's
+ this
+ has
+ been
+ true
+ since
+ for
+ I
+ mean
+
+
+my
+ whole
+ career.
+ It
+ hasn't
+ changed.
+ It's
+
+
+the
+ things
+ that
+ I
+ think
+ about
+ every
+
+
+single
+ day
+ that
+ I
+ struggle
+ with.
+ uh
+
+
+despite
+ all
+ the
+ experience
+ I
+ have,
+ it's
+
+
+still
+ very
+ very
+ challenging
+ and
+ the
+ AI
+
+
+stuff
+ really
+ hasn't
+ done
+ much
+ for
+ me.
+
+
+So,
+ let's
+ yeah,
+ let's
+ get
+ started
+ with
+
+
+the
+ first
+ one.
+ So,
+ the
+ absolute
+ top
+ of
+
+
+the
+ funnel
+ is
+ marketing.
+ And
+ I'm
+ going
+
+
+to
+ say
+ off
+ the
+ bat
+ that
+ what
+ I'm
+ about
+
+
+to
+ say,
+ you're
+ going
+ to
+ feel
+ a
+ ton
+ of
+
+
+resistance
+ to.
+ So,
+ I'm
+ going
+ to
+ preface
+
+
+that
+ off
+ the
+ bat
+ cuz
+ I
+ remember
+ when
+ I
+
+
+felt
+ that
+ way.
+ Uh
+ and
+ it
+ took
+ a
+ lot
+ of
+
+
+effort
+ in
+ getting
+ over
+ like
+ my
+ own
+
+
+psychology
+ uh
+ to
+ do
+ this
+ part.
+ Well,
+ um,
+
+
+the
+ idea
+ behind
+ marketing
+ is
+ simple.
+ You
+
+
+have
+ someone
+ that's
+ going
+ about
+ their
+
+
+day.
+ They
+ got
+ their
+ problems.
+ They
+ got
+
+
+their
+ worries.
+ They're
+ focused
+ on
+ their
+
+
+life.
+ They
+ do
+ not
+ give
+ a
+ about
+ you
+
+
+or
+ what
+ you're
+ doing.
+ You
+ have
+ to
+ figure
+
+
+out
+ how
+ to
+ get
+ them
+ to
+ stop
+ in
+ their
+
+
+tracks,
+ drop
+ everything
+ else
+ that
+ they
+
+
+have,
+ and
+ look
+ at
+ you
+ and
+ think
+ about
+
+
+you
+ and
+ look
+ into
+ what
+ you're
+ offering
+
+
+them.
+ This
+ is
+ a
+ really,
+ really
+ high
+ bar
+
+
+to
+ clear.
+ Um,
+ and
+ I
+ think
+ when
+ I
+ talk
+
+
+about
+ it
+ in
+ this
+ way,
+ the
+ reason
+ people
+
+
+feel
+ resistance
+ is
+ because
+ most
+ of
+ us
+
+
+aren't
+ good
+ at
+ this.
+ You
+ know,
+ it's
+ a
+
+
+skill
+ like
+ anything
+ else,
+ you
+ are
+ not
+
+
+going
+ to
+ be
+ amazing
+ at
+ it
+ from
+ day
+ one.
+
+
+It's
+ way
+ outside
+ your
+ comfort
+ zone.
+
+
+Unfortunately,
+ a
+ lot
+ of
+ people's
+
+
+reactions
+ to
+ that
+ truth
+ is
+ that
+ they
+
+
+feel
+ like
+ they
+ shouldn't
+ have
+ to
+ deal
+
+
+with
+ this
+ problem.
+ Uh,
+ there's
+ a
+ lot
+ of
+
+
+thoughts
+ like,
+ "Hey,
+ if
+ my
+ product
+ is
+
+
+good
+ enough,
+ it'll
+ sell
+ itself.
+ Um,
+ I
+
+
+don't
+ need
+ to
+ do
+ marketing.
+ I
+ don't
+ need
+
+
+to
+ do
+ things
+ that
+ are
+ gimmicky.
+ You
+
+
+know,
+ I'm
+ above
+ that.
+ The
+ truth
+ is,
+
+
+there's
+ people
+ that
+ make
+ products
+ that
+
+
+are
+ better
+ than
+ anything
+ you're
+ ever
+
+
+going
+ to
+ do
+ in
+ your
+ whole
+ life.
+ Like
+ the
+
+
+absolute
+ best
+ products
+ out
+ there,
+ they
+
+
+still
+ have
+ to
+ think
+ about
+ this
+ problem.
+
+
+So,
+ if
+ they're
+ not
+ too
+ good
+ to
+ think
+
+
+about,
+ hey,
+ how
+ do
+ I
+ get
+ people's
+
+
+attention?
+ Neither
+ are
+ you.
+ Neither
+ am
+
+
+I.
+ Like,
+ we
+ all
+ just
+ just
+ got
+ to
+ do
+ it.
+
+
+So,
+ I
+ might
+ as
+ well
+ start
+ to
+ get
+ good
+ at
+
+
+it.
+ Um,
+ the
+ way
+ that
+ I
+ like
+ to
+ think
+
+
+about
+ it
+ is
+
+
+you
+ need
+ to
+ do
+ things
+ that
+ have
+ a
+ shot
+
+
+at
+ being
+ shared.
+ So,
+ if
+ you
+ think
+ about
+
+
+standard
+ marketing,
+ people
+ will
+ write
+ a
+
+
+blog
+ post
+ about
+ a
+ new
+ feature
+ or
+ they'll
+
+
+hire
+ an
+ influencer
+ to
+ like
+ talk
+ about
+
+
+the
+ new
+ feature
+ or
+ just
+ kind
+ of
+ the
+
+
+things
+ that
+ pretty
+ much
+ anyone
+ can
+ do.
+
+
+Uh,
+ you
+ know,
+ everyone
+ just
+ buys
+
+
+billboards
+ these
+ days
+ for
+ some
+ reason.
+
+
+The
+ thing
+ with
+ these
+ efforts
+ are
+ they
+
+
+make
+ sense,
+ you
+ know,
+ you're
+ like
+
+
+telling
+ people
+ about
+ the
+ thing
+ you
+
+
+built,
+ but
+ there's
+ basically
+ zero
+ chance
+
+
+that
+ somebody
+ sees
+ that
+ and
+ they're
+
+
+like,
+ "Oh
+ yeah,
+ I
+ got
+ to
+ show
+ my
+ friends
+
+
+this
+ blog
+ post
+ about
+ this
+ 76
+ feature,
+
+
+this
+ product
+ release,
+ right?
+ No
+ one's
+
+
+getting
+ excited
+ about
+ that.
+ They're
+
+
+probably
+ going
+ to
+ scroll
+ right
+ past."
+ I
+
+
+mean,
+ you
+ know
+ what
+ people
+ are
+ like
+
+
+these
+ days.
+ You're
+ all
+ on
+ TikTok.
+ I
+ know
+
+
+your
+ attention
+ spans
+ are
+ just
+ basically
+
+
+deteriorating
+ into
+ nothing.
+ Uh,
+ no
+ one
+
+
+can
+ focus
+ on
+ something
+ that's
+ boring.
+
+
+Um,
+ so
+ none
+ of
+ these
+ things
+ really
+ count
+
+
+as
+ top
+ level
+ marketing.
+ They're
+ not
+
+
+stopping
+ someone
+ who
+ doesn't
+ know
+ about
+
+
+you
+ to
+ start
+ thinking
+ about
+ you.
+ Uh,
+ the
+
+
+key
+ here
+ is
+ to
+ come
+ up
+ with
+ something
+
+
+that
+ someone's
+ going
+ to
+ see
+ and
+ they're
+
+
+going to
+ think
+ it's
+ so
+ crazy
+ or
+ so
+ funny
+
+
+or
+ so
+ uh,
+ deep
+ or
+ so,
+ you
+ know,
+ it
+ it
+
+
+strikes
+ a
+ chord
+ where
+ they're
+ like,
+ I
+
+
+got
+ to
+ show
+ this
+ to
+ my
+ friends,
+ to
+ my
+
+
+co-workers.
+ uh
+ can
+ you
+ believe
+ that
+ they
+
+
+did
+ this?
+ You
+ know,
+ you
+ want
+ to
+ elicit
+
+
+that
+ type
+ of
+ uh
+ emotion
+ from
+ someone.
+
+
+The
+ as
+ simple
+ as
+ that
+ bar
+ is,
+ you
+ know,
+
+
+it's
+ very
+ easy
+ to
+ tell
+ whether
+
+
+something's
+ going
+ to
+ clear
+ that
+ bar
+ or
+
+
+not.
+ It's
+ extremely
+ hard
+ to
+ come
+ up
+ with
+
+
+ideas
+ that
+ do
+ clear
+ that
+ bar.
+ Um
+ so
+
+
+that's
+ the
+ challenge.
+ You
+ got
+ to
+ be
+
+
+creative.
+ You
+ got
+ to
+ come
+ up
+ with
+ ideas
+
+
+that
+ work.
+ Uh
+ and
+ you're
+ going
+ to
+ miss
+ a
+
+
+lot.
+ It's
+ just
+ like
+ swinging
+ at
+
+
+products.
+ You're
+ aiming
+ for
+ a
+ hit.
+
+
+You're
+ going
+ to
+ swing
+ a
+ lot
+ and
+ a
+ lot
+ of
+
+
+times
+ you're
+ going
+ to
+ miss.
+ That's
+ true
+
+
+of
+ marketing
+ as
+ well.
+ Don't
+ bother
+
+
+taking
+ shots
+ that
+ never
+ have
+ a
+ chance
+ of
+
+
+being
+ a
+ hit,
+ right?
+ That's
+ just
+ a
+ waste
+
+
+of
+ time.
+ Um,
+ it's
+ okay
+ to
+ try
+ nine
+ times
+
+
+on
+ something
+ embarrassing
+ or
+ crazy
+ and
+
+
+doesn't
+ work,
+ but
+ that
+ one
+ that
+ hits,
+
+
+it's
+ going
+ to
+ be
+ seen
+ by
+ a
+ million
+
+
+people
+ and
+ your
+ target
+ audience
+ is
+ going
+
+
+to
+ be
+ in
+ that
+ group
+ or
+ connected
+ to
+ that
+
+
+group.
+ Uh,
+ and
+ if
+ you
+ repeat
+ this
+ over
+
+
+and
+ over,
+ that
+ compounds,
+ you
+ get
+ better
+
+
+at
+ it.
+ Top
+ level
+ marketing,
+ amazing.
+ The
+
+
+reason
+ AI
+ doesn't
+ help
+ here
+ is
+ it's
+ all
+
+
+about
+ creativity.
+ I
+ have
+ not
+ had
+ a
+
+
+single
+ good
+ idea
+ come
+ out
+ of
+ AI.
+ Even
+
+
+[snorts]
+ when
+ I
+ use
+ it
+ as
+ like
+ a
+
+
+brainstorming
+ partner,
+ it
+ like
+ just
+ gets
+
+
+super
+ corny.
+ Uh
+ just
+ it
+ just
+ can't
+ come
+
+
+with
+ anything
+ that's
+ cool.
+ Like
+ it
+ you
+
+
+can't
+ do
+ cool.
+ Uh
+ and
+ top
+ level
+
+
+marketing
+ is
+ about
+ is
+ about
+ cool.
+ And
+
+
+that
+ sounds
+ like
+ an
+ innate
+ thing,
+ but
+ it
+
+
+is
+ a
+ skill
+ that
+ that
+ you
+ can
+ learn.
+
+
+Okay.
+ So
+ now
+ that
+ you
+ have
+ someone
+ that
+
+
+is
+ interested
+ in
+ what
+ you're
+ doing,
+ you
+
+
+got
+ their
+ attention.
+ The
+ next
+ thing
+ to
+
+
+figure
+ out
+ is
+ how
+ to
+ get
+ them
+ to
+ the
+ aha
+
+
+moment.
+ So,
+ if
+ you
+ think
+ about
+ great
+
+
+products,
+ there's
+ a
+ moment
+ where
+ you've
+
+
+had
+ a
+ certain
+ interaction
+ with
+ the
+
+
+product
+ where
+ it
+ clicked
+ for
+ you.
+ You
+
+
+got
+ what
+ it
+ was
+ about.
+ You
+ were
+ sold
+ on
+
+
+it.
+ Uh,
+ and
+ you're
+ like,
+ "This
+ is
+
+
+awesome."
+ And
+ even
+ if
+ it
+ wasn't
+ for
+ you,
+
+
+you
+ might
+ think,
+ "This
+ isn't
+ for
+ me,
+ but
+
+
+this
+ is
+ cool
+ enough
+ that
+ if
+ I
+ know
+
+
+someone
+ that
+ it
+ is
+ for,
+ I'm
+ going
+ to
+
+
+recommend
+ it
+ to
+ them."
+ So,
+ that
+ is
+ the
+
+
+aha
+ moment.
+ You
+ need
+ to
+ figure
+ out
+ what
+
+
+is
+ the
+ singular
+ aha
+ moment
+ in
+ your
+
+
+product
+ and
+ eliminate
+ friction
+
+
+ruthlessly
+ to
+ get
+ someone
+ to
+ that
+ aha
+
+
+moment
+ as
+ fast
+ as
+ possible.
+ So
+ the
+
+
+challenges
+ here
+ are
+
+
+you
+ might
+ feel
+ like
+ oh
+ there's
+ a
+ lot
+ of
+
+
+good
+ features
+ in
+ my
+ app.
+ You
+ know
+ I
+ want
+
+
+them
+ to
+ know
+ about
+ features
+ A
+ B
+ C.
+ You
+
+
+you
+ have
+ to
+ be
+ brutal.
+ You
+ kind
+ of
+ have
+
+
+to
+ like
+ you
+ know
+ kill
+ your
+ children
+
+
+here.
+ You
+ have
+ to
+ pick
+ the
+ one
+ that
+
+
+matters
+ the
+ most
+ and
+ deprioritize
+
+
+everything
+ else
+ and
+ look
+ at
+ every
+ single
+
+
+step
+ that
+ it's
+ going
+ to
+ take
+ for
+ someone
+
+
+to
+ get
+ there
+ and
+ cut
+ it.
+ When
+ I
+ use
+
+
+products,
+ like
+ when
+ someone
+ sends
+ me
+
+
+like,
+ oh,
+ like
+ I'm
+ building
+ this
+ thing,
+
+
+let
+ me
+ try
+ it.
+ The
+ feeling
+ like
+ I
+ get
+
+
+this
+ crazy
+ amount
+ of
+ pain
+ cuz
+ I
+ see
+ all
+
+
+the
+ steps
+ that
+ it
+ takes
+ before
+ I
+ even
+
+
+get
+ to
+ the
+ point
+ where
+ I
+ even
+ understand
+
+
+what
+ the
+ heck
+ they're
+ doing.
+ Uh,
+ and
+ I
+
+
+know
+ that
+ at
+ each
+ point
+ they're
+ losing
+
+
+10%
+ of
+ their
+ people,
+ 20%
+ of
+ their
+
+
+people.
+ And
+ I
+ know
+ that
+ the
+ percentage
+
+
+of
+ people
+ making
+ it
+ to
+ the
+ end
+ are
+ so
+
+
+small
+ before
+ we
+ can
+ even
+ talk
+ about
+
+
+whether,
+ hey,
+ is
+ the
+ thing
+ you're
+
+
+building
+ that
+ useful?
+ Uh,
+ this
+ is
+
+
+another
+ thing
+ that
+ almost
+ no
+ companies
+
+
+get,
+ right?
+ Like,
+ think
+ about
+ when
+
+
+you're
+ signing
+ up
+ for
+ something,
+ they
+
+
+ask
+ such
+ stupid
+ up
+ front
+ before
+ you
+
+
+even
+ know
+ if
+ you
+ want
+ the
+ thing.
+ They're
+
+
+like,
+ "How
+ big
+ is
+ your
+ company?
+ Like,
+
+
+how
+ many
+ employees
+ do
+ you
+ have?
+ What's
+
+
+your
+ title?"
+ like
+ who
+ cares
+ about
+ any
+ of
+
+
+this?
+ You
+ got
+ to
+ cut
+ all
+ of
+ that
+ out
+ to
+
+
+get
+ people
+ to
+ the
+ moment
+ that
+ that
+ you
+
+
+care
+ about.
+ And
+ if
+ you're
+ able
+ to
+ do
+
+
+this,
+ that's
+ how
+ you
+ build
+ a
+ product
+
+
+that,
+ you
+ know,
+ really
+ starts
+ to
+ take
+
+
+off,
+ uh,
+ really
+ starts
+ to
+ grow
+ itself.
+
+
+All
+ that
+ work
+ you
+ did
+ for
+ the
+ top
+ level
+
+
+marketing,
+ if
+ only
+ like
+ 3%
+ of
+ people
+ are
+
+
+getting
+ to
+ the
+ aha
+ moment,
+ uh,
+ you
+ know,
+
+
+that
+ that's
+ a
+ total
+ waste.
+ The
+ the
+ hard
+
+
+part,
+ the
+ other
+ hard
+ part
+ is
+ like
+ maybe
+
+
+you
+ don't
+ even
+ have
+ an
+ aha
+ moment.
+ Um,
+
+
+that
+ makes
+ you
+ think
+ a
+ lot
+ about,
+ hey,
+
+
+what
+ am
+ I
+ even
+ building?
+ What
+ am
+ I
+
+
+doing?
+ Is
+ is
+ this
+ is
+ this
+ worth
+ the
+
+
+effort
+ and
+ pain
+ of
+ trying
+ to
+ build
+
+
+something.
+ Uh,
+ and
+ I
+ think
+ it's
+ worth
+
+
+looking
+ at
+ some
+ of
+ the
+ most
+ successful
+
+
+products
+ of
+ all
+ time.
+ Uh,
+ some
+ of
+ them
+
+
+have
+ some
+ like
+ crazy
+ crazy
+ aha
+ moments,
+
+
+right?
+ You
+ think
+ about
+ chat
+ GPT,
+ which
+
+
+is
+ the
+ most
+ successful
+ product,
+ I
+ would
+
+
+say,
+ consumer
+ product
+ ever
+ that
+ has
+
+
+existed
+ in
+ in
+ our
+ lifetime.
+ uh
+ they
+ give
+
+
+you
+ an
+ input
+ box
+ where
+ you
+ can
+ type
+
+
+anything
+ and
+ you're
+ going
+ to
+ get
+ like
+ a
+
+
+humanlike
+ interaction
+ as
+ a
+ response.
+
+
+Like
+ literally
+ anything
+ in
+ the
+ world
+ you
+
+
+can
+ type.
+ That's
+ like
+ an
+ insane
+ aha
+
+
+moment,
+ right?
+ The
+ moment
+ you
+ see
+ that,
+
+
+like
+ the
+ dumbest
+ person
+ in
+ the
+ world
+ can
+
+
+use
+ that,
+ they
+ can
+ be
+ like,
+ "Yeah,
+ this
+
+
+is
+ awesome.
+ I
+ get
+ it."
+ Uh
+ it's
+ very
+ very
+
+
+very
+ compelling.
+ Uh
+ on
+ the
+ social
+ media
+
+
+side,
+ right?
+ You
+ have
+ something
+ like
+
+
+Facebook.
+ uh
+ you
+ have
+ a
+ crush
+ and
+ you
+
+
+can
+ like
+ send
+ a
+ poke
+ to
+ your
+ crush
+ where
+
+
+you're
+ like
+ kind
+ of
+ flirting
+ but
+ it's
+
+
+deniable.
+ Instant
+ aha
+ moment
+ like
+ you
+
+
+are
+ sold
+ on
+ this
+ product.
+ You're
+ going
+
+
+to
+ keep
+ using
+ it.
+ Um
+ so
+ those
+ are
+ like
+
+
+very
+ extreme
+ examples
+ but
+ every
+ product
+
+
+should
+ have
+ a
+ singular
+ moment
+ where
+
+
+you're
+ like
+ this
+ is
+ the
+ reason
+ I
+ exist.
+
+
+This
+ is
+ the
+ reason
+ why
+ we're
+ doing
+ all
+
+
+of
+ this.
+ Uh
+ people
+ that
+ experience
+ it
+
+
+should
+ get
+ it.
+ Um,
+ again,
+ the
+ reason
+ why
+
+
+AI
+ doesn't
+ help
+ with
+ any
+ of
+ this
+ is,
+
+
+again,
+ it
+ goes
+ back
+ to
+ creativity
+ and
+
+
+really
+ understanding
+ this
+ space.
+ Uh,
+
+
+spend
+ a
+ lot
+ of
+ time
+ thinking
+ about
+ it,
+
+
+[clears throat]
+ like
+ gaining
+ clarity,
+
+
+like
+ thinking
+ about
+ positioning,
+ uh,
+
+
+thinking
+ about
+ what
+ you're
+ doing
+ unique
+
+
+that
+ nobody
+ else
+ is
+ doing.
+ All
+ very,
+
+
+very
+ hard.
+ You
+ know,
+ just
+ cuz
+ we
+ have
+ AI
+
+
+that
+ we
+ can
+ talk
+ to,
+ it's
+ not
+ suddenly
+
+
+going
+ to
+ turn
+ you
+ into
+ a
+ winner
+ at
+
+
+making
+ like,
+ you
+ know,
+ amazing
+ aha
+
+
+moments.
+ the
+ people
+ that
+ are
+ good
+ at
+
+
+that
+ very
+ very
+ few
+ people
+ in
+ the
+ world
+
+
+are
+ going
+ to
+ keep
+ doing
+ that
+ and
+ keep
+
+
+crushing
+ the
+ rest
+ of
+ us.
+ Uh
+ so
+ again
+
+
+another
+ thing
+ that
+ we
+ have
+ no
+ choice
+ but
+
+
+to
+ try
+ to
+ get
+ good
+ at.
+ So
+ the
+ last
+ part
+
+
+of
+ this
+ funnel
+ is
+ the
+ retention
+ side.
+ So
+
+
+let's
+ say
+ you've
+ gotten
+ the
+ attention
+ of
+
+
+someone.
+ You
+ managed
+ to
+ get
+ them
+ to
+ the
+
+
+aha
+ moment.
+ They
+ like
+ what
+ you're
+ doing.
+
+
+They're
+ now
+ like
+ using
+ your
+ product.
+ How
+
+
+do
+ you
+ retain
+ them
+ for
+ life?
+ Like
+ how
+ do
+
+
+you
+ get
+ a
+ customer
+ forever?
+ Uh
+ if
+ you
+
+
+aren't
+ getting
+ customers
+ forever,
+ you're
+
+
+just
+ leaking
+ people
+ through
+ and
+ you're
+
+
+going
+ to
+ hit
+ a
+ ceiling
+ on
+ your
+ business
+
+
+and
+ it's
+ not
+ going
+ to
+ be
+ fun.
+ Like
+ it's
+
+
+it's
+ annoying
+ when
+ you
+ grow
+ on
+ one
+ side
+
+
+but
+ you're
+ leaking
+ on
+ the
+ other
+ side.
+
+
+You
+ really
+ want
+ to
+ get
+ people
+ for
+ life.
+
+
+So
+ that
+ number
+ of
+ customers
+ you're
+
+
+serving
+ is
+ compounding
+ over
+ time.
+ Um
+
+
+retention
+ is
+ interesting
+ because
+ you
+
+
+have
+ to
+ think
+ about
+ it
+ kind
+ of
+
+
+differently
+ than
+ the
+ last
+ two
+ phases
+
+
+because
+ it's
+ all
+ about
+ power
+ users,
+
+
+right?
+ It's
+ all
+ about
+ someone
+ that's
+
+
+using
+ your
+ product
+ for
+ a
+ while
+ that's
+
+
+pushing
+ the
+ limits
+ of
+ what
+ they
+ can
+ do
+
+
+with
+ it.
+ They
+ want
+ things
+ to
+ be
+ more
+
+
+configurable.
+ Uh
+ they
+ want
+ more
+ advanced
+
+
+features.
+ You
+ have
+ uh
+ teams
+ using
+ it.
+
+
+You
+ have
+ larger
+ enterprises
+ using
+ it.
+
+
+They
+ have
+ very
+ specific
+ needs.
+ How
+ do
+
+
+you
+ build
+ things
+ that
+ support
+ all
+ of
+
+
+that
+ without
+ sacrificing
+ all
+ the
+ stuff
+
+
+we
+ did
+ in
+ the
+ first
+ two
+ phases
+ of
+
+
+keeping
+ things
+ simple,
+ having
+ a
+ very
+
+
+streamlined
+ initial
+ first
+ experience?
+ Uh
+
+
+it's
+ hard
+ to
+ juggle
+ both
+ of
+ these
+ both
+
+
+of
+ these
+ things.
+ uh
+ we've
+ kind
+ of
+ been
+
+
+forced
+ to
+ think
+ about
+ this
+ because
+ we
+
+
+have
+ been
+ doing
+ open
+ source
+ work
+ uh
+ for
+
+
+me
+ personally
+ it's
+ been
+ like
+ five
+ or
+ six
+
+
+years
+ now.
+ Um
+ open
+ source
+ products
+ are
+
+
+interesting
+ because
+ they
+ are
+ used
+ by
+
+
+both
+ like
+ a
+ random
+ indiv
+ individual
+
+
+hobbyists
+ that
+ just
+ want
+ something
+ that
+
+
+they
+ can
+ use
+ uh
+ that's
+ simple
+ and
+ free
+
+
+and
+ whatever.
+ Uh
+ but
+ also
+ open
+ source
+
+
+projects
+ are
+ some
+ of
+ the
+ best
+ choices
+
+
+for
+ like
+ mega
+ enterprise
+ companies,
+
+
+right?
+ These
+ giant
+ companies
+ uh
+
+
+typically
+ want
+ to
+ run
+ everything
+
+
+themselves.
+ They
+ want
+ to
+ host
+ everything
+
+
+themselves.
+ They're
+ very
+ sensitive
+ about
+
+
+uh
+ data
+ going
+ anywhere
+ else.
+ Uh
+ so
+ open
+
+
+source
+ projects
+ have
+ this
+ requirement
+ of
+
+
+supporting
+ both
+ like
+ the
+ really
+ simple
+
+
+case
+ and
+ both
+ the
+ really
+ advanced
+ case.
+
+
+Uh
+ the
+ way
+ we
+ go
+ about
+ this
+ is
+ there's
+
+
+kind
+ of
+ this
+ there's
+ like
+ this
+ I
+ would
+
+
+say
+ misconception
+ that
+ products
+ can
+
+
+either
+ be
+ simple
+ or
+ they
+ can
+ be
+ capable
+
+
+and
+ they'll
+ say
+ like
+ oh
+ we're
+ like
+ Apple
+
+
+we're
+ building
+ a
+ simple
+ experience
+ but
+
+
+what
+ they're
+ usually
+ doing
+ is
+ just
+
+
+building
+ an
+ incapable
+ experience
+ and
+
+
+they're
+ saying
+ that
+ oh
+ we're
+ like
+ Apple
+
+
+cuz
+ it's
+ the
+ simple
+ experience.
+ There's
+
+
+actually
+ no
+ trade-off
+ between
+ these
+ two
+
+
+things.
+ You
+ can
+ build
+ both
+ a
+ simple
+ and
+
+
+capable
+ experience.
+ Uh
+ the
+ way
+ to
+ do
+
+
+this,
+ it's
+ just
+ it's
+ just
+ more
+ work
+ up
+
+
+front,
+ right?
+ You
+ think
+ about
+ a
+ feature
+
+
+you
+ want
+ to
+ build
+ that
+ uh
+ makes
+ a
+ lot
+ of
+
+
+sense
+ for
+ users.
+ Instead
+ of
+ building
+ the
+
+
+feature,
+ you
+ kind
+ of
+ have
+ to
+ build
+
+
+primitives
+ that
+ can
+ be
+ assembled
+ into
+
+
+that
+ feature.
+ So
+ you
+ think
+ about
+ the
+
+
+primitive
+ layers
+ first,
+ make
+ them
+ uh
+
+
+pretty
+ wide
+ scoping,
+ u
+ make
+ them
+ really
+
+
+advanced,
+ really
+ powerful.
+ Then
+ you
+ take
+
+
+those
+ primitives
+ and
+ assemble
+ your
+
+
+simple
+ experience
+ that
+ 99%
+ of
+ people
+
+
+experience.
+ Uh
+ the
+ what
+ the
+ nice
+ thing
+
+
+about
+ doing
+ it
+ in
+ this
+ order
+ is
+ when
+
+
+they
+ get
+ more
+ complex,
+ you
+ can
+ give
+ them
+
+
+more
+ direct
+ access
+ to
+ these
+ underlying
+
+
+primitives.
+ They
+ can
+ get
+ more
+ advanced.
+
+
+They
+ can
+ flex
+ and
+ bend
+ your
+ product
+ and
+
+
+hopefully
+ they
+ never
+ need
+ to
+ outgrow
+ it,
+
+
+right?
+ Because
+ the
+ key
+ here
+ is
+ you
+ don't
+
+
+want
+ to
+ build
+ a
+ product
+ that
+ people
+
+
+outgrow.
+ uh
+ because
+ you're
+ effectively
+
+
+serving
+ as
+ a
+ funnel
+ for
+ someone
+ else's
+
+
+product,
+ whatever
+ they
+ whatever
+ they
+
+
+outgrow
+ into.
+ Uh
+ so
+ I
+ really
+ like
+
+
+building
+ things
+ where
+ think
+ about
+ like
+
+
+everything
+ we
+ ever
+ want
+ to
+ do
+ and
+ build
+
+
+a
+ set
+ of
+ primitives
+ that
+ can
+ eventually
+
+
+do
+ those
+ things
+ and
+ assemble
+ our
+ product
+
+
+using
+ those
+ primitives.
+ Uh
+ this
+ is
+
+
+another
+ area
+ where
+ AI
+ does
+ not
+ really
+
+
+help
+ me
+ because
+
+
+it's
+ like
+ so
+ hard,
+ right?
+ the
+ building
+
+
+and
+ trying
+ to
+ build
+ these
+ set
+ of
+
+
+primitives
+ is
+ how
+ you
+ even
+ figure
+ out
+
+
+what
+ primitives
+ to
+ need
+ primitives
+ you
+
+
+need
+ and
+ what
+ you're
+ trying
+ to
+ do.
+ uh
+
+
+that
+ exploration
+ process
+ like
+ sure
+ you
+
+
+can
+ like
+ again
+ chat
+ with
+ AI
+ brainstorm
+
+
+but
+ this
+ isn't
+ the
+ type
+ of
+ thing
+ that
+
+
+like
+ you
+ to
+ even
+ like
+ communicate
+ to
+ AI
+
+
+what
+ you
+ want
+ to
+ do
+ you
+ have
+ to
+
+
+understand
+ it
+ really
+ well
+ yourself
+ and
+
+
+that's
+ a
+ task
+ a
+ task
+ is
+ to
+ understand
+
+
+what
+ you're
+ trying
+ to
+ do
+ really
+ really
+
+
+well
+ uh
+ so
+ this
+ is
+ a
+ again
+ a
+ very
+
+
+critical
+ part
+ of
+ making
+ a
+ successful
+
+
+product
+ um
+
+
+AI
+ is
+ not
+ going
+ to
+ suddenly
+ make
+ you
+
+
+amazing
+ at
+ it
+ just
+ it
+ you
+ just
+ can't
+ it
+
+
+takes
+ a
+ lot
+ of
+ work,
+ time,
+ energy,
+ uh,
+
+
+until
+ your
+ brain
+ can
+ wrap
+ its
+ head
+
+
+around
+ the
+ space
+ you're
+ working
+ to
+
+
+design
+ the
+ right
+ set
+ of
+ primitives
+ that
+
+
+can
+ kind
+ of
+ scale
+ to
+ to
+ all
+ these
+
+
+situations.
+ All right,
+ so
+ the
+ last
+ thing
+
+
+I'll
+ leave
+ you
+ all
+ with
+ is
+ if
+ you
+ go
+ and
+
+
+try
+ out
+ Open
+ Code,
+ uh,
+ and
+ you
+ go
+
+
+through
+ the
+ full
+ process
+ that
+ I
+ just
+
+
+talked
+ about,
+ you're
+ going
+ to
+ find
+ a
+ lot
+
+
+to
+ criticize.
+ You're
+ going
+ to
+ be
+ like,
+
+
+he's
+ not
+ following
+ his
+ own
+ advice
+ here,
+
+
+here,
+ and
+ here.
+ And
+ the
+ reason
+ that's
+
+
+happening
+ is
+ even
+ though
+ I
+ can
+
+
+understand
+ all
+ this
+ stuff
+ and
+ to
+ the
+
+
+degree
+ where
+ I
+ can
+ talk
+ about
+ it
+ and
+
+
+articulate
+ it,
+ it's
+ just
+ hard.
+ It's
+ very
+
+
+hard
+ to
+ follow
+ this
+ advice.
+ It's
+ simple
+
+
+to
+ understand,
+ I
+ think.
+ But
+ executing
+ it
+
+
+well
+ daytoday,
+
+
+there's
+ no
+ getting
+ around
+ the
+ fact
+ that
+
+
+it's
+ enormously
+ difficult
+ and
+ it
+ takes
+
+
+so
+ much
+ out
+ of
+ a
+ person,
+ a
+ team
+ to
+ line
+
+
+everything
+ up
+ to
+ get
+ it
+ all
+ working
+
+
+perfectly
+ right.
+ Uh
+ AI
+ is
+ amazing
+ and
+
+
+lets
+ us
+ do
+ all
+ kinds
+ of
+ things
+ that
+ we
+
+
+couldn't
+ do
+ before.
+ Does
+ not
+ save
+ us
+
+
+from
+ that
+ day-to-day
+ pain
+ uh
+ in
+ trying
+
+
+to
+ make
+ something
+ that's
+ great.
+ So
+ yeah,
+
+
+I
+ wanted
+ to
+ do
+ a
+ talk
+ that
+ was
+ about
+ AI,
+
+
+but
+ kind
+ of
+ I'm
+ tired
+ of
+ people
+ feeling
+
+
+like
+ suddenly
+ the
+ tables
+ are
+ going
+ to
+
+
+turn
+ and
+ things
+ are
+ going
+ to
+ be
+ easier.
+
+
+They're
+ not
+ easier.
+ My
+ life
+ is
+ just
+ as
+
+
+hard
+ as
+ it's
+ ever
+ been.
+ It's
+ just
+ as
+
+
+hard
+ as
+ it's
+ ever
+ been
+ to
+ do
+ something
+
+
+amazing.
+ But
+ it's
+ also
+ where
+ all
+ the
+ fun
+
+
+comes
+ from,
+ where
+ all
+ the
+ purpose
+ comes
+
+
+from.
+ And
+ people
+ are
+ worried
+ about
+ like,
+
+
+oh,
+ people
+ are
+ going
+ to
+ like
+ not
+ have
+
+
+any
+ purpose
+ with
+ with
+ AI.
+ Uh,
+ no,
+ that's
+
+
+not
+ going to
+ be
+ a
+ problem
+ because,
+ you
+
+
+know,
+ things
+ are
+ just
+ as
+ hard
+ as
+ as
+ they
+
+
+ever
+ were.
+ So,
+ I
+ hope
+ that
+ inspires
+ you,
+
+
+scares
+ you,
+ I
+ don't
+ know,
+ makes
+ you
+ sad,
+
+
+makes
+ you
+ happy.
+ I
+ don't
+ know
+ how
+ you're
+
+
+going
+ to
+ feel
+ about
+ this,
+ but
+ that's
+ all
+
+
+I
+ have.
+ Thanks
+ for
+ thanks
+ for
+ listening.
+
+
+>> [clears throat]
