@@ -1,0 +1,4888 @@
+[Music]
+
+
+Thanks
+ Ally
+ for
+ the
+ great
+ intro.
+ Uh
+
+
+indeed
+ we're
+ working
+ on
+ what
+ I
+ believe
+
+
+to
+ be
+ the
+ exant
+ problem
+ in
+ AI
+ which
+ is
+
+
+to
+ say
+ how
+ do
+ you
+ validate
+ verify
+ audit
+
+
+steer
+ something
+ that
+ is
+ as
+ subjective
+
+
+and
+ unstructured
+ as
+ literal
+ LLM
+ slop.
+ So
+
+
+today
+ we're
+ going
+ to
+ be
+ talking
+ a
+ lot
+
+
+about
+ this.
+ Um
+ I
+ should
+ point
+ out
+ that
+
+
+ostensively
+ we're
+ part
+ of
+ the
+ AI
+
+
+security
+ track
+ although
+ I
+ would
+ really
+
+
+consider
+ us
+ more
+ of
+ a
+ QA
+ company
+ and
+
+
+eval
+ company
+ in
+ some
+ sense
+ although
+
+
+there's
+ a
+ lot
+ of
+ shared
+ similarities
+ in
+
+
+how
+ we
+ approach
+ the
+ problem
+ technically
+
+
+right
+ we
+ are
+ essentially
+ a
+ property
+
+
+based
+ testing
+ company
+ or
+ fuss
+ testing
+
+
+company
+ or
+ as
+ I
+ like
+ to
+ call
+ it
+ a
+ hazing
+
+
+company.
+
+
+Cool.
+ So
+ just
+ to
+ set
+ the
+ context
+ a
+
+
+little
+ bit
+ uh
+ why
+ do
+ we
+ start
+ haze?
+ What
+
+
+does
+ haze
+ mean?
+ haze
+ to
+ us
+ is
+
+
+ultimately,
+ all
+ right,
+ we
+ know
+ that
+ AI
+
+
+systems
+ are
+ extremely
+ unreliable.
+
+
+They're
+ hard
+ to
+ trust
+ in
+ practice,
+ and
+
+
+you
+ sort
+ of
+ need
+ to
+ pressure
+ test
+ them
+
+
+before
+ you
+ put
+ them
+ out
+ into
+ the
+ wild.
+
+
+Our
+ solution
+ to
+ doing
+ this
+ is
+ basically,
+
+
+let's
+ just
+ run
+ large
+ scale
+ optimization
+
+
+and
+ simulation
+ and
+ search
+ before
+
+
+deployment
+ and
+ try
+ and
+ figure
+ out
+
+
+through
+ a
+ battery
+ of
+ tests
+ whether
+ or
+
+
+not
+ your
+ system
+ will
+ behave
+ as
+ expected
+
+
+before
+ it
+ actually
+ goes
+ into
+ production.
+
+
+And
+ I'm
+ sure
+ any
+ of
+ you
+ guys
+ who
+ have
+
+
+tried
+ to
+ build
+ LLM
+ apps
+ in
+ the
+ past
+ have
+
+
+understood
+ extremely
+ viscerally
+ uh
+ what
+
+
+I
+ mean
+ when
+ I
+ say
+ the
+ last
+ mile
+ problem
+
+
+in
+ AI,
+ right?
+ It's
+ at
+ this
+ point
+ in
+ 2025
+
+
+extremely
+ easy
+ to
+ get
+ something
+ that
+ is
+
+
+demo
+ ready
+ uh
+ or
+ PC
+ ready.
+ Like
+ you
+ can
+
+
+whip
+ together
+ a
+ cool
+ product
+ over
+ the
+
+
+weekend
+ and
+ impress
+ your
+ PM
+ and
+ whatnot,
+
+
+but
+ uh
+ it's
+ really
+ hard
+ to
+ get
+ that
+ same
+
+
+product
+ into
+ production
+ at
+ a
+ point
+ where
+
+
+it's
+ truly
+ robust
+ and
+ enterprisegrade
+
+
+and
+ reliable.
+ And
+ you
+ know
+ this
+ has
+ been
+
+
+the
+ case
+ for
+ the
+ past
+ two
+ plus
+ years
+ at
+
+
+this
+ point
+ right
+ like
+ we've
+ been
+
+
+promised
+ uh
+ the
+ allure
+ of
+ autonomy
+ and
+
+
+agency
+ and
+ full
+ gen
+ AI
+ and
+ enterprise
+
+
+transformation
+ for
+ two
+ plus
+ years
+ since
+
+
+chat
+ GPT
+ launched
+ and
+ we're
+ still
+ not
+
+
+quite
+ there
+ right
+ and
+ I
+ think
+ it
+
+
+ultimately
+ it's
+ because
+ we
+ haven't
+
+
+solved
+ this
+ last
+ mile
+ problem
+ around
+
+
+trust
+ and
+ reliability
+ and
+ risk
+
+
+so
+ I
+ think
+ part
+ of
+ the
+ big
+ reasons
+ we
+
+
+haven't
+ solved
+ this
+ is
+ because
+ people
+
+
+still
+ think
+ about
+ eval
+ measuring
+ your
+ AI
+
+
+system
+ in
+ a
+ very
+ straightforward
+ and
+
+
+naive
+ sense
+ which
+ is
+ easiest
+ to
+ explain
+
+
+uh
+ as
+ follows
+ right
+ I'm
+ sure
+ everybody
+
+
+has
+ seen
+ this
+ idea
+ of
+ going
+ out
+ uh
+ being
+
+
+a
+ human
+ subject
+ matter
+ expert
+ collecting
+
+
+a
+ finite
+ static
+ golden
+ data
+ set
+ of
+
+
+inputs
+ and
+ then
+ expected
+ outputs
+ ground
+
+
+truth
+ outputs
+ uh
+ from
+ the
+ uh
+ human
+ and
+
+
+then
+ basically
+ running
+ the
+ inputs
+
+
+through
+ a
+ application
+ getting
+ the
+ the
+
+
+actual
+ output
+ and
+ then
+ comparing
+ it
+
+
+somehow
+ with
+ the
+ the
+ ground
+ truth
+ golden
+
+
+answers
+ right
+ this
+ is
+ how
+ eval
+ has
+ been
+
+
+done
+ forever
+ uh
+ since
+ the
+ birth
+ of
+ deep
+
+
+learning
+ uh
+ and
+ prior
+ but
+ it
+ doesn't
+
+
+quite
+ hold
+ up
+ in
+ the
+ genai
+ era
+
+
+specifically
+ because
+ of
+ this
+ property
+ of
+
+
+geni
+ systems
+ which
+ is
+ what
+ I
+ like
+ to
+
+
+call
+ brittleleness
+ or
+ more
+ technically
+
+
+lip
+ shits
+ discontinuity
+ um
+ and
+ what
+ I
+
+
+mean
+ by
+ this
+ is
+ you
+ know
+ people
+ say
+ AI
+
+
+is
+ sensitive
+ AI
+ is
+ brittle
+ AI
+ is
+
+
+non-deterministic
+ which
+ is
+ true
+ this
+ is
+
+
+all
+ true
+ but
+ that's
+ really
+ not
+ the
+ main
+
+
+problem
+ that
+ makes
+ AI
+ so
+ hard
+ to
+ deal
+
+
+with
+ right
+ nondeterminism
+ is
+ really
+ fine
+
+
+if
+ you
+ set
+ the
+ temperature
+ to
+ zero
+ yes
+
+
+there's
+ like
+ caching
+ and
+ weird
+ systems
+
+
+uh
+ quirks
+ and
+ all
+ the
+ LM
+ providers
+ that
+
+
+make
+ it
+ somewhat
+ non-deterministic
+ even
+
+
+at
+ scale.
+ But
+ for
+ the
+ most
+ part,
+
+
+nondeterminism
+ really
+ doesn't
+ bite
+ you
+
+
+too
+ much
+ when
+ you're
+ building
+ a
+ apps,
+
+
+right?
+ You
+ for
+ the
+ most
+ part
+ are
+
+
+constrain
+ your
+ outputs
+ to
+ temperature
+
+
+zero.
+ You're
+ running
+ things
+ through
+ a
+
+
+workflow.
+ It's
+ fairly
+ deterministic.
+
+
+What
+ does
+ bite
+ you
+ a
+ lot
+ when
+ you're
+
+
+building
+ AI
+ apps
+ though
+ is
+ when
+ you
+ send
+
+
+two
+ ostensibly
+ similar
+ inputs
+ to
+ your
+ AI
+
+
+application
+ with
+ maybe
+ slight
+ variance
+
+
+uh
+ in
+ the
+ syntax
+ or
+ the
+ semantics
+ or
+ the
+
+
+appearance
+ of
+ the
+ text
+ but
+ all
+ of
+ a
+
+
+sudden
+ you
+ get
+ wildly
+ different
+ outputs
+
+
+on
+ the
+ other
+ side.
+ Right?
+ This
+ is
+ what
+ I
+
+
+mean
+ when
+ I
+ say
+ gen
+ apps
+ are
+ incredibly
+
+
+brittle.
+ And
+ I
+ think
+ this
+ is
+ the
+ actual
+
+
+core
+ property
+ that
+ makes
+ building
+ with
+
+
+AI
+ uh
+ with
+ geni
+ so
+ difficult.
+
+
+And
+ of
+ course,
+ we
+ see
+ this
+ brittleless
+
+
+manifest
+ itself
+ in
+ all
+ sorts
+ of
+ fun
+
+
+ways.
+ I'm
+ sure
+ we
+ don't
+ have
+ to
+ blabber
+
+
+this
+ point
+ too
+ much,
+ but
+ you've
+ got
+
+
+everything
+ from
+ uh
+ Air
+ Canada
+ customer
+
+
+supports
+ hallucinating
+ to,
+ you
+ know,
+ uh
+
+
+character
+ AI
+ telling
+ teenagers
+ to
+ commit
+
+
+suicide
+ to
+ um
+ buying
+ a
+ pickup
+ truck
+ for
+
+
+$1
+ on
+ the
+ Chevy
+ uh
+ patient
+ or
+ customer
+
+
+portal,
+ right?
+ I
+ I
+ don't
+ think
+ we
+ need
+
+
+to
+ go
+ through
+ more
+ examples
+ of
+ this.
+
+
+This
+ happens
+ more
+ or
+ less
+ every
+ single
+
+
+week.
+ There's
+ more
+ and
+ more
+ examples
+
+
+popping
+ out.
+ Um
+ and
+ again
+ this
+ all
+ comes
+
+
+back
+ to
+ geni
+ being
+ extremely
+ sensitive
+
+
+and
+ brittle
+ to
+ prohibition
+ in
+ the
+ input
+
+
+space.
+
+
+Cool.
+ So
+ standard
+ evals
+ of
+ course
+
+
+doesn't
+ cover
+ uh
+ this
+ brittleleness
+
+
+property
+ and
+ I
+ would
+ say
+ it's
+
+
+insufficient
+ in
+ two
+ senses
+ two
+ primary
+
+
+senses.
+ One
+ is
+ coverage
+ right?
+ Uh
+ with
+ a
+
+
+static
+ data
+ set
+ you
+ only
+ know
+ how
+ good
+
+
+your
+ AI
+ system
+ will
+ be
+ with
+ respect
+ to
+
+
+that
+ data
+ set.
+ Right?
+ It
+ might
+ look
+ like
+
+
+your
+ AI
+ system
+ is
+ 100%
+ on
+ all
+ your
+ unit
+
+
+tests
+ on
+ all
+ your
+ golden
+ data
+ set
+
+
+points.
+ But
+ if
+ you
+ just
+ push
+ around
+ the
+
+
+corner
+ and
+ look
+ around
+ the
+ corner
+ for
+
+
+more
+ inputs
+ that
+ cover
+ your
+ space
+ more
+
+
+densely,
+ it
+ is
+ entirely
+ possible
+ that
+
+
+you
+ get
+ prohibations
+ that
+ tell
+ a
+ very
+
+
+very
+ different
+ story
+ about
+ how
+ your
+ AI
+
+
+application
+ actually
+ does
+ in
+ the
+ wild.
+
+
+So
+ point
+ number
+ one,
+ standard
+ eval
+ don't
+
+
+have
+ sufficient
+ coverage.
+
+
+Second
+ point
+ too
+ is
+ it's
+ actually
+ really
+
+
+difficult
+ to
+ come
+ up
+ with
+ a
+ good
+ measure
+
+
+of
+ quality
+ uh
+ or
+ even
+ similarity
+ uh
+
+
+between
+ the
+ outputs
+ of
+ your
+ application
+
+
+and
+ your
+ ground
+ truth
+ outputs.
+ Really
+
+
+what
+ we
+ would
+ want
+ almost
+ is
+ a
+ human
+
+
+subject
+ matter
+ expert
+ who
+ is
+ constantly
+
+
+overseeing
+ your
+ AI
+ application
+ and
+ a
+
+
+subject
+ matter
+ expert
+ who
+ has
+ all
+ the
+
+
+right
+ taste
+ and
+ sensitivity
+ but
+ is
+ able
+
+
+to
+ translate
+ that
+ sensitivity
+ into
+ some
+
+
+quantitative
+ metric.
+ This
+ by
+ no
+ means
+ is
+
+
+a
+ trivial
+ task,
+ right?
+ I
+ think
+ this
+ is
+
+
+the
+ core
+ challenge
+ that
+ we've
+ been
+
+
+trying
+ to
+ face
+ in
+ the
+ field
+ of
+ AI
+ around
+
+
+reward
+ modeling
+ for
+ the
+ past
+ five,
+ six,
+
+
+seven
+ plus
+ years,
+ right?
+ Uh
+ and
+ the
+ key
+
+
+challenge
+ is
+ how
+ do
+ you
+ get
+ that
+
+
+sensitivity
+ from
+ the
+ subject
+ matter
+
+
+expert
+ from
+ a
+ nontechnical
+ domain
+ to
+ be
+
+
+able
+ to
+ translate
+ their
+ criteria
+ into
+
+
+quantitative
+ measures.
+ This
+ is
+ not
+ even
+
+
+close
+ to
+ something
+ that's
+ being
+ solved
+
+
+with
+ standard
+ evals
+ today.
+ People
+ are
+
+
+using
+ things
+ like
+ exact
+ match,
+ um
+
+
+classifiers,
+ LM
+ as
+ a
+ judge,
+ semantic
+
+
+solinity.
+ All
+ these
+ things
+ have
+ their
+
+
+own
+ sets
+ of
+ uh
+ quirks
+ and
+ undesira
+ and
+
+
+we'll
+ see
+ how
+ this
+ this
+ pans
+ out
+ in
+ a
+
+
+second.
+
+
+Long
+ story
+ short
+ of
+ how
+ uh
+ we
+ think
+
+
+about
+ tackling
+ this
+ eval
+ problem
+ is
+
+
+essentially
+ through
+ hazing
+ right
+ fuss
+
+
+testing
+ in
+ the
+ AI
+ era.
+ Essentially
+ what
+
+
+hazing
+ comprises
+ is
+ very
+ simple
+ in
+ the
+
+
+abstract.
+ We
+ just
+ simulate
+ uh
+ large
+
+
+scale
+ uh
+ stimuli
+ to
+ send
+ to
+ your
+ AI
+
+
+application.
+ We
+ get
+ the
+ responses
+ as
+ a
+
+
+result
+ of
+ the
+ stimuli.
+ We
+ judge
+ and
+
+
+analyze
+ and
+ score
+ the
+ outputs
+ of
+ your
+ AI
+
+
+application.
+ And
+ we
+ use
+ that
+ as
+ a
+ signal
+
+
+to
+ help
+ guide
+ the
+ next
+ round
+ of
+ search,
+
+
+right?
+ And
+ we
+ essentially
+ just
+ do
+ this
+
+
+iteratively
+ until
+ we
+ discover
+ some
+ bugs
+
+
+and
+ corner
+ cases
+ that
+ break
+ your
+ AI
+
+
+application.
+ Uh
+ if
+ we
+ don't
+ discover
+
+
+anything
+ and
+ we
+ exhaust
+ our
+ search
+
+
+budget,
+ that
+ that
+ means
+ you're
+
+
+essentially
+ ready
+ for
+ production,
+ right?
+
+
+So
+ this
+ is
+ hazing
+ in
+ a
+ nutshell.
+
+
+But
+ easy
+ to
+ easy
+ to
+ describe,
+ actually
+
+
+really
+ difficult
+ to
+ execute
+ in
+ practice.
+
+
+um
+ both
+ sides
+ of
+ the
+ equation
+ in
+ terms
+
+
+of
+ scoring
+ the
+ output
+ and
+ also
+
+
+generating
+ the
+ input
+ stimuli
+ are
+ quite
+
+
+difficult
+ technically.
+ Um
+ I'll
+ first
+
+
+talk
+ about
+ how
+ do
+ we
+ think
+ about
+ scoring
+
+
+the
+ output
+ again
+ translating
+ from
+
+
+subjective
+ criteria
+ into
+ quantitative
+
+
+metrics.
+ Uh
+ we
+ call
+ this
+ judging
+ more
+
+
+broadly.
+
+
+Probably
+ you
+ guys
+ are
+ familiar
+ with
+ uh
+
+
+something
+ like
+ using
+ LM
+ as
+ a
+ judge
+ to
+
+
+essentially
+ have
+ an
+ LM
+ look
+ at
+ the
+
+
+output
+ of
+ your
+ AI
+ application
+ and
+ decide
+
+
+you
+ know
+ based
+ on
+ some
+ prompt
+ or
+ rubric
+
+
+that
+ you
+ give
+ to
+ your
+ judge
+ you
+ know
+ is
+
+
+this
+ a
+ good
+ response
+ or
+ is
+ this
+ a
+ bad
+
+
+response
+ tell
+ me
+ on
+ a
+ scale
+ from
+ 1
+ to
+
+
+five
+ or
+ 1
+ to
+ 10
+ or
+ what
+ have
+ you
+ right
+
+
+very
+ simple
+ to
+ do
+ but
+ it
+ has
+ its
+ uh
+
+
+whole
+ large
+ array
+ of
+ different
+ failure
+
+
+modes
+ in
+ particular
+ LM
+ as
+ a
+ judge
+ itself
+
+
+is
+ prone
+ to
+ hallucinations
+ it's
+ it
+ is
+
+
+obviously
+ an
+ LLM
+ so
+ it's
+ prone
+ to
+
+
+hallucination
+ conditions
+ it
+ is
+ uh
+
+
+unstable.
+ you
+ could
+ have
+ actually
+ really
+
+
+good
+ articulation
+ of
+ the
+ criteria
+ but
+ it
+
+
+doesn't
+ actually
+ operationalize
+ well
+
+
+into
+ a
+ model
+ right
+ so
+ it's
+ um
+ uh
+
+
+unccalibrated
+ in
+ the
+ output
+ right
+ like
+ a
+
+
+what
+ is
+ what
+ is
+ a
+ one
+ to
+ an
+ LLM
+ that's
+
+
+very
+ different
+ to
+ what
+ is
+ a
+ one
+ to
+ a
+
+
+human
+ right
+ what
+ is
+ a
+ five
+ to
+ a
+ human
+ is
+
+
+very
+ different
+ to
+ what
+ a
+ what
+ is
+ a
+ five
+
+
+to
+ an
+ LM
+ so
+ it's
+ unccalibrated
+ uh
+ it
+ has
+
+
+all
+ sorts
+ of
+ biases
+ right
+ if
+ you
+ change
+
+
+the
+ inputs
+ uh
+ in
+ any
+ weird
+ position
+
+
+right
+ let's
+ say
+ you
+ present
+ uh
+ one
+
+
+response
+ first
+ and
+ the
+ second
+ response
+
+
+if
+ you
+ flip
+ the
+ order
+ that
+ changes
+ the
+
+
+results
+ often
+ time
+ uh
+ if
+ provide
+ context
+
+
+or
+ you
+ change
+ some
+ part
+ some some
+ part
+
+
+of
+ your
+ rubric
+ that
+ changes
+ the
+ result
+
+
+of the
+ LM
+ as
+ a
+ judge
+ too.
+ So
+ extremely
+
+
+biased
+ extremely
+ fickle
+ and
+ TLDDR
+ LM
+ as
+
+
+a
+ judge
+ itself
+ uh
+ as
+ an
+ off
+ the
+ call
+
+
+call
+ offtheshelf
+ call
+ to
+ an
+ LM
+ is
+
+
+oftentimes
+ not
+ going
+ to
+ solve
+ your
+ uh
+
+
+reliability
+ issues.
+
+
+So
+ the
+ key
+ question
+ in
+ my
+ mind
+ is
+ how
+ do
+
+
+you
+ actually
+ QA
+ the
+ judge
+ itself,
+ right?
+
+
+How
+ do
+ you
+ get
+ to
+ a
+ point
+ where
+ you
+ can
+
+
+judge
+ the
+ judge
+ and
+ say
+ that
+ this
+ is
+ the
+
+
+best
+ gold
+ standard
+ metric
+ that
+ I
+ can
+ use
+
+
+to
+ then
+ actually
+ iterate
+ uh
+ my
+
+
+underlying
+ AI
+ application
+ against.
+ So
+
+
+how
+ do
+ you
+ judge
+ this
+ judge?
+
+
+The
+ broad
+ philosophy
+ that
+ uh
+ we've
+ been
+
+
+taking
+ over
+ the
+ past
+ few
+ months
+ is
+
+
+essentially
+ pushing
+ the
+ idea
+ of
+
+
+inference
+ time
+ scaling
+ or
+ more
+ broadly
+
+
+compute
+ time
+ scaling
+ to
+ the
+ judging
+
+
+stage.
+ So
+ we
+ call
+ this
+ scaling
+ judge
+
+
+time
+ compute.
+ And
+ there's
+ two
+ ends
+ of
+
+
+the
+ spectrum
+ of
+ this
+ philosophy.
+ One
+ end
+
+
+of
+ the
+ spectrum
+ is
+ basically
+ just
+ rip
+
+
+from
+ scratch.
+ No
+ inductive
+ biases.
+ Train
+
+
+reasoning
+ models
+ that
+ get
+ really
+ really
+
+
+good
+ at
+ this
+ evaluation
+ task.
+ Um
+ and
+
+
+then
+ the
+ other
+ end
+ of
+ the
+ spectrum
+ is
+ be
+
+
+very
+ structured.
+ Uh
+ you
+ know
+ don't
+ train
+
+
+any
+ models.
+ Just
+ use
+ the
+ offtheshelf
+ LMS
+
+
+have
+ really
+ strong
+ inductive
+ prior
+ but
+
+
+basically
+ build
+ agents
+ as
+ judges.
+ Right?
+
+
+So
+ this
+ is
+ one
+ approach.
+ Basically,
+
+
+we'll
+ build
+ agent
+ frameworks,
+ pipelines,
+
+
+workflows
+ to
+ do
+ the
+ judging
+ task.
+ And
+ we
+
+
+have
+ this
+ nice
+ little
+ library
+ called
+ uh
+
+
+verdict
+ uh
+ that
+ does
+ this.
+ Very
+ on
+ the
+
+
+nose
+ name,
+ I
+ know.
+ Um
+ but
+ the
+ idea
+ of
+
+
+verdict
+ is
+ essentially
+ there's
+ a
+ lot
+ of
+
+
+great
+ intuition
+ from
+ the
+ scalable
+
+
+oversight
+ community,
+ which
+ is
+ subfield
+
+
+of
+ AI
+ safety.
+ Goal
+ of
+ scalable
+ oversight
+
+
+is
+ basically
+ how
+ do
+ you
+ take
+ smaller
+
+
+language
+ models
+ and
+ have
+ them
+ audit
+ uh
+
+
+and
+ correct
+ and
+ steer
+ stronger
+ models.
+
+
+Originally
+ this
+ is
+ an
+ AI
+ safety
+ concept
+
+
+because
+ people
+ were
+ worried
+ about
+ you
+
+
+know
+ in
+ the
+ age
+ of
+ superhuman
+ AI
+ how
+ do
+
+
+you
+ have
+ weaker
+ models
+ i.e
+ humans
+
+
+control
+ the
+ stronger
+ models,
+ right?
+ And
+
+
+that's
+ how
+ the
+ field
+ got
+ started.
+ But
+ as
+
+
+a
+ result
+ of
+ scalable
+ oversight,
+ there's
+
+
+been
+ a
+ lot
+ of
+ great
+ intuition
+ around
+ the
+
+
+architectures
+ and
+ primitives
+ uh
+ and
+
+
+units
+ that
+ you
+ would
+ use
+ to
+ probe
+ and
+
+
+reason
+ and
+ uh
+ critique
+ what
+ a
+ stronger
+
+
+model
+ is
+ doing.
+ And
+ so
+ we
+ baked
+ a
+ lot
+ of
+
+
+those
+ primitives
+ uh
+ and
+ architectures
+
+
+into
+ this
+ vertic
+ library.
+ One
+ example
+ is
+
+
+having
+ LMS
+ debate
+ each
+ other,
+ having
+ the
+
+
+weaker
+ LLMs
+ debate
+ each
+ other
+ about
+ what
+
+
+the
+ stronger
+ model
+ is
+ saying
+ and
+ seeing
+
+
+if
+ that
+ makes
+ sense.
+ Uh
+ another
+ example
+
+
+is
+ having
+ the
+ LLM's
+ weaker
+ LMS
+
+
+self-verify
+ the
+ results
+ of
+ their
+ own
+
+
+responses.
+ Right?
+ So
+ you
+ know
+ have
+ an
+ LM
+
+
+say
+ okay
+ this
+ response
+ of
+ the
+ stronger
+
+
+model
+ is
+ good
+ or
+ bad.
+ It
+ is
+ bad
+ for
+ this
+
+
+reason
+ and
+ then
+ maybe
+ having
+ an
+ LM
+
+
+critique
+ its
+ own
+ reasoning
+ right.
+ So
+ SE
+
+
+verification
+ is
+ another
+ great
+ primitive.
+
+
+Um
+ ensembling
+ of
+ course
+ another
+ another
+
+
+uh
+ classic
+ primitive
+ in
+ this
+ case
+ and
+ so
+
+
+on
+ and
+ so
+ forth.
+
+
+TLDDR
+ scaling
+ judge
+ time
+ compute
+ in
+ this
+
+
+particular
+ way
+ uh
+ through
+ building
+
+
+agents
+ as
+ judges
+ actually
+ allows
+ you
+ to
+
+
+come
+ up
+ with
+ extremely
+ powerful
+ judging
+
+
+systems
+ that
+ are
+ also
+ quite
+ cheap
+ and
+
+
+also
+ uh
+ low
+ latency.
+ So
+ here's
+ a
+ plot
+ of
+
+
+price
+ uh
+ and
+ latency
+ and
+ cost
+ uh
+ and
+ and
+
+
+accuracy
+ uh
+ of
+ verdict
+ systems
+ visav
+ uh
+
+
+some
+ of
+ the
+ frontier
+ models
+ uh
+ Frontier
+
+
+Labs
+ reasoning
+ models.
+ So
+ you
+ can
+ see
+
+
+that
+ verdict
+ is
+ beating
+ uh
+ 01
+ and
+ 03
+
+
+mini
+ and
+ of
+ course
+ GP4
+ and
+ 3.5
+ sonnets
+
+
+um
+ on
+ the
+ task
+ of
+ expert
+ QA
+
+
+verification.
+ So
+ this
+ is
+ uh
+ subjective
+
+
+criteria
+ grading
+ in
+ expert
+ domains.
+ Um
+
+
+critically
+ verdict
+ here
+ is
+ powered
+ by
+ a
+
+
+GP40
+ mini
+ backbone.
+ Right?
+ So
+ we
+
+
+basically
+ have
+ stacked
+ GPU
+ GP40
+ mini
+
+
+aggressively
+ and
+ what
+ is
+ in
+ this
+ case
+
+
+like
+ a
+ self-verified
+ debate
+ ensemble
+ uh
+
+
+architecture
+ and
+ we're
+ able
+ to
+ beat
+ 01
+
+
+for
+ a
+ fraction
+ of
+ the
+ cost
+ like
+ less
+
+
+than
+ a
+ third
+ of
+ the
+ cost
+ right
+ and
+ also
+
+
+uh
+ like
+ less
+ than
+ a
+ third
+ of
+ the
+ latency
+
+
+and
+ this
+ is
+ all
+ because
+ of
+ we
+ have
+ of
+
+
+the
+ fact
+ that
+ we've
+ chosen
+ the
+ priors
+ in
+
+
+a
+ pretty
+ careful
+ and
+ uh
+ intelligent
+ way.
+
+
+So
+ that's
+ one
+ way
+ to
+ scale
+ just
+ time
+
+
+compute
+ is
+ basically
+ building
+ agents
+ uh
+
+
+to
+ do
+ the
+ task.
+
+
+Other
+ way
+ to
+ do
+ it
+ and
+ this
+ is
+ a
+ lot
+
+
+more
+ fun
+ in
+ my
+ opinion
+ is
+ basically
+ yeah
+
+
+just
+ rip
+ RL
+ from
+ scratch
+ train
+ models
+ to
+
+
+do
+ the
+ judging
+ task
+ and
+ this
+ is
+
+
+something
+ that
+ we've
+ also
+ been
+ pretty
+
+
+excited
+ about
+ over
+ the
+ past
+ few
+ months.
+
+
+Um
+ again
+ uh
+ for
+ standard
+ LM
+ judges
+ whole
+
+
+host
+ of
+ issues
+ but
+ two
+ particular
+ issues
+
+
+that
+ are
+ solved
+ by
+ RL
+ is
+ one
+ uh
+ there's
+
+
+a
+ lack
+ of
+ coherent
+ ration
+ that
+ explain
+
+
+why
+ an
+ LM
+ judge
+ thinks
+ something
+ is
+ a
+
+
+five
+ out
+ of
+ five
+ or
+ thinks
+ something
+ is
+
+
+good
+ or
+ bad
+ and
+ also
+ standard
+ elements
+
+
+of
+ judge
+ doesn't
+ provide
+ real
+ uh
+ fine
+
+
+grained
+ tailored
+ unique
+ criteria
+ to
+
+
+whatever
+ idiosyncratic
+ task
+ and
+ data
+
+
+you're
+ looking
+ at.
+ Uh
+ but
+ both
+ of
+ these
+
+
+can
+ be
+ solved
+ by
+ uh
+ RL
+ tuning
+ or
+
+
+specifically
+ GRPO
+ tuning.
+ Uh
+ one
+ paper
+
+
+recently
+ that
+ uh
+ has
+ come
+ out
+ in
+ this
+
+
+general
+ flavor
+ is
+ from
+ deepseek.
+ This
+ is
+
+
+SPCT
+ self-principled
+ critique
+ tuning.
+
+
+The
+ idea
+ here
+ is
+ essentially
+ can
+ you
+ get
+
+
+uh
+ an
+ LM
+ to
+ first
+ propose
+ some
+ data
+ set
+
+
+or
+ sorry
+ data
+ point
+ specific
+ criteria
+
+
+about
+ what
+ to
+ test
+ for.
+ It's
+ almost
+ like
+
+
+coming
+ up
+ with
+ unit
+ tests
+ for
+ the
+
+
+specific
+ data
+ point
+ you're
+ looking
+ at
+
+
+and
+ having
+ the
+ LM
+ essentially
+ look
+ at
+
+
+each
+ of
+ those
+ criteria
+ and
+ critique
+ the
+
+
+the
+ data
+ points
+ on
+ against
+ each
+ of
+ those
+
+
+criteria.
+ Right?
+ So
+ it's
+ like
+ instance
+
+
+specific
+ rubric
+ and
+ then
+ instance
+
+
+specific
+ rubric
+ critiques.
+ Um
+ this
+ is
+
+
+one
+ way
+ to
+ train
+ RL
+ models.
+ We
+ ran
+ a
+
+
+pretty
+ simple
+ experiment
+ using
+ this
+ uh
+
+
+using
+ a
+ variant
+ of
+ this
+ uh
+ technique
+ um
+
+
+to
+ GRPO
+ train
+ 600
+ million
+ parameter
+ and
+
+
+1.7
+ billion
+ parameter
+ models
+ and
+ TLDDR.
+
+
+gets
+ us
+ to
+ you
+ know
+ competitive
+
+
+performance
+ on
+ the
+ reward
+ bench
+ task
+
+
+with
+ cloud3
+ opus
+ which
+ is
+ at
+ 80%
+ uh
+ GP4
+
+
+mini
+ which
+ is
+ at
+ 80%
+ L
+ 370B
+ at
+ 77%
+ and
+
+
+J1
+ micro
+ which
+ is
+ this
+ 1.7
+ billion
+
+
+parameter
+ reward
+ model
+ at
+ 80.7%
+ uh
+
+
+accuracy
+ on
+ the
+ words
+ bench
+ task
+ right
+
+
+and
+ this
+ is
+ all
+ because
+ of
+ judge
+ time
+
+
+scaling
+ this
+ is
+ all
+ because
+ we
+ did
+ gpo
+
+
+to
+ come
+ up
+ with
+ uh
+ better
+ rubric
+
+
+proposals
+ and
+ better
+ critiques
+ on
+ the
+
+
+specific
+ task
+ that
+ we're
+ looking
+ at
+ so
+
+
+training
+ off
+ essentially
+ uh
+ much
+ smaller
+
+
+model
+ uh
+ doing
+ more
+ compute
+ gets
+ you
+
+
+this
+ this
+ much
+ better
+ performance
+ um
+ and
+
+
+similar
+ numbers
+ for
+ the
+ 600
+ million
+
+
+parameter
+ model.
+
+
+Cool.
+ So
+ that's
+ all
+ judging
+ and
+ scoring
+
+
+the
+ outputs.
+ Um
+ equally
+ important
+ though
+
+
+is
+ how
+ do
+ you
+ come
+ up
+ with
+ inputs
+ to
+
+
+throw
+ out
+ the
+ AI
+ system,
+ right?
+ And
+ how
+
+
+do
+ you
+ run
+ the
+ search
+ over
+ time?
+
+
+TLDDR
+ there's
+ two
+ ways
+ that
+ we
+ think
+
+
+about
+ this.
+ There
+ is
+ fuzzing
+ in
+ the
+
+
+general
+ sense
+ which
+ is
+ essentially
+ okay
+
+
+I
+ just
+ want
+ to
+ come
+ up
+ with
+ some
+
+
+variance
+ uh
+ of
+ some
+ customer
+ happy
+ path
+
+
+and
+ test
+ my
+ system
+ under
+ some
+ reasonable
+
+
+in
+ distribution
+ uh
+ user
+ inputs
+ right
+
+
+then
+ there's
+ the
+ more
+ fun
+ part
+ which
+ is
+
+
+how
+ do
+ you
+ do
+ adversarial
+ testing
+ right
+
+
+how
+ do
+ you
+ basically
+ emulate
+ some
+ person
+
+
+trying
+ to
+ sit
+ down
+ and
+ prompt
+ inject
+ and
+
+
+jailbreak
+ and
+ mess
+ with
+ your
+ AI
+ systems
+
+
+at
+ large
+ uh
+ and
+ this
+ is
+ much
+ more
+
+
+aggressive
+ in
+ terms
+ of
+ how
+ we
+ pursue
+ the
+
+
+optimization
+ problem.
+
+
+Long
+ story
+ short
+ is,
+ you
+ know,
+ fuzzing
+
+
+in
+ the
+ AI
+ sense
+ is
+ much
+ more
+ structured
+
+
+and
+ optimization
+ driven
+ than
+ in
+
+
+classical
+ security
+ or
+ or
+ software
+ or
+
+
+hardware,
+ right?
+ It
+ is
+ impossible
+ to
+
+
+like
+ search
+ over
+ the
+ input
+ space
+ of
+
+
+natural
+ language
+ and
+ do
+ a
+ brute
+ force
+
+
+search
+ uh
+ in
+ any
+ reasonably
+ short
+ amount
+
+
+of
+ time.
+ Like
+ we're
+ dealing
+ with,
+ you
+
+
+know,
+ let's
+ say
+ we're
+ doing
+ a
+ llama
+ 3
+
+
+tokenizer.
+ is
+ uh
+ 128,000
+ tokens
+ per
+
+
+individual
+ input,
+ right?
+ You
+ scale
+ this
+
+
+up
+ to
+ like
+ 100
+ million
+ tokens
+ and
+ you're
+
+
+like
+ literally
+ impossible
+ to
+ scan
+ this
+
+
+entire
+ input
+ space.
+ So
+ you
+ have
+ to
+ be
+
+
+very
+ clever
+ and
+ guided
+ and
+ prune
+ the
+
+
+search
+ space
+ as
+ you
+ do
+ hazing
+ and
+
+
+fuzzing.
+ We
+ treat
+ this
+ task
+ essentially
+
+
+as
+ an
+ optimization
+ problem.
+ Right?
+ This
+
+
+is
+ long
+ story
+ short
+ just
+ discrete
+
+
+optimization.
+ There's
+ plenty
+ of
+ rich
+
+
+literature
+ over
+ the
+ past
+ 60
+ 70
+ years
+ of
+
+
+uh
+ discrete
+ math
+ research
+ to
+ go
+ and
+
+
+support
+ how
+ to
+ do
+ this
+ sort
+ of
+ task.
+ So
+
+
+you
+ have
+ to
+ massage
+ it
+ of
+ course
+ to
+ work
+
+
+for
+ the
+ LM
+ domain.
+ Um
+ but
+ TLDDR
+ the
+
+
+shirt
+ space
+ is
+ just
+ natural
+ language.
+
+
+The
+ objective
+ that
+ we're
+ trying
+ to
+
+
+minimize
+ in
+ this
+ case
+ is
+ essentially
+
+
+whatever
+ judge
+ uh
+ that
+ we're
+ using
+ to
+
+
+score
+ the
+ output.
+ We
+ basically
+ want
+ to
+
+
+find
+ inputs
+ that
+ break
+ your
+ A
+
+
+application
+ visav
+ the
+ judge
+ gets
+ the
+
+
+output
+ to
+ score
+ very
+ low
+ on
+ some
+ uh
+
+
+measure
+ of
+ the
+ judge.
+ And
+ yeah
+ we
+ we
+ can
+
+
+rip
+ and
+ throw
+ a
+ bunch
+ of
+ fun
+
+
+optimization
+ algorithms
+ at
+ this.
+ Um
+ we
+
+
+can
+ use
+ gradient
+ based
+ methods
+ to
+ back
+
+
+prop
+ all
+ the
+ way from
+ the
+ judge
+ loss
+
+
+through
+ the
+ model
+ to
+ the
+ input
+ space
+ and
+
+
+use
+ that
+ to
+ guide
+ uh
+ what
+ tokens
+ we
+ want
+
+
+to
+ flip.
+ Uh
+ we
+ can
+ use
+ various
+ forms
+ of
+
+
+tree
+ search
+ and
+ MCTS.
+ We
+ can
+ search
+ over
+
+
+the
+ latent
+ space
+ of
+ uh
+ embedding
+ models
+
+
+and
+ then
+ map
+ from
+ the
+ embedding
+ models
+
+
+to
+ text
+ and
+ throw
+ that
+ at
+ the
+ underlying
+
+
+AI
+ application
+ or
+ the
+ application
+ under
+
+
+test.
+ Um
+ we
+ can
+ use
+ DSPI.
+ We
+ can
+ use
+ all
+
+
+sorts
+ of
+ other
+ great
+ uh
+ tools
+ and
+ tricks
+
+
+to
+ solve
+ this
+ optimization
+ problem.
+
+
+Some
+ fun
+ case
+ studies
+ in
+ the
+ last
+ few
+
+
+minutes.
+ Um,
+ TLDDR,
+ you
+ could
+ probably
+
+
+imagine
+ that
+ this
+ hazing
+ thing
+ matters
+ a
+
+
+lot
+ for
+ people
+ in
+ regulated
+ industries
+
+
+and
+ indeed
+ we
+ work
+ a
+ lot
+ with
+ uh
+ banks
+
+
+and
+ financial
+ services
+ and
+ healthcare
+
+
+and
+ so
+ on.
+ Um,
+ we
+ did
+ something
+ recently
+
+
+where
+ we
+ um
+ hazed
+ uh
+ the
+ largest
+ bank
+ in
+
+
+Hungary.
+ Uh
+ they
+ had
+ this
+ like
+ loan
+
+
+calculation
+ AI
+ application
+ that
+ they're
+
+
+showing
+ to
+ customers.
+ The
+ customer
+
+
+application
+ had
+ to
+ follow
+ this
+ 18
+ line
+
+
+code
+ of
+ conduct
+ is
+ what
+ they
+ called
+ it.
+
+
+uh
+ and
+ we
+ basically
+ threw
+ everything
+
+
+under
+ the
+ sun
+ uh
+ from
+ our
+ platform
+ in
+
+
+terms
+ of
+ optimization
+ and
+ scoring
+ to
+ uh
+
+
+emulate
+ adversaries.
+ We
+ were
+ able
+ to
+
+
+discover
+ a
+ ton
+ of
+ uh
+ prompt
+ injections
+
+
+and
+ jailbreaks
+ and
+ honestly
+ just
+ like
+
+
+unexpected
+ corner
+ cases
+ that
+ they
+ didn't
+
+
+account
+ for
+ in
+ their
+ code
+ of
+ conducts.
+
+
+Um
+ and
+ they're
+ able
+ to
+ patch
+ this
+ up
+ and
+
+
+then
+ finally
+ unblock
+ their
+ production
+
+
+into
+ prod.
+
+
+We
+ are
+ doing
+ this
+ right
+ now
+ for
+ a
+
+
+fortune
+ for Fortune
+ 500
+ bank
+ that
+ wants
+
+
+to
+ do
+ uh
+ outbound
+ debt
+ collection
+ with
+
+
+voice
+ agents.
+ uh
+ little
+ bit
+ actually
+
+
+more
+ complex
+ problem
+ because
+ now
+
+
+we're
+ not
+ just
+ testing
+ in
+ the
+ text
+
+
+space.
+ We're
+ actually
+ introducing
+ a
+ lot
+
+
+of
+ uh
+ variance
+ to
+ just
+ the
+ audio
+ signal
+
+
+as
+ well.
+ So
+ adding
+ things
+ like
+
+
+background
+ noise
+ um
+ stacking
+ you
+ know
+
+
+weird
+ static
+ into
+ the
+ the
+ input
+ domain
+
+
+changing
+ the
+ frequencies
+ of
+ things
+ etc.
+
+
+Right?
+ But
+ still
+ an
+ optimization
+ problem
+
+
+at
+ the
+ end
+ of the
+ day.
+ um
+ TLDDR
+ what
+
+
+took
+ this
+ team
+ you
+ know
+ 3
+ months
+ or
+ so
+
+
+to
+ do
+ with
+ their
+ internal
+ ops
+ teams
+ uh
+
+
+took
+ in
+ their
+ own
+ words
+ uh
+ only
+ 5
+
+
+minutes
+ for
+ a
+ platform
+ to
+ do
+ um
+ so
+
+
+scaling
+ up
+ adversary
+ emulation
+ uh
+ works
+
+
+for
+ this
+ task
+ as
+ well
+
+
+and
+ a
+ little
+ bit
+ more
+ different
+ uh
+ for
+
+
+another
+ voice
+ agent
+ company
+ we've
+ been
+
+
+helping
+ them
+ with
+ uh
+ scaling
+ up
+ their
+
+
+eval
+ uh
+ suite
+ right
+ so
+ not
+ so
+ much
+
+
+hazing
+ but
+ basically
+ scaling
+ up
+ their
+
+
+subjective
+ human
+ annotators
+ uh
+ through
+
+
+verdicts
+ uh
+ they've
+ seen
+ a
+ 38%
+ increase
+
+
+in
+ ground
+ truth
+ human
+ agreements
+ using
+
+
+verdicts
+ um
+ as
+ opposed
+ to
+ using
+ uh
+ their
+
+
+internal
+ ops
+ teams.
+ And
+ what
+ we're
+ using
+
+
+here
+ is
+ essentially
+ uh
+ a
+ triedand-rue
+
+
+architecture
+ from
+ the
+ verdict
+ library
+
+
+which
+ is
+ what
+ we
+ call
+ rubric
+ fanout.
+ So
+
+
+it
+ is
+ basically
+ propose
+ individual
+ uh
+
+
+unit
+ test
+ and
+ criteria
+ for
+ any
+
+
+particular
+ data
+ point
+ uh
+ critique
+ it
+
+
+self-verify
+ your
+ critique
+ and
+ then
+
+
+aggregate
+ results
+ at
+ the
+ very
+ end.
+
+
+Cool.
+ So
+ we
+ got
+ a
+ few
+ minutes
+ left
+ uh
+
+
+for
+ questions
+ but
+ um
+ yeah
+ hazing
+ is
+ a
+
+
+ton
+ of
+ fun.
+ I
+ think
+ it
+ matters
+ a
+ lot
+ for
+
+
+this
+ new
+ era
+ of
+ software
+ that
+ we're
+
+
+building.
+ Uh
+ we're
+ very
+ aggressively
+
+
+hiring.
+ We're,
+ you
+ know,
+ facing
+ what
+ I
+
+
+would
+ deem
+ to
+ be
+ insurmountable
+
+
+enterprise
+ demand
+ and
+ we're
+ only
+ a
+ team
+
+
+of
+ four
+ people.
+ Uh
+ so
+ we
+ really
+ need
+ to
+
+
+scale
+ up
+ our
+ team
+ and
+ yeah,
+ we're
+ based
+
+
+in
+ New York
+ in
+ case
+ you
+ guys
+ want
+ to
+
+
+move
+ out
+ to
+ the
+ city.
+ Um
+ and
+ yeah,
+ any
+
+
+uh
+ any
+ last
+ questions
+ for
+ me
+
+
+>> for
+ the
+ hazing
+ input?
+ Is
+ it
+ multi-shot
+
+
+or
+ single
+ shot?
+
+
+>> Yeah,
+ great
+ question.
+ So
+ we
+ do
+ both.
+ Uh
+
+
+we
+ do
+ single
+ turn,
+ multi-turn.
+ Uh
+ we
+ do
+
+
+persistent
+ conversations
+ if
+ you're
+ doing
+
+
+voice.
+ Um
+ yeah,
+ all
+ sorts
+ of
+ modalities,
+
+
+all
+ sorts
+ of
+ inputs.
+
+
+[Music]
