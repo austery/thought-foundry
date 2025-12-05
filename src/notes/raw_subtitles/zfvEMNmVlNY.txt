@@ -1,0 +1,2938 @@
+Right.
+ Hello
+ everyone.
+ Uh
+ today
+ I
+ will
+
+
+present
+ meta
+ adaptive
+ context
+
+
+engineering
+ or
+ meta
+ AC
+ for
+ short
+ which
+
+
+is
+ a
+ new
+ framework
+ designed
+ to
+ optimize
+
+
+AI
+ agents
+ beyond
+ single
+ dimension
+
+
+approaches.
+ We
+ will
+ explore
+ how
+
+
+orchestrating
+ multiple
+ adaptation
+
+
+strategies
+ can
+ overcome
+ the
+ limitations
+
+
+of
+ existing
+ context
+ engineering
+ methods.
+
+
+Now
+ a
+ little
+ introduction
+ about
+ myself.
+
+
+Uh
+ so
+ I'm
+ Alberto
+ Romero.
+ I'm
+ the
+
+
+co-founder
+ and
+ CEO
+ at
+ jointly.
+ And
+ for
+
+
+context
+ at
+ jointly
+ we
+ build
+ the
+ main
+
+
+specialized
+ agents
+ for
+ regulated
+
+
+industries
+ where
+ policy
+ adherance
+
+
+constraints
+ are
+ particularly
+ strict.
+
+
+Most
+ of
+ our
+ research
+ work
+ is
+ in
+ the
+ area
+
+
+of
+ selfoptimizing
+ agent
+ architectures
+ uh
+
+
+using
+ systematic
+ approaches.
+
+
+Now
+ about
+ myself,
+ I
+ have
+ spent
+ uh
+ 20
+
+
+plus
+ years
+ at
+ the
+ intersection
+ of
+ AI
+ and
+
+
+data.
+ Uh
+ some
+ of
+ my
+ recent
+ experience
+
+
+includes
+ being
+ the
+ CTO
+ and
+ co-founder
+ of
+
+
+human
+ AI
+ uh
+ think
+ MLbased
+ risk
+
+
+prediction
+ for
+ mobility
+ which
+ was
+
+
+acquired
+ by
+ AON
+ in
+ 2023
+ and
+ in
+ my
+
+
+previous
+ role
+ I
+ headed
+ up
+ city
+ bank's
+
+
+genai
+ engineering
+ team.
+
+
+Now
+ here's
+ our
+ agenda
+ for
+ today.
+ Um
+
+
+we'll
+ begin
+ with
+ the
+ motivation
+ and
+
+
+problems
+ that
+ current
+ systems
+ face.
+ Then
+
+
+we'll
+ review
+ the
+ AC
+ framework
+ and
+ its
+
+
+limitations.
+
+
+Um
+ after
+ surveying
+ recent
+ research
+ uh
+
+
+insights,
+ we'll
+ introduce
+ the
+ meta
+ AC
+
+
+approach.
+ We'll
+ discuss
+ its
+ architecture
+
+
+and
+ strategy
+ toolbox,
+ show
+ some
+ results
+
+
+um
+ and
+ finish
+ with
+ future
+ directions
+ on
+
+
+challenges.
+
+
+Now
+ the
+ agentic
+ context
+ engineering
+
+
+framework
+ or
+ AC
+ for
+ short
+ uh
+ for
+ which
+
+
+you've
+ got
+ the
+ paper
+ link
+ uh
+ on
+ the
+
+
+slide
+ there.
+ So
+ it's
+ it's
+ very
+ popular
+
+
+framework
+ um
+ and
+ the
+ paper
+ um
+ came
+ out
+ a
+
+
+few
+ months
+ ago.
+ Um
+ basically
+ organizes
+ a
+
+
+patient
+ into
+ three
+ roles.
+ First
+ of
+ all
+
+
+there's
+ a
+ generator
+ that
+ produces
+
+
+reasoning
+ paths.
+ Then
+ there's
+ a
+
+
+reflector
+ that
+ extracts
+ lessons.
+ And
+
+
+finally,
+ there
+ is
+ a
+ curator
+ that
+
+
+synthesizes
+ these
+ lessons
+ into
+
+
+incremental
+ updates.
+
+
+AC
+ uses
+ incremental
+ delta
+ updates
+ and
+ a
+
+
+grow
+ and
+ refine
+ mechanism
+ to
+ prevent
+
+
+context
+ collapse
+ and
+ maintain
+ relevance.
+
+
+Now,
+ most
+ importantly,
+ it
+ can
+ improve
+
+
+without
+ label
+ data
+ by
+ learning
+ directly
+
+
+from
+ execution
+ feedback.
+
+
+Now
+ so
+ AC
+ has
+ been
+ um
+ quite
+ successful
+
+
+and
+ has
+ achieved
+ substantial
+ gains
+
+
+across
+ some
+ of
+ the
+ most
+ popular
+ HM
+
+
+benchmarks
+ like
+ Upworld
+ or
+ finer
+ uh
+
+
+almost
+ an
+ 11%
+ compared
+ to
+ previous
+
+
+state-of-the-art
+ approaches
+ such
+ as
+ Japa
+
+
+or
+ DC.
+
+
+Um
+ and
+ it's
+ also
+ achieved
+ an
+ 8.6%
+
+
+um
+ gain
+ on
+ financial
+ reasoning
+ tasks.
+
+
+Um
+ there
+ are
+ four
+ fundamental
+
+
+limitations
+ um
+ for
+ AC
+ that
+ I'm
+ going
+ to
+
+
+reflect
+ on
+ and
+ um
+ just
+ discuss
+ on
+ the
+
+
+next
+ slide.
+ Um
+ and
+ those
+ form
+ the
+ basis
+
+
+for
+ um
+ for
+ meta
+ AC
+ basically.
+
+
+Now
+ as
+ I
+ was
+ saying
+ um
+ despite
+ it
+
+
+strength
+ AC
+ has
+ got
+ four
+ critical
+
+
+failure
+ modes.
+ First
+ it
+ is
+ highly
+
+
+dependent
+ on
+ the
+ reflector.
+ Um
+ so
+ when
+
+
+reflection
+ fails
+ the
+ context
+ becomes
+
+
+noisy
+ and
+ even
+ harmful.
+
+
+Uh
+ secondly
+ there's
+ feedback
+
+
+brittleleness
+ which
+ means
+ that
+ when
+
+
+ground
+ truth
+ signals
+ are
+ weak
+ or
+ absent
+
+
+AC
+ may
+ reinforce
+ incorrect
+ behaviors.
+
+
+Third,
+ the
+ the
+ task
+ complexity
+ blindness
+
+
+um
+ which
+ leads
+ to
+ treat
+ simple
+ and
+
+
+complex
+ tasks
+ the
+ same
+ which
+ can
+ be
+ a
+
+
+waste
+ of
+ resource
+ uh
+ and
+ also
+ a
+ miss
+ of
+
+
+opportunities
+ um
+ for
+ optimization
+
+
+and
+ then
+ finally
+ um
+ AC
+ optimizes
+ only
+
+
+the
+ context
+ dimension
+ so
+ ignores
+ compute
+
+
+memory
+ and
+ parameter
+ updates.
+
+
+Now
+ the
+ 24
+ and
+ 25
+ research
+ landscape
+
+
+offers
+ um
+ four
+ key
+ insights
+ in
+ my
+ views.
+
+
+First
+ of
+ all
+ uh
+ verification
+ me
+
+
+mechanisms
+ uh
+ like
+ self
+ evaluation,
+
+
+multimodel
+ consensus
+ and
+ execution
+
+
+checks
+ are
+ really
+ important
+ for
+
+
+robustness
+ of
+ any
+ solution.
+
+
+Secondly,
+ uh
+ adaptive
+ compute
+ allocation
+
+
+shows
+ that
+ small
+ models
+ can
+ outperform
+
+
+much
+ larger
+ ones
+ by
+ selectively
+
+
+increasing
+ inference
+ steps.
+
+
+The
+ third
+ one
+ is
+ that
+ structured
+ memory
+
+
+architectures
+ outperform
+ linear
+ context
+
+
+context
+ accumulation
+ by
+ organizing
+ facts
+
+
+as
+ graphs
+ or
+ multi-randular
+ memories.
+
+
+Then
+ finally,
+ test
+ time
+ training
+ bridges
+
+
+inference
+ and
+ learning
+ uh
+ and
+ enables
+
+
+temporary
+ parameter
+ updates
+ to
+ yield
+
+
+large
+ accuracy
+ gains.
+
+
+So
+ these
+ advances
+ suggest
+ that
+ we
+ need
+ a
+
+
+hybrid
+ multi-dimensional
+ system.
+
+
+Now,
+ MetaC
+ um
+ addresses
+ AC's
+ limitation
+
+
+by
+ adding
+ a
+ meta
+ controller
+ that
+ learns
+
+
+to
+ orchestrate
+ multiple
+ adaptation
+
+
+strategies
+ based
+ on
+ a
+ task's
+ complexity,
+
+
+uncertainty,
+ verifiability,
+
+
+and
+ also
+ resource
+ constraints.
+ So
+
+
+instead
+ of
+ applying
+ the
+ same
+ procedure
+
+
+to
+ every
+ problem,
+ Metaac
+ profiles
+ each
+
+
+task
+ and
+ allocates
+ the
+ right
+ combination
+
+
+of
+ strategies
+ across
+ context,
+ compute,
+
+
+verification,
+ memory
+ and
+ parameter
+
+
+dimensions.
+
+
+Um
+ so
+ this
+ adaptive
+ uh
+ learned
+
+
+coordination
+ is
+ what
+ enables
+ it
+ to
+
+
+outperform
+ single
+ dimension
+ methods.
+
+
+Now
+ the
+ the
+ meta
+ framework
+ consists
+ of
+
+
+four
+ layers.
+ So
+ getting
+ into
+ the
+
+
+architecture
+
+
+um
+ the
+ first
+ layer
+ is
+ the
+ task
+ profiling
+
+
+one
+ which
+ assesses
+ complexity
+
+
+uncertainty
+ verifiability
+ and
+ resource
+
+
+budgets.
+
+
+Then
+ there
+ is
+ a
+ lightweight
+ meta
+
+
+controller
+ that
+ selects
+ and
+ allocates
+
+
+adaptation
+ strategies
+ accordingly.
+
+
+The
+ next
+ layer
+ down
+ is
+ a
+ strategy
+
+
+execution
+ one
+ and
+ the
+ carries
+ out
+ the
+
+
+reflection,
+ adaptive
+ compute,
+
+
+hierarchical
+ verification,
+
+
+structure
+ memory
+ retrieval
+ and
+ selective
+
+
+uh
+ test
+ time
+ training.
+ And
+ then
+ finally
+
+
+uh
+ there's
+ a
+ feedback
+ aggregation
+ layer
+
+
+that
+ collects
+ the
+ outcomes
+ and
+ updates
+
+
+the
+ meta
+ controllers
+ policy
+ through
+
+
+metalarning.
+
+
+So
+ this
+ layer
+ design
+ allows
+ the
+ system
+
+
+to
+ learn
+ from
+ its
+ experience
+ and
+ uh
+
+
+continuously
+ refine
+ its
+ decision
+ making.
+
+
+Now
+ in
+ terms
+ of
+ the
+ task
+ profiling
+ um
+
+
+there
+ are
+ four
+ key
+ dimensions
+ that
+ are
+
+
+being
+ assessed.
+ The
+ first
+ one
+ is
+ uh
+
+
+semantic
+ complexity.
+ So
+ this
+ is
+
+
+basically
+ an
+ embedding
+ based
+ similarity
+
+
+to
+ uh
+ known
+ dash
+ distributions
+ that
+ gets
+
+
+produced.
+
+
+Uh
+ second
+ one
+ is
+ uncertainty
+
+
+quantification.
+
+
+Uh
+ think
+ of
+ it
+ as
+ a
+ relative
+ softmax
+ uh
+
+
+scoring
+ that
+ predicts
+ model
+ confidence.
+
+
+The
+ third
+ one
+ is
+ verifiability
+
+
+assessment.
+ So
+ whether
+ we
+ can
+ execute
+
+
+and
+ validate
+ the
+ output.
+
+
+And
+ then
+ the
+ fourth
+ one
+ is
+ resource
+
+
+availability.
+ So
+ we
+ take
+ into
+
+
+consideration
+ the
+ context
+ window,
+ the
+
+
+compute
+ budget
+ and
+ even
+ other
+
+
+constraints
+ such
+ as
+ time.
+
+
+So
+ the
+ output
+ of
+ this
+ layer
+ of
+ the
+ task
+
+
+profiling
+ layer
+ is
+ a
+ 32dimensional
+ task
+
+
+embedding
+ which
+ is
+ what
+ fits
+ as
+ input
+
+
+into
+ the
+ meta
+ controller.
+
+
+Now
+ in
+ terms
+ of
+ the
+ strategy
+ toolbox
+ um
+
+
+meta
+ draws
+ from
+ six
+ strategies.
+
+
+First
+ one
+ is
+ minimal
+ context
+ which
+ uses
+
+
+concise
+ prompts
+ for
+ simple
+ tasks.
+
+
+Um
+ then
+ we
+ use
+ AC
+ reflection
+ uh
+ which
+
+
+retains
+ the
+ generator
+ reflector
+ curator
+
+
+loop
+ for
+ incremental
+ knowledge
+
+
+accumulation
+ um
+ as
+ established
+ by
+ uh
+
+
+standard
+ AC.
+
+
+Then
+ we
+ also
+ use
+ adaptive
+ compute
+ which
+
+
+scales
+ the
+ number
+ of
+ reasoning
+ steps
+ or
+
+
+samples
+ based
+ on
+ the
+ task
+ difficulty.
+
+
+We
+ also
+ use
+ hierarchical
+ verification
+
+
+that
+ combines
+ self-evaluation
+ multimodal
+
+
+consensus
+ and
+ execution
+ checks.
+
+
+uh
+ adaptive
+ memory
+ uh
+ that
+ retrieves
+
+
+relevant
+ information
+ from
+ structured
+
+
+multi
+ granular
+ memories
+ and
+ then
+ finally
+
+
+we
+ use
+ selective
+ test
+ time
+ training
+
+
+which
+ applies
+ temporary
+ parameter
+
+
+updates
+ such
+ as
+ lower
+ adapters
+ for
+ high
+
+
+stakes
+ tasks.
+
+
+So
+ the
+ meta
+ controller
+ learns
+ to
+ combine
+
+
+these
+ tools
+ effectively
+ over
+ time.
+
+
+Now
+ the
+ um
+ reward
+ formula
+ um
+ upon
+ which
+
+
+the
+ the
+ learning
+ strategy
+ is
+ selected
+
+
+accounts
+ for
+ the
+ following
+ components.
+
+
+Um
+ the
+ first
+ one
+ is
+ the
+ correctness
+ of
+
+
+an
+ action
+ or
+ prediction
+ which
+ is
+
+
+accuracy.
+
+
+Then
+ we
+ also
+ have
+ the
+ penalty
+ associated
+
+
+um
+ with
+ resources
+ used
+ or
+ negative
+
+
+outcomes.
+ So
+ one
+ minus
+ cost
+ and
+ then
+ is
+
+
+the
+ trustworthiness
+ of
+ the
+ models
+ which
+
+
+is
+ self-expressed
+ certainty.
+
+
+So
+ the
+ confidence
+ calibration
+ basically
+
+
+uh
+ with
+ weighted
+ importance
+ determined
+
+
+by
+ the
+ hyperparameters
+ alpha,
+ beta
+ and
+
+
+gamma.
+
+
+In
+ terms
+ of
+ the
+ uh
+ metalarning
+ loop
+ um
+
+
+we
+ have
+ four
+ sources
+ of
+ feedback
+
+
+collection.
+ Uh
+ first
+ of
+ all
+ is
+ task
+
+
+outcomes.
+ The
+ success
+ failure
+ or
+
+
+correctness
+ um
+ of
+ the
+ task.
+ Then
+ we've
+
+
+got
+ the
+ strategy
+ performance.
+ So
+ what
+ is
+
+
+the
+ individual
+ contribution
+ of
+ each
+
+
+strategy
+ to
+ the
+ overall
+ performance
+ of
+
+
+the
+ task?
+
+
+Then
+ we
+ also
+ have
+ efficiency
+ metrics
+
+
+such
+ as
+ the
+ compute,
+ latency,
+ memory.
+
+
+And
+ then
+ finally
+ we've
+ got
+ confidence
+
+
+calibration.
+ So
+ where
+ predictions
+ are
+
+
+accurate.
+
+
+Um
+ so
+ moving
+ on
+ to
+ um
+ how
+ we
+ go
+ on
+ about
+
+
+uh
+ solving
+ the
+ uh
+ the
+ limitations
+ from
+
+
+AC.
+ The
+ first
+ one
+ was
+ the
+ weak
+ reflector
+
+
+problem.
+ So
+ AC's
+ issue
+ is
+ that
+ there
+ is
+
+
+a a
+ 50
+ to
+ 60%
+ performance
+ drop
+ when
+
+
+reflector
+ quality
+ degrades.
+ Um
+ with
+ beta
+
+
+AC
+ we
+ introduce
+ um
+ uh
+ three
+ things
+
+
+basically.
+ So
+ first
+ of
+ all
+ is
+ quality
+
+
+gates.
+ Um
+ so
+ it's
+ a
+ learned
+ classifier
+
+
+that
+ blocks
+ harmful
+ deltas
+ and
+ secondly
+
+
+there's
+ a
+ multi-
+ signal
+ reflector
+ uh
+ or
+
+
+reflection
+ which
+ basically
+ um
+ is
+ an
+
+
+ensemble
+ of
+ specialist
+ models
+ uh
+ when
+
+
+there
+ is
+ a
+ level
+ of
+ uncertainty.
+
+
+Uh
+ and
+ then
+ the
+ third
+ one
+ is
+ adaptive
+
+
+strategy
+ allocation.
+ So
+ the
+ meta
+
+
+controller
+ learns
+ when
+ reflection
+ fails
+
+
+and
+ then
+ it
+ roots
+ to
+ verification
+ or
+
+
+test
+ time
+ compute
+ instead.
+
+
+Um
+ so
+ we
+ can
+ expect
+ to
+ maintain
+ an
+ 80%
+
+
+plus
+ performance
+ even
+ when
+ the
+ uh
+
+
+reflector
+ degrades
+ around
+ 30%.
+
+
+Now
+ the
+ the
+ second
+ um
+ limitation
+ we
+ had
+
+
+was
+ um
+ the
+ feedback
+ quality
+
+
+brittleleness.
+
+
+So
+ what
+ we
+ observe
+ with
+ AC
+ is
+ that
+ there
+
+
+can
+ be
+ significant
+ degradation
+ without
+
+
+reliable
+ ground
+ truth
+ signals.
+
+
+Uh
+ with
+ beta
+ AC
+ we
+ introduce
+ a
+
+
+hierarchical
+ verification
+ cascade
+ um
+
+
+where
+ we
+ can
+ expect
+ a
+ 50
+ to
+ 60%
+
+
+reduction
+ in
+ errors
+ from
+ poor
+ feedback
+
+
+and
+ that's
+ through
+ three
+ tiers.
+ The
+
+
+first
+ tier
+ is
+ self
+ verification
+ which
+ is
+
+
+just
+ fast
+ filter.
+ We
+ just
+ accept
+ if
+ the
+
+
+confidence
+ level
+ is
+ over
+ a
+ certain
+
+
+value.
+ Second
+ tier
+ is
+ a
+ multimodel
+
+
+consensus.
+ So
+ we
+ leverage
+ a
+ diverse
+
+
+range
+ of
+ models
+ such
+ as
+ GBT4,
+ claude
+ and
+
+
+dips
+ and
+ we
+ do
+ confidence
+ weighted
+
+
+voting.
+ And
+ then
+ the
+ tier
+ three
+ is
+
+
+execution
+ based
+ verification
+
+
+uh
+ where
+ we
+ leverage
+ code
+ sandbox
+ APA
+
+
+API
+ validation
+ and
+ schema
+ compliance.
+
+
+Um
+ the
+ the
+ third
+ um
+ limitation
+ we
+ had
+
+
+was
+ uh
+ task
+ complexity
+ mismatch.
+ Um
+ so
+
+
+in
+ a
+ sense
+ the
+ fact
+ that
+ AC
+ uses
+ uniform
+
+
+processing
+ um
+ also
+ for
+ simple
+ tasks
+
+
+which
+ can
+ be
+ a
+ waste
+ of
+ resource.
+ So
+
+
+meta
+ adapts
+ uh
+ strategy
+ allocation
+
+
+dynamically
+ rather
+ than
+ using
+ the
+ same
+
+
+heavy
+ pipeline
+ for
+ everything.
+ The
+
+
+alphas
+ are
+ allocation
+ weights
+ for
+ the
+
+
+six
+ optimization
+ strategies
+ and
+ they
+
+
+represent
+ how
+ much
+ computational
+ budget
+
+
+is
+ assigned
+ to
+ each
+ strategy
+ for
+ a
+ given
+
+
+task.
+ So
+ simple
+ tasks
+ um
+ require
+ minimal
+
+
+processing
+ can
+ save
+ n
+ around
+ a
+ 90%
+ uh
+
+
+compute
+ compared
+ to
+ standard
+ AC.
+
+
+moderate
+ tasks
+ um
+ is
+ more
+ of
+ a
+ balanced
+
+
+approach
+ um
+ that
+ include
+ AC
+ plus
+
+
+verification
+ and
+ then
+ complex
+ tasks
+ um
+
+
+basically
+ heavy
+ test
+ time
+ compute
+
+
+multiple
+ attempts
+ and
+ memory
+ retrieval.
+
+
+Um
+ so
+ just
+ to
+ conclude
+ with
+ some
+ results
+
+
+um
+ and
+ and
+ these
+ are
+ initial
+ results
+ uh
+
+
+we
+ have
+ observed
+ um
+ around
+ an
+ 8
+ to
+ 11%
+
+
+uh
+ improvement
+ on
+ agent
+ benchmarks.
+
+
+Um
+ we
+ have
+ also
+ observed
+ a
+ six
+ to
+ eight
+
+
+points
+ improvement
+ on
+ on
+ some
+ domain
+
+
+specific
+ tasks.
+ um
+ also
+ a
+ 30
+ to
+ 40%
+
+
+reduction
+ in
+ compute
+ costs
+ um
+ through
+
+
+the
+ allocation
+ of
+ um
+ adaptive
+ strategies
+
+
+um
+ and
+ overall
+ there's
+ um
+ there's
+ more
+
+
+robustness
+ more
+ consistency
+
+
+um
+ and
+ you
+ know
+ we
+ can
+ generalize
+ better
+
+
+we
+ can
+ use
+ the
+ framework
+ across
+ a
+ a
+
+
+diverse
+ range
+ of
+ of
+ domains
+ so
+ the
+
+
+conclusion
+ is
+ that
+ um
+ meta
+ can
+ can
+
+
+orchestrate
+ ates
+ a
+ context
+ compute
+ and
+
+
+verification
+ and
+ memory
+ and
+ parameter
+
+
+adaptation
+ and
+ produce
+ a
+ robust
+ uh
+
+
+self-improvement
+
+
+um
+ framework
+ for
+ agents.
+
+
+Um
+ future
+ work
+ will
+ implement
+ uh
+ and
+
+
+evaluate
+ the
+ full
+ system
+ across
+ uh
+ a
+ a
+
+
+more
+ diverse
+ range
+ of
+ domains
+ and
+ we'll
+
+
+continue
+ exploring
+ metalarning
+ and
+ this
+
+
+will
+ involve
+ also
+ incorporating
+ um
+
+
+additional
+ strategies
+ as
+ well.
+
+
+Now
+ I
+ also
+ wanted
+ to
+ touch
+ on
+ um
+
+
+additional
+ applications
+ of
+ meta
+ that
+ I
+
+
+think
+ are
+ quite
+ relevant.
+ Um
+ so
+ first
+
+
+one
+ is
+ um
+ for
+ multimodel
+ AI
+ systems.
+ So
+
+
+for
+ example
+ deciding
+ when
+ to
+ use
+ vision
+
+
+versus
+ uh
+ language
+ processing
+ again
+ can
+
+
+be
+ um
+ a
+ like
+ a a
+ meta
+ adaptive
+ uh
+
+
+strategy
+ decisioning.
+
+
+Um
+ also
+ when
+ you
+ have
+ uh
+ compound
+ AI
+
+
+systems
+ that
+ um
+ require
+ different
+ models
+
+
+for
+ different
+ stages
+ um
+ and
+ the
+
+
+complexity
+ is
+ um
+ you
+ know
+ is
+ substantial
+
+
+uh
+ we
+ can
+ actually
+ um
+ uh
+ in
+ a
+ in
+ a
+ meta
+
+
+adaptive
+ manner
+ uh
+ select
+ the
+ most
+
+
+effective
+ uh
+ strategies
+ to
+ to
+ resolve
+ a
+
+
+task
+ and
+ to
+ end.
+ um
+ also
+ um
+ for
+ human
+
+
+collaboration
+ um
+ so
+ in
+ other
+ words
+ to
+
+
+determine
+ when
+ to
+ have
+ a
+ human
+ in
+ the
+
+
+loop
+ and
+ also
+ for
+ continual
+ learning
+
+
+systems
+ um
+ where
+ we
+ are
+ balancing
+
+
+exploration
+ versus
+ exploitation.
+
+
+Um
+ so
+ the
+ the
+ core
+ takeaway
+ is
+ that
+
+
+optimization
+ requires
+ a
+ meta
+ layer
+ of
+
+
+intelligence
+ and
+ and
+ that
+ has
+ to
+ be
+
+
+trained
+ um
+ and
+ you
+ know
+ um
+ it
+ requires
+
+
+um
+ a
+ lot
+ of
+ trial
+ and
+ error
+ before
+ it
+
+
+can
+ actually
+ um
+ perform
+ at
+ the
+ right
+
+
+level.
+
+
+In
+ terms
+ of
+ the
+ future
+ direction
+ and
+
+
+challenges
+ um
+ there
+ are
+ still
+ several
+
+
+challenges
+ that
+ remain.
+ So
+ the
+ meta
+
+
+controllers
+ training
+ u
+ may
+ be
+ unstable
+
+
+um
+ due
+ to
+ sparse
+ rewards
+ and
+ that
+ this
+
+
+can
+ be
+ mitigated
+ through
+ curriculum
+
+
+learning.
+ Uh
+ also
+ robust
+ advantage
+
+
+estimation
+ and
+ um
+ regularization
+ of
+
+
+entropy.
+
+
+Also
+ computational
+ overhead
+ from
+
+
+profiling
+ and
+ multiple
+ uh
+ strategies
+ um
+
+
+needs
+ to
+ be
+ reduced
+ with
+ efficient
+
+
+models.
+ Um
+ we
+ can
+ leverage
+ things
+ like
+
+
+lazy
+ execution,
+ batching
+ and
+ caching.
+
+
+Um
+ also
+ uh
+ the
+ ver
+ verification
+ uh
+
+
+cascades
+ can
+ be
+ brittle
+ if
+ all
+ models
+ um
+
+
+make
+ the
+ same
+ mistake.
+ So
+ we
+ need
+
+
+diverse
+ models
+ um
+ with
+ confidence
+
+
+waiting
+ and
+ human
+ oversight
+ um
+ as
+ well
+
+
+as
+ active
+ learning.
+ uh
+ metalarning
+ loops
+
+
+require
+ substantial
+ data.
+ Uh
+ synthetic
+
+
+task
+ uh
+ task
+ generation
+ of
+ policy
+
+
+learning
+ uh
+ transfer
+ from
+ related
+
+
+domains
+ and
+ sample
+ efficient
+ algorithms
+
+
+uh
+ can
+ also
+ help
+ as
+ well.
+ And
+ finally
+ uh
+
+
+addressing
+ these
+ ch
+ these
+ challenges
+ um
+
+
+is
+ going
+ to
+ be
+ key
+ to
+ scaling
+ meta
+ and
+
+
+applying
+ it
+ across
+ um
+ a
+ wide
+ range
+ of
+
+
+domains.
+
+
+So
+ that
+ was
+ all
+ from
+ me.
+ Thank
+ you
+ very
+
+
+much
+ for
+ listening.
+ Um,
+ and
+ yeah,
+ uh,
+
+
+appreciate
+ you
+ being
+ there.
+ Thank
+ you.
