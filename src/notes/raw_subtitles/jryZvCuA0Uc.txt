@@ -1,0 +1,5144 @@
+All
+
+
+[Music]
+
+
+right,
+ welcome
+ everybody.
+ Um,
+ I'm
+ Jeff
+
+
+Huber,
+ the
+ co-founder
+ and
+ CEO
+ of
+ Chroma,
+
+
+and
+ I'm
+ joined
+ by
+ Jason.
+ We're
+ going to
+
+
+do
+ a
+ two-parter
+ here.
+ We're
+ really
+ going
+
+
+to
+ pack
+ in
+ the
+ content.
+ It's
+ the
+ last
+
+
+session
+ of
+ the
+ day,
+ and
+ so
+ we
+ thought
+
+
+I'd
+ give
+ you
+ a
+ lot.
+ Um
+ everything
+ in
+
+
+this
+ presentation
+ today
+ is
+ open
+ source
+
+
+and
+ code
+ available.
+ So
+ we're
+ also
+ not
+
+
+selling
+ you
+ any
+ tools.
+ Um
+ and
+ so
+
+
+there'll
+ be
+ QR
+ codes
+ and
+ stuff
+
+
+throughout
+ to
+ grab
+ the
+ code.
+ So
+ let's
+
+
+talk
+ about
+ how
+ to
+ look
+ at
+ your
+ data.
+ Um
+
+
+all
+ of
+ you
+ are
+ AI
+ practitioners.
+ Um
+
+
+you're
+ all
+ building
+ stuff
+ and
+ uh
+ this
+
+
+probably
+ these
+ questions
+ probably
+
+
+resonate
+ quite
+ deeply
+ with
+ you.
+ Uh
+ what
+
+
+chunking
+ strategy
+ should
+ I
+ use?
+ Is
+ my
+
+
+embedding
+ model
+ the
+ best
+ betting
+
+
+embedding
+ model
+ for
+ my
+ data?
+ Um
+ and
+
+
+more.
+ And
+ our
+ contention
+ is
+ that
+ you
+ can
+
+
+really
+ only
+ manage
+ what
+ you
+ measure.
+
+
+Again,
+ I
+ think
+ Peter
+ Ducker
+ is
+ the
+
+
+original
+ who
+ coined
+ that.
+ So,
+ I
+ can't
+
+
+take
+ too
+ much
+ credit.
+ Um,
+ but
+ it
+
+
+certainly
+ is
+ still
+ true
+ today.
+ So,
+ we
+
+
+have
+ a
+ very
+ simple
+ hypothesis
+ here,
+
+
+which
+ is
+ you
+ should
+ look
+ at
+ your
+ data.
+
+
+Um,
+ the
+ goal
+ is
+ to
+ say
+ look
+ at
+ your
+ data
+
+
+I
+ think
+ at least
+ 15
+ times
+ this
+
+
+presentation.
+ So,
+ that's
+ two.
+ Um,
+ and
+
+
+great
+ measurement
+ ultimately
+ is
+ what
+
+
+makes
+ systematic
+ improvement
+ easy.
+ And
+
+
+it
+ really
+ can
+ be
+ easy.
+ It
+ doesn't
+ have
+
+
+to
+ be
+ super
+ complicated.
+ So,
+ I'm
+ going
+
+
+to
+ talk
+ about
+ part
+ one,
+ how
+ to
+ look
+ at
+
+
+your
+ inputs.
+ And
+ then
+ Jason's
+ going
+ to
+
+
+talk
+ about
+ part
+ two,
+ how
+ to
+ look
+ at
+ your
+
+
+outputs.
+
+
+So,
+ let's
+ get
+ into
+ it.
+ All
+ right.
+
+
+Looking
+ at
+ your
+ inputs.
+ How
+ do
+ you
+ know
+
+
+whether
+ or
+ not
+ your
+ retrieval
+ system
+ is
+
+
+good?
+ And
+ how
+ do
+ you
+ know
+ how
+ to
+ make
+ it
+
+
+better?
+ Um,
+ there
+ are
+ a
+ few
+ options.
+ Um,
+
+
+there
+ is
+ guess
+ and
+ cross
+ your
+ fingers.
+
+
+That's
+ certainly
+ one
+ option.
+ Um,
+ another
+
+
+option
+ is
+ to
+ use
+ an
+ LLM
+ as
+ a
+ judge.
+
+
+you're
+ using,
+ you
+ know,
+ some
+ of
+ these
+
+
+frameworks
+ where
+ you're
+ checking
+
+
+factuality
+ and
+ other
+ metrics
+ like
+ this
+
+
+and
+ they
+ cost
+ $600
+ and
+ take
+ three
+ hours
+
+
+to
+ run.
+ If
+ that
+ is
+ your
+ preference,
+ you
+
+
+certainly
+ can
+ do
+ that.
+ Um,
+ you
+ can
+ use
+
+
+public
+ benchmarks.
+ So,
+ you
+ can
+ look
+ at
+
+
+things
+ like
+ MTeb
+ to
+ figure
+ out,
+ oh,
+
+
+which
+ embedding
+ model
+ is
+ the
+ best
+ on
+
+
+English.
+ That's
+ another
+ option.
+ Um,
+ but
+
+
+our
+ contention
+ is
+ you
+ should
+ use
+ fast
+
+
+evals.
+ And
+ I
+ will
+ tell
+ you
+ exactly
+ what
+
+
+fast
+ evals
+ are.
+ All right.
+ So,
+ what
+ is
+ a
+
+
+fast
+ eval?
+ Um
+ a
+ fast
+ eval
+ is
+ simply
+ a
+
+
+set
+ of
+ query
+ and
+ document
+ pairs.
+ So
+ the
+
+
+first
+ step
+ is
+ if
+ this
+ query
+ is
+ put
+ in
+
+
+this
+ document
+ should
+ come
+ out.
+ Uh
+ a
+ set
+
+
+of
+ those
+ is
+ called
+ a
+ golden
+ data
+ set
+ and
+
+
+then
+ the
+ way
+ that
+ you
+ measure
+ your
+
+
+system
+ is
+ you
+ put
+ all
+ the
+ queries
+ in
+ and
+
+
+then
+ you
+ see
+ do
+ those
+ documents
+ come
+
+
+out.
+ Um
+ and
+ obviously
+ you
+ can
+ retrieve
+
+
+five
+ or
+ retrieve
+ 10
+ or
+ retrieve
+ 20.
+ It
+
+
+kind
+ of
+ depends
+ on
+ your
+ application.
+ Um
+
+
+it's
+ very
+ fast
+ and
+ very
+ inexpensive
+ to
+
+
+run.
+ And
+ this
+ is
+ very
+ important
+ because
+
+
+it
+ enables
+ you
+ to
+ run
+ a
+ lot
+ of
+
+
+experiments
+ quickly
+ and
+ cheaply.
+ Um
+ you
+
+
+know
+ I'm
+ sure
+ all
+ of
+ you
+ know
+ that
+ like
+
+
+experimentation
+ time
+ and
+ your
+ energy
+ to
+
+
+do
+ experimentation
+ goes
+ down
+
+
+significantly
+ when
+ you
+ have
+ to
+ click
+ go
+
+
+and
+ then
+ come
+ back
+ six
+ hours
+ later.
+ Um
+
+
+all
+ of
+ these
+ metrics
+ should
+ run
+
+
+extremely
+ quickly
+ for
+ pennies.
+
+
+So
+ maybe
+ you
+ don't
+ have
+ yet,
+ you
+ have
+
+
+your
+ documents,
+ you
+ have
+ your
+ chunks,
+
+
+you
+ know,
+ you
+ have
+ your
+ stuff
+ in
+ your
+
+
+retrieval
+ system,
+ but
+ you
+ don't
+ have
+
+
+queries
+ yet.
+ That's
+ okay.
+ Um,
+ we
+ found
+
+
+that
+ you
+ can
+ actually
+ use
+ an
+ LLM
+ to
+
+
+write
+ questions
+ and
+ write
+ good
+
+
+questions.
+ Um,
+ you
+ know,
+ I
+ think
+ just
+
+
+doing
+ naive
+ like,
+ "Hey
+ LM,
+ write
+ me
+ a
+
+
+question
+ for
+ this
+ document."
+ Not
+ a
+ great
+
+
+strategy.
+ However,
+ we
+ found
+ that
+ you
+ can
+
+
+actually
+ teach
+ LLMs
+ how
+ to
+ write
+
+
+queries.
+
+
+Um,
+ these
+ slides
+ are
+ getting
+ a
+ little
+
+
+bit
+ cropped.
+ I'm
+ not
+ sure
+ why,
+ but
+ we'll
+
+
+make
+ the
+ most
+ of
+ it.
+ Um,
+ to
+ give
+ you
+ an
+
+
+example.
+ So,
+ this
+ is
+ actually
+ a
+ um
+
+
+example
+ from
+ one
+ of
+ the
+ MTe
+ kind
+ of
+ the
+
+
+golden
+ data
+ sets
+ around
+ embedding
+
+
+models,
+ benchmark
+ data
+ sets.
+ Um,
+ this
+
+
+also
+ points
+ to
+ the
+ fact
+ that
+ like
+ many
+
+
+of
+ these
+ benchmark
+ data
+ sets
+ are
+ overly
+
+
+clean,
+ right?
+ What
+ is
+ a
+ pergola
+ used
+ for
+
+
+in
+ a
+ garden?
+ And
+ then
+ the
+ beginning
+ of
+
+
+that
+ sentence
+ is
+ a
+ pergola
+ in
+ a
+ garden
+
+
+dot
+ dot
+ dot
+ dot
+ dot.
+ Um,
+ real
+ world
+ data
+
+
+is
+ never
+ this
+ clean.
+ Um
+ so
+ what
+ we
+ did
+
+
+in
+ this
+ report
+ um
+ the
+ link
+ is
+ in
+ a
+ few
+
+
+slides.
+ Um
+ we
+ did
+ a
+ huge
+ deep
+ dive
+ into
+
+
+how
+ can
+ we
+ actually
+ align
+ queries
+ that
+
+
+are
+ representative
+ of
+ real
+ world
+
+
+queries.
+ It's
+ too
+ easy
+ to
+ trick
+ yourself
+
+
+into
+ thinking
+ that
+ your
+ system's
+ working
+
+
+really
+ well
+ with
+ synthetic
+ queries
+ that
+
+
+are
+ overly
+ specific
+ to
+ your
+ data.
+ Um
+ and
+
+
+so
+ what
+ these
+ graphs
+ show
+ is
+ that
+ we're
+
+
+actually
+ able
+ to
+ semantically
+ align
+ the
+
+
+specificity
+ of
+ queries
+ synthetically
+
+
+generated
+ to
+ real
+ queries
+ that
+ users
+
+
+might
+ ask
+ of
+ your
+ system.
+
+
+So
+ what
+ this
+ enables
+ is,
+ you
+ know,
+ if
+ a
+
+
+new
+ cool
+ sexy
+ embedding
+ model
+ comes
+ out
+
+
+and
+ it's
+ doing
+ really
+ well
+ in
+ the
+ MTB
+
+
+score
+ and
+ everybody
+ on
+ Twitter
+ is
+
+
+talking
+ about
+ it,
+ instead
+ of
+ just,
+ you
+
+
+know,
+ going
+ into
+ your
+ code
+ and
+ changing
+
+
+it
+ and
+ guessing
+ and
+ checking
+ and
+ hoping
+
+
+that
+ it's
+ going
+ to
+ work,
+ um,
+ you
+ now
+ can
+
+
+empirically
+ say
+ whether
+ it's
+ good,
+
+
+better
+ or
+ not
+ for
+ your
+ data,
+ um,
+ and
+ you
+
+
+know,
+ the
+ kind
+ of
+ example
+ here
+ is
+ quite
+
+
+contrived
+ and
+ simple.
+ Um,
+ you
+ know,
+ but
+
+
+you
+ can
+ actually
+ look
+ at
+ the
+ actual
+
+
+success
+ rate.
+ Okay,
+ great.
+ These
+ are
+ the
+
+
+queries
+ that
+ I
+ care
+ about.
+ Do
+ I
+ get
+ back
+
+
+more
+ documents
+ than
+ I
+ did
+ before?
+ If
+ so,
+
+
+maybe
+ you
+ should
+ consider
+ changing.
+ Now,
+
+
+of
+ course,
+ you
+ need
+ to
+ re-mbed
+ your
+
+
+data.
+ That
+ service
+ could
+ be
+ more
+
+
+expensive.
+ It
+ could
+ be
+ slower.
+ The
+ API
+
+
+for
+ that
+ service
+ could
+ be
+ flaky.
+ There's
+
+
+a
+ lot
+ of
+ considerations
+ obviously
+ with
+
+
+making
+ very
+ good
+ engineering
+ decisions.
+
+
+Um,
+ but
+ clearly
+ the
+ north
+ star
+ of
+ like
+
+
+success
+ rate
+ of
+ how
+ many
+ documents
+ that
+
+
+I
+ get
+ for
+ my
+ queries.
+ Super
+ fast
+ and
+
+
+super
+ useful
+ and
+ makes
+ your
+ improvement
+
+
+of
+ your
+ system
+ much
+ more
+ systematic
+ and
+
+
+deterministic.
+ All right.
+ So
+ we
+ actually
+
+
+uh
+ worked
+ with
+ weights
+ and
+ biases
+ um
+
+
+looking
+ at
+ their
+ chatbot
+ um
+ to
+ kind
+ of
+
+
+ground
+ a
+ lot
+ of
+ this
+ work.
+ So
+ what
+ you
+
+
+see
+ here
+ is
+ for
+ the
+ weights
+ and
+ biases
+
+
+chatbot
+ um
+ you
+ can
+ see
+ four
+ different
+
+
+embedding
+ models
+ and
+ you
+ can
+ see
+ the
+
+
+recall
+ at
+ 10
+ across
+ those
+ four
+ different
+
+
+embedding
+ models.
+ And
+ then
+ I'll
+ point
+
+
+out
+ that
+ uh
+ blue
+ is
+ ground
+ truth.
+ So
+
+
+these
+ are
+ actual
+ queries
+ that
+ were
+
+
+logged
+ um
+ in
+ weave
+ and
+ then
+ sent
+ over.
+
+
+And
+ then
+ there's
+ generated.
+ These
+ are
+
+
+the
+ ones
+ that
+ are
+ synthetically
+
+
+generated.
+ And
+ we
+ want
+ to
+ see
+ is
+ a
+ few
+
+
+things.
+ We
+ want
+ to
+ see
+ that
+ those
+ are
+
+
+pretty
+ close
+ and
+ we
+ want
+ to
+ see
+ that
+
+
+they
+ are
+ always
+ the
+ same
+ kind
+ of
+ in
+
+
+order
+ of
+ accuracy,
+ right?
+ We
+ don't
+ want
+
+
+to
+ see
+ any
+ like
+ big
+ flips
+ between
+ um
+
+
+ground
+ truth
+ and
+ generated
+ and
+ uh
+ we're
+
+
+really
+ happy
+ to
+ see
+ that
+ we
+ found
+ uh
+
+
+that
+ answer.
+ Now
+ there
+ are
+ a
+ few
+ fun
+
+
+findings
+ here
+ which
+ is
+ and
+ of
+ course
+
+
+they're
+ going to
+ get
+ crocked
+ out
+ but
+
+
+that's
+ okay.
+ Um
+ number
+ one
+ uh
+ the
+
+
+original
+ embedding
+ model
+ used
+ for
+ this
+
+
+application
+ was
+ actually
+ text
+ embedding
+
+
+three
+ small.
+ um
+ this
+ actually
+ performed
+
+
+the
+ worst
+ out
+ of
+ all
+ the
+ embedding
+
+
+models
+ that
+ we
+ evaluated
+ just
+ for
+ in
+
+
+this
+ case.
+ Um
+ and
+ so
+ probably
+ wasn't
+ the
+
+
+best
+ choice.
+ Um
+ the
+ second
+ one
+ was
+ that
+
+
+actually
+ if
+ you
+ look
+ at
+ MTeb
+ Gina
+
+
+embeddings
+ v3
+ does
+ very
+ well
+ in
+ English.
+
+
+It's
+ like
+ you
+ know
+ way
+ better
+ than
+
+
+anything
+ else
+ but
+ for
+ this
+ application
+
+
+uh
+ it
+ didn't
+ actually
+ perform
+ that
+ well.
+
+
+It
+ was
+ actually
+ the
+ voyage
+ 3
+ large
+ model
+
+
+which
+ performed
+ the
+ best
+ and
+ that
+ was
+
+
+empirically
+ determined
+ by
+ actually
+
+
+running
+ this
+ fast
+ evval
+ and
+ looking
+ at
+
+
+your
+ data.
+ That's
+ number
+ three.
+
+
+All
+ right.
+ All right.
+ So,
+ if
+ you'd
+ like
+
+
+access
+ to
+ the
+ full
+ report,
+ um,
+ you
+ can
+
+
+scan
+ this
+ QR
+ code.
+ It's
+ at
+
+
+research.tra.com.
+ There's
+ also
+ an
+
+
+adjoining
+ video
+ which
+ is
+ kind
+ of
+
+
+screenshotted
+ here,
+ which
+ goes
+ into
+ much
+
+
+more
+ detail.
+ There
+ are
+ full
+ notebooks
+
+
+with
+ all
+ the
+ code.
+ It's
+ all
+ open
+ source.
+
+
+You
+ can
+ run
+ it
+ on
+ your
+ own
+ data.
+ And
+ um,
+
+
+hopefully
+ this
+ is
+ helpful
+ for
+ you
+ all
+
+
+thinking
+ about
+ how
+ again
+ you
+ can
+
+
+systematically
+ and
+ deterministically
+
+
+improve
+ your
+ retrieval
+ systems.
+ And
+ with
+
+
+that,
+ I'll
+ hand
+ it
+ over
+ to
+ Jason.
+ Thank
+
+
+you.
+
+
+So,
+ you
+ know,
+ if
+ you're
+ working
+ with
+
+
+some
+ kind
+ of
+ system,
+ there's
+ always
+
+
+going
+ to
+ be
+ the
+ inputs
+ that
+ we
+ look
+ at.
+
+
+And
+ so
+ we
+ talked
+ about
+ maybe
+ thinking
+
+
+about
+ things
+ like
+ retrieval,
+ how
+ does
+
+
+the
+ embeddings
+ work?
+ But
+ ultimately
+ we
+
+
+also
+ have
+ to
+ look
+ at
+ the
+ outputs,
+ right?
+
+
+And
+ the
+ outputs
+ of
+ many
+ systems
+ might
+ be
+
+
+the
+ outputs
+ of
+ a
+ conversation
+ that
+ has
+
+
+happened,
+ a
+ you
+ know
+ agent
+ execution
+
+
+that
+ has
+ happened.
+ And
+ the
+ idea
+ is
+ that
+
+
+if
+ you
+ can
+ look
+ at
+ these
+ outputs,
+ maybe
+
+
+we
+ can
+ do
+ some
+ kind
+ of
+ analysis
+ that
+
+
+figures
+ out,
+ you
+ know,
+ what
+ kind
+ of
+
+
+product
+ should
+ we
+ build,
+ what
+ kind
+ of
+
+
+portfolio
+ of
+ tools
+ should
+ we
+ develop
+ for
+
+
+our
+ agents
+ and
+ so
+ forth.
+
+
+And
+ so
+ the
+ idea
+ is,
+ you
+ know,
+ if
+ you
+
+
+have
+ a
+ bunch
+ of
+ queries
+ that
+ users
+ are
+
+
+putting
+ in
+ or
+ even
+ a
+ couple
+ of
+ hundred
+
+
+of
+ conversations,
+ it's
+ pretty
+ good
+ to
+
+
+just
+ look
+ at
+ everything
+ manually,
+ right?
+
+
+Think
+ very
+ carefully
+ about
+ each
+
+
+interaction
+ and
+ then
+ only
+ use
+ these
+
+
+models
+ when
+ they
+ make
+ sense.
+ And
+ then
+
+
+oftent
+ times
+ if
+ I
+ say
+ this,
+ they
+ can
+
+
+say,
+ you
+ know
+ what,
+ if
+ we
+ just
+ put
+
+
+everything
+ in
+ 03
+ and
+ then
+ here,
+
+
+generally
+ only
+ use
+ the
+ language
+ models
+
+
+if
+ you
+ think
+ you're
+ not
+ smarter
+ than
+ the
+
+
+language
+ model.
+
+
+Then
+ when
+ you
+ have
+ a
+ lot
+ of
+ users
+ and
+
+
+actual
+ good
+ product,
+ you
+ might
+ get
+
+
+thousands
+ of
+ queries
+ or
+ tens
+ of
+
+
+thousands
+ of
+ conversations
+ and
+ now
+ you
+
+
+run
+ into
+ an
+ issue
+ where
+ there's
+ too
+ much
+
+
+volume
+ to
+ manually
+ review.
+ There's
+ too
+
+
+much
+ detail
+ in
+ the
+ conversations
+ and
+
+
+you're
+ not
+ really
+ going
+ to
+ be
+ the
+ expert
+
+
+that
+ can
+ actually
+ figure
+ out
+ what
+ is
+
+
+useful
+ and
+ what
+ is
+ good.
+ And
+ ultimately
+
+
+with
+ these
+ long
+ conversations
+ with
+ tool
+
+
+calls
+ and
+ chains
+ and
+ reasoning
+ steps,
+
+
+these
+ outputs
+ are
+ now
+ really
+ hard
+ to
+
+
+scan
+ and
+ really
+ hard
+ to
+ understand.
+ But
+
+
+there's
+ still
+ a
+ lot
+ of
+ value
+ in
+ these
+
+
+conversations,
+ right?
+ If
+ you've
+ used
+ a
+
+
+chatbot,
+ whether
+ it's
+ in
+ cursor
+ or
+ any
+
+
+kind
+ of
+ like
+ cloud
+ code
+ system,
+
+
+oftentimes
+ you
+ do
+ say
+ things
+ like,
+ "Try
+
+
+again.
+ This
+ is
+ not
+ really
+ what
+ I
+ meant,
+
+
+you
+ know,
+ be
+ less
+ lazy
+ next
+ time."
+ It
+
+
+turns
+ out
+ a
+ lot
+ of
+ the
+ feedback
+ you
+ give
+
+
+is
+ in
+ those
+ conversations,
+ right?
+ We
+
+
+could
+ build
+ things
+ like
+ feedback
+ widgets
+
+
+or
+ thumbs
+ up
+ or
+ thumbs
+ down,
+ but
+ a
+ lot
+
+
+of
+ the
+ information
+ exists
+ in
+ those
+
+
+conversations.
+ and
+ the
+ frustration
+ and
+
+
+the
+ retry
+ patterns
+ that
+ exist
+ can
+ be
+
+
+extracted
+ from
+ those
+ conversations
+ and
+
+
+the
+ idea
+ is
+ that
+ the
+ data
+ really
+ already
+
+
+exists
+ in
+ this
+ conversation.
+ If
+ we
+ think
+
+
+of
+ a
+ simple
+ example
+ in
+ a
+ different
+
+
+industry,
+ you
+ know,
+ we
+ can
+ imagine
+ the
+
+
+analogy
+ of
+ marketing,
+ right?
+ Maybe
+ we
+
+
+run
+ our
+ evals
+ and
+ the
+ number
+ is
+ 0.5.
+ I
+
+
+don't
+ really
+ know
+ what
+ that
+ means.
+
+
+Factuality
+ is
+ point6.
+ I
+ don't
+ know if
+
+
+that's
+ good
+ or
+ bad
+ is
+ 0.5.
+ The
+ average,
+
+
+who
+ knows?
+ But
+ imagine
+ we
+ run
+ a
+
+
+marketing
+ campaign
+ and
+ our,
+ you
+ know,
+ ad
+
+
+metric
+ or
+ our
+ KPI
+ is
+ 0.5.
+ There's
+ not
+
+
+much
+ we
+ can
+ do.
+ But
+ if
+ we
+ realize
+ that
+
+
+80%
+ of
+ our
+ users
+ are
+ under
+ 35
+ and
+ 20%
+
+
+are
+ over
+ and
+ we
+ realize
+ that
+ the
+ younger
+
+
+audience
+ performs
+ well
+ and
+ the
+ older
+
+
+audience
+ performs
+ poorly.
+ What
+ we've
+
+
+done
+ is
+ we've
+ just
+ drawn
+ a
+ line
+ in
+ the
+
+
+sand
+ on
+ who
+ our
+ users
+ are.
+ And
+ now
+ we
+
+
+can
+ make
+ a
+ decision.
+ Do
+ we
+ want
+ to
+
+
+double
+ down
+ on
+ marketing
+ to
+ a
+ younger
+
+
+audience
+ or
+ do
+ we
+ want
+ to
+ figure
+ out
+ why
+
+
+we
+ aren't
+ uh
+ successfully
+ marketing
+ to
+
+
+to
+ the
+ older
+ population,
+ right?
+ Do
+ I
+
+
+find
+ more
+ part
+ podcasts
+ to
+ market
+ to?
+
+
+You
+ know,
+ should
+ I
+ run
+ a
+ Super
+ Bowl
+ ad?
+
+
+Now,
+ just
+ by
+ drawing
+ a
+ line
+ in
+ the
+ sand
+
+
+and
+ deciding
+ which
+ segment
+ to
+ target,
+ we
+
+
+can
+ now
+ make
+ decisions
+ on
+ what
+ to
+
+
+improve.
+ Whereas
+ just
+ making
+ them
+ ads
+
+
+better
+ is
+ a
+ sort
+ of
+ very
+ generic
+
+
+sentiment
+ that
+ people
+ can
+ have.
+
+
+And
+ so
+ one
+ of
+ the
+ best
+ ways
+ of
+ doing
+
+
+that
+ is
+ effectively
+ just
+ extracting
+ some
+
+
+kind
+ of
+ data
+ out
+ of
+ these
+ conversations
+
+
+in
+ some
+ structured
+ way
+ and
+ just
+ doing
+
+
+very
+ traditional
+ data
+ analysis.
+ And
+ so
+
+
+here
+ we
+ have
+ some
+ kind
+ of
+ object
+ that
+
+
+says
+ I
+ want
+ to
+ extract
+ a
+ summary
+ of
+ what
+
+
+has
+ happened.
+ Maybe
+ some
+ tools
+ that
+ it's
+
+
+used
+ maybe
+ the
+ errors
+ that
+ we've
+ noticed
+
+
+the
+ conversations
+ that
+ that
+ happened.
+
+
+Maybe
+ some
+ metric
+ for
+ for
+ satisfaction
+
+
+maybe
+ some
+ metric
+ for
+ frustration.
+ The
+
+
+idea
+ is
+ that
+ we
+ can
+ build
+ this
+ portfolio
+
+
+of
+ metadata
+ that
+ we
+ can
+ extract.
+ And
+
+
+then
+ what
+ we
+ can
+ do
+ is
+ we
+ can
+ embed
+ this
+
+
+find
+ clusters
+ identify
+ segments
+ and
+ then
+
+
+start
+ testing
+ our
+ hypothesis.
+
+
+And
+ so
+ what
+ we
+ what
+ we
+ might
+ want
+ to
+ do
+
+
+is
+ sort
+ of
+ build
+ this
+ extraction,
+ put
+
+
+into
+ an
+ LLM,
+ get
+ this
+ data
+ back
+ out
+ and
+
+
+just
+ start
+ doing
+ very
+ traditional
+ data
+
+
+analysis,
+ no
+ different
+ than
+ any
+ kind
+ of
+
+
+uh
+ product
+ engineer
+ or
+ any
+ kind
+ of
+ data
+
+
+scientist.
+ And
+ this
+ tends
+ to
+ work
+ quite
+
+
+well.
+ You
+ know,
+ if
+ you
+ look
+ at
+ some
+ of
+
+
+the
+ things
+ that
+ Anthropic
+ Cleo
+ did,
+ they
+
+
+basically
+ found
+ that,
+ you
+ know,
+ uh
+ code
+
+
+use
+ was
+ 40x
+ more
+ represented
+ by
+ cloud
+
+
+cloud
+ users
+ than
+ by
+ you
+ know
+ uh
+ GDP
+
+
+value
+ creation.
+ they
+ go
+ okay
+ maybe
+ code
+
+
+is
+ like
+ a
+ good
+ avenue
+ and
+ and
+ obviously
+
+
+that's
+ not
+ the
+ really
+ the
+ case
+ but
+ the
+
+
+idea
+ is
+ that
+ by
+ understanding
+ how
+ your
+
+
+users
+ develop
+ a
+ product
+ you
+ can
+ now
+
+
+figure
+ out
+ where
+ to
+ invest
+ your
+ time
+ and
+
+
+so
+ this
+ is
+ why
+ we
+ built
+ a
+ library
+ called
+
+
+cura
+ that
+ allows
+ us
+ to
+ summarize
+
+
+conversations
+ cluster
+ them
+ build
+
+
+hierarchies
+ of
+ these
+ clusters
+ and
+
+
+ultimately
+ allow
+ us
+ to
+ compare
+ our
+ eval
+
+
+across
+ different
+ KPIs
+ again
+ so
+ now
+ you
+
+
+know
+ if
+ we
+ have
+ factuality
+ is
+ 6
+ that's
+
+
+really
+ hard
+ but
+ if
+ it
+ turns
+ out
+ that
+
+
+factuality
+ is
+ really
+ low
+ for
+ queries
+
+
+that
+ require
+ time
+ filters,
+ right?
+ Or
+
+
+factuality
+ is
+ really
+ high
+ when
+ queries
+
+
+revolve
+ on,
+ you
+ know,
+ contract
+ search.
+
+
+Now
+ we
+ know
+ something's
+ happening
+ in
+ one
+
+
+area,
+ something's
+ happening
+ in
+ another.
+
+
+And
+ then
+ we
+ can
+ make
+ a
+ decision
+ on
+ what
+
+
+to
+ do
+ and
+ how
+ to
+ invest
+ our
+ time.
+ And
+
+
+the
+ pipeline
+ is
+ pretty
+ simple.
+ We
+ have
+
+
+models
+ to
+ do
+ summarization,
+ models
+ to
+ do
+
+
+clustering,
+ and
+ models
+ that
+ do
+ this
+
+
+aggregation
+ step.
+
+
+And
+ so
+ what
+ you
+ might
+ want
+ to
+ do
+ is
+ just
+
+
+load
+ in
+ some
+ conversations.
+ And
+ here
+
+
+we've
+ made
+ some
+ a
+ fake
+ data
+ set,
+ maybe
+
+
+conversations,
+ fake
+ conversations
+ from
+
+
+Gemini.
+ And
+ the
+ idea
+ is
+ that
+ first
+ we
+
+
+can
+ extract
+ some
+ kind
+ of
+ summary
+ model
+
+
+where
+ there's
+ topics
+ that
+ we
+ discuss,
+
+
+frustrations,
+ errors,
+ etc.
+ We
+ can
+ then
+
+
+cluster
+ them
+ to
+ find
+ cohesive
+ groups.
+
+
+And
+ here
+ we
+ can
+ find
+ maybe
+ you
+ know
+ some
+
+
+of
+ the
+ conversations
+ are
+ around
+ data
+
+
+visualization,
+ SEO
+ content
+ requests
+ and
+
+
+authentication
+ errors.
+ And
+ now
+ we
+ get
+
+
+some
+ idea
+ of
+ how
+ people
+ are
+ using
+ the
+
+
+software.
+ And
+ then
+ as
+ we
+ group
+ them
+
+
+together,
+ we
+ realize,
+ okay,
+ really
+ there
+
+
+are
+ some
+ themes
+ around
+ technical
+
+
+support.
+ Does
+ the
+ agent
+ have
+ tools
+ that
+
+
+can
+ do
+ this?
+ as
+ well.
+ Do
+ we
+ have
+ tools
+
+
+to
+ debug
+ these
+ database
+ issues?
+ Do
+ we
+
+
+have
+ tools
+ to
+ debug
+ authentication?
+ Do
+
+
+we
+ have
+ tools
+ to
+ do
+ data
+ visualization?
+
+
+Um,
+ that's
+ something
+ that's
+ going
+ to
+ be
+
+
+very
+ useful.
+ And
+ at
+ the
+ end
+ of
+ this
+
+
+pipeline,
+ we're
+ sort
+ of
+ presented
+ with
+
+
+these
+ printouts
+ of
+ clusters,
+ right?
+ We
+
+
+know
+ what
+ the
+ tools
+ are,
+ how
+ the
+ chatbot
+
+
+is
+ being
+ used
+ at
+ a
+ higher
+ level,
+ you
+
+
+know,
+ SEO,
+ content,
+ data
+ analysis,
+ and
+
+
+at
+ a
+ lower
+ level,
+ you
+ know,
+ maybe
+ it's
+
+
+blog
+ post
+ and
+ marketing.
+ And
+ just
+ by
+
+
+looking
+ at
+ this,
+ we
+ might
+ have
+ some
+
+
+hypothesis
+ as
+ to
+ what
+ kind
+ of
+ tools
+ we
+
+
+should
+ build,
+ how
+ we
+ should,
+ you
+ know,
+
+
+develop,
+ you
+ know,
+ even
+ our
+ marketing
+ or
+
+
+how
+ we
+ can
+ think
+ about
+ changing
+ our
+
+
+prompts.
+ We
+ can
+ do
+ a
+ ton
+ of
+ these
+ kinds
+
+
+of
+ things.
+ And
+ this
+ is
+ because
+ the
+
+
+ultimate
+ goal
+ is
+ to
+ understand
+ what
+ to
+
+
+do
+ next,
+ right?
+ You
+ do
+ the
+ segmentation
+
+
+to
+ figure
+ out
+ what
+ kind
+ of
+ new
+
+
+hypotheses
+ that
+ you
+ can
+ have.
+ And
+ then
+
+
+you
+ can
+ make
+ these
+ targeted
+ investments
+
+
+within
+ these
+ certain
+ segments.
+ If
+ it
+
+
+turns
+ out
+ that,
+ you
+ know,
+ 80%
+ of
+ the
+
+
+conversations
+ that
+ I'm
+ having
+ with
+ the
+
+
+chatbot
+ is
+ around
+ SEO
+ optimization,
+
+
+maybe
+ I
+ should
+ have
+ some
+ integrations
+
+
+that
+ do
+ that.
+ Maybe
+ I
+ should
+ reevaluate
+
+
+the
+ prompts
+ or
+ have
+ other
+ workflows
+ to
+
+
+make
+ that
+ use
+ case
+ more
+ powerful
+ for
+
+
+them.
+ And
+ again,
+ the
+ goal
+ really
+ is
+ to
+
+
+just
+ make
+ a
+ portfolio
+ of
+ tools
+ of
+
+
+metadata
+ filters
+ of
+ data
+ sources
+ that
+
+
+allows
+ the
+ agent
+ to
+ do
+ its
+ job.
+ And
+
+
+oftent
+ times
+ the
+ solution
+ isn't
+ really
+
+
+making
+ the
+ AI
+ better.
+ It's
+ really
+ just
+
+
+providing
+ the
+ right
+ infrastructure.
+
+
+Right?
+ A
+ lot
+ of
+ times
+ if
+ you
+ find
+ that
+ a
+
+
+lot
+ of
+ queries
+ use
+ time
+ filters
+ and
+ you
+
+
+just
+ didn't
+ add
+ a
+ time
+ filter
+ that
+ can
+
+
+probably
+ improve
+ your
+ eval
+ by
+ quite
+ a
+
+
+bit
+ right
+ we
+ have
+ situations
+ where
+ we
+
+
+wanted
+ to
+ figure
+ out
+ if
+ contracts
+ were
+
+
+signed
+ and
+ if
+ we
+ just
+ extracted
+ one
+ more
+
+
+step
+ in
+ the
+ OCR
+ process
+ now
+ we
+ can
+ do
+
+
+this
+ large
+ scale
+ filters
+ and
+ figure
+ out
+
+
+you
+ know
+ what
+ data
+ exists
+
+
+and
+ generally
+ the
+ practice
+ of
+ improving
+
+
+your
+ applications
+ is
+ pretty
+
+
+straightforward
+ right
+ we
+ all
+ know
+ to
+
+
+define
+ eval
+ but
+ not
+ everyone
+ that
+ I
+ work
+
+
+with
+ has
+ really
+ been
+ thinking
+ about
+
+
+something
+ like
+ finding
+ clusters
+ and
+
+
+comparing
+ KPIs
+ across
+ clusters.
+ But
+ once
+
+
+you
+ do,
+ then
+ you
+ can
+ start
+ making
+
+
+decisions
+ on
+ what
+ to
+ build,
+ what
+ to
+ fix,
+
+
+and
+ what
+ to
+ ignore.
+ Maybe
+ you
+ have
+ a
+
+
+two-sided
+ uh
+ quadrants,
+ right?
+ Maybe
+ you
+
+
+have
+ low
+ usage
+ and
+ high
+ usage,
+ and
+ you
+
+
+have
+ high
+ performing
+ evals
+ and
+ low
+
+
+performing
+ evals,
+ right?
+ If
+ a
+ large
+
+
+portion
+ of
+ your
+ population
+ are
+ using
+
+
+tools
+ that
+ you
+ are
+ bad
+ at,
+ that
+ is
+
+
+clearly
+ the
+ thing
+ you
+ have
+ to
+ fix.
+ But
+
+
+if
+ a
+ large
+ proportion
+ of
+ people
+ are
+
+
+using
+ tools
+ that
+ you're
+ good
+ at,
+ that's
+
+
+totally
+ fine.
+ If
+ a
+ small
+ proportion
+ of
+
+
+people
+ use
+ something
+ that
+ do
+ something
+
+
+that
+ you're
+ good
+ at,
+ maybe
+ there's
+ some
+
+
+product
+ changes
+ you
+ need
+ to
+ make.
+ Maybe
+
+
+it's
+ about
+ educating
+ the
+ user.
+ Maybe
+
+
+it's
+ adding
+ some,
+ you
+ know,
+ pre-filler
+
+
+or
+ automated
+ questions
+ to
+ show
+ them
+ that
+
+
+we
+ can
+ do
+ these
+ kind
+ of
+ capabilities.
+
+
+And
+ if
+ there
+ are
+ things
+ that
+ nobody
+
+
+does,
+ but
+ when
+ we
+ do
+ them,
+ they're
+ bad,
+
+
+maybe
+ that's
+ a
+ oneline
+ change
+ in
+ the
+
+
+prompt
+ that
+ says,
+ "Sorry,
+ I
+ can't
+ help
+
+
+you.
+ Go
+ talk
+ to
+ your
+ manager."
+ Right?
+
+
+These
+ are
+ now
+ decisions
+ that
+ we
+ can
+ make
+
+
+just
+ by
+ looking
+ at,
+ you
+ know,
+ what
+
+
+proportion
+ of
+ our
+ conversations
+ are
+ of
+ a
+
+
+certain
+ category
+ and
+ whether
+ or
+ not
+ we
+
+
+can
+ do
+ well
+ in
+ that
+ category.
+ And
+ as
+ you
+
+
+understand
+ this,
+ then
+ you
+ can
+ go
+ out,
+
+
+you
+ can
+ build
+ these
+ classifiers
+ to
+
+
+identify
+ these
+ specific
+ intents.
+ Maybe
+
+
+you
+ build
+ routers,
+ maybe
+ you
+ build
+ more
+
+
+tools.
+ And
+ then
+ you
+ can
+ start
+ doing
+
+
+things
+ like
+ monitoring
+ and
+ having
+ the
+
+
+ability
+ to
+ do
+ these
+ group
+ buys,
+ right?
+
+
+So
+ now
+ you
+ have
+ different
+ categories
+ of
+
+
+query
+ types
+ over
+ time
+ and
+ you
+ can
+ just
+
+
+see
+ what
+ the
+ performance
+ looks
+ like,
+
+
+right?
+ where
+ 0.5
+ doesn't
+ really
+ mean
+
+
+anything
+ but
+ whether
+ or
+ not
+ a
+ metric
+
+
+changes
+ over
+ time
+ across
+ a
+ certain
+
+
+category
+ can
+ determine
+ a
+ lot
+ about
+ how
+
+
+your
+ products
+ is
+ being
+ used.
+ By
+ doing
+
+
+this
+ we
+ figured
+ out
+ that
+ you
+ know
+ some
+
+
+customers
+ when
+ we
+ onboard
+ them
+ they
+ they
+
+
+use
+ our
+ applications
+ very
+ differently
+
+
+than
+ our
+ historical
+ customers
+ and
+ we
+ can
+
+
+now
+ then
+ make
+ other
+ investments
+ in
+ how
+
+
+to
+ improve
+ these
+ systems
+ and
+ ultimately
+
+
+the
+ goal
+ is
+ to
+ create
+ a
+ datadriven
+ way
+
+
+of
+ defining
+ the
+ product
+ roadmap.
+
+
+Oftentimes
+ it
+ is
+ research
+ that
+ leads
+ to
+
+
+better
+ products
+ now
+ rather
+ than
+ products
+
+
+justifying
+ some
+ research
+ that
+ we
+ don't
+
+
+know
+ is
+ possible.
+
+
+And
+ again
+ the
+ real
+ marker
+ of
+ progress
+ is
+
+
+your
+ ability
+ to
+ have
+ a
+ high
+ quality
+
+
+hypothesis
+ and
+ your
+ ability
+ to
+ test
+ a
+
+
+lot
+ of
+ these
+ hypotheses.
+ And
+ if
+ you
+
+
+segment
+ you
+ can
+ make
+ clearer
+ hypotheses.
+
+
+If
+ you
+ use
+ faster
+ evals
+ you
+ can
+ run
+ more
+
+
+experiments.
+ And
+ by
+ having
+ this
+
+
+continuous
+ feedback
+ through
+ monitoring
+
+
+this
+ is
+ how
+ you
+ actually
+ build
+ a
+
+
+product.
+ Right?
+ This
+ is
+ regardless
+ of
+
+
+being
+ an
+ AI
+ product.
+ This
+ is
+ just
+ how
+
+
+you
+ build
+ a
+ product.
+
+
+And
+ so
+ if
+ you
+ look
+ at
+ the
+ takeaways
+
+
+really
+ when
+ you
+ think
+ about
+ measuring
+
+
+the
+ inputs,
+ we
+ really
+ want
+ to
+ think
+
+
+about
+ not
+ using
+ public
+ benchmarks,
+
+
+building
+ evals
+ on
+ your
+ data
+ and
+ focusing
+
+
+first
+ on
+ retrieval
+ because
+ that
+ is
+ the
+
+
+only
+ thing
+ a
+ LLM
+ improvement
+ won't
+ fix,
+
+
+right?
+ If
+ the
+ retrieval
+ is
+ bad,
+ the
+ LLM
+
+
+will
+ still
+ get
+ better
+ over
+ time,
+ but
+ you
+
+
+need
+ to
+ earn
+ the
+ right
+ to
+ sort
+ of
+ twink
+
+
+tinker
+ with
+ the
+ LLM
+ by
+ having
+ good
+
+
+retrieval.
+ And
+ then
+ lastly,
+ if
+ you
+ don't
+
+
+have
+ any
+ customers
+ or
+ any
+ users,
+ you
+ can
+
+
+start
+ thinking
+ about
+ synthetic
+ data
+ as
+ a
+
+
+way
+ of
+ augmenting
+ that.
+ And
+ once
+ you
+
+
+have
+ users,
+ look
+ at
+ your
+ data
+ as
+ well.
+
+
+Look
+ at
+ the
+ outputs,
+ right?
+ Extract
+
+
+structure
+ from
+ these
+ conversations.
+
+
+Understand,
+ you
+ know,
+ how
+ many
+
+
+conversations
+ are
+ happening?
+ How
+ often
+
+
+are
+ tools
+ being
+ misused?
+ What
+ are
+ the
+
+
+errors?
+ And
+ how
+ are
+ people
+ frustrated?
+
+
+And
+ by
+ doing
+ that,
+ you
+ can
+ do
+ this
+
+
+population
+ level
+ data
+ analysis,
+ find
+
+
+these
+ similar
+ clusters,
+ and
+ have
+ some
+
+
+kind
+ of
+ impact
+ weighted
+ understanding
+ of
+
+
+what
+ the
+ tools
+ are.
+ Right?
+ It's
+ one
+
+
+thing
+ to
+ say,
+ you
+ know,
+ maybe
+ we
+ should
+
+
+build
+ more
+ tools
+ for
+ data
+ visualization.
+
+
+It's
+ another
+ thing
+ to
+ say,
+ hey
+ boss,
+ 40%
+
+
+of
+ our
+ conversations
+ are
+ around
+ data
+
+
+visualization
+ and
+ the,
+ you
+ know,
+ the
+
+
+code
+ engine
+ or
+ the
+ code
+ execution
+ can't
+
+
+really
+ do
+ that
+ well.
+ Maybe
+ we
+ should
+
+
+build
+ two
+ more
+ tools
+ for
+ plotting
+ and
+
+
+then
+ see
+ if
+ that's
+ worth
+ it.
+ And
+ you
+ can
+
+
+justify
+ that
+ because
+ we
+ know
+ there's
+ a
+
+
+40%
+ of
+ the
+ population
+ is
+ using
+ data
+
+
+visualization
+ and
+ we
+ do
+ that,
+ you
+ know,
+
+
+maybe
+ only
+ 10%
+ of
+ the
+ time,
+ right?
+ This
+
+
+is
+ impact
+ weighted.
+ And
+ ultimately
+ as
+
+
+you
+ compare
+ these
+ KPIs
+ across
+ these
+
+
+clusters,
+ you
+ can
+ just
+ make
+ better
+
+
+decisions
+ across
+ your
+ entire
+ product
+
+
+development
+ process.
+ So
+ again,
+ start
+
+
+small,
+ look
+ for
+ structure,
+ understand
+
+
+that
+ structure,
+ and
+ start
+ comparing
+ your
+
+
+KPIs.
+ And
+ once
+ you
+ can
+ do
+ that,
+ you
+ can
+
+
+make
+ decisions
+ on
+ what
+ to
+ fix,
+ what
+ to
+
+
+build,
+ and
+ what
+ to
+ ignore.
+
+
+If
+ you
+ want
+ to
+ find
+ more
+ resources,
+ feel
+
+
+free
+ to
+ check
+ out
+ these
+ QR
+ codes.
+ Uh
+ the
+
+
+first
+ one
+ is
+ the
+ Chroma
+ cloud
+ to
+
+
+understand
+ a
+ little
+ bit
+ more
+ about
+ their
+
+
+research.
+ And
+ the
+ second
+ one
+ is
+ actually
+
+
+a
+ set
+ of
+ notebooks
+ that
+ we've
+ built
+ out
+
+
+that
+ go
+ through
+ this
+ process.
+ So
+ we
+ load
+
+
+the
+ weights
+ and
+ biases
+ conversations.
+ We
+
+
+do
+ this
+ cluster
+ analysis
+ and
+ we
+ show
+ you
+
+
+how
+ we
+ can
+ use
+ that
+ to
+ make
+ better
+
+
+product
+ decisions.
+ So
+ there's
+ three
+
+
+Jupyter
+ notebooks
+ in
+ that
+ repo.
+ Check
+
+
+them
+ out
+ on
+ your
+ own
+ time.
+ And
+ uh
+ thank
+
+
+you
+ for
+ listening.
+ We
+ do
+ have
+ time
+ for
+
+
+we
+ do
+ have
+ time
+ for
+ like
+ one
+ quick
+
+
+question
+ and
+ of
+ course
+ as
+ well
+ outside
+
+
+as
+ well.
+ So
+ thank
+ you
+ if
+ anybody
+ wants
+
+
+to
+ grab
+ the
+ mic
+ there
+ and
+ over
+ there.
+
+
+Y
+
+
+for
+ spicy.
+ What's
+ the
+ spicy
+ take
+ today?
+
+
+It's
+ not
+ KPI,
+ by
+ the
+ way.
+ That's
+ not
+ the
+
+
+spicy.
+ I
+ think
+ I
+ think
+ more
+ agent
+
+
+businesses
+ should
+ try
+ to
+ price
+ and
+ like
+
+
+price
+ their
+ services
+ on
+ the
+ work
+ done
+
+
+than
+ the
+ tokens
+ used.
+ Yeah.
+ Price
+ on
+
+
+success,
+ price
+ on
+ value.
+ Very
+ unrelated
+
+
+to
+ this
+ talk,
+ but
+
+
+[Music]
