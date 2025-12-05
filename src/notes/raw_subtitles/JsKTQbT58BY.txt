@@ -1,0 +1,10088 @@
+Inspiration
+ strikes.
+ You've
+ got
+ an
+ idea
+
+
+and
+ you
+ know
+ exactly
+ how
+ you're
+ going
+ to
+
+
+build
+ it.
+
+
+You
+ fire
+ up
+ your
+ favorite
+ AI
+ coding
+
+
+agent.
+ You
+ jam
+ in
+ those
+ prompts
+ and
+ then
+
+
+you
+ hand
+ it
+ over.
+
+
+Hey,
+ look
+ at
+ him
+ go.
+
+
+[music]
+ He's
+ done
+ it.
+ That
+ is
+ to
+ say,
+
+
+you've
+ done
+ it.
+ The
+ app
+ works.
+ This
+ is
+
+
+what
+ 10x
+ engineering
+ really
+ feels
+ like.
+
+
+You're
+ a
+ genius.
+ A
+ rebel
+ in
+ the
+ AI
+
+
+revolution.
+
+
+But
+ then
+ Monday
+ rolls
+ around.
+ You
+ want
+
+
+to
+ add
+ a
+ feature
+ or
+ you
+ want
+ to
+ change
+
+
+the
+ way
+ that
+ it
+ works
+ and
+ you
+ realize
+
+
+that
+ you
+ don't
+ understand
+ it.
+ You
+ can't
+
+
+maintain
+ it
+ and
+ you
+ have
+ to
+ throw
+ most
+
+
+or
+ all
+ of
+ it
+ away.
+
+
+Vibe
+ coding
+ is
+ the
+ low-spec
+ zero
+
+
+planning
+ approach
+ to
+ AI
+ accelerated
+
+
+development
+ that
+ feels
+ productive
+ but
+
+
+results
+ in
+ brittle
+ unmaintainable
+ demo
+
+
+wear.
+ The
+ hangover
+ is
+ the
+ resulting
+
+
+despair
+ when
+ you
+ try
+ to
+ build
+
+
+maintainable,
+ understandable
+ software
+
+
+this
+ way.
+
+
+Don't
+ worry
+ though,
+ there
+ is
+ a
+ cure
+ and
+
+
+it's
+ the
+ framework
+ for
+ building
+ with
+ AI
+
+
+coding
+ agents
+ that
+ we're
+ going
+ to
+
+
+discuss
+ today.
+
+
+So,
+ you'll
+ enjoy
+ this
+ talk
+ if
+ you
+ value
+
+
+programming
+ as
+ a
+ daily
+ learning
+
+
+experience.
+
+
+If
+ you
+ want
+ to
+ understand
+ and
+ own
+ the
+
+
+software
+ that
+ you
+ write
+ using
+ AI
+ coding
+
+
+agents
+ just
+ as
+ you
+ do
+ all
+ of
+ the
+ other
+
+
+software
+ that
+ you
+ write.
+ If
+ you
+ want
+ to
+
+
+be
+ the
+ boss
+ of
+ the
+ coding
+ agents
+ and
+ not
+
+
+their
+ confused
+ intern.
+
+
+If
+ working
+ with
+ agents
+ makes
+ you
+ feel
+
+
+like
+ a
+ prompt
+ jockey
+ these
+ days
+ and
+ no
+
+
+longer
+ an
+ AI
+ engineer.
+ If
+ you're
+ sick
+ of
+
+
+throwing
+ away
+ code,
+ burning
+ time
+ and
+
+
+tokens,
+ or
+ if
+ you
+ want
+ to
+ use
+ coding
+
+
+agents
+ to
+ build
+ production
+ applications
+
+
+that
+ do
+ real
+ work,
+
+
+on
+ the
+ other
+ hand,
+
+
+>> it's
+ not
+ for
+ you,
+ Jen.
+
+
+>> It's
+ not
+ for
+ you,
+ JEN.
+ [laughter]
+
+
+>> It's
+ not
+ for
+ you,
+ Jen.
+
+
+This
+ talk
+ is
+ not
+ for
+ you
+ if
+ programming
+
+
+is
+ a
+ job
+ and
+ not
+ a
+ craft
+ that
+ you're
+
+
+refining
+ and
+ that
+ works
+ for
+ you.
+ If
+
+
+you're
+ satisfied
+ just
+ having
+ AI
+ do
+ it
+
+
+for
+ you
+ without
+ needing
+ to
+ understand
+
+
+how
+ or
+ why
+ or
+ if
+ vibe
+ coding
+ gets
+ you
+
+
+what
+ you
+ need
+ and
+ that's
+ good
+ enough.
+
+
+And
+ these
+ statements
+ aren't
+ a
+ judgment.
+
+
+They're
+ just
+ very
+ different
+ paths
+ than
+
+
+what
+ we're
+ taking
+ today.
+
+
+I'm
+ Corey.
+ I
+ run
+ an
+ AI
+ native
+ holding
+
+
+company
+ where
+ we're
+ actively
+ buying
+ and
+
+
+building
+ businesses
+ in
+ the
+ technology
+
+
+investments
+ and
+ education
+ verticals.
+
+
+I've
+ been
+ feverishly
+ building
+ AI
+ coding
+
+
+agents
+ since
+ 2022.
+
+
+I
+ love
+ and
+ am
+ passionate
+ about
+ all
+
+
+things
+ technology.
+ I
+ am
+ a
+ massive
+ coffee
+
+
+nerd.
+ In
+ fact,
+ catch
+ me
+ in
+ the
+ hallway
+
+
+track
+ and
+ ask
+ me
+ about
+ the
+ Ethiopian
+
+
+yoga
+ chef
+ from
+ Misty
+ Valley
+ that
+ I've
+
+
+been
+ obsessively
+ roasting
+ lately.
+ And
+
+
+I'm
+ a
+ pickle
+ ball
+ fanatic.
+ I'm
+ playing
+
+
+in
+ a
+ tournament
+ tomorrow.
+ In
+ fact,
+
+
+so
+ let's
+ talk
+ about
+ the
+ framework
+ in
+
+
+overview.
+
+
+The
+ framework's
+ comprised
+ of
+ three
+
+
+pillars.
+ There
+ are
+ the
+ principles
+ which
+
+
+are
+ the
+ philosophy
+ underpinning
+ all
+ of
+
+
+it.
+
+
+There
+ is
+ the
+ process
+ which
+ is
+ the
+
+
+workflow
+ for
+ actually
+ getting
+ software
+
+
+built
+ using
+ AI
+ and
+ then
+ there
+ are
+ tools
+
+
+which
+ are
+ accelerators
+ or
+ enablers
+ of
+
+
+the
+ process
+ but
+ also
+ reflect
+ our
+
+
+principles.
+ So
+ you
+ may
+ ask
+ what
+ can
+ you
+
+
+build
+ with
+ the
+ framework
+ and
+ the
+ answer
+
+
+is
+ really
+ anything.
+ The
+ framework's
+
+
+adaptive
+ to
+ all
+ types
+ of
+ software,
+ but
+
+
+here
+ are
+ a
+ few
+ examples
+ of
+ working
+
+
+software
+ in
+ the
+ wild
+ right
+ now
+ that's
+
+
+been
+ built
+ with
+ this
+ approach.
+
+
+[clears throat]
+
+
+uh
+ specialized
+ litigation
+ support
+
+
+applications
+ for
+ law
+ firms,
+
+
+real-time
+ appliance
+ monitoring
+ packages
+
+
+for
+ cooking,
+
+
+digital
+ publishing
+ systems
+ for
+ dynamic
+
+
+content
+ replatforming,
+
+
+and
+ on
+ and
+ on
+ and
+ on
+ and
+ on.
+ The
+ point
+
+
+is
+ that
+ these
+ aren't
+ toys.
+ These
+ are
+
+
+real
+ software
+ applications
+
+
+that
+ do
+ real
+ work
+ every
+ day.
+ And
+
+
+critically
+ they're
+ evolved
+ and
+
+
+maintained
+ by
+ AI
+ engineers
+ who
+ apply
+
+
+this
+ framework.
+
+
+So
+ let's
+ make
+ a
+ start
+ and
+ get
+ into
+ the
+
+
+principles.
+ Principles
+ broadly
+ map
+
+
+across
+ three
+ categories.
+ sort
+ of
+ general
+
+
+principles
+ that
+ apply
+ overarchingly
+ and
+
+
+then
+ principles
+ that
+ skew
+ more
+ towards
+
+
+the
+ planning
+ phase
+ of
+ the
+ process
+ and
+
+
+principles
+ that
+ skew
+ more
+ towards
+ the
+
+
+implementation
+ phase
+ of
+ the
+ process.
+ 10
+
+
+in
+ all.
+ So
+ [clears throat]
+ let's
+ talk
+
+
+about
+ each
+ of
+ them.
+ Our
+ first
+ overall
+
+
+principle
+ is
+ that
+ AI
+ engineering
+ is
+
+
+accelerated
+ learning.
+
+
+What
+ were
+ the
+ problems
+ that
+ this
+ came
+
+
+from?
+ Well,
+ treating
+ AI
+ coding
+ agents
+ as
+
+
+pure
+ productivity
+ tools
+ just
+ to
+ crank
+
+
+out
+ code
+ faster,
+ using
+ AI
+ to
+ generate
+
+
+software
+ and
+ not
+ learning
+ anything
+ from
+
+
+the
+ process
+ and
+ then
+ 6
+ months
+ later
+
+
+being
+ no
+ better
+ as
+ engineers
+ having
+
+
+plateaued
+ or
+ worse
+ becoming
+ dependent
+ on
+
+
+AI
+ for
+ so
+ many
+ things,
+ debugging,
+
+
+modifications,
+ architectural
+ decisions.
+
+
+That's
+ the
+ opposite
+ of
+ AI
+ augmentation.
+
+
+That's
+ AI
+ dependency.
+
+
+So
+ the
+ big
+ idea
+ here
+ is
+ that
+ the
+
+
+framework
+ is
+ not
+ just
+ about
+ building
+
+
+faster.
+ It's
+ about
+ learning
+ as
+ we
+ go.
+
+
+Every
+ step
+ in
+ the
+ framework
+ creates
+
+
+specific
+ learning
+ opportunities.
+ So
+ that
+
+
+you're
+ not
+ just
+ shipping
+ software,
+
+
+you're
+ building
+ yourself.
+
+
+The
+ software
+ is
+ valuable,
+ but
+ the
+
+
+engineer
+ that
+ you
+ become
+ is
+
+
+exponentially
+ more
+ valuable.
+ And
+ that's
+
+
+why
+ we
+ say
+ always
+ be
+ learning
+ or
+ you
+ may
+
+
+say
+ a
+ always
+ b
+
+
+larning
+ always
+ be
+ learning.
+
+
+Our
+ next
+ general
+ principle
+ is
+ that
+ you
+
+
+are
+ the
+ architect
+ and
+ the
+ agent
+ is
+ the
+
+
+implement.
+
+
+Treating
+ AI
+ agents
+ as
+ replacements
+ for
+
+
+architectural
+ thinking
+ rather
+ than
+
+
+implementers
+ of
+ your
+ decisions
+ when
+
+
+they're
+ well
+ specified
+ is
+ a
+ big
+ problem.
+
+
+So
+ the
+ primary
+ idea
+ here
+ is
+ keep
+ the
+
+
+architect
+ and
+ implement
+ boundary
+ crystal
+
+
+clear.
+ You
+ own
+ the
+ thinking
+ and
+ that
+
+
+means
+ architecture
+ and
+ interfaces,
+ the
+
+
+intent
+ of
+ the
+ system,
+ the
+ structure,
+
+
+[clears throat]
+
+
+design
+ decisions
+ and
+ the
+ associated
+
+
+tradeoffs.
+ And
+ then
+ the
+ agent
+ handles
+
+
+the
+ doing.
+ That's
+ implementation,
+ typing
+
+
+code,
+ following
+ patterns,
+ implementing
+
+
+the
+ tests
+ that
+ you
+ specify,
+ banging
+ out
+
+
+boilerplate.
+ That's
+ why
+ we
+ say
+ delegate
+
+
+the
+ doing
+ and
+ not
+ the
+ thinking.
+
+
+Our
+ third
+ general
+ principle
+ is
+ a
+ little
+
+
+bit
+ counterintuitive,
+ but
+ it's
+ slow
+ down
+
+
+and
+ iterate
+ in
+ order
+ to
+ go
+ fast.
+
+
+The
+ problem
+ is
+ the
+ starting
+ over
+ cycle.
+
+
+Without
+ deliberate
+ iteration
+ on
+
+
+validated
+ work,
+ you
+ end
+ up
+ repeatedly
+
+
+starting
+ from
+ scratch.
+ And
+ so
+ 3
+ months
+
+
+in,
+ you've
+ had
+ multiple
+ abandoned
+
+
+attempts
+ instead
+ of
+ consistently
+
+
+[snorts]
+
+
+improving
+ on
+ one
+ single
+ system.
+ So
+ the
+
+
+big
+ idea
+ here
+ is
+ that
+ deliberate
+
+
+iteration
+ enables
+ compounding
+ returns
+ on
+
+
+both
+ understanding
+ and
+ on
+ productivity.
+
+
+And
+ so
+ yeah,
+ week
+ one
+ feels
+ slow,
+ but
+
+
+week
+ two
+ builds
+ momentum
+ and
+ then
+ week
+
+
+three
+ is
+ dramatically
+ faster.
+
+
+We
+ say
+ compound
+ progress,
+ accelerate
+
+
+velocity.
+
+
+So
+ the
+ first
+ of
+ our
+ planning
+ related
+
+
+principles
+ is
+ that
+ specification
+
+
+is
+ far
+ greater
+ than
+ prompt
+ engineering.
+
+
+Prompt
+ engineering
+ treats
+ AI
+
+
+interactions
+ as
+ an
+ optimization
+ problem
+
+
+rather
+ than
+ a
+ communication
+ problem.
+
+
+Trying
+ to
+ find
+ magic
+ words
+ that
+ produce
+
+
+the
+ right
+ output
+ rather
+ than
+ clearly
+
+
+defining
+ what
+ right
+ means.
+
+
+So
+ the
+ big
+ idea
+ here
+ is
+ that
+
+
+specifications
+ are
+ very
+ different
+ than
+
+
+prompts
+ in
+ the
+ classic
+ sense.
+
+
+Specifications
+ are
+ structured
+ precise
+
+
+definitions
+ of
+ requirements
+ of
+ behavior
+
+
+interfaces
+ and
+ acceptance
+ criteria.
+
+
+Writing
+ specifications
+ forces
+
+
+architectural
+ thinking.
+ You
+ must
+
+
+understand
+ the
+ problem
+ completely
+ and
+
+
+then
+ define
+ interfaces
+ precisely
+ and
+
+
+anticipate
+ edge
+ cases.
+
+
+In
+ turn,
+ specifications
+ provide
+ clear,
+
+
+unambiguous
+ direction.
+ The
+ agent
+
+
+implements
+ what
+ you
+ specified
+ and
+ not
+
+
+what
+ it
+ interprets
+ from
+ conversational
+
+
+prompts.
+
+
+We
+ say
+ write
+ the
+ blueprint,
+ not
+ the
+
+
+prompt.
+
+
+Our
+ next
+ planning
+ related
+ principle
+ is
+
+
+define
+ done
+ before
+ implementing.
+
+
+Starting
+ implementation
+ without
+
+
+executable
+ tests
+ and
+ observable
+ success
+
+
+criteria
+ means
+ that
+ agents
+ lack
+ clear
+
+
+completion
+ criteria
+ and
+ immediate
+
+
+feedback.
+ They
+ can't
+ self-
+ validate.
+
+
+They
+ can't
+ self-correct
+
+
+and
+ they
+ don't
+ know
+ when
+ they're
+ done,
+
+
+at
+ least
+ not
+ in
+ consistence
+ with
+ your
+
+
+specifications.
+ And
+ so
+ the
+ big
+ idea
+ here
+
+
+is
+ defining
+ done
+ before
+ implementation
+
+
+keeps
+ you
+ thinking
+ deeply
+ about
+
+
+requirements
+ and
+ then
+ it
+ enables
+ the
+
+
+agent
+ to
+ work
+ autonomously.
+
+
+By
+ defining
+ tests
+ up
+ front,
+ we
+ give
+
+
+agents
+ clear
+ stop
+ conditions
+ that
+ then
+
+
+enable
+ them
+ to
+ get
+ immediate
+ feedback
+
+
+during
+ implementation
+ and
+ self-correct
+
+
+wherever
+ necessary.
+ We'll
+ talk
+ more
+
+
+about
+ multiensory
+ validation
+ later.
+
+
+But
+ we
+ enable
+ agents
+ to
+ observe
+ through
+
+
+visual
+ like
+ what
+ renders
+ senses,
+
+
+auditory
+ senses
+ like
+ what
+ they
+ can
+ hear
+
+
+through
+ logs
+ and
+ errors
+ and
+ tactile
+
+
+senses
+ meaning
+ how
+ they
+ interact
+ with
+
+
+the
+ system.
+ Tests
+ verify
+ correctness
+ of
+
+
+spec
+ of
+ implementation
+ whilst
+ sensors
+
+
+reveal
+ the
+ actual
+ behavior
+ of
+ the
+
+
+software
+ as
+ it's
+ being
+ implemented.
+ And
+
+
+so
+ done
+ means
+ that
+ a
+ feature
+ is
+ done
+
+
+when
+ it
+ tests
+ pass
+ and
+ when
+ the
+ sensors
+
+
+come
+ back
+ validating
+ that
+ everything's
+
+
+working
+ as
+ expected.
+
+
+We
+ say
+ specify
+ success
+ then
+ build
+
+
+feature
+ atomicity
+ is
+ our
+ next
+ principle.
+
+
+Writing
+ non-atomic
+ features
+ means
+
+
+leaving
+ the
+ decomposition
+ work
+ for
+
+
+implementation
+ time
+ which
+ forces
+ agents
+
+
+to
+ make
+ architectural
+ decisions
+ on
+ the
+
+
+fly.
+ The
+ primary
+ idea
+ here
+ is
+ that
+
+
+feature
+ atomicity
+ forces
+ us
+ to
+
+
+completely
+ decompose
+
+
+each
+ feature
+ during
+ specification
+ and
+
+
+then
+ in
+ turn
+ enable
+ the
+ agents
+ to
+
+
+implement
+ within
+ a
+ manageable
+ scope.
+
+
+Features
+ in
+ this
+ sense
+ become
+
+
+implementation
+ work
+ units.
+ They're
+
+
+atomic,
+ irreducible
+ tasks
+ that
+ are
+ ready
+
+
+for
+ an
+ agent
+ to
+ execute
+ completely.
+
+
+Keep
+ features
+ as
+ small
+ as
+ possible
+ to
+
+
+make
+ agent
+ implementation
+ as
+ successful
+
+
+as
+ possible.
+
+
+We
+ say
+ reduce
+ until
+ irreducible.
+
+
+So
+ the
+ last
+ of
+ our
+ planning
+ related
+
+
+principles
+ is
+ dependencydriven
+
+
+development.
+
+
+Implementing
+ without
+ explicit
+ dependency
+
+
+analysis
+ means
+ treating
+ all
+ features
+ as
+
+
+independent
+ when
+ in
+ fact
+ we
+ know
+ that
+
+
+they
+ form
+ an
+ interconnected
+ graph.
+ So
+
+
+the
+ big
+ idea
+ here
+ is
+ that
+
+
+dependencydriven
+ development
+ forces
+ you
+
+
+to
+ understand
+ how
+ features
+ relate
+ and
+
+
+how
+ they
+ integrate
+ and
+ then
+ in
+ turn
+ that
+
+
+he
+ ensures
+ that
+ agents
+ never
+ implement
+
+
+features
+ that
+ depend
+ on
+ incomplete
+ work.
+
+
+We
+ say
+ schedule
+ implementation
+ by
+
+
+dependencies.
+
+
+And
+ so
+ now
+ on
+ to
+ our
+ implementation
+
+
+related
+ principles.
+ We
+ start
+ with
+
+
+implement
+ one
+ atomic
+ feature
+ at
+ a
+ time.
+
+
+Working
+ on
+ multiple
+ features
+ treats
+
+
+implementation
+ as
+ parallel
+ streams
+ of
+
+
+work
+ that
+ can
+ be
+ context
+ switched
+
+
+freely.
+ But
+ we
+ know
+ that
+ implementation
+
+
+quality
+ is
+ contingent
+ on
+ sustained
+
+
+focus,
+ complete
+ context
+ and
+ very
+ tight
+
+
+feedback
+ loops.
+
+
+Jumping
+ between
+ features
+ fragments
+ our
+
+
+focus.
+
+
+So
+ the
+ big
+ idea
+ here
+ is
+ that
+ agents
+
+
+implement
+ one
+ single
+ feature
+ that's
+ been
+
+
+defined
+ atomically
+ as
+ previous.
+ You
+
+
+study
+ it
+ and
+ understand
+ it.
+ You
+ validate
+
+
+that
+ it
+ works.
+ You
+ commit
+ it
+ as
+ a
+
+
+checkpoint
+ and
+ then
+ you
+ move
+ on
+ to
+ the
+
+
+next
+ feature.
+
+
+This
+ rhythm
+ creates
+ both
+ momentum
+ and
+
+
+also
+ deepening
+ understanding.
+ We
+ stop
+
+
+juggling
+ multiple
+ features
+
+
+simultaneously.
+
+
+We
+ implement
+ features
+ sequentially
+ with
+
+
+complete
+ focus
+ studying
+ each
+
+
+implementation
+ to
+ maintain
+ understanding
+
+
+and
+ then
+ commit
+ each
+ of
+ them
+ as
+ a
+
+
+checkpoint
+ to
+ build
+ both
+ working
+
+
+software
+ and
+ engineering
+ knowledge.
+
+
+We
+ say
+ complete
+ one
+ commit
+ one
+ continue.
+
+
+Our
+ next
+ implementation
+ related
+
+
+principle
+ is
+ context
+ engineering
+ and
+
+
+management.
+
+
+Treating
+ context
+ as
+ something
+ that
+ just
+
+
+happens
+ automatically
+ rather
+ than
+
+
+something
+ you
+ actively
+ engineer
+ is
+ a
+ big
+
+
+problem.
+ You
+ let
+ conversation
+ history
+
+
+passively
+ accumulate
+ instead
+ of
+ curating
+
+
+actively
+ what
+ really
+ matters
+ for
+ context
+
+
+and
+ then
+ if
+ you
+ don't
+ build
+ context
+
+
+resilience
+
+
+state
+ will
+ not
+ persist
+ eventually
+ and
+ we
+
+
+lose
+ resilience
+ and
+ continuity
+ to
+ that
+
+
+matter.
+ So
+ the
+ primary
+ idea
+ here
+ is
+ do
+
+
+not
+ rely
+ on
+ conversational
+ state
+
+
+persisting
+ capture
+ architectural
+
+
+decisions
+ in
+ persistent
+ documents
+ like
+
+
+specifications
+ plans
+ and
+ design
+
+
+documents
+ and
+ we'll
+ talk
+ about
+ what
+
+
+those
+ mean
+ here
+ in
+ the
+ process
+ section
+
+
+and
+ then
+ build
+ context
+ from
+ these
+
+
+artifacts
+ not
+ from
+ your
+ memory.
+ We
+ say
+
+
+curate
+ context
+ don't
+ accumulate
+ it.
+
+
+And
+ our
+ last
+ principle
+ is
+ make
+ it
+ work,
+
+
+make
+ it
+ right,
+ make
+ it
+ fast.
+ And
+ this
+ is
+
+
+borrowed
+ from
+ the
+ annals
+ of
+ software
+
+
+engineering.
+ But
+ treating
+ all
+ three
+
+
+phases
+ of
+ this
+ as
+ equal
+ from
+ the
+ start
+
+
+or
+ trying
+ to
+ achieve
+ them
+ all
+
+
+simultaneously
+ is
+ a
+ big
+ problem.
+ The
+
+
+framework
+ focuses
+ on
+ getting
+ to
+ make
+ it
+
+
+work.
+ working
+ software
+ that
+ can
+ be
+
+
+shipped
+ and
+ used
+ and
+ then
+ only
+ after
+
+
+real
+ usage
+ reveals
+ what
+ matters
+ do
+ we
+
+
+selectively
+ invest
+ in
+ make
+ it
+ right
+ and
+
+
+make
+ it
+ fast.
+ So
+ the
+ big
+ idea
+ here
+ is
+
+
+stop
+ pursuing
+ elegance
+ and
+ performance
+
+
+upfront.
+ Explicitly
+ direct
+ the
+ agents
+ to
+
+
+make
+ it
+ work
+ and
+ we'll
+ talk
+ about
+ how
+ to
+
+
+define
+ that.
+ But
+ we
+ want
+ simple
+
+
+functional
+ implementation
+ that
+ passes
+
+
+tests
+ and
+ enables
+ us
+ to
+ ship
+ quickly
+ and
+
+
+then
+ let
+ real
+ usage
+ reveal
+ what
+ deserves
+
+
+further
+ investment.
+ We
+ say
+ burn
+ sorry
+ we
+
+
+say
+ build,
+ learn,
+
+
+improve.
+ So
+ there
+ we
+ have
+ them.
+ our
+ 10
+
+
+principles,
+
+
+the
+ philosophy
+ that
+ makes
+ the
+ framework
+
+
+work.
+
+
+Now,
+ let's
+ check
+ back
+ in
+ with
+ our
+ hung
+
+
+over
+ vibe
+ coder
+ as
+ he's
+ been
+ exposed
+ to
+
+
+the
+ principles
+ of
+ the
+ framework.
+
+
+Yeah,
+ mind
+ sufficiently
+ blown
+ yet?
+ Well,
+
+
+stick
+ with
+ us,
+ mate.
+ It
+ gets
+ even
+
+
+better.
+
+
+All
+ right.
+ Now,
+ let's
+ transition
+ to
+
+
+process.
+
+
+The
+ process
+ is
+ where
+ we
+ put
+ all
+ of
+ the
+
+
+principles
+ to
+ work.
+ You
+ can
+ think
+ about
+
+
+this
+ as
+ principles
+ in
+ action.
+ The
+
+
+framework
+ process
+ has
+ two
+ distinct
+
+
+phases.
+ There's
+ the
+ planning
+ phase
+ where
+
+
+you
+ do
+ all
+ of
+ the
+ architectural
+ thinking
+
+
+to
+ define
+ what
+ to
+ build
+ and
+ then
+ the
+
+
+implementation
+ phase
+ where
+ the
+ agent
+
+
+executes
+ your
+ specifications
+ with
+ both
+
+
+your
+ oversight
+ and
+ validation.
+
+
+Planning
+ produces
+ the
+ artifacts
+ that
+
+
+enable
+ autonomous
+ agent
+ implementation.
+
+
+Implementation
+ then
+ uses
+ those
+ artifacts
+
+
+to
+ build
+ working
+ software
+ feature
+ by
+
+
+feature.
+
+
+All
+ right,
+ on
+ to
+ the
+ planning
+ phase.
+
+
+Planning
+ is
+ where
+ you
+ complete
+ your
+
+
+architectural
+ thinking.
+ You
+ transform
+ a
+
+
+vague
+ project
+ idea
+ into
+ atomic
+ sequenced
+
+
+fully
+ specified
+ features
+ ready
+ for
+
+
+implementation.
+
+
+This
+ is
+ purely
+ your
+ work.
+ Architectural
+
+
+decisions,
+ decomposition,
+ specification
+
+
+writing,
+ dependency
+ analysis.
+ The
+ agent
+
+
+can
+ assist
+ as
+ a
+ thinking
+ partner,
+ but
+
+
+you
+ make
+ every
+ decision.
+
+
+The
+ five
+ planning
+ steps
+ are
+ sequential
+
+
+and
+ build
+ on
+ each
+ other.
+ Vision,
+
+
+features,
+ specification,
+ dependencies,
+
+
+plan.
+
+
+You'll
+ notice
+ that
+ this
+ is
+ a
+ highly
+
+
+iterative
+ process
+ of
+ extracting
+ and
+
+
+refining
+ thinking
+ into
+ tangible
+
+
+artifacts
+ that
+ can
+ be
+ used
+ to
+ build
+
+
+software
+ with
+ the
+ agent.
+ The
+ inputs
+ and
+
+
+outputs
+ of
+ each
+ step
+ in
+ the
+ planning
+
+
+phase
+ are
+ templates
+ and
+ completed
+
+
+templates
+ respectively.
+ Heaps
+ of
+ work
+
+
+has
+ been
+ done
+ in
+ advance
+ to
+ create
+
+
+well-thought
+ well
+ ststructured
+ templates
+
+
+to
+ both
+ guide
+ thinking
+ and
+ capture
+ the
+
+
+results.
+
+
+So
+ the
+ first
+ step
+ of
+ planning
+ is
+ vision
+
+
+capture.
+ And
+ the
+ purpose
+ of
+ this
+ step
+ is
+
+
+to
+ transform
+ your
+ vague
+ project
+ idea
+
+
+into
+ a
+ complete
+ structured
+ master
+
+
+project
+ specification
+ that
+ articulates
+
+
+the
+ problem,
+ the
+ users,
+ functionality,
+
+
+scope
+ and
+ workflows.
+
+
+So
+ the
+ problem
+ that
+ this
+ step
+ in
+ the
+
+
+planning
+ phase
+ solves
+ is
+ that
+ your
+
+
+initial
+ project
+ idea
+ exists
+ only
+ in
+ your
+
+
+head
+ usually
+ and
+ it's
+ incomplete.
+ When
+
+
+we
+ start,
+ this
+ is
+ typically
+ the
+ case.
+
+
+You
+ have
+ some
+ general
+ sense
+ of
+ the
+
+
+problem
+ and
+ an
+ approach,
+ but
+ details
+ are
+
+
+fuzzy.
+ Implicit
+ assumptions
+ are
+
+
+unexamined
+ and
+ critical
+ aspects
+ are
+
+
+uninformed.
+
+
+So
+ without
+ structured
+ exploration
+ and
+
+
+refinement,
+ you
+ can't
+ communicate
+ your
+
+
+thinking,
+ you
+ can't
+ articulate
+
+
+requirements
+ clearly,
+ and
+ you
+ can't
+
+
+create
+ a
+ shared
+ foundation
+ that
+ agents
+
+
+can
+ build
+ upon.
+ You
+ need
+ to
+ examine
+ and
+
+
+refine
+ your
+ thinking
+ before
+ you
+ can
+
+
+decompose
+ it
+ into
+ features
+ or
+
+
+architecture.
+ And
+ so
+ what
+ we're
+ going
+ to
+
+
+do
+ here
+ is
+ think
+ out
+ loud
+ with
+ an
+ agent.
+
+
+Optionally,
+ but
+ strongly
+ recommended
+ to
+
+
+refine
+ and
+ capture
+ your
+ vision
+ through
+
+
+five
+ sections.
+
+
+Project
+ purpose.
+ So
+ we
+ clarify
+ the
+ pro
+
+
+the
+ problem
+ that
+ you're
+ solving,
+ who
+
+
+experiences
+ it,
+ and
+ the
+ core
+ value
+ that
+
+
+your
+ software
+ delivers.
+
+
+Essential
+ functionality.
+
+
+Identify
+ the
+ three
+ to
+ five
+ fundamental
+
+
+workflows
+ that
+ solve
+ the
+ problem.
+ Scope
+
+
+boundaries.
+ Make
+ explicit
+ decisions.
+ And
+
+
+we
+ call
+ these
+ now,
+ not
+ next.
+ So
+ now
+ as
+
+
+in
+ must
+ have
+ it
+ for
+ the
+ make
+ it
+ work
+
+
+version.
+ Not
+ meaning
+ it's
+ out
+ of
+ scope
+
+
+and
+ next
+ meaning
+ future
+ enhancements.
+
+
+Then
+ technical
+ context.
+
+
+answer
+ basic
+ questions
+ like
+ where
+ does
+
+
+it
+ run?
+ How
+ do
+ users
+ interact?
+ What
+
+
+systems
+ does
+ it
+ connect
+ to?
+ And
+ then
+
+
+lastly,
+ workflow
+ details.
+ So
+ for
+ each
+ of
+
+
+those
+ three
+ to
+ five
+ core
+ workflows,
+
+
+document
+ the
+ goal,
+ document
+ the
+ highle
+
+
+steps
+ for
+ each
+ of
+ the
+ the
+ workflows
+ and
+
+
+then
+ the
+ expected
+ outcome.
+
+
+And
+ we
+ iterate
+ through
+ these
+ sections
+
+
+until
+ your
+ vision
+ is
+ clear
+ and
+ complete.
+
+
+Working
+ with
+ an
+ agent
+ here
+ is
+ really
+
+
+great
+ because
+ it
+ can
+ help
+ surface
+ gaps,
+
+
+suggest
+ edge
+ cases
+ and
+ probe
+
+
+assumptions.
+ But
+ critically,
+ you
+ make
+
+
+all
+ decisions
+ about
+ the
+ vision.
+
+
+The
+ primary
+ output
+ of
+ this
+ step
+
+
+[clears throat]
+ is
+ the
+ master
+ project
+
+
+specification.
+
+
+And
+ this
+ is
+ a
+ structured
+ artifact
+ that
+
+
+captures
+ your
+ complete
+ vision
+ for
+ the
+
+
+software
+ in
+ its
+ make
+ it
+ work
+ version.
+
+
+This
+ becomes
+ the
+ foundation
+ for
+
+
+extracting
+ features
+ in
+ planning
+ step
+
+
+two.
+ And
+ as
+ we
+ go
+ through
+ every
+ step
+ in
+
+
+the
+ process,
+ you
+ can
+ see
+ down
+ here
+ on
+
+
+the
+ bottom
+ left
+ corner
+ which
+ of
+ the
+
+
+principles
+ are
+ applied
+ in
+ that
+ step.
+ We
+
+
+won't
+ talk
+ through
+ each
+ of
+ the
+
+
+principles,
+ but
+ this
+ demonstrates
+ the
+
+
+cohesiveness
+ of
+ the
+ framework.
+
+
+All
+ right,
+ step
+ two
+ in
+ planning
+ is
+
+
+feature
+ identification
+ and
+
+
+categorization.
+
+
+And
+ the
+ purpose
+ of
+ this
+ step
+ is
+ to
+
+
+systematically
+ extract
+ all
+ units
+ of
+
+
+functionality
+ from
+ your
+ master
+ project
+
+
+specification
+ and
+ then
+ organize
+ them
+
+
+into
+ a
+ categorized
+ feature
+ inventory.
+
+
+The
+ problem
+ that
+ this
+ solves
+ is
+ you
+
+
+don't
+ jump
+ directly
+ from
+ highle
+ vision
+
+
+to
+ detailed
+ feature
+ specifications.
+
+
+That's
+ too
+ big
+ of
+ a
+ leap.
+ Your
+ master
+
+
+project
+ specification
+ captures
+ what
+ the
+
+
+software
+ does
+ at
+ a
+ high
+ level,
+ but
+ you
+
+
+need
+ an
+ intermediate
+ step
+ that
+
+
+progressively
+ refineses
+ this
+ thinking
+
+
+into
+ concrete,
+ manageable
+ units
+ of
+
+
+functionality.
+
+
+Without
+ systematic
+ extraction
+ and
+
+
+categorization,
+ you're
+ trying
+ to
+ specify
+
+
+features
+ without
+ a
+ complete
+ inventory
+ of
+
+
+what
+ needs
+ to
+ be
+ built,
+ and
+ you
+ can't
+
+
+see
+ natural
+ groupings
+ and
+ relationships.
+
+
+You
+ lack
+ the
+ structured
+ artifact
+ that's
+
+
+needed
+ for
+ the
+ next
+ refinement
+ step
+ and
+
+
+you're
+ forced
+ to
+ hold
+ all
+ functionality
+
+
+in
+ your
+ head
+ rather
+ than
+ externalizing
+
+
+it
+ for
+ analysis.
+
+
+The
+ input
+ to
+ this
+ step
+ is
+ the
+ master
+
+
+project
+ specification
+ from
+ the
+ previous
+
+
+step.
+ And
+ so
+ what
+ we're
+ going
+ to
+ do
+ here
+
+
+is
+ systematically
+ analyze
+ the
+ master
+
+
+project
+ specification
+ to
+ extract
+ all
+
+
+units
+ of
+ functionality
+ and
+ then
+
+
+categorize
+ them.
+
+
+[clears throat and cough]
+ H
+ so
+ work
+
+
+through
+ the
+ master
+ project
+ specification
+
+
+step
+ by
+ step
+ or
+ section
+ by
+ section
+
+
+rather
+ with
+ targeted
+ extraction
+
+
+questions.
+ So
+ it's
+ like
+ for
+ project
+
+
+purpose
+ what
+ foundational
+ capabilities
+
+
+does
+ this
+ system
+ need
+ for
+ essential
+
+
+functionality
+ what
+ discrete
+ capabilities
+
+
+are
+ required
+ for
+ each
+ of
+ the
+ workflows
+
+
+for
+ scope
+ boundaries.
+ What
+
+
+infrastructure
+ is
+ needed
+ to
+ make
+ the
+
+
+make
+ it
+ work
+ version
+ work
+ now
+ for
+
+
+technical
+ context?
+ What
+ platform
+
+
+integration
+ and
+ interface
+ features
+ are
+
+
+needed
+ for
+ each
+ of
+ the
+ key
+ workflows?
+
+
+What
+ handles
+ input?
+ What
+ processing
+
+
+occurs?
+ What
+ output
+ is
+ there?
+ Which
+
+
+errors
+ should
+ we
+ anticipate?
+ And
+ how
+ do
+
+
+we
+ feed
+ back?
+ And
+ then
+ cross
+ cutting
+
+
+needs
+ across
+ all
+ of
+ this.
+ what
+ security
+
+
+logging
+ configuration
+ and
+ testing
+
+
+features
+ span
+ the
+ entire
+ system.
+ We're
+
+
+going
+ to
+ document
+ each
+ feature
+ source
+
+
+for
+ traceability
+ and
+ that's
+ where
+ it
+
+
+came
+ from
+ in
+ the
+ master
+ project
+
+
+specification.
+
+
+Next,
+ we
+ build
+ the
+ raw
+ feature
+ list.
+ So,
+
+
+we
+ capture
+ every
+ capability
+ [sighs]
+ that
+
+
+you
+ identify,
+ but
+ we're
+ not
+ going
+ to
+
+
+organize
+ these
+ just
+ yet.
+ Just
+ ensure
+
+
+that
+ we
+ have
+ comprehensive
+ extraction.
+
+
+We
+ want
+ to
+ challenge
+ completeness
+ with
+
+
+questions
+ like
+ what
+ handles
+ errors
+ or
+
+
+what
+ validates
+ input?
+ What
+ provides
+
+
+feedback?
+
+
+Next,
+ we
+ move
+ on
+ to
+ analyzing
+ those
+
+
+features.
+ So,
+ we
+ analyze
+ the
+ entire
+
+
+feature
+ list
+ to
+ start
+ identifying
+
+
+natural
+ groupings
+ based
+ on
+ your
+ features
+
+
+and
+ your
+ project
+ type.
+ You
+ identify,
+
+
+it's
+ not
+ a
+ hard
+ rule,
+ but
+ three
+ to
+ seven
+
+
+categories
+ that
+ kind
+ of
+ reflect
+ how
+ your
+
+
+specific
+ software
+ is
+ structured.
+ And
+
+
+then
+ we
+ move
+ on
+ to
+ categorization.
+
+
+Determine
+ the
+ categories.
+ We
+ assign
+ each
+
+
+feature
+ to
+ its
+ best
+ fit
+ category.
+ And
+
+
+then
+ we
+ create
+ a
+ unique
+ feature
+ ID
+ like
+
+
+for
+ example
+ core
+ 001
+ or
+ API
+ 101.
+ These
+
+
+categories
+ emerge
+ from
+ analyzing
+ your
+
+
+actual
+ features
+ and
+ not
+ from
+
+
+predetermined
+ category
+ templates.
+
+
+And
+ then
+ [clears throat]
+ lastly,
+ we
+
+
+estimate
+ feature
+ complexity.
+ And
+ this
+ is
+
+
+just
+ an
+ initial
+ estimate
+ of
+ how
+ complex
+
+
+each
+ extracted
+ feature
+ is.
+ Is
+ it
+ easy?
+
+
+Is
+ it
+ medium?
+ Is
+ it
+ hard?
+ So
+ the
+ output
+
+
+from
+ this
+ step
+ is
+ the
+ feature
+ inventory.
+
+
+It's
+ a
+ complete
+ categorized
+ list
+ of
+ all
+
+
+discrete
+ units
+ of
+ functionality.
+ Each
+
+
+feature
+ includes
+ a
+ unique
+ ID,
+ a
+
+
+description,
+ a
+ complexity
+ estimate,
+ and
+
+
+we're
+ able
+ to
+ trace
+ it
+ back
+ to
+ its
+
+
+source
+ section
+ in
+ the
+ MPS.
+
+
+Step
+ three
+ is
+ iterative
+ specification
+
+
+development.
+
+
+>> [clears throat]
+
+
+>> The
+ purpose
+ of
+ this
+ step
+ is
+ to
+ transform
+
+
+each
+ feature
+ from
+ your
+ feature
+ inventory
+
+
+into
+ a
+ complete
+ atomic
+ implementation
+
+
+ready
+ specification
+ that
+ defines
+ exactly
+
+
+what
+ needs
+ to
+ be
+ built,
+ how
+ it
+ will
+ be
+
+
+validated
+ and
+ what
+ it
+ depends
+ on.
+ The
+
+
+problem
+ that
+ this
+ critical
+ step
+ solves
+
+
+is
+ you
+ can't
+ jump
+ directly
+ from
+ a
+
+
+feature
+ inventory
+ to
+ feature
+
+
+implementation.
+ That's
+ again
+ too
+ big
+ of
+
+
+a
+ leap.
+ So
+ your
+ feature
+ inventory
+ lists
+
+
+discrete
+ capabilities,
+ but
+ each
+ feature
+
+
+still
+ needs
+ to
+ be
+ fully
+ specified
+ before
+
+
+a
+ coding
+ agent
+ can
+ implement
+ it.
+ Without
+
+
+iterative
+ features,
+
+
+[clears throat and cough]
+
+
+sorry,
+ without
+ iterative
+ specification
+
+
+development,
+ you're
+ giving
+ coding
+ agents
+
+
+highle
+ descriptions
+ and
+ hoping
+ that
+ they
+
+
+infer
+ details
+ correctly.
+ You
+ can't
+
+
+validate
+ that
+ features
+ are
+ truly
+ atomic
+
+
+until
+ you
+ try
+ to
+ specify
+ them.
+ You
+ have
+
+
+no
+ systematic
+ way
+ to
+ identify
+
+
+dependencies.
+
+
+You
+ lack
+ the
+ implementation
+ blueprints
+
+
+that
+ enable
+ autonomous
+ agent
+ work.
+ And
+
+
+ultimately,
+ you're
+ relying
+ on
+ prompt
+
+
+engineering
+ instead
+ of
+ comprehensive
+
+
+specifications.
+
+
+The
+ input
+ to
+ this
+ step
+ is
+ the
+ feature
+
+
+inventory
+ from
+ the
+ previous
+ step.
+ And
+ so
+
+
+what
+ we're
+ going
+ to
+ do
+ here
+ is
+
+
+collaborate
+ with
+ an
+ agent
+ to
+ transform
+
+
+each
+ feature
+ using
+ a
+ three-level
+
+
+refinement
+ pattern.
+
+
+So
+ first
+ we
+ draft
+ a
+ user
+ story
+ in
+ the
+
+
+typical
+ user
+ story
+ fashion.
+ As
+ a
+ user
+
+
+type,
+ I
+ want
+ to
+ perform
+ some
+ action
+ so
+
+
+that
+ I
+ can
+ obtain
+ some
+ benefit.
+ This
+
+
+captures
+ who
+ needs
+ this,
+ what
+ they're
+
+
+doing,
+ and
+ why
+ it
+ matters.
+
+
+Next,
+ we
+ def
+ determine
+ our
+
+
+implementation
+ contracts,
+ and
+
+
+[clears throat]
+ these
+ exist
+ in
+ three
+
+
+iterative
+ levels
+ of
+ refinement.
+ So
+ we
+
+
+start
+ at
+ level
+ one
+ in
+ plain
+ English.
+
+
+Just
+ describe
+ what
+ the
+ feature
+ does
+ in
+
+
+natural
+ language.
+ Walk
+ through
+ what
+
+
+happens,
+ what
+ it
+ receives,
+ what
+ it
+ does,
+
+
+and
+ what
+ it
+ produces.
+ We
+ then
+ take
+ that
+
+
+[clears throat]
+ and
+ refine
+ it
+ further
+ to
+
+
+level
+ two
+ to
+ logic
+ flow.
+ Kind
+ of
+ the
+
+
+input,
+ logic,
+ output.
+ We
+ translate
+ the
+
+
+description
+ into
+ structured
+ pseudo
+ code
+
+
+with
+ clear
+ input,
+ step-by-step
+ logic,
+
+
+and
+ then
+ defined
+ output.
+ And
+ this
+ really
+
+
+forces
+ clarity
+ about
+ what
+ comes
+ in,
+ what
+
+
+happens,
+ and
+ what
+ goes
+ out.
+
+
+And
+ then
+ we
+ refine
+ further
+ to
+ level
+
+
+three,
+ which
+ is
+ formal
+ interfaces.
+ And
+
+
+here's
+ where
+ we
+ define
+ and
+ formalize
+
+
+contracts
+ with
+ exact
+ signatures,
+ data
+
+
+structures,
+ and
+ API
+ specifications.
+
+
+We
+ define
+ exact
+ input
+ types,
+ return
+
+
+types,
+ and
+ errors
+ for
+ each
+ component.
+
+
+Next,
+ we
+ move
+ on
+ to
+ specifying
+
+
+validation
+ contracts.
+
+
+And
+ again,
+ we
+ do
+ this
+ in
+ three
+ levels.
+
+
+Level
+ one
+ is
+ once
+ again
+ plain
+ English.
+
+
+So,
+ we
+ describe
+ the
+ scenarios,
+ identify
+
+
+all
+ situations
+ that
+ need
+ validation,
+
+
+happy
+ path,
+ error
+ cases,
+ edge
+ cases,
+
+
+security
+ properties.
+ We
+ then
+ refine
+ that
+
+
+to
+ level
+ two
+ which
+ is
+ our
+ test
+ logic
+ and
+
+
+we
+ use
+ given
+ when
+ then
+ structure
+ for
+
+
+that.
+ So
+ we
+ translate
+ each
+ scenario
+ into
+
+
+structured
+ verification
+ logic
+ with
+ setup
+
+
+trigger
+ and
+ expected
+ outcomes.
+
+
+We
+ further
+ then
+ refine
+ that
+ to
+ our
+ third
+
+
+level
+ which
+ is
+ once
+ or
+ analogous
+ to
+ the
+
+
+previous
+ step
+ formal
+ test
+ definition.
+
+
+And
+ so
+ this
+ is
+ where
+ we
+ define
+ exact
+
+
+test
+ interfaces
+ with
+ setup
+ inputs
+
+
+precise
+ assertions
+ and
+ any
+ tear
+ down.
+
+
+And
+ at
+ this
+ point
+ we
+ need
+ to
+ validate
+
+
+the
+ atomicity
+ of
+ the
+ feature.
+ We
+ need
+ to
+
+
+make
+ sure
+ that
+ the
+ feature
+ can
+ be
+
+
+implemented
+ in
+ a
+ single
+ focused
+ session
+
+
+and
+ that
+ it
+ is
+ truly
+ one
+ atomic
+ feature.
+
+
+We've
+ defined
+ feature
+ atomicity
+
+
+previously.
+ But
+ if
+ this
+ feels
+ at
+ this
+
+
+point
+ like
+ the
+ specification
+ is
+
+
+scattered
+ or
+ it
+ defines
+ or
+ describes
+
+
+multiple
+ capabilities,
+ we're
+ going
+ to
+
+
+split
+ the
+ feature
+ into
+ multiple
+ features
+
+
+and
+ then
+ repeat
+ the
+ process.
+
+
+Then
+ lastly,
+ after
+ we've
+ determined
+ that
+
+
+the
+ feature
+ is
+ atomic,
+ we're
+ going
+ to
+
+
+identify
+ dependencies.
+ And
+ this
+ is
+ now
+
+
+where
+ we
+ really
+ determine
+ what
+ other
+
+
+features
+ must
+ exist
+ before
+ this
+ one
+ can
+
+
+be
+ implemented.
+ We
+ document
+ explicit
+
+
+binary
+ dependencies
+ meaning
+ this
+ either
+
+
+depends
+ on
+ another
+ feature
+ or
+ it
+
+
+doesn't.
+ There's
+ no
+ partial
+ dependency.
+
+
+The
+ output
+ for
+ this
+ step
+ in
+ the
+ process
+
+
+is
+ a
+ complete
+ atomic
+ feature
+
+
+specification
+ for
+ every
+ single
+ feature
+
+
+in
+ the
+ feature
+ inventory.
+
+
+And
+ that
+ spec
+ defines
+ the
+ user
+ story,
+
+
+the
+ technical
+ blueprint
+ which
+ again
+ is
+
+
+comprised
+ of
+ those
+ three
+ levels,
+ the
+
+
+validation
+ strategy
+ and
+ its
+ three
+
+
+levels,
+ all
+ of
+ the
+ dependencies
+ and
+ any
+
+
+implementation
+ notes.
+
+
+Step
+ four
+ in
+ the
+ planning
+ process
+ is
+
+
+dependency
+ analysis.
+ And
+ so
+ here
+ the
+
+
+purpose
+ is
+ to
+ transform
+ our
+ complete
+ set
+
+
+of
+ feature
+ specifications
+ into
+ a
+
+
+validated
+ dependency
+ matrix
+ that
+ will
+
+
+then
+ define
+ the
+ exact
+ order
+ in
+ which
+
+
+features
+ can
+ be
+ implemented.
+ This
+
+
+eliminates
+ circular
+ dependencies
+ and
+
+
+reveals
+ very
+ natural
+ phases
+ of
+
+
+implementation.
+
+
+The
+ problem
+ that
+ this
+ step
+ in
+ the
+
+
+process
+ solves
+ is
+ severalfold.
+ that
+ your
+
+
+feature
+ specifications
+ contain
+ accurate
+
+
+dependency
+ declarations,
+ but
+ these
+
+
+dependencies
+ are
+ scattered
+ across
+
+
+individual
+ documents.
+ So
+ you've
+ got
+ a
+
+
+local
+ picture
+ like
+ feature
+ X
+ depends
+ on
+
+
+feature
+ Y,
+ but
+ we
+ don't
+ have
+ the
+ global
+
+
+picture
+ yet.
+ And
+ without
+ this
+ global
+
+
+view
+ synthesized
+ into
+ a
+ dependency
+
+
+matrix,
+ you
+ can't
+ see
+ the
+ complete
+
+
+dependency
+ graph,
+ detect
+ circular
+
+
+dependencies
+ that
+ span
+ multiple
+
+
+features,
+ identify
+ the
+ natural
+
+
+implementation
+ phases
+ where
+ groups
+ of
+
+
+features
+ can
+ be
+ built
+ together,
+ or
+
+
+determine
+ which
+ features
+ must
+ be
+
+
+implemented
+ first
+ versus
+ which
+ can
+ wait.
+
+
+So
+ the
+ input
+ to
+ this
+ step
+ is
+ the
+ feature
+
+
+specifications
+ or
+ sorry
+ are
+ the
+ feature
+
+
+specifications
+ with
+ dependency
+
+
+declarations
+ that
+ have
+ come
+ out
+ of
+ the
+
+
+prior
+ step.
+
+
+So
+ what
+ we're
+ going
+ to
+ do
+ here
+ is
+
+
+synthesize
+ scattered
+ dependency
+
+
+declarations
+ into
+ one
+ unified
+ matrix
+ and
+
+
+then
+ we're
+ going
+ to
+ validate
+ it.
+ So
+ we
+
+
+start
+ by
+ extracting
+ the
+ matrix.
+ Here
+ we
+
+
+gather
+ all
+ dependencies
+ from
+ individual
+
+
+feature
+ specifications
+ into
+ a
+ visual
+
+
+grid.
+ So
+ each
+ row
+ is
+ a
+ feature
+ and
+ each
+
+
+column
+ is
+ also
+ a
+ feature.
+ And
+ then
+ we
+ go
+
+
+row
+ by
+ row
+ and
+ mark
+ an
+ X
+ where
+ a
+ row
+
+
+feature
+ depends
+ on
+ a
+ column
+ feature.
+
+
+Next
+ we
+ generate
+ a
+ graph.
+ So
+ we
+ create
+ a
+
+
+visual
+ diagram
+ using
+ graph
+ viz
+ or
+
+
+mermaid
+ or
+ you
+ pick
+ it
+ from
+ the
+ matrix
+
+
+showing
+ features
+ as
+ nodes
+ and
+
+
+dependencies
+ as
+ edges.
+
+
+The
+ graph
+ makes
+ circular
+ dependencies
+
+
+immediately
+ visible
+ as
+ closed
+ loops
+ and
+
+
+reveals
+ the
+ natural
+ layered
+ structure
+ of
+
+
+the
+ dependencies
+ of
+ the
+ application.
+
+
+Next,
+ we
+ validate
+ and
+ clean.
+ So,
+ we
+
+
+apply
+ the
+ binary
+ dependency
+ test
+ to
+
+
+every
+ mark
+ dependency
+ and
+ that
+ goes
+
+
+something
+ like
+ does
+ the
+ row
+ feature
+
+
+require
+ the
+ column
+ features
+ specific
+
+
+output
+ configuration
+ or
+ functionality
+ to
+
+
+work?
+ If
+ yes,
+ then
+ yes,
+ it's
+ a
+
+
+dependency.
+ If
+ no,
+
+
+then
+ remove
+ it.
+ And
+ we
+ track
+ changes
+ in
+
+
+the
+ matrix.
+ And
+ so
+ like
+ it
+ may
+ be
+ a
+
+
+technical
+ dependency.
+
+
+This
+ this
+ step
+ helps
+ us
+ clarify
+ things
+
+
+like
+ maybe
+ coordination
+ only
+ or
+ tool
+
+
+sharing,
+ right?
+ Like
+ not
+ true
+ hard
+
+
+formal
+ dependencies.
+ And
+ then
+ we
+ go
+ to
+
+
+the
+ next
+ step.
+ We
+ we
+ regenerate
+ the
+
+
+graph,
+ right?
+ We're
+ going
+ to
+ kind
+ of
+
+
+iterate
+ this
+ way.
+ And
+ last,
+ we
+ detect
+
+
+cycles.
+ So
+ we're
+ going
+ to
+ visually
+
+
+inspect
+ the
+ graph
+ and
+ the
+ agent
+ can
+ help
+
+
+us
+ here
+ with
+ this
+ too.
+ Uh
+ for
+ circular
+
+
+dependencies
+
+
+and
+ if
+ we
+ find
+ them
+ we
+ apply
+ resolution
+
+
+strategies
+ across
+ one
+ of
+ four
+ but
+ really
+
+
+three
+ steps.
+ First
+ we
+ try
+ dependency
+
+
+elimination
+ meaning
+ let's
+ go
+ back
+ and
+
+
+reexamine
+ it
+ with
+ the
+ binary
+ test.
+ If
+
+
+that
+ doesn't
+ work
+ then
+ we
+ try
+ revised
+
+
+specification.
+ So
+ let's
+ revise
+ the
+
+
+interfaces.
+ We
+ can
+ rethink
+ contracts.
+ So
+
+
+features
+ don't
+ need
+ each
+ other's
+ output.
+
+
+Thirdly,
+ we
+ try
+ feature
+ splitting.
+ And
+
+
+so
+ that's
+ try
+ and
+ fe
+ split
+ it
+ down
+
+
+again.
+ May
+ this
+ feature
+ may
+ not
+ be
+
+
+atomic.
+ And
+ then
+ it's
+ a
+ last
+ resort.
+ And
+
+
+this
+ is
+ where
+ it
+ gets
+ messy.
+ The
+
+
+consolidation
+ is
+ like
+ the
+ last
+ resort
+
+
+strategy
+ here.
+ But
+ we're
+ not
+ going
+ to
+
+
+touch
+ too
+ much
+ on
+ that
+ today.
+ And
+ then
+
+
+we
+ iterate
+ after
+ each
+ cycle.
+ We
+ update
+
+
+the
+ matrix.
+ We
+ regenerate
+ the
+ graph.
+ And
+
+
+we
+ recheck
+ for
+ cyclical
+ dependencies
+
+
+until
+ zero
+ remain.
+
+
+The
+ outputs
+ for
+ this
+ step
+ are
+ twofold.
+
+
+We
+ [clears throat]
+ have
+ a
+ validated
+
+
+dependency
+ matrix
+ which
+ is
+ again
+ our
+
+
+visual
+ grid
+ that
+ shows
+ complete
+
+
+dependency
+ graph
+ with
+ all
+ circular
+
+
+dependencies
+ resolved,
+ all
+ dependencies
+
+
+validated
+ as
+ technically
+ necessary
+ and
+
+
+clear
+ implementation
+ layers
+ defined.
+
+
+And
+ then
+ we
+ have
+ the
+ dependency
+ graph
+
+
+which
+ is
+ a
+ visual
+ diagram
+ showing
+
+
+features
+ as
+ nodes
+ and
+ dependencies
+ as
+
+
+edges
+ making
+ structure
+ and
+ layers
+
+
+immediately
+ visible.
+
+
+The
+ fifth
+ and
+ final
+ step
+ of
+ the
+ planning
+
+
+phase
+ is
+ implementation
+ plan
+
+
+development.
+ The
+ purpose
+ is
+ to
+ transform
+
+
+your
+ validated
+ dependency
+ matrix
+ into
+ a
+
+
+comprehensive
+ phase
+ organized
+
+
+implementation
+ road
+ map
+ that
+ sequences
+
+
+features
+ into
+ dependency
+ layers,
+
+
+identifies
+ parallel
+ development
+
+
+opportunities,
+ defines
+ phase
+ completion
+
+
+criteria,
+ and
+ establishes
+ the
+ validation
+
+
+strategies
+ that
+ enable
+ the
+
+
+implementation
+ loop.
+
+
+The
+ problems
+ that
+ this
+ step
+ solves
+ are
+
+
+that
+ without
+ a
+ comprehensive
+
+
+implementation
+ plan,
+ you
+ face
+
+
+implementation
+ chaos.
+ Despite
+ having
+
+
+complete
+ specifications
+
+
+and
+ a
+ validated
+ dependency
+ matrix,
+ you
+
+
+can't
+ answer
+ which
+ features
+ should
+ be
+
+
+implemented
+ first
+ and
+ in
+ what
+ order.
+
+
+Which
+ can
+ be
+ developed
+ in
+ parallel.
+ Now,
+
+
+we
+ won't
+ talk
+ about
+ that
+ at
+ all
+ today,
+
+
+but
+ it
+ is
+ a
+ feasible
+ accelerator.
+
+
+How
+ do
+ you
+ validate
+ that
+ a
+ group
+ of
+
+
+features
+ works
+ together
+ before
+ moving
+
+
+forward?
+ and
+ when
+ is
+ it
+ safe
+ to
+ begin
+
+
+implementing
+ features
+ that
+ depend
+ on
+
+
+earlier
+ work.
+ The
+ input
+ to
+ this
+ step
+ is
+
+
+the
+ validated
+ dependency
+ matrix
+ and
+
+
+dependency
+ graph
+ from
+ step
+ four.
+ And
+ so
+
+
+what
+ we're
+ going
+ to
+ do
+ here
+ is
+ transform
+
+
+the
+ dependency
+ matrix
+ into
+ an
+ executable
+
+
+implementation
+ strategy.
+
+
+And
+ that
+ begins
+ with
+ us
+ organizing
+ the
+
+
+phases
+ of
+ implementation
+ via
+ a
+ top
+
+
+topological
+ sort.
+ So
+ we
+ organize
+
+
+features
+ into
+ implementation
+ phases
+
+
+based
+ on
+ their
+ depth
+ in
+ the
+ dependency
+
+
+map.
+ Features
+ with
+ no
+ dependencies
+
+
+become
+ phase
+ one.
+ Features
+ depending
+
+
+only
+ on
+ phase
+ one
+ become
+ phase
+ 2.
+ And
+ we
+
+
+continue
+ this
+ pattern
+ creating
+ phases
+
+
+where
+ each
+ phase
+ depends
+ only
+ on
+
+
+previous
+ phases.
+ We
+ then
+ verify
+ that
+ no
+
+
+features
+ within
+ the
+ same
+ phase
+ depend
+ on
+
+
+each
+ other.
+ And
+ lastly
+ we
+ identify
+ the
+
+
+critical
+ path
+ which
+ is
+ the
+ longest
+
+
+dependency
+ chain.
+
+
+Next
+ it
+ comes
+ parallel
+ analysis,
+ but
+
+
+we're
+ going to
+ skip
+ that
+ for
+ today.
+
+
+Next
+ is
+ validation
+ strategy
+ planning.
+ So
+
+
+for
+ each
+ phase,
+ we
+ define
+ binary
+ success
+
+
+criteria.
+ What
+ tests
+ must
+ pass,
+ what
+
+
+integration
+ points
+ must
+ work,
+ how
+ you'll
+
+
+verify
+ that
+ features
+ work
+ together,
+ and
+
+
+then
+ we
+ establish
+ feedback
+ loops
+ that
+
+
+enable
+ autonomous
+ agent
+ refinement
+ and
+
+
+binary
+ progress
+ tracking.
+ Right?
+ Is
+ a
+
+
+feature
+ implemented
+ or
+ is
+ it
+ not?
+ There
+
+
+is
+ no
+ 20%
+ implementation
+ tracking.
+
+
+Think
+ through
+ what
+ could
+ go
+ wrong
+ when
+
+
+features
+ combine
+ and
+ what
+ validation
+
+
+provides
+ confidence
+ for
+ dependent
+
+
+features
+ in
+ later
+ phases.
+ And
+ then
+ last
+
+
+we
+ move
+ on
+ to
+ implementation
+ sequencing.
+
+
+This
+ is
+ where
+ we
+ define
+ the
+ complete
+
+
+execution
+ strategy.
+ So
+ we
+ have
+ phase
+
+
+gates
+ meaning
+ how
+ is
+ it
+ we
+ determine
+
+
+we're
+ ready
+ and
+ completely
+ implemented
+ a
+
+
+given
+ phase
+ and
+ ready
+ to
+ move
+ on
+ to
+ the
+
+
+next
+ one.
+ We
+ have
+ task
+ assignment
+
+
+guidance
+ for
+ the
+ agents.
+ how
+ we
+ need
+ to
+
+
+tell
+ them
+ how
+ it
+ is
+ they're
+ going
+ to
+
+
+select
+ the
+ next
+ feature
+ to
+ work
+ on.
+ In
+
+
+the
+ event
+ that
+ they
+ get
+ blocked,
+ we
+ have
+
+
+blocker
+ management
+ process
+ where
+ we
+
+
+explain
+ how
+ it
+ is
+ that
+ they
+ handle
+ and
+
+
+resolve
+ these
+ blockers.
+ And
+ last,
+ we
+
+
+have
+ progress
+ tracking
+ mechanisms
+ that
+
+
+we
+ define.
+ These
+ are
+ at
+ the
+ feature
+
+
+level,
+ at
+ the
+ phase
+ level
+ and
+ also
+
+
+monitoring
+ the
+ critical
+ path.
+ The
+ output
+
+
+of
+ this
+ phase
+ or
+ sorry
+ this
+ step
+ is
+ the
+
+
+implementation
+ plan
+ and
+ that's
+ a
+
+
+comprehensive
+ phased
+ organized
+ execution
+
+
+strategy
+ that
+ sequences
+ all
+ features
+
+
+into
+ dependency
+ layers
+ identifies
+
+
+parallel
+ development
+ opportunities
+
+
+develops
+ binary
+ validation
+ gates
+ for
+
+
+each
+ phase
+ and
+ provides
+ the
+ guidance
+
+
+needed
+ for
+ autonomous
+ agent
+
+
+implementation
+ sessions.
+
+
+All
+ right.
+ And
+ with
+ that,
+ we're
+ now
+
+
+ready
+ to
+ talk
+ about
+ the
+ implementation
+
+
+loop.
+
+
+Implementation
+ is
+ where
+ your
+ planning
+
+
+artifacts
+ guide
+ the
+ transformation
+ of
+
+
+specifications
+ into
+ working
+ tested
+
+
+software.
+ Unlike
+ planning,
+ which
+ is
+
+
+linear
+ and
+ proceeds
+ through
+ five
+
+
+distinct
+ steps,
+ implementation
+ is
+ a
+
+
+tight
+ rapid
+ loop
+ executed
+ repeatedly
+ for
+
+
+each
+ atomic
+ feature.
+
+
+Before
+ we
+ get
+ too
+ far
+ into
+ that
+ though,
+
+
+we
+ need
+ to
+ understand
+ and
+ unpack
+ the
+
+
+multiensory
+ feedback
+ loop.
+ This
+ is
+ a
+
+
+really
+ key
+ idea
+ in
+ the
+ framework.
+
+
+The
+ agent
+ implements
+ code
+ and
+ then
+ it
+
+
+executes
+ it
+ while
+ gathering
+ feedback
+
+
+through
+ these
+ digital
+ senses.
+
+
+The
+ visual
+ sense
+ and
+ you
+ can
+ think
+ about
+
+
+that
+ as
+ what
+ renders
+
+
+the
+ auditory
+ sense
+ what
+ the
+ system
+
+
+reports
+ and
+ the
+ tactile
+ sense
+ how
+
+
+interactions
+ respond.
+
+
+This
+ sensory
+ feedback
+ provides
+ rich
+
+
+diagnostic
+ information
+ about
+ what's
+
+
+actually
+ happening
+ in
+ the
+ application.
+
+
+The
+ agent
+ runs
+ formal
+ tests
+ to
+ validate
+
+
+against
+ acceptance
+ criteria.
+ But
+ by
+
+
+correlating
+ sensory
+ feedback
+ with
+ test
+
+
+results,
+ the
+ agent
+ both
+ understands
+ what
+
+
+failed
+ from
+ the
+ tests
+ and
+ why
+ it
+ failed
+
+
+from
+ the
+ sensors.
+ This
+ loop
+ continues
+
+
+until
+ all
+ acceptance
+ criteria
+ pass
+ and
+
+
+all
+ sensors
+ report
+ clean
+ execution.
+
+
+So
+ step
+ one
+ in
+ the
+ implementation
+ loop
+
+
+is
+ context
+ assembly.
+
+
+And
+ the
+ purpose
+ here
+ is
+ to
+ transform
+
+
+planning
+ artifacts
+ into
+ a
+ curated
+
+
+context
+ package
+ that
+ enables
+ autonomous
+
+
+feature
+ implementation
+ with
+ a
+ single
+
+
+coding
+ session
+ for
+ the
+ agent.
+ The
+
+
+problem
+ that
+ this
+ solves
+ is
+ that
+ you
+
+
+have
+ atomic
+ features
+ fully
+ specified
+ and
+
+
+sequenced,
+ but
+ you
+ can't
+ just
+ throw
+
+
+everything
+ at
+ the
+ agent
+ and
+ hope
+ it
+
+
+figures
+ out
+ what
+ to
+ do.
+ Without
+
+
+systematic
+ context
+ assembly,
+ you're
+
+
+dumping
+ entire
+ planning
+ documents
+ into
+
+
+agent
+ sessions,
+ which
+ wastes
+ context
+
+
+window
+ on
+ irrelevant
+ information.
+ This
+
+
+results
+ typically
+ in
+ the
+ agent
+ making
+
+
+decisions
+ without
+ critical
+ context
+ and
+
+
+without
+ you
+ or
+ less
+ less
+ frequently
+
+
+stopping
+ and
+ asking
+ for
+ guidance.
+ And
+
+
+ultimately
+ though,
+ this
+ turns
+ what
+
+
+should
+ be
+ relatively
+ autonomous
+
+
+implementation
+ sessions
+ into
+ a
+ constant
+
+
+back
+ and
+ forth.
+ It
+ wastes
+ context
+ window
+
+
+and
+ it
+ results
+ in
+ validation
+ gaps.
+ So
+
+
+the
+ input
+ to
+ context
+ assembly
+ is
+ the
+
+
+implementation
+ plan
+ again
+ only
+ sections
+
+
+that
+ are
+ relevant
+ for
+ the
+ specific
+
+
+atomic
+ feature
+ that's
+ going
+ to
+ be
+
+
+implemented.
+ The
+ feature
+ specification
+
+
+and
+ all
+ of
+ the
+ referenced
+ dependencies
+
+
+that
+ are
+ specified
+ in
+ that
+ that
+
+
+specification.
+
+
+And
+ what
+ we're
+ going to
+ do
+ here
+ is
+
+
+curate
+ the
+ exact
+ information
+ that's
+
+
+needed
+ for
+ this
+ one
+ atomic
+ feature
+
+
+through
+ four
+ steps.
+ We
+ start
+ with
+
+
+feature
+ specification
+ assembly.
+ And
+ this
+
+
+is
+ where
+ we
+ include
+ the
+ complete
+ feature
+
+
+specification.
+ And
+ you'll
+ recall
+ that
+
+
+that's
+ the
+ user
+ story,
+ the
+ technical
+
+
+contracts,
+ acceptance
+ criteria,
+ and
+ we
+
+
+at
+ reference
+ using
+ the
+ that
+ at
+ symbol,
+
+
+right?
+ All
+ dependencies.
+ This
+ is
+ the
+
+
+primary
+ blueprint
+ that
+ the
+ agent
+ will
+
+
+follow.
+ Our
+ next
+ step
+ is
+ dependency
+
+
+context
+ gathering.
+ So
+ we
+ follow
+ all
+ of
+
+
+the
+ at
+ references
+ in
+ our
+ feature
+
+
+specification.
+
+
+And
+ each
+ at
+ reference
+ points
+ to
+ a
+ depend
+
+
+a
+ dependency
+ feature
+ specification
+ and
+
+
+the
+ actual
+ implemented
+ code.
+ And
+ that's
+
+
+critical
+ to
+ note
+ because
+ per
+ the
+
+
+framework
+ definition
+ all
+ dependencies
+
+
+must
+ be
+ implemented
+ previously.
+ So
+ this
+
+
+is
+ both
+ specification
+ and
+ code.
+ We
+ pull
+
+
+these
+ in
+ so
+ that
+ the
+ agent
+ understands
+
+
+exactly
+ what
+ it
+ needs
+ to
+ integrate
+ with.
+
+
+Next,
+ we
+ move
+ on
+ to
+ implementation
+
+
+guidance.
+ And
+ this
+ is
+ where
+ we
+ extract
+
+
+relevant
+ sections
+ from
+ the
+
+
+implementation
+ plan.
+ So,
+ we
+ don't
+ just
+
+
+dump
+ the
+ whole
+ implementation
+ plan
+ in.
+
+
+The
+ agent
+ needs
+ to
+ know
+ things
+ like
+ what
+
+
+phase
+ is
+ this
+ feature
+ in?
+ What
+ are
+ the
+
+
+phase
+ completion
+ criteria?
+ What's
+ the
+
+
+validation
+ strategy
+ for
+ this
+ phase?
+ We
+
+
+just
+ bring
+ in
+ the
+ sections
+ that
+
+
+contextualize
+ this
+ features
+
+
+implementation
+ and
+ its
+ validation.
+ And
+
+
+then
+ last
+ we
+ enable
+ sensory
+
+
+capabilities.
+ So
+ we
+ read
+ the
+ features
+
+
+acceptance
+ criteria
+ to
+ identify
+ which
+
+
+digital
+ sensors
+ are
+ required.
+
+
+Visual
+ validation
+ language
+ like
+ sees,
+
+
+displays,
+ renders
+ that
+ requires
+ the
+
+
+visual
+ sense
+ tools.
+ Logging
+ or
+ error
+
+
+language
+ requires
+ auditory
+ sense
+ tools.
+
+
+Interaction
+ language
+ like
+ clicks,
+
+
+submits,
+ completes
+ requires
+ tactile
+
+
+sense
+ tools.
+ So
+ we're
+ going
+ to
+ at
+
+
+reference
+ the
+ appropriate
+ tool
+ usage
+
+
+guides
+ that
+ we've
+ written
+ by
+ the
+ way
+ and
+
+
+we'll
+ talk
+ about
+ this
+ in
+ the
+ tool
+
+
+section
+ but
+ once
+ per
+ tool
+ so
+ that
+ it's
+
+
+reusable
+ across
+ all
+ features
+ so
+ that
+ the
+
+
+agent
+ knows
+ how
+ to
+ gather
+ the
+ required
+
+
+sensory
+ feedback.
+
+
+The
+ output
+ from
+ this
+ step
+ is
+ the
+ curated
+
+
+context
+ package
+ and
+ this
+ is
+ a
+ focused
+
+
+assembly
+ of
+ exactly
+ what
+ the
+ agent
+
+
+needs.
+ The
+ feature
+ specification,
+
+
+dependency
+ code,
+ the
+ for
+ any
+ and
+ all
+
+
+features
+ that
+ uh
+ this
+ feature
+ integrates
+
+
+with
+
+
+relevant
+ implementation
+ guidance
+ and
+
+
+sensory
+ tool
+ instructions
+ for
+
+
+validation.
+
+
+And
+ now
+ we're
+ finally
+ here.
+
+
+And
+ note
+ that
+ this
+ is
+ the
+ only
+ one
+ step
+
+
+in
+ this
+ entire
+ framework
+ that
+ is
+ the
+ AI
+
+
+writes
+ code.
+ But
+ now
+ we
+ get
+ to
+ the
+
+
+implementation
+ loop
+ [sighs]
+
+
+which
+ is
+ the
+ last
+ step
+ of
+
+
+implementation.
+ And
+ the
+ purpose
+ is
+ to
+
+
+transform
+ an
+ atomic
+ feature
+
+
+specification
+ into
+ working
+ tested
+ code.
+
+
+This
+ solves
+ a
+ specific
+ set
+ of
+ problems.
+
+
+Without
+ structured
+ implementation,
+
+
+agents
+ will
+ either
+ write
+ all
+ code
+ before
+
+
+testing
+ anything
+ and
+ that
+ accumulates
+
+
+problems
+ that
+ compound
+ or
+ they
+ write
+ and
+
+
+test
+ ad
+ hoc
+ without
+ systematic
+ feedback
+
+
+and
+ that
+ makes
+ refinement
+ a
+ bit
+ of
+ a
+
+
+guessing
+ game.
+
+
+The
+ write
+ everything
+ then
+ test
+ approach
+
+
+fails
+ because
+ problems
+ accumulate
+
+
+undetected
+ and
+ you're
+ ultimately
+
+
+debugging
+ multiple
+ interconnected
+ issues
+
+
+at
+ once.
+ The
+ ad
+ hoc
+ approach
+ fails
+
+
+because
+ without
+ comprehensive
+ sensory
+
+
+feedback,
+ you
+ miss
+ problems
+ that
+ tests
+
+
+don't
+ catch.
+
+
+Tests
+ pass,
+ for
+ example,
+ but
+ the
+ UI
+
+
+doesn't
+ render
+ correctly
+ or
+ the
+ workflow
+
+
+completes
+ but
+ errors
+ fill
+ the
+ logs.
+ The
+
+
+feature
+ quote
+ works
+ but
+ user
+
+
+interactions
+ are
+ broken.
+
+
+So
+ this
+ step
+ solves
+ all
+ these
+ problems
+
+
+through
+ a
+ single
+ multiensory
+
+
+implementation
+ loop
+ because
+ features
+ are
+
+
+atomic.
+ The
+ complete
+ imple
+
+
+implementation
+ fits
+ in
+ one
+ context
+
+
+window.
+ The
+ agent
+ maintains
+ full
+
+
+understanding
+ from
+ start
+ to
+ finish.
+
+
+There's
+ no
+ context
+ loss,
+ no
+
+
+reconstruction,
+ and
+ no
+ degraded
+
+
+fidelity.
+
+
+The
+ input
+ to
+ the
+ implementation
+ loop
+ is
+
+
+the
+ context
+ package
+ that
+ was
+ assembled
+
+
+previously.
+ And
+ so
+ what
+ we're
+ going
+ to
+
+
+do
+ here
+ is
+ execute
+ the
+ tight
+ multiensory
+
+
+feedback
+ loop,
+ which
+ starts
+ by
+ writing
+
+
+code.
+ The
+ agent
+ implements
+ the
+ code
+
+
+following
+ the
+ feature
+ specifications
+
+
+technical
+ contracts.
+
+
+It
+ translates
+ all
+ three
+ levels
+ of
+
+
+contracts
+ into
+ working
+ code
+ ensuring
+
+
+interfaces,
+ inputs,
+ outputs,
+ and
+ error
+
+
+handling
+ match
+ the
+ specification
+
+
+exactly.
+ Then
+ we
+ move
+ on
+ to
+ execute
+ and
+
+
+sense.
+ This
+ is
+ where
+ we
+ get
+
+
+comprehensive
+ digital
+ feedback.
+ The
+
+
+agent
+ immediately
+ executes
+ the
+ code
+
+
+that's
+ been
+ written
+ and
+ gathers
+
+
+comprehensive
+ sensory
+ feedback
+ through
+
+
+the
+ three
+ digital
+ sensors
+ based
+ on
+
+
+acceptance
+ criteria
+ requirements.
+ And
+
+
+we've
+ talked
+ about
+ the
+ visual,
+ auditory,
+
+
+and
+ tactile
+ senses
+ that
+ are
+ at
+ play
+
+
+there.
+ The
+ agent
+ captures
+ rich
+
+
+diagnostic
+ information
+ about
+ what's
+
+
+actually
+ happening
+ during
+ execution
+ and
+
+
+then
+ moves
+ on
+ to
+ test
+ and
+ validate.
+ And
+
+
+this
+ is
+ where
+ the
+ agent
+ runs
+ all
+ test
+
+
+scenarios
+ from
+ the
+ validation
+ contract
+
+
+section
+ of
+ the
+ specification
+ and
+ tests
+
+
+provide
+ binary
+ pass
+ fail
+ spec
+ uh
+ signals
+
+
+against
+ the
+ specification's
+
+
+requirements.
+
+
+So
+ now
+ we
+ take
+ the
+ output
+ of
+ the
+ last
+
+
+two
+ steps
+ of
+ the
+ loop
+ and
+ we
+ correlate
+
+
+them
+ all.
+ So
+ the
+ agent
+ correlates
+
+
+signals
+ across
+ all
+ active
+ sensors
+ and
+
+
+all
+ of
+ the
+ test
+ results.
+ Multiple
+
+
+sensors
+ reporting
+ the
+ same
+ issue
+
+
+confirms
+ a
+ diagnosis.
+
+
+Conflicting
+ signals
+ behind
+ sensors
+ may
+
+
+reveal
+ hidden
+ complexity.
+ But
+ this
+
+
+integrated
+ analysis
+ reveals
+ both
+ what
+
+
+failed
+ from
+ the
+ tests
+ and
+ why
+ it
+ failed
+
+
+from
+ sensory
+ feedback
+ which
+ enables
+
+
+targeted
+ refinement
+ by
+ the
+ agent.
+
+
+And
+ we
+ loop
+ and
+ loop
+ and
+ loop
+ until
+ the
+
+
+feature
+ is
+ complete.
+ And
+ the
+ feature
+ is
+
+
+complete
+ if
+ all
+ tests
+ pass
+ and
+ all
+
+
+sensors
+ report
+ clean
+ execution.
+ So
+
+
+there's
+ no
+ errors
+ in
+ blogs,
+ there
+ are
+ no
+
+
+UI
+ rendering
+ issues,
+ interactions
+ work
+
+
+properly.
+ At
+ that
+ point,
+ the
+ feature
+ is
+
+
+complete.
+ Otherwise,
+ the
+ agent
+ refineses
+
+
+based
+ on
+ the
+ diagnostic
+ information
+
+
+that's
+ been
+ gathered
+ and
+ loops
+ through
+
+
+the
+ loop
+ again.
+
+
+When
+ we
+ determine
+ that
+ these
+ convergence
+
+
+criteria
+ are
+ met,
+ then
+ the
+ feature
+ is
+
+
+complete
+ and
+ the
+ agent
+ creates
+ an
+ atomic
+
+
+git
+ commit
+ containing
+ only
+ this
+ features
+
+
+changes
+ with
+ a
+ structured
+ commit
+ message
+
+
+including
+ feature
+ ID,
+ specification
+
+
+summary,
+ validation
+ confirmation,
+ and
+
+
+implementation
+ nodes.
+ And
+ at
+ that
+ point,
+
+
+the
+ feature
+ is
+ fully
+ complete
+ and
+ the
+
+
+codebase
+ is
+ ready
+ for
+ the
+ next
+ feature.
+
+
+So
+ the
+ output
+ here
+ is
+ we've
+ finally
+ got
+
+
+there.
+ We've
+ got
+ a
+ fully
+ working
+ tested
+
+
+feature
+ that's
+ passed
+ all
+ acceptance
+
+
+criteria,
+ all
+ tests
+ and
+ has
+ been
+
+
+validated
+ by
+ all
+ three
+ digital
+ sensors
+
+
+and
+ the
+ feature
+ is
+ ready
+ for
+ integration
+
+
+into
+ the
+ broader
+ codebase.
+
+
+So,
+ let's
+ check
+ back
+ in
+ with
+ our
+ Vibe
+
+
+coding
+ dev
+ and
+ see
+ how
+ he's
+ fairing
+ now
+
+
+that
+ he's
+ been
+ exposed
+ to
+ both
+ the
+
+
+principles
+ and
+ the
+ process
+ of
+ the
+
+
+framework.
+
+
+Well,
+ it
+ seems
+ that
+ we've
+ even
+ roused
+
+
+the
+ tiger's
+ attention
+ and
+ astonishment
+
+
+here.
+ Minds
+ have
+ been
+ blown.
+ Minds
+ have
+
+
+been
+ expanded.
+ Well,
+ we're
+ rounding
+ the
+
+
+corner
+ now.
+ Let's
+ move
+ into
+ tools.
+
+
+The
+ framework
+ requires
+ four
+ foundational
+
+
+capabilities
+ that
+ enable
+ work
+ done
+ via
+
+
+the
+ process.
+
+
+So
+ let's
+ talk
+ about
+ the
+ coding
+
+
+environment.
+
+
+The
+ coding
+ environment
+ is
+ a
+ complete
+
+
+development
+ workspace
+ that
+ supports
+ two
+
+
+fundamentally
+ different
+ types
+ of
+ work
+
+
+that
+ are
+ happening
+ simultaneously.
+
+
+your
+ architectural
+ thinking
+ and
+ planning
+
+
+and
+ the
+ agents
+ autonomous
+ cap
+ uh
+
+
+implementation
+ and
+ testing.
+ And
+ so
+ there
+
+
+are
+ four
+ core
+ components
+ of
+ the
+ coding
+
+
+environment.
+ The
+ first
+ is
+ an
+ AI
+ coding
+
+
+agent
+ obviously.
+ Next
+ is
+ an
+ execution
+
+
+sandbox
+ and
+ this
+ is
+ a
+ safe
+ isolated
+
+
+environment
+ where
+ all
+ agent
+ written
+ code
+
+
+executes
+ and
+ tests
+ are
+ run.
+ Autonomous
+
+
+implementation
+ requires
+ the
+ freedom
+ to
+
+
+experiment,
+ iterate,
+ and
+ occasionally
+
+
+break
+ things.
+ And
+ the
+ sandbox
+ provides
+
+
+complete
+ development
+ capabilities
+ in
+ a
+
+
+disposable,
+ risk-free
+ environment
+ with
+
+
+easy
+ reset
+ and
+ no
+ consequences
+ for
+
+
+failure.
+
+
+Next,
+ we
+ need
+ an
+ IDE
+ or
+ a
+ text
+ editor
+ if
+
+
+you
+ must.
+ And
+ I'm
+ going
+ to
+ avoid
+ the
+
+
+holy
+ wars
+ of
+ IDE
+ versus
+ text
+ editor
+
+
+here.
+ You
+ pick
+ the
+ one
+ that
+ suits
+ you.
+
+
+And
+ last
+ is
+ voice
+ input.
+ And
+ this
+ is
+ the
+
+
+rapid
+ capture
+ system
+ that
+ converts
+
+
+speech
+ to
+ text
+ at
+ thinking
+ speed.
+
+
+Planning
+ work
+ involves
+ externalizing
+
+
+architectural
+ thinking
+ and
+ that's
+ often
+
+
+incomplete,
+ exploratory,
+ and
+ iterative.
+
+
+Voice
+ input
+ removes
+ the
+ typing
+
+
+bottleneck,
+ letting
+ you
+ think
+ out
+ loud
+
+
+and
+ capture
+ ideas
+ much
+ faster
+ than
+
+
+typing.
+ I
+ really
+ can't
+ oversell
+ just
+ how
+
+
+massively
+ impactful
+ a
+ good
+ voice
+ input
+
+
+tool
+ is
+ in
+ applying
+ the
+ framework.
+
+
+Next
+ we
+ have
+ the
+ multiensory
+ feedback
+
+
+system.
+ This
+ is
+ a
+ comprehensive
+
+
+validation
+ infrastructure
+ that
+ gives
+
+
+agents
+ the
+ ability
+ to
+ observe
+ their
+
+
+implementations
+ through
+ three
+
+
+complimentary
+ digital
+ sensors.
+ Those
+
+
+being
+ visual,
+ auditory
+ and
+ tactile
+ and
+
+
+it
+ enables
+ autonomous
+ refinement
+ through
+
+
+an
+ analogous
+ breadth
+ of
+ observation
+ that
+
+
+humans
+ use
+ during
+ development.
+ The
+ core
+
+
+components
+ here
+ are
+ visual
+ sense
+ tools
+
+
+which
+ enable
+ direct
+ observation
+ of
+ what
+
+
+was
+ produced
+ and
+ what
+ exists.
+ They
+
+
+capture
+ UI
+ rendering
+ like
+ screenshots
+ or
+
+
+layout
+ styling
+ system
+ state
+ so
+ database
+
+
+contents
+ configuration
+ session
+ data
+ and
+
+
+code
+ structure
+ which
+ is
+ the
+ actual
+
+
+implementation.
+ Visual
+ observation
+
+
+catches
+ problems
+ that
+ logs
+ and
+ tests
+
+
+miss
+ broken
+ rendering
+ incorrect
+ state
+
+
+and
+ structural
+ issues.
+
+
+Auditory
+ sense
+ tools.
+ These
+ tools
+
+
+monitor
+ what
+ the
+ system
+ reports.
+ They
+
+
+capture
+ logs
+ and
+ that's
+ the
+ system
+
+
+narrating
+ its
+ oper
+ operations
+ if
+ you
+
+
+will,
+ errors
+ and
+ warnings,
+ that's
+
+
+problems
+ the
+ system
+ detects
+ and
+ API
+
+
+responses
+ so
+ interystem
+ communications
+
+
+and
+ critically
+ stack
+ traces
+ like
+
+
+detailed
+ failure
+ information.
+ This
+
+
+diagnostic
+ information
+ explains
+ why
+
+
+things
+ fail,
+ not
+ just
+ that
+ they
+ failed.
+
+
+And
+ lastly,
+ tactile
+ sensors.
+ These
+ tools
+
+
+enable
+ active
+ interaction
+ testing.
+ They
+
+
+simulate
+ and
+ execute
+ user
+ workflows.
+ So
+
+
+that's
+ completing
+ tasks
+ end
+ to
+ end.
+ API
+
+
+interactions,
+ think
+ request
+ response
+
+
+cycles,
+ performance
+ validation
+ like
+
+
+response
+ times
+ and
+ resource
+ usage,
+
+
+security
+ checks
+ and
+ integration
+ testing.
+
+
+These
+ interactions
+ reveal
+ whether
+
+
+software
+ behaves
+ correctly
+ under
+ actual
+
+
+use,
+ not
+ just
+ in
+ isolated
+ test
+
+
+scenarios.
+
+
+Next
+ we
+ talk
+ about
+ context
+ engineering
+
+
+and
+ assembly
+ tools.
+ And
+ this
+ is
+ a
+
+
+systematic
+ approach
+ to
+ assembling
+
+
+focused
+ complete
+ context
+ packages
+ for
+ AI
+
+
+agents
+ through
+ deliberate
+ cross
+
+
+references.
+ Think
+ declarative
+ linking
+
+
+slash
+ commands
+ for
+ process
+ automation
+
+
+templates
+ for
+ structural
+ predictability
+
+
+and
+ markdown
+ documentation
+ for
+ efficient
+
+
+passable
+ documents.
+ So
+ let's
+ talk
+ about
+
+
+the
+ cross
+ referencing
+ system
+ here.
+ This
+
+
+is
+ a
+ declarative
+ linking
+ mechanism
+ that
+
+
+allows
+ documents
+ to
+ explicitly
+ reference
+
+
+other
+ documents
+ or
+ code
+ files
+ or
+
+
+sections
+ that
+ enables
+ automatic
+ context
+
+
+assembly
+ by
+ following
+ these
+ dependency
+
+
+chains.
+ Most
+ good
+ coding
+ agents
+ will
+
+
+understand
+ and
+ follow
+ these.
+ Then
+ we
+
+
+talk
+ slash
+ commands
+ or
+ whatever
+ the
+
+
+equivalent
+ is
+ in
+ your
+ selected
+ coding
+
+
+agent
+ environment.
+ But
+ these
+ are
+ process
+
+
+automation
+ mechanisms
+ that
+ trigger
+
+
+multi-step
+ framework
+ workflows
+ through
+ a
+
+
+single
+ invocation.
+ And
+ it's
+ so
+ useful
+
+
+for
+ things
+ like
+ context
+ assembly,
+ for
+
+
+instantiating
+ a
+ template,
+ for
+
+
+implementing
+ sessions
+ uh
+ for
+
+
+sorry
+ for
+ uh
+ implementation
+ session
+
+
+initialization
+
+
+and
+ then
+ the
+ template
+ system.
+ And
+ these
+
+
+are
+ the
+ structured
+ document
+ templates
+
+
+for
+ every
+ single
+ framework
+ artifact.
+
+
+Master
+ project
+ specification,
+ the
+
+
+feature
+ specification,
+ dependency
+
+
+matrix,
+ implementation
+ plan,
+
+
+implementation
+ record.
+ And
+ these
+ ensure
+
+
+consistent
+ format
+ and
+ completeness.
+
+
+Without
+ templates,
+ you
+ reinvent
+
+
+specification
+ structure
+ every
+ time.
+ And
+
+
+starting
+ from
+ scratch
+ is
+ exhausting.
+
+
+And
+ lastly,
+ markdown
+ documentation
+
+
+format.
+ We
+ all
+ know
+ what
+ it
+ is.
+ Uh,
+ but
+
+
+agents
+ are
+ so
+ literate
+ in
+ it
+ that
+ it's
+
+
+vital
+ to
+ have
+ tooling
+ that
+ rapidly
+
+
+converts
+ inputs
+ to
+ markdown.
+ Basically,
+
+
+anything
+ that
+ you
+ want
+ to
+ communicate
+ to
+
+
+an
+ agent
+ should
+ be
+ instantly
+ convertible
+
+
+to
+ markdown
+ in
+ the
+ tool
+ chain.
+
+
+Lastly,
+ version
+ control
+ and
+ progress
+
+
+tracking.
+ This
+ is
+ a
+ dual
+ mechanism
+
+
+system
+ that
+ uses
+ I'm
+ just
+ going
+ to
+ say
+
+
+it
+ git
+ for
+ implementation
+ history
+
+
+through
+ atomic
+ feature
+ commits
+ and
+
+
+secondly
+ the
+ implementation
+ plan
+ for
+
+
+feature
+ completion
+ tracking.
+ These
+ work
+
+
+together
+ to
+ provide
+ complete
+ project
+
+
+provenence
+ and
+ current
+ state
+ visibility.
+
+
+And
+ I
+ will
+ say
+ that
+ this
+ is
+ the
+ simplest
+
+
+form
+ of
+ project
+ tracking.
+ It
+ can
+ get
+
+
+certainly
+ more
+
+
+complex
+ and
+ integrated
+ with
+ other
+
+
+systems
+ than
+ this.
+
+
+But
+ uh
+ for
+ version
+ control,
+ git
+ or
+ the
+
+
+equivalent,
+ I
+ think
+ that
+ goes
+ without
+
+
+saying.
+ It's
+ like
+ saving
+ progress
+ in
+ a
+
+
+video
+ game.
+ It's
+ obvious
+ and
+ essential.
+
+
+And
+ then
+ the
+ implementation
+ plan
+ with
+
+
+progress
+ tracking,
+ we
+ take
+ that
+ same
+
+
+planning
+ artifact
+ created
+ from
+ a
+
+
+template
+ earlier
+ and
+ we
+ use
+ it
+ for
+
+
+feature
+ tracking.
+ Oh,
+ sorry,
+ for
+
+
+progress
+ tracking.
+ So,
+ Git
+ will
+ show
+ us
+
+
+what
+ changed
+ and
+ when,
+ but
+ it
+ doesn't
+
+
+show
+ us
+ the
+ project
+ state.
+ And
+ the
+
+
+implementation
+ plan
+ fills
+ that
+ gap.
+ It's
+
+
+a
+ planning
+ artifact
+ that
+ also
+ serves
+ as
+
+
+the
+ progress
+ tracker.
+
+
+So,
+ here's
+ a
+ quick
+ look
+ at
+ my
+ tool
+
+
+stack.
+ I
+ won't
+ spend
+ time
+ talking
+
+
+through
+ it
+ in
+ detail,
+ but
+ uh
+ catch
+ me
+ in
+
+
+the
+ hallway
+ and
+ I'm
+ happy
+ to
+ go
+ through
+
+
+it.
+
+
+>> [music]
+
+
+[music]
+
+
+>> All
+ right.
+ Well,
+ if
+ you've
+ enjoyed
+ this
+
+
+talk
+ and
+ you
+ want
+ the
+ slides
+ from
+ it
+ and
+
+
+other
+ resources,
+ including
+ the
+
+
+soundtrack,
+ I
+ built
+ a
+ site
+ just
+ for
+ this
+
+
+talk.
+ So,
+ check
+ it
+ out
+ at
+
+
+vibecodinghangover.com.
+
+
+[music]
+
+
+[music]
+
+
+>> [music]
