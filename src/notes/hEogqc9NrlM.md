@@ -1,10 +1,10 @@
 ---
-author: 最佳拍档
+author: Best Partners TV
 date: '2025-10-25'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=hEogqc9NrlM
-speaker: 最佳拍档
+speaker: Best Partners TV
 tags:
   - ai-competition
   - computing-power

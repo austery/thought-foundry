@@ -16,8 +16,8 @@ products_models:
 - gpt-5
 media_books: []
 date: '2025-08-18'
-author: 最佳拍档
-speaker: 最佳拍档
+author: Best Partners TV
+speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''

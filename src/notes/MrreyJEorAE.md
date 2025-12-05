@@ -1,10 +1,10 @@
 ---
-author: 最佳拍档
+author: Best Partners TV
 date: '2025-10-30'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=MrreyJEorAE
-speaker: 最佳拍档
+speaker: Best Partners TV
 tags:
   - ai-infrastructure
   - gpu-scalability

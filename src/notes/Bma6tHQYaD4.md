@@ -1,10 +1,10 @@
 ---
-author: 最佳拍档
+author: Best Partners TV
 date: '2025-10-23'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=Bma6tHQYaD4
-speaker: 最佳拍档
+speaker: Best Partners TV
 tags:
   - intelligence-commodification
   - verifier-law

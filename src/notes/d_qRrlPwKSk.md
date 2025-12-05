@@ -1,10 +1,10 @@
 ---
-author: 最佳拍档
+author: Best Partners TV
 date: '2025-11-05'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=d_qRrlPwKSk
-speaker: 最佳拍档
+speaker: Best Partners TV
 tags:
   - openai-governance
   - corporate-power-struggle

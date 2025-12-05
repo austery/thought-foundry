@@ -1,10 +1,10 @@
 ---
-author: 最佳拍档
+author: Best Partners TV
 date: '2025-11-09'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=cXktR1AaRNY
-speaker: 最佳拍档
+speaker: Best Partners TV
 tags:
   - investment-philosophy
   - venture-capital

@@ -1,10 +1,10 @@
 ---
-author: 最佳拍档
+author: Best Partners TV
 date: '2025-11-02'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=GYSCE_yfZ9E
-speaker: 最佳拍档
+speaker: Best Partners TV
 tags:
   - ai-full-stack-strategy
   - quarterly-earnings

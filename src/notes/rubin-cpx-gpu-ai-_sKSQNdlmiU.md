@@ -19,8 +19,8 @@ products_models: []
 media_books:
 - best-partners-tv
 date: '2025-09-16'
-author: 最佳拍档
-speaker: 最佳拍档
+author: Best Partners TV
+speaker: Best Partners TV
 draft: true
 guest: ''
 insight: ''

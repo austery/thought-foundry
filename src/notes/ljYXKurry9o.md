@@ -1,10 +1,10 @@
 ---
-author: 最佳拍档
+author: Best Partners TV
 date: '2025-11-11'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=ljYXKurry9o
-speaker: 最佳拍档
+speaker: Best Partners TV
 tags:
   - nested-learning
   - deep-learning-limitations
