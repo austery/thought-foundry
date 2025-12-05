@@ -14,13 +14,13 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Anthony
+speaker: Anthony看世界
 channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
-source: null
+source: https://www.youtube.com/watch?v=OB1GYKQtElc
 ---
 ## 引言：何为“中国式辩证法”？
 

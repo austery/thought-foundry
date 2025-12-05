@@ -17,7 +17,7 @@ products_models: []
 media_books: []
 date: '2025-05-25'
 author: Lei
-speaker: Anthony
+speaker: Anthony看世界
 channel: null
 guest: null
 insight: null

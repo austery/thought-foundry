@@ -8,13 +8,14 @@ project:
 tags:
   - ai
   - prompt
-people: []
+people: 
+ - Jeremy Utley
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-04-27'
 author: Lei
-speaker: Jeremy Utley
+speaker: EO
 channel: null
 guest: null
 insight: null
