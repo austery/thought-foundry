@@ -19,7 +19,7 @@ products_models: []
 media_books: []
 date: 2025-07-21
 author: Lei
-speaker: ''
+speaker: Johnathan Bi
 channel: null
 guest: ''
 insight: null
