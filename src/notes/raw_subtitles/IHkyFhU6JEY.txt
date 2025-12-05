@@ -1,0 +1,3428 @@
+[Music]
+
+
+Okay.
+ Hi
+ everyone.
+ Welcome
+ to
+ the
+
+
+conference.
+ How
+ you
+ doing?
+
+
+Excellent.
+ Usually
+ I
+ open
+ these
+
+
+conferences
+ with
+ a
+ small
+ little
+ talk
+ to
+
+
+introduce
+ uh
+ you
+ know
+ what's
+ going
+ on
+
+
+and
+ then
+ give
+ you
+ a
+ little
+ update
+ on
+
+
+where
+ the
+ state
+ of
+ AI
+ engineering
+ is
+ and
+
+
+how
+ we
+ put
+ together
+ the
+ conference
+ for
+
+
+you.
+ Uh
+ this
+ is
+ a
+ this
+ is
+ one
+ of
+ those
+
+
+combined
+ talks.
+ I'm
+ trying
+ to
+ answer
+
+
+every
+ single
+ question
+ you
+ have
+ about
+ the
+
+
+conference
+ about
+ AI
+ news
+ about
+ where
+
+
+this
+ is
+ all
+ going
+ and
+ we'll
+ just
+ dive
+
+
+right
+ in.
+ Okay.
+ So
+ um
+ 3,000
+ of
+ you
+ all
+
+
+of
+ you
+ registered
+ last
+ minute.
+ Uh
+ thank
+
+
+you
+ for
+ that
+ stress.
+ Um
+ I
+ actually
+ can
+
+
+quantify
+ this.
+ I
+ call
+ this
+ the
+ genie
+
+
+coefficient
+ for
+ uh
+ the
+ AI
+ AIE
+ organizer
+
+
+stress.
+ Uh
+ this
+ is
+ compared
+ to
+ last
+
+
+year.
+ Uh
+ it
+ is
+ please
+ just
+ buy
+ tickets
+
+
+earlier
+ like
+ I
+ mean
+ you
+ know
+ you're
+
+
+going to
+ come
+ just
+ just
+ do
+ it.
+ Okay.
+ Um
+
+
+we
+ also
+ uh
+ like
+ to
+ use
+ this
+ conference
+
+
+as
+ a
+ way
+ to
+ track
+ the
+ evolution
+ of
+ AI
+
+
+engineering.
+ Uh
+ that's
+ those
+ are
+ the
+
+
+tracks
+ for
+ last
+ year.
+ We've
+ just
+ doubled
+
+
+every
+ single
+ track
+ for
+ you.
+ Um
+ so
+
+
+basically
+ it's
+ basically
+ you
+ know
+ like
+
+
+double
+ the
+ value
+ for
+ whatever
+ you
+ uh
+ get
+
+
+here
+ and
+ I
+ think
+ like
+ uh
+ I
+ think
+ this
+ is
+
+
+as
+ much
+ concurrency
+ as
+ we
+ want
+ to
+ do
+
+
+like
+ I
+ know
+ I
+ I
+ hear
+ that
+ people
+ have
+
+
+decision
+ fatigue
+ and
+ all
+ that
+ uh
+ totally
+
+
+but
+ also
+ we
+ try
+ to
+ cover
+ all
+ of
+ AI
+ so
+
+
+deal
+ with
+ it.
+
+
+Um
+ we
+ also
+ pride
+ ourselves
+ in
+ doing
+ well
+
+
+by
+ being
+ more
+ responsive
+ than
+ other
+
+
+conferences
+ like
+ Europe's
+ and
+ being
+ more
+
+
+technical
+ than
+ other
+ conferences
+ uh
+ like
+
+
+TED
+ or
+ whatever
+ what
+ have
+ you.
+ So
+ we
+
+
+asked
+ you
+ what
+ you
+ wanted
+ to
+ hear
+ about.
+
+
+These
+ are
+ the
+ surveys.
+ Uh
+ we
+ tried
+ all
+
+
+sorts
+ of
+ things.
+ We
+ tried
+ computer
+ using
+
+
+agents.
+ We
+ tried
+ AI
+ and
+ crypto.
+ It's
+
+
+always
+ a
+ fun
+ one.
+ And
+ uh
+ but
+ you
+ guys
+
+
+told
+ told
+ us
+ what
+ you
+ wanted
+ and
+ we
+ put
+
+
+it
+ in
+ there.
+ Um
+ for
+ all
+ for
+ more
+ data
+ um
+
+
+we
+ would
+ actually
+ like
+ you
+ to
+ to
+ finish
+
+
+out
+ our
+ survey
+ where
+ survey
+ is
+ not
+ done.
+
+
+So
+ if
+ you
+ want
+ to
+ head
+ to
+ that
+ URL
+ um
+ we
+
+
+will
+ present
+ the
+ results
+ in
+ full
+
+
+tomorrow.
+ We
+ would
+ love
+ all
+ of
+ you
+ to
+ to
+
+
+fill
+ it
+ out
+ so
+ we
+ can
+ get
+ a
+
+
+representative
+ sample
+ of
+ what
+ you
+ want
+
+
+and
+ uh
+ that
+ will
+ inform
+ us
+ next
+ year.
+
+
+Okay.
+ Um
+ you
+ know
+ I
+ think
+ the
+ other
+
+
+thing
+ about
+ AI
+ engineering
+ is
+ that
+ we
+
+
+also
+ have
+ been
+ innovating
+ as
+ engineers
+
+
+right
+ we
+ we're
+ the
+ first
+ conference
+ to
+
+
+have
+ an
+ MCP.
+ at
+ our
+ first
+ conference
+ to
+
+
+have
+ an
+ MCP
+ talk
+ accepted
+ by
+ MCP
+
+
+where
+ shout
+ out
+ to
+ Sam
+ Julian
+ from
+
+
+Writer
+ for
+ working
+ with
+ us
+ on
+ the
+
+
+official
+ chatbot
+ and
+ Quinn
+ and
+ John
+ from
+
+
+Daily
+ for
+ working
+ with
+ us
+ on
+ the
+
+
+official
+ voice
+ bot
+ as
+ well
+ as
+ Elizabeth
+
+
+Triken
+ from
+ uh
+ Vappy.
+ I
+ need
+ to
+ give
+ her
+
+
+a
+ shout
+ out
+ because
+ she
+ originally
+ uh
+
+
+helped
+ us
+ uh
+ prototype
+ uh
+ the
+ the
+ voice
+
+
+bot
+ as
+ well.
+ So
+ we're
+ trying
+ to
+
+
+constantly
+ improve
+ the
+ experience.
+
+
+Uh
+ the
+ other
+ thing
+ I
+ think
+ I
+ want
+ to
+
+
+emphasize
+ as
+ well
+ is
+ like
+ these
+ are
+ the
+
+
+talks
+ that
+ I
+ give
+ like
+ in
+ 2023
+
+
+uh
+ the
+ very
+ first
+ AIE
+ I
+ talked
+ about
+ the
+
+
+uh
+ the
+ three
+ types
+ of
+ AI
+ engineer
+ in
+
+
+2024
+ I
+ talked
+ about
+ um
+ how
+ AI
+
+
+engineering
+ was
+ becoming
+ more
+ multi
+
+
+disciplinary
+ and
+ that's
+ why
+ we
+ started
+
+
+the
+ world's
+ fair
+ with
+ with
+ multiple
+
+
+tracks
+ in
+ 2025
+ in
+ in
+ New
+ York
+ we
+ talked
+
+
+about
+ the
+ evolution
+ and
+ the
+ focus
+ on
+
+
+agent
+ engineering
+ so
+ where
+ where
+ are
+ we
+
+
+now
+ in
+ sort
+ of
+ June
+ of
+ 2025
+ Um,
+ that's
+
+
+where
+ we're
+ going
+ to
+ focus
+ on.
+ I
+ think
+
+
+we
+ we
+ come
+ a
+ long
+ way
+ regardless
+ like,
+
+
+you
+ know,
+ we
+ people
+ used
+ to
+ make
+ fun
+ of
+
+
+AI
+ engineering
+ and
+ and
+ I
+ anticipated
+
+
+this.
+ We
+ used
+ to
+ be
+ low
+ status.
+ People
+
+
+just
+ derive
+ GPT
+ rappers
+ and
+ look
+ at
+ all
+
+
+the
+ GPT
+ rappers.
+ Now
+ all
+ of
+ you
+ are
+
+
+rich.
+ Um,
+ so
+ we're
+ going
+ to
+ hear
+ from
+
+
+some
+ of
+ these
+ folks
+ uh
+ in
+ the
+ room.
+ Um,
+
+
+and
+ uh,
+ thank
+ you
+ for
+ sponsoring
+ as
+
+
+well.
+
+
+Um
+ but
+ uh
+ you
+ know
+ I
+ think
+ the
+ other
+
+
+thing
+ that's
+ also
+ super
+ interesting
+ is
+
+
+that
+ like
+ you
+ should
+ we
+ the
+ consistent
+
+
+lesson
+ that
+ we
+ hear
+ is
+ to
+ not
+ over
+
+
+complicate
+ things
+ from
+ enthropic
+ on
+ the
+
+
+lat
+ space
+ podcast.
+ Uh
+ we
+ hear
+ we
+ hear
+ we
+
+
+hear
+ from
+ uh
+ Eric
+ Suns
+ about
+ how
+ they
+
+
+beat
+ Sweetbench
+ with
+ just
+ a
+ very
+ simple
+
+
+scaffold.
+ Uh
+ same
+ about
+ deep
+ research
+
+
+from
+ Greg
+ Brockman
+ who
+ you're
+ going
+ to
+
+
+hear
+ later
+ on
+ um
+ in
+ the
+ uh
+ sort
+ of
+
+
+closing
+ keynotes
+ as
+ well
+ as
+ AMP
+ code.
+
+
+Where's
+ the
+ AMP
+ folks
+ here?
+ AMP
+ amp
+ amp
+
+
+I
+ think
+ they're
+ probably
+ back
+ in
+ the
+
+
+other
+ room
+ but
+ um
+ also
+ you
+ know
+ there's
+
+
+there's
+ a
+ sort
+ of
+ emperor
+ has
+ no
+ clothes
+
+
+like
+ there's
+ it's
+ still
+ very
+ early
+ fuel
+
+
+and
+ I
+ think
+ the
+ um
+ AI
+ engineers
+ in
+ the
+
+
+room
+ like
+ should
+ be
+ very
+ encouraged
+ by
+
+
+that
+ like
+ there's
+ there's
+ still
+ a
+ lot
+ of
+
+
+alpha
+ to
+ mind
+
+
+um
+ if
+ you
+ watch
+ back
+ all
+ the
+ way
+ to
+ the
+
+
+start
+ of
+ this
+ conference
+ we
+ actually
+
+
+compared
+ this
+ moment
+ a
+ lot
+ to
+ uh
+ the
+
+
+time
+ when
+ sort
+ of
+ physics
+ was
+ in
+ was
+ in
+
+
+full
+ bloom
+ right
+ this
+ is
+ the
+ solve
+
+
+conference
+ in
+ 1927
+ when
+ Einstein
+ Mary
+
+
+Cury
+ and
+ all
+ the
+ other
+ household
+ names
+
+
+in
+ physics
+ all
+ gathered
+ together
+ And
+
+
+that's
+ what
+ we're
+ trying
+ to
+ do
+ for
+ this
+
+
+conference.
+ We've
+ gathered
+ the
+ entire
+
+
+the
+ best
+ um
+ sort
+ of
+ AI
+ engineers
+ in
+ the
+
+
+in
+ the
+ world
+ um
+ and
+ and
+ researchers
+ and
+
+
+and
+ and
+ all
+ that
+ uh
+ to
+ to
+ build
+ and
+ push
+
+
+the
+ frontier
+ forward.
+ Um
+ the
+ thesis
+ is
+
+
+that
+ there's
+ this
+ is
+ the
+ time
+ this
+ is
+
+
+the
+ right
+ time
+ to
+ do
+ it.
+ I
+ said
+ that
+ two
+
+
+and
+ a
+ half
+ years
+ ago
+ still
+ true
+ still
+
+
+true
+ today.
+ But
+ I
+ think
+ like
+ there's
+ a
+
+
+very
+ specific
+ time
+ when
+ like
+ basically
+
+
+what
+ people
+ did
+ in
+ in
+ that
+ time
+ of
+ the
+
+
+formation
+ of
+ an
+ industry
+ is
+ that
+ they
+
+
+set
+ out
+ all
+ the
+ basic
+ ideas
+ that
+ then
+
+
+lasted
+ for
+ the
+ rest
+ of
+ that
+ industry.
+ So
+
+
+this
+ is
+ the
+ standard
+ model
+ in
+ physics
+
+
+and
+ there
+ was
+ a
+ very
+ specific
+ period
+ in
+
+
+time
+ from
+ like
+ the
+ 40s
+ to
+ the
+ 70s
+ where
+
+
+they
+ figured
+ it
+ all
+ out
+ and
+ the
+ the
+ next
+
+
+50
+ years
+ we
+ haven't
+ really
+ changed
+ the
+
+
+standard
+ model.
+ So
+ the
+ question
+ that
+ I
+
+
+want
+ to
+ phrase
+ here
+ is
+ what
+ is
+ the
+
+
+standard
+ model
+ in
+ AI
+ engineering
+ right
+
+
+we
+ have
+ standard
+ models
+ in
+ the
+ rest
+ of
+
+
+engineering
+ right
+ everyone
+ knows
+ ETL
+
+
+everyone
+ knows
+ MVC
+ everyone
+ knows
+ CRUD
+
+
+everyone
+ knows
+ map
+ reduce
+ and
+ I've
+ used
+
+
+those
+ things
+ in
+ like
+ building
+ AI
+
+
+applications
+ and
+ like
+ it's
+ pretty
+ much
+
+
+like
+ yes
+ rag
+ is
+ there
+ but
+ I
+ heard
+ rag
+ is
+
+
+dead
+ I
+ I
+ don't
+ know
+ you
+ guys
+ can
+ tell
+ me
+
+
+um
+ this
+ day
+ is
+ like
+ long
+ long
+ context
+
+
+killed
+ rag
+ the
+ other
+ day
+ fine
+ tuning
+
+
+kills
+ rag
+ I
+ don't
+ know
+ but
+ I
+ I
+ don't
+
+
+think
+ I
+ definitely
+ don't
+ think
+ is
+ the
+
+
+full
+ answer.
+ So
+ what
+ other
+ standard
+
+
+models
+ might
+ emerge
+ to
+ help
+ us
+ guide
+ our
+
+
+thinking
+ and
+ that's
+ really
+ what
+ I
+ want
+
+
+to
+ push
+ you
+ guys
+ to.
+ So
+ uh
+ there
+ are
+ a
+
+
+few
+ candidates
+ standard
+ models
+ and
+ AI
+
+
+engineering.
+ I'll
+ pick
+ out
+ a
+ few
+ of
+
+
+these.
+ I
+ I
+ don't
+ have
+ time
+ to
+ talk
+ about
+
+
+all
+ of
+ them
+ but
+ definitely
+ listen
+ to
+ the
+
+
+DSP
+ talk
+ from
+ Omar
+ later
+ uh
+ tomorrow.
+
+
+Um
+ so
+ we're
+ going
+ to
+ cover
+ uh
+ a
+ few
+ of
+
+
+these.
+ So
+ first
+ is
+ the
+ LM
+ OS.
+ Uh
+ this
+ is
+
+
+one
+ of
+ the
+ earliest
+ standard
+ standard
+
+
+models
+ um
+ basically
+ uh
+ from
+ Karpavi
+ in
+
+
+2023.
+ Um
+ I
+ have
+ updated
+ it
+ for
+ 2025
+ um
+
+
+for
+ multimodality
+ for
+ the
+ standard
+ set
+
+
+of
+ tools
+ that
+ have
+ come
+ out
+ um
+ as
+ well
+
+
+as
+ um
+ MCP
+ which
+ uh
+ is
+ is
+ has
+ become
+ the
+
+
+default
+ protocol
+ for
+ connecting
+ with
+ the
+
+
+outside
+ world.
+ Um
+ second
+ one
+ would
+ be
+
+
+the
+ LN
+ SDLC
+ software
+ development
+ life
+
+
+cycle.
+ Um
+ I
+ have
+ two
+ versions
+ of
+ this
+
+
+one
+ with
+ the
+ intersecting
+ concerns
+ of
+
+
+all
+ the
+ tooling
+ that
+ you
+ buy.
+ Uh
+ by
+ the
+
+
+way
+ this
+ is
+ all
+ on
+ the
+ laten
+ space
+ blog
+
+
+if
+ you
+ want
+ and
+ I'll
+ tweet
+ out
+ the
+
+
+slides
+ so
+ uh
+ and
+ it's
+ live
+ stream
+ so
+
+
+whatever
+ um
+ but
+ I
+ think
+ uh
+ for
+ me
+ the
+
+
+most
+ interesting
+ insight
+ and
+ the
+ aha
+
+
+moment
+ when
+ I
+ was
+ talking
+ to
+ anker
+ of
+
+
+brain
+ trust
+ who's
+ going
+ to
+ be
+ keynoting
+
+
+tomorrow
+ um
+ is
+ that
+ you
+ know
+ the
+ early
+
+
+parts
+ of
+ the
+ SDLC
+ is
+ are
+ increasingly
+
+
+commodity
+ right
+ LLM's
+ kind
+ of
+ free
+ you
+
+
+know
+ um
+ monitoring
+ kind
+ of
+ free
+ and
+ rag
+
+
+kind
+ of
+ free
+ obviously
+ there's
+ it's
+ just
+
+
+free
+ tier
+ for
+ all
+ of
+ them
+ and
+ you
+ you
+
+
+only
+ get
+ start
+ paying
+ but
+ like
+ when
+ you
+
+
+start
+ to
+ make
+ real
+ money
+ from
+ your
+
+
+customers
+ is
+ when
+ you
+ start
+ to
+ do
+ evals
+
+
+and
+ you
+ start
+ to
+ add
+ in
+ security
+
+
+orchestration
+ and
+ do
+ real
+ work
+ uh
+ that
+
+
+is
+ real
+ hard
+ engineering
+ work
+ um
+ and
+ I
+
+
+think
+ that's
+ those
+ are
+ the
+ tracks
+ that
+
+
+we've
+ added
+ this
+ year
+ um
+ and
+ I'm
+ very
+
+
+proud
+ to
+ you
+ know
+ I
+ guess
+ push
+ AI
+
+
+engineering
+ along
+ from
+ demos
+ into
+
+
+production
+ which
+ is
+ what
+ everyone
+ always
+
+
+wants
+ another
+ form
+ of
+ standard
+ model
+ is
+
+
+building
+ effective
+ agents
+ uh
+ our
+ last
+
+
+conference
+ we
+ had
+ uh
+ Barry
+ one
+ of the
+
+
+co-authors
+ of
+ building
+ effective
+ agents
+
+
+from
+ enthopic
+ give
+ an
+ extremely
+ really
+
+
+popular
+ talk
+ about
+ this.
+ Um
+ I
+ think
+ that
+
+
+this
+ is
+ now
+ at least
+ the
+ the
+ received
+
+
+wisdom
+ for
+ how
+ to
+ build
+ an
+ agent.
+ And
+ I
+
+
+think
+ like
+ that's
+ like
+ that
+ is
+ one
+
+
+definition.
+ Open
+ AI
+ has
+ a
+ different
+
+
+definition
+ and
+ I
+ think
+ we're
+ we're
+
+
+contining
+ to
+ iterate.
+ I
+ think
+ Dominic
+
+
+yesterday
+ uh
+ released
+ another
+
+
+improvement
+ on
+ the
+ agents
+ SDK
+ which
+
+
+builds
+ upon
+ the
+ swarm
+ concept
+ that
+
+
+OpenAI
+ is
+ pushing.
+
+
+Um
+ um
+ the
+ way
+ that
+ I
+ approach
+ sort
+ of
+
+
+the
+ agent
+ standard
+ model
+ has
+ been
+ very
+
+
+different.
+ So
+ you
+ can
+ refer
+ to
+ my
+ talk
+
+
+from
+ the
+ previous
+ conference
+ on
+ that.
+ Um
+
+
+basically
+ trying
+ to
+ do
+ a
+ descriptive
+ u
+
+
+top
+ down
+ u
+ model
+ of
+ what
+ people
+ use
+ the
+
+
+words
+ people
+ use
+ to
+ describe
+ agents
+ like
+
+
+intent
+ um
+ you
+ know
+ control
+ flow
+ um
+
+
+memory
+ planning
+ and
+ tool
+ use.
+ So
+ there's
+
+
+all
+ these
+ there's
+ all
+ these
+ like
+ really
+
+
+really
+ interesting
+ things.
+ But
+ I
+ think
+
+
+that
+ the
+ thing
+ that
+ really
+ got
+ me
+ um
+ is
+
+
+like
+ I
+ don't
+ actually
+ use
+ all
+ of
+ that
+ to
+
+
+build
+ AI
+ news.
+ Um
+ by
+ the
+ way
+ who
+ here
+
+
+reads
+ AI
+ news?
+ I
+ don't
+ know
+ if
+ there's
+
+
+like
+ a
+ Yeah.
+ Oh
+ my
+ god,
+ like
+ that's
+ half
+
+
+of
+ you.
+ Thanks.
+ Uh
+ uh
+ it's
+ it's
+ a
+ really
+
+
+good
+ tool
+ I
+ built
+ for
+ myself
+ and
+ you
+
+
+know
+ hopefully
+ uh
+ now
+ over
+ 70,000
+ people
+
+
+are
+ reading
+ along
+ as
+ well.
+ Um
+ and
+ the
+
+
+thing
+ that
+ really
+ got
+ me
+ was
+ Sum
+
+
+at
+ the
+ last
+ conference.
+ Uh
+ you
+ know
+ he's
+
+
+the
+ lead
+ of
+ PyTorch
+ and
+ he
+ says
+ he
+ reads
+
+
+AI
+ news
+ he
+ loves
+ it
+ but
+ it
+ is
+ not
+ an
+
+
+agent.
+ And
+ I
+ was
+ like
+ what
+ do
+ you
+ mean
+
+
+it's
+ not
+ an
+ agent?
+ I
+ call
+ it
+ an
+ agent.
+
+
+You
+ should
+ call
+ it
+ an
+ agent.
+ Um
+ but
+ he's
+
+
+right.
+ Um,
+ it's
+ actually
+ uh
+ it's
+
+
+actually
+ I'm
+ going
+ to
+ talk
+ a
+ little
+ bit
+
+
+about
+ that,
+ but
+ like
+ like
+ why
+ does
+ it
+
+
+still
+ deliver
+ value
+ even
+ though
+ it's
+
+
+like
+ a
+ workflow
+ and
+ like
+ you
+ know
+ is
+
+
+that
+ still
+ interesting
+ to
+ people,
+ right?
+
+
+Like
+ why
+ do
+ we
+ not
+ brand
+ every
+ single
+
+
+track
+ here?
+ Voice
+ agents
+ uh
+ you
+ know
+
+
+like
+ uh
+ like
+ workflow
+ agents,
+ computer
+
+
+use
+ agents
+ like
+ why
+ is
+ every
+ single
+
+
+track
+ in
+ this
+ conference
+ not
+ an
+ agent?
+
+
+Well,
+ I
+ think
+ basically
+ we
+ want
+ to
+
+
+deliver
+ value
+ instead
+ of
+ arguable
+
+
+terminology.
+ So
+ the
+ assertion
+ that
+ I
+
+
+have
+ is
+ that
+ it's
+ really
+ about
+ human
+
+
+input
+ versus
+ valuable
+ um
+ AI
+ output
+ and
+
+
+you
+ can
+ sort
+ of
+ make
+ a
+ mental
+ model
+ of
+
+
+this
+ and
+ track
+ the
+ ratio
+ of
+ this
+ and
+
+
+that's
+ more
+ interesting
+ than
+ arguing
+
+
+about
+ definitions
+ of
+ workflow
+ versus
+
+
+agents.
+ So
+ for
+ example
+ in
+ the
+ copilot
+
+
+era
+ you
+ had
+ sort
+ of
+ like
+ a
+ debounce
+
+
+input
+ of
+ like
+ every
+ few
+ characters
+ that
+
+
+you
+ type
+ then
+ maybe
+ it
+ will
+ do
+ an
+
+
+autocomplete
+ u
+ in
+ chatbt
+ every
+ few
+
+
+queries
+ that
+ you
+ type
+ it
+ would
+ maybe
+
+
+output
+ a
+ responding
+ query.
+ Um
+ it
+ starts
+
+
+to
+ get
+ more
+ interesting
+ with
+ the
+
+
+reasoning
+ models
+ with
+ like
+ a
+ 1
+ to10
+
+
+ratio
+ and
+ then
+ obviously
+ with
+ like
+ the
+
+
+new
+ agents
+ now
+ it's
+ like
+ more
+ sort
+ of
+
+
+deep
+ research
+ notebook.
+ Uh
+ by
+ the
+ way
+
+
+Ryzen
+ Martin
+ also
+ speaking
+ on
+ the
+
+
+product
+ uh
+ product
+ management
+ track.
+ Um
+
+
+she's
+ she's
+ incredible
+ on
+ uh
+ talking
+
+
+about
+ the
+ story
+ of
+ notebook
+ LM.
+ Um
+ the
+
+
+other
+ really
+ interesting
+ angle
+ if
+ you
+
+
+want
+ to
+ take
+ this
+ mental
+ model
+ to
+ the
+
+
+stretch
+ to
+ stretch
+ it
+ is
+ the
+ zero
+ to
+ one
+
+
+the
+ ambient
+ agents
+ with
+ no
+ human
+ input.
+
+
+What
+ kind
+ of
+ interesting
+ uh
+ AI
+ output
+
+
+can
+ you
+ get?
+ So
+ to
+ me
+ that's
+ that's
+ more
+
+
+a
+ useful
+ discussion
+ about
+ input
+ versus
+
+
+output
+ than
+ what
+ is
+ a
+ workflow
+ wise
+ and
+
+
+an
+ agent
+ how
+ agentic
+ is
+ your
+ thing
+
+
+versus
+ versus
+ not.
+
+
+Um
+ talking
+ about
+ AI
+ news
+ uh
+ so
+ you
+ know
+
+
+it
+ is
+ it
+ is
+ like
+ a
+ bunch
+ of
+ scripts
+ in
+ a
+
+
+in
+ a
+ in
+ a
+ trench
+ code.
+ Um
+ and
+ I
+ realized
+
+
+I've
+ written
+ it
+ three
+ times.
+ I've
+
+
+written
+ it
+ for
+ the
+ Discord
+ scrape.
+ I've
+
+
+written
+ it
+ for
+ the
+ Reddit
+ scrape.
+ I've
+
+
+written
+ it
+ for
+ the
+ Twitter
+ scrape.
+ And
+
+
+basically
+ it's
+ just
+ it's
+ always
+ the
+ same
+
+
+process.
+ You
+ scrape
+ it.
+ You
+ plan.
+ You
+
+
+recursively
+ summarize.
+ You
+ format
+ and
+
+
+you
+ evaluate.
+ Um
+ and
+ and
+ yeah,
+ that's
+
+
+the
+ three
+ kids
+ in
+ the
+ trench
+ coat.
+ Um
+
+
+and
+ that's
+ really
+ how
+ what
+ it
+ is.
+ I
+ run
+
+
+it
+ every
+ day
+ and
+ like
+ we
+ improve
+ it
+ a
+
+
+little
+ bit,
+ but
+ then
+ I'm
+ also
+ running
+
+
+this
+ conference.
+ Um
+ so
+ if
+ you
+ generalize
+
+
+it,
+ that
+ actually
+ starts
+ to
+ become
+ an
+
+
+interesting
+ model
+ for
+ building
+ AI
+
+
+intensive
+ applications
+ where
+ you
+ start
+
+
+to
+ make
+ thousands
+ of
+ AI
+ calls
+ to
+ serve
+
+
+serve
+ a
+ particular
+ purpose.
+ Um
+ so
+ you
+
+
+sync
+ you
+ plan
+ and
+ and
+ you
+ sort
+ of
+
+
+parallel
+ process
+ you
+ analyze
+ and
+ sort
+ of
+
+
+reduce
+ that
+ down
+ to
+ uh
+ from
+ from
+ many
+ to
+
+
+one
+ and
+ then
+ you
+ uh
+ deliver
+ uh
+ deliver
+
+
+the
+ contents
+ um
+ to
+ the
+ to
+ the
+ user
+ and
+
+
+then
+ you
+ evaluate
+ and
+ to
+ me
+ like
+ that
+
+
+conveniently
+ forms
+ an
+ acronym
+ SP
+ AD
+ um
+
+
+which
+ is
+ which
+ is
+ really
+ nice.
+ There's
+
+
+also
+ sort
+ of
+ interesting
+ AI
+ engineering
+
+
+elements
+ that
+ are
+ that
+ are
+ fit
+ in
+ there.
+
+
+So
+ you
+ can
+ process
+ all
+ these
+ into
+ a
+
+
+knowledge
+ graph.
+ you
+ can
+ um
+ turn
+ these
+
+
+into
+ like
+ structured
+ outputs
+ and
+ you
+ can
+
+
+generate
+ code
+ as
+ well.
+ So
+ for
+ example
+ um
+
+
+you
+ know
+ chat
+ GBT
+ with
+ canvas
+ or
+ cloud
+
+
+with
+ um
+ artifacts
+ is
+ a
+ way
+ of
+ just
+
+
+delivering
+ the
+ output
+ as
+ a
+ code
+ artifact
+
+
+instead
+ of
+ just
+ uh
+ text
+ output
+ and
+ I
+
+
+think
+ it's
+ like
+ a
+ really
+ interesting
+ way
+
+
+to
+ think
+ about
+ this.
+ So
+ this
+ is
+ my
+
+
+mental
+ model
+ so
+ far.
+ Um
+ I
+ I
+ wish
+ I
+ had
+
+
+the
+ space
+ to
+ go
+ into
+ it
+ but
+ ask
+ me
+
+
+later.
+ This
+ is
+ what
+ I'm
+ developing
+ right
+
+
+now.
+ I
+ think
+ what
+ I
+ what
+ I
+ would
+ really
+
+
+emphasize
+ is,
+ you
+ know,
+ I
+ think
+ like
+
+
+there's
+ all
+ sorts
+ of
+ interesting
+ ways
+ to
+
+
+think
+ about
+ what
+ the
+ standard
+ model
+ is
+
+
+and
+ whether
+ it's
+ useful
+ for
+ you
+ in
+ in
+
+
+taking
+ your
+ application
+ to
+ the
+ next
+ step
+
+
+of
+ like
+ how
+ do
+ I
+ add
+ more
+ intelligence
+
+
+to
+ this
+ in
+ in
+ a
+ way
+ that's
+ useful
+ and
+
+
+not
+ annoying.
+ Uh,
+ and
+ for
+ me,
+ this
+ is
+
+
+it.
+ Okay.
+ So,
+ I've
+ I've
+ thrown
+ a
+ bunch
+
+
+of
+ standard
+ models
+ in
+ here,
+ but
+ that's
+
+
+just
+ my
+ current
+ hypothesis.
+ I
+ want
+ you
+
+
+at
+ this
+ conference
+ when
+ in
+ all
+ your
+
+
+conversations
+ with
+ each
+ other
+ and
+ with
+
+
+the
+ speakers
+ to
+ think
+ about
+ what
+ the
+ new
+
+
+standard
+ model
+ for
+ AI
+ engineering
+ is.
+
+
+What
+ can
+ everyone
+ use
+ to
+ improve
+ their
+
+
+applications
+ and
+ I
+ guess
+ ultimately
+
+
+build
+ products
+ that
+ people
+ want
+ to
+ use
+
+
+which
+ is
+ what
+ Lori
+ uh
+ mentioned
+ at
+ the
+
+
+start.
+ So
+ um
+ I'm
+ really
+ excited
+ about
+
+
+this
+ conference.
+ It's
+ so
+ it's
+ been
+ such
+
+
+an
+ honor
+ and
+ a
+ joy
+ to
+ get
+ it
+ together
+
+
+for
+ you
+ guys
+ and
+ I
+ hope
+ you
+ enjoy
+ the
+
+
+rest
+ of
+ the
+ conference.
+ Thank
+ you
+ so
+
+
+much.
+
+
+[Music]
