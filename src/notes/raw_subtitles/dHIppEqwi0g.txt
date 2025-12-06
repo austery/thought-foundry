@@ -1,0 +1,17448 @@
+What
+ does
+ vibe
+ coding
+ mean
+ to
+ you?
+
+
+>> VIP
+ coding
+ is
+ not
+ the
+ same
+ as
+ AI
+
+
+assisted
+ engineering
+ and
+ I
+ feel
+ like
+
+
+that
+ distinction
+ is
+ kind
+ of
+ critical
+
+
+because
+ we
+ don't
+ want
+ to
+ devalue
+ the
+
+
+discipline
+ of
+ engineering.
+
+
+>> How
+ do
+ you
+ personally
+ use
+ these
+ tools?
+
+
+>> I
+ have
+ more
+ recently
+ been
+ focusing
+ on
+
+
+the
+ idea
+ of
+ specdriven
+ development.
+
+
+Having
+ a
+ very
+ clear
+ plan
+ of
+ what
+ it
+ is
+
+
+that
+ I
+ want
+ to
+ build.
+ If
+ you
+ are
+ open
+ to
+
+
+tests,
+ it
+ can
+ be
+ a
+ great
+ way
+ of
+
+
+derisking
+ your
+ use
+ of
+ LLMs
+ in
+ coding.
+
+
+One
+ thing
+ that
+ I'm
+ kind
+ of
+ noticing
+ on
+
+
+myself
+ already
+ is
+ losing
+ a
+ little
+ bit
+ of
+
+
+criticality.
+
+
+>> It's
+ going
+ to
+ continue
+ to
+ be
+ very
+
+
+important
+ for
+ us
+ [music]
+ to
+ be
+ able
+ to
+
+
+think
+ through
+ how
+ things
+ work,
+ be
+ able
+
+
+to
+ problem
+ solve
+ without
+ necessarily
+
+
+relying
+ on
+ the
+ AI.
+ Testing
+ and
+ retesting
+
+
+your
+ critical
+ thinking
+ skills
+ are
+ going
+
+
+to
+ be
+ important.
+
+
+>> You're
+ working
+ inside
+ a
+ larger
+ team,
+ the
+
+
+Chrome
+ team,
+ other
+ teams
+ as
+ well.
+ What
+
+
+are
+ things
+ that
+ you're
+ observing
+
+
+>> at
+ a
+ company
+ like
+ Google
+ with
+ AI?
+ What
+
+
+we've
+ realized
+ is
+
+
+>> how
+ do
+ professional
+ software
+ engineers
+
+
+and
+ the
+ likes
+ of
+ Google
+ go
+ [music]
+
+
+beyond
+ vibe
+ coding
+ to
+ speed
+ up
+ their
+
+
+day-to-day
+ work
+ with
+ AI?
+ Eddie
+ Osmani
+
+
+has
+ worked
+ on
+ the
+ Chrome
+ team
+ for
+ 13
+
+
+[music]
+ years.
+ And
+ if
+ you
+ ever
+ opened
+ up
+
+
+the
+ developer
+ tab
+ on
+ Chrome,
+ you've
+
+
+definitely
+ used
+ the
+ stuff
+ he
+ built.
+ He
+
+
+is
+ also
+ a
+ prolific
+ author.
+ His
+ latest
+
+
+[music]
+ book
+ is
+ titled
+ Beyond
+ VIP
+ Coding
+
+
+and
+ it's
+ aimed
+ at
+ professional
+ software
+
+
+engineers.
+ Today
+ we
+ go
+ into
+ VIP
+ coding
+
+
+versus
+ AI
+ assisted
+ engineering
+ and
+ why
+
+
+vibe
+ coding
+ isn't
+ useful
+ for
+ much
+ more
+
+
+than
+ just
+ prototyping
+ something
+ quick
+
+
+and
+ dirty.
+ the
+ importance
+ of
+ [music]
+
+
+understanding
+ what
+ the
+ model
+ does.
+ Why
+
+
+Addie
+ always
+ reads
+ to
+ the
+ thinking
+ log
+
+
+of
+ the
+ model
+ he
+ uses
+ to
+ [music]
+ make
+
+
+sure
+ he
+ fully
+ understands
+ what
+ it
+ did
+
+
+and
+ why
+ before
+ approving
+ changes.
+ New
+
+
+development
+ workflows
+ with
+ AI
+ how
+ things
+
+
+like
+ speci
+ development
+ [music]
+
+
+asynchronous
+ coding
+ background
+ agents
+
+
+and
+ parallel
+ coding
+ with
+ several
+ agents
+
+
+are
+ new
+ and
+ unexplored
+ areas
+ of
+ software
+
+
+engineering
+ [music]
+
+
+and
+ many
+ more.
+ If
+ you're
+ a
+ software
+
+
+engineer
+ who
+ wants
+ to
+ work
+ better
+ with
+
+
+AI
+ coding
+ tools
+ on
+ the
+ day-to-day
+ and
+
+
+wants
+ to
+ build
+ reliable
+ software
+ with
+ AI
+
+
+tools,
+ then
+ this
+ episode
+ is
+ for
+ you.
+
+
+This
+ podcast
+ episode
+ is
+ presented
+ by
+
+
+Statsic,
+ the
+ unified
+ platform
+ for
+ flags,
+
+
+analytics,
+ experiments,
+ and
+ more.
+ Check
+
+
+out
+ the
+ show
+ notes
+ to
+ learn
+ more
+ about
+
+
+them
+ and
+ our
+ other
+ season
+ sponsor.
+ So,
+
+
+Addy,
+ welcome
+ to
+ the
+ podcast.
+ Thank
+ you.
+
+
+It's
+ a
+ pleasure
+ to
+ be
+ here.
+ You're
+ an
+
+
+author
+ of
+ a
+ lot
+ of
+ different
+ books,
+
+
+leading
+ effective
+ engineering
+ teams.
+
+
+This
+ came
+ out
+ about
+ a
+ year
+ ago,
+ and
+ now
+
+
+your
+ latest
+ book
+ is
+ is
+ called
+ Beyond
+
+
+Vibe
+ Coding.
+ And
+ on
+ on
+ your
+ on
+ your
+
+
+Substack,
+ you
+ also
+ write
+ a
+ lot
+ about
+
+
+your
+ your
+ learnings
+ about
+ VIP
+ coding/
+ AI
+
+
+assisted
+ development.
+ In
+ this
+ book
+ and
+
+
+also
+ on
+ your
+ blog,
+ you
+ talk
+ about
+ VI
+
+
+coding
+ versus
+ AI
+ assisted
+ software
+
+
+engineering.
+ In
+ your
+ mind,
+ what
+ does
+ VIP
+
+
+coding
+ mean
+ to
+ you
+ specifically
+ and
+ how
+
+
+is
+ it
+ different
+ or
+ similar
+ to
+ AI
+
+
+assisted
+ software
+ engineering?
+
+
+>> Yeah.
+ So,
+ I've
+ um
+ I've
+ I've
+ been
+ I
+ tend
+
+
+to
+ tell
+ folks
+ that
+ I
+ personally
+ think
+
+
+the
+ vibe
+ coding
+ is
+ not
+ the
+ same
+ as
+ AI
+
+
+assisted
+ engineering.
+ And
+ I
+ feel
+ like
+
+
+that
+ distinction
+ is
+ kind
+ of
+ critical
+ um
+
+
+because
+ we
+ don't
+ want
+ to
+ devalue
+ the
+
+
+discipline
+ of
+ engineering
+ um
+ and
+ give
+
+
+you
+ know
+ folks
+ that
+ are
+ new
+ to
+ the
+
+
+industry
+ an
+ incomplete
+ picture
+ of
+ what
+
+
+it
+ takes
+ to
+ build
+ um
+ robust
+ production
+
+
+ready
+ software.
+ But
+ I
+ I
+ kind
+ of
+ have
+ I
+
+
+guess
+ two
+ two
+ definitions
+ for
+ them.
+ Um
+ I
+
+
+think
+ the
+ vibe
+ coding
+ is
+ really
+ about
+ um
+
+
+fully
+ giving
+ into
+ the
+ creative
+ flow
+
+
+within
+ AI.
+ So
+ very
+ much
+ focused
+ on
+ high
+
+
+level
+ prompting
+ and
+ in
+ many
+ ways
+
+
+forgetting
+ that
+ the
+ code
+ exists.
+ Um
+ so
+
+
+you
+ would
+ you
+ know
+ this
+ this
+ goes
+ back
+
+
+to
+ Andraj
+ Karpathi's
+ like
+ original
+ um
+
+
+definition
+ but
+ it's
+ about
+ accepting
+ AI
+
+
+suggestions
+ without
+ necessarily
+ having
+ a
+
+
+deep
+ review
+ and
+ focusing
+ on
+ rapid
+
+
+iterative
+ experimentation.
+ Personally,
+ I
+
+
+find
+ it
+ really
+ great
+ for
+ prototypes
+ um
+
+
+MVPs
+ and
+ learning
+ um
+ and
+ uh
+ I
+ think
+ it's
+
+
+you
+ know
+ what
+ what
+ I've
+ seen
+ in
+ um
+
+
+production
+ teams
+ is
+ that
+ this
+ has
+ been
+
+
+very
+ useful
+ for
+ them
+ when
+ it
+ comes
+ to
+
+
+trying
+ out
+ ideas
+ rapidly
+ and
+ building
+
+
+out
+ an
+ intuition
+ for
+ what
+ you
+ know
+ the
+
+
+shape
+ of
+ an
+ idea
+ might
+ look
+ like,
+ what
+ a
+
+
+component
+ might
+ look
+ like,
+ what
+ an
+ MVP
+
+
+might
+ look
+ like
+ and
+ that
+ tends
+ to
+
+
+prioritize
+ speed
+ and
+ exploration
+ over
+
+
+things
+ like
+ correctness
+ and
+
+
+maintainability,
+ things
+ that
+ we
+ perhaps
+
+
+care
+ a
+ little
+ bit
+ um
+ about
+ when
+ it
+ comes
+
+
+to
+ building
+ things
+ for
+ large
+ production
+
+
+audiences.
+ And
+ I
+ would
+ say
+ that
+ there's
+
+
+a
+ little
+ bit
+ of
+ a
+ spectrum
+ between
+ vibe
+
+
+coding
+ and
+ uh
+ doing
+ what
+ falls
+ a
+ little
+
+
+bit
+ closer
+ into
+ traditional
+ software
+
+
+engineering.
+ You
+ know,
+ doing
+ more
+
+
+planning,
+ more
+ um
+ specificationdriven
+
+
+development
+ uh
+ including
+ sufficient
+
+
+context
+ uh
+ and
+ uh
+ really
+ what
+ is
+ AI
+
+
+assisted
+ engineering
+ across
+ the
+ full
+
+
+software
+ development
+ life
+ cycle.
+ So
+ to
+
+
+me
+ AI
+ assisted
+ engineering
+ is
+ where
+ AI
+
+
+is
+ this
+ powerful
+ collaborator
+ but
+ it's
+
+
+not
+ a
+ replacement
+ for
+ engineering
+
+
+principles
+ and
+ so
+ in
+ that
+ model
+ it
+ is
+ a
+
+
+force
+ multiplier
+ but
+ it
+ can
+ help
+ you
+
+
+across
+ that
+ whole
+ cycle
+ um
+ whether
+ it
+ is
+
+
+with
+ boilerplate
+ debugging
+ deployment
+
+
+but
+ the
+ big
+ difference
+ is
+ that
+ the
+ human
+
+
+engineer
+ um
+ remains
+ firmly
+ in
+ control
+
+
+you
+ are
+ responsible
+ for
+ thinking
+ about
+
+
+the
+ architecture
+ for
+ reviewing
+ the
+ mode
+
+
+and
+ for
+ understanding
+ um
+ every
+ line
+ if
+
+
+not
+ most
+ of
+ what
+ AI
+ is
+ generating
+ for
+
+
+you
+ and
+ you're
+ on
+ the
+ hook
+ really
+ for
+
+
+making
+ sure
+ that
+ the
+ final
+ product
+ is
+
+
+secure
+ um
+ scalable
+ and
+ maintainable.
+
+
+Maybe
+ AI
+ is
+ helping
+ you
+ with
+ with
+
+
+velocity,
+ which
+ is
+ which
+ is
+ great,
+ but
+
+
+that
+ doesn't
+ mean
+ that
+ you
+ can
+ uh
+ you
+
+
+know,
+ sort
+ of
+ shrug
+ off
+ your
+ uh
+ your
+
+
+responsibility
+ for
+ quality
+ at
+ the
+ end
+ of
+
+
+the
+ day.
+ And
+ I
+ tend
+ to
+ think
+ that
+ um
+ you
+
+
+know
+ a
+ lot
+ of
+ people
+ have
+ said
+ that
+ they
+
+
+found
+ uh
+ AI
+ and
+ coding
+ to
+ be
+ a
+ force
+
+
+multiplier
+ but
+ um
+ I
+ found
+ that
+ the
+
+
+greater
+ expertise
+ that
+ you
+ have
+ in
+
+
+software
+ engineering
+ um
+ the
+ better
+ the
+
+
+results
+ you
+ can
+ get
+ when
+ you're
+ using
+ uh
+
+
+LLMs.
+ And
+ I
+ think
+ sometimes
+ uh
+ if
+ you're
+
+
+new
+ to
+ the
+ industry
+ or
+ you're
+ a
+ junior,
+
+
+maybe
+ there
+ are
+ some
+ what
+ we
+ would
+
+
+consider
+ to
+ be
+ traditional
+ best
+
+
+practices
+ that
+ uh
+ you
+ know,
+ maybe
+ you
+
+
+haven't
+ had
+ to
+ experience
+ them
+ yet
+ or
+
+
+think
+ about
+ them.
+ Like
+ you
+ know,
+ if
+ if
+
+
+you
+ care
+ about
+ production
+ quality
+
+
+programming,
+ you
+ should
+ probably
+ only
+ be
+
+
+committing
+ code
+ to
+ your
+ repo
+ that
+ you
+
+
+can
+ fully
+ explain
+ to
+ somebody
+ else
+
+
+because
+ just
+ expecting
+ that
+ the
+ AI
+ is
+
+
+going
+ to
+ help
+ you
+ untangle
+ whatever
+ mess
+
+
+um
+ happens
+ later
+ on
+ is
+ probably
+ not
+
+
+going
+ to
+ work
+ out.
+ um
+ long
+ term
+
+
+>> and
+ how
+ do
+ you
+ you
+ personally
+ use
+ uh
+
+
+these
+ tools
+ may
+ that
+ be
+ vibe
+ coding
+ and
+
+
+especially
+ AI
+ assisted
+ uh
+ engineering?
+
+
+>> I
+ have
+ uh
+ more
+ recently
+ been
+ focusing
+ on
+
+
+the
+ idea
+ of
+ specdriven
+ development
+ um
+
+
+having
+ a
+ very
+ clear
+ plan
+ um
+ of
+ what
+ it
+
+
+is
+ that
+ I
+ want
+ to
+ build.
+ I
+ think
+ that
+ um
+
+
+you
+ know
+ there
+ are
+ definitely
+ places
+
+
+where
+ I
+ still
+ vibe
+ code
+ um
+ if
+ it's
+ for
+ a
+
+
+personal
+ tool
+ something
+ throwaway
+ or
+ you
+
+
+know
+ in
+ the
+ old
+ days
+ if
+ an
+ engineer
+ or
+ a
+
+
+PM
+ had
+ an
+ idea
+ maybe
+ would
+ we
+ would
+ put
+
+
+together
+ you
+ know
+ a
+ quick
+ mock
+ maybe
+ we
+
+
+would
+ put
+ together
+ a
+ wireframe
+ or
+ a
+
+
+sketch
+ or
+ something
+ like
+ that
+ um
+ perhaps
+
+
+work
+ with
+ UX
+ to
+ come
+ up
+ with
+ like
+
+
+something
+ a
+ little
+ bit
+ more
+ polished
+
+
+these
+ days
+ the
+ fact
+ that
+ you
+ can
+ vibe
+
+
+code
+ a
+ prototype
+ and
+ actually
+ show
+
+
+somebody
+ in
+ a
+ pull
+ request
+ or
+ in
+ a
+ chat
+
+
+like,
+ "Hey,
+ here's
+ here's
+ an
+ even
+ more
+
+
+clear
+ version
+ of
+ the
+ vision
+ that
+ I
+ had
+
+
+in
+ mind
+ for
+ this."
+ I
+ think
+ there's
+
+
+something
+ very
+ powerful
+ to
+ that
+ and
+ I'm
+
+
+loving
+ vibe
+ coding
+ for
+ that.
+ Just
+ being
+
+
+able
+ to
+ give
+ me
+ a
+ slightly
+ higher
+
+
+quality
+ way
+ to
+ deliver
+ uh
+ sharing
+ an
+
+
+idea.
+ Vibe
+ coding
+ is
+ having
+ its
+ moment.
+
+
+Describe
+ an
+ app
+ in
+ a
+ prompt
+ and
+ boom,
+
+
+you've
+ got
+ something
+ running.
+ It
+ feels
+
+
+like
+ magic.
+ But
+ here's
+ what
+ VIP
+ coding
+
+
+doesn't
+ account
+ for.
+ institutional
+
+
+knowledge.
+ Every
+ prompt
+ stems
+ from
+ what
+
+
+you
+ tell
+ it,
+ not
+ what
+ your
+ team
+ already
+
+
+knows.
+ Real
+ product
+ development
+ is
+ the
+
+
+opposite.
+ It's
+ accumulated
+ context.
+ For
+
+
+example,
+ every
+ buck
+ has
+ a
+ kind
+ of
+
+
+history.
+ Every
+ feature
+ connects
+ to
+
+
+customer
+ requests.
+ Every
+ PR
+ fits
+ into
+
+
+your
+ team's
+ road
+ map.
+ A
+ short
+ prompt
+
+
+will
+ not
+ share
+ all
+ this
+ additional
+
+
+context
+ for
+ the
+ agent
+ to
+ use.
+ Linear
+
+
+agents
+ work
+ inside
+ this
+ additional
+ team
+
+
+context.
+ They
+ live
+ inside
+ your
+
+
+development
+ system
+ where
+ actual
+ work
+
+
+happens.
+ They
+ see
+ the
+ issue
+ blocking
+
+
+your
+ sprint,
+ the
+ related
+ PRs,
+ the
+
+
+project
+ goals,
+ the
+ discussions
+ that
+ your
+
+
+team
+ already
+ had
+ about
+ this
+ exact
+
+
+problem.
+ And
+ because
+ linear
+ is
+ your
+
+
+team's
+ shared
+ workspace,
+ agents
+ don't
+
+
+only
+ see
+ your
+ context,
+ they
+ see
+ your
+
+
+entire
+ org's
+ context,
+ the
+ bug
+ report
+
+
+from
+ support,
+ the
+ design
+ spec
+ from
+ your
+
+
+PM,
+ the
+ architecture
+ knows
+ from
+ the
+ tech
+
+
+lead.
+ So
+ when
+ you
+ ask
+ an
+ agent
+ to
+ draft
+
+
+PR
+ or
+ build
+ a
+ feature,
+ it's
+ not
+
+
+improvising
+ just
+ from
+ a
+ prompt.
+ It's
+
+
+using
+ the
+ same
+ context
+ that
+ your
+ team
+
+
+already
+ uses.
+ This
+ is
+ what
+ AI
+ powered
+
+
+development
+ looks
+ like
+ when
+ you're
+
+
+building
+ something
+ real.
+ Not
+ just
+
+
+building
+ fast,
+ but
+ building
+ intentional.
+
+
+See
+ how
+ agents
+ work
+ in
+ linear
+ at
+
+
+linear.app/agents.
+
+
+And
+ if
+ you
+ want
+ to
+ try
+ them
+ yourself,
+
+
+get
+ linear
+ business
+ for
+ free
+ by
+ visiting
+
+
+linear.app/pragmatic.
+
+
+That
+ doesn't
+ mean
+ that
+ we
+ take
+ the
+
+
+vibecoded
+ um
+ prototype
+ or
+ that
+ code
+ and
+
+
+just
+ stick
+ it
+ in
+ production.
+ Once
+ you
+
+
+have
+ clarity
+ around
+ the
+ vision
+ that
+ you
+
+
+have
+ for
+ for
+ a
+ component,
+ for
+ a
+ feature,
+
+
+for
+ a
+ view,
+ you
+ should
+ probably
+ be
+
+
+writing
+ out
+ like,
+ okay,
+ well,
+ what
+ are
+
+
+the
+ actual
+ expectations
+ around
+ this?
+
+
+What
+ do
+ we
+ actually
+ consider
+ to
+ be
+ the
+
+
+requirements?
+ And
+ that
+ will
+ give
+ you
+ a
+
+
+much
+ higher
+ quality
+ outcome
+ typically
+
+
+from
+ the
+ LLM.
+ Um,
+ because
+ otherwise,
+ if
+
+
+you're
+ giving
+ into
+ the
+ vibes,
+ you're
+
+
+also
+ sort
+ of
+ giving
+ giving
+ into,
+ okay,
+
+
+well,
+ you
+ figure
+ out
+ the
+ architecture,
+
+
+you
+ figure
+ out
+ like
+ what
+ this
+ should
+ do.
+
+
+And
+ while
+ that's
+ fine
+ for
+ ideiation,
+
+
+it's
+ probably
+ not
+ sufficient
+ for
+ um
+
+
+production
+ sort
+ of
+ product
+ engineering.
+
+
+So
+ for
+ me,
+ specd
+ driven
+ development
+ has
+
+
+been
+ a
+ big
+ thing.
+ Um
+ I
+ think
+ that
+ tests
+
+
+are
+ uh
+ are
+ great.
+ uh
+ and
+ uh
+ if
+ if
+ you
+
+
+are
+ open
+ to
+ tasks,
+ it
+ can,
+ you
+ know,
+ be
+
+
+a
+ great
+ way
+ of
+ derisking
+ your
+ use
+ of
+ LMS
+
+
+and
+ coding
+ because
+ sometimes,
+ you
+ know,
+
+
+even
+ if
+ you're
+ using
+ state-of-the-art
+
+
+models,
+ you
+ can
+ end
+ up
+ in
+ a
+ situation
+
+
+where
+ maybe
+ the
+ code
+ looks
+ more
+
+
+convoluted
+ um
+ than
+ you
+ would
+ expect
+ or
+
+
+maybe
+ your
+ first
+ couple
+ of
+ uh
+ you
+ know,
+
+
+prompts
+ have
+ been
+ generating
+ really
+ good
+
+
+code
+ and
+ then
+ for
+ whatever
+ reason
+ things
+
+
+go
+ off
+ the
+ rails.
+ But
+ if
+ you
+ can
+ prove
+
+
+that
+ uh
+ things
+ are
+ working
+ with
+ tests
+ um
+
+
+and
+ that
+ uh
+ if
+ something
+ did
+ go
+ off
+ the
+
+
+rails,
+ it's
+ clearer
+ to
+ you
+ what
+ that
+
+
+was,
+ I
+ think
+ that
+ that
+ can
+ help
+ you
+ keep
+
+
+your
+ project
+ green
+ the
+ whole
+ time.
+ Um
+
+
+and
+ that
+ that's
+ been,
+ you
+ know,
+
+
+something
+ that's
+ helped
+ me
+ quite
+ a
+ lot
+
+
+as
+ well.
+ So,
+ um
+ spectriven
+ development
+
+
+testing,
+ I
+ uh
+ try
+ to
+ also
+ make
+ sure
+ that
+
+
+I'm
+ leveraging,
+ you
+ know,
+ this
+ is
+ I
+
+
+guess
+ this
+ is
+ uh
+ this
+ is
+ a
+ shout
+ out.
+ We
+
+
+my
+ my
+ team
+ just
+ released
+ Chrome
+ DevTools
+
+
+MCP.
+ So
+ I
+ use
+
+
+>> Yeah.
+ So
+ we
+ just
+ released
+ Chrome
+
+
+DevTools
+ MCP.
+ I
+ care
+ a
+ lot
+ about
+ quality
+
+
+and
+ I
+ think
+ that
+ uh
+ you
+ know
+ in
+ the
+ last
+
+
+couple
+ of
+ years
+ we've
+ seen
+ a
+ number
+ of
+
+
+cases
+ where
+ if
+ you
+ notice
+ that
+ something
+
+
+is
+ broken.
+ Um
+ I
+ will
+ see
+ a
+ lot
+ of
+
+
+engineers
+ that
+ will
+ just
+ say
+ okay
+ well
+
+
+hey
+ LM
+ it
+ looks
+ like
+ this
+ button
+ is
+ off
+
+
+or
+ it
+ looks
+ like
+ this
+ thing
+ is
+ not
+ quite
+
+
+exactly
+ what
+ it
+ should
+ be.
+ Go
+ fix
+ it.
+
+
+And
+ that
+ that's
+ again
+ going
+ a
+ little
+ bit
+
+
+closer
+ to
+ just
+ you
+ know
+ uh
+ rolling
+ with
+
+
+the
+ vibes.
+ But
+ if
+ you
+ can
+ keep
+ things
+
+
+like
+ um
+ a
+ browser
+ in
+ the
+ loop
+ or
+
+
+something
+ that
+ can
+ actually
+ see
+ the
+ page
+
+
+that
+ is
+ that
+ is
+ what
+ kind
+ of
+ Chrome
+
+
+DevTools
+ MCP
+ and
+ related
+ solutions
+ do.
+
+
+They
+ give
+ your
+ LLM
+ eyes
+ in
+ many
+ ways.
+ So
+
+
+it
+ can
+ see
+ what
+ the
+ browser
+ sees.
+ It
+ can
+
+
+see
+ what's
+ rendering
+ or
+ what
+ isn't.
+ It
+
+
+can
+ detect
+ if
+ there
+ are
+ warnings,
+ errors
+
+
+in
+ the
+ console.
+ Maybe
+ even
+ get
+ a
+ deeper
+
+
+sense
+ of
+ what
+ is
+ broken.
+ And
+ that
+ can
+
+
+just
+ improve
+ the
+ feedback
+ loop
+ that
+ you
+
+
+have.
+ And
+ so
+ I've
+ been
+ just
+ excited
+
+
+about
+ MCP
+ for
+ being
+ able
+ to
+ help
+ us
+ sort
+
+
+of
+ evolve
+ our
+ workflows
+ a
+ lot
+ more
+
+
+thanks
+ to
+ this
+ idea
+ of
+ being
+ able
+ to
+
+
+call
+ into
+ other
+ tools.
+ So
+ that
+ has
+ been
+
+
+that
+ has
+ been
+ great.
+ Um
+ otherwise
+ uh
+ for
+
+
+me
+ generally
+ speaking
+ um
+ I've
+ found
+ that
+
+
+you
+ know
+ uh
+ you
+ really
+ do
+ need
+ to
+ put
+ in
+
+
+the
+ effort
+ to
+ get
+ proficient
+ with
+ these
+
+
+tools
+ and
+ and
+ I
+ still
+ find
+ myself
+ doing
+
+
+that
+ if
+ there
+ are
+ new
+ models,
+ new
+ tools,
+
+
+new
+ platforms
+ coming
+ out.
+ I'm
+ generally
+
+
+um
+ finding
+ that
+ I
+ experiment
+ a
+ lot
+ um
+
+
+every
+ week.
+ Um
+ I
+ try
+ to
+ you
+ know
+
+
+encourage
+ my
+ teams
+ to
+ share
+ with
+ each
+
+
+other
+ with
+ me
+ like
+ how
+ how
+ are
+ things
+
+
+going?
+ Are
+ there
+ any
+ insights
+ that
+ are
+
+
+worth
+ us
+ bubbling
+ up
+ or
+ things
+ that
+ we
+
+
+should
+ try
+ out
+ as
+ a
+ team?
+ And
+ if
+ your
+
+
+team
+ see
+ that
+ you
+ are
+ very
+ open
+ to
+
+
+learning
+ together,
+ I
+ think
+ that
+ that
+ can
+
+
+just
+ create
+ this
+ nice
+ culture
+ of
+
+
+psychological
+ safety
+ that
+ can
+ set
+ your
+
+
+team
+ up
+ for
+ success
+ as
+ we're
+ as
+ we're
+
+
+all
+ going
+ through
+ this
+ big
+ period
+ of
+
+
+change.
+
+
+>> Yeah.
+ And
+ I
+ I
+ I
+ feel,
+ you
+ know,
+ what
+ you
+
+
+said
+ about
+ it
+ takes
+ time
+ to
+ learn
+ this
+
+
+thing.
+ I
+ have
+ so
+ many
+ like
+ smaller
+ and
+
+
+larger
+ aha
+ moments
+ just
+ by
+ using
+ it.
+ And
+
+
+I
+ get
+ a
+ lot
+ there's
+ plenty
+ of
+ people
+ who
+
+
+are
+ skeptical
+ especially
+ including
+
+
+engineers
+ who
+ are
+ skeptical
+ about
+ LLMs
+
+
+whether
+ may
+ be
+ the
+ theory
+ may
+ that
+ be
+
+
+energy
+ footprint
+ other
+ things
+ but
+ I
+
+
+found
+ that
+ a
+ lot
+ of
+ people
+ who
+ are
+
+
+skeptical
+ have
+ either
+ not
+ tried
+ it
+ or
+
+
+they
+ haven't
+ given
+ it
+ some
+ time
+ because
+
+
+it
+ does
+ take
+ some
+ time
+ some
+ playing
+
+
+around
+ and
+ you
+ know
+ like
+ reners
+ it
+
+
+doesn't
+ work
+ everywhere
+ it
+ it
+ it
+ it
+
+
+makes
+ mistakes
+ uh
+ it
+ screws
+ up
+ but
+ it
+
+
+does
+ like
+ I
+ I
+ think
+ if
+ you've
+ not
+ Like
+ I
+
+
+can
+ only
+ tell
+ for
+ myself,
+ but
+ I
+ found
+ a
+
+
+bunch
+ of
+ like
+ ways
+ where
+ it
+ helps
+ even
+
+
+my
+ smaller
+ projects.
+ And
+ as
+ you
+ said,
+
+
+like
+ it's
+ it's
+ about
+ what
+ works
+ for
+ you
+
+
+and
+ and
+ what
+ works
+ for
+ others.
+ Speaking
+
+
+of
+ which,
+ you're
+ working
+ in
+ a
+ larger
+
+
+inside
+ a
+ larger
+ team,
+ larger
+ production
+
+
+team.
+ You
+ know,
+ you've
+ got
+ the
+ the
+
+
+Chrome
+ team,
+ other
+ teams
+ as
+ well.
+ What
+
+
+are
+ things
+ that
+ you're
+ observing
+ on
+ how
+
+
+others
+ are
+ using
+ it
+ and
+ interesting
+ ways
+
+
+maybe
+ un unexpected
+ ways
+ or
+ or
+ even
+ ways
+
+
+that
+ maybe
+ didn't
+ work
+ out
+ for
+ those
+
+
+specific
+ people
+ or
+ engineers?
+ I
+ would
+
+
+say
+ that
+ at
+ a
+ company
+ like
+ Google,
+ you
+
+
+know,
+ we
+ we
+ have
+ this
+ um
+ this
+ very
+
+
+long-term
+ very
+ battle
+ tested
+ way
+ of
+
+
+thinking
+ about
+ um
+ software
+ engineering
+
+
+at
+ scale.
+ And
+ um
+ with
+ AI,
+ what
+ we've
+
+
+realized
+ is,
+ you
+ know,
+ a
+ lot
+ of
+ that
+
+
+doesn't
+ go
+ away.
+ Uh
+ you
+ you
+ still
+ want
+
+
+to
+ care
+ about
+ quality.
+ You
+ still
+ want
+ to
+
+
+care
+ about
+ um
+ doing
+ due
+ diligence.
+ The
+
+
+things
+ that
+ I
+ think
+ we've
+ found
+
+
+interesting
+ kind
+ of
+ mimic
+ um
+ what
+ people
+
+
+have
+ seen
+ in
+ in
+ startups
+ and
+ other
+ kinds
+
+
+of
+ companies.
+ So
+ um
+ the
+ importance
+ of
+
+
+mastering
+ understanding
+ like
+ what
+ is
+
+
+prompt
+ engineering,
+ right?
+ like
+ um
+
+
+making
+ sure
+ that
+ you
+ are
+ constructing
+
+
+the
+ right
+ set
+ of
+ incantations
+
+
+um
+ to
+ get
+ the
+ best
+ outcome
+ from
+ an
+ LLM
+
+
+and
+ then
+ context
+ engineering
+ um
+ more
+
+
+recently
+ like
+ how
+ can
+ you
+ make
+ sure
+ that
+
+
+you
+ are
+ um
+ optimizing
+ the
+ context
+ window
+
+
+to
+ uh
+ increase
+ the
+ chances
+ that
+ those
+
+
+those
+ outcomes
+ are
+ higher
+ quality.
+ We
+
+
+spend
+ a
+ lot
+ of
+ time
+ thinking
+ about
+ that.
+
+
+Um
+ making
+ sure
+ that
+ the
+ right
+ sets
+ of
+
+
+descriptions,
+ details,
+ files,
+ examples,
+
+
+any
+ additional
+ content
+ um
+ that
+ is
+
+
+specific
+ to
+ a
+ project
+ that
+ the
+ LLM
+ may
+
+
+not
+ necessarily
+ have
+ in
+ its
+ training
+
+
+data.
+ Um
+ that
+ has
+ been
+ very
+ interesting
+
+
+and
+ and
+ important
+ for
+ us
+ as
+ we've
+ been
+
+
+working
+ through.
+ I
+ have
+ been
+ somebody
+
+
+that
+ has
+ been
+ uh
+ trying
+ to
+ explore
+ using
+
+
+AI
+ in
+ every
+ facet
+ of
+ my
+ life
+ in
+ many
+
+
+ways
+ over
+ the
+ last
+ couple
+ of
+ years.
+ Um
+
+
+and
+ I
+ that
+ that's
+ been
+ that's
+ been
+ very
+
+
+eye
+ opening
+ in
+ terms
+ of
+ places
+ where
+
+
+there
+ is
+ meaningful
+ productivity
+ gain
+ to
+
+
+be
+ had
+ as
+ well
+ as
+ places
+ where
+ either
+
+
+model
+ quality
+ or
+ you
+ know
+ system
+ prompts
+
+
+and
+ tool
+ quality
+ are
+ not
+ quite
+ there
+
+
+just
+ yet.
+ And
+ so
+ um
+ I've
+ been
+ also
+ sort
+
+
+of
+ nudging
+ my
+ teams
+ in
+ that
+ direction
+ as
+
+
+well.
+ Like
+ if
+ if
+ uh
+ if
+ you
+ are
+ thinking
+
+
+about
+ this
+ idea
+ of
+ us
+ eventually
+ all
+
+
+being
+ AI
+ native
+ engineers,
+ then
+ one
+
+
+prompt
+ for
+ you
+ is
+ before
+ you
+ try
+ to
+
+
+solve
+ a
+ problem
+ yourself,
+ if
+ you
+ gave
+
+
+this
+ to
+ a
+ model,
+ you
+ gave
+ this
+ to
+ AI,
+ uh
+
+
+what
+ would
+ it
+ do?
+ Would
+ it
+ actually
+ help
+
+
+you
+ accomplish
+ your
+ goal
+ much
+ faster
+ or
+
+
+would
+ it
+ likely
+ slow
+ you
+ down?
+ And
+ if
+ it
+
+
+it
+ would
+ slow
+ you
+ down
+ like
+ why
+ why
+ is
+
+
+that?
+ But
+ even
+ that
+ prompt
+ is
+ something
+
+
+that
+ I
+ think
+ helps
+ us
+ to
+ learn
+ a
+ lot
+
+
+about
+ what
+ is
+ possible
+ and
+ what
+ isn't.
+
+
+Many
+ of
+ us
+ have
+ been
+ on
+ this
+ journey
+
+
+where
+ you
+ know
+ if
+ if
+ you're
+ if
+ you're
+
+
+you
+ know
+ classic
+ software
+ engineer
+ if
+
+
+you're
+ a
+ web
+ developer
+ whatever
+ um
+ you
+
+
+probably
+ don't
+ have
+ this
+ very
+ deep
+
+
+understanding
+ of
+ AI.
+ for
+ myself
+ and
+ and
+
+
+for
+ some
+ of
+ my
+ leads,
+ I
+ set
+ us
+ this
+ task
+
+
+of
+ like
+ okay
+ well
+ let's
+ start
+ to
+ become
+
+
+slightly
+ deeper
+ experts
+ in
+ these
+ areas
+
+
+so
+ that
+ we
+ can
+ guide
+ our
+ team
+ um
+ towards
+
+
+well
+ where
+ where
+ would
+ it
+ be
+ useful
+ for
+
+
+you
+ to
+ build
+ up
+ this
+ expertise
+ too.
+ So
+
+
+like
+ in
+ in
+ the
+ last
+ year
+ I've
+ been
+
+
+spending
+ a
+ lot
+ more
+ time
+ on
+ thinking
+
+
+about
+ things
+ like
+ eval
+ benchmarks
+ and
+ uh
+
+
+how
+ much
+ should
+ we
+ be
+ caring
+ about
+ rag
+
+
+versus
+ fine-tuning
+ and
+ so
+ on
+ and
+ this
+
+
+ends
+ up
+ contributing
+ as
+ well
+ because
+
+
+we're
+ at
+ the
+ same
+ time
+ that
+ we
+ are
+
+
+talking
+ about
+ AI
+ assisted
+ engineering
+
+
+many
+ of
+ the
+ products
+ that
+ we
+ work
+ on
+
+
+also
+ have
+ this
+ consideration
+ for
+ well
+ is
+
+
+AI
+ going
+ to
+ help
+ you
+ deliver
+ a
+ better
+
+
+customer
+ experience
+ in
+ some
+
+
+And
+ so
+ I'm
+ trying
+ to
+ look
+ at
+ like
+ how
+
+
+can
+ the
+ work
+ that
+ we're
+ doing
+ for
+ our
+
+
+coding
+ workflow
+ also
+ benefit
+ the
+ product
+
+
+work
+ that
+ we're
+ going
+ to
+ have
+ to
+ do.
+ So
+
+
+that
+ that's
+ been
+ a
+ good
+ learning
+ for
+ us.
+
+
+Um
+ I
+ think
+ honestly
+ just
+ the
+ importance
+
+
+of
+ always
+ maintaining
+ human
+ oversight
+
+
+has
+ been
+ one
+ of
+ the
+ bigger
+ learnings.
+ Uh
+
+
+we
+ have
+ of
+ course
+ like
+ I
+ know
+ a
+ lot of
+
+
+people
+ have
+ run
+ into
+ this.
+ We've
+ of
+
+
+course
+ seen
+ you
+ know
+ cases
+ where
+ people
+
+
+um
+ very
+ often
+ like
+ external
+ contributors
+
+
+um
+ will
+ sometimes
+ be
+ very
+ passionate
+
+
+about
+ like
+ hey
+ I
+ want
+ to
+ contribute
+ to
+
+
+your
+ project
+ but
+ then
+ they'll
+ use
+ an
+ LLM
+
+
+>> know
+ where
+ you're
+ going
+ with
+ yeah
+ use
+ an
+
+
+LLM
+ and
+ submit
+ something
+ that
+ I
+ think
+
+
+Machal
+ uh
+ Hashimoto
+ was
+ blowing
+ up
+ on
+
+
+social
+ media
+ because
+ he
+ just
+ had
+ enough
+
+
+that
+ people
+ were
+ submitting
+ things
+ that
+
+
+as
+ you
+ said
+ out
+ of
+ good
+ intention
+ but
+
+
+putting
+ way
+ more
+ load
+ on
+ maintainers.
+ I
+
+
+love
+ reading
+ studies
+ about
+ how
+ different
+
+
+segments
+ of
+ the
+ developer
+ population
+ are
+
+
+finding
+ AI
+ and
+ and
+ what
+ what
+ that
+ means
+
+
+for
+ their
+ teams.
+ And
+ one
+ of
+ the
+ studies
+
+
+that
+ I
+ recently
+ read
+ um
+ highlighted
+ that
+
+
+uh
+ if
+ you
+ are
+ increasing
+ the
+ velocity
+ of
+
+
+uh
+ code
+ and
+ improvements
+ that
+ can
+ land
+
+
+in
+ the
+ team
+ and
+ you
+ are
+ doing
+ human
+
+
+oversight,
+ the
+ human
+ review
+ is
+ going
+ to
+
+
+become
+ the
+ bottleneck.
+ And
+ that
+ is
+ what
+
+
+teams
+ are
+ starting
+ to
+ realize
+ like,
+ oh
+
+
+wait,
+ we're
+ starting
+ to
+ see
+ a
+ lot
+ more
+
+
+PRs
+ come
+ through,
+ but
+ who's
+ going
+ to
+
+
+review
+ those,
+ right?
+ So,
+ I'm
+ glad
+ that
+
+
+teams
+ are,
+ you
+ know,
+ at
+ least
+ some
+ teams
+
+
+seem
+ to
+ be
+ caring
+ about
+ that
+ quality
+
+
+dimension
+ sufficiently
+ to
+ actually
+ hand
+
+
+review
+ it
+ themselves.
+ But,
+ uh,
+ that
+ does
+
+
+also
+ mean
+ that
+ our,
+ uh,
+ our
+ workflows
+
+
+may
+ have
+ to
+ evolve.
+ I
+ have
+ seen,
+ you
+
+
+know,
+ a
+ lot
+ of
+ talk
+ about
+ like,
+ yeah,
+
+
+why
+ why
+ aren't
+ we
+ using,
+ you
+ know,
+ LLMs
+
+
+to
+ also
+ do
+ the
+ code
+ review
+ and
+ that,
+ you
+
+
+know,
+ that
+ that's
+ a
+ little
+ bit
+ of
+ a
+
+
+slippery
+ slope
+ because
+ if
+ the
+ AI
+ is
+
+
+writing
+ the
+ code
+ and
+ you
+ haven't
+ studied
+
+
+it
+ carefully,
+ uh,
+ but
+ the
+ AI
+ is
+ also
+
+
+reviewing
+ the
+ code,
+ are
+ you
+ actually
+
+
+sure
+ about
+ what's
+ what's
+ landing?
+ So,
+ I
+
+
+think
+ that
+ the
+ best
+ practices
+ around
+
+
+code
+ review
+ are
+ still
+ something
+ that
+ are
+
+
+evolving
+ and
+ I'm
+ I'm
+ excited
+ to
+ see
+
+
+where
+ that
+ goes.
+ For
+ me
+ personally,
+
+
+there
+ are
+ a
+ lot
+ of
+ tools
+ that
+ I
+ use.
+ Um,
+
+
+some
+ of
+ my
+ favorite
+ ones
+ include
+ using
+
+
+uh
+ Klein
+ in
+ VS
+ Code.
+ A
+ lot
+ of
+ people
+
+
+>> you're
+ you're
+ a
+ big
+ fan
+ if
+ people
+ follow
+
+
+your
+ writing
+ on
+ Klein.
+
+
+>> Yeah,
+ I
+ love
+ I
+ love
+ Klein.
+ I
+ I
+ think
+
+
+that
+ you
+ know
+ people
+ can
+ do
+ a
+ lot
+ with
+
+
+cursor
+ and
+ co-pilot
+ in
+ VS
+ Code
+ these
+
+
+days
+ as
+ well.
+ But
+ one
+ of
+ the
+ things
+ that
+
+
+I
+ enjoy
+ doing
+ is
+ uh
+ you
+ know
+ most
+ of
+
+
+these
+ tools
+ will
+ show
+ you
+ the
+ thinking
+
+
+that
+ is
+ happening
+ behind
+ the
+ scenes
+ as
+ a
+
+
+solution
+ is
+ being
+ built
+ out.
+ And
+ even
+ if
+
+
+that
+ happens
+ quickly,
+ like
+ I
+ will
+ try
+ to
+
+
+go
+ back,
+ scroll
+ through,
+ expand
+ and
+ read
+
+
+through,
+ okay,
+ what
+ was
+ your
+ thinking
+
+
+process
+ through
+ actually
+ being
+ able
+ to
+
+
+build
+ this
+ out?
+ What
+ decisions
+ did
+ you
+
+
+make?
+ What
+ did
+ you
+ generate?
+ And
+ I
+ will
+
+
+review
+ that
+ code
+ before
+ it
+ ends
+ up
+ in
+ a
+
+
+pull
+ request.
+ There's
+ going
+ to
+ be
+ some
+
+
+likelihood
+ later
+ on
+ that
+ I
+ may
+ have
+ to
+
+
+maintain
+ that
+ code,
+ that
+ I
+ may
+ have
+ to
+
+
+make
+ some
+ tweaks
+ to
+ that
+ code
+ that
+ the
+
+
+LM
+ is
+ not
+ going
+ to
+ be
+ able
+ to
+ help
+ me
+
+
+with.
+ Uh
+ just
+ last
+ night
+ I
+ was
+ I
+ was
+
+
+working
+ through
+ a
+ problem
+ and
+ uh
+ the
+
+
+code
+ looked
+ you
+ know
+ on
+ paper
+ code
+
+
+looked
+ looked
+ right.
+ It
+ wasn't
+ working
+
+
+the
+ way
+ it
+ was
+ supposed
+ to.
+ I
+ asked
+ the
+
+
+LLM
+ a
+ few
+ times
+ to
+ like
+ hey
+ can
+ you
+ go
+
+
+use
+ your
+ tools
+ go
+ figure
+ out
+ what
+ the
+
+
+problem
+ is.
+ It
+ continued
+ to
+ make
+
+
+changes.
+ Didn't
+ actually
+ fix
+ the
+
+
+underlying
+ problem.
+ And
+ so
+ tonight
+ I'll
+
+
+have
+ to
+ roll
+ up
+ my
+ sleeves
+ and
+ go
+ and
+
+
+manually
+ debug
+ it.
+ If
+ I
+ didn't
+
+
+understand
+ how
+ that
+ code
+ worked
+ or
+ I
+
+
+hadn't
+ been
+ reading
+ it,
+ I
+ would
+ be,
+ you
+
+
+know,
+ feeling
+ like
+ I'd
+ just
+ been
+ dropped
+
+
+into
+ a
+ jungle
+ and
+ having
+ to
+ navigate
+ it
+
+
+myself.
+
+
+>> Well,
+ plus
+ I
+ I
+ I
+ mean,
+ I
+ mean,
+
+
+reflecting
+ on
+ this,
+ right?
+ Like
+ I
+ feel
+
+
+this
+ is
+ the
+ difference
+ between
+ a
+
+
+software
+ engineer
+ who's
+ worth
+ their
+
+
+money
+ just
+ in
+ terms
+ of,
+ you
+ know,
+ being
+
+
+employed
+ and
+ one
+ that's
+ not
+ not
+ if
+ if
+
+
+all
+ you
+ can
+ do
+ is
+ just
+ prompt
+ and
+
+
+prompt.
+ I
+ mean,
+ anyone
+ can
+ do
+ that.
+ I'm
+
+
+exaggerating,
+ but
+ but
+ a
+ new
+ can
+ can
+ do
+
+
+that
+ or
+ or
+ or
+ someone
+ still
+ in
+ college.
+
+
+But
+ not
+ everyone
+ will
+ have
+ taken
+ the
+
+
+effort
+ to
+ understand
+ to
+ know
+ how
+ it
+
+
+works
+ and
+ be
+ able
+ to
+ roll
+ up
+ their
+
+
+sleeves
+ and
+ when
+ these
+ models
+ fail,
+
+
+which
+ they
+ they
+ fail,
+ they
+ can
+ fix
+ it
+
+
+and
+ also
+ they
+ can
+ also
+ explain
+ it
+ to
+
+
+people,
+ they
+ can
+ explain
+ it
+ in
+ meeting
+
+
+uh
+ coherently
+ without
+ rambling.
+ So
+ I
+ I
+
+
+feel
+ you
+ know
+ like
+ this
+ is
+ what
+ a
+
+
+professional
+ is
+ right
+ like
+ in
+ in
+ any
+
+
+industry
+ it's
+ like
+ they
+ know
+ how
+ the
+
+
+things
+ work.
+ Same
+ with
+ the
+ car
+ mechanic.
+
+
+Same
+ with
+ anything
+ else.
+ So
+ maybe
+ it's
+
+
+just
+ a
+ reminder
+ that
+ if
+ you're
+ not
+ doing
+
+
+this,
+ if
+ you're
+ kind
+ of
+ letting
+ go
+ and
+
+
+like,
+ oh,
+ it
+ it
+ solves
+ my
+ problems,
+
+
+you're
+ you're
+ kind
+ of at
+ the
+ risk
+ of,
+
+
+well,
+ if
+ if
+ you
+ don't
+ know
+ how
+ it
+ works,
+
+
+I
+ mean,
+ why
+ do
+ we
+ need
+ you?
+ Anyone
+ can
+
+
+prompt
+ another
+ LLM.
+
+
+>> Exactly.
+ Exactly.
+ And
+ you
+ know
+ as
+ we
+
+
+start
+ to
+ talk
+ more
+ about
+ you
+ know
+ in
+ the
+
+
+last
+ year
+ uh
+ you
+ know
+ people
+ working
+ in
+
+
+their
+ terminal
+ their
+ CLIs
+ has
+ become
+
+
+more
+ of
+ a
+ thing
+ once
+ again
+ with
+ cloud
+
+
+code
+ and
+ Gemini
+ CLI
+ and
+ open
+ code
+ and
+ so
+
+
+on.
+ And
+ then
+ people
+ started
+ talking
+
+
+about
+ okay
+ well
+ how
+ do
+ we
+ orchestrate
+ um
+
+
+multiple
+ parallel
+ agents
+ being
+ able
+ to
+
+
+complete
+ work
+ for
+ us.
+ As
+ we
+ start
+
+
+thinking
+ about
+ this
+ idea
+ of
+ each
+
+
+engineer
+ almost
+ having
+ a
+ virtual
+ team
+ of
+
+
+their
+ own
+ being
+ able
+ to
+ go
+ off
+ and
+ work
+
+
+through
+ your
+ backlog
+ and
+ get
+ all
+ of
+
+
+these
+ different
+ tasks
+ implemented
+
+
+concurrently.
+ I
+ think
+ that
+ you
+ start
+ to
+
+
+quickly
+ realize
+ well
+ that
+ all
+ sounds
+
+
+great
+ in
+ in
+ the
+ abstract
+ and
+ in
+ theory
+
+
+but
+ then
+ you're
+ going
+ to
+ compound
+ all
+ of
+
+
+these
+ other
+ problems
+ where
+ a
+ lack
+ of
+
+
+manual
+ review
+ is
+ going
+ to
+ probably
+ lead
+
+
+you
+ to
+ some
+ level
+ of
+ tech
+ debt.
+ um
+ maybe
+
+
+not
+ immediately,
+ but
+ at
+ some
+ point
+ it
+
+
+very
+ likely
+ will.
+ And
+ um
+ my
+ my
+
+
+experience
+ of
+ this
+ kind
+ of
+ led
+ me
+ at
+ one
+
+
+point
+ to
+ to
+ write
+ about
+ what
+ I
+ called
+
+
+the
+ 70%
+ uh
+ kind
+ of
+ problem.
+
+
+>> Let's
+ talk
+ about
+ that
+ cuz
+
+
+>> yeah,
+ you
+ you
+ wrote
+ about
+ it
+
+
+extensively.
+ We
+ actually
+ published
+
+
+a
+ shared
+ article,
+ a
+ guest
+ article
+ based
+
+
+on
+ your
+ article
+ which
+ we'll
+ also
+ link
+ in
+
+
+the
+ the
+ notes
+ below.
+ what
+ is
+ this
+ the
+
+
+70%
+ problem
+ and
+ how
+ did
+ you
+ you
+ know
+
+
+come
+ across
+ it
+ and
+ how
+ do
+ you
+ think
+ it
+
+
+might
+ have
+ changed
+ since
+ you
+ published
+
+
+it
+ which
+ was
+ about
+ six
+ months
+ ago
+
+
+>> yeah
+ ob
+ obviously
+ you
+ know
+ model
+ quality
+
+
+tooling
+ quality
+ continues
+ to
+ to
+ get
+
+
+better
+ um
+ I
+ so
+ the
+ the
+ 70%
+ problem
+ is
+
+
+really
+ about
+ uh
+ this
+ idea
+ that
+ LLMs
+ can
+
+
+produce
+ very
+ roughly
+ like
+ 70%
+ of
+ a
+
+
+working
+ application
+ very
+ quickly
+ but
+
+
+they
+ tend
+ to
+ struggle
+ with
+ that
+ last
+ 30%
+
+
+and
+ that
+ last
+ 30%
+ uh
+ you
+ can
+ consider
+ it
+
+
+like
+ the
+ the
+ the
+ last
+ mile,
+ but
+ it
+
+
+includes
+ lots
+ of
+ different
+ kinds
+ of
+
+
+patterns
+ that
+ you
+ know
+ your
+ audience
+
+
+will
+ probably
+ run
+ across
+ or
+ maybe
+ they
+
+
+will
+ run
+ across
+ things
+ like
+ the
+ two
+
+
+steps
+ back
+ pattern.
+ So,
+ you
+ know,
+ you
+
+
+have
+ uh
+ you
+ know,
+ used
+ a
+ couple
+ of
+
+
+prompts
+ to
+ build
+ up
+ something.
+ You
+ give
+
+
+an
+ LLM
+ one
+ more
+ prompt
+ and
+ it
+ happens
+ to
+
+
+uh
+ go
+ in
+ a
+ completely
+ different
+
+
+direction.
+ Maybe
+ it
+ has
+ fully
+ rewritten
+
+
+your
+ UI
+ or
+ the
+ functionality
+ behind
+ your
+
+
+component.
+ Things
+ like
+ that.
+ Uh
+ there
+
+
+are
+ very
+ often
+ hidden
+ maintainability
+
+
+costs
+ places
+ where
+ you're
+ not
+ being
+
+
+specific.
+ You
+ are
+ delegating
+ the
+
+
+responsibility
+ back
+ to
+ the
+ LLM.
+ Um
+ and
+
+
+you
+ may
+ end
+ up
+ getting
+ diminishing
+
+
+returns.
+ you
+ know,
+ as
+ as
+ we've
+ seen
+ time
+
+
+and
+ time
+ again
+ on
+ hacker
+ news,
+ uh
+
+
+security
+ vulnerabilities,
+ uh
+ you
+ know,
+
+
+this
+ this
+ is
+ exactly
+ where
+ we
+ see
+ people
+
+
+accidentally,
+ you
+ know,
+ leaking
+ API
+
+
+keys,
+ uh
+ where
+ there
+ are
+ excss
+ issues,
+
+
+where
+ there
+ are
+ all
+ kinds
+ of
+ problems
+
+
+because
+ people
+ um
+ did
+ not
+ think
+ as
+
+
+holistically
+ about
+ the
+ problem
+ that
+ they
+
+
+were
+ solving
+ and
+ just
+ sort
+ of
+ gave
+ into
+
+
+the
+ vibes.
+ So
+ a
+ vi
+ coded
+ proof
+ of
+
+
+concept,
+ you
+ know,
+ is
+ fine
+ for
+ for
+ MVP
+
+
+for
+ that
+ prototyping
+ phase,
+ but
+ it
+
+
+likely
+ needs
+ to
+ be
+ rewritten
+ with
+
+
+production
+ quality
+ in
+ mind.
+ Uh
+ if
+ you're
+
+
+going
+ to
+ be
+ landing
+ this
+ in
+ a
+ codebase
+
+
+where
+ you're
+ working
+ with
+ other
+ people,
+
+
+working
+ with
+ a
+ team
+ and
+ um
+ you
+ know
+
+
+dealing
+ with
+ a
+ real
+ user
+ base
+ um
+ of
+
+
+people,
+ I
+ think
+ that
+ the
+ security
+ and
+
+
+quality
+ aspects
+ uh
+ you
+ know
+ re
+ speak
+ to
+
+
+the
+ need
+ for
+ for
+ keeping
+ the
+ human
+ in
+
+
+the
+ loop
+ there.
+
+
+>> Yeah.
+ And
+ we
+ keep
+ hearing
+ stories
+ about
+
+
+product
+ managers
+ and
+ less
+ technical
+
+
+founders
+ who
+ get
+ really
+ into
+ vibe
+ coding
+
+
+excited,
+ you
+ know,
+ they
+ spin
+ up
+ a
+
+
+prototype
+ or
+ a
+ better
+ version
+ and
+ they
+
+
+and
+ then
+ they
+ want
+ to
+ build
+ something
+
+
+that
+ they
+ can
+ put
+ out
+ into
+ production
+
+
+and
+ there's
+ a
+ bunch
+ of
+ stories.
+ I
+ I'll
+
+
+link
+ one
+ in
+ the
+ the
+ show
+ notes
+ on
+ how
+
+
+they
+ just
+ get
+ stuck
+ or
+ it
+ takes
+ them
+ a
+
+
+very
+ long
+ time.
+ What
+ what
+ they
+ thought
+
+
+would
+ take
+ a
+ day
+ or
+ two
+ ends
+ up
+ being
+ 10
+
+
+20
+ 30
+ days.
+ And
+ in
+ the
+ 70%
+ problem,
+ you
+
+
+went
+ into
+ something
+ relevant
+ for
+ this,
+
+
+which
+ is
+ you
+ said
+ that
+ more
+ experienced
+
+
+engineers
+
+
+can
+ finish
+ the
+ last
+ 30%
+ a
+ lot
+ easier
+ and
+
+
+then
+ less
+ experienced
+ engineers
+ get
+
+
+actually
+ a
+ lot
+ more
+ stuck
+ or
+ or
+ get
+ this
+
+
+false
+ confidence.
+
+
+Yes.
+ Yes.
+ Absolutely.
+ I
+ think
+ that
+ um
+
+
+with
+ that
+ last
+ 30%
+ what
+ you
+ will
+ often
+
+
+see
+ uh
+ junior
+ engineers
+ or
+ interns
+ or
+
+
+new
+ grads
+ doing
+ is
+ you
+ know
+ they
+ they
+
+
+will
+ not
+ really
+ know
+ what
+ to
+ do
+ next
+
+
+beyond
+ just
+ constantly
+ reprompting
+ the
+
+
+LLM
+ to
+ fix
+ the
+ issues
+ and
+ if
+ it's
+ not
+
+
+able
+ to
+ do
+ it
+ they're
+ not
+ necessarily
+
+
+going
+ to
+ have
+ all
+ of
+ those
+ skills
+ just
+
+
+yet
+ for
+ debugging
+ the
+ problem
+ or
+
+
+understanding
+ where
+ the
+ issues
+ are
+ and
+
+
+so
+ what
+ this
+ speaks
+ to
+ is
+ the
+ importance
+
+
+of
+ having
+ a
+ really
+ good
+ critical
+
+
+thinking
+ problem
+ solving
+ mindset.
+ You
+
+
+know,
+ we
+ always
+ talked
+ about
+ the
+
+
+importance
+ of
+ this
+ for
+ people
+ who
+ are
+
+
+going
+ into
+ computer
+ science.
+ I
+ think
+
+
+that
+ that
+ remains
+ now.
+ But
+ that
+
+
+diligence
+ required
+ to
+ actually
+ read
+ the
+
+
+code,
+ understand
+ the
+ system,
+ understand
+
+
+how
+ all
+ of
+ those
+ pieces
+ connect
+
+
+together,
+ I
+ I
+ don't
+ think
+ that
+ that
+
+
+necessarily
+ goes
+ away.
+ as
+ you
+ said
+
+
+earlier
+ um
+ with
+ the
+ tools
+ that
+ we
+ have
+
+
+today
+ and
+ the
+ models
+ we
+ have
+ today
+
+
+almost
+ anybody
+ can
+ give
+ um
+ a
+ highlevel
+
+
+prompt
+ to
+ a
+ tool
+ and
+ have
+ something
+ um
+
+
+you
+ know
+ that
+ that
+ seems
+ like
+ it
+ works
+
+
+come
+ out
+ the
+ back
+ of
+ it
+ but
+ um
+ I
+
+
+wouldn't
+ necessarily
+ trust
+ that
+ in
+
+
+production
+ um
+ see
+ too too
+ many
+ stories
+
+
+at
+ this
+ point
+ of
+ things
+ uh
+ just
+ going
+ uh
+
+
+a
+ little
+ bit
+ off
+ the
+ rails
+
+
+>> which
+ reminds
+ me
+ when
+ this
+ was
+ before
+ AI
+
+
+tools
+ I
+ I
+ had
+ an
+ engineer
+ who
+ joined
+
+
+Uber
+ who
+ came
+ from
+ a
+ smaller
+ startup
+ and
+
+
+I
+
+
+uh
+ new
+ joiner.
+ So
+ after
+ a
+ week
+ I
+ was
+
+
+this
+ person's
+ manager
+ I
+ asked
+ like
+ how
+
+
+are
+ things
+ going
+ and
+ he
+ was
+ really
+
+
+distressed.
+ I'm
+ like
+ oh
+ it's
+ really
+
+
+difficult.
+ I
+ like
+ what's
+ difficult.
+ He's
+
+
+like
+ I'm
+ I'm
+ trying
+ to
+ read
+ all
+ the
+ code
+
+
+and
+ it's
+ just
+ too
+ much.
+ And
+ I
+ was
+ like
+
+
+why
+ why
+ are
+ you
+ trying
+ to
+ read
+ all
+ the
+
+
+code
+ of
+ Uber
+ which
+ was
+ like
+ you
+ know
+ our
+
+
+backend
+ system.
+ It
+ was
+ like
+ you
+ like
+
+
+just
+ so
+ it
+ was
+ mobile
+ app.
+ It
+ was
+ like
+
+
+more
+ than
+ a
+ million
+ lines
+ of
+ code.
+ He's
+
+
+like
+ well
+ I
+ do
+ that
+ because
+ whenever
+ I
+
+
+join
+ new
+ company
+ I
+ read
+ all
+ the
+ code
+ to
+
+
+understand
+ everything.
+ And
+ I
+ was
+ like
+ I
+
+
+was
+ like
+ I
+ get
+ where
+ you're
+ coming
+ from
+
+
+and
+ I
+ think
+ that's
+ great.
+ I
+ was
+ just
+
+
+like
+ let
+ me
+ let
+ me
+ explain
+ to
+ you
+ how
+
+
+the
+ codebase
+ works
+ is
+ you
+ shouldn't
+ read
+
+
+all
+ the
+ code
+ but
+ you
+ should
+ understand
+
+
+the
+ structure
+ you
+ know
+ where
+ you
+ can
+
+
+find
+ things
+ because
+ this
+ is
+ you
+ know
+ on
+
+
+a
+ code
+ base
+ where
+ we
+ had
+ I
+ think
+ two
+ or
+
+
+300
+ engineers
+ working
+ on
+ it
+ and
+ I
+ I
+
+
+thought
+ this
+ person
+ had
+ a
+ really
+ great
+
+
+intention
+ which
+ is
+ I'm
+ coming
+ to
+ a
+ new
+
+
+place
+ I
+ want
+ to
+ understand
+ and
+ I'm
+ going
+
+
+to
+ spend
+ the
+ first
+ few
+ weeks
+
+
+understanding
+ and
+ those
+ people
+ excel
+ and
+
+
+I
+ I'm
+ kind
+ of
+ thinking
+ we
+ keep
+ getting
+
+
+back
+ to
+ this
+ thing
+ but
+ what
+ what
+ I'm
+
+
+hearing
+ from
+ you
+ is
+ is
+ If
+ you
+ can
+
+
+actually
+ to
+ some
+ extent
+ outsource
+ this
+
+
+to
+ an
+ LLM
+ which
+ is
+ a
+ bit
+ of
+ a
+ hit
+ or
+
+
+miss
+ or
+ might
+ it
+ might
+ or
+ might
+ not
+
+
+succeed
+ but
+ if
+ you
+ do
+ you're
+ now
+
+
+hopelessly
+ dependent
+ on
+ it
+ and
+ at
+ some
+
+
+point
+ when
+ the
+ context
+ window
+ fills
+ up
+
+
+or
+ when
+ the
+ model
+ is
+ not
+ having
+ a
+ good
+
+
+day
+ because
+ these
+ things
+ are
+
+
+nondeterministic
+ you're
+ kind
+ of
+ stuck
+
+
+you
+ know
+ your
+ best
+ thing
+ is
+ to
+ try
+ a
+ new
+
+
+model
+ or
+ or
+ empty
+ the
+ context
+ window
+ or
+
+
+I
+ don't
+ know
+ do
+ do
+ something
+ else
+ but
+ it
+
+
+doesn't
+ feel
+ really
+ feel
+ like
+ you're
+ in
+
+
+control.
+
+
+>> Yes.
+ Yes.
+ You're
+ absolutely
+ right
+ and
+ I
+
+
+think
+ that
+ whether
+ your
+ gateway
+ into
+
+
+this
+ new
+ world
+ was
+ vibe
+ coding
+ or
+ you
+
+
+are
+ a
+ senior
+ engineer
+ and
+ you've
+ been
+
+
+evolving
+ your
+ workflow
+ for
+ AI
+ there
+
+
+there
+ are
+ a
+ few
+ things
+ I
+ think
+ that
+
+
+everybody
+ should
+ keep
+ in
+ mind
+ that
+ can
+
+
+help
+ you
+ get
+ the
+ best
+ outcomes.
+ Addy
+
+
+just
+ mentioned
+ getting
+ the
+ best
+
+
+outcomes.
+ Here's
+ what
+ I'm
+ seeing
+ with
+ AI
+
+
+and
+ Vive
+ coding.
+ These
+ tools
+ can
+ give
+
+
+you
+ incredible
+ velocity.
+ You
+ can
+ ship
+
+
+features
+ a
+ lot
+ faster
+ than
+ before.
+ But
+
+
+velocity
+ without
+ precision
+ means
+ you're
+
+
+just
+ shipping
+ more
+ things,
+ not
+
+
+necessarily
+ the
+ right
+ things.
+ How
+ do
+ you
+
+
+know
+ if
+ what
+ you
+ built
+ actually
+ works?
+
+
+Did
+ that
+ new
+ checkout
+ flow
+ improve
+
+
+conversion
+ or
+ hurt
+ it?
+ Is
+ a
+ feature
+ you
+
+
+shipped
+ helping
+ retention
+ or
+ causing
+ a
+
+
+drop
+ off?
+ Without
+ precision
+ in
+ how
+ you
+
+
+roll
+ out
+ a
+ measure,
+ you're
+ making
+
+
+decisions
+ blind.
+ That's
+ where
+ static
+
+
+comes
+ in.
+ Static
+ is
+ our
+ presenting
+
+
+partner
+ for
+ the
+ season
+ and
+ they
+ built
+ a
+
+
+precision
+ toolkit
+ that
+ matches
+ your
+ AI
+
+
+accelerated
+ velocity.
+ Here's
+ what
+
+
+precision
+ looks
+ like.
+ You
+ ship
+ a
+ feature
+
+
+to
+ 10%
+ of
+ users
+ in
+ a
+ controlled
+
+
+environment
+ and
+ see
+ if
+ it's
+ moving
+ your
+
+
+metrics
+ up
+ or
+ down.
+ If
+ conversion
+ drops,
+
+
+you
+ catch
+ it
+ early
+ and
+ roll
+ back
+ before
+
+
+it
+ affects
+ everyone.
+ You're
+ making
+
+
+precise
+ datadriven
+ decisions
+ at
+ the
+ same
+
+
+pace
+ you're
+ shipping
+ code.
+ Take
+ graphite
+
+
+as
+ an
+ example.
+ They
+ build
+ granular
+
+
+control
+ and
+ rapid
+ iteration
+ into
+ their
+
+
+development
+ workflow
+ using
+ statig.
+ When
+
+
+they
+ roll
+ out
+ a
+ new
+ feature,
+ built-in
+
+
+analytics
+ show
+ exactly
+ how
+ it
+ affects
+
+
+their
+ key
+ metrics.
+ They
+ can
+ see
+ if
+
+
+engagement
+ is
+ up,
+ if
+ the
+ feature
+ is
+
+
+causing
+ errors,
+ or
+ if
+ users
+ are
+ dropping
+
+
+off.
+ They
+ do
+ this
+ with
+ feature
+ gates
+ and
+
+
+metrics
+ working
+ together.
+ And
+ they're
+
+
+running
+ over
+ 300s
+ of
+ these
+ controls
+
+
+rollouts
+ at
+ any
+ given
+ time.
+ During
+
+
+production
+ incidents,
+ this
+ approach
+ cut
+
+
+their
+ resolution
+ times
+ by
+ over
+ 50%
+
+
+because
+ they
+ could
+ quickly
+ identify
+
+
+which
+ feature
+ flag
+ was
+ causing
+ issues
+
+
+and
+ fix
+ it
+ instantly.
+ Most
+ teams
+ stitch
+
+
+together
+ separate
+ systems,
+ wait
+ on
+
+
+queries,
+ and
+ try
+ to
+ correlate
+ user
+
+
+segments
+ that
+ don't
+ match.
+ By
+ the
+ time
+
+
+they
+ know
+ if
+ something
+ worked,
+ they've
+
+
+already
+ moved
+ on
+ to
+ the
+ next
+ feature.
+
+
+With
+ Static,
+ you
+ have
+ everything
+ in
+ one
+
+
+place.
+ Feature
+ flags,
+ experimentation,
+
+
+and
+ analytics
+ with
+ the
+ same
+ user
+ data.
+
+
+Static
+ has
+ a
+ generous
+ free
+ tier
+ to
+ get
+
+
+started,
+ and
+ Proing
+ for
+ Team
+ starts
+ at
+
+
+$150
+ per
+ month.
+ To
+ learn
+ more
+ and
+ get
+ a
+
+
+30-day
+ enterprise
+ trial,
+ go
+ to
+
+
+stats.com/pragmatic.
+
+
+With
+ this,
+ let's
+ get
+ back
+ to
+ the
+
+
+conversation
+ about
+ AI
+ and
+ development
+
+
+workflows.
+ Understand
+ that,
+ you
+ know,
+
+
+models
+ tend
+ to
+ have
+ finite
+ context
+
+
+windows.
+ They've
+ been
+ getting
+ larger
+
+
+over
+ time.
+ you
+ probably
+ need
+ to
+ at
+ some
+
+
+level
+ adopt
+ um
+ sort
+ of
+ a
+ project
+ manager
+
+
+mindset.
+ You
+ know,
+ break
+ tasks
+ into
+
+
+small
+ verifiable
+ chunks.
+ I've
+ seen
+ a
+ lot
+
+
+of
+ people
+ who
+ will
+ like
+ throw
+ throw,
+ you
+
+
+know,
+ the
+ kitchen
+ sink
+ at
+ the
+ LLM
+ and
+
+
+say
+ like,
+ "Hey,
+ yes,
+ build
+ build
+ all
+
+
+these
+ requirements
+ at
+ once."
+ And
+ that
+
+
+doesn't
+ necessarily
+ work
+ the
+ best.
+ So,
+
+
+you
+ know,
+ small
+ verifiable
+ chunks,
+ um
+
+
+clear
+ expectations,
+ um
+ and
+ be
+ prepared
+
+
+to
+ iterate
+ with
+ the
+ AI.
+ Um,
+ don't
+ just
+
+
+feel
+ like
+ oneshotting
+ is
+ is
+ going
+ to
+
+
+give
+ you
+ the
+ best
+ outcome
+ because
+ it
+ it
+
+
+probably
+ isn't.
+ Um,
+ and
+ that
+
+
+decomposition
+ is
+ really
+ pretty
+ similar
+
+
+to
+ planning
+ a
+ sprint
+ or
+ writing
+ pseudo
+
+
+code,
+ the
+ type
+ of
+ thing
+ that
+ we
+ would
+ do
+
+
+in
+ the
+ the
+ older
+ days.
+ And
+ it
+ reduces
+
+
+the
+ risk
+ of
+ context
+ loss
+ and
+ compounding
+
+
+errors.
+ I
+ think
+ that
+ a
+ lot
+ of
+ best
+
+
+practices
+ in
+ software
+ engineering
+ remain
+
+
+timeless
+ even
+ with
+ AI
+ coding.
+ So
+ um
+
+
+caring
+ about
+ modular
+ testable
+ code
+
+
+enforcing
+ those
+ code
+ reviews
+ you
+ know
+ AI
+
+
+is
+ going
+ to
+ introduce
+ a
+ few
+ new
+ habits
+
+
+like
+ thinking
+ about
+ the
+ input
+ and
+ output
+
+
+constraints
+ and
+ seating
+ enough
+ context
+
+
+but
+ that
+ doesn't
+ mean
+ that
+ you
+ can't
+ get
+
+
+good
+ output
+ from
+ it.
+ It
+ does
+ mean
+ that
+
+
+you're
+ going
+ to
+ have
+ to
+ apply
+ a
+ level
+ of
+
+
+diligence
+ with
+ that
+ human
+ in
+ the
+ loop
+ to
+
+
+make
+ sure
+ that
+ uh
+ you
+ are
+ setting
+
+
+yourself
+ up
+ for
+ success.
+ um
+ the
+ more
+
+
+that
+ you
+ sort
+ of
+ uh
+ give
+ give
+ up
+ your
+
+
+responsibilities
+ to
+ the
+ the
+ LLM,
+ the
+
+
+higher
+ the
+ risk
+ is
+ that
+ something's
+
+
+going
+ to
+ go
+ off
+ the
+ rails.
+
+
+>> Yeah.
+ And
+ one
+ thing
+ that
+ I
+ heard
+ from
+ an
+
+
+engineer
+ uh
+ actually
+ this
+ was
+ Armen
+
+
+Ronacher
+ who's
+ longtime
+ century
+ engineer
+
+
+uh
+ the
+ creator
+ of
+ Flask
+ and
+ a
+ bunch
+ of
+
+
+open
+ source
+ frameworks
+ and
+ he
+ was
+
+
+telling
+ me
+ that
+ he's
+ observed
+ something
+
+
+interesting
+ with
+ engineers
+ who
+ are
+
+
+firmly
+ in
+ control
+ and
+ very
+ confident
+ in
+
+
+their
+ work.
+ uh
+ he
+ said
+ that
+ he
+ sees
+
+
+they're
+ just
+ seeing
+ a
+ lot
+ more
+ success
+
+
+with
+ AI
+ and
+ the
+ people
+ who
+ feel
+ that
+
+
+they
+ don't
+ have
+ that
+ much
+ control
+ over
+
+
+their
+ work
+ over
+ their
+ tasks
+ they're
+ just
+
+
+assigned
+ tickets
+ and
+ and
+ they
+ also
+ have
+
+
+a
+ bit
+ of
+ a
+ like
+ you
+ know
+ the
+ world's
+
+
+control
+ I
+ mean
+ mindset
+ they're
+ freaking
+
+
+out
+ a
+ lot
+ more
+ about
+ AI
+ and
+ what
+ it
+ will
+
+
+do
+ and
+ this
+ was
+ so
+ interesting
+ of
+ of
+ it
+
+
+just
+ came
+ to
+ me
+ as
+ as
+ we're
+ talking
+
+
+about
+ it
+ because
+ what
+ what
+ I'm
+ sensing
+
+
+from
+ a
+ car
+ conversation
+ is
+ again
+ a
+ lot
+
+
+of
+ your
+ advice
+ boils
+ down
+ to
+ be
+ in
+
+
+charge
+ understand
+ everything.
+ Be
+
+
+confident,
+ you
+ know,
+ that
+ if
+ this
+ thing
+
+
+gets
+ taken
+ away,
+ you
+ can
+ you
+ can
+ make
+
+
+progress
+ like
+ no
+ problem.
+ It'll
+ just
+ be
+
+
+a
+ bit
+ slower.
+ And
+ as
+ long
+ as
+ you
+ have
+
+
+this
+ mindset,
+ it
+ feels
+ like
+ everything
+
+
+is
+ easier.
+ And
+ and
+ and
+ keeping
+ this
+
+
+like,
+ you
+ know,
+ you're
+ as
+ you
+ said,
+ like
+
+
+you
+ still
+ read
+ through
+ the
+ thinking,
+ you
+
+
+prefer
+ the
+ models
+ where
+ it
+ explains
+ to
+
+
+you
+ and
+ then
+ you
+ can
+ go
+ back
+ if
+ you
+ wish
+
+
+and
+ you
+ often
+ do
+ it.
+ You
+ read
+ through
+ to
+
+
+make
+ sure
+ to
+ learn.
+ Plus,
+ it's
+ kind
+ of
+
+
+fun.
+ You
+ keep
+ learning
+ professionally.
+
+
+You
+ keep
+ getting
+ better
+ every
+ day.
+
+
+>> Absolutely.
+ Absolutely
+ right.
+ I
+ I'm
+ I'm
+
+
+reminded
+ of,
+ you
+ know,
+ AI
+ is
+ just
+
+
+another
+ tool
+ in
+ your
+ tool
+ belt.
+ You
+
+
+know,
+ we
+ we've
+ gone
+ we've
+ gone
+ through
+
+
+so
+ many
+ different
+ moments
+ over
+ time
+ of
+
+
+um
+ engineering
+ uh
+ and
+ developer
+
+
+experience
+ getting
+ a
+ little
+ bit
+ better
+
+
+um
+ with
+ with
+ every
+ generation.
+ You
+ know,
+
+
+when
+ uh
+ when
+ I
+ when
+ I
+ was
+ coming
+ up,
+ I
+
+
+remembered
+ getting
+ excited
+ when
+
+
+templates
+ became
+ a
+ thing.
+
+
+>> You
+ could
+ you
+ could
+ generate
+ code
+ with
+
+
+templates,
+ you
+ mean?
+
+
+>> Oh,
+ no.
+ just
+ just
+ downloading
+ templates
+
+
+for
+ ideas
+ for
+ UI
+ for
+ um
+ you
+ know
+
+
+starting
+ off
+
+
+>> on
+ on
+ the
+ web,
+ right?
+
+
+>> Yeah.
+ On
+ the
+ web
+ and
+ I
+ like
+ this
+ this
+
+
+was
+ just
+ the
+ the
+ simplest
+ of
+ things.
+ It
+
+
+was
+ like
+ a
+ zip
+ file,
+ right?
+ Somebody
+
+
+else
+ had
+ created
+ it.
+ But
+ okay,
+ so
+ I'
+
+
+I've
+ improved
+ my
+ starting
+ point
+ and
+ then
+
+
+we
+ got
+ stronger
+ um
+ command
+ line
+
+
+interfaces,
+ scaffolding,
+ um
+ that
+ type
+ of
+
+
+thing.
+ And
+ then
+ you
+ didn't
+ have
+ to
+ worry
+
+
+about
+ the
+ exact
+ starting
+ point.
+ And
+ I
+
+
+feel
+ like
+ this
+ is
+ just
+ taking
+ us
+ a
+ few
+
+
+steps
+ forward.
+ like
+ it's
+ making
+ it
+
+
+easier
+ for
+ us
+ to
+ bootstrap
+ a
+ solution
+ um
+
+
+that
+ that
+ kind
+ of
+ works
+ but
+ still
+
+
+requires
+ you
+ to
+ really
+ understand
+ what
+
+
+you
+ are
+ putting
+ into
+ your
+ codebase
+
+
+shipping
+ out
+ to
+ users
+ and
+ and
+ not
+ uh
+ you
+
+
+know
+ uh
+ getting
+ rid
+ of
+ your
+
+
+responsibilities
+ at
+ the
+ end
+ of
+ the
+ day
+ I
+
+
+find
+ that
+ um
+ at
+ least
+ for
+ me
+ in
+ the
+ last
+
+
+year
+ or
+ two
+ uh
+ going
+ back
+ to
+ first
+
+
+principles
+ as
+ always
+ like
+ has
+ helped
+ a
+
+
+lot.
+ I've
+ been
+ uh
+ working
+ a
+ little
+ bit
+
+
+more
+ closely
+ uh
+ with
+ the
+ Google
+ DeepMind
+
+
+team
+ um
+ on
+ Gemini
+ and
+ uh
+ its
+ coding
+
+
+capabilities
+ and
+ that
+ has
+ been
+ a
+ really
+
+
+good
+ reminder
+ for
+ me
+ of
+ just
+
+
+understanding
+ how
+ a
+ lot
+ of
+ these
+ things
+
+
+work
+ behind
+ the
+ scenes.
+ If
+ you
+ remember
+
+
+that
+ you
+ know
+ what
+ is
+ what
+ is
+ training
+
+
+data?
+ Well,
+ it's
+ very
+ likely
+ going
+ to
+ be
+
+
+looking
+ at
+ permissively
+ licensed
+ um
+ you
+
+
+know
+ code
+ that's
+ on
+ GitHub
+ um
+ or
+ or
+ out
+
+
+on
+ the
+ open
+ web.
+ um
+ the
+ patterns
+ in
+ that
+
+
+code
+ are
+ probably
+ going
+ to
+ be
+ reflective
+
+
+of
+ in
+ many
+ case
+ like
+ lowest
+ common
+
+
+denominator
+ um
+ things
+ that
+ maybe
+ just
+
+
+work.
+ Are
+ they
+ going
+ to
+ be
+ the
+ most
+
+
+secure,
+ the
+ most
+ high
+ performance,
+ the
+
+
+most
+ accessible?
+ Possibly
+ not.
+ And
+ so
+ if
+
+
+you
+ remember
+ that
+ the
+ training
+ data
+
+
+itself
+ um
+ still
+ requires
+ a
+ lot
+ of
+ work
+
+
+to
+ like
+ actually
+ get
+ things
+ to
+ a
+ place
+
+
+where
+ you
+ know
+ it
+ maybe
+ is
+ of
+ production
+
+
+quality,
+ you
+ sort
+ of
+ start
+ start
+ to
+ set
+
+
+your
+ expectations
+ a
+ little
+ bit
+ lower.
+ um
+
+
+when
+ when
+ working
+ with
+ LLMs
+ um
+ you
+
+
+realize
+ like
+ yeah
+ it
+ will
+ probably
+ do
+ a
+
+
+better
+ job
+ than
+ me
+ just
+ copying
+ and
+
+
+pasting
+ snippets
+ of
+ code
+ from
+ somewhere
+
+
+else
+ um
+ obviously
+ but
+ um
+ I
+ still
+ very
+
+
+likely
+ need
+ to
+ do
+ um
+ a
+ level
+ of
+ manual
+
+
+work
+ or
+ a
+ level
+ of
+ diligence
+ on
+ top
+ of
+
+
+this
+ to
+ get
+ the
+ best
+ outputs.
+ Yeah,
+ it
+
+
+reminds
+ me
+ a
+ little
+ bit
+ 10
+ years
+ ago
+ or
+
+
+so,
+ 10
+ 5
+ 10
+ years
+ ago,
+ we
+ use
+ a
+ lot
+ of
+
+
+Stack
+ Overflow
+ because
+ when
+ you
+ search
+
+
+for
+ something,
+ it
+ was
+ there.
+ And
+ so,
+ for
+
+
+example,
+ for
+ email
+ validation,
+ like
+ you
+
+
+would
+ search
+ like
+ how
+ do
+ I
+ validate
+ an
+
+
+email
+ address?
+ There
+ was
+ a
+ Stack
+
+
+Overflow
+ question
+ and
+ it
+ had
+ like
+ 20
+
+
+answers.
+ One
+ of
+ them
+ was
+ top
+ rated.
+ It
+
+
+was
+ a
+ regular
+ expression.
+ And
+ what
+ what
+
+
+I
+ did
+ and
+ I
+ think
+ what
+ a
+ lot
+ of
+ people
+
+
+did
+ is
+ I
+ just
+ copied
+ and
+ pasted
+ because
+
+
+I
+ cannot
+ be
+ bothered
+ to
+ define
+ exactly
+
+
+the
+ regular
+ expression
+ of
+ emails
+ which
+
+
+is
+ a
+ lot
+ more
+ complicated
+ than
+ just
+
+
+things.
+ So
+ I
+ just
+ kind
+ of
+ and
+ if
+ it
+ was
+
+
+for
+ nothing
+ important
+ it
+ it
+ kind
+ of
+
+
+worked
+ but
+ there
+ were
+ then
+ complaints
+ uh
+
+
+and
+ like
+ flags
+ raised
+ that
+ a
+ few
+ of
+ them
+
+
+not
+ this
+ specific
+ example
+ but
+ they
+ were
+
+
+insecure
+ or
+ they
+ didn't
+ account
+ for
+ edge
+
+
+cases
+ and
+ a
+ lot
+ of
+ devs
+ again
+ when
+ you
+
+
+were
+ in
+ the
+ mindless
+ mode
+ or
+ it
+ didn't
+
+
+matter
+ or
+ you
+ know
+ better
+ you
+ did
+ that
+
+
+and
+ I
+ guess
+ we're
+ we're
+ going
+ to
+ have
+
+
+the
+ same
+ thing
+ at
+ larger
+ scale
+ like
+ why
+
+
+did
+ the
+ bug
+ bug
+ happen
+ and
+ you're
+ going
+
+
+to
+ look
+ back
+ at
+ the
+ history
+ yeah
+ someone
+
+
+just
+ looked
+ looks
+ good
+ to
+ me
+ for
+ for
+
+
+that
+ big
+ pull
+ request
+ that
+ was
+ in
+ the
+
+
+end
+ generated
+ by
+ an
+ AI.
+
+
+>> I
+ think
+ that
+ this
+ is
+ this
+ is
+ very
+ much
+ a
+
+
+smaller
+ um
+ point,
+ a
+ side
+ discussion
+
+
+point,
+ but
+ um
+ I
+ I've
+ seen
+ a
+ number
+ of
+
+
+cases
+ where
+ people
+ will
+ now
+ say,
+ you
+
+
+know,
+ hey,
+ do
+ I
+ do
+ I
+ still
+ need
+ to
+ use
+
+
+third
+ party
+ libraries
+ if
+ I
+ can
+ just
+
+
+prompt
+ a
+ very
+ slightly
+ smaller
+ version
+
+
+of
+ a
+ solution
+ myself?
+ Which
+ reminded
+ me
+
+
+exactly
+ of
+ this
+ Stack
+ Overflow
+ copy
+
+
+pasting
+ the
+ top
+ response
+ thing.
+ And
+ what
+
+
+you
+ re
+ if
+ you're
+ a
+ senior
+ engineer
+ what
+
+
+you
+ realize
+ is
+ well
+ hold
+ on
+ that
+ also
+
+
+means
+ that
+ you
+ are
+ now
+ taking
+ on
+ the
+
+
+responsibility
+ of
+ making
+ sure
+ that
+ this
+
+
+is
+ future
+ proof
+ for
+ security
+ issues
+ for
+
+
+all
+ sorts
+ of
+ platform
+ issues
+ that
+ could
+
+
+happen.
+ If
+ you're
+ relying
+ on
+ a
+ library
+
+
+it's
+ perhaps
+ easier
+ for
+ there
+ to
+ be
+ a
+
+
+central
+ point
+ of
+ leverage
+ where
+ those
+
+
+fixes
+ can
+ be
+ made
+ and
+ then
+ deployed
+ out
+
+
+to
+ people.
+ If
+ you
+ own
+ all
+ of
+ these
+
+
+different
+ patterns
+ in
+ your
+ codebase
+
+
+yourself,
+ that
+ also
+ means
+ that
+ you're
+
+
+taking
+ on
+ that
+ responsibility
+ can
+ be
+
+
+totally
+ okay,
+ but
+ it's
+ something
+ that
+ I
+
+
+I
+ sometimes
+ see
+ people
+ just
+ not
+ being
+
+
+mindful
+ of
+ of
+ requiring
+ a
+ little
+ bit
+ of
+
+
+extra
+ work.
+
+
+>> And
+ I
+ I
+ feel
+ this
+ is
+ where
+ we
+ just
+ need
+
+
+to
+ remind
+ oursel
+ that
+ it's
+ just
+
+
+engineering,
+ right?
+ It's
+ trade-off.
+ Do
+
+
+you
+ take
+ on
+ the
+ responsibility
+ and
+ the
+
+
+risk
+ of
+ of
+ maintaining
+ this
+ thing
+ and
+
+
+the
+ fact
+ that
+ it
+ might
+ have
+ missing
+ edge
+
+
+cases
+ or
+ whatever
+ or
+ might
+ not
+ work
+
+
+correctly
+ or
+ securely
+ or
+ do
+ you
+ take
+ on
+
+
+a
+ dependency
+ which
+ has
+ its
+ own
+ problems
+
+
+right
+ there's
+ now
+ dependency
+ security
+
+
+etc.
+ But
+ speaking
+ of
+ the
+ need
+ for
+
+
+software
+ engineering,
+ what
+ are
+ some
+ new
+
+
+workflows,
+ some
+ some
+ things
+ that
+ we
+ have
+
+
+not
+ been
+ able
+ to
+ do
+ before
+ as
+ software
+
+
+engineers
+ that
+ we
+ can
+ now
+ experiment
+
+
+with
+ that
+ you
+ you
+ might
+ be
+ trying
+ out
+
+
+with
+ with
+ these
+ AI
+ tools
+ that
+ is
+ it's
+
+
+just
+ like
+ is
+ brand
+ new.
+
+
+>> Yeah.
+ I
+ think
+ for
+ me
+ the
+ the
+ thing
+ that
+
+
+I'm
+ most
+ excited
+ about
+ um
+ seeing
+ evolve
+
+
+is
+ this
+ idea
+ of
+ a
+ synchronous
+ background
+
+
+coding
+ agents.
+ a
+ number
+ of
+ teams
+ playing
+
+
+around
+ with
+ these
+ ideas
+ at
+ the
+ moment.
+
+
+Uh
+ jewels,
+ codec
+ u
+ codeex
+ uh
+ we
+ also
+ see
+
+
+uh
+ you
+ know
+ GitHub
+ um
+ experimenting
+ with
+
+
+some
+ of
+ these
+ ideas
+ as
+ well.
+ I
+ think
+
+
+that
+ the
+ idea
+ of
+ you
+ being
+ able
+ to
+
+
+delegate
+ um
+ parts
+ of
+ your
+ backlog
+ and
+
+
+have
+ a
+ system
+ be
+ able
+ to
+ uh
+ implement
+
+
+that
+ uh
+ in
+ you
+ know
+ asynchronously
+ is
+ is
+
+
+a
+ very
+ interesting
+ idea.
+ um
+ if
+ we
+ can
+ do
+
+
+that
+ without
+ merge
+ conflicts
+ in
+ a
+ way
+
+
+that
+ is
+ easily
+ human
+ verifiable.
+ So
+
+
+again
+ going
+ back
+ to
+ that
+ human
+ in
+ the
+
+
+loop
+ I
+ think
+ that's
+ very
+ interesting.
+ I
+
+
+have
+ been
+ finding
+ that
+ that
+ is
+ uh
+ very
+
+
+very
+ very
+ much
+ already
+ in
+ a
+ place
+ where
+
+
+if
+ you
+ are
+ having
+ um
+ you
+ know
+ one
+ agent
+
+
+work
+ on
+ uh
+ writing
+ or
+ updating
+ your
+
+
+tests
+ or
+ you
+ have
+ a
+ number
+ of
+ agents
+
+
+working
+ together
+ on
+ uh
+ trying
+ to
+ migrate
+
+
+your
+ codebase
+ from
+ one
+ version
+ of
+ a
+
+
+library
+ to
+ another
+ or
+ you
+ know
+ a
+ version
+
+
+of
+ a
+ dependency
+ to
+ another
+ that
+ they're
+
+
+pretty
+ okay
+ at
+ doing
+ that
+ kind
+ of
+ work
+
+
+right
+ now.
+ smaller
+ changes
+ like
+ there
+
+
+there
+ are
+ lots
+ of
+ things
+ that
+ you
+ know
+
+
+we
+ we
+ all
+ have
+ to
+ do
+ like
+ adding
+ dark
+
+
+mode
+ for
+ for
+ example
+ the
+ smaller
+ kinds
+
+
+of
+ changes
+ where
+ maybe
+ being
+ able
+ to
+
+
+delegate
+ uh
+ those
+ kinds
+ of
+ changes
+ to
+ uh
+
+
+as
+ agents
+ are
+ are
+ going
+ to
+ you
+ know
+ get
+
+
+get
+ very
+ very
+ good
+ um
+ I'm
+ excited
+ about
+
+
+that
+ I
+ think
+ that
+ the
+ jury
+ is
+ still
+ out
+
+
+on
+ exactly
+ what
+ is
+ the
+ surface
+ for
+ being
+
+
+able
+ to
+ you
+ know
+ if
+ you
+ are
+ the
+
+
+conductor
+ of
+ this
+ orchestra
+ um
+ what
+ is
+
+
+the
+ right
+ surface
+ for
+ you
+ being
+ able
+ to
+
+
+manage
+ all
+ of
+ these
+ things
+ and
+ what
+ is
+ a
+
+
+realistic
+ number
+ of
+ tasks
+ for
+ you
+ to
+ be
+
+
+managing
+ at
+ the
+ same
+ time
+ because
+ you
+
+
+know
+ even
+ I
+ like
+ a
+ number
+ of
+ people
+ have
+
+
+shown
+ off
+ like
+ hey
+ yeah
+ I've
+ got
+ like
+ 20
+
+
+different
+ terminals
+ open
+ and
+ I
+ have
+ quad
+
+
+code
+ running
+ in
+ half
+ of
+ them
+ and
+ then
+
+
+Gemini
+ running
+ and
+ and
+ it's
+ it
+ looks
+
+
+it's
+ funny
+ but
+ the
+ reality
+ is
+ that
+ you
+
+
+only
+ have
+ a
+ finite
+ amount
+ of
+ attention
+
+
+and
+ if
+ you
+ are
+ going
+ to
+ be
+ actually
+
+
+putting
+ in
+ um
+ diligence
+ into
+ your
+ code
+
+
+reviews
+ and
+ into
+ each
+ of
+ these
+ like
+
+
+workflows
+ you
+ are
+ probably
+ only
+ going
+ to
+
+
+be
+ able
+ to
+ do
+ a
+ couple
+ of
+ things
+ um
+ at
+
+
+the
+ same
+ time.
+ You
+ know,
+ it
+ all
+ comes
+
+
+back
+ to
+ to
+ multitasking
+ best
+ practices,
+
+
+but
+ I'm
+ interested
+ in
+ that.
+ I'm
+
+
+interested
+ in
+ seeing
+ where
+ that
+ goes.
+
+
+Another
+ thing
+ that's
+ very
+ interesting
+ is
+
+
+is
+ vibe
+ designing.
+ Um
+ I'm
+ seeing
+ that
+
+
+part
+ uh
+ of
+ product
+ uh
+ you
+ know,
+ product
+
+
+engineering,
+ product
+ development
+ uh
+
+
+evolving
+ a
+ little
+ bit.
+ Um
+ was
+ very
+
+
+exciting
+ to
+ see
+ you
+ know,
+ Figma's
+ MCP
+
+
+moving
+ um
+ a
+ little
+ bit
+ closer
+ in
+ this
+
+
+direction.
+ um
+ things
+ that
+ allow
+
+
+designers
+ and
+ developers
+ to
+ work
+ more
+
+
+closely
+ together
+ or
+ to
+ at least
+ enable
+
+
+designers
+ to
+ be able
+ to
+ take
+ their
+
+
+vision
+ and
+ turn
+ it
+ into
+ a
+ functional
+
+
+prototype,
+ something
+ perhaps
+ a
+ little
+
+
+bit
+ closer
+ to
+ code
+ that
+ can
+ then
+ be
+ um
+
+
+productionized
+ uh
+ and
+ is
+ not
+ just
+ a
+
+
+one-off
+ demo.
+ Yeah,
+ I
+ I
+ I
+ heard
+ uh
+ an
+
+
+engineering
+ lead
+ or
+ design
+ leader
+ at
+
+
+Shopify
+ said
+ that
+ her
+ team,
+ every
+
+
+designer
+ on
+ her
+ team,
+ so
+ not
+ all
+ of
+
+
+Shopify
+ has
+ cursor
+ and
+ what
+ they
+ do
+ is
+
+
+they
+ create
+ a
+ Figma
+ design
+ and
+ then
+ they
+
+
+ask
+ cursor
+ to
+ implement
+ it
+ and
+ then
+ they
+
+
+show
+ it
+ to
+ engineers
+ and
+ this
+ is
+ not
+
+
+saying
+ ship
+ it.
+ It's
+ just
+ more
+ we
+ now
+
+
+have
+ something
+ interactive
+ that
+ we
+ can
+
+
+work
+ with
+ as
+ opposed
+ to
+ just
+ what
+ they
+
+
+used
+ to
+ do
+ which
+ is
+ sharing
+ a
+ Fibbit
+
+
+design.
+ And
+ I
+ was
+ like,
+ huh,
+ this
+ is
+
+
+something
+ I've
+ not
+ heard
+ before.
+ Like
+
+
+truly
+ [laughter]
+
+
+like
+ like
+ all
+ designers
+ or
+ at least
+ on
+ a
+
+
+team
+ using
+ the
+ developer
+ tool
+ like
+ I
+ I
+
+
+couldn't
+ imagine
+ designers
+ using
+ Visual
+
+
+Studio
+ Code
+ for
+ I
+ mean
+ I
+ can
+ imagine
+
+
+them
+ being
+ able
+ to
+ open
+ it
+ but
+ I
+
+
+couldn't
+ imagine
+ them
+ it's
+ just
+ not
+
+
+built
+ for
+ them.
+ So
+ this
+ was
+ really
+
+
+really
+ interesting
+ to
+ hear
+ and
+ again
+
+
+this
+ this
+ wasn't
+ some
+ vendor
+
+
+advertisement
+ or
+ anything.
+ Yeah,
+ I've
+
+
+I've
+ a
+ shout
+ out
+ to
+ the
+ Shopify
+ team.
+
+
+Honestly,
+ I
+ I
+ feel
+ like
+ um
+ a
+ number
+ of
+
+
+them
+ are
+ have
+ been
+ very
+ open
+ to
+ sharing
+
+
+what's
+ been
+ working
+ out
+ well
+ for
+ their
+
+
+teams
+ and
+ I've
+ I've
+ enjoyed
+ following
+
+
+their
+ story.
+ Um
+ I
+ think
+ that
+ uh
+ you
+ know
+
+
+more
+ of
+ these
+ patterns
+ spreading
+ is
+
+
+going
+ to
+ depend
+ a
+ little
+ bit
+ on
+ on
+
+
+training
+ on
+ governance
+ on
+ like
+ clear
+
+
+boundaries
+ between
+ what
+ is
+ prototype
+
+
+code
+ and
+ production.
+ But
+ already
+ being
+
+
+able
+ to
+ turn
+ something
+ um
+ static
+ into
+ a
+
+
+semifunctional
+ like
+ prototype
+ is
+ very
+
+
+cool.
+ Are
+ we
+ going
+ to
+ see
+ like
+ everybody
+
+
+using
+ cursor?
+ I
+ I
+ don't
+ I
+ don't
+ know.
+ I
+
+
+I
+ think
+ that
+ um
+ I
+ at
+ least
+ for
+ me
+ I
+ I
+
+
+see
+ folks
+ being
+ able
+ to
+ accomplish
+ the
+
+
+same
+ outcomes
+ from
+ the
+ tools
+ that
+ they
+
+
+spend
+ the
+ most
+ time
+ in
+ or
+ the
+ bridges
+
+
+between
+ tools
+ getting
+ better
+ over
+ time.
+
+
+But
+ I
+ still
+ think
+ it's
+ very
+ very
+
+
+exciting.
+ In
+ the
+ same
+ way,
+ you
+ know,
+
+
+we're
+ also
+ seeing
+ lots
+ of
+ good
+
+
+conversations
+ about
+ PM
+ and
+ EM
+ roles
+ uh
+
+
+changing.
+ PMs
+ maybe,
+ you
+ know,
+ spending
+
+
+uh
+ more
+ time
+ on
+ problem
+ framing
+ and
+
+
+metrics
+ and
+ policies
+ for
+ agents.
+ EM
+
+
+spending
+ more
+ time
+ on
+ um
+ evals
+ and
+
+
+safety
+ reviews
+ and
+ really
+ enabling
+ their
+
+
+teams
+ to
+ work
+ with
+ AI
+ confidently.
+ Um
+ it
+
+
+won't
+ change
+ uh
+ accountability
+ for
+
+
+outcomes,
+ but
+ um
+ I
+ am
+ seeing
+ a
+ lot
+ of
+
+
+good
+ discussions
+ about
+ the
+ need
+ for
+
+
+taste
+ in
+ product
+ engineering.
+ um
+ where
+
+
+that's
+ going
+ to
+ be
+ what
+ differentiates
+
+
+people
+ because
+ if
+ anybody
+ can
+ you
+ know
+
+
+look
+ at
+ what
+ you've
+ built
+ and
+ can
+ use
+
+
+prompts
+ to
+ accomplish
+ um
+ you
+ know
+ a
+
+
+similar
+ set
+ of
+ functionality
+ the
+ taste
+
+
+piece
+ is
+ going
+ to
+ continue
+ to
+ be
+ very
+
+
+interesting
+ um
+ for
+ folks
+ to
+ focus
+ on
+ in
+
+
+the
+ future.
+ You
+ and
+ I
+ have
+ talked
+ about
+
+
+sort
+ of
+ uh
+ juniors
+ and
+ seniors.
+ Um,
+ I
+
+
+think
+ that,
+ you
+ know,
+ there's
+ going
+ to
+
+
+be
+ interesting
+ times
+ for
+ new
+ grads,
+ uh,
+
+
+versus
+ seniors.
+ You
+ know,
+ uh,
+ AI
+
+
+definitely
+ raises
+ the
+ floor,
+ but
+ it
+ also
+
+
+raises
+ the
+ ceiling,
+ too.
+ And,
+ uh,
+
+
+juniors
+ are
+ going
+ to
+ be
+ able
+ to
+ get
+
+
+moving
+ faster,
+ but,
+ uh,
+ seniors
+ who
+ can,
+
+
+you
+ know,
+ write
+ specs,
+ decompose
+ work,
+
+
+understand
+ system
+ architecture,
+ review
+
+
+effectively,
+ I
+ think
+ that
+ they're
+ going
+
+
+to
+ become
+ even
+ more
+ valuable.
+ And
+ that
+
+
+last
+ 30%
+ that
+ we
+ talked
+ about,
+ I
+ think
+
+
+it's
+ leverage.
+ Um,
+ not
+ just
+ busy
+ work,
+
+
+but
+ I
+ actually
+ think
+ it's
+ leverage.
+ And
+
+
+um,
+ you
+ know,
+ a
+ lot
+ of
+ surveys
+ have
+ been
+
+
+showing
+ that
+ uh
+ trust
+ is
+ in
+ a
+ a
+ cautious
+
+
+but
+ optimistic
+ place
+ at
+ the
+ moment.
+ But
+
+
+um,
+ that
+ cautious
+ piece
+ speaks
+ to
+ the
+
+
+need
+ for
+ that
+ human
+ oversight
+ remaining
+
+
+pretty
+ central.
+
+
+>> Yeah.
+ And
+ if
+ I
+ think
+ about
+ I
+ was
+ just
+
+
+thinking
+ that
+ when
+ it
+ comes
+ to
+ this
+ idea
+
+
+of
+ parallel
+ agent
+ on
+ one
+ I
+ don't
+ think
+
+
+it's
+ ever
+ been
+ done
+ in
+ the
+ sense
+ that
+ as
+
+
+a
+ developer
+ you
+ were
+ never
+ able
+ to
+ do
+
+
+this.
+ I
+ mean
+ we
+ we
+ couldn't
+ even
+ kick
+
+
+off
+ and
+ talk
+ with
+ natural
+ language
+ to
+ a
+
+
+machine
+ that
+ would
+ spit
+ out
+ code
+ that
+
+
+actually
+ compiles
+ like
+ I
+ think
+ this
+ is
+
+
+new
+ as
+ well
+ but
+ the
+ fact
+ that
+ you
+ can
+ do
+
+
+it
+ with
+ multiple
+ on
+ it's
+ not
+ happened
+
+
+before
+ in
+ programming
+ is
+ a
+ very
+ you
+ know
+
+
+you're
+ in
+ the
+ flow
+ you
+ work
+ on
+ one
+
+
+problem
+ when
+ you
+ stop
+ working
+ on
+ it
+ you
+
+
+switch
+ over
+ you
+ get
+ your
+ context
+ almost
+
+
+like
+ the
+ stack
+ clears
+ you
+ know
+ you
+ load
+
+
+the
+ new
+ thing
+ it
+ it
+ kind
+ of
+ feels
+ like
+
+
+it
+ right
+ but
+ on
+ the
+ other
+ when
+ I
+ think
+
+
+back
+ to
+ who
+ are
+ the
+ best
+ senior
+
+
+engineers
+ I
+ know
+ and
+ what
+ their
+ days
+
+
+look
+ like
+ well
+ they're
+ on
+ a
+ team
+ with
+ a
+
+
+few
+ mid-level
+ may
+ maybe
+ some
+ interns
+ or
+
+
+new
+ grads
+ and
+ they're
+ working
+ on
+ their
+
+
+stuff
+ and
+ then
+ they're
+ the
+ ones
+ who
+ get
+
+
+the
+ Slack
+ ping
+ saying
+ hey
+ could
+ you
+
+
+please
+ unblock
+ me
+ so
+ they
+ context
+ switch
+
+
+review
+ the
+ code
+ you
+ know
+ like
+ like
+
+
+criticize
+ it
+ or
+ they
+ block
+ out
+ time
+ and
+
+
+they
+ review
+ review
+ review
+ and
+ like
+ for
+
+
+every
+ kind
+ of
+ senior
+ slash
+ often
+ these
+
+
+are
+ tech
+ leads
+ they
+ have
+ like
+ a
+ few
+
+
+people
+ who
+ are
+ you
+ know
+ they're
+ not
+
+
+agents
+ they're
+ people
+ but
+ they
+ they
+ just
+
+
+review
+ their
+ work
+ and
+ they
+ kind
+ of
+
+
+orchestrate
+ them
+ a
+ little
+ bit
+ on
+ the
+
+
+standup,
+ you
+ know,
+ they're
+ in
+ the
+
+
+planning
+ meeting,
+ they
+ nudge
+ them,
+ they
+
+
+mentor
+ them.
+ So,
+ in
+ some
+ sense,
+ I
+ feel
+
+
+like
+ we
+ seniors
+ already
+ do
+ this.
+ And
+ if
+
+
+if
+ I
+ had
+ a
+ magic
+ wand
+ saying
+ like
+ who
+
+
+who
+ would
+ I
+ expect
+ in
+ a
+ few
+ years
+ time
+
+
+to
+ be
+ able
+ to
+ manage
+ multiple
+ agents?
+
+
+Well,
+ the
+ senior
+ for
+ sure
+ like
+ new
+ grads
+
+
+probably
+ like
+ I
+ mean
+ I
+ I
+ feel
+ there
+ will
+
+
+be
+ a
+ stretch
+ for
+ them,
+ but
+ they're
+ not
+
+
+expected
+ to
+ have
+ that.
+ They
+ don't
+ have
+
+
+the
+ expertise.
+ So
+ I
+ I
+ wonder
+ if
+ some
+ of
+
+
+these
+ skills
+ are
+ somewhat
+ transferable
+
+
+in
+ a
+ sense
+ that
+ and
+ you
+ know
+ that
+ senior
+
+
+why
+ could
+ that
+ senior
+ do
+ that
+ well
+
+
+because
+ they
+ understood
+ the
+ codebase.
+
+
+They
+ knew
+ what
+ good
+ looked
+ like.
+ They
+
+
+were
+ always
+ thorough
+ in
+ their
+ reviews.
+
+
+They
+ never
+ let
+ things
+ slip.
+ They
+ call
+
+
+out
+ even
+ the
+ smallest
+ thing.
+
+
+>> I
+ completely
+ agree
+ with
+ you
+ and
+ and
+ I
+
+
+think
+ that
+ there's
+ a
+ lot
+ to
+ be
+ said
+
+
+about
+ how
+ um
+ developer
+ education
+ in
+
+
+teams
+ may
+ also
+ evolve
+ um
+ for
+ this
+
+
+moment.
+ Um
+ historically
+ I
+ I
+ remember
+
+
+when
+ I
+ was
+ coming
+ up
+ you
+ know
+ um
+
+
+mentorship
+ was
+ always
+ a
+ big
+ topic
+ and
+ we
+
+
+talked
+ about
+ you
+ know
+ especially
+ for
+
+
+folks
+ uh
+ who
+ are
+ joining
+ a
+ new
+ team
+ um
+
+
+the
+ importance
+ of
+ like
+ pair
+ programming.
+
+
+I
+ think
+ we're
+ going
+ to
+ see,
+ you
+ know,
+
+
+perhaps
+ even
+ situations
+ of
+ of
+ trio
+
+
+programming
+ where
+ it's
+ a
+ junior
+ senior
+
+
+and
+ the
+ AI
+ and
+ maybe
+ the
+ senior
+ is
+ going
+
+
+to
+ be
+ there
+ uh
+ asking
+ you
+ to
+ explain
+ um
+
+
+the
+ code
+ that
+ the
+ AI
+ is
+ generating
+ in
+
+
+some
+ way
+ or
+ walking
+ you
+ through
+ how
+ that
+
+
+code
+ perhaps
+ connects
+ to
+ other
+ parts
+ of
+
+
+the
+ system
+ and
+ really
+ again
+ using
+ it
+ as
+
+
+an
+ additional
+ tool
+ um
+ in
+ their
+ arsenal
+
+
+uh
+ to
+ be
+ able
+ to
+ help
+ uh
+ build
+ up
+
+
+confidence
+ and
+ awareness
+ um
+ of
+ how
+ of
+
+
+how
+ the
+ full
+ app
+ actually
+ works.
+ We're
+
+
+also
+ seeing
+ some
+ interesting
+ discussion
+
+
+about
+ um
+ you
+ know
+ potentially
+ new
+ roles
+
+
+or
+ or
+ refinements
+ of
+ roles,
+ things
+ like
+
+
+forward
+ deployed
+ engineers.
+ Um
+ I'm
+
+
+seeing
+ interest
+ in
+ you
+ know
+ developers
+
+
+who
+ are
+ a
+ little
+ bit
+ more
+ embedded
+ with
+
+
+customers
+ who
+ can
+ build
+ features
+ rapidly
+
+
+with
+ AI
+ while
+ feeding
+ back
+ requirements.
+
+
+And
+ that
+ type
+ of
+ thing
+ might
+ blur
+ the
+
+
+lines
+ between
+ um
+ you
+ know
+ the
+ developer
+
+
+PM
+ and
+ designer
+ roles
+ a
+ little
+ bit.
+ I'm
+
+
+interested
+ to
+ see
+ where
+ where
+ that
+ um
+
+
+may
+ end
+ up
+ going.
+ And
+ I'm
+ also
+
+
+interested
+ in
+ how,
+ you
+ know,
+ just
+
+
+generally
+ speaking,
+ AI
+ engineering
+ is
+
+
+going
+ to
+ evolve
+ how
+ um
+ you
+ know,
+ we
+
+
+approach
+ education,
+ whether
+ you're
+ in
+
+
+high
+ school
+ or
+ you're
+ in
+ college.
+ Like,
+
+
+are
+ are
+ we
+ going
+ to
+ be
+ teaching
+ people
+
+
+prompt
+ and
+ context
+ engineering
+ best
+
+
+practices?
+ What
+ what
+ does
+ that
+ all
+
+
+actually
+ look
+ like?
+ How
+ do
+ we
+ continue
+
+
+to
+ enable
+ people
+ to
+ think
+ um
+ with
+
+
+systems
+ uh
+ design
+ and
+ engineering
+ in
+
+
+mind?
+ But
+ I'm
+ I'm
+ very
+ excited
+ where
+ the
+
+
+education
+ side
+ of
+ this
+ goes.
+
+
+>> So,
+ one
+ area
+ that
+ we've
+ talked
+ about
+ was
+
+
+code
+ reviews
+ and
+ how
+ it's
+ really
+
+
+important.
+ It's
+ it's
+ a
+ bottleneck
+ and
+
+
+and
+ we
+ should
+ review
+ the
+ code.
+
+
+One
+ thing
+ that
+ I'm
+ kind
+ of
+ noticing
+ on
+
+
+myself
+ already
+ is
+ when
+ I
+ use
+ these
+ AI
+
+
+tools,
+ uh
+ may
+ that
+ be
+ cloud
+ code
+ or
+ or
+
+
+agents
+ or
+ or
+ even
+ just
+ the
+ autocomplete,
+
+
+I
+ have
+ a
+ tendency
+ to
+ do
+ tap
+ tab
+ or
+
+
+accept
+ or
+ just
+ like
+ accept
+ all
+ the
+
+
+things,
+ especially
+ when
+ I'm
+ working
+ on
+
+
+something
+ that
+ I
+ mean
+ it's
+ it's
+ not
+ the
+
+
+most
+ critical
+ thing
+ in
+ the
+ world.
+ And
+
+
+it's
+ kind
+ of
+ it's
+ easy
+ and
+ especially
+
+
+after
+ I
+ started
+ to
+ trust
+ that
+ it
+ gets
+ it
+
+
+right
+ most
+ of
+ the
+ time.
+ In
+ the
+ end,
+ I
+
+
+know
+ I'm
+ going
+ to
+ review,
+ but
+ I
+ find
+
+
+myself
+ losing
+ a
+ little
+ bit
+ of
+
+
+criticality.
+ I'm
+ not
+ as
+ critical,
+ you
+
+
+know,
+ the
+ second
+ day
+ and
+ the
+ third
+ day
+
+
+and
+ and
+ when
+ I
+ was
+ the
+ first
+ time
+ when
+ I
+
+
+didn't
+ trust
+ this
+ thing.
+ And
+ I
+ worry
+ a
+
+
+little
+ bit
+ that
+ with
+ code
+ reviews,
+ the
+
+
+same
+ could
+ happen.
+ You
+ know,
+ LGTM
+ looks
+
+
+good
+ to
+ me.
+ I
+ mean,
+ I
+ understand
+ that's
+
+
+a
+ Google
+ has
+ it
+ in in
+ built
+ in
+ as
+ a
+ as
+
+
+as
+ a
+ feature
+ in
+ in
+ your
+ code
+ review
+
+
+tool,
+ which
+ is
+ a
+ really
+ fun
+ tool
+ as
+ I
+
+
+understand.
+ But
+ there
+ is
+ this
+ risk.
+
+
+There's
+ always
+ been
+ this
+ risk
+ of
+ course
+
+
+that
+ that
+ like
+ you
+ just
+ kind
+ of
+ like
+
+
+it's
+ a
+ lot
+ of
+ work.
+ It
+ kind
+ of
+ looks
+
+
+good
+ and
+ you're
+ not
+ looking
+ critically.
+
+
+How
+ do
+ you
+ think
+ especially
+ on
+ on
+ on
+ you
+
+
+know
+ like
+ proper
+ teams
+ we
+ could
+ battle
+
+
+or
+ or
+ or
+ we
+ could
+ do
+ this
+ kind
+ of
+
+
+fighting
+ against
+ like
+ yes
+ giving
+ it
+ a
+
+
+proper
+ review
+ especially
+ if
+ we
+ haven't
+
+
+written
+ the
+ code
+ that
+ much
+ because
+ I
+
+
+feel
+ with
+ writing
+ the
+ code
+ you
+ have
+ like
+
+
+two
+ reviews.
+ One
+ is
+ you're
+ writing
+ your
+
+
+own
+ code.
+ You're
+ typing
+ it
+ out,
+ which
+
+
+we're
+ not
+ doing
+ it
+ as
+ much
+ anymore.
+ And
+
+
+then
+ someone
+ else
+ gives
+ a
+ review
+ knowing
+
+
+that
+ it
+ was
+ you
+ who
+ typed
+ it
+ out.
+
+
+>> I
+ mean,
+ it's
+ always
+ it's
+ always
+ more
+ fun
+
+
+to
+ to
+ write
+ code
+ than
+ to
+ to
+ read
+ and
+ and
+
+
+review
+ it.
+ But
+
+
+>> a
+ little
+ bit,
+ right?
+
+
+>> Yeah.
+ And
+ I
+ I
+ I
+ think
+ more
+ and
+ more
+ of
+
+
+our
+ job
+ is
+ going
+ to
+ become
+ about
+ reading
+
+
+and
+ reviewing
+ code.
+ There
+ are
+ a
+ few
+
+
+ideas
+ that
+ I've
+ I've
+ tried
+ to
+ suggest
+ to
+
+
+folks.
+ um
+ things
+ like
+ uh
+ you
+ know
+ for
+
+
+certain
+ features
+ or
+ certain
+ days
+ of
+ the
+
+
+week
+ maybe
+ you
+ intentionally
+ try
+ to
+ not
+
+
+lean
+ on
+ uh
+ using
+ AI
+ or
+ an
+ LLM
+ and
+ just
+
+
+try
+ to
+ see
+ like
+ okay
+ well
+ can
+ I
+ can
+ I
+
+
+still
+ solve
+ some
+ of
+ these
+ problems
+
+
+myself
+ um
+ to
+ preserve
+ your
+ critical
+
+
+thinking
+ skills
+ and
+ force
+ you
+ to
+ think
+
+
+about
+ okay
+ well
+ let's
+ say
+ that
+ all
+ of
+
+
+the
+ top
+ LLM
+ providers
+ were
+ down
+ for
+ the
+
+
+day
+ uh
+ what
+ would
+ you
+ do
+ being
+ cheeky,
+
+
+you
+ know,
+ I
+ would
+ probably
+ say
+ like,
+
+
+yeah,
+ I'm
+ just
+ I'm
+ just
+ going
+ to
+ go,
+ you
+
+
+know,
+ use
+ Olama
+ and
+ a
+ local
+ model
+ and
+
+
+I'll
+ be
+ totally
+ fine.
+ I
+ will
+ find
+ some
+
+
+fallback.
+ But
+ the
+ reality
+ is
+ that
+ I
+ do
+
+
+think
+ that
+ it's
+ going
+ to
+ continue
+ to
+ be
+
+
+very
+ important
+ for
+ us
+ to
+ be
+ able
+ to
+
+
+think
+ through
+ um
+ how
+ things
+ work,
+ be
+
+
+able
+ to
+ problem
+ solve
+ without
+
+
+necessarily,
+ you
+ know,
+ uh
+ relying
+ on
+ the
+
+
+AI.
+ The
+ the
+ models
+ are
+ going
+ to
+ continue
+
+
+getting
+ better.
+ their
+ ability
+ to
+ take
+ in
+
+
+sufficient
+ context
+ from
+ your
+ codebase
+ is
+
+
+going
+ to
+ continue
+ getting
+ better.
+ But
+ it
+
+
+is
+ going
+ to
+ take
+ quite
+ some
+ time
+ in
+ my
+
+
+opinion
+ before
+ uh
+ you're
+ going
+ to
+ be
+
+
+able
+ to
+ fully
+ trust
+ that
+ in
+ every
+
+
+situation
+ whatever
+ requirements
+ you
+
+
+throw
+ at
+ it
+ is
+ going
+ to
+ be
+ able
+ to
+ get
+
+
+it
+ right.
+ Um
+ and
+ if
+ you
+ get
+ stuck,
+ if
+
+
+you're
+ trying
+ things
+ out
+ and
+ you've
+
+
+tried
+ it
+ five,
+ 10
+ times
+ and
+ it
+ still
+
+
+hasn't
+ solved
+ the
+ problem,
+ you're
+ going
+
+
+to
+ have
+ to
+ solve
+ the
+ problem
+ yourself.
+
+
+So,
+ I
+ think
+ that
+ um
+ being
+ able
+ to
+ force
+
+
+yourself
+ into
+ situations
+ where
+ you're
+
+
+testing
+ and
+ retesting
+ your
+ critical
+
+
+thinking
+ skills
+ are
+ going
+ to
+ be
+
+
+important.
+ I
+ also
+ think
+ that
+ there's
+ a
+
+
+little
+ bit
+ of
+ value
+ in,
+ you
+ know,
+ doing
+
+
+some
+ game
+ theory
+ around
+ this.
+ Teams
+ or
+
+
+individual
+ people
+ are
+ probably
+ going
+ to
+
+
+start
+ leaning
+ on
+ AI
+ to
+ do
+ more
+ of
+ the
+
+
+code
+ reviews
+ to
+ keep
+ up
+ with
+ the,
+ you
+
+
+know,
+ pace
+ and
+ and
+ velocity
+ of
+ change
+
+
+coming
+ in.
+ What
+ are
+ those
+ workflows
+
+
+going
+ to
+ look
+ like?
+ If
+ you
+ have
+ an
+ agent
+
+
+that's
+ saying
+ like,
+ "Yeah,
+ I
+ reviewed
+
+
+this
+ PR
+ and
+ it
+ looks
+ good
+ to
+ merge
+ in,
+
+
+are
+ you
+ actually
+ going
+ to
+ trust
+ it
+ or
+
+
+are
+ you
+ going
+ to
+ go
+ and
+ do
+ a
+ human
+ level
+
+
+review,
+ even
+ if
+ it
+ take,
+ you
+ know,
+ is
+
+
+maybe
+ more
+ shallow
+ than
+ you
+ historically
+
+
+would
+ have
+ done?"
+ Or
+ maybe
+ you're
+ okay
+
+
+with
+ spending
+ 10,
+ 20
+ minutes
+ or
+
+
+something
+ on
+ on
+ the
+ review,
+ like
+ what
+
+
+does
+ that
+ work
+ will
+ look
+ like?
+
+
+>> In
+ my
+ case,
+ even
+ if
+ an
+ agent
+ an
+ agent
+
+
+telling
+ me
+ that
+ something
+ um
+ looks
+ good
+
+
+to
+ merge
+ is
+ a
+ signal.
+ It's
+ similar
+ to
+ a
+
+
+signal
+ of
+ like,
+ okay,
+ well,
+ maybe
+ a
+
+
+junior
+ person
+ on
+ my
+ team
+ has
+ also,
+ you
+
+
+know,
+ given
+ this
+ in
+ LGTM.
+ I'm
+ still
+
+
+going
+ to
+ probably
+ go
+ back
+ if
+ it's
+
+
+critical
+ enough
+
+
+>> or
+ the
+ CICD
+ passes
+ all
+ the
+ tests,
+ right?
+
+
+It's
+ it's
+ green.
+ All
+ test
+ pass.
+
+
+>> Exactly.
+ Exactly.
+ It's
+ it's
+ a
+ signal.
+
+
+Signals
+ are
+ useful,
+ but
+ you
+ still
+ want
+
+
+to
+ apply,
+ you
+ know,
+ your
+ lens
+ on
+ quality
+
+
+uh
+ to
+ it
+ and
+ and
+ take
+ a
+ look
+ through
+ and
+
+
+just
+ make
+ sure
+ that
+ you're
+ you're
+
+
+confident.
+ things
+ like
+ having
+ those
+
+
+tests,
+ having,
+ you
+ know,
+ whatever
+
+
+quality
+ gates
+ that
+ you
+ you
+ and
+ your
+ team
+
+
+discuss,
+ like
+ having
+ those
+ in
+ place,
+ all
+
+
+of
+ these
+ are
+ good
+ signals
+ for
+ building
+
+
+up
+ confidence.
+ So,
+ the
+ more
+ signals
+ that
+
+
+you
+ have
+ can
+ build
+ up
+ to
+ build
+ up
+
+
+confidence
+ that
+ things
+ aren't
+ going
+ to
+
+
+go
+ off
+ the
+ rails
+ when
+ you
+ merge
+ in,
+ I
+
+
+think
+ that's
+ good.
+ But,
+ um,
+ I
+ try
+ to,
+
+
+you
+ know,
+ be
+ very
+ intentional
+ with
+
+
+making
+ sure
+ that
+ I'm
+ not
+ leaning
+ on
+ AI
+
+
+for
+ absolutely
+ everything.
+ I
+ may
+ use
+ it
+
+
+for
+ many
+ aspects
+ of
+ my
+ life
+ on
+ a
+
+
+day-to-day
+ including
+ AI
+ coding,
+ but
+ I
+
+
+still
+ try
+ to
+ make
+ sure
+ that
+ I'm,
+ you
+
+
+know,
+ whether
+ it's
+ 20
+ or
+ 30%
+ or
+ whatever
+
+
+amount
+ of
+ my
+ tasks
+ don't
+ necessarily
+
+
+require
+ AI,
+ I
+ still
+ try
+ to
+ make
+ sure
+
+
+that
+ I'm
+ using
+ my
+ brain
+ um
+ to
+ to
+ solve
+
+
+those
+ problems
+ myself.
+ And
+ I
+ think
+ that
+
+
+intentionality
+ like
+ just
+ be
+ proactive
+
+
+with
+ maintaining
+ your
+ critical
+ thinking
+
+
+skills.
+ I
+ think
+ that's
+ going
+ to
+ help
+
+
+people.
+
+
+>> Yeah.
+ And
+ one
+ of
+ these
+ things
+ of
+ like
+ I
+
+
+you're
+ still
+ hands
+ on
+ two
+ things
+ came
+ to
+
+
+my
+ mind.
+ One
+ was
+ a
+ cloud
+ code
+ actually
+
+
+recently
+ shipped.
+ You
+ can
+ change
+ modes.
+
+
+You
+ can
+ have
+ explanatory
+ mode
+ where
+ it
+
+
+explains
+ things
+ and
+ you
+ have
+ a
+ thing
+
+
+called
+ learning
+ mode
+ which
+ is
+ it
+ pauses
+
+
+and
+ says
+ you
+ do
+ this
+ part
+ which
+ I
+
+
+thought
+ was
+ really
+ clever.
+ I
+ actually
+
+
+turned
+ it
+ on
+ for
+ for
+ something
+ that
+ I
+
+
+was
+ building.
+ It
+ didn't
+ work
+ as
+ I
+
+
+expected
+ because
+ it
+ gave
+ me
+ a
+ really
+
+
+weird
+ task
+ to
+ do
+ but
+ I
+ I
+ see
+ the
+
+
+potential
+ and
+ I
+ I
+ actually
+ I
+ actually
+ am
+
+
+tempted
+ to
+ lean
+ a
+ bit
+ more
+ on
+ that
+ and
+ I
+
+
+think
+ it's
+ I
+ hope
+ other
+ tools
+ will
+ also
+
+
+do
+ this
+ as
+ part
+ of
+ the
+ developer.
+ like
+ I
+
+
+I
+ feel
+ I
+ do
+ want
+ to
+ know
+ that
+ I
+ can
+ do
+
+
+it
+ and
+ I
+ I
+ can
+ do
+ it,
+ but
+ how
+ am
+ I
+ going
+
+
+to
+ know
+ if
+ I'm
+ if
+ I'm
+ not
+ doing
+ it?
+ Of
+
+
+course,
+ you
+ fiddle
+ around
+ a
+ little
+ bit
+
+
+with
+ it.
+
+
+>> I
+ think
+ that
+ is
+ such
+ a
+ fantastic
+ idea.
+
+
+And
+ if
+ somebody
+ is
+ a
+ junior
+ or
+ you're
+
+
+coming
+ in
+ to
+ a
+ codebase
+ that
+ you're
+ not
+
+
+familiar
+ with,
+ fight
+ that
+ uh
+ feeling
+ of
+
+
+the
+ first
+ thing
+ I'm
+ going
+ to
+ do
+ is
+ try
+
+
+to
+ provide
+ value
+ and
+ I'm
+ going
+ to
+ just
+
+
+prompt
+ a
+ new
+ feature
+ into
+ existence.
+
+
+Maybe
+ use
+ the
+ LLM
+ to
+ just
+ explain
+ how
+
+
+the
+ codebase
+ works
+ and
+ just
+ spend
+ time
+
+
+like
+ soaking
+ yourself
+ up
+ in
+ the
+ richness
+
+
+of
+ like
+ what
+ is
+ the
+ codebase,
+ how
+ does
+
+
+it
+ work,
+ how
+ does
+ everything
+ connect
+
+
+together
+ before
+ you
+ start
+ prompting
+
+
+things
+ into
+ existence.
+ I
+ think
+ that
+
+
+using
+ it
+ as
+ a
+ learning
+ tool
+ is
+ is
+ a
+ very
+
+
+powerful
+ thing
+ we
+ need
+ we
+ need
+ more
+ of
+
+
+and
+ this
+ is
+ also
+ something
+ what
+ you
+ said
+
+
+new
+ new
+ new
+ joiners
+ using
+ a
+ learning
+
+
+tool.
+ I'm
+ hearing
+ from
+ a
+ few
+ companies
+
+
+that
+ they're
+ seeing
+ new
+ joiners
+ on
+ board
+
+
+faster.
+ The
+ ones
+ where
+ they
+ can
+ use
+
+
+these
+ AI
+ tools
+ to
+ explain
+ stuff
+ to
+ them
+
+
+out
+ like
+ the
+ cloud-based
+ is
+ is
+ just
+ a
+ a
+
+
+kind
+ of
+ a
+ trusted
+ person
+ 24/7.
+ You
+ can
+
+
+ask
+ questions
+ on
+ like
+ a
+ sen
+ the
+ senior
+
+
+engineer
+ who
+ I
+ mean
+ you
+ can
+ ask
+
+
+questions
+ anytime
+ but
+ obviously
+ you
+
+
+don't
+ want
+ to
+ do
+ it
+ like
+ you
+ know
+ 8
+
+
+hours
+ of
+ the
+ 8
+ hour
+ working
+ day
+ like
+
+
+you're
+ going
+ to
+ keep
+ your
+ limits
+ and
+
+
+it's
+ it's
+ interesting
+ how
+ that
+ that
+ is
+
+
+changing
+ the
+ dynamics
+ at
+ the
+ at
+ a
+ bunch
+
+
+of
+ workplaces
+ that
+ do
+ have
+ these
+ tools.
+
+
+>> Absolutely.
+ I
+ I
+ I
+ think
+ that
+ you
+ know
+ uh
+
+
+my
+ my
+ hope
+ is
+ that
+ it's
+ going
+ to
+ become
+
+
+a
+ much
+ more
+ standard
+ thing
+ uh
+ training
+
+
+AI
+ as
+ a
+ learning
+ tool
+ and
+ it's
+ it's
+ not
+
+
+just
+ for
+ understanding
+ um
+ you
+ know
+ a
+ new
+
+
+codebase.
+ Uh
+ it
+ can
+ be
+ very
+ useful
+ for
+
+
+understanding
+ programming
+ concepts
+ or
+
+
+frameworks
+ or
+ architectural
+ patterns.
+ Um
+
+
+there
+ are
+ times
+ when
+ I
+ want
+ to
+ be
+ able
+
+
+to
+ bring
+ a
+ feature
+ over
+ from
+ one
+
+
+codebase
+ that
+ is
+ very
+ different
+ or
+
+
+written
+ in
+ a
+ different
+ programming
+
+
+language
+ over
+ to
+ another.
+ And
+ I
+ have
+
+
+found
+ AI
+ uh
+ very
+ much
+ indispensable
+ for
+
+
+those
+ situations
+ of
+ helping
+ me
+
+
+understand
+ one
+ codebase
+ and
+ the
+ path
+ to
+
+
+being
+ able
+ to
+ bring
+ over
+ something
+ um
+ to
+
+
+to
+ a
+ new
+ one.
+ And
+ so
+ encouraging
+ your
+
+
+team
+ to
+ experiment
+ with
+ AI
+ tools,
+
+
+sharing
+ their
+ best
+ practices,
+ making
+ it
+
+
+a
+ regular
+ thing
+ that
+ people
+ know
+ it's
+
+
+okay
+ to
+ use
+ it
+ as
+ a
+ learning
+ tool,
+ I
+ I
+
+
+think
+ it's
+ just
+ going
+ to
+ be
+ great
+ for
+
+
+you
+ as
+ as
+ as
+ leads
+ and
+ and
+ and
+ managers.
+
+
+>> Yeah.
+ And
+ you're
+ you're
+ also
+ a
+ manager
+
+
+of
+ of
+ a
+ team
+ and
+ as
+ part
+ of
+ this
+
+
+obviously
+ you
+ do
+ performance
+ reviews,
+
+
+promotions,
+ help
+ people
+ basically
+
+
+professionally
+ get
+ better.
+ How
+ do
+ you
+
+
+think
+ the
+ kind
+ of
+ your
+ definition
+ or
+
+
+what
+ you're
+ seeing
+ on
+ the
+ team
+ the
+
+
+definition
+ of
+ a
+ really
+ standout
+ solid
+
+
+software
+ engineer
+ has
+ changed
+ in
+ the
+
+
+last
+ 3
+ to
+ four
+ years
+ since
+ these
+ tools
+
+
+have
+ come
+ out?
+ What
+ is
+ new
+ and
+ and
+ what
+
+
+is
+ the
+ same?
+ I
+ think
+ that
+ what
+ is
+ new
+ is
+
+
+the
+ importance
+ you
+ know
+ we
+ one
+ of
+ the
+
+
+things
+ that
+ I
+ have
+ found
+ has
+ always
+ held
+
+
+true
+ is
+ the
+ importance
+ of
+ being
+ a
+
+
+lifelong
+ learner
+ um
+ that
+ has
+ always
+
+
+remained
+ true
+ doesn't
+ matter
+ if
+
+
+frameworks
+ come
+ and
+ go
+ tools
+ change
+ you
+
+
+know
+ the
+ industry
+ evolves
+ being
+ a
+
+
+lifelong
+ learner
+ and
+ being
+ very
+ open
+ to
+
+
+um
+ trying
+ out
+ new
+ things
+ failing
+
+
+building
+ up
+ those
+ skills
+ I
+ think
+ that
+
+
+that
+ remains
+ very
+ very
+ important
+ um
+ the
+
+
+people
+ on
+ my
+ team
+ that
+ I
+ think
+ were
+ uh
+
+
+the
+ most
+ successful
+ early
+ on
+ at
+
+
+leveraging
+ AI
+ for
+ coding
+ and
+ for
+ product
+
+
+engineering
+ were
+ the
+ ones
+ that
+ went
+ in
+
+
+with
+ this
+ mindset
+ of
+ I
+ am
+ happy
+ to
+ learn
+
+
+new
+ things
+ to
+ try
+ out
+ and
+ to
+ have
+ this
+
+
+growth
+ mindset
+ and
+ if
+ it
+ doesn't
+ work
+
+
+that's
+ fine
+ at
+ least
+ I've
+ tried
+ it
+ out
+
+
+at
+ least
+ I
+ understand
+ um
+ the
+ constraints
+
+
+and
+ maybe
+ I'll
+ try
+ out
+ different
+ models
+
+
+for
+ these
+ different
+ use
+ cases
+ in
+ the
+
+
+future
+ I
+ think
+ that
+ that
+ has
+ been
+ very
+
+
+much
+ a
+ consistent
+ thing
+ that's
+ been
+
+
+important
+ um
+ I
+ feel
+ like
+ if
+ you
+ are
+ a
+
+
+lead,
+ uh,
+ now
+ is
+ the
+ time
+ for
+ you
+ to
+ be
+
+
+helping
+ your
+ team
+ through
+ this
+ moment
+ in
+
+
+terms
+ of
+ showing
+ that
+ you're
+ okay
+ with
+
+
+learning
+ as
+ well.
+ One
+ of
+ the
+ things
+ that
+
+
+I
+ do
+ every
+ week
+ actually
+ is
+ I
+ spend
+ a
+
+
+lot
+ of
+ time
+ I
+ love
+ reading.
+ I
+ spend
+ a
+
+
+lot
+ of
+ time
+ reading.
+ I
+ will
+ of
+ course
+ uh
+
+
+read
+ uh
+ your
+ newsletter
+ a
+ lot.
+ Um
+ I
+ will
+
+
+read
+ a
+ number
+ of
+ different
+ papers,
+ white
+
+
+papers,
+ um
+ blogs,
+ watch
+ videos,
+ watch
+
+
+courses,
+ you
+ know,
+ read
+ announcements
+
+
+about
+ what
+ is
+ new
+ in
+ AI,
+ what
+ is
+ new
+ in
+
+
+AI
+ engineering,
+ um
+ during
+ the
+ week
+ and
+ I
+
+
+will
+ surface
+ those
+ things
+ to
+ my
+ team
+ um
+
+
+in
+ a
+ newsletter.
+ I
+ I
+ will
+ also
+ surface
+
+
+>> Oh,
+ you
+ have
+ like
+ an
+ internal
+ newsletter
+
+
+for
+ your
+ team?
+
+
+>> Yeah,
+ I've
+ got
+ an
+ internal
+ newsletter.
+ I
+
+
+write
+ it
+ every
+ Monday.
+ So
+ I'll
+ be
+ I'll
+
+
+be
+ writing
+ it
+ after
+ after
+ this
+ and
+ I
+
+
+will
+ include
+ like
+ what
+ am
+ I
+ hacking
+ on?
+
+
+What
+ am
+ I
+ writing?
+ What
+ am
+ I
+ thinking?
+
+
+um
+ what
+ are
+ the
+ things
+ that
+ I
+ think
+ are
+
+
+important
+ for
+ our
+ team
+ to
+ actually
+ pay
+
+
+attention
+ to
+ and
+ in
+ this
+ time
+ where
+ you
+
+
+know
+ you
+ you
+ see
+ so
+ many
+ people
+
+
+struggling
+ to
+ stay
+ up
+ to
+ date
+ if
+ you
+
+
+follow
+ along
+ on
+ on
+ Twitter
+ or
+ other
+
+
+social
+ networks
+ it
+ can
+ feel
+ um
+ very
+
+
+overwhelming
+
+
+>> because
+ every
+ few
+ hours
+ it
+ feels
+ like
+
+
+something
+ has
+ changed
+ in
+ a
+ fundamental
+
+
+way
+
+
+>> and
+ being
+ able
+ to
+ sift
+ through
+ that
+ and
+
+
+help
+ people
+ to
+ just
+ pay
+ attention
+ to
+
+
+like
+ what
+ is
+ actually
+ important
+ I
+ think
+
+
+that's
+ a
+ great
+ thing
+ for
+ leadership
+ to
+
+
+be
+ doing
+ right
+ now
+ especally
+ if
+ you
+ can
+
+
+guide
+ folks
+ towards,
+ hey,
+ maybe
+ spend
+ a
+
+
+little
+ bit
+ more
+ time
+ poking
+ at
+ this
+
+
+rather
+ than
+ that.
+
+
+>> I
+ just
+ want
+ to
+ say
+ I
+ think
+ it's
+ Islam
+
+
+dunk
+ because
+ you're
+ also
+ staying
+ closer
+
+
+to,
+ you
+ know,
+ the
+ the
+ industry
+ like
+ to
+
+
+being
+ technical,
+ maybe
+ it's
+ a
+ stretch
+ to
+
+
+say
+ hands-on,
+ but
+ you're
+ pretty
+ close
+ to
+
+
+that
+ just
+ by
+ keeping
+ up
+ with
+ all
+ of
+
+
+this.
+
+
+>> Yeah.
+ Yeah.
+ And
+ I've,
+ you
+ know,
+ I
+ I
+ I'll
+
+
+I'll
+ defer
+ to,
+ you
+ know,
+ people
+ on
+ my
+ my
+
+
+team
+ to
+ to to
+ say
+ things,
+ but
+ I
+ think
+
+
+that
+ um
+ with
+ I've
+ generally
+ had
+ good
+
+
+feedback
+ about
+ this.
+ I've
+ even
+ had
+ like
+
+
+um
+ other
+ execs
+ saying,
+ "Hey,
+ actually,
+
+
+I'm
+ finding
+ it
+ really
+ hard
+ to
+ stay
+ on
+
+
+top
+ of
+ this
+ and
+ your
+ newsletter
+ is
+
+
+helping
+ um
+ me
+ navigate
+ this
+ moment
+ as
+
+
+well."
+ And
+ so
+ I
+ I
+ think
+ that
+ as
+ a
+ lead
+
+
+being
+ able
+ to
+ stay
+ on
+ top
+ of
+ what
+ is
+
+
+happening
+ at
+ whatever
+ level
+ you're
+
+
+comfortable
+ with
+ or
+ that
+ your
+ bandwidth
+
+
+allows,
+ I
+ think
+ that
+ that
+ can
+ be
+ a
+
+
+really
+ powerful
+ thing
+ for
+ your
+ team
+ and
+
+
+will
+ help
+ you
+ just
+ keep
+ your
+ your
+ own
+
+
+skills
+ relatively
+ sharp.
+ You
+ know,
+ we've
+
+
+been
+ talking
+ a
+ lot
+ about
+ AI
+ assisted
+
+
+engineering.
+ If
+ your
+ team
+ do
+ have
+ to
+
+
+build
+ out
+ like
+ AI
+ features,
+ a
+ lot
+ of
+
+
+this
+ stuff
+ is
+ also
+ going
+ to
+ continue
+ to
+
+
+be
+ relevant
+ um
+ for
+ them
+ too
+ because
+ you
+
+
+can
+ help
+ connect
+ the
+ dots
+ between
+ what
+
+
+is
+ happening
+ in
+ the
+ industry
+ where
+ AI
+ is
+
+
+concerned
+ that
+ is
+ actually
+ important
+ to
+
+
+their
+ work
+ versus
+ what
+ is
+ not.
+ And
+
+
+that's
+ especially
+ I
+ think
+ it's
+
+
+exceptionally
+ important
+ in
+ this
+ moment
+
+
+where
+ maybe
+ there
+ are
+ things
+ that
+ they
+
+
+have
+ not
+ had
+ to
+ historically
+ think
+ about
+
+
+like
+ oh
+ hey
+ well
+ model
+ X
+ is
+ really
+ good
+
+
+at
+ image
+ generation
+ but
+ model
+ Y
+ is
+
+
+really
+ good
+ at
+ generating
+ sound.
+ I'm
+
+
+just
+ making
+ things
+ up
+ but
+ I
+ think
+ that
+
+
+it
+ it
+ is
+ really
+ useful
+ for
+ you
+ to
+ be
+
+
+able
+ to
+ um
+ maybe
+ highlight
+ some
+ of
+ these
+
+
+opportunities
+ in
+ a
+ more
+ concrete
+ way
+ and
+
+
+then
+ your
+ team
+ can
+ go
+ off
+ and
+ and
+ spend
+
+
+time
+ digging
+ into
+ it
+ themselves
+ but
+
+
+they're
+ not
+ starting
+ from
+ a
+ blank
+ slate.
+
+
+Plus,
+ I
+ guess
+ you're
+ you're
+ just
+ showing
+
+
+that
+ look
+ look
+ I'm
+ learning.
+ I'm
+
+
+spending
+ time
+ reading,
+ understanding,
+
+
+digesting.
+ I'm
+ doing
+ some
+ stuff
+ on
+ the
+
+
+side,
+ which
+ kind
+ of
+ gives
+ the
+ permission
+
+
+that
+ it's
+ okay
+ to
+ do
+ it.
+ And
+ if
+
+
+anything,
+ I
+ mean,
+ you
+ know,
+ everyone
+ for
+
+
+themselves,
+ but
+ I
+ would
+ assume
+ that
+
+
+right
+ now
+ because
+ we
+ are
+ having
+ a
+ big
+
+
+change
+ in
+ in
+ this
+ technology.
+ It's
+ it's
+
+
+a
+ new
+ tool,
+ a
+ lot
+ of
+ capabilities.
+ It
+
+
+should
+ be
+ okay
+ at
+ most
+ companies
+ at
+ and
+
+
+most
+ teams
+ unless
+ you're
+ like
+ has
+ down
+
+
+crunch
+ time
+ shipping
+ something
+ like
+ on
+
+
+Friday
+ to
+ for
+ for
+ engineers
+ to
+ spend
+
+
+some
+ time
+ experimenting
+ figuring
+ out,
+
+
+hey,
+ can
+ I
+ use
+ this
+ thing?
+ Will
+ it
+ work
+
+
+for
+ me?
+ You
+ know,
+ when
+ I
+ talk
+ with
+ again
+
+
+the
+ folks
+ at
+ Shopify,
+ they
+ do
+ a
+ lot
+ of
+
+
+this
+ and
+ and
+ in
+ the
+ end
+ actually
+ what
+ h
+
+
+what
+ some
+ people
+ think
+ might
+ happen
+ is
+
+
+like,
+ well,
+ people
+ do
+ less
+ work.
+
+
+Actually,
+ what
+ happens
+ is
+ they
+ do
+ the
+
+
+same
+ work
+ as
+ they
+ did
+ before,
+ but
+
+
+they're
+ way
+ more
+ motivated.
+ They
+ tried
+ a
+
+
+bunch
+ of
+ new
+ stuff.
+ Some
+ of
+ it
+ doesn't
+
+
+work,
+ and
+ it's
+ kind
+ of
+ a
+ a
+ you
+ would
+
+
+think
+ it's
+ a
+ waste,
+ but
+ it's
+ actually
+
+
+not.
+ It
+ was
+ learning,
+ and
+ now
+ they're
+ a
+
+
+lot
+ more
+ confident
+ about
+ what
+ works,
+
+
+what
+ doesn't.
+ You
+ know,
+ they'll
+ they'll
+
+
+confidently
+ say
+ like,
+ okay,
+ we're
+ we're
+
+
+not
+ going
+ to
+ use
+ uh
+ AI
+ for
+ to
+ generate
+
+
+this
+ part
+ of
+ the
+ codebase
+ for
+
+
+prototyping
+ is
+ great,
+ and
+ so
+ on.
+ So,
+ I
+ I
+
+
+feel
+ like
+ everyone's
+ figuring
+ things
+
+
+out.
+ So,
+ it's
+ it's
+ almost
+ a
+ waste
+ to
+ not
+
+
+give
+ permission.
+ And
+ how
+ how how
+ better
+
+
+way
+ to
+ get
+ permission
+ than
+ to
+ show
+ that
+
+
+you're
+ doing
+ this
+ as
+ well.
+
+
+>> Yes.
+ Yes.
+ Absolutely.
+ A
+ AI
+ is
+ a
+ tool
+
+
+tools
+ that
+ can
+ compress
+ work
+ I
+ think
+ can
+
+
+can
+ also
+ lead
+ to
+ good
+ moments
+ of
+
+
+clarity.
+ And
+ it
+ is
+ faster
+ than
+ ever
+ to
+
+
+try
+ out
+ certain
+ classes
+ of
+ ideas.
+ And
+ I
+
+
+think
+ that
+ that
+ efficiency
+ can
+ also
+
+
+sometimes
+ highlight
+ the
+ importance
+ of
+
+
+our
+ human
+ qualities
+ when
+ it
+ comes
+ to
+
+
+like
+ judging
+ what
+ what
+ should
+ we
+ be
+
+
+moving
+ forward
+ with,
+ what
+ should
+ we
+ be
+
+
+ignoring,
+ what
+ should
+ we
+ be
+ minimizing.
+
+
+I
+ think
+ that
+ trying
+ to
+ uh
+ embrace
+ AI
+ in
+
+
+this
+ moment
+ and
+ figure
+ out
+ what
+ you
+ know
+
+
+what
+ works
+ well
+ for
+ you
+ you
+ and
+ your
+
+
+teams
+ is
+ is
+ a
+ great
+ use
+ of
+ time.
+ Um
+ I
+
+
+did
+ want
+ to
+ say
+ if
+ there
+ are
+ folks
+ in
+
+
+your
+ audience
+ who
+ are
+ in
+ enterprise
+
+
+especially
+ I
+ know
+ that
+ having
+ gone
+
+
+through
+ this
+ journey
+ um
+ there
+ may
+ be
+
+
+teams
+ who
+ feel
+ like
+ oh
+ man
+ it
+ feels
+ like
+
+
+startups
+ are
+ able
+ to
+ move
+ uh
+ you
+ know
+ so
+
+
+much
+ faster
+ than
+ we
+ are
+ or
+ they're
+ able
+
+
+to
+ use
+ all
+ of
+ these
+ great
+ new
+ tools
+ and
+
+
+these
+ models
+ but
+ we
+ are
+ still
+ waiting
+ on
+
+
+the
+ enterprise
+ friendly
+ version
+ of
+ these
+
+
+things
+ and
+ I've
+ talked
+ to
+ teams
+ where
+
+
+they
+ can
+ sometimes
+ feel
+ like
+ we're
+
+
+waiting
+ we're
+ waiting
+ we're
+ waiting
+ to
+
+
+be
+ able
+ to
+ try
+ out
+ more
+ of
+ these
+ tools
+
+
+What
+ I
+ ended
+ up
+ doing
+ in
+ my
+ team
+ was
+ we
+
+
+were
+ similarly,
+ you
+ know,
+ a
+ couple
+ of
+
+
+years
+ ago
+ now,
+ we
+ we
+ were
+ similarly
+
+
+waiting
+ for
+ the
+ company
+ embraced
+
+
+official
+ way
+ of
+ doing
+ things.
+ But
+ that
+
+
+didn't
+ stop
+ us
+ from
+ being
+ able
+ to
+ learn.
+
+
+So
+ I
+ encouraged
+ people
+ well
+ a
+ lot
+ of
+ us
+
+
+are
+ hacking
+ on
+ side
+ projects
+ right
+ at
+
+
+the
+ weekends.
+ We
+ can
+ try
+ out
+ whatever
+
+
+you
+ know
+ third
+ party
+ tools,
+ third
+ party
+
+
+models,
+ our
+ own
+ models
+ like
+ we
+ can
+ try
+
+
+out
+ and
+ and
+ learn
+ and
+ that
+ doesn't
+ have
+
+
+to
+ be
+ a
+ big
+ blocker
+ for
+ you.
+ So
+ you
+ can
+
+
+still,
+ you
+ know,
+ help
+ your
+ team
+ along
+
+
+this
+ journey
+ um
+ without
+ necessarily
+
+
+having
+ uh
+ to
+ to
+ do
+ a
+ lot
+ of
+ that
+
+
+waiting.
+ So
+ just
+ wanted
+ to
+ let
+ folks
+
+
+know
+ there
+ there
+ are
+ many
+ paths
+ to
+ being
+
+
+able
+ to
+ embrace
+ this
+ moment.
+
+
+>> Yeah.
+ And
+ I
+ I
+ think
+ the
+ consensus
+ is
+
+
+pretty
+ much
+ that
+ these
+ tools
+ will
+ be
+
+
+widespread.
+ They
+ keep
+ changing
+ and
+
+
+they're
+ already
+ contributing
+ to
+ a
+ lot
+ of
+
+
+teams
+ code
+ bases
+ and
+ people
+ are
+ using
+
+
+it.
+ So
+ might
+ as
+ well
+ just,
+ you
+ know,
+ use
+
+
+it
+ and
+ and
+ because
+ it
+ takes
+ time
+ in
+ the
+
+
+end.
+ So
+ the
+ earlier
+ you
+ start
+ the
+ you'll
+
+
+have
+ plenty
+ of
+ learning
+ to
+ do
+
+
+regardless.
+
+
+>> Yes.
+ Absolutely
+ right.
+
+
+>> So
+ as
+ closing
+ I
+ just
+ have
+ a
+ few
+ wrap-up
+
+
+questions.
+ So
+ I'll
+ just
+ fire
+ them
+ and
+
+
+then
+ you
+ you
+ tell
+ me
+ what
+ what
+ comes
+ to
+
+
+mind.
+ What's
+ your
+ favorite
+ programming
+
+
+language
+ and
+ why?
+
+
+>> My
+ favorite
+ programming
+ language
+ is
+
+
+JavaScript.
+ This
+ is
+ where
+
+
+>> I
+ thought
+ you
+ might
+ say
+ this
+ but
+ I
+
+
+wasn't
+ sure.
+
+
+>> Of
+ course
+
+
+>> you
+ wrote
+ books
+ about
+ this.
+
+
+>> My
+ favorite
+ programming
+ language
+ is
+
+
+JavaScript.
+ And
+ it's
+ it's
+ not
+ for
+ the
+
+
+personal
+ reasons.
+ Um,
+ there
+ are
+ probably
+
+
+better
+ programming
+ languages.
+ I
+ like
+
+
+JavaScript
+ because
+ it
+ enables
+ anybody
+ on
+
+
+the
+ planet
+ to
+ be
+ able
+ to
+ build
+ and
+ ship
+
+
+something
+ to
+ the
+ web
+ in
+ a
+ way
+ that
+
+
+doesn't
+ require
+ gatekeepers.
+ It
+ it's
+
+
+very
+ open.
+ And
+ I
+ think
+ that
+ there's
+
+
+something
+ very
+ liberating
+ about
+ that
+
+
+idea.
+ So
+ that
+ that
+ is
+ one
+ of the
+ reasons
+
+
+why
+ I
+ like
+ JavaScript
+ the
+ probably
+ the
+
+
+most.
+ I
+ I
+ like
+ it.
+ I
+ I'm
+ I'm
+ always
+
+
+surprised
+ when
+ uh
+ the
+ software
+ engineer
+
+
+uh
+ says
+ JavaScript
+ because
+ we
+ know
+ that
+
+
+compared
+ to
+ other
+ languages,
+ it
+ it
+ has
+ a
+
+
+lot
+ of
+ limitations
+ and
+ you
+ know
+ there's
+
+
+been
+ books
+ written
+ about
+ it.
+
+
+as
+ well.
+ But
+ I
+ I
+ cannot
+ disagree
+ with
+
+
+it.
+ I
+ I
+ I
+ love
+ it.
+ It
+ is
+ true.
+ Uh
+ what's
+
+
+a
+ tool
+ that
+ you
+ really
+ like
+ using
+ and
+
+
+what
+ does
+ it
+ do?
+
+
+>> I
+ would
+ say
+ that
+ um
+ one
+ of
+ my
+ favorite
+
+
+tools
+ at
+ the
+ moment
+ and
+ I
+ I'm
+ biased.
+ I
+
+
+have
+ a
+ I
+ have
+ a
+ book
+ out
+ about
+ this
+ as
+
+
+well
+ is
+ probably
+ Bolt
+ um
+ Bolt.
+ Uh
+ Bolt
+
+
+is
+ one
+ of
+ those
+ uh
+ vibe
+ coding
+
+
+scaffolding
+ tools
+ uh
+ that
+ people
+ can
+
+
+use.
+ Um
+ they
+ very
+ recently
+ added
+ support
+
+
+actually
+ for
+ being
+ able
+ to
+ use
+ custom
+
+
+agents.
+ So
+ you
+ can
+ use
+ clawed
+ code
+ for
+
+
+example
+ um
+ to
+ build
+ your
+ vicoded
+ app
+ and
+
+
+um
+ the
+ the
+ output
+ is
+ generally
+ very
+ high
+
+
+quality
+ great
+ designs.
+ So
+ I've
+ I've
+ been
+
+
+really
+ enjoying
+ that
+ and
+ and
+ the
+ team
+
+
+have
+ been
+ I
+ would
+ say
+ on
+ on
+ the
+ edge
+ of
+
+
+of
+ offering
+ some
+ really
+ great
+
+
+integrations.
+ So
+ I've
+ been
+ I've
+ I've
+
+
+been
+ liking
+ this
+ idea
+ that
+ many
+ vibe
+
+
+coding
+ platforms
+ are
+ now
+ starting
+ to
+
+
+think
+ about
+ the
+ integration
+ layer.
+ So,
+
+
+how
+ can
+ we
+ automate
+ the
+ idea
+ of
+ you
+
+
+needing
+ to
+ use,
+ you
+ know,
+ like
+ a
+ superb
+
+
+basease
+ or
+ an
+ authentication
+ provider
+ or
+
+
+these
+ other
+ things?
+ You
+ still
+ need
+ to
+
+
+pay,
+ of
+ course,
+ attention
+ to
+ all
+ of
+ the
+
+
+code
+ that's
+ being
+ generated,
+ but
+ being
+
+
+able
+ to
+ remove
+ more
+ of
+ that
+ setup
+
+
+friction,
+ I
+ think,
+ is
+ amazing.
+ And
+ I
+
+
+guess
+ the
+ fun
+ fact
+ on
+ Bolt.new
+ is
+ they
+
+
+started
+ off
+ as
+ a
+ company
+ called
+ Stack
+
+
+Blitz
+ who
+ built
+ a
+ really
+ cool
+ online
+
+
+editor,
+ really
+ advanced,
+ and
+ then
+ they
+
+
+moved
+ over
+ from
+ that
+ to
+ Bold.
+ So,
+ and
+
+
+there
+ are
+ software
+ engineers
+ behind
+ it
+
+
+again
+ who
+ really
+ know
+ their
+ craft.
+
+
+>> Yes.
+ Yes.
+ Absolutely.
+
+
+>> And
+ uh
+ finally,
+ what's
+ a
+ book
+ that
+ you
+
+
+would
+ recommend?
+
+
+>> So,
+ the
+ book
+ I'm
+ going
+ to
+ recommend
+ um
+
+
+is
+ one
+ that
+ I
+ think
+ covers
+ uh
+ I
+ would
+
+
+say
+ career
+ paths
+ and
+ best
+ practices
+ for
+
+
+software
+ engineers
+ in
+ a
+ in
+ a
+ way
+ that
+ I
+
+
+found
+ very
+ compelling.
+ It
+ is
+ by
+ you.
+
+
+It's
+ the
+ software
+ engineer
+ guide
+ book.
+
+
+Um
+ and
+ of
+ course
+ I'm
+ I'm
+ playing
+ to
+ the
+
+
+crowd,
+ but
+ it
+ it
+ is
+ genuinely
+ genu
+
+
+genuinely
+ um
+ a
+ very
+ very
+ sharp
+ book.
+ Um
+
+
+uh
+ from
+ from
+ all
+ the
+ reviews
+ that
+ I've
+
+
+read
+ about
+ it,
+ other
+ people
+ have
+ also
+
+
+found
+ it
+ to
+ be
+ an
+ excellent
+ read.
+
+
+>> Well,
+ it's
+ it's
+ on
+ my
+ desk,
+ but
+ we
+ we
+
+
+didn't
+ talk
+ about
+ this
+ by
+ the
+ way,
+ so
+
+
+this
+ recommendation
+ came
+ just
+ as
+ a
+
+
+surprise
+ to
+ me
+ as
+ Tyler.
+ Thank
+ you.
+
+
+>> Genuinely
+ an
+ an
+ excellent
+ uh
+ an
+
+
+excellent
+ book.
+ Um
+ I
+ guess
+ if
+ I
+ if
+ I
+
+
+wasn't
+ uh
+ going
+ to
+ of
+ course
+ you
+ know
+
+
+recommend
+ that
+ one
+ I
+ think
+ that
+ if
+ you
+
+
+are
+ trying
+ to
+ uh
+ learn
+ more
+ about
+ the
+
+
+foundational
+ aspects
+ um
+ of
+ AI
+
+
+engineering
+ in
+ this
+ moment
+ there's
+ a
+
+
+great
+ book
+ called
+ AI
+ engineering
+ um
+ by
+
+
+Chip
+ Huin
+ uh
+ that
+ is
+ also
+ worth
+ taking
+ a
+
+
+look
+ at.
+ Uh
+ very
+ very
+ well
+ reviewed
+ a
+
+
+very
+ very
+ thorough
+ book
+ and
+ I
+ I
+ also
+
+
+recommend
+ folks
+ check
+ that
+ out.
+
+
+>> It's
+ such
+ a
+ good
+ book.
+ I
+ I
+ I
+ feel
+ if
+ if
+
+
+you
+ know
+ the
+ concepts
+ there,
+ you're
+
+
+pretty
+ well
+ off.
+ And
+ if
+ you
+ don't
+ know
+
+
+them,
+ you're
+ probably
+ going
+ to
+ be,
+ you
+
+
+know,
+ still
+ finding
+ your
+ way.
+ So,
+ big
+
+
+plus
+ one
+ for
+ that.
+ Addy,
+ this
+ has
+ been
+
+
+great.
+ Thanks
+ so
+ much
+ for
+ for
+ doing
+ this
+
+
+and
+ this
+ really
+ awesome
+ conversation.
+
+
+>> Well,
+ thank
+ you.
+ I
+ I
+ really
+ appreciate
+
+
+it.
+ Um
+ I
+ hope
+ the
+ folks,
+ you
+ know,
+ if
+
+
+you
+ are
+ interested
+ in
+ this
+ space,
+ Beyond
+
+
+Vibe
+ Coding
+ is
+ out
+ now
+ um
+ from
+ O'Reilly.
+
+
+Hopefully,
+ it'll
+ be
+ useful
+ to
+ some
+
+
+people.
+ But
+ it's
+ been
+ a
+ pleasure
+ having
+
+
+this
+ conversation
+ with
+ you.
+
+
+>> Yeah.
+ and
+ I
+ I'
+ I've
+ been
+ reading
+ the
+
+
+book.
+ I
+ I
+ really
+ like
+ how
+ it
+ goes
+ into
+
+
+the
+ practicality.
+ So
+ I
+ I
+ can
+ also
+ very
+
+
+much
+ recommend
+ it.
+
+
+>> Thank
+ you.
+
+
+>> I
+ hope
+ you
+ enjoyed
+ going
+ beyond
+ vibe
+
+
+coding,
+ pun
+ intended,
+ with
+ Addios
+
+
+[music]
+ Manny.
+ One
+ of
+ the
+ things
+ I
+ took
+
+
+away
+ from
+ this
+ conversation
+ is
+ how
+ it's
+
+
+really
+ important
+ that
+ as
+ an
+ engineer,
+ we
+
+
+keep
+ understanding
+ exactly
+ what
+ the
+ LLM
+
+
+does
+ and
+ why.
+ And
+ if
+ we
+ don't
+ understand
+
+
+it,
+ we
+ just
+ stop,
+ understand
+ it,
+ and
+
+
+then
+ move
+ on.
+ As
+ long
+ as
+ you
+ understand
+
+
+the
+ LM,
+ you
+ are
+ in
+ charge.
+
+
+>> [music]
+
+
+>> But
+ once
+ you
+ stop
+ understanding,
+ it's
+ in
+
+
+charge
+ and
+ you
+ can
+ kind
+ of
+ become
+
+
+helpless
+ and
+ out
+ [music]
+ of
+ your
+ depth.
+
+
+For
+ more
+ tips
+ on
+ how
+ to
+ get
+ up
+ to
+ speed
+
+
+with
+ AI
+ engineering,
+ check
+ out
+ Deep
+
+
+Dives
+ in
+ the
+ Pragmatic
+ Engineer
+ that
+ I
+
+
+wrote,
+ which
+ are
+ linked
+ in
+ the
+ show
+
+
+notes
+ below.
+ If
+ you've
+ enjoyed
+ this
+
+
+podcast,
+ please
+ do
+ subscribe
+ on
+ your
+
+
+favorite
+ podcast
+ platform
+ and
+ on
+
+
+YouTube.
+ A
+ special
+ thank
+ you
+ if
+ you
+ also
+
+
+leave
+ a
+ rating
+ for
+ the
+ show.
+ Thanks
+
+
+[music]
+ and
+ see
+ you
+ in
+ the
+ next
+ one.
