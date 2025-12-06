@@ -1,0 +1,15851 @@
+I
+ did
+ my
+ internships
+ from
+ 12,000
+ people
+
+
+to,200
+ at
+ Slack
+ and
+ then
+ 300
+ at
+ Robin
+
+
+Hood.
+ And
+ I
+ found
+ that
+ every
+ time
+ I
+ went
+
+
+down
+ roughly
+ an
+ order
+ of
+ magnitude,
+ I
+
+
+felt
+ way
+ more
+ ownership.
+ Obviously,
+ the
+
+
+next
+ step
+ is
+ starting
+ a
+ two
+ person
+
+
+company
+ and
+ then
+ starting
+ my
+ own.
+ The
+
+
+stack
+ at
+ warp
+ actually
+ first
+ started
+ out
+
+
+with
+ Typescript.
+ And
+ then
+ 2
+ to
+ 3
+ months
+
+
+in,
+ we
+ decided
+ to
+ scrap
+ that
+ repository
+
+
+and
+ just
+ rebuild
+ everything
+ in
+ Rust.
+
+
+>> I
+ have
+ to
+ ask
+ why.
+
+
+>> It
+ was
+ for
+ performance
+ reasons
+ and
+ it
+
+
+was
+ also
+ speed
+ of
+ development.
+ There
+ was
+
+
+also
+ a
+ very
+ strong
+ sentiment
+ amongst
+
+
+developers
+ that
+ they
+ would
+ only
+ use
+ high
+
+
+performance
+ terminals
+ that
+ were
+ built
+ at
+
+
+low
+ levels.
+
+
+>> How
+ do
+ you
+ think
+ a
+ product
+ engineer
+
+
+versus
+ a
+ founding
+ engineer
+ differs?
+
+
+>> I
+ think
+ founding
+ engineer
+ counts
+ if
+
+
+>> what
+ does
+ it
+ take
+ to
+ [music]
+ be
+ a
+
+
+standout
+ founding
+ engineer?
+ Michelle
+ Lim
+
+
+was
+ the
+ founding
+ software
+ engineer
+ at
+ AI
+
+
+startup
+ warp
+ [music]
+ and
+ is
+ now
+ the
+
+
+founder
+ at
+ her
+ own
+ startup
+ Flint
+ where
+
+
+she
+ is
+ now
+ also
+ hiring
+ founding
+
+
+engineers.
+ In
+ this
+ conversation,
+ we
+
+
+[music]
+ cover
+ Michelle's
+ thinking
+
+
+process
+ to
+ take
+ a
+ risk
+ and
+ join
+ as
+
+
+engineer
+ number
+ one
+ at
+ a
+ littleknown
+
+
+startup
+ when
+ she
+ had
+ better
+ paying
+ and
+
+
+[music]
+ safer
+ options.
+ Thriving
+ as
+ a
+
+
+founding
+ engineer
+ and
+ why
+ only
+ to
+ pick
+
+
+up
+ work
+ that
+ no
+ one
+ else
+ wants
+ [music]
+
+
+to
+ do.
+ Figuring
+ out
+ if
+ you're
+ more
+ of
+ a
+
+
+product
+ first
+ or
+ code
+ first
+ engineer
+ so
+
+
+you
+ find
+ [music]
+ your
+ place
+ better.
+ How
+
+
+Michelle's
+ current
+ startup
+ builds
+
+
+autonomous
+ websites
+ and
+ uses
+ AI
+ coding
+
+
+day-to-day
+ and
+ many
+ more.
+ If
+ you're
+
+
+currently
+ working
+ at
+ an
+ early
+ stage
+
+
+startup
+ or
+ want
+ to
+ work
+ one
+ day
+ at
+ a
+
+
+place
+ like
+ this
+ and
+ want
+ to
+ know
+ the
+
+
+tactics
+ on
+ how
+ to
+ do
+ well
+ in
+ these
+
+
+environments,
+ this
+ episode
+ is
+ for
+ you.
+
+
+This
+ podcast
+ episode
+ is
+ presented
+ by
+
+
+Statsig,
+ the
+ unified
+ [music]
+ platform
+
+
+for
+ flags,
+ analytics,
+ experiments,
+ and
+
+
+more.
+ Check
+ out
+ the
+ show
+ notes
+ to
+ learn
+
+
+more
+ about
+ them
+ and
+ our
+ other
+ season
+
+
+sponsor.
+ So,
+ Michelle,
+ welcome
+ to
+ the
+
+
+podcast.
+
+
+>> Thanks,
+ G.
+ I'm
+ so
+ glad
+ to
+ be
+ here.
+
+
+>> It's
+ awesome
+ to
+ have
+ you.
+ How
+ did
+ you
+
+
+get
+ into
+ software
+ engineering?
+ So
+ I
+
+
+actually
+ started
+ in
+ college.
+ Um
+ I
+ first
+
+
+joined
+ an
+ entrepreneurship
+ club
+ and
+ I
+
+
+was
+ working
+ on
+ a
+ bio
+ company
+ but
+ every
+
+
+week
+ I
+ saw
+ that
+ the
+ companies
+ in
+ my
+ club
+
+
+that
+ were
+ making
+ the
+ most
+ progress
+ were
+
+
+people
+ who
+ had
+ programmers
+ on
+ their
+
+
+team.
+ So
+ I
+ felt
+ like
+ oh
+ like
+ if
+ I
+ wanted
+
+
+to
+ move
+ faster
+ in
+ entrepreneurship
+
+
+I
+ wanted
+ to
+ actually
+ build
+ the
+ thing
+
+
+myself
+ so
+ we
+ can
+ move
+ a
+ lot
+ faster.
+ So,
+
+
+I
+ took
+ my
+ first
+ computer
+ science
+ class
+
+
+ever
+ in
+ the
+ spring
+ of
+ my
+ freshman
+ year,
+
+
+which
+ is
+ very
+ late
+ compared
+ to
+ I
+ think
+
+
+most
+ of
+ your
+ listeners.
+
+
+>> Yeah,
+ it's
+ it's
+ never
+ too
+ late,
+ is
+ it?
+
+
+>> Never
+ too
+ late.
+
+
+>> And
+ then
+ from
+ there
+ on,
+ did
+ you
+ move
+
+
+over
+ to
+ computer
+ science?
+ Did
+ you
+ start
+
+
+studying
+ at
+ a
+ university
+ or
+ did
+ you
+ do
+
+
+it
+ on
+ the
+ side?
+
+
+>> Yeah.
+ So,
+ at
+ that
+ moment,
+ I
+ actually
+
+
+then
+ started
+ majoring
+ in
+ computer
+
+
+science.
+ Um,
+ I
+ really
+ fell
+ in
+ love
+ with
+
+
+computer
+ science,
+ especially
+ the
+
+
+debugging
+ was
+ my
+ favorite
+ part,
+ which
+ is
+
+
+really
+ funny
+ for
+ most
+ people,
+ I
+ think.
+
+
+So,
+ the
+ backstory
+ was
+ that
+ I
+ almost
+
+
+became
+ a
+ medical
+ doctor.
+ Like,
+ I
+ grew
+ up
+
+
+in
+ Singapore.
+ Yeah.
+ Where
+ that
+ was
+ the
+
+
+uh
+ the
+ thing
+ to
+ do
+ if
+ you're
+ good
+ at
+ the
+
+
+sciences.
+ And
+ I
+ really
+ fell
+ in
+ love
+ with
+
+
+medicine
+ because
+ I
+ really
+ liked
+
+
+diagnosis,
+ like
+ differential
+ diagnosis.
+
+
+you
+ know,
+ someone
+ comes
+ in
+ with,
+ you
+
+
+know,
+ a
+ swollen
+ left
+ leg,
+ you're
+ like,
+
+
+"Oh,
+ that
+ could
+ be
+ a
+ problem
+ with
+ your
+
+
+right
+ lung."
+ And
+ I
+ thought
+ that
+ that
+ was
+
+
+so
+ cool.
+ Or
+ based
+ on
+ the
+ vision
+ that
+
+
+you're
+ seeing
+ of
+ your
+ eyes,
+ it
+ could
+ be
+
+
+a
+ very
+ specific
+ part
+ of
+ your
+ brain
+ that
+
+
+was
+ malfunctioning.
+ So,
+ I
+ really
+ liked
+
+
+the
+ debugging
+ part
+ of
+ my
+ computer
+
+
+science
+ assignments
+ where
+ I
+ started
+
+
+seeing
+ that
+ there
+ was
+ always
+ a
+ pattern
+
+
+in
+ which
+ the
+ bugs
+ occurred
+ and
+ then
+ I
+
+
+could
+ trace
+ it
+ back
+ to
+ the
+ specific
+
+
+lines
+ of
+ code
+ or
+ systems
+ that
+ led
+ to
+ it.
+
+
+So
+ I
+ felt
+ like
+ almost
+ like
+ I
+ was
+ a
+
+
+doctor
+ for
+ the
+ computer
+ and
+ I
+ it
+ also
+
+
+helped
+ me
+ a
+ lot
+ in
+ terms
+ of
+ being
+ able
+
+
+to
+ build
+ things
+ which
+ I
+ really
+ love.
+ I
+
+
+started
+ uh
+ interning
+ at
+ um
+ tech
+
+
+companies
+ and
+ really
+ fell
+ in
+ love
+ with
+
+
+the
+ with
+ the
+ art
+ of
+ software
+ engineering
+
+
+um
+ and
+ that
+ that
+ just
+ further
+ um
+
+
+validated
+ that
+ I
+ really
+ love
+ software
+
+
+engineering.
+
+
+>> And
+ then
+ you
+ entered
+ at
+ some
+ really
+ cool
+
+
+companies.
+ I
+ think
+ it
+ was
+ Meta,
+ Slack,
+
+
+Robin
+ Hood.
+ How
+ easy
+ or
+ hard
+ was
+ it
+ to
+
+
+get
+ into
+ get
+ your
+ first
+ internship?
+
+
+Obviously,
+ the
+ first
+ one
+ is
+ always
+ going
+
+
+to
+ be
+ the
+ hardest.
+ And
+ then
+ what
+ did
+ you
+
+
+learn
+ at
+ these
+ places?
+
+
+>> I
+ was
+ very
+ lucky
+ to
+ um
+ have
+ had
+ this
+
+
+university
+ program
+ where
+ they
+ actually
+
+
+placed
+ students
+ in
+ tech
+ companies.
+ Um
+
+
+and
+ my
+ very
+ very
+ first
+ internship
+
+
+actually
+ was
+ in
+ Sa
+ Paulo,
+ Brazil.
+ Um
+
+
+where
+ I
+ was
+ working
+ as
+ an
+ intern
+ for
+ a
+
+
+healthcare
+ company.
+ And
+ that
+ was
+ where
+ I
+
+
+really
+ got
+ my
+ start
+ and
+ really
+ learned
+
+
+uh
+ software
+ engineering
+ from
+ a
+ very
+
+
+senior
+ developer
+ there
+ in
+ Brazil.
+ Um
+ so
+
+
+I'm
+ very
+ thankful
+ for
+ uh
+ for
+ that.
+ And
+
+
+for
+ um
+ guess
+ the
+ listeners
+ who
+ have
+
+
+university
+ programs
+ who
+ are
+ in
+ student
+
+
+school
+ um
+ reach
+ out
+ to
+ the
+ careers
+
+
+office.
+ They
+ could
+ be
+ really
+ helpful
+ in
+
+
+helping
+ you
+ get
+ your
+ start
+ for
+ Facebook.
+
+
+It
+ was
+ uh
+ also
+ it
+ was
+ me
+ co-applying
+ to
+
+
+uh
+ the
+ website
+ uh
+ to
+ this
+ program
+ called
+
+
+the
+ Facebook
+ University.
+ So
+ this
+ is
+ for
+
+
+folks
+ who
+ are
+ underrepresented
+ um
+ and
+
+
+who
+ are
+ new
+ to
+ computer
+ science
+ and
+ they
+
+
+bring
+ you
+ into
+ the
+ program
+ and
+ then
+
+
+bring
+ you
+ through
+ a
+ a
+ two-eek
+ boot
+ camp
+
+
+where
+ you're
+ building
+ an
+ app
+ every
+
+
+single
+ day.
+ So
+ there
+ every
+ single
+ day.
+ I
+
+
+was
+
+
+>> this
+ is
+ pre
+ prei,
+ right?
+
+
+>> This
+ is
+ prei.
+ So
+ I
+ was
+ using
+ my
+ hands
+ to
+
+
+uh
+ write
+ Android
+ apps
+ in
+ Java
+ and
+ so
+
+
+every
+ day
+ we
+ were
+ building
+ apps
+ and
+ then
+
+
+after
+ the
+ twoe
+ boot
+ camp
+ we
+ were
+ put
+
+
+into
+ pods
+ where
+ we
+ had
+ to
+ build
+ a
+ fully
+
+
+functioning
+ app
+ by
+ the
+ end
+ of
+ the
+
+
+internship
+ and
+ that's
+ when
+ I
+ learned
+ git
+
+
+for
+ the
+ first
+ time.
+ I
+ learned
+ how
+ to
+
+
+collaborate
+ with
+ my
+ friends.
+ Um
+ I
+
+
+learned
+ how
+ to
+ read
+ uh
+ really
+ large
+ code
+
+
+bases
+ um
+ because
+ we
+ were
+ uh
+ building
+ a
+
+
+receipt
+ splitting
+ app.
+ um
+ through
+ OCR
+ as
+
+
+well
+ as
+ like
+ Bluetooth
+ where
+ you
+ could
+
+
+find
+ your
+ friends
+ near
+ you
+ and
+ then
+ drag
+
+
+and
+ drop
+ avatars
+ into
+ uh
+ the
+ receipt
+
+
+items.
+ So
+ if
+ there
+ are
+ three
+ broccololis
+
+
+and
+ you
+ ate
+ two
+ broccololis
+ and
+ I
+ ate
+
+
+one
+ broccoli,
+ I
+ would
+ drag
+ avatar
+ twice
+
+
+into
+ the
+ receipt
+ item
+ and
+ mine
+ once
+ and
+
+
+then
+ it
+ would
+ split
+ accordingly.
+ It
+ was
+
+
+really
+ fun,
+ really
+ cool
+ because
+ this
+ was
+
+
+a
+ personal
+ problem
+ of
+ mine,
+ splitting
+
+
+receipts,
+ but
+ we
+ ended
+ up
+ having
+ to
+ dig
+
+
+really
+ deep
+ into
+ uh
+ the
+ uh
+ open
+ source
+
+
+libraries
+ of
+ uh
+ the
+ OCR
+ from
+ Google
+ as
+
+
+well
+ as
+ like
+ a
+ Bluetooth
+ protocol
+ um
+
+
+that
+ was
+ online.
+ So,
+ I
+ became
+ really
+
+
+good
+ at
+ that.
+ And
+ I
+ was
+ also
+ very
+
+
+fortunate
+ that
+ like
+ our
+ team
+ actually
+
+
+won
+ for
+ being
+ one
+ of
+ the
+ best
+ apps
+ in
+
+
+the
+ internship
+ program.
+
+
+>> Awesome.
+
+
+>> And
+ got
+ to
+ meet
+ Mark
+ Zuckerberg
+ uh
+ in
+
+
+his
+ office.
+
+
+>> Wow.
+ So
+ after
+ a
+ Facebook
+ internship,
+ you
+
+
+ended
+ up
+ working
+ a
+ little bit
+ at
+ Slack
+
+
+and
+ at
+ Robin
+ Hood
+ as
+ well,
+ right?
+
+
+>> Yeah,
+ that's
+ right.
+ Um
+ and
+ that
+ was
+
+
+where
+ I
+ really
+ caught
+ the
+ uh
+ startup
+
+
+bugs.
+ So
+ um
+ I
+ joined
+ Slack
+ through
+ the
+
+
+uh
+ Kleiner
+ Perkins
+ fellowship
+ program.
+
+
+So
+ um
+ this
+ is
+ like
+ a
+ fellowship
+ program
+
+
+for
+ uh
+ for
+ students
+ to
+ intern
+ over
+ the
+
+
+summer
+ with
+ the
+ portfolio
+ companies
+ of
+
+
+this
+ VC
+ called
+ Kleiner
+ Perkins.
+ Um,
+ and
+
+
+at
+ the
+ time
+ no
+ one
+ I
+ knew
+ was
+ really
+
+
+using
+ Slack.
+ It
+ was
+ only
+ 1,200
+ people
+ uh
+
+
+at
+ the
+ time.
+ And
+ um
+ I
+ was
+ really
+ excited
+
+
+about
+ the
+ chance
+ to
+ uh
+ see
+ what
+ this
+
+
+whole
+ like
+ startup
+ scene
+ was
+ like.
+ I
+
+
+mean
+ at
+ the
+ time
+ I
+ considered
+ Slack
+ a
+
+
+startup.
+ Like
+ looking
+ back
+ it's
+ not
+ a
+
+
+startup
+ but
+ it
+ felt
+ like
+ a
+ startup
+ to
+
+
+me.
+ Like
+ someone
+ who
+ at
+ the
+ time
+ wasn't
+
+
+really
+ familiar
+ with
+ tech
+ companies
+ and
+
+
+I
+ had
+ such
+ a
+ good
+ time
+ uh
+ at
+ Slack.
+ And
+
+
+I
+ I
+ think
+ we
+ can
+ also
+ be
+ fair
+ like
+ sure
+
+
+Slack
+ today
+ is
+ maybe
+ not
+ a
+ startup
+ but
+
+
+like
+ compared
+ to
+ a
+ lot
+ of
+ companies
+ they
+
+
+still
+ act
+ way
+ more
+ than
+ a
+ startup
+ even
+
+
+today.
+
+
+>> Oh
+ yeah
+ it
+ was
+ it
+ was
+ really
+ awesome.
+
+
+Everyone
+ had
+ so
+ much
+ product
+ ownership.
+
+
+It
+ was
+ a
+ lot
+ of
+ fun
+ because
+ it
+ was
+ also
+
+
+incredible
+ to
+ be
+ at
+ a
+ company
+ where
+ you
+
+
+were
+ using
+ the
+ product
+ that
+ you
+ were
+
+
+building
+ every
+ single
+ day.
+
+
+>> Yeah.
+ like
+ it
+ was
+ like
+ I
+ would
+ start
+
+
+using
+ a
+ feature
+ um
+ then
+ I
+ would
+ be
+ like
+
+
+oh
+ like
+ I
+ think
+ that
+ instead
+ of
+ me
+
+
+having
+ to
+ search
+ through
+ my
+ emojis
+ every
+
+
+time
+ I
+ need
+ to
+ react
+ what
+ if
+ we
+ put
+ like
+
+
+a
+ frequently
+ used
+ emoji
+ like
+ you
+ know
+ I
+
+
+I
+ I'll
+ design
+ it
+ myself
+ post
+ it
+ in
+ this
+
+
+like
+ feature
+ request
+ channel
+ and
+ Steuart
+
+
+Butterfield
+ at
+ the
+ time
+ responded
+ being
+
+
+like
+ yes
+ we
+ should
+ do
+ this
+ and
+ then
+ I
+
+
+had
+ another
+ idea
+ around
+ like
+ scheduling
+
+
+messages
+ so
+ that
+ um
+ I
+ didn't
+ have
+ to
+
+
+wait
+ till
+ the
+ time
+ I
+ wanted
+ to
+ send
+
+
+message
+ to
+ send
+ it
+ out
+ and
+ I
+ posted
+ it
+
+
+to
+ the
+ channel
+ as
+ well
+ and
+ he
+ said,
+ "Ah,
+
+
+that's
+ so
+ unnatural.
+ We'll
+ never
+ do
+
+
+that."
+ [laughter]
+
+
+>> But
+ that's
+ really
+ cool
+ getting
+ feedback
+
+
+straight
+ from
+ the
+ CEO
+ or
+ co-founder.
+
+
+That's
+ awesome.
+
+
+>> That
+ was
+ like
+ such
+ an
+ awesome
+ uh
+ culture
+
+
+to
+ be
+ in
+ where
+ the
+ CEO
+ was
+ so
+ excited
+
+
+about
+ the
+ product.
+
+
+>> I
+ I
+ feel
+ the
+ culture
+ talks
+ a
+ lot,
+ you
+
+
+know,
+ both
+ at
+ Meta
+ and
+ and
+ at
+ Slack.
+ The
+
+
+fact
+ that
+ the
+ CEO
+ and
+ co-founder
+ is
+ very
+
+
+is
+ open
+ to
+ talking.
+ Okay,
+ they're
+ not
+
+
+going
+ to
+ spend
+ whole
+ day,
+ you
+ know,
+
+
+talking
+ with
+ like
+ interns
+ or
+ or
+ new
+
+
+joiners,
+ but
+ they
+ do
+ and
+ they're
+
+
+accessible.
+ I
+ feel
+ that's
+ going
+ to
+ make
+
+
+a
+ big
+ difference
+ between,
+ you
+ know,
+ like
+
+
+some
+ companies
+ and
+ then
+ other
+ companies
+
+
+where
+ this
+ is
+ impossible.
+
+
+>> Absolutely.
+ Yeah.
+ Um
+ especially
+ now
+ as
+ a
+
+
+as
+ a
+ founder
+ myself,
+ like
+ I
+ always
+ make
+
+
+sure
+ to
+ spend
+ a
+ lot
+ of
+ time
+ and
+ be
+
+
+generous
+ in
+ my
+ time
+ with
+ with
+ people
+ on
+
+
+my
+ team.
+
+
+>> And
+ then
+ what
+ did
+ you
+ learn
+ at
+ Robin
+
+
+Hood?
+
+
+>> So
+ Robin
+ Hood
+ I
+ found
+ uh
+ through
+ uh
+
+
+through
+ a
+ tech
+ fair.
+ Um,
+ Robin
+ Hood
+ was
+
+
+where
+ I
+ really
+ found
+ my
+ sweet
+ spot
+ about
+
+
+what
+ I
+ loved
+ uh
+ to
+ do
+ in
+ software
+
+
+engineering.
+ I
+ was
+ working
+ on
+ the
+ Robin
+
+
+Hood
+ news
+ tab.
+ So,
+ um,
+ this
+ is
+ a
+ tab
+
+
+that
+ let
+ you
+ see
+ let
+ users
+ see
+ the
+ the
+
+
+news
+ for
+ the
+ day
+ and
+ how
+ that
+ would,
+ you
+
+
+know,
+ affect
+ their
+ their
+ their
+ stocks.
+
+
+And
+ at
+ the
+ time,
+ Robin
+ Hood
+ only
+ had
+
+
+three
+ tabs.
+ The
+ first
+ tab
+ was
+ the
+ main
+
+
+tab,
+ you
+ know,
+ trade
+
+
+>> portfolio
+ trade.
+ Yeah.
+
+
+>> And
+ then
+ the
+ third
+ tab
+ was
+ like
+
+
+settings,
+ so
+ notification,
+ and
+ I
+ was
+
+
+working
+ on
+ the
+ second
+ tab,
+ and
+ I
+ had
+ it
+
+
+was
+ maybe
+ like
+ five
+ or
+ six
+ of
+ us
+ working
+
+
+on
+ that
+ main
+ tab.
+ Um,
+ and
+ I
+ was
+ in
+
+
+charge
+ of
+ deciding
+ um
+ what
+ news
+ to
+ show
+
+
+on
+ every
+ person's
+ feed.
+
+
+>> Yeah.
+ And
+ this
+ is
+ like
+ millions
+ of
+
+
+people
+ using
+ it,
+ right?
+ And
+ making
+
+
+decisions
+ based
+ on
+ that.
+ like
+ this
+ is
+
+
+like
+ not
+ some
+ like
+ hidden
+ feature.
+
+
+>> Yeah.
+ And
+ I
+ was
+ 19
+ or
+ 20
+ uh
+ very
+ young
+
+
+and
+ they
+ gave
+ me
+ that
+ opportunity
+ to
+
+
+build
+ that
+ and
+ I
+ really
+ found
+ that
+ I
+
+
+love
+ I
+ love
+ that
+ I
+ found
+ my
+ sweet
+ spot
+
+
+in
+ that
+ I
+ felt
+ like
+ I
+ got
+ to
+ work
+ on
+
+
+very
+ cool
+ computer
+ science
+ concepts
+ like
+
+
+we
+ were
+ using
+ Robin
+ Hood
+ version
+ of
+
+
+Cafka
+ to
+ do
+ the
+ data
+ pipelines
+ when
+ we
+
+
+received
+
+
+>> for
+ messaging.
+
+
+>> Yeah.
+ for
+ the
+ messaging
+ because
+ we
+ had
+
+
+to
+ parse
+ um
+ the
+ uh
+ video
+ feeds
+ and
+ the
+
+
+news
+ feeds
+ coming
+ from
+ a
+ lot
+ of
+ our
+
+
+partners
+ like
+ like
+ Bloomberg
+ was
+ selling
+
+
+the
+ news
+ to
+ us
+ and
+ then
+ we
+ had
+ to
+ then
+
+
+tag
+ them
+ um
+ and
+ and
+ then
+ based
+ on
+ the
+
+
+tags
+ and
+ as
+ well
+ as
+ like
+ what
+ the
+ users
+
+
+uh
+ were
+ invested
+ in
+ figure
+ out
+ like
+ what
+
+
+are
+ the
+ relevant
+ news
+ what
+ to
+ do
+ if
+ it's
+
+
+too
+ sparse
+ how
+ do
+ you
+ um
+ populate
+ the
+
+
+feed
+ such
+ as
+ there
+ no
+ bias
+ for
+ machine
+
+
+learning
+ cuz
+ we
+ also
+ wanted
+ to
+ keep
+
+
+learning
+ what
+ to
+ rank
+ first.
+ And
+ if
+ you
+
+
+had
+ a
+ very
+ prescriptive
+ way
+ of
+ uh
+
+
+ranking
+ your
+ feed,
+ then
+ you
+ would
+ just
+
+
+be
+ giving
+ biased
+ data
+ to
+ the
+ machine
+
+
+learning
+ algorithm
+ for
+ deciding
+ what
+ is
+
+
+the
+ most
+ interesting
+ uh
+ item.
+ So
+ like
+ to
+
+
+me
+ like
+ that
+ was
+ really
+ exciting
+ because
+
+
+one
+ I
+ was
+ learning
+ a
+ really
+ cool
+
+
+computer
+ science
+ concept
+ but
+ then
+ two
+ I
+
+
+was
+ also
+ deciding
+ like
+ a
+ lot
+ of
+ the
+
+
+product
+ requirements
+ you
+ know
+ what
+ does
+
+
+the
+ user
+ want
+ but
+ then
+ what
+ is
+
+
+technically
+ feasible
+ based
+ on
+ what
+ are
+
+
+the
+ business
+ partners
+ we
+ had
+ and
+ like
+
+
+based
+ on
+ our
+ tech
+ stack
+ and
+ then
+ based
+
+
+on
+ like
+ latency
+ requirements.
+ So
+ I
+ felt
+
+
+like
+ I
+ was
+ able
+ to
+ activate
+ like
+ like
+
+
+all
+ parts
+ of
+ my
+ brain
+ thinking
+ about
+ the
+
+
+technical
+ side
+ but
+ also
+ the
+ product
+ side
+
+
+and
+ because
+ of
+ that
+ I
+ felt
+ like
+ oh
+ I
+ I
+
+
+really
+ love
+ software
+ engineering
+ like
+
+
+this
+ this
+ is
+ where
+ I
+ want
+ to
+ be.
+
+
+>> Do
+ you
+ love
+ software
+ engineering
+
+
+startups
+ or
+ both?
+
+
+>> Um
+ it
+ was
+ actually
+ both
+ Facebook's
+ Slack
+
+
+and
+ then
+ Robin
+ Hood.
+ Um
+ they
+ actually
+
+
+became
+ smaller
+ and
+ smaller
+ right
+ as
+ I
+
+
+did
+ my
+ internships.
+
+
+>> Yeah.
+ from
+ uh
+ 12,000
+ people
+ to,200
+ at
+
+
+Slack
+ and
+ then
+ 300
+ at
+ Robin
+ Hood.
+ And
+ I
+
+
+found
+ that
+ every
+ time
+ I
+ went
+ down,
+ like
+
+
+roughly
+ an
+ order
+ of
+ magnitude,
+ um
+ I
+ felt
+
+
+like
+ way
+ more
+ ownership
+ and
+ I
+ felt
+ like
+
+
+the
+ line
+ of
+ sight
+ between
+ me
+ building
+
+
+and
+ the
+ users
+ impact
+ that
+ I
+ was
+ making
+
+
+was
+ extremely
+ clear.
+ And
+ so
+ I
+ knew
+ like
+
+
+okay
+ now
+ that
+ I've
+ done
+ the
+ 12,000
+ the
+
+
+1200
+ and
+ then
+ 300
+ obviously
+ the
+ next
+
+
+step
+ is
+ like
+ joining
+ a
+ twoerson
+ company
+
+
+and
+ then
+ starting
+ my
+ own.
+
+
+>> And
+ then
+ Slack
+ did
+ did
+ you
+ work
+ after
+
+
+graduation
+ or
+ was
+ that
+ your
+ last
+
+
+internship?
+
+
+>> Robin
+ Hood
+ was
+ my
+ last
+ internship
+ Robin
+
+
+Hood
+ last
+
+
+>> Facebook
+ Slack
+ and
+ Robin
+ Hood
+ were
+ my
+
+
+internships.
+
+
+>> Okay.
+ And
+ then
+ like
+ it's
+ well
+ you
+ had
+ a
+
+
+healthcare
+ company
+ before
+
+
+>> and
+ the
+ healthcare
+ company.
+ Yes.
+
+
+>> So
+ it's
+ incredible.
+ You
+ had
+ four
+
+
+internships
+ in
+ I
+ guess
+ in
+ four
+ different
+
+
+summers.
+ uh
+ three
+ summers
+
+
+>> and
+ in in
+ three
+ summers
+ you
+ kind
+ of
+ had
+
+
+them
+ together
+ which
+ is
+ amazing
+ and
+ now
+
+
+like
+ you
+ had
+ all
+ these
+ companies
+ behind
+
+
+your
+ back
+ on
+ your
+ resume.
+ I'm
+ assuming
+
+
+you
+ know
+ you
+ could
+ have
+ decided
+ to
+ go
+
+
+into
+ a
+ bunch
+ of
+ different
+ companies
+ and
+
+
+then
+ yet
+ you
+ decided
+ to
+ go
+ into
+ this
+
+
+unknown
+ company
+ that
+ at
+ the
+ time
+ was
+ was
+
+
+completely
+ unknown.
+ It
+ just
+ raised
+
+
+something.
+ It
+ seems
+ like
+ a
+ pretty
+ risky
+
+
+bet
+ to
+ go
+ into
+ a
+ early
+ stage
+ or
+ like
+
+
+seedstage
+ startup.
+ Tell
+ me
+ what
+ was
+ your
+
+
+thinking
+ after
+ this?
+ again
+ you've
+ you've
+
+
+seen
+ these
+ different
+ companies
+ and
+ how
+
+
+did
+ you
+ end
+ up
+ at
+ like
+ such
+ a
+ small
+
+
+company
+ kind
+ of
+ it
+ it
+ felt
+ like
+ taking
+ a
+
+
+big
+ risk
+ I'll
+ be
+ honest
+
+
+>> oh
+ yeah
+ um
+ it
+ was
+ it
+ was
+ a
+ very
+ big
+ risk
+
+
+there
+ wasn't
+ any
+ code
+ written
+ yet
+ at
+ the
+
+
+time
+
+
+>> there
+ was
+ no
+ code
+
+
+>> no
+ code
+ written
+ um
+
+
+>> so
+ it
+ was
+ just
+ an
+ idea
+ and
+ like
+ a
+
+
+founder
+ with
+ an
+ idea
+ or
+
+
+>> they
+ were
+ very
+ nice
+ mocks
+ um
+ the
+ first
+
+
+the
+ first
+ hire
+ at
+ warp
+ was
+ actually
+ a
+
+
+designer
+
+
+>> and
+ and
+ then
+ can
+ you
+ tell
+ me
+ like
+ what
+
+
+was
+ the
+ kind
+ of
+ idea
+ what
+ was
+ the
+ stage
+
+
+at
+ warp
+ when
+ you
+ came
+ there
+ what
+ was
+ the
+
+
+vision
+ what
+ were
+ the
+ mocks
+ like
+ Oh
+ yeah.
+
+
+Well,
+ first
+ of
+ all,
+ it
+ was
+ called
+ Denver
+
+
+at
+ the
+ time.
+
+
+>> Denver.
+
+
+>> Denver.
+ And
+ um
+
+
+>> No.
+ No
+ wonder
+ it
+ didn't
+ stick.
+
+
+>> I
+ remember
+ being
+ like,
+ if
+ you
+ want
+ to
+
+
+think
+ about
+ SEO,
+ Denver
+ terminal
+ is
+
+
+definitely
+ not
+ the
+ way
+ to
+ go.
+ Back
+ then,
+
+
+I
+ already
+ had
+ like
+ a
+ lot
+ of
+ growth
+
+
+intuition.
+ Um
+ but
+ it
+ was
+ meant
+ as
+ a
+ as
+ a
+
+
+placeholder
+ as
+ they
+ figure
+ out
+ what
+ the
+
+
+as
+ Zach,
+ the
+ founder,
+ was
+ thinking
+ about
+
+
+names.
+ Um,
+ so
+ there
+ was
+ the
+ key
+ mock
+ was
+
+
+a
+ terminal
+ that
+ had
+ the
+ terminal
+ input
+
+
+at
+ the
+ bottom
+ anchored
+ at
+ the
+ very
+
+
+bottom.
+ And
+ then
+ there
+ was
+ a
+ blinking
+
+
+cursor
+ that
+ was
+ a
+ line
+ instead
+ of
+ a
+
+
+rectangle.
+
+
+And
+ then
+ there
+ was
+ a
+ concept
+ of
+ blocks
+
+
+where
+ terminal
+ inputs
+ and
+ outputs
+ were
+
+
+grouped
+ together
+ and
+ there
+ were
+ lines
+
+
+between
+ the
+ blocks
+
+
+>> and
+ that
+ was
+ the
+ key
+ the
+ key
+ one.
+ And
+
+
+then
+ I
+ think
+ the
+ second
+ mock
+ was
+
+
+collaboration.
+ So
+ we
+ had
+ like
+ different
+
+
+avatars
+ on
+ each
+ of
+ the
+ terminal
+ um
+
+
+blocks.
+ So
+ it
+ was
+ almost
+ like
+ Google
+
+
+Docs
+ or
+ Figma
+ like
+ oh
+ you
+ could
+ have
+
+
+multiple
+ people
+ looking
+ at
+ this
+ mock
+ at
+
+
+at
+ this
+ terminal.
+ That's
+ so
+ cool.
+ And
+
+
+then
+ there
+ was
+ the
+ concept
+ of
+ like
+
+
+sharing
+ environment
+ variables
+ and
+
+
+presets.
+ Um
+ cuz
+ we
+ all
+ know
+ like
+
+
+everyone
+ is
+ such
+ a
+ pain
+ to
+ get
+
+
+environment
+ variables
+ uh
+ especially
+ in
+
+
+teams.
+ I
+ mean,
+ no
+ one
+ wants
+ to
+ confess
+
+
+this,
+ but
+ I'm
+ sure
+ everyone
+ has
+ had
+ send
+
+
+has
+ has
+ experience
+ of
+ sending
+
+
+environment
+ variables
+ through
+ Slack.
+ Um,
+
+
+and
+ that's
+ it's
+ no
+ good.
+
+
+>> Yeah.
+ And
+ and
+ also,
+ of
+ course,
+ I
+ mean,
+
+
+you
+ always
+ have
+ them
+ in
+ your
+ local
+
+
+files,
+ which
+ is
+ a
+ necessity,
+ but
+ yeah,
+
+
+as
+ you
+ said,
+ sharing
+ them.
+ You
+ don't
+
+
+want
+ to
+ put
+ it
+ into
+ GitHub,
+ but
+ yeah,
+
+
+how
+ do
+ you
+ transfer
+ them?
+ Yeah,
+ exactly.
+
+
+Sharing
+ those
+ keys
+ that
+ should
+ not
+ be
+
+
+shared
+ because
+ your
+ colleagues
+ need
+ them
+
+
+or
+ your
+ teammates.
+ Yeah,
+ as
+ you
+ said.
+ So
+
+
+like
+ so
+ like
+ do
+ I
+ understand
+ the
+ vision
+
+
+was
+ like
+ basically
+ the
+ vision
+ was
+ like
+
+
+hey
+ the
+ terminal
+ has
+ been
+ around
+ forever
+
+
+here's
+ a
+ couple
+ of
+ cool
+ ideas
+ on
+ how
+ we
+
+
+can
+ innovate
+ and
+ this
+ was
+ pre
+ AAI
+ right
+
+
+like
+ this
+ prei
+
+
+>> okay
+ we
+ but
+ already
+ that
+ that
+ was
+ the
+
+
+the
+ vision
+ now
+ can
+ you
+ tell
+ me
+ a
+ little
+
+
+bit
+ about
+ like
+ I
+ feel
+ not
+ many
+ people
+
+
+talk
+ about
+ this
+ especially
+ when
+ you're
+
+
+still
+ earlier
+ in
+ your
+ career
+ you're
+ a
+
+
+new
+ grad
+ okay
+ you
+ know
+ like
+ you've
+ had
+ a
+
+
+couple
+ of
+ like
+ really
+ cool
+ internships
+
+
+which
+ means
+ probably
+ you
+ know
+ like
+ a
+ lot
+
+
+more
+ companies
+ will
+ be
+ open
+ to
+ to
+ hiring
+
+
+you
+ were
+ you
+ interviewing
+ at
+ other
+
+
+companies
+ as
+ well
+ or
+ was
+ this
+ the
+ first
+
+
+one
+ you
+ did?
+ And
+ how
+ did
+ you
+ think
+ about
+
+
+or
+ how
+ did
+ you
+ go
+ about
+ like
+ negotiating
+
+
+your
+ you
+ know
+ your
+ first
+ full-time
+
+
+composition
+ cuz
+ I
+ guess
+ with
+ internships
+
+
+you
+ don't
+ have
+ much
+ negotiation
+ but
+ but
+
+
+here
+ you
+ probably
+ had
+ some
+ leeway.
+
+
+>> Oh
+ yeah,
+ every
+ everyone
+ wanted
+ engineers
+
+
+at
+ the
+ time.
+ The
+ thing
+ is
+ that
+ I
+ never
+
+
+really
+ envisioned
+ myself
+ joining
+ such
+ a
+
+
+small
+ company.
+ It
+ was
+ only
+ two
+ people
+
+
+and
+
+
+and
+ there
+ was
+ no
+ Kin.
+ Um,
+ so
+ my
+ focus
+
+
+during
+ my
+ uh
+ job
+ search
+ process
+ was
+
+
+focusing
+ on
+ uh
+ 15
+ to
+ 20
+ people
+ teams
+
+
+series
+ A.
+ I
+ had
+ a
+ couple
+ options
+ that
+
+
+had
+ $10
+ million
+ ARR
+ already.
+ So,
+ you
+
+
+know,
+ you
+ you
+ could
+ I
+ could
+ join
+ a
+
+
+rocket
+ ship
+ like
+ see
+ like
+ fast
+ growth
+
+
+and
+ then
+ get
+ to
+ know
+ for
+ sure
+ that
+ there
+
+
+will
+ be
+ a
+ lot
+ of
+ opportunities
+ because
+
+
+when
+ you
+ have
+ a
+ fast
+ growth
+ company,
+
+
+there's
+ just
+ way
+ more
+ things
+ to
+ do
+ than
+
+
+there
+ are
+ people.
+ Michelle
+ was
+ just
+
+
+talking
+ about
+ how
+ she
+ had
+ the
+ option
+ of
+
+
+joining
+ startups
+ that
+ were
+ growing
+
+
+really
+ fast
+ even
+ before
+ AI.
+ Today,
+ what
+
+
+I'm
+ seeing
+ is
+ many
+ startups
+ are
+ growing
+
+
+even
+ faster
+ because
+ they
+ can
+ get
+ to
+
+
+incredible
+ velocity
+ with
+ AI
+ coding
+
+
+tools.
+ And
+ so,
+ they
+ can
+ ship
+ features
+ a
+
+
+lot
+ faster
+ than
+ before.
+ But
+ without
+
+
+measurement,
+ you
+ don't
+ know
+ which
+
+
+features
+ are
+ helping
+ and
+ which
+ are
+
+
+hurting
+ your
+ growth.
+ When
+ you're
+
+
+shipping
+ 10x
+ faster
+ with
+ AI,
+ that
+
+
+uncertainty
+ compounds.
+ You
+ could
+ be
+
+
+shipping
+ faster
+ towards
+ better
+ metrics
+
+
+or
+ you
+ could
+ be
+ shipping
+ more
+ features
+
+
+that
+ hurt
+ conversion
+ and
+ retention.
+ This
+
+
+is
+ where
+ our
+ presenting
+ partner
+ static
+
+
+comes
+ in.
+ Static
+ built
+ experimentation
+
+
+and
+ feature
+ management
+ that
+ acts
+ as
+
+
+guardrails
+ for
+ AI
+ accelerated
+
+
+development.
+ Here's
+ how
+ it
+ works.
+ You
+
+
+ship
+ a
+ feature
+ to
+ 10%
+ of
+ users
+ in
+ a
+
+
+control
+ experiment.
+ Static
+ automatically
+
+
+creates
+ a
+ control
+ group
+ and
+ measures
+ the
+
+
+impact.
+ If
+ the
+ feature
+ improves
+ metrics,
+
+
+you
+ confidently
+ scale
+ to
+ 100%.
+ If
+ it
+
+
+would
+ hurt
+ metrics,
+ you
+ catch
+ it
+ early
+
+
+when
+ it's
+ only
+ affecting
+ 10%
+ of
+ users,
+
+
+not
+ your
+ entire
+ user
+ base.
+ You're
+ making
+
+
+datadriven
+ decisions
+ at
+ the
+ same
+ pace
+
+
+you're
+ shipping
+ code.
+ Companies
+ like
+
+
+Notion
+ went
+ from
+ singledigit
+ experiments
+
+
+per
+ quarter
+ to
+ over
+ 300
+ experiments
+ with
+
+
+static.
+ They
+ shipped
+ over
+ 600
+ features
+
+
+behind
+ feature
+ flags,
+ catching
+ the
+ ones
+
+
+that
+ would
+ hurt
+ metrics
+ early
+ and
+
+
+launching
+ the
+ winners.
+ This
+ is
+ the
+
+
+faster
+ testing,
+ validation,
+ and
+ learning
+
+
+loop
+ that
+ matters
+ when
+ you're
+ shipping
+
+
+at
+ AI
+ velocity.
+ Most
+ teams
+ stitch
+
+
+together
+ separate
+ systems,
+ wait
+ on
+
+
+queries,
+ and
+ try
+ to
+ correlate
+ user
+
+
+segments
+ that
+ don't
+ match.
+ By
+ the
+ time
+
+
+they
+ know
+ if
+ something
+ worked,
+ they've
+
+
+already
+ moved
+ on
+ to
+ the
+ next
+ feature.
+
+
+With
+ Static,
+ you
+ have
+ everything
+ in
+ one
+
+
+place.
+ Feature
+ flags,
+ experimentation,
+
+
+and
+ analytics
+ with
+ the
+ same
+ user
+ data.
+
+
+Static
+ has
+ a
+ generous
+ free
+ tier
+ to
+ get
+
+
+started,
+ and
+ proing
+ for
+ teams
+ starts
+ at
+
+
+$150
+ per
+ month.
+ To
+ learn
+ more
+ and
+ get
+ a
+
+
+30-day
+ enterprise
+ trial,
+ go
+ to
+
+
+stats.com/pragmatic.
+
+
+And
+ now
+ let's
+ get
+ back
+ to
+ why
+ Tim
+
+
+Michelle
+ chose
+ to
+ join
+ a
+ very
+ early
+
+
+stage
+ startup.
+
+
+>> So
+ I
+ actually
+ had
+ a
+ lot
+ of
+ those
+
+
+options.
+ Um
+ but
+ ever
+ since
+ talking
+ to
+
+
+Zach
+ um
+ the
+ the
+ founder
+ of
+ Warp,
+ I
+ kept
+
+
+thinking
+ every
+ day
+ about
+ the
+ product
+ and
+
+
+how
+ we
+ could
+ make
+ it
+ better.
+ Mhm.
+
+
+>> And
+ it
+ was
+ just
+ a
+ product
+ that
+ I
+ had
+ to
+
+
+I
+ discovered
+ that
+ I
+ had
+ a
+ lot
+ of
+ passion
+
+
+for
+ because
+ um
+ when
+ I
+ was
+ uh
+ doing
+ the
+
+
+software
+ engineering
+ internships,
+ I
+
+
+actually
+ found
+ that
+ there
+ was
+ a
+ lot
+ of
+
+
+uh
+ real
+ business
+ impact
+ from
+ improving
+
+
+the
+ terminal.
+ In
+ the
+ summer
+ of
+ 2018,
+
+
+Slack
+ had
+ multiple
+ outages.
+ Um
+ that
+ was
+
+
+the
+ first
+ time
+ that
+ Slack
+ was
+ bringing
+
+
+on
+ new
+ enterprise
+ clients
+ like
+ IBM
+ and
+
+
+Disney.
+ And
+ so
+ what
+ you
+ know
+ the
+ double
+
+
+nested
+ loops
+ that
+ could
+ have
+ worked
+ for
+
+
+uh
+ selling
+ to
+ startups
+ no
+ longer
+ worked
+
+
+at
+ IBM
+ and
+ Disney
+ scale.
+ And
+ so
+ a
+ lot
+ of
+
+
+things
+ were
+ breaking.
+ A
+ lot
+ of
+ terminal
+
+
+comm
+ a
+ lot
+ of
+ uh
+ internal
+ tools
+ were
+ run
+
+
+through
+ CLIs.
+ A
+ lot
+ of
+ commands
+ were
+
+
+being
+ shared
+ on
+ Slack.
+
+
+>> Uh
+ there
+ was
+ an
+ ops
+ rotation.
+ And
+ so
+ I
+
+
+felt
+ like
+
+
+>> you
+ were
+ you
+ you
+ were
+ seeing
+ the
+
+
+potential
+ of
+ like
+ how
+ just
+ like
+ I
+ know
+
+
+sharing
+ commands
+ better
+ like
+ better
+
+
+tooling
+ a
+ collaborative
+ C
+ cl C CLI
+ even
+
+
+a
+ Slack
+ could
+ have
+ been
+ helpful
+ at
+ your
+
+
+time
+ right?
+
+
+>> Yeah.
+ So
+ I
+ saw
+ a
+ huge
+ business
+ impact
+
+
+and
+ then
+ second
+ I
+ also
+ personally
+ as
+
+
+someone
+ who
+ just
+ learned
+ computer
+
+
+science
+ just
+ a
+ few
+ years
+ back
+ saw
+ that
+
+
+it
+ was
+ a
+ very
+ big
+ barrier
+ to
+ entry
+ for
+ a
+
+
+lot
+ of
+ computer
+ science
+ students
+ um
+
+
+because
+ computer
+ science
+ is
+ already
+ so
+
+
+scary
+ um
+ to
+ learn
+ for
+ someone
+ who's
+ new
+
+
+to
+ it
+ um
+ but
+ what
+ is
+ even
+ scarier
+ is
+
+
+trying
+ to
+ move
+ the
+ cursor
+ from
+ one
+ uh
+
+
+character
+ on
+ your
+ command
+ to
+ another
+ and
+
+
+realizing
+ that
+ the
+ mouse
+ doesn't
+ work
+
+
+like
+ I
+ felt
+ like
+ there
+ was
+ also
+ a
+ lot
+ of
+
+
+impact
+ society
+ that
+ can
+ be
+ made
+ if
+
+
+coding
+ was
+ a
+ lot
+ simpler
+ for
+ everybody.
+
+
+Um
+ if
+ we
+ could
+ make
+ a
+ terminal
+ more
+
+
+accessible,
+ if
+ you
+ could
+ move
+ the
+ cursor
+
+
+with
+ your
+ mouse
+ instead
+ of
+ memorizing
+
+
+control
+ A
+ uh
+ and
+ Emac
+ shortcuts.
+ Um
+ so
+
+
+it
+ was
+ like
+ okay
+ this
+ business
+ idea
+
+
+there's
+ a
+ lot
+ of
+ business
+ u
+ impact
+ and
+
+
+potential
+ revenue
+ and
+ if
+ we
+ do
+ well
+ we
+
+
+can
+ make
+ computer
+ science
+ a
+ lot
+ more
+
+
+accessible
+ like
+ when
+ else
+ can
+ I
+ join
+
+
+such
+ a
+ cool
+ idea
+ as
+ the
+ first
+ engineer.
+
+
+I
+ could
+ always
+ look
+ for
+ a
+ job
+ um
+ in
+ any
+
+
+of
+ these
+ like
+ $10
+ million
+ ARR
+ like
+
+
+doubling
+ like
+ every
+ quarter
+ things
+ but
+
+
+it's
+ so
+ rare
+ to
+ kind
+ of
+ coincide
+ with
+
+
+the
+ window
+ in
+ which
+ this
+ company
+ was
+
+
+being
+ started
+ and
+ that
+ I
+ get
+ the
+ chance
+
+
+to
+ be
+ the
+ first
+ engineer.
+ Um
+ the
+ other
+
+
+thing
+ was
+ like
+ in
+ other
+ companies
+ if
+ I
+
+
+were
+ to
+ join
+ I
+ wouldn't
+ get
+ the
+
+
+opportunity
+ to
+ work
+ so
+ closely
+ with
+
+
+someone
+ who
+ was
+ a
+ principal
+ engineer
+ at
+
+
+Google.
+
+
+>> Yeah.
+ So,
+ Zach
+ was
+ a
+ principal
+ Google
+
+
+engineer,
+ right?
+ Like
+ he's
+ a
+ longtime
+
+
+software
+ engineer.
+
+
+>> Yeah.
+ Former
+ CTO
+ at
+ Time
+ magazine
+ and
+ I
+
+
+felt
+ like
+ I,
+ you
+ know,
+ some
+ of
+ my
+
+
+friends
+ would
+ go
+ um
+ study
+ masters
+
+
+programs
+ to
+ be
+ better
+ at
+ computer
+
+
+science.
+ But
+ here
+ I
+ had
+ this
+ opportunity
+
+
+to
+ get
+ go
+ through
+ Zack
+ University
+ to
+
+
+become
+ a
+ really
+ good
+ software
+ engineer
+
+
+very
+ quickly
+ working
+ directly
+ with
+ him.
+
+
+He
+ was
+ looking
+ through
+ all
+ my
+ tag
+ dogs,
+
+
+all
+ my
+ pull
+ requests,
+ and
+ I
+ just
+ became
+
+
+a
+ very
+ uh
+ good
+ engineer
+ very
+ fast.
+ That
+
+
+was
+ how
+ I
+ made
+ the
+ decision.
+ Uh
+ it
+ was
+ a
+
+
+it
+ was
+ definitely
+ very
+ atypical.
+ Uh
+ like
+
+
+I
+ I
+ could
+ have
+ gone
+ back
+ to
+ Robin
+ Hood.
+
+
+I
+ had
+ that
+ return
+ offer.
+ Um
+ but
+ I
+ just
+
+
+knew
+ that
+ I
+ needed
+ to
+ be
+ somewhere
+ a
+ lot
+
+
+smaller.
+ Did
+ you
+ negotiate
+ your
+
+
+compensation?
+ Especially,
+ you
+ know,
+ with
+
+
+startups
+ when
+ you're
+ joining
+ early
+ on
+ in
+
+
+a
+ Silicon
+ Valley
+ startup
+ or
+ or
+ at
+ like
+
+
+honestly
+ most
+ startups
+ that
+ are
+ kind
+ of
+
+
+like
+ either
+ have
+ venture
+ funding
+ or
+ plan
+
+
+venture
+ funding,
+ a
+ part
+ of
+ composition
+
+
+is
+ equity,
+ which
+ is
+ always
+ a
+ bit
+ tricky
+
+
+subject
+ for
+ for
+ most
+ software
+ engineers.
+
+
+How
+ did
+ you
+ research
+ equity?
+ How
+ did
+ you
+
+
+learn
+ about
+ it?
+ Did
+ you
+ negotiate
+ it
+ or
+
+
+you
+ just
+ kind
+ of
+ took
+ whatever
+ was,
+ you
+
+
+know,
+ on
+ the
+ offer?
+ because
+ I
+ feel
+ this
+
+
+is
+ a
+ topic
+ that
+ not
+ many
+ people
+ talk
+
+
+about
+ but
+ it
+ does
+ get
+ pretty
+ important
+
+
+right?
+
+
+>> It
+ is
+ so
+ important
+ uh
+ to
+ to
+ negotiate
+
+
+for
+ equity.
+ I
+ really
+ negotiated
+ hard
+ for
+
+
+as
+ much
+ equity
+ as
+ possible
+ and
+ what
+ I
+
+
+was
+ willing
+ to
+ trade
+ off
+ was
+ cash.
+
+
+>> How
+ was
+ your
+ offer
+ presented?
+ Yeah,
+ I
+
+
+was
+ presented
+ a
+ spreadsheet
+ that
+ had
+
+
+three
+ options
+ uh
+ with
+ increasing
+ salary
+
+
+and
+ decreasing
+ equity.
+ It
+ was
+ a
+ really
+
+
+good
+ spreadsheet
+ and
+ I
+ I
+ actually
+ use
+
+
+this
+ today
+ uh
+ where
+ it
+ actually
+
+
+>> at
+ your
+ startup
+ if
+ someone
+ gets
+ an
+ offer
+
+
+they're
+ going to
+ get
+ a
+ spreadsheet
+ like
+
+
+this.
+
+
+>> Yes,
+ at
+ Flint
+ my
+ company
+ you
+ will
+ get
+
+
+this
+ spreadsheet
+ that
+ helps
+ you
+
+
+calculate
+ what
+ the
+ equity
+ actually
+ means
+
+
+in
+ terms
+ of
+ the
+ compensation
+ value.
+ Uh
+
+
+we
+ also
+ hand
+ like
+ we
+ also
+ calculate
+ tax
+
+
+as
+ well
+ as
+ dilution
+ at
+ every
+ stage
+ and
+
+
+then
+ we
+ also
+ have
+ this
+ uh
+ calculator
+
+
+that
+ helps
+ you
+ calculate
+ the
+ expected
+ uh
+
+
+value
+ of
+ your
+ stock
+ based
+ on
+ different
+
+
+uh
+ outcomes
+ and
+ the
+ likelihoods
+ of
+ each
+
+
+outcome.
+ Um
+ and
+ all
+ credit
+ is
+ to
+ Zach
+
+
+from
+ from
+ War
+ who
+ let
+ me
+ use
+ this
+ uh
+
+
+spreadsheet.
+ But
+ anyway,
+ there
+ are
+ three
+
+
+there
+ are
+ three
+ options
+ and
+ um
+ I
+ argued
+
+
+very
+ hard
+ for
+ the
+ one
+ with
+ the
+ most
+
+
+equity
+ and
+ I
+ was
+ willing
+ to
+ go
+ extremely
+
+
+low
+ on
+ cash.
+ And
+ in
+ terms
+ of
+ what
+
+
+leverage
+ I
+ had,
+ this
+ is
+ probably
+ a
+ bad
+
+
+negotiation
+ strategy,
+ but
+ the
+ way
+ that
+ I
+
+
+negotiated
+ that
+ was
+ saying,
+ "Hey,
+ Zach,
+
+
+I
+ actually
+ really
+ really
+ want
+ to
+ work
+
+
+with
+ you.
+ Um,
+ I
+ will
+ work
+ with
+ you.
+ Um,
+
+
+I
+ will
+ sign
+ this
+ offer.
+ this
+ is
+ I
+ really
+
+
+want
+ to
+ build
+ this
+ thing.
+ Let's
+ go
+ do
+
+
+it.
+ I
+ would
+ really
+ appreciate
+ if
+ we
+
+
+could
+ do
+ this
+ off
+ this
+ number
+ instead
+ of
+
+
+this
+ number.
+ Some
+ might
+ say
+ that
+ that's
+
+
+a
+ really
+ bad
+ uh
+ negotiation
+ strategy
+
+
+because
+ you
+ are
+ losing
+ all
+ the
+ cards
+ by
+
+
+saying
+ that
+ you
+ don't
+ have
+ any
+ other
+
+
+options
+ and
+ uh
+ you
+ know
+ some
+ might
+ say
+
+
+the
+ best
+ way
+ to
+ increase
+ your
+ your
+ offer
+
+
+is
+ by
+ having
+ competition.
+ But
+ I
+ think
+
+
+that
+ early
+ stage
+ companies
+ um
+ where
+
+
+you're
+ joining
+ as
+ just
+ like
+ one
+ or
+ two
+
+
+people,
+ it
+ really
+ means
+ a
+ lot
+ to
+ the
+
+
+founder
+ that
+ you
+ are
+ bought
+ in,
+ ready
+ to
+
+
+go,
+ excited
+ to
+ help
+ them
+ and
+ they
+ want
+
+
+you
+ to
+ be
+ happy
+ and
+ they
+ want
+ to
+ make
+
+
+sure
+ that
+ you
+ have a
+ good
+ deal.
+ I
+ will
+
+
+say
+ like
+ you
+ know
+ the
+ the
+ general
+ advice
+
+
+of
+ negotiation
+ that
+ you
+ read
+ online
+
+
+first
+ of
+ all
+ a
+ lot
+ of
+ it
+ is
+ written
+ when
+
+
+you're
+ negotiating
+ with
+ against
+ faceless
+
+
+corporations
+ where
+ the
+ person
+ uh
+ giving
+
+
+the
+ offer
+ let's
+ say
+ an
+ injury
+ manager
+ or
+
+
+HR
+ they
+ don't
+ own
+ this
+ thing
+ they're
+
+
+given
+ numbers
+ and
+ it's
+ they
+ have
+ a
+ job
+
+
+to
+ do
+ which
+ is
+ close
+ people
+ and
+ they
+
+
+have
+ don't
+ have
+ too
+ much
+ emotion
+ and
+ a
+
+
+lot
+ of
+ that
+ advice
+ will
+ work
+ you
+ know
+
+
+like
+ that
+ they
+ do
+ but
+ as
+ you
+ say
+ in
+ a
+
+
+startup
+ it's
+ it's
+ people
+ it's
+ a
+ very
+
+
+small
+ team
+ the
+ founders
+ do
+ care
+ and
+ I
+
+
+will
+ say
+ this
+ like
+ a
+ lot
+ of
+ a
+ lot
+ of
+
+
+good
+ founders
+ will
+ actually
+ just
+ not
+
+
+make
+ offer
+ to
+ people's
+ who
+ they
+ don't
+
+
+think
+ believe
+ in
+ what
+ they
+ do
+ because
+
+
+it's
+ so
+ early
+ so
+ I
+ I
+ feel
+ like
+ what
+ what
+
+
+you
+ did
+ like
+ of
+ course
+ you
+ know
+ like
+ it
+
+
+probably
+ goes
+ against
+ all
+ the
+ advice
+ out
+
+
+there
+ cuz
+ the
+ advice
+ is
+ not
+ for
+ this
+
+
+like
+ I
+ feel
+ being
+ authentic
+ like
+ being
+
+
+excited
+ I
+ cannot
+ talk
+ for
+ all
+ founders
+
+
+but
+ I
+ know
+ some
+ founders
+ and
+ I
+ I
+ I
+ do
+
+
+think
+ this
+ means
+ and
+ honestly
+ like
+ in
+ in
+
+
+the
+ end
+ following
+ your
+ gut
+ is
+ a
+ pretty
+
+
+good
+ strategy.
+ A
+ lot
+ of
+ times
+
+
+>> a
+ funny
+ thing
+ about
+ gut
+ is
+ that
+ actually
+
+
+the
+ day
+ before
+ the
+ offer
+ I
+ was
+ uh
+ u
+
+
+making
+ the
+ decision
+ I
+ had,
+ you
+ know,
+ the
+
+
+10
+ million
+ er
+ company
+ that
+ was
+ doubling
+
+
+and
+ I
+ had
+ warp.
+ I'm
+ in
+ Denver
+ at
+ the
+
+
+time
+ and
+ my
+ stomach
+ was
+ actually
+ acting
+
+
+up
+ uh
+ the
+ the
+ night
+ before
+ because
+ I
+
+
+think
+ it
+ was
+ feeling
+ that
+ it
+ was
+ the
+ the
+
+
+dissonance
+ between
+ like
+ what
+ I
+ was
+ going
+
+
+to
+ do
+ versus
+ what
+ I
+ really
+ wanted
+ to
+ do.
+
+
+Now,
+ one
+ thing
+ I've
+ heard
+ that
+ is
+ also
+
+
+atypical
+ and
+ no
+ one
+ will
+ suggest,
+ but
+
+
+you
+ still
+ did
+ it,
+ is
+ you
+ know
+ when
+ a
+
+
+company
+ makes
+ you
+ an
+ offer,
+ they
+ often
+
+
+ask
+ for
+ references
+ for
+ you
+ to
+ talk
+ with
+
+
+other
+ people
+ or
+ before
+ they
+ make
+ an
+
+
+offer.
+ I
+ heard
+ you
+ did
+ that
+ with
+ Zach
+
+
+Warp
+ CEO.
+ H
+ how
+ did
+ that
+ happen?
+
+
+>> Yeah,
+ I
+ actually
+ pulled
+ up
+ the
+ email
+
+
+before
+ this
+ and
+ I
+ saw
+ that
+ I
+ said
+ like,
+
+
+"Hey,
+ Zach,
+ really
+ excited
+ about
+ this.
+
+
+Um,
+ happy
+ to
+ send
+ you
+ my
+ ref
+ checks."
+ Um
+
+
+I
+ would
+ also
+ like
+ to
+ learn
+ more
+ about
+
+
+how
+ you
+ are
+ as
+ a
+ manager.
+ Can
+ you
+ send
+
+
+me
+ a
+ reference
+ uh
+ references
+ for
+ people
+
+
+that
+ you
+ have
+ managed
+ before?
+ Um
+
+
+especially
+ when
+ they
+ were
+ junior
+
+
+engineer.
+
+
+>> We all
+ see
+
+
+>> I
+ mean
+ I
+ I
+ would
+ recommend
+ everyone
+ to
+
+
+to
+ do
+ this
+ actually.
+ They
+ say
+ like
+ you
+
+
+you
+ don't
+ leave
+ companies,
+ you
+ leave
+
+
+managers.
+ Um
+ and
+ uh
+ at
+ a
+ startup
+ you
+
+
+can't
+ pick
+ your
+ manager,
+ you
+ can't
+ leave
+
+
+a
+ team.
+ Like
+ my
+
+
+>> this
+ there.
+
+
+>> Yeah.
+ Like
+ my
+ friends
+ working
+ at
+ Google
+
+
+could
+ be
+ having
+ a
+ bad
+ time
+ with
+ one
+ team
+
+
+and
+ then
+ they
+ could
+ switch
+ to
+ another
+
+
+team.
+ At
+ a
+ startup
+ you
+ are
+ married
+ to
+
+
+that
+ manager.
+ So
+ you
+ need
+ to
+ learn
+ as
+
+
+much
+ as
+ possible
+ about
+ what
+ it
+ would
+ be
+
+
+like
+ working
+ with
+ them.
+
+
+And
+ um
+ you
+ have
+ like
+ reference
+ checks
+
+
+are
+ by
+ the
+ way
+ the
+ most
+ important
+ part
+
+
+of
+ any
+ interview
+ process.
+ Like
+ that
+ is
+
+
+like
+ sometimes
+ even
+ more
+ important
+ than
+
+
+the
+ on-site
+ itself.
+ So
+ at
+ your
+ current
+
+
+startup,
+ you're
+ also
+ doing
+ reference
+
+
+checks.
+
+
+>> Always,
+
+
+>> always,
+
+
+>> always.
+
+
+>> And
+ what
+ do
+ you
+ look
+ in
+ a
+ reference
+
+
+check
+ now?
+ Just
+ kind
+ of,
+ you
+ know,
+
+
+thinking
+ a
+ little
+ bit
+ from
+ a
+ founder,
+
+
+you've
+ been
+ on
+ the
+ other
+ side
+ cuz
+ I
+ I
+
+
+feel
+ they
+ are
+ coming
+ back,
+ but
+ I
+ I
+ don't
+
+
+hear
+ it
+ that
+ frequently.
+ And
+ I
+ don't
+
+
+think
+ a
+ lot
+ of
+ people
+ know
+ how
+ to
+ do
+ it.
+
+
+Well,
+
+
+>> if
+ I
+ as
+ a
+ founder,
+ I'm
+ evaluating
+ a
+
+
+candidate.
+ Um,
+ the
+ most
+ important
+
+
+question
+ I
+ ask
+ is,
+
+
+would
+ you
+ want
+ to
+ work
+ with
+ this
+ person
+
+
+again?
+ And
+ the
+ answer
+ I'm
+ looking
+ for
+ is
+
+
+not
+ yes.
+ The
+ answer
+ I'm
+ looking
+ for
+ is
+
+
+hell
+ yes.
+ I
+ I
+ don't
+ even
+ know
+ like
+ why
+
+
+you
+ even
+ asking
+ me
+ this
+ question.
+ Like
+
+
+you're
+ so
+ lucky
+ to
+ have
+ this
+ person
+ like
+
+
+I
+ don't
+ know
+ what's
+ happening
+ in
+ the
+
+
+waters
+ of
+ your
+ company
+ but
+ like
+ how
+ are
+
+
+you
+ able
+ to
+ pull
+ someone
+ like
+ this?
+ That
+
+
+is
+ what
+ I'm
+ looking
+ for.
+ Um
+ if
+ I'm
+
+
+hearing
+ like
+ a
+ oh
+ like
+ yeah
+ I
+ think
+ that
+
+
+they
+ could
+ be
+ great
+ or
+ like
+ yeah
+ they're
+
+
+very
+ strong.
+ Um
+ that
+ to
+ me
+ is
+ like
+ a
+ bad
+
+
+reference
+ check
+ that
+ does
+ not
+ pass
+ my
+ my
+
+
+test.
+ one
+ day
+ of
+ a
+ work
+ trial
+ is
+ a
+ very
+
+
+good
+ good
+ pro
+ approximator.
+ Um
+ but
+ it's
+
+
+just
+ not
+ the
+ same
+ as
+ like
+ working
+ long
+
+
+term
+ with
+ someone.
+ So
+ this
+ is
+ very
+
+
+important.
+ Um
+ I
+ actually
+ think
+ that
+ like
+
+
+engineers
+ have
+ a
+ lot
+ of
+ um
+ power
+ and
+
+
+leverage
+ um
+ because
+ the
+ good
+ ones
+ a
+ lot
+
+
+more
+ people
+ want
+ them.
+ But
+ at
+ the
+ same
+
+
+time,
+ it's
+ very
+ hard
+ for
+ you
+ to
+ assess
+
+
+like
+ what
+ is
+ it
+ going
+ to
+ be
+ like
+ working
+
+
+at
+ this
+ AI
+ startup.
+ Um
+ because
+ uh
+ it
+
+
+doesn't
+ have
+ that
+ much
+ reference
+ points
+
+
+from
+ uh
+ from
+ the
+ outside.
+ Um
+ so
+ uh
+ it's
+
+
+very
+ important
+ to
+ assess
+ how
+ they
+ are
+ as
+
+
+a
+ manager.
+ as
+ a
+ junior
+ a
+ more
+ junior
+
+
+person
+ entering
+ a
+ company.
+ I
+ think
+ one
+
+
+of
+ the
+ ways
+ that
+ you
+ could
+ have
+ a
+ bad
+
+
+time
+ is
+ if
+ you
+ join
+ a
+ company
+ where
+ they
+
+
+don't
+ promote
+ and
+ mentor
+ and
+ grow
+ uh
+
+
+younger
+ people.
+ I've
+ seen
+ this
+ happen
+ at
+
+
+my
+ friends
+ companies
+ where
+ they
+ would
+ be
+
+
+the
+ first
+ 10
+ people
+ who
+ built
+ the
+
+
+company
+ and
+ then
+ as
+ soon
+ as
+ the
+ company
+
+
+does
+ well,
+ they're
+ replaced
+ by
+
+
+executives
+ and
+ then
+ they're
+ never
+
+
+promoted
+ beyond
+ the
+ entry
+ level
+ that
+
+
+they
+ were
+ in
+ even
+ though
+ they
+ built
+ the
+
+
+company
+ and
+ they
+ spent
+ a
+ lot
+ of
+ their
+
+
+time
+ and
+ effort
+ and
+ youth
+ and
+ energy
+
+
+working
+ on
+ the
+ company.
+
+
+So
+ it
+ was
+ really
+ important
+ in
+ my
+
+
+reference
+ check
+ to
+ check
+ how
+ much
+
+
+opportunity
+ did
+ someone
+ young
+ and
+ junior
+
+
+get
+ like
+ what
+ were
+ career
+ conversations
+
+
+like?
+ How
+ did
+ promotions
+ work?
+ What
+ was
+
+
+it
+ like
+ during
+ the
+ tough
+ times?
+ Um
+ and
+
+
+Zach
+ passed
+ like
+ exceeded
+ all
+ of
+ the
+
+
+tests
+ in
+ that
+ I
+ talked
+ to
+ two
+ engineers
+
+
+that
+ were
+ new/in
+ interns
+ working
+ for
+
+
+Zach
+ and
+ then
+ very
+ quickly
+ became
+
+
+director
+ of
+ engineering
+ at
+ uh
+ Google
+
+
+Sheets.
+ Um,
+ so
+ he
+ was
+ clearly
+ someone
+
+
+who
+ would
+ bet
+ on
+ young
+ talent
+ and
+ then
+
+
+help
+ to
+ promote
+ them.
+ Um,
+ and
+ I
+ saw
+ that
+
+
+again
+ again
+ at
+ at
+ Warp
+ where
+ a
+ lot
+ of
+ uh
+
+
+younger
+ new
+ grads
+ were
+ given
+ positions
+
+
+of
+ tech
+ lead
+ or
+ being
+ able
+ to
+ uh
+ run
+ the
+
+
+most
+ critical
+ uh
+ project
+ streams
+ at
+ Warp
+
+
+because
+ Zach
+ always
+ bets
+ on
+ the
+ young
+
+
+talent.
+ And
+ I
+ I
+ think
+ in
+ general
+ this
+ is
+
+
+probably
+ sounds
+ like
+ a
+ great
+ strategy
+ of
+
+
+trying
+ to
+ get
+ or
+ or
+ asking
+ for
+
+
+references
+ from
+ your
+ future
+ manager
+ and
+
+
+asking
+ them
+ about
+ what
+ you
+ care.
+ You
+
+
+know
+ this
+ might
+ be
+ in
+ your
+ case
+ it
+ was
+
+
+like
+ yeah
+ can
+ I
+ have
+ a
+ career
+ trajectory
+
+
+if
+ you're
+ looking
+ for
+ let's
+ say
+
+
+stability
+ may
+ maybe
+ look
+ for
+ that
+ but
+ I
+
+
+think
+ it's
+ just
+ like
+ such
+ an
+ underrated
+
+
+thing.
+ I
+ haven't
+ heard
+ anyone
+ else
+ do
+
+
+this
+ so
+ congrats
+ on
+ on
+ doing
+ and
+ sharing
+
+
+it
+ with
+ us.
+
+
+>> Yeah.
+ Um
+ the
+ the
+ last
+ thing
+ I'll
+ add
+
+
+there
+ is
+ that
+ even
+ if
+ it's
+ not
+ for
+
+
+evaluation
+ it
+ could
+ be
+ for
+ advice.
+ like
+
+
+how
+ would
+ you
+ be
+ able
+ to
+ work
+ with
+ this
+
+
+manager
+ best?
+ Like
+ maybe
+ it's
+ like
+
+
+insist
+ in
+ insisting
+ on
+ the
+ weekly
+
+
+one-on-
+ ones,
+ maybe
+ it's
+ about
+ like
+
+
+proactively
+ asking
+ for
+ advice
+ in
+ this
+
+
+specific
+ way.
+ So
+ it
+ doesn't
+ hurt
+ you
+ to
+
+
+do
+ it.
+ Um
+ and
+ you
+ can
+ always
+ frame
+ it
+ as
+
+
+that
+ you're
+ getting
+ advice
+ on
+ how
+ to
+
+
+work
+ closer
+ with
+ them.
+
+
+>> I
+ love
+ how
+ Michelle
+ shared
+ the
+ story
+ of
+
+
+how
+ Warp
+ was
+ founded
+ and
+ how
+ she
+ joined
+
+
+as
+ a
+ founding
+ engineer.
+ Talking
+ about
+
+
+the
+ founding
+ of
+ a
+ startup
+ touches
+ nicely
+
+
+on
+ the
+ origin
+ of
+ our
+ season
+ sponsor,
+
+
+Linear.
+ The
+ idea
+ for
+ linear
+ came
+ about
+
+
+when
+ their
+ founders
+ were
+ going
+ through
+
+
+hyperrowth
+ phases
+ at
+ Airbnb,
+ Coinbase,
+
+
+and
+ Uber.
+ As
+ you'd
+ expect
+ with
+ real
+
+
+scale,
+ these
+ companies
+ started
+ to
+ slow
+
+
+down.
+ What
+ used
+ to
+ take
+ days
+ started
+
+
+taking
+ weeks,
+ sometimes
+ even
+ months.
+ Not
+
+
+because
+ people
+ work
+ less
+ harder,
+ but
+
+
+because
+ there
+ were
+ a
+ lot
+ more
+ moving
+
+
+parts
+ that
+ needed
+ to
+ be
+ coordinated.
+ As
+
+
+an
+ example,
+ in
+ the
+ early
+ days
+ of
+ Uber,
+
+
+it
+ took
+ a
+ single
+ engineer
+ about
+ 5
+ days
+
+
+to
+ integrate,
+ test,
+ and
+ ship
+ a
+ new
+
+
+payment
+ method
+ to
+ the
+ app
+ Google
+ Wallet.
+
+
+But
+ years
+ later,
+ it
+ took
+ around
+ 2
+ months
+
+
+for
+ three
+ engineers
+ on
+ my
+ team
+ to
+ build
+
+
+and
+ release
+ Google
+ Pay
+ because
+ there
+ was
+
+
+so
+ much
+ more
+ planning
+ coordination
+ with
+
+
+stakeholders
+ working
+ with
+ other
+
+
+stakeholder
+ teams
+ and
+ the
+ vendor
+
+
+themselves.
+ As
+ teams
+ grow
+ in
+ size,
+
+
+product
+ development
+ gets
+ hit
+
+
+particularly
+ hard.
+ Every
+ team
+ involved
+
+
+in
+ the
+ process
+ using
+ a
+ different
+ set
+ of
+
+
+tools
+ and
+ workflows.
+ This
+ fragmentation
+
+
+means
+ there's
+ no
+ scalable
+ way
+ to
+ answer
+
+
+what
+ has
+ been
+ committed,
+ what's
+ at
+ risk,
+
+
+who's
+ actually
+ accountable,
+ who
+ are
+ we
+
+
+building
+ this
+ feature
+ for.
+ It's
+ often
+ a
+
+
+total
+ mess.
+ The
+ conventional
+ approach
+ is
+
+
+to
+ compensate
+ for
+ tooling
+ gaps
+ with
+ more
+
+
+headcount
+ or
+ with
+ more
+ status
+ meetings,
+
+
+but
+ in
+ my
+ experience,
+ it
+ doesn't
+ help
+
+
+much.
+ This
+ is
+ why
+ Linear
+ exists
+ to
+ give
+
+
+high
+ growth
+ teams
+ the
+ clarity
+ and
+
+
+coordination
+ they
+ need
+ without
+ the
+
+
+overhead.
+ Linear's
+ founders
+ build
+ a
+ tool
+
+
+they
+ wish
+ they
+ had
+ during
+ those
+ chaotic
+
+
+hyperode
+ scaling
+ phases.
+ You
+ can
+ try
+ it
+
+
+yourself
+ at
+ linear.app/pragmatic
+
+
+and
+ see
+ why
+ teams
+ like
+ Gramp
+ and
+ Clay
+
+
+also
+ switched
+ over.
+ And
+ now,
+ let's
+ get
+
+
+back
+ to
+ Michelle
+ and
+ her
+ time
+ as
+ a
+
+
+founding
+ engineer
+ at
+ war.
+ when
+ you
+
+
+joined
+ warp
+ uh
+ what
+ kind
+ of
+ technologies
+
+
+did
+ you
+ work
+ on
+ and
+ how
+ did
+ you
+ find
+
+
+your
+ so-called
+ kind
+ of
+ stack
+ or
+ place
+
+
+because
+ you
+ later
+ talked
+ about
+ how
+ you
+
+
+know
+ in
+ startups
+ or
+ in
+ tech
+ companies
+
+
+there's
+ kind
+ of
+ like
+ more
+ product
+ and
+
+
+more
+ infrastructure
+ more
+ front
+ end
+ more
+
+
+more
+ backend
+ where
+ did
+ you
+ end
+ up
+ in
+
+
+this
+ sense
+
+
+>> so
+ the
+ stack
+ at
+ warp
+ actually
+ first
+
+
+started
+ out
+ with
+ JavaScript
+ and
+ then
+
+
+within
+
+
+>> not
+ even
+ TypeScript
+
+
+>> oh
+ it
+ was
+ TypeScript
+
+
+>> TypeScript
+ okay
+
+
+>> and
+ then
+ uh
+ two
+ to
+ three
+ months
+ in
+ we
+
+
+decided
+ to
+ scrap
+ that
+ repository
+ and
+
+
+rewrite
+ every
+ just
+ like
+ rebuild
+
+
+everything
+ in
+ rust.
+
+
+>> I
+ have
+ to
+ ask
+ why
+ although
+ I
+ I
+ suspect
+
+
+why.
+
+
+>> Yeah.
+ So
+ it
+ was
+ for
+ performance
+ reasons
+
+
+and
+ it
+ was
+ also
+ speed
+ of
+ development.
+
+
+>> Yeah.
+
+
+>> So
+ um
+ while
+ it
+ was
+ really
+ fast
+ to
+ push
+
+
+out
+ JavaScript
+ code,
+ we
+ then
+ needed
+ to
+
+
+spend
+ a
+ lot
+ of
+ cycles
+ testing
+ stress
+
+
+testing
+ it
+ against
+ um
+ a
+ lot
+ of
+
+
+performance
+ constraints.
+ So,
+ one
+ thing
+ I
+
+
+did
+ with
+ our
+ JavaScript
+ app
+ was
+ that
+ I
+
+
+drew
+ a thousand
+ rectangles
+ um
+ and
+ then
+ I
+
+
+started
+ scrolling
+ the
+ terminal
+ and
+ the
+
+
+scrolling
+ was
+ breaking.
+
+
+>> Yeah.
+
+
+>> Um
+ and
+ it's
+ extremely
+ important
+ for
+ us
+
+
+to
+ be
+ able
+ to
+ draw
+ a
+ lot
+ of
+ rectangles
+
+
+because
+ yeah
+ like
+ terminals
+ output
+ a
+ lot
+
+
+of
+ a
+ lot
+ of
+ uh
+ logs
+ and
+ everything
+ needs
+
+
+to
+ to
+ to
+ be
+ really
+ fast.
+ There
+ was
+ also
+
+
+a
+ very
+ strong
+ sentiment
+ amongst
+ amongst
+
+
+developers
+ that
+ they
+ would
+ only
+ use
+ uh
+
+
+high
+ performance
+ terminals
+ that
+ were
+
+
+built
+ low
+ level.
+ So
+ even
+ if
+ there
+ were
+
+
+two
+ applications
+ that
+ were
+ completely
+
+
+identical
+ but
+ one
+ was
+ built
+ in
+ Rust,
+ it
+
+
+would
+ just
+ be
+ distributed
+ a
+ lot
+ better,
+
+
+people
+ would
+ love
+ it,
+ people
+ would
+ uh
+
+
+you
+ had
+ this
+ at
+ back
+ time
+ back
+ then
+ like
+
+
+the
+ Rust
+ community
+ was
+ was
+ small
+ but
+
+
+growing
+ very
+ fast
+ and
+ extremely
+
+
+passionate.
+ And
+ so
+ it
+ was
+ also
+ very
+
+
+important
+ for
+ marketing
+ that
+ we
+ built
+ it
+
+
+in
+ Rust.
+ It
+ was
+ very
+ really
+ uh
+ funny
+
+
+when
+ we
+ decided
+ to
+ do
+ to
+ uh
+ beat
+ and
+
+
+rust
+ and
+ then
+ um
+ Zach
+ sent
+ the
+ O'Reilly
+
+
+Rust
+ book
+ to
+ every
+ um
+ everybody.
+ So
+ me
+
+
+the
+ founding
+ engine
+ uh
+ the
+ other
+
+
+founding
+ engineer
+ a
+ log
+ and
+ he
+ and
+ then
+
+
+we
+ would
+ just
+ read
+ every
+ day
+ and
+ then
+
+
+every
+ time
+ we
+ learn
+ something
+ new
+ we're
+
+
+like
+ oh
+ let's
+ rewrite
+ what
+ we
+ wrote
+
+
+previously.
+ There
+ are
+ way
+ too
+ many
+
+
+unwraps
+ um
+ so
+ let's
+ go
+ fix
+ that.
+ We
+ also
+
+
+had
+ the
+ privilege
+ of
+ uh
+ working
+ with
+ uh
+
+
+Nathan
+ Sobo
+ who
+ was
+ uh
+ the
+ inventor
+ of
+
+
+the
+ Atom
+ um
+ editor
+ and
+ then
+ eventually
+
+
+started
+ Zad
+ and
+ he
+ had
+ a
+ lot
+ of
+ Rust
+
+
+experience
+ and
+ every
+ day
+ he
+ would
+ pair
+
+
+program
+ with
+ me
+ and
+ I
+ just
+ learned
+ all
+
+
+of
+ the
+ Rust
+ um
+ idioms
+ that
+ work
+ really
+
+
+well.
+
+
+>> I
+ guess
+ pair
+ programming
+ does
+ work.
+
+
+>> Oh
+ yeah.
+ Um,
+ I
+ really
+ enjoyed
+ pair
+
+
+programming
+ with
+ Nathan
+ uh
+ because
+ I
+
+
+learned
+ a
+ lot
+ of
+ like
+ small
+ ergonomical
+
+
+things
+ that
+ makes
+ a
+ big
+ difference
+ in
+ in
+
+
+using
+ the
+ IDE.
+ You
+ asked
+ a
+ question
+
+
+earlier
+ about
+ like
+ product
+ engineering
+
+
+versus
+ infrastructure
+ engineering.
+ Um,
+
+
+and
+ I
+ wrote
+ a
+ piece
+ like
+ many
+ many
+ years
+
+
+ago
+ before
+ the
+ word
+ product
+ engineer
+
+
+even
+ became
+ uh
+ in
+ everyone's
+ lexicon.
+
+
+product
+ engineering
+ and
+ product
+ first
+
+
+coding
+ are
+ like
+ people
+ who
+ are
+ more
+
+
+motivated
+ by
+ user
+ problems
+ and
+ excited
+
+
+about
+ solving
+ the
+ user
+ impact
+ and
+ then
+
+
+they
+ see
+ technology
+ as
+ a
+ means
+ to
+ an
+
+
+ends
+ of
+ user
+ impact
+ and
+ then
+ there's
+
+
+like
+ the
+ codef
+ first
+ people
+ who
+ tend
+ to
+
+
+more
+ map
+ onto
+ infrastructure
+ engineering
+
+
+where
+ they're
+ really
+ excited
+ about
+ like
+
+
+you
+ know
+ the
+ best
+ performance
+ the
+ best
+
+
+libraries
+ elegance
+ I
+ found
+ through
+ my
+
+
+Robin
+ Robin
+ Hood
+ internship
+ that
+ I
+ very
+
+
+much
+ am
+ like
+ a
+ product
+ engineer
+ at
+ heart
+
+
+um
+ and
+ I
+ find
+ that
+ this
+ division
+ of
+
+
+product
+ versus
+ infrastructure
+
+
+engineering
+ is
+ a
+ way
+ better
+ split
+ to
+
+
+think
+ about
+ engineering
+ than
+ front
+ end
+
+
+and
+ back
+ end.
+ Um
+ because
+ of
+ the
+ mental
+
+
+models
+ of
+ like
+ people
+ tend
+ to
+ segment
+
+
+into
+ like
+ roughly
+ speaking
+ two
+ camps.
+ So
+
+
+the
+ product
+ first
+ people
+ who
+ care
+ about
+
+
+user
+ impact,
+ they
+ gone
+ into
+ computer
+
+
+science
+ because
+ of
+ the
+ things
+ that
+
+
+computer
+ science
+ can
+ do
+ for
+ people
+ and
+
+
+then
+ the
+ second
+ camp
+ which
+ is
+ code
+ first
+
+
+people
+ who
+ are
+ really
+ excited
+ about
+ the
+
+
+code
+ itself
+ and
+ really
+ excited
+ about
+
+
+pushing
+ the
+ limits
+ of
+ of
+ code
+ and
+ they
+
+
+tend
+ to
+ map
+ to
+ more
+ infrastructural
+
+
+problems.
+ When
+ you
+ split
+ people
+ uh
+ up
+ in
+
+
+front
+ end
+ and
+ back
+ end
+ it's
+ diff
+ it's
+
+
+like
+ it
+ does
+ a
+ mismatch
+ in
+ the
+ mental
+
+
+models
+ of
+ uh
+ people
+ like
+ this
+ is
+ my
+
+
+experience.
+ I
+ was
+ a
+ front
+ front
+ end
+
+
+engineer
+ at
+ one
+ of
+ my
+ internships
+ and
+
+
+all
+ I
+ was
+ given
+ are
+ mocks
+ to
+ implement
+
+
+and
+ so
+ I
+ wasn't
+ able
+ to
+ solve
+ problems
+
+
+for
+ users.
+ So
+ then
+ I
+ felt
+ like
+ oh
+ I
+ want
+
+
+to
+ go
+ to
+ backend
+ engineering
+ and
+ then
+ in
+
+
+my
+ other
+ internship
+ I
+ was
+ placed
+ into
+
+
+infrastructure.
+ So
+ I
+ spent
+ two
+ weeks
+
+
+migrating
+ from
+ uh
+ Amazon
+ Athena
+ to
+
+
+Presto
+ and
+ all
+ I
+ did
+ was
+ write
+ SQL
+ and
+
+
+migrate
+ data
+ database
+ roles
+ and
+ I
+ was
+
+
+finally
+ working
+ on
+ something
+ was
+ closer
+
+
+to
+ the
+ metal
+ but
+ also
+ I
+ wasn't
+ really
+
+
+seeing
+ how
+ I
+ was
+ solving
+ any
+ user
+
+
+problems
+ and
+ so
+ it
+ made
+ me
+ feel
+ like
+ oh
+
+
+wow
+ like
+ maybe
+ I
+ don't
+ really
+ want
+ to
+ do
+
+
+software
+ engineering
+ and
+ it
+ was
+ only
+
+
+after
+ I
+ got
+ that
+ opportunity
+ and
+ I
+ I
+ I
+ I
+
+
+advocated
+ for
+ joining
+ the
+ news
+ tab
+ team,
+
+
+the
+ Robin
+ Hood
+ news
+ team
+ that
+ I
+ finally
+
+
+saw
+ like
+ wo
+ like
+ I
+ actually
+ really
+ love
+
+
+so
+ solving
+ user
+ impact
+ problems
+ and
+ user
+
+
+problems
+ and
+ then
+ while
+ solving
+ the
+ user
+
+
+problems
+ I
+ get
+ to
+ use
+ tools
+ like
+ back
+
+
+end
+ and
+ front
+ end
+ and
+ it
+ didn't
+ matter
+
+
+to
+ me
+ which
+ one
+ I
+ was
+ using
+ as
+ long
+ as
+ I
+
+
+was
+ solving
+ the
+ problem
+ of
+ like
+ the
+ user
+
+
+which
+ is
+ what
+ news
+ do
+ I
+ see
+ and
+ how
+ does
+
+
+it
+ look
+
+
+>> and
+ it's
+ like
+ I
+ I
+ really
+ sense
+ that
+
+
+product
+ engineer
+ it's
+ also
+ a
+ kind
+ of
+ a
+
+
+verb
+ or
+ or
+ phrase
+ that
+ that
+ is
+ now
+
+
+spreading
+ across
+ startups.
+ So
+ many
+
+
+startups
+ are
+ now
+ hiring
+ specifically
+
+
+product
+ engineers.
+ So
+ it
+ is
+ happening.
+
+
+As
+ a
+ founder
+ yourself,
+ I
+ assume
+ at
+ some
+
+
+point
+ you
+ will
+ hire
+ product
+ engineers
+ if
+
+
+you're
+ not
+ already
+ hiring.
+ But
+ what
+
+
+would
+ you
+ look
+ for
+ like
+ outside
+ of
+ the
+
+
+like
+ this
+ person
+ can
+ code
+ and
+ you
+ know
+
+
+has
+ the
+ basics,
+ but
+ what
+ what
+ what
+ are
+
+
+the
+ things
+ that
+ will
+ tell
+ you
+ if
+ like
+
+
+okay
+ this
+ person
+ would
+ be
+ good
+ at
+
+
+product
+ engineering
+ versus
+ just
+ maybe
+
+
+not
+ as
+ much.
+ One
+ key
+ signal
+ is
+ whether
+
+
+or
+ not
+ they
+ have
+ worked
+ for
+ a
+ company
+
+
+that
+ was
+ product
+ first
+ in
+ nature.
+ Like
+
+
+if
+ they
+ had
+ worked
+ on
+ uh
+ more
+ of
+ like
+ a
+
+
+userfacing
+ type
+ SAS
+ tool
+ like
+ Figma,
+
+
+notion
+ or
+ Slack
+ um
+ you
+ know
+ that
+ those
+
+
+companies
+ are
+ very
+ focused
+ on
+ product
+
+
+first
+ thinking
+ and
+ they
+ pick
+ people
+ who
+
+
+are
+ product
+ first.
+ Um
+ but
+ then
+ in
+ an
+
+
+interview
+ uh
+ you
+ can
+ also
+ kind
+ of
+ tell
+
+
+based
+ on
+ how
+ the
+ candidate
+ answers
+
+
+questions.
+ So
+ when
+ you
+ ask
+ them
+ um
+ what
+
+
+they
+ were
+ doing
+ uh
+ some
+ pe
+ at
+ their
+
+
+previous
+ uh
+ roles
+ uh
+ some
+ people
+ will
+
+
+focus
+ a
+ lot
+ on
+ like
+ the
+ really
+ cool
+
+
+technology
+ and
+ then
+ others
+ will
+ focus
+ on
+
+
+the
+ business
+ problem
+ of
+ like
+ oh
+ like
+ you
+
+
+know
+ we
+ were
+ leaking
+ $700,000
+ a
+ year
+ to
+
+
+Amazon.
+ Um
+ and
+ so
+ it
+ was
+ very
+ important
+
+
+that
+ we
+ migrated
+ over
+ to
+ our
+ own
+ open
+
+
+source
+ hosted
+ presto
+ and
+ then
+ we
+ did
+
+
+this
+ and
+ then
+ this
+ is
+ what
+ happened
+ to
+
+
+the
+ business.
+ um
+ as
+ opposed
+ to
+ like
+ oh
+
+
+like
+ you
+ know
+ it
+ was
+ very
+ important
+ for
+
+
+us
+ to
+ do
+ this
+ thing
+ and
+ it
+ was
+ very
+
+
+difficult
+ because
+ of
+ XYZ
+ reasons
+ and
+
+
+then
+ we
+ used
+ this
+ library
+ but
+ then
+ this
+
+
+library
+ didn't
+ work
+ you
+ know
+ you
+ could
+
+
+really
+ tell
+ the
+ difference
+ and
+ it
+ was
+
+
+very
+ important
+ also
+ for
+ our
+ interview
+
+
+process
+ to
+ involve
+ a
+ product
+ round
+ where
+
+
+we
+ asked
+ uh
+ people
+ like
+ you
+ know
+ what
+
+
+would
+ they
+ change
+ about
+ the
+ terminal
+
+
+what
+ would
+ they
+ change
+ about
+ a
+ favorite
+
+
+app
+ that
+ they're
+ already
+ using
+ and
+ then
+
+
+the
+ best
+ people
+ who
+ are
+ thinking
+ in
+
+
+terms
+ of
+ product
+ would
+ know
+ how
+ well
+
+
+first
+ of
+ all
+ would
+ have
+ an
+ opinion
+ about
+
+
+how
+ how
+ to
+ improve
+ a
+ product
+ and
+ then
+
+
+second
+ of
+ all
+ would
+ know
+ how
+ to
+ talk
+
+
+about
+ it
+ from
+ the
+ users
+ uh
+ perspective
+
+
+and
+ last
+ of
+ all
+ are
+ able
+ to
+ create
+
+
+milestones
+ in
+ that
+ product
+ based
+ on
+ user
+
+
+visible
+ milestones.
+ So
+ you
+ would
+ want
+ if
+
+
+you
+ have
+ like
+ a
+ hundred
+ things
+ to
+ do,
+
+
+how
+ do
+ you
+ group
+ it
+ and
+ sequence
+ the
+ the
+
+
+things
+ to
+ do
+ in
+ a
+ way
+ where
+ every
+
+
+milestone
+ the
+ user
+ could
+ see
+ a
+
+
+difference
+ as
+ opposed
+ to
+ like
+ maybe
+
+
+spending
+ like
+ 60%
+ of
+ your
+ time
+ improving
+
+
+performance
+ or
+ latency
+ that
+ would
+ not
+ be
+
+
+seen
+ by
+ the
+ user
+ until
+ this
+ front
+ end
+
+
+was
+ added
+ for
+ example.
+
+
+>> Yeah.
+ So
+ I'm
+ I'm
+ hearing
+ that
+ like
+
+
+understanding
+ the
+ business,
+ caring
+ about
+
+
+the
+ product,
+ like
+ having
+ a
+ lot
+ of
+ things
+
+
+that
+ we
+ might
+ have
+ associated
+ purely
+ in
+
+
+the
+ past
+ with
+ just
+ product
+ managers,
+
+
+having
+ some
+ of
+ that
+ is
+ increasingly
+
+
+important.
+ And
+ you
+ know
+ for
+ engineers
+
+
+who
+ have
+ none
+ of
+ it,
+ that's
+ also
+ fine.
+
+
+But
+ it
+ it
+ feels
+ like
+ increasingly
+ they
+
+
+might
+ be
+ a
+ better
+ fit
+ for
+ infrastructure
+
+
+work
+ or
+ places
+ where
+ you
+ don't
+ need
+ to
+
+
+think
+ about
+ product.
+ there's
+ like
+
+
+someone
+ or
+ a
+ company
+ where
+ there
+ is
+ a
+
+
+product
+ manager
+ and
+ they
+ they
+ take
+ care
+
+
+of
+ all
+ of
+ that
+ and
+ it's
+ just
+
+
+implementation
+ which
+ sounds
+ a
+ little
+ bit
+
+
+less
+ fun
+ but
+ these
+ places
+ exist
+ and
+ some
+
+
+people
+ there
+ are
+ engineers
+ who
+
+
+appreciate
+ this
+
+
+>> there
+ are
+ so
+ many
+ I
+ mean
+ and
+ they're
+ all
+
+
+extremely
+ important
+ um
+ when
+ you
+ are
+
+
+you're
+ at
+ a
+ company
+ with
+ a
+ lot
+ of
+ scale
+
+
+like
+ really
+ like
+ performance
+ memory
+ like
+
+
+the
+ infrastructure
+ you
+ use
+ is
+ so
+
+
+important
+ but
+ then
+ when
+ you're
+ talking
+
+
+about
+ startups
+ you're
+ just
+ starting
+ out
+
+
+and
+ so
+ you
+ need
+ someone
+ who
+ is
+ um
+ able
+
+
+to
+ plug
+ in
+ all
+ the
+ holes
+ in
+ a
+ company
+
+
+and
+ that
+ the
+ scale
+ at
+ the
+ very
+ beginning
+
+
+doesn't
+ tend
+ to
+ be
+ something
+ that
+
+
+requires
+ like
+ that
+ many
+ billions
+ of
+
+
+roles
+ to
+ handle
+ um
+ or
+ like
+ uh
+ requests
+
+
+per
+ second
+ to
+ handle.
+
+
+>> Yeah.
+ So
+ you've
+ you've
+ been
+ a
+ founding
+
+
+engineer,
+ you're
+ now
+ a
+ founder.
+ Clearly
+
+
+you're
+ also
+ hiring
+ founding
+ engineers
+
+
+and
+ at
+ Warp
+ you
+ also
+ hired
+ product
+
+
+engineers.
+ How
+ do
+ you
+ think
+ a
+ product
+
+
+engineer
+ versus
+ a
+ founding
+ engineer
+
+
+differs
+ or
+ or
+ do
+ they
+ is
+ it
+ just
+ the
+
+
+timing
+ or
+ is
+ it
+ also
+ a
+ little
+ bit
+ of
+
+
+different
+ personality
+ or
+ different
+ kind
+
+
+of
+ challenges?
+
+
+>> Yeah,
+ that's
+ a
+ very
+ good
+ question.
+ Um,
+
+
+so
+ I
+ would
+ say
+ like
+ founding
+ engineer
+
+
+versus
+ product
+ engineer,
+ they're
+ like
+
+
+different
+ exes.
+ So
+ you
+ could
+ be
+ a
+
+
+founding
+ product
+ engineer.
+ Uh,
+ you
+ could
+
+
+be
+ a
+ founding
+ infrastructure
+ engineer.
+
+
+Um
+ um
+ or
+ you
+ could
+ be
+ like
+ a
+ later
+ stage
+
+
+product
+ engineer,
+ later
+ stage
+
+
+infrastructure
+ engineer,
+ um
+ later
+ later
+
+
+stage
+ uh
+ software
+ engineer,
+ uh
+ AI
+
+
+engineer.
+ Um
+ I
+ think
+ that
+ folks
+ might
+
+
+differ
+ on
+ the
+ definition,
+ but
+ I
+ think
+
+
+founding
+ engineer
+ counts
+ if
+ you
+ are
+ in
+
+
+the
+ first
+ five
+ or
+ so
+ that
+ joins
+ within
+
+
+the
+ first
+ few
+ months
+ of
+ the
+ company
+
+
+starting.
+ A
+ product
+ engineer
+ in
+ my
+
+
+definition
+ is
+ someone
+ who
+ is
+ excited
+
+
+about
+ solving
+ uh
+ user
+ problems
+ and
+ they
+
+
+are
+ full
+ stack
+ in
+ being
+ able
+ to
+ do
+ that.
+
+
+So
+ they
+ could
+ go
+ in
+ and
+ build
+ a
+
+
+front-end
+ feature,
+ a
+ backend
+ feature
+ or
+
+
+something
+ that's
+ end
+ to
+ end.
+ They
+ could
+
+
+also
+ go
+ into
+ AI.
+ Um
+ they
+ could
+ go
+ into
+
+
+infrastructure.
+ They
+ would
+ use
+ whatever
+
+
+tools
+ in
+ the
+ tool
+ belt
+ of
+ programming
+ to
+
+
+solve
+ the
+ problem
+ for
+ the
+ user.
+ I
+ think
+
+
+these
+ days
+ the
+ way
+ that
+ startups
+ are
+
+
+putting
+ these
+ job
+ descriptions
+ out
+ um
+ I
+
+
+think
+ that
+ they're
+ actually
+ more
+ looking
+
+
+for
+ purely
+ front-end
+ engineers
+ um
+ no
+ one
+
+
+uses
+ the
+ term
+ front-end
+ engineers
+
+
+anymore.
+ I
+ think
+ when
+ someone
+ is
+ like
+
+
+reading
+ a
+ job
+ description,
+ one
+ should
+
+
+read
+ it
+ closely
+ because
+ I
+ think
+ that
+ a
+
+
+lot
+ of
+ startups
+ here
+ are
+ using
+ the
+ word
+
+
+product
+ engineer
+ more
+ as
+ a
+ kind
+ of
+ like
+
+
+a
+ synonym
+ for
+ front-
+ end
+ only
+
+
+engineering.
+ So,
+ so
+ like
+ not
+ all
+ of
+ them
+
+
+mean
+ the
+ product
+ engine
+ that
+ we
+ were
+
+
+talking
+ about.
+
+
+>> Yeah.
+
+
+>> What
+ what
+ what
+ do
+ you
+ think
+ today
+ at
+
+
+your
+ startup
+ for
+ example
+ now
+ that
+ we
+
+
+have
+ all
+ these
+ AI
+ tools?
+ Do
+ you
+ think
+
+
+it's
+ going
+ to
+ push
+ us
+ away
+ from
+ even
+
+
+pair
+ programming
+ even
+ if
+ people
+ are
+ in
+
+
+the
+ same
+ space
+ or
+ or
+ or
+ do
+ you
+ think
+ you
+
+
+know
+ the
+ the
+ people
+ who
+ still
+ do
+ it
+ are
+
+
+actually
+ going
+ to
+ benefit
+ a
+ lot
+ from
+ it?
+
+
+I
+ think
+ almost
+ like
+ with
+ the
+ rise
+ of
+ AI,
+
+
+everyone
+
+
+now
+ is
+ pair
+ programming
+ with
+ an
+ AI
+ and
+
+
+having
+ someone
+ to
+ talk
+ to
+ or
+ some
+ bot
+ to
+
+
+talk
+ to
+ allows
+ everyone
+ to
+ have
+ a
+ rubber
+
+
+duck
+ every
+ day
+ and
+ that
+ helps
+ everyone
+
+
+get
+ better.
+ Um
+ I
+ think
+ that
+ with
+ the
+
+
+rise
+ of
+ the
+ return
+ to
+ office
+ um
+ there's
+
+
+also
+ a
+ lot
+ more
+ opportunities
+ for
+
+
+sitting
+ next
+ to
+ each
+ other
+ and
+ just
+
+
+learning
+ how
+ people
+ use
+ their
+ tools
+ that
+
+
+we
+ didn't
+ get
+ during
+ the
+ remote
+ time
+ cuz
+
+
+Warp
+ was
+ remote
+ first
+ and
+ um
+ during
+ the
+
+
+first
+ two
+ years
+ I
+ I
+ don't
+ think
+ I
+ I
+ ever
+
+
+saw
+ Zach
+ in
+ person.
+
+
+>> Oh
+ wow.
+ Yeah.
+
+
+>> Yeah.
+ During
+ 2020
+
+
+>> of
+ course
+ it
+ was
+ that
+ time.
+ At
+ your
+
+
+current
+ startup
+ how
+ much
+ are
+ at
+ Flint?
+
+
+How
+ much
+ are
+ you
+ using
+ AI?
+
+
+>> Oh,
+ um,
+ all
+ the
+ time.
+ Like
+ it's
+ almost
+ a
+
+
+requirement
+ at
+ this
+ point
+ to
+ use
+ AI
+ to
+
+
+code.
+ Uh,
+ cuz
+ then
+ you
+ can
+ be
+ more
+
+
+productive.
+
+
+>> What
+ are
+ your
+ favorite
+ tools
+ or
+ your
+
+
+common
+ commonly
+ the
+ tools
+ that
+ you
+ reach
+
+
+for?
+
+
+>> Always
+ cloud
+ code.
+
+
+>> Do
+ you
+ still
+ use
+ the
+ ID
+ or
+ not
+ as
+ much
+
+
+or
+ to
+ re
+ review
+ stuff?
+
+
+>> So,
+ we
+ use
+ cloud
+ code
+ inside
+ the
+ IDE.
+
+
+>> Mhm.
+
+
+>> Yeah.
+
+
+>> Inside
+ VS
+ Code
+ or
+ or
+ I'm
+ not
+ sure
+ if
+ you
+
+
+can
+ do
+ cursor
+ or
+ one
+ of
+ them.
+ It's
+
+
+cursor
+ and
+ then
+ we
+ have
+ an
+ engineer
+ who
+
+
+only
+ codes
+ on
+ Vim.
+ So
+ he
+ uses
+ cloud
+ code
+
+
+on
+ Vim.
+
+
+>> Oh
+ but
+ then
+ runs
+ there
+ as
+ well.
+ That's
+
+
+pretty
+ cool.
+ It's
+ crazy
+ how
+ how
+ quickly
+
+
+we've
+ we've
+ changed
+ from
+ like
+ ID
+ only
+ or
+
+
+most
+ engineers
+ to
+ to
+ actually
+ just
+ like
+
+
+warming
+ up
+ to
+ this.
+
+
+>> Yeah,
+ technology
+ gets
+ better.
+ One
+
+
+interesting
+ topic
+ that
+ you
+ mentioned
+
+
+earlier
+ is
+ some
+ cautionary
+ tales
+ about
+
+
+how
+ when
+ you're
+ joining
+ an
+ early
+ stage
+
+
+startup,
+ especially
+ an
+ AI
+ startup,
+ some
+
+
+engineers
+ can
+ feel
+ a
+ little
+ bit
+ like
+
+
+screwed
+ by
+ founders
+ and
+ and
+ you
+ know
+ I
+ I
+
+
+I
+ think
+ you
+ know
+ we
+ talked
+ about
+ how
+ you
+
+
+managed
+ to
+ like
+ you
+ know
+ get
+ a
+ great
+
+
+offer
+ at
+ an
+ AI
+ company
+ with
+ a
+ a
+ founder
+
+
+who
+ like
+ checked
+ all
+ the
+ boxes
+ but
+ I
+
+
+think
+ it's
+ important
+ to
+ talk
+ about
+ some
+
+
+negative
+ patterns
+ you
+ might
+ have
+ seen
+ or
+
+
+heard
+ and
+ and
+ how
+ to
+ avoid
+ it
+ because
+
+
+again
+ there's
+ an
+ explosion
+ of
+ startups
+
+
+of
+ AI
+ startups
+ of
+ founders
+ uh
+ who
+ want
+
+
+to
+ recruit
+ engineers
+ and
+ sometimes
+ I
+
+
+guess
+ uh
+ things
+ can
+ be
+ too
+ good
+ to
+ be
+
+
+true.
+
+
+>> Yeah.
+ Yeah.
+ I
+ I
+ I'm
+ sensing
+ a
+ lot
+
+
+amongst
+ my
+ friends
+ as
+ well
+ that
+ people
+
+
+feel
+ like
+ um
+ specifically
+ uh
+ the
+ founder
+
+
+might
+ be
+ acquihired
+ away
+ uh
+ by
+ a
+ bigger
+
+
+company
+ and
+ then
+ be
+ the
+ only
+ one
+ in
+ the
+
+
+company
+ that
+ received
+ any
+ monetary
+
+
+benefit
+ from
+
+
+>> so
+ that
+ that
+ we've
+ seen
+ in
+ in
+ the
+ news.
+
+
+>> Yeah.
+
+
+>> Some
+ of
+ the
+ founders
+ being
+ hired
+ away
+
+
+and
+ then
+ the
+ team
+ is
+ left
+ hanging.
+
+
+>> That
+ is
+ the
+ specific
+ scenario
+ that
+
+
+people
+ are
+ really
+ scared
+ of.
+ And
+ I
+
+
+actually
+ had
+ a
+ friend
+ who
+ told
+ me
+ that
+
+
+because
+ of
+ all
+ these
+ um
+ equity
+ hires
+ of
+
+
+the
+ founders
+ that's
+ happening
+ like
+ she's
+
+
+just
+ she's
+ just
+ going
+ to
+ join
+ OpenAI
+
+
+instead
+ because
+ it's
+ safe.
+ I
+ think
+ it's
+
+
+all
+ about
+ uh
+ really
+ understanding
+ the
+
+
+character
+ of
+ the
+ founder.
+ One
+ great
+ way
+
+
+to
+ find
+ out
+ about
+ the
+ founder
+ is
+ to
+ do
+
+
+reference
+ checks
+ like
+ is
+ this
+ yeah
+ is
+
+
+this
+ someone
+ who
+ actually
+ has
+ good
+
+
+character
+ who
+ is
+ generous
+ with
+ their
+
+
+people
+ who
+ care
+ about
+ their
+ team.
+ Um
+ the
+
+
+other
+ good
+ pro
+ uh
+ approximator
+ is
+ to
+ see
+
+
+if
+ the
+ founder
+ themselves
+ were
+ founding
+
+
+engineers
+ to
+ begin
+ with
+ because
+ that's
+
+
+just
+ like
+ that
+ lived
+ experience
+ and
+
+
+empathy
+ that
+ you
+ just
+ cannot
+ get
+ unless
+
+
+you
+ went
+ through
+ the
+ um
+ the
+ ritual
+ of
+
+
+having
+ been
+ a
+ founding
+ engineer
+ where
+
+
+you're
+ in
+ there.
+ You
+ know
+ the
+ day
+ that
+
+
+there
+ wasn't
+ even
+ any
+ code
+ to
+ the
+ day
+
+
+that
+ there
+ was
+ code
+ and
+ then
+ the
+ day
+ we
+
+
+had
+ our
+ first
+ user.
+ um
+ the
+ days
+ where
+ we
+
+
+didn't
+ have
+ the
+ first
+ user
+ like
+ all
+ that
+
+
+like
+ pain
+ and
+ struggles
+ to
+ now
+ have
+ like
+
+
+all
+ these
+ this
+ empathy
+ that
+ hey
+ like
+
+
+these
+ folks
+ are
+ entrusting
+ me
+ with
+ their
+
+
+career
+ and
+ they're
+ taking
+ a
+ lot
+ of
+ risk
+
+
+um
+ I
+ cannot
+ see
+ a
+ world
+ in
+ which
+ I
+
+
+wouldn't
+ offer
+ uh
+ secondaries
+ and
+ tender
+
+
+offers
+ um
+ and
+ opportunities
+ to
+ them.
+
+
+It's
+ a
+ big
+ sacrifice
+
+
+>> and
+ and
+ maybe
+ it's
+ even
+ worth
+ asking
+ on
+
+
+the
+ interview
+ specifically
+ these
+
+
+questions
+ that
+ if
+ the
+ company
+ was
+ to
+ was
+
+
+to
+ have
+ some
+ as
+ a
+ kind
+ of
+ raise
+ a
+ new
+
+
+round
+ and
+ man
+ the
+ founders
+ would
+ take
+
+
+secondaries
+ would
+ it
+ be
+ offered
+ to
+ other
+
+
+employees
+ if
+ there
+ was
+ an
+ acquisition
+ to
+
+
+happen
+ would
+ you
+ bring
+ the
+ team
+ with
+ you
+
+
+I
+ guess
+ you
+ know
+ it's
+ not
+ binding
+ but
+ I
+
+
+feel
+ there
+ is
+ difference
+ between
+ when
+
+
+people
+ don't
+ ask
+ and
+ everyone
+ just
+
+
+assumes
+ versus
+ it
+ doesn't
+ hurt
+ too
+ much
+
+
+to
+ ask
+ potentially
+ especially
+ if
+ it's
+ a
+
+
+a
+ startup
+ that
+ seems
+ to
+ have
+ just
+ a
+
+
+rocket
+ ship
+ trajectory.
+
+
+>> Oh
+ yeah,
+ absolutely.
+ You
+ definitely
+ have
+
+
+the
+ the
+ leverage
+ to
+ ask
+ that
+ uh
+ in
+ in
+
+
+this
+ times.
+
+
+>> It's
+ I
+ mean
+ it's
+ an
+ innocent
+ enough
+
+
+question,
+ right?
+ Worst
+ thing
+ is
+ they
+
+
+they
+ don't
+ answer
+ it
+ or
+ or
+ they
+ refuse
+
+
+to
+ answer
+ or
+ they
+ can
+ say
+ something,
+
+
+right?
+ And
+ then
+ you
+ have
+ some
+ data
+
+
+point.
+
+
+>> Yeah.
+ The
+ other
+ thing
+ is
+ also
+ to
+ not
+
+
+listen
+ too
+ hard
+ on
+ what
+ their
+ answer
+ is
+
+
+and
+ to
+ listen
+ to
+ whether
+ or
+ not
+ they
+ had
+
+
+thought
+ about
+ it
+ before.
+ When
+ I
+ was
+
+
+asking
+ Zach
+ about
+ like
+ how
+ he
+ thought
+
+
+about
+ early
+ employees,
+ like
+ it
+ was
+ very
+
+
+clear
+ that
+ he
+ had
+ been
+ thinking
+ about
+ it
+
+
+for
+ years.
+ And
+ so
+ the
+ answer
+ that
+ came
+
+
+out
+ was
+ very
+ well
+ thought
+ out
+ and
+ it
+ was
+
+
+a
+ really
+ obvious
+ thing
+ for
+ him
+ to
+ be
+
+
+thinking
+ about
+ whereas
+ like
+ you
+ know
+ a
+
+
+less
+ thoughtful
+ manager
+ might
+ give
+ you
+ a
+
+
+good
+ answer
+ but
+ it's
+ very
+ clear
+ they
+
+
+just
+ came
+ up
+ with
+ it
+ on
+ the
+ spot.
+ So
+ now
+
+
+that
+ you
+ have
+ a
+ startup
+ and
+ you
+ know
+ you
+
+
+you've
+ now
+ moved
+ from
+ from
+ again
+ being
+
+
+being
+ uh
+ working
+ at
+ companies
+ to
+ being
+ a
+
+
+founding
+ engineer
+ to
+ now
+ founding
+ your
+
+
+own
+ company
+ and
+ congratulations
+ on
+
+
+coming
+ out
+ from
+ stealth.
+
+
+>> Thank
+ you
+
+
+>> with
+ with
+ Flint.
+ Uh
+ how
+ do
+ you
+ find
+ what
+
+
+does
+ it
+ take
+ to
+ hire
+ worldclass
+
+
+engineers
+ in
+ an
+ environment
+ like
+ Silicon
+
+
+Valley
+ or
+ with
+ other
+ founders
+ you're
+
+
+talking
+ to
+ and
+ also
+ from
+ your
+ own
+
+
+experience?
+ I
+ think
+ it's
+ about
+ um
+
+
+showing
+ that
+ you
+ care
+ a
+ lot
+ about
+ the
+
+
+team
+ um
+ and
+ that
+ you
+ value
+ people
+ on
+
+
+your
+ team
+ and
+ that
+ there's
+ high
+ trust
+
+
+between
+ you
+ and
+ them
+ that
+ you
+ will
+ do
+
+
+every
+ measure
+ it
+ takes
+ to
+ make
+ sure
+ that
+
+
+they
+ are
+ going
+ to
+ have
+ a
+ good
+ time.
+ Um,
+
+
+and
+ then
+ it's
+ also
+ about
+ having
+ really
+
+
+big
+ vision
+ about
+ how
+ this
+ company
+ is
+
+
+going
+ to
+ change
+ the
+ world
+ and
+ it's
+ going
+
+
+to
+ be
+ huge
+ and
+ that
+ this
+ is
+ a
+ chance
+ to
+
+
+change
+ the
+ world.
+
+
+>> Speaking
+ of
+ which,
+ uh,
+ your
+ your
+ your
+
+
+startup
+ Flint,
+ C,
+ can
+ we
+ talk
+ about
+ how
+
+
+you
+ came
+ up
+ with
+ the
+ idea
+ around
+
+
+websites
+ and
+ also
+ how
+ you
+ know
+ both
+ what
+
+
+you're
+ building
+ but
+ also
+ how
+ you're
+
+
+thinking
+ these
+ AI
+ agents
+ will
+ change
+ the
+
+
+world,
+ the
+ web.
+ So
+ the
+ website
+ itself
+
+
+become
+ agentic.
+ They
+ build
+ themselves.
+
+
+That
+ means
+ um
+ that
+ if
+ you
+ wake
+ up
+ in
+ the
+
+
+morning
+ to
+ a
+ competitor
+ having
+ launched
+
+
+overnight,
+ your
+ website
+ would
+ have
+
+
+already
+ generated
+ you
+ a
+ comparison
+ page
+
+
+that
+ compares
+ you
+ with
+ the
+ competitor
+
+
+and
+ then
+ it's
+ already
+ optimizing
+ for
+
+
+conversions
+ and
+ it's
+ also
+ keeping
+ track
+
+
+of
+ the
+ differences
+ in
+ your
+ product
+ and
+
+
+them
+ every
+ day
+ and
+ then
+ updating
+ it.
+ So
+
+
+something
+ that
+ would
+ have
+ taken
+ five
+
+
+agencies
+ three
+ months
+ to
+ do
+ suddenly
+
+
+gets
+ done
+ overnight
+ when
+ you
+ were
+
+
+sleeping.
+ And
+ we're
+ thinking
+ of
+ also
+
+
+automating
+ all
+ of
+ the
+ other
+ marketing
+
+
+workflows
+ around
+ that.
+ Like
+ we
+ can
+ hook
+
+
+into
+ your
+ sales
+ calls
+ and
+ your
+ gong
+
+
+calls
+ and
+ then
+ find
+ out
+ ways
+ of
+ selling
+
+
+your
+ product
+ or
+ solution
+ pages
+ that
+ you
+
+
+might
+ be
+ missing.
+
+
+>> Oh
+ wow.
+
+
+>> Um
+ yeah,
+
+
+>> this
+ is
+ proper
+ next
+ level.
+
+
+>> Oh
+ yeah.
+ Like
+ marketers
+ really
+ love
+
+
+this.
+ I
+ mean,
+ I'm
+ not
+ just
+ talking
+
+
+obviously
+ from
+ the
+ marketing
+ angle,
+ but
+
+
+just
+ from
+ a
+ from
+ a
+ software
+ engineering
+
+
+and
+ how
+ you
+ have
+ like
+ all
+ these
+ like
+
+
+different
+ input
+ channels
+ to
+ capture
+
+
+feedback
+ and
+ then
+ to
+ eventually
+ generate
+
+
+this
+ sounds
+ really
+ cool.
+
+
+>> Yeah.
+ Um
+ it
+ is
+ uh
+ bringing
+ autonomy
+ to
+
+
+the
+ to
+ the
+ web.
+ we
+ we're
+ really
+ building
+
+
+a
+ new
+ kind
+ of
+ uh
+ internet
+ here
+ where
+ uh
+
+
+the
+ website
+ is
+ now
+ not
+ only
+ generated
+ by
+
+
+AI
+ and
+ for
+ AI
+ but
+ it's
+ also
+ becoming
+ AI
+
+
+itself
+ um
+ to
+ be
+ more
+ dynamic
+ and
+
+
+proactive
+ um
+ um
+ my
+ co-founder
+ actually
+
+
+ran
+ teams
+ at
+ Neuro
+ which
+ is
+ an
+
+
+autonomous
+ vehicle
+ company
+ and
+ we
+ talk
+ a
+
+
+lot
+ about
+ how
+ autonomous
+ websites
+ are
+
+
+similar
+ to
+ autonomous
+ vehicles
+ in
+ that
+
+
+it
+ does
+ they
+ they
+ take
+ in
+ data
+ through
+ a
+
+
+perception
+ system.
+ Then
+ there's
+ a
+
+
+decision-m
+ system
+ about
+ okay
+ like
+ based
+
+
+on
+ this
+ comp
+ competitor
+ based
+ on
+ these
+
+
+sales
+ calls
+ like
+ what
+ should
+ we
+ do
+ and
+
+
+then
+ it
+ would
+ then
+ have
+ a
+ control
+ system
+
+
+that
+ then
+ actually
+ implements
+ the
+ pages
+
+
+and
+ then
+ it
+ would
+ then
+ start
+ off
+ that
+
+
+loop
+ again
+ where
+ based
+ on
+ how
+ the
+ page
+
+
+is
+ doing
+ in
+ the
+ environment
+ which
+ is
+ the
+
+
+market
+ what
+ should
+ we
+ then
+ do?
+ So
+ by
+
+
+putting
+ all
+ of
+ that
+ perception,
+ that
+
+
+decision-m
+ and
+ control
+ uh
+ systems
+ into
+
+
+the
+ same
+ entity,
+ we
+ finally
+ close
+ the
+
+
+feedback
+ loop.
+ That
+ is
+ the
+ reason
+ why
+ it
+
+
+requires
+ five
+ agencies
+ talking
+ to
+ each
+
+
+other
+ to
+ build
+ a
+ page.
+ We
+ had
+ to
+ have
+
+
+the
+ five
+ agencies
+ because
+ there
+ were
+
+
+separate
+ tools
+ and
+ different
+ specialties
+
+
+to
+ be
+ passing
+ information
+ between.
+ And
+
+
+now
+ if
+ you
+ put
+ all
+ of
+ the
+ tools
+ in
+ the
+
+
+same
+ entity,
+ you
+ start
+ having
+ a
+ closed
+
+
+loop
+ where
+ the
+ website
+ continuously
+
+
+optimizes
+ itself
+ for
+ your
+ business.
+ It's
+
+
+very
+ exciting.
+ Um,
+ so
+ the
+ first
+ phase
+ is
+
+
+that
+ which
+ is
+ let's
+ respond
+ to
+ your
+
+
+market
+ based
+ on
+ real
+ real-time
+ data
+
+
+streams.
+ And
+ then
+ the
+ next
+ phase
+ will
+ be
+
+
+real-time
+ morphing
+ and
+ shape-shifting
+ of
+
+
+the
+ page
+ based
+ on
+ who
+ is
+ visiting.
+ It
+
+
+could
+ be
+ a
+ healthcare
+ executive
+ that
+
+
+comes
+ and
+ then
+ we
+ morph
+ the
+ page
+ to
+
+
+highlight
+ uh
+ healthcare
+ case
+ studies
+ or
+
+
+like
+ uh
+ compliance
+ related
+ requirements
+
+
+from
+ healthcare
+ and
+ then
+ we
+ could
+ even
+
+
+generate
+ a
+ sales
+ demo
+ that's
+
+
+specifically
+ for
+ that
+ healthcare
+
+
+executive
+ instead
+ of
+ needing
+ to
+ click
+
+
+contact
+ sales
+ and
+ then
+ wait
+ a
+ week
+ for
+ a
+
+
+Zoom
+ call
+ where
+ someone
+ is
+ extremely
+
+
+bored
+ talking
+ to
+ you.
+ just
+ have
+ the
+ the
+
+
+website
+ generate
+ a
+ demo
+ closely
+ on
+ the
+
+
+spot
+ and
+ then
+ if
+ it's
+ an
+ AI
+ agent
+ that's
+
+
+visiting
+ we
+ can
+ also
+ speak
+ different
+ the
+
+
+website
+ could
+ also
+ speak
+ differently
+ the
+
+
+agent
+ doesn't
+ want
+ to
+ speak
+ in
+ HTML
+ uh
+
+
+they
+ want
+ to
+ speak
+ in
+ MCP
+ they
+ want
+ to
+
+
+speak
+ in
+ tool
+ calls
+ APIs
+ markdown
+ JSON
+
+
+um
+ there
+ is
+ a
+ new
+ agentto
+ agent
+ protocol
+
+
+that
+ we're
+ building
+ here
+ um
+ to
+ redefine
+
+
+the
+ way
+ that
+ uh
+ agents
+ interact
+ with
+ the
+
+
+web
+ we
+ also
+ create
+ the
+ concept
+ of
+ a
+
+
+aentic
+ web
+ where
+ instead
+ of
+ going
+ to
+
+
+Google
+ uh
+ to
+ find
+ uh
+ links.
+ You
+ could
+
+
+have
+ the
+ agents
+ talk
+ with
+ each
+ other
+ to
+
+
+tell
+ which
+ agents
+ are
+ more
+ credible
+ than
+
+
+others
+ and
+ um
+ be
+ able
+ to
+ communicate
+
+
+very
+ quickly
+ um
+ to
+ help
+ to
+ sell
+ uh
+ a
+
+
+customer
+ on
+ a
+ deal.
+ This
+ is
+ so
+
+
+interesting
+ because
+ I
+ I
+ feel
+ like
+ we're
+
+
+so
+ focused
+ right
+ now
+ or
+ at
+ least
+ I'm
+ f
+
+
+so
+ focused
+ on
+ how
+ uh
+ LLMs
+ can
+ help
+
+
+developer
+ tools
+ like
+ just
+ you
+ know
+
+
+change
+ how
+ how
+ we
+ do
+ things
+ that
+ we
+ kind
+
+
+of
+ forget
+ that
+ there's
+ a
+ whole
+ world
+ out
+
+
+there
+ where
+ where
+ these
+ tools
+ can
+ really
+
+
+just
+ you
+ know
+ like
+ change
+ a
+ bunch
+ of
+
+
+stuff
+ like
+ how
+ how
+ we
+ think
+ of
+ websites
+
+
+and
+ how
+ dynamic
+ they
+ are
+ and
+ how
+ like
+
+
+ultra
+ dynamic
+ or
+ ultra
+ personalized
+ they
+
+
+can
+ be.
+ This
+ is
+ really
+ cool.
+
+
+>> Yeah.
+ uh
+ everything
+ we
+ know
+ about
+ the
+
+
+internet
+ is
+ about
+ to
+ change
+ and
+ and
+ uh
+
+
+Flynn
+ is
+ building
+ that
+ even
+ today.
+ One
+
+
+really
+ interesting
+ problem
+ that
+ we're
+
+
+solving
+ uh
+ it's
+ almost
+ a
+ research
+ level
+
+
+problem
+ it's
+ in
+ terms
+ of
+ creating
+
+
+onbrand
+ landing
+ pages.
+ So
+ it
+ might
+ seem
+
+
+very
+ simple
+ from
+ the
+ outside
+ cuz
+ like
+ oh
+
+
+like
+ can't
+ we
+ just
+ like
+ choose
+ the
+
+
+background
+ color
+ um
+ and
+ the
+ typography
+
+
+of
+ a
+ page
+ and
+ then
+ turn
+ out
+ a
+ page.
+
+
+Turns
+ out
+ that
+ like
+ especially
+ today
+
+
+brand
+ is
+ very
+ important.
+ Um
+ you
+ wouldn't
+
+
+put
+ a
+ l
+ if
+ you're
+ a
+ SAS
+ company
+ you
+
+
+wouldn't
+ put
+ like
+ a
+ like
+ a
+ cursor
+
+
+generated
+ page
+ in
+ front
+ of
+ a
+ Fortune
+ 500
+
+
+client
+ you're
+ trying
+ to
+ trying
+ to
+ close.
+
+
+You
+ want
+ to
+ make
+ sure
+ that
+ your
+ page
+
+
+really
+ matches
+ your
+ brand
+ down
+ to
+ the
+
+
+very
+ pixel.
+ Um
+ and
+ we
+ have
+ developed
+
+
+that
+ capability
+ in
+ in
+ Flint
+ to
+ create
+ a
+
+
+page
+ that
+ looks
+ almost
+ as
+ if
+ the
+
+
+customer
+ themselves
+ built
+ it.
+ So
+ like
+ uh
+
+
+we
+ work
+ with
+ cognition
+ uh
+ on
+ the
+ events
+
+
+pages
+ as
+ well
+ as
+ their
+ comparison
+ pages
+
+
+between
+ windsurf
+ and
+ cursor
+ for
+ example
+
+
+and
+ that's
+ being
+ cited
+ by
+ looms.
+
+
+>> So
+ it
+ feels
+ to
+ me
+ you
+ know
+ you've
+ got
+ an
+
+
+exposed
+ like
+ you
+ like
+ one
+ part
+ of
+ how
+
+
+you
+ got
+ here
+ maybe
+ you've
+ got
+ otherwise
+
+
+but
+ it
+ feels
+ you
+ really
+ got
+ here
+ because
+
+
+you
+ were
+ at
+ a
+ founding
+ engineer
+ at
+ a
+
+
+startup
+ you've
+ seen
+ so
+ many
+ things.
+ So
+
+
+what
+ would
+ your
+ advice
+ be
+ to
+ software
+
+
+engineers
+ who
+ would
+ love
+ to
+ join
+ as
+ a
+
+
+founding
+ engineer
+ maybe
+ an
+ AI
+ startup
+ or
+
+
+a
+ fast
+ grow
+ startup
+ these
+ days
+ a
+ lot
+ of
+
+
+them
+ are
+ AI
+ not
+ all
+ of
+ them
+ uh
+ if
+ if
+ if
+
+
+it's
+ someone
+ who
+ you
+ know
+ has
+ some
+
+
+experience
+ in
+ the
+ field
+ what
+ tactics
+ you
+
+
+think
+ might
+ work
+ for
+ them
+
+
+>> it's
+ about
+ uh
+ showing
+ that
+ you've
+ built
+
+
+in
+ AI
+ before
+ cuz
+ that
+ skill
+ is
+ very
+ much
+
+
+high
+ in
+ in
+ demand
+ and
+ it's
+ very
+ new
+ Very
+
+
+few
+ people
+ relatively
+ speaking
+ and
+ have
+
+
+ever
+ built
+ an
+ AI
+ product
+ before.
+ So
+ just
+
+
+spending
+ like
+ some
+ time
+ over
+ weekends
+
+
+knowing
+ how
+ to
+ build
+ an
+ AI
+ product
+
+
+already
+ helps
+ you
+ stand
+ out
+ above
+ many
+
+
+people.
+
+
+>> Yeah.
+ And
+ by
+ an
+ AI
+ product,
+ we
+ mean
+
+
+something
+ that
+ is
+ is
+ using
+ LLM
+
+
+underneath
+ the
+ hood
+ to
+ to
+ do
+ what
+
+
+whatever
+ it
+ might
+ be.
+ I
+ don't
+ know,
+ may
+
+
+that
+ be
+ just
+ a
+ search
+ engine
+ based
+ on
+
+
+LLM
+ or
+ or
+ anything
+ that
+ scratches
+ your
+
+
+itch.
+ Yeah,
+ really
+ any
+ anything
+ that
+
+
+scratches
+ your
+ itch
+ that
+ uses
+ um
+ any
+ of
+
+
+the
+ the
+ models,
+ the
+ completion
+ APIs.
+ In
+
+
+terms
+ of
+ excelling
+ in
+ that
+ role,
+ it
+
+
+starts
+ off
+ with
+ picking
+ the
+ right
+
+
+founder.
+ Um
+ but
+ then
+ once
+ you
+ do
+ join,
+
+
+it's
+ all
+ about
+ volunteering
+ to
+ do
+ the
+
+
+things
+ that
+ uh
+ no
+ one
+ no
+ one
+ wants
+ to
+
+
+do,
+ but
+ it's
+ the
+ most
+ important
+ thing
+
+
+for
+ the
+ business.
+ Um,
+ so
+ I
+ did
+ what
+ most
+
+
+engineers
+ would
+ consider
+ to
+ be
+ the
+ worst
+
+
+job
+ ever,
+ which
+ is
+ to
+ be
+ the
+ face
+ of
+ the
+
+
+company
+ on
+ Hacker
+ News
+ at
+ Warp.
+ So
+ I
+
+
+wrote
+ the
+ blog
+ posts,
+ I
+ published
+ them
+
+
+on
+ on
+ Hacker
+ News
+ and
+ I
+ answered
+ all
+ the
+
+
+questions
+ on
+ on
+ Hacker
+ News.
+ Um,
+ I
+ went
+
+
+out
+ there
+ and
+ I
+ created
+ our
+ company
+
+
+Twitter
+ and
+ I
+ was
+ writing
+ tweets
+ for
+ the
+
+
+company.
+ Then
+ starting
+ a
+ YouTube
+ channel
+
+
+for
+ the
+ for
+ the
+ company
+ before
+ any
+
+
+developer
+ tool
+ companies
+ really
+ thought
+
+
+about
+ doing
+ YouTube.
+ starting
+ a
+ discord
+
+
+channel
+ like
+ filing
+ every
+ feedback
+
+
+starting
+ the
+ GitHub
+ like
+ things
+ that
+
+
+like
+ very
+ different
+ like
+ outside
+ of
+
+
+engineering
+ but
+ the
+ business
+ really
+
+
+needed
+
+
+>> and
+ and
+ then
+ you
+ still
+ doing
+ your
+
+
+engineering
+ job
+ you're
+ still
+ like
+ you
+
+
+know
+ like
+ fixing
+ bug
+ and
+ etc
+ but
+ on
+ on
+
+
+the
+ top
+ of
+ it
+ that
+ you're
+ figuring
+ out
+
+
+how
+ to
+ help
+ the
+ company
+ right
+
+
+>> yeah
+ yeah
+ you
+ you
+ still
+ have
+ to
+ make
+
+
+sure
+ that
+ you're
+ doing
+ your
+ your
+ number
+
+
+one
+ job
+ which
+ is
+ software
+ engineering
+ so
+
+
+that
+ needs
+ to
+ still
+ stay
+ the
+ main
+ focus
+
+
+and
+ you
+ should
+ only
+ volunteer
+ for
+ other
+
+
+stuff
+ if
+ you
+ are
+ already
+ doing
+ well
+ in
+
+
+your
+ main
+ job.
+ The
+ benefit
+ of
+ doing
+ a
+
+
+lot
+ of
+ these
+ things
+ and
+ learning
+ how
+ to
+
+
+do
+ a
+ lot
+ of
+ these
+ things
+ um
+ is
+ that
+ then
+
+
+um
+ you
+ get
+ to
+ learn
+ um
+ what
+ businesses
+
+
+need.
+ You
+ know,
+ you
+ can
+ come
+ up
+ with
+
+
+ideas
+ that
+ are
+ not
+ like
+ just
+ developer
+
+
+tool
+ companies
+ um
+ for
+ example.
+ And
+ at
+
+
+one
+ point
+ because
+ I
+ was
+ doing
+ all
+ these
+
+
+things
+ and
+ then
+ hiring
+ all
+ the
+ people
+ I
+
+
+remember
+ like
+ it
+ was
+ after
+ one
+ of
+ the
+
+
+board
+ meetings
+ my
+ my
+ founder
+ reached
+ out
+
+
+to
+ me
+ and
+ said
+ that
+ hey
+ like
+ Michelle
+
+
+like
+ you
+ hired
+ all
+ these
+ people
+ in
+
+
+growth
+ I
+ want
+ you
+ to
+ be
+ head
+ of
+ growth
+
+
+you're
+ going
+ to
+ be
+ starting
+ and
+ managing
+
+
+this
+ team
+ from
+ now
+ on
+ and
+ I
+ don't
+ know
+ I
+
+
+was
+ like
+ 22
+ at
+ the
+ time
+ and
+ suddenly
+
+
+executive
+ suddenly
+ reporting
+ to
+ the
+
+
+board
+ every
+ quarter
+ on
+ that
+ like
+ wow
+ wow
+
+
+numbers
+ and
+ revenue
+ you
+ wouldn't
+ get
+
+
+that
+ uh
+ unless
+ you
+ volunteer
+ to
+ do
+
+
+random
+ things
+ and
+ then
+ um
+ mo
+ make
+ sure
+
+
+that
+ every
+ time
+ you
+ do
+ this
+ you
+ do
+ them
+
+
+ex
+ exceedingly
+ well
+ cuz
+ it's
+ not
+
+
+necessarily
+ just
+ about
+ doing
+ well
+ in
+
+
+that
+ like
+ domain.
+ It's
+ about
+ the
+ founder
+
+
+knowing
+ that
+ whenever
+ they
+ pass
+ you
+ a
+
+
+job
+ to
+ be
+ done
+ it
+ will
+ be
+ done
+
+
+excellently.
+
+
+>> Yeah.
+
+
+>> Um
+ and
+ then
+ this
+ way
+ you
+ get
+ more
+ and
+
+
+more
+ responsibilities.
+ Eventually
+ I
+
+
+ended
+ up
+ leading
+ enterprise
+ sales
+ for
+
+
+warp.
+
+
+>> Oh
+ wow.
+ Um
+ because
+ we
+ had
+ this
+ problem
+
+
+where
+ we
+ started
+ getting
+ a
+ lot
+ of
+
+
+security
+ questionnaires
+ from
+ companies
+
+
+that
+ were
+ using
+ warp
+ and
+ I
+ saw
+ that
+
+
+problem
+ and
+ I
+ was
+ like
+ oh
+ this
+ is
+ not
+ a
+
+
+security
+ problem.
+ This
+ is
+ an
+ enterprise
+
+
+sales
+ opportunity.
+ This
+ is
+ the
+ start
+ of
+
+
+a
+ conversation
+ in
+ which
+ if
+ we
+ have
+ an
+
+
+enterprise
+ deal
+ we
+ could
+ we
+ could
+ fill
+
+
+your
+ questionnaires
+ and
+ we
+ could
+ have
+
+
+sock
+ to
+ reports
+ and
+ we
+ could
+ have
+ all
+
+
+these
+ nice
+ compliance
+ controls
+ and
+ admin
+
+
+panel
+ if
+ you
+ paid
+ us
+ like
+ you
+ know
+ this
+
+
+amount
+ of
+ money.
+ Yeah,
+ it's
+ things
+ like
+
+
+this
+ that
+ really
+ help
+ you
+ um
+ do
+ well
+ in
+
+
+a
+ company.
+ It's
+ doing
+ the
+ things
+ that
+
+
+are
+ very
+ unsexy
+ that
+ nobody
+ wants
+ to
+ do
+
+
+because
+ before
+ you
+ know
+ it,
+ you
+ might
+ be
+
+
+running
+ enterprise
+ sales
+ because
+ no
+ one
+
+
+no
+ one
+ wanted
+ to
+ work
+ on
+ security
+
+
+questionnaires.
+ It
+ was
+ a
+ hot
+ potato
+ that
+
+
+was
+ passed
+ around
+ multiple
+ quarters
+
+
+until
+ it
+ went
+ to
+ me.
+ And
+ and
+ I
+ guess
+
+
+it's
+ probably
+ needless
+ to
+ say,
+ but
+ if
+
+
+you
+ are
+ working
+ as
+ a
+ founding
+ engineer
+
+
+or
+ like
+ and
+ you're
+ or
+ or
+ even
+ as
+ a
+
+
+software
+ engineer,
+ you're
+ picking
+ up
+ all
+
+
+these
+ things
+ and
+ you're
+ balancing
+ all
+
+
+these
+ things
+ and
+ from
+ the
+ outside
+ it's
+
+
+like
+ how
+ are
+ you
+ doing
+ all
+ these
+ things?
+
+
+I
+ guess
+ as
+ a
+ founder,
+ it's
+ kind
+ of
+
+
+preparing
+ you
+ to
+ be
+ a
+ founder
+ because
+ as
+
+
+a
+ founder,
+ you're
+ you'll
+ definitely
+ have
+
+
+to
+ balance
+ all
+ you
+ know
+ all
+ these
+ hot
+
+
+potatoes
+ at
+ the
+ same
+ time.
+
+
+>> Oh
+ yeah.
+ as
+ a
+ the
+ job
+ of
+ a
+ founder
+ and
+ a
+
+
+manager
+ is
+ to
+ always
+ like
+ it's
+ always
+
+
+about
+ taking
+ the
+ things
+ that
+ no
+ one
+
+
+wants
+ to
+ do
+ so
+ that
+ everyone
+ else
+ can
+ be
+
+
+in
+ their
+ zone
+ of
+ genius.
+ They
+ can
+ spend
+
+
+all
+ their
+ time
+ working
+ on
+ this
+
+
+engineering
+ problem
+ and
+ yes
+ I
+ will
+ deal
+
+
+with
+ a
+ news
+
+
+>> as
+ closing
+ let's
+ just
+ do
+ some
+ rapid
+
+
+questions.
+ I'm
+ going
+ to
+ ask
+ a
+ question
+
+
+and
+ then
+ you
+ tell
+ me
+ what
+ comes
+ to
+ mind.
+
+
+Sounds
+ good.
+
+
+>> Yeah,
+ that
+ sounds
+ great.
+
+
+>> What's
+ your
+ favorite
+ programming
+
+
+language
+ and
+ why?
+
+
+>> Oh,
+ Rust.
+
+
+I
+ feel
+ like
+ I
+ get
+ a
+ lot
+ of
+ satisfaction
+
+
+every
+ time
+ I
+ pass
+ through
+ borrow
+ checker
+
+
+cuz
+ it's
+ very
+ difficult
+ to
+ write
+ code
+
+
+that
+ compiles.
+
+
+>> And
+ at
+ Flint,
+ you
+ use
+ Rust
+ as
+ well.
+
+
+>> Uh
+ Flint,
+ we
+ are
+ a
+ TypeScript
+ shop.
+ We
+
+
+are
+ building
+ autonomous
+ websites
+ and
+
+
+we're
+ building
+ uh
+ websites
+ that
+ build
+
+
+themselves
+ with
+ like
+ you
+ know
+ so
+ it
+ is
+
+
+helpful
+ to
+ be
+ writing
+ in
+ a
+ language
+ that
+
+
+builds
+ the
+ website.
+
+
+>> I'm
+ sure
+ Russ
+ will
+ find
+ his
+ way
+ in
+ there
+
+
+sooner
+ or
+ later.
+
+
+>> All right,
+ we'll
+ see.
+ What
+ are
+ one
+ or
+
+
+two
+ movies
+ that
+ you
+ would
+ recommend
+ that
+
+
+you
+ enjoyed?
+
+
+>> Yeah,
+ I
+ really
+ enjoyed
+ uh
+ Weapons.
+ It
+
+
+looks
+ like
+ a
+ horror
+ movie
+ on
+ the
+
+
+outside,
+ but
+ it
+ is
+ very
+ enjoyable.
+ Um
+
+
+there
+ are
+ many
+ uh
+ comedic
+ moments
+ in
+ it
+
+
+and
+ I
+ also
+ really
+ enjoyed
+ the
+ nonlinear
+
+
+narrative
+ where
+ it
+ it's
+ a
+ story
+ about
+
+
+sometime
+ in
+ the
+ early
+ 2000s
+ there
+ were
+
+
+children
+ who
+ started
+ running
+ out
+ of
+
+
+their
+ houses
+ at
+ uh
+ 2:00
+ a.m.
+ And
+ then
+
+
+they
+ all
+ disappeared
+ for
+ a
+ month.
+ And
+
+
+then
+ the
+ movie,
+ this
+ is just
+ a
+ real
+ life
+
+
+story.
+ And
+ then
+ the
+ movie
+ creates
+ a
+
+
+narrative
+ for
+ like
+ what
+ could
+ have
+
+
+happened.
+ And
+ then
+ every
+ chapter
+ in
+ the
+
+
+movie
+ was
+ showing
+ a
+ different
+ uh
+
+
+character's
+ perspective.
+ And
+ every
+
+
+perspective
+ added
+ a
+ different
+ way
+ of
+
+
+viewing
+ the
+ story
+ altogether
+ and
+ almost
+
+
+changed
+ the
+ genre
+ each
+ time.
+ And
+ as
+ a
+
+
+horror
+ movie
+ fan,
+ I
+ also
+ saw
+ that
+ every
+
+
+chapter
+ was
+ a
+ different
+ character
+ in
+ a
+
+
+horror
+ movie
+ trope.
+ Um,
+ which
+ I
+ also
+
+
+found
+ like
+ was
+ really
+ smart.
+ Um,
+ so
+
+
+yeah,
+ highly
+ recommend
+ it.
+
+
+>> I
+ am
+ not
+ a
+ horror
+ movie
+ fan.
+ I
+ watched
+
+
+this
+ movie
+ not
+ knowing
+ what
+ I
+ got
+ myself
+
+
+in.
+ I
+ will
+ say
+ it's
+ memorable.
+ It
+ still
+
+
+gives
+ me
+ the
+ shivers
+ and
+ it
+ it
+ still
+
+
+makes
+ me
+ think.
+ So
+ great
+ recommendation.
+
+
+Thank
+ you.
+
+
+>> I
+ do
+ recommend.
+
+
+>> So
+ Michelle,
+ thanks
+ for
+ being
+ on
+ the
+
+
+podcast.
+ This
+ was
+ just
+ really
+
+
+interesting
+ to
+ see,
+ you
+ know,
+ like
+ how
+
+
+how
+ much
+ you
+ can
+ learn
+ being
+ as
+ a
+
+
+founding
+ engineer,
+ how
+ you
+ can
+ do
+ it,
+
+
+and
+ how
+ it
+ can
+ lead
+ to
+ starting
+ your
+ own
+
+
+company,
+ doing
+ super
+ exciting
+ things
+
+
+with
+ Flint.
+ So
+ good
+ luck.
+ Good
+ luck
+ with
+
+
+Flint
+ and
+ thanks
+ for
+ being
+ here.
+
+
+>> Thank
+ you
+ so
+ much.
+
+
+>> I
+ always
+ find
+ it
+ interesting
+ to
+ hear
+ how
+
+
+someone
+ became
+ a
+ founder
+ [music]
+ and
+
+
+Michelle's
+ story
+ felt
+ pretty
+
+
+approachable
+ to
+ me.
+ What
+ really
+ got
+ my
+
+
+attention
+ was
+ how
+ Michelle
+ was
+
+
+volunteering
+ to
+ do
+ the
+ unattractive
+
+
+work.
+ In
+ this
+ case,
+ working
+ with
+ a
+
+
+marketing
+ agency
+ to
+ build
+ marketing
+
+
+websites
+ at
+ Warp.
+ [music]
+ And
+ this
+ got
+
+
+her
+ the
+ idea
+ and
+ expertise
+ to
+ start
+ her
+
+
+current
+ startup,
+ which
+ is
+ about
+ creating
+
+
+marketing
+ and
+ launch
+ websites
+ with
+ AI.
+
+
+Michelle's
+ [music]
+ story
+ is
+ a
+ great
+
+
+reminder
+ that
+ to
+ be
+ a
+ great
+ founder,
+ you
+
+
+probably
+ need
+ more
+ than
+ just
+ software
+
+
+engineering.
+ It's
+ also
+ helpful
+ if
+ you
+
+
+understand
+ different
+ parts
+ of
+ the
+
+
+business
+ [music]
+ and
+ you
+ get
+ your
+ hands
+
+
+dirty
+ with
+ non-
+ tech
+ work
+ as
+ well.
+ One
+
+
+other
+ thing
+ I
+ found
+ interesting
+ is
+ how
+
+
+Michelle
+ thinks
+ that
+ GEO,
+ [music]
+
+
+generative
+ engine
+ optimization,
+
+
+basically
+ LM's
+ recommending
+ websites,
+
+
+will
+ soon
+ become
+ perhaps
+ even
+ more
+
+
+important
+ than
+ search
+ engine
+
+
+optimization.
+ Things
+ are
+ changing
+ fast
+
+
+[music]
+ in
+ the
+ web
+ thanks
+ to
+ AI
+ and
+
+
+perhaps
+ web
+ pages
+ will
+ become
+ a
+ lot
+ more
+
+
+responsive
+ and
+ fluid
+ thanks
+ to
+ AI
+ and
+ in
+
+
+response
+ to
+ LLMs.
+ For
+ more
+ details
+ on
+
+
+how
+ to
+ be
+ a
+ solid
+ founding
+ engineer,
+ see
+
+
+the
+ pragmatic
+ engineer
+ deep
+ dives
+ linked
+
+
+in
+ the
+ show
+ notes
+ below,
+ including
+ an
+
+
+article
+ on
+ lessons
+ from
+ the
+ trenches
+ of
+
+
+being
+ a
+ founding
+ engineer.
+ If
+ you've
+
+
+enjoyed
+ this
+ podcast,
+ please
+ do
+
+
+subscribe
+ on
+ your
+ favorite
+ podcast
+
+
+platform
+ and
+ on
+ YouTube.
+ [music]
+ A
+
+
+special
+ thank
+ you
+ if
+ you
+ also
+ leave
+ a
+
+
+rating
+ on
+ the
+ show.
+ Thanks
+ and
+ see
+ you
+
+
+in
+ the
+ next
