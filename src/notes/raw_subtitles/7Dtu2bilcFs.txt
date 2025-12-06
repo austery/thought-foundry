@@ -1,0 +1,6669 @@
+[music]
+
+
+Hey
+ everybody.
+ Um,
+ really
+ happy
+ to
+ be
+
+
+here.
+ I'm
+ going
+ to
+ be
+ talking
+ the
+ first
+
+
+half.
+ Co-author
+ here,
+ Jean
+ Kim,
+ is
+ going
+
+
+to
+ talk
+ second
+ half.
+ All
+ right.
+ Looking
+
+
+forward
+ to
+ it.
+ Cheers.
+ All
+ right.
+ Today,
+
+
+I'm
+ gonna
+ Well,
+ we're
+ going
+ to
+ talk
+ real
+
+
+fast.
+ This
+ time's
+ going
+ to
+ go
+ down
+ fast.
+
+
+Uh,
+ I'm
+ going
+ to
+ talk
+ to
+ you
+ about
+ what
+
+
+tools
+ look
+ like
+ next
+ year.
+ Last
+ year,
+ I
+
+
+was
+ talking
+ to
+ you
+ all
+ about
+ chat
+ and
+
+
+everybody
+ ignored
+ me
+ and
+ now
+ everybody's
+
+
+using
+ chat
+ this
+ year
+ and
+ it's
+ like
+ we're
+
+
+gonna
+ we're
+ going
+ to
+ fix
+ that
+ right
+ now.
+
+
+All right.
+ So,
+ here's
+ what
+ it's
+ looked
+
+
+like.
+ I'm
+ going
+ to
+ tell
+ you
+ right
+ now,
+
+
+everyone's
+ in
+ love
+ with
+ Cloud
+ Code.
+
+
+There's
+ probably
+ 40
+ competitors
+ out
+
+
+there.
+ Cloud
+ code
+ ain't
+ it.
+
+
+Completions
+ wasn't
+ it.
+ I
+ love
+ cloud
+
+
+code.
+ I
+ use
+ it
+ 14
+ hours
+ a
+ day.
+ I
+ mean,
+
+
+come
+ on.
+ But
+ it
+ ain't
+ it.
+ Developers
+
+
+aren't
+ adopting
+ it.
+ I'm
+ going
+ to
+ talk
+
+
+about
+ why
+ in
+ this
+ talk.
+ I'm
+ going
+ to
+
+
+talk
+ about
+ what
+ you
+ can
+ do
+ about
+ it
+ and
+
+
+what what
+ to
+ look
+ forward
+ to.
+ But
+ the
+
+
+reason
+ is
+ they're
+ too
+ hard.
+ Okay.
+ Uh
+
+
+cognitive
+ overhead.
+ Uh
+ they
+ lie,
+ cheat,
+
+
+and
+ steal.
+ Gene
+ and
+ I
+ talk
+ a
+ lot
+ about
+
+
+this
+ in
+ our
+ book,
+ all
+ the
+ different
+ ways
+
+
+that
+ they
+ can
+ lie,
+ cheat,
+ and
+ steal.
+ And
+
+
+>> [clears throat]
+
+
+>> uh
+ most
+ devs
+ just
+ don't
+ like
+ this.
+
+
+I
+ have
+ come
+ to
+ understand
+ that
+ claude
+
+
+code
+ is
+ very
+ much
+ like
+ a
+ drill
+ or
+ a
+ saw,
+
+
+an
+ electric
+ one,
+ right?
+ How
+ much
+ damage
+
+
+can
+ you
+ do
+ as
+ an
+ untrained
+ person
+ with
+ a
+
+
+drill,
+ right?
+ Or
+ a
+ saw.
+ Yeah.
+ How
+ much
+
+
+damage
+ can
+ you
+ do
+ as
+ an
+ untrained
+
+
+engineer
+ with
+ claw
+ code?
+ It's
+ real
+
+
+similar.
+ Yeah.
+ You
+ can
+ cut
+ your
+ foot
+
+
+off,
+
+
+but
+ you
+ can
+ also
+ be
+ really,
+ really
+
+
+skilled
+ with
+ it
+ and
+ do
+ really
+ precision
+
+
+work,
+ right?
+ like
+ a
+ craftsman.
+ The
+
+
+problem
+ is
+ software
+ is
+ infinitely
+ large.
+
+
+Our
+ ambition
+ is
+ infinitely
+ large.
+ And
+ so
+
+
+the
+ analogy
+ that
+ I
+ want
+ to
+ share
+ with
+
+
+you
+ is
+ next
+ year
+ will
+ be
+ the
+ year
+ from
+
+
+moving
+ from
+ saws
+ and
+ drills
+ to
+ CNC
+
+
+machines.
+ A
+ CNC
+ machine,
+ you
+ strap
+ a
+
+
+drill
+ on
+ and
+ you
+ give
+ it
+ coordinates
+ and
+
+
+it
+ moves
+ it
+ around
+ and
+ very
+ precise,
+
+
+right?
+ We've
+ been
+ doing
+ this
+ for
+
+
+centuries
+ and
+ we're
+ not
+ going
+ to
+ stop
+
+
+this
+ year.
+
+
+One
+ thing
+ I
+ hear
+ people
+ say
+ is,
+ "Well,
+
+
+the
+ models
+ are
+ plateaued."
+ This
+ is
+ real
+
+
+common.
+ Your
+ engineers
+ are
+ probably
+
+
+saying
+ this,
+ okay,
+ even
+ if
+ they
+
+
+plateaued,
+ we
+ have
+ still
+ discovered
+
+
+steam
+ and
+ electricity,
+ and
+ it's
+ going
+ to
+
+
+take
+ us
+ a
+ little
+ time
+ to
+ harness
+ it.
+ But
+
+
+it's
+ strictly
+ an
+ engineering
+ problem
+ at
+
+
+this
+ point.
+ All
+ code
+ within
+ a
+ year,
+ year
+
+
+and
+ a
+ half
+ will
+ be
+ written
+ by
+ giant
+
+
+grinding
+ machines
+ overseen
+ by
+ engineers
+
+
+who
+ no
+ longer
+ actually
+ look
+ at
+ the
+ code
+
+
+directly
+ anymore.
+
+
+Weird
+ new
+ world.
+ That
+ is
+ where
+ we
+ are
+
+
+going.
+ Oh
+ my
+ gosh.
+ Yep.
+ This
+ this
+ slide.
+
+
+So
+ Gan
+ and
+ I
+ talked
+ to
+ Andrew
+ Glover
+ who
+
+
+I
+ don't
+ know
+ is
+ he
+ here
+ from
+ OpenAI
+ and
+
+
+he
+ said
+ that
+ they
+ have
+ this
+ incredible
+
+
+dichotomy
+ unfolding
+ at
+ OpenAI
+ where
+ you
+
+
+know
+ some
+ percentage
+ of
+ their
+ engineers
+
+
+are
+ using
+ codecs
+ and
+ then
+ some
+ other
+
+
+percentage
+ a
+ larger
+ percentage
+ are
+ not
+
+
+using
+ codecs
+ and
+ the
+ difference
+ in
+
+
+productivity
+ is
+ so
+ staggering
+ that
+
+
+they're
+ having
+ now
+ alarms
+ going
+ off
+ at
+
+
+performance
+ review
+ time
+ because
+ how
+ do
+
+
+you
+ compare
+ these
+ these
+ two
+ engineers
+
+
+who
+ are
+ the
+ same
+ level,
+ same
+ title,
+ same
+
+
+everything
+ and
+ one
+ of
+ them
+ is
+ 10
+ times
+
+
+as
+ productive
+ as
+ the
+ other
+ one
+ by
+ any
+
+
+measure.
+
+
+And
+ the
+ answer
+ is
+ they're
+ freaking
+ out
+
+
+and
+ they
+ may
+ have
+ to
+ fire
+ 50%
+ of
+ their
+
+
+engineers.
+ And
+ this
+ is
+ unfolding
+ at
+
+
+other
+ companies,
+ too.
+
+
+Who
+ is
+ refusing
+ it?
+ It's
+ the
+ senior
+ and
+
+
+staff
+ engineers.
+ How
+ many
+ minutes
+ are
+ we
+
+
+at?
+
+
+>> Eight
+ [clears throat]
+ minutes.
+
+
+>> We're
+ perfect.
+ This
+ is
+ just
+ like
+ what
+
+
+happened
+ to
+ the
+ Swiss
+ mechanical
+ watch
+
+
+industry
+ over
+ a
+ couple
+ of
+ Well,
+ it
+ was
+
+
+built
+ up
+ for
+ a
+ couple
+ of
+ centuries
+ and
+
+
+then
+ courts
+ killed
+ it,
+ you
+ know,
+ within
+
+
+a
+ couple
+ of
+ years.
+ And
+ what
+ happened
+ was
+
+
+the
+ craftsmen
+ were
+ doing
+ the
+ same
+ thing
+
+
+our
+ staff
+ engineers
+ are
+ doing
+ today.
+ No
+
+
+cheap.
+
+
+That's
+ word
+ for
+ word,
+ right?
+ That's
+ what
+
+
+they
+ say.
+
+
+All
+ right.
+ I
+ didn't
+ know
+ where
+ to
+ put
+
+
+this
+ slide.
+ This
+ is
+ this
+ is
+ Claude's
+
+
+view
+ of
+ what
+ next
+ year
+ looks
+ like.
+ And
+ I
+
+
+I
+ was
+ just
+ like,
+ what
+ do
+ you
+ think
+ it's
+
+
+going
+ to
+ look
+ like?
+ And
+ it
+ actually
+ does
+
+
+kind
+ of
+ look
+ like
+ this.
+ Most
+ of
+ the
+
+
+words
+ will
+ be
+ spelled
+ correctly
+ in
+ in
+
+
+next
+ year.
+ But
+ this
+ is
+ a
+ lot
+ prettier
+
+
+than
+ cloud
+ code.
+
+
+Yeah,
+ this
+ is
+ what
+ it
+ has
+ to
+ look
+ like.
+
+
+Some
+ form
+ of
+ a
+ UI,
+ not
+ an
+ IDE.
+ This
+ is
+
+
+the
+ new
+ IDE.
+ Okay.
+ And
+ people
+ are
+
+
+building
+ it.
+ In
+ fact,
+ I
+ think
+ the
+
+
+company
+ that's
+ the
+ furthest
+ along
+ in
+
+
+this
+ is
+ Replet,
+ who
+ just
+ talked
+ to
+ you.
+
+
+I
+ think
+ it's
+ amazing
+ what
+ they're
+ doing.
+
+
+It's
+ absolutely
+ bravo,
+ right?
+ We
+ should
+
+
+not
+ be
+ all
+ chasing
+ tail
+ lights
+ and
+
+
+building
+ command
+ line
+ interfaces
+
+
+anymore.
+ All right.
+ and
+ and
+ more
+
+
+importantly,
+ Cloud
+ Code
+ and
+ all
+ of
+ its,
+
+
+you
+ know,
+ competitors,
+ they're
+ all
+ doing
+
+
+it
+ wrong
+ because
+ they're
+ building
+ the
+
+
+world's
+ biggest
+ ant.
+ Okay,
+ this
+ is
+ my
+ my
+
+
+buddy
+ Brendan
+ Hopper
+ at
+ Commonwealth
+
+
+Bank
+ of
+ Australia,
+ right?
+ He's
+ like,
+
+
+"Nature
+ builds
+ ant
+ swarms
+ and
+ Claude
+
+
+Code
+ built
+ this
+ huge
+ muscular
+ ant
+ that's
+
+
+just
+ going
+ to
+ bite
+ you
+ in
+ half
+ and
+ take
+
+
+all
+ your
+ resources,
+ right?
+ I
+ mean,
+ it's
+
+
+a
+ serious
+ problem,
+ right?
+ If
+ I
+ say
+
+
+please
+ analyze
+ this
+ codebase,
+ I,
+ you
+
+
+know,
+ go
+ to
+ the
+ expensive
+ model."
+ If
+ I
+
+
+say,
+ "Is
+ my
+ git
+ ignore
+ file
+ still
+
+
+there?"
+ I've
+ also
+ gone
+ to
+ the
+ expensive
+
+
+model,
+ right?
+ Everything
+ that
+ you
+ say
+
+
+goes
+ to
+ the
+ expensive
+ model.
+ So,
+ what's
+
+
+going
+ to
+ happen?
+ Whoa.
+ What
+ happened?
+ Oh
+
+
+gosh,
+
+
+my
+ slides
+ are
+ all
+ messed
+ up
+ now.
+
+
+>> Can
+ you
+ guys
+ see
+ them?
+
+
+>> No.
+
+
+>> Oh,
+ this
+ always
+ happens
+ to
+ me,
+ man.
+
+
+There
+ something
+ going
+ on.
+ All
+ right.
+ So,
+
+
+I
+ thought
+ of
+ a
+ really
+ cool
+ analogy
+
+
+called
+ the
+ diver
+ the
+ diver
+ metaphor,
+
+
+which
+ is
+ your
+ context
+ window
+ is
+ like
+ an
+
+
+oxygen
+ tank.
+ Okay.
+ This
+ is
+ why
+ these
+
+
+things
+ are
+ fundamentally
+ wrong.
+ Cuz
+
+
+you're
+ sending
+ a
+ diver
+ down
+ into
+ your
+
+
+code
+ base
+ underwater
+ to
+ swim
+ around
+ and
+
+
+take
+ care
+ of
+ stuff
+ for
+ you.
+ One
+ diver
+
+
+and
+ we're
+ like,
+ we're
+ going
+ to
+ give
+ him
+
+
+a
+ bigger
+ tank.
+ 1
+ million
+ tokens.
+ He's
+
+
+still
+ going
+ to
+ run
+ out
+ of
+ oxygen.
+ Like
+
+
+you
+ don't,
+ right?
+ You
+ should
+ send
+ a
+
+
+product
+ manager
+ diver
+ down
+ first
+
+
+and
+ then
+ a
+ coding
+ diver,
+ right?
+ And
+ then
+
+
+a
+ review
+ diver
+ and
+ a
+ test
+ diver
+ and
+ a
+
+
+get
+ merge
+ diver,
+ etc.
+ Right?
+ Nobody's
+
+
+doing
+ this.
+ Everyone's
+ building
+ a
+ bigger
+
+
+diver.
+ I
+ don't know
+ my
+ slides
+ are
+ all
+
+
+messed
+ up.
+ My
+ my my
+ talk
+ is
+ almost
+ done.
+
+
+But
+ um
+ what
+ we
+ do
+ is
+ as
+ engineers,
+ task
+
+
+decomposition,
+
+
+successive
+ refinement,
+ components,
+ black
+
+
+boxes.
+ This
+ is
+ how
+ it's
+ going
+ to
+ be
+
+
+built
+ in
+ the
+ future.
+ And
+ it's
+ going
+ to
+
+
+be
+ built
+ with
+ lots
+ and
+ lots
+ of
+ agents,
+
+
+not
+ just
+ one
+ agent.
+
+
+All
+ right.
+ Until
+ then,
+ I
+ think
+ we're
+ out
+
+
+of
+ time,
+ but
+ so
+ until
+ then,
+ learn
+ cloud
+
+
+code.
+ Give
+ up
+ your
+ IDE.
+ Swix
+ told
+ me
+ he
+
+
+wants
+ some
+ hot
+ takes,
+ so
+ I'll
+ give
+ you
+
+
+one.
+ If
+ you're
+ using
+ an
+ IDE
+ starting
+ on,
+
+
+I'll
+ give
+ you
+ till
+ January
+ 1st.
+
+
+You're
+ a
+ bad
+ engineer.
+
+
+There's
+ your
+ hot
+ take.
+ All
+ right,
+ folks.
+
+
+[applause]
+
+
+All right,
+ cheers.
+ Well,
+ that
+ that
+ was
+
+
+actually
+ my
+ talk.
+ Um,
+ [clears throat]
+
+
+uh,
+ learn
+ coding
+ agents
+ and
+ Oh,
+ yeah.
+
+
+Then
+ there's
+ this
+ guy.
+ Speaking
+ [snorts]
+
+
+of
+ bad
+ engineers,
+ so
+ this
+ is
+ this
+ is
+
+
+Jordan
+ Hubard.
+ uh
+ who
+ uh
+ who's
+ at
+ Nvidia
+
+
+and
+ he
+ tweeted
+ LinkedIn
+ a
+ really
+ nice
+
+
+post
+ on
+ how
+ to
+ get
+ the
+ most
+ out
+ of
+
+
+agents
+ and
+ this
+ guy
+ responded
+ with
+ this
+
+
+right
+ this
+ is
+ everyone
+ in
+ your
+ or
+ this
+
+
+is
+ 60%
+ of
+ your
+ org
+ right
+ here
+ this
+ guy's
+
+
+not
+ an
+ outlier
+ okay
+ the
+ backlash
+ is
+ very
+
+
+real
+ against
+ this
+ yeah
+ and
+ this
+ is
+ going
+
+
+to
+ be
+ a
+ problem
+ I'm
+ not
+ going
+ to
+ I'm
+ not
+
+
+going
+ to
+ share
+ with
+ you
+ I
+ don't
+ have
+
+
+time
+ to
+ share
+ how
+ to
+ fix
+ it
+ but
+ it's
+
+
+something
+ you
+ should
+ be
+ aware
+ of
+ and
+
+
+anyway
+ I'm
+ going
+ to
+ turn
+ it
+ over
+ to
+ my
+
+
+co-author
+ Jean
+ we
+ had
+ a
+ lot
+ to
+ talk
+
+
+about
+ he's
+ got
+ a
+ lot
+ to
+ go
+ so
+ let's
+ turn
+
+
+it
+ over
+ to
+ Jean
+
+
+>> yeah
+ Thank
+ you,
+ Steve.
+
+
+[applause]
+
+
+>> Yeah,
+ by
+ the
+ way,
+ um
+ I
+ have
+ let
+ me
+ start
+
+
+off
+ by
+ introducing
+ myself
+ and
+ then
+ I'm
+
+
+going
+ to
+ share
+ a
+ little
+ bit
+ about
+ like
+
+
+what
+ it's
+ been
+ working
+ like
+ uh
+ what's
+
+
+been
+ like
+ working
+ with
+ Steve
+ on
+ the
+ VIP
+
+
+coding
+ book.
+ Uh
+ and
+ so
+ just
+ a
+ little
+ bit
+
+
+about
+ myself.
+ I've
+ had
+ the
+ privilege
+ of
+
+
+studying
+ high
+ performing
+ technology
+
+
+organizations
+ for
+ 26
+ years.
+ And
+ that
+ was
+
+
+a
+ journey
+ that
+ started
+ when
+ I
+ was
+ a
+
+
+technical
+ founder
+ uh of
+ a
+ company
+ called
+
+
+Tripwire.
+ I
+ was
+ there
+ for
+ 13
+ years.
+ But
+
+
+our
+ mission
+ was
+ really
+ to
+ understand
+
+
+these
+ amazing
+ high
+ performing
+ technology
+
+
+organizations.
+ They
+ had
+ the
+ best
+ project
+
+
+due
+ date,
+ performance
+ and
+ development,
+
+
+the
+ best
+ operational
+ reliability
+ and
+
+
+stability
+ and
+ also
+ the
+ best
+ posture
+ of
+
+
+compliance
+ uh
+ security
+ and
+ compliance.
+
+
+So
+ we
+ want
+ to
+ understand
+ how
+ did
+ those
+
+
+amazing
+ organizations
+ make
+ their
+ good
+ to
+
+
+great
+ transformation.
+ So
+ we
+ got
+
+
+understand
+ how
+ did
+ how
+ do
+ other
+
+
+organizations
+ replicate
+ those
+ amazing
+
+
+outcomes
+ and
+ so
+ you
+ can
+ imagine
+ in
+ that
+
+
+26
+ year
+ journey
+ there
+ are
+ many
+
+
+surprises.
+ Among
+ the
+ biggest
+ surprise
+
+
+was
+ how
+ it
+ took
+ me
+ into
+ the
+ middle
+ of
+
+
+the
+ DevOps
+ movement
+ which
+ is
+ so
+ uh
+
+
+amazing
+ because
+ it
+ reshaped
+ technology
+
+
+organizations.
+ you
+ know,
+ it
+ changed
+ how
+
+
+test
+ and
+ operations
+ worked,
+ information
+
+
+security.
+ Um,
+ and
+ I
+ thought
+ that
+ would
+
+
+be
+ the
+ most
+ exciting
+ adventure
+ I'd
+ be
+ on
+
+
+in
+ my
+ career
+ until
+ I
+ met
+ Steve
+ Yaggi
+ in
+
+
+person.
+ And
+ so,
+ I've
+ admired
+ his
+ work
+
+
+for
+ over
+ 11
+ years.
+ And
+ so,
+ some
+ of
+ you
+
+
+may
+ have
+ read
+ this
+ memo
+ of
+ Jeff
+ Bezos's
+
+
+most
+ audacious
+ memo
+ of
+ how
+ in
+ early
+
+
+2000s
+ they
+ transformed
+ from
+ a
+ gigantic
+
+
+monolith
+ that
+ coupled
+ 3,500
+ engineers
+
+
+together,
+ so
+ none
+ of
+ them
+ had
+
+
+independent
+ action.
+ And
+ uh
+ he
+ talked
+
+
+about
+ how
+ all
+ teams
+ must
+ henceforth
+
+
+communicate
+ and
+ coordinate
+ only
+ through
+
+
+APIs.
+ No
+ back
+ doors
+ allowed.
+ Right?
+ Uh
+
+
+anyone
+ who
+ doesn't
+ do
+ this
+ will
+ be
+
+
+fired.
+ Thank
+ you
+ and
+ have
+ a
+ nice
+ day.
+
+
+And
+ the
+ amazing
+ person
+ who
+ chronicled
+
+
+says
+ number
+ seven
+ is
+ obviously
+ a
+ joke
+
+
+because
+ Bezos
+ doesn't
+ care
+ whether
+ you
+
+
+have
+ a
+ good
+ day
+ or
+ not.
+ And
+ this
+ is
+
+
+actually
+ enforced
+ by
+ Amazon
+ CIO
+ then
+
+
+Rick
+ Del.
+ And
+ so
+ it
+ turns
+ out
+ this
+ memo
+
+
+that
+ I've
+ been
+ quoting
+ for
+ 11
+ years
+ uh
+
+
+was
+ written
+ by
+ Steve
+ Yaggi
+ uh
+ which
+ was
+
+
+meant
+ to
+ be
+ a
+ private
+ uh
+ memo
+ on
+ Google+
+
+
+which
+ was
+ made
+ public
+ which
+ landed
+ him
+
+
+on
+ the
+ front
+ page
+ of
+ Wall
+ Street
+
+
+Journal.
+ Um
+ and
+ so
+ I
+ finally
+ met
+ him
+ in
+
+
+uh
+ June
+ and
+ it
+ turns
+ out
+ that
+ we
+ had
+
+
+many
+ things
+ in
+ common
+ uh
+ but
+ one
+ of
+ them
+
+
+was
+ this
+ uh
+ love
+ of
+ AI
+ and
+ this
+ sense
+
+
+that
+ AI
+ was
+ going
+ to
+ shape
+ coding
+ from
+
+
+underneath
+ us.
+ And
+ so
+ one
+ of
+ our
+ beliefs
+
+
+is
+ that
+ uh
+ the
+ AI
+ will
+ reshape
+
+
+technology
+ organizations
+ you
+ know
+ maybe
+
+
+even
+ 100
+ times
+ larger
+ than
+ what
+ agile
+
+
+cloud
+ CI/CD
+ and
+ mobile
+ did
+ you
+ know
+ 10
+
+
+years
+ ago
+ um
+ and
+ that
+ these
+ technology
+
+
+breakthroughs
+ not
+ just
+ reshape
+
+
+organizations
+ but
+ they
+ reshape
+ the
+
+
+entire
+ economy
+ the
+ entire
+ economy
+
+
+rearranges
+ itself
+ to
+ take
+ advantages
+ of
+
+
+these
+ you
+ know
+ wild
+ new
+ better
+ ways
+ of
+
+
+uh
+ uh
+ producing
+ things
+ and
+ and
+ uh
+ so
+
+
+over
+ the
+ last
+ year
+ and
+ a
+ half
+ we've
+ had
+
+
+a
+ chance
+ to
+ look
+ at
+ these
+ case
+ studies
+ I
+
+
+think
+ give
+ us
+ a
+ glimpse
+ of
+ what
+ these
+ uh
+
+
+what
+ the
+ shape
+ of
+ technology
+
+
+organizations
+ look
+ And
+ so
+ I'm
+ going
+ to
+
+
+share
+ with
+ that
+ what
+ we've
+ learned.
+ But
+
+
+here's
+ maybe
+ a
+ hint.
+ So
+ some
+ of
+ you
+ may
+
+
+know
+ the
+ work
+ of
+ Aen
+ Cochraftoft.
+ He
+ was
+
+
+a
+ cloud
+ architect
+ at
+ Netflix,
+ right?
+ He
+
+
+was
+ what
+ who
+ drove
+ uh
+ the
+ uh
+ entire
+
+
+Netflix
+ infrastructure
+ from
+ a
+ data
+
+
+center
+ uh
+ back
+ in
+ 2009
+ to
+ running
+
+
+entirely
+ in
+ the
+ AWS
+ cloud.
+ And
+ so
+ he
+
+
+wrote
+ uh
+ some
+ months
+ ago
+ in
+ 2011
+ some
+
+
+people
+ got
+ very
+ upset
+ in
+ uh
+
+
+infrastructure
+ and
+ operations
+ because
+
+
+they
+ called
+ it
+ noopops,
+ right?
+ And
+
+
+everyone
+ laughed
+ back
+ then,
+ but
+ he
+ said,
+
+
+"Oh,
+ don't
+ you
+ know
+ uh
+ it's
+ happening
+
+
+again.
+ And
+ this
+ time
+ it
+ might
+ be
+ called
+
+
+no
+ dev,
+ right?
+ Not
+ so
+ funny
+ now,
+ right?
+
+
+So
+ it's
+ it's
+ interesting,
+ right?
+ Because
+
+
+we
+ heard
+ this
+ amazing
+ presentation
+ from
+
+
+Zapier
+ about
+ like
+ how
+ support
+ ships
+ and
+
+
+turns
+ out
+ designers
+ are
+ shipping,
+ UX
+ is
+
+
+shipping,
+ right?
+ Anyone
+ who's
+ been
+
+
+frustrated
+ by
+ developers
+ uh
+ who,
+ you
+
+
+know,
+ say
+ get
+ in
+ line
+ and
+ you
+ have
+ to
+
+
+wait
+ quarters
+ or
+ years
+ or
+ maybe
+ never,
+
+
+right,
+ are
+ now
+ suddenly
+ in
+ a
+ position
+
+
+where
+ you
+ can
+ actually
+ vibe
+ code
+ your
+
+
+own
+ features
+ into
+ production,
+ right?
+ And
+
+
+that
+ reshapes
+ technology
+ organizations
+
+
+and
+ reshapes,
+ you
+ know,
+ potentially
+ the
+
+
+entire
+ economy.
+ And
+ so
+ uh
+ uh
+ Steve
+ and
+ I
+
+
+we've
+ had
+ the
+ privilege
+ of
+ watching
+ what
+
+
+happens
+ you
+ know
+ when
+ we
+ change
+ uh
+ you
+
+
+know
+ the
+ way
+ we
+ uh
+ deploy
+ right
+ it
+
+
+wasn't
+ so
+ long
+ ago
+ and
+ 10
+ years
+ ago
+ uh
+ I
+
+
+wrote
+ a
+ book
+ called
+ the
+ Phoenix
+ project
+
+
+where
+ it
+ was
+ all
+ about
+ the
+ catastrophic
+
+
+deployment
+ would
+ you
+ believe
+ uh
+ that
+ it
+
+
+was
+ you
+ know
+ 10
+ years
+ ago
+ 15
+ years
+ ago
+
+
+most
+ organizations
+ shipped
+ once
+ a
+ year
+
+
+right
+ and
+ so
+ I
+ got
+ to
+ work
+ on
+ a
+ project
+
+
+called
+ the
+ state
+ of
+ DevOps
+ research
+ it
+
+
+was
+ a
+ cross
+ population
+ study
+ that
+
+
+spanned
+ 36,000
+ respondents
+ uh
+ from
+ 2013
+
+
+to
+ 2019
+ and
+ what
+ we
+ found
+ uh
+ this
+ was
+
+
+Dr.
+ Nicole
+ Forsrin
+ and
+ Jez
+ Humble.
+ Um,
+
+
+and
+ what
+ we
+ found
+ was
+ that
+ these
+ high
+
+
+performers
+ ship
+ multiple
+ times
+ a
+ day,
+
+
+right?
+ They
+ can
+ ship
+ in
+ one
+ hour
+ or
+
+
+less.
+ And
+ you
+ know,
+ back
+ in
+ 2009,
+ people
+
+
+thought,
+ "Oh
+ my
+ gosh,
+ multiple
+
+
+deployments
+ per
+ day,
+ right?
+ That's
+
+
+reckless
+ and
+ irresponsible,
+ maybe
+ even
+
+
+immoral,
+ right?
+ What
+ sort
+ of
+ maniac
+
+
+would
+ deploy
+ multiple
+ times
+ a
+ day,
+
+
+right?
+ And
+ yet,
+ it's
+ very
+ common
+ place
+
+
+these
+ days.
+ In
+ fact,
+ if
+ you
+ want
+ to
+ have
+
+
+great
+ reliability
+ profiles,
+ you
+ want
+ to
+
+
+have
+ short
+ meantime
+ to
+ repair,
+ you
+ have
+
+
+to
+ do
+ smaller
+ deployments
+ more
+
+
+frequently."
+ And
+ I
+ think
+ we're
+ now
+
+
+seeing
+ these
+ kind
+ of
+ case
+ studies
+ that
+
+
+show
+ that
+ this
+ better
+ way
+ of
+ coding,
+
+
+right,
+ where
+ you
+ don't
+ type
+ in
+ code
+ by
+
+
+hand
+ might
+ be,
+ you
+ know,
+ just
+ a
+ vastly
+
+
+better
+ way
+ uh
+ to
+ create
+ value.
+ And
+ so
+
+
+our
+ definition
+ of
+ vibe
+ coding
+ that
+ we
+
+
+put
+ into
+ the
+ uh
+ vibe
+ coding
+ book
+ was
+
+
+that
+ it's
+ basically
+ anything
+ where
+ you
+
+
+don't
+ type
+ in
+ code
+ by
+ hand.
+ And
+ so
+ for
+
+
+some
+ of
+ those
+ of
+ you
+ who
+ don't
+
+
+understand
+ that,
+ that's
+ like
+ sort
+ of
+ a
+
+
+uh
+ typing
+ an
+ ID
+ hunched
+ over,
+ right?
+ And
+
+
+you're
+ actually
+ moving
+ your
+ fingers,
+
+
+right?
+ That's
+ sort
+ of
+ like
+ how
+ some
+
+
+people
+ go
+ into
+ a
+ dark
+ room
+ to
+ develop
+
+
+photographs,
+ right?
+ Believe
+ it
+ or
+ not,
+
+
+some
+ people
+ still
+ do
+ that.
+ Um
+ and
+ and
+
+
+what
+ I
+ that's
+ a
+ great
+ definition
+ that
+ we
+
+
+uh
+ loved
+ until
+ uh
+ Dar
+ Ammedday
+ u
+ uh
+ CEO
+
+
+and
+ co-founder
+ of
+ um
+ Anthropic
+ he
+ gave
+
+
+us
+ an
+ even
+ better
+ definition
+ right
+ the
+
+
+vibe
+ coding
+ is
+ really
+ the
+ iterative
+
+
+conversation
+ uh
+ that
+ results
+ in
+ AI
+
+
+writing
+ your
+ code
+ and
+ he
+ said
+ it's
+ on
+
+
+one
+ hand
+ a
+ beautiful
+ term
+ because
+ it
+
+
+evokes
+ this
+ different
+ way
+ of
+ coding
+ but
+
+
+he
+ said
+ it's
+ also
+ somewhat
+ misleading
+
+
+because
+ it
+ sounds
+ jokey
+ right
+ uh
+ but
+ he
+
+
+said
+ you
+ know
+ adanthropic
+ there's
+ no
+
+
+other
+ game
+ in
+ town
+ right
+ I
+ just
+ thought
+
+
+that
+ was
+ just
+ a
+ beautiful
+ way
+ to
+ evoke
+
+
+you
+ know
+ how
+ important
+ uh
+ vibe
+ coding
+
+
+is.
+ Uh
+ this
+ is
+ Dr.
+ Eric
+ Meyer.
+ Um
+ you
+
+
+he's
+ probably
+ considered
+ one
+ of
+ the
+
+
+greatest
+ programming
+ language
+ designers
+
+
+of
+ all
+ time.
+ Uh
+ he
+ was
+ part
+ of
+ Visual
+
+
+Basic,
+ CP,
+ Link,
+ Haskell.
+ He
+ created
+ the
+
+
+hack
+ programming
+ language
+ uh
+ that
+
+
+migrated
+ millions
+ of
+ lines
+ of
+ code
+ at
+
+
+Meta,
+ you
+ know,
+ within
+ a
+ year
+ uh
+
+
+bringing
+ static
+ type
+ checking
+ to
+ a
+ bunch
+
+
+of
+ PHP
+ programmers
+ and
+ he
+ said
+ we
+ are
+
+
+probably
+ going
+ to
+ be
+ the
+ last
+ generation
+
+
+of
+ developers
+ uh
+ to
+ write
+ code
+ by
+ hand.
+
+
+So
+ let's
+ have
+ fun
+ doing
+ it.
+ Um,
+ so
+ one
+
+
+of
+ the
+ things
+ and
+ uh
+ when
+ uh
+ Steve
+ and
+ I
+
+
+started
+ working
+ on
+ the
+ book
+ last
+
+
+November
+ was
+ uh
+ watching
+ him
+ spend
+
+
+hundreds
+ of
+ dollars
+ a
+ day
+ on
+ coding
+
+
+agents
+ uh
+ and
+ just
+ seemed
+ so
+ strange
+
+
+right
+ um
+ you
+ know
+ and
+ so
+ he's
+ maxing
+ out
+
+
+not
+ just
+ you
+ know
+ the
+ uh
+ the
+ monthly
+
+
+subscriptions
+ right
+ but
+ he's
+ actually
+
+
+you
+ know
+ going
+ way
+ above
+ and
+ beyond
+ that
+
+
+and
+ yet
+ uh
+ you
+ know
+ things
+ that
+ we're
+
+
+hearing
+ now
+ is
+ that
+ as
+ an
+ engineer
+ part
+
+
+of
+ my
+ job
+ is
+ that
+ I
+ need
+ to
+ be
+ spending
+
+
+as
+ much
+ on
+ tokens
+ per
+ day
+ as
+ my
+ salary
+
+
+right
+ so
+ you
+ know
+ that
+ think
+ about
+ like
+
+
+$500
+ to
+ $1,000
+ a
+ day,
+ right?
+ Because
+
+
+this
+ is
+ the
+ mechanical
+ advantage,
+ the
+
+
+cognitive
+ advantage
+ that
+ these
+ tools
+ are
+
+
+giving
+ us,
+ right?
+ And
+ as
+ an
+ engineer,
+
+
+right,
+ I'm
+ going
+ to
+ challenge
+ myself
+ to
+
+
+get
+ that
+ kind
+ of
+ value
+ to
+ deliver
+ value
+
+
+to
+ people
+ who
+ matter.
+ Um,
+ and
+ so
+ in
+ the
+
+
+book,
+ we
+ talk
+ about,
+ you
+ know,
+ why
+
+
+people
+ would
+ do
+ this,
+ right?
+ And
+ the,
+
+
+uh,
+ acronym
+ we
+ came
+ up
+ with
+ FAFO,
+ right?
+
+
+Uh,
+ the
+ most
+ obvious
+ one
+ is
+ F
+ for
+
+
+faster,
+ right?
+ Yeah,
+ that's
+ obviously
+
+
+true,
+ but
+ I
+ think
+ it's
+ the
+ most
+
+
+superficial
+ and
+ um
+ part
+ of
+ why
+ we
+ do
+
+
+this
+ because
+ uh
+ the
+ second
+ one
+ is
+ it
+
+
+lets
+ us
+ do
+ more
+ ambitious
+ things,
+ right?
+
+
+Uh
+ the
+ impossible
+ becomes
+ possible.
+ Uh
+
+
+so
+ that's
+ one
+ end
+ of
+ the
+ spectrum.
+ On
+
+
+the
+ other
+ end
+ of
+ the
+ spectrum,
+ you
+ know,
+
+
+the
+ uh
+ the
+ tedious
+ and
+ small
+ tasks
+
+
+become
+ free.
+ One
+ of the
+ things
+ I
+ uh
+ the
+
+
+uh
+ interview
+ of
+ the
+ cloud
+ code
+ team
+ that
+
+
+I
+ just
+ loved
+ was
+ uh
+ I
+ think
+ it
+ was
+
+
+Katherine,
+ she
+ was
+ said
+ um
+ uh
+ one
+ of
+ the
+
+
+things
+ we've
+ noticed
+ is
+ that
+ you
+ know
+
+
+when
+ customer
+ issues
+ come
+ up
+ uh
+ instead
+
+
+of
+ putting
+ them
+ on
+ a
+ jur
+ backlog
+ and
+ you
+
+
+know
+ arguing
+ about
+ it
+ in
+ the
+ grooming
+
+
+sessions
+ and
+ so
+ forth
+ right
+ we
+ just
+ fix
+
+
+it
+ on
+ the
+ spot
+ right
+ and
+ ship
+ to
+
+
+production
+ or
+ whatever
+ um
+ you
+ know
+
+
+within
+ 30
+ minutes
+ right
+ and
+ so
+ yes
+ it
+
+
+gets
+ recorded
+ but
+ you
+ know
+ that
+ whole
+
+
+sort
+ of
+ coordination
+ cost
+ you
+ know
+ just
+
+
+disappears
+ right
+ so
+ again
+ the
+ impossible
+
+
+becomes
+ possible
+ right
+ and
+ uh
+ the
+
+
+annoying
+ things
+ just
+ become
+ free.
+ The
+
+
+second
+ A
+ is
+ uh
+ um
+ you
+ know
+ the
+ ability
+
+
+to
+ do
+ things
+ alone
+ or
+ more
+ autonomously,
+
+
+right?
+ And
+ so
+ um
+ you
+ know
+ there's
+ really
+
+
+two
+ coordination
+ costs
+ are
+ being
+
+
+alleviated
+ here.
+ One
+ is
+ you
+ know
+ if
+ you
+
+
+ever
+ have
+ to
+ wait
+ for
+ a
+ developer
+ or
+ a
+
+
+team
+ of
+ developers,
+ you
+ know,
+ to
+ do
+ what
+
+
+you
+ need
+ to
+ do,
+ right?
+ You
+ have
+ to
+
+
+communicate
+ and
+ coordinate
+ and
+
+
+synchronize
+ and
+ prioritize
+ and
+ cajul
+ and
+
+
+escalate,
+ you
+ know,
+ do
+ all
+ sorts
+ of
+
+
+things
+ to
+ get
+ them
+ to
+ care
+ about
+ the
+
+
+problem
+ just
+ as
+ much
+ as
+ you
+ do,
+ right?
+
+
+And
+ you
+ know
+ now
+ you
+ know
+ with
+ these
+
+
+amazing
+ new
+ miraculous
+ technologies
+ you
+
+
+can
+ do
+ them
+ by
+ yourself
+ right
+ so
+ that's
+
+
+one
+ coordination
+ uh
+ tax
+ the
+ other
+ one
+ is
+
+
+like
+ even
+ if
+ you
+ get
+ someone
+ to
+ uh
+ care
+
+
+about
+ a
+ problem
+ as
+ much
+ as
+ you
+ uh
+ they
+
+
+can't
+ read
+ your
+ mind
+ right
+ and
+ what
+
+
+we're
+ finding
+ is
+ that
+ these
+ LLMs
+ are
+
+
+just
+ amazing
+ intermediation
+ vehicles
+
+
+right
+ um
+ you
+ know
+ just
+ through
+ an
+ LLM
+
+
+you
+ can
+ coordinate
+ with
+ other
+ functional
+
+
+specialties
+ right
+ through
+ a
+ markdown
+
+
+file
+ right
+ that's
+ not
+ the
+ end
+ right
+ but
+
+
+it's
+ just
+ this
+ amazing
+ way
+ uh
+ to
+ have
+
+
+these
+ high
+ bandwidth
+ coordination
+ so
+
+
+that
+ you
+ can
+ essentially
+ read
+ each
+
+
+other's
+ minds,
+ you
+ know,
+ because
+ shared
+
+
+outcomes
+ require
+ shared
+ goals
+ and
+ shared
+
+
+understanding.
+ The
+ second
+ F
+ is
+ fun,
+
+
+right?
+ Is
+ that
+ Steve
+ says
+ vibe
+ coding
+ is
+
+
+addictive.
+ This
+ is
+ so
+ true.
+ I
+ mean,
+ I
+
+
+cannot
+ I
+ think
+ what
+ I
+ love
+ about
+ the
+
+
+book
+ is
+ that
+ it's
+ a
+ story
+ about
+ two
+ guys
+
+
+who
+ both
+ thought
+ their
+ best
+ days
+ of
+
+
+coding
+ were
+ behind
+ them,
+ right?
+ And
+
+
+found
+ that,
+ you
+ know,
+ it's
+ entirely
+ the
+
+
+opposite.
+ Um,
+ and
+ I've
+ had
+ so
+ much
+ fun
+
+
+and
+ uh,
+ you
+ know,
+ I'm
+ having
+ to
+ force
+
+
+myself
+ to
+ go
+ to
+ sleep
+ at
+ night
+ because
+
+
+otherwise
+ I'd
+ be
+ up
+ till
+ 2
+ or
+ 3
+ in
+ the
+
+
+morning
+ every
+ night.
+ uh
+ and
+ you
+ know
+ so
+
+
+it's
+ not
+ all
+ great
+ but
+ it
+ certainly
+
+
+beats
+ being
+ boring
+ or
+ tedious
+ or
+ you
+
+
+know
+ horrible
+ and
+ then
+ optionality
+ you
+
+
+know
+ one
+ of
+ the
+ things
+ that
+ uh
+ I
+ love
+
+
+about
+ Switch
+ is
+ that
+ he
+ has
+ a
+ shared
+
+
+love
+ of
+ creating
+ option
+ value
+ and
+ he
+
+
+told
+ us
+ last
+ night
+ that
+ option
+ value
+ is
+
+
+also
+ important
+ for
+ poker
+ players
+ right
+
+
+because
+ you
+ never
+ want
+ to
+ paint
+ yourself
+
+
+in
+ a
+ corner
+ so
+ option
+ value
+ is
+ um
+ one
+ of
+
+
+the
+ biggest
+ creators
+ of
+ economic
+ value
+
+
+right
+ modularity
+ the
+ reason
+ why
+ it's
+ so
+
+
+powerful
+ is
+ because
+ it
+ creates
+ option
+
+
+value
+ uh
+ and
+ so
+ just
+ the
+ fact
+ that
+ you
+
+
+can
+ have
+ so
+ many
+ more
+ swings
+ at
+ bat
+ you
+
+
+can
+ do
+ so
+ many
+ more
+ parallel
+ experiments
+
+
+right
+ this
+ is
+ what
+ v
+ coding
+ allows
+ so
+
+
+this
+ is
+ gives
+ us
+ confidence
+ that
+ you
+
+
+know
+ this
+ is
+ not
+ just
+ uh
+ this
+ is
+ a
+ very
+
+
+powerful
+ tool
+
+
+um
+ uh
+ here's
+ a
+ quote
+ from
+ Andy
+ Glover
+
+
+that
+ uh
+ Steve
+ Yaggi
+ said
+ is
+ that
+ you
+
+
+know
+ as
+ um
+ for
+ people
+ who
+ have
+ this
+ aha
+
+
+moment
+ and
+ position
+ uh
+ you
+ know
+ I
+ think
+
+
+the
+ instinct
+ is
+ how
+ do
+ we
+ elevate
+
+
+everyone's
+ productivity
+ to
+ be
+ as
+
+
+productive
+ as
+ you
+ are
+ now
+ being
+ um
+ you
+
+
+know
+ that
+ since
+ you've
+ had
+ your
+ aha
+
+
+moment
+ so
+ uh
+ let
+ me
+ share
+ with
+ you
+ maybe
+
+
+some
+ of
+ our
+ top
+ kind
+ of
+ uh
+ exciting
+ case
+
+
+studies
+ that
+ kind
+ of
+ give
+ us
+ a
+ hint
+ of
+
+
+the
+ future.
+ So
+ uh
+ I
+ brought
+ him
+ to
+ this
+
+
+conference
+ called
+ the
+ enterprise
+
+
+technology
+ leadership
+ summit
+ for
+ uh
+ 11
+
+
+years
+ now
+ and
+ Swix
+ we
+ had
+ uh
+ the
+ honor
+
+
+of
+ having
+ Swix
+ there
+ talking
+ about
+ the
+
+
+rise
+ of
+ the
+ AI
+ engineer
+ just
+ this
+
+
+amazing
+ prognostication.
+ Uh
+ this
+ year
+ we
+
+
+had
+ a
+ series
+ of
+ amazing
+ uh
+ case
+ studies.
+
+
+One
+ was
+ uh
+ Bruno
+ Passos.
+ spoke
+ this
+ year
+
+
+uh
+ last
+ year
+ at
+ this
+ conference
+ and
+ he
+
+
+presented
+ on
+ uh
+ their
+ in
+ their
+ evolving
+
+
+experiment
+ to
+ elevate
+ developer
+
+
+productivity
+ across
+ 3,000
+ developers.
+ Um
+
+
+and
+ this
+ is
+ at
+ Booking.com,
+ the
+ world's
+
+
+largest
+ travel
+ agency
+ and
+ uh
+ they're
+
+
+finding
+ that
+ they're
+ getting
+ double-
+
+
+digit
+ increase
+ in
+ productivity,
+ right?
+
+
+Uh
+ mergers
+ are
+ going
+ in
+ quicker,
+ peer
+
+
+review
+ times
+ are
+ uh
+ smaller
+ and
+ and
+ so
+
+
+forth,
+ right?
+ And
+ so
+ that's
+ just
+ we
+ feel
+
+
+like
+ that's
+ a
+ incomplete
+ view
+ of
+ uh
+ what
+
+
+people
+ are
+ achieving.
+ Uh
+ this
+ is
+ Shri
+
+
+Balakrishnan.
+ uh
+ he
+ was
+ head
+ of
+ product
+
+
+and
+ technology
+ at
+ uh
+ Travelopia.
+ Uh
+ so
+
+
+they're
+ a
+ $ 1.5
+ billion
+ a
+ year
+ uh
+ travel
+
+
+company
+ and
+ one
+ of
+ the
+ things
+ that
+ uh
+ he
+
+
+said
+ is
+ that
+ uh
+ you
+ know
+ they
+ were
+ able
+
+
+to
+ uh
+ replace
+ a
+ legacy
+ application
+ uh
+ in
+
+
+6
+ weeks
+ with
+ a
+ pair
+ of
+ uh
+ with
+ a
+ very
+
+
+small
+ team.
+ In
+ fact
+ one
+ of
+ his
+ uh
+
+
+conclusions
+ is
+ that
+ before
+ we
+ would
+ need
+
+
+a
+ team
+ of
+ eight
+ people
+ to
+ do
+ something
+
+
+meaningful,
+ right?
+ Six
+ developers,
+ a
+ UX
+
+
+person
+ and
+ a
+ product
+ owner.
+ And
+ he
+ said
+
+
+maybe
+ these
+ days
+ it
+ might
+ be
+ two.
+ A
+
+
+developer
+ and
+ you
+ know
+ a
+ a
+ domain
+
+
+expert.
+ In
+ other
+ words,
+ as
+ Kent
+ Beck
+
+
+said,
+ a
+ person
+ with
+ a
+ problem
+ and
+ a
+
+
+person
+ who
+ can
+ solve
+ it,
+ right?
+ Uh
+ maybe
+
+
+maybe
+ a
+ pair
+ of
+ those
+ teams,
+ right?
+ And
+
+
+so
+ that's
+ going
+ to
+ reshape
+ I
+ think
+ you
+
+
+know
+ how
+ they
+ can
+ go
+ further
+ and
+ faster.
+
+
+Uh
+ so
+ again,
+ maybe
+ just
+ a
+ hint
+ of
+ what
+
+
+teams
+ will
+ look
+ like
+ in
+ the
+ future.
+ This
+
+
+is
+ the
+ one
+ that
+ excites
+ me
+ most.
+ This
+ is
+
+
+Dr.
+ Top
+ Pal.
+ Uh
+ he
+ helped
+ drive
+ the
+
+
+DevOps
+ movement
+ at
+ Capital
+ One.
+ Um
+ and
+
+
+he's
+ now
+ at
+ uh
+ uh
+ Fidelity.
+ And
+ so
+ um
+
+
+among
+ other
+ things
+ he
+ owns
+ an
+
+
+application
+ uh
+ that
+ is
+ the
+ application
+
+
+you
+ go
+ to
+ asks
+ which
+ applications
+ you
+
+
+know
+ the
+ 25,000
+ applications
+ there
+ have
+
+
+log
+ 4j
+ right
+ and
+ uh
+ it's
+ his
+ team
+ and
+
+
+he's
+ had
+ this
+ vision
+ of
+ what
+ this
+
+
+application
+ should
+ look
+ like
+ uh
+ but
+
+
+every
+ time
+ he
+ asked
+ like
+ can
+ can
+ we
+
+
+build
+ it
+ his
+ team
+ would
+ say
+ it
+ would
+
+
+take
+ about
+ 5
+ months
+ right
+ and
+ we'd
+ hire
+
+
+need
+ to
+ hire
+ a
+ front-end
+ person
+ and
+
+
+[clears throat]
+ he
+ got
+ so
+ frustrated
+
+
+that
+ he
+ spent
+ 5
+ days
+ just
+ vibe
+ coding
+ it
+
+
+by
+ himself
+ right
+ uh
+ you
+ know
+ directly
+
+
+accessing
+ read
+ only
+ the
+ neo4
+ 4j
+ uh
+
+
+database
+ um
+ and
+ put
+ it
+ into
+ production,
+
+
+right?
+ And
+ so
+ I
+ think
+ we're
+ seeing
+ a
+
+
+world
+ where
+ um
+ you
+ know
+ leaders
+ even
+
+
+leaders
+ with
+ their
+ own
+ teams
+ are
+
+
+frustrated
+ saying
+ hey
+ I
+ can
+ do
+ this
+ uh
+
+
+can
+ I
+ do
+ this
+ better
+ myself
+ not
+ better
+
+
+just
+ can
+ I
+ prove
+ that
+ it
+ can
+ be
+ done
+ and
+
+
+uh
+ by
+ the
+ way
+ what
+ happened
+ afterwards
+
+
+um
+ he
+ was
+ looking
+ around
+ who
+ can
+ help
+ me
+
+
+maintain
+ my
+ application
+ production
+ and
+
+
+all
+ the
+ senior
+ engineers
+ like
+ not
+ me.
+ So
+
+
+enter
+ uh
+ Swathy
+ the
+ most
+ junior
+ engineer
+
+
+on
+ the
+ team
+ uh
+ who
+ is
+ helping
+ maintain
+
+
+this
+ application
+ and
+ probably
+ outarning
+
+
+you
+ know
+ everybody
+ in
+ the
+ organization
+
+
+uh
+ and
+ interestingly
+ uh
+ he
+ he's
+ also
+
+
+getting
+ more
+ headcount
+ because
+ the
+
+
+number
+ of
+ consumers
+ of
+ this
+ application
+
+
+just
+ increased
+ by
+ 10fold
+ right
+ so
+ who
+
+
+saw
+ that
+ coming
+ right
+ um
+ so
+ uh
+ here's
+
+
+John
+ Rouseer
+ he's
+ senior
+ director
+ of
+
+
+engineering
+ at
+ Cisco
+ security
+ and
+ he
+
+
+convinces
+ SVP
+ to
+ um
+ require
+ 100
+ of
+ the
+
+
+top
+ leaders
+ inside
+ of
+ Cisco
+
+
+to
+ vibe
+ code
+ one
+ feature
+ into
+ production
+
+
+in
+ a
+ quarter
+ that
+ ended
+ last
+ month,
+
+
+[laughter]
+ right?
+ And
+ so,
+ um,
+ you
+ know,
+
+
+we're
+ actually
+ getting
+ a
+ chance
+ to
+ be
+
+
+able
+ to
+ survey
+ those
+ people,
+ right?
+ Who
+
+
+finished?
+ Uh,
+ you
+ know,
+ uh,
+ how
+ many
+
+
+completed,
+ didn't
+ complete,
+ partially
+
+
+completed,
+ etc.
+ And
+ of
+ those
+ who
+
+
+completed,
+ right,
+ what
+ was
+ what
+ aha
+
+
+moment
+ did
+ they
+ have?
+ Uh,
+ as
+ a
+ leader,
+
+
+what's
+ the
+ magnitude
+ and
+ direction
+ of
+
+
+what
+ they
+ want
+ to
+ do?
+ And
+ so,
+ we're
+
+
+going to
+ go
+ in
+ and
+ study
+ that.
+ And
+ I
+
+
+just
+ I
+ my
+ prediction
+ is
+ that
+ we're
+ going
+
+
+to
+ see
+ parts
+ of
+ that
+ organization
+ get
+
+
+reshaped
+ as
+ leaders
+ realize
+ kind
+ of
+
+
+what's
+ possible.
+ Everything
+ from
+
+
+strategy
+ to
+ processes
+ and
+ so
+ forth.
+ And
+
+
+so
+ let
+ me
+ just
+ share
+ with
+ you
+ one
+ um
+ you
+
+
+know
+ thing
+ that
+ really
+ excites
+ me
+ which
+
+
+is
+ uh
+ I
+ got
+ a
+ chance
+ to
+ uh
+ get
+ back
+ into
+
+
+the
+ state
+ of
+ DevOps
+ research
+ the
+ Dora
+
+
+study
+ with
+ uh
+ um
+ the
+ Google
+ cloud
+ team
+
+
+and
+ one
+ of the
+ things
+ that
+ didn't
+ make
+
+
+into
+ the
+ report
+ that
+ I
+ just
+ found
+ really
+
+
+exciting
+ was
+ around
+ this.
+ It
+ was
+ like
+
+
+what
+ how
+ much
+ do
+ people
+ trust
+ AI?
+ And
+
+
+we're
+ using
+ a
+ very
+ strange
+ definition
+ of
+
+
+trust,
+ which
+ is
+ to
+ what
+ degree
+ can
+ I
+
+
+predict
+ how
+ the
+ other
+ party
+ will
+ act
+ and
+
+
+react,
+ right?
+ Because
+ the
+ more
+ you
+ trust
+
+
+the
+ other
+ party,
+ right,
+ you
+ can
+ give
+
+
+them
+ bigger
+ requests,
+ you
+ can
+ use
+ fewer
+
+
+words,
+ you
+ have
+ less
+ need
+ for
+ feedback,
+
+
+right?
+ It's
+ the
+ whole
+ notion
+ of
+ finger
+
+
+spits
+ and
+ fuel,
+ right?
+ Like
+ you
+ know
+ how
+
+
+many
+ of
+ the
+ 10,000
+ hours
+ that
+ requires
+
+
+to
+ be
+ good
+ at
+ anything
+ have
+ you
+ used
+ to
+
+
+get
+ good
+ at
+ AI?
+ And
+ one
+ of
+ the
+ stunning
+
+
+findings
+ was
+ that
+ it's
+ this
+ line.
+ So
+ on
+
+
+the
+ x-axis
+ is
+ how
+ long
+ have
+ you
+ been
+
+
+using
+ AI
+ tools?
+ Y
+ is
+ how
+ much
+ do
+ you
+
+
+trust
+ it?
+ Right?
+ Right?
+ And
+ the
+ longer
+
+
+you
+ use
+ AI,
+ right,
+ the
+ more
+ you
+ trust
+
+
+it,
+ right?
+ So
+ every
+ every
+ person
+ who
+
+
+says,
+ "I
+ tried
+ it
+ and
+ it's
+ terrible
+ at
+
+
+coding,"
+ right?
+ On
+ what
+ basis
+ did
+ they
+
+
+make
+ that
+ conclusion
+ after
+ maybe
+ using
+
+
+for
+ an
+ hour
+ or
+ two?
+ And
+ what
+ this
+ shows
+
+
+us
+ is
+ that
+ uh
+ you
+ know
+ it
+ requires
+
+
+practice,
+ right?
+ And
+ and
+ this
+ is
+
+
+probably
+ a
+ teachable
+ skill.
+ Um
+ so
+ length
+
+
+of
+ time
+ on
+ the
+ x-axis
+ is
+ a
+ very
+
+
+incomplete
+ expression,
+ right?
+ It's
+ like
+
+
+frequency
+ and
+ intensity
+ and
+ how
+ many
+
+
+hours,
+ but
+ it's
+ there's
+ signal
+ there.
+ So
+
+
+it
+ just
+ shows
+ that
+ uh
+ you
+ know
+ part
+ of
+
+
+your
+ job
+ is
+ to
+ help
+ other
+ people
+ have
+
+
+the
+ aha
+ moment
+ and
+ then
+ help
+ them
+ you
+
+
+practice
+ right
+ so
+ they
+ get
+ very
+ very
+
+
+good
+ at
+ it
+ so
+ they
+ can
+ use
+ every
+ one
+ of
+
+
+these
+ amazing
+ technologies
+ to
+ achieve
+
+
+their
+ goals.
+ So
+ uh
+ I'll
+ leave
+ you
+ with
+
+
+one
+ last
+ kind
+ of
+ vision.
+ Steve
+ and
+ I
+ we
+
+
+did
+ a
+ vibe
+ coding
+ workshop
+ for
+ leaders
+
+
+um
+ back
+ six
+ weeks
+ ago
+ and
+ what
+ was
+
+
+amazing
+ to
+ me
+ was
+ in
+ the
+ 3
+ hours
+ we
+ had
+
+
+a
+ 100%
+ completion
+ rate.
+ Everyone
+ built
+
+
+something,
+ you
+ know,
+ they
+ built
+ a
+ data
+
+
+visualization
+ tool.
+ In
+ fact,
+ uh,
+ one
+
+
+person
+ uh,
+ built
+ a
+ an
+ iOS
+ app
+ and
+
+
+another
+ person
+ actually
+ got
+ it
+ into
+ the
+
+
+review
+ queue
+ in
+ the
+ Apple
+ iOS
+ app
+ store,
+
+
+[laughter]
+ right?
+ Which
+ is
+ which
+ is
+
+
+absolutely
+ astonishing.
+ Uh,
+ and
+ here's
+ a
+
+
+guy
+ named
+ Roger
+ Safner.
+ He
+ said,
+ "I
+ used
+
+
+to
+ be
+ a
+ C
+ MVP
+ way
+ back
+ in
+ the
+ day.
+ I
+
+
+haven't
+ coded
+ in
+ 15
+ years."
+ Uh,
+ and
+ he's
+
+
+showing
+ off
+ an
+ app
+ that
+ helped
+ him
+
+
+automate
+ the
+ process
+ of
+ getting
+ checked
+
+
+in
+ to
+ Southwest
+ Airlines
+ until
+ the
+ bot
+
+
+detection
+ tools
+ come
+ off.
+ But
+ look
+ at
+
+
+look
+ at
+ the
+ expression
+ on
+ his
+ face.
+ And
+
+
+so
+ I
+ think
+ uh
+ what
+ we're
+ seeing
+ is
+ like
+
+
+what
+ happens
+ when
+ support
+ ships
+ right
+
+
+and
+ support
+ codes
+ and
+ ships
+ when
+ leaders
+
+
+code
+ and
+ ship.
+ And
+ there's
+ no
+ doubt
+ in
+
+
+my
+ mind
+ that
+ this
+ will
+ reshape
+ uh
+
+
+technology
+ organizations.
+ If
+ you're
+ one
+
+
+of
+ those,
+ Stephen,
+ I
+ want
+ to
+ talk
+ to
+
+
+you,
+ right?
+ Because
+ you
+ are
+ on
+ the
+
+
+frontier
+ of
+ something
+ really,
+ really
+
+
+important.
+ I'll
+ share
+ with
+ you
+ a
+ couple
+
+
+quotes.
+ Here's
+ from
+ a
+ technology
+ leader.
+
+
+When
+ I
+ told
+ my
+ team
+ that
+ I
+ wrote
+ an
+ app
+
+
+that,
+ you
+ know,
+ an
+ AI
+ wrote
+ 60,000
+ lines
+
+
+of
+ code
+ and
+ I
+ haven't
+ looked
+ at
+ any
+ of
+
+
+it,
+ they
+ all
+ looked
+ at
+ me
+ as
+ if
+ they
+
+
+wished
+ I
+ were
+ dead.
+
+
+Um,
+ we've
+ uh
+ we've
+ had
+ these
+ stupid
+
+
+problems
+ in
+ legacy
+ applications
+ that
+
+
+have
+ been
+ there
+ for
+ over
+ a
+ decade.
+ We
+
+
+got
+ a
+ group
+ of
+ senior
+ engineers
+
+
+together.
+ We
+ used
+ AI
+ to
+ generate
+ a
+ fix
+
+
+and
+ we
+ submitted
+ PR
+ and
+ the
+ team
+
+
+accepted
+ it.
+ Right?
+ Unlike
+ the
+ time
+ when
+
+
+they
+ said
+ it
+ was
+ AI
+ generated
+ and
+ they
+
+
+rejected
+ it
+ as
+ AI
+ slop,
+ right?
+ So
+ this
+
+
+is
+ maybe
+ happening
+ in
+ your
+
+
+organizations.
+ Um,
+ our
+ code
+ velocity
+ is
+
+
+so
+ high.
+ Uh,
+ we've
+ concluded
+ that
+ we
+ can
+
+
+only
+ have
+ one
+ engineer
+ per
+ repo,
+ right?
+
+
+Because
+ of
+ merge
+ conflicts,
+ right?
+ So
+ we
+
+
+haven't
+ figured
+ out
+ the
+ coordination
+
+
+cost
+ uh
+ mechanisms
+ yet.
+ And
+ so
+ like
+ all
+
+
+these
+ were
+ some
+ of
+ the
+ lessons
+ that
+ went
+
+
+into
+ the
+ vibe
+ coding
+ book.
+ Thank
+ you
+ for
+
+
+everyone
+ who
+ were
+ at
+ the
+ signing
+
+
+yesterday.
+ And
+ uh
+ if
+ you're
+ interested
+
+
+in
+ any
+ of
+ the
+ talks
+ we
+ referenced
+ and
+
+
+excerpts
+ of
+ our
+ book
+ in
+ uh
+ and
+ basically
+
+
+uh
+ all
+ the
+ links
+ that
+ are
+ in
+ this
+
+
+presentation,
+ just
+ send
+ an
+ email
+ to
+ real
+
+
+genelies.com
+
+
+subject
+ line
+ vibe
+ and
+ you'll
+ get
+ an
+
+
+automated
+ response
+ in
+ a
+ minute
+ or
+ two.
+
+
+So
+ with
+ that,
+ Steve
+ and
+ I
+ thank
+ you
+ for
+
+
+your
+ time
+ and
+ we
+ were
+ around
+ all
+ week.
+
+
+Thanks
+ all.
+ [applause]
+
+
+Heat.
+ [music]
+
+
+[music]
