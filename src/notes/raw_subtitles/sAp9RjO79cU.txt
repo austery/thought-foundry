@@ -1,0 +1,14519 @@
+What
+ is
+ the
+ scale
+ of
+ the
+ company
+ from
+ an
+
+
+engineer?
+
+
+>> When
+ you
+ add
+ that
+ up,
+ we
+ have
+ more
+ than
+
+
+a
+ trillion
+ [music]
+ events
+ that
+ we're
+
+
+capturing
+ every
+ day
+ between
+ consumer
+
+
+interactions,
+ things
+ that
+ are
+ happening
+
+
+across
+ products
+ and
+ services
+ that
+
+
+support
+ decision
+ making.
+
+
+>> Live
+ was
+ a
+ big
+ launch
+ last
+ year.
+
+
+>> We
+ had
+ a
+ lot
+ of
+ learnings
+ from
+ Paul
+
+
+Tyson
+ because
+ it
+ was
+ such
+ a
+ large
+ event.
+
+
+I've
+ often
+ mentioned
+ it
+ was
+ the
+ world's
+
+
+largest,
+ right?
+
+
+>> 65
+ million
+ concurrent
+ streams.
+ Watching
+
+
+that
+ tick
+ up,
+ I
+ think
+ one
+ of
+ our
+ biggest
+
+
+ever
+ days
+ of
+ signups.
+ There
+ were
+
+
+probably
+ a
+ hundred
+ people
+ on
+ site.
+ I
+ was
+
+
+sitting
+ in
+ a
+ room
+ with
+ maybe
+ 30
+ or
+ 40
+
+
+both
+ engineers
+ and
+ data
+ scientists.
+ We
+
+
+had
+ our
+ laptops
+ and
+ makeshift
+ screens
+
+
+sitting
+ there.
+ When
+ I
+ think
+ about
+ where
+
+
+we
+ [music]
+ were
+ for
+ Paul
+ Tyson,
+ I
+ joke
+
+
+with
+ people,
+ I
+ feel
+ like
+ I
+ lost
+ 10
+ years
+
+
+of
+ my
+ life
+ in
+ that
+ one
+ night.
+ We
+ don't
+
+
+have
+ formal
+ performance
+ reviews,
+ which
+
+
+is
+ probably
+ the
+ first
+ unusual
+ thing.
+ So,
+
+
+the
+ way
+ we
+ approach
+ it
+ at
+ Netflix
+ is
+
+
+>> Netflix
+ needs
+ your
+ introduction,
+ but
+ it
+
+
+scale
+ can
+ still
+ surprise
+ many
+ people.
+
+
+But
+ what
+ is
+ it
+ like
+ to
+ work
+ at
+ a
+
+
+streaming
+ company
+ as
+ a
+ software
+
+
+engineer?
+ I
+ sat
+ down
+ with
+ Netflix
+ CTO
+
+
+Elizabeth
+ Stone
+ to
+ get
+ more
+ details.
+
+
+[music]
+ In
+ today's
+ conversation,
+ we
+
+
+cover
+ the
+ unique
+ engineering
+ challenges
+
+
+at
+ Netflix,
+ including
+ the
+ learnings
+ from
+
+
+3
+ years
+ of
+ Netflix
+ live.
+ Netflix's
+
+
+engineering
+ principles
+ [music]
+ and
+ why
+
+
+Elizabeth's
+ favorite
+ is
+ yearn
+ to
+ learn.
+
+
+How
+ Netflix
+ has
+ no
+ performance
+ reviews
+
+
+and
+ what
+ they
+ do
+ instead.
+ [music]
+ How
+
+
+the
+ company
+ uses
+ AI
+ tools
+ and
+ why
+ anime
+
+
+detection
+ and
+ analysis
+ is
+ a
+ great
+ use
+
+
+case
+ that
+ they
+ found
+ for
+ them.
+ And
+ many
+
+
+more
+ details.
+ If
+ you're
+ interested
+ in
+
+
+understanding
+ more
+ about
+ how
+ Netflix
+
+
+works
+ as
+ a
+ software
+ engineer
+ and
+ what
+
+
+[music]
+ it
+ takes
+ to
+ do
+ well
+ in
+ the
+ kind
+
+
+of
+ environment
+ they
+ operate
+ in,
+ then
+
+
+this
+ episode
+ is
+ for
+ you.
+ This
+ podcast
+
+
+episode
+ is
+ presented
+ by
+ Statsig,
+ the
+
+
+Unifi
+ platform
+ for
+ flags,
+ analytics,
+
+
+experiments,
+ and
+ more.
+ Check
+ out
+ the
+
+
+show
+ notes
+ below
+ to
+ learn
+ more
+ about
+
+
+them
+ and
+ our
+ other
+ season
+ sponsor.
+ So,
+
+
+Elizabeth,
+ welcome
+ to
+ the
+ podcast.
+
+
+>> Thank
+ you.
+ Thank
+ you
+ for
+ having
+ me
+ and
+
+
+welcome
+ to
+ Netflix.
+
+
+>> It
+ is
+ so
+ nice
+ to
+ be
+ here
+ at
+ Netflix.
+ I'm
+
+
+sitting
+ in
+ a
+ director
+ chair.
+ It
+ has
+ it
+
+
+has
+ the
+ Netflix
+ on
+ it.
+ So,
+ it's
+ inside
+
+
+the
+ Netflix
+ offices,
+ which
+ which
+ truly
+
+
+feels
+ special.
+ And
+ it
+ just
+ reminds
+ me
+
+
+that
+ that
+ Netflix
+ is
+ an
+ entertainment
+
+
+company
+ at
+ its
+ core.
+
+
+>> Yeah.
+ A
+ lot
+ of
+ magic
+ happens
+ here.
+ Even
+
+
+in
+ the
+ tech
+ teams,
+ we
+ take
+ things
+ like
+
+
+video
+ very
+ seriously.
+
+
+>> A
+ lot
+ of
+ people
+ know
+ Netflix,
+ of
+ course,
+
+
+from
+ from
+ the
+ video
+ offerings,
+ the
+
+
+films,
+ the
+ movies.
+ Behind
+ the
+ scenes,
+
+
+what
+ is
+ the
+ scale
+ of
+ the
+ company
+ from
+
+
+from
+ an
+ engineer?
+ How
+ how
+ can
+ I
+ make
+
+
+sense
+ of
+ how
+ large
+ this
+ operation
+ is?
+
+
+>> It's
+ probably
+ larger
+ than
+ people
+
+
+realize.
+ Very
+ often
+ I'll
+ get
+ questions
+
+
+from
+ people
+ in
+ my
+ personal
+ life
+ saying
+
+
+well
+ how
+ many
+ engineers
+ can
+ it
+ really
+
+
+take
+ to
+ build
+ the
+ the
+ Netflix
+ product?
+
+
+Um
+ so
+ first
+ of
+ all
+ it
+ takes
+ quite
+ a
+ few
+
+
+when
+ you
+ think
+ about
+ how
+ do
+ you
+ make
+ the
+
+
+tech
+ work
+ so
+ well
+ that
+ it's
+ basically
+
+
+seamless
+ in
+ some
+ ways
+ ideally
+ invisible
+
+
+because
+ members
+ just
+ get
+ to
+ enjoy
+ their
+
+
+experience.
+ But
+ then
+ we
+ also
+ as
+ a
+ tech
+
+
+team
+ build
+ tools
+ and
+ products
+ for
+ studio
+
+
+productions,
+ our
+ advertising
+ tech
+ stack.
+
+
+We
+ build
+ a
+ lot
+ of
+ the
+ developer
+ platform
+
+
+capabilities
+ and
+ launch
+ capabilities
+ for
+
+
+games.
+ Think
+ about
+ anything
+ related
+ to
+
+
+commerce
+ plans,
+ pricing,
+ payments,
+
+
+partnerships.
+ Those
+ are
+ all
+ things
+ that
+
+
+are
+ supported
+ by
+ the
+ tech
+ team.
+ So
+ when
+
+
+you
+ add
+ that
+ up,
+ we
+ have
+ more
+ than
+ a
+
+
+trillion
+ events
+ that
+ we're
+ capturing
+
+
+every
+ day
+ between
+ consumer
+ interactions,
+
+
+uh
+ things
+ that
+ are
+ happening
+ across
+
+
+products
+ and
+ services
+ that
+ support
+
+
+decision
+ making.
+ So
+ it's
+ quite
+ a
+ global
+
+
+enterprise
+ at
+ this
+ point.
+
+
+>> Some
+ of
+ the
+ things
+ that
+ you
+ mention
+ I
+
+
+feel
+ are
+ kind
+ of
+ somewhat
+ typical
+ at
+
+
+large
+ other
+ large
+ companies.
+ For
+
+
+example,
+ building
+ payments,
+ building
+
+
+ads,
+ building
+ some
+ of
+ the
+ things.
+ You
+
+
+mentioned
+ things
+ that
+ I
+ haven't
+ heard
+ in
+
+
+any
+ other
+ company
+ which
+ is
+ for
+ example
+
+
+building
+ custom
+ software
+ or
+ your
+
+
+production
+ studio.
+
+
+>> Yeah.
+
+
+>> Uh
+ what
+ are
+ some
+ of
+ the
+ kind
+ of
+ parts
+ of
+
+
+the
+ software
+ stack
+ or
+ the
+ software
+ that
+
+
+you're
+ building
+ that
+ is
+ just
+ it
+ sounds
+
+
+it
+ might
+ be
+ pretty
+ unique
+ to
+ to
+ Netflix
+
+
+that
+ you
+ might
+ not
+ have
+ found
+ elsewhere
+
+
+as
+ an
+ engineer?
+
+
+>> Yeah,
+ it's
+ actually
+ very
+ much
+ part
+ of
+
+
+our
+ superpower
+ that
+ we've
+ been
+ able
+ to
+
+
+bring
+ technology
+ to
+ entertainment.
+ or
+
+
+one
+ of
+ the
+ biggest
+ studios
+ in
+ the
+ world
+
+
+and
+ we
+ have
+ an
+ advantage
+ in
+ thinking
+
+
+about
+ what
+ are
+ some
+ of
+ the
+ problems
+ we
+
+
+could
+ uniquely
+ solve
+ for
+ those
+
+
+productions.
+ So,
+ good
+ examples
+ would
+ be
+
+
+things
+ like
+ our
+ media
+ production
+ suite,
+
+
+which
+ took
+ something
+ that
+ was
+ a
+ fairly
+
+
+antiquated,
+ slow,
+ and
+ expensive
+ way
+ for
+
+
+media
+ files
+ to
+ travel
+ across
+ creative
+
+
+teams
+ around
+ the
+ world
+ and
+ really
+
+
+modernized
+ what
+ that
+ looks
+ like
+ so
+ that
+
+
+if
+ you
+ have
+ a
+ a
+ production
+ that's
+
+
+shooting
+ somewhere
+ in
+ Europe
+ and
+ you
+
+
+have
+ someone
+ sitting
+ in
+ Los
+ Angeles
+
+
+who's
+ going
+ to
+ review
+ the
+ the
+ daily
+
+
+clips
+ and
+ footage,
+ they're
+ able
+ to
+ have
+
+
+those
+ media
+ files
+ travel
+ around
+ the
+
+
+world,
+ provide
+ notes
+ or
+ input
+ on
+ that,
+
+
+have
+ those
+ notes
+ travel
+ back
+ and
+ be
+
+
+ready
+ to
+ for
+ another
+ day
+ of
+ production
+
+
+just
+ the
+ next
+ day.
+ So
+ things
+ like
+ that
+
+
+media
+ production
+ suite
+ or
+ other
+ tools
+
+
+that
+ allow
+ us
+ to
+ monitor
+ how
+ are
+ we
+
+
+progressing
+ on
+ some
+ of
+ the
+ productions
+
+
+is
+ something
+ that's
+ very
+ novel
+ from
+
+
+Netflix.
+ We
+ also
+ have
+ a
+ big
+ presence
+
+
+through
+ Scanline
+ and
+ Eyline,
+ which
+ is
+ a
+
+
+visual
+ effects
+ studio
+ that
+ was
+ an
+
+
+acquisition
+ a
+ few
+ years
+ ago
+ that
+ does
+
+
+really
+ cutting
+ edge
+ research
+ and
+
+
+technology
+ for
+ things
+ that
+ affect
+ how
+ we
+
+
+do
+ data
+ capture,
+ visual
+ effects,
+
+
+different
+ ways
+ to
+ think
+ about
+ strategies
+
+
+that
+ bring
+ life
+ to
+ productions
+ that
+
+
+wouldn't
+ be
+ easy
+ just
+ based
+ on
+ standard
+
+
+camera
+ technology.
+
+
+>> In
+ terms
+ of
+ the
+ the
+ engineering
+ work
+
+
+behind
+ that,
+ what
+ are
+ some
+ of
+ the
+
+
+challenges
+ here?
+ Because
+ what
+ what
+ I'm
+
+
+hearing
+ is
+ is
+ you're
+ saying
+ you
+ know
+
+
+like
+ movie
+ files
+ etc.
+ To
+ me
+ what
+ the
+
+
+rings
+ bell
+ is
+ like
+ it'll
+ be
+ like
+ large
+
+
+amounts
+ of
+ data
+ probably
+ I
+ assume
+
+
+latency
+ might
+ be
+ interesting
+ challenges.
+
+
+>> It's
+ unbelievable
+ scale
+ when
+ you
+ think
+
+
+about
+ hundreds
+ or
+ thousands
+ of
+
+
+productions
+ that
+ are
+ in
+ progress
+ at
+ any
+
+
+given
+ moment
+ of
+ time.
+
+
+>> Oh
+ yeah.
+
+
+>> So
+ across
+ all
+ those
+ productions
+ you
+ have
+
+
+media
+ files
+ which
+ are
+ also
+ especially
+
+
+large
+ complex
+ and
+ difficult
+ to
+ move.
+ So
+
+
+think
+ about
+ scale,
+ think
+ about
+ cost
+ of
+
+
+both
+ storage,
+ compute
+ and
+ travel
+ of
+ that
+
+
+data.
+ Latency
+ in
+ some
+ cases,
+ you
+ know,
+
+
+it
+ depends
+ on
+ the
+ use
+ case.
+ For
+ some
+
+
+cases,
+ it's
+ capturing
+ media
+ that
+ is
+
+
+going
+ to
+ be
+ reviewed
+ in
+ a
+ way
+ that
+ can
+
+
+be
+ the
+ next
+ day,
+ but
+ for
+ other
+ things,
+
+
+we've
+ got
+ media
+ traveling
+ for
+ things
+
+
+like
+ live
+ productions
+ that
+ has
+ to
+ be
+
+
+essentially
+ instantaneous.
+ The
+ other
+
+
+thing
+ I
+ would
+ say
+ about
+ some
+ of
+ the
+ the
+
+
+unique
+ challenges
+ in
+ that
+ space
+ is
+ the
+
+
+level
+ of
+ quality
+ that
+ we're
+ trying
+ to
+
+
+bring.
+ So
+ when
+ you
+ think
+ about
+ some
+ of
+
+
+the
+ the
+ challenges
+ to
+ think
+ about
+ how
+ do
+
+
+you
+ create
+ very
+ high
+ quality
+
+
+images,
+ videos,
+ whether
+ that's
+ the
+
+
+content
+ itself
+ or
+ the
+ promotion
+ of
+ that
+
+
+content
+ on
+ the
+ service.
+ There's
+ a
+ lot
+ of
+
+
+engineering
+ challenges
+ that
+ come
+ to
+ meet
+
+
+meeting
+ that
+ type
+ of
+ bar.
+ The
+ other
+
+
+thing
+ that's
+ familiar
+ externally
+ which
+
+
+I'm
+ sure
+ you've
+ heard
+ about
+ is
+ open
+
+
+connector
+ or
+ content
+ delivery
+ network.
+
+
+Yeah.
+
+
+>> Which
+ is
+ extremely
+ unique
+ that
+ Netflix
+
+
+has
+ that.
+ Uh
+ it
+ was
+ a
+ big
+ bet
+ that
+ we
+
+
+made
+ more
+ than
+ 10
+ years
+ ago
+ to
+ build
+ our
+
+
+own
+ content
+ delivery
+ network
+ and
+ the
+
+
+scale
+ of
+ that
+ often
+ surprises
+ people.
+ So
+
+
+6,000
+ locations
+ around
+ the
+ world,
+ more
+
+
+than
+ 175
+ countries
+ and
+ that
+ actually
+
+
+allows
+ us
+ to
+ place
+ local
+ files
+ for
+ film,
+
+
+TV,
+ games
+ that
+ you're
+ going
+ to
+ play
+ so
+
+
+that
+ there
+ can
+ be
+ very
+ low
+ latency
+ and
+
+
+very
+ high
+ quality
+ for
+ members
+ no
+ matter
+
+
+where
+ they
+ click
+ play.
+
+
+>> Basically
+ these
+ are
+ server
+ locations
+ at
+
+
+6,000
+ different
+ location
+ inside
+ cities.
+
+
+whatnot
+ where
+ you
+ have
+ it's
+ like
+ it's
+
+
+like
+ your
+ edge
+ network,
+ right?
+
+
+>> That's
+ right.
+ And
+ we
+ integrate
+ with
+
+
+internet
+ service
+ providers
+ to
+ actually
+
+
+get
+ the
+ content
+ to
+ when
+ someone
+ clicks
+
+
+play
+ on
+ their
+ phone,
+ on
+ their
+ TV,
+ on
+
+
+their
+ laptop,
+ that
+ actually
+ gets
+ the
+
+
+content
+ through
+ that
+ last
+ mile
+ to
+ the
+
+
+the
+ member
+ or
+ the
+ consumer.
+
+
+>> And
+ then
+ when
+ you're
+ inside
+ Netflix,
+ you
+
+
+get
+ to
+ be
+ exposed
+ to
+ some
+ level
+ of
+ this
+
+
+detail,
+ which
+ I
+ guess
+ most
+ engineers
+ at
+
+
+other
+ places
+ wouldn't
+ be.
+ You
+ would
+ use
+
+
+a
+ CDM
+ provider
+ and
+ it
+ will
+ be
+ a
+ black
+
+
+box.
+ But
+ you're
+ building
+ this
+ thing,
+
+
+right?
+ we're
+ building
+ this
+ thing.
+ Um,
+
+
+and
+ it's
+ been
+ an
+ incredible
+ head
+ start
+
+
+as
+ we
+ think
+ about
+ new
+ content
+ types.
+ So,
+
+
+when
+ we
+ started
+ to
+ go
+ into
+ live
+ into
+
+
+games,
+ especially
+ cloud
+ or
+ streaming
+
+
+games,
+ as
+ we
+ think
+ about
+ just
+ the
+
+
+breadth
+ of
+ our
+ film
+ and
+ TV
+ offering,
+
+
+Open
+ Connect
+ has
+ been
+ a
+ huge
+ strategic
+
+
+advantage
+ and
+ we're
+ extending
+ that
+ to
+ be
+
+
+able
+ to
+ deliver
+ different
+ types
+ of
+
+
+content.
+ The
+ other
+ thing
+ that's
+ unique
+
+
+is
+ open
+ connect
+ as
+ a
+ content
+ delivery
+ or
+
+
+or
+ edge
+ network
+ is
+ sort
+ of
+ the
+ end
+ of
+ a
+
+
+very
+ long
+ integrated
+ life
+ cycle
+ that
+
+
+content
+ moves.
+ So
+ I
+ mentioned
+ that
+ media
+
+
+production
+ suite
+ that's
+ on
+ a
+ studio
+
+
+production
+ files
+ are
+ being
+ transferred
+
+
+for
+ review
+ quality
+
+
+uh
+ making
+ sure
+ that
+ we're
+ aligning
+ with
+
+
+the
+ creative
+ vision.
+ Once
+ a
+ title
+ is
+
+
+ready
+ to
+ launch
+ that
+ flows
+ through
+ other
+
+
+pipelines
+ that
+ would
+ think
+ about
+ do
+ we
+
+
+have
+ the
+ promotional
+ assets?
+ Are
+ we
+
+
+ready
+ to
+ give
+ great
+ recommendations
+ to
+
+
+the
+ right
+ audiences?
+ How
+ do
+ we
+ encode
+
+
+those
+ files
+ so
+ that
+ they're
+ actually
+
+
+ready
+ to
+ be
+ transmitted
+ through
+ open
+
+
+connect
+ as
+ the
+ content
+ delivery
+ network?
+
+
+When
+ you
+ think
+ about
+ that,
+ sometimes
+ we
+
+
+lightly
+ call
+ it
+ pitchtoplay,
+
+
+there's
+ an
+ element
+ of
+ engineering
+ all
+
+
+the
+ way
+ along
+ that
+ life
+ cycle,
+ which
+ is
+
+
+unusual
+ because
+ at
+ many
+ other
+ companies,
+
+
+they
+ haven't
+ built
+ that
+ endto-end
+
+
+pipeline
+ themselves
+ as
+ Netflix
+ has
+ over
+
+
+time.
+
+
+>> And
+ what
+ is
+ pitch
+ to
+ play?
+ So
+ think
+
+
+about
+ from
+ the
+ moment
+ a
+ title
+ is
+ pitched
+
+
+that
+ someone
+ in
+ the
+ content
+ team
+
+
+greenlights
+ yes
+ we're
+ going
+ to
+ develop
+
+
+and
+ produce
+ this
+ title.
+
+
+>> There's
+ data
+ science
+ teams,
+ there's
+
+
+engineering
+ teams
+ that
+ helps
+ to
+ support
+
+
+those
+ decisions
+ on
+ programming.
+ Then
+
+
+there's
+ tech
+ teams
+ that
+ help
+ support
+ the
+
+
+creation
+ of
+ that
+ content,
+ the
+ promotion
+
+
+of
+ that
+ content,
+ the
+ recommendations
+ and
+
+
+ultimately
+ the
+ delivery
+ of
+ that.
+ So
+ tech
+
+
+basically
+ underlies
+ that
+ whole
+ life
+
+
+cycle.
+
+
+>> Wow.
+ So
+ it's
+ this
+ sounds
+ like
+ a
+ lot
+ more
+
+
+workflows.
+ Usually
+ when
+ I
+ hear
+ of
+ of
+ the
+
+
+work
+ of
+ pipeline,
+ you
+ know,
+ in
+
+
+engineering,
+ we
+ would
+ think
+ of
+ a
+ CI/CD
+
+
+pipeline
+ and
+ I
+ think
+ we're
+ very
+ familiar
+
+
+with
+ that.
+ You
+ know,
+ you
+ have
+ your
+ code
+
+
+reviews,
+ test
+ run,
+ and
+ it
+ kind
+ of
+ goes
+
+
+on.
+ But
+ what
+ I
+ understand
+ is
+ just
+ a
+ lot
+
+
+bigger.
+
+
+>> Imagine
+ that
+ CI/CD
+ pipeline
+
+
+times
+ thousands
+ because
+ it's
+ actually
+
+
+going
+ to
+ follow
+ an
+ entire
+ bring
+ content
+
+
+to
+ life
+ for
+ members
+ cycle.
+
+
+>> This
+ is
+ a
+ great
+ time
+ to
+ mention
+ Linear,
+
+
+our
+ season
+ sponsor.
+ After
+ all,
+ Linear
+
+
+was
+ born
+ partially
+ thanks
+ to
+ the
+ pain
+
+
+points
+ that
+ happened
+ during
+ companies
+
+
+scaling
+ up.
+ The
+ idea
+ for
+ Linear
+ came
+
+
+about
+ when
+ their
+ founders
+ were
+ going
+
+
+through
+ hyperrowth
+ phases
+ at
+ Airbnb,
+
+
+Coinbase,
+ and
+ Uber.
+ As
+ you'd
+ expect
+ with
+
+
+real
+ scale,
+ these
+ companies
+ started
+ to
+
+
+slow
+ down.
+ What
+ used
+ to
+ take
+ days
+
+
+started
+ taking
+ weeks
+ and
+ sometimes
+ even
+
+
+months.
+ Not
+ because
+ people
+ work
+ less
+
+
+hard,
+ but
+ because
+ there
+ were
+ a
+ lot
+ more
+
+
+moving
+ parts
+ that
+ needed
+ to
+ be
+
+
+coordinated.
+ Whenever
+ you're
+ adapting
+ to
+
+
+scale,
+ you
+ often
+ pick
+ up
+ new
+ workflows,
+
+
+processes,
+ just
+ things
+ you
+ need
+ to
+ do
+
+
+over
+ time.
+ This
+ creates
+ real
+ workflow
+
+
+depth.
+ Software
+ engineers
+ often
+ get
+ hit
+
+
+the
+ hardest
+ here.
+ Having
+ to
+ check
+ five
+
+
+boxes
+ and
+ three
+ labels
+ when
+ creating
+ an
+
+
+issue
+ just
+ so
+ someone's
+ dashboard
+
+
+populates
+ correctly.
+ We've
+ all
+ been
+
+
+there.
+ It's
+ this
+ accumulation
+ of
+ steps
+
+
+that
+ slows
+ or
+ down
+ and
+ it
+ frustrates
+
+
+engineering
+ teams.
+ For
+ companies
+ that
+
+
+have
+ made
+ the
+ switch
+ to
+ linear
+ like
+
+
+OpenAI,
+ Coinbase,
+ Scale,
+ the
+ move
+ has
+
+
+been
+ like
+ a
+ hard
+ reset
+ on
+ all
+ this
+
+
+process
+ depth.
+ The
+ results
+ are
+ striking.
+
+
+Scale,
+ for
+ example,
+ cut
+ their
+ bug
+
+
+resolution
+ time
+ in
+ half
+ by
+ switching
+ to
+
+
+linear.
+ If
+ you're
+ curious
+ about
+ making
+
+
+the
+ switch,
+ it's
+ more
+ straightforward
+
+
+than
+ you
+ think.
+ Linear
+ has
+ native
+
+
+imported
+ forjira,
+ github
+ issues
+ asana.
+
+
+You
+ can
+ even
+ run
+ them
+ side
+ by
+ side
+
+
+during
+ transition.
+ The
+ team
+ is
+ also
+
+
+happy
+ to
+ work
+ with
+ you
+ to
+ run
+ a
+ 4
+ to
+ 6
+
+
+week
+ pilot
+ alongside
+ your
+ existing
+ tool
+
+
+just
+ to
+ prove
+ the
+ impact.
+ Check
+ out
+
+
+linear.app/switch.
+
+
+They
+ have
+ a
+ migration
+ guide
+ that
+ walks
+
+
+you
+ through
+ the
+ entire
+ process.
+ And
+ now
+
+
+back
+ to
+ the
+ episode.
+ And
+ now
+ my
+ first
+
+
+association
+ seeing
+ this
+ this
+ longer
+
+
+pipeline
+ is
+ it
+ sounds
+ like
+ it
+ would
+ be
+
+
+rigid
+ but
+ of
+ course
+ Netflix
+ is
+ moving
+
+
+really
+ fast.
+ What
+ does
+ it
+ look
+ like
+ from
+
+
+a
+ software
+ engineers
+ perspective
+ from
+
+
+from
+ an
+ engineering
+ team's
+ perspective
+
+
+getting
+ a
+ project
+ done?
+ How
+ are
+ these
+
+
+these
+ typically
+ done?
+ Is
+ is
+ it
+ based
+ on
+
+
+some
+ sort
+ of
+ following
+ you
+ know
+ the
+
+
+schedule
+ or
+ is
+ it
+ a
+ lot
+ more
+ elastic?
+
+
+>> Oh
+ this
+ is
+ probably
+ where
+ the
+ the
+
+
+uniqueness
+ of
+ Netflix's
+ culture
+ comes
+
+
+into
+ play.
+ So
+ a
+ lot
+ of
+ the
+ way
+ that
+ our
+
+
+engineering
+ systems,
+ products
+ and
+ tools
+
+
+were
+ built
+ was
+ highly
+ driven
+ by
+
+
+individual
+ contributors
+ thinking
+ about
+
+
+how
+ to
+ build
+ those
+ systems.
+ So
+
+
+innovation
+ is
+ really
+ driven
+ from
+ within
+
+
+the
+ teams
+ rather
+ than
+ top
+ down.
+ There's
+
+
+a
+ lot
+ of
+ autonomy
+ and
+ local
+ judgment
+ in
+
+
+how
+ we
+ build
+ things
+ that
+ has
+ allowed
+ us
+
+
+to
+ build
+ this
+ endto-end
+ view
+ of
+ how
+ to
+
+
+deliver
+ content
+ in
+ a
+ way
+ that
+ we
+ think
+
+
+delivers
+ the
+ best
+ quality
+ most
+
+
+efficiently
+ and
+ allows
+ us
+ to
+ play
+ with
+
+
+the
+ puzzle
+ pieces
+ of
+ that
+ as
+ we
+ have
+ new
+
+
+needs
+ that
+ come
+ up.
+ So
+ like
+ I
+ mentioned,
+
+
+we
+ had
+ many
+ of
+ those
+ things
+ in
+ place
+ for
+
+
+video
+ on
+ demand
+ film
+ and
+ TV.
+ When
+ we
+
+
+went
+ into
+ live,
+ engineers
+ needed
+ to
+
+
+rethink
+ how
+ are
+ we
+ going
+ to
+ have
+ to
+
+
+change
+ how
+ we
+ think
+ about
+ how
+ we're
+
+
+delivering
+ content
+ given
+ the
+
+
+requirements
+ of
+ live.
+ They
+ were
+ able
+ to
+
+
+start
+ with
+ what
+ we've
+ already
+ built,
+ but
+
+
+also
+ have
+ a
+ lot
+ of
+ their
+ own
+ decision-m
+
+
+on
+ the
+ how
+ to
+ evolve
+ all
+ of
+ our
+ systems
+
+
+and
+ products
+ to
+ be
+ able
+ to
+ deliver
+ new
+
+
+content
+ types.
+ So
+ over
+ time
+ the
+ way
+
+
+Netflix
+ has
+ been
+ built
+ has
+ been
+ very
+
+
+driven
+ by
+ engineers
+ within
+ the
+ teams
+
+
+rather
+ than
+ some
+ you
+ know
+ top
+ down
+
+
+overarching
+ let
+ me
+ draw
+ the
+ architecture
+
+
+for
+ you
+ and
+ now
+ let's
+ build
+ it
+ in
+ that
+
+
+direction
+ which
+ has
+ both
+ advantages
+ but
+
+
+also
+ things
+ that
+ we've
+ had
+ to
+ evolve
+
+
+towards
+ over
+ time
+ because
+ as
+ the
+ company
+
+
+becomes
+ much
+ bigger
+ scale
+ becomes
+ more
+
+
+of
+ a
+ challenge
+ we
+ want
+ to
+ make
+ sure
+ that
+
+
+we're
+ building
+ things
+ in
+ a
+ way
+ that
+
+
+support
+ that
+ so
+ it's
+ not
+ like
+ it's
+
+
+static
+ and
+ that
+ elasticity
+ to
+ use
+ your
+
+
+word
+ is
+ something
+ that
+ has
+ allowed
+ us
+ to
+
+
+actually
+ engineer
+ for
+ what
+ Netflix
+
+
+requires
+ today
+ versus
+ what
+ it
+ required
+
+
+10
+ years
+ ago.
+
+
+>> Can
+ we
+ talk
+ about
+ specifically
+ live
+
+
+because
+ Live
+ was
+ a
+ big
+ launch
+ last
+ year.
+
+
+I
+ I
+ remember
+ one
+ of
+ the
+ big
+ the
+ the
+
+
+boxing
+ match
+ between
+ Jake
+ Paul
+ Mike
+
+
+Tyson
+ was
+ a
+ huge
+ event.
+ Um
+ can
+ you
+ give
+
+
+us
+ a
+ little bit
+ of
+ insight
+ of
+ of
+ how
+
+
+that
+ project
+ started?
+ How
+ engineering
+
+
+teams
+ got
+ involved?
+ Like
+ like
+ was
+ it
+ a
+
+
+small
+ team?
+ Was
+ it
+ multiple
+ teams?
+ I'm
+
+
+assuming
+ there
+ must
+ have
+ been
+ multiple
+
+
+teams
+ working
+ together.
+ And
+ like
+ what
+
+
+was
+ your
+ process
+ of
+ of
+ getting
+ this
+ to
+
+
+to
+ launch
+ again?
+ Like
+ was
+ it
+ like
+ overly
+
+
+planned
+ out?
+ Was
+ it
+ was
+ it
+ just
+ yolo?
+
+
+Something
+ in
+ between?
+
+
+>> Yeah,
+ yolo.
+ [laughter]
+
+
+Uh
+ not
+ quite
+ yolo.
+ Our
+ first
+ live
+ title
+
+
+was
+ a
+ crick
+ Chris
+ Rock
+ special.
+ I
+
+
+believe
+ in
+ March
+ 2023.
+
+
+That
+ was
+ our
+ first
+ time
+ bringing
+ live
+ to
+
+
+Netflix
+ members
+
+
+and
+ started
+ what
+ was
+ a
+ very
+ intense
+
+
+period
+ of
+ if
+ I
+ take
+ through
+ to
+ that
+ Paul
+
+
+Tyson
+ match
+ that
+ was
+ November
+ 2024.
+ So
+
+
+you
+ think
+ about
+ that
+ as
+ basically
+ 18
+
+
+months
+ from
+ our
+ first
+ ever
+ outing
+ on
+
+
+live
+ to
+ the
+ largest
+ streamed
+ event
+ ever
+
+
+which
+ is
+ what
+ Paul
+ Tyson
+ ended
+ up
+ being.
+
+
+The
+ way
+ that
+ came
+ to
+ life
+ was
+ with
+
+
+urgency,
+ a
+ lot
+ of
+ scrainess,
+ and
+ like
+ I
+
+
+mentioned,
+ engineers
+ making
+ it
+ happen.
+
+
+So,
+ typically
+ we
+ would
+ set
+ a
+ goal
+
+
+saying,
+ "Okay,
+ so
+ we've
+ got
+ Paul
+ Tyson
+
+
+scheduled,
+ originally
+ it
+ was
+ scheduled
+
+
+for
+ July
+ 2024.
+ It
+ was
+ rescheduled
+
+
+because
+ of
+ Tyson's
+ health
+ to
+ November
+
+
+2024,
+ which
+ gave
+ us
+ a
+ few
+ more
+ months.
+
+
+But
+ picture
+ teams
+ from
+ open
+ connect
+ in
+
+
+coding,
+ our
+ content
+ production
+ and
+
+
+promotion
+ teams,
+ our
+ discovery
+ teams
+
+
+thinking
+ who
+ are
+ the
+ right
+ people
+ to
+
+
+lean
+ in
+ here
+ and
+ help
+ bring
+ this
+ to
+
+
+life.
+ But
+ they
+ self-organize.
+ They
+
+
+develop
+ their
+ own
+ road
+ maps.
+ They
+ think
+
+
+about
+ who
+ needs
+ to
+ be
+ on
+ point
+ for
+ what
+
+
+things.
+ What
+ are
+ some
+ of
+ the
+ systems
+
+
+that
+ we
+ need
+ to
+ make
+ sure
+ are
+ actually
+
+
+resilient
+ enough
+ for
+ live.
+ It
+ was
+ an
+
+
+incredibly
+ tight
+ timeline
+ end
+ to
+ end.
+
+
+Not
+ to
+ mention
+ that
+ we
+ had
+ a
+ lot
+ of
+
+
+learnings
+ from
+ Paul
+ Tyson
+ because
+ it
+ was
+
+
+such
+ a
+ large
+ event.
+
+
+>> Yeah.
+
+
+>> I
+ I've
+ often
+ world's
+ largest,
+ right?
+
+
+>> 65
+ million
+ concurrent
+ streams.
+ Watching
+
+
+that
+ tick
+ up.
+ I
+ think
+ one
+ of
+ our
+ biggest
+
+
+ever
+ days
+ of
+ signups.
+ So,
+ we
+ were
+
+
+watching
+ the
+ signups,
+ you
+ know,
+ go
+
+
+through
+ the
+ roof
+ that
+ day.
+ Then
+ watching
+
+
+I
+ think
+ by
+ the
+ time
+ we
+ were
+ in
+ some
+ of
+
+
+the
+ first
+ couple
+ of
+ undercard
+ fights,
+
+
+we'd
+ already
+ exceeded
+ our
+ expectations
+
+
+for
+ how
+ big
+ the
+ fight
+ would
+ be.
+ The
+
+
+energy
+ in
+ the
+ launch
+ room
+ here
+ in
+
+
+Loscatos
+ was
+ like
+ palpable
+ that
+ you
+
+
+could
+ feel,
+ you
+ know,
+ excitement,
+
+
+nervousness,
+ like
+ very
+ real
+ time
+ problem
+
+
+solving
+ by
+ engineers
+ because
+ we'd
+ never
+
+
+seen
+ no
+ one
+ had
+ ever
+ seen
+ scale
+ like
+
+
+that.
+ So
+ you
+ get
+ like
+ your
+ real
+ time
+
+
+figuring
+ out
+ how
+ to
+ deliver
+ something
+ in
+
+
+real
+ time.
+ I've
+ never
+ been
+ prouder
+ of
+
+
+the
+ team
+ for
+ figuring
+ out
+ like
+ what
+ are
+
+
+the
+ levers
+ we
+ need
+ to
+ pull
+ to
+ keep
+ this
+
+
+as
+ stable
+ as
+ possible.
+ With
+ those
+
+
+learnings
+ in
+ November
+ 2024,
+ we
+ had
+ about
+
+
+five
+ weeks
+ to
+ be
+ ready
+ for
+ two
+ American
+
+
+NFL
+ football
+ games
+ on
+ Christmas
+ Day
+
+
+where
+ the
+ bar
+ is
+ very
+ high
+ to
+ deliver
+
+
+well
+ for
+ members
+ and
+ for
+ fans.
+ And
+ so
+
+
+the
+ team
+ immediately
+ took
+ the
+ learnings
+
+
+from
+ Paul
+ Tyson
+ to
+ say,
+ how
+ do
+ we
+ build
+
+
+greater
+ resilience?
+ How
+ do
+ we
+ think
+
+
+about
+ how
+ we're
+ going
+ to
+ direct
+ content
+
+
+if
+ we
+ end
+ up
+ bandwidth
+ constrained
+ in
+
+
+some
+ markets?
+ How
+ can
+ we
+ really
+ optimize
+
+
+by
+ using
+ some
+ of
+ our
+ quality
+ levers
+ for
+
+
+what
+ that
+ experience
+ is
+ going
+ to
+ be?
+ And
+
+
+those
+ NFL
+ games
+ ended
+ up
+ being
+ flawless.
+
+
+That
+ from
+ Chris
+ Rock
+ to
+ a
+ Love
+ is
+ blind
+
+
+failure
+ to
+ Paul
+ Tyson
+ with
+ lots
+ of
+
+
+learnings
+ at
+ that
+ scale
+ to
+ NFL
+ and
+ now
+
+
+weekly
+ WWE,
+ not
+ to
+ mention
+ lots
+ of
+ other
+
+
+big
+ events.
+ That
+ was
+ all
+ driven
+ by
+ teams
+
+
+on
+ the
+ ground
+ being
+ relentless
+ in
+
+
+saying,
+ "How
+ do
+ we
+ do
+ this
+ well?
+ What
+
+
+are
+ the
+ problems
+ we
+ need
+ to
+ solve?"
+ and
+
+
+the
+ accountability
+ for
+ learn
+ fast
+
+
+doesn't
+ mean
+ we're
+ not
+ going
+ to
+ have
+
+
+failures,
+ but
+ when
+ we
+ have
+ failures,
+
+
+learn
+ fast,
+ iterate,
+ and
+ deliver
+ ever
+
+
+better.
+ That's
+ really
+ where
+ the
+ beauty
+
+
+of
+ the
+ Netflix
+ culture
+ comes
+ into
+ play.
+
+
+And
+ I've
+ watched
+ the
+ same
+ thing
+ happen
+
+
+standing
+ up
+ our
+ own
+ ads
+ tech
+ stack,
+
+
+being
+ able
+ to
+ deliver
+ games,
+ launching
+
+
+our
+ new
+ TV
+ UI.
+ Each
+ of
+ those
+ was
+ a
+ group
+
+
+of
+ engineers
+ coming
+ up
+ with
+ what's
+ the
+
+
+best
+ way
+ to
+ bring
+ this
+ to
+ life.
+ You
+
+
+mentioned
+ the
+ the
+ control
+ room,
+ but
+ I
+
+
+think
+ most
+ people
+ have
+ not
+ had
+ this
+
+
+experience.
+ It's
+ a
+ live
+ event,
+ of
+
+
+course,
+ you
+ can
+ you
+ can
+ tweak
+ things.
+
+
+Can
+ you
+ explain
+ to
+ to
+ me
+ what
+ was
+ the
+
+
+control
+ room
+ like?
+ I
+ assume
+ it
+ must
+ have
+
+
+been
+ a
+ bunch
+ of
+ dashboards
+ on
+ all
+ sorts
+
+
+of
+ metrics,
+ right?
+ Was
+ it
+ a
+ little
+ bit
+
+
+like
+ that?
+
+
+>> Yeah.
+ So,
+ even
+ our
+ dashboards
+ were
+ brand
+
+
+new.
+ So,
+ they
+ were
+ not
+
+
+>> You
+ built
+ it
+ for
+ that
+ event.
+ The
+
+
+engineering
+ team
+ put
+ it
+ together.
+ The
+
+
+data
+ science
+ and
+ engineering
+ team
+
+
+collectively
+ put
+ together
+ a
+ set
+ of
+
+
+dashboards
+ that
+ would
+ give
+ us
+ visibility
+
+
+into
+ some
+ core
+ quality
+ of
+ experience
+
+
+metrics.
+ So
+ things
+ like
+ time
+ to
+ render,
+
+
+app
+ start
+ timing,
+ rebuffer
+ rates.
+ It
+ was
+
+
+the
+ rebuffers
+ that
+ we
+ started
+ to
+ see
+ amp
+
+
+up
+ during
+ Paul
+ Tyson.
+ There
+ were
+
+
+probably
+ a
+ hundred
+ people
+ on
+ site.
+ I
+ was
+
+
+sitting
+ in
+ a
+ room
+ with
+ maybe
+ 30
+ or
+ 40
+
+
+both
+ engineers
+ and
+ data
+ scientists.
+ We
+
+
+had
+ our
+ laptops
+ and
+ makeshift
+ screens
+
+
+sitting
+ there.
+ Everyone
+ was
+ hardlined
+
+
+into
+ internet
+ so
+ that
+ we
+ weren't,
+ you
+
+
+know,
+ risking
+ anything
+ with
+ the
+ Wi-Fi.
+
+
+We
+ had
+ VPN
+ backups
+ if
+ anything
+ was
+ to
+ go
+
+
+wrong.
+ We
+ had
+ a
+ launch
+ commander
+ with
+ a
+
+
+headset
+ dialed
+ in
+ talking
+ to
+ people
+ in
+
+
+the
+ production
+ truck,
+ but
+ it
+ was
+ new.
+
+
+So,
+ it
+ it
+ wasn't
+ streamlined.
+ It
+ wasn't
+
+
+perfect.
+ It
+ wasn't
+ like
+ the
+ fancy
+ launch
+
+
+rooms
+ I
+ imagine
+ a
+ lot
+ of
+ live
+
+
+productions
+ typically
+ have.
+ And
+ so
+ we're
+
+
+watching
+ metrics,
+ you
+ know,
+ some
+ things
+
+
+start
+ flashing
+ in
+ red,
+ you
+ know,
+ causing
+
+
+you
+ to
+ draw
+ attention
+ to
+ it.
+ We
+ would
+
+
+create
+ makeshift
+ Google
+ Meet
+ rooms,
+ so
+
+
+small
+ groups
+ of
+ people
+ could
+ triage.
+ We
+
+
+had
+ people
+ who
+ were
+ on
+ the
+ hook
+ for
+
+
+being
+ the
+ informed
+ captains
+ or
+ decision
+
+
+makers.
+ So
+ if
+ we
+ have
+ an
+ issue
+ with
+ open
+
+
+connect,
+ if
+ we
+ have
+ an
+ issue
+ with
+
+
+playback,
+ if
+ we
+ have
+ an
+ issue
+ with
+
+
+discovery,
+ are
+ people
+ actually
+ able
+ to
+
+
+find
+ a
+ title?
+ There
+ were
+ people
+ that
+ we
+
+
+had
+ in
+ basically
+ the
+ launch
+ plan.
+
+
+Imagine
+ I
+ think
+ the
+ document
+ ended
+ up
+
+
+being
+ 40
+ or
+ 50
+ pages
+ of
+ if
+ then
+
+
+statements.
+ If
+ this
+ thing
+ happens,
+ then
+
+
+what?
+ You
+ know,
+ it
+ was
+ new
+ for
+ us.
+ When
+
+
+I
+ think
+ about
+ where
+ we
+ were
+ for
+ Paul
+
+
+Tyson,
+ I
+ would
+ I
+ I
+ joke
+ with
+ people.
+ I
+
+
+feel
+ like
+ I
+ lost
+ 10
+ years
+ of
+ my
+ life
+ in
+
+
+that
+ one
+ night
+ because
+ it
+ was
+ so
+
+
+stressful
+ and
+ there's
+ so
+ little
+ like
+
+
+there's
+ no
+ hands
+ on
+ keyboard
+ thing
+ I
+ can
+
+
+do
+ to
+ help.
+ I'm
+ there
+ to
+ support
+ the
+
+
+team
+ to
+ trust
+ the
+ team
+ in
+ making
+
+
+decisions.
+ When
+ I
+ look
+ now
+ at
+ how
+ we're
+
+
+doing
+ NFL
+ games
+ or
+ the
+ Canelo
+ Crawford
+
+
+fight
+ or
+ WWE,
+ it's
+ much
+ more
+
+
+sophisticated
+ in
+ the
+ sense
+ of
+ the
+
+
+resiliency
+ we've
+ built,
+ the
+ metrics
+ and
+
+
+dashboards,
+ the
+ visibility
+ we
+ have
+ into
+
+
+what's
+ happening.
+ That
+ was
+ very
+
+
+human-driven
+ when
+ we
+ were
+ first
+ coming
+
+
+out
+ of
+ the
+ gate,
+ which
+ was
+ a
+ lot
+ of
+
+
+where
+ the
+ learnings
+ came
+ from.
+ But
+ I
+ say
+
+
+to
+ the
+ team,
+ how
+ often
+ do
+ you
+ get
+ to
+
+
+work
+ at
+ a
+ mature
+ company,
+ but
+ build
+
+
+something
+ truly
+ from
+ scratch
+ like
+ this
+
+
+and
+ think
+ about
+ all
+ the
+ things
+ that
+
+
+might
+ go
+ wrong
+ and
+ how
+ to
+ be
+ prepared
+
+
+for
+ them
+ and
+ then
+ stay
+ very
+ calm
+ and
+
+
+cool
+ under
+ pressure
+ if
+ something
+
+
+happens.
+
+
+>> So
+ what
+ what
+ strikes
+ me
+ as
+ very
+
+
+interesting
+ about
+ this
+ story
+ is
+ you
+
+
+mentioned
+ that
+ the
+ team
+ had
+ done
+ a
+ bunch
+
+
+of
+ preparation.
+ you
+ mentioned
+ 40
+ or
+ 50
+
+
+pages
+ if
+ then
+ else
+ like
+ which
+ which
+
+
+sounds
+ way
+ more
+ detailed
+ than
+ I've
+ seen
+
+
+most
+ launches
+ be
+ you
+ usually
+ have
+ a
+
+
+launch
+ plan
+ but
+ again
+ it
+ was
+ a
+ complex
+
+
+launch
+ so
+ you
+ prepared
+ even
+ so
+ there
+
+
+were
+ there
+ were
+ hiccups
+ both
+ with
+ love
+
+
+is
+ blind
+ both
+ with
+ the
+ Jake
+ Paul
+ match
+
+
+can
+ you
+ tell
+ me
+ how
+ the
+ team
+ handled
+ the
+
+
+the
+ aftermath
+ uh
+ again
+ it's
+ pretty
+
+
+common
+ to
+ have
+ blameless
+ postmortems
+ but
+
+
+I'm
+ I'm
+ more
+ curious
+ on
+ how
+ formal
+ this
+
+
+process
+ is
+ how
+ less
+ formal
+ driven
+ by
+ by
+
+
+people
+ stepping
+ up
+ or
+ again.
+ Do
+ you
+ have
+
+
+like
+ more
+ rigid
+ process
+ around
+ this
+ or
+
+
+or
+ it's
+ just
+ getting
+ together
+ and
+ and
+
+
+people,
+ you
+ know,
+ do
+ go
+ and
+ fix
+ things?
+
+
+>> Like
+ you
+ said,
+ it's
+ not
+ uncommon
+ to
+ have
+
+
+a
+ blameless
+ post-mortem
+ or
+ retro.
+ So,
+ we
+
+
+we
+ have
+ that
+ for
+ sure.
+ It's
+ much
+ more
+
+
+interesting
+ to
+ talk
+ about
+ the
+ learnings
+
+
+from
+ something
+ than
+ to
+ overly
+ focus
+ on
+
+
+who
+ did
+ what
+ thing
+ wrong.
+ Um
+ there's
+ not
+
+
+much
+ that
+ we
+ actually
+ gain
+ from
+ that.
+
+
+It's
+ not
+ a
+ rigid
+ process.
+ It
+ happens
+
+
+very
+ organically
+ and
+ it's
+ led
+ by
+ the
+
+
+people
+ who
+ are
+ close
+ to
+ the
+ work
+ itself
+
+
+and
+ feel
+ tons
+ of
+ accountability
+ for
+
+
+doing
+ reflections
+ on
+ both
+ what
+ went
+ well
+
+
+and
+ what
+ can
+ we
+ do
+ better.
+ If
+ I
+ take
+ all
+
+
+Tyson
+ as
+ a
+ good
+ example,
+ it
+ was
+ a
+ pretty
+
+
+complicated
+ set
+ of
+ emotions
+ and
+ couple
+
+
+days
+ afterwards.
+ You
+ know,
+ we're
+
+
+celebrating
+ the
+ biggest
+ ever
+ live
+ stream
+
+
+event.
+
+
+>> Yeah.
+
+
+>> Way
+ bigger
+ than
+ we
+ ever
+ could
+ have
+ hoped
+
+
+for.
+ We're
+ celebrating
+ that
+ we
+ work
+ at
+ a
+
+
+company
+ that
+ takes
+ such
+ a
+ big
+ swing.
+
+
+We're
+ celebrating
+ that
+ we
+ didn't
+
+
+collapse
+ when
+ we
+ got
+ to
+ 20
+ million,
+ 30
+
+
+million,
+ 40
+ million
+ concurrent
+ streams.
+
+
+If
+ someone
+ said
+ to
+ me,
+ you're
+ going
+ to
+
+
+have
+ 65
+ million
+ concurrent
+ streams,
+ I
+
+
+would
+ have
+ said,
+ "This
+ is
+ not
+ going
+ to
+
+
+go
+ well."
+ And
+ yet,
+ yes,
+ we
+ have
+ hiccups.
+
+
+We
+ always
+ want
+ to
+ deliver
+ a
+ great
+ member
+
+
+experience.
+ I
+ would
+ like
+ to
+ say
+ I
+ woke
+
+
+up
+ the
+ next
+ morning.
+ I
+ was
+ awake
+ the
+
+
+whole
+ night
+ thinking
+ about
+ what
+ do
+ we
+ do
+
+
+next
+ and
+ what
+ are
+ like
+ what
+ you
+ know
+ we
+
+
+only
+ have
+ five
+ weeks
+ till
+ NFL.
+ I
+ woke
+ up
+
+
+to
+ a
+ set
+ of
+ memos
+ where
+ the
+ team
+ had
+
+
+already
+ written
+ down.
+ Here's
+ what
+ we
+
+
+observed.
+ Here's
+ what
+ we
+ think
+ we
+ can
+
+
+improve.
+ Here's
+ some
+ of
+ the
+ things
+ we
+
+
+should
+ immediately
+ prioritize.
+ So
+ some
+
+
+of
+ that
+ was
+ how
+ do
+ we
+ direct
+ traffic
+
+
+when
+ we
+ get
+ congested?
+ What
+ were
+ our
+
+
+algorithms
+ doing
+ to
+ think
+ about
+
+
+directing
+ traffic
+ in
+ that
+ moment
+ versus
+
+
+what
+ do
+ we
+ want
+ them
+ to
+ do
+ if
+ we
+ end
+ up
+
+
+congested
+ and
+ thinking
+ about
+ what
+ are
+
+
+ways
+ that
+ we
+ can
+ gracefully
+ fall
+ back
+ or
+
+
+degrade
+ when
+ we're
+ under
+ that
+ type
+ of
+
+
+duress.
+ There
+ was
+ nothing
+ in
+ that
+ event
+
+
+that
+ we
+ could
+ have
+ created
+ before
+ seeing
+
+
+what
+ happens
+ to
+ the
+ systems
+ live.
+ And
+ so
+
+
+just
+ knowing,
+ you
+ know,
+ I
+ woke
+ up
+
+
+thinking
+ all
+ my
+ like,
+ you
+ know,
+ we're
+
+
+going to
+ have
+ to
+ do
+ this,
+ we're
+ going to
+
+
+have
+ to
+ do
+ that.
+ It
+ was
+ already
+ there
+ in
+
+
+a
+ document.
+ the
+ team
+ feels
+ such
+
+
+accountability
+ to
+ how
+ do
+ we
+ do
+ this
+
+
+better
+ that
+ we
+ don't
+ really
+ require
+ a
+
+
+process
+ to
+ say
+ now
+ we
+ should
+ do
+ a
+
+
+postmortem
+ now
+ we
+ should
+ develop
+
+
+reflections
+ on
+ this
+ the
+ team
+ owns
+ that
+
+
+very
+ directly
+ we
+ have
+ language
+ in
+ our
+
+
+culture
+ memo
+ about
+ being
+ unusually
+
+
+responsible
+ that's
+ really
+ the
+ talent
+ on
+
+
+the
+ team
+ it
+ comes
+ with
+ high
+ talent
+
+
+density
+ it
+ comes
+ with
+ treating
+ people
+
+
+like
+ adults
+ where
+ they
+ get
+ a
+ lot
+ of
+
+
+autonomy
+ in
+ making
+ decisions
+ and
+ then
+
+
+they
+ own
+ the
+ outcomes
+ and
+ they
+ have
+ a
+
+
+mindset
+ which
+ is
+ there
+ was
+ a
+ lot
+ that
+
+
+was
+ exciting
+ about
+ that.
+ There's
+ a
+ lot
+
+
+we
+ can
+ do
+ better.
+ Let's
+ go
+ do
+ better
+
+
+now.
+ So,
+ I'm
+ there
+ to
+ help
+ provide
+ input
+
+
+to
+ ask
+ some
+ questions
+ so
+ that
+ I
+
+
+understand
+ and
+ I
+ can
+ represent
+ it
+
+
+accurately.
+ But
+ we
+ almost
+ never
+ requires
+
+
+a
+ leader
+ to
+ say
+ now
+ we
+ must
+ do
+ the
+
+
+following
+ thing
+ because
+ it's
+ so
+ driven
+
+
+by
+ the
+ teams.
+
+
+>> And
+ I
+ have
+ to
+ ask
+ this
+ question
+ but
+ I
+
+
+I'm
+ sensing
+ the
+ answer
+ to
+ it
+ already.
+
+
+When
+ it
+ comes
+ to
+ engineering
+ culture
+ at
+
+
+a
+ lot
+ of
+ companies,
+ you
+ know,
+ you
+ go
+
+
+into
+ a
+ company
+ as
+ a
+ new
+ engineer
+ and
+ you
+
+
+ask
+ around
+ saying,
+ "Hey,
+ what
+ are
+ the
+
+
+processes
+ I
+ need
+ to
+ follow?"
+ Because
+ at
+
+
+a
+ lot
+ of
+ companies,
+ there's
+ a
+ mandatory
+
+
+code
+ review.
+ If
+ you
+ launch
+ a
+ feature,
+
+
+you
+ might
+ need
+ to
+ use
+ a
+ feature
+ flag.
+
+
+Let's
+ say
+ on
+ the
+ mobile
+ app,
+ you
+ you
+
+
+need
+ to
+ on
+ the
+ code
+ review
+ might
+ need
+ to
+
+
+have
+ certain
+ signoffs
+ from
+ people.
+ So,
+
+
+there's
+ a
+ bunch
+ CI/CD
+ always
+ needs
+ to
+
+
+pass.
+ You
+ cannot
+ override
+ it.
+ In
+ the
+
+
+Netflix
+ engineering
+ team,
+ how
+ much
+ of
+
+
+these
+ things
+ are
+ kind
+ of
+ put
+ down
+ at
+ a
+
+
+global
+ level?
+ lever
+ needs
+ to
+ follow
+ it.
+
+
+Teams
+ can
+ decide
+ and
+ do
+ decide
+ versus
+
+
+just
+ based
+ on
+ the
+ judgment
+ of
+ the
+ the
+
+
+engineering
+ team
+ or
+ or
+ the
+ engineer
+
+
+themselves.
+
+
+>> Yeah,
+ a
+ lot
+ is
+ left
+ to
+ the
+ engineering
+
+
+team
+ and
+ engineer
+ themselves.
+ So
+ even
+
+
+for
+ new
+ or
+ early
+ career
+ talent,
+ one
+ of
+
+
+the
+ things
+ we've
+ evolved
+ towards,
+ so
+ you
+
+
+know,
+ even
+ if
+ I
+ think
+ going
+ back
+ however
+
+
+many
+ years
+ when
+ Netflix
+ introduced
+ Chaos
+
+
+Monkey
+ as
+ a
+ as
+ a
+ concept,
+ the
+ idea
+ of
+ an
+
+
+individual
+ engineer
+ having
+
+
+responsibility
+ to
+ understand
+ how
+ and
+
+
+when
+ their
+ system
+ will
+ break
+ and
+ how
+
+
+they're
+ going
+ to
+ be
+ resilient,
+ detect
+
+
+that
+ and
+ recover
+ quickly
+ was
+ just
+ a
+ core
+
+
+part
+ of
+ the
+ culture
+ and
+ something
+ that
+
+
+we
+ continued
+ to
+ maintain.
+
+
+a
+ lot
+ of
+ the
+ where
+ we
+ were
+ a
+ few
+ years
+
+
+ago.
+ Let
+ me
+ talk
+ about
+ kind
+ of
+ pre
+ and
+
+
+postlive
+ is
+ probably
+ the
+ useful
+
+
+threshold.
+
+
+Pre-live,
+
+
+there
+ were
+ a
+ lot
+ of
+ ways
+ to
+ take
+ smart
+
+
+risks
+ with
+ video
+ on
+ demand
+ because
+ we
+
+
+had
+ many
+ years
+ under
+ our
+ belt
+ of
+
+
+understanding
+ when
+ something
+ breaks,
+ how
+
+
+are
+ we
+ going
+ to
+ fix
+ that?
+ And
+ it
+ was
+
+
+left
+ to
+ teams
+ to
+ think
+ about
+ the
+ extent
+
+
+of
+ testing
+ and
+ resilience
+ that
+ they
+
+
+needed
+ to
+ have.
+ and
+ great
+ on
+ call
+ teams
+
+
+and
+ support
+ teams
+ for
+ when
+ something
+
+
+does
+ go
+ wrong.
+ When
+ we
+ introduced
+ live,
+
+
+there's
+ a
+ different
+ threshold
+ because
+
+
+you
+ have
+ to
+ watch
+ it
+ live.
+ There's
+ no
+
+
+such
+ thing
+ as,
+ you
+ know,
+ Netflix
+ is
+
+
+going
+ to
+ be
+ down
+ temporarily
+ while
+ we
+
+
+address
+ something
+ where
+ we
+ were
+ taking
+ a
+
+
+smart
+ risk.
+ That
+ was
+ scary
+ at
+ first,
+ but
+
+
+as
+ we
+ started
+ to
+ introduce
+ what
+ are
+ the
+
+
+guardrails
+ we
+ need
+ to
+ have
+ to
+ do
+ this
+
+
+safely,
+ it
+ was
+ things
+ like
+ introducing
+
+
+especially
+ for
+ tier
+ zero
+ or
+ tier
+ one
+
+
+applications
+ that
+ were
+ in
+ the
+ critical
+
+
+path
+ for
+ live
+ a
+ higher
+ threshold
+ for
+
+
+what's
+ the
+ testing
+ that
+ you're
+ doing.
+
+
+>> Y
+
+
+>> to
+ make
+ sure
+ that
+ your
+ system
+ is
+ ready
+
+
+for
+ the
+ duress
+ it
+ may
+ be
+ under
+ in
+ a
+ live
+
+
+event.
+ We
+ will
+ share
+ those
+ guidelines.
+
+
+It
+ comes
+ from
+ our
+ central
+ engineering
+
+
+team
+ and
+ it
+ gives
+ people
+ an
+ opportunity
+
+
+to
+ have
+ less
+ process
+ because
+ they're
+
+
+able
+ to
+ say
+ if
+ I
+ pass
+ these
+ guidelines
+
+
+if
+ I've
+ done
+ this
+ testing
+ I
+ don't
+ need
+
+
+to
+ be
+ in
+ a
+ quiet
+ period
+ for
+ example
+
+
+during
+ a
+ live
+ event
+ or
+ we've
+ done
+
+
+endto-end
+ testing
+ so
+ we
+ know
+ those
+
+
+system
+ dependencies
+ very
+ deeply
+ and
+
+
+we're
+ able
+ to
+ prepare
+ for
+ the
+ whatifs
+
+
+something
+ goes
+ wrong
+ but
+ that's
+ not
+ a
+
+
+very
+ structured
+ process
+ like
+ a
+ code
+
+
+review
+ or
+ you
+ must
+ check
+ these
+ boxes
+ or
+
+
+some
+ type
+ of
+ gating
+ function
+ for
+ code
+
+
+being
+ actually
+ deployed.
+ We
+ do
+ have
+
+
+quiet
+ periods
+ during
+ the
+ end
+ of
+ year
+
+
+holidays.
+ I
+ think
+ that's
+ pretty
+ common.
+
+
+We'll
+ have
+ some
+ rules
+ of
+ the
+ road
+ around
+
+
+live
+ events
+ to
+ make
+ sure
+ we
+ don't
+ take
+
+
+unnecessary
+ risk,
+ but
+ we
+ are
+ constantly
+
+
+finding
+ ways
+ to
+ like
+ how
+ do
+ we
+ reduce
+
+
+the
+ quiet
+ periods?
+ How
+ do
+ we
+ leave
+ a
+ lot
+
+
+of
+ judgment
+ to
+ the
+ teams
+ and
+ then
+
+
+they're
+ accountable
+ for
+ anything
+ that
+
+
+goes
+ wrong
+ with
+ their
+ service?
+
+
+>> And
+ do
+ I
+ sense
+ it
+ correctly
+ that
+ instead
+
+
+of
+ the
+ process,
+ what
+ you
+ focus
+ on
+ is
+
+
+let's
+ say
+ the
+ impact
+ of
+ the
+ systems.
+ So
+
+
+you
+ have
+ the
+ tiering
+ system,
+ tier
+ zero.
+
+
+I
+ guess
+ the
+ most
+ important
+ one's
+ tier
+
+
+one.
+ Yeah.
+ And
+ I
+ guess
+ goes
+ down
+ and
+
+
+then
+ the
+ tools
+ for
+ example
+ quiet
+ periods
+
+
+or
+ other
+ ways
+ that
+ the
+ teams
+ can
+ then
+
+
+kind
+ of
+ use
+ to
+ to
+ manage
+ risk.
+
+
+>> That's
+ right.
+ And
+ a
+ lot
+ of
+ those
+ were
+
+
+new
+ introductions
+ once
+ we
+ entered
+ live.
+
+
+So
+ the
+ teams
+ were
+ doing
+ that
+ very
+ much
+
+
+on
+ their
+ own
+ with
+ their
+ own
+ judgment
+ and
+
+
+accountability.
+ live.
+ We
+ ended
+ up
+ in
+ a
+
+
+situation
+ where
+ we
+ had
+ to
+ be
+ more
+
+
+structured
+ about
+ it
+ because
+ it
+ was
+ new,
+
+
+because
+ it
+ was
+ higher
+ risk
+ cuz
+ you
+ must
+
+
+must
+ watch
+ it
+ live
+ and
+ because
+ live
+ is
+
+
+something
+ that
+ touches
+ so
+ many
+ teams.
+ So
+
+
+when
+ you
+ like
+ going
+ back
+ to
+ our
+
+
+conversation
+ around
+ our
+ content
+
+
+pipeline,
+ like
+ if
+ you
+ think
+ about
+ live
+
+
+from
+ the
+ camera
+ to
+ the
+ production
+ truck
+
+
+to
+ the
+ the
+ origin
+ or
+ cloud
+ to
+ then
+ being
+
+
+able
+ to
+ get
+ to
+ our
+ content
+ delivery
+
+
+network,
+ there's
+ a
+ lot
+ of
+ systems
+ that
+
+
+need
+ to
+ talk
+ to
+ one
+ another
+ in
+ real
+ time
+
+
+for
+ a
+ live
+ event.
+ So
+ there
+ was
+ a
+ new
+ set
+
+
+of
+ things
+ that
+ could
+ go
+ wrong.
+ Until
+ we
+
+
+were
+ very
+ confident
+ that
+ we
+ knew
+ those
+
+
+connection
+ points,
+ we
+ wanted
+ to
+
+
+introduce
+ more
+ guidelines
+ for
+ how
+ to
+
+
+think
+ about
+ that.
+ That's
+ when
+ we
+
+
+introduced
+ the
+ tiering
+ system.
+ It's
+ when
+
+
+we
+ introduced
+ some
+ things
+ for
+ which
+
+
+services
+ or
+ systems
+ should
+ think
+ about
+
+
+being
+ part
+ of
+ the
+ quiet
+ period
+ or
+ not.
+
+
+But
+ we've
+ already
+ dialed
+ a
+ lot
+ of
+ those
+
+
+things
+ down
+ from
+ when
+ we
+ first
+ started
+
+
+with
+ live
+ because
+ our
+ preference
+ is
+ to
+
+
+not
+ have
+ to
+ have
+ so
+ many
+ constraints
+
+
+because
+ it
+ slows
+ down
+ too
+ many
+ teams
+ to
+
+
+be
+ able
+ to
+ make
+ their
+ own
+ improvements
+
+
+and
+ innovations
+ that
+ have
+ nothing
+ to
+ do
+
+
+with
+ live
+ along
+ the
+ way.
+ And
+ we
+ don't
+
+
+want
+ to
+ actually
+ slow
+ down
+ other
+ parts
+
+
+of
+ the
+ business
+ in
+ favor
+ of
+ just
+ one
+
+
+priority
+ area.
+ Elizabeth
+ was
+ just
+
+
+talking
+ about
+ how
+ above
+ a
+ certain
+ scale,
+
+
+Netflix
+ had
+ to
+ put
+ some
+ basic
+ guardrails
+
+
+in
+ place
+ for
+ high-risisk
+ systems,
+ but
+
+
+they
+ kept
+ being
+ worried
+ about
+
+
+introducing
+ too
+ many
+ constraints
+ because
+
+
+that
+ would
+ slow
+ teams
+ down.
+ This
+ problem
+
+
+of
+ wanting
+ both
+ reliability
+ and
+ speed
+ is
+
+
+not
+ unique
+ to
+ Netflix.
+ But
+ the
+ best
+
+
+companies
+ figure
+ out
+ what
+ the
+ right
+
+
+tools
+ are
+ to
+ enable
+ the
+ right
+ culture.
+
+
+Whether
+ it's
+ continuous
+ development
+ or
+
+
+experimentation
+ first
+ approaches,
+ these
+
+
+cultural
+ values
+ need
+ the
+ right
+ tooling
+
+
+and
+ infrastructure.
+ And
+ this
+ is
+ where
+
+
+stats,
+ our
+ presenting
+ sponsor,
+ comes
+ in.
+
+
+Static
+ built
+ a
+ unified
+ platform
+ that
+
+
+enables
+ bold
+ cultures,
+ both
+ continuous
+
+
+shipping
+ and
+ experimentation.
+ Feature
+
+
+flags
+ let
+ you
+ ship
+ continuously
+ with
+
+
+confidence,
+ roll
+ out
+ to
+ 10%
+ of
+ users,
+
+
+catch
+ issues
+ early,
+ roll
+ back
+ instantly
+
+
+if
+ needed.
+ Built-in
+ experimentation
+
+
+means
+ every
+ roll
+ out
+ automatically
+
+
+becomes
+ a
+ learning
+ opportunity
+ with
+
+
+proper
+ statistical
+ analysis
+ showing
+ you
+
+
+exactly
+ how
+ features
+ impact
+ your
+
+
+metrics.
+ And
+ because
+ it's
+ all
+ in
+ one
+
+
+platform
+ with
+ the
+ same
+ product
+ data,
+
+
+analytics,
+ session
+ replays,
+ everything,
+
+
+teams
+ across
+ your
+ organization
+ can
+
+
+collaborate
+ and
+ make
+ datadriven
+
+
+decisions.
+ Companies
+ like
+ Notion
+ went
+
+
+from
+ singledigit
+ experiments
+ per
+ quarter
+
+
+to
+ over
+ 300
+ experiments
+ with
+ static.
+
+
+They
+ shipped
+ over
+ 600
+ features
+ behind
+
+
+feature
+ flags,
+ moving
+ fast
+ while
+
+
+protecting
+ against
+ metric
+ aggression.
+
+
+Microsoft,
+ Atlashian,
+ and
+ Brex
+ use
+
+
+static
+ for
+ the
+ same
+ reason.
+ It's
+ the
+
+
+infrastructure
+ that
+ enables
+ both
+ speed
+
+
+and
+ reliability
+ at
+ scale.
+ Speaking
+ of
+
+
+scale,
+ Static
+ processes
+ trillions
+ of
+
+
+events
+ per
+ day.
+ So
+ whether
+ you're
+ a
+
+
+startup
+ or
+ building
+ at
+ OpenAI
+ scale,
+ the
+
+
+platform
+ grows
+ with
+ you.
+ You
+ can
+
+
+integrate
+ it
+ into
+ your
+ existing
+ product
+
+
+data
+ stack
+ easily.
+ If
+ you're
+ interested
+
+
+in
+ building
+ a
+ culture
+ of
+ continuous
+
+
+development
+ and
+ experimentation,
+ go
+ to
+
+
+stats.com/pragmatic.
+
+
+They
+ have
+ a
+ generous
+ freeze
+ tier,
+ a
+
+
+$50,000
+ starter
+ program,
+ and
+ affordable
+
+
+enterprise
+ plans.
+ Just
+ tell
+ them
+ the
+
+
+Pragmatic
+ engineer
+ sent
+ you.
+ with
+ this.
+
+
+Let's
+ get
+ back
+ to
+ the
+ conversation
+ about
+
+
+Netflix's
+ engineering
+ culture.
+ So,
+ when
+
+
+people
+ engineers
+ will
+ be
+ listening
+ or
+
+
+watching
+ this
+ this
+ recording,
+ a
+ lot
+ of
+
+
+them
+ will
+ just
+ be
+ nodding
+ like,
+ "Yeah,
+
+
+wow.
+ I'd
+ love
+ to
+ work
+ at
+ a
+ place
+ where,
+
+
+you
+ know,
+ we
+ can
+ make
+ these
+ decisions
+
+
+and
+ and
+ decide
+ how
+ much
+ risk
+ we
+ take
+
+
+and,
+ you
+ know,
+ the
+ process
+ we
+ set."
+ One
+
+
+reason
+ that
+ you
+ can
+ do
+ this,
+ I
+ know
+ for
+
+
+a
+ fact
+ because
+ I
+ know
+ engineers
+ at
+
+
+Netflix,
+ is
+ you
+ have
+ a
+ very
+ high
+ bar
+ for
+
+
+talent
+ and
+ you've
+ always
+ had
+ that
+ from
+
+
+from
+ the
+ very
+ beginning.
+ In
+ fact,
+ for
+
+
+the
+ first
+ 25
+ years
+ of
+ Netflix,
+ as
+ as
+ I'm
+
+
+correct,
+ the
+ only
+ software
+ engineering
+
+
+level
+ used
+ to
+ be
+ a
+ senior
+ software
+
+
+engineer.
+ Can
+ you
+ talk
+ about
+ how
+ you
+ go
+
+
+about
+ hiring?
+ What
+ what
+ this
+ bar
+ is?
+ And
+
+
+in
+ your
+ experience,
+ how
+ did
+ Netflix
+
+
+manage
+ to
+ to
+ it's
+ the
+ only
+ company
+ that
+
+
+for
+ again
+ such
+ a
+ decades
+ only
+ have
+ this
+
+
+one
+ level?
+ There
+ was
+ no
+ other
+ things
+ and
+
+
+and and
+ this
+ was
+ just
+ this
+ eyebar.
+ How
+
+
+did
+ it
+ work?
+ I
+ continue
+ to
+ be
+ amazed
+ by
+
+
+the
+ talent
+ density
+ at
+ Netflix.
+ I
+ almost
+
+
+didn't
+ believe
+ it
+ before
+ I
+ joined
+ a
+
+
+little
+ over
+ five
+ years
+ ago
+ of
+ yeah,
+ I'll
+
+
+believe
+ it
+ when
+ I
+ see
+ it.
+ I
+ think
+ the
+
+
+way
+ to
+ to
+ think
+ about
+ talent
+ density
+ at
+
+
+Netflix
+ is
+ a
+ lot
+ of
+ the
+ aspects
+ of
+ our
+
+
+culture
+ including
+ talent
+ density
+ are
+ a
+
+
+means
+ to
+ excellence
+ in
+ our
+ work.
+ So
+ none
+
+
+of
+ them
+ are
+ the
+ endgame.
+ They're
+ saying
+
+
+like
+ no
+ rules,
+ no
+ process
+ or
+ high
+ talent
+
+
+density
+ or
+ context,
+ not
+ control.
+ Any
+ of
+
+
+the
+ things
+ that
+ we're
+ we're
+ talking
+
+
+about
+ are
+ key
+ elements
+ of
+ getting
+ to
+ a
+
+
+group
+ of
+ people
+ who
+ strive
+ to
+ do
+ the
+
+
+best
+ possible
+ work
+ they
+ can.
+ Being
+ able
+
+
+to
+ get
+ through
+ so
+ much
+ of
+ Netflix's
+
+
+history
+
+
+without
+ the
+ complexity
+ of
+ levels
+ or
+
+
+rules
+ or
+ process
+ helped
+ to
+ signify
+ to
+
+
+people,
+ we're
+ expecting
+ a
+ lot
+ of
+ you.
+
+
+And
+ I
+ find
+ it's
+ a
+ very
+ human
+ thing
+ when
+
+
+someone
+ says,
+ "I'm
+ expecting
+ a
+ lot
+ of
+
+
+you."
+ That
+ people
+ step
+ up
+ and
+ do
+ the
+
+
+best
+ work
+ they
+ can.
+ So
+ in
+ some
+ ways
+ it
+
+
+builds
+ upon
+ itself
+ to
+ say,
+ "We
+ have
+ high
+
+
+talent
+ density.
+ We
+ expect
+ excellence.
+
+
+You
+ have
+ a
+ lot
+ of
+ autonomy
+ but
+ also
+ a
+
+
+lot
+ of
+ accountability
+
+
+that
+ the
+ best
+ people
+ will
+ thrive
+ in
+ that
+
+
+situation.
+ They're
+ not
+ distracted
+ by
+ a
+
+
+lot
+ of
+ the
+ things
+ that
+ you
+ could
+
+
+surround
+ that
+ with.
+ They
+ know
+ that
+ the
+
+
+bar
+ is
+ high
+ and
+ they
+ want
+ to
+ meet
+ that
+
+
+bar.
+ All
+ the
+ people
+ I
+ work
+ with
+ feel
+
+
+that
+ way.
+ you
+ don't
+ need
+ to
+ tell
+ them
+
+
+what
+ to
+ do.
+ They
+ lean
+ in
+ to
+ try
+ to
+ do
+
+
+the
+ best
+ possible
+ work.
+ Maintaining
+ that
+
+
+over
+ time,
+ especially
+ as
+ we've
+ scaled
+ as
+
+
+a
+ company
+ is
+ a
+ challenge.
+ So,
+ anytime
+ a
+
+
+team
+ grows
+ from
+ 100
+ to
+ a
+ thousand
+ to
+ a
+
+
+few
+ thousand,
+ you
+ have
+ to
+ think
+ about
+
+
+like
+ what's
+ the
+ scaffolding
+ you
+ put
+
+
+around
+ that
+ to
+ make
+ sure
+ we
+ can
+ maintain
+
+
+the
+ spirit
+ of
+ what
+ that
+ culture
+ was.
+ So,
+
+
+things
+ that
+ have
+ changed
+ over
+ time,
+ we
+
+
+don't
+ still
+ just
+ have
+ a
+ single
+ level.
+ So
+
+
+as
+ we
+ think
+ about
+ growing
+ as
+ an
+
+
+engineering
+ or
+ as
+ a
+ tech
+ organization
+
+
+more
+ broadly,
+ not
+ every
+ role
+ requires
+
+
+somebody
+ who
+ has
+ 10,
+ 15,
+ 20
+ years
+ of
+
+
+experience.
+ Some
+ roles
+ are
+ a
+ great
+ match
+
+
+for
+ someone
+ who's
+ newly
+ out
+ of
+ college
+
+
+or
+ has
+ a
+ couple
+ years
+ of
+ work
+
+
+experience,
+ but
+ you
+ would
+ want
+ to
+ think
+
+
+about
+ the
+ expectations
+ for
+ that
+ person,
+
+
+the
+ compensation
+ for
+ that
+ person
+ being
+
+
+different.
+ So
+ we
+ did
+ start
+ to
+ build
+ some
+
+
+scaffolding
+ around
+ levels,
+ not
+ to
+ say
+
+
+now
+ we
+ want
+ to
+ have
+ so
+ much
+ structure
+
+
+that
+ that's
+ sort
+ of
+ suffocating.
+ We
+ want
+
+
+to
+ maintain
+ all
+ the
+ great
+ things
+ about
+ a
+
+
+lot
+ of
+ independence
+ and
+ accountability,
+
+
+but
+ we
+ didn't
+ even
+ have
+ vocabulary
+ to
+
+
+talk
+ about
+ how
+ might
+ I
+ construct
+ a
+ team
+
+
+to
+ have
+ a
+ broader
+ array
+ of
+ talent.
+ So,
+
+
+that's
+ one
+ of
+ the
+ things
+ we've
+ changed
+
+
+over
+ the
+ last
+ couple
+ of
+ years.
+ We've
+
+
+also
+ had
+ to
+ think
+ about
+ one
+ of
+ the
+
+
+things
+ you
+ get
+ as
+ you
+ introduce
+ levels
+
+
+are
+ things
+ like
+ IC
+ or
+ people
+ management
+
+
+pathways.
+ What
+ are
+ the
+ expectations
+ that
+
+
+you
+ have
+ at
+ each
+ level?
+ Some
+ of
+ that
+ is
+
+
+about
+ skills.
+ Every
+ company
+ is
+ going
+ to
+
+
+have
+ that
+ reflected.
+ But
+ a
+ big
+ part
+ of
+
+
+what
+ we
+ have
+ in
+ our
+ pathways
+ and
+ our
+
+
+ways
+ of
+ talking
+ are
+ the
+ cultural
+ things.
+
+
+So
+ do
+ you
+ uplift
+ other
+ people
+ around
+
+
+you?
+ Do
+ you
+ deliver
+ a
+ lot
+ of
+ excellence
+
+
+and
+ accountability
+ in
+ your
+ work?
+ And
+ we
+
+
+hold
+ a
+ high
+ bar
+ for
+ people
+ meeting
+ those
+
+
+things.
+ That's
+ selflessness.
+ That's
+ good
+
+
+judgment.
+ That's
+ thinking
+ about
+ what's
+
+
+best
+ for
+ Netflix.
+ Some
+ of
+ our
+
+
+engineering
+ principles
+ are
+ things
+ like,
+
+
+you
+ know,
+ building
+ for
+ the
+ future
+ teams
+
+
+who
+ are
+ going
+ to
+ thank
+ you
+ for
+ the
+ work
+
+
+that
+ you
+ did
+ today,
+ which
+ means
+ don't
+
+
+take
+ shortcuts.
+ build
+ highquality,
+
+
+durable
+ products.
+ Things
+ like
+ think
+
+
+globally,
+ act
+ locally,
+ meaning
+ think
+
+
+about
+ the
+ broader
+ ramifications
+ across
+
+
+the
+ tech
+ organization
+ or
+ Netflix
+ even
+ as
+
+
+you
+ make
+ your
+ local
+ decision.
+ And
+ maybe
+
+
+my
+ personal
+ favorite,
+ which
+ is
+ yearn
+ to
+
+
+learn.
+ It's
+ a
+ nice
+ u
+ memeified
+ uh
+ phrase
+
+
+of
+ like
+ be
+ curious,
+ you
+ know,
+ think
+
+
+about
+ like
+ am
+ I
+ thinking
+ about
+ the
+ right
+
+
+problem
+ in
+ the
+ right
+ way?
+ That's
+ how
+
+
+we've
+ maintained
+ high
+ talent
+ density
+ to
+
+
+say
+ like
+ those
+ are
+ our
+ ways
+ of
+ working
+
+
+and
+ we
+ expect
+ that
+ from
+ everyone
+ no
+
+
+matter
+ what
+ your
+ level
+ is
+ and
+ you
+ have
+
+
+to
+ watch
+ out
+ for
+ the
+ incentives
+ that
+
+
+things
+ create
+ like
+ you
+ know
+ it's
+ very
+
+
+easy
+ to
+ say
+ I'm
+ going to
+ do
+ the
+ thing
+
+
+that
+ I
+ think
+ puts
+ me
+ in
+ a
+ better
+
+
+position
+ rather
+ than
+ my
+ team
+ or
+ the
+
+
+company
+ and
+ we
+ really
+ try
+ to
+ discourage
+
+
+that
+ and
+ really
+ celebrate
+ when
+ people
+ do
+
+
+the
+ thing
+ that's
+ selfless
+ or
+ does
+ the
+
+
+less
+ glamorous
+ or
+ less
+ visible
+ work
+ as
+
+
+long
+ as
+ it's
+ better
+ for
+ everyone
+ else
+ I
+
+
+find
+ that
+ when
+ people
+ behave
+ that
+ way
+ it
+
+
+continues
+ used
+ to
+ attract
+ and
+ retain
+ the
+
+
+best
+ talent.
+
+
+>> You
+ mentioned
+ that,
+ you
+ know,
+ you're
+
+
+trying
+ to
+ not
+ have
+ things
+ that
+ distract
+
+
+people.
+ Now,
+ when
+ I
+ was
+ a
+ manager,
+ uh,
+
+
+one
+ thing
+ that
+ did
+ distract
+ me,
+ every
+
+
+six
+ months
+ on
+ the
+ dock,
+
+
+>> guess
+ what?
+
+
+>> Performance
+ review
+ season.
+ And
+ as
+ we
+
+
+just
+ called
+ it
+ Perf,
+
+
+>> it
+ was
+ one
+ month
+ of
+ my
+ life.
+ Uh,
+ or
+
+
+especially
+ at
+ the
+ end
+ of
+ the
+ year,
+
+
+>> even
+ longer.
+ Yeah,
+
+
+>> even
+ longer.
+ And
+ and
+ whenever
+ I
+ talk
+
+
+with
+ with
+ fellow
+ engine
+ managers,
+ I
+ just
+
+
+caught
+ up
+ with
+ with
+ a
+ with
+ a
+ a
+ friend
+
+
+and
+ he
+ was
+ saying
+ like,
+ "Oh
+ yeah,
+ Perf
+
+
+is
+ coming
+ up
+ so
+ I
+ won't
+ be
+ able
+ to
+ help
+
+
+you
+ know
+ in
+ this
+ period."
+ How
+ do
+ you
+ go
+
+
+about
+ this
+ necessary
+ evil
+ of
+ of
+ or
+ just
+
+
+necessary
+ process
+ of
+ performance
+
+
+management
+ because
+ I
+ understand
+ it's
+
+
+very
+ different
+ and
+ related
+ to
+ this
+ uh
+
+
+it's
+ very
+ public
+ publicly
+ uh
+ you
+ know
+
+
+like
+ known
+ the
+ keeper
+ test
+ which
+ you
+
+
+which
+ Netflix
+ shares
+ on
+ on
+ the
+ website
+
+
+as
+ well.
+ How
+ does
+ this
+ play
+ into
+ it
+ if
+
+
+it
+ does
+ at
+ all?
+
+
+>> Yeah,
+ we
+ don't
+ have
+ formal
+ performance
+
+
+reviews,
+ which
+ is
+ probably
+ the
+ first
+
+
+unusual
+ thing.
+ So,
+ when
+ you
+ think
+ about
+
+
+other
+ companies
+ spending
+ that
+ time
+ to
+
+
+talk
+ through
+ each
+ person
+ or
+ assign
+ a
+
+
+rating
+ for
+ whether
+ they
+ meet
+ exceed,
+ you
+
+
+know,
+ I've
+ seen
+ that
+ at
+ other
+ companies,
+
+
+too.
+ Uh
+ we
+ don't
+ do
+ it
+ that
+ way,
+ but
+ we
+
+
+do
+ carefully
+ think
+ about
+ feedback,
+
+
+performance,
+ expectations,
+ all
+ the
+
+
+things
+ that
+ would
+ feed
+ into
+ keeper
+ test,
+
+
+which
+ I'm
+ happy
+ to
+ talk
+ through.
+ So,
+ the
+
+
+way
+ we
+ approach
+ it
+ at
+ Netflix
+ is
+ first
+
+
+trying
+ to
+ get
+ to
+ something
+ that
+ looks
+
+
+like
+ continuous,
+ timely,
+ candid
+
+
+feedback.
+ Easier
+ said
+ than
+ done.
+ It
+
+
+requires
+ trust.
+ It
+ requires
+ deep
+
+
+relationships
+ to
+ be
+ able
+ to
+ give
+ someone
+
+
+in
+ the
+ moment
+ very
+ candid
+ feedback.
+ It
+
+
+could
+ be
+ here's
+ the
+ thing
+ you
+ did
+ great.
+
+
+It's
+ not
+ always
+ a
+ negative
+ or
+ a
+
+
+constructive
+ thing.
+ and
+ to
+ be
+ able
+ to
+
+
+receive
+ that
+ type
+ of
+ feedback.
+ If
+ we're
+
+
+living
+ the
+ Netflix
+ culture
+ well,
+ that's
+
+
+something
+ that
+ would
+ be
+ familiar
+ and
+
+
+comfortable
+ every
+ day
+ of
+ the
+ year.
+ So,
+
+
+you're
+ not
+ having
+ to
+ wait
+ for
+ a
+ certain
+
+
+performance
+ review
+ or
+ feedback
+ cycle
+ in
+
+
+order
+ to
+ hear
+ how
+ you're
+ doing
+ or
+ be
+
+
+able
+ to
+ provide
+ that
+ type
+ of
+ input
+ to
+
+
+others.
+ We
+ do
+ as
+ kind
+ of
+ a
+ safety
+ net
+
+
+have
+ an
+ annual
+ 360
+ process
+ where
+ I
+ would
+
+
+request
+ feedback
+ from
+ a
+ bunch
+ of
+ people
+
+
+I
+ work
+ with.
+ I
+ get
+ requests
+ from
+ a
+ bunch
+
+
+of
+ people,
+ but
+ that's
+ something
+ that
+
+
+you're
+ having
+ a
+ direct
+ conversation
+ with
+
+
+the
+ individual
+ about
+ feedback.
+ It's
+
+
+something
+ I
+ would
+ review
+ with
+ my
+ manager
+
+
+to
+ say,
+ "Here
+ are
+ some
+ of
+ the
+ themes
+
+
+that
+ I
+ heard,
+ some
+ of
+ the
+ things
+ I'm
+
+
+going
+ to
+ work
+ on."
+ So,
+ there's
+ an
+
+
+opportunity
+ to
+ think
+ about
+ what
+ is
+ my
+
+
+performance?
+ How
+ are
+ people
+ perceiving
+
+
+our
+ working
+ relationship
+ and
+ my
+
+
+contributions?
+ But
+ it's
+ not
+ structured
+
+
+as
+ an
+ evaluation.
+ It's
+ structured
+ in
+ the
+
+
+context
+ of
+ feedback
+ that
+ helps
+ people
+
+
+improve.
+ And
+ then
+ separately
+ once
+ a
+ year
+
+
+we
+ go
+ through
+ both
+ compensation
+ review
+
+
+which
+ is
+ a
+ reflection
+ in
+ ways
+ of
+ what's
+
+
+my
+ level
+ of
+ impact
+ what
+ skills
+ have
+ I
+
+
+gained
+ what
+ are
+ my
+ contributions
+ to
+ the
+
+
+company.
+ So
+ you
+ naturally
+ talk
+ about
+
+
+performance
+ as
+ part
+ of
+ thinking
+ about
+
+
+someone's
+ personal
+ top
+ of
+ market
+ which
+
+
+is
+ our
+ compensation
+ philosophy.
+ So
+ it
+
+
+comes
+ up
+ as
+ a
+ conversation
+ there
+ where
+
+
+managers
+ really
+ think
+ about
+ for
+ each
+
+
+person
+ on
+ their
+ team
+ how
+ do
+ I
+ think
+
+
+about
+ the
+ compensation
+ that
+ reflects
+
+
+this
+ person's
+ value
+ to
+ Netflix
+ and
+ value
+
+
+in
+ the
+ market.
+ So
+ that
+ has
+ a
+ performance
+
+
+flavor
+ to
+ it
+ but
+ is
+ not
+ a
+ performance
+
+
+review.
+ And
+ then
+ a
+ couple
+ years
+ times
+ a
+
+
+year
+ we
+ evaluate
+ promotions.
+ So
+ in
+ that
+
+
+case
+ for
+ a
+ group
+ of
+ people
+ who
+ might
+ be
+
+
+up
+ for
+ promotion
+ from
+ you
+ know
+ level
+
+
+five
+ to
+ a
+ level
+ six
+ we
+ would
+ collect
+
+
+feedback
+ that
+ helps
+ us
+ make
+ that
+
+
+decision.
+ So
+ if
+ I
+ look
+ across
+ the
+
+
+feedback
+ continuous
+ in
+ the
+ 360
+ cycle
+
+
+compensation
+ review
+ and
+ promotion
+
+
+evaluations,
+ we
+ get
+ quite
+ a
+ few
+ touch
+
+
+points
+ where
+ people
+ are
+ hearing
+ how
+
+
+they're
+ doing,
+ but
+ it
+ feels
+ more
+
+
+constructive
+ and
+ actionable
+ than
+ the
+
+
+performance
+ review
+ structure
+ that
+ other
+
+
+companies
+ have.
+ What
+ this
+ requires
+ us
+ to
+
+
+do
+ well
+ is
+ still
+ a
+ lot
+ of
+ manager
+
+
+attention
+ and
+ judgment.
+ And
+ it's
+ not
+ a
+
+
+manager
+ in
+ isolation
+ being
+ able
+ to
+ say
+ I
+
+
+think
+ you're
+ meeting
+ the
+ keeper
+ test
+ or
+
+
+I
+ think
+ this
+ should
+ be
+ your
+
+
+compensation.
+ We
+ do
+ have
+ structure
+
+
+around
+ that
+ so
+ that
+ managers
+ are
+
+
+accountable
+ for
+ the
+ decisions
+ that
+
+
+they're
+ making
+ on
+ their
+ team.
+ So
+ if
+ I
+
+
+think
+ about
+ my
+ role
+ in
+ leading
+ the
+ tech
+
+
+organization,
+ I
+ review
+ collectively
+
+
+who's
+ getting
+ promoted,
+ how
+ many
+ people
+
+
+are
+ getting
+ promoted,
+ what
+ are
+ the
+
+
+themes
+ coming
+ up
+ in
+ 360
+ feedback,
+
+
+where's
+ compensation
+ landing
+ across
+ the
+
+
+teams.
+ So
+ it's
+ a
+ little
+ bit
+ of
+ checks
+
+
+and
+ balances
+ because
+ we
+ do
+ weave
+ so
+ much
+
+
+to
+ a
+ relatively
+ unstructured
+ process
+ and
+
+
+we
+ try
+ to
+ provide
+ a
+ lot
+ of
+ support
+ to
+
+
+managers
+ when
+ they
+ are
+ making
+ keeper
+
+
+test
+ decisions.
+ So
+ for
+ context
+ that's
+
+
+asking
+ the
+ question
+ of
+ you
+ know
+ is
+ this
+
+
+person
+ really
+ meeting
+ expectations
+ for
+
+
+the
+ role
+ and
+ what
+ the
+ business
+ requires.
+
+
+There's
+ a
+ keeper
+ test
+ that
+ a
+ manager
+
+
+might
+ ask
+ themselves
+ and
+ have
+ that
+
+
+conversation
+ with
+ members
+ of
+ their
+ team.
+
+
+But
+ honestly,
+ there's
+ a
+ keeper
+ test
+ that
+
+
+goes
+ from
+ members
+ of
+ their
+ team
+ to
+ their
+
+
+managers.
+ Do
+ I
+ want
+ to
+ stay?
+ Am
+ I
+
+
+excited
+ about
+ the
+ work
+ that
+ I'm
+ doing?
+
+
+Is
+ my
+ manager
+ giving
+ me
+ growth
+ and
+
+
+development,
+ helping
+ to
+ guide
+ my
+ work
+ in
+
+
+good
+ ways?
+ You
+ know,
+ I
+ want
+ to
+ make
+ sure
+
+
+it's
+ clear
+ that
+ that's
+ then
+ a
+ we're
+ all
+
+
+kind
+ of
+ accountable
+ for
+ that
+ instead
+ of
+
+
+it
+ just
+ being
+ like
+ a
+ manager
+ makes
+
+
+decisions
+ for
+ their
+ teams.
+ But
+ the
+
+
+keeper
+ test
+ and
+ asking
+ yourself
+ that
+
+
+question
+ is
+ a
+ good
+ way
+ to
+ make
+ sure
+ that
+
+
+we're
+ all
+ accountable
+ for
+ holding
+ high
+
+
+talent
+ density
+ bar
+ in
+ our
+ team.
+ It's
+
+
+also
+ a
+ good
+ way
+ for
+ someone
+ on
+ my
+ team
+
+
+to
+ ask
+ me,
+ hey,
+ how
+ am
+ I
+ doing?
+ You
+
+
+know,
+ is
+ there
+ any
+ feedback
+ that
+ maybe
+ I
+
+
+haven't
+ heard
+ that
+ I
+ should
+ know
+ about
+
+
+to
+ make
+ sure
+ I'm
+ meeting
+ expectations?
+
+
+And
+ ideally,
+ we
+ do
+ that
+ in
+ a
+ way
+ that
+
+
+feels
+ like
+ normal
+ course
+ of
+ business.
+
+
+>> So
+ the
+ keeper
+ test
+ is
+ unusual.
+ the
+ fact
+
+
+that
+ you
+ don't
+ do
+ performance
+ reviews
+ is
+
+
+unusual
+ or
+ at
+ least
+ not
+ not
+ a
+ structure
+
+
+cadence
+ for
+ someone
+ listening.
+
+
+They
+ might
+ think,
+ well,
+ that
+ sounds
+ real
+
+
+stressful.
+ However,
+ I
+ looked
+ at
+ data
+
+
+from
+ Signal
+ Fire.
+ They
+ they
+ they
+ had
+
+
+this
+ chart
+ with
+ the
+ retention
+ of
+ tech
+
+
+companies
+ in
+ the
+ talent
+ bar.
+ So
+ like
+
+
+kind
+ of
+ higher
+ talent
+ bar
+ here
+ in
+
+
+retention
+ and
+ Netflix
+ comes
+ in
+ the
+ top
+
+
+top
+ corner
+ above
+ all
+ companies
+ which
+
+
+means
+
+
+>> that
+ they're
+ in
+ based
+ on
+ the
+ data
+ they
+
+
+have
+ high
+ engineering
+ talent
+ is
+ the
+
+
+least
+ likely
+ to
+ leave
+ at
+ Netflix
+ across
+
+
+companies
+ that
+ are
+ comparable.
+ My
+
+
+question
+ to
+ you
+ why
+ do
+ you
+ think
+ people
+
+
+leave
+ companies
+ and
+ why
+ are
+ they
+
+
+staying?
+
+
+>> Yeah
+ I
+ I'm
+ glad
+ to
+ hear
+ we
+ were
+ like
+ on
+
+
+the
+ upper
+ right
+ but
+ we
+ have
+ to
+ earn
+ we
+
+
+have
+ to
+ earn
+ that
+ o
+ over
+ time.
+ I
+ I
+
+
+personally
+
+
+find
+ that
+ people
+ leave
+ when
+ they're
+ not
+
+
+getting
+ the
+ challenges
+ and
+ the
+
+
+fulfillment
+ that
+ they
+ would
+ like
+ to
+ get
+
+
+from
+ their
+ work
+ or
+ they
+ don't
+ feel
+ like
+
+
+they're
+ adequately
+ recognized
+ for
+ the
+
+
+contributions
+ that
+ they're
+ making.
+ I
+
+
+don't
+ know
+ that
+ any
+ company
+ can
+
+
+guarantee
+ that
+ everyone
+ loves
+ their
+ job
+
+
+and
+ feels
+ perfectly
+ recognized
+ every
+
+
+day,
+ but
+ we
+ get
+ a
+ lot
+ of
+ kind
+ of
+ atbats
+
+
+on
+ that
+ for
+ people
+ to
+ feel
+ like
+ I'm
+
+
+solving
+ really
+ hard
+ interesting
+
+
+problems.
+ I
+ have
+ a
+ lot
+ of
+ agency
+ and
+
+
+autonomy
+ on
+ how
+ I
+ solve
+ those
+ problems.
+
+
+I
+ don't
+ feel
+ constrained
+ by
+ a
+ lot
+ of
+
+
+rules
+ or
+ process.
+ We
+ don't
+ have
+ a
+ top-
+
+
+down
+ command
+ and
+ control
+ culture
+ that
+
+
+really
+ narrows
+ people's
+ contributions
+
+
+and
+ we
+ expect
+ a
+ lot
+ of
+ that
+
+
+responsibility
+ for
+ both
+ the
+ successes
+
+
+and
+ the
+ failures.
+
+
+A
+ lot
+ of
+ people
+ love
+ that
+ environment.
+
+
+We
+ fight
+ really
+ hard
+ to
+ maintain
+ that
+
+
+type
+ of
+ environment
+ so
+ that
+ people
+ are
+
+
+excited
+ to
+ stay.
+ It
+ doesn't
+ mean
+ that
+
+
+our
+ retention
+ is
+ 100%.
+ people
+ get
+ great
+
+
+opportunities
+ other
+ places
+ and
+ I
+
+
+actually
+ think
+ it's
+ good
+ for
+ them
+ to
+
+
+take
+ it
+ because
+ we're
+ not
+ saying
+ like
+ we
+
+
+expect
+ you
+ to
+ be
+ at
+ Netflix
+ forever.
+ We
+
+
+do
+ want
+ people
+ to
+ be
+ excited
+ here
+ think
+
+
+they're
+ doing
+ the
+ best
+ work
+ of
+ their
+
+
+life.
+ Sometimes
+ they
+ get
+ opportunities
+
+
+elsewhere
+ but
+ hopefully
+ that's
+ that's
+ a
+
+
+positive
+ experience
+ they've
+ had
+ in
+ terms
+
+
+of
+ the
+ work
+ and
+ the
+ culture
+ that
+ they
+
+
+experienced
+ at
+ Netflix.
+ I
+ also
+ think
+
+
+managers
+ and
+ leaders
+ have
+ a
+ big
+ role
+ to
+
+
+play
+ in
+ why
+ people
+ stay
+ in
+ setting
+ a
+
+
+vision
+ in
+ setting
+ a
+ clear
+ strategy
+ in
+
+
+making
+ tough
+ timely
+ decisions
+ so
+ that
+
+
+people
+ can
+ do
+ their
+ best
+ work
+ and
+ in
+ my
+
+
+experience
+ sometimes
+ will
+ people
+ will
+
+
+decide
+ to
+ stay
+ or
+ leave
+ based
+ on
+ that
+
+
+overall
+ sense
+ of
+ like
+ I
+ feel
+ really
+
+
+inspired
+ by
+ the
+ direction
+ we're
+ taking
+
+
+that
+ I
+ think
+ Netflix
+ has
+ had
+ a
+ lot
+ to
+
+
+offer
+ especially
+ with
+ some
+ of
+ our
+ newer
+
+
+bets
+ and
+ things
+ that
+ we're
+ building
+ from
+
+
+scratch
+ and
+ new
+ experienc
+ experiences
+
+
+that
+ we're
+ bringing
+ to
+ studios
+ or
+
+
+advertisers
+ or
+ members.
+ So
+ hopefully
+
+
+that
+ also
+ builds
+ some
+ of
+ the
+ enthusiasm.
+
+
+And
+ to
+ finish
+ my
+ thought,
+ I
+ think
+ people
+
+
+stay
+ when
+ they're
+ impressed
+ by
+ the
+
+
+talent
+ around
+ them.
+ This
+ is
+ where
+ talent
+
+
+density
+ builds
+ on
+ itself.
+ You
+ know,
+ if
+
+
+you
+ really
+ hold
+ people
+ to
+ a
+ high
+ bar,
+
+
+great
+ talent's
+ much
+ more
+ likely
+ to
+ want
+
+
+to
+ stay.
+ So
+ this
+ is
+ another
+ reason
+ to
+
+
+make
+ sure
+ we
+ do
+ a
+ really
+ good
+ job
+ with
+
+
+that.
+ So
+ one
+ of
+ the
+ very
+ exciting
+ things
+
+
+these
+ days
+ of
+ course
+ is
+ AI
+ and
+ AI
+ tools
+
+
+both
+ building
+ with
+ them
+ but
+ also
+ using
+
+
+as
+ engineers.
+ In
+ your
+ experience
+ inside
+
+
+Netflix,
+ how
+ are
+ the
+ engineering
+ teams
+
+
+using
+ these
+ AI
+ tools
+ for
+ their
+ own
+ work?
+
+
+How
+ are
+ they
+ experimenting
+ with
+ them?
+
+
+What
+ is
+ working?
+ What
+ is
+ maybe
+ not
+ a
+
+
+great
+ fit?
+
+
+>> Yep.
+ It's
+ a
+ huge
+ area
+ of
+ focus
+ for
+ us
+
+
+right
+ now,
+ but
+ with
+ a
+ lot
+ of
+ intention
+
+
+and
+ pragmatism
+ of
+ where
+ these
+ tools
+ are
+
+
+actually
+ helpful
+ versus
+
+
+>> I
+ love
+ that
+
+
+>> they're
+ not.
+ Um,
+ and
+ again,
+ the
+ hope
+ is
+
+
+that
+ we
+ identify
+ those
+ places
+ where
+ we
+
+
+actually
+ get
+ higher
+ quality,
+ more
+ impact
+
+
+for
+ the
+ business
+ versus
+ things
+ that
+ are
+
+
+lower
+ quality
+ or
+ just
+ about
+ cost
+
+
+reduction.
+ That's
+ really
+ not
+ interesting
+
+
+to
+ us.
+ So
+ across
+ any
+ technical
+
+
+application
+ but
+ including
+ genai
+ we're
+
+
+looking
+ for
+ the
+ thing
+ that
+ is
+
+
+meaningfully
+ advancing
+ our
+ impact
+ for
+
+
+the
+ company.
+ So
+ for
+ engineers
+ we
+ are
+
+
+experimenting
+ with
+ a
+ set
+ of
+ coding
+
+
+assistants.
+ The
+ way
+ we
+ approach
+ it
+ is
+ to
+
+
+provide
+ a
+ lot
+ of
+ different
+ tools
+ to
+ the
+
+
+teams
+ so
+ they
+ are
+ able
+ to
+ explore
+
+
+experiment
+ decide
+ which
+ tools
+ meet
+ their
+
+
+needs
+ start
+ to
+ learn
+ what
+ works
+ better
+
+
+for
+ some
+ use
+ cases
+ or
+ some
+ applications
+
+
+than
+ others.
+ We're
+ trying
+ to
+ create
+
+
+space
+ so
+ that
+ people
+ actually
+ have
+ the
+
+
+time
+ to
+ do
+ that.
+ As
+ we
+ all
+ know,
+ there's
+
+
+quite
+ a
+ learning
+ curve
+ when
+ you're
+
+
+thinking
+ about
+ like
+ I'm
+ going
+ to
+ change
+
+
+how
+ I
+ write
+ code,
+ how
+ I
+ document,
+ how
+ I
+
+
+think
+ about
+ making
+ decisions,
+ especially
+
+
+for
+ the
+ people
+ who
+ are
+ very
+ accomplished
+
+
+in
+ their
+ roles.
+ Changing
+ your
+ way
+ of
+
+
+working
+ can
+ be
+ kind
+ of
+ jarring.
+ And
+ we
+
+
+have
+ tight
+ timelines
+ and
+ big
+ ambitions
+
+
+here.
+ So
+ there's
+ not
+ a
+ lot
+ of
+ free
+ time
+
+
+running
+ around
+ of
+ let
+ me
+ figure
+ out
+ how
+
+
+to
+ use
+ this
+ new
+ technology.
+ So
+ we're
+
+
+doing
+ things
+ like
+ both
+ enabling
+ the
+
+
+tools.
+ We
+ have
+ some
+ weeks
+ where
+ we
+ let
+
+
+people
+ just
+ be
+ focused
+ on
+ let
+ me
+ try
+ a
+
+
+new
+ project.
+ Let
+ me
+ experiment
+ with
+
+
+something
+ new
+ that
+ gives
+ people
+ a
+ little
+
+
+bit
+ of
+ space.
+ And
+ then
+ we're
+ collecting
+
+
+tons
+ of
+ feedback
+ from
+ across
+ the
+ team
+
+
+around
+ which
+ tools
+ are
+ actually
+ useful,
+
+
+which
+ do
+ we
+ want
+ to
+ graduate
+ to
+ paved
+
+
+paths,
+ where
+ are
+ the
+ areas
+ where
+ we
+
+
+actually
+ see
+ the
+ most
+ impact.
+ A
+ lot
+ of
+
+
+that
+ is
+ self-reported.
+ You
+ know,
+ it's
+
+
+teams
+ that
+ are
+ experimenting.
+ We
+ have
+
+
+what
+ we
+ call
+ Genai
+ champions
+ throughout
+
+
+the
+ business.
+ Then
+ so
+ they're
+ able
+ to
+
+
+kind
+ of
+ help
+ teams
+ troubleshoot,
+
+
+understand
+ what's
+ available,
+ but
+ also
+
+
+feedback
+ to
+ central
+ teams
+ what's
+ working
+
+
+and
+ what's
+ not,
+ so
+ we
+ can
+ continue
+ to
+
+
+advance
+ how
+ we're
+ approaching
+ this.
+ And
+
+
+I
+ do
+ think
+ we're
+ doing
+ a
+ good
+ job
+ being
+
+
+pragmatic
+ and
+ thinking
+ about
+ not
+ feeling
+
+
+like
+ it
+ needs
+ to
+ be
+ like
+ Genai
+ is
+ a
+
+
+silver
+ bullet
+ for
+ everything
+ that
+
+
+engineering
+ or
+ technical
+ teams
+ are
+
+
+doing.
+ I
+ think
+ we
+ want
+ to
+ be
+ more
+
+
+surgical
+ about
+ where
+ the
+ impact
+ comes
+
+
+from.
+ And
+ in
+ some
+ ways
+ that
+ reflects
+ the
+
+
+same
+ strategy
+ we're
+ taking
+ for
+ member-f
+
+
+facing
+ use
+ cases
+ or
+ creatorf
+ facing
+ use
+
+
+cases
+ where
+ we're
+ trying
+ to
+ figure
+ out
+
+
+like
+ where
+ do
+ we
+ actually
+ get
+ a
+ better
+
+
+experience
+ and
+ higher
+ quality
+ and
+
+
+experiment
+ with
+ a
+ ton
+ of
+ different
+
+
+capabilities
+ which
+ also
+ has
+ implications
+
+
+for
+ what's
+ our
+ infrastructure
+ strategy?
+
+
+What's
+ our
+ overall
+ strategy
+ of
+ like
+ how
+
+
+do
+ we
+ give
+ access
+ to
+ a
+ lot
+ of
+ different
+
+
+options
+ so
+ we
+ can
+ experiment
+ and
+ then
+
+
+think
+ about
+ where's
+ the
+ market
+ solving
+
+
+this?
+ Well,
+ where
+ should
+ we
+ build
+
+
+something
+ inhouse?
+ It's
+ very
+ likely
+ that
+
+
+for
+ a
+ lot
+ of
+ our
+ tech
+ productivity,
+ the
+
+
+market
+ is
+ solving
+ those
+ problems
+ very
+
+
+well.
+ There's
+ not
+ really
+ a
+ big
+ advantage
+
+
+to
+ us
+ building
+ tools
+ inhouse,
+ but
+ we
+
+
+still
+ want
+ to
+ be
+ kind
+ of
+ choosy
+ in
+ which
+
+
+market
+ tools
+ we
+ actually
+ leverage.
+
+
+>> You
+ said
+ you're
+ getting
+ a
+ lot
+ of
+
+
+feedback
+ already.
+ You
+ know,
+ people,
+
+
+teams,
+ organizations
+ are
+ sharing
+ what's
+
+
+working,
+ what's
+ not.
+ Are
+ you
+ seeing
+ some
+
+
+areas
+ where
+ where
+ these
+ tools
+
+
+specifically
+ AI
+ coding
+ assistance
+
+
+agentic
+ tools
+ are
+ maybe
+ a
+ little
+ bit
+
+
+more
+ more
+ helpful?
+ May
+ may
+ that
+ be
+ green
+
+
+field
+ things,
+ migrations,
+ prototyping
+ or
+
+
+some
+ other
+ areas.
+
+
+>> You
+ named
+ a
+ couple
+ of
+ them
+ very
+ well.
+ So
+
+
+maybe
+ starting
+ at
+ the
+ end
+ there
+
+
+prototyping
+ is
+ a
+ lot
+ faster
+ and
+ actually
+
+
+that's
+ a
+ place
+ where
+ when
+ you
+ think
+
+
+about
+ the
+ cross
+ functional
+ teams
+ across
+
+
+engineers,
+ data
+ scientists,
+ product
+
+
+managers,
+ designers,
+ we're
+ hoping
+ that
+
+
+we
+ can
+ actually
+ bootstrap
+ things
+ very
+
+
+quickly.
+ I
+ have
+ an
+ idea.
+ Let's
+ visualize
+
+
+that
+ idea.
+ Let's
+ like
+ quickly
+ throw
+
+
+together
+ a
+ set
+ of
+ code
+ that
+ would
+ help
+
+
+to
+ bring
+ this
+ to
+ life.
+ That's
+ not
+
+
+necessarily
+ something
+ we
+ would
+
+
+productize
+ or
+ consider
+ production
+ ready
+
+
+code,
+ but
+ that's
+ okay
+ because
+ it
+ helps
+
+
+teams
+ advance
+ and
+ innovate
+ and
+ kind
+ of
+
+
+workshop
+ ideas
+ very
+ quickly.
+ And
+ then,
+
+
+you
+ know,
+ as
+ you
+ probably
+ know
+ and
+ your
+
+
+listeners
+ know,
+ there's
+ a
+ lot
+ of
+ what
+
+
+can
+ be
+ tedious
+ work.
+ And
+ it's
+ not
+ always
+
+
+the
+ actual
+ coding
+ work
+ where
+ it
+ it
+ it
+
+
+feels
+ like
+ it's
+ the
+ biggest
+ time
+
+
+commitment.
+ It
+ can
+ be
+ accessing
+
+
+knowledge
+ about
+ how
+ systems
+ work.
+ It
+ can
+
+
+be
+ documenting
+ code.
+ It
+ can
+ be
+ thinking
+
+
+about
+ big
+ migrations
+ that
+ we've
+ had
+ on
+
+
+our
+ plate
+ that
+ we
+ can
+ actually
+ automate
+
+
+much
+ of
+ that
+ work.
+
+
+>> And
+ there's
+ also
+ things
+ around
+ detecting
+
+
+issues.
+ So
+ anomaly
+ detection,
+ response,
+
+
+being
+ able
+ to
+ do
+ deep
+ dives
+ of
+ issues.
+
+
+We're
+ finding
+ that
+ there's
+ a
+ lot
+ of
+
+
+promise
+ for
+ Genaii
+ tools
+ in
+ that
+ space
+
+
+which
+ helps
+ us
+ with
+ some
+ of
+ our
+
+
+resilience
+ and
+ just
+ general
+ best
+
+
+practices
+ and
+ health
+ as
+ an
+ engineering
+
+
+organization.
+
+
+If
+ we're
+ able
+ to
+ use
+ Genai
+ tools
+ in
+
+
+those
+ spaces,
+ prototyping,
+
+
+documentation,
+ migrations,
+ detection
+ and
+
+
+response,
+ it
+ leaves
+ a
+ lot
+ of
+ time
+ for
+
+
+the
+ more
+ innovative
+ work.
+ So,
+ how
+ do
+ we
+
+
+think
+ about
+ architectures
+ and
+ systems
+
+
+and
+ products
+ that
+ we're
+ building
+ to
+
+
+deliver
+ business
+ impact?
+ So
+ then
+
+
+hopefully
+ we
+ can
+ actually
+ get
+ more
+
+
+impact
+ for
+ engineers
+ because
+ they're
+
+
+able
+ to
+ actually
+ leverage
+ some
+ of
+ the
+
+
+tools
+ or
+ agentic
+ experiences
+ to
+ minimize
+
+
+the
+ time
+ spent
+ on
+ some
+ of
+ the
+ less
+
+
+impactful
+ activities.
+ But
+ it's
+ really
+ a
+
+
+a
+ portfolio
+ of
+ work
+ and
+ I
+ would
+ say
+
+
+again
+ it's
+ not
+ a
+ silver
+ bullet
+ in
+ any
+ of
+
+
+those
+ spaces.
+ I
+ would
+ say
+ it's
+ come
+ a
+
+
+long
+ way
+ since
+ some
+ of
+ the
+ tools
+ we
+
+
+first
+ started
+ experimenting
+ with
+ a
+
+
+couple
+ years
+ ago
+ which
+ let's
+ just
+ say
+
+
+they
+ didn't
+ meet
+ the
+ quality
+ bar
+ that
+ we
+
+
+really
+ need.
+
+
+>> Yeah.
+ No,
+ it's
+ it's
+ been
+ a
+ big
+ change
+ on
+
+
+this.
+ One
+ thing
+ that's
+ unique
+ to
+ to
+
+
+Netflix
+ is
+ you
+ mentioned
+ how
+ for
+ a
+ long
+
+
+time
+ Netflix
+ only
+ hired
+ senior
+ software
+
+
+engineer,
+ senior
+ above
+ software
+
+
+engineers.
+ About
+ 2
+ years
+ ago
+ or
+ so,
+ a
+
+
+few
+ years
+ ago,
+ you've
+ now
+ started
+ to
+
+
+hire
+ earlier
+ career
+ software
+ engineers.
+
+
+Can
+ you
+ tell
+ me
+ on
+ how
+ that
+ has
+ changed
+
+
+the
+ culture
+ at
+ Netflix?
+ What
+ you've
+
+
+learned
+ by
+ hiring
+ and
+ and
+ what
+ is
+ your
+
+
+strategy?
+ And
+ are
+ are
+ you
+ planning
+ to
+
+
+keep
+ bringing
+ in
+ uh
+ new
+ grads
+ or
+ interns
+
+
+or
+ or
+ early
+ career
+ folks
+ or
+ or
+ are
+ you
+
+
+planning
+ to
+ do
+ because
+ again
+ a
+ lot
+ of
+
+
+companies
+ these
+ days
+ are
+ saying
+ oh
+ let's
+
+
+just
+ just
+ go
+ with
+ seniors
+ for
+ for
+ now
+ at
+
+
+least
+ especially
+ until
+ we
+ figure
+ out
+
+
+this
+ whole
+ AI
+ thing.
+
+
+>> Yeah
+ we've
+ had
+ a
+ great
+ experience
+ with
+
+
+new
+ grads
+ and
+ early
+ career
+ talent
+ and
+
+
+also
+ our
+ internship
+ program
+ which
+ you
+
+
+mentioned
+ we
+ were
+ starting
+ from
+ a
+ very
+
+
+different
+ place
+ than
+ a
+ lot
+ of
+ other
+ tech
+
+
+companies.
+ So
+ when
+ you
+ look
+ at
+ the
+
+
+distribution
+ of
+ levels
+ or
+ talent
+ at
+ some
+
+
+of
+ the
+ other
+ larger
+ tech
+ companies,
+
+
+they
+ had
+ in
+ some
+ cases
+ 30
+ 40
+ 50%
+ what
+
+
+I'll
+ call
+ you
+ know
+ level
+ three
+ level
+
+
+four
+ engineers.
+ So
+ when
+ you
+ think
+ about
+
+
+a
+ new
+ technology
+ shift
+ or
+ the
+ work
+ that
+
+
+those
+ companies
+ need
+ to
+ do
+ now
+ I
+
+
+understand
+ why
+ they
+ might
+ need
+ a
+
+
+different
+ distribution
+ of
+ talent.
+ We
+
+
+were
+ starting
+ at
+ 0%
+ in
+ most
+ cases.
+
+
+>> Crazy.
+
+
+>> Yeah.
+ which
+ is
+ why
+ you
+ know
+ so
+ we
+ had
+
+
+mostly
+ a
+ a
+ level
+ five
+ and
+ above
+
+
+population.
+ So
+ we
+ had
+ a
+ huge
+ opportunity
+
+
+to
+ complement
+ the
+ team
+ we
+ had
+ with
+
+
+earlier
+ career
+ talent
+ who
+ brings
+ new
+
+
+skills
+ new
+ perspectives
+ great
+ energy
+ to
+
+
+the
+ teams
+ and
+ with
+ a
+ technology
+ shift
+
+
+right
+ now
+ with
+ Genai
+ a
+ lot
+ of
+ native
+ AI
+
+
+familiarity.
+ So
+ when
+ you
+ think
+ about
+
+
+somebody
+ who's
+ graduated
+ from
+ school
+ in
+
+
+the
+ last
+ few
+ years,
+ they're
+ very
+
+
+accustomed
+ to
+ using
+ AI
+ in
+ whether
+ it's
+
+
+developing
+ products,
+ writing
+ code,
+
+
+thinking
+ about
+ solving
+ data
+ problems.
+ So
+
+
+it's
+ actually
+ a
+ useful
+ way
+ to
+ bring
+ new
+
+
+skills
+ and
+ perspectives
+ to
+ the
+ team.
+ I
+
+
+think
+ we
+ will
+ absolutely
+ maintain
+ that
+
+
+investment
+ in
+ earlier
+ career
+ talent
+
+
+because
+ it's
+ been
+ so
+ additive
+ in
+
+
+different
+ parts
+ of
+ the
+ business.
+ I
+ also
+
+
+think
+ it
+ everything
+ in
+ its
+ right
+
+
+proportion
+ like
+ we
+ also
+ there's
+ plenty
+
+
+of
+ problems
+ where
+ we
+ need
+ extremely
+
+
+senior
+ talent.
+ So
+ at
+ the
+ same
+ time
+ I
+
+
+would
+ say
+ I'm
+ pushing
+ for
+ us
+ to
+ also
+
+
+think
+ about
+ how
+ do
+ we
+ add
+ more
+ staff
+
+
+principal
+ distinguished
+ engineers
+ and
+
+
+scientists
+ to
+ the
+ team
+ because
+ that's
+
+
+also
+ a
+ place
+ you
+ know
+ you
+ think
+ about
+
+
+that
+ tale
+ of
+ the
+ distribution
+ being
+ a
+
+
+really
+ important
+ place
+ to
+ maintain
+
+
+strong
+ talent.
+ So
+ we're
+ investing
+ in
+
+
+both
+ of
+ those
+ tales
+ of
+ the
+ distribution.
+
+
+I
+ love
+ it
+ because
+ I
+ usually
+ hear
+
+
+companies
+ talk
+ about
+ one
+ or
+ the
+ other
+
+
+but
+ not
+ both.
+ And
+ I
+ guess
+ at
+ some
+ point,
+
+
+you
+ know,
+ the
+ people
+ here
+ one
+ day
+ will
+
+
+hopefully
+ be
+ there.
+
+
+>> Another
+ way
+ to
+ think
+ about
+ it
+ is
+ is
+
+
+building
+ talent
+ from
+ within.
+ So
+ we
+ hope
+
+
+that
+ a
+ lot
+ of
+ the
+ early
+ career
+ talent
+
+
+joining
+ has
+ a
+ great
+ experience,
+
+
+develop
+ skills
+ and
+ impact
+ here
+ and
+
+
+becomes
+ those
+ more
+ senior
+ technical
+
+
+talent
+ over
+ time.
+ And
+ the
+ our
+ most
+
+
+senior
+ technical
+ talent
+ have
+ to
+ be
+ great
+
+
+role
+ models
+ there
+ too.
+ So,
+ we're
+ doing
+
+
+more
+ of
+ that
+ internally
+ and
+ that
+ talent
+
+
+development
+ than
+ we
+ would
+ have
+ done
+ five
+
+
+or
+ 10
+ years
+ ago,
+ and
+ I
+ would
+ say
+ it's
+
+
+been
+ a
+ huge
+ boost
+ to
+ the
+ team.
+
+
+>> One
+ of
+ the
+ most
+ surprising
+ things
+ I've
+
+
+learned
+ about
+ Netflix
+ just
+ very
+ recently
+
+
+is
+ how
+ much
+ you
+ invest
+ in
+ open
+ source.
+
+
+>> This
+ might
+ sound
+ a
+ bit
+ silly
+ because
+ we
+
+
+know
+ Chaos
+ Monkey
+ is
+ is
+ very
+ famous.
+ In
+
+
+fact,
+ everyone
+ that's
+ Netflix
+ is
+ known
+
+
+known
+ for
+ that
+ one.
+ But
+ again,
+ in
+ a
+
+
+recent
+ report,
+ it
+ looked
+ at
+ all
+ the
+ the
+
+
+companies
+ and
+ what
+ percentage
+ of
+
+
+engineers
+ end
+ up
+ working
+ on
+ open
+ source.
+
+
+And
+ Netflix
+ again
+ was
+ at
+ the
+ very
+ the
+
+
+highest
+ bar.
+ This
+ publication
+ estimated
+
+
+that
+ about
+ one
+ in
+ five
+ engineers
+ work
+ on
+
+
+open
+ source
+ projects.
+ Sure
+ enough,
+ I
+ go
+
+
+to
+ your
+ open
+ source
+ page.
+ It's
+ just
+ so
+
+
+so
+ much
+ open
+ source.
+ Can
+ you
+ tell
+ me
+ why
+
+
+and
+ how
+ and
+ since
+ when
+ is
+ Netflix
+ doing
+
+
+so
+ much
+ open
+ source
+ and
+ why
+ do
+ we
+ not
+
+
+know
+ about
+ this?
+ This
+ was
+ new
+ to
+ me.
+
+
+>> Oh
+ yeah,
+ perhaps
+ we
+ should
+ be
+ talking
+
+
+about
+ it
+ more.
+ So
+ this
+ is
+ a
+ good
+
+
+opportunity
+ to
+ start.
+ You
+ know,
+ we
+ were
+
+
+talking
+ earlier
+ about
+ the
+ engineering
+
+
+culture
+ and
+ the
+ sense
+ of
+ it,
+ you
+ know,
+
+
+talent
+ density,
+ which
+ often
+ comes
+ for
+ a
+
+
+passion
+ to
+ contribute
+ to
+ the
+ broader
+
+
+technical
+ community.
+
+
+>> So,
+ the
+ people
+ at
+ Netflix
+ care
+ deeply
+
+
+about
+ the
+ quality
+ of
+ their
+ work
+ and
+
+
+advancing
+ innovation
+ more
+ generally.
+ For
+
+
+some
+ things
+ it
+ it's
+ Netflix
+ specific
+
+
+innovation
+ and
+ it's
+ important
+ we
+ keep
+
+
+that
+ IP
+ as
+ a
+ competitive
+ advantage
+ but
+
+
+for
+ many
+ it's
+ something
+ that
+ helps
+ to
+
+
+actually
+ drive
+ broader
+ industry
+
+
+innovation
+ which
+ also
+ benefits
+ Netflix
+
+
+over
+ time.
+ So
+ if
+ I
+ can
+ give
+ you
+ one
+
+
+example
+ among
+ the
+ list
+ of
+ places
+ where
+
+
+we've
+ been
+ very
+ involved
+ both
+ internally
+
+
+and
+ externally
+ it's
+ in
+ the
+ encoding
+
+
+space
+ and
+ driving
+ a
+ ton
+ of
+ innovation
+
+
+right
+ video
+ encoding.
+ We've
+ now
+ won,
+ I
+
+
+believe,
+ nine
+ Emmys
+ for
+ these
+
+
+contributions.
+ I
+ always
+ used
+ to
+
+
+associate
+ Emmys,
+ you
+ know,
+ just
+ with,
+
+
+you
+ know,
+ the
+ TV
+ and
+ the,
+ you
+ know,
+ the
+
+
+red
+ carpet,
+ but
+ we've
+ won
+ a
+ lot
+ of
+
+
+technical
+ and
+ engineering
+ Emmys
+ at
+ this
+
+
+point,
+ specifically
+ on
+ video
+ encoding
+
+
+work.
+
+
+>> So,
+ as
+ one
+ example,
+ that
+ helps
+ to
+
+
+contribute
+ incredibly
+ to
+ quality
+ and
+
+
+efficiency
+ of
+ our
+ ability
+ to
+ encode
+ our
+
+
+titles
+ and
+ deliver
+ them.
+ So
+ Netflix
+ gets
+
+
+an
+ immediate
+ benefit
+ by
+ improving
+ the
+
+
+technology
+ in
+ that
+ space.
+ But
+ we
+ are
+
+
+also
+ a
+ founding
+ member
+ of
+ the
+ open
+ media
+
+
+alliance
+ which
+ is
+ an
+ industry
+ community
+
+
+that
+ pushes
+ for
+ open
+ advancement
+ of
+
+
+encoding
+ technology.
+ If
+ we're
+ able
+ to
+
+
+inspire
+ that
+ work,
+ Netflix
+ actually
+ also
+
+
+benefits
+ because
+ the
+ whole
+ industry
+
+
+uplevels
+ and
+ we
+ think
+ about
+ integrations
+
+
+with
+ different
+ technologies
+ that
+ we
+
+
+might
+ do
+ over
+ time
+ with
+ everyone
+ helping
+
+
+to
+ push
+ the
+ bar.
+ A
+ statistic
+ I
+ like
+ to
+
+
+cite
+ is
+ when
+ you
+ look
+ at
+ the
+ catalog
+ now
+
+
+of
+ Netflix
+ content,
+ think
+ about
+ how
+ much
+
+
+bigger
+ the
+ catalog
+ is
+ than
+ when
+ we
+ were
+
+
+first
+ starting
+ with
+ originals.
+ I
+ believe
+
+
+we
+ now
+ require
+ 60%
+ less
+ bandwidth,
+ 60%
+
+
+fewer
+ bit
+ rates
+ for
+ same
+ or
+ better
+
+
+quality
+ with
+ a
+ much
+ bigger
+ catalog.
+ That
+
+
+comes
+ from
+ our
+ media
+ encoding
+
+
+innovation.
+ and
+ having
+ a
+ whole
+ industry
+
+
+that's
+ pushing
+ that
+ benefits
+ anyone
+
+
+who's
+ in
+ the
+ entertainment
+ space
+ and
+
+
+definitely
+ benefits
+ consumers
+ and
+ our
+
+
+members.
+ So
+ that's
+ a
+ good
+ example
+ where
+
+
+it
+ it
+ starts
+ from
+ an
+ open
+ source
+
+
+contribution.
+ Netflix
+ doesn't
+ lose
+
+
+anything,
+ only
+ gains
+ something
+ by
+
+
+contributing
+ to
+ the
+ broader
+ innovation
+
+
+landscape.
+ And
+ I
+ I'm
+ a
+ strong
+ proponent
+
+
+of
+ talking
+ more
+ about
+ the
+ innovation
+
+
+we're
+ driving.
+ So
+ things
+ like
+ different
+
+
+blog
+ posts
+ that
+ show
+ up
+ in
+ our
+ tech
+
+
+blog,
+ for
+ example,
+ we're
+ talking
+ more
+
+
+about
+ what
+ it
+ took
+ to
+ bring
+ live
+ to
+ life
+
+
+as
+ one
+ example,
+ I
+ just
+ think
+ is
+ a
+ great
+
+
+contribution
+ to
+ the
+ broader
+ community.
+
+
+>> This
+ is
+ one
+ of the
+ reasons
+ I
+ love
+
+
+software
+ engineering
+ because
+ I
+ feel
+
+
+contributing
+ to
+ the
+ open
+ and
+ sharing
+
+
+things,
+ it
+ it
+ it
+ lifts
+ the
+ tide
+ for
+
+
+everyone.
+
+
+>> Yeah.
+ Yeah,
+ I
+ believe
+ so.
+ Yeah,
+ we
+
+
+definitely
+ benefit
+ and
+ we
+ are
+ trying
+ to
+
+
+drive
+ better
+ outcomes
+ overall,
+
+
+especially
+ with
+ a
+ real
+ member
+ focus
+ and
+
+
+so
+ a
+ lot
+ of
+ the
+ technology
+ we're
+
+
+building
+ is
+ able
+ to
+ do
+ that.
+ So
+ as
+ as
+
+
+closing,
+ Netflix
+ sounds
+ like
+ a
+ very
+
+
+different
+ and
+ and
+ special
+ place
+ compared
+
+
+even
+ even
+ across
+ all
+ of
+ the
+ the
+ larger
+
+
+tech
+ companies
+ or
+ even
+ the
+ innovative
+
+
+companies.
+ What
+ would
+ your
+ advice
+ be
+ for
+
+
+a
+ new
+ start
+ software
+ engineer
+ starting
+
+
+at
+ Netflix?
+ How
+ can
+ they
+ succeed
+ in
+ this
+
+
+environment
+ and
+ how
+ can
+ they
+ grow
+ up
+ to
+
+
+to
+ the
+ expectations
+ at
+ a
+ place
+ like
+
+
+this?
+
+
+>> Curiosity.
+ Curiosity.
+ Curiosity.
+ to
+ when
+
+
+people
+ ask
+ me
+ like
+ what's
+ the
+ Netflix
+
+
+value
+ that
+ most
+ resonates
+ with
+ me
+ and
+ I
+
+
+most
+ love
+ to
+ see
+ across
+ the
+ team
+ it's
+
+
+curiosity
+ asking
+ questions
+
+
+questioning
+ whether
+ we're
+ solving
+ the
+
+
+right
+ problems
+ in
+ the
+ right
+ way
+ just
+
+
+because
+ you're
+ new
+ to
+ Netflix
+ or
+ earlier
+
+
+in
+ the
+ career
+ doesn't
+ mean
+ you're
+ not
+
+
+going
+ to
+ be
+ the
+ source
+ of
+ innovation
+ if
+
+
+anything
+ it's
+ great
+ ideas
+ come
+ from
+
+
+everywhere
+ and
+ that
+ starts
+ with
+ just
+
+
+being
+ curious
+ open-minded
+ experiment
+
+
+explore
+ take
+ smart
+ risks.
+ Try
+ to
+ reduce
+
+
+that
+ that
+ kind
+ of
+ voice
+ in
+ your
+ head
+
+
+that
+ is
+ fearful
+ of
+ exploring
+ something
+
+
+new
+ or
+ taking
+ that
+ risk.
+ And
+ I
+ think
+
+
+when
+ people
+ join
+ Netflix
+ and
+ they
+
+
+approach
+ it
+ with
+ that
+ type
+ of
+ curious
+
+
+mindset,
+ they're
+ already
+ set
+ up
+ for
+
+
+success.
+ I
+ would
+ also
+ say
+ lean
+ on
+ other
+
+
+people.
+ So,
+ we
+ have
+ great
+ talent
+ at
+
+
+Netflix
+ and
+ they
+ are
+ all
+ more
+ than
+ happy
+
+
+to
+ help
+ other
+ people
+ be
+ successful.
+ So
+
+
+don't
+ shy
+ away
+ from
+ finding
+ a
+ mentor,
+
+
+asking
+ somebody,
+ why
+ does
+ this
+ work
+ this
+
+
+way?
+ Can
+ you
+ give
+ me
+ more
+ of
+ the
+ history
+
+
+of
+ this?
+ Can
+ you
+ help
+ me
+ understand
+
+
+which
+ business
+ problem
+ we're
+ solving
+ and
+
+
+why?
+ It's
+ another
+ flavor
+ of
+ curiosity,
+
+
+but
+ it's
+ also
+ about
+ the
+ broader
+
+
+community
+ and
+ really
+ leveraging
+ that
+ at
+
+
+Netflix.
+
+
+>> Well,
+ Elizabeth,
+ thank
+ you.
+ This
+ was
+
+
+very,
+ very
+ interesting
+ and
+ I've
+ learned
+
+
+a
+ lot.
+
+
+>> Great.
+ Really
+ happy
+ to
+ be
+ here
+ and
+ I
+ was
+
+
+happy
+ it
+ worked
+ out
+ to
+ have
+ this
+
+
+conversation.
+
+
+>> Thank
+ you.
+
+
+>> Thanks.
+ One
+ of
+ the
+ most
+ interesting
+
+
+learnings
+ for
+ me
+ about
+ Netflix
+ was
+ just
+
+
+how
+ much
+ open
+ source
+ they
+ contribute
+ to
+
+
+and
+ how
+ about
+ one
+ in
+ five
+ engineers
+ is
+
+
+involved
+ in
+ open
+ source
+ work.
+ The
+ other
+
+
+one
+ was
+ how
+ performance
+ management
+ is
+
+
+really
+ lightweight
+ and
+ tries
+ to
+ be
+ truly
+
+
+continuous.
+ Both
+ of
+ these
+ things
+ feel
+
+
+like
+ they're
+ quite
+ different
+ from
+ how
+
+
+most
+ other
+ big
+ tech
+ companies
+ operate.
+ I
+
+
+previously
+ did
+ a
+ deep
+ dive
+ on
+ how
+
+
+Netflix's
+ engineering
+ levels
+ change
+ from
+
+
+the
+ single
+ senior
+ level
+ to
+ the
+ new
+ five
+
+
+levels.
+
+
+>> [music]
+
+
+>> Check
+ out
+ this
+ the
+ pragmatic
+ engineer
+
+
+deep
+ dive
+ in
+ the
+ show
+ notes
+ link
+ below
+
+
+as
+ well
+ as
+ deep
+ dives
+ on
+ the
+ engineering
+
+
+culture
+ of
+ other
+ big
+ tech
+ companies
+ like
+
+
+Meta,
+ Amazon
+ and
+ Google.
+ If
+ you
+ enjoyed
+
+
+this
+ podcast,
+ please
+ do
+ subscribe
+ on
+
+
+your
+ favorite
+ Procast
+ platform
+ and
+ on
+
+
+YouTube.
+ A
+ special
+ thank
+ you
+ if
+ you
+ also
+
+
+leave
+ a
+ rating
+ [music]
+ for
+ the
+ show.
+
+
+Thanks
+ and
+ see
+ you
+ in
+ the
+ next
