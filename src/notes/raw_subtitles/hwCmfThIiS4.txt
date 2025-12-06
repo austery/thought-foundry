@@ -1,0 +1,16888 @@
+All
+ right.
+ So,
+ you're
+ almost
+ on
+ time.
+
+
+Uh
+ firstly,
+ thank
+ you
+ so
+ much
+ for
+ your
+
+
+time
+ uh
+ for
+ joining
+ us.
+ And
+ uh
+ what
+
+
+we're
+ going
+ to
+ do
+ is
+ for
+ next
+ an
+ hour
+ or
+
+
+so
+ is
+ uh
+ we'll
+ try
+ to
+ explore
+ something
+
+
+around
+ which
+ is
+ which
+ I
+ found
+ uh
+ pretty
+
+
+interesting
+ when
+ I
+ started
+ working
+ on
+
+
+this
+ uh
+ uh
+ and
+ I'll
+ tell
+ you
+ some
+
+
+background
+ about
+ that
+ how
+ I
+ end
+ up
+ into
+
+
+this
+ uh
+ on
+ vision
+ based
+ retrieval.
+ uh
+
+
+but
+ the
+ idea
+ of
+ uh
+ that
+ I
+ had
+ was
+ just
+
+
+to
+ share
+ a
+ few
+ of
+ my
+ learning
+ on
+ this
+
+
+particular
+ approach
+ of
+ retrieval
+
+
+and
+ there
+ are
+ bunch
+ of
+ things
+ that
+ we
+
+
+have
+ here.
+ Uh
+ I'm
+ going
+ to
+ share
+ one
+ of
+
+
+the
+ latest
+ research
+ paper
+ around
+
+
+retrieval
+ which
+ is
+ a
+ uh
+ vision
+ based
+
+
+retrieval
+ and
+ also
+
+
+uh
+ I
+ just
+ thought
+ to
+ wrap
+ this
+ around
+
+
+with
+ an
+ agent.
+ Uh
+ without
+ agent
+ we
+
+
+cannot
+ talk
+ about
+ anything
+ these
+ days.
+
+
+So
+ uh
+ right
+ so
+ uh
+ it's
+ funny
+ uh
+ without
+
+
+agent
+ I
+ had
+ this
+ but
+ then
+ uh
+ the
+
+
+organizer
+ said
+ that
+ you
+ know
+ we
+ need
+ to
+
+
+have
+ some
+ agent
+ okay
+ it's
+ not
+ a
+ big
+ deal
+
+
+right
+ so
+ yeah
+ so
+
+
+all
+ right
+ so
+ u
+ we'll
+ focus
+
+
+mostly
+ on
+ the
+ uh
+
+
+science
+ side
+ of
+ this
+ like
+ how
+ that
+ uh
+
+
+vision
+ based
+ retrieval
+ works
+ and
+ then
+ we
+
+
+will
+ switch
+ gears
+ and
+ rapid
+ around
+ with
+
+
+an
+ agent.
+ I
+ mean
+ that's
+ a
+ very
+ simple
+
+
+task
+ and
+ uh
+ I'm
+ going
+ to
+ use
+ one
+ of
+ the
+
+
+open
+ source
+ uh
+ uh
+ framework
+ that
+ uh
+ uh
+
+
+we
+ launched
+ recently.
+ I
+ think
+ it
+ was
+ two
+
+
+weeks
+ back
+ called
+ strands
+ agent
+ uh
+ which
+
+
+is
+ kind
+ of
+ a
+ a
+ framework
+ lightweight
+
+
+framework
+ to
+ build
+ agentic
+ application.
+
+
+I'll
+ talk
+ about
+ that
+ little
+ later
+ and
+ I
+
+
+have
+ a
+ session
+ on
+ that
+ day
+ for
+ tomorrow.
+
+
+Um
+ but
+ that's
+ the
+ premise
+ and
+ uh
+ before
+
+
+we
+ get
+ started
+ uh
+ how
+ many
+ of
+ you
+ are
+
+
+are
+ from
+ uh
+
+
+science
+ side
+ of
+ things
+ like
+ who
+ how
+ many
+
+
+of
+ you
+ have
+ worked
+ on
+ transformers?
+
+
+Okay,
+ perfect.
+ How
+ many
+ of
+ you
+ have
+
+
+worked
+ on
+ rag
+ in
+ general?
+
+
+Fantastic.
+ Okay.
+ And
+ uh
+ how
+ many
+ of
+ you
+
+
+have
+ worked
+ on
+ AWS?
+
+
+Okay,
+ great.
+ So
+ there's
+ nothing
+ about
+
+
+AWS
+ here.
+ Okay.
+ So
+ uh
+ so
+ the
+ last
+
+
+question
+ was
+ sponsored
+ by
+ my
+ manager.
+
+
+Okay.
+ So
+ what
+ so
+ what
+ we
+ are
+ going
+ to
+ do
+
+
+is
+ u
+ uh
+ we
+ are
+ going
+ to
+ uh
+ share
+ one
+ uh
+
+
+notebook.
+ you
+ can
+ just
+ uh
+ clone
+ that
+
+
+repository
+ and
+ uh
+ there
+ is
+ lot
+ more
+ uh
+
+
+there
+ inside
+ that
+ uh
+ but
+ we
+ are
+ just
+
+
+going
+ to
+ use
+ one
+ part
+ of
+ that
+ uh
+
+
+repository
+ okay
+ and
+ I'm
+ going
+ to
+ share
+
+
+few
+ of
+ the
+ I
+ think
+ some
+ $25
+ credit
+ code
+
+
+uh
+ which
+ I
+ was
+ given
+ so
+ I
+ think
+ uh
+ you
+
+
+may
+ like
+ to
+ use
+ that
+ so
+ uh
+ let's
+ get
+
+
+this
+ logistics
+ uh
+ sorted
+ uh
+ first
+
+
+okay
+ so
+ first
+ thing
+ first
+ Uh
+
+
+can
+ we
+ just
+ switch
+ the
+ screen
+ please?
+
+
+Yeah.
+ Uh
+ can
+ you
+ just
+ uh
+ uh
+ take
+ a
+
+
+moment
+ and
+ see
+ that
+ if
+ the
+ URL
+ is
+
+
+working?
+
+
+Uh
+ you
+ may
+ if
+ you
+ are
+ on
+ laptop
+ you
+ may
+
+
+like
+ to
+ uh
+
+
+open
+ the
+ URL
+ or
+ you
+ can
+ just
+ take
+ an
+
+
+image
+ uh
+ on
+ your
+ cell.
+ You
+ can
+ have
+ a
+
+
+look
+ later
+ on.
+
+
+Is
+ it
+ working?
+
+
+>> Okay,
+ perfect.
+ Okay.
+ So
+
+
+now
+ this
+ is
+ something
+
+
+uh
+ you
+ can
+ take
+ an
+ image
+ now
+ or
+ you
+ can
+
+
+uh
+ do
+ that
+ survey
+ later
+ on.
+ I
+ mean
+ I
+
+
+don't
+ like
+ this
+ but
+ again
+ this
+ was
+ given
+
+
+by
+ my
+ manager.
+ So
+ so
+ this
+ is
+ just
+ it
+
+
+might
+ ask
+ you
+ few
+ questions.
+ I
+ have
+ no
+
+
+idea
+ what
+ question
+ they
+ will
+ ask,
+ but
+ uh
+
+
+you
+ will
+ get
+ some
+ $25
+ credit
+ and
+ uh
+ if
+
+
+you
+ don't
+ want
+ to
+ do
+ it,
+ don't
+ do
+ it.
+
+
+I'll
+ give
+ you
+ $25
+ credit.
+ So,
+ I
+ have
+ it.
+
+
+So,
+
+
+okay.
+ So,
+
+
+yeah.
+ And
+ uh
+ I
+ don't
+ know
+ why
+ this
+ slide
+
+
+is
+ next,
+ but
+ so
+ this
+ is
+ my
+ Oh,
+ I
+ I
+
+
+actually
+ forgot
+ to
+ introduce
+ myself.
+ So
+
+
+I
+ work
+ with
+ AWS
+ uh
+ as
+ a
+ principal
+ uh
+
+
+machine
+ learning
+ advocate.
+ I'm
+ with
+ this
+
+
+company
+ for
+ last
+ 6
+ months.
+ I
+ focus
+
+
+mostly
+ on
+ um
+ natural
+ language
+ and
+ uh
+ rag
+
+
+and
+ fine-tuning.
+
+
+And
+ if
+ you
+ have
+ any
+ questions
+ around
+ the
+
+
+talk
+ that
+ we
+ are
+ going
+ to
+ discuss
+ uh
+ or
+
+
+anything
+ around
+ uh
+ machine
+ learning
+ or
+
+
+generative
+ AI
+ feel
+ free
+ to
+ uh
+ ping
+ me.
+
+
+It's
+ not
+ just
+ about
+ this
+ session
+ but
+ uh
+
+
+my
+ takeaway
+ at
+ whenever
+ I
+ go
+ and
+ speak
+
+
+at
+ any
+ conference
+ at
+ this
+ scale
+ is
+ uh
+
+
+just
+ to
+ make
+ few
+ connections
+ with
+ whom
+ I
+
+
+can
+ work
+ with
+ uh
+ you
+ know
+ after
+ this
+
+
+conference
+
+
+uh
+ because
+ as
+ long
+ as
+ learning
+ is
+
+
+concerned
+ we
+ can
+ learn
+ everything
+ at
+
+
+home
+ right
+ and
+ so
+ you
+ don't
+ have
+ to
+ come
+
+
+to
+ a
+ conference
+ uh
+ so
+ feel
+ free
+ to
+ uh
+
+
+connect
+ so
+ with
+ that
+ I
+ will
+ just
+ switch
+
+
+to
+ uh
+ the
+
+
+GitHub
+ repository.
+ Okay.
+ So,
+ and
+ I'll
+
+
+just
+ uh
+ walk
+ you
+ through
+ the
+ notebook.
+
+
+So,
+ the
+ my
+ idea
+ is
+ not
+ to
+ have
+ any
+
+
+presentation
+ because
+ uh
+ first
+ uh
+ I'm
+
+
+lazy
+ and
+ second
+ it's
+ little
+ complicated.
+
+
+I
+ thought
+ that
+ taking
+ images
+ and
+
+
+embedded
+ in
+ the
+ notebook
+ is
+ uh
+ much
+
+
+easier.
+ So
+ uh
+ you
+ will
+ find
+ this
+ uh
+
+
+GitHub
+ repository
+
+
+uh
+ and
+ in
+ that
+ there
+ are
+ many
+ things
+
+
+there
+ but
+ what
+ we
+ are
+ going
+ to
+ focus
+ on
+
+
+is
+ if
+ you
+ come
+ to
+ this
+ uh
+ section
+ 8
+ and
+
+
+come
+ to
+ this
+ first
+ one
+ agentic
+
+
+voice-based
+ rag
+
+
+uh
+ so
+ I
+ just
+ added
+ that
+ agent
+ thing
+
+
+yesterday
+ so
+ that's
+ why
+ so
+ I
+ had
+ no
+ idea
+
+
+of
+ that
+ so
+ uh
+ so
+ what
+ we
+ are
+ going
+ to
+ do
+
+
+is
+ these
+ two
+ notebooks
+ are
+ exactly
+ same.
+
+
+One
+ is
+ without
+ output,
+ one
+ is
+ with
+
+
+output.
+ I
+ find
+ it
+ uh
+ useful
+ to
+ have
+ both
+
+
+copies
+ because
+ if
+ you
+ are
+ doing
+ it
+ for
+
+
+the
+ first
+ time
+ um
+ you
+ may
+ like
+ to
+ start
+
+
+with
+ this
+ don't
+ see
+ the
+ output
+ and
+ run
+
+
+through
+ and
+ at
+ the
+ same
+ time
+ if
+ you
+ want
+
+
+to
+ see
+ what
+ it
+ is
+ you
+ know
+ what
+ is
+ the
+
+
+expected
+ output
+ and
+ all
+ that
+ you
+ can
+ go
+
+
+onto
+ this
+ all
+ right
+ so
+ for
+ the
+ purpose
+
+
+of
+ today's
+ uh
+ uh
+ workshop
+ I
+ will
+ start
+
+
+with
+ an
+ introduction
+
+
+and
+ then
+ I
+ will
+ um
+ come
+ here
+ okay
+ and
+ if
+
+
+you
+ feel
+ that
+ uh
+ this
+ is
+ not
+ something
+
+
+that
+ you
+ are
+ interested
+ in
+ or
+ this
+ is
+
+
+not
+ something
+ that
+ you
+ are
+ looking
+ for
+
+
+you
+ know
+ feel
+ free
+ to
+ uh
+ uh
+ you
+ know
+ uh
+
+
+go
+ to
+ some
+ other
+ place
+ because
+ I
+ don't
+
+
+want
+ to
+ waste
+ your
+ time
+ uh
+ uh
+ but
+ I
+ want
+
+
+to
+ make
+ sure
+ that
+ if
+ you
+ are
+ here
+ for
+
+
+next
+ 1
+ hour
+ you
+ learn
+ something
+ new
+ uh
+
+
+with
+ respect
+ to
+ what
+ you
+ already
+ know
+ at
+
+
+this
+ point
+ in
+ time
+ okay
+ and
+ if
+ you
+ have
+
+
+any
+ questions
+ uh
+ feel
+ free
+ to
+ ask
+ so
+
+
+that's
+ that's
+ the
+ other
+ thing
+ okay
+ let
+
+
+me
+ just
+ expand
+ And
+ this
+ is
+ little
+ too
+
+
+big
+ uh
+ here.
+ So
+
+
+uh
+ okay.
+ So
+ I
+ noticed
+ that
+ most
+ of
+ you
+
+
+are
+ aware
+ of
+ rag.
+ Uh
+ but
+ we
+ are
+ going
+ to
+
+
+talk
+ about
+ uh
+ multimodal
+ rack
+ for
+ a
+
+
+moment.
+ Uh
+ just
+ to
+ set
+ the
+ premise
+ and
+
+
+then
+ we
+ will
+ uh
+ get
+ into
+ the
+ vision
+
+
+based
+ retrieval.
+ Okay.
+ So
+ if
+ you
+ think
+
+
+about
+ uh
+ multimodal
+ rag
+ uh
+
+
+what
+ we
+ essentially
+ do
+ is
+ and
+ this
+ is
+ by
+
+
+no
+ mean
+ is
+ the
+ only
+ architecture.
+ This
+
+
+is
+ just
+ one
+ of
+ the
+ architecture.
+ There
+
+
+are
+ many
+ different
+ ways
+ that
+ you
+ can
+ do
+
+
+multimodal
+ rack
+ but
+ in
+ general
+ this
+ is
+
+
+what
+ uh
+ we
+ have
+ been
+ doing
+ and
+ still
+
+
+today
+ we
+ do.
+ You
+ take
+ a
+ data
+ and
+ that
+
+
+data
+ will
+ contain
+ images,
+ text
+ and
+ uh
+
+
+tables.
+
+
+The
+ first
+ thing
+ that
+ we
+ do
+ is
+ we
+ use
+
+
+some
+ framework
+ or
+
+
+is
+ that
+ so
+ bad
+ or
+
+
+okay
+ thank
+ you.
+ So
+ so
+ we
+ can
+ use
+ any
+
+
+framework
+ of
+ our
+ choice
+ or
+ you
+ can
+ write
+
+
+your
+ own
+ custom
+ script
+ or
+ you
+ can
+ use
+
+
+any
+ managed
+ service
+ like
+ text
+ OCR
+ based
+
+
+technique.
+ The
+ idea
+ is
+ you
+ extract
+ the
+
+
+images,
+ tables
+ and
+
+
+uh
+ uh
+ text
+ out
+ you
+ know
+ separately.
+ You
+
+
+can
+ have
+ some
+ metadata
+ uh
+ to
+ make
+ an
+ uh
+
+
+hash
+ which
+ tells
+ you
+ that
+ this
+ image
+ is
+
+
+coming
+ from
+ which
+ page
+ and
+ all
+ that.
+ But
+
+
+essentially
+ you
+ divide
+ all
+ these
+ three
+
+
+separately.
+ Then
+ you
+ can
+ use
+ one
+
+
+multimodal
+ embedding
+ model
+ and
+ this
+
+
+multimodal
+ embedding
+ model
+ can
+ take
+ any
+
+
+of
+ these
+ three
+ entities
+ because
+ it's
+
+
+multimodal.
+ It
+ can
+ take
+ any
+ of
+ these
+
+
+three
+ and
+ when
+ I
+ say
+ multimodal
+ you
+ can
+
+
+think
+ of
+ it
+ like
+ input
+ can
+ be
+
+
+multimodal.
+ Okay.
+ And
+ then
+ it
+ will
+
+
+generate
+ some
+ vectors
+ for
+ images.
+ it
+
+
+will
+ generate
+ some
+ vectors,
+ tables,
+ text
+
+
+and
+ all
+ that.
+ Then
+ you
+ go
+ to
+ the
+
+
+database
+ any
+ vector
+ database
+ and
+ store
+
+
+all
+ these
+ embeddings.
+ So
+ what
+ you
+ are
+
+
+essentially
+ storing
+ here
+ are
+ the
+ actual
+
+
+embeddings
+ of
+ text,
+ tables
+ and
+ images.
+
+
+And
+ then
+ comes
+ the
+ retrieval
+ part.
+ When
+
+
+you
+ ask
+ a
+ question
+ any
+ raw
+ question
+ like
+
+
+raw
+ text,
+ it
+ goes
+ through
+ the
+ same
+
+
+embedding
+ model.
+ Then
+ it
+ is
+ first
+
+
+searched
+ here.
+ It
+ will
+ get
+ some
+ relevant
+
+
+chunk
+ which
+ could
+ be
+ again
+ image,
+ text
+
+
+or
+ table
+ and
+ then
+ you
+ take
+ those
+ chunks
+
+
+along
+ with
+ your
+ text
+ and
+ use
+ a
+
+
+multimodal
+ LLM.
+ Why
+ multimodal?
+ Because
+
+
+your
+ relevant
+ chunk
+ can
+ be
+ images,
+ text
+
+
+or
+ table,
+ right?
+ And
+ then
+ you
+ get
+ an
+
+
+answer.
+ So
+ this
+ is
+ one
+ approach.
+ The
+
+
+second
+ approach
+ is
+ you
+ do
+ the
+ same
+ thing
+
+
+like
+ this
+ part
+ is
+ common.
+ After
+ that
+ you
+
+
+used
+ a
+ model
+ which
+ will
+ just
+ generate
+ a
+
+
+summary
+ of
+ all
+ this
+ separately.
+ So
+ it
+
+
+will
+ use
+ uh
+ you
+ can
+ think
+ of
+ it
+ like
+ a
+
+
+summary
+ of
+ an
+ image
+ is
+ nothing
+ but
+ image
+
+
+captioning
+ right.
+ It
+ will
+ generate
+ an
+
+
+summary
+ of
+ this
+ image
+ summary
+ of
+ the
+
+
+table
+ summary
+ of
+ the
+ text.
+ Now
+ all
+ you
+
+
+have
+ is
+ the
+ summary.
+ That
+ means
+ it's
+ all
+
+
+text.
+ So
+ now
+ you
+ can
+ use
+ any
+ text
+ based
+
+
+embedding
+ model
+ to
+ generate
+ the
+
+
+embedding
+ of
+ the
+ summary.
+ And
+ then
+ you
+
+
+store
+ this
+ embeddings
+ here.
+ So
+ what
+ you
+
+
+are
+ storing
+ here
+ are
+ only
+ the
+ embeddings
+
+
+of
+ the
+ summary
+ not
+ the
+ actual
+ data.
+
+
+Right?
+ And
+ then
+ when
+ the
+ question
+ comes
+
+
+now
+ we
+ are
+ talking
+ about
+ the
+ option
+
+
+number
+ two.
+ When
+ the
+ question
+ comes
+ we
+
+
+do
+ a
+ semantic
+ search
+ with
+ the
+ database
+
+
+and
+ what
+ we
+ get
+ as
+ a
+ chunk
+ or
+ some
+
+
+summary.
+ Now
+ that
+ summary
+ could
+ be
+ a
+
+
+summary
+ of
+ an
+ image,
+ table
+ or
+ text.
+ We
+
+
+don't
+ know
+ whatever
+ it
+ is.
+
+
+But
+ whatever
+ we
+ get
+ both
+ of
+ them
+ are
+ of
+
+
+text
+ format.
+ So
+ that's
+ why
+ we
+ can
+ use
+ a
+
+
+general
+ textbased
+ LLM
+ to
+ generate
+ the
+
+
+output.
+ Okay.
+ So
+ that's
+ uh
+ option
+ number
+
+
+two.
+ The
+ option
+ number
+ three
+ is
+ exactly
+
+
+same
+ as
+ option
+ number
+ two.
+ Uh
+ with
+ a
+
+
+slight
+ change
+ here
+ when
+ you
+ store
+ the
+
+
+summary
+ you
+ also
+ think
+ of
+ it
+ like
+ this.
+
+
+You
+ have
+ a
+ hash
+ here.
+ Let's
+ say
+ a
+
+
+dictionary
+ which
+ says
+ that
+ u
+ this
+ image
+
+
+number
+ one
+ uh
+ summary
+ is
+ this
+ image
+
+
+number
+ two
+ summary
+ is
+ this
+ table
+ number
+
+
+one
+ summary
+ is
+ this
+ you
+ create
+ a
+ hash
+
+
+file
+ or
+ hash
+ any
+ data
+ structure
+ of
+ your
+
+
+choice
+ so
+ that
+ you
+ can
+ you
+ know
+ come
+
+
+back
+ later
+ on
+ from
+ a
+ certain
+ summary
+ and
+
+
+you
+ can
+ figure
+ out
+ this
+ is
+ summary
+ of
+
+
+what
+ entity
+ okay
+ but
+ you
+ store
+ only
+ the
+
+
+summary
+ just
+ like
+ before
+ but
+ the
+
+
+difference
+ here
+ with
+ respect
+ to
+ option
+
+
+Number
+ two
+ is
+ when
+ you
+ ask
+ a
+ question
+
+
+you
+ get
+ some
+ relevant
+ chunk
+ which
+ is
+ a
+
+
+summary.
+ Then
+ you
+ go
+ back
+ to
+ that
+ hash
+
+
+and
+ find
+ out
+ the
+ actual
+ data
+ not
+ the
+
+
+summary
+ the
+ actual
+ data
+ which
+ is
+ mapped
+
+
+against
+ those
+ summary
+ and
+ then
+ you
+ take
+
+
+those
+ actual
+ data
+ and
+ then
+ pass
+ it
+ on
+
+
+here.
+ So
+ what
+ you're
+ doing
+ is
+ summary
+
+
+you
+ are
+ using
+ here
+ just
+ to
+ reduce
+ the
+
+
+search
+ space
+ just
+ for
+ semantic
+ search.
+
+
+When
+ you
+ get
+ that
+ relevant
+ chunks
+ you
+
+
+don't
+ care
+ about
+ that
+ summary.
+ You
+ just
+
+
+take
+ the
+ original
+ data
+ from
+ that
+ hash
+
+
+and
+ then
+ you
+ take
+ those
+ relevant
+ chunks
+
+
+and
+ your
+ question
+ and
+ since
+ relevant
+
+
+chunk
+ can
+ be
+ again
+ text
+ image
+ or
+ um
+
+
+table
+ you
+ need
+ a
+ multimodal
+ LLM
+ okay
+ and
+
+
+you
+ generate
+ the
+ answer
+ are
+ you
+ with
+
+
+yeah
+
+
+>> um
+ let's
+ say
+ you
+ have
+ a
+ table
+ but
+ the
+
+
+table
+ is
+ an
+ image
+
+
+>> which
+ one
+ would
+ you
+ prefer
+ to
+ use
+ in
+
+
+that
+ case
+
+
+>> yeah
+ so
+ that's
+ a
+ good
+ question
+ so
+ the
+
+
+question
+ is
+ If
+ you
+ have
+ a
+ table
+ which
+ is
+
+
+an
+ image
+ right.
+ So
+ now
+ it's
+ all
+ whatever
+
+
+you
+ are
+ saying
+ is
+ all
+ at
+ this
+ level.
+ So
+
+
+you
+ don't
+ you
+ it's
+ all
+ up
+ to
+ you
+ how
+ you
+
+
+segregate
+ these
+ three
+ entities.
+ So
+ let's
+
+
+say
+ you
+ use
+ an
+ OCR
+ based
+ uh
+ uh
+ technique
+
+
+and
+ let's
+ say
+ it
+ it's
+ identified
+ a
+ table
+
+
+as
+ an
+ image.
+ So
+ it
+ will
+ be
+ treated
+ as
+ an
+
+
+image
+ because
+ the
+ model
+ till
+ this
+ point
+
+
+the
+ model
+ has
+ no
+ idea
+ from
+ where
+ these
+
+
+three
+ are
+ coming
+ because
+ these
+ are
+ like
+
+
+prerequisites
+ for
+ this
+ particular
+
+
+pipeline.
+ Okay.
+ So
+ are
+ you
+ with
+ me
+ with
+
+
+all
+ these
+ three
+ approach?
+ Yes.
+ Yeah.
+
+
+>> This
+ one.
+
+
+>> Oh
+ okay.
+ So
+ these
+ are
+ nothing
+ but
+ uh
+ uh
+
+
+models
+ basically.
+
+
+>> It
+ it
+ doesn't
+ resonate.
+ It's
+ what
+ I
+
+
+understand
+ now
+ but
+
+
+>> yeah
+ yeah yeah
+ right
+ that's
+ correct
+ yes
+
+
+so
+ it
+ could
+ be
+ this
+ is
+ any
+ so
+ here
+ we
+
+
+have
+ a
+ multimodal
+ embedding
+ model
+ right
+
+
+here
+ it's
+ actually
+ first
+ you
+ need
+ a
+
+
+model
+ which
+ will
+ generate
+ the
+ summary
+
+
+then
+ you
+ can
+ think
+ of
+ it
+ like
+ another
+
+
+model
+ which
+ will
+ generate
+ the
+ embeddings
+
+
+so
+ uh
+ it's
+ just
+ a
+ one
+ icon
+ but
+ think
+ of
+
+
+it
+ like
+ there
+ are
+ two
+ things
+ happening
+
+
+in
+ sequence
+ okay
+ are
+ you
+ with
+ me
+ so
+ far
+
+
+yes
+ okay
+ so
+ do
+ you
+ see
+ any
+ problem
+ in
+
+
+this
+ when
+ you
+ have a
+ multimodal
+ data
+
+
+there's
+ no
+ problem
+ as
+ such
+ buth
+ there
+
+
+are
+ few
+ scenarios
+ when
+ this
+ may
+ not
+ work
+
+
+okay
+ so
+
+
+scenarios
+ like
+ like
+ what
+ you
+ mentioned
+
+
+uh
+ there
+ are
+ few
+ documents
+ or
+ data
+ which
+
+
+we
+ have
+ seen
+ where
+ the
+ PDF
+ was
+ created
+
+
+using
+ images
+ so
+ basically
+ you
+ can
+ think
+
+
+of
+ like
+ this
+ um
+ let's
+ say
+ uh
+ uh
+
+
+toll
+ that
+ we
+ uh
+ cross
+ in
+ a
+ highway
+ all
+
+
+are
+ images
+ right
+ they
+ just
+ take
+ the
+
+
+images
+ of
+ our
+ number
+ plate
+ and
+ all
+ that.
+
+
+Uh
+ similarly
+ you
+ can
+ think
+ of
+ uh
+ any
+
+
+government
+ organization
+ where
+ forms
+ are
+
+
+just
+ uh
+ they
+ they
+ just
+ keep
+ on
+ uh
+ taking
+
+
+images
+ and
+ later
+ on
+ all
+ those
+ images
+ are
+
+
+converted
+ into
+ a
+ PDF.
+ So
+ in
+ that
+ case
+
+
+not
+ always
+ uh
+ these
+ techniques
+ of
+
+
+extracting
+ images,
+ tables
+ and
+ text
+ works
+
+
+nicely.
+ It's
+ not
+ like
+ uh
+ it
+ never
+ works.
+
+
+It
+ all
+ about
+ how
+ your
+ data
+ behaves
+ with
+
+
+your
+ technique
+ that
+ you
+ are
+
+
+implementing.
+ Okay.
+ So
+ now
+ the
+ next
+
+
+technique
+ that
+ we
+ are
+ going
+ to
+ discuss
+
+
+today
+ is
+ using
+ a
+ vision-
+ based
+ uh
+
+
+retrieval
+ model
+ and
+ we
+ will
+ see
+ that
+ why
+
+
+we
+ are
+ using
+ this
+ but
+ the
+ premise
+ is
+
+
+this.
+ If
+ you
+ use
+ if
+ if
+ if
+ your
+ data
+ with
+
+
+your
+ data
+ any
+ of
+ these
+ uh
+ three
+ options
+
+
+works
+ you
+ just
+ go
+ with
+ this
+ what
+ we're
+
+
+going
+ to
+ discuss
+ in
+ next
+ one
+ hour
+ you
+
+
+it's
+ not
+ relevant
+ for
+ you
+ but
+ this
+ you
+
+
+know
+ what
+ we
+ are
+ going
+ to
+ discuss
+ is
+ an
+
+
+option
+ number
+ four
+ which
+ is
+ uh
+ a
+ smarter
+
+
+technique
+ which
+ is
+ based
+ on
+ a
+ vision
+
+
+based
+ model
+ to
+ uh
+ perform
+ the
+ retrieval.
+
+
+You
+ don't
+ have
+ to
+ extract
+ all
+ these
+
+
+three
+ entity
+ in
+ the
+ first
+ place
+ because
+
+
+think
+ of
+ it
+ like
+ this.
+ The
+ moment
+ you
+
+
+have
+ your
+ data
+ and
+ you
+ first
+ in
+ the
+
+
+first
+ place
+ you
+ segregate
+ these
+ three
+
+
+things.
+ It's
+ just
+ like
+ you
+ have
+ a
+ family
+
+
+you
+ just
+ uh
+ you
+ know
+ let
+ your
+ kid
+ go
+
+
+somewhere
+ you
+ go
+ somewhere
+ and
+ you
+ know
+
+
+your
+ partner
+ goes
+ somewhere
+ else.
+ It's
+ a
+
+
+good
+ thing
+ but
+ uh
+ you
+ know
+ uh
+ if
+ all
+ of
+
+
+them
+ goes
+ you
+ know
+ separate
+ and
+ you
+
+
+expect
+ somebody
+ else
+ to
+ identify
+ that
+
+
+they
+ all
+ are
+ part
+ of
+ one
+ family
+ it's
+ a
+
+
+it's
+ a
+ task
+ right
+ so
+ for
+ that
+ external
+
+
+person
+
+
+uh
+ so
+ that
+ is
+ what
+ we
+ are
+ going
+ to
+ solve
+
+
+that
+ can
+ we
+ can
+ we
+ come
+ up
+ with
+ a
+
+
+technique
+ where
+ we
+ don't
+ do
+ all
+ this
+
+
+okay
+ so
+ before
+ we
+ go
+ uh
+ I
+ think
+ you
+ have
+
+
+a
+ question
+ yeah
+
+
+>> yeah
+ I
+ think
+ you
+ kind
+ of
+ answered
+ my
+
+
+question
+ because
+ you
+ were
+ explaining
+ the
+
+
+case
+ about
+ scanning
+ all
+ the
+ PDFs
+
+
+>> and
+ it
+ wouldn't
+ quite
+ work
+ and
+ I
+ was
+ a
+
+
+little
+ bit
+ confused
+ as
+ to
+ why
+ these
+
+
+approaches
+ wouldn't
+ work.
+
+
+>> Yeah.
+
+
+>> But
+ then
+ I
+ think
+ you're
+ going
+ towards
+
+
+the
+ notion
+ that
+ we
+ need
+ to
+ establish
+
+
+relationships
+ between
+
+
+>> Exactly.
+
+
+>> Absolutely.
+ Yeah.
+ So
+ I
+ think
+ I'll
+ give
+
+
+you
+ one
+ more
+ uh
+ one
+ more
+ uh
+ example.
+ Uh
+
+
+if
+ you
+ go
+ to
+ IKEA,
+ you
+ buy
+ something
+
+
+from
+ IKEA.
+ If
+ you
+ have
+ seen
+ the
+ IKEA
+ uh
+
+
+in
+ uh
+ you
+ know
+ instructions
+ you
+ know
+ we
+
+
+don't
+ I
+ personally
+ never
+ looked
+ into
+
+
+those
+ instruction
+ but
+ while
+ I
+ was
+
+
+reading
+ that
+ research
+ paper
+ they
+ said
+
+
+that
+ refer
+ to
+ that
+ uh
+ because
+ we
+
+
+generally
+ go
+ to
+ YouTube
+ and
+ search
+ what
+
+
+is
+ the
+ instruction
+ steps
+ and
+ all
+ that
+
+
+right
+ but
+ if
+ you
+ look
+ at
+ the
+ IKEA
+
+
+instruction
+ set
+ they
+ just
+ have
+ emoji
+
+
+kind
+ of
+ a
+ human
+ uh
+ and
+ they
+ are
+ just
+
+
+assembling
+ something
+ there
+ is
+ no
+ text
+
+
+there
+ there's
+ nothing
+ there
+ so
+ unless
+ or
+
+
+until
+ you
+ have
+ a
+ visual
+ understanding
+ of
+
+
+what
+ it
+ you
+ will
+ not
+ have
+ any
+ idea
+ what
+
+
+they're
+ talking
+ about.
+ Okay.
+ So
+ there
+
+
+are
+ some
+ data
+ sets
+ and
+ I'll
+ show
+ you
+ a
+
+
+few
+ of
+ the
+ data
+ sets
+ where
+ the
+ uh
+ there
+
+
+are
+ some
+ text
+ embedded
+ within
+ the
+ image
+
+
+and
+ there
+ are
+ just
+ an
+ image
+ they
+ don't
+
+
+have
+ any
+ text.
+ So
+ you
+ need
+ some
+ model
+ or
+
+
+some
+ uh
+ technique
+ which
+ can
+ help
+ us
+ to
+
+
+understand
+ uh
+ what
+ is
+ the
+ semantics
+ of
+
+
+the
+ data.
+ Okay.
+ So
+ let's
+ see
+ how
+ we
+ are
+
+
+going
+ to
+ solve
+ this.
+
+
+So
+ this
+ is
+ uh
+ again
+ the
+ text
+ might
+ be
+
+
+small
+ uh
+ you
+ can
+ just
+ leave
+ that
+ okay
+
+
+you
+ can
+ open
+ it
+ in
+ your
+ laptop
+ uh
+ or
+
+
+I'll
+ try
+ to
+ explain
+ it
+ as
+ much
+ as
+ I
+ can.
+
+
+So
+ this
+ is
+ the
+ traditional
+ technique
+
+
+that
+ we
+ discussed
+ right
+ you
+ first
+ place
+
+
+you
+ divide
+ all
+ these
+ three
+ entities
+ uh
+
+
+separately
+ uh
+ but
+ this
+ is
+ not
+ very
+
+
+helpful
+ because
+ if
+ you
+ look
+ uh
+ you
+ know
+
+
+think
+ about
+ it
+ let's
+ say
+ you
+ were
+ given
+
+
+a
+ book
+ and
+ uh
+ you
+ were
+ asked
+ to
+
+
+answer
+ a
+ particular
+ question
+ let's
+ say
+ I
+
+
+give
+ you
+ this
+ book
+ by
+ the
+ way
+ this
+ is
+ a
+
+
+fantastic
+ book
+ from
+ Simon
+ have
+ you
+ heard
+
+
+of
+ this
+ book
+ yeah
+ if
+ you
+ are
+ getting
+
+
+started
+ with
+ machine
+ learning
+ uh
+ deep
+
+
+learning
+ uh
+ you
+ know
+ you
+ and
+ uh
+ read
+
+
+this
+ book.
+ This
+ is
+ a
+ really
+ fantastic
+
+
+book.
+ It's
+ a
+ recently
+ published
+ book
+ and
+
+
+professor
+ Simon
+ is
+ very
+ reachable.
+ It's
+
+
+it's
+ uh
+ it's
+ a
+ fantastic
+ book.
+ So
+ let's
+
+
+say
+ if
+ I
+ give
+ you
+ this
+ book
+ and
+ if
+ I
+ ask
+
+
+you
+ some
+ question
+ and
+ let's
+ say
+ you
+ are
+
+
+not
+ aware
+ of
+ this
+ particular
+ topic,
+ you
+
+
+will
+ not
+ uh
+ go
+ and
+ scan
+ the
+ entire
+ book.
+
+
+What
+ you
+ will
+ do
+ is
+ you
+ will
+ try
+ to
+
+
+first
+ find
+ the
+ structure
+ of
+ the
+ book.
+
+
+Maybe
+ you
+ will
+ find
+ the
+ index
+ where
+ is
+
+
+the
+ index,
+ where
+ is
+ the
+ appendex
+ and
+ all
+
+
+that
+ and
+ then
+ you
+ will
+ try
+ to
+ uh
+ figure
+
+
+out
+ which
+ chapter
+ this
+ book
+ might
+ uh
+
+
+this
+ question
+ uh
+ can
+ be
+ answered
+ from
+
+
+and
+ then
+ you
+ will
+ go
+ to
+ that
+ specific
+
+
+chapter
+ and
+ then
+ read
+ through
+ those
+
+
+chapters.
+ Right?
+ So
+ that
+ is
+ what
+ a
+ human
+
+
+will
+ do
+ and
+ that
+ is
+ exactly
+ the
+
+
+philosophy
+ of
+ uh
+ calling.
+ Okay.
+ So
+
+
+when
+ you
+ get
+ a
+ question
+
+
+what
+ you
+ do
+ is
+ first
+ you
+ will
+ first
+ scan
+
+
+through
+ the
+ appendix
+ and
+ all
+ that
+ and
+
+
+then
+ you
+ will
+ figure
+ out
+ where
+ exactly
+
+
+uh
+ uh
+ the
+ portion
+ where
+ your
+ question
+
+
+can
+ be
+ answered
+ and
+ then
+ you
+ will
+
+
+accumulate
+ all
+ those
+ relevant
+ chunks
+ or
+
+
+relevant
+ information
+ and
+ then
+ uh
+ finally
+
+
+you
+ will
+ come
+ up
+ with
+ a
+ response.
+ Right?
+
+
+So
+ this
+ is
+ where
+ uh
+ or
+ rather
+ this
+ was
+
+
+the
+ motivation
+ of
+ this
+ vision-based
+
+
+retrieval
+ model
+ called
+ pali.
+ Have
+ you
+
+
+heard
+ of
+ this
+ model
+ call
+ pali?
+ Yeah.
+
+
+Okay.
+ Yeah.
+ A
+ few
+ of
+ you.
+ So
+ call
+ pali
+
+
+was
+ introduced
+ I
+ think
+ in
+ uh
+ July
+ 2024
+
+
+just
+ less
+ than
+ a
+ year
+ back.
+ Uh
+ and
+ the
+
+
+motivation
+ is
+ we
+ will
+ treat
+ every
+ page
+
+
+as
+ an
+ image.
+ So
+ assume
+ that
+ you
+ have
+ a
+
+
+PDF
+ document
+ of
+ let's
+ say
+ 100
+ pages.
+
+
+Your
+ data
+ set
+ is
+ not
+ one
+ PDF
+ but
+ 100
+
+
+images.
+ Okay.
+ There
+ is
+ no
+ concept
+ of
+
+
+retrieving
+ u
+ images,
+ text
+ and
+ tables
+
+
+from
+ there.
+ So
+ how
+ it
+ works?
+
+
+So
+
+
+it
+ first
+ creates
+ patches
+
+
+of
+ every
+ page.
+ So
+ now
+ let's
+ consider
+ one
+
+
+page.
+ One
+ page
+ is
+ nothing
+ but
+ one
+ image.
+
+
+And
+
+
+the
+ same
+ will
+ apply
+ on
+ all
+ the
+ pages
+
+
+that
+ you
+ have
+ in
+ your
+ document.
+ The
+
+
+first
+ thing
+ that
+ it
+ will
+ do
+ is
+ it
+ will
+
+
+create
+ some
+ patches.
+ Uh
+ in
+ the
+ paper
+ I
+
+
+think
+ it
+ was
+ um
+ the
+ model
+ was
+ trained
+
+
+with
+ uh
+ 32
+ patches
+ like
+ 32
+ +
+ 32
+ here.
+
+
+How
+ many
+ patches
+ we
+ have?
+ We
+ have
+ 1
+ 2
+ 3
+
+
+4
+ 5
+ uh
+ 15
+ patches.
+ Right?
+
+
+Now
+ what
+ we
+ do
+ is
+ after
+ that
+ once
+ you
+
+
+have
+ those
+ patches
+ you
+ will
+ use
+ this
+
+
+call
+ model
+ embedding
+ model
+ and
+ it
+ will
+
+
+generate
+
+
+one
+ vector
+ per
+ patch.
+
+
+Okay.
+ So
+ in
+ this
+ document
+ how
+ many
+
+
+vectors
+ we
+ will
+ have?
+
+
+>> 15.
+ So
+ now
+ if
+ I
+ if
+ my
+ document
+ is
+ having
+
+
+10
+ pages
+ how
+ many
+ vectors
+ I
+ will
+ have
+ in
+
+
+total.
+
+
+>> 150.
+ Okay.
+ So
+ now
+ what
+ we
+ going
+ to
+ do
+ is
+
+
+we
+ are
+ going
+ to
+ see
+ this
+ middle
+ part
+ how
+
+
+it
+ generates
+ the
+ embedding
+ and
+ then
+ at
+
+
+later
+ and
+ in
+ last
+ section
+ we
+ will
+ see
+
+
+that
+ how
+ it
+ does
+ the
+ retrieval
+ and
+ then
+
+
+we
+ will
+ go
+ to
+ the
+ code.
+ Okay.
+ Okay.
+ So
+
+
+before
+ we
+ get
+ into
+ that
+ um
+ uh
+ this
+
+
+embedding
+ process
+ let's
+ take
+ a
+ detour
+ of
+
+
+vision
+ based
+ language
+ model.
+ Uh
+ have
+ you
+
+
+worked
+ on
+ a
+ vision
+ based
+ language
+ model?
+
+
+Any
+ of
+ you?
+ Okay.
+ Okay.
+ Few
+ of
+ you.
+ So
+
+
+ultimately
+ if
+ you
+ think
+ about
+ it
+ um
+ we
+
+
+had
+ uh
+
+
+language
+ models
+ uh
+ I'm
+ not
+ talking
+ about
+
+
+uh
+ uh
+ large
+ language
+ model
+ but
+ text
+
+
+based
+ models
+ uh
+ since
+ we
+ had
+ transformer
+
+
+based
+ architecture
+ right
+ and
+ then
+ at
+
+
+that
+ time
+ we
+ also
+ had
+ uh
+ models
+ which
+
+
+can
+ work
+ pretty
+ well
+ with
+ images
+ which
+
+
+are
+ based
+ on
+ CNN's
+
+
+now
+ What
+ researchers
+ thought
+ was
+ uh
+ now
+
+
+that
+ we
+ have
+ a
+ language
+ model
+ why
+ can't
+
+
+we
+ just
+ uh
+ make
+ use
+ of
+ that
+ to
+ work
+ with
+
+
+vision
+ it
+ could
+ be
+ images
+ or
+ videos
+ are
+
+
+nothing
+ but
+ uh
+ images
+ but
+ but
+ with
+ a
+
+
+time
+ stamp
+ right
+ another
+ dimension
+ you
+
+
+can
+ think
+ of
+ it
+ uh
+ and
+ then
+
+
+what
+ people
+ did
+ was
+ they
+ took
+ some
+
+
+vision
+ based
+ model
+ and
+ then
+ they
+ took
+
+
+some
+ uh
+ text
+ based
+ model
+ they
+ both
+ are
+
+
+separate
+ right
+ At
+ this
+ point
+ what
+ we're
+
+
+talking
+ about
+ is
+ uh
+ before
+ the
+ training
+
+
+right
+ like
+ the
+ these
+ two
+ models
+ are
+
+
+completely
+ separate
+ they
+ all
+ have
+ you
+
+
+know
+ they
+ they
+ are
+ in
+ different
+ space
+
+
+basically
+ right
+ and
+ the
+ idea
+ is
+
+
+at
+ the
+ end
+ of
+ the
+ day
+ come
+ up
+ with
+ a
+
+
+model
+ where
+ if
+ you
+ send
+ an
+ image
+ of
+ a
+
+
+dog
+ the
+ vector
+ that
+ you
+ will
+ get
+ and
+ if
+
+
+you
+ send
+ a
+ text
+ about
+ dog
+ the
+ vector
+
+
+that
+ you
+ will
+ get
+ at
+ the
+ end
+ those
+ two
+
+
+vectors
+ will
+ be
+ very
+ close
+ to
+ each
+
+
+other.
+ Initially
+ it
+ will
+ not
+ be
+ close
+
+
+because
+ when
+ when
+ I
+ say
+ a
+ dog
+ is
+ sitting
+
+
+on
+ a
+ field
+ and
+ if
+ I
+ use
+ any
+ text
+ space
+
+
+model
+ it
+ will
+ generate
+ a
+ vector
+ and
+ for
+
+
+the
+ sake
+ of
+ simplicity
+ simplicity
+ let's
+
+
+assume
+ the
+ vector
+ dimension
+ is
+ 10.
+ So
+ it
+
+
+will
+ generate
+ a
+ array
+ of
+ 10
+ numbers.
+
+
+Similarly
+ when
+ you
+ pass
+ an
+ image
+ of
+ a
+
+
+dog
+ it
+ will
+ generate
+ an
+ im
+ vector
+ final
+
+
+vector
+ with
+ 10
+ numbers.
+ Let's
+ say
+ the
+
+
+embedding
+ vector
+ size
+ is
+ 10.
+ Now
+ those
+
+
+10
+ numbers
+ and
+ this
+ 10
+ numbers
+ for
+ the
+
+
+text
+ they
+ will
+ be
+ anywhere
+ in
+ the
+ space
+
+
+because
+ they
+ don't
+ have
+ any
+ correlation
+
+
+at
+ the
+ before
+ uh
+ the
+ training.
+ Now
+ what
+
+
+happens
+ is
+
+
+at
+ the
+ time
+ of
+ training
+ we
+ take
+ lot
+ of
+
+
+samples
+ positive
+ samples
+ where
+ the
+ text
+
+
+is
+ there
+ uh
+ text
+ is
+ there
+ which
+
+
+replicates
+ the
+ image
+ and
+ there
+ are
+ lot
+
+
+of
+ uh
+ negative
+ samples
+ where
+ image
+ is
+
+
+there
+ but
+ text
+ is
+ something
+ random
+ and
+
+
+the
+ idea
+ is
+ the
+ loss
+ function
+ that
+ we
+
+
+use
+ is
+ if
+ they
+ are
+ similar
+
+
+we
+ want
+ to
+ make
+ sure
+ that
+ the
+ loss
+ is
+
+
+less
+ but
+ if
+ they
+ are
+ orthogonal
+ or
+ very
+
+
+separate
+ we
+ will
+ say
+ that
+ Okay,
+ the
+ loss
+
+
+is
+ high
+ and
+ during
+ this
+ loss
+ you
+ know
+
+
+this
+ training
+ process
+ we
+ kind
+ of
+
+
+optimize
+ and
+ at
+ the
+ end
+ we
+ we
+ see
+ that
+
+
+when
+ you
+ send
+ an
+ image
+ or
+ a
+ text
+ the
+
+
+embedding
+ that
+ we
+ get
+ at
+ the
+ end
+ are
+
+
+very
+ close
+ to
+ each
+ other.
+ Okay.
+ So
+ we
+
+
+are
+ not
+ going
+ to
+ deep
+ dive
+ into
+ u
+ vision
+
+
+based
+ model
+ but
+ there
+ is
+ something
+
+
+called
+ contrastive
+ learning
+ where
+ if
+ you
+
+
+send
+ an
+ image
+ and
+ a
+ relevant
+ uh
+ positive
+
+
+tag
+ and
+ if
+ the
+ vectors
+ are
+ very
+ uh
+ very
+
+
+sparse
+ like
+ very
+ uh
+ uh
+ very
+ much
+ apart
+
+
+from
+ each
+ other
+ then
+ the
+ loss
+ will
+ be
+
+
+very
+ high
+ because
+ we
+ want
+ these
+ two
+
+
+vectors
+ to
+ be
+ close
+ right.
+ So
+ that
+ way
+
+
+uh
+ during
+ the
+ uh
+ back
+ uh
+ uh
+ back
+
+
+propagation
+ we
+ update
+ the
+ weights
+
+
+accordingly.
+ So
+ this
+ is
+ one
+ of
+ the
+
+
+reason
+ if
+ you
+ think
+ about
+ it
+ uh
+ you
+
+
+might
+ have
+ seen
+ in
+ language
+ models
+ or
+
+
+when
+ you
+ use
+ any
+ uh
+ let's
+ say
+ any
+ um
+
+
+foundational
+ model
+ they
+ say
+ that
+ always
+
+
+your
+ prompt
+ should
+ be
+
+
+uh
+ about
+ what
+ you
+ want
+ not
+ about
+ what
+
+
+you
+ don't
+ want.
+ Have
+ you
+ seen
+ this?
+ If
+
+
+you
+ are
+ into
+ prompt
+ engineering
+ why
+ they
+
+
+say
+ this
+ just
+ think
+ about
+ it.
+ Let's
+ say
+
+
+if
+ I
+ say
+ uh
+ uh
+ okay
+ let
+ me
+ give
+ you
+ an
+
+
+uh
+ analogy
+ right
+ if
+ you
+ are
+ going
+ for
+ a
+
+
+dinner
+ right
+ with
+ your
+ wife
+ and
+ if
+ you
+
+
+ask
+ your
+ wife
+ what
+ would
+ you
+ like
+ to
+
+
+have
+ she
+ will
+ say
+ that
+ I
+ I
+ I
+ let's
+ say
+
+
+uh
+ I
+ don't
+ like
+ this
+ I
+ don't
+ like
+ that
+
+
+but
+ that
+ was
+ not
+ my
+ question
+ my
+ question
+
+
+was
+ what
+ you
+ want
+ that
+ is
+ always
+
+
+difficult
+ to
+ uh
+ answer
+ right
+ people
+ will
+
+
+say
+ that
+ uh
+
+
+Okay,
+ would
+ you
+ like
+ to
+ have
+ this?
+ No,
+ I
+
+
+don't
+ like
+ this.
+ But
+ when
+ you
+ ask
+ that,
+
+
+okay,
+ you
+ tell
+ me
+ what
+ you
+ like,
+ it's
+
+
+very
+ hard.
+ So
+ that's
+ why
+ when
+ you
+ give
+ a
+
+
+prompt
+ that
+ u
+ I
+ want
+ a
+ dog
+ sitting
+ on
+
+
+this
+ chair,
+ it's
+ a
+ very
+ nice
+ prompt.
+ But
+
+
+if
+ you
+ say
+ that
+ dog
+ should
+ not
+ sit
+ on
+
+
+the
+ floor,
+ it
+ can
+ generate
+ any
+ image
+
+
+because
+ you
+ are
+ not
+ saying
+ that
+ it
+
+
+should
+ sit
+ on
+ a
+ chair.
+ It
+ might
+ be
+
+
+sitting
+ on
+ a
+ desk
+ or
+ somewhere
+ else.
+
+
+Right?
+ So
+ that
+ is
+ the
+ reason
+ we
+ always
+
+
+say
+ that
+ the
+ prompt
+ should
+ be
+ uh
+ very
+
+
+much
+ positive
+ what
+ you
+ want
+ not
+ the
+
+
+negative
+ because
+ uh
+ you
+ know
+ data
+ set
+
+
+doesn't
+ have
+ that
+ much
+ of
+ negative
+
+
+samples.
+ Now
+ let's
+ come
+ back
+ to
+ call
+
+
+paraly
+ how
+ it
+ works.
+ So
+
+
+you
+ give
+ an
+ image.
+ So
+ now
+ this
+ image
+ is
+
+
+you
+ can
+ think
+ of
+ it
+ like
+ one
+ of
+ the
+
+
+patch
+ okay
+ it
+ goes
+ through
+ uh
+ the
+ uh
+
+
+vision
+ based
+ encoder
+ and
+ it
+ will
+
+
+generate
+ an
+ uh
+ embedding
+ and
+ then
+ we
+
+
+have
+ a
+ linear
+ projection
+ and
+ the
+ reason
+
+
+that
+ we
+ have
+ the
+ linear
+ projection
+ is
+
+
+because
+ at
+ the
+ end
+ of
+ the
+ day
+ uh
+ when
+
+
+you
+ ask
+ a
+ question
+ that
+ will
+ also
+ be
+
+
+generating
+ some
+ vector
+ we
+ want
+ to
+ make
+
+
+sure
+ that
+ these
+ vectors
+ are
+ compatible
+
+
+to
+ each
+ other
+ they
+ are
+ of
+ same
+ size
+ and
+
+
+that's
+ why
+ we
+ have
+ added
+ added
+ a
+ new
+
+
+projection
+ layer.
+ You
+ can
+ simply
+ think
+
+
+of
+ it
+ as
+ a
+ fully
+ connected
+ layer
+ and
+
+
+ultimately
+ you
+ will
+ have
+ a
+ standard
+
+
+transformer
+ and
+ then
+ you
+ will
+ get
+ the
+
+
+output
+ token.
+ Okay.
+ So
+
+
+now
+
+
+if
+ you
+ think
+ about
+
+
+me
+ just
+ scroll
+ down.
+ Yeah.
+ So
+ if
+ you
+
+
+think
+ about
+ call
+ pal
+ when
+ you
+ give
+ an
+
+
+image
+
+
+it
+ will
+ have
+ let's
+ say
+ in
+ this
+ case
+
+
+there
+ are
+ 15
+ uh
+ patches
+ just
+ think
+ of
+
+
+this
+ patch
+ okay
+ this
+ patch
+ will
+ go
+
+
+through
+ this
+ it
+ will
+ generate
+ an
+ uh
+
+
+vector
+ and
+ this
+ will
+ be
+ the
+ final
+
+
+representation
+ of
+ the
+ first
+ patch.
+
+
+Similarly
+ when
+ you
+ give
+ the
+ whole
+ image
+
+
+you
+ will
+ not
+ give
+ the
+ uh
+ you
+ know
+ single
+
+
+patch
+ uh
+ in
+ the
+ batch
+ you
+ will
+ give
+ give
+
+
+one
+ full
+ image
+ or
+ let's
+ say
+ page
+ number
+
+
+one
+ of
+ the
+ document
+ this
+ model
+ will
+ do
+
+
+all
+ that
+ patching
+ and
+ it
+ will
+ finally
+
+
+generate
+ one
+ embedding
+ vector.
+ Now
+ at
+
+
+the
+ time
+ of
+
+
+and
+ if
+ you
+ if
+ you
+ see
+ here
+ in
+ this
+ case
+
+
+this
+ is
+ grayed
+ out
+ because
+ now
+ we
+ are
+
+
+talking
+ about
+ after
+ training
+ once
+ that
+
+
+model
+ is
+ trained
+ after
+ training
+ you
+ will
+
+
+create
+ the
+ embeddings
+ of
+ your
+ document.
+
+
+So
+ while
+ you
+ are
+ creating
+ the
+ embeddings
+
+
+there
+ is
+ no
+ question
+ here
+ right.
+ So
+ it
+
+
+will
+ just
+ use
+ this
+ path.
+ Now
+ once
+ those
+
+
+embeddings
+ are
+ done
+ like
+ once
+ you
+ get
+
+
+all
+ these
+ final
+ vectors
+ for
+ your
+ entire
+
+
+document
+
+
+in
+ the
+ query
+ time
+ you
+ will
+ just
+ use
+ your
+
+
+text
+ based
+ query.
+ So
+ call
+ pal
+ doesn't
+
+
+say
+ that
+ you
+ can
+ query
+ with
+ your
+ as
+ an
+
+
+image
+ like
+ in
+ chat
+ GPT
+ or
+ any
+ GPD
+ based
+
+
+model
+ you
+ just
+ upload
+ an
+ image.
+ We
+ are
+
+
+so
+ lazy
+ we
+ don't
+ even
+ ask
+ the
+ question
+
+
+these
+ days
+ right
+ we
+ just
+ upload
+ the
+
+
+image
+ and
+ you
+ know
+ model
+ just
+ generates
+
+
+something.
+ So
+ here
+ the
+ question
+ should
+
+
+be
+ always
+ in
+ text
+ that's
+ the
+
+
+prerequisite
+ for
+ this
+ model
+ and
+ then
+
+
+this
+ goes
+ through
+ the
+ same
+ uh
+ model
+ and
+
+
+then
+ it
+ finally
+ gives
+ you
+ an
+ response.
+
+
+Now
+ this
+ response
+ this
+ vector
+ you
+ will
+
+
+do
+ a
+ semantic
+ search
+ with
+ the
+ vectors
+
+
+that
+ you
+ have
+ stored
+ in
+ your
+ vector
+
+
+database
+ using
+ those
+ uh
+ image
+ patches
+
+
+with
+ me
+ so
+ far?
+ Yes.
+ Okay.
+ So
+ if
+ you
+
+
+think
+ about
+ it
+ uh
+
+
+both
+ for
+ query
+ as
+ well
+ as
+ uh
+ your
+
+
+embedding
+ there
+ is
+ a
+ certain
+ amount
+ of
+
+
+uh
+ uh
+ pre-processing
+ that
+ is
+ needed
+
+
+because
+ uh
+ your
+ images
+ can
+ be
+ of
+
+
+different
+ size
+ right
+ so
+ let's
+ say
+ you
+
+
+have
+ an
+ a
+ PDF
+ document
+ u
+ and
+
+
+the
+ tool
+ that
+ you
+ use
+ to
+ convert
+ that
+
+
+into
+ an
+ image
+ uh
+ it
+ created
+ an
+ image
+ of
+
+
+800
+ by
+ 800
+ but
+ let's
+ say
+ somebody
+ else
+
+
+have
+ used
+ another
+ technique
+ and
+ the
+
+
+image
+ was
+ of
+ 50
+ +
+ 50.
+ So
+ we
+ need
+ to
+ make
+
+
+sure
+ that
+ the
+ images
+ are
+ of
+ standard
+
+
+size,
+ right?
+ So
+ that's
+ why
+ when
+ we
+ look
+
+
+into
+ the
+ code
+ next,
+ you
+ will
+ see
+ that
+
+
+always
+ before
+ it
+ actually
+ generates
+ the
+
+
+embedding,
+ there
+ is
+ a
+ pre-processing
+ uh
+
+
+that
+ we
+ do.
+ Okay.
+ So
+ let's
+ uh
+ go
+ to
+ the
+
+
+code
+ and
+ see
+ that.
+ But
+ before
+ that
+ let's
+
+
+uh
+ let's
+ share
+ I
+ mean
+ let's
+ talk
+ about
+
+
+how
+ it
+ generates
+ uh
+ the
+ similar
+ chunks.
+
+
+So
+ this
+ is
+ the
+ most
+ important
+ part
+ of
+
+
+call
+ pali.
+ Okay.
+ Now
+ imagine
+ that
+
+
+your
+ page
+ now
+ just
+ consider
+ page
+ number
+
+
+one
+ of
+ your
+ document
+ and
+ the
+ page
+
+
+and
+ the
+ patch
+ size
+ that
+ you
+ use
+ is
+ let's
+
+
+say
+ 2
+ +2
+ that
+ is
+ total
+ four
+ patches.
+
+
+Okay.
+ Now
+ let's
+ say
+ this
+ is
+ page
+ number
+
+
+one
+ and
+ this
+ is
+ the
+ embedding
+ of
+ your
+ f
+
+
+uh
+ first
+ patch.
+ This
+ is
+ the
+ embedding
+ of
+
+
+the
+ second
+ patch.
+ This
+ is
+ the
+ embedding
+
+
+of
+ third
+ patch.
+ This
+ is
+ the
+ embedding
+ of
+
+
+the
+ fourth
+ patch.
+ Okay.
+
+
+And
+ you
+ ask
+ some
+ question.
+ Let's
+ say
+ uh
+
+
+what
+ is
+ AI?
+ Just
+ for
+ the
+ sake
+ of
+
+
+simplicity
+ what
+ is
+ AI?
+ And
+ you
+ have
+ used
+
+
+through
+ uh
+ it
+ went
+ through
+ the
+ tokenizer
+
+
+and
+ it
+ generated
+ three
+ embedding
+ vectors
+
+
+right
+ three
+ tokens
+ basically.
+ So
+ now
+
+
+what
+ we
+ do
+ is
+ we
+ do
+ a
+ dot
+ product
+
+
+between
+ each
+ vector
+ and
+ each
+ vector
+ of
+
+
+all
+ the
+ patches.
+
+
+Okay.
+
+
+And
+ then
+
+
+for
+ every
+ row
+ we
+ try
+ to
+ find
+ which
+ is
+
+
+the
+ maximum
+ number.
+ What
+ this
+ number
+
+
+signifies?
+ This
+ 89
+ signifies
+ 89
+
+
+signifies
+ that
+ the
+ first
+ part
+ of
+ your
+
+
+question
+ has
+ the
+ maximum
+ similarity
+ with
+
+
+the
+ second
+ patch
+ of
+ the
+ image.
+
+
+Right?
+ Similarly,
+ if
+ this
+ is
+ 97,
+ that
+
+
+means
+ the
+ second
+ part
+ of
+ your
+ question
+
+
+has
+ the
+ maximum
+ similarity
+ with
+ the
+
+
+third
+ patch
+ of
+ your
+ image.
+
+
+Right?
+
+
+And
+ at
+ the
+ end
+ what
+ we
+ do
+ is
+ we
+ just
+
+
+take
+ the
+ addition
+ I
+ mean
+ we
+ just
+ take
+ a
+
+
+sum
+ the
+ maximum
+ numbers
+ of
+ each
+ rows
+ and
+
+
+if
+ let's
+ say
+ that
+ is
+ 2.58
+ that
+ means
+
+
+this
+ query
+ has
+ a
+ score
+ of
+ 2.58
+ for
+ page
+
+
+number
+ one.
+ Similarly
+ we
+ will
+ do
+ it
+ for
+
+
+all
+ the
+ pages
+ and
+ then
+ in
+ rag
+ what
+ we
+ do
+
+
+at
+ the
+ end
+ when
+ we
+ do
+ a
+ semantic
+ search
+
+
+we
+ say
+ top
+ five
+ chunks
+ or
+ top
+ 10
+ chunks.
+
+
+So
+ in
+ this
+ case
+ chunk
+ is
+ nothing
+ but
+
+
+pages.
+ So
+ if
+ I
+ say
+ top
+ five
+ then
+ in
+ that
+
+
+case
+ it
+ will
+ show
+ us
+ the
+ top
+ five
+ pages
+
+
+based
+ on
+ this
+ score.
+
+
+Getting
+ it.
+ So
+ this
+ is
+ the
+ most
+
+
+important
+ thing.
+ So
+ this
+ is
+ called
+ late
+
+
+interaction.
+ Have
+ you
+ heard
+ of
+ late
+
+
+interaction
+ embeddings
+ all
+ that?
+ And
+ the
+
+
+reason
+ that
+ we
+ say
+ late
+ interaction
+ is
+
+
+because
+ these
+ token
+ embeddings
+ are
+
+
+already
+ stored.
+ We
+ have
+ already
+ done
+
+
+that.
+ It's
+ there
+ in
+ your
+ vector
+
+
+database.
+ All
+ we
+ have
+ to
+ do
+ is
+ we
+ need
+
+
+to
+ just
+ do
+ the
+ dot
+ product
+ and
+ then
+ use
+
+
+this
+ metrics
+ to
+ generate
+ the
+ top
+ five
+ or
+
+
+top
+ three
+ uh
+ pages.
+ Okay.
+
+
+Uh
+ with
+ me
+ so
+ far?
+ Yes.
+ Okay.
+ Now
+ this
+
+
+functionality
+ is
+ not
+ supported
+ in
+ all
+
+
+the
+ all
+ the
+ vector
+ databases.
+ We
+ are
+
+
+going
+ to
+ use
+ one
+ of
+ the
+ vector
+ database
+
+
+called
+ quadrant.
+ Have
+ you
+ heard
+ of
+ that?
+
+
+But
+ there
+ are
+ few
+ other
+ databases.
+ I
+
+
+have
+ not
+ done
+ enough
+ research
+ which
+ are
+
+
+the
+ databases
+ that
+ it
+ supports.
+ uh
+ but
+
+
+this
+ u
+ maxim
+ calculation
+ is
+ not
+
+
+supported
+ by
+ all
+ the
+ database
+ okay
+ there
+
+
+are
+ some
+ open
+ source
+ contribution
+ that
+
+
+we
+ have
+ for
+ few
+ of
+ the
+ vector
+ databases
+
+
+I
+ I
+ I I
+ tried
+ with
+ open
+ search
+ u
+ it
+ did
+
+
+not
+ have
+ but
+ I
+ think
+ there
+ is
+ a
+
+
+extension
+ uh
+ which
+ you
+ can
+ use
+ to
+ make
+
+
+this
+ functionality
+ okay
+ so
+ now
+ we
+ are
+
+
+going
+ to
+ get
+ into
+
+
+uh
+ the
+ demo
+ so
+ just
+ like
+ what
+ I
+ said
+
+
+once
+ you
+ have
+ those
+ uh
+ scores
+ like
+ in
+
+
+this
+ case
+ 2.58
+ uh
+ like
+ this
+ you
+ will
+
+
+have
+ for
+ all
+ the
+ pages
+ in
+ your
+ document
+
+
+and
+ then
+ at
+ the
+ end
+ you
+ can
+ pick
+ the
+ top
+
+
+three
+ or
+ top
+ four
+ pages
+ of
+ your
+ choice.
+
+
+Okay.
+
+
+So
+ now
+ see
+ this
+ so
+ far
+ we
+ are
+ not
+
+
+talking
+ about
+ agents.
+ Okay.
+ Because
+
+
+that's
+ a
+ very
+ simple
+ task.
+ Uh
+ we
+ will
+
+
+just
+ wrap
+ this
+ with
+ an
+ agent
+ at
+ later
+
+
+point
+ in
+ time.
+
+
+All
+ right.
+ So
+ let's
+ try
+ to
+ do
+ this.
+
+
+Okay.
+ So
+ this
+ is
+ an
+ uh
+ uh
+ I
+ I'll
+ just
+
+
+come
+ to
+ this
+ uh
+ image
+ later
+ on.
+ So
+ now
+
+
+let
+ me
+ just
+ increase
+ uh
+ the
+ font.
+ Can
+
+
+you
+ see
+ this?
+ Yeah.
+ Okay.
+ You
+ don't
+ have
+
+
+to
+ read
+ all
+ that
+ but
+ just
+ uh
+ you
+ should
+
+
+have
+ an
+ idea
+ what
+ we
+ are
+ doing.
+ So
+ first
+
+
+we
+ are
+ just
+ importing
+ few
+ of
+ the
+
+
+libraries.
+ Uh
+ I
+ have
+ no
+ idea
+ what
+ I
+ have
+
+
+importing
+ but
+ uh
+ there
+ are
+ few
+ right.
+ So
+
+
+I
+ think
+ it's
+ uh
+ where
+ is
+ the
+ call
+ pal?
+
+
+Yeah.
+ So
+ this
+ is
+ the
+ call
+ pali
+ model
+
+
+that
+ we
+ have.
+ Okay.
+ And
+ this
+ is
+ the
+
+
+quadrant
+ database
+ and
+ this
+ quadrant
+
+
+database
+ we
+ are
+ going
+ to
+ run
+ locally
+ in
+
+
+a
+ docker
+ container.
+ Okay.
+ So
+ if
+ you
+ are
+
+
+planning
+ to
+ run
+ this
+ uh
+ make
+ sure
+ that
+
+
+you
+ have
+ docker
+ installed
+ in
+ your
+ uh
+ in
+
+
+your
+ laptop.
+ Okay.
+ I
+ I
+ I
+ think
+ the
+
+
+readme
+ have
+ all
+ the
+ information.
+
+
+Okay.
+ Uh
+ so
+ first
+ we
+ need
+ some
+
+
+data.
+ So
+ I
+ have
+ used
+ one
+ data
+ set
+
+
+basically
+ it's
+ a
+ small
+ textbook
+ and
+ if
+
+
+you
+ see
+ this
+ textbook
+ uh
+ this
+ is
+ a
+
+
+science
+ textbook
+
+
+uh
+ chapter
+ number
+ 13.
+ So
+ we
+ have
+ let's
+
+
+say
+ see
+ one
+ of
+ the
+ thing
+ that
+ uh
+ which
+
+
+is
+ interesting
+ here
+ is
+ if
+ you
+ see
+ this
+
+
+image
+ there
+ is
+ no
+ text
+ here
+ right
+ so
+
+
+it's
+ if
+ you
+ ask
+ anything
+ about
+ this
+
+
+image
+ uh
+ and
+ use
+ a
+ traditional
+ technique
+
+
+it
+ might
+ not
+ answer
+ properly
+ uh
+ like
+
+
+this
+ this
+ is
+ also
+ another
+ image
+ along
+
+
+with
+ some
+ text
+ and
+ uh
+ you
+ know
+ you
+ can
+
+
+pick
+ any
+ data
+ set
+ of
+ your
+ choice
+ but
+ uh
+
+
+this
+ is
+ the
+ data
+ set
+ that
+ I
+ have
+ okay
+
+
+and
+ feel
+ free
+ to
+ use
+ any
+ data
+ set
+ of
+
+
+your
+ choice
+ but
+ uh
+ for
+ the
+ purpose
+ of
+
+
+this
+ uh
+ demo
+ you
+ may
+ like
+ to
+ download
+
+
+one
+ of
+ these
+ uh
+ PDF
+ from
+ this
+ URL
+ and
+
+
+play
+ around
+ with
+ this
+ and
+ then
+ you
+ need
+
+
+to
+ have
+ a
+ hugging
+ phase
+ uh
+ uh
+ uh
+ token
+
+
+uh
+ because
+ we
+ are
+ going
+ to
+ download
+ this
+
+
+model
+ from
+ hugging
+ phase
+ right
+ so
+ you
+
+
+should
+ not
+ do
+ this
+ right
+ so
+ this
+ is
+ uh
+
+
+you
+ know
+ I
+ was
+ just
+ trying
+ this
+ because
+
+
+without
+ creating
+ av
+ file
+ but
+ you
+ should
+
+
+have
+ an
+ env
+ file
+ inside
+ that
+ your
+ token
+
+
+should
+ exit
+ exist.
+ Okay,
+ so
+ this
+ is
+ uh
+ a
+
+
+token
+ like
+ this
+ is
+ not
+ my
+ token.
+ If
+ you
+
+
+see
+ this
+ uh
+ this
+ is
+ just
+ a
+ dummy
+ one,
+
+
+right?
+ This
+ is
+ not
+ my
+ token.
+ Okay,
+ so
+
+
+it's
+ but
+ uh
+ this
+ is
+ this
+ is
+ just
+ uh
+ the
+
+
+the
+ hugging
+ face
+ token
+ that
+ you
+ should
+
+
+have.
+ So
+ here
+ we
+ are
+ just
+ loading
+ and
+
+
+logging
+ into
+ our
+ hugging
+ face
+ account.
+
+
+And
+ next
+ we
+ are
+ trying
+ to
+ check
+ whether
+
+
+we
+ have
+ a
+ CPU,
+ GPU
+ or
+ uh
+ MPS.
+ In
+ this
+
+
+case
+ it's
+ a
+ MacBook
+ so
+ I'm
+ just
+ using
+
+
+MPS
+ here
+ uh
+ as
+ a
+ device.
+ Since
+ it's
+ a
+
+
+vision
+ based
+ model
+ it's
+ better
+ to
+ run
+ it
+
+
+on
+ a
+ GPU.
+ It
+ will
+ be
+ faster
+ but
+ you
+ can
+
+
+very
+ well
+ run
+ it
+ on
+ CPU.
+ That's
+ fine.
+
+
+I'll
+ tell
+ you
+ uh
+ you
+ know
+ you
+ should
+ be
+
+
+a
+ little
+ cautious
+ about
+ this
+ if
+ you're
+
+
+running
+ with
+ a
+ within
+ your
+ laptop
+ uh
+ on
+
+
+CPU.
+
+
+uh
+
+
+if
+ it's
+ a
+ office
+ laptop
+ no
+ one
+ cares
+ but
+
+
+if
+ it's
+ your
+ personal
+ laptop
+ make
+ sure
+
+
+that
+ the
+ batch
+ size
+ is
+ very
+ small
+
+
+otherwise
+ it
+ will
+ it
+ will
+ crash
+ in
+ fact
+
+
+I
+ when
+ I
+ first
+ ran
+ this
+ I
+ did
+ not
+ check
+
+
+uh
+ the
+ processing
+ time
+ and
+ all
+ that
+ it
+
+
+just
+ uh
+ went
+ on
+ u
+ you
+ know
+ crashing
+ and
+
+
+it
+ uh
+ rebooted
+ my
+ laptop
+
+
+uh
+ and
+ uh
+ I
+ I
+ did
+ not
+ even
+ read
+ through
+
+
+all
+ this
+ and
+ I
+ ra
+ the
+ IT
+ ticket
+ and
+ I
+
+
+actually
+ got
+ a
+ laptop
+ new
+ laptop
+ uh
+ So
+
+
+but
+ it
+ was
+ my
+ fault
+ here.
+ So
+ they
+
+
+thought
+ that
+ my
+ work
+ my
+ work
+ needs
+ a
+
+
+laptop
+ with
+ more
+ memory.
+ So
+ so
+ if
+ you
+
+
+are
+ finding
+ out
+ tricks
+ to
+ get
+ a
+ new
+
+
+laptop
+ from
+ a
+ company.
+ So
+ this
+ is
+ the
+
+
+cell.
+ So
+ okay
+ uh
+ you
+ can
+ try
+ that.
+ I
+
+
+I'll
+ tell
+ you
+ what
+ you
+ have
+ to
+ change
+ to
+
+
+get
+ a
+ new
+ laptop.
+ So
+ just
+ increase
+ the
+
+
+batch
+ size
+ to
+ batch
+ size
+ to
+ 12.
+ It
+
+
+should
+ work
+ fine.
+ Yeah.
+ Yeah.
+ Okay.
+ So
+
+
+this
+ is
+ the
+ model
+ that
+ we
+ are
+ going
+ to
+
+
+use.
+ It's
+ a
+ call
+ pali
+ uh
+ version
+ 1.3.
+
+
+There
+ might
+ be
+ our
+ new
+ version
+ but
+ just
+
+
+have
+ a
+ look.
+ I
+ I
+ checked
+ last
+ month
+ it
+
+
+was
+ still
+ 1.3.
+
+
+And
+ I'm
+ having
+ a
+ model
+ and
+ a
+
+
+pre-processor.
+ Remember
+ that
+ we
+
+
+discussed
+ that
+ we
+ need
+ to
+ have
+ a
+
+
+pre-processor
+ first.
+ Uh
+ we
+ will
+ process
+
+
+our
+ data
+ and
+ then
+ we
+ will
+ use
+ the
+ model
+
+
+to
+ generate
+ the
+ embeddings.
+ Okay.
+ the
+
+
+same
+ model
+ but
+ there
+ is
+ a
+ pre-processor
+
+
+and
+ the
+ model
+ and
+ these
+ all
+ are
+ coming
+
+
+from
+ hugging
+ face
+ and
+ we
+ are
+ using
+ a
+
+
+cache
+ directory
+ so
+ that
+ we
+ can
+ load
+ this
+
+
+model
+ locally
+ in
+ our
+ uh
+ local
+ directory
+
+
+uh
+ so
+ that
+ every
+ time
+ you
+ run
+ it
+ doesn't
+
+
+download
+ from
+ the
+ internet
+ okay
+
+
+and
+ once
+ that
+ is
+ done
+ uh
+ you
+ have
+ to
+
+
+have
+ a
+ vector
+ database
+ so
+ if
+ you
+ have
+ a
+
+
+docker
+ installed
+ you
+ can
+ just
+ copy
+ and
+
+
+paste
+ it
+ it
+ is
+ nothing
+ but
+ it
+ just
+
+
+created
+ a
+ a
+ container
+ with
+ a
+ port
+
+
+forwarding
+ and
+ uh
+ there
+ is
+ a
+ folder
+
+
+which
+ gets
+ created
+ locally
+ uh
+ as
+ a
+
+
+storage.
+ So
+ all
+ your
+ vectors
+ will
+ be
+
+
+stored
+ locally
+ in
+ your
+ laptop.
+ That's
+
+
+all.
+ And
+ if
+ you
+ click
+ on
+ this
+ dashboard,
+
+
+you
+ should
+ be
+ able
+ to
+ see
+ uh
+ that
+ uh
+ UI
+
+
+of
+ that.
+ And
+ if
+ you
+ come
+ to
+ console
+ uh
+
+
+sorry
+ um
+ here
+ collection
+ initially
+ you
+
+
+since
+ I
+ have
+ executed
+ that
+ code
+ that's
+
+
+why
+ we
+ see
+ this
+ but
+ you
+ should
+ not
+ see
+
+
+anything
+ here
+ and
+ as
+ you
+ run
+ through
+ the
+
+
+notebook
+ you
+ will
+ see
+ the
+ uh
+ collection
+
+
+here.
+ So
+ collection
+ is
+ how
+ many
+ of
+ you
+
+
+are
+ aware
+ of
+ databases?
+
+
+Okay.
+ Okay,
+ many
+ of
+ you
+ I
+ have
+ no
+ idea
+
+
+what
+ what
+ it
+ is
+ but
+ I
+ just
+ asked.
+ So
+ the
+
+
+collection
+ is
+ basically
+ you
+ can
+ think
+ of
+
+
+it
+ like
+ a
+ database
+ and
+ where
+ you
+ will
+
+
+just
+ store
+ all
+ the
+ uh
+ schema
+ and
+ all
+
+
+that.
+ So
+ I'm
+ creating
+ a
+ quadrant
+ client
+
+
+and
+ this
+ is
+ something
+ that
+ I
+ imported
+
+
+earlier
+ and
+ this
+ is
+ the
+ local
+ host
+ and
+
+
+port
+ number
+ this
+ and
+ this
+ just
+ we
+ are
+
+
+just
+ creating
+ the
+ setup
+ right.
+ So
+ now
+ we
+
+
+have
+ a
+ vector
+ database
+ and
+ we
+ have
+ the
+
+
+data.
+ So
+ and
+ we
+ have
+ also
+ uh
+ downloaded
+
+
+the
+ model.
+ So
+ now
+ the
+ second
+ thing
+ that
+
+
+we
+ need
+ to
+ do
+ is
+ we
+ need
+ to
+ create
+ a
+
+
+collection
+ right
+ and
+ if
+ you
+ see
+ this
+ uh
+
+
+we
+ have
+ a
+ collection
+ called
+ u
+ class
+ 10
+
+
+science.
+ Uh
+ so
+ you
+ can
+ give
+ any
+
+
+collection
+ name.
+ Here
+ we
+ are
+ mentioning
+
+
+what
+ should
+ be
+ the
+ vector
+ size
+ right?
+ So
+
+
+uh
+ this
+ is
+ the
+ uh
+ embedding
+ length.
+ So
+
+
+here
+ it
+ is
+ 128
+ and
+ in
+ this
+ in
+ this
+ code
+
+
+what
+ we
+ essentially
+ doing
+ is
+ if
+ there
+ is
+
+
+a
+ collection
+ already
+ exists
+ it
+ will
+ not
+
+
+create
+ any
+ new
+ collection
+ or
+ else
+ it
+
+
+will
+ create
+ a
+ new
+ connection.
+ Yeah
+ you
+
+
+have
+ a
+ question.
+
+
+>> Yeah.
+
+
+>> Yeah.
+ So
+ there
+ is
+ a
+
+
+let
+ me
+ ask
+ you
+ this.
+ What
+ do
+ you
+ feel
+ if
+
+
+I
+ increase
+ the
+ embedding
+ size
+ from
+ 128
+
+
+to
+ 256?
+
+
+What
+ do
+ you
+ feel?
+ H
+ how
+ it
+ would
+ behave?
+
+
+Just
+ a
+ guess.
+
+
+>> Mhm.
+
+
+>> Okay.
+ Okay.
+ Let
+ let
+ me
+ let
+ me
+ give
+ you
+
+
+an
+ example.
+ Okay.
+
+
+Let's
+ say
+ I
+ I I
+ I
+ have
+ just
+ come
+ here
+
+
+and
+ I
+ mentioned
+ you
+ two
+ things
+ about
+ me.
+
+
+I
+ work
+ for
+ Amazon
+
+
+and
+
+
+I'm
+ married.
+ That's
+ all.
+ Okay.
+ These
+ are
+
+
+the
+ two
+ information
+ that
+ you
+ have.
+ Now
+
+
+if
+ he
+ asks
+ you
+ some
+ question
+ about
+ me
+
+
+that
+ uh
+ okay
+ uh
+ tell
+ me
+ someone
+ plays
+
+
+cricket
+ or
+ not.
+ Will
+ you
+ be
+ able
+ to
+ give
+
+
+some
+ answer?
+ No.
+ You
+ will
+ be
+ giving
+ some
+
+
+answer
+ based
+ on
+ these
+ two
+ information
+
+
+but
+ it
+ will
+ be
+ random.
+ Right?
+ But
+ now
+
+
+let's
+ say
+ if
+ I
+ give
+ you
+ more
+
+
+information.
+ I
+ am
+ Suman.
+ I
+ work
+ for
+
+
+Amazon.
+
+
+I
+ am
+ married.
+
+
+I
+ have
+ one
+ wife
+ as
+ of
+ now.
+ I
+ let's
+ say
+ I
+
+
+have
+ one
+ kid.
+ Okay.
+ And
+ few
+ other
+
+
+things.
+
+
+So
+ if
+ I
+ keep
+ on
+ giving
+ more
+ features
+
+
+about
+ me,
+ you
+ are
+ having
+ a
+ richer
+ uh
+
+
+information
+ about
+ me.
+ So
+ now
+ if
+ he
+ asks
+
+
+you
+ a
+ question
+ it's
+ more
+ likely
+ that
+ you
+
+
+will
+ be
+ able
+ to
+ give
+ a
+ uh
+ you
+ know
+ you
+
+
+are
+ you'll
+ be
+ able
+ to
+ give
+ a
+ more
+
+
+accurate
+ answer.
+ Same
+ with
+ this
+ the
+
+
+moment
+ you
+ increase
+ the
+ embedding
+ length
+
+
+you
+ are
+ it's
+ not
+ about
+ chunk
+ and
+ all
+
+
+that
+ it's
+ just
+ about
+ how
+ much
+ granual
+
+
+information
+ that
+ you
+ are
+ having
+ about
+ a
+
+
+specific
+ thing.
+
+
+Okay.
+ So
+ you
+ can
+ always
+ embed
+ uh
+ any
+
+
+entity
+ with
+ just
+ one
+ number
+ a
+ vector
+ of
+
+
+size
+ one
+ but
+ it
+ will
+ not
+ have
+ much
+ of
+ an
+
+
+information
+ as
+ you
+ increase
+ the
+ length
+
+
+it
+ will
+ it
+ will
+ be
+ more
+ richer.
+ Okay.
+
+
+Okay.
+ So
+ coming
+ back
+ to
+ your
+ question
+ uh
+
+
+in
+ the
+ documentation
+ I
+ think
+ they
+ uh
+
+
+they
+ said
+ that
+ 128
+ is
+ a
+ good
+ number
+ uh
+
+
+but
+ you
+ can
+ always
+ use
+ 256
+ right
+ if
+ the
+
+
+vector
+ database
+ also
+ supports
+ that
+ or
+
+
+the
+ embedding
+ model.
+ Okay.
+ So,
+
+
+so
+ this
+ is
+ where
+ we
+ are
+ just
+ creating
+
+
+that
+ collection.
+ We
+ have
+ not
+ even
+ uh
+
+
+started
+ creating
+ the
+ embeddings
+ and
+ all
+
+
+that.
+ And
+ see
+ this
+ here
+ uh
+ this
+ is
+ what
+
+
+u
+ I
+ was
+ referring
+ to
+ when
+ I
+ said
+
+
+quadrant
+ supports
+ that
+ matrix
+ multiplic
+
+
+uh
+ that
+ u
+ uh
+ late
+ interaction
+ thing
+
+
+right
+ so
+ it
+ says
+ I'm
+ setting
+ some
+
+
+configuration
+ that
+ it's
+ it
+ should
+ have
+
+
+multi
+ vector
+ configuration
+ and
+ multi
+
+
+vector
+ comparator
+ as
+ maxim.
+ So
+ maxim
+ is
+
+
+what
+ uh
+ helps
+ us
+ to
+ get
+ those
+ three
+
+
+numbers
+ from
+ that
+ matrix
+ and
+ then
+ add
+
+
+those
+ three
+ numbers
+ and
+ give
+ us
+ the
+
+
+final
+ value
+ of
+ the
+ your
+ query
+ and
+ each
+
+
+page.
+ So
+ that
+ at
+ the
+ end
+ of
+ the
+ day
+ what
+
+
+do
+ we
+ want?
+ We
+ want
+ the
+ relevant
+ pages
+
+
+uh
+ based
+ on
+ our
+ question,
+ right?
+
+
+Okay.
+
+
+So
+ now
+ once
+ this
+ is
+ done,
+ it's
+ now
+
+
+pretty
+ simple.
+ I
+ have
+ to
+ uh
+ first
+ create
+
+
+the
+ embedding.
+ But
+ before
+ that,
+ I
+ need
+
+
+to
+ create
+ convert
+ my
+ data
+ into
+ images.
+
+
+And
+ that's
+ what
+ uh
+ this
+ uh
+ this
+ function
+
+
+does.
+ So
+ what
+ it
+ does
+ is
+ it
+ it
+ takes
+ you
+
+
+it
+ takes
+ an
+ uh
+ directory
+ and
+ you
+ can
+
+
+have
+ hundreds
+ of
+ PDF
+ files
+ and
+ it
+ will
+
+
+go
+ through
+ all
+ the
+ PDF
+ files
+ and
+ it
+ will
+
+
+create
+ uh
+ images
+ of
+ each
+ pages.
+ Okay.
+
+
+And
+ not
+ only
+ that,
+ it
+ will
+ also
+ add
+ all
+
+
+of
+ that
+ into
+ an
+ list
+ called
+ all
+ images.
+
+
+And
+ this
+ is
+ just
+ for
+ my
+ own
+ housekeeping
+
+
+with
+ some
+ metadata
+ like
+ document
+ ID,
+
+
+page
+ number
+ and
+ the
+ actual
+ image
+ in
+ the
+
+
+form
+ of
+ RGB.
+ And
+ it
+ will
+ store
+ it
+ in
+ a
+
+
+local
+ directory
+ called
+ PDF
+ data.
+ And
+ if
+
+
+you
+ just
+ see
+ the
+ first
+ two
+ entries,
+ you
+
+
+will
+ see
+ that
+ okay,
+ this
+ is
+ document
+
+
+number
+ zero
+ that
+ is
+ let's
+ say
+ I
+ just
+
+
+have
+ one
+ PDF.
+ So
+ all
+ the
+ entries
+ will
+
+
+have
+ document
+ ID
+ zero,
+ page
+ number
+ zero
+
+
+and
+ this
+ is
+ the
+ image
+ page
+ number
+ one
+
+
+and
+ this
+ is
+ the
+ image.
+ Okay.
+ So
+ this
+
+
+data
+ set
+ contains
+ everything
+ with
+ me
+ so
+
+
+far?
+ Yes.
+ Okay.
+ Great.
+ Now
+ that
+ I
+ have
+
+
+this
+ uh
+ uh
+ images,
+ I
+ can
+ use
+ the
+
+
+embedding
+ model
+ to
+ generate
+ the
+
+
+embedding
+ and
+
+
+and
+ this
+ is
+ where
+ uh
+ you
+ know
+ I
+ just
+
+
+crashed
+ my
+ laptop.
+ I
+ initially
+ used
+ a
+
+
+batch
+ size
+ of
+ 10
+ uh
+ 12.
+ So
+ it
+ took
+ a
+ lot
+
+
+of
+ memory
+ and
+ I
+ had
+ just
+ I
+ think
+ 16
+ gig
+
+
+of
+ memory.
+ So
+ it
+ it
+ actually
+ crashed
+ but
+
+
+uh
+ if
+ you're
+ trying
+ in
+ your
+ laptop
+ make
+
+
+sure
+ that
+ you
+ use
+ start
+ with
+ two
+ or
+
+
+three.
+ So
+ it
+ basically
+ means
+ how
+ many
+
+
+images
+ you
+ want
+ to
+ process.
+ And
+ now
+ here
+
+
+we
+ are
+ generating
+ the
+ embeddings
+ and
+
+
+first
+ we
+ are
+ going
+ through
+ this
+ call
+ pal
+
+
+pre-processor
+ which
+ will
+ just
+ uh
+
+
+pre-process
+ the
+ image
+ in
+ a
+ standard
+ uh
+
+
+size
+ and
+ then
+ I'm
+ passing
+ it
+ through
+ the
+
+
+call
+ pali
+ model
+ which
+ actually
+ generates
+
+
+the
+ embedding.
+ So
+ this
+ will
+ have
+ my
+
+
+embeddings.
+
+
+And
+ once
+ I
+ have
+ all
+ those
+ uh
+ embeddings,
+
+
+what
+ I
+ want
+ to
+ do
+ is
+ I
+ want
+ to
+ store
+ it
+
+
+in
+ the
+ vector
+ database.
+ And
+ that
+ is
+ what
+
+
+I'm
+ doing
+ it
+ here.
+ I'm
+ just
+ inserting
+
+
+into
+ the
+ collection
+ that
+ I
+ have
+ created
+
+
+for
+ all
+ the
+ points.
+ Each
+ point
+ is
+
+
+nothing
+ but
+ you
+ can
+ think
+ of
+ it
+ like
+ uh
+
+
+each
+ vectors.
+ Okay.
+ And
+ in
+ this
+ case
+ I
+
+
+have
+ just
+ 10
+ pages.
+ So
+ it
+ will
+ just
+
+
+generate
+ the
+ amount
+ of
+ number
+ of
+
+
+embeddings
+ for
+ those
+ 10
+ pages
+ and
+ it
+
+
+will
+ store
+ it
+ here.
+ Now
+ is
+ the
+ final
+
+
+thing
+ you
+ know
+ how
+ we
+ can
+ retrieve.
+ So
+
+
+see
+ this
+ I
+ have
+ just
+ asked
+ this
+ question
+
+
+what
+ are
+ the
+ different
+ uh
+ tropical
+
+
+levels
+ because
+ this
+ is
+ there
+ in
+ the
+ book
+
+
+and
+ this
+ question
+ also
+ need
+ to
+ be
+ uh
+
+
+need
+ to
+ go
+ through
+ that
+ embedding
+ model
+
+
+just
+ like
+ images.
+ So
+ I
+ will
+ do
+ go
+ I'll
+
+
+make
+ that
+ through
+ the
+ pre-processor
+ and
+
+
+the
+ model
+ and
+ once
+ that
+ is
+ done
+ I
+ will
+
+
+do
+ a
+ semantic
+ search
+ from
+ the
+ vector
+
+
+database
+ and
+ that
+ is
+ what
+ we
+ are
+ doing
+
+
+we
+ are
+ just
+ querying
+ uh
+ the
+ vector
+
+
+database
+ with
+ our
+ query
+ token
+ and
+ I'm
+
+
+saying
+ that
+ the
+ limit
+ is
+ five
+ what
+ this
+
+
+limit
+ five
+ means
+ that
+ means
+ I
+ need
+ the
+
+
+top
+ five
+ pages
+ which
+ is
+ relevant
+ to
+ this
+
+
+uh
+ question
+
+
+and
+ at
+ the
+ end
+ you
+ will
+ find
+ some
+ five
+
+
+pages
+ is
+ and
+ if
+ you
+ want
+ to
+ see
+ those
+
+
+five
+ pages
+ how
+ it
+ uh
+ you
+ know
+ how
+ it
+
+
+looks
+ like
+ uh
+ you
+ can
+ actually
+
+
+visualize.
+ So
+ this
+ is
+ just
+ a
+ wrapper
+
+
+python
+ function
+ which
+ will
+ just
+ take
+ all
+
+
+the
+ images
+ and
+ it
+ will
+ just
+ generate
+ u
+
+
+the
+ images
+ in
+ a
+ pictorial
+ format.
+ Okay.
+
+
+And
+ in
+ fact
+ if
+ you
+ see
+ uh
+ the
+ this
+ image
+
+
+I
+ think
+ this
+ was
+ uh
+ this
+ was
+ the
+ image
+ I
+
+
+guess
+ uh
+ yeah
+ so
+ this
+ is
+ where
+ the
+
+
+tropical
+ levels
+ are
+ mentioned
+ it
+
+
+actually
+ identified
+ based
+ on
+ the
+
+
+question
+ and
+ the
+ uh
+ call
+ embeddings
+
+
+right
+ so
+ this
+ is
+ the
+ page
+ and
+ also
+ there
+
+
+are
+ other
+ pages
+ which
+ we
+ got
+ now
+ comes
+
+
+so
+ retrieval
+ is
+ done
+ right
+ so
+ call
+ pal
+
+
+just
+ talks
+ about
+ retrieval
+ it's
+ its
+ job
+
+
+ends
+ here.
+ Okay.
+ And
+ uh
+ if
+ you
+ if
+ you
+
+
+think
+ about
+ it
+
+
+uh
+ with
+ respect
+ to
+ uh
+ sorry
+ with
+ respect
+
+
+to
+ this
+
+
+sorry
+ here
+ I
+ guess
+
+
+in
+ the
+ traditional
+ technique
+
+
+we
+ came
+ to
+ this
+ point
+ right
+
+
+uh
+ we
+ came
+ to
+ this
+ point
+ sorry
+
+
+we
+ came
+ to
+ this
+ point
+ when
+ we
+ got
+ the
+
+
+retrieved
+ images
+ and
+ the
+ question
+ is
+
+
+already
+ there.
+ Now
+ we
+ can
+ use
+ any
+
+
+multimodal
+ LLM
+ to
+ generate
+ the
+ answer.
+
+
+Right?
+ But
+ we
+ have
+ skipped
+ everything
+
+
+here.
+ Right?
+ So
+
+
+now
+ when
+ we
+ when
+ we
+ use
+ any
+ generative
+
+
+model
+ you
+ can
+ use
+ any
+ generative
+ model
+
+
+of
+ your
+ choice.
+ Uh
+ if
+ you
+ don't
+ have
+ any
+
+
+AWS
+ account
+ or
+ if
+ you
+ have
+ any
+ other
+ uh
+
+
+model
+ access
+ you
+ can
+ always
+ use
+ that.
+ uh
+
+
+but
+ let's
+ say
+ uh
+ you
+ don't
+ have
+ bedrock
+
+
+access
+ so
+ we
+ can
+ use
+ have
+ you
+ used
+ just
+
+
+a
+ local
+ model
+ the
+ response
+ may
+ not
+ be
+
+
+that
+ great
+ but
+ you
+ can
+ work
+ it
+ out
+ right
+
+
+so
+ this
+ is
+ again
+ a
+ wrapper
+ function
+ just
+
+
+to
+ uh
+ convert
+ all
+ the
+ images
+ uh
+ into
+ the
+
+
+format
+ that
+ the
+ model
+ expects
+ because
+ we
+
+
+are
+ we
+ need
+ a
+ multimodal
+ LLM
+ right
+ so
+ we
+
+
+will
+ take
+ some
+ multimodal
+ LLM
+ from
+ Olama
+
+
+but
+ depending
+ on
+ what
+ model
+ you're
+
+
+using.
+ The
+ model
+ will
+ ask
+ you
+ to
+ have
+
+
+the
+ input
+ in
+ a
+ certain
+ uh
+ format,
+ right?
+
+
+So
+ it
+ needs
+ the
+ data
+ to
+ be
+ in
+ base
+ 64.
+
+
+That's
+ what
+ this
+ small
+ tiny
+ function
+
+
+does,
+ right?
+ Uh
+ and
+ then
+ we
+ just
+ say
+
+
+generate
+ and
+ this
+ is
+ the
+ model
+ that
+ I'm
+
+
+using
+ and
+ I'm
+ sending
+ the
+ query
+ and
+ the
+
+
+image
+ that's
+ all
+ right.
+ So
+ see
+ this
+ now
+
+
+I'm
+ sending
+ the
+ full
+ query,
+ not
+ the
+
+
+embedding
+ of
+ the
+ query
+ because
+ Olama
+ has
+
+
+nothing
+ to
+ do
+ with
+ that
+ embedding
+ of
+ the
+
+
+query.
+ that
+ embedding
+ was
+ needed
+ just
+
+
+for
+ semantic
+ search
+ right
+ and
+ then
+ uh
+ we
+
+
+get
+ some
+ response
+ if
+ you
+ want
+ to
+ use
+
+
+bedrock
+ then
+ you
+ should
+ have
+ bedrock
+
+
+access
+ how
+ many
+ of
+ you
+ know
+ about
+
+
+bedrock
+
+
+okay
+ perfect
+ so
+ it's
+ just
+ a
+ managed
+
+
+service
+ on
+ AWS
+ through
+ which
+ you
+ can
+
+
+access
+ any
+ different
+ I
+ mean
+ different
+
+
+kinds
+ of
+ model
+ and
+
+
+the
+ way
+ that
+ bedrock
+ expects
+ you
+ to
+ give
+
+
+the
+ input
+ uh
+ multimodel
+ input
+ is
+ little
+
+
+different
+ and
+ that's
+ That's
+ why
+ we
+ have
+
+
+some
+ wrapper
+ functions
+ uh
+ which
+ will
+
+
+which
+ will
+ make
+ your
+ prompt
+ you
+ know
+
+
+according
+ to
+ the
+ multimodal
+ uh
+ models
+
+
+requirement
+ right
+ and
+ you
+ can
+ go
+ through
+
+
+these
+ two
+ functions
+ it's
+ standard
+ uh
+ you
+
+
+know
+ uh
+ converse
+ API
+ that
+ we
+ have
+ used
+
+
+so
+ nothing
+ fancy
+ here
+ so
+ I
+ don't
+ want
+ to
+
+
+go
+ there
+ because
+ that
+ is
+ not
+ the
+ purpose
+
+
+of
+ this
+ uh
+ problem
+ but
+ ultimately
+ you
+
+
+give
+ the
+ images
+ and
+ the
+ query
+ and
+ you
+
+
+mention
+ the
+ model
+ ID
+ so
+ in
+ this
+ case
+ I'm
+
+
+using
+ set
+ uh
+ claude
+ sonnet
+ 3.7.
+ You
+ can
+
+
+very
+ well
+ use
+ sonet
+ 4
+ if
+ you
+ would
+ like
+
+
+to.
+ And
+ you
+ generate
+ the
+ image
+ uh
+ sorry
+
+
+the
+ final
+ response.
+ Okay
+ with
+ me
+ so
+ far?
+
+
+Okay.
+ Now
+ comes
+ the
+ agent
+ thing.
+ How
+ we
+
+
+can
+ make
+ this
+ agentic?
+ So
+ it's
+ very
+
+
+simple,
+ right?
+ You
+ don't
+ have
+ to
+ go
+
+
+through
+ all
+ these
+ things
+ because
+ what
+ we
+
+
+have
+ done
+ is
+ ultimately
+ what
+ we
+ want
+
+
+when
+ somebody
+ is
+ asking
+ a
+ question
+ we
+
+
+want
+ an
+ agent
+ to
+ to
+ retrieve
+ the
+
+
+shortlisted
+ images
+ and
+ give
+ it
+ to
+ me.
+
+
+That's
+ all.
+ Right?
+ So
+ we
+ have
+ seen
+ how
+
+
+to
+ shortlist
+ those
+ images.
+ Right?
+ What
+
+
+we
+ are
+ going
+ to
+ do
+ is
+
+
+uh
+ here
+
+
+I'll
+ just
+ go
+ through
+ that
+ later.
+ Yeah,
+
+
+what
+ we
+ going
+ to
+ do
+ is
+ we
+ are
+ going
+ to
+
+
+create
+ a
+ function
+ called
+ retrieve
+ from
+
+
+quadrant
+ which
+ will
+ just
+ take
+ your
+ query
+
+
+and
+ if
+ you
+ see
+ the
+ uh
+ uh
+ return
+ for
+ this
+
+
+are
+ the
+ matched
+ image
+ paths
+ that
+ is
+ what
+
+
+we
+ want
+ nothing
+ else
+ right
+ and
+ the
+ code
+
+
+here
+ in
+ this
+ function
+ are
+ the
+ exact
+ same
+
+
+code
+ which
+ has
+ gone
+ through
+ in
+ multiple
+
+
+cells
+ you
+ know
+ previously
+ it
+ just
+ it
+
+
+does
+ the
+ same
+ thing
+ and
+ now
+ to
+ make
+ it
+
+
+agentic
+
+
+I
+ have
+ used
+ a
+ framework
+ called
+ strands.
+
+
+Have
+ you
+ heard
+ of
+ strands?
+ Right.
+ Okay.
+
+
+So
+ strands
+ is
+ a
+ new
+ agentic
+ framework.
+
+
+Let
+ me
+ just
+ show
+ you
+ this.
+ It's
+
+
+strandsagent.com.
+
+
+This
+ is
+ a
+ uh
+ SDK
+ which
+ was
+ launched
+ by
+
+
+AWS.
+ Uh
+ I
+ worked
+ with
+ on
+ at
+ the
+ launch.
+
+
+There
+ are
+ some
+ YouTube
+ video
+ as
+ well.
+ Uh
+
+
+you
+ can
+ just
+ go
+ over
+ and
+ just
+ search
+ for
+
+
+strands
+ agents.
+ You
+ will
+ find
+ a
+ launch
+
+
+blog
+ as
+ well.
+ Okay.
+ But
+ basically
+ it
+ is
+
+
+very
+ very
+ simple
+ just
+ to
+ give
+ you
+ an
+
+
+example
+ how
+ to
+ get
+ started
+ with
+ strands.
+
+
+Uh
+ you
+ just
+ pip
+ install
+
+
+and
+ uh
+ do
+ you
+ want
+ to
+ see
+ a
+ quick
+ demo
+
+
+of
+ strands
+ before
+ we
+ go
+ to
+ that
+ part?
+
+
+Will
+ that
+ help?
+ Yes.
+ Okay.
+ So
+ let
+ me
+
+
+just
+ show
+ you.
+ I
+ think
+ I
+ have
+ that.
+
+
+Okay.
+ So
+ let
+ me
+ quickly
+ spend
+ four
+
+
+minutes
+ on
+ that.
+ Four
+ five
+ minutes.
+ I
+
+
+have
+ a
+ good
+ demo
+ actually
+ if
+ you
+ want.
+
+
+How
+ many
+ of
+ you
+ have
+ heard
+ of
+ um
+ three
+
+
+blue
+ one
+ brown?
+
+
+Okay,
+ perfect.
+ Okay,
+ so
+ then
+ let
+ me
+ show
+
+
+you
+ that
+ you
+ might
+ you
+ might
+ uh
+ it
+ might
+
+
+be
+ interesting.
+ So
+ strands
+ is
+ an
+ uh
+
+
+framework
+ very
+ simple.
+ It's
+ a
+ model
+
+
+first
+ framework.
+ So
+ we
+ are
+ just
+ taking
+ a
+
+
+pause
+ on
+ that.
+ Okay,
+ we
+ are
+ just
+ we
+ will
+
+
+whatever
+ we
+ learn
+ here
+ we
+ will
+ just
+ use
+
+
+this
+ framework
+ to
+ make
+ our
+ workflow
+
+
+whatever
+ we
+ have
+ done
+ agenting
+ and
+ we
+
+
+will
+ add
+ a
+ voice
+ part
+ of
+ that
+ as
+ well.
+
+
+So
+ here
+
+
+there's
+ an
+ open
+ source
+ framework
+ which
+
+
+is
+ model
+ first.
+ That
+ means
+ uh
+ now
+ the
+
+
+models
+ are
+ so
+ strong
+ we
+ expect
+ that
+ the
+
+
+model
+ should
+ reason
+ rather
+ than
+ we
+
+
+telling
+ uh
+ the
+ agent
+ with
+ a
+ lot
+ of
+
+
+backstory
+ goals
+ prompting
+ and
+ all
+ that.
+
+
+We
+ don't
+ want
+ all
+ of
+ that.
+ We
+ throw
+ a
+
+
+question.
+ We
+ expect
+ the
+ model
+ to
+
+
+generate
+ the
+ response
+ and
+ do
+ the
+
+
+reasoning
+ uh
+ on
+ on
+ the
+ model
+ side.
+
+
+That's
+ that's
+ why
+ this
+ is
+ very
+ very
+
+
+lightweight
+ and
+ it
+ has
+ the
+ integration
+
+
+with
+ different
+ models
+ and
+ you
+ can
+ use
+
+
+model
+ from
+ bedrock
+ you
+ can
+ use
+ directly
+
+
+from
+ entropic
+ you
+ can
+ use
+ light
+ LLM.
+
+
+Have
+ you
+ heard
+ of
+ light
+ LLM?
+ Yeah.
+ So
+
+
+when
+ you
+ have
+ an
+ access
+ to
+ light
+ LLM
+ you
+
+
+can
+ access
+ any
+ model
+ that
+ light
+ LLM
+
+
+supports.
+ Right
+ now
+ this
+ is
+ what
+ it
+ is.
+
+
+So
+ strands
+ you
+ by
+ the
+ definition
+ of
+
+
+strands
+ it's
+ a
+ DNA
+ structure
+ and
+ it
+ just
+
+
+have
+ two
+ strands
+ and
+ that
+ two
+ strands
+
+
+stands
+ for
+ model
+ and
+ tool
+ that's
+ all.
+ So
+
+
+you
+ make
+ an
+ agent
+ with
+ one
+ model
+ and
+ few
+
+
+tools
+ and
+ simply
+ you
+ just
+ ask
+ the
+
+
+question
+ that's
+ all.
+ It's
+ as
+ simple
+ as
+
+
+that
+ right
+ and
+ let
+ me
+ show
+ you
+ uh
+ one
+
+
+quick
+ demo.
+
+
+Let's
+ see
+ if
+ it
+ uh
+ if
+ it
+ works.
+ Okay.
+
+
+So
+ this
+ is
+ is
+ it
+ visible
+ from
+ you
+ know
+
+
+last
+ row?
+ No,
+ not
+ that
+ much.
+ Right.
+
+
+Okay.
+ I'll
+ just
+ read
+ it
+ out.
+ So
+ we
+ are
+
+
+just
+ importing
+ um
+ agent
+ and
+ we
+ are
+
+
+importing
+ the
+ tools.
+ Okay.
+ And
+
+
+okay,
+ this
+ is
+ I
+ think
+ this
+ is
+ the
+ MCP
+
+
+one.
+ No,
+ no,
+ this
+ is
+ not
+ the
+ one
+ I
+ want
+
+
+to
+ show
+ you.
+
+
+Okay,
+ let
+ let's
+ uh
+ see
+ this.
+
+
+Okay,
+ just
+ uh
+ uh
+ I
+ think
+ it's
+ a
+ video.
+
+
+It
+ should
+ work
+ fine.
+
+
+Yeah,
+
+
+let's
+ see.
+ So,
+ we
+ first
+ install
+ strands
+
+
+agent
+ and
+ strands
+ tool.
+ PIP
+ install
+
+
+simple
+ pip
+ install
+
+
+and
+ it's
+ open
+ source.
+ Okay,
+ so
+ you
+ don't
+
+
+have
+ to
+ uh
+ and
+ it
+ supports
+ Olama
+ as
+
+
+well.
+ So,
+ you
+ don't
+ have
+ to
+ have
+ an
+ AWS
+
+
+account
+ or
+ anything
+ of
+ that
+ sort.
+
+
+So
+ what
+ we
+ are
+ going
+ to
+ do
+ is
+ we
+ are
+
+
+going
+ to
+ create
+ a
+ file
+ create
+ a
+ summary
+
+
+write
+ the
+ summary
+ into
+ the
+ into
+ our
+ file
+
+
+and
+ uh
+ also
+ add
+ a
+ voice
+ part
+ of
+ it.
+
+
+Let's
+ see
+ I
+ think
+ it
+ would
+ be
+ pretty
+
+
+quick.
+
+
+So
+ we
+ are
+ importing
+ is
+ it
+ visible
+ or
+ I
+
+
+should
+ should
+ I
+ show
+ it?
+ It's
+ pretty
+
+
+straightforward.
+
+
+So
+ we
+ are
+ importing
+ agent
+ and
+ we
+ are
+
+
+importing
+ the
+ bedrock
+ model.
+ By
+ default
+
+
+it
+ uses
+ bedrock
+ model.
+ Uh
+ it
+ actually
+
+
+uses
+ clot
+ 3.7
+ but
+ you
+ can
+ use
+ any
+ other
+
+
+model.
+ And
+ I
+ have
+ used
+ some
+ built-in
+
+
+tool
+ called
+ read
+ file,
+ write
+ file
+ and
+
+
+speak.
+ And
+ this
+ is
+ the
+ model
+ ID.
+ And
+
+
+this
+ is
+ the
+ prompt.
+ You
+ can
+ have
+ a
+
+
+prompt,
+ you
+ can
+ skip
+ a
+ prompt,
+ doesn't
+
+
+matter.
+
+
+And
+ lastly
+ you
+ have
+ to
+ create
+ the
+ agent.
+
+
+So
+
+
+say
+ this
+ agent
+ contains
+ the
+ model
+ ID
+
+
+system
+ prompt
+ and
+ the
+ tools
+ and
+ all
+
+
+these
+ tools
+ you
+ have
+ not
+ written
+ the
+
+
+code
+ for
+ this.
+ This
+ is
+ by
+ default
+ right
+
+
+and
+ I'm
+ just
+ asking
+ uh
+ a
+ particular
+
+
+question
+ and
+ see
+ this
+ I'm
+ in
+ the
+ prompt
+
+
+I'm
+ saying
+ that
+ this
+ is
+ a
+ textbook
+ uh
+ in
+
+
+my
+ local
+ directory
+ read
+ that
+ create
+ a
+
+
+summary
+ and
+ write
+ it
+ into
+ the
+ local
+
+
+directory
+ and
+ also
+ speak
+ out
+ the
+ final
+
+
+answer
+
+
+and
+ see
+ this
+ it
+ is
+ using
+ the
+ tools
+ for
+
+
+read
+ the
+ file
+ second
+ it
+ is
+ create
+ after
+
+
+>> functions
+ like
+ a
+ camera
+ light
+ entering
+
+
+through
+ the
+ cornea
+ and
+ focus
+ by
+ a
+ lens
+
+
+onto
+ the
+
+
+>> we
+ have
+ not
+ done
+ anything
+ just
+ in
+
+
+controls
+ pupil
+ size
+ to
+ regulate
+ incoming
+
+
+light
+
+
+>> the
+ I
+ can
+ adjust
+ focal
+ length
+ through
+
+
+accommodation
+ see
+
+
+>> all
+ right
+ so
+ now
+ I
+ I
+ will
+ share
+ one
+ more
+
+
+thing
+ now
+ I'll
+ not
+ show
+ you
+ the
+ code
+
+
+that
+ is
+ not
+ the
+ purpose
+ of
+ this
+ but
+ have
+
+
+you
+ heard
+ of
+ um
+ of
+ course
+ you
+ have
+ heard
+
+
+of
+ MCP
+
+
+yeah
+ so
+ see
+ this
+ I
+ I'll
+ not
+ tell
+ you
+ I
+
+
+think
+ you
+ should
+ be
+ able
+ So
+
+
+I've
+ created
+ an
+ MCP
+ server
+ called
+ um
+
+
+created
+ an
+ MCP
+ server
+ with
+ manm
+ okay
+ so
+
+
+manim
+ have
+ you
+ heard
+ of
+ manm
+ okay
+ just
+
+
+just
+ see
+ that
+ so
+ idea
+ is
+ so
+ let
+ me
+ just
+
+
+show
+ you
+ what
+ we
+ are
+ doing
+ we
+ are
+
+
+creating
+ a
+ man
+ server
+ and
+ this
+ is
+ the
+
+
+MCP
+ server
+ now
+ this
+ is
+ the
+ client
+ on
+
+
+nothing
+ but
+ uh
+ our
+ strand
+ agent
+ and
+ this
+
+
+will
+ call
+ this
+ MCP
+ server.
+ Okay.
+ And
+ I
+
+
+can
+ give
+ any
+ question.
+ So
+ question
+ is
+
+
+create
+ a
+ man
+ screen
+ which
+ draws
+ a
+ cubic
+
+
+function
+ like
+ 2x^
+ 3
+ minus
+ blah
+ blah
+
+
+blah.
+ Okay.
+ And
+ see
+ what
+ happens.
+
+
+Now
+ it
+ is
+ executing
+ the
+ code
+ calling
+
+
+this
+ uh
+ MCP
+ server.
+ It
+ is
+ working
+ uh
+
+
+here
+ and
+ then
+ it
+ should
+ give
+ you
+ some
+
+
+response.
+
+
+So
+ it
+ generated
+ this
+ video.
+ Okay.
+
+
+And
+ now
+ you
+ will
+ get
+ some
+ familiarity.
+
+
+Looks
+ similar,
+ right?
+
+
+I
+ have
+ not
+ done
+ anything.
+ All
+ I
+ have
+
+
+used
+ is
+ a
+ manage
+ uh
+ uh
+ SDK
+ and
+ created
+
+
+that
+ uh
+ MCP
+ server
+ which
+ can
+ generate
+
+
+videos
+ like
+ uh
+ what
+ three
+ blue
+ one
+ brown
+
+
+created.
+ So
+ this
+ is
+ just
+ a
+ small
+ demo
+ of
+
+
+how
+ you
+ can
+ make
+ use
+ of
+ strands
+ with
+ an
+
+
+MCP
+ and
+ write
+ simple
+ code
+ and
+ you
+ know
+
+
+do
+ wonderful
+ things.
+ Okay.
+ All right.
+ So
+
+
+this
+ is
+ about
+ strand.
+
+
+The
+ core
+ idea
+ of
+ strand
+ is
+ uh
+ just
+ pip
+
+
+install
+ and
+ use
+ it
+ with
+ the
+ by
+ default
+
+
+tools
+ and
+ uh
+ your
+ model
+ of
+ your
+ choice.
+
+
+That's
+ all.
+ There's
+ nothing
+ uh
+ no
+
+
+scaffolding
+ uh
+ beyond
+ this.
+ Okay.
+ So
+
+
+it's
+ just
+ like
+ this
+ you
+ pip
+ install
+
+
+create
+ an
+ instance
+ and
+ just
+ ask
+
+
+question.
+ Here
+ we
+ have
+ not
+ mentioned
+ any
+
+
+model
+ that
+ means
+ it
+ will
+ by
+ default
+ use
+
+
+bedrock
+ model
+ but
+ in
+ the
+ demo
+ we
+ have
+
+
+seen
+ that
+ you
+ can
+ define
+ your
+ bedrock
+
+
+models
+ here.
+ Okay.
+ So
+ now
+ let's
+ come
+
+
+back
+ to
+ our
+ our
+ um
+
+
+our
+ problem.
+ In
+ this
+ case
+ our
+ tool
+ is
+
+
+not
+ the
+ default
+ one
+ but
+ the
+ tool
+ that
+ we
+
+
+have
+ defined.
+ And
+ what
+ is
+ that
+ tool?
+ The
+
+
+retrieval
+ tool.
+ And
+ how
+ I
+ can
+ create
+ a
+
+
+uh
+ custom
+ tool
+ it
+ just
+ by
+ importing
+ tool
+
+
+and
+ just
+ use
+ that
+ as
+ a
+ decorator
+ on
+ top
+
+
+of
+ your
+ function.
+ That's
+ all.
+ Now
+ this
+
+
+becomes
+ a
+ tool
+ for
+ me
+ just
+ like
+ read
+
+
+file
+ write
+ file
+ speak.
+ This
+ is
+ just
+ a
+
+
+tool
+ for
+ me.
+ Okay.
+ And
+ we
+ can
+ defi
+ we
+
+
+can
+ use
+ make
+ use
+ of
+ bedrock
+ model
+ or
+ up
+
+
+to
+ you.
+ And
+ now
+ look
+ at
+ this.
+ We
+ are
+
+
+also
+ importing
+ an
+ image
+ reader.
+ Why
+ we
+
+
+are
+ importing
+ this
+ image
+ reader?
+ I
+ will
+
+
+uh
+ tell
+ you
+ a
+ little
+ later.
+ But
+ uh
+ you
+
+
+you
+ remember
+ that
+ when
+ we
+ use
+ this
+
+
+bedrock
+ model
+ for
+ final
+ answer
+ when
+ we
+
+
+use
+ this
+ bedrock
+ model
+ to
+ generate
+ the
+
+
+final
+ answer
+ we
+ created
+ some
+ custom
+
+
+functions
+ which
+ are
+ nothing
+ but
+ uh
+
+
+contains
+ the
+ information
+ about
+ how
+ to
+ uh
+
+
+create
+ the
+ prompt
+ for
+ your
+ images
+ for
+
+
+bedrock
+ models
+ right
+ so
+ I
+ don't
+ have
+ to
+
+
+do
+ all
+ these
+ things
+ and
+ uh
+ I
+ can
+ simply
+
+
+make
+ use
+ of
+ this
+ image
+ reader
+ which
+ just
+
+
+takes
+ an
+ image
+ and
+ generates
+ uh
+ the
+
+
+prompt
+ for
+ us.
+ And
+ now
+ I
+ have
+ a
+ system
+
+
+prompt.
+ System
+ prompt
+ says
+ that
+ you
+ are
+
+
+a
+ rag
+ based
+ system
+ and
+ all
+ that.
+ And
+ it
+
+
+also
+ says
+ uh
+ these
+ are
+ the
+ two
+ functions
+
+
+that
+ you
+ have
+ or
+ the
+ tools
+ that
+ you
+ have
+
+
+to
+ use
+ and
+ all
+ that.
+ And
+ that's
+ all.
+
+
+And
+ now
+ you
+ create
+ an
+ agent
+ again
+ just
+
+
+like
+ before
+ you
+ define
+ the
+ model
+ system
+
+
+prompt.
+ And
+ in
+ this
+ case
+ we
+ use
+ two
+
+
+tools.
+ One
+ is
+ the
+ retrieve
+ from
+ quadrant
+
+
+which
+ is
+ our
+ tool
+ and
+ the
+ image
+ reader
+
+
+for
+ the
+ generation
+ part.
+ Okay.
+
+
+And
+ then
+ we
+ ask
+ this
+ question
+ what
+ is
+
+
+the
+ difference
+ uh
+ different
+ tropical
+
+
+levels
+ and
+ now
+ it
+ just
+ agents
+ uh
+
+
+generates
+ the
+ response
+ just
+ like
+ before
+
+
+but
+ now
+ everything
+ is
+ done
+ by
+ the
+ agent.
+
+
+And
+ the
+ beauty
+ is
+ let's
+ say
+ now
+ you
+ want
+
+
+to
+ add
+ the
+ voice
+ feature.
+ I
+ don't
+ only
+
+
+want
+ the
+ answer
+ but
+ also
+ the
+ final
+
+
+response
+ in
+ the
+ form
+ of
+ voice.
+ So
+ far
+ I
+
+
+have
+ done
+ this.
+ I'm
+ just
+ reducing
+ the
+
+
+image
+ so
+ that
+ everything
+ fits
+ in.
+ So
+ far
+
+
+we
+ have
+ done
+ this.
+ We
+ ask
+ a
+ question.
+ It
+
+
+goes
+ to
+ a
+ strands
+ agent.
+ It
+ uses
+ this
+
+
+retrieval
+ tool
+ custom
+ tool
+ that
+ we
+ have
+
+
+created.
+ It
+ gets
+ the
+ relevant
+ chunk
+
+
+which
+ are
+ nothing
+ but
+ the
+ shortlisted
+
+
+pages
+ and
+ then
+
+
+it
+ uses
+ any
+ of
+ these
+ models
+ let's
+ say
+
+
+bedrock
+ colama
+ whatever
+ to
+ generate
+ the
+
+
+final
+ response
+ and
+ to
+ generate
+ this
+ it
+
+
+uses
+ this
+ image
+ reader
+ tool.
+ Now
+ what
+ we
+
+
+have
+ to
+ do
+ is
+ to
+ add
+ voice
+
+
+functionality.
+ I
+ will
+ just
+ use
+ the
+ speak
+
+
+uh
+ tool.
+ That's
+ all.
+ Just
+ one
+ uh
+ import.
+
+
+Okay.
+
+
+And
+
+
+that
+ is
+ what
+ we
+ are
+ doing.
+ We
+ are
+ just
+
+
+adding
+ speak
+ here.
+
+
+And
+ again
+ the
+ system
+ prompt
+ remains
+ the
+
+
+same.
+ And
+ I'm
+ quering
+ the
+ same
+ thing.
+
+
+And
+ now
+ when
+ I
+ ask
+ this
+ question.
+ So
+
+
+let's
+ say
+ let's
+ ask
+ this
+ question.
+ Okay.
+
+
+So
+ let
+ me
+ run
+ this
+
+
+and
+ let
+ me
+ let
+ me
+ just
+ ask
+ in
+ the
+
+
+question
+ itself
+ explain
+ the
+ answer
+ over
+
+
+a
+ female
+ voice
+ in
+ a
+ natural
+ way.
+
+
+And
+ let's
+ see.
+
+
+And
+ now
+ let's
+ run
+ this.
+
+
+I
+ hope
+ I'm
+ connected
+ with
+ the
+ internet
+
+
+but
+ let's
+ see.
+
+
+So
+ when
+ you
+ run
+ this
+ uh
+ code
+ in
+ your
+
+
+environment
+ you
+ can
+ simply
+ remove
+ the
+
+
+system
+ prompt
+ you
+ will
+ still
+ get
+ the
+
+
+right
+ answer.
+ In
+ fact
+ try
+ this
+ prompt.
+ I
+
+
+have
+ not
+ tried
+ but
+ try
+ this
+ change
+ this
+
+
+prompt
+ and
+ say
+ that
+ mail
+ voice
+ or
+
+
+something
+ like
+ that
+ right
+ robotic
+ uh
+ uh
+
+
+way
+ of
+ uh
+ you
+ know
+ not
+ a
+ natural
+ way
+
+
+maybe
+ robotic
+ way
+ something
+ like
+ that.
+
+
+The
+ idea
+ is
+ see
+ that
+ whether
+ strands
+ is
+
+
+able
+ to
+
+
+you
+ know
+ forward
+ that
+ information
+ to
+ the
+
+
+model
+ or
+ not
+ right
+ so
+ you
+ don't
+ need
+ a
+
+
+system
+ prompt
+ uh
+ it
+ may
+ be
+ because
+ of
+ my
+
+
+internet
+ uh
+ but
+ it's
+ it
+ doesn't
+ take
+
+
+that
+ much
+ of
+ time
+ you
+ just
+ give
+ it
+ a
+
+
+shot
+ it
+ should
+ work
+ fine
+ okay
+ so
+ that's
+
+
+what
+ I
+ uh
+ I
+ had
+ uh
+ for
+ for
+ uh
+ this
+
+
+particular
+ uh
+ workshop
+
+
+uh
+ I
+ would
+ okay
+ it's
+ now
+ running
+ so
+ it's
+
+
+little
+ slow
+
+
+but
+ let
+ me
+
+
+so
+ it
+ is
+ now
+ able
+ to
+ generate
+ the
+ images
+
+
+I
+ mean
+ shortlisted
+ the
+ images
+ and
+ now
+ it
+
+
+should
+ speak
+ in
+ a
+ female
+ voice
+
+
+so
+ while
+ that
+ happens
+ Okay,
+
+
+>> trophic
+ levels
+ are
+ the
+ different
+ feeding
+
+
+positions
+ in
+ a
+ food
+ chain
+ representing
+
+
+the
+ flow
+ of
+ energy
+ through
+ an
+ ecosystem.
+
+
+There
+ are
+ typically
+ four.
+
+
+>> Okay.
+ So,
+ let
+ me
+ just
+ stop
+ this
+ and
+
+
+let's
+ say
+ if
+ I
+ let's
+ try
+ this.
+ Okay.
+ Um,
+
+
+let
+ me
+ delete
+ this
+ system
+ prompt
+
+
+and
+
+
+let
+ me
+ just
+ have
+ this
+ model
+ and
+ the
+
+
+tools.
+ There
+ is
+ no
+ speak,
+ nothing,
+ no
+
+
+system
+ prompt.
+ There's
+ nothing
+ there.
+
+
+And
+ here
+ I
+ will
+ change
+ this
+ to
+ a
+ male
+
+
+voice.
+ Okay.
+
+
+And
+ uh
+ I'll
+ give
+ it
+ a
+ shot.
+ Let
+ this
+ I
+
+
+don't
+ want
+ to
+ interrupt.
+
+
+>> Which
+ are
+ small
+ carnivores
+ that
+ eat
+
+
+herbivores.
+ These
+ might
+ include
+ frogs,
+
+
+small
+ birds
+ or
+ foxes.
+ The
+ fourth
+ trophic
+
+
+level
+ is
+ occupied
+ by
+ tertiary
+ consumers
+
+
+or
+ top
+ carnivores.
+
+
+>> You
+ can
+ in
+ fact
+ say
+ something
+ like
+
+
+summarize
+ in
+ uh
+ you
+ know
+ 50
+ words
+ or
+ 100
+
+
+words
+ rather
+ than
+ waiting
+ for
+ this
+ to
+
+
+complete.
+
+
+that
+ energy
+ transfer
+
+
+>> still
+ going
+ on
+
+
+just
+ give
+ it
+ a
+ second
+
+
+and
+
+
+before
+ I
+ forget
+
+
+if
+ you
+ want
+ to
+ know
+ about
+ that
+
+
+multimodal
+ that
+ the
+ traditional
+
+
+technique
+ in
+ this
+ GitHub
+ repo
+ there
+ is
+
+
+the
+ part
+ three
+ and
+ here
+ you
+ will
+ find
+
+
+the
+ details
+ of
+ uh
+ that
+ architecture
+ like
+
+
+um
+ uh
+ this
+ architecture
+ right
+ and
+ you
+
+
+know
+ this
+ notebook
+ is
+ about
+ how
+ you
+ can
+
+
+do
+ the
+ same
+ thing
+ but
+ uh
+ pre-processing
+
+
+this
+ image
+ text
+ and
+ table
+ okay
+ so
+ just
+
+
+play
+ around
+ this
+ GitHub
+ repo
+
+
+okay
+ it's
+ done
+ so
+ now
+ I
+ will
+ quickly
+
+
+uh
+
+
+I
+ just
+ created
+ this
+ agent
+ now
+ but
+ uh
+
+
+without
+ any
+ uh
+ system
+ prompt
+ Now
+ I
+ just
+
+
+executed
+ this
+ and
+ now
+ let's
+ run
+ this.
+ So
+
+
+now
+ I
+ am
+ letting
+ uh
+
+
+the
+ agent
+
+
+know
+ only
+ about
+ the
+ models
+ nothing
+ else.
+
+
+There
+ is
+ no
+ system
+ prompt.
+
+
+I
+ just
+ hope
+ we
+ get
+ a
+ male
+ voice
+ at
+
+
+least.
+
+
+>> Let
+ me
+ explain
+ trophic
+ levels,
+ which
+ are
+
+
+essentially
+ the
+ different
+ feeding
+
+
+positions
+ in
+ a
+ food
+ chain
+ or
+ ecosystem.
+
+
+Think
+ of
+ them
+ as
+ the
+ levels
+ in
+ nature's
+
+
+dining
+ hierarchy.
+ Starting
+ at
+ the
+ base,
+
+
+we
+ have
+ the
+ producers.
+ These
+ are
+ main
+
+
+>> Okay,
+ let's
+ see
+ if
+ I
+ have
+
+
+boys.
+
+
+Let's
+ try
+ this.
+
+
+Trophic
+ levels
+ are
+ essentially
+ the
+
+
+different
+ feeding
+ positions
+ in
+ a
+ food
+
+
+chain
+ showing
+ how
+ energy
+ flows
+ through
+
+
+an
+ ecosystem.
+ Let
+ me
+ walk
+ you
+ through
+
+
+the
+ main
+
+
+at
+ the
+ very
+ bottom
+ we
+ have
+ the
+
+
+producers.
+ You
+ can
+ try
+ this
+ out
+ and
+ see
+
+
+what
+ you
+ can
+ mention
+ so
+ that
+ you
+ can
+
+
+augment
+ the
+ tool.
+ In
+ fact,
+ this
+ is
+ not
+
+
+the
+ right
+ way
+ to
+ do
+ this
+ because
+ by
+
+
+default
+ it
+ is
+ a
+ female
+ voice.
+ You
+ can
+
+
+actually
+ change
+ the
+ behavior
+ of
+ this
+ uh
+
+
+speak
+ tool.
+ Okay.
+ So
+ the
+ way
+ that
+ you
+
+
+can
+ do
+ is
+ you
+ can
+ go
+ to
+ the
+
+
+documentation
+ and
+ uh
+ if
+ you
+ see
+ this
+
+
+documentation
+
+
+uh
+ here
+ we
+ have
+ tools
+ and
+ uh
+ you
+ can
+
+
+see
+ the
+ overview
+
+
+and
+ if
+ you
+ see
+ this
+ here
+
+
+there
+ is
+ a
+ tool
+ spec.
+ Yeah,
+ here's
+ a
+
+
+tool
+ spec
+ for
+ different
+ tools
+ and
+ you
+
+
+can
+ mention
+ what
+ persona
+ that
+ you
+ want.
+
+
+So
+ that
+ is
+ a
+ more
+ deterministic
+ way
+ uh
+
+
+to
+ do
+ that
+ or
+ else
+ you
+ can
+ put
+ that
+ in
+
+
+the
+ uh
+ system
+ prompt.
+ Okay.
+ So
+ that's
+
+
+all
+ I
+ have.
+ Uh
+ u
+ if
+ you
+ have
+ any
+
+
+questions
+ feel
+ free
+ to
+ ask
+ or
+ uh
+ you
+
+
+know
+ uh
+ you
+ know
+ feel
+ free
+ to
+ connect
+
+
+and
+ u
+ you
+ know
+ would
+ be
+ more
+ than
+ happy
+
+
+uh
+ to
+ connect
+ offline.
+
+
+>> Yeah.
+
+
+>> Yeah.
+
+
+>> So
+ have
+ you
+ seen
+ any
+
+
+is
+ already
+ using
+ this
+ in
+ production
+ and
+
+
+what
+ type
+ of
+ scaling
+ uh
+
+
+>> yeah
+ yeah
+
+
+>> yeah
+ that's
+ a
+ good
+ question
+ so
+ we
+ have
+
+
+used
+ this
+ in
+ one
+ of
+ the
+ insurance
+ a
+
+
+leading
+ insurance
+ company
+ where
+ they
+ had
+
+
+u
+ the
+ images
+ of
+ driver
+ u
+ licenses
+ and
+
+
+they
+ have
+ the
+ images
+ of
+ insurance
+
+
+policies
+ and
+ all
+ that
+ and
+ we
+ tried
+ with
+
+
+different
+ techniques
+ one
+ of
+ the
+
+
+technique
+ that
+ we
+ used
+ was
+ OCR
+ which
+
+
+worked
+ fine
+ uh
+ but
+ CalPali
+ was
+ working
+
+
+pretty
+
+
+And
+ it
+ was
+ the
+ only
+ drawback
+ which
+ I
+
+
+have
+ seen
+ with
+ this
+ call
+ pal
+ model
+ is
+ it
+
+
+is
+ very
+ heavy
+ but
+ uh
+ that
+ heaviness
+
+
+comes
+ only
+ at
+ the
+ time
+ of
+ data
+
+
+injection.
+ So
+ when
+ you
+ create
+ the
+
+
+embeddings
+ one
+ that
+ is
+ done
+ at
+ the
+ query
+
+
+time
+ it
+ is
+ pretty
+ fast.
+ Okay.
+ Uh
+ but
+
+
+when
+ you
+ are
+ putting
+ the
+ data
+ at
+ that
+
+
+time
+ it's
+ little
+ heavy.
+ Okay.
+ And
+ uh
+ uh
+
+
+I
+ guess
+ if
+ you
+ are
+ thinking
+ that
+ if
+ you
+
+
+have
+ 1,000
+ documents
+ each
+ has
+ 1,000
+
+
+pages,
+ you
+ will
+ do
+ a
+ search
+ among
+ all
+
+
+those
+ images.
+ That
+ is
+ not
+ how
+ it
+ works.
+
+
+Because
+ imagine
+ if
+ I
+ ask
+ you
+ the
+ same
+
+
+question.
+ Forget
+ about
+ all
+ this.
+ If
+ you
+
+
+use
+ a
+ text
+ based
+ embedding
+ model
+ and
+ if
+
+
+you
+ have
+ a
+ book
+ of
+
+
+1
+ million
+ pages,
+ you
+ have
+ 100
+ million
+
+
+vectors
+ and
+ when
+ you
+ ask
+ a
+ question,
+
+
+does
+ the
+ vector
+ database
+ search
+ for
+ all
+
+
+the
+ vectors?
+ No,
+ there
+ is
+ a
+ different
+
+
+indexing
+ techniques
+ that
+ all
+ the
+
+
+database
+ uses.
+ Same
+ indexing
+ technique
+
+
+are
+ used
+ here
+ as
+ well.
+ It's
+ just
+ that
+
+
+now
+ the
+ vectors
+ represent
+ different
+
+
+thing.
+ Now
+ the
+ vector
+ represent
+ patches.
+
+
+In
+ the
+ previous
+ case,
+ the
+ vector
+
+
+represents
+ images
+ or
+ sorry
+ uh
+ a
+ chunk
+ of
+
+
+text
+ but
+ uh
+ that
+ semantic
+ search
+ happens
+
+
+very
+ efficiently
+ uh
+ using
+ a
+ different
+
+
+indexing
+ technique.
+ One
+ of
+ the
+ technique
+
+
+that
+ we
+ use
+ is
+ I
+ think
+ hierarchical
+
+
+small
+ world
+ navigation
+ u
+ so
+ where
+ it
+
+
+uses
+ a
+ treebased
+ uh
+ you
+ know
+ structure
+
+
+uh
+ it
+ just
+ finds
+ uh
+ the
+ root
+ node
+ uh
+ I
+
+
+mean
+ it
+ it
+ starts
+ on
+ the
+ top
+ layer
+ it
+
+
+finds
+ one
+ of
+ the
+ closest
+ node
+ and
+
+
+whichever
+ node
+ is
+ closest
+ then
+ it
+ goes
+
+
+down
+ and
+ finds
+ its
+ neighbor
+ so
+ you
+ are
+
+
+just
+ you
+ can
+ think
+ of
+ it
+ like
+ uh
+ uh
+ you
+
+
+know
+ in
+ u
+ in
+ computer
+ science
+ we
+ have
+
+
+tree
+ pruning
+ right
+ so
+ that's
+ what
+ we
+ do
+
+
+so
+ it
+ reduces
+ the
+ search
+ space.
+ Yeah.
+
+
+>> So
+ a
+ quick
+ follow.
+
+
+>> Yeah.
+ So
+ can
+ we
+ see
+
+
+more
+ companies
+
+
+this
+ can
+ see
+ this
+ as
+ a
+ replacement
+ for
+
+
+>> no
+ traditional?
+
+
+>> Yeah,
+ that's
+ a
+ good
+ question.
+ No,
+ I
+
+
+don't
+ think
+ this
+ is
+ a
+ replacement.
+ This
+
+
+is
+ just
+ another
+ technique
+ and
+ this
+ is
+
+
+also
+ you
+ know
+
+
+you
+ know
+ it's
+ a
+ space
+ where
+ things
+ are
+
+
+changing
+ very
+ fast.
+ Right.
+ Um
+ I
+
+
+personally
+ feel
+ if
+ we
+ get
+ a
+ vision
+ based
+
+
+model
+ which
+ is
+ more
+ efficient
+ in
+ terms
+
+
+of
+ computation
+ this
+ might
+ be
+ a
+ good
+
+
+model.
+ Uh
+ but
+ again
+ this
+ may
+ work
+ for
+
+
+your
+ data
+ may
+ not
+ work
+ for
+ your
+ data.
+ So
+
+
+it's
+ all
+ about
+ your
+ data.
+ What
+ I
+ would
+
+
+do
+ and
+ what
+ I
+ do
+ generally
+ is
+ whenever
+ I
+
+
+get
+ some
+ problem
+ I
+ try
+ to
+ solve
+ with
+ the
+
+
+least
+ uh
+ I
+ mean
+ the
+ most
+ cost
+ effective
+
+
+way
+ or
+ most
+ efficient
+ way.
+ basically
+
+
+more
+ than
+ the
+ cost.
+ First
+ we
+ have
+ to
+
+
+find
+ out
+ which
+ architecture
+ works
+ fine
+
+
+for
+ my
+ data.
+ If
+ that
+ is
+ working
+ fine
+ I
+
+
+don't
+ why
+ to
+ complicate
+ things
+ and
+
+
+create
+ images
+ and
+ all
+ that.
+ I
+ will
+ go
+ to
+
+
+this
+ only
+ when
+ my
+ data
+ set
+ is
+ very
+ much
+
+
+converted
+ and
+ where
+ you
+ as
+ an
+ human
+ you
+
+
+feel
+ that
+ I
+ can
+ read
+ this
+ data
+ only
+ if
+ I
+
+
+look
+ at
+ it.
+ Imagine
+ that
+ you
+ have
+ a
+ PDF
+
+
+file.
+ For
+ that
+ simple
+ text
+ file
+ for
+ that
+
+
+you
+ can
+ get
+ the
+ answer
+ from
+ that
+ PDF
+
+
+file
+ even
+ if
+ somebody
+ converts
+ that
+ into
+
+
+a
+ text
+ file
+ and
+ give
+ it
+ to
+ you.
+ But
+
+
+let's
+ say
+ you
+ have
+ a
+ PDF
+ file
+ which
+
+
+contains
+ mostly
+ images
+ and
+ embedded
+ text
+
+
+on
+ top
+ of
+ that
+ then
+ you
+ will
+ say
+ that
+
+
+okay
+ okay
+ don't
+ give
+ only
+ text
+ you
+ give
+
+
+me
+ the
+ book
+ I
+ will
+ figure
+ out
+ because
+ I
+
+
+need
+ to
+ see
+ what
+ is
+ the
+ context
+ of
+ that.
+
+
+So
+ it's
+ just
+ like
+ it
+ replicates
+ humans
+ u
+
+
+uh
+ you
+ know
+ uh
+ behavior
+ to
+ understand
+
+
+any
+ data.
+ U
+ so
+ I
+ would
+ recommend
+ not
+ to
+
+
+start
+ with
+ this
+ start
+ with
+ the
+
+
+traditional
+ technique
+ because
+ that
+ is
+
+
+more
+ effective
+ um
+ cost
+ effective
+ and
+
+
+also
+ it
+ it
+ is
+ less
+ heavy
+ because
+ here
+ we
+
+
+are
+ storing
+ a
+ lot
+ of
+ vectors
+ for
+ each
+
+
+page
+ right
+ so
+ but
+ use
+ this
+ when
+ you
+ have
+
+
+a
+ very
+ convoluted
+ data
+ okay
+ yes
+ sir
+
+
+>> so
+ I'm
+ trying
+ to
+ get
+ a
+ sense
+ when
+ it's
+
+
+good
+ when
+ it's
+ not
+
+
+im
+ into
+ these
+ little
+ squares.
+ Is
+ there
+
+
+an
+ issue
+ where
+
+
+you
+ know
+ let's
+ say
+ you're
+ in
+ the
+ middle
+
+
+of
+ paragraph
+
+
+two
+ different
+ segments
+ does
+ that
+ cause
+
+
+problems
+ in
+ practice?
+
+
+>> Yeah,
+ that's
+ a
+ good
+ question.
+ But
+ here
+
+
+the
+ model
+ doesn't
+ know
+ that
+ that
+ there
+
+
+is
+ any
+ chunking
+ or
+ anything
+ that
+ we
+ are
+
+
+understanding
+ it
+ that
+ way.
+ But
+ to
+ the
+
+
+model
+ it's
+ just
+ an
+ image
+ and
+ the
+ way
+
+
+that
+ it
+ creates
+ the
+ embeddings
+ for
+ that
+
+
+image
+ is
+ by
+ uh
+ doing
+ that
+ those
+ patches
+
+
+and
+ why
+ the
+ model
+ knows
+ this
+ because
+ the
+
+
+when
+ the
+ model
+ was
+ trained
+ it's
+ a
+ vision
+
+
+based
+ model.
+ So
+ when
+ the
+ model
+ was
+
+
+trained
+ it
+ used
+ to
+ chunk
+ all
+ the
+
+
+training
+ data
+ set
+ like
+ that
+ and
+ that's
+
+
+how
+ the
+ you
+ know
+ it
+ has
+ optimized
+ for
+
+
+that
+ data.
+ For
+ example
+ during
+ the
+
+
+training
+ time
+ of
+ call
+ pali
+ not
+ at
+ the
+
+
+inference
+ time
+ during
+ the
+ training
+ time
+
+
+when
+ it
+ was
+ given
+ an
+ image
+ of
+ a
+ cat
+ and
+
+
+the
+ text
+ about
+ a
+ cat
+ the
+ cat
+ image
+ was
+
+
+also
+ chopped
+ into
+ those
+ many
+ p
+ uh
+
+
+patches.
+ Similarly,
+ when
+ there
+ was
+ an
+
+
+image
+ of
+ a
+ of
+ a
+ PDF
+ page,
+ it
+ was
+ chopped
+
+
+with
+ the
+ same
+ uh
+ patches.
+ So
+ that
+ was
+
+
+inherited
+ during
+ the
+ training
+ process
+
+
+itself.
+ So
+ we
+ don't
+ have
+ to
+ question
+
+
+that
+ okay
+ model
+ how
+ you
+ are
+ doing
+ this.
+
+
+You
+ the
+ model
+ will
+ say
+ that
+ I
+ have
+ been
+
+
+doing
+ this
+ don't
+ give
+ me
+ advice.
+ I
+ have
+
+
+been
+ doing
+ this
+ with
+ you
+ know
+ the
+
+
+plethora
+ of
+ data.
+ So
+ if
+ you
+ if
+ you
+ just
+
+
+look
+ at
+ it
+ blindly
+ from
+ outside,
+ I
+ also
+
+
+had
+ the
+ same
+ thought
+ how
+ the
+ model
+ is
+
+
+going
+ to
+ create
+ an
+ embedding
+ when
+ it
+
+
+splits
+ a
+ table
+ into
+ multiple
+ chunks.
+
+
+What
+ is
+ the
+ relationship
+ between
+ one
+
+
+chunk
+ and
+ the
+ other
+ chunk?
+ How
+ the
+ model
+
+
+is
+ you
+ know
+ doing
+ that?
+ Later
+ on
+ we
+
+
+realized
+ that
+ this
+ has
+ been
+ incorporated
+
+
+during
+ the
+ training
+ process
+ itself.
+
+
+Initially
+ it
+ was
+ not
+ able
+ to
+ do
+ that
+
+
+right
+ but
+ when
+ during
+ the
+ training
+
+
+process
+ the
+ loss
+ must
+ have
+ been
+ very
+
+
+high.
+
+
+Right?
+ So,
+ and
+ that's
+ how
+ it
+ has
+ been
+
+
+optimized.
+ So,
+ one
+ that
+ is
+ optimized,
+
+
+you
+ don't
+ have
+ to
+ worry
+ about
+ that.
+ And
+
+
+this
+ is
+ basically
+ if
+ you
+ think
+ about
+
+
+this
+ this
+ patching
+ and
+ embedding,
+ it's
+
+
+it's
+ not
+ a
+ new
+ technique.
+
+
+Uh
+ you
+ know,
+ it
+ was
+ there
+ in
+ lot
+ of
+
+
+vision
+ based
+ model.
+ Now,
+ we
+ are
+ using
+ it
+
+
+for
+ retrieval.
+
+
+So,
+ that's
+ that's
+ how
+ it
+ works.
+
+
+In
+ fact,
+ if
+ you
+ are
+ curious,
+ I
+ would
+
+
+recommend
+ I
+ I'll
+ try
+ to
+ do
+ this
+ later
+
+
+on,
+ but
+ I
+ would
+ recommend
+ that
+ uh
+ try
+ to
+
+
+fine-tune
+ this
+ model
+ or
+ train
+ it
+ from
+
+
+scratch
+ if
+ you
+ have
+ some
+ resource
+ in
+ for
+
+
+a
+ smaller
+ data
+ set.
+ Um
+ and
+ use
+ a
+
+
+different
+ patch
+ size
+ uh
+ uh
+ so
+ let's
+ say
+
+
+start
+ with
+ a
+ patch
+ size
+ of
+ four,
+ right?
+
+
+And
+ uh
+ you
+ know
+ try
+ to
+ see
+ that
+ how
+ it
+
+
+works.
+
+
+uh
+ I
+ have
+ lot
+ of
+ assumptions
+ uh
+ on
+ that
+
+
+but
+ this
+ will
+ give
+ you
+ a
+ lot
+ of
+ clarity
+
+
+of
+ how
+ uh
+ the
+ semantic
+ search
+ things
+
+
+work
+ and
+ why
+ that
+ matrix
+ max
+ matrix
+
+
+multiplication
+ that
+ we
+ have
+ done
+ right
+
+
+why
+ that
+ is
+ a
+ good
+ technique
+
+
+uh
+ uh
+ because
+ imagine
+
+
+you
+ have
+ uploaded
+ your
+ data
+ set
+ is
+ the
+
+
+attention
+ you
+ all
+ you
+ need
+ paper
+ and
+ you
+
+
+ask
+ a
+ question
+ about
+ what
+ is
+ positional
+
+
+embedding
+ now
+ this
+ positional
+ embedding
+
+
+This
+ text
+ is
+ there
+ in
+ lot
+ of
+ pages
+
+
+almost
+ all
+ the
+ pages.
+ It
+ should
+ not
+ give
+
+
+me
+ all
+ the
+ pages.
+ Right?
+ So
+ it
+ should
+
+
+give
+ me
+ the
+ page
+ where
+ there
+ is
+ an
+
+
+actual
+ information
+ of
+ positional
+
+
+embedding
+ is
+ there.
+ Right?
+ And
+ when
+ you
+
+
+when
+ you
+ think
+ through
+ that
+ you
+ will
+
+
+find
+ out
+ that
+ the
+ ma
+ max
+ multiplication
+
+
+that
+ that
+ we
+ have
+ done
+ right
+ that
+
+
+actually
+ takes
+ care
+ of
+ that
+ that
+ uh
+ it
+
+
+will
+ just
+ show
+ you
+ the
+ page
+ where
+ all
+
+
+the
+ tokens
+ of
+ your
+ query
+ has
+ the
+ maximum
+
+
+similarity
+ with
+ a
+ particular
+ page
+ not
+
+
+just
+ one
+ chunk
+ of
+ your
+ question
+ with
+
+
+just
+ one
+ patch
+ of
+ your
+ page
+ you
+ getting
+
+
+what
+ I'm
+ saying
+ otherwise
+ you
+ know
+ when
+
+
+you
+ say
+ top
+ five
+ it
+ will
+ give
+ you
+ any
+
+
+five
+ random
+ pages
+ where
+ this
+ positional
+
+
+embedding
+ is
+ written.
+ So
+ just
+ give
+ it
+ a
+
+
+shot.
+
+
+>> Yes
+ sir.
+ Yeah.
+
+
+>> Is
+ there
+ any
+ sort
+ of
+ hybrid
+ approach
+
+
+where
+ you
+ can
+ process
+
+
+image?
+
+
+This
+ is
+ something
+ that
+ uh
+ one
+ of
+ my
+
+
+teammate
+ started
+ to
+ work
+ on
+ uh
+ where
+ we
+
+
+are
+ trying
+ to
+ use
+ u
+ call
+ along
+ with
+ a
+
+
+traditional
+ technique
+ and
+ the
+ way
+ that
+
+
+we
+ are
+ trying
+ to
+ do
+ this
+ is
+ based
+ on
+ the
+
+
+question
+ that
+ we
+ are
+ getting
+ and
+ while
+
+
+we
+ are
+ doing
+ the
+ pre-processing
+ and
+ uh
+
+
+storing
+ the
+ embeddings
+ we
+ are
+ trying
+ to
+
+
+store
+ uh
+ in
+ a
+ different
+ way
+ like
+ not
+ for
+
+
+all
+ the
+ data
+ that
+ we
+ are
+ using
+ call
+ pal
+
+
+just
+ for
+ few
+ data
+ we
+ are
+ using
+ call
+ pal
+
+
+for
+ the
+ rest
+ of
+ the
+ data
+ we
+ are
+ just
+
+
+using
+ the
+ traditional
+ technique
+
+
+But
+ for
+ a
+ particular
+ data
+ set
+ we
+ just
+
+
+use
+ one
+ single
+ model.
+ We
+ cannot
+ just
+ go
+
+
+into
+ that
+ okay
+ first
+ five
+ pages
+ of
+ this
+
+
+document
+ we
+ will
+ use
+ call
+ pal
+ the
+ next
+
+
+five
+ pages
+ we
+ will
+ use
+ the
+ traditional
+
+
+technique
+ that's
+ not
+ how
+ you
+ know
+ uh
+ we
+
+
+are
+ exploring
+ but
+ we
+ are
+ kind
+ of
+ trying
+
+
+to
+ use
+ two
+ different
+ approach
+ in
+ the
+
+
+same
+ uh
+ uh
+ architecture.
+ But
+ this
+ is
+ we
+
+
+are
+ using
+ because
+ the
+ data
+ set
+ that
+ we
+
+
+got
+ from
+ the
+ customer
+ they
+ started
+ off
+
+
+with
+ a
+ requirement
+ certain
+ requirement
+
+
+then
+ it
+ changed.
+ It
+ changed
+ means
+ it
+
+
+appended
+ and
+ now
+ when
+ the
+ new
+ request
+
+
+came
+ the
+ data
+ set
+ is
+ completely
+
+
+different
+ but
+ they
+ want
+ a
+ one
+ unified
+
+
+system.
+ So
+ that's
+ why
+ we
+ are
+ just
+
+
+checking
+ the
+ question
+ is
+ coming
+ from
+
+
+where
+ and
+ we
+ are
+ storing
+ some
+ metadata
+
+
+to
+ identify
+ this
+ question
+ should
+ go
+ from
+
+
+this
+ space
+ or
+ that
+ space.
+ Uh
+ but
+ nothing
+
+
+beyond
+ that
+ that
+ I
+ have
+ seen.
+ I've
+ seen
+
+
+either
+ this
+ or
+ that.
+
+
+>> Yeah.
+ Yes
+ sir.
+
+
+>> Did
+ you
+ have
+ to
+ find
+
+
+poly
+ model
+ to
+ for
+ it
+ to
+ work
+ well?
+
+
+>> No
+ I
+ have
+ not
+ done
+ that.
+ So
+ this
+ is
+
+
+these
+ are
+ all
+ fine-tuned
+ models.
+ You
+ can
+
+
+just
+ make
+ use
+ of
+ this.
+ I
+ forgot
+ the
+ data
+
+
+set
+ that
+ they
+ have
+ used.
+ You
+ can
+ read
+
+
+the
+ research
+ paper
+ on
+ that.
+ The
+ link
+ is
+
+
+there.
+ But
+ you
+ don't
+ have
+ to
+ fine-tune
+
+
+that.
+ Can
+ you
+ do
+ that?
+ Yes,
+ of
+ course
+
+
+you
+ can
+ do
+ a
+ finetuning.
+ That's
+ what
+ I
+
+
+was
+ referring
+ to
+ him.
+ I
+ myself
+ have
+ not
+
+
+done
+ that.
+ But
+ I
+ will
+ certainly
+ try
+ this
+
+
+out
+ uh
+ to
+ fine-tune
+ that.
+ That's
+ a
+ good
+
+
+exercise.
+
+
+>> So
+ it
+ worked
+ well
+ for
+ your
+ use
+ case.
+
+
+>> Yeah.
+ It
+ just
+ worked
+ fine.
+ Yeah.
+ Yeah.
+
+
+Yeah.
+ Yeah.
+ because
+ I
+ used
+ a
+ standard
+
+
+textbook
+ which
+ are
+ publicly
+ available
+ uh
+
+
+but
+ convoluted
+ data
+ try
+ to
+ do
+ that
+ with
+
+
+IKEA
+ data
+ set
+ IKEA
+ data
+ set
+ is
+ good
+
+
+because
+ you
+ cannot
+ use
+ an
+ OCR
+ based
+
+
+techniques
+ in
+ that
+ data
+ set
+ and
+ because
+
+
+that's
+ a
+ very
+ strange
+ sparse
+ data
+ set
+
+
+and
+ that
+ will
+ give
+ you
+ a
+ good
+ intuition
+
+
+that
+ okay
+ this
+ is
+ you
+ know
+ you
+ can
+
+
+understand
+ only
+ you
+ can
+ answer
+ those
+
+
+questions
+ if
+ you
+ if
+ somebody
+ asks
+ you
+
+
+that
+ question
+ from
+ that
+ uh
+ IKEA
+ uh
+
+
+manual
+ you
+ can
+ do
+ that
+ not
+ um
+ a
+ computer
+
+
+if
+ you
+ use
+ a
+ traditional
+ technique.
+ So
+
+
+that
+ actually
+ a
+ good
+ data
+ point
+ to
+ make
+
+
+use
+ of
+ this.
+ Okay.
+
+
+All
+ right.
+ Thank
+ you
+ so
+ much
+ everyone
+
+
+for
+ uh
+ uh
+ coming.
+ I
+ really
+ appreciate
+
+
+and
+ and
+ one
+ last
+ thing
+ is
+ if
+ you
+ need
+ u
+
+
+uh
+ any
+ AWS
+ credit
+ for
+ any
+ of
+ your
+
+
+project
+ uh
+ just
+ ping
+ me
+ on
+ LinkedIn.
+
+
+I'll
+ share
+ a
+ few
+ credits.
+ Okay.
+ Even
+ if
+
+
+you
+ need
+ more,
+ I
+ can
+ give
+ you
+ more.
