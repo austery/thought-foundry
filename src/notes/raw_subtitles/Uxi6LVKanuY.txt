@@ -1,0 +1,18808 @@
+All
+ right,
+ everybody.
+ Welcome
+ back
+ to
+
+
+the
+ number
+ one
+ podcast
+ in
+ the
+ world,
+ the
+
+
+AllIn
+ podcast.
+ In
+ the
+ news,
+ in
+ your
+
+
+feed.
+ We're
+ ready
+ to
+ go.
+ We've
+ got
+ the
+
+
+original
+ quartet
+ here.
+ The
+ band's
+ back
+
+
+together.
+ All
+ right.
+ First
+ up
+ on
+ the
+
+
+docket.
+ A
+ code
+ red
+ has
+ been
+ called
+ by
+
+
+Sam
+ Alman.
+ He
+ sent
+ a
+ memo
+ on
+ Monday.
+ He
+
+
+told
+ employees
+ to
+ stop
+ working
+ on
+ side
+
+
+quests,
+ you
+ know,
+ like
+ ads,
+ etc.,
+ and
+
+
+focus
+ on
+ the
+ core
+ chat.
+ GPT,
+ the
+ core
+
+
+experience.
+ Make
+ it
+ faster.
+ make
+ it
+
+
+better.
+ And
+ I
+ think
+ we
+ all
+ know
+ why
+
+
+because
+ Gemini
+ and
+ Grock
+ and
+ Claude
+ from
+
+
+Anthropic
+ have
+ been
+ crushing
+ it.
+ Chat
+
+
+GPT5,
+ let's
+ call
+ it
+ what
+ it
+ is,
+ was
+ a
+
+
+bit
+ of
+ a
+ flop.
+ It
+ didn't
+ perform
+ to
+
+
+expectations.
+ We
+ discussed
+ that
+ a
+ couple
+
+
+of
+ weeks
+ ago
+ or
+ months
+ ago.
+ Anthropic
+ is
+
+
+beating
+ OpenAI
+ in
+ enterprise
+ revenue
+
+
+starting
+ this
+ summer.
+ And
+ I
+ talked
+ about
+
+
+how,
+ you
+ know,
+ previous
+ episodes
+ on
+ the
+
+
+streets.
+ I'm
+ seeing
+ more
+ startups
+ want
+
+
+to
+ use
+ Anthropic
+
+
+API
+ and
+ also
+ Google
+ Gemini's
+ API
+ and
+ and
+
+
+they
+ don't
+ essentially
+ trust
+ Open
+ AI
+ to
+
+
+not
+ steal
+ their
+ business.
+ So,
+ it's
+ big
+
+
+changes
+ right
+ now.
+ Here
+ is
+ a
+ chart
+ based
+
+
+on
+ data
+ from
+ July.
+ Most
+ of
+ Anthropics
+
+
+revenue
+ here
+ is
+ corporate.
+ Most
+ of
+
+
+OpenAI's
+ as
+ everybody
+ knows
+ is
+ consumer.
+
+
+And
+ here's
+ another
+ chart.
+ OpenAI's
+ new
+
+
+infrastructure
+ deals
+ versus
+ revenue
+ and
+
+
+this
+ is
+ just
+ for
+ 2025
+ alone.
+ A
+ lot
+ of
+
+
+deals
+ being
+ made,
+ but
+ competition
+ is
+
+
+fierce.
+ Chimath,
+ your
+ thoughts
+ here
+ on
+
+
+the
+ game
+ on
+ the
+ field.
+ Code
+ red
+ for
+
+
+people
+ who
+ don't
+ know
+ in
+ our
+ industry
+ is
+
+
+when
+ everybody
+ reports
+ to
+ the
+ office
+ and
+
+
+gets
+ focused
+ on
+ one
+ thing.
+ And
+ uh
+ that's
+
+
+apparently
+ what
+ Sam's
+ doing.
+ How
+ do
+ you
+
+
+interpret
+ it?
+
+
+>> Look,
+ I
+ think
+ that
+ there
+ are
+ two
+ things.
+
+
+Let's
+ do
+ the
+ strategic
+ lens
+ and
+ then
+ the
+
+
+tactical
+ lens.
+ the
+ strategic
+ lens
+ is
+
+
+that
+ this
+ is
+ an
+ incredibly
+ vibrant
+ and
+
+
+dynamic
+ market
+ and
+ I
+ think
+ it's
+ too
+
+
+difficult
+ and
+ too
+ early
+ to
+ pick
+ winners
+
+
+other
+ than
+ at
+ the
+ silicon
+ layer
+ where
+
+
+largely
+ that
+ die
+ has
+ been
+ cast.
+ I
+ think
+
+
+that
+ it's
+ going
+ to
+ grow.
+ So
+ we
+ can
+ talk
+
+
+about
+ how
+ there'll
+ be
+ more
+ competition
+
+
+but
+ it's
+ roughly
+ Nvidia
+ plus
+ AMD
+ plus
+
+
+Google
+ plus
+ a
+ bunch
+ of
+ inference
+
+
+silicon.
+ So
+ that's
+ sort
+ of
+ that
+ market
+
+
+but
+ above
+ it
+ at
+ the
+ model
+ market.
+ It
+
+
+reminds
+ me,
+ frankly,
+ a
+ lot
+ of
+ when
+ we
+
+
+were
+ building
+ Facebook.
+ I
+ remember
+
+
+sitting
+ around
+ our
+ senior
+ executive
+
+
+team,
+ six
+ of
+ us,
+ looking
+ at
+ MySpace,
+ who
+
+
+was
+ an
+ order
+ of
+ magnitude
+ bigger
+ than
+
+
+us.
+ And
+ at
+ some
+ point,
+ we
+ were
+ like,
+ you
+
+
+know
+ what,
+ our
+ product
+ is
+ just
+
+
+fundamentally
+ better
+ than
+ theirs.
+ And
+
+
+they
+ had
+ 100
+ million
+ plus
+ users
+ and
+ we
+
+
+had
+ sort
+ of
+ 15.
+ But
+ we
+ knew
+ that
+ we
+ were
+
+
+eventually
+ going
+ to
+ beat
+ them.
+ Nobody
+
+
+else
+ knew.
+ And
+ I
+ feel
+ like
+ this
+ market
+
+
+is
+ similarly
+ evolving,
+ which
+ is
+ that
+ you
+
+
+have
+ these
+ early
+ winners,
+ but
+ there's
+
+
+still
+ so
+ much
+ work
+ to
+ do.
+ There's
+ still
+
+
+so
+ many
+ consumer
+ expectations
+ to
+ define
+
+
+that
+ it's
+ too
+ early
+ to
+ know
+ who's
+ going
+
+
+to
+ win.
+ And
+ ultimately,
+ what
+ we
+ are
+
+
+learning,
+ especially
+ as
+ all
+ these
+
+
+markets
+ converge,
+ is
+ that
+ distribution
+
+
+still
+ matters
+ a
+ ton,
+ which
+ favors
+
+
+Google.
+ It
+ favors
+ Meta,
+ although
+ Meta's
+
+
+quite
+ behind.
+ And
+ now
+ it
+ will
+ still
+
+
+favor
+ OpenAI
+ because
+ they
+ have
+ 800
+
+
+million
+ monthly
+ activives.
+ So
+ then
+ the
+
+
+tactical
+ thing
+ is
+ what
+ do
+ you
+ do
+ knowing
+
+
+that
+ this
+ dynamic
+ is
+ set
+ up
+ to
+ have
+ a
+
+
+lot
+ of
+ competition
+ and
+ I
+ think
+ what
+ you
+
+
+have
+ to
+ do
+ is
+ streamline
+ the
+ focus
+ and
+
+
+try
+ to
+ make
+ a
+ crisis
+ out
+ of
+ every
+
+
+opportunity
+ because
+ look
+ the
+ companies
+
+
+tend
+ to
+ just
+ grow
+ this
+ positive
+ entropy
+
+
+tends
+ to
+ cause
+ people
+ to
+ hire
+ at
+ every
+
+
+level
+ and
+ you
+ look
+ around
+ and
+ there's
+
+
+thousands
+ of
+ people
+ that
+ you
+ didn't
+ know
+
+
+even
+ six
+ months
+ ago.
+ And
+ so
+ I
+ think
+ if
+
+
+Sam
+ can
+ use
+ different
+ points
+ in
+ time
+ to
+
+
+tighten
+ the
+ core
+ focus,
+ they'll
+ be
+
+
+better
+ off.
+ And
+ I
+ think
+ that
+ is
+ what
+
+
+Google
+ did
+ a
+ while
+ back.
+ If
+ you
+ remember
+
+
+the
+ whole
+ black
+ George
+ Washington
+ thing,
+
+
+they
+ were
+ able
+ to
+ use
+ that
+ as
+ a
+ rallying
+
+
+cry
+ to
+ streamline
+ the
+ organization
+ and
+
+
+to
+ focus
+ and
+ to
+ get
+ their
+ best
+ and
+
+
+smartest
+ people
+ to
+ work
+ on
+ the
+ most
+
+
+highly
+ leveraged
+ tasks.
+ And
+ what
+ you
+ see
+
+
+now
+ is
+ an
+ incredible
+ overperformance
+
+
+from
+ where
+ they
+ were.
+ I've
+ said
+ this
+
+
+before,
+ but
+ Gemini
+ is
+ is
+ incredible.
+ So,
+
+
+I
+ think
+ that
+ that's
+ what's
+ happening.
+
+
+Too
+ early
+ to
+ call.
+ It's
+ a
+ three
+ or
+ four
+
+
+horse
+ race
+ and
+ Sam
+ needs
+ to
+ batten
+ down
+
+
+the
+ hatches.
+ And
+ I
+ think
+ he
+ used
+ this
+
+
+opportunity
+ to
+ stop
+ a
+ bunch
+ of
+
+
+peripheral
+ activities.
+ Yeah.
+ And
+ as
+ we
+
+
+saw,
+ Sergey
+ called
+ a
+ personal
+ code
+ red.
+
+
+He
+ said,
+ "I
+ have
+ to
+ get
+ in
+ the
+ office.
+ I
+
+
+have
+ to
+ inspire
+ everybody
+ because
+ this
+
+
+is
+ existential
+ for
+ us
+ if
+ we
+ lose
+
+
+the
+ search
+ franchise,
+ which
+ they
+
+
+haven't.
+ The
+ code
+ red
+ works."
+ So
+ David
+
+
+Freeberg,
+ maybe
+ you
+ could
+ discuss
+ a
+
+
+little
+ bit
+ code
+ red
+ as
+ a
+ management
+
+
+technique.
+ You
+ were
+ at
+ Google.
+ I
+ don't
+
+
+know if
+ they
+ were
+ calling
+ code
+ reds
+ back
+
+
+then
+ because
+ you
+ didn't
+ have
+ any
+
+
+competition,
+ but
+ we're
+ in
+ a
+ much
+
+
+different
+ world
+ here.
+ This
+ is
+ the
+ most
+
+
+competitive
+ thing
+ we've
+ ever
+ seen
+ in
+ our
+
+
+lifetimes.
+ I
+ think
+ Google
+ had
+ an
+ early
+
+
+lead
+ in
+ search
+ and
+ then
+ Microsoft
+
+
+launched
+ and
+ it
+ formed
+ a
+ code
+ red
+ model
+
+
+at
+ Google
+ that
+ was
+ called
+ Project
+ Canada
+
+
+as
+ the
+ code
+ word
+ for
+ Microsoft.
+ And
+
+
+there
+ was
+ a
+ weekly
+ war
+ room
+ meeting
+ and
+
+
+a
+ whole
+ bunch
+ of
+ strategy
+ and
+ product
+
+
+decision-making
+ that
+ was
+ driven
+ around
+
+
+the
+ impending
+ threat
+ from
+ Microsoft
+
+
+because
+ Microsoft
+ was
+ such
+ a
+ big
+
+
+behemoth,
+ so
+ well
+ capitalized,
+ had
+
+
+incredible
+ engineering
+ talent.
+ Part
+ of
+
+
+the
+ response
+ was
+ to
+ set
+ up
+ an
+ office
+ in
+
+
+Kirkland
+ to
+ recruit
+ engineers
+ up
+ in
+
+
+Seattle
+ to
+ aggressively
+ grow
+ that
+ base.
+
+
+There
+ was
+ a
+ whole
+ bunch
+ of
+ tactics
+ that
+
+
+emerged
+ from
+ the
+ strategic
+ lens
+ of
+
+
+project
+ Canada.
+ It
+ is
+ a
+ very
+ powerful
+
+
+method.
+ It
+ is
+ how
+ the
+ United
+ States
+ got
+
+
+to
+ the
+ moon
+ in
+ a
+ race
+ with
+ Russia.
+ It
+ is
+
+
+how
+ we
+ are
+ now
+ in
+ a
+ race
+ for
+ supremacy
+
+
+in
+ technology
+ and
+ AI
+ against
+ China.
+
+
+Having
+ an
+ impending
+ threat
+ is
+ a
+ very
+
+
+strong
+ motivational
+ tactic.
+ It
+ is
+ a
+ very
+
+
+focusing
+ setting
+ and
+ it
+ drives
+
+
+innovation.
+ And
+ so
+ we'll
+ see
+ what
+
+
+happens.
+ Chat
+ GPT
+
+
+was
+ basically
+ the
+ market
+ monopoly
+ in
+ AI
+
+
+or
+ LLM
+ chat
+ interface
+ and
+ it
+ only
+ had
+
+
+one
+ way
+ to
+ go
+ which
+ was
+ down.
+ Google
+ I
+
+
+think
+ at
+ this
+ point
+ has
+ roughly
+ 14%.
+ So
+
+
+here
+ you
+ can
+ see
+ OpenAI
+ is
+ on
+ the
+
+
+decline.
+ Obviously
+ a
+ little
+ over
+ a
+ year
+
+
+ago
+ they
+ were
+ at
+ 90%
+ plus
+ market
+ share
+
+
+in
+ generative
+ AI
+ traffic
+ and
+ today
+
+
+Gemini
+ is
+ at
+ 14
+ 15%.
+ the
+ depth,
+ the
+
+
+flywheel
+ that
+ Google
+ has
+ built
+ gives
+
+
+them
+ such
+ extraordinary
+ advantage.
+
+
+>> Okay,
+ let's
+ go
+ to
+ Emperor
+ Palpatine.
+ Uh,
+
+
+this
+ is
+ coming
+ together
+ as
+ exactly
+ as
+
+
+you
+ orchestrated
+ you
+ as
+ thesar
+ of
+ AI
+ and
+
+
+crypto.
+ Thank
+ you
+ for
+ your
+ service,
+
+
+civil
+ servant
+ David
+ Sachs.
+ You
+ wanted
+ to
+
+
+see
+ vibrant
+ competition.
+ Well,
+ here
+ we
+
+
+have
+ it.
+ Assess
+ the
+ playing
+ field
+ as
+ you
+
+
+see
+ it
+ from
+ DC.
+
+
+Well,
+ first
+ of
+ all,
+ let
+ me
+ give
+ credit
+
+
+to
+ Sam
+ for
+ calling
+ this
+ code
+ red,
+
+
+breaking
+ the
+ glass,
+ and
+ pulling
+ the
+ the
+
+
+alarm.
+ I
+ think
+ it's
+ so
+ easy
+ for
+ CEOs
+ in
+
+
+general
+ to
+ engage
+ in
+ happy
+ talk
+ and
+
+
+ignore
+ problems,
+ especially
+ when
+
+
+discussing
+ them
+ is
+ going
+ to
+ create
+ a
+ PR
+
+
+story
+ that
+ they
+ don't
+ like.
+ And
+ I
+ do
+
+
+think
+ one
+ of
+ the
+ things
+ that's
+ unique
+
+
+about
+ Silicon
+ Valley
+ is
+ just
+ that
+ the
+
+
+founders
+ and
+ CEOs
+ do
+ treat
+ the
+ situation
+
+
+of
+ their
+ companies
+ in
+ a
+ more
+ existential
+
+
+way
+ because
+ we
+ actually
+ do
+ have
+
+
+tremendous
+ competition.
+ And
+ so
+ anytime
+ I
+
+
+think
+ a
+ CEO
+ is
+ willing
+ to
+ again
+ take
+ a
+
+
+bad
+ PR
+ story
+ in
+ order
+ to
+ focus
+ their
+
+
+troops
+ on
+ a
+ real
+ business
+ problem,
+ I
+
+
+think
+ they
+ deserve
+ credit
+ for
+ it
+ because
+
+
+I
+ think
+ when
+ you
+ look
+ at
+ the
+ rest
+ of the
+
+
+Fortune
+ 500,
+ you
+ know,
+ these
+ CEOs
+ are
+
+
+just
+ kind
+ of
+ managing
+ PR
+ all
+ the
+ time.
+
+
+Now
+ with
+ respect
+ to
+ the
+ ecosystem
+ as
+ a
+
+
+whole,
+ it
+ is
+ very
+ competitive
+ and
+ I
+
+
+think
+ we've
+ got
+ five
+ major
+ companies
+ and
+
+
+they
+ all
+ have
+ their
+ strengths.
+ So
+ chat
+
+
+GPT
+ is
+ the
+ leader
+ in
+ consumer.
+ They
+ have
+
+
+something
+ like
+ 80%
+ market
+ share
+ in
+
+
+consumer
+ use
+ of
+ LLM
+ chatbots.
+ But
+ then
+
+
+Google
+ came
+ out
+ with
+ their
+ new
+ Gemini
+ 3
+
+
+and
+ they
+ were
+ starting
+ to
+ take
+ share
+
+
+based
+ on
+ the
+ strength
+ of
+ Gemini
+ 3
+ and
+
+
+the
+ integration
+ it
+ has
+ obviously
+ within
+
+
+Google
+ search
+ cuz
+ it's
+ very
+ easy
+ for
+
+
+people
+ to
+ discover
+ it
+ when
+ they
+ do
+ a
+
+
+Google
+ search
+ and
+ now
+ they're
+ seeing
+
+
+that
+ it's
+ actually
+ pretty
+ good.
+ So
+ they
+
+
+were
+ starting
+ to
+ take
+ share
+ from
+ Chat
+
+
+GBT
+ and
+ I
+ think
+ that's
+ why
+ Sam
+ issued
+
+
+the
+ code
+ red.
+ Then
+ you've
+ got
+ anthropic
+
+
+like
+ you
+ mentioned
+ where
+ I
+ don't
+
+
+particularly
+ love
+ what
+ I've
+ called
+ their
+
+
+regulatory
+ capture
+ strategy,
+ but
+ I
+ have
+
+
+to
+ acknowledge
+ their
+ products
+ are
+ very
+
+
+good.
+ Everybody
+ seems
+ to
+ say
+ that
+ they
+
+
+have
+ the
+ best
+ coding
+ assistant
+ and
+
+
+they're
+ carving
+ out
+ a
+ very
+ lucrative
+
+
+niche
+ in
+ enterprise.
+ And
+ then
+ you've
+ got
+
+
+XAI
+ which
+ I
+ think
+ is
+ the
+ best
+ at
+ current
+
+
+events
+ because
+ of
+ the
+ integration
+ with
+
+
+X.
+ And
+ also
+ Elon
+ seems
+ to
+ be
+ able
+ to
+
+
+scale
+ his
+ data
+ center,
+ his
+ training
+
+
+cluster
+ the
+ fastest.
+ He's
+ got,
+ you
+ know,
+
+
+he
+ had
+ Colossus
+ one,
+ now
+ he's
+ got
+
+
+Colossus
+ 2,
+ and
+ that
+ portends
+ good
+
+
+things
+ for
+ Grock
+ 5.
+ He's
+ going
+ to
+ be
+
+
+trained
+ on
+ the
+ largest
+ cluster
+ of
+
+
+Blackwells.
+ So,
+ in
+ any
+ event,
+ you
+ got
+
+
+all
+ these
+ companies
+ that
+ are
+ doing
+
+
+pretty
+ well.
+ I
+ guess
+ Meta
+ has
+ sort
+ of
+
+
+hit
+ some
+ headwinds,
+ but
+ they're
+ going
+ to
+
+
+continue
+ investing
+ tremendously
+ in
+ AI
+
+
+and
+ they've
+ got
+ deep
+ pockets
+ to
+ do
+ it.
+
+
+So,
+ I
+ think
+ that
+ they'll
+ come
+ back.
+ And
+
+
+you
+ know
+ what
+ you
+ see
+ is
+ all
+ these
+
+
+companies
+ are
+ kind
+ of
+ leapronging
+ each
+
+
+other.
+ you
+ get
+ a
+ new
+ version
+ and
+ then
+
+
+they
+ sort
+ of
+ leaprog
+ each
+ other
+ in
+ terms
+
+
+of
+
+
+>> the
+ leaderboards
+ are
+ showing
+ that
+ yes
+
+
+saxs
+ when
+ you
+ look
+ at
+ the
+ leaderboard
+
+
+it's
+ constantly
+ Grock
+ comes
+ above
+ Gemini
+
+
+Gemini
+ comes
+
+
+>> there's
+ a
+ lot
+ of
+ leaprogging
+ going
+ on
+
+
+there's
+ a
+ lot
+ of
+ also
+ I'd
+ say
+
+
+specialization
+ now
+ going
+ on
+ in
+ the
+ ways
+
+
+that
+ I
+ just
+ mentioned
+ all
+ these
+
+
+companies
+ are
+ developing
+ strengths
+
+
+there's
+ sort
+ of
+ verticals
+ happening
+
+
+>> yes
+
+
+>> and
+ so
+ I've
+ described
+ this
+ as
+ sort
+ of
+ a
+
+
+a
+ goldilock
+ scenario
+ where
+ you're
+ making
+
+
+a
+ lot
+ of
+ progress
+ in
+ AI
+ but
+ the
+ market
+
+
+is
+ remaining
+ very
+ competitive
+ ideally
+ it
+
+
+does
+ not
+ consolidate
+ just
+ to
+ on
+ monopoly
+
+
+player
+ like
+ we've
+ seen
+ in
+ other
+ tech
+
+
+markets
+ because
+ then
+ you
+ end
+ up
+ with
+ a
+
+
+big
+ tech
+ company
+ that's
+ got
+ too
+ much
+
+
+power
+ and
+ control.
+ That's
+ not
+ generally
+
+
+a
+ great
+ thing
+ for
+ consumers
+ versus
+
+
+China.
+ What
+ does
+ it
+ say
+ versus
+ us
+ versus
+
+
+China?
+ That
+ that
+ was
+ the
+ dialogue
+ a
+ year
+
+
+ago.
+ Oh
+ my
+ god,
+ China.
+ Oh
+ my
+ god,
+ China.
+
+
+Where
+ are
+ we
+ at
+ today?
+ Because
+ this
+ is
+
+
+impressive
+ this
+ vibrant
+ competition.
+
+
+>> Well,
+ look,
+ competition
+ brings
+ out
+ the
+
+
+best
+ in
+ the
+ American
+ system.
+ And
+ I
+ think
+
+
+that
+ that
+ is
+ what
+ creates
+ the
+ most
+
+
+progress
+ and
+ that's
+ what's
+ going
+ to
+
+
+allow
+ us
+ to
+ win
+ the
+ AI
+ race
+ against
+
+
+China.
+ China
+ has
+ a
+ lot
+ of
+ competition
+
+
+too,
+ but
+ they
+ do
+ tend
+ to
+ anoint
+ national
+
+
+champions
+ more.
+ I
+ guess
+ they
+ usually
+ do
+
+
+it
+ more
+ after
+ a
+ competition
+ stage.
+ So,
+
+
+you
+ know,
+ maybe
+ it
+ doesn't
+ prevent
+
+
+competition,
+ but
+ look,
+ China's
+
+
+formidable.
+ They
+ got
+ a
+ lot
+ of
+ good
+ AI
+
+
+companies,
+ too.
+ And
+ this
+ is
+ going
+ to
+ be
+
+
+a
+ horse
+ race,
+ but
+ again,
+ there's
+ no
+
+
+question
+ that
+ the
+ system
+
+
+>> for
+ sure.
+ But
+ look,
+ there's
+ no
+ question
+
+
+that
+ in
+ the
+ American
+ system,
+ uh,
+ the
+
+
+it's
+ competition
+ that
+ brings
+ out
+ the
+
+
+best.
+ And
+ that's
+ what
+ we're
+ seeing
+ right
+
+
+now.
+
+
+>> Jason,
+ what
+ do
+ you
+ think?
+
+
+>> Interestingly,
+ I
+ just
+ want
+ to
+ build
+ a
+
+
+little
+ bit
+ on
+ what
+ Freeberg
+ showed.
+ The
+
+
+way
+ I'm
+ sort
+ of
+ seeing
+ this
+ is
+ now
+ chat
+
+
+GPT
+ versus
+ the
+ world
+ 36
+ months
+ ago,
+ chat
+
+
+GPT,
+ OpenAI
+ had
+ 100%,
+ right?
+ They
+
+
+started
+ the
+ category
+ as
+ you
+ pointed
+ out
+
+
+correctly,
+ David.
+ And
+ um,
+ their
+ decline
+
+
+in
+ market
+ share
+ is
+ increasing
+ in
+
+
+velocity.
+ Uh
+ if
+ we
+ were
+ looking
+ at
+ just
+
+
+12
+ months
+ ago,
+ they
+ had
+ 84%
+ of
+ the
+ space
+
+
+and
+ uh
+ now
+ they're
+ at
+ 68.
+ So
+ they
+
+
+they've
+ this
+ is
+ accelerating.
+ You
+
+
+pointed
+ out
+ Chamath
+ correctly
+ why
+ it's
+
+
+accelerating.
+ Distribution
+ matters.
+
+
+We've
+ talked
+ about
+ it
+ countless
+ times
+
+
+here.
+ Meta
+ is
+ forcing
+ you
+ to
+ use
+ their
+
+
+AI
+ search,
+ which
+ is
+ pretty
+ bad.
+ I'll
+ be
+
+
+honest.
+ every
+ time
+ you
+ do
+ a
+ search
+ on
+
+
+Instagram,
+ it's
+ annoying.
+ But
+ those
+ all
+
+
+count
+ as
+ users
+ using
+ the
+ product
+ just
+
+
+like
+ Slack
+ face
+ competition
+ from
+
+
+Microsoft
+ Teams
+ when
+ it
+ bundled.
+ And
+ so
+
+
+I
+ just
+ tracked
+ this
+ out
+ and
+ this
+ is
+ what
+
+
+I
+ think
+ is
+ going
+ to
+ happen
+ over
+ the
+ next
+
+
+four
+ years.
+ I
+ think
+ we're
+ going
+ to
+ see
+
+
+Open
+ AI
+ go
+ down
+ to
+ about
+ a
+ third
+ of
+ the
+
+
+market
+ and
+ I
+ think the
+ other
+ players
+ are
+
+
+going
+ to
+ take
+ two/3s.
+ The
+ reason
+ I
+ think
+
+
+this
+ is
+ because
+ to
+ Sax's
+ point,
+
+
+specialization's
+ happening.
+ If
+ you
+ look
+
+
+at
+ Nano
+ Banana,
+ which
+ is
+ the
+ image
+
+
+processing
+ over
+ at
+ um
+ Google,
+ it's
+
+
+fantastic.
+ Grock
+ image
+ is
+ fantastic.
+ So,
+
+
+you're
+ going
+ to
+ have
+ four
+ different
+ five
+
+
+different
+ choices
+ for
+ images.
+ You're
+
+
+going
+ to
+ have
+ four
+ or
+ five
+ different
+
+
+really
+ credible
+ choices.
+ Now,
+ you
+ have
+
+
+to
+ look
+ also
+ at
+ the
+ competition
+ and
+ what
+
+
+Sam
+ is
+ facing.
+ I've
+ known
+ Sam
+ 20
+ years
+
+
+now.
+ He
+ is
+ a
+ consmate
+ dealmaker,
+ perhaps
+
+
+too
+ good
+ at
+ dealmaking.
+ He
+ was
+
+
+incredible
+ at
+ recruiting
+ and
+ his
+ PR
+ game
+
+
+was
+ very
+ strong.
+ Everybody
+ realizes
+
+
+that.
+ And
+ look
+ at
+ who
+ he's
+ facing.
+
+
+Freeberg.
+ Elon
+ Agra
+ Sergey
+ and
+ Sundar
+ at
+
+
+Google.
+ Zuckerberg
+ at
+ Meta
+ Dario
+
+
+Sati
+ at
+ Microsoft
+ who's
+ his
+ partner
+
+
+who's
+ now
+ his
+ competitor.
+ Elon
+ was
+ his
+
+
+benefactor
+ now
+ his
+ competitor.
+ You
+ got
+
+
+the
+ open-
+ source
+ projects,
+ Deepseek,
+
+
+etc.
+ Sachs
+ in
+ China.
+ And
+ then
+ his
+ former
+
+
+employees
+ are
+ trying
+ to
+ kill
+ him
+ as
+
+
+well.
+ So
+ you
+ have
+ Ilia
+ doing
+ safe
+ super
+
+
+intelligence
+ which
+ hasn't
+ launched
+ yet
+
+
+and
+ Meera
+ doing
+ thinking
+ machine.
+ She's
+
+
+you
+ know
+ obviously
+ was
+ doing
+ all
+ the
+
+
+video
+ stuff.
+ So
+ I
+ think
+ what
+ we're
+ going
+
+
+to
+ see
+ here
+ if
+ we're
+ sitting
+ here
+ I
+
+
+don't
+ know
+ next
+ year
+ they're
+ going
+ to
+ be
+
+
+in
+ the
+ next
+ 12
+ to
+ 24
+ months
+ under
+ 50%.
+
+
+And
+ these
+ companies
+ are
+ explicitly
+
+
+trying
+ to
+ kill
+ open
+ AI.
+ They
+ the
+ amount
+
+
+of
+ bad
+ will
+ that
+ Sam
+ has
+ built
+ is
+
+
+colossal
+ and
+ I
+ think
+ it's
+ from
+ doing
+ too
+
+
+many
+ deals.
+ And
+ if
+ you
+ look
+ at
+ what
+ he
+
+
+did
+ to
+ Nvidia,
+ Nvidia
+ put
+ out
+ a
+
+
+statement
+ recently
+ that
+ they
+ have
+ the
+
+
+option
+ to
+ invest.
+ So
+ we
+ were
+ sitting
+
+
+here
+ two
+ months
+ ago
+ and
+ I
+ know
+ people
+ in
+
+
+the
+ industry
+ were
+ staying
+ up
+ late
+ at
+
+
+night
+ worrying
+ about
+ all
+ these
+ deals
+ Sam
+
+
+were
+ was
+ doing.
+ All
+ those
+ deals
+
+
+apparently
+ are
+ coming
+ out
+ that
+ they're
+
+
+options.
+ These
+ weren't
+ real
+ deals.
+ A
+ lot
+
+
+of
+ them
+ were
+ options.
+ And
+ so
+ Jensen
+ came
+
+
+out
+ and
+ said,
+ "Hey,
+ we
+ have
+ the
+
+
+opportunity
+ to
+ invest
+ in
+ OpenAI."
+ But
+
+
+you
+ remember
+ Sam
+ did
+ that
+ AMD
+ deal
+ the
+
+
+week
+ after
+ he
+ or
+ two
+ weeks
+ after
+ he
+ did
+
+
+the
+ OpenAI
+ deal.
+ A
+ lot
+ of
+ this
+ is
+
+
+creating
+ bad
+ feelings.
+ And
+ I
+ think
+ we're
+
+
+at
+ peak
+ OpenAI
+ right
+ now.
+ I
+ said
+ it
+ on
+
+
+the
+ show
+ a
+ couple
+ weeks
+ ago.
+ I
+ think
+ the
+
+
+pair
+ trade
+ is
+ to
+ to
+ bet
+ against
+ every
+
+
+it's
+ Chat
+ GPT
+ versus
+ the
+ world.
+ And
+ I
+
+
+think
+ the
+ world
+ wins
+ two/3s.
+
+
+>> They
+ can
+ still
+ be
+ in
+ a
+ good
+ place.
+ I
+
+
+think
+ you're
+ right
+ that
+ this
+ market
+
+
+probably
+ gets
+ split
+ up
+ three
+ or
+ four
+
+
+ways.
+ And
+ so
+ the
+ winner
+ probably
+ gets
+ a
+
+
+third
+ of
+ the
+ market.
+ Most
+ other
+ markets
+
+
+that
+ end
+ up
+ in
+ a
+ three
+ or
+ four
+ person
+
+
+race
+ ends
+ up
+ in
+ that
+ space.
+ But
+ a
+ third
+
+
+of
+ a
+ market
+ can
+ still
+ be
+ very
+ valuable
+
+
+if
+ that
+ market
+ has
+ five
+ or
+ six
+ billion
+
+
+people
+ using
+ it.
+
+
+>> Absolutely.
+ It's
+ going
+ to
+ be
+ tremendous.
+
+
+Yeah.
+
+
+>> And
+ that
+ can
+ still
+ support
+ a
+ multi-t
+
+
+trillion
+ dollar
+ market
+ cap.
+ So
+ I
+ don't
+
+
+think
+ it's
+ it's
+ by
+ any
+ means
+ a
+ death
+
+
+nail
+ for
+ open
+ AI,
+ but
+ it
+ does
+ mean
+ that
+
+
+a
+ lot
+ of
+ these
+ projects
+ probably
+ need
+ to
+
+
+get
+ shuttered
+ because
+ you
+ need
+ to
+ just
+
+
+do
+ a
+ few
+ things
+ very
+ very
+ well
+ because
+
+
+consumers
+ will
+ start
+ to
+ split
+ their
+
+
+purchasing
+ decisions
+ if
+ you
+ will
+ or
+
+
+their
+ usage
+ decisions
+ across
+ vertical
+
+
+things
+ for
+ specific
+ purposes.
+ So
+ yes,
+ I
+
+
+may
+ use
+ Grock
+ image
+ because
+ I
+ love
+ that
+
+
+and
+ it's
+ just
+ much
+ better.
+ But
+ then
+ I
+
+
+may
+ use
+ Enthropic
+ for
+ codegen
+ while
+ I
+
+
+use
+ Gemini
+ for
+ deep
+ research
+ and
+ then
+ I
+
+
+use
+ chat
+ GPT
+ for
+ conversational
+ search.
+
+
+>> Yes.
+
+
+>> Now
+ all
+ of
+ a
+ sudden
+ I'm
+ using
+ all
+ four.
+
+
+That's
+ highly
+ realistic
+ that
+ outcome.
+ In
+
+
+fact,
+ I
+ look
+ at
+ my
+ phone
+ now.
+ I
+ try
+ to
+
+
+limit
+ the
+ number
+ of
+ apps
+ on
+ the
+ phone,
+
+
+but
+ I
+ have
+ Gemini
+ and
+ Grock
+ as
+ the
+ two
+
+
+anchor
+ apps.
+
+
+>> Mhm.
+
+
+>> Because
+ I'm
+ so
+ reliant
+ on
+ both
+ of
+ them
+
+
+and
+ I
+ just
+ keep
+ going
+ back
+ and
+ forth
+
+
+between
+ them.
+ Interestingly,
+ I
+ have
+
+
+four.
+ I
+ have
+ Claude
+ also
+ in
+ perplexity
+
+
+on
+ my
+ on
+ my
+ desktop.
+ And
+ I
+ go
+ through
+
+
+all
+ four
+ of
+ them.
+ Here's
+ what
+ Google
+ and
+
+
+other
+ folks
+ are
+ planning.
+ They're
+ going
+
+
+to
+ take
+ the
+ main
+ revenue
+ stream
+ of
+
+
+OpenAI
+ and
+ they're
+ going to
+ suck
+ the
+
+
+oxygen
+ out
+ of
+ the
+ room
+ and
+ they're
+ going
+
+
+to
+ try
+ to
+ strangle
+ Sam
+ and
+ the
+ team
+ over
+
+
+there
+ by
+ making
+ it
+ free.
+ So,
+ right
+ now,
+
+
+if
+ 75%
+ of
+ that
+
+
+>> metaphor,
+
+
+>> very,
+ very
+ vital,
+ but
+ this
+ is
+ war.
+ This
+
+
+is
+ the
+ greatest
+ battle
+ we've
+ seen
+ since
+
+
+like
+ Netscape
+ versus
+ Microsoft
+ and
+ the
+
+
+internet.
+ They're
+ going
+ to
+ make
+ Gemini
+
+
+free
+ for
+ life
+ for
+ the
+ best
+ models.
+
+
+That's
+ my
+ prediction
+ for
+ Google
+ and
+ I
+
+
+think
+ Meta
+ will
+ be
+ right
+ behind
+ them.
+
+
+Why?
+ They
+ have
+ the
+ ad
+ network
+ already
+
+
+built
+ and
+ they
+ know
+ in
+ that
+ fierce
+
+
+competition
+ which
+ you
+ were
+ part
+ of
+
+
+Chimoth
+ and
+ Freeberg
+ how
+ fierce
+ that
+
+
+competition
+ was
+ that
+ duopoly
+ does
+ not
+
+
+want
+ to
+ become
+ a
+ a
+ throppple
+ with
+ Sam.
+ I
+
+
+think
+ this
+ is
+ going
+ to
+ be
+ very
+ analogous
+
+
+to
+ what
+ happened
+ with
+ Netscape.
+ People
+
+
+used
+ to
+ pay
+ 50
+ bucks
+ for
+ a
+ Netscape
+
+
+browser
+ and
+ then
+ the
+ idea
+ when
+ Microsoft
+
+
+came
+ in
+ and
+ made
+ it
+ free
+ and
+ uh
+ Chrome
+
+
+became
+ free
+ and
+ Dolphin
+ browser
+ and
+ a
+
+
+million
+ other
+ uh
+ providers.
+ Same
+ thing's
+
+
+going
+ to
+ happen
+ to
+ Chat
+ GPT.
+ Right
+ now
+
+
+80%
+ of
+ the
+ revenue
+ comes
+ from
+ $20
+
+
+subscriptions.
+ That's
+ going
+ to
+ get
+
+
+decimated
+ to
+ zero.
+ I
+ don't
+ think
+
+
+consumers
+ are
+ going
+ to
+ pay
+ for
+ this
+
+
+product
+ just
+ like
+ they
+ won't
+ pay
+ for
+
+
+search
+ and
+ they
+ won't
+ pay
+ for
+ a
+ browser
+
+
+because
+ Google
+ and
+ Meta
+ will
+ make
+ it
+
+
+free.
+
+
+>> I
+ think
+ it's
+ different
+ reason
+ actually.
+
+
+The
+ reason
+ why
+ they
+ will
+ do
+ it,
+
+
+>> yeah,
+
+
+>> is
+ because
+ they
+ have
+ such
+ an
+ inordinate
+
+
+amount
+ of
+ cash
+ and
+ that
+ cash
+ is
+
+
+valueless
+ on
+ the
+ balance
+ sheet.
+
+
+>> So,
+ you
+ might
+ as
+ well
+ just
+ rip
+ it
+ in.
+ If
+
+
+you
+ look
+ at
+ the
+ companies
+ that
+ have
+
+
+>> a
+ need
+ to
+ spend
+ money
+ right
+ now,
+ it's
+
+
+Google,
+ it's
+ Microsoft,
+ it's
+ Meta,
+ it's
+
+
+Nvidia,
+
+
+and
+ maybe
+ Broadcom,
+ but
+ let's
+ just
+ keep
+
+
+Broadcom
+ out
+ of
+ it.
+ But
+ Apple's
+ there,
+
+
+too.
+
+
+>> And
+ Apple.
+
+
+>> Yeah.
+
+
+>> All
+ of
+ those
+ companies
+ have
+ so
+ much
+
+
+cash.
+ If
+ you
+ actually
+ look
+ at
+ the
+ DCF
+ of
+
+
+the
+ enterprise
+ value
+ of
+ these
+
+
+businesses,
+ it
+ gets
+ very
+ little
+ credit
+
+
+for
+ that
+ cash
+ almost
+ to
+ the
+ point
+ where
+
+
+it's
+ worthless.
+ And
+ so
+ you
+ either
+ need
+
+
+to
+ spend
+ it
+ on
+ M&A,
+ spend
+ it
+ on
+
+
+buybacks,
+ or
+ spend
+ it
+ to
+ subsidize
+ a
+
+
+product
+ so
+ that
+ you
+ can
+ maintain
+ your
+
+
+leadership
+ in
+ the
+ broader
+ market.
+ And
+ so
+
+
+what
+ you're
+ going
+ to
+ see
+ is
+ these
+ big
+
+
+companies
+ do
+ this
+ capital
+ allocation
+
+
+model
+ in
+ a
+ much
+ more
+ aggressive
+ way.
+ So
+
+
+there's
+ only
+ so
+ many
+ share
+ buybacks
+ that
+
+
+these
+ guys
+ can
+ do.
+ they
+ approve
+ 50,
+ 60,
+
+
+70,
+ 80
+ billion
+ dollars
+ in
+ buybacks.
+ It
+
+
+just
+ doesn't
+ lift
+ the
+ stock
+ price
+ the
+
+
+same
+ way
+ it
+ does
+ when
+ you
+ actually
+ show
+
+
+leadership
+ in
+ a
+ product
+ category.
+ Right.
+
+
+>> So
+ to
+ your
+ point,
+ if
+ you're
+ just
+ going
+
+
+to
+ underwrite
+ a
+ decision,
+ just
+ look
+ at
+
+
+the
+ last
+ 3
+ weeks
+ of
+ Google's
+ stock
+
+
+performance,
+ it
+ basically
+ doubled
+
+
+>> once
+ we
+ thought
+ that
+ Gemini
+ was
+
+
+incredible.
+ And
+ so
+
+
+>> if
+ you
+ want
+ to
+ make
+ Gemini
+ even
+ more
+
+
+incredible,
+ just
+ get
+ pour
+ another
+
+
+billion
+ users
+ into
+ it.
+ And
+ if
+ that
+ cost
+
+
+you
+ 50
+ billion,
+ it's
+ okay
+ because
+ you'll
+
+
+make
+ a
+ trillion
+ of
+ market
+ cap.
+ It's
+ like
+
+
+a
+ no-brainer.
+
+
+>> Yeah.
+ And
+ and
+ think
+ about
+ all
+ the
+
+
+reinforcement
+ learning
+ that
+ those
+ big
+
+
+players
+ have
+ at
+ scale.
+ I
+ think
+ it's
+
+
+going
+ to
+ be
+ just,
+
+
+>> by
+ the
+ way,
+ the
+ other
+ the
+ other
+ thing
+ is
+
+
+if
+ we're
+ playing
+ conspiracy
+ theorist,
+ I
+
+
+think
+ the
+ reason
+ why
+ Sam
+ did
+ those
+ deals
+
+
+to
+ your
+ point,
+ he
+ is
+ a
+ consumate,
+ very
+
+
+talented
+ dealmaker.
+
+
+>> Yes.
+ is
+ probably
+ because
+ he
+ needed
+ to
+
+
+continue
+ to
+ generate
+ the
+ type
+ of
+
+
+momentum
+ required
+ to
+ raise
+ the
+ quantum
+
+
+of
+ capital
+ that
+ he
+ needs.
+
+
+>> So
+ if
+ you're
+ silent,
+ it's
+ much
+ harder
+ to
+
+
+raise
+ a hundred
+ billion
+ dollars
+ and
+
+
+you're
+ shucking
+ and
+ jing
+ and
+ you're
+ just
+
+
+putting
+ a
+ lot
+ of
+ things
+ out
+ there
+ that
+
+
+could
+ convince
+ people
+ that
+ there's
+ a
+
+
+level
+ of
+ momentum
+ that's
+ worth
+
+
+underwriting
+ at
+ a
+ much
+ higher
+ valuation.
+
+
+So
+ you
+ have
+ to
+ keep
+ that
+ in
+ mind,
+ too.
+
+
+>> Yes,
+ I
+ think
+ that
+ that
+ is
+ his
+ highlevel,
+
+
+you
+ know,
+ 4D
+ chess.
+ I
+ think
+ Nvidia
+ is
+
+
+predicting
+ it
+ now.
+ I
+ think
+ Nvidia
+ is
+ not
+
+
+going
+ to
+ take
+ their
+ option
+ to
+ invest
+ in
+
+
+OpenAI
+ or
+ they're
+ going
+ to
+ really
+
+
+downgrade
+ it
+ 70
+ 80%
+ and
+ they're
+ going
+ to
+
+
+allocate
+ it
+ to
+ other
+ players.
+ Freeberg,
+
+
+any
+ final
+ thoughts
+ here
+ as
+ we
+ wrap
+ up
+ on
+
+
+this?
+
+
+>> What
+ is
+ your
+ B
+ what's
+ your
+ basis
+ for
+
+
+that
+ prediction?
+
+
+>> I
+ think
+ that
+ Nvidia
+ is
+ wants
+ to
+ own
+ more
+
+
+of
+ the
+ other
+ players.
+ I
+ do
+ actually
+ have
+
+
+a
+ basis
+ for
+ this.
+ I
+ think
+ that
+ they
+ were
+
+
+very
+ pissed
+ off
+ at
+ the
+ other
+ support
+ he
+
+
+gave
+ to
+ their
+ competitors.
+
+
+>> How
+ do
+ you
+ know
+ they
+ closed
+ that
+ deal?
+ I
+
+
+know
+ a
+ lot
+ of
+ people
+ in
+ the
+ industry.
+
+
+>> You
+ sound
+ like
+ the
+ New
+ York
+ Times.
+
+
+>> Okay.
+ Well,
+ great
+ segue.
+
+
+>> Everybody
+ knows.
+ What's
+ your
+ source?
+
+
+>> Everybody
+ reveal
+ my
+ sources
+ say
+
+
+>> sources
+ say
+
+
+>> open
+ secret.
+
+
+>> Sources
+ say
+ sorry.
+ I'll
+ just
+ let
+ me
+ just
+
+
+wrap
+ up
+ on
+ the
+ on
+ the
+
+
+>> and
+ I'll
+ just
+ I'll
+ just
+ echo
+ a
+ little
+
+
+bit
+ what
+ Jim
+ said.
+ I
+ don't
+ think
+ that
+
+
+the
+ battle
+ is
+ going
+ to
+ be
+ won
+ and
+ lost
+
+
+on
+ LLMs.
+ I
+ think
+ that
+ there's
+ several
+
+
+fronts
+ and
+ we're
+ so
+ early
+ in
+ AI.
+ It's
+
+
+not
+ going
+ to
+ necessarily
+ just
+ be
+ about
+
+
+textbased
+ token
+ production.
+
+
+These
+ non-extbased
+ models,
+ the
+ nonLLM
+
+
+models,
+ the
+ complexity
+ to
+ them
+ and
+ the
+
+
+differentiation
+ is
+ so
+ much
+ wider
+ than
+ it
+
+
+is
+ in
+ LLM.
+ Kind
+ of
+ think
+ about
+ it
+ in
+ I
+ I
+
+
+think
+ about
+ it
+ in
+ terms
+ of
+ like
+ a
+ Holde
+
+
+versus
+ Omaha
+ game.
+ Like
+ the
+ difference
+
+
+between
+ the
+ median
+ and
+ the
+ best
+ player
+
+
+in
+ an
+ Omaha
+ game
+ is
+ so
+ significant
+
+
+compared
+ to
+ the
+ median
+ and
+ the
+ best
+
+
+player
+ in
+ a
+ hold
+ game
+ because
+ it's
+ just
+
+
+so
+ much
+ more
+ complex.
+ I
+ don't
+ know if
+
+
+you
+ remember
+ this
+ guy
+ Chris
+ Ferguson.
+ He
+
+
+used
+ to
+ win
+ every
+ Omaha
+ tournament
+ back
+
+
+in
+ the
+ day
+ because
+ he
+ was
+ one
+ of
+ the
+
+
+first
+ guys
+ to
+ figure
+ it
+ out.
+ So
+ everyone
+
+
+that
+ knew
+ Holde
+ thought
+ that
+ they
+ could
+
+
+just
+ step
+ into
+ Omaha
+ and
+ because
+ he
+
+
+figured
+ out
+ how
+ to
+ do
+ Omaha,
+ he
+ just
+
+
+wrecked
+ everyone
+ consistently.
+ Anyway,
+
+
+in
+ video
+ for
+ example,
+ right,
+ they
+ use
+
+
+diffusion
+ models
+ and
+ then
+ they
+ also
+ use
+
+
+a
+ transformer
+ architecture
+ and
+ then
+ they
+
+
+use
+ these
+ convolutional
+ neural
+ networks
+
+
+to
+ create
+ structure
+ within
+ the
+ frame
+ and
+
+
+continue
+ structure
+ between
+ frames
+ and
+
+
+video.
+ There
+ are
+ multiple
+ models
+ that
+
+
+have
+ to
+ interact
+ and
+ work
+ together
+ to
+
+
+render
+ video.
+ So
+ you
+ have
+ to
+ have
+ good
+
+
+training.
+ You
+ also
+ have
+ to
+ have
+ unique
+
+
+architecture.
+ And
+ so
+ the
+ amount
+ of
+
+
+differentiation
+ that's
+ possible
+ in
+ video
+
+
+AI
+ is
+ I
+ would
+ say
+ this
+ point
+ today
+ so
+
+
+much
+ wider
+ than
+ the
+ differentiation
+ in
+
+
+textbased
+ AI
+ like
+ what
+ we
+ see
+ with
+ LLMs.
+
+
+As
+ those
+ things
+ start
+ to
+ become
+ more
+
+
+mainstream,
+ I
+ think
+ that
+ applications
+
+
+that
+ we
+ are
+ not
+ necessarily
+ thinking
+
+
+about
+ today
+ are
+ going
+ to
+ become
+ a
+ bigger
+
+
+use
+ case
+ for
+ how
+ we
+ spend
+ our
+ time.
+ And
+
+
+that
+ is
+ really
+ when
+ you'll
+ start
+ to
+ see,
+
+
+you
+ know,
+ this
+ horse
+ race
+ start
+ to
+ kind
+
+
+of
+ play
+ out
+ a
+ little
+ bit
+ more
+
+
+differently
+ than
+ it
+ does
+ today
+ where
+
+
+everything's
+ all
+ about
+ usage
+ on
+ a
+ chat
+
+
+interface.
+ We're
+ going
+ to
+ look
+ back
+ at
+
+
+that
+ one
+ day.
+ It's
+ going
+ to
+ be
+ the
+
+
+equivalent
+ of
+ everyone
+ on
+ AOL
+ Instant
+
+
+Messenger
+ or
+ Yahoo
+ Instant
+ Messenger.
+
+
+It's
+ like,
+ who
+ gives
+ a
+ That's
+ not
+
+
+really
+ where
+ the
+ game's
+ going
+ to
+ be
+
+
+played.
+
+
+>> While
+ we're
+ speaking,
+ Gemini
+ just
+
+
+released
+ Gemini
+ 3.
+ Deep
+ Think
+ is
+ here.
+
+
+So,
+ the
+ race
+ is
+ continuing
+ even
+ as
+ we're
+
+
+taping
+ the
+ show.
+ Let
+ me
+ add
+ one
+ more
+
+
+thing
+ which
+ is
+ I
+ don't know
+ just
+ a
+ few
+
+
+months
+ ago
+ on
+ this
+ show
+ maybe
+ it
+ was
+
+
+three
+ months
+ ago
+ maybe
+ it
+ was
+ six
+ months
+
+
+ago
+ we
+ were
+ all
+ like
+ giving
+ eulogies
+ for
+
+
+Google
+
+
+>> I
+ wasn't
+ I
+ was
+ not
+ I
+ took
+ the
+ other
+ side
+
+
+>> well
+ I
+ mean
+ I
+ don't
+ know
+ there
+ are
+ a
+ lot
+
+
+of
+ people
+ were
+ and
+ I
+ I
+ was
+ definitely
+
+
+>> I
+ think
+ the
+ majority
+ of
+ the
+ industry
+ was
+
+
+I
+ I
+ did
+ take
+ the
+ other
+ side
+ of
+ it
+ yeah
+
+
+>> I
+ think
+ Brag
+ Gurley
+ and
+ uh
+ sorry
+ Brad
+
+
+Gersonner
+ and
+ Bill
+ Gurley
+ were
+
+
+>> Brad
+ Gurley
+ the
+ bragly
+ show
+
+
+>> bragly
+ show
+
+
+>> it's
+ one
+ person
+
+
+>> Brad
+ Gurley
+ definitely
+ were
+ and
+ look
+ and
+
+
+the
+ argument
+ made
+ a
+ lot
+ of
+ sense
+ which
+
+
+was
+ this,
+ which
+ is
+ even
+ if
+ you
+ believe
+
+
+that
+ Google's
+ going
+ to
+ come
+ back
+ and
+
+
+have
+ a
+ credible
+ AI
+ product,
+ remember
+
+
+they
+ were
+ caught
+ completely
+ flatfooted
+
+
+by
+ this.
+ They
+ figured
+ out
+ the
+
+
+transformer
+ architecture
+ back
+ in
+ 2017,
+
+
+but
+ then
+ they
+ didn't
+ really
+ do
+ anything
+
+
+with
+ it
+ and
+ then
+ OpenAI
+ grabbed
+ on
+ to
+
+
+that
+ and
+ then
+ like
+ you
+ showed
+ on
+ that
+
+
+chart,
+ they
+ basically
+ had
+ a
+ 2-year
+ head
+
+
+start
+ on
+ LLMs.
+
+
+So,
+ a
+ lot
+ of
+ people
+ were
+ basically
+
+
+saying
+ that
+ this
+ was
+ it
+ for
+ Google
+
+
+because
+ obviously
+ LLMs
+ are
+ so
+ much
+
+
+better
+ at
+ web
+ search
+ than
+ the
+ 10
+ blue
+
+
+links.
+ And
+ moreover,
+ for
+ monetization,
+
+
+why
+ would
+ you
+ need
+ to
+ have,
+ you
+ know,
+ ad
+
+
+links
+ or
+ paid
+ links
+ in
+ an
+ LLM
+ world?
+ And
+
+
+and
+ I
+ think
+ the
+ point
+ that
+ Brad
+ and
+ Bill
+
+
+were
+ making
+ is
+ again,
+ even
+ if
+ Google
+
+
+catches
+ up,
+ they'll
+ never
+ have
+ the
+
+
+dominant
+ position
+ in
+ AI
+ that
+ they
+ have
+
+
+in
+ search.
+ It
+ still
+ might
+ be
+ true.
+ Who
+
+
+knows?
+ But
+ the
+ point
+ is
+ just
+ everyone
+
+
+was
+ saying
+ that
+ Google
+ was
+ in
+ deep
+
+
+trouble
+ just
+ I
+ don't
+ know
+ 6
+ months
+ ago
+
+
+and
+ then
+ like
+ you
+ said
+ I
+ think
+ Sergey
+
+
+came
+ back
+ and
+ that
+ gave
+ them
+ a
+ major
+
+
+shot
+ in
+ the
+ arm
+ and
+ they
+ got
+ more
+
+
+focused
+ and
+ now
+ they've
+ launched
+ what
+
+
+appears
+ to
+ be
+ the
+ best
+ or
+ one
+ of
+ the
+
+
+best
+ models
+
+
+>> a
+ competitive
+
+
+>> but
+ look
+ these
+ other
+ companies
+ there's
+
+
+there's
+ a
+ lot
+ of
+ leaprogging
+ going
+ on.
+
+
+>> I
+ think
+ really
+ importantly
+ it's
+ not
+ just
+
+
+about
+ Sergey
+ coming
+ back
+ it's
+ about
+
+
+giving
+ themselves
+ permission
+ to
+ take
+
+
+risk.
+ The
+ reason
+ Google
+ didn't
+ lead
+ into
+
+
+AI
+ for
+ years,
+ even
+ though
+ they
+ had
+ the
+
+
+technology
+ sacks,
+ is
+ because
+ they
+ were
+
+
+nervous
+ about
+ cannibalization
+ to
+ search,
+
+
+they
+ were
+ nervous
+ about
+ the
+ the
+ quality
+
+
+of
+ the
+ product.
+ They
+ didn't
+ want
+ to
+
+
+release
+ things
+ too
+ early.
+ And
+ then
+ they
+
+
+changed
+ their
+ posture
+ and
+ they
+ became
+ a
+
+
+more
+ risk-taking
+ posture.
+ And
+ that
+ gave
+
+
+them
+ the
+ permission
+ to
+ run,
+ which
+ by
+ the
+
+
+way,
+ I
+ would
+ argue
+ is
+ the
+ opposite
+ at
+
+
+OpenAI
+ in
+ the
+ last
+ couple
+ months.
+ I
+ used
+
+
+to
+ use
+ advanced
+ voice
+ on
+ chat
+ GPT
+ all
+
+
+the
+ time.
+ I
+ cannot
+ stand
+ it
+ anymore.
+ I
+
+
+do
+ not
+ use
+ it.
+ It
+ has
+ basically
+ hedged
+
+
+away
+ all
+ of
+ the
+ value
+ because
+ it
+ tries
+
+
+to
+ be
+ polite.
+ It
+ tries
+ to
+ make
+ sure
+ that
+
+
+it's
+ giving
+ you
+ warnings
+ all
+ the
+ time.
+
+
+It
+ doesn't
+ want
+ to
+ give
+ you
+ data
+ because
+
+
+it's
+ scared
+ that
+ it
+ might
+ give
+ you
+ the
+
+
+wrong
+ data.
+ You
+ can
+ see
+ it
+ used
+ to
+ give
+
+
+you
+ data
+ all
+ the
+ time.
+ I
+ cannot
+ get
+ it
+
+
+to
+ give
+ me
+ numbers
+ anymore.
+ I'm
+ like,
+
+
+give
+ me
+ the
+ numbers
+ and
+ it
+ just
+ says
+
+
+these
+ kind
+ of
+ highle
+ arching
+ statements
+
+
+and
+ I'm
+ like
+ that's
+ not
+ what
+ I
+ want.
+ I
+
+
+went
+ over
+ to
+ Gemini.
+ It
+ gave
+ me
+ the
+
+
+numbers.
+ And
+ I
+ think
+ that
+ Google's
+
+
+willingness
+ to
+ take
+ risk
+ has
+ really
+ kind
+
+
+of
+ highlighted
+ the
+ difference
+ in
+ posture
+
+
+in
+ the
+ last
+ year.
+ Chat
+ GPT
+ is
+ now
+ acting
+
+
+and
+ OpenAI
+ has
+ been
+ acting
+ like
+ an
+
+
+incumbent,
+ fearful
+ of
+ losing
+ market
+
+
+share
+ and
+ fearful
+ of
+ getting
+ attacked
+ in
+
+
+the
+ media
+ and
+ attacked
+ by
+ consumers
+ for
+
+
+saying
+ the
+ wrong
+ thing.
+ And
+ so
+ they've
+
+
+taken
+ this
+ kind
+ of
+ defensive
+ posture
+
+
+that
+ I
+ think
+ has
+ fundamentally
+ damaged
+
+
+the
+ product
+ and
+ the
+ brand.
+
+
+>> I'm
+ just
+ having
+ a
+ great
+ time
+ thinking
+
+
+about
+ I'm
+ thinking
+ about
+ Freeberg
+
+
+yelling
+ at
+ his
+ AI
+ assistant
+ in
+ his
+ car.
+
+
+It's
+ like
+ we
+ need
+ to
+ get
+ make
+ a
+ short
+
+
+out
+ of
+ that.
+ Keep
+ going.
+ Well,
+ just
+
+
+Google
+ did
+ one
+ other
+ important
+ thing.
+ I
+
+
+mean,
+ in
+ addition
+ to
+ Sergey,
+ there
+ was
+
+
+putting
+ Demis
+ Hassabis
+ in
+ charge
+ of
+ all
+
+
+of
+ AI
+ because
+ before
+ I
+ think
+ he
+ was
+ just
+
+
+in
+ charge
+ of
+ Google
+ DeepMind,
+ it
+ was
+
+
+sort
+ of
+ a
+ subset
+ and
+ then
+ they
+ put
+ him
+
+
+in
+ charge
+ of
+ the
+ overall
+ and
+ I
+ think
+
+
+that
+ made
+ a
+ huge
+ difference
+ as
+ well.
+
+
+>> Yeah.
+ And
+ the
+ PI
+ is
+ growing.
+ So,
+ the
+
+
+number
+ of
+ searches,
+ the
+ number
+ of
+
+
+queries
+ is
+ increasing
+ dramatically.
+ I
+
+
+think
+ we'll
+ have
+ 20
+ 30
+ times
+ the
+ amount
+
+
+of
+ queries
+ being
+ done
+ because
+ the
+
+
+answers
+ are
+ better.
+ It's
+ not
+ just
+
+
+queries.
+ It's
+ It's
+ not
+ just
+ queries.
+
+
+This
+ is
+ my
+ point.
+ It's
+ like
+ more
+ than
+
+
+you're
+ not
+ using
+ it
+ to
+ do
+ search
+
+
+anymore,
+ right?
+ You're
+ using
+ it
+ to
+ watch
+
+
+video.
+ You're
+ using
+ it
+ to
+ book
+ flights.
+
+
+>> Yeah.
+ The
+ agentic
+ stuff.
+ I'm
+ putting
+
+
+that
+ all
+ together.
+ So,
+ the
+ amount
+ of
+
+
+utility
+ that
+ you
+ can
+ get
+ from
+ it
+ is
+ so
+
+
+great
+ that
+ it's
+ going
+ to
+ go
+ 20x.
+ The
+
+
+same
+ thing's
+ happening
+ with
+ ride
+
+
+sharing.
+
+
+>> It's
+ more
+ than
+ just
+ search
+ is
+ the
+ whole
+
+
+point.
+ This
+ has
+ now
+ become
+ such
+ an
+
+
+instrumental
+ part
+ of
+ everything
+ we
+ do
+ in
+
+
+our
+ lives
+ and
+ it's
+ going
+ to
+ take
+ over
+
+
+more
+ of
+ how
+ we
+ spend
+ our
+ time
+ in
+ our
+
+
+lives
+ that
+ it's
+ not
+ just
+ about
+ search
+
+
+anymore.
+ It's
+ a
+ whole
+ new
+ paradigm.
+
+
+>> The
+ pie
+ will
+ be
+ 20
+ times
+ bigger.
+
+
+>> Let
+ me
+ ask
+ you
+ a
+ very
+ question.
+ Do
+ you
+
+
+think
+ that
+ OpenAI's
+ sort
+ of
+ more
+
+
+conservative
+ risk
+ posture,
+ do
+ you
+ think
+
+
+it's
+ a
+ function
+ of
+ the
+ fact
+ that
+ whether
+
+
+by
+ luck
+ or
+ design
+ they
+ decided
+ that
+ the
+
+
+consumer
+ market
+ was
+ sort
+ of
+ their
+ core
+
+
+market?
+ Whereas
+ you
+ look
+ at
+ something
+
+
+like
+ Anthropic,
+ right,
+ and
+ they've
+
+
+carved
+ out
+ enterprise,
+ but
+ if
+ you're
+ a
+
+
+consumer
+ product,
+ there's
+ so
+ many
+ more
+
+
+things
+ you
+ have
+ to
+ address
+
+
+>> and
+ you're
+ going
+ to
+ be
+ attacked
+ at
+ so
+
+
+many
+ more
+ different
+ ways.
+
+
+>> Yeah.
+ And
+ and
+ by
+ being
+ the
+ market
+
+
+incumbent,
+ it
+ actually
+ ended
+ up
+ creating
+
+
+a
+ fantastic
+ foil
+ for
+ Google
+ because
+ they
+
+
+started
+ getting
+ all
+ of
+ the
+ arrows
+ and
+
+
+slings
+ from
+ the
+ media
+ about
+ health
+
+
+advice
+ and
+ suicides
+ and
+ hallucinations
+
+
+and
+ sending
+ wrong
+ information
+ and
+ all
+
+
+the
+ risks
+ and
+ damage
+ that
+ that
+ causes.
+
+
+Meanwhile,
+ everyone's
+ ju
+ laughing
+ and
+
+
+joking
+ about
+ Google
+ and
+ ignoring
+ them.
+
+
+>> It
+ was
+ more
+ than
+ that.
+ Remember,
+
+
+remember
+ last
+ summer
+ there
+ was
+ the
+ court
+
+
+case
+ where
+ the
+ judge
+ said
+ that
+ they
+ were
+
+
+guilty
+ of
+ having
+ the
+ monopoly
+ and
+ then
+
+
+he
+ was
+ going
+ to
+ rule
+ on
+ what
+ the
+
+
+remedies
+ were
+ going
+ to
+ be.
+ And
+ I
+ think
+
+
+that
+ was
+ in
+ what
+ was
+ it
+ September
+
+
+>> and
+ the
+ judge
+ said
+ that
+ during
+ the
+
+
+summer
+ and
+ then
+ whenever
+ it
+ was
+ that
+ he
+
+
+ruled
+ on
+ the
+ remedy
+ that
+ they
+ were
+
+
+existentially
+ threatened
+ in
+ their
+ search
+
+
+business
+ and
+ so
+ everything
+ had
+ changed.
+
+
+>> Yeah.
+ I
+ mean
+
+
+>> so
+ the
+ company
+ didn't
+ get
+ broken
+ out.
+
+
+remember
+ they
+ were
+ thinking
+ about
+
+
+whether
+ to
+ spin
+ out
+
+
+>> Chrome,
+ YouTube.
+ Yeah.
+ All
+ these
+ kind
+ of
+
+
+>> in
+ a
+ way
+
+
+>> no
+ greater
+ blessing
+ has
+ ever
+ happened
+ to
+
+
+Alphabet
+ than
+ OpenAI's
+ rise.
+ And
+ I
+ think
+
+
+that
+ that
+ rise
+ not
+ only
+ did
+ it
+ create
+
+
+the
+ foil
+ for
+ Google
+ in
+ the
+ monopoly
+
+
+sense,
+ but
+ it
+ also
+ took
+ the
+ attention
+
+
+away
+ from
+ Google,
+ focused
+ it
+ on
+ Open
+ AI,
+
+
+and
+ that
+ attention
+ fundamentally
+ damaged
+
+
+OpenAI
+ strategic
+ product
+ capabilities
+
+
+because
+ they
+ had
+ to
+ start
+ to
+ be
+ so
+ much
+
+
+more
+ careful
+ about
+ what
+ they
+ said,
+ how
+
+
+they
+ said
+ it.
+ and
+ it
+ fundamentally
+
+
+damaged
+ the
+ product.
+ And
+ the
+ opposite
+
+
+was
+ happening
+ at
+ Google
+ at
+ the
+ same
+
+
+time,
+ which
+ is
+ Larry,
+ Sergey,
+ and
+ Sundar
+
+
+being
+ given
+ permission
+ by
+ the
+ board
+ to
+
+
+take
+ risk,
+ to
+ go
+ hard,
+ to
+ figure
+ this
+
+
+out.
+ And
+ boom.
+ You
+ know,
+ it's
+ amazing
+
+
+how
+ the
+ horse
+ race
+ has
+ changed.
+ Okay,
+ we
+
+
+had
+ an
+ amazing
+ time
+ in
+ Vegas.
+ I
+ want
+ to
+
+
+thank
+ our
+ friends
+ at
+ the
+ Venetian.
+ You
+
+
+guys
+ were
+ the
+ best
+ host
+ we
+ could
+ have
+
+
+ever
+ imagined.
+ What
+ VIP
+ treatment
+ you
+
+
+gave
+ the
+ besties
+ and
+ our
+ friends
+ and
+
+
+partners.
+ And
+ we
+ had
+ a
+ great
+ interview
+
+
+with
+ Molly
+ Bloom
+ from
+ Molly's
+ Game,
+ the
+
+
+movie,
+ etc.
+ Thanks
+ to
+ our
+ partners,
+
+
+Oracle,
+ OKX,
+ and
+ the
+ New
+ York
+ Stock
+
+
+Exchange
+ for
+ partnering
+ with
+ us
+ on
+ a
+
+
+very
+ successful
+ F1
+ weekend
+ in
+ Vegas.
+ And
+
+
+we
+ had
+ a
+ great
+ lunch
+ with
+ Oracle.
+
+
+Congrats
+ to
+ them
+ on
+ Red
+ Bull's
+ Big
+ Win
+
+
+in
+ Vegas
+ and
+ an
+ amazing
+ dinner
+ with
+ OKX
+
+
+where
+ my
+ new
+ bestie,
+ Jose
+ Andreas,
+ the
+
+
+chef,
+ came
+ from
+ Bizaarre
+ Meats
+ and
+ he
+
+
+cooked
+ for
+ us.
+ He
+ hung
+ out
+ with
+ us.
+ He
+
+
+play
+ a
+ little
+ cards
+ with
+ us.
+ He's
+ just
+ a
+
+
+true
+ gentleman
+ in
+ a
+ mench.
+ Uh
+ looking
+
+
+forward
+ to
+ hanging
+ out
+ with
+ Jose
+ Andreas
+
+
+a
+ little
+ more
+ in
+ the
+ future.
+ All right,
+
+
+there's
+ another
+ thing
+ that
+ went
+ on
+ this
+
+
+weekend.
+ Big
+ tech
+ story
+ and
+ at
+ the
+ risk
+
+
+of
+ being
+ a
+ little
+ naval
+ gazing
+ here.
+
+
+We're
+ going
+ to
+ cover
+ it.
+ The
+ New
+ York
+
+
+Times
+ versus
+ Mr.
+ David
+ Sachs.
+ On
+ Sunday,
+
+
+the
+ New
+ York
+ Times
+ published
+ an
+ article
+
+
+titled
+ Silicon
+ Valley's
+ man
+ in
+ the
+ White
+
+
+House
+ is
+ benefiting
+ himself
+ and
+ his
+
+
+friends.
+ Saxs
+ are
+ obviously
+ the
+ man
+
+
+they're
+ referring
+ to.
+ Five
+ reporters
+
+
+worked
+ on
+ this
+ story
+ for
+ approximately
+ 5
+
+
+months
+ is
+ what
+ we
+ hear
+ and
+ the
+ story
+
+
+attempted
+ to
+ frame
+ you
+ Sachs
+ as
+
+
+conflicted
+ first
+ that
+ your
+ firm
+ Craft
+
+
+has
+ investments
+ in
+ companies.
+ New
+ York
+
+
+Times
+ key
+ claim
+ quote
+ Mr.
+ Saxs
+ has
+
+
+positioned
+ himself
+ to
+ personally
+
+
+benefit.
+ He
+ has
+ 78
+ tech
+ investments
+
+
+including
+ at least
+ 449
+ stakes
+ in
+
+
+companies
+ with
+ ties
+ to
+ artificial
+
+
+intelligence.
+
+
+And
+ for
+ background
+ Sachs
+ Elon
+ you
+ all
+
+
+joined
+ as
+ special
+ government
+ employees
+
+
+SGES.
+ These
+ are
+ different
+ than
+ cabinet
+
+
+members
+ in
+ a
+ bunch
+ of
+ different
+ ways.
+
+
+Basically,
+ they
+ can't
+ work
+ more
+ than
+ 130
+
+
+days.
+ They're
+ allowed
+ to
+ split
+ time
+
+
+between
+ their
+ day
+ jobs
+ in
+ DC.
+
+
+They
+ don't
+ have
+ to
+ be
+ approved
+ by
+ the
+
+
+Senate.
+ And
+ they
+ provide
+ special
+
+
+expertise
+ as
+ Mr.
+ Sachs
+ is
+ doing
+ as
+ the
+
+
+Zar
+ of
+ crypto
+ and
+ AI.
+ Second
+ major
+
+
+claim,
+ raising
+ the
+ profile
+ of
+ Allin.
+
+
+Quote,
+ "Mr.
+ Sax
+ has
+ raised
+ the
+ profile
+
+
+of
+ his
+ weekly
+ podcast,
+ All
+ In
+ through
+
+
+his
+ government
+ role
+ and
+ expanded
+ the
+
+
+business,
+ which
+ is
+ super
+ hilarious
+
+
+because
+ they
+ think
+ our
+ traffic
+ peaked
+
+
+right
+ before
+ the
+ election.
+ Uh,
+ but
+ Saxs,
+
+
+uh,
+ obviously
+ you
+ got
+ a
+ ton
+ of
+ air
+
+
+cover.
+ People
+ thought
+ the
+ story
+ was
+
+
+biased
+ and
+ a
+ hit
+ job
+ and
+ it
+ fell
+ pretty
+
+
+flat.
+ What's
+ your
+ take
+ on
+ this?
+ Maybe
+
+
+take
+ us
+ behind
+ take
+ us
+ behind
+ the
+ story.
+
+
+>> Well,
+ I
+ think
+ maybe
+ a
+ good
+ place
+ to
+
+
+start
+ is
+ with
+ the
+ reaction
+ to
+ it.
+ Like
+
+
+you
+ said,
+ there
+ was
+ this
+ huge
+ outpouring
+
+
+of
+ people
+ in
+ Silicon
+ Valley
+ who
+ reacted
+
+
+in
+ a
+ way
+ that
+ showed
+ that
+ they
+
+
+understood
+ that
+ this
+ story
+ was
+ a
+ hit
+
+
+piece,
+ that
+ it
+ was
+ biased,
+ and
+ I'd
+ say
+
+
+most
+ importantly,
+ it
+ didn't
+ even
+ live
+ up
+
+
+to
+ its
+ own
+ headline.
+ It
+ didn't
+ prove
+ the
+
+
+thing
+ that
+ they
+ were
+ asserting
+ in
+ the
+
+
+headline.
+ And
+ so,
+ everyone
+ could
+ just
+
+
+see
+ on
+ its
+ face
+ that
+ it
+ was
+ a
+ hatchet
+
+
+job.
+ And
+ so,
+ everyone
+ started
+ reacting
+
+
+that
+ way.
+ And
+ it
+ was
+ nice
+ to
+ kind
+ of
+ get
+
+
+that
+ outpouring
+ of
+ support
+ from
+ so
+ many
+
+
+different
+ people
+ in
+ Silicon
+ Valley,
+
+
+including
+ many
+ of
+ the
+ companies
+ who
+ we
+
+
+just
+ talked
+ about
+ are
+ so
+ vigorously
+
+
+competing
+ with
+ each
+ other.
+ I
+ mean,
+ I
+
+
+think
+ this
+ might
+ be
+ the
+ only
+ thing
+ that
+
+
+Sam
+ and
+ Elon
+ have
+ agreed
+ on
+ in
+ the
+ last
+
+
+year.
+
+
+>> Yeah.
+
+
+>> Didn't
+ you
+ tell
+ everyone
+ to
+ put
+ these
+
+
+tweets
+ out?
+ I
+ mean,
+ like,
+
+
+>> so
+ that that
+ was
+ sort
+ of
+ the
+ next
+ that
+
+
+was
+ the
+ next
+ big
+ lie
+ that
+ the
+ media
+
+
+tried
+ to
+ perpetrate
+ was
+ somehow
+ that
+
+
+this
+ response
+ was
+ coordinated
+ by
+ me.
+ No.
+
+
+And
+ the
+ reality,
+
+
+>> by
+ the
+ way,
+ was
+ crazy
+ because
+ you
+ told
+
+
+me
+ explicitly,
+ "Stand
+ down.
+ I
+ don't
+ need
+
+
+you
+ to
+ do
+ it."
+ And
+ I
+ was
+ like, "Leroy
+
+
+Jenkins."
+ And
+ I
+ just
+ went
+ in
+ and
+ I
+ was
+
+
+like, "I'm
+ tweeting
+ about
+ this
+
+
+bullshit."
+
+
+>> No,
+ I
+ never
+ told
+ anyone
+ to
+ do
+ anything
+
+
+except
+ for
+ you
+ guys.
+ And
+ I
+ told
+ you
+ guys
+
+
+not
+ to
+ react
+ to
+ it
+ cuz
+ I
+ didn't
+ want
+ to
+
+
+striand
+ the
+ story,
+ you
+ know,
+ where
+ you
+
+
+basically
+ draw
+ even
+ more
+ attention
+ to
+
+
+it.
+ That
+ was
+ my
+ media
+ plan.
+ And
+ and
+ then
+
+
+what
+ happened
+ is
+ the
+ story
+ just
+ went
+
+
+viral
+ anyway
+ because
+ all
+ of
+ Silicon
+
+
+Valley
+ reacted
+ on
+ their
+ own
+ in
+ a
+
+
+grassroots
+ and
+ authentic
+ way
+ because
+ I
+
+
+think
+ they
+ were
+ actually
+ genuinely
+
+
+offended
+ by
+ how
+ bad
+ the
+ story
+ was,
+ how
+
+
+ridiculous
+ it
+ was
+ on
+ its
+ face.
+ And
+ so
+
+
+they
+ react
+ and
+ then
+ that
+ became
+ the
+
+
+story.
+ And
+ so
+ this
+ whole
+ coordinated
+
+
+narrative
+ became
+ in
+ a
+ way
+ part
+ of
+ the
+
+
+the
+ media
+ industry's
+ cover
+ up
+ for
+ itself
+
+
+like
+ their
+ attempt
+ to
+ explain
+ away
+ why
+
+
+everybody
+ thought
+ that
+ the
+ story
+ was
+ so
+
+
+bad.
+ Let
+ me
+ just
+ say
+ I
+ do
+ think
+ that
+
+
+this
+ outpouring
+ of
+ support
+ does
+
+
+illustrate
+ something
+ important
+ which
+ is
+
+
+just
+ how
+ much
+ power
+ and
+ respect
+ the
+ New
+
+
+York
+ Times
+ has
+ lost.
+ You
+ know
+ 10
+ years
+
+
+ago
+ if
+ the
+ New
+ York
+ Times
+ ran
+ a
+ hit
+
+
+piece
+ on
+ somebody
+ even
+ if
+ other
+ people
+
+
+didn't
+ like
+ it
+ they
+ wouldn't
+ want
+ to
+ say
+
+
+anything
+ because
+ they'd
+ be
+ afraid
+ that
+
+
+they
+ would
+ be
+ the
+ next
+ target.
+ And
+ that
+
+
+mystique
+ and
+ that
+ fear
+ has
+ completely
+
+
+broken
+ down.
+ people
+ can
+ kind
+ of
+ see
+ the
+
+
+New
+ York
+ Times
+ for
+ what
+ it
+ is,
+ which
+ is
+
+
+basically
+ a
+ bunch
+ of
+ political
+ activists
+
+
+who
+ are
+ pretending
+ to
+ be
+ reporters
+ and
+
+
+essentially
+ they
+ just
+ launder
+ the
+ point
+
+
+of
+ view
+ of
+ their
+ anonymous
+ sources
+ who
+
+
+are
+ basically
+ left-wing
+ Democrats
+
+
+and
+ try
+ to
+ portray
+ those
+ viewpoints
+ as
+
+
+somehow
+ being
+ neutral
+ or
+ objective
+
+
+truth,
+ right?
+ Because
+ they're
+ kind
+ of
+
+
+presenting
+ themselves
+ as
+ these
+ neutral
+
+
+arbiters
+ of
+ the
+ truth.
+ And
+ I
+ think
+
+
+everyone
+ can
+ kind
+ of
+ see
+ through
+ that
+
+
+sham
+ at
+ this
+ point.
+
+
+>> Yes.
+
+
+>> The
+ thing
+ they
+ started
+ with
+ was
+ the
+
+
+headline.
+
+
+>> And
+ that
+ was
+ the
+ one
+ thing
+ they
+ refused
+
+
+to
+ change
+ no matter
+ how
+ many
+ times
+ we
+
+
+refuted
+ their
+ narrative.
+ You
+ know
+ what
+
+
+they
+ would
+ do
+ is
+ every
+ couple
+ weeks
+
+
+they'd
+ send
+ us
+ a
+ new
+ fact
+ check.
+ And
+ we
+
+
+would
+ basically
+ debunk
+ it.
+ And
+ we
+ can
+
+
+show
+ you
+ some
+ of
+ those
+ fact
+ checks
+ if
+
+
+you
+ want
+ to
+ see
+ them
+ to
+ see
+ where
+ the
+
+
+story
+ started
+ and
+ what
+ they're
+ trying
+ to
+
+
+prove.
+
+
+>> Yeah,
+ let's
+ do
+ that.
+ I
+ think
+ audience
+
+
+would
+ really
+
+
+>> and
+ what
+ would
+ happen
+ is
+ every
+ time
+ we
+
+
+would
+ debunk
+ one
+ of
+ their
+ accusations,
+
+
+they
+ would
+ just
+ come
+ back
+ to
+ us
+ with
+ a
+
+
+new
+ one
+ every
+ couple
+ of
+ weeks.
+ The
+ only
+
+
+fix
+ point
+ in
+ their
+ reporting
+ was
+ this
+
+
+idea
+ that
+ I
+ had
+ to
+ have
+ these
+ conflicts
+
+
+of
+ interests
+ that
+ were
+ benefiting
+
+
+myself.
+
+
+Let
+ me
+ ask
+ you
+ a
+ question.
+ So,
+ one
+ of
+
+
+the
+ statements
+ that
+ was
+ made
+ and
+ then
+
+
+Governor
+ Nuome
+ repeated
+ it
+ at
+ Andrew
+
+
+Ross
+ Orcen
+ Steelbook
+ Conference
+
+
+yesterday
+ is
+ that
+ you
+ did
+ not
+ put
+ all
+ of
+
+
+your
+ investments
+ into
+ a
+ blind
+ trust.
+ You
+
+
+should
+ have
+ done
+ that
+ is
+ what
+ Newsome
+
+
+said
+ on
+ stage.
+ Can
+ you
+ just
+ address
+ that
+
+
+like
+ and
+ what
+ actions
+ you
+ actually
+ took
+
+
+when
+ you
+ chose
+ to
+ take
+ the
+ office?
+ What
+
+
+were
+ you
+ legally
+ required
+ to
+ take
+ and
+
+
+maybe
+ why
+ you
+ didn't
+ do
+ a
+ blind
+ trust
+ or
+
+
+maybe
+ you
+ did?
+ I
+ don't
+ know.
+
+
+>> Well,
+ no,
+ we
+ looked
+ at
+ that.
+
+
+>> Sorry,
+ S.
+ Just
+ give
+ me
+ a
+ second.
+ I
+ just
+
+
+want
+ to
+ say
+ this
+ because
+ you're
+ not
+
+
+going
+ to
+ say
+ this
+ yourself,
+ but
+ I
+
+
+remember
+ when
+ you
+ were
+ going
+ through
+
+
+this,
+ you
+ were
+ so
+ concerned
+ about
+ the
+
+
+perception
+ of
+ a
+ conflict
+ of
+ interest
+
+
+that
+ you
+ took
+ such
+ extraordinary
+
+
+measures
+ about
+ the
+ degree
+ at
+ which
+ you
+
+
+were
+ selling
+ things
+ and
+ getting
+ rid
+ of
+
+
+things
+ to
+ make
+ sure
+ that
+ you
+ could
+ do
+
+
+the
+ job
+ cleanly
+ and
+ holy.
+ I
+ watched
+ you
+
+
+do
+ this
+ and
+ I
+ watched
+ you
+ do
+ something
+
+
+that
+ I
+ thought
+ was
+ so
+ over
+ the
+ top.
+ I'm
+
+
+like,
+ "Holy
+ you
+ really
+ are
+ doing
+
+
+this
+ for
+ the
+ country."
+ And
+ I
+ was
+ so
+
+
+shocked
+ and
+ surprised
+ by
+ it.
+ And
+ I
+ just
+
+
+want
+ to
+ say
+ that
+ because
+ I've
+ observed
+
+
+it
+ and
+ they
+ still
+ came
+ out
+ with
+ this
+
+
+piece
+ which
+ was
+ so
+ shocking
+ to
+ me
+ given
+
+
+what
+ you
+ did.
+
+
+>> So
+ you
+ guys
+ know
+ what
+ I
+ went
+ through
+
+
+because
+ I
+ was
+ LPS
+ and
+ some
+ of
+ your
+ funds
+
+
+and
+ you
+ know
+ that
+ I
+ devested
+ them
+
+
+>> which
+ you
+ could
+ argue
+ was
+ above
+ and
+
+
+beyond
+ the
+ call
+ of
+ duty,
+ but
+ I
+ was
+ just
+
+
+trying
+ to
+ avoid
+ any
+ potential
+ conflict.
+
+
+And
+ that
+ I
+ think
+ is
+ the
+ central
+ lie
+ of
+
+
+this
+ piece.
+ Not
+ only
+ is
+ the
+ piece
+ not
+
+
+true,
+ it's
+ the
+ anti-truth.
+ Yeah.
+ Because
+
+
+the
+ truth
+ is
+ that
+ I
+ devested
+ hundreds
+ of
+
+
+millions
+ of
+ dollars
+ of
+ positions
+ in
+
+
+promising
+ technology
+ ventures
+ at
+ a
+
+
+substantial
+ cost
+ to
+ my
+ net
+ worth.
+ So
+ not
+
+
+only
+ is
+ this
+ job
+ not
+ benefiting
+ me,
+ it's
+
+
+actually
+ cost
+ me
+ a
+ lot
+ of
+ money
+ to
+
+
+serve,
+ but
+ I
+ did
+ it
+ because
+ it's
+ an
+
+
+honor
+ to
+ be
+ asked
+ by
+ the
+ president
+ to
+
+
+serve
+ and
+ it's
+ something
+ I
+ wanted
+ to
+ do
+
+
+and
+ I
+ thought
+ I
+ can
+ make
+ a
+ difference.
+
+
+So
+ the
+ whole
+ premise
+ here
+ is
+ just
+ false.
+
+
+And
+ the
+ New
+ York
+ Times
+ through
+ its
+ 5
+
+
+months
+ of
+ investigations
+ knew
+ this,
+ but
+
+
+they
+ just
+ refused
+ to
+ budge
+ on
+ the
+
+
+premise
+ of
+ their
+ story.
+ Now,
+ to
+ your
+
+
+question
+ here,
+ if
+ you
+ look
+ at
+ one
+ of
+ the
+
+
+the
+ key
+ paragraphs
+ that
+ Jason,
+ you
+
+
+mentioned
+ is
+ when
+ they
+ they
+ try
+ to
+
+
+mention
+ that
+ I
+ have
+ 449
+
+
+investments
+ tied
+ to
+ AI.
+ And
+ they
+ say
+
+
+their
+ investigation
+ uncovered
+ this
+ and
+
+
+some
+ of
+ their
+ reporters
+ on
+ podcasts
+ have
+
+
+tried
+ to
+ portray
+ themselves
+ as
+ Woodward
+
+
+and
+ Bernstein
+ here
+ having
+ uncovered.
+
+
+>> How
+ did
+ they
+ get
+ this
+ crazy
+ list
+ of
+
+
+companies?
+ I
+ wonder
+
+
+>> I
+ disclosed
+ them.
+ They
+ didn't
+ uncover
+
+
+them.
+ I
+ disclosed
+ them.
+ They're
+ in
+ my
+
+
+>> available
+ to
+ everyone.
+
+
+>> They're
+ on
+ the
+ White
+ House
+ website
+ in
+ my
+
+
+ethics
+ letter.
+ So,
+ every
+ government
+
+
+employee,
+ whether
+ you're
+ a
+ full-time
+ or
+
+
+SG,
+ files
+ disclosures
+ with
+ the
+
+
+government
+ and
+ my
+ ethics
+ letters
+
+
+basically
+ contained
+ these
+ pages
+ and
+
+
+pages
+ of
+ all
+ these
+ different
+ positions.
+
+
+Now
+ in
+ that
+ ethics
+ letter
+ they
+ said
+ that
+
+
+I
+ had
+ devested
+ I
+ had
+ initiated
+ or
+
+
+completed
+ devestment
+ of
+ over
+ 99%
+
+
+of
+ the
+ positions
+ that
+ could
+ pose
+ a
+
+
+conflict
+ for
+ AI
+ and
+ it's
+ in
+ there
+ and
+
+
+this
+ is
+ where
+ I
+ think
+ you
+ know
+ again
+
+
+they
+ were
+ very
+ deceptive
+ is
+ it
+ was
+ the
+
+
+OG
+ the
+ office
+ of
+ government
+ ethics
+ the
+
+
+career
+ civil
+ servants
+ the
+ lawyers
+ the
+
+
+accountants
+ at
+ OG
+ who
+ approved
+ that
+
+
+letter
+ and
+ all
+ the
+ contents
+ of
+ that
+
+
+letter
+ who
+ reviewed
+ all
+ those
+
+
+disclosures
+ and
+ they're
+ the
+ ones
+ who
+
+
+concluded
+ that
+ I
+ did
+ not
+ have
+ any
+
+
+conflicts.
+ So
+ really
+ what
+ the
+ New
+ York
+
+
+Times'
+ beef
+ is
+ with
+ the
+ career
+ civil
+
+
+servants
+ at
+ OG.
+
+
+>> Maybe
+ walk
+ us
+ through
+ what
+ you
+ actually
+
+
+did
+ do.
+ Why
+ did
+ you
+ didn't
+ do
+ the
+ blind
+
+
+trust
+ and
+ and
+ help
+ us
+ get
+ the
+ context
+
+
+there.
+
+
+>> So
+ on
+ the
+ blind
+ trust.
+ So
+ it's
+ kind
+ of
+
+
+funny.
+ One
+ of
+ the
+ New
+ York
+ Times
+
+
+reporters
+ was
+ talking
+ about
+ this
+ on
+ a
+
+
+podcast
+ which
+ is
+ where
+ I
+ think
+ Newsome
+
+
+picked
+ it
+ up
+ from.
+ My
+ ethics
+ lawyer
+ who
+
+
+teaches
+ a
+ course
+ on
+ conflicts
+ of
+
+
+interest
+ at
+ Harvard
+ said
+ that
+ that
+
+
+reporter
+ should
+ really
+ take
+ his
+ course
+
+
+because
+ he
+ would
+ actually
+ learn
+
+
+something
+ about
+ the
+ the
+ conflicts
+ laws.
+
+
+The
+ blind
+ trust
+ idea
+ is
+ rarely
+ used
+ and
+
+
+in
+ my
+ case
+ it
+ would
+ not
+ have
+ worked
+
+
+because
+ I
+ have
+ minor
+ children.
+ You
+ can
+
+
+only
+ use
+ the
+ blind
+ trust
+ to
+ have
+ your
+
+
+kids
+ be
+ beneficiaries
+ if
+ they're
+ adults.
+
+
+That's
+ the
+ way
+ the
+ conflict
+ laws
+ work.
+
+
+So
+ it
+ just
+ wasn't
+ even
+ applicable
+ in
+ my
+
+
+case.
+ And
+ what
+ I
+ did
+ instead
+ of
+ creating
+
+
+a
+ blind
+ trust
+ is
+ I
+ devested
+ the
+
+
+positions
+
+
+>> at
+ great
+ cost
+
+
+said
+ were
+ a
+ conflict
+ at
+ a
+ discount
+ to
+
+
+their
+ fair
+ market
+ value
+ in
+ the
+ case
+ of
+
+
+my
+ LP
+ interest
+ and
+ all
+ these
+ funds.
+ I
+
+
+devested
+ almost
+ a
+ hundred
+ funds
+ that
+ I
+
+
+had
+ invested
+ in,
+ venture
+ funds,
+ things
+
+
+like
+ that,
+ angel
+ funds
+
+
+>> at
+ roughly
+ a
+ 50%
+ discount
+ to
+ their
+ fair
+
+
+market
+ value
+ because
+
+
+>> that's
+ insane
+
+
+>> because
+ well
+ they're
+ private
+
+
+investments,
+ right?
+ And
+ you
+ know
+ that
+
+
+selling
+ an
+ LP
+ interest
+ in
+ a
+ fund,
+
+
+there's
+ no
+ liquid
+ market
+ for
+ that.
+
+
+>> So
+ in
+ order
+ to
+ even
+ find
+ a
+ buyer,
+ you
+
+
+have
+ to
+ make
+ it
+ super
+ attractive
+ for
+
+
+them.
+
+
+>> God.
+
+
+>> And
+ then
+ I
+ sold
+ you
+ know
+ XAI,
+ I
+ sold
+ my
+
+
+interest
+ in
+ in
+ Grock
+ and
+ those
+ were
+ all
+
+
+at
+ substantial
+ discounts
+ to
+ the
+ next
+
+
+round
+ which
+ has
+ now
+ taken
+ place.
+ So
+
+
+joining
+ the
+ government
+ is
+ not
+ a
+
+
+money-making
+ scheme.
+ The
+ simplest
+ way
+
+
+for
+ me
+ to
+ make
+ more
+ money
+ would
+ have
+
+
+just
+ been
+ to
+ keep
+ doing
+ what
+ I
+ was
+
+
+doing.
+
+
+>> Yeah.
+ Right.
+
+
+>> Just
+ go
+ back
+ to
+ the
+ 449.
+ So
+ again,
+
+
+they're
+ kind
+ of
+ pretending
+ like
+ they
+ did
+
+
+this
+ unbelievable
+ investigation
+ and
+ they
+
+
+find
+ the
+ the
+ 449.
+ Can
+ you
+ just
+ put
+ up
+
+
+this
+ paragraph
+ on
+ on
+ the
+ screen
+ here?
+
+
+Because
+ really
+ every
+ sentence
+ in
+ this
+
+
+paragraph
+ kind
+ of
+ reveals
+ the
+ sham
+ of
+
+
+this
+ story.
+ Mr.
+ Sax
+ has
+ positioned
+
+
+himself
+ to
+ personally
+ benefit.
+ Not
+ true.
+
+
+I
+ mean,
+ I
+ was
+ already
+ an
+ investor
+ in
+ all
+
+
+these
+ companies
+ and
+ I
+ positioned
+ myself
+
+
+to
+ devest.
+ Then
+ it
+ says
+ I
+ had
+ 449
+ stakes
+
+
+in
+ companies
+ with
+ ties
+ to
+ artificial
+
+
+intelligence.
+ By
+ the
+ way,
+ that
+ whole
+
+
+phrase
+ ties
+ to
+ is
+ total
+ journalism
+
+
+weasel
+ words
+ because
+ ties
+ to
+ can
+ mean
+
+
+anything
+ and
+ every
+ company
+ in
+ the
+
+
+economy
+ is
+ going
+ to
+ have
+ ties
+ to
+
+
+artificial
+ intelligence.
+ And
+ then
+ they
+
+
+said
+ could
+ be
+ aided
+ directly
+ or
+
+
+indirectly.
+ That
+ is
+ not
+ what
+ a
+ conflict
+
+
+of
+ interest
+ is.
+ The
+ standard
+ is
+ having
+ a
+
+
+direct
+ and
+ predictable
+ effect
+ on
+ an
+
+
+interest.
+ Not
+ indirect.
+ And
+ there's
+
+
+nothing
+ in
+ that
+ story
+
+
+that
+ shows
+ that
+ I
+ had
+ a
+ direct
+ benefit.
+
+
+>> This
+ article
+ has
+ nothing
+ to
+ do
+ with
+
+
+everything
+ you
+ guys
+ just
+ spent
+ all
+ this
+
+
+time
+ talking
+ about.
+
+
+>> Okay?
+
+
+>> There
+ is
+ nothing
+ here.
+ Okay?
+ There
+ was
+
+
+no
+ crime
+ here.
+ There's
+ no
+ smoke
+ here.
+
+
+There's
+ no
+ fire
+ here.
+
+
+What
+ you
+ did
+ get
+ right
+ though
+ is
+ the
+
+
+headline
+ was
+ the
+ goal.
+ And
+ what
+ is
+ the
+
+
+goal
+ of
+ that
+ headline?
+ The
+ goal
+ of
+ that
+
+
+headline
+ is
+ to
+ insinuate
+ and
+ to
+ pressure
+
+
+Sachs,
+ but
+ subtly
+ it's
+ to
+ pressure
+
+
+everyone
+ else
+ that
+ looks
+ like
+ Sachs.
+
+
+Now,
+ what
+ does
+ it
+ mean
+ to
+ look
+ like
+
+
+Sachs?
+ It's
+ not
+ just
+ about
+ Republican
+
+
+folks.
+ This
+ could
+ be
+ a
+ Democratic
+ person
+
+
+as
+ well
+ in
+ the
+ future.
+ You're
+ in
+
+
+industry.
+ You
+ know
+ something
+ very
+
+
+specific.
+ You've
+ done
+ very
+ well
+ applying
+
+
+that
+ knowledge.
+ Now
+ all
+ of
+ a
+ sudden
+
+
+you're
+ in
+ a
+ position
+ where
+ you
+ could
+ go
+
+
+and
+ positively
+ impact
+ the
+ trajectory
+ of
+
+
+the
+ United
+ States.
+ You're
+ asked
+ by
+ the
+
+
+then
+ sitting
+ president
+ of
+ the
+ United
+
+
+States
+ to
+ do
+ something.
+ What
+ this
+
+
+article
+ does
+ is
+ it
+ tries
+ to
+ intimidate
+
+
+those
+ kinds
+ of
+ people
+ to
+ say,
+ "Wow,
+ this
+
+
+is
+ not
+ worth
+ it.
+ This
+ is
+ just
+ too
+ much
+
+
+of
+ a
+ headache."
+ The
+ whole
+ point
+ was
+ the
+
+
+headline
+ and
+ the
+ whole
+ point
+ was
+ to
+ get
+
+
+enough
+ chatter
+ about
+ the
+ headline
+ so
+
+
+that
+ people
+ like
+ Sachs
+ and
+ then
+ other
+
+
+people
+ in
+ the
+ future
+ just
+ say,
+ "You
+ know
+
+
+what?
+
+
+>> I'm
+ not
+ going
+ to
+ try
+ this."
+ And
+ what
+ do
+
+
+they
+ want
+ instead?
+ What
+ they
+ want
+
+
+instead
+ are
+ people
+ that
+ they
+ can
+ work
+
+
+with
+ very
+ closely
+ and
+ ultimately
+ co-opt.
+
+
+If
+ you
+ look
+ at
+ people
+ like
+ Zoron
+ Mumdani
+
+
+who's
+ beloved
+ by
+ the
+ New
+ York
+ Times
+ or
+
+
+if
+ you
+ look
+ at
+ Lena
+ Khan
+ who's
+ beloved
+
+
+by
+ the
+ New
+ York
+ Times
+ as
+ well,
+ what's
+
+
+the
+ through
+ line?
+ It's
+ a
+ total
+ and
+
+
+complete
+ lack
+ of
+ experience.
+ And
+ so
+ what
+
+
+you're
+ creating
+ is
+ essentially
+ a
+ very
+
+
+simple
+ litmus
+ test.
+ If
+ you
+ have
+
+
+experience,
+ we're
+ going
+ to
+ paint
+ you
+ as
+
+
+conflicted.
+ So
+ stay
+ away.
+ But
+ if
+ you're
+
+
+completely
+ inexperienced
+ and
+ have
+ no
+
+
+experience
+ whatsoever,
+ have
+ never
+ done
+
+
+anything
+ and
+ you're
+ probably
+ going
+ to
+
+
+screw
+ it
+ up.
+ but
+ at least
+ you'll
+ be
+ in
+
+
+our
+ pocket.
+ We'll
+ work
+ with
+ you
+ and
+ so
+
+
+we
+ will
+ leave
+ you
+ alone.
+ That
+ is
+ the
+
+
+point
+ of
+ this
+ article
+ and
+ that
+ is
+ what
+
+
+is
+ on
+ trial
+ here.
+ And
+ I
+ think
+ what
+ we
+
+
+all
+ need
+ to
+ do
+ is
+ understand
+ that
+ simple
+
+
+thing
+ and
+ push
+ back
+ on
+ it.
+ Not
+ just
+ if
+
+
+you're
+ a
+ Republican,
+ but
+ also
+ if
+ you're
+
+
+a
+ Democrat
+ because
+ there
+ are
+ tons
+ of
+
+
+really
+ smart
+ people
+ on
+ both
+ sides
+ that
+
+
+will
+ eventually
+ be
+ asked
+ to
+ do
+ something
+
+
+for
+ the
+ United
+ States
+ and
+ you
+ need
+ to
+
+
+ignore
+ the
+ idiots
+ at
+ the
+ New
+ York
+ Times
+
+
+and
+ do
+ it.
+ Yeah,
+ this
+ is
+ well
+ said
+ and
+
+
+this
+ literally
+ was
+ going
+ to
+ be
+ the
+ the
+
+
+point
+ I
+ was
+ going
+ to
+ make
+ as
+ well,
+ which
+
+
+is
+ we're
+ we're
+ setting
+ up
+ two
+ worlds.
+ Do
+
+
+you
+ want
+
+
+>> otherwise
+ you
+ will
+ only
+ Exactly.
+ You'll
+
+
+only
+ have
+ inexperienced
+ morons
+ in
+ the
+
+
+government
+ even
+ help.
+
+
+>> It
+ doesn't.
+ And
+ here's
+ ex
+ such
+ a
+ good
+
+
+point
+ that
+ we
+ have
+ a
+ choice
+ right
+ now.
+
+
+Do
+ we
+ want
+ to
+ have
+ lawyers
+ and
+ academics
+
+
+with
+ no
+ experience
+ in
+ the
+ real
+ world
+
+
+setting
+ policy
+ in
+ Washington
+ DC
+ or
+ do
+
+
+you
+ want
+ to
+ have
+ experts?
+ Do
+ you
+ want
+
+
+more
+ Mike
+ Bloombergs?
+ Do
+ you
+ want
+ more
+
+
+Jeff
+ Bezos,
+ more
+ David
+ Sachs,
+ more
+
+
+Bessant,
+ also
+ a
+ Democrat?
+ Lutnik,
+ also
+
+
+previously
+ a
+ Democrat.
+ We
+ want
+ the
+
+
+smartest
+ people
+ in
+ Washington
+ DC.
+ That's
+
+
+what
+ the
+ founders
+ wanted.
+ The
+ founding
+
+
+fathers
+ of
+ this
+ country
+ wanted
+ people
+ to
+
+
+do
+ short
+ stints.
+ We
+ want
+ short
+ stints.
+
+
+We
+ don't
+ want
+ career
+ politicians
+ like
+
+
+Nancy
+ Pelosi
+ or,
+ you
+ know,
+ Mitch
+
+
+McConnell
+ in
+ there
+ for
+ 30,
+ 40,
+ 600
+
+
+years.
+
+
+Like
+ literally
+ these
+ people
+ are
+ like
+
+
+look
+ like
+ zombies
+ in
+ Washington
+ DC.
+
+
+They're
+ glitching
+ out.
+ We
+ want
+ people
+ in
+
+
+their
+ prime
+ of
+ their
+ careers
+ to
+ go
+ in
+
+
+there
+ chimoff
+ like
+ you're
+ saying
+ and
+
+
+kick
+ ass
+ for
+ us
+ for
+ four
+ or
+ eight
+ years
+
+
+and
+ then
+ come
+ back.
+ By
+ the
+ way,
+
+
+everybody
+ benefits
+ when
+ you
+ go
+ to
+
+
+Washington
+ DC
+ and
+ you
+ make
+ some
+
+
+connections.
+ Of
+ course,
+ when
+ the
+
+
+Clintons
+ left
+ office,
+ what
+ did
+ they
+ do?
+
+
+Clinton
+ Foundation
+ book
+ deals,
+ Obama's
+
+
+book
+ deals,
+ Netflix
+ deals.
+ Everybody
+
+
+gets
+ a
+ little
+ shine
+ when
+ they
+ come
+ out.
+
+
+That's
+ natural
+ when
+ you
+ come
+ out.
+ But
+ we
+
+
+want
+ the
+ best
+ and
+ brightest
+ there.
+ It's
+
+
+a
+ gift
+ that
+ you
+ went
+ there,
+ Sachs.
+ It's
+
+
+a
+ gift.
+
+
+>> I
+ think
+ Yeah,
+ we
+ can
+ debate
+ all
+ these
+
+
+issues.
+ And
+ yes,
+ civil
+ servants
+ should
+
+
+be
+ under
+ scrutiny.
+ Whether
+ it's
+ Lena
+
+
+Khan
+ or
+ USA,
+ people
+ should
+ be
+ held
+ to
+
+
+account
+ for
+ anything
+ they're
+ doing.
+ You
+
+
+did
+ it
+ right.
+ YOU
+ WENT
+ ABOVE
+ AND
+ BEYOND.
+
+
+And
+ now
+ they're
+ trying
+ to
+ punish
+ you
+ and
+
+
+they're
+ trying
+ to
+ dissuade
+ the
+ next
+
+
+group
+ of
+ great
+ Americans
+ from
+ going
+
+
+there.
+
+
+>> Yeah.
+ Well,
+ thank
+ you.
+ Yeah.
+ Go
+ ahead.
+
+
+>> There
+ are
+ two
+ quotes
+ from
+ Thomas
+
+
+Jefferson.
+ I'll
+ just
+ read
+ because
+ I
+
+
+think
+ it's
+ actually
+ very
+ important.
+
+
+He
+ said
+ in
+ a
+ letter
+ in
+ 1788,
+ I
+ apprehend
+
+
+that
+ the
+ total
+ abandonment
+ of
+ the
+
+
+principle
+ of
+ rotation
+ in
+ the
+ elected
+
+
+offices
+ will
+ end
+ in
+ abuse.
+ And
+ then
+ he
+
+
+also
+ later
+ said
+ in
+ 1809,
+ nature
+ intended
+
+
+me
+ for
+ the
+ tranquil
+ pursuits
+ of
+ science,
+
+
+which
+ is
+ what
+ he
+ was
+ into
+ by
+ rendering
+
+
+them
+ my
+ supreme
+ delight.
+ But
+ the
+
+
+enormities
+ of
+ the
+ times
+ in
+ which
+ I
+ have
+
+
+lived
+ have
+ forced
+ me
+ to
+ take
+ a
+ part
+ in
+
+
+resisting
+ them
+ and
+ to
+ commit
+ myself
+ on
+
+
+the
+ boisterous
+ ocean
+ of
+ political
+
+
+passions.
+
+
+The
+ founding
+ fathers
+ to
+ your
+ point
+ Jal
+
+
+and
+ Chimath
+ were
+ vehemently
+ committed
+ to
+
+
+the
+ United
+ States
+ being
+ a
+ free
+ market,
+
+
+being
+ a
+ place
+ where
+ people
+ could
+ pursue
+
+
+with
+ absolute
+ liberty
+ their
+ interests
+ in
+
+
+business,
+ in
+ science,
+ in
+ life.
+ And
+ the
+
+
+action
+ of
+ political
+ office
+ of
+ getting
+
+
+elected
+ to
+ a
+ political
+ office
+ was
+ out
+ of
+
+
+a
+ requirement
+ to
+ serve
+ out
+ of
+ civil
+
+
+service
+ to
+ this
+ country
+ service
+ to
+ the
+
+
+nation
+ and
+ service
+ to
+ the
+ enablement
+ of
+
+
+the
+ freedoms
+ that
+ allow
+ us
+ to
+ do
+ the
+
+
+things
+ that
+ we
+ choose
+ and
+ want
+ to
+ do.
+
+
+And
+ if
+ you
+ look
+ at
+ the
+ wealth
+ that's
+
+
+been
+ accumulated
+ by
+ these
+ career
+
+
+politicians,
+
+
+it
+ is
+ no
+ surprise
+ that
+ they
+ are
+
+
+attacking
+ Sachs
+ and
+ Bessant
+ and
+ Lenik
+
+
+and
+ Kelly
+ Laughler
+ and
+ all
+ of
+ these
+
+
+other
+ elected
+ or
+ appointed
+ officials
+ in
+
+
+this
+ government
+ who
+ have
+ had
+ success
+ in
+
+
+private
+ life
+ and
+ who
+ have
+ chosen
+ out
+ of
+
+
+a
+ commitment
+ to
+ patriotism
+ to
+ spend
+
+
+their
+ time
+ rather
+ than
+ making
+ money
+ in
+
+
+private
+ life.
+ they
+ have
+ enough
+ money
+ but
+
+
+to
+ try
+ and
+ get
+ the
+ government
+ and
+ the
+
+
+country
+ on
+ the
+ track
+ that
+ they
+ hope
+ it
+
+
+will
+ go
+ on.
+ And
+ I
+ think
+ that
+ that
+ is
+ the
+
+
+key
+ difference
+ between
+ those
+ who
+ see
+
+
+this
+ article
+ for
+ what
+ it
+ is
+ and
+ those
+
+
+who
+ read
+ it
+ to
+ reaffirm
+ their
+ I
+ would
+
+
+say
+ violent
+ opposition
+ to
+ what
+ is
+ this
+
+
+current
+ administration
+ and
+ the
+ challenge
+
+
+that's
+ ahead.
+ So,
+ I
+ think
+ it's
+ a
+ real
+
+
+roar
+ shock
+ test
+ when
+ you
+ read
+ these
+
+
+articles
+ and
+ you
+ look
+ at
+ Sachs
+ and
+
+
+others
+ in
+ this
+ administration
+ and
+ the
+
+
+choices
+ that
+ they've
+ made
+ to
+ say,
+ are
+
+
+they
+ doing
+ it
+ to
+ grift
+ or
+ are
+ they
+ doing
+
+
+it
+ because
+ they
+ don't
+ need
+ to
+ grift?
+ Let
+
+
+me
+ just
+ also
+ say
+ this,
+ proof
+ is
+ in
+ the
+
+
+pudding.
+ If
+ we
+ send
+ experts
+ to
+
+
+Washington
+ DC,
+ if
+ you
+ look
+ at
+ Sax's
+
+
+early
+ track
+ record,
+ you
+ got
+ the
+ stable
+
+
+coin
+ stuff
+ done.
+ We
+ just
+ talked
+ about
+
+
+how
+ competitive
+ the
+ AI
+ market
+ is.
+ We
+
+
+talked
+ about
+ building
+ more
+ energy.
+ This,
+
+
+you
+ know,
+ and
+ again,
+ I
+ disagree
+ with
+ a
+
+
+lot
+ of
+ the
+ things
+ in
+ the
+ Trump
+
+
+administration.
+ The
+ thing
+ I
+ don't
+
+
+disagree
+ with
+ and
+ I
+ fully
+ endorse
+ is
+ the
+
+
+experts
+ and
+ the
+ great
+ job
+ they're
+ doing.
+
+
+Howard
+ Lutnick's
+ crushing
+ it.
+ You're
+
+
+crushing
+ it.
+ All
+ these
+ regulations
+ that
+
+
+you've
+ gotten
+ done
+ early
+ and
+ often
+ are
+
+
+making
+ crypto
+ legal,
+ a
+ legal
+ framework
+
+
+for
+ crypto,
+ which
+ by
+ the
+ way,
+ the
+ last
+
+
+two
+ administrations,
+ the
+ 45th
+ and
+ the
+
+
+46th
+ didn't
+ get
+ done.
+ You
+ got
+ it
+ done
+ in
+
+
+six
+ months,
+ right?
+ There's
+ already
+ a
+
+
+track
+ record
+ here.
+ If
+ you
+ send
+ experts,
+
+
+they'll
+ get
+ expert
+ done
+ on
+ time
+ on
+ on
+ on
+
+
+startup
+ speed.
+ So
+ like
+ what?
+ Let's
+ talk
+
+
+about
+ the
+ results
+ as
+ well.
+
+
+>> Yeah.
+ I
+ mean,
+ look,
+ they
+ don't
+ want
+ the
+
+
+results.
+ I
+ mean,
+ they
+ consider
+ the
+
+
+results
+ to
+ be
+ a
+ negative.
+ And
+ what
+
+
+they're
+ trying
+ to
+ do
+ is
+ criminalize
+
+
+policy
+ disagreements.
+ That's
+ really
+
+
+what's
+ going
+ on.
+ Now,
+ at
+ one
+ point,
+ my
+
+
+comm's
+ person
+ who
+ was
+ dealing
+ with
+ the
+
+
+New
+ York
+ Times
+ asked
+ them,
+ you
+ know,
+
+
+what
+ friends
+ are
+ you
+ talking
+ about?
+ Like
+
+
+what
+ friends
+ did
+ he
+ benefit?
+ And
+ they
+
+
+couldn't
+ name
+ a
+ specific
+ one.
+ I
+ think
+
+
+this
+ is
+ why
+ you
+ guys
+ why
+ they
+ mentioned
+
+
+all
+ in
+ tequila
+ and
+ the
+ all-in
+ summit
+ is
+
+
+I
+ think
+ maybe
+ they're
+ trying
+ to
+ portray
+
+
+you
+ guys
+ as
+ the
+ friends
+ who
+ benefited
+
+
+somehow
+ we
+ sold
+ more
+ say
+ I
+ summit.
+
+
+>> Let
+ me
+ just
+ say
+ one
+ thing
+ on
+ allin.
+ We
+
+
+can't
+ get
+ speakers
+ to
+ come
+ on
+ the
+ show
+
+
+because
+ of
+ the
+ association
+ with
+ the
+
+
+Trump
+ administration.
+ We
+ lost
+ money
+ on
+
+
+that
+ event
+ in
+ June
+ that
+ I
+ spent
+ 12
+ days
+
+
+of
+ my
+ life
+ working
+ on.
+ It
+ was
+ a
+ pain
+ in
+
+
+my
+ ass.
+ There
+ was
+ no
+ personal
+ benefit
+ to
+
+
+us
+ for
+ any
+ of
+ this.
+ There's
+ no
+ grifting
+
+
+going
+ on.
+ It's
+ honestly
+ a
+ pain
+ in
+ the
+
+
+ass.
+ We
+ do
+ it
+ for
+ Sachs
+ because
+ he
+
+
+wanted
+ us
+ to
+ help
+ him
+ out
+ with
+ putting
+
+
+that
+ event
+ on.
+
+
+Saxs,
+ now
+ you're
+ part
+ time
+ on
+ the
+ show.
+
+
+We
+ have
+ You're
+ here.
+
+
+>> From
+ the
+ get-
+ go,
+ it
+ was
+ a
+ nonprofit
+
+
+event.
+ We
+ did
+ not
+ sell
+ tickets.
+ We
+ gave
+
+
+them
+ all
+ away
+ for
+ free.
+ If
+ we
+ wanted
+ to
+
+
+make
+ money,
+ you
+ sell
+ tickets.
+ We
+ didn't
+
+
+do
+ that.
+
+
+>> Two
+ sponsors
+ that
+ put
+ money
+ in
+ to
+ help
+
+
+defay
+ the
+ cost
+ cuz
+ we
+ spent
+ like
+ a
+
+
+million
+ plus
+ dollars
+ on
+ this
+ thing.
+ They
+
+
+got
+ their
+ logo
+ on
+ the
+ video.
+ Not
+ even
+ in
+
+
+the
+ live
+ event.
+ It
+ was
+ just
+ on
+ the
+ video
+
+
+when
+ we
+ put
+ it
+ on
+ YouTube,
+ which
+ was
+ our
+
+
+>> Disc.
+ Let's
+ move
+ on.
+ Disgot
+ the
+ odd
+ to
+
+
+the
+ New
+ York
+ Times.
+
+
+>> But
+ there's
+ no
+ benefit
+ to
+ all
+ in.
+
+
+>> There's
+ no
+ benefit
+ to
+ all
+ in.
+ and
+ and
+
+
+and
+ the
+ fact
+ that
+ they
+ had
+ to
+ throw
+ that
+
+
+in
+ kind
+ of
+ show
+ if
+ you
+ ask
+ me,
+ but
+ yeah,
+
+
+I
+ concur.
+
+
+>> It's
+ because
+ they
+ kitchen
+ sink
+ this
+
+
+thing
+ to
+ try
+ and
+ create
+ the
+ illusion
+
+
+that
+ there
+ was
+ something
+ there.
+
+
+>> All
+ right.
+ So,
+ we
+ knew
+ this
+ would
+ take
+
+
+over
+ the
+ show
+ because
+ we're
+ all
+ hot
+ onto
+
+
+the
+ collar
+ and
+ we
+ all
+ know
+ you're
+ doing
+
+
+a
+ great
+ job
+ there.
+ We
+ want
+ more
+ experts.
+
+
+The
+ job
+ description
+ is
+ to
+ have
+ us
+ win
+
+
+AI.
+
+
+>> Yes,
+ that's
+ what
+ they're
+ accusing
+ me
+ of
+
+
+is
+ basically
+ doing
+ my
+ job.
+
+
+>> Congratulations.
+ You
+ did
+ a
+ great
+ job
+ and
+
+
+now
+ we're
+ going
+ to
+ lie
+ about
+ you
+ in
+ the
+
+
+New
+ York
+ Times.
+ But
+ you're
+ friends
+ with
+
+
+Jensen
+ Hang
+ and
+ now
+ Jensen
+ can
+ sell
+
+
+chips.
+
+
+>> Oh
+ my
+ god.
+
+
+>> Do
+ you
+ want
+ to
+ show
+ the
+ fact
+ check?
+ It's
+
+
+so
+ crazy.
+
+
+>> It's
+ crazy.
+
+
+>> The
+ fact
+ check.
+
+
+>> This
+ guy
+ is
+ the
+ CEO
+ of
+ the
+ largest
+
+
+company
+ in
+ the
+ world
+ for
+ years.
+
+
+>> He's
+ been
+ meticulously
+ designing
+ these
+
+
+chips
+ for
+ 30
+ years.
+ Before
+ Before
+ Sax
+
+
+could
+ even
+ spell
+ H100,
+ he
+ had
+ made
+ them
+
+
+>> for
+ gamers.
+ He
+ was
+ making
+ video
+ game
+
+
+cards
+
+
+ago.
+
+
+>> Okay,
+ wait.
+ We
+ got
+ I
+ got
+ to
+ show
+ this
+ an
+
+
+example
+ of
+ how
+ dishonest
+ they
+ are.
+ So,
+
+
+they
+ would
+ send
+ us
+ these
+ fact
+ checks
+
+
+every
+ couple
+ weeks.
+ Okay.
+
+
+>> Okay.
+ So,
+ here's
+ the
+ real
+ email,
+ Sachs.
+
+
+They
+ were
+ sending
+ you
+ bullet
+ point
+ after
+
+
+bullet
+ points.
+ This
+ section
+ starts
+ at
+
+
+bullet
+ point
+ number
+ 33.
+ It's
+ obviously
+
+
+one
+ of
+ many
+ emails
+ you
+ got.
+
+
+>> What
+ they
+ do
+ in
+ these
+ fact
+ checks
+ is
+
+
+they
+ basically
+ take
+ the
+ story
+ that
+
+
+they're
+ planning
+ to
+ write
+ and
+ just
+ break
+
+
+it
+ up
+ into
+ chunks
+ and
+ then
+ they
+ give
+ you
+
+
+like
+ 24
+ hours
+ to
+ respond
+ to
+ each
+
+
+sentence
+ or
+ paragraph
+ and
+ say
+ whether
+
+
+you
+ know
+ you
+ agree
+ or
+ disagree
+ with
+ it
+
+
+and
+ give
+ you
+ the
+ chance
+ to
+ make
+ a
+
+
+statement.
+ That's
+ what
+ a
+ fact
+ check
+ is.
+
+
+So
+ this
+ is
+ the
+ story
+ they
+ were
+ planning
+
+
+on
+ writing
+ which
+ is
+ in
+ the
+ spring
+ Sax
+
+
+had
+ dinner
+ with
+ Nvidia
+ CEO
+ Jensen
+ Wong
+
+
+in
+ Washington.
+ They
+ discussed
+ several
+
+
+foreign
+ export
+ issues.
+ During
+ the
+ dinner
+
+
+Sax
+ heard
+ a
+ convincing
+ counterargument
+
+
+that
+ selling
+ American
+ chips
+ to
+ rivals
+
+
+including
+ China
+ will
+ get
+ those
+ nations
+
+
+hooked
+ on
+ US
+ tech.
+ Sachs
+ then
+ took
+ that
+
+
+argument
+ to
+ the
+ White
+ House
+ and
+ pushed
+
+
+officials
+ to
+ eliminate
+ binary
+
+
+restrictions
+ etc
+ etc.
+ There's
+ just
+ one
+
+
+problem
+ with
+ this
+ narrative.
+ There
+ was
+
+
+no
+ such
+ dinner.
+
+
+We
+ checked
+ my
+ schedule.
+ They
+ made
+ up
+ the
+
+
+dinner.
+
+
+>> No,
+ we
+ checked
+ everyone's
+ schedules.
+
+
+There
+ is
+ no
+ dinner.
+ So,
+ they've
+ got
+ a
+
+
+source
+ who's
+ just
+ making
+ this
+ up.
+ And
+
+
+how
+ does
+ the
+ New
+ York
+ Times
+ respond?
+
+
+They
+ just
+ delete
+ the
+ dinner,
+ but
+ they
+
+
+don't
+ delete
+ any
+ other
+ part
+ of
+ this.
+ But
+
+
+if
+ your
+ source
+ has
+ already
+ been
+ caught
+
+
+fabricating
+ a
+ dinner
+ at
+ which
+ this
+
+
+conversation
+ supposedly
+ took
+ place,
+ it's
+
+
+totally
+ discredited.
+
+
+>> They're
+ trying
+ to
+ intimidate
+ you.
+
+
+>> They
+ kind
+ of
+ create
+ this
+ insinuation
+
+
+that
+ somehow
+ I'm
+ being
+ influenced
+
+
+through
+ friendships.
+
+
+>> But
+ then
+ it
+ turns
+ out
+ that
+ those
+
+
+friendships
+ don't
+ even
+ exist.
+ I
+ mean,
+
+
+they're
+ just
+ people
+ I
+ met
+ after
+ I
+ joined
+
+
+the
+ administration
+ in
+ a
+ lot
+ of
+ cases.
+
+
+>> So,
+ in
+ any
+ event,
+ look,
+ I
+ think
+ the
+
+
+audience
+ of
+ the
+ show
+ knows
+ my
+ views
+ on
+
+
+AI
+ because
+ I've
+ been
+ publicly
+ advocating
+
+
+for
+ them
+ for
+ a
+ past
+ year.
+
+
+>> And
+ you've
+ had
+ scrutiny.
+ We
+ ask
+ you
+ hard
+
+
+questions
+ every
+ week
+ here.
+ We
+ bust
+ your
+
+
+chops
+ and
+ and
+ force
+ you
+ to
+ explain
+ these
+
+
+positions
+ and
+ and
+ we
+ uh
+ we
+ we
+ stress
+
+
+test
+ them
+ with
+ you
+ and
+ the
+ audience
+
+
+stress
+ testes
+ them.
+ That's
+ that's
+ like
+ a
+
+
+gift
+ to
+ the
+ American
+ people.
+ And
+ I
+ think
+
+
+it's
+ very
+ hard
+ for
+ people
+ to
+ contemplate
+
+
+the
+ idea
+ that
+ folks
+ who
+ are
+
+
+significantly
+ wealthy
+ don't
+ actually
+
+
+need
+ to
+ self-deal.
+
+
+Like
+ they
+ just
+ don't
+ need
+ it.
+ And
+ the
+
+
+truth
+ is
+ the
+ folks
+ who
+ are
+ trying
+ to
+
+
+build
+ a
+ career
+ in
+ politics
+ are
+ the
+ ones
+
+
+who
+ are
+ necessarily
+ going
+ to
+ self-deal
+
+
+because
+ that's
+ the
+ path
+ to
+ wealth
+ for
+
+
+them.
+ And
+ if
+ you've
+ already
+ found
+ your
+
+
+found
+ your
+ path
+ to
+ wealth,
+ you
+ don't
+
+
+need
+ to
+ self-deal.
+ And
+ I
+ think
+ it's
+ just
+
+
+so
+ hard
+ for
+ people
+ to
+ gro
+ that.
+
+
+>> Yeah.
+
+
+>> It's
+ hard
+ to
+ understand
+ that
+ somebody
+ is
+
+
+losing
+ a
+ massive
+ amount
+ of
+ money
+ serving
+
+
+their
+ country.
+ I
+ for
+ one
+ thank
+ you
+ for
+
+
+losing
+ all
+ of
+ his
+ money
+ and
+ going
+ and
+
+
+serving
+ the
+ country.
+ I'm
+ very
+ proud.
+
+
+>> Even
+ if
+ people
+ don't
+ agree
+ with
+ your
+
+
+politics,
+ even
+ if
+ I
+ don't
+ agree
+ with
+
+
+everything
+ you
+ say
+ or
+ do,
+ Saxs,
+ uh
+
+
+again,
+ I
+ never
+ doubt
+ your
+ integrity
+ and
+
+
+your
+ intentions.
+ And
+ I
+ never
+ once
+
+
+thought
+ that
+ you
+ would
+ be
+ someone
+ who
+
+
+would
+ ever
+ selfdeal
+ or
+ engage
+ in
+ any
+
+
+sort
+ of
+ grift
+ or
+ corruption.
+ And
+ I'll
+
+
+say
+ that
+ just
+ personally
+ having
+ known
+
+
+you
+ for
+ a
+ very
+ long
+ time.
+
+
+>> Great.
+
+
+>> I
+ appreciate
+ that.
+ Thank
+ you.
+
+
+>> I'm
+ mad
+ at
+ you
+ because
+ you
+ didn't
+ sell
+
+
+me
+ everything
+ at
+ 50%
+ discount.
+
+
+>> Yeah.
+ Where's
+ the
+ first
+ time
+ I
+ heard
+ it?
+
+
+I
+ was
+
+
+>> I've
+ been
+ so
+ angry
+ this
+ whole
+ clip
+
+
+thinking
+ what
+ what
+
+
+>> where
+ was
+ my
+ call?
+
+
+>> Oh
+ my
+ god.
+ I
+ would
+ have
+ given
+ you
+ 55%.
+
+
+Give
+ it
+ to
+ me.
+ Hey,
+ I
+ would
+ have
+ bought
+
+
+it.
+
+
+>> Another
+ story
+ that's
+ been
+ uh
+ trending
+ is
+
+
+the
+ uh
+ new
+ poverty
+ line
+ and
+ some
+ of
+
+
+these
+ incoming
+ tax
+ laws.
+ Mike
+ Green,
+ an
+
+
+investor
+ and
+ fund
+ manager,
+ went
+ viral
+
+
+last
+ week
+ for
+ claiming
+ the
+ US
+ poverty
+
+
+line
+ math
+ is
+ very
+ wrong.
+ Historically,
+
+
+the
+ poverty
+ line
+ has
+ been
+ measured
+ as
+
+
+three
+ times
+ the
+ cost
+ of
+ a
+ minimum
+ food
+
+
+diet
+ in
+ 1963
+ adjusted
+ for
+ inflation.
+
+
+Based
+ on
+ that
+ measures,
+ the
+ poverty
+ line
+
+
+for
+ a
+ family
+ is
+ set
+ at
+ $31,000
+ in
+ 2025.
+
+
+Green
+ says
+ the
+ real
+ number
+ is
+ over
+ 4x
+
+
+higher
+ at
+ 140,000.
+ He
+ gets
+ that
+ number
+
+
+by
+ factoring
+ the
+ cost
+ of
+ childare
+ which
+
+
+has
+ surpassed
+ housing
+ as
+ the
+ largest
+
+
+average
+ expense.
+ He
+ says
+ measuring
+ this
+
+
+number
+ for
+ decades
+ has
+ quietly
+ broken
+
+
+America
+ and
+ it
+ could
+ explain
+ why
+
+
+America's
+ middle
+ class
+ feels
+ poorer
+
+
+despite
+ healthy
+ GDP
+ and
+ historically
+ low
+
+
+unemployment
+ 4.x
+ which
+ we've
+ talked
+
+
+about
+ here.
+ Chimath,
+ your
+ thoughts.
+
+
+>> I
+ read
+ this
+ I
+ found
+ his
+ claim
+ to
+ be
+
+
+pretty
+ shocking.
+ So,
+ I
+ just
+ I
+ wanted
+ to
+
+
+dig
+ into
+ it.
+ That's
+ why
+ I
+ asked
+ that
+ we
+
+
+talked
+ about
+ it.
+ Nick,
+ you
+ can
+ probably
+
+
+link
+ to
+ it,
+ but
+ yeah,
+ this
+ thing
+ went
+
+
+viral.
+ And
+ basically,
+ it's
+ exactly
+ what
+
+
+you
+ said,
+ Jason.
+ Food
+ costs
+ used
+ to
+ be
+ a
+
+
+third
+ of
+ living
+ costs.
+ And
+ so,
+ food
+ used
+
+
+to
+ cost
+ 10,000.
+ You
+ would
+ multiply
+ it
+ by
+
+
+three
+ and
+ say,
+ well,
+ the
+ total
+ cost
+ of
+
+
+living
+ is
+ 33,000.
+ That's
+ the
+ poverty
+
+
+line.
+ And
+ then
+ what
+ the
+ government
+ did
+
+
+was
+ they
+ created
+ a
+ whole
+ bunch
+ of
+
+
+staircase
+ incentives
+ to
+ get
+ people
+ from
+
+
+about
+ 33,000
+ to
+ about
+ 2x
+ that
+ number
+ to
+
+
+about
+ 65,000.
+
+
+And
+ then
+ after
+ that
+ you
+ were
+ mostly
+ on
+
+
+your
+ own
+ where
+ there
+ were
+ no
+ real
+
+
+benefits
+ like
+ SNAP
+ or
+ other
+ things.
+
+
+But
+ what
+ this
+ person
+ was
+ saying
+ is
+ like
+
+
+hey
+ hold
+ on
+ a
+ second
+ food
+ costs
+ are
+ now
+
+
+five
+ or
+ 6%.
+ And
+ so
+ if
+ you
+ gross
+ it
+ up
+
+
+for
+ the
+ other
+ components,
+ shouldn't
+ the
+
+
+poverty
+ line
+ be
+ something
+ closer
+ to
+
+
+140k?
+ And
+ that's
+ a
+ shocking
+ claim.
+ And
+
+
+so
+ I
+ just
+ spent
+ a
+ little
+ bit
+ of
+ time
+
+
+looking
+ into
+ it.
+ Now
+ he
+ has
+ subsequently
+
+
+come
+ back
+ and
+ refined
+ some
+ of
+ the
+ things
+
+
+he
+ said.
+ I
+ think
+ he
+ may
+ have
+ written
+ it
+
+
+in
+ a
+ heated
+ moment.
+ So
+ for
+ example,
+ when
+
+
+he
+ looked
+ at
+ that
+ number,
+ he
+ wasn't
+
+
+looking
+ at
+ national
+ averages.
+ He
+ was
+
+
+looking
+ at
+ a
+ bunch
+ of
+ data
+ from
+ a
+
+
+high-cost
+ suburb
+ of
+ New
+ York
+ City.
+ I
+
+
+think
+ it
+ was
+ like
+ Essex
+ County.
+ And
+ so
+
+
+if
+ you
+ look
+ at
+ the
+ food
+ costs
+ plus
+
+
+transportation
+ plus
+ energy
+ plus
+ housing
+
+
+plus
+ child
+ care
+ in
+ other
+ places
+ that
+ are
+
+
+more
+
+
+a
+ median
+ American
+ city.
+ The
+ example
+ that
+
+
+I
+ think
+ other
+ people
+ were
+ using
+ was
+
+
+Lynchburg,
+ Virginia,
+ just
+ as
+ an
+ example.
+
+
+It
+ does
+ change
+ pretty
+ drastically.
+ You
+
+
+can
+ use
+ this
+ thing
+ called
+ the
+ MIT
+ living
+
+
+wage
+ calculator
+ which
+ we
+ did.
+ And
+ if
+ you
+
+
+are
+ in
+ Lynchburg,
+ Virginia,
+ the
+ income
+
+
+required
+ for
+ a
+ family
+ of
+ four
+ to
+ meet
+
+
+all
+ expenses
+ there
+ is
+ not
+ 140k,
+ but
+ it's
+
+
+about
+ 93k.
+ That's
+ still
+ quite
+ a
+ big
+
+
+difference.
+ And
+ when
+ you
+ double
+ click
+
+
+into
+ where
+ these
+ variances
+ come,
+ a
+ lot
+
+
+of
+ it
+ looks
+ like
+ it's
+ around
+ housing
+ and
+
+
+childare.
+ And
+ I
+ didn't
+ depreciate
+ how
+
+
+much
+ and
+ how
+ expensive
+ child
+ care
+ has
+
+
+actually
+ become
+ from
+ anywhere
+ between$1
+
+
+to
+ $3,000
+
+
+per
+ month,
+ which
+ is
+ obviously
+ a
+ lot
+ of
+
+
+money.
+ The
+ other
+ thing
+ is
+ that
+ his
+
+
+original
+ article
+ was
+ claiming
+ that
+ if
+
+
+you're
+ above
+ 33K
+ but
+ under
+ 65K,
+ you're
+
+
+actually
+ better
+ off
+ staying
+ at
+ 33
+
+
+because
+ every
+ time
+ you
+ go
+ up,
+ you
+
+
+actually
+ lose
+ a
+ benefit.
+ So
+ the
+ net
+
+
+effect
+ is
+ that
+ you
+ are
+ becoming
+ poorer.
+
+
+And
+ it
+ turns
+ out
+ that
+ that
+ math
+ was
+
+
+actually
+ false.
+ When
+ you
+ calculate
+ the
+
+
+net
+ resources,
+ meaning
+ income
+ plus
+
+
+benefits
+ minus
+ taxes
+ and
+ expenses,
+ a
+
+
+family
+
+
+actually
+ as
+ they
+ step
+ up
+ the
+ staircase
+
+
+does
+ earn
+ more
+ in
+ disposable
+ resources
+
+
+than
+ a
+ family
+ that's
+ earning
+ less.
+
+
+There
+ is
+ a
+ very
+ specific
+ part
+ of
+ though
+
+
+what
+ he
+ said
+ which
+ I
+ think
+ we
+ should
+
+
+focus
+ on
+ which
+ is
+ there
+ is
+ an
+ area
+
+
+between
+ $45,000
+ a
+ year
+ and
+ $63,000
+ a
+
+
+year
+ which
+ actually
+ looks
+ like
+ a
+ bit
+ of
+
+
+a
+ stagnation
+ zone.
+ So
+ to
+ the
+ extent
+ that
+
+
+one
+ is
+ to
+ read
+ this
+ article,
+
+
+take
+ away
+ the
+ kind
+ of
+ the
+ buzzy
+ title
+
+
+and
+ whatnot,
+ the
+ thing
+ that
+ is
+ important
+
+
+is
+ to
+ narrowly
+ focus
+ on
+ this
+ one
+ issue,
+
+
+which
+ is
+ that
+ we
+ do
+ have
+ some
+ policy
+
+
+failures
+ in
+ this
+ zone
+ where
+ earning
+ an
+
+
+extra
+ dollar
+ often
+ results
+ in
+ losing
+ a
+
+
+dollar
+ of
+ benefits
+ like
+ SNAP
+ and
+ other
+
+
+things.
+ But
+ that's
+ a
+ good
+ thing
+ to
+ know
+
+
+because
+ now
+ we
+ can
+ narrowly
+ say
+ okay
+
+
+what
+ are
+ states
+ and
+ what
+ can
+ the
+ federal
+
+
+government
+ do
+ for
+ people
+ in
+ just
+ this
+
+
+part
+ of
+ the
+ valley
+ this
+ sort
+ of
+ like
+
+
+death
+ valley.
+ The
+ last
+ thing
+ is
+ the
+
+
+article
+ was
+ saying
+ look
+ there
+ is
+ no
+ real
+
+
+middle
+ class.
+ There
+ are
+ the
+ people
+ that
+
+
+are
+ above
+ 140k
+ and
+ then
+ there's
+
+
+everybody
+ else
+ in
+ poverty.
+ And
+ if
+ you
+
+
+look
+ at
+ the
+ census
+ data
+ and
+ you
+ look
+ at
+
+
+the
+ percentage
+ of
+ Americans
+ that
+ are
+
+
+struggling,
+ those
+ that
+ earn
+ between
+ 100
+
+
+and
+ 200%
+ of
+ poverty,
+ that
+ percentage
+ has
+
+
+actually
+ fallen.
+ So
+ the
+ good
+ news
+ is
+ the
+
+
+American
+ economy
+ seems
+ to
+ be
+ doing
+ a
+
+
+good
+ job
+ of
+ not
+ just
+ getting
+ people
+ out
+
+
+of
+ poverty,
+ but
+ getting
+ people
+ out
+ of
+
+
+that
+ struggling
+ bracket,
+ out
+ of
+ that
+
+
+death
+ valley,
+ and
+ into
+ a
+ place
+ where
+
+
+they're
+ making
+ 200%
+ of
+ that
+ poverty
+
+
+line.
+ So
+ they're
+ moving
+ up.
+ So
+ the
+
+
+article
+ was
+ important
+ because
+ I
+ do
+ think
+
+
+it
+ starts
+ to
+ say,
+ look,
+ this
+
+
+affordability
+ thing
+ has
+ become
+ a
+
+
+buzzword.
+ A
+ lot
+ of
+ people
+ on
+ the
+ left
+
+
+and
+ the
+ right
+ are
+ using
+ it
+ to
+ try
+ to
+
+
+implement
+ and
+ affect
+ policy.
+ It's
+ really
+
+
+important
+ for
+ us
+ to
+ be
+ grounded
+ in
+ the
+
+
+facts
+ of
+ it.
+ And
+ the
+ facts
+ are
+ that
+
+
+child
+ care
+ costs
+ have
+ become
+ an
+
+
+overwhelming
+ burden
+ for
+ many
+ families.
+
+
+We
+ probably
+ need
+ to
+ figure
+ out
+ a
+ way
+ to
+
+
+deal
+ with
+ that.
+ Housing
+ costs
+ are
+ out
+ of
+
+
+control.
+ For
+ younger
+ people,
+ student
+
+
+debt
+ is
+ problematic.
+ But
+ on
+ the
+ other
+
+
+side,
+ the
+ American
+ economy
+ still
+ does
+ an
+
+
+incredible
+ job
+ of
+ getting
+ people
+ from
+
+
+those
+ lower
+ rungs
+ to
+ multiple
+ hundred
+
+
+percentages
+ of
+ that
+ poverty
+ line
+ to
+ get
+
+
+them
+ on
+ the
+ way.
+ And
+ we
+ just
+ need
+ to
+
+
+figure
+ out
+ how
+ to
+ push
+ people
+ up
+ that
+
+
+staircase
+ faster.
+ So,
+ and
+ it
+ feels
+ like
+
+
+this
+ dovetailes
+ cham
+ with
+ a
+ discussion
+
+
+we
+ had
+ a
+ couple
+ of
+ weeks
+ ago
+ when
+ a
+
+
+viral
+ clip
+ of
+ Ben
+ Shapiro
+ talking
+ about,
+
+
+hey,
+ just
+ opt
+ out
+ of
+ New
+ York
+ City,
+ opt
+
+
+out
+ of
+ San
+ Francisco,
+ and
+ this
+ whole
+
+
+thing
+ looks
+ completely
+ different.
+ You
+
+
+know,
+ the
+ the
+ idea
+ of
+ somebody
+ who
+ is
+ up
+
+
+and
+ coming
+ living
+ in
+ Manhattan
+ or
+ San
+
+
+Francisco
+ is
+ a
+ bit
+ crazy.
+ And
+ in
+ other
+
+
+countries,
+ we
+ don't
+ look
+ at
+ living
+ in
+
+
+Paris
+ or
+ Hong
+ Kong,
+ you
+ know,
+ or
+ Dubai
+
+
+as
+ like
+ that's
+ where
+ you
+ start
+ your
+
+
+career
+ and
+ you
+ live
+ in
+ the
+ the
+ city
+
+
+center.
+ Yeah.
+ Freeberg,
+
+
+>> you're
+ saying
+ people
+
+
+like
+ would
+ move.
+ I'm
+ not
+ sure.
+
+
+>> The
+ the
+ point
+ I'm
+ making
+ is
+ to
+ define
+ a
+
+
+poverty
+ line
+ for
+ in
+ San
+ Francisco
+ versus
+
+
+Austin
+ or
+ Houston
+ is
+ incredibly
+
+
+different
+ because
+ the
+ cost
+ of
+ living
+ is
+
+
+dramatically
+ different.
+ two,
+ three,
+ 4x.
+
+
+You
+ know,
+ the
+ cost
+ of
+ a
+ nanny
+ in
+ San
+
+
+Francisco
+ or
+ New
+ York
+ is
+ dramatically
+
+
+different
+ than
+ if
+ you
+ live
+ 30
+ outside
+ of
+
+
+a
+ city
+ center.
+ One
+ of
+ the
+ challenges
+
+
+America
+ faces
+ is
+
+
+government
+ programs
+ create
+ an
+ anchor.
+
+
+They
+ are
+ a
+ shackle.
+ They
+ hold
+ people
+
+
+back
+ when
+ they
+ were
+ supposed
+ to
+ be
+
+
+support
+ payments.
+ And
+ the
+ problem
+ with
+
+
+this
+ that
+ this
+ article
+ highlights
+ is
+
+
+that
+ the
+ supposed
+ support
+ payments
+
+
+actually
+ create
+ an
+ incentive
+ or
+ a
+
+
+challenge
+ in
+ moving
+ up
+ the
+ rung
+ or
+ up
+
+
+the
+ ladder.
+ It's
+ probably
+ the
+ case
+ that
+
+
+it
+ is
+ a
+ lot
+ easier
+ to
+ move
+ up
+ the
+ income
+
+
+ladder
+ if
+ you're
+ in
+ certain
+ parts
+ of
+ the
+
+
+country
+ than
+ if
+ you're
+ in
+ most
+ of
+ the
+
+
+country.
+ And
+ so
+ most
+ of
+ the
+ country
+ is
+
+
+stagnating
+ wages,
+ but
+ they
+ still
+ feel
+
+
+the
+ effects
+ of
+ inflation.
+ And
+ these
+
+
+government
+ programs
+ keep
+ them
+ stuck
+ in
+
+
+the
+ position
+ that
+ they're
+ in.
+ This
+ is
+
+
+the
+ spiral
+
+
+of
+ socialism.
+
+
+The
+ government
+ programs
+ that
+ are
+ meant
+
+
+to
+ provide
+ support
+ to
+ people
+ require
+ an
+
+
+increase
+ in
+ taxation.
+ That
+ revenue
+ has
+
+
+to
+ come
+ from
+ somewhere.
+
+
+that
+ taxation
+ ultimately
+ leads
+ to
+ an
+
+
+attrition
+ of
+ economic
+ value
+ in
+ that
+
+
+region
+ and
+ then
+ you
+ have
+ to
+ increase
+
+
+taxation
+ more
+ and
+ then
+ you
+ end
+ up
+ in
+
+
+this
+ spiral
+ and
+ we're
+ seeing
+ this
+ now
+
+
+not
+ just
+ in
+ New
+ York
+ where
+ Mandani
+ is
+
+
+proposing
+ to
+ increase
+ taxes
+ but
+ across
+
+
+the
+ entire
+ West
+ Coast.
+ We
+ talked
+ about
+
+
+the
+ 5%
+ billionaire
+ tax
+ that's
+ being
+
+
+proposed
+ as
+ a
+ constitutional
+ amendment
+
+
+to
+ go
+ on
+ the
+ ballot
+ in
+ November.
+ There's
+
+
+also
+ a
+ major
+ challenge
+ underway
+ in
+
+
+Oregon
+ where
+ the
+ governor
+ is
+ now
+ trying
+
+
+to
+ figure
+ out
+ how
+ to
+ keep
+ businesses
+ in
+
+
+the
+ state.
+ The
+ CEO
+ of
+ Columbia
+
+
+Sportsear,
+ one
+ of the
+ biggest
+ employers
+
+
+in
+ the
+ state,
+ came
+ out
+ this
+ week
+ saying
+
+
+that
+ his
+ adviserss
+ have
+ recommended
+ that
+
+
+he
+ leave
+ the
+ state.
+ And
+ in
+ Washington,
+
+
+there
+ is
+ a
+ proposed
+ bill
+ right
+ now
+ to
+
+
+implement
+ a
+ 5%
+ tax
+ on
+ the
+ payroll
+ of
+
+
+employees
+ making
+ over
+ $125,000
+ per
+ year.
+
+
+and
+ Microsoft,
+ Amazon,
+ Costco,
+ and
+ some
+
+
+of
+ the
+ other
+ big
+ employers
+ in
+ that
+ state
+
+
+are
+ now
+ trying
+ to
+ figure
+ out
+ what
+ they
+
+
+should
+ do.
+ And
+ in
+ California,
+ as
+ you
+
+
+guys
+ know,
+ in
+ the
+ last
+ couple
+ of
+
+
+quarters,
+ Tesla,
+ Chevron,
+ McKessan,
+
+
+Oracle,
+ Charles
+ Schwab,
+ CB
+ Richard
+
+
+Ellis,
+ Hullet
+ Packard
+ have
+ all
+ left
+ the
+
+
+state.
+ Palanteer,
+ SpaceX,
+ I
+ could
+ go
+
+
+down
+ this
+ list
+ because
+ as
+ the
+ tax
+ burden
+
+
+becomes
+ too
+ high
+ on
+ those
+ companies
+ and
+
+
+there's
+ an
+ alternative
+ to
+ them
+ in
+ the
+
+
+country,
+ they'll
+ leave.
+ And
+ then
+ you
+
+
+have
+ this
+ spiral
+ that
+ happens
+ where
+ the
+
+
+people
+ that
+ are
+ in
+ that
+ state
+ say,
+ "Wait
+
+
+a
+ second.
+ There's
+ no
+ jobs.
+ There's
+ no
+
+
+income
+ gain.
+ We
+ need
+ to
+ increase
+
+
+taxation."
+ And
+ the
+ tax
+ bills
+ get
+ passed.
+
+
+Norway
+ 2022
+ passed
+ a
+ wealth
+ tax.
+ The
+
+
+wealth
+ tax
+ was
+ supposed
+ to
+ raise
+ $146
+
+
+million
+ of
+ incremental
+ revenue
+ per
+ year.
+
+
+Instead,
+ what
+ happened?
+ $54
+ billion
+ of
+
+
+net
+ worth
+ left
+ the
+ country.
+ And
+ they
+
+
+actually
+ had
+ a
+ $448
+ million
+ tax
+ loss.
+
+
+the
+ taxes
+ declined
+ rather
+ than
+
+
+>> Did
+ they
+ reverse
+ it
+ afterwards
+ or
+ No,
+
+
+>> I'm
+ actually
+ not
+ sure
+ the
+ state
+ of
+
+
+Norway.
+ Microsoft's
+ president
+ Brad
+ Smith
+
+
+has
+ said
+ that
+ tech
+ jobs
+ are
+ going
+ to
+
+
+leave
+ Washington
+ state
+ if
+ this
+ payroll
+
+
+tax
+ gets
+ passed.
+ And
+ this
+ is
+ the
+ the
+
+
+cycle
+ that's
+ underway.
+ And
+ it
+ starts
+
+
+with
+ the
+ government
+ spending.
+ If
+ we
+
+
+didn't
+ have
+ the
+ government
+ spending
+ the
+
+
+way
+ it
+ does,
+ where
+ the
+ government's
+
+
+running
+ a
+ deficit,
+ California
+ is
+ now
+
+
+expected
+ to
+ have
+ a$50
+ billion
+ plus
+
+
+dollar
+ deficit,
+ then
+ they
+ don't
+ need
+ to
+
+
+increase
+ taxes.
+ And
+ this
+ is
+ the
+ core
+
+
+motivation.
+ Once
+ you're
+ hooked
+ on
+ the
+
+
+government
+ for
+ some
+ sort
+ of
+ benefit,
+
+
+it's
+ very
+ hard
+ to
+ unhook
+ yourself.
+ It's
+
+
+very
+ hard
+ for
+ a
+ company
+ or
+ a
+ union
+ or
+ an
+
+
+organization
+ to
+ unhook
+ themselves
+ and
+ it
+
+
+definitionally
+ becomes
+ a
+ spiral.
+ You
+
+
+will
+ not
+ give
+ up
+ that
+ benefit.
+ And
+ so
+
+
+you
+ have
+ to
+ spend
+ incrementally
+ more
+ and
+
+
+more
+ and
+ more
+ and
+ more
+ and
+ as
+ you
+ raise
+
+
+taxes,
+ you
+ end
+ up
+ losing
+ the
+ tax
+ base
+
+
+and
+ it
+ becomes
+ a
+ deficit
+ spiral.
+ That's
+
+
+what
+ leads
+ to
+ socialism.
+ And
+ we
+ have
+
+
+seen
+ it
+ time
+ and
+ again.
+ It's
+ not
+ a
+ big
+
+
+revolution.
+ It's
+ not
+ like
+ we
+ see
+ where
+
+
+where
+ where
+ you
+ go
+ from
+ socialism
+ to
+
+
+democratic
+ capitalism
+ where
+ you
+ have
+ a
+
+
+revolution
+ in
+ the
+ streets.
+ Socialism
+
+
+emerges
+ slowly.
+ It's
+ like
+ a
+ quiet
+ sort
+
+
+of
+ hum
+ and
+ then
+ it
+ becomes
+ a
+ roar
+ and
+
+
+all
+ of
+ a
+ sudden
+ you're
+ a
+ frog
+ in
+ a
+ pot
+
+
+and
+ you
+ don't
+ realize
+ you're
+ being
+
+
+boiled.
+
+
+Pull
+ this
+ up
+ this
+ clip
+ from
+ this
+ is
+
+
+episode
+ 7
+ of
+ Allin.
+ I
+ don't
+ think
+
+
+democracies
+ end
+ um
+ with
+ a
+ bang.
+ I
+ think
+
+
+they
+ end
+ with
+ a
+ whimper.
+ And
+ I
+ think
+
+
+that's
+ been
+ the
+ case
+ historically.
+ And
+
+
+you
+ know,
+ no
+ democracy
+ has
+ uh
+ has
+ lasted
+
+
+our
+ our
+ democracy
+ in
+ the
+ US
+ has
+ has
+
+
+lasted
+ longer
+ uh
+ than
+ many.
+ Democracies
+
+
+ultimately
+ enable
+ uh
+ freedom
+ of
+
+
+operation
+ and
+ free
+ markets
+ that
+ um
+ that
+
+
+result
+ in
+ in
+ greater
+ progress
+ than
+ any
+
+
+other
+ governing
+ system.
+ The
+ problem
+ with
+
+
+progress
+ is
+ that
+ progress
+ is
+ asymmetric.
+
+
+You
+ have
+ some
+ people
+ who
+ progress
+ at
+ a
+
+
+much
+ greater
+ rate
+ than
+ most.
+ And
+ and
+ it
+
+
+is
+ that
+ delta
+ that
+ motivates
+ the
+ end
+ of
+
+
+that
+ system
+ ultimately.
+ While
+ everyone
+
+
+in
+ the
+ United
+ States
+ or
+ the
+ average
+ and
+
+
+even
+ the
+ bottom
+ quartile
+ of
+ the
+
+
+population
+ in
+ the
+ US
+ is
+ better
+ off
+ than
+
+
+they
+ were
+ 50
+ years
+ ago
+ in
+ terms
+ of
+
+
+income
+ and
+ healthcare
+ and
+ shelter
+ and
+
+
+access
+ to
+ food
+ and
+ access
+ to
+ all
+ these
+
+
+things.
+ The
+ top
+ 1%
+ of
+ the
+ US
+ is
+ further
+
+
+ahead
+ than
+ the
+ median.
+ And
+ it
+ is
+ that
+
+
+delta
+ that
+ motivates
+ the
+ end
+ of
+
+
+democracy.
+ And
+ it
+ is
+ that
+ is
+ which
+ is
+
+
+then
+ perceived
+ to
+ be
+ unfair
+ about
+ this
+
+
+governing
+ system.
+ And
+ that
+ ultimately
+
+
+results
+ in
+ fascism
+ or
+ or
+ socialism.
+ And
+
+
+then
+ fascism
+ results
+ socialism
+
+
+ultimately
+ restricts
+ anyone
+ from
+
+
+progression.
+ And
+ that's
+ why
+ fascism
+ and
+
+
+socialism
+ ultimately
+ end
+ up
+ in
+ in
+ in
+
+
+some
+ sort
+ of,
+ you
+ know,
+ democratic
+
+
+outcome.
+ And
+ it
+ is
+ a
+ cycle.
+ And,
+ you
+
+
+know,
+ we're
+ kind
+ of
+ in
+ this,
+ you
+ know,
+
+
+awkward
+ phase
+ of
+ trying
+ to
+ figure
+ out
+
+
+what
+ the
+ hell
+ we're
+ going to
+ be
+ next.
+
+
+And
+ I
+ don't
+ think
+ that
+ awkward
+ phase
+ um
+
+
+is
+ realized
+ in
+ the
+ next
+ presidential
+
+
+term,
+ but
+ it
+ is
+ going
+ to
+ be
+ realized
+ in
+
+
+our
+ lifetime.
+ And
+ I
+ think
+ that's
+ where
+
+
+we're
+ headed.
+ Midterms
+ probably
+ going
+ to
+
+
+go
+ to
+ the
+ Democrats
+ in
+ the
+ House.
+ And
+ I
+
+
+think
+ you're
+ seeing
+ Ro
+ Kana,
+ Gavin
+ Esome
+
+
+yesterday
+ on
+ stage
+ at
+ Dealbook
+ talked
+
+
+about
+ redistributing
+ wealth.
+ Ro
+ Kana
+ is
+
+
+talking
+ about
+ redistributing
+ wealth.
+
+
+This
+ is
+ becoming
+ the
+ Democrat
+ party
+ line
+
+
+and
+ they're
+ going
+ to
+ end
+ up
+ trying
+ to
+
+
+seize
+ this
+ moment
+ to
+ take
+ these
+
+
+socialist
+ principles
+ because
+ everyone
+ is
+
+
+feeling
+ the
+ burn.
+ They're
+ feeling
+ the
+
+
+loss
+ of
+ benefits.
+ They're
+ feeling
+ the
+
+
+lack
+ of
+ progress.
+ They're
+ having
+ a
+ tough
+
+
+time
+ moving
+ up
+ the
+ income
+ ladder
+ and
+
+
+they're
+ having
+ a
+ tough
+ time
+ paying
+ their
+
+
+bills.
+ And
+ so
+ this
+ is
+ the
+ moment
+ where
+
+
+this
+ democratic
+ socialist
+ movement
+ takes
+
+
+foot.
+ And
+ probably
+ by
+ 2028,
+ the
+
+
+presidential
+ nominee
+ is
+ going
+ to
+ be
+ not
+
+
+necessarily
+ a
+ self-declared,
+ but
+
+
+probably
+ a
+ referenceable,
+ you
+ know,
+ uh,
+
+
+socialist.
+
+
+>> Democrat
+ socialist.
+ Yeah,
+
+
+>> democrat
+ socialist.
+ I
+ mean,
+ best
+ advice,
+
+
+have
+ two
+ plans.
+ One,
+ a
+ state
+ uh,
+ that
+ is
+
+
+committed
+ to
+ capitalism.
+ Texas
+ comes
+ to
+
+
+mind.
+ And
+ number
+ two,
+ you
+ kind
+ of
+ have
+
+
+to
+ have
+ a
+ country
+ as
+ a
+ backup
+ plan
+ in
+
+
+case
+ this
+ goes
+ across
+ the
+ whole
+ country.
+
+
+Have
+ you
+ guys
+ been
+ tracking
+ the
+
+
+California
+ wealth
+ tax?
+ As
+ a
+ former
+
+
+California
+ resident,
+ I'm
+ curious
+ how
+
+
+you're
+ interpreting
+ these
+ recent
+ moves.
+
+
+>> I
+ think
+ we're
+ all
+ seriously
+ thinking
+
+
+about
+ moving
+ out.
+ I
+ mean,
+ it's
+ kind
+ of
+
+
+crazy.
+
+
+>> But
+ did
+ you
+ see
+ I
+ think
+ Nuome
+ came
+ out
+
+
+and
+ said
+ that
+ he
+ was
+ going
+ to
+ oppose
+ it.
+
+
+Is
+ that
+ right?
+
+
+>> But
+ it
+ it
+ doesn't
+ matter
+ because
+ if
+ uh
+
+
+the
+ California
+ voters
+ voted
+ in,
+ it
+ goes
+
+
+immediately
+ into
+ a
+
+
+>> Let's
+ not
+ look
+ a
+ gift
+ horse
+ in
+ the
+ mouth
+
+
+here.
+ I
+ think
+ this
+ is
+ a
+ moment
+ to
+ thank
+
+
+Governor
+
+
+>> Nome
+
+
+>> for
+ representing
+ the
+ interests
+ of
+ tech
+
+
+logarchs
+ like
+ us.
+ We
+ really
+ appreciate
+
+
+you
+ coming
+ out
+ against
+ this
+ wealth
+ tax.
+
+
+>> Thank
+ you.
+
+
+>> So
+ thank
+ you.
+
+
+>> We
+ really
+ appreciate
+ it
+ on
+ behalf
+ of
+ all
+
+
+the
+ techarchs.
+ Thank
+ you
+
+
+>> for
+ opposing
+ this
+ wealth
+ tax.
+
+
+>> In
+ fact,
+ the
+ All-In
+ podcast
+ endorses
+
+
+Gavin
+ Newsome's
+ support
+ of
+ billionaires
+
+
+and
+ sent
+ to
+ millionaires
+ everywhere.
+ He
+
+
+supports
+ all
+ of
+ us
+ equally,
+ even
+ the
+
+
+poor
+ sent
+ millionaires
+ and
+ as
+ high
+ as
+
+
+the
+ billionaires
+ and
+ even
+ the
+ deck
+ of
+
+
+billionaires.
+ We
+ have
+ some
+
+
+>> Thank
+ you
+ for
+ standing
+ up
+ against
+ the
+
+
+Bernie
+ Sanders
+ AOC
+ wing
+ of
+ the
+ party.
+
+
+>> Yes.
+ If
+ he
+ it's
+ somebody
+ has
+ to
+ stand
+ up
+
+
+against
+ this
+ democratic
+ socialism
+ and
+
+
+and
+ Gavin
+ Newsome
+ is
+ the
+ guy.
+
+
+>> What
+ do
+ you
+ think
+ happens
+ if
+ Fitch
+ just
+
+
+tax
+ 5%
+ of
+ all
+ net
+ worth
+ and
+ you
+ have
+ a
+
+
+bunch
+ of
+ illquid
+ private
+ assets?
+ What
+
+
+are
+ you
+ supposed
+ to
+ do?
+
+
+>> Chaos.
+ Yeah.
+ It's
+ going
+ to
+ be
+ a
+ mess.
+ By
+
+
+the
+ way,
+ what
+ that
+ bill
+ Chimoff
+ says
+ is
+
+
+you
+ can
+ have
+ a
+ deferral.
+ So,
+ you
+ can
+
+
+actually
+ defer
+ the
+ tax
+ payment,
+ but
+ you
+
+
+have
+ to
+ have
+ it
+ booked
+ that
+ year.
+ So,
+
+
+well,
+ you
+ you
+ can
+ defer
+ it,
+ but
+ you
+ can
+
+
+defer
+ it
+ into
+ 1/5if
+ payable
+ for
+ a
+ year
+
+
+for
+ 5
+ years.
+ So,
+ that's
+ not
+ really
+ a
+
+
+deferral.
+ That's
+ just
+ installments
+ that
+
+
+I
+ think
+ they
+ said
+ to
+ 5
+ to
+ 7%
+ interest.
+
+
+Let's
+ just
+ say
+ that
+ we
+ could
+ do
+ a
+
+
+financing
+ for
+ something
+ that
+ we've
+
+
+started,
+ but
+ it
+ just
+ all
+ of
+ a
+ sudden
+
+
+what
+ is
+ a
+ financing?
+ It's
+ nothing.
+ It's
+
+
+somebody's
+ guess
+ about
+ future
+ value.
+
+
+It's
+ has
+ nothing
+ to
+ do
+ with
+ today's
+
+
+value.
+ Right.
+ But
+ if
+ a
+ financing
+ for
+ a
+
+
+company
+ all
+ of
+ a
+ sudden
+ would
+ trigger
+ a
+
+
+bunch
+ of
+ phantom
+ tax
+ that's
+ due
+
+
+>> right
+
+
+>> that
+ I
+ I
+ mean
+ I'll
+ be
+ honest,
+ I
+ don't
+
+
+have
+ money
+ sitting
+ around
+ to
+ pay
+ 5%
+ of
+
+
+an
+ imputed
+ valuation
+ of
+ a
+ company
+ that
+
+
+I'm
+ in
+ the
+ midst
+ of
+ building.
+
+
+>> Look
+ at
+ what
+ Sach
+ Look
+ at
+ what
+ Sachs
+
+
+just
+ talked
+ about.
+ He
+ had
+ to
+ sell
+ his
+
+
+private
+ assets
+ at
+ a
+ 50%
+ discount.
+
+
+>> Oh,
+ I
+ would
+ have
+ to
+ I
+ would
+ have
+ to
+
+
+exact.
+ So,
+ you
+ create
+ this
+ like
+ negative
+
+
+reflexive
+ downward
+ spiral.
+
+
+>> And
+ it
+ doesn't
+ it
+ doesn't
+ stop
+ there.
+
+
+So,
+ think
+ about
+ where
+ this
+ goes.
+ So,
+ so
+
+
+yes,
+ that's
+ a
+ problem
+ for
+ rich
+ people.
+
+
+Great.
+ No
+ one
+ gives
+ a
+ about
+ us.
+ No
+
+
+one
+ gives
+ a
+ about
+ people
+ that
+ have
+
+
+to
+ sell
+ highly
+ valued
+ private
+ stock.
+ But
+
+
+where
+ does
+ this
+ go?
+ In
+ the
+ proposed
+
+
+billionaire
+ tax,
+ it
+ actually
+ gives
+ power
+
+
+and
+ authority
+ to
+ the
+ California
+ state
+
+
+legislature
+ that
+ they
+ can
+ actually
+ redo
+
+
+this
+ wealth
+ tax
+ at
+ a
+ different
+ level
+ and
+
+
+a
+ different
+ rate
+ in
+ the
+ future.
+ Think
+
+
+about
+ what
+ that
+ does.
+ It
+ now
+ gives
+
+
+property
+ seizure
+ rights
+ to
+ the
+
+
+California
+ state
+ legislature
+ to
+ set
+ a
+
+
+value
+ level.
+ So
+ anyone
+ now
+ that's
+ got
+
+
+over
+ a hundred
+ million
+ net
+ worth
+ and
+
+
+then
+ it
+ becomes
+ over
+ 10
+ million
+ and
+ then
+
+
+anyone
+ with
+ a
+ million
+ dollar
+ net
+ worth
+
+
+and
+ the
+ state
+ can
+ take
+ 5%
+ of
+ your
+ assets
+
+
+every
+ year.
+ very
+ quickly
+ it
+ becomes
+ the
+
+
+process
+ by
+ which
+ socialism
+ and
+ the
+
+
+socialization
+ of
+ assets
+ that
+ gets
+ seized
+
+
+by
+ the
+ government
+ is
+ realized.
+
+
+>> So
+ what's
+ the
+ what's
+ the
+ bull
+ work
+ on
+
+
+this?
+ What
+ how
+
+
+>> this
+ is
+ why
+ I've
+ been
+ saying
+ for
+ years
+
+
+this
+ is
+ the
+ direction
+ we're
+ headed
+
+
+because
+ the
+
+
+>> I
+ give
+ you
+ the
+ I
+ give
+ you
+ the
+ victory.
+
+
+Congrats.
+
+
+>> But
+ the
+ root
+ cause
+ of
+ it
+ is
+ government
+
+
+spending.
+
+
+>> I
+ think
+ it's
+ pretty
+ it's
+ pretty
+
+
+straightforward.
+ you
+ just
+ move
+ to
+ a
+
+
+state
+ that
+ is
+ committed
+ to
+ capital
+
+
+capitalism
+ and
+
+
+>> but
+ then
+ it
+ becomes
+ a
+ federal
+ decision
+
+
+>> and
+ then
+ if
+ that
+ doesn't
+ work
+ you're
+
+
+going
+ to
+ need
+ to
+ have
+ an
+ escape
+ hatch
+ to
+
+
+Dubai.
+ We
+ have
+ a
+ we
+ have
+ a
+ problem
+ in
+
+
+this
+ country
+ and
+ the
+ problem
+ is
+ too
+ much
+
+
+progress.
+
+
+>> Too
+ much
+ progress
+ too
+ fast
+ has
+ led
+ to
+ a
+
+
+distribution
+ of
+ capital
+ that
+ is
+ so
+
+
+asymmetric
+ that
+ Gavin
+ Newsome
+ said
+ on
+
+
+stage
+ yesterday
+ 10%
+ of
+ the
+ population
+
+
+own
+ 2/3
+ of
+ the
+ assets.
+ That
+ may
+ or
+ may
+
+
+not
+ seem
+ right
+ to
+ you
+ but
+ that
+ is
+ the
+
+
+reality
+ of
+ what
+ happens
+ when
+ you
+ have
+
+
+progress
+ when
+ you
+ build
+ technology
+
+
+companies.
+ When
+ you
+ build
+ car
+ companies
+
+
+when
+ you
+ build
+ when
+ America
+ wins
+
+
+globally.
+ You
+ say
+ America,
+ but
+ it's
+ not
+
+
+all
+ Americans.
+ And
+ this
+ is
+ the
+ point.
+
+
+This
+ is
+ what's
+ going
+ on.
+
+
+>> Those
+ of
+ us
+ who
+ are
+ on
+ this
+ Zoom
+ and
+ our
+
+
+cohort
+ of
+ friends
+
+
+>> are
+ the
+ ones
+ who
+ have
+ mostly
+ benefited
+
+
+from
+ America
+ quote
+ winning.
+
+
+>> The
+ rest
+ of
+ America
+ has
+ been
+ left
+
+
+behind.
+
+
+>> True.
+
+
+>> And
+ the
+ mechanism
+ and
+ the
+ mechanism
+ for
+
+
+recapture,
+ the
+ mechanism
+ for
+ restoration
+
+
+of
+ equality
+ as
+ everyone
+ views
+ it
+ is
+
+
+these
+ measures,
+ these
+ voting
+ measures,
+
+
+these
+ elected
+ officials.
+ Let
+ me
+ give
+ it
+
+
+to
+ you.
+ I
+ understand
+ that's
+ how
+ people
+
+
+feel
+ and
+ it
+ is
+ true
+ that
+ we
+ have
+ this
+
+
+disparity
+ in
+ wealth.
+ I
+ think
+ the
+
+
+counterargument
+ that
+ most
+ people
+ would
+
+
+make
+ is
+ well
+ what
+ is
+ our
+ unemployment
+
+
+rate?
+ How
+ many
+ people
+ around
+ the
+ world
+
+
+are
+ trying
+ to
+ get
+ into
+ this
+ country?
+ And
+
+
+what
+ is
+ the
+ status
+ of
+ folks
+ coming
+ up
+ in
+
+
+this
+ country?
+ If
+ we
+ didn't
+ have
+ the
+
+
+problem
+ with
+ housing
+ and
+ education
+ and
+
+
+healthcare,
+ those
+ are
+ the
+ big
+ three.
+
+
+That's
+ what
+ I
+ think
+ this
+ is
+ really
+
+
+about.
+ If
+ you
+ solve
+ housing,
+ which
+ was
+
+
+solved
+ in
+ Texas
+ and
+ Florida
+ and
+ Nevada,
+
+
+they
+ let
+ you
+ build
+ supply.
+ People
+ don't
+
+
+feel
+ as
+ bad
+ about
+ their
+ lot
+ in
+ life,
+
+
+they
+ don't
+ feel
+ as
+ bad
+ about
+ their
+
+
+progress.
+ If
+ we
+ solved
+ tuition
+ and
+ we
+
+
+paired
+ it,
+ like
+ we've
+ talked
+ about
+
+
+countless
+ times
+ here,
+ and
+ the
+ loans
+
+
+matched
+ the
+ outcomes,
+ we
+ would
+ not
+ have
+
+
+this.
+ And
+ if
+ people
+ felt
+ didn't
+ feel
+ the
+
+
+fear
+ of
+ going
+ bankrupt
+ from
+ healthcare,
+
+
+I
+ think
+ we
+ would
+ have
+ a
+ much
+ different
+
+
+country.
+ I
+ think
+ that's
+ what
+ the
+
+
+referendum
+ is
+ going
+ to
+ be
+ in
+ 2028
+ is
+
+
+those
+ three
+ issues.
+ If
+ you're
+ going
+ to
+
+
+be
+ president,
+ you
+ got
+ to
+ solve
+ housing
+
+
+and
+ get
+ people
+ out
+ of
+ the
+ way
+ and
+ build
+
+
+housing
+ stock.
+ Number
+ two,
+ you
+ got
+ to
+
+
+give
+ some
+ people
+ some
+ basic
+ health
+ care
+
+
+so
+ they
+ don't
+ feel
+ they're
+ going
+ to
+ get
+
+
+bankrupt.
+ Number
+ three,
+ they
+ got
+ to
+ fix
+
+
+education.
+ Those
+ are
+ the
+ three
+ horsemen
+
+
+of
+ the
+ apocalypse
+ and
+ socialism.
+
+
+>> In
+ my
+ opin,
+
+
+we
+ will
+ solve
+ this
+ problem.
+
+
+>> I
+ think
+ you're
+ too
+ rational.
+ The
+ way
+
+
+politics
+ works
+ is
+ you
+ find
+ a
+ group
+ to
+
+
+blame
+ and
+ you
+ blame
+ them
+ and
+ that's
+ how
+
+
+you
+ get
+ elected.
+
+
+>> The
+ group
+ runs
+ for
+ president.
+
+
+>> The
+ group
+ to
+ blame
+ is
+ going
+ to
+ be
+ the
+
+
+tech
+ and
+ the
+ elite.
+ only
+ one
+ of
+ the
+
+
+three
+ four
+ of
+ us
+ that
+ can.
+ So,
+
+
+>> well,
+ I
+ got
+ a
+ kitchen
+ cabinet,
+ by
+ the
+
+
+way.
+ We'll
+ just
+ we'll
+ run
+ it
+ as
+ a
+
+
+Fantastic
+ Four.
+ I
+ I'll
+ be
+ the
+ figurehead
+
+
+and
+ then
+ we'll
+ just
+ sit
+ there.
+ Let's
+
+
+solve
+ these
+ three
+ problems.
+ If
+ when
+ I
+
+
+run
+ for
+ president,
+ I'm
+ going
+ to
+ start
+ 10
+
+
+new
+ cities
+ with
+ a
+ million
+ houses
+ in
+
+
+each.
+ That's
+ going
+ to
+ be
+ the
+ number
+ one
+
+
+priority.
+ Number
+ two
+ priority
+ is
+
+
+universal
+ healthcare
+ for
+ everybody
+ using
+
+
+technology.
+ GLPS,
+ Daniel
+ X,
+ 3D
+ scanner,
+
+
+prunovo,
+ whatever.
+ And
+ then
+ number
+
+
+three,
+ I
+ mean,
+ just
+ trade
+ schools.
+ Let's
+
+
+make
+ trade
+ schools
+ free.
+ just
+ talked
+
+
+about
+ electricians.
+ We
+ talked
+ about
+
+
+generation
+ tool
+ belt.
+ Let's
+ make
+ trade
+
+
+schools
+ free
+ or
+ make
+ them
+ $20,000.
+ You
+
+
+can
+ pay
+ it
+ back
+ over
+ 20
+ years,
+ $1,000
+ a
+
+
+year,
+ no
+ interest.
+ You
+ know,
+ come
+ up
+
+
+with
+ that.
+ That's
+ the
+ platform
+ that
+ wins
+
+
+versus
+ let's
+ raise
+ taxes
+ to
+ 60%.
+ Because
+
+
+you
+ raise
+ taxes
+ 60%,
+ I'll
+ tell
+ you
+
+
+what's
+ going to
+ happen.
+ People
+ going
+ to
+
+
+retire
+ and
+ stop
+ investing
+ in
+ companies.
+
+
+It's
+ not
+ worth
+ it
+ to
+ go
+ to
+ work
+ and
+ give
+
+
+60
+ or
+ 70%
+ of
+ your
+ outcome
+ to
+ the
+
+
+government.
+ People
+ will
+ just
+ stop
+
+
+working,
+ which
+ is
+ what
+ happened
+ in
+
+
+Europe.
+ people
+ just
+ like
+ screw
+ it.
+ I'll
+
+
+just
+ be
+ rich.
+ I'll
+ stop
+ investing.
+
+
+>> It
+ sucks,
+ man.
+ I
+ think
+ it
+ sucks.
+
+
+>> I
+ think
+ there's
+ a
+ clear
+ path
+ out.
+ There
+
+
+is
+ a
+ clear
+ path
+ out.
+ Solve
+ the
+ three
+ big
+
+
+>> I
+ think.
+ I
+ think
+ look,
+ I
+ think
+ AI
+ is
+ a
+
+
+path
+ if
+ we
+ get
+ if
+ leverage
+ into
+ the
+
+
+hands
+ of
+ every
+ person
+ in
+ the
+ United
+
+
+States
+ in
+ the
+ world.
+ If
+ we
+ get
+ abundant
+
+
+free
+ energy
+ through
+ new
+ energy
+ systems
+
+
+and
+ if
+ we
+ can
+ extend
+ human
+ lifespan
+ and
+
+
+health
+ span,
+ I
+ think
+ those
+ are
+ the
+ three
+
+
+abundance
+ vectors.
+ And
+ if
+ those
+ three
+
+
+vectors
+ hit,
+ I
+ think
+ all
+ bets
+ are
+ off.
+
+
+and
+ um
+ and
+ we
+ can
+ get
+ out
+ of
+ this
+ nasty
+
+
+spiral.
+ But
+ I
+ do
+ think
+ we
+ have
+ the
+
+
+choice
+ every
+ day.
+ Do
+ we
+ want
+ to
+ go
+ into
+
+
+the
+ enlightenment
+ or
+ do
+ we
+ want
+ to
+ go
+
+
+into
+ the
+ dark
+ ages?
+ I
+ keep
+ saying
+ that.
+
+
+>> Let's
+ solve
+ those
+ three
+ big
+ problems.
+
+
+All right,
+ listen.
+ Another
+ amazing
+
+
+episode
+ of
+ the
+ Allin
+ podcast.
+
+
+>> I
+ think
+ Jake
+ just
+ announced
+ he's
+ running
+
+
+for
+ president.
+
+
+>> I'm
+ ask
+ presidentjason.com.
+
+
+>> Go
+ ahead.
+
+
+>> Is
+ Jeff
+ Bezos
+ going
+ to
+ be
+ your
+ running
+
+
+mate?
+ JL
+ is
+ running.
+
+
+>> He
+ did
+ say
+
+
+>> Bezos
+ could
+ be
+ your
+ VP.
+
+
+>> Oh.
+ Um
+
+
+>> Oh,
+ no
+ wait.
+ Jamie
+ Diamond
+ and
+ Bezos.
+
+
+>> Go
+ to
+ boosted.
+
+
+com
+ if
+ you
+ want
+ to
+ buy
+ merch.
+ I
+ got
+ this
+
+
+great
+ pink
+ hat
+ on
+
+
+>> the
+ pink
+ hat.
+ Oh,
+ man.
+ We're
+ We're
+ also
+
+
+vested
+ in
+ your
+ success
+ when
+ you
+ didn't
+
+
+allow
+ any
+ of
+ us
+ to
+ invest
+ in
+ your
+
+
+company.
+ Thanks,
+ bestie.
+
+
+>> Yeah,
+ we
+ all
+ feel
+ so
+ vested.
+ Uh
+ go
+ I
+ I
+
+
+supported
+ Freeberg
+ for
+ the
+ last
+ five
+
+
+years,
+ made
+ him
+ famous,
+ and
+ all
+ I
+ got
+
+
+was
+ an
+ Ohalo
+ hat.
+ How
+ about
+ you,
+ Chamal?
+
+
+>> You
+ got
+ a
+ quarter
+ the
+ equity?
+
+
+>> You
+ got
+ a
+ hat?
+
+
+>> I
+ got
+ a
+ hat.
+ And
+ I
+ invested
+ in
+ his
+ three
+
+
+companies
+ that
+ failed.
+ I
+ got
+ a
+ hat,
+ BUT
+
+
+I
+ HAVE
+ NO
+ OH
+ CAN
+ YOU
+ JUST
+ give
+ us
+
+
+10
+ bips
+ each
+ in
+ Ohio
+ so
+ we
+ can
+ end
+ this?
+
+
+>> No,
+ I'll
+ take
+ a
+ hat.
+ I'll
+ take
+ a
+ free
+
+
+hat.
+
+
+>> You'll
+ take
+ the
+ hat
+ or
+ 10
+ bips.
+ How
+
+
+about
+ five
+ bips
+ in
+ a
+ hat?
+
+
+>> I'll
+ take
+ a
+ hat.
+ I'll
+ take
+ some
+ advice.
+
+
+>> Don't
+ tell
+ people
+ you're
+ running
+ for
+
+
+president.
+ That's
+ my
+ That's
+ my
+ tip
+ for
+
+
+you.
+
+
+>> I'm
+ being
+ facitious.
+ Can
+ I
+ get
+ a
+ uh
+
+
+Parker?
+ Do
+ you
+ have
+ a
+ mug?
+
+
+>> Gentlemen,
+ I
+ got
+ to
+ go.
+ Love
+ you.
+ Take
+
+
+care.
+
+
+>> All right,
+ everybody.
+ Love
+ you
+ besties.
+
+
+Bye-bye.
+
+
+>> Bye-bye.
+
+
+>> We'll
+ let
+ your
+ winners
+ ride.
+
+
+And
+ it
+ said
+ we
+ open
+ sourced
+ it
+ to
+ the
+
+
+fans
+ and
+ they've
+ just
+ gone
+ crazy
+ with
+
+
+it.
+ Love
+ you
+ queen
+ of
+
+
+winners.
+
+
+>> Besties
+ are
+ gone.
+
+
+>> That
+ is
+ my
+ dog
+ taking
+ your
+ driveways.
+
+
+>> Oh
+ man.
+ Myasher
+ will
+ eat.
+ We
+ should
+ all
+
+
+just
+ get
+ a
+ room
+ and
+ just
+ have
+ one
+ big
+
+
+huge
+ orgy
+ cuz
+ they're
+ all
+ just
+ useless.
+
+
+It's
+ like
+ this
+ like
+ sexual
+ tension
+ that
+
+
+you
+ just
+ need
+ to
+ release
+ somehow.
+
+
+>> Your
+ feet.
+
+
+>> That's
+ going
+ to
+ be
+ good.
+ We
+ need
+ to
+ get
+
+
+merch.
+ I'm
+ going
+ all
+ in.
+
+
+I'm
+ going
+ all
+ in.
