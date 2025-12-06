@@ -1,0 +1,3826 @@
+All
+ right.
+ So,
+ good
+ morning.
+ My
+ name
+ is
+
+
+Mark
+ Mashottton.
+ I'm
+ our
+ enterprise
+ AI
+
+
+architect
+ at
+ Los
+ Alamos
+ National
+
+
+Laboratory.
+ Uh,
+ today,
+ you
+ know,
+ this
+ is
+
+
+an
+ AI
+ conference.
+ What
+ What's
+ a
+ nuclear
+
+
+science
+ lab
+ doing
+ here?
+ The
+ reality
+ is
+
+
+we've
+ actually
+ been
+ doing
+ applied
+ a
+ IML
+
+
+for
+ almost
+ 70
+ years.
+ Uh
+ this
+ is
+ actually
+
+
+one
+ of
+ our
+ scientists
+ in
+ 1956
+
+
+uh
+ playing
+ Los
+ Alamos
+ chess
+ uh
+ in
+ front
+
+
+of
+ one
+ of
+ our
+ first
+ supercomputers,
+
+
+Maniac
+ 1.
+ And
+ what's
+ unique
+ about
+ this
+
+
+is
+ we
+ if
+ you
+ look
+ at
+ it,
+ there's
+
+
+actually
+ no
+ bishops
+ on
+ the
+ chessboard.
+
+
+You
+ know,
+ we
+ we've
+ been
+ doing
+ applied
+
+
+statistics
+ and
+ applied
+ machine
+ learning
+
+
+since
+ we
+ didn't
+ have
+ the
+ memory
+ needed
+
+
+to
+ hold
+ an
+ entire
+ chessboard
+ in
+ a
+
+
+computer
+ at
+ once.
+ And
+ that's
+ fascinating
+
+
+to
+ to
+ say
+ back
+ when
+ this
+ photo
+ was
+
+
+taken,
+ it
+ was
+ after
+ the
+ Manhattan
+
+
+project,
+ we
+ were
+ pushing
+ the
+ edge
+ of
+
+
+developing
+ Monte
+ Carlo
+ methods
+ that
+ we
+
+
+still
+ use
+ today.
+ And
+ for
+ us,
+ you
+ know,
+
+
+AI
+ didn't
+ come
+ as
+ a
+ complete
+ surprise,
+
+
+but
+ the
+ opportunity
+ that's
+ come
+ with
+
+
+agents,
+ with
+ things
+ we
+ can
+ do
+ has
+ been
+
+
+incredible
+ even
+ to
+ to
+ us
+ that
+ have
+ been
+
+
+along
+ the
+ right
+ the
+ ride
+ for
+ quite
+ some
+
+
+time.
+
+
+Uh,
+ let's
+ see
+ if
+ I
+ can
+ make
+ this
+ full
+
+
+screen.
+
+
+So,
+ what
+ we
+ have
+ going
+ on
+ here,
+ this
+ is
+
+
+actually
+ a
+ demonstration.
+ You
+ can
+ find
+
+
+it
+ on
+ our
+ YouTube
+ channel
+ if
+ you
+ can't
+
+
+see
+ it
+ on
+ the
+ screen
+ here,
+ but
+ we've
+
+
+looked
+ at
+ generative
+ AI,
+ not
+ only
+ from
+ a
+
+
+strict
+ model
+ standpoint,
+ but
+ also
+ from
+
+
+an
+ agentic
+ standpoint
+ as
+ a
+ way
+ for
+ us
+ to
+
+
+move
+ science
+ faster.
+ You
+ know,
+ we
+ we
+
+
+like
+ much
+ of
+ the
+ federal
+ government
+ are
+
+
+under
+ a
+ squeeze
+ to
+ do
+ better,
+ faster,
+
+
+cheaper,
+ and
+ more
+ to
+ protect
+ our
+
+
+country.
+ And
+ in
+ this
+ case,
+ you
+ going
+
+
+from
+ not
+ just
+ what
+ a
+ model
+ knows,
+ but
+
+
+what
+ we
+ can
+ let
+ a
+ model
+ know
+ was
+ really
+
+
+the
+ the
+ change
+ that
+ happened
+ here.
+ We
+
+
+started
+ with
+ a
+ problem
+ of
+ go
+ design
+ an
+
+
+ICF,
+ an
+ inertial
+ confinement
+ fusion
+
+
+capsule
+ for
+ our
+ sister
+ lab
+ at
+ Liverour
+
+
+across
+ the
+ bay
+ here.
+ and
+ we
+ said,
+ "Read
+
+
+a
+ paper.
+ Go
+ read
+ lots
+ of
+ papers
+ that
+ you
+
+
+think
+ are
+ tangential
+ to
+ this
+ first
+ paper
+
+
+and
+ then
+ come
+ up
+ with
+ a
+ design
+ for
+ a
+
+
+fusion
+ capsule."
+ Uh,
+ it
+ created
+ a
+
+
+hypothesis.
+ And
+ the
+ thing
+ that's
+ kind
+ of
+
+
+uniquely
+ ours
+ is
+ this
+ isn't
+ a
+ generic,
+
+
+you
+ know,
+ chatbot
+ that
+ spits
+ back
+ a
+
+
+bunch
+ of
+ code.
+ What
+ you'll
+ see
+ here
+ in
+ a
+
+
+second,
+ we're
+ actually
+ executing
+ that
+
+
+code
+ on
+ our
+ high
+ performance
+ computing
+
+
+assets.
+ And
+ we
+ are
+ actually
+ running,
+ you
+
+
+know,
+ thermodynamic
+ hydrodnamic
+ tests
+ on
+
+
+some
+ of
+ these
+ types
+ of
+ problems
+ where
+
+
+our
+ model,
+ you
+ know,
+ isn't
+ just
+ an
+ LLM.
+
+
+It's
+ all
+ of
+ the,
+ you
+ know,
+ 50
+ 60
+ plus
+
+
+years
+ of
+ math
+ and
+ science
+ that
+ we've
+
+
+done
+ to
+ to
+ bring
+ the
+ the
+ management
+ and
+
+
+the
+ development
+ of
+ our
+ nuclear
+ stockpile
+
+
+and
+ stewardship
+ of
+ that
+ stockpile,
+ bring
+
+
+those
+ tools
+ into
+ an
+ agentic
+ era.
+ So,
+
+
+we're
+ looking
+ at
+ this
+ as
+ a
+ chance
+ for
+
+
+agents
+ to
+ move
+ faster
+ uh
+ and
+ for
+ for
+
+
+science
+ to
+ move
+ faster
+ because
+ the
+ risk
+
+
+at
+ the
+ same
+ time
+ is
+ starting
+ to
+ move
+
+
+faster.
+ You
+ can
+ see
+ here
+ it
+ actually
+ did
+
+
+come
+ up
+ with
+ a
+ design
+ that
+ it
+ thought
+
+
+optimize
+ that
+ yield
+ and
+ we
+ were
+
+
+simulating
+ a
+ slice
+ through
+ an
+ ICF
+
+
+capsule.
+
+
+But,
+ okay,
+ that's
+ one
+ nice
+ toy
+ problem.
+
+
+What
+ does
+ that
+ mean
+ for
+ the
+ other
+ 20,000
+
+
+researchers
+ that
+ we
+ have
+ at
+ our
+
+
+laboratory?
+ For
+ those
+ of
+ you
+ not
+
+
+familiar,
+ we're
+ 40
+ square
+ miles
+ of
+ labs,
+
+
+test
+ sites,
+ uh,
+ test
+ plants.
+ We
+ have
+ 13
+
+
+nuclear
+ facilities.
+ And
+ so,
+ we're
+ huge.
+
+
+We
+ have
+ a
+ huge
+ breath
+ of
+ what
+ we're
+
+
+trying
+ to
+ accomplish
+ with
+ AI,
+ uh,
+ and
+
+
+getting
+ our
+ mission
+ moving
+ faster.
+ For
+
+
+our
+ national
+ security
+ AI
+ office,
+ you
+
+
+know
+ what
+ you
+ just
+ saw,
+ that's
+ the
+ first
+
+
+thing
+ of
+ that
+ we're
+ charged
+ with.
+ Push
+
+
+the
+ science
+ of
+ AI
+ faster.
+ Don't
+ just
+ sit
+
+
+there
+ and
+ consume
+ commercial
+ tools
+ or
+
+
+open
+ source
+ tools.
+ We
+ write
+ our
+ stuff.
+
+
+We
+ write
+ our
+ own
+ models.
+ Uh
+ we
+ also
+
+
+realize
+ that
+ we
+ can't
+ do
+ everything.
+ We
+
+
+don't
+ have
+ the
+ hubris
+ to
+ understand
+ or
+
+
+to
+ say
+ here
+ and
+ oh
+ we
+ understand
+
+
+everything.
+ We
+ don't
+ need
+ anyone's
+ help.
+
+
+We
+ absolutely
+ need
+ those
+ partnerships
+
+
+from
+ commercial
+ industry
+ from
+ academia.
+
+
+And
+ then
+ just
+ like
+ the
+ rest
+ of
+ you
+ all
+
+
+here,
+ we're
+ looking
+ at
+ how
+ do
+ we
+ bring
+
+
+AI
+ and
+ Gen
+ AI
+ tools
+ into
+ our
+ workflows.
+
+
+You
+ know,
+ we
+ have
+ a
+ huge
+ footprint.
+ We
+
+
+have
+ to
+ do
+ payroll.
+ We
+ have
+ to
+ do
+
+
+procurement.
+ We
+ have
+ to
+ do
+ cyber
+
+
+security.
+ And
+ so
+ our
+ office
+ is
+ kind
+ of
+
+
+in
+ there.
+ How
+ do
+ we
+ do
+ that?
+ And
+ it
+
+
+really
+ does
+ come
+ down
+ some
+ to
+ some
+ of
+
+
+what
+ we're
+ doing
+ with
+ our
+ partners.
+ We
+
+
+have
+ some
+ great
+ academic
+ partners.
+ We
+
+
+couldn't
+ at
+ the
+ time
+ these
+ slides
+ were
+
+
+released
+ for
+ uh
+ public
+ review,
+ we
+ didn't
+
+
+get
+ the
+ screenshot
+ on
+ there.
+ We
+ also
+
+
+announced
+ a
+ partnership
+ with
+ the
+ UC
+
+
+family
+ of
+ schools
+ uh
+ on
+ the
+ academic
+
+
+side
+ of
+ developing,
+ you
+ know,
+ the
+ future
+
+
+of
+ AI.
+ But
+ we're
+ also
+ working
+ with
+ all
+
+
+the
+ frontier
+ labs.
+ you
+ know,
+ here's
+ a
+
+
+couple
+ press
+ releases
+ where
+ we've
+
+
+actually
+ done
+ chem
+ biosafety
+ work
+ with
+
+
+open
+ AAI
+ and
+ we
+ we've
+ been
+ able
+ to
+
+
+acknowledge
+ that
+ work
+ that
+ we've
+ done
+
+
+with
+ them,
+ but
+ we
+ have
+ a
+ place
+ where
+
+
+we've
+ been
+ doing
+ we're
+ a
+ safe
+ place
+ to
+
+
+do
+ dangerous
+ things
+ and
+ we've
+ been
+ doing
+
+
+that
+ for
+ decades.
+ So,
+ it's
+ a
+ neat
+
+
+partnership
+ to
+ have
+ these
+ frontier
+ labs
+
+
+that
+ really
+ can't
+ afford
+ to
+ hire
+ anyone
+
+
+they
+ want
+ still
+ come
+ to
+ us
+ as
+ a
+ source
+
+
+of
+ data
+ and
+ a
+ source
+ of
+ partnership.
+
+
+There
+ in
+ the
+ middle
+ of
+ that
+ last
+
+
+picture,
+ we
+ actually
+ have
+ science
+ of
+ AI
+
+
+in
+ the
+ hardware
+ space.
+ Uh
+ that's
+ our
+
+
+Venado
+ supercomputer.
+ It's
+ over
+ 2500
+
+
+nodes
+ of
+ GraceHopper
+ super
+ chips
+ and
+ we
+
+
+we
+ brought
+ it
+ um
+ through
+ a
+ partnership
+
+
+with
+ open
+ or
+ with
+ um
+ Nvidia
+ and
+ uh
+ HPE
+
+
+to
+ build
+ a
+ supercomput
+ that
+ can
+ help
+ us
+
+
+push
+ the
+ boundaries
+ of
+ what
+ does
+ it
+ mean
+
+
+to
+ do
+ AI
+ research.
+ And
+ then
+ more
+
+
+recently,
+ we've
+ also
+ brought
+ OpenAI's
+
+
+models
+ onto
+ this
+ system,
+ brought
+ it
+ up
+
+
+to
+ our
+ classified
+ networks,
+ and
+ we're
+
+
+getting
+ to
+ work
+ on
+ the
+ really
+ hard
+
+
+problems
+ that
+ are
+ unique
+ to
+ our
+ data
+ and
+
+
+our
+ mission
+ space.
+
+
+When
+ we
+ talk
+ about
+ agents,
+ you
+ know,
+
+
+partnerships
+ take
+ trust,
+ you
+ know,
+
+
+certainly
+ having
+ labs
+ trust
+ you
+ with
+
+
+early
+ access
+ to
+ their
+ models
+ or
+ model
+
+
+weights.
+ As
+ we
+ talk
+ about
+ sharing
+
+
+responsibility
+ with
+ our
+ partners,
+
+
+certainly
+ the
+ responsibility
+ of
+ what
+ our
+
+
+AI
+ tools
+ and
+ services
+ do
+ starts
+ to
+
+
+matter.
+ Uh
+ there
+ were
+ previous
+
+
+administration
+ had
+ certain
+ executive
+
+
+orders
+ out.
+ Those
+ were
+ replaced
+ largely
+
+
+in
+ January
+ when
+ the
+ new
+ administration
+
+
+took
+ change.
+ But
+ this
+ piece
+ of
+ OM
+
+
+memorandum
+ just
+ came
+ out
+ in
+ April.
+ Uh
+
+
+M2521
+ and
+ there's
+ M2522.
+
+
+And
+ it
+ starts
+ to
+ codify
+ like
+ what
+ things
+
+
+should
+ the
+ US
+ government
+ start
+ to
+ worry
+
+
+about
+ when
+ we're
+ fielding
+ these
+ AI
+
+
+systems.
+ It
+ tells
+ the
+ government
+ to
+ go
+
+
+faster.
+ That's
+ important.
+ But
+ it
+ also
+
+
+says
+ these
+ government
+ type
+ workloads,
+
+
+they
+ have
+ real
+ world
+ impacts.
+ You
+ know,
+
+
+for
+ us,
+ we
+ are
+ not
+ a
+ t-shirt
+ company.
+ If
+
+
+our
+ data
+ gets
+ out,
+ that's,
+ you
+ know,
+
+
+geopolitical
+ challenges
+ show
+ up.
+ Uh
+
+
+kinetic
+ challenges
+ show
+ up.
+ People
+ can
+
+
+die
+ if
+ we
+ do
+ this
+ wrong.
+ And
+ this
+ I
+
+
+won't
+ bore
+ you.
+ It's
+ like
+ 25
+ pages,
+
+
+reasonably
+ well
+ written
+ for
+ an
+ OMB
+
+
+memorandum
+ as
+ far
+ as
+ readability
+ and
+
+
+comprehensiveness,
+ but
+ it
+ says
+ we
+ as
+ the
+
+
+US
+ government
+ need
+ to
+ move
+ faster
+ into
+
+
+bringing
+ this
+ into
+ everything
+ we
+ do.
+
+
+It's
+ not
+ enough
+ to
+ just
+ buy,
+ you
+ know,
+
+
+pick
+ your
+ favorite
+ office
+ addin
+ tool
+ and
+
+
+say
+ we
+ can
+ type
+ powerpoints
+ faster
+ or
+
+
+summarize
+ our
+ emails
+ faster.
+ We
+ got
+ to
+
+
+go
+ deeper
+ into
+ our
+ mission
+ and
+ that
+
+
+comes
+ with
+ trust.
+ So,
+ who
+ here
+ is
+ part
+
+
+of
+ a
+ software
+ as
+ a
+ service
+ uh
+ company
+ or
+
+
+startup?
+
+
+Okay,
+ handful
+ of
+ hands
+ here.
+ So,
+ you've
+
+
+probably
+ seen
+ something
+ similar
+ to
+ this,
+
+
+especially
+ if
+ you've
+ been
+ in
+ the
+ cloud
+
+
+space
+ recently,
+ that
+ as
+ us
+ as
+ customers
+
+
+start
+ to
+ trust
+ you
+ with
+ our
+ data,
+ your
+
+
+responsibility
+ also
+ comes
+ up.
+ Uh
+ that's
+
+
+easy
+ to
+ do
+ for
+ our
+ open
+ public
+
+
+unrestricted
+ data
+ like
+ the
+ open
+ science
+
+
+work
+ like
+ I
+ showed
+ off
+ of
+ our
+ ICF
+
+
+capsule
+ agent.
+ But
+ as
+ we
+ get
+ into
+
+
+controlled
+ and
+ classified,
+ as
+ we
+ get
+
+
+into
+ classified
+ and
+ the
+ DOE
+ space,
+ as
+ we
+
+
+get
+ into
+ restricted
+ and
+ formerly
+
+
+restricted
+ data,
+ where
+ the
+ physics
+ of
+
+
+how
+ nuclear
+ weapons
+ work
+ don't
+ expire,
+
+
+that
+ that
+ will
+ forever
+ be
+ classified.
+
+
+It's
+ born,
+ classified,
+ and
+ stays
+
+
+classified.
+ It
+ takes
+ an
+ element
+ of
+ trust
+
+
+in
+ you
+ all
+ as
+ our
+ builders,
+ as
+ our
+
+
+providers.
+ And
+ this
+ is
+ really
+ some
+ of
+
+
+the
+ most
+ interesting
+ and
+ unfrusting
+
+
+conversations
+ we
+ have
+ with
+ companies
+
+
+trying
+ to
+ sell
+ us
+ tools
+ and
+ services
+ is
+
+
+great.
+ You
+ have
+ your
+ sock
+ 2
+ report.
+ I
+
+
+have
+ NIST
+ 853.
+ This
+ is
+ actually
+ rev
+ 4.
+
+
+It's
+ over
+ a,000
+ different
+ security
+
+
+controls
+ and
+ enhancements.
+ And
+ the
+ the
+
+
+US
+ government
+ has
+ put
+ a
+ lot
+ of
+
+
+legislation
+ in
+ place
+ to
+ do
+ traditional
+
+
+cyber
+ security
+ work.
+ Fed
+ Ramp
+ certainly
+
+
+tried
+ to
+ make
+ this
+ easier
+ by
+ coming
+ in
+
+
+and
+ saying,
+ you
+ know,
+ 200
+ your
+ security
+
+
+controls,
+ 300,
+ 400
+ have
+ been
+ vetted
+ with
+
+
+a
+ third
+ party
+ authorizer.
+ You
+ have
+ some
+
+
+continuous
+ monitoring.
+ Has
+ anyone
+ here
+
+
+been
+ downstream
+ of
+ the
+ Fed
+ ramp
+ process?
+
+
+Yeah,
+ I
+ see
+ a
+ couple
+ smiles.
+ So,
+ you
+
+
+know
+ how
+ much
+ of
+ a
+ pain
+ this
+ has
+ been.
+
+
+And
+ much
+ like
+ everything
+ else
+ in
+ the
+
+
+government
+ right
+ now,
+ it
+ is
+ changing.
+
+
+There's
+ a
+ new
+ Fed
+ ramp
+ program
+ out
+ there
+
+
+saying
+ if
+ we're
+ going
+ to
+ trust
+ you
+ with
+
+
+our
+ data,
+ if
+ we're
+ going
+ to
+ trust
+ trust
+
+
+you
+ with
+ the
+ outcomes
+ of
+ our
+ agents,
+ you
+
+
+have
+ to
+ start
+ thinking
+ about
+ your
+
+
+continuous
+ monitoring,
+ your
+ continuous
+
+
+security
+ posture.
+ Uh
+ if
+ you
+ work
+ with
+
+
+the
+ DoD,
+ that
+ gets
+ even
+ harder.
+ Uh
+ DoD
+
+
+has
+ what
+ they
+ call
+ their
+ security
+
+
+requirements
+ guide
+ or
+ CCSRG.
+ Um
+ it
+ talks
+
+
+about
+ if
+ you're
+ touching
+ this
+ type
+ of
+
+
+data
+ level.
+ So
+ it
+ takes
+ that
+ three
+ types
+
+
+or
+ three
+ types
+ of
+ Fed
+ ramp.
+ It
+ layers
+ on
+
+
+two
+ more
+ uh
+ impact
+ levels
+ as
+ the
+ DoD
+
+
+calls
+ them
+ and
+ says
+ this
+ is
+ how
+ you're
+
+
+going
+ to
+ access
+ that
+ service
+ if
+ you
+ have
+
+
+PII
+ or
+ mission
+ data
+ or
+ operational
+ data
+
+
+or
+ finance
+ data.
+ And
+ then
+ they
+ add
+
+
+another
+ copy
+ of
+ this
+ book,
+ you
+ know,
+
+
+CNSSI
+ 1253
+ on
+ top
+ of
+ that.
+ So
+ if
+ if
+
+
+you're
+ looking
+ at
+ this
+ saying
+ it's
+ a
+ lot
+
+
+of
+ governance,
+ it
+ is.
+ Um
+ but
+ the
+ fun
+
+
+part
+ is
+ right
+ now
+ where
+ we
+ are
+ today
+
+
+from
+ those
+ uh
+ April
+ 3rd
+ memorandums
+ is
+
+
+AI
+ use
+ cases,
+ AI
+ governance
+ is
+ still
+ on
+
+
+the
+ drawing
+ board.
+ Like
+ we
+ are
+ in
+ that
+
+
+180day
+ rulemaking
+ period
+ that
+ these
+ uh
+
+
+pieces
+ of
+ OM
+ memoranda
+ put
+ out
+ saying
+
+
+agent
+ or
+ agencies
+ have
+ to
+ go
+ develop
+
+
+their
+ strategies,
+ their
+ plans
+ for
+
+
+developing
+ you
+ know
+ AI
+ implementations.
+
+
+How
+ do
+ you
+ govern
+ pilots?
+ What's
+
+
+considered
+ high-risisk,
+ lowrisisk
+ in
+
+
+your
+ context?
+ And
+ there's
+ some
+
+
+prescriptive
+ guidance
+ out
+ there.
+ NIST
+
+
+back
+ in
+ 2023
+ released
+ their
+ AI
+ risk
+
+
+management
+ framework.
+
+
+>> Breakout
+ sessions
+ will
+ begin
+ in
+ 5
+
+
+minutes.
+
+
+>> Five
+ minutes
+ for
+ morning
+ breakout
+
+
+sessions.
+ [laughter]
+
+
+>> Your
+ choice.
+
+
+>> But
+ the
+ fun
+ part
+ is
+ you
+ can
+ develop
+ the
+
+
+future
+ with
+ your
+ customers
+ right
+ now.
+
+
+Now,
+ this
+ is
+ a
+ clean
+ sheet
+ of
+ paper
+ from
+
+
+a
+ technology
+ perspective
+ that
+ we
+ largely
+
+
+haven't
+ had
+ to
+ tackle.
+ Uh,
+ and
+ it's
+ it's
+
+
+fun
+ in
+ a
+ US
+ government
+ space
+ to
+ say
+ we
+
+
+can
+ invent
+ part
+ of
+ the
+ future
+ together
+
+
+with
+ commercial
+ industry.
+ Um,
+ make
+
+
+hopefully
+ better,
+ less
+ obnoxious,
+ less
+
+
+obstructive
+ decisions
+ so
+ we
+ can
+ keep
+
+
+moving
+ mission
+ faster.
+ And
+ and
+ if
+ it
+
+
+sounds
+ like
+ this
+ is
+ a
+ lot
+ of
+ lawyers
+ and
+
+
+paperwork,
+ it
+ probably
+ is.
+ Um,
+ there
+
+
+there's
+ no
+ getting
+ around.
+ Some
+ of
+ these
+
+
+records
+ and
+ artifacts
+ do
+ have
+ to
+ exist.
+
+
+But
+ the
+ the
+ reason
+ you'd
+ want
+ to
+
+
+collaborate
+ with
+ us
+ is
+ we're
+ doing
+
+
+things
+ that
+ are
+ either
+ incredibly
+ hard
+
+
+or
+ can't
+ be
+ done
+ in
+ commercial
+ industry.
+
+
+Um,
+ at least
+ at
+ Los
+ Alamos,
+ we
+ are
+
+
+sitting
+ on
+ pabytes
+ of
+ data
+ that
+ has
+
+
+never
+ seen
+ the
+ internet,
+ will
+ never
+ see
+
+
+the
+ internet.
+ Uh
+ we
+ have
+ subject
+ matter
+
+
+expertise
+ in
+ chem
+ uh
+ bio
+ materials
+
+
+physics
+ um
+ materials
+ composites
+ um
+
+
+certainly
+ cyber
+ security
+ and
+ the
+ design
+
+
+of
+ high
+ performance
+ computing
+ that
+ some
+
+
+of
+ the
+ partnerships
+ I
+ mentioned
+ earlier
+
+
+and
+ they
+ can
+ be
+ your
+ partnerships
+ too.
+
+
+You
+ know
+ we
+ we
+ firmly
+ believe
+ that
+ if
+
+
+we're
+ talking
+ about
+ taking
+ care
+ of
+ the
+
+
+country
+ taking
+ care
+ of
+ our
+ national
+
+
+competitive
+ advantage
+ that's
+ not
+ just
+ a
+
+
+bunch
+ of
+ scientists
+ sitting
+ on
+ a
+
+
+mountain
+ side
+ in
+ Los
+ Alamos
+ that
+ are
+
+
+going
+ to
+ figure
+ that
+ out.
+ We
+ really
+ do
+
+
+want
+ your
+ help
+ and
+ your
+ uh
+ engagement
+
+
+with
+ us
+ to
+ you
+ know
+ push
+ the
+ boundaries
+
+
+of
+ what
+ we
+ know.
+ This
+ was
+ originally
+
+
+meant
+ to
+ be
+ an
+ architecture
+ talk.
+ So
+
+
+finishing
+ up
+ with
+ an
+ architecture
+ slide.
+
+
+If
+ you
+ are
+ interested
+ in
+ bringing
+ a
+
+
+agentic
+ tools,
+ agentic
+ services
+ to
+ the
+
+
+federal
+ government.
+ There's
+ really
+ four
+
+
+things
+ to
+ think
+ about.
+ You
+ know,
+ we
+ want
+
+
+to
+ see
+ that
+ you've
+ built
+ for
+
+
+explanability.
+ Our
+ keynote
+ this
+ morning
+
+
+touched
+ on
+ that
+ a
+ little
+ bit
+ of
+ how
+ did
+
+
+you
+ get
+ to
+ that
+ decision?
+ you
+ know,
+ if
+
+
+if
+ something
+ goes
+ wrong
+ or
+ if
+ we
+ have
+ a
+
+
+bad
+ day,
+ we
+ don't
+ have
+ shareholders
+ that
+
+
+we're
+ responsible
+ to.
+ We
+ have
+ the
+ US
+
+
+citizens
+ to
+ be
+ responsible
+ to.
+ Um,
+ we
+
+
+have
+ whatever
+ that
+ outcome
+ was
+ that,
+ you
+
+
+know,
+ caused
+ some
+ press
+ briefing.
+ We
+
+
+need
+ to
+ be
+ able
+ to
+ trust
+ our
+ agents
+ the
+
+
+same
+ way
+ we
+ trust
+ our
+ staff.
+ Uh,
+ when
+ we
+
+
+talk
+ about
+ fielding
+ things,
+ again,
+ we
+ we
+
+
+are
+ not
+ a
+ t-shirt
+ company.
+ Building
+ for
+
+
+isolation
+ matters.
+ And
+ um
+ I
+ was
+ looking
+
+
+forward
+ to
+ seeing
+ Microsoft's
+ demo
+ on
+
+
+the
+ uh
+
+
+self-hosted
+ uh
+ AI
+ foundry
+ pieces,
+ but
+
+
+for
+ us,
+ we
+ do
+ that
+ anyways.
+ We
+ look
+ and
+
+
+leverage
+ heavily
+ open-source
+ tools
+ and
+
+
+services
+ and
+ models
+ to
+ do
+ some
+ of
+ this
+
+
+work
+ because
+ we
+ can't
+ get
+ it
+ from
+ a
+
+
+hyperscaler
+ cloud
+ provider.
+ Uh
+ so
+ as
+
+
+you're
+ building
+ your
+ tools
+ and
+ services,
+
+
+take
+ a
+ look
+ at
+ some
+ of
+ those
+ services
+ in
+
+
+scope
+ page.
+ Even
+ if
+ you
+ are
+ a
+ SAS
+
+
+startup,
+ um
+ if
+ you
+ can
+ build
+ in
+ a
+ DoD
+
+
+impact
+ level
+ 5
+ environment
+ with
+ that
+
+
+limited
+ number
+ of
+ services
+ from
+ your
+
+
+cloud
+ vendor,
+ you
+ can
+ deploy
+ anywhere.
+
+
+You
+ know,
+ you
+ you
+ have
+ the
+ least
+ common
+
+
+denominator
+ uh
+ out
+ of
+ that
+ entire
+ tech
+
+
+stack.
+ If
+ you
+ can
+ deploy
+ your,
+ you
+ know,
+
+
+your
+ tool,
+ your
+ application
+ there,
+ that
+
+
+makes
+ our
+ job
+ easier.
+ That
+ makes
+ you
+
+
+more
+ portable.
+
+
+And
+ as
+ along
+ with
+ that
+ comes
+ build
+ for
+
+
+governance.
+ We
+ also
+ have
+ some
+ awkward
+
+
+conversations
+ with
+ customers
+ where
+ it's
+
+
+well
+ we
+ need
+ a
+ software
+ bill
+ of
+
+
+materials
+ as
+ we're
+ doing
+ this
+
+
+procurement
+ with
+ you
+ and
+ yeah
+ [laughter]
+
+
+uh
+ people
+ look
+ at
+ us
+ like
+ I
+ mean
+ I
+ guess
+
+
+we
+ can
+ dump
+ you
+ know
+ what
+ we
+ had
+ in
+ our
+
+
+build
+ script
+ and
+ it's
+ it's
+ a
+ little bit
+
+
+of
+ an
+ awkward
+ conversation
+ but
+ that's
+
+
+required
+ per
+ our
+ regs
+ you
+ know
+ AI
+ stuff
+
+
+is
+ moving
+ a
+ mile
+ a
+ minute
+ the
+
+
+traditional
+ cyber
+ security
+ stuff
+ is
+
+
+moving
+ faster
+ but
+ not
+ quite
+ there
+ yet
+ so
+
+
+if
+ you
+ can
+ plan
+ to
+ have
+ those
+
+
+conversations
+ of
+ how
+ did
+ you
+ handle
+ open
+
+
+source
+ dependencies.
+ What
+ are
+ your
+
+
+patching
+ plans?
+ What
+ you
+ know,
+ help
+ us
+
+
+fill
+ this
+ paperwork
+ out
+ if
+ we're
+ buying
+
+
+from
+ you
+ as
+ a
+ software
+ as
+ a
+ service
+ or
+
+
+platform
+ as
+ a
+ service.
+ That
+ makes
+ that
+
+
+entire
+ partnership
+ that
+ much
+ faster,
+
+
+that
+ much
+ more
+ friendly.
+ And
+ lastly,
+
+
+keep
+ up
+ the
+ speed.
+
+
+We
+ have
+ also
+ had
+ some
+ awkward
+
+
+conversations
+ with
+ some
+ of
+ our
+ service
+
+
+providers
+ saying,
+ why
+ is
+ your
+ federal
+
+
+stuff
+ a
+ year
+ out
+ of
+ date?
+ you
+ know,
+ why
+
+
+is
+ that
+ service
+ par
+ not
+ happening
+ a
+
+
+year,
+ three
+ years,
+ five
+ years
+ uh
+ from
+
+
+when
+ you
+ launched
+ it
+ in
+ a
+ commercial
+
+
+region?
+ And
+ that's
+ not
+ us
+ just
+ liking
+
+
+ourselves
+ and
+ wanting
+ to
+ have
+ bravado
+
+
+that
+ oh,
+ we're
+ the
+ government,
+ we
+ we're
+
+
+a
+ quasi
+ federal
+ agency,
+ we
+ we
+ care
+ about
+
+
+our
+ data.
+ No,
+ this
+ is
+ rooted
+ in
+ export
+
+
+compliance
+ law.
+ This
+ is
+ things
+ like
+ we
+
+
+can't
+ buy
+ from
+ you
+ unless
+ you're
+ in
+ the
+
+
+right
+ places.
+ Um
+ so
+ it's
+ if
+ you
+ can
+
+
+design
+ for
+ speed
+ in
+ your
+ hard
+ corners
+
+
+that
+ optimizes
+ your
+ chances
+ of
+ uh
+
+
+fielding
+ your
+ tools
+ and
+ services
+ with
+ us
+
+
+uh
+ in
+ different
+ places
+ that
+ we
+ have
+ to
+
+
+operate
+ to
+ meet
+ our
+ mission
+
+
+and
+ and
+ with
+ that
+ I
+ lo
+ Alamos
+ we
+ were
+
+
+founded
+ on
+ the
+ idea
+ that
+ the
+ right
+
+
+application
+ of
+ math
+ and
+ science
+ can
+
+
+change
+ the
+ world
+ overnight.
+ Um
+ we
+ we've
+
+
+done
+ that.
+ We're
+ not
+ a
+ stranger
+ to
+ how
+
+
+that
+ feels
+ to
+ show
+ up
+ and
+ the
+ world
+ is
+
+
+now
+ different.
+ Uh
+ that's
+ what
+ we
+ were
+
+
+founded
+ to
+ do.
+ And
+ when
+ we
+ look
+ at
+ AI,
+
+
+uh
+ Aentic
+ tools,
+ what
+ we
+ can
+ do
+ with
+
+
+frontier
+ models,
+ any
+ of
+ the
+ above,
+ um
+ we
+
+
+see
+ it
+ as
+ the
+ greatest
+ opportunity
+ and
+
+
+the
+ greatest
+ threat
+ to
+ national
+
+
+security,
+ but
+ the
+ opportunity
+ is
+ what
+
+
+keeps
+ us
+ showing
+ up.
+ We're
+ not
+ scared
+ of
+
+
+the
+ the
+ downside
+ risk.
+ We
+ have
+ to
+ be
+
+
+here
+ to
+ help
+ develop
+ the
+ future.
+ Uh,
+ one
+
+
+of
+ my
+ favorite
+ anecdotes,
+ uh,
+ because
+ we
+
+
+are
+ a
+ nuclear
+ science
+ lab,
+ uh,
+ we
+ do
+ a
+
+
+lot
+ of
+ nuclear
+ non-prololiferation
+ work.
+
+
+And
+ because
+ we
+ do
+ that
+ type
+ of
+ work,
+
+
+we've
+ gotten
+ really
+ good
+ at
+ specialty
+
+
+sensors.
+ And
+ what
+ have
+ we
+ been
+ able
+ to
+
+
+do
+ with
+ that
+ specialty
+ sensor?
+ We
+ have
+ a
+
+
+laser
+ strapped
+ to
+ a
+ car
+ on
+ Mars
+ zapping
+
+
+rocks.
+ You
+ know,
+ we
+ built
+ the
+ ChemCam
+
+
+sensor.
+ So
+ even
+ if
+ you're
+ a
+ little
+ bit
+
+
+on
+ the
+ fence
+ about
+ should
+ we
+ engage
+
+
+with,
+ you
+ know,
+ the
+ nuclear
+ enterprise
+
+
+of
+ the
+ US,
+ there's
+ other
+ fundamental
+
+
+science
+ that
+ we
+ do
+ that's
+ just
+ pushing
+
+
+the
+ boundaries
+ that
+ we
+ as
+ a
+ human
+
+
+species
+ know
+ and
+ can
+ do
+ and
+ can
+ can
+ grow
+
+
+into.
+ So
+ with
+ that,
+ thank
+ you
+ so
+ much
+
+
+for
+ your
+ time
+ today.
+ I
+ really
+ appreciate
+
+
+it
+ and
+ I'll
+ be
+ available
+ on
+ the
+ side
+ for
+
+
+questions.
+ Thank
+ you.
