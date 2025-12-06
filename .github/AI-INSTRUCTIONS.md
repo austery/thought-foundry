@@ -564,6 +564,12 @@ GitHub Actions automatically builds and deploys the site:
 3. **Minimal changes** - Make smallest possible changes to achieve goal
 4. **Test coverage** - Run full build after changes
 
+### 8. 会话结束：知识捕捉 (End-of-Session: Knowledge Capture)
+在每次开发会话结束时，你必须将我们的对话（包括关键决策、代码片段和未解决的问题）进行总结。
+
+在 /docs/scratchpad/ 目录下创建一个新的 Markdown 文件。
+使用文件名格式: YYYY-MM-DD_session-summary-brief-description.md。
+这将捕捉我们知识提纯过程的原始输入，并确保没有见解被遗忘。
 ---
 
 ## 📞 Contact & Resources

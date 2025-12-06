@@ -16,8 +16,8 @@ module.exports = async function (eleventyConfig) {
   const REGEX_CHINESE = /[\u4e00-\u9fa5]/;
   const REGEX_LOWER = /^[a-z]/;
 
-  // 性能优化：构建时间监控
-  const buildStartTime = Date.now();
+  // 性能优化：构建时间监控（在 eleventy.before 中设置）
+  let buildStartTime;
 
   // 性能优化：持久化拼音缓存
   const CACHE_FILE = path.join(__dirname, '.eleventy-cache.json');
@@ -1222,6 +1222,11 @@ module.exports = async function (eleventyConfig) {
   // --- Passthrough Copy & 核心配置 (保持不变) ---
   eleventyConfig.addPassthroughCopy("src/js");
   eleventyConfig.addPassthroughCopy("src/css");
+
+  // 性能优化：在构建开始时记录时间
+  eleventyConfig.on('eleventy.before', async () => {
+    buildStartTime = Date.now();
+  });
 
   // 性能优化：在构建结束时保存持久化缓存
   eleventyConfig.on('eleventy.after', async () => {
