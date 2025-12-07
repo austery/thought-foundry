@@ -16,7 +16,7 @@ media_books:
 - 原子习惯
 date: 2024-04-23
 author: Lei
-speaker: 冯凯文
+speaker: KevinFeng 冯凯文
 draft: true
 file_name: the_trap_of_atomic_habits.md
 guest: null
