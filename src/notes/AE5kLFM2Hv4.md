@@ -1,10 +1,10 @@
 ---
-author: 禁書筆記
+author: ZetaBook
 date: '2025-11-29'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=AE5kLFM2Hv4
-speaker: 禁書筆記
+speaker: ZetaBook
 tags:
   - tribute-system
   - inner-empire

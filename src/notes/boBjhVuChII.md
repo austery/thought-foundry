@@ -1,10 +1,10 @@
 ---
-author: 禁書筆記
+author: ZetaBook
 date: '2025-10-30'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=boBjhVuChII
-speaker: 禁書筆記
+speaker: ZetaBook
 tags:
   - us-china-rivalry
   - great-game

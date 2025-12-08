@@ -1,10 +1,10 @@
 ---
-author: 禁書筆記
+author: ZetaBook
 date: '2025-11-12'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=Qd6yFK0HlZQ
-speaker: 禁書筆記
+speaker: ZetaBook
 tags:
   - white-terror
   - mccarthyism

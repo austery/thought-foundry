@@ -1,10 +1,10 @@
 ---
-author: 禁書筆記
+author: ZetaBook
 date: '2025-11-08'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=f43Qltd-8KQ
-speaker: 禁書筆記
+speaker: ZetaBook
 tags:
   - chinese-civil-war
   - kmt-factionalism

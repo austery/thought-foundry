@@ -15,7 +15,7 @@ products_models: []
 media_books: []
 date: 2025-07-25
 author: Lei
-speaker: 禁書筆記
+speaker: ZetaBook
 channel: null
 draft: true
 guest: null

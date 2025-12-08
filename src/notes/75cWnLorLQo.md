@@ -1,10 +1,10 @@
 ---
-author: 禁書筆記
+author: ZetaBook
 date: '2025-10-25'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=75cWnLorLQo
-speaker: 禁書筆記
+speaker: ZetaBook
 tags:
   - great-man-theory
   - structural-history

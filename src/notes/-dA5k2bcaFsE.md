@@ -18,8 +18,8 @@ companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-09-06'
-author: 禁書筆記
-speaker: 禁書筆記
+author: ZetaBook
+speaker: ZetaBook
 draft: true
 guest: ''
 insight: ''
