@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 美投君
+speaker: 美投讲美股
 channel: null
 guest: null
 insight: null

@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: 2025-08-18
 author: Lei
-speaker: 美投君
+speaker: 美投讲美股
 channel: null
 draft: true
 file_name: invest_nvidia_understand_jensen_huang_trait.md

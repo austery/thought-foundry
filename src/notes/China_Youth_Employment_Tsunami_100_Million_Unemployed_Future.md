@@ -17,7 +17,7 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 老周
+speaker: 老周横眉
 channel: 老周横眉
 guest: null
 insight: null
