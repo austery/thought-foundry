@@ -17,7 +17,7 @@ products_models: []
 media_books: []
 date: 2025-09-25
 author: Lei
-speaker: LT
+speaker: LT視界
 draft: true
 guest: null
 insight: null

@@ -18,7 +18,7 @@ media_books:
 - 三个水枪手
 date: '2025-05-30'
 author: Lei
-speaker: 三个水枪手
+speaker: 三個水槍手
 channel: null
 guest: ''
 insight: null

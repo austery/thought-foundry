@@ -4,7 +4,7 @@ date: 2025-10-31
 guest: ''
 layout: post.njk
 source: 'https://www.youtube.com/watch?v=xefsis6QGG0'
-speaker: 大飞说科技
+speaker: Best Partners TV
 tags:
   - ai-innovation
   - accelerated-computing

@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: 2025-09-11
 author: Lei
-speaker: 大飞
+speaker: Best Partners TV
 draft: true
 guest: null
 insight: null

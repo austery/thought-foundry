@@ -15,7 +15,7 @@ products_models: []
 media_books:
 date: '2025-07-10'
 author: Lei
-speaker: 三个水枪手
+speaker: 三個水槍手
 channel: null
 guest: null
 insight: null

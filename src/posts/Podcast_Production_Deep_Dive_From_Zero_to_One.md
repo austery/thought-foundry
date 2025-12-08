@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: 一口新饭
+speaker: 一口新饭读书会
 channel: null
 guest: null
 insight: null
