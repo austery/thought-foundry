@@ -1,7 +1,7 @@
 ---
 title: 20251207_Office Hour——带上你的问题和作品：Vibe Coding 答疑 & 项目分享会
 source: https://www.youtube.com/watch?v=ReD3lmEPWwE
-speaker: 用AI發電
+speaker: 为AI发电
 author:
 published:
 summary: 在这个飞速变化的AI时代，我们正在见证一场从“手工编写代码”到“设计系统规格”的职能跃迁。本期 Office Hour 不仅仅是一场技术分享，更是一次关于“如何驾驭AI超级员工”的深度复盘。从 Mike 老师对 Google 最新工具的评测，到 Ron 仅用两人团队就重构庞大工业洗衣系统的实战案例，我们看到了一个共同的趋势： **未来的超级个体，不再是代码的搬运工，而是逻辑的编排者和文档的架构师。**
@@ -13,6 +13,7 @@ project:
 category:
 area:
 aliases:
+layout: post.njk
 created: 2025-12-07T08:58
 updated: 2025-12-07T08:58
 ---
