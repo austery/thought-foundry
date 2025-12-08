@@ -18,7 +18,7 @@ products_models: []
 media_books: []
 date: '2023-12-12'
 author: Lei
-speaker: 铁头金融汪
+speaker: 金融汪
 channel: 师姐说
 guest: null
 insight: 我很喜欢看她的思考方式，帮助我理解财富的分配。

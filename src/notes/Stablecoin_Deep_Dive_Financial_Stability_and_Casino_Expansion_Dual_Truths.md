@@ -13,7 +13,7 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: Mr. Sun
+speaker: 政經孫老師
 channel: null
 guest: null
 insight: null

@@ -1,6 +1,6 @@
 # 2025-12-07_session-summary-speaker-name-correction
 
-**Objective:** Correct speaker names in Markdown files, specifically changing "为AI发电" to "用AI發電", "LT" to "LT視界", "三个水枪手" to "三個水槍手", and "美投君" to "美投讲美股".
+**Objective:** Correct speaker names in Markdown files, specifically changing "为AI发电" to "用AI發電", "LT" to "LT視界", "三个水枪手" to "三個水槍手", "美投君" to "美投讲美股", and "铁头金融汪" to "金融汪".
 
 **Actions Taken:**
 1.  Identified existing Python scripts for speaker/author modification (`rename_speaker.py`, `update_speaker_author.py`).
@@ -23,6 +23,9 @@
     *   Executed the script using `uv run python scripts/rename_ai_speaker.py`. This updated 6 files.
 7.  **Fourth Correction ("美投君" to "美投讲美股"):**
     *   Modified `scripts/rename_ai_speaker.py` to set `OLD_NAME = "美投君"` and `NEW_NAME = "美投讲美股"`.
+    *   Executed the script using `uv run python scripts/rename_ai_speaker.py`. This updated 3 files.
+8.  **Fifth Correction ("铁头金融汪" to "金融汪"):**
+    *   Modified `scripts/rename_ai_speaker.py` to set `OLD_NAME = "铁头金融汪"` and `NEW_NAME = "金融汪"`.
     *   Executed the script using `uv run python scripts/rename_ai_speaker.py`. This updated 3 files.
 
 **Outcome:**

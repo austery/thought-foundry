@@ -15,7 +15,7 @@ products_models: []
 media_books: []
 date: '2023-10-23'
 author: Lei
-speaker: 铁头金融汪
+speaker: 金融汪
 channel: 师姐说
 guest: null
 insight: 这几期很好的缓解我对于美国债务的忧虑，钱都藏在民间，美国人大大的有钱呀。但是贫富悬殊也是另外的问题，有这个基本认知，就不用过度担心美国国债的问题。

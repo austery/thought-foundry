@@ -1,10 +1,10 @@
 ---
-author: 硅谷101 podcast
+author: 硅谷101播客
 date: 2025-10-31
 guest: ''
 layout: post.njk
 source: 'https://www.youtube.com/watch?v=lV6EBPLyhGQ'
-speaker: 硅谷101 podcast
+speaker: 硅谷101播客
 tags:
   - ai-infrastructure
   - data-centers
