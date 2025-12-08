@@ -3,7 +3,7 @@ author: Lei
 date: 2025-09-16
 guest:
 layout: post.njk
-source: https://www.youtube.com/watch?v=ajU6EXTCZwA&list=PLCL11WeRjTMQzC4YXnklQ0Wue7dyX4b_M&index=1
+source: https://www.youtube.com/watch?v=ajU6EXTCZwA
 speaker: 北美王路飞
 tags:
   - peter-thiel

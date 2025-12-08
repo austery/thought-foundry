@@ -1,6 +1,6 @@
 # 2025-12-07_session-summary-speaker-name-correction
 
-**Objective:** Correct speaker names in Markdown files, specifically changing "为AI发电" to "用AI發電", "LT" to "LT視界", "三个水枪手" to "三個水槍手", "美投君" to "美投讲美股", "铁头金融汪" to "金融汪", "禁书笔记" to "ZetaBook", and "禁書筆記" to "ZetaBook".
+**Objective:** Correct speaker names in Markdown files, specifically changing "为AI发电" to "用AI發電", "LT" to "LT視界", "三个水枪手" to "三個水槍手", "美投君" to "美投讲美股", "铁头金融汪" to "金融汪", "禁书笔记" to "ZetaBook", "禁書筆記" to "ZetaBook", "知行小酒馆" to "雨白", and finally reverting "雨白" back to "知行小酒馆".
 
 **Actions Taken:**
 1.  Identified existing Python scripts for speaker/author modification (`rename_speaker.py`, `update_speaker_author.py`).
@@ -33,8 +33,14 @@
 10. **Seventh Correction ("禁書筆記" [Traditional] to "ZetaBook"):**
     *   Modified `scripts/rename_ai_speaker.py` to set `OLD_NAME = "禁書筆記"` and `NEW_NAME = "ZetaBook"`.
     *   Executed the script using `uv run python scripts/rename_ai_speaker.py`. This updated 12 files.
+11. **Eighth Correction ("知行小酒馆" to "雨白"):**
+    *   Modified `scripts/rename_ai_speaker.py` to set `OLD_NAME = "知行小酒馆"` and `NEW_NAME = "雨白"`.
+    *   Executed the script using `uv run python scripts/rename_ai_speaker.py`. This updated 18 files.
+12. **Ninth Correction (Revert "雨白" to "知行小酒馆"):**
+    *   Modified `scripts/rename_ai_speaker.py` to set `OLD_NAME = "雨白"` and `NEW_NAME = "知行小酒馆"`.
+    *   Executed the script using `uv run python scripts/rename_ai_speaker.py`. This updated 28 files.
 
 **Outcome:**
-All specified speaker name correction tasks were successfully completed. The difference between Simplified and Traditional Chinese characters was a key factor in the last two corrections.
+All specified speaker name correction tasks were successfully completed, including the revert.
 
 **Next Steps:** Await user's next instruction.

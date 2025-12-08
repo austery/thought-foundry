@@ -9,20 +9,20 @@ tags:
   - ai
   - 技术停滞
 people:
-  - Ross Douthat (罗斯·杜塔特)
-  - Peter Thiel (彼得·蒂尔)
+  - Ross Douthat
+  - Peter Thiel
 companies_orgs: []
 products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: ''
+speaker: Interesting Times with Ross Douthat
 channel: null
 guest: ''
 insight: null
 layout: post.njk
 series: null
-source: https://www.youtube.com/watch?v=kY6iE8tC3aI
+source: https://www.youtube.com/watch?v=vV7YgnPUxcU
 ---
 # 彼得·蒂尔对话罗斯·杜塔特：人工智能、火星与不朽——我们的梦想足够远大吗？
 

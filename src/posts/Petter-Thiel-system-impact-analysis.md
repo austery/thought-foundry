@@ -1,9 +1,10 @@
 ---
-title: Petter Thiel 系统性影响与应对
+title: Petter Thiel system impact analysis
 source: https://gemini.google.com/app/0c9bd2ed4e2e19a0
 author: Gemini
 published:
-summary: Meet Gemini, Google’s AI assistant. Get help with writing, planning, brainstorming, and more. Experience the power of generative AI.
+layout: post.njk
+summary: 
 tags:
   - ai-chat
   - investment-strategy
@@ -13,10 +14,14 @@ updated: 2025-09-14T21:44
 created: 2025-09-14T21:44
 status: archived
 insight:
+
 project:
 category:
 area: finance
+people:
+  - Peter Thiel
 ---
+
 Https://news.marsbit.co/20250913201238868879.html
 
 刚才读了这篇文章, 感觉挺, 挺复杂的。呃, 你怎么看这文章? 而且我觉得它的脉络还梳理得很清楚。你觉得Peter Thiel是在, 呃, 真实地改变美国吗? 我觉得好像的确是有一点。然后这个对我们当今社会有什么影响呢? 嗯, 还有就是说, 在这整个的影响下, 我们该怎么自取, 呃, 我希望你跟我一起来思考一下。

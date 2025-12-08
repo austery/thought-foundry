@@ -12,8 +12,8 @@ TARGET_DIRS = [
     Path("/Users/leipeng/Documents/Projects/thought-foundry/src/posts"),
     Path("/Users/leipeng/Documents/Projects/thought-foundry/src/notes")
 ]
-OLD_NAME = "禁書筆記"
-NEW_NAME = "ZetaBook"
+OLD_NAME = "雨白"
+NEW_NAME = "知行小酒馆"
 
 def parse_frontmatter(content: str) -> tuple[str, str, str]:
     """
