@@ -17,7 +17,6 @@ insight:
 
 project:
 category:
-area: finance
 people:
   - Peter Thiel
 area: market-analysis
