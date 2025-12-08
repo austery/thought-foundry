@@ -14,8 +14,6 @@ updated: 2025-09-14T21:44
 created: 2025-09-14T21:44
 status: archived
 insight:
-
-project:
 people:
   - Peter Thiel
 area: market-analysis
