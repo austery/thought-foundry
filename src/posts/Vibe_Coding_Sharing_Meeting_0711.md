@@ -14,7 +14,7 @@ products_models: []
 media_books: []
 date: '2025-07-12'
 author: Lei
-speaker: 为AI发电
+speaker: 用AI發電
 channel: null
 guest: null
 insight: null

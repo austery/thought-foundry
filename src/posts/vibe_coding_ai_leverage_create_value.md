@@ -27,7 +27,7 @@ products_models: []
 media_books: []
 date: 2025-08-17
 author: Lei
-speaker: 为AI发电
+speaker: 用AI發電
 channel: ''
 draft: true
 file_name: vibe_coding_ai_leverage_create_value.md

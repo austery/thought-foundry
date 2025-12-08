@@ -30,7 +30,7 @@ products_models: []
 media_books: []
 date: 2025-08-11
 author: Lei
-speaker: 为AI发电
+speaker: 用AI發電
 channel: null
 draft: true
 file_name: ai_makers_sharing_vibe_coding_practice.md
