@@ -2,7 +2,7 @@
 title: Petter Thiel system impact analysis
 source: https://gemini.google.com/app/0c9bd2ed4e2e19a0
 author: Gemini
-published:
+date: '2025-09-25'
 layout: post.njk
 summary: 
 tags:
