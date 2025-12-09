@@ -1,28 +1,26 @@
 ---
-title: 播客报告：人工智能时代的儿童教育
+title: 播客报告：人工智能时代的儿童教育 Educating Kids in the Age of A.I. 
 summary: null
 area: tech-insights
 category: technology
 project:
 - ai-impact-analysis
 tags:
-  - ai
   - 儿童教育
   - 学习
   - 未来
-people: []
+people: 
+- Ezra
+- Rebecca
 companies_orgs: []
 products_models: []
 media_books: []
-date: '2025-05-25'
+date: '2025-05-13'
 author: Lei
-speaker: Ezra，Rebecca
-channel: Ezra Klein Show
-guest: null
-insight: null
+speaker: The Ezra Klein Show
 layout: post.njk
 series: null
-source: null
+source: https://www.youtube.com/watch?v=HQQtaWgIQmE
 ---
 # 人工智能时代的儿童教育
 
