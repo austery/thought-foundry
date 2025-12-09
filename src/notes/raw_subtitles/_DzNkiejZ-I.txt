@@ -1,0 +1,4518 @@
+[music]
+
+
+Greetings
+ everyone.
+ My
+ name
+ is
+ Paige.
+
+
+I'm
+ the
+ inch
+ lead
+ for
+ our
+ developer
+
+
+relations
+ team
+ at
+ Google
+ DeepMind,
+ which
+
+
+means
+ that
+ I
+ get
+ to
+ work
+ with
+ the
+ Gemini
+
+
+APIs,
+ AI
+ Studio,
+ Gemma,
+ and
+ a
+ whole
+
+
+bunch
+ of
+ other
+ stuff
+ every
+ single
+ day.
+
+
+So,
+ if
+ you
+ have
+ startups
+ that
+ want
+ to
+
+
+use
+ our
+ models,
+ if
+ you're
+ curious
+ about
+
+
+the
+ capabilities
+ of
+ them
+ or
+ something
+
+
+that
+ you
+ see
+ today,
+ please
+ feel
+ free
+ to
+
+
+chat
+ afterwards.
+ I
+ would
+ love
+ to
+ hear
+
+
+about
+ your
+ use
+ case
+ and
+ to
+ see
+ how
+ we
+
+
+can
+ work
+ together.
+ So
+ I
+ don't
+ think
+ it's
+
+
+a
+ secret
+ that
+ Google
+ has
+ been
+ a
+ little
+
+
+bit
+ busy.
+ We
+ have
+ released
+ uh
+ on
+ average
+
+
+a
+ new
+ model
+ or
+ a
+ new
+ feature
+ every
+
+
+single
+ day.
+ Um
+ sometimes
+ multiple
+ ones
+ a
+
+
+day
+ uh
+ over
+ the
+ course
+ of
+ the
+ last
+
+
+couple
+ of
+ months.
+ Latest
+ flagship
+ model
+
+
+is
+ still
+ Gemini
+ 2.5
+ Pro
+ for
+ uh
+ at least
+
+
+for
+ now.
+ Um
+ Gemini
+ 2.5
+ flash
+ image
+
+
+preview
+ aka
+ Nano
+ Banana.
+ Um
+ how
+ many
+
+
+people
+ have
+ tried
+ Nano
+ Banana?
+ Uh
+
+
+excellent.
+ We're
+ we're
+ not
+ the
+ best
+ at
+
+
+naming
+ things.
+ um
+ but
+ uh
+ Nano
+ Banana
+
+
+being
+ the
+ exception
+ but
+ we'll
+
+
+[clears throat]
+ see
+ that
+ in
+ a
+ little
+
+
+bit.
+ VO3.1
+ which
+ is
+ our
+ latest
+ video
+
+
+generation
+ model
+ which
+ also
+ includes
+
+
+audio
+ including
+ audio
+ in
+ multiple
+
+
+languages,
+ background
+ effects,
+ music
+
+
+etc.
+ GIMA
+ 3N
+ which
+ is
+ part
+ of
+ our
+ open
+
+
+model
+ family.
+ Genie3
+ which
+ is
+ a
+ world
+
+
+model
+ and
+ our
+ computer
+ use
+ API
+ which
+ if
+
+
+we
+ have
+ time
+ we
+ will
+ also
+ be
+ demoing.
+ So
+
+
+Gemini
+ is
+ special
+ in
+ a
+ couple
+ of
+ ways.
+
+
+One
+ of
+ which
+ is
+ that
+ it's
+ natively
+
+
+multimodal.
+ So
+ it
+ can
+ understand
+ video
+
+
+and
+ images
+ and
+ audio
+ uh
+ and
+ text
+ and
+
+
+code
+ and
+ all
+ of
+ the
+ above
+ all
+ at
+ once.
+
+
+But
+ it
+ can
+ also
+ output
+ m multiple
+
+
+modalities
+ which
+ means
+ that
+ you
+ can
+
+
+output
+ audio
+ including
+ audio
+ in
+ multiple
+
+
+languages.
+ You
+ can
+ output
+ images
+ and
+
+
+images
+ and
+ text
+ interled
+ or
+ edit
+ images
+
+
+and
+ you
+ can
+ do
+ all
+ of
+ that
+ with
+ the
+ same
+
+
+model.
+ Um
+ and
+ so
+ uh
+ this
+ is
+ just
+ kind
+ of
+
+
+a
+ subset
+ of
+ things
+ that
+ you
+ can
+ do
+ with
+
+
+Gemini.
+ Now,
+ if
+ you
+ explore
+ within
+ AI
+
+
+Studio,
+ but
+ it's
+ a
+ lot
+ cooler
+ to
+ show
+
+
+rather
+ than
+ tell,
+ it's
+ a
+ great
+ way
+ to
+
+
+play
+ with
+ Deep
+ Mind's
+ models
+ as
+ soon
+ as
+
+
+they
+ come
+ out.
+ Um,
+ you
+ can
+ select
+
+
+different
+ models
+ here
+ off
+ to
+ the
+ right
+
+
+and
+ get
+ different
+ insights
+ about
+ them.
+
+
+Um,
+ but
+ you
+ can
+ also
+ do
+ things
+ like
+ add
+
+
+images.
+ So,
+ I'm
+ just
+ going
+ to
+ select
+ a
+
+
+sample
+ image,
+ maybe
+ this
+ one.
+ Um,
+ I'm
+
+
+going
+ to
+ turn
+ on
+ structured
+ outputs,
+
+
+which
+ uh
+ which
+ hopefully
+ folks
+ are
+
+
+using.
+ add
+ some
+ properties.
+ So
+ maybe
+
+
+like
+ a
+ landmark
+ name,
+ a
+ country
+ name,
+ a
+
+
+city
+ name,
+ maybe
+ a
+ description.
+ Make
+ all
+
+
+of
+ that
+ available
+ as
+ multiples.
+ So
+ if
+
+
+they
+ uh
+ if
+ they
+ want
+ to
+ return
+ multiple
+
+
+values,
+ they
+ can.
+ And
+ then
+ hit
+ run.
+ Um
+
+
+and
+ we
+ should
+ see
+ a
+ JSON
+ blob.
+ Yep.
+ That
+
+
+has
+ kind
+ of
+ landmark
+ name,
+ country
+ name,
+
+
+etc.
+ Um
+ you
+ can
+ just
+ uh
+ play
+ with
+ the
+
+
+models
+ pretty
+ quickly.
+ And
+ then
+ if
+ you
+
+
+can
+ get
+ something
+ working
+ in
+ AI
+ Studio,
+
+
+if
+ you
+ click
+ get
+ code,
+ it
+ gives
+ you
+
+
+everything
+ that
+ you
+ would
+ need
+ to
+
+
+replicate
+ whatever
+ you
+ just
+ did
+ in
+ AI
+
+
+Studio
+ as
+ part
+ of
+ your
+ app.
+ So
+ if
+ I
+ go
+
+
+to
+ Python,
+ um
+ I
+ hear
+ that
+ all
+ of
+ y'all
+
+
+are
+ data
+ humans.
+ So
+ probably
+ um
+ probably
+
+
+love
+ Python
+ um
+ or
+ at
+ least
+ tolerate
+ it.
+
+
+Um
+ the
+ you
+ can
+ see
+ that
+ it's
+ selected
+
+
+the
+ the
+ specific
+ model.
+ Um
+ it's
+ kind
+ of
+
+
+given
+ you
+ the
+ the
+ blurb
+ to
+ configure.
+
+
+Um,
+ also
+ it's
+ incorporated
+ a
+ lot
+ of
+
+
+information
+ about
+ the
+ schema
+ structure
+
+
+that
+ I
+ had
+ asked
+ for
+ in
+ structured
+
+
+outputs.
+ Um,
+ and
+ you're
+ kind
+ of
+ off
+ to
+
+
+the
+ races
+ as
+ opposed
+ to
+ trying
+ to
+ figure
+
+
+out
+ how
+ to
+ do
+ this
+ via
+ documentation
+ or
+
+
+via
+ wizardry.
+ So
+ this
+ is
+ uh
+ just
+ an
+
+
+example
+ of
+ something
+ that
+ you
+ could
+ do
+
+
+with
+ the
+ one
+ of
+ the
+ base
+ models
+
+
+themselves.
+ Um,
+ but
+ we've
+ also
+ recently
+
+
+introduced
+ something
+ called
+ Gemini
+ Live
+
+
+um,
+ which
+ gives
+ you
+ the
+ ability
+ to
+ talk
+
+
+to
+ the
+ models
+ as
+ if
+ you
+ were
+ talking
+ to
+
+
+a
+ human
+ um,
+ in
+ multiple
+ languages
+ and
+
+
+even
+ doing
+ really
+ cool
+ things
+ like
+
+
+sharing
+ your
+ screen.
+ So,
+ this
+ is
+ a
+ blog
+
+
+post.
+ It's
+ for
+ our
+ Genie
+ 3
+ world
+ model
+
+
+um,
+ which
+ if
+ you
+ haven't
+ seen,
+ I
+ really
+
+
+suggest
+ taking
+ a
+ look
+ through.
+ You
+ can
+
+
+describe
+ a
+ scene
+ that
+ you'd
+ like
+ to
+
+
+experience
+ and
+ then
+ hollow
+ deck
+ style
+
+
+just
+ navigate
+ through
+ it.
+ So
+ each
+ frame
+
+
+is
+ generated
+ pixel
+ by
+ pixel.
+ Um
+ you
+ can
+
+
+uh
+ and
+ none
+ of
+ this
+ is
+ using
+ a
+ physics
+
+
+engine
+ behind
+ the
+ scenes.
+ It's
+ just
+ a
+
+
+harness
+ of
+ models
+ that
+ are
+ kind
+ of
+
+
+creating
+ um
+ these
+ images
+ as
+ you
+ click
+
+
+the
+ arrow
+ keys
+ off
+ here
+ to
+ the
+ left.
+ Um
+
+
+and
+ you
+ can
+ have
+ anything
+ from
+ like
+
+
+these
+ watery
+ landscapes
+ that
+ respond
+
+
+really
+ well
+ like
+ if
+ you
+ hit
+ the
+ lamp
+ um
+
+
+if
+ you
+ hit
+ it
+ too
+ hard
+ it
+ sometimes
+ gets
+
+
+knocked
+ into
+ the
+ water
+ in
+ which
+ case
+ if
+
+
+you
+ circle
+ back
+ you
+ can
+ see
+ it
+ again.
+
+
+Um,
+ and
+ these
+ experiences
+ last
+ for
+ like
+
+
+60
+ seconds,
+ 90
+ seconds,
+ at least
+ for
+
+
+now.
+ Um,
+ but
+ it
+ really
+ does
+ feel
+ like
+
+
+you're
+ in
+ a
+ completely
+ different
+ world.
+
+
+And
+ you
+ can
+ start
+ from
+ either
+ a
+ text
+
+
+description
+ um
+ or
+ uh
+ or
+ something
+ like
+ a
+
+
+photo.
+ So,
+ if
+ you
+ want
+ to
+ relive
+ one
+ of
+
+
+your
+ vacations
+ or
+ a
+ hurricane
+ in
+
+
+Florida,
+ you
+ can.
+ Um,
+ but
+ this
+ is
+ uh
+ but
+
+
+this
+ is
+ just
+ very
+ magical
+ and
+ also
+
+
+beside
+ the
+ point.
+ So,
+ I
+ was
+ looking
+ for
+
+
+something
+ that
+ we
+ could
+ ask
+ Gemini
+
+
+about.
+ um
+ this
+ table
+ pretty
+ decent
+
+
+example.
+ Um
+ I'm
+ going
+ to
+ go
+ back
+ to
+ AI
+
+
+Studio
+ and
+ then
+ I
+ am
+ going
+ to
+ share
+ my
+
+
+screen.
+ Um
+ I'm
+ also
+ going
+ to
+ turn
+ on
+ uh
+
+
+turn
+ on
+ something
+ called
+ grounding
+ with
+
+
+Google
+ search
+ and
+ uh
+ let's
+ see
+ how
+ well
+
+
+it
+ does.
+ Hey
+ there
+ Gemini.
+ Could
+ you
+
+
+tell
+ me
+ what
+ you
+ see
+ on
+ the
+ screen?
+
+
+I'm
+ going
+ zoom
+ in
+ so
+ we
+ can
+ all
+ see.
+ I
+
+
+see
+ a
+ table
+ comparing
+ different
+ models
+
+
+with
+ respect
+ to
+ various
+ capabilities
+ in
+
+
+world
+ simulation
+ or
+ video
+ generation.
+
+
+The
+ models
+ are
+ game
+ engine,
+ genie
+ 2,
+ veo
+
+
+and
+ genie
+ 3.
+ The
+ capabilities
+ compared
+
+
+are
+ resolution
+ domain
+ control
+
+
+interaction
+ horizon
+ and
+ interaction
+
+
+latency.
+
+
+>> Yeah,
+ that's
+ pretty
+ cool.
+ That's
+ pretty
+
+
+cool.
+ Which
+ one
+ would
+ I
+ care
+ about
+ if
+ I
+
+
+wanted
+ to
+ care
+ about
+ 720p?
+
+
+Based
+ on
+ the
+ table,
+ both
+ Veo
+ and
+ Genie3
+
+
+support
+ resolutions
+ of
+ 720p.
+ Veo
+ also
+
+
+supports
+ resolutions
+ up
+ to
+ 4K.
+ Genie3's
+
+
+specified
+ resolution
+ is
+ 720p.
+
+
+>> Yeah.
+ Could
+ you
+ tell
+ me
+ that?
+ But
+ could
+
+
+you
+ tell
+ me
+ again
+ just
+ in
+ um
+ in
+ Mandarin
+
+
+like
+ Chinese?
+
+
+>> Does
+ anybody
+ speak?
+ I
+ probably
+ should
+
+
+have
+ asked
+ first.
+ Does
+ anybody
+ speak?
+
+
+>> Does
+ anybody
+ speak
+ a
+ language
+ other
+ than
+
+
+English?
+ I'll
+ I'll
+ be
+ polite
+ this
+ time.
+
+
+Portuguese.
+ Yeah.
+ Brazilian
+ Portuguese
+
+
+or
+ Portuguese.
+ Portuguese.
+ Brazilian
+
+
+Portuguese.
+ Could
+ you
+ tell
+ me
+ that
+
+
+again,
+ Gemini?
+ But
+ could
+ you
+ tell
+ me
+ in
+
+
+Brazilian
+ Portuguese?
+
+
+So,
+ so
+ this
+ is
+ our
+ Gemini
+ live
+ feature.
+
+
+You
+ can
+ send
+ video
+ data.
+ You
+ can
+ send
+
+
+like
+ video
+ data
+ from
+ your
+ screen,
+ from
+
+
+your
+ phone,
+ camera,
+ um
+ audio,
+ and
+ then
+
+
+again
+ if
+ you
+ click
+ get
+ code,
+ um
+ all
+ of
+
+
+it
+ is
+ kind
+ of
+ handled
+ for
+ you
+ um
+ through
+
+
+the
+ the
+ code
+ that
+ you
+ can
+ copy
+ and
+
+
+paste.
+ And
+ again,
+ this
+ is
+ a
+ single
+ model
+
+
+call.
+ So
+ single
+ model
+ capable
+ of
+
+
+supporting
+ all
+ of
+ these
+ different
+
+
+languages,
+ over
+ 140
+ the
+ last
+ time
+ we
+
+
+checked,
+ but
+ we
+ keep
+ finding
+ ones
+ that
+
+
+we
+ hadn't
+ included
+ as
+ part
+ of
+ the
+ um
+ the
+
+
+140.
+ So
+ like
+ test
+ out
+ a
+ language
+ that
+
+
+you're
+ skeptical
+ about.
+ Um
+ it
+ supports
+
+
+Cllingon.
+ It
+ supports
+ Elvish.
+ Like
+ like
+
+
+uh
+ try
+ to
+ put
+ it
+ through
+ its
+ paces
+ and
+
+
+let
+ us
+ know
+ what
+ you
+ find.
+ That's
+ Gemini
+
+
+Live.
+ It
+ also
+ ends
+ up
+ being
+ on
+ the
+ order
+
+
+of
+ I
+ think
+ one
+ penny
+ per
+ minute
+ of
+
+
+interactions.
+ So
+ this
+ is
+ the
+ speechtoext
+
+
+LLM
+ understanding
+ and
+ texttospech
+
+
+pipeline
+ all
+ bundled
+ into
+ one
+ API
+ call.
+
+
+Um
+ and
+ again
+ just
+ about
+ you
+ know
+ a
+ penny
+
+
+a
+ minute.
+ So
+ that
+ is
+ uh
+ Gemini
+ live.
+
+
+Actually,
+ the
+ other
+ thing
+ that
+ I
+ was
+
+
+going
+ to
+ point
+ out
+ was
+ grounding
+ with
+
+
+Google
+ search.
+ So,
+ as
+ an
+ example,
+ hey
+
+
+Gemini,
+ could
+ you
+ tell
+ me
+ um
+ what
+ the
+
+
+temperature
+ is
+ like
+ in
+ New
+ York
+ City
+
+
+today
+ and
+ then
+ also
+ what
+ it's
+ going
+ to
+
+
+be
+ like
+ for
+ the
+ rest
+ of
+ the
+ week?
+
+
+>> The
+ current
+ temperature
+ in
+ New
+ York
+ City
+
+
+is
+ 53°
+ F
+ or
+ 12°
+ C.
+
+
+>> It
+ feels
+ like
+ 51°
+ F.
+ Today,
+ there
+ will
+
+
+be
+ clouds
+ during
+ the
+ day
+ and
+ light
+ at
+
+
+night.
+ That's
+ a
+ lot
+ of
+ information.
+ So,
+
+
+I'm
+ just
+ going
+ to
+ hit
+ stop
+ 10%
+ during
+
+
+the
+
+
+>> It
+ gave
+ me
+ obviously
+ a
+ lot
+ of
+
+
+information
+ also
+ citations
+ um
+ if
+ as
+ part
+
+
+of
+ the
+ REST
+ API
+ call.
+ Um
+ and
+ it
+ used
+ uh
+
+
+code
+ execution
+ to
+ uh
+ and
+ our
+ search
+
+
+grounding
+ feature
+ which
+ is
+ baked
+ in
+ in
+
+
+order
+ to
+ look
+ up
+ information
+ on
+ Google
+
+
+search.
+ And
+ when
+ you
+ look
+ at
+ the
+ code
+
+
+snippet,
+ so
+ this
+ guy
+ over
+ here,
+ um
+ if
+
+
+you
+ scroll
+ down,
+ you
+ can
+ see
+ that
+ to
+
+
+incorporate
+ search
+ as
+ a
+ tool
+ call
+ um
+
+
+it's
+ a
+ oneliner.
+ You
+ can
+ also
+ add
+ custom
+
+
+tools
+ if
+ you
+ would
+ prefer
+ um
+ to
+ uh
+ to
+
+
+kind
+ of
+ cobble
+ together
+ with
+ Gemini
+ Live
+
+
+or
+ with
+ any
+ of
+ the
+ other
+ models.
+
+
+Something
+ else
+ that
+ we've
+ been
+ working
+
+
+on
+ pretty
+ significantly
+ is
+ our
+ build
+
+
+feature
+ for
+ um
+ for
+ generating
+ apps
+
+
+including
+ AI
+ enabled
+ apps
+ uh
+ and
+ then
+
+
+deploying
+ them
+ on
+ Google
+ Cloud.
+ So
+ this
+
+
+is
+ uh
+ available
+ today
+ at
+ a.dev/build.
+
+
+Um,
+ but
+ you
+ can
+ do
+ really
+ interesting
+
+
+things
+ like
+ say
+ um
+
+
+create
+ an
+ app
+ that
+ takes
+ a
+ photo
+ of
+ the
+
+
+user
+ with
+ the
+ webcam.
+ Um,
+ it's
+
+
+Halloween,
+ so
+ I'm
+ going
+ to
+ say
+ something
+
+
+like,
+ um,
+ the
+ app
+ should
+ then
+ ask
+ the
+
+
+user
+ for
+ their
+ favorite
+ animal.
+ Um,
+ and
+
+
+what
+ costume
+ they
+ would
+ like
+ to
+ have
+ for
+
+
+Halloween.
+ Um,
+ the
+ app
+ should
+ then
+ use
+
+
+Nano
+ Banana
+ uh
+ to
+ show
+ the
+ user
+ dressed
+
+
+in
+ a
+ DIY
+ costume
+ uh
+ while
+ cuddling
+ uh
+
+
+their
+ favorite
+ animal.
+
+
+Be
+ creative.
+
+
+Dressed
+ in
+ a
+ related
+ costume.
+ Um,
+ and
+
+
+I've
+ never
+ tried
+ this
+ before,
+ so
+ like
+
+
+we'll
+ see
+ if
+ it
+ works.
+ Um,
+ fingers
+
+
+crossed.
+ So
+ I
+ I
+ I
+ hit
+ enter
+ and
+
+
+immediately
+ you're
+ launched
+ into
+
+
+something
+ that
+ looks
+ a
+ little
+ bit
+ like
+
+
+an
+ IDE.
+ Um
+ if
+ you
+ expand
+ out
+ the
+
+
+thinking
+ section
+ off
+ to
+ the
+ left,
+ you
+
+
+can
+ see
+ Gemini
+ 2.5
+ Pro
+ walking
+ through
+
+
+kind
+ of
+ the
+ architecture.
+ We
+ have
+ a
+ very
+
+
+opinionated
+ stack
+ for
+ the
+ app
+ building
+
+
+process
+ itself.
+ So
+ we've
+ got
+ React,
+
+
+Tailwind,
+ probably
+ some
+ other
+ things
+
+
+that
+ you've
+ probably
+ seen.
+ And
+ it
+
+
+incorporates
+ all
+ of
+ the
+ latest
+ features
+
+
+and
+ models
+ that
+ are
+ available
+ in
+ our
+
+
+Genai
+ SDK.
+ So,
+ it
+ knows
+ even
+ though
+ I
+
+
+said
+ nano
+ banana,
+ it
+ knows
+ that
+ I
+ mean
+
+
+like
+ Gemini
+ 2.5
+ flash
+ image.
+ Um,
+ it
+
+
+should
+ be
+ able
+ to
+ figure
+ out
+ what
+ uh
+
+
+what
+ should
+ be
+ incorporated
+ into
+ the
+ app
+
+
+itself.
+ Um,
+ and
+ if
+ it
+ encounters
+ any
+
+
+errors
+ along
+ the
+ way,
+ it
+ should
+ also
+ be
+
+
+able
+ to
+ take
+ the
+ error,
+ put
+ it
+ back
+ into
+
+
+the
+ Gemini
+ model
+ um,
+ and
+ fix
+ itself.
+ Um,
+
+
+so
+ it
+ it
+ uh
+ makes
+ it
+ very
+ very
+ easy
+ to
+
+
+experiment
+ and
+ bless
+ you
+ and
+ to
+ keep
+ uh
+
+
+and
+ to
+ keep
+ kind
+ of
+ running
+ through
+ um
+ a
+
+
+lot
+ of
+ these
+ uh
+ a
+ lot
+ of
+ these
+ images.
+
+
+So
+ let's
+ see
+ what
+ happens.
+ There's
+ also
+
+
+a
+ save
+ to
+ GitHub
+ feature
+ in
+ the
+ upper
+
+
+right.
+ Um
+ if
+ you
+ want
+ to
+ add
+ different
+
+
+files,
+ you
+ can.
+ So
+ you
+ can
+ upload
+
+
+images,
+ upload
+ text
+ files
+ and
+ PDF
+ files.
+
+
+Um
+ let's
+ so
+ let's
+ see
+ how
+ this
+ goes.
+ Oh
+
+
+gosh.
+ So
+ that
+ is
+ uh
+ hopefully
+ it
+ like
+
+
+sees
+ me
+ and
+ not
+ the
+ the
+ uh
+ Yep.
+ So
+ so so
+
+
+it's
+ got
+ uh
+ let
+ me
+ zoom
+ out
+ a
+ little
+
+
+bit.
+ I'm
+ currently
+ likeund
+ and
+ something
+
+
+but
+ favorite
+ animal
+ finick
+ fox.
+ Um
+ a
+
+
+dream
+ Halloween
+ costume.
+ Maybe
+ like
+ a
+ um
+
+
+a
+ rock
+ uh
+ not
+ a
+ rocket
+ ship
+ but
+ maybe
+
+
+like
+ a
+ robot.
+ Um
+ and
+ then
+ let's
+ see
+ how
+
+
+well
+ it
+ does.
+ uh
+ powered
+ by
+ Gemini
+ Nano
+
+
+Banano,
+ which
+ I
+ did
+ not
+ ask
+ for
+ it
+ to
+ uh
+
+
+to
+ add,
+ but
+ like
+ Oh,
+ there
+ we
+ go.
+ So,
+
+
+there's
+ like
+ a
+ robot
+ uh
+ uh
+ with
+ me
+
+
+inside
+ it,
+ a
+ Finnick
+ Fox
+ that
+ is
+
+
+honestly
+ like
+ a
+ very
+ cute
+ Finnick
+ Fox.
+
+
+And
+ he
+ has
+ a
+ little
+ he
+ has
+ like
+ a
+ little
+
+
+spaceship
+ thing
+ that's
+ very
+ And
+ so
+ uh
+ so
+
+
+clearly
+ everybody
+ else
+ wants
+ to
+ try
+ this
+
+
+as
+ well.
+ like
+ obviously
+ um
+ uh
+ uh
+ and
+ so
+
+
+if
+ I
+ if
+ I
+ click
+ deploy
+ app
+ um
+ which
+ I
+
+
+will
+ absolutely
+ be
+ sending
+ to
+ all
+ of
+ my
+
+
+nieces
+ and
+ nephews,
+ you
+ can
+ select
+ a
+
+
+cloud
+ project
+ um
+ click
+ deploy
+ um
+ and
+
+
+then
+ what
+ it
+ does
+ is
+ it
+ kind
+ of
+ creates
+
+
+logging
+ storage.
+ It
+ deploys
+ the
+ app
+ via
+
+
+cloud
+ run.
+ It
+ hides
+ all
+ your
+ API
+ keys
+ so
+
+
+they
+ can't
+ be
+ exfiltrated
+ from
+ the
+ app
+
+
+itself.
+ And
+ it
+ also
+ gives
+ you
+ a
+ unique
+
+
+URL.
+ So,
+ if
+ all
+ of
+ y'all
+ wanted
+ to
+ like
+
+
+go
+ and
+ like
+ experiment
+ with
+ this,
+ you
+
+
+could.
+ Um,
+ maybe
+ I
+ will
+ say
+ favorite
+
+
+animal
+ is
+ a
+ labradoodle
+ puppy,
+
+
+maybe
+ like
+ a
+ goblin,
+
+
+and
+ we'll
+ see
+ how
+ well
+ that
+ works.
+ And
+
+
+then
+ uh
+ if
+ I
+ go
+ to
+ my
+ Google
+ cloud
+
+
+console,
+ you
+ can
+ see
+ the
+ request
+ counts,
+
+
+the
+ logs.
+ Um
+ and
+ as
+ the
+ the
+ the
+ kind
+ of
+
+
+app
+ uh
+ gets
+ uh
+ as
+ the
+ app
+ gets
+ more
+
+
+utilization,
+ um
+ since
+ this
+ is
+ based
+ on
+
+
+cloud
+ run,
+ it
+ will
+ also
+ scale
+ out
+ and
+
+
+support
+ like
+ increased
+ workloads.
+ Um
+ so
+
+
+we
+ should
+ see
+ pretty
+ soon
+ some
+ sort
+ of
+
+
+logging
+ data
+ coming
+ in
+ if
+ the
+ Oh
+ my
+
+
+gosh.
+ Yeah,
+ that
+ is
+ also
+ very
+ cute.
+ um
+
+
+but
+ uh
+ for
+ the
+ app
+ itself
+ and
+ then
+ um
+
+
+couple
+ more
+ demos
+ because
+ we've
+ got
+ time
+
+
+for
+ it.
+ We
+ also
+ just
+ recently
+ added
+
+
+Gemini
+ support
+ in
+ Collab.
+ Um
+ so
+ again
+
+
+all
+ of
+ y'all
+ are
+ data
+ humans
+ or
+
+
+hopefully
+ data
+ humans.
+ Um
+ which
+ means
+
+
+that
+ uh
+ you've
+ you've
+ seen
+ well
+ actually
+
+
+how
+ many
+ folks
+ have
+ seen
+ collab
+ before?
+
+
+Okay,
+ more
+ than
+ I've
+ seen
+ AI
+ Studio,
+ but
+
+
+still
+ uh
+ like
+ second
+ piece
+ of
+ homework.
+
+
+Like
+ go
+ try
+ collab
+ if
+ you
+ enjoy
+ Python
+
+
+programming.
+ Um
+ it's
+ a
+ notebook
+ based
+
+
+environment.
+ Um
+ uh
+ you
+ can
+ access
+ GPUs
+
+
+um
+ single
+ node
+ GPUs
+ or
+ TPUs
+ um
+ and
+ uh
+
+
+kind
+ of
+ interact
+ uh
+ with
+ a
+ um
+ interact
+
+
+with
+ a
+ compute
+ runtime
+ that
+ can
+ do
+ a
+
+
+broad
+ spectrum
+ of
+ data
+ um
+ data
+ tasks.
+
+
+Um,
+ but
+ it
+ we've
+ also
+ incorporated
+
+
+Gemini's
+ kind
+ of
+ step-by-step
+ reasoning
+
+
+process
+ um
+ to
+ do
+ things
+ like
+ analyze
+
+
+CSVs.
+ So,
+ I'm
+ going
+ to
+ just
+ grab
+ one
+
+
+that's
+ handy
+ here.
+ You
+ could
+ also
+ just
+
+
+add
+ a
+ URL
+ um
+ and
+ it
+ knows
+ how
+ to
+ to
+ kind
+
+
+of
+ curl
+ in
+ um
+ or
+ wget
+ and
+ rather
+ the
+ the
+
+
+uh
+ the
+ file
+ itself
+ or
+ to
+ use
+ something
+
+
+like
+ pandas
+ reads
+ uh
+ the
+ the
+ CSV
+ reader
+
+
+to
+ to
+ pull
+ in
+ the
+ the
+ data
+ too.
+ Um
+ but
+
+
+you
+ can
+ say
+ something
+ to
+ the
+ effect
+ of
+
+
+please
+ do
+ exploratory
+ data
+ analyses
+
+
+on
+ these
+ data.
+ Um
+ and
+ also
+ uh
+ experiment
+
+
+with
+ a
+ few
+ different
+ models
+ to
+ predict
+
+
+California
+ housing
+ prices.
+ Um
+ which
+ is
+
+
+always
+ a
+ very
+ sad
+ thing.
+ Um
+
+
+and
+ then
+ hit
+ enter.
+ Similar
+ to
+ what
+ we
+
+
+just
+ saw
+ with
+ the
+ app
+ builder
+ example,
+
+
+it
+ should
+ give
+ us
+ kind
+ of
+ this
+
+
+step-by-step
+ process
+ to
+ uh
+ to
+ do
+ the
+
+
+data
+ analysis.
+ So,
+ I'm
+ going
+ to
+ accept
+
+
+and
+ run
+ it.
+ It
+ will
+ load
+ the
+ data
+ set,
+
+
+do
+ EDA.
+ So,
+ we've
+ got
+ this
+ kind
+ of
+
+
+step-by-step
+ preparation
+ that's
+ going
+ to
+
+
+happen.
+ Um,
+ I'm
+ going
+ to
+ collapse
+ this
+
+
+guy,
+ collapse
+ this
+ guy
+ so
+ it's
+ easier
+ to
+
+
+see,
+ and
+ then
+ zoom
+ out
+ so
+ it's
+ uh
+ so
+
+
+it's
+ easier
+ as
+ well.
+ But
+ it's
+ adding
+ the
+
+
+text
+ and
+ then
+ the
+ code
+ running
+ it.
+ um
+
+
+and
+ then
+ using
+ each
+ previous
+ step
+ to
+
+
+inform
+ the
+ next
+ steps.
+ So
+ as
+ it
+ does
+
+
+EDA,
+ it
+ will
+ take
+ kind
+ of
+ the
+ shape
+ of
+
+
+the
+ data,
+ the
+ distribution
+ of
+ some
+ of
+
+
+the
+ features,
+ um
+ decide
+ which
+ ones
+
+
+should
+ be
+ included,
+
+
+um
+ will
+ visualize
+ them,
+ uh
+ and
+ we'll
+
+
+wrangle
+ with
+ Mattplot
+ Lib
+ so
+ I
+ do
+ not
+
+
+have
+ to
+ and
+ then
+ will
+ also
+ kind
+ of
+ show
+
+
+me
+ the
+ results
+ along
+ the
+ way.
+ This
+ is
+ uh
+
+
+I
+ love
+ this
+ uh
+ just
+ because
+ I
+ I
+ hate
+
+
+trying
+ to
+ remember
+ all
+ of
+ the
+ seabour
+
+
+and
+ mattplot
+ lib
+ data
+ incantations.
+ Um
+
+
+and
+ it's
+ a
+ really
+ nice
+ way
+ to
+ just
+ get
+
+
+um
+ to
+ get
+ a
+ quick
+ overview
+ of
+ a
+ lot
+ of
+
+
+different
+ uh
+ a
+ lot
+ of
+ different
+ um
+ EDA
+
+
+tasks
+ without
+ necessarily
+ sitting
+ in
+
+
+front
+ of
+ a
+ screen
+ and
+ interacting
+ with
+
+
+it
+ yourself.
+ I
+ also
+ feel
+ like
+ not
+ enough
+
+
+people
+ look
+ at
+ their
+ data
+ and
+ a
+ big
+
+
+reason
+ for
+ that
+ is
+ that
+ they
+ don't
+
+
+necessarily
+ have
+ the
+ tools
+ or
+ the
+
+
+ability
+ to
+ do
+ it
+ by
+ themselves.
+ Um,
+ and
+
+
+this
+ kind
+ of
+ solves
+ a
+ a
+ lot
+ of
+ that
+
+
+problem.
+ Um,
+ but
+ while
+ while
+ this
+ is
+
+
+cooking,
+ I'm
+ going
+ to
+ go
+ back
+ to
+ the
+
+
+presentation.
+ VO
+ is
+ our
+ video
+ generation
+
+
+model.
+ Um,
+ not
+ uh
+ any
+ no
+ presentation
+ is
+
+
+complete
+ without
+ a
+ quote
+ from
+ Andre
+
+
+Carpathy.
+ And
+ here's
+ mine.
+ Um
+ so
+ I
+ truly
+
+
+believe
+ that
+ video
+ is
+ a
+ powerful
+ medium
+
+
+for
+ understanding
+ everything
+ and
+
+
+communicating
+ it
+ with
+ folks.
+ Um
+ VO3.1
+
+
+can
+ do
+ a
+ broad
+ spectrum
+ of
+ things.
+ So
+ it
+
+
+can
+ do
+ grounding
+ based
+ on
+ reference
+
+
+images.
+ It
+ can
+ have
+ uh
+ you
+ know
+ that
+
+
+same
+ character
+ in
+ a
+ different
+ uh
+
+
+collection
+ of
+ scenes.
+ Animate
+ images
+
+
+including
+ with
+ guidance
+ different
+ camera
+
+
+controls
+ outpainting.
+ So
+ you
+ can
+ take
+ a
+
+
+full
+ screen
+ uh
+ video
+ and
+ turn
+ it
+ into
+
+
+widescreen.
+ You
+ can
+ add
+ things
+ to
+ video.
+
+
+You
+ can
+ remove
+ things.
+ You
+ can
+ have
+
+
+reference
+ face
+ movements.
+ So
+ a
+ character
+
+
+and
+ then
+ uh
+ some
+ way
+ in
+ which
+ you
+ want
+
+
+the
+ character
+ to
+ react.
+ You
+ can
+ use
+
+
+first
+ and
+ last
+ frame
+ and
+ then
+
+
+interpolate
+ between
+ them.
+ And
+ you
+ can
+
+
+also
+ uh
+ do
+ things
+ like
+ this
+ which
+ is
+
+
+probably
+ um
+ copyright
+ uh
+ protected.
+
+
+>> Hey,
+ my
+ name's
+ K.
+ And
+ what
+ makes
+ the
+
+
+chicken
+ sandwich
+ original
+ to
+ me
+ is
+ the
+
+
+crispiness
+ of
+ the
+ bread.
+ a
+ commercial
+
+
+that
+ I
+ want
+ to
+ replicate
+ and
+ I'm
+ going
+
+
+to
+ show
+ you
+ how
+ you
+ can
+ do
+ that
+ with
+
+
+different
+ VO
+ models.
+
+
+>> Also,
+ this
+ is
+ not
+ me
+ page
+ talking
+ about
+
+
+the
+ Chick-fil-A
+ sandwich.
+ It's
+ like
+ some
+
+
+other
+ page
+ that
+ also
+ enjoys
+ chicken
+
+
+sandwiches.
+ The
+ process
+ with
+ V2
+ to
+
+
+replicate
+ this
+ is
+ you
+ feed
+ in
+ the
+ video
+
+
+to
+ Gemini.
+ It
+ creates
+ the
+ very
+ detailed
+
+
+prompts
+ which
+ you
+ can
+ give
+ back
+ to
+ the
+
+
+V2
+ model.
+ Use
+ Gemini
+ text
+ to
+ speech
+ to
+
+
+do
+ the
+ voice
+ over.
+ You
+ use
+ uh
+ LIA
+ which
+
+
+is
+ one
+ of
+ our
+ music
+ generation
+ models
+ in
+
+
+order
+ to
+ do
+ the
+ music
+ background.
+ And
+ it
+
+
+takes
+ a
+ little
+ bit
+ less
+ than
+ 30
+ minutes.
+
+
+I
+ stitched
+ it
+ together
+ with
+ Camtasia.
+
+
+You
+ could
+ also
+ use
+ movie
+ pie.
+ And
+ it
+
+
+ends
+ up
+ like
+ this.
+
+
+>> Hey,
+ my
+ name's
+ Paige.
+ And
+ what
+ makes
+ a
+
+
+Chick-fil-A
+ chicken
+ sandwich
+ to
+ me
+ is
+
+
+the
+ crispiness
+ of
+ the
+ breading
+ and
+ a
+
+
+tenderness
+ of
+ the
+ fillet.
+ It's
+ tasty.
+
+
+It's
+ warm.
+ It's
+ total
+ satisfaction,
+
+
+>> which
+ I
+ thought
+ was
+ pretty
+ good.
+ I
+ was
+
+
+very
+ pleased
+ with
+ like
+ the
+ the
+ chill
+
+
+guitar
+ music,
+ but
+ the
+ process
+ with
+ V3
+
+
+got
+ a
+ little
+ bit
+ better.
+ So,
+ you
+ just
+
+
+give
+ the
+ video
+ to
+ Gemini2.5.
+ It
+
+
+generates
+ the
+ prompt
+ which
+ you
+ give
+ to
+
+
+V3.
+ And
+ this
+ is
+ what
+ it
+ looked
+ like.
+
+
+>> My
+ name
+ is
+ Paige.
+ And
+ what
+ makes
+ the
+
+
+Chick-fil-A
+ chicken
+ sandwich
+ to
+ me
+ is
+
+
+the
+ crispiness
+ of
+ the
+ breading
+ and
+ the
+
+
+tenderness
+ of
+ the
+ fillet.
+
+
+>> So,
+ that
+ was
+ first
+ shot.
+ Um,
+ uh,
+ in
+
+
+June,
+ so
+ like
+ four
+ maybe
+ 5
+ months
+ ago.
+
+
+Um,
+ same
+ prompt
+ into
+ VO3.1.
+ Same
+
+
+process.
+
+
+And
+ this
+ is
+ what
+ it
+ looks
+ like
+ now.
+
+
+>> Hi,
+ my
+ name's
+ Paige.
+ And
+ what
+ makes
+ the
+
+
+Chick-fil-A
+ chicken
+ sandwich
+ original
+ to
+
+
+me
+ is
+ the
+ crispiness
+ of
+ the
+ breading
+ and
+
+
+the
+ tenderness
+ of
+ the
+ fillet.
+
+
+>> So,
+ four
+ months
+ delta,
+ same
+ prompt,
+ same
+
+
+process,
+ and
+ it's
+ amazing
+ to
+ see
+ what
+
+
+has
+ changed.
+ So,
+ with
+ that,
+ um,
+ I'm
+
+
+going
+ to
+ fly
+ through
+ because
+ I
+ have
+ no
+
+
+time
+ left,
+ um,
+ to
+ just
+ say
+ that
+ like
+
+
+even
+ the
+ tiny
+ models
+ are
+ getting
+ better
+
+
+and
+ better.
+ Our
+ Gemma
+ 3N
+ release
+ is
+ just
+
+
+about
+ as
+ good
+ as
+ Gemini
+ 1.5
+ Pro,
+ which
+
+
+was
+ our
+ best
+ model
+ uh
+ I
+ guess
+ around
+
+
+eight
+ months
+ ago.
+ Um
+ but
+ four
+ it's
+ four
+
+
+billion
+ parameters
+ in
+ size.
+ You
+ can
+
+
+download
+ it
+ to
+ your
+ laptop.
+ There's
+ a
+
+
+quantized
+ version
+ which
+ fits
+ on
+ mobile
+
+
+devices,
+ can
+ be
+ stuffed
+ into
+ a
+ browser.
+
+
+And
+ uh
+ my
+ uh
+ my
+ final
+ point
+ is
+ that
+ all
+
+
+of
+ y'all
+ in
+ the
+ room
+ uh
+ it
+ has
+ never
+
+
+been
+ a
+ better
+ time
+ to
+ be
+ a
+ founder,
+
+
+especially
+ a
+ solo
+ founder
+ or
+ a
+ founder
+
+
+with
+ a
+ small
+ team.
+ Um,
+ I
+ think
+ that
+
+
+people
+ can
+ do
+ very
+ very
+ magical
+ things
+
+
+right
+ now
+ in
+ a
+ very
+ short
+ amount
+ of
+
+
+time.
+ I
+ remember
+ when
+ I
+ first
+ started
+
+
+training
+ models,
+ it
+ took
+ months
+ to
+ do
+
+
+anything
+ that
+ was
+ reasonably
+
+
+interesting.
+ And
+ now
+ uh
+ now
+ it
+ feels
+
+
+like
+ with
+ these
+ truly
+ democratized
+ tools
+
+
+and
+ approaches,
+ you
+ can
+ build
+ things
+
+
+that
+ felt
+ like
+ sci-fi
+ um
+ even
+ just
+ a
+
+
+year
+ ago.
+ So
+ go
+ build
+ stuff
+ and
+ like
+ get
+
+
+these
+ nice
+ people
+ to
+ fund
+ you.
+ Um
+ and
+ uh
+
+
+and
+ share
+ it
+ uh
+ share
+ it
+ also
+ with
+ the
+
+
+world.
+ Um
+ and
+ uh
+ thanks
+ again
+ for
+ for
+
+
+staying
+ here
+ for
+ for
+ coming
+ out.
+ Go
+ test
+
+
+out
+ AI
+ Studio.
+ Uh
+ and
+ send
+ me
+ emails
+
+
+because
+ I
+ love
+ questions.
