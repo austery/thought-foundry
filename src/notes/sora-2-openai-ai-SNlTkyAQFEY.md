@@ -17,8 +17,8 @@ companies_orgs:
 products_models: []
 media_books: []
 date: '2025-10-01'
-author: 人民公园说AI
-speaker: 人民公园说AI
+author: 人民公園說AI
+speaker: 人民公園說AI
 draft: true
 guest: ''
 insight: ''

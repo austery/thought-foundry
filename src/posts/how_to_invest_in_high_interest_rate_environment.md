@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: 2023-12-10
 author: Lei
-speaker: Ray
+speaker: 一口新饭读书会
 channel: ''
 draft: true
 file_name: how_to_invest_in_high_interest_rate_environment.md

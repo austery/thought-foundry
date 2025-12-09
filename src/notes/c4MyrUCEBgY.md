@@ -1,10 +1,10 @@
 ---
-author: 人民公园说AI
+author: 人民公園說AI
 date: '2025-11-01'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=c4MyrUCEBgY
-speaker: 人民公园说AI
+speaker: 人民公園說AI
 tags:
   - tesla-ai-strategy
   - end-to-end-ai

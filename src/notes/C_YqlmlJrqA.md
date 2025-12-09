@@ -1,10 +1,10 @@
 ---
-author: 人民公园说AI
+author: 人民公園說AI
 date: '2025-11-05'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=C_YqlmlJrqA
-speaker: 人民公园说AI
+speaker: 人民公園說AI
 tags:
   - ai-entry-points
   - browser-strategy

@@ -1,5 +1,5 @@
 ---
-title: Beyond the Bubble - How AI Empowers Small Businesses Outside Silicon Valley
+title: 走出硅谷，我们去看看国际贸易的“ChatGPT时刻”
 summary: This video explores the practical applications of AI for small and medium-sized
   enterprises (SMEs) outside of the Silicon Valley bubble, featuring insights from
   the CoCreate startup competition in Las Vegas. It showcases how entrepreneurs are
@@ -22,7 +22,7 @@ products_models: []
 media_books: []
 date: 2025-09-22
 author: Lei
-speaker: 陈茜
+speaker: 硅谷101
 draft: true
 guest: null
 insight: null
