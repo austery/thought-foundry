@@ -1,0 +1,341 @@
+2021
+was a bad year for natural disasters.
+That was the year that floods
+killed 1,700 people in Pakistan
+and Europe began what would be
+the worst drought in 500 years.
+And that was the year
+one of my clients turned to me and said,
+"Is it really worth
+solving climate change?"
+Well, look, he was an investor.
+What he wanted to understand
+was the economic return
+on the trillions of dollars
+we have to spend to get to net zero.
+So that's a good question, right?
+And there's a good answer.
+But I also found a problem.
+You see, there's a huge gap
+between the science and the economics.
+The science is scary,
+and it’s really detailed.
+The science tells us
+that we're leaving 12,000 years
+of climate stability behind us.
+Those floods and those droughts
+are going to get more frequent
+and more intense.
+Crops may fail.
+Fisheries collapse.
+But then when you turn to the economics,
+all that turbulence
+and that kind of disruption
+just seems to get lost in translation.
+You find yourself looking at graphs
+with suspiciously smooth curves:
+rising temperatures,
+steadily declining growth.
+Now those graphs do tell us
+something really important.
+There really is a connection
+between global warming
+and our ability to build things
+and make things and just get things done,
+and the damages from that
+get really big, really quickly.
+But when I turned that analysis
+into my first quadrillion-dollar slide
+for my client,
+it left him cold.
+You see, the problem with the economics
+is that it's robust,
+but it doesn't actually do a very good job
+of explaining how, in practice,
+climate change will impact businesses
+and households in the real economy.
+And that's why all that turbulence
+and disruption you expect to see,
+that you actually need to see
+if you want to prepare,
+seems to disappear.
+So that's what I want
+to talk to you all about today.
+Imagine we had as good an understanding
+of the impact of climate
+change on the economy
+as we have of climate change itself.
+Just as convincing and just as useful.
+So let's start with natural disasters.
+The big insurers estimate
+that natural disasters cause
+about 200 to 300 billion dollar's
+worth of damages,
+direct damages, every year.
+And these numbers
+are certainly more tangible.
+You know, you can see
+the collapsed bridges
+and the flooded mines in the data.
+But they're also incomplete.
+Where are the lost revenues
+for the factories
+that relied on that mine,
+or the lost income for the workers
+that needed that bridge to get to work?
+In fact, if we compare those numbers
+with that quadrillion-dollar slide,
+we can see we're missing
+about 80 percent of the problem.
+So this is what we need to do.
+We need to take a bit of a step back
+and then we need to focus
+on the commercial relationships,
+the financial mechanisms
+that actually link companies together
+and transmit climate impacts
+around the economy.
+So now, instead of chasing hurricanes
+as they rampage through
+the physical infrastructure,
+we're going to trace them
+as they reverberate
+through the financial infrastructure.
+And I know chasing hurricanes
+sounds more fun, but honestly,
+this is when you're going to start seeing
+some of that turbulence
+and that disruption
+that we're looking for.
+So take the American southeast.
+We all know that hurricanes
+regularly cause
+billions of dollars of damage
+along the coast.
+But it doesn't stop there or then.
+Insurance premiums are rising
+as a result across the region.
+And many households,
+particularly those on low income,
+many of whom are actually
+inland, can't keep up.
+So now we see rising mortgage defaults
+and credit card delinquency.
+And this is causing problems
+for another set of financial institutions.
+Or take the coffee industry.
+In 2021, again, it was a bad year.
+A major frost and drought
+caused coffee production in Brazil
+to fall by 20 percent.
+But prices went up 30 percent
+globally, in just one week.
+And then they kept on rising.
+Why? Why this kind of overreaction?
+Well it started when many farmers
+walked away from their forward contracts.
+And forward contracts are actually there
+to provide price stability
+between coffee farmers, coffee buyers.
+But when some farmers saw higher profits
+available on the open market,
+they left their buyers in the lurch.
+And so now the buyers can't meet
+their own onward commitments
+into the futures market.
+So they're scrambling to find cash
+to keep those positions open.
+They're scrambling to find
+new coffee supplies to meet them.
+And it's driving the price up
+higher and higher.
+So these are just two disparate examples
+of how climate change causes turbulence
+in our financial infrastructure.
+But the real worry is that the financial
+infrastructure itself
+will break under rising pressure.
+Because we're going to see
+more extreme weather
+in the next 10 years
+than we saw in the last 10 years.
+Those shocks are going to grow,
+and the gaps between them
+are going to shrink.
+And we can already see
+some of the warning signs.
+Now in Florida,
+several insurers have now gone bankrupt
+or they've pulled out.
+And now the state
+is the single largest provider
+of home insurance in Florida,
+putting pressure on its budget.
+In California,
+climate risks are driving up
+the cost of borrowing
+for many of the local authorities
+that actually need to invest
+in preventing those risks.
+So we may be heading
+towards a tipping point,
+at which point
+the financial infrastructure
+can't manage climate risk anymore.
+And this isn't academic,
+because if we can't manage climate risk,
+we can't do a lot of things.
+Imagine trying to get a mortgage
+on a house that you can't insure.
+You can't.
+Or sell one that's become
+uninsurable, for that matter.
+You know, at scale,
+this is major disruption.
+And this isn't the normal, you know,
+boom and bust cycle.
+This is just bust, bust, broken.
+So ...
+This may all sound a bit
+melodramatic to some of you.
+You know, that extreme.
+And that's fair enough.
+There's a very real debate right now
+between a growing set of voices
+that are worrying about these
+kinds of tipping points
+and those that say, don't worry,
+the financial system as a whole
+will be able to manage climate risk
+for many decades to come.
+But I think for our purposes,
+in a way it doesn't matter,
+because there's huge benefit in being able
+to better anticipate
+the turbulence ahead, either way.
+And I think the first step
+in being able to better
+anticipate the future
+is recognizing that many
+of the kind of tools and techniques
+that we've traditionally relied on
+don't really have
+the imagination to do so.
+You know, they're really rooted
+in the status quo,
+historical data, past trends.
+So what we need to do
+is look to other complex dynamic systems
+and the way those are studied,
+like evolutionary biology
+or thermodynamics.
+Ironically, environmental
+science, energy networks.
+And the field of complexity economics
+does exactly this, right?
+It borrows tools and techniques
+from those other areas of study
+and uses them to better anticipate
+how shocks and trends
+can reshape economies.
+Of course, climate change
+is both of those things, right?
+Because you've got
+falling productivity, rising risk,
+punctuated by natural disasters.
+And one of the key tools that many
+of these fields use are simulations.
+And in this context,
+you should be thinking of them
+as digital twins
+of whatever system it is
+that you're studying.
+They're populated
+with thousands of virtual actors,
+each with their own rules of behavior
+and, critically,
+the connections between them.
+You set them up, and you let them run.
+You can test them against reality
+and calibrate them.
+And then you can run experiments.
+What would happen if we had
+a different setup?
+What will happen in future?
+So urban planners use simulations
+to prove that sometimes
+demolishing a major road
+can actually ease traffic congestion.
+Ecologists use simulations to show
+why fish stocks can collapse
+even after you've put
+fish quotas in place.
+The important thing
+about both of those results
+is that they're unexpected.
+They're not intuitive.
+And this is what we need,
+where global warming
+meets the global economy.
+From our systems thinkers,
+from our risk modelers,
+from our data scientists.
+We need models that surprise us
+before the future does.
+Because once we've done that,
+there's a whole bunch
+of things that we can do
+to better manage the disruption ahead.
+I'll give you one quick example.
+Imagine insurance
+that just pays out to farmers
+as soon as they're hit
+by a natural disaster.
+They're back on their feet,
+minimal impact on their customers.
+Well this product exists,
+it's called parametric insurance.
+But the challenge is scaling it up
+because you've got to find terms
+that are going to work for thousands,
+tens of thousands of farmers,
+year after year, shock after shock.
+OK, but now imagine you've got
+a simulation of, say, the coffee industry,
+and you can test those terms
+against the shocks of the past
+and about potential futures.
+And that's just one of several innovations
+that could make the financial
+infrastructure of the coffee industry
+more resilient.
+And we need exactly that kind
+of innovation across the real economy.
+With the right tools,
+what felt like an impenetrable
+fog of uncertainty,
+starts to feel like a landscape
+ripe for opportunity.
+So what would I say to my client today?
+Well, firstly, the economic case
+for climate action is clear.
+We're talking about safeguarding
+maybe 25 percent of global GDP
+between now and 2100.
+But there's a second investment case.
+In building resilience
+to the financial turbulence
+that we're going to experience on the way.
+Because climate change is now inevitable,
+at least for the next 75 years.
+But the scale of the economic
+disruption is not.
+And what we build together,
+the models, the new products,
+the collaborations,
+will determine how much we spend
+clearing up the mess as we go
+and how much we can invest
+in actually solving the problem.
+Thank you so much for your time.
+(Applause)
