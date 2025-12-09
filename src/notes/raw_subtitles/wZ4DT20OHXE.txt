@@ -1,0 +1,8009 @@
+I
+ think
+ AI
+ is
+ the
+ next
+ evolution
+ of
+
+
+humanity.
+ I
+ think
+ it
+ takes
+ us
+ to
+ a
+ new
+
+
+level.
+ Allows
+ us
+ to
+ collaborate
+ and
+
+
+understand
+ the
+ world
+ in
+ much
+ deeper
+
+
+ways.
+
+
+>> Naveen
+ Ralph
+ is
+ here
+ expert
+ in
+ AI.
+
+
+>> Naveen
+ Ralph
+ probably
+ one
+ of
+ the
+
+
+smartest
+ guys
+ in
+ this
+ domain.
+ He
+ sees
+
+
+things
+ well
+ before
+ anybody
+ else
+ sees
+
+
+them.
+
+
+>> You
+ had
+ a
+ lot
+ of
+ success
+ doing
+ Nirvana
+
+
+Mosaic
+ and
+ data
+ bricks.
+ Why
+ start
+ a
+ new
+
+
+chip
+ company
+ now?
+
+
+>> First
+ off,
+ it's
+ not
+ a
+ chip
+ company
+ per
+
+
+se.
+ Most
+ of
+ what
+ we're
+ doing
+ is
+ really
+
+
+kind
+ of
+ looking
+ at
+ first
+ principles
+ of
+
+
+how
+ learning
+ works
+ in
+ a
+ physical
+ system.
+
+
+Nvidia,
+ TSMC,
+ Google.
+ Are
+ these
+
+
+potential
+ allies
+ for
+ unconventional?
+ Are
+
+
+these
+ competitors?
+
+
+>> So,
+ I
+ think
+ TSMC
+ is
+ absolutely
+ going
+ to
+
+
+be
+ a
+ partner.
+ Google
+ kind
+ of
+ has
+
+
+everything
+ internally.
+ And
+ Nvidia,
+ of
+
+
+course,
+ they
+ built
+ the
+ platform
+ that
+
+
+everyone
+ programs
+ on
+ today.
+ So,
+ are
+ we
+
+
+going
+ to
+ be
+ at
+ odds
+ with
+ Nvidia
+ going
+
+
+forward?
+ I
+ don't
+ know.
+ We'll
+ see
+ what
+
+
+the
+ world
+ looks
+ like,
+ but
+ there
+ could
+ be
+
+
+a
+ world
+ where
+ we
+ collaborate.
+
+
+>> Has
+ anyone
+ called
+ you
+ crazy
+ yet
+ for
+
+
+doing
+ this?
+
+
+>> Oh,
+ yeah.
+ Plenty
+ of
+ people.
+
+
+Our
+ guest
+ today
+ is
+ Naveen
+ Ralph,
+
+
+co-founder
+ and
+ CEO
+ of
+ Unconventional
+ AI,
+
+
+which
+ is
+ an
+ AI
+ chip
+ startup.
+ Prior
+ to
+
+
+that,
+ Naveen
+ was
+ at
+ data
+ bricks
+ as
+ head
+
+
+of
+ AI
+ and
+ co-founder
+ of
+ two
+ successful
+
+
+companies,
+ Mosaic
+ in
+ the
+ uh
+ cloud
+
+
+computing
+ world
+ and
+ Nirvana
+ uh
+ doing
+ AI
+
+
+chip
+ accelerators
+ uh
+ before
+ it
+ was
+ cool.
+
+
+Um
+ uh
+ we're
+ here
+ reporting
+ from
+ Nurups.
+
+
+Um
+ and
+ uh
+ yeah,
+ great
+ to
+ great
+ to
+ have
+
+
+you
+ on
+ the
+ on
+ the
+ podcast,
+ Vivian.
+
+
+Welcome.
+ Thanks.
+ Thanks
+ for
+ having
+ me.
+
+
+>> So,
+ you
+ were
+ kind
+ of
+ at
+ the
+ vanguard
+
+
+thinking
+ about
+ what
+ the
+ proper
+ hardware
+
+
+is
+ for
+ running
+ AI
+ workloads.
+
+
+>> Absolutely.
+ I
+ mean,
+ you
+ know,
+ it's
+ like
+
+
+uh
+ when
+ you
+ have
+ a
+ hammer,
+ everything's
+
+
+a
+ nail,
+ I
+ suppose.
+ But
+ the
+ early
+ part
+ of
+
+
+my
+ career
+ was
+ really
+ about
+ how
+ do
+ I
+ take
+
+
+certain
+ algorithms
+ and
+ uh
+ capabilities
+
+
+and
+ shrink
+ them,
+ make
+ them
+ faster,
+ put
+
+
+them
+ into
+ form
+ factors
+ that
+ uh
+ make
+ them
+
+
+make
+ those
+ use
+ cases
+ proliferate
+ like
+
+
+wireless
+ uh
+ technology
+ or
+ video
+
+
+compression.
+ you
+ know,
+ you
+ couldn't
+ do
+
+
+video
+ compression
+ in
+ real
+ time
+ on
+ a
+ on
+ a
+
+
+on
+ a
+ laptop
+ back
+ then.
+ It
+ was
+ just
+ there
+
+
+wasn't
+ enough
+ uh
+ computing
+ power.
+ So,
+
+
+you
+ actually
+ needed
+ to
+ build
+ hardware
+ to
+
+
+do
+ those
+ kind
+ of
+ things.
+ So,
+ my
+ career
+
+
+was
+ early
+ part
+ of
+ my
+ career
+ was
+ all
+
+
+about
+ that.
+ And
+ uh
+ you
+ know,
+ then
+ I
+ went
+
+
+back
+ to
+ academia,
+ did
+ a
+ PhD
+ in
+
+
+neuroscience.
+ And
+ so,
+ you
+ still
+ kind
+ of
+
+
+look
+ at
+ it
+ like,
+ hey,
+ can
+ I
+ make
+
+
+something
+ better
+ that's
+ more
+ efficient?
+
+
+>> And
+ so,
+ you
+ sold
+ Nirvana
+ to
+ Intel.
+ Yeah.
+
+
+>> Um
+ and
+ and
+ then
+ uh
+ founded
+ Mosaic,
+ which
+
+
+is
+ a
+ cloud
+ company.
+ You
+ know,
+ it's
+
+
+interesting
+ to
+ sort
+ of
+ cross
+ domains
+
+
+like
+ that.
+ I
+ think
+ to
+ be
+ able
+ to
+ look
+ at
+
+
+hardware
+ and
+ software,
+ you
+ know,
+ I
+ would
+
+
+sort
+ of
+ argue
+ Mosaic
+ was
+ really
+ a
+
+
+software
+ company.
+ You
+ know,
+ how
+ how'd
+
+
+you
+ make
+ that
+ decision
+ and
+ and
+ why,
+ you
+
+
+know,
+ why,
+ you
+ know,
+ why
+ do
+ you
+ think
+
+
+you
+ have
+ these
+ diverse
+ interests?
+
+
+>> Well,
+ I
+ think
+ I
+ was,
+ I
+ don't know,
+ I
+
+
+guess
+ you
+ would
+ call
+ it
+ an
+ OG
+ kind
+ of
+
+
+full
+ stack.
+ Now,
+ full
+ stack
+ engineer
+
+
+means
+ something
+ different
+ that
+ meant
+
+
+back
+ then.
+ I
+ think
+ back
+ then
+ it
+ had
+
+
+someone
+ who
+ understands
+ potentially
+
+
+devices
+ like
+ silicon
+ how
+ to
+ do
+ logic
+
+
+design
+ computer
+ architecture
+ uh
+
+
+low-level
+ software
+ maybe
+ OS
+ level
+
+
+software
+ and
+ then
+ application
+ that
+ was
+ a
+
+
+a
+ full
+ stack
+ engineer
+ and
+ I
+ was
+ I
+ I
+
+
+actually
+ had
+ touched
+ all
+ those
+ topics
+ so
+
+
+to
+ me
+ it
+ was
+ very
+ natural
+ to
+ kind
+ of
+
+
+think
+ across
+ these
+ boundaries
+ you
+ know
+
+
+to
+ me
+ like
+ uh
+ software
+ and
+ hardware
+ is
+
+
+is
+ not
+ really
+ natural
+ boundary
+ it's
+ just
+
+
+where
+ we
+ decide
+ to
+ draw
+ the
+ line
+ and
+ say
+
+
+okay
+ this
+ is
+ something
+ I
+ configurable
+ or
+
+
+I
+ don't
+ and
+ uh
+ you
+ know
+ it's
+ it's
+ like
+
+
+where
+ where
+ is
+ the
+ world
+ going
+ to
+
+
+consume
+ something
+ where
+ is
+ the
+ problem
+
+
+and
+ then
+ you
+ know
+ right
+ size
+ and
+ figure
+
+
+out
+ the
+ the
+ solution
+ to
+ go
+ and
+ hit
+ it
+
+
+>> now
+ full
+ stack
+ means
+ I
+ know
+ JavaScript
+
+
+and
+ Python
+
+
+>> that's
+ right
+
+
+>> you
+ know
+ so
+ you've
+ had
+ a
+ lot
+ of
+ success
+
+
+doing
+ both
+ of
+ those
+ things
+ and
+ at
+ data
+
+
+bricks
+ um
+ why
+ start
+ a
+ new
+ chip
+ company
+
+
+now
+
+
+>> it
+ is
+ kind
+ of
+ crazy
+ it's
+ it's
+ one
+ of
+
+
+these
+ things
+ like
+ u
+ actually
+ I
+ was
+ first
+
+
+off
+ say
+ it's
+ not
+ a
+ chip
+ company
+ per
+ se
+
+
+most
+ of
+ what
+ we're
+ doing
+ is
+ at
+ the
+
+
+beginning
+ is
+ theory
+ and
+ uh
+ really
+ kind
+
+
+of
+ looking
+ at
+ first
+ principles
+ of
+ how
+
+
+learning
+ works
+ in
+ a
+ in
+ a
+ in
+ a
+ in
+ a
+ a
+
+
+physical
+ system.
+ Um
+ and
+ the
+ reason
+ to
+ go
+
+
+back
+ and
+ do
+ this
+ is
+ just
+ purely
+ out
+ of
+
+
+passion.
+ I
+ think
+ we
+ can
+ we
+ can
+ change
+
+
+how
+ a
+ computer
+ is
+ built.
+ We've
+ been
+
+
+building
+ largely
+ the
+ same
+ kind
+ of
+
+
+computer
+ for
+ 80
+ years.
+ We
+ went
+ digital
+
+
+back
+ in
+ the
+ 1940s
+ and
+ um
+ you
+ know
+ in
+
+
+undergrad
+ in
+ the
+ 1990s
+ when
+ I
+ learned
+
+
+about
+ you
+ know
+ the
+ therm
+ the
+
+
+thermodynamics
+ of
+ the
+ brain
+ like
+ the
+
+
+brain's
+ 20
+ watts
+ of
+ energy
+ and
+ you
+ know
+
+
+the
+ kind
+ of
+ computations
+ that
+ can
+ happen
+
+
+inside
+ of
+ brain
+ and
+ neural
+ systems
+ I
+ I
+
+
+was
+ just
+ blown
+ away
+ then
+ I'm
+ still
+ blown
+
+
+away
+ by
+ it
+ and
+ I
+ think
+ um
+ we
+ haven't
+
+
+really
+ scratched
+ the
+ surface
+ of
+ how
+ we
+
+
+can
+ get
+ close
+ to
+ that
+ you
+ know
+ biology
+
+
+is
+ exquisitly
+ efficient
+ it's
+ very
+ fast
+
+
+it
+ right
+ sizes
+ is
+ itself
+ to
+ the
+
+
+application
+ at
+ hand.
+ Like
+ you
+ know
+ when
+
+
+you're
+ chilling
+ out
+ you
+ don't
+ use
+ much
+
+
+energy
+ like
+ you
+ just
+ but
+ you're
+ still
+
+
+aware
+ of
+ other
+ threats
+ and
+ things
+ like
+
+
+this
+ then
+ once
+ you
+ know
+ a
+ threat
+ happens
+
+
+like
+ everything
+ turns
+ on.
+ It's
+ very
+
+
+dynamic
+ and
+ we
+ really
+ haven't
+ built
+
+
+systems
+ like
+ this
+ and
+ you
+ know
+ I
+ I've
+
+
+been
+ in
+ the
+ industry
+ long
+ enough
+ to
+ know
+
+
+that
+ we
+ have
+ to
+ have
+ an
+ incentive
+ to
+
+
+build
+ things.
+ You
+ can't
+ you
+ can't
+ just
+
+
+say
+ hey
+ I
+ want
+ to
+ build
+ this
+ cool
+ thing
+
+
+and
+ therefore
+ I
+ go
+ build
+ it.
+ Maybe
+ in
+
+
+academia
+ you
+ can
+ do
+ that
+ but
+ in
+ the
+ in
+
+
+in
+ sort
+ of
+ the
+ real
+ world
+ I
+ can't.
+ And
+
+
+uh
+ now
+ it's
+ exciting
+ because
+ those
+
+
+concepts
+ are
+ super
+ relevant.
+ We're
+ at
+ a
+
+
+point
+ in
+ time
+ where
+ uh
+ computing
+ is
+ is
+
+
+is
+ bound
+ by
+ energy
+ at
+ the
+ global
+ level,
+
+
+which
+ just
+ was
+ never
+ true
+ in
+ all
+ of
+
+
+humanity.
+ And
+ and
+ so
+ for
+ for
+ those
+ of
+ us
+
+
+who
+ aren't
+ experts
+ um
+ can
+ you
+ describe
+
+
+the
+ difference
+ between
+ digital
+ and
+
+
+analog
+ computing
+ systems
+ and
+ and
+ you
+
+
+know
+ like
+ why
+ do
+ you
+ think
+ the
+ the
+
+
+architecture
+ has
+ evolved
+ the
+ way
+ it
+ has
+
+
+sort
+ of
+ more
+ more
+ digital
+ focused
+ over
+
+
+over
+ decades
+ as
+ you
+ said?
+
+
+>> Yeah.
+ I
+ mean
+ very
+ simply
+ digital
+
+
+computers
+ uh
+ implement
+ numeric
+ and
+
+
+numeric
+ with
+ some
+ sort
+ of
+ estimation
+
+
+right
+ I
+ mean
+ in
+ in
+ a
+ digital
+ computer
+ a
+
+
+number
+ is
+ represented
+ by
+ a
+ fixed
+ number
+
+
+of
+ bits
+ and
+ uh
+ that
+ has
+ some
+ precision
+
+
+error
+ and
+ things
+ like
+ this
+ it's
+ just
+ a
+
+
+way
+ we
+ implement
+ the
+ system
+ if
+ you
+ make
+
+
+it
+ enough
+ bits
+ like
+ 64
+ bits
+ you
+ can
+
+
+largely
+ say
+ that
+ maybe
+ the
+ error
+ is
+
+
+small
+ you
+ don't
+ have
+ to
+ think
+ about
+ it
+
+
+um
+ and
+ so
+ when
+ we
+ the
+ digital
+ computer
+
+
+uh
+ is
+ capable
+ of
+ simulating
+ anything
+
+
+that
+ you
+ can
+ express
+ as
+ numbers
+ and
+
+
+arithmetic.
+ So
+ it
+ became
+ a
+ very
+ general
+
+
+machine.
+ I
+ can
+ literally
+ uh
+ simulate
+ any
+
+
+physical
+ process.
+ All
+ of
+ physics
+ we
+ try
+
+
+to
+ do
+ computational
+ physics,
+ right?
+ I
+
+
+have
+ an
+ equation.
+ I
+ can
+ then
+ write
+ um
+
+
+numeric
+ solvers
+ that
+ sort
+ of
+ deal
+ with
+
+
+those
+ uh
+ those
+ imprecisions
+ uh
+ in
+ in
+ the
+
+
+number
+ of
+ bits.
+ And
+ so
+ this
+ became
+
+
+obviously
+ computer
+ science
+ uh
+ the
+ entire
+
+
+field
+ now.
+ And
+ we
+ went
+ that
+ direction
+
+
+actually
+ very
+ early
+ on
+ because
+ uh
+ we
+
+
+couldn't
+ scale
+ up
+ uh
+ computation.
+ It
+ was
+
+
+it's
+ actually
+ kind
+ of an
+ interesting
+
+
+conversation
+ if
+ you
+ look
+ from
+ back
+ then.
+
+
+Not
+ that
+ it
+ was
+ there
+ of
+ course,
+ but
+ if
+
+
+you
+ look
+ at
+ the
+ papers
+ and
+ things,
+ they
+
+
+actually
+ looked
+ very
+ similar
+ to
+ today
+ in
+
+
+terms
+ of
+ scaling
+ up
+ GPUs.
+
+
+>> Um
+ analog
+ computers
+ were
+ actually
+ some
+
+
+of
+ the
+ first
+ computers
+ and
+ um
+ they
+
+
+worked
+ really
+ well.
+ They
+ were
+ very
+
+
+efficient,
+ but
+ they
+ couldn't
+ be
+ scaled
+
+
+up
+ because
+ of
+ manufacturing
+ variability.
+
+
+So
+ someone
+ said,
+ "Okay,
+ you
+ know what?
+ I
+
+
+can
+ actually
+ say
+ I
+ can
+ make
+ a
+ vacuum
+
+
+tube
+ behave
+ as
+ a
+ high
+ or
+ low
+ very
+
+
+reliably.
+ I
+ can't
+ characterize
+ the
+ in
+
+
+between
+ very
+ well,
+ but
+ I
+ can
+ I
+ can
+ say
+
+
+it's
+ high
+ or
+ low.
+ And
+ so
+ that
+ was
+ kind
+
+
+of
+ where
+ we
+ went
+ to
+ digital
+ abstraction.
+
+
+And
+ then
+ we
+ could
+ scale
+ up.
+
+
+>> ENIAC,
+ which
+ was
+ built
+ in
+ 1945,
+ had
+
+
+18,000
+ vacuum
+ tubes.
+
+
+>> Wow.
+
+
+>> So
+ 18,000
+ is
+ kind
+ of
+ similar
+ how
+ many
+
+
+GPUs
+ people
+ use
+ now,
+ right,
+ for
+ large
+
+
+scale
+ trading.
+ So
+ scaling
+ things
+ up
+ is
+
+
+is
+ always
+ a
+ hard
+ problem.
+ And
+ once
+ you
+
+
+figure
+ out
+ how
+ to
+ do
+ it,
+ it
+ makes
+ a
+
+
+paradigm
+ happen.
+ And
+ I
+ think
+ that's
+ why
+
+
+we
+ went
+ to
+ digital.
+ But
+ analog
+ still
+ is
+
+
+inherently
+ more
+ efficient
+ because
+ you
+
+
+it's
+ it's
+ actually
+ analogous
+ computing
+
+
+is
+ a
+ way
+ to
+ think
+ about
+ it.
+ Like
+ can
+ I
+
+
+build
+ a
+ physical
+ system
+ that
+ is
+ similar
+
+
+to
+ the
+ quantity
+ I'm
+ trying
+ to
+ express
+ or
+
+
+compute
+ over.
+ Um
+ you're
+ you're
+
+
+effectively
+ using
+ the
+ physics
+ of
+ the
+ uh
+
+
+underlying
+ medium
+ to
+ do
+ the
+ computation.
+
+
+>> And
+ so
+ in
+ digital
+ computers
+ we
+ have
+
+
+transistors.
+ Um
+ ju
+ just
+ to
+ make
+ it
+ sort
+
+
+of
+ concrete,
+ what
+ kind
+ of
+ substrates
+ are
+
+
+you
+ talking
+ about
+ for
+ for
+ analog
+
+
+computers?
+ Yeah,
+ I
+ mean
+ analog
+ computers
+
+
+can
+ do
+ lots
+ of
+ different
+ things.
+ You
+
+
+know,
+ um
+ there's
+ wind
+ tunnels
+ are
+ a
+
+
+great
+ example
+ of
+ an
+ analog
+ computer
+ in
+ a
+
+
+sense
+ where
+ um
+ I
+ have,
+ you
+ know,
+ a
+ race
+
+
+car
+ on
+ a
+ track
+ or
+ an
+ airplane
+ and
+ I
+ want
+
+
+to
+ understand
+ how
+ the
+ the
+ wind
+ moves
+
+
+around
+ it
+ and
+ you
+ can
+ in
+ theory
+ solve
+
+
+those
+ things
+ computationally.
+ The
+
+
+problem
+ is
+ you're
+ always
+ going
+ to
+ be
+
+
+off.
+ It's
+ very
+ hard
+ to
+ know
+ what
+ the
+
+
+real
+ system
+ is
+ going to
+ look
+ like
+ and
+
+
+doing
+ things
+ with
+ computational
+ fluid
+
+
+dynamics
+ accurately
+ is
+ pretty
+ hard.
+ So
+
+
+people
+ still
+ build
+ wind
+ tunnels
+ that's
+
+
+actually
+ modeling
+ that
+ that's
+ that's
+ an
+
+
+analog
+ computer.
+ You
+ know
+ I
+ think
+ uh
+ we
+
+
+still
+ have
+ lots
+ of
+ reasons
+ to
+ build
+
+
+these
+ analogous
+ type
+ computers.
+ Now
+ in
+
+
+the
+ situation
+ we're
+ talking
+ about
+ we
+ can
+
+
+actually
+ build
+ circuits
+ in
+ silicon
+ uh
+ to
+
+
+recapitulate
+ behaviors
+ of
+ of
+ neural
+
+
+networks.
+ So
+ what
+ we're
+ doing
+ today
+ is
+
+
+is
+ more
+ specified
+ than
+ what
+ we
+ were
+
+
+doing
+ 80
+ years
+ ago
+ in
+ a
+ sense
+ is
+ that
+
+
+then
+ we
+ were
+ trying
+ to
+ automate
+ generic
+
+
+calculation
+ which
+ was
+ used
+ to
+ calculate
+
+
+artillery
+ trajectories.
+ It
+ was
+ used
+ to
+
+
+calculate
+ finances
+ maybe
+ some
+ you
+ know
+
+
+physics
+ problems
+ like
+ going
+ into
+ space
+
+
+things
+ like
+ that
+ those
+ require
+
+
+determinism
+ and
+ you
+ know
+ specificity
+
+
+around
+ these
+ numbers
+ and
+ these
+
+
+computations.
+ Intelligence
+ is
+ a
+
+
+different
+ beast.
+ You
+ can
+ build
+ it
+ out
+ of
+
+
+numbers,
+ but
+ is
+ it
+ naturally
+ built
+ out
+
+
+of
+ numbers?
+ I
+ don't
+ know.
+ A
+ neural
+
+
+network
+ is
+ actually
+ a
+ stochastic
+
+
+machine.
+ And
+ so
+ why
+ are
+ we
+ using
+ the
+
+
+substrate
+ that
+ is
+ highly
+ precise
+ and
+
+
+deterministic
+ for
+ something
+ that's
+
+
+actually
+ stochastic
+ and
+ distributed
+ in
+
+
+nature?
+ So
+ we
+ believe
+ we
+ can
+ find
+ this
+
+
+the
+ right
+ isomorphism
+ in
+ electrical
+
+
+circuits
+ that
+ can
+ subserve
+ intelligence.
+
+
+>> That's
+ a
+ pretty
+ wild
+ idea,
+ isn't
+ it?
+ um
+
+
+maybe
+ unpack
+ it
+ one
+ level
+ deeper
+ because
+
+
+I
+ totally
+ I
+ totally
+ agree
+ with
+ you,
+
+
+right?
+ It's
+ like
+ um
+ computers
+ for
+ for
+
+
+decades
+ have
+ been
+ sort
+ of
+ the
+ complement
+
+
+to
+ human
+ intelligence,
+ right?
+ It's
+ like,
+
+
+hey,
+ my
+ brain
+ isn't
+ really
+ great
+ at
+
+
+computing
+ an
+ orbital
+ trajectory.
+
+
+>> That's
+ right.
+
+
+>> And
+ I
+ don't
+ want
+ to
+ like
+ burn
+ up
+ on
+
+
+re-entry.
+ So
+ like
+ a
+ computer
+ can
+ help
+ us
+
+
+with
+ this
+ incredible
+ degree
+ of
+ of
+
+
+precision.
+ Um
+ we're
+ now
+ kind
+ of
+ going
+
+
+the
+ opposite
+ direction,
+ right?
+ we're
+
+
+actually
+ trying
+ to
+ encode
+ more
+ sort
+ of
+
+
+um
+ fuzziness
+ into
+ computer
+ systems.
+ Um
+
+
+so
+ so
+ yeah
+ so
+ so
+ go
+ maybe
+ just
+ a
+ little
+
+
+bit
+ deeper
+ on
+ this
+ idea
+ of
+ an
+ analog
+ and
+
+
+um
+ you
+ know
+ why
+ intelligence
+ is
+ a
+ good
+
+
+fit
+ for
+ for
+ anal
+ for
+ analog
+ systems.
+
+
+Well,
+ I
+ mean
+ the
+ best
+ examples
+ we
+ have
+
+
+of
+ uh
+ intelligent
+ systems
+ in
+ nature
+ are
+
+
+brains
+ and
+ you
+ know
+
+
+>> it's
+ often
+ been
+ said
+ you
+ know
+ human
+
+
+brains
+ run
+ on
+ 20
+ watts
+ of
+ energy.
+ That's
+
+
+that
+ is
+ true
+ but
+ if
+ you
+ look
+ at
+ a
+
+
+million
+ brains
+ generally
+ actually
+
+
+extremely
+ efficient
+ like
+ a
+ squirrel
+ or
+ a
+
+
+cat
+ it's
+ like
+ a
+ tenth
+ of
+ a
+ watt
+ and
+ so
+
+
+uh
+ there's
+ something
+ there
+ that
+ we're
+
+
+still
+ missing.
+ And
+ not
+ to
+ say
+ that
+ we
+
+
+understand
+ all
+ of
+ it,
+ but
+ part
+ of
+ what
+ I
+
+
+think
+ we're
+ missing
+ is
+ we
+ have
+ lots
+ of
+
+
+abstractions
+ in
+ a
+ computer
+ that
+ are
+
+
+quite
+ lossy.
+ In
+ a
+ brain,
+ the
+ neural
+
+
+network
+ neural
+ network
+ dynamics
+ are
+
+
+implemented
+ physically.
+
+
+>> So
+ there
+ is
+ no
+ abstraction.
+ Intelligence
+
+
+is
+ the
+ physics.
+ They're
+ one
+ and
+ the
+
+
+same.
+ There's
+ no,
+ you
+ know,
+ OS
+ and,
+ you
+
+
+know,
+ some
+ sort
+ of
+ API
+ and
+ this
+ and
+
+
+that.
+ So
+ there's
+ some
+ visual
+ stimulus
+
+
+for
+ instance
+ that
+ directly
+ activates
+ an
+
+
+a
+ actual
+ neural
+ network
+ and
+ and
+ produces
+
+
+some
+ some
+ sematic
+ response
+ that
+ sort
+ of
+
+
+thing.
+
+
+>> Exactly.
+ And
+ those
+ things
+ are
+ mediated
+
+
+by
+ chemical
+ diffusion
+ and
+ you
+ know
+ uh
+
+
+just
+ the
+ the
+ the
+ physical
+ properties
+ of
+
+
+the
+ neuron
+ the
+ physics
+ itself.
+ So
+ I
+
+
+think
+ absolutely
+ it's
+ possible
+ to
+ build
+
+
+something
+ that's
+ much
+ more
+ efficient
+ and
+
+
+uh
+ by
+ using
+ physics
+ in
+ an
+ analogous
+ way
+
+
+that
+ is
+ 100%
+ true.
+ uh
+ can
+ we
+ do
+ it
+ and
+
+
+build
+ us
+ build build
+ a
+ product
+ out
+ of
+ it
+
+
+is
+ really
+ the
+ question
+ we're
+ asking
+ here
+
+
+at
+ unconventional
+
+
+>> and
+ is
+ part
+ of
+ the
+ idea
+ that
+ now
+ is
+ the
+
+
+right
+ time
+ because
+ AI
+ is
+ a
+ both
+ a
+ huge
+
+
+and
+ a
+ unique
+ workload.
+
+
+>> Yeah,
+ absolutely.
+ You
+ know,
+ it's
+ it's
+
+
+interesting.
+ So
+ just
+ maybe
+ some
+ stats
+
+
+here
+ like
+ the
+ US
+ is
+ about
+ 50%
+ of
+ the
+
+
+world's
+ data
+ center
+ capacity
+ and
+ today
+
+
+we
+ put
+ about
+ 4%
+ of
+ the
+ energy
+ grid
+ of
+
+
+the
+ US
+ energy
+ grid
+ into
+ those
+ data
+
+
+centers
+ and
+ this
+ this
+ past
+ year
+ 2025
+ was
+
+
+the
+ first
+ time
+ we
+ started
+ to
+ see
+ news
+
+
+articles
+ about
+ brownouts
+ in
+ the
+
+
+southwest
+ during
+ the
+ summer
+ and
+ you
+ know
+
+
+just
+ imagine
+ what
+ happens
+ when
+ this
+ goes
+
+
+to
+ 8%
+ 10%
+ of
+ the
+ energy
+ grid.
+ It
+ it's
+
+
+not
+ going
+ to
+ be
+ a
+ good
+ place
+ that
+ we're
+
+
+in.
+ So
+ can
+ we
+ build
+ more
+ power?
+
+
+Absolutely
+ we
+ should.
+ Building
+ power
+
+
+generation
+ is
+ very
+ hard,
+ expensive
+ and
+
+
+it's
+ infrastructure
+ like
+ it
+ takes
+ it
+
+
+takes
+ time.
+ You
+ can't
+ you
+ can
+ only
+ bring
+
+
+online
+ so
+ many
+ kilowatts
+ or
+ gigawatts
+
+
+per
+ year.
+ So
+ something
+ on
+ the
+ order
+ of
+
+
+four
+ per
+ year.
+ Uh
+ by
+ some
+ estimates
+ we
+
+
+need
+ 400
+ gawatts
+ additional
+ capacity
+
+
+over
+ the
+ next
+ 10
+ years
+ to
+ power
+ the
+
+
+demand
+ for
+ AI.
+
+
+>> Wow.
+
+
+>> So
+ we
+ have
+ a
+ huge
+ shortfall.
+ And
+ so
+ we
+
+
+really
+ just
+ need
+ to
+ rethink
+ this.
+ the
+
+
+the
+ you
+ know
+ 15-year-old
+ sci-fi
+ nerd
+ in
+
+
+me
+ says
+ like
+ wow
+ we're
+ we're
+ mobilizing
+
+
+you
+ know
+ species
+ scale
+ resources
+ to
+ like
+
+
+invent
+ the
+ future
+ we
+ are
+ and
+ then
+ then
+
+
+there's
+ the
+ practical
+ it's
+ like
+ even
+ if
+
+
+we
+ add
+ 400
+ gawatts
+ of
+ production
+
+
+capacity
+ our
+ our
+ you
+ know
+ 1970s
+ era
+
+
+transmission
+ grid
+ is
+ probably
+ going
+ to
+
+
+melt
+ under
+ the
+ under
+ the
+ load
+ so
+ yeah
+ so
+
+
+so
+ there's
+ very
+ serious
+ sort
+ of
+
+
+infrastructure
+ hurdles
+ to
+ this
+ I
+ think
+
+
+>> it's
+ hard
+ to
+ get
+ a
+ lot
+ of
+ humans
+ to
+ act
+
+
+together
+ right
+ it's
+ just
+ the
+ reality
+
+
+that's
+ what
+ has
+ to
+ happen
+ to
+ solve
+ these
+
+
+problems.
+
+
+>> What
+ trade-offs
+ do
+ you
+ think
+ this
+
+
+entails?
+ You
+ know,
+ sort
+ of
+ the
+ path
+
+
+you're
+ pursuing
+ versus
+ the
+ the
+
+
+mainstream
+ digital
+ path
+ now.
+
+
+>> Yeah,
+ I
+ actually
+ don't
+ see
+ it
+ as,
+ you
+
+
+know,
+ it's
+ digital
+ or
+ analog.
+ It
+ doesn't
+
+
+work
+ like
+ that.
+ I
+ think
+ there
+ are
+
+
+certain
+ types
+ of
+ workloads
+ that
+ are
+
+
+amendable
+ to
+ these
+ analog
+ approaches,
+
+
+especially
+ the
+ ones
+ that
+ are
+ that
+ can
+ be
+
+
+expressed
+ as
+ um
+ dynamical
+ systems.
+
+
+Dynamics
+ meaning
+ time.
+ They
+ have
+ time
+
+
+associated
+ with
+ them.
+ In
+ the
+ real
+ world,
+
+
+every
+ physical
+ process
+ has
+ time.
+ And
+ in
+
+
+the
+ computing
+ world
+ like
+ a
+ numeric
+
+
+computing
+ world
+ we
+ actually
+ don't
+ have
+
+
+that
+ concept.
+ You
+ simulate
+ time
+ with
+
+
+numbers.
+
+
+>> Actually
+ simulating
+ time
+ is
+ very
+ useful
+
+
+in
+ certain
+ uh
+ certain
+ problems.
+ So
+ I
+
+
+think
+ we
+ should
+ still
+ build
+ those
+ things
+
+
+and
+ we
+ should
+ still
+ have
+ those
+ uh
+
+
+capabilities
+ for
+ the
+ problems
+ that
+ we
+
+
+need
+ to
+ solve
+ that
+ way.
+ Uh
+ but
+ for
+ these
+
+
+problems
+ where
+ you
+ know
+ like
+ like
+ you
+
+
+said
+ it's
+ a
+ bit
+ fuzzier.
+ I'm
+ trying
+ to
+
+
+retrieve
+ and
+ summarize
+ across
+ multiple
+
+
+inputs.
+ That's
+ actually
+ what
+ brains
+ do
+
+
+really
+ well,
+ right?
+ they
+ can
+ they
+ can
+ uh
+
+
+take
+ in
+ tons
+ of
+ data
+ and
+ sort
+ of
+
+
+formulate
+ a
+ a
+ model
+ of
+ how
+ those
+ things
+
+
+interact
+ and
+ sometimes
+ those
+ models
+ can
+
+
+be
+ actually
+ extremely
+ accurate
+ like
+ look
+
+
+at
+ an
+ athlete
+
+
+>> you
+ know
+ um
+ you
+ know
+ Alex
+ Hunnel
+ who
+
+
+climbed
+ uh
+ uh
+ El
+ Capitan
+ right
+ just
+
+
+think
+ about
+ the
+ precision
+ that's
+
+
+required
+
+
+>> it
+ still
+ scares
+ me
+ every
+ time
+ I
+
+
+>> insane
+ right
+ and
+ if
+ he
+ slips
+ like
+ just
+
+
+like
+ he's
+ off
+ by
+ a
+ millimeter
+ in
+ some
+
+
+places
+ he
+ dies
+ right
+ and
+ that's
+ true
+ for
+
+
+like
+ every
+ top
+ level
+ athlete
+ and
+ they're
+
+
+someone
+ who's,
+ you
+ know,
+ at
+ the
+ the
+
+
+Olympics.
+
+
+>> Steph
+ Curry,
+ you
+ know,
+ the
+ story
+ is
+ he
+
+
+set
+ up
+ a
+ special
+ tracking
+ system
+ so
+ he
+
+
+can
+ make
+ sure
+ the
+ ball
+ was
+ hitting
+ the
+
+
+middle
+ of
+ the
+ rim,
+ not
+ not
+ just
+ going
+
+
+through.
+
+
+>> So,
+ the
+ level
+ of
+ precision
+ these
+ guys
+
+
+hit
+ with
+ a
+ neural
+ network
+ that's
+ noisy
+
+
+is
+ actually
+ quite
+ high.
+
+
+>> So,
+ uh,
+ neural
+ systems
+ can
+ actually
+ do
+ a
+
+
+lot
+ of
+ precision
+ under
+ certain
+
+
+circumstances,
+ but
+ what's
+ interesting
+
+
+about
+ these
+ situations
+ is
+ Steph
+ Curry
+
+
+when
+ he
+ shoots
+ a
+ ball
+ is
+ never
+ going
+ to
+
+
+shoot
+ it
+ under
+ ideal
+ circumstances
+ in
+ a
+
+
+game.
+
+
+always
+ it's
+ a
+ unique
+ input
+ and
+ there's
+ a
+
+
+lot
+ of
+ different
+ input
+ variables
+ coming
+
+
+at
+ you
+ like
+ where
+ the
+ other
+ players
+ are
+
+
+precisely
+ where
+ you're
+ standing,
+ maybe
+
+
+your
+ shoes
+ are
+ different,
+ maybe
+ the
+
+
+surface
+ is
+ a
+ little
+ different,
+ like
+
+
+maybe
+ the
+ ball
+ is
+ tackier
+ or
+ your
+ hands
+
+
+are
+ sweaty,
+ like
+ there's
+ so
+ many
+ inputs
+
+
+and
+ we
+ we
+ kind
+ of
+ put
+ them
+ all
+ together
+
+
+and
+ integrate
+ them
+ and
+ still
+ have
+ very
+
+
+accurate
+ behavior.
+ So
+ brains
+ are
+
+
+exceptionally
+ good
+ at
+ this
+ and
+ you
+ know
+
+
+that's
+ set
+ of
+ problems
+ that
+ is
+ actually
+
+
+very
+ useful
+ to
+ solve
+ and
+ now
+ we're
+
+
+approaching
+ those
+ problems.
+ uh
+ but
+ it
+
+
+doesn't
+ mean
+ we
+ don't
+ still
+ use
+
+
+computational
+ uh
+ substrates
+ to
+ do
+ actual
+
+
+computation.
+ This
+ is
+ kind
+ of
+ an
+
+
+intelligent
+ substrate.
+
+
+>> And
+ so
+ what
+ types
+ of
+ AI
+ models
+ or
+ or
+
+
+data
+ modalities
+ do
+ you
+ expect
+ uh
+ your
+
+
+your
+ um
+ hardware
+ will
+ be
+ well
+ suited
+
+
+for?
+
+
+>> Yeah.
+ So
+ we're
+ we're
+ obviously
+ starting
+
+
+with
+ the
+ state-of-the-art
+ today
+ like
+
+
+transformers,
+ diffusion
+ models,
+ they
+
+
+they
+ work,
+ they
+ do
+ really
+ good
+ stuff,
+ so
+
+
+we
+ shouldn't
+ throw
+ that
+ out.
+ And
+ uh
+
+
+diffusion
+ models
+ and
+ flow
+ models
+ are
+
+
+actually
+ and
+ energy
+ based
+ models
+ are
+
+
+actually
+ pretty
+ interesting
+ because
+ they
+
+
+inherently
+ have
+ dynamics
+ as
+ part
+ of
+
+
+them.
+ They're
+ literally
+ written
+ as
+ an
+
+
+ordinary
+ ordinary
+ differential
+ equation.
+
+
+So
+ um
+ that
+ makes
+ it
+ such
+ that
+ hey
+ can
+ I
+
+
+map
+ those
+ dynamics
+ onto
+ the
+ dynamics
+ of
+
+
+a
+ physical
+ system
+ in
+ some
+ way
+ that's
+
+
+either
+ fixed
+ or
+ um
+ has
+ some
+ principal
+
+
+way
+ of
+ of
+ evolving
+ and
+ then
+ can
+ I
+
+
+basically
+ use
+ that
+ physical
+ system
+ to
+
+
+implement
+ that
+ thing
+ and
+ do
+ it
+ very
+
+
+efficiently
+ with
+ physics.
+ So
+ that's
+
+
+that's
+ kind
+ of
+ the
+ nature
+ of
+ what
+ we're
+
+
+doing.
+ And
+ we
+ will
+ be
+ releasing
+ uh
+ some
+
+
+open
+ source
+ and
+ things
+ around
+ this
+ to
+ to
+
+
+let
+ people
+ play
+ around.
+ But
+ um
+ you
+ know
+
+
+transformers
+ are
+ really
+ uh
+ they're
+ a
+ big
+
+
+innovation
+ because
+ they
+ they
+ made
+ the
+
+
+constructs
+ of
+ a
+ GPU
+ work
+ extremely
+ well.
+
+
+And
+ it
+ doesn't
+ mean
+ it's
+ wrong
+ but
+ I
+
+
+don't
+ think
+ there's
+ there's
+ nothing
+
+
+natural.
+ There's
+ no
+ natural
+ law
+ about
+
+
+the
+ parameter
+ of
+ a
+ transformer.
+ M
+
+
+>> transformers
+ parameter
+ is
+ a
+ function
+ of
+
+
+the
+ nonlinearities
+ and
+ the
+ way
+ a
+ whole
+
+
+thing
+ is
+ set
+ up
+ with
+ attention.
+ There's
+
+
+going
+ to
+ be
+ some
+ kind
+ of
+ uh
+ mapping
+
+
+between
+ transformer
+ parameter
+ spaces
+ and
+
+
+these
+ other
+ parameter
+ spaces
+ and
+ it's
+
+
+transformers
+ are
+ I
+ think
+ have
+ kind
+ of
+
+
+used
+ lots
+ of
+ lots
+ of
+ parameters
+ to
+
+
+accomplish
+ what
+ they
+ do.
+ I
+ have
+ to
+ ask
+
+
+just
+ since
+ you
+ mentioned
+ energy
+ based
+
+
+models
+ and
+ Yan
+ Lun
+ has
+ been
+ um
+ you
+ know
+
+
+uh
+ writing
+ quite
+ a
+ lot
+ about
+ this
+ um
+ do
+
+
+you
+ think
+ pursuing
+ these
+ sorts
+ of
+ paths
+
+
+that
+ you're
+ talking
+ about
+ is
+ is
+ uh
+ gets
+
+
+us
+ closer
+ on
+ the
+ path
+ to
+ AGI
+ whatever
+
+
+whatever
+ AGI
+ means
+
+
+>> honestly
+ I
+ do
+ uh
+ the
+ reason
+ I
+ feel
+ that
+
+
+way
+ and
+ again
+ this
+ is
+ this
+ is
+ hand
+ wavy
+
+
+I'm
+ gonna
+ be
+ really
+ honest
+ I
+ don't
+
+
+>> that's
+ why
+ I'm
+ putting
+ quotes
+ around
+ I
+
+
+think
+ that
+ the
+ discussion
+ is
+ necessarily
+
+
+handwavy
+
+
+>> it's
+ got
+ to
+ be
+ because
+ we
+ just
+ don't
+
+
+know
+ uh
+ But
+ my
+ intuition
+ says
+ that
+ um
+
+
+anything
+ where
+ the
+ basis
+ is
+ dynamic
+
+
+which
+ has
+ time
+ and
+ causality
+ as
+ part
+ of
+
+
+it
+ will
+ be
+ a
+ better
+ basis
+ than
+ something
+
+
+that's
+ not.
+
+
+>> So
+ we've
+ largely
+ tried
+ to
+ remove
+ that
+
+
+and
+ you
+ know
+ you
+ know
+ a
+ lot
+ of
+ times
+ you
+
+
+can
+ write
+ math
+ down
+ it's
+ reversible
+ in
+
+
+time
+ and
+ things
+ like
+ that
+ but
+ the
+
+
+physical
+ world
+ tends
+ not
+ to
+ be
+ at least
+
+
+the
+ way
+ we
+ perceive
+ it.
+ And
+ so
+ can
+ we
+
+
+build
+ out
+ of
+ elements
+ of
+ the
+ physical
+
+
+world
+ that
+ are
+ you
+ know
+ uh
+ do
+ do
+ have
+
+
+time
+ evolution?
+ I
+ think
+ that's
+ the
+ right
+
+
+basis
+ to
+ build
+ something
+ that
+
+
+understands
+ causation.
+
+
+>> So
+ I
+ do
+ think
+ we'll
+ we'll
+ have
+ something
+
+
+that
+ is
+ better
+ uh
+ and
+ will
+ give
+ us
+
+
+something
+ closer
+ to
+ what
+ we
+ really
+ think
+
+
+is
+ intelligence
+ because
+ yes
+ we
+ have
+
+
+intelligence
+ in
+ these
+ machines.
+ I
+ I
+
+
+don't
+ think
+ they're
+ anywhere
+ close
+ to
+
+
+AGI
+ because
+ I
+ mean
+ they
+ still
+ make
+
+
+stupid
+ errors.
+ They're
+ very
+ useful
+ tools
+
+
+but
+ they're
+ they're
+ not
+ what
+ it's
+ not
+
+
+like
+ working
+ with
+ a
+ person,
+ right?
+ I
+
+
+think
+ most
+ people
+ at
+ that
+
+
+>> that's
+ actually
+ really
+ interesting.
+ So
+
+
+the
+ the
+ sort
+ of
+ thing
+ that's
+ missing
+ in
+
+
+in
+ AI
+ behavior,
+ which
+ which
+ I
+ think
+ a
+
+
+lot
+ of
+ us
+ see
+ that
+ there's
+ something
+
+
+missing
+ but
+ can't
+ quite
+ put
+ a
+ name
+ to
+
+
+it.
+ It
+ sounds
+ like
+ you're
+ arguing
+ part
+
+
+of
+ that
+ is
+ is
+ sort
+ of
+ a
+ real
+ sense
+ of
+
+
+causality.
+ Yeah.
+
+
+>> And
+ that
+ training
+ and
+ more
+ dynamic
+
+
+sort
+ of
+ regime
+ may
+ may
+ impart
+ this
+ kind
+
+
+of
+ like
+ apparent
+ understanding
+ causality
+
+
+better
+ than
+ what
+ we
+ have
+ now.
+
+
+>> Yeah.
+ And
+ again
+ hand
+ wavy
+ but
+ yes
+ uh
+ I
+
+
+mean
+ look
+ you
+ have
+ kids
+ little
+ kids
+ and
+
+
+you
+ see
+ them
+ I
+ mean
+
+
+>> children
+ kind
+ of
+ innately
+ understand
+
+
+causality
+ in
+ some
+ ways
+ like
+
+
+>> you
+ know
+ this
+ happened
+ then
+ that
+
+
+happened
+ and
+ yes
+ I
+ know
+ you
+ can
+ say
+ like
+
+
+it's
+ reinforcement
+ learning
+ or
+ whatever
+
+
+that's
+ some
+ part
+ of
+ it
+ but
+ there's
+
+
+something
+ innate
+ that
+ we
+ understand
+
+
+causality
+ in
+ fact
+ that's
+ how
+ we
+ move
+ our
+
+
+limbs
+ and
+ all
+ of
+ that
+ I
+ know
+ if
+ I
+ send
+ a
+
+
+certain
+ command
+ to
+ my
+ arm
+ it'll
+ do
+ do
+
+
+something.
+ So
+ I
+ I
+ think
+ there's
+
+
+something
+ innate
+ about
+ the
+ way
+ our
+
+
+brains
+ are
+ wired
+ built
+ out
+ of
+ primitives
+
+
+that
+ are
+ that
+ do
+ understand
+ causation.
+
+
+>> Put
+ unconventional
+ in
+ the
+ context
+ of
+ the
+
+
+broader
+ industry
+ for
+ me
+ like
+ Nvidia,
+
+
+TSMC,
+
+
+Google
+ are
+ are
+ these
+ um
+ you
+ know
+
+
+potential
+ allies
+ for
+ unconventional?
+ Are
+
+
+these
+ competitors?
+ How
+ do
+ you
+ think
+
+
+about
+ it?
+ Yeah,
+ I
+ mean
+ a
+ couple
+ of
+
+
+things
+ that
+ we
+ set
+ out
+ to
+ do
+ when
+ we
+
+
+built
+ were
+ starting
+ this
+ company
+ was
+ see
+
+
+if
+ we
+ can
+ find
+ a
+ paradigm
+ that's
+
+
+analogous
+ to
+ intelligence
+ within
+ five
+
+
+years.
+ Uh
+ and
+ then
+ at
+ the
+ 5-year
+ mark,
+
+
+we
+ should
+ be
+ able
+ to
+ build
+ something
+
+
+that's
+ scalable
+ from
+ a
+ manufacturing
+
+
+standpoint.
+ So,
+ you
+ know,
+ you
+ can
+ you
+
+
+can
+ think
+ about
+ building
+ a
+ computer
+ out
+
+
+of
+ many
+ different
+ things,
+ but
+ if
+ it's
+
+
+not
+ scalable
+ from
+ a
+ manufacturing
+
+
+standpoint,
+ we
+ can't
+ intercept
+ this
+ this
+
+
+global
+ energy
+ problem.
+ So
+ we
+ need
+ to
+
+
+have
+ somebody
+ say
+ okay
+ go
+ build
+ 10
+
+
+million
+ of
+ these
+ things
+ right.
+ So
+ I
+
+
+think
+ TSMC
+ is
+ absolutely
+ going
+ to
+ be
+ a
+
+
+partner
+ forward
+ you
+ know
+ met
+ with
+ them
+
+
+recently
+ and
+ you
+ know
+ we
+ want
+ to
+ we
+ want
+
+
+to
+ work
+ closely
+ with
+ them
+ to
+ make
+ sure
+
+
+we
+ get
+ what
+ we
+ need
+ get
+ fast
+ turnaround
+
+
+times
+ to
+ prototype
+ and
+ all
+ of
+ that.
+ Um
+
+
+Google
+ Nvidia
+ Microsoft
+ all
+ these
+ guys
+
+
+are
+ you
+ know
+ at
+ the
+ forefront
+ of
+ where
+
+
+the
+ application
+ space
+ is.
+ Uh
+ obviously
+
+
+Google
+ kind
+ of
+ has
+ everything
+ uh
+
+
+internally
+ and
+ I
+ think
+ they're
+ working
+
+
+on
+ sort
+ of
+ lower
+ risk
+ but
+ you
+ know
+
+
+continual
+ improvements
+ for
+ their
+
+
+hardware
+
+
+>> with
+ TPUs.
+ You
+ mean
+
+
+>> with
+ TPUs?
+ Yeah.
+ That
+ from
+ what
+ I
+ can
+
+
+see
+ you
+ know
+ just
+ publicly
+ is
+ it
+ makes
+
+
+total
+ sense
+ right
+ they
+ have
+ a
+ business
+
+
+to
+ run
+ and
+ they're
+ trying
+ to
+ make
+ their
+
+
+margins
+ better
+ and
+ you
+ know
+ how
+ can
+ I
+ do
+
+
+that
+ with
+ all
+ the
+ tools
+ I
+ have
+ at
+ you
+
+
+know
+ uh
+ in
+ front
+ of
+ me.
+ Um,
+ Nvidia,
+ of
+
+
+course,
+ you
+ know,
+ they
+ they
+ they've
+
+
+built
+ the
+ u
+ the
+ platform
+ that
+ everyone
+
+
+programs
+ on
+ today.
+ So,
+ is
+ it
+ are
+ we
+
+
+going
+ to
+ be
+ at
+ odds
+ with
+ Nvidia
+ going
+
+
+forward?
+ I
+ I
+ don't
+ know.
+ We'll
+ see
+ what
+
+
+the
+ world
+ looks
+ like,
+ but
+ I
+ mean,
+ we
+ are
+
+
+trying
+ to
+ to
+ build
+ a
+ better
+ substrate
+
+
+than
+ matrix
+ multiply.
+ Um,
+ there
+ could
+ be
+
+
+a
+ world
+ where
+ we
+ collaborate
+ uh
+ on
+ such
+
+
+solutions.
+ Um,
+ and
+ you
+ know,
+ we're
+ open
+
+
+to
+ all
+ of
+ these
+ things.
+
+
+>> Where
+ do
+ you
+ where
+ do
+ you
+ personally
+ get
+
+
+the
+ motivation
+ to
+ get
+ up
+ in
+ the
+ in
+ the
+
+
+morning
+ and
+ build
+ this
+ company?
+ I
+ mean
+
+
+you've
+ had
+ a
+ lot
+ of
+ success
+ in
+ your
+
+
+career
+ this
+ year
+ or
+ in
+ startup.
+ Um
+ what
+
+
+you
+ know
+ what's
+ exciting
+ about
+ this
+ to
+
+
+you?
+
+
+>> I
+ don't
+ know.
+ I
+ just
+ it's
+ it's
+ a
+ weird
+
+
+thing
+ like
+ if
+ you
+ haven't
+ worked
+ in
+
+
+hardware
+ it's
+ hard.
+ Um
+ I've
+ had
+ a
+ been
+
+
+fortunate
+ to
+ work
+ in
+ hardware
+ and
+
+
+software
+ and
+ you
+ know
+ I
+ love
+ writing
+ a
+
+
+bunch
+ of
+ software
+ and
+ then
+ hitting
+
+
+compile
+ and
+ seeing
+ it
+ work.
+ That's
+
+
+that's
+ that's
+ a
+ good
+ dopamine
+ hit
+ but
+
+
+man
+ when
+ you
+ work
+ on
+ a
+ piece
+ of
+ hardware
+
+
+and
+ you
+ turn
+ that
+ thing
+ on
+ that's
+ a
+ big
+
+
+dopamine
+ hit.
+ That's
+ like
+ this
+ is
+ like
+
+
+celebration
+ jumping
+ you
+ know
+ jumping
+ up
+
+
+in
+ the
+ air
+ high
+ five
+ thing
+ it
+ it's
+ a
+
+
+different
+ thing
+ and
+ I
+ don't
+ know
+ you
+
+
+sort
+ of
+ live
+ for
+ these
+ moments
+ you
+ know
+
+
+uh
+ like
+ when
+ I
+ was
+ at
+ Intel
+ like
+ I
+ was
+
+
+one
+ of the
+ only
+ exeacts
+ would
+ go
+ to
+ the
+
+
+lab
+ when
+ the
+ first
+ chip
+ would
+ come
+ back
+
+
+and
+ I'm
+ like
+ I
+ want
+ to
+ see
+ turn
+ on
+ see
+
+
+what
+ happens
+ some
+ turn
+ sometimes
+ you
+
+
+turn
+ it
+ on
+ it's
+ like
+ you
+ see
+ the
+ little
+
+
+puff
+ of
+ smoke
+ come
+
+
+>> that's
+ not
+ good
+ but
+ you
+ want
+ to
+ be
+ there
+
+
+you
+ want
+ to
+ be
+ part
+ of
+ the
+ moment
+ but
+ uh
+
+
+uh
+ I
+ think
+ that's
+ part
+ of
+ it
+ I
+ think
+ for
+
+
+me
+ personally
+
+
+We
+ we
+ have
+ this
+ opportunity
+ now
+ that
+ we
+
+
+can
+ really
+ change
+ the
+ world
+ of
+ computing
+
+
+and
+ make
+ AI
+ ubiquitous.
+ I
+ I'm
+ the
+
+
+opposite
+ of
+ an
+ AI
+ doomer.
+ I
+ think
+ AI
+ is
+
+
+the
+ next
+ evolution
+ of
+ humanity.
+ I
+ think
+
+
+it
+ takes
+ us
+ to
+ a
+ new
+ level,
+ allows
+ us
+ to
+
+
+collaborate,
+ understand
+ each
+ other,
+ and
+
+
+understand
+ the
+ world
+ in
+ much
+ deeper
+
+
+ways.
+
+
+>> Totally
+ agree.
+
+
+>> So,
+ every
+ technology
+ has
+ negatives,
+ but
+
+
+the
+ positives
+ to
+ me
+ so
+ far
+ outweigh
+ it.
+
+
+And
+ uh
+ the
+ only
+ way
+ we're
+ going
+ to
+ get
+
+
+to
+ ubiquity
+ is
+ we
+ have
+ to
+ change
+ the
+
+
+computer.
+ The
+ current
+ paradigm,
+ as
+ good
+
+
+as
+ it
+ is
+ and
+ as
+ far
+ as
+ it's
+ taken
+ us,
+ is
+
+
+not
+ going
+ to
+ take
+ us
+ to
+ that
+ level.
+
+
+>> I
+ think
+ that's
+ such
+ a
+ great
+ way
+ to
+ say
+
+
+it.
+ AI
+ actually
+ can
+ help
+ us
+ understand
+
+
+each
+ other
+ better,
+ help
+ us
+ understand
+
+
+ourselves
+ better,
+ understand
+ the
+ natural
+
+
+world
+ better.
+ Yeah.
+
+
+>> I
+ I
+ don't
+ think
+ it's
+ at
+ all
+ what
+ what
+
+
+some
+ of
+ the
+ doomers
+ think
+ of
+ of,
+ you
+
+
+know,
+ replacing
+ sort
+ of
+ human
+ human
+
+
+experience.
+
+
+>> That's
+ a
+ short-term
+ thing.
+ I
+ mean,
+ there
+
+
+will
+ be
+ there
+ will
+ be
+ bumps
+ along
+ the
+
+
+way,
+ right?
+ Technology
+ does
+ that.
+
+
+That's
+ That's
+ what
+ happens
+ when
+ you've
+
+
+seen
+ too
+ many
+ sci-fi
+ movies.
+
+
+>> That's
+ right.
+ Um
+
+
+>> but
+ look
+ at
+ Star
+ Trek.
+
+
+>> Yeah.
+ Yeah.
+ Yeah.
+ Totally.
+ Totally.
+
+
+>> It's
+ great.
+
+
+>> Um
+
+
+uh
+ this
+ is
+ a
+ really
+ big
+ swing,
+ right?
+
+
+Like
+ this
+ is
+ a
+ very
+ ambitious
+ company.
+
+
+Um
+ what
+ gives
+ you
+ confidence
+ that
+ it's
+
+
+that
+ it's
+ going
+ to
+ work
+ or
+ or
+ you
+ know
+
+
+has
+ a
+ reasonable
+ shot
+ of
+ working.
+
+
+>> Um
+ there's
+ there's
+ a
+ number
+ of
+ data
+
+
+points.
+ Of
+ course,
+ like
+ I
+ said,
+ the
+
+
+brains
+ are
+ existence
+ proof.
+ Um
+ but
+
+
+there's
+ also
+ 40
+ plus
+ years
+ of
+ of
+
+
+academic
+ research
+ which
+ is
+ showing
+ a
+ lot
+
+
+of
+ promise
+ here.
+ Um
+ people
+ have
+ built
+
+
+different
+ devices
+ albeit
+ not
+ in
+ the
+
+
+latest
+ technology
+ with
+ professional
+
+
+engineering
+ teams
+ but
+ they
+ have
+ built
+
+
+proofs
+ of
+ concept
+ that
+ actually
+ show
+
+
+some
+ of
+ these
+ things
+ work.
+ Um
+ we've
+ also
+
+
+from
+ a
+ theory
+ standpoint
+ both
+ from
+
+
+neuroscience
+ and
+ just
+ pure
+ uh
+ dynamical
+
+
+systems
+ and
+ math
+ theory
+ uh
+ do
+ start
+ to
+
+
+understand
+ how
+ these
+ these
+ systems
+ can
+
+
+work.
+ So
+ I
+ think
+ we
+ now
+ have
+ pieces
+ at
+
+
+different
+ parts
+ of
+ the
+ stack
+ that
+ show
+
+
+hey
+ if
+ I
+ can
+ combine
+ these
+ things
+ the
+
+
+right
+ way
+ I
+ I
+ can
+ build
+ this
+ and
+ uh
+ you
+
+
+know
+ that's
+ what
+ great
+ engineering
+ is
+
+
+all
+ about
+ is
+ like
+ you
+ know
+ exploiting
+
+
+this
+ thing
+ that
+ someone
+ else
+ built
+ for
+
+
+something
+ else
+ exploiting
+ that
+ thing
+ and
+
+
+then
+
+
+>> and
+ it's
+ engineers
+ are
+ kind
+ of
+ like
+ the
+
+
+opposite
+ of
+ theorist
+ is
+ like
+ well
+ all
+
+
+right
+ that
+ thing
+ doesn't
+ quite
+ fit
+ sand
+
+
+it
+ down
+ and
+ make
+ it
+ right.
+ So
+ it's
+ like
+
+
+we
+ got
+ to
+ do
+ a
+ little bit
+ of
+ that
+ right
+
+
+now
+ and
+ then
+ we
+ can
+ build
+ something
+ and
+
+
+put
+ it
+ all
+ together.
+ Yeah,
+
+
+>> that's
+ awesome.
+ Has
+ anyone
+ called
+ you
+
+
+crazy
+ yet
+ for
+ doing
+ this?
+
+
+>> Oh,
+ yeah.
+ Plenty
+ of
+ people
+ at
+ this
+
+
+point.
+
+
+>> Is
+ it
+ Is
+ it
+ like
+ everybody?
+
+
+>> Well,
+ it's
+ I'm
+ used
+ to
+ this
+ at
+ this
+
+
+point,
+ you
+ know.
+ My
+ family
+ have
+ been
+
+
+called
+ crazy.
+ I
+ was
+ called
+ crazy
+ going
+
+
+back
+ to
+ grad
+ school
+ um
+ years
+ ago
+ when
+ I
+
+
+had
+ a
+ very
+ good
+ career
+ in
+ tech.
+ Um
+ so
+ it
+
+
+it's
+ fine.
+ I
+ think
+ that's
+ that
+ you
+ need
+
+
+crazy
+ people
+ to
+ go
+ out
+ and
+ explore.
+ I
+
+
+mean,
+ if
+ you
+ think
+ about
+ humanity
+ out
+ of
+
+
+Africa,
+ all
+ that
+ the
+ crazy
+ people
+ who
+
+
+went
+ out,
+
+
+>> we
+ would
+ be
+ lost
+ without
+ without
+ crazy.
+
+
+>> You
+ need
+ some
+ crazy
+ in
+ there.
+ So,
+ it's
+
+
+okay.
+ I'm
+ fine
+ with
+ that.
+ And
+ so
+ what
+
+
+kind
+ of
+ people
+ uh
+ are
+ you
+ looking
+ to
+
+
+bring
+ on
+ to
+ the
+ team
+ of
+ a
+ very
+ ambitious
+
+
+goal
+ um
+ who
+ should
+ be
+ interested
+ in
+
+
+joining
+ you?
+
+
+>> Yeah,
+ I
+ mean
+ I
+ think
+ some
+ of
+ the
+
+
+traditional
+ traditionalish
+ when
+ I
+ say
+
+
+traditional
+ you
+ know
+ over
+ the
+ last
+ 5
+
+
+years
+ this
+ field
+ of
+ AI
+ systems
+ has
+
+
+evolved
+ like
+ people
+ who
+ are
+ really
+ good
+
+
+at
+ taking
+ algorithms
+ and
+ mapping
+ them
+
+
+very
+ effectively
+ to
+ physical
+ substrates.
+
+
+uh
+ those
+ folks
+ who
+ understand
+ energy
+
+
+based
+ models,
+ flow
+ models,
+ gradient
+ uh
+
+
+gradient
+ descent
+ and
+ different
+ ways
+ uh
+
+
+you
+ know
+ this
+ this
+ kind
+ of
+ thing
+ is
+ what
+
+
+we
+ need
+ there.
+ We
+ need
+ theorists
+ who
+ uh
+
+
+can
+ think
+ about
+ different
+ ways
+ of
+
+
+building
+ coupled
+ systems
+ how
+ I
+ can
+
+
+characterize
+ the
+ richness
+ of
+ dynamical
+
+
+systems
+ and
+ relating
+ that
+ to
+ neural
+
+
+networks.
+ So
+ there
+ is
+ a
+ theory
+ aspect
+ of
+
+
+this.
+ Uh
+ then
+ there's
+ folks
+ who
+ are
+ like
+
+
+kind
+ of at
+ the
+ system
+ architecture
+
+
+level.
+ It's
+ like
+ all
+ right
+ here's
+ what
+
+
+the
+ theory
+ says.
+ This
+ is
+ what
+ I
+ can
+
+
+really
+ build.
+ How
+ do
+ I
+ bridge
+ that
+ gap?
+
+
+And
+ then
+ there's
+ the
+ people
+ actually
+
+
+physically
+ building
+ this
+ stuff
+ like
+
+
+analog
+ circuit
+ people,
+ actually
+ digital
+
+
+circuit
+ people,
+ too.
+ We're
+ going
+ to
+ have
+
+
+a
+ mix
+ signal
+ here.
+ So,
+ that's
+ that's
+ the
+
+
+whole
+ stack.
+ The
+ stack
+ is
+ it's
+ hard
+
+
+because
+ these
+ are
+ all
+ things
+ that
+ no
+
+
+one's
+ really
+ pushed
+ to
+ that
+ level.
+ Like,
+
+
+>> when
+ we
+ build
+ this
+ chip,
+ our
+ first
+
+
+prototype,
+ it's
+ going to
+ be
+ probably
+ one
+
+
+of the
+ larger,
+ maybe
+ the
+ largest
+ analog
+
+
+chip
+ people
+ have
+ ever
+ built,
+ which
+ is
+
+
+kind
+ of
+ weird.
+ First
+ time
+ you
+ do
+
+
+something,
+ things
+ don't
+ usually
+ work
+ the
+
+
+way
+ you
+ think
+ they
+
+
+>> So
+ you
+ can
+ get
+ in
+ on
+ that
+ Cabris
+ Jensen
+
+
+game
+ where
+ they
+ were
+ each
+ pulling
+ the
+
+
+biggest
+ possible
+ wafer
+ out
+ of
+ out
+ of
+ an
+
+
+oven.
+ You
+
+
+>> something
+ like
+ that.
+ Yeah,
+ exactly
+
+
+right.
+
+
+>> Put
+ a
+ few
+ vacuum
+ tubes
+ on
+ top
+ for
+ for
+
+
+effect.
+
+
+>> Yeah,
+ we
+ could
+ I
+ I
+ need
+ blinking
+ lights.
+
+
+>> Yeah,
+ exactly.
+
+
+>> We're
+ not
+ going
+ to
+ have
+ cool
+ heat
+ sinks.
+
+
+It's
+ going
+ to
+ be
+ super
+ It's
+ going
+ to
+ be
+
+
+cold.
+ Like
+ you
+ don't
+ need
+ big
+ heat
+
+
+sinks,
+ you
+ know?
+ So,
+ I
+ hope
+ they
+ make
+
+
+something
+ that
+ looks
+ looks
+ interesting
+
+
+here.
+ This
+ is
+ a
+ funny
+ time
+ for
+ for
+ um
+
+
+top
+ AI
+ people,
+ right?
+ Where
+ you
+ have
+
+
+sort
+ of
+ the
+ option
+ if
+ you
+ want
+ to
+ start
+
+
+a
+ company,
+ there's
+ a
+ lot
+ of
+ venture
+
+
+capitalists
+ who
+ probably
+ would
+ fund
+ you.
+
+
+If
+ you
+ want
+ to
+ get
+ a
+ cushy
+ job
+ at
+ at
+ a
+
+
+big
+ company,
+ you
+ can
+ get
+ a
+ very
+ cushy
+
+
+job
+ and
+ and
+ kind
+ of
+ do
+ some
+ interesting
+
+
+things.
+
+
+>> Yeah.
+
+
+>> Um
+ or,
+ you
+ know,
+ people
+ can
+ join
+ a
+
+
+startup
+ like
+ Unconventional
+ that,
+ you
+
+
+know,
+ has
+ a
+ lot
+ of
+ the
+ nice
+ aspects
+
+
+people
+ look
+ for
+ in
+ in
+ sort
+ of
+ AI
+ careers
+
+
+and
+ are
+ taking
+ like
+ super
+ sort
+ of
+ big
+
+
+swings.
+ Um,
+ I'm
+ just
+ sort
+ of
+ curious.
+
+
+You've
+ been
+ on
+ all
+ sides
+ of
+ this.
+ Like,
+
+
+do
+ you
+ have
+ any
+ advice
+ for
+ for
+ um,
+ you
+
+
+know,
+ younger
+ people
+ starting
+ out
+ in
+
+
+their
+ careers
+ or
+ or
+ how
+ do
+ you
+ think
+
+
+about
+ this?
+
+
+>> I
+ think
+ you
+ get
+ such
+ a
+ breath
+ of
+ working
+
+
+at
+ a
+ startup
+ that
+ at
+ the
+ beginning
+ of
+
+
+your
+ career
+ that
+ will
+ pay
+ dividends
+
+
+later
+ on
+ because
+ like
+ I
+ said,
+ like
+ the
+
+
+reason
+ I
+ can
+ think
+ across
+ the
+ stack
+ is
+
+
+because
+ I
+ did
+ all
+ those
+ things
+ very
+
+
+early
+ in
+ my
+ career.
+ You
+ know,
+ I
+ built
+
+
+hardware,
+ I
+ built
+ software,
+ I
+ built
+
+
+applications.
+ And
+ um,
+ in
+ big
+ companies,
+
+
+it's
+ not
+ it's
+ not
+ AMA's
+ fault.
+ It's
+ just
+
+
+the
+ way
+ it
+ is.
+ You
+ get
+ hired
+ to
+ do
+ a
+
+
+thing
+ and
+ you
+ do
+ that
+ thing
+ over
+ and
+
+
+over
+ again.
+ You
+ get
+ really
+ good
+ at
+ doing
+
+
+that
+ thing
+ and
+ that's
+ fine.
+ You
+ need
+
+
+people
+ who are
+ really
+ good
+ at
+ doing
+
+
+specific
+ things.
+ But
+ um
+ if
+ you
+ want
+ to
+
+
+be
+ prepared
+ for
+ change
+ in
+ the
+ future,
+
+
+being
+ really
+ good
+ at
+ one
+ thing
+ is
+
+
+probably
+ less
+ valuable
+ than
+ being
+ good
+
+
+at
+ but
+ slightly
+ good
+ at
+ a
+ lot
+ of
+ things.
+
+
+>> Yeah,
+ that's
+ interesting.
+ Is
+ it
+ fair
+ to
+
+
+say
+ unconventional
+ sort
+ of
+ a
+ practical
+
+
+research
+ lab?
+ Is
+ that
+ kind
+ of the
+
+
+culture
+ you're
+ going
+ for?
+
+
+>> Absolutely.
+ Yeah.
+ I
+ mean,
+ first
+ few
+
+
+years
+ it
+ really
+ is
+ open-ended.
+ I
+ I
+ don't
+
+
+want
+ to
+ close
+ doors.
+ Like
+ I
+ I'm
+ really
+
+
+specific
+ about
+ this.
+ Like
+ I
+ always
+ try
+
+
+to
+ bring
+ the
+ conversation
+ back
+ because
+
+
+those
+ people
+ like,
+ "Oh,
+ that's
+ gonna
+ be
+
+
+hard
+ to
+ manufacture."
+ Like
+ stop.
+ Don't
+
+
+think
+ about
+ that.
+ Will
+ it
+ work?
+ First
+
+
+come
+ up
+ with
+ existence
+ proofs.
+ Then
+ we
+
+
+go
+ back
+ and
+ try
+ to
+ engineer
+ it
+ and
+ you
+
+
+know
+ all
+ the
+ trade-offs
+ therein.
+ But
+ if
+
+
+you
+ make
+ those
+ trade-offs
+ up
+ up
+ front,
+
+
+you
+ don't
+ go
+ into
+ a
+ good
+ place.
+ So
+ yes,
+
+
+we
+ are
+ really
+ thinking
+ wide
+ open
+ but
+
+
+with
+ an
+ eye
+ on
+ the
+ future
+ who
+ we
+ are
+
+
+building
+ a
+ product
+
+
+>> and
+ and
+ to
+ your
+ point
+ it
+ takes
+ not
+ only
+
+
+people
+ with
+ diverse
+ skill
+ sets
+ but
+ um
+
+
+people
+ with
+ kind
+ of
+ high
+ agency
+ to
+ try
+
+
+new
+ things
+ and
+ learn
+ new
+ things
+ and
+ kind
+
+
+of
+ integrate
+ across
+ the
+ stack.
+
+
+>> Yeah.
+ I
+ mean
+ I
+ think
+ what
+ I've
+ done
+
+
+really
+ well
+ across
+ the
+ companies
+ I've
+
+
+built
+ has
+ been
+ uh
+ going
+ after
+ hard
+
+
+problems
+ which
+ kind
+ of
+ lends
+ itself
+ to
+
+
+smart
+ people
+ wanting
+ to
+ come
+ in
+ and
+ try
+
+
+to
+ solve
+ them.
+ They
+ they
+ see
+ a
+
+
+challenge.
+ It's
+ like
+ here's
+ the
+ amount
+
+
+Everest
+ climate.
+ Um
+ but
+ then
+ giving
+ them
+
+
+agency
+ and
+ I
+ sort
+ of
+ look
+ at
+ it
+ like
+
+
+what
+ decisions
+ can
+ I
+ make
+ as
+ a
+ leader
+ to
+
+
+increase
+ agency
+ of
+ the
+ or
+ overall
+ like
+
+
+me
+ making
+ top
+ style
+ decision
+ maybe
+ a
+
+
+global
+ globally
+ better
+ for
+ the
+ company
+
+
+in
+ the
+ short
+ term
+
+
+>> but
+ I
+ think
+ long
+ term
+ we
+ will
+ we'll
+ do
+
+
+better
+ if
+ more
+ people
+ have
+ agency
+ and
+
+
+can
+ and
+ try
+ more
+ things
+ out.
+ So
+
+
+personally,
+ I
+ like
+ to
+ find
+ ways
+ to
+ get
+
+
+out
+ of
+ the
+ way
+ when
+ I
+ see
+ people
+ who
+ who
+
+
+are
+ very
+ passionate
+ about
+ trying
+
+
+something.
+ It's
+ like,
+ okay,
+ well,
+ you
+
+
+really
+ want
+ to
+ do
+ this.
+ That
+ makes
+
+
+sense.
+ Go
+ for
+ it.
+ You
+ know,
+ and
+ then
+ you
+
+
+own
+ it.
+ You
+ own
+ both
+ the
+ good
+ and
+ the
+
+
+bad,
+ right?
+ And
+ that's
+ agency
+ to
+ me
+ is
+
+
+like
+ got
+ you
+ gota
+ you
+ got
+ like,
+ okay,
+ I
+
+
+[ __ ]
+ up.
+ No,
+ this
+ wasn't
+ that's
+ okay,
+
+
+too.
+ But
+ give
+ people
+ the
+ room
+ to
+ do
+
+
+that,
+ you
+ know?
+
+
+>> Anything
+ else
+ you
+ want
+ to
+ want
+ to
+ say
+
+
+before
+ we
+ wrap
+ up?
+ I
+ mean
+ I
+ think
+ this
+
+
+is
+ like
+ an
+ opportunity
+ to
+ do
+ something
+
+
+that
+ is
+
+
+generationally
+ will
+ be
+ felt
+ you
+ know
+ to
+
+
+me
+ that's
+ that's
+ what
+ gets
+ me
+ up
+ in
+ the
+
+
+morning
+ is
+
+
+you
+ know
+ you
+ can
+ go
+ work
+ on
+ a
+ product
+
+
+and
+ make
+ a
+ tweak
+ and
+ people
+ will
+ use
+ it
+
+
+that's
+ great
+ but
+ like
+ in
+ 5
+ years
+ many
+
+
+times
+ people
+ forget
+ those
+ things
+ but
+ if
+
+
+we
+ are
+ successful
+ here
+ the
+ world
+ will
+
+
+not
+ forget
+ this
+ for
+ a
+ very
+ long
+ time
+
+
+right
+ this
+ will
+ be
+ written
+ in
+ history
+
+
+books
+ and
+ so
+ I
+ feel
+ like
+ those
+
+
+opportunities
+ are
+ rare
