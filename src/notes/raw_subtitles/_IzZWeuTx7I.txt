@@ -1,0 +1,4946 @@
+[music]
+
+
+Today
+ we're
+ talking
+ about
+ RL
+
+
+environments
+ and
+ how
+ to
+ scale
+ them.
+ But
+
+
+the
+ title
+ is
+ a
+ little
+ bit
+ of
+ a
+ red
+
+
+herring.
+ We'll
+ talk
+ a
+ bit
+ about
+ the
+
+
+engineering
+ pieces
+ and
+ like
+ running
+
+
+these
+ with
+ thousands
+ of
+ parallel
+
+
+rollouts
+ and
+ sandboxes
+ on
+ hundreds
+ of
+
+
+GPUs,
+ but
+ I'm
+ mostly
+ going
+ to
+ focus
+ on
+ a
+
+
+different
+ notion
+ of
+ scale.
+ Uh,
+ and
+ what
+
+
+I
+ mean
+ by
+ scaling
+ here
+ is
+ we
+ there's
+ a
+
+
+number
+ of
+ different
+ ways
+ we
+ talk
+ about
+
+
+scaling
+ in
+ the
+ context
+ of
+ AI
+ and
+
+
+research.
+ We
+ know
+ about
+ scaling
+ laws
+ and
+
+
+we
+ talk
+ about
+ how
+ much
+ data
+ you
+ need,
+
+
+compute
+ and
+ parameters
+ and
+ that
+ if
+ you
+
+
+pour
+ in
+ more
+ data
+ and
+ compute
+ and
+
+
+parameters
+ or
+ inference
+ time.
+ All
+ of
+
+
+these
+ things
+ make
+ models
+ smarter
+ or
+ more
+
+
+performant.
+ But
+ there's
+ also
+ fuzzier
+
+
+side
+ of
+ scaling
+ which
+ is
+ sometimes
+
+
+referred
+ to
+ as
+ unhobbling
+ or
+ algorithmic
+
+
+tricks
+ or
+ talent.
+ But
+ where
+ does
+ this
+
+
+come
+ from?
+ It's
+ not
+ just
+ pouring
+ in
+
+
+resources,
+ but
+ it's
+ something
+ that
+ is
+
+
+more
+ intangible,
+ harder
+ to
+ put
+ a
+ finger
+
+
+on,
+ but
+ really
+ it
+ comes
+ from
+ a
+ community
+
+
+of
+ people,
+ a
+ company,
+ an
+ organization,
+
+
+universities,
+ the
+ world,
+ the
+ internet,
+
+
+talking
+ about
+ ideas
+ and
+ sharing
+ them
+ and
+
+
+working
+ on
+ different
+ applications,
+
+
+having
+ these
+ applications
+ inspire
+ ideas,
+
+
+using
+ these
+ ideas
+ as
+ test
+ beds
+ for
+
+
+different
+ techniques,
+ and
+ building
+ on
+
+
+top
+ of
+ these
+ to
+ increase
+ the
+
+
+accessibility
+ for
+ other
+ people
+ in
+ the
+
+
+future
+ to
+ not
+ have
+ to
+ reinvent
+ the
+ wheel
+
+
+and
+ to
+ be
+ able
+ to
+ build
+ from
+ uh
+ what
+ has
+
+
+been
+ done
+ by
+ those
+ before
+ them
+ to
+ uh
+ do
+
+
+more
+ effective
+ research
+ and
+ accelerate
+
+
+the
+ pace
+ of
+ innovation.
+
+
+And
+ so
+ why
+ do
+ we
+ have
+ this
+ talent
+
+
+bottleneck?
+ There's
+ a
+ big
+ issue
+ that
+ we
+
+
+hear
+ all
+ about
+ with
+ AI
+ labs
+ trying
+ to
+
+
+like
+ find
+ more
+ talent
+ and
+ salaries
+ are
+
+
+going
+ through
+ the
+ roof
+ and
+ everyone
+
+
+wants
+ to
+ hire
+ the
+ best
+ and
+ brightest
+ AI
+
+
+researchers.
+ But
+ one
+ other
+ approach
+
+
+besides
+ trying
+ to
+ just
+ pay
+ the
+ most
+ is
+
+
+increase
+ the
+ pool.
+ Uh
+ and
+ so
+ how
+ do
+ we
+
+
+increase
+ the
+ pool
+ of
+ AI
+ researchers?
+ How
+
+
+do
+ we
+ make
+ doing
+ AI
+ research
+ more
+
+
+accessible?
+ And
+ I
+ want
+ to
+ talk
+ a
+ bit
+
+
+about
+ who
+ we
+ are
+ at
+ Prime
+ Intellect.
+ If
+
+
+you
+ haven't
+ heard
+ of
+ us,
+ we
+ are
+ a
+ bunch
+
+
+of
+ things.
+ We're
+ a
+ research
+ lab.
+ We
+ are
+
+
+a
+ comput
+ provider.
+ We're
+ a
+ platform
+
+
+company.
+ And
+ we
+ are
+ an
+ open
+ source
+
+
+ecosystem.
+ We
+ do
+ a
+ lot
+ of
+ things
+ and
+
+
+they
+ all
+ fit
+ together
+ in
+ a
+ way
+ that
+ I'm
+
+
+going
+ to
+ try
+ to
+ explain
+ in
+ this
+ talk.
+
+
+But
+ we
+ see
+ these
+ as
+ all
+ different
+ pieces
+
+
+of
+ how
+ we
+ can
+ build
+ a
+ business
+ around
+
+
+doing
+ exactly
+ this,
+ which
+ is
+ increasing
+
+
+the
+ accessibility
+ of
+ AI
+ research
+ and
+
+
+making
+ doing
+ research
+ more
+ of
+ a
+ toolkit
+
+
+available
+ to
+ people
+ at
+ organizations
+
+
+around
+ the
+ world
+ without
+ needing
+ to
+ be
+
+
+inside
+ of
+ a
+ large
+ lab
+ or
+ without
+ needing
+
+
+to
+ spend
+ crazy
+ amounts
+ on
+ massive
+
+
+clusters
+ or
+ go
+ do
+ a
+ PhD.
+ We
+ think
+ that
+
+
+there's
+ versions
+ of
+ doing
+ AI
+ research
+
+
+that
+ really
+ should
+ be
+ part
+ of
+ the
+
+
+breadandbut
+ workflows
+ of
+ AI
+ engineers
+
+
+around
+ the
+ world
+ as
+ we
+ build
+
+
+applications
+ and
+ try
+ to
+ improve
+ our
+
+
+systems
+ and
+ models
+ and
+ products.
+
+
+And
+ I
+ think
+ a
+ thing
+ people
+ are
+ kind
+ of
+
+
+iffy
+ about
+ in
+ terms
+ of
+ AI
+ is
+ whether
+
+
+open
+ source
+ models
+ are
+ going
+ to
+ work.
+
+
+And
+ in
+ my
+ mind,
+ that's
+ not
+ quite
+ the
+
+
+right
+ analogy
+ to
+ draw.
+ And
+ so
+ when
+ we're
+
+
+comparing
+ like
+ AI
+ to
+ traditional
+
+
+software,
+ there's
+ lots
+ of
+ like
+ great
+
+
+examples
+ of
+ open
+ source
+ software
+
+
+ecosystems
+ that
+ have
+ been
+ thriving
+ in
+
+
+the
+ past,
+ things
+ like
+ Linux
+ and
+ Node
+ and
+
+
+Apache.
+ But
+ in
+ my
+ mind,
+ the
+ analogy
+ in
+
+
+AI
+ is
+ not
+ models
+ as
+ kind
+ of
+ these
+ fixed
+
+
+checkpoints,
+ but
+ it's
+ about
+ research
+ as
+
+
+a
+ practice
+ and
+ research
+ as
+ a
+ set
+ of
+
+
+ideas.
+ And
+ it's
+ one
+ that's
+ more
+
+
+intangible,
+ but
+ there's
+ a
+ lot
+ of
+
+
+parallels
+ in
+ terms
+ of
+ the
+ goals
+ of
+ the
+
+
+best
+ practices
+ of
+ growing
+ a
+ research
+
+
+ecosystem
+ as
+ well
+ as
+ a
+ software
+
+
+ecosystem
+ where
+ you
+ want
+ to
+ uh
+ compound
+
+
+abstractions
+ and
+ best
+ practices
+ and
+ have
+
+
+better
+ tooling
+ and
+ iteration
+ efficiency
+
+
+and
+ have
+ these
+ gains
+ over
+ time
+ allow
+ uh
+
+
+more
+ advanced
+ powerful
+ complex
+ things
+ to
+
+
+be
+ built
+ by
+ uh
+ decreasing
+ barriers
+ to
+
+
+entry
+ for
+ any
+ given
+ application
+ and
+
+
+allowing
+ this
+ to
+ become
+ more
+ accessible.
+
+
+And
+ so
+ one
+ thing
+ that
+ we
+ a
+ term
+ we'll
+
+
+use
+ to
+ describe
+ some
+ of
+ what
+ we're
+
+
+building
+ at
+ Prime
+ Elect
+ is
+ we
+ like
+ this
+
+
+phrase
+ called
+ the
+ open
+ super
+
+
+intelligence
+ stack.
+ One
+ because
+ it's
+ a
+
+
+fun
+ acronym
+ but
+ also
+ I
+ think
+ the
+ idea
+ of
+
+
+the
+ stack
+ of
+ of
+ all
+ the
+ pieces
+ of
+ the
+
+
+puzzle
+ to
+ build
+ the
+ engine
+ to
+ go
+ do
+
+
+research.
+ Uh
+ there's
+ a
+ lot
+ of
+ layers
+ to
+
+
+it.
+ You
+ need
+ compute
+ uh
+ you
+ need
+
+
+orchestration
+ you
+ need
+ libraries
+ for
+
+
+doing
+ uh
+ training
+ and
+ evaluation
+ and
+ you
+
+
+need
+ platforms
+ to
+ support
+ things
+ like
+
+
+code
+ execution
+ and
+ eval
+ inference
+ and
+
+
+fine-tuning
+ and
+ we're
+ doing
+ all
+ these
+
+
+things.
+ Uh
+ but
+ really
+ the
+ goal
+ of
+ this
+
+
+is
+ to
+ give
+ people
+ the
+ tools
+ to
+ be
+ able
+
+
+to
+ go
+ train
+ models.
+ We
+ want
+ people
+ more
+
+
+people
+ in
+ the
+ world.
+ And
+ we
+ think
+ I'll
+
+
+explain
+ why
+ in
+ a
+ bit.
+ There's
+ a
+ lot
+ of
+
+
+reasons
+ why
+ uh
+ the
+ best
+ products
+ are
+
+
+going
+ to
+ be
+ the
+ ones
+ that
+ are
+ not
+ just
+
+
+kind
+ of
+ taking
+ the
+ thing
+ out
+ of
+ a
+ box
+ of
+
+
+an
+ API
+ and
+ putting
+ a
+ thin
+ wrapper
+ around
+
+
+it.
+ There's
+ ways
+ you
+ can
+ kind
+ of
+ improve
+
+
+around
+ APIs.
+ But
+ I
+ think
+ in
+ many
+ cases
+
+
+people
+ are
+ realizing
+ that
+ winning
+
+
+products
+ are
+ going
+ to
+ be
+ the
+ kinds
+ of
+
+
+things
+ that
+ whether
+ it's
+ a
+ part
+ of
+ the
+
+
+model,
+ a
+ part
+ of
+ the
+ stack,
+ the
+ part
+ of
+
+
+the
+ product
+ or
+ the
+ whole
+ thing,
+ the
+
+
+ability
+ to
+ do
+ research
+ and
+ have
+ at least
+
+
+the
+ option
+ of
+ deciding
+ where
+ in
+ your
+
+
+product
+ you
+ might
+ want
+ to
+ customize
+ a
+
+
+model
+ or
+ improve
+ a
+ model
+ gives
+ you
+ a
+ lot
+
+
+more
+ flexibility
+ to
+ really
+ u
+ make
+ the
+
+
+best
+ user
+ experience.
+ Um,
+
+
+and
+ so
+ we
+ have
+ heard
+ the
+ phrase
+ in
+ the
+
+
+past
+ that
+ the
+ model
+ is
+ the
+ product.
+ And
+
+
+I
+ think
+ we're
+ starting
+ to
+ see
+ now
+ this
+
+
+change
+ a
+ little
+ bit
+ to
+ a
+ lot
+ of
+ winning
+
+
+applications
+ have
+ the
+ product
+ kind
+ of
+ be
+
+
+the
+ model.
+ And
+ I
+ think
+ the
+ two
+ notable
+
+
+examples
+ of
+ this
+ that
+ I'm
+ big
+ fans
+ of
+
+
+and
+ heavy
+ users
+ of
+ are
+ Cursor's
+ new
+
+
+composer
+ model
+ as
+ well
+ as
+ uh
+ OpenAI's
+
+
+codeex.
+ And
+ I
+ think
+ these
+ are
+ both
+ good
+
+
+examples
+ of
+ models
+ that
+ really
+ are
+ where
+
+
+the
+ product
+ kind
+ of is
+ the
+ model
+ very
+
+
+directly
+ where
+ the
+ the
+ model
+ was
+ trained
+
+
+to
+ be
+ the
+ model
+ for
+ that
+ product
+ and
+ the
+
+
+experience
+ of
+ using
+ the
+ model
+ is
+ the
+
+
+experience
+ of
+ using
+ the
+ product.
+ And
+ the
+
+
+way
+ that
+ [clears throat]
+ this
+ is
+ done
+ is
+
+
+by
+ taking
+ a
+ harness
+ that
+ represents
+ the
+
+
+product
+ and
+ training
+ the
+ model
+ in
+ the
+
+
+harness
+ in
+ essentially
+ an
+ environment,
+
+
+an
+ RL
+ environment.
+ And
+ environments
+
+
+really
+ are
+ just
+ a
+ harness
+ with
+ a
+
+
+collection
+ of
+ tasks
+ and
+ rewards.
+ But
+
+
+they
+ also
+ have
+ many
+ other
+ parallels
+
+
+throughout
+ the
+ ecosystem.
+ Environments
+
+
+are
+ not
+ just
+ for
+ RL.
+ Environments
+ are
+
+
+also
+ essentially
+ the
+ same
+ thing
+ as
+
+
+evals.
+ Environments
+ can
+ also
+ be
+ engines
+
+
+for
+ synthetic
+ data
+ which
+ then
+ you
+ can
+
+
+use
+ for
+ SFT
+ or
+ distillation.
+ You
+ can
+ do
+
+
+RL
+ in
+ them
+ directly.
+ But
+ also
+ the
+ agents
+
+
+were
+ actually
+ deploying
+ and
+ monitoring
+
+
+out
+ in
+ the
+ world.
+ These
+ are
+
+
+environments.
+ The
+ product
+ of
+ these
+
+
+things,
+ the
+ tasks,
+ the
+ harness,
+ and
+ the
+
+
+rewards,
+ whether
+ this
+ is
+ a
+ data
+ set
+
+
+offline
+ or
+ the
+ stream
+ of
+ user
+ tasks
+
+
+coming
+ in
+ to
+ a
+ product
+ is
+ an
+
+
+environment.
+ And
+ so
+ this
+ as
+ an
+
+
+abstraction
+ I
+ think
+ is
+ a
+ very
+ useful
+ way
+
+
+of
+ framing
+ what
+ it
+ might
+ look
+ like
+ to
+
+
+start
+ having
+ uh
+ research
+ become
+ more
+ of
+
+
+a
+ a
+ practice
+ that
+ is
+ adopted
+ more
+
+
+broadly
+ beyond
+ just
+ large
+ AI
+ labs.
+ And
+ I
+
+
+also
+ think
+ that
+ there's
+ a
+ sense
+ in
+ which
+
+
+they're
+ a
+ really
+ accessible
+ entry
+ point.
+
+
+Uh
+ and
+ so
+ I
+ like
+ the
+ analogy
+ of
+
+
+environments
+ as
+ kind
+ of
+ like
+ the
+ web
+
+
+apps
+ of
+ AI
+ research.
+ And
+ what
+ I
+ mean
+ by
+
+
+this
+ is
+ that
+ they're
+ very
+ simple.
+
+
+They're
+ self-contained.
+ They
+ can
+ they
+
+
+start
+ simple
+ but
+ they
+ can
+ also
+ get
+ quite
+
+
+complex.
+ They
+ can
+ get
+ very
+ elaborate
+
+
+representing
+ the
+ full
+ complexity
+ of
+ a
+
+
+large
+ product.
+ They're
+ also
+ pedagogical
+
+
+in
+ nature
+ and
+ that
+ you
+ can
+ start
+ simple
+
+
+and
+ as
+ you
+ build
+ complexity,
+ you
+ start
+
+
+bumping
+ into
+ these
+ walls
+ where
+ you
+ have
+
+
+to
+ start
+ learning
+ new
+ concepts,
+
+
+understanding
+ more
+ about
+ scaling
+ the
+
+
+system
+ side,
+ understanding
+ more
+ about
+
+
+the
+ hyperparameters
+ and
+ the
+ algorithms
+
+
+and
+ they
+ kind
+ of
+ open
+ this
+ door
+ where
+
+
+you
+ can
+ by
+ playing
+ around
+ with
+ them
+
+
+start
+ entering
+ into
+ a
+ world
+ of
+ research
+
+
+without
+ needing
+ to
+ kind
+ of
+ build
+ a
+ whole
+
+
+training
+ infrastructure
+ system
+ from
+
+
+scratch.
+ Um,
+ and
+ they
+ also
+ require
+
+
+experimentation.
+ And
+ so
+ I
+ think
+ the
+ key
+
+
+different
+ uh
+ differentiation
+ between
+
+
+just
+ an
+ agent
+ harness
+ and
+ an
+ agent
+
+
+environment
+ is
+ that
+ the
+ environment
+
+
+forces
+ you
+ to
+ also
+ have
+ your
+ tasks
+ and
+
+
+your
+ rewards
+ predefined
+ to
+ be
+ able
+ to
+ do
+
+
+this
+ experimentation.
+ It's
+ a
+ proper
+
+
+eval.
+ And
+ what
+ this
+ means
+ is
+ that
+ you
+
+
+can't
+ just
+ vibe
+ check
+ it.
+ You
+ can't
+ just
+
+
+like
+ build
+ it
+ and
+ test
+ it
+ out
+ a
+ bit
+ and
+
+
+say,
+ "Hey,
+ it's
+ good.
+ We're
+ going
+ to
+
+
+ship
+ it."
+ It
+ forces
+ you
+ to
+ say,
+ "Okay,
+
+
+let's
+ think
+ about
+ this
+ a
+ little
+ more
+
+
+scientifically.
+ Let's
+ do
+ some
+
+
+experiments.
+ lets
+ try
+ out
+ different
+
+
+models,
+ try
+ different
+ hyperparameters.
+
+
+Uh,
+ and
+ it
+ also
+ gets
+ you
+ to
+ the
+ point
+
+
+where
+ you
+ can
+ start
+ doing
+ more
+ advanced
+
+
+research
+ in
+ terms
+ of
+ RL
+ training
+ or
+
+
+distillation
+ or
+ fine-tuning.
+ And
+ uh,
+ so
+
+
+to
+ really
+ facilitate
+ this,
+ we
+ wanted
+ to
+
+
+make
+ the
+ environment
+ as
+ an
+ entry
+ point
+
+
+much
+ more
+ accessible.
+ A
+ few
+ months
+ back,
+
+
+we
+ launched
+ what
+ we
+ called
+ the
+
+
+environments
+ hub,
+ which
+ is
+ a
+ open
+ source
+
+
+community
+ platform
+ for
+ creating,
+
+
+discovering,
+ and
+ sharing
+ RL
+ environments
+
+
+and
+ evals.
+ And
+ so
+ far,
+ we've
+ had
+ a
+ lot
+
+
+of
+ fun
+ kind
+ of
+ seeing
+ everyone
+ build
+
+
+here.
+ We've
+ had
+ hundreds
+ of
+ builders
+ and
+
+
+environments
+ come
+ create
+ either
+ their
+
+
+own
+ ideas
+ or
+ re-implement
+ papers.
+ Uh
+
+
+there's
+ a
+ bunch
+ of
+ examples
+ here
+ I
+ can
+
+
+show
+ you,
+ but
+ really
+ it's
+ just
+ a
+ bunch
+
+
+of
+ people
+ who
+ have
+ wanted
+ to
+ do
+ research
+
+
+and
+ found
+ this
+ as
+ an
+ entry
+ point
+ to
+
+
+start
+ digging
+ a
+ little
+ deeper.
+ Whether
+
+
+this
+ was
+ investigating
+ some
+ benchmark
+
+
+and
+ figuring
+ out
+ how
+ to
+ reimplement
+ it
+
+
+or
+ modify
+ it
+ to
+ be
+ appropriate
+ for
+ an
+ RL
+
+
+context
+ in
+ terms
+ of
+ like
+ new
+ data
+ or
+ new
+
+
+examples
+ or
+ whether
+ [snorts]
+ this
+ is
+
+
+some
+ game
+ that
+ they'd
+ been
+ thinking
+
+
+about
+ or
+ some
+ other
+ task.
+ But
+ having
+
+
+this
+ as
+ an
+ abstraction
+ for
+ encapsulating
+
+
+the
+ the
+ thing
+ you
+ want
+ a
+ model
+ to
+ do
+ is
+
+
+a
+ way
+ of
+ allowing
+ yourself
+ to
+ start
+
+
+experimenting
+ with
+ ways
+ of
+ improving
+ it
+
+
+without
+ needing
+ to
+ have
+ the
+ answers.
+ So
+
+
+I
+ think
+ people
+ talk
+ a
+ lot
+ about
+ how
+
+
+fine-tuning
+ never
+ really
+ took
+ off
+ in
+ the
+
+
+SFT
+ regime.
+ And
+ I
+ think
+ a
+ big
+ part
+ of
+
+
+this
+ is
+ that
+ getting
+ data
+ was
+ really
+
+
+hard
+ of
+ the
+ actual
+ like
+ solutions.
+ I
+
+
+think
+ having
+ labeled
+ examples
+ of
+ what
+
+
+you
+ want
+ the
+ model
+ to
+ do
+ is
+ a
+ very
+
+
+difficult
+ thing
+ to
+ ask
+ someone
+ to
+ go
+
+
+create.
+ But
+ if
+ you
+ can
+ just
+ think
+ about
+
+
+the
+ the
+ settings
+ it
+ might
+ be
+ in
+ without
+
+
+having
+ the
+ answers
+ up
+ front,
+ if
+ you
+ can
+
+
+measure
+ the
+ answers,
+ now
+ you
+ kind
+ of
+ can
+
+
+start
+ creating
+ data
+ on
+ the
+ fly.
+ And
+ this
+
+
+engine
+ is
+ really
+ what
+ the
+ environment
+ is
+
+
+about
+ unlocking.
+ Um,
+ and
+ so
+ actually
+ 9
+
+
+months
+ ago,
+ I
+ was
+ right
+ here
+ in
+ this
+
+
+room.
+ I
+ had
+ just
+ released
+ a
+ library
+
+
+called
+ verifiers,
+ which
+ I'm
+ still
+
+
+working
+ on
+ today.
+ Um,
+ it's
+ come
+ a
+ long
+
+
+way,
+ but
+ it's
+ a
+ toolkit
+ for
+ building
+
+
+these
+ things.
+ And
+ it's
+ been
+ a
+ lot
+ of
+ fun
+
+
+over
+ this
+ past
+ year
+ just
+ playing
+ with
+ it
+
+
+and
+ extending
+ it
+ to
+ support
+ more
+
+
+features
+ and
+ kinds
+ of
+ environments.
+ But
+
+
+the
+ idea
+ with
+ verifiers
+ is
+ to
+ give
+
+
+people
+ a
+ toolkit
+ that
+ is
+ uh
+ essentially
+
+
+a
+ bunch
+ of
+ components
+ that
+ you
+ can
+ mix
+
+
+and
+ match
+ and
+ compose
+ to
+ do
+ things
+ like
+
+
+from
+ simple
+ evals
+ or
+ QA
+ or
+ games
+ to
+
+
+things
+ like
+ tool
+ use
+ or
+ using
+ sandboxes
+
+
+or
+ agent
+ frameworks
+ or
+ uh
+ uh
+ like
+ CLI
+
+
+coding
+ agents
+ or
+ math
+ problems.
+ There's
+
+
+all
+ sorts
+ of
+ things
+ you
+ might
+ want
+
+
+models
+ to
+ do
+ or
+ agents
+ to
+ do.
+ And
+ it's
+ a
+
+
+toolkit
+ for
+ building
+ environments
+ that
+
+
+is
+ then
+ uh
+ ready
+ to
+ be
+ automatically
+
+
+trained
+ with
+ reinforcement
+ learning.
+ And
+
+
+the
+ way
+ we
+ thought
+ about
+ this
+ design,
+
+
+it's
+ been
+ a
+ lot
+ of
+ fun
+ and
+ also
+ a
+ big
+
+
+challenge
+ to
+ think
+ like
+ okay,
+ how
+ do
+ you
+
+
+make
+ a
+ toolkit
+ for
+ this
+ stuff
+ that
+
+
+actually
+ covers
+ all
+ the
+ bases?
+ And
+ I
+
+
+think
+ there's
+ a
+ lot
+ of
+ different
+
+
+approaches
+ I've
+ seen
+ people
+ go
+ about
+ and
+
+
+I
+ I
+ think
+ they
+ all
+ make
+ sense
+ depending
+
+
+on
+ what
+ sorts
+ of
+ things
+ you're
+ wanting
+
+
+to
+ work
+ on.
+ But
+ we
+ took
+ a
+ very
+ kind
+ of
+ a
+
+
+general
+ approach
+ where
+ we
+ tried
+ to
+ say
+
+
+we
+ are
+ not
+ going
+ to
+ know
+ all
+ the
+ answers
+
+
+right
+ away.
+ There
+ are
+ going
+ to
+ be
+ lots
+
+
+of
+ pattern.
+ There's
+ going
+ to
+ be
+ lots
+ of
+
+
+special
+ cases.
+ There's
+ going
+ to
+ be
+
+
+hierarchies
+ of
+ complexity.
+ There's
+ going
+
+
+to
+ be
+ patterns.
+ And
+ we
+ really
+ wanted
+ to
+
+
+prioritize
+ extensibility.
+ So
+ we
+ think
+
+
+about
+ these
+ things
+ hierarchically
+ where
+
+
+let's
+ say
+ you
+ want
+ to
+ do
+ a
+ a
+ coding
+
+
+agent
+ environment
+ for
+ client
+ bench.
+ uh
+
+
+this
+ which
+ is
+ an
+ instance
+ of
+ the
+ harbor
+
+
+framework
+ which
+ is
+ a
+ example
+ of
+ a
+ CLI
+
+
+agent
+ which
+ is
+ a
+ multi-turn
+ environment
+
+
+which
+ is
+ an
+ environment
+ uh
+ similar
+ for
+
+
+text
+ arrina
+ and
+ Wordle
+ or
+ for
+ search
+
+
+with
+ MCP
+ or
+ for
+ giving
+ a
+ model
+ a
+ Python
+
+
+ripple
+ in
+ a
+ sandbox
+ and
+ so
+ thinking
+ of
+
+
+these
+ things
+ hierarchically
+ allows
+ us
+ to
+
+
+kind
+ of
+ really
+ determine
+ like
+ what
+ are
+
+
+the
+ foundational
+ pieces
+ what
+ is
+ generic
+
+
+across
+ all
+ environments
+ and
+ then
+ how
+ do
+
+
+you
+ build
+ up
+ the
+ stack
+ towards
+
+
+applications
+
+
+and
+ so
+ for
+ one
+ like
+ example
+ of
+ this
+ that
+
+
+I'll
+ kind
+ of
+ walk
+ through
+ the
+ whole
+
+
+process
+ end
+ to
+ And
+ we
+ we
+ call
+ this
+ one
+
+
+wiki
+ search,
+ but
+ it's
+ basically
+ a
+ simple
+
+
+search
+ setting
+ where
+ we
+ give
+ an
+ agent
+
+
+the
+ ability
+ to
+ uh
+ call
+ some
+ tools
+ to
+
+
+search
+ over
+ Wikipedia
+ pages
+ and
+ find
+
+
+some
+ answers.
+ And
+ so
+ here
+ is
+ the
+
+
+environments
+ hub
+ page.
+ So
+ the
+
+
+environments
+ hub
+ is
+ a
+ kind
+ of
+ full
+ stack
+
+
+uh
+ code
+ management
+ package
+ registry.
+ So
+
+
+every
+ environment
+ is
+ a
+ Python
+ project
+
+
+where
+ you
+ can
+ have
+ dependencies
+ and
+
+
+versions
+ and
+ uploading
+ your
+ evals
+ and
+
+
+whatnot.
+ Um
+ but
+ the
+ environments
+ are
+
+
+very
+ simple.
+ They
+ start
+ simple.
+ They
+ can
+
+
+get
+ really
+ complicated,
+ but
+ this
+ one's
+
+
+pretty
+ simple
+ where
+ we
+ just
+ kind
+ of
+
+
+define
+ our
+ tools
+ as
+ async
+ Python
+
+
+functions.
+ We
+ have
+ our
+ data
+ set
+ and
+ we
+
+
+have
+ what
+ we
+ call
+ a
+ rubric.
+ And
+ so
+ a
+
+
+rubric
+ is
+ the
+ abstraction
+ for
+ managing
+
+
+the
+ different
+ pieces
+ of
+ your
+ rewards
+
+
+where
+ you
+ can
+ kind
+ of
+ compose
+ different
+
+
+things.
+ You
+ can
+ also
+ have
+ metrics
+ that
+
+
+are
+ just
+ a
+ zero
+ award
+ but
+ are
+ for
+ in
+ uh
+
+
+observability
+ of
+ what's
+ going
+ on.
+ And
+
+
+then
+ the
+ other
+ piece
+ of
+ doing
+ training
+
+
+will
+ be
+ a
+ config.
+ And
+ so
+ the
+ config
+ here
+
+
+is
+ for
+ our
+ prime
+ RL
+ trainer,
+ which
+ is
+
+
+our
+ kind
+ of
+ large
+ scale
+ training
+ stack,
+
+
+which
+ has
+ been
+ our
+ uh
+ culmination
+ of
+ all
+
+
+the
+ best
+ practices
+ from
+ the
+ research
+
+
+literature
+ for
+ large
+ scale
+ asynchronous
+
+
+RL
+ training.
+ Um,
+ but
+ the
+ config
+ files
+
+
+are
+ intended
+ to
+ expose
+ kind
+ of the
+
+
+pieces
+ that
+ people
+ need
+ to
+ think
+ about
+
+
+in
+ ways
+ that
+ are
+ starting
+ to
+ get
+ you
+
+
+more
+ into
+ the
+ algorithm,
+ but
+ are
+ also
+
+
+still
+ designed
+ to
+ be
+ pretty
+ high
+ level,
+
+
+pretty
+ self-contained,
+ and
+ with
+ with
+
+
+defaults
+ that
+ we
+ think
+ are
+ going
+ to
+ be
+
+
+sensible
+ for
+ a
+ lot
+ of
+ people.
+ And
+ so
+
+
+running
+ this
+ is
+ just
+ kind
+ of
+ running
+ a
+
+
+command
+ line
+ with
+ uh
+ you
+ specify
+ the
+
+
+environment
+ and
+ if
+ it's
+ in
+ the
+
+
+environment
+ hub
+ it'll
+ automatically
+
+
+install
+ it
+ and
+ start
+ your
+ training
+ run
+
+
+and
+ then
+ you
+ can
+ if
+ you're
+ lucky
+ see
+
+
+your
+ reward
+ curve
+ just
+ shoot
+ right
+ up.
+
+
+Um
+ and
+ sometimes
+ it
+ doesn't
+ go
+ this
+
+
+nicely
+ but
+ the
+ process
+ of
+ doing
+ this
+ is
+
+
+iterating
+ on
+ your
+ environment
+ on
+ your
+
+
+rewards
+ and
+ your
+ data
+ and
+ your
+ tasks
+ to
+
+
+understand
+ what
+ makes
+ this
+ task
+
+
+holistically
+ actually
+ tangible
+ in
+
+
+practice.
+ How
+ do
+ you
+ tune
+ the
+
+
+parameters?
+ How
+ do
+ you
+ look
+ at
+ your
+
+
+data?
+ How
+ do
+ you
+ define
+ your
+ rewards?
+
+
+Uh,
+ and
+ if
+ you
+ do
+ this
+ right,
+ you
+ can
+
+
+get
+ really
+ good
+ improvements,
+ especially
+
+
+from
+ really
+ small
+ models,
+ but
+ also
+ for
+
+
+much
+ larger
+ models.
+ And
+ so
+ in
+ this
+
+
+example
+ for
+ the
+ the
+ wiki
+ search
+ one,
+ we
+
+
+started
+ with
+ a
+ a
+ Quen
+ 3
+ 4B
+ model,
+ which
+
+
+was
+ about
+ 55%.
+ And
+ after
+ training,
+ it
+
+
+was
+ at
+ 89%
+ on
+ par
+ with
+ uh
+ much
+ larger
+
+
+models
+ like
+ GPT4.1
+ as
+ well
+ as
+ reasoning
+
+
+models
+ like
+ uh
+ GBD5
+ mini.
+ And
+ so
+ I
+ think
+
+
+this
+ practice
+ of
+ taking
+ small
+ models
+ and
+
+
+being
+ able
+ to
+ make
+ them
+ much
+ better
+ is
+ a
+
+
+big
+ win
+ for
+ a
+ lot
+ of
+ applications
+ where
+
+
+you
+ either
+ you
+ want
+ a
+ really
+ fast
+ model,
+
+
+you
+ want
+ a
+ really
+ cheap
+ model,
+ you
+ want
+
+
+a
+ really
+ really
+ powerful
+ model
+ because
+
+
+the
+ best
+ models
+ out
+ there
+ just
+ aren't
+
+
+quite
+ good
+ enough.
+ These
+ are
+ all
+ the
+
+
+different
+ things
+ you
+ can
+ do
+ with
+ model
+
+
+customization.
+ And
+ this
+ practice
+ of
+
+
+doing
+ of
+ creating
+ environments
+ isn't
+
+
+only
+ for
+ customization,
+ but
+ it
+ gives
+ you
+
+
+this
+ option.
+ And
+ so
+ if
+ you
+ need
+ to
+ do
+
+
+eval
+ anyways,
+ it's
+ useful
+ to
+ think
+ of
+
+
+them
+ as
+ environments
+ because
+ the
+
+
+environment
+ opens
+ a
+ lot
+ of
+ doors
+ for
+
+
+whether
+ this
+ is
+ prompt
+ tuning
+ or
+ whether
+
+
+it's
+ model
+ selection
+ or
+ whether
+ it's
+
+
+just
+ getting
+ a
+ better
+ sense
+ of
+ how
+ your
+
+
+system
+ could
+ work
+ at
+ scale
+ with
+ many
+
+
+many
+ users
+ in
+ parallel.
+ It's
+ a
+ design
+
+
+process
+ that
+ really
+ forces
+ you
+ to
+ kind
+
+
+of
+ pin
+ down
+ what
+ is
+ the
+ thing
+ I
+ care
+
+
+about?
+ What
+ is
+ my
+ agent?
+ What
+ is
+ my
+
+
+product?
+ What
+ is
+ my
+ harness?
+ What
+ am
+ I
+
+
+optimizing
+ for?
+ Um,
+ and
+ so
+ to
+ kind
+ of
+
+
+fully
+ stress
+ test
+ this,
+ we've
+ been
+
+
+training
+ a
+ large
+ model
+ which
+ will
+ be
+ out
+
+
+into
+ the
+ world
+ quite
+ soon
+ called
+
+
+Intellect
+ 3
+ with
+ our
+ full
+ primal
+ L
+
+
+stack.
+ And
+ this
+ has
+ been
+ us
+ really
+ kind
+
+
+of
+ validating
+ the
+ efficiency
+ and
+
+
+performance
+ at
+ a
+ very
+ large
+ scale.
+ So
+
+
+this
+ is
+ a
+ 100B
+ plus
+ model
+ trained
+ on
+ 500
+
+
+GPUs
+ where
+ we've
+ kind
+ of
+ done
+ the
+
+
+endtoend
+ uh
+ post
+ train
+ of
+ SFT
+ and
+ RL
+
+
+which
+ the
+ primaril
+ stack
+ also
+ has
+ SFT
+ if
+
+
+people
+ want
+ to
+ do
+ that.
+ But
+ it's
+ also
+
+
+been
+ about
+ just
+ understanding
+ all
+ the
+
+
+best
+ practices.
+ We
+ love
+ reading
+ papers
+
+
+and
+ we
+ try
+ to
+ kind
+ of
+ try
+ out
+ all
+ the
+
+
+tricks
+ and
+ see
+ which
+ ones
+ work
+ and
+ see
+
+
+which
+ ones
+ don't
+ and
+ then
+ distill
+ this
+
+
+into
+ a
+ library
+ with
+ Primaril
+ that
+ can
+
+
+then
+ be
+ kind
+ of
+ consumed
+ by
+ the
+ end
+ user
+
+
+without
+ needing
+ to
+ do
+ all
+ this
+ uh
+
+
+implementation
+ themselves.
+ And
+ so
+ for
+ us
+
+
+it
+ being
+ open
+ is
+ very
+ important.
+ So
+
+
+Primaril
+ is
+ on
+ GitHub.
+ You
+ can
+ go
+ find
+
+
+it.
+ Verifiers
+ is
+ on
+ GitHub
+ if
+ you
+ want
+
+
+to
+ check
+ it
+ out.
+ And
+ for
+ us,
+ this
+ is
+
+
+really
+ about
+ opening
+ the
+ door
+ for
+ more
+
+
+people
+ to
+ start
+ learning
+ about
+ these
+
+
+things
+ and
+ for
+ incorporating
+ it
+ into
+
+
+their
+ workflows
+ for
+ optimizing
+ their
+
+
+models
+ and
+ their
+ products.
+ Um,
+ and
+
+
+[clears throat]
+ the
+ only
+ way
+ to
+ do
+ this
+
+
+that
+ we've
+ what
+ we
+ see
+ as
+ the
+ best
+ way
+
+
+to
+ do
+ this
+ is
+ through
+ growing
+ community.
+
+
+And
+ so
+ for
+ us,
+ it's
+ been
+ really
+
+
+important
+ to
+ really
+ think
+ about
+ getting
+
+
+good
+ feedback
+ loops
+ from
+ the
+ people
+ who
+
+
+are
+ building
+ with
+ this
+ and
+ understanding
+
+
+what
+ they
+ want,
+ understanding
+ what's
+
+
+going
+ well,
+ understanding
+ what's
+
+
+painful,
+ and
+ addressing
+ those
+ problems.
+
+
+And
+ so
+ we've
+ done
+ a
+ number
+ of
+ community
+
+
+programs
+ in
+ terms
+ of
+ sponsoring
+
+
+different
+ kind
+ of
+ small
+ tasks
+ to
+ uh
+ a
+
+
+research
+ residency
+ program
+ with
+ uh
+ grad
+
+
+students
+ around
+ the
+ world
+ uh
+ and
+
+
+collecting
+ like
+ uh
+ a
+ smaller
+ subset
+ of
+
+
+the
+ environment
+ hub
+ ones
+ where
+ we'll
+
+
+actually
+ review
+ them
+ manually.
+ And
+ so
+
+
+this
+ repo
+ here,
+ the
+ prime
+ environments
+
+
+repo
+ is
+ the
+ ones
+ where
+ we
+ are
+ doing
+
+
+these
+ directly
+ where
+ we're
+ kind
+ of
+
+
+offering
+ to
+ look
+ over
+ someone's
+ kind
+ of
+
+
+example.
+ And
+ so
+ we've
+ had
+ hundreds
+ of
+
+
+these
+ come
+ in
+ and
+ there
+ will
+ be
+ hundreds
+
+
+more.
+ And
+ uh
+ it's
+ been
+ a
+ great
+ learning
+
+
+process
+ because
+ it's
+ forced
+ us
+ to
+ fix
+ a
+
+
+lot
+ of
+ things.
+ We
+ kind
+ of
+ understand
+ the
+
+
+rough
+ edges.
+ We
+ understand
+ what
+ we
+ need
+
+
+to
+ add.
+ And
+ we're
+ kind
+ of
+ then
+
+
+distilling
+ [clears throat]
+ all
+ of
+ these
+
+
+learnings
+ into
+ what
+ will
+ be
+ our
+ kind
+ of
+
+
+upcoming
+ uh
+ platform
+ product
+ which
+ we're
+
+
+calling
+ lab.
+ And
+ the
+ idea
+ of
+ lab
+ is
+ to
+
+
+give
+ people
+ an
+ interface,
+ a
+ platform
+
+
+where
+ they
+ can
+ browse
+ environments,
+ they
+
+
+can
+ run
+ their
+ evals,
+ they
+ can
+ do
+ their
+
+
+inference,
+ they
+ can
+ do
+ their
+ fine-tuning
+
+
+and
+ they
+ can
+ have
+ research
+ be
+ more
+
+
+accessible
+ in
+ a
+ way
+ that
+ it
+ hasn't
+ been
+
+
+historically
+ because
+ I
+ think
+ a
+ lot
+ of
+
+
+people
+ find
+ infrastructure
+ very
+ painful.
+
+
+They
+ find
+ dealing
+ with
+ torch
+ versions
+
+
+painful,
+ flash
+ attention
+ and
+ VLM
+ and
+
+
+getting
+ all
+ these
+ things
+ to
+ work.
+ We
+ are
+
+
+happy
+ to
+ do
+ that,
+ but
+ we
+ understand
+ that
+
+
+a
+ lot
+ of
+ people
+ may
+ not
+ want
+ to.
+ Um,
+ and
+
+
+so
+ the
+ idea
+ with
+ this
+ is
+ that
+ if
+ you
+
+
+want
+ to
+ go
+ read
+ the
+ code,
+ you
+ can
+ go
+
+
+read
+ the
+ code,
+ but
+ you
+ don't
+ have
+ to
+ run
+
+
+it.
+ We
+ can
+ run
+ it
+ for
+ you.
+ Um,
+ and
+ so
+
+
+this
+ has
+ been
+ our
+ version,
+ which
+ will
+ be
+
+
+kind
+ of
+ out
+ into
+ the
+ world
+ in
+ the
+ near
+
+
+future
+ of
+ trying
+ to
+ allow
+ people
+ to
+
+
+really
+ focus
+ on
+ the
+ environment
+ where
+
+
+the
+ entry
+ point
+ to
+ lab
+ will
+ be
+ the
+
+
+environment.
+ If
+ you
+ want
+ to
+ do
+ synthetic
+
+
+data
+ and
+ SFT
+ build,
+ let's
+ build
+ an
+
+
+environment.
+ If
+ you
+ want
+ to
+ do
+ your
+
+
+evals,
+ you
+ build
+ that
+ as
+ an
+ environment.
+
+
+If
+ you
+ want
+ to
+ do
+ RL,
+ you
+ build
+ an
+
+
+environment.
+ And
+ I
+ think
+ building
+ an
+
+
+environment
+ is
+ the
+ kind
+ of
+ thing
+ that
+
+
+I
+ imagine
+ a
+ lot
+ more
+ people
+ are
+ going
+ to
+
+
+want
+ to
+ be
+ doing
+ as
+ we
+ start
+ really
+
+
+seeing
+ where
+ models
+ are
+ headed.
+ In
+ some
+
+
+cases,
+ this
+ will
+ be
+ we're
+ going
+ to
+ use
+
+
+fine-tuning
+ services
+ from
+ the
+ labs
+
+
+because
+ they're
+ going
+ to
+ offer
+ this
+
+
+because
+ people
+ want
+ it.
+ In
+ some
+ cases,
+
+
+this
+ will
+ be
+ we
+ really
+ care
+ about
+ the
+
+
+smallest
+ model
+ we
+ can
+ run
+ on
+ prem
+ at
+ the
+
+
+lowest
+ latency
+ and
+ we're
+ really
+ just
+
+
+going
+ to
+ optimize
+ for
+ our
+ one
+ thing.
+ or
+
+
+it
+ could
+ just
+ be
+ research
+ for
+ the
+ sake
+
+
+of
+ research
+ and
+ advancing
+ our
+ kind
+ of
+
+
+collective
+ understanding
+ of
+ how
+ this
+
+
+stuff
+ all
+ works.
+ And
+ I
+ think
+ that's
+
+
+really
+ our
+ goal
+ is
+ to
+ have
+ a
+ world
+ where
+
+
+there's
+ going
+ to
+ be
+ a
+ lot
+ of
+ AI
+ and
+
+
+where
+ we
+ can
+ all
+ kind
+ of
+ talk
+ about
+ it
+
+
+and
+ understand
+ it
+ and
+ look
+ at
+ it
+ and
+
+
+poke
+ at
+ it
+ and
+ tweak
+ it
+ and
+ have
+ a
+
+
+better
+ sense
+ of
+ what
+ we're
+ actually
+
+
+building
+ because
+ I
+ think
+ there's
+ a
+ lot
+
+
+of
+ times
+ when
+ it
+ feels
+ like
+ we're
+ just
+
+
+kind
+ of
+ the
+ model
+ is
+ a
+ black
+ box
+ and
+
+
+digging
+ into
+ the
+ research
+ and
+ going
+
+
+under
+ the
+ hood
+ and
+ changing
+ things
+ and
+
+
+breaking
+ things
+ tells
+ you
+ a
+ lot
+ about
+
+
+how
+ these
+ models
+ work.
+ It
+ tells
+ you
+ a
+
+
+lot
+ about
+ understanding
+ where
+ they
+ came
+
+
+from,
+ where
+ they
+ could
+ be
+ going,
+ where
+
+
+they
+ might
+ be
+ headed,
+ and
+ preparing
+ for
+
+
+that
+ future.
+ Thanks.
+
+
+[applause]
+
+
+[music]
