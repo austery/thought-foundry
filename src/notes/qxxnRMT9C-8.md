@@ -105,7 +105,7 @@ status: evergreen
 <details>
 <summary>View/Hide Original English</summary>
 <p class="english-text">I am a neuroscientist by trade, but my specialty is sleep. the effects of sleep on the brain and the body. And I've probably spent about the past two decades trying to understand exactly why do we sleep? Because 50 years ago, the crass answer to the question, why do you sleep was the following? You sleep to cure sleepiness, which is the factous equivalent of saying, well, you eat to cure hunger. No, you don't eat to cure cure hunger. you eat to support all sorts of physiological and biological benefits.</p>
-</detais>
+</details>
 
 但现在，这并非我个人的研究成果，而是得益于所有我所敬仰的杰出同行的努力，我们不得不颠覆这个问题。我们现在要问的是：你身体里有哪个主要的生理系统，或者你大脑的哪项功能，不会因为获得充足睡眠而得到极大的增强，或者在睡眠不足时不会受到明显的损害？现在的答案似乎是“没有”。不存在这样的系统。甚至在你的DNA层面，你的睡眠状况也会改变构成你日常健康叙事的DNA核酸字母表。我们可以看到这种影响一直延伸到社会层面。睡眠可以改变社会结构，改变我们与他人的互动方式，甚至可以改变我们的信仰体系，影响我们是感到孤独还是过度社交。所以，回答你的问题，我是一名睡眠科学家，我的使命一直是努力让全人类重新获得他们似乎严重缺失的睡眠。
 
