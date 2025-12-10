@@ -1,0 +1,254 @@
+Let me introduce you to Andrés Rojas.
+Every couple of weeks,
+Andrés hikes deep
+in the Colombian rainforest,
+passing through mud
+and swarms of mosquitoes.
+Not for adventure,
+definitely not for fun,
+but to do his job.
+He needs to replace batteries
+and change memory cards of camera traps
+and bioacoustic devices.
+This is the critical infrastructure
+of conservation science today.
+People like Andrés are heroes
+and thanks to their effort,
+they have saved species
+from the brink of extinction.
+There are 200,000
+conservationists in the world,
+and all of them share one thing in common.
+To do their job, they need data.
+But we live in an interesting
+world where we have refrigerators
+that can text you
+if you’re running out of milk,
+[but] conservationists still
+need to hike for days
+just to see if an animal passed by.
+Conservation today is heroic, is needed,
+but is painfully slow.
+Last year I was proudly presenting
+at a biodiversity conference
+some of our latest AI models.
+But it was in fact
+a very humbling moment.
+Because, when presenting to them,
+I realized that even though
+they were using our models,
+once you understood the hassle
+that they needed to go through,
+from installing these devices
+to collecting the data
+to eventually [having] time to analyze it,
+I realized that our solutions
+were not making such big of a difference.
+I realized that in order
+for us to make a difference,
+we need to completely reinvent
+how data works in biodiversity.
+This is why we developed SPARROW.
+SPARROW stands for Solar-Powered Acoustic
+Remote Recording Observation Watch.
+SPARROW is a small network of devices
+that act as a hub in the middle of nature,
+connecting to camera traps,
+acoustic devices, sensors,
+processing the information
+using solar power.
+Processing the information
+on the edge using a low-voltage GPU.
+Sending results back
+using a low-orbit satellite.
+With SPARROW, you install it once,
+you no longer need
+to hike to collect data,
+you can connect online
+and see the data real-time.
+One of my biggest lessons in life
+is the realization that we, as humans,
+are addicted to complexity.
+We like complex projects
+and we like complex things.
+This is the reason we put
+a person on the Moon
+before we added wheels to your luggage.
+(Laughter)
+Don't get me wrong,
+if you want to impress people,
+your solutions can be complex.
+If you want to have
+an impact in the world,
+if you want people to use your solutions,
+your solutions need to be simple.
+Building simple solutions is hard,
+but it's certainly worth the effort.
+This is why our most important
+principle designing SPARROW
+is to keep it simple.
+Simple to develop, simple to deploy,
+simple to assemble.
+SPARROW is open source.
+Anyone, from conservation
+scientists to researchers
+to park rangers can use it
+and improve upon it.
+You don't buy a SPARROW.
+You buy off-the-shelf components
+and you assemble it together.
+If you have the ability to assemble
+your own Ikea furniture,
+and I know that's not for everybody --
+(Laughter)
+you're ready to assemble a SPARROW.
+Even if simple, SPARROW
+is actually quite powerful.
+Camera traps is a technology
+that was created four decades ago.
+They have a sensor,
+and any time that they see movement,
+they take a picture.
+Some of that movement
+is caused by animals.
+Majority of that movement is caused
+by wind or something else that moves.
+That's why majority of the pictures
+that camera traps took today
+look like these ones.
+No animals in them.
+This is a big hassle for conservationists
+because in order for them 
+to get just a few
+pictures of the species 
+they care [about],
+they need to review thousands of pictures,
+costing them hundreds
+of hours of their time.
+SPARROW solves this problem.
+With SPARROW,
+we have AI models
+that can automatically classify
+and identify the animals in them.
+But SPARROW goes further.
+SPARROW not only can find a giraffe,
+SPARROW can find that giraffe.
+Animals like giraffes
+have a unique pattern,
+and that unique pattern
+doesn't change over time.
+You can use these to re-identify,
+it's like a fingerprint,
+you can use [them] to re-identify
+that particular giraffe.
+Animal re-identification
+is critical for conservation
+because it allows them to understand
+things like survival
+or even measure population.
+SPARROW can automatically do this.
+And thanks to our collaboration
+with the Wild Nature Institute,
+we have this model running
+in SPARROW today.
+While a picture might be worth
+a thousand words,
+if we only focus on pictures,
+we might be missing
+the forest for the trees.
+When you look at a picture like this,
+you don't see any animal.
+But if you listen, the story is different.
+(Animals vocalizing)
+SPARROW has the ability
+to isolate and classify sounds.
+Here, for example, there's a frog.
+(Frog croaks)
+That's a cicada.
+(Cicada buzzes)
+That's a macaw.
+(Macaw chatters)
+Thanks to SPARROW,
+through sound, we can measure
+the true health of a forest.
+Identifying an animal
+from a picture is not difficult.
+Identifying sound
+requires very deep expertise.
+People like Paula Caycedo
+from Fundación Biodiversa Colombia
+have this expertise.
+In every expedition,
+she collects 600 hours' worth of sounds.
+And then she listens
+to every one of these hours.
+This is like binge watching
+the whole complete eight seasons
+of “Game of Thrones” ten times --
+(Laughter)
+just to get a few samples
+of the animal she cares [for].
+SPARROW can help people like Paula.
+Paula can train SPARROW
+to focus on a particular animal
+or a particular call,
+so she can save hundreds
+of hours of her time,
+so she can focus on what she does best:
+having a better understanding
+and helping protect the animals she loves.
+Because SPARROW is connected online,
+SPARROW can actually send alerts.
+Wildfires are a major global threat,
+costing lives, billions in infrastructure
+and the complete destruction
+of some of the most important
+biodiversity ecosystems.
+In a wildfire, every minute counts.
+Detect it early, and you can
+stop it with a shovel.
+But if you wait, you will need
+bulldozers, air tankers
+and sometimes a miracle.
+SPARROW has the ability
+to do early detection of fire
+and send alerts to authorities.
+With SPARROW, we're not
+only collecting data,
+we can act on that data,
+and that data can help save lives.
+By the end of 2025,
+we will have SPARROW
+running in all continents.
+SPARROW will change the way
+biodiversity data works.
+Today, conservation moves
+at the speed of data,
+and when a conservationist
+installs a device,
+to the time that it takes for that data
+to eventually get analyzed today,
+it takes months, sometimes a year.
+With SPARROW, we want to move
+from months to days.
+For some species,
+this difference, this delta,
+can be the difference
+between survival and extinction.
+I dedicate this talk
+to the conservationists out there
+who have dedicated
+and even sacrificed their lives
+to help protect biodiversity
+on this planet.
+They might not wear capes,
+but make absolutely no mistake,
+they are superheroes.
+Yet they need our help.
+Our job, our responsibility,
+and our commitment today
+is that we will provide them
+with the best tools we can
+so they have a fighting chance.
+Thank you.
+(Cheers and applause)
