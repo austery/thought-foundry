@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2020",
+    "checkJs": true,           // 打开“类型检查”开关，帮你发现 JS 里的潜在错误
+    "strict": false            // 不要太严格，避免老代码一片红
+  },
+  "exclude": [
+    "node_modules",
+    "_site",                   // 极其重要：不要扫描生成的网站文件，否则会有重复定义错误
+    ".venv",                   // 极其重要：这是 Python 的地盘，JS 引擎别去浪费时间
+    "__pycache__",             // 同上
+    ".vscode",
+    ".git"
+  ]
+}
