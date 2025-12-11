@@ -15,13 +15,13 @@ products_models: []
 media_books: []
 date: '2025-07-10'
 author: Lei
-speaker: steve.com
+speaker: Swimming Pool Steve
 channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
-source: https.www.youtube.com/watch?v=placeholder
+source: https://www.youtube.com/watch?v=hz4ia97Ldvk
 ---
 ## 问题的根源：认知差距与行业现实
 

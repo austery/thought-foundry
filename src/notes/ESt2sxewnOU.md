@@ -16,13 +16,13 @@ products_models: []
 media_books: []
 date: '2025-07-05'
 author: Lei
-speaker: ''
+speaker: Global Money Talk
 channel: null
 guest: ''
 insight: null
 layout: post.njk
 series: null
-source: https://www.youtube.com/watch?v=VIDEO_ID_HERE
+source: https://www.youtube.com/watch?v=ESt2sxewnOU
 ---
 ## 问：如何看待特朗普当选对股市的影响？Granny Shots ETF的选股和调仓逻辑是怎样的？
 

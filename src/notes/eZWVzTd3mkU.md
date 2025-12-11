@@ -1,7 +1,6 @@
 ---
 title: Vibe Coding 实战对谈：从导入挑战到团队文化转型
-summary: 本期 JUGG 聊敏捷邀请了开发一线的 Derek 和 Zen，深入探讨 Vibe Coding 在团队中的实际应用。内容涵盖导入过程中的常见陷阱、如何应对
-  AI 生成的大量程式码、以及 Vibe Coding 对敏捷开发流程和团队文化的深远影响与挑战。
+summary: 本期 JUGG 聊敏捷邀请了开发一线的 Derek 和 Zen，深入探讨 Vibe Coding 在团队中的实际应用。内容涵盖导入过程中的常见陷阱、如何应对AI 生成的大量程式码、以及 Vibe Coding 对敏捷开发流程和团队文化的深远影响与挑战。
 area: tech-insights
 category: technology
 project:
@@ -20,7 +19,7 @@ companies_orgs: []
 products_models: []
 media_books: []
 date: 2025-08-04
-author: Lei
+author: JUGG’s Agile
 speaker: ''
 channel: null
 draft: true
