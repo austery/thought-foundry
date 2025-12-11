@@ -21,7 +21,7 @@ products_models: []
 media_books: []
 date: 2025-08-03
 author: Lei
-speaker: JUGG’s Agile, Product Science & AI
+speaker: JUGG’s Agile
 channel: ''
 draft: true
 guest: ''
