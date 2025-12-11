@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: 2025-08-14
 author: Lei
-speaker: 刘一鸣
+speaker: 硅谷101
 channel: null
 draft: true
 file_name: GE_Vernova_AI_power_crisis_big_winner.md

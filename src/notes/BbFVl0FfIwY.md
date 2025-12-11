@@ -16,13 +16,13 @@ media_books:
 - 一席
 date: '2020-07-10'
 author: Lei
-speaker: 田烨
+speaker: 一席YiXi
 channel: 一席
 guest: null
 insight: null
 layout: post.njk
 series: null
-source: null
+source: https://www.youtube.com/watch?v=BbFVl0FfIwY
 ---
 ## 引言：重新认识衰老
 

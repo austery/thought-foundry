@@ -17,7 +17,7 @@ products_models: []
 media_books: []
 date: '2025-06-07'
 author: Lei
-speaker: Yehuan
+speaker: 一口新饭读书会
 channel: 一口新饭
 guest: null
 insight: null

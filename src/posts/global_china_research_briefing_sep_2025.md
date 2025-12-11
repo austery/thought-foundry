@@ -17,7 +17,7 @@ products_models: []
 media_books: []
 date: 2025-09-07
 author: Lei
-speaker: 评论员
+speaker: 全球中国研究简报
 draft: true
 guest: null
 insight: null

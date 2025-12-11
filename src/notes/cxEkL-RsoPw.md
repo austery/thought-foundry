@@ -15,13 +15,13 @@ media_books:
 - 一席
 date: '2025-07-10'
 author: Lei
-speaker: 赵汗青
+speaker: 一席YiXi
 channel: null
 guest: null
 insight: null
 layout: post.njk
 series: null
-source: null
+source: https://www.youtube.com/watch?v=cxEkL-RsoPw
 ---
 # 我如何拥抱AIGC
 

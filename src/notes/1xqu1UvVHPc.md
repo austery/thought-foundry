@@ -1,15 +1,14 @@
 ---
 author: Lei
 date: 2025-07-10
-guest: 陈老师
+guest: 
 insight:
 layout: post.njk
 series:
-source: https://www.xiaoyuzhoufm.com/episode/668541e2fe7f4d2216e91f61
+source: https://www.youtube.com/watch?v=1xqu1UvVHPc
 speaker: 知行小酒馆
 summary:
 tags:
-  - 视频文稿
   - 全球经济
   - 投资
   - 知行小酒馆

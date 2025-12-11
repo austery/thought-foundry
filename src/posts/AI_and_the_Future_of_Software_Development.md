@@ -15,7 +15,7 @@ products_models: []
 media_books: []
 date: '2025-06-07'
 author: Lei
-speaker: PCC insiders
+speaker: PCC insider
 channel: null
 guest: null
 insight: null

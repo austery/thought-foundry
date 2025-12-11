@@ -16,7 +16,7 @@ media_books:
 - 一席
 date: 2025-07-23
 author: Lei
-speaker: 申琦
+speaker: 一席YIXI
 channel: 一席
 draft: true
 file_name: ai_ruhe_xiangshan_jishu_duidai_laoren
