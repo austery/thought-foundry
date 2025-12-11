@@ -16,7 +16,7 @@ media_books: []
 date: '2025-06-20'
 author: Lei
 speaker: Andrej Karpathy
-channel: null
+channel: https://www.youtube.com/watch?v=LCEmiRjPEtQ
 guest: null
 insight: null
 layout: post.njk
