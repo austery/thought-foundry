@@ -1,0 +1,556 @@
+---
+author: The Diary Of A CEO
+date: '2025-12-11'
+guest: ''
+layout: post.njk
+source: https://www.youtube.com/watch?v=rtufWBLOXgw
+speaker: The Diary Of A CEO
+tags:
+  - habit-formation
+  - behavior-change
+  - consistency
+  - systems-over-goals
+  - identity-based-habits
+title: James Clear：微习惯的力量——如何构建持久系统，而非仅仅追求目标
+summary: 本期节目中，《原子习惯》作者James Clear深入探讨了微小习惯对生活产生的深远影响。他强调应构建强大的“系统”而非仅仅设定“目标”，并介绍了行为改变的四定律（让它显而易见、有吸引力、简单、令人满足）、“两分钟法则”以及身份认同在习惯养成中的重要性。Clear还讨论了能量管理、习惯如何适应人生阶段，以及每日进步1%的复利效应，指出真正的进步源于持续的努力和对发展轨迹的关注。
+insight: ''
+draft: true
+series: ''
+category: productivity
+area: personal-systems
+project:
+  - personal-growth-lab
+  - systems-thinking
+people:
+  - James Clear
+  - David Epstein
+  - Ed Latimore
+  - Jordan Peterson
+  - Daniel Kahneman
+  - Steven Pressfield
+  - BJ Fogg
+  - Trent Durstman
+  - Brandon Webb
+  - Sir David Brailsford
+  - Chris Hoy
+  - Roger Federer
+  - Ash
+  - Dr. Lisa Feldman
+  - Kamala Harris
+companies_orgs:
+  - St. Olaf's University
+  - Kenyon
+  - Author's Equity
+  - Amazon
+  - DoorDash
+  - Instacart
+  - WhatsApp
+  - Harvard Business Review
+products_models:
+  - Atomic Habits
+  - Atomic Habits Daily Calendar
+  - Atomic Habits Workbook
+  - 3-2-1 Newsletter
+  - Range
+  - Sports Genius
+  - The Blind Watchmaker
+  - Inner Game of Tennis
+  - Dare to Dream
+  - Enterprise Password Manager
+  - 1% Diaries
+media_books:
+  - The Diary Of A CEO
+status: evergreen
+---
+### 引言：习惯的力量与《原子习惯》
+
+James Clear 撰写了历史上最畅销的习惯类书籍之一，因为人们总是需要更多实用的帮助来养成习惯。他拥有各种策略和工具来让习惯得以坚持，其中一个原则可能是建立习惯最重要的一点，那就是掌握开始的艺术。作为全球领先的习惯专家之一，James Clear 正在帮助数百万人建立持久的习惯，掌握目标设定，并最终重新设计他们的生活。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">You've written one of the best-selling books in history about habits because people always need more practical help with implementing their habits. And I have different strategies and different tools to get habits to stick, including one principle that is probably the single most important for building habits, but so much of it is about mastering the art of getting started. James Clear is one of the world's leading habit experts, educating millions to build lasting habits, master goal setting, and ultimately redesign their lives.</p>
+</details>
+
+### 习惯的四大阶段与行为改变四定律
+
+每个习惯都会经历四个不同的阶段：**提示**（Q）、**渴望**（Craving）、**回应**（Response）和**奖励**（Reward）。基于这四个阶段，我们可以提出行为改变的四定律。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">There are four different stages that every habit goes through: Q, craving, response, and reward. So, first, we want to make it obvious. Easier it is to see or get your attention, the more likely you are to act on it. The second is about the craving. It's all about making it attractive. And the more engaging or exciting it is, the more likely you are to stick with it. The third is to make it easy. The easier a habit is to perform, the more likely it is to happen. And then the fourth and final one is to make it satisfying. And that's about increasing the odds that you do it next time. And there's some tools that we can go through.</p>
+</details>
+
+首先，要让习惯**显而易见**。越容易看到或引起注意的事物，你就越有可能对其采取行动。其次，关于渴望，就是要让习惯**有吸引力**。越是引人入胜或令人兴奋的事情，你就越有可能坚持下去。第三，要让习惯**简单**。一个习惯越容易执行，它发生的可能性就越大。最后，要让习惯**令人满足**。这关乎增加你下次重复该行为的可能性。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So, first, we want to make it obvious. Easier it is to see or get your attention, the more likely you are to act on it. The second is about the craving. It's all about making it attractive. And the more engaging or exciting it is, the more likely you are to stick with it. The third is to make it easy. The easier a habit is to perform, the more likely it is to happen. And then the fourth and final one is to make it satisfying. And that's about increasing the odds that you do it next time.</p>
+</details>
+
+### 构建好习惯的策略：从两分钟法则到环境设计
+
+《原子习惯》（Atomic Habits）的一个重要启示是，如果你能将新习惯叠加在已有的习惯之上，会更容易建立新习惯。例如，如果你目前的习惯是泡一杯咖啡，而你想建立的新习惯是冥想，那么你可以说：“泡完早晨的咖啡后，我将冥想60秒。”这种方法适用于任何事情。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But one of the big takeaways from Atomic Habits is it's easier to build a new habit if you stack it on top of the habit you're already doing. So let's say that your current habit is you make a cup of coffee. And the new habit that you want to build is you want to start meditating. So then you could say, "All right, after I make my morning cup of coffee, I will meditate for 60 seconds." And you can do it for anything.</p>
+</details>
+
+James Clear 还提出了一个名为“帽子、发型和纹身”的框架，它揭示了成功的秘密、习惯塑造以及每天进步1%的真正意义。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">There's also a framework that I call hats, haircuts, and tattoos: the secret to winning, habit shaping, and real lesson of getting 1% better every day. And we can talk about all of them.</p>
+</details>
+
+**环境准备**是让第一个行动变得容易的关键。以写作为例，最大的摩擦点是选择写什么。一旦确定了主题，就能顺利进入状态。因此，James Clear 有时会提前写好第一句话，然后离开，第二天回来时就能直接开始下一部分，而无需重新选择。另一种方法是将主题或句子写在便利贴上，贴在键盘上，这样进入办公室时就能立即看到，提醒自己要写什么。许多读者也会提前准备好跑步服，放在床边，这样早上起来就能直接穿上。甚至有人会穿着跑步服睡觉，醒来直接穿鞋出门。这些都是为了优化环境，让行动变得更容易。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Yeah, there's multiple things. So first thing is try to prime the environment to make the first action easy. Prime the environment to make the first action easy. So let's say writing for example. I find that for myself the biggest point of friction is choosing what to write about. Once I've actually finally settled, this is the thing I'm writing today, then I can get into it and I'm off and running. But I'll sit there for two hours just debating whether it's the right thing to be focused on writing or not. You know, should I work on this chapter? Should I work on something else or whatever. So, what I've started to do is sometimes I will write the first sentence of what I'm going to write and just leave it on the Google doc right there and then leave. And the next day when I come back, I'm already in, right? Like it's already the first sentence is already written. So now I'm just writing the next piece of what's coming rather than trying to choose what to write about. Another one that I've done sometimes is I will write sometimes I'll write the topic or I'll write the sentence on a post-it note and I'll put it on top of the keyboard and so when I come into the office it's right there in front of I can't you know I got to pick it off the keys to log onto the computer and so it's like remember this is what you're writing about right now you know so it's just trying to make it easy to get in. I have a bunch of readers who do stuff like set their running out running clothes out the night before, you know, so they're right next to the bed. You got your clothes and your shoes there. I one woman I just talked to uh her at an event. She came up afterward and she said, "I actually sleep in my running clothes and just get out and get put her shoes on and goes right out the door." But you're trying to prime the environment to make the action easy. Okay. So, how can you set up the spaces that you're in uh to prime those habits?</p>
+</details>
+
+一个有趣的问题是：走进你每天花费大部分时间的房间——办公室、客厅、卧室，然后环顾四周，问问自己：“这个空间是为了鼓励什么行为而设计的？这里什么行为是容易的？什么行为是显而易见的？”如果你想建立的好习惯不是最省力或最显而易见的选择，那么你可能需要调整环境，让好习惯更容易，而干扰更难。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I think one really interesting question to ask, walk into the rooms where you spend most of your time each day, your office, your living room, your bedroom, and then look around and ask yourself, what is this space designed to encourage? What behaviors are easy here? What behaviors are obvious here? And the good habits that you say you want to build, are those the path of least resistance? Is that the obvious thing in this environment? And if not, maybe you can make some adjustments to try to make the good habit easier and the distractions maybe a little bit harder. So that's first thing, prime the environment to make the action easy.</p>
+</details>
+
+建立习惯最重要的原则之一是**让它简单**。将习惯缩小，使其变得容易。这有时被称为**两分钟法则**（Two-Minute Rule）：将你正在努力的任何习惯缩小到两分钟或更短的时间内完成。例如，“每年读30本书”变成“读一页”，“每周练四天瑜伽”变成“拿出我的瑜伽垫”。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Second thing is if there's like one principle that is probably the single most important for building habits, it's make it easy. Just scale it down and make it easy. I refer to it sometimes as the two-minute rule. So take whatever habit you're trying to work on, you scale it down to something that takes two minutes or less to do. Read 30 books a year becomes read one page or do yoga four days a week becomes take out my yoga mat.</p>
+</details>
+
+人们有时会对此有所抵触，认为真正的目标不是拿出瑜伽垫，而是完成锻炼。他们觉得这是一种“心理小把戏”。但James Clear 在《原子习惯》中提到一个叫 Mitch 的人，他去健身房，前六周给自己定了一个奇怪的规定：不允许停留超过5分钟。他开车去健身房，做半个练习，然后开车回家。这听起来很傻，但 Mitch 正在掌握**“出现”的艺术**。他正在成为每周去健身房四次的人，即使每次只去五分钟。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Sometimes I will mention this to people and they resist it a little bit. You know, they're like, "Okay, buddy." Like, I know the real goal isn't just to take my yoga mat out. You know, I know I'm actually trying to do the workout. So, this is some kind of mental trick and I know it's a trick. Then why would I fall for it? Basically, but there's this guy, I mentioned him in Atomic Habits, his name is Mitch. And he went to the gym and for the first six weeks, he had this strange little rule for himself where he wasn't allowed to stay for longer than 5 minutes. So, you get in the car, drive to the gym, get out, do half an exercise, get back in the car, drive home. And you're like, "This sounds silly, right? Clearly, this is not going to get the guy the results that he wants." But what you realize is that he was mastering the art of showing up, right? He was becoming the type of person that went to the gym four days a week, even if it was only for five minutes.</p>
+</details>
+
+习惯必须先建立，然后才能改进。在你优化并将其扩展为更重要的事物之前，它必须成为你生活中的标准。正如 Ed Latimore 所说：“健身房里最重的重量是前门。”生活中有很多事情都是如此。通过努力让开始变得容易，你就能进入“游戏”，进入“竞技场”，然后就可以在此基础上进行各种改进。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And so, I think this is kind of a deep truth about habits, which is a habit must be established before it can be improved. You know, has to become the standard in your life before you optimize and scale it up into something more. There's that quote from Ed Latimore where he says, "The heaviest weight at the gym is the front door." There are a lot of things in life that are like that. And so, by trying to make it easy to master, to easy to get started, um then you're in the game now. You're in the arena. There's all kinds of things you can improve from there.</p>
+</details>
+
+Jordan Peterson 曾提到他的一些临床病人，其中一位因为恐惧和心理问题被困在一个堆满杂物的房间里无法离开。Jordan 说，第一天他们只是把吸尘器带进房间，仅此而已。第二天他们插上吸尘器，仅此而已。到了第30天，那个人走出了房间，房间也打扫干净了，他几个月甚至几年后第一次在外面散步。人们之所以不开始，是因为第一步太令人尴尬了。人们觉得不值得做，或者觉得羞耻，几乎是那种居高临下的尴尬。James Clear 认为，第一步应该小到令人尴尬的程度。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I remember um Jordan Peterson saying talking about his some of his clinical um patients and referring to one in particular who was in a room full of junk and couldn't leave the room because of a certain fear and certain psychological problems he had. And Jordan saying that day one they just brought the Hoover into the room and that was it. Day two they plugged the Hoover in and that was it. And then by day like 30 the guy is out of the room, the room is clean and he's walking around outside for the first time in in months or years. And he goes on to say that the reason why people don't get started is because the first step is so embarrassing. People think that it's not worth it or that it's like shameful to do. It's like almost like patronizingly embarrassing. And um I've always kept that in mind uh since then and when from your work as well just that assume the first steps are like embarrassingly small.</p>
+</details>
+
+### 应对挑战：坏日子里的坚持与灵活变通
+
+有一种叫做**习惯塑造**（Habit Shaping）的过程，它基本上就是这样。如果你想跑半程马拉松，第一天可能只是穿上跑鞋，第二天是走到前门外面，第三天是绕着街区走一圈。你只是逐渐将自己塑造成这个更大的习惯。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">There's this process called habit shaping which is is basically like that. Um, you know, like if you want to run a half marathon, the first day the step might be to put on your running shoes and then the second day the step is to like walk outside the front door and the third day the step is to go around the block. And you know, you're just like gradually shaping into this this larger habit.</p>
+</details>
+
+人们在思考建立更好习惯时，尤其是雄心勃勃的人，很容易对所有可能做出的改变感到兴奋。你开始想象最佳状态会是什么样子，如果你能真正调整好习惯，你能做什么。你开始想象五、六、七件你想做的事情，以及它们完美的样子。然而，与其问自己“在最好的日子里我能做什么”，不如从问“即使在糟糕的日子里我能坚持什么”开始。这会成为你的基线，你的第一步。现在，即使你疲惫不堪，时间不多，你也能坚持这个可实现的基础，并感到自己在成功，然后才能在此基础上进步。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But there's this thing that happens when people think about building better habits. I think particularly ambitious people, it's very easy to get excited about all the changes you can make. You start thinking, even if you don't say this explicitly, you think like, what would peak performance look like? you know, if I could really get my habits dialed in, what could I do? And you start imagining five, six, seven things that you would do and what all of them would look like in their perfect form and so on. And I think instead of asking ourselves, what could I do on my best day, it's better to start by asking what can I stick to even on the bad days? And that becomes your baseline. That becomes the first step. And now that you have this floor that is achievable even when you're tired, even when you're exhausted, even when you don't have much time, now you can show up and feel like you're succeeding, you know, and then you can progress from there.</p>
+</details>
+
+人类思维最强大的动力之一是**进步感**。如果你感到自己在进步，即使比你最终希望的要小，你也有充分的理由继续前进。但我们常常成为期望的受害者。我们花费大量时间优化完美的计划，然后期望事情一开始就完美无缺。一旦第一天、第二天或第三天没有达到预期，一切就会崩溃。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">One of the most motivating feelings to the human mind is a feeling of progress. If you feel like you're making progress, even if it's smaller than what you ultimately hope to do, you have every reason to move forward. But often we become like a victim of our expectations. We ex we spend all this time optimizing the perfect plan and then expect things to go perfectly out of the gate and you had it so built up in your mind that once you don't hit that mark in the f first or second or third day it falls apart.</p>
+</details>
+
+主持人提到，在商业和职业生涯早期，最大的成本往往不是犯错，而是浪费在做决定上的时间。许多大公司会花18个月来思考一个营销活动。但有些创始人会立即行动。这表明，生活中最大的成本是浪费在做决定上的时间。有时，思考是否要去跑步比直接去跑步花费的成本更高。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And you talked earlier on about sitting there for two hours thinking about what to write. I I think I've learned through through business and in the first iteration of my career where I worked with CEOs and executives that were planning marketing campaigns that actually in hindsight often the biggest cost wasn't being wrong. It was the time you waste making a decision. You see this if you've ever you've interacted with so many big corporations. Yeah. Like they spend 18 months thinking about get waiting for Joanna to come back from annual leave to get procurement to sign off the thing. And I worked with this one particular founder during that season of my life who where I was working with his dad and him and his dad would take nine months because the company was so big. His son would interrupt me halfway through the idea and call us all in and say do it now. And he taught me that actually in life that the biggest cost is the time you waste making the decision. And I think about that with my own habits. I think sometimes sitting around thinking about whether I'm going to run today is costing me much more than just [ __ ] And do you think about how you kill that mental debate? Like is that an effective strategy to try and kill the debate and not make a decision per se?</p>
+</details>
+
+速度总是被低估的。生命短暂，你越早做决定，就能越早获得信息。James Clear 提出了“帽子、发型和纹身”这个框架来思考决策。许多决定就像**帽子**：你可以试戴一顶，不喜欢就摘下来，再试另一顶。速度最重要，快速行动，获取信息，学习经验。如果错了，也不是什么大问题，换一顶帽子就好。**发型**则有点棘手：这是一个你需要忍受一段时间的决定。剪坏了发型虽然不开心，但一两个月后它就会长出来，所以也不必过于害怕。**纹身**则更复杂：你一旦纹了身，就必须与这个选择共存，它是永久性的。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Yeah. So speed is perpetually undervalued. That's for sure. Life is short and so the sooner that you make decisions, the sooner you get information. Now, I will say I I have a little framework that I call hats, haircuts, and tattoos. And this is how how I kind of think about it. So, a lot of decisions are like hats. Just try you try one hat. If you don't like it, take it off. You can try another. It's just real quick. You you know, you get some information. Speed is most important. Move quickly, get some information, learn something. If it was wrong, it's not that big of a deal. Just take it off and put a new hat on. Haircut is a little bit trickier. It's a It's a decision that you have to live with for a little bit. you know, like you're okay if you get a bad haircut, but you're gonna you're gonna have to live with it for a month or two. You know, it's it's going to take a little bit of time for it to grow out. And so, it's probably not a big deal to be scared of getting a bad haircut. I think a lot of people probably talk themselves out of it. It's like, you'll be fine in a month. It's it's fine. Tattoos are trickier. You know, you get a tattoo, you got to live with that choice. It's permanent.</p>
+</details>
+
+问题的关键在于：这个选择是可逆的还是不可逆的？如果选择容易逆转，速度最重要，应该快速行动。如果难以逆转，需要仔细思考才能做出决定。生活中大多数决定都像帽子和发型，很少有像纹身那样永久的。但我们常常把所有决定都当作纹身来对待，尤其害怕那些会持续一段时间但又不是永久性的“坏发型”。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And so, if a really what we're getting at here is, is the choice reversible or is the choice irreversible? If the choice is easy to reverse, speed is most important. You should move fast. If it's hard to reverse and you got to live with it, then you need to think carefully before you make the call. Um, and I think probably what you're seeing uh through some of your experiences is that most decisions in life are hats and haircuts. It's very rare that you end up with a tattoo, but we treat them all like tattoos. We Yeah, we uh I think in particular we are we are scared, particularly the bad haircuts. I think the ones that like linger for just a little bit, but not that long. It's like it's going to take you a month to fix this if if you get it wrong, but like that's fine. a month's going to pass anyway. Um, and so it's not that big of a deal, but we we act like it's a bigger deal than it is.</p>
+</details>
+
+### 习惯与身份认同：成为你想成为的人
+
+James Clear 曾收到一位圣奥拉夫大学（St. Olaf's University）男子足球队主教练的来信。教练刚上任时，球队战绩不佳。他读了《原子习惯》后，为球队的一切制定了系统：从系鞋带到赛前准备，再到场上角色。球队每年都在进步，最终赢得了全国冠军。然而，James Clear 认为最重要的是那些“我终于感觉好多了，我感觉不一样了，我看着镜子里的自己，为我是谁而骄傲”的故事。这始终关乎**成为你想成为的那种人**。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">There's not a single one. There are lots that I'm like proud of or really excited by, ones I'm surprised by. Um, I heard from a guy the other day, he was the head coach at St. Olaf's University in Minnesota and men's soccer. And when he came in, their record was something like five and 13 and they were, you know, like near the bottom of the standings. And he was like, I read Atomic Habits right around the time I took this job. And we came up with systems for everything we did. We taught our players systems for how they tie their shoes and cleats to get ready for the game. We taught them systems for how they prepped for practice. We taught them systems for their role on the field. And uh, you know, gradually they improved each year, five and 13. Then they went like eight and eight. And then the next year after that they won the conference. And then the year after that they went to the NCAA Sweet 16 and then five years later they won the national championship. You know, of course stuff like that's awesome to hear about, right? You're like they went from they went from five wins uh in and then in five years later they win the national title. But the ones that matter to me the most are the ones that I hear from somebody and they say um I finally feel better. You know, I feel different. I look in the mirror and I'm like proud of who I am or uh my kids tell me that they're excited to see, you know, the change in me or things like that. And that's what it's always been about, you know, it's always been about becoming the type of person that you want to be. And so I think uh anytime I I hear stories like that, I think it's exciting.</p>
+</details>
+
+当谈到重复时，James Clear 认为它确实很重要，因为习惯就是这样形成的。关于“66天养成习惯”的说法来自一项研究，该研究发现平均需要66天来养成一个习惯。但研究范围很广，简单的习惯可能只需两三周，而复杂的习惯可能需要七八个月。所以，66天这个数字并不能说明什么。James Clear 认为，养成一个习惯需要“永远”，因为如果你停止做它，它就不再是习惯了。习惯不是一条终点线，而是一种生活方式。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">It definitely does. I mean, repetition is how habits form. Uh the 66 days number comes from one study that came out that found that on average it took about 66 days to build a habit. If you look at the study, the range is pretty wide. So, if you pick something really simple like drinking a glass of water um at lunch each day, that might only take two or three weeks to form. If you look at something more complicated like um going for a run after work every day, that might take seven or eight or nine months to form. And so, I don't know that 66 days really tells you anything. It doesn't it doesn't tell you that this is how long it's going to take for your habit to stick. I mean, it the range is wide. Sometimes when people ask me how long does it take to form a habit, my answer is forever. Because if you stop doing it, then it's no longer a habit. And what I'm kind of getting at with that is that habits are not a finish line to be crossed. They're a lifestyle to be lived, you know?</p>
+</details>
+
+我们常常把习惯当作终点线。例如，“让我进行30天排毒，然后我就健康了。”但生活中大多数重要的事情都是无止境的。你昨天去了健身房，不代表今天就有额外积分。你仍然需要今天出现。你昨天是个好伴侣，不代表今天就有额外积分。你仍然需要再次表达爱意和关怀。所有真正重要的事情都是无止境的战斗。所以，重复确实很重要，习惯会变得更顺畅、更自动化，可能需要更少的努力，但这不意味着你永远不必再思考或担心它们。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And so we approach our habits as if it's a finish line. Oh, let me do this 30-day cleanse and then I'll be healthy. Let me do this 90-day sprint and then the product will be shipped. I won't have to worry about it anymore, you know? And it's like most things in life, especially the big important things, they're endless. They're endless battles, you know. So, just because you went to the gym yesterday earns you no bo bonus points for tomorrow. Like, you still have to show up tomorrow. Just because you were a good spouse yesterday earns you no bonus points for tomorrow. You still have to be loving and caring again. Um, and so all the things that really matter are endless battles. And it's not about crossing a finish line. It's about living that kind of lifestyle. And so, yes, it is true that repetition matters. And yes, it is true that the habits will become more seamless and automatic and maybe a little less effortful as you repeat them more, but that doesn't mean that you'll never have to think about them or, you know, worry about them again.</p>
+</details>
+
+当重复发生时，大脑中会发生什么？为什么坚持去健身房60天后，第61天会感觉更容易？这是一个棘手的问题。学术上，习惯被定义为一种自动的、无意识的行为，比如刷牙、系鞋带。但我们通常说的“习惯”，比如每周去健身房四天，每天早上写作，或每周冥想五天，这些并非完全无意识。它们是我们需要持续进行的例行公事和仪式。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">That's a tricky question because um if you were to talk to an academic and they would tell you like a habit is this automatic non-concious behavior. Really quick simple things like brushing your teeth, tying your shoes, every time you pick up a pair of barbecue tongs, you got to tap them together twice, you know, like stuff that you don't even really think about. Okay, that's actual habitual behavior. But if I were to ask you, what are some habits you're trying to build? you would say, "I'm trying to go to the gym four days a week or I'm trying to write every morning or I'm trying to meditate, you know, five days a week or whatever." And I know what you mean when you say that. You mean I want it to be this routine, this practice that I do consistently. But like writing every day is never going to be mindless the way that brushing your teeth is. You know, going to the gym is not going to be automatic the way that tying your shoes might be. And so the things that we there's a little bit of sloppiness in the word habits and how we use it in life. It's not they're not automatic mindless routines most of the time. Most of the things that we want to be habits are not like reflexes. They're routines and rituals that we do consistently.</p>
+</details>
+
+坚持去健身房一两个月后，确实会变得更容易。这有几个原因：
+1.  你已经弄清楚了许多细节：什么时候去？走哪条路？如何打包？是否需要带水瓶？这些都是早期需要解决的一次性成本，一旦形成模式，你就会知道。
+2.  你开始建立社交联系：你开始结交朋友，认识那里的人，感到舒适。Steven Pressfield 曾提到，就像狼会建立自己的领地一样，当你第一次去健身房时可能会感到不适，但一段时间后，它会成为你的“领地”，这种熟悉感会让你更容易坚持习惯。
+3.  **身份认同**（Identity）：你重复一个习惯的次数越多，你就越能强化自己是那种人。这不是“我需要去跑步”，而是“我是一个跑步者”。你这样做是因为这是你的一部分。一旦你将一个习惯视为你故事的一部分，它就会成为你自我认知的一部分，你就会为维持这个习惯而奋斗，它就会更容易坚持下去。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So having said that, it is true that after you've gone to the gym for a month or two, it does start to get easier. And I think there's a number of forces that kind of work in your favor there. One is you figured a lot out about uh what it takes to get into the gym. What time am I going? What route do I take? How do I pack my bag? Do I need to bring a water bottle or is there a water fountain at the gym? Like all those sorts of things are little one-time costs that you got to figure out early on that once you're into a pattern, you already know them. You know, the water bottle thing sounds like a small thing. I heard from someone who said, "I always forget to bring my water bottle and they don't have water fountains at this gym." So like I I sometimes I skip the workout because of that. You know, it's like it's remarkable how little friction it takes to pull us off course. Mhm. And so figuring out all of those things is something that once you're a month or two in, you've crossed all you've, you know, you've fought all those battles and now you know how to do it. So that makes it easier. The other thing is you start to build friendships, start to build connections, you start to know the people there, you feel comfortable there. There's this concept Steven Presfield talks about where u you know if you have a wolf and it's roaming around uh eventually it starts to feel like it has its territory and early on in a process a creative process writing a book or whatever you go into the office the first time to write the first chapter of the book and you kind of feel uncomfortable it feels like it's not you yet you go to the gym on the first day you feel like people are judging you do I look stupid I don't know how to do this but after a while it becomes your territory it's just like the wolf it starts to feel like your home court and so That familiarity I think also makes it much easier to stick to the habits, you know, once you start to feel comfortable there and that takes a little bit of time. And then the last piece is identity. The more that you start to follow this habit, the more you repeat a habit, the more you reinforce being that type of person, the more you start to have that element of your story. I think this is one of the most important things for building habits and getting habits to stick, which is how your habits reinforce your desired identity. We often start by asking what do I wish to achieve? But I think what we really should start with is who do I wish to become? What are my actions reinforcing? What are my actions taking me closer toward? In a sense, every action you take is like a vote for the type of person you wish to become. So, no, doing one push-up does not transform your body, but it does cast a vote for I'm the type of person who doesn't miss workouts. And no, writing one sentence does not finish a novel, but it does cast a vote for I'm a writer. And no, sending one bit of positive feedback does not make you like the world's best leader, but it does cast a vote for I'm the type of leader who cares about their teammates. And individually, those are small things, but collectively you build up this body of evidence for being that kind of person.</p>
+</details>
+
+这与“假装成功直到你真的成功”（fake it till you make it）有所不同。行为和信念是双向的。你相信什么会影响你采取的行动，而你采取的行动也会影响你相信什么。James Clear 鼓励从行动开始，让行为引领方向。打一个销售电话，冥想一分钟，或者做一个俯卧撑，让那一刻成为你就是那种人的证据。如果你今天出去打五分钟篮球，你不会立刻觉得自己是篮球运动员。但如果你每天都这样做，持续三、六个月或一年，总有一天你会跨过一个无形的门槛，不得不承认打篮球是你重要的一部分，是你的身份认同。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">It's a little bit different than what you often hear. Like you often hear people say something like um fake it till you make it. And I don't necessarily have anything wrong with fake it till you make it. Like it's um asking you to believe something positive about yourself. But behavior and beliefs are a two-way street. And so what you believe influences the actions you will take. And the actions you take also influences what you will believe. And my encouragement, my suggestion is to start with the action. To let the behavior lead the way. To make one sales call or meditate for one minute or do one push-up and let that in that moment be evidence that you were that type of person. You know, if you go outside today and you shoot a basketball for five minutes, you don't instantly think, "Oh, I'm a basketball player." But if you do it every day for next three months or six months or a year, at some point you cross this invisible threshold where you have to admit, I guess playing basketball is like kind of an important part of who I am. You know, I guess it's part of my identity. And once you adopt a habit as part of your story, once it becomes part of how you see yourself, it's not just like I need to go for a run. It's like I am a runner, you know, I go I do this because this is part of who I am. Then you'll fight to maintain the habit, right? Like then then it becomes easier for it to stick. And so the connection between habits and identity I think is ultimately how you really get habits to stick for the long run.</p>
+</details>
+
+主持人提到一项研究，如果你用身份认同的方式与人交流，而不是用形容词，那么行为更容易发生。例如，如果你对某人说“你是一个善良的人”，他们会变得更善良；但如果你说“那很善良”，效果则不明显。James Clear 举例说，戒烟的人如果说“我不是吸烟者”，比说“我正在努力戒烟”更容易成功。这与 Leon Festinger 提出的**认知失调**（Cognitive Dissonance）概念有关：当我们的自我认知与外部信息冲突时，我们会倾向于保护自己的身份。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">It reminds me of a study I was reading recently that said if you speak to someone in terms of giving them an identity versus using a word as an adjective the behavior occurs. So an example would be if I you do something for me and I say do you know what James you are a kind person in the studies people become more kind. But if I say that was kind or that action was kind people are less kind. So if I if I can give you feedback that embodies your identity, then you're more like likely for that behavior to occur. So with my team, and this is maybe giving a bit of the game away, I will often refer to them as an identity. I will say you are an innovator. You are an experimental because from the studies I've read that increases the probability that they embody that identity. There's another study that um did it for voting. So people were more likely to go and vote if you said like I am a voter. You got them to identify as I'm a voter rather than are you voting today? Um, and so same same thing. There's an example in Atomic Habits I talk about. Imagine two people who are trying to quit smoking, you know, and so the first person gets offered a cigarette and they say, "Oh, no thanks. I'm trying not to smoke." Um, and the second person gets offered and they say, "Oh, no thanks. I'm not a smoker." And so the first person is trying to resist something that they still see themselves as, but the second person no longer sees themselves as the type of person who smokes. And um yeah, some of the evidence and research suggests that once you adopt those identities, it's it's easier for you to stick to the behavior. Reminds me of the research from Leon Festinger, the guy that came up with the term cognitive dissonance. The way that I understand the concept of cognitive dissonance is that if I have a perceived identity of myself and something external threatens that or challenges it, we're not good at living in contradiction. I'm not good at So, for example, I'm a an accountant right now and I hear that AI is doing accountancy work amazingly well. Now, I've invested 10 years in that accountancy degree. I see myself as a great accountant. My my my sort of initial reaction will probably be to either dismiss my current identity as a great accountant that that's going to have a great career in the future or to dismiss the AI. And he talks, well, people that have studied his work talk about how we're very poor at being able to hold two contradictory things to be true at the same time. So, um we tend to protect our identity.</p>
+</details>
+
+### 社会环境与习惯：选择你的“引力场”
+
+我们的身份认同很大一部分与人际关系相关联。我们是父亲、丈夫、朋友，我们与他人的联系会影响我们对自己的看法。社会关系对我们的习惯有着广泛的影响。我们都是多个群体的一部分，这些群体无论大小，都有其共享的行为期望和社会规范。当你的习惯与群体的期望一致时，它们会很有吸引力，你会因此受到赞扬和奖励，融入其中。反之，当你的习惯与群体的期望相悖时，它们会变得没有吸引力，你会受到批评，感觉不好。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Yes. Um, there's something incredibly powerful about this that also ties into habits, which is that a lot of our identity, not not the whole thing, but large portions of our identity are tied to our relationships. You know, I'm a father, I'm a, you know, husband, I'm a, you know, and so like it's the connection that we have with others. Our social bonds influence the picture that we have of ourselves. This is something that widely influences our habits, you know. So, we are all part of multiple groups. Sometimes that group is large, like what it means to be American or what it means to be British. Sometimes that group is small, like what it means to be a neighbor on your street or a member of this family or a member at the local CrossFit gym. But all of the groups that you belong to, large and small, have a set of shared expectations for how you act. Have a set of social norms for what you do in that group. And when your habits go with the grain of the expectations of the group, they're pretty attractive. You know, like you want to stick to them. You get praised and rewarded for it. You fit in. And when they go against the grain of the expectations of the group, they're kind of unattractive. You get criticized and it doesn't feel good.</p>
+</details>
+
+如果人们必须在“我想要某些习惯，但会被排斥、批评”和“我不太喜欢的习惯，但能融入、归属”之间做出选择，大多数时候，归属感会压倒改进的愿望。因此，如果你想建立更好的习惯并长期坚持，你需要加入那些你期望行为是**正常行为**的群体。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And so if people have to choose between, I have habits that um I want, but I'm cast out, I'm ostracized, I'm criticized, or I have habits that I don't really love, but I fit in, I belong, I'm part of something. Most of the time, the desire to belong overpowers the desire to improve. And so you want to do something different, but you also know you're going to be heavily criticized for it or you're going to at least add friction to your relationships. And we don't want to live with that dissonance. That dissonance of I could have this, but I also create friction here. One of the lessons I think one of the big takeaways if you want to build better habits and get habits to stick particularly for the long run is you want to join groups where your desired behavior is the normal behavior. join groups where you can rise together, where the people that you're surrounded by have the type of habits that you want to have.</p>
+</details>
+
+主持人提到了 Jeff Bezos 在致股东信中关于**抵抗平衡**（resisting the equilibrium）的观点。Bezos 将亚马逊的创新能力与 Richard Dawkins 的书《盲眼钟表匠》（The Blind Watchmaker）进行比较，指出所有生物都在不断地抵抗平衡，死亡就是我们与环境融为一体。我们消耗大量能量来维持与环境的差异。环境与你想要建立的习惯或你试图达到的平衡越不同，你就越需要努力去维持。这种斗争只能持续有限的时间，最终你会感到精疲力尽。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">It reminds me of this um this thing that appeared in Jeff Bezos's shareholder letter about resisting the equilibrium. H I I didn't know about this. Go ahead. So, in Jeff Bezos's shareholder letter, he writes to shareholders that when referring to Amazon's ability and desire and need to innovate through the future, he says he makes a comparison to Richard Dawkins book called the I think it's a blind clock maker. Uh yeah the yeah blind watchman blind watchman. Yeah yeah yeah yeah and says that essentially all living organisms live in this constant battle to resist their equilibrium and actually death itself is when we become our environment because right now me and you have huge amount of energy expenditure to be different from our environment in terms of temperature in terms of acidity etc. And he he's making the comparison which sounded a lot what like what you just said that if you want to that all living organisms are in this constant battle to be different from our environment. Um and that the more different our environment is the harder the fight. So if I go to the desert my body has to put put out even more energy to be a different temperature to be a different sort of acidity than the environment. But if I want to make my life easier and make that fight easier, then go into an environment where my environment is the same as my internal my internal state. That's great. The I think that punchline of the more different your environment is from the habits that you want to build or from whatever equilibrium you're trying to achieve, the harder you will have to fight to maintain. And that is a fight that you can do for I don't know a day, a week, a month, but it's some limited amount of time. At some point it just is draining to try to grind against the environment all the time.</p>
+</details>
+
+环境，无论是物理环境还是社会环境，都像一种**引力**。它总是将你推向某些方向。例如，你坐在椅子上，而不是坐在地板上，因为椅子提供了自然的支撑。当你离开房间时，你会走门，而不是破墙而出，因为门是环境自然引导你走向的地方。所有空间都是如此，你总是被拉向环境中自然、容易和一致的行为。因此，你需要优化环境，使其有利于你想要做的事情。社会环境也是如此，你需要被那些拥有你想要习惯的群体所包围。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Sometimes I view environment both physical and social almost like a form of gravity. You know, like the the physical environment that we're in right now, okay, that's always nudging you in certain directions. Like I'm I'm sitting in this chair right now talking to you. I could be sitting anywhere else, but I would have to sit on the floor, right? The the environment of the chair is ushering me to this spot. It's almost like a form of gravity pulling me here rather than getting me to go somewhere else. When we leave this room, if I wanted, I could try to do something crazy and break through a wall or climb through the ceiling or whatever, but I'm going to go through the door because that's where the environment is naturally nudging me toward. It's the where that behavior happens easily. And all of our spaces are like that. You're always being kind of pulled toward what is natural and easy and consistent in that environment. So, how can you prime your environment to make those the things you want to do? That's for physical environment. Social environment is the same. You know, it's all you're always kind of being pulled toward what the behaviors are that are natural there. What are the social norms? What are the things that people get praised and rewarded for? What are what is the culture typically calling you to do? And that's where I think the answer is you want to surround yourself with groups who have the behaviors you want to have. Join groups where your desired behavior is normal.</p>
+</details>
+
+这可能意味着要摆脱生活中某些人，即使他们是家人。James Clear 认为，大多数情况下，我们不是要摆脱关系，而是要找到特定的空间，让习惯得以蓬勃发展。研究表明，在新环境中建立新习惯往往更容易。习惯是一种与特定情境相关的行为。例如，你晚上7点在沙发上看 Netflix 的习惯，每次你走进客厅，坐在沙发上，大脑就会自然地倾向于拿起遥控器。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">If it's normal in that group, then you can rise together. So, I mean that that must mean getting rid of certain people in one's life. And sometimes those people are hard to get rid of because their families, their moms, their dads. Sure. And I, you know, I'm a little uh sometimes you hear people say things like, "Fire your friends," you know, or whatever. Like, and I I I'm not I'm not all the way there. Uh I I think that yes, it is true. Sometimes you have um an extreme circumstance where it's a particularly toxic person or something like that. And yeah, like you know, you probably maybe should not be around them and that that those can lead to very hard decisions. But I would say for the majority of life and the majority of your relationships, what we're really talking about here is not getting rid of relationships. We're talking about finding specific places where that habit can thrive. So here are some examples. There's a number of studies that have shown that it tends to be easier to build a new habit in a new environment. So for example, if you Well, first let me back up. There's an interesting way to define what a habit is, which is that it is a behavior that is tied to a particular context. So, for example, your habit of watching Netflix might be tied to the context of your couch at 7 p.m. And whenever you walk into your living room and you're by your couch and it's in the evening, you're kind of naturally being pulled toward picking up the remote and doing that because that's the context the habit happens in.</p>
+</details>
+
+如果你想建立一个新习惯，比如写日记，但你坐在客厅沙发上，大脑会倾向于看电视。这不意味着你需要一个全新的空间来做每个习惯。你可以放一把椅子在房间角落，把它变成“日记椅”，只在那里写日记。这样你就为这个行为创造了一个新的情境。在社交方面，你需要创造一个安全的空间，让习惯得以生存或蓬勃发展。例如，如果你想每周练四天瑜伽，但家里没人感兴趣，你可以在客厅练习时感到被嘲笑或侵占他人空间。这时，你可以去瑜伽馆，在那里，你的期望行为是正常的，你无需“解雇”任何朋友，只需去一个能让习惯蓬勃发展的地方。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So, if you want to build a new habit, and again, these studies have found that it tends to be easier to build a new habit in a new environment. Well, let's say you want to start a habit of journaling. Well, you walk into your living room in the evening and you sit down on the couch and you're like, I'm going to start journaling. But you're naturally, you know, your brain is kind of like, well, it's time to pick up the remote and turn on the TV. That doesn't always mean that you need a brand new space, like a new building or a new room to do every habit in. But you could do something like you could get a chair and put it in the corner of the room and that becomes the journaling chair and the only thing that you do when you sit in that chair is you journal for five minutes. So now you have a new context that is tied to the behavior that you want to perform. And in the social sense, so this is what we were talking about previously. You want to be able to create a space that is a safe place for that envir for that habit to live or for that habit to thrive. say um sometimes there those spaces are ready made like uh let's say you want to do yoga four days a week but you look around your family or your friends in your apartment that you're living nobody else is interested they don't want to do it too you do it in the living room you kind of get made fun of or you're stepping on other people's space they're like I'm trying to do stuff in here too you know it's just kind of inconvenient well you can go to a yoga studio and that's a place where for that hour you can be surrounded by a group where your desired behavior is normal you don't have to fire any of your friends um and you can just go to the place where that happens that can thrive. And I think each habit likes to have that. It likes to have somewhere where it can exist in a way that it's going to be supported or in a way where the environment makes it easy. Sometimes the environment is readyade like that. Other times it's not.</p>
+</details>
+
+James Clear 在创业初期，家人中没有企业家或作家。他通过发送300封陌生邮件给那些比他早一两年的创业者，最终结识了30人，并开始组织聚会，邀请其他作家一起讨论如何建立受众、发展邮件列表、写作和发布书籍。这就像为瑜伽去瑜伽馆一样，但你需要自己创造这个空间。每个人都渴望相同的东西，都在等待有人为志同道合的人创造一个空间。所以，有时你需要足够的勇气自己创造空间，让你的期望行为成为正常行为。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So for me, one of the most useful things that I did in my entrepreneurial career, I had I had no entrepreneurs in my family, no authors. So I had this thing that I kind of wanted to do, but I I didn't have anybody close to me that I could like look to. first six months that I was an entrepreneur, I sent like 300 cold emails just to other people that were like a year or two ahead of me. Someone who seemed like you're actually doing this thing where, you know, you've got this online audience and you're you're writing about stuff you like. Um maybe 30 people got back to me. I did like a little, you know, Zoom call or whatever and, you know, we chatted and connected and then I met some of them at a conference like six months later. So I was six months in. I knew like maybe 10 people that I had met in person and I had like 30 that I had reached out to. So now it feels like okay at least I know a couple people who have done this thing and I started hosting these retreats every once or twice a year I'd get six or eight authors together and I'd say let's just rent an Airbnb. We'll split the cost and we can talk about how to build an audience and how to grow your you know email list and how to write a book and launch it and you know all the stuff that we were kind of focused on. It was almost always like the best six month uh best weekend of my year. Um because I would have six months worth of stuff that I need to execute on after that was done. That's kind of like going to a yoga studio for yoga, but you had to create the space. I was always worried that I was going to look like some dork, you know, and like invite everybody and they would all say no or whatever. But everybody wants the same thing. You know, they're all waiting for somebody to create the space for like-minded people to get together. So sometimes you need enough courage to create the space yourself. But the punch line is the same, which is you're trying to surround yourself with people where your desired behavior is the normal behavior.</p>
+</details>
+
+### 打破坏习惯：反向运用行为改变定律
+
+如果你想打破一个坏习惯，只需将行为改变的四定律反过来运用：
+1.  **让它隐而不见**（Make it Invisible），而不是显而易见。例如，取消订阅邮件，家里不放垃圾食品，减少接触提示。
+2.  **让它没有吸引力**（Make it Unattractive），而不是有吸引力。这是最难的一点。
+3.  **让它困难**（Make it Difficult），而不是简单。增加摩擦，在行为和你之间增加步骤。例如，James Clear 会把手机放在另一个房间，直到午餐时间。手机就在30秒路程之外，但他从不去拿。这表明，如果引入一点摩擦，许多习惯就会自行减少。另一个例子是啤酒，如果放在冰箱最显眼的地方，晚餐时可能会随手拿一罐；但如果放在最底层最里面，有时甚至会忘记它的存在。
+4.  **让它不令人满足**（Make it Unsatisfying），而不是令人满足。施加某种代价或后果。James Clear 在《原子习惯》中称之为行为改变的**基本法则**：立即得到奖励的行为会被重复，立即受到惩罚的行为会被避免。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">How does this work if you're trying to break a habit? So for each of these there are there are many ways to do each of these things. You know there's many ways to make habits obvious. There are many ways to make them attractive and so on. And what I'm giving you is just kind of the overview of how to build a good habit or how to install a new behavior. If you want to break a bad habit then you just invert these four. So rather than making it obvious make it invisible. Okay? Unsubscribe from emails. Don't keep junk food in the house. Reduce exposure to the queue. Rather than making it attractive, make it unattractive. That's the hardest one. We can talk about that in a second. Rather than making it easy, make it difficult. So, increase friction, add steps between you and the behavior. I find like here's two examples for me. I've tried this new thing where I keep my phone in another room until lunch each day. So, usually it's like 9 to 11 or so in the morning. My phone is down the hall. It's in a different room and I'm in my office. And it's just a chance for me to work on my own priorities rather than whatever's, you know, coming in through the phone. I'm like everybody else. If my phone is right next to me, I will check it every 3 minutes just because it's there. But if it's down the hall, it's only 30 seconds away, but I never go get it. And I always think that's interesting. You know, it's like, did I want it or not? In the one sense, I wanted it badly enough that I would check it every 3 minutes when it was right by me, but I never wanted it so bad that I'd go work 30 seconds to go get it. And I found that a lot of habits are like that. if you just introduce a little bit of friction, they kind of curtail themselves to the desired degree. So, beer is another one. I I don't think this would work if you like, you know, actually have an addiction or something. But, I've noticed that if I get like a six-ack of beer and I put it in the front of the fridge and I open it up and it's like right there and I can see it. I'll have one at dinner just cuz it's there. But, if I put it like on the lowest shelf in the fridge, like all the way in the back, I kind of got to bend down to even see it. Sometimes I'll forget. I'll have it. It'll be there for two weeks. I won't even remember that it's in there. Um, and so I think that's all about like, you know, inversion of the first law, make it invisible, and inversion of the third law, make it difficult. The the less likely you are to see it, the harder it is to do, the more steps that are involved, the less likely it is to occur. And then the final piece is the inversion of the last law, which is rather than making it satisfying, make it unsatisfying. So layer on some kind of cost or a consequence. And I in atomic habits, I call this the cardinal rule of behavior change. It's like so pervasive of a teacher, which is behaviors that get immediately rewarded get repeated. And behaviors that get immediately punished get avoided. And so obvious, but you have to ask yourself, do you have a good feeling when you do the thing that you're you want to do, the habit that you want to build? Are you getting immediately rewarded for that? And if you have a habit you're trying to avoid, what is the cost? What is the consequence? Is there something that you know feels like a punishment there? If so, then you're more likely to avoid it. If not, it gets tricky.</p>
+</details>
+
+好习惯的成本体现在当下，坏习惯的成本体现在未来。许多所谓的坏习惯在当下感觉很好，比如吃甜甜圈、玩电子游戏。只有在未来，你才会意识到它带来的代价。即使是吸烟这种经典坏习惯，当下可能让你与朋友社交，或在漫长工作日后缓解压力。但后果可能在五、十年甚至二十年后才显现。因此，建立更好习惯的关键在于找到方法，将好习惯的奖励拉到当下，让你现在就感觉良好；同时，将坏习惯的后果拉到当下，让你现在就感受到一点痛苦，意识到它实际上并没有帮助你。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">It's hard, isn't it, with like there's cookies on the counter out there. You might have noticed them as you walked in that you've got them on a little plate. Loads of No, but I'm going to grab one on the way out. But but I was just thinking about that like if I have the cookie now, I'm not going to get an immediate punishment. The only sort of immediate punishment is a bit of guilt that I might start to feel that I'm now one step further away from the goals that I've set myself in terms of fitness. Is there any way to bring forward the the punishment in areas not the punishment but the the lack the downside yeah the cost of your good habits is in the present the cost of your bad habits is in the future and so for a lot of your quote unquote bad habits it feels good in the moment you know like eating a donut feels great now playing the video game feels great now doing you know whatever like it's only later that you realize oh there was a cost associated with this even something like the classic bad habit of smoking Maybe you get to stand with friends outside and socialize or maybe you reduce stress in the moment after a long day of work. It's only, you know, five or 10 or 20 years later that you have this consequence. So, um, a lot of the game of building better habits is finding ways to pull the rewards of your good habits into the present moment so you feel good now. You don't have to wait three years for it to happen. M and pulling the consequences of your bad habits into the present moment so that you feel a little bit of the pain right now and you realize this isn't actually serving me. Which I guess is why they put the uh the photos of people's lungs on the cigarette packets. That's yeah like one of the things it's trying to do right.</p>
+</details>
+
+**习惯记分卡**（Habit Scorecard）是一种简单的评估方法。这种做法背后的洞察是，有意识的行为改变始于**自我意识**。你总是在改变习惯，无论你是否思考它们。但更有趣的问题是，你是否能设计自己的行为，按照自己想要的方式塑造习惯？这就是自我意识发挥作用的地方。不了解自己的习惯，就很难塑造它们。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">What about this um habit scorecard over there? Is that what your parents use with for swimming? So the habit scorecard just a this is just a simple like assessment. The insight behind this practice is that intentional behavior change starts with self-awareness, right? So you will you will change your habits all the time whether you think about them or not. You're you're building habits whether you focus on it or whatever. Like your your brain and body is built for it. Now the more interesting question is can you design your behavior? Can you shape your habits in the way that you want? And that's where self-awareness comes in. It's very hard to shape your habits without being aware of them. And so there have actually been some studies that have found that just the act of becoming more aware of a behavior will change it on its own. For example, there was one study that looked at people who journaled about their they created food journals for what they were eating. No tracking of anything. There's no they were not on a diet. They're not trying to eat certain way. They don't care about how many calories you have. There's no tracking or anything. All they did was simply write down what they ate each day. And just the act of journaling about it changed what people ate and reduced the the number of calories that they had and so on just because they were aware of what was happening. Um and so this is true for most habits which is once you start to notice them then you start to notice ways that you could improve them or ways that you could refine them or ways that maybe you want to do things differently. You're not operating as on autopilot in quite the same way. So the habit scorecard is just a simple way to do this. It's very it's very simple. You just write down all the habits that you're doing each day. So you can start usually there's like a package of behaviors in the beginning and maybe around lunch and then like a power down routine at the end of the day. But you know it could be something like wake up, drink a glass of water, take a shower, you know, check my phone, get dressed, whatever. Like you just, you know, go through the list of what your normal day looks like. And then once you have the behaviors written down, you give them a score. And the score is just uh if it's a good habit or a habit that you like that's contributing to your life, you put a plus sign. If you it's a habit that you feel like you want to get rid of. Um like maybe say I wake up and then I scroll on my phone for 10 minutes before I get out of bed. You're like, well, do I really want to be doing that? Maybe not. I'll give a minus sign. And then some stuff's just neutral, you know, like get dressed, you know, sure, whatever. Just put a put an equal sign. And the idea is not to judge yourself for it. It's more like sometimes I tell people it's almost like imagine when you like go to the zoo and you like, you know, look at the lions and you're like, "Oh, wow. How interesting that they would do that." You kind of like do that with yourself and you're like, "Oh, how interesting that I spend my time that you know, you're not like trying to judge yourself or analyze it. It's just let me see what I'm actually spending my time on. And then once you have that list, I think the and this is like later in the book, but there's um it becomes very useful for building habit stacks for for layering your new habits on top of the things that you're already doing. And so some of it self-awareness, some of it is priming for habit stacking.</p>
+</details>
+
+**习惯叠加**（Habit Stacking）是斯坦福大学教授 BJ Fogg 提出的概念。他的洞察是，如果你将新习惯叠加或堆叠在旧习惯之上，会更容易建立新习惯。我们每天都在执行一些习惯，这些习惯可以成为提示新行为的“锚点”。例如，你每天早上泡咖啡，然后你可以说：“泡完早晨的咖啡后，我将冥想60秒。”这就是一个基本的习惯叠加。一旦你擅长这个，你就可以将它们串联起来。例如：“泡完早晨的咖啡后，我将冥想60秒，然后写下今天的待办事项清单。写完待办事项清单后，我将优先处理它们，并开始我的第一个任务。”这样你就有了每天早上以相同方式执行的小习惯堆栈，这是一种建立简单动力的好方法。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Look at this. I like these props. This is great. All right. So, first let me let me uh just unpack the idea. Habit stacking is this concept that came from Stanford professors named BJ Fog. And his insight, which I think is great, is that it's easier to build a new habit if you layer it or stack it on top of an an old habit, a habit you're already doing. Um he calls it the tiny habits recipe, I think. But it's the insight is just that we all have habits that we're performing each day and those can become anchors. they can become cues that prompt the new behaviors that we're going to perform. So let's say that your current habit is you make a cup of coffee, right? So you're already doing this. You're going to start each day. You're going to make a cup of coffee. And the new habit that you want to build is you want to start meditating. So then you could say, "All right, after I make my morning cup of coffee, I will meditate for 60 seconds." So that this is just like a basic habit stack, right? So you start you start with coffee and then you meditate after. Now, once you get good at this, you can start to chain them together. So, for example, you could say after I make my morning cup of coffee, I will write my to-do uh I will meditate for 60 seconds and then I will write my to-do list for the day. After I write my to-do list for the day, I will prioritize them and start working on, you know, my first task or whatever. And now you have this little stack that you do the same way each morning each time. And it just is a way to like build simple momentum and get you in.</p>
+</details>
+
+James Clear 提到一个有趣的例子：一个健身爱好者总是喝蛋白奶昔，但他的财务状况一团糟。于是他把这两个习惯叠加起来：每次做蛋白奶昔时，他都会检查自己的财务状况和当天的预算。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I have I've got readers who have made like all kinds of habit stacks. The one of the funny ones that I remember is one guy um he was really into working out and he was always drinking protein shakes, but he his finances were kind of a mess. And so anytime that he would make a protein shake, he would like check his finances and check his budget for the day. He would like when I make a protein shake, I fill out my daily budget. That was like his habit stack. Um but you can do it for anything, right?</p>
+</details>
+
+### 习惯的生命周期：适应生活的不同阶段
+
+习惯也需要随着时间的推移而改变。James Clear 的写作习惯就是如此。他职业生涯的起步习惯是每周一和周四写一篇新文章，坚持了三年，写了150篇文章。但当他签下《原子习惯》的书约后，他没有能力同时做这两件事，所以习惯必须改变。他写了三年书，书出版后，他现在每周写一份简短的电子报。他的写作习惯一直保持着，只是改变了形式。人们有时会过于执着于习惯的一种形式，以至于没有意识到它不再适合自己。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Let's take my um my writing habit for example. I the habit that launched my career was I wrote a new article every Monday and Thursday and I did that for three years. So the first three years 150 articles you know write twice a week. That was a great habit. They were like 2,000 word pieces or so. But then I signed the book deal for Atomic Habits. I didn't have the capacity to do that and also write the book. So that had to change. I wrote the book for like three years and then the book came out and now I write a newsletter once a week and that's much shorter. But I kind of feel like my writing habit is maintained that whole time. It just changed shape. But that's fine. It just needed to shift based on the season. But I don't know, people, they get so attached to one form of a habit sometimes that they don't realize that it's no longer serving them. And I think that's the one of the trickier things to give up is a habit that used to be good for you, that used to work well, but no longer serves you in your current season. It's I find that I'm kind of a slow learner with that.</p>
+</details>
+
+生活中有很多转折点，比如生孩子、换新工作、搬到新城市。当你的生活阶段改变时，你的习惯也常常需要随之改变。主持人提到了**四炉灶理论**（Four Burners Theory），这个理论将生活分为四个炉灶：工作和事业、家庭、朋友以及个人健康（或自我）。这个理论认为，要让炉灶真正运转良好，你不能同时把所有四个都开到最大。如果你想让它们都做得好，你只能同时开两个。这让你意识到，生活的一个基本部分就是**权衡**。你不可能同时在所有事情上都做得很好。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I guess parents can probably really relate because they're forced to basically change their goals and therefore their systems would have to I mean you're a father of three so you probably know this much better than I do but have has there been systems that you've had to sort of I think there's lots of uh inflection points in life so having kids is one of them uh starting a new job moving to a new city you know it can be big stuff like that I just talked to a mother who her kids moved out so she's now an empty neester you know she's like last 25 years I've been parenting all these kids and now finally they're all out, but it feels in some sense it almost feels like a loss of identity. You know, you're like, I I thought I was one thing and now, you know, feels like things have shifted. Um, but also it just signals an inflection point in life and a new season that you're in. And when your seasons change, your habits often need to change with it. And you talk about this um four burners theory which I guess dovetailes into what we're talking about here where you you use this to kind of think about what habits to pursue in any season of life but also a phrase that I've heard um so often specifically from mothers on the show comes to mind which is that you can't have it all at the same time and I've heard that I think four or five times different mothers in particular which is I mean says something about society yeah have said to me that they've had to realize that they can't have it all at the same time for sure. So this is not my concept. This this idea that I came across. It's called the four burners theory. And it breaks life into these four burners on a stove. So you have work and career as one. You have family, friends, and then personal health or you know uh yourself basically as the other. The idea is that for the burners to really be going well, you can't have all four on at the same time. And burning stove. The stove. Yeah. Yeah. The stove top. So you you have you can choose you could have three going on at kind of like a mid level, but if you really want them to do well, you can only have two on at the same time. And you know, who knows? I I don't know if it's true or not or whatever, but it's an interesting idea. And what it does is it gets you to realize, yeah, a fundamental part of life is trade-offs. And you cannot be good at everything at the same time.</p>
+</details>
+
+生活是一系列季节和顺序。例如，人生中的重大阶段大约是10年一个周期。有些事情在不同的人生阶段做更有意义。例如，如果你想环游世界，可能不会在60多岁时去做。James Clear 决定在孩子还小的时候，把事业的“炉灶”调小，因为孩子只有一次5岁、一次6岁。他想陪伴他们经历这一切。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So this is true across projects. If you choose try to do seven things at once, spreading yourself thin in seven different ways, very hard to be excellent. For me, what I think about is life has a series of seasons and life has a series of sequences. So, let's say it's not it's not always exactly 10 years, but let's say the big movements in life are roughly 10-year buckets, right? So, like for me, building my first business, that was kind of like a 10-year thing and eventually led to the launch of Atomic Habits. You maybe get five or six of those in your adult life. Some of those things make sense to do in a different order than others. Like if you want to travel the world and see a bunch of places and party in a visa, you're probably not going to do that in your 60s, you know? Like I mean, you can. There's no nobody's saying you can't, but some things are probably better sequenced in other, you know, in other spots. Obviously, there's, you know, especially for women, there's a certain limit on if you want to have a family, what decades that happens in. So, yeah, it's just uh it's just a matter of sequencing and prioritization. If you look at the like tapestry of your life, what do you want the big movements to be and where do those seasons need to slot in? Um, yeah, it's a it's a that there is no right answer, but it's interesting. As soon as you realize it's a finite number, and as soon as you realize that trade-offs are always going to be a reality, you have to deal with that in some way. Um, I've decided that right now while my kids are young, like I'm I'm going to turn the career burner down. And that's fine. It's not going to be how it was for the last 10 years. But that's okay because they're only five once, you know? They're only turning six once. They only go to second grade once. And I I want to be there for all that. So, um, there are always trade-offs.</p>
+</details>
+
+### 目标与系统：追求重复胜利的秘诀
+
+James Clear 曾长期以目标为导向，他认为我们都有目标，都会思考想要的结果。但**目标**关乎你想要实现的结果，而**系统**关乎实现结果的过程。目标是靶子、结果，是你追求的东西。系统是你每天遵循的习惯集合。如果你的目标和系统之间存在差距，你的日常习惯总是会胜出。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I was very goal driven for a long time. I I mean, I probably still am. You know, I don't think there's any way to get around the fact that we all have goals and think about the outcomes we want and so on. But a goal is about the outcome that you want to achieve and a system is about the process for getting there. And so your goal is the target, the outcome, the thing you're shooting for. Your system is the collection of daily habits that you follow. And if there is ever a gap between your goal and your system, if there's ever a gap between your desired outcome and your daily habits, your daily habits will always win, you know.</p>
+</details>
+
+几乎可以说，你当前的习惯是完美地设计来产生你当前的结果的。如果你想知道自己会走向何方，只需跟随你习惯的轨迹。当然，习惯不是生活中唯一重要的事情，策略、运气、随机性、不幸都会影响结果，但运气和随机性不在你的控制范围内。生活中唯一合理的方法是专注于你可控的部分。
+
+<details>
+<summary>View/Hide Original English</p>
+<p class="english-text">And so almost by definition, your current habits are perfectly designed to deliver your current results. You know, if you want to see like where you're going to end up, just follow the trajectory of your habits. you know what's the process you've been running for the last 6 months or year or two years and they've carried you almost inevitably to the outcomes that you have right now I'm not saying that habits are the only thing that matter in life right like strategy matters luck randomness uh those misfortune those things can influence the outcome but by definition luck and randomness are not under your control and your habits are and the only reasonable rational approach in life is to focus on the pieces that are within your control so I think goals can be good for setting a sense of direction. They're good for clarity. You know, especially if you have a team, get everybody rowing in the same direction. But once you've decided what the goal is, you should basically set it on the shelf, metaphorically speaking, and spend the vast majority of your time focused on building a better system. How are the habits we're executing each day moving us closer to this outcome that we want? And so where I've come after talking about this for five or six years now since book's been out, where I've come down on it is goals are best for people who care about winning once. Systems are best for people who care about winning repeatedly. If you really want to make progress again and again, if you want to get to the top and stay at the top, you need some process for staying up there. Some collection of habits that's going to keep uh this machine running. So this is why, you know, I say in the book, we don't rise to level of our goals, we fall to level of our systems.</p>
+</details>
+
+目标可以很好地设定方向，带来清晰度。但一旦你决定了目标，就应该把它放在一边，将绝大部分时间花在建立更好的系统上。James Clear 总结道：**目标最适合那些只在乎赢一次的人，而系统最适合那些在乎重复赢的人**。如果你想一次又一次地取得进步，如果你想达到顶峰并保持在顶峰，你需要一个保持在那里的过程，一个能让这台机器持续运转的习惯集合。这就是为什么他在书中说：“我们不会达到目标的水平，我们会跌落到系统的水平。”
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Goals are best for people who care about winning once. Systems are best for people who care about winning repeatedly. If you really want to make progress again and again, if you want to get to the top and stay at the top, you need some process for staying up there. Some collection of habits that's going to keep uh this machine running. So this is why, you know, I say in the book, we don't rise to level of our goals, we fall to level of our systems.</p>
+</details>
+
+主持人提到，他采访过的最伟大的创始人，实际上都非常注重**第一性原理**（First Principles）和系统。James Clear 认为，这部分可能与个性有关，但也有一些问题可以帮助你弄清楚应该关注哪些系统。例如，你可以问自己：“我当前的习惯能把我带到我想要的未来吗？”有时答案是肯定的，你只需要耐心坚持下去。但有时答案是否定的，那么显然就需要改变。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">As you were talking, I was thinking so much about about business and founders and entrepreneurs because they all have big goals. We want to build the best AI app or the best I don't know restaurant and we they stay really focused on those. But the great the greatest founders that I think I've met and interviewed on this show are actually really orientated on like what you call in the book first principles and systems. Mhm. Is there a way to to become more orientated towards systems and and thinking about first principles like the the habits that lead to the goal is or is it just just so that some people have it cuz like Elon Musk is always talking about first principles and he thinks in terms of building the system. I do think some of it is personality and like what you what's exciting to you to think about like some people are very future oriented and like thinking about what the systems are and what that would lead them to and and so on um or more processoriented but there are a number of questions that you can ask that can help you figure out like what systems you should be focused on you know so like a couple of the ones I like one question is can my current habits carry me to my desired future so you have a bunch of habits you're following right now what what path are you on you know can your current habits take you there? And they could be either way. Like sometimes the answer is yes. And what you need is patience. You just need to keep, you know, staying on the path. But sometimes the answer is no. And then obviously something needs to change. You know, you're hoping for one outcome, but then you're following a different lifestyle.</p>
+</details>
+
+想要结果却没有相应的生活方式，只会折磨自己。真正重要的是你是否想要那种生活方式。James Clear 每次考虑新的商业项目时，第一个问题是：“我希望如何度过我的日子？”然后，在这个框架内，他会思考如何赚最多的钱、触达最多的人、产生最大的影响。许多时候，人们会反过来做：他们先问如何赚最多的钱，然后才决定这就是他们想做的事情，但这实际上超出了他们希望如何度过日子的范畴。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So to want the outcome without the lifestyle is to like torture yourself. And what really matters is not do you want the the result. Anybody would like the result if you just hand it to them. The question is do you want the lifestyle? One of the little things I try to do whenever I have a new business project that I'm thinking about or something I'm I'm excited about potentially doing, the first question I ask is how do I want to spend my days? And so then you like draw a box and inside that box, how can we make the most money, reach the most people, make the biggest impact, you know, make the contribution that you want to make, but not outside of it. And what happens a lot of the time is people do that in reverse. They start by asking how can we make the most money or reach the most people or make the biggest impact and then they decide oh well this is what I want to do but it's actually outside of how they want to spend their days and it's not going to work out well because you know it goes back to our point uh previously about is this fun you know if the if they don't want to spend their time that way you're just grinding for a little while and eventually it's not going to work. That's the key for building systems that really work is is this how you want to spend your days. the person who wants to live the lifestyle is much better positioned to get the result.</p>
+</details>
+
+James Clear 指出，目标存在多个问题。其中之一是，赢家和输家拥有相同的目标。每个人都想要结果。例如，100人申请一个职位，所有候选人的目标都是得到这份工作。目标并不能决定结果。奥运会上，每个参赛者的目标都是赢得奖牌。所以，目标并不能带来差异。如果目标相同，它们就不能成为决定表现差异的因素。这必须是其他东西。也许有目标是其中一部分，是必要的，但不足以达到你想要的结果。为此，你需要一个系统，一个能够带来差异并累积成更大结果的习惯集合。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">You say that um there are multiple problems with with goals as a I guess as a rubric for thinking about what to do or what to aim for. One of them is that winners and losers have the same goals. Everybody wants the results. Let's say you have a 100 people apply for a job. You got a new job opening. Presumably, every candidate has the goal of getting the job. The goal is not the thing that determines the outcome. So the person who wins and the 99 people who lose, they have the same goals. You look at the Olympic Games, presumably any event, everybody who's competing has the goal of winning the Olympic medal, right? Of winning the gold. So the goal is not the thing that makes the difference. So again, winners and losers have the same goals. So if they have the same goals, they cannot be the thing that make the difference in their performance. It has to be something else. Maybe having a goal is part of it. Maybe it's necessary, but it's not sufficient for the outcome that you want. And for that, what you need is a system. You need a collection of habits that are going to make the difference um and uh and accumulate into a bigger outcome.</p>
+</details>
+
+目标还会限制你的幸福感。我们内心深处有一种隐含的承诺：一旦达到这个目标，我就会快乐。例如，一旦写出《纽约时报》畅销书，我就会感觉更好；一旦体重达到某个数字，我就会对自己的身体满意；一旦收入达到一百万美元，我就会对生意满意。你总是把幸福推迟到下一个里程碑，认为一旦达到那里，你最终就会满足。但James Clear 认为，更好的方式是**爱上过程，爱上生活方式**，这样你可以在过程中感到快乐，同时仍然实现目标。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And you say goals restrict your happiness. There's some implicit promise internally that once I get to this goal, then I'll be happy. You know, once I write a New York Times bestseller, then I'll feel better about it. You know, once I achieve this certain number on the scale, then I'll be happy with my body. Once I get to a million dollars in revenue, then I'll be happy with the business. And so you're kind of constantly pushing happiness off to the next milestone and thinking that once you get there, then finally you'll be satisfied. But I think in fact the better way to do it is to fall in love with the process, to fall in love with the lifestyle, then you can be happy along the way and still achieve the goals as you go, still achieve the milestones.</p>
+</details>
+
+James Clear 曾纠结于一个问题：如果我想有动力，我是否必须感到不满足？他认为，健康的答案是：想象一颗橡子从树上落下，生根发芽，长成幼苗，然后长成成熟的橡树。在这个过程中，橡子从未批评自己不是幼苗，幼苗也从未批评自己不是橡树。它从未对自己的现状感到不满足，但它一直在成长。所以，你可以在每个阶段都感到完美和满足，同时又不断成长。这是因为橡树就是这样被编码的，它被编码为成长。当你将自己置于正确的位置时，你就可以同时拥有动力和满足感，既能欣赏当下，又能向前迈进。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">For a long time, I wrestled I had trouble with this question of do I have to be dissatisfied if I want to be driven? Yeah. Do you have to be dissatisfied to be driven? Because to me, I felt like there's where I'm at right now and there's where I want to be. And so there's this gap and there there that gap is dissatisfaction. That gap is, you know, you're you want it to change. You want it to close. And it's also what is motivating and driving you is to try to close that gap. And so the healthiest answer, maybe the answer is yes, I don't know. But uh the healthiest answer that I've come up with is imagine like an acorn falls from a tree. it manages to take root, becomes a seedling and then a sapling and eventually grows into this mature oak tree. And at no point in that process when it was just an acorn, it wasn't criticizing itself for not being a sapling. You know, it was just a sapling, it wasn't criticizing itself for not being an oak. Um, it wasn't dissatisfied with where it was at. And nobody came over and was criticizing it for, "Oh, I can't believe you're not a full-grown tree yet." But it kept growing the whole time. So simultaneously you have this thing where it was both perfect at each stage that it was at. Nothing was wrong and yet it continued to grow. And the reason is because that's just what an oak tree does. That's what it is encoded to do. It is encoded for growth. And so when I look at myself, I think if I put myself in the right position, that's how I feel about it. You know, I I am perfectly happy with where I'm at at each stage. And yet I'm encoded to grow, right? I'm encoded to keep going. And so I can both be driven and be satisfied. I can both be appreciative of the moment and still moving forward. And I think that works best when you find that thing. Sometimes we call it your strengths. Sometimes we might say it's what you're encoded to do. Uh but when you find that thing that is well aligned for you and if you do find that, then you can have both of those.</p>
+</details>
+
+主持人提到，随着年龄和成熟，他越来越意识到没有任何成就或未来能让他更快乐，但同时他仍在努力。这似乎是一个矛盾。James Clear 认为，**比较**既有帮助也有害。如果比较小的事情，比如营销策略、深蹲姿势或写作风格，那会很有帮助，可以帮助你提升技能。但如果比较婚姻、净资产等大事，那只会让你不快乐。当规模变大时，事情会变得模糊，你只看到一小部分，却试图比较这两个大东西，而你甚至不知道全貌。所以，当狭隘地运用时，比较是技能的老师；而当广泛地运用时，它是快乐的窃贼。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I love that. I love that. And I think with with age and maturity, I've gotten closer to being in that region where I'm well aware nothing is going to make me happier at all. like no accomplishment future nothing's going to change anything but at the same time I'm still striving and that does feel like a contradiction to some degree it feels like how can those two things be true at the same time that you're striving for things that you know won't really move the needle in any any way the difference I see between like me and something in nature is that I the thing in nature probably isn't comparing itself on Instagram to like everyone else and I understand humans to be like comparison machines kind of how we understand the value of things like I understand the value of the steak on a menu by the the cheap steak and the most expensive one. So I think the middle one is probably right. Do you think much about comparison as a motivating or demotivating force in this picture? I think it can be very helpful and also it can also be very harmful. So it's just sort of a a sense of how you use it. I tend to find it better if you compare small things. So if you compare marketing strategies or squat form or you know writing style or you know the first sentence of each chapter like how do I have a good intro? If you compare tactics, then that can be really helpful for building skills and for developing your ability. If you compare big things, marriage, net worth, you know, things like that, it's like that's just kind of a recipe for ending up unhappy. Um because they as the scale gets bigger, things get more vague. There's so many things involved in marriage and so you know, or net worth or whatever. You you just see one little slice and you are trying to compare these two big things, but you don't even know what the full picture is. Uh, and so comparison is like the teacher of skills when it's applied narrowly, but it's the thief of joy when it's applied broadly.</p>
+</details>
+
+### 1%法则：微小改进的复利效应
+
+主持人提到，他有30个想养成的习惯，比如想更好地写作、跑步、演讲、做更好的朋友。James Clear 认为，与其花很长时间做决定，不如先选择一个习惯并开始。一个好的起点是问自己：哪些习惯是其他好事发生的**上游**？例如，睡眠、锻炼、阅读和写作。如果他能确保锻炼和阅读5-10分钟，这往往会引发写作。锻炼后，他会感到精力充沛，专注力更好，晚上睡眠也更好，饮食也更健康。这些都是锻炼带来的自然结果，而不是他刻意去培养的习惯。所以，找到那些能引发其他好事的“锚点习惯”很重要。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">That makes sense. Yeah. Early on, when you said that, you know, ambitious people, they have lots of aspirations, lots of habits they want to start. I was thinking about myself and thinking there's probably 30 habits that I would like to acquire. I'd want to be better at writing. I want to be a runner. I want to be better at speaking. I want to be a better friend and be more um attentive with my friends and make sure I text them on their birthdays and sh you know all of these new habits that I want to pursue. How does one know which one to aim for first? Is there a framework for knowing? Yeah, there there's some things that you can do. I don't think um to your point earlier about uh sometimes the riskiest things just take a long time making a decision. You know, if you maybe you should just pick one and work on it and then you can get on to the next one. But I do think there's some level of strategy which is a good place to start is by asking yourself which habits are upstream from other good things happening. So for example I know that if you were maybe the maybe the question to start with is when you live a good day when you feel dialed in when things are like rolling along well for you what tends to be part of that day sleep. you know, okay, great. So, that's, you know, I would say for me, sleep, sleep is definitely one. I would say, uh, getting my workout in. And usually reading and writing are a part of it, but I think I could just boil it down to reading. If I just read like 10 pages, that often sparks the writing. So, like to me, reading is like the fuel for writing for me. So, so I could say get a workout in and read for 5 minutes or 10 minutes. Those are the two things that are part of a good day. And what happens is they're upstream from a lot of other good things happening. For example, if I get the workout in, yeah, I feel good. I get the benefits of the workout, but I also have a post-workout high for like an hour or two. So, I my focus and concentration is better. I sleep better at night because I got the workout in. Now, I'm tired. I tend to eat better when I work out. It's when I'm not working out that I eat terribly. That's why I don't know. It's kind of like I don't want to waste it or something. So, at no point was I trying to build better focus habits or sleep habits or nutrition habits. those just came kind of a na as a natural consequence of getting the workout in. So what are those things that you do that are upstream from other good things happening? I think those are good like anchor habits to start and focus on.</p>
+</details>
+
+另一个重要的习惯是**反思和回顾**。如果你有很强的工作道德，努力工作让你在生活中走得很远，这有时会成为一种拐杖。James Clear 曾认为，遇到问题时，只要努力工作就能解决。这在很多情况下都很有效，但总有一个极限。然而，如果你做对了事情，你可能会得到100倍甚至1000倍的结果。如果你只是埋头苦干，很可能没有以最高效的方式利用时间。唯一弄清楚这一点的方法就是花时间反思和回顾。反思和回顾几乎是所有习惯之上的**元习惯**（meta-habit），因为如果你给自己时间反思和回顾，你就能发现习惯中的问题并进行调整。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But if I could add another one for myself, I would say it's a little bit of time. It's really just time to think, but it's it's time to reflect and review. There's this interesting thing that happens if you if you have a really good work ethic, if you have a strong work ethic and working hard has gotten you far in life. It kind of becomes a crutch. You know, you for for a long time I was like, if I ever had a problem, I was like, well, I'll just work my way out of it, you know? I'll just just work harder on it until I figure it out. And that that's great. That's really powerful for a lot of things. But at some point it breaks, you know, like you can maybe if you really try maybe you can work 10% harder or 20% harder, but there's some limit. But if you work on the right thing, well, you could get 100x the result or thousandx the result. And so if you just keep your head down and work hard, it's very unlikely that you'll be spending your time in the highest and best way. And the only way to figure that out is to have time to reflect and review. Time to think, you know, so you need enough time to think to figure out what should I be focused on next. And so I think that is it's almost reflection and review is almost like the meta habit that is above all others because if you give yourself time to reflect and review then you can troubleshoot your habits and figure out how to adjust them.</p>
+</details>
+
+主持人提到，反思和回顾也是对当前系统是否让你更接近目标的审视。有时我们过于投入，以至于没有停下来思考是否有更好的系统来解决问题，例如是否需要雇人而不是自己亲力亲为。此外，系统有时也会过期，因为情况会发生变化。James Clear 认为，这是习惯中最常被忽视的一点。人们在建立新习惯时，常常假设成功意味着终生坚持，一旦中断就意味着失败。但事实并非如此，事物都有其季节性，习惯也需要随时间改变形式。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I was thinking as you were saying that that that that time to reflect and review is actually also a review of are my current systems moving me closer because when when when you're talking about that I was thinking of times in my life where I was so close to like the picture and I was so in the trenches doing the thing that I hadn't come up to even say actually is there a system I could put in place to solve this problem over the next five or 10 years like for example is there a person I need to hire so actually should I go into the hiring process versus be in there fixing the problem myself should I spend 10 hours this week hire on hiring a candidate to do this or should I be doing it but sometimes you get so caught up in the trenches when especially when things are tough and and difficult and moving very quickly that you don't review your systems and also when you're talking about systems I thought about how systems sometimes expire. Sure. Yeah. Because things change. That's a great point and I think this is probably one of the most overlooked things with habits. A lot of the time when someone sits down and they want to build a new habit, they don't say this, but what they kind of assume is what it would mean to be successful with this habit is that I do it for the rest of my life, you know, and that if at some point I'm not doing it, then that must mean that I failed or I quit on it. But that's not how it is at all. Like things have a season, you know, and so habits have to change shape over time.</p>
+</details>
+
+### 心态与韧性：学会如何“输”才能赢
+
+James Clear 认为，**获胜的秘诀在于学会如何“输”**，即如何应对失败并反弹。他从体育运动中学会了这一点。在团队面前失败，比如比赛中关键时刻失误，或者在训练中表现不佳，感觉当然不好。但你很快就会意识到生活仍在继续，你必须继续前进，下次再出现。每一次小小的失败都是你反弹的练习。生活中需要有这样一种经历，教你如何应对失败，如何从失败中反弹，最终才能获胜。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I have this little theory that the secret to winning is actually learning how to lose. It's that the secret to winning is knowing how to lose. Um and what I mean is that it's knowing how to handle a loss. It's knowing how to rebound and bounce back from that. I think that I learned it through sports. I don't think sports is the only way you can learn it. I think probably anything that you do with some level of public visibility could teach you. you know, musical performance or being in a fitness group with your friends or there's lots of ways you do it, speaking publicly. But one thing about sports is that you're going to fail in front of the rest of the team, you know, like the ball will come to you'll start make the strikeout to end the game or like you know, you go uh into the gym and work out with the team and like you miss a lift or you're the weak one or whatever. Like that doesn't feel good, but then you realize life moves on and you got to go on to the next set and you have to show up again the next time. And each little instance where there's like a little failure like that is practice for you to bounce back again. And I think it's important to have something in life that's like that that's teaching you how to respond to failure. That you're learning how to lose and how to bounce back from a loss so that you can ultimately win.</p>
+</details>
+
+在职业生涯后期，James Clear 达到了这样的境界：他不想输，但如果一定要输，他宁愿是自己承担。他可以承受失败，他会尽力争取胜利，但如果输了，他也能反弹。这种心态在他的创业生涯中非常有用，因为事情不可能总是顺利。你需要愿意尝试，愿意有时看起来很傻，但仍然能再次出现。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I got to the point at the end of my career um my senior year where I was basically like listen I don't want to lose but if we're going to lose I'd rather it be me. I'd rather be out there. Give it put it on my shoulders. I can take the loss, you know, I can I can handle it. I I'll give you everything I have to try to get us to win, but if we lose, like, I'll be able to bounce back from it. And I think that that ended up serving me really well in my entrepreneurial career because stuff is never going to go your way all the time. Um, and you need to be able to try, be willing to try things and be willing to sometimes look foolish because of them and still find a way to show back up the next time.</p>
+</details>
+
+主持人提到了 Roger Federer 的毕业演讲，他职业生涯中错失了大约47%的分数，这意味着他有一半时间都在“输”。但不同之处在于他如何应对失败，不让一次失误影响下一球。主持人还分享了他朋友 Ash 的例子，Ash 在输掉一分后会陷入螺旋式下降，开始错失简单的球。主持人告诉他，输掉一分后，在心里默念：“这一分不重要。我仍然会赢下这场比赛，因为我是更好的球员。”结果 Ash 立刻从团队中的第五名变成了击败所有人的第一名。这表明，关键在于你如何应对失败。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Reminds me of watching Roger Fedra's commencement speech. He's arguably the best tennis player of all time. And shockingly, in his commencement speech, I don't know if you saw it, he talks about how in his career he's missed something like 47% of the points. So, he's the best to ever do it. And he's he only in his career has won 53% of the points, which means that half the time he's taking L's. But the difference is what he does when he takes the L and not allowing that L that that missed point to compound into what his next shot. M and I was in LA with my friends for my birthday. My friend Ash, who's had the most paddle training. We were playing paddle. We do, that's what we do basically all the time when we see each other, our group of friends. He'd had the most paddle training. He's been in Spain with a coach. But when he lost a point, he would then start losing easy points. And there's this photo of me watching him play and I'm like, "What the hell's going on with him?" Like, he's the best. He's meant to be the best player. He's got the most practice, most repetitions. But when he loses a point, this downward spiral takes place where he just starts missing easy shots. So when he sat down, I told him about Rod Roer Fedra's thing. And I gave him this little idea in his head to to handle the loss. And I said to him, when you lose the point, say in your head, that point doesn't matter. I'm going to win this game anyway because I am the better player. And I still get goosebumps when I say it because he went from being the fifth best in our group of five to beating all of us immediately. And there's there's it's so funny cuz my girlfriend and everyone here knows like he was like dancing through the house the same day. He beat all of us. I had never been beaten by him. I have a pal in my garden. Like he beat me immediately. And all it was was was making sure that when he took an L, he didn't spiral into his emot the emotional center of his brain and start catastrophizing which he's susceptible to if you know him. He went straight back into the prefrontal cortex, the rational center of his brain. And he and he said he and you know he's posted about it online and I actually part of my Asia tour recently was I showed all the videos and all the WhatsApp messages of this whole thing happening. But it just goes to show that actually it's how you take the L.</p>
+</details>
+
+James Clear 认为，这是一种**“下一球心态”**（next play mentality），不让上一次失误影响你，而是继续前进，做出下一个最佳选择。情绪常常会破坏我们的训练。这与《网球的内在游戏》（Inner Game of Tennis）一书的核心思想一致：不要陷入自己的思维困境。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I love those mindset shifts. It's just a it's living life with a next play mentality, you know? It's like you don't let the last play dictate you or like ruin you. It's we have to move on and make the next best choice now. We have to we have to live for the next play. Um and how much emotion just like ruins our training. Sure. You know. Yeah. I feel like a lot of this is there's a great book Inner Game of Tennis um that came out many many years ago. Might even be 50 at this point. Um but it's basically all about this. It's about not getting in your head. And it's it's specifically for tennis, but it applies to life, you know. It's it's just about um yeah, it's moving on and having this next play mentality.</p>
+</details>
+
+Sir David Brailsford 曾说，他带领英国自行车队时，主要目标之一是让他们在比赛中不要思考比赛。他训练 Chris Hoy 的全部内容就是让他停止思考当前的比赛，当 Chris 达到个人最佳成绩时，他会下车，对骑行过程毫无记忆，就像在自行车上睡着了一样。因为如果他开始思考时间，就会骑得太用力，耗尽体力，偏离训练。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So David Braford said that to me as well about one of his main objectives when he had the cycling team was to get them not to think about the race while they were on the race. And he said, I think it was Chris Chris Hoy or someone. He said my entire training with Chris Hoy was getting him to stop thinking about the current race he was in. and that when Chris was hit his personal bests, he would get off the the bike and have no recollection of cycling. He goes to the point that it was like he was asleep on the bike because when the alternative meant that Chris would start thinking about his time and then cycling too hard and exhausting himself and fall out of his his training. So, fascinating fascinating um you talk about daily mental mindsets as well. Is it important to adopt a particular daily mental mindset?</p>
+</details>
+
+James Clear 曾想雇一位心理表现教练，每天早上给他五分钟的激励讲话或心态转变。他为此开发了一个名为**《原子习惯》每日日历**（Atomic Habits Daily Calendar）的小项目，它融合了《原子习惯》、《原则》和他的每周电子报“3-2-1”的理念，每天一页，提供一个小小的思维转变，帮助你以积极的心态开始新的一天。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Well, I um I had this thought that uh one time I had this thought that it would be cool to be able to hire a mental performance coach who just did one thing. So you you hire this coach and then they call you up each morning like 8 a.m. or something and they give you like a five minute pep talk, you know, or just they give you like a five minute mindset shift, just something little kind of like what you said to your friend, you know, and just like you get this little mindset shift to reset your day and go into it with momentum and they hang up and you just go do your thing. Um, and you know, I I couldn't find anybody who, you know, could do that, but I've been working on this little project where I've been trying to figure out how to do it. And so, I came up with, it sounds almost kind of silly, but I'm really excited about it. I came up with this Atomic Habits daily calendar. And the idea is just, it's actually like a blend of Atomic Habits, Principles, and 321, which is my weekly newsletter. And I just have like one little mindset shift that's on each page. And it's just one page for each day of the year. You just look at it, read that page, boom, go into your day. And like it's just intended to be a little mindset shift. Anyway, it's a it's just a small thing, but I like I like the idea of priming yourself to start the day in the right way. And um I don't know. I didn't think that I would be excited about a calendar, but I'm I'm kind of excited about it. I kind of feel like it it could be good. So, is it coming out? Yes, it'll be out in uh it'll be out soon. Yeah. Okay. And where where would we find that? Do we sign up to the uh It's on Amazon. You can you can go there or you know, you can go to jamesclair.com and you'll you'll find it there. But um yeah,</p>
+</details>
+
+### 能量管理与时间控制
+
+神经科学家 Dr. Lisa Feldman Barrett 提出了**身体预算**（body budget）的概念，我们拥有的能量是有限的。这意味着我们不应该承担过多的任务，并且要合理安排任务的顺序，将最重要的任务放在一天开始的时候。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">On that point of um doing things in the morning and generally having less energy later in the day, do you do you think much about h how to manage your own energy? It's I spoke to Dr. Lisa Feldman who's a neuroscientist who came up with this concept of like the the body budget that we have this finite amount of energy. And since then it's really had a big impact on me because I start in so many ways that we've talked about. One of which is I try I try to not try and take on too much because if in a world where my energy on a daily basis is finite I don't want to get to the end of my body budget but also the order of things like do I put my most important tasks today at the beginning of the day etc etc</p>
+</details>
+
+James Clear 认为，除了能量管理，**控制力**也很重要。我们每天都有24小时，但对不同时间段的控制力是不同的。例如，早上7点到8点，如果你有孩子要穿衣服，这段时间就不太受你控制，不适合冥想或锻炼。因此，你需要规划你的一天，看看哪些时间段能量最好，哪些时间段控制力最强。然后问自己：哪些事情正在占据我最好的时间，哪些事情只得到了我的“剩饭剩菜”时间？如果你发现重要的事情只得到了“剩饭剩菜”时间，那么就需要改变。理论上，你应该把新的、困难的习惯放在你控制力最强的时间段。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I would layer so yes I do think about this a little bit uh and I've heard this like you want energy management not time management you know construct the other thing that I would add to it that I don't know that I've ever heard anybody talk about is control so the Um, the standard thing that everybody says is, "Oh, we all only have 24 hours in a day." Which obviously is true, but if you were to break that into like 24 1-hour chunks and just look at your day laid out that way, you have different levels of control over certain 1 hour chunks than others. Um, so for example, the, you know, what I said a minute ago, like if you have a bunch of kids and you're getting them dressed from like 7:00 to 8 a.m., that hour isn't that much under your control. It's not a good time to meditate. It's not a good time to work out. There's other responsibilities that tend to happen in that hour. And so I think that's an interesting thing too is to map your day out and look at this and say, "All right, which hours are is my energy the best and which hours are most under my control?" And then you can start to see like where you're ultimately what I think you're getting to is what are the good hours for me? You know, like where do those live throughout the day? And then the next step is to ask what is getting my best hours and what's getting my leftovers. And I I have had a couple different times where I've looked at things and said, "I say this is important to me, but really it's only getting my leftover hours." And so then you're like, "Okay, something might need to change." So I I think about all of that. I think about where's uh how much time do I have in general? Where are the pockets where I have the most energy or the best energy? Um and then also where are the pockets where I have the most control? And then you try to figure out how to slot stuff in. And theoretically, you'd want to put the new hard habits you're trying to form in areas where you have the highest degree of control versus like 11 p.m. at night. Uh, right. I Yeah, I think I think in general, that's right. It's it's so tricky when you have multiple things that really matter to you. You know, it's it's like, all right, you're choosing between family, you're choosing between work, you're choosing between personal pursuits and these new habits you're trying to build. Like, everything's got to kind of work together. And so, it's a balance of of shaping all of that.</p>
+</details>
+
+### 《原子习惯》的深层含义与幸福观
+
+James Clear 最终选择“原子习惯”（Atomic Habits）这个词有三个原因：
+1.  **微小**：像原子一样微小，习惯应该小而易行。
+2.  **基本单位**：原子是更大系统中的基本单位。习惯是你一天中的小单位，它们共同构成了你的日常。
+3.  **巨大能量源**：原子是巨大能量或力量的来源。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">There's I ultimately chose the phrase atomic habits for three reasons. There's there's three meanings to the word atomic. The first is tiny or small like an atom which obviously I think your habit should be small and easy to do. The second meaning is the one we're talking about now and the one people often forget which is an atom is a fundamentally unit in a larger system. So atoms build in molecules, molecules build in compounds and so on. And your habits are kind of like the little units of your day. You know, collectively you put them together and you have your daily routine. And then the third meaning is the source of immense energy or power.</p>
+</details>
+
+将这三点结合起来，你就能理解这本书的叙事弧线：你做出微小而易行的改变，将它们像更大系统中的单位一样层叠起来，最终你将获得强大而卓越的结果。这就是《原子习惯》背后的理念。你做出这些微小的改变，不是一个，而是数百个或数千个，它们共同创造出强大而令人印象深刻的生活。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And so if you put all three of these together, you kind of understand the narrative arc of the book, which is you make changes that are small and easy to do. You layer them together like units in a larger system and collectively you get this powerful remarkable result as a process and so or as a consequence and that is the idea behind atomic habits. You make these small changes and it's not just one it's like a hundred or a thousand of them and collectively they come together to create this powerful impressive life.</p>
+</details>
+
+关于我们是否应该以**幸福**为目标，James Clear 认为我们应该区分幸福与意义。他指出，生活中有很多时刻他是快乐的，但《原子习惯》是他做过的最有意义的项目之一，它帮助了很多人。在写作过程中，他并不总是快乐的，有时非常困难和艰辛，但它提供了巨大的意义。所以，他认为即使当下不总是快乐，也是值得的。习惯不会让你永久快乐，但它们会带你踏上一段旅程，其中包含快乐和意义。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Powerful impressive life. Do you think that we should all be aiming at this is a bit of an interesting word but happiness is that should that is that the north star that our habits should ladder up towards or fulfillment or whatever one might say or meaning for first of all I think we should distinguish between happiness and meaning you know or happiness and purpose or something fulfillment I don't think they're necessarily the same you know like there are many moments in my life when I am happy uh and that can be in the moment and a lot of the most meaningful things that I worked on you know atomic habits was one of the most meaningful projects that I've worked on. It seems to have made a big difference for a lot of people or helped a lot of people. I feel great about that. But I wasn't necessarily happy every minute that I was working on it. You know, like it was it was quite difficult in lots of different times and it took a long time and it was arduous and so on, but it provides a lot of meaning. So, I definitely think it was worth it even if I wasn't always happy in the moment. So, I don't know that you should necessarily optimize for any of that all the time. Um, you know, I don't think your habits will lead you to some place where you are just permanently happy. Um, but they will definitely take you on a journey where happiness is part of it and where meaning can be part of it. Um, and there are lots of other things that are parts of life too. But, uh, yeah, I I think that you will be well served to invest in them for sure.</p>
+</details>
+
+### 结语：James Clear的影响与致谢
+
+主持人感谢 James Clear 改变了许多人的生活。他的作品，包括《原子习惯》和“3-2-1”电子报，对无数人产生了深远影响，帮助他们戒掉坏习惯，延长生命，并为许多人创建自己的电子报提供了蓝图。James Clear 对此表示感谢，并表示能看到人们觉得他的作品有用，感到非常棒。他最初的目标就是努力做到有用和有帮助。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">James, thank you. Thank you for um changing so many people's lives. You must hear this all the time, but what a remarkable remarkable um impact you must have had on so many people you'll never get to meet. Getting them to quit habits that would have otherwise been fatal for them. You know, my dad is a prime example of someone who was smoking for 20 odd years of his life. He starts reading about these habit cycles in your work, but in other people's work as well, and he's quit smoking and that's probably extended his life to some degree. And that's one such example of I'd say 25 million because I know the Atomic Habits has sold 25 million, but you've reached many many many millions of people through your newsletter as well, 321. um which is the I mean the newsletter has kind of created a blueprint for anyone that writes a newsletter. Frankly, I think everybody looks up to your work and what you've built as the the framework for starting their own newsletters. And you know, you never get you'll never get to see the downstream impact of the work you've done. But on behalf of everybody who's had their life ch changed because of the hard work you've put in and your obsession and your focus and your passion and these incredible works of art that you've written and that you didn't rush. Um, thank you and thank you on behalf of myself because your h your work has been super formative in how I think about business, how I think about my team. Um, and many of the phrases that we use in our office every single day to build the companies we've built have come from your work as well. Everybody needs to go out. I mean, if you don't have Atomic Habits, then I don't know what you've been doing with your life. But, um, now that the Atomic Habits workbook is here, you now have a much more um, self-awareness inducing, practical, hands-on framework for implementing some of the stuff you've read in Atomic Habits. Now, I'm going to link both of them below so everybody can go grab them. But also, your James' newsletter is phenomenal. So, I'll link that below as well. We do have a closing tradition on this podcast where the last guest leaves a question for the next guest not knowing who they're leaving it for.</p>
+</details>
+
+主持人提出了上期嘉宾 Kamal Harris 留下的问题：“你认为统一持有不同甚至冲突信仰的人们的最佳方式是什么？”James Clear 认为，最佳方式是**缩小范围**。如果你说“我们如何拥有一个更统一的国家”，这太宏大、太模糊，几乎不可能解决。但如果你缩小范围，例如“如何拥有一个更统一的社区”，你就可以想出很多办法，比如成立读书俱乐部或举办街区派对。生活中很多问题在某个层面上是难以解决的，但如果你改变所处的层面，新的解决方案就会显现。这不仅适用于宏观问题，也适用于你的习惯。如果你思考“如何拥有更好的生活”或“如何找到人生目标”这样的大问题，它们往往过于模糊和宽泛。但如果你缩小范围，问自己“今天如何过好一天？”或“如何过好接下来的一小时？”，这些层面就更容易实现。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Question that has been left for you. Dear next person in the chat, what do you believe is the best way to unify people of differing or even conflicting beliefs? Let me know your thoughts. Best Kamal Harris. I think the best way is to scale it down. You know, if you say, "How can we have a more unified nation, it's big, it's vague, it's it's almost impossible, it's like an intractable level." But if you scale it down now, you can come up with things. You know, how can you have a more unified neighborhood? You could start a book club or do a block party or you can come up with all kinds of things that you could do. And what you find is that in many cases in life, problems are intractable at a certain level, at a certain scale. And if you shift what level you're at, suddenly it reveals itself and there's a new solution. And so I think that is obviously true uh with big picture things like like the question I was asked but it's also true for your habits. You know if you think about your life in general and you say how can I have a better life or how can I figure out my purpose? How can I figure out you know how to have a life of meaning? These are big hard questions. They're sometimes they're almost intractable. They're too vague. They're too broad. But if you can scale it down and say how can I live a good day today or how can I have a good week? How can I have um you know a good next hour? how can I make this minute as perfect as possible? Well, those those levels are much more achievable. And so, I think if you scale your habits down to a level that's more solvable, you'll often see that there's a path forward there.</p>
+</details>
+
+James Clear 解释说，这同样适用于个人生活。你时间中的每个单位，每个小习惯都是相互关联的。你将习惯组合起来，最终形成一个影响你每天和每周行为的系统。所以，掌握这一小时，会让下一小时也变得更好。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">What's interesting with your neighborhood analogy as well is that neighborhoods are interconnected. So, if I if I focus on making my neighborhood good, then that kind of just crosses over with the next neighborhood. Like thinking about my street where I used to live and so if that neighborhood becomes good, it's going to then hit the next domino, which is the neighborhood next door. and then eventually called which is also true for your personal life. You know your each unit of time each little habit is connected. You know you put your habits together and you kind of end up with this system of behaviors that influence your day and your week. So mastering this hour makes the next hour a little bit better as well.</p>
+</details>
