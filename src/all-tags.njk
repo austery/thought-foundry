@@ -1,7 +1,11 @@
 ---
 title: "所有标签"
 layout: "default.njk"
-permalink: "/all-tags/"
+pagination:
+  data: collections.tagList
+  size: 50
+  alias: paginatedTags
+permalink: "/all-tags/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}"
 ---
 
 <div data-pagefind-ignore>
@@ -12,7 +16,7 @@ permalink: "/all-tags/"
   <input type="text" class="list-filter-input" placeholder="筛选标签..." aria-label="Filter tags">
   
   <ul class="filterable-list tag-list">
-    {% for tagInfo in collections.tagList %}
+    {% for tagInfo in paginatedTags %}
       <li>
         <a href="{{ ('/tags/' + tagInfo.slug + '/') | url }}" class="tag-pill">
           #{{ tagInfo.name }} ({{ tagInfo.posts.length }})
@@ -21,6 +25,22 @@ permalink: "/all-tags/"
     {% endfor %}
   </ul>
 </div>
+
+{% if pagination.pages.length > 1 %}
+<nav class="pagination" aria-label="Pagination">
+  <ol>
+    {% if pagination.href.previous %}
+    <li><a href="{{ pagination.href.previous }}">上一页</a></li>
+    {% endif %}
+    
+    <li><span>第 {{ pagination.pageNumber + 1 }} 页，共 {{ pagination.pages.length }} 页</span></li>
+    
+    {% if pagination.href.next %}
+    <li><a href="{{ pagination.href.next }}">下一页</a></li>
+    {% endif %}
+  </ol>
+</nav>
+{% endif %}
 
 <script src="{{ '/js/list-filter.js' | url }}" defer></script>
 
