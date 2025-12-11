@@ -16,13 +16,13 @@ media_books:
 - 一席
 date: '2025-07-10'
 author: Lei
-speaker: null
+speaker: 一席YiXi
 channel: 一席
 guest: null
 insight: null
 layout: post.njk
 series: null
-source: null
+source: https://www.youtube.com/watch?v=B_9FUXnuZJY
 ---
 ### 讲述者简介
 

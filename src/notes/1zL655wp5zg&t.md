@@ -15,7 +15,7 @@ media_books:
 - 一席
 date: '2025-06-14'
 author: Lei
-speaker: 王俊
+speaker: 一席YiXi
 channel: 一席
 guest: null
 insight: null

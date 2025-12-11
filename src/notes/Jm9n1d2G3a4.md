@@ -14,7 +14,7 @@ media_books:
 - 一席
 date: '2025-07-10'
 author: Lei
-speaker: 李治中
+speaker: 4AohKyR5jME
 channel: 一席
 guest: null
 insight: null

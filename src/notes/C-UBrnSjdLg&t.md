@@ -15,7 +15,7 @@ media_books:
 - 一席
 date: '2025-06-08'
 author: Lei
-speaker: 吴翼
+speaker: 一席YiXi
 channel: null
 guest: null
 insight: null

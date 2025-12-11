@@ -7,7 +7,8 @@ project:
 - personal-growth-lab
 tags:
   - personal-growth
-people: []
+people: 
+  - 阮筠庭
 companies_orgs:
 - 一席
 products_models: []
@@ -15,7 +16,7 @@ media_books:
 - 一席
 date: '2025-07-10'
 author: Lei
-speaker: 阮筠庭
+speaker: 一席YiXi
 channel: 一席
 guest: null
 insight: null

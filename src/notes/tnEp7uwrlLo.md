@@ -7,7 +7,8 @@ project: []
 tags:
   - 心理健康
   - 自我探索
-people: []
+people: 
+  - 王佳莹
 companies_orgs:
 - 一席
 products_models: []
@@ -15,7 +16,7 @@ media_books:
 - 一席
 date: '2025-07-07'
 author: Lei
-speaker: 王佳莹
+speaker: 一席YiXi
 channel: 一席
 guest: null
 insight: null
