@@ -1,0 +1,3486 @@
+---
+author: Bloomberg Podcasts
+date: '2025-11-28'
+guest: ''
+layout: post.njk
+source: https://www.youtube.com/watch?v=85retuUVCN8
+speaker: Bloomberg Podcasts
+tags:
+  - credit-card-rates
+  - interchange-fees
+  - consumer-behavior
+  - marketing-spend
+  - risk-premium
+title: 信用卡利率为何居高不下？揭秘发卡银行的隐秘收入与消费者行为
+summary: 本期访谈深入剖析了美国信用卡利率高达 23% 的深层原因。沃顿商学院教授 Itamar Drechsler 指出，高利率并非主要由违约风险驱动，而是由高昂的商户交换费、巨额的营销开支以及消费者对利率变化不敏感的行为共同支撑。文章对比了个人信用贷款等更低成本的替代方案，揭示了信用卡业务作为银行业中投资回报率（ROI）最高的部门的运作逻辑，并探讨了宏观政策对该领域的影响。
+insight: ''
+draft: true
+series: ''
+category: finance
+area: society-systems
+project:
+  - us-analysis
+  - investment-strategy
+people:
+  - Itamar Drechsler
+  - Joe Weisenthal
+  - Tracy Alloway
+  - Jerome Powell
+companies_orgs:
+  - Visa
+  - Mastercard
+  - Amex
+  - Capital One
+  - Discover
+  - JPMorgan
+  - Lending Club
+  - Alphabet
+  - Meta
+  - Goldman Sachs
+  - New York Fed
+  - Cfpb
+products_models:
+  - Personal lines of credit
+media_books: []
+status: evergreen
+---
+### 信用卡利率的悖论：消费者对政策利率的敏感度
+
+At the risk of sounding, heretical here,
+I am not a huge believer
+that consumers at all are very sensitive
+to these changes in the in the policy rate
+and the fed funds rate,
+even though the standard model works
+through their intertemporal consumption
+savings decision,
+I think the evidence is very weak
+that they care about that.
+And then the credit card,
+I think, on top of that
+is really makes this clear,
+because if you're paying 23%
+and you are the kind of person
+that wants to to borrow,
+how much is a half a percent
+going to matter to you if the fed hikes?
+Plus you could have
+been getting a much cheaper rate anyway
+and that didn't compel you to go looking
+for it.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">At the risk of sounding, heretical here,
+I am not a huge believer
+that consumers at all are very sensitive
+to these changes in the in the policy rate
+and the fed funds rate,
+even though the standard model works
+through their intertemporal consumption
+savings decision,
+I think the evidence is very weak
+that they care about that.
+And then the credit card,
+I think, on top of that
+is really makes this clear,
+because if you're paying 23%
+and you are the kind of person
+that wants to to borrow,
+how much is a half a percent
+going to matter to you if the fed hikes?
+Plus you could have
+been getting a much cheaper rate anyway
+and that didn't compel you to go looking
+for it.</p>
+</details>
+
+Hello and
+welcome to another episode of the Odd
+Lot podcast.
+I'm Joe Weisenthal. And I'm Tracy Alloway.
+Tracy, are you good about like, frequent
+flier miles and hotel rewards and cashback
+and using your credit card
+to get like good seats
+at the US open, like all the or dining.
+Are you good about maximizing that stuff?
+Nope, I am not. I'm trying to be better.
+You know, I'm
+finally signing up to a bunch of frequent
+flier programs and things like that.
+But in general,
+I am not a, a points strategy.
+Some people get really into it.
+No, I do not.
+I do have I have a very busy life.
+I do not have mental health energy
+towards, you know, maximizing points
+or learning about the newest cards
+like, oh, is this card worth a $400 fee?
+Because I can get upgraded
+to platinum faster this year.
+I do not want to think about that stuff.
+I'm not that interested,
+but I get the impression that like,
+that means I'm probably paying for someone
+who is or something like that.
+Or maybe, you know, I'm
+paying these fees on my credit cards
+or these interchange fees, etc..
+Maybe I'm leaving money on the table
+by not doing it, I don't know.
+I find credit cards
+to be a weird business.
+Like I don't really know
+what visa does relative to say, the bank
+that issues a visa card, etc..
+I don't know how they slice them.
+I don't know anyone credit cards.
+It's a very opaque business. Yeah, sure.
+It's a weird business.
+I would say like it's competitive,
+but also it's like not,
+you know, like everyone's
+kind of doing the same things.
+Yeah, in many ways.
+So we should talk about it.
+It's also,
+I imagine, kind of sticky in the same way
+that deposits at banks are sticky.
+We spoke with Joe Barty about that
+a while back.
+So so I don't cycle through them
+a bunch and stuff like that.
+And there's so much
+credit card advertising.
+I don't know what's good or bad
+or whatever.
+Yeah, look,
+I use my credit card as a payment card
+because I don't really I don't carry
+a balance from month to month.
+I don't I don't know anything
+about interest rates or whatever.
+I pay it off at the end of every month
+because I just basically use it
+for payments, etc..
+so I just don't know much about them.
+But they're a huge major consumer
+financing source.
+Yeah, I never want to talk about
+fintech and Bnpl
+and all these other things
+and stablecoins, coins
+and all this other stuff,
+and it's like, yeah, but the big one
+who's talking about the big one?
+Credit cards? Well, that's the thing.
+So points have become a bigger attractant
+I guess to credit cards.
+And so people are spending more
+with their credit cards
+and carrying a bigger balance, which means
+that the rate that you're paying on
+the credit card is actually more
+important, potentially,
+than something like your mortgage rate.
+Totally.
+Well, very pleased to say we do, in fact,
+have the perfect guest,
+someone we've had on the podcast before.
+I think
+last time we were talk about Red Q,
+which is a bank lending in the 70s.
+I like his work
+because he goes back to the simple things
+like,
+let's just talk about how this works.
+Let's talk about how this works,
+because I think we move on to quickly
+without sort of understanding the basics.
+Maybe there are stones left unturned.
+Literally the perfect guest,
+Itamar Drexler.
+He is a finance professor at Wharton,
+and he was the coauthor of a fairly recent
+paper, sort of looking at the question of
+why are credit card rates so high?
+Because if you actually do borrow
+from them, sometimes the rates are like
+20 something percent seems way
+higher than any other sort of lending.
+So it.
+Amar, thank you so much
+for coming back on Odd Lot.
+Thank you very much. It's,
+it's really nice, to be back.
+Thank you for having me.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Hello and
+welcome to another episode of the Odd
+Lot podcast.
+I'm Joe Weisenthal. And I'm Tracy Alloway.
+Tracy, are you good about like, frequent
+flier miles and hotel rewards and cashback
+and using your credit card
+to get like good seats
+at the US open, like all the or dining.
+Are you good about maximizing that stuff?
+Nope, I am not. I'm trying to be better.
+You know, I'm
+finally signing up to a bunch of frequent
+flier programs and things like that.
+But in general,
+I am not a, a points strategy.
+Some people get really into it.
+No, I do not.
+I do have I have a very busy life.
+I do not have mental health energy
+towards, you know, maximizing points
+or learning about the newest cards
+like, oh, is this card worth a $400 fee?
+Because I can get upgraded
+to platinum faster this year.
+I do not want to think about that stuff.
+I'm not that interested,
+but I get the impression that like,
+that means I'm probably paying for someone
+who is or something like that.
+Or maybe, you know, I'm
+paying these fees on my credit cards
+or these interchange fees, etc..
+Maybe I'm leaving money on the table
+by not doing it, I don't know.
+I find credit cards
+to be a weird business.
+Like I don't really know
+what visa does relative to say, the bank
+that issues a visa card, etc..
+I don't know how they slice them.
+I don't know anyone credit cards.
+It's a very opaque business. Yeah, sure.
+It's a weird business.
+I would say like it's competitive,
+but also it's like not,
+you know, like everyone's
+kind of doing the same things.
+Yeah, in many ways.
+So we should talk about it.
+It's also,
+I imagine, kind of sticky in the same way
+that deposits at banks are sticky.
+We spoke with Joe Barty about that
+a while back.
+So so I don't cycle through them
+a bunch and stuff like that.
+And there's so much
+credit card advertising.
+I don't know what's good or bad
+or whatever.
+Yeah, look,
+I use my credit card as a payment card
+because I don't really I don't carry
+a balance from month to month.
+I don't I don't know anything
+about interest rates or whatever.
+I pay it off at the end of every month
+because I just basically use it
+for payments, etc..
+so I just don't know much about them.
+But they're a huge major consumer
+financing source.
+Yeah, I never want to talk about
+fintech and Bnpl
+and all these other things
+and stablecoins, coins
+and all this other stuff,
+and it's like, yeah, but the big one
+who's talking about the big one?
+Credit cards? Well, that's the thing.
+So points have become a bigger attractant
+I guess to credit cards.
+And so people are spending more
+with their credit cards
+and carrying a bigger balance, which means
+that the rate that you're paying on
+the credit card is actually more
+important, potentially,
+than something like your mortgage rate.
+Totally.
+Well, very pleased to say we do, in fact,
+have the perfect guest,
+someone we've had on the podcast before.
+I think
+last time we were talk about Red Q,
+which is a bank lending in the 70s.
+I like his work
+because he goes back to the simple things
+like,
+let's just talk about how this works.
+Let's talk about how this works,
+because I think we move on to quickly
+without sort of understanding the basics.
+Maybe there are stones left unturned.
+Literally the perfect guest,
+Itamar Drexler.
+He is a finance professor at Wharton,
+and he was the coauthor of a fairly recent
+paper, sort of looking at the question of
+why are credit card rates so high?
+Because if you actually do borrow
+from them, sometimes the rates are like
+20 something percent seems way
+higher than any other sort of lending.
+So it.
+Amar, thank you so much
+for coming back on Odd Lot.
+Thank you very much. It's,
+it's really nice, to be back.
+Thank you for having me.</p>
+</details>
+
+When I was doing some prep
+for this episode.
+There is not a ton of actually,
+like, fresh
+academic work on the credit card industry.
+There's not a ton of papers,
+but it's this huge space.
+Why did you see a reason to go back
+and revisit this sort of basic,
+simple question of looking
+at interest rates on credit cards?
+Yeah.
+So, my interest is usually,
+like we talked about when I was, here
+last time as monetary policy
+macro and a lot of banking.
+And I had some students who
+are coauthors now, you know, on this paper
+come and wanted a couple of years ago.
+I want to talk about fintech
+because fintech is a very popular topic.
+And then I was thinking, well,
+how do we sort of analyze fintech
+and what's the potential, room for fintech
+to grow if we don't really understand
+how the dominant incumbent
+players are credit card, banks, work.
+And then we look at this
+and I was very surprised to see something
+kind of simple,
+which is that the return on assets
+for credit card banks are just way
+higher than the average bank.
+So bank rates are typically,
+you know, 11. 2%.
+They move a couple of basis points.
+A very exciting,
+credit card banks are always and you know,
+most banks are had just credit cards.
+So, so it's actually even higher than this
+are in the three and a half often 4%.
+So it's very shocked by this okay.
+How come it's so high
+when it's so hard to squeeze out
+a couple of basis points and then,
+you know, one of the reasons
+is just to charge really high
+rates, like, okay,
+how did I get away with this?
+You know what is going on here?
+Just very simple question
+about how to decompose that rate
+into the pieces
+and kind of what's left over at the end.
+Okay.
+So lots to talk about in the theme of
+or in the spirit of starting at basics,
+walk us through the revenue
+that credit card issuers or credit card
+banks are actually earning,
+the different types
+and who the players are in the system.
+Yeah.
+So, so let's separate
+first into two categories.
+One are people who revolve their balance.
+And that's
+what most of the paper's about is.
+I think that's the more interesting part.
+And there's more details.
+And it's kind of
+how the banking part of it,
+and there are actually
+a lot of people who revolve,
+often I find people are surprised
+to hear this, but,
+about 60% of the credit card users
+actually revolve,
+so meaning that they don't pay in
+the grace period at the end of the month.
+And so they're hit with these, very high,
+usually interest charges.
+And then the other part are,
+you know, what people call trans actors.
+So they're the kind that do pay
+during the grace period.
+So they're not, paying interest. Okay.
+So for the revolvers, you there's again
+multiple parts.
+So you pay interest on the balance
+that you have.
+But before then and now there's the part
+where which applies both to the trans
+actors and revolvers.
+When you swipe the card,
+then there's immediately
+a percentage taken up
+called the swipe fee.
+And that is split
+up into a bunch of pieces.
+So one of the ones that I used
+to be aware of that most people are aware
+of is the is the card network
+like visa, Mastercard, Amex.
+There was discover,
+which is now part of Capital One.
+And that's,
+you know, there's a whole menu, but
+basically it's like 15, 20 basis points.
+Okay, okay.
+Doesn't sound like a lot,
+but there's like $10 trillion of purchases
+between debit and credit cards.
+It turns out when you take 20 basis
+points of $10 trillion kind of adds up.
+Nice. It's nice if you can get it.
+It's really nice, actually.
+Be surprised that usually visa
+and JPMorgan are the two most valuable.
+Financial services firms.
+They change who's number one.
+So visa is, you know, been worth over $600
+billion.
+It's a lot.
+Yeah.
+So, and Mastercard's gigantic to,
+so there's that.
+Then the majority of that swipe
+fee, the, the majority of the remainder
+actually goes to the bank
+that issued the card to the consumer.
+So that's called the interchange fee.
+And it's again, they don't make this
+like very easy to tell.
+But in our data sets it's a little over
+1.8% on average.
+I think it's largely
+been trending up over time slowly.
+And so the bank gets that
+actually gets the vast majority of that.
+And then they pay your rewards
+and things from that.
+A lot of that goes to just passes
+through to the rewards and things.
+And they keep a small portion of it,
+for themselves.
+But the big part of their business,
+where most of the money comes from,
+that we analyze here, is the
+is that all these people
+that revolve, they pay an interest rate,
+and that interest rate
+now is, on average, 23%. Wow.
+Which is
+just seems like a shockingly high number.
+I mean, I guess I've seen that it
+just when you think when you do,
+when you work on assets and like,
+you know, think the kind of things
+you guys talk about bonds and bonds pay,
+you know, whatever, 5% high yield.
+You know, investment
+grade spread is not even 80 basis points.
+Now on top of it.
+High yield spreads under 3%.
+Like how do I how do we get the 23%. Yeah.
+When you hear this number 23%.
+Yeah.
+And you think about the fact
+that credit card users are sort of,
+can be decomposed into actors
+and revolvers, right.
+My first instinct would be, well,
+the trans actors are very on the ball.
+They're like, not credit risks.
+I've always been, just a trans actor.
+I've never revolved.
+How much of that, increased spread
+can just be explained
+by likelihood of default
+from the revolvers,
+which I presume are perhaps a little more,
+you know, financially precarious
+and maybe less financially sophisticated.
+Right. So, yeah.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">When I was doing some prep
+for this episode.
+There is not a ton of actually,
+like, fresh
+academic work on the credit card industry.
+There's not a ton of papers,
+but it's this huge space.
+Why did you see a reason to go back
+and revisit this sort of basic,
+simple question of looking
+at interest rates on credit cards?
+Yeah.
+So, my interest is usually,
+like we talked about when I was, here
+last time as monetary policy
+macro and a lot of banking.
+And I had some students who
+are coauthors now, you know, on this paper
+come and wanted a couple of years ago.
+I want to talk about fintech
+because fintech is a very popular topic.
+And then I was thinking, well,
+how do we sort of analyze fintech
+and what's the potential, room for fintech
+to grow if we don't really understand
+how the dominant incumbent
+players are credit card, banks, work.
+And then we look at this
+and I was very surprised to see something
+kind of simple,
+which is that the return on assets
+for credit card banks are just way
+higher than the average bank.
+So bank rates are typically,
+you know, 11. 2%.
+They move a couple of basis points.
+A very exciting,
+credit card banks are always and you know,
+most banks are had just credit cards.
+So, so it's actually even higher than this
+are in the three and a half often 4%.
+So it's very shocked by this okay.
+How come it's so high
+when it's so hard to squeeze out
+a couple of basis points and then,
+you know, one of the reasons
+is just to charge really high
+rates, like, okay,
+how did I get away with this?
+You know what is going on here?
+Just very simple question
+about how to decompose that rate
+into the pieces
+and kind of what's left over at the end.
+Okay.
+So lots to talk about in the theme of
+or in the spirit of starting at basics,
+walk us through the revenue
+that credit card issuers or credit card
+banks are actually earning,
+the different types
+and who the players are in the system.
+Yeah.
+So, so let's separate
+first into two categories.
+One are people who revolve their balance.
+And that's
+what most of the paper's about is.
+I think that's the more interesting part.
+And there's more details.
+And it's kind of
+how the banking part of it,
+and there are actually
+a lot of people who revolve,
+often I find people are surprised
+to hear this, but,
+about 60% of the credit card users
+actually revolve,
+so meaning that they don't pay in
+the grace period at the end of the month.
+And so they're hit with these, very high,
+usually interest charges.
+And then the other part are,
+you know, what people call trans actors.
+So they're the kind that do pay
+during the grace period.
+So they're not, paying interest. Okay.
+So for the revolvers, you there's again
+multiple parts.
+So you pay interest on the balance
+that you have.
+But before then and now there's the part
+where which applies both to the trans
+actors and revolvers.
+When you swipe the card,
+then there's immediately
+a percentage taken up
+called the swipe fee.
+And that is split
+up into a bunch of pieces.
+So one of the ones that I used
+to be aware of that most people are aware
+of is the is the card network
+like visa, Mastercard, Amex.
+There was discover,
+which is now part of Capital One.
+And that's,
+you know, there's a whole menu, but
+basically it's like 15, 20 basis points.
+Okay, okay.
+Doesn't sound like a lot,
+but there's like $10 trillion of purchases
+between debit and credit cards.
+It turns out when you take 20 basis
+points of $10 trillion kind of adds up.
+Nice. It's nice if you can get it.
+It's really nice, actually.
+Be surprised that usually visa
+and JPMorgan are the two most valuable.
+Financial services firms.
+They change who's number one.
+So visa is, you know, been worth over $600
+billion.
+It's a lot.
+Yeah.
+So, and Mastercard's gigantic to,
+so there's that.
+Then the majority of that swipe
+fee, the, the majority of the remainder
+actually goes to the bank
+that issued the card to the consumer.
+So that's called the interchange fee.
+And it's again, they don't make this
+like very easy to tell.
+But in our data sets it's a little over
+1.8% on average.
+I think it's largely
+been trending up over time slowly.
+And so the bank gets that
+actually gets the vast majority of that.
+And then they pay your rewards
+and things from that.
+A lot of that goes to just passes
+through to the rewards and things.
+And they keep a small portion of it,
+for themselves.
+But the big part of their business,
+where most of the money comes from,
+that we analyze here, is the
+is that all these people
+that revolve, they pay an interest rate,
+and that interest rate
+now is, on average, 23%. Wow.
+Which is
+just seems like a shockingly high number.
+I mean, I guess I've seen that it
+just when you think when you do,
+when you work on assets and like,
+you know, think the kind of things
+you guys talk about bonds and bonds pay,
+you know, whatever, 5% high yield.
+You know, investment
+grade spread is not even 80 basis points.
+Now on top of it.
+High yield spreads under 3%.
+Like how do I how do we get the 23%. Yeah.
+When you hear this number 23%.
+Yeah.
+And you think about the fact
+that credit card users are sort of,
+can be decomposed into actors
+and revolvers, right.
+My first instinct would be, well,
+the trans actors are very on the ball.
+They're like, not credit risks.
+I've always been, just a trans actor.
+I've never revolved.
+How much of that, increased spread
+can just be explained
+by likelihood of default
+from the revolvers,
+which I presume are perhaps a little more,
+you know, financially precarious
+and maybe less financially sophisticated.</p>
+</details>
+
+### 信用卡收入构成：谁是主要受益者？
+
+Itamar Drechsler (ID):
+Right. So, yeah.
+So I think if you don't, you know,
+like me, you didn't know much about this.
+Your assumption is,
+I think that most financial economists,
+they would the first thing
+they would think is, well,
+it must be that the most of the remainder
+is, charge offs.
+Right? Defaults.
+And that's not true.
+So you can find that pretty easily.
+So the average charge off
+rate on the, on the revolvers okay.
+So when you look at it let's say
+you look it up online, you'll see kind of
+you know
+relative to the whole balance sheet.
+So includes both groups.
+And like you're saying
+by definition trans actors don't borrow
+so they can't default.
+That's a bit that kind of makes it
+go down a little bit.
+But the majority are revolvers.
+So if we kind of clean that out,
+then on average in our sample, it's
+5.75% of balances are charged off.
+So it's not trivial by any means.
+It's that's a high number.
+But again
+we were talking about 18% spread.
+So if you think oh it must be about 18%
+charge, it's not even close.
+And it's never been that high.
+So so you might think, well maybe it's
+just you know, so that's on average.
+But sometimes it'll spike to be ridiculous
+numbers.
+It will.
+It does spike
+but not for very long periods of time.
+So the bottom line is it's not.
+That's a big chunk.
+That's a substantial chunk of it,
+but not even close to a majority of it.
+So you know people default
+but they don't default that much.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Right. So, yeah.
+So I think if you don't, you know,
+like me, you didn't know much about this.
+Your assumption is,
+I think that most financial economists,
+they would the first thing
+they would think is, well,
+it must be that the most of the remainder
+is, charge offs.
+Right? Defaults.
+And that's not true.
+So you can find that pretty easily.
+So the average charge off
+rate on the, on the revolvers okay.
+So when you look at it let's say
+you look it up online, you'll see kind of
+you know
+relative to the whole balance sheet.
+So includes both groups.
+And like you're saying
+by definition trans actors don't borrow
+so they can't default.
+That's a bit that kind of makes it
+go down a little bit.
+But the majority are revolvers.
+So if we kind of clean that out,
+then on average in our sample, it's
+5.75% of balances are charged off.
+So it's not trivial by any means.
+It's that's a high number.
+But again
+we were talking about 18% spread.
+So if you think oh it must be about 18%
+charge, it's not even close.
+And it's never been that high.
+So so you might think, well maybe it's
+just you know, so that's on average.
+But sometimes it'll spike to be ridiculous
+numbers.
+It will.
+It does spike
+but not for very long periods of time.
+So the bottom line is it's not.
+That's a big chunk.
+That's a substantial chunk of it,
+but not even close to a majority of it.
+So you know people default
+but they don't default that much.</p>
+</details>
+
+Tracy Alloway (TA):
+Can I ask one more question on APR and the average there, did you observe any trend over time, like did the rate actually get higher, you know, as, as time went on.
+
+ID:
+So that's something we haven't spent
+a lot of time on in this paper.
+But the answer your question is
+this is obviously yes.
+So if you look at it, I think
+what can be found online is again, it's
+there's a bit of a
+I think there's something
+a little misleading there,
+but that has trended up pretty strongly.
+I think not as much as somebody,
+you know, goes their computer and looks up
+and I'll say, Fred,
+you know, from the from the call reports,
+what is the average APR.
+It looks crazy.
+It looks like it's gone up 10%.
+It's gone up.
+We're going to get to the bottom
+of like exactly how much
+I think it's gone up substantially
+since ten years ago, let's say,
+that that trend is clear.
+I don't think it's
+as much as it looks like there,
+but yeah, it's been going up actually.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Can I ask one more question on APR and the average there, did you observe any trend over time, like did the rate actually get higher, you know, as, as time went on.
+So that's something we haven't spent
+a lot of time on in this paper.
+But the answer your question is
+this is obviously yes.
+So if you look at it, I think
+what can be found online is again, it's
+there's a bit of a
+I think there's something
+a little misleading there,
+but that has trended up pretty strongly.
+I think not as much as somebody,
+you know, goes their computer and looks up
+and I'll say, Fred,
+you know, from the from the call reports,
+what is the average APR.
+It looks crazy.
+It looks like it's gone up 10%.
+It's gone up.
+We're going to get to the bottom
+of like exactly how much
+I think it's gone up substantially
+since ten years ago, let's say,
+that that trend is clear.
+I don't think it's
+as much as it looks like there,
+but yeah, it's been going up actually.</p>
+</details>
+
+ID:
+Okay.
+So you've established
+default rates for credit cards.
+And as you said, like this is
+this business is about volume, right?
+So is there an argument to be made
+that maybe
+if the world, you know, falls apart,
+then you have lots and lots
+and lots of consumers
+who are defaulting, but, you know,
+potentially at a low rate of the total.
+But the volume makes it meaningful
+for banks.
+I mean, we are already looking at
+as a percentage of, of assets.
+So, that kind of like value weights,
+it takes it all into consideration.
+I think the question like in
+our minds was at first,
+you know, maybe in a crisis,
+something extreme happens.
+In a sense it does.
+But this is already
+the average default rate.
+So usually it's lower.
+And then you kind
+of include this in there. So
+we'll talk
+I guess a little bit about risk premium.
+Yeah.
+It turns out to be very clear here
+and important.
+But it's not in it's, you know, just
+the average default rate is what it is.
+So it's not in expected defaults.
+Again, they're it's surprising.
+At the same time, if you just look
+at where banks actually suffered
+default losses in, in an average year,
+not a crisis year,
+something like 50% of banks default losses
+are actually coming from credit cards.
+The thing is,
+is that they're not surprising.
+They're not unexpected, losses.
+They're kind of the expected,
+but it's still really big.
+And the reason for that
+is, even though credit cards only
+take up about 5% of banks balance sheet,
+the charge offs or the defaults
+on average, bank assets is very low.
+I mean, and we have this impression
+of banks as being these like,
+you know, crazy like,
+you know, risk taking lunatic.
+You're actually,
+I think, the right way to look at them
+is that their average asset
+is extremely boring and low risk.
+They do take a lot of leverage,
+which is only possible
+because the average asset
+is extremely boring and low risk.
+But even after all that, it's not.
+The amount of default
+is not really that high.
+So if your average asset has about 40
+basis points, average charge offs,
+and this thing has over 5%, then
+even if it's only 5% of the balance sheet,
+it it can act like it's
+50% of the charge off.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Okay.
+So you've established
+default rates for credit cards.
+And as you said, like this is
+this business is about volume, right?
+So is there an argument to be made
+that maybe
+if the world, you know, falls apart,
+then you have lots and lots
+and lots of consumers
+who are defaulting, but, you know,
+potentially at a low rate of the total.
+But the volume makes it meaningful
+for banks.
+I mean, we are already looking at
+as a percentage of, of assets.
+So, that kind of like value weights,
+it takes it all into consideration.
+I think the question like in
+our minds was at first,
+you know, maybe in a crisis,
+something extreme happens.
+In a sense it does.
+But this is already
+the average default rate.
+So usually it's lower.
+And then you kind
+of include this in there. So
+we'll talk
+I guess a little bit about risk premium.
+Yeah.
+It turns out to be very clear here
+and important.
+But it's not in it's, you know, just
+the average default rate is what it is.
+So it's not in expected defaults.
+Again, they're it's surprising.
+At the same time, if you just look
+at where banks actually suffered
+default losses in, in an average year,
+not a crisis year,
+something like 50% of banks default losses
+are actually coming from credit cards.
+The thing is,
+is that they're not surprising.
+They're not unexpected, losses.
+They're kind of the expected,
+but it's still really big.
+And the reason for that
+is, even though credit cards only
+take up about 5% of banks balance sheet,
+the charge offs or the defaults
+on average, bank assets is very low.
+I mean, and we have this impression
+of banks as being these like,
+you know, crazy like,
+you know, risk taking lunatic.
+You're actually,
+I think, the right way to look at them
+is that their average asset
+is extremely boring and low risk.
+They do take a lot of leverage,
+which is only possible
+because the average asset
+is extremely boring and low risk.
+But even after all that, it's not.
+The amount of default
+is not really that high.
+So if your average asset has about 40
+basis points, average charge offs,
+and this thing has over 5%, then
+even if it's only 5% of the balance sheet,
+it it can act like it's
+50% of the charge off.</p>
+</details>
+
+ID:
+I also like other forms of consumer
+borrowing.
+Right.
+Like people are very assiduous
+about making their car payments. Yes.
+I'm making I don't know.
+Well up until recently, up until recently.
+But historically, the perception was
+people really prioritized car payments.
+Right.
+Because you that's essential to live
+and you can't have your car repossessed.
+Home mortgages
+obviously, for obvious reason,
+I imagine that a stretched household
+will miss
+credit card payments are more inclined to
+if they're going to have to miss
+a payment, it's going to be there versus
+some of these other popular
+areas of borrowing aren't totally so.
+The other ones are secured
+and this is unsecured.
+So, you know, that's in that sense,
+this this is an actual asset that's,
+kind of risky and interesting from,
+from my vantage point in that it's
+unsecured lending to,
+normal people, all the rest of the stuff
+is secured, like, like mortgages.
+You know, home homes are obviously very
+important collateral cars, pretty much.
+So the rates on
+those are much, much lower in these.
+There's nowhere near,
+you know, the spread.
+There's nowhere near as juicy.
+I mean, when I teach students,
+we go through or like,
+you know, the hierarchy of borrowing the,
+the vast majority of borrowing is secured.
+You have to think it's crazy for a bank
+to come to somebody with a medium or lower
+credit score and say, here,
+have a line of credit of like five,
+$10,000, you know, and it's not you
+and you can default on it.
+You don't get shot for that. It's, it's
+part of the law.
+It's part of the game. Yeah.
+I was reading
+a, an article from life in 1970
+where they were talking about
+how credit cards are becoming a big thing,
+and, oh, my God, these credit card
+companies are just mailing out
+applications to Americans.
+It's like giving sugar to diabetics.
+That was their analogy.
+Speaking of unsecured versus secured,
+I am also looking right now at,
+a website that claims to have invented
+the first credit card
+that's based on your stock portfolio.
+So borrowing against your stock
+with a card.
+I gotta say,
+the card does look pretty nice.
+It's made of glass.
+Maybe that tells you something
+like what was I.
+An unintentional metaphor. Yeah, exactly.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I also like other forms of consumer
+borrowing.
+Right.
+Like people are very assiduous
+about making their car payments. Yes.
+I'm making I don't know.
+Well up until recently, up until recently.
+But historically, the perception was
+people really prioritized car payments.
+Right.
+Because you that's essential to live
+and you can't have your car repossessed.
+Home mortgages
+obviously, for obvious reason,
+I imagine that a stretched household
+will miss
+credit card payments are more inclined to
+if they're going to have to miss
+a payment, it's going to be there versus
+some of these other popular
+areas of borrowing aren't totally so.
+The other ones are secured
+and this is unsecured.
+So, you know, that's in that sense,
+this this is an actual asset that's,
+kind of risky and interesting from,
+from my vantage point in that it's
+unsecured lending to,
+normal people, all the rest of the stuff
+is secured, like, like mortgages.
+You know, home homes are obviously very
+important collateral cars, pretty much.
+So the rates on
+those are much, much lower in these.
+There's nowhere near,
+you know, the spread.
+There's nowhere near as juicy.
+I mean, when I teach students,
+we go through or like,
+you know, the hierarchy of borrowing the,
+the vast majority of borrowing is secured.
+You have to think it's crazy for a bank
+to come to somebody with a medium or lower
+credit score and say, here,
+have a line of credit of like five,
+$10,000, you know, and it's not you
+and you can default on it.
+You don't get shot for that. It's, it's
+part of the law.
+It's part of the game. Yeah.
+I was reading
+a, an article from life in 1970
+where they were talking about
+how credit cards are becoming a big thing,
+and, oh, my God, these credit card
+companies are just mailing out
+applications to Americans.
+It's like giving sugar to diabetics.
+That was their analogy.
+Speaking of unsecured versus secured,
+I am also looking right now at,
+a website that claims to have invented
+the first credit card
+that's based on your stock portfolio.
+So borrowing against your stock
+with a card.
+I gotta say,
+the card does look pretty nice.
+It's made of glass.
+Maybe that tells you something
+like what was I.
+An unintentional metaphor. Yeah, exactly.</p>
+</details>
+
+### 风险溢价与奖励机制的权衡
+
+TA:
+Okay, so if it's not about risk premiums,
+if the rate isn't compensating
+for something like default,
+could it be comp and sating
+for all the points and benefits
+that customers are accruing at once?
+So it's not just compensation
+for expected default.
+
+ID:
+I want I want to separate
+that from the risk premium.
+The risk premium is kind of
+the competition for unexpected default,
+which turns out to be pretty big here.
+But let's go back and talk about,
+the points and stuff.
+So I find that people care
+more about people who are more excited
+to talk about points than anything.
+The term rewards was really a marketing
+flourish.
+So, yeah.
+So in total number of dollars,
+this interchange was I mean, again,
+you have to look at, find exact numbers,
+but for credit cards alone,
+I think it was over $150 billion.
+So like the GDP of a medium sized country
+gets transferred as, as interchange,
+maybe small country.
+And we find that about 85% of that
+gets transferred through as rewards.
+You could wonder.
+I think it'd be natural to say,
+what is the point of this?
+Why why charge people?
+You know,
+1.8% and then pass through 1.57%
+as rewards, where, well,
+at least some people, like I guess
+you and I don't pay that much attention.
+I think I have enormous amounts
+of United miles I'm never going to use,
+because I have to actually travel
+to whatever place to use them.
+So, why is that?
+I mean, I think a good economic question
+if people have tackled this,
+I do think it creates
+a very strong network effect.
+So you are not actually seeing a charge
+for this.
+It's the retailer that has to eat it.
+And if you do not, use a card that gives
+rewards, you're not going to get, in
+most cases a lower price.
+So there's a whole series of litigation
+and fights over the years, amazing
+about what retailers
+can do to discriminate.
+You know,
+price is based people who use cards.
+And, and I thought a couple years ago,
+over the last couple of years, I'm
+seeing more restaurants
+give you back a percentage
+or not charge you a percentage.
+If you didn't do that.
+But it's it's a little bit
+beyond my legal expertise to sometimes
+understand this, because for the longest
+time, I can't remember which.
+I think you could give people a discount,
+but you couldn't do a surcharge.
+There was some, like, legal discrimination
+between those things.
+And as a result, people mostly
+don't pay attention to that kind of thing.
+And so you you really want
+to stay inside the network?
+And it kind of keeps you there,
+even if at the end
+it would be a total pass through, it still
+helps for them to keep this business.
+You know, it's interesting.
+There's this crypto company.
+Have you heard of Blackbird?
+Yeah, it's a crypto thing.
+And they have a bunch of restaurants.
+You sign up
+and you're like, paying a coin.
+I don't know exactly how it works,
+but I think that
+they have to own some way
+because in theory would be nice.
+Like, maybe we'll get a little bit
+in the stablecoin.
+There's like a payment rule in the future
+or in this conversation
+and think it'll be a nice way
+to circumvent this.
+But even they, I think, implicitly have to
+reinvent the rewards model to do it.
+Maybe you get premium
+seed, you get reservations, etc..
+in order to sort of like bootstrap
+a new network, you start end up
+having to reinvent a lot of the rebates
+and the benefits and so etc.
+that come with the old network.
+Maybe we'll get into crypto
+a little bit more,
+but talk to us a little bit more
+than about like the persist ins of this,
+of the spread that can't even that
+can't fully be explained by default.
+Yeah.
+So so the default,
+like I said, is like a little under 6%.
+Yeah. Then I'll just I'll mention it.
+So these things do tend to default
+do spike in bad times.
+So we estimate using kind of the cross
+section of different Fico scores.
+How much extra compensation you get
+as you go to lower and lower
+Fico scores in terms of extra APR,
+net of the defaults.
+So we estimate that the risk premium
+there is accounting for about
+similar sized piece. So
+there's
+a risk premium about 5% on average,
+which is much smaller for let's say
+you're an 800 and like go borrower.
+There's not that much risk premium.
+But if you're a 600 Fico borrower,
+the risk premium goes up to like,
+you know, 9%.
+So we go back to like what that mean.
+I think it's means something
+very important.
+I think the person who's borrowing
+there may not realize that they are paying
+a very large risk being
+so if you're, low co-borrower
+and you aren't going to default, like,
+you know, you're not,
+you're paying a very high risk premium.
+And that is because other people
+default in bad times.
+And so you're and even if you do think
+you're going to default, sometimes I think
+one should realize how much of a risk
+premium you're actually paying for this.
+So but now let's go back to something else
+before, before we,
+maybe talk more about that is,
+the other pieces of this.
+So we talked about interchange and rewards
+largely cancel out leaves a little bit.
+It's not zero.
+They do on a little bit from it.
+Most of the transact there's what
+they make off transact is that difference.
+Because transact or spend
+you know recurring a lot borrowers
+tend to kind of accumulate and they don't
+have that much more room to spend
+because they've borrowed.
+So that's not a big portion
+of the of the revenues there.
+Then there's fees.
+That's another couple percent
+is actually making the puzzle worse.
+And then the part that turned out
+to be really big, that surprised us
+is operating expenses.
+Of which marketing you mentioned.
+This turns out to be really big.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I want I want to separate
+that from the risk premium.
+The risk premium is kind of
+the competition for unexpected default,
+which turns out to be pretty big here.
+But let's go back and talk about,
+the points and stuff.
+So I find that people care
+more about people who are more excited
+to talk about points than anything.
+The term rewards was really a marketing
+flourish.
+So, yeah.
+So in total number of dollars,
+this interchange was I mean, again,
+you have to look at, find exact numbers,
+but for credit cards alone,
+I think it was over $150 billion.
+So like the GDP of a medium sized country
+gets transferred as, as interchange,
+maybe small country.
+And we find that about 85% of that
+gets transferred through as rewards.
+You could wonder.
+I think it'd be natural to say,
+what is the point of this?
+Why why charge people?
+You know,
+1.8% and then pass through 1.57%
+as rewards, where, well,
+at least some people, like I guess
+you and I don't pay that much attention.
+I think I have enormous amounts
+of United miles I'm never going to use,
+because I have to actually travel
+to whatever place to use them.
+So, why is that?
+I mean, I think a good economic question
+if people have tackled this,
+I do think it creates
+a very strong network effect.
+So you are not actually seeing a charge
+for this.
+It's the retailer that has to eat it.
+And if you do not, use a card that gives
+rewards, you're not going to get, in
+most cases a lower price.
+So there's a whole series of litigation
+and fights over the years, amazing
+about what retailers
+can do to discriminate.
+You know,
+price is based people who use cards.
+And, and I thought a couple years ago,
+over the last couple of years, I'm
+seeing more restaurants
+give you back a percentage
+or not charge you a percentage.
+If you didn't do that.
+But it's it's a little bit
+beyond my legal expertise to sometimes
+understand this, because for the longest
+time, I can't remember which.
+I think you could give people a discount,
+but you couldn't do a surcharge.
+There was some, like, legal discrimination
+between those things.
+And as a result, people mostly
+don't pay attention to that kind of thing.
+And so you you really want
+to stay inside the network?
+And it kind of keeps you there,
+even if at the end
+it would be a total pass through, it still
+helps for them to keep this business.
+You know, it's interesting.
+There's this crypto company.
+Have you heard of Blackbird?
+Yeah, it's a crypto thing.
+And they have a bunch of restaurants.
+You sign up
+and you're like, paying a coin.
+I don't know exactly how it works,
+but I think that
+they have to own some way
+because in theory would be nice.
+Like, maybe we'll get a little bit
+in the stablecoin.
+There's like a payment rule in the future
+or in this conversation
+and think it'll be a nice way
+to circumvent this.
+But even they, I think, implicitly have to
+reinvent the rewards model to do it.
+Maybe you get premium
+seed, you get reservations, etc..
+in order to sort of like bootstrap
+a new network, you start end up
+having to reinvent a lot of the rebates
+and the benefits and so etc.
+that come with the old network.
+Maybe we'll get into crypto
+a little bit more,
+but talk to us a little bit more
+than about like the persist ins of this,
+of the spread that can't even that
+can't fully be explained by default.
+Yeah.
+So so the default,
+like I said, is like a little under 6%.
+Yeah. Then I'll just I'll mention it.
+So these things do tend to default
+do spike in bad times.
+So we estimate using kind of the cross
+section of different Fico scores.
+How much extra compensation you get
+as you go to lower and lower
+Fico scores in terms of extra APR,
+net of the defaults.
+So we estimate that the risk premium
+there is accounting for about
+similar sized piece. So
+there's
+a risk premium about 5% on average,
+which is much smaller for let's say
+you're an 800 and like go borrower.
+There's not that much risk premium.
+But if you're a 600 Fico borrower,
+the risk premium goes up to like,
+you know, 9%.
+So we go back to like what that mean.
+I think it's means something
+very important.
+I think the person who's borrowing
+there may not realize that they are paying
+a very large risk being
+so if you're, low co-borrower
+and you aren't going to default, like,
+you know, you're not,
+you're paying a very high risk premium.
+And that is because other people
+default in bad times.
+And so you're and even if you do think
+you're going to default, sometimes I think
+one should realize how much of a risk
+premium you're actually paying for this.
+So but now let's go back to something else
+before, before we,
+maybe talk more about that is,
+the other pieces of this.
+So we talked about interchange and rewards
+largely cancel out leaves a little bit.
+It's not zero.
+They do on a little bit from it.
+Most of the transact there's what
+they make off transact is that difference.
+Because transact or spend
+you know recurring a lot borrowers
+tend to kind of accumulate and they don't
+have that much more room to spend
+because they've borrowed.
+So that's not a big portion
+of the of the revenues there.
+Then there's fees.
+That's another couple percent
+is actually making the puzzle worse.
+And then the part that turned out
+to be really big, that surprised us
+is operating expenses.
+Of which marketing you mentioned.
+This turns out to be really big.</p>
+</details>
+
+### 营销开支与消费者对价格的不敏感性
+
+ID:
+And this is yeah.
+This is the thing that I don't get.
+There is so much marketing
+for credit cards.
+And as I said, like
+they're all kind of similar in many ways.
+And I remember
+this was often the, like the blockage
+for new entrants from the fintech space
+trying to get into this business.
+I remember talking to Lending Club
+about this back when they were a thing,
+and they were spending so much money
+on mail advertisements,
+and I just don't get why
+that's the primary acquisition channel
+and why it seems to be so important
+to the business model.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And this is yeah.
+This is the thing that I don't get.
+There is so much marketing
+for credit cards.
+And as I said, like
+they're all kind of similar in many ways.
+And I remember
+this was often the, like the blockage
+for new entrants from the fintech space
+trying to get into this business.
+I remember talking to Lending Club
+about this back when they were a thing,
+and they were spending so much money
+on mail advertisements,
+and I just don't get why
+that's the primary acquisition channel
+and why it seems to be so important
+to the business model.</p>
+</details>
+
+TA:
+Okay,
+so I think you hit on like the really,
+it's a really interesting question.
+Maybe the answer would be
+like people listening, this will be like,
+you know, I knew that, but maybe they did.
+So which is the reason you do it
+because it works,
+which means which by which
+I mean you could.
+This goes back to Joe's question.
+I think you can see we look we do this
+analysis there that if you spend more
+on operating expenses, which I think
+largely means additional marketing,
+because the actual operational side of
+this apparently is very expensive.
+But there's big differences
+across these guys in operating expenses.
+And I don't think it's because
+there's systems that are like much more,
+and we actually see no relation
+between that and the.
+So once you control for Fico.
+So it's not about screening people
+for better borrowers.
+But what it is, it's very it's
+an effective apparently at the margin,
+acquisition
+strategy, customer acquisition strategy.
+So you could do to think
+the following thought process.
+You could say, well, why don't somebody
+just cut all this marketing out
+and just charge a lower rate
+and that'll get people.
+Yeah, that's
+that's your acquisition advertising.
+Right.
+But there's a. Literally it doesn't work.
+So so people are
+not are not rate sensitive,
+which is a recurring theme
+I'm starting to get in, you know, learn
+when we talk about we talked about banks
+and bank deposit rates.
+People are
+they're not completely insensitive
+obviously, but they're not that sensitive
+to the rates.
+They get paid and they're not that
+sensitive to the rates.
+They get charged on this.
+So there are actually this is surprising
+saying the Cfpb has a spreadsheet.
+Well, when there are people still working
+there, they used to have a spreadsheet.
+That they updated with essentially
+every single card there is
+and what the rate on it
+and all the cheapest cards
+are credit unions
+and they're significantly cheaper, much
+cheaper than your average credit card.
+But I'm sure almost nobody except
+their customers have heard about them.
+And it's
+because they don't advertise much.
+And so you say, well,
+if their rates are so cheap and people
+go there,
+it's like they haven't heard about them
+and they don't care that much about
+the rate is my inference from this.
+So the more you pay for marketing
+and operating expenses in the data,
+the higher is the average amount
+you're able to charge it.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Okay,
+so I think you hit on like the really,
+it's a really interesting question.
+Maybe the answer would be
+like people listening, this will be like,
+you know, I knew that, but maybe they did.
+So which is the reason you do it
+because it works,
+which means which by which
+I mean you could.
+This goes back to Joe's question.
+I think you can see we look we do this
+analysis there that if you spend more
+on operating expenses, which I think
+largely means additional marketing,
+because the actual operational side of
+this apparently is very expensive.
+But there's big differences
+across these guys in operating expenses.
+And I don't think it's because
+there's systems that are like much more,
+and we actually see no relation
+between that and the.
+So once you control for Fico.
+So it's not about screening people
+for better borrowers.
+But what it is, it's very it's
+an effective apparently at the margin,
+acquisition
+strategy, customer acquisition strategy.
+So you could do to think
+the following thought process.
+You could say, well, why don't somebody
+just cut all this marketing out
+and just charge a lower rate
+and that'll get people.
+Yeah, that's
+that's your acquisition advertising.
+Right.
+But there's a. Literally it doesn't work.
+So so people are
+not are not rate sensitive,
+which is a recurring theme
+I'm starting to get in, you know, learn
+when we talk about we talked about banks
+and bank deposit rates.
+People are
+they're not completely insensitive
+obviously, but they're not that sensitive
+to the rates.
+They get paid and they're not that
+sensitive to the rates.
+They get charged on this.
+So there are actually this is surprising
+saying the Cfpb has a spreadsheet.
+Well, when there are people still working
+there, they used to have a spreadsheet.
+That they updated with essentially
+every single card there is
+and what the rate on it
+and all the cheapest cards
+are credit unions
+and they're significantly cheaper, much
+cheaper than your average credit card.
+But I'm sure almost nobody except
+their customers have heard about them.
+And it's
+because they don't advertise much.
+And so you say, well,
+if their rates are so cheap and people
+go there,
+it's like they haven't heard about them
+and they don't care that much about
+the rate is my inference from this.
+So the more you pay for marketing
+and operating expenses in the data,
+the higher is the average amount
+you're able to charge it.</p>
+</details>
+
+ID:
+It's really funny,
+this some of the stuff rappelle
+the brain of the academic economist
+now for real,
+like this idea that the borrower
+wouldn't be rate sensitive.
+The idea that we're actually paying more
+to be advertised to, etc..
+because this is their cost, the idea that
+there are lower cost options out there
+and all we have to do is search for them
+and they're available like.
+Well,
+also for macro economists specifically.
+Right.
+Because we talk about benchmark rates
+and the importance
+of how those feed into the economy.
+And here we are
+talking about the credit card rate,
+which is actually potentially more.
+Like I'm serious though, like
+do you encounter academics in this space?
+You think this cannot
+the idea
+rates are high
+because to some extent consumers just
+aren't paying attention to them, etc..
+Do you encounter people
+who think there must be something,
+there must be some variable you're missing
+because we're rational
+and we would seek out the lower rate.
+I want to talk to people
+like you're saying.
+I haven't really had a chance because.
+Because we tend,
+you know, when you pitch this
+to a finance audience, not macro people.
+And I'm a finance person,
+then they're more open it.
+I mean, credit cards are the thing in
+finance people. People like credit cards.
+But I think the interaction with macro
+and monetary is really interesting.
+So it doesn't it doesn't bother me.
+I think it's interesting.
+I mean, I think it's kind of bad
+that a lot of people who are usually not
+in the best shape are essentially adding
+6% rate to their credit card
+because they're paying for the advertising
+that they responded to.
+But, you know, that's, you know,
+you could get it if you didn't respond
+to the advertising, responded to the rate,
+they would do that instead.
+But but they don't.
+So, but you know, think about, you know,
+you guys often talk about the
+fed lowering or hiking rates,
+at at
+the risk of sounding, heretical here,
+I am not a huge believer
+that consumers at all are very sensitive
+to these changes in the in the policy rate
+and the fed funds rate,
+even though the standard model works
+through their intertemporal consumption
+savings decision, I think the evidence
+is very weak that they care about that.
+And then the credit card,
+I think on top of
+that is really makes this clear,
+because if you're paying 23%
+and you are the kind of person
+that wants to, to borrow,
+I mean, obviously because you've borrowed,
+how much is a half a percent
+going to matter to you if the fed hikes?
+Plus you could have been getting
+a much cheaper rate anyway.
+And that didn't compel
+you to go looking for it.
+So I think I think it kind of puts,
+you know,
+a big question mark over
+whether that's really the channel which
+and which is a lot of people
+have said that, but it's still kind of
+the main way we talk about those things.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">It's really funny,
+this some of the stuff rappelle
+the brain of the academic economist
+now for real,
+like this idea that the borrower
+wouldn't be rate sensitive.
+The idea that we're actually paying more
+to be advertised to, etc..
+because this is their cost, the idea that
+there are lower cost options out there
+and all we have to do is search for them
+and they're available like.
+Well,
+also for macro economists specifically.
+Right.
+Because we talk about benchmark rates
+and the importance
+of how those feed into the economy.
+And here we are
+talking about the credit card rate,
+which is actually potentially more.
+Like I'm serious though, like
+do you encounter academics in this space?
+You think this cannot
+the idea
+rates are high
+because to some extent consumers just
+aren't paying attention to them, etc..
+Do you encounter people
+who think there must be something,
+there must be some variable you're missing
+because we're rational
+and we would seek out the lower rate.
+I want to talk to people
+like you're saying.
+I haven't really had a chance because.
+Because we tend,
+you know, when you pitch this
+to a finance audience, not macro people.
+And I'm a finance person,
+then they're more open it.
+I mean, credit cards are the thing in
+finance people. People like credit cards.
+But I think the interaction with macro
+and monetary is really interesting.
+So it doesn't it doesn't bother me.
+I think it's interesting.
+I mean, I think it's kind of bad
+that a lot of people who are usually not
+in the best shape are essentially adding
+6% rate to their credit card
+because they're paying for the advertising
+that they responded to.
+But, you know, that's, you know,
+you could get it if you didn't respond
+to the advertising, responded to the rate,
+they would do that instead.
+But but they don't.
+So, but you know, think about, you know,
+you guys often talk about the
+fed lowering or hiking rates,
+at at
+the risk of sounding, heretical here,
+I am not a huge believer
+that consumers at all are very sensitive
+to these changes in the in the policy rate
+and the fed funds rate,
+even though the standard model works
+through their intertemporal consumption
+savings decision, I think the evidence
+is very weak that they care about that.
+And then the credit card,
+I think on top of
+that is really makes this clear,
+because if you're paying 23%
+and you are the kind of person
+that wants to, to borrow,
+I mean, obviously because you've borrowed,
+how much is a half a percent
+going to matter to you if the fed hikes?
+Plus you could have been getting
+a much cheaper rate anyway.
+And that didn't compel
+you to go looking for it.</p>
+</details>
+
+### 个人信用贷款：被忽视的低成本替代方案
+
+TA:
+Can you talk a little
+bit more about competition?
+And again, like,
+why doesn't someone just come in
+with a lower rate
+and disrupt the entire business?
+But it is, I think.
+Let's give you another example.
+If you personal lines of credit,
+these were all new things to me.
+I find this,
+I think, where you've put retail people
+with the financial sector,
+you actually get a lot of explosions,
+just like weird stuff.
+So that's the place
+where sort of academics should go
+looking, and many do, but
+it's not the place where I kind of having
+worked at like hedge fund market maker.
+Ever thought about these things
+you don't think about,
+like the fancy people,
+like the people who are sophisticated
+do all the math.
+But that's not
+they kind of cancel each other out
+where the real fireworks are
+is when you get into the retail sector.
+And if you look at personal lines
+of credit
+from the same companies, at the same Fico,
+they're substantially cheaper.
+Plus you get all the money up front
+that there's something
+I it's still very puzzling
+that there is almost no marketing there.
+You don't get marketed
+a lot on personal lines of credit,
+and the people who discover them
+do use them to consolidate these debts
+and pay them off in one shot at a lower
+interest rate.
+It's a very, I think, very logical thing,
+to do the people don't do.
+But I mean, just to get back to
+I think we see them over and over
+and you're talking about BNP stuff,
+this idea of how do you acquire customers
+and what role the rate actually has
+there is and just keep, keep seeing.
+It's like a movie. I've seen this before.
+It's more effective at the margin than
+lowering the rates, and it explains a lot.
+I think, of how the finance
+sector interacts with retail,
+which is not just like canceling out.
+So that's the issue.
+It's like, oh, well,
+they spend 5% of assets on marketing.
+Then they add 5% to the cost.
+I guess there's no harm in that.
+Well, not really,
+because what people have done is paid
+the 5% in order to get the marketing.
+So if you really like the commercials,
+you should be really happy.
+But I don't think
+most people would sign up for that.
+I'm just I'm still stunned
+that the advertising actually works
+because like, I get the mail and
+I just throw it out without looking at it.
+Maybe I should be looking at it.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Can you talk a little
+bit more about competition?
+And again, like,
+why doesn't someone just come in
+with a lower rate
+and disrupt the entire business?
+But it is, I think.
+Let's give you another example.
+If you personal lines of credit,
+these were all new things to me.
+I find this,
+I think, where you've put retail people
+with the financial sector,
+you actually get a lot of explosions,
+just like weird stuff.
+So that's the place
+where sort of academics should go
+looking, and many do, but
+it's not the place where I kind of having
+worked at like hedge fund market maker.
+Ever thought about these things
+you don't think about,
+like the fancy people,
+like the people who are sophisticated
+do all the math.
+But that's not
+they kind of cancel each other out
+where the real fireworks are
+is when you get into the retail sector.
+And if you look at personal lines
+of credit
+from the same companies, at the same Fico,
+they're substantially cheaper.
+Plus you get all the money up front
+that there's something
+I it's still very puzzling
+that there is almost no marketing there.
+You don't get marketed
+a lot on personal lines of credit,
+and the people who discover them
+do use them to consolidate these debts
+and pay them off in one shot at a lower
+interest rate.
+It's a very, I think, very logical thing,
+to do the people don't do.
+But I mean, just to get back to
+I think we see them over and over
+and you're talking about BNP stuff,
+this idea of how do you acquire customers
+and what role the rate actually has
+there is and just keep, keep seeing.
+It's like a movie. I've seen this before.
+It's more effective at the margin than
+lowering the rates, and it explains a lot.
+I think, of how the finance
+sector interacts with retail,
+which is not just like canceling out.
+So that's the issue.
+It's like, oh, well,
+they spend 5% of assets on marketing.
+Then they add 5% to the cost.
+I guess there's no harm in that.
+Well, not really,
+because what people have done is paid
+the 5% in order to get the marketing.
+So if you really like the commercials,
+you should be really happy.
+But I don't think
+most people would sign up for that.
+I'm just I'm still stunned
+that the advertising actually works
+because like, I get the mail and
+I just throw it out without looking at it.
+Maybe I should be looking at it.</p>
+</details>
+
+ID:
+On the disruption
+front, you mentioned Bnpl
+and we've done at least one episode on it.
+We should probably do more at some point.
+Is that the big disruptor?
+You know, if they're plugged into websites
+and some of them are getting rewarded
+for being plugged
+into those websites by retailers,
+then they bypass
+the high acquisition costs
+and presumably can still acquire customers
+because you see them everywhere online.
+So I do think that has, a lot to do
+with what
+their angle is, is, is
+it gets in in front of you, in that way,
+and listen to a recent episode of yours,
+I think you guys were talking about
+being sued.
+I wasn't going back in to a much earlier
+episode, but,
+I don't think the economics of the Bnpl,
+beyond that aspect of it
+are that different from the credit cards.
+Right.
+And there's still is very high
+operating and acquisition cost.
+If you look at like Bnpl companies versus
+most of them don't really make money.
+And so I think they're still in that stage
+where they're building up to it.
+And you mentioned Lending Club
+didn't make money. No.
+No, it did not.
+It didn't.
+So because I think you want to grab
+these juicy customers, but they, they're
+your response to the marketing.
+So and just to go even back to that.
+So Amex is one of it's really hard
+to find aggregate marketing numbers
+across companies.
+But from lists
+I've seen, Amex might even be it's
+definitely, I think, a top ten marketer
+in the whole country.
+It might even be in top five,
+I'm not sure.
+Along with some of the that spends over
+$6 billion a year on marketing.
+And this is not including the lounges
+and all this,
+which there's been like articles
+about how everybody's like investing
+like millions of dollars in these
+like that's that's a separate category
+and Capital One spends over $4 billion a year.
+So I looked it up.
+And Amex is bigger than Nike
+and Coke and marketing.
+And you think of like those are being
+the ones that are
+got to be like the gigantic ones.
+And Capital One's about as big.
+A personal line of credit. Yeah.
+This is a good classic.
+What is that product?
+I've never looked into one of those.
+I haven't had an unsecured loan
+from a bank.
+It's an unsecured loan.
+But this is just like classic bank
+borrowing.
+I go to the bank, goes, hey,
+can I borrow some money?
+Surprisingly, the.
+I mean, you can you can.
+Look it up even like like it's
+so easy to do it, to look it up.
+They offer it's a relatively large amount
+compared to a credit card.
+Yeah.
+And you put in your if I go
+they give you a rate.
+The rates almost for sure
+always lower than than the credit card.
+I don't get it either.
+But you know I, I, you know.
+One could use these to pay off.
+And that's mostly what people do,
+which they should.
+I had a journalist
+ask me about this and I was like,
+this is a great idea.
+Like,
+I should look this up and talk about this.
+I mean, there's no, you know,
+how do you explain the spread?
+I mean, I think largely
+it is a it's it's got a lot of this,
+less of this retail focus to it.
+But yeah, it's the same companies too.
+If you go to Amex,
+you can Amex line of credit.
+Discover offers a discover
+line of credit Capital One
+to Capital One line of credit.
+It's the same thing. It's so strange.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">On the disruption
+front, you mentioned Bnpl
+and we've done at least one episode on it.
+We should probably do more at some point.
+Is that the big disruptor?
+You know, if they're plugged into websites
+and some of them are getting rewarded
+for being plugged
+into those websites by retailers,
+then they bypass
+the high acquisition costs
+and presumably can still acquire customers
+because you see them everywhere online.
+So I do think that has, a lot to do
+with what
+their angle is, is, is
+it gets in in front of you, in that way,
+and listen to a recent episode of yours,
+I think you guys were talking about
+being sued.
+I wasn't going back in to a much earlier
+episode, but,
+I don't think the economics of the Bnpl,
+beyond that aspect of it
+are that different from the credit cards.
+Right.
+And there's still is very high
+operating and acquisition cost.
+If you look at like Bnpl companies versus
+most of them don't really make money.
+And so I think they're still in that stage
+where they're building up to it.
+And you mentioned Lending Club
+didn't make money. No.
+No, it did not.
+It didn't.
+So because I think you want to grab
+these juicy customers, but they, they're
+your response to the marketing.
+So and just to go even back to that.
+So Amex is one of it's really hard
+to find aggregate marketing numbers
+across companies.
+But from lists
+I've seen, Amex might even be it's
+definitely, I think, a top ten marketer
+in the whole country.
+It might even be in top five,
+I'm not sure.
+Along with some of the that spends over
+$6 billion a year on marketing.
+And this is not including the lounges
+and all this,
+which there's been like articles
+about how everybody's like investing
+like millions of dollars in these
+like that's that's a separate category
+and Capital One spends over $4 billion a year.
+So I looked it up.
+And Amex is bigger than Nike
+and Coke and marketing.
+And you think of like those are being
+the ones that are
+got to be like the gigantic ones.
+And Capital One's about as big.
+A personal line of credit. Yeah.
+This is a good classic.
+What is that product?
+I've never looked into one of those.
+I haven't had an unsecured loan
+from a bank.
+It's an unsecured loan.
+But this is just like classic bank
+borrowing.
+I go to the bank, goes, hey,
+can I borrow some money?
+Surprisingly, the.
+I mean, you can you can.
+Look it up even like like it's
+so easy to do it, to look it up.
+They offer it's a relatively large amount
+compared to a credit card.
+Yeah.
+And you put in your if I go
+they give you a rate.
+The rates almost for sure
+always lower than than the credit card.
+I don't get it either.
+But you know I, I, you know.
+One could use these to pay off.
+And that's mostly what people do,
+which they should.
+I had a journalist
+ask me about this and I was like,
+this is a great idea.
+Like,
+I should look this up and talk about this.
+I mean, there's no, you know,
+how do you explain the spread?
+I mean, I think largely
+it is a it's it's got a lot of this,
+less of this retail focus to it.
+But yeah, it's the same companies too.
+If you go to Amex,
+you can Amex line of credit.
+Discover offers a discover
+line of credit Capital One
+to Capital One line of credit.
+It's the same thing. It's so strange.</p>
+</details>
+
+ID:
+This whole conversation in edges into some
+frankly like slightly uncomfortable
+territory, in my opinion.
+Because you. Right.
+Because especially when you characterize
+something, it's like you're
+kind of end up paying a lot for them
+to advertise to you when you apparently
+like the advertised advertisement
+because that's you responded to it, etc..
+Like you add you to this territory
+where it's like,
+these are not like it must be, though,
+not the most sophisticated base.
+Right? Like it's sort of
+I again, I don't want it.
+It's like the it's like, why do Nigerian
+email scams have all kinds of typos, etc.?
+And the theory is
+because they want to select for people
+who will be foolish enough to respond
+to them, because if you go down the chain,
+they don't want you to be too savvy
+in asking questions.
+So like,
+let's just get all the savvy customers
+out of the way
+who would instantly recognize a scam email
+and then you, like, get there, right?
+Like.
+Are you saying that the Nigerian
+princes don't pay you?
+I'm just saying.
+I'm like being.
+Like,
+it seems like there's a filtration process
+going on where you end up with this,
+the base of revolvers
+where all this money is made, where it is
+clearly not that financially secure,
+because otherwise
+they would be doing the person
+line of credit or not doing these things
+or looking for that, looking for the
+credit union credit card.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">This whole conversation in edges into some
+frankly like slightly uncomfortable
+territory, in my opinion.
+Because you. Right.
+Because especially when you characterize
+something, it's like you're
+kind of end up paying a lot for them
+to advertise to you when you apparently
+like the advertised advertisement
+because that's you responded to it, etc..
+Like you add you to this territory
+where it's like,
+these are not like it must be, though,
+not the most sophisticated base.
+Right? Like it's sort of
+I again, I don't want it.
+It's like the it's like, why do Nigerian
+email scams have all kinds of typos, etc.?
+And the theory is
+because they want to select for people
+who will be foolish enough to respond
+to them, because if you go down the chain,
+they don't want you to be too savvy
+in asking questions.
+So like,
+let's just get all the savvy customers
+out of the way
+who would instantly recognize a scam email
+and then you, like, get there, right?
+Like.
+Are you saying that the Nigerian
+princes don't pay you?
+I'm just saying.
+I'm like being.
+Like,
+it seems like there's a filtration process
+going on where you end up with this,
+the base of revolvers
+where all this money is made, where it is
+clearly not that financially secure,
+because otherwise
+they would be doing the person
+line of credit or not doing these things
+or looking for that, looking for the
+credit union credit card.</p>
+</details>
+
+ID:
+Well, I'll say something about marketing.
+I mean, we all do respect that.
+You know, you guys are
+you guys are very not elitist.
+Here went every anti elitist.
+So, marketing is a just a huge industry.
+And as a finance person I was like,
+we do have a marketing department at
+the business school.
+And I'm like, oh, there's a reason.
+Because you look at let's say
+you look at alphabet and meta.
+Yeah.
+Meta revenues are almost 100% from
+I think there's like you had a guest
+also talking about this kind of thing.
+So, almost 100% from marketing. Yeah.
+Who goes are like it close to 80%.
+We're talking about
+hundreds of billions of dollars a year
+and all the very sophisticated stuff.
+And at the end, it's.
+So, you know, it works. It works.
+And I've certainly been taking it.
+I get taken in by marketing all the time.
+And let's just say one of the say,
+one of the thing is, I think the reason
+that because the, the ROI is
+here are high, though
+when we decompose this at the end,
+it sort of does most.
+If you take the alpha of this,
+think of this as alpha
+relative to the average bank asset,
+we get that it's about a percent.
+So how do you get down to a percent.
+So the risk premium here is quite big.
+We compare it to the risk
+premium on bonds.
+You have to compare it
+to high yield corporate bonds.
+And it looks similar for all.
+But the lowest Fico bonds versus let's say
+triple C rated bonds, where the lowest
+Fico seems to have a big chunk or the risk
+premium over and above the bonds.
+I could actually see the bonds
+look a little low
+relative to that, because it's the risk
+being on credit cards.
+It kind of rises linearly,
+and it's the bonds that kind of don't.
+But for the not so bad credit, it's
+pretty similar risk premium to high yield
+bond markets.
+And that sense doesn't look it's big
+but it doesn't look crazy.
+But I should say, you know Goldman
+I think they when they got it
+before they got into credit cards
+and it did not work out.
+So apparently it is competitive
+in that sense.
+I think they were eyeing this and saying,
+this is this is a good business.
+You see, the highest
+ROI is by far of all the you know,
+if you go look through the banks, 10-K,
+you know, some of them break this out.
+I think JP Morgan, for example.
+And you see that
+that's got the highest ROI
+by far, that it's bigger than the,
+you know, all the other parts of the bank.
+So I think they were thinking that I know
+got into it.
+They paid very high operating costs
+and had higher defaults
+than, than other ones
+that didn't obviously did not work out
+because they, they,
+they turned away from it.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Well, I'll say something about marketing.
+I mean, we all do respect that.
+You know, you guys are
+you guys are very not elitist.
+Here went every anti elitist.
+So, marketing is a just a huge industry.
+And as a finance person I was like,
+we do have a marketing department at
+the business school.
+And I'm like, oh, there's a reason.
+Because you look at let's say
+you look at alphabet and meta.
+Yeah.
+Meta revenues are almost 100% from
+I think there's like you had a guest
+also talking about this kind of thing.
+So, almost 100% from marketing. Yeah.
+Who goes are like it close to 80%.
+We're talking about
+hundreds of billions of dollars a year
+and all the very sophisticated stuff.
+And at the end, it's.
+So, you know, it works. It works.
+And I've certainly been taking it.
+I get taken in by marketing all the time.
+And let's just say one of the say,
+one of the thing is, I think the reason
+that because the, the ROI is
+here are high, though
+when we decompose this at the end,
+it sort of does most.
+If you take the alpha of this,
+think of this as alpha
+relative to the average bank asset,
+we get that it's about a percent.
+So how do you get down to a percent.
+So the risk premium here is quite big.
+We compare it to the risk
+premium on bonds.
+You have to compare it
+to high yield corporate bonds.
+And it looks similar for all.
+But the lowest Fico bonds versus let's say
+triple C rated bonds, where the lowest
+Fico seems to have a big chunk or the risk
+premium over and above the bonds.
+I could actually see the bonds
+look a little low
+relative to that, because it's the risk
+being on credit cards.
+It kind of rises linearly,
+and it's the bonds that kind of don't.
+But for the not so bad credit, it's
+pretty similar risk premium to high yield
+bond markets.
+And that sense doesn't look it's big
+but it doesn't look crazy.
+But I should say, you know Goldman
+I think they when they got it
+before they got into credit cards
+and it did not work out.
+So apparently it is competitive
+in that sense.
+I think they were eyeing this and saying,
+this is this is a good business.
+You see, the highest
+ROI is by far of all the you know,
+if you go look through the banks, 10-K,
+you know, some of them break this out.
+I think JP Morgan, for example.
+And you see that
+that's got the highest ROI
+by far, that it's bigger than the,
+you know, all the other parts of the bank.
+So I think they were thinking that I know
+got into it.
+They paid very high operating costs
+and had higher defaults
+than, than other ones
+that didn't obviously did not work out
+because they, they,
+they turned away from it.</p>
+</details>
+
+### 监管与宏观经济视角下的信用卡利率
+
+ID:
+Do you see any signs of rates
+eventually coming down?
+It sounds like it's probably
+not going to be through competition
+or new entrants like fintechs,
+but could it be something like regulation?
+I have vague
+memories of the credit card act,
+doing something on this front,
+but could it be something like that?
+The credit card?
+There are tons of papers on it
+when it came out.
+Mostly limited your ability
+to increase rates on existing borrowing.
+Okay.
+And, it it sort of,
+put caps on all kinds of fees and charges.
+And then people were looking for whether
+banks would move that to something else.
+I think in the long run,
+the answer is yes.
+I don't know if they move that
+or just something else, but I mean, so
+for rates,
+if you could just plot it on on Friday,
+even though I think it's like a little bit
+distorted, it's been going up and up.
+I mean, before it starts going
+down, it's got to stop going up.
+So they, they're in,
+pretty strong position,
+but they there is this buy now pay later.
+They were lending club kind of things
+a little.
+They largely crashed and burned.
+And you know, people payments in general.
+I mean, you know, these companies
+for payments are huge because there is,
+you know, PayPal, these guys,
+this is just to take off a little bit off
+the top of this swipe fee.
+And then we're going to get to the
+to the interest rates on this borrowing.
+I mean, I think there is constantly
+like movement in this space,
+but it has not been to drive down
+these driven up acquisition costs more
+than just driven down the actual rates.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Do you see any signs of rates
+eventually coming down?
+It sounds like it's probably
+not going to be through competition
+or new entrants like fintechs,
+but could it be something like regulation?
+I have vague
+memories of the credit card act,
+doing something on this front,
+but could it be something like that?
+The credit card?
+There are tons of papers on it
+when it came out.
+Mostly limited your ability
+to increase rates on existing borrowing.
+Okay.
+And, it it sort of,
+put caps on all kinds of fees and charges.
+And then people were looking for whether
+banks would move that to something else.
+I think in the long run,
+the answer is yes.
+I don't know if they move that
+or just something else, but I mean, so
+for rates,
+if you could just plot it on on Friday,
+even though I think it's like a little bit
+distorted, it's been going up and up.
+I mean, before it starts going
+down, it's got to stop going up.
+So they, they're in,
+pretty strong position,
+but they there is this buy now pay later.
+They were lending club kind of things
+a little.
+They largely crashed and burned.
+And you know, people payments in general.
+I mean, you know, these companies
+for payments are huge because there is,
+you know, PayPal, these guys,
+this is just to take off a little bit off
+the top of this swipe fee.
+And then we're going to get to the
+to the interest rates on this borrowing.
+I mean, I think there is constantly
+like movement in this space,
+but it has not been to drive down
+these driven up acquisition costs more
+than just driven down the actual rates.</p>
+</details>
+
+TA:
+Unrelated macro question.
+One of the reasons I like
+your work is sort of revisiting
+some of these, like, basic questions,
+which I think is useful.
+And of course, when we talked to you
+a couple of years ago,
+it was like, let's revisit
+some of what we thought
+we knew about the 70s
+and see if that inflation story
+was a little bit different.
+Just on the big macro question
+these days, rates
+where they are inflation
+sort of persistently warm.
+A lot of people like to talk about
+our star must be therefore higher than it
+otherwise would have been.
+What do you think we've learned?
+You know, we had this a very fast rate
+hiking cycle, 2021 through 2023
+that almost, I would say many economists
+would have expected the unemployment
+rate to rise a lot more,
+given that rate hike cycle has and of.
+Spending to go. Down.
+Yeah, we're spending to go down, etc.
+and I'd, I personally,
+I'm really satisfied by the stories
+that people tell about how,
+in fact those rate hikes
+translated into lower inflation.
+Have you yourself sort of learned
+anything interesting in the last,
+I don't know, 3 or 4 years,
+five years of this macro experiment
+that we have post-pandemic.
+
+ID:
+My inference, I mean,
+I think it's a great topic and question.
+My my inference was that,
+that the
+cycle, I mean, the group
+that thought that this was largely
+a supply shock issue, that Covid disrupted
+supply chains tremendously.
+I mean, we saw that and I think if you
+look like the New York Fed has this,
+you know, index that they put together
+on, on, supply disruptions.
+Yeah.
+This predicted the trajectory of inflation
+with the three month lead.
+Very well.
+I think we had a period where, we saw that
+there was increased employment
+and yet output was going down.
+So usually when we talk about productivity
+and things,
+there's all these compositional issues.
+Do you fire the least productive people.
+So productivity
+goes up for mechanical reasons.
+But when you have more people
+being employed
+and yet output's going down as it did
+for several quarters,
+that can't be the reason.
+So I took away from it.
+You know, there's harsh arguments about
+this, that this was largely supply driven.
+And how it relates to the 70s is argument
+there for different reasons,
+was that it was supply driven
+due to do the credit crunches and things.
+So I tend to think that a lot
+of the business cycle things
+and the inflation
+as we've seen, like after wars, were often
+switching the kind of production
+that you do, which is a supply thing.
+I'm very much in the in the supply camp
+and do not think that I think the,
+the reason that employment
+held up and spending held up,
+because I don't think
+that this was happening
+through decreasing demand
+and getting people fired and so forth.
+I think it was products,
+you know, components could ship again.
+And so people could be, you know,
+more productive with the with the labor
+they had.
+So to me, I'm sure some people very,
+very highly disagreed.
+To me,
+that looked like a pretty clear story.
+So if you're a Jerome Powell
+and you're worried about inflation
+going up, and I should just mention
+we are recording this on.
+October 29th. Yeah.
+So the fed decided. There's going to be a
+which.
+Is widely expected to be a cut. Right.
+But you know inflation is still,
+you know, somewhat warm.
+As Joe said if you're worried about it,
+should you be looking at credit card
+rates versus, you know, mortgage rates
+or benchmark rates or things like that?
+How should policymakers
+actually think about this problem.
+In between those?
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Unrelated macro question.
+One of the reasons I like
+your work is sort of revisiting
+some of these, like, basic questions,
+which I think is useful.
+And of course, when we talked to you
+a couple of years ago,
+it was like, let's revisit
+some of what we thought
+we knew about the 70s
+and see if that inflation story
+was a little bit different.
+Just on the big macro question
+these days, rates
+where they are inflation
+sort of persistently warm.
+A lot of people like to talk about
+our star must be therefore higher than it
+otherwise would have been.
+What do you think we've learned?
+You know, we had this a very fast rate
+hiking cycle, 2021 through 2023
+that almost, I would say many economists
+would have expected the unemployment
+rate to rise a lot more,
+given that rate hike cycle has and of.
+Spending to go. Down.
+Yeah, we're spending to go down, etc.
+and I'd, I personally,
+I'm really satisfied by the stories
+that people tell about how,
+in fact those rate hikes
+translated into lower inflation.
+Have you yourself sort of learned
+anything interesting in the last,
+I don't know, 3 or 4 years,
+five years of this macro experiment
+that we have post-pandemic.
+My inference, I mean,
+I think it's a great topic and question.
+My my inference was that,
+that the
+cycle, I mean, the group
+that thought that this was largely
+a supply shock issue, that Covid disrupted
+supply chains tremendously.
+I mean, we saw that and I think if you
+look like the New York Fed has this,
+you know, index that they put together
+on, on, supply disruptions.
+Yeah.
+This predicted the trajectory of inflation
+with the three month lead.
+Very well.
+I think we had a period where, we saw that
+there was increased employment
+and yet output was going down.
+So usually when we talk about productivity
+and things,
+there's all these compositional issues.
+Do you fire the least productive people.
+So productivity
+goes up for mechanical reasons.
+But when you have more people
+being employed
+and yet output's going down as it did
+for several quarters,
+that can't be the reason.
+So I took away from it.
+You know, there's harsh arguments about
+this, that this was largely supply driven.
+And how it relates to the 70s is argument
+there for different reasons,
+was that it was supply driven
+due to do the credit crunches and things.
+So I tend to think that a lot
+of the business cycle things
+and the inflation
+as we've seen, like after wars, were often
+switching the kind of production
+that you do, which is a supply thing.
+I'm very much in the in the supply camp
+and do not think that I think the,
+the reason that employment
+held up and spending held up,
+because I don't think
+that this was happening
+through decreasing demand
+and getting people fired and so forth.
+I think it was products,
+you know, components could ship again.
+And so people could be, you know,
+more productive with the with the labor
+they had.
+So to me, I'm sure some people very,
+very highly disagreed.
+To me,
+that looked like a pretty clear story.
+So if you're a Jerome Powell
+and you're worried about inflation
+going up, and I should just mention
+we are recording this on.
+October 29th. Yeah.
+So the fed decided. There's going to be a
+which.
+Is widely expected to be a cut. Right.
+But you know inflation is still,
+you know, somewhat warm.
+As Joe said if you're worried about it,
+should you be looking at credit card
+rates versus, you know, mortgage rates
+or benchmark rates or things like that?
+How should policymakers
+actually think about this problem.
+In between those?</p>
+</details>
+
+ID:
+I, I think mortgage rates that people,
+you know, do seem very much to respond to
+it is a much bigger amount.
+Maybe they're more sophisticated,
+sensitive.
+It lasts with you for a long time.
+I mean,
+I think that's much more important,
+the shifts in those spreads
+than, for the macro economy.
+Then what? The credit card rates
+is just not much movement.
+I mean, they are literally tacked on
+top of the fed funds rate.
+So that's completely mechanical.
+Didn't used to be the case 30 years ago,
+but basically just move one.
+The spread will move
+one for one with the fed funds rate,
+except when they expand it by issuing
+new cards and making rates higher.
+So I think the mortgage
+market's much more important,
+for macro kind of stuff.
+I mean, I don't envy,
+you know, Powell's job.
+It's a very hard job now I yeah, not sure.
+Yeah. I last time was at the fed.
+I was in the elevator when he got in,
+but I didn't come up against
+I didn't say anything to him,
+but I got to see him in person.
+Jerome.
+Our stars fake.
+You know, you talk about fintech, etc..
+I consider I personally like,
+I actually think stablecoins
+are going to be a very big deal.
+Yeah, but I am actually not
+I do not necessarily
+think they're going to be a big deal
+for consumer transactions.
+It's not obvious to me.
+My guess is that to open up
+new transactions that we aren't
+thinking of right now,
+but not for like buying coffee or buying,
+you know, whatever, I'm sure.
+But from your research,
+whether into cards, etc.,
+how would that inform your
+or other, fintech?
+How would that inform your thinking
+about the trajectory
+of the stablecoin industry in stablecoin?
+It's interesting.
+And I you know,
+I've heard you mention this kind of view,
+which I think is not one I'd considered.
+I was thinking a lot about consumers.
+I'll say this,
+I think to for me and some of the people
+I talked to my coauthors stablecoin
+are they're,
+they're like a puzzle in the sense that,
+maybe not all stablecoin,
+but the ones that have been around
+are kind of like a money market fund
+that doesn't pay you interest.
+That's how I would summarizing, because,
+and that's why I think,
+you know, these are some of, like,
+the most profitable
+companies ever per employee
+because there's they don't do anything.
+Yeah. So if
+you give them a bunch of billion dollars,
+they just take the whole interest.
+There's some advertising there too, but
+not a tremendous amount compared to that.
+And people are happy with that.
+I don't really get it.
+But, you know,
+now they've like you mentioned,
+they've started to
+to learn that sort of tricks of the trade.
+They're going to do rewards
+better than paying people actual interest.
+You give them rewards.
+So from the point of view of consumers,
+it is kind of a mystery.
+I mean, I would love to start a money
+market fund and not pay anybody
+any interest economically.
+When you don't pay
+any interest on a dollar ever,
+you've taken the whole dollar.
+That's what the dollar does.
+It pays you interest.
+So yeah, the net present value of all
+the interest of a dollar is the dollar.
+So they never pay you
+and you stay there forever.
+And if they have $8 billion,
+they've captured $8 billion.
+Again nice business if you can get.
+Yeah it's a great business.
+It's it's weird but it's a great business.
+What's your next research project.
+So I think from,
+this credit card stuff, there's there's
+definitely interesting things
+to think about.
+You know, how people default.
+And you know why,
+how much this marketing stuff affects them
+from another point of view is,
+so, one of my coauthors in here,
+a former student of mine,
+we have a bunch of, work on,
+you know, adjustable rate mortgages
+and why they kind of disappeared.
+So they used to be a big thing,
+and they've kind of disappeared.
+And I think we kind of understand why.
+So that's that's,
+you know, there's been a lot of discussion
+about that for mortgages.
+Why is the US in one camp
+and many other countries in another camp,
+but the US kind of used to be
+in the adjustable mortgage rate camp,
+at least pre-crisis.
+And I remember,
+when the rate hike when we started surging
+do is this popular theory
+that monetary policy would have more teeth
+in countries like Canada, Australia,
+the UK, because so many more households
+would be more sensitive to faster reset?
+Has that actually been borne out?
+It sounds great as like a theory.
+Intuitively, that makes a lot of sense.
+I do, I guess Canadian unemployment
+has trended higher than American, but
+does that.
+But the inflation trajectories,
+I think, have been roughly the same. And
+the those other Anglophone countries
+versus
+the U.S where they had, I don't know,
+like how strong effect was that?
+Do you know?
+I don't know exactly.
+But I don't get the impression
+that it was tremendously different.
+I think it has impacted consumers.
+One thing I should note though, is so you
+there's two senses in which monetary
+policy can have, in effect.
+One is that it makes people
+have to spend a lot of money on that.
+So it's expensive for them.
+But the other one is that here,
+and I don't think that's the effect
+we were going for.
+But people have just,
+you know, stopped taking out
+as many mortgages and don't move.
+It was a negative effect.
+I'm just not sure it's
+a anti-inflationary effect.
+So it's like with you,
+if you're going to have
+floating rate stuff
+and that's like the case
+with credit cards,
+then it shouldn't affect the volume of it
+that much in terms of producing it.
+But it's kind of people.
+It's expensive for them.
+And then on the fixed rate, one,
+they just stick to the old stuff
+and we don't, you know, mortgage
+credit's really dried up in a way.
+But it's not affecting the,
+the existing borrowers only
+to the extent that you don't want to move,
+which is actually a big deal anymore.
+Drexler, thank you so much for,
+coming back on out loud.
+It's always a treat.
+And next time we have a,
+new report out, let's talk about
+let's talk terms next time.
+Okay, great.
+Thank you very much for having Tracy.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I, I think mortgage rates that people,
+you know, do seem very much to respond to
+it is a much bigger amount.
+Maybe they're more sophisticated,
+sensitive.
+It lasts with you for a long time.
+I mean,
+I think that's much more important,
+the shifts in those spreads
+than, for the macro economy.
+Then what? The credit card rates
+is just not much movement.
+I mean, they are literally tacked on
+top of the fed funds rate.
+So that's completely mechanical.
+Didn't used to be the case 30 years ago,
+but basically just move one.
+The spread will move
+one for one with the fed funds rate,
+except when they expand it by issuing
+new cards and making rates higher.
+So I think the mortgage
+market's much more important,
+for macro kind of stuff.
+I mean, I don't envy,
+you know, Powell's job.
+It's a very hard job now I yeah, not sure.
+Yeah. I last time was at the fed.
+I was in the elevator when he got in,
+but I didn't come up against
+I didn't say anything to him,
+but I got to see him in person.
+Jerome.
+Our stars fake.
+You know, you talk about fintech, etc..
+I consider I personally like,
+I actually think stablecoins
+are going to be a very big deal.
+Yeah, but I am actually not
+I do not necessarily
+think they're going to be a big deal
+for consumer transactions.
+It's not obvious to me.
+My guess is that to open up
+new transactions that we aren't
+thinking of right now,
+but not for like buying coffee or buying,
+you know, whatever, I'm sure.
+But from your research,
+whether into cards, etc.,
+how would that inform your
+or other, fintech?
+How would that inform your thinking
+about the trajectory
+of the stablecoin industry in stablecoin?
+It's interesting.
+And I you know,
+I've heard you mention this kind of view,
+which I think is not one I'd considered.
+I was thinking a lot about consumers.
+I'll say this,
+I think to for me and some of the people
+I talked to my coauthors stablecoin
+are they're,
+they're like a puzzle in the sense that,
+maybe not all stablecoin,
+but the ones that have been around
+are kind of like a money market fund
+that doesn't pay you interest.
+That's how I would summarizing, because,
+and that's why I think,
+you know, these are some of, like,
+the most profitable
+companies ever per employee
+because there's they don't do anything.
+Yeah. So if
+you give them a bunch of billion dollars,
+they just take the whole interest.
+There's some advertising there too, but
+not a tremendous amount compared to that.
+And people are happy with that.
+I don't really get it.
+But, you know,
+now they've like you mentioned,
+they've started to
+to learn that sort of tricks of the trade.
+They're going to do rewards
+better than paying people actual interest.
+You give them rewards.
+So from the point of view of consumers,
+it is kind of a mystery.
+I mean, I would love to start a money
+market fund and not pay anybody
+any interest economically.
+When you don't pay
+any interest on a dollar ever,
+you've taken the whole dollar.
+That's what the dollar does.
+It pays you interest.
+So yeah, the net present value of all
+the interest of a dollar is the dollar.
+So they never pay you
+and you stay there forever.
+And if they have $8 billion,
+they've captured $8 billion.
+Again nice business if you can get.
+Yeah it's a great business.
+It's it's weird but it's a great business.
+What's your next research project.
+So I think from,
+this credit card stuff, there's there's
+definitely interesting things
+to think about.
+You know, how people default.
+And you know why,
+how much this marketing stuff affects them
+from another point of view is,
+so, one of my coauthors in here,
+a former student of mine,
+we have a bunch of, work on,
+you know, adjustable rate mortgages
+and why they kind of disappeared.
+So they used to be a big thing,
+and they've kind of disappeared.
+And I think we kind of understand why.
+So that's that's,
+you know, there's been a lot of discussion
+about that for mortgages.
+Why is the US in one camp
+and many other countries in another camp,
+but the US kind of used to be
+in the adjustable mortgage rate camp,
+at least pre-crisis.
+And I remember,
+when the rate hike when we started surging
+do is this popular theory
+that monetary policy would have more teeth
+in countries like Canada, Australia,
+the UK, because so many more households
+would be more sensitive to faster reset?
+Has that actually been borne out?
+It sounds great as like a theory.
+Intuitively, that makes a lot of sense.
+I do, I guess Canadian unemployment
+has trended higher than American, but
+does that.
+But the inflation trajectories,
+I think, have been roughly the same. And
+the those other Anglophone countries
+versus
+the U.S where they had, I don't know,
+like how strong effect was that?
+Do you know?
+I don't know exactly.
+But I don't get the impression
+that it was tremendously different.
+I think it has impacted consumers.
+One thing I should note though, is so you
+there's two senses in which monetary
+policy can have, in effect.
+One is that it makes people
+have to spend a lot of money on that.
+So it's expensive for them.
+But the other one is that here,
+and I don't think that's the effect
+we were going for.
+But people have just,
+you know, stopped taking out
+as many mortgages and don't move.
+It was a negative effect.
+I'm just not sure it's
+a anti-inflationary effect.
+So it's like with you,
+if you're going to have
+floating rate stuff
+and that's like the case
+with credit cards,
+then it shouldn't affect the volume of it
+that much in terms of producing it.
+But it's kind of people.
+It's expensive for them.
+And then on the fixed rate, one,
+they just stick to the old stuff
+and we don't, you know, mortgage
+credit's really dried up in a way.
+But it's not affecting the,
+the existing borrowers only
+to the extent that you don't want to move,
+which is actually a big deal anymore.
+Drexler, thank you so much for,
+coming back on out loud.
+It's always a treat.
+And next time we have a,
+new report out, let's talk about
+let's talk terms next time.
+Okay, great.
+Thank you very much for having Tracy.</p>
+</details>
+
+### 总结：消费者对价格的“非理性”
+
+Tracy Alloway (TA):
+I found that conversation
+to be fascinating.
+I have to admit, like.
+Yeah, like credit cards or the sort of
+black box to me, in many respects,
+I don't really understand the business
+because I don't actually use them
+for revolving purposes
+or borrowing against them.
+I don't think I quite realized how crazy
+the numbers are, and I certainly knew
+that there are tons of advertising,
+including direct mail and credit cards.
+But the idea that this is so substantial
+that a big part of
+what people are paying for here
+is the advertising.
+That was all very novel to me.
+My big takeaway from
+this is that, you know, people,
+I guess, are not rational,
+at least when it comes to credit cards.
+Right? The marketing seems to work.
+
+ID:
+Yeah, naturally, I'm not rational
+because I don't take advantage
+of all the points that I could.
+And I don't like optimize
+in the way I could.
+And when I, like, buy
+a plane ticket, only part of the time
+do I think about, is this the airline?
+
+TA:
+Well, you could also argue that
+it's rational to like factor in the time
+I'm doing it.
+That's how I justify
+all of this money left on the tax
+right by saying I make it rational.
+My time is valuable.
+
+ID:
+Yeah, my time, is valuable.
+It's.
+But, you know, if there are all these
+other boring products out there
+that are cheaper, etc., it does feel like
+someone must be able to come along
+and make a product.
+And yes.
+That is let's going to compete on rate
+or you're going to be able
+to borrow cheaper.
+I don't know, maybe Bnpl
+will achieve that.
+I don't know, I'm going to go take out
+a personal finance loan right now.
+Go for it.
+
+TA:
+Shall we leave it
+there. Let's leave it there.
+This has been another episode
+of the All Thoughts podcast.
+I'm Tracy Alloway.
+You can follow me at Tracy Alloway.
+And I'm Joe Weisenthal.
+You can follow me at the store.
+For more all thoughts content,
+please check out our daily newsletter.
+You can find that at bloomberg.com/atlas.
+We also have a discord
+where you can chat with fellow listeners.
+Discord upgrade lots and.
+If you like this conversation
+then please like or comment.
+Or better yet, subscribe.
+Thanks for listening.
+To.
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I found that conversation
+to be fascinating.
+I have to admit, like.
+Yeah, like credit cards or the sort of
+black box to me, in many respects,
+I don't really understand the business
+because I don't actually use them
+for revolving purposes
+or borrowing against them.
+I don't think I quite realized how crazy
+the numbers are, and I certainly knew
+that there are tons of advertising,
+including direct mail and credit cards.
+But the idea that this is so substantial
+that a big part of
+what people are paying for here
+is the advertising.
+That was all very novel to me.
+My big takeaway from
+this is that, you know, people,
+I guess, are not rational,
+at least when it comes to credit cards.
+Right? The marketing seems to work.
+Yeah, naturally, I'm not rational
+because I don't take advantage
+of all the points that I could.
+And I don't like optimize
+in the way I could.
+And when I, like, buy
+a plane ticket, only part of the time
+do I think about, is this the airline?
+Well, you could also argue that
+it's rational to like factor in the time
+I'm doing it.
+That's how I justify
+all of this money left on the tax
+right by saying I make it rational.
+My time is valuable.
+Yeah, my time, is valuable.
+It's.
+But, you know, if there are all these
+other boring products out there
+that are cheaper, etc., it does feel like
+someone must be able to come along
+and make a product.
+And yes.
+That is let's going to compete on rate
+or you're going to be able
+to borrow cheaper.
+I don't know, maybe Bnpl
+will achieve that.
+I don't know, I'm going to go take out
+a personal finance loan right now.
+Go for it.
+Shall we leave it
+there. Let's leave it there.
+This has been another episode
+of the All Thoughts podcast.
+I'm Tracy Alloway.
+You can follow me at Tracy Alloway.
+And I'm Joe Weisenthal.
+You can follow me at the store.
+For more all thoughts content,
+please check out our daily newsletter.
+You can find that at bloomberg.com/atlas.
+We also have a discord
+where you can chat with fellow listeners.
+Discord upgrade lots and.
+If you like this conversation
+then please like or comment.
+Or better yet, subscribe.
+Thanks for listening.
+To.</p>
+</details>
