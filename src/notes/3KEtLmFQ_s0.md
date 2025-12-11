@@ -4,7 +4,7 @@ date: '2025-10-20'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=3KEtLmFQ_s0
-speaker: 贾葭
+speaker: 东京人文论坛
 tags:
   - japanese-xenophobia
   - national-identity
@@ -32,6 +32,7 @@ people:
   - 佩里
   - 吉永兰
   - 师平
+  - 贾葭
 companies_orgs:
   - 中央电视台
   - 正仓院

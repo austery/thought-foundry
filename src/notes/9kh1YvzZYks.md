@@ -19,7 +19,7 @@ products_models: []
 media_books: []
 date: 2025-09-24
 author: Lei
-speaker: Lei
+speaker: 课代表立正
 draft: true
 guest: null
 insight: null

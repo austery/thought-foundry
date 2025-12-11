@@ -18,7 +18,7 @@ products_models: []
 media_books: []
 date: 2025-09-11
 author: Lei
-speaker: 大宋佬
+speaker: 政經孫老師
 draft: true
 guest: null
 insight: null

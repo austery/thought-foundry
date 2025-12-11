@@ -26,7 +26,7 @@ guest: null
 insight: null
 layout: post.njk
 series: null
-source: https://www.youtube.com/watch?v=d7Pb73dbcIM&t
+source: https://www.youtube.com/watch?v=d7Pb73dbcIM
 ---
 ## 介绍与准备工作
 
