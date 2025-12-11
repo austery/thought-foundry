@@ -18,6 +18,11 @@ We investigated and resolved a critical `JavaScript heap out of memory` crash du
     *   Slug Cache Hit Rate: 91.2%.
     *   Output Files: 38,756.
 
+## Phase 4: Entity Template Optimization (Crucial Fix)
+*   **Issue**: Identified that 9 entity detail templates (`person-page`, `company-org-page`, `tag-page`, `project-page`, `area-page`, `speaker-page`, `category-page`, `product-model-page`, `media-book-page`) were unknowingly skipping the Phase 3 optimizations. They were using expensive `| getUniqueKey | slug` filter chains inside nested loops.
+*   **Resolution**: Updated all 9 templates to use the O(1) helper filters (`| getSpeakerSlug`, `| getAreaSlug`, etc.).
+*   **Result**: Resolved a secondary memory crash that occurred when generating `people/` pages. Verification build succeeded in **75 seconds**.
+
 ## Knowledge Captured
 *   **Pagefind & Chinese**: Pagefind warnings about lack of "stemming" for `zh-hans` are expected and benign for Chinese content.
 *   **Memory Pattern**: Even with 8GB RAM (`max-old-space-size=8192`), Eleventy can crash if a *single template* tries to construct a multi-megabyte HTML string in one go. Pagination is the mandatory fix for this.

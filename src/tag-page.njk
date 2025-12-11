@@ -27,7 +27,7 @@ permalink: "/tags/{{ tagInfo.slug }}/"
       {% endif %}
       {# Speaker 部分 #}
       {% if item.data.speaker %}
-        <a href="{{ ('/speakers/' + (item.data.speaker | getSpeakerUniqueKey(collections) | slug) + '/') | url }}" class="speaker-inline">🎙️ {{ item.data.speaker }}</a>
+        <a href="{{ ('/speakers/' + (item.data.speaker | getSpeakerSlug(collections)) + '/') | url }}" class="speaker-inline">🎙️ {{ item.data.speaker }}</a>
       {% endif %}
       {# 日期部分 #}
       {% if item.date %}
@@ -37,22 +37,22 @@ permalink: "/tags/{{ tagInfo.slug }}/"
       {% endif %}
       <br>
 
-      {# 领域、分类和专题部分 - 显示在下一行 (v7.4) - 和首页保持一致 #}
+      {# 领域、分类和专题部分 #}
       {% if item.data.area or item.data.category or (item.data.project and item.data.project.length > 0) %}
         <div class="taxonomy-line">
           {% if item.data.area %}
-            <a href="{{ ('/areas/' + (item.data.area | getAreaUniqueKey(collections) | slug) + '/') | url }}" class="area-badge-inline">
+            <a href="{{ ('/areas/' + (item.data.area | getAreaSlug(collections)) + '/') | url }}" class="area-badge-inline">
               🌐 {{ item.data.area }}
             </a>
           {% endif %}
           {% if item.data.category %}
-            <a href="{{ ('/categories/' + (item.data.category | slug) + '/') | url }}" class="category-badge-inline">
+            <a href="{{ ('/categories/' + (item.data.category | getCategorySlug(collections)) + '/') | url }}" class="category-badge-inline">
               🏷️ {{ item.data.category }}
             </a>
           {% endif %}
           {% if item.data.project and item.data.project.length > 0 %}
             {% for proj in item.data.project %}
-              <a href="{{ ('/projects/' + (proj | slug) + '/') | url }}" class="project-badge-inline">
+              <a href="{{ ('/projects/' + (proj | getProjectSlug(collections)) + '/') | url }}" class="project-badge-inline">
                 📂 {{ proj }}
               </a>
             {% endfor %}
