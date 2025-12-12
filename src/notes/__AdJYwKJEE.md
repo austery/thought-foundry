@@ -1,6 +1,6 @@
 ---
 author: 一口新飯
-date: '2025-11-05'
+date: '2025-09-27'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=__AdJYwKJEE

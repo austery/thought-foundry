@@ -11,8 +11,8 @@ tags:
   - pricing-power
   - conviction-investing
   - activist-investing
-title: 投资大师克里斯·霍恩：论高壁垒、长期主义与投资的本质
-summary: 传奇投资者克里斯·霍恩（Chris Hohn）深入剖析了他的投资哲学。他强调，一项优质投资的核心是“高进入壁垒”或“护城河”，而非盲目追求增长。霍恩详细阐述了多种护城河的形态，如不可替代的实体资产、知识产权、网络效应和客户转换成本，并指出真正的定价权是检验护城河的试金石。他分享了自己规避的“糟糕”行业清单，并阐述了长期主义、集中投资和独立思考的重要性。此外，他还探讨了从激进维权到建设性参与的转变，以及其慈善事业背后的深刻精神动力。
+title: "传奇投资人 Chris Hohn：探寻投资与人生的终极护城河"
+summary: "TCI 基金创始人、传奇投资人 Chris Hohn 深入剖析了他的投资哲学。他强调，卓越投资的核心并非增长，而是由高准入门槛构成的可持续“护城河”。Hohn 详细阐述了多种护城河类型，如不可替代的实物资产、知识产权、网络效应和客户转换成本。他分享了对长期主义、集中投资和激进主义演变的看法，并坦率地列出了他会避开的“糟糕行业”。最后，他探讨了投资之外的议题，包括企业文化、慈善事业的驱动力以及个人精神追求的重要性。"
 insight: ''
 draft: true
 series: ''
@@ -479,4 +479,292 @@ TCI 的企业文化是怎样的？我们的投资团队很小，只有七八个�
 <details>
 <summary>View/Hide Original English</summary>
 <p class="english-text">So given that and in order to finish off on a slightly more uplifting note um What is your what is your advice to young people on a kind of spiritual Yeah. Go on a spiritual um path. Go on a study a and I would say the spiritual world is real. soul is uh when I first mentioned this to my son I think he was uh 20 he said dad the soul is a myth he doesn't think that now is it not he doesn't think that now it's definitely not and there are many paths to connect to it and uh you can connect consciously to it and um and uh whether you go the long way the short way the easy way the the hard way through suffering you eventually come to to to to learn that it the spiritual world is not just real but it's the the whole thing and and so the um and that's the only source of real purpose and meaning and and and and joy which the world needs. Yep. And and and I think that uh um if you crack that then everything else is easy.</p>
+</details>
+
+
+
+
+### 优质投资的核心：高准入门槛
+
+大家好，我是 Nikolai Tangan，今天我们请到了一位史上最杰出的投资者之一——Chris Hohn。他的基金 TCI 不仅是欧洲有史以来最成功、最优秀的基金之一，其附属的慈善机构如今也位列全球最大慈善机构之列。Chris，你持续地为世界带来巨大的积极影响，感谢你的到来。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Hi everyone, I'm Nikolai Tangan and today we are joined by one of the best investors of all time actually. So Chris Hohn, not only is this fund TCI one of the best and most successful funds that Europe has ever seen, but also the charity is now one of the largest in the world. So Chris, you continue to have an immense positive impact on the world. Thanks for coming.</p>
+</details>
+
+让我们从投资界开始。什么才是一项好的投资？我认为很多人都弄错了这一点，他们常常认为关键在于增长或是新事物。但在我们看来，这两者本身并不重要。对于我们所从事的这类投资而言，最重要、不可或缺的因素是高准入门槛，也就是沃伦·巴菲特（Warren Buffett）所说的“**护城河**（Moat）”。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Let's start with the investment world. What makes a good investment? I think this is something a lot of people get wrong. They think it's about growth often. Or something new. Neither of those things in themselves matter to us by themselves. The most important thing, and without which it's, for the types of investing that we do, is high barriers to entry—the moats that Warren Buffett has talked about.</p>
+</details>
+
+当然，一项不良资产，比如一块因为清算而半价出售的房地产，也能成为一笔好投资。那些以远低于重置成本的价格交易的廉价、普通的资产，也就是所谓的低质量资产，确实存在投资机会。这种投资方式可能奏效，我自己过去也做过，投资于廉价的普通企业甚至糟糕的企业。但我对这类投资没有信心，因为那些普通企业的盈利能力是不可预测的。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Now, can a distressed asset, like a piece of real estate selling at half price because of a liquidation, also be a good investment? Yes. So, can there be a role for cheap average assets? Yes, let's call them low-quality assets which are trading at big discounts to replacement cost. Yes, that's the type of investing that can work. I've done it in my time. Cheap average businesses or cheap bad businesses. But I don't feel that I can have any confidence in that type of investing, because the earnings power of those average businesses is unpredictable.</p>
+</details>
+
+### 可持续的多元化护城河
+
+那么，什么是好的护城河呢？最重要的答案是：可持续的护城河。理想情况下，你希望拥有多种护城河，即多重防御。护城河的形式有很多，但根本上说，它指的是让一项业务难以被替代、难以与之竞争的因素。你需要防范替代风险和竞争风险，这两者从长远来看非常棘手。为什么这如此重要？因为竞争会扼杀利润，而替代则会消灭你的整个业务。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So what are good moats? The most important answer is ones that are sustainable. Ideally, you would have multiple moats, multiple pieces of defense. There are many ways, but it's basically something that means that the business is difficult to replace and difficult to compete with. You need to address substitution risk and competition risk. Those long-term become very difficult. Why is it so important? Competition kills profits. That's as simple as that. Substitution eliminates your business.</p>
+</details>
+
+我们关注多种多样的护城河。其中一种大多数投资者实际上并未真正关注，那就是不可替代的实物资产。我们生活在一个人们只看盈利、不看资产价值或实物资产的世界。因此，我们相当偏爱基础设施。以机场为例，我们投资了西班牙的机场集团 Aena，当时政府将其私有化了。你永远不可能在马德里或其他地方建造第二个机场，这些都是天然的垄断。这也适用于收费公路、铁路和电信塔等多种基础设施。这些传输塔很难与之竞争，因为它们是天然垄断。当然，有些基础设施可能会过度建设，比如有线电视。所以你必须具体情况具体分析。但想要获得规划许可来建造第二个机场，通常既不寻常也没有经济上的合理性。想想希思罗机场为了一条额外的跑道挣扎了多久。规划许可和土地都是巨大的障碍，建设第二条公路也缺乏经济理由。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So we look at many, many moats. One which most investors don't really look at, actually interestingly, is irreplaceable physical assets. We're in a world where people just look at earnings. They don't look at asset value or physical assets. And so we like quite a bit of infrastructure. Airports for example, one of our investments has been the airport group in Spain, Aena, which the government privatized. You can never build a second airport at Madrid or any other places. These are natural monopolies. And so that also applies to toll roads and railroads and telecom towers. There are many forms of infrastructure, transmission towers, that are hard to compete with because they're natural monopolies. Of course, some of these things can be overbuilt, like cable, so there's a form of infrastructure, but you have to look at the details on a case-by-case basis. It's very unusual to try and get the planning to build a second airport. There's no economic case to it. I mean, I can't remember how long they struggled to get an extra runway at Heathrow. Planning, exactly. And then roads, there's no economic case to build a second road, or you don't have the land.</p>
+</details>
+
+第二种护城河是**知识产权（IP）**，尤其是那些非常先进以至于难以复制的IP。我们喜欢的一个领域是飞机发动机。这是一个极其复杂的产品，因为材料的复杂性极高。发动机在极高温度下运行，以至于金属都会熔化，需要成千上万个复杂部件协同工作。这是一个只有两家公司参与窄体机发动机竞争、两家参与宽体机发动机竞争的行业，并且过去50多年里没有新的进入者。最后一个新进入者是通用电气（GE），这本身就说明了问题。这个行业规模庞大，但技术极其复杂，进入门槛极高。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So, infrastructure and physical assets is one. A second is IP, intellectual property, that is so advanced that it's very difficult to replicate. One space we like is aircraft engines. It is a very complicated product because of the materials complexity; the engines run at such high temperatures that metals melt, and so many different things have to come together. Thousands and thousands of complex parts. That's a business where there are only two players in narrow-body engines and two in wide-body, and there have been no new entrants for more than 50 years. The last new entrant was GE, and that tells you something. It's a big industry, but it's so complex, very hard to enter.</p>
+</details>
+
+其他类型的护城河还包括：
+*   **装机基础（Installed Base）**：这在飞机发动机业务中尤为重要。一旦发动机安装到位，你就能获得后续的备件业务。
+*   **规模（Scale）**：虽然规模本身并不能保证竞争优势，但也是一个因素。
+*   **网络效应（Network Effects）**：这在像 Visa 和 Meta 这样的资产中很明显。
+*   **品牌（Brands）**：并非所有品牌都很强大，但像麦当劳这样的品牌确实具有可持续的价值。
+*   **客户转换成本（Customer Switching Costs）**：以关键任务软件为例，一旦安装，公司由于其复杂性，会非常不愿意更换。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Another barrier to entry is installed base, which applies to the aircraft engine business. Once those engines are there, for various reasons, you get the spare parts business on it. Another barrier to entry is scale, although that's not a guarantee of a competitive moat. Network effects is another important barrier to entry. You can see this in assets like Visa, Meta, two examples of network effects. And brands are another barrier to entry. But I'm not saying every brand is powerful. But you think about a McDonald's, it has a value. There are some brands which are powerful and sustainable, but not all. And I'll mention one more moat, which is customer switching costs. Take mission-critical software: once it's installed, companies are very reluctant to mess with it and switch because of the complexity.</p>
+</details>
+
+### 必要性、增长与定价权
+
+对于我们来说，经常性收入流固然重要，但我们更看重的是产品或服务的“必要性”。我们不喜欢非必需品。例如，我们长期投资于评级机构。这些机构为债券投资者判断债券是投资级还是非投资级，并提供研究。发行人需要为评级付费，虽然他们可以在某一年推迟债券再融资，但债务最终必须进行再融资和评级。因此，这种必要的需求是更关键的一点。总的来说，我们投资的公司通常都拥有必要产品的、可预测的经常性收入流。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">How important are recurring revenue streams for you? It is important, but the predictability of when they recur is not as critical. Let me give you an example. What's most important for us is something slightly different, which is an essential product or service. We don't like things which are discretionary. One space we've invested in for a long time is rating agencies. They say is it good or bad to people who invest in bonds, is it investment grade, non-investment grade, and provide research. An issuer pays for the rating, but they don't have to refinance their bonds, which is a big part of it, in any given year. They can delay and defer, but eventually the debt has to be refinanced and rated. And so, the essential need is the bigger point. But usually, our companies have recurring and predictable revenue streams of essential products.</p>
+</details>
+
+至于增长，它并非必须，这取决于估值，也并非必须高速增长。增长可以来自两个方面：销量和价格。为什么增长不像投资者通常认为的那么重要？因为你可能会陷入“无利润增长”。航空业在过去一百年里增长迅速，航空旅行每年增长5%，但整个行业累积起来几乎没有盈利。这是因为准入门槛极低。因此，没有准入门槛的增长并非我们想要的组合。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Do they have to grow? Depending on valuation, not necessarily, or not necessarily at a fast rate. And growth can come from two forms: volume and price. You have to break it down. Now, why isn't growth as important as investors usually assume it to be? Because you can have profitless growth. The airline industry over a hundred years has had a lot of growth. Airline travel has grown at 5% a year consistently. But airlines as a business cumulatively and collectively have made almost minimal profits. Despite growth, because of the very low barriers to entry. And so, growth without barriers to entry is not a combination that you want.</p>
+</details>
+
+资本密集度本身只是方程式的一部分。例如，所有机场的起降费都受到监管，但有些机场的非航空业务收入（如商店、广告、贵宾休息室、停车场）是不受监管的。这种所谓的“双柜台”（dual till）监管模式，一部分受管制，一部分不受管制。不受管制的部分资本密集度非常低，资本回报率却很高，并且随着旅行需求的增加而增长。真正凌驾于所有这些因素之上的，仍然是准入门槛。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Some of these businesses are quite capital intensive. Does that matter for you? Well, you have to look at everything in detail. All airports have regulation on landing charges, but for some, the non-landing charges are unregulated: the shops, the advertising, the VIP lounges, the parking. This is the so-called dual till regulation. One till is regulated, one till is unregulated. And those are very low capital in intensity and have high returns on capital. They grow because there's more and more demand for travel. So capital intensity by itself, it's part of the equation. But what trumps all of this is the barrier to entry.</p>
+</details>
+
+增长可以来自价格和销量。大多数公司没有定价权，最多只能跟随通胀定价。但有一类特殊的“超级公司”，它们可以以高于通胀率的速度定价。正如巴菲特所教导的，这正是检验你是否拥有护城河的标准。这种超越通胀的“实际定价权”非常有价值。如果你能比通胀高出1%定价，而你的利润率是20%，那么你的利润增速将比收入快5%。这种增量定价几乎全是利润。这就是为什么相比于销量增长，我更看重定价增长，因为它具有杠杆效应，没有额外的成本。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I want to go back to the point about growth coming from two forms: price and volume. Most companies don't have pricing power. They can only price, if they're lucky, at inflation. And that's why people don't focus on it. But there is a special group of super companies that can price above inflation. And that's, as Buffett taught, the test of whether you have the moat. This real pricing power above inflation can be very valuable because if you can price 1% above inflation and you have a 20% profit margin, your profits will grow 5% faster than revenue. People don't analyze it because there are so few companies that have it. But a lot of our investments have this because incremental pricing is pretty much all profit. That's right. And it's very potent. This is why you asked about growth. If I have low volume growth but a lot of pricing growth, that's actually more important because of the leveraged effect of having no cost associated with it.</p>
+</details>
+
+### 监管与“显性”竞争
+
+我们确实投资了很多受监管的业务，比如机场和电网公司 Red Eléctrica。这是一个普遍存在的风险：如果准入门槛太低，竞争或替代会摧毁你的业务；如果门槛太高，监管机构可能会找上门来。最理想的情况是存在竞争，但这种竞争是微弱的、理性的，我称之为“**显性竞争**（apparent competition）”。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Regulation. You have been in a lot of regulated businesses. You mentioned airports, but you've been in Red Eléctrica, which is an electricity transmission company. Yes, I have. And actually, it's a general risk. Because if you have barriers too low, competition or substitution eliminates your business. Barriers too high, regulators may come knocking on your door. Every case is different. The ideal case is that there is competition but weak competition. And apparent competition. It's really weak competition and rational competition.</p>
+</details>
+
+以飞机发动机行业为例，普惠（Pratt and Whitney）与通用电气和赛峰集团（Safran）竞争，它占据了约25%的新订单份额。它作为一个产品存在，但性能远不如对手，35%的发动机停飞，存在多重技术问题，已经失去了大量信任。但它就在那里竞争。在这个行业，价格不是最重要的，可靠性才是。当普惠陷入困境时，它反而需要提高价格来弥补损失。有时，即使存在竞争，竞争对手也会选择理性，不进行价格战。细节很重要。你可能看到希思罗机场被完全监管，就认为所有机场都不好。但如果你深入研究 Aena，你会发现它完全不同：一部分业务受监管，但更大的一部分（可能占其价值的70%以上）是不受监管的。受监管业务可能带来债券般的回报，比如7%，而不受监管的业务回报率则高得多。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Take some examples. Pratt and Whitney competes with GE and Safran. It has a 25% share of new orders. It's a product, but it's not nearly as good. It's got 35% of its engines grounded, multiple technical problems, and has just lost a lot of trust. But it's there competing for new engines. Price isn't the most important thing in this industry; reliability is. As it struggles, it has to raise prices because it's got lots of difficulties. And sometimes where there is competition, that competition chooses not to compete, to be rational and compete on a non-price-based approach. The detail matters. So you might have looked at Heathrow airport and seen, "Oh, that airport is fully regulated. Airports can't be good." But if you look into the detail of Aena, it's a different animal. It has a piece that's regulated and a much bigger piece, 70% of the value maybe more, which is unregulated. The regulated business will give you a bond-like return of 7%, but the unregulated will give you a much higher return.</p>
+</details>
+
+我们还曾大量投资过证券交易所，比如德意志交易所（Deutsche Börse）。它的衍生品业务 Eurex 曾是天然垄断，具有网络效应。交易欧洲债券期货的流动性使其成为“赢家通吃”的市场。一旦你拥有了这种流动性，就很难将人们吸引走。伦敦证券交易所的 LCH ClearNet 清算业务也是如此，CME 集团在美国期货市场上也具备这种优势。这些交易所通过先行者优势建立了天然垄断。当然，它们现在已经变了，伦敦证券交易所一半的盈利来自转售非专有数据，这使其存在脆弱性。但过去，随着资本市场的增长，它们实现了无资本增长，这非常有价值。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">The other group of businesses you've been very big in has been the stock exchanges. Why were they so good? In the case of Deutsche Börse, they had a derivative business called Eurex which was a natural monopoly. It was a network effect. This was the barrier to entry: the liquidity of a marketplace for trading European bond futures. The network effect of getting the best prices in the most liquid market meant it became what's termed a "winner takes all" or natural monopoly. Once you have that liquidity, it's very hard to move people away. London Stock Exchange has that for its LCH ClearNet business, a clearing business. CME has it on US futures. Where an exchange can establish this natural monopoly by being the first mover, these exchanges can be very good. But of course, they've changed now. London Stock Exchange is in many different businesses, sells data, and half their earnings are from reselling non-proprietary data, so it has a vulnerability on that piece. And then there was a lot of growth without capital. As capital markets grew, you grew without capital, which was very valuable.</p>
+</details>
+
+### 避开“糟糕的行业”
+
+我们有一份很长的从不投资的公司名单，我们称之为“高风险和糟糕的行业”。我过去曾投资过其中一些，但学到了教训。
+*   **银行**：我们不喜欢银行。首先是盈利质量低，因为它们的杠杆率非常高，比人们想象的要高得多。其次，它们不透明，你无法看透。我记得金融危机前，我曾与瑞信（Credit Suisse）当时的CEO Brady Dugan会面，我把他的资产负债表放在他面前说：“我不理解。”他说：“我也不理解。”另外一个重要原因是，迟早会有一个不那么聪明的人来经营它们，那将是灾难性的，比如盎格鲁爱尔兰银行（Anglo Irish Bank）的例子。
+*   **其他行业**：汽车行业（大宗商品化）、零售业、保险业、大宗商品生产、烟草、大部分制造业、传统资产管理公司、化石燃料公用事业、航空公司、无线电信、媒体和广告代理商等。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">What are the type of companies you would never invest in? We have a long list of companies we don't invest in. We call them the risky and bad industries. I have invested in some of these in the past, but I've learned. Banks. We don't like banks. Why not? The low quality of earnings because they're very leveraged, much more than people think. Equity to total assets, many banks have run at a hundred times. Two, they're opaque. You can't look into them. I remember pre-financial crisis, I had a look at Credit Suisse and I sat down with the then CEO, Brady Dugan, and put his balance sheet in front of him and said, "You have a multi-trillion dollar balance sheet. Can we walk through the line items? Because I don't understand it." He said, "I don't either." He was a very honest guy. And the other reason for banks is very important: sooner or later, you may find someone without a lot of intelligence comes to run them, and then it can be toxic. People going for growth. Anglo Irish Bank, if you remember that one. They can just destroy the shareholders. Others? Oh, many. The auto industry is obviously a commodity, retail, insurance, commodities, commodity manufacturing, tobacco, anything in most things in manufacturing.</p>
+</details>
+
+这确实让我们的投资范围变得很小。我们认为大约只有200家公司是高质量且值得投资的。为什么这么多行业都很糟糕？因为它们竞争激烈，面临现有参与者和新技术的双重挑战。我在投资生涯中学到的一个重要教训是：投资者总是低估竞争和颠覆的力量。他们只看当下，一个新公司可能有先行者优势，但随后竞争和替代就会出现。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So Chris, it doesn't leave a big universe. Correct. We say maybe there's 200 companies that we consider to be high quality and investable. I'll list you a couple more: traditional asset managers, bad businesses; fossil fuel utilities, bad businesses; airlines, bad businesses; wireless telecom, bad businesses. We think media is bad, advertising agencies. It's a very long list. Why? Because it's competitive with existing players and new technologies. And the one important thing that I've learned in my time in investing is investors underestimate the forces of competition and disruption because they just look today. Maybe there's a new company which has a first mover advantage, but then competition comes in, and substitution.</p>
+</details>
+
+### 分析科技巨头与人工智能的影响
+
+大型科技公司拥有强大的在位者优势。以我们投资的微软（Microsoft）为例，它的护城河之一是“捆绑销售”，这创造了高昂的客户转换成本。Office 套件包含多种产品，如文字处理、Excel、电子邮件和安全软件，它们被捆绑销售。当像 Zoom 这样的潜在竞争对手出现时，微软可以将其新产品（Teams）添加到捆绑包中，免费分发给庞大的现有用户群。尽管有些人认为 Zoom 的产品更好，但微软赢得了这场战斗，因为它拥有装机基础、在位者优势和高转换成本。只要产品“足够好”且免费，用户就没有动力去更换。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Where does it leave the big US tech companies now? There's a lot of power of incumbency. This is another important point. So let's take a company, Microsoft, which we've invested in. One of their barriers to entry is bundling, or maybe because of it, it creates a customer switching cost. The Office franchise, which we're all familiar with, has many products in it: your applications, word processing, Excel, your email, security, different things. And they sell it as a bundle. When a new product or a potential competitor enters, they can add it to the bundle. So Zoom came out with video conferencing. Microsoft had to respond, and they launched Teams and they were able to distribute it through the bundle, free to everybody. And even though some people believe Zoom was a better product, Microsoft won that battle because they had the installed base, the incumbency which we talked about, and high switching costs for people using their Office software. People started using Teams because it was good enough. It didn't have to be the best if it's free.</p>
+</details>
+
+我们也持有 Alphabet（谷歌母公司）的头寸，这可能是我们风险最高的投资之一，因此也是我们最小的投资之一。我们有一定的保护，因为像 YouTube 和云业务这样的资产，加上现金，已经占据了其市值的半壁江山。所以它不仅仅是搜索业务。但搜索业务至关重要，它能否在创新上超越竞争对手存在疑问。随着竞争加剧，搜索市场存在碎片化的风险。我们认为他们凭借数据优势可以提供更高质量的搜索结果，但这仍是一个问号。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">We have a position in Alphabet, which is maybe our most risky investment. It's just one of our smallest investments as a result. We have some level of protection because there are businesses like YouTube and their cloud business which represent half the market cap today, and the cash and other things. So it isn't all search, but search is critical. And so, can they out-innovate competition? There's a risk of search fragmenting as competitors come in. It's a question mark. We don't think so. We think they have a lot of advantages of their data to offer higher quality search results, but competition is increasing.</p>
+</details>
+
+人工智能（AI）将以我们无法预测的方式加剧颠覆。像呼叫中心这样的行业将会破产，从事编码等业务的印度外包公司也将面临需求崩溃，因为 AI 可以用一半的人力完成编码工作。然而，AI 也会提高所有公司的生产率并降低成本。如果你拥有一家具有高准入门槛的公司，它的价值将会更高。但对于那些竞争激烈的企业，如果你不领先，就可能被颠覆。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">How do you think AI will change the investment landscape? It's going to increase disruption in ways we can't even predict. But there are things like call centers that will all go bankrupt. And another segment is Indian outsourcing companies who do coding and things like that. Demand for those services could collapse because AI can do coding with half the people. So AI will increase the productivity and lower the cost base of all companies. And so if you have a company with these barriers to entry, it's going to be worth more. For generally competitive businesses, if you don't lead, you could become uncompetitive and be disrupted.</p>
+</details>
+
+### 估值、尽职调查与长期主义
+
+在对一家公司进行估值之前，我们首先要确信它的准入门槛足够高，能够长期存在。我们会进行背景调查，与相关人士交流，看看我们是否遗漏了什么。例如，在研究飞机发动机行业时，我们与一家竞争对手的前CEO交谈，他证实了我们的论点，并表示利润率应该会更高。我们也会评估管理层，但如果你拥有正确的资产，管理层虽然重要但并非决定性因素。我们会与竞争对手交流，研究公司的过往记录，并与我们的团队讨论，倾听不同意见，尤其是那些天生悲观的团队成员的看法，他们有助于我们检验负面情景。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">How do you value these companies? We don't even look at that until we get comfortable that the barriers are so strong it will be around. We think it'll be around. We think there will continue to be an airport in Madrid. We'll do reference checks on relevant people and see if we're missing something. So, when we were looking at investing in aircraft engines, we spoke to the former CEO of one of the competitive companies and he confirmed our thesis and actually said the margins should be much, much higher. We will assess management, where I think it's important but not critical if you have the right assets, ideally through meeting them. We talk to competitors, get their view. We look at the track record of the company. And we'll discuss it with our team and we want to hear competing views. We have some members of the team who are just inherently bearish, and they're good for testing the bear case. We always want to hear how technology could disrupt.</p>
+</details>
+
+我们使用所有估值工具，包括市盈率、现金流和 **DCF（Discounted Cash Flow: 现金流折现法）**，但不是制作50页的电子表格。我们学到的一个重要观点是，我们可以通过长期主义获得优势。机构投资者持有一只股票的平均时间不到一年，而我们当前投资组合的平均持有期是八年。我们采取一种类似私募股权的投资方法，即我们必须准备好永远持有一家公司，因为在你需要卖出时，市场价格可能非常糟糕。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">What kind of valuation metrics do you look at? PEs, cash flows, do you do DCFs? All of those, but not 50-page spreadsheets. But really honestly, one of the things we learned is there's a really important point: that we can have an advantage through long-termism. The average stock is held by an institutional investor for under a year. How long do you hold it? The average holding period of our current portfolio is eight years. Not saying that's the limit, it's just the weighted average holding period is eight years. It could be 10, it could be 20. If you are in the private equity world, that's normal. We take a private equity approach, i.e., that we have to hold the company forever because the stock market may be at very bad prices when you need to sell.</p>
+</details>
+
+DCF 是我们最看重的长期估值方法。对于一家伟大的公司，你看得越远，价值就越大。以我们持有的穆迪（Moody's）为例，这家评级机构已经存在了100年，其平均年收入增长率达到了惊人的10%。投资者，包括我自己，总是低估它的价值。我在金融危机期间以10倍市盈率买入，然后在20倍时卖出，自以为聪明。但它的盈利持续复合增长，我又在更高的价格买回。最终，内在价值的复合增长比股价更重要。如果你拥有一家伟大的公司，它的内在价值会持续增长。从长远来看，估值倍数的重要性低于增长本身。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">The way we really like a long-term valuation is DCF. The most important thing is, the longer you can look out, if you've got a great company, the more value there is. Take a company we own, Moody's, a rating agency. It's been around 100 years. What do you think the average revenue growth over that 100 years has been? Ten percent. A very unusual number over a very long time period. And so investors have always underestimated its value, including myself. I bought the stock during the financial crisis at 10 times earnings and then I sold it. I doubled my money, went from 10 times earnings to 20, and I sold it. I thought I was clever, but the earnings kept compounding. So I bought it back at a higher price. It's because actually the intrinsic value compounding matters more than the stock price. If you have a great company, it will grow intrinsic value. And the multiple, here's the thing about the multiples, they matter less than the growth when you look at it over a longer period.</p>
+</details>
+
+大多数投资者不愿意或无法进行长期投资，因为他们要么不知道自己在做什么，要么认为这太冒险。这回到巴菲特对风险的定义：“不知道自己在做什么。”所以，如果你买入真正优秀的公司，你付出的价格在一定程度上变得次要，因为它会持续增长。如果你愿意长期持有并获取内在价值的增长，那么它对你的价值将超过对其他人的价值。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Most investors are unwilling or unable to invest on a long-term time horizon because either they don't know what they're doing, or they think it's risky. Which goes back to what Warren Buffett said when he was asked what the definition of risk was: not knowing what you're doing. So a really good nugget here is that if you buy something which is really good, it doesn't quite matter what you pay for it because it will grow. The multiple, to a point. If it's increasing intrinsic value at a good rate, you will undervalue it if you look at it over a short horizon. And if you're willing to hold it for a long term and extract that intrinsic value growth, it'll be worth more to you than to other people.</p>
+</details>
+
+### 公开市场 vs. 私募市场与卖出时机
+
+我认为公开市场上的好公司比私募市场的更多。因为被出售给私募股权的公司通常不是最好的。大公司更有可能战胜小公司，它们有更多的资金用于研发和竞争，并且拥有我们之前讨论过的规模和在位者优势。一家发明了新东西的小公司，比如Zoom，很容易被大公司击垮。而大公司通常规模太大，私募股权无法收购。此外，如果一家上市公司向私募股权出售资产，通常不会出售其最好的业务。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I've heard you say that there are more good companies in the public market than in the private market. Yes. Why do you say that? Because the companies that are sold to private equity are the ones that aren't as good. I happen to think that large companies are more likely to beat small companies in an industry. They have more money to compete in R&D, and scale, we talked earlier about scale being key, and incumbency being key, and switching costs. A small company that invents something new, we talked about Zoom, it can be crushed by a large company reasonably easily. They can copy. And large companies are usually too big for private equity. Private equity can't buy Visa; it's too big for them. So size excludes private equity from large companies. And if a public company is selling something to private equity, usually they're not selling their best businesses.</p>
+</details>
+
+我们何时卖出一家公司？当它的内在价值前景不如其他投资标的时，这不仅包括价值，还包括我们的“信念”（conviction）。我们的投资哲学有两个组成部分：内在价值和信念。价格必须低于或等于内在价值，但同时你必须对这项投资抱有信念，或者说是信心。你可以说一件事，但你可能是错的。比如我早年在纽约为一家对冲基金工作时，投资了一家意大利媒体公司（黄页公司），它从10亿欧元估值涨到500亿，然后归零。因为在我投资时，互联网还不存在。在某些行业，比如科技行业，你犯错的风险更高。但如果我拥有一家机场或一条不受管制的收费公路，我犯错的概率就小得多，因为有实物资产支撑，替代风险低，投资逻辑更清晰。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">When do you sell a company? When its view of intrinsic value is not as good as other things, including not just value but conviction. So our philosophy has two components to it: intrinsic value, so the price still has to be at or below intrinsic value. But there's a second point which isn't really focused on by many investors, which is conviction. You need to have conviction when you invest in something at all times. And what does that mean? You could call it confidence. You can be wrong. One of my first investments when I worked in New York was in an Italian media company, a yellow pages company. Its valuation went from a billion euros to 50 billion euros and then to zero. And when I first invested, the internet didn't exist. The point is you can be wrong. And in certain industries, your risk of being wrong is higher. Technology is one of those areas. But if I own an airport or a toll road, I'm less likely to be wrong than if I own a retailer. My chances of being wrong are less because I have physical asset backing, substitution risk. The thesis is much more obvious.</p>
+</details>
+
+### 成为优秀投资者的特质
+
+要成为一名优秀的投资者，首先要保持谦逊。我始终专注于公司基本面，而不是试图猜测股市走向、宏观经济或进行交易。大多数投资者并非基本面投资者，他们频繁交易，关注数据点和催化剂，却不真正了解公司。其次是长期主义。第三是集中投资，我们只持有少数几只股票，比如10到15只，而不是100只。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">What makes a good investor? Why are you a good investor? It's important to have humility. But I was always willing to look at the company fundamentals and not try to guess the stock market, and focus on macro or trading. So I was always fundamental. Most investors are not fundamental. They trade actively. They look at data points. They say, "What's the catalyst?" They don't really know what the company does. So the fundamental approach has been key. Long-termism is key. Another thing we've done is concentration. We've owned a few things. We may have 10% type holdings, 10 stocks, you know, 15 stocks. We don't own 100 things.</p>
+</details>
+
+还有一个关键点是直觉。我们依靠直觉工作，这听起来可能很奇怪。直觉被定义为“不假思索的思考”。它与纯粹的智力分析相对，是一种更高层次的智慧，涉及到模式识别和一种“知晓”的感觉。我的直觉在过去5到10年里变得更强了。这不仅适用于选股，也适用于生活中的重大决定，比如21年前我决定创立自己的基金，或者遇见我的妻子时，你就是“知道”。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">And I think another key point is intuition. We work with intuition, which is something that people find strange. How do you use intuition? It's been defined as thinking without thinking. It's the opposite of intellect. We'll do analysis, but then it's a higher level of intelligence than just intellect. It's pattern recognition in a way; you've seen it before. There's a word for it: knowing. It's all of it: the people, the situation. Is someone trustworthy or not? And the patterns. Is your intuition now better than it was when you were younger? Yeah, I was not into intuition so much before the last 5 to 10 years. But I think I always operated at an intuitive level. And it's not just stock picking. When I decided to start my own fund 21 years ago, I just had this intuition that I was in the wrong place and not doing what I was meant to do. When I met my wife, Kylie, you know, there's a point where you just know. It isn't an intellectual thing.</p>
+</details>
+
+### 从激进主义到建设性参与
+
+我曾被视为一名“激进投资者”。激进主义的范围很广，从强硬地罢免董事会和CEO、要求出售公司，到较为温和的、与公司进行专业对话的“软性激进主义”。如今，我们与公司的关系通常非常具有建设性。我已经认识到，硬核的激进主义并非良策。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">You were perhaps more considered an activist investor. What is an activist investor doing? It's a spectrum, from full-blown hardcore removing boards and CEOs and demanding the sale of a company, to softer activism of trying to have a relationship and dialogue with the company at a professional level where you understand their mindset and their thinking. And I'd say today our relationships are generally very constructive with companies. But it wasn't always that way. I've learned that actually hardcore activism is not a great thing.</p>
+</details>
+
+为什么？因为现在很难成功。当今的投资者基础中有大量的被动投资者（指数基金），让他们投票支持某项提议非常困难。主动管理正在消亡。我刚入行时，指数化投资还很少，股东基础更为积极和参与。现在，指数化限制了股东的力量。过去我曾在荷兰银行（ABN AMRO）这样的糟糕企业中采取激进主义行动，通过股东大会推动公司出售，赚了很多钱。但实际上，那家公司一文不值，最终收购它的三家公司（苏格兰皇家银行、富通银行等）都破产了。那是一场疯狂的游戏。很多激进分子最终都在糟糕的企业里折腾。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Why not? It's very difficult to succeed because the vast proponents of today's investor base are passive, who don't actually, to get them to vote for something is very difficult. And so active management is dying. When I started, there was very little indexation, and so there was a more engaged, active share base. And now indexation has limited the power of shareholders. But I was buying bad businesses long ago, like ABN AMRO, putting it up for sale, and we made a lot of money. We made a billion dollars forcing the sale of it. But in truth, the company was worthless, but was bought for a hundred billion from three companies who all went bankrupt: Royal Bank of Scotland, Fortis. They didn't know what they were doing, we didn't know what we were doing. And it was all a madness. A lot of activists end up being activists in bad businesses.</p>
+</details>
+
+现在我们仍然会进行激进主义活动，但那是例外情况。例如，我们曾介入一家公司，进入董事会，推动更换了董事长和一些董事，现在公司表现好多了。但那是因为公司陷入了灾难性的局面。几年前，我们持有的赛峰集团宣布要以100亿欧元的荒谬价格收购 Zodiac 公司。我们认为赛峰的股票价值被低估了一半，所以这次收购的实际代价极高。我们发起了一场非常激进的运动，最终迫使赛峰将收购价格减半并以现金支付。这为我们带来了丰厚的回报，但我也因此被卖家起诉，索赔1亿欧元。这种事不适合胆小的人。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">That said, we still engage in hardcore activism. We're in an investment where we went on the board and pushed out the chairman and some directors, and the company's doing much better now. But that's an exception. A few years ago, we owned shares in Safran, which we've held for 13 years. They announced they were buying a company called Zodiac. We thought the price was ridiculous, 10 billion euros, and they wanted to pay in shares, which we believed were half price. So they were paying four or five times the intrinsic value. We undertook a very aggressive campaign, threatened litigation, and demanded a vote. In the end, the target was having multiple profit warnings and it became clear that we were right. Safran went to Zodiac and said, "We have to cut the price in half and pay in cash because TCI are forcing us." And that's what happened. The stock's doubled. But we were sued by the seller for a hundred million euros. It's not for the faint-hearted to do this.</p>
+</details>
+
+### 做空 Wirecard 的教训
+
+我们很少做空，因为做空不是一门好生意。你可能最终是正确的，但却无法承受过程中的损失。以 Wirecard 为例，第一个做空它的人是 Bronte Capital 的一位基金经理，他在20年前就开始做空，但股价上涨了二三十倍，他不得不止损离场，最后股价才归零。做空面临着无限的下行风险，你必须为损失提供资金。巴菲特和芒格也研究过做空，结论是太难了，因为难以理解投资者心理。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">We learned that shorting isn't a great business because you can be right but not be able to hold it or fund the losses. So, but Wirecard... because if you are short and the share price goes up, you have basically unlimited downside. And you have to fund the losses. The first guy to short Wirecard 20 years ago was a guy from Bronte Capital. And the stock went up 20, 30 times and then went to zero. But when that happened, he was interviewed and they said, "Congratulations, you were right." But he said, "No, I had to cover it 19 years ago. I couldn't afford to fund those losses." I had a dinner once with Warren Buffett and he said he and Charlie looked at shorting. They studied it and they just said it was too hard because of that point of understanding investor psychology and the asymmetric risk and reward.</p>
+</details>
+
+我们研究了 Wirecard，看到了所有的会计伎俩。《金融时报》也发表了一系列文章。我联系了那位记者，他说一切都是真的。整个德国的权势集团都出来支持这家公司。但我们看到了一些危险信号：小审计师、没有现金流、亚洲办公室空无一人。这其中有模式识别的成分。我们派团队去见了CEO，他们回来后对所见的拙劣技术演示感到难以置信。最终，我们向慕尼黑检察官办公室提交了正式的欺诈刑事控告，并公开了这一行动，以避免被指控市场操纵。这引发了混乱，但也迫使当局采取了行动。我认为人们过于相信权威，他们相信了德国的权势集团，而不愿相信记者。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">So it's an exceptional thing. But we looked at Wirecard and all the accounting games, and then the Financial Times came out with all these articles. I called the journalist, and I said, "You're writing all this stuff." And he said, "It's all true." I said, "No one will listen to you." He said, "Everything's true. We stand by every word." The whole German establishment went in and supported the company. But there was a bit of pattern recognition where I remember at Harvard Business School an accounting course I took, and there were red flags: small auditor, no cash flow, things like all their Asian businesses, the office was empty. I filed a formal criminal complaint for fraud in the Munich prosecutor's office because they said if I wasn't public about it, it would be viewed as market manipulation. That created chaos but it forced some actions. I think that people trust authority too much. They trusted the German establishment. They weren't willing to believe the journalist.</p>
+</details>
+
+### 慈善事业的驱动力
+
+我把我赚到的所有钱都捐出去了，除了钱在帮助他人方面的价值外，我并不真正在乎它。多年前在纽约工作时，我曾获得一笔1000万美元的巨额奖金，但直觉告诉我，我不想接受，只想把它捐给慈善事业。于是我创建了一个美国基金会并把钱捐了进去。很长一段时间里，我都不理解是什么在驱动我这样做。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I give away everything I earn. I don't really care about money other than its value in helping people. When did you learn about philanthropy? When I was in New York working for a hedge fund, at one point after about three or four years, they said, "You're going to get a $10 million bonus." And I just, this is intuition, said, "I don't want it. I want to just give it to charity." And I created a US foundation and gave it to it. And I didn't really understand what was driving me for many years.</p>
+</details>
+
+最终我明白了，这是一种源自灵魂的冲动。我们真正的本质并非个性或肉体，而是灵魂或意识。这种本质的根本属性是服务，是帮助人类的渴望。它与生俱来，存在于每个人心中。但许多人之所以没有这样做，是因为他们更认同自己的个性，而个性的基本冲动是欲望、占有、权力和金钱。迟早人们会意识到这些并不能带来真正的满足。比快乐更重要的是人生的目标和意义。对我而言，除了服务，我找不到任何其他的人生目标和意义。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Eventually I did understand it, as a soul urge. That there's essence, who we really are, what we really are isn't the personality or the physical body, but soul or consciousness. And that in the fundamental nature of the soul is service, a desire to help, to ultimately help humanity. Where did that come from? It's innate within everyone. So if it's innate with everyone, why don't more people do it? Because they're identified with their personality. And the personality's basic urge is desire, possessions, glamour like power and money and other things like that. Sooner or later, people realize that that doesn't really give happiness. But actually, there's more important things in life than happiness: purpose and meaning. For me, I could never find any purpose or meaning in my life except service. And that is clearly something you could say comes from within. And so that's my origins of my philanthropy.</p>
+</details>
+
+### 对年轻人的建议：踏上精神之旅
+
+我的建议是：踏上一条精神之路。去学习。我想说，精神世界是真实存在的。当我第一次跟我儿子提到“灵魂”时，他说那是神话。他现在不这么认为了。有很多路径可以连接到它，你可以有意识地去连接。无论你走的是长路还是短路，是轻松还是艰难，最终你都会通过苦难认识到，精神世界不仅真实，而且是全部。那是真正目标、意义和喜悦的唯一来源。如果你能破解这一点，其他一切都会变得容易。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">What is your advice to young people on a kind of spiritual path? Go on a spiritual path. Go on a study. And I would say the spiritual world is real. Soul is, when I first mentioned this to my son, I think he was 20, he said, "Dad, the soul is a myth." He doesn't think that now. It's definitely not. And there are many paths to connect to it. And you can connect consciously to it. And whether you go the long way, the short way, the easy way, the hard way, through suffering, you eventually come to learn that the spiritual world is not just real, but it's the whole thing. And that's the only source of real purpose and meaning and joy, which the world needs. And if you crack that, then everything else is easy.</p>
+</details>
+
+Chris Hohn，我们谈了很多关于目标、意义、喜悦以及生命中真正重要的事情。非常感谢你。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Chris Hohn, we've talked a lot about purpose, meaning, joy, and what really matters in life. A big thank you. Thank you.</p>
 </details>

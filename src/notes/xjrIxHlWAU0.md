@@ -1,6 +1,6 @@
 ---
 author: 政經孫老師
-date: '2025-11-05'
+date: '2025-08-31'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=xjrIxHlWAU0

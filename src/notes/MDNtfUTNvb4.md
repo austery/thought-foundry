@@ -1,10 +1,6 @@
 ---
 title: 走出硅谷，我们去看看国际贸易的“ChatGPT时刻”
-summary: This video explores the practical applications of AI for small and medium-sized
-  enterprises (SMEs) outside of the Silicon Valley bubble, featuring insights from
-  the CoCreate startup competition in Las Vegas. It showcases how entrepreneurs are
-  using AI tools to innovate, streamline global trade, and create "one-person companies,"
-  demonstrating AI's tangible impact on everyday business.
+summary: 本文探讨AI如何走出硅谷泡沫，赋能中小企业，尤其在国际贸易B2B领域。通过分析CoCreate大赛和阿里巴巴国际站的AI Agent“Accio”，揭示AI如何降低创业门槛，提升效率，并促成“一人公司”模式的兴起，为全球贸易带来新确定性。
 area: market-analysis
 category: business
 project:

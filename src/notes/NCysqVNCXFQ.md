@@ -1,6 +1,6 @@
 ---
 author: 大问题Dialectic
-date: '2025-11-05'
+date: '2025-09-25'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=NCysqVNCXFQ

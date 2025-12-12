@@ -1,6 +1,6 @@
 ---
 author: 安争鸣（Stella An）
-date: '2025-11-05'
+date: '2025-10-04'
 guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=xIXINavJrTk
@@ -11,8 +11,8 @@ tags:
   - immigration-impact
   - cultural-clash
   - civilization-evolution
-title: 《光明共和国》：一部挑战西方文明纯粹性的政治敏感解读
-summary: 本期节目深入解读西班牙作家安德烈斯·巴尔瓦的小说《光明共和国》，揭示其对西方社会种族对立、原住民与有色人种“入侵”西方文明的隐喻。主持人安争鸣在分享小说内容后，进一步从历史视角反思文明的交融与碰撞，探讨纯粹与稳定的文明可能面临的停滞，并挑战西方社会对移民问题的固有幻想。
+title: 《光明共和国》：一部直指西方社会种族对立的争议小说
+summary: 本期节目深入探讨西班牙作家安德烈斯·巴尔瓦的争议小说《光明共和国》，揭示其如何以流浪儿童为隐喻，描绘西方社会中原住民与有色人种对白人文明的“入侵”与冲击。同时，节目也从历史角度反思文明的冲突与融合，探讨纯粹与稳定文明的潜在危机。
 insight: ''
 draft: true
 series: ''

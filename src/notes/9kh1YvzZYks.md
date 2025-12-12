@@ -1,9 +1,6 @@
 ---
-title: A Systematic Guide to A/B Testing:From Core Principles to Advanced Techniques
-summary: This document provides a complete guide to A/B testing, covering its core
-  value, the necessary infrastructure for scaling experiments, key statistical concepts
-  like hypothesis testing, and advanced methods such as CUPED, Bayesian approaches,
-  and sequential testing.
+title: A/B 实验：揭秘不为人知的核心价值与统计误区
+summary: 本文深入探讨A/B实验的真正价值，强调其从“惊喜”中发现机会，并纠正常见的统计误解。文章详细介绍了实验体系的设计、核心统计知识，以及CUPED、贝叶斯方法和序贯检验等高级测试，旨在帮助读者构建更严谨、高效的实验流程。
 area: personal-growth
 category: culture
 project:
