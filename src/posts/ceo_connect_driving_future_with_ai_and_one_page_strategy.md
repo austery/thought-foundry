@@ -19,7 +19,7 @@ products_models: []
 media_books: []
 date: 2025-08-15
 author: Lei
-speaker: CEO
+speaker: PCC insider
 channel: null
 draft: true
 file_name: ceo_connect_driving_future_with_ai_and_one_page_strategy.md
