@@ -1,0 +1,3696 @@
+I
+ desember
+ 2023
+ så
+ hadde
+ vi
+ vår
+ første
+
+
+workshop
+ på
+ AI.
+ Da
+ satte
+ vi
+ av
+ en
+ hel
+
+
+dag
+ til
+ å
+ fikk
+ inn
+ en
+ ekstern
+ og
+ begynte
+
+
+å
+ dypdykke
+ inn.
+ Det
+ var
+ ett
+ år
+ etter
+ at
+
+
+chatpt
+ ble
+ lansert.
+ Nå
+ er
+ det
+ tre
+ år
+
+
+siden
+ og
+ vi
+ har
+ blitt
+ litt
+ klokere,
+ men
+
+
+føler
+ fortsatt
+ at
+ vi
+ er
+ ganske
+ tidlig
+ i
+
+
+utviklingen
+ her.
+ I
+ denne
+ presentasjonen
+
+
+skal
+ vi
+ gå
+ gjennom
+ tre
+ ting.
+ Først
+ skal
+
+
+vi
+ dele
+ litt
+ av
+ suksesskriteriene
+ på
+ å
+
+
+implementere
+ AI
+ i
+ fondet.
+ Deretter
+ gå
+
+
+over
+ til
+ noen
+ refleksjoner
+ på
+ hvordan
+ vi
+
+
+har
+ brukt
+ og
+ føler
+ føler
+ rut
+ autvikling
+
+
+i
+ kommunikasjon
+ og
+ deretter
+ vil
+ Sara
+ gi
+
+
+et
+ dypdykk
+ i
+ en
+ av
+ våre
+ US
+ cases.
+
+
+Her
+ er
+ det
+ tre
+ suksesskriterier
+ som
+ vi
+
+
+føler
+ har
+ hjulpet
+ oss
+ med
+ impilitere
+ AI
+
+
+på
+ tvers
+ i
+ hele
+ fondet.
+ Og
+ tenker
+ noe
+ av
+
+
+det
+ viktigste
+ som
+ dere
+ fikk
+ en
+ liten
+
+
+smakbit
+ på
+ starten
+ er
+ at
+ ledelsen
+ må
+
+
+være
+ med.
+ De
+ må
+ sette
+ retning
+ og
+ og
+
+
+derigjenom
+ får
+ det
+ med
+ hele
+
+
+organisasjonen
+ til
+ å
+ endre
+ seg
+ og
+ endre
+
+
+måten
+ vi
+ jobber
+ på.
+ Vi
+ hadde
+ et
+
+
+arrangement
+ på
+ Arendalsuka
+ tidligere
+ i
+
+
+år
+ og
+ tenker
+ nå
+ vise
+ lite
+ klipp
+ av
+
+
+hvordan
+ lesen
+ tenker
+ jeg
+ tror
+ man
+ må
+
+
+gjøre
+ hvis
+ man
+ skal
+ lede
+ denne
+ her
+
+
+ekstremt
+ viktige
+ utviklingen
+ er
+ at
+ du
+ må
+
+
+angripe
+ det
+ fra
+ alle
+ kanter.
+ Du
+ må
+ ha
+ en
+
+
+gal
+ person
+ på
+ toppen
+ som
+ er
+ på
+ hele
+
+
+tiden.
+ Hver
+ gang
+ jeg
+ får
+ mikrofonen,
+
+
+hver
+ gang
+ vi
+ holder
+ på
+ med
+ noe
+ eh
+ i
+
+
+fondet,
+ så
+ tuter
+ jeg
+ ørene
+ fulle
+ på
+ alle
+
+
+sammen
+ om
+ at
+ det
+ er
+ AI
+ som
+ teller.
+ Det
+
+
+er
+ AI
+ som
+ teller.
+ Det
+ er
+ AI
+ som
+ teller.
+
+
+Så
+ alle
+ de
+ du
+ ansetter,
+ de
+ unge
+
+
+menneskene,
+ de
+ må
+ være
+ totalt
+ AIndige
+ og
+
+
+de
+ må
+ være
+ skikkelig
+ keen
+ på
+ dette
+ her.
+
+
+For
+ det
+ AI
+ har
+ gjort
+ er
+ å
+ snu
+ opp
+ ned
+ på
+
+
+hele
+ pyramiden
+ i
+ organisasjonen,
+ slik
+ at
+
+
+det
+ er
+ de
+ eldre
+ som
+ skal
+ lære
+ fra
+ de
+
+
+unge
+ og
+ ikke
+ motsatt.
+ så
+ må
+ du
+ ha
+
+
+ambassadører.
+ Vi
+ har
+ nå
+ 40
+ ambassadører
+
+
+i
+ Oljefondet
+ som
+ blir
+ trent
+ opp
+ av
+ eh
+ et
+
+
+selskap
+ i
+ Amerika
+ som
+ heter
+ Tropics.
+
+
+Flere
+ ganger
+ i
+ uken
+ får
+ de
+ trening
+ i
+
+
+dette
+ her
+ slik
+ at
+ du
+ har
+ det
+ in
+ i
+ alle
+
+
+deler
+ av
+ organisasjonen
+ har
+ du
+
+
+spesialister
+ som
+ PCer
+ alle
+ kollegaene
+
+
+sine.
+ Og
+ så
+ må
+ du
+ ha
+ events
+ hele
+ tiden.
+
+
+Du
+ må
+ ha
+ Techweek,
+ Tech
+ Year,
+ du
+ må
+ ha
+
+
+trophy
+ talks,
+ du
+ må
+ ha
+ holde
+ på
+ hele
+
+
+tiden.
+ Du
+ må
+ rett
+ og
+ slett
+ bare
+ totalt
+
+
+altså
+ tappetere.
+ organisasjonen
+ med
+
+
+initiativ
+ slik
+ at
+ du
+ får
+ opp
+ farta
+
+
+og
+ så
+
+
+og
+ sånn
+ går
+ dagene
+ her.
+
+
+Eh,
+ nummer
+ to,
+ viktig
+ med
+
+
+kunnskapsdeling
+ på
+ tvers.
+ Nikolai
+ nevnte
+
+
+det
+ med
+ ambassadører.
+ Vi
+ har
+ nå
+ 70
+ AI
+
+
+ambassadører
+ med
+ representasjon
+ fra
+ alle
+
+
+avdelingene.
+ Vi
+ har
+ to
+ stykker
+ i
+ vår
+
+
+kommunikasjonsavdeling.
+ De
+ møtes
+ jevnlig
+
+
+for
+ å
+ bli
+ oppdatert
+ på
+ nyeste
+
+
+utviklingen
+ på
+ ulike
+ teknologier.
+ De
+
+
+deler
+ use
+ cases
+ og
+ læring
+ som
+ du
+
+
+derigjennom
+ drar
+ videre
+ tilbake
+ til
+ sine
+
+
+team
+ og
+ får
+ implementert
+ gode
+ US
+
+
+casases.
+ Så
+ det
+ føler
+ vært
+ en
+ viktig
+
+
+suksessfaktor.
+
+
+Nummer
+ tre,
+ man
+ er
+ avhengig
+ av
+ å
+ være
+
+
+oppdatert
+ og
+ ha
+ den
+ beste
+ teknologien.
+
+
+Vi
+ føler
+ det
+ virkelig
+ er
+ viktig.
+ Nummer
+
+
+en,
+ kanskje
+ for
+ å
+ få
+ tiltrekke
+ seg
+ de
+
+
+beste
+ folkene,
+ men
+ også
+ kunne
+ få
+ best
+
+
+utnyttelse.
+
+
+Og
+ det
+ vi
+ har
+ er
+ det
+ vi
+ kaller
+ våre
+ tre
+
+
+seer.
+ Clod
+ som
+ er
+ laget
+ av
+ Antropic
+ er
+
+
+vår
+ AI
+ assistent.
+ Det
+ er
+ der
+ vi
+ legger
+
+
+inn
+ og
+ og
+ linker
+ det
+ opp
+ mot
+ vår
+
+
+selskapsdata
+ og
+ ha
+ ulike
+ prosjekter
+ og
+
+
+daglig
+ sparing.
+ Nummer
+ to
+ er
+ curser.
+ Det
+
+
+er
+ hovedsakelig
+ for
+ de
+ som
+ jobber
+ med
+
+
+utvikling
+ og
+ programmering,
+ men
+ det
+ er
+
+
+såpass
+ lett
+ å
+ bruke
+ nå
+ at
+ vi
+ ser
+ flere
+
+
+og
+ flere.
+ Nå
+ er
+ det
+ en
+ tredjedel
+ av
+
+
+organisasjonen
+ som
+ som
+ lager
+ kode.
+ Og
+
+
+det
+ er
+ egentlig
+ blitt
+ fire
+ seer
+ nå.
+ For
+
+
+cloud
+ code
+ er
+ også
+ kommet
+ inn
+ her.
+ Og
+
+
+nummer
+ tre
+ som
+ de
+ fleste
+ sikkert
+ her
+ har
+
+
+hørt
+ om
+ er
+ Copilot
+ som
+ vi
+ også
+ har
+
+
+tilgjengelig
+ for
+ alle
+ ansatte.
+ Og
+ vi
+ ser
+
+
+god
+ utvikling
+ der
+ også,
+ men
+ føler
+ at
+ det
+
+
+er
+ veldig
+ mye
+ å
+ gå
+ på
+ i
+ forhold
+ til
+ å
+
+
+maksimere
+ potensialet
+ der.
+
+
+Og
+ vi
+ jobber
+ med
+ alle
+ disse
+ initiativene
+
+
+her
+ sånn
+ for
+ å
+ bli
+ mer
+ effektive
+ og
+ øke
+
+
+kvaliteten.
+ Og
+ vi
+ har
+ satt
+ oss
+ et
+ mål
+ om
+
+
+20%
+ og
+ det
+ er
+ 20%
+ hvert
+ eneste
+ år.
+ Eh
+ og
+
+
+det
+ tallet
+ der
+ ble
+ kastet
+ mye
+ rundt
+ i
+
+
+gangene.
+ Og
+ vi
+ lurte
+ litt
+ på
+ hvor
+ kom
+
+
+dette
+ fra?
+ Eh,
+ og
+ det
+ fant
+ vi
+ ut.
+ When
+
+
+you
+ have
+ the
+ cost
+ of
+ intelligence
+ coming
+
+
+down
+ so
+ dramatically
+ like
+ it
+ is
+ now,
+
+
+what
+ is
+ it
+ going
+ to
+ do
+ to
+ productivity
+
+
+in
+ the
+ world?
+
+
+I
+ mean,
+ supposed
+ to
+ go
+ up
+ a
+ lot,
+ right?
+
+
+>> That's
+ what
+ theory
+ tells
+ us
+ and
+
+
+>> that's
+ what
+ I
+ think.
+
+
+>> So,
+ so
+ eh
+ I've
+ told
+ everybody
+ in
+ in
+ our
+
+
+company
+ that
+ hey,
+ we
+ should
+ we
+ should
+
+
+improve
+ our
+ productivity
+ by
+ 10%
+ of
+ the
+
+
+next
+ 12
+ months
+ all.
+
+
+And
+ that's
+ and
+ you
+ know
+ how
+ I
+ got
+ the
+
+
+number.
+
+
+Did
+ you
+ ask?
+ No,
+ I
+ just
+ I
+ just
+ took
+ it
+
+
+straight
+ out
+ of
+ the
+ air.
+
+
+Do
+ you
+ think
+ what
+ do
+ you
+ think
+ about
+
+
+that
+ number?
+ Is
+ it
+ low
+ high?
+
+
+Underambitious.
+ Underamb.
+ What
+ should
+
+
+What
+ should
+ increase
+ by?
+ How
+ do
+ you
+ how
+
+
+do
+ you
+ measure
+ the
+ stuff
+ we
+ do?
+
+
+me
+ just
+ kind
+ of
+ stuff
+ that
+ I
+ produce.
+
+
+How
+ much
+ of
+ your
+ company
+ writes
+ code?
+
+
+Eh,
+
+
+15
+ people
+ in
+ in
+ technology
+ probably
+ 15
+
+
+20%
+ of
+ us
+
+
+more
+ actually.
+ But
+ okay
+ let
+ let's
+ say
+
+
+that's
+ 20%
+ writing
+ code.
+ I
+ think
+ in
+
+
+overall
+ goal
+ of
+ like
+ you
+ know
+ 20%
+
+
+productivity
+ increase
+ in
+ a
+ 12
+ month
+
+
+period
+ is
+ appropriately
+ ambitious
+ given
+
+
+the
+ tool
+ and
+ given
+ the
+ tools
+ that
+ we
+
+
+will
+ launch
+ over
+ the
+ next
+ 12
+ months.
+
+
+>> Ok.
+ Sounds
+ like
+ I
+ should
+ up
+ the
+ game
+ her
+
+
+a
+ bit.
+
+
+>> I
+ think
+ so.
+
+
+>> Yeah.
+ I'll
+ just
+ tell
+ everybody
+ you
+ told
+
+
+me
+ to.
+ So
+ that's
+ fine.
+
+
+>> Ja.
+
+
+Så
+ da
+ ble
+ det
+ 20%
+ eh
+ og
+ dette
+ var
+ august
+
+
+2023.
+ Så
+ litt
+ sånn
+ erfaringer
+ fra
+ oss
+ i
+
+
+kommunikasjon
+ eh
+ på
+ dette
+ her.
+ Eh
+ så
+
+
+ikke
+ sant
+ vi
+ skulle
+ gå
+ liksom
+ all
+ inn
+ på
+
+
+AI.
+ Vi
+ skulle
+ se
+ hvordan
+ vi
+ kan
+ best
+
+
+utnytte
+ den
+ teknologien.
+ Men
+ erfaring
+ vi
+
+
+opp
+ fikk
+ ganske
+ tidlig
+ var
+ at
+ vi
+ må
+ ta
+
+
+et
+ steg
+ tilbake
+ og
+ faktisk
+ jobbe
+ med
+
+
+digitalisering.
+ Vi
+ må
+ finne
+ hvor
+ er
+ all
+
+
+dataen
+ vår?
+ er
+ dataen
+ vår
+ strukturert
+ og
+
+
+er
+ klarer
+ vi
+ å
+ bruke
+ den
+ riktig
+ og
+
+
+deretter
+ så
+ kan
+ vi
+ legge
+ på
+ AI
+ for
+ å
+ få
+
+
+best
+ utnyttelse
+ av
+ dette
+
+
+så
+ merker
+ de
+ også
+ at
+ dette
+ her
+ kommer
+
+
+ikke
+ til
+ å
+ fjerne
+ oss
+ fra
+ fra
+
+
+arbeidsplassen
+ vår.
+ AI
+ er
+ middle
+ to
+
+
+middle,
+ ikke
+ end
+ to
+ end.
+ Så
+ vi
+ er
+ helt
+
+
+kritisk
+ å
+ ha
+ på
+ en måte
+ vår
+ kunnskap
+ og
+
+
+kritiske
+ sans
+ til
+ å
+ til
+ å
+ hjelpe
+ AI
+ å
+ få
+
+
+fram
+ det
+ beste
+ outputtet
+ og
+ ha
+ hele
+
+
+tiden
+ human
+ in
+ the
+ loop
+ som
+ vi
+ sier.
+
+
+Og
+ nummer
+ tre
+ er
+ å
+ holde
+ momentum
+ oppe.
+
+
+Ting
+ skjer
+ hele
+ tiden.
+ Det
+ du
+ kanskje
+
+
+ikke
+ fikk
+ til
+ for
+ ett
+ år
+ siden,
+ det
+ kan
+
+
+du
+ fort
+ hende
+ at
+ du
+ får
+ til
+ nå.
+ Så
+ på
+ en
+
+
+måte
+ har
+ vi
+ har
+ gode
+ ambassadører
+ som
+
+
+holder
+ momentum
+ oppe
+ og
+ eventer
+ og
+ alt
+
+
+det
+ som
+ Nikolai
+ nevnte
+ gjør
+ at
+ vi
+
+
+plutselig
+ finner
+ ut
+ og
+ dette
+ her
+ faktisk
+
+
+går
+ nå
+ som
+ jeg
+ trodde
+ ikke
+ skulle
+ gå
+ inn
+
+
+for
+ se
+ måneder
+ siden.
+ Så
+ holde
+ det
+
+
+momentet
+ oppe.
+ Her
+ ser
+ det
+ vanvittig
+ mye
+
+
+produktutvikling
+ hele
+ tiden.
+ Og
+ det
+ er
+
+
+ganske
+ kritisk
+ og
+ vi
+ har
+ merket
+ det
+ vært
+
+
+viktig
+ for
+ oss
+ da
+ pushe
+ hele
+ tiden.
+
+
+Og
+ fire
+ ting
+ som
+ vi
+ føler
+ at
+ vi
+ har
+ fått
+
+
+til
+ ganske
+ bra
+ eh
+ er
+ vi
+ har
+ utviklet
+ en
+
+
+mail
+ assistant
+ som
+ er
+ en
+ applikasjon
+ i
+
+
+Outlook
+ som
+ hjelper
+ oss
+ å
+ svare
+ på
+ masse
+
+
+henvendelser
+ vi
+ får
+ fra
+ eksterne
+ på
+ vi
+
+
+har
+ nå
+ 150
+ stykker
+ som
+ er
+ ute
+ og
+ snakker
+
+
+får
+ veldig
+ mye
+ forespørsler
+ og
+ da
+ får
+ vi
+
+
+autogenerert
+ et
+ svar
+ som
+ et
+ forslag
+ for
+
+
+oss
+ basert
+ på
+ våre
+ kriterier.
+ Så
+ det
+ har
+
+
+vi
+ nå
+ implementert
+ inn
+ og
+ bruker.
+
+
+Deretter
+ når
+ vi
+ har
+ sagt
+ ja
+ til
+ et
+ event
+
+
+så
+ har
+ vi
+ nå
+ laget
+ vår
+ egen
+ event
+
+
+plattform
+ som
+ ikke
+ har
+ blitt
+ lansert
+
+
+ennå.
+ eh
+ som
+ har
+ vært
+ et
+ litt
+ stort
+
+
+prosjekt.
+ Eh
+ men
+ da
+ går
+ vi
+ på
+ en
+ måte
+
+
+fra
+ Excelarket
+ til
+ en
+ egen
+ applikasjon
+
+
+og
+ da
+ kan
+ vi
+ krydre
+ AR
+ på
+ toppen
+ av
+ det.
+
+
+Og
+ så
+ har
+ vi
+ snakket
+ om
+ cloud
+ der
+ har
+ vi
+
+
+jobbet
+ med
+ å
+ lage
+ gode
+ clodprosjekter
+
+
+som
+ er
+ sånn
+ GPT
+ på
+ for
+ de
+ som
+ bruker
+
+
+Open
+ AIC
+ modell.
+ Og
+ vi
+ har
+ forhold
+ til
+
+
+sosiale
+ medieposter,
+ hvordan
+ du
+ skriver
+
+
+intranettsaker,
+ ting
+ som
+ vi
+ gjør
+ ofte
+ og
+
+
+som
+ også
+ resten
+ av
+ organisasjonen
+ kan
+
+
+utnytte.
+ Så
+ har
+ vi
+ jobbet
+ en
+ del
+ med
+
+
+det.
+ Og
+ så
+ kanskje
+ kronejuvelen
+ er
+ ekko
+
+
+eh
+ som
+ Sara
+ nå
+ skal
+ snakke
+ litt
+ mer
+ om.
+
+
+>> Ja,
+ takk.
+ Eh
+ så
+ Eko
+ det
+ hele
+ startet
+
+
+egentlig
+ i
+ eh
+ mai
+ 2024
+ da
+ vi
+ hadde
+ en
+
+
+diskusjon
+ med
+ ledergruppen
+ om
+ våre
+
+
+prioriteringer
+ fremover.
+ Men
+ de
+ følte
+ de
+
+
+manglet
+ data,
+ de
+ manglet
+ oversikt
+ over
+
+
+alt
+ det
+ vi
+ gjorde.
+ Så
+ vårt
+ oppdrag
+ ble
+
+
+da
+ å
+ komme
+ tilbake
+ om
+ tre
+ måneder
+ med
+ en
+
+
+komplett
+ oversikt.
+
+
+Og
+ det
+ ble
+ da
+ EKO.
+ Så
+ Eko
+ er
+ et
+ dashbord
+
+
+som
+ samler
+ data
+ fra
+ alle
+ våre
+
+
+kommunikasjonsaktiviteter
+
+
+under
+ sammetak.
+ Og
+ nå
+ vil
+ vi
+ dele
+ noen
+
+
+av
+ de
+ erfaringene
+ vi
+ fikk
+ ved
+ å
+ lage
+
+
+det.
+
+
+Fordi
+ problemet
+ var
+ jo
+ ikke
+ det
+ at
+ vi
+
+
+manglet
+ data.
+ Vi
+ hadde
+ masse
+ data.
+
+
+Problemet
+ var
+ at
+ dataene
+ var
+ isolert
+ på
+
+
+forskjellige
+ sosiale
+ medieplattformer
+ i
+
+
+Excelark
+ på
+ Ymse
+ skrivebord
+ og
+
+
+SharePoint
+ sider.
+
+
+Så
+ når
+ det
+ å
+ få
+ oversikt
+ over
+ alle
+
+
+aktivitetene
+ krever
+ at
+ du
+ logger
+ inn
+
+
+steder,
+ du
+ må
+ spørre
+ folk
+ som
+ har
+ en
+ fil
+
+
+som
+ ikke
+ du
+ har
+ tilgang
+ til,
+ så
+ blir
+ det
+
+
+vanskelig
+ å
+ få
+ oversikt.
+ Og
+ du
+ blir
+
+
+veldig
+ avhengig
+ av
+ de
+ menneskene
+ med
+
+
+login
+ credentials.
+
+
+Så
+ løsningen
+ var
+ å
+ samle
+ alt
+ på
+ et
+ sted.
+
+
+Og
+ der
+ falt
+ vårt
+ valg
+ eh
+ på
+ Snowflake.
+
+
+Og
+ der
+ er
+ den
+ første
+ læringen.
+ Og
+ det
+ er
+
+
+å
+ ta
+ kontroll
+ på
+ egen
+ data.
+ Og
+ det
+ er
+
+
+ikke
+ sånn
+ at
+ snowflake
+ i
+ seg
+ selv
+ er
+ eh
+
+
+magisk,
+ men
+ prinsippet
+ er
+ viktig.
+ Få
+
+
+dataen
+ et
+ sted
+ der
+ du
+ har
+ kontroll
+ på
+
+
+den.
+
+
+Da
+ kan
+ du
+ kombinere
+ den
+ med
+ annen
+ data
+
+
+og
+ du
+ kan
+ bruke
+ den
+ på
+ måter
+ som
+
+
+leverandørene
+ ikke
+ tenker
+ på.
+ Så
+ mye
+ av
+
+
+arbeidet
+ i
+ starten
+ handlet
+ ikke
+ om
+ AI
+
+
+eller
+ fancy
+ dashbord.
+ Det
+ handlet
+ om
+
+
+APer
+ og
+ dataflyt.
+ Men
+ det
+ er
+ å
+ bygge
+
+
+fundamentet
+ og
+ det
+ er
+ utrolig
+ viktig.
+
+
+Men
+ når
+ det
+ var
+ gjort
+ så
+ kom
+ AI
+ inn
+ i
+
+
+bildet
+ for
+ da
+ måtte
+ vi
+ finne
+ en
+ måte
+ å
+
+
+fremstille
+ det
+ på.
+
+
+Og
+ jeg
+ er
+ ikke
+ utvikler.
+ Det
+ er
+ heller
+
+
+ikke
+ noen
+ i
+ vår
+ avdeling,
+ men
+ ved
+ hjelp
+
+
+av
+ AI-verktøy,
+ sånn
+ som
+ for
+ eksempel
+
+
+Cloud
+ Code,
+ gode
+ kollegaer
+ og
+ det
+ å
+
+
+stjele
+ kode
+ uten
+ skam,
+ så
+ kunne
+ vi
+ bygge
+
+
+dette
+ på
+ bare
+ tre
+ måneder.
+ Og
+ der
+ er
+ den
+
+
+andre
+ læringen.
+ Fordi
+ selv
+ om
+ det
+
+
+begynner
+ å
+ bli
+ kjedelig
+ å
+ høre
+ det,
+ så
+
+
+demokratiserer
+ AI
+ teknologi
+
+
+og
+ du
+ trenger
+ ikke
+ lenger
+ være
+ ekspert
+
+
+for
+ å
+ kunne
+ utvikle.
+ Du
+ trenger
+ å
+ være
+
+
+nysgjerrig
+ og
+ du
+ må
+ tørre
+ å
+ prøve
+ å
+ tåle
+
+
+av
+ feilet.
+
+
+Så
+ resultatet
+ ble
+ da
+ dette
+ dashbordet
+
+
+ekko.
+ Eh,
+ og
+ dashbordet
+ i
+ seg
+ selv
+ er
+
+
+egentlig
+ ikke
+ så
+ interessant,
+ men
+ det
+ er
+
+
+det
+ som
+ skjer
+ når
+ du
+ får
+ kontroll
+ over
+
+
+dataene.
+ Du
+ kan
+ kombinere
+ det,
+ du
+ kan
+ se
+
+
+nye
+ sammenhenger
+ og
+ du
+ kan
+ dele
+ med
+
+
+flere.
+ For
+ det
+ er
+ ikke
+ bare
+ vi
+ i
+
+
+kommunikasjonsavdelingen
+ som
+ har
+ tilgang
+
+
+til
+ eko.
+ Det
+ er
+ hele
+ organisasjonen.
+
+
+Eh,
+ og
+ eh
+ de
+ har
+ også
+ tilgang
+ til
+ den
+
+
+underliggende
+ dataen
+ sånn
+ at
+ de
+ kan
+
+
+bruke
+ det
+ i
+ egne
+ rapporter.
+ Og
+ vi
+ fårdt
+
+
+masse
+ informasjon.
+
+
+Og
+ her
+ ser
+ dere
+ et
+ eksempel
+ bare
+ så
+ dere
+
+
+får
+ se
+ litt
+ hvordan
+ eh
+ det
+ ser
+ ut.
+ Og
+
+
+dette
+ er
+ da
+ jammer
+ eller
+ Viva
+ Engage
+ som
+
+
+vi
+ bruker
+ som
+ vår
+ sånn
+ corporate
+ social
+
+
+media.
+
+
+Og
+ tidligere
+ for
+ å
+ få
+ tilgang
+ til
+ dette
+
+
+så
+ måtte
+ du
+ være
+ admin
+ i
+ et
+ community
+ på
+
+
+jammer
+ og
+ så
+ kunne
+ du
+ gå
+ inn
+ og
+ så
+ kunne
+
+
+du
+ se
+ stats.
+ Jeg
+ tror
+ det
+ var
+ maks
+ tre
+
+
+eller
+ seks
+ måneder
+ tilbake
+ i
+ tid
+ og
+ litt
+
+
+sånn
+ trender
+ for
+ det
+ enkelte
+
+
+communityet.
+ Du
+ kunne
+ ikke
+ se
+
+
+brukerstatistikk
+ for
+ bruken
+ av
+ hele
+
+
+plattformen.
+ Da
+ måtte
+ vi
+ spørre
+ noen
+ i
+
+
+teknologiavdelingen
+ om
+ de
+ kunne
+ gå
+ inn
+
+
+backend,
+ hente
+ ned
+ en
+ rapport
+ til
+ Excel,
+
+
+sende
+ oss
+ på
+ mail
+ og
+ så
+ kunne
+ vi
+ sitte
+
+
+og
+ kombinere
+ flere
+ Excel
+ rapporter
+ for
+ å
+
+
+se
+ trendene.
+ Så
+ det
+ var
+ slitsomt.
+
+
+Nå
+ har
+ vi
+ all
+ dataen
+
+
+instantly
+ og
+ vi
+ kan
+ følge
+ med
+ på
+
+
+trendene.
+ Så
+ hvis
+ vi
+ ser
+ at
+ bruken
+
+
+begynner
+ å
+ droppe
+ så
+ kan
+ vi
+ gjøre
+ tiltak
+
+
+med
+ en
+ gang.
+ Og
+ det
+ sparer
+ oss
+ masse
+
+
+tid.
+ Og
+ så
+ har
+ vi
+ tilsvarende
+ oversikter
+
+
+for
+ alt
+ det
+ andre
+ vi
+ gjør.
+
+
+Eh,
+ og
+ det
+ er
+ nyttig,
+ men
+ det
+ er
+ jo
+ et
+
+
+dashbor.
+ Det
+ er
+ statisk,
+ så
+ det
+ er
+ jo
+
+
+begrenset.
+ Det
+ svarer
+ på
+ de
+ spørsmålene
+
+
+vi
+ allerede
+ har
+ tenkt
+ til
+ å
+ på
+ å
+ stille.
+
+
+Så
+ derfor
+ la
+ vi
+ en
+ chatbot
+ på
+ toppen
+ som
+
+
+vi
+ har
+ kalt
+ Eobot.
+
+
+Og
+ den
+ har
+ tilgang
+ til
+ all
+ dataen
+ og
+ kan
+
+
+derfor
+ svare
+ på
+ alle
+ mulige
+ spørsmål.
+ Så
+
+
+vi
+ sier
+ at
+ ekko
+ gir
+ oss
+ i
+ stor
+ grad
+
+
+oversikt,
+ men
+ kanskje
+ ekkobot
+ gir
+ oss
+
+
+litt
+ mer
+ innsikt.
+
+
+Og
+ her
+ er
+ den
+ tredje
+ læringen.
+ Det
+ er
+ at
+
+
+dokumentasjon
+ er
+ nøkkel.
+ Det
+ holder
+ ikke
+
+
+å
+ bare
+ ha
+ dataen.
+
+
+AI
+ må
+ forstå
+ dataen.
+ Så
+ du
+ må
+ gi
+ den
+
+
+kontekst.
+ Så
+ vi
+ har
+ fortalt
+ Eobot
+ at
+ når
+
+
+vi
+ ser
+ på
+ tallene
+ for
+ podcasten
+ vår,
+ så
+
+
+må
+ den
+ kombinere
+ to
+ forskjellige
+ kilder.
+
+
+Og
+ vi
+ har
+ forklart
+ sånne
+ ting
+ sånn
+ at
+
+
+med
+ konteksten
+ så
+ kan
+ Eobot
+ gi
+ oss
+
+
+rapporter
+ på
+ sekunder
+ og
+ svare
+ på
+
+
+spørsmål
+ vi
+ ikke
+ engang
+ har
+ tenkt
+ på
+ å
+
+
+stille.
+
+
+Så
+ her
+ spør
+ som
+ et
+ eksempel
+ spør
+ jeg
+ om
+
+
+den
+ kan
+ sammenligne
+ engasjement
+ på
+ de
+
+
+forskjellige
+ sosiale
+ medieplattformene
+
+
+våre.
+
+
+Og
+ tidligere
+ ville
+ dette
+ krevd
+ at
+ vi
+
+
+logget
+ inn
+ på
+ de
+ tre
+ forskjellige
+
+
+plattformene
+ plattformene
+ og
+ hentet
+ data
+
+
+der.
+ Nå
+ gjøres
+ dette
+ automatisk.
+
+
+Vi
+ får
+ et
+ sammendrag
+ over
+ de
+ siste
+ se
+
+
+månedene.
+
+
+Breakdown
+ per
+ plattform
+ og
+ så
+ noen
+
+
+recommendations.
+ Den
+ er
+ veldig
+ glad
+ i
+ å
+
+
+gi
+ recommendations
+ og
+ så
+ får
+ man
+ selv
+
+
+bestemme
+ om
+ det
+ er
+ nyttig
+ eller
+ ikke,
+
+
+men
+ det
+ sparer
+ oss
+ i
+ hvert
+ fall
+ masse
+
+
+tid.
+ Men
+ det
+ endrer
+ også
+ hvordan
+ vi
+
+
+jobber.
+ Vi
+ går
+ fra
+ å
+ bruke
+ tiden
+ til
+ å
+
+
+hente
+ data
+ og
+ rapportere
+ til
+ å
+ forstå.
+
+
+Så
+ fremover
+ så
+ kommer
+ vi
+ til
+ å
+ ha
+ fokus
+
+
+på
+ å
+ samle
+ inn
+ enda
+ mer
+ data
+ og
+ lage
+
+
+flere
+ eh
+ verktøy
+ slik
+ at
+ Eko
+ kan
+ bli
+ en
+
+
+sentral
+ hub
+ som
+ kan
+ hjelpe
+ oss
+ med
+ alt
+
+
+fra
+ lesbarhet
+ på
+ eksterne
+ rapporter
+ til
+
+
+podcast
+ research.
+ Og
+ det
+ første
+
+
+prosjektet
+ som
+ vi
+ snart
+ ferdigstiller
+ er
+
+
+en
+ egen
+ sentimentanalyse.
+
+
+Vi
+ har
+ satt
+ opp
+ syv
+ agenter,
+ så
+ enkelt
+
+
+forklart
+ syv
+ forskjellige
+ lmert
+ med
+ sitt
+
+
+spesifikke
+ oppdrag
+ som
+ analyserer
+
+
+medieartikler
+ om
+ fondet
+ og
+ kategoriserer
+
+
+det
+ etter
+ gitte
+ kriter
+ eller
+ i
+ gitte
+
+
+kategorier.
+ Og
+ dette
+ er
+ jo
+ ikke
+ nytt
+ i
+
+
+seg
+ selv.
+ Det
+ er
+ sikkert
+ mange
+ av
+ dere
+
+
+som
+ har
+ det.
+ Noen
+ av
+ dere
+ lager
+ det.
+
+
+Noen
+ av
+ dere
+ kjøper
+ det.
+ Men
+ fordelen
+
+
+med
+ å
+ gjøre
+ det
+ selv
+ er
+ at
+ det
+ er
+ vi
+ som
+
+
+kjenner
+ oss
+ selv
+ best.
+ Det
+ er
+ vi
+ som
+ vet
+
+
+hvilken
+ informasjon
+ vi
+ er
+ interessert
+ i.
+
+
+Og
+ vi
+ kan
+ kombinere
+ dem
+ med
+ annen
+ data.
+
+
+Her
+ ser
+ dere
+ en
+ veldig
+ tydelig
+ prototype
+
+
+av
+ dette
+ og
+ er
+ masse
+ informasjon,
+ men
+
+
+det
+ er
+ egentlig
+ ikke
+ viktig
+ i
+ det
+ hele
+
+
+tatt
+ for
+ poenget
+ mitt
+ bare
+ er
+ bare
+ at
+
+
+det
+ er
+ fullt
+ full
+ fleksibilitet
+ og
+ vi
+
+
+kan
+ gjøre
+ det
+ akkurat
+ sånn
+ som
+ vi
+ vil.
+
+
+Vi
+ ser
+ hva
+ som
+ funker
+ og
+ hva
+ som
+ ikke
+
+
+funker
+ og
+ så
+ kan
+ vi
+ endre
+ det
+
+
+superraskt.
+
+
+Så
+ vil
+ jeg
+ bare
+ eh
+ gjenta
+ eh
+
+
+læringspunktene.
+
+
+Det
+ er
+ å
+ ta
+ kontroll
+ over
+ egenda,
+ flytte
+
+
+inn
+ til
+ et
+ miljø
+ der
+ har
+ kontroll
+ selv.
+
+
+AI
+ gjør
+ det
+ mulig
+ for
+ ikke
+ teknologer
+ å
+
+
+bygge.
+ Vi
+ har
+ fått
+ det
+ til.
+ Alle
+ andre
+
+
+kan
+ få
+ det
+ til.
+ Og
+ dokumentasjon
+ er
+ alt.
+
+
+Strukturert,
+ godt
+ dokumentert
+ data
+ er
+
+
+det
+ som
+ gjør
+ AI
+ virkelig
+ nyttig.
+ Så
+ som
+
+
+Sigur
+ sa,
+ AI
+ er
+ ikke
+ end
+ to
+ end,
+ det
+ er
+
+
+middle
+ to
+ middel.
+ Og
+ det
+ vi
+ har
+ gjort
+ er
+
+
+å
+ kutte
+ tid
+ og
+ kostnader
+ på
+ å
+ hente
+
+
+data.
+ Og
+ så
+ bruker
+ vi
+ heller
+ tiden
+ til
+ å
+
+
+forsøke
+ å
+ forstå
+ den.
+
+
+Og
+ avslutningsvis
+ så
+ tenker
+ vi
+ det
+ blir
+
+
+veldig
+ kritisk
+ for
+ oss
+
+
+kommunikasjonsrådgivere
+ å
+ være
+ kritiske
+
+
+til
+ det
+ vi
+ får
+ ut
+ av
+ det
+ elemene
+ og
+ ikke
+
+
+bli
+ forlatt
+ å
+ ta
+ det
+ for
+ gitt.
+ Vår
+ input
+
+
+her
+ løfter
+ outputen
+ til
+ et
+ nytt
+ nivå.
+
+
+Fremover
+ også
+ så
+ er
+ det
+ i
+ forhold
+ til
+
+
+rekruttering
+ og
+ hva
+ slags
+ skills
+ som
+
+
+trengs
+ for
+ å
+ være
+ en
+ god
+
+
+kommunikasjonsrådgiver
+ endres
+ og
+ kunne
+
+
+være
+ litt
+ mer
+ sånn
+ som
+ Sara
+ tror
+ jeg
+ er
+
+
+fremtiden.
+
+
+Og
+ så
+ kommer
+ det
+ til
+ AI
+ integrasjon.
+
+
+Måten
+ vi
+ kommer
+ til
+ å
+ angripe
+ det
+ her
+
+
+mer
+ fremover
+ nå
+ i
+ 2026,
+ det
+ er
+ å
+ se
+ på
+
+
+hva
+ er
+ de
+ store
+ prosessene
+ vi
+ jobber
+ med
+
+
+og
+ hvordan
+ kan
+ ny
+ teknologi
+ når
+ du
+ får
+
+
+kartlagt
+ hvert
+ eneste
+ steg
+ i
+ en
+ stor
+
+
+prosess
+ effektivisere,
+ automatisere
+ og
+
+
+forbedre.
+
+
+Og
+ så
+ er
+ det
+ nye
+ muligheter
+ som
+ den
+
+
+teknologien
+ her
+ gir.
+ Og
+ for
+ oss
+ for
+ noen
+
+
+år
+ tilbake
+ å
+ kunne
+ lage
+ vår
+ egen
+
+
+sentimentanalyse
+ liksom
+ tailor
+ made
+ for
+
+
+våre
+ behov
+ hadde
+ jeg
+ sett
+ som
+ helt
+
+
+umulig.
+ Nå
+ får
+ vi
+ det
+ til.
+ Og
+ jeg
+ tror
+
+
+det
+ er
+ mange
+ sånne
+ muligheter
+ som
+ vil
+
+
+komme.
+ Takk
+ for
+ oss.
+ Over
+ til
+ Halvor.
