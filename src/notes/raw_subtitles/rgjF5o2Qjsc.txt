@@ -1,0 +1,4587 @@
+[music]
+
+
+I'm
+ really
+ excited
+ being
+ here.
+ So
+ many
+
+
+so
+ much
+ pragmatic
+ and
+ insight
+ and
+
+
+suggestions.
+ I
+ was
+ sitting
+ there
+ uh
+ just
+
+
+just
+ before.
+ So
+ I'm
+ Edomar
+ Freriedman
+
+
+the
+ CEO
+ and
+ co-founder
+ of
+ Kodto.
+ Codto
+
+
+stands
+ for
+ quality
+ of
+ development
+ and
+
+
+I'm
+ going
+ to
+ share
+ uh
+ our
+ reports
+ and
+
+
+other
+ companies
+ reports
+ about
+ state
+ of
+
+
+AI
+ code
+ quality.
+ Uh
+ you
+ know
+ trying
+ to
+
+
+uh
+ talk
+ about
+ the
+ hype
+ versus
+ reality
+
+
+which
+ was
+ uh
+ like
+ one
+ of
+ the
+ uh
+ points
+
+
+that
+ were
+ discussed
+ here
+ quite
+ a
+ lot
+
+
+which
+ is
+ awesome.
+ So
+ in
+ the
+ last
+ three
+
+
+weeks,
+ four
+ weeks,
+ we
+ saw
+ like
+ three
+
+
+outages
+ in
+ the
+ clouds,
+ unfortunately,
+
+
+right?
+ And
+ these
+ are
+ coming
+ from
+
+
+companies
+ that
+ really
+ care
+ about
+ moving
+
+
+fast,
+ right?
+ They're
+ they're
+ they're
+
+
+saying
+ themselves
+ that
+ they're
+ using
+ AI
+
+
+to
+ generate
+ code
+ 10%,
+ 30%,
+ 50%,
+ at
+ the
+
+
+same
+ time,
+ they
+ care
+ about
+ quality.
+ So
+
+
+how
+ did
+ that
+ happen?
+ And
+ is
+ it
+ is
+ it
+
+
+related?
+ I
+ don't
+ know.
+ But
+ let's
+ have
+
+
+some
+ I'm
+ going
+ to
+ share
+ some
+ guess.
+ So
+
+
+by
+ the
+ way
+ 60%
+ of
+ developers
+ say
+ that
+
+
+the
+ like
+ quarter
+ of
+ their
+ code
+ is
+ either
+
+
+generated
+ by
+ AI
+ or
+ in
+ in
+ like
+ uh
+ uh
+
+
+shaped
+ by
+ I
+ and
+ 15%
+ say
+ that
+ even
+ more
+
+
+than
+ 80
+ 80%
+ of
+ their
+ code
+ uh
+ is
+
+
+basically
+ generated
+ or
+ or
+ shaped
+ by
+ AI.
+
+
+Now
+ people
+ are
+ using
+ AI
+ to
+ do
+ vibe
+
+
+coding
+ but
+ actually
+ they're
+ even
+ doing
+
+
+it
+ for
+ vibe
+ checking
+ vibe
+ reviewing.
+
+
+This
+ is
+ the
+ command
+ of
+ cloud.
+ This
+ is
+
+
+the
+ prompt
+ for
+ the
+ command
+ of
+ claude
+
+
+code
+ for
+ security
+ review.
+ It
+ was
+ hyped
+
+
+like
+ two
+ months
+ ago.
+ Do
+ you
+ know
+ what
+
+
+I'm
+ talking
+ about
+ now?
+ It
+ says
+ there,
+ I
+
+
+don't
+ know if
+ you
+ see
+ it.
+ Uh
+ you
+ are
+ a
+
+
+senior
+ security
+ engineer.
+ Good.
+ And
+ then
+
+
+like
+ somewhere
+ there
+ uh
+ down
+ the
+ line
+ it
+
+
+says
+ please
+ exclude
+ denial
+ of
+ service.
+
+
+Don't
+ don't
+ uh
+ catch
+ denial
+ of
+ service
+
+
+issues.
+ Maybe
+ that's
+ part
+ of
+ the
+ part
+ of
+
+
+the
+ reason
+ like
+ we're
+ we're
+ having
+ uh
+
+
+cloud
+ outages.
+ probably
+ not
+ just
+ that,
+
+
+but
+ you
+ get
+ the
+ point.
+ Like
+ we
+ need
+ to
+
+
+be
+ rigorous
+ about
+ how
+ we
+ deal
+ with
+
+
+quality.
+ It's
+ not
+ just
+ like
+ vibe
+ quality
+
+
+or
+ or
+ so
+ like
+ we're
+ doing
+ vibe
+ coding
+
+
+sometimes.
+ Uh
+ let's
+ go
+ to
+ another
+
+
+example.
+ Okay,
+ cursor
+ I
+ guess
+ like
+ or
+ or
+
+
+pilot
+ most
+ of
+ you
+ use
+ rules,
+ right?
+
+
+We're
+ going
+ to
+ talk
+ about
+ it.
+ You
+ invest
+
+
+in
+ code
+ generation.
+ After
+ a
+ while,
+ you
+
+
+understand
+ if
+ you
+ invest,
+ you'll
+ get
+
+
+more
+ out
+ of
+ it.
+ And
+ uh
+ we
+ we
+ asked
+ like
+
+
+a
+ bunch
+ of
+ of
+ developers
+ and
+ I'm
+ asking
+
+
+you
+ as
+ well
+ think
+ think
+ for
+ a
+ second
+ for
+
+
+all
+ the
+ developers
+ there
+ in
+ the
+ audience
+
+
+like
+ when
+ you
+ write
+ cursor
+ rules
+ or
+
+
+copilot
+ rules
+ etc.
+ Do
+ you
+ feel
+ they're
+
+
+completely
+ followed
+ or
+ it's
+ like
+ mostly
+
+
+followed?
+ Do
+ you
+ know
+ how
+ much
+ they're
+
+
+followed?
+ And
+ what
+ extent
+ are
+ they
+
+
+followed?
+ It's
+ rigorously
+ like
+ how
+
+
+technical
+ deep
+ they're
+ they're
+ being
+
+
+followed.
+ So
+ the
+ what
+ we
+ get
+ back
+ like
+
+
+the
+ answer
+ from
+ what
+ you
+ see
+ here
+ on
+ the
+
+
+screen
+ is
+ mostly
+ like
+ B,
+ C,
+ and
+ D.
+ They
+
+
+are
+ followed
+ but
+ they're
+ not
+ completely
+
+
+followed.
+ Okay.
+ So
+ that
+ means
+ like
+ we
+
+
+are
+ generating
+ code
+ trying
+ to
+ push
+ it
+ to
+
+
+the
+ standards
+ but
+ it's
+ not
+ necessarily
+
+
+still
+ like
+ getting
+ to
+ the
+ quality
+ we
+
+
+wanted.
+ I'm
+ going
+ to
+ share
+ a
+ bit
+ more
+
+
+statistics
+ and
+ and
+ information
+ and
+ some
+
+
+insight
+ from
+ three
+ reports.
+ One
+ done
+ by
+
+
+Codo,
+ another
+ by
+ done
+ by
+ Sonar,
+ another
+
+
+by
+ far.
+ And
+ all
+ of
+ them
+ are
+ are
+ focused
+
+
+on
+ code
+ code
+ quality
+ review
+ etc.
+ The
+
+
+sample
+ size
+ is
+ thousands
+ of
+ developers
+
+
+in
+ some
+ cases
+ even
+ more.
+ Millions
+ of
+
+
+pull
+ requests
+ and
+ and
+ a
+ billion
+ of
+ of
+
+
+lines
+ lines
+ of
+ code
+ that
+ were
+ uh
+ uh
+
+
+being
+ checked.
+ Like
+ for
+ example,
+ if
+ you
+
+
+think
+ about
+ uh
+ Sonar,
+ this
+ is
+ a
+ company.
+
+
+Yeah.
+ A
+ bit
+ like
+ coming
+ from
+ pre-AII,
+
+
+but
+ they
+ see
+ code
+ at
+ scale
+ and
+ you
+
+
+they're
+ doing
+ like
+ a
+ lot
+ of
+ uh
+ checks
+ in
+
+
+code
+ that
+ are
+ not
+ necessarily
+ AI
+
+
+focused,
+ but
+ are
+ necessary
+ in
+ order
+ to
+
+
+check
+ uh
+ your
+ your
+ software
+ from
+ all
+
+
+possible
+ direction.
+ And
+ that's
+ why
+ their
+
+
+scaling
+ and
+ the
+ scale
+ of
+ the
+ code
+ that
+
+
+they're
+ seeing
+ is
+ is
+ immense.
+ Okay.
+ So
+
+
+for
+ example,
+ we
+ took
+ information
+ from
+
+
+from
+ their
+ report
+ and
+ eventually
+ my
+
+
+purpose
+ here
+ is
+ to
+ break
+ down
+ the
+
+
+different
+ dimension
+ of
+ what
+ uh
+ code
+
+
+quality
+ means
+ and
+ give
+ you
+ some
+ share
+
+
+some
+ stats
+ and
+ and
+ insights.
+ I
+ want
+ to
+
+
+start
+ with
+ the
+ end.
+ Okay,
+ this
+ is
+ the
+
+
+takeaway
+ I
+ want
+ you
+ all
+ all
+ like
+ to
+ take
+
+
+from
+ from
+ the
+ next
+ 13
+ minutes
+ that
+ I
+
+
+have.
+ We
+ started
+ with
+ code
+ generation.
+
+
+We
+ like
+ out
+ of
+ the
+ box
+ use
+ it
+
+
+autocomplete
+ etc.
+ and
+ you
+ invest
+ in
+ it
+
+
+and
+ you
+ can
+ get
+ more
+ out
+ of
+ it.
+ But
+
+
+there's
+ a
+ glass
+ ceiling
+ for
+ how
+ much
+
+
+productivity
+ you
+ can
+ get
+ from
+ code
+
+
+generation.
+ And
+ then
+ we
+ move
+ to
+ the
+
+
+agent
+ code
+ generation,
+ right?
+ Let's
+ call
+
+
+it
+ gen
+ 2.0.
+ And
+ that's
+ a
+ higher
+ glass
+
+
+ceiling.
+ It
+ could
+ do
+ much
+ more
+
+
+productivity
+ and
+ especially
+ if
+ you
+
+
+invest
+ in
+ it,
+ for
+ example,
+ rules,
+ etc.
+
+
+Then
+ with
+ AI
+ breaking
+ outside
+ of
+ the
+
+
+IDE,
+ we
+ can
+ start
+ using
+ AI
+ also
+ for
+ code
+
+
+for
+ agentic
+ quality
+ workflows.
+ It
+ could
+
+
+be
+ inside
+ the
+ ID,
+ but
+ the
+ the
+ truth
+ is
+
+
+that
+ if
+ you
+ think
+ about
+ all
+ the
+
+
+workflows
+ you
+ have
+ in
+ your
+ organization,
+
+
+especially
+ if
+ you're
+ more
+ than
+ 100
+
+
+developers
+ or
+ so,
+ you
+ probably
+ have
+ a
+
+
+lot
+ of
+ workflows
+ that
+ you
+ are
+ related
+ to
+
+
+quality
+ that
+ you
+ need
+ to
+ auto automate.
+
+
+And
+ that's
+ where
+ you
+ start
+ like
+ breaking
+
+
+through
+ the
+ glass
+ ceiling
+ of
+
+
+productivity.
+ if
+ you
+ invest
+ in
+ it.
+ And
+
+
+finally,
+ I
+ I
+ claim
+ that
+ you
+ need
+ those
+
+
+agentic
+ workflows.
+ Keep
+ learning.
+ And
+ we
+
+
+might
+ touch
+ a
+ little
+ bit
+ of
+ that
+ like
+
+
+later
+ later
+ on,
+ okay?
+ Like
+ because
+
+
+quality
+ is
+ something
+ dynamic.
+ So
+ you'll
+
+
+only
+ finally
+ break
+ break
+ the
+ glass
+
+
+ceiling
+ if
+ if
+ you
+ really
+ have
+ those
+
+
+quality
+ workflows
+ and
+ rules
+ and
+ standard
+
+
+being
+ dynamic.
+ And
+ then
+ then
+ you
+ will
+
+
+see
+ the
+ promised
+ 2x,
+ let
+ alone
+ the
+ 10x
+
+
+that
+ you
+ were
+ promised
+ the
+ hyped.
+ and
+
+
+you
+ you
+ heard
+ from
+ McKenzie
+ and
+ from
+
+
+Stanford
+ you're
+ not
+ getting
+ that
+ I
+ don't
+
+
+need
+ to
+ tell
+ you
+ that
+ 2x
+ 10x
+ for
+ that
+
+
+entire
+ software
+ development
+ uh
+ life
+
+
+cycle
+ so
+ a
+ bit
+ about
+ more
+ about
+ the
+
+
+market
+ adoption
+ uh
+ one
+ of
+ the
+ report
+
+
+says
+ that
+ 82%
+ of
+ adoption
+ already
+ for
+ AI
+
+
+dev
+ tools
+ are
+ being
+ used
+ daily
+ or
+ weekly
+
+
+uh
+ some
+ people
+ at
+ 60
+ 60%
+ 59
+ report
+ that
+
+
+they're
+ using
+ more
+ than
+ three
+ and
+ 20%
+
+
+saying
+ they're
+ using
+ more
+ than
+ five
+ code
+
+
+generation
+ tools
+ If
+ you
+ think
+ about
+ it
+
+
+for
+ a
+ second,
+ uh
+ don't
+ only
+ take
+ like
+
+
+cursor
+ copilot,
+ codex,
+ cloud
+ code,
+ etc.
+
+
+Sorry
+ if
+ I'm
+ insulting
+ anyone
+ in
+ the
+
+
+that
+ I
+ forgot
+ their
+ tool,
+ but
+ there's
+
+
+also
+ the
+ lovable
+ etc.
+ They
+ also
+ generate
+
+
+code.
+ And
+ by
+ the
+ way,
+ you're
+ going
+ to
+
+
+get
+ to
+ 10.
+ I'm
+ count
+ on
+ me.
+ You're
+ going
+
+
+to
+ get
+ to
+ 10
+ tools
+ in
+ two
+ three
+ years
+
+
+that
+ generate
+ code
+ for
+ you.
+ Okay,
+ come
+
+
+to
+ talk
+ to
+ me
+ about
+ later.
+ I'll
+ try
+ to
+
+
+convince
+ you.
+ And
+ and
+ the
+ thing
+ is
+ that
+
+
+it
+ it's
+ coming
+ from
+ bottom
+ up.
+ like
+ 50%
+
+
+of
+ the
+ usage
+ is
+ coming
+ from
+ less
+ than
+ 10
+
+
+teams
+ that
+ are
+ less
+ than
+ 10
+ developers
+
+
+but
+ it
+ is
+ propagating
+ also
+ to
+ the
+
+
+enterprise
+ again
+ I'm
+ sure
+ you
+ know
+ I
+
+
+mean
+ talk
+ propagating
+ to
+ the
+ enterprise
+
+
+at
+ scale
+ like
+ not
+ just
+ like
+ five
+
+
+developers
+ in
+ the
+ last
+ year
+ we're
+ seeing
+
+
+like
+ more
+ and
+ more
+ enterprise
+ using
+ co
+
+
+code
+ generation
+ u
+ so
+ if
+ like
+ an
+ average
+
+
+with
+ within
+ reports
+ we
+ saw
+ 82
+ to
+ 92%
+
+
+using
+ weekly
+ to
+ a
+ monthly
+ uh
+ code
+
+
+generation
+ tools
+ and
+ in
+ some
+ cases
+ Maybe
+
+
+extreme,
+ maybe
+ not.
+ We're
+ going
+ to
+ talk
+
+
+about
+ it.
+ We
+ saw
+ 3x
+ productivity
+ boost
+
+
+in
+ writing
+ code.
+ Okay,
+ but
+ that
+ doesn't
+
+
+mean
+ that
+ if
+ you
+ have
+ uh
+ 3x
+ productivity
+
+
+in
+ writing
+ code
+ that
+ you
+ actually
+
+
+guarantee
+ any
+ quality
+ like
+ I
+ presented
+
+
+before.
+ So
+ actually
+ 67%
+ of
+ the
+ developer
+
+
+that
+ we
+ ask
+ asked
+ have
+ serious
+ quality
+
+
+concerns
+ about
+ all
+ the
+ AI
+ generated
+ all
+
+
+the
+ generated
+ code
+ uh
+ uh
+ code
+ generated
+
+
+by
+ AI
+ or
+ influenced
+ by
+ AI
+ and
+ they're
+
+
+claiming
+ that
+ they're
+ missing
+ the
+
+
+framework
+ how
+ to
+ deal
+ with
+ quality
+ how
+
+
+to
+ measure
+ quality.
+ It's
+ a
+ big
+ question.
+
+
+What
+ is
+ quality?
+ I'm
+ going
+ to
+ talk
+ about
+
+
+it
+ in
+ the
+ next
+ few
+ slides.
+ Okay,
+ think
+
+
+about
+ it
+ for
+ a
+ second
+ before
+ I
+ break
+
+
+break
+ it
+ down.
+ What
+ what
+ is
+ quality?
+ Um
+
+
+so
+ what
+ we're
+ actually
+ saying
+ that
+ the
+
+
+crisis
+ with
+ V
+ right
+ coding
+ uh
+ viable
+
+
+coding
+ we're
+ seeing
+ it
+ shifting
+ and
+
+
+evolving
+ is
+ that
+ you're
+ getting
+ like
+
+
+more
+ task
+ being
+ done
+ like
+ 20
+ some
+ report
+
+
+20%
+ more
+ task
+ you
+ know
+ velocity
+ and
+ like
+
+
+97
+ more%
+ or
+ so
+ of
+ PRs
+ being
+ opened
+ and
+
+
+eventually
+ it
+ takes
+ more
+ time
+ to
+ review
+
+
+PR
+ like
+ 90%
+ more
+ time
+ to
+ review
+ PR
+ and
+
+
+by
+ the
+ way
+ like
+ there's
+ a
+ lot
+ of
+
+
+statistics
+ about
+ AI
+ generating
+ ating
+
+
+code
+ at
+ least
+ there's
+ not
+ less
+ amount
+ of
+
+
+bugs
+ per
+ line
+ of
+ code
+ I'm
+ not
+ claiming
+
+
+that
+ there
+ are
+ more
+ but
+ even
+ if
+ there's
+
+
+not
+ less
+ bugs
+ per
+ line
+ of
+ code
+ you
+ have
+
+
+much
+ more
+ bugs
+ because
+ there
+ are
+ much
+
+
+more
+ PRs
+ much
+ more
+ code
+ being
+ generated
+
+
+etc
+ right
+ so
+ that
+ that's
+ a
+ problem
+ for
+
+
+the
+ reviewer
+ so
+ it's
+ somebody's
+ surprise
+
+
+it
+ takes
+ more
+ time
+ to
+ review
+ these
+
+
+especially
+ in
+ the
+ age
+ of
+ agents
+ right
+
+
+when
+ 5
+ minutes
+ calling
+ to
+ cloud
+ code
+ I
+
+
+have
+ 1,000
+ line
+ of
+ code
+ after
+ 5
+ minutes
+
+
+once
+ upon
+ a
+ time
+ it
+ took
+ me
+ like
+ hours
+
+
+to
+ write
+ 10
+ proper
+ lines
+ of
+ code.
+ Right
+
+
+now,
+ let's
+ zoom
+ out
+ for
+ a
+ second.
+ Code
+
+
+generation
+ is
+ magnificent.
+ Okay?
+ Like
+ it
+
+
+it's
+ a
+ gamecher
+ when
+ you're
+ talking
+
+
+about
+ green
+ field.
+ You
+ saw
+ people
+ talk
+
+
+about
+ it
+ a
+ few
+ slides
+ a
+ few
+ minutes
+
+
+before
+ me.
+ Uh
+ it
+ it
+ revolutionized
+ how
+
+
+we
+ do
+ PE
+ proof
+ of
+ concept
+ uh
+ project
+
+
+etc.
+ But
+ when
+ you're
+ dealing
+ with
+
+
+heavyduty
+ software
+ then
+ you
+ you
+ like
+ it
+
+
+or
+ not
+ we
+ are
+ dealing
+ with
+ a
+ lot
+ of
+
+
+things
+ when
+ uh
+ when
+ you
+ serve
+ millions
+
+
+of
+ clients
+ you
+ have
+ financial
+
+
+transactions
+ when
+ you're
+ doing
+
+
+transportation
+ you're
+ dealing
+ with
+ code
+
+
+integrity
+ if
+ you
+ like
+ code
+ governance
+ uh
+
+
+review
+ standards
+ testing
+ relability
+ etc.
+
+
+That's
+ what
+ we
+ need
+ to
+ uh
+ uh
+ to
+ deal
+
+
+with.
+ Now
+ let's
+ break
+ that
+ under
+ the
+
+
+surface
+ part
+ of
+ the
+ glacier
+ into
+ two
+
+
+dimensions.
+ This
+ is
+ one
+ dimension.
+ You
+
+
+can
+ look
+ on
+ the
+ qual
+ quality
+ issues
+ in
+
+
+throughout
+ the
+ software
+ development
+ life
+
+
+cycle
+ like
+ planning
+ and
+ then
+ development
+
+
+writing
+ code
+ review.
+ C code
+ review
+ is
+ a
+
+
+bit
+ of
+ a
+ process
+ but
+ like
+ what
+ you're
+
+
+like
+ checking
+ quality
+ that's
+ part
+ of
+ the
+
+
+process
+ of
+ code
+ review
+ testing
+ which
+ is
+
+
+another
+ part
+ of
+ of
+ quality
+ and
+ and
+
+
+deployment.
+ And
+ I
+ know
+ I
+ didn't
+ cover
+
+
+the
+ entire
+ like
+ software
+ development
+
+
+life
+ cycle
+ but
+ just
+ to
+ give
+ you
+ an
+
+
+example
+ and
+ each
+ one
+ of
+ them
+ like
+
+
+possess
+ like
+ introduce
+ new
+ problems
+ that
+
+
+are
+ coming
+ because
+ you're
+ using
+ more
+ and
+
+
+more
+ AI
+ generated
+ code.
+ Um
+ now
+ another
+
+
+dimension
+ to
+ look
+ at
+ it
+ is
+ actually
+ code
+
+
+level
+ problems
+ and
+ process
+ level
+
+
+problems.
+ Okay,
+ I'm
+ not
+ I'm
+ not
+ opening
+
+
+the
+ you
+ know
+ list
+ of
+ functional
+ just
+
+
+opening
+ the
+ list
+ of
+ non-functional.
+
+
+you're
+ talking
+ about
+ security
+ and
+
+
+efficiency
+ that
+ are
+ not
+ necessarily
+ uh
+
+
+functional
+ use.
+ I I'll
+ show
+ you
+ some
+
+
+statistics
+ about
+ that.
+ And
+ then
+ process
+
+
+level
+ is
+ for
+ example
+ learning.
+ Hey,
+ if
+
+
+you
+ will
+ have
+ a
+ a
+ a
+ bad
+ outage
+ because
+
+
+of
+ AI
+ generated
+ code,
+ who
+ is
+
+
+responsible?
+ Is
+ it
+ the
+ AI
+ or
+ or
+ the
+ team
+
+
+that
+ own
+ that?
+ Okay.
+ Like
+ you
+ need
+ to
+
+
+learn
+ and
+ own
+ the
+ code
+ eventually.
+
+
+That's
+ a
+ process
+ that
+ needs
+ to
+ be
+ done.
+
+
+verification,
+ porting
+ guard
+ rails,
+
+
+standards,
+ uh,
+ etc.
+ So,
+ so
+ all
+ of
+ those
+
+
+issues
+ when
+ they're
+ introduced
+ to
+
+
+thousands
+ of
+ developer
+ that
+ we
+ asked
+
+
+them,
+ do
+ you
+ think
+ like
+ actually
+ AI
+
+
+helped
+ to
+ reduce
+ with
+ those
+ problems
+ or
+
+
+or
+ actually
+ made
+ more
+ like
+ more
+
+
+challenging
+ 42
+ people
+ reported
+ that
+ they
+
+
+spend
+ 42
+ more
+ of
+ the
+ development
+ time
+ on
+
+
+solving
+ issues,
+ on
+ fixing
+ bugs,
+ etc.
+ and
+
+
+and
+ they
+ saw
+ 35
+ uh%
+ project
+ delays.
+
+
+We're
+ talking
+ about
+ we're
+ talking
+ about
+
+
+maybe
+ games
+ they're
+ talking
+ about
+ like
+
+
+delays.
+ Okay,
+ there's
+ some
+ bias.
+ We
+ told
+
+
+them
+ we
+ talked
+ about
+ problem
+ with
+
+
+quality
+ and
+ what's
+ the
+ impact
+ etc.
+ Um
+
+
+but
+ that's
+ what
+ they
+ they
+ they
+ present
+
+
+uh
+ to
+ when
+ they
+ they
+ answer
+ uh
+ when
+ when
+
+
+they're
+ talking
+ about
+ like
+ when
+ you're
+
+
+mass
+ using
+ AI
+ code
+ AI
+ generated
+ code
+ and
+
+
+we
+ see
+ reports
+ uh
+ some
+ of
+ the
+ reports
+
+
+talking
+ about
+ 3x
+ more
+ security
+ inc
+
+
+incidents
+ by
+ the
+ way
+ it
+ makes
+ sense
+ you
+
+
+remember
+ we
+ had
+ a
+ slide
+ saying
+ 3x
+ more
+
+
+writing
+ code
+ so
+ 3x
+ more
+ security
+
+
+incidents
+ like
+ the
+ same
+ amount
+ of
+ line
+
+
+of
+ code
+ the
+ same
+ amount
+ of
+ uh
+ uh
+
+
+problems
+ correlation
+ so
+ what
+ to
+ do
+ with
+
+
+that
+ like
+ I
+ talked
+ about
+ problems
+ and
+
+
+problems
+ and
+ problems
+ Okay,
+ help
+ help
+ me
+
+
+deal
+ with
+ it.
+ Like
+ let's
+ let's
+ spend
+ a
+
+
+few
+ minutes
+ on
+ on
+ that.
+ So
+ one
+ one
+
+
+suspect
+ of
+ course
+ is
+ testing
+ and
+
+
+actually
+ really
+ interesting
+ we
+ asked
+ a
+
+
+couple
+ of
+ question
+ about
+ testing
+ and
+ one
+
+
+really
+ relevant
+ saying
+ that
+ people
+ said
+
+
+that
+ when
+ they
+ heavily
+ [clears throat]
+
+
+use
+ AI
+ to
+ on
+ testing
+ use
+ AI
+ to
+ do
+
+
+testing
+ they
+ actually
+ double
+ their
+ trust
+
+
+in
+ the
+ AI
+ generated
+ code.
+ Okay,
+ that's
+
+
+one
+ thing.
+ The
+ ne
+ next
+ suspect
+ to
+ help
+
+
+us
+ with
+ the
+ quality
+ is
+ code
+ review.
+ What
+
+
+really
+ interesting
+ about
+ code
+ review
+
+
+that
+ it's
+ a
+ process
+ that
+ helps
+ almost
+
+
+with
+ all
+ the
+ process
+ level
+ and
+ the
+ code
+
+
+level
+ like
+ issues.
+ For
+ example,
+ you
+ can
+
+
+set
+ your
+ AI
+ code
+ review
+ tool
+ to
+ tell
+ you
+
+
+block
+ this
+ PR
+ if
+ it
+ doesn't
+ cover
+
+
+certain
+ level
+ of
+ test
+ coverage.
+ So
+
+
+through
+ the
+ PR
+ you
+ take
+ care
+ of
+ the
+
+
+testing
+ process
+ problem.
+ Okay.
+ So
+ code
+
+
+like
+ code
+ review
+ with
+ AI
+ is
+ actually
+ one
+
+
+of
+ one
+ of
+ the
+ major
+ things
+ you
+ you you
+
+
+can
+ do
+ and
+ people
+ that
+ are
+ developers
+
+
+that
+ are
+ using
+ AI
+ code
+ review
+ tool
+
+
+they're
+ saying
+ that
+ they're
+ saying
+
+
+they're
+ seeing
+ double
+ the
+ quality
+ gain
+
+
+and
+ they're
+ saying
+ that
+ actually
+ it's
+ it
+
+
+helps
+ them
+ to
+ uh
+ improve
+ improve
+ 47%
+ in
+
+
+productivity
+ of
+ writing
+ code.
+ Okay.
+ Now
+
+
+a
+ bit
+ statistics
+ from
+ our
+ own
+ uh
+ AI
+ code
+
+
+review
+ tool.
+ We
+ scan
+ a
+ million
+ of
+ PRs
+ a
+
+
+month
+ and
+ we
+ took
+ one
+ mill
+ million
+ of
+
+
+those
+ PRs
+ and
+ we
+ noticed
+ that
+ 17%
+
+
+include
+ like
+ high
+ severity
+ issues.
+ By
+
+
+the
+ way,
+ we're
+ now
+ analyzing
+ uh
+ before
+
+
+and
+ after
+ using
+ AI.
+ I
+ don't
+ have
+ that
+
+
+statistics
+ yet,
+ but
+ we
+ are
+ noticing
+
+
+since
+ we're
+ starting
+ uh
+ most
+ of
+ the
+
+
+companies
+ we
+ serve,
+ they
+ use
+ AI
+
+
+generated
+ code.
+ So
+ that's
+ why
+ uh
+ I
+ don't
+
+
+have
+ before.
+ We
+ need
+ to
+ go
+ scan
+
+
+backwards.
+ Uh
+ and
+ that's
+ like
+ a
+ really
+
+
+big
+ a
+ big
+ number.
+ Another
+ thing
+ I
+ want
+
+
+to
+ talk
+ to
+ you
+ like
+ about
+ uh
+ when
+ you're
+
+
+trying
+ to
+ improve
+ on
+ quality
+ is
+ is
+ the
+
+
+foundation
+ of
+ having
+ the
+ right
+ context
+
+
+that
+ is
+ brought
+ to
+ the
+ uh
+ code
+
+
+generation
+ tool
+ that
+ is
+ brought
+ to
+ the
+
+
+AI
+ code
+ review
+ tool
+ better
+ context
+
+
+better
+ quality
+ across
+ the
+ board
+ wherever
+
+
+you're
+ using
+ AI.
+ Uh
+ so
+ when
+ we
+ asked
+
+
+developers
+ when
+ when
+ you
+ h
+ when
+ you
+
+
+don't
+ trust
+ AI
+ generated
+ code
+ like
+ you
+
+
+remember
+ like
+ 67%
+ that
+ like
+ are
+ really
+
+
+worried
+ about
+ that
+ they
+ said
+ 80
+ 80%
+ of
+
+
+the
+ time
+ they
+ don't
+ trust
+ the
+ context
+
+
+that
+ the
+ LLM
+ have
+ okay
+ and
+ and
+ and
+ uh
+
+
+when
+ we
+ asked
+ developers
+ what
+ would
+ you
+
+
+like
+ to
+ be
+ improved
+ in
+ your
+ AI
+ generated
+
+
+code
+ in
+ your
+ AI
+ code
+ review
+ tool
+ they
+
+
+said
+ the
+ number
+ one
+ was
+ context
+ it
+ was
+
+
+number
+ one
+ of
+ 33%
+ they
+ can
+ choose
+ among
+
+
+many
+ things
+ to
+ to
+ improve.
+ So
+ context
+ is
+
+
+extremely
+ important.
+ I
+ can
+ tell
+ you
+ that
+
+
+as
+ Kodto
+ one
+ of
+ our
+ technology
+ moes
+ uh
+
+
+is
+ is
+ around
+ context
+ and
+ when
+ you
+
+
+connect
+ our
+ context
+ engine
+ we're
+ seeing
+
+
+it
+ as
+ the
+ number
+ one
+ tool
+ that
+ is
+ being
+
+
+used
+ like
+ 60%
+ of
+ code
+ generator
+ or
+ code
+
+
+review
+ tools
+ 60%
+ of
+ their
+ calls
+ to
+ an
+
+
+MCP
+ would
+ be
+ to
+ a
+ context
+ MCP.
+ Okay.
+ And
+
+
+just
+ to
+ tell
+ you
+ the
+ context
+ doesn't
+
+
+necessarily
+ need
+ to
+ include
+ only
+ your
+
+
+code.
+ It
+ could
+ also
+ include
+ context
+ to
+
+
+your
+ standards,
+ your
+ best
+ practices.
+
+
+We're
+ seeing
+ in
+ our
+ AI
+ code
+ review
+ that
+
+
+8%
+ of
+ the
+ context
+ usage
+ is
+ actually
+ from
+
+
+files
+ that
+ are
+ related
+ to
+ standards
+ and
+
+
+and
+ best
+ practices
+ etc.
+ Okay,
+ I
+ have
+ to
+
+
+CEO
+ of
+ Kodo
+ like
+ marketing
+ will
+ be
+ mad
+
+
+on
+ me
+ if
+ I
+ don't
+ brag
+ a
+ little
+ bit.
+
+
+Right?
+ So
+ this
+ is
+ uh
+ kind
+ of
+ like
+ our
+
+
+market
+ of
+ our
+ context
+ engine
+ being
+
+
+presented
+ by
+ Jensen
+ and
+ GTC
+ keynote
+ and
+
+
+he
+ notice
+ he
+ didn't
+ talk
+ about
+ our
+ co
+
+
+code
+ review
+ capabilities
+ about
+ our
+
+
+testing
+ capabilities
+ he
+ talked
+ about
+ our
+
+
+context
+ engine
+ that
+ Nvidia
+ checked
+
+
+because
+ there's
+ a
+ realization
+ that
+ AI
+
+
+quality
+ AI
+ generated
+ whatever
+ review
+
+
+testing
+ will
+ come
+ from
+ bringing
+ the
+
+
+right
+ context
+ to
+ invest
+ in
+ that
+ you
+ need
+
+
+to
+ to
+ build
+ your
+ context
+ buy
+ a
+ solution
+
+
+and
+ invest
+ in
+ it
+ build
+ your
+ solution
+ uh
+
+
+etc.
+ And
+ the
+ context
+ needs
+ to
+ include
+
+
+code
+ uh
+ uh
+ versioning
+ PR
+ history
+ uh
+
+
+organization
+ logs
+ etc.
+ That's
+ where
+ all
+
+
+the
+ context
+ sits.
+ It's
+ not
+ just
+ in
+ the
+
+
+last
+ branch
+ of
+ your
+ codebase.
+ Okay.
+ So
+
+
+I'm
+ I'm
+ zooming
+ out
+ starting
+ to
+ talk
+
+
+about
+ like
+ recommendations
+ and
+ uh
+ and
+
+
+like
+ uh
+ takeaways.
+ So
+ what
+ what
+ what's
+
+
+next?
+ So
+ automated
+ uh
+ quality
+ gateways
+
+
+invest
+ in
+ that.
+ People
+ talked
+ throughout
+
+
+the
+ morning
+ about
+ parallel
+ agents.
+ You
+
+
+know
+ what
+ I'm
+ talking
+ about
+ like
+
+
+background
+ agents.
+ You
+ can
+ use
+ a
+ lot
+ of
+
+
+those
+ like
+ tools
+ and
+ capabilities
+ to
+
+
+build
+ build
+ your
+ quality
+ gates.
+ Uh
+ use
+
+
+intelligent
+ code
+ review
+ testing
+ and
+ you
+
+
+need
+ a
+ living
+ and
+ breathing
+ like
+
+
+documentation
+ and
+ and
+ what
+ documentation
+
+
+means
+ is
+ is
+ a
+ story
+ by
+ itself.
+ Uh
+ I'm
+
+
+not
+ going
+ to
+ double
+ click
+ on
+ it.
+ And
+ and
+
+
+this
+ is
+ how
+ I
+ present
+ for
+ three
+ years
+
+
+now
+ and
+ I
+ think
+ I'm
+ gonna
+ go
+ all
+ the
+ way
+
+
+until
+ age
+ of
+ 60
+ with
+ this
+ slide
+ of
+ how
+ I
+
+
+think
+ the
+ future
+ of
+ software
+ development
+
+
+looks
+ like.
+ Okay.
+ So
+ basically
+ you
+ have
+
+
+your
+ specification
+ and
+ you
+ have
+ your
+
+
+code
+ right
+ and
+ you
+ have
+ multiple
+ agents
+
+
+parallel
+ agents
+ that
+ are
+ helping
+ you
+ to
+
+
+improve
+ your
+ spec
+ write
+ your
+ spec
+
+
+improve
+ your
+ code
+ transfer
+ transfer
+ from
+
+
+your
+ spec
+ to
+ your
+ to
+ your
+ code
+ uh
+ uh
+
+
+make
+ tests
+ which
+ are
+ executable
+ specs
+
+
+right
+ uh
+ and
+ and
+ then
+ you're
+ going
+ to
+
+
+have
+ your
+ context
+ engine
+ the
+ software
+
+
+development
+ database
+ and
+ you
+ will
+ build
+
+
+your
+ tools
+ especially
+ MCPs
+ around
+
+
+quality
+ and
+ verification
+ and
+ you'll
+ Make
+
+
+sure
+ you
+ have
+ environments,
+ stable,
+
+
+secured
+ sandboxes
+ where
+ those
+ agents
+ can
+
+
+run
+ and
+ and
+ run
+ validation
+ and
+ quality
+
+
+uh
+ workflows.
+ So
+ don't
+ don't
+ forget
+ like
+
+
+the
+ path
+ forward
+ is
+ quality
+ is
+ your
+
+
+competitive
+ edge
+ over
+ your
+ uh
+
+
+competition.
+ AI
+ is
+ a
+ tool.
+ It's
+ not
+ it's
+
+
+not
+ a
+ solution.
+ Okay?
+ And
+ don't
+ like
+
+
+only
+ think
+ about
+ code
+ generation
+ as
+ the
+
+
+only
+ thing.
+ Look
+ on
+ the
+ entire
+ SDLC
+ or
+
+
+product
+ development
+ life
+ cycle.
+ I
+ saw
+
+
+one
+ of
+ the
+ uh
+ people
+ talked
+ um
+ speakers
+
+
+and
+ it
+ iterate
+ with
+ everything
+ we
+ talked
+
+
+about
+ today.
+ I
+ have
+ uh
+ I
+ want
+ to
+ tell
+
+
+you
+ that
+ you
+ will
+ gain
+ value
+ from
+ it.
+
+
+We're
+ seeing
+ in
+ the
+ reports
+ people
+
+
+seeing
+ like
+ security
+ availability
+ being
+
+
+reduced
+ faster
+ code
+ review
+ you
+ we
+ just
+
+
+got
+ a
+ hit
+ on
+ that
+ because
+ of
+ a
+ generated
+
+
+code
+ and
+ test
+ coverage
+ in
+ a
+ month
+ can
+
+
+can
+ triple
+ depends
+ on
+ on
+ the
+ project
+
+
+etc.
+ with
+ with
+ the
+ last
+ minute
+ I
+ want
+ to
+
+
+show
+ like
+ a
+ really
+ small
+ piece
+ of
+ what
+
+
+you
+ can
+ do
+ with
+ codo.
+ uh
+ you
+ can
+ go
+ into
+
+
+codto
+ and
+ define
+ your
+ own
+ rule
+ for
+
+
+example
+ almost
+ the
+ same
+ rule
+ you'll
+ put
+
+
+on
+ cursor
+ of
+ I
+ don't
+ like
+ nested
+ ifs
+ if
+
+
+this
+ is
+ a
+ problem
+ that
+ you
+ have
+ but
+ then
+
+
+kodto
+ will
+ look
+ on
+ your
+ context
+ build
+
+
+the
+ good
+ example
+ the
+ bad
+ example
+ and
+
+
+then
+ start
+ giving
+ like
+ building
+ a
+
+
+workflow
+ that
+ is
+ specifically
+ to
+ catch
+
+
+that
+ issue
+ and
+ give
+ you
+ statistics
+ over
+
+
+time
+ when
+ it's
+ being
+ accepted
+ and
+ when
+
+
+not
+ so
+ you
+ can
+ adjust
+ that
+ rule
+ and
+
+
+really
+ know
+ and
+ have
+ visibility
+ to
+ to
+
+
+your
+ standards.
+ Okay.
+ So
+ when
+ a
+ PR
+ is
+
+
+written
+ with
+ a
+ few
+ ifs
+ and
+ else
+ although
+
+
+it
+ was
+ written
+ with
+ cursor
+ copilot
+ that
+
+
+had
+ a
+ rule
+ do
+ not
+ do
+ nested
+ ifs
+ etc.
+
+
+then
+ eventually
+ when
+ you
+ open
+ a
+ PR
+ you
+
+
+will
+ get
+ uh
+ codo
+ uh
+ uh
+ catching
+ that
+ and
+
+
+giving
+ a
+ suggestion
+ according
+ to
+ the
+
+
+good
+ and
+ the
+ bad
+ example.
+ COD
+ will
+ also
+
+
+make
+ a
+ graph,
+ give
+ you
+ a
+ CLI
+ checks
+ like
+
+
+check
+ each
+ one
+ of
+ the
+ rules
+ and
+
+
+eventually
+ tell
+ you
+ the
+ nested
+ if
+ and
+
+
+then
+ we'll
+ record
+ and
+ learn
+ what
+ you
+ did
+
+
+or
+ did
+ not
+ do
+ with
+ that
+ suggestion
+ in
+
+
+order
+ to
+ adapt
+ the
+ standard
+ and
+ of
+ the
+
+
+of
+ the
+ quality.
+ Um
+ there
+ will
+ also
+
+
+automated
+ like
+ suggestion.
+ You
+ don't
+
+
+need
+ to
+ write
+ your
+ own.
+ It
+ learns
+ your
+
+
+your
+ your
+ standards
+ and
+ quality
+ and
+
+
+offer
+ that
+ to
+ you.
+ And
+ that's
+ it.
+ I'm
+
+
+I'm
+ really
+ really
+ excited
+ about
+ like
+
+
+breaking
+ the
+ glass
+ ceiling,
+ okay,
+ with
+
+
+what
+ we
+ did
+ with
+ code
+ generation
+ and
+
+
+then
+ a
+ jet
+ to
+ code
+ generation.
+ Now
+ we're
+
+
+turning
+ into
+ the
+ era
+ of
+ putting
+ AI
+ into
+
+
+work
+ and
+ through
+ the
+ entire
+ SDLC.
+ The
+
+
+most
+ important
+ part
+ is
+ related
+ to
+
+
+quality.
+ You
+ would
+ need
+ to
+ invest
+ in
+
+
+that.
+ It's
+ not
+ out
+ of
+ the
+ box.
+ Okay.
+ And
+
+
+then
+ you
+ would
+ see
+ eventually
+ the
+
+
+promised
+ 2x
+ that
+ that
+ probably
+ promised
+
+
+to
+ the
+ CEO
+ or
+ something
+ like
+ that
+ once
+
+
+they
+ give
+ you
+ the
+ budget
+ for
+ for
+ the
+
+
+relevant
+ tools.
+ Thank
+ you
+ so
+ much.
+
+
+[music]
