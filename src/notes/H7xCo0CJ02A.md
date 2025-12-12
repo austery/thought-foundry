@@ -15,8 +15,7 @@ products_models: []
 media_books: []
 date: '2025-06-13'
 author: Lei
-speaker: Richard
-channel: The Plain Bagel
+speaker: The Plain Bagel
 guest: null
 insight: null
 layout: post.njk
