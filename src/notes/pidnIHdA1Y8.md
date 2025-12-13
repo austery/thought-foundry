@@ -18,7 +18,7 @@ products_models: []
 media_books: []
 date: 2025-10-03
 author: Lei
-speaker: Charles
+speaker: Letta
 draft: true
 guest: null
 insight: null
