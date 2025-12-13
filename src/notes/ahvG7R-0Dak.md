@@ -4,7 +4,6 @@ date: "2025-12-10"
 guest: ""
 layout: "post.njk"
 source: ""
-speaker: "Lei"
 title: "Building a Text-to-Chart AI Agent: Architecture and Implementation"
 summary: "This guide details the architecture of a Python-based AI agent that converts natural language into data visualizations. It explores the single-shot code generation approach using LLMs, Streamlit, and Plotly, while analyzing the system's transparency, efficiency, and limitations."
 speaker: Empowered By AI
