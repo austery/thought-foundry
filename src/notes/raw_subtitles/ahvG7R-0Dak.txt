@@ -1,0 +1,687 @@
+1
+00:00:09,040 --> 00:00:13,519
+Hello everyone, welcome to my channel.
+
+2
+00:00:11,360 --> 00:00:17,760
+In this video, I'll explain how this
+
+3
+00:00:13,519 --> 00:00:20,560
+agent works. In short, the user types in
+
+4
+00:00:17,760 --> 00:00:23,439
+a questions. It goes into this code
+
+5
+00:00:20,560 --> 00:00:26,880
+generation agent and inside we load the
+
+6
+00:00:23,439 --> 00:00:30,160
+data frame build prompt with schema call
+
+7
+00:00:26,880 --> 00:00:33,120
+the llm generate Python code and execute
+
+8
+00:00:30,160 --> 00:00:37,960
+it. From the user point of view it just
+
+9
+00:00:33,120 --> 00:00:37,960
+text to chart in one click.
+
+10
+00:00:38,640 --> 00:00:43,200
+So by the end of this video you will
+
+11
+00:00:40,800 --> 00:00:44,800
+have a working text chart app that you
+
+12
+00:00:43,200 --> 00:00:47,920
+can download and run on your own
+
+13
+00:00:44,800 --> 00:00:50,000
+machine. Understand you a simple AI
+
+14
+00:00:47,920 --> 00:00:52,480
+agent for turning natural language into
+
+15
+00:00:50,000 --> 00:00:55,280
+charts. Understand the architecture and
+
+16
+00:00:52,480 --> 00:00:58,399
+design. So you can swap in your own data
+
+17
+00:00:55,280 --> 00:01:00,160
+set with just a few small changes. You
+
+18
+00:00:58,399 --> 00:01:03,760
+will also understand the pros and cons
+
+19
+00:01:00,160 --> 00:01:06,960
+of the AI agent and you will develop a
+
+20
+00:01:03,760 --> 00:01:08,960
+AI native mindset.
+
+21
+00:01:06,960 --> 00:01:10,560
+If you are not a developer, you will
+
+22
+00:01:08,960 --> 00:01:12,720
+walk away with a tool where you can
+
+23
+00:01:10,560 --> 00:01:15,439
+query data in plain English and get
+
+24
+00:01:12,720 --> 00:01:18,880
+charts back without waiting for someone
+
+25
+00:01:15,439 --> 00:01:23,439
+to build a new dashboard for you.
+
+26
+00:01:18,880 --> 00:01:26,159
+So if you are ready, let's dive in.
+
+27
+00:01:23,439 --> 00:01:29,600
+As a data scientist, I used to build
+
+28
+00:01:26,159 --> 00:01:32,479
+dashboard and analytics to provide
+
+29
+00:01:29,600 --> 00:01:34,799
+insights for my users. But very often
+
+30
+00:01:32,479 --> 00:01:37,600
+they also want to ask their own
+
+31
+00:01:34,799 --> 00:01:40,320
+questions. Since that I didn't hardcode
+
+32
+00:01:37,600 --> 00:01:43,680
+into the dashboard.
+
+33
+00:01:40,320 --> 00:01:45,920
+So I built this AI agent
+
+34
+00:01:43,680 --> 00:01:48,000
+um to let them use natural language to
+
+35
+00:01:45,920 --> 00:01:51,280
+generate their own charts on top of the
+
+36
+00:01:48,000 --> 00:01:56,240
+same data. So on this dashboard you see
+
+37
+00:01:51,280 --> 00:02:01,280
+is a um analytic dashboard for YouTube
+
+38
+00:01:56,240 --> 00:02:05,759
+videos using this US videos data set.
+
+39
+00:02:01,280 --> 00:02:09,119
+Um in the AI agent you can
+
+40
+00:02:05,759 --> 00:02:15,720
+you can ask questions like shows the
+
+41
+00:02:09,119 --> 00:02:15,720
+train of views over time and click ask.
+
+42
+00:02:18,480 --> 00:02:26,560
+It's generates a chart um for the
+
+43
+00:02:23,200 --> 00:02:28,640
+total views over a time period based on
+
+44
+00:02:26,560 --> 00:02:34,360
+the data set.
+
+45
+00:02:28,640 --> 00:02:34,360
+Um, let's try a different questions.
+
+46
+00:02:38,319 --> 00:02:43,000
+Top 10 channels by total likes.
+
+47
+00:02:50,720 --> 00:02:59,440
+So the agent generate the Python code to
+
+48
+00:02:55,920 --> 00:03:01,840
+plot the chart and render the chart in
+
+49
+00:02:59,440 --> 00:03:04,080
+the dashboard immediately.
+
+50
+00:03:01,840 --> 00:03:07,440
+So in this video I'm going to walk you
+
+51
+00:03:04,080 --> 00:03:10,480
+through how this text to chart agent
+
+52
+00:03:07,440 --> 00:03:13,120
+works at high level using Python streaml
+
+53
+00:03:10,480 --> 00:03:14,959
+and I um
+
+54
+00:03:13,120 --> 00:03:17,680
+we'll keep it simple and focus on the
+
+55
+00:03:14,959 --> 00:03:20,800
+idea not the code line by line and if
+
+56
+00:03:17,680 --> 00:03:22,959
+you like to try this code yourself
+
+57
+00:03:20,800 --> 00:03:25,200
+please subscribe like this video and
+
+58
+00:03:22,959 --> 00:03:27,440
+check the link in the description. I'll
+
+59
+00:03:25,200 --> 00:03:29,440
+share a starter project so that you can
+
+60
+00:03:27,440 --> 00:03:31,840
+download the code and run it locally on
+
+61
+00:03:29,440 --> 00:03:34,560
+your own machine.
+
+62
+00:03:31,840 --> 00:03:36,959
+So this is a very simple agent. It's
+
+63
+00:03:34,560 --> 00:03:40,799
+basically a single prompt single call
+
+64
+00:03:36,959 --> 00:03:43,760
+code agent. So at higher level uh it
+
+65
+00:03:40,799 --> 00:03:46,959
+received the user query from streamllet
+
+66
+00:03:43,760 --> 00:03:49,280
+UI and it combines query with some data
+
+67
+00:03:46,959 --> 00:03:53,200
+context and send everything to large
+
+68
+00:03:49,280 --> 00:03:57,360
+language model. The model generates the
+
+69
+00:03:53,200 --> 00:04:00,640
+Python code and we execute that code to
+
+70
+00:03:57,360 --> 00:04:03,280
+render chart in streaml.
+
+71
+00:04:00,640 --> 00:04:06,560
+So the most important piece here is a
+
+72
+00:04:03,280 --> 00:04:10,319
+prompt we sent to the model. Um it's a
+
+73
+00:04:06,560 --> 00:04:12,400
+single but very detailed prompt. Um it
+
+74
+00:04:10,319 --> 00:04:14,640
+gives the model context about the data
+
+75
+00:04:12,400 --> 00:04:17,440
+set.
+
+76
+00:04:14,640 --> 00:04:20,479
+um what this table represent. Then it
+
+77
+00:04:17,440 --> 00:04:23,440
+passes in any filters or user options
+
+78
+00:04:20,479 --> 00:04:26,080
+from the UI and it gives the model the
+
+79
+00:04:23,440 --> 00:04:29,280
+data frame schema or the column names
+
+80
+00:04:26,080 --> 00:04:32,160
+and sometimes example values.
+
+81
+00:04:29,280 --> 00:04:35,040
+We also define a very clear output
+
+82
+00:04:32,160 --> 00:04:38,000
+format. We'll tell the model something
+
+83
+00:04:35,040 --> 00:04:41,120
+like you already have a pandas data
+
+84
+00:04:38,000 --> 00:04:44,000
+frame in memory. Use plotly to plot the
+
+85
+00:04:41,120 --> 00:04:46,000
+chart only outputs Python code. no
+
+86
+00:04:44,000 --> 00:04:49,440
+explanations.
+
+87
+00:04:46,000 --> 00:04:52,400
+Usually we wrap the
+
+88
+00:04:49,440 --> 00:04:54,880
+generated code in a code block because
+
+89
+00:04:52,400 --> 00:04:59,880
+later we are going to extract the text
+
+90
+00:04:54,880 --> 00:04:59,880
+between those markers and execute it.
+
+91
+00:05:00,000 --> 00:05:05,520
+We also give the model a list of rules.
+
+92
+00:05:02,800 --> 00:05:08,320
+For example, don't read files from disk.
+
+93
+00:05:05,520 --> 00:05:11,360
+Don't import random
+
+94
+00:05:08,320 --> 00:05:14,160
+libraries. use exist existing data frame
+
+95
+00:05:11,360 --> 00:05:16,320
+that's already loading memory. So the
+
+96
+00:05:14,160 --> 00:05:18,800
+agent basically knows I have a data
+
+97
+00:05:16,320 --> 00:05:22,320
+frame in memory. I should only use that
+
+98
+00:05:18,800 --> 00:05:25,320
+plus data pandas and plotly to create a
+
+99
+00:05:22,320 --> 00:05:25,320
+chart.
+
+100
+00:05:25,759 --> 00:05:35,120
+So on the streamllet UI side
+
+101
+00:05:30,960 --> 00:05:38,560
+um the flow like this. The user types in
+
+102
+00:05:35,120 --> 00:05:41,680
+a question and the app shows the
+
+103
+00:05:38,560 --> 00:05:45,039
+detected column names and uh they know
+
+104
+00:05:41,680 --> 00:05:47,840
+what they can refer to. And then when
+
+105
+00:05:45,039 --> 00:05:49,759
+they click the button, we will send the
+
+106
+00:05:47,840 --> 00:05:51,360
+question and the metadata to the code
+
+107
+00:05:49,759 --> 00:05:54,800
+agent.
+
+108
+00:05:51,360 --> 00:05:58,800
+And the code agent
+
+109
+00:05:54,800 --> 00:06:02,639
+generates the Python code
+
+110
+00:05:58,800 --> 00:06:06,400
+and uh the Python runtime execute Python
+
+111
+00:06:02,639 --> 00:06:10,639
+code in a sandbox using the data frame
+
+112
+00:06:06,400 --> 00:06:14,240
+in memory, pandas and plotly tools. And
+
+113
+00:06:10,639 --> 00:06:18,479
+then it creates a chart and output
+
+114
+00:06:14,240 --> 00:06:21,680
+return it to stream UI and then we see
+
+115
+00:06:18,479 --> 00:06:24,000
+the chart and table on the UI.
+
+116
+00:06:21,680 --> 00:06:27,360
+Now I want to talk a little bit about
+
+117
+00:06:24,000 --> 00:06:31,120
+the pros and cons of this simple code
+
+118
+00:06:27,360 --> 00:06:34,479
+agent approach. First, it's not a multi-
+
+119
+00:06:31,120 --> 00:06:37,759
+aent system. It's not autonomous agent
+
+120
+00:06:34,479 --> 00:06:40,240
+that plans multiple steps or maintains
+
+121
+00:06:37,759 --> 00:06:42,639
+long-term memory. It's just a small
+
+122
+00:06:40,240 --> 00:06:45,520
+focused agent that takes a query and
+
+123
+00:06:42,639 --> 00:06:47,680
+outputs the code, but it definitely have
+
+124
+00:06:45,520 --> 00:06:50,720
+a few nice properties. First is
+
+125
+00:06:47,680 --> 00:06:53,199
+flexibility. The agent is free to decide
+
+126
+00:06:50,720 --> 00:06:55,680
+how to answer the question, which column
+
+127
+00:06:53,199 --> 00:06:58,080
+to use, which chart types make sense,
+
+128
+00:06:55,680 --> 00:06:59,840
+and what transformation to apply to the
+
+129
+00:06:58,080 --> 00:07:02,479
+data.
+
+130
+00:06:59,840 --> 00:07:04,639
+And the second is transparency. The user
+
+131
+00:07:02,479 --> 00:07:07,360
+can always see the generated Python
+
+132
+00:07:04,639 --> 00:07:10,319
+code. they can check whether the logic
+
+133
+00:07:07,360 --> 00:07:13,120
+actually match their intention.
+
+134
+00:07:10,319 --> 00:07:16,319
+And third is that the contacts aware
+
+135
+00:07:13,120 --> 00:07:19,360
+because we passing metadata as schema of
+
+136
+00:07:16,319 --> 00:07:22,319
+the data frame um including the column
+
+137
+00:07:19,360 --> 00:07:25,360
+names and sometimes the data ranges. The
+
+138
+00:07:22,319 --> 00:07:28,400
+agent understands the real data set and
+
+139
+00:07:25,360 --> 00:07:30,960
+it's less likely to hallucinate random
+
+140
+00:07:28,400 --> 00:07:34,240
+column names.
+
+141
+00:07:30,960 --> 00:07:36,880
+Lastly, its efficiency. Um it's a
+
+142
+00:07:34,240 --> 00:07:39,840
+singleshot agent. Um each question is
+
+143
+00:07:36,880 --> 00:07:42,800
+answered in one model call which is fast
+
+144
+00:07:39,840 --> 00:07:46,080
+and relative cheap for simple charting
+
+145
+00:07:42,800 --> 00:07:49,280
+tasks. And of course there are also some
+
+146
+00:07:46,080 --> 00:07:52,160
+limitations because it's a single shot.
+
+147
+00:07:49,280 --> 00:07:54,240
+It cannot selfcorrect.
+
+148
+00:07:52,160 --> 00:07:56,240
+So if the first code generation is
+
+149
+00:07:54,240 --> 00:08:00,400
+wrong, it doesn't automatically try
+
+150
+00:07:56,240 --> 00:08:04,800
+again or inspect the error.
+
+151
+00:08:00,400 --> 00:08:07,360
+um we don't store any um long-term state
+
+152
+00:08:04,800 --> 00:08:09,919
+or long-term memory across the cause.
+
+153
+00:08:07,360 --> 00:08:12,879
+The agent won't remember the previous
+
+154
+00:08:09,919 --> 00:08:15,840
+code generations or previous questions.
+
+155
+00:08:12,879 --> 00:08:18,960
+Um every request is stateless and
+
+156
+00:08:15,840 --> 00:08:21,599
+handled from scratch.
+
+157
+00:08:18,960 --> 00:08:24,240
+Um so even with this limitations, this
+
+158
+00:08:21,599 --> 00:08:26,319
+is a very nice starter agent that you
+
+159
+00:08:24,240 --> 00:08:28,879
+can actually implement in a very short
+
+160
+00:08:26,319 --> 00:08:31,840
+time and start using.
+
+161
+00:08:28,879 --> 00:08:33,519
+So if you like to play with this idea,
+
+162
+00:08:31,840 --> 00:08:36,640
+you can download the code from the link
+
+163
+00:08:33,519 --> 00:08:40,320
+below, run it locally and then customize
+
+164
+00:08:36,640 --> 00:08:44,159
+the prompt, tweak the rules or replace
+
+165
+00:08:40,320 --> 00:08:47,040
+with your own data set.
+
+166
+00:08:44,159 --> 00:08:50,160
+If you enjoy this kind of practical AI
+
+167
+00:08:47,040 --> 00:08:53,360
+project where we build small tools that
+
+168
+00:08:50,160 --> 00:08:55,519
+actually work in work or life, uh please
+
+169
+00:08:53,360 --> 00:08:58,160
+like this video and subscribe to our
+
+170
+00:08:55,519 --> 00:09:00,959
+channel and come to join my community
+
+171
+00:08:58,160 --> 00:09:04,440
+where we learn and build AI together.
+
+172
+00:09:00,959 --> 00:09:04,440
+Thanks for watching.
