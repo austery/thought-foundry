@@ -1,0 +1,118 @@
+---
+author: EO
+date: '2025-12-13'
+guest: ''
+layout: post.njk
+source: https://www.youtube.com/watch?v=pztijFSlfZs
+speaker: EO
+tags:
+  - startup-failure
+  - entrepreneurial-mindset
+  - creativity-preservation
+  - learning-from-failure
+  - resilience
+title: 从创业失败中拯救我的心态：Matt Hagger 的 TaleTree 之旅
+summary: 连续创业者 Matt Hagger 分享了他20年的创业历程，包括在英国和硅谷的经历，以及他曾创立的 Scatter 应用的失败。他强调了创业失败是宝贵的财富，能赋予创业者韧性和经验。Hagger 还探讨了童年经历、勇气、信念对创业心态的重要性，以及学校教育如何可能扼杀创造力。他介绍了他的新项目 TailTree，旨在通过社区和平台赋能儿童，让他们在后 AI 时代保持想象力和创造力，并呼吁人们拥抱“竞技场中的人”心态，从失败中学习，持续前进。
+insight: ''
+draft: true
+series: ''
+category: business
+area: society-systems
+project:
+  - entrepreneurship
+  - personal-growth-lab
+people:
+  - Matt Hagger
+companies_orgs:
+  - Scatter
+  - Eman Venture Labs
+  - Sky Sports News
+  - Google
+products_models:
+  - TailTree
+  - iPhone
+  - Android
+  - G1 Android device
+media_books: []
+status: evergreen
+---
+### 创业之路：从硅谷到失败的洗礼
+
+在过去的20年里，我曾是英国和后来的洛杉矶硅谷的**连续创业者**（Serial entrepreneur：指连续创办多家公司的创业者）。我的第二家公司是 Scatter，一款照片分享产品。我曾希望它能成为全球每一位成员都能访问和使用的产品。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Over the last 20 years, I've been a serial entrepreneur in the UK and then Silicon Valley in Los Angeles. The second company was Scatter, which was the photo sharing product. I wanted it to become something that every member of the world would access and use.</p>
+</details>
+
+### 创业失败的残酷现实与宝贵财富
+
+当你全身心投入某件事时，你会倾注你的心血和灵魂。不幸的是，95%的**创业公司**（Startup：指新成立的、通常规模较小且具有创新性的、旨在快速增长的企业）最终都会失败。Scatter 并未成为我们今天看到的 Instagram、TikTok 或 X，因为它现在已不复存在。当你攀得越高，跌落时也就越沉重。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">When you're working on something that means everything to you at the time, you're putting your heart in it, your soul. Unfortunately, 95% of all startups end in failure. Scatter did not become the Instagram, Tik Tok or X that we see today because it's not existing right now. When you climb that high, the fall is equally as heavy.</p>
+</details>
+
+### 失败是未来的武器与铠甲
+
+但我认为，经历失败或感受失败能为你提供未来的强大‘武器’，为你披上‘铠甲’。对于创业者来说，大多数时候就像从飞机上跳下，却不知道如何打开降落伞，直到临近地面时才摸索出方法。我想这是我成长过程中学到的东西，它给了我一些勇气。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">But I think going through failure or feeling failure gives you great weaponry for the future, gives you an armor. I think for entrepreneurs, most of the time you're falling out of the plane without knowing how to open the parachute. And as you get closer to the floor, you finally work it out. And I think that is something that I learned growing up, which gave me a little bit of courage.</p>
+</details>
+
+### 勇气、信念与成长：童年经历的启示
+
+勇气源于大胆尝试，全身心投入，因为我们不知道解决方案，不知道答案。我父亲把我‘推’了出去，他知道他会在我身后，以防我犯错，但他让我感觉像是独自在做这件事。这非常有力量。你只需要一个人对你说：“我相信你。你能做到。你足够好。” 这些赋能的举动至关重要。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Courage comes from taking a leap, throwing yourself in because we don't know the solution. We don't know the answer. I think my father threw me in knowing that he was there, I guess, if I went wrong, but made me feel like I was on my own doing it. And that was powerful. You just need that one person to say, "I believe in you. You can do it. You're good enough." These acts of empowerment are so important.</p>
+</details>
+
+### 守护童心：在AI时代重拾想象力与创造力
+
+我们需要做的是，尝试思考如何能像幼儿园的孩子一样生活。他们从不放弃，跌倒了会再次站起来。真正的创业者总会卷土重来。大家好，我叫 Matt Hager，是 Tail Tree 的创始人兼 CEO。Tailtree 致力于在后 AI 时代赋能儿童，让他们能够守护想象力和创造力这份宝贵的礼物。因此，当你来到 Tailtree 并‘领养’你的伙伴时，你就会开始头脑风暴、想象并构思出各种想法。这是一个让孩子们自由探索内心所想、所关心之事以及他们兴趣的空间。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">What we need to do is we need to try and think how can we be like a kindergarten kid for life. They don't give up. They stand up again. True entrepreneurs will always come back. Hi everyone, my name is Matt Hager. I'm the founder and CEO of Tail Tree. Tailtree empowers children in a post AI era to hold on to the precious gift of imagination and creativity. So when you arrive at Tailree and you adopt your companion, you will start brainstorming and imagining and coming up with ideas. So it's a free space for children to explore what's on their heart, what they care about, their interests.</p>
+</details>
+
+### 源于痛点：解决问题的创业初心
+
+在此之前，在过去的20年里，我曾是英国和后来的洛杉矶硅谷的**连续创业者**（Serial entrepreneur：指连续创办多家公司的创业者），并在 **Eman Venture Labs**（一个帮助创始人将想法转化为产品和成功公司的机构）工作。当所有人都认为你的想法很疯狂时，你应该非常、非常认真地对待它。这比让所有人都同意你的想法更重要，因为如果所有人都同意，可能就太晚了，别人已经做过了。我曾在英国剑桥的一所学校接受小学和中学教育。在学校里，我曾享受写作故事、戏剧、艺术等可以发挥创造力的活动。但对我来说，上学最困难的事情之一是，当我沉浸在创作中时，铃声会响起。我记得有一次，我因为需要完成我的故事而不想离开教室，当时我正处于创作的‘心流’（flow）之中，老师对我说：“Matt，你现在必须去上数学课了。” 我回答说：“但我不能离开教室，因为我正在创作。” 我找到了答案。我意识到，我无法获得在幼儿园时拥有的那种创作自由。我的童年充满挑战，但当我找到互联网时，我对这个想法感到无比兴奋。我创办公司的方式源于我试图解决的一个内在问题，一个我所经历的‘痛点’（pain）。每次我们连接到互联网时，拨号上网的声音会嘶嘶作响，然后网页才会加载。我经常访问我最喜欢的网站，也就是我支持的足球队。我发现那个网站没有任何变化。我需要解决这个问题，因为每次我拨号上网，我都在让我的母亲花费很多钱。电话账单是一笔巨款。所以，她会拿着电话账单对我说：“听着，你得为这个买单，因为你上网太多了。” 我的回应是：“好吧，我要做一个能阻止这种情况发生在我自己和所有人身上的东西。” 于是，我构建了这个**桌面新闻提醒协议**（desktop news alerts protocol）。一旦你连接到互联网，它就会直接访问你最喜欢的网站，检查是否有突发新闻。如果有，它就会将这条突发新闻推送到你的桌面上。这个简单的想法却意义重大。我获得了剑桥大学科技园的**可行性研究补助金**（feasibility study grant），并踏上了一段漫长的旅程。这项发明受到了广泛的青睐，并最终被推广为 **Sky Sports News** 的提醒平台，为英超足球队和 Sky（英国一家广播媒体公司）提供突发新闻。那是我生命中一段非常激动人心的时期。唯一的问题是，我当时并不理解什么是**风险投资**（venture capital），也不理解什么是创业。我只是知道我正在为自己解决一个问题。这两段经历让我意识到，如果我想在生活中取得进步，那将是通过我自己的好奇心和想法，而不是遵循现状。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">Prior to that, over the last 20 years, I've been a serial entrepreneur in the UK and then Silicon Valley in Los Angeles in Eman Venture Labs, helping founders turn their ideas into products and into successful companies. When everybody thinks your idea is crazy, you should take it very, very serious. That's more important than having everybody agree with your idea because everybody agrees with your idea, it's probably too late and somebody's already done it. So I went to a school in England in Cambridge here, primary and secondary educations. There were certain times at school that I enjoyed writing stories, drama, art, stuff like that where I could be creative. But one of the hardest things for me about going to school was the bell ringing when I was working on something. I remember once I wouldn't leave the classroom cuz I needed to get my story finished and I was in the flow of creativity and my teacher was like, "Matt, you you've got to go to mathematics now, but I can't leave the classroom because I'm working on something." I found the answer. You know, I realized that I wasn't going to have the creative freedom that I had when I was uh in kindergarten. My childhood was challenging but as soon as I found the internet I became incredibly excited about the idea. The way I start companies it comes from an inherent problem that I am trying to solve. A pain that I have. Every time we used to connect to the internet dialup internet it would crackle and it would load up the web pages and I would often visit my favorite website which was obviously my football team. I would see that nothing had changed on that website. I need to solve this problem because I'm costing my mother a lot of money every time I dial up. I'm costing a a fortune in the telephone bill. So, she would present me with this telephone bill and say, "Listen, you're going to have to pay for this because you're using the internet far too much." My response was, "Right, I'm going to build something that prevents this from happening for me and everybody else." So, this desktop news alerts protocol was built as soon as you connect to the internet. It would go straight to your favorite website, check to see if there was any breaking news. if there was it would deliver that breaking news to your desktop. And that simple idea was a big one. I got a feasibility study grant from Cambridge University Science Park and ended up going on this huge journey and it was an invention that everybody wanted to uh implement and it ended up being rolled out as Sky Sports News alerts platform with Premier League football teams and breaking news at Sky and that's a broadcast media corporation in the UK. It was a very exciting period of my life. The only thing is I didn't understand what venture capital was. I didn't understand what entrepreneurship was. I just knew I was solving a problem for myself. So these two episodes made me realize that if I was going to progress in life, it was going to be through my own curiosity and my own ideas as opposed to following the status quo.</p>
+</details>
+
+### 创业者的心态：热爱问题，而非逃避失败
+
+我必须坦诚地说，这条路并不适合所有人。如果你没有深沉而有意义的热情去‘抓挠’你想要‘止痒’的地方，你就应该放弃，因为当你陷入挣扎时，那将是极其艰难的。你可能会迷失方向。所以，我的童年经历与 Tailtree 以及我为何要创建 Tailtree 有着直接的联系。我感觉有时我是在为内心那个孩子建造 Tailtree。尽管学校的课程不适合我，但我父亲注意到了这一点，并帮助我通过挑战来学习。勇气源于大胆尝试，全身心投入，因为我们不知道解决方案，不知道答案。我父亲把我‘推’了出去，他知道他会在我身后，以防我犯错，但他让我感觉像是独自在做这件事。这非常有力量。我们过去常常一起去看足球比赛，并去全国各地支持我们的球队。他会让我打开地图，找出城市在哪里，然后由我来指引方向，我也会借此了解我们正在访问的城市及其历史。然后他会问我关于球队和统计数据，以及比赛中发生过的各种事情。我感觉我是在通过我热爱的事物来学习，这对我是非常有力量的。我现在用 Tailtree 所做的事情，本质上就是它的延伸。小时候，我意识到我想帮助赋能人类，让他们能够带着真诚和目标去进行创造性思考。我希望全人类都能调用他们的真诚和精神天赋，并以此服务他人。这种宏大的思考、好奇心、孩子的想象力和创造力以及惊奇感，我们都拥有。只是随着我们长大，走过体制，我们失去了那份火花。不是火花不存在了，只是我们没有去‘训练’它。即使是乔治·兰德（George Land）在 NASA 试点推行的 **Head Start 项目**（一项针对儿童创造力的早期教育计划），他在 5 岁儿童身上测试创造力，然后在 10 岁、15 岁和 30 岁时重复测试。在 5 岁的孩子中，平均拥有‘天才级’创造力的比例高达 98%。但当这些孩子长到 30 岁时，这个比例下降到了 2%。在 5 岁到 30 岁之间，学习之光、好奇心之光、想象力之光都在逐渐黯淡，甚至熄灭。它熄灭是因为我们不被鼓励去追求自己的这一面。我们被鼓励去记忆，根据我们的知识、在考试中表现的能力来评分，并成为某个领域的专家，以便在社会中履行职责。如果我举起这支笔问：“你能想到这支笔有多少种用途？” 平均而言，孩子们能想出 15 到 20 种用途，而成年人只能想出 1 到 3 种。但对孩子来说，这支笔可以是任何东西。它可以是一把剑，可以是光剑，可以是火箭，可以是回形针。孩子们只需要一个人对他们说：“我相信你。你能做到。你足够好。” 这些赋能的举动至关重要。这基本上就是为什么 Tailtree 为孩子们提供了一个由善良且富有创造力的孩子组成的全球社区。我们的使命是让世界各地的孩子们能够互相分享他们的艺术作品。世界各地的孩子们可以交流、赞美和分享。我们让孩子们感到解放。拥有一个支持性的社区对创业者、对有创造力的人来说都非常非常重要，因为没有社区，我认为我们会举步维艰。所以，当你决定成为一名创业者时，你必须深深地热爱你正在解决的问题，这一点至关重要。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I have to be honest about it. It is not for everybody. If you don't have a deep and meaningful passion that scratch that you want to itch, you should not do it because when you get into that struggle, it is going to be extremely hard. You can lose sight of where you're going. So my childhood does have a direct correlation to tail tree and why I'm building talry. I feel like sometimes I'm building tree for the child inside me. Even though the school curriculum didn't suit me, my dad acknowledged that and used to help me learn through challenges. Courage comes from taking a leap, throwing yourself in because we don't know the solution. We don't know the answer. I think my father threw me in knowing that he was there, I guess, if I went wrong, but made me feel like I was on my own doing it. And that was powerful. We used to go and watch soccer together and travel all over the country supporting our team. He would enable me to open up the map, find out where the city was, and I would be directing my father, and then I would learn about the city that we were visiting and the history behind it. Then he would ask me about the team and statistics, all the different things that had happened during the game. And I felt like I was learning through something that I love, and that was really, really powerful for me. What I'm doing now with Tower Tree is essentially an extension of that. As a child, I realized that I wanted to help empower humanity to think creatively with authenticity with purpose. I wanted all of humanity to be able to call upon their authenticity and spiritual gifts and serve others with that. This big thinking, this curiosity, the imagination and creativity and wonder of a child, we all possess that. It's just as we've grown up and we've gone through the system, we have lost that spark. It's not that the spark is not there. It's just we're not training that spark. Even through the Head Start program that was piloted by George Land at NASA where he tested creativity on 5-year-olds and then repeated that test at 10, 15, and 30. The average genius level creativity in children, 98% of all kids that were tested were deemed as geniuses. But by the time these children reach the age of 30, it goes down to 2%. Between the age of 5 and 30, the light of learning, the light of curiosity, the light of imagination, it dims down. It goes off. And it goes off because we're not encouraged to pursue that side of ourselves. We're encouraged to memorize, be graded upon our knowledge, our ability to perform well in examinations, and to become experts in a field that we're supposed to upskill ourselves to be able to perform those duties in societies. If I held up this pen and said, "How many uses of this pen can you think of?" And on average, kids came up with 15 to 20 uses of this pen, whereas adults came up with between 1 and three uses of this pen. But for a kid, this could be anything. This could be a sword. It could be a lightsaber. It could be a rocket. It could be a paper clip. Even kids just need that one person to say, "I believe in you. You can do it. You're good enough." These acts of empowerment are so important. And that is essentially why Teltree provides children with this global community of kind and creative kids. Our mission is that kids all over the world can share their works of art with one another. Kids all over the world can communicate, compliment and share. We allow children to feel liberated. Having supportive community around you is very very important for entrepreneurs, for creative people cuz without community I think we would struggle. So when you make the decision to become an entrepreneur, it's so important that you are deeply in love with the problem that you're solving.</p>
+</details>
+
+### Scatter 的故事：过早进入市场的教训
+
+Eman Venture Labs 中萌生的想法，总是会投资那些经历过三四次失败的创业者，因为他们从失败中获得了宝贵的经验。每一次迭代都让他们离成功更近一步。当然，有些公司第一次就成功，这有很大的运气成分，但 95% 的创业公司最终都会失败。大约在 2005 年至 2006 年，正是**智能手机时代**（smartphone era）的开端。当时有 Windows Mobile 智能手机，并且有传言说 iPhone 和 Android 即将问世。我当时在玩弄一台 Windows Mobile 手机，我意识到相机所赋予人类的非凡能力——能够实时分享我们所见——让我下定决心要解决这个问题，并着手创建 Scatter，这是最早的照片分享智能手机应用之一。我对所构建产品的潜力感到无比兴奋。当然，任何创业公司都需要融资和支持，因为智能手机时代才刚刚开始。我发现很难向人们解释我正在做什么。人们会想：“这永远不会成功。人们会拍照，冲洗照片，与家人分享。没有人想看别人的媒体内容。” 有一件非常有趣的事情是，Scatter 确实感觉像是一种‘**逆向思维的真相**’（contrarian truth）。你知道，当你拥有一个好想法，而所有人都认为它很疯狂时，你就坐在了一个好想法上。因此，我面临的这些问题都非常消极，我真的看不到如何在英国发展我的业务。运气和时机至关重要。拥有一个国家或市场想要采纳的产品，拥有能够让你分发它的技术。所以我决定在美国，尤其是在旧金山和硅谷，大胆尝试。我看到了围绕新想法的巨大积极性。那里的人们、支持、鼓励我的方式、他们支持我的想法。整个生态系统简直不可思议。如果我没有去那里，我想我无法取得 Scatter 所取得的成就。Scatter 发生的一件大事是，Android 刚刚发布，团队只有六个人。我遇到了**谷歌**（Google）创始人谢尔盖·布林（Sergey Brin）手下负责此项目的一位 Android 团队成员。他们邀请我加入他们的创新者行列，我最终获得了第一台 G1 Android 设备。Android 1 发布时，Android 生态系统甚至还没有正式推出，它只是一个测试版。我们获得了开发者工具包的访问权限，可以开始构建。能够连接我的原生应用并访问相机，这是一次难以置信的体验。我们在 Android 市场发布了 Scatter。应用商店里大约有 150 款应用。我们筹集了超过百万美元来发展公司，但我们太早了。Scatter 并未成为我们今天看到的 Instagram、TikTok 或 X，因为它现在已不复存在。我们无法获得分发渠道，因为应用商店是新的，而我们正在发布并帮助这些生态系统发展。继续迭代和构建不稳定的系统所需的所有技术资源，意味着成本高昂、耗时且负担沉重。从中最大的启示是，仅仅因为你有一个非常深刻的想法，如果你没有一个可触达的市场或分发你想法的能力，你可能会被那些‘来得正是时候’的人所吞噬。产品生命周期非常非常重要，要在正确的时间、正确的地点、拥有正确的技术。你常常会成为某个能够借鉴你的想法并推出更好版本的公司的‘**研发实验室**’（R&D lab），因为他们‘来得正是时候’。当你全身心投入某件事时，你会倾注你的心血、灵魂、全部注意力和热情。它会成为一种生活方式。当你攀得越高，跌落时也就越沉重。我感到非常沮丧和失落，因为我希望我的产品能成为全球每一位成员都能访问的东西。但我认为失败是极好的反馈。它告诉你下次不该做什么。失败意味着你尝试过，意味着你确实是‘**竞技场中的人**’（man in the arena），而不是‘人群中的声音’。你在行动。你将自己置于其中。你足够脆弱，愿意承担风险。你准备好接受评判和观察。这就是为什么我们需要改变我们与失败的关系。我们需要做的是，尝试思考如何能像幼儿园的孩子一样生活。他们不怕失败。大自然也不怕失败。不幸的是，对于成年人来说，当我们跌倒时，我们常常会逃跑，再也不回来。为什么？因为羞耻、尴尬，所有这些东西。当你失败时，它是如此艰难和残酷。但确实需要有更大的承认和理解，这是旅程的一部分，而我还没有结束。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">The ideas that started in Eman Venture Labs will always invest in a an entrepreneur that's failed three or four times because of the learnings that they get from the failure. They're closer to their success with every iteration. And of course some of the companies succeeds the first time has a lot of luck but 95% of all startups end in failure. Around 2005 2006 it was just at the beginning of the smartphone era say Windows Mobile had a a smartphone and there was this rumor that iPhone and Android were coming. I was playing around with a Windows mobile and I realized that the power of a camera was gave us extraordinary abilities as humans that we could share what we saw in real time that I made the decision I was going to work on that problem and I was going to actually build scatter which was one of the first ever photosharing smartphone apps. I was incredibly excited about the potential of what I was building. Of course, with any startup, you need to raise capital and you need support because the smartphone era was at the very beginning. I found it very very hard to explain to people what I was trying to do. It was like this will never take off. People take their photos, they get them developed, they share them with their family. Nobody wants to see other people's media. One thing which is really interesting is that scatter did feel like a contrarian truth. you know, you're sitting on a good idea when everybody thinks it's crazy. So, all of these issues I was I was being faced with was just very negative and I couldn't really see how in the UK I could get my business going. Luck and timing are hugely important. Having a product that country or that market wants to adopt, having access to the technology that will enable you to distribute it. So I decided to take a bold leap in the US particularly in San Francisco and Silicon Valley. I saw so much positivity around new ideas. The people, the support, the way people encourage me and get behind my ideas. The whole ecosystem was just incredible. And if I hadn't have gone out there, I don't think I would have been able to achieve what I achieved with Scatter. One of the greatest things that occurred with scatter was that Android had just launched and there was just six people in the team and I met uh one of the Android team members who were working under Sergey Brin the founder of Google on this project. So they invited me into their cohort of innovators and I ended up getting the first G1 Android device and Android 1 was dropped where it wasn't even launched the Android ecosystem. It was just a beta. So we got access to the developer kit and we could start building. It was an incredible experience to be able to connect my native app and access the camera. We launched Scatter on Android market. There was like $150 apps on the app store. So we raised in excess of a million dollars to preede the company but we were too early. Scatter did not become the Instagram, Tik Tok or X that we see today because it's not existing right now. We didn't have access to distribution because the app stores were new and we were launching and helping these ecosystems to evolve. All the technical resources required to continue to iterate and build on unstable systems meant it to be very costly, timeconsuming and heavy. And what the biggest takeaway from some of this is that just because you have an idea that's so profound, if you don't have an addressable market or the ability to distribute your idea, you might end up being eaten by somebody that arrives on time. The product life cycle is very very important and being in the right place at the right time with the right technology. You often become an R&D lab for somebody that can take your idea and launch a better version of it because they are on time. When you're working on something that means everything to you at the time you're putting your heart in it, your soul, all your attention and passion is going into it. It becomes a way of life. When you climb that high, the fall is equally as heavy. I felt very very down and and depressed because I wanted it to become something that every member of the world would access to my product. But I think failure is great feedback. It tells you all the things that you don't want to be doing next time. Failure means you tried means you were actually the man in the arena, not the voice in the crowd. You were doing it. You put yourself out there. You were vulnerable enough to take the risk. you're prepared to be judged and observed for what you're doing. Which is why our relationship with failure needs to change. What we need to do is we need to try and think how can we be like a kindergarten kid for life. They're not scared to fail. Nature is not scared to fail. Unfortunately, with adults, when we fall on the floor, we often run away and we never come back. Why? Because of shame, embarrassment, through all these things. It's so hard and so brutal when you fail. But there definitely needs to be a greater acknowledgement and understanding that this is part of the journey and I'm not finished yet.</p>
+</details>
+
+### 在公司层面工作，而非在公司内部工作
+
+我总是说要‘**在公司层面工作，而非在公司内部工作**’（work on the business not in the business）。如果你在公司内部工作太久，你可能会窒息并扼杀公司的增长，因为你试图成为你团队的每一员。你试图过度控制正在发生的事情的结果和方向。这会耗尽你和你公司里所有人的精力。当你建立一家公司时，‘公司’（company）意味着‘伙伴’（company，双关语），对吧？它不意味着你一个人。它意味着一群人朝着正确的方向前进，拥有相同的目标和愿景。有些创始人非常擅长扩展他们的业务，他们非常擅长‘在公司层面工作’。我认为他们更像是出色的‘**首席幸福官**’（Chief Happiness Officer），而不是‘首席执行官’（Chief Executive Officer），因为他们有能力吸引人才，理解公司在何时需要什么样的人，并赋能这些人发挥最佳工作。我认为‘在公司层面工作’就是致力于一项使命，让加入你公司的每个人都觉得这是他们的使命。例如，我正在构建 Tailtree。我将确保从首席财务官、首席法务官，到健康主管，再到可能为公司准备食物的人，他们都与我们正在解决的问题有着深刻而有意义的联系。拥有愿景，并将愿景的‘奇迹’分解成一口大小的‘瞬间’。每一天都有它自己的问题。明天你将面临另一系列问题。你只需要尝试将这个压倒性的愿景分解成小块，并在每次达成这些微小里程碑时都感到成就感。我总是说，‘**奇迹源于动力**’（miracles come from momentum）。动力源于一系列的‘瞬间’（moments）。所以，每天当你完成任务并朝着最终目标前进时，你都在通过持续地每天攻击同样的事情并分解问题来创造这种动力。‘在公司层面工作’，我认为这是‘优秀’（good）与‘伟大’（great）之间的区别。这些就是我用来帮助我走上创业之旅的要素。
+
+<details>
+<summary>View/Hide Original English</summary>
+<p class="english-text">I always say work on the business not in the business. If you work inside it for too long, you can suffocate and stifle the growth of the business because you are trying to be every member of your team. You're trying to overont control the outcome and the destination of what's going on. It can suck the energy from you and everybody that's in the company. When you're building a company, company means company, right? Doesn't mean you. It means a bunch of people all going in the right direction, all with the same aims and objectives. There are certain founders that are really good at scaling their business. They're really good at working on the business. I think they make great chief happiness officers as opposed to chief executive officers because they have the ability to bring people in and understand the type of people that their company needs when they need it and empower those people to do their best work. I think working on the business is working on a mission where everybody that joins your company feel like it's their mission too. For example, I'm building tail tree. I'm going to make sure that from the chief financial officer, chief legal officer, anybody down to the head of well-being, the person who would potentially be preparing food for the company, they would all have a deep and meaningful connection to the problem that we're solving. have the vision and break down the miracle of the vision into bite-sized moments. Every single day has its own problems. Tomorrow you have another set of problems. You just have to try and break this overwhelming vision down into bite-sized pieces and feel accomplished every time you achieve these small little milestones. And I always say miracles come from momentum. Momentum come from a succession of moments. So every day as you're completing and getting further towards the end goal, you're creating this momentum through continuing to attack every day the same and breaking things down. Working on that company always as I think the difference between being good and being great. These are the things that I've used to help me on my journey as an entrepreneur.</p>
+</details>
