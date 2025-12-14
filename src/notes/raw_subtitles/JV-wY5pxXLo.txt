@@ -1,0 +1,7614 @@
+[music]
+
+
+That's
+ my
+ old
+ profile
+ photo.
+ All right.
+
+
+Um,
+ this
+ my
+ new
+ one.
+ I've
+ been
+ 3
+ days
+ in
+
+
+USA
+ and
+ I
+ already
+ got
+ the
+ full
+ merch
+
+
+package
+ on
+ Twitter.
+ So,
+ if
+ you
+ go
+ and
+
+
+follow
+ me
+ on
+ Twitter,
+ my
+ timeline
+ is
+
+
+going
+ to
+ be
+ weird
+ for
+ the
+ next
+ week,
+ but
+
+
+then
+ we're
+ going
+ back
+ to
+ normal
+ European
+
+
+schedule.
+ Don't
+ worry.
+ So,
+ um
+ I
+ visited
+
+
+some
+ of
+ your
+ museums.
+ I
+ love
+ it
+ here.
+
+
+These
+ were
+ some
+ of
+ my
+ favorite
+ things
+
+
+that
+ I've
+ done.
+ I
+ enjoy
+ like
+ exploring
+
+
+your
+ culture,
+ like
+ doing
+ all
+ the
+ c
+
+
+cultural
+ enrichment.
+ And
+ yeah,
+ round
+ of
+
+
+torture
+ for
+ myself
+ who
+ knows
+ me
+ from
+
+
+Twitter.
+
+
+All
+ right,
+ that's
+ more
+ than
+ I
+ thought.
+
+
+Who
+ is
+ using
+ Sizzy?
+ It's
+ usually
+ like
+
+
+one
+ person
+ in
+ the
+ back.
+ Usually
+ the
+
+
+janitor
+ doesn't
+ even
+ listen
+ to
+ what
+ I'm
+
+
+saying.
+ Um,
+ one
+ of
+ the
+ things
+ that
+ I'm
+
+
+I'm
+ working
+ I
+ have
+ ADHD,
+ so
+ I'm
+ working
+
+
+on
+ a
+ billion
+ things
+ at
+ once.
+ This
+ is
+ one
+
+
+of
+ the
+ things.
+ It's
+ a
+ browser
+
+
+specifically
+ made
+ for
+ developers,
+ not
+
+
+made
+ to
+ replace
+ your
+ browsing
+ browser
+
+
+for
+ browsing,
+ but
+ it's
+ just
+ like
+ a
+ tool
+
+
+like
+ Photoshop
+ that's
+ like
+ helping
+ you
+
+
+in
+ a
+ lot
+ of
+ ways
+ to
+ do
+ front-
+ end
+
+
+development.
+ Another
+ thing
+ I'm
+ working
+
+
+on,
+ the
+ test
+ flight
+ is
+ almost
+ live.
+ I'm
+
+
+making
+ a
+ life
+ OS
+ which
+ combines
+ like
+ all
+
+
+the
+ things
+ in
+ your
+ life
+ from
+ medication,
+
+
+habits,
+ to-dos,
+ planner,
+ blah
+ blah
+ blah.
+
+
+Um,
+ this
+ is
+ like
+ a
+ full
+ stack
+ thing
+ that
+
+
+I'm
+ working
+ on.
+ It's
+ currently
+ on
+ sale.
+
+
+It's
+ called
+ zero
+ to
+ ship.
+ And
+ the
+ last
+
+
+thing
+ that
+ I'm
+ reviving,
+ it's
+ called
+
+
+Glink,
+ which
+ is
+ like
+ change
+ logs,
+ road
+
+
+map,
+ a
+ billion
+ other
+ things.
+ So,
+ without
+
+
+overwhelming
+ you
+ more
+ about
+ my
+ bio
+ and
+
+
+stuff,
+ I
+ really
+ hope
+ I'll
+ get
+ invited
+
+
+next
+ year
+ because
+ I
+ love
+ it
+ here
+ for
+
+
+reasons
+ like
+ um
+ networking
+ and
+ meeting
+
+
+people
+ and
+ teaching.
+ It's
+ great
+ that
+
+
+you're
+ laughing,
+ right?
+ But
+ let's
+ just
+
+
+discuss
+ why
+ are
+ you
+ here,
+ right?
+ You're
+
+
+here
+ for
+ learning
+ and
+ you're
+ here
+ for
+
+
+like
+ networking
+ and
+ later
+ after
+ this
+
+
+you're
+ definitely
+ going
+ to
+ improve
+ all
+
+
+of
+ your
+ skills
+ later.
+ All right.
+ So
+ what
+
+
+can
+ you
+ expect
+ from
+ my
+ conference
+ talks?
+
+
+If
+ you
+ haven't
+ listened
+ to
+ any
+ of
+ my
+
+
+conference
+ talks
+ usually
+ this
+ was
+ made
+
+
+by
+ AI
+ so
+ it's
+ completely
+ wrong.
+ So
+ it's
+
+
+like
+ 50%
+ tweets
+ and
+ 40%
+ pain
+ and
+ 30%
+
+
+reason
+ to
+ remember
+ the
+ name.
+ So
+ in
+ 2017
+
+
+I
+ did
+ this
+ talk
+ with
+ the
+ longest
+ name
+
+
+ever.
+ It's
+ called
+ navigating
+ the
+
+
+hypdriven
+ front-end
+ development
+ world
+
+
+without
+ going
+ insane.
+ And
+ um
+ I've
+ been
+
+
+talking
+ about
+ like
+ how
+ to
+ navigate
+ the
+
+
+front
+ end
+ um
+ world
+ then.
+ Now
+ it's
+ even
+
+
+crazier.
+ But
+ we
+ need
+ to
+ recap
+ like
+ all
+
+
+the
+ things
+ that
+ happened
+ since
+ 2017.
+ I
+
+
+don't
+ um
+ I
+ don't
+ see
+ my
+ speaker
+ notes
+
+
+which
+ is
+ bad
+ but
+ we'll
+ try
+ to
+ get
+ by.
+ So
+
+
+in
+ other
+ industries
+ like
+ in
+ the
+ vision
+
+
+pro
+ you
+ have
+ like
+ cloth
+ collision
+ on
+ top
+
+
+of
+ real
+ life
+ objects
+ and
+ whatever
+ crazy
+
+
+stuff
+ is
+ happening
+ here.
+ In
+ in
+ here
+ we
+
+
+have
+ like
+ some
+ slicing
+ of
+ a
+ mesh
+ texture
+
+
+going
+ around
+ the
+ ball
+ and
+ blah
+ blah
+
+
+blah.
+ whatever
+ these
+ waterfalls
+ and
+ and
+
+
+like
+ all
+ of
+ these
+ mesh
+ like
+ you
+ can
+ take
+
+
+a
+ rock
+ and
+ just
+ smush
+ it
+ into
+ another
+
+
+rock
+ and
+ it
+ magically
+ kind
+ of
+ like
+
+
+blends
+ itself
+ and
+ it
+ forms
+ this
+
+
+structure
+ and
+ it's
+ freaking
+ crazy.
+ Here
+
+
+we
+ can
+ drag
+ our
+ mouse
+ and
+ just
+ create
+
+
+buildings
+ and
+ streets
+ and
+ taxi
+ cars
+
+
+spawn
+ out
+ of
+ nowhere
+ like
+ we
+ do
+
+
+generative
+ whatever
+ the
+ hell
+ this
+ is
+ and
+
+
+um
+ honey
+ goo
+ thingy
+ coming
+ on
+ a
+ cube
+ and
+
+
+like
+ you
+ know
+ where
+ this
+ is
+ going
+ right
+
+
+I'm
+ building
+ up
+ to
+ where
+ it's
+ going
+ but
+
+
+because
+ you
+ have
+ respect
+ for
+ your
+
+
+profession
+ and
+ you
+ love
+ your
+ LinkedIn
+
+
+title
+ whatever
+ it
+ is
+ you're
+ like
+ the
+ CEO
+
+
+architect
+ of
+ dreams
+ blah
+ blah
+ blah
+
+
+you're
+ going
+ to
+ try
+ your
+ best
+ not
+ to
+
+
+laugh
+ but
+ you're
+ going
+ to
+ laugh
+ at
+ the
+
+
+next
+ slide
+ because
+ this
+ is
+ what
+ happened
+
+
+in
+ front-end
+ development
+ it's
+ been
+
+
+almost
+ 10
+ years
+ and
+ this
+ is
+ where
+ we
+ at
+
+
+there's
+ a
+ warning
+ saying
+ that
+ maybe
+
+
+you'll
+ be
+ able
+ to
+ style
+ a
+ select
+ in
+
+
+2037.
+
+
+This
+ is
+ still
+ alive.
+ It's
+ a
+ It's
+ a
+
+
+freaking
+ miracle.
+ This
+ is
+ still
+ alive.
+
+
+It's
+ thriving.
+ Actually,
+ 15
+ million
+
+
+downloads.
+ I
+ set
+ up
+ like
+ a
+ calendar
+
+
+event
+ to
+ check
+ if
+ it's
+ dead
+ every
+ year.
+
+
+It's
+ It
+ hasn't
+ been
+ dead
+ yet.
+ So,
+ I'm
+
+
+going to
+ keep
+ checking
+ CLI.
+ Not
+ only
+
+
+that
+ they're
+ not
+ dead,
+ they're
+ actually
+
+
+thriving.
+ You
+ can
+ drop
+ images.
+ First
+
+
+time
+ I
+ dropped
+ an
+ image
+ in
+ my
+ terminal,
+
+
+I'm
+ like,
+ how
+ the
+ heck
+ never
+ mind.
+ Like,
+
+
+it's
+ too
+ [laughter]
+
+
+I
+ I
+ I
+ added
+ another
+ calendar
+ event.
+ At
+
+
+this
+ point,
+ I
+ have
+ more
+ events
+ for
+ this
+
+
+than
+ anniversaries
+ and
+ birthdays
+ and
+
+
+stuff.
+ So,
+ I
+ I
+ hope
+ one
+ day
+ it's
+ going
+
+
+to
+ die
+ as
+ a
+ concept.
+ We're
+ struggling
+
+
+with
+ the
+ same
+ old
+ pains.
+ Soon
+ in
+ maybe
+
+
+some
+ browsers,
+ you
+ won't
+ need
+ JavaScript
+
+
+to
+ style
+ a
+ popover
+ in
+ a
+ dialogue.
+ Can
+ I
+
+
+have
+ like
+ a
+ round
+ of
+ applause
+ for
+ that?
+
+
+Stop
+ clapping
+ because
+ people
+ have
+ brain
+
+
+implants.
+ All
+ right,
+ it
+ doesn't
+ matter
+
+
+if
+ you
+ can
+ style
+ a
+ dialogue.
+ We
+ cannot
+
+
+read
+ again
+ get
+ rid
+ of
+ Internet
+ Explorer.
+
+
+We
+ just
+ updated
+ the
+ logo.
+ It's
+ still
+
+
+there.
+ It's
+ still
+ painful.
+ And
+ uh
+ yeah,
+
+
+we
+ cannot
+ agree
+ on
+ a
+ way
+ to
+ increase
+ a
+
+
+counter.
+ This
+ is
+ a
+ demo
+ from
+ Ryan
+
+
+Florence.
+ This
+ is
+ remix
+ version
+ two,
+ the
+
+
+version
+ three,
+ the
+ remix
+ or
+ the
+ version
+
+
+4.
+ Whatever
+ they're
+ doing,
+ it's
+ a
+
+
+counter.
+ How
+ complex
+ is
+ it
+ to
+ increase
+ a
+
+
+counter?
+ It's
+ incredible.
+ And
+ don't
+
+
+shoot
+ the
+ messenger
+ here,
+ but
+ the
+ number
+
+
+one
+ library,
+ it's
+ still
+ the
+ same.
+ It's
+
+
+annoying,
+ but
+ React
+ is
+ the
+ best
+ and
+ blah
+
+
+blah
+ blah.
+ So,
+ let's
+ talk
+ about
+ LM.
+ LM
+
+
+are
+ amazing
+ at
+ writing
+ React.
+ And
+ this
+
+
+is
+ funny
+ only
+ to
+ us
+ humans,
+ right?
+ To
+ an
+
+
+LLM,
+ this
+ is
+ like
+ perfectly
+ written
+
+
+code.
+ It's
+ like
+ it's
+ only
+ a
+ human
+ wish
+
+
+to
+ abstract
+ the
+ [ __ ]
+ out
+ of
+ this,
+ right?
+
+
+So
+ when
+ we
+ see
+ this,
+ you
+ get
+ this.
+ You
+
+
+want
+ to
+ get
+ on
+ stage
+ right
+ now
+ like,
+
+
+"Oh,
+ let
+ me
+ just
+ change
+ that.
+ I'll
+ make
+
+
+it
+ more
+ optimal."
+ So
+ here
+ are
+ some
+
+
+scientific
+ brain
+ scans.
+ This
+ is
+ our
+
+
+brain
+ on
+ cocaine.
+ This
+ is
+ our
+ brain
+ on
+
+
+sugar.
+ This
+ our
+ brain
+ when
+ you
+ realize
+
+
+it,
+ we
+ can
+ abstract
+ something.
+ We're
+
+
+like,
+ "Oh,
+ let's
+ go.
+ It's
+ useless
+ to
+ the
+
+
+user,
+ but
+ we
+ freaking
+ love
+ it."
+ Um,
+ so
+
+
+coding
+ with
+ LLMs
+ makes
+ this
+ kind
+ of
+
+
+better
+ and
+ worse.
+ Like
+ especially
+ with
+
+
+Composer
+ One,
+ for
+ me,
+ it's
+ like
+ way
+
+
+worse
+ because
+ you
+ can
+ get
+ to
+ the
+ right
+
+
+abstraction
+ quicker,
+ but
+ you
+ can
+ also
+
+
+get
+ to
+ the
+ wrong
+ abstraction
+ quicker.
+
+
+And
+ the
+ best
+ thing
+ here
+ is
+ LLMs
+ don't
+
+
+care
+ about
+ repetitive
+ code.
+ And
+ I've
+
+
+been
+ seeing
+ this
+ since
+ 2017
+ that
+ we
+ care
+
+
+too
+ much
+ about
+ repetitive
+ code
+ and
+ we
+
+
+abstract
+ too
+ early.
+ So
+ I'm
+ going
+ to
+
+
+repeat
+ this
+ a
+ couple
+ of
+ times
+ and
+ I
+ love
+
+
+that
+ LLMs
+ don't
+ care
+ about
+ repetitive
+
+
+code.
+ So
+ LLM
+ are
+ also
+ good
+ at
+ writing
+
+
+React
+ because
+ no
+ one
+ is
+ actually
+ good
+ at
+
+
+writing
+ React.
+ You
+ go
+ to
+ a
+ React
+
+
+conference,
+ every
+ conference
+ that
+ I
+ went
+
+
+to,
+ like
+ you
+ just
+ listen
+ to
+ the
+ first
+
+
+talk
+ and
+ you're
+ like,
+ "Holy
+ [ __ ]
+ it
+ can
+
+
+do
+ that.
+ I
+ was
+ using
+ it
+ all
+ wrong."
+ So
+
+
+everyone
+ is
+ just
+ inventing
+ their
+ own
+
+
+ways
+ of
+ doing
+ React.
+ So
+ when
+ we
+ say
+ like
+
+
+yeah
+ but
+ you
+ cannot
+ do
+ the
+ optimal
+ use
+
+
+effect
+ blah
+ blah blah
+ and
+ the
+ machines
+
+
+cannot
+ write
+ the
+ proper
+ can
+ you
+ write
+ a
+
+
+proper
+ use
+ effect
+ no
+ you
+ can't
+ so
+ we
+
+
+should
+ stop
+ blaming
+ the
+ machines.
+ So
+
+
+let's
+ talk
+ about
+ this
+ I
+ think
+ this
+ is
+
+
+the
+ very
+ wrongest
+ audience
+ for
+ my
+ talk
+
+
+here
+ because
+ I've
+ been
+ giving
+ this
+ talk
+
+
+at
+ conferences
+ where
+ people
+ are
+ like
+ at
+
+
+least
+ 50/50
+ hate
+ vibe
+ coding
+ and
+ love
+
+
+vip
+ coding.
+ So
+ I'm
+ going
+ to
+ I
+ I
+ hope
+ it
+
+
+will
+ work
+ here.
+ So
+ raise
+ your
+ hand
+ if
+
+
+you
+ think
+ that
+ vibe
+ coding
+ rocks.
+
+
+Okay
+ that's
+ way
+ too
+ many
+ hands.
+ You
+
+
+should
+ have
+ seen
+ them
+ this
+ in
+ another
+
+
+city
+ just
+ two
+ people
+ and
+ everyone
+ else
+
+
+is
+ grumpy.
+ So
+ raise
+ your
+ hand
+ if
+ you
+
+
+think
+ that
+ VIP
+ coding
+ sucks.
+ Please
+
+
+couple
+ of
+ hands.
+ Hell
+ yeah.
+ All right.
+
+
+So
+ I'm
+ here
+ to
+ convince
+ the
+ rest
+ of
+ the
+
+
+group
+ and
+ hopefully
+ people
+ watching
+ in
+ a
+
+
+live
+ stream.
+ There's
+ way
+ more
+ skeptical
+
+
+people.
+ You
+ have
+ no
+ if
+ you
+ just
+ landed
+
+
+on
+ Earth
+ maybe
+ and
+ you
+ don't
+ know
+ what
+
+
+vibe
+ coding
+ is.
+ Okay.
+ Zero
+ people
+ here.
+
+
+So
+ yeah.
+ All right.
+ All
+ of
+ you
+ are
+ right
+
+
+because
+ we're
+ kind
+ of
+ vibe
+ uh
+ vibing
+ the
+
+
+definition
+ of
+ what
+ vibe
+ coding
+ is.
+ And
+
+
+since
+ the
+ word
+ was
+ mentioned,
+ we
+ kind
+ of
+
+
+expanded
+ it
+ to
+ mean
+ like
+ everything
+ and
+
+
+and
+ anything.
+ So
+ the
+ term
+ vibe
+ coding
+
+
+was
+ coined
+ by
+ Andre
+ Kapati.
+ You
+ probably
+
+
+know
+ this.
+ He's
+ the
+ reason
+ that
+ idiots
+
+
+sleep
+ in
+ the
+ back
+ of
+ their
+ cars
+ and
+ film
+
+
+Tik
+ Toks.
+ So
+ he
+ wrote
+ this
+ long
+ essay
+ on
+
+
+what
+ is
+ VIP
+ coding.
+ But
+ a
+ long
+ story
+
+
+short,
+ he's
+ like
+ you
+ don't
+ care
+ that
+
+
+much
+ about
+ the
+ code.
+ You
+ press
+ accept
+
+
+and
+ you
+ just
+ tell
+ the
+ LM
+ to
+ do
+ what
+ it
+
+
+needs
+ to
+ do
+ and
+ blah
+ blah
+ blah.
+ Now
+ this
+
+
+is
+ a
+ slide
+ from
+ my
+ talk
+ in
+ 2017
+ when
+ I
+
+
+before
+ LLMs
+ or
+ anything
+ was
+ mentioned
+
+
+when
+ I
+ said
+ that
+ if
+ you
+ see
+ the
+ pattern
+
+
+of
+ where
+ front-end
+ development
+ is
+ going,
+
+
+one
+ day
+ is
+ going
+ to
+ be
+ like
+ everyone
+ is
+
+
+working
+ on
+ things
+ that
+ are
+ so
+ similar
+
+
+that
+ one
+ day
+ you'll
+ be
+ able
+ to
+ be
+ like,
+
+
+"Hey,
+ just
+ give
+ me
+ new
+ styles
+ for
+ the
+
+
+header
+ or
+ move
+ this
+ three
+ pixels
+ to
+ the
+
+
+right."
+ And
+ people
+ were
+ laughing.
+
+
+They're
+ like,
+ "No,
+ it's
+ not
+ going
+ to
+ get
+
+
+there."
+ And
+ literally,
+ this
+ is
+ what
+
+
+we're
+ doing
+ with
+ cursor
+ and
+ everything
+
+
+else.
+ Right?
+ I'm
+ too
+ lazy
+ to
+ go
+ into
+
+
+Tailwind
+ and
+ just
+ move
+ it
+ by
+ by
+ three
+
+
+pixels.
+ So,
+ I'm
+ a
+ time
+ traveler.
+ Um,
+
+
+managers
+ have
+ been
+ vi
+ coding
+ forever.
+
+
+So,
+ this
+ is
+ nothing
+ new.
+ So,
+ they
+ tell
+ a
+
+
+developer
+ to
+ implement
+ a
+ new
+ feature.
+
+
+[cheering and applause]
+
+
+The
+ developer
+ makes
+ changes
+ to
+ the
+ code.
+
+
+Uh,
+ the
+ manager
+ then
+ tests
+ the
+ app.
+ The
+
+
+manager
+ does
+ not
+ read
+ the
+ code.
+ Well,
+
+
+actually,
+ I'm
+ going
+ to
+ drink
+ water
+ here,
+
+
+and
+ you
+ can
+ just
+ read
+ the
+ rest
+ of
+ this
+
+
+slide.
+
+
+Um,
+
+
+this
+ last
+ one
+ depends
+ on
+ whether
+ you're
+
+
+like
+ in
+ the
+ Balkcon
+ area
+ or
+ or
+ you're
+ at
+
+
+a
+ place
+ which
+ has
+ HR.
+ So,
+ they
+ might
+
+
+insult
+ you
+ or
+ not
+ insult
+ you.
+ So,
+ this
+
+
+is
+ what
+ managers
+ have
+ been
+ doing
+
+
+forever.
+ Basically,
+ there's
+ so
+ many
+
+
+jokes
+ about
+ VIP
+ coding
+ being
+ bad.
+ My
+
+
+favorite
+ one
+ is
+ a
+ comparison
+ to
+ a
+
+
+casino.
+ So
+ in
+ cazasino
+ you
+ buy
+ chips.
+
+
+Here
+ you
+ buy
+ tokens.
+ You
+ spin
+ the
+ slots
+
+
+or
+ you
+ press
+ generate.
+ You
+ might
+ hit
+ the
+
+
+jackpot
+ or
+ nothing.
+ You
+ get
+ a
+ functional
+
+
+full
+ stack
+ app
+ or
+ garbage.
+ Flashing
+
+
+lights
+ active
+ animation.
+ You're
+
+
+absolutely
+ right.
+ Great
+ idea.
+ I've
+ got
+
+
+my
+ own
+ strategy.
+ I'm
+ a
+ prompt
+ engineer.
+
+
+All right.
+ Sure.
+ One
+ more
+ spin.
+ I'll
+ win
+
+
+it
+ all
+ back.
+ One
+ more
+ prompt
+ and
+ the
+ bug
+
+
+will
+ disappear.
+ Cuz
+ you
+ know
+ it
+ kind
+ of
+
+
+hurts
+ this
+ comparison.
+ It's
+ very
+ true.
+
+
+Cursor
+ is
+ always
+ in
+ profit.
+ I
+ hit
+ the
+
+
+jackpot.
+ I
+ build
+ assassin
+ one
+ day.
+ And
+
+
+where
+ did
+ the
+ last
+ four
+ hours
+ go?
+ and
+
+
+just
+ writing
+ prompts
+ for
+ something
+ you
+
+
+could
+ have
+ done
+ manually
+ in
+ 15
+ minutes.
+
+
+So
+ Andre
+ was
+ trying
+ to
+ coin
+ way
+ too
+ many
+
+
+terms.
+ It
+ didn't
+ work
+ after
+ the
+ first
+
+
+time.
+ He
+ tried
+ to
+ coin
+ this
+ one
+ about
+
+
+half
+ coding
+ which
+ is
+ like
+ kind
+ of
+ you're
+
+
+observing
+ what
+ the
+ LLM
+ does.
+ And
+ I
+ am
+
+
+not
+ half
+ coding
+ and
+ I'm
+ not
+ vibe
+ coding.
+
+
+I
+ love
+ this
+ term
+ that
+ somebody
+ coined
+ on
+
+
+Twitter
+ and
+ I'm
+ going
+ to
+ start
+ using
+
+
+that
+ one.
+ It's
+ called
+ vibe
+ engineering.
+
+
+When
+ you're
+ actually
+ using
+ agents
+ to
+
+
+code
+ all
+ the
+ time
+ like
+ you
+ don't
+ touch
+
+
+the
+ code
+ but
+ you
+ just
+ look
+ at
+ your
+
+
+screen
+ like
+ h
+ I'm
+ going
+ to
+ catch
+ you.
+
+
+You
+ look
+ like
+ they
+ dexter
+ me.
+ You're
+
+
+like
+ ah
+ something's
+ fishy
+ here.
+ Why?
+ So
+
+
+I
+ I've
+ vibe
+ engineer
+ over
+ 15.
+ I
+ wouldn't
+
+
+even
+ bother
+ with
+ half
+ of
+ these
+ things
+ if
+
+
+it
+ wasn't
+ for
+ LLM
+ and
+ Aentic
+ coding.
+ So
+
+
+but
+ I'm
+ always
+ suspicious
+ of
+ the
+ code
+
+
+because
+ it
+ was
+ based
+ on
+ our
+ code
+ and
+ is
+
+
+based
+ on
+ our
+ our
+ knowledge.
+ So
+ proof
+
+
+this
+ is
+ Gemini
+ just
+ going
+ on
+ a
+ rant
+ that
+
+
+it's
+ I'm
+ not
+ worthy
+ anymore.
+ I'm
+ not
+ a
+
+
+good
+ assistant.
+ I
+ should
+ stop
+ coding.
+
+
+Blah
+ blah
+ blah.
+ That's
+ super
+ human.
+ This
+
+
+is
+ Quen
+ saying
+ that
+ it
+ lied
+ because
+ it
+
+
+read
+ on
+ a
+ forum
+ that
+ we
+ double
+ down
+ when
+
+
+we're
+ wrong
+ and
+ we're
+ lying.
+ So
+ we
+ kind
+
+
+of
+ train
+ them
+ in
+ a
+ way
+ to
+ be
+ like
+ us.
+
+
+near
+ the
+ code.
+ The
+ code
+ that
+ they
+ do
+ is
+
+
+bad.
+ And
+ if
+ you
+ like
+ your
+ production
+
+
+data,
+ definitely
+ you
+ should.
+ This
+ is
+ a
+
+
+real
+ screenshot
+ sadly.
+
+
+Oopsy
+ daisy.
+ There
+ goes
+ your
+ production
+
+
+data.
+ So,
+ I
+ have
+ uh
+ doctor,
+ senior
+
+
+principal,
+ prompt
+ engineer
+ kit
+ here
+ for
+
+
+some
+ vibe
+ engineering
+ tips.
+ The
+ obvious
+
+
+advice
+ probably
+ I
+ haven't
+ listened
+ to
+
+
+the
+ rest
+ of
+ the
+ talks
+ cuz
+ I
+ just
+
+
+arrived.
+ Uh
+ these
+ are
+ very
+ live,
+ laugh,
+
+
+love,
+ like
+ obvious
+ [ __ ]
+ advice.
+ Um
+
+
+but
+ it
+ actually
+ works.
+ I've
+ heard
+ of
+ the
+
+
+term
+ git
+ workspaces
+ like
+ literally
+ two
+
+
+weeks
+ ago.
+ I
+ had
+ no
+ idea
+ what
+ is
+ this,
+
+
+but
+ it's
+ amazing.
+ And
+ you
+ got
+ to
+ stay
+
+
+you
+ got
+ to
+ be
+ chronically
+ on
+ Twitter
+ for
+
+
+all
+ of
+ this
+ to
+ work.
+ So
+ if
+ you
+ don't
+
+
+have
+ a
+ Twitter
+ account,
+ it's
+ it's
+ not
+
+
+going
+ to
+ work.
+ You
+ got
+ to
+ have
+ a
+ solid
+
+
+starting
+ point,
+ whether
+ that
+ means
+ like
+
+
+good
+ primitives
+ or
+ components,
+
+
+functions,
+ pattern
+ abstractions.
+ A
+ lot
+
+
+of
+ people
+ are
+ lazy
+ and
+ they
+ just
+ don't
+
+
+bother
+ with
+ any
+ of
+ this.
+ So
+ you
+ got
+ to
+
+
+tag
+ them
+ and
+ use
+ the
+ right
+ prompts
+ in
+
+
+order
+ to
+ get
+ the
+ right
+ results.
+ And
+ if
+
+
+you're
+ starting
+ a
+ new
+ project,
+ I
+ would
+
+
+definitely
+ recommend
+ zero
+ to
+ ship.
+
+
+Please,
+ I
+ have a
+ mortgage
+ and
+ I
+ spent
+
+
+way
+ too
+ much
+ money
+ these
+ last
+ three
+ days
+
+
+in
+ the
+ USA.
+ So
+ it
+ would
+ be
+ nice.
+ Using
+
+
+voice
+ to
+ code
+ is
+ a
+ game
+ changer.
+ Who
+ is
+
+
+using
+ voice
+ to
+ code
+ here?
+ Yeah.
+
+
+>> Wow.
+ Like
+ one
+ person
+ raised
+ their
+ hand
+
+
+in
+ London.
+ Amazing.
+ Um,
+ so
+ yeah,
+ brain
+
+
+dumping.
+ How
+ I
+ do
+ you
+ how
+ I
+ do
+ things
+
+
+[clears throat]
+ is
+ once
+ the
+ agent
+ is
+
+
+done,
+ I
+ immediately
+ start
+ my
+ voice
+
+
+coding
+ and
+ first
+ I
+ go
+ to
+ the
+ browser
+ and
+
+
+I
+ explain
+ what
+ I
+ see
+ in
+ the
+ UI
+ as
+ if
+ I'm
+
+
+talking
+ to
+ a
+ friend.
+ I'm
+ like,
+ so
+ you
+
+
+did
+ this,
+ you
+ did
+ that.
+ All right,
+ I'm
+
+
+test.
+ I'm
+ I'm
+ not
+ shutting
+ up.
+ I'm
+
+
+literally
+ seeing
+ my
+ thinking
+ process
+ out
+
+
+loud.
+ Like
+ I
+ see
+ you've
+ done
+ this,
+
+
+you've
+ done
+ that,
+ there's
+ a
+ bug.
+ Then
+ I
+
+
+jump
+ in
+ the
+ code
+ and
+ I
+ continue
+ talking
+
+
+about
+ what
+ it
+ implemented
+ in
+ the
+ code.
+
+
+So,
+ some
+ of
+ my
+ problems
+ like
+ sometimes
+
+
+last
+ up
+ to
+ five
+ minutes
+ and
+ people
+ are
+
+
+like,
+ "Please
+ fix
+ this.
+ Make
+ me
+ a
+
+
+million
+ dollars.
+ It
+ doesn't
+ work."
+ So,
+
+
+this
+ is
+ um
+ amazing
+ and
+ I
+ would
+ tell
+ you
+
+
+which
+ app
+ I'm
+ using,
+ but
+ I
+ vip
+ code
+ in
+
+
+an
+ app
+ and
+ I
+ don't
+ want
+ to
+ hurt
+ my
+
+
+potential
+ hypothetical
+ sales.
+ Um,
+ use
+
+
+rules,
+ docs,
+ commands,
+ and
+ memories.
+
+
+Like,
+ all
+ of
+ these
+ terms
+ are
+ way
+ too
+
+
+complex
+ and
+ there's
+ way
+ too
+ many
+ things
+
+
+to
+ juggle,
+ but
+ it
+ it
+ cannot
+ have
+ your
+
+
+entire
+ app
+ context
+ for
+ now
+ and
+ it's
+ not
+
+
+a
+ a
+ mind
+ reader.
+ So,
+ without
+ the
+ right
+
+
+context,
+ you
+ will
+ like
+ fail
+ most
+ of
+ the
+
+
+time.
+ So
+ this
+ is
+ like
+ a
+ VIP
+ engineering
+
+
+example.
+ This
+ is
+ some
+ of
+ my
+ like
+
+
+screenshotted
+ prompts
+ of
+ how
+ I'm
+ doing
+
+
+things.
+ It's
+ like
+ a
+ bunch
+ of
+ technical
+
+
+jargon
+ and
+ it's
+ never
+ like
+ fix
+ the
+ app
+
+
+blah
+ blah
+ blah.
+ And
+ then
+ on
+ the
+ VIP
+
+
+coding
+ side,
+ people
+ are
+ like
+ move
+ this
+
+
+entire
+ thing
+ to
+ TypeScript
+ and
+ make
+ no
+
+
+mistakes.
+ Then
+ you
+ have
+ another
+ thing
+
+
+like
+ this
+ is
+ another
+ one.
+ These
+ are
+ just
+
+
+random
+ problems
+ just
+ to
+ show
+ you
+ like
+
+
+how
+ I
+ I'm
+ not
+ talking
+ only
+ about
+ the
+ UI.
+
+
+I'm
+ talking
+ about
+ the
+ UI
+ and
+ some
+
+
+patterns
+ that
+ need
+ to
+ be
+ changed
+ in
+ the
+
+
+code.
+ And
+ on
+ the
+ vibe
+ coding
+ side,
+ it's
+
+
+like
+ something
+ like
+ that
+ and
+ people
+
+
+expect
+ results.
+ [laughter]
+
+
+Then
+ here
+ we
+ have
+ again
+ technical
+ stuff
+
+
+like
+ TRPC
+ cud
+ definition
+ abstractions
+
+
+like
+ things
+ how
+ you
+ you're
+ basically
+ VIP
+
+
+architecting
+ how
+ you
+ want
+ the
+ thing
+ to
+
+
+work
+ and
+ on
+ the
+ VIP
+ coding
+ side
+ you
+ have
+
+
+make
+ me
+ a
+ million
+ dollar
+ app
+ and
+ make
+ no
+
+
+mistakes.
+ Um
+ [snorts]
+ when
+ VIP
+ coders
+
+
+read
+ VIP
+ engineering
+ problems
+ they
+ have
+
+
+no
+ idea
+ what's
+ going
+ on.
+ And
+ I'm
+
+
+honestly
+ amazed
+ at
+ people
+ who
+ don't
+ know
+
+
+how
+ to
+ code
+ but
+ they've
+ done
+ a
+
+
+functional
+ thing.
+ Kudos
+ to
+ you.
+ I've
+
+
+noticed
+ this
+ spectrum
+ in
+ the
+ community.
+
+
+There's
+ like
+ who
+ loves
+ VIP
+ coding
+ and
+
+
+who
+ hates
+ VIP
+ coding.
+ So
+ you
+ on
+ one
+ hand
+
+
+you
+ have
+ like
+ juniors
+ who
+ are
+ like
+ hell
+
+
+yeah
+ give
+ me
+ the
+ thing
+ I
+ love
+ to
+ do
+ my
+
+
+own
+ SAS.
+ Then
+ you
+ have
+ like
+ super
+ senior
+
+
+people
+ who
+ are
+ doing
+ like
+ libraries
+ and
+
+
+frameworks
+ and
+ crazy
+ things.
+ You
+ can
+ see
+
+
+all
+ of
+ them
+ on
+ Twitter
+ v
+ coding.
+ And
+
+
+then
+ you
+ have
+ the
+ majority
+ in
+ the
+
+
+middle.
+ They're
+ like
+ this
+ will
+ never
+ be
+
+
+good
+ enough.
+ My
+ code
+ is
+ perfect.
+ It's
+
+
+hilarious.
+ But
+ it's
+ a
+ pattern.
+ Do
+ not
+
+
+give
+ AI
+ tools
+ to
+ your
+ interns
+ and
+
+
+juniors.
+ People
+ think
+ these
+ are
+ perfect.
+
+
+I'm
+ going to
+ hire
+ junior
+ underpay
+ them
+
+
+and
+ give
+ them
+ an
+ LLM.
+ The
+ equivalent
+ of
+
+
+that.
+ Do
+ do
+ not
+ ever
+ do
+ that.
+ That's
+ the
+
+
+dumbest
+ idea.
+ But
+ if
+ you
+ take
+ your
+
+
+skeptical
+ senior
+ and
+ you
+ convince
+ them
+
+
+to
+ do
+ vibe
+ engineering,
+ you're
+ going
+ to
+
+
+get
+ 10x
+ results.
+ The
+ hard
+ part
+ is
+
+
+actually
+ convincing
+ them.
+ So
+ there's
+ a
+
+
+time
+ and
+ a
+ place
+ for
+ vibing
+ and
+ not
+
+
+caring.
+ So
+ you
+ have
+ like
+ one-off
+ scripts
+
+
+and
+ simple
+ features
+ and
+ code
+ that
+ won't
+
+
+be
+ touched
+ or
+ seen
+ again.
+ This
+ is
+ a
+
+
+skill
+ that
+ if
+ you
+ cultivated
+ this
+ skill
+
+
+before
+ LLMs
+ were
+ a
+ thing,
+ you're
+ going
+
+
+to
+ thrive
+ here
+ because
+ you
+ need
+ to
+ know
+
+
+like
+ which
+ code
+ is
+ kind
+ of
+ good
+ enough
+
+
+to
+ be
+ used.
+ So
+ personal
+ tools
+ and
+
+
+one-time
+ tools
+ like
+ these
+ are
+ perfect
+
+
+for
+ pipe
+ coding.
+ If
+ your
+ experience
+ and
+
+
+a
+ lot
+ of
+ people's
+ experience
+ is
+ bad
+ and
+
+
+they
+ quit
+ too
+ soon,
+ it
+ might
+ be
+ one
+ of
+
+
+these
+ reasons.
+ unlucky
+ timing.
+ You're
+
+
+overwhelmed
+ with
+ everything.
+ You
+ might
+
+
+have
+ cheapened
+ out.
+ You're
+ a
+ PA
+ dev.
+ I'm
+
+
+going to
+ explain
+ in
+ a
+ second.
+ Your
+
+
+cousin
+ who
+ was
+ into
+ NFTs
+ and
+ drop
+
+
+shipping
+ is
+ now
+ VIP
+ coder
+ and
+ you
+ don't
+
+
+want
+ to
+ be
+ associated
+ with
+ them
+ or
+ it's
+
+
+a
+ scale
+ issue
+ and
+ we're
+ going
+ to
+ dive
+
+
+deeper
+ into
+ that
+ one
+ in
+ a
+ second.
+ So
+
+
+unlucky
+ timing
+ is
+ you
+ hear
+ everyone
+ like
+
+
+hyping
+ a
+ model.
+ It
+ happened
+ I
+ think
+ with
+
+
+cloud
+ code
+ when
+ it
+ came
+ out
+ and
+ everyone
+
+
+started
+ shifting
+ to
+ cloud
+ code
+ from
+
+
+cursor
+ and
+ suddenly
+ you
+ tried
+ one
+ week
+
+
+later
+ and
+ we're
+ like
+ wait
+ this
+ is
+ not
+
+
+smart
+ enough.
+ Is
+ it
+ me?
+ And
+ then
+ like
+
+
+people
+ caught
+ that
+ they
+ actually
+ kind
+ of
+
+
+pulled
+ the
+ rug
+ a
+ little
+ bit
+ and
+ they
+
+
+dumbed
+ down
+ the
+ model
+ so
+ they
+ can
+ just
+
+
+scale
+ and
+ like
+ one
+ week
+ later
+ they're
+
+
+like
+ oops
+ we
+ updated
+ we
+ commented
+ out
+
+
+the
+ line
+ that
+ dumbs
+ dumb
+ down
+ the
+ model
+
+
+and
+ you
+ might
+ have
+ been
+ caught
+ in
+ that
+
+
+timing
+ and
+ this
+ happened
+ with
+ like
+
+
+basically
+ every
+ provider
+ not
+ just
+ cloud
+
+
+code.
+ People
+ are
+ like
+ uh
+ instead
+ of
+
+
+paying
+ $200
+ I'm
+ paying
+ $3
+ and
+ it's
+ the
+
+
+same
+ result.
+ Uh
+ my
+ dog
+ knows
+ that
+ it's
+
+
+not
+ the
+ same
+ result.
+ And
+ people
+ like
+ I
+ I
+
+
+meet
+ so
+ many
+ people
+ which
+ are
+ still
+
+
+using
+ chat
+ GPT
+ to
+ generate
+ code
+ snippets
+
+
+and
+ ps
+ them
+ back.
+ That's
+ not
+ going
+ to
+
+
+work.
+ You
+ might
+ be
+ overwhelmed
+ by
+
+
+choice.
+ This
+ is
+ a
+ slide
+ for
+ like
+ four
+ 4
+
+
+months
+ ago
+ until
+ now.
+ We
+ have
+ like
+ a
+
+
+billion
+ more
+ here
+ to
+ choose
+ and
+ it's
+ a
+
+
+bit
+ crazy.
+ Um,
+ if
+ you
+ ask
+ me
+ what's
+ the
+
+
+best
+ model,
+ it's
+ a
+ different
+ answer
+ at
+
+
+9:00
+ a.m.
+ It's
+ a
+ different
+ answer
+ now.
+ I
+
+
+should
+ check
+ Twitter.
+ It's
+ probably
+ a
+
+
+different
+ answer
+ after
+ this
+ talk
+ because
+
+
+it's
+ crazy.
+ And
+ this
+ has
+ happened
+ to
+
+
+four
+ conferences
+ so
+ far
+ where
+ I'm
+ done
+
+
+with
+ my
+ conference
+ talk
+ at
+ the
+ night.
+
+
+I'm
+ closing
+ my
+ laptop
+ and
+ they
+ introduce
+
+
+a
+ new
+ model
+ and
+ I
+ have
+ to
+ add
+ new
+
+
+slides.
+ It's
+ super
+ annoying.
+ Composer
+
+
+one
+ for
+ me
+ changed
+ everything
+ and
+ I
+
+
+absolutely
+ love
+ it.
+ Who
+ is
+ like
+ relying
+
+
+on
+ composer
+ one
+ for
+ most
+ things?
+ All
+
+
+right,
+ I
+ would
+ say
+ not
+ enough
+ people
+
+
+because
+ this
+ is
+ literally
+ shifted
+ the
+
+
+definition
+ of
+ VIP
+ coding
+ and
+ VIP
+
+
+engineering
+ for
+ me.
+ It
+ made
+ me
+ kind
+ of
+
+
+realize
+ that
+ I
+ missed
+ coding
+ because
+
+
+what
+ I
+ would
+ do
+ is
+ I
+ would
+ let
+ a
+ model
+
+
+run
+ like
+ GPD5
+ codeex
+ and
+ it
+ would
+ take
+
+
+37
+ years
+ and
+ my
+ grandchildren
+ will
+
+
+update
+ me
+ on
+ on
+ the
+ result
+ of
+ the
+ model
+
+
+and
+ I
+ would
+ watch
+ YouTube
+ shorts
+ or
+
+
+whatever
+ until
+ it's
+ done.
+ Now
+ with
+
+
+composer
+ one,
+ I'm
+ back
+ in
+ the
+ driver's
+
+
+seat
+ and
+ I
+ actually
+ watch
+ what
+ the
+ agent
+
+
+is
+ doing
+ and
+ I
+ can
+ be
+ like,
+ "Stop.
+ No,
+
+
+no,
+ no,
+ no,
+ no.
+ We
+ do
+ the
+ other
+ thing."
+
+
+So
+ it
+ feels
+ like
+ coding
+ and
+ it's
+ like
+
+
+super
+ instant.
+ It's
+ amazing.
+ Um,
+ but
+ it
+
+
+only
+ works
+ if
+ you're
+ a
+ VIP
+ engineer
+ and
+
+
+you
+ know
+ what
+ you're
+ doing.
+ If
+ you're
+ a
+
+
+VIP
+ coder,
+ you
+ have
+ no
+ idea
+ whether
+ the
+
+
+model
+ is
+ right
+ or
+ wrong.
+ You're
+ just,
+ it
+
+
+might
+ be
+ wrong
+ fast.
+ So,
+ not
+ that
+
+
+useful.
+ The
+ biggest
+ problem
+ for
+ me
+ is
+
+
+like
+ abstractions
+ just
+ because
+ you
+ can.
+
+
+I
+ was
+ always
+ an
+ anti-abstraction
+ person.
+
+
+I
+ was
+ like,
+ copy
+ paste
+ things.
+ If
+ it
+
+
+works
+ for
+ for
+ the
+ user,
+ it
+ doesn't
+
+
+matter.
+ Now,
+ I'm
+ just
+ every
+ day
+ trying
+
+
+to
+ invent
+ dumb
+ abstractions.
+ So,
+ I
+ I
+
+
+achieved
+ in
+ two
+ weeks
+ more
+ than
+ I
+
+
+achieved
+ in
+ last
+ year.
+ This
+ was
+ solely
+
+
+to
+ composer
+ one.
+ I
+ was
+ about
+ to
+ quit
+
+
+some
+ of
+ my
+ side
+ projects
+ because
+ GPD5
+
+
+codex
+ was
+ taking
+ ages
+ for
+ the
+ feedback
+
+
+loop.
+ So,
+ Benji.
+ Like,
+ I
+ was
+ about
+ to
+
+
+abandon
+ it
+ as
+ a
+ project
+ because
+ it
+ was
+
+
+stuck
+ on
+ Blitz,
+ which
+ if
+ you
+ don't
+ know
+
+
+what
+ is
+ Blitz,
+ it's
+ like
+ even
+ better
+ for
+
+
+you.
+ So,
+ I
+ just
+ moved
+ it
+ to
+ Nex
+ 16
+ with
+
+
+App
+ Router,
+ better
+ off,
+ TRPC,
+ Monor
+
+
+repo,
+ Turbo
+ Repo,
+ React
+ Native
+ app,
+ and
+
+
+I
+ put
+ in
+ 90%
+ of
+ the
+ features.
+ And
+ this
+
+
+was
+ in
+ less
+ than
+ a
+ week.
+ I
+ was
+ kind
+ of
+
+
+like
+ doing
+ it
+ as
+ a
+ meme,
+ as
+ a
+ joke,
+
+
+like,
+ haha,
+ can
+ we
+ move
+ to
+ monoro?
+ And
+
+
+I'm
+ like,
+ oh
+ [ __ ]
+ it
+ did
+ it.
+ So,
+ it's
+
+
+it's
+ it's
+ kind
+ of
+ crazy
+ that
+ this
+ works.
+
+
+So,
+ same
+ with
+ Glink.
+ Like,
+ Glink
+ was
+
+
+about
+ to
+ be
+ dead.
+ Revived
+ it,
+ moved
+ it,
+
+
+all
+ these
+ things.
+ And
+ Sizzy
+ is
+ like
+ the
+
+
+biggest
+ spaghetti
+ thing
+ that
+ had
+ that
+
+
+happened
+ ever
+ to
+ me.
+ It's
+ like
+ electron
+
+
+mobex
+ mob
+ state
+ some
+ crazy
+ technology
+
+
+some
+ crazy
+ spaghetti
+ we
+ wrote
+ there.
+ And
+
+
+as
+ a
+ joke
+ I
+ was
+ like
+ okay
+ let's
+ throw
+
+
+like
+ couple
+ of
+ prompts
+ at
+ it
+ to
+ try
+ to
+
+
+do
+ all
+ of
+ these
+ things
+ and
+ it
+ if
+ you
+
+
+ever
+ worked
+ with
+ electron
+ you
+ would
+
+
+appreciate
+ how
+ amazing
+ that
+ slide
+ is.
+ If
+
+
+you
+ haven't
+ good
+ for
+ you
+ um
+ moving
+ on
+ so
+
+
+zero
+ ship.com
+ also
+ refactor
+ it
+ to
+ monor
+
+
+repo
+ blah
+ blah
+ blah.
+ So
+ what's
+ uh
+ my
+
+
+coding
+ history
+ with
+ LLMs
+ was
+ copy
+ and
+
+
+pasting
+ then
+ tabbing
+ then
+ webtorm
+ with
+
+
+super
+ maven
+ and
+ then
+ cursor
+ with
+ tab
+
+
+completion
+ and
+ the
+ first
+ time
+ I
+ tried
+ an
+
+
+agent
+ is
+ like
+ that
+ bird
+ me
+ with
+ the
+
+
+cracker
+ when
+ it
+ tries
+ and
+ it's
+ like
+ holy
+
+
+[ __ ]
+ this
+ is
+ going
+ to
+ change
+ my
+ life
+ and
+
+
+now
+ like
+ eventually
+ I
+ was
+ paying
+ like
+ a
+
+
+huge
+ amount
+ of
+ money
+ per
+ month
+ then
+
+
+cloud
+ code
+ GPD5
+ codeex
+ and
+ finally
+ back
+
+
+to
+ cursor
+ because
+ solely
+ because
+ of
+
+
+composer
+ one
+ it's
+ a
+ game
+ changanger
+ for
+
+
+me
+ second
+ reason
+ why
+ you
+ might
+ not
+ like
+
+
+vibe
+ coding
+ is
+ you're
+ overwhelmed
+ by
+
+
+buzzwords
+ I'm
+ going
+ to
+ list
+ some
+ of
+ them
+
+
+Have
+ you
+ heard
+ of
+ MCP?
+ Hey
+ guys,
+ MCP.
+
+
+Hey,
+ MCP
+ is
+ amazing.
+ MCP
+ paid
+ off
+ my
+
+
+mortgage.
+ MCP
+ MCP
+ MCP.
+ So,
+ if
+ you
+ don't
+
+
+know
+ what
+ is
+ MCP,
+ it
+ stands
+ for
+
+
+marketing
+ charge
+ protocol,
+ mythical
+
+
+compatibility,
+ promise,
+ and
+ manufacturer
+
+
+complexity
+ pipeline
+ and
+ a
+ fancy
+ word
+ for
+
+
+API
+ and
+ a
+ way
+ for
+ some
+ people
+ to
+ make
+
+
+courses
+ and
+ pay
+ off
+ their
+ mortgages.
+
+
+Now,
+ let's
+ diagnose
+ if
+ you
+ might
+ be
+ a
+
+
+pain
+ in
+ the
+ ass
+ developer.
+ This
+ might
+ be
+
+
+the
+ sole
+ reason
+ why
+ you
+ don't
+ like
+ VIP
+
+
+coding.
+ I
+ would
+ say
+ this
+ is
+ the
+ biggest
+
+
+reason
+ that
+ most
+ people
+ don't
+ want
+ to
+ do
+
+
+agentic
+ coding.
+ So
+ I'm
+ going
+ to
+ invite
+
+
+Dr.
+ Kits
+ on
+ the
+ stage
+ for
+ a
+ quick
+
+
+diagnosis
+ whether
+ you
+ are
+ and
+ I'm
+ sorry
+
+
+if
+ some
+ of
+ you
+ get
+ offended
+ opinion
+ in
+
+
+the
+ ass
+ developer.
+ So
+ here
+ are
+ some
+ of
+
+
+the
+ symptoms.
+ You
+ leave
+ a
+ nitpick
+
+
+comment
+ on
+ a
+ twoline
+ PR.
+ You
+ spend
+ more
+
+
+than
+ 2
+ minutes
+ on
+ a
+ PR
+ review.
+ You
+ don't
+
+
+need
+ to.
+ You
+ don't
+ have
+ the
+ words
+ look
+
+
+good
+ to
+ me
+ like
+ in
+ your
+ dictionary.
+
+
+They're
+ just
+ not
+ present.
+ The
+ thought
+ of
+
+
+agreeing
+ with
+ a
+ colleague
+ causes
+ you
+
+
+like
+ stomach
+ and
+ chest
+ pain.
+ You're
+ like
+
+
+oh
+ he
+ has
+ to
+ be
+ my
+ way.
+ I
+ don't
+ want
+ to
+
+
+do
+ this.
+ You
+ say
+ you're
+ not
+ religious,
+
+
+but
+ you're
+ religious
+ about
+ dumb
+ things
+
+
+like
+ tabs
+ and
+ spaces
+ you
+ use.
+ Well,
+
+
+actually
+ in
+ code
+ comments.
+ You
+ have
+ a
+
+
+sorry
+ rust
+ people,
+ but
+ you're
+ kind
+ of
+
+
+like
+ it's
+ it's
+ it's
+ kind
+ of
+ annoying.
+ Um
+
+
+they
+ tell
+ you
+ to
+ swap
+ low
+ dash
+ function
+
+
+for
+ a
+ native
+ implementation
+ and
+ then
+
+
+they
+ tell
+ you
+ to
+ swap
+ that
+ or
+ the
+ map
+
+
+for
+ a
+ for
+ loop
+ and
+ then
+ the
+ for
+ loop
+ for
+
+
+binary
+ code
+ until
+ it's
+ the
+ most
+
+
+performant
+ thing
+ ever
+ for
+ your
+ two
+ users
+
+
+who
+ are
+ were
+ fine
+ with
+ the
+ previous
+
+
+school.
+ So
+ the
+ thing
+ is
+ beta
+ devs
+ as
+ I
+
+
+call
+ them
+ will
+ were
+ and
+ will
+ be
+ forever
+
+
+doesn't
+ matter.
+ The
+ vip
+ coding
+ is
+ not
+ a
+
+
+thing.
+ I
+ think
+ one
+ day
+ pretty
+ soon
+ I
+
+
+think
+ we'll
+ just
+ merge
+ with
+ AGI.
+ We'll
+
+
+be
+ in
+ our
+ matrix
+ pods
+ just
+ absorbing
+ all
+
+
+the
+ information
+ in
+ the
+ world
+ flowing
+
+
+through
+ us.
+ We'll
+ be
+ super
+ intelligent
+
+
+beans
+ and
+ from
+ one
+ of
+ those
+ pods
+ a
+ pa
+
+
+dev
+ is
+ going
+ to
+ rise
+ and
+ correct
+ the
+ AGI
+
+
+be
+ like
+ um
+ actually
+ I
+ think
+ I
+ think
+ we
+
+
+can
+ kind
+ of
+ optimize
+ this.
+ It's
+ not
+ like
+
+
+the
+ most
+ optimal
+ thing.
+ The
+ last
+ reason
+
+
+why
+ you
+ might
+ like
+ I
+ love
+ this
+ animation
+
+
+it's
+ glorious
+ skill
+ issue
+ and
+ this
+ is
+
+
+like
+ this
+ is
+ not
+ a
+ meme
+ this
+ is
+ not
+ a
+
+
+joke
+ it's
+ an
+ actual
+ thing
+ developers
+
+
+don't
+ like
+ learning
+ new
+ skills
+ and
+ VIP
+
+
+coding
+ and
+ VIP
+ engineering
+ is
+ not
+
+
+writing
+ English
+ a
+ lot
+ of
+ people
+ confuse
+
+
+it
+ with
+ like
+ I
+ write
+ English
+ the
+ LLM
+
+
+does
+ the
+ output
+ it's
+ actually
+ like
+ a
+ a
+
+
+mix
+ of
+ a
+ bunch
+ of
+ these
+ skills
+ like
+
+
+knowing
+ the
+ limits
+ of
+ the
+ model
+
+
+capabilities
+ of
+ the
+ agent
+ which
+ context
+
+
+to
+ pass
+ context
+ limits
+ how
+ to
+ write
+
+
+rules
+ prompt
+ engineering
+ don't
+ say
+ it
+
+
+don't
+ call
+ it
+ that
+ and
+ being
+ chronically
+
+
+on
+ Twitter
+ if
+ you're
+ not
+ chronically
+ on
+
+
+Twitter
+ you're
+ not
+ going
+ don't
+ know
+ what
+
+
+is
+ going
+ on.
+ Plus,
+ you
+ need
+ all
+ the
+
+
+technical
+ knowledge
+ if
+ you
+ want
+ to
+ steer
+
+
+the
+ models
+ fine.
+ It
+ takes
+ a
+ skill
+ to
+
+
+judge
+ which
+ code
+ is
+ good
+ enough
+ for
+ the
+
+
+job.
+ As
+ I
+ said,
+ if
+ you
+ previously
+ were
+
+
+doing
+ this,
+ like
+ I
+ would
+ consider
+ these
+
+
+the
+ best
+ people
+ to
+ work
+ with
+ if
+ they
+ can
+
+
+know
+ that
+ a
+ piece
+ of
+ code
+ doesn't
+ need
+
+
+to
+ be
+ optimized
+ and
+ it's
+ good
+ enough
+ for
+
+
+the
+ job
+ that
+ it's
+ doing.
+ That's
+ an
+
+
+amazing
+ skill
+ to
+ have
+ with
+ and
+ without
+
+
+vibe
+ uh
+ coding.
+ So,
+ you
+ vibe
+ code
+
+
+something,
+ you
+ look
+ at
+ the
+ code,
+ you
+
+
+like
+ you
+ test
+ the
+ functionality
+ briefly
+
+
+and
+ you're
+ like,
+ "Okay,
+ this
+ is
+ good
+
+
+enough."
+ And
+ then
+ you
+ move
+ on.
+ There
+ are
+
+
+certain
+ things
+ with
+ niche
+ optimization
+
+
+but
+ not
+ everything
+ and
+ then
+ you
+ move
+ on
+
+
+and
+ repeat
+ clean
+ code
+ like
+ there's
+ been
+
+
+so
+ many
+ definition
+ of
+ what
+ clean
+ code
+
+
+is.
+ I
+ think
+ the
+ definition
+ is
+ slowly
+
+
+changing
+ like
+ it's
+ kind
+ of
+ ish
+ cleanish
+
+
+enough
+ let's
+ call
+ it
+ for
+ the
+ agents
+ to
+
+
+be
+ able
+ to
+ continue
+ working
+ on
+ it
+
+
+because
+ if
+ you
+ keep
+ writing
+ slop
+ and
+ you
+
+
+keep
+ accepting
+ everything
+ eventually
+
+
+even
+ with
+ your
+ engineering
+ skills
+ you're
+
+
+going
+ to
+ hit
+ a
+ roadblock
+ and
+ you're
+
+
+going
+ to
+ get
+ to
+ a
+ point
+ where
+ you
+ cannot
+
+
+move
+ on
+ from
+ there.
+ A
+ lot
+ of
+ people
+ ask
+
+
+me
+ after
+ my
+ conference
+ talks
+ like
+ should
+
+
+I
+ study
+ computer
+ science
+ with
+ everything
+
+
+that's
+ going
+ on
+ here
+ and
+ I
+ would
+ say
+
+
+absolutely
+ yes.
+ I
+ think
+ now
+ is
+ the
+ best
+
+
+time
+ to
+ actually
+ if
+ you
+ are
+ someone
+ who
+
+
+wants
+ to
+ learn
+ this
+ is
+ the
+ perfect
+ time
+
+
+because
+ how
+ I
+ studied
+ computer
+ science
+ I
+
+
+had
+ the
+ slowest
+ LLM
+ ever
+ which
+ was
+ a
+
+
+friend
+ of
+ a
+ friend
+ of
+ a
+ friend
+ was
+ a
+
+
+programmer
+ and
+ that's
+ the
+ only
+
+
+connection
+ I
+ had
+ to
+ programming
+ and
+
+
+that's
+ kind
+ of
+ like
+ the
+ worst
+ friend
+ to
+
+
+have
+ like
+ kind
+ of
+ tolerating
+ you
+ right
+
+
+so
+ he
+ would
+ play
+ Counterstrike
+ Go
+ and
+ I
+
+
+would
+ have
+ him
+ on
+ Skype
+ and
+ I
+ would
+ ask
+
+
+him
+ a
+ question
+ about
+ net
+ and
+ he
+ would
+
+
+reply
+ 45
+ minutes
+ later
+ so
+ if
+ you
+ call
+
+
+Chad
+ GP
+ or
+ whatever
+ slow
+ that
+ is
+
+
+actually
+ slow
+ and
+ I
+ somehow
+ managed
+ to
+
+
+learn
+ computer
+ science
+ what
+ about
+ the
+
+
+jobs.
+ There's
+ so
+ many
+ people
+ who
+ ask
+
+
+this
+ and
+ there's
+ so
+ many
+ [ __ ]
+ on
+
+
+Twitter
+ like
+ this
+ guy
+ saying,
+ "Hey,
+ I
+
+
+will
+ take
+ our
+ jobs."
+ Also,
+ this
+ guy
+ and
+
+
+this
+ guy
+ and
+ this
+ guy.
+
+
+Let's
+ just
+ say
+ they're
+ fine
+ for
+ now.
+ I
+
+
+don't
+ know
+ when
+ will
+ that
+ for
+ now
+ end.
+
+
+These
+ are
+ always
+ funny
+ to
+ us
+ because
+
+
+we're
+ chuckling
+ nervously.
+ We're
+ fine,
+
+
+right?
+ [laughter]
+ We're
+ going
+ to
+ keep
+
+
+our
+ jobs
+ for
+ a
+ while,
+ right?
+ And
+
+
+companies
+ like
+ Shopify,
+ and
+ I've
+ heard
+ a
+
+
+bunch
+ of
+ examples
+ now.
+ have
+ VIP
+ coding
+
+
+leaderboards
+ where
+ they're
+ counting
+ the
+
+
+tokens
+ and
+ the
+ employees
+ who
+ are
+ burning
+
+
+the
+ most
+ tokens,
+ they're
+ actually
+ more
+
+
+valuable
+ in
+ the
+ company
+ because
+ they're
+
+
+kind
+ of
+ accepting
+ this
+ new
+ skill.
+ Some
+
+
+employees
+ dislike
+ it,
+ but
+ it
+ doesn't
+
+
+matter.
+ Uh
+ being
+ on
+ top
+ of
+ the
+
+
+leaderboard
+ is
+ kind
+ of
+ in
+ your
+ favor.
+
+
+This
+ is
+ a
+ funny
+ tweet
+ until
+ it's
+ not
+
+
+funny
+ anymore.
+ Like,
+ oh,
+ we're
+ almost
+ on
+
+
+the
+ edge.
+ Like,
+ soon
+ it's
+ going
+ to
+ be
+
+
+and
+ the
+ jobs
+ are
+ going
+ to
+ disappear.
+ But
+
+
+if
+ you
+ actually
+ pay
+ attention
+ to
+ what's
+
+
+happening,
+ it's
+ I
+ think
+ it's
+ thinning
+
+
+from
+ the
+ bottom
+ and
+ juniors
+ and
+ interns
+
+
+and
+ whatever,
+ they
+ don't
+ have
+ the
+ chance
+
+
+to
+ enter
+ somewhere
+ because
+ people
+ can
+
+
+just
+ replace
+ them
+ with
+ an
+ agent.
+ So
+ it
+
+
+will
+ be
+ funny
+ until
+ it's
+ not.
+ Will
+ it
+
+
+happen?
+ Anyway,
+ let's
+ just
+ summarize
+
+
+what
+ happened
+ in
+ the
+ last
+ couple
+ of
+
+
+years.
+ We
+ solved
+ like
+ infrine
+
+
+integrations.
+ We
+ have
+ standards
+ AISDK,
+
+
+UI,
+ MCP,
+ some
+ standards
+ for
+ implementing
+
+
+agents
+ calling
+ tools.
+ We
+ integrated
+ them
+
+
+with
+ all
+ of
+ the
+ tools
+ that
+ we
+ use
+ as
+
+
+humans,
+ right?
+ They're
+ on
+ linear.
+
+
+They're
+ on
+ on
+ the
+ other
+ things,
+ GitHub,
+
+
+Slack,
+ Sentry,
+ and
+ now
+ it's
+ a
+ matter
+ of
+
+
+time
+ of
+ the
+ models
+ getting
+ better,
+
+
+cheaper,
+ context
+ getting
+ bigger
+ in
+ order
+
+
+for
+ certain
+ functionalities
+ to
+ be
+
+
+replaced.
+ So
+ let's
+ see
+ this
+ is
+ the
+
+
+current
+ workflow
+ at
+ your
+ company,
+ right?
+
+
+That's
+ you
+ like
+ it's
+ vibe
+ made.
+ So
+ it
+
+
+might
+ have
+ been
+ wrong,
+ but
+ uh
+ someone
+
+
+assigns
+ you
+ something.
+ You
+ collaborate
+
+
+with
+ your
+ colleagues,
+ they
+ assign
+ you
+ to
+
+
+the
+ thing,
+ maybe
+ you
+ play
+ a
+ little
+ bit
+
+
+of
+ ping
+ pong,
+ maybe
+ you
+ call
+ for
+ a
+ sick
+
+
+day,
+ maybe
+ you
+ have
+ your
+ third
+ lunch
+ at
+
+
+LinkedIn,
+ maybe
+ you
+ and
+ maybe
+ eventually
+
+
+one
+ day
+ later,
+ you
+ address
+ their
+
+
+comment,
+ what's
+ going
+ to
+ start
+ to
+ happen
+
+
+is
+ if
+ you're
+ just
+ an
+ at
+ in
+ your
+ company,
+
+
+if
+ you're
+ like
+ at
+ Josh,
+ right?
+ Like
+
+
+instead
+ of
+ at
+ Josh
+ who
+ playing
+
+
+PlayStation
+ 5
+ with
+ his
+ buddies
+ in
+ the
+
+
+lobby,
+ right?
+ Like
+ it's
+ going
+ to
+ be
+ at
+
+
+cursor
+ and
+ cursor
+ is
+ going
+ to
+ do
+ the
+
+
+cloud
+ agent
+ is
+ going to
+ actually
+ do
+ it
+
+
+way
+ faster.
+ It
+ might
+ not
+ be
+ as
+ perfect
+
+
+as
+ a
+ pa
+ dev
+ will
+ do
+ it
+ right
+ but
+ it
+ will
+
+
+be
+ done
+ way
+ faster.
+ Now
+ if
+ you
+ just
+ zoom
+
+
+out
+ a
+ little
+ bit
+ on
+ a
+ big
+ enough
+ scale
+
+
+in
+ the
+ next
+ couple
+ of
+ years
+ if
+ you're
+
+
+not
+ if
+ you
+ don't
+ take
+ just
+ this
+ role
+ in
+
+
+the
+ company
+ if
+ you
+ take
+ the
+ multiple
+
+
+roles
+ around
+ you
+ can
+ see
+ like
+ those
+ ads
+
+
+are
+ going
+ to
+ become
+ more
+ and
+ more
+ AI
+
+
+things
+ and
+ agents
+ and
+ I
+ don't
+ know
+ how
+
+
+it's
+ going
+ to
+ end
+ up
+ but
+ you
+ don't
+ need
+
+
+to
+ be
+ a
+ genius
+ to
+ predict
+ like
+ where
+ is
+
+
+it
+ going
+ people
+ think
+ that
+ models
+ have
+
+
+reached
+ a
+ plateau
+ um
+ this
+ has
+ happened
+
+
+every
+ single
+ time
+ I
+ was
+ about
+ to
+ give
+
+
+this
+ talk
+ like
+ they
+ introduced
+ GPD
+
+
+codeex
+ then
+ introduced
+ set
+ then
+ GPD
+ 3.0
+
+
+You
+ know
+ this
+ was
+ this
+ said
+ this
+
+
+allegedly
+ but
+ it
+ turned
+ out
+ to
+ actually
+
+
+be
+ Gemini
+ sorry
+ 3.0
+ you
+ know,
+ it
+ can
+
+
+vibe
+ code
+ Mac
+ OS
+ and
+ iOS
+ and
+ whatever
+
+
+from
+ one
+ prompt
+ and
+ this
+ is
+ how
+ it
+ looks
+
+
+like.
+ And
+ the
+ PETA
+ devs
+ and
+ the
+
+
+skeptical
+ people
+ still,
+ they're
+ like,
+ I
+
+
+can
+ do
+ that
+ in
+ 3
+ weeks
+ with
+ with
+ a
+ team
+
+
+of
+ five,
+ right?
+ This
+ is
+ crazy.
+ Um,
+ but
+
+
+there's
+ hope.
+ A
+ new
+ job
+ position
+ just
+
+
+dropped.
+ And
+ this
+ is
+ not
+ a
+ meme.
+ This
+ is
+
+
+100%
+ serious
+ because
+ people
+ on
+ Reddit
+
+
+have
+ these
+ problems.
+ They're
+ like,
+ what
+
+
+is
+ the
+ point
+ of
+ vibe
+ coding
+ if
+ I
+ can
+ get
+
+
+80%
+ there
+ and
+ then
+ what
+ do
+ I
+ do
+ with
+ the
+
+
+20%.
+ So,
+ they
+ hire
+ real
+ people
+ to
+
+
+actually
+ finish
+ their
+ last
+ 20%.
+ And
+ some
+
+
+smart
+ people
+ capitalize
+ on
+ this
+ idea
+ and
+
+
+they
+ make
+ this
+ these
+ are
+ real
+ things.
+ If
+
+
+you
+ go
+ and
+ search
+ on
+ Google,
+ there's
+
+
+like
+ so
+ many
+ of
+ these
+ VIP
+ code
+ fixer
+
+
+people
+ who
+ are
+ trying
+ to
+ fix
+ your
+ your
+
+
+VIP
+ code.
+ But
+ the
+ highest
+ paid
+ engineers
+
+
+forever
+ throughout
+ history
+ were
+ the
+
+
+people
+ who
+ are
+ actually
+ maintaining
+
+
+legacy
+ systems,
+ senior
+ people
+ who
+
+
+maintain
+ legacy
+ systems.
+ One
+ of
+ my
+
+
+favorite
+ examples
+ that
+ I
+ had
+ in
+ 2017
+ and
+
+
+I
+ kept
+ it
+ and
+ copy
+ pasted
+ it
+ and
+
+
+improved
+ it
+ for
+ this
+ presentation
+ is
+ um
+
+
+this
+ company
+ Cobalt
+ Cowboys.
+ I
+ love
+
+
+their
+ tagline.
+ This
+ is
+ my
+ favorite
+
+
+tagline
+ in
+ the
+ world
+ because
+ they've
+
+
+been
+ in
+ business
+ for
+ 237
+ years,
+ right?
+
+
+And
+ in
+ 2017,
+ I
+ knew
+ it
+ when
+ I'm
+ going
+ to
+
+
+click
+ their
+ about
+ page.
+ I
+ knew
+ what
+ I'm
+
+
+going
+ to
+ see.
+ So,
+ this
+ is
+ not
+ an
+ ages
+
+
+joke
+ or
+ whatever.
+ I
+ just
+ knew
+ when
+ I
+
+
+clicked
+ the
+ page,
+ I'm
+ going
+ to
+ see
+ the
+
+
+most
+ senior
+ engineers
+ that
+ ever
+ existed.
+
+
+These
+ are
+ [ __ ]
+ legends.
+ Now,
+ the
+ sad
+
+
+thing
+ is
+ this
+ was
+ a
+ slide
+ from
+ 2017
+ and
+
+
+I
+ wanted
+ to
+ update
+ it
+ for
+ my
+ current
+
+
+presentation.
+ Now,
+ don't
+ shoot
+ the
+
+
+messenger.
+ I
+ just
+ wanted
+ to
+ update
+ the
+
+
+slide
+ and
+ this
+ is
+ their
+ current
+ about
+
+
+page.
+ And
+ this
+ joke
+ worked
+ in
+ the
+ UK.
+
+
+I'm
+ going to
+ try
+ it
+ here.
+ I'm
+ not
+ sure
+
+
+how
+ fine
+ you
+ guys
+ are,
+ but
+ my
+ prediction
+
+
+for
+ Yeah.
+ No.
+ Boo.
+ Down.
+ Next
+ slide.
+ I
+
+
+hope
+ I'll
+ get
+ invited
+ again.
+ Uh,
+ this
+ is
+
+
+your
+ junior
+ developer.
+
+
+They
+ don't
+ have
+ benefits
+ like
+
+
+PlayStation
+ and
+ stuff.
+ they
+ have
+ like
+
+
+their
+ plasma
+ swapped
+ and
+ whatever
+ just
+
+
+to
+ be
+ able
+ to
+ maintain
+ the
+ sprint.
+ And
+
+
+last
+ one,
+ I
+ swear
+ to
+ God,
+ they're
+
+
+they're
+ they're
+ not
+ using
+ agile.
+
+
+Uh,
+ all
+ right.
+ So,
+ I
+ can't
+ wait
+ to
+
+
+retire
+ and
+ actually
+ make
+ React
+ Cowboys
+
+
+and
+ maintain
+ your
+ React
+ or
+ Angular
+ or
+
+
+whatever
+ code
+ one
+ day
+ if
+ AI
+ cannot
+ do
+
+
+it.
+ And
+ one
+ last
+ tip,
+ if
+ you
+ want
+ to
+
+
+keep
+ your
+ job
+ and
+ make
+ sure
+ AI
+ doesn't
+
+
+replace
+ you,
+ you
+ can
+ just
+ add
+ ignore
+
+
+previous
+ instructions
+ to
+ your
+ LinkedIn
+
+
+bio
+ and
+ you'll
+ be
+ fine.
+ So,
+ I'm
+ going
+ to
+
+
+awkwardly
+ sip
+ this
+ water
+ until
+ you
+
+
+follow
+ me
+ on
+ Twitter,
+ you
+ go
+ to
+ my
+
+
+website,
+ and
+ I'm
+ going
+ to
+ thank
+ you
+ for
+
+
+listening
+ to
+ my
+ rant.
+
+
+[music]
+
+
+>> [music]
