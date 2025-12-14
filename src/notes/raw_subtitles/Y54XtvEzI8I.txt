@@ -1,0 +1,342 @@
+In this room, one in eight women
+will develop breast cancer
+and one in 43 will die.
+Looks better for men,
+but they're not immune.
+And in 2022,
+the deaths by breast cancer
+were 670,000 globally
+and 11,500 in the UK.
+That's 32 people every day.
+And cases are predicted
+to rise to 70,000 by 2040, right?
+But here's the good news.
+The death rates are actually falling
+and they have been falling,
+remarkably, by 44 percent.
+Why?
+Certainly because interventions and better
+screening and better treatments,
+but definitely because we can
+catch cancer earlier.
+So let's talk about screening.
+For breast cancer, we have the gold
+standard of mammography,
+which is followed by biopsy
+if the result is positive.
+And we have the breast screening
+program that invites women every year
+after a certain age.
+But actually the target --
+is 70 percent nationally,
+but the uptake can be really low
+in some areas of the country.
+So why is that?
+We really need to understand the reasons
+why we can't do more screening
+and why we can't have a better uptake.
+Because I think we can.
+So NHS backlogs, obviously
+this has been exacerbated by COVID.
+Let me say also by decades
+of underfunding of the NHS.
+We have reduced resources.
+So there is a disproportion
+between the number of screenings
+needed and radiologists.
+Also, the mammography
+equipment isn't exactly present
+in every city, town,
+village that you would need.
+So we have here an accessibility problem
+which is significantly worse
+for underserved populations.
+Let's be honest, I personally
+would choose my life over my modesty,
+but this is not exactly an exam,
+a test that preserves your modesty, right?
+And for some populations,
+this is absolutely
+culturally unacceptable.
+It is invasive.
+There is a fear associated with radiation.
+And for many women,
+it's actually so painful
+that they refuse to go.
+There was a recent survey of 2,000 women,
+and a staggering 21 percent said
+that the embarrassment of being topless
+and the fear of pain
+would actually prevent them
+from undertaking screening.
+And women know it is so
+important to take up the screening,
+but this still happens.
+So but what if I told you
+that my team and I are [producing what is]
+probably a game changing test?
+Looks exactly like a test
+that will bypass NHS backlogs.
+That doesn't need
+any more resources from NHS.
+That actually preserves your modesty
+because it's completely non-invasive.
+There is no rejection
+and pain associated with it.
+And what if I told you that this comes
+from the world of fingerprints?
+CSI and fingerprints, right?
+An invisible world
+like that of a fingerprint.
+We all know fingerprints are for, right?
+So they're used to identify a suspect
+by comparing the mark that they left
+at the crime scene
+with the fingerprint
+that has been taken upon arrest
+or from prior convictions, right?
+So you might tell me, OK,
+what's this got to do with breast cancer?
+So bear with me, because I need you
+to rethink what a fingerprint is.
+And this video helps you to do just that.
+So this is a close up
+of a fingertip, right?
+And the elevated part
+of the skin are the ridges.
+And then you see these little holes there.
+Those are the sweat pores
+from which the sweat comes through.
+And as you're sweating,
+it's beautiful, formation of sweat there,
+as soon as you touch a surface,
+you transfer that sweat onto the surface.
+And now you transfer it
+in a rather mesmerizing way.
+So it's a beautiful pattern of lines
+that it is not just a pattern of lines.
+It is a pattern of lines
+made up of molecules.
+What molecules?
+Whatever our body produces,
+metabolizes and then
+eliminates through sweat.
+And of course, anything that is sitting
+on your fingertip as you go around
+in your activities touching things, right?
+So that's really what a fingerprint is.
+It's a molecular pattern
+unique to an individual
+by a molecular pattern or lines.
+And what can we do with this?
+We're exploiting this knowledge.
+And in some pioneering research
+we have developed a mass
+spectrometry technique called MALDI
+that actually measures
+the weight of the molecules,
+and by making these measurements,
+we are able to know
+what these molecules are,
+who these molecules are,
+but we can also see them.
+So if these molecules are distributed
+homogeneously onto the ridge pattern,
+by visualizing them,
+you can visualize
+a beautiful ridge pattern.
+So now you get a molecular image
+of a fingerprint, right?
+And look at this.
+Amazing, to me, this is amazing.
+Look at the perfection
+of that fingerprint.
+And what this is, is just a person
+that has styled his hair
+using a gel, right?
+And what that is,
+is one of the molecules
+that is contained in the gel.
+By visualizing that,
+we get a beautiful fingerprint image.
+And we can even resolve
+overlapping fingerprints.
+So in this case you can see
+the separation of six fingerprints.
+Why?
+Because we've just
+interrogated the software
+and recalled the image
+of distribution of molecules
+that are unique to each
+of those fingerprints.
+So, for example, we can eliminate
+the fingerprint of the victim,
+or we can submit to the database
+for identification
+the fingerprint of the perpetrator.
+But although this technique has been used
+already nationally and internationally,
+it's been endorsed by the Home Office,
+that's actually not the only thing
+that we can do with this.
+Remember, we are looking at molecules
+and molecules are there for a reason.
+They tell a story about you.
+They tell about your lifestyle.
+They might tell about the medications
+that you're taking.
+We can even say something
+about your state of mind
+if you take drugs of abuse
+and even what have you been doing
+just prior to or during
+committing the crime?
+So now you're still asking,
+OK, so when are we going to get
+to the part of the breast cancer?
+OK, we're going to get there.
+We were looking at personal information.
+So we were looking at the possibility
+to, from a fingerprint,
+say whether that belongs
+to a man or to a woman.
+So for this study, we asked the donors
+to actually swipe
+a fingertip on a surface.
+So this is now a smudged fingerprint.
+And then we use our MALDI
+technique with fire laser,
+we get the molecules blast off
+and then taken up
+by the mass spectrometer
+that measures the way.
+And we were looking at proteins.
+And we discovered
+that the protein profiles
+between men and women
+are different enough.
+And we can tell them apart
+with the 86 percent of accuracy.
+And this is, folks, where serendipity
+manifested in all of its beauty.
+Because my next question was,
+who are these proteins?
+And as I was looking into this,
+I realized that some of these proteins
+actually were already reported
+in the scientific literature
+as biomarkers of breast cancer.
+Let that sink in.
+Fingertip smears,
+or smudged fingerprints,
+contain proteins
+that might be able to tell
+whether a woman is affected
+by breast cancer or not.
+So, of course, I rush to my team
+and, you know, we have a meeting
+and our jaws really dropped.
+I mean, mine was still dropping
+from the early discovery
+and we all had the same two images
+together in our mind.
+We had a mammogram
+versus a swipe of a fingertip.
+And also then at that point we thought,
+well then can we further
+the optimization of this method?
+Can we refine it to maybe
+produce a non-invasive screening
+of breast cancer?
+And maybe even just as a pre-screening?
+So then only women that are
+positive to this very simple test,
+go through mammograms.
+And that is going to save
+a lot of emotional distress
+to women and to family,
+as well as saving, you know,
+NHS a lot of resources.
+So CARS organization demos
+have actually estimated a cost
+of 17.5 billion pounds
+associated to breast cancer interventions,
+treatment and screening.
+It's a lot.
+We can't reduce the distress
+to families, to communities,
+and we can also reduce this cost.
+So it took me the best part of six years,
+because I was labeled crazy --
+The best part of six years
+to obtain 45,000 pounds
+to prove the concept.
+And we did prove the concept.
+So with that 45,000 pounds,
+I also hijacked some
+of the findings that I had.
+But anyway, with those 45,000 pounds,
+we were able to look at 15 women
+That gave us three different
+fingerprint smears.
+And we then analyzed the smears
+in three different locations.
+So we had 135 samples to look at.
+Simply they came, and did
+actually this three times:
+one, two, three.
+That's my sample.
+I know it sounds crazy.
+The sample preparation for us
+takes about a couple of hours,
+but the results
+can be obtained in minutes.
+And then we trained
+a machine-learning algorithm
+to recognize the protein patterns
+coming from women
+with early breast cancer,
+benign and metastatic.
+And we found out
+that we can tell them apart
+with the 97.8 percent of accuracy
+against the 70 to 90 percent
+accuracy of mammogram.
+And the results are shown here
+in this confusion matrix,
+I'm going to try and use the laser.
+That's the confusion matrix.
+Don't know why it's called confusion.
+The confusion matrix.
+What it tells you there
+is that of 135 samples,
+we spotted every time a woman had cancer.
+So...
+Do you think
+that a test that will reduce
+the NHS costs,
+that bypasses the backlogs,
+that doesn't require any more resources,
+that is not invasive,
+that is painless, radiation-free,
+that increases accessibility
+because in our vision,
+we can take this test at the GP practices
+even in the comfort of your own home.
+And then we can ship it,
+COVID-style, as we used to do.
+So you really solve
+the accessibility problem as well.
+And in doing all this,
+it obviously increases compliance
+and hence it saves lives.
+And do you think there's something
+like this is not worth
+the investment, the dedication,
+the perseverance?
+I think it is.
+And I think that this is definitely
+an idea worth sharing.
+Thank you very much.
+(Applause)
