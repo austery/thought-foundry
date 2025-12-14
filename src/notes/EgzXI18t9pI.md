@@ -16,7 +16,7 @@ products_models: []
 media_books: []
 date: 2025-08-04
 author: Lei
-speaker: 唐石峻
+speaker: Shijun Tang
 Series: null
 channel: null
 draft: true
