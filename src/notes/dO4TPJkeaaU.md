@@ -4,56 +4,39 @@ summary: "OpenAI 研究员 Jack Rae 在斯坦福 MLSys 研讨会上深入探讨�
 source: https://www.youtube.com/watch?v=dO4TPJkeaaU
 area: "tech-insights"
 speaker : Lei
-category: "technology"
+category : "technology"
 date: 2023-02-27
-project:
-
-* "ai-impact-analysis"
-* "systems-thinking"
-
+project :
+    - ai-impact-analysis
+    - systems-thinking
 tags:
-
-* "compression"
-* "generalization"
-* "minimum-description-length"
-* "generative-models"
-* "scaling-laws"
+  - "compression"
+  - "generalization"
+  - "minimum-description-length"
+  - "generative-models"
+  - "scaling-laws"
 
 people:
 
-* "Jack Rae"
-* "Michael"
-* "Ivonica"
-* "Aristotle"
-* "William of Ockham"
-* "Ray Solomonoff"
-* "John Searle"
-* "Claude Shannon"
-* "Satya Nadella"
-* "Sundar Pichai"
-* "Ted Chiang"
-* "Marcus Hutter"
-* "Susan Zhang"
-
 companies_orgs:
 
-* "Stanford"
-* "OpenAI"
-* "FAIR"
+ - "Stanford"
+ - "OpenAI"
+ - "FAIR"
 
 products_models:
 
-* "Llama"
-* "AlphaZero"
-* "BERT"
-* "GPT-2"
-* "S4"
-* "NNCP"
-* "OPT-175B"
+- "Llama"
+- "AlphaZero"
+- "BERT"
+- "GPT-2"
+- "S4"
+- "NNCP"
+- "OPT-175B"
 
 media_books:
 
-* "The New Yorker"
+-  "The New Yorker"
 ---
 
 
