@@ -338,7 +338,7 @@ status: evergreen
 <details>
 <summary>Original English</summary>
 **Stephen:** Why did you choose to do this? All the things you could have done with your life.
-</deepen>
+</details>
 
 **Allison Wood Brooks：** 是啊，人生真是奇妙，不是吗？我经常思考那些未曾选择的道路。但我很高兴能走上这条路。我在纽约州北部的一个小镇上的一个小湖边长大，那是个非常美丽的地方。我热爱运动，尤其是团队运动。我从小就珍视女性友谊。可能对我影响最大的是，我有一个同卵双胞胎姐妹。我认为我刚才描述的所有事情，要么表明了我有多么热爱对话，要么塑造了我对对话的热爱。但无论如何，我上大学时就对理解人类及其行为产生了浓厚的兴趣。当我到哈佛时，我意识到，哇，有像社会心理学和传播学这样的整个领域，它们声称是关于沟通的，但却没人费心去真正转录真实的对话，并进行大规模研究。所以，这就是我过去15年一直在做的事情。
 
