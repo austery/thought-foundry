@@ -1,0 +1,13645 @@
+If
+ I'm
+ being
+ honest
+ with
+ myself,
+ I
+ think
+
+
+we're
+ ahead
+ of
+ where
+ I
+ thought
+ we
+ could
+
+
+go.
+ We're
+ not
+ really
+ building
+ a
+ model
+
+
+anymore.
+ I
+ think
+ we're
+ really
+ building
+ a
+
+
+system
+ at
+ this
+ point.
+ What
+ might
+ be
+
+
+happening
+ instead
+ is
+ kind
+ of
+ a
+ shift
+ in
+
+
+paradigm
+ where
+ before
+ we
+ were
+ kind
+ of
+
+
+scaling
+ in
+ the
+ data
+ unlimited
+ regime,
+
+
+and
+ we're
+ kind
+ of
+ shifting
+ more
+ to
+ a
+
+
+data
+ limited
+ regime,
+ which
+ actually
+
+
+changes
+ a
+ lot
+ of
+ the
+ research
+ and
+ how
+ we
+
+
+think
+ about
+ problems.
+ I
+ don't
+ really
+ see
+
+
+an
+ end
+ in
+ sight
+ for
+ for
+ that
+ kind
+ of
+
+
+line
+ of
+ work
+ to
+ continue
+ giving
+ us
+
+
+progress.
+
+
+>> Hi,
+ I'm
+ Matt
+ Turk.
+ Welcome
+ to
+ the
+ Matt
+
+
+podcast.
+ My
+ guest
+ today
+ is
+ Sebastian
+
+
+Bourjou,
+ pre-training
+ lead
+ on
+ Gemini
+ 3
+
+
+at
+ Google
+ DeepMind.
+ Sebastian
+ is
+ one
+ of
+
+
+the
+ top
+ AI
+ researchers
+ in
+ the
+ world
+ and
+
+
+a
+ member
+ of
+ the
+ Metas
+ list.
+ And
+ this
+ is
+
+
+a
+ particularly
+ special
+ episode
+ because
+
+
+it's
+ his
+ first
+ podcast
+ ever.
+ We
+ talked
+
+
+about
+ how
+ Gemini
+ 3
+ is
+ built
+ under
+ the
+
+
+hood,
+ the
+ shift
+ from
+ an
+ infinite
+ data
+
+
+world
+ to
+ a
+ data
+ limited
+ regime,
+ how
+
+
+research
+ teams
+ at
+ DeepMind
+ are
+
+
+organized,
+ and
+ what's
+ next
+ for
+ AI.
+
+
+Please
+ enjoy
+ this
+ great
+ conversation
+
+
+with
+ Sebastian.
+
+
+Sebastian,
+ welcome.
+ Thank
+ you.
+ Hi.
+
+
+>> So,
+ I
+ was
+ hoping
+ to
+ start
+ uh
+ this
+
+
+conversation
+ with
+ this
+ tweet
+ from
+ oral
+
+
+viney
+ who's
+ the
+ VP
+ of
+ research
+ and
+ deep
+
+
+learning
+ at
+ Google
+ de
+ mind
+ the
+ Gemini
+
+
+co-lead
+ uh
+ who
+ said
+ when
+ Gemini
+ 3
+ came
+
+
+out
+ that
+ the
+ the
+ secret
+ behind
+ the
+ model
+
+
+uh
+ was
+ remarkably
+ simple
+ better
+
+
+pre-training
+ and
+ better
+ post-training
+
+
+which
+ uh
+ when
+ you
+ think
+ about
+ the
+ leap
+
+
+that
+ Gemini
+ 3
+ represented
+ over
+ the
+ prior
+
+
+state-of-the-art
+ sounds
+ remarkably
+
+
+modest.
+ Um,
+ so
+ I
+ was
+ curious
+ about
+ your
+
+
+perspective.
+ Is
+ it
+ as
+ simple
+ in
+ some
+
+
+ways
+ as
+ as
+ that?
+
+
+>> Yeah,
+ I'm
+ not
+ sure
+ it's
+ a
+ a
+ big
+ secret.
+
+
+At least
+ from
+ my
+ perspective,
+ this
+ seems
+
+
+quite
+ normal.
+ I
+ I
+ think
+ people
+ sometimes
+
+
+have
+ the
+ expectation
+ that
+ from
+ one
+
+
+Gemini
+ version
+ to
+ another,
+ there's
+ a
+ big
+
+
+thing
+ that
+ changes
+ and
+ that
+ that
+ really
+
+
+makes
+ a
+ big
+ difference.
+ In
+ my
+
+
+experience,
+ there's
+ maybe
+ one
+ or
+ two
+ of
+
+
+those
+ things
+ that
+ make
+ a
+ larger
+ than
+
+
+difference
+ than
+ other
+ things,
+ but
+ it's
+
+
+really
+ a
+ culmination
+ of
+ many
+ many
+
+
+changes
+ and
+ many
+ many
+ things
+ from
+ from
+ a
+
+
+very
+ large
+ team
+ that
+ actually
+ makes
+
+
+Gemini
+ 3
+ uh
+ so
+ much
+ better
+ than
+ than
+ the
+
+
+previous
+ generations
+ of
+ Gemini.
+ And
+ I
+
+
+think
+ this
+ is
+ probably
+ a
+ theme
+ that
+ will
+
+
+recur
+ later,
+ but
+ it's
+ really
+ a
+ large
+
+
+team
+ effort
+ that
+ that
+ comes
+ together
+ in
+
+
+a
+ release
+ like
+ Gemini
+ 3.
+ What
+ does
+ what
+
+
+does
+ that
+ tell
+ us
+ uh
+ in
+ terms
+ of
+ uh
+
+
+where
+ we
+ are
+ in
+ AI
+ progress?
+ What
+ sounds
+
+
+from
+ far
+ as
+ in
+ sort
+ of
+ turning
+ some
+
+
+knobs
+ gives
+ us
+ such
+ a
+ leap?
+ What
+ what
+
+
+does
+ that
+ mean
+ in
+ terms
+ of
+ uh
+ what
+ we
+
+
+can
+ expect
+ going
+ forward?
+
+
+>> There
+ there's
+ two
+ things.
+ The
+ the
+ first
+
+
+one
+ is
+ it's
+ still
+ remarkable
+ how
+ how
+
+
+much
+ progress
+ we're
+ able
+ to
+ achieve
+ in
+
+
+in
+ this
+ way
+ and
+ and
+ it's
+ not
+ really
+
+
+slowing
+ down.
+ There's
+ so
+ many
+ of
+ these
+
+
+knobs
+ and
+ so
+ many
+ improvements
+ that
+ that
+
+
+we
+ find
+ on
+ a
+ day-to-day
+ basis.
+ Yeah,
+
+
+almost
+ on
+ a
+ day-to-day
+ basis
+ that
+ that
+
+
+make
+ the
+ model
+ better.
+ So
+ that's
+ the
+
+
+first
+ point.
+ The
+ second
+ point
+ is
+ we're
+
+
+not
+ really
+ building
+ a
+ model
+ anymore.
+ I
+
+
+think
+ we're
+ really
+ building
+ a
+ system
+ at
+
+
+this
+ point.
+ People
+ have
+ sometimes
+ this
+
+
+view
+ that
+ we're
+ just
+ training
+ a
+ neural
+
+
+network
+ architecture
+ and
+ that's
+ it.
+ But
+
+
+it's
+ it's
+ really
+ the
+ entire
+ system
+
+
+around
+ the
+ network
+ as
+ well
+ that
+ that
+
+
+we're
+ building
+ collectively.
+ And
+ so
+
+
+that's
+ the
+ the
+ second
+ part.
+
+
+>> The
+ big
+ question
+ on
+ everybody's
+ mind
+ is
+
+
+um
+ what
+ does
+ that
+ mean
+ in
+ terms
+ of
+ uh
+
+
+actual
+ progress
+ towards
+ intelligence?
+
+
+And
+ we
+ don't
+ need
+ necessarily
+ to
+ go
+ into
+
+
+the
+ whole
+ AGI
+ thing
+ because
+ who
+ knows
+
+
+what
+ that
+ means
+ but
+ is
+ the
+ right
+ way
+ to
+
+
+think
+ about
+ this
+ this
+ kind
+ of
+ model
+
+
+progress
+ as
+ an
+ actual
+ path
+ towards
+
+
+intelligence
+ versus
+ uh
+ you
+ know
+ trying
+
+
+to
+ succeed
+ on
+ this
+ benchmark
+ or
+ that
+
+
+other
+ benchmark.
+ What
+ gives
+ you
+
+
+confidence
+ that
+ the
+ the
+ core
+ model
+ is
+
+
+getting
+ smarter?
+
+
+>> The
+ the
+ benchmarks
+ definitely
+ keep
+
+
+improving
+ and
+ and
+ if
+ you
+ look
+ at
+ at
+ the
+
+
+fronts
+ and
+ how
+ the
+ benchmarks
+ are
+ set
+
+
+up,
+ they
+ they
+ are
+ becoming
+ increasingly
+
+
+difficult.
+ And
+ even
+ for
+ for
+ me
+ who
+ has
+ a
+
+
+background
+ in
+ computer
+ science,
+ some
+ of
+
+
+the
+ questions
+ the
+ model
+ answers,
+ it
+
+
+would
+ take
+ me
+ a
+ significant
+ amount
+ of
+
+
+time
+ to
+ answer.
+ This
+ is
+ just
+ one
+ view.
+
+
+It's
+ the
+ benchmark
+ view.
+ And
+ and
+ there's
+
+
+some
+ amount
+ of
+ we
+ we
+ evaluate
+ those
+
+
+frequently
+ etc.
+ we're
+ being
+ very
+ careful
+
+
+about
+ holding
+ out
+ uh
+ the
+ test
+ set
+ but
+
+
+still
+ there's
+ some
+ fears
+ often
+ of
+ of
+
+
+overfitting
+ to
+ those
+ and
+ and
+ just
+
+
+benchmaxing
+ is
+ what
+ people
+ call
+ this
+ but
+
+
+that's
+ one
+ aspect
+ I
+ don't
+ think
+ those
+
+
+fears
+ are
+ very
+ founded
+ but
+ but
+ the
+
+
+second
+ aspect
+ and
+ that's
+ the
+ one
+ that
+
+
+really
+ fills
+ me
+ with
+ confidence
+ is
+ the
+
+
+amount
+ of
+ time
+ people
+ spend
+ using
+ the
+
+
+model
+ to
+ make
+ themselves
+ more
+ productive
+
+
+internally
+ is
+ is
+ increasing
+ over
+ time
+
+
+every
+ new
+ generation
+ of
+ models
+ is
+ pretty
+
+
+clear
+ the
+ model
+ can
+ do
+ new
+ things
+ and
+
+
+and
+ help
+ us
+ uh
+ in
+ our
+ research
+ in
+ our
+
+
+day-to-day
+ engineering
+ work
+ much
+ more
+ so
+
+
+than
+ the
+ previous
+ generation
+ of
+ models.
+
+
+So
+ that
+ aspect
+ should
+ give
+ us
+ confidence
+
+
+as
+ well
+ that
+ the
+ the
+ models
+ are
+ becoming
+
+
+more
+ capable
+ and
+ actually
+ are
+ doing
+ very
+
+
+useful
+ things
+ as
+ well.
+
+
+>> I'm
+ always
+ curious
+ as
+ a
+ as
+ an
+ AI
+
+
+researcher
+ who's
+ like
+ so
+ deep
+ into
+ the
+
+
+very
+ heart
+ of
+ all
+ of
+ this.
+ If
+ you
+ zoom
+
+
+out,
+ uh
+ are
+ you
+ are
+ you
+ still
+ surprised
+
+
+by
+ where
+ we
+ are?
+ Like
+ from
+ your
+
+
+perspective,
+ are
+ we
+ well
+ ahead
+ of
+ where
+
+
+you
+ thought
+ we
+ would
+ be
+ a
+ few
+ years
+ ago?
+
+
+Are
+ we
+ on
+ track?
+ Are
+ we
+ behind?
+
+
+Possibly.
+ I
+ think
+ it's
+ easy
+ to
+ say
+ we're
+
+
+on
+ track
+ in
+ hindsight.
+ I
+ think
+ if
+ if
+ I'm
+
+
+being
+ honest
+ with
+ myself,
+ I
+ think
+ we're
+
+
+ahead
+ of
+ of
+ where
+ I
+ thought
+ we
+ could
+ go.
+
+
+Um,
+ starting
+ work
+ on
+ LLMs
+ in
+ in
+ 2019
+ or
+
+
+2020,
+ it's
+ it's
+ kind
+ of
+ hard
+ to
+ believe
+
+
+uh
+ the
+ scale
+ of
+ everything
+ we're
+ doing,
+
+
+but
+ also
+ just
+ what
+ the
+ models
+ are
+
+
+capable
+ of
+ of
+ doing
+ today.
+ If
+ you
+ just
+
+
+if
+ you
+ kind
+ of
+ looked
+ at
+ scaling
+ laws
+
+
+back
+ then,
+ they
+ were
+ definitely
+ pointing
+
+
+uh
+ towards
+ that
+ direction.
+ And
+ some
+
+
+people
+ really
+ believe
+ those
+ deeply.
+ I
+
+
+I'm
+ not
+ sure
+ if
+ I
+ would
+ have
+ bet
+ a
+ lot
+
+
+on
+ on
+ that
+ actually
+ materializing
+ and
+
+
+and
+ being
+ where
+ we
+ are
+ today.
+ So
+ one
+
+
+interesting
+ question
+ that
+ follows
+ from
+
+
+this
+ is
+ where
+ where
+ does
+ that
+ take
+ us
+ if
+
+
+we
+ assume
+ the
+ same
+ or
+ if
+ we
+ assume
+ the
+
+
+same
+ kind
+ of
+ progress
+ we've
+ seen
+ in
+ the
+
+
+last
+ 5
+ years.
+ I
+ think
+ yeah
+ this
+ it's
+
+
+going
+ to
+ be
+ very
+ very
+ cool
+ what's
+ going
+
+
+to
+ happen
+ in
+ the
+ next
+ few
+ years
+ as
+ well.
+
+
+>> What
+ do
+ you
+ think
+ on
+ that
+ front?
+ Um
+ does
+
+
+that
+ mean
+ um
+ AI
+ comes
+ up
+ with
+ novel
+ uh
+
+
+scientific
+ discovery
+ I
+ wins
+ the
+ Nobel
+
+
+prize
+ like
+ what
+ where
+ where
+ do
+ you
+ think
+
+
+we
+ are
+ going
+ in
+ in
+ the
+ short
+ term
+ like
+
+
+sort
+ of
+ two
+ to
+ three
+ years
+
+
+>> I
+ think
+ yeah
+ that
+ that's
+ part
+ of
+ it
+ so
+
+
+on
+ on
+ the
+ science
+ side
+ uh
+ I
+ think
+ deep
+
+
+mind
+ historically
+ has
+ has
+ done
+ a
+ lot
+ of
+
+
+work
+ and
+ and
+ for
+ sure
+ there's
+ there's
+ a
+
+
+lot
+ of
+ work
+ in
+ that
+ direction
+ as
+ well
+ I
+
+
+think
+ we
+ will
+ be
+ able
+ to
+ to
+ make
+ some
+
+
+some
+ large
+ scientific
+ discoveries
+ in
+ the
+
+
+next
+ few
+ years
+ that's
+ one
+ side.
+ I
+ think
+
+
+on
+ the
+ other
+ side
+ is
+ in
+ my
+ day-to-day
+
+
+work
+ as
+ well
+ uh
+ both
+ research
+ and
+
+
+engineering.
+ I'm
+ very
+ excited
+ about
+ how
+
+
+those
+ we
+ can
+ use
+ those
+ models
+ to
+ to
+ make
+
+
+more
+ progress
+ but
+ also
+ to
+ to
+ better
+
+
+understand
+ the
+ systems
+ we're
+ building
+
+
+and
+ and
+ de
+ develop
+ our
+ own
+ understanding
+
+
+and
+ research
+ further.
+ Yeah,
+ there's
+ this
+
+
+um
+ big
+ theme
+ in
+ the
+ industry
+ about
+
+
+automation
+ of
+ uh
+ AI
+ research
+ and
+
+
+engineering
+ which
+ if
+ you
+ extrapolated
+
+
+leads
+ into
+ AI
+ 2027
+ kind
+ of
+ scenarios
+
+
+where
+ where
+ there's
+ a
+ discontinuity
+
+
+moment
+ just
+ at
+ a
+ very
+ pragmatic
+ level
+
+
+what
+ does
+ that
+ mean
+ using
+ AI
+ for
+ your
+
+
+own
+ work
+ today
+ and
+ what
+ do
+ you
+ think
+
+
+that's
+ going
+ to
+ mean
+ in
+ a
+ couple
+ of
+
+
+years
+
+
+>> I
+ think
+ it's
+ not
+ so
+ much
+ about
+
+
+automation
+ but
+ more
+ about
+ making
+ us
+ go
+
+
+faster
+ and
+ and
+ spending
+ more
+ of
+ our
+ time
+
+
+in
+ in
+ in
+ the
+ the
+ research
+ part
+ at
+
+
+slightly
+ maybe
+ higher
+ level.
+ A
+ lot
+ of
+
+
+the
+ day-to-day
+ work
+ in
+ in
+ research
+ on
+
+
+language
+ models
+ is
+ we
+ we
+ we're
+ dealing
+
+
+with
+ quite
+ complex
+ and
+ large
+ systems
+ on
+
+
+the
+ infrastructure
+ level.
+ So
+ actually
+
+
+quite
+ a
+ bit
+ of
+ time
+ is
+ dedicated
+ to
+ to
+
+
+running
+ experiments,
+ babysitting
+
+
+experiments,
+ analyzing
+ a
+ lot
+ of
+ data,
+
+
+collecting
+ results
+ and
+ and
+ then
+ the
+
+
+interesting
+ part
+ is
+ forming
+ hypothesis
+
+
+and
+ then
+ and
+ designing
+ new
+ experiments.
+
+
+And
+ so
+ the
+ last
+ two
+ parts
+ I
+ think
+ is
+
+
+something
+ where
+ where
+ we'll
+ be
+ very
+ much
+
+
+involved
+ in.
+ The
+ first
+ part
+ I
+ think
+
+
+especially
+ in
+ the
+ next
+ year
+ with
+ with
+
+
+more
+ agentic
+ workflows
+ being
+ enabled
+
+
+more
+ and
+ more
+ um
+ that
+ should
+ be
+ able
+ to
+
+
+to
+ really
+ accelerate
+ our
+ work
+ there.
+
+
+>> Is
+ your
+ sentiment
+ that
+ the
+ various
+
+
+frontier
+ AI
+ labs
+ are
+ effectively
+ all
+
+
+working
+ in
+ the
+ same
+ direction
+ sort
+ of
+
+
+doing
+ the
+ same
+ thing.
+ You
+ know,
+ one
+ one
+
+
+um
+ fantastic
+ but
+ uh
+ in
+ some
+ way
+
+
+perplexing
+ uh
+ thing
+ that
+ we
+ all
+
+
+experience
+ as
+ industry
+ participant
+
+
+observers
+ is
+ uh
+ this
+ uh
+ obvious
+
+
+phenomenon
+ of
+ like
+ every
+ week
+ or
+ other
+
+
+weeks
+ or
+ every
+ month
+ there
+ seems
+ to
+ be
+
+
+like
+ another
+ you
+ know
+ fantastic
+ model
+
+
+and
+ we
+ we're
+ completely
+ spoiled.
+ So
+
+
+Gemini
+ 3
+ just
+ came
+ out
+ uh
+ at
+ the
+ same
+
+
+time
+ like
+ two
+ hours
+ ago
+ literally
+ before
+
+
+we
+ were
+ recording
+ this
+ GBT
+ 5.2
+ came
+ out.
+
+
+What
+ do
+ you
+ make
+ uh
+ of
+ that
+ from
+ your
+
+
+perspective
+ and
+ how
+ do
+ you
+ think
+ that
+
+
+plays
+ out?
+ Is
+ is
+ anybody
+ going
+ to
+ break
+
+
+out
+ or
+ uh
+ effectively
+ the
+ uh
+ industry
+ is
+
+
+going
+ to
+ continue
+ with
+ like
+ the
+ handful
+
+
+of
+ top
+ labs
+ plus
+ some
+ neolabs
+ that
+ are
+
+
+appearing?
+
+
+>> Well,
+ the
+ first
+ question
+ there's
+
+
+definitely
+ similarities
+ between
+ what
+ the
+
+
+different
+ labs
+ work
+ on.
+ I
+ think
+ the
+ the
+
+
+base
+ technologies
+ are
+ kind
+ of
+ similar.
+ I
+
+
+might
+ be
+ surprised
+ if
+ if
+ we
+ went
+ all
+
+
+training
+ transformer
+ like
+ models
+ for
+
+
+example
+ in
+ terms
+ of
+ the
+ architecture
+
+
+side
+ but
+ then
+ there's
+ definitely
+
+
+specialization
+ I
+ think
+ happening
+ on
+ top
+
+
+of
+ that
+ and
+ different
+ like
+ maybe
+ tree
+ or
+
+
+yeah
+ branches
+ in
+ in
+ the
+ tree
+ of
+ research
+
+
+that
+ are
+ being
+ explored
+ and
+ exploited
+ by
+
+
+the
+ by
+ the
+ different
+ companies
+ I
+ think
+
+
+historically
+ for
+ example
+ deep
+ mind
+ has
+
+
+and
+ still
+ I
+ think
+ on
+ on
+ the
+ vision
+ and
+
+
+multimodal
+ side
+ we've
+ been
+ actually
+
+
+really
+ really
+ strong
+ and
+ that
+ continues
+
+
+to
+ be
+ the
+ case
+ today
+ and
+ and
+ shows
+ in
+
+
+both
+ how
+ people
+ use
+ the
+ model
+ but
+ also
+
+
+in
+ the
+ benchmarks
+ of
+ course
+ and
+ then
+
+
+yeah
+ the
+ things
+ like
+ reasoning
+ etc.
+ Um
+
+
+open
+ came
+ up
+ with
+ the
+ first
+ model
+ but
+ we
+
+
+also
+ had
+ the
+ strand
+ of
+ research
+ on
+ that.
+
+
+Um
+ so
+ there's
+ similarities
+ but
+ it's
+ it's
+
+
+not
+ exactly
+ exactly
+ the
+ same.
+ I
+ would
+
+
+say
+ for
+ the
+ second
+ question
+ I
+ don't
+ know
+
+
+if
+ I
+ have
+ a
+ good
+ answer.
+ One
+ thing
+
+
+that's
+ clear
+ is
+ to
+ make
+ progress
+ on
+ on
+ a
+
+
+model
+ like
+ Gemini
+ today
+ you
+ do
+ need
+ a
+
+
+very
+ large
+ team
+ and
+ and
+ a
+ lot
+ of
+ a
+ lot
+
+
+of
+ resources.
+ Now,
+ that
+ doesn't
+
+
+necessarily
+ mean
+ that
+ what
+ we're
+ doing
+
+
+today
+ is
+ optimal
+ in
+ in
+ any
+ form
+ and
+ and
+
+
+some
+ disruptive
+ research
+ could
+
+
+definitely
+ come
+ along
+ and
+ and
+ allow
+ a
+
+
+smaller
+ team
+ to
+ actually
+ take
+ over
+ in
+
+
+some
+ form.
+ This
+ is
+ one
+ of
+ the
+ reasons
+
+
+why
+ I
+ actually
+ enjoy
+ being
+ at
+ Google
+ so
+
+
+much
+ as
+ well
+ is
+ Google
+ has
+ this
+ history
+
+
+of
+ of
+ doing
+ more
+ explorative
+ research
+
+
+and
+ and
+ and
+ has
+ a
+ really
+ high
+ breadth
+ of
+
+
+that
+ research
+ and
+ and
+ that
+ continues
+ to
+
+
+be
+ the
+ case
+ uh
+ mostly
+ in
+ parallel
+ to
+
+
+Gemini.
+ But
+ we're
+ definitely
+ able
+ to
+
+
+also
+ utilize
+ that
+ and
+ and
+ bring
+ some
+ of
+
+
+those
+ advances
+ into
+ Gemini.
+ Mhm.
+ Are
+
+
+there
+ other
+ groups
+ uh
+ whether
+ at
+
+
+Deepmind
+ or
+ elsewhere
+ in
+ the
+ industry
+
+
+that
+ are
+ working
+ in
+ semi-secret
+ or
+
+
+complete
+ secret
+ in
+ post
+ transformers
+
+
+architecture
+ that
+ uh
+ and
+ one
+ day
+
+
+something
+ will
+ come
+ out
+ and
+ we'll
+ all
+ be
+
+
+surprised
+ is
+ that
+ is
+ that
+ are
+ there
+
+
+groups
+ like
+ that
+ in
+ the
+ industry?
+
+
+>> Uh
+ I
+ believe
+ so
+ there
+ there's
+ groups
+
+
+doing
+ research
+ on
+ on
+ the
+ model
+
+
+architecture
+ side
+ for
+ sure
+ within
+ Google
+
+
+and
+ within
+ deep
+ mind.
+ Whether
+ that
+
+
+research
+ will
+ pan
+ out,
+ it's
+ hard
+ to
+ say,
+
+
+right?
+ It
+ is
+ research.
+ So
+ very
+ few
+
+
+research
+ ideas
+ work
+ out.
+
+
+>> And
+ so
+ in
+ the
+ meantime,
+ the
+ core
+
+
+advantage
+ that
+ uh
+ one
+ company
+ may
+ have
+
+
+over
+ the
+ other
+ is
+ um
+ just
+ the
+ quality
+ of
+
+
+of
+ people.
+ In
+ the
+ case
+ of
+ Google,
+ I
+
+
+guess
+ the
+ vertical
+ integration
+ that
+
+
+tweet
+ from
+ oral
+ that
+ I
+ was
+ mentioning
+
+
+got
+ uh
+ retweeted
+ a
+ quot
+ tweeted
+ by
+ Demi
+
+
+Sasabis
+ and
+ he
+ was
+ saying
+ that
+ the
+ the
+
+
+the
+ real
+ real
+ secret
+ was
+ a
+ combination
+
+
+of
+ research
+ and
+ engineering
+ and
+ in
+
+
+frost.
+ Is
+ that
+ is
+ that
+ the
+ secret
+ sauce
+
+
+at
+ Google?
+ The
+ fact
+ that
+ you
+ guys
+ do
+ the
+
+
+whole
+ stack
+
+
+>> it
+ definitely
+ helps.
+ I
+ think
+ it's
+ it's
+
+
+an
+ important
+ part.
+ Um
+ research
+ versus
+
+
+engineering
+ is
+ also
+ interesting.
+ I
+ think
+
+
+over
+ time
+ that
+ boundary
+ has
+ blurred
+
+
+quite
+ a
+ lot
+ because
+ with
+ working
+ on
+
+
+these
+ very
+ large
+ systems
+ now
+ research
+
+
+really
+ looks
+ like
+ engineering
+ and
+ and
+
+
+vice
+ versa
+ and
+ I
+ think
+ that's
+ that's
+ a
+
+
+mindset
+ that
+ has
+ really
+ evolved
+ over
+ the
+
+
+last
+ few
+ years
+ at
+ deep
+ mind
+ especially
+
+
+where
+ maybe
+ there
+ was
+ a
+ bit
+ more
+ of
+ the
+
+
+traditional
+ research
+ mindset
+ before
+ and
+
+
+now
+ with
+ Gemini
+ it's
+ really
+ more
+ about
+
+
+research
+ engineering
+ the
+ infrastructure
+
+
+part
+ is
+ also
+ very
+ important
+ we
+ are
+
+
+building
+ these
+ super
+ complex
+ systems
+ so
+
+
+having
+ infrastructure
+ that's
+ reliable
+
+
+that
+ works
+ that's
+ scalable
+
+
+is
+ is
+ key
+ in
+ terms
+ of
+ of
+ not
+ slowing
+ the
+
+
+research
+ engineering
+ down.
+
+
+>> And
+ Gemini
+ 3
+ was
+ trained
+ on
+ TPUs,
+ right?
+
+
+Not
+ on
+ Nvidia
+ chips.
+ So,
+ it's
+ truly
+
+
+fully
+ integrated.
+ Okay.
+ So,
+ I'd
+ love
+ to
+
+
+uh
+ do
+ a
+ deep
+ dive
+ on
+ uh
+ Gemini
+ 3.
+ But
+
+
+before
+ we
+ do
+ that,
+ uh
+ let's
+ talk
+ about
+
+
+you
+ a
+ little
+ bit.
+ So,
+ you
+ are
+ the
+
+
+pre-training
+ lead
+ uh
+ on
+ Gemini
+ 3.
+ What
+
+
+does
+ that
+ mean?
+ And
+ then,
+ uh
+ let's
+ go
+
+
+into
+ your
+ your
+ background
+ in
+ your
+ story.
+
+
+I
+ I'm
+ one
+ of
+ the
+ the
+ Gemini
+ pre-training
+
+
+leads.
+ So
+ what
+ this
+ entails
+ it's
+ a
+ mix
+
+
+of
+ of
+ different
+ things.
+ So
+ part
+ of
+ my
+
+
+job
+ is
+ is
+ actual
+ research.
+ So
+ trying
+ to
+
+
+to
+ make
+ the
+ models
+ better.
+ But
+ these
+
+
+days
+ it's
+ it's
+ less
+ running
+ experiments
+
+
+myself,
+ but
+ help
+ design
+ experiments
+ and
+
+
+and
+ review
+ results
+ with
+ with
+ people
+ on
+
+
+the
+ team.
+ So
+ So
+ that's
+ the
+ the
+ first
+
+
+part.
+ The
+ the
+ second
+ part,
+ which
+ is
+
+
+quite
+ fun,
+ is
+ more
+ of
+ the
+ the
+
+
+coordination
+ and
+ integration.
+ So
+ it's
+ a
+
+
+fairly
+ large
+ team
+ at
+ this
+ point.
+ Um
+ it's
+
+
+a
+ bit
+ hard
+ to
+ quantify
+ exactly
+ but
+ maybe
+
+
+150
+ 200
+ people
+ work
+ on
+ a
+ day-to-day
+ on
+
+
+on
+ the
+ pre-training
+ side
+ between
+ data
+
+
+model
+ infrastructure
+ evolves
+ and
+ so
+
+
+coordinating
+ the
+ work
+ of
+ all
+ of
+ these
+
+
+people
+ into
+ something
+ that
+ we
+ can
+ build
+
+
+together
+ is
+ actually
+ quite
+ complicated
+
+
+and
+ and
+ takes
+ quite
+ a
+ bit
+ of
+ of
+ time
+ um
+
+
+especially
+ time
+ to
+ do
+ well.
+ To
+ me,
+ this
+
+
+is
+ super
+ important
+ because
+ actually
+
+
+being
+ able
+ to
+ get
+ progress
+ out
+ of
+
+
+everyone
+ is
+ is
+ really
+ what
+ makes
+ us
+ make
+
+
+the
+ most
+ progress
+ rather
+ than
+ enabling
+
+
+maybe
+ one
+ or
+ two
+ or
+ small
+ group
+ of
+ 10
+
+
+people
+ to
+ to
+ run
+ ahead
+ of
+ everyone
+ else.
+
+
+That
+ might
+ work
+ for
+ a
+ short
+ period
+ of
+
+
+time,
+ but
+ over
+ longer
+ periods
+ of
+ time,
+
+
+what's
+ really
+ been
+ successful
+ for
+ us
+ is
+
+
+is
+ being
+ able
+ to
+ integrate
+ the
+ work
+ from
+
+
+for
+ many
+ many
+ people.
+
+
+>> So,
+ in
+ terms
+ of
+ your
+ of
+ your
+ personal
+
+
+background,
+ I'm
+ uh
+ I'm
+ always
+ curious
+
+
+where
+ where
+ did
+ you
+ grow
+ up?
+ what
+ kind
+
+
+of
+ you
+ know
+ kid
+ and
+ teenager
+ where
+ where
+
+
+you
+ was
+ trying
+ to
+ like
+ reverse
+ engineer
+
+
+like
+ you
+ know
+ this
+ this
+ top
+ AI
+
+
+researchers
+ uh
+ where
+ where
+ do
+ they
+ come
+
+
+from
+ and
+ how
+ did
+ they
+ become
+ or
+ why
+ did
+
+
+you
+ become
+ uh
+ to
+ to
+ to
+ to
+ be
+ who
+ you
+
+
+are?
+
+
+>> I
+ I
+ grew
+ up
+ a
+ bit
+ all
+ over
+ the
+ place
+ in
+
+
+Europe.
+ I
+ moved
+ around
+ quite
+ a
+ bit.
+ So
+ I
+
+
+was
+ actually
+ born
+ in
+ the
+ Netherlands
+ uh
+
+
+and
+ I
+ moved
+ when
+ I
+ was
+ seven
+ uh
+ to
+
+
+Switzerland.
+ So
+ so
+ my
+ dad
+ is
+ from
+
+
+Switzerland
+ and
+ and
+ my
+ mom
+ is
+ from
+ from
+
+
+Germany.
+ So
+ I
+ did
+ most
+ of
+ my
+ school
+ um
+
+
+and
+ the
+ beginning
+ of
+ my
+ high
+ school
+ in
+
+
+in
+ Switzerland
+ mostly
+ in
+ in
+ French
+ and
+
+
+also
+ in
+ German
+ and
+ parts
+ and
+ then
+ at
+ age
+
+
+15
+ I
+ think
+ I
+ moved
+ to
+ Italy
+ uh
+ where
+ I
+
+
+finished
+ my
+ high
+ school
+ till
+ around
+ uh
+
+
+uh
+ when
+ I
+ was
+ 19.
+ And
+ at
+ that
+ point
+ I
+
+
+was
+ going
+ to
+ go
+ to
+ the
+ ETH
+ in
+ Zurich
+ to
+
+
+do
+ my
+ studies
+ but
+ I
+ think
+ just
+ by
+ random
+
+
+events
+ one
+ morning
+ I
+ I
+ just
+ looked
+ up
+
+
+the
+ the
+ top
+ universities
+ in
+ some
+ kind
+ of
+
+
+ranking
+ and
+ I
+ saw
+ Cambridge
+ was
+ at
+ the
+
+
+top.
+ So
+ I
+ I
+ thought
+ I'll
+ just
+ apply.
+ Why
+
+
+not?
+ And
+ yeah,
+ few
+ months
+ later
+ I
+ got
+
+
+the
+ acceptance
+ letter.
+ So
+ I
+ I
+ decided
+ to
+
+
+to
+ move
+ to
+ Cambridge
+ uh
+ where
+ I
+ did
+ my
+
+
+undergrad
+ and
+ masters
+ in
+ the
+ computer
+
+
+lab.
+
+
+>> Yeah.
+ And
+ you
+ were
+ uh
+ growing
+ up
+ you
+
+
+were
+ just
+ a
+ super
+ kind
+ like
+ math
+ strong
+
+
+uh
+ kind
+ of
+ a
+ kind
+ of
+ kid,
+ computer
+
+
+science
+ kind
+ of
+ a
+ kind
+ of
+ kid.
+
+
+>> My
+ dad
+ has
+ a
+ technical
+ uh
+ background.
+ So
+
+
+I
+ remember
+ some
+ when
+ I
+ was
+ 10
+ or
+ 11
+
+
+starting
+ to
+ program
+ a
+ bit
+ with
+ him
+ and
+
+
+and
+ and
+ learning
+ and
+ I
+ I
+ I
+ kind
+ of
+
+
+always
+ liked
+ that.
+ Um
+ and
+ then
+ I
+ always
+
+
+had
+ like
+ easiness
+ in
+ in
+ math
+ and
+ and
+
+
+science
+ at
+ school.
+ Um
+ I
+ remember
+ never
+
+
+having
+ to
+ really
+ study
+ for
+ math
+ exams
+
+
+but
+ always
+ doing
+ quite
+ well.
+ Um
+ that
+
+
+definitely
+ changed
+ uh
+ at
+ university.
+ Uh
+
+
+but
+ that
+ was
+ that
+ was
+ uh
+ yeah
+ that
+ was
+
+
+my
+ my
+ high
+ school
+ experience.
+
+
+>> Great.
+ and
+ what
+ was
+ your
+ uh
+ path
+ from
+
+
+school
+ into
+ where
+ you
+ are
+ today?
+
+
+>> Yeah,
+ so
+ that's
+ again
+ that's
+ uh
+ it
+ was
+ a
+
+
+bit
+ of
+ a
+ lucky
+ moment
+ I
+ would
+ say.
+ Um
+
+
+one
+ of
+ the
+ lectures
+ we
+ had
+ uh
+ in
+ my
+
+
+masters
+ was
+ someone
+ who
+ was
+ also
+ a
+
+
+researcher
+ at
+ Deep
+ Mind
+ and
+ I
+ just
+
+
+remember
+ at
+ the
+ end
+ of
+ the
+ last
+ lecture
+
+
+um
+ I
+ was
+ packing
+ my
+ stuff.
+ I
+ was
+ you
+
+
+know
+ what
+ I'll
+ just
+ ask
+ him
+ for
+ ref
+
+
+referral.
+ Um
+ what's
+ the
+ risk
+ right?
+ You
+
+
+might
+ just
+ say
+ no
+ but
+ whatever.
+ And
+ so
+ I
+
+
+actually
+ took
+ the
+ courage
+ and
+ I
+ went
+ up
+
+
+to
+ him
+ and
+ asked
+ if
+ he
+ would
+ give
+ me
+ a
+
+
+referral.
+ And
+ sure
+ enough,
+ he
+ was
+ like,
+
+
+"Sure,
+ send
+ me
+ your
+ CV
+ and
+ I'll
+ see
+ what
+
+
+I
+ can
+ do."
+ And
+ and
+ that's
+ kind
+ of
+ how
+ I
+
+
+got
+ my
+ my
+ interview
+ at
+ DeepMind.
+ Um
+ this
+
+
+was
+ in
+ uh
+ 2018.
+ And
+ I
+ so
+ I
+ joined
+ Deep
+
+
+Mind
+ at
+ the
+ time,
+ just
+ Deep
+ Mind,
+ not
+
+
+Google
+ Deep
+ Mind.
+ Um
+ as
+ a
+ as
+ a
+ research
+
+
+engineer
+ after
+ university.
+
+
+>> And
+ what
+ did
+ you
+ do
+ at
+ first
+ and
+ how
+ did
+
+
+that
+ evolve
+ to
+ uh
+ being
+ one
+ of
+ the
+
+
+pre-training
+ leads
+ on
+ Gemini
+ 3?
+ Yeah.
+ So
+
+
+it's
+ it's
+ uh
+ at
+ the
+ beginning
+ having
+
+
+joined
+ deep
+ mind
+ and
+ deep
+ mind
+ being
+
+
+known
+ for
+ RL
+ um
+ the
+ first
+ project
+ I
+ I
+
+
+managed
+ to
+ to
+ work
+ on
+ or
+ decide
+ to
+ work
+
+
+on
+ was
+ something
+ on
+ on
+ the
+ RL
+ side.
+ So
+
+
+specifically
+ we're
+ training
+ uh
+ some
+
+
+unsupervised
+ network
+ to
+ to
+ learn
+ key
+
+
+points
+ on
+ on
+ Atari
+ environments
+ and
+ try
+
+
+to
+ to
+ get
+ the
+ the
+ agent
+ to
+ play
+ Atari,
+
+
+right?
+ Um
+ so
+ I
+ did
+ this
+ for
+ about
+ 6
+
+
+months.
+ maybe
+ it
+ wasn't
+ enough
+ for
+ in
+
+
+the
+ sense
+ I
+ didn't
+ like
+ the
+ the
+
+
+synthetic
+ aspect
+ of
+ this.
+ Um
+ I
+ I
+ always
+
+
+wanted
+ to
+ to
+ work
+ more
+ on
+ on
+ on
+ real
+
+
+world
+ data
+ and
+ have
+ more
+ of
+ a
+ a
+ real
+
+
+world
+ effect.
+ I
+ think
+ in
+ general
+ I
+ like
+
+
+to
+ build
+ things
+ and
+ and
+ build
+ things
+
+
+that
+ work.
+ I
+ don't
+ really
+ like
+ the
+ the
+
+
+academic
+ pure
+ research
+ part.
+ And
+ so
+ that
+
+
+kind
+ of
+ drove
+ me
+ um
+ to
+ to
+ start
+ working
+
+
+on
+ on
+ representation.
+ So
+ creating
+ these
+
+
+or
+ training
+ these
+ neural
+ networks
+ that
+
+
+have
+ good
+ representations
+ to
+ do
+
+
+different
+ tasks
+ and
+ and
+ one
+ funny
+
+
+anecdote
+ here
+ is
+ something
+ I
+ I
+ tell
+
+
+along
+ the
+ people
+ on
+ my
+ team.
+ But
+ um
+ the
+
+
+first
+ effort
+ I
+ joined
+ on
+ this
+ was
+ called
+
+
+representation
+ learning
+ from
+ real
+ world
+
+
+data.
+ And
+ at
+ the
+ time
+ we
+ had
+ to
+ add
+ this
+
+
+from
+ real
+ world
+ data
+ to
+ the
+ to
+ the
+ name
+
+
+of
+ the
+ project
+ because
+ people
+ would
+
+
+assume
+ otherwise
+ it
+ would
+ be
+ synthetic
+
+
+environments
+ or
+ or
+ synthetic
+ data.
+ um
+
+
+and
+ and
+ that
+ definitely
+ has
+ shifted
+ uh
+
+
+completely
+ since
+ then.
+ So
+ yeah,
+ that
+ was
+
+
+kind
+ of my
+ first
+ project
+ on
+ on
+ on
+ that
+
+
+side
+ and
+ specifically
+ LLMs
+ and
+
+
+transformers.
+ We're
+ looking
+ at
+
+
+architectures
+ like
+ transformer
+ and
+ and
+
+
+models
+ like
+ BERT
+ and
+ XLNET
+ that
+ we're
+
+
+learning
+ these
+ representations
+ and
+ and
+
+
+trying
+ to
+ improve
+ those
+ um
+ those
+
+
+representations
+ and
+ do
+ research
+ uh
+ on
+
+
+that
+ side.
+
+
+>> Great.
+ And
+ then
+ you
+ worked
+ on
+ a
+ retro,
+
+
+right?
+ Do
+ do
+ you
+ want
+ to
+ talk
+ about
+
+
+that?
+ Yeah.
+ So
+ after
+ that
+ uh
+ we
+ started
+
+
+working
+ on
+ on
+ scaling
+ up
+ LLMs
+ and
+ LLMs
+
+
+in
+ general.
+ So
+ so
+ we
+ started
+ this
+ work
+
+
+first
+ on
+ on
+ Gopher
+ which
+ is
+ I
+ think
+ the
+
+
+the
+ first
+ deep
+ mind
+ LLM
+ paper
+ that
+ was
+
+
+published.
+ So
+ already
+ at
+ that
+ point
+ it
+
+
+was
+ a
+ team
+ maybe
+ of
+ 10
+ 12
+ people.
+ So
+
+
+already
+ at
+ that
+ point
+ it
+ was
+ pretty
+
+
+clear
+ you
+ needed
+ uh
+ you
+ couldn't
+ just
+ do
+
+
+that
+ research
+ uh
+ on
+ your
+ own.
+ And
+ this
+
+
+is
+ really
+ where
+ where
+ I
+ started
+ doing
+
+
+pre-training
+ and
+ and
+ pre-training
+ at
+
+
+scale
+ and
+ and
+ and
+ yeah
+ develop
+ my
+
+
+research
+ taste
+ but
+ also
+ yeah
+ what
+ I
+
+
+enjoy
+ about
+ this
+ um
+ so
+ we
+ we
+ we
+ trained
+
+
+the
+ first
+ dense
+ uh
+ transformer
+ model
+
+
+that
+ it
+ was
+ 280
+ billion
+ uh
+ parameters
+ I
+
+
+think
+ 300
+ billion
+ tokens
+ at
+ that
+ time
+
+
+and
+ and
+ trained
+ that
+ and
+ uh
+ we
+ were
+
+
+definitely
+ we
+ would
+ definitely
+ not
+ do
+
+
+things
+ like
+ we
+ were
+ doing
+ them
+ back
+ in
+
+
+the
+ day
+ but
+ it
+ was
+ it
+ was
+ great
+ and
+ a
+
+
+very
+ fun
+ uh
+ learning
+ experience.
+ After
+
+
+that
+ there
+ were
+ kind
+ of
+ two
+ two
+ projects
+
+
+that
+ emerged.
+ The
+ first
+ one
+ was
+
+
+Chinchilla
+ and
+ and
+ the
+ second
+ one
+ retro.
+
+
+So
+ in
+ Chinchilla
+ we
+ were
+ kind
+ of
+ uh
+ we
+
+
+we
+ were
+ reexamining
+ how
+ you
+ should
+ scale
+
+
+the
+ model
+ size
+ and
+ how
+ you
+ should
+ scale
+
+
+the
+ data
+ um
+ especially
+ from
+ a
+ computer
+
+
+training
+ computer
+ optimal
+ perspective.
+
+
+So
+ so
+ the
+ question
+ is
+ you
+ have
+ a
+ fixed
+
+
+amount
+ of
+ training
+ compute.
+ How
+ do
+ you
+
+
+train
+ the
+ best
+ possible
+ model?
+ Should
+
+
+you
+ increase
+ your
+ model
+ size
+ or
+ should
+
+
+you
+ increase
+ your
+ your
+ data
+ size?
+ And
+
+
+there
+ was
+ some
+ previous
+ work
+ uh
+ in
+ in
+
+
+this
+ domain
+ from
+ from
+ open
+ eye
+
+
+specifically
+ that
+ we've
+ reexamined
+ and
+
+
+and
+ we
+ we
+ actually
+ found
+ that
+ you
+ want
+
+
+to
+ scale
+ the
+ data
+ side
+ much
+ more
+ quickly
+
+
+than
+ than
+ the
+ than
+ what
+ was
+ thought
+
+
+before
+ rather
+ than
+ scaling
+ the
+ model
+
+
+side.
+ Funny
+ enough,
+ this
+ is
+ still
+ really
+
+
+relevant
+ in
+ in
+ our
+ day-to-day
+ work
+
+
+today,
+ especially
+ because
+ it
+ has
+ a
+ lot
+
+
+of
+ implications
+ on
+ the
+ serving
+ cost
+ and
+
+
+how
+ expensive
+ it
+ is
+ to
+ to
+ use
+ the
+ models
+
+
+once
+ they're
+ trained.
+ So
+ that
+ was
+ one
+
+
+side.
+ The
+ the
+ other
+ line
+ of
+ work
+ was
+
+
+more
+ on
+ on
+ retro
+ and
+ this
+ is
+ more
+ on
+ the
+
+
+architectural
+ innovation
+ side
+ of
+ things.
+
+
+So
+ here
+ we
+ were
+ looking
+ at
+ how
+ you
+ can
+
+
+improve
+ models
+ by
+ giving
+ them
+ the
+
+
+ability
+ to
+ to
+ retrieve
+ from
+ a
+ large
+
+
+corpus
+ of
+ text.
+ So
+ rather
+ than
+ having
+
+
+the
+ model
+ learn
+ and
+ store
+ all
+ the
+
+
+knowledge
+ in
+ its
+ parameters,
+ you
+ you
+
+
+give
+ the
+ ability
+ of
+ the
+ to
+ the
+ model
+ to
+
+
+to
+ look
+ up
+ specific
+ things
+ during
+
+
+training
+ but
+ also
+ uh
+ during
+ inference.
+
+
+you
+ use
+ the
+ word
+ um
+ research
+ taste
+ uh
+
+
+which
+ I
+ think
+ is
+ is
+ super
+ interesting.
+
+
+What
+ what
+ does
+ that
+ mean?
+ How
+ would
+ you
+
+
+define
+ that
+ and
+ how
+ important
+ is
+ that
+
+
+for
+ a
+ researcher?
+
+
+>> Yeah,
+ it's
+ it's
+ very
+ important
+ these
+
+
+days
+ and
+ it's
+ quite
+ hard
+ to
+ to
+ quantify
+
+
+but
+ the
+ few
+ things
+ that
+ that
+ matters
+ the
+
+
+first
+ one
+ maybe
+ is
+ your
+ research
+ is
+ not
+
+
+uh
+ standalone.
+ This
+ is
+ what
+ I
+ was
+
+
+mentioning
+ before,
+ but
+ your
+ research
+ has
+
+
+to
+ play
+ well
+ with
+ everyone
+ else's
+
+
+research
+ and
+ has
+ to
+ integrate,
+ right?
+
+
+So,
+ let's
+ say
+ you
+ have
+ some
+ improvement
+
+
+on
+ the
+ model,
+ but
+ it
+ makes
+ the
+ model
+ 5%
+
+
+harder
+ to
+ use
+ for
+ everyone
+ else.
+ This
+ is
+
+
+probably
+ not
+ a
+ good
+ trade-off,
+ right?
+
+
+Because
+ you're
+ going
+ to
+ slow
+ down
+
+
+everyone
+ else
+ and
+ and
+ their
+ and
+ their
+
+
+research,
+ which
+ would
+ then
+ cumulatively
+
+
+slow
+ down
+ the
+ durable
+ research
+ progress.
+
+
+That's
+ the
+ first
+ thing.
+ Um,
+ the
+ second
+
+
+thing
+ is
+ being
+ allergic
+ to
+ complexity.
+
+
+Um
+ but
+ complexity
+ is
+ quite
+ subjective
+ is
+
+
+in
+ terms
+ of
+ what
+ people
+ are
+ familiar
+ but
+
+
+still
+ this
+ we
+ have
+ a
+ certain
+ I
+ think
+
+
+budget
+ of
+ complexity
+ we
+ can
+ use
+ and
+ a
+
+
+certain
+ amount
+ of
+ like
+ almost
+ research
+
+
+risk
+ we
+ can
+ accumulate
+ before
+ things
+ go
+
+
+bad
+ and
+ so
+ being
+ aware
+ of
+ that
+ and
+
+
+managing
+ that
+ is
+ very
+ important.
+ So
+
+
+often
+ times
+ we
+ don't
+ necessarily
+ want
+ to
+
+
+to
+ use
+ the
+ best
+ best
+ performance
+ version
+
+
+of
+ of
+ a
+ research
+ idea,
+ but
+ we'd
+ rather
+
+
+trade
+ off
+ some
+ of
+ the
+ performance
+ for
+ a
+
+
+slightly
+ lower
+ complexity
+ version
+
+
+because
+ we
+ think
+ that
+ will
+ allow
+ us
+ to
+
+
+do
+ more
+ and
+ more
+ progress
+ in
+ the
+ future.
+
+
+So
+ so
+ these
+ are
+ kind
+ of
+ the
+ main
+ two
+
+
+things
+ I
+ think
+ around
+ research
+ taste.
+
+
+>> That's
+ fascinating.
+ And
+ and
+ then
+
+
+presumably
+ a
+ part
+ of
+ it
+ has
+ to
+ do
+ with
+
+
+having
+ an
+ intuitive
+ sense
+ for
+ what
+ may
+
+
+work
+ and
+ not
+ work,
+ right?
+ given
+ there's
+
+
+only
+ so
+ much
+ compute
+ you
+ can
+ use.
+ Is
+
+
+that
+ fair?
+
+
+>> Yeah,
+ definitely
+ that's
+ that's
+ also
+ an
+
+
+important
+ part.
+ Um
+ I
+ think
+ that's
+ some
+
+
+people
+ have
+ that
+ much
+ more
+ than
+ others
+
+
+and
+ and
+ a
+ lot
+ of
+ experience
+ really
+ helps
+
+
+but
+ for
+ sure
+ we
+ we
+ are
+ bottleneck
+ on
+ the
+
+
+research
+ side
+ by
+ by
+ compute.
+ If
+ we
+ had
+ a
+
+
+lot
+ more
+ computer,
+ I
+ think
+ we'd
+ make
+ a
+
+
+lot
+ more
+ progress
+ a
+ lot
+ quicker.
+ And
+ so
+
+
+you
+ have
+ to
+ to
+ guess
+ to
+ some
+ extent
+ what
+
+
+the
+ right
+ first
+ like
+ the
+ which
+ part
+ of
+
+
+the
+ of
+ the
+ tree
+ of
+ research
+ tree
+ you
+
+
+want
+ to
+ explore
+ and
+ then
+ within
+ that
+
+
+what
+ are
+ the
+ the
+ right
+ experiments
+ but
+
+
+then
+ also
+ knowing
+ research
+ always
+ it's
+
+
+most
+ research
+ ideas
+ fail
+ right
+ um
+ and
+ so
+
+
+you
+ need
+ to
+ figure
+ out
+ at
+ what
+ point
+
+
+have
+ I
+ done
+ enough
+ in
+ this
+ direction
+ uh
+
+
+to
+ know
+ to
+ move
+ on
+ to
+ something
+ else
+ or
+
+
+should
+ I
+ keep
+ pushing
+ and
+ then
+ the
+ other
+
+
+interesting
+ thing
+ is
+ especially
+ in
+ deep
+
+
+learning
+ A
+ negative
+ results
+ doesn't
+ mean
+
+
+something
+ doesn't
+ work.
+ It
+ means
+ you
+
+
+haven't
+ made
+ it
+ work
+ yet
+ often.
+ And
+ so
+
+
+being
+ aware
+ of
+ that
+ as
+ well
+ is
+ quite
+
+
+tricky.
+
+
+>> Since
+ we're
+ on
+ the
+ on
+ this
+ topic
+ of
+
+
+research
+ and
+ how
+ to
+ organize
+ research
+
+
+team
+ to
+ be
+ uh
+ successful.
+ Let's
+ double
+
+
+click
+ on
+ on
+ some
+ of
+ this.
+ So
+ you
+
+
+mentioned
+ tradeoffs.
+ Presumably
+ one
+ kind
+
+
+of
+ trade-off
+ is
+ uh
+ short-term
+ versus
+
+
+long-term.
+ How
+ does
+ that
+ work?
+ How
+ do
+
+
+you
+ all
+ think
+ about
+ that?
+
+
+>> This
+ is
+ part
+ of
+ what
+ I
+ spend
+ a
+ lot
+ of
+
+
+time
+ thinking
+ about
+ as
+ well.
+ um
+ there's
+
+
+always
+ critical
+ path
+ things
+ to
+ be
+ be
+
+
+done
+ or
+ like
+ this
+ part
+ of
+ the
+ model
+
+
+needs
+ improving
+ or
+ we
+ know
+ this
+ part
+ of
+
+
+the
+ model
+ is
+ is
+ suboptimal.
+ Um
+ so
+ we
+ we
+
+
+invest
+ quite
+ a
+ lot
+ in
+ just
+ fixing
+ those
+
+
+immediate
+ things.
+ There's
+ a
+ few
+ reasons
+
+
+for
+ that.
+ The
+ first
+ one
+ is
+ we
+ know
+ this
+
+
+will
+ make
+ the
+ model
+ better.
+ So
+ it's
+ a
+
+
+fairly
+ safe
+ bet.
+ But
+ also
+ we
+ know
+ that
+
+
+things
+ that
+ don't
+ look
+ quite
+ good
+ or
+
+
+quite
+ perfect
+ often
+ tend
+ up
+ tend
+ to
+ have
+
+
+issues
+ later
+ either
+ when
+ you
+ scale
+ up
+ or
+
+
+when
+ the
+ model
+ just
+ becomes
+ more
+ more
+
+
+powerful.
+ And
+ so
+ actually
+ really
+ having
+
+
+being
+ very
+ diligent
+ about
+ tackling
+ those
+
+
+and
+ and
+ fixing
+ those
+ is
+ is
+ really
+
+
+important.
+ So
+ so
+ that's
+ kind
+ of
+ the
+ the
+
+
+first
+ part.
+ The
+ second
+ part
+ is
+ slightly
+
+
+more
+ exploratory
+ research.
+
+
+ideas
+ that
+ could
+ land
+ in
+ the
+ next
+
+
+version
+ of
+ Gemini
+ or
+ or
+ the
+ version
+
+
+after
+ that
+ that
+ have
+ maybe
+ a
+ bit
+ bigger
+
+
+effect
+ on
+ on
+ the
+ model
+ performance
+ but
+
+
+aren't
+ quite
+ validated.
+ How
+ we
+ balance
+
+
+these
+ is
+ I
+ don't
+ think
+ I
+ have
+ a
+ very
+
+
+clear
+ answer.
+ It's
+ also
+ a
+ bit
+
+
+periodical.
+ So
+ when
+ we're
+ doing
+ a
+
+
+scaleup
+ for
+ example,
+ there's
+ often
+ more
+
+
+slightly
+ more
+ exploratory
+ research
+
+
+because
+ there's
+ nothing
+ right
+ now
+ that
+
+
+that
+ needs
+ to
+ be
+ fixed
+ in
+ parallel.
+ But
+
+
+uh
+ just
+ before
+ we
+ we
+ ready
+ to
+ scale
+ up
+ a
+
+
+new
+ architecture
+ or
+ new
+ model,
+ it's
+ very
+
+
+much
+ like
+ let's
+ derisk
+ the
+ the
+ last
+
+
+pieces.
+ It's
+ very
+ execution
+ focused.
+
+
+>> How
+ does
+ that
+ work?
+ A
+ little
+ bit
+ you
+
+
+know
+ in
+ the
+ same
+ vein
+ uh
+ the
+ tension
+
+
+between
+ um
+ research
+ and
+ and
+ product.
+ So
+
+
+as
+ we're
+ discussing
+ earlier
+ you
+ all
+ are
+
+
+in
+ this
+ constant
+ race
+ with
+ like
+ other
+
+
+labs
+ and
+ so
+ is
+ there
+ presumably
+ some
+
+
+pressure
+ in
+ like
+ oh
+ no
+ no
+ we
+ need
+ to
+ you
+
+
+know
+ have
+ a
+ better
+ score
+ or
+ like
+ win
+ IMO
+
+
+or
+ whatever
+ it
+ is
+ so
+ like
+ a
+ very
+
+
+pragmatic
+ immediate
+ product
+ goal
+ versus
+
+
+stuff
+ that
+ we
+ know
+ is
+ going
+ to
+ improve
+
+
+the
+ model
+ over
+ time
+ like
+ how
+ does
+ that
+
+
+how
+ does
+ that
+ work?
+ I
+ guess
+ it's
+ just
+ a
+
+
+variation
+ of
+ the
+ same
+ theme.
+ This
+ is
+ why
+
+
+like
+ Google
+ as
+ well
+ there's
+ actually
+
+
+very
+ little
+ of
+ that
+ I
+ think
+ because
+ all
+
+
+all
+ of
+ the
+ the
+ leadership
+ has
+ a
+ research
+
+
+background
+ they're
+ very
+ much
+ aware
+ that
+
+
+yes
+ to
+ some
+ extent
+ you
+ can
+ you
+ can
+ force
+
+
+and
+ accelerate
+ specific
+ benchmarks
+ and
+
+
+certain
+ goals
+ but
+ but
+ in
+ the
+ end
+ the
+
+
+progress
+ and
+ making
+ the
+ research
+ work
+ is
+
+
+really
+ what
+ matters.
+ So
+ I
+ personally
+ at
+
+
+least
+ on
+ a
+ day-to-day
+ I
+ I
+ never
+ really
+
+
+feel
+ that
+ that
+ pressure.
+
+
+>> How
+ is
+ the
+ team
+ at
+ Deep
+ Mind
+ organized?
+
+
+So
+ you
+ mentioned
+ pre-training
+ as
+ several
+
+
+hundred
+ people
+ if
+ I
+ heard
+ correctly.
+ Is
+
+
+there
+ like
+ a
+ then
+ a
+ post-training
+ team?
+
+
+Is
+ there
+ like
+ an
+ alignment
+ team?
+ How
+
+
+does
+ everyone
+ work
+ together
+
+
+>> at
+ a
+ super
+ high
+ level?
+ Um
+ so
+ we
+ have
+ a
+
+
+pre-training
+ team,
+ post-
+ training
+ team.
+
+
+Uh
+ on
+ the
+ pre-training
+ side
+ we
+ have
+
+
+people
+ working
+ on
+ the
+ model
+ on
+ the
+ data
+
+
+the
+ infrastructure
+ evals
+ as
+ well
+ very
+
+
+important.
+ I
+ think
+ people
+ often
+
+
+underestimate
+ the
+ the
+ importance
+ on
+ on
+
+
+eval
+ research
+ and
+ and
+ it's
+ actually
+
+
+quite
+ hard
+ to
+ do
+ this
+ well.
+ And
+ then
+
+
+yes,
+ there's
+ a
+ post
+ training
+ team
+ and
+
+
+and
+ of
+ course
+ there's
+ a
+ large
+ team
+
+
+working
+ on
+ infrastructure
+ and
+ and
+
+
+serving
+ as
+ well.
+
+
+>> All
+ right,
+ thank
+ you
+ for
+ that.
+ Uh
+ let's
+
+
+switch
+ tax
+ a
+ little
+ bit
+ and
+ uh
+ as
+
+
+promised
+ let's
+ go
+ uh
+ fairly
+ deep
+ into
+
+
+Gemini
+ 3
+ if
+ you
+ if
+ you
+ will.
+ So
+ Gemini
+ 3
+
+
+under
+ the
+ hood
+ the
+ architecture
+ deep
+
+
+thinking
+
+
+data
+ scaling
+ all
+ those
+ good
+ things.
+ for
+
+
+starting
+ at
+ a
+ high
+ level
+ on
+ the
+
+
+architecture.
+ Uh
+ so
+ Gemini
+ 3
+ which
+ um
+
+
+you
+ know
+ as
+ a
+ as
+ a
+ devoted
+ user
+ feels
+ uh
+
+
+very
+ different
+ from
+ from
+ 2.5.
+ Was
+ there
+
+
+a
+ big
+ archite
+ architectural
+ decision
+
+
+that
+ explains
+ the
+ difference?
+ Uh
+ and
+
+
+then
+ how
+ would
+ you
+ describe
+ that
+
+
+architecture?
+
+
+>> At
+ a
+ high
+ level
+ I
+ don't
+ think
+ the
+
+
+architecture
+ has
+ changed
+ that
+ much
+
+
+compared
+ to
+ the
+ the
+ previous
+ one.
+ It's
+
+
+more
+ of
+ what
+ I
+ was
+ saying
+ before
+ where
+
+
+uh
+ a
+ few
+ different
+ things
+ come
+ together
+
+
+to
+ to
+ together
+ give
+ a
+ large
+ large
+
+
+improvement.
+ At
+ a
+ high
+ level
+ though
+ it's
+
+
+it's
+ an
+ mixture
+ of
+ expert
+ architecture
+
+
+transformer
+ based.
+ Um
+ so
+ from
+ that
+
+
+perspective
+ if
+ you
+ squint
+ enough
+ you
+
+
+will
+ recognize
+ a
+ lot
+ of
+ the
+ the
+ original
+
+
+transformer
+ paper
+ pieces
+ in
+ that.
+
+
+>> Yep.
+ Can
+ you
+ describe
+ for
+ people
+ to
+ make
+
+
+this
+ educational
+ what
+ an
+ MOE
+
+
+architecture
+ is?
+
+
+>> At
+ a
+ high
+ level
+ the
+ the
+ transformer
+ kind
+
+
+of
+ has
+ two
+ two
+ blocks.
+ So
+ there's
+ an
+
+
+attention
+ block
+ which
+ is
+ responsible
+ for
+
+
+for
+ mixing
+ the
+ information
+ across
+ uh
+
+
+times
+ across
+ different
+ tokens
+ and
+ then
+
+
+there's
+ the
+ the
+ then
+ the
+ the
+ feed
+
+
+forward
+ block
+ uh
+ which
+ is
+ uh
+ which
+ is
+
+
+more
+ about
+ giving
+ the
+ the
+ the
+ memory
+ but
+
+
+also
+ the
+ the
+ compute
+ power
+ for
+ the
+ model
+
+
+to
+ make
+ these
+ inferences
+ and
+ and
+ those
+
+
+operate
+ on
+ a
+ single
+ token
+ um
+ at
+ the
+
+
+time.
+ So
+ they
+ they
+ operate
+ in
+ parallel.
+
+
+Um
+ so
+ in
+ in
+ the
+ original
+ transformer
+
+
+architecture
+ this
+ is
+ just
+ a
+ single
+ um
+
+
+hidden
+ layer
+ in
+ a
+ neural
+ network.
+ So
+
+
+it's
+ a
+ dense
+ computation
+ where
+ where
+ the
+
+
+input
+ gets
+ linearly
+ transformed
+ into
+ a
+
+
+hidden
+ dimension.
+ You
+ apply
+ some
+
+
+activation
+ function
+ and
+ that
+ one
+ gets
+
+
+linearly
+ transformed
+ again
+ uh
+ into
+ the
+
+
+output
+ of
+ the
+ dense
+ block.
+ Um
+ so
+ that
+
+
+that's
+ the
+ original
+ paper
+ and
+ then
+
+
+there's
+ a
+ lot
+ of
+ work
+ before
+
+
+transformers
+ as
+ well
+ on
+ mixtron
+ experts
+
+
+and
+ here
+ the
+ idea
+ is
+ um
+ you
+ kind
+ of
+
+
+decouple
+ the
+ amount
+ of
+ compute
+ you
+ use
+
+
+with
+ how
+ how
+ large
+ the
+ the
+ the
+ parameter
+
+
+is
+ to
+ use
+ that
+ and
+ so
+ you
+ you
+
+
+dynamically
+ route
+ effectively
+ to
+ which
+
+
+expert
+ you
+ want
+ the
+ computational
+ power
+
+
+to
+ be
+ used
+ on
+ uh
+ rather
+ than
+ having
+ that
+
+
+coupled.
+ Gemini
+ is
+ uh
+ natively
+
+
+multimodal.
+
+
+In
+ practical
+ terms,
+ what
+ does
+ that
+
+
+actually
+ mean
+ for
+ the
+ model
+ to
+ think
+
+
+about
+ text,
+ images
+ or
+ or
+ videos?
+
+
+>> Yeah,
+ what
+ this
+ means
+ uh
+ is
+ that
+ there's
+
+
+no
+ specific
+ model
+ trained
+ to
+ to
+ handle
+
+
+images
+ and
+ a
+ different
+ model
+ trained
+ to
+
+
+handle
+ audio,
+ a
+ different
+ model
+ trained
+
+
+to
+ handle
+ uh
+ text.
+ It's
+ the
+ same
+ model,
+
+
+the
+ same
+ neural
+ network
+ that
+ processes
+
+
+all
+ these
+ different
+ modalities
+ uh
+
+
+together.
+
+
+>> Presumably,
+ there
+ is
+ a
+ a
+ cost
+ aspect
+ to
+
+
+to
+ this.
+ Does
+ being
+ natively
+ multimodal
+
+
+mean
+ um
+ your
+ more
+ expensive
+ from
+ a
+ token
+
+
+perspective?
+
+
+>> Yeah,
+ this
+ is
+ a
+ really
+ good
+ question.
+
+
+There's
+ kind
+ of
+ two
+ two
+ costs
+ to
+ this.
+ I
+
+
+would
+ say
+ that
+ the
+ benefits
+ largely
+
+
+outweigh
+ the
+ cost
+ here
+ and
+ this
+ is
+ why
+
+
+why
+ we
+ train
+ these
+ models.
+
+
+uh
+ the
+ first
+ cost
+ is
+ maybe
+ less
+ obvious
+
+
+to
+ people
+ but
+ it's
+ this
+ complexity
+ cost
+
+
+and
+ this
+ research
+ uh
+ bit
+ I
+ was
+ talking
+
+
+about
+ because
+ you're
+ doing
+ a
+ lot
+ of
+ more
+
+
+things
+ and
+ especially
+ different
+
+
+modalities
+ interact
+ in
+ some
+ ways
+ this
+
+
+this
+ can
+ interact
+ with
+ different
+ parts
+
+
+of
+ the
+ research
+ and
+ has
+ and
+ has
+ a
+
+
+complexity
+ cost
+ so
+ we
+ have
+ to
+ spend
+ time
+
+
+thinking
+ about
+ these
+ things.
+ The
+ second
+
+
+cost
+ is
+ yes
+ uh
+ images
+ are
+ often
+ uh
+
+
+larger
+ in
+ terms
+ of
+ input
+ size
+ than
+ than
+
+
+pure
+ text
+ and
+ so
+ the
+ the
+ actual
+
+
+computational
+ cost
+ um
+ is
+ if
+ you
+ do
+ it
+
+
+naively
+ is
+ is
+ higher
+ but
+ of
+ course
+ then
+
+
+there's
+ interesting
+ research
+ to
+ be
+ done
+
+
+on
+ on
+ how
+ you
+ make
+ these
+ things
+
+
+efficient.
+
+
+>> All right
+ let's
+ talk
+ about
+ uh
+
+
+pre-training
+ uh
+ since
+ uh
+ it's
+ the
+ area
+
+
+that
+ you
+ cover
+ in
+ in
+ in
+ particular.
+ So
+
+
+starting
+ with
+ the
+ high
+ level
+ question,
+
+
+we
+ we we
+ mentioned
+ of
+ course
+ the
+ term
+
+
+scaling
+ laws
+ uh
+ towards
+ the
+ beginning
+ of
+
+
+this
+ conversation.
+ We
+ talked
+ about
+
+
+chinchilla
+ a
+ few
+ minutes
+ ago
+ as
+ as
+ well
+
+
+in
+ 2025.
+ there
+ was
+ like
+ this
+ um
+ uh
+ you
+
+
+know
+ much
+ discussed
+ theme
+ of
+ like
+ the
+
+
+the
+ death
+ of
+ scaling
+ laws
+ particularly
+
+
+for
+ for
+ pre-training
+ is
+ Gemini
+ 3
+ uh
+ the
+
+
+answer
+ that
+ that
+ shows
+ that
+ all
+ of
+ this
+
+
+is
+ is
+ not
+ true
+ and
+ that
+ indeed
+ the
+
+
+scaling
+ laws
+ are
+ are
+ continuing.
+
+
+>> Yeah,
+ the
+ discussions
+ they
+ have
+ to
+ me
+
+
+were
+ always
+ slightly
+ strange
+ um
+ because
+
+
+my
+ my
+ my
+ experience
+ didn't
+ match
+ those.
+
+
+I
+ think
+ what
+ we've
+ seen
+ is
+ scale
+ is
+ is
+ a
+
+
+very
+ important
+ aspect
+ in
+ pre-training
+
+
+specifically
+ and
+ and
+ how
+ we
+ make
+ models
+
+
+better.
+ Um
+ I
+ think
+ what's
+ been
+ the
+ case
+
+
+though
+ is
+ that
+ people
+ overvalued
+ that
+
+
+aspect.
+ So
+ it
+ is
+ a
+ very
+ important
+ aspect
+
+
+but
+ it's
+ not
+ the
+ only
+ aspect.
+ So
+ so
+
+
+scale
+ will
+ help
+ to
+ make
+ your
+ model
+
+
+better.
+ And
+ what's
+ nice
+ about
+ scale
+ it
+
+
+it
+ does
+ so
+ fairly
+ predictably.
+ And
+
+
+that's
+ kind
+ of
+ what
+ the
+ the
+ scaling
+ laws
+
+
+tell
+ us
+ is
+ as
+ you
+ scale
+ the
+ model
+ how
+
+
+much
+ better
+ will
+ the
+ model
+ actually
+ be?
+
+
+But
+ this
+ is
+ only
+ one
+ part.
+ The
+ the
+ other
+
+
+parts
+ are
+ architecture
+ and
+ data
+
+
+innovation.
+ Um
+ these
+ also
+ play
+ a
+ really
+
+
+really
+ important
+ part
+ in
+ in in
+ the
+
+
+performance
+ of
+ of
+ pre-training
+ and
+
+
+probably
+ even
+ more
+ so
+ than
+ than
+ pure
+
+
+scale
+ these
+ days.
+ But
+ scaling
+ is
+ still
+
+
+an
+ an
+ important
+ factor
+ as
+ well,
+
+
+>> right?
+ And
+ we're
+ talking
+ about
+
+
+pre-training
+ specifically,
+ right?
+
+
+Because
+ this
+ year
+ we
+ seem
+ to
+ have
+ a
+
+
+scaled
+ RL
+ in
+ in
+ in
+ post-
+ trainining
+ and
+
+
+scaled
+ uh
+ test
+ time
+ compute
+ uh
+ and
+ all
+
+
+those
+ things.
+ like
+ for
+ pre-training
+ you
+
+
+seeing
+ uh
+ not
+ only
+ scaling
+ loss
+ not
+
+
+slowing
+ down
+ but
+ like
+ you
+ see
+ some
+ some
+
+
+acceleration
+ is
+ that
+ is
+ that
+ do
+ I
+
+
+understand
+ this
+ correctly
+ due
+ to
+ data
+
+
+and
+ different
+ architectures
+
+
+>> I
+ think
+ the
+ the
+ way
+ to
+ put
+ this
+ is
+ is
+
+
+these
+ all
+ compound
+ so
+ scale
+ is
+ one
+ axis
+
+
+but
+ this
+ model
+ and
+ data
+ also
+ will
+ make
+
+
+the
+ the
+ the
+ actual
+ performance
+ better
+
+
+and
+ yes
+ sometimes
+ it's
+ the
+ the
+ the
+
+
+innovation
+ part
+ out
+ outweighs
+ the
+ the
+
+
+benefits
+ of
+ scaling
+ more
+ and
+ sometimes
+
+
+just
+ raw
+ scaling
+ is
+ the
+ is
+ the
+ right
+
+
+answer
+ to
+ make
+ the
+ the
+ model
+ better.
+ So
+
+
+that's
+ on
+ the
+ pre-training
+ side
+ and
+ and
+
+
+yes
+ on
+ on
+ the
+ RL
+ and
+ RL
+ scaling
+ side
+ I
+
+
+think
+ we
+ we're
+ seeing
+ a
+ lot
+ of
+ the
+ same
+
+
+things
+ we're
+ we're
+ seeing
+ in
+
+
+pre-training
+ or
+ we
+ saw
+ in
+ pre-training.
+
+
+What's
+ interesting
+ here
+ is
+ because
+ we
+
+
+have
+ the
+ experience
+ of
+ pre-training
+ as
+ a
+
+
+lot
+ of
+ the
+ lessons
+ apply
+ and
+ then
+ we
+ can
+
+
+reapply
+ some
+ of
+ that
+ knowledge
+ to
+ to
+ RL
+
+
+scaling
+ as
+ well.
+
+
+>> Speaking
+ of
+ data,
+ so
+ what
+ is
+ the
+
+
+pre-training
+ data
+ mix
+ on
+ Gemini
+ 3?
+ I
+
+
+think
+ you
+ guys
+ had
+ a
+ a
+ model
+ card
+ out
+
+
+for
+ a
+ bit
+ that
+ that
+ talked
+ about
+ some
+
+
+some
+ of
+ this.
+ Uh
+ so
+ what
+ what what
+ went
+
+
+into
+ it?
+
+
+>> Yeah,
+ it's
+ a
+ mix
+ of
+ of
+ different
+ things.
+
+
+So
+ the
+ the
+ data
+ is
+ is
+ multimodel
+ uh
+ from
+
+
+the
+ ground
+ up
+ and
+ yeah
+ there's
+ uh
+ many
+
+
+different
+ sources
+ that
+ go
+ into
+ this.
+
+
+>> Another
+ classic
+ question
+ in
+ this
+ whole
+
+
+discussion
+ is
+ um
+ are
+ we
+ about
+ to
+ run
+ out
+
+
+of
+ data?
+ So
+ there's
+ always
+ the
+ are
+ we
+ do
+
+
+we
+ have
+ not
+ enough
+ compute?
+ And
+ the
+
+
+other
+ question
+ is
+ do
+ we
+ not
+ have
+ enough
+
+
+data?
+ Uh
+ clearly
+ there's
+ been
+ a
+ a
+ rise
+
+
+in
+ the
+ usage
+ of
+ synthetic
+ data
+ uh
+ this
+
+
+year
+ in
+
+
+your
+ day-to-day
+ work
+ or
+ or
+ perhaps
+ in
+
+
+general.
+ Where
+ do
+ you
+ think
+ synthetic
+
+
+data
+ helps
+ and
+ where
+ does
+ it
+ not
+ help?
+
+
+>> Yeah.
+ So
+ synthetic
+ data
+ is
+ interesting.
+
+
+You
+ have
+ to
+ be
+ very
+ careful
+ in
+ in
+ how
+
+
+you
+ use
+ it
+ because
+ it's
+ it's
+ quite
+ easy
+
+
+to
+ to
+ to
+ use
+ it
+ in
+ the
+ wrong
+ way.
+ And
+
+
+what's
+ often
+ the
+ case
+ as
+ well
+ with
+
+
+synthetic
+ data
+ is
+ you
+ use
+ a
+ a
+ strong
+
+
+model
+ to
+ generate
+ the
+ synthetic
+ data
+ and
+
+
+then
+ then
+ you
+ run
+ smaller
+ scale
+
+
+ablations
+ to
+ to
+ validate
+ the
+ effect
+ of
+
+
+of
+ the
+ synthetic
+ data.
+ But
+ one
+ of
+ the
+
+
+really
+ interesting
+ question
+ is
+ if
+ can
+
+
+you
+ actually
+ generate
+ synthetic
+ data
+ to
+
+
+make
+ a
+ model
+ that's
+ you
+ want
+ to
+ train
+ in
+
+
+the
+ future
+ which
+ will
+ actually
+ be
+ better
+
+
+than
+ the
+ model
+ that
+ generated
+ the
+
+
+synthetic
+ data
+ in
+ the
+ first
+ place.
+ Can
+
+
+you
+ actually
+ make
+ that
+ one
+ better
+ as
+
+
+well?
+ and
+ and
+ so
+ we
+ we
+ spend
+ a
+ lot
+ of
+
+
+time
+ thinking
+ about
+ this
+ and
+ doing
+
+
+research
+ uh
+ in
+ this
+ direction.
+ The
+ other
+
+
+part
+ of
+ your
+ question
+ uh
+ are
+ we
+ running
+
+
+out
+ of
+ data?
+ I
+ I
+ don't
+ think
+ so.
+ So
+
+
+there's
+ more
+ um
+ we
+ can
+ we
+ are
+ definitely
+
+
+working
+ on
+ that
+ as
+ well.
+ Um
+ but
+ more
+
+
+than
+ that
+ I
+ think
+ what
+ might
+ be
+
+
+happening
+ instead
+ is
+ kind
+ of
+ a
+ shift
+ in
+
+
+paradigm
+ where
+ before
+ we
+ were
+ kind
+ of
+
+
+scaling
+ in
+ the
+ data
+ unlimited
+ regime
+
+
+where
+ where
+ data
+ would
+ scale
+ as
+ much
+ as
+
+
+you
+ would
+ like
+ and
+ we're
+ kind
+ of
+
+
+shifting
+ more
+ to
+ a
+ data
+ limited
+ regime
+
+
+which
+ actually
+ changes
+ a
+ lot
+ of
+ the
+
+
+research
+ and
+ how
+ we
+ think
+ about
+ problems
+
+
+but
+ one
+ one
+ good
+ analogy
+ of
+ this
+ is
+
+
+before
+ LLMs
+ a
+ lot
+ of
+ people
+ were
+ working
+
+
+on
+ on
+ imagelet
+ and
+ and
+ other
+ benchmarks
+
+
+and
+ there
+ was
+ very
+ uh
+ in
+ a
+ very
+ very
+
+
+data
+ limited
+ regime
+ as
+ well.
+ So
+ a
+ lot
+ of
+
+
+techniques
+ from
+ from
+ that
+ time
+ start
+ to
+
+
+become
+ interesting
+ as
+ well
+
+
+>> and
+ perhaps
+ that's
+ one
+ of
+ those
+ and
+ I
+
+
+don't
+ know
+ to
+ which
+ extent
+ you
+ can
+ talk
+
+
+about
+ it
+ if
+ not
+ talk
+ about
+ it
+ in
+ in
+
+
+general
+ but
+ there
+ is
+ this
+ concept
+
+
+throughout
+ the
+ industry
+ um
+ of
+ uh
+
+
+training
+ models
+ uh
+ based
+ on
+ reasoning
+
+
+traces.
+ So
+ basically
+ forcing
+ the
+ model
+
+
+to
+ show
+ its
+ work
+ how
+ it
+ got
+ to
+ a
+ certain
+
+
+outcome
+ and
+ then
+ taking
+ that
+ to
+ train
+
+
+the
+ next
+ model.
+ Is
+ that
+ something
+ that
+
+
+you
+ do
+ or
+ that
+ you
+ think
+ is
+ interesting
+
+
+or
+ a
+ future
+ direction?
+ What
+ is
+ your
+
+
+perspective?
+
+
+>> Yeah,
+ unfortunately
+ I
+ can't
+ comment
+ on
+
+
+on
+ on
+ the
+ specifics.
+
+
+>> This
+ is
+ I
+ know
+ I'm
+ asking
+ the
+ right
+
+
+questions.
+ uh
+ but
+ maybe
+ maybe
+ in
+ general
+
+
+is
+ that
+ something
+ that
+ people
+ in
+ the
+
+
+industry
+
+
+>> falls
+ in
+ I
+ believe
+ so
+ and
+ and
+ this
+ is
+
+
+also
+ falls
+ into
+ the
+ the
+ previous
+
+
+question
+ around
+ synthetic
+ data
+ you
+ were
+
+
+you
+ were
+ asking
+ and
+ kind
+ of
+ our
+ approach
+
+
+to
+ that
+ is
+ similar
+
+
+>> and
+ perhaps
+ without
+ taking
+ this
+ into
+ um
+
+
+a
+ futuristic
+ conversation
+ but
+ like
+
+
+another
+ big
+ question
+ and
+ theme
+ seems
+ to
+
+
+be
+ indeed
+ um
+ how
+ can
+ models
+ learn
+ from
+
+
+less
+ data
+ which
+ uh
+ I
+ think
+ what
+ is
+ what
+
+
+you
+ were
+ alluding
+ to
+ talking
+ about
+ the
+
+
+data
+ limited
+ regime
+ again
+ whether
+ at
+
+
+Deep
+ Mind
+ or
+ or
+ in
+ general
+ uh
+ are
+ you
+
+
+seeing
+ interesting
+ approaches
+ to
+ use
+ the
+
+
+the
+ famous
+ analogy
+ a
+ model
+ can
+ learn
+
+
+like
+ a
+ like
+ a
+ child
+ does
+
+
+>> just
+ to
+ maybe
+ clarify
+ what
+ I
+ said
+
+
+earlier
+ um
+ in
+ a
+ data
+ limited
+ regime
+ I
+
+
+didn't
+ necessarily
+ mean
+ with
+ less
+ data
+
+
+but
+ we're
+ rather
+ with
+ a
+ finite
+ amount
+ of
+
+
+data
+ so
+ the
+ paradigm
+ shift
+ is
+ more
+ from
+
+
+like
+ we
+ have
+ infinite
+ data
+ to
+ we
+ have
+ a
+
+
+finite
+ amount
+ of
+ data
+ the
+ second
+ point
+
+
+is
+ in
+ in
+ some
+ sense
+ model
+ architecture
+
+
+research
+ is
+ exactly
+ what
+ you
+ mentioned.
+
+
+So
+ when
+ when
+ you
+ make
+ an
+ improvement
+ on
+
+
+the
+ model
+ architecture
+ side,
+ what
+ it
+
+
+typically
+ means
+ is
+ you
+ get
+ a
+ better
+
+
+results
+ a
+ better
+ result
+ if
+ you
+ use
+ the
+
+
+same
+ amount
+ of
+ data
+ to
+ train
+ the
+ model,
+
+
+but
+ equivalently
+ you
+ could
+ get
+ the
+ same
+
+
+result
+ as
+ the
+ previous
+ model
+ by
+ training
+
+
+on
+ less
+ data.
+ So
+ that's
+ kind
+ of the
+ the
+
+
+first
+ aspect
+ of
+ that.
+ But
+ it
+ it
+ is
+ true
+
+
+in
+ terms
+ of
+ the
+ the
+ volume
+ of
+ data
+
+
+needed
+ today.
+ We're
+ still
+ orders
+ of
+
+
+magnitude
+ higher
+ than
+ than
+ what
+ the
+
+
+human
+ has
+ available
+ to.
+ Of
+ course,
+
+
+there's
+ the
+ whole
+ evolution
+ process
+ as
+
+
+well,
+ which
+ I
+ I
+ find
+ these
+ high
+ level
+
+
+discussions
+ quite
+ hard
+ to
+ to
+ understand
+
+
+or
+ follow
+ because
+ you
+ have
+ to
+ make
+ so
+
+
+many
+ assumptions
+ to
+ to
+ to
+ convert
+ that
+
+
+amount
+ of
+ data
+ into
+ what
+ is
+ today's
+
+
+pre-training
+ data.
+ But
+ at
+ least
+ at
+ first
+
+
+order,
+ it
+ does
+ seem
+ like
+ we're
+ using
+ a
+
+
+lot
+ more
+ data
+ than
+ than
+ humans
+ do.
+
+
+>> What
+ other
+ directions
+ uh
+ in
+ overall
+
+
+pre-training
+ progress
+ are
+ you
+ uh
+ excited
+
+
+about
+ throughout
+ the
+ industry?
+ Yeah,
+ I
+
+
+think
+ the
+ one
+ thing
+ is
+ in
+ Gemini
+ 1.5
+ I
+
+
+think
+ we
+ we
+ had
+ a
+ really
+ good
+ leap
+ in
+ in
+
+
+the
+ long
+ context
+ capabilities
+ of
+ the
+
+
+model
+ and
+ I
+ think
+ that's
+ really
+ enabling
+
+
+um
+ the
+ ability
+ of
+ of
+ models
+ and
+ and
+
+
+agents
+ today
+ uh
+ to
+ do
+ this
+ this
+ work
+
+
+where
+ you
+ have
+ maybe
+ a
+ code
+ base
+ and
+ you
+
+
+do
+ a
+ lot
+ of
+ work
+ on
+ it
+ so
+ your
+ context
+
+
+length
+ really
+ grows.
+ I
+ think
+ there's
+
+
+going
+ to
+ be
+ a
+ lot
+ more
+ innovation
+ on
+
+
+that
+ side
+ in
+ the
+ next
+ year
+ or
+ so
+ to
+ to
+
+
+to
+ make
+ long
+ context
+ more
+ efficient
+ but
+
+
+also
+ just
+ to
+ to
+ extend
+ the
+ context
+
+
+length
+ of
+ of
+ models
+ themselves.
+ So
+ so
+
+
+that
+ on
+ the
+ capabilities
+ front
+ I
+ think
+
+
+it's
+ something
+ where
+ where
+ pre-training
+
+
+specifically
+ has
+ has
+ a
+ lot
+ to
+ offer
+ and
+
+
+and
+ is
+ very
+ interesting.
+ Relatedly,
+ I
+
+
+think
+ on
+ for
+ us
+ at least
+ on
+ the
+
+
+attention
+ side,
+ uh
+ we've
+ made
+ some
+ some
+
+
+really
+ interesting
+ discoveries
+ recently
+
+
+that
+ I
+ think
+ will
+ will
+ shape
+ a
+ lot
+ of
+
+
+the
+ research
+ we're
+ doing
+ in
+ the
+ next
+ few
+
+
+months
+ and
+ I'm
+ I'm
+ personally
+ very
+
+
+excited
+ about
+ that.
+ Yeah.
+ Again,
+ I
+ think
+
+
+I
+ want
+ to
+ emphasize
+ the
+ point
+ I
+ made
+
+
+towards
+ the
+ beginning,
+ but
+ the
+ way
+
+
+things
+ work
+ is
+ it's
+ really
+ a
+ culmination
+
+
+of
+ of
+ many
+ different
+ things.
+ So
+ there's
+
+
+a
+ lot
+ of
+ small
+ medium-sized
+ things
+ that
+
+
+we
+ can
+ already
+ see
+ coming
+ up
+ where
+ I
+
+
+think
+ we
+ fixed
+ this
+ issue,
+ we
+ fixed
+ this
+
+
+bug,
+ this
+ is
+ an
+ interesting
+ research
+
+
+that
+ showed
+ promising
+ things
+ and
+ and
+
+
+these
+ all
+ of
+ these
+ things
+ coupled
+ I
+
+
+think
+ will
+ will
+ drive
+ a
+ lot
+ of
+ the
+
+
+progress.
+ Again,
+
+
+>> it's
+ interesting
+ you
+ thinking
+ about
+
+
+retro
+ that
+ we
+ talked
+ about
+ a
+ bit
+
+
+earlier.
+ you
+ know,
+ you're
+ you're
+ the
+
+
+co-author
+ of
+ of
+ of
+ of
+ retro,
+ which
+ was
+
+
+about
+ efficiency
+ and
+ like
+ smaller
+ models
+
+
+doing
+ more
+ and
+ now
+ you
+ are
+ in
+ the
+ world
+
+
+of
+ Gemini
+ 3,
+ which
+ is
+ like
+ massive
+
+
+amounts
+ of
+ data
+ and
+ and
+ training
+ in
+ very
+
+
+long
+ context
+ windows.
+ Do
+ you
+ think
+ that
+
+
+uh
+ this
+ paradigm
+ of
+ having
+ again
+ larger
+
+
+models,
+ large
+ context
+ windows
+
+
+effectively
+ obiates
+ the
+ need
+ for
+ kind
+ of
+
+
+rag
+ and
+ search
+ um
+ and
+ that
+ everything
+
+
+gets
+ folded
+ into
+ the
+ model.
+ I
+ mean
+
+
+obviously
+ there's
+ a
+ corporate
+ data
+ part
+
+
+but
+ uh
+ in
+ general
+
+
+>> there's
+ some
+ some
+ interesting
+ questions
+
+
+here.
+ So
+ so
+ first
+ of
+ all
+ I
+ think
+ retro
+
+
+was
+ really
+ about
+ retrieving
+ information
+
+
+rather
+ than
+ storing
+ it.
+ Not
+ necessarily
+
+
+about
+ making
+ models
+ smaller.
+ So
+ it's
+
+
+about
+ how
+ we
+ can
+ use
+ the
+ model
+ to
+ do
+
+
+more
+ reasoning
+ already
+ in
+ in
+ a
+
+
+pre-training
+ sense
+ of
+ reasoning
+ rather
+
+
+than
+ just
+ just
+ store
+ the
+ knowledge.
+ So
+
+
+so
+ this
+ is
+ still
+ very
+ much
+ um
+ the
+ aspect
+
+
+today
+ the
+ interesting
+ part
+ is
+ um
+ the
+ the
+
+
+the
+ iteration
+ cycle
+ maybe
+ of
+
+
+pre-training
+ uh
+ used
+ to
+ be
+ a
+ lot
+ slower
+
+
+than
+ than
+ that
+ of
+ post-
+ training
+ until
+
+
+until
+ fairly
+ recently.
+ And
+ so
+ making
+
+
+these
+ large
+ changes
+ on
+ the
+ pre-training
+
+
+side
+ is
+ is
+ quite
+ costly
+ in
+ terms
+ of
+ risk
+
+
+and
+ and
+ how
+ long
+ it
+ takes.
+ And
+ then
+ you
+
+
+have
+ approaches
+ like
+ rag
+ or
+ search
+ which
+
+
+you
+ can
+ do
+ during
+ post
+ training
+ and
+
+
+iterate
+ much
+ more
+ quickly
+ on
+ which
+ which
+
+
+give
+ very
+ strong
+ performance
+ as
+ well.
+ I
+
+
+think
+ deep
+ down
+ I
+ I
+ do
+ believe
+ that
+ the
+
+
+long-term
+ answer
+ is
+ is
+ to
+ learn
+ this
+ uh
+
+
+in
+ differentiable
+ end
+ way
+ which
+ means
+
+
+probably
+ doing
+ pre-training
+ or
+ or
+
+
+whatever
+ that
+ looks
+ like
+ in
+ the
+ future
+
+
+learn
+ to
+ retrieve
+ as
+ part
+ of
+ the
+ the
+
+
+training
+ and
+ learn
+ how
+ to
+ do
+ search
+ as
+
+
+part
+ of
+ the
+ the
+ large
+ part
+ of
+ of
+
+
+training
+ and
+ I
+ think
+ that
+ that's
+ kind
+ of
+
+
+RL
+ scaling
+ maybe
+ starts
+ that
+ process
+ but
+
+
+I
+ think
+ there's
+ a
+ lot
+ more
+ to
+ do
+ also
+ on
+
+
+the
+ architecture
+ side
+ but
+ this
+ is
+
+
+something
+ that
+ we'll
+ see
+ in
+ the
+ next
+ few
+
+
+years
+ and
+ not
+ immediately
+ I
+ would
+ say
+
+
+the
+ One
+ thing
+ I
+ I
+ want
+ to
+ highlight
+ is
+
+
+people
+ often
+ talk
+ about
+ model
+
+
+architecture
+ and
+ and
+ that's
+ definitely
+
+
+one
+ part
+ of
+ what
+ makes
+ pre-training
+
+
+better
+ but
+ there's
+ other
+ parts
+ as
+ well
+
+
+infra
+ and
+ data
+ and
+ eval
+ specifically
+
+
+that
+ don't
+ always
+ get
+ the
+ same
+ mention.
+
+
+Evals
+ specifically
+ is
+ extremely
+ hard
+ and
+
+
+it's
+ even
+ harder
+ in
+ pre-training
+ I
+ would
+
+
+say
+ because
+ it
+ kind
+ of
+ has
+ these
+ two
+
+
+gaps
+ uh
+ you
+ need
+ to
+ to
+ close.
+ So
+ on
+ the
+
+
+one
+ side
+ the
+ evals
+ we
+ use
+ or
+ the
+ models
+
+
+we
+ train
+ regularly
+ are
+ much
+ smaller
+ and
+
+
+less
+ powerful
+ than
+ than
+ the
+ than
+ the
+
+
+when
+ we
+ scale
+ up.
+ So
+ that
+ means
+ the
+ eval
+
+
+has
+ to
+ be
+ predictive
+ of
+ what
+ the
+
+
+performance
+ or
+ have
+ to
+ still
+ work
+ for
+
+
+the
+ large
+ model
+ and
+ point
+ in
+ the
+ right
+
+
+direction.
+ So
+ have
+ to
+ be
+ a
+ good
+ proxy
+ on
+
+
+that
+ side.
+ And
+ then
+ there's
+ a
+ second
+ gap
+
+
+as
+ well
+ which
+ is
+ when
+ we
+ evaluate
+
+
+pre-training
+ models
+ there's
+ a
+
+
+post-training
+ gap
+ as
+ well.
+ So
+ the
+ way
+
+
+model
+ the
+ models
+ get
+ used
+ is
+ they
+ don't
+
+
+just
+ get
+ used
+ after
+ pre-training.
+
+
+There's
+ more
+ training
+ happening
+ after.
+
+
+And
+ so
+ the
+ evals
+ we
+ use
+ in
+ pre-training
+
+
+or
+ pre-trained
+ models
+ have
+ to
+ be
+ good
+
+
+proxies
+ of
+ what
+ happens
+ after
+ as
+ well.
+
+
+And
+ so
+ making
+ progress
+ on
+ evals
+ is
+ is
+ is
+
+
+really
+ important
+ and
+ quite
+ hard
+ and
+ has
+
+
+also
+ driven
+ a
+ lot
+ of
+ the
+ progress
+ we
+
+
+have
+ in
+ terms
+ of
+ being
+ able
+ to
+ measure
+
+
+what
+ an
+ actual
+ improvement
+ is
+ on
+ the
+
+
+model
+ or
+ on
+ the
+ data
+ side.
+
+
+>> And
+ eval
+
+
+internally
+ built
+ like
+ you
+ have
+ your
+ own
+
+
+set
+ of
+ evals.
+ Yes.
+ Uh
+ to
+ a
+ large
+ extent
+
+
+and
+ more
+ and
+ more
+ so
+ because
+ um
+ what
+ we
+
+
+found
+ is
+ that
+ uh
+ external
+ benchmarks
+
+
+that
+ you
+ can
+ use
+ them
+ for
+ for
+ a
+ little
+
+
+while
+ but
+ very
+ quickly
+ they
+ they
+ become
+
+
+contaminated.
+ So
+ uh
+ they
+ start
+ to
+ to
+ be
+
+
+replicated
+ on
+ different
+ forms
+ different
+
+
+forums
+ or
+ different
+ parts
+ of
+ of
+ the
+ web
+
+
+and
+ then
+ if
+ we
+ end
+ up
+ training
+ on
+ those
+
+
+it's
+ really
+ hard
+ basically
+ to
+ detect
+ uh
+
+
+leaked
+ eval.
+ So,
+ so
+ the
+ only
+ way
+ you
+
+
+really
+ have
+ to
+ protect
+ against
+ cheating
+
+
+yourself
+ and
+ thinking
+ you're
+ doing
+
+
+better
+ than
+ you
+ are
+ is
+ by
+ actually
+
+
+creating
+ held
+ out
+ emails
+ and
+ and
+ not
+
+
+really
+ keeping
+ them
+ held
+ out.
+
+
+>> In
+ the
+ same
+ vein,
+ is
+ alignment
+ uh
+ a
+ part
+
+
+of
+ uh
+ what
+ you
+ all
+ think
+ a
+ lot
+ about
+ at
+
+
+the
+ pre-training
+ level
+ uh
+ or
+ is
+ that
+
+
+more
+ of
+ a
+ post-training
+ kind
+ of
+
+
+conversation
+ or
+ both?
+
+
+>> It's
+ a
+ majority
+ of
+ post
+ training
+ I
+ would
+
+
+say,
+ but
+ there's
+ definitely
+ some
+ some
+
+
+parts
+ of
+ it
+ which
+ are
+ relevant
+ of
+
+
+pre-training.
+ I
+ can't
+ go
+ into
+ too
+ many
+
+
+details
+ here
+ but
+ some
+ parts
+ are
+ relevant
+
+
+to
+ pre-training
+ and
+ and
+ we
+ do
+ think
+
+
+about
+ that
+ as
+ well.
+ Yeah.
+
+
+>> And
+ at
+ a
+ very
+ simplistic
+ level
+ I
+ always
+
+
+wonder
+ again
+ in
+ the
+ context
+ of
+ Gemini
+ or
+
+
+otherwise
+ if
+ the
+ core
+ data
+ set
+ is
+ the
+
+
+internet
+ there's
+ a
+ lot
+ of
+ terrible
+
+
+things
+ on
+ the
+ internet
+ is
+ alignment
+ 101
+
+
+that
+ there's
+ stuff
+ that
+ you
+ just
+ do
+ not
+
+
+include
+ in
+ the
+ model.
+
+
+>> This
+ is
+ an
+ interesting
+ question
+ and
+ I
+
+
+don't
+ think
+ I
+ have
+ a
+ definitive
+ answer
+
+
+but
+ you
+ don't
+ want
+ the
+ model
+ to
+ do
+ these
+
+
+terrible
+ things.
+ So
+ at
+ the
+ fundamental
+
+
+level
+ you
+ did
+ you
+ do
+ need
+ the
+ model
+ to
+
+
+know
+ about
+ those
+ things.
+ So
+ you
+ have
+ to
+
+
+train
+ a
+ bit
+ at
+ least
+ on
+ those
+ so
+ that
+ it
+
+
+knows
+ what
+ those
+ things
+ are
+ and
+ knows
+ to
+
+
+stay
+ away
+ from
+ those
+ right.
+ Um
+ otherwise
+
+
+when
+ a
+ user
+ would
+ mention
+ something
+
+
+terrible
+ the
+ model
+ wouldn't
+ even
+ know
+
+
+what
+ what
+ it's
+ talking
+ about
+ and
+ then
+
+
+might
+ not
+ be
+ able
+ to
+ say
+ this
+ is
+
+
+something
+ terrible
+ right
+
+
+>> let's
+ talk
+ about
+ deep
+ think
+ like
+ the
+ the
+
+
+thinking
+ model
+ that
+ was
+ released
+ a
+ few
+
+
+um
+ days
+ after
+ Gemini
+ 3.
+ So
+ first
+ of
+ all
+
+
+is
+ that
+ different
+ model
+ or
+ is
+ that
+ part
+
+
+of
+ the
+ same
+ model?
+ How
+ should
+ one
+ think
+
+
+about
+ it?
+
+
+>> I'm
+ not
+ allowed
+ to
+ I
+ can't
+ comment
+ too
+
+
+much.
+
+
+>> What
+ happens
+ when
+ uh
+ the
+ model
+ thinks
+
+
+and
+ you
+ know
+ you
+ wait
+ for
+ 10
+ seconds
+ or
+
+
+20
+ seconds
+ or
+ whatever
+ time
+ what
+ happens
+
+
+behind
+ the
+ scenes?
+ Um
+ yes.
+ So
+ I
+ mean
+ I
+
+
+think
+ this
+ has
+ been
+ covered
+ quite
+ a
+ bit
+
+
+in
+ in
+ in
+ some
+ of
+ your
+ previous
+ podcasts
+
+
+as
+ well
+ the
+ on
+ the
+ it's
+ about
+ uh
+
+
+generating
+ thoughts
+ and
+ so
+ um
+ rather
+
+
+than
+ just
+ doing
+ compute
+ in
+ in
+ the
+ the
+
+
+depth
+ or
+ in
+ the
+ model
+ side
+ you
+ also
+ do
+
+
+compute
+ and
+ and
+ allow
+ the
+ model
+ to
+ to
+
+
+think
+ more
+ on
+ on
+ the
+ on
+ the
+ sequence
+
+
+length
+ side
+ of
+ things.
+ So
+ the
+ model
+
+
+actually
+ starts
+ to
+ form
+ hypothesis,
+ test
+
+
+hypothesis,
+ invoke
+ some
+ tools
+ to
+
+
+validate
+ the
+ hypothesis,
+ do
+ search
+ calls
+
+
+etc
+ and
+ then
+ um
+ at
+ the
+ end
+ may
+ be
+ able
+
+
+to
+ to
+ view
+ the
+ thought
+ process
+ to
+
+
+provide
+ a
+ definite
+ answer
+ um
+ to
+ the
+
+
+user.
+
+
+>> The
+ industry
+ has
+ normalized
+ around
+ that
+
+
+that
+ paradigm
+ of
+ of
+ train
+ thought
+
+
+>> that's
+ for
+ yeah
+
+
+>> can
+ you
+ talk
+ a
+ little
+ bit
+ about
+ the
+
+
+agentic
+ part
+ of
+ this
+ and
+ Google
+
+
+anti-gravity?
+ What
+ do
+ you
+ find
+
+
+interesting
+ about
+ it?
+ What
+ should
+ people
+
+
+know
+ about
+ it?
+ Yeah,
+ this
+ is
+ I
+ guess
+
+
+what
+ I
+ was
+ mentioning
+ before
+ around
+ my
+
+
+own
+ work
+ especially.
+ I
+ think
+ that's
+
+
+that's
+ interesting.
+ A
+ lot
+ of
+ the
+ the
+
+
+work
+ we
+ do
+ on
+ a
+ day-to-day
+ basis
+ is
+ more
+
+
+execution
+ based
+ babysitting
+ experiments
+
+
+etc.
+ And
+ I
+ think
+ this
+ is
+ where
+ where
+ I
+
+
+at
+ least
+ see
+ see
+ the
+ most
+ impact
+ from
+
+
+those.
+ Bring
+ it
+ back
+ to
+ the
+ topics
+ of
+ of
+
+
+pre-training.
+ Um
+ I
+ think
+ that
+ the
+
+
+perception
+ and
+ and
+ vision
+ side
+ is
+ very
+
+
+important
+ for
+ this
+ because
+ now
+ you're
+
+
+asking
+ models
+ to
+ to
+ interact
+ with
+ with
+
+
+computer
+ screens.
+ So
+ being
+ able
+ to
+ to
+ do
+
+
+screen
+ understanding
+ really
+ really
+ well
+
+
+is
+ is
+ critical.
+ Um
+ and
+ so
+ so
+ that's
+
+
+that's
+ an
+ important
+ part
+ on
+ on
+ the
+
+
+printing
+ side
+ at least.
+
+
+>> And
+ in
+ uh
+ anti-gravity
+ there's
+ a
+ whole
+
+
+um
+ vibe
+ coding
+ aspect
+ truly
+ vibes
+ in
+
+
+that
+ like
+ you
+ don't
+ even
+ really
+ see
+ what
+
+
+happens
+ when
+ you
+ ask
+ is
+ is
+ vibes
+ same
+
+
+question.
+ Is
+ that
+ a
+ pre-training
+ thing?
+
+
+Is
+ that
+ just
+ a
+ post-training
+ thing?
+ How
+
+
+do
+ you
+ build
+ vibes
+ into
+ a
+ model?
+
+
+>> Yeah,
+ this
+ is
+ interesting.
+ I
+ think
+ you
+
+
+can
+ probably
+ ask
+ five
+ different
+
+
+researchers
+ and
+ and
+ you'll
+ get
+ five
+
+
+different
+ answers.
+ Um
+ there's
+ also
+ this
+
+
+this
+ notion
+ of
+ uh
+ large
+ model
+ field.
+ Um
+
+
+people
+ call
+ this
+ especially
+ I
+ think
+ GPT
+
+
+4.5
+ historically
+ had
+ some
+ of
+ this
+
+
+presumably
+ where
+ where
+ larger
+ models
+
+
+maybe
+ feel
+ differently.
+ I
+ I
+ wouldn't
+
+
+actually
+ just
+ I
+ I
+ wouldn't
+ put
+ it
+ in
+ in
+
+
+this
+ these
+ terms
+ specifically,
+ but
+ I
+
+
+think
+ vibes
+ comes
+ down
+ to
+ this
+ and
+
+
+actually
+ pre-training
+ probably
+ plays
+ a
+
+
+larger
+ role
+ today
+ in
+ some
+ of
+ that
+ in
+ how
+
+
+the
+ model
+ feels
+ and
+ and
+ in
+ generally
+
+
+than
+ than
+ post-
+ training.
+ I
+ think
+ this
+
+
+is
+ yeah,
+ this
+ is
+ in
+ general
+ for
+ for
+ VIP
+
+
+coding
+ specifically.
+ I
+ think
+ that's
+
+
+that's
+ maybe
+ more
+ of
+ an
+ RL
+ scaling
+ and
+
+
+and
+ post-
+ training
+ thing
+ where
+ where
+ you
+
+
+you
+ can
+ actually
+ get
+ quite
+ a
+ lot
+ of
+ of
+
+
+data
+ and
+ and
+ train
+ the
+ model
+ to
+ do
+ that
+
+
+really
+ well.
+ So,
+ zooming
+ out
+ uh
+ a
+ little
+
+
+bit
+ uh
+ maybe
+ for
+ the
+ last
+ part
+ of
+ this
+
+
+um
+ conversation,
+ I'm
+ curious
+ about
+ where
+
+
+things
+ are
+ going
+ in
+ in
+ general,
+ there
+
+
+was
+ a
+ u
+ a
+ key
+ theme
+ discussed
+ at
+ New
+
+
+RIPs
+ this
+ year
+ around
+ continual
+ learning
+
+
+and
+ I'm
+ curious
+ about
+ your
+ perspective,
+
+
+especially
+ from
+ a
+ pre-training
+
+
+perspective,
+ right?
+ Because
+ we
+ are
+ in
+
+
+this
+ paradigm
+ where
+ like
+ every
+ few
+
+
+months
+ or
+ years
+ we
+ and
+ by
+ we
+ I
+ mean
+ you
+
+
+train
+ a
+ uh
+ a
+ very
+ large
+ new
+ base
+ model.
+
+
+First
+ of
+ all,
+ what
+ is
+ continual
+
+
+learning?
+ And
+ two,
+ how
+ does
+ that
+ impact
+
+
+um
+ retraining
+ if
+ continual
+ learning
+
+
+becomes
+ a
+ thing?
+
+
+>> Yeah,
+ I
+ guess
+ continual
+ learning
+ is
+
+
+about
+ um
+ updating
+ the
+ the
+ the
+ model
+ with
+
+
+with
+ new
+ knowledge
+ as
+ as
+ new
+ knowledge
+
+
+is
+ discovered,
+ right?
+ Let's
+ say
+ a
+ new
+
+
+scientific
+ breakthrough
+ is
+ made
+
+
+tomorrow.
+ the
+ base
+ model
+ we
+ trained
+
+
+yesterday
+ wouldn't
+ actually
+ know
+ about
+
+
+it
+ in
+ in
+ its
+ pre-training
+ first.
+ I
+ think
+
+
+a
+ lot
+ of
+ progress
+ has
+ been
+ made
+ on
+ on
+
+
+this
+ front
+ since
+ in
+ the
+ last
+ few
+ years.
+
+
+I
+ think
+ this
+ is
+ mostly
+ around
+ post
+
+
+training
+ around
+ search
+ use
+ search
+ tools
+
+
+and
+ then
+ and
+ make
+ search
+ calls
+ then
+ they
+
+
+would
+ have
+ access
+ to
+ that
+ uh
+ new
+
+
+information
+ in
+ some
+ sense.
+ This
+ is
+ also
+
+
+what
+ retro
+ that
+ we
+ talked
+ about
+ was
+
+
+doing
+ by
+ by
+ retrieving
+ data
+ and
+ trying
+
+
+to
+ externalize
+ the
+ the
+ knowledge
+ corpus
+
+
+with
+ the
+ with
+ the
+ reasoning
+ part.
+ So
+ so
+
+
+that's
+ the
+ first
+ part.
+ I
+ think
+ the
+
+
+second
+ part
+ is
+ on
+ on
+ the
+ pre-training
+
+
+side
+ specifically
+ is
+ is
+ what
+ I
+ was
+
+
+mentioning
+ on
+ long
+ context
+ as
+ well
+ and
+
+
+one
+ way
+ of
+ doing
+ this
+ is
+ if
+ you
+ can
+ keep
+
+
+expanding
+ the
+ the
+ context
+ of
+ the
+ user
+
+
+the
+ model
+ keeps
+ getting
+ more
+ and
+ more
+
+
+information
+ in
+ that
+ context
+ and
+ so
+ you
+
+
+kind
+ of
+ have
+ have
+ this
+ uh
+ continual
+
+
+learning
+ aspect
+ part
+ of
+ that.
+ Um
+ but
+
+
+then
+ of
+ course
+ there's
+ there's
+ a
+ more
+ of
+
+
+a
+ paradigm
+ shift.
+ Uh
+ maybe
+ uh
+ this
+ is
+
+
+what
+ people
+ discuss
+ is
+ can
+ you
+ change
+
+
+the
+ the
+ training
+ algorithm
+ such
+ that
+ you
+
+
+can
+ continuously
+ train
+ them
+ on
+ on
+ a
+
+
+stream
+ of
+ of
+ data
+ coming
+ from
+ from
+ the
+
+
+world
+ basically
+
+
+>> beyond
+ the
+ continual
+ learning.
+ What
+ what
+
+
+do
+ you
+ think
+ is
+ hot
+ slash
+ interesting
+ or
+
+
+intriguing
+ in
+ current
+ research
+ uh
+ today?
+
+
+>> Yeah,
+ there's
+ there's
+ a
+ lot
+ of
+ again
+
+
+there's
+ a
+ lot
+ of
+ small
+ things
+ right
+ now
+
+
+that
+ that
+ accumulate.
+ So
+ that's
+ that's
+
+
+kind
+ of the
+ the
+ first
+ thought
+ that
+ that
+
+
+comes
+ to
+ my
+ mind
+ and
+ and
+ that
+
+
+historically
+ has
+ really
+ driven
+ progress.
+
+
+So
+ I
+ wouldn't
+ just
+ bet
+ against
+ that
+ uh
+
+
+continuing
+ to
+ to
+ drive
+ progress.
+ The
+ the
+
+
+things
+ I
+ mentioned
+ before
+ around
+ the
+
+
+long
+ context
+ architecture
+ and
+ long
+
+
+context
+ research
+ is
+ one
+ aspect
+ I
+ think
+
+
+on
+ the
+ the
+ attention
+ mechanism
+ as
+ well
+
+
+on
+ the
+ pre-training
+ side.
+ And
+ then
+ the
+
+
+this
+ paradigm
+ shift
+ from
+ uh
+ infinite
+
+
+data
+ to
+ to
+ the
+ limited
+ data
+ or
+ finite
+
+
+data
+ regime
+ is
+ something
+ as
+ well
+ I
+ think
+
+
+where
+ where
+ a
+ lot
+ of
+ things
+ will
+ change
+
+
+and
+ there's
+ a
+ lot
+ of
+ interesting
+
+
+research.
+ Um
+ that's
+ kind
+ of
+ on
+ the
+
+
+pre-training
+ alone
+ side.
+ The
+ other
+ side
+
+
+which
+ is
+ quite
+ interesting
+ today
+ is
+
+
+these
+ models
+ become
+ the
+ amount
+ of
+ people
+
+
+using
+ these
+ models
+ is
+ growing
+ quite
+
+
+rapidly
+ and
+ so
+ more
+ and
+ more
+ what
+ we
+
+
+have
+ to
+ think
+ about
+ on
+ the
+ pre-training
+
+
+side
+ as
+ well
+ is
+ how
+ expensive
+ is
+ the
+
+
+model
+ to
+ to
+ use
+ uh
+ to
+ serve
+ and
+ and
+ have
+
+
+really
+ deployed
+ at
+ a
+ large
+ scale
+ and
+
+
+what
+ side
+ what
+ things
+ on
+ the
+
+
+pre-training
+ side
+ specifically
+ can
+ we
+ do
+
+
+to
+ to
+ make
+ this
+ model
+ have
+ better
+
+
+quality
+ and
+ maybe
+ be
+ cheaper
+ uh
+ to
+ serve
+
+
+and
+ and
+ consume
+ fewer
+ resources
+ uh
+
+
+during
+ inference
+ for
+ any
+ uh
+ student
+ or
+
+
+like
+ yeah
+ PhD
+ student
+ listening
+ to
+ this
+
+
+uh
+ if
+ they
+ want
+ to
+ become
+ you
+ in
+ a
+ in
+ a
+
+
+few
+ years
+ what
+ problems
+ do
+ you
+ think
+
+
+they
+ should
+ think
+ about
+ or
+ focus
+ on
+
+
+that's
+ not
+ you
+ know
+ like
+ a
+ year
+ or
+ two
+
+
+out
+ but
+ like
+ more
+ interesting
+ sort
+ of
+ a
+
+
+few
+ years
+ out.
+
+
+>> One
+ thing
+ that's
+ that's
+ becoming
+
+
+increasingly
+ important
+ is
+ being
+ able
+ to
+
+
+do
+ research
+ but
+ being
+ aware
+ of
+ the
+
+
+system
+ side
+ of
+ things.
+ So
+ we're
+ building
+
+
+these
+ these
+ fairly
+ complicated
+ systems
+
+
+now.
+ So
+ being
+ able
+ to
+ understand
+ how
+ the
+
+
+stack
+ works
+ all
+ the
+ way
+ down
+ from
+ TPUs
+
+
+to
+ research
+ is
+ kind
+ of
+ a
+ superpower
+ uh
+
+
+because
+ then
+ you
+ you're
+ able
+ to
+ kind
+ of
+
+
+find
+ these
+ gaps
+ uh
+ in
+ between
+ different
+
+
+layers
+ that
+ other
+ people
+ weren't
+
+
+necessarily
+ able
+ to
+ see,
+ but
+ also
+ to
+
+
+reason
+ through
+ the
+ implication
+ of
+ your
+
+
+research
+ idea
+ all
+ the
+ way
+ down
+ to
+ to
+ the
+
+
+to
+ the
+ TPU
+ stack.
+ and
+ and
+ people
+ that
+
+
+can
+ do
+ that
+ well
+ I
+ think
+ have
+ have
+
+
+a
+ lot
+ of
+ impact
+ in
+ general.
+ So
+ in
+ terms
+
+
+of
+ like
+ specialization
+ it's
+ really
+
+
+thinking
+ about
+ this
+ research
+ engineering
+
+
+and
+ and
+ systems
+ aspect
+ of
+ the
+ model
+
+
+research
+ and
+ not
+ just
+ the
+ pure
+ model
+
+
+architecture
+ research.
+ That's
+ one.
+ I
+
+
+think
+ personally
+ I
+ I
+ still
+ have
+ a
+ lot
+ of
+
+
+interest
+ in
+ kind
+ of
+ this
+ retrieval
+
+
+research
+ as
+ well
+ that
+ we
+ started
+ with
+
+
+retro
+ and
+ I
+ think
+ wasn't
+ quite
+ ripe
+
+
+until
+ now
+ but
+ the
+ things
+ are
+ changing
+
+
+and
+ I
+ don't
+ I
+ just
+ think
+ it's
+ it's
+ not
+
+
+unreasonable
+ to
+ to
+ think
+ in
+ the
+ next
+ few
+
+
+years
+ something
+ like
+ that
+ might
+ actually
+
+
+become
+ viable
+ for
+ for
+ a
+ leading
+ model
+
+
+like
+ Germany.
+
+
+>> And
+ why
+ was
+ it
+ not
+ ripe
+ and
+ why
+ may
+ that
+
+
+change?
+ I
+ think
+ that's
+ that's
+ around
+ the
+
+
+complexity
+ side
+ of
+ things
+ I
+ was
+
+
+mentioning
+ and
+ also
+ the
+ fact
+ that
+ uh
+ all
+
+
+the
+ capabilities
+ it
+ brings
+ you
+ can
+
+
+iterate
+ much
+ more
+ quickly
+ in
+ in
+ post-
+
+
+training.
+ So so
+ what
+ I
+ was
+ saying
+ with
+
+
+search
+ and
+ and
+ post-
+ training
+ data
+ you
+
+
+can
+ you
+ can
+ give
+ very
+ similar
+
+
+capabilities
+ to
+ the
+ model
+ in
+ a
+ much
+
+
+simpler
+ way
+ and
+ um
+ as
+ post
+ training
+
+
+grows
+ and
+ and
+ RL
+ scaling
+ grows
+ as
+ well
+
+
+maybe
+ that
+ that
+ shifts
+ again
+ towards
+
+
+more
+ on
+ the
+ on
+ the
+ pre-training
+ side.
+ Do
+
+
+you
+ think
+ there
+ are
+ areas
+ of
+ of
+ AI
+ right
+
+
+now
+ that
+ are
+ overinvested
+ in
+ where
+ where
+
+
+there's
+ a
+ disconnect
+ between
+ what
+ makes
+
+
+sense
+ and
+ where
+ the
+ industry
+ is
+ actually
+
+
+going
+ and
+ investing
+ dollars
+ in?
+
+
+>> I
+ think
+ it's
+ got
+ a
+ lot
+ better.
+ I
+ think
+
+
+maybe
+ two
+ years
+ ago
+ what
+ I
+ was
+ seeing
+ is
+
+
+is
+ people
+ were
+ still
+ trying
+ to
+ very
+ much
+
+
+create
+ specialized
+ models
+ to
+ to
+ solve
+
+
+tasks
+ that
+ were
+ maybe
+ within
+ half
+ a
+ year
+
+
+or
+ a
+ year
+ of
+ reach
+ of
+ of
+ generalist
+
+
+models.
+ And
+ I
+ think
+ people
+ have
+ caught
+
+
+up
+ to
+ that
+ much
+ more
+ and
+ now
+ kind
+ of
+
+
+believe
+ that
+ for
+ generalist
+ task
+ or
+
+
+tasks
+ which
+ are
+ not
+ don't
+ require
+
+
+extreme
+ specialized
+ models
+ trying
+ to
+ use
+
+
+a
+ generalist
+ model
+ and
+ and
+ maybe
+ not
+ the
+
+
+current
+ version
+ but
+ the
+ next
+ version
+
+
+might
+ be
+ able
+ to
+ do
+ that.
+ uh
+ and
+ then
+ so
+
+
+so
+ what
+ that
+ means
+ is
+ research
+ in
+ in
+
+
+terms
+ of
+ how
+ how
+ you
+ use
+ models
+ and
+ and
+
+
+the
+ harness
+ etc
+ is
+ is
+ becoming
+
+
+increasingly
+ important
+ and
+ also
+ how
+ you
+
+
+make
+ models
+ and
+ these
+ harnesses
+ more
+
+
+robust
+ um
+ to
+ making
+ errors
+ and
+ recover
+
+
+from
+ from
+ such
+ errors.
+
+
+>> Yeah,
+ in
+ that
+ vein
+ like
+ do
+ you
+ have
+ any
+
+
+uh
+ advice
+ or
+ recommendation
+ for
+
+
+startups?
+ Right.
+ So
+ seen
+ from
+ the
+
+
+perspective
+ of
+ a
+ founder
+ or
+ the
+ the
+ VCs
+
+
+who
+ love
+ them
+ there
+ is
+ this
+ um
+ feeling
+
+
+that
+ the
+ base
+ models
+ are
+ becoming
+ ever
+
+
+so
+ powerful
+ and
+ then
+ trained
+ on
+ like
+
+
+multiple
+ data
+ sets.
+ So
+ it
+ used
+ to
+ be
+ uh
+
+
+you
+ know
+ the
+ model
+ is
+ able
+ to
+ converse
+
+
+but
+ like
+ now
+ it's
+ able
+ to
+ do
+ financial
+
+
+work
+ and
+ cap
+ tables
+ and
+ that
+ kind
+ of
+
+
+thing
+ which
+ seems
+ to
+ shrink
+ the
+ area
+ of
+
+
+possibility
+ for
+ for
+ startups.
+ Do
+ you
+
+
+have
+ thoughts
+ on
+ that?
+ Yeah,
+ I
+ think
+ so.
+
+
+Maybe
+ have
+ look
+ at
+ what
+ models
+ were
+ able
+
+
+to
+ do
+ a
+ year
+ or
+ a
+ year
+ and
+ a
+ half
+ ago
+
+
+and
+ then
+ look
+ at
+ what
+ models
+ are
+ able
+ to
+
+
+do
+ today
+ and
+ try
+ to
+ extrapolate
+ that.
+ I
+
+
+think
+ the
+ models
+ the
+ areas
+ where
+ the
+
+
+models
+ are
+ improving
+ I
+ think
+ will
+
+
+continue
+ to
+ improve
+ and
+ then
+ there's
+
+
+maybe
+ some
+ areas
+ where
+ there's
+ not
+ been
+
+
+that
+ much
+ progress
+ and
+ that
+ might
+ be
+
+
+more
+ interesting
+ areas
+ to
+ to
+ do
+
+
+research.
+ I
+ I
+ don't
+ really
+ have
+ a
+
+
+specific
+ example
+ in
+ mind
+ right
+ now
+ but
+
+
+that
+ would
+ be
+ the
+ general
+ advice.
+ What
+
+
+are
+ you
+ excited
+ about
+ for
+ the
+ next
+ sort
+
+
+of
+ like
+ year
+ or
+ two
+ in
+ terms
+ of
+ like
+
+
+your
+ personal
+ sort
+ of
+ journey?
+
+
+>> What
+ I
+ like
+ very
+ much
+ about
+ my
+ dayto-day
+
+
+is
+ uh
+ working
+ with
+ many
+ people
+ and
+ and
+
+
+being
+ able
+ to
+ to
+ learn
+ from
+ from
+ a
+ lot
+
+
+of
+ researchers.
+ So
+ that's
+ what
+ drives
+ me
+
+
+to
+ to
+ a
+ large
+ extent.
+ Every
+ day
+ I
+ come
+
+
+to
+ work
+ and
+ I
+ talk
+ to
+ to
+ to
+ really
+
+
+really
+ brilliant
+ people
+ and
+ they
+ teach
+
+
+me
+ things
+ that
+ I
+ didn't
+ know
+ before.
+ Uh
+
+
+and
+ and
+ so
+ that
+ that's
+ I
+ I
+ really
+ like
+
+
+that
+ part
+ of
+ my
+ job.
+ what
+ I
+ was
+ saying
+
+
+multiple
+ times
+ at
+ this
+ point,
+ but
+ there
+
+
+are
+ just
+ so
+ many
+ different
+ things
+ that
+
+
+will
+ compound
+ and
+ and
+ different
+ things
+
+
+where
+ there's
+ headroom
+ to
+ improve.
+ I'm
+
+
+really
+ really
+ curious
+ because
+ I
+ right
+
+
+now
+ I
+ don't
+ really
+ see
+ an
+ end
+ in
+ sight
+
+
+for
+ for
+ that
+ kind
+ of
+ line
+ of
+ work
+ to
+ to
+
+
+continue
+ giving
+ us
+ progress.
+ So
+ actually
+
+
+being
+ able
+ to
+ see
+ this
+ through
+ and
+ and
+
+
+see
+ how
+ far
+ this
+ can
+ take
+ us
+ is
+ really
+
+
+interesting.
+ But
+ at least
+ for
+ the
+ next
+
+
+year
+ or
+ so,
+ I
+ I
+ don't
+ see
+ this
+ slowing
+
+
+down
+ in
+ any
+ way.
+
+
+>> Great.
+ Well,
+ that
+ feels
+ like
+ a
+ wonderful
+
+
+place
+ to
+ leave
+ it.
+ Sebastian,
+ thank
+ you
+
+
+so
+ much
+ for
+ being
+ on
+ the
+ podcast.
+ Really
+
+
+appreciate
+ it.
+ That
+ was
+ fantastic.
+ Thank
+
+
+you.
+
+
+>> Thank
+ you
+ much.
+
+
+>> Hi,
+ it's
+ Matt
+ Turk
+ again.
+ Thanks
+ for
+
+
+listening
+ to
+ this
+ episode
+ of
+ the
+ Mad
+
+
+Podcast.
+ If
+ you
+ enjoyed
+ it,
+ we'd
+ be
+ very
+
+
+grateful
+ if
+ you
+ would
+ consider
+
+
+subscribing
+ if
+ you
+ haven't
+ already,
+ or
+
+
+leaving
+ a
+ positive
+ review
+ or
+ comment
+ on
+
+
+whichever
+ platform
+ you're
+ watching
+ this
+
+
+or
+ listening
+ to
+ this
+ episode
+ from.
+ This
+
+
+really
+ helps
+ us
+ build
+ a
+ podcast
+ and
+ get
+
+
+great
+ guests.
+ Thanks,
+ and
+ see
+ you
+ at
+ the
+
+
+next
+ episode.
