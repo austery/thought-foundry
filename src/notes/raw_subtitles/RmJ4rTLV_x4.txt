@@ -1,0 +1,3117 @@
+[music]
+
+
+I'm
+ so
+ excited
+ to
+ tell
+ you
+ about
+ how
+ at
+
+
+Zapier
+ we
+ are
+ empowering
+ our
+ support
+
+
+team
+ to
+ ship
+ code.
+ Before
+ I
+ tell
+ you
+
+
+about
+ that,
+ has
+ anybody
+ here
+ visited
+ the
+
+
+Grand
+ Canyon?
+
+
+It's
+ a
+ good
+ amount.
+ Anybody
+ rafted
+
+
+through
+ the
+ Grand
+ Canyon?
+
+
+I
+ see
+ one
+ person.
+ I
+ just
+ got
+ off
+ an
+
+
+18-day
+ trip
+ rafting
+ through
+ the
+ Grand
+
+
+Canyon
+ over
+ 200
+ miles.
+ It
+ was
+
+
+incredible.
+ No
+ internet,
+ no
+ cell
+
+
+service.
+ The
+ moment
+ I
+ got
+ off,
+ I
+ found
+
+
+out
+ I
+ was
+ giving
+ this
+ talk.
+ I
+ didn't
+
+
+think
+ about
+ uh
+ work
+ at
+ all
+ on
+ the
+ river,
+
+
+but
+ once
+ I
+ got
+ off,
+ I
+ started
+ thinking
+
+
+about
+ the
+ parallels
+ between
+ the
+ Grand
+
+
+Canyon
+ and
+ Zapier.
+ And
+ we
+ have
+ one
+ thing
+
+
+in
+ common,
+ and
+ that
+ is
+ erosion.
+
+
+Now,
+ natural
+ erosion
+ happens
+ over
+
+
+millions
+ of
+ years
+ with
+ wind,
+ water,
+ and
+
+
+time.
+ It
+ creates
+ the
+ beautiful
+ canyon
+
+
+that
+ we
+ experience,
+ and
+ it's
+ never
+
+
+stopping,
+ always
+ continuing.
+ At
+ Zapier,
+
+
+we
+ have
+ over
+ 8,000
+ integrations
+ built
+ on
+
+
+thirdparty
+ APIs,
+ and
+ they
+ are
+ constantly
+
+
+changing,
+ which
+ I'm
+ now
+ thinking
+ of
+ as
+
+
+app
+ erosion.
+
+
+We've
+ been
+ around
+ for
+ 14
+ years.
+ Some
+ of
+
+
+our
+ apps
+ are
+ that
+ old.
+ API
+ changes
+ and
+
+
+deprecations
+ impact
+ us
+ and
+ create
+
+
+reliability
+ issues.
+ Again,
+ it
+ never
+
+
+stops.
+
+
+So,
+ I
+ like
+ to
+ think
+ of
+ our
+ apps
+ as
+ like
+
+
+layers
+ in
+ the
+ Grand
+ Canyon
+ and
+ they
+ need
+
+
+constant
+ attention.
+
+
+So,
+ if
+ we
+ were
+ to
+ create
+ our
+ own
+ Zap
+
+
+Your
+ Canyon
+ and
+ our
+ apps
+ would
+ be
+ at
+ the
+
+
+walls,
+ here's
+ our
+ support
+ team
+ flowing
+
+
+down
+ the
+ middle
+ watching
+ out
+ for
+ app
+
+
+erosion.
+ And
+ we
+ have
+ a
+ backlog
+ crisis.
+
+
+Tickets
+ were
+ coming
+ in
+ faster
+ than
+ we
+
+
+could
+ handle
+ them.
+ creates
+ integration
+
+
+reliability
+ issues,
+ poor
+ customer
+
+
+experience,
+ even
+ churn.
+ So
+ to
+ solve
+ for
+
+
+app
+ erosion,
+ we
+ kicked
+ off
+ two
+ parallel
+
+
+experiments.
+ The
+ first
+ was
+ moving
+
+
+support
+ from
+ just
+ triaging
+ to
+ also
+
+
+fixing
+ these
+ bugs.
+ This
+ experiment
+
+
+number
+ one
+ and
+ experiment
+ number
+ two,
+ we
+
+
+were
+ asking,
+ can
+ AI
+ help
+ solve
+ app
+
+
+erosion
+ faster?
+
+
+So
+ let's
+ jump
+ into
+ experiment
+ one.
+ This
+
+
+get
+ kicked
+ off
+ two
+ years
+ ago
+ but
+ had
+ to
+
+
+start
+ with
+ the
+ why.
+ We
+ needed
+ to
+ get
+
+
+that
+ buy
+ in
+ to
+ empower
+ our
+ support
+ team
+
+
+to
+ ship
+ code.
+
+
+So
+ app
+ erosion
+ is
+ one
+ of
+ the
+ major
+
+
+sources
+ of
+ bugs
+ coming
+ through
+ to
+ from
+
+
+support
+ to
+ engineering.
+ So
+ there's
+ a
+ big
+
+
+need
+ support
+ is
+ eager
+ for
+ this
+
+
+experience
+ to
+ a
+ lot
+ of
+ them
+ want
+ to
+ go
+
+
+into
+ engineering
+ eventually
+ and
+
+
+unofficially
+ many
+ support
+ members
+ were
+
+
+already
+ helping
+ to
+ maintain
+ our
+ apps.
+
+
+This
+ moves
+ us
+ into
+ how
+ we
+ started
+ this
+
+
+out.
+ Put
+ on
+ some
+ guard
+ rails.
+ We
+ started
+
+
+with
+ just
+ four
+ target
+ apps
+ to
+ uh
+ focus
+
+
+our
+ fixes
+ on.
+ engineering
+ was
+ set
+ to
+
+
+review
+ any
+ merge
+ requests
+ coming
+ from
+
+
+support
+ and
+ we
+ kept
+ the
+ focus
+ on
+ app
+
+
+fixes.
+
+
+So
+ jumping
+ into
+ experiment
+ two,
+ this
+ is
+
+
+what
+ I've
+ been
+ leading
+ for
+ the
+ last
+
+
+couple
+ of
+ years.
+ How
+ can
+ we
+ use
+ codegen
+
+
+to
+ help
+ solve
+ for
+ app
+ erosion
+ and
+ so
+
+
+fortuitously
+ the
+ name
+ of
+ this
+ project
+ is
+
+
+scout
+ which
+ ties
+ in
+ so
+ well
+ to
+ the
+ Grand
+
+
+Canyon
+ experience
+ that
+ I've
+ just
+ been
+
+
+through.
+
+
+As
+ any
+ good
+ product
+ manager,
+ we
+ start
+
+
+with
+ discovery.
+ We
+ did
+ some
+ dog
+ fooding,
+
+
+so
+ I
+ shipped
+ some
+ app
+ fixes.
+ Uh
+ we
+
+
+shadowed
+ engineers
+ and
+ support
+ team
+
+
+members
+ as
+ they
+ were
+ going
+ through
+ the
+
+
+app
+ fix
+ process.
+ We
+ designed
+ out
+ uh
+ what
+
+
+are
+ the
+ pain
+ points
+ experienced
+ along
+
+
+the
+ way?
+ What
+ are
+ the
+ phases
+ of
+ the
+ work
+
+
+and
+ how
+ much
+ time
+ is
+ spent?
+
+
+One
+ big
+ discovery
+ we
+ had
+ is
+ how
+ much
+
+
+time
+ is
+ spent
+ gathering
+ the
+ context
+
+
+going
+ to
+ the
+ thirdparty
+ AP
+ API
+ docs
+ even
+
+
+crawling
+ the
+ internet
+ looking
+ for
+
+
+information
+ about
+ a
+ bug
+ that's
+ emerging
+
+
+maybe
+ somebody
+ else
+ has
+ already
+
+
+discovered
+ and
+ solved
+ for
+ it
+ outside
+ of
+
+
+Zapier
+ internal
+ context
+ logs
+ all
+ of
+ this
+
+
+is
+ a
+ lot
+ of
+ context
+ to
+ go
+ and
+ search
+ for
+
+
+as
+ a
+ human
+ uh
+ and
+ a
+ lot
+ to
+ gro
+ and
+ work
+
+
+through.
+ This
+ is
+ something
+ we
+ knew
+ we
+
+
+needed
+ to
+ solve
+ for.
+
+
+Where
+ we
+ started
+ with
+ all
+ this
+ great
+ uh
+
+
+opportunities
+ and
+ pain
+ points
+ is
+ we
+
+
+started
+ building
+ APIs
+ that
+ we
+ believed
+
+
+would
+ solve
+ for
+ these
+ individual
+ um
+ pain
+
+
+points.
+ And
+ some
+ of
+ these
+ APIs
+ are
+ using
+
+
+LLMs
+ to
+ you
+ know
+ for
+ our
+ diagnosis
+ tool
+
+
+gathering
+ all
+ that
+ context
+ on
+ behalf
+ of
+
+
+the
+ uh
+ support
+ person
+ engineer
+ and
+
+
+curating
+ that
+ context
+ and
+ building
+ a
+
+
+diagnosis
+ that's
+ [clears throat]
+ using
+
+
+an
+ LLM
+ and
+ then
+ some
+ aren't
+ like
+ we
+ have
+
+
+a
+ unit
+ test
+ uh
+ unit
+ test
+ generator
+ is
+
+
+but
+ the
+ um
+ test
+ case
+ finder
+ is
+ simply
+
+
+using
+ a
+ search
+ query
+ to
+ look
+ for
+ the
+
+
+right
+ test
+ cases
+ to
+ pull
+ in
+ for
+ your
+
+
+unit
+ test.
+ We
+ built
+ a
+ bunch
+ of
+ APIs.
+ We
+
+
+had
+ a
+ bunch
+ of
+ great
+ ideas.
+ So
+ there
+ was
+
+
+a
+ lot
+ for
+ us
+ to
+ test
+ with,
+ but
+ we
+ ran
+
+
+into
+ some
+ challenges
+ in
+ this
+ first
+
+
+phase.
+ We
+ had
+ APIs,
+ but
+ they
+ were
+ not
+
+
+embedded
+ into
+ our
+ engineers
+ process.
+ So
+
+
+our
+ tool
+ I
+ just
+ said
+ they
+ don't
+ like
+ to
+
+
+go
+ to
+ so
+ many
+ web
+ pages
+ to
+ find
+ all
+
+
+their
+ context.
+ They
+ would
+ love
+ all
+ this
+
+
+information
+ to
+ come
+ to
+ them.
+ And
+ yet
+ our
+
+
+web
+ interface
+ where
+ we've
+ we've
+ created
+
+
+a
+ playground
+ we
+ call
+ autocode
+ internally
+
+
+where
+ you
+ can
+ come
+ and
+ play
+ around
+ with
+
+
+our
+ APIs
+ and
+ our
+ ask
+ to
+ the
+ teams
+ was
+
+
+come
+ try
+ out
+ our
+ APIs
+ and
+ give
+ us
+
+
+feedback.
+
+
+Now
+ this
+ is
+ just
+ one
+ more
+ window
+ to
+ go
+
+
+to.
+ So
+ we
+ didn't
+ get
+ a
+ lot
+ of
+ engagement
+
+
+also
+ because
+ we
+ had
+ shipped
+ so
+ many
+ uh
+
+
+APIs
+ our
+ team
+ was
+ spread
+ pretty
+ thin.
+
+
+Cursor
+ launched
+ at
+ the
+ same
+ time
+ which
+
+
+has
+ gotten
+ great
+ adoption
+ at
+ Zapier.
+
+
+We're
+ all
+ huge
+ fans
+ of
+ Cursor.
+ But
+ from
+
+
+our
+ side,
+ it
+ made
+ some
+ of
+ our
+ tools
+ no
+
+
+longer
+ necessary.
+
+
+But
+ there
+ was
+ one
+ major
+ win
+ in
+ this
+
+
+phase,
+ which
+ is
+ one
+ of
+ our
+ APIs
+ became
+ a
+
+
+support
+ darling.
+ It's
+ diagnosis.
+ That
+
+
+number
+ one
+ pain
+ point
+ of
+ needing
+ to
+ go
+
+
+out
+ and
+ find
+ all
+ of
+ your
+ context,
+ curate
+
+
+it
+ for
+ yourself
+ so
+ you
+ can
+ start
+ solving
+
+
+the
+ problem.
+ We
+ were
+ doing
+ that
+ on
+ uh
+
+
+the
+ sport
+ team's
+ behalf
+ with
+ the
+
+
+diagnosis
+ API
+
+
+and
+ support
+ loved
+ it
+ enough
+ that
+ they
+
+
+decided
+ to
+ embed
+ it
+ into
+ their
+ process.
+
+
+They
+ asked
+ us
+ to
+ build
+ a
+ zap
+ year
+
+
+integration
+ on
+ our
+ autocode
+ APIs
+ so
+ they
+
+
+could
+ embed
+ it
+ into
+ their
+ zap
+ that
+
+
+creates
+ the
+ jur
+ ticket
+ from
+ the
+ support
+
+
+issue
+ and
+ now
+ diagnosis
+ is
+ included.
+
+
+So
+ embedding
+ tools
+ is
+ the
+ key
+ to
+ usage
+
+
+as
+ we
+ find
+ out.
+ So
+ how
+ can
+ we
+ embed
+ more
+
+
+of
+ our
+ tools?
+ Well,
+ then
+ MCP
+ spins
+ up
+
+
+and
+ that
+ solves
+ our
+ problem.
+
+
+We
+ can
+ now
+ embed
+ these
+ API
+ tools
+ into
+
+
+our
+ engineers
+ workflow.
+ Specifically,
+
+
+our
+ engineers
+ are
+ pulling
+ in
+ these
+ MCP
+
+
+tools
+ as
+ they're
+ using
+ cursor.
+
+
+Our
+ builders
+ using
+ Scout
+ MCP
+ tools
+ are
+
+
+leaving
+ the
+ IDE
+ less,
+ spending
+ more
+ time
+
+
+in
+ one
+ window.
+
+
+Still
+ coming
+ into
+ challenges.
+ One
+ of
+ our
+
+
+uh
+ our
+ our
+ key
+ tool
+ diagnosis
+
+
+uh
+ is
+ so
+ valuable
+ to
+ pull
+ all
+ that
+
+
+context
+ and
+ to
+ provide
+ a
+ recommendation,
+
+
+but
+ it
+ takes
+ a
+ long
+ time
+ to
+ run.
+ Now,
+ we
+
+
+might
+ run
+ down
+ that
+ runtime.
+ However,
+ as
+
+
+you're
+ working
+ synchronously
+ on
+ a
+ ticket
+
+
+in
+ your
+ ID,
+ this
+ was
+ frustrating.
+ We
+
+
+also
+ weren't
+ keeping
+ up
+ with
+ the
+
+
+customization
+ needs.
+ Not
+ only
+ did
+ MCP
+
+
+launch
+ and
+ we
+ started
+ leveraging
+ it,
+ Zap
+
+
+Your
+ MCP
+ launched
+ too.
+ And
+ some
+ of
+ our
+
+
+tools,
+ if
+ we
+ weren't
+ keeping
+ up
+ with
+ the
+
+
+customization
+ needs,
+ our
+ engineers
+
+
+internally
+ looked
+ to
+ Zap
+ Your
+ MCP,
+ which
+
+
+is
+ great.
+ We're
+ all
+ on
+ the
+ same
+ team
+
+
+solving
+ the
+ same
+ problem,
+ but
+ some
+ of
+
+
+our
+ tools
+ had
+ a
+ dead
+ end.
+ Also
+ adoption
+
+
+was
+ scattered.
+ We
+ had
+ a
+ whole
+ suite
+ of
+
+
+tools
+ and
+ we
+ thought
+ there
+ was
+ value
+ in
+
+
+each
+ of
+ them
+ as
+ it
+ solves
+ for
+ different
+
+
+problems
+ across
+ the
+ different
+ stages.
+
+
+Not
+ every
+ engineer
+ was
+ using
+ our
+ tools
+
+
+and
+ if
+ they
+ were
+ using
+ tools,
+ they're
+
+
+only
+ using
+ a
+ few
+ of
+ them.
+ So
+ we
+ have
+
+
+tool
+ usage.
+ We're
+ happy
+ about
+ that.
+ But
+
+
+we
+ were
+ under
+ the
+ hypothesis
+ that
+ true
+
+
+value
+ is
+ going
+ to
+ come
+ from
+ tying
+ these
+
+
+tools
+ together.
+
+
+So
+ what
+ if
+ we
+ owned
+ orchestration
+ of
+
+
+these
+ tools
+ rather
+ than
+ saying
+ here's
+ a
+
+
+suite
+ of
+ tools
+ you
+ use
+ them
+ as
+ you
+ wish
+
+
+what
+ if
+ we
+ combined
+ them
+ and
+ created
+ an
+
+
+agent
+ to
+ orchestrate
+ this.
+ So
+ this
+ we
+
+
+are
+ calling
+ scout
+ agent.
+ We
+ take
+ that
+
+
+diagnosis
+ run
+ that
+ against
+ a
+ ticket
+ uh
+
+
+use
+ that
+ information
+ to
+ actually
+ spin
+ up
+
+
+a
+ codegen
+ tool
+ which
+ will
+ then
+ produce
+ a
+
+
+merge
+ request
+ using
+ all
+ the
+ right
+
+
+context.
+
+
+So
+ who
+ would
+ benefit
+ the
+ most
+ from
+
+
+orchestration?
+ There
+ are
+ several
+
+
+integration
+ teams
+ at
+ Zapier
+ who
+ are
+
+
+solving
+ for
+ these
+ app
+ fixes
+ of
+ various
+
+
+levels
+ of
+ complexity
+ and
+ there's
+ the
+
+
+support
+ team.
+ So
+ when
+ we're
+ saying
+ who
+
+
+should
+ be
+ our
+ first
+ customer
+ scout
+
+
+agent,
+ we
+ were
+ thinking
+ it
+ should
+
+
+probably
+ be
+ the
+ the
+ team
+ fielding
+ small
+
+
+bugs
+ that
+ are
+ emergent
+ and
+ coming
+ hot
+
+
+off
+ the
+ queue
+ which
+ is
+ the
+ support
+ team.
+
+
+And
+ now
+ our
+ two
+ experiments
+ merge
+
+
+and
+ we
+ have
+ scout
+ agent.
+ We
+ are
+ building
+
+
+for
+ the
+ support
+ team.
+
+
+And
+ this
+ is
+ the
+ flow
+ of
+ how
+ it
+ works.
+
+
+Support
+ is
+ submitting
+ an
+ issue
+ to
+ scout
+
+
+agent.
+ We
+ first
+ categorize
+ the
+ issue.
+ We
+
+
+next
+ assess
+ its
+ fixability.
+
+
+Not
+ every
+ issue
+ that
+ comes
+ from
+ support
+
+
+can
+ be
+ fixed.
+ If
+ we
+ thinks
+ it's
+ fixable,
+
+
+we'll
+ move
+ on
+ to
+ generating
+ a
+ merge
+
+
+request.
+ At
+ that
+ point,
+ the
+ support
+
+
+team,
+ this
+ is
+ the
+ first
+ time
+ they're
+
+
+picking
+ up
+ the
+ ticket.
+ It
+ already
+ has
+ a
+
+
+merge
+ request
+ attached
+ to
+ it.
+ They'll
+
+
+review
+ and
+ test.
+ If
+ it's
+ not
+ satisfying
+
+
+what
+ they
+ believe
+ is
+ the
+ actual
+ solution
+
+
+or
+ the
+ the
+ what
+ what
+ the
+ solution
+ should
+
+
+be
+ to
+ best
+ address
+ the
+ customer's
+ need,
+
+
+they
+ will
+ make
+ a
+ request
+ for
+ an
+
+
+adjustment
+ that
+ can
+ happen
+ right
+ in
+
+
+GitLab,
+ which
+ is
+ where
+ we
+ do
+ our
+ work
+
+
+and
+ Scout
+ will
+ do
+ another
+ pass
+ and
+
+
+hopefully
+ at
+ that
+ point
+ we've
+ gotten
+ it
+
+
+right
+ and
+ support
+ can
+ submit
+ that
+ MR
+ for
+
+
+review
+ from
+ engineering.
+
+
+How
+ we
+ are
+ running
+ Scout,
+ it's
+ all
+
+
+kicked
+ off
+ by
+ a
+ zap.
+ This
+ is
+ a
+ picture
+
+
+of
+ one
+ of
+ our
+ zaps.
+ There
+ are
+ many
+ zaps
+
+
+that's
+ run
+ this
+ whole
+ process
+ and
+ it
+
+
+embeds
+ right
+ into
+ our
+ support
+ team's
+
+
+zaps.
+ We
+ do
+ a
+ ton
+ of
+ dog
+ fooding
+ at
+
+
+Zapier.
+
+
+We
+ first
+ run
+ diagnosis
+ and
+ post
+ that
+
+
+result
+ to
+ the
+ Jira
+ ticket
+ saying
+ what
+
+
+the
+ categorization
+ is
+ if
+ we
+ believe
+ it's
+
+
+fixable.
+ And
+ then
+ if
+ we
+ do
+ believe
+ it's
+
+
+fixable,
+ we
+ then
+ are
+ kicking
+ off
+ a
+
+
+GitLab
+ CI/CD
+ pipeline.
+
+
+And
+ we
+ run
+ three
+ phases
+ in
+ that
+
+
+pipeline.
+ plan,
+ execute
+ and
+ validate
+ to
+
+
+generate
+ this
+ merge
+ request.
+ The
+ tools
+
+
+used
+ in
+ this
+ pipeline
+ is
+ Scout
+ MCP.
+ So
+
+
+all
+ those
+ APIs
+ we
+ invested
+ in
+ a
+ year
+ ago
+
+
+now
+ are
+ really
+ coming
+ together
+ and
+ we're
+
+
+orchestrating
+ it
+ uh
+ within
+ the
+ GitLab
+
+
+pipeline
+ and
+ we're
+ also
+ leveraging
+
+
+cursor
+ SDK.
+
+
+Once
+ the
+ M
+ merge
+ request
+ has
+ been
+
+
+completed,
+ we
+ attach
+ it
+ to
+ Jira
+ and
+
+
+support
+ picks
+ it
+ up.
+
+
+The
+ latest
+ addition
+ to
+ this
+ is
+ doing
+ a
+
+
+rapid
+ iteration
+ once
+ a
+ um
+ uh
+ once
+ a
+
+
+ticket
+ has
+ been
+ posted
+ with
+ the
+ merge
+
+
+request
+ and
+ support
+ team
+ is
+ looking
+ at
+
+
+it
+ and
+ they
+ say,
+ you
+ know,
+ it
+ needs
+ some
+
+
+tweaks
+ to
+ save
+ them
+ more
+ time
+ so
+ they
+
+
+don't
+ have
+ to
+ go
+ pull
+ that
+ down
+ to
+ their
+
+
+ID,
+ do
+ the
+ fixes,
+ and
+ push
+ it
+ back
+ up.
+
+
+they
+ can
+ simply
+ chat
+ with
+ the
+ uh
+ scout
+
+
+agent
+ in
+ gitlab
+ that'll
+ kick
+ off
+ another
+
+
+uh
+ pipeline
+ which
+ does
+ that
+ phase
+ with
+
+
+that
+ new
+ feedback
+ and
+ posts
+ the
+ new
+
+
+merge
+ request
+
+
+on
+ our
+ side
+ we
+ want
+ to
+ make
+ sure
+ scout
+
+
+agent
+ is
+ working
+ so
+ we
+ ask
+ three
+
+
+questions
+ categorization
+ right
+ is
+ was
+ it
+
+
+actually
+ fixable
+ uh
+ and
+ was
+ the
+ code
+ fix
+
+
+accurate
+ so
+ far
+ we
+ have
+ two
+ eval
+
+
+to
+ 75%
+ accuracy
+ for
+ categorization
+ and
+
+
+fixibility.
+ As
+ we
+ get
+ more
+ feedback
+ and
+
+
+process
+ more
+ tickets,
+ those
+ become
+ our
+
+
+test
+ cases
+ and
+ we
+ can
+ move
+ forward
+
+
+improving
+ scout
+ agent
+ over
+ time.
+ So
+ what
+
+
+has
+ been
+ scout
+ agents
+ impact
+ on
+ app
+
+
+erosion
+
+
+40%
+ of
+ supports
+ support
+ teams
+ app
+ fixes
+
+
+are
+ being
+ generated
+ by
+ scout.
+ So
+ we're
+
+
+doing
+ more
+ of
+ the
+ work
+ on
+ behalf
+ of
+ the
+
+
+support
+ team.
+
+
+This
+ is
+ resulting
+ and
+ for
+ some
+ of
+ our
+
+
+support
+ team
+ it's
+ doubling
+ their
+
+
+velocity
+ from
+ one
+ to
+ two
+ tickets
+ per
+
+
+week
+ which
+ already
+ is
+ amazing.
+ That's
+
+
+going
+ from
+ a
+ support
+ team
+ that
+ wasn't
+
+
+shipping
+ any
+ fixes,
+ well
+ unofficially
+
+
+they
+ were
+ sometimes
+ to
+ now
+ shipping
+ one
+
+
+to
+ two
+ per
+ week
+ per
+ person
+ to
+ now
+
+
+shipping
+ three
+ to
+ four
+ with
+ the
+ help
+ of
+
+
+Scout.
+
+
+Another
+ uh
+ process
+ improvement,
+ Scout
+
+
+puts
+ potentially
+ fixable
+ tickets
+ right
+
+
+there
+ in
+ the
+ triage
+ flow.
+ takes
+ away
+ a
+
+
+lot
+ of
+ the
+ friction
+ of
+ looking
+ for
+
+
+something
+ to
+ grab
+ from
+ the
+ backlog.
+
+
+It's
+ not
+ just
+ the
+ support
+ who's
+
+
+benefiting,
+ it's
+ also
+ engineering.
+
+
+Engineering
+ manager
+ said,
+ uh,
+ it's
+ a
+
+
+great
+ example
+ of
+ when
+ it
+ works.
+ This
+
+
+tool
+ allows
+ us
+ to
+ stay
+ focused
+ on
+ the
+
+
+more
+ complex
+ stuff.
+
+
+And
+ if
+ you
+ take
+ away
+ anything
+ from
+ this
+
+
+talk,
+ I
+ hope
+ it
+ is
+ that
+ there
+ is
+ a
+
+
+really
+ powerful
+ magic
+ between
+ support
+
+
+and
+ empowering
+ them
+ with
+ codegen
+ and
+
+
+allowing
+ them
+ to
+ ship
+ fixes
+ because
+ they
+
+
+have
+ three
+ superpowers.
+ The
+ first
+ they
+
+
+are
+ the
+ closest
+ to
+ customer
+ pain
+ which
+
+
+mean
+ they're
+ closest
+ to
+ the
+ context
+ that
+
+
+really
+ matters
+ for
+ figuring
+ out
+ what's
+
+
+the
+ problem
+ and
+ how
+ to
+ solve
+ it.
+ They're
+
+
+also
+ troubleshooting
+ in
+ real
+ time.
+ These
+
+
+tickets
+ aren't
+ stale.
+ the
+ context
+ is
+
+
+fresh,
+ the
+ logs
+ aren't
+ missing.
+ You
+ put
+
+
+this
+ ticket
+ into
+ a
+ engineering
+ backlog
+
+
+months
+ later,
+ you
+ might
+ not
+ get
+ access
+
+
+to
+ those
+ logs
+ anymore.
+ And
+ then
+ three,
+
+
+they're
+ best
+ at
+ validation.
+
+
+You've
+ again,
+ you
+ put
+ the
+ same
+ ticket
+
+
+into
+ an
+ engineering
+ backlog.
+ The
+
+
+solution
+ an
+ engineer
+ might
+ come
+ up
+ with
+
+
+may
+ change
+ the
+ behavior
+ and
+ that
+ might
+
+
+be
+ good
+ for
+ some
+ customers
+ but
+ might
+ not
+
+
+necessarily
+ be
+ best
+ for
+ that
+ one
+
+
+customer
+ who
+ wrote
+ in
+ about
+ the
+ problem.
+
+
+And
+ one
+ other
+ major
+ benefit
+ of
+ this
+ is
+
+
+support
+ team
+ members
+ who
+ have
+ been
+ part
+
+
+of
+ this
+ experiment
+ are
+ now
+ engineers.
+
+
+I
+ want
+ to
+ say
+ thank
+ you
+ to
+ the
+ amazing
+
+
+team
+ who's
+ helped
+ built
+ this
+ process
+ or
+
+
+built
+ all
+ the
+ tools
+ and
+ the
+ scout
+ agent.
+
+
+Andy
+ is
+ actually
+ here
+ in
+ the
+ audience.
+
+
+So
+ shout
+ out
+ to
+ Andy.
+ If
+ you
+ want
+ to
+
+
+talk
+ about
+ any
+ of
+ the
+ technical
+ bits,
+
+
+he's
+ here.
+ And
+ I
+ want
+ to
+ impress
+ upon
+
+
+you
+ two
+ things.
+ We're
+ hiring,
+ but
+ mostly
+
+
+if
+ you
+ haven't
+ rafted
+ through
+ the
+ Grand
+
+
+Canyon,
+ please
+ consider
+ it.
+ It's
+
+
+lifechanging
+ and
+ you
+ should
+ go
+ with
+ ORS.
+
+
+Thank
+ you
+ very
+ much.
+ [applause]
+
+
+Heat.
+ [music]
+
+
+[music]
