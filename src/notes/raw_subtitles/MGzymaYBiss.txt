@@ -1,0 +1,4134 @@
+[music]
+
+
+I'm
+ the
+ last
+ speaker
+ of
+ the
+ day,
+ so
+ I'm
+
+
+just
+ between
+ you
+ and
+ dinner
+ or
+ drinks.
+
+
+So,
+ I'm
+ going
+ to
+ try
+ to
+ make
+ this
+ fun
+
+
+and
+ hopefully
+ a
+ little
+ bit
+ short.
+
+
+So,
+ first
+ of
+ all,
+ I
+ just
+ want
+ to
+ say
+ I'm
+
+
+very
+ glad
+ to
+ see
+ everybody
+ and
+ I'm
+
+
+actually
+ kind
+ of
+ surprised
+ to
+ see
+ so
+
+
+many
+ people
+ here.
+ Um,
+ because
+ I've
+ been
+
+
+I
+ live
+ here,
+ but
+ I've
+ been
+ traveling.
+ I
+
+
+was
+ in
+ Portugal
+ uh
+ last
+ week
+ and
+ I
+ was
+
+
+on
+ Twitter
+ and
+ someone
+ said
+ that
+
+
+everyone
+ was
+ moving
+ to
+ San
+ Francisco.
+
+
+Uh,
+ but
+ it's
+ great
+ to
+ have
+ everybody
+
+
+here
+ instead
+ because
+ I
+ [ __ ]
+ love
+ New
+
+
+York.
+
+
+>> [laughter]
+
+
+>> Come
+ on.
+ Come
+ on.
+
+
+[applause]
+
+
+Um,
+ so
+ I'm
+ supposed
+ to
+ talk
+ uh
+ today
+
+
+about
+ uh
+ how
+ to
+ build
+ an
+ a
+ playbook
+ for
+
+
+how
+ to
+ build
+ an
+ AI
+ native
+ company.
+ And
+
+
+um
+ I
+ actually
+ don't
+ have
+ one
+
+
+unfortunately.
+ Um
+
+
+and
+ that's
+ because
+ I
+ think
+ the
+ playbook
+
+
+is
+ actually
+ being
+ invented
+ right
+ now.
+ So
+
+
+we're
+ doing
+ it
+ at
+ the
+ company
+ that
+ I
+ run
+
+
+every
+ but
+ all
+ of
+ you
+ are
+ doing
+ it
+ here
+
+
+today
+ as
+ well
+ and
+ and and
+ so
+ I
+ don't
+
+
+want
+ to
+ do
+ this
+ talk
+ from
+ the
+
+
+perspective
+ of
+ I
+ have
+ all
+ the
+ answers
+
+
+and
+ I'm
+ going to
+ tell
+ you
+ the
+ framework
+
+
+and
+ the
+ playbook
+ and
+ all
+ that
+ kind
+ of
+
+
+stuff.
+ Um
+ but
+ um
+ I
+ do
+ think
+ it
+ is
+
+
+helpful
+ when
+ we're
+ in
+ this
+ beginning
+
+
+stage
+ of
+
+
+uh
+ learning
+ how
+ to
+ use
+ AI
+ to
+ do
+
+
+engineering
+ to
+ build
+ companies
+ uh
+ to
+
+
+share
+ like
+ the
+ the
+ personal
+ experiences
+
+
+that
+ we're
+ having
+ inside
+ of
+ our
+
+
+companies
+ um
+ and
+ uh
+ and
+ sort
+ of
+
+
+collaboratively
+ figure
+ out
+ the
+ playbook
+
+
+together.
+ So
+ I
+ think
+ the
+ best
+ that
+ I
+ can
+
+
+offer
+ is
+ really
+ just
+ sort
+ of
+ dispatches
+
+
+from
+ the
+ future.
+ Uh
+ notes
+ on
+ what
+ I've
+
+
+figured
+ out
+ um
+ and
+ the
+ work
+ that
+ we've
+
+
+done
+ inside
+ of
+ every
+ um
+ and
+ I
+ think
+ the
+
+
+the
+ first
+ big
+ thing
+ the
+ first
+ the
+ first
+
+
+big
+ thing
+ I
+ really
+ noticed
+ is
+ that
+ there
+
+
+is
+ definitely
+ a
+ huge
+ there's
+ a
+ 10x
+
+
+difference
+ between
+ an
+ org
+ where
+ 90%
+ of
+
+
+the
+ engineers
+ are
+ using
+ AI
+ versus
+ an
+ org
+
+
+where
+ 100%
+ of
+ the
+ engineers
+ are
+ using
+
+
+AI.
+ It's
+ it's
+ it's
+ totally
+ different.
+
+
+Um,
+ I
+ think
+ the
+ I
+ think
+ the
+ big
+ thing
+ is
+
+
+if
+ even
+ 10%
+ of
+ your
+ company
+ is
+
+
+uh
+ is
+ using
+ a
+ more
+ traditional
+
+
+engineering
+ method,
+ you
+ you
+ sort
+ of
+ have
+
+
+to
+ lean
+ all
+ the
+ way
+ back
+ over
+ into
+ that
+
+
+world.
+ Um,
+ and
+ so
+ it
+ it
+ prevents
+ you
+
+
+from
+ doing
+ some
+ of
+ the
+ things
+ that
+ you
+
+
+might
+ do
+ if
+ everyone
+ was
+ uh
+ not
+ typing
+
+
+into
+ a
+ code
+ editor
+ all
+ the
+ time.
+ Um,
+
+
+and
+ I
+ know
+ this
+ because
+ this
+ is
+ what
+ we
+
+
+do
+ at
+ every
+ um,
+ which
+ is
+ the
+ company
+
+
+that
+ I
+ run.
+ And
+ it
+ has
+ totally
+
+
+transformed
+ what
+ we
+ are
+ able
+ to
+ do
+ as
+ a
+
+
+small
+ company.
+ Um,
+ and
+ so
+ I
+ think
+ of
+ us
+
+
+as
+ like
+ a
+ little
+ bit
+ of
+ a
+ lab
+ for
+ what's
+
+
+possible
+ that
+ I
+ I'm
+ excited
+ to
+ share
+
+
+with
+ you.
+ So
+ for
+ people
+ who
+ don't
+ know,
+
+
+I
+ run
+ every
+ um,
+ inside
+ of
+ every
+ we
+ have
+
+
+six
+ business
+ units.
+ We
+ have
+ four
+
+
+software
+ products.
+ We
+ run
+ four
+ software
+
+
+products
+ with
+ just
+ 15
+ people,
+ which
+ is
+
+
+kind
+ of
+ crazy.
+ Um,
+ and
+ these
+ software
+
+
+products
+ are
+ not
+ toys.
+ We've
+ grown
+ at
+
+
+every
+ we've
+ grown
+ MR
+ by
+ double
+ digits
+
+
+every
+ month
+ for
+ the
+ last
+ 6
+ months.
+ We
+
+
+have
+ over
+ 7,000
+ paying
+ subscribers
+ and
+
+
+over
+ 100,000
+ free
+ subscribers.
+ Um,
+ and
+
+
+we've
+ done
+ this
+ in
+ a
+ very
+ capital-like
+
+
+way.
+ We've
+ only
+ raised
+ about
+ a
+ million
+
+
+dollars
+ in
+ total.
+ Um
+ and
+ very
+
+
+importantly
+ for
+ for
+ this
+ audience
+ and
+
+
+for
+ this
+ discussion
+ um
+ 99%
+ of
+ our
+ code
+
+
+is
+ written
+ by
+ AI
+ agents.
+ Uh
+ no
+ one
+ is
+
+
+handwriting
+ code.
+ No
+ one
+ is
+ writing
+ code
+
+
+at
+ all.
+ Um
+ it's
+ all
+ done
+ with
+ cloud
+
+
+code,
+ codec,
+ Droid,
+ what
+ have
+ you.
+ Um
+ uh
+
+
+coding
+ agent
+ of
+ your
+ of
+ your
+ choice.
+
+
+Um,
+ and
+ also
+ really
+ importantly
+ for
+ the
+
+
+size
+ of
+ team
+ we
+ are,
+ each
+ one
+ of
+ our
+
+
+apps
+ is
+ built
+ by
+ a
+ single
+ developer,
+
+
+which
+ is
+ crazy.
+ And
+ these
+ are
+ not
+ like
+
+
+uh
+ little
+ apps.
+ Uh,
+ here
+ here's
+ an
+
+
+example.
+ This
+ is
+ Kora,
+ which
+ is
+ a
+ um
+ AI
+
+
+email
+ management
+ app.
+ Um,
+ it's
+ sort
+ of
+
+
+an
+ it's
+ it
+ is
+ it's
+ an
+ assistant
+ for
+ your
+
+
+email.
+ It
+ on
+ on
+ the
+ left
+ over
+ here,
+ it
+
+
+summarizes
+ all
+ of
+ your
+ all
+ of
+ your
+
+
+emails
+ that
+ come
+ in.
+ So,
+ you
+ can
+ kind
+ of
+
+
+read
+ your
+ email
+ that
+ way.
+ This
+ is
+ what
+
+
+my
+ inbox
+ looks
+ like.
+ on
+ the
+ right
+ is
+ a
+
+
+um
+ email
+ assistant
+ that
+ you
+ can
+ ask
+
+
+questions
+ like
+ I
+ asked
+ where's
+ when's
+ my
+
+
+AI
+ engineer
+ talk
+ um
+ today
+ and
+ it
+ gave
+ me
+
+
+just
+ gave
+ me
+ the
+ answer
+ um
+ and
+ this
+ is
+
+
+built
+ primarily
+ by
+ one
+ engineer
+ um
+ that
+
+
+he's
+ got
+ one
+ or
+ two
+ contractors
+ that
+
+
+have
+ helped
+ in
+ in
+ certain
+ ways
+ but
+ like
+
+
+almost
+ all
+ of
+ this
+ is
+ built
+ by
+ one
+ guy
+
+
+same
+ thing
+ for
+ um
+
+
+uh
+ this
+ app
+ which
+ is
+ another
+ one
+ that
+ we
+
+
+we
+ make
+ called
+ monologue
+ which
+ is
+ a
+
+
+speechtoext
+ app
+ It's
+ sort
+ of
+ like
+ Super
+
+
+Whisper
+ or
+ Whisper
+ Flow
+ if
+ you
+ know
+ of
+
+
+those.
+ Um,
+ again,
+ one
+ guy,
+ thousands
+ of
+
+
+users.
+ Um,
+ I
+ I
+ love
+ it.
+ It's
+ a
+ it's
+ a
+
+
+it's
+ just
+ a
+ beautifully
+ done
+ app
+ and
+
+
+it's
+ not
+ it's
+ not
+ simple.
+ It's
+
+
+complicated.
+ There's
+ a
+ lot
+ of
+ stuff
+ to
+
+
+it.
+ Same
+ thing
+ for
+ this
+ app
+ called
+
+
+Spiral.
+ You
+ can
+ see
+ there's
+ it's
+ it's
+
+
+big.
+ Um,
+ and
+ again,
+ one
+ engineer.
+
+
+So,
+ obviously,
+ this
+ would
+ not
+ have
+ been
+
+
+possible
+ um
+ a
+ few
+ years
+ ago.
+ it
+ would
+
+
+not
+ have
+ been
+ possible
+ even
+ a
+ year
+ ago.
+
+
+And
+ I
+ think
+ the
+ big
+ change
+ that
+ happened
+
+
+that
+ we're
+ all
+ starting
+ to
+ catch
+ up
+ to
+
+
+is
+ um
+ it
+ started
+ with
+ cloud
+ code
+ this
+
+
+sort
+ of
+ like
+ terminal
+ UI
+ that
+ gets
+ rid
+
+
+of
+ the
+ code
+ editor
+ really
+ push
+ pushed
+ us
+
+
+into
+ a
+ place
+ where
+ um
+ we
+ are
+ delegating
+
+
+tasks
+ to
+ these
+ agents.
+ We
+ are
+ and
+ and
+
+
+that
+ allows
+ us
+ to
+ uh
+ work
+ in
+ parallel
+
+
+and
+ do
+ much
+ more
+ than
+ we
+ would
+ have
+
+
+ordinarily.
+ Um,
+
+
+so
+ some
+ of
+ the
+ things
+ that
+ some
+ of
+ the
+
+
+things
+ that
+ I've
+ noticed
+ that
+ we
+ can
+ do
+
+
+that
+ I
+ I
+ assume
+ people
+ in
+ this
+ room
+ are
+
+
+starting
+ to
+ see
+ but
+
+
+>> [snorts]
+
+
+>> um
+ I
+ think
+ is
+ sort
+ of
+ important
+ to
+ put
+
+
+put
+ our
+ finger
+ on
+ is
+ uh
+ the
+ reason
+ we
+
+
+can
+ go
+ much
+ faster
+ is
+ we
+ can
+ work
+ on
+
+
+multiple
+ multiple
+ features
+ and
+ bugs
+ in
+
+
+parallel.
+ And
+ I
+ think
+ that
+ there's
+ a
+ um
+
+
+there's
+ like
+ a
+ little
+ bit
+ of
+ a
+ meme
+ of
+
+
+the
+ vibe
+ coder
+ on
+ Twitter
+ that
+ is
+ oh
+
+
+like
+ they
+ they
+ have
+ um
+ they
+ have
+ four
+
+
+panes
+ open
+ but
+ they're
+ not
+ actually
+
+
+doing
+ any
+ work.
+ And
+ I
+ actually
+ you
+ can
+
+
+do
+ it
+ that
+ way.
+ And
+ I
+ think
+ there
+ are
+
+
+also
+ definitely
+ engineers
+ and
+ I
+ know
+
+
+that
+ they
+ are
+ because
+ they
+ work
+ at
+ every
+
+
+that
+ are
+ productively
+ using
+ four
+ panes
+
+
+of
+ agents
+ at
+ the
+ same
+ time.
+ Um,
+ and
+
+
+that's
+ that's
+ crazy
+ and
+ that
+ that
+
+
+contributes
+ a
+ lot
+ to
+ the
+ um
+ ability
+ for
+
+
+a
+ single
+ developer
+ to
+ build
+ and
+ run
+ a
+
+
+production
+ application.
+ Um,
+ another
+ like
+
+
+really
+ important
+ thing
+ about
+ this,
+ a
+
+
+really
+ big
+ um,
+ unlock
+ is
+ because
+ code
+ is
+
+
+cheap,
+ you
+ can
+ prototype
+ risky
+ ideas
+ and
+
+
+that
+ allows
+ you
+ to
+ do
+ more
+ experiments
+
+
+than
+ you
+ would
+ ordinarily.
+ And
+ that
+ lets
+
+
+you
+ make
+ way
+ more
+ progress
+ because
+ the
+
+
+starting
+ energy
+ to
+ try
+ something
+ is
+ so
+
+
+much
+ lower
+ because
+ you
+ just
+ like
+ say,
+
+
+"Oh,
+ go
+ do
+ this.
+ go
+ do
+ some
+ research
+ on
+
+
+this
+ like
+ big
+ refactor
+ I
+ might
+ want
+ to
+
+
+do
+ and
+ then
+ you
+ go
+ off
+ and
+ do
+ something
+
+
+else.
+ And
+ that's
+ a
+ really
+ big
+ deal.
+
+
+Um,
+ and
+ another
+ really
+ interesting
+ thing
+
+
+that
+ I
+ love
+ about
+ this
+ stuff
+ that
+ I'
+
+
+I've
+ noticed
+ in
+ inside
+ of
+ inside
+ of
+ our
+
+
+organization
+ is
+ we
+ move
+ we're
+ moving
+ a
+
+
+bit
+ more
+ toward
+ a
+ demo
+ culture
+ where
+ um
+
+
+instead
+ of
+ you
+ know
+ previously
+ if
+ you
+
+
+wanted
+ to
+ make
+ something
+ you'd
+ have
+ to
+
+
+be
+ like
+ maybe
+ write
+ a
+ memo
+ or
+ do
+ a
+ do
+ a
+
+
+deck
+ or
+ um
+ or
+ you
+ know
+ convince
+ a
+ bunch
+
+
+of
+ people
+ that
+ it
+ was
+ a
+ good
+ idea
+ to
+
+
+spend
+ time
+ on
+ because
+ you
+ can
+ vibe
+ code
+
+
+something
+ uh
+ in
+ a
+ couple
+ hours
+ that
+ sort
+
+
+of
+ shows
+ the
+ thing
+ that
+ you're
+ uh
+ that
+
+
+you
+ want
+ to
+ make.
+ It
+ it
+ allows
+ you
+ to
+
+
+show
+ everybody
+ and
+ uh
+ I
+ think
+ that
+ being
+
+
+a
+ being
+ a
+ sort
+ of
+ de
+ democulture
+ allows
+
+
+you
+ to
+ do
+ weirder
+ things
+ that
+ you
+ only
+
+
+get
+ if
+ you
+ can
+ feel
+ it.
+ Um
+ which
+ is
+ I
+
+
+think
+ really
+ amazing
+
+
+and
+ beyond
+ just
+ like
+ sort
+ of
+ the
+ basic
+
+
+productivity
+ unlocks.
+
+
+um
+
+
+AI
+ has
+ and
+ the
+ way
+ that
+ we
+ use
+ it
+ has
+
+
+caused
+ us
+ to
+ sort
+ of
+ invent
+ an
+ entirely
+
+
+new
+ set
+ of
+ engineering
+ primitives
+ and
+
+
+processes
+ which
+ I
+ am
+ sure
+ that
+ everybody
+
+
+in
+ this
+ room
+ is
+ starting
+ to
+ do
+ already.
+
+
+I
+ think
+ everyone
+ is
+ sort
+ of
+ approaching
+
+
+the
+ same
+ things
+ from
+ different
+ angles
+
+
+and
+ a
+ lot
+ of
+ them
+ definitely
+ do
+ echo
+
+
+engineering
+ processes
+ from
+ the
+ past
+ but
+
+
+I
+ think
+ it's
+ really
+ helpful
+ to
+ try
+ to
+
+
+put
+ our
+ finger
+ on
+ okay
+ what
+ is
+ the
+ new
+
+
+way
+ of
+ programming
+ if
+ we're
+ moving
+ up
+ a
+
+
+level
+ of
+ the
+ stack
+ and
+ and
+ we're
+ moving
+
+
+from
+ you
+ know
+ Python
+ and
+ JavaScript
+ and
+
+
+scripting
+ languages
+ up
+ into
+ um
+ up
+ into
+
+
+English
+ and
+ the
+ uh
+ the
+ the
+ name
+ that
+
+
+we've
+ given
+ to
+ this
+ process
+ is
+
+
+compounding
+ engineering
+
+
+Um,
+ and
+ the
+ way
+ that
+ I
+ talk
+ about
+
+
+compounding
+ engineering
+ is
+ in
+
+
+traditional
+ engineering,
+ each
+ feature
+
+
+makes
+ the
+ next
+ feature
+ harder
+ to
+ build.
+
+
+In
+ compounding
+ engineering,
+ your
+ goal
+ is
+
+
+to
+ make
+ sure
+ that
+ each
+ feature
+ makes
+ the
+
+
+next
+ feature
+ easier
+ to
+ build.
+ Um,
+ and
+ we
+
+
+do
+ that
+ in
+ this
+ loop.
+
+
+Um,
+ the
+ loop
+ has
+ four
+ steps.
+ The
+ first
+
+
+one
+ is
+ plan.
+ And
+ if
+ you're
+ you've
+ been
+
+
+here
+ today,
+ you've
+ been
+ paying
+
+
+attention,
+ you
+ know
+ how
+ important
+ it
+ is
+
+
+when
+ you're
+ working
+ with
+ agents
+ to
+ make
+
+
+a
+ really
+ really
+ detailed
+ plan.
+ So
+ I
+
+
+think
+ everyone
+ is
+ doing
+ that.
+ Second
+
+
+step
+ is
+ delegate.
+ Just
+ like
+ go
+ tell
+ the
+
+
+agent
+ to
+ do
+ it.
+ Everyone's
+ doing
+ that
+
+
+too.
+ Third
+ step
+ is
+ assess.
+ And
+ we
+ have
+
+
+tons
+ and
+ tons
+ of
+ ways
+ to
+ um
+ assess
+
+
+whether
+ the
+ work
+ that
+ the
+ agent
+ did
+ is
+
+
+any
+ good.
+ There's
+ tests,
+ there's
+ trying
+
+
+it,
+ there's
+ having
+ the
+ agent
+ uh
+ figure
+
+
+it
+ out.
+ There's
+ there's
+ code
+ review,
+
+
+there's
+ agent
+ code
+ review,
+ there's
+ all
+
+
+this
+ types
+ of
+ stuff.
+ And
+ then
+ the
+ last
+
+
+step
+ which
+ is
+ I
+ think
+ the
+ most
+
+
+interesting
+ one
+ is
+ codify.
+ And
+ this
+ is
+
+
+kind
+ of
+ like
+ the
+ the
+ money
+ step
+ which
+ is
+
+
+where
+ you
+ compound
+
+
+everything
+ that
+ you've
+ learned
+ from
+ the
+
+
+planning
+ stage,
+ the
+ delegation
+ stage,
+
+
+the
+ assessment
+ stage
+ back
+ into
+ prompts
+
+
+that
+ go
+ into
+ your,
+ you
+ know,
+ your
+ cloud
+
+
+MD
+ file
+ or
+ your
+ um
+ your
+ sub
+ aents
+ or
+
+
+your
+ slash
+ commands
+ and
+ you
+ start
+ to
+ um
+
+
+basically
+ create
+ this
+ library.
+ You
+ take
+
+
+all
+ the
+ tacet
+ knowledge
+ that
+ you
+ pick
+ up
+
+
+um
+ that
+ all
+ your
+ engineers
+ are
+ picking
+
+
+up
+ um
+ as
+ they
+ find
+ bugs,
+ fix
+ plans,
+ um
+
+
+delegate
+ work,
+ and
+ you
+ um
+ you
+ make
+ it
+
+
+into
+ an
+ explicit
+ collection
+ of
+ prompts
+
+
+that
+ you
+ can
+ spread
+ for
+ your
+ entire
+
+
+organization.
+
+
+And
+ um
+ when
+ you
+ do
+ that
+ really
+ well,
+
+
+there's
+ a
+ lot
+ of
+ like
+ really
+ interesting
+
+
+um
+ second
+ order
+ effects
+ that
+ are
+ are
+ not
+
+
+I
+ think
+ that
+ well
+ understood
+ or
+ or
+ that
+
+
+commonly
+ talked
+ about
+ that
+ I
+ think
+ would
+
+
+be
+ interesting
+ to
+ to
+ bring
+ here
+ because
+
+
+my
+ guess
+ is
+ that
+ um
+ some
+ people
+ are
+
+
+already
+ seeing
+ this,
+ but
+ like
+ maybe
+ it
+
+
+needs
+ to
+ be
+ pushed
+ on
+ a
+ little
+ bit
+ more
+
+
+to
+ like
+ really
+ be
+ brought
+ out
+ and
+ some
+
+
+people
+ uh
+ it
+ might
+ be
+ an
+ interesting
+ way
+
+
+to
+ get
+ more
+ of
+ your
+ organization
+ to
+ buy
+
+
+into
+ using
+ these
+ tools.
+ tools
+ 100%
+ of
+
+
+the
+ time.
+
+
+Um,
+ so
+ the
+ first
+ thing
+ that
+ you
+ notice
+
+
+if
+ you
+ sort
+ of
+ if
+ you
+ set
+ up
+ this
+
+
+process
+ and
+ you
+ and
+ you're
+ like
+ 100%
+
+
+bought
+ in
+ on
+ something
+ like
+ compounding
+
+
+engineering
+ um
+ is
+ that
+ tacet
+ code
+
+
+sharing
+ becomes
+ much
+ easier.
+ So
+ uh
+ we
+
+
+have
+ we
+ have
+ multiple
+ products
+ at
+ every
+
+
+a
+ lot
+ of
+ a
+ lot
+ of
+ products
+ a
+ lot
+ of
+
+
+times
+ need
+ to
+ implement
+ similar
+ things
+
+
+even
+ if
+ they
+ use
+ different
+ technologies
+
+
+or
+ imple
+ implementing
+ similar
+ things
+
+
+like
+ a
+ team's
+ feature
+ or
+ a
+ certain
+ type
+
+
+of
+ ooth
+ or
+ whatever.
+ Um
+
+
+previously
+ in
+ order
+ to
+ share
+ code
+ you'd
+
+
+have
+ to
+ like
+ abstract
+ out
+ whatever
+ you
+
+
+did
+ into
+ a
+ library
+ and
+ then
+ like
+ allow
+
+
+someone
+ else
+ to
+ download
+ it
+ and
+ it
+ it'd
+
+
+be
+ hard
+ to
+ do
+ or
+ you'd
+ have
+ to
+ talk
+
+
+about
+ it.
+ with
+ agents.
+ Um
+ you
+ can
+ just
+
+
+point
+ your
+ cloud
+ code
+ instance
+ at
+ um
+ the
+
+
+repo
+ from
+ the
+ developer
+ sitting
+ next
+ to
+
+
+you
+ and
+ learn
+ the
+ process
+ that
+ they
+ went
+
+
+through
+ to
+ build
+ the
+ feature
+ that
+ they
+
+
+that
+ you
+ need
+ to
+ reimplement
+ and
+
+
+reimplement
+ it
+ yourself
+ in
+ your
+ own
+ tech
+
+
+stack
+ in
+ your
+ own
+ framework
+ and
+ in
+ your
+
+
+own
+ way.
+ Um,
+ and
+ that's
+ really
+ really
+
+
+cool
+ to
+ kind
+ of
+ have
+ this
+ the
+ more
+
+
+developers
+ you
+ have
+ working
+ on
+ different
+
+
+things
+ inside
+ of
+ the
+ org,
+ the
+ more
+ you
+
+
+can
+ um
+ share
+ without
+ any
+ extra
+ cost
+
+
+because
+ AI
+ can
+ just
+ go
+ read
+ all
+ the
+ code
+
+
+and
+ and
+ um
+ and
+ use
+ it.
+ Um,
+ another
+
+
+really
+ cool
+ thing
+ that
+ I've
+ noticed
+ is
+
+
+that
+ new
+ hires
+ are
+ productive
+ on
+ their
+
+
+first
+ day
+ because
+ you've
+ taken
+ all
+ of
+
+
+the
+ things
+ that
+ you've
+ learned
+ about
+
+
+like,
+ okay,
+ how
+ do
+ I
+ set
+ up
+ an
+
+
+environment
+ and
+ what
+ does
+ a
+ good
+ commit
+
+
+look
+ like
+ and
+ all
+ this
+ kind
+ of
+ stuff
+ and
+
+
+on
+ the
+ first
+ day
+ they
+ have
+ all
+ that
+ set
+
+
+up
+ in
+ their
+ in
+ their,
+ you
+ know,
+ cloudmd
+
+
+files
+ or
+ their
+ cursor
+ files
+ or
+ uh
+ codec
+
+
+files
+ or
+ whatever
+ and
+ um
+ the
+ agent
+ just
+
+
+sets
+ up
+ their
+ local
+ environment
+ and
+
+
+knows
+ how
+ to
+ write
+ a
+ good
+ PR.
+ That's
+
+
+really
+ cool.
+ It
+ also
+ helps
+ if
+ you
+ um
+
+
+want
+ to
+ hire
+ like
+ expert
+ freelancers.
+
+
+Like
+ there's
+ some
+ there's
+ one
+ guy
+
+
+there's
+ one
+ person
+ who
+ just
+ is
+ really
+
+
+good
+ at
+ this
+ one
+ specific
+ thing.
+ You
+ can
+
+
+have
+ them
+ come
+ in
+ for
+ a
+ day
+ and
+ like
+ do
+
+
+that
+ thing.
+ It's
+ I
+ think
+ of
+ it
+ a
+ little
+
+
+bit
+ like
+ um
+ like
+ a
+ DJ
+ or
+ whatever
+ can
+
+
+like
+ go
+ in
+ on
+ like
+ a
+ couple
+ bars
+ of
+ a
+
+
+song.
+ Like
+ you
+ can
+ just
+ sort
+ of
+ drop
+ in
+
+
+and
+ that's
+ really
+ helpful.
+ it's
+ it
+ would
+
+
+ordinarily
+ be
+ like
+ too
+ hard
+ to
+
+
+collaborate
+ because
+ the
+ the
+ startup
+ cost
+
+
+is
+ too
+ high,
+ but
+ you
+ can
+ do
+ that
+ a
+ lot
+
+
+better
+ now.
+
+
+Um,
+ another
+ thing
+ that
+ I've
+ noticed
+
+
+which
+ is
+ really
+ cool
+ too
+ is
+ um
+
+
+developers
+ inside
+ of
+ every
+ commit
+ to
+ um
+
+
+other
+ products.
+ So,
+ uh
+ you
+ know
+ we
+ have
+
+
+four
+ products
+ that
+ run
+ internally.
+
+
+Everybody
+ uses
+ all
+ the
+ products.
+ If
+
+
+someone
+ uh
+ runs
+ into
+ a
+ bug
+ or
+ a
+ paper
+
+
+cutter,
+ like
+ a
+ little
+ minor
+ quality
+ of
+
+
+life
+ thing
+ that
+ they
+ want,
+ they
+ will
+ um
+
+
+often
+ just
+ um
+ they
+ will
+ often
+ just
+ uh
+
+
+just
+ submit
+ a
+ poll
+ request
+ for
+ it
+ to
+
+
+other
+ GM
+ of
+ the
+ app
+ um
+ because
+ it's
+ very
+
+
+easy
+ for
+ them
+ to
+ go
+ download
+ the
+ repo
+
+
+and
+ figure
+ out
+ uh
+ or
+ have
+ really
+ have
+
+
+Claude
+ or
+ Codeex
+ figure
+ out,
+ okay,
+ this
+
+
+is
+ how
+ we
+ fix
+ the
+ bug
+ or
+ this
+ is
+ how
+ we
+
+
+fix
+ the
+ paper
+ cut.
+ Um
+ and
+ that's
+ really
+
+
+really
+ cool
+ because
+ you
+ have
+ this
+
+
+much
+ um
+ much
+ easier
+ way
+ of
+ collaborating
+
+
+across
+ apps
+ that
+ I
+ I
+ think
+ over
+ the
+ next
+
+
+couple
+ years
+ I
+ imagine
+ that
+ you
+ will
+
+
+also
+ be
+ able
+ to
+ let
+ customers
+ do
+ this
+ to
+
+
+some
+ extent
+ like
+ if
+ you
+ run
+ into
+ a
+ bug
+
+
+um
+ this
+ is
+ you
+ know
+ speculative
+ but
+ if
+
+
+you
+ run
+ into
+ a
+ bug
+ you
+ can
+ have
+ your
+
+
+little
+ agent
+ fix
+ it
+ um
+ and
+ submit
+ it
+ as
+
+
+a
+ pull
+ request
+ it's
+ a
+ weird
+ open
+ source
+
+
+thing
+ but
+ um
+ yeah
+ this
+ is
+ really
+ really
+
+
+cool
+ and
+ and
+ definitely
+ is
+ happening
+ a
+
+
+lot
+ inside
+ of
+ our
+ company
+ [snorts]
+
+
+Um,
+ another
+ really
+ cool
+ thing
+ is
+ um,
+ we
+
+
+we
+ have
+ not
+ this
+ may
+ get
+ different
+ as
+ we
+
+
+as
+ we
+ scale,
+ but
+ um,
+ we
+ have
+ not
+ yet
+ had
+
+
+to
+ standardize
+ onto
+ a
+ particular
+ stack
+
+
+or
+ language.
+ We
+ instead
+ let
+ everyone
+
+
+who's
+ building
+ different
+ products
+ like
+
+
+pick
+ the
+ thing
+ that
+ they
+ like
+ best
+ and
+
+
+the
+ reason
+ is
+ because
+ it
+ makes
+ it
+ AI
+
+
+makes
+ it
+ much
+ easier
+ to
+ translate
+
+
+between
+ them.
+ Um,
+ and
+ it
+ makes
+ it
+ much
+
+
+easier
+ to
+ to
+ jump
+ into
+ any
+ language
+ and
+
+
+framework
+ and
+ environment
+ and
+ be
+
+
+productive.
+ And
+ so
+ it
+ we
+ don't
+ uh
+ it's
+
+
+easier
+ for
+ us
+ to
+ let
+ people
+ just
+ do
+ the
+
+
+thing
+ that
+ that
+ they
+ like
+ and
+ let
+ AI
+
+
+kind
+ of
+ like
+ handle
+ the
+ translation
+ in
+
+
+between.
+
+
+Um
+ and
+ the
+ last
+ thing
+ which
+ is
+ my
+
+
+favorite
+ but
+ like
+ is
+ also
+ the
+ horror
+ I
+
+
+think
+ of
+ of
+ some
+ developers
+ and
+ to
+ some
+
+
+degree
+ maybe
+ the
+ horror
+ of
+ my
+ team
+ um
+ is
+
+
+that
+ managers
+ can
+ commit
+ code.
+ um
+ if
+
+
+you're
+ technical
+ uh
+ even
+ the
+ CEO
+ and
+
+
+um
+ for
+ for
+ me
+ like
+ I
+ have
+ no
+ business
+
+
+committing
+ code
+ because
+ we've
+ got
+ four
+
+
+products
+ we've
+ got
+ 15
+ people
+ we're
+
+
+growing
+ really
+ fast
+ um
+ I'm
+ doing
+ tons
+
+
+and
+ tons
+ of
+ other
+ things
+ but
+ I
+ can
+ and
+ I
+
+
+I
+ have
+ like
+ committed
+ production
+ code
+
+
+over
+ the
+ last
+ couple
+ months
+ and
+ the
+
+
+reason
+ for
+ that
+ is
+ AI
+ allows
+ um
+
+
+engineers
+ to
+ work
+ with
+ fractured
+
+
+attention
+ so
+ previously
+ you
+ might
+ have
+
+
+needed
+ like
+ a
+ 3
+ or
+ 4
+ hour
+ block
+ of
+ focus
+
+
+time
+ in
+ order
+ to
+ like
+ get
+ anything
+ done.
+
+
+Um,
+ but
+ with
+ cloud
+ code,
+ you
+ can
+ kind
+ of
+
+
+like
+ get
+ out
+ of
+ meeting
+ and
+ say,
+ "Hey,
+
+
+like
+ I
+ want
+ you
+ to
+ investigate
+ this
+
+
+bug."
+ And
+ then
+ go
+ do
+ something
+ else
+ and
+
+
+then
+ come
+ back
+ and
+ you
+ have
+ like
+ a
+ a
+
+
+plan
+ or
+ like
+ a
+ um
+ root
+ cause
+ fix
+ and
+
+
+then
+ you
+ can
+ submit
+ a
+ PR.
+ And
+ it's
+ not
+
+
+easy.
+ It's
+ not
+ magic,
+ but
+ it
+ is
+ actually
+
+
+possible.
+ And
+ I
+ think
+ that's
+ a
+ that's
+
+
+just
+ a
+ totally
+ new
+ way
+ of
+ thinking
+ how
+
+
+thinking
+ of
+ thinking
+ about
+ how
+ managers
+
+
+interact
+ with
+ the
+ products
+ that
+ they
+
+
+make.
+
+
+So,
+ um,
+ just
+ to
+ just
+ to
+ summarize,
+ um,
+
+
+there's
+ a
+ I
+ really
+ think
+ there's
+ a
+ 10x
+
+
+difference
+ in
+ how
+ things
+ work
+ when
+ you
+
+
+hit
+ 100%
+ AI
+ adoption.
+
+
+I
+ think,
+ um,
+ from
+ what
+ we've
+ seen,
+ a
+
+
+single
+ engineer
+ should
+ be
+ able
+ to
+ build
+
+
+and
+ maintain
+ a
+ complex
+ production
+
+
+product.
+ what
+ we
+ call
+ compounding
+
+
+engineering,
+ but
+ I
+ think
+ what
+ all
+ of
+ us
+
+
+are
+ are
+ sort
+ of
+ pointing
+ to
+ um
+ is
+ I
+ I
+
+
+think
+ really
+ works
+ to
+ make
+ each
+ feature
+
+
+easier
+ to
+ build
+ and
+ then
+ creates
+ all
+ of
+
+
+these
+ sort
+ of
+ nonobvious
+ second
+ order
+
+
+effects
+ that
+ makes
+ it
+ easier
+ for
+ the
+
+
+entire
+ organization
+ to
+ collaborate
+
+
+together.
+
+
+And
+ very
+ importantly,
+ many
+ people
+ in
+ San
+
+
+Francisco
+ don't
+ know
+ this
+ yet.
+ Um
+ so
+
+
+you're
+ you're
+ the
+ first
+ to
+ hear
+ it.
+ Um
+
+
+so
+ that
+ is
+ my
+ talk.
+ So,
+ if
+ you're
+
+
+interested
+ in
+ um
+ in
+ what
+ we
+ do,
+ uh
+ I
+ run
+
+
+every
+ uh
+ Every
+ is
+ the
+ only
+ subscription
+
+
+you
+ need
+ to
+ stay
+ at
+ the
+ edge
+ of
+ AI.
+ You
+
+
+can
+ find
+ us
+ at
+ every.to.
+ Um
+ we
+ uh
+ we
+
+
+have
+ a
+ daily
+ newsletter
+ about
+ AI.
+ So,
+ we
+
+
+do
+ ideas,
+ apps,
+ and
+ training.
+ We
+ have
+ a
+
+
+on
+ the
+ ideas
+ side,
+ we
+ have
+ a
+ daily
+
+
+newsletter.
+ We
+ review
+ all
+ the
+ new
+ models
+
+
+when
+ they
+ come
+ out
+ and
+ all
+ the
+ new
+
+
+products
+ when
+ they
+ come
+ out.
+ the
+ apps.
+
+
+You
+ already
+ saw
+ we've
+ a
+ bundle
+ of
+ all
+
+
+these
+ apps
+ and
+ then
+ we
+ do
+ training
+ and
+
+
+consulting
+ with
+ big
+ companies
+ to
+ help
+
+
+them
+ use
+ AI
+ and
+ it's
+ all
+ bundled
+ into
+
+
+one
+ subscription
+ so
+ you
+ get
+ everything
+
+
+for
+ one
+ price
+ and
+ that's
+ it.
+ Thank
+ you
+
+
+very
+ much.
+
+
+[music]
