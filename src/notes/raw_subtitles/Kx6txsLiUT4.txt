@@ -1,0 +1,490 @@
+What I love about technology
+is that it can help us do things
+that we could have never imagined.
+For instance, I grew up
+in a rural part of India.
+I didn't grow up in the city.
+I didn't come from an affluent family.
+In fact, we didn't have a computer
+when I was growing up.
+My middle school and high school
+had one computer
+that the entire school shared.
+I got access to 10 minutes a week,
+maybe 20 minutes max,
+for me to actually use a computer.
+That means I got to make
+every second count,
+and every second was precious
+because I wanted to learn how to program.
+With only 10 minutes to go,
+it wasn't an obvious choice
+or an easy one.
+I didn't have all day to try out my code.
+In fact, I had to be a human compiler
+to detect these syntax
+errors ahead of time.
+I fell in love with this problem solving
+that came with this
+and went on to actually study
+in the top college in my state,
+College of Engineering, Guindy,
+and was the first generation
+in my family to go to college.
+Eventually, I went out to get a PhD
+in Vrije Universiteit in Amsterdam.
+One funny anecdote, at my university,
+you had to have two people
+standing by your side
+while you are defending your thesis.
+In case the defense kept going on and on,
+someone needs to stand in
+if you need a break.
+Here in this picture,
+I asked my brother to be one of them.
+He knew almost nothing
+about my PhD dissertation
+and was terrified that I would
+step away as a joke,
+but I didn't.
+Eventually, I got a job at Amazon.
+You've got to remember,
+this was 20 years ago.
+And during that time,
+and I was, actually I distinctly remember,
+calling my mom and telling her,
+saying, like, "Mom,
+I got a job in Amazon."
+And I still remember my mom's
+reaction when I told her.
+She was certain I was going
+to waste my time, PhD,
+by joining an internet book company,
+because that's what
+Amazon was at that time.
+But at Amazon,
+I got an opportunity
+to build amazing things.
+And what became eventually AWS.
+And I got to build
+technologies like DynamoDB,
+SageMaker and Bedrock,
+which are the underpinnings of many
+of the modern applications we use today.
+And now, if I look back,
+it all started with the 10 minutes
+of access I had to that computer
+that wasn't even mine.
+It opened up worlds to me
+that I could have never thought
+that was possible.
+And now, as the VP of agentic AI at AWS,
+when I think about how agents
+are going to transform everything,
+I can't help but be optimistic.
+Today, I’m going to talk
+to you about AI agents,
+what I think will be one of the most
+transformative technology shifts
+of our time.
+And we will talk about what they are
+and what are the milestones
+they need to achieve
+before we can trust them
+and make it an integral part
+of our daily lives.
+And also talk about how
+they will change everything.
+So first, what are AI agents?
+AI agents are these autonomous
+software systems
+that leverage AI to reason.
+They plan and they adapt
+in pursuit of user-defined goals.
+They complete tasks on your behalf
+of humans or other systems.
+These AI agents can sense and interact
+with their digital environment,
+converting these high-level objectives
+into executable steps.
+And constantly they learn and improve
+their efficiency over time.
+Today, agents are being used
+for everything,
+right from software development
+to drug discovery
+to precision agriculture to many more.
+Their ability to use and manipulate
+interfaces in their digital environment,
+the same way we as humans do,
+dramatically lowers the bar for use cases
+like building applications.
+You no longer need rigid
+application specifications
+and then break it down
+into complex software projects.
+Now you have the possibility
+to just state your goal
+and let the AI agents figure it out.
+But not everything is an agent.
+For example, imagine
+you are a researcher in a lab.
+You're sitting down at your computer
+and tell the AI that you want
+to run some experiments
+to explore a new protein.
+It responds telling you
+something like, "Great,
+let me actually propose the six
+experiments you can run."
+Now that's not an agent, that's a chatbot.
+But with agents,
+what you get is when you give them a goal,
+they can plan.
+They can write code,
+they can use the tools
+to build the experiment for you.
+They will synthesize your results,
+and they will reflect on failures.
+And they will look for ways to constantly
+improve their efficiency over time.
+The work that you might take
+for a week or more to research
+and build the plans for these experiments
+can now be done in hours or even minutes.
+Your role now becomes
+more of a trusted advisor,
+where you are steering these AI agents
+towards actually execution
+and, in many ways, like peer
+reviewing a colleague’s book.
+With AI agents, the barriers
+to creating something will now lower.
+Challenges, like,
+I don't have a particular skill,
+or I don't have enough resources
+or headcount to do this project
+are going to start to go away.
+The future we will share
+will be shaped by those
+with the ability to think big
+and even dream bigger.
+But we are not there yet.
+In fact, there are three milestones
+these AI agents need to achieve
+before they fundamentally change
+how we work and how we live.
+The first is how we build software.
+So much of our world is digital.
+In fact, in this room alone,
+on all the devices you have in this room,
+there are probably hundreds
+of applications, if not more.
+In our daily lives, on a constant basis,
+we carry the works of tens
+of thousands of software developers,
+if not more than, like, hundreds
+or thousands of software developers.
+So now, when you think about it,
+for AI agents,
+before they can even reach the masses,
+they need to reach builders.
+And that means,
+if they are going to survive,
+those builders need to find the agents
+to be useful and interesting.
+This goes beyond the tools that these
+developers use on a daily basis.
+They are already becoming agentic,
+but what needs to change
+is how easy are these agents to build.
+The bigger shift is in changing
+how we conceptualize
+effective agent architectures.
+Now take a look at this problem
+of how software developers
+or builders build applications.
+Today, as developers,
+they have a bunch
+of choices they have to make
+as they are building these applications.
+Many of these are implementation details,
+like which server
+or which compute option
+do I need to choose
+for hosting this website
+or building this mobile app?
+If you have never had to make this choice,
+there are a lot of options to decide,
+like, how to host your website
+or application in the cloud.
+For example, in AWS for a builder,
+if they want to host
+a mobile app or website,
+in one of our services called EC2,
+we offer something like
+850 compute options
+for them to choose from,
+and that is not even one compute option.
+There are even more.
+And now, as we move
+towards the agentic era,
+developers will be able
+to shift their focus
+into what they are building
+instead of worrying
+about how they are building.
+That means decisions
+like which compute to choose
+become less relevant.
+In fact, AI agents are going
+to automatically enable us
+to pick those things for you.
+Now the next milestones
+agents are going to reach,
+and they must reach, is trust.
+Without trust,
+none of these capabilities of agents
+are going to really matter.
+But how can you trust an agent?
+The reality is that we are still
+in very early days of agentic AI.
+We know agents are imperfect,
+and they will make mistakes.
+Yet even in simple tasks,
+we have an uncompromising
+need for perfection.
+The good news is that agents are not
+reaching into some magical ether
+to make things happen.
+The systems, tools and the environments
+that these AI agents are using
+have well-understood
+specifications on how they work
+and what they should be doing,
+so they can actually
+be mathematically proved
+if a system or program obeys
+its application specifications
+the way they are intended to.
+And this technique is called
+automated reasoning.
+Automated reasoning
+is a field of computer science
+that attempts to provide assurance
+if a system is behaving
+exactly as it is expected,
+based on sound mathematical logic.
+Its roots go all the way back
+to ancient Greece,
+where Aristotle was the first logician
+to attempt a systematic analysis
+of logical syntax.
+Today, automated reasoning
+is the algorithmic search for proofs
+in mathematical logic,
+and can be used to make sure
+that the agentic reasoning is accurate.
+To do this, you need to know
+precisely what each agent can do.
+So now let's take a look
+at a very small example.
+At AWS, one of the first agents
+we built was called Amazon Q.
+Among other things, Q was built
+to help software developers
+build software applications.
+We were really excited.
+We were already imagining all
+the amazing possibilities Q can do,
+even in its prototype,
+because it was going to be as smart
+and capable as our best
+software developers.
+We thought it's going
+to accelerate our road map
+and obliterate all our backlogs.
+But there was a problem.
+The first prototype we built
+was more like me
+when I was an intern in Amazon.
+They were eager and error-prone.
+They were hallucinating API calls.
+We had to fix it.
+So how did we go about it?
+We formalized all the API specs
+into mathematical model
+so that every time Q
+generates an API request,
+an automated reasoning solver
+first verifies saying like,
+"Is this a valid request?"
+If the solver finds an error,
+it communicates back
+to the agent saying like,
+"Hey, I think you got it wrong this way.
+Can you now restructure your code?"
+So now it gets fixed
+even before requiring human intervention.
+This back-and-forth communication
+creates what I call
+as a neurosymbolic feedback loop
+that is completely transparent
+and enables us to mathematically prove
+that the action an agent can take
+is going to be correct
+even before it is taken.
+And it does it faster than you can blink:
+100 microseconds or less
+for 95 percent of use cases.
+Now, this is just a small start,
+but we believe combining agentic AI
+and automated reasoning
+will help agents become trustworthy
+to reach widespread adoption.
+Now, if we stopped here,
+we would have an incredible
+developer experience
+where every software
+developer in the world
+can build amazing, trustworthy agents.
+But agents can't change everything
+if it only targets a small
+subset of population.
+Across businesses,
+there are wide variety of people
+and most have never written
+a single line of code.
+The final milestone is to enable
+anyone to build agents.
+Here is an example.
+Imagine if you only had two minutes
+to recap everything you heard
+in the TED conference today
+and now you had to summarize it.
+For many of you thinking,
+"You know what, I'm going to just talk
+really, really fast and I can do it."
+That's not going to cut it
+if I tell you you have to use
+the clips that you saw today
+to create your two-minute summary.
+How long do you think it will take you
+to create this perfect two-minute story?
+Now that is the exact problem we faced
+in our Amazon Prime Video,
+where an effective recap
+of a Prime Video series
+can take weeks to produce
+and is very expensive
+because everything,
+from creating the story arc
+to selecting scenes, is manual.
+Cinematography experts
+are not usually the master coders,
+but we introduce agents
+to help streamline the process,
+breaking the workflow into three phases:
+observation, reasoning and action.
+Now, in our first phase,
+what we call as observation,
+we ask AI agents to understand
+what's happening in the video.
+They need to produce a rich
+and detailed observation and understanding
+about every aspect of the shot,
+scene and the entire story,
+so that we can define a story arc
+and select the right scenes.
+Then we move to the second phase,
+what we call as reasoning.
+Here, what we can imagine
+is the agents are saying, like,
+"With what I know, what do I need to do?"
+Reasoning layers on top of observation.
+So for example,
+we want to generate
+a voice-over narrative for recaps.
+We can ask the reasoning agent
+to generate the script
+by collaborating
+with the observation agent.
+Then, the final step
+is what we call as action.
+In this phase,
+now what you are bringing in
+are the trusted experts
+who are going to work with these AI agents
+to help finally recap the story.
+Now, if you go back
+to your two-minute TED recap,
+how much easier would it be
+for you with this task
+if you had these powerful AI agents?
+The power of human and agent collaboration
+is that it frees us up
+from being bogged on
+by the drudge work,
+and enables us to do these amazing things
+and creating things
+based on exactly what we love.
+But in Prime Video,
+they were using agents.
+So how do we get to a place
+where anyone can build agents?
+In fact, the frameworks to build agents
+are already getting simplified day by day.
+Any application developer
+who knows how to write a code in Python
+can now build a pretty
+useful agent already.
+And now we are also starting
+to see, like, not just from AWS,
+but everywhere around,
+we are building these agentic
+cloud infrastructure
+that makes it super easy
+to go from proof
+of concepts to production.
+But those alone are not enough.
+We need to expand the pool
+of people who can build AI agents.
+To get there, the interfaces
+to build agents must become familiar
+to business users as well.
+The way we think about building
+and training agents must also change.
+Smarter models are great,
+but a world-class scholar
+that doesn't take any action
+or that is ignorant to the way
+we do things, isn't helpful.
+We need agents that are ready
+for the real world.
+We will need to create worlds
+for agents to play with
+and to improve the next
+generation of digital twin.
+And once we are done
+[with] all of that, what happens?
+If we get it right,
+these agents will become invisible,
+but they will help us
+do incredible things.
+In the next few years,
+we will see agents that give rise
+to more companies faster than ever,
+where success is determined by your ideas
+and your ability to describe
+what you want to build.
+We will see more medical breakthroughs,
+and you are going to see
+way more discoveries.
+And with all of this,
+what makes me so optimistic
+is that the future
+we will have with agents
+will be ultimately built by you.
+Your 10 minutes are coming.
+What will you build?
+(Applause)
