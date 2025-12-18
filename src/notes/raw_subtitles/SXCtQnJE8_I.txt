@@ -1,0 +1,10686 @@
+I
+ think
+ from
+ EAS
+ I
+ hear
+ like,
+ "Oh,
+ AI
+
+
+doesn't
+ think
+ the
+ way
+ I
+ do."
+ I'm
+ like,
+
+
+"It
+ can
+ though.
+ It
+ can
+ as
+ long
+ as
+ you
+
+
+can
+ figure
+ out
+ the
+ system
+ behind
+ why
+
+
+you're
+ doing
+ things
+ and
+ be
+ able
+ to
+
+
+articulate
+ that."
+ I
+ think
+ this
+ is
+ going
+
+
+to
+ be
+ one
+ of
+ the
+ most
+ practical,
+
+
+time-saving,
+ and
+ stressaving
+ episodes
+ of
+
+
+how
+ I
+ AI
+ we
+ have
+ ever
+ had.
+ This
+ agent
+
+
+does
+ everything
+ you
+ want
+ and
+ then
+ more.
+
+
+And
+ over
+ time,
+ you
+ can
+ make
+ it
+ more
+
+
+intelligent.
+ It's
+ serving
+ as
+ this
+ kind
+
+
+of
+ second
+ brain
+ for
+ me
+ where
+ yes,
+ I
+ have
+
+
+all
+ this
+ and
+ part
+ of
+ my
+ superpower
+ as
+ an
+
+
+EA
+ is
+ remembering
+ all
+ these
+ things
+ about
+
+
+people,
+ but
+ this
+ is
+ making
+ sure
+ that
+
+
+it's
+ not
+ all
+ in
+ my
+ head
+ and
+ I
+ can
+ really
+
+
+refresh
+ my
+ memory
+ quickly
+ on
+ all
+ the
+
+
+context
+ rather
+ than
+ diving
+ through
+ the
+
+
+CRM,
+ my
+ email,
+ Slack,
+ and
+ looking
+ at
+ all
+
+
+these
+ things
+ separately.
+ If
+ you
+ are
+
+
+doing
+ a
+ repeated
+ task
+ every
+ week,
+ spend
+
+
+time
+ that
+ week
+ automating
+ that
+ task.
+ I
+
+
+definitely
+ am
+ a
+ believer
+ that
+ AI
+ can
+
+
+only
+ enable
+ us
+ in
+ this
+ role.
+ I
+ think
+
+
+it's
+ a
+ when,
+ not
+ an
+ if.
+ We
+ will
+ have
+ to
+
+
+be
+ folks
+ that
+ adopt
+ these
+ tools.
+
+
+Welcome
+ back
+ to
+ how
+ I
+ AI.
+ I'm
+ Claraveo,
+
+
+product
+ leader
+ and
+ AI
+ obsessive
+ here
+ on
+
+
+a
+ mission
+ to
+ help
+ you
+ build
+ better
+ with
+
+
+these
+ new
+ tools.
+ Today
+ [music]
+ we
+ have
+
+
+Courtney
+ Hickey,
+ EA
+ to
+ the
+ CEO
+ at
+
+
+Zapier.
+ And
+ yes,
+ of
+ course,
+ she
+ uses
+ AI
+
+
+to
+ automate
+ all
+ of
+ the
+ admin
+ tasks
+
+
+related
+ to
+ meetings
+ and
+ document
+ [music]
+
+
+preps
+ and
+ feedback,
+ but
+ she's
+ also
+ going
+
+
+to
+ show
+ us
+ some
+ unique
+ ways
+ that
+ you
+ can
+
+
+use
+ AI
+ to
+ reinforce
+ your
+ cultural
+ values
+
+
+and
+ operating
+ principles.
+ This
+ is
+ a
+
+
+really
+ great
+ one
+ for
+ anybody
+ thinking
+
+
+about
+ organization
+ at
+ scale,
+ operations
+
+
+at
+ scale,
+ and
+ culture
+ at
+ scale.
+ Let's
+
+
+get
+ to
+ [music]
+ it.
+ This
+ episode
+ is
+
+
+brought
+ to
+ you
+ by
+ work
+ OS.
+ AI
+ has
+
+
+already
+ changed
+ how
+ we
+ work.
+ Tools
+ are
+
+
+helping
+ teams
+ write
+ better
+ code,
+ analyze
+
+
+customer
+ data,
+ and
+ even
+ handle
+ support
+
+
+tickets
+ automatically.
+ But
+ there's
+ a
+
+
+catch.
+ [music]
+ These
+ tools
+ only
+ work
+
+
+well
+ when
+ they
+ have
+ deep
+ access
+ to
+
+
+company
+ systems.
+ Your
+ co-pilot
+ [music]
+
+
+needs
+ to
+ see
+ your
+ entire
+ codebase.
+ Your
+
+
+chatbot
+ needs
+ to
+ search
+ across
+ internal
+
+
+docs.
+ And
+ for
+ enterprise
+ buyers,
+ that
+
+
+raises
+ serious
+ security
+ concerns.
+ That's
+
+
+why
+ these
+ apps
+ face
+ intense
+ [music]
+ IT
+
+
+scrutiny
+ from
+ day
+ one.
+ To
+ pass,
+ they
+
+
+need
+ secure
+ authentication,
+ [music]
+
+
+access
+ controls,
+ audit
+ logs,
+ the
+ whole
+
+
+suite
+ of
+ enterprise
+ features.
+ Building
+
+
+all
+ that
+ from
+ scratch,
+ it's
+ [music]
+ a
+
+
+massive
+ lift.
+ That's
+ where
+ work
+ OS
+ comes
+
+
+in.
+ Work
+ OS
+ gives
+ you
+ [music]
+ drop-in
+
+
+APIs
+ for
+ enterprise
+ features
+ so
+ your
+ app
+
+
+can
+ become
+ enterprise
+ ready
+ and
+ scale
+
+
+[music]
+ up
+ market
+ faster.
+ Think
+ of
+ it
+
+
+like
+ Stripe
+ for
+ enterprise
+ features.
+
+
+OpenAI,
+ Perplexity,
+ [music]
+ and
+ Cursor
+
+
+are
+ already
+ using
+ work
+ OS
+ to
+ move
+ faster
+
+
+and
+ meet
+ enterprise
+ demands.
+ Join
+ them
+
+
+and
+ hundreds
+ of
+ other
+ industry
+ leaders
+
+
+at
+ workos.com.
+
+
+Start
+ building
+ today.
+ Courtney,
+ welcome
+
+
+to
+ How
+ I
+ AI.
+ I
+ am
+ really
+ excited
+ about
+
+
+this
+ episode
+ because
+ I
+ think
+ this
+ is
+
+
+going
+ to
+ be
+ one
+ of
+ the
+ most
+ practical,
+
+
+time-saving,
+ and
+ stressaving
+ episodes
+ of
+
+
+how
+ I
+ AI
+ we
+ have
+ ever
+ had.
+ So,
+ I'm
+ just
+
+
+pumped
+ to
+ have
+ you
+ on.
+ Can
+ you
+ just
+ tell
+
+
+us
+ a
+ little
+ bit
+ about
+ why
+ you've
+ chosen
+
+
+to
+ dive
+ head
+ first
+ into
+ using
+ AI
+ in
+ your
+
+
+role
+ aside
+ from
+ the
+ place
+ that
+ you
+ work?
+
+
+Yeah.
+ So
+ I
+ work
+ for
+ Zapier,
+ which
+ is
+ an
+
+
+automation
+ and
+ AI
+ orchestration
+ company.
+
+
+So
+ of
+ course
+ it's
+ part
+ of
+ our
+ company
+
+
+ethos,
+ but
+ I
+ am
+ just
+ personally
+ super
+
+
+passionate
+ about
+ using
+ AI
+ because
+ I
+
+
+think
+ it
+ can
+ help
+ work
+ myself
+ out
+ of
+ the
+
+
+boring,
+ repetitive,
+ manual
+ parts
+ of
+ my
+
+
+role
+ so
+ I
+ can
+ do
+ more
+ interesting
+ work.
+
+
+And
+ so
+ I
+ truly
+ believe
+ that
+ it's
+ not
+ a
+
+
+if
+ you
+ have
+ to
+ use
+ AI
+ in
+ this
+ type
+ of
+
+
+role,
+ it's
+ a
+ when.
+ So,
+ I
+ like
+ to
+ be
+
+
+ahead
+ of
+ the
+ curve.
+ I
+ like
+ to
+ learn
+ by
+
+
+doing.
+ And
+ so,
+ I've
+ spent
+ as
+ much
+ time
+
+
+as
+ I
+ can
+ over
+ the
+ past
+ couple
+ of
+ years
+
+
+really
+ diving
+ into
+ this
+ and
+ seeing
+ how
+ I
+
+
+can
+ change
+ the
+ shape
+ of
+ my
+ role
+ with
+
+
+this
+ new
+ tech.
+ And
+ what
+ I
+ like
+ is
+ we're
+
+
+going
+ to
+ start
+ off
+ on
+ a
+ workflow
+ and
+ use
+
+
+case
+ that
+ I
+ think
+ everyone
+ can
+ relate
+
+
+to,
+ which
+ is
+ meetings
+ stink.
+ Or
+ not
+
+
+meetings
+ stink,
+ but
+ meetings
+ could
+ be
+
+
+better
+ used
+ in
+ most
+ organizations.
+
+
+They're
+ expensive.
+ You
+ have
+ a
+ lot
+ of
+
+
+people
+ in
+ them.
+ And
+ I
+ think
+ like
+ prep
+
+
+and
+ followup
+ are
+ so
+ valuable
+ and
+ aren't
+
+
+really
+ done
+ well
+ by
+ organizations.
+ So
+
+
+I'd
+ love
+ for
+ you
+ to
+ walk
+ us
+ through
+ a
+
+
+couple
+ of
+ your
+ meeting
+ related
+
+
+workflows.
+ Totally.
+ Yeah.
+ I
+ mean,
+ as
+ an
+
+
+EA,
+ the
+ my
+ life
+ runs
+ off
+ of
+ the
+
+
+calendar.
+ So
+ that
+ was
+ naturally
+ one
+ of
+
+
+the
+ first
+ place
+ I
+ dove
+ into
+ with
+ AI.
+ And
+
+
+so
+ let's
+ jump
+ into
+ one
+ of
+ my
+ favorite
+
+
+workloads
+ that
+ I've
+ built.
+ And
+ this
+ is
+
+
+within
+ Zapier
+ agents.
+ So
+ our
+ agents
+
+
+product
+ uh
+ within
+ Zapier
+ we
+ have
+ a
+ bunch
+
+
+of
+ different
+ products
+ all
+ the
+ way
+ from
+
+
+super
+ deterministic
+ automations
+ that
+ run
+
+
+the
+ same
+ way
+ every
+ time
+ with
+ little
+
+
+creativity
+ to
+ these
+ agents
+ that
+ can
+ do
+
+
+tasks
+ that
+ involve
+ more
+ reasoning
+ and
+ uh
+
+
+have
+ a
+ lot
+ more
+ freedom
+ to
+ operate.
+ So
+
+
+you
+ could
+ build
+ this
+ in
+ a
+ zap,
+ but
+ I
+
+
+wanted
+ to
+ like
+ paint
+ the,
+ you
+ know,
+
+
+change
+ the
+ color
+ of
+ the
+ sky
+ with
+ this
+
+
+agent
+ for
+ myself.
+ So
+ this
+ is
+ an
+ example
+
+
+of
+ one
+ I
+ use
+ personally,
+ but
+ you
+ can
+
+
+replicate
+ this
+ for
+ anyone
+ you
+ work
+ with.
+
+
+But
+ this
+ is
+ essentially
+ my
+ weekly
+
+
+meeting
+ prep
+ agent
+ which
+ on
+ Fridays
+ I
+
+
+used
+ to
+ have
+ maybe
+ let's
+ say
+ 2
+ hours
+
+
+blocked
+ 30
+ minutes
+ to
+ like
+ do
+ a
+ retro
+ on
+
+
+that
+ week
+ and
+ anything
+ I
+ need
+ to
+ change
+
+
+but
+ then
+ like
+ spending
+ an
+ hour
+ or
+ so
+
+
+really
+ diving
+ into
+ the
+ next
+ week
+ and
+
+
+what
+ I
+ need
+ to
+ be
+ prepared
+ for.
+ So
+ the
+
+
+way
+ this
+ agent
+ works
+ and
+ it's
+ kind
+ of
+
+
+developed
+ over
+ time
+ but
+ it
+ it
+ has
+ a
+ few
+
+
+steps
+ it
+ goes
+ through
+ and
+ the
+ key
+ thing
+
+
+is
+ this
+ is
+ scheduled
+ to
+ trigger
+ every
+
+
+week.
+ I
+ have
+ it
+ do
+ it
+ at
+ Friday
+ at
+ 8
+
+
+a.m.
+ So,
+ you
+ can
+ have
+ it
+ whenever.
+ And
+
+
+basically,
+ it
+ goes
+ through
+ my
+ calendar
+
+
+for
+ the
+ upcoming
+ week.
+ It
+ identifies
+ all
+
+
+meetings
+ that
+ require
+ prep.
+ So,
+
+
+personally,
+ I
+ don't
+ need
+ to
+ prep
+ much
+
+
+for
+ team
+ one-on-
+ ones
+ or
+ team
+ standups
+
+
+or
+ recurring
+ internal
+ meetings,
+ but
+ I
+ do
+
+
+have
+ more
+ and
+ more
+ external
+ meetings
+ on
+
+
+my
+ calendar
+ now
+ that
+ I'm
+ doing
+ more
+ out
+
+
+in
+ the
+ world
+ with
+ with
+ AI
+ and
+ automation
+
+
+and
+ teaching
+ folks
+ how
+ to
+ do
+ the
+ same.
+
+
+So,
+ basically,
+ I
+ have
+ it
+ be
+ a
+ bit
+ of
+ a
+
+
+research
+ buddy
+ at
+ first.
+ So,
+ first
+ it
+
+
+just
+ pulls
+ by
+ calendar.
+ Then
+ it
+ goes
+ and
+
+
+does
+ all
+ the
+ research
+ for
+ me.
+ So,
+ this
+
+
+uh
+ takes
+ anyone
+ without
+ a
+ Zap
+ year
+ email
+
+
+and
+ does
+ a
+ a
+ web
+ search
+ basically.
+ It
+
+
+researches
+ their
+ current
+ role,
+ their
+
+
+industry
+ experience,
+ anything
+ um
+
+
+anything
+ noteworthy
+ that
+ I
+ might
+ want
+ to
+
+
+know
+ about
+ them.
+ And
+ then
+ it
+ does
+ this
+
+
+cool
+ thing
+ which
+ also
+ goes
+ and
+ checks
+ in
+
+
+our
+ CRM,
+ which
+ we
+ use
+ HubSpot
+ at
+ Zapier,
+
+
+but
+ you
+ can
+ you
+ can
+ put
+ in
+ any
+ uh
+ you
+
+
+know,
+ of
+ our
+ 8,000
+ integrations
+ here
+ and
+
+
+and
+ use
+ your
+ CRM.
+ But
+ for
+ each
+ external
+
+
+participant,
+ it
+ goes
+ and
+ then
+ looks
+ at
+
+
+what
+ their
+ relationship
+ is
+ with
+ Zapier.
+
+
+So
+ it
+ looks
+ at
+ email
+ address
+ first,
+ then
+
+
+by
+ company
+ name,
+ figures
+ out
+ what
+ if
+
+
+they're
+ in
+ a
+ deal,
+ if
+ there's
+ any
+ recent
+
+
+sales
+ team
+ notes,
+ if
+ there's
+ any
+
+
+interaction
+ I
+ should
+ know
+ of,
+ and
+ then
+
+
+it
+ also
+ goes
+ and
+ searches
+ internal
+
+
+comm's
+ history.
+ So
+ within
+ my
+ Gmail
+ to
+
+
+see
+ our
+ private
+ prior
+ relationship,
+ if
+
+
+any,
+ within
+ Slack
+ to
+ see
+ if
+ there's
+ any
+
+
+call
+ outs
+ to
+ their
+ company.
+ And
+ so
+ it's
+
+
+it's
+ doing
+ all
+ these
+ things
+ that
+ I
+ would
+
+
+do
+ manually.
+ And
+ then
+ it's
+ delivering
+ me
+
+
+two
+ outputs
+ in
+ the
+ end.
+ So
+ one
+ of
+ them
+
+
+is
+ tasks
+ for
+ my
+ actual
+ prep
+ with
+ all
+
+
+this
+ in
+ it.
+ So
+ I
+ like
+ it
+ to
+ create
+ a
+
+
+task
+ in
+ to-d
+ doist
+ which
+ is
+ my
+ to-do
+
+
+list
+ app
+ with
+ the
+ within
+ a
+ certain
+
+
+project
+ of
+ meeting
+ prep.
+ It
+ pulls
+ in
+ all
+
+
+of
+ this
+ information
+ with
+ this
+
+
+intelligence
+ from
+ the
+ agent
+ and
+ and
+
+
+tells
+ me
+ to
+ prep
+ for
+ it.
+ It
+ puts
+ it
+ on
+
+
+my
+ calendar
+ for
+ 2
+ hours
+ before
+ the
+
+
+meeting
+ start
+ time.
+ So
+ you
+ can
+ see
+ what
+
+
+that
+ looks
+ like
+ in
+ real
+ life.
+ You
+ know,
+
+
+here
+ here's
+ a
+ couple
+ meetings
+ I
+ have
+
+
+next
+ week
+ and
+ they're
+ automatically
+ cued
+
+
+in
+ my
+ to-do
+ list.
+ But
+ the
+ second
+ thing
+
+
+it
+ does
+ is
+ delivers
+ this
+ weekly
+ digest
+
+
+to
+ Slack.
+ So
+ this
+ is
+ and
+ you
+ could
+ do
+
+
+this
+ day
+ by
+ day
+ too
+ if
+ you
+ have
+ a
+ ton
+ of
+
+
+meetings.
+ But
+ again,
+ I'm
+ I'm
+ mostly
+
+
+internal.
+ So
+ I
+ have
+ it
+ create
+ a
+
+
+structured
+ digest
+ which
+ includes
+ all
+ of
+
+
+the
+ meetings
+ and
+ intelligence.
+ um
+ any
+
+
+error
+ handling
+ I
+ might
+ need
+ to
+ know
+ like
+
+
+if
+ the
+ agent
+ couldn't
+ find
+ someone
+ or
+ if
+
+
+there's
+ anywhere
+ I
+ should
+ do
+ a
+ manual
+
+
+follow-up.
+ And
+ then
+ it
+ does
+ this
+ like
+
+
+pulls
+ its
+ own
+ uses
+ its
+ own
+ creativity
+ to
+
+
+create
+ these
+ insights
+ for
+ me
+ about
+ uh
+
+
+what
+ I
+ should
+ pay
+ most
+ attention
+ to
+ for
+
+
+this
+ upcoming
+ week.
+ So
+ I
+ can
+ pull
+ up
+ a
+
+
+uh
+ real
+ example
+ here.
+ So
+ I
+ just
+ ran
+ this
+
+
+this
+ morning
+ just
+ for
+ this
+ example,
+ but
+
+
+it's
+ going
+ looking
+ at
+ the
+ next
+ week.
+
+
+It's
+ pulling
+ all
+ of
+ the
+ key
+ meetings
+
+
+that
+ require
+ prep
+ preparation.
+ It's
+
+
+saying,
+ "Okay,
+ so
+ we
+ have
+ a
+ team
+
+
+onboarding
+ with
+ fellow.
+ We're
+ changing
+
+
+our
+ AI
+ note-taking
+ app."
+ And
+ so
+ it
+ did
+
+
+some
+ intelligence
+ on
+ who
+ we're
+ meeting
+
+
+with
+ for
+ this.
+ It's
+ confirming
+ that
+ this
+
+
+is
+ a
+ new
+ vendor
+ relationship.
+ We've
+
+
+we've
+ previously
+ purchased
+ this
+ meeting
+
+
+management.
+ They're
+ our
+ implementation
+
+
+specialist.
+ And
+ then,
+ you
+ know,
+ here's
+
+
+here's
+ more
+ context
+ on
+ this.
+ So,
+ it's
+
+
+like
+ it's
+ it's
+ serving
+ at
+ this
+ kind
+ of
+
+
+second
+ brain
+ for
+ me
+ where
+ I
+ yes,
+ I
+ have
+
+
+all
+ this
+ and
+ part
+ of
+ my
+ superpower
+ as
+ an
+
+
+EA
+ is
+ is
+ remembering
+ all
+ these
+ things
+
+
+about
+ people,
+ but
+ this
+ is
+ making
+ sure
+
+
+that
+ I
+ don't
+ it's
+ not
+ all
+ in
+ my
+ head
+ and
+
+
+and
+ I
+ can
+ really
+ refresh
+ my
+ memory
+
+
+quickly
+ on
+ all
+ the
+ context
+ rather
+ than
+
+
+diving
+ through
+ the
+ CRM,
+ my
+ email,
+ Slack
+
+
+and
+ looking
+ at
+ all
+ these
+ things
+
+
+separately.
+ So,
+ one
+ place
+ is
+ is
+ key.
+ And
+
+
+then,
+ um,
+ it
+ pulls
+ in
+ this
+ like
+ key
+ prep
+
+
+recommendations
+ at
+ the
+ end,
+ which
+ is
+
+
+where
+ the
+ agent
+ gets
+ a
+ little
+ bit
+
+
+creative
+ here.
+ So,
+ it's
+ saying
+ I
+ should
+
+
+review
+ my
+ previous
+ carve
+ session.
+ This
+
+
+is
+ a
+ uh,
+ EA
+ automation
+ session
+ I
+ do
+
+
+every
+ once
+ in
+ a
+ while.
+ Tells
+ me
+ to
+
+
+prepare
+ some
+ new
+ demos,
+ tell
+ me
+ to
+
+
+familiarize
+ myself
+ with
+ fellow
+ before
+
+
+the
+ onboarding
+ session,
+ and
+ check
+ with
+
+
+our
+ head
+ of
+ marketing
+ for
+ PR
+ priorities
+
+
+before
+ the
+ agency
+ call.
+ So,
+ I
+ love
+ that
+
+
+it,
+ you
+ know,
+ does
+ exactly
+ what
+ I
+ need
+
+
+to
+ do,
+ like,
+ you
+ know,
+ gives
+ me
+ all
+
+
+these
+ preps
+ in
+ my
+ to-do
+ list
+ and
+ and
+
+
+does
+ those
+ actions,
+ but
+ it
+ also
+ kind
+ of
+
+
+serves
+ as
+ like
+ a
+ double
+ check.
+ Maybe
+
+
+there's
+ something
+ I
+ haven't
+ thought
+ of.
+
+
+Maybe
+ I
+ didn't
+ think
+ I
+ needed
+ to
+ update
+
+
+my
+ deck,
+ and
+ it
+ gives
+ me
+ something
+ new.
+
+
+So,
+ I
+ think
+ what's
+ great
+ about
+ this
+
+
+agent
+ is
+ it
+ does
+ everything
+ you
+ want
+ and
+
+
+then
+ more.
+ And
+ and
+ over
+ time,
+ you
+ can
+
+
+make
+ it
+ more
+ intelligent.
+ So
+ as
+ you
+ as
+
+
+you
+ learn
+ how
+ this
+ works
+ and
+ so
+ I'll
+
+
+give
+ you
+ an
+ example
+ of
+ how
+ this
+ actually
+
+
+works
+ in
+ reality.
+ So
+ this
+ is
+ the
+ test
+
+
+that
+ I
+ pulled
+ right
+ before
+ this
+ call
+
+
+just
+ to
+ give
+ us
+ a
+ clean
+ Slack
+ output.
+
+
+And
+ it
+ walks
+ you
+ through
+ step
+ by
+ step
+
+
+what
+ this
+ agent
+ was
+ thinking.
+ It's
+ like
+
+
+okay
+ I'm
+ testing
+ this.
+ I'm
+ going
+ to
+ go
+
+
+look
+ at
+ the
+ calendar.
+ I'm
+ going
+ to
+ go
+
+
+research
+ all
+ these
+ participants.
+ You
+ can
+
+
+click
+ in
+ and
+ see
+ even
+ more
+ information
+
+
+about
+ what
+ it
+ was
+ thinking.
+ Um,
+ you
+ can
+
+
+see
+ that
+ it
+ went
+ in
+ HubSpot.
+ Couldn't
+
+
+find
+ someone
+ for
+ there.
+ Couldn't
+ find
+
+
+someone
+ who
+ probably
+ didn't
+ have
+ a
+
+
+relationship
+ with
+ them.
+ Oh,
+ great.
+ It
+
+
+found
+ someone.
+ And
+ then,
+ um,
+ it
+ tells
+
+
+you
+ everything
+ it
+ did.
+ So,
+ over
+ time,
+ if
+
+
+if
+ something's
+ not
+ performing
+ as
+ you
+
+
+intended
+ or
+ you
+ want
+ to
+ update
+ it,
+ you
+
+
+can
+ really
+ look
+ at
+ how
+ this
+ agent
+ works
+
+
+on
+ the
+ back
+ end
+ and
+ give
+ it
+ some
+
+
+feedback.
+ And
+ we
+ have
+ this
+ great
+
+
+co-pilot
+ where
+ you
+ can
+ go
+ in
+ and
+ say
+ um
+
+
+you
+ could
+ say
+ like
+
+
+you
+ could
+ go
+ into
+ co-pilot
+ and
+ be
+ like
+
+
+oh
+ uh
+ I
+ actually
+ would
+ love
+ to
+ have
+ a
+
+
+hyperlink
+ to
+ their
+ LinkedIn
+
+
+page
+ included
+ in
+ my
+ to-doist
+ thing.
+ So
+
+
+you
+ can
+ say
+ for
+ each
+ participant,
+
+
+can
+ you
+ also
+ add
+ a
+ LinkedIn
+ hyperlink
+
+
+within
+ the
+ Slack
+ digest?
+ So
+ you
+ can
+ kind
+
+
+of
+ I
+ always
+ tell
+ people
+ when
+ they're
+
+
+starting
+ with
+ an
+ agent
+ like
+ this
+ is
+
+
+progress
+ over
+ perfection.
+ Like
+ I
+ started
+
+
+this
+ one
+ with
+ just
+ a
+ quick
+ digest.
+ It
+
+
+didn't
+ h
+ it
+ didn't
+ have
+ our
+ CRM
+
+
+connected.
+ It
+ didn't
+ have
+ that.
+ And
+ then
+
+
+over
+ time
+ I
+ was
+ like,
+ "Oh,
+ here's
+
+
+something
+ else
+ that
+ might
+ be
+ helpful."
+
+
+And
+ so
+ like
+ build
+ something
+ basic.
+ see
+
+
+how
+ it
+ works,
+ learn,
+ and
+ then
+ it,
+ you
+
+
+know,
+ make
+ time
+ to
+ improve
+ it
+ over
+ time
+
+
+so
+ that
+ you
+ make
+ sure
+ it's
+ really
+ being
+
+
+impactful
+ for
+ you
+ and
+ doing
+ all
+ of
+ the
+
+
+things
+ it
+ can.
+ And,
+ you
+ know,
+ these
+
+
+tools
+ are
+ getting
+ smarter
+ every
+ day.
+ So,
+
+
+also
+ keep
+ on
+ top
+ of,
+ you
+ know,
+ the
+ new
+
+
+new
+ capabilities
+ so
+ you
+ can
+ start
+
+
+building
+ those
+ into
+ agents
+ and
+ and
+
+
+automations
+ and
+ things
+ that
+ you've
+ built
+
+
+in
+ the
+ past.
+ So,
+ that's
+ a
+ quick
+ overview
+
+
+of
+ the
+ agent.
+ Something
+ I
+ want
+ to
+ I
+ want
+
+
+to
+ call
+ out
+ for
+ folks
+ is
+ I
+ think
+ this
+
+
+workflow
+ um
+ highlights
+ a
+ couple
+
+
+strategies
+ that
+ I
+ think
+ people
+ really
+
+
+need
+ to
+ think
+ about.
+ One
+ is
+ I
+ tell
+
+
+people
+ if
+ you
+ are
+ doing
+ a
+ repeated
+ task
+
+
+every
+ week,
+ spend
+ time
+ that
+ week
+
+
+automating
+ that
+ task.
+ And
+ so
+ I
+ um
+ when
+ I
+
+
+had
+ fancy
+ jobs
+ um
+ had
+ an
+ EA
+ as
+ well,
+ we
+
+
+had
+ a
+ very
+ similar
+ process
+ where
+ on
+
+
+Fridays
+ we
+ would
+ actually
+ do
+ a
+ retro
+ of
+
+
+the
+ past
+ week,
+ prep
+ for
+ the
+ next
+ week,
+
+
+find
+ out
+ like
+ all
+ the
+ stuff
+ we
+ needed
+ to
+
+
+prep,
+ make
+ sure
+ that
+ I
+ knew
+ everything
+
+
+that
+ needed
+ to
+ happen.
+ And
+ instead
+ of
+
+
+spending
+ that
+ hour
+ doing
+ that
+ prep
+ on
+ a
+
+
+Friday,
+ I
+ highly
+ recommend
+ people
+ just
+
+
+say
+ this
+ this
+ week
+ I'm
+ gonna
+ spend
+ that
+
+
+hour
+ automate
+ automating
+ this
+ into
+ an
+
+
+agent
+
+
+>> and
+ see
+ if
+ I
+ can
+ replace
+ that
+ flow.
+ And
+
+
+so
+ I
+ think
+ that's
+ a
+ really
+ useful
+
+
+mindset
+ to
+ bring
+ into
+
+
+what
+ and
+ when
+ you
+ can
+ automate.
+
+
+>> Yeah.
+
+
+>> The
+ second
+ thing
+ I
+ would
+ say
+ is
+ I
+ love
+
+
+agents
+ in
+ particular.
+ the
+ sort
+ of
+ like
+
+
+natural
+ language
+ format
+ of
+ describing
+
+
+agents
+ because
+ you
+ can
+ literally
+ just
+
+
+narrate
+ what
+ you
+ would
+ do.
+ You
+ would
+ be
+
+
+like,
+ first
+ I
+ would
+ go
+ and
+ Google
+ and
+ I
+
+
+would
+ look
+ at
+ all
+ the
+ meetings
+ for
+ the
+
+
+next
+ week
+ and
+ I
+ would
+ decide
+ which
+ ones
+
+
+I
+ need
+ to
+ prep
+ uh
+ prep
+ for.
+ Then
+ I
+ would
+
+
+go
+ look
+ at
+ my
+ email
+ and
+ see
+ what
+ the
+
+
+heck
+ we're
+ actually
+ meeting
+ about.
+ Then
+
+
+I
+ would
+ dig
+ through
+ SA
+ Slack.
+ I
+ would
+
+
+probably
+ go
+ look
+ at
+ HubSpot.
+ And
+ then
+ I
+
+
+would,
+ if
+ I
+ was
+ doing
+ a
+ great
+ job,
+
+
+organize
+ it
+ in
+ this
+ way,
+ send
+ it
+ to
+
+
+myself
+ in
+ Slack
+ as
+ a
+ reminder
+ and
+ create
+
+
+a
+ bunch
+ of
+ to-dos.
+
+
+>> Like
+ you
+ can
+ actually
+ use
+ that
+ natural
+
+
+language
+ to
+ describe
+ an
+ agent
+ structure.
+
+
+And
+ so
+ I
+ think
+ it's
+ a
+ really
+ natural
+ way
+
+
+for
+ people
+ to
+ get
+ started
+ designing
+ some
+
+
+of
+ these
+ workflows.
+ Yeah,
+ I
+ agree.
+ Like
+
+
+I
+ think
+ of
+ agents
+ when
+ I
+ first
+ started
+
+
+using
+ them,
+ I
+ I
+ kind
+ of
+ started
+ thinking
+
+
+of
+ them
+ as
+ interns
+ almost.
+ So
+ they're
+
+
+not
+ going
+ to
+ operate
+ and
+ do
+ something
+
+
+completely
+ independently
+ from
+ the
+ start.
+
+
+But
+ if
+ you
+ can
+ teach
+ the
+ intern
+ your
+
+
+system
+ and
+ how
+ you
+ think
+ and
+ give
+ it
+ the
+
+
+tools
+ it
+ needs,
+ then
+ over
+ time
+ your
+
+
+intern
+ gets
+ smart
+ enough
+ to
+ to
+ run
+ and
+
+
+do
+ things
+ on
+ their
+ own.
+ And
+ so,
+ you
+
+
+know,
+ this
+ is
+ something
+ that
+ now
+ I
+ I
+
+
+rarely
+ touch
+ this
+ agent
+ because
+ it
+ works
+
+
+as
+ I
+ as
+ I
+ planned
+ consistently.
+ Um,
+ you
+
+
+know,
+ right
+ now
+ that
+ was
+ a
+ good
+ little
+
+
+ad
+ that
+ I
+ just
+ I
+ just
+ did
+ for
+ the
+
+
+LinkedIn
+ profile,
+ so
+ I
+ can
+ quickly
+ add
+
+
+them.
+ But,
+ you
+ know,
+ there's
+ there's
+ not
+
+
+much
+ else
+ I
+ have
+ to
+ do
+ here.
+ And
+ now
+
+
+I've
+ given
+ myself
+ the
+ time
+ back.
+ And
+
+
+even
+ bigger,
+ I
+ can
+ showcase
+ this
+ to
+
+
+everyone
+ at
+ Zapier,
+ enable
+ them
+ with
+
+
+this
+ template
+ which
+ you
+ can
+ share,
+ and
+
+
+then
+ everyone
+ can
+ have
+ this
+ meeting
+ prep
+
+
+agent.
+ they
+ can,
+ you
+ know,
+ they
+ can
+ add
+
+
+different
+ things
+ if
+ if
+ this
+ isn't
+ their
+
+
+exact
+ workflow,
+ like
+ not
+ everyone
+ uses
+
+
+to-d
+ doist
+ or,
+ you
+ know,
+ not
+ everyone
+
+
+wants
+ XYZ,
+ but
+ they
+ can
+ customize
+ it
+ for
+
+
+their
+ own.
+ And
+ so,
+ I
+ think
+ it's
+ like,
+
+
+yeah,
+ teach
+ teach
+ people
+ how
+ to
+ fish
+ and
+
+
+and
+ teach
+ these
+ interns
+ your
+ your
+ way
+ of
+
+
+thinking,
+ these
+ agents.
+ And
+ over
+ time,
+
+
+you'll
+ be
+ surprised
+ of
+ of
+ how
+ much
+ you
+
+
+can
+ do.
+ I
+ think
+ from
+ EAS,
+ I
+ hear
+ like,
+
+
+oh,
+ you
+ know,
+ AI
+ doesn't
+ think
+ the
+ way
+ I
+
+
+do.
+ I'm
+ like,
+ it
+ can
+ though.
+ like
+ can
+ um
+
+
+as
+ long
+ as
+ you
+ can
+ figure
+ out
+ the
+ system
+
+
+behind
+ why
+ you're
+ doing
+ things
+ and
+ be
+
+
+able
+ to
+ articulate
+ that.
+ But
+ yeah,
+ I
+ I
+
+
+love
+ the
+ like
+ um
+ the
+ dictate
+ to
+ co-pilot
+
+
+too
+ because
+ I
+ do
+ that.
+ I'm
+ like,
+ "Okay,
+
+
+so
+ usually
+ I
+ talk
+ to
+ it
+ just
+ like
+ that,
+
+
+like
+ as
+ if
+ I'm
+ on
+ a
+ walk
+ with
+ a
+ friend
+
+
+and
+ and
+ see
+ what
+ it
+ comes
+ back
+ with."
+
+
+And
+ so,
+ yeah,
+ this
+ is
+ this
+ is
+ like
+ one
+
+
+of
+ those
+ things
+ that's
+ just
+ a
+ no-brainer
+
+
+to
+ spend
+ a
+ little
+ bit
+ of
+ time
+ on
+ and
+
+
+then
+ you
+ it
+ just
+ runs
+ in
+ the
+ background.
+
+
+>> Yeah.
+ And
+ I
+ think
+ you
+ know
+ EAS
+ in
+
+
+particular
+ are
+ so
+ well
+ positioned
+ to
+
+
+make
+ some
+ of
+ these
+ tools
+ for
+ the
+ broader
+
+
+organization
+ because
+
+
+you
+ know
+ you're
+ a
+ point
+ of
+ leverage
+ in
+ a
+
+
+team
+ and
+ if
+ you
+ can
+ systematize
+ that
+
+
+leverage
+ I
+ think
+ two
+ things
+ happen.
+ One
+
+
+you
+ can
+ do
+ a
+ higher
+ level
+ job
+ supporting
+
+
+your
+ exec
+ or
+ your
+ team.
+ two,
+ everybody
+
+
+else
+ gets
+ a
+ little
+ bit
+ of
+ of
+ a
+ boost
+
+
+that
+ you
+ wouldn't
+ be
+ able
+ to
+ personally
+
+
+give
+ them.
+ And
+ so,
+ yeah,
+
+
+>> I
+ think,
+ you
+ know,
+ everybody
+ should
+
+
+think
+ like,
+ oh
+ my
+ gosh,
+ I
+ could
+ have
+ my
+
+
+own
+ little
+ mini,
+ you
+ know,
+ assistant
+ or
+
+
+I
+ could
+ have
+ my
+ own
+ little
+ army
+ of
+
+
+interns
+ if
+ I
+ can
+ just
+ describe
+ what
+ I
+
+
+need
+ them
+ to
+ do.
+ And
+ I
+ think
+ that's
+
+
+really
+ interesting.
+ The
+ last
+ thing
+ I
+
+
+will
+ say
+ is
+ I
+ have
+ a
+ very
+ almost
+ exact
+
+
+workflow
+ in
+ Zapier
+ Agents.
+ It's
+ called
+
+
+my
+ Sunday
+ scaries
+ prep.
+ I
+ do
+ it
+ on
+
+
+Sundays
+ when
+ I
+ start
+ to
+ feel
+ lots
+ of
+
+
+anxiety.
+
+
+>> Yeah.
+
+
+>> Now,
+ um
+ what
+ I'm
+ planning
+ for
+ the
+ next
+
+
+week.
+ And
+ the
+ one
+ ad
+ that
+ I
+ put
+ in
+ here
+
+
+is
+ you
+ can
+ actually
+ mix
+ professional
+ and
+
+
+personal
+ stuff.
+
+
+>> So,
+ I
+ put
+ in
+ there
+ if
+ my
+ mornings
+ allow
+
+
+me
+ to
+ walk
+ my
+ kids
+ to
+ school,
+ block
+ off,
+
+
+you
+ know,
+ this
+ hour
+ to
+ this
+ hour
+ because
+
+
+I
+ know
+ I
+ can
+ like
+ walk
+ the
+ kids
+ to
+
+
+school
+ and
+ by
+ Sunday,
+ if
+ you
+ haven't
+
+
+booked
+ me
+ on
+ an
+ early
+ morning,
+ you
+ don't
+
+
+get
+ me.
+ And
+ so
+
+
+>> like
+ add
+ these
+ little,
+
+
+>> you
+ know,
+ call
+ out
+ days
+ that
+ I
+ don't
+
+
+have
+ time
+ scheduled
+ for
+ lunch.
+ Like
+ call
+
+
+out
+ days
+ where
+ I
+ have
+ six
+ hours
+ of
+
+
+backtobacks
+ with
+ no
+ break.
+ Like
+ give
+ me
+
+
+an
+ opportunity
+ to
+ improve
+ my
+ calendar.
+
+
+So
+ I
+ do
+ think
+ in
+ addition
+ to
+ prep,
+ you
+
+
+can
+ do
+ a
+ little
+ like
+ calendar
+
+
+optimization,
+ too,
+ which
+ is
+ really
+ nice.
+
+
+Totally.
+ I
+ agree.
+ Like
+ yeah,
+ which
+
+
+meetings
+ might
+ be
+ able
+ to
+ combine
+ uh
+ or
+
+
+get
+ rid
+ of
+ that
+ look
+ duplicative?
+ you
+
+
+know,
+ give
+ it
+ give
+ me
+ some
+
+
+recommendations
+ for
+ optimizing
+ my
+ focus
+
+
+time.
+ Like
+ totally
+ the
+ sky's
+ is
+ the
+
+
+limit
+ with
+ with
+ these
+ things.
+ And
+ yeah,
+
+
+you
+ can
+ totally
+ combine
+ personal
+ and
+
+
+professional
+ calendars
+ into
+ this
+ to
+ make
+
+
+it
+ a
+ jack
+ of
+ all
+ trades
+ and
+ do
+
+
+everything.
+ But
+ this
+ one,
+ yeah,
+ this
+ one
+
+
+for
+ me
+ is
+ focus
+ on
+ work,
+
+
+>> you
+ know.
+ And
+ then
+ if
+ you
+ really
+ want
+
+
+hyper
+ efficiency,
+ you
+ just
+ make
+ an
+ agent
+
+
+that
+ says
+ buy
+ all
+ the
+ meetings,
+ cancel
+
+
+all
+ of
+ them,
+ give
+ me
+ my
+ day
+ back.
+
+
+>> Yeah.
+ The
+ the
+ Ron
+ wants
+ an
+ agent.
+ I
+
+
+don't
+ know if
+ you
+ watch
+ Parks
+ and
+
+
+Recreation,
+ but
+ uh
+ April
+ Lgate
+ scheduled
+
+
+all
+ of
+ his
+ meetings
+ for
+ like
+ March
+ 31st
+
+
+one
+ year
+ cuz
+ she
+ didn't
+ think
+ that
+
+
+existed.
+ And
+ then
+
+
+perfect
+ schedule
+ all
+ my
+ meetings
+ for
+
+
+March
+ 31st.
+ You
+ know,
+ you
+ have
+ one
+ other
+
+
+meeting
+ related
+ workflow
+ which
+ I
+ think
+
+
+is
+ really
+ interesting
+ which
+ is
+ making
+
+
+sure
+ that
+ the
+ meetings
+ that
+ you
+ do
+
+
+really
+ are
+ high
+ value.
+
+
+>> Yeah.
+
+
+>> Um
+ so
+ I'd
+ love
+ to
+ for
+ you
+ to
+ walk
+ us
+
+
+through
+ what
+ you
+ do
+ there.
+ Totally.
+ So
+
+
+there's
+ a
+ few
+ things
+ um
+ on
+ the
+ other
+
+
+side
+ of
+ meetings
+ that
+ I
+ do.
+ So
+ one
+ of
+
+
+them
+ is
+ you
+ know
+ this
+ is
+ uh
+ Wade
+ the
+ CEO
+
+
+of
+ Zapier.
+ So
+ I
+ was
+ basically
+ the
+ way
+
+
+this
+ workflow
+ came
+ up
+ was
+ we
+ use
+ Fathom
+
+
+for
+ our
+ meeting
+ note-taking.
+ So
+ I
+ was
+
+
+manually
+ going
+ into
+ fathom
+ after
+ each
+
+
+executive
+ meeting
+ and
+ giving
+ it
+ a
+ prompt
+
+
+like
+ how
+ did
+ we
+ perform
+ against
+ the
+ five
+
+
+dysfunctions
+ of
+ a
+ team
+ which
+ is
+ a
+
+
+framework
+ we
+ use
+ from
+ the
+ table
+ group
+ or
+
+
+who
+ in
+ this
+ meeting
+ could
+ have
+ spoke
+ up
+
+
+more
+ and
+ I
+ was
+ giving
+ it
+ prompts
+ to
+ see
+
+
+how
+ Fathom
+ did
+ with
+ more
+ reasoning
+ and
+
+
+more
+ of
+ a
+ loose
+ like
+ seedback
+ creative
+
+
+prompt
+ versus
+ what
+ were
+ the
+ action
+ items
+
+
+which
+ of
+ course
+ it
+ does
+ excellently
+ and
+
+
+over
+ time
+ I
+ was
+ like
+ this
+ is
+ pretty
+
+
+useful.
+ And
+ so
+ I
+ was
+ manually
+ doing
+ that
+
+
+in
+ Fathom
+ sending
+ it
+ to
+ the
+ exec
+ team
+
+
+and
+ Wade
+ sent
+ me
+ this
+ message.
+ He's
+
+
+like,
+ I
+ feel
+ like
+ we
+ need
+ to
+ turn
+ this
+
+
+meeting
+ coaching
+ on
+ across
+ the
+ org.
+ It's
+
+
+a
+ pretty
+ useful
+ accountability
+
+
+mechanism.
+ I
+ think
+ the
+ other
+ thing
+ here
+
+
+is
+ when
+ feedback
+ is
+ maybe
+ automated
+ uh
+
+
+growth
+ feedback
+ is
+ one
+ of
+ our
+ values.
+ So
+
+
+it's
+ part
+ of
+ how
+ the
+ company
+ runs.
+ that
+
+
+when
+ feedback
+ is
+ expected
+ after
+ a
+
+
+meeting
+ and
+ becomes
+ a
+ part
+ of
+ routine
+
+
+and
+ coaching
+ then
+ folks
+ learn
+ to
+ expect
+
+
+it
+ and
+ it's
+ part
+ of
+ their
+ behavior
+ and
+
+
+it
+ doesn't
+ make
+ their
+ like
+ you
+ know
+ that
+
+
+nervousness
+ spike
+ up
+ when
+ they
+ get
+
+
+feedback
+ come
+ in.
+ So
+ I
+ think
+ the
+ more
+
+
+feedback
+ folks
+ can
+ get
+ the
+ better
+ but
+ I
+
+
+think
+ the
+ other
+ thing
+ this
+ does
+ is
+ takes
+
+
+some
+ spit
+ off
+ the
+ ball.
+ So,
+ uh,
+ so
+ you
+
+
+know,
+ after
+ meetings,
+ I've
+ worked
+ at
+
+
+this
+ team,
+ this
+ exec
+ team
+ for
+ 5
+ years.
+
+
+So,
+ no
+ one
+ would
+ be
+ offended
+ if
+ I
+ said
+
+
+like,
+ you
+ know,
+ Brandon,
+ you
+ really
+ like
+
+
+should
+ have
+ spoken
+ up
+ on
+ that
+ topic.
+ I
+
+
+can
+ call
+ them
+ out
+ because
+ they've
+ given
+
+
+me
+ the
+ permission
+ to
+ do
+ that.
+ But
+ for
+
+
+folks
+ who
+ are
+ newer
+ to
+ organization
+ or
+
+
+don't
+ have
+ that
+ comfort
+ level
+ with
+ the
+
+
+team,
+ you
+ can
+ build
+ this
+ meeting
+
+
+coaching
+ across
+ the
+ org
+ to
+ and
+ automate
+
+
+it
+ based
+ on
+ any
+ meeting
+ transcript.
+ So,
+
+
+you
+ know,
+ I
+ started
+ working
+ with
+ him
+ uh
+
+
+with
+ uh
+ you
+ know,
+ with
+ Fellow
+ cuz
+ we're
+
+
+moving
+ over
+ to
+ Fellow
+ for
+ AI
+ note-taking
+
+
+and
+ was
+ testing
+ an
+ agent.
+ You
+ know,
+ I
+
+
+was
+ giving
+ Wade,
+ you
+ know,
+ here's
+ an
+
+
+example
+ of
+ the
+ feedback
+ it
+ generated.
+ It
+
+
+gave
+ him
+ speaking
+ time.
+ It
+ gave
+ him,
+ you
+
+
+know,
+ what
+ went
+ well.
+ It
+ gave
+ him
+
+
+opportunities
+ to
+ amplify
+ impact.
+ And
+
+
+then
+ he's
+ like, "This
+ coaching
+ is
+ too
+
+
+soft.
+ Like,
+ this
+ this
+ is
+ still
+ what
+ went
+
+
+well.
+ Let's
+ have
+ it
+ be
+ tougher."
+ So
+ then
+
+
+I
+ gave
+ it,
+ you
+ know,
+ I
+ fixed
+ the
+ agent
+
+
+instructions
+ to
+ give
+ it
+ a
+ better
+ balance
+
+
+of
+ being
+ demanding
+ and
+ supportive,
+ which
+
+
+is
+ a
+ term
+ we
+ use
+ a
+ lot
+ um
+ here
+ at
+ Zapier
+
+
+of
+ like
+ you
+ have
+ to
+ be
+ a
+ demanding
+
+
+leader
+ but
+ you
+ also
+ have
+ to
+ be
+
+
+supportive.
+ So
+ I
+ gave
+ him
+ this
+ one
+ which
+
+
+which
+ did
+ uh
+ did
+ give
+ some
+ more
+ growth
+
+
+opportunities
+ like
+ address
+ misalignment
+
+
+more
+ directly,
+ you
+ know,
+ challenge
+ the
+
+
+decision-m
+ speed.
+ it
+ seems
+ like
+ you
+ have
+
+
+some
+ fear
+ of
+ conflict.
+ And
+ so
+ we
+ worked
+
+
+at
+ that,
+ gave
+ it
+ a
+ more
+ concise
+ version,
+
+
+thought
+ it
+ was
+ good
+ enough
+ to
+ ship.
+ And
+
+
+then
+ so
+ now
+ we've
+ we've
+ shipped
+ this
+
+
+kind
+ of
+ meeting
+ feedback
+ automation
+
+
+system
+ um
+ through
+ through
+ Fellow.
+ But
+
+
+this
+ basically
+ takes
+ all
+ of
+ the
+
+
+transcript
+ content,
+ meeting
+ metadata.
+
+
+Make
+ sure
+ there's
+ some,
+ you
+ know,
+ some
+
+
+parameters
+ like
+ if
+ a
+ meeting
+ is
+ only
+ 10
+
+
+minutes,
+ probably
+ not
+ worth
+ the
+
+
+feedback.
+ And
+ and
+ make
+ sure
+ it's
+ only
+
+
+zap
+ your
+ employees.
+ make
+ sure
+ there's,
+
+
+you
+ know,
+ only
+ sufficient
+ context
+ to
+
+
+offer
+ valuable
+ specific
+ feedback.
+ And
+
+
+then
+ for
+ each
+ participant,
+ I
+ can
+ look
+ up
+
+
+their
+ Slack,
+ match
+ their
+ email
+ address
+
+
+to
+ Slack,
+ and
+ then
+ send
+ them
+ some,
+
+
+[clears throat]
+ you
+ know,
+ some
+ some
+
+
+feedback.
+ And
+ I
+ gave
+ it
+ context
+ on
+ our
+
+
+company
+ values,
+ you
+ know,
+ some
+ of
+ our
+
+
+meeting
+ norms,
+ you
+ know,
+ how
+ we
+ think
+
+
+about
+ decision-m
+ and
+ then
+ these
+ are
+
+
+impact
+ behaviors
+ for
+ like
+ what
+ we
+ expect
+
+
+from
+ folks
+ at
+ Zapier.
+ And
+ then
+ I
+ gave
+ it
+
+
+the
+ five
+ distinctions
+ of
+ a
+ team.
+ And
+ so
+
+
+I
+ really
+ worked
+ on
+ this
+ prompt
+ over
+ time
+
+
+to
+ help
+ it
+ generate
+ this
+ direct
+
+
+constructive
+ feedback
+ on
+ all
+ these
+
+
+dimensions
+ and
+ then
+ you
+ know
+ you
+ can
+ see
+
+
+uh
+ what
+ the
+ outcome
+ is
+ going
+ to
+ be
+ and
+
+
+this
+ is
+ uh
+ you
+ know
+ clarifies
+ it's
+ AI
+
+
+generated
+ it's
+ coming
+ from
+ a
+ bot
+ gives
+
+
+you
+ know
+ very
+ quick
+ feedback
+ after
+ a
+
+
+meeting
+ of
+ one
+ to
+ two
+ specific
+ growth
+
+
+opportunities
+ and
+ and
+ one
+ to
+ two
+ things
+
+
+they
+ they
+ can
+ do
+ next
+ time.
+ So
+ this
+ is
+
+
+something
+ that
+ I
+ think
+ can
+ over
+ time
+
+
+really
+ just
+ change
+ the
+ way
+ that
+ a
+ team
+
+
+works
+ together
+ and
+ and
+ change
+ the
+
+
+usefulness
+ of
+ a
+ meeting.
+ So
+ this
+ is
+ a
+
+
+maybe
+ not
+ something
+ that
+ was
+ a
+ huge
+ part
+
+
+of
+ my
+ job
+ and
+ I
+ don't
+ calculate
+ this
+ as
+
+
+like
+ a
+ big
+ timesaving
+ agent
+ for
+ myself
+
+
+kind
+ of
+ like
+ the
+ the
+ meeting
+ prep
+ was,
+
+
+but
+ this
+ is
+ something
+ that's
+ like
+ really
+
+
+reinforcing
+ the
+ the
+ company
+ culture
+ and
+
+
+making
+ folks
+ better
+ at
+ their
+ job.
+ So,
+ I
+
+
+think
+ this
+ is
+ it's
+ cool
+ to
+ build
+ stuff
+
+
+like
+ this
+ that's
+ more
+ um
+ that's
+ more
+
+
+just
+ enablement
+ and
+ accountability
+ for
+
+
+folks,
+ especially
+ among
+ the
+ exec
+ teams.
+
+
+So,
+ you
+ make
+ sure
+ that
+ they're
+ being
+
+
+like
+ the
+ best
+ displayers
+ of
+ of
+ company
+
+
+values
+ and
+ norms
+ over
+ time.
+ So,
+ this
+ is
+
+
+a
+ fun
+ one
+ that
+ uh
+ that
+ I
+ had
+ I
+ had
+ a
+
+
+good
+ time
+ creating
+ with
+ Wade.
+ This
+
+
+episode
+ is
+ brought
+ to
+ you
+ by
+ Brex.
+ If
+
+
+you're
+ listening
+ to
+ this
+ show,
+ you
+
+
+already
+ know
+ AI
+ is
+ changing
+ how
+ we
+ work
+
+
+in
+ real
+ practical
+ ways.
+ [music]
+ Brex
+ is
+
+
+bringing
+ that
+ same
+ power
+ to
+ finance.
+
+
+Brex
+ is
+ the
+ intelligent
+ finance
+ platform
+
+
+built
+ for
+ founders.
+ With
+ autonomous
+
+
+agents
+ running
+ in
+ the
+ [music]
+
+
+background,
+ your
+ finance
+ stack
+ basically
+
+
+runs
+ itself.
+ Cards
+ are
+ issued,
+ expenses
+
+
+are
+ [music]
+ filed,
+ and
+ fraud
+ is
+ stopped
+
+
+in
+ real
+ time
+ without
+ you
+ having
+ to
+ think
+
+
+about
+ it.
+ Add
+ Brex's
+ banking
+ solution
+
+
+with
+ a
+ high
+ yield
+ treasury
+ account
+ and
+
+
+you've
+ got
+ a
+ system
+ that
+ helps
+ you
+ spend
+
+
+smarter,
+ move
+ faster,
+ and
+ scale
+ with
+
+
+confidence.
+ One
+ in
+ three
+ startups
+ in
+ the
+
+
+[music]
+ US
+ already
+ runs
+ on
+ Brex.
+ You
+ can
+
+
+too
+ at
+ bre.com/howi
+
+
+AI.
+ So
+ Courtney,
+ what
+ I
+ think
+ is
+ great
+
+
+about
+ this
+ is
+ people
+ really
+ think
+ that
+
+
+culture
+ is
+ hard
+ to
+ systematically
+
+
+reinforce.
+ You
+ really
+ think
+ that
+ culture
+
+
+has
+ to
+ be
+ something
+ that
+ individuals
+ or
+
+
+leaders
+ have
+ to
+ carry
+ through
+ sort
+ of
+
+
+soft
+ interactions
+ with
+ the
+ organization.
+
+
+But
+ what
+ you're
+ showing
+ here
+ is
+ more
+
+
+than
+ hey
+ can
+ I
+ give
+ you
+ you
+ know
+ skills
+
+
+coaching
+ on
+ closing
+ a
+ customer
+ or
+ I
+ give
+
+
+you
+ communication
+ coaching
+ on
+ managing
+
+
+stakeholders.
+ This
+ is
+ are
+ we
+ embracing
+
+
+our
+ operating
+ principles,
+ our
+ cultural
+
+
+norms?
+ Are
+ we
+ keeping
+ an
+ eye
+ out
+ for
+
+
+issues
+ in
+ interpersonal
+ conflict
+ or
+
+
+communication
+ that
+ we
+ know
+ teams
+ are
+
+
+biased
+ towards?
+ And
+ are
+ we
+ creating
+ sort
+
+
+of
+ a
+ egoportive
+
+
+system
+ in
+ order
+ to
+ continually
+ check
+ and
+
+
+keep
+ ourselves
+ accountable
+ to
+ that
+
+
+system?
+ And
+ so
+ I
+ think
+ like
+ take
+ the
+
+
+meeting
+ part
+ of
+ this
+ aside,
+ the
+ ability
+
+
+to
+ kind
+ of
+ consistently
+ check
+
+
+interactions
+ and
+ projects
+ and
+
+
+initiatives
+ inside
+ your
+ organization
+
+
+with
+ alignment
+ on
+ your
+ stated
+ cultural
+
+
+norms
+ is
+ a
+ really
+ powerful
+ thing.
+ And
+
+
+you
+ know,
+ you
+ mentioned
+ table
+ group.
+
+
+I've
+ worked
+ with
+ them
+ before
+ and
+ like
+
+
+you
+ get
+ you
+ get
+ them
+ like
+ once
+ a
+ quarter
+
+
+and
+ all
+ this
+ great
+ work
+ for
+ your
+ leaders
+
+
+and
+ you're
+ like
+ yeah
+ we're
+ going
+ to
+ like
+
+
+be
+ the
+ best
+ team
+ we're
+ totally
+ aligned
+
+
+>> giving
+ everybody
+ feedback
+ but
+ they're
+
+
+not
+ whispering
+ in
+ your
+ ear
+ during
+ the
+
+
+executive
+ me
+ I
+ mean
+ I'm
+ sure
+ they
+ would
+
+
+for
+ a
+ price
+ but
+ during
+ your
+ executive
+
+
+meetings
+ you
+ know
+ they're
+ not
+ listening
+
+
+into
+ your
+ company
+ you
+ know
+ town
+ halls
+ or
+
+
+amas
+ and
+ so
+ I
+ think
+ this
+ is
+ just
+ such
+ a
+
+
+nice
+ way
+ to
+ observe
+ your
+ organization
+
+
+from
+ a
+ third
+ party
+ kind
+ of
+ like
+ vantage
+
+
+point.
+
+
+>> Yeah.
+
+
+>> And
+ then
+ as
+ you
+ said
+ like
+ just
+ normalize
+
+
+feedback.
+ This
+ is
+ very
+ stressful
+
+
+feedback
+ for
+ people
+ to
+ receive
+ maybe
+
+
+from
+ their
+ boss.
+
+
+>> Yeah.
+
+
+>> Like
+ hey
+ you
+ didn't
+ do
+ this
+ or
+ you
+
+
+didn't
+ do
+ that.
+ But
+ if
+ you
+ know
+
+
+everybody
+ in
+ the
+ meeting
+ is
+ getting
+
+
+feedback.
+
+
+It's
+ coming
+ from
+ sort
+ of
+ a
+ neutral
+
+
+evaluation
+ place.
+
+
+Then
+ you
+ might
+ be
+ more
+ open
+ to
+ hearing
+
+
+and
+ kind
+ of
+ adjusting
+ your
+ your
+
+
+behaviors
+ based
+ on
+ that
+ feedback.
+ Yeah,
+
+
+totally.
+ I
+ think
+ I
+ think
+ you
+ hit
+ the
+
+
+nail
+ on
+ the
+ head
+ with
+ with
+ a
+ few
+ of
+ the
+
+
+main
+ reasons
+ why
+ I
+ like
+ this.
+ I
+ think
+
+
+it's
+ are
+ we
+ who
+ we
+ say
+ we
+ are?
+ You
+ know,
+
+
+are
+ are
+ you
+ who
+ you
+ say
+ the
+ are
+ we
+ what
+
+
+we
+ say
+ our
+ culture
+ is?
+ And
+ and
+ are
+ we
+
+
+keeping
+ that
+ top
+ of
+ mind
+ in
+ between
+
+
+things
+ like,
+ you
+ know,
+ we're
+ a
+ fully
+
+
+remote
+ company.
+ We
+ do
+ only
+ meet
+ with
+
+
+table
+ group
+ once
+ a
+ quarter,
+ once
+ a
+ half.
+
+
+And
+ so,
+ we
+ need
+ to
+ keep
+ these
+ behaviors
+
+
+top
+ of
+ mind
+ consistently
+ and
+ folks
+ have
+
+
+a
+ hard
+ time
+ keeping
+ anything
+ top
+ of
+ mind
+
+
+for
+ that
+ long.
+ And
+ so
+ making
+ sure
+ this
+
+
+is
+ repetitive
+ and
+ continuing
+ to
+
+
+reinforce
+ those
+ things
+ is
+ valuable.
+ But
+
+
+yeah,
+ we've
+ I
+ mean
+ we've
+ got
+ the
+ other
+
+
+type
+ of
+ agent
+ for,
+ you
+ know,
+ sales
+ reps,
+
+
+for example,
+ that
+ gives
+ them
+ after
+ gone
+
+
+calls
+ what
+ they
+ could
+ have
+ done
+ that's
+
+
+more
+ like,
+ okay,
+ you
+ should
+ have
+ brought
+
+
+up
+ this
+ ROI
+ or
+ this
+ metric
+ or,
+ you
+ know,
+
+
+more
+ specific
+ sales
+ coaching.
+ But
+
+
+>> I
+ I
+ love
+ the
+ the
+ culture
+ stuff.
+
+
+>> Okay,
+ this
+ is
+ great.
+ So
+ we
+ have
+ um
+
+
+schedule
+ prep,
+ we
+ have
+ culture
+
+
+checkpoints,
+ which
+ I
+ think
+ are
+ awesome.
+
+
+But
+ let's
+ answer
+ the
+ question
+ with
+ AI
+
+
+that
+ I'm
+ not
+ saying
+ every
+ IC
+ manager
+ and
+
+
+leader
+ in
+ the
+ organization
+ thinks
+ about
+
+
+a
+ lot
+ but
+ they
+ might
+ which
+ is
+
+
+will
+ this
+ fly
+ with
+ CEO
+ or
+ will
+ this
+ fly
+
+
+with
+ executive
+ A
+ or
+ how
+ do
+ I
+ know
+ I'm
+
+
+not
+ walking
+ into
+ into
+ a
+ tough
+ meeting.
+
+
+So,
+ you've
+ done
+ you've
+ done
+ some
+ work
+ to
+
+
+sort
+ of
+ stress
+ test
+ what
+ your
+ CEO
+ might
+
+
+want
+ or
+ participate
+ in
+ without
+ having
+ to
+
+
+bother
+ him.
+ So,
+ I'd
+ love
+ to
+ see
+ your
+
+
+sort
+ of
+ exec
+ replicate
+ uh
+ workflows.
+
+
+>> Totally.
+ So
+ yeah,
+ again
+ on
+ the
+ meeting
+
+
+side,
+ but
+ this
+ is
+ a
+ GPT
+ I
+ built
+ within
+
+
+OpenAI's
+ tribute
+ and
+ it's
+ we
+ have
+ this
+
+
+public
+ feed
+ in
+ Slack
+ which
+ is
+ feed
+ t-ups
+
+
+which
+ are
+ basically
+ any
+ strategic
+ doc
+
+
+that
+ need
+ review
+ across
+ the
+ company.
+
+
+We've
+ kind
+ of
+ centralized
+ this
+ in
+ a
+ feed
+
+
+for
+ transparency,
+ accountability,
+ and
+
+
+make
+ sure
+ folks
+ know
+ why
+ we're
+ making
+
+
+certain
+ decisions.
+ And
+ so
+ the
+ folks
+ were
+
+
+often
+ coming
+ to
+ me
+ for
+ thought
+
+
+partnership
+ of
+ like,
+ hey,
+ here's
+ my
+ doc.
+
+
+Do
+ you
+ have
+ any
+ feedback
+ on
+ it
+ before
+ I
+
+
+share
+ this
+ with
+ Exec,
+ you
+ know,
+ you
+ know
+
+
+how
+ Wade
+ thinks.
+ You've
+ worked
+ with
+ them
+
+
+for
+ 5
+ years.
+ What
+ would
+ you
+ think
+ about
+
+
+this?
+ And
+ I
+ love
+ doing
+ that
+ thought
+
+
+partnership
+ stuff
+ and
+ I
+ don't
+ want
+ to
+
+
+replace
+ it,
+ but
+ again,
+ it's
+ not
+ scalable
+
+
+and
+ I
+ don't
+ want
+ to
+ be
+ a
+ bottleneck
+ for
+
+
+someone
+ to
+ get
+ their
+ doc
+ out
+ into
+ the
+
+
+world.
+ And
+ so
+ I
+ built
+ a
+ GPT
+ that
+ kind
+ of
+
+
+thinks
+ like
+ like
+ I
+ do
+ and
+ and
+ has
+ some
+
+
+of
+ the
+ same
+ materials
+ of
+ like
+ company
+
+
+values
+ and
+ and
+ norms,
+ but
+ it
+ helps
+
+
+people
+ sharpen
+ these
+ teaups.
+ And
+ so
+
+
+sometimes
+ it
+ makes
+ sure
+ that,
+ you
+ know,
+
+
+folks
+ come
+ into
+ a
+ meeting
+ with
+ more
+
+
+confidence
+ and
+ their
+ opinions
+ are
+ stress
+
+
+tested
+ and
+ the
+ right
+ data
+ is
+ included
+
+
+and
+ make
+ sure
+ we
+ make
+ the
+ most
+ of
+ those
+
+
+meetings
+ that
+ we're
+ in.
+ But
+ sometimes
+
+
+the
+ teaup
+ is
+ so
+ clear
+ uh
+ now
+ that
+ we
+ can
+
+
+skip
+ the
+ meeting
+ entirely,
+ which
+ is
+
+
+great
+ as
+ well.
+ So
+ you
+ can
+ see
+ here
+ like,
+
+
+you
+ know,
+ Wade
+ said
+ he
+ he
+ tried
+ it
+ out,
+
+
+caught
+ several
+ things
+ that
+ would
+
+
+strengthen
+ the
+ work.
+ We've
+ got,
+ you
+
+
+know,
+ Lindsay
+ saying,
+ "I
+ was
+ worried
+ it
+
+
+would
+ just
+ tear
+ my
+ doc
+ apart,
+ but
+ it
+
+
+suggested
+ really
+ great
+ simple
+ tweaks."
+
+
+And
+ so
+ we
+ gave
+ it
+ a
+ bunch
+ of
+ knowledge.
+
+
+So
+ I
+ I'll
+ dive
+ into
+ that
+ right
+ now.
+ So
+
+
+um
+ this
+ is
+ exact
+ GBT.
+ Um
+ I
+ gave
+ it
+ a
+
+
+prompt
+ here
+ to
+ say
+ give
+ feedback
+ on
+ a
+
+
+t-up
+ doc,
+ which
+ was
+ one
+ of
+ the
+ main
+
+
+prompts
+ considered.
+ And
+ I
+ created
+ a
+ fake
+
+
+doc
+ which
+ is
+ a
+ very
+ very
+ poor
+ teaup
+ just
+
+
+to
+ give
+ an
+ example
+ for
+ this.
+ Um
+ so
+ this
+
+
+was
+ a
+ teaup
+ that
+ basically
+ I
+ just
+ said
+
+
+create
+ a
+ really
+ bad
+ EAP
+ doc.
+ Um
+ so
+ this
+
+
+this
+ is
+ like
+ you
+ know
+ gives
+ a
+ really
+
+
+loose
+ purpose.
+ It
+ you
+ know
+ doesn't
+ have
+
+
+an
+ approver.
+ It's
+ like
+
+
+>> just
+ something
+ we've
+ been
+ thinking
+
+
+about.
+ Doesn't
+ have
+ much
+ background.
+ So
+
+
+it's
+ it's
+ a
+ bad
+ doc.
+ So
+ it's
+ not
+ but
+
+
+it's
+ not
+ going
+ to
+ give
+ you
+ the
+ the
+ most
+
+
+exciting
+ feedback.
+ But
+ it
+ goes
+ in
+ and
+
+
+again
+ like
+ takes
+ the
+ spit
+ off
+ the
+ ball
+
+
+of
+ feedback
+ and
+ helps
+ people
+ uh
+ you
+ know
+
+
+get
+ more
+ confident.
+ But
+ this
+ is
+ saying
+
+
+you
+ know
+ this
+ reads
+ more
+ like
+ a
+ jam
+
+
+session
+ than
+ a
+ tea
+ up.
+ You
+ will
+ get
+
+
+better
+ feedback
+ if
+ you
+ clarify
+ these
+
+
+things.
+ Let's
+ tighten
+ it
+ up.
+ And
+ so
+ it
+
+
+gives
+ a
+ quick
+ read
+ of
+ what
+ you
+ have.
+
+
+Gives
+ feedback
+ on
+ how
+ to
+ strengthen
+ it
+
+
+to
+ surface
+ trade-offs.
+ Add
+ a
+
+
+recommendation.
+
+
+And
+ then,
+ you
+ know,
+ it
+ gives
+ an
+ example
+
+
+rewrite
+ even
+ in
+ this
+ case
+ because
+ the
+
+
+doc
+ was
+ so
+ loose
+ on
+ on
+ details,
+ but
+ it
+
+
+gives,
+ you
+ know,
+ a
+ couple
+ top
+ fixes
+
+
+before
+ the
+ bullpen
+ and
+ then
+ which
+ is
+
+
+what
+ we
+ call
+ these
+ kind
+ of
+ tea
+ meetings
+
+
+and
+ then
+ one
+ bold
+ coaching
+ question.
+ So,
+
+
+I
+ I
+ love
+ uh
+ that
+ it
+ does
+ this
+ and
+ even
+
+
+gives
+ you
+ a
+ suggested
+ next
+ step
+ like
+
+
+let's
+ let's
+ give
+ a
+ tight
+ Wade
+ style
+
+
+one-page
+ rewrite
+ of
+ this
+ so
+ it's
+ bullpen
+
+
+ready.
+ So,
+ uh,
+ I
+ love
+ that.
+ And
+ this,
+
+
+uh,
+ this
+ GPT
+ is
+ built
+ off
+ of
+ the
+ back
+ of
+
+
+I'll
+ dive
+ into
+ it
+ really
+ quick,
+ but
+ it's
+
+
+built
+ off
+ the
+ back
+ of,
+ uh,
+ you
+ know,
+
+
+again,
+ our
+ team
+ norms,
+ our
+ revenue
+
+
+roadmap,
+ our
+ strategy
+ memo,
+ good
+
+
+examples
+ of
+ T-ups,
+ you
+ know,
+ Wade
+
+
+feedback
+ tuning,
+ a
+ managing
+ of
+ to
+ Wade
+
+
+dock.
+ So
+ it
+ gives
+ like
+ all
+ of
+ this
+
+
+context
+ on
+ the
+ back
+ end
+ that
+ can
+ help
+
+
+simulate
+ people's
+ feedback
+ again
+ to
+ make
+
+
+sure
+ they're
+ sharper,
+ clearer,
+ and
+
+
+better
+ at
+ unlocking
+ decisions.
+ So
+ uh
+ I
+
+
+love
+ this
+ one
+ because
+ it's
+ again
+ just
+
+
+helps
+ enable
+ everyone
+ at
+ Zapier.
+ I
+ love
+
+
+when
+ the
+ things
+ that
+ I
+ build
+ don't
+ only
+
+
+help
+ me
+ but
+ then
+ can
+ have
+ these
+ kind
+ of
+
+
+ripple
+ effects
+ within
+ the
+ organization.
+
+
+I
+ think
+ that's
+ how
+ you
+ can
+ become
+ really
+
+
+an
+ AI
+ champion
+ and
+ transform
+ your
+ org
+ is
+
+
+by
+ starting
+ with
+ your
+ own
+ wins.
+ you
+
+
+know,
+ start
+ with
+ your
+ own
+ meeting
+ prep
+
+
+or
+ whatever,
+ but
+ then
+ be
+ like,
+ okay,
+ how
+
+
+can
+ I
+ enable
+ the
+ next
+ set
+ of
+ folks
+ on
+
+
+this?
+ How
+ can
+ we
+ meet
+ this
+ like
+ world
+
+
+orwide?
+ And
+ so,
+ I
+ love
+ that.
+ I
+ love
+ that
+
+
+this
+ is
+ really
+ something
+ anybody
+ can
+
+
+use,
+ you
+ know,
+ on
+ the
+ I
+ I
+ created
+ in
+
+
+chat
+ to
+ BT
+ for
+ many
+ reasons,
+ but
+ one
+ of
+
+
+them
+ being
+ that
+ I
+ don't
+ have
+ context
+ to
+
+
+the
+ conversation,
+ so
+ folks
+ can
+ really
+
+
+feel
+ comfortable
+ putting
+ all
+ of
+ their
+
+
+information
+ in
+ there
+ and
+ making
+ sure
+
+
+that,
+ you
+ know,
+ no
+ one's
+ on
+ the
+ back
+ end
+
+
+like
+ reviewing
+ it.
+ Um,
+ I
+ think
+ we
+ can
+
+
+see
+ the
+ I
+ think
+ we
+ can
+ see
+ some
+
+
+analytics
+ here
+ on,
+ you
+ know,
+ 278
+ people
+
+
+have
+ have
+ used
+ this
+ to
+ sharpen
+ a
+
+
+strategy
+ doc.
+ So
+ again,
+ it
+ feeds
+ back
+
+
+into
+ things
+ like
+ my
+ impact
+ reviews
+ and
+
+
+showing
+ that
+ I'm
+ enabling
+ the
+ whole
+ org.
+
+
+So,
+ I
+ I
+ love
+ this
+ one
+ as
+ well
+ for
+ just
+
+
+making
+ sure
+ our
+ meetings
+ are
+ more
+
+
+efficient,
+ making
+ sure
+ I'm
+ not
+ a
+
+
+bottleneck.
+ And
+ then
+ I
+ can
+ still
+ provide
+
+
+my
+ coaching
+ where
+ where
+ it
+ makes
+ sense
+
+
+and
+ I
+ can
+ still
+ have
+ those
+ people
+ where
+
+
+I'm
+ thought
+ partnering
+ on
+ with
+ their
+
+
+docs,
+ but
+ this
+ helps
+ me
+ scale
+ me
+
+
+basically
+ and
+ scale
+ the
+ exacts
+ before
+ it
+
+
+gets
+ to
+ a
+ meeting.
+
+
+>> Yeah.
+ And
+ what
+ I
+ would
+ say
+ is
+ people
+
+
+also
+ love
+ when
+ you
+ come
+ to
+ an
+ exact
+
+
+meeting
+ or
+ a
+ feedback
+ session
+ where
+ you
+
+
+say,
+ "I've
+ already
+ checked
+ it
+ against
+
+
+our
+ strategy
+ or
+ I've
+ already
+ tried
+ to
+ do
+
+
+a
+ loop
+ of
+ this
+ with
+ this
+ GBT."
+ Like
+ just
+
+
+that
+ extra
+ effort
+ to
+ go
+ through
+ an
+
+
+independent
+ loop
+ before
+ taking
+
+
+synchronous
+ time
+ to
+ get
+ feedback
+ is
+ both
+
+
+probably
+ improving
+ the
+ quality
+ of
+ your
+
+
+work,
+ but
+ also
+ just
+ saving
+ people
+ time
+
+
+and
+ it
+ people
+ really
+ appreciate
+ it.
+ So
+ I
+
+
+think
+ that
+ sort
+ of
+ initiative
+ is
+ also
+
+
+useful.
+ And
+ what
+ I
+ want
+ to
+ go
+ to
+ for
+ our
+
+
+last
+ use
+ case
+ is
+ really
+
+
+you've
+ extended
+ strategic
+ thinking
+
+
+through
+ through
+ the
+ organization
+ with
+
+
+another
+ tool.
+ So
+ I'd
+ love
+ to
+ see
+ kind
+ of
+
+
+our
+ last
+ um
+ strategic
+ alignment
+ tool
+
+
+that
+ you've
+ built
+ using
+ AI
+ because
+ I
+
+
+think
+ it's
+ a
+ really
+ neat
+ one.
+ Yeah.
+ So
+
+
+one
+ thing
+ we
+ we
+ just
+ launched
+ about
+ a
+
+
+month
+ ago
+ is
+ in
+ notebook
+ LM.
+ So
+ this
+ is
+
+
+uh
+ enabled
+ through
+ through
+ Google
+ and
+ uh
+
+
+this
+ is
+ like
+ the
+ announcement
+ we
+ made
+ in
+
+
+Slack
+ to
+ give
+ you
+ uh
+ a
+ high
+ view
+ of
+ of
+
+
+why
+ we
+ did
+ this
+ and
+ what
+ it
+ is.
+ But
+ it's
+
+
+basically
+ a
+ strategy
+ companion
+ which
+ uh
+
+
+we
+ know
+ that
+ folks
+ have
+ a
+ hard
+ time
+
+
+looking
+ at
+ this
+ big
+ picture
+ strategy
+
+
+work
+ sometimes
+ and
+ then
+ saying
+ okay
+ how
+
+
+does
+ that
+ impact
+ me?
+ And
+ sometimes
+ it's
+
+
+just
+ hard
+ to
+ find
+ the
+ answers
+ you're
+
+
+looking
+ for
+ within
+ all
+ these
+ different
+
+
+strategy
+ docs
+ all
+ hands
+ meetings.
+ And
+ so
+
+
+we
+ gave
+ folks
+ this
+ basically
+
+
+knowledge
+ base
+ here.
+ Here here's
+ a
+
+
+screenshot
+ of
+ it
+ of
+ of
+ what
+ these
+ look
+
+
+like
+ in
+ reality.
+ I
+ just,
+ you
+ know,
+
+
+cleared
+ out
+ the
+ summary
+ of
+ our
+ strategy
+
+
+[clears throat]
+ to
+ make
+ sure
+ I'm
+ not
+
+
+like,
+ you
+ know,
+ totally
+ revealing
+
+
+everything
+ here.
+ But
+ what's
+ great
+ is
+
+
+that
+ we
+ can
+ continue
+ to
+ add
+ sources
+ over
+
+
+time.
+ So
+ you
+ can
+ see
+ we've
+ got
+ a
+ few
+
+
+dozen
+ sources
+ in
+ here
+ which
+ are
+
+
+everything
+ from
+ the
+ top
+ level
+ strategy
+
+
+doc
+ to
+ all
+ hands
+ we've
+ had
+ to
+
+
+transcripts
+ from
+ other
+ meetings
+ we've
+
+
+had
+ around
+ strategy
+ to
+ every
+ org's
+
+
+strategic
+ action
+ plan
+ and
+ so
+ folks
+ can
+
+
+go
+ and
+ interact
+ with
+ these
+ but
+ they
+ can
+
+
+also
+ interact
+ with
+ this
+ in
+ a
+ chat
+
+
+capacity
+ and
+ ask
+ it
+ anything
+ they
+ want.
+
+
+So
+ here's
+ an
+ example
+ of
+ it
+ in
+ in
+ real
+
+
+life.
+ Uh,
+ so
+ you
+ know,
+ I'm
+ saying
+ I
+ just
+
+
+gave
+ it
+ a
+ simple
+ prompt
+ of
+ as
+ an
+
+
+executive
+ assistant,
+ how
+ can
+ I
+
+
+contribute
+ to
+ Zapier's
+ 2026
+ strategy?
+
+
+And
+ it's
+ saying,
+ "Oh,
+ that's
+ a
+ great
+
+
+question.
+ We
+ I
+ think
+ you
+ can
+ help
+ with
+
+
+champion
+ clarity,
+ focus,
+ and
+ speed.
+ Make
+
+
+sure
+ we're
+ spending
+ time
+ on
+ the
+ right
+
+
+priorities.
+ You
+ know,
+ make
+ sure
+ that
+
+
+you're
+ driving
+ internal
+ AI
+
+
+transformation."
+ And
+ so,
+ I
+ love
+ that
+ it
+
+
+gives
+ me,
+ you
+ know,
+ some
+ of
+ that
+ and
+ and
+
+
+connects
+ back
+ to
+ the
+ sources.
+ But
+
+
+there's
+ also
+ fun
+ things
+ here
+ like
+ this
+
+
+uh
+ it
+ autogenerates
+ a
+ podcast.
+ So
+ I
+
+
+don't
+ know
+ if
+ I'm
+ fully
+ sharing
+ my
+
+
+computer
+ sound
+ here,
+ but
+ I'll
+ play
+ it
+
+
+for
+ a
+ couple
+ of
+ seconds.
+ This
+ is
+ fully
+
+
+AI
+ generated
+ just
+ based
+ off
+ of
+ the
+ back
+
+
+of
+ these
+ sources.
+ So
+ it
+ talks
+ like
+ this.
+
+
+>> Welcome
+ to
+ the
+ deep
+ dive.
+ Today
+ we're
+ uh
+
+
+really
+ giving
+ you
+ the
+ essential
+ shortcut
+
+
+here.
+ Absolute
+ alignment
+ on
+ the
+
+
+strategy.
+
+
+>> We're
+ pulling
+ the
+ core
+ ideas
+ straight
+
+
+from
+ the
+ Zap
+ year
+ 2026.
+ And
+ all
+ of
+ this
+
+
+is
+ AI
+ generated
+ of
+ of
+ things
+ you
+ can
+
+
+create.
+ So
+ it
+ really
+ helps
+ make
+ the
+
+
+strategy
+ interactive
+ instead
+ of
+ a
+ static
+
+
+doc
+ and
+ static
+ thing
+ and
+ helps
+ folks
+ get
+
+
+their
+ questions
+ answered
+ again
+ before
+
+
+going
+ to
+ their
+ leader
+ or
+ going
+ to
+
+
+someone
+ in
+ their
+ org.
+ And
+ so
+ I
+ love
+ this
+
+
+for
+ just
+ enabling
+ folks
+ to
+ be
+ able
+ to
+
+
+connect
+ their
+ work
+ and
+ be
+ able
+ to
+ query
+
+
+this
+ over
+ time.
+ And
+ it's
+ something
+ that
+
+
+we
+ can
+ keep
+ updated
+ and
+ and
+ make
+ sure
+
+
+that
+ it
+ has
+ the
+ most
+ recent
+ information
+
+
+so
+ everyone
+ can
+ can
+ get
+ value
+ out
+ of
+ it.
+
+
+So
+ Courtney,
+ I
+ love
+ these
+ use
+ cases.
+
+
+What
+ I
+ keep
+ reflecting
+ on
+ is
+ people
+ are
+
+
+like,
+ "Oh,
+ EA's
+ EAS
+ are
+ going
+ to
+ go
+ in
+
+
+this
+ age
+ of
+ AI."
+ And
+ I'm
+ like, "Have
+ you
+
+
+worked
+ with
+ a
+ fabulous
+ EA?"
+ Because
+ the
+
+
+second
+ they
+ automate
+ one
+ task,
+ they
+
+
+figure
+ out
+ 10
+ more
+ that
+ are
+ so
+ high
+
+
+leverage
+ for
+ the
+ organization.
+
+
+culture
+ carrying
+ behaviors,
+ strategic
+
+
+like
+ communication,
+
+
+operational
+ efficiency,
+ like
+ you
+ are
+
+
+just
+ demonstrating
+ that
+ this
+ can
+ happen
+
+
+at
+ a
+ next
+ level.
+ And
+ so,
+ zooming
+ back
+
+
+out,
+ what
+ we
+ saw
+ today
+ was
+ everything
+
+
+from
+ helping
+ yourself
+ dig
+ dig
+ out
+ of
+ a
+
+
+busy
+ calendar
+ with
+ meeting
+ prep
+ to
+
+
+enforcing
+ your
+ cultural
+ goals
+ and
+
+
+leadership
+ norms
+ through
+ always
+ on
+
+
+feedback,
+
+
+checking
+ feedback
+ ahead
+ of
+ a
+ synchronous
+
+
+meeting
+ so
+ you
+ can
+ make
+ sure
+ it's
+
+
+aligned
+ with
+ both
+ how
+ executives
+ want
+ to
+
+
+receive
+ it,
+ but
+ also
+ kind
+ of
+ the
+
+
+important
+ business
+ initiatives
+ and
+ goals
+
+
+of
+ the
+ company.
+ And
+ then
+ finally,
+ how
+
+
+you
+ can
+ take
+ all
+ this
+ content
+ that's
+
+
+always
+ I
+ mean,
+ I
+ just
+ don't
+ know
+ an
+
+
+organization
+ that
+ is
+ not
+ consistently
+
+
+writing
+ strategy
+ documents,
+ just
+ one
+
+
+strategy
+ document
+ to
+ the
+ next,
+ big
+
+
+strategy
+ document,
+ little
+ strategy
+
+
+document,
+ strategy
+ update,
+ strategy
+
+
+goals.
+ And
+ so
+ just
+ creating
+ a
+
+
+purpose-built
+ repository
+ for
+ that
+
+
+information
+ that
+ can
+ then
+ be
+ accessed
+ in
+
+
+a
+ multimodal
+ way
+ for
+ people
+ to
+ learn,
+
+
+align
+ their
+ work,
+ be
+ educated,
+ all
+ that
+
+
+kind
+ of
+ stuff.
+ I
+ think
+ is
+ super
+ awesome.
+
+
+So
+ these
+ were
+ really,
+ really
+ great
+
+
+workflows.
+ We're
+ going
+ to
+ do
+ quick
+
+
+lightning
+ round
+ and
+ then
+ we
+ will
+ get
+ you
+
+
+out
+ of
+ here.
+ I
+ think
+ the
+ first
+ thing
+ is
+
+
+kind
+ of
+ this
+ thing
+ I
+ I
+ said
+ which
+ is
+ a
+
+
+lot
+ of
+ people
+ think
+ your
+ role
+ is
+ going
+
+
+away
+ or
+ they're
+ afraid
+ of
+ AI
+ um
+ taking
+
+
+over
+ this
+ role
+ and
+ I
+ think
+ you're
+
+
+showing
+ actually
+ you're
+ just
+ becoming
+ so
+
+
+much
+ higher
+ leverage
+ and
+ have
+ to
+ be
+
+
+having
+ so
+ much
+ more
+ fun.
+ So
+ tell
+ me
+ how
+
+
+do
+ you
+ respond
+ to
+ to
+ that
+ feedback
+
+
+around
+ AI
+ and
+ in
+ particular
+ the
+ kind
+ of
+
+
+EA
+ role?
+ I
+ definitely
+ am
+ a
+ believer
+ that
+
+
+AI
+ can
+ only
+ enable
+ us
+ in
+ this
+ role.
+ I
+
+
+think
+ it's
+ a
+
+
+when,
+ not
+ an
+ if.
+ We
+ will
+ have
+ to
+ be
+
+
+folks
+ that
+ adopt
+ these
+ tools.
+ There
+ is
+
+
+simply
+ too
+ much
+ to
+ do.
+ I
+ think
+ there's
+
+
+the
+ one
+ of
+ the
+ biggest
+ problems
+ that
+ EAs
+
+
+have
+ is
+ we
+ always
+ have
+ more
+ work
+ that
+ we
+
+
+want
+ to
+ do
+ than
+ we
+ have
+ time
+ for.
+ And
+ so
+
+
+that's
+ what
+ it's
+ consistently
+ hearing,
+ I
+
+
+don't
+ have
+ enough
+ time.
+ I
+ don't
+ have
+
+
+enough
+ time.
+ Like
+ this
+ is
+ how
+ we
+ can
+ do
+
+
+that.
+ And
+ I
+ I
+ mean
+ to
+ I
+ don't
+ like
+
+
+talking
+ about
+ myself
+ very
+ much,
+ but
+ to
+
+
+humble
+ brag
+ and
+ tie
+ this
+ back
+ to
+ Real
+
+
+Impact,
+ I've
+ I've
+ gotten
+ three
+
+
+promotions
+ since
+ I've
+ been
+ here
+ and
+ been
+
+
+able
+ to
+ work
+ myself
+ out
+ of
+ multiple
+
+
+roles
+ and,
+ you
+ know,
+ I
+ think
+ that
+ this
+
+
+is
+ how
+ you
+ can
+ do
+ that.
+ you
+ can
+ be
+ this
+
+
+really
+ great
+ AI
+ partner
+ for
+ your
+ company
+
+
+and
+ make
+ sure
+ that
+ you're
+ at
+ the
+
+
+forefront
+ and
+ take
+ all
+ that
+ busy
+ manual
+
+
+repetitive
+ work
+ off
+ your
+ plate
+ so
+ you
+
+
+can
+ be
+ do
+ the
+ human
+ stuff,
+ the
+ fun
+
+
+stuff,
+ the
+ stuff
+ you
+ like
+ to
+ do,
+ the
+
+
+stuff
+ that's
+ creative,
+ um,
+ and
+ and
+
+
+relationship
+ driven
+ and
+ those
+ things
+
+
+that
+ we
+ wish
+ we
+ had
+ time
+ for.
+ And
+ so
+ I
+
+
+think
+ that
+ it's
+ just
+ it's
+ such
+ an
+
+
+exciting
+ thing
+ for
+ our
+ role
+ and
+ I
+ don't
+
+
+think
+ it's
+ going
+ to
+ take
+ our
+ jobs.
+ There
+
+
+may
+ be
+ you
+ know
+ certain
+ admin
+ things
+ it
+
+
+does
+ take
+ eventually
+ but
+ it's
+ not
+ going
+
+
+to
+ take
+ the
+ whole
+ thing.
+ Think
+ about
+ the
+
+
+scope
+ of
+ what
+ we
+ do.
+ Our
+ whole
+ job
+ is
+ to
+
+
+be
+ you
+ know
+ all
+ wide
+ across
+ the
+ org
+ and
+
+
+a
+ little
+ bit
+ of
+ depth
+ in
+ each
+ area.
+ But
+
+
+now
+ you
+ can
+ be
+ wide
+ across
+ the
+ or
+ have
+
+
+more
+ depth
+ and
+ have
+ more
+ time
+ for
+ for
+
+
+projects
+ and
+ special
+ things
+ that
+ you
+ can
+
+
+do
+ for
+ your
+ team.
+
+
+>> Okay.
+ So
+ speaking
+ of
+ special
+ things,
+ you
+
+
+have
+ been
+ one
+ of
+ the
+ people
+ I
+ think
+ is
+
+
+closest
+ to
+ answering
+ this
+ question
+ which
+
+
+is
+ how
+ close
+ do
+ you
+ think
+ we
+ are
+ to
+
+
+replicating
+ executives?
+ How
+ happy
+ is
+
+
+Wade
+ with
+ your
+ AI
+ versions
+ of
+ him?
+ And
+
+
+do
+ you
+ think
+ we're
+ actually
+ working
+
+
+towards
+ a
+ world
+ where
+ those
+ get
+ quite
+
+
+high
+ fidelity
+ relative
+ to
+ individuals
+
+
+preferences,
+ feedback,
+ thought
+ process,
+
+
+communication
+ process?
+ Yeah,
+ it's
+ a
+
+
+great
+ question.
+ I
+ think
+ there
+ are
+
+
+certain
+ parts
+ where
+ we're
+ getting
+ kind
+
+
+of
+ close
+ on.
+ So
+ over
+ time,
+ you
+ know,
+ I
+
+
+used
+ to
+ think
+ of
+ myself
+ as
+ a
+ clone
+ of
+
+
+Wade
+ in
+ certain
+ instances.
+ I
+ could
+ write
+
+
+coms
+ like
+ him.
+ I
+ could
+ run
+ his
+ schedule.
+
+
+I
+ could
+ do
+ things
+ like
+ him.
+ And
+ now
+
+
+we've
+ we've
+ got
+ a
+ clone
+ of
+ AI
+ tools
+ that
+
+
+are
+ helping
+ me
+ do
+ things
+ like
+ him,
+ too.
+
+
+So,
+ there's
+ certain
+ parts
+ of
+ of
+ what
+ he
+
+
+thinks
+ and
+ does
+ that
+ we're
+ pretty
+ close
+
+
+to
+ replicating
+ with
+ these
+ AI
+ tools.
+ What
+
+
+I'm
+ not
+ sure
+ of
+ is
+
+
+Wade
+ or
+ any
+ exec.
+ Um,
+ but
+ speaking
+ just
+
+
+for
+ Wade
+ here,
+ he's
+ a
+ constant
+ learner.
+
+
+He
+ is
+ he
+ is
+ ingesting
+ so
+ much
+
+
+information,
+ learning
+ new
+ things,
+ trying
+
+
+new
+ things,
+ building
+ every
+ day
+ like
+
+
+hands
+ on
+ keyboard.
+ like
+ the
+ amount
+ uh
+ he
+
+
+can
+ grow
+ and
+ learn
+ like
+ the
+ pace
+ of
+ that
+
+
+is
+ so
+ high
+ that
+ I
+ wonder
+ how
+ you
+ could
+
+
+keep
+ these
+ models
+ up
+ to
+ date
+ with
+ that
+
+
+because
+
+
+>> like
+ I
+ you
+ know
+ I
+ know
+ they
+ they
+ update
+
+
+fast
+ but
+ like
+ how
+ can
+ you
+ how
+ can
+ you
+
+
+grow
+ at
+ at
+ the
+ pace
+ of
+ of
+ someone's
+
+
+brain
+ and
+ and
+ how
+ your
+ evolving
+ does
+
+
+change
+ your
+ thought
+ process
+ does
+ change
+
+
+over
+ time
+ so
+ there's
+ things
+ old
+ things
+
+
+in
+ Zapier
+ history
+ where
+ someone's
+ like
+
+
+oh
+ I
+ heard
+ Wade
+ said
+ we'll
+ never
+ do
+ XYZ
+
+
+and
+ you're
+ like
+ that
+ was
+ an
+ old
+
+
+decision.
+ That
+ was
+ an
+ old
+ decision.
+ Like
+
+
+I
+ have
+ so
+ much
+ new
+ context
+ that's
+
+
+changing
+ the
+ way
+ I
+ think.
+ And
+ so
+ for
+ a
+
+
+leader
+ who's
+ constantly
+ adapting,
+
+
+changing
+ the
+ way
+ they
+ think
+ and
+ using
+
+
+new
+ information
+ to
+ help
+ them
+ make
+
+
+smarter
+ decisions.
+ How
+ do
+ you
+ how
+ do
+ you
+
+
+replicate
+ that
+ part
+ of
+ it?
+ I
+ don't
+ know.
+
+
+There's
+ things
+ that
+ but
+ the
+ consistent
+
+
+side
+ like
+ how
+ he
+ writes
+ internal
+ memos
+
+
+or
+ you
+ know
+ how
+ he
+ writes
+ certain
+ things
+
+
+are
+ we're
+ pretty
+ close
+ to
+ replicating.
+
+
+[laughter]
+
+
+Okay.
+ And
+ then
+ final
+ question.
+ When
+ um
+
+
+AI
+ Wade
+ is
+ not
+ replying
+ to
+ you
+ the
+ way
+
+
+you
+ want
+ or
+ you're
+ not
+ getting
+ what
+ you
+
+
+need
+ out
+ of
+ a
+ specific
+ prompt,
+ what
+ is
+
+
+your
+ prompting
+ technique?
+ Do
+ you
+ are
+ you
+
+
+all
+ an
+ all
+ caps
+ girl?
+ Do
+ you
+ what
+ do
+ you
+
+
+what
+ do
+ you
+ do
+ here?
+ O
+ I
+ am
+ not
+ an
+ all
+
+
+caps
+ girl.
+ I'm
+ a
+ ramble.
+ So
+ I
+ love
+ the
+
+
+dictate
+ feature
+ and
+ I
+ love
+ to
+ talk
+ to
+ it
+
+
+and
+ I
+ give
+ it
+ feedback
+ very
+ very
+ direct.
+
+
+I'm
+ just
+ very
+ direct
+ as
+ a
+ person
+ and
+ and
+
+
+demanding
+ and
+ so
+ I
+ do
+ that.
+ I'm
+ like,
+ I
+
+
+don't
+ understand
+ why
+ you're
+ doing
+ it
+
+
+this
+ way.
+ Show
+ me
+ a
+ reasoning
+ of
+ why
+ you
+
+
+did
+ it
+ that
+ way
+ because
+ I
+ told
+ you
+ to
+ do
+
+
+this
+ and
+ this
+ is
+ what
+ I'd
+ like
+ to
+ see
+
+
+and
+ here's
+ the
+ feedback
+ I
+ have.
+ And
+ I
+
+
+just
+ ramble
+ and
+ give
+ it,
+ you
+ know,
+
+
+everything
+ I'm
+ thinking.
+ I
+ think
+ folks
+
+
+like
+ sometimes
+ don't
+ know
+ where
+ to
+ start
+
+
+and
+ and
+ try
+ to
+ give
+ it
+ this
+ very
+
+
+specific
+ feedback
+ and
+ write
+ it.
+ No,
+ just
+
+
+like
+ give
+ it
+ top
+ of
+ mind,
+ pretend
+ it's
+
+
+someone
+ with
+ no
+ feelings
+ and
+ be
+
+
+demanding.
+ So,
+ I
+ don't
+ know.
+ Hopefully
+
+
+the
+ AI
+ robots
+ don't
+ come
+ for
+ me.
+ I
+ do
+
+
+think
+ people
+ can
+ thank
+ you
+ sometimes.
+
+
+So,
+ Good,
+ good,
+ good.
+ AI,
+
+
+>> AI,
+ we
+ uh
+ we
+ we
+ we
+ know
+ you
+ have
+
+
+feelings.
+ I
+ don't
+ know.
+ We'll
+ see
+
+
+[laughter]
+ what
+ happens
+ in
+ 10
+ years.
+
+
+>> Yeah.
+ Um
+ Okay,
+ Courtney,
+ this
+ has
+ been
+
+
+so
+ great.
+ Where
+ can
+ we
+ find
+ you
+ and
+ how
+
+
+can
+ we
+ be
+ helpful?
+ Yeah.
+ So,
+ uh
+ feel
+
+
+free
+ to
+ connect
+ with
+ me
+ on
+ LinkedIn.
+ I
+
+
+love
+ posting
+ about
+ additional
+ use
+ cases,
+
+
+things
+ I'm
+ building,
+ workshops
+ we're
+
+
+having.
+ But
+ I'
+ I'd
+ love
+ for
+ y'all
+ to
+
+
+check
+ out
+ this
+ EA
+ Exec
+ Ops
+ AI
+ playbook
+ I
+
+
+just
+ made
+ recently,
+ which
+ has
+ like,
+ you
+
+
+know,
+ six
+ different
+ categories
+ of
+ things
+
+
+that
+ the
+ EAS
+ do
+ consistently
+ and
+
+
+different
+ ways
+ we've
+ we've
+ automated
+
+
+that
+ and
+ ways
+ that
+ folks
+ can
+ replicate
+
+
+it
+ and
+ give
+ me
+ feedback
+ on
+ it.
+ I'd
+ love
+
+
+to
+ I'd
+ love
+ to
+ hear
+ what
+ we're
+ missing,
+
+
+what
+ we
+ can
+ build
+ out
+ more.
+ I'm
+ looking
+
+
+for
+ new
+ things
+ to
+ build
+ all
+ the
+ time,
+ so
+
+
+I
+ love
+ I
+ love
+ getting
+ feedback
+ from
+ the
+
+
+community
+ on
+ what
+ would
+ be
+ helpful.
+
+
+>> Awesome.
+ Well,
+ thank
+ you
+ for
+ joining
+ us.
+
+
+>> Yeah,
+ thank
+ you,
+ Claire.
+
+
+Thanks
+ so
+ much
+ for
+ watching.
+ If
+ you
+
+
+enjoyed
+ this
+ show,
+ please
+ like
+ and
+
+
+subscribe
+ here
+ on
+ YouTube,
+ or
+ even
+
+
+better,
+ leave
+ us
+ a
+ comment
+ with
+ your
+
+
+thoughts.
+ You
+ can
+ also
+ find
+ this
+ podcast
+
+
+on
+ Apple
+ Podcasts,
+ Spotify,
+ or
+ your
+
+
+favorite
+ podcast
+ app.
+ Please
+ consider
+
+
+leaving
+ us
+ a
+ rating
+ and
+ review,
+ which
+
+
+will
+ help
+ others
+ find
+ the
+ show.
+ You
+ can
+
+
+see
+ all
+ our
+ episodes
+ and
+ learn
+ more
+
+
+about
+ the
+ show
+ at
+ howiipod.com.
+
+
+See
+ you
+ next
+ time.
