@@ -1,0 +1,5967 @@
+Hi,
+ I'm
+ Mike
+ Sheper.
+ Um,
+ I
+ spent
+ 25
+
+
+years
+ building,
+ starting
+ and
+ scaling
+
+
+technology
+ companies.
+ Worked
+ at
+ a
+ small
+
+
+startup.
+ Worked
+ at
+ two
+ small
+ startups
+
+
+actually
+ in
+ the
+ dotcom
+ boom.
+ Then
+
+
+started
+ my
+ own
+ company
+ after
+ the
+ dot
+
+
+crash.
+ Sold
+ that
+ off
+ to
+ a
+ bigger
+ company
+
+
+on
+ micros
+ systemystems.
+ Then
+ joined
+
+
+Mozilla
+ which
+ made
+ the
+ Firefox
+ web
+
+
+browser
+ helped
+ ship
+ 152030
+ back
+ when
+
+
+version
+ numbers
+ were
+ small.
+ They
+ weren't
+
+
+in
+ the
+ '7s.
+ And
+ then
+ in
+ 2008
+ I
+ joined
+ a
+
+
+little
+ social
+ network
+ called
+ Facebook
+
+
+which
+ was
+ you
+ know
+ smaller
+ than
+ MySpace
+
+
+at
+ the
+ time.
+ And
+ then
+ over
+ the
+ next
+
+
+14-15
+ years
+ led
+ engineering,
+ built
+ data
+
+
+centers,
+ uh
+ took
+ us
+ into
+ the
+ consumer
+
+
+hardware
+ business
+ with
+ virtual
+ reality
+
+
+headsets,
+ managed
+ multiple
+
+
+billion-dollar
+ acquisitions,
+ built
+ an
+ AI
+
+
+research
+ lab,
+ sort
+ of
+ build
+ hardware,
+
+
+software,
+ enterprise,
+ and
+ consumer,
+ and
+
+
+scaled
+ the
+ team
+ from,
+ you
+ know,
+ 100
+ to
+
+
+35,000ish.
+ I'm
+ now
+ helping
+ great
+
+
+entrepreneurs
+ through
+ starting
+ a
+ venture
+
+
+capital
+ firm
+ called
+ Gigascale
+ Capital
+
+
+where
+ we
+ are
+ hunting
+ for
+ founders
+ with
+
+
+big
+ ideas
+ using
+ technological
+ advances
+
+
+to
+ build
+ products
+ that
+ makes
+ people's
+
+
+lives
+ better.
+ and
+ it
+ solves
+ a
+ climate
+
+
+environmental
+ problem
+ and
+ it
+ turns
+ out
+
+
+to
+ actually
+ be
+ a
+ great
+ business
+ along
+
+
+the
+ way.
+ Easy
+ example
+ of
+ this
+ that
+ is
+
+
+you
+ know
+ electric
+ vehicles
+ spew
+ no
+
+
+pollution.
+ They're
+ cheaper
+ to
+ operate.
+
+
+They're
+ cheaper
+ to
+ maintain.
+ They're
+
+
+faster.
+ They're
+ quieter.
+ They
+ have
+ been
+
+
+traditionally
+ more
+ expensive.
+ But
+ as
+
+
+batteries
+ get
+ cheaper
+ and
+ cheaper,
+
+
+they're
+ getting
+ more
+ and
+ more
+ cost
+
+
+competitive.
+ And
+ so
+ we're
+ looking
+ for
+
+
+products
+ that
+ are
+ cost
+ competitive
+ and
+
+
+people
+ love
+ and
+ then
+ also
+ are
+ better
+ for
+
+
+human
+ health
+ and
+ for
+ the
+ planet.
+ That's
+
+
+a
+ version
+ of
+ what
+ we
+ do.
+
+
+It
+ was
+ August
+ or
+ September
+ of
+ 2008.
+ We
+
+
+had
+ a
+ product
+ that
+ people
+ loved,
+ the
+
+
+website
+ facebook.com.
+ More
+ people
+ were
+
+
+signing
+ up
+ every
+ day.
+ Those
+ are
+ new
+
+
+features
+ being
+ added
+ to
+ the
+ site
+ all
+ the
+
+
+time.
+ At
+ the
+ time,
+ the
+ most
+ urgent
+
+
+problem
+ was
+ scale.
+ Literally
+ the
+ problem
+
+
+was
+ you
+ know
+ every
+ week
+ or
+ every
+ month
+
+
+on
+ keeping
+ the
+ site
+ running
+ and
+ the
+
+
+software
+ backbone
+ and
+ hardware
+ backbone
+
+
+for
+ building
+ this
+ sort
+ of
+ product
+ didn't
+
+
+really
+ exist.
+ So
+ a
+ lot
+ of
+ the
+ first
+ many
+
+
+years
+ I
+ spent
+ there
+ was
+ scaling
+ and
+
+
+rebuilding
+ the
+ software
+ architecture
+ of
+
+
+the
+ site
+ and
+ then
+ building
+ the
+ hardware
+
+
+infrastructure
+ to
+ do
+ this.
+ You
+ know
+ when
+
+
+I
+ first
+ got
+ there
+ we
+ were
+ releasing
+
+
+space
+ in
+ those
+ data
+ centers
+ and
+ putting
+
+
+servers
+ in
+ them
+ and
+ and
+ building
+ it
+ up.
+
+
+But
+ because
+ of
+ the
+ financial
+ crisis
+ of
+
+
+the
+ real
+ estate
+ crisis
+ in
+ 2008,
+ people
+
+
+had
+ stopped
+ building
+ large
+ data
+ centers
+
+
+and
+ so
+ we
+ couldn't
+ get
+ more
+ space.
+ So
+ we
+
+
+had
+ to
+ build
+ our
+ own
+ and
+ there
+ was
+ a
+ lot
+
+
+of
+ challenges
+ and
+ you
+ know
+ we
+ had
+ to
+
+
+learn
+ a
+ lot.
+ None
+ of
+ these
+ things
+ were
+
+
+perfect
+ the
+ first
+ time.
+ We
+ made
+ some
+
+
+mistakes
+ and
+ we
+ had
+ to
+ fix
+ them
+ and
+ we
+
+
+had
+ enough
+ humility
+ to
+ know
+ that
+ we
+ had
+
+
+to
+ learn
+ a
+ bunch
+ of
+ new
+ things
+ and
+ so
+
+
+you
+ know
+ the
+ first
+ goal
+ was
+ hiring
+
+
+people
+ who
+ had
+ done
+ data
+ center
+ work
+ who
+
+
+had
+ done
+ network
+ design
+ people
+ with
+ the
+
+
+actual
+ background
+ in
+ this
+ space.
+ So
+ the
+
+
+goal
+ was
+ go
+ hire
+ a
+ team
+ to
+ understand
+
+
+this
+ new
+ area
+ and
+ then
+ help
+ us
+ get
+ good.
+
+
+Like
+ many
+ problems
+ in
+ a
+ company,
+ you
+
+
+know,
+ if
+ you're
+ a
+ founder
+ or
+ prospective
+
+
+founder
+ watching
+ this,
+ most
+ of
+ the
+
+
+things
+ a
+ startup
+ does,
+ it
+ does
+ out
+ of
+
+
+just
+ complete
+ necessity.
+ It's
+ like,
+
+
+well,
+ we
+ can't
+ get
+ space.
+ We
+ don't
+
+
+really
+ have
+ a
+ choice
+ here.
+ We
+ have
+ to
+
+
+figure
+ this
+ out.
+ One
+ of
+ the
+ lessons
+ that
+
+
+I
+ took
+ away
+ was
+ there's
+ no
+ getting
+ away
+
+
+from
+ the
+ hard
+ problems.
+ You
+ just
+ got
+ to
+
+
+get
+ to
+ it.
+ So
+ it's
+ like
+ okay
+ if
+ we
+ need
+
+
+to
+ solve
+ this
+ problem
+ let's
+ like
+ figure
+
+
+out
+ what
+ are
+ the
+ critical
+ risks
+ what
+ are
+
+
+the
+ things
+ we
+ understand
+ the
+ least
+ or
+
+
+the
+ highest
+ technical
+ risks
+ and
+ let's
+
+
+work
+ on
+ those
+ first.
+ I
+ think
+ there's
+
+
+this
+ like
+ human
+ instinct
+ to
+ solve
+
+
+tractable
+ problems.
+ So
+ it's
+ kind
+ of
+ like
+
+
+I've
+ got
+ this
+ task
+ I
+ want
+ to
+ do
+ but
+ my
+
+
+room's
+ kind
+ of
+ messy.
+ I'm
+ going to
+ go
+
+
+clean
+ my
+ whole
+ office.
+ I
+ don't
+ want
+ to
+
+
+go
+ work
+ on
+ the
+ hard
+ thing.
+ And
+ like
+
+
+that's
+ a
+ very
+ human
+ sort
+ of
+ trait.
+ So
+
+
+it's
+ like
+ important
+ to
+ work
+ against
+ it.
+
+
+Say
+ like
+ actually
+ no
+ it
+ doesn't
+ matter.
+
+
+My
+ office
+ is
+ messy.
+ like
+ if
+ I
+ don't
+ get
+
+
+this
+ pitch
+ done
+ right
+ and
+ get
+ raise
+
+
+money
+ for
+ this
+ company,
+ then
+ nothing
+
+
+else
+ matters.
+ Doesn't
+ matter
+ if
+ my
+
+
+office
+ is
+ clean
+ or
+ not.
+ So,
+ I
+ think
+ that
+
+
+trying
+ to
+ get
+ people
+ focused
+ on
+ the
+
+
+right
+ hard
+ problems
+ and
+ running
+ at
+ them
+
+
+is
+ is
+ really
+ critical.
+
+
+Early
+ years
+ of
+ Facebook,
+ it
+ was
+ sort
+ of
+
+
+just
+ pants
+ on
+ fire
+ all
+ the
+ time.
+ Wasn't
+
+
+totally
+ solved,
+ but
+ it
+ wasn't
+ so
+ much
+
+
+consuming
+ all
+ of
+ our
+ energy
+ that
+ we
+ had
+
+
+a
+ little
+ bit
+ of
+ energy
+ to
+ look
+ forward.
+
+
+2013,
+ Facebook
+ started
+ the
+ AI
+ research.
+
+
+One
+ of
+ the
+ questions
+ was,
+ you
+ know,
+
+
+should
+ you
+ establish
+ a
+ more
+
+
+broad-reaching
+ research
+ lab?
+ There
+ were
+
+
+things
+ like
+ Microsoft
+ research
+ or
+ IBM
+
+
+research
+ or
+ others
+ who
+ were
+ kind
+ of
+ like
+
+
+could
+ do
+ software
+ theory,
+ could
+ do
+ lots
+
+
+of
+ different
+ areas
+ of
+ technology.
+ The
+
+
+most
+ preient
+ part
+ of
+ all
+ of
+ this
+ was
+ to
+
+
+say
+ AI
+ is
+ such
+ a
+ big
+ thing
+ and
+ so
+
+
+impactful
+ that
+ you
+ wouldn't
+ want
+ to
+
+
+spend
+ time
+ on
+ these
+ other
+ things.
+ You'd
+
+
+want
+ to
+ take
+ all
+ the
+ energy
+ you
+ had
+ and
+
+
+focus
+ it
+ on
+ AI.
+ This
+ is
+ a
+ debate
+ Mark
+
+
+and
+ I
+ had
+ and
+ I
+ you
+ know
+ I
+ think
+ he
+ was
+
+
+the
+ one
+ actually
+ who
+ kind
+ of
+ pushed
+ to
+
+
+say
+ like
+ let's
+ make
+ sure
+ we
+ just
+ do
+ AI.
+
+
+Part
+ of
+ it
+ was
+ having
+ visibility
+ to
+ what
+
+
+was
+ going
+ on
+ in
+ the
+ ecosystem.
+ There
+ was
+
+
+you
+ know
+ this
+ the
+ imageet
+ challenge
+ was
+
+
+this
+ famous
+ academic
+ challenge
+ of
+ object
+
+
+identification
+ that
+ no
+ one
+ was
+ paying
+
+
+that
+ much
+ attention
+ to
+ except
+ when
+ the
+
+
+first
+ neural
+ net
+ entered
+ the
+ challenge
+
+
+and
+ sort
+ of
+ was
+ so
+ much
+ better
+ than
+
+
+everything
+ else.
+ It
+ is
+ one
+ of
+ these
+ rare
+
+
+moments,
+ you
+ know,
+ there
+ are
+ these
+
+
+moments
+ in
+ tech
+ where
+ something
+ shows
+ up
+
+
+and
+ it's
+ like,
+ "Oh
+ my
+ gosh,
+ that
+ thing
+
+
+is
+ like
+ 10%
+ better
+ than
+ anything,
+ a
+ very
+
+
+large
+ amount
+ compared
+ to
+ any
+ other
+ gap,
+
+
+and
+ it
+ used
+ neural
+ net's
+ training
+ on
+
+
+data."
+ So,
+ it's
+ a
+ different
+ approach.
+
+
+You
+ then
+ look
+ at
+ that
+ thing
+ and
+ say
+
+
+like,
+ okay,
+ is
+ that
+ at
+ the
+ end
+ of
+ its
+
+
+runway
+ in
+ terms
+ of
+ capability
+ or
+ is
+ it
+
+
+at
+ the
+ beginning?
+ And
+ you
+ say,
+ well,
+
+
+what's
+ powering
+ it?
+ you
+ say
+ what's
+
+
+powering
+ it
+ is
+ like
+ the
+ size
+ of
+ the
+
+
+neural
+ net,
+ the
+ size
+ of
+ the
+ data
+ set,
+
+
+and
+ the
+ amount
+ of
+ computation
+ you
+ can
+
+
+give
+ it
+ both
+ in
+ training
+ and
+ in
+
+
+inference.
+ And
+ even
+ at
+ the
+ time
+ it
+ was
+
+
+like
+ wow,
+ we
+ we
+ can
+ scale
+ all
+ of
+ those
+
+
+things
+ by
+ thousands
+ of
+ times
+ easily.
+ And
+
+
+so
+ even
+ if
+ we
+ invent
+ nothing
+ new,
+ you
+
+
+could
+ get
+ a
+ lot
+ more
+ out
+ of
+ this.
+ And
+ so
+
+
+this
+ is
+ what
+ I'd
+ like
+ to
+ say
+ is
+ like
+
+
+it's
+ a
+ technology
+ with
+ a
+ lot
+ of
+ runway.
+
+
+It's
+ not
+ fully
+ optimized.
+ But
+ but
+ the
+
+
+point
+ being
+ is
+ as
+ a
+ technology,
+ it
+ was
+
+
+at
+ its
+ infancy
+ in
+ terms
+ of
+ its
+ ability
+
+
+to
+ grow
+ and
+ scale.
+ And
+ those
+ are
+ the
+
+
+things
+ that
+ I
+ think
+ are
+ really
+ exciting.
+
+
+And
+ I
+ think
+ when
+ we've,
+ you
+ know,
+ when
+
+
+Meta's
+ invested
+ in
+ them
+ and
+ when
+ I've
+
+
+invested
+ in
+ them,
+ that's
+ where
+ you
+ have
+
+
+a
+ lot
+ of
+ opportunity
+ versus
+ things
+ that
+
+
+have
+ been
+ optimized
+ for
+ 150
+ years.
+ And
+
+
+there's
+ just
+ not
+ a
+ lot
+ of
+ room
+ for
+ for
+
+
+improvement.
+
+
+Everything
+ always
+ feels
+ obvious
+ and
+
+
+afterthought.
+ And
+ I
+ had
+ definitely
+ seen
+
+
+people
+ who
+ at
+ the
+ time
+ something
+ was
+
+
+coming
+ out
+ questioned
+ and
+ doubted
+ it.
+
+
+And
+ then
+ 3
+ years
+ later,
+ it
+ was
+ obvious,
+
+
+oh,
+ I
+ knew
+ all
+ along
+ this
+ was
+ going to
+
+
+be
+ great.
+ And
+ I
+ was
+ like,
+ no,
+ no,
+ you
+
+
+didn't.
+ Um,
+ and
+ and
+ I
+ think
+ it's
+ fine.
+
+
+It's
+ like
+ human
+ nature
+ to
+ doubt
+
+
+something
+ until
+ you
+ can
+ touch
+ and
+ feel
+
+
+it.
+ And
+ you
+ had
+ to
+ take
+ that
+ leap.
+ And
+
+
+not
+ everyone,
+ you
+ know,
+ beginnings
+ of
+ a
+
+
+new
+ technology
+ takes
+ that
+ leap
+ and
+ they
+
+
+say,
+ "Well,
+ I
+ I
+ just
+ don't
+ believe
+ it's
+
+
+going
+ to
+ scale
+ or
+ work."
+ And
+ sometimes
+
+
+they're
+ right.
+ Like
+ sometimes
+ things
+
+
+don't
+ work
+ and
+ they
+ don't
+ scale,
+ you
+
+
+know,
+ and
+ then
+ every
+ time
+ you
+ get
+
+
+something
+ to
+ a
+ useful
+ point,
+ there's
+
+
+always
+ some
+ other
+ useful
+ point
+ it
+ hasn't
+
+
+done
+ yet.
+ So
+ we
+ you
+ know
+ the
+ very
+ first
+
+
+part
+ of
+ AI
+ that
+ started
+ working
+
+
+commercially
+ really
+ well
+ was
+ this
+ sort
+
+
+of
+ ability
+ to
+ analyze
+ images
+ and
+ to
+ say
+
+
+like
+ okay
+ we
+ can
+ start
+ labeling
+ things
+
+
+in
+ these
+ images
+ and
+ understand
+ them
+ um
+
+
+translation
+ started
+ to
+ work
+ reasonably
+
+
+well
+ so
+ you
+ could
+ do
+ text
+ you
+ know
+ from
+
+
+one
+ language
+ to
+ another
+ but
+ this
+ idea
+ of
+
+
+a
+ sort
+ of
+ chatbot
+ that
+ I
+ could
+ talk
+ to
+
+
+that
+ had
+ any
+ semblance
+ of
+ intelligence
+
+
+it
+ was
+ better
+ than
+ anything
+ we
+ had
+
+
+before
+ but
+ still
+ not
+ very
+ good
+ at
+ the
+
+
+time
+ the
+ demos
+ were
+ terrible
+ you
+ know
+
+
+you
+ could
+ barely
+ say
+ how
+ many
+ people
+
+
+were
+ in
+ this
+ photo?
+ Is
+ there
+ is
+ there
+ a
+
+
+cat
+ in
+ this
+ photo?
+ And
+ if
+ you
+ think
+ of
+
+
+this
+ from
+ a
+ like
+ what
+ can
+ I
+ do
+ with
+ it
+
+
+standpoint,
+ it
+ wasn't
+ obvious
+ like
+ this
+
+
+it
+ wasn't
+ good
+ enough
+ to
+ do
+ anything
+
+
+with.
+ And
+ so
+ you'd
+ have
+ to
+ look
+ at
+ that
+
+
+and
+ say
+ like
+ oh
+ no
+ no
+ that'll
+ get
+ better
+
+
+which
+ is
+ hard
+ for
+ a
+ lot
+ of
+ people
+ to
+
+
+believe.
+ And
+ then
+ it's
+ not
+ until
+ you
+ can
+
+
+touch
+ and
+ feel
+ and
+ it's
+ really
+ the
+ kind
+
+
+of
+ the
+ chat
+ GPT
+ moment
+ where
+ most
+
+
+consumers
+ actually
+ had
+ their
+ first
+
+
+experience
+ with
+ an
+ AI
+ chatbot
+ and
+ you're
+
+
+like
+ oh
+ wait
+ it
+ actually
+ can
+ do
+ some
+
+
+useful
+ things
+ for
+ me
+ now
+ I
+ believe.
+ You
+
+
+know,
+ you
+ have
+ a
+ similar
+ experience
+ with
+
+
+self-driving
+ cars.
+ Most
+ people
+ like
+
+
+conceptually
+ get
+ scared
+ of
+ them
+ and
+
+
+like,
+ "Oh,
+ it'
+ make
+ me
+ super
+ nervous."
+
+
+I've
+ taken
+ a
+ lot
+ of
+ people
+ on
+ Whimo
+
+
+rides
+ in
+ San
+ Francisco.
+ It's
+ one
+ of
+ my
+
+
+favorite
+ things
+ to
+ do.
+ You
+ get
+ in
+ the
+
+
+back
+ of
+ the
+ car,
+ like
+ 5
+ minutes
+ in,
+
+
+you're
+ bored.
+ You're
+ like,
+ "Oh,
+ it's
+
+
+like
+ a
+ better
+ driver
+ than
+ than
+ most
+
+
+distracted,
+ tired
+ humans."
+ Um,
+ and
+
+
+you're
+ like
+ now
+ on
+ your
+ phone
+ and
+ you're
+
+
+like,
+ "This
+ is
+ boring."
+ And
+ so
+ this
+ is
+
+
+the
+ challenge
+ of
+ new
+ technology
+ is
+ I
+
+
+have
+ yet
+ to
+ encounter
+ a
+ new
+ technology
+
+
+that
+ until
+ I
+ could
+ show
+ it
+ to
+ you
+ in
+ a
+
+
+way
+ that
+ was
+ obviously
+ useful
+ that
+ you
+
+
+could
+ personally
+ experience.
+ It
+ is
+ so
+
+
+easy
+ to
+ doubt
+ it.
+ Once
+ you
+ get
+ to
+ that
+
+
+point,
+ you've
+ like
+ captured
+ all
+ the
+
+
+value.
+ So
+ a
+ lot
+ of
+ the
+ challenge
+ is
+ like
+
+
+how
+ do
+ you
+ identify
+ technologies
+ that
+
+
+have
+ an
+ opportunity
+ to
+ get
+ to
+ that
+ point
+
+
+but
+ aren't
+ there
+ yet?
+ Um
+ because
+ that's
+
+
+where
+ the
+ sort
+ of
+ place
+ to
+ have
+ impact
+
+
+is.
+ So
+ if
+ I'm
+ looking
+ at
+ a
+ new
+
+
+technology
+ trying
+ to
+ decide
+ whether
+ this
+
+
+is
+ something
+ that
+ might
+ be
+ a
+ breakout,
+
+
+you
+ know,
+ transformative
+ technology,
+ I
+
+
+think
+ there's
+ three
+ core
+ things
+ I'm
+
+
+looking
+ for.
+ The
+ first
+ and
+ most
+
+
+important
+ question
+ is
+ sort
+ of
+
+
+understanding
+ the
+ light
+ speed
+ test.
+ As
+
+
+far
+ as
+ we
+ know
+ in
+ experimental
+ physics,
+
+
+you
+ can't
+ go
+ faster
+ than
+ the
+ speed
+ of
+
+
+light.
+ If
+ I
+ was
+ building
+ spacecraft,
+ you
+
+
+know,
+ and
+ I
+ was
+ at
+ 99.9%
+ the
+ speed
+ of
+
+
+light,
+ there's
+ not
+ a
+ lot
+ of
+ room
+ for
+ me
+
+
+to
+ get
+ faster,
+ right?
+ And
+ you
+ say,
+ I'm
+
+
+going
+ to
+ make
+ it
+ twice
+ as
+ fast.
+ Like
+
+
+that's
+ really,
+ really,
+ really,
+ really
+
+
+hard.
+ You
+ know,
+ if
+ I'm
+ at
+ 0.001
+ Oh,
+ one
+
+
+the
+ speed
+ of
+ light.
+ I
+ got
+ a
+ lot
+ of
+ room
+
+
+to
+ go
+ before
+ I've
+ hit
+ any
+ theoretical
+
+
+limit.
+ And
+ so
+ for
+ most
+ technologies,
+ my
+
+
+first
+ question
+ is
+ how
+ far
+ away
+ from
+
+
+theoretical
+ maximum
+ is
+ the
+ current
+
+
+version
+ of
+ the
+ thing?
+ Like
+ how
+ much
+
+
+headroom
+ do
+ you
+ have
+ to
+ scale
+ an
+
+
+improvement?
+ Is
+ it
+ thousands
+ of
+ times?
+
+
+Is
+ it
+ 1%.
+ Um
+ that's
+ question
+ number
+ one.
+
+
+Then
+ question
+ number
+ two
+ is
+ are
+ there
+
+
+tailwinds?
+ Are
+ there
+ things
+ that
+ are
+
+
+happening
+ that
+ make
+ this
+ technology
+
+
+better
+ that
+ you
+ are
+ not
+ working
+ on?
+ And
+
+
+usually
+ this
+ means
+ that
+ there's
+ some
+
+
+input
+ into
+ the
+ component
+ that
+ improves
+
+
+year-over-year
+ without
+ your
+ work.
+ In
+ the
+
+
+AI
+ world,
+ for
+ example,
+ the
+ idea
+ of
+
+
+getting
+ more
+ compute
+ power
+ was
+ happening
+
+
+without
+ our
+ effort
+ because
+ Nvidia,
+ TSMC,
+
+
+ASML,
+ the
+ entire
+ chip
+ ecosystem
+ was
+
+
+developing
+ faster,
+ more
+ powerful
+ chips
+
+
+year-over-year.
+ So
+ for
+ the
+ same
+ dollar
+ I
+
+
+could
+ get
+ every
+ 18
+ months
+ about
+ double
+
+
+the
+ compute
+ power.
+ So
+ I
+ didn't
+ need
+ to
+
+
+do
+ any
+ work.
+ I
+ didn't
+ need
+ to
+ go
+ build
+ a
+
+
+chip
+ team
+ and
+ go
+ do
+ design
+ chips.
+ It's
+
+
+just
+ like
+ every
+ year
+ I
+ got
+ more
+
+
+computation
+ without
+ me
+ doing
+ a
+ single
+
+
+amount
+ of
+ work.
+ So
+ that's
+ question
+
+
+number
+ two
+ is
+ do
+ I
+ have
+ some
+ tailwind
+
+
+making
+ my
+ product
+ better
+ even
+ when
+ I'm
+
+
+asleep.
+ And
+ then
+ number
+ three
+ which
+ is
+
+
+the
+ hardest
+ is
+ what
+ problem
+ are
+ you
+
+
+solving
+ and
+ how
+ important
+ is
+ it
+ to
+ your
+
+
+customer?
+ Your
+ customer
+ could
+ be
+ a
+
+
+consumer
+ could
+ be
+ a
+ company
+ but
+ there
+
+
+are
+ plenty
+ of
+ amazing
+ technologies
+ that
+
+
+have
+ made
+ great
+ advances
+ that
+ don't
+
+
+actually
+ solve
+ a
+ problem
+ for
+ people.
+ The
+
+
+biggest
+ example
+ of
+ this
+ is
+ 3D
+ TVs.
+ For
+ a
+
+
+long
+ time,
+ everyone's
+ like,
+ "Tre
+ is
+ it's
+
+
+the
+ next
+ step
+ forward
+ from
+ 2D.
+ It's
+ more
+
+
+immersive."
+ It
+ turns
+ out
+ people
+ don't
+
+
+want
+ to
+ put
+ like
+ special
+ glasses
+ on,
+ you
+
+
+know,
+ and
+ sit
+ in
+ their
+ couch
+ and
+ do
+ it.
+
+
+So
+ 3D
+ TVs
+ were
+ a
+ technological
+ leap
+ that
+
+
+didn't
+ solve
+ a
+ problem
+ for
+ consumers
+
+
+that
+ they
+ cared
+ about.
+ So
+ it's
+ been
+
+
+mostly
+ a
+ failure.
+ What
+ we
+ do
+ with
+
+
+advanced
+ technologies
+ is
+ you
+ try
+ to
+ mock
+
+
+them
+ up
+ and
+ say
+ like,
+ "Okay,
+ I
+ haven't
+
+
+built
+ the
+ thing
+ yet.
+ what's
+ the
+ best
+
+
+sort
+ of
+ proxy
+ of
+ the
+ thing
+ that
+ I
+ can
+
+
+use
+ to
+ show
+ people
+ to
+ get
+ a
+ sense
+ of
+ if
+
+
+I
+ built
+ this
+ thing
+ would
+ you
+ like
+ it
+
+
+that
+ is
+ that
+ customer
+ exploration
+ is
+ is
+
+
+really
+ important
+ because
+ ultimately
+
+
+someone
+ has
+ to
+ buy
+ that
+ technology
+ some
+
+
+business
+ model
+ have
+ to
+ pay
+ for
+ it
+
+
+someone
+ has
+ to
+ buy
+ it
+ to
+ fund
+ all
+ the
+
+
+R&D
+ and
+ if
+ there
+ isn't
+ some
+ loop
+ of
+
+
+money
+ there
+ somewhere
+ it'll
+ eventually
+
+
+To
+ me,
+ the
+ problem
+ was
+ obvious.
+ I
+ mean,
+
+
+it's
+ something
+ that
+ I've
+ been
+ passionate
+
+
+about
+ for
+ a
+ long
+ time.
+ I
+ had
+ the
+ very
+
+
+first
+ Nissan
+ Leaf,
+ which
+ is
+ the
+ first
+
+
+electric
+ vehicle
+ I
+ could
+ buy.
+ Early
+
+
+generation
+ products.
+ It
+ was
+ terrible.
+
+
+Had
+ very
+ bad
+ range.
+ Really,
+ the
+ question
+
+
+was,
+ is
+ there
+ really
+ anything
+ I
+ can
+ do
+
+
+about
+ it?
+ It
+ just
+ it
+ feels
+ like
+ a
+ big
+
+
+overwhelming
+ problem.
+ And
+ it
+ takes
+
+
+either
+ some
+ hubris
+ or
+ some
+ naive
+ to
+
+
+believe
+ that
+ I
+ can
+ actually
+ have
+ a
+
+
+meaningful
+ impact
+ on
+ it.
+ And
+ I
+ think
+
+
+what
+ I
+ decided
+ at
+ some
+ point
+ was
+ it
+
+
+didn't
+ really
+ matter
+ whether
+ I
+ could.
+ I
+
+
+had
+ to
+ try.
+ And
+ when
+ I
+ think
+ about
+ the
+
+
+problems
+ humanity
+ needs
+ to
+ go
+ tackle,
+
+
+massive
+ amounts
+ of
+ additional
+ clean
+
+
+energy
+ is
+ upstream
+ of
+ everything
+ we
+ want
+
+
+to
+ do.
+ You
+ know,
+ if
+ you
+ sort
+ of
+ take
+ a
+
+
+longer
+ view
+ of
+ the
+ industrial
+
+
+revolution,
+ really
+ what
+ humanity
+ has
+
+
+done
+ is
+ we've
+ harnessed
+ energy,
+ whether
+
+
+it's
+ animals,
+ whether
+ it's
+ fuels
+ or
+
+
+sometimes
+ renewables
+ do
+ work
+ for
+ us.
+ So
+
+
+instead
+ of
+ manually
+ farming
+ or
+ manually
+
+
+digging,
+ you
+ know,
+ we
+ have
+ machines
+ that
+
+
+do
+ it
+ for
+ us.
+ And
+ that
+ has
+ had
+ a
+ huge
+
+
+uplift
+ in
+ productivity
+ and
+ in
+ human
+
+
+health
+ and
+ happiness.
+ You
+ know,
+ the
+ only
+
+
+way
+ we're
+ going to
+ get
+ AI
+ progress
+ is
+ by
+
+
+massively
+ increasing
+ energy
+ use.
+ The
+
+
+only
+ way
+ we're
+ going
+ to
+ get
+ people
+ in
+
+
+comfort
+ and
+ air
+ conditioning
+ with
+ clean
+
+
+water.
+ It's
+ it's
+ energy.
+ That
+ is
+ the
+
+
+upstream
+ problem
+ to
+ everything
+ you
+ look
+
+
+at.
+ We
+ know
+ how
+ to
+ desalinate
+ water
+ and
+
+
+make
+ clean
+ water.
+ We
+ know
+ how
+ to
+ keep
+
+
+people
+ cool
+ on
+ a
+ hot
+ day.
+ We
+ know
+ how
+ to
+
+
+manufacture
+ lots
+ of
+ different
+ things.
+ We
+
+
+know
+ how
+ to
+ make
+ super
+ intelligent
+
+
+assistance.
+ We
+ don't
+ know
+ how
+ to
+ scale
+
+
+that
+ to
+ 8
+ billion
+ people
+ without
+
+
+terowatts
+ of
+ additional
+ clean
+ energy
+ and
+
+
+there
+ are
+ lots
+ of
+ ways
+ to
+ go
+ solve
+ that
+
+
+problem
+ and
+ lots
+ of
+ entrepreneurs
+ off
+
+
+tackling
+ solutions
+ that
+ can
+ that
+ can
+
+
+have
+ an
+ impact
+ in
+ the
+ world
+ at
+ that
+
+
+scale.
+ And
+ it
+ took
+ me
+ a
+ little
+ bit
+ of
+
+
+time
+ to
+ figure
+ out
+ exactly
+ the
+ mechanism
+
+
+to
+ do
+ so.
+ And
+ and
+ what
+ I
+ figured
+ out
+ was
+
+
+solving
+ sustainability
+ is
+ is
+
+
+re-engineering
+ tens
+ of
+ trillions
+ of
+
+
+dollars
+ in
+ our
+ economy.
+ You
+ know,
+ energy
+
+
+alone
+ is
+ a
+ multi-t
+ trillion
+ dollar
+
+
+business.
+ And
+ if
+ you
+ want
+ to
+ do
+ that,
+
+
+you
+ can't
+ do
+ it
+ with
+ government
+ money.
+
+
+You
+ can't
+ do
+ it
+ with
+ philanthropy.
+ You
+
+
+need
+ businesses
+ to
+ be
+ investing.
+ And
+ the
+
+
+place
+ to
+ do
+ that
+ is
+ usually
+ through
+
+
+startups.
+ Is
+ you've
+ got
+ this
+ cohort
+ of
+
+
+really
+ amazing
+ entrepreneurs
+ out
+ there
+
+
+chasing
+ ideas
+ from
+ fusion
+ to
+ next
+
+
+generation
+ micro
+ reactors
+ to
+ offshore
+ AI
+
+
+data
+ centers,
+ dehydrators
+ for
+ your
+
+
+kitchen.
+ And
+ that
+ my
+ personal
+ experience
+
+
+in
+ building
+ companies
+ over
+ 25
+ years
+ was
+
+
+just
+ uniquely
+ valuable.
+ As
+ I
+ spent
+ time
+
+
+with
+ entrepreneurs,
+ I
+ realized
+ there
+ was
+
+
+a
+ lot
+ I
+ could
+ do
+ to
+ help
+ them
+ skip
+ over
+
+
+the
+ common
+ mistakes
+ you
+ make
+ when
+
+
+building
+ a
+ team.
+ How
+ do
+ I
+ hire
+
+
+executives?
+ How
+ do
+ I
+ manage
+ sort
+ of
+
+
+product
+ development?
+ All
+ of
+ these
+ sorts
+
+
+of
+ things.
+ And
+ so,
+ it's
+ just
+ a
+ great
+
+
+coalignment
+ with
+ my
+ skills
+ and
+ sort
+ of
+
+
+the
+ change
+ I
+ want
+ to
+ see
+ in
+ the
+ world.
+
+
+And
+ it's
+ just
+ awesome
+ to
+ see
+ these
+
+
+products
+ take
+ off
+ in
+ the
+ market.
+ And
+ so
+
+
+there's
+ a
+ lot
+ of
+ exciting
+ work
+ happening
+
+
+in
+ clean
+ power
+ that
+ is
+ effectively
+
+
+unlimited,
+ meaning
+ we
+ can
+ 10x,
+ 5x,
+ you
+
+
+know,
+ multiple
+ orders
+ of
+ magnitude
+ above
+
+
+what
+ we're
+ using
+ today
+ worldwide
+ in
+
+
+power
+ and
+ power
+ the
+ whole
+ planet.
+ The
+
+
+most
+ exciting
+ and
+ most
+ ambitious
+ of
+ this
+
+
+is
+ fusion.
+ The
+ idea
+ of
+ basically
+ the
+ the
+
+
+power
+ source
+ of
+ our
+ sun.
+ We
+ know
+ it
+
+
+works
+ in
+ the
+ universe.
+ We've
+ actually
+
+
+made
+ it
+ happen
+ on
+ planet
+ Earth
+ before.
+
+
+We
+ know
+ how
+ to
+ make
+ fusion
+ work.
+ We
+ just
+
+
+haven't
+ yet
+ figured
+ out
+ how
+ to
+ turn
+ it
+
+
+into
+ a
+ reliable
+ power
+ source.
+ If
+ I
+ can
+
+
+make
+ it
+ work,
+ I
+ can
+ build
+ a
+ power
+ plant
+
+
+that
+ requires
+ almost
+ no
+ inputs
+ and
+
+
+produces
+ no
+ emissions.
+ It's
+ completely
+
+
+safe
+ and
+ we
+ can
+ build
+ kind
+ of
+ unlimited
+
+
+these
+ power
+ plant
+ that
+ could
+ power
+ all
+
+
+of
+ Austin,
+ Texas,
+ would
+ require
+ one
+
+
+pickup
+ truck
+ a
+ year
+ of
+ fuel,
+ which
+ is
+
+
+absolutely
+ insane.
+ That
+ would
+ take
+ train
+
+
+loads
+ of
+ of
+ coal
+ cars
+ or
+ amazing
+ amounts
+
+
+of
+ gas
+ to
+ do
+ the
+ equivalent
+ sort
+ of
+
+
+generation.
+ So,
+ from
+ an
+ efficiency
+
+
+standpoint,
+ it's
+ sort
+ of
+ the
+ endgame
+ for
+
+
+power
+ generation.
+ So
+ this
+ is
+ energy
+ and
+
+
+I
+ could
+ talk
+ a
+ lot
+ more
+ about
+ those
+ but
+
+
+let's
+ talk
+ about
+ you
+ know
+ just
+ one
+ other
+
+
+example
+ of
+ something
+ that
+ people
+
+
+watching
+ this
+ might
+ experience
+ at
+ home
+
+
+which
+ is
+ um
+ you
+ know
+ the
+ idea
+ of
+
+
+throwing
+ away
+ food
+ in
+ the
+ garbage.
+ When
+
+
+you
+ throw
+ food
+ in
+ the
+ garbage
+ it
+ goes
+ to
+
+
+a
+ landfill.
+ It
+ rots,
+ releases
+ methane.
+
+
+This
+ is
+ a
+ major
+ source
+ of
+ near-term
+
+
+warming
+ and
+ waste.
+ There's
+ a
+ company
+
+
+called
+ Mill.
+ It's
+ a
+ little
+ trash
+ can.
+ It
+
+
+looks
+ like
+ a
+ little
+ pop-up
+ trash
+ can.
+ Um
+
+
+but
+ it's
+ magic.
+ You
+ throw
+ food
+ into
+ it.
+
+
+It
+ dries
+ it
+ up,
+ grinds
+ it
+ up,
+ turns
+ it
+
+
+into
+ what
+ looks
+ like
+ little
+ coffee
+
+
+grounds.
+ You
+ can
+ do
+ this
+ in
+ an
+ average
+
+
+family
+ home
+ for
+ probably
+ a
+ month
+ and
+ at
+
+
+the
+ end
+ of
+ that
+ month
+ you
+ have
+ a
+ shoe
+
+
+box
+ size
+ of
+ these
+ grounds.
+ Most
+
+
+importantly,
+ it
+ doesn't
+ smell.
+ You
+ don't
+
+
+have
+ to
+ empty
+ it
+ for
+ a
+ month.
+ And
+ so
+ the
+
+
+the
+ pitch
+ to
+ consumers
+ is
+ empty
+ your
+
+
+trash
+ less
+ and
+ it
+ stinks
+ less,
+ you
+ know,
+
+
+and
+ I
+ kind
+ of
+ laugh.
+ Nobody
+ really
+
+
+enjoys
+ emptying
+ their
+ trash.
+ And
+ so
+ I
+
+
+would
+ say
+ you
+ can
+ do
+ it
+ less
+ and
+ it's
+
+
+smaller
+ and
+ it
+ stinks
+ less
+ then
+
+
+everyone's
+ excited.
+ And
+ it
+ turns
+ out
+
+
+this
+ is
+ a
+ major
+ diverter
+ of
+ food
+ waste
+
+
+related
+ emissions.
+ And
+ the
+ thing
+ about
+
+
+this
+ product
+ is
+ if
+ you
+ meet
+ someone
+ who
+
+
+has
+ it,
+ you'll
+ know
+ it
+ because
+ they
+ love
+
+
+it.
+ It's
+ a
+ product
+ that
+ people
+ buy
+
+
+because
+ they
+ love
+ and
+ it
+ saves
+ a
+ food
+
+
+waste
+ problem,
+ saves
+ a
+ consumer
+ problem.
+
+
+And
+ guess
+ what?
+ This
+ company
+ is
+ making
+
+
+great
+ revenue
+ and
+ and
+ money
+ on
+ us.
+ This
+
+
+is
+ an
+ example
+ of
+ a
+ better,
+ faster,
+
+
+cheaper.
+ It
+ makes
+ people's
+ lives
+ better,
+
+
+and
+ it
+ solves
+ a
+ climate
+ environmental
+
+
+problem.
+ And
+ it
+ turns
+ out
+ to
+ actually
+ be
+
+
+a
+ great
+ business
+ along
+ the
+ way.
+
+
+People
+ have
+ operated
+ big
+ things.
+ people
+
+
+started
+ companies
+ very
+ few
+ people
+ have
+
+
+seen
+ the
+ sort
+ of
+ the
+ scale
+ you
+ know
+ I
+
+
+built
+ tens
+ of
+ millions
+ of
+ square
+ foots
+
+
+of
+ data
+ center
+ space
+ we've
+ shipped
+ tens
+
+
+of
+ millions
+ of
+ consumer
+ hardware
+
+
+products
+ you
+ know
+ scale
+ teams
+ to
+ tens
+ of
+
+
+thousands
+ managed
+ lots
+ of
+ multi-billion
+
+
+dollar
+ acquisitions
+ so
+ you
+ know
+ I've
+ had
+
+
+the
+ great
+ fortune
+ of
+ working
+ with
+ an
+
+
+absolutely
+ incredible
+ cohort
+ of
+ people
+
+
+on
+ an
+ amazing
+ set
+ of
+ technologies
+ in
+
+
+hardware
+ in
+ software
+ in
+ deep
+ research
+
+
+and
+ and
+ others
+ all
+ everything
+ we've
+
+
+talked
+ about
+ here
+ is
+ is
+ what
+ we
+ bring
+ to
+
+
+bear
+ was
+ how
+ do
+ you
+ find
+ the
+ right
+
+
+problem
+ identification
+ the
+ technology
+
+
+that
+ has
+ headroom
+ to
+ scale
+ and
+ tailwinds
+
+
+and
+ customer
+ demand.
+ And
+ then
+ what
+ we
+
+
+haven't
+ talked
+ about
+ is
+ is
+ people.
+ You
+
+
+know,
+ a
+ lot
+ of
+ my
+ job
+ ended
+ up
+ being
+
+
+finding
+ out
+ who
+ were
+ the
+ right
+ leaders,
+
+
+technical,
+ organizational,
+ otherwise
+ to
+
+
+take
+ something
+ forward.
+ And
+ in
+ the
+
+
+startup
+ realm,
+ the
+ team
+ is
+ ultimately
+
+
+what
+ you're
+ betting
+ on.
+ You
+ know,
+ these
+
+
+are
+ the
+ people
+ who
+ are
+ going
+ to
+ build
+
+
+that
+ company.
+ And
+ we're
+ looking
+ for
+
+
+founders
+ who
+ could
+ take
+ the
+ company
+ as
+
+
+far
+ as
+ possible.
+ Meaning
+ the
+ challenge
+
+
+of
+ a
+ company
+ is
+ a
+ company
+ at
+ 10
+
+
+employees
+ at
+ preede
+ or
+ seed
+ is
+ a
+ very
+
+
+different
+ company
+ than
+ a
+ 300
+ person
+
+
+company
+ with
+ customers
+ in
+ the
+ series
+ C
+
+
+and
+ that
+ rate
+ of
+ change
+ is
+ unusual
+ for
+
+
+humans
+ like
+ you
+ don't
+ usually
+ encounter
+
+
+environments
+ that
+ change
+ that
+ much
+ and
+
+
+so
+ there
+ is
+ a
+ rare
+ set
+ of
+ people
+ who
+ can
+
+
+scale
+ through
+ those
+ changes
+ and
+ I've
+ had
+
+
+the
+ great
+ fortune
+ of
+ working
+ with
+ many
+
+
+of
+ them
+ I've
+ had
+ the
+ ability
+ to
+ do
+ it
+
+
+myself
+ and
+ so
+ a
+ lot
+ of
+ what
+ I'm
+ looking
+
+
+for
+ is
+ that
+ people
+ identification
+ of
+
+
+like
+ as
+ we
+ meet
+ thousand
+ founders
+ a
+ year
+
+
+these
+ are
+ the
+ 10
+ for
+ this
+ year
+ that
+ we
+
+
+think
+ have
+ the
+ best
+ shot
+ at
+ scaling
+ this
+
+
+company
+ into
+ a
+ public
+ company
+ and
+ that
+
+
+is
+ a
+ lot
+ of
+ the
+ sort
+ of
+ that
+ pattern
+
+
+matching
+ on
+ people's
+ ability
+ to
+ scale
+ is
+
+
+a
+ lot
+ of
+ what
+ we're
+ doing.
+ So
+ coupled
+
+
+with
+ technology
+ and
+ market,
+ you
+ know,
+
+
+it's
+ it's
+ really
+ people.
+
+
+I
+ think
+ what
+ we
+ see
+ in
+ founders,
+ you
+
+
+know,
+ there's
+ questions
+ about
+ how
+ do
+ you
+
+
+evaluate
+ it?
+ What
+ we
+ look
+ for
+ in
+
+
+founders
+ is
+ number
+ one,
+ you
+ need
+ a
+
+
+complete
+ relentlessness,
+ a
+
+
+determination.
+ Building
+ a
+ company
+ is
+ a
+
+
+never-ending
+ series
+ of
+ near-death
+
+
+disasters
+ and
+ a
+ lot
+ of
+ people
+ telling
+
+
+you
+ what
+ you're
+ doing
+ isn't
+ going
+ to
+
+
+work
+ and
+ a
+ lot
+ of
+ people
+ saying
+ no.
+ New
+
+
+recruits
+ say
+ no,
+ investors
+ say
+ no,
+
+
+customers
+ say
+ no.
+ And
+ you
+ need
+ to
+ get
+ 30
+
+
+nos
+ in
+ a
+ row.
+ It
+ doesn't
+ really
+ matter
+
+
+if
+ 30
+ investors
+ say
+ no
+ if
+ one
+ says
+ yes.
+
+
+I
+ mean,
+ I
+ remember
+ from
+ 25
+ years
+ ago
+
+
+going
+ out
+ on
+ Sand
+ Hill
+ Road
+ trying
+ to
+
+
+convince
+ people
+ to
+ invest
+ in
+ my
+ startup
+
+
+as
+ a
+ first-time
+ founder.
+ And
+ I
+ got
+ a
+ ton
+
+
+of
+ nos.
+ You
+ know,
+ I
+ had
+ someone
+ fall
+
+
+asleep
+ in
+ one
+ of
+ our
+ pitch
+ meetings.
+ But
+
+
+then
+ we
+ got
+ the
+ world's
+ best
+ venture
+
+
+capital
+ firm,
+ Sequoia
+ Capital,
+ to
+ say
+
+
+yes.
+ And
+ that
+ was
+ the
+ defining
+ moment,
+
+
+you
+ know,
+ and
+ that
+ that
+ helped
+ us
+ build
+
+
+a
+ really
+ successful
+ company.
+ And
+ so,
+ as
+
+
+a
+ founder,
+ you
+ need
+ to
+ have
+ this
+
+
+determination
+ to
+ just
+ like
+ keep
+ going
+
+
+despite
+ setbacks.
+ That's
+ number
+ one.
+
+
+Number
+ two
+ is
+ building
+ a
+ company
+ as
+ a
+
+
+CEO
+ is
+ a
+ different
+ job
+ every
+ single
+ day.
+
+
+You
+ might
+ have
+ to
+ solve
+ technical
+
+
+problems.
+ You
+ might
+ then
+ have
+ to
+ go
+ talk
+
+
+to
+ customers.
+ You
+ might
+ have
+ to
+ go
+
+
+recruit
+ people.
+ You
+ might
+ have
+ to
+ get
+ a
+
+
+lab
+ space.
+ You're
+ going
+ to
+ be
+ doing
+ a
+
+
+different
+ job
+ every
+ single
+ day.
+ And
+
+
+there's
+ a
+ category
+ of
+ people
+ I
+ call
+ them
+
+
+like
+ just
+ consumers
+ of
+ new
+ information.
+
+
+And
+ they
+ have
+ this
+ combination
+ of
+
+
+humility
+ that
+ they
+ don't
+ know
+ something
+
+
+and
+ curiosity
+ figure
+ out
+ how
+ to
+ learn
+
+
+it.
+ And
+ that
+ combination
+ allows
+ them
+ to
+
+
+do
+ everything
+ like
+ how
+ do
+ I
+ run
+ a
+ board
+
+
+me?
+ How
+ do
+ I
+ pitch
+ an
+ investor?
+ Like
+
+
+these
+ are
+ all
+ things
+ our
+ founders
+
+
+learned
+ how
+ to
+ do
+ successfully.
+ And
+ so
+
+
+you're
+ looking
+ for
+ people
+ who
+
+
+demonstrate
+ this
+ ability
+ to
+ decide
+ they
+
+
+don't
+ know
+ something
+ and
+ then
+ figure
+ out
+
+
+how
+ to
+ learn
+ it
+ as
+ quickly
+ as
+ possible
+
+
+um
+ andor
+ hire
+ people
+ who
+ know
+ how
+ to
+ do
+
+
+it,
+ you
+ know,
+ for
+ their
+ company.
+ So
+ it's
+
+
+it's
+ really
+ those
+ two
+ things.
+ this
+ like
+
+
+unrelenting
+ determination
+ and
+ this
+ like
+
+
+ability
+ to
+ understand,
+ identify
+ and
+
+
+learn
+ new
+ domains
+ on
+ a
+ very
+ rapid
+ clip.
+
+
+Well,
+ the
+ challenge
+ is,
+ you
+ know,
+
+
+everyone
+ tries
+ to
+ distill
+ it
+ down
+ into
+
+
+a,
+ you
+ know,
+ if
+ I
+ could
+ just
+ like
+ check
+
+
+off
+ a
+ couple
+ of
+ things
+ in
+ their
+
+
+background,
+ you
+ could
+ find
+ the
+ founder.
+
+
+But
+ that
+ never
+ works.
+ Like
+ the
+ number
+ of
+
+
+times
+ that
+ if
+ you
+ if
+ I
+ make
+ a
+ rule
+ where
+
+
+we
+ only
+ do
+ second
+ time
+ founders
+ or
+ this
+
+
+and
+ that,
+ I
+ can
+ give
+ examples
+ that
+
+
+violates
+ that
+ rule.
+ We
+ just
+ have
+ to
+ meet
+
+
+founders
+ and
+ then
+ do
+ our
+ own
+ evaluation
+
+
+of
+ it.
+ That
+ is
+ the
+ most
+ important
+ part
+
+
+of
+ the
+ job.
+ And
+ we
+ evaluate
+ them
+ by
+
+
+meeting
+ them
+ multiple
+ times.
+ We
+ evaluate
+
+
+them
+ by
+ calling
+ references
+ and
+ people
+
+
+that
+ worked
+ with
+ them.
+ But
+ I'll
+ give
+ you
+
+
+a
+ couple
+ of
+ examples
+ of
+ people
+ in
+ clean
+
+
+techch
+ that
+ I
+ think
+ are
+ phenomenal.
+
+
+You've
+ got
+ most
+ wellunded
+ companies
+
+
+working
+ on
+ fusion
+ come
+ fusion
+ systems
+
+
+founded
+ by
+ Bob
+ Mumgard
+ who's
+ a
+ plasma
+
+
+physicist.
+ This
+ is
+ his
+ first
+ company.
+
+
+He's
+ never
+ worked
+ at
+ a
+ company
+ before.
+
+
+You
+ know,
+ if
+ I
+ told
+ you
+ to
+ give
+ me
+ a
+
+
+resume
+ for
+ a
+ CEO
+ of
+ a
+ thousand
+ person
+
+
+company,
+ a
+ plasma
+ physicist
+ is
+ probably
+
+
+not
+ what
+ you
+ would
+ search
+ for.
+ But
+ when
+
+
+you
+ meet
+ him,
+ he
+ is
+ an
+ operator.
+ He
+ has
+
+
+learned
+ very
+ quickly
+ how
+ to
+ build
+ a
+
+
+team,
+ how
+ to
+ rely
+ on
+ others,
+ how
+ to
+ tell
+
+
+a
+ story,
+ how
+ to
+ raise
+ money.
+ He
+ is
+
+
+absolutely
+ phenomenal.
+ What
+ a
+ CEO
+ needs
+
+
+to
+ do
+ is
+ like
+ describe
+ in
+ deep
+ clarity
+
+
+the
+ mission
+ of
+ the
+ company
+ and
+ what's
+
+
+important
+ and
+ get
+ a
+ large
+ number
+ of
+
+
+people
+ on
+ board
+ and
+ focused
+ in
+ that
+
+
+direction
+ and
+ he
+ does
+ an
+ exceptional
+
+
+job.
+ And
+ then
+ you
+ have
+ people
+ like
+ Matt
+
+
+Rogers
+ at
+ Mill.
+ This
+ is
+ his
+ second
+
+
+company.
+ His
+ first
+ company
+ was
+ Nest
+ and
+
+
+he
+ was
+ sort
+ of
+ great
+ along
+ the
+ way
+ but
+
+
+he
+ didn't
+ rest
+ in
+ his
+ own
+ laurels.
+ He
+
+
+did
+ what
+ great
+ founders
+ do
+ which
+ is
+
+
+build
+ a
+ great
+ team
+ around
+ him.
+ What
+ we
+
+
+look
+ for
+ in
+ founders
+ is,
+ you
+ know,
+ the
+
+
+job
+ of
+ building
+ a
+ company
+ is
+ solving
+
+
+hard
+ problems
+ that
+ no
+ one's
+ ever
+ solved
+
+
+before
+ that
+ you
+ don't
+ actually
+ totally
+
+
+know
+ how
+ to
+ solve.
+ And
+ so
+ when
+ we
+ met
+
+
+Mill,
+ they
+ said,
+ "Oh,
+ we're
+ going
+ to
+ get
+
+
+approval
+ from
+ the
+ US
+ government
+ to
+ take
+
+
+this
+ return
+ food
+ waste
+ and
+ turn
+ it
+ into
+
+
+chicken
+ feed."
+ And
+ uh,
+ you
+ know,
+ we're
+
+
+going
+ to
+ get
+ it
+ by
+ X
+ time.
+ We're
+ not
+
+
+exactly
+ sure
+ how
+ to
+ do it,
+ but
+ we're
+
+
+going
+ to
+ get
+ it
+ done.
+ Like
+ 2
+ or
+ 3
+ months
+
+
+later,
+ they're
+ like,
+ "Yep,
+ we
+ got
+ it
+
+
+done.
+ It's
+ proofed.
+ We're
+ we're
+ now
+
+
+doing
+ it."
+ And
+ it's
+ just
+ like
+ a
+ series
+
+
+of
+ like
+ we're
+ going
+ to
+ go
+ after
+ this
+
+
+problem
+ and
+ then
+ we're
+ going
+ to
+ go
+ solve
+
+
+it.
+ each
+ individually
+ are
+ amazing,
+ but
+
+
+as
+ a
+ team
+ figure
+ out
+ how
+ to
+ go
+ take
+ down
+
+
+big
+ problems.
+ And
+ that's
+ the
+ magic
+ of
+ a
+
+
+of
+ a
+ startup.
