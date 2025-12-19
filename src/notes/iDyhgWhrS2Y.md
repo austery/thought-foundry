@@ -5,32 +5,28 @@ guest: ''
 layout: post.njk
 source: https://www.youtube.com/watch?v=iDyhgWhrS2Y
 speaker: 一席YiXi
-tags:
-  - economic-motherhood
-  - urban-exclusion
-  - education-inequality
-  - migrant-family-strategy
-  - gendered-labor-burden
-title: 1.1亿女工的青春：生育、照料与城市排斥下的家庭托举
-summary: 王欧通过十年田野调查揭示新生代女工如何在城市务工、县城买房、陪读抚养中承担双重劳动负担，揭示教育产业化与公共服务缺失如何将女性推入经济母职的闭环，并呼吁城市构建真正包容农民工家庭的空间。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
+title: "新生代农民工的生命历程与家庭困境：从消费自主到经济母职"
+summary: "本文基于田野调查，深入剖析新生代农民工在城市打工、结婚成家、子女教育等生命阶段的转变。研究揭示其从消费自主、浪漫关系到面临婚房、医疗、教育等公共服务排斥的转折，并聚焦女性农民工‘经济母职’的角色，展现她们为改善子女教育条件所承受的巨大压力与家庭分化现实。"
+area: "society-thinking"
+category: "politics-society"
 project:
-  - us-analysis
-  - historical-insights
-  - cultural-critique
+  - "china-analysis"
+tags:
+  - "migrant-worker"
+  - "urban-rural-division"
+  - "education-access"
+  - "gender-role"
+  - "family-dynamics"
+suggested_tags:
+  - "economic-maternalism"
+  - "rural-urban-migration"
 people:
-  - 王欧
-  - 小玉
-  - 况姐
+  - "王欧"
 companies_orgs:
-  - 富士康
+  - "华中师范大学社会学院"
 products_models: []
-media_books:
-  - 《一席》
+media_books: []
+
 status: evergreen
 ---
 
