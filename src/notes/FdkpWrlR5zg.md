@@ -54,6 +54,30 @@ media_books:
   - 《旧制度与大革命》
 status: evergreen
 ---
+
+This is the final episode of the Sarah Paine lecture series, and it’s probably my favorite one.
+
+Sarah gives a “tour of the arguments” on what ultimately led to the Soviet Union’s collapse, diving into the role of the US, the Sino-Soviet border conflict, the oil bust, ethnic rebellions and even the Roman Catholic Church. As she points out, this is all particularly interesting as we find ourselves potentially at the beginning of another Cold War.
+
+As we wrap up this lecture series, I want to take a moment to thank Sarah for doing this with me. It has been such a pleasure.
+
+If you want more of her scholarship, I highly recommend checking out the books she’s written. You can find them here: https://www.amazon.com/stores/S.-C.-M...
+
+𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒
+Transcript: https://www.dwarkesh.com/p/sarah-pain...
+Apple Podcasts: https://podcasts.apple.com/us/podcast...
+Spotify: https://open.spotify.com/episode/5MF7...
+
+𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒
+00:00:00 – Did Reagan single-handedly win the Cold War?
+00:15:53 – Eastern Bloc uprisings & oil crisis
+00:30:37 – Gorbachev's mistakes
+00:37:33 – German unification and NATO expansion
+00:48:31 – The Gulf War and the Cold War endgame
+00:56:10 – How central planning survived so long
+01:14:46 – Sarah's life in the USSR in 1988
+
+
 感谢各位的到来。很高兴能与大家分享这些内容。鉴于我们似乎正处于第二次**冷战**（Cold War: 1947年至1991年间，以美国为首的西方阵营与以苏联为首的东方阵营之间，在政治、经济、军事、外交、意识形态等方面进行的长期对抗与冲突，未发生大规模直接军事冲突），或许是时候回顾一下上次冷战，看看它为何以那种方式结束，以及参与者们当时认为它为何如此结束。我将提出一个问题：俄罗斯为何输掉了冷战？人们对此问题有各种不同的答案。本次讲座将对这些反驳论点进行一次巡礼。
 
 ### 里根的军事施压论
