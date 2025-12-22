@@ -1,0 +1,1914 @@
+People talk about this k-shaped economy.
+Is that real or is that a man?
+I absolutely believe so, but I think that
+it's a little bit more nuanced.
+And so, you know,
+one of the things that we spotted
+late last year
+and we're tracking into this year was that
+we weren't the first to see
+that it was a k-shaped economy,
+but a lot of people
+were making the assumption
+that the k-shaped economy
+was being driven by income levels.
+But when we were looking at the data
+at the time, we were seeing that
+those that had were in sort of the higher
+income level.
+In our case, that's 150,000 above.
+So that's not your, you know, people
+who were running hedge funds and music
+and, you know, but still it's
+the relatively better to do, cohort.
+They were actually seeing the highest year
+over year increases in delinquency
+rates at the time.
+So we knew that okay, hold on a second.
+It isn't as simple as this.
+So, you know, we spend a lot of time
+and thought a lot of banks
+and we kind of collaborated
+with them to try to understand what's
+what's really then the differentiator.
+And then what seemed to be a really
+a part of this is wealth.
+So, you know, a lot of people
+don't necessarily differentiate
+income and wealth, but they are separate.
+Yeah.
+And so, you know, when you're looking
+then at a high income
+cohort at a time to try to see like, okay,
+well which ones are doing well.
+Which ones weren't.
+Homeownership
+was the biggest differentiator
+because they had a bigger cushion
+something they can rely on, rely on.
+And then obviously other indicator
+other aspects as well like stock ownership
+and and small business ownership etc..
+But homeownership is is the one
+that has the more and the bigger effect
+because there's more people in the US
+economy on a whole.
+And then let's say has a stock portfolio.
+Hello and welcome to another episode
+of the Odd Lots podcast.
+I'm Joe Weisenthal and I'm Tracy Alloway.
+I feel like
+I just do not have any feel right now,
+unlike the state of the consumer. Really.
+I mean, your k-shaped economy, 
+labor market slowing down.
+Then there's like lowest layoffs in years.
+You go outside, everything looks booming.
+Like I just have no feel right.
+I think sentiment is terrible,
+but consumer sentiment is terrible
+for years and people keep shopping.
+I have no sense of it. Right?
+Well, consumer sentiment actually came in
+higher than expected most recently.
+True. Big surprise.
+But I was going to say are you not out
+shopping for Christmas presents?
+It's insane. Right? Yeah.
+There's a lot of people buying
+a lot of stuff, buying a lot of stuff.
+But I think this gets to the K-shaped
+economy point,
+which is if you have a cohort
+of wealthy people who are buying more, it
+more than offsets the lower income people
+who are buying less at lower prices.
+So it's really hard to tell.
+It's really hard to tell.
+One thing
+that, definitely feels different.
+You know, if you look at aggregate
+measures of household balance sheets,
+like this is something
+that is very different than sort of like
+pre grade financial crisis.
+The, the the general view
+is that the American consumer
+or the American household
+has a very big cushion.
+There is a lot of home
+equity built up there.
+It is not a thin layer.
+Obviously anyone with money
+and any sort of,
+you know, investment account has done
+phenomenally well.
+We're recording this December 12th
+yesterday, I think the S&P 500 hit yet
+a new all time high.
+So if you have any sort of home
+equity buildup,
+if you have any sort of investment,
+you are doing very well.
+On the other hand, of course, people
+are stretched from years of inflation.
+We know that hiring has, slowed down.
+We know that, you know,
+we see these headlines, delinquencies
+for cars have like shot up.
+But I've been seeing these headlines
+for years.
+I don't totally know what they mean or how
+apples to apples they are with the past.
+I just don't know.
+I just I'm very confused.
+Yeah.
+You know what's really interesting to me,
+just from a financial perspective?
+Yeah.
+If you look at some of the bonds
+that were actually built on consumer
+loans, the weakest ones are now from the
+like 2020 to 2022 period.
+Oh, was that so?
+See, this is another interesting
+element of measures
+like delinquencies and why I sort of
+wonder like how comparable they are.
+Because okay, partly a delinquency measure
+is a snapshot of a moment in time.
+Right? A snapshot of health.
+But it also inherently reflects
+something in the past
+because it reflects, you know,
+what were lending standards at the time.
+Right. Exactly.
+So, you know, and that was a period of low
+interest rates.
+Everything was turning on Wall Street
+banks.
+Yeah. Give money to anyone.
+Anyway, we need to get a better picture
+of exactly what's going on.
+How stressed is the consumer?
+How much do these delinquencies
+just reflect the profligacy of lenders
+during the boom times
+when rates were nothing, etc.?
+And, yes, we need to figure this out.
+Especially we're in the middle
+of shopping season and all that stuff.
+So I'm very excited to say
+we really do have the perfect guest.
+We're going to be
+speaking with Rikard Bandebo
+He is the executive vice president, chief
+strategy officer, chief economist
+at VantageScore,
+a credit scoring company.
+Rikard, thank you so much
+for coming on the podcast.
+Thank you for having me. It's an honor.
+What is VantageScore, a U.S.
+credit scoring company.
+What do you do there?
+So we're the largest credit
+scoring company in the United States.
+And we were founded almost 20 years ago
+by the three credit bureaus
+TransUnion, Equifax and Experian.
+And we sort of created,
+with a very specific mission
+in mind to to drive greater competition
+and credit scoring.
+Prior to us, that really wasn't
+a lot of choice in this space.
+We've also there to create sort of drive
+more innovation
+and create the most predictive scores.
+Which was a big ask from the banks
+at the time,
+and also to be able to expand access
+to millions to enable everyone
+who really is creditworthy to be able
+to get access to credit products.
+You mentioned the banks.
+Just then.
+Can you expound a little bit
+more on your customer base?
+Yeah.
+So, you know, we used
+obviously the primary use case that most
+people think about when it comes to credit
+scores, is for lending, right?
+When you know, you're applying for a loan
+and they want to evaluate whether or not
+you're going to be able to perform
+on that loan,
+they'll often pull your credit score
+as part of that process, but it's used in
+many other stages as well.
+So, for instance,
+many people who are applying
+to rent in a new apartment
+building may also get asked for it.
+When you are trying to get a utility.
+Definitely in New York,
+you get asked for it.
+Yes, you certainly do.
+And utility bills, telephones,
+anything that involves a long term
+commitment on payments generally.
+Now, you'll often
+get asked to provide your credit score.
+So I just explained for the way you were,
+you were started by whom?
+20 years ago, we were a joint venture
+by Experian, Equifax and TransUnion,
+the three national credit
+reporting agencies.
+I don't understand what's the difference
+between these major companies
+that we've all heard of that provide
+a credit score, etc.
+that they such founded you like?
+I mean, what do you do
+differently than them?
+Well, so what they do
+is they're the ones who, who, collect
+all this data from lenders and others
+on your credit performance record.
+They call credit bureaus.
+They collect that
+they're highly regulated.
+But then most lenders can't just
+make sense of all of that data on its own.
+They need some guidance to help to
+translate that into a what does that mean?
+Right? Okay.
+And so that's where our scoring algorithm
+comes into effect.
+Right.
+And so the scoring algorithm helps
+to take in all these hundreds
+of different factors about you.
+Yeah. To try to then
+determine what does that mean
+about your propensity to pay okay.
+You mentioned predictive analysis as well.
+What exactly is that
+and what's that based on.
+Well so when credit scores are created
+right.
+The aim the goal is to try to evaluate
+what is the likelihood of somebody
+going to, default on a payment
+over the next 24 months.
+So when you see that score, the score is
+actually a translation of a probability.
+Yeah, I don't odds right.
+To evaluate what is that risk
+and how
+did we
+end up with the system of Fico scores
+in the US because it has like
+an interesting history?
+Well, you know, back in the day,
+fair Isaac, you know, they created
+the first sort of known credit score.
+They were the first ones to realize
+that, you know,
+there was a free and fair Isaac.
+Is that focusing? Yes.
+Oh, okay. Yes. Keep going.
+Let's go back a bit. Right.
+So in the old days,
+you know, lending was not necessarily
+the most fair system
+that there was, right.
+You know, they may want to call up
+your previous employer,
+they may call your landlord,
+they may just ask around.
+And if they don't know anything about you,
+you know,
+there was a lot of judgment involved
+in lending a lot of racial discrimination
+as well. That certainly was built
+into that system. Right.
+And so, then there was a law career,
+the Fair Credit Reporting Act.
+They said, like, you can't do that.
+You need a, you know, a better system
+that is fair.
+And that is a better quantitative ability
+to assess people's risk.
+Right.
+And that created than this,
+need to be able to consolidate
+all this quantitative information
+in a way that lenders could easily use it.
+So, you know, a
+Fico was the first fair Isaac at the time
+was the first to create that.
+And they did very well doing so.
+But, you know, then there was a need for,
+competition, innovation
+and there was a lot of frustration
+around the time of 20 years ago
+that there was only one game in town,
+and it
+and it didn't score about 20% of the US
+population.
+It still doesn't.
+And so and then a lot of lenders were felt
+frustrated.
+Like, like if it doesn't work for 20%
+of the population, there's a problem.
+We need something different.
+And so then and the bureaus took
+the unusual step of actually coming
+together to create an alternative.
+And that became Vantagescore interest.
+Can I, as a consumer,
+go, credit score shopping.
+So the, first of all, there's
+different ways to, to use it, right?
+So a lender will typically choose
+the credit score
+that they're going to use for being able
+to, underwrite alone with you.
+And often,
+you know, they'll use many more factors
+than just a simple credit score, right?
+Particularly the more sophisticated ones.
+However, when you're trying to understand
+what your situation
+is, you had lots of different places
+you can go.
+You can either go to the credit bureaus,
+you can go to the likes of Credit Karma.
+There are many different services
+out there, but I can't force the lender
+to look at a specific don't look at yeah,
+look at this one over here.
+It's great. You get a second opinion.
+No, I'm afraid not.
+That's not how it works.
+It's really,
+you know, the lenders try to determine
+what is the most appropriate score
+for their product and different.
+And there are many, many different schools
+out there that schools
+that are in some cases built specifically
+for types of products, like auto loans
+and the other schools
+that are schools that are generic,
+that can be used for any type of product.
+What do you do? See,
+you collect more data.
+And you mentioned that there is this wide
+swath of the population that doesn't that
+that wasn't
+being captured by the credit bureaus.
+What do you do
+additionally, on top of them
+to expand the pool,
+find potentially creditworthy borrowers
+that the, that the,
+that they had been missing before.
+So, you know,
+the the the thing is that, 
+the quality and the types of data that's
+been collected by the credit bureaus
+has improved significantly over time.
+Okay.
+And so when we started
+creating our algorithms were,
+you know, the current version that's now
+being adopted for mortgages, the version
+four, we're releasing version
+five this year.
+We obviously we actually go
+and rewrite the whole thing each time
+so that each time we can come up with
+the most accurate way based
+on the current data available
+and our current ability to understand
+how consumers are behaving,
+because that behavior changes over time.
+You know, other companies,
+what they've done
+is they built a model long time ago.
+They don't like to necessarily revealed
+everybody how it works.
+The secret sauce. Right.
+So when you're seeing that as a chief risk
+officer,
+and there's a new model coming along,
+either you want to understand that it's
+going to be very similar to the previous
+one to be okay with it, or you need to
+get a lot of transparency in how it works
+so you can get comfort in this new model.
+So I think there's
+the big divergence in strategy.
+We go back to boots and redo everything
+from scratch each time,
+but in the same time provide an awful
+lot of transparency and a lot of tools
+so that lenders can get
+a really good understanding of
+exactly how this is going to work
+and how it's going to behave
+in different situations.
+And they can test it out right.
+Whereas the other one is still working
+with many limitations
+that have been in place
+since the very first models.
+And because of those limitations,
+that's a big difference in why,
+we score a lot more people.
+So I give you a very concrete example.
+So for instance, one of the limitations
+that the others have is that
+if you haven't had any credit activity
+for the past six months,
+you're not going to get a score.
+So you could just imagine somebody
+that is,
+to watch the military
+been deployed overseas or anything else.
+Right.
+But the good thing is, you know,
+starting about, you know, 15 years ago,
+the bureau started
+collecting and storing data
+so we could use time series data,
+because who'd have thought
+that time series
+data could be useful in prediction, right.
+Completely strange idea. Right.
+So with
+with Vantagescore before we started
+and using trended data time series data.
+And with that
+obviously we can see about 24 months.
+So yes, if there's a gap
+in six months of history, it's important.
+But we're still able to see what happened
+before then.
+Right.
+And that gets rid of,
+you know, tens of millions of people
+when you have that constraint.
+There are other constraints in there too.
+So people that are new to credit.
+So if they haven't had a full six months
+of history, again, they won't get scored.
+And then if they only trade lines,
+they won't get scored.
+Right.
+And so what we've been able to do
+is to deal with those constraints
+in a different way by a using time series
+data, b using some other data points.
+So we were the first to use M
+utility payments and rent.
+I mean, who'd have thought
+that your ability to pay your rent could
+somehow, again, be useful
+in trying to assess your your risk?
+Right.
+And so,
+you know, including those new
+different types of data, realizing
+that these constraints can be changed
+now that you have time series data,
+but then also guess what?
+You know, math has evolved as well.
+Okay.
+And so, you know, what we realized too
+was that you if you can be really smart
+and use some new methods like,
+you know, some AI methods, for instance,
+like clustering to really understand,
+well, look, here's a group of people
+and they behave in a certain way.
+And by doing that in a better way, we can
+then figure out what is the best way
+to measure this group of people here
+versus this group of people here.
+And doing that well enables you
+to build much more predictive scores.
+And so that's an important
+the answer to that.
+Not a lot of people always realize
+is that it's not one
+formula
+that's calculating everybody's score.
+You know, people will get depending
+on what their credit file looks like
+and the history looks like,
+they'll get divided into, you know,
+different segments, and then each segment
+is scored according to that.
+And that again
+increases the ability to score people
+accurately and score more people
+like in our case, it's 33 million
+more people that we're able to score.
+So it's quite substantial.
+How did the models deal with, breaks
+in previous consumer patterns?
+Because we have seen,
+some major ones in recent years.
+So after the pandemic, we had phenomenal,
+a phenomenally tight labor market.
+And we saw a lot of wage growth
+for lower income,
+a lot of spending that was sort of
+unprecedented in many ways.
+How do models actually incorporate
+that sort of big shift in the trend?
+So I think that's something
+really important to try to understand.
+And it's
+and it's not easily understood by many.
+So give me a second here.
+I'll try to break this down.
+This is no we have when people say,
+give me a second,
+I have to break this down.
+Please break it down.
+You can have a minute.
+Have a minute.
+Honestly, that's kind of what I enjoy
+most about listening to your, podcast.
+Yeah.
+And so, like,
+the first thing to understand
+is that this credit score
+is not an absolute measure of risk.
+It's a relative measure of risk.
+And let me break that down for you. Right.
+So what it means is that,
+you know, a score,
+if somebody did score 720 in 1 month
+and then somebody else has score 723 years
+later, the risk will be different.
+And the reason for that is very deliberate
+when we are evaluating a person.
+Right.
+Because of the laws of the fair Credit
+Reporting Act.
+Right.
+We're allowed to look
+at the things that are about you,
+but there are things that are going out on
+at the same time in the economy
+that impact risk of the population
+as a whole.
+Right?
+So that's why it's so important
+when you're looking at things
+like credit scores to understand
+when was that score pulled?
+Right.
+Because the score, 720 in 2017
+had a very different characteristic,
+of a score of 720 in 2022.
+Okay.
+Now, but the thing to bear in mind is
+this is an excellent
+relative measure of risk.
+So at any one given point in time,
+you know, somebody with a
+720 is going to be much better
+performing than somebody at 630.
+And the same time somebody at 840 is going
+to be much better than both of them.
+Okay. And that holds consistently true.
+And so that's why it's very important
+and still
+obviously very important to include
+when you're making lending decisions.
+But you know, lenders
+have to be thoughtful, right?
+They have to as they're making decisions
+about, you know, how many people
+they want to be to underwrite
+and how to think about risk.
+They need to also start thinking
+about these external factors as well,
+so that they can then, you know,
+set their underwriting criteria
+to meet the kind of level of risk that
+they're willing to take on this mixture.
+I had never thought about this,
+but of course, that makes so much sense.
+So it's like I could have an excellent
+credit history.
+I could have ex employment
+pay all my rent, but for example,
+if the economy is going down the tubes,
+I may still yet
+be a risky credit
+because I may lose my job at some point.
+And so this idea that it kind of
+has to be relative
+because the underlying conditions
+that affect everyone are
+they're outside of our control,
+but they are still important
+from the perspective of the lender.
+Exactly.
+And at the same time, you know,
+if you get declined for credit card,
+you can't be told that
+the reason you're getting declined
+is because unemployment has hit 5%.
+Okay, right.
+It's that doesn't work
+that the laws are very specific.
+The reasons for why you're not getting
+the top score have to be explained,
+and they have to be based on,
+on, attributes and data, obviously,
+that are specific to you.
+What's the most important external factor
+when it comes to credit scoring?
+Because I've heard arguments for obviously
+the labor market, the unemployment rate,
+but also wage income
+and therefore real disposable income.
+How do you weight those different factors?
+I mean, I think if you're a lender, it's
+going to really depend upon
+what types of consumers you're lending to.
+Right.
+And particularly
+now we're seeing such divergence
+across consumers in terms of who's
+doing well and who isn't.
+And so, for instance,
+if you are a lender focused on people
+that are kind of below prime,
+let's say that not completely subprime,
+but that near prime group and, and you're,
+you know, you're focusing on auto loans
+and you know, you're in regions like Texas
+or in certain areas, then obviously,
+the understanding the economic conditions
+that are affecting those people, like,
+you know, a lot of those people would be
+working in certain types of industries.
+What is employment
+like in those types of industries?
+Right. Or is it people
+that are in the gig economy?
+Right. And so, it is quite nuanced.
+It's not necessarily one thing
+and it's going to depend.
+Whereas on the other extreme,
+you know, if you're handing out
+black cards
+and your audience is incredibly affluent,
+then again, you know, it's it's
+less about the risk because at that point,
+your risk of default is probably 1
+in 10,000, right.
+So they're they're just trying to make,
+you know,
+sure that it is absolutely risk free.
+All right.
+So someone in a
+highly cyclical industry, like,
+I don't know, truck drivers in Texas
+or something that we're taking out, auto
+loans would probably be seen as riskier
+or the labor
+market would depend more for them.
+Whereas if you're taking out,
+you know, a black Amex card or something
+like that,
+probably real disposable income.
+Yeah. Okay.
+So you mentioned different segmentation.
+Is the,
+people talking about this k-shaped
+economy, is that real or is that a meme?
+I absolutely believe so. But I think that
+it's a little bit more nuanced.
+And so, you know,
+one of the things that we spotted
+late last year
+and we're tracking into this year was that
+we weren't the first to see
+that it was a k-shaped economy,
+but a lot of people
+were making the assumption
+that the k-shaped economy
+was being driven by income levels.
+But when we were looking at the data
+at the time, we were seeing that
+those that had were in sort of the higher
+income level.
+In our case, that's 150,000 above.
+So that's not your, you know, people
+who are running hedge funds and etc.
+and, you know, but still it's, it's
+the relatively better to do cohort.
+They were actually seeing the highest year
+over year increases in delinquency
+rates at the time.
+So we knew that okay, hold on a second.
+It isn't as simple as this.
+So, you know, we spend a lot of time
+and sort of a lot of banks
+and we kind of collaborated
+with them to try to understand what's
+what's really then the differentiator.
+And then what seemed to be really
+a part of this is wealth.
+So, you know, a lot of people don't
+necessarily differentiate
+income and wealth, but they are separate.
+Yeah.
+And so, you know, when you're looking
+then at a high income cohort
+at a time to try to see like, okay,
+well which ones are doing well
+and which ones weren't homeownership
+was the biggest differentiator
+because they had a bigger cushion,
+something they can rely on, rely on.
+And then obviously other indicator,
+other aspects as well,
+like stock ownership and
+and small business ownership etc..
+But homeownership is is the one
+that has the more and the bigger effect
+because there's more people in the US
+economy on a whole.
+And then let's say has a stock portfolio.
+I talk more about mortgage rates
+because this feels pretty key
+when you're talking about
+the k-shaped economy, which is if anyone,
+anyone who bought their house before 2020,
+is probably a very lucky person
+and, has locked in a low mortgage rate,
+I think mortgage rates are still even
+after the rate cut, we're at like 6%
+or something versus I think at one point
+they got down to like 3%
+right after the for people like 2.5%.
+Yeah. Crazy.
+Yeah.
+And so if you bought a house
+then you actually have this
+like massive cushion,
+as you put it, versus
+someone who's buying a house now
+or in the past couple of years in a way,
+I see there's a bit of a silver lining
+when it comes to housing, right?
+We we have seen rates come down this week.
+Hopefully they will continue to come down
+next year.
+Yeah, there's a lot of debate, obviously
+even within the Federal Reserve. Mr..
+Exactly.
+The the speed at which that's
+going to be accomplished.
+And obviously there are many other factors
+that can impact that.
+But I the reason we see a silver
+lining is to for two reasons.
+Okay.
+As interest rates comes down,
+obviously for people to own homes,
+that's their biggest monthly payment.
+Right now there isn't much, point
+for many to refinance given
+what the interest rates are.
+But if it comes down a bit more,
+it'll be much more.
+It'll make much more sense
+for a large tranche of homeowners
+that have higher interest rates
+to be able to to make that switch.
+So we'd expect a bit of a refinancing boom
+as it hits a certain level.
+But the other thing
+that's really exciting
+about what's happening
+in the homeownership space is that in the,
+this year, 
+the FAA changed the rules about,
+what can be used, what credit scores
+can be used in mortgage.
+So historically,
+they've used a very old version.
+That's from the 90s, of the classic
+score, in, in mortgage applications.
+And that was actually not
+deliberately done.
+So it was just that
+it got written into the rules.
+And then since then, as a recommendation,
+but then it became kind of
+the de facto a monopoly, in that space.
+And the problem is that's a model
+that, went through the last crisis
+and the Federal Reserve,
+a Saint Louis actually found that it,
+it didn't work
+well at all in that situation.
+In fact, it saw a bigger rate of increase
+in delinquencies amongst those
+that were prime than it did amongst those
+that were subprime.
+So the rate of increase, which is not how
+a model supposed to work, surprisingly.
+Right.
+And so, what's happening
+now is that the,
+they have allowed for vantagescore
+for to be used.
+And the reason I say that is it's a
+because as I mentioned before, it
+a lot more people,
+when they have the ability
+to get access to homeownership.
+So that will create a bit more demand.
+Okay. Right.
+Which is great.
+And the other thing to think about too is
+who are these people
+that, that get access to this.
+Right?
+It's a lot of people
+that are not necessarily in the areas
+that have been, have been so crazy
+with house price increases.
+Right. There are a lot of rural
+communities, like.
+So if you look at the state where there's
+the biggest difference between
+score of all people with a new score,
+it's actually West Virginia.
+And so those economies
+could certainly do really well
+from a change to more people
+having home ownership.
+And then the second thing
+too, is obviously R&B is really important.
+Had some challenges back in 2008, 2009.
+Right.
+And so having a better
+plan is a very important, modest way.
+I heard about those challenges.
+I think they came up a couple of times.
+I was educated in the UK.
+Pardon me.
+We have a tendency to understate
+things, but, you know, having a newer,
+more proven model, one that's,
+you know, worked so well and credit card
+and other things for the past eight years,
+it's become the most used model in,
+in many other segments.
+So having a proven model
+that's new and more predictive is
+should help as well with reducing
+the systemic risk in the arms market.
+Just just to go back very quickly
+because I don't I it sounded important.
+Can you just clarify a little bit more.
+What is this rule change such that could
+unlock additional source of demand?
+Okay.
+So, when you went to a bank
+before, wanted to submit loans to Fannie
+Mae and Freddie Mac.
+Okay.
+They could only submit those loans
+using the Fico classic score.
+Okay, okay.
+Which is actually 2 or 3 different scores
+and go into that another point.
+But anyway, and
+and they used to be like a cutoff
+that if you'd have 620
+then you couldn't, be able to submit it.
+You could go to an FHA, FHA loan.
+But those are more expensive. Right.
+But you couldn't necessarily
+get a, a, a normal conforming loan
+that goes to Fannie Mae and Freddie Mac.
+So that's not changed.
+The first of all, that minimum
+limit of Fico been removed.
+And now,
+they are just updating all the pipes
+to allow them
+to use Vantagescore as a choice.
+So now there will be a choice.
+Lenders can choose
+which score they want to to use,
+and they can make their own evaluations
+about which one performs better.
+Okay, so let's go back
+to, starting at the end of last year.
+And you saw that increase in
+delinquencies among fairly,
+people with decent incomes.
+Maybe they didn't have as much.
+Well, talk to us about the numbers.
+How big were these numbers?
+How much did they catch
+people by surprise?
+And what is the story there about why
+there was this delinquency pressure?
+Well, so,
+you know, the good thing is it's available
+since the end of last year.
+But, you know,
+when we're looking at this data,
+then again, look, high income earners,
+not surprisingly, have lower delinquency
+rates than middle income earners.
+And that had themselves lower
+delinquency rates than the lower income.
+Right.
+But not a lot of people were looking
+at that kind of year
+over year trend and the momentum. Right.
+I'm always looking at momentum
+because I'm trying to get an early read on
+kind of how things are developing.
+And so at the time, you know,
+we saw actually let's
+go back a little bit
+because I think it can explain
+a little bit more about
+what's going on in the economy.
+Is that right?
+So, when the pandemic happens, right,
+a lot of stimulus comes
+in, a lot of forbearance programs
+are put in place as a result of that.
+So many people's, you know, credit, health
+and the way that they appear on the
+on the credit files improved dramatically.
+They're paying down their credit cards.
+They were building up their savings.
+It was a it was a good situation,
+temporary, but good.
+But then, you know,
+20, 21, 22 starts creeping in
+and we start seeing that, okay.
+This is not a persistent situation.
+This was a one off. Right?
+And we started seeing delinquency rates
+starting to come up again.
+Right.
+What we saw, which shouldn't be too
+surprising, particularly given
+that that was when inflation was kicking
+in, in a, in a big way,
+was that those
+that were initially impacted
+and who are seeing the biggest rises
+were the lower income households.
+Right.
+So for the first sort of,
+you know, six months, nine months,
+that was the group
+that was seeing the biggest year
+over year increases.
+But then what we started seeing was that,
+you know, come 2023 forward,
+we actually started seeing that,
+then the middle
+and higher income households
+were starting being impacted, too.
+And that's probably related to the fact
+that lower income households
+had less, disposable or income,
+but they also had less
+savings put away so that, you know,
+they're the first to feel the pain.
+But then when there is
+this consistent imbalance
+between your inflows and outflows, right,
+you can even if you have, you know,
+30,000 or 50,000 that's put away,
+that's going to start depleting.
+And that's what we started
+seeing happening
+even with these higher income households,
+because at the same time, you know,
+they were hit by so many pressures.
+Right.
+Biggest rent increases
+I think we'd ever seen
+it came into, you know, came into effect
+those few years after Covid.
+Right.
+We saw things on, you know, car prices,
+the cost of auto financing
+going up through the roof
+and then various other things,
+you know, very other costs
+also went up substantially.
+And so, you know,
+it's not that higher income
+people were immune from this, right?
+Also, you know, as an economist,
+you know,
+a lot of people always talk about, hey,
+when inflation kicks in,
+it disproportionately impacts
+lower income households
+because the cost of bread,
+the cost of milk, etc..
+You know, it's not like high income people
+buy milk.
+That's 100 times more expensive, right?
+But the reality is, is
+if you look at people's
+big outlays, right,
+many of those actually scale with income
+rent, for instance, people
+that earn more tend to rent higher.
+Other big outlays such as,
+you know, their, child care, education
+and other things.
+They also have been scaling
+more with income.
+Now, obviously there's a level of income
+that you know that that does not apply to.
+But if we still talk about that cohort,
+150 to 250 or so of household income,
+they're definitely seeing
+that they felt the pain too.
+They it took them longer before
+it started impacting their delinquencies.
+But they did start feeling the pain.
+The good news though
+is, that as we started
+looking at the second half
+of this year, right,
+so we still saw those delinquencies
+and high incomes
+rising very heavily at the beginning,
+the first half of this year.
+But since July, 
+and I've got data from October.
+So, you know,
+of the three of the four months
+since July, we've seen that higher
+income households came down.
+So that's a good sign.
+And the reason I say that's a good sign
+is not because I'm a fan of
+making the k-shaped economy even more so.
+But the fact that so much of the U.S.
+economy is driven by spending,
+and you mentioned earlier
+that high income households
+disproportionately impact, that
+and so if that dries up, that has a knock
+on effect on the whole economy.
+So to the fact that we're seeing
+that cohort, that those delinquencies
+are starting to come down, I think there's
+some light at the end of the tunnel
+that reminds me, actually,
+I always wondered, how useful are big
+shopping events
+like Black Friday or Christmas
+in terms of gauging consumer sentiment?
+So you you always see the headlines.
+You certainly saw them this year,
+you know, record Black Friday spending.
+But then you also see people break down
+that spending and say, well,
+actually it's
+because everyone is so pressured.
+They really need the low prices.
+So they're buying everything.
+Now, how useful
+is something like that to you?
+You know,
+you can always see trends, right?
+And so you know that from one perspective,
+it's always good to
+look at a number of different things,
+such as spending on Black Friday, Cyber
+Monday, etc., because, you know,
+there are nuances into
+how people have been spending
+for those weekends over 20 years.
+But still,
+if you look at the last three years,
+you can start to see things
+that are happening.
+But the thing that, you know,
+I haven't been able to get my head around
+is how much of that year over year
+increase in spending in the holidays
+is driven by the prices of the goods
+going up.
+Yeah.
+Versus people buying things
+that would have traditionally been more
+expensive or splurging more
+that for me isn't obvious.
+And I think that again, when trying
+to understand how the economy is going,
+it's so important if you're looking at
+from a spending perspective
+to actually
+look at the different merchants.
+Right.
+So how is McDonald's doing
+and what are the trends there?
+What's happening in high end?
+How is LVMH doing versus,
+you know, Walmart, etc..
+And so, because again,
+you know, even though I said that,
+you know,
+there's a silver lining in the high
+income,
+consumers are, you know, seeing declines,
+middle income have come down,
+but they're still increasing
+and low income are are staying
+persistently higher on 8% year
+over year
+increases, in their delinquency rates.
+And so again,
+there's we're probably next to you.
+You're going to see more more households
+struggling to make ends meet
+than we saw this year.
+I still don't think that there is,
+you know,
+you know, just looking at the trends
+going to be any kind of major break point.
+But the thing to bear in mind
+with that, though,
+is that if you look at here the situation
+and you look at, for instance, JP
+Morgan published that, you know,
+the amount of cash people have in their
+checking accounts is coming down.
+So it just means that there is
+more of a challenge if there's a big shock
+to the system at some point.
+Not that I can foresee
+any shock to the system,
+but it's always something to be
+a little bit wary of before we going,
+I want to go back to something
+you said very quickly.
+You said, okay, intuitively,
+people with higher incomes,
+they're going to have delinquencies
+at a lower rate
+than people's middle incomes,
+and they're going to have, delinquencies,
+a lower rate than people
+with lower incomes.
+That's not intuitive to me, actually,
+because I would also
+imagine
+that underwrite is very different, etc.
+it's not obvious to me
+why higher income people default
+less than lower income people,
+because I would imagine
+lenders know their income
+and they're going to have, you know,
+they're going to scrutinize the loan
+of a lower income person
+much more intensely, etc..
+So why why should this trend exist,
+given that they are don't they don't get
+they don't don't get the same loan terms
+or same loan availability?
+No they don't.
+And you know, a high income
+household by typically is more expensive
+than a car than a low income household.
+Well, but higher income households
+tend to have more of an ability
+to squirrel some money away,
+or they tend to have,
+other assets that they can't or knows
+that the lender knows
+that the higher income, household
+is going to have likely more savings
+than the lender knows, that the household
+that's in a very tight income
+probably has very little, cushion
+in the form of what we call wealth.
+And so why doesn't that just get baked
+into the underwriting standards?
+Well, in in ways it does. Right.
+And so, you know, when you're, you know,
+you're underwriting a loan for, let's say,
+somebody who is high income
+and has a good credit history,
+your expectation of their default
+is going to be incredibly low, right?
+So that's built into the pricing
+and that's built into, you know,
+and you obviously don't
+just look at a credit score.
+You look at, you know,
+what their income is and various
+other important metrics to be able
+to determine the appropriate amount
+that you will lend them, etc.. Right.
+But higher income
+consumers may not need to take on
+as much debt
+as a proportion to their income
+as lower income households to make.
+But, you know, to to get through
+what they need to do. Right.
+And so if you look at, for instance,
+a high income household,
+how much of their, even though,
+for instance, probably housing and
+car costs are some of the biggest outlays
+they have, proportionately,
+they're probably less than
+for lower income households.
+Right.
+And so you know, a lot of it
+has to do with that proportionality.
+But then also just that, again,
+they will tend to have a bit more reserves
+so that they can ride through situations.
+Talk to us about auto delinquencies.
+Those have been rising.
+And obviously there's a lot of lending
+going on.
+Again,
+Tracy mentioned a sort of 2020 to 2022
+vintage car prices
+themselves are going up.
+So not only have the rates gone up,
+but we've seen a tremendous amount of auto
+inflation.
+So sort of stress at every level.
+We see the numbers going
+up. One of those tell us
+as a fascinating story.
+There's been a lot of interest,
+that was paid attention to auto loans
+because, you know, suddenly in 2022,
+we started seeing this auto
+loan delinquencies going up much faster
+than other types of loan delinquencies.
+And it was having a profound effect,
+obviously, on auto lenders and
+the economy as a whole. And, you know,
+everybody is trying explain.
+Well, you see, we got a bit too loose
+during the period of Covid
+and other things, and they started
+adjusting their lending criteria.
+Right?
+So they did adjust their lending criteria,
+around 2023 for most of them.
+But then we started,
+we still saw that despite that,
+the delinquency rates
+kept persistently increasing.
+And then when we looked at the data,
+we actually saw that, you know, when you
+they had actually had an impact
+by adjusting their landing,
+their lending criteria, we saw that
+the delinquency rates among subprime
+auto lenders, where auto loans reduced
+quite dramatically after that.
+So they did have that effect.
+But we saw that the delinquency rates on
+near prime and Prime continued to go up.
+And that was what drove that increase.
+And so we realized there's
+something more going on here.
+And also why is it it's so different.
+So we went back a long time.
+We went back to 2010 to try to understand
+kind of what's been going on.
+Because not many people
+look at it from that time scale,
+but it's actually quite fascinating
+because back in 2010,
+auto had the best performance
+of any loan product at the time,
+it was the least risky.
+This was always the narrative.
+The Americans
+will never give up their cars.
+Even if they lose their job.
+They can sleep in their car and
+live in the car, which is very dystopian.
+But that's I remember hearing that story
+literally from a banker,
+a banker who was actually working
+on bundling phone loans.
+And he was like, the other thing, right?
+Yeah.
+No one will give up their phone. Yeah.
+So, you know, so at that time it was,
+you know, it was a it performed well.
+Right.
+And people did not default as much on
+that as on other products.
+But then we've seen
+it has transitioned over that 15 year
+period to now, you know,
+being the first quarter of this year,
+it was the riskiest
+credit product out there.
+And then subsequently student
+loans started coming in.
+And that's another story.
+You know, those delinquency rates
+are at historic levels.
+But on the auto loan side,
+we then trot out what's causing this.
+Right?
+And so what we've seen was that,
+there's a number of factors,
+some of them obvious, some of them
+a little bit more subtle, right.
+The average cost of a car
+has gone up an incredible amount.
+And what we've seen is
+then the average loan value for,
+auto loans has increased
+more than any other loan value.
+And that may sound like okay,
+but if you think about it, mortgages
+tend to be the one that caused the most
+because house prices
+have appreciated so much over time.
+So the fact that the average auto
+loan has grown more than the average
+mortgage has over
+that 15 year period is telling.
+Okay.
+Secondly, obviously there is this
+you know, there's this double whammy.
+So not only is the car more expensive,
+but then more recently interest rates
+have been higher. Right.
+And so you know,
+they're not going to have to pay more,
+not just for the principal
+but also the interest.
+But I think one of the things
+that has caught many, consumers off guard
+is, okay, so they're in the dealership,
+they're being shown some numbers,
+some people get it and they go like,
+okay, yes, we can still do that.
+We can make it work.
+We can just about mix and stretch.
+Because also I think
+people are trying to buy either the same
+that they had before or slightly better.
+I know many people like downgrading okay.
+And so they think, well, it's the same car
+and yes,
+there's a little bit more,
+but we can make ends meet, right?
+By looking at these numbers.
+But what they often forget about
+is that insurance has gone up
+significantly,
+as have just the cost of ownership.
+Repair costs
+have also gone up substantially.
+And so when all those things
+then hit them,
+they can be in a situation
+where we just can't make it work.
+And so, you know, that's
+that's not good.
+And, you know, the good thing
+is, of all the loan
+products, mortgages are performing
+pretty well.
+Okay.
+That's they are increasing,
+but they're still much, much lower
+than they were back in 2010
+and obviously much lower than 28 to 29.
+So, but if you default on a mortgage,
+it takes some time before
+anything really happens, right?
+With an auto loan, they they will come
+and they will take that car away from you.
+And given that, you know,
+so many people rely on that car
+to go to their job, to make their income
+to, you know, to do other tasks,
+they're important, like they're shopping
+or taking their children to the school
+or other things that they need to do.
+People don't willingly
+just default on these auto loans.
+And so I think it is a sign
+that correlates with the fact that,
+you know, more households are struggling
+to make ends meet.
+How much insight do
+you have into leverage?
+And the reason I ask is because we've seen
+an explosion in buy now pay later.
+Programs, virtually every site you go to
+now has three different options
+for getting a loan for a small amount,
+and only a few of those.
+My understanding is are actually reporting
+to the credit bureaus.
+So and I can also
+imagine if you're a lower income person
+who is perhaps more pressured,
+you're
+probably going to turn to a family member
+and say something like, hey,
+can you loan me,
+I don't know, 500 bucks
+to make it to the end of the month?
+And there's no way that credit
+scoring bureaus are going to have insight
+into things like that. Informal loans.
+There's, you know,
+the credit data that comes from the credit
+bureaus
+is still incredibly productive and useful,
+but it doesn't capture everything.
+Like Alex was on I think recently,
+a firm has is done to provision
+data to the credit file, which is great,
+but that not all of them are there.
+And so, you know, I think there is
+still a lot that's not visible.
+And that is definitely a concern
+to lenders.
+We've been here their concerns about
+stacking and and things of that nature.
+Obviously, you know,
+these companies haven't got to where
+they are without having some understanding
+of risk themselves.
+Right.
+So they're not going to necessarily
+just let someone who's not performing
+a loan take out another five Bnpl loans.
+Right.
+And the ability of a consumer to go to
+all different Bnpl providers and use that.
+There's a level of effort and
+sophistication required to do that there.
+Certainly I'm sure there going to be some,
+but I don't know how many people fall
+into that category.
+Nevertheless,
+it is a concern that more is invisible.
+And that's why I think, you know,
+being able to pull in more than credit
+file data, such as cash flow data
+becomes really important.
+And so what we're seeing is that
+there are more and more on,
+that are looking to incorporate cash flow
+into the process
+because then they can have
+a better understanding
+of the ins and outs. Right?
+Is their checking balance, 
+going up or declining over time.
+You know, are there is
+that does our income look like it stable?
+Does it look like it's more sporadic.
+And so we still have started building now
+credit scores that also incorporate
+that type of data.
+And that I think is going to become
+even more important, as we go forward,
+because there are going to be more
+and more ways that consumers can borrow.
+So that's probably the better way
+to get that holistic view so quickly.
+Auto delinquencies, are they
+are they at their highest level
+ever right now or close like. Yep.
+I mean they are. Yes.
+And so you know
+and and they're continuing to to go up.
+So what we have seen though is that credit
+cards, for instance, they went up a lot.
+So they went on to delinquencies.
+Credit card
+delinquencies went up a lot in 2324.
+But they've started coming down
+and we started seeing personal loans
+coming down as well.
+So it's a very nuanced picture.
+So we've seen the and securitized,
+delinquencies have started
+coming down this year, year over year.
+But we're still seeing mortgage and auto
+loans continue that, you know, to continue
+to increase, which is pretty topsy turvy
+when you kind of think about it.
+So the other thing happening now
+is, insurance rates going up.
+Because of the, I guess
+non extension of previous subsidies.
+And one thing you're seeing all over
+social media is people
+posting
+their new insurance rates for 2026.
+And I've seen some crazy ones,
+you know, something going from $600
+to like $1,800 a month.
+How much pressure
+would you expect something like that
+to exert on the consumer for next year?
+It's you
+know, for many it's going to be the straw
+that could break the camel's back, right?
+It's just, you know, particularly
+if it's just like car insurance
+can be a very significant outlay
+for for many households.
+But, you know, there's other insurance
+for homeowners.
+Homeowner's insurance is going up.
+And particularly if they're in areas
+like California or Florida
+where, you know,
+natural disasters have led to, you know,
+an increase in premiums
+above the national average.
+And so, again, like,
+I don't see that there's
+any one thing that is going to cause
+a, the house to fall down.
+But at the same time,
+just there's more and more households
+where that that one unexpected increase
+puts them in a, in a, in a situation
+that then makes it impossible
+for them to make, their, their payments
+that month or for a number of months.
+Talk to us about the resumption of student
+loan payments.
+I mean,
+you mentioned the importance of the it's
+not only the stimulus,
+but all that sort of forbearance.
+And so all this stuff is the one thing
+that just kept getting pushed
+forever
+was the resumption of student loans.
+How much when
+that when those numbers turned back on
+or those payments turned back on.
+How what kind of impact did that have?
+And what are we seeing with student
+loan delinquencies?
+Yeah, it had a very big impact.
+And so, you know,
+if we look back before Covid,
+the average, student loan delinquency
+rate was around that 10% was sort of
+wavering around
+between 9 and 11% in that sort of range.
+And then obviously in this five year
+period, of, of forbearance, as I know,
+reporting, because you had a period
+of a year between 24 and 25,
+through 24 where, they were
+starting to need to make payments,
+but they just weren't being reported.
+So that's a basically
+a long period of time
+where people just got
+used to not having to make that payment.
+And also a very substantial part
+of student loan borrowers who never had
+ever made a payment because they,
+you know, they finished their
+their studies or they, you know, 
+in a period when there was forbearance.
+And so what then happened
+was they started trickling
+back onto the credit file
+sort of mid-February of this year.
+And then I think you got the first batch
+really kind of come in by May.
+And at that point you saw that
+the delinquency rates on the student loans
+that were not in deferment was over 20%.
+So they were over
+double what the historical norm was
+since then.
+And at the highest level ever,
+it is the highest level
+that we've seen going back a long,
+long time.
+So remember, there's been a lot of changes
+when it was not federally mandated
+and privately owned.
+So I don't have visibility going back
+as that far, but at least in recent
+history, is absolutely the highest
+by a very substantial amount.
+And that's not too surprising.
+But one of the things that we've seen
+is that we expected that there would be
+some people who go into delinquency
+not because they intended to.
+Right.
+And so there were
+some people who they moved
+and they didn't get the addresses
+or a lot of people that were confused
+because there's so many mixed messages
+like, we're going to be forgiven,
+but there were not
+and we're not certain program.
+But now that program doesn't
+exist anymore.
+So, you know, some people have been able
+to then address that.
+And so it's come down to this or 17,
+17.5%, which is a good sign.
+And so that's improving.
+But there still are people
+who are on programs that have,
+that have been killed,
+like the, the Safe program.
+And so they are going to next year,
+have to either
+get on to another forbearance program
+or start making payments.
+And so it's
+maybe we haven't seen the full effect.
+Then basically
+of the resumption of student loans,
+which we've seen the biggest batch
+come through, but there still are
+some more, cohorts of consumer borrowers.
+That will either have their
+existing program expire,
+or that aren't being reported yet
+because, and the servicers are trying
+to figure out exactly what's going on
+before they report to the credit bureau.
+So there still is
+a little bit of lack of visibility
+there from on the credit servicer side.
+Rikard,
+thank you so much for coming on Odd Lots
+That was great.
+Thank you. Thank you so much.
+Tracy, It always comes back
+to, insurance doesn't it?
+That's always like the thing the there's,
+the little fly in the ointment is,
+you know, you buy this car and it's like,
+okay, here's the car
+and here's the interest payment.
+Oh, I think we can make the math work,
+but you can't control what that insurance
+payment is going to be.
+You have no idea what it's going to be.
+This is my theory. Insurers secretly
+run this.
+They were on the run.
+The world. They really do.
+You know, the other thing I was thinking,
+and we've written about this
+in the newsletter, but one of the
+difficulties of our current economic
+moment is there is so much division
+and difference built into the aggregate.
+If you're just looking at a single number,
+a total, like if you looked
+at the average Fico score of an American,
+it tells you almost nothing now
+because the
+the individuals are so disparate.
+Yeah.
+And it really does come down to,
+you know, wealth.
+Right.
+And there's this this is what wealth is
+just such an important factor
+in the economy.
+We always talk about income
+and income inequality
+and of course that's a real phenomenon.
+But wealth is such an important predictor
+driver of anything.
+And it also goes to show
+like how important like
+financial market and asset
+prices are to the real economy.
+And it gives me once again an opportunity
+to say the stock market is the economy,
+because we live in such a wealth
+driven economy.
+You know, someone once wrote into me,
+I wrote something about pressures on lower
+income people, 
+and someone wrote into me saying, well,
+why don't the lower income people
+own more assets?
+If they did,
+they'd be in a better position.
+Have you tried not being poor?
+Why haven't you tried just being rich?
+Why haven't you tried buying in video
+20 years ago?
+Why have you tried buying a house
+in California in 2009 after the bust?
+It's that simple.
+Stop being poor. Seriously.
+The other thing I was thinking
+just on auto delinquency is I also think
+the trade down story is a big piece here,
+which is,
+I mean, a car from ten years ago
+now is pretty decent.
+And I say that as someone who owns,
+I think it's a,
+Toyota Rav4 from like 2011
+or something like that.
+Oh, yeah.
+Like it's pretty dependable
+and I don't really feel
+the need to get like a fancy new car.
+And I imagine
+if you're under pressure on your car loan,
+it's probably like not that difficult
+necessarily
+to find an older car
+that is somewhat reliable.
+I don't know, you know,
+the one thing though.
+So I have a car, that I bought in 2015.
+It runs, perfectly.
+Well, I would not be surprised
+if it continued like, no issues at all.
+It doesn't have CarPlay integration.
+Oh yeah.
+The one difference between an older cars
+and newer cars is that it's very nice.
+Like having that know that that interface
+where you have like,
+got a little speaker or something.
+Yeah.
+But what it doesn't have is that like
+really nice interface with the map.
+Like, and I know that to minor,
+but it's like, oh, do you have a map.
+It has a really it has
+it's a Subaru.
+For those curious, and it's like,
+you know,
+it's like they're in-house to crappy map.
+It's not the really nice like Google Maps
+where it's, like,
+really clear and it doesn't have turn
+by turn navigation.
+I know this sounds like kind of minor,
+but it is very annoying.
+And like when I am in a car
+that has like a modern,
+I have a little tangent here
+when I am in a car
+that has like a really nice interface
+with,
+a nice Google Maps or Apple Maps
+and the Spotify integration.
+It's very nice.
+And apparently we've
+taken into the dealer, they just cannot.
+It is on.
+Oh really? Yeah, it's on upgradable.
+There's no for some reason
+there is no way to put in a new dash.
+Oh, sorry.
+I thought you meant un upgradable
+in terms of trading it in for.
+No no no don't.
+Upgradeable is like we cannot like this.
+We could never install CarPlay
+or whatever.
+Yeah.
+You know,
+my husband and I rented one of those,
+like, big fancy trucks, pickup trucks.
+And I was amazed by the amenities
+that are actually.
+Yeah, including, like, the heated seats
+I personalized heated, heavy heated what?
+Yeah. That's fancy.
+You know, it is very nice in the winter.
+Heated seats.
+We just talk about cars
+for, yeah, maybe a while longer.
+But the thing is, like,
+even for a car like that, I just.
+I cannot imagine spending like, $100,000
+plus whatever the interest rate actually
+is on something like that.
+I remember that, meme from like,
+2010 was like, no one will ever do.
+Yeah, that was a big thing.
+And the phone, it really was two things
+that people will always find a way
+to make a payment for the car
+and the phone, I forget.
+Right?
+Which is why I think you have to look
+at something structural that's shifted.
+And I suspect
+maybe it's the availability of,
+you know, lots of older cars,
+but just, just one last point.
+It's I thought it was very interesting.
+Ricardo was saying it's like there's no
+obvious catalyst for classic cataclysms.
+There's not obvious like,
+oh, here is something we are
+on the verge of consumer credit collapse.
+But it is a story of
+just like steadily building pressure,
+right, such that if there
+is some sort of spark or something,
+there is a lot of stress, not,
+you know, the resumption of student loans
+after five years, the fact that the total
+loan price of the car has gotten so high
+relative to people's income, all of these
+different things see you like
+have all these upwards dresses on prices.
+You have all of this reliance,
+obviously, on accumulated
+wealth,
+most notably stock market and home equity.
+So you have a lot of things
+coming together
+that are not necessarily disaster
+or anything like that, but the, the,
+the alignment of pressures isn't there
+where things could potentially get bad.
+Right? The consumer is much more fragile.
+Yeah, than they used to be.
+They might have been a few years ago.
+Yeah. All right. Shall we leave it
+there. Let's leave it there.
+Okay.
+This has been another episode
+of the Odd Lots podcast.
+I'm Tracy Alloway.
+You can follow me @TracyAlloway
+and I'm Joe Weisenthal.
+You can follow me at @thestalwart.
+Follow our producers Carmen Rodriguez
+@CarmenArmen, Dash Bennett  @dashbot
+and Cale Brooks @CaleBrooks
+And if you want more Odd Lots content,
+you should definitely check out
+our daily newsletter
+that is at bloomberg.com/odd lots
+and you can join
+fellow listeners in conversation.
+Talk to them about the economy 24-7
+in our discord, discord.gg/oddlots
+And if you enjoyed this conversation
+then please like or leave a comment.
+Or better yet, subscribe!
+Thanks for watching.
