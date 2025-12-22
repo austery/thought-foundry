@@ -1,0 +1,3868 @@
+[music]
+
+
+My
+ name
+ is
+ Samir
+ and
+ I'm
+ the
+ head
+ of
+ AI
+
+
+engineering
+ at
+ the
+ browser
+ company
+ of
+
+
+New
+ York.
+ And
+ today
+ I'm
+ going
+ to
+ talk
+ a
+
+
+little
+ bit
+ about
+ how
+ we
+ transitioned
+
+
+from
+ building
+ ARC
+ to
+ DIA
+ and
+ the
+ lessons
+
+
+we
+ learned
+ in
+ building
+ an
+ AI
+ browser.
+
+
+But
+ first,
+ a
+ little
+ about
+ the
+ browser
+
+
+company.
+
+
+So
+ we
+ started
+ with
+ a
+ mission
+ to
+ rethink
+
+
+how
+ people
+ use
+ the
+ internet.
+ At
+ its
+
+
+core,
+ we
+ believe
+ that
+ the
+ browser
+ is
+ one
+
+
+of
+ the
+ most
+ important
+ pieces
+ of
+ software
+
+
+in
+ your
+ life
+ and
+ it
+ wasn't
+ getting
+ the
+
+
+attention
+ it
+ deserved.
+ Simply
+ put,
+ the
+
+
+way
+ we've
+ used
+ a
+ browser
+ has
+ changed
+
+
+over
+ the
+ last
+ couple
+ decades,
+ but
+ the
+
+
+browser
+ itself
+ hadn't.
+ And
+ think
+ about
+
+
+this.
+ We
+ we
+ started
+ this
+ company
+ in
+
+
+2019.
+ Um,
+ and
+ so
+ this
+ is
+ a
+ screen
+ cap
+ of
+
+
+Josh,
+ our
+ CEO,
+ sharing
+ a
+ little
+ bit
+
+
+about
+ our
+ idea
+ on
+ the
+ internet
+ a
+ few
+
+
+years
+ ago,
+ which
+ we
+ endearingly
+ called
+
+
+the
+ internet
+ computer.
+ So
+ our
+ mission
+
+
+has
+ been
+ to
+ build
+ a
+ browser
+ that
+
+
+reflects
+ how
+ people
+ use
+ the
+ internet
+
+
+today
+ and
+ how
+ we
+ think
+ the
+ browser
+
+
+should
+ be
+ used
+ tomorrow.
+
+
+So
+ through
+ years
+ of
+ discovery,
+ trial
+ and
+
+
+error,
+ and
+ some
+ ups
+ and
+ downs,
+ we
+
+
+shipped
+ our
+ first
+ browser,
+ Arc,
+ in
+ 2022.
+
+
+It
+ was
+ a
+ browser
+ we
+ felt
+ was
+ an
+
+
+improvement
+ over
+ the
+ browsers
+ of
+ that
+
+
+time.
+ It
+ made
+ the
+ internet
+ more
+
+
+personal,
+ more
+ organized,
+ and
+ to
+ us,
+ a
+
+
+little
+ more
+ delightful
+ with
+ a
+ little
+
+
+more
+ craft.
+
+
+And
+ it
+ was
+ a
+ browser
+ that
+ was
+ loved
+ by
+
+
+many.
+ It
+ still
+ is
+ by
+ millions,
+ many
+ of
+
+
+whom
+ are
+ probably
+ in
+ this
+ audience
+
+
+today.
+ I've
+ gotten
+ a
+ lot
+ of
+ questions
+
+
+about
+ Arc
+ today.
+ Um,
+ and
+ uh,
+ it's
+ great,
+
+
+but
+ um,
+ if
+ we
+ took
+ a
+ step
+ back,
+ we
+ felt
+
+
+that
+ ARC
+ was
+ still
+ just
+ an
+ incremental
+
+
+improvement
+ over
+ the
+ browsers
+ of
+ that
+
+
+time.
+ And
+ it
+ didn't
+ really
+ hit
+ the
+
+
+vision
+ that
+ we
+ set
+ out
+ to
+ create.
+ And
+
+
+so,
+ uh,
+ we
+ kept
+ building
+ and
+ then
+ in
+
+
+2022,
+ we
+ got
+ access
+ to
+ LLMs
+ like
+ the
+ GPT
+
+
+models.
+ And
+ so,
+ we
+ started
+ like
+ we
+
+
+always
+ do
+ with
+ prototyping.
+ We
+ started
+
+
+trying
+ new
+ ideas
+ um
+ and
+ eventually
+
+
+shipped
+ a
+ few
+ of
+ them
+ in
+ ARC.
+ But
+ what
+
+
+started
+ as
+ a
+ you
+ know
+ a
+ basic
+
+
+exploration
+ turned
+ into
+ a
+ fully
+ formed
+
+
+thesis.
+ In
+ the
+ beginning
+ of
+ 2024
+ uh
+ our
+
+
+company
+ put
+ out
+ what
+ we
+ called
+ act
+ 2
+ a
+
+
+video
+ on
+ YouTube
+ where
+ we
+ shared
+ that
+
+
+thesis
+ that
+ we
+ believe
+ that
+ AI
+ is
+ going
+
+
+to
+ transform
+ how
+ people
+ use
+ the
+ internet
+
+
+and
+ in
+ turn
+ fundamentally
+ change
+ the
+
+
+browser
+ itself.
+ And
+ so
+ with
+ that
+ we
+
+
+started
+ building
+ again
+ but
+ this
+ time
+ we
+
+
+built
+ a
+ new
+ browser
+ with
+ AI
+ speed
+ and
+
+
+security
+ in
+ mind
+ and
+ from
+ the
+ ground
+ up.
+
+
+And
+ later
+ and
+ sorry
+ earlier
+ this
+ year
+ we
+
+
+shipped
+ DIA
+ our
+ AI
+ native
+ browser.
+
+
+It
+ allows
+ you
+ to
+ have
+ an
+ assistant
+
+
+alongside
+ you
+ in
+ all
+ the
+ work
+ you
+ do
+ in
+
+
+the
+ browser.
+ It
+ gets
+ to
+ know
+ you,
+
+
+personalizes,
+ helps
+ you
+ get
+ work
+ done
+
+
+with
+ your
+ tabs,
+ and
+ effectively
+ get
+ more
+
+
+work
+ done
+ through
+ the
+ apps
+ you
+ use.
+ And
+
+
+while
+ it
+ hasn't
+ achieved
+ our
+ vision
+ yet,
+
+
+we
+ fully
+ believe
+ it's
+ well
+ on
+ the
+ way,
+
+
+too.
+
+
+So,
+ it
+ is
+ not
+ easy
+ to
+ build
+ a
+ product.
+
+
+You
+ all
+ know
+ that.
+ Let
+ alone
+ two,
+ the
+
+
+latter
+ of
+ which
+ an
+ AI
+ native
+ one.
+ We've
+
+
+had
+ a
+ lot
+ of
+ years
+ of
+ iteration,
+ trial
+
+
+and
+ error
+ and
+ through
+ that
+ we've
+ learned
+
+
+a
+ lot
+ and
+ I'm
+ going
+ to
+ just
+ talk
+ about
+ a
+
+
+few
+ of
+ those
+ things
+ uh
+ here
+ today.
+
+
+The
+ first
+ I
+ want
+ to
+ talk
+ about
+ is
+
+
+optimizing
+ your
+ tools
+ and
+ process
+ for
+
+
+faster
+ iteration.
+ From
+ the
+ beginning,
+
+
+browser
+ company
+ has
+ believed
+ that
+ we're
+
+
+not
+ going
+ to
+ win
+ unless
+ we
+ build
+ the
+
+
+tools,
+ the
+ process,
+ the
+ platform,
+ and
+
+
+the
+ mindset
+ to
+ iterate,
+ build,
+ ship,
+ and
+
+
+learn
+ faster
+ than
+ everyone
+ else.
+ And
+
+
+that
+ of
+ course
+ holds
+ true
+ today
+ but
+ the
+
+
+form
+ it
+ takes
+ with
+ AI
+ and
+ an
+ AI
+ native
+
+
+product
+ has
+ changed.
+
+
+So
+ even
+ as
+ a
+ small
+ company
+ where
+ are
+ we
+
+
+investing
+ in
+ tooling
+ these
+ days?
+ First
+
+
+is
+ prototyping
+ for
+ AI
+ product
+ features.
+
+
+Second
+ is
+ building
+ and
+ running
+ evals.
+
+
+Third
+ is
+ collecting
+ data
+ for
+ training
+
+
+and
+ for
+ eval
+
+
+uh
+ last
+ but
+ definitely
+ not
+ least
+
+
+automation
+ for
+ hill
+ climbing.
+
+
+So
+ let's
+ start
+ with
+ tools.
+ Initially
+ uh
+
+
+as
+ we
+ always
+ do,
+ we
+ built
+ some
+ tools.
+
+
+The
+ first
+ was
+ a
+ very
+ rudimentary
+ uh
+
+
+prompt
+ editor
+ and
+ it
+ was
+ only
+ in
+ dev
+
+
+builds.
+ What
+ did
+ what
+ did
+ this
+ mean
+ for
+
+
+us?
+ Well,
+ it
+ meant
+ a
+ few
+ things.
+ One,
+
+
+limited
+ access
+ as
+ only
+ engineers
+ were
+
+
+able
+ to
+ access
+ this.
+ Two,
+ slow
+ iteration
+
+
+speeds.
+ And
+ three,
+ none
+ of
+ your
+ personal
+
+
+context.
+ And
+ as
+ you
+ all
+ know
+ with
+ an
+ AI
+
+
+product,
+ the
+ context
+ is
+ what
+ matters.
+ It
+
+
+what
+ gives
+ you
+ the
+ feel
+ for
+ whether
+ a
+
+
+product
+ is
+ good
+ or
+ not.
+
+
+So
+ we
+ evolved
+ and
+ since
+ then
+ we
+ built
+
+
+all
+ of
+ our
+ tools
+ into
+ our
+ product,
+ the
+
+
+product
+ that
+ we
+ as
+ a
+ company
+ internally
+
+
+use
+ every
+ day.
+ And
+ that
+ includes
+ the
+
+
+prompts,
+ the
+ tools,
+ the
+ context,
+ the
+
+
+models,
+ every
+ parameter.
+ Um,
+ which
+ has
+
+
+not
+ only
+ allowed
+ us
+ to
+ 10x
+ our
+ speed
+ of
+
+
+ideating,
+ iterating
+ and
+ refining
+ our
+
+
+products.
+ But
+ it
+ has
+ also
+ widened
+ the
+
+
+number
+ of
+ people
+ who
+ can
+ access
+ and
+
+
+iterate
+ on
+ our
+ products
+ themselves.
+ from
+
+
+our
+ CEO
+ to
+ our
+ newest
+ hire
+ can
+ ideate
+
+
+and
+ create
+ a
+ new
+ product
+ in
+ DIA
+ and
+ also
+
+
+refine
+ an
+ existing
+ one
+ all
+ with
+ their
+
+
+full
+ context.
+
+
+And
+ this
+ holds
+ true
+ with
+ all
+ of
+ our
+
+
+major
+ product
+ protocols.
+ We
+ have
+ tools
+
+
+for
+ optimizing
+ our
+ memory
+ knowledge
+
+
+graph
+ which
+ all
+ of
+ us
+ use
+ and
+ we
+ have
+
+
+tools
+ for
+ creating
+ iterating
+ on
+ our
+
+
+computer
+ use
+ mechanism.
+ We
+ actually
+
+
+tried
+ tens
+ of
+ different
+ types
+ of
+
+
+computer
+ use
+ strategies
+ before
+ landing
+
+
+on
+ one
+ before
+ even
+ building
+ it
+ into
+ the
+
+
+product
+ itself.
+
+
+And
+ I'll
+ say
+ and
+ I'll
+ end
+ this
+ part
+ with
+
+
+uh
+ it
+ actually
+ is
+ a
+ lot
+ of
+ fun.
+ People
+
+
+don't
+ talk
+ about
+ that
+ a
+ lot
+ but
+ uh
+
+
+actually
+ building
+ these
+ tools
+ into
+ our
+
+
+product
+ has
+ enabled
+ so
+ much
+ creativity.
+
+
+It
+ has
+ enabled
+ our
+ PMs,
+ our
+ designers,
+
+
+uh
+ customer
+ service
+ and
+ strategy
+ and
+ ops
+
+
+to
+ try
+ out
+ new
+ ideas
+ that
+ are
+ tailored
+
+
+to
+ their
+ use
+ cases.
+ And
+ that
+ ultimately
+
+
+is
+ what
+ we're
+ trying
+ to
+ do.
+
+
+The
+ next
+ thing
+ I
+ want
+ to
+ talk
+ about
+ is
+
+
+how
+ we
+ evolve
+ and
+ optimize
+ our
+ prompts
+
+
+through
+ a
+ mechanism
+ called
+ Jeba.
+ This
+
+
+for
+ us
+ is
+ very
+ nent
+ but
+ an
+ important
+
+
+learning
+ nevertheless.
+
+
+How
+ we
+ heel
+ climb
+ and
+ refine
+ our
+ AI
+
+
+products
+ is
+ just
+ as
+ important
+ as
+
+
+ideulating
+ them
+ in
+ the
+ first
+ place.
+ So
+
+
+we're
+ investing
+ in
+ mechanisms
+ to
+ help
+
+
+with
+ this
+ to
+ enable
+ faster
+ hill
+ climbing
+
+
+and
+ one
+ of
+ those
+ being
+ Jeepa.
+ And
+ this
+
+
+is
+ based
+ on
+ a
+ paper
+ from
+ earlier
+ this
+
+
+year
+ from
+ a
+ few
+ smart
+ folks.
+
+
+So
+ the
+ key
+ motivation
+ here
+ is
+ simple.
+
+
+It's
+ a
+ sample
+ efficient
+ way
+ to
+ improve
+ a
+
+
+complex
+ LLM
+ system
+ without
+ having
+ to
+
+
+leverage
+ RL
+ or
+ other
+ fine-tuning
+
+
+techniques.
+ And
+ for
+ us
+ as
+ a
+ small
+
+
+company,
+ that's
+ hugely
+ critical.
+
+
+And
+ how
+ it
+ works
+ is
+ you're
+ able
+ to
+ seed
+
+
+the
+ system
+ with
+ a
+ set
+ of
+ prompts,
+ then
+
+
+execute
+ it
+ across
+ a
+ set
+ of
+ tasks
+ and
+
+
+score
+ them.
+ Then
+ leverage
+ a
+ mechanism
+
+
+called
+ PA
+ selection
+ to
+ select
+ the
+ best
+
+
+ones.
+ And
+ then
+ leverage
+ an
+ LLM
+ on
+ top
+ of
+
+
+that
+ to
+ reflect
+ on
+ what
+ went
+ well
+ and
+
+
+what
+ didn't
+ and
+ then
+ generate
+ new
+
+
+prompts
+ and
+ then
+ repeat
+ with
+ the
+ key
+
+
+innovations
+ here
+ being
+ around
+ that
+
+
+reflective
+ prompt
+ mutation
+ technique.
+
+
+the
+ selection
+ process
+ which
+ allows
+ you
+
+
+to
+ explore
+ more
+ of
+ the
+ space
+ of
+
+
+prompting
+ rather
+ than
+ one
+ avenue
+ and
+ the
+
+
+ability
+ to
+ tune
+ text
+ and
+ not
+ weights.
+
+
+And
+ here's
+ a
+ modest
+ uh
+ example
+ of
+ this
+
+
+at
+ work
+ for
+ us.
+ You
+ know,
+ you
+ can
+
+
+provide
+ it
+ a
+ very
+ simple
+ uh
+ a
+ simple
+
+
+simple
+ prompt
+ and
+ run
+ it
+ through
+ JPA
+ and
+
+
+it's
+ able
+ to
+ optimize
+ it
+ uh
+ along
+ the
+
+
+metrics
+ and
+ scoring
+ mechanisms
+ that
+ we
+
+
+uh
+ created
+ to
+ refine
+ that
+ prompt.
+
+
+And
+ so
+ if
+ I
+ take
+ a
+ step
+ back
+ and
+ talk
+
+
+about
+ kind
+ of
+ how
+ we
+ build
+ uh
+ for
+
+
+certain
+ types
+ of
+ features,
+ I
+ would
+ buck
+
+
+it
+ into
+ a
+ couple
+ different
+ phases.
+ The
+
+
+first
+ is
+ that
+ prototyping
+ and
+ ideation
+
+
+phase
+ where
+ we
+ have
+ widened
+ the
+ breadth
+
+
+of
+ number
+ of
+ ideas
+ at
+ the
+ top
+ of
+ the
+
+
+funnel
+ um
+ and
+ lower
+ the
+ threshold
+ on
+ who
+
+
+can
+ build
+ them
+ and
+ how.
+ And
+ so
+ we
+ try
+
+
+out
+ a
+ bunch
+ of
+ ideas
+ every
+ week,
+ every
+
+
+day
+ from
+ all
+ types
+ of
+ people
+ and
+ we
+ dog
+
+
+food
+ those.
+ And
+ if
+ we
+ feel
+ like
+ there's
+
+
+actually
+ real
+ utility
+ there,
+ it's
+
+
+solving
+ a
+ real
+ problem
+ for
+ us
+ and
+ there
+
+
+is
+ a
+ path
+ towards
+ actually
+ hitting
+ the
+
+
+quality
+ threshold
+ that
+ we
+ believe
+ we
+
+
+need
+ to
+ hit,
+ then
+ we'll
+ move
+ on
+ to
+ this
+
+
+next
+ phase
+ where
+ we
+ collect
+ and
+ refine
+
+
+eval
+ to
+ clarify
+ product
+ requirements
+ and
+
+
+then
+ hill
+ climb
+ through
+ code
+ through
+
+
+prompting
+ and
+ automated
+ techniques
+ like
+
+
+Jeba
+ and
+ then
+ dog
+ food
+ as
+ we
+ always
+ do
+
+
+internally
+ and
+ then
+ chip
+
+
+and
+ I
+ do
+ want
+ to
+ kind
+ of
+ double
+ down
+ on
+
+
+these
+ phases.
+ The
+ ideation
+ phase
+ is
+
+
+extremely
+ important
+ just
+ as
+ much
+ as
+ that
+
+
+refinement
+ phase.
+
+
+And
+ our
+ goal
+ is
+ to
+ enable
+ faster
+
+
+ideation
+ and
+ a
+ more
+ efficient
+ path
+ to
+
+
+shipping.
+ Because
+ with
+ all
+ these
+ AI
+
+
+advancements
+ every
+ week,
+ new
+
+
+possibilities
+ are
+ unlocked
+ in
+ DIA.
+ And
+
+
+it's
+ up
+ to
+ us
+ as
+ a
+ browser,
+ as
+ a
+ product
+
+
+to
+ get
+ as
+ many
+ at
+ bats
+ with
+ these
+ new
+
+
+ideas
+ and
+ try
+ out
+ as
+ many
+ of
+ them
+ and
+
+
+explore
+ as
+ many
+ of
+ them
+ as
+ possible.
+ At
+
+
+the
+ same
+ time
+ though
+ not
+ underestimating
+
+
+the
+ path
+ it
+ takes
+ to
+ ship
+ some
+ of
+ these
+
+
+ideas
+ to
+ productions
+ as
+ a
+ high
+ quality
+
+
+experience.
+
+
+Next
+ uh
+ I
+ want
+ to
+ talk
+ about
+ treating
+
+
+model
+ behavior
+ as
+ a
+ craft
+ and
+
+
+discipline.
+
+
+So
+ what
+ is
+ model
+ behavior
+ to
+ us?
+ It's
+
+
+the
+ function
+ that
+ defines
+ evaluates
+ and
+
+
+ships
+ the
+ desired
+ behavior
+ models.
+ It's
+
+
+turning
+ principles
+ into
+ product
+
+
+requirements,
+ prompts,
+ and
+ evals,
+ and
+
+
+ultimately
+ shaping
+ the
+ behavior
+ and
+ the
+
+
+personality
+ of
+ our
+ LLM
+ products,
+ and
+
+
+ultimately
+ for
+ us,
+ our
+ DIA
+ assistant.
+
+
+So,
+ I'd
+ buck
+ it
+ into
+ a
+ few
+ different
+
+
+areas.
+ First,
+ it's
+ that
+ behavior
+ design,
+
+
+defining
+ the
+ product
+ experience
+ we
+
+
+actually
+ want,
+ the
+ style,
+ the
+ tone,
+ the
+
+
+shape
+ of
+ responses
+ in
+ some
+ cases.
+ Then,
+
+
+it's
+ collecting
+ that
+ data
+ for
+
+
+measurement
+ and
+ training,
+ clarifying
+
+
+those
+ product
+ requirements
+ through
+ eval.
+
+
+And
+ last
+ but
+ not
+ least,
+ it's
+ the
+ model
+
+
+steering.
+ It's
+ the
+ building
+ of
+ the
+
+
+product
+ itself.
+ It's
+ the
+ prompting.
+ It's
+
+
+the
+ model
+ selection.
+ It's
+ defining
+ the
+
+
+what's
+ in
+ the
+ context
+ window,
+ the
+
+
+parameters,
+ etc.
+ Um,
+ and
+ so
+ much
+ more.
+
+
+And
+ to
+ us,
+ that
+ that
+ process
+ is
+
+
+iterative,
+ very
+ iterative.
+ We
+ build,
+
+
+refine,
+ we
+ create
+ evals,
+ and
+ then
+ we
+
+
+ship,
+ and
+ then
+ we
+ collect
+ more
+ feedback
+
+
+and
+ feed
+ that
+ into
+ our
+ iterative
+
+
+building
+ process.
+ That
+ could
+ be
+ internal
+
+
+feedback,
+ and
+ that
+ could
+ be
+ also
+ uh
+
+
+external
+ feedback.
+
+
+And
+ so
+ if
+ I
+ move
+ on
+ for
+ a
+ second,
+ one
+
+
+analogy
+ we've
+ thought
+ about
+ uh
+ is
+ for
+
+
+model
+ behaviors
+ that
+ to
+ product
+ design
+
+
+through
+ the
+ evolution
+ of
+ the
+ internet.
+
+
+At
+ first
+ websites
+ were
+ functional.
+ They
+
+
+got
+ the
+ job
+ done.
+ But
+ over
+ time
+ that
+
+
+evolved
+ as
+ we
+ tried
+ to
+ achieve
+ more
+ on
+
+
+the
+ internet
+ and
+ technology
+ advanced.
+ Uh
+
+
+product
+ design
+ and
+ the
+ craft
+ of
+ the
+
+
+internet
+ itself
+ grew
+ as
+ well
+ as
+ well
+ as
+
+
+the
+ complexity.
+
+
+And
+ so
+ what
+ might
+ that
+ be
+ for
+ model
+
+
+behavior?
+ Well,
+ at
+ first
+ it
+ was
+
+
+functional.
+ We
+ had
+ prompts.
+ We
+ had
+
+
+evals.
+ We
+ had
+ instructions
+ in
+ and
+ output
+
+
+out.
+ Now
+ we
+ frame
+ it
+ through
+ agent
+
+
+behaviors.
+ It's
+ goal-
+ directed
+
+
+reasoning,
+ the
+ shaping
+ of
+ autonomous
+
+
+tasks,
+ selfcorrection
+ and
+ learning,
+ and
+
+
+even
+ shaping
+ the
+ personality
+ of
+ the
+ LM
+
+
+models
+ themselves.
+
+
+And
+ so,
+ what
+ might
+ the
+ future
+ hold?
+ I'm
+
+
+excited
+ to
+ see.
+ But
+ what
+ we
+ believe
+ is
+
+
+that
+ we
+ are
+ in
+ the
+ early
+ days
+ of
+
+
+building
+ AI
+ products
+ and
+ model
+ behavior
+
+
+will
+ continue
+ to
+ evolve
+ and
+ into
+ a
+
+
+specialized
+ and
+ prevalent
+ function
+ of
+
+
+its
+ own
+ even
+ at
+ product
+ companies.
+
+
+And
+ the
+ last
+ thing
+ I'll
+ leave
+ you
+ with
+
+
+here
+ is
+ that
+ the
+ best
+ people
+ for
+ it
+
+
+might
+ just
+ surprise
+ you.
+ One
+ of
+ my
+
+
+favorite
+ stories
+ about
+ building
+ DIA
+
+
+these
+ last
+ couple
+ years
+ has
+ been
+ uh
+ the
+
+
+formation
+ of
+ actually
+ this
+ model
+
+
+behavior
+ team.
+ As
+ I
+ mentioned
+ earlier,
+
+
+uh
+ engineers
+ were
+ writing
+ the
+ prompts
+ at
+
+
+first
+ and
+ then
+ we
+ built
+ these
+ prompt
+
+
+tools
+ to
+ enable
+ more
+ people
+ at
+ the
+
+
+company
+ to
+ actually
+ prompt
+ and
+ iterate.
+
+
+And
+ there
+ was
+ a
+ person
+ on
+ our
+ team
+ on
+
+
+the
+ strategy
+ and
+ ops
+ team
+ and
+ he
+
+
+actually
+ leveraged
+ these
+ prompt
+ tools
+
+
+one
+ weekend
+ to
+ rewrite
+ all
+ our
+ prompts.
+
+
+And
+ he
+ came
+ in
+ on
+ a
+ Monday
+ morning
+ and
+
+
+dropped
+ a
+ loom
+ video
+ sharing
+ what
+ he
+
+
+did,
+ how
+ he
+ did
+ it,
+ and
+ why.
+ and
+ a
+ set
+
+
+of
+ prompts
+ and
+ those
+ prompts
+ alone
+
+
+unlocked
+ a
+ new
+ level
+ of
+ capability
+ and
+
+
+quality
+ and
+ experience
+ in
+ our
+ product
+
+
+and
+ consequentially
+ uh
+ it
+ was
+ the
+
+
+formation
+ of
+ our
+ model
+ behavior
+ team
+ and
+
+
+so
+ one
+ thing
+ I'd
+ emphasize
+ to
+ you
+ all
+ is
+
+
+to
+ think
+ about
+ who
+ are
+ those
+ people
+ at
+
+
+the
+ company
+ agnostic
+ of
+ their
+ role
+ who
+
+
+can
+ help
+ shape
+ your
+ product
+ and
+ help
+
+
+shape
+ and
+ steer
+ the
+ model
+ itself
+ it
+
+
+might
+ not
+ be
+ an
+ engineer
+ or
+ it
+ might
+ be
+
+
+it
+ could
+ also
+ be
+ someone
+ on
+ the
+ strategy
+
+
+and
+ ops
+ team
+
+
+next
+ I
+ want
+ to
+ talk
+ about
+ AI
+ security
+ as
+
+
+an
+ emergent
+ property
+ of
+ product
+
+
+building.
+ And
+ today
+ I'm
+ going
+ to
+ focus
+
+
+specifically
+ on
+ prompt
+ injections.
+
+
+So
+ what
+ is
+ a
+ prompt
+ injection?
+ Well,
+
+
+it's
+ a
+ prompt
+ attack
+ in
+ which
+ a
+ third
+
+
+party
+ can
+ override
+ the
+ instructions
+ of
+
+
+an
+ LLM
+ to
+ cause
+ harm.
+ That
+ might
+ be
+ data
+
+
+exfiltration,
+ the
+ execution
+ of
+ malicious
+
+
+commands,
+ or
+ ignoring
+ safety
+ rules.
+
+
+And
+ so
+ here's
+ an
+ example
+ in
+ which
+ you
+
+
+give
+ uh
+ the
+ context
+ of
+ a
+ website
+ to
+ an
+
+
+LLM
+ and
+ instruct
+ it
+ to
+ summarize
+ it.
+
+
+Little
+ did
+ you
+ know
+ that
+ there
+ was
+ a
+
+
+prompt
+ injection
+ hidden
+ in
+ that
+
+
+website's
+ uh
+ HTML.
+
+
+So
+ instead
+ of
+ actually
+ summarizing
+ the
+
+
+web
+ page,
+ the
+ LM
+ actually
+ gets
+ directed
+
+
+to
+ open
+ a
+ new
+ website,
+ extracting
+ your
+
+
+personal
+ information
+ and
+ embedding
+ it
+ as
+
+
+get
+ parameters
+ in
+ the
+ website's
+ URL,
+
+
+effectively
+ exfiltrating
+ that
+ data.
+
+
+So,
+ as
+ a
+ browser,
+ prompt
+ injections
+ are
+
+
+extremely
+ crucial
+ for
+ us
+ to
+ prevent.
+
+
+They're
+ critical
+ to
+ prevent
+
+
+because
+ browsers
+ sit
+ at
+ the
+ middle
+ of
+
+
+what
+ we
+ can
+ call
+ a
+ lethal
+ trifecta.
+
+
+It
+ has
+ access
+ to
+ your
+ private
+ data.
+ It
+
+
+has
+ exposure
+ to
+ untrusted
+ content
+ and
+ it
+
+
+has
+ the
+ ability
+ to
+ externally
+
+
+communicate
+ and
+ for
+ us
+ that
+ means
+
+
+opening
+ websites,
+ sending
+ emails,
+
+
+scheduling
+ events,
+ etc.
+ So,
+ how
+ do
+ we
+
+
+prevent
+ this?
+ Well,
+ there's
+ some
+
+
+technical
+ strategies
+ we
+ can
+ try.
+ First
+
+
+is
+ wrapping
+ that
+ untrusted
+ context
+ in
+
+
+tags.
+ You
+ can
+ tell
+ the
+ LM,
+ listen
+ to
+
+
+these
+ instructions
+ around
+ these
+ tags
+ and
+
+
+don't
+ listen
+ to
+ the
+ content
+ around
+ these
+
+
+tags.
+ But
+ this
+ is
+ easily
+ escapable
+ and
+
+
+quite
+ trivy,
+ an
+ attacker
+ could
+ still
+ uh
+
+
+leverage
+ a
+ prompt
+ injection
+ on
+ your
+
+
+browser.
+
+
+Well,
+ another
+ solution
+ we
+ could
+ try
+ is
+
+
+separating
+ that
+ data
+ and
+ that
+
+
+instructions.
+ We
+ can
+ assign
+ uh
+ the
+
+
+operating
+ instructions
+ to
+ a
+ system
+ role
+
+
+and
+ we
+ can
+ assign
+ a
+ user
+ role
+ for
+ the
+
+
+content
+ of
+ the
+ third
+ party
+ and
+ even
+
+
+layer
+ on
+ randomly
+ generated
+ tags
+ to
+ wrap
+
+
+that
+ user
+ content
+ to
+ be
+ extra
+ sure
+ that
+
+
+the
+ LM
+ listens
+ to
+ the
+ instructions
+ and
+
+
+not
+ the
+ content.
+ And
+ while
+ this
+ can
+
+
+help,
+ there
+ are
+ no
+ guarantees
+ and
+ prompt
+
+
+injections
+ will
+ still
+ happen.
+
+
+So
+ what
+ do
+ we
+ do?
+ Well,
+ it's
+ on
+ us
+ to
+
+
+design
+ a
+ product
+ with
+ that
+ in
+ mind.
+ We
+
+
+have
+ to
+ blend
+ technology
+ approaches
+ and
+
+
+user
+ experience
+ and
+ design
+ into
+ a
+
+
+cohesive
+ story
+ that
+ actually
+ builds
+ them
+
+
+from
+ the
+ ground
+ up
+ and
+ solves
+ it
+
+
+together.
+
+
+So,
+ what
+ that
+ might
+ what
+ that
+ excuse
+ me
+
+
+what
+ might
+ that
+ be
+ for
+ a
+ feature
+ in
+ DIA?
+
+
+Well,
+ let's
+ take
+ the
+ autofill
+ tool
+ in
+
+
+DIA.
+ The
+ autofill
+ tool
+ allows
+ you
+ to
+
+
+leverage
+ an
+ LLM
+ with
+ context,
+ memory,
+
+
+and
+ your
+ details
+ to
+ fill
+ forms
+ on
+ the
+
+
+internet.
+ It's
+ extremely
+ powerful,
+ but
+
+
+as
+ you
+ can
+ imagine,
+ it
+ has
+ some
+
+
+vulnerabilities.
+ A
+ prompt
+ injection
+ here
+
+
+could
+ extract
+ your
+ data
+ and
+ put
+ it
+ on
+ a
+
+
+form,
+ and
+ once
+ it's
+ on
+ that
+ form,
+ it's
+
+
+out
+ of
+ your
+ hands.
+ So,
+ we
+ try
+ to
+ build
+
+
+with
+ that
+ in
+ mind.
+
+
+In
+ this
+ case,
+ before
+ the
+ form
+ is
+ written
+
+
+to,
+ we
+ actually
+ let
+ the
+ user
+ read
+ and
+
+
+confirm
+ that
+ data
+ in
+ plain
+ text.
+ This
+
+
+doesn't
+ prevent
+ a
+ prompt
+ injection,
+ but
+
+
+it
+ gives
+ the
+ user
+ control,
+ awareness,
+
+
+and
+ trust
+ in
+ what
+ is
+ happening.
+ And
+ this
+
+
+is
+ a
+ framing
+ we
+ carry
+ throughout
+ our
+
+
+product
+ and
+ how
+ we
+ build
+ every
+ single
+
+
+feature.
+ So
+ here
+ are
+ some
+ examples.
+
+
+Scheduling
+ events
+ in
+ DIA,
+ we
+ have
+ a
+
+
+similar
+ confirmation
+ step.
+ Writing
+
+
+emails
+ India,
+ we
+ also
+ have
+ a
+ similar
+
+
+confirmation
+ step.
+
+
+So
+ I've
+ talked
+ about
+ three
+ different
+
+
+things
+ here
+ today.
+ First
+ is
+ optimizing
+
+
+your
+ tools
+ and
+ process
+ for
+ fast
+
+
+iteration.
+ Second,
+ treating
+ model
+
+
+behavior
+ as
+ a
+ craft
+ and
+ discipline.
+ And
+
+
+third,
+ AI
+ security
+ as
+ an
+ emergent
+
+
+property
+ of
+ building
+ products.
+
+
+But
+ uh
+ the
+ last
+ thing
+ I
+ want
+ to
+ leave
+
+
+you
+ with,
+ when
+ we
+ started
+ on
+ this
+
+
+journey
+ to
+ building
+ DIA,
+ we
+ recognized
+ a
+
+
+technology
+ shift
+ and
+ we
+ sought
+ to
+ evolve
+
+
+our
+ product
+ of
+ Arc.
+ We
+ initially
+ came
+ at
+
+
+it
+ from
+ a
+ hey,
+ how
+ can
+ we
+ leverage
+ AI
+ to
+
+
+make
+ ARC
+ better,
+ make
+ the
+ browser
+
+
+better?
+ But
+ what
+ we
+ quickly
+ learned
+ and
+
+
+adapted
+ to
+ was
+ that
+ it
+ wasn't
+ just
+ a
+
+
+product
+ evolution.
+ It
+ was
+ a
+ company
+ one
+
+
+and
+ today
+ I
+ shared
+ a
+ glimpse
+ of
+ that.
+
+
+How
+ we
+ build
+ and
+ how
+ it's
+ changed
+ a
+ team
+
+
+we've
+ literally
+ created
+ around
+ this
+ and
+
+
+how
+ we
+ think
+ about
+ security
+ for
+ AI
+
+
+products.
+ But
+ really
+ it's
+ so
+ much
+ more.
+
+
+It
+ goes
+ beyond
+ that.
+ It's
+ how
+ we
+ train
+
+
+everyone
+ here.
+ It's
+ how
+ we
+ hire.
+ It's
+
+
+how
+ we
+ communicate.
+ It's
+ how
+ we
+
+
+collaborate
+ and
+ so
+ much
+ more.
+ And
+ if
+
+
+there's
+ one
+ thing
+ I'll
+ leave
+ you
+ all
+
+
+with,
+ if
+ there's
+ one
+ thing
+ we've
+ learned
+
+
+over
+ the
+ last
+ couple
+ years,
+ it's
+ that
+
+
+when
+ when
+ you
+ recognize
+ that
+ technology
+
+
+shift,
+ you
+ have
+ to
+ embrace
+ it.
+ And
+ you
+
+
+have
+ to
+ embrace
+ it
+ with
+ conviction.
+
+
+Thank
+ you.
+
+
+[applause and music]
+
+
+[music]
