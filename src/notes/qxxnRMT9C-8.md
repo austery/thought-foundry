@@ -6,653 +6,424 @@ layout: post.njk
 source: https://www.youtube.com/watch?v=qxxnRMT9C-8
 speaker: The Diary Of A CEO
 tags:
-  - sleep-science
+  - sleep-health
   - circadian-rhythm
   - rem-sleep
-  - sleep-habits
-  - neuroscience
-title: 睡眠专家马修·沃克：颠覆你对睡眠的认知——从“睡眠银行”到基因编辑的未来
-summary: 世界知名睡眠专家马修·沃克教授分享了关于睡眠科学的最新研究成果，颠覆了许多传统观念。他指出，大多数镁补充剂对睡眠无效，而“蓝光有害”也是一个误区。本期内容深入探讨了“睡眠银行”这一新概念，即通过提前多睡来为未来的睡眠不足做准备。沃克教授还提出了改善睡眠的四大宏观指标（QQRT）：数量、质量、规律性和时机，并强调规律性比睡眠时长更能预测寿命。此外，他还揭示了REM睡眠在情绪疗愈和激发创造力方面的关键作用，并介绍了新型助眠药物的原理以及基因编辑可能带来的反乌托邦未来。
+  - sleep-disorders
+  - mental-wellness
+title: 马修·沃克：镁补充剂无益睡眠！这种睡眠习惯增加57%心脏病风险！
+summary: 这段播客中，世界知名的睡眠专家和神经科学教授**马修·沃克**博士分享了关于睡眠的最新研究和实用建议。他揭示了镁补充剂和褪黑素的常见误区，强调了睡眠规律性对心血管健康的巨大影响（不规律睡眠增加57%的心血管疾病风险）。沃克博士还介绍了“睡眠储备”概念，以及REM睡眠在情绪处理和创造力中的关键作用。此外，他还讨论了新型助眠药物DORAs、基因型短睡眠者，以及睡眠不足对饮食和体重管理的影响。最后，沃克博士分享了个人对成功和人际关系的深刻感悟。
 insight: ''
 draft: true
 series: ''
-category: lifestyle
-area: personal-systems
-project:
-  - personal-growth-lab
+category: health-wellness
+area: life-family
+project: []
 people:
   - Matthew Walker
+  - Michael Gradazar
   - Kenneth Wright
-  - Thomas Balkin
-  - Michael Grandner
-  - Joe Rogan
-  - Michael Gradisar
-  - Rosalind Cartwright
-  - Allison Harvey
-  - Clive Wearing
+  - Thomas Balkan
+  - Rosaline Cartwright
   - Jennifer Doudna
-  - George Lucas
-  - Harry Styles
-  - Matthew McConaughey
-  - Quentin Tarantino
+  - Clive Wearing
 companies_orgs:
   - UK Biobank
-  - Walter Reed Army Institute of Research
-  - University of Colorado Boulder
-  - University of California, Berkeley
+  - Walter Reed Medical Army Institute
+  - University of Boulder Colorado
+  - University of Berkeley California
   - Veterans Administration
-  - Calm
-  - LinkedIn
-  - Pipedrive
-  - Stan
-  - Radiohead
-  - Netflix
 products_models:
-  - Melatonin
-  - Magnesium
-  - Ashwagandha
-  - THC
-  - Ambien
   - Xanax
   - Valium
+  - Ambien
   - Lunesta
   - Sonata
+  - Prazosin
   - Suvorexant
   - Lemborexant
   - Daridorexant
-  - DORAs
-  - CRISPR
-  - Whoop
 media_books:
-  - The Diary Of A CEO
-  - Star Wars
-  - Lord of the Rings
-  - Memento
+  - 《记忆碎片》
+  - 《星球大战》
 status: evergreen
 ---
-### 镁补充剂与睡眠的真相
-关于通过补充镁来改善睡眠，存在一个问题。首先需要注意的是，大多数形式的镁无法穿过血脑屏障，而睡眠是由你的大脑产生的。那么，一种无法进入大脑的物质，又如何能影响大脑的活动呢？你所做的，很可能只是在制造昂贵的尿液。
+### 镁补充剂与睡眠迷思
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Here's the problem with magnesium supplementation when it comes to sleep. The first thing to note is that most forms of magnesium don't cross the brain barrier and sleep is produced by your brain. So, how can something that doesn't get into your brain affect brain process? All you're doing is creating probably expensive urine.</p>
-</details>
+关于镁补充剂对睡眠的影响，问题在于大多数形式的**镁**（Magnesium）无法穿过血脑屏障，而睡眠是由大脑产生的。因此，无法进入大脑的物质又如何能影响大脑过程呢？你所做的可能只是制造昂贵的尿液。然而，有一种形式的镁，即**L-苏糖酸镁**（Magnesium L-Threonate），似乎有一些证据支持其对睡眠的益处。但研究远不止于此，我们有大量新证据，包括关于8小时睡眠的迷思、对儿童服用褪黑素的担忧、夜间醒来的原因，以及一种我个人支持且大多数人尚不了解的新型安眠药。
 
-然而，确实有一种形式的镁似乎有一些证据支持其功效，我们可以稍后讨论。但事情不止于此，我们还有很多新的证据，包括关于“8小时睡眠”的迷思、我对于给孩子服用**褪黑素**（Melatonin: 一种调节生物钟的激素，能向大脑和身体发出夜晚来临的信号）的担忧、为什么你总在半夜醒来，以及第一类我个人比较推崇的新型安眠药的发明，而大多数人对此并不了解。
+### 睡眠专家与新研究
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">However, there is one form of magnesium that seems to have some evidence in favor of it which we can speak about. But it doesn't stop there. There's so much new evidence that we have including this myth of 8 hours. my fear about giving melatonin to kids. Why you keep waking up in the middle of the night and the invention of the first new class of sleeping medication that I actually favor and most people are not aware of it.</p>
-</details>
+**马修·沃克**（Matthew Walker）博士，这位世界知名的睡眠专家和神经科学教授，正在分享全新的研究，旨在对抗睡眠不足的流行病，帮助人们获得完美的夜间睡眠。社会上，我们因各种原因在夜间睡眠方面苦苦挣扎，但没有人教我们这些知识。例如，如果你一晚11点睡觉，下一晚凌晨1点，再下一晚又10点半，这种不规律的睡眠习惯非常普遍。但研究表明，与那些作息时间最规律的人相比，**作息不规律的人过早死亡的可能性会增加49%**，更糟糕的是，**心血管代谢疾病（cardio-metabolic disease）的风险会增加57%**。
 
-马修·沃克回来了，这位世界知名的睡眠专家和神经科学教授将分享全新的研究成果，以对抗睡眠缺失的流行病，并帮助你获得完美的夜间睡眠。社会上，我们因多种原因在夜间难以入睡，但却没人教我们这些知识。比如，你可能一晚11点睡觉，第二天凌晨1点，再下一晚又变成了晚上10点半。令人惊讶的是，很多人都这样做。但研究表明，与那些作息最规律的人相比，你的过早死亡风险在统计上要高出49%。更糟糕的是，他们的心血管代谢疾病风险增加了57%。
+科学告诉我们，良好的睡眠有四大支柱。此外，还有一项关于“睡眠储备”的惊人新研究，这对于那些面临工作冲刺、即将值班40小时的医生或新手父母来说意义重大。如果你非要我指出今晚就能开始做的三件最有影响力的事来改善睡眠，它们会是：数字排毒、规律作息和控制光照。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Matthew Walker is back and the worldrenowned sleep expert and neuroscience professor is sharing brand new research to combat the sleep loss epidemic and help you get the perfect night's sleep. So society, we have struggles with sleep at night due to many reasons, but no one teaches us this stuff. And it's things like say you go to bed at 11:00 one night, 1:00 a.m. the next night, then 10:30 p.m. the next night. And it's remarkable how many people do this, but studies have shown that you are statistically 49% more likely to prematurely die versus those people who were most regular in terms of going to bed and waking up at the same time. And worse, they had a 57% cardioabolic disease risk increase.</p>
-</details>
+### 沃克博士的专业背景
 
-科学确实告诉我们，良好睡眠有四大支柱。此外，还有一项关于“睡眠银行”的惊人新研究。这对于那些面临工作冲刺、即将连续值班40小时的医生，或是新手父母来说，都意义非凡。我们可以深入探讨所有这些内容。但如果你非要我总结出三件今晚就能开始做、最有影响力的事来改善睡眠，那会是……
+**马修·沃克**博士在我的职业生涯中，大部分时间都在研究大脑，以了解人类表现以及如何通过改变生活方式和引入新疗法来改善大脑功能。对于那些不熟悉我的人，我是一名神经科学家，专攻睡眠及其对大脑和身体的影响。在过去的二十年里，我一直在努力理解我们为什么要睡觉。五十年前，对于“你为什么要睡觉”这个问题的粗略答案是：睡觉是为了消除困倦。这就像说“你吃饭是为了消除饥饿”一样荒谬。你吃饭是为了支持各种生理和生物益处。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">The science really teaches us that there are four pillars of good sleep. And then there's this incredible new study looking at sleep banking. And this is remarkable for people who are facing a sprint at work or a medical doctor about to go on call for the next 40 hours, new parent. And we can go through all of that. But if you were to push me to say the three most impactful things that you can start doing tonight to start sleeping better, it would be...</p>
-</details>
+现在，这并非我个人的研究成果，而是基于我所敬佩的众多杰出同事的研究，我们已经颠覆了这个问题。我们现在必须问：你的身体中是否存在任何主要的生理系统，或者你的思维是否存在任何运作，在获得充足睡眠时不会得到极大的改善，或者在睡眠不足时不会明显受损？答案似乎是没有。没有这样的系统。即使是你的**DNA**（Deoxyribonucleic Acid: 脱氧核糖核酸），你的睡眠方式也会改变构成你日常健康叙事的**DNA核苷酸字母**。我们甚至可以看到它对社会的影响。睡眠可以改变社会结构，改变我们与他人的互动方式，改变我们的信仰系统，改变我们是感到孤独还是过度社交。所以，我是一名睡眠科学家，我的使命一直是努力让人类重新获得他们似乎极度缺乏的睡眠。
 
-### 睡眠科学家的使命
-我是一名神经科学家，但我的专业是睡眠，研究睡眠对大脑和身体的影响。在过去的大约二十年里，我一直在试图理解我们究竟为什么需要睡觉。因为在50年前，对于“你为什么睡觉”这个问题的粗略回答是：你睡觉是为了消除困意。这在逻辑上等同于说“你吃饭是为了消除饥饿感”，这显然是荒谬的。你吃饭不是为了消除饥饿，而是为了支持各种生理和生物学上的益处。
+### 睡眠科学的演变与社会认知
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">I am a neuroscientist by trade, but my specialty is sleep. the effects of sleep on the brain and the body. And I've probably spent about the past two decades trying to understand exactly why do we sleep? Because 50 years ago, the crass answer to the question, why do you sleep was the following? You sleep to cure sleepiness, which is the factous equivalent of saying, well, you eat to cure hunger. No, you don't eat to cure cure hunger. you eat to support all sorts of physiological and biological benefits.</p>
-</details>
+我们上次的对话非常精彩，我的听众非常重视它。我知道这一点，因为我们经常对听众进行调查，并能看到一些后台数据。关于睡眠的对话对每个人来说都特别个人化，因为在我们今天对话之前对听众进行的调查中，大约**75%到80%**的听众因各种原因而饱受睡眠困扰。所以我们实际上收集了上千个问题来问你。我之所以想再次与你交谈的另一个原因是，睡眠科学，就像所有科学一样，总是在不断发展。我们正在学习新事物，即使自我们上次交谈以来，也有新的睡眠科学进展，我们今天将讨论这些。其中一个特别的话题将通过这个罐子来演示。我总是想了解最新的睡眠科学，这样我才能睡得更好，因为我同意你所说的一切，即睡眠在我的生活中是多么基础。
 
-但现在，这并非我个人的研究成果，而是得益于所有我所敬仰的杰出同行的努力，我们不得不颠覆这个问题。我们现在要问的是：你身体里有哪个主要的生理系统，或者你大脑的哪项功能，不会因为获得充足睡眠而得到极大的增强，或者在睡眠不足时不会受到明显的损害？现在的答案似乎是“没有”。不存在这样的系统。甚至在你的DNA层面，你的睡眠状况也会改变构成你日常健康叙事的DNA核酸字母表。我们可以看到这种影响一直延伸到社会层面。睡眠可以改变社会结构，改变我们与他人的互动方式，甚至可以改变我们的信仰体系，影响我们是感到孤独还是过度社交。所以，回答你的问题，我是一名睡眠科学家，我的使命一直是努力让全人类重新获得他们似乎严重缺失的睡眠。
+我职业生涯初期并不知道这一点，甚至几年前、五年前都不知道。我曾以为睡眠是那种可有可无的东西。在很多方面，这并非你的错，因为如果你不知道我所知道的，你只会认为：当我睡觉时，我的身体处于休眠状态，我的大脑大部分是空白的。那么，损失一两个小时的睡眠真的那么灾难性吗？从进化的角度来看，睡觉是一个非常愚蠢的想法，因为当你睡觉时，你无法寻找配偶，无法繁殖，无法照顾幼崽，无法觅食，最糟糕的是，你容易受到捕食。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">But now, and this is not due to my research, is this all of the incredible colleagues whose sort of shoulders that I stand on, we've now had to upend the question. We now have to ask, is there any major physiological system in your body or is there any operation of your mind that isn't wonderfully enhanced by sleep when you get it or demonstrabably impaired when you don't get enough? And the answer now seems to be no. There is no such system. Even down to the level of your DNA, your sleep and how you are sleeping or not sleeping will change the very DNA nucleic alphabet that spells out your daily health narrative. And we can see it all the way up to society. Sleep can change the fabric of society, can change how we interact with other people. It can change our belief systems. can change how lonely or sort of hypersocial we are. So to your question, I'm a sleep scientist by trade and I suppose my mission has been trying to reunite humanity with the aleep that it seems to be so bereft of.</p>
-</details>
+因此，基于以上任何一点，尤其是所有这些点的集合，睡眠在进化过程中本应被强烈淘汰。我的观点是，人们常说，如果睡眠不具备一套绝对重要的功能，那么它就是进化过程所犯的最大错误。我们现在意识到，它并没有犯下惊人的错误。但真正重要的是，睡眠不是一种被动状态，它在大脑和身体方面都是一种极其活跃的状态。所以你不应该因为没有重视睡眠的重要性而感到内疚或羞愧。首先，从主观感受上，你只会觉得我的大脑暂时下线了。其次，我们也知道，我们没有在教育中教授睡眠的重要性，医生自己也是如此。有一项很棒的研究发现，全球约11个不同课程的医生，平均只接受了大约**1.2小时**的睡眠教育，然而睡眠占据了他们患者生命的三分之一。因此，一系列几乎完美的“风暴”共同导致社会对睡眠的重要性和价值一无所知。我认为这就是为什么我们常常如此轻视睡眠，以及另一个可怕的原因：**耻辱感**（Stigma）。人们会自豪地说：“我过去几个月吃得很健康”，或者“我过去一年每周坚持去三次健身房”。但没有人会在社会上说：“我每晚都坚持睡了8个半小时”。因为如果你说了，人们会说：“真的吗？”这其中带有一丝微妙的意味，那就是如果你有时间睡觉，那你一定不忙；如果你不忙，那你一定不重要。
 
-### 睡眠的进化悖论与社会偏见
-从进化的角度来看，睡觉是一个非常愚蠢的想法。因为当你睡觉时，你不能寻找伴侣、不能繁殖、不能照顾后代、不能觅食，最糟糕的是，你还容易受到捕食者的攻击。
+### 睡眠问题的不同人群分类
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">From an evolutionary perspective, it is such an idiotic idea to sleep because when you're sleeping, you're not finding a mate, you're not reproducing, you're not caring for your young, you're not foraging for food, and worst of all, you're vulnerable to predation.</p>
-</details>
+你能否为家里的听众介绍一下，目前正在收听这段对话的不同人群，他们寻求什么？从极端情况的**睡眠呼吸暂停**（Sleep Apnea: 一种睡眠障碍，患者在睡眠时呼吸反复停止和开始），完全无法入睡的**失眠症**（Insomnia: 持续性入睡困难或睡眠维持困难），到另一端可能寻求微小表现提升的人群。你看到了哪些人群，以及他们对你的工作如此感兴趣的原因是什么？他们听你的播客，读你的书。这些人群是哪些？
 
-基于以上任何一点，尤其是综合来看，睡眠本应在进化过程中被强烈地淘汰掉。我的观点是，人们常说，如果睡眠不具备一系列绝对至关重要的功能（注意是复数），那么它就是进化过程中犯下的最大错误。我们现在意识到，进化并没有犯下如此惊人的错误。但我想说的关键是，睡眠并非一种被动状态，无论对大脑还是身体而言，它都是一个极其活跃的状态。所以，你不应该因为过去不重视睡眠而感到自责或羞愧。
+首先，我们有**失眠症**患者。还有患有其他睡眠障碍的人，比如**睡眠呼吸暂停**，我们可以谈谈。还有一种叫做**不宁腿综合征**（Restless Legs Syndrome: 一种神经系统疾病，主要症状是腿部不适感，通常在休息时出现，并通过移动腿部来缓解）的疾病。这是一种可怕的疾病，你的腿会感觉像有虫子在爬，你必须不断按摩和移动它们，它会严重扰乱你的睡眠。顺便说一句，所有这些疾病都明显存在诊断不足的问题。然后，还有另一类人，他们没有任何睡眠障碍，但他们正在做一些会破坏睡眠的事情。例如，他们摄入酒精、咖啡因、**四氢大麻酚**（THC: 大麻中的主要精神活性成分），这些都不是助眠剂，尽管有时他们认为它们是。然后，还有一些内在因素会阻碍你睡个好觉，比如压力和焦虑。此外，生活本身也会成为障碍。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So on any one of those grounds, and especially all of them as a collective, sleep should have been strongly selected against in the course of evolution. And my point is that, and it's often been said that if sleep doesn't serve an absolutely vital set of functions plural, then it's the biggest mistake the evolutionary process has ever made. And we now realize it didn't make a spectacular blunder. But really, I guess to the point of it is sleep is not a passive state. It's an incredibly active state both in the terms of the brain and the body. And so you should not feel sort of you know remiss or ashamed that you didn't value the importance of sleep.</p>
-</details>
+从睡眠障碍领域，到“我没有睡眠障碍，但我的睡眠可能做得不对”的人群，再到那些痴迷于“做对”睡眠的人，他们是**生物优化者**（Bio-optimizers: 致力于通过科学方法优化身体和精神表现的人），也就是所谓的**生物黑客**（Biohackers: 通过各种手段，包括饮食、运动、科技等，来优化自身生物功能和表现的人）。此外，我还与许多高绩效人士合作，他们真的只是想在商业或职业运动员领域争取最后几个百分点的提升。对于这些人来说，两三个百分点的变化可能意味着数千万美元，或者是在奥运领奖台上站立与否的区别。因此，这是一个广泛而精彩的人群集合。
 
-首先，从主观感受上，你只会觉得“我的大脑离线了一会儿”。其次，我们都知道，教育体系中并未教授睡眠的重要性。就连医生自己，一项出色的研究发现，在全球约11个不同的医学课程中，医生们平均只接受了约1.2小时的睡眠教育，而睡眠占据了他们病人生命的三分之一。因此，一系列因素几乎形成了完美的风暴，让社会对睡眠的重要性和价值一无所知。我认为这就是我们常常轻视它的原因，再加上一种可怕的社会偏见。
+### 睡眠“银行”理论的演变
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">because firstly as a subjective sense you just think well my mind was offline for a while. Second we also know that we don't teach the importance of sleep in education and doctors themselves you know there's a great study and they what they found was that medical doctors across I think it was about 11 different curricula around the world they will only receive about 1.2 two hours of education on sleep, but it's a third of their patients lives. So there's a collection of sort of almost perfect storms that have happened to keep society ignorant of the importance and the value of sleep. I think that's why we often so short change it together with also something terrible which is stigma.</p>
-</details>
+自从我们上次交谈以来，关于睡眠表现以及睡眠不足、睡眠障碍、生活方式因素和优化者这三类人群，是否有许多新的睡眠科学和理解？
 
-人们很自豪地说：“我过去几个月吃得很健康”，或者“我过去一年每周都坚持去健身房三次”。但从来没有人会公开宣称：“我每晚都坚持睡足8个半小时”。因为如果你这么说，人们会用一种略带锋芒的语气回应：“真的吗？”这种语气的潜台词是，如果你有时间睡觉，那你肯定不忙；如果你不忙，那你肯定不重要。
+确实，我们有了大量新的证据。但也许我来谈谈中间那类人群。我过去常说，对于睡眠不足的人来说，睡眠不像银行，你无法积累债务。哦，我们来看看。这里可以看到，当你睡得好时，罐子里装满了睡眠信用。然后在一周内，我睡眠不足，可能每晚只睡五小时。所以我不断地陷入债务，失去了所有这些宝贵的睡眠信用，我的系统积累了这种附带债务。我们过去认为睡眠不像银行，一旦你陷入债务，不幸的是，盖子就关上了，即使在周末，如果你试图偿还，也无法将信用重新存入系统。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">that people are so proud to say, well, I've been eating really healthy the past couple of months, or, you know, I've been going to the gym, you know, three times a week consistently for the past year. No one is ever going out into society and saying, you know, I I've been getting 8 and 1/2 hours of sleep consistently every night. Because if you did, people would say, really? And there's a there's a slight edge to the really which is that if you have time to sleep then you must not be busy and if you're not busy you must not be important.</p>
-</details>
+然而，一项发表在**英国生物样本库**（UK Biobank: 一个大型生物医学数据库和研究资源，包含英国50万参与者的遗传、生活方式和健康信息）的研究改变了这种看法。这是一个令人难以置信的数据集，具有革命性意义。在这篇研究论文中，他们研究了超过**90,000名**个体。他们将这些个体分为两组：一组是工作日睡眠不足，周末也睡眠不足的人；另一组是工作日睡眠不足，但周末会补觉的人。结果令人惊讶的是，那些工作日睡眠不足但周末补觉的人，**心血管疾病风险降低了20%**，而那些工作日和周末都睡眠不足的人则没有这种改善。当然，这两组人的心血管疾病风险都高于那些工作日和周末都睡眠充足的人。所以，我并不是说这完全是“免费午餐”。但这是我们第一次意识到，身体中至少有一个主要器官系统，比如你的心脏，确实像银行一样，你可以在周末不断地存入信用，你的系统就不会受到那么大的损害。
 
-### 关注睡眠的不同人群
-首先，我们有一群患有失眠症的人。还有些人患有其他睡眠障碍，比如我们可以谈谈的睡眠呼吸暂停症。另外还有一种叫做“不宁腿综合征”的可怕疾病，患者的腿部会感到一种爬行感，需要不停地按摩和移动，严重扰乱睡眠。顺便说一句，所有这些疾病的漏诊率都非常高。
+然而，许多其他主要的生理系统并没有表现出这种特性。例如，**科罗拉多大学博尔德分校**（University of Boulder, Colorado）的**肯尼斯·赖特**（Kenneth Wright）等人的研究表明，你的免疫系统在周末补觉后不会恢复，你的血糖调节和认知能力也不会。所以，这是我关于睡眠“银行”理论改变看法的一个方面。但还有一套截然不同的新数据，它彻底改变了我对睡眠“银行”这个想法的看法。我们刚才讨论的是，我陷入了债务，然后希望在周末通过信用偿还。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Firstly, we have the collection of people who have insomnia. Those people who have other sleep disorders like sleep apnoa which we can speak about. There's another disorder called restless leg syndrome. It's a terrible disorder where your legs start to feel as though they've got this sort of creepy crawly feeling and you've constantly got to massage them and move them. It's a terrible disruptor of your sleep. All of these disorders are marketkedly undiagnosed, by the way.</p>
-</details>
+### 睡眠“储备”新概念
 
-然后，还有另一群人，他们没有睡眠障碍，但他们的行为却在破坏自己的睡眠。他们可能摄入了酒精、咖啡因、**四氢大麻酚**（THC: 大麻中的主要精神活性化合物）等物质，这些东西并非睡眠的帮手，尽管有时他们会这么认为。此外，还有一些内在因素会妨碍你睡个好觉，比如压力和焦虑。当然，生活本身也可能成为障碍。
+所以，这个罐子代表了你所欠的睡眠债务。没错。我试图在周末强行投入更多“硬币”，看看能否抵消我造成的债务，并在周末结束时恢复到净中性。现在看来，即使你想睡多久就睡多久，也无法做到这一点。但这里有一项新的惊人数据。它来自**沃尔特·里德陆军医学研究所**（Walter Reed Medical Army Institute）的一位名叫**托马斯·巴尔干**（Thomas Balkan）的研究员。他感兴趣的是颠倒问题方向：不是我陷入债务后能否通过信用偿还，而是如果我知道将来会面临债务，能否进行**睡眠储备**（Sleep Banking: 在预期睡眠不足之前，通过延长睡眠时间来积累睡眠“储备”，以减轻后续睡眠剥夺的影响）？
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And then you've got another collection of individuals who they don't have any sleep disorders, but they are either doing things that will dismantle their sleep. So, either they're taking on things into themselves like alcohol, caffeine, THC that aren't the sleep helpers, even though sometimes they think they are. And then you've got perhaps the internal things that will prevent you from sleeping well. Things like stress and anxiety. And then you've also just got life itself that can get in the way.</p>
-</details>
+哦，所以如果我即将进行一次跨国旅行，知道自己会睡眠不足，我能否提前多睡一些来储备睡眠？这就像金融上的比喻：假设圣诞节快到了，你要花很多钱买礼物和各种东西。所以，我知道在十月和十一月，我会勒紧裤腰带，这样当我进入圣诞节期间，花更多钱时，我的银行账户就不会受到那么大的冲击，我不会陷入那么深的债务困境，因为我积累了信用。所以你可以创造**睡眠储蓄**（Sleep Savings: 指通过提前多睡觉来为未来的睡眠不足做准备，类似于储蓄）。
 
-接着，从有睡眠障碍的人群，过渡到那些没有睡眠障碍但可能在睡眠方面做得“不够好”的人群。再然后，就是那些痴迷于把事情做对的人，他们是生物优化者，也就是所谓的“生物黑客”。此外，我还与许多追求卓越表现的个人合作，他们努力争取那最后百分之几的提升，无论是在商界，还是我们经常合作的职业运动员。对于这些人来说，两到三个百分点的改变可能意味着数千万美元的收益，也可能是在奥运会上站上领奖台与否的区别。所以，这是一个由各种各样精彩人物组成的广泛群体。
+没错，这是一个睡眠储蓄系统。所以，他所能做的，不仅仅是把罐子装满，他实际上装得更多，让你几乎拥有了这种美妙的睡眠溢出。他是怎么知道的？他不知道。那只是实验假设。那他们是如何证明的呢？他们让受试者进入一个时期，他们将经历两到三个晚上完全不睡觉或显著减少睡眠。而在之前的一周，这些陆军学员不再被限制在8小时的卧床时间，他们可以卧床10小时，并随心所欲地睡觉。所以他们的睡眠时间从平均7到7个半小时增加到大约8个半小时，甚至接近9小时。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And then moving from the sleep disorders realm to the I don't have a sleep disorder, but I'm probably not doing it right quote unquote when it comes to sleep. Then you've got the people who are obsessed about getting it right and they are the bio optimizers. this sort of the you know the biohackers and then you've also got I work with a lot of high performance individuals who are really trying to just scratch out those last couple of percentages either if it's in business or often we're working with professional athletes. These are the people for whom two or three percentage point changes can be tens of millions of dollars or they can be the difference between standing on a podium at the Olympics or not. And so there's there's a broad collection of wonderful characters.</p>
-</details>
+因此，他们延长了睡眠时间，从而建立了一个缓冲。这就像一个睡眠安全网，当你在睡眠剥夺的困境中时，你会得到支撑，被抬得更高，因此在睡眠剥夺条件下所遭受的损害程度会显著降低，如果你提前储存了睡眠，而不是那些正常睡眠然后面临剥夺的人。后者的认知和精神表现会下降更多。所以他给两组不同的受试者布置了挑战和任务。一组有通过前一周良好睡眠积累的睡眠储蓄，另一组没有。没错。他们的表现差异显著。
 
-### 睡眠研究新前沿：睡眠银行与补觉的真相
-是的，我认为我们掌握了大量的新证据。但或许让我先谈谈中间那部分人群。我过去常说，对于睡眠不足的人来说，睡眠不像银行，你无法累积债务。
+两组受试者相对于睡眠充足的人来说都受到了损害。然而，关键在于你的认知表现下降了多少？他发现，那些在几天或一周前积累了这种睡眠信用或储蓄账户的人，他们所遭受的损害比没有制定任何储蓄计划的人**减少了大约40%**。他们当时没有负债，只是净中性。但他们下降得很快。而那些在睡眠信用系统中存有一些“现金”的人，则没有下降那么多。这对于你所说的那些面临工作冲刺、即将值班40小时的医生、军人、航空人员以及所有新手父母来说，都是非常重要的。这些情况都是我们可以利用睡眠储备的地方。运动员就是一个很好的例子。当我们与运动员合作时，**迈克尔·格罗纳**（Michael Grner）等人已经证明，运动员在重大比赛前一晚通常睡得很糟糕，这当然是因为紧张。但你可以让他们在不那么紧张的前几天储备睡眠，这样即使他们知道自己会睡眠不足，他们的表现也不会受到太大影响。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Yeah, I think there's there's a broad collection of new evidence that we have. But maybe let me come on to the middle group. You know, I used to say that for people who were deficient in their sleep, that sleep wasn't like the bank, that you can't accumulate a debt.</p>
-</details>
+### 睡眠的重要性与社会认知障碍
 
-我们可以看到，这个罐子曾经是满的，装满了睡眠信用，那时你睡得很好。然后，在工作日里，我睡眠不足，可能每晚只睡五个小时。于是，我不断地陷入债务，失去了所有这些宝贵的睡眠信用，我的身体系统也累积了这种附带的债务。我们过去认为睡眠不像银行，一旦你负债，不幸的是，盖子就关上了，即使在周末你试图偿还，也无法再把信用存回系统中。
+睡眠是如此重要，不是吗？我认为现在每个人都知道这一点，这要归功于像你这样的人，你真的是将这个主题推向世界的先驱。我记得你第一次上**乔·罗根**（Joe Rogan）的节目时，我的朋友们给我发来那集节目，然后又发来你的书，数量之多简直令人震惊。那就像是社会主流开始真正谈论和关心睡眠的催化剂时刻。然而，仍有许多人饱受困扰，因为你谈到的那些因素，比如第二类人群的生活方式因素、压力、心理因素、创伤等等。我们能给这些人，那些真正挣扎的人，也许他们没有睡眠障碍，我们稍后会谈到睡眠障碍患者和优化者。但我们能给他们什么新的信息或建议，能帮助他们一劳永二地每晚睡8小时，并找回他们的生活？
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Oh, here we go. Okay. So, what we can see here is that the jar used to be full, full of sleep credit when you're sleeping well. And then during the week, I'm short sleeping. So, maybe I'm only getting five hours a night. So, I'm constantly going into debt. So, I'm losing all of this wonderful sleep credit and my system is building up this collateral debt. And then we used to think that sleep was not like the bank. That once you've gone into debt, unfortunately, the lid is closed and even at the weekend, if you try to pay it back, you can't put back credit into the system.</p>
-</details>
+如果你非要我指出今晚就能开始做的三件最有影响力的事来改善睡眠，它们会是：**数字排毒**（Digital Detox: 指在一段时间内避免使用电子设备，以减少其对身心健康的影响）。
 
-然而，一项发表自“英国生物样本库”（UK Biobank）的研究改变了这一看法，这是一个令人难以置信的、具有革命性的数据集。在这篇特定的研究论文中，他们研究了超过9万名个体。他们基本上将这些人分为几组：工作日睡眠不足且周末也睡眠不足的人，以及工作日睡眠不足但在周末睡得久的人，也就是在补觉。
+### 数字排毒与蓝光迷思
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">However, there was a study published from what's called the UK Bioank, which is this incredible data set. It's revolutionary. And they studied in this particular research uh paper over 90,000 individuals. And what they did was they essentially split them down into those individuals who were short sleeping during the week and then short sleeping at the weekend. And they compared them to those individuals who were short sleeping during the week, but then long sleeping at the weekend. They were doing catch-up sleep.</p>
-</details>
+好的，我记下来了：数字排毒。那是什么意思？睡前一小时，尽量限制会让你兴奋的社交媒体互动、电子邮件和短信。听播客没关系。感谢上帝！各位听众，你们听到了。但点赞和订阅也很好，你说呢？我会说，点赞和订阅，然后点击这里，这样你就能收到最新的通知，点击那个铃铛图标。
 
-事实证明，如果你看数据，会发现有非常多的人会采取这种补觉行为。但令人惊讶的是，与那些工作日和周末都睡眠不足的人相比，那些工作日睡眠不足但在周末睡得久的人，其心血管疾病风险降低了20%。需要明确的是，这两组人的心血管疾病风险都高于那些在工作日和周末都睡眠充足的人。所以我并不是说这完全是免费的午餐。但我们第一次意识到，至少你身体里的一个主要器官系统——你的心脏，就像银行一样。在周末，你可以不断地存入信用，你的系统就不会遭受那么大的损失。
+所以，这不是蓝光的问题。顺便提一下，我们一直被教导这种关于设备蓝光效应的迷思，但这确实是一个迷思。因为一位杰出的澳大利亚研究员，名叫**迈克尔·格拉达扎**（Michael Gradazar）的人，几乎凭一己之力改变了人们对这个问题的普遍看法。他发表了一篇非常有影响力的论文，那是一篇很棒的论文，他们发现睡前一小时阅读iPad会损害你的褪黑素，扰乱睡眠，减少梦境睡眠量，甚至在他们停止阅读iPad后，对梦境睡眠的“爆炸半径”影响持续了一周。这就像药物需要从系统中排出一样，即使你睡前一小时停止使用科技产品，其影响仍然可以在一周后的睡眠扰乱中看到回声。这是一项非常有影响力的研究，发表在一个非常负盛名的期刊上。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And that's so many individuals. It turns out if you look at the data, it's it's remarkable how many people do this this catch-up sleep behavior. But what was amazing is that in the people who were short sleeping during the week but long sleeping at the weekend, they had a 20% reduced cardiovascular disease risk relative to the people who were short sleeping during the week but also short sleeping at the weekend. Now, to be clear, both of those groups had a higher cardiovascular disease risk than people who were sleeping sufficiently during the week and sleeping sufficiently during the weekend. So, I'm not saying that it's a completely free lunch. But for the first time, we realized that at least one system, major organ system in your body is like the bank, which is that if your heart at the weekend you can just keep putting credit back and your system doesn't suffer as much for your heart.</p>
-</details>
+那是多久以前的事了？那大概是十年前。但后来，这位杰出的澳大利亚研究员**迈克尔·格拉达扎**开始说：“我无法复制这些发现。”他发现的不是蓝光的问题。蓝光会改变你的**褪黑素**（Melatonin: 一种由松果体分泌的激素，主要作用是调节睡眠-觉醒周期，帮助身体感知昼夜节律）的某些方面。褪黑素是一种激素，它只是告诉你的大脑和身体什么时候是夜晚，什么时候该睡觉。它不参与睡眠的产生。褪黑素就像百米赛跑的发令员，它让所有赛跑者就位，并开始计时，但它不参与比赛本身的创造。那是一组不同的化学物质。
 
-但是，许多其他主要的生理系统并没有表现出这种特性。例如，科罗拉多大学博尔德分校的肯尼思·赖特等人的研究表明，你的免疫系统、血糖调节能力以及认知能力，在周末长时间睡眠后并不会反弹。所以，这是我在“睡眠与银行”这个问题上改变看法的一个方面。但还有一组全新的、截然不同的数据，彻底改变了我对这个概念的看法。
+它不会让你入睡。如果你查看我们所谓的**荟萃分析**（Meta-analyses: 一种统计学方法，用于综合和分析多个独立研究的结果，以得出更全面和可靠的结论），我们将所有关于某个主题的独立研究汇集到一个大的统计“桶”中，他们发现褪黑素只会将你入睡的速度提高约**3.4分钟**，并且只会将你的睡眠效率提高约**2.2%**。所以，它比安慰剂的效果好不了多少。因此，褪黑素现在，安慰剂效应是所有药理学中最可靠的效应。所以，也许无伤大雅。我还是要回到那三点，但谈到褪黑素，请注意，越多并不总是越好，你可能会让你的早晨大脑陷入浓密的夜间迷雾。我的意思是，10毫克或20毫克的褪黑素是我们所谓的**超生理剂量**（Supra-physiological Dose: 指药物或激素的剂量远高于身体正常生理水平的剂量），这又是一个花哨的医学术语，意思是褪黑素的量级远超你的身体自然释放的水平。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">But again, many of the other major physiological systems don't show that. So work by people like Kenneth Wright at the University of Boulder, Colorado, he's shown that your immune system doesn't rebound after long sleep at the weekend, your regulation of blood sugar, your cognitive ability. So that's one way in which I've changed my mind regarding sleep in the bank. But there's a very different new set of data that has changed my mind completely about this idea of sleep and the bank.</p>
-</details>
+褪黑素是黑暗的信号。通常到了早晨，我们自然释放的褪黑素已经停止，你的水平又降到零。所以，你醒来时，你的身体不再有褪黑素的信号说“是夜晚，是夜晚，是夜晚”。但如果你给自己服用了10毫克或20毫克的褪黑素，你就有风险说：“是的，我知道它会让我‘昏睡’。”但问题是，在醒来的早晨最初的三四个小时里，你会在荷尔蒙褪黑素的迷雾中挣扎，这个荷尔蒙信号告诉你“外面仍然漆黑一片”。不，不是的。外面阳光明媚，但你的身体被欺骗，以为外面漆黑一片，因为你服用了过高的剂量。难怪你早上要喝两三杯咖啡。那么，我应该服用多少剂量的褪黑素呢？大概在**0.1到3毫克**之间。
 
-我们刚才讨论的是，我先欠下了债，然后希望在周末用信用把它还清。但现在有了这些非凡的新数据。它来自沃尔特·里德陆军医学研究所，一位名叫托马斯·巴尔金的研究员。他感兴趣的是将问题的方向反过来：不是在我负债后能否用信用偿还，而是如果我知道未来将面临一笔债务，一笔即将到来的债务，我能否进行“睡眠银行”操作？
+### 褪黑素的适用场景与潜在风险
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Now what we've just discussed here is to say I went into debt and then I was hoping to try and pay it off with credit at the weekend. Now, it turns out you can't do that even if you sleep for as long as you want. But here's this new remarkable data. It came from um Walter Reed Medical Army Institute, a researcher called Thomas Balkan. And what he was interested in was flipping the direction of the question. Not if I go into debt, can I pay back with credit, but what if I know in future I'm going to face a debt, an upcoming debt, can I do sleep banking?</p>
-</details>
+你建议人们服用褪黑素吗？是的，在两种情况下。第一种情况是当你正在经历**时差反应**（Jet Lag: 跨越多个时区旅行后，身体生物钟与当地时间不匹配而引起的生理不适）。它非常有帮助，但时机至关重要。你需要制造那种人工的夜晚信号。比如说，你我都在洛杉矶，我们明天都要飞回伦敦，伦敦比我们早8小时。所以我们飞了一夜，到达伦敦。然后第一晚，假设我们决定在酒店午夜睡觉。问题是，在洛杉矶，我的生物钟仍然是下午4点，因为伦敦早8小时。所以我的褪黑素可能还要6到7小时才会上升。因此，我需要人工“劫持”我的褪黑素系统，告诉我的大脑：“哦，不，现在不是下午4点，现在是午夜。”所以，在时差反应的情况下，它非常有用。
 
-所以，如果我知道我将要环游世界，睡眠会不足，我可以在此之前多睡一会儿来建立一个……用金融来类比的话，就像是圣诞节快到了，你知道会花很多钱买礼物之类的。所以，在十月和十一月，我会勒紧裤腰带。这样，当我进入圣诞消费期，花钱更多时，我的银行账户就不会受到那么大的冲击。我不会陷入那么严重的债务状况，因为我已经积累了信用。所以，你可以建立睡眠储蓄。
+第二种情况是如果你患有**昼夜节律紊乱**（Circadian Rhythm Disorder: 一种睡眠障碍，指身体的内部生物钟与外部环境（如昼夜循环）不同步，导致睡眠问题）。比如说，你是一个**高级昼夜节律相位**（Advanced Circadian Phase: 一种昼夜节律紊乱，患者的睡眠-觉醒周期比正常人提前，导致他们很早就感到困倦并醒来）的人。这意味着你直到凌晨三四点才能入睡，并且你更喜欢在白天大部分时间睡觉。所以你几乎是夜行动物。那是一种基因疾病吗？是的，部分是基因疾病。有多少人患有这种疾病？大约**1%到2%**的人口患有非常严重的**高级昼夜节律相位紊乱**。但褪黑素对他们也有帮助，因为他们的褪黑素问题在于它非常延迟，所以他们直到凌晨4点左右才收到“是夜晚”的信号。你我，根据我们的**时间型**（Chronotype: 指个体在24小时周期内，生理和行为偏向于早起或晚睡的倾向），大约在晚上9点、10点或11点开始收到褪黑素信号。他们可能会延迟5小时。所以如果我们能给他们褪黑素，我们就可以人工欺骗他们的大脑，让它认为他们的生物节律实际上更早，这样他们就能更早入睡，并与社会其他成员更同步。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Oh, so if I've got a big thing coming up where I'm traveling across the world and I know I'm going to be sleep deficient, can I sleep a lot before it to create a What would the financial analogy be? The financial analogy would be, let's say that we're coming up to Christmas. And you're going to spend lots on, you know, presents and all sorts of stuff. So, I know that in October and November, I'm going to tighten my financial belt. So that when I go into the sort of Christmas period and I'm spending a lot more money, my bank account isn't hit as hard. I don't go into as much of a sort of a debt situation because I've built up credit. So you can create sleep savings.</p>
-</details>
+一个人怎么知道自己是否是那种人，是否患有那种疾病？没有办法检测吗？通常，我们会把你带到实验室，测量你的内在水平。我们会关掉所有窗户，所有钟面都拿走，然后让你按照自己的自然节律运行。他们的褪黑素也有与你我一样的上升和下降，只是在24小时时钟上，褪黑素的上升和下降时间点截然不同。对于你我来说，褪黑素在晚上9点、10点或11点开始达到高峰。对于他们来说，是凌晨4点。所以我们可以测量它。这不是他们主观的选择，而是一种生物指令。
 
-没错，这是一个睡眠储蓄系统。所以，他所做的不仅仅是把罐子装满，而是实际上塞进了更多，以至于你几乎得到了这种美妙的睡眠溢出。
+你是否担心褪黑素作为解决生活方式问题导致睡眠障碍的方式越来越受欢迎？因为我看到很多公司都在向我推销含有褪黑素的产品，作为日常睡眠补充剂。我对此非常纠结。我曾站在这个争论的两边，我对此保持谨慎有两个原因。首先是**美国儿科人群**（Pediatric Populations: 指儿童和青少年群体）。是的，儿童褪黑素的使用正在增加。在儿科人群中，它呈指数级增长。事实上，如果你在美国的超市过道里走一走，通常在健康食品区，会有一个很大的紫色区域，那就是褪黑素区。其中很大一部分是专门为儿童设计的褪黑素软糖。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Correct. It's a sleepsaving system. So essentially, you know, what he was able to do, not just put the jar to full, but he was actually packing in even more so that you almost got this wonderful overflow of sleep.</p>
-</details>
+### 褪黑素的儿童用药风险与长期影响
 
-他们所做的是，让这些陆军学员在面临两到三晚完全不睡或睡眠显著减少之前的一周里，将卧床时间从限制的8小时增加到10小时，他们可以想睡多久就睡多久。因此，他们的平均睡眠时间从大约7到7.5小时增加到了大约8.5甚至接近9小时。他们延长了睡眠时间，从而建立了一个缓冲。这几乎就像一个睡眠安全网，当你陷入睡眠剥夺的困境时，你会被支撑起来，因此，在睡眠剥夺的条件下，你所遭受的损害程度会显著降低，前提是你事先储存了睡眠。
+大约三年前发表的一项研究显示，在美国，过去十年中，因**褪黑素中毒过量**（Poisonous Overdose of Melatonin: 指服用过量褪黑素导致中毒的现象）入院的病例**增加了530%**。所以首先，我们必须小心。第二个原因是，褪黑素是一种具有生物活性的激素，它也参与生殖发育。我记得在1970年代进行的研究中，他们观察了正在青春期的幼年雄性大鼠，给它们服用大剂量的褪黑素，结果发现这会**阻碍睾丸的发育，并导致睾丸萎缩**。当然，这些剂量非常高，但我们必须小心。我们认为：“褪黑素是一种天然激素，所以任何天然的东西都是安全的。”褪黑素的整体安全性非常高，它实际上是一种非常好的抗氧化剂。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So what they did is that they woke you up to a period when you're going to have two or three nights of either no sleep or marketked sleep reduction. And in the week beforehand with these army cadetses, instead of being limited to 8 hours of time in bed, they were able to get 10 hours of time in bed and they could sleep all that they want. And so they went from probably an average of about 7 7 and 1/2 hours of sleep to about 8 and 1/2 almost 9 hours of sleep. So they were extending their sleep duration and so that they had built up this buffer. It's almost like a sort of a a sleep safety net that's in place so that when you go into the tumble of sleep deprivation, you're sort of almost bolstered and you're lifted higher and therefore your degree of impermanment that you suffer under conditions of sleep deprivation is significantly less if you banked sleep beforehand.</p>
-</details>
+但你必须小心，因为例如男性补充**睾酮**（Testosterone: 男性主要的性激素，对男性生殖器官发育、第二性征维持以及骨骼、肌肉生长有重要作用），我们知道，如果你注射睾酮大约18个月左右，睾丸本身就会停止产生自己的睾酮，即使你停止外源性睾酮的注射，睾丸也永远不会恢复其产生睾酮的功能。目前，我们还没有证据表明，如果你长期服用大剂量褪黑素，你的身体会停止自然产生褪黑素。我没有看到这方面的证据。事实上，我看到相反的证据，即使在某些小规模研究中，服用6个月甚至12个月后停止褪黑素，其生产也会自然恢复。这看起来没问题。问题是，人们服用褪黑素不仅仅是12个月，他们已经服用多年。我们不知道多年后会发生什么。
 
-与那些只是正常睡眠然后面临睡眠剥夺的人相比，后者的认知和心理表现下降得更厉害。他发现，那些在事前几天、一周内建立起这种信用，这种睡眠储蓄账户的人，他们所遭受的损害比那些没有制定任何储蓄计划的人少了大约40%。
+当我第一次有人给我褪黑素时，我就犹豫了。通过做这个播客，并与像你这样聪明的人交谈，我学到了一个原则：如果你开始为身体制造某种激素，或者如果你开始从外部摄入某种物质，比如睾酮，你的身体就会说：“好吧，我不需要做这个了。”它会试图恢复到系统内物质数量保持平衡的水平，这意味着它会逐渐停止生产。我总是想到睾酮的例子，因为男性都知道，如果我们开始注射睾酮，那么我们几乎必须永远这样做。是的。如果我们想保持那些水平。是的，这就是担忧，生物学中没有免费的午餐，通常如果你对抗生物学，你通常会输。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">versus those people who were just sleeping normally and then faced the deprivation. they went down much further in terms of their cognitive and mental performance. And what he found was that people who had built up this credit, this savings account of sleep in the days, in the week beforehand, they suffered about 40% less of an impairment relative to the people who had not created any savings plan.</p>
-</details>
+总是存在权衡。我的一些朋友经常和我谈论那些“奇迹”般的东西，或者服用**莫达非尼**（Modafinil: 一种用于治疗嗜睡症、睡眠呼吸暂停和轮班工作睡眠障碍的药物，能促进清醒）之类的东西，然后一切都会好起来。但代价是什么？当他们说“没有代价”时，我最担心，因为那时我就知道我们还不了解它。是的，你必须小心，因为**缺乏证据并非没有证据**（Absence of Evidence is Not Evidence of Absence: 指没有证据证明某事不存在，并不代表它真的不存在）。在与你的生理机能打交道时要非常小心。
 
-这对于那些像你所说的人来说是了不起的，比如，如果我工作上要冲刺，或者我是一名医生，知道自己接下来40个小时都要待命。还有军人、飞行员、所有的新手父母。所有这些情况，我们现在都知道，运动员也是一个很好的例子。当我们与运动员合作时，像迈克尔·格兰德纳这样的人已经证明，运动员在重大比赛前一晚通常睡得很糟糕。当然，这是因为紧张。但你可以让他们在不那么紧张的前几天储存睡眠，这样即使他们知道自己会睡眠不足，他们的表现也不会受到太大影响。
+### 改善睡眠的三大核心建议
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">But this is remarkable for people like you were saying who are facing, let's say, if I've got a sprint at work or I'm a medical doctor, I know I'm about to go on call for the next 40 hours. You're a military, aviation, all of the new parents. All of these circumstances are places where now we know athletes is a great example. When we work with a athletes, people like Michael Grner have demonstrated that athletes sleep terribly typically the night before a huge performance. No matter, you know, of course, they're nerves. But what you can do is you can have them bank sleep in the days before when they're not as nervous and therefore their performance doesn't suffer as much even though they know they're going to be deprived.</p>
-</details>
+所以回到那三件事，我们提到的第一件事是**数字排毒**，不要担心蓝光。担心的是一般的**光照**。我稍后会谈到这一点，因为这是第二点。但正如我所说，**迈克尔·格拉达扎**发现蓝光并不会真正扰乱你的睡眠。首先，我们使用的这些设备是**注意力捕获设备**（Attention Capture Devices: 指旨在吸引和长时间 удержи用户注意力的电子设备或应用程序），它们旨在无情地攫取你的注意力经济，而且它们做得非常成功。他们花费了数千万美元来设计这些产品。
 
-### 改善睡眠的三大支柱
-如果你非要我说出三件今晚就能开始做、最有影响力的事来改善睡眠，那会是以下几点：数字排毒。
+所以，这些设备会变得非常活跃，结果它们会有效地“静音”你的困倦感。你可能躺在床上，晚上11点，心想：“我好累啊，我刚才在沙发上看电视都快睡着了。”然后你上床，开始刷社交媒体，然后陷入**“刷屏式消遣”**（Doomscrolling: 指长时间沉迷于阅读负面新闻或社交媒体内容的行为），接着就陷入了我们所谓的**“床腐烂”**（Bed Rotting: 指长时间躺在床上，除了睡觉外还进行其他活动，如看电视、玩手机、吃东西等，导致床与睡眠的关联减弱）状态，你只是坐在那里，现在看看时钟，已经不是晚上11点，而是凌晨1点，你只是做了**睡眠拖延**（Sleep Procrastination: 指尽管知道需要睡觉，但仍选择推迟入睡，从事其他活动）。现在看来，这些确实是会抑制你困倦感的注意力捕获设备，但你必须是某种特定的人格类型。他发现并非所有人都容易受到设备对睡眠的干扰。你必须是那种可能神经质、冲动性高或高度焦虑的人。如果你是这其中任何一种，你就应该非常小心在卧室里使用科技产品。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">If you were to push me to say what are the three most impactful things that you can start doing tonight to start sleeping better, it would be the following. Digital detox.</p>
-</details>
+现在，我坐在这里说：“看，把你的手机放在车里，放在车库里。”那样的话，你知道，那是我所希望的，因为在这个现代社会，我们学会了醒来后做的第一件事是什么？不，不予置评。很多人。你，就你和我，**斯蒂芬**（Stephen）。我甚至在眼睛还没睁开之前就抓起了手机。结果是，一股小小的焦虑海啸会席卷而来，因为一旦你解锁手机，那都是别人的日程，而不是你自己的。这是一种糟糕的醒来方式。你有没有过这样的经历：你必须早起赶飞机，而且那是一趟非常重要的航班。你知道那一晚不会睡个好觉，那会是一种浅层睡眠。这就是我们所说的**预期性焦虑**（Anticipatory Anxiety: 指对未来可能发生的负面事件感到过度担忧和紧张）。你正在预期一个令人焦虑的早晨事件。研究表明，当我们产生这种预期性焦虑时，你的深度睡眠量会显著下降。你睡得不好。因此，如果我们只是做这种小版本的早班机情况，我们知道当我们上床放下手机时，我们知道每天早上醒来时，我们都会再次受到焦虑的冲击。难怪我们的睡眠会变得越来越浅。
 
-睡前一小时，尽量限制那些会让你兴奋的社交媒体互动、电子邮件和短信。听播客是没问题的。
+现在，我不会坐在这里说：“不要把手机带进卧室”，因为精灵已经从瓶子里出来了，无论我说什么，它都不会很快回去。我的朋友**迈克尔·布兰德**（Michael Brander）有一个很棒的框架，他说你可以把手机带进卧室，没关系。但你只能站着使用手机。他叫什么名字？**迈克尔·格兰德**（Michael Grande）。他很棒。管好自己的事。结果是，你站在那里，大约七八分钟后，你会想：“我得坐下来休息一下。”这时手机就会被放下。所以，我会说数字排毒是第一个真正能帮助你睡眠的朋友。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">1 hour before bed, try to limit activating social media engagement, email, and text messages that are going to trigger you. It's fine to listen to a podcast, you know.</p>
-</details>
+第二个是**规律性**。当我们谈论什么才是良好睡眠时，我们会谈到规律性。如果你只做一件事，不是三件事，而只是一件事，那就是：**每天在相同的时间睡觉和起床**。无论工作日还是周末，规律性是王道。好的，那是第三个支柱。没错。规律性。好的。然后我有T代表**时间**。没错。我们将讨论这些。还有**数量**，我们已经谈到了一些，以及**质量**。没错。
 
-快速说一下，我们一直被灌输一个关于设备蓝光效应的迷思，但这确实是一个迷思。因为一位出色的澳大利亚研究员，迈克尔·格拉迪萨，他几乎凭一己之力改变了曾经的主流看法。此前一篇非常有影响力的论文指出，睡前一小时阅读iPad会损害你的褪黑素，扰乱睡眠，减少梦境睡眠量。甚至在停止阅读iPad后，其对梦境睡眠的冲击波影响还会持续一周。
+### 良好睡眠的四大要素：QQRT
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">so it's not a problem of blue light a quick aside we've been taught this myth of the blue light effect from devices and it really is a myth because an incredible Australian researcher a guy called Michael Gradazar has almost singlehandedly changed the the what I think of as being the zeitgeist for a while after a very influential paper which is a great paper and what they showed was that 1 hour of iPad reading before bed ended up impairing your melatonin it disrupted sleep it reduced the amount of dream sleep and even after they stopped reading the iPad the blast radius impact on your dream sleep lasted a week.</p>
-</details>
+所以，当我研究科学时，我为自己创建了良好睡眠的**四大宏观要素**（Four Macros of Good Sleep）框架。你听说过食物的三大宏观营养素：脂肪、蛋白质、碳水化合物。对我来说，良好睡眠有四大宏观要素，那就是**QQRT**。QQRT代表**数量**（Quantity）、**质量**（Quality）、**规律性**（Regularity）和**时间**（Timing）。不要把它想成支柱，而要把它想成椅子的四条腿。如果其中任何一条变得不稳定，椅子就会翻倒。
 
-但后来，这位杰出的澳大利亚研究员迈克尔·格拉迪萨开始表示，他无法复制这些发现。他发现，问题不在于蓝光。当然，蓝光会改变褪黑素的某些方面。褪黑素是一种激素，它只是告诉你的大脑和身体何时是夜晚，何时该睡觉。它不参与睡眠的产生过程。
+我可能会从人们听我反复强调的“数量”开始。**7到9小时**。8小时的迷思是无稽之谈。7到9小时是一个很好的范围。我们知道，如果你睡眠少于这个最佳范围，你的睡眠越短，你的寿命就越短。**睡眠不足预示着全因死亡率**（All Cause Mortality: 指在特定人群和特定时期内，所有原因导致的死亡率）。现在，我们说最低睡眠时间是7小时。有些人可能会正确地争辩说：“看，如果你看这些死亡率曲线，睡6小时和睡7小时之间没有太大的百分比差异。所以6小时就很好。”所以你说的这些废话和言论都是愚蠢的。我认为他们混淆了概念，因为7小时是你生存所需的最低睡眠量。因为我们衡量最低睡眠量的方式是基于你是否过早死亡。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">But then Michael Gretazar, this incredible Australian researcher started to say, well, I can't replicate these findings. And what he was discovering is that it's not the blue light that's the problem. Now, the blue light will change aspects of your melatonin. And melatonin is a hormone. It simply tells your brain and your body when it's nighttime, when it's time to fall asleep. It doesn't participate in the generation of sleep.</p>
-</details>
+你生存所需的睡眠量与你茁壮成长所需的睡眠量是不同的。人们会将前者与后者混淆。所以当人们在社交媒体上吹嘘说：“不，你看，我的生存率在6小时和7小时之间没有太大差异。”你可能拥有同样长的寿命，但你的生活质量会非常不同。所以，这就是数量：7到9小时。顺便问一下，这对于父母来说会改变吗？因为我见过很多父母，他们似乎比我功能更好，他们有四五个孩子，只睡四五个小时。进化在他们有了孩子后，难道没有给父母任何余地或改变他们的大脑，让他们现在可以睡更少吗？
 
-褪黑素就像百米赛跑的发令员。它把所有赛跑者带到起跑线上，并开始计时，但它不参与比赛本身的创造过程。那是另一组化学物质的作用。如果你看一下我们称之为**荟萃分析**（meta-analyses: 将关于某一主题的所有独立研究汇总并进行统计分析的方法）的结果，你会发现褪黑素只能将你入睡的速度提高约3.4分钟，并将你的睡眠效率提高约2.2%。所以，效果并不比安慰剂好多少。
+### 父母睡眠与进化的“牺牲”
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Melatonin is like the starting official at the 100 meter race. It brings all of the races to the line and it begins the timing of the race, but it doesn't participate in the creation of the race itself. That's a different set of chemicals. It doesn't make you go to sleep. It doesn't make you and if you look at what we call meta analyses where we gather together all of the individual studies on a topic and we put them in a big statistical bucket. What they found is that melatonin will only improve the speed with which you fall asleep by about um 3.4 minutes and it will only increase the efficiency of your sleep by about 2.2%. So not much more than placebo.</p>
-</details>
+证据并不表明，一旦你成为父母，你就会获得某种神奇的“免疫注射”，让你变得有韧性，不易受睡眠不足的影响。在某些方面，你可以争辩说，因为我们过去是集体部落生活，我们会分担职责，在那时，大自然母亲并不太担心你，因为你已经繁衍后代，传递了你的基因代码。所以你现在是，你知道，通过进化，你是一个没有得到特别好照顾的个体。你的后代得到了照顾，所以它在某种程度上牺牲了你。
 
-### 深入解析：褪黑素、蓝光与其他常见误区
-关于褪黑素，要小心，并非越多越好。你可能会冒着让你早晨的大脑陷入浓重的夜间迷雾的风险。我的意思是，10毫克或20毫克的褪黑素是我们所说的“超生理剂量”，这是一个花哨的医学术语，意思是你身体永远不会自然释放如此大量的褪黑素。
+我的意思是，我们在动物界也看到了这一点。你看到那部关于章鱼的纪录片了吗？是的，那是一部美丽的纪录片。对于没看过的人来说，简单来说，章鱼一旦产卵就会死亡。它基本上不会离开那个洞穴，然后就死了。这是大致情况吗？嗯，我不知道它是否真的死了，但它的活跃生命水平。我查了一下，“章鱼繁殖后会死吗？”答案是肯定的。雌性章鱼在卵孵化后会死亡。产卵后，雌性会停止进食，将所有精力投入到保护和供氧上，直到卵孵化。一旦孵化，她很快就会死亡，这个过程被称为**单次繁殖**（Semelparity: 指生物一生中只繁殖一次，然后死亡），意味着它们只繁殖一次。这种死亡是由视腺的荷尔蒙变化触发的，类似于哺乳动物的性腺。雄性在交配后不久也会死亡，通常在几个月内。这在某些方面是疯狂的。它很悲惨，这让我想起，我很高兴我不是章鱼。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">when it comes to melatonin be careful more isn't always better and you run the risk of confusing your morning brain into a dense nighttime fog. And what I mean by that is 10 milligrams or 20 milligrams of melatonin is what we call a supra physiological dose, which again is just a fancy medical term to say it's a size of magnitude of melatonin that your body would never naturally release. It's far greater.</p>
-</details>
+但回到正题，似乎没有一种神奇的“无敌斗篷”让你在为人父母后穿上。我们确切知道的是，能够以6小时或更少的睡眠时间生存，并且大脑或身体没有任何损伤的人数，四舍五入到整数并以人口百分比表示，是**零**。
 
-褪黑素是黑暗的信号。通常到了早晨，我们自然分泌的褪黑素已经停止，水平降至零。所以你醒来时，身体不再有褪黑素信号告诉你“现在是晚上”。但如果你服用了10或20毫克的褪黑素，你可能会说，“是的，我知道它能让我‘昏睡’过去”。但问题是，在醒来后的头三四个小时里，你会感到非常挣扎，因为你处在一种荷尔蒙迷雾中，褪黑素这种荷尔蒙信号还在说“现在是漆黑的夜晚”。不，外面已经天亮了，但你的身体被误导，以为还是漆黑一片，因为你服用了过高的剂量。难怪你早上需要喝两三杯咖啡。
+### 睡眠质量与效率
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So melatonin is the signal of darkness. And normally by the morning hours, our natural release of melatonin has stopped and you're down to zero levels again in the morning. So, you wake up and your body no longer has the signal of melatonin saying it's night, it's night, it's night. But if you've dosed yourself with 10 milligs or 20 milligs of melatonin, you run the risk of saying, well, yes, I know it quote unquote knocks me out. But the problem is in the first, you know, 3 or 4 hours of the waking morning, you're struggling because you're in this fog of a hormonal melatonin, a hormonal signal saying it's still pitch black. No, it's not. It's bright light outside, but your body is fooled into thinking it's pitch black because you've dosed yourself too high. And no wonder you're reaching for two or three cups of coffee in the morning.</p>
-</details>
+所以数量很重要，但事实证明，我们认为数量是唯一重要的东西是错误的，因为后来又有了**质量**。所以**QQRT**中的“质量”在睡眠科学中定义为两件事。第一件事是你的睡眠追踪器会测量到的，那就是你睡眠的**连续性**（Continuity of Sleep: 指睡眠过程中不间断的程度，连续性好的睡眠意味着较少的夜间醒来）。意思是，你是否在整个晚上睡了一到两个良好、长时间的片段？那是高质量的睡眠，良好的连续片段，而不是你的睡眠被所有这些觉醒打断，非常碎片化。那是质量很差的睡眠。你可以在睡眠追踪器中通过查看应用程序来测量它。会有一个叫做**睡眠效率**（Sleep Efficiency: 指在床上时间中实际用于睡眠的百分比）的指标。睡眠效率定义如下：你在床上花费的时间中，有多少百分比是实际睡着的？我们希望看到的是**85%或以上**。如果你低于这个数字，我们就需要谈谈了。这是第一点，高质量的睡眠。
 
-那么我应该服用多大剂量的褪黑素呢？大概在0.1到3毫克之间。
+第二点是这些追踪器无法真正做到的，但我可以在睡眠实验室里做到，当你看起来像个“意大利面怪物”，因为我把电极贴满了你的头部。我可以测量你的**深度非快速眼动睡眠**（Deep Non-REM Sleep: 睡眠的第三阶段，以出现大量慢波脑电活动为特征，对身体恢复和记忆巩固至关重要）中巨大、深沉、缓慢的脑电波的质量。这是第二个衡量标准。那些巨大、缓慢脑电波的强度。这是第二个衡量标准。而且，质量似乎与数量一样，在影响你的**全因死亡率**方面具有预测性，但在心理健康方面，质量甚至比数量显示出更大的信号。所以，这并不是说数量不重要。你确实需要获得充足的睡眠，但质量和数量一样，都应该受到重视，而我以前没有足够强调这一点。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So, what what dose of melatonin should I be taking? Somewhere between probably about 0.1 to 3 millig.</p>
-</details>
+### 规律性：比睡眠量更重要的预测因子
 
-我建议在两种情况下使用褪黑素。第一种是当你经历时差时，它非常有帮助，但时机至关重要。第二种情况是如果你有**昼夜节律**（Circadian Rhythm: 生物体内约24小时为周期的生理和行为节律，即生物钟）障碍。比如说，你是一个昼夜节律提前的人，这意味着你可能要到凌晨三四点才能感到困意，并且更愿意在白天大部分时间睡觉。
+接下来就是我们之前提到的三件事中的一点。第一是数字排毒。然后我说的是**规律性**。这也是我改变看法的地方。我更加强调了规律性。我之前描述的那个数据集，即**英国生物样本库**数据，也有一项研究从中得出。他们没有研究90,000名个体，而是研究了**60,000名**个体。他们决定将这些个体进行比较，并分为四个四分位数。从最规律的到第二规律的，再到第三规律的，最后四分位数是最不规律的。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Yes, in two conditions. The first or circumstances I should say. The first is when you're going through jet lag. Wonderfully helpful. But timing is critical. The second is if you have a circadian rhythm disorder. Let's say that you're someone who has a an advanced circadian phase. What that means is you're someone who really can't get sleepy until 3 or 4 in the morning and you would prefer to be sleeping throughout most of the day.</p>
-</details>
+在这种情况下，“规律”是什么意思？好问题。高度规律的个体指的是在入睡和醒来时间上，**误差在正负15分钟以内**。换句话说，总共只有30分钟的浮动空间。哦，好的。所以，如果我总是晚上9点睡觉，连续5天都这样做，那我就是作息规律的。所以，规律性指的是你入睡和醒来的时间。所以，你说的没错，在某种程度上是时间，但我稍后会解释为什么“时间”有一个单独的T。但这里的规律性是，好的，正负。所以，假设你一晚8点45分睡觉，然后9点，然后9点10分，然后又回到8点。那是完美的紧密时间安排，我喜欢。而那些最不规律的人，他们的睡眠时间相差90到120分钟。他们一晚11点睡觉，下一晚凌晨1点，然后又10点半，然后又12点半。他们作息非常混乱。
 
-我对此感到担忧，原因有二。首先，在美国的儿科人群中，儿童使用褪黑素的情况正在呈指数级增长。事实上，如果你去美国的超市，通常在健康食品区会有一个大的紫色区域，那就是褪黑素区。其中很大一部分是专门为儿童准备的含褪黑素的软糖。
+他们发现，那些最规律的人与最不规律的人相比（他们比较了这两个极端），**最规律的人全因死亡率相对降低了49%**。所以他们过早死亡的可能性比最不规律的人低49%。他们**癌症死亡风险降低了39%**。太棒了。他们**心血管代谢疾病风险降低了57%**。这令人震惊。规律性作为预测不同形式死亡率的信号，其力量令人难以置信。但这并不是这篇论文最精彩的部分。他们还测量了这些个体睡眠的数量和规律性。然后他们决定说：“好吧，我们将把数量和规律性的测量结果放在同一个统计‘桶’中，进行一次‘可口可乐与百事可乐’的挑战，看看哪个在预测全因死亡率方面胜出。”我们睡眠领域的所有人，至少我当时是，都认为会是数量。我错了。**规律性在预测全因死亡率方面胜过了数量，而且优势相当大**。这并不意味着你现在可以去说：“我要开始睡4小时了。”但要非常一致地睡4小时。你需要数量和质量兼备。但天哪，规律性似乎携带着巨大的信号。所以回到那三件事，我会说数字排毒，就是每天在相同的时间睡觉和起床。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">I'm cautious about it for two reasons. The first is in pediatric populations here in the United States. Yeah. So the people's use of melatonin in kids is increasing. So in pediatric populations it's increasing exponentially. And in fact, if you go down the sort of the the supermarket aisles here in America, often if you go into sort of the the health sort of food section, there's this big purple section. That's the melatonin section. And a large proportion of that is there dedicated to gummies for your children with melatonin.</p>
-</details>
+### 光照：现代社会的“垃圾光”问题
 
-大约三年前发表的一项研究显示，在美国，过去10年里，因褪黑素中毒过量而入院的案例增加了530%。所以首先，我们必须小心一点。第二个原因是，褪黑素是一种具有生物活性的激素，它也参与生殖发育。
+最后一件事是**光照**。在这个现代世界，我们是一个**“黑暗剥夺”的社会**（Dark Deprived Society: 指现代社会中，由于人造光源的普及，人们在夜间暴露在过多的光线中，导致身体无法获得足够的黑暗信号）。我们晚上会接触到我所谓的**“垃圾光”**（Junk Light: 指在夜间不必要或过度的光照，它会扰乱人体的昼夜节律和睡眠）。你听说过“垃圾DNA”，我们晚上也接触到“垃圾光”。我们不需要所有这些光，它会欺骗我们的大脑，让它以为外面仍然是白天。所以，作为一个社会，我们在夜间睡眠方面存在一些困难也就不足为奇了。这有很多原因：压力、过多的咖啡因、酒精、**四氢大麻酚**（THC）。但过度的光照是你可以做的最简单的事情之一。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And there was a study that was published about three years ago that showed here in America over the past 10 years there has been a 53% increase in poisonous overdose admissions to hospitals of melatonin in the past 10 years. 503% increase. So firstly, we've got to be a bit careful. The second reason is that melatonin is a bioactive hormone and it's also involved in reproductive development.</p>
-</details>
+所以，在接下来的7天里，请你做这个实验。如果你能设定一个闹钟，比你平时睡觉时间提前1小时。当闹钟响起时，关掉——我自己也这样做——关掉家里几乎所有的灯。当你提到“所有的灯”时，你是指烟雾报警器上的小红灯吗？不，那没关系。但，你知道，我和我妻子在睡前1小时，几乎所有的灯都关掉。我们电视周围有一组小灯，在电视背面，所以看起来电视很酷，很亮。我会把它的亮度调到大约**5%**，其余的灯都关掉，这样你仍然可以看到一些光线，这样我就不会在她面前显得非常不酷，因为一片漆黑，你知道。
 
-我们还没有证据表明，如果你持续高剂量服用褪黑素，你的身体会停止自身褪黑素的自然分泌。我没有看到任何这方面的证据。事实上，我看到的证据恰恰相反，即使在服用6个月甚至某些小型研究中的12个月后，当你停止服用褪黑素，身体的自然分泌会重新开始，看起来没有问题。问题是，人们服用褪黑素不仅仅是12个月，他们已经服用了好几年。我们完全不知道几年后会发生什么。
+然后，尽可能地将房子或房间的温度降到大约**华氏67-68度**（约**18摄氏度**）。我们可以谈谈温度，但你只需在接下来的7天里做这个实验。睡前1小时，闹钟响起。你关掉所有的灯，然后问自己以下问题：你是否感到更困倦？它是否具有催眠作用？结果是否让你感到更困倦？但不要止步于此。你所做的只是第一个积极的实验，即你从没有干预（灯开着）到**马特**（Matt）的干预（睡前1小时关灯）。不要只问：“睡前1小时关灯时，我的睡眠是否更好？”当7天结束后，回到你以前的做法，即所有灯都开着，然后问自己：“在我进行干预时，我的睡眠是否变好了，当我停止干预时，我的睡眠是否又变差了？”因为我试图教你实验中的**双向性**（Bidirectionality: 指实验设计中同时观察干预前后的变化，以及干预停止后的反向变化，以更全面地评估效果）。这有道理吗？是的。所以你基本上可以进行**A/B测试**（A/B Test: 一种对照实验，通过比较两个或多个版本（A和B）的效果来确定哪个版本表现更好）。没错。你可以看到等式的两边。有了这个，它比仅仅一个方向更有确凿的证据，因为谁知道它可能只是安慰剂效应。所以，规律性仍然至关重要。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Now, we don't have any evidence yet that that's the case that if you keep taking melatonin at high dose, your body, the fear would be shuts down its own natural production of melatonin. I've seen no evidence of that. In fact, I've seen evidence the contrary that even after about 6 months or even 12 months in certain small cities, when you stop melatonin, the production starts again naturally. It seems fine. Problem is, people haven't been taking melatonin for just 12 months. They've been taking it for years. We've got no idea what happens after years.</p>
-</details>
+### 睡眠规律性背后的生物学机制
 
-生物学里没有免费的午餐，通常情况下，如果你与生物学对抗，你多半会输。总会有权衡。
+我们已经谈到了**QQRT**中的数量、质量、规律性。关于规律性这一点，我们的大脑中发生了什么，从荷尔蒙或其他角度来看，为什么同时睡觉对我们很重要？这是一个非常棒的问题。人们不响应规则，他们响应理由，而不是规则。所以让我试着解释一下这个规则背后的理由。谈到规律性，我们有一个叫做**昼夜节律**（Circadian Rhythm: 身体内部的24小时生物钟，调节睡眠-觉醒周期、激素分泌等生理功能）的东西，我们已经谈过了。你的大脑深处，在大脑中部，有一个时钟。所以我们这里有一个大脑。好的。我们这里有一个半球。然后我将取出我们所谓的**皮层下区域**（Subcortical Sections: 大脑中位于大脑皮层下方，参与情绪、记忆、运动控制等功能的区域）。所以这些是皮层下方的区域。这里是大脑。这是大脑的前部，大脑的后部，大脑的顶部，这里是脑干。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Yeah. That's the worry is that there are no free lunches in biology and usually if you fight biology you typically lose. There's always a tradeoff.</p>
-</details>
+事实证明，在大脑的正中央，就在这里，有一个叫做**下丘脑**（Hypothalamus: 大脑中一个重要的结构，负责调节多种生理功能，包括体温、饥饿、口渴、睡眠和激素分泌）的区域。现在，这里的这个结构，是**丘脑**（Thalamus: 大脑中一个重要的感觉中继站，将大部分感觉信息传递到大脑皮层）。这是你大脑的感觉门户。所以你所有的五种感官，声音、触觉、味觉、嗅觉，它们都涌入这个叫做丘脑的门户。然后丘脑会决定是否将这些感觉信号发送到你的皮层。当它将信号发送到你的皮层时，你就会开始处理它们，并有意识地感知外部世界。
 
-回到我们提到的三件事。第一件事是数字排毒，别担心蓝光，而要担心普遍的光线。我稍后会谈到这一点，因为那是第二点。但正如我所说，迈克尔·格拉迪萨发现，蓝光并不会真正扰乱你的睡眠。问题在于，我们使用的这些设备是注意力捕捉设备，它们被设计用来无情地榨取你的注意力经济，而且它们做得非常出色。
+现在，当我们入睡时，顺便说一句，有趣的是，这个门户，这个感觉门户，丘脑，一旦我们开始入睡，这个门户就会关闭。现在你的眼睛在技术上仍然在看，你的耳朵仍然在听，你的舌头仍然在尝，但因为丘脑这个感觉门户关闭了，那些进入你大脑的信号就不再发送到你的皮层。所以你停止感知外部世界，这只是换一种说法，就是你睡着了。现在下丘脑，你听说过“低血压”或“低温”，这表示“低”。所以这里是丘脑。这个区域叫做下丘脑。它是一个微小的结构，但在这个结构中含有一个**核团**（Nucleus: 在神经科学中，指大脑中由神经元细胞体聚集形成的特定功能区域）。那组细胞，这个核团有一个花哨的术语，叫做**视交叉上核**（Suprachiasmatic Nucleus, SCN: 位于下丘脑，是哺乳动物的主要生物钟，负责调节昼夜节律）。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So to come back to sort of the three things, the first thing we were mentioning is digital detox and don't worry about the blue light. Worry about light in general. I'll come on to that because that's the second. But Michael Gratazar as I was saying what he found is that the blue light doesn't really disrupt your sleep. It's a combination of first these devices that we use are attention capture devices and they are designed to fleece you of your attention economy and they do it ruthlessly well.</p>
-</details>
+**视交叉上核**是你的**主24小时时钟**（Master 24-hour Clock: 指视交叉上核，它是身体所有生物钟的协调者）。你身体的每个细胞内部都有一个时钟。但这是主时钟。它就像《指环王》一样，有一枚戒指可以统治所有。嗯，有一个时钟可以统治所有。在视交叉上核中，你获得了清醒和睡眠的24小时节律，清醒和睡眠的24小时节律。你的大脑如何保持石英般的精确24小时时钟时间？它是如何做到的？它通过使用光线和黑暗等信号。
 
-结果发现，这些设备确实是吸引注意力的设备，会抑制你的睡意，但你必须是特定性格类型的人。他发现，并非我们所有人都容易受到设备对睡眠的干扰。你必须是那种可能有些神经质、冲动性高或焦虑程度高的人。如果你属于这些类型，你应该非常小心在卧室里使用科技产品。
+从你的眼睛。所以当光线通过视网膜时，它会告诉下丘脑现在是白天，因此你应该清醒。它的节律开始其惊人的上升。温度可以做到这一点，进食也可以做到这一点，各种不同的事情都可以。但大部分情况下，**光线是主要的调节器**，它本质上就像电动的，我应该说是光子手指，弹出腕表表盘并精确地重置它。所以，每天24小时。因为如果你在黑暗中，没有光线信号，你的时钟就不精确。它会漂移到大约24小时15分钟。所以，如果你进入一个洞穴，你每天都会稍微提前一点。人们已经做过这个实验。保持它精确的东西是光线。所以，你需要光线来保持一个美丽的24小时节律。其中一个受你的24小时节律控制的东西就是你的睡眠-觉醒周期。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Now it turns out that it's yes that that these are attentiongrabbing devices that will mute your sleepiness, but you have to be of a certain personality type. He found not all of us are vulnerable to this sleep disruption of devices. You have to be someone who is perhaps neurotic, someone who has high impulsivity or someone who is perhaps high anxious. If you are of any of those kinds, you should be really careful about your use of technology in the bedroom.</p>
-</details>
+### 运动与光照对昼夜节律的影响
 
-第二点是规律性。当我们谈到什么才是真正的好睡眠时，我们会回到规律性。如果你只能做一件事，不是三件，而是一件，那就是：在同一时间上床睡觉和起床。无论工作日还是周末，规律性是王道。
+如果我在锻炼呢？**运动**是调节你昼夜节律的一个绝佳**训练器**（Entrainer: 指能够影响和调整生物钟的外部因素），只要你在正确的时间进行。所以，如果你在凌晨三四点开始锻炼，那就不好了，因为那是一个活动信号，它会混淆大脑，让它以为现在是活跃期，而我们作为昼行物种，活跃期通常是白天。这又回到了我关于规律性的观点。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">The the second is regularity. And we'll come on to regularity when we speak about you know what really makes for good sleep. If you were to only do one thing, not three things, but just one thing. Go to bed and wake up at the same time. No matter whether it's the weekday or the weekend, regularity is king.</p>
-</details>
+利用光线是帮助保持规律性的最佳方式，因为如果夜间有**人造光**，它会欺骗你的大脑，让它以为外面仍然是白天。我的意思是，有没有非人造光这种东西？我的意思是，我想是太阳光，但我的意思是，有没有一种我可以在晚上使用的光，比如蜡烛之类的？是的，低于**30勒克斯**（Lux: 国际单位制中照度的单位，表示每平方米的光通量），不会对你造成损害。可能低于50勒克斯。**勒克斯**（Lux: 光照强度单位）只是光照强度的测量单位。你可以在应用商店下载一个免费的勒克斯计。如果你像我一样是个书呆子，你会在晚上拿着它在房子里到处走，把它放在不同的位置，看看哪里有任何白点，你知道，那里的勒克斯太高了，你需要降低那个勒克斯。
 
-最后一点是光线。在这个现代世界，我们是一个缺乏黑暗的社会。我们在夜晚接触到我称之为“垃圾光”的东西。我们不需要所有这些光线，它会欺骗我们的大脑，让它以为外面还是白天。所以，作为一个社会，我们在夜间睡眠方面遇到一些困难也就不足为奇了。
+顺便说一句，如果人们想说：“看，我的**REM睡眠**（Rapid Eye Movement Sleep: 快速眼动睡眠，是睡眠的一个阶段，以眼球快速运动、肌肉松弛和生动的梦境为特征）不足。我怎样才能获得更多的REM睡眠？”有一个很棒的研究，他们做了类似我现在告诉你的事情。睡前90分钟，他们将灯光调低到**30勒克斯以下**，并去除了所有蓝光。仅仅是这个技巧——睡前90分钟将灯光调低到30勒克斯以下，使其变成温暖的黄光——就将他们的REM睡眠增加了**18%**。哇，这是一个巨大的幅度。所以，不需要药物治疗。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And the final thing is light. In this modern world, we are a dark deprived society. We get what I call junk light at night. So you've heard of junk DNA. Well, we get junk light at night. We don't need all of this light and it fools our brain into thinking it's still daytime outside. So no wonder as a society we have some struggles with sleep at night.</p>
-</details>
+### 行为规律性对睡眠的锚定作用
 
-在接下来的7天里，就做这个实验。如果可以的话，在你通常睡觉时间前一小时设置一个闹钟。当闹钟响起时，关掉家里几乎所有的灯。
+但回到你的问题，为什么规律性很重要？我告诉你，光线是能够创造规律性的信号之一。事实证明，你的**行为**是另一个会告诉大脑的事情。所以，这意味着当你同时上床睡觉和起床时，它就像一个**锚**（Anchor: 在这里指一种稳定的参考点，能够固定和稳定昼夜节律）。它锚定了你的昼夜节律，它几乎像电影中的一个场景一样告诉你：“这个场景现在完成了。一个新的场景开始了。这个场景完成了。一个新的场景开始了。”
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So for the next 7 days, just do me this experiment. If you can set an alarm 1 hour before your normal bedtime. When that alarm goes off, turn off, and I I do this myself, turn off almost all of the lights in your house.</p>
-</details>
+所以，每次你同时上床睡觉和起床时，你都在向**视交叉上核**，即你大脑中的主24小时时钟，输入规律性的信号。当它接收到规律性的信号时，它会改善你睡眠的数量和质量。你的昼夜节律喜欢一致性。它喜欢规律的信号。当你向它输入光线、活动、起床、睡觉的信号时，你就会改善睡眠的数量和质量。这就是这个基本规则背后的原因。所以，卧室里有电视是一个糟糕的主意，因为从行为角度来看，如果我上床睡觉，但却熬夜3小时看Netflix，我的大脑会非常困惑我生活中的行为模式。它不会将床与睡眠联系起来。它会将床与电影联系起来。
 
-### 睡眠的四大宏观指标：QQRT框架
-我查看了科学文献，为自己创建了一个良好睡眠的“四大宏观指标”框架。你听说过食物的三大宏观营养素：脂肪、蛋白质、碳水化合物。对我来说，良好睡眠有四大宏观指标，即QQRT。
+### 失眠与“条件性唤醒”
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So when I looked at the science, for me, I created this framework of the four macros of good sleep. You've heard of the three macros of food, macronutrients, fat, protein, carbohydrate. To me, there are four macros of good sleep. And it's QQQRT. QQRT and it stands for quantity, quality, regularity, and timing.</p>
-</details>
+这就是我们所谓的**条件性唤醒**（Conditioned Arousal: 指将睡眠环境或行为与清醒、焦虑或无法入睡联系起来，从而导致失眠的一种心理生理现象）问题之一，听起来比实际情况更具煽动性。这是我们在睡眠医学中使用的术语，可以解释**失眠症**。所以，对于失眠症，假设你第一次去看牙医，你坐在椅子上，感觉还不错。你向后躺着，你觉得这很好。但大约14或15次就诊后，当你再次坐上那把椅子时，你就不再期待坐上那把椅子了，对吗？为什么？因为你已经学会了这种关联：坐在那把椅子上通常会导致不好的结果。
 
-它代表数量（Quantity）、质量（Quality）、规律性（Regularity）和时机（Timing）。与其把它们想象成支柱，不如想象成一把椅子的四条腿。如果其中任何一条变得不稳定，椅子就会翻倒。
+现在，床也是如此。如果你开始将床与睡眠以外的任何事物联系起来——我们允许你将床与性联系起来，但除了睡眠和性之外的任何其他事物——你就会开始学习到，我所谓的床，是一个我清醒、工作、吃饭、交谈、看电视的地方。所以，你知道，如果我——再次，我借用**迈克尔·格兰德**的观点——如果我对你说：“床-睡觉，床-睡觉，床-睡觉，床-睡觉，床-睡觉。”好的。如果我说：“床-刷手机，床-吃饭，床-工作，床-睡觉，床-看电视，床……”你会感到困惑。是的。因为没有预测信号。你从未建立起关联。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">and it stands for quantity, quality, regularity, and timing. And think of it less like pillars, but the four legs of a chair. And if any one of these becomes unstable, the chair will topple over.</p>
-</details>
+### 失眠的20分钟规则与应对策略
 
-我可能先从人们听我反复强调的一点开始，那就是数量。7到9小时。关于8小时的迷思是无稽之谈，它是一个很好的范围：7到9小时。我们知道，以7到9小时为最佳范围，当你睡眠少于这个时间，你的睡眠越短，你的寿命就越短。
+现在，这种机制在失眠症中对你不利的方式如下。导致失眠的事件通常不是维持失眠的原因。所以，假设我经历了一次非常艰难的丧亲之痛，这引发了一种失眠，我因为丧亲之痛而无法入睡。渐渐地，丧亲之痛不再是维持我失眠的原因。而是因为在过去的一个月里，我每次上床睡觉，都没有睡着。我一直清醒地躺在床上。所以现在，因为你的大脑是一个极其善于联想的器官，它学会了这种关联：我的床是我总是清醒的地方。那么我们该怎么做呢？我们需要在失眠症中打破这种关联。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So, I'll probably start with the one that people have heard me bang on about, which is quantity. 7 to 9 hours. This myth of 8 hours is nonsense. It's a wonderful range. 7 to 9 hours. And what we know is that using that sweet spot of 7 to 9 hours, when you get less than that, the shorter your sleep, the shorter your life.</p>
-</details>
+所以我们提出了**20分钟规则**（20-Minute Rule: 指如果躺在床上20分钟仍无法入睡，就应该起床离开卧室，做一些放松的事情，直到感到困倦再回床上，以避免将床与清醒和焦虑联系起来）。如果你躺在床上大约20分钟，但就是睡不着，别担心。不要听信我这种散布厄运、疾病和痛苦的“傻瓜”的话，一个糟糕的夜晚不会成为问题。绝不会。所以就说：“看，今晚不是我的夜晚。但我不会清醒地躺在床上，因为我的大脑很快就会学会这种关联：我的床是我清醒的地方。”你需要打破这种关联。所以，去另一个房间，在昏暗的灯光下。读一本书，听播客，随便什么。经验法则是：**只有当你感到困倦时才回到床上**，所以没有时间限制。通过这种方式，你逐渐重新学习这种关联：我的床是我总能获得持续睡眠的地方。
 
-短睡眠预示着全因死亡率。我们说，最低睡眠时间是7小时。有些人可能会正确地争辩说，如果你看这些死亡率曲线，睡6小时和你说最低要睡7小时之间，百分比差异并不大。所以6小时也挺好。我认为他们混淆了概念。因为7小时是你生存所需的最低睡眠量。我们量化“最低”的方式是基于你是否会过早死亡。生存所需的睡眠量与茁壮成长所需的睡眠量是不同的。
+否则，就像牙医的椅子一样，你走进卧室，看着你的床，它就是你的敌人，你甚至在躺到床上之前就说服自己：“我睡不着，因为那是我总是睡不着的地方。”顺便说一句，如果你在凌晨3点醒来，我的第一个问题是：你怎么知道是凌晨3点？那就是你的第一个问题。看时钟会做两件事：它会让你更焦虑。是的。其次，因为你的大脑是一个极其善于联想的器官，你就会开始决定凌晨3点是我需要醒来的时间。如果你一直看时钟，你就会不断强化现在是3点或4点。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Short sleep predicts all cause mortality. Now, we say that there's the minimum of 7 hours of sleep. And some people have argued perhaps correctly that look, if you look at these mortality curves, there's not much of a percentage difference between sleeping six hours versus the seven that you're telling me is minimum. So 6 hours is just fine. I think they've made a conflation because 7 hours is the minimum amount of sleep that you need to survive. Because the way that we quantify what minimum is is based on whether you die or you don't prematurely, the amount of sleep that you need to survive is different than the amount of sleep that you need to thrive.</p>
-</details>
+凌晨3点睡觉就像试图记住一个人的名字。你越努力，睡眠就离你越远。睡眠是发生在你身上的事情，而不是你主动促成的事情。所以在那一刻，如果你不想下床，最好的建议是做以下任何一件事：**冥想**（Meditation: 一种通过专注和放松来训练注意力和意识，以达到内心平静和洞察力的练习）。只需做一次引导式冥想。你可以下载应用程序。其次，如果那不适合你，也没关系。做**方块呼吸**（Box Breathing: 一种呼吸技巧，通过吸气、屏息、呼气和再次屏息四个阶段，每个阶段持续相同的时间，以达到放松和集中注意力的目的）。你知道，你可以吸气五秒，屏息六秒，呼气七秒。有各种不同的数字，但你可以做呼吸练习。第三，如果你不喜欢，那就是**身体扫描**（Body Scan: 一种冥想练习，通过将注意力系统地集中在身体的不同部位，以感知身体的感觉并促进放松）。所以，闭上眼睛，从头顶开始，感受一下，你知道，我的额头有紧张感吗？我需要放松它吗？我的脖子呢？我需要移动身体，然后逐渐向下？我的肩胛骨感觉如何？我只是放松地躺在床上，然后逐渐向下到胸部，移动，放松。
 
-我们知道，能够靠6小时或更少睡眠生存，且大脑或身体没有任何损伤的人数，四舍五入到整数并以人口百分比表示，是零。
+如果这些都不觉得有趣，接下来你可以做的是进行一次**心理漫步**（Mental Walk: 一种放松技巧，通过在脑海中详细想象一次熟悉的散步或旅程，以分散注意力、减轻压力和促进睡眠）。我所在的**加州大学伯克利分校**（University of Berkeley, California）有一项很棒的研究，我们没有做这项研究，是**艾莉森·哈维**（Allison Harvey）做的。顺便说一句，数羊是个坏主意。事实证明，它会让你的睡眠更糟。为什么会这样？因为，每当有一只咩咩叫的棉花球，脸上带着奇怪的表情，跳过你正在数的栅栏时，你都在强化你没有获得的每一分钟睡眠，这似乎让情况变得更糟。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Certainly what we know is that the number of individuals who can survive on 6 hours of sleep or less and show no impairment in either their brain or their body rounded to a whole number and expressed as a percent of the population is zero.</p>
-</details>
+但她发现还有另一种方法。如果你想象一次你非常熟悉、细节生动的散步。对我来说，那就是遛狗。所以我走到架子前。我打开门。是红色的牵引绳还是蓝色的？我今天选蓝色的牵引绳。我用右手把狗扣好。我用左手打开门。我左转下楼。我看着。我想要那种**4K细节**的颗粒度。我刚才描述的每种方法，冥想、方块呼吸、身体扫描、心理漫步，它们都有一个共同点：**让你的思绪离开自身**。
 
-所以数量很重要，但事实证明，我们以为这是唯一重要的事情，那就错了，因为接着是质量。在睡眠科学中，质量由两件事定义。第一是你的睡眠追踪器会测量的东西，即你睡眠的连续性。也就是说，你整晚的睡眠是集中在一两个不错的长时段里吗？那是高质量的睡眠。与之相对的是，你的睡眠被各种觉醒打断，非常碎片化，那是质量很差的睡眠。
+### 睡眠故事与深度睡眠
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So quantity matters but it turns out that we got it wrong in thinking that was the only thing because then came quality. So QQRT quality is defined in sleep science as two things. The first is something that your sleep tracker will measure which is the continuity of your sleep. Meaning do you sleep in one or two nice long bouts throughout the night? That's good quality of sleep, nice continuous bouts versus your sort of sleep is very fragmented by all of these awakenings. That's very poor quality of sleep.</p>
-</details>
+在那个特定的例子中，她让你生动地想象一次你熟悉的旅程，她在研究中发现了什么？她发现这会显著提高你重新入睡的速度，因为正如我所说，她的研究向我证明，这就像记住一个名字一样，当我停止努力记住一个人的名字时，会发生什么？你记起来了。我记起来了。所以当你做这些让思绪离开自身的练习时，你通常会记住的下一件事就是早上闹钟响了。
 
-接下来是我们之前提到的，在我说的三件事中。第一是数字排毒，第二件事我说的是规律性。这也是我改变看法的地方。我更加坚信规律性的重要性。有一项研究也来自我描述的那个数据集，叫做英国生物样本库数据。这次他们研究的不是9万人，而是6万人。他们决定将这些人分成四分位数，从最规律的到第二规律的，再到第三规律的，最后是那些最不规律的。
+这就是为什么人们喜欢听非常生动的**睡眠故事**（Sleep Stories: 旨在帮助人们放松和入睡的叙事音频内容），以及为什么我听连环杀手纪录片的原因吗？连环杀手纪录片，我应该说是真实犯罪纪录片。那听起来更，嗯，更容易接受。我不知道那些。我怀疑它们可能会损害你的深度睡眠。评论区里有没有人支持我？如果你听真实犯罪故事入睡，请在评论区下方写出来。如果你觉得它主观上非常安抚和平静，而且场景中没有死亡、命名、血液和肢体高速散落，我会说那很棒。但如果它看起来或听起来像**昆汀·塔伦蒂诺**（Quentin Tarantino: 美国著名电影导演、编剧、制片人，以其非线性叙事、暴力美学和独特对白风格著称）的电影，那可能就有害无益了。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">The next is where we came to in our sort of three things that I was saying. The first is digital detox. Then next thing I said is regularity. This is somewhere where I've also changed my mind on. I've doubled down on regularity. There was a study that also came out of that same data set that I described. It's called the UK Bioank data. And now they didn't look at 90,000 individuals, but they looked at 60,000 individuals. And they decided that they were going to compare and split them into quartiles. So the most regular to the second most regular to then sort of the third most regular and then the final quartile was those who were the least regular.</p>
-</details>
+但是的。我们忘记了，据我所知，冥想公司**Calm**（Calm: 一款流行的冥想和睡眠辅助应用程序）起初表现平平，但他们意识到人们想在早上冥想。当他们查看使用统计数据时，发现人们确实在早上冥想，但在睡前也有大量使用。人们在**自我治疗失眠**。然后，他们灵光一闪，意识到我们小时候喜欢听父母讲故事入睡。为什么我们成年后会有所不同呢？所以他们创造了睡眠故事，他们从一家苦苦挣扎的公司，我认为，变成了第一家或首批估值达到**十亿美元**的健康公司之一。他们成为了**独角兽公司**（Unicorn Company: 指估值超过10亿美元的初创公司）。现在他们有像**马修·麦康纳**（Matthew McConaughey）、**哈里·斯泰尔斯**（Harry Styles）这样的人，偶尔还有一位不幸的英国睡眠科学家，声音不太好听。但你可以听这些睡眠故事，它们具有奇妙的催眠作用。为什么？因为它们能让你的思绪离开自身。
 
-高度规律的个体，其上床睡觉和起床的时间波动在正负15分钟以内，也就是说，总的浮动范围是30分钟。而那些最不规律的人，他们的作息时间相差90到120分钟。他们可能一晚11点睡，第二天凌晨1点，再下一晚10点半，然后又是12点半。他们的作息完全没有规律。
+### 镁和南非醉茄：补充剂的有效性分析
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Good question. highly regular individuals plus or minus 15 minutes in terms of going to bed and waking up at the same time. In other words, a total wiggle room of 30 minutes. Whereas the those people who were least regular, they were 90 to 120 minutes desperate. They were going to bed, let's say, at 11 one night, then 1 a.m. the next night, then they were going to bed at 10:30 p.m. and then they were going to bed at 12:30. They were all over the map.</p>
-</details>
+我们之前谈到了褪黑素，还有其他一些人们经常谈论的补充剂。其中一种非常受欢迎的是**镁**。我经常听到**南非醉茄**（Ashwagandha: 一种印度传统草药，被认为具有适应原特性，有助于减轻压力和焦虑）和镁。这些有效吗？这些有用吗？我想说的第一件事是，如果你正在遭受睡眠问题，并且正在寻求补充剂，你就像在为了捡几分钱而踩过几美元。
 
-他们发现，与最不规律的人相比，那些最规律的人的全因死亡率相对降低了49%。也就是说，他们过早死亡的可能性比那些最不规律的人低49%。他们的癌症死亡风险降低了39%，这很棒。他们的心血管代谢疾病风险降低了57%。这太惊人了。规律性在预测不同形式的死亡率方面，是一个极其强大的信号。
+你需要做的是考虑基本原则：**规律性**。注意你的**咖啡因**摄入量。确保你没有喝太多**酒精**。保持规律。调暗一半的灯光。数字排毒。这些中的任何一个，尤其是所有这些结合起来，都会让你获得比服用最新补充剂瓶子好几个数量级的睡眠。第二件事是，从逻辑角度思考。如果真的有什么补充剂能承诺成为夜间所有辉煌睡眠的“香格里拉”，制药公司几十年前就会蜂拥而至了。举个例子，**乔治·卢卡斯**（George Lucas: 美国著名电影导演、编剧、制片人，以创作《星球大战》系列闻名）花了大约30年才从**《星球大战》**（Star Wars: 乔治·卢卡斯创作的科幻电影系列）系列中积累了大约**40亿美元**的收入。而**安眠药**（Ambien: 一种常用的非苯二氮䓬类镇静催眠药，用于治疗失眠）只用了22个月。这就是睡眠药物的生意有多大。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So what they found was that those people who were most regular versus least regular, so they compared the extremes of these two, those people who were most regular had a 49% relative decrease in all cause mortality. So they were 49% less likely to prematurely die than those people who were least likely to die. They had a 39% cancer mortality risk reduction. Great. they had a 57% cardioabolic disease risk reduction. So that was stunning. That regularity was incredibly powerful as a predictive signal of your different forms of mortality.</p>
-</details>
+安眠药是一种安眠药。**镁**，如果你深入研究，我大约三年前做过一次深入研究，因为我也一直听到“镁，镁”。首先要注意的是，大多数形式的镁，如**氧化镁**（Magnesium Oxide）或**柠檬酸镁**（Magnesium Citrate），大多数这些形式的镁都无法穿过血脑屏障，而睡眠是由你的大脑产生的。那么，无法进入大脑的物质如何能影响大脑过程呢？第一，有一种形式的镁似乎有一些证据支持其益处。它叫做**L-苏糖酸镁**（Magnesium L-Threonate）。
 
-但这还不是这篇论文最精彩的部分。他们还测量了这些个体的睡眠数量和规律性。然后他们决定说，好吧，我把数量和规律性的测量结果放在同一个统计模型里，做一个“可口可乐对百事可乐”的挑战，看看哪个在预测全因死亡率方面胜出。我们睡眠领域的专家，至少我是这样，都赌数量会赢。我错了。在预测全因死亡率方面，规律性击败了数量，而且优势相当大。
+但如果你查阅文献，这个故事是从哪里来的？事实证明，大约30年前，他们开始研究那些睡眠紊乱的人，并评估他们的血液检查。他们发现其中一些人**缺乏镁**。当他们补充镁后，这些人的镁水平恢复正常，他们的睡眠也得到了改善。但这与说“看，你我目前镁水平正常，然后我给自己服用大剂量的镁。我是否想象这会改善我的睡眠？”截然不同。这个比喻就像，假设我开发了一台令人难以置信的新型血氧饱和度仪，你对我说：“嗯，**马特**，我的设备显示我目前的血氧饱和度是98.6%。”无论我的机器多么花哨或多么好，我都无法让你超过100%。你已经达到了上限水平。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">That wasn't the best part of the paper though. They had also measured quantity as well as regularity in these same individuals. So then they decided to say, well, I'm going to take our measure of quantity and regularity and we're going to put them both in the same statistical bucket and do a Coke Pepsi challenge to see which one wins out in terms of predicting all cause mortality. We all bet in the sleep field, at least I did, it was going to be quantity. I was wrong. Regularity beat out quantity in predicting all cause mortality and by quite some margin.</p>
-</details>
+这就是镁补充剂的问题。如果你的镁水平正常，你所做的可能只是制造昂贵的尿液。现在，镁可能有一个间接的好处，因为它似乎能放松肌肉。当身体处于放松状态时，它会通过一条叫做**迷走神经**（Vagus Nerve: 脑神经之一，从脑干延伸到腹部，参与调节心率、消化、呼吸和免疫反应等多种生理功能）的神经分支向大脑发送放松信号，告诉你的大脑你正在放松下来，你进入了一种静止状态，这对睡眠非常有帮助。所以，镁可能通过其在体内实现的放松作用，对睡眠仍有间接益处。但总的来说，如果你查看研究，镁并没有真正改变局面。
 
-### 揭秘大脑节律：规律性为何至关重要
-人们不会响应规则，他们响应的是规则背后的原因。所以让我试着解释一下这个规则背后的原因。说到规律性，我们体内有一种叫做昼夜节律的东西。在大脑深处，有一个时钟。
+**南非醉茄**（Ashwagandha）则不同。南非醉茄和另一种化合物**磷脂酰丝氨酸**（Phosphatidylserine: 一种磷脂，存在于细胞膜中，尤其在大脑中含量丰富，被认为对认知功能和压力应对有益）。磷脂酰丝氨酸和南非醉茄这两种补充剂似乎有助于做两件事之一。它们要么**降低你神经系统的“战斗或逃跑”分支的活跃度**，要么**减少身体释放的皮质醇量**。这很重要，因为我看到很多人来到我所在的睡眠中心，他们有我所谓的“疲惫但兴奋”现象。他们来找我，说：“我太累了，我太累了，但我情绪上和神经上都太兴奋了，我睡不着。”
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">It's a bloody great question. People don't respond to rules. They respond to reasons not rules. So let me try and explain the reason behind the sort of the rule. When it comes to regularity, we have something called a circadian rhythm that we've spoken about. And there's a clock that sits inside of your brain deep in the middle of the brain.</p>
-</details>
+假设你参加了一场精彩的舞台活动，你感受到了那种舞台上的兴奋感。晚上11点你下了台。通常你很快就会睡着，但你知道，你太兴奋了。没关系。你很累，累得不能再累了，但你太兴奋了，睡不着。那就是“战斗或逃跑”分支被激活了，你就是睡不着。你需要把它关掉。磷脂酰丝氨酸和南非醉茄都会把你推回到更平静的，我们称之为**副交感神经系统**（Parasympathetic Nervous System: 自主神经系统的一部分，主要负责“休息和消化”功能，促进身体放松、恢复和能量储存）分支。这很好。然而，它们也会**减少皮质醇**（Cortisol: 一种由肾上腺皮质分泌的应激激素，参与调节新陈代谢、免疫反应和应激反应），而皮质醇是一种促醒激素。皮质醇本身是好的，它被妖魔化了。你需要让你的皮质醇在睡前几小时开始飙升，它有助于唤醒过程。这很棒。每天，我们都会在醒来前出现皮质醇飙升。这是帮助我们醒来的因素之一，然后它会在上午中段达到一个美丽的高峰，那时你应该清醒，不需要咖啡因。
 
-在大脑的正中央，有一个叫做下丘脑的区域。在这个结构中，有一个核团，这组细胞有一个花哨的名字，叫做**视交叉上核**（Suprachiasmatic Nucleus: 位于下丘脑的一个微小区域，是哺乳动物昼夜节律的“主时钟”）。但视交叉上核就是你的主24小时生物钟。你身体里的每个细胞都有一个生物钟，但这是主时钟。就像《指环王》里，有一枚戒指统治所有戒指。同样，有一个时钟统治所有时钟。
+然后在睡前下降。然后它会在下午中早期开始达到高峰，事实上通常在上午晚些时候达到高峰，然后它会开始其惊人的下降。你会看到，就在你上床睡觉之前，皮质醇应该达到最低点，我们称之为**最低谷**（Nadir: 指某物在周期或过程中达到的最低点）。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And it turns out that right in the middle of the brain, right here, there's an area called the hypothalamus. Now here, this structure here, this is the phalamus. This is the sensory gate of your brain. And that group of cells the nucleus has a fancy term and it's called the supraismatic nucleus. But the superismatic nucleus is your master 24-hour clock. Every cell in your body has a clock inside of it. But this is the master clock. It's like Lord of the Rings. There's one ring to rule them all. Well, there's one clock to rule them all.</p>
-</details>
+### 失眠与皮质醇异常
 
-你的大脑是如何保持如石英钟般精准的24小时节律的呢？它通过利用来自你眼睛的光和暗等信号来实现。所以当光线通过视网膜时，它告诉下丘脑现在是白天，因此你应该保持清醒。它的节律开始上升。温度和进食也能起到同样的作用，还有各种不同的因素。但总的来说，光线是主要的调节器，它就像光子手指，弹出腕表表盘并精确地重置它。所以，每天都是24小时。
+顺便说一句，有趣的是，失眠通常可以分为至少两种不同类型。实际上有多种，但我们姑且说，在这些多种类型中，有两种。一种叫做**入睡困难型失眠**（Sleep Onset Insomnia: 指难以入睡的失眠类型）。我无法入睡。另一种是**睡眠维持型失眠**（Sleep Maintenance Insomnia: 指难以保持睡眠，夜间频繁醒来或过早醒来的失眠类型）。我无法保持睡眠。当他们以30分钟为间隔，在24小时时钟上观察人们的皮质醇时，我们经历了我们刚才描述的过程。就在我们醒来之前，皮质醇会上升。它在上午晚些时候达到高峰，然后下降，就在睡前，我们的皮质醇几乎处于最低点。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">How does your brain keep quartzlike precision 24-hour clock time? How does it do that? The way it does that is that it uses signals such as light and dark from your eyes from your eye. And so when light comes through the retina, it tells the hypothalamus it's daytime and therefore you should be awake. And its rhythm starts its awesome sort of upswing. And temperature can do this and feeding can do this all sorts of different things. But for the most part, light is the principal governor that essentially acts like electrical, I should say, photon fingers that pops the wristwatch dial out and resets it precisely. So, 24 hours every single day.</p>
-</details>
+对于失眠患者，他们也表现出完全相同的情况。在上午晚些时候有一个美丽的上升。它开始下降，但随后你会看到两个异常。就在睡前，它又上升了。然后在半夜，即使它开始上升，它也会在半夜出现异常的飙升。我们认为这可能部分解释了**入睡困难型失眠**。皮质醇应该下降，并在我们上床睡觉之前保持低水平。但它在失眠患者中又跳了回来。我无法入睡。然后它在前半夜继续保持低水平，但它在失眠患者中也会飙升。我无法保持睡眠。
 
-利用光线是帮助维持规律性的最佳方式，因为夜晚的人造光会欺骗你的大脑，让它以为外面还是白天。
+### REM睡眠的重要性：最后两小时的价值
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Using light as the best way to help with that regularity because light if it's artificial at night fools your brain into thinking that it's daytime still outside.</p>
-</details>
+我们一直在谈论规律性、时间、质量和数量。但从你的工作中我学到的一点是，**最后那一个小时可能是我卧床时间中最重要的一小时**。我之所以这样说，部分是因为我的女朋友，她会醒来，她大概睡六个半小时。她睡得非常好，是一个完美的睡眠者，但她总是起得很早。部分原因是我之前提到的内疚感。但我与她谈论了这种内疚感，我说：“你只需要在床上躺多久就躺多久。比如，就多睡一个小时。”部分原因是我了解到，我们睡眠越深入，获得的**REM睡眠**就越多。
 
-事实证明，你的行为是另一件会告诉大脑的事情。也就是说，当你在同一时间上床睡觉和起床时，这就像一个锚，锚定了你的昼夜节律。它告诉你，就像电影中的一个场景，这个场景现在结束了，一个新的场景开始了。所以，每当你在同一时间睡觉和起床，你都在向你大脑中的主24小时时钟——视交叉上核——输送规律性的信号。
+是的。好的。你能用这四个方块给我解释一下吗？为什么最后那一个小时特别重要，为什么我们不应该跳下床，或者为什么我们应该使用某些睡眠设备在我们REM睡眠的最后那个小时结束时唤醒我们。当然。这里我们有睡眠的四个阶段。所以当我们第一次入睡时，我们进入**非快速眼动睡眠第一阶段**（Light Non-Rapid Eye Movement Sleep, Stage 1: 睡眠的最浅阶段，介于清醒和睡眠之间，容易被唤醒）。这是你如果被我叫醒，你会说“我没睡着”的睡眠阶段。你只是处于那个过渡阶段，这个介于清醒和真正睡眠之间的美丽**边缘状态**（Liminal State: 指介于两个不同状态或阶段之间的过渡状态）。所以这是你连接清醒世界和睡眠世界的桥梁。它不会持续很久，最多可能只有10到15分钟。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">It turns out that your behavior is another thing that will tell your brain. So, meaning when you go to bed and wake up at the same time, it acts like an anchor. It anchors your circadian rhythm and it tells you almost like a scene in a aovie. This scene is now complete. A new scene starts. This scene is complete. A new scene starts. So every time that you're going to bed at the same time and waking up at the same time, you are feeding the super chaismatic nucleus, the master 24-hour clock in your brain, you're feeding it signals of regularity.</p>
-</details>
+然后你进入睡眠的“主力军”。这是**非快速眼动睡眠第二阶段**（Stage 2 Non-REM Sleep: 睡眠的第二阶段，占总睡眠时间的一半，大脑活动开始减慢，出现睡眠纺锤波和K复合波）。你50%的夜晚时间都在非快速眼动睡眠第二阶段度过。我不喜欢“浅层非快速眼动睡眠”这个词。我经常使用它，但它并不是真的，我们在非快速眼动睡眠第二阶段做了很多认知处理。这是好东西。它不仅仅是你必须从深度非快速眼动睡眠过渡到第二阶段才能进入REM睡眠的阶段，但我会谈到这一点。所以，我们已经睡着了10分钟。
 
-当它接收到规律性的信号时，它会改善你睡眠的数量和质量。你的昼夜节律喜欢一致性，喜欢规律的信号。当你给它光线、活动、起床、睡觉的信号时，你就改善了睡眠的数量和质量。这就是这个规则背后的原因。
+是的。现在，我们处于**非快速眼动睡眠第二阶段**。我们将停留大约15到20分钟。然后，如果是在夜晚的最初几个小时，我们会进入最深的**深度非快速眼动睡眠**阶段。这是脑电波模式减慢的地方。但脑电波变得异常巨大、强大、缓慢。在这里，你的许多主要生理系统会得到大量的恢复。所以是身体恢复，身体恢复，但精神上也是。是的，在深度睡眠期间，你会将新形成的记忆“保存”起来，这样你就不会忘记。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And when it feeds on signals of regularity, it improves the quantity and the quality of your sleep. Your circadian rhythm likes consistency. It likes regular signals. When you feed it signals of light, of activity, of waking up, going to bed, you improve the quantity and the quality of your sleep. That's the reason behind the underlying rule.</p>
-</details>
+**深度睡眠**（Deep Sleep: 指非快速眼动睡眠的第三阶段，以出现大量慢波脑电活动为特征，对身体恢复和记忆巩固至关重要）本质上会**“未来化”**（Futureproof: 指设计或构建某物使其在未来仍能保持功能和相关性）你今天刚学到的信息。它将信息从一个短期存储的脆弱“水库”转移到一个更永久的长期存储位置。在深度非快速眼动睡眠期间，我们进行这种交流。所以，把那些深沉、强大的慢波脑电波想象成你过去在车里收听的长波广播电台。你可以在大脑中跨越长距离、跨越巨大路径进行大量信息传输。这太神奇了。所以我们从浅层非快速眼动睡眠，然后进入深度非快速眼动睡眠。我们将停留大约15到20分钟。然后我们会再次开始上升。我们会回到非快速眼动睡眠第二阶段。
 
-### REM睡眠的魔力：情绪疗愈与创造力之源
-我们入睡后，首先进入浅度非快速眼动睡眠，即第一阶段。在这个阶段，如果我把你叫醒，你会说：“我没睡着。”这只是你正处于清醒和真正睡眠之间的过渡阶段。
+等等，我们从1、2、3到2了。是的。所以，我们就像坐过山车一样，对吧？我们从浅层非快速眼动睡眠开始，然后进入非快速眼动睡眠第二阶段。然后，我们进入深度睡眠，然后我们会上升回到浅层非快速眼动睡眠第二阶段。我们会在那里停留，大约70到80分钟后，你会突然醒来，然后会有一段短暂的**REM睡眠**期。哦，好的。就像这样。这很美。这就是我们所说的**入睡前幻觉**（Hypnagogic: 指在入睡时或醒来时发生的幻觉或感觉）。我将把它放在屏幕上供大家观看。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So when we first fall asleep, we go into light non rapid eye movement sleep. Stage one. This is the stage of sleep that if I wake you up out of it, you say, "I wasn't sleeping." Now you it's just that you're just in that transitional phase, this beautiful liinal state between the windows of wakefulness and true sleep.</p>
-</details>
+好的。我在这里描述的是这种过山车般的旅程。所以我们入睡，进入浅层非快速眼动睡眠第一阶段，然后进入第二阶段。然后你进入深度非快速眼动慢波睡眠的重度时期，即第三阶段。然后，你在睡眠追踪器上看到的就是深度睡眠。这是浅层睡眠。这是深度睡眠。非快速眼动睡眠第二阶段是浅层睡眠。非快速眼动睡眠第三阶段是深度睡眠。但随后你会开始回升，然后你可能会醒来，在大约70或80分钟后，会有一段短暂的REM睡眠期。所以你会有大约10分钟的REM睡眠，然后你又会再次下降。你进入非快速眼动睡眠，然后进入REM睡眠。进入非快速眼动睡眠，然后进入REM睡眠。进入非快速眼动睡眠，然后进入REM睡眠。
 
-然后，你进入睡眠的主力阶段，即第二阶段非快速眼动睡眠。你夜晚50%的时间都花在这个阶段。我不喜欢“浅度非快速眼动睡眠”这个词，虽然我经常用，但它并不准确。我们在第二阶段非快速眼动睡眠中进行大量的认知处理，这是很有益的。
+然而，有趣的是，非快速眼动睡眠与REM睡眠的比例会发生变化。现在，有一个迷思，这有点问题。我们人类平均有**90分钟**的非快速眼动睡眠到REM睡眠周期。所以，我们每90分钟进入非快速眼动睡眠，然后进入REM睡眠。然后，我们再次进入非快速眼动睡眠，然后进入REM睡眠。所以，我们在这个90分钟的周期中，进入非快速眼动睡眠，然后进入REM睡眠。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Then you get into the workhorse of sleep. This is stage two nonREM sleep. 50% of your night is spent in stage two nonREM sleep. I don't like the word light nonREM sleep. I've often used it, but it's not really it's we do a lot of cognitive processing in stage two nonREM sleep. It's good stuff.</p>
-</details>
+问题是，这平均是90分钟。它在个体之间从70分钟到120分钟不等。所以，你知道，你可能见过一些设备，它们试图，你知道，创业公司说：“我会在你90分钟周期的理想时刻唤醒你。”所以，我把这个东西放在床边，当我关灯时，我点击它，然后它会进入90分钟周期，它会找出唤醒你的完美时刻。这纯属胡说，因为我的睡眠周期可能是75分钟，你的可能是105分钟。它根本不知道，因为它使用的是硬编码的90分钟周期。这在某些方面是无稽之谈。但我们每90分钟进入非快速眼动睡眠，然后进入REM睡眠。
 
-然后，如果在夜晚的头几个小时，我们会进入最深的深度非快速眼动睡眠阶段。这时，脑电波模式变慢，但波幅变得非常大、有力。在这个阶段，你的许多主要生理系统会得到大量的恢复和修复。
+然而，随着夜晚的推移，在这些90分钟周期中，非快速眼动睡眠与REM睡眠的比例会发生变化，以至于在夜晚的前半段，这些90分钟周期的大部分由大量的深度非快速眼动睡眠和非常少的REM睡眠组成。但当你进入夜晚的后半段时，这种跷跷板般的平衡就会发生转变，你会在夜晚的后半段，尤其是在夜晚的最后2小时，花更多的时间在REM睡眠中。为什么这很重要？正如你所说，你谈到了你的女朋友，假设我通常在午夜睡觉，为了方便计算，我不是说这是理想时间，但我在午夜睡觉，早上8点醒来。但明天我必须赶飞机回家。所以，我将提前两小时醒来。所以，我将在6点而不是8点醒来。我损失了两个小时的睡眠。那么我总共损失了多少睡眠？嗯，我损失了总睡眠的25%，8小时中的2小时。25%。嗯，是也不是。我损失了总睡眠的25%，但我可能损失了所有REM睡眠的50%、60%、70%。为什么？因为REM睡眠发生在后半夜，尤其是在睡眠的最后几个小时。所以，这就是为什么理解睡眠周期关系不仅仅是学术性的，而且是实用的，因为它会影响睡眠量。事实上，如果人们问：“我怎样才能获得更多的REM睡眠？”最简单的方法是，我建议你比平时晚睡15分钟，你就会不成比例地获得更多的REM睡眠。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Then if it's in the first couple of hours of the night, we go down into the very deepest stages of deep non-REM sleep. This is where the brain wave patterns slow down. But the brain waves become incredibly big, huge, big, powerful, slow brain waves. This is where you get an enormous amount of restoration, recovery of many of your major physiological systems.</p>
-</details>
+### REM睡眠：情绪急救与创造力
 
-我们从浅度非快速眼动睡眠，然后进入深度非快速眼动睡眠。我们会在那里待大约15到20分钟。然后我们会开始再次上升，回到第二阶段非快速眼动睡眠。我们在那里停留，大约70到80分钟后，你会突然进入一个短暂的**REM睡眠**（Rapid Eye Movement Sleep: 快速眼动睡眠，是睡眠的一个阶段，此时眼球会快速移动，并常常伴有生动的梦境）期。
+为什么**REM睡眠**很重要？REM睡眠首先是一种大脑状态，它极其活跃，事实上大脑的某些部分尤其如此，如果我把这个大脑拆开，给你看这些大脑深层的情绪中心。所以我们大脑中有这些深层的情绪中心，它们实际上更深藏在脑干顶部。这些情绪中心叫做**杏仁核**（Amygdala: 大脑中参与情绪处理，特别是恐惧和焦虑的关键区域）。你的大脑左侧和右侧各有一个。大脑的这一部分，连同它旁边的记忆结构，叫做**海马体**（Hippocampus: 大脑中参与记忆形成、组织和储存的关键区域）。大脑的这两个部分构成了我们所谓的**边缘系统**（Limbic System: 大脑中一个复杂的系统，参与情绪、动机、记忆和行为调节）。你可能听说过边缘系统，即大脑的情绪中心。当你处于**梦境睡眠**（Dream Sleep: 指REM睡眠阶段，通常伴随着生动、叙事性的梦境）时，这些区域的活跃度可以比你清醒时高出**40%**。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">So we've gone from light non-REM, then we go down into deep nonrem. We'll stay there for about 15 or 20 minutes. Then we'll start to rise back up again. We'll go back into stage two nonREM sleep. We're going to stay there and after about 70 80 minutes, you're going to pop up and you'll have a short REM sleep period.</p>
-</details>
+梦境睡眠。梦境睡眠就是**快速眼动睡眠**。**REM睡眠**。所以REM睡眠就是这个阶段。现在这取决于你如何定义做梦。如果你将做梦定义为醒来后报告的任何心理活动，那么你在所有睡眠阶段都会做梦。浅层非快速眼动睡眠，深度REM睡眠。那么那会是什么样子呢？如果我把你叫醒，说：“**斯蒂芬**，告诉我你刚才在想什么？”你说：“嗯，我只是在想你下次什么时候会进来叫醒我。”那只是一个梦境想法。大多数人认为的梦，是我们在REM睡眠中，即快速眼动睡眠中做的梦。这就是为什么我们称之为梦境睡眠。快速眼动睡眠中的梦是叙事性的。事实上，昨晚当你入睡并进入梦境睡眠时，你变得极其**精神病态**（Psychotic: 指精神病发作时的状态，表现为幻觉、妄想、思维紊乱等）。
 
-然而，有趣的是，非快速眼动睡眠与快速眼动睡眠的比例会发生变化。在夜晚的前半段，大部分90分钟的周期由大量的深度非快速眼动睡眠和很少的快速眼动睡眠组成。但当你进入夜晚的后半段，这个跷跷板的平衡就会发生变化，你在快速眼动睡眠中花费的时间会多得多，尤其是在夜晚的最后两个小时。
+不好意思。在你拒绝我诊断你夜间精神病之前，让我给你五个充分的理由。昨晚当你进入梦境睡眠时，你开始看到不存在的东西。所以，你**产生了幻觉**。其次，你相信不可能真实的事情。所以你**产生了妄想**。第三，你对时间、地点和人物感到困惑。所以在精神病学中，我们称之为**定向障碍**。第四，你情绪波动剧烈。我们称之为**情绪不稳定**。你情绪失控。然后，多么奇妙，你我，因为我现在也把自己包括在精神病态之列。你我今天早上醒来，都忘记了大部分甚至全部的梦境体验。所以，我们**患有失忆症**。如果你在清醒时经历这五种症状中的任何一种，你都会寻求某种程度的心理帮助。但由于我们现在才开始理解的原因，这似乎是一个正常的生物和心理过程。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">What changes however is the ratio of non-REM to REM within those 90inut cycles as you move across the night such that in the first half of the night the majority of those 90-minute cycles are comprised of lots of deep non-REM sleep and very little REM sleep. But as you push through to the second half of the night, now that seesaw balance shifts over and you spend much more of your time in REM sleep in the second half of the night and particularly just as you said in the last 2 hours of the night.</p>
-</details>
+那么，原因是什么？我们为什么要睡觉？我们做梦至少有两个不同的原因。第一个原因是**情绪急救**。**REM睡眠**被我定义为**“夜间疗法”**（Overnight Therapy: 指REM睡眠在夜间帮助大脑处理和减轻情绪痛苦，从而起到治疗作用），在梦境睡眠期间，你的大脑会处理那些困难、痛苦的情绪体验，它就像一种夜间的舒缓膏，它会磨平那些困难、痛苦体验的尖锐边缘，这样你第二天醒来时，对情感事件有记忆，但它不再带有情感色彩。你不会再有那种同样强烈的、发自内心的情绪反应。
 
-这为什么重要呢？就像你刚才说的，假设我为了方便计算，通常在午夜睡觉，早上8点起床。但明天我得赶飞机回家，所以我要提前两小时起床，也就是6点而不是8点。我损失了两个小时的睡眠。那么我总共损失了多少睡眠呢？我损失了8小时睡眠中的2小时，也就是总睡眠的25%。但实际上，我可能损失了所有REM睡眠的50%、60%甚至70%。为什么？因为REM睡眠主要发生在后半夜，特别是最后几个小时。
+### REM睡眠与创伤后应激障碍（PTSD）
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Why is this consequential? Well, just as you said and you spoke about for your girlfriend, let's say that you know I normally go to bed for argument sake and I'm not saying this is the ideal time, but I go to bed at midnight to make the math easy and I wake up at 8:00. But tomorrow I've got to catch my flight back home. So, I'm going to wake up two hours early. So, I'm going to wake up at 6 rather than 8. I've lost two hours of sleep. So, how much total sleep have I lost? Well, I've lost 25% of my total sleep. 2 hours of my 8 hours. 25%. Well, yes and no. I've lost 25% of my total sleep, but I may have lost 50 60 70% of all of my REM sleep. Why? Because REM sleep comes in the second half of them, particularly those last couple of hours of sleep.</p>
-</details>
+为什么**REM睡眠**能够进行这种**“夜间疗法”**，这种**“去强化”**（Depotentiation: 指神经突触连接强度的减弱，可能与REM睡眠中情绪记忆的去情绪化有关）？为什么REM睡眠能够剥去情感“橙子”的苦涩情感外皮？原因如下。梦境睡眠，REM睡眠是24小时内大脑唯一会关闭一种与压力相关的神经化学物质——**去甲肾上腺素**（Noradrenaline: 又称去甲肾上腺素，是一种神经递质和激素，参与调节警觉性、注意力和“战斗或逃跑”反应）的时候。
 
-我们做梦至少有两个原因。第一个原因是情绪急救。我将REM睡眠定义为“隔夜疗法”。正是在梦境睡眠中，你的大脑会处理那些困难、痛苦的情感体验，它就像一种夜间的舒缓膏，磨平那些痛苦经历的锋利棱角，让你第二天醒来时，虽然还记得那个情绪事件，但它不再那么情绪化了。
+你听说过你身体下方的一种姐妹化学物质叫做**肾上腺素**（Adrenaline: 又称肾上腺素，是一种激素和神经递质，主要在应激反应中释放，导致心率加快、血压升高）。嗯，在大脑中，我们没有肾上腺素。我们有**去甲肾上腺素**。REM睡眠是它完全关闭的唯一时间。我们提出了一种理论，叫做**“夜间疗法”**，你的大脑有这些情绪中心和记忆中心。情绪中心是**杏仁核**，记忆中心是**海马体**。当你进入梦境睡眠时，你会重新激活这些结构。所以你的大脑有机会重新激活、重演和重新处理情绪体验。然而，它是在一个所谓的“安全神经化学环境”中进行的，因为压力化学物质去甲肾上腺素完全关闭了。所以，它是剥离记忆中情感的理想神经化学疗法。我们提出一个理论，也许这种机制失败的典型疾病就是**创伤后应激障碍**（Post-Traumatic Stress Disorder, PTSD: 一种精神疾病，由经历或目睹极度创伤性事件后引起，症状包括闪回、噩梦、回避和情绪麻木）。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Why do we dream? We dream for at least two different reasons. The first reason is emotional first aid. REM sleep is what I've defined as overnight therapy and it's during dream sleep where your brain takes difficult painful emotional experiences and it acts like a nocturnal soothing balm and it just takes the sharp edges off those difficult painful experiences so that you come back the next day and you have a memory of an emotional event but it's no longer emotional.</p>
-</details>
+因为当你与这些患者交谈时，我们不仅看到他们的**REM睡眠**受到干扰，当你与这些患者交谈时，他们会说：“看，我就是无法‘走出来’。”他们指的是退伍军人，他们现在去超市，出来后在停车场，汽车突然发出回火声，他们立刻闪回军事战场上的爆炸。那里发生的事情是，大脑没有将情感从记忆中剥离。所以每次他们重温记忆时，他们都会重新体验同样的情绪反应。
 
-为什么REM睡眠能够进行这种隔夜疗法，这种情绪削弱作用呢？原因如下：梦境睡眠，即REM睡眠，是24小时周期中，大脑唯一关闭一种与压力相关的神经化学物质——去甲肾上腺素的时间。
+所以难怪我们提出，大脑在第二天晚上会回来，说：“看，对不起，睡眠。我仍然有这个创伤记忆。你能否施展你的技巧，将情感从记忆中剥离？”然后它再次失败了。所以第二天晚上它又回来，说：“不好意思打扰你，但我仍然有这个充满情感的记忆。请施展你的技巧，将情感从记忆中剥离。”它再次失败了。这听起来就像我们在**PTSD**中看到的重复性噩梦的“破唱片”。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Why is REM sleep able to do this overnight therapy, this deepotentiation? The reason is the following. Dream sleep, REM sleep is the only time during the 24-hour period where the brain shuts off a stress related neurochemical called noradrenaline.</p>
-</details>
+为什么会发生这种情况？**PTSD**患者大脑中的**去甲肾上腺素**水平过高。几年前我参加一个会议，当时我正在介绍这个理论。我们只是提出了这个理论。那是一个理论，正在寻找数据。事实证明，在同一个会议上，那是一个令人难以置信的时刻。你感到毛骨悚然。有一位来自**普吉特海湾**（Puget Sound: 位于美国华盛顿州西海岸的一个海湾，靠近西雅图）的精神病医生，他一直在**退伍军人事务部**（Veterans Administration: 美国政府的一个部门，负责为退伍军人及其家属提供医疗保健、福利和支持）治疗他的**PTSD**退伍军人，使用一种叫做**哌唑嗪**（Prazosin: 一种α-1肾上腺素能受体阻滞剂，主要用于治疗高血压，也被发现对PTSD相关的噩梦有效）的降压药。
 
-我们提出了一个理论，认为**创伤后应激障碍**（PTSD - Post-Traumatic Stress Disorder: 一种由经历或目睹创伤性事件而引发的心理健康状况）就是这种机制失灵的典型例子。因为当你和这些患者交谈时，我们不仅看到他们的REM睡眠受到干扰，他们还会说：“我就是无法‘释怀’那件事。”他们的意思是，大脑没有将情绪从记忆中剥离。所以每当他们重温那段记忆，就会重新体验到同样的情绪反应。
+现在，事实证明，**哌唑嗪**这种药物，因为它是在退伍军人事务部使用的，所以它很便宜，而且它能穿过血脑屏障。当哌唑嗪进入大脑时，它所做的事情之一就是**降低去甲肾上腺素的水平**。为什么这很有趣？他感到困惑的是，他说：“我给我的**PTSD**退伍军人服用这种降压药。它对他们的血压帮助不大，但他们都回来告诉我：‘那些重复性的噩梦开始消失了，我睡得更好了，我感觉也更好了。’”他无意中治疗了他们过高的去甲肾上腺素水平，这些水平阻止了大脑降低去甲肾上腺素水平，并处理记忆中的情感。在那些PTSD患者中，去甲肾上腺素水平过高。但通过这种药物治疗，他无意中降低了REM睡眠期间的去甲肾上腺素水平。然后，它最终成为了退伍军人事务部治疗重复性噩梦的唯一处方药之一，为什么？因为大脑最终进入了一种所谓的“安全化学状态”，因为去甲肾上腺素水平过高。但他用这种药物治疗了他们。所以他有正在寻找理论的数据。我有一个正在寻找临床数据的理论。所以他在做完报告后，我冲向他。我说：“我想我知道你为什么会发现这些。”我把他请到伯克利。我们一起度过了整天。我们一起吃了晚饭。正如我所说，他最终进行了临床试验。顺便说一句，它并不是对每个人都有效。它并非对每个人都有效。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And we put forward a theory that perhaps the quintessential disorder where this fails is PTSD. Because when you speak to those patients, not only do we see that their REM sleep is disrupted, when you speak to those patients, they will say, "Look, I just can't quote unquote get over the event." What they mean by that is the brain has not stripped the emotion from the memory. So every time they relive the memory, they regurgitate that same emotional reaction.</p>
-</details>
+### 噩梦的治疗：图像排练疗法与记忆再巩固
 
-但做梦还有第二个完全独立的益处。做梦是一种信息炼金术。做梦就是创造力。我告诉过你，在深度非快速眼动睡眠期间，我们把新学的记忆固定下来。这保存了新知识的单个片段。然后是REM睡眠，它发生在深度睡眠之后，记忆处理的第二阶段开始。这时，REM睡眠开始将你最近学到的所有东西与整个旧知识库融合在一起。所以你醒来时，会有一个全新的、遍布大脑的联想网络，能够为以前无法解决的问题提供解决方案。
+但是，我想说，现在有一种更好的治疗噩梦的方法，如果你正在遭受噩梦困扰，它叫做**图像排练疗法**（Image Rehearsal Therapy, IRT: 一种认知行为疗法，用于治疗慢性噩梦，通过改变噩梦的故事情节和结局来减少其频率和强度）或**IRT**。它通过一种令人难以置信的记忆机制起作用，我们大约在20年前发现了这种机制，叫做**记忆再巩固**（Memory Reconsolidation: 指在记忆被重新激活后，会变得不稳定，并有机会被修改或更新，然后再次储存的过程）。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">But there's a second completely independent benefit of dreaming. Dreaming is a form offormational alchemy. Dreaming is creativity. Now I told you that during deep non-REM sleep, we take new memories that we've learned and we fixate them like Amber sort of setting a fossil in and we do that during deep sleep. That saves the individual pieces of the new stuff. Then comes along REM sleep which happens after deep sleep. And the second phase of memory processing happens. That's where REM sleep starts to fuse all of the things that you've recently been learning with this entire back catalog of information. And so you wake up with a revised mindwide web of associations that is capable of diving solutions to previously impenetrable problems.</p>
-</details>
+所以当你学习信息时，或者我们拿一个Word文档来说。如果你打开一个Word文档，开始输入所有这些信息，然后点击保存，然后你明天回来，双击文档，Word却把你拒之门外，你无法编辑文档，那是不是很糟糕？那是一个非常糟糕的信息存储系统。这是一个糟糕的主意。你的人类记忆就像这样。你形成新的记忆，然后你睡觉，并保存它们。但当你回来并重新激活那个记忆时，当你回忆起一个记忆时，你把它带回到这种“打开”的状态，这就像双击记忆，记忆再次变得脆弱和可塑。所以你可以更新和编辑那个记忆。然后第二天晚上你重新保存它。这叫做**再巩固**。所以第一晚我保存它。那是**巩固**。然后我重新激活它。我修改它，然后第二天晚上我再巩固它。
 
-### 睡眠的未来：基因编辑与新型助眠药物
-自我们上次交谈以来，可能发生的最惊人的发现，是发现了我们称之为“天生短睡眠者”的人。这些人由于基因突变，仅需6.25小时，也就是6小时15分钟的睡眠就能生存，并且他们的大脑或身体没有任何损伤，他们靠6小时睡眠就能过得很好。
+所以回到噩梦，事实证明，你可以对因创伤而导致噩梦的创伤患者这样做。例如，假设你遭遇了一场可怕的车祸，你的刹车失灵了，你闯了红灯，被T形撞击，那一切都是创伤性的。你和治疗师一起工作，因为你每晚都会重复经历那场车祸的噩梦，你和他们一起，你告诉他们你的梦。你主动大声回忆梦境。但随后与治疗师合作，你所做的是修改结果。所以，我不再说刹车失灵了，现在在与治疗师的新场景中，你说：“嗯，你往下看，车里有一个手动手刹。”所以你意识到你实际上可以逐渐开始拉手刹，然后你安全地停下车，你把车开到路边，没有发生事故。你所做的就是重新打开那个创伤记忆，你正在重写叙事，然后你睡觉，并更新那个记忆。通过每天回忆和重写记忆，你最终会消散你创伤噩梦的严重性，每晚都是如此。这被称为**图像排练疗法**，用于治疗噩梦。它非常强大。它可能比我提到的**哌唑嗪**药物更强大。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Probably the most spectacular discovery that has happened since you and I last spoke is the discovery of what we call the genetic short sleepers. These are individuals who by way of a genetic mutation can survive on as little as 6.25 hours of sleep. In other words, 6 hours and 15 minutes of sleep. and they show zero impairment in their brain or their body, they can do just fine on six hours of sleep.</p>
-</details>
+### 噩梦与自杀风险：重要的生物标志物
 
-我们已经确定了四个相关基因。这些基因让这些人能够以一种通常会导致疾病的睡眠量安然无恙。此时，可能有些听众会想：“我觉得我就是这种人。”需要说明的是，你一生中被闪电击中的概率是0.00000064，极不可能。而你拥有ADRB1基因（短睡眠基因之一）的概率是0.004。换句话说，你在统计上被闪电击中的可能性比拥有那个短睡眠基因的可能性还要大。
+我猜人们不睡觉和做噩梦的原因有很多，通常都与创伤有关。这是一个好问题，也许在某些方面，噩梦和坏梦有什么区别？因为我们都会做坏梦。坏梦通常不常发生。也许你每月一次，每几个月一次。是的。**噩梦障碍**（Nightmare Disorder: 一种睡眠障碍，特征是频繁、生动且令人痛苦的噩梦，导致显著的困扰或功能障碍）的定义是：你必须频繁地做这些梦，可能至少每周两次。它们必须把你从睡梦中惊醒，并且你有生动的回忆。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And we have four genes that we've identified now. The first two genes. These genes allow these individuals to get away with an amount of sleep that normally would cause predictive disease and sickness just as we've spoken about. So, at this point, probably some people listening are thinking, I think I'm one of those people. Just to put it in context, your the probability that you will be struck by lightning in your lifetime is 0.00. 00064 highly unlikely the chances of you having the ADRB1 gene is 0.004 and the DBR1 gene is the short sleeper gene is one of the short sleeping genes. So in other words you are statistically more likely to be struck by lightning in your lifetime than you are to have that short sleeping gene.</p>
-</details>
+此外，它必须给你带来某种形式的**白天困扰**（Daytime Distress: 指在白天经历的负面情绪、焦虑或功能障碍，通常与夜间睡眠问题相关），让你对这一天感觉不好。它会给你带来精神上的痛苦。而且，如果它开始导致绝望或觉得生命不值得活的感觉，你绝对需要去看医生。以下是我们关于噩梦的发现。**短睡眠时间**，即睡眠不足，睡眠少于六小时，会使你产生**自杀念头**、**尝试自杀**或**不幸地完成自杀**的可能性高出**100%到150%**。那是糟糕的睡眠。
 
-这告诉我们一些超越生物学奇观的东西。它揭示了进化中的一个深刻论断：大自然已经通过基因找到了压缩睡眠的方法。你可以把八小时压缩到六小时。
+事实证明，噩梦，如果短睡眠导致自杀倾向的可能性高出150%，那么**做噩梦会使自杀倾向的可能性高出800%**。我们不认为噩梦会导致自杀倾向。这不是我们所相信的。然而，我们认为，噩梦比睡眠中断更甚。噩梦似乎是**“煤矿里的金丝雀”**（Canary in the Coal Mine: 指早期预警信号，表明潜在的危险或问题）。噩梦是这种从我们夜间睡眠的电静态中泄露出来的**痛苦信号**（Distress Beacon: 指发出求救或痛苦信号的迹象），它对你的自杀倾向、自杀尝试以及我所说的自杀完成都极其敏感。**噩梦是一种生物标志物**（Biomarker: 生物标志物，指可客观测量和评估的生物学特征，用于指示正常的生物过程、病理过程或对治疗干预的药理学反应）。如果你正在经历令人痛苦的噩梦，并且它们把你惊醒，你绝对需要去和某人谈谈，因为有良好有效的方法可以消除这些噩梦。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">This tells us something above and beyond biological fascination. It says there is a profound statement in evolution. Mother nature has figured out a way genetically to zip file sleep. Zip file. You can compress eight down into six.</p>
-</details>
+我试图理解它是一种故障还是一个信号。我想可能两者兼而有之。这是一个很好的问题，它到底是适应性的还是不适应性的？做噩梦是好事还是坏事？我们还没有确切的答案。但让我回到我告诉你的梦境睡眠的两个功能，我们仍在第一个功能，即**情绪急救**。事实证明，你的思维极其敏锐。我们认为，至少规范的梦境，而不是噩梦——噩梦可能是系统失灵，就像我在**PTSD**中提到的重复性噩梦一样，事实上，重复性噩梦在PTSD中是如此一致，以至于如果你没有重复性噩梦，你就无法被诊断为PTSD。它们就是如此具有诊断性。但做梦，规范的做梦，即使是坏梦，也是有益的。我怎么能做出这种断言呢？
 
-反乌托邦在哪里？我们都听说过**CRISPR**（Clustered Regularly Interspaced Short Palindromic Repeats: 一种强大的基因编辑技术），这是加州大学伯克利分校我隔壁实验室的詹妮弗·杜德纳发现的基因编辑工具，她因此获得了诺贝尔奖。未来会不会出现这样的情况——我希望不会——我们开始通过基因工程将人们的睡眠需求从7到9小时减少到6小时？
+有一位已故的睡眠科学家，一位名叫**罗莎琳德·卡特赖特**（Rosaline Cartwright）的女士，她做了一项研究。她研究了那些经历过困难时期的人，比如丧亲之痛或非常痛苦的离婚。他们因为那段经历而变得抑郁。在经历发生的时候，她以治疗师的身份接诊他们，并让他们进行**梦境回忆**（Dream Recall: 指回忆起梦境内容的能力）。所以她让他们每晚都写梦境日记。然后她追踪这些患者一年。结果发现，大约一半的人在12个月后从抑郁症中缓解了。他们好转了，走出了抑郁症。另一半人仍然抑郁。然后她拿着这些数据，回到这两组人面前，她说：“他们的梦有什么不同吗？”结果发现确实有不同。这两组人，无论是摆脱了抑郁症还是仍然处于抑郁症中，他们当时都在做梦。他们都在经历REM睡眠，他们都在做梦。那么区别是什么呢？那些最终从抑郁症中缓解并好转的人，他们在梦中梦到了事件本身，就在它们发生的时候。而那些没有获得临床缓解的人，他们也在做梦，但他们只是没有梦到经历本身。换句话说，仅仅有REM睡眠是不够的。仅仅有REM睡眠并做梦也是不够的。你需要梦到你正在经历的困难、痛苦的经历，才能获得临床上的解决。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Where's the dystopia? Well, we've all heard of crisper, which is this genetic editing manipulation tool that a lab next door to mine at UC Berkeley discovered, Jennifer Downer. She won a Nobel Prize for it. Is there some future, and I hope not. Is there some future where we start to genetically engineer people from a need of 7 to n hours down to a need of six?</p>
-</details>
+### 梦境的第二个功能：创造力
 
-我之所以害怕，是因为我确信，一旦六小时成为新的八小时，所有人都会开始只睡四小时。然后我就又回到了同样的战斗中。因为六小时是你需要的最低限度，而他们会说：“好吧，如果那是最低限度，那我就睡四小时。”
+该死。所以，如果我的生活中发生了一些事情，我需要在睡觉前思考它。是也不是。你必须意识到，根据你相信谁的说法，我们花了**340万年**的进化才发展出这种叫做**人科睡眠**（Hominid Sleep: 指人类及其近亲物种的睡眠模式，包括REM睡眠和非REM睡眠的独特结构）以及做梦和REM睡眠。我认为，那数百万年的进化可能理解了对我来说，夜间梦境体验的正确蓝图播放列表是什么以及应该是什么。因此，我不需要担心它。我不应该试图强迫任何事情。这是梦境睡眠的第一个功能，即**情绪急救**。我们有很好的数据支持这一点。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Why do I fear it? I know for a fact that as soon as six becomes the new eight, everyone starts sleeping four. And now I'm just back into the same battle again because six is the minimum that you need. And they say, "Well, if that's the minimum, then I'll sleep four."</p>
-</details>
+但做梦还有第二个完全独立的益处。做梦是一种**信息炼金术**。**做梦就是创造力**。我告诉过你，在深度非快速眼动睡眠期间，我们会将新学到的记忆固定下来，就像琥珀中固定化石一样，我们在深度睡眠期间这样做。这保存了新事物的各个部分。然后是深度睡眠之后发生的REM睡眠。记忆处理的第二阶段发生了。这就是REM睡眠开始将你最近学到的所有事物与整个信息“旧目录”融合在一起的地方。所以你醒来时，你的大脑中会有一个修订过的“心智广域网”般的关联，它能够为以前难以解决的问题提供解决方案。
 
-### 新型助眠药物的兴起
-关于食欲素（orexin）的故事，催生了第一类我个人比较推崇的新型安眠药的发明，而大多数人对此并不了解。我们基本上进入了安眠药的Web 3.0时代。
+所以，你知道，这几乎就像记忆的**团体疗法**（Group Therapy: 一种心理治疗形式，由一群人与一位或多位治疗师共同参与，分享经验、提供支持和学习应对策略），REM睡眠收集了你白天学到的所有信息，每个人都得到了一个名牌。但与你清醒时已经建立的逻辑联系不同，REM睡眠就像一次出了错的Google搜索，你输入“CEO日记”，它却把你带到第20页。这是梦境睡眠。嗯。它讲的是犹他州的一场曲棍球比赛。你可能会想：“等等，这怎么可能？”嗯，有人发现了一本日记，那是很久以前丢失的。而发现它的人是犹他州的一位著名CEO，他在看比赛。所以，这是一个遥远、不明显的联系。但事实证明，做梦就是关于这个。我们睡觉时带着拼图的碎片，但通过做梦，我们醒来时拼图就完成了。当你开始融合那些通常不应该融合在一起的事物时，如果它们偶尔能带来进化适应性上的显著进步，那就是**创造力**的生物学基础。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">this story of ereexin has led to the invention of the first new class of sleeping medication that I actually favor and most people are not aware of it. It's a new class of we're on to essentially web 3.0 of sleep medication.</p>
-</details>
+这就是为什么没有人会告诉你：“看，**斯蒂芬**，你应该在一个问题上保持清醒。”他们不会。他们会告诉你**“睡一觉再解决问题”**（Sleep on a Problem: 指在面对困难或复杂问题时，暂时放下，通过睡眠来让大脑处理信息，期望醒来后能找到新的解决方案或灵感）。而且，我至今所了解的每一种语言，从法语到斯瓦希里语，都有“睡一觉再解决问题”或类似说法。我的意思是，睡眠的创造性益处超越了文化界限。这是智人的一种普遍体验。
 
-Web 1.0是苯二氮䓬类药物，如Xanax和Valium，对睡眠效果不佳。第二波，即Web 2.0，是像Ambien、Lunesta、Sonata这类药物。这两类药物的作用方式非常相似，它们进入你的大脑皮层，刺激一个叫做GABA的受体，这是大脑主要的神经抑制性递质。所以当这些药物充斥你的大脑时，它们只是按下了红灯，停止了皮层的神经放电。本质上，它们是镇静你。而镇静不是睡眠。
+### 基因型短睡眠者：未来的乌托邦？
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">Web 1.0 were the benzoazipines things like Xanax and Valium not great for sleep. The second wave the web 2.0 those were things like ambient lanesta sonata. Both of those drugs worked in a very similar way where they go up to your cortex and they tickle a receptor called the GABA receptor, GABA, GABA. And it's the major neuroinhibitory transmitter of the brain. So when these drugs flood your brain, they just hit the red light and they stop neural firing of the cortex. Essentially, they sedate you. And sedation is not sleep.</p>
-</details>
+我们还没有谈到的最重要的事情是什么，它与那些可能正在收听的听众的画像以及他们可能点击的原因有关？你知道他们可能又在寻找。我们有优化者，我们有那些有不良睡眠习惯的人，然后我们有那些有真正睡眠障碍的人。我们还没有谈到的最重要的事情是什么，我们应该为他们谈论什么？也许是**反乌托邦的未来**（Dystopian Future: 指一个社会或世界在未来变得非常糟糕、压抑或不公正的设想）。那我们来谈谈反乌托邦的未来吧。如果一个播客不包含，至少在当今时代，一个反乌托邦的未来，那它算什么呢？反乌托邦的未来是什么？
 
-但我们通过对发作性睡病的研究意识到，如果食欲素这个大脑中的“清醒音量按钮”是失眠患者的问题所在，我们是否可以开发一种药物，它不是像Ambien那样镇静大脑皮层，而是进入脑干中食欲素的中心？这些新药被称为**多拉类药物**（DORAs - Dual Orexin Receptor Antagonists: 一类通过阻断食欲素受体来促进睡眠的新型药物），它们就像一组聪明的化学手指，进入脑干中释放食欲素的地方，只是调低了清醒的音量，然后退后一步，让清醒的对立面——也就是所谓的自然睡眠——取而代之。
+自从你我上次交谈以来，最引人注目的发现可能是我们所谓的**基因型短睡眠者**（Genetic Short Sleepers: 指由于特定基因突变，能够以远少于常人的睡眠时间保持正常认知和生理功能的人）。这些人由于基因突变，可以只睡**6.25小时**，换句话说，6小时15分钟的睡眠。他们的大脑或身体没有任何损伤，他们可以很好地只睡六小时。我知道这会走向何方。我们现在已经确定了**四个基因**。前两个基因。第一个被确定的是**DEC2基因**。第二个是**ADRB1基因**，我承认它听起来像下一张**电台司令**（Radiohead: 英国著名摇滚乐队）的专辑，但它不是电台司令的下一张专辑。这些基因让这些个体能够以通常会导致我们所说的疾病和病痛的睡眠量来避免这些问题。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">But after we realized by way of the story of narcolepsy that if this chemical ereexin, this wakefulness volume button in the brain is a problem in insomnia patients. What if we were to just develop a drug that doesn't sedate the cortex like ambient? Instead, it goes down into the brain stem where the center for erection is. And these new drugs and they're called the Doras drugs, D A small s. And it's a class of drugs. They act like a clever set of chemical fingers. They go down into the brain stem where this sort of erection is being released and they just dial down the volume on wakefulness and then they take a step back and they allow the antithesis of wakefulness to come in its place which is this thing called naturalistic sleep.</p>
-</details>
+所以，此时此刻，可能有些听众正在想：“我想我就是其中之一。”为了说明情况，你一生中被闪电击中的概率是**0.0000064%**，极不可能。你拥有**ADRB1基因**的概率是**0.004%**。而**ADRB1基因**是短睡眠基因之一。所以换句话说，你一生中被闪电击中的可能性，比你拥有那个短睡眠基因的可能性要大得多。所以，顺便说一句，这个概率是很低的。
 
-### 结语：成功、幸福与人际关系的沉思
-成功带给我两样东西，一个有益，一个不那么有益。有益的是，我现在有机会，也被赋予了机会，飞往世界各地，努力传播关于睡眠的知识，因为它的生理学是如此的默默无闻。
+为什么会这样？他们为什么能做到这一点？我们现在通过基因操作发现了原因。首先，他们白天有更强的**清醒驱动力**（Wake Drive: 指身体在清醒状态下积累的对睡眠的需求，随着清醒时间延长而增加）。所以你我以及所有凡人，白天都会有意识的波动，我们会感到有点困倦和疲惫，然后我们会恢复。他们没有。他们就像一个电灯开关，一个调光开关。你我，我们醒着的时候亮度可能达到80%，然后有时会闪烁，然后我们会下降，我们会睡得很扎实，可能下降到20%，但灯没有完全熄灭，你知道，睡眠很好但并不惊人。这些人有一种**“全有或全无”**（All or Nothing Phenomenon: 指一种极端现象，要么完全发生，要么完全不发生）的现象。他们白天100%保持清醒，可以轻松保持17、18小时的清醒。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">It brought me two things. one beneficial one less. So beneficial is that I have now the chance and have gifted the chance to fly around the world and tried to speak the word of sleep because the physiology of it is so silent.</p>
-</details>
+然后当他们睡觉时，他们睡得很沉。他们的睡眠效率更高。还记得我们谈到睡眠效率吗？我希望它达到85%或以上。他们几乎所有的夜间时间都花在扎实、稳定、深度睡眠中。他们的睡眠深度更大。所以他们白天更清醒。他们建立了更强的清醒驱动力，这被称为**食欲素**（Orexin: 又称下丘脑分泌素，是一种神经肽，主要作用是促进清醒、维持警觉性、调节食欲和能量平衡），这意味着当他们睡觉时，他们睡得更沉，这意味着他们白天可以保持更长时间的强大清醒状态。其次，他们不遭受**时差反应**。
 
-不过，我得说，当你把头探出公众的栏杆时，别惊讶会有人向你开火。如果你是一个哪怕只有一丝不安全感的人，评论会给你带来不小的伤害。所以，我认为，成为公众人物会让你产生一定程度的脆弱和不安全感。如果我没有成为公众人物，我可能不会那么在意自己的智力、声音或者那灾难性的男孩乐队发型。
+你是什么意思，他们不遭受时差反应？因为他们清醒驱动力的强度，当他们昼夜节律失调时，就好像他们没有跨越时区一样。他们可以保持清醒。他们有很强的清醒驱动力。这些人是谁？他们就是这些**基因型短睡眠者**。他们会把这些基因传给他们的孩子吗？是的，他们会。所以他们的孩子也有同样的基因，它们是可遗传的。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">I would say though that there is also, and I suspect you may experience some of this too, when you raise your head above the public parapit, don't be surprised if shots are fired. And if you're someone who has even the vaguest hint of insecurity, comments will do you a lovely disservice. And so I think there's a degree of kind of vulnerability and insecurity that you can develop by way of becoming um someone who is in the eye of the public that had I not been in the eye of the public I probably wouldn't have been you know as self-conscious about whether it's you know your intellect or your voice or your you know disastrous you know boyband haircut whatever it is.</p>
-</details>
+### 睡眠压缩与反乌托邦的担忧
 
-我找到了我的那个人。她就像晴空中的一道闪电，毫无预兆地出现了。有趣的是，我从未能比和她在一起时更真实地做自己，即使是独自一人时也做不到。她每天都让我想成为一个更好的人。我找到了前所未有的平静。
+我能拥有吗？嗯，首先，在我们谈到反乌托邦之前，让我们退一步。这告诉我们一些超越生物学魅力的事情。它表明了进化中的一个深刻论断：大自然母亲已经找到了一种基因方式来**“压缩睡眠”**（Zip File Sleep: 指通过基因手段将所需睡眠时间缩短，同时保持睡眠质量和功能）。压缩睡眠。你可以把八小时压缩成六小时。你知道在你的电脑上，你可以收集一堆文件，把它们全部组合在一起，然后你说“压缩这些文件”，你压缩它们，把它们压缩成一个文件，它变得密集，紧凑，占用更少的体积。他们有相同的预期寿命吗？从我们所能判断的一切来看，他们似乎有。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">You know, I found my person and and she is she appeared like lightning from a clear blue sky. Never saw her coming. And it's interesting that I've never been able to be more myself, even with myself, than I have with her. Every day she makes me want to be a better person. And I have found peace that I have never had before.</p>
-</details>
+所以，在基因层面，进化已经找到了如何将八小时睡眠压缩到六小时的方法。反乌托邦在哪里？嗯，我们都听说过**CRISPR**（Clustered Regularly Interspaced Short Palindromic Repeats: 一种基因编辑技术，可以精确地修改DNA序列），这是我隔壁**加州大学伯克利分校**（UC Berkeley）实验室的**詹妮弗·杜德纳**（Jennifer Doudna）发现的基因编辑操作工具。她因此获得了诺贝尔奖。是否存在某种未来——我希望没有——是否存在某种未来，我们开始通过基因工程改造人类，将他们对7到9小时睡眠的需求降低到6小时？想象一下医疗保健负担成本的减少，因为目前睡眠不足的负担是巨大的。
 
-有一个名叫克莱夫·韦林的绅士，他的故事令人难以置信地悲伤。克莱夫是神经科学界的一个著名人物，电影《记忆碎片》就是根据他的故事改编的。他感染了一种病毒，摧毁了他的记忆中枢。从那一刻起，他再也无法形成任何新的记忆。他生活在仅仅两三秒的时间里。他唯一记得并能认出的人是他的妻子。
+睡眠不足将使大多数国家损失约**2%的GDP**。在美国，睡眠不足造成的成本是**4110亿美元**。在英国是**400亿美元**。在日本是**500亿美元**。解决睡眠不足的流行病，我一直在努力通过说“睡够”来做到这一点。你可以，你知道，以好的方式造成巨大的金融颠覆。但在这里，如果你开始通过基因工程改造人类，你是否可以减轻目前需要7到9小时睡眠的人所造成的负担，并消除这种负担，因为他们不再需要7到9小时睡眠了？
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">There's a an incredibly sad story of a gentleman called Clive Wearing. And Clive is a famous individual in the neuroscience world. And Clive was the man who the movie Momento was based on, which is a movie where a man has brain damage and he has profound amnesia. And from that moment forward, he can never make any new memories whatsoever. He's densely amnesic. And he was a real life individual. He contracted a virus that destroyed his memory centers. And from that point forward, he could no longer make any new memories. And he lived in just 2 or 3 seconds of time. The only person that he remembered and he would recognize is his wife.</p>
-</details>
+你为什么说“我希望没有”？嗯，我希望没有，因为我认为会发生以下情况。我并不是反对这个想法。我希望疾病和病痛的负担能够减轻，人们不再遭受痛苦。如果我能找到一种基因方法来做到这一点，我会做的。你可能会想到人们会争论说：“想象一下生产力带来的好处。”我的意思是，那会带来巨大的好处。你知道，人们会更有效率，他们可能会花更多的钱。所以从资本主义社会的角度来看，这是完美的，是广告人的梦想，因为当你睡觉时，这与资本主义社会是矛盾的。为什么？因为你既不生产也不消费。这很 Cynical，我并不认同。但尽管如此，如果通过基因工程改造，所有这些事情都会明显变得更好，不是吗？我为什么害怕它？我确切知道，一旦六小时成为新的八小时，每个人都会开始睡四小时。
 
-问题是，他从不记得距离上次见到妻子有多久了。所以，每当她离开房间5分钟后再走进来时，他都会从椅子上跳起来，带着难以置信的喜悦，跑过去拥抱她、亲吻她。我想，我们有时会把伴侣视为理所当然，只有当他们离开时，我们才意识到他们有多么珍贵。我常常思考，自满可能是亲密关系中最大的负面力量之一。
+现在我又回到了同样的战斗中，因为六小时是你所需的最低限度。他们会说：“嗯，如果那是最低限度，那我睡四小时。”当我发现下一个能让你只睡四小时的基因时，他们会说：“嗯，那太棒了。那我就可以睡两小时了。”这几乎是一种睡眠货币的通货膨胀，我总是在打一场仗，在某个时候，我总会站在那场仗的错误一边。
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">But the problem was he never remembered how long it's been since he last saw his wife. And so every time that she would walk into the room after being out of it for 5 minutes, he would jump out of his chair and he had this incredible elation and he would run and he would hug her and kiss her. And I think sometimes we take our partners for granted and the only time we realize how precious they are is when they're gone. And I often think about that that complacency can be one of the greatest negative forces in a relationship.</p>
-</details>
+太疯狂了。这些人拥有这种基因，他们可以只睡四到六小时，而不会像我们大多数人那样经历任何负面影响。没错。所以，你知道那里发生了什么，我们看到的是这种令人难以置信的睡眠密度和强大的清醒驱动力。他们是更高效的睡眠者。他们可以在六小时内完成你我需要八小时才能完成的事情。我猜，有没有一种简单的方法可以测试这个？我想，去实验室进行测试。是的。所以如果你做过，你知道，我想，你知道所有那些基因检测工具包，其中很多都允许你下载你的原始数据。你所需要做的就是下载你的原始数据，然后有一家公司，我想它叫**普罗米修斯**（Prometheus: 在此指一家提供基因数据分析服务的公司）。再次声明，我与他们没有任何关联。我不知道他们有多大效力，但你把你的原始基因数据上传到他们的模型中，然后它会列出并分析它。所以通常那些基因服务会给你一份漂亮的PDF报告，大约15页，包含所有主要内容。而这个普罗米修斯有点像，你知道，老派的科学家书呆子。他们会给你一份原始的、有点粗糙的50页报告。界面很糟糕，但你可以在里面搜索，看看，你知道，我拥有哪种**DEC2基因**或哪种**ADRB1基因**？它会告诉你，你是不是基因型短睡眠者，你就能知道了。
 
-我常常想起克莱夫·韦林，即使在我心情不好、情绪低落、不想与人交往的日子里。我总是努力回想他的反应。当我的妻子下班回家，或者我第一眼看到她时，我努力回想他的反应，以及尽管被负面压力的阴霾笼罩，我内心真实的感受。
+### 饮食状态对睡眠的影响：生酮与食欲素
 
-<details>
-<summary>View/Hide Original English</summary>
-<p class="english-text">And I always think about Clive Weiring even on the days where I'm having a bad day or I'm in a bad mood and I'm not myself or I just don't want to be around someone. I always try to remember his reaction. And when my wife walks back in from work or I see her, you know, first thing, I try to remember how his reaction was and how I truly feel at the time despite the blanket of negative stress trying to drown that feeling out.</p>
-</details>
+我最近一直在思考某些饮食状态，以及它们是否对睡眠有影响。我们谈到了昼夜节律。我一直在思考禁食，而且我想我和那边的小**杰克**（Jack）现在都处于**生酮状态**（Ketosis: 身体代谢状态，当碳水化合物摄入极低时，身体会分解脂肪产生酮体作为能量来源）。我想知道你是否在思考大脑表现、睡眠和不同状态时，会考虑禁食或生酮？是的，如果你看它，结果是好坏参半的。当然，你吃什么会改变你的睡眠方式。但也许更强大的是，你的睡眠方式会极大地改变你的饮食方式，以及你如何处理这些卡路里，以及当你睡眠不足时身体内部会发生什么。
+
+但是，当我睡眠不足时，我有很多渴望。是的，你会有。这有一个原因：首先，两种食欲激素，**瘦素**（Leptin: 一种由脂肪细胞分泌的激素，主要作用是抑制食欲，增加能量消耗，维持能量平衡）和**饥饿素**（Ghrelin: 一种由胃分泌的激素，主要作用是刺激食欲，促进生长激素释放），会走向相反的方向。它们听起来像霍比特人，我这里有一些《指环王》的东西，但瘦素是告诉你的大脑“你饱了”的信号。是的，你饱了。不要再吃了。饥饿素则相反。它会让你肚子咕咕叫，告诉你“你饿了。你没饱。你需要吃更多。”当你睡眠不足时，告诉你“你饱了，停止进食”的瘦素激素会受损。它会下降。所以你失去了“我饱了”的信号。更糟糕的是，告诉你“我饿了”的饥饿素信号会增加。
+
+所以现在你的饥饿驱动力增加了大约**30%到40%**。最后一部分是，当你睡眠不足并摄入卡路里时，你处理能量的方式是不同的。当你睡眠不足时，你的身体更容易将卡路里作为脂肪储存起来，而不是例如作为**糖原**（Glycogen: 动物体内储存葡萄糖的主要形式，主要储存在肝脏和肌肉中）储存在肌肉中。哦，所以当我睡眠不足时，这就是为什么我更容易长**腹部脂肪**（Belly Fat: 指堆积在腹部区域的脂肪，包括皮下脂肪和内脏脂肪）。没错。更糟糕的是，有一项很棒的研究，他们观察了节食的人，他们要么睡眠充足，要么睡眠不足。令人着迷的是，这两组人，无论你睡眠充足与否，都减了体重。事实上，你减的体重差不多。所以你可能会想：“好吧，那没关系。”问题是，如果你看你减掉了什么，就会有问题。那些节食但睡眠不足的人，他们减掉的所有体重中，**70%来自瘦肌肉量，而不是脂肪**。换句话说，当你睡眠不足时，你保留了你想要减掉的脂肪，却失去了你想要保留的肌肉。
+
+天哪。该死。睡眠很重要，不是吗？但回到**生酮**，顺便说一句，我想说，当人们进入禁食状态时，我们通常会看到他们的睡眠时间变短了。他们会说：“我睡得几乎更有效率。我可能只睡四五个小时，但我感觉更清醒、更警觉。”现在，其中一部分与生酮有关。当你**热量剥夺**（Calorically Deprived: 指身体摄入的卡路里不足以满足其能量需求的状态）时，大脑开始意识到有问题，因为你缺乏卡路里。你正在进入饥饿状态。所以，它会驱动一种叫做**食欲素**的化学物质。食欲素是一种**促醒化学物质**（Wake-promoting Chemical: 指能促进清醒和维持警觉性的化学物质），它会迫使你的大脑释放更多的这种促醒化学物质食欲素。所以现在当你禁食时，更容易长时间保持清醒，你的大脑会故意阻止你睡太多。
+
+这不是因为它想让你少睡。而是因为在我们进化的过去，我们唯一经历过短睡眠的时候，就是我们处于**热量赤字**（Caloric Deficit: 指身体消耗的卡路里多于摄入的卡路里，导致能量不足）状态。原因又回到了这个想法：你必须保持清醒更长时间，因为你找不到食物。现在，你的大脑不知道你故意决定禁食，这在很多方面是好事。但这就是为什么当人们禁食时，他们会说：“我的睡眠一团糟。”你知道，我的睡眠变得非常短。所以，我现在处于生酮状态，我正在进入这个状态，我的睡眠会减少到大约五六个小时，我的**Whoop**（Whoop: 一款可穿戴健康追踪器，提供关于睡眠、恢复和训练的详细数据）分数会暴跌。是的。直到我走出这个阶段，这可能需要几周时间，然后我的睡眠分数似乎又稳定下来。但最初的过渡期，看起来就像经历了一场生理冲击。
+
+### 新型安眠药：DORAs药物
+
+是的。这种冲击就是**食欲素**这种促醒化学物质，它会迫使你保持非常清醒的状态。顺便说一句，举个例子，患有**嗜睡症**（Narcolepsy: 一种慢性神经系统疾病，特征是白天过度嗜睡和突然发作的睡眠，可能伴有猝倒）的人，这种睡眠障碍使他们在白天不自觉地、无法控制地入睡。他们的情况正好相反。我刚才告诉你，当你禁食时，你的大脑会释放这种化学物质食欲素来迫使你清醒，你就会非常清醒。我们研究嗜睡症患者的大脑时发现，他们缺乏这种大脑化学物质**食欲素**。所以他们无法稳定地保持清醒。他们的情况与你的禁食问题相反。你因为食欲素过多而非常清醒。他们因为食欲素过少，所以无法在白天维持稳定的清醒状态。所以他们不断地入睡。
+
+**食欲素**的故事促成了第一类新型安眠药的发明，我个人非常看好这类药物，但大多数人并不知道。这是一类新型药物，我们正处于睡眠药物的**Web 3.0**时代。Web 1.0是**苯二氮䓬类药物**（Benzodiazepines: 一类镇静催眠药，如安定、阿普唑仑等，用于治疗焦虑、失眠和癫痫），比如**阿普唑仑**（Xanax: 一种苯二氮䓬类药物，主要用于治疗焦虑症和恐慌症）和**地西泮**（Valium: 一种苯二氮䓬类药物，具有镇静、抗焦虑、肌肉松弛和抗惊厥作用），它们对睡眠并不好。第二波，Web 2.0，是**安眠药**（Ambien）、**佐匹克隆**（Lunesta: 一种非苯二氮䓬类催眠药，用于治疗失眠）和**扎来普隆**（Sonata: 一种非苯二氮䓬类催眠药，用于治疗入睡困难）。这两种药物的作用方式非常相似，它们作用于你的大脑皮层，刺激一种叫做**GABA受体**（GABA Receptor: 伽马-氨基丁酸受体，是中枢神经系统中主要的抑制性神经递质受体）的受体。**GABA**是**大脑主要的神经抑制性递质**。所以当这些药物充斥你的大脑时，它们就像按下了红灯，阻止了皮层的神经放电。本质上，它们让你镇静。
+
+**镇静**（Sedation: 指通过药物使人镇静、放松，但并非真正的自然睡眠）不是睡眠。但当你服用安眠药时，你把镇静误认为是睡眠。这不完全一样。这不是自然睡眠。但后来我们通过**嗜睡症**的故事意识到，嗜睡症患者缺乏这种化学物质**食欲素**，他们在白天不适当地入睡。那么，想想夜间的**失眠症**是什么。失眠症几乎是嗜睡症的对立面，嗜睡症患者在白天想保持清醒时却入睡。失眠症患者在夜间想睡觉时却清醒。所以他们意识到，如果这种化学物质食欲素，这个大脑中的清醒音量按钮，是失眠患者的问题，那么我们能否开发一种药物，它不像安眠药那样镇静皮层？相反，它作用于脑干，那里是食欲素的中心。这些新药被称为**DORAs药物**（Dual Orexin Receptor Antagonists: 双食欲素受体拮抗剂，一类新型安眠药，通过阻断食欲素的作用来促进睡眠），D.O.R.A.s。它是一类药物。目前有三种**FDA**（Food and Drug Administration: 美国食品药品监督管理局）批准的药物，我将尝试为你拼写出来。它们是**苏沃雷生**（Suvorexant）、**伦博雷生**（Lemborexant）和**达利多雷生**（Daridorexant）。
+
+没错。我的突触里充满了这些名字。但你看，它们是三种**FDA**批准的药物。它们的作用就像一套巧妙的化学手指。它们进入脑干，那里正在释放食欲素，它们只是调低了清醒的音量，然后它们退一步，让清醒的对立面——这种叫做**自然睡眠**（Naturalistic Sleep: 指与身体自然生理过程相符的睡眠，而非由药物强制引发的镇静状态）的东西——取而代之。现在，如果你查看这些临床数据，它们确实能让你睡得更久，但不一定是更长的时间，而是你清醒的时间大大减少了。所以你拥有良好的睡眠效率，更强的连续性。
+
+### DORAs药物的优势与阿尔茨海默病
+
+但作为一名科学家，我可能会非常怀疑，我会说：“好吧，这种新药，它增加了你的总睡眠时间，提高了你的睡眠效率，但我有四个字：‘那又怎样？’仅仅因为我增加了你的夜间睡眠，我怎么知道那是**功能性睡眠**（Functional Sleep: 指能够有效恢复身体和大脑功能，并带来健康益处的睡眠）？我怎么知道那是**有用睡眠**（Useful Sleep: 指对身体和大脑有实际益处的睡眠）？它会不会只是像‘垃圾DNA’一样，只是**垃圾睡眠**（Junk Sleep: 指虽然有睡眠行为，但未能有效恢复身体和大脑功能，缺乏益处的睡眠）？”嗯，他们做了一项研究，观察了你大脑中的**淋巴系统**（Glymphatic System: 大脑特有的废物清除系统，在睡眠期间活跃，有助于清除代谢废物，包括与阿尔茨海默病相关的蛋白质）。你的大脑中有一个清洁系统，它在深度非快速眼动睡眠期间会高速运转。它会清除大脑中所有的代谢毒素，其中两种是**β-淀粉样蛋白**（Beta-amyloid: 一种蛋白质片段，在大脑中异常堆积被认为是阿尔茨海默病的关键病理特征）和**tau蛋白**（Tau Protein: 一种在神经元中发现的蛋白质，其异常缠结与阿尔茨海默病及其他神经退行性疾病有关），它们是**阿尔茨海默病**（Alzheimer's Disease: 阿尔茨海默病，一种进行性神经退行性疾病，导致记忆力、思维能力和行为能力逐渐下降）的罪魁祸首。这就是为什么我们知道睡眠如此重要，因为在夜间，这是一个良好的夜间睡眠清洁。它是一种强力清洁，可以清除阿尔茨海默病的毒素。
+
+所以他们做了一项研究。天知道他们是怎么让这些人参与的。但他们把他们带了进来。他们都是50岁或以上的人，在早上和前一晚，他们都接受了**腰椎穿刺**（Lumbar Spinal Puncture: 一种医疗程序，通过在腰椎间隙插入针头抽取脑脊液进行诊断或治疗），他们抽取了**脑脊液**（Cerebral Spinal Fluid: 脑脊液，围绕大脑和脊髓的透明液体，具有保护、营养和清除废物的功能）。所以他们可以测量睡眠前后大脑中有多少代谢碎屑，包括代谢废物，包括**β-淀粉样蛋白**和**tau蛋白**。他们要么服用了这些**DORAs药物**中的一种，要么服用了安慰剂。公平地说，当他们服用这种新型药物，即Web 3.0的DORAs药物时，他们的睡眠得到了改善。但他们还发现，不仅他们的睡眠得到了改善，而且第二天早上他们的大脑比安慰剂组清除了更多的β-淀粉样蛋白和tau蛋白。换句话说，这不仅仅是**附带现象的垃圾睡眠**（Epiphenomenal Junk Sleep: 指表面上看起来是睡眠，但实际上未能带来生理益处，只是伴随现象的无用睡眠）。这是有益的睡眠。这是适应性的有用睡眠，因为这种药物诱导的睡眠清除了更多的阿尔茨海默病蛋白质。这是首次证明，他们现在已经在动物模型中复制了这一点，这是一种**没有副作用的安眠药**（Sleeping Pill That Isn't Disadvantageous: 指一种新型安眠药，与传统安眠药不同，它不会带来负面影响，反而能促进大脑的清洁和恢复），我们知道像安眠药这样的药物是有副作用的。事实上，最近一项研究表明，安眠药在夜间会使清洁脉冲液减少约30%到40%。但这是一类新型药物，它能起到相反的作用。
+
+这是新的吗？这是新的。**DORAs药物**，D.O.R.A.s。问题是，美国很多保险公司目前不予报销。有些会报销，我相信在欧洲或英国，这三种DORAs药物并非全部可用。大概是这样，因为它们太贵了，如果你自费购买，这些药物每月可能高达**400美元**。现在，一些失眠患者，当我去找他们说：“在一个糟糕透顶的睡眠不足的月份结束时，如果我去找他们说：‘看，如果你现在给我400美元，我能挥舞魔杖，消除上个月所有糟糕的睡眠，你愿意给我400美元吗？’”他们中的大多数人会说：“当然，拿去吧。”但目前，人们仍然被价格拒之门外，但**DORAs药物**，如果你正在与失眠作斗争，以及**认知行为疗法**（Cognitive Behavioral Therapy for Insomnia, CBT-I: 针对失眠症的认知行为疗法，通过改变与睡眠相关的思维和行为模式来改善睡眠），请务必了解它们。我没有意识到在如何睡个好觉、大脑中发生了什么，以及那些让许多人难以入睡的生活方式因素方面，有如此多的新科学和研究被发现。
+
+### 睡眠对基因与生活的影响
+
+是的。**711个基因**的活动因睡眠不足而扭曲。一些基因过度表达，与心血管疾病、压力或炎症有关，另一些基因受损，与你的免疫系统有关。所以你变得**免疫缺陷**。如果你是一个持续与睡眠作斗争并积累睡眠债务的人，这可能会是一个向下复合的螺旋。
+
+我们播客有一个结束传统，就是上一位嘉宾会为下一位嘉宾留下一个问题。留给你的问题是：成功给你带来了什么你从未梦想过的东西？它给我带来了两件事：一件有益的，一件不那么有益的。有益的是，我现在有机会，并且被赋予了机会，可以飞遍世界，努力传播睡眠的理念，因为它的生理学是如此沉默。我过去常常抱怨“为什么是我”，因为世界上有那么多比我更好的睡眠科学家。一个朋友在我抱怨“我不明白为什么是我，我患有**冒名顶替综合症**（Imposter Syndrome: 一种心理现象，指即使取得成功，个体仍怀疑自己的能力，并害怕被他人发现自己是“骗子”）”之后，他只是叫我闭嘴，接受就是我，然后问我：“你会用它做什么？”我改变了拥抱它的方式。所以，我很幸运，在我出版了你手中的那本书之后，我的生活永远改变了，而且几乎都是变得更好。我很幸运。我通过睡眠使命过着如此幸运的生活。
+
+### 成功带来的脆弱与人际关系的感悟
+
+然而，我想说，也存在——我怀疑你可能也经历过一些——当你把头伸出公众的**胸墙**（Parapet: 指城墙或堡垒边缘的矮墙，在此比喻公众的视线和评判），不要惊讶于会有人开枪。如果你是一个哪怕有一点点不安全感的人，评论会给你带来极大的伤害。所以，我认为，当你成为公众关注的焦点时，你会产生一定程度的脆弱和不安全感。如果我没有成为公众关注的焦点，我可能就不会那么在意我的智力、我的声音，或者我那糟糕的“男孩乐队发型”之类的东西。我想说，那是唯一的一点点缺点，总的来说，我是我所认识的最幸运的人。我被睡眠这个东西如此眷顾。这是一段持续了近25年的爱情，我相信它是所有科学中最迷人的话题，它待我如此之好。
+
+你快乐吗？此时此刻，我比你想象的更快乐。我从未如此快乐过。为什么？我在生活中找到了一样东西，原因我可以分享，也可以不分享。请分享吧。我很想知道。你知道，我找到了我的那个人，她就像晴天霹雳一样出现。我从未预料到她的到来。有趣的是，我从未像和她在一起时那样，能够更真实地做自己，甚至比我自己独处时更真实。每天她都让我想要成为一个更好的人。我找到了前所未有的平静。你从未有过的平静？没有。我们上次交谈时你感到平静吗？我不会说我没有平静。我不知道这种类型的平静，我从不相信“命中注定之人”这种说法。你知道，我是一名科学家。我是一个务实、经验主义的人，我根本没有想到会是这样。我没有想到会有这样一个人。如果两年前你告诉我，你给我讲了你确定的爱情故事，我可能会认为你被误导了，认为你需要放下你正在使用的任何物质，因为你产生了妄想，因为没有这样的事情。
+
+她是一份礼物，我希望我永远不会认为她是理所当然的。我对此表示怀疑。有一个令人难以置信的悲伤故事，关于一位名叫**克莱夫·韦林**（Clive Wearing: 一位著名的英国音乐家，因患有严重的顺行性失忆症和逆行性失忆症，只能记住几秒钟的事情）的绅士。**克莱夫**是神经科学界的一个著名人物。**克莱夫**就是电影**《记忆碎片》**（Momento: 一部2000年上映的美国新黑色心理惊悚片，讲述了一个患有顺行性失忆症的男人寻找杀害妻子的凶手的故事）的原型，那部电影讲述了一个男人大脑受损，患有严重的**失忆症**（Amnesia: 记忆力丧失或受损，可能影响短期或长期记忆）。从那一刻起，他再也无法形成任何新的记忆。他患有严重的失忆症。他是一个真实生活中的人。他感染了一种病毒，摧毁了他的记忆中心。从那时起，他再也无法形成任何新的记忆。他只活在两三秒的时间里。意识的聚光灯只是在时间中向前移动。他对过去没有记忆。他对未来没有预期。他唯一记得并能认出的人是他的妻子。所以他可以和你聊这三个小时。然后你走出房间五分钟，你再走进来，你会说：“嗨，克莱夫，很高兴认识你。”他会说：“嗨，你叫什么名字？”他没有任何记忆。他唯一记得的人是他的妻子。但问题是，他从不记得他上次见到妻子是多久以前的事了。所以每次她走出房间五分钟后，再走进来时，他都会从椅子上跳起来，他感到无比的狂喜，他会跑过去拥抱她，亲吻她。
+
+### 关系中的自满与珍惜
+
+我想有时我们把伴侣视为理所当然，只有当他们离开时，我们才意识到他们有多么珍贵。我经常想到，**自满**（Complacency: 指对现状感到满足而不思进取，在人际关系中可能导致忽视和不珍惜）可能是关系中最强大的负面力量之一。我总是想到**克莱夫·韦林**，即使在我心情不好、情绪低落、不是我自己，或者我只是不想和某人在一起的日子里。我总是努力记住他的反应。当我的妻子下班回家，或者我第一次见到她时，我努力记住他的反应，以及我当时真实的感受，尽管负面压力的阴影试图淹没那种感觉。
+
+那是一件美好的事情。我也经常思考这个问题。以何种方式？我只是现在更频繁地，几乎每周都会意识到，当我的时间到了，我的浪漫关系会如何。我想，即使在争吵中，我也会现在思考——这实际上几天前发生过——那不是真正的争吵，我们只是在某个问题上意见不合。我真的在争执中说：“我们会非常后悔的。”我的意思是，当那个电话响起，有人给我带来坏消息，说要么我走了，要么你走了，我会后悔这30分钟被浪费在争吵上。是的。我真的会后悔。你愿意付出多少来换回那30分钟？
+
+没错。就像，你知道，我们争吵的，我不知道，可能是些琐碎的事情。这实际上真的帮助了我，因为在那些风暴中，思考到那个时刻，当你接到那个电话，就像你生病了或者我生病了，我们不会再在一起很久了。它让你摆脱了**不朽感**（Sense of Immortality: 指人们常常感觉自己会永远活下去，从而忽视生命的有限性）可能带来的琐碎，而这种琐碎导致了你所描述的**自满**，就像我把你视为理所当然。是的。所以现在对我来说，这是一个很好的机制，可以问自己：“这重要吗？这真的重要吗？”我必须在这里提供一些细微的差别，那就是这并不意味着不要正确地处理事情。我正要说，**冲突至关重要**。你必须好好争吵。
+
+但让它成为“我与你对抗问题”，而不是“我只是攻击你”。是的。你们必须为彼此而战，而不是相互对抗。是的。没错。而且你必须努力在**克莱夫·韦林**的背景下，如果你需要进行对话，不要回避冲突。这就像健身房。如果你做得好，即使在你有点不想去健身房或感觉不好的日子里，你总是会感觉比以前更好。而对于冲突，如果你处理得好，通常，可能不是一小时后，甚至不是一天后，但如果你处理得好，作为一对伴侣，你们通常会比冲突前更好，只要你处理得好。所以，我不是说不要有冲突。我说的**克莱夫·韦林**的故事，他爱他妻子的那种强烈程度，我从未经历过，直到我遇到了我更好的另一半，这阻止了我产生**怨恨**（Resentment: 指对某人或某事产生的长期不满、愤怒或苦涩情绪）。怨恨是阻碍你修复关系和走向未来平静的障碍。因为当你怨恨某人时，意味着你没有处理，你没有向前看。而怨恨通常来自于，我认为，对事情的错误选择，比如“我赢了争论吗？”“你赢了争论吗？”至少，这不是关于得分。我以前也做过那种事。我曾犯过所有那些行为的错误。但现在，对于我最珍惜的这个人，你知道，我想到他的教训。我们不是没有冲突。我们有。只是我重视这个人远超过冲突本身。我总是想伸出橄榄枝，因为不值得。正如你所说，当那个电话打来时，你知道，我有时会想到这一点，当我心情不好时。比如说，有人，你知道，我回到我的车，我的车被停在路边时被追尾了，或者，你知道，我来这里坐飞机，我们在停机坪上等了4个小时，我前面有一个人变得非常激动，对地勤人员大发雷霆。我当时想，看，我的好朋友，当你临终时，你会回顾这一天，然后想：“天哪，你知道，我记得有一天我坐飞机去洛杉矶，延误了4个小时。”不，你当然不会。所以，如果你在临终时不会为此感到压力，你现在为什么要为此感到压力呢？不值得。
+
+活下去。谢谢你。非常感谢你。我的意思是，我无法充分感谢你对数百万人的深远影响。你作为睡眠主题的首席火炬手，围绕睡眠创造了一场运动，同时也提高了我们对自身和我们挣扎的认识。而这是你永远无法理解的。你永远无法理解你积极影响的数百万人的全部程度。但我的意思是，即使你永远无法见到他们所有人，也永远无法听到他们所有的感谢，他们都是非常真实的人，他们本身就是海洋中的小涟漪，他们的孩子以及未来的世代都能睡得更好，享受生活，过上更幸福健康的生活，因为你所做的工作。所以，**马修**，这是一项极其重要的工作。我希望你长期坚持下去，我也长期坚持作为这些重要信息的传达者，传递给像我和我的听众这样的人。我无法再感谢你了。非常感谢你这样说。我无法声称拥有任何这样的肯定，但我想说，我站在巨人的肩膀上，我只是在转述我领域所有杰出同事以及所有前辈的不可思议的工作。我只是一个传声筒，而且做得并不特别好，所有这些工作都归功于他们。这真的是我对他们的感激。所以，谢谢你给我这个机会说这些。
