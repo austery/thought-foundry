@@ -47,7 +47,7 @@ media_books:
   - "《Don't Believe Everything You Think》"
   - "《Antifragile (反脆弱)》"
   - "《The Black Swan (黑天鹅)》"
-  - "《The Pathless Path (也就是"papas")》"
+  - "《The Pathless Path"
   - "《Ultralearning (超速学习)》"
   - "《Clear Thinking (清晰思维)》"
   - "《Cloud Computing》"
