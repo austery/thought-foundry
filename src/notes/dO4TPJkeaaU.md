@@ -17,7 +17,7 @@ tags:
   - "scaling-laws"
 
 people:
-
+layout: post.njk
 companies_orgs:
 
  - "Stanford"
