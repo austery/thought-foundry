@@ -1,0 +1,13018 @@
+I
+ had
+ tried
+ cursive
+ for
+ the
+ first
+ time
+
+
+and
+ what
+ I
+ was
+ able
+ to
+ create
+ just
+ blew
+
+
+me
+ away.
+ I
+ sent
+ a
+ message
+ to
+ my
+ manager,
+
+
+my
+ manager's
+ manager,
+ the
+ CPO
+ and
+ then
+ a
+
+
+few
+ other
+ folks
+ that
+ I
+ knew
+ were
+ really
+
+
+interested
+ in
+ AI
+ and
+ I
+ was
+ like,
+
+
+"Listen,
+ I
+ had
+ this
+ really
+ profound
+
+
+experience
+ and
+ I
+ think
+ we
+ really
+ need
+ to
+
+
+uplevel
+ the
+ skill
+ of
+ our
+ entire
+ product
+
+
+organization,
+ not
+ just
+ designers,
+ but
+
+
+also
+ PMs.
+ We
+ need
+ to
+ become
+ more
+
+
+familiar
+ with
+ this
+ technology.
+ We
+ need
+
+
+to
+ understand
+ how
+ we
+ can
+ use
+ it."
+ This
+
+
+is
+ actually
+ the
+ message
+ that
+ I
+ sent
+
+
+while
+ I
+ was
+ on
+ paternity
+ leave
+ that
+
+
+definitely
+ got
+ my
+ leaders
+ really
+ fired
+
+
+up.
+ I
+ didn't
+ know
+ exactly
+ how
+ this
+ was
+
+
+going
+ to
+ go.
+ All
+ I
+ knew
+ was
+ that
+ I
+
+
+needed
+ to
+ get
+ more
+ folks
+ paying
+
+
+attention
+ to
+ this
+ AI
+ stuff.
+
+
+>> If
+ you
+ were
+ the
+ first
+ to
+ raise
+ your
+ hand
+
+
+that
+ says,
+ you
+ know
+ what,
+ I
+ want
+ to
+
+
+figure
+ out
+ how
+ our
+ team
+ can
+ use
+ AI.
+ I'm
+
+
+going
+ to
+ lead
+ this
+ organization.
+ It's
+
+
+such
+ a
+ unique
+ leadership
+ opportunity
+ to
+
+
+show
+ crossf
+ functional
+ broad
+ impact
+ on
+
+
+teams.
+
+
+[music]
+
+
+Welcome
+ back
+ to
+ How
+ I
+ AI.
+ I'm
+ Claravo,
+
+
+product
+ leader
+ and
+ AI
+ obsessive
+ here
+ on
+
+
+a
+ mission
+ to
+ help
+ you
+ build
+ better
+ with
+
+
+these
+ new
+ tools.
+ Today
+ I
+ have
+ Brian
+
+
+Greenbomb
+ at
+ Pendo
+ and
+ he's
+ going
+ to
+
+
+show
+ us
+ not
+ only
+ how
+ he
+ uses
+ AI
+ in
+ his
+
+
+own
+ product
+ work,
+ but
+ his
+ step-by-step
+
+
+plan
+ for
+ getting
+ your
+ product
+ and
+ design
+
+
+teams
+ adopting
+ AI
+ as
+ well.
+ Let's
+ get
+ to
+
+
+it.
+ [music]
+
+
+This
+ podcast
+ is
+ supported
+ by
+ Google.
+ Hey
+
+
+everyone,
+ Shishta
+ here
+ from
+ Google
+
+
+DeepMind.
+ The
+ Gemini
+ 2.5
+ family
+ of
+
+
+models
+ is
+ now
+ generally
+ available.
+ 2.5
+
+
+Pro,
+ our
+ most
+ advanced
+ model,
+ is
+ great
+
+
+for
+ reasoning
+ over
+ complex
+ tasks.
+
+
+[music]
+ 2.5
+ Flash
+ finds
+ the
+ sweet
+ spot
+
+
+between
+ performance
+ and
+ price.
+ [music]
+
+
+And
+ 2.5
+ Flash
+ Light
+ is
+ ideal
+ for
+ low
+
+
+latency,
+ high
+ volume
+ tasks.
+ Start
+
+
+building
+ in
+ Google
+ AI
+ Studio
+ at
+ a.dev.
+
+
+>> Ryan,
+ thanks
+ for
+ joining
+ us
+ on
+ how
+ I
+ AI.
+
+
+Happy
+ to
+ have
+ you.
+
+
+>> Yeah,
+ so
+ excited
+ to
+ be
+ here.
+ Well,
+ what
+
+
+I
+ am
+ excited
+ about
+ in
+ our
+ conversation
+
+
+is
+ in
+ a
+ lot
+ of
+ our
+ How
+ I
+ AI
+ episodes,
+
+
+we've
+ shown
+ specific
+ ways
+ that
+ you
+ can
+
+
+use
+ specific
+ tools
+ to
+ build
+ or
+ do
+ things
+
+
+with
+ AI.
+ And
+ you're
+ going
+ to
+ help
+ us
+
+
+take
+ a
+ step
+ back
+ and
+ say,
+ you
+ know,
+
+
+let's
+ say
+ you
+ have
+ all
+ these
+ tools
+ and
+
+
+you
+ want
+ to
+ start
+ using
+ them.
+ How
+ do
+ you
+
+
+get
+ a
+ full
+ team
+ or
+ a
+ full
+ organization,
+
+
+a
+ full
+ company
+ actually
+ adopting
+ AI?
+ And
+
+
+so
+ this
+ is
+ a
+ how
+ I
+ get
+ everybody
+ else
+ to
+
+
+use
+ AI
+ episode.
+ So
+ I
+ would
+ love
+ to
+ start
+
+
+with
+ what
+ I
+ call
+ the
+ inception
+ phase
+
+
+which
+ we
+ all
+ have
+ gone
+ through
+ or
+ are
+
+
+all
+ in
+ the
+ process
+ of
+ trying
+ to
+ get
+ our
+
+
+team
+ to
+ go
+ through
+ which
+ is
+ when
+ you
+ get
+
+
+people
+ excited
+ and
+ sort
+ of
+ jumpstart
+ the
+
+
+energy
+ around
+ AI
+ and
+ I
+ think
+ you
+
+
+approach
+ this
+ in
+ a
+ really
+ interesting
+
+
+way.
+ So
+ I'd
+ love
+ you
+ to
+ walk
+ us
+ through
+
+
+what
+ you
+ did
+ at
+ Pendo.
+
+
+>> Yeah,
+ absolutely.
+ So
+ to
+ take
+ you
+ back,
+
+
+um
+ it's
+ the
+ end
+ of
+ last
+ year.
+ So
+ last
+
+
+July,
+ I
+ had
+ uh
+ my
+ daughter
+ Meer,
+ my
+
+
+daughter
+ Maya
+ was
+ born.
+ Um
+ you
+ can
+ kind
+
+
+of
+ see
+ the
+ nursery
+ in
+ my
+ background
+ with
+
+
+this
+ is
+ sort
+ of
+ shared
+ office
+ uh
+
+
+nursery.
+ Um
+ and
+ I
+ was
+ on
+ paternity
+ leave
+
+
+at
+ the
+ end
+ of
+ last
+ year
+ and
+ I'm
+ um
+ sort
+
+
+of
+ like
+ a
+ tech
+ geek.
+ I've
+ been
+ following
+
+
+AI
+ for
+ a
+ while.
+ Like
+ my
+ day
+ job
+ is
+ a
+
+
+designer
+ at
+ Pendo,
+ but
+ you
+ know,
+ I've
+
+
+always
+ sort
+ of
+ been
+ into
+ tech
+ and
+ so
+
+
+been
+ following
+ AI
+ very
+ closely.
+ Um,
+ I've
+
+
+also
+ had
+ some
+ experience
+ like
+ building
+
+
+side
+ projects
+ and
+ things
+ like
+ that.
+ And
+
+
+I
+ think
+ it
+ was
+ back
+ in
+ November,
+ cursor
+
+
+came
+ out
+ or
+ maybe
+ it
+ was
+ a
+ little
+ bit
+
+
+earlier
+ than
+ that,
+ but
+ cursor
+ I
+ had
+
+
+tried
+ cursor
+ for
+ the
+ same
+ for
+ the
+ first
+
+
+time.
+ And
+ what
+ I
+ was
+ able
+ to
+ create
+ just
+
+
+blew
+ me
+ away.
+ So
+ I
+ had
+ like
+ a
+ side
+
+
+project
+ idea,
+ this
+ hobby
+ app
+ in
+ my
+ in
+ my
+
+
+mind
+ about
+ a
+ music
+ player
+ where
+ I
+ can
+ um
+
+
+play
+ albums
+ by
+ scanning
+ a
+ QR
+ code
+ on
+ on
+
+
+sort
+ of
+ like
+ a
+ a
+ piece
+ of
+ paper.
+ I
+ was
+
+
+very
+ jealous
+ of
+ people
+ who
+ had
+ record
+
+
+players.
+ don't
+ have
+ space
+ for
+ a
+ record
+
+
+player
+ in
+ New
+ York
+ and
+ they
+ get
+ to
+
+
+choose
+ music
+ by
+ sort
+ of
+ flipping
+ through
+
+
+through
+ albums
+ and
+ uh
+ I
+ like
+ having
+ you
+
+
+know
+ unlimited
+ access
+ to
+ to
+ music
+ via
+
+
+Spotify
+ but
+ I
+ sort
+ of
+ miss
+ that
+ sort
+ of
+
+
+like
+ tactile
+ um
+ experience.
+ So
+ I
+ was
+
+
+like
+ what
+ if
+ I
+ create
+ these
+ sort
+ of
+ like
+
+
+laminated
+ cards
+ and
+ I
+ have
+ this
+ way
+ of
+
+
+just
+ being
+ able
+ to
+ play
+ the
+ albums
+ that
+
+
+are
+ on
+ that.
+ Um
+ so
+ I
+ had
+ this
+ idea
+ of
+
+
+like
+ what
+ if
+ I
+ can
+ create
+ sort
+ of
+ a
+
+
+mobile
+ app
+ where
+ I
+ can
+ scan
+ like
+ a
+ QR
+
+
+code
+ or
+ I
+ could
+ recognize
+ the
+ album
+
+
+cover
+ and
+ I
+ can
+ print
+ these
+ album
+ covers
+
+
+out
+ and
+ just
+ be
+ limited
+ in
+ in
+ that
+ way.
+
+
+And
+ uh
+ I
+ I
+ had
+ no
+ idea
+ how
+ to
+ do
+ that
+
+
+like
+ on
+ my
+ own.
+ Like
+ I'm
+ not
+ an
+ active
+
+
+developer.
+ I
+ can't
+ sit
+ down
+ and
+ write
+
+
+that
+ application.
+ And
+ I
+ pulled
+ up
+ cursor
+
+
+and
+ like
+ within
+ a
+ couple
+ hours
+ I
+ had
+ a
+
+
+working
+ prototype.
+ And
+ like
+ that
+ just
+
+
+blew
+ me
+ away.
+ I
+ was
+ creating
+ QR
+ codes.
+ I
+
+
+was
+
+
+>> [laughter]
+
+
+>> uh
+ creating
+ PDFs.
+ I
+ was
+ like
+ doing
+ all
+
+
+this
+ like
+ really
+ really
+ really
+ cool
+
+
+stuff.
+ And
+ um
+ you
+ know
+ like
+ I
+ said
+ my
+ my
+
+
+day
+ job
+ is
+ is
+ a
+ product
+ designer.
+ And
+ I
+
+
+immediately
+ understood
+ that
+ like,
+ okay,
+
+
+this
+ is
+ really
+ cool
+ as
+ a
+ sort
+ of
+ side
+
+
+project.
+ That's
+ really
+ fun,
+ but
+ I
+ could
+
+
+use
+ this
+ to
+ build
+ interactive
+
+
+prototypes.
+ Um,
+ I'm
+ I'm
+ I
+ consider
+
+
+myself
+ pretty
+ proficient
+ with
+ Figma,
+
+
+especially
+ when
+ it
+ comes
+ to
+ prototyping,
+
+
+but
+ I
+ understand
+ the
+ limitations
+ of
+
+
+using
+ Figma
+ for
+ prototyping.
+ Um,
+ a
+ lot
+
+
+of
+ what
+ I
+ do
+ at
+ Pendo
+ is
+ sort
+ of
+ working
+
+
+on
+ features
+ that
+ are
+ analytics
+ based.
+
+
+And
+ so,
+ when
+ you're
+ creating
+ mock-ups
+
+
+and
+ prototypes
+ that
+ are
+ data
+ driven,
+
+
+it's
+ really
+ hard
+ to
+ communicate
+ what
+
+
+the,
+ you
+ know,
+ how
+ these
+ things
+ are
+
+
+actually
+ going
+ to
+ work
+ with
+ real
+ data.
+
+
+So
+ having
+ a
+ prototype
+ that
+ is
+ codebased
+
+
+that
+ is
+ working
+ with
+ even
+ just
+ fake
+ data
+
+
+and
+ interacting
+ sort
+ of
+ in
+ a
+ more
+
+
+dynamic
+ way
+ is
+ really
+ useful.
+ So
+ I
+ was
+
+
+like
+ wow
+ I
+ we
+ could
+ really
+ use
+ this
+
+
+appendo.
+ Um
+ so
+ I
+ had
+ the
+ you
+ know
+ even
+
+
+though
+ I
+ am
+ on
+ paternity
+ leave
+ you
+ know
+
+
+I
+ had
+ this
+ idea
+ and
+ I
+ was
+ like
+ I
+
+
+couldn't
+ contain
+ myself
+ you
+ know
+ I
+ had
+ I
+
+
+wasn't
+ going
+ to
+ come
+ back
+ to
+ work
+ until
+
+
+the
+ beginning
+ of
+ January.
+ So
+ in
+ December
+
+
+um
+ I
+ wrote
+ a
+ whole
+ bunch
+ of
+ folks
+ at
+
+
+Pendo.
+ still
+ had
+ access
+ to
+ my
+ Slack.
+ And
+
+
+so
+ I
+ wrote,
+ you
+ know,
+ uh
+ I
+ sent
+ a
+
+
+message
+ to
+ my
+ manager,
+ my
+ manager's
+
+
+manager,
+ the
+ CPO,
+ um
+ and
+ then
+ a
+ few
+
+
+other
+ folks
+ that
+ I
+ knew
+ were
+ really,
+
+
+really
+ interested
+ in
+ AI.
+ And
+ I
+ was
+ like,
+
+
+listen,
+ I
+ had
+ this
+ like
+ really
+ profound
+
+
+experience.
+ And
+ I
+ think,
+ you
+ know,
+ uh
+ we
+
+
+really
+ need
+ to
+ uplevel
+ the
+ skill
+ of
+ our
+
+
+entire
+ product
+ organization,
+ not
+ just
+
+
+designers,
+ but
+ also
+ PMs.
+ We
+ need
+ to
+
+
+become
+ more
+ familiar
+ with
+ this
+
+
+technology.
+ We
+ need need
+ to
+ understand
+
+
+how
+ we
+ can
+ use
+ it.
+ I
+ had
+ already
+
+
+understood
+ that
+ like
+ there's
+ no
+ playbook
+
+
+for
+ how
+ to
+ learn
+ this
+ stuff.
+ There's
+ no
+
+
+class
+ you
+ can
+ take.
+ Um
+ there's
+ no
+ book
+
+
+you
+ can
+ read.
+ And
+ the
+ technology
+ is
+
+
+evolving
+ so
+ fast
+ that
+ the
+ only
+ way
+ to
+
+
+really
+ know
+ how
+ to
+ apply
+ it
+ is
+ to
+ become
+
+
+very
+ familiar
+ with
+ how
+ it
+ works
+ to
+ kind
+
+
+of
+ stay
+ current
+ with
+ all
+ the
+ latest
+
+
+technologies
+ and
+ the
+ tools
+ and
+ just
+ sort
+
+
+of
+ like
+ see
+ a
+ bunch
+ of
+ examples
+ and
+ like
+
+
+selfishly
+ like
+ I
+ wanted
+ to
+ spend
+ more
+ of
+
+
+my
+ time
+ at
+ work
+ doing
+ these
+ things,
+ but
+
+
+I
+ also
+ wanted
+ to
+ um
+ help
+ my
+ my
+
+
+colleagues
+ and
+ my
+ company
+ just
+ be
+ more
+
+
+successful
+ because
+ I
+ I
+ saw
+ a
+ clear
+ path
+
+
+to
+ that
+ and
+ just
+ getting
+ more
+ pe
+ more
+ my
+
+
+peers,
+ more
+ of
+ my
+ colleagues
+ like
+ doing
+
+
+the
+ same
+ thing
+ and
+ sharing
+ their
+
+
+experiences.
+ is
+ uh
+ I
+ know
+ would
+ help
+ me
+
+
+learn
+ and
+ I
+ think
+ it
+ would
+ just
+ sort
+ of
+
+
+like
+ you
+ know
+ uh
+ rise
+ all
+ the
+ boats
+ and
+
+
+so
+ this
+ is
+ sort
+ of
+ an
+ example
+ here
+ not
+
+
+example
+ this
+ is
+ actually
+ the
+ message
+ I
+
+
+pulled
+ it
+ up
+ uh
+ that
+ I
+ sent
+ while
+ I
+ was
+
+
+on
+ paternity
+ leave
+ just
+ to
+ kind
+ of
+ give
+
+
+you
+ an
+ example
+ um
+ of
+ what
+ something
+ like
+
+
+this
+ looks
+ like
+ um
+ and
+ I
+ wrote
+ this
+ like
+
+
+pretty
+ long
+ message
+ I
+ mean
+ for
+ folks
+
+
+that
+ are
+ um
+ not
+ watching
+ this
+ you
+ know
+ I
+
+
+just
+ kind
+ of
+ said
+ TLDDR
+ in
+ a
+ similar
+
+
+fashion
+ to
+ uh
+ you
+ know
+ there's
+ an
+ and
+
+
+there's
+ an
+ engineering
+ focused
+ uh
+ sort
+
+
+of
+ group
+ uh
+ that
+ had
+ that
+ had
+ been
+
+
+around
+ for
+ at least
+ a
+ here
+ but
+ nothing
+
+
+really
+ focused
+ on
+ PMs
+ and
+ designers.
+ I
+
+
+was
+ like
+ I'd
+ like
+ to
+ lead
+ um
+ a
+ group
+
+
+like
+ that
+ uh
+ before
+ a
+ cross
+ functional
+
+
+cross
+ functional
+ product
+ team
+ with
+
+
+design
+ designers
+ PMs
+ and
+ etc
+ with
+ two
+
+
+goals.
+ Um
+ Pendo's
+ product
+ team
+ can
+
+
+leverage
+ the
+ cutting
+ edge
+ of
+ AI
+ tools
+ to
+
+
+get
+ more
+ done
+ in
+ fewer
+ hours
+ and
+ less
+
+
+resources
+ improve
+ decision-m
+ and
+
+
+communicate
+ and
+ validate
+ ideas
+ more
+
+
+effectively.
+ And
+ then
+ two,
+ because
+ Pendo
+
+
+is
+ also
+ sort
+ of
+ servicing
+ a
+ lot
+ of
+
+
+product
+ organizations
+ that
+ are
+ going
+
+
+through
+ similar
+ transformation
+ um
+ to
+
+
+help
+ position
+ Pendo
+ as
+ a
+ thought
+ leader
+
+
+in
+ the
+ space
+ because
+ I
+ knew
+ it
+ was
+ going
+
+
+to
+ be
+ really
+ important.
+ And
+ then
+ I
+ went
+
+
+through
+ like
+ a
+ longer
+ version
+ of
+ sort
+ of
+
+
+like
+ my
+ my
+ experience
+ of
+ like
+ building
+
+
+this
+ app
+ and
+ um
+ and
+ why
+ I
+ thought
+ it
+ was
+
+
+important.
+ And
+ um
+ you
+ know
+ I'm
+ really
+
+
+fortunate
+ to
+ be
+ part
+ of
+ an
+ organization
+
+
+that
+ uh
+ supports
+ sort
+ of
+ initiatives
+
+
+like
+ this.
+ And
+ so
+ I,
+ you
+ know,
+ that
+ that
+
+
+definitely
+ got
+ uh
+ my
+ my
+ leaders
+ like
+
+
+really
+ fired
+ up.
+ In
+ fact,
+ the
+ CPO
+ was
+
+
+like,
+ "Hey,
+ can
+ you
+ come
+ to
+ like
+ all
+
+
+hands
+ next
+ Monday
+ and
+ talk
+ about
+ this
+
+
+this
+ concept?"
+ And
+ I
+ was
+ like, "I'm
+ on
+
+
+paternity
+ leave.
+ I
+ can't
+ do
+ it
+ yet."
+ Um
+
+
+uh
+ but
+ I
+ will
+ start
+ as
+ soon
+ as
+ I
+ come
+
+
+back.
+ And
+ so
+ that
+ that's
+ sort
+ of
+ that's
+
+
+sort
+ of
+ what
+ happened.
+ So
+ that
+ was
+ a
+
+
+catalyst
+ for
+ uh
+ this
+ idea.
+ And
+ I
+ gotta
+
+
+say
+ like
+ I'm
+ I'm
+ the
+ kind
+ of
+ person
+ that
+
+
+uh
+ you
+ know
+ sometimes
+ I
+ can
+ be
+ like
+ type
+
+
+A
+ and
+ like
+ really
+ like
+ think
+ things
+
+
+through,
+ but
+ I
+ also
+ know
+ that
+ sort
+ of
+
+
+committing
+ to
+ something
+ or
+ just
+ like
+
+
+forcing
+ myself
+ to
+ like
+ throw
+ myself
+ into
+
+
+a
+ situation
+ um
+ without
+ knowing
+ like
+ how
+
+
+it's
+ going
+ to
+ work
+ out
+ uh
+ can
+ also
+
+
+result
+ in
+ something
+ really
+ interesting.
+
+
+Um
+ so
+ I
+ didn't
+ know
+ exactly
+ how
+ this
+ was
+
+
+going
+ to
+ go.
+ All
+ I
+ knew
+ was
+ that
+ I
+
+
+needed
+ to
+ get
+ more
+ folks
+ paying
+
+
+attention
+ to
+ this
+ AI
+ stuff,
+ and
+ I
+ also
+
+
+needed
+ to
+ create
+ time
+ in
+ people's
+
+
+calendar
+ where
+ everyone
+ could
+ just
+ like
+
+
+focus
+ on
+ it
+ and
+ play
+ or
+ maybe
+ um
+ uh
+ like
+
+
+uh
+ hear
+ a
+ presentation
+ on
+ on
+ something
+
+
+new.
+
+
+>> So,
+ I
+ have
+ to
+ call
+ out
+ a
+ couple
+ things
+
+
+here
+ that
+ I
+ think
+ are
+ really
+ important.
+
+
+one
+ for
+ anybody
+ trying
+ to,
+ you
+ know,
+
+
+give
+ a
+ a
+ a
+ justification
+ if
+ you
+ if
+ you
+
+
+need
+ it
+ for
+ investing
+ extra
+ time,
+
+
+resources,
+ and
+ energy
+ into
+ this
+ AI
+
+
+transformation
+ in
+ your
+ organization.
+ I
+
+
+love
+ that
+ you
+ call
+ out
+ actually
+ the
+ two
+
+
+things
+ that
+ really
+ matter.
+ They're
+ very
+
+
+similar
+ things
+ to
+ um
+ how
+ I
+ called
+ out
+
+
+the
+ value
+ of
+ AI
+ transformation
+ at
+ Launch
+
+
+Darkly,
+ which
+ was
+ one,
+ our
+ team's
+ got
+ to
+
+
+know
+ how
+ to
+ use
+ this
+ stuff.
+ like
+ we've
+
+
+just
+ got
+ to
+ know
+ how
+ to
+ use
+ these
+ tools,
+
+
+get
+ more
+ done,
+ be
+ more
+ efficient,
+ just
+
+
+use
+ the
+ best
+ of
+ the
+ best.
+ The
+ second
+ one
+
+
+though
+ I
+ think
+ is
+ really
+ interesting
+ and
+
+
+there's
+ still
+ a
+ lot
+ of
+ opportunity
+ here.
+
+
+You
+ know,
+ you're
+ on
+ this
+ podcast
+ which
+
+
+is
+ there's
+ this
+ opportunity
+ for
+ leading
+
+
+organizations
+ to
+ position
+ themselves
+ as
+
+
+thought
+ leaders
+ in
+ how
+ you
+ get
+ stuff
+
+
+done
+ with
+ AI
+ in
+ your
+ vertical.
+ And
+ so
+
+
+for
+ us
+ it
+ was
+ like
+ we
+ have
+ to
+ be
+ great
+
+
+AI
+ engineers
+ because
+ we
+ need
+ to
+ you
+ know
+
+
+be
+ great
+ engineers
+ generally.
+ This
+ is
+
+
+the
+ next
+ phase
+ of
+ how
+ software
+
+
+engineering
+ is
+ going
+ to
+ get
+ done.
+ We
+
+
+need
+ to
+ be
+ thought
+ leaders
+ in
+ the
+ space.
+
+
+And
+ very
+ similarly
+ for
+ you
+ on
+ the
+
+
+product
+ side.
+ I
+ think
+ it's
+ just
+ really
+
+
+important
+ that
+ you
+ can
+ create
+ platforms
+
+
+for
+ your
+ company
+ to
+ be
+ experts
+ in
+ the
+
+
+space
+ if
+ you
+ lean
+ in
+ early
+ into
+ these
+
+
+technologies.
+ You
+ know,
+ the
+ other
+ thing
+
+
+I
+ want
+ to
+ call
+ out
+ is,
+ you
+ know,
+ I
+ try
+
+
+to
+ tell
+ people
+ about
+ this
+ all
+ the
+ time.
+
+
+This
+ is
+ like
+ promo
+ making
+ work.
+
+
+[clears throat]
+ And
+ what
+ I
+ mean
+ is
+ like
+
+
+this
+ is
+ the
+ kind
+ of
+ initiative
+ that
+
+
+doesn't
+ come
+ around
+ that
+ often
+ as
+ an
+
+
+opportunity.
+ And
+ if
+ you
+ are
+ the
+ first
+ to
+
+
+raise
+ your
+ hand,
+ like
+ if
+ you
+ are
+ the
+
+
+first
+ designer
+ that
+ says,
+ you
+ know what,
+
+
+I
+ want
+ to
+ figure
+ out
+ how
+ our
+ team
+ can
+
+
+use
+ AI.
+ I'm
+ going
+ to
+ lead
+ this
+
+
+organization.
+ It's
+ such
+ a
+ unique
+
+
+leadership
+ opportunity
+ to
+ show
+ crossf
+
+
+functional
+ broad
+ impact
+ on
+ teams
+ and
+
+
+like
+ there's
+ only
+ gonna
+ be
+ one
+ or
+ two
+ of
+
+
+you
+ that
+ get
+ to
+ be
+ the
+ leader
+ of
+ it.
+ So
+
+
+I'm
+ like
+ really
+ encouraging
+ people
+ to
+ be
+
+
+like
+ you
+ raise
+ your
+ hand
+ early
+ to
+ take
+
+
+on
+ the
+ initiative
+ for
+ the
+ organization.
+
+
+One
+ because
+ I
+ think
+ it's
+ the
+ right
+ thing
+
+
+to
+ do
+ for
+ the
+ team,
+ but
+ two,
+ it's
+ really
+
+
+great
+ from
+ a
+ personal
+ career
+
+
+perspective.
+
+
+>> Absolutely.
+ And
+ like
+ you
+ know
+ I
+ wasn't
+ I
+
+
+wasn't
+ going
+ to
+ focus
+ on
+ that.
+ Um
+ but
+ I
+
+
+will
+ but
+ like
+ what
+ you're
+ saying
+ is
+
+
+absolutely
+ 100%
+ true.
+ So
+ um
+ like
+
+
+this
+ this
+ sort
+ of
+ uh
+ initiative
+ has
+
+
+opened
+ so
+ many
+ doors.
+ We'll
+ get
+ into
+ it
+
+
+in
+ a
+ moment
+ but
+ it's
+ opened
+ so
+ many
+
+
+doors
+ internally
+ within
+ the
+
+
+organization.
+ Like
+ I'm
+ speaking
+ with
+
+
+you.
+ There's
+ no
+ way
+ I
+ think
+ I
+ would
+ be
+
+
+speaking
+ on
+ such
+ a
+ high-profile
+ podcast
+
+
+if
+ I
+ didn't
+ start
+ working
+ on
+ this
+ and
+
+
+sort
+ of
+ build
+ up
+ a
+ sort
+ of
+ the
+ the
+ body
+
+
+of
+ work
+ that
+ I
+ have
+ over
+ the
+ last
+ nine
+
+
+months.
+ Um
+ I
+ get
+ to
+ work
+ on
+ some
+ really
+
+
+cool
+ AI
+ projects.
+ Um,
+ I
+ have
+ folks
+
+
+throughout
+ the
+ organization
+ that
+ are
+ not
+
+
+even
+ in
+ product
+ and
+ and
+ and
+ and
+ design,
+
+
+folks
+ I
+ didn't
+ even
+ know
+ reaching
+ out
+ to
+
+
+me
+ and
+ sort
+ of
+ like
+ looking
+ to
+ me
+ as
+ a
+
+
+thought
+ leader.
+ And
+ that
+ wasn't
+ my
+
+
+intent,
+ but
+ it's
+ absolutely
+ true.
+ It's
+
+
+like
+ there
+ there
+ are
+ opportunities
+
+
+across
+ um
+ all
+ organizations
+ right
+ now
+
+
+regardless
+ of
+ your
+ level.
+ I
+ mean,
+ I'm
+ a
+
+
+senior
+ staff
+ um
+ but
+ I'm
+ an
+ IC.
+ I'm
+ I'm
+
+
+just
+ a
+ product
+ designer
+ like
+ but
+ I'm
+
+
+having
+ an
+ influence
+ way
+ beyond
+ my
+ my
+
+
+scope.
+ And
+ I
+ think
+ uh
+ regardless
+ of
+
+
+where
+ you
+ are
+ like
+ if
+ you
+ have
+ the
+
+
+initiative
+ and
+ the
+ energy
+ and
+ it
+ does
+
+
+take
+ a
+ little
+ bit
+ of
+ time
+ like
+ there
+ is
+
+
+some
+ nights
+ and
+ weekends
+ that
+ like
+ I
+
+
+kind
+ of
+ put
+ into
+ it
+ but
+ I
+ also
+ love
+ this
+
+
+stuff
+ like
+ I
+ was
+ kind
+ of
+ doing
+ it
+ anyway
+
+
+and
+ so
+ absolutely
+ it
+ is
+ it
+ is
+ a
+ career
+
+
+builder
+ builder.
+
+
+>> Yeah.
+ And
+ then
+ you
+ know
+ maybe
+ my
+ last
+
+
+reflection
+ is
+ do
+ you
+ know
+ how
+ many
+
+
+people
+ I
+ know
+ that
+ have
+ gone
+ on
+ parental
+
+
+leave
+ and
+ in
+ between
+ rocking
+ their
+
+
+newborn
+ have
+ been
+ shipping
+ stuff
+ with
+
+
+like
+ like
+ cursor
+ like
+ every
+ single
+
+
+parent
+ I
+ know.
+ This
+ just
+ might
+ be
+ my
+ my
+
+
+peer
+ cohort.
+ Everyone
+ I
+ know
+ has
+ been
+
+
+texting
+ me
+ from
+ parental
+ leave
+ being
+
+
+like,
+ "Claire,
+ I've
+ been
+ vibe
+ coding
+
+
+with
+ my
+ baby
+ and
+ I
+ am
+ so
+ into
+ it."
+ So,
+
+
+if
+ you
+ have
+ uh
+ if
+ you
+ have
+ somebody
+ on
+
+
+parental
+ leave
+ right
+ now,
+ it's
+ very
+
+
+likely
+ they're
+ going
+ to
+ come
+ back
+ um
+ AI
+
+
+pilled
+ for
+ sure
+ because
+ that
+ is
+ what
+ I
+
+
+have
+ seen
+ consistently
+ with
+ with
+ some
+ of
+
+
+my
+ friends.
+ Okay.
+ So,
+ let's
+ actually
+ get
+
+
+into
+ this
+ message,
+ kick
+ things
+ off,
+ but
+
+
+then
+ you
+ actually
+ have
+ to
+ functionally
+
+
+make
+ this
+ happen.
+ and
+ you
+ sort
+ of
+ had
+
+
+like
+ a
+ two-pronged
+ approach
+ to
+ two
+
+
+things
+ that
+ were
+ really
+ effective
+ in
+
+
+getting
+ this
+ going
+ in
+ your
+ organization.
+
+
+So
+ what
+ were
+ those
+ two
+ things?
+
+
+>> Yep.
+ Yeah.
+ Um
+ so
+ the
+ two
+ things
+ um
+ so
+
+
+I'm
+ just
+ kind
+ of
+ bringing
+ up
+ here
+ um
+ in
+
+
+case
+ it's
+ helpful.
+ So
+ this
+ was
+ sort
+ of
+
+
+the
+ first
+ announcement
+ I
+ made
+ within
+ the
+
+
+organization
+ had
+ come
+ back
+ in
+ January.
+
+
+Um
+ we
+ this
+ is
+ sort
+ of
+ like
+ our
+ private
+
+
+channel
+ of
+ the
+ entire
+ product
+
+
+organization.
+ So
+ within
+ Pendo
+ product
+
+
+the
+ product
+ team
+ are
+ PMs,
+ designers,
+
+
+writers
+ um
+ and
+ a
+ few
+ other
+ folks.
+ And
+ so
+
+
+I
+ was
+ like,
+ hey,
+ I'm
+ starting
+ this
+
+
+initiative.
+ And
+ um
+ in
+ my
+ mind,
+ I
+ I
+ I
+ was
+
+
+thinking
+ that
+ there's
+ sort
+ of
+ a
+
+
+two-prong
+ approach.
+ There's
+ an
+
+
+asynchronous
+ and
+ a
+ synchronous.
+ One
+
+
+thing
+ that
+ I
+ um
+ uh
+ was
+ very
+ familiar
+
+
+with,
+ like
+ just
+ in
+ my
+ own
+ life,
+ but
+ also
+
+
+talking
+ to
+ other
+ people,
+ is
+ that
+ you'll
+
+
+typically
+ hear
+ something
+ like,
+ "Yeah,
+
+
+that
+ AI
+ stuff
+ like
+ I
+ know
+ it's
+
+
+important,
+ but
+ I
+ just
+ don't
+ have
+ the
+
+
+time."
+ Like
+ I
+ don't
+ have
+ the
+ time
+ to
+
+
+like
+ watch
+ all
+ the
+ videos
+ and
+ you
+ know,
+
+
+vibe
+ code
+ and
+ lovable
+ or
+ whatever
+ it
+ is,
+
+
+right?
+ And
+ the
+ crazy
+ thing
+ is
+ like
+ if
+
+
+you
+ don't
+ make
+ the
+ time
+ for
+ it,
+ you're
+
+
+never
+ going
+ to
+ learn
+ it
+ and
+ at
+ some
+
+
+point
+ you're
+ going
+ to
+ get
+ behind,
+ right?
+
+
+And
+ so
+ it
+ was
+ really
+ important
+ for
+ not
+
+
+just
+ there
+ to
+ be
+ a
+ place
+ within
+ Slack
+
+
+and
+ encourage
+ people
+ to
+ share
+ on
+ Slack
+
+
+asynchronously
+ to
+ do
+ it
+ at
+ their
+ own
+
+
+pace,
+ but
+ also
+ to
+ create
+ time
+ in
+
+
+people's
+ calendars
+ so
+ that
+ they
+ can
+ come
+
+
+um
+ and
+ focus
+ on
+ like
+ whatever
+ the
+ topic
+
+
+is.
+ And
+ also
+ within
+ that
+ session,
+ it's
+
+
+not
+ just
+ about
+ a
+ presentation.
+ It's
+ also
+
+
+like
+ it's
+ really
+ important
+ for
+ that
+
+
+presentation
+ or
+ that
+ session
+ to
+ be
+
+
+interactive.
+ So
+ let
+ me
+ give
+ you
+ an
+
+
+example
+ of
+ that.
+ So
+ this
+ was
+ this
+ was
+ a
+
+
+this
+ was
+ a
+ kickoff
+ as
+ well
+ as
+ an
+
+
+exercise
+ about
+ building
+ apps.
+ Um
+ just
+ to
+
+
+sort
+ of
+ give
+ you
+ a
+ insight
+ into
+ how
+ I
+
+
+start
+ started
+ this
+ off.
+ I
+ was
+ like
+ hey
+
+
+AI
+ is
+ getting
+ better.
+ It's
+ getting
+
+
+faster
+ and
+ it's
+ evolving
+ how
+ software
+ is
+
+
+planned,
+ designed
+ and
+ built.
+ And
+ this
+
+
+was
+ really
+ meant
+ to
+ speak
+ to
+ not
+ just
+ us
+
+
+as
+ builders
+ but
+ also
+ sort
+ of
+ the
+ the
+
+
+product
+ that
+ Pendo
+ was
+ building.
+ And
+ uh
+
+
+right
+ around
+ that
+ time,
+ Andrew
+ Ing
+ had
+ a
+
+
+a
+ really
+ I
+ thought
+ thoughtful
+ blog
+ post
+
+
+about
+ how
+ he
+ was
+ thinking
+ about
+ how
+ uh
+
+
+PMs
+ need
+ to
+ position
+ themselves
+ sort
+ of
+
+
+in
+ the
+ AI
+ in
+ in
+ this
+ AI
+ future.
+ And
+ then
+
+
+AI
+ is
+ typically
+ sort
+ of
+ in
+ the
+ space
+ of
+
+
+sort
+ of
+ engineering
+ and
+ technical
+ stuff
+
+
+and
+ you
+ know
+ he
+ was
+ positioning
+ AI
+ as
+
+
+perhaps
+ being
+ uh
+ or
+ at least
+ engineers
+
+
+being
+ better
+ positioned
+ to
+ sort
+ of
+ like
+
+
+take
+ advantage
+ of
+ all
+ this
+ stuff
+ because
+
+
+they
+ are
+ technical.
+ Um
+ but
+ he's
+ saying
+
+
+it
+ was
+ really
+ important
+ for
+ PMs
+ and
+ I
+
+
+would
+ also
+ put
+ designers
+ in
+ that
+ camp
+ as
+
+
+well
+ uh
+ to
+ become
+ proficient.
+ And
+ so
+
+
+these
+ were
+ the
+ sort
+ of
+ five
+ things
+ that
+
+
+he
+ was
+ he
+ really
+ wanted
+ to
+ focus
+ on
+
+
+technical
+ proficiency
+ um
+ just
+ iterating
+
+
+on
+ the
+ development
+ like
+ using
+ AI
+ in
+ a
+
+
+sort
+ of
+ iterative
+ capacity
+ uh
+ being
+ very
+
+
+proficient
+ with
+ data
+ skill
+ and
+ managing
+
+
+ambiguity
+ and
+ then
+ ongoing
+ learning.
+ So
+
+
+like
+ that
+ was
+ really
+ sort
+ of
+ the
+
+
+emphasis
+ I
+ wanted
+ to
+ drive.
+ Um
+ and
+ so
+
+
+again
+ the
+ structure
+ of
+ sort
+ of
+ like
+ or
+
+
+at least
+ the
+ goal
+ sorry
+ the
+ goals
+ of
+ the
+
+
+the
+ product
+ AI
+ was
+ around
+ to
+ uh
+ uplevel
+
+
+and
+ modernize
+ the
+ skill
+ set
+ of
+ our
+ of
+
+
+our
+ product
+ people
+ to
+ improve
+ our
+
+
+comprehension
+ and
+ literacy
+ and
+ then
+
+
+because
+ our
+ customers
+ are
+ also
+ builders
+
+
+to
+ empathize
+ and
+ assist
+ with
+ them
+ as
+
+
+well.
+ And
+ I
+ wasn't
+ sure
+ if
+ this
+
+
+technique
+ again
+ was
+ going
+ to
+ work
+ but
+
+
+this
+ was
+ how
+ I
+ was
+ thinking
+ about
+
+
+approaching
+ it.
+ just
+ being
+ more
+
+
+hands-on,
+ getting
+ our
+ hands
+ dirty,
+
+
+radical
+ many
+ to
+ many
+ sharing,
+ being
+
+
+intentional,
+ creating
+ the
+ space,
+ and
+
+
+then
+ identifying
+ the
+ patterns
+ that
+
+
+worked,
+ um,
+ and
+ then
+ sort
+ of
+ turn
+ those
+
+
+into
+ reusable
+ patterns.
+ So,
+ in
+ this
+
+
+opening
+ session,
+ like
+ I
+ was
+ saying,
+ like
+
+
+it's
+ really
+ important
+ to
+ have
+ an
+
+
+interactive
+ session.
+ And
+ I'm
+ not
+ going
+
+
+to
+ go
+ through
+ the
+ slides
+ of
+ like
+ how
+ I
+
+
+talked
+ about
+ code
+ building
+ tools
+ and
+ the
+
+
+different,
+ you
+ know,
+ the
+ various
+ types
+
+
+and
+ some
+ things
+ that
+ I
+ had
+ built.
+ Um,
+
+
+but
+ there
+ was
+ a
+ section
+ that
+ was
+ at
+
+
+least
+ I
+ think
+ 10
+ 15
+ minutes
+ where
+ I
+ was
+
+
+like,
+ "All
+ right,
+ everyone,
+ you
+ know,
+ go
+
+
+to
+ bolt.new."
+ That
+ was
+ the
+ app
+ that
+ we
+
+
+chose
+ to
+ use
+ at
+ the
+ time
+ and
+ create
+ an
+
+
+account
+ if
+ you
+ haven't
+ created
+ an
+
+
+account.
+ And
+ then
+ everyone
+ go
+ to
+ Bolt
+
+
+and
+ copy
+ and
+ paste
+ this.
+ So,
+ this
+ was
+
+
+just
+ a
+ prompt
+ that
+ I
+ had
+ created.
+ Uh,
+ it
+
+
+wasn't
+ hyper
+ optimized.
+ It
+ was
+ about
+
+
+creating
+ a
+ to-do
+ list,
+ the
+ most
+ basic
+
+
+like
+ little
+ mini
+ SAS
+ app
+ that
+ you
+ could
+
+
+possibly
+ build.
+ And
+ I
+ had
+ everyone
+ type
+
+
+this
+ in.
+ And
+ then
+ there
+ was
+ like
+ a
+
+
+little
+ enhanced
+ prompt
+ thing
+ that
+ I
+
+
+wanted
+ everyone
+ to
+ use
+ just
+ to
+ sort
+ of
+
+
+see
+ how
+ like
+ uh
+ this
+ this
+ app
+ could
+ sort
+
+
+of
+ take
+ a
+ very
+ basic
+ thing
+ and
+ and
+ turn
+
+
+it
+ into
+ a
+ more
+ sophisticated
+ thing
+ and
+
+
+then
+ let
+ it
+ rip
+ and
+ hit
+ go.
+ And
+ I
+ would
+
+
+say
+ I
+ wasn't
+ expecting
+ this
+ when
+ I
+ did
+
+
+this
+ the
+ first
+ time,
+ but
+ the
+ thing
+ that
+
+
+really
+ stood
+ out
+ because
+ it
+ was
+ sort
+ of
+
+
+like
+ obvious
+ to
+ me
+ that
+ this
+ is
+ this
+ is
+
+
+what
+ would
+ happen.
+ But
+ the
+ some
+ of
+ the
+
+
+feedback
+ I
+ got
+ was
+ like
+ wow
+ like
+ we
+ all
+
+
+typed
+ in
+ the
+ same
+ thing.
+ We
+ all
+ clicked
+
+
+on
+ the
+ enhance
+ prompt
+ button
+ and
+ we
+ all
+
+
+got
+ different
+ results.
+ So
+ like
+ this
+ was
+
+
+just
+ sort
+ of
+ an
+ example
+ of
+ like
+ these
+
+
+were
+ all
+ the
+ to-do
+ list
+ applications
+
+
+that
+ the
+ app
+ created
+ after
+ running
+ that
+
+
+that
+ query
+ and
+ I
+ think
+ in
+ in
+ a
+ third
+ of
+
+
+the
+ cases
+ like
+ bolt
+ just
+ came
+ back
+ and
+
+
+said
+ nope
+ like
+ like
+ like
+
+
+error
+ whatever
+ and
+ then
+ like
+ so
+ we
+
+
+immediately
+ got
+ into
+ sort
+ of the
+ whole
+
+
+oh
+ okay
+ don't
+ worry
+ like
+ if
+ you
+ get
+ an
+
+
+error
+ just
+ to
+ fix
+ it
+ blah
+ blah
+ blah
+ and
+
+
+everyone
+ sort
+ of
+ like
+ got
+ through
+ it
+
+
+after
+ two
+ or
+ three
+ rounds.
+ So
+ that
+ is
+
+
+like
+ it
+ was
+ great
+ to
+ experience
+ that
+ as
+
+
+a
+ team
+ and
+ not
+ only
+ just
+ to
+ like
+ do
+ it
+
+
+and
+ see
+ how
+ it
+ worked
+ but
+ also
+ to
+ see
+
+
+the
+ diversity
+ of
+ like
+ how
+ like
+ these
+
+
+applications
+ um
+ are
+ built
+ and
+ how
+ Genai
+
+
+is
+ being
+ used
+ and
+ then
+ the
+ other
+ thing
+ I
+
+
+had
+ people
+ do
+ in
+ the
+ last
+ like
+ 105
+
+
+minutes
+ is
+ experiment
+ on
+ their
+ own
+ and
+ I
+
+
+told
+ people
+ just
+ to
+ do
+ crazy
+ stuff
+ like
+
+
+we're
+ not
+ doing
+ this
+ for
+ any
+ like
+ we're
+
+
+not
+ really
+ building
+ a
+ to-do
+ list
+ and
+ the
+
+
+AI
+ will
+ do
+ its
+ best
+ to
+ um
+ do
+ as
+ you
+ say
+
+
+so
+ you
+ can
+ give
+ it
+ like
+ the
+ most
+ wacky
+
+
+you
+ know
+ instructions
+ right
+ like,
+ you
+
+
+know,
+ make
+ it,
+ you
+ know,
+ add
+ a
+ retro
+
+
+8bit
+ pixel
+ art
+ theme,
+ you
+ know,
+
+
+introduce
+ a
+ dark
+ mode
+ title,
+ make
+ it
+
+
+look
+ like
+ MySpace
+ from
+ 2007.
+ And
+ so
+ that
+
+
+was
+ sort
+ of
+ like
+ an
+ interesting
+ thing,
+
+
+too.
+ So,
+ like
+ people
+ sort
+ of
+ like
+ went
+
+
+nuts.
+ They
+ shared
+ some
+ things
+ like
+ I
+
+
+think
+ there's
+ a
+ few
+ examples
+ here
+ of
+
+
+like
+ people
+ saying,
+ "Oh,
+ you
+ know,
+ I
+
+
+tried.
+ Yeah,
+ here
+ here
+ this
+ is
+ what
+ UI
+
+
+will
+ look
+ like
+ in
+ 20
+ uh
+ 200.
+
+
+Here's
+ my
+ Tumblr
+ style,
+ you
+ know,
+ to-do
+
+
+list."
+ Um,
+ and
+ like
+ this
+ was
+ intentional
+
+
+to
+ sort
+ of
+ like
+ make
+ it
+ fun.
+ These
+ are
+
+
+designers,
+ but
+ there's
+ also
+ PMs
+ and
+ like
+
+
+we
+ all
+ know
+ sort
+ of
+ like
+ the
+ there's
+ a
+
+
+line
+ between
+ sort
+ of
+ like
+ professional
+
+
+stuff
+ and
+ personal
+ stuff.
+ Um,
+ but
+ like
+
+
+what
+ I
+ really
+ wanted
+ people
+ to
+
+
+experience
+ is
+ that
+ uh
+ this
+ can
+ be
+ fun
+
+
+and
+ just
+ like
+ to
+ broaden
+ their
+ minds
+
+
+about
+ how
+ they
+ can
+ apply
+ this
+
+
+technology.
+ One
+ thing
+ I
+ want
+ to
+ call
+ out
+
+
+as
+ a
+ meta
+ benefit
+ to
+ this
+ slide
+ that
+ you
+
+
+showed
+ and
+ maybe
+ we
+ could
+ go
+ back
+ to
+ it
+
+
+of
+ like
+ now
+ go
+ wild
+ or
+ or
+ optimize
+ it
+ is
+
+
+I
+ think
+ as
+ designers
+ and
+ product
+
+
+managers
+ in
+ companies
+ and
+ you
+ can
+ tell
+
+
+me
+ if
+ you
+ have
+ a
+ different
+ experience
+
+
+but
+ we
+ have
+ just
+ gotten
+ beaten
+ by
+ the
+
+
+scope
+ creep
+ stick
+ so
+ frequently
+ that
+ we
+
+
+have
+ actually
+ lost
+ our
+ muscle
+ for
+ like
+
+
+asking
+ for
+ the
+ magic
+ thing.
+ We
+ always
+
+
+start
+ with
+ the
+ MVP.
+ We
+ always
+ start
+ with
+
+
+like
+ what
+ is
+ the
+ bare
+ minimum
+ thing
+ I
+
+
+can
+ ship
+ to
+ meet
+ the
+ user
+ requirements
+
+
+that
+ I
+ know
+ engineering
+ can
+ do
+ and
+ like
+
+
+we've
+ lost
+ this
+ ability
+ to
+ imagine
+ like
+
+
+what
+ if
+ it
+ did
+ this
+ and
+ what
+ if
+ it
+ did
+
+
+that
+ and
+ it
+ could
+ be
+ interactive
+ or
+
+
+there
+ could
+ be
+ voice
+ and
+ what
+ I
+ like
+
+
+about
+ AI
+ is
+ one
+ it
+ makes
+ those
+ magic
+
+
+things
+ a
+ lot
+ easier
+ to
+ build
+ you
+ know
+
+
+more
+ efficient
+ to
+ build
+ but
+ two
+ like
+
+
+it's
+ going
+ to
+ let
+ designers
+ ers
+ and
+
+
+product
+ managers
+ return
+ to
+ the
+ craft
+ of
+
+
+building
+ the
+ awesome
+ product
+ as
+ opposed
+
+
+to
+ like
+ the
+ viable
+ product
+ which
+ is
+ so
+
+
+like
+ if
+ you
+ reflect
+ on
+ it
+ it's
+ so
+ sad
+
+
+that
+ we
+ have
+ put
+ on
+ a
+ pedestal
+ like
+
+
+minimum
+ viability
+ as
+ just
+ like
+ such
+ a
+
+
+low
+ bar
+ and
+ now
+ our
+ bar
+ can
+ just
+ be
+ so
+
+
+much
+ higher
+ for
+ what
+ we
+ build
+ but
+ you
+
+
+have
+ to
+ like
+ reignite
+ this
+ muscle
+ of
+
+
+like
+ how
+ to
+ even
+ think
+ about
+ what
+ those
+
+
+things
+ could
+ be.
+ So,
+ I
+ love
+ the
+ idea
+
+
+that
+ you,
+ you
+ know,
+ put
+ these
+
+
+uh
+ these
+ iterations
+ in
+ categories
+ like
+
+
+visual
+ iterations,
+ interactive
+
+
+iterations,
+ entertaining
+ or
+ gamification
+
+
+iterations,
+ and
+ then
+ like
+ media
+ again
+ is
+
+
+something
+ that's
+ really
+ interesting
+ that
+
+
+you
+ can
+ do
+ with
+ AI.
+ I
+ know
+ as
+ a
+ designer
+
+
+like
+ how
+ many
+ times
+ have
+ you
+ been
+ like,
+
+
+"Oh,
+ an
+ illustration
+ would
+ be
+ amazing
+
+
+here,
+ but
+ no
+ one
+ wants
+ to
+ spend
+ the
+ time
+
+
+to
+ like
+ draw
+ a
+ custom
+ icon
+ or
+ a
+ photo
+
+
+would
+ be
+ here,
+ but
+ like
+ we
+ don't
+ have
+
+
+any
+ stock
+ photo
+ budget
+ for
+ this
+ project,
+
+
+so
+ I'm
+ just
+ going
+ to
+ like
+ erase
+ that
+ and
+
+
+put
+ whites
+ space."
+ And
+ so
+ I
+ just
+ think
+
+
+like
+ that
+ piece
+ is
+ so
+ underrated
+ for
+ AI
+
+
+is
+ like
+ getting
+ out
+ of
+ getting
+ us
+ out
+ of
+
+
+MVP
+ mode.
+
+
+>> Yeah.
+ And
+ I
+ got
+ actually
+ a
+ really
+ cool
+
+
+example
+ of
+ that
+ as
+ well.
+ So
+ like,
+ you
+
+
+know,
+ that
+ was
+ the
+ sessions,
+ right?
+ But
+
+
+then
+ there's
+ also
+ the
+ channel
+ and
+ so
+ um
+
+
+you
+ know
+ there
+ people
+ are
+ constantly
+
+
+sharing
+ things
+ links
+ to
+ articles
+
+
+experiments
+ that
+ they've
+ tried.
+ I
+ mean
+
+
+that
+ was
+ the
+ whole
+ intent
+ of
+ it
+ right
+ is
+
+
+just
+ to
+ sort
+ of
+ have
+ a
+ space
+ where
+
+
+people
+ can
+ share
+ things
+ and
+ I
+ think
+
+
+there's
+ an
+ example
+ in
+ here
+ where
+ ah
+ yes
+
+
+here
+ it
+ So
+ Mark,
+ you
+ a
+ he's
+ a
+ a
+ product
+
+
+designer
+ and
+ I
+ think
+ this
+ was
+ right
+
+
+around
+ the
+ time
+ that
+ Midjourney
+ um
+
+
+launched
+ the
+ ability
+ to
+ do
+ animations
+ or
+
+
+video
+ and
+ he
+ was
+ like,
+ "Wouldn't
+ it
+ be
+
+
+cool
+ to
+ have,
+ you
+ know,
+ sort
+ of
+ in
+ this
+
+
+intro
+ screen
+ these
+ little
+ animated
+
+
+characters
+ that
+ sit
+ there
+ and
+ just
+ like
+
+
+wave
+ at
+ you,
+ right?"
+
+
+>> And
+ it's
+ so
+ cute.
+
+
+>> Exactly.
+ Right.
+ [laughter]
+
+
+>> And
+ that
+ it
+ wasn't
+ that
+ hard.
+ I
+ mean,
+
+
+like
+ I
+ think
+ he,
+ you
+ know,
+ he
+ iterated
+
+
+on
+ a
+ couple
+ of
+ problems
+ like
+ this,
+ this
+
+
+is
+ not
+ in
+ the
+ product.
+ It's
+ not
+ in
+ the
+
+
+product
+ yet,
+ but
+ I
+ mean,
+ he
+ was
+ able
+ to
+
+
+create
+ an
+ asset
+ that
+ not
+ that
+ hard
+ to
+
+
+drop
+ in
+ if
+ you
+ have
+ the
+ right
+ spot
+ for
+
+
+it.
+ Um,
+ and
+ like
+ like
+ you
+ said
+ before,
+
+
+it
+ was,
+ oh
+ man,
+ like
+ really
+ cool
+ to
+ have
+
+
+like
+ an
+ illustration
+ or
+ an
+ animation,
+
+
+but
+ I
+ got
+ to
+ go
+ talk
+ to
+ a
+ professional
+
+
+or
+ I
+ got
+ to
+ go
+ spend
+ like
+ nights
+ and
+
+
+weekends
+ working
+ on
+ it.
+ It's
+ like
+ not
+
+
+worth
+ the
+ effort.
+ And
+ now
+ we
+ can
+ bring
+ a
+
+
+little
+ more
+ life
+ into
+ our
+ applications.
+
+
+>> And
+ that
+ life
+ of
+ course
+ turns
+ into
+ like
+
+
+what
+ I
+ just
+ did,
+ which
+ is
+ like,
+ oh
+ my
+
+
+god,
+ I
+ love
+ it.
+ Which
+ is
+ just
+ like
+
+
+customer
+ connection
+ to
+ your
+ brand,
+ to
+
+
+your
+ product.
+ um
+ a
+ little
+ bit
+ of
+ sense
+
+
+of
+ like
+ this
+ team
+ actually
+ really
+ cares
+
+
+about
+ the
+ craft
+ and
+ is
+ going
+ to
+ continue
+
+
+to
+ invest
+ in
+ this
+ product
+ experience
+ all
+
+
+that
+ all
+ the
+ great
+ stuff
+ and
+ then
+ I
+ I
+
+
+just
+ want
+ to
+ call
+ out
+ for
+ folks
+ that
+
+
+maybe
+ missed
+ this
+ in
+ part
+ of
+ the
+
+
+transition.
+ So
+ the
+ two
+ kind
+ of
+ major
+
+
+pieces
+ you
+ put
+ in
+ were
+ these
+ sessions,
+
+
+these
+ product
+ and
+ AI
+ sessions,
+ and
+ you
+
+
+showed
+ us
+ the
+ kickoff
+ deck
+ of
+ what
+ that
+
+
+looked
+ like,
+ both
+ the
+ why
+ and
+ then
+ like
+
+
+let's
+ actually
+ get
+ into
+ it.
+ Let's
+ do
+ it
+
+
+together.
+ And
+ then
+ the
+ second
+ piece,
+
+
+that's
+ the
+ sync
+ piece.
+ Um,
+ and
+ you
+ do
+
+
+those
+ weekly,
+ right?
+ Or
+ just
+
+
+>> we
+ do
+ them
+ bi-weekly.
+ I
+ mean,
+ we
+ could
+
+
+probably
+ do
+ them
+ weekly,
+ but
+ we've
+ we've
+
+
+done
+ them
+ bi-weekly.
+
+
+>> Yeah.
+ I
+ um
+ I
+ I
+ I
+ put
+ in
+ a
+ we
+ put
+ in
+ a
+
+
+similar
+ thing.
+ um
+ we
+ called
+ them
+ like
+ AI
+
+
+power
+ hours
+ on
+ Friday
+ and
+ it
+ was
+ like
+
+
+every
+ week
+ we
+ we
+ would
+ do
+ that.
+ And
+ then
+
+
+the
+ second
+ thing
+ is
+ the
+ async
+ channel
+
+
+which
+ like
+ if
+ you
+ do
+ not
+ have
+ it
+ you
+
+
+should
+ definitely
+ have
+ it
+ where
+ folks
+
+
+are
+ just
+ sharing
+ and
+ I
+ like
+ this
+ bullet
+
+
+point
+ that
+ you
+ had
+ in
+ your
+ slide
+ that
+
+
+was
+ like
+ radical
+ peer-to-peer
+ share.
+ I
+
+
+forget
+ what
+ it
+ said
+ but
+ it
+ was
+ such
+ a
+
+
+good
+ phrase.
+ Yeah.
+ Radical
+ many
+ to
+ many
+
+
+sharing.
+ And
+ so
+ one
+ of
+ the
+ things
+ that
+ I
+
+
+think
+ organizations
+
+
+often
+ suffer
+ from
+ during
+ this
+ AI
+
+
+transformation
+ is
+ information
+ hoarding
+
+
+and
+ like
+ secret
+ AI.
+ And
+ I
+ think
+ it
+
+
+happens
+ for
+ two
+ reasons.
+ Secret
+ AI
+ can
+
+
+happen
+ because
+ people
+ aren't
+ sure
+ what
+
+
+they
+ can
+ use
+ and
+ we're
+ going
+ to
+ talk
+
+
+about
+ that
+ in
+ a
+ minute.
+ And
+ so
+ they
+ like
+
+
+kind
+ of
+ pretend
+ they're
+ not
+ using
+ AI
+ or
+
+
+they
+ use
+ their
+ like
+ Gmail
+ account,
+ Gmail
+
+
+chat
+ GBT
+ account
+ because
+ they
+ don't
+ want
+
+
+to
+ get
+ in
+ trouble
+ but
+ they're
+ going
+ to
+
+
+use
+ it
+ anyway.
+ And
+ so
+ there's
+ like
+
+
+secrecy
+ because
+ people
+ don't
+ know
+ the
+
+
+golden
+ path
+ of
+ using
+ AI.
+ And
+ then
+
+
+there's
+ like
+ information
+ and
+ skills
+
+
+hoarding
+ right
+ now,
+ which
+ is
+ like
+ the
+
+
+dark
+ side
+ of
+ being
+ an
+ AI
+ agent
+ or
+ an
+ AI
+
+
+change
+ agent,
+ which
+ is
+ people
+ are
+ like,
+
+
+well,
+ I'm
+ the
+ only
+ one
+ that
+ knows
+ how
+ to
+
+
+do
+ this.
+ So
+ I'm
+ going
+ to
+ stand
+ out
+ if
+
+
+I'm
+ like
+ extra
+ good
+ uh
+ on
+ these
+ things
+
+
+or
+ just
+ get
+ my
+ work
+ done
+ faster
+ or
+
+
+whatever.
+ And
+ so
+ this
+ like
+ build
+ in
+
+
+public
+ many
+ to
+ many
+ sharing
+ is
+ so
+
+
+important
+ for
+ a
+ healthy
+ culture
+ around
+
+
+AI
+ transformation.
+ I
+ cannot
+ emphasize
+
+
+this
+ this
+ one
+ enough.
+
+
+>> Absolutely.
+
+
+>> This
+ episode
+ is
+ brought
+ to
+ you
+ by
+
+
+Lovable.
+ If
+ you've
+ ever
+ had
+ an
+ idea
+ for
+
+
+an
+ [music]
+ app
+ but
+ didn't
+ know
+ where
+ to
+
+
+start,
+ Lovable
+ is
+ for
+ you.
+ Lovable
+ lets
+
+
+you
+ build
+ working
+ apps
+ and
+ websites
+ by
+
+
+simply
+ chatting
+ with
+ AI.
+ [music]
+ Then
+
+
+you
+ can
+ customize
+ it,
+ add
+ automations,
+
+
+and
+ deploy
+ it
+ to
+ a
+ live
+ domain.
+ It's
+
+
+perfect
+ for
+ marketers
+ spinning
+ up
+ tools,
+
+
+product
+ managers
+ prototyping
+ new
+ ideas,
+
+
+or
+ founders
+ [music]
+ launching
+ their
+ next
+
+
+business.
+ Unlike
+ no
+ code
+ tools,
+ Lovable
+
+
+isn't
+ about
+ static
+ pages.
+ It
+ [music]
+
+
+builds
+ full
+ apps
+ with
+ real
+
+
+functionality.
+ And
+ it's
+ fast.
+ What
+ used
+
+
+to
+ take
+ weeks,
+ months,
+ or
+ even
+ years,
+
+
+you
+ can
+ now
+ do
+ over
+ the
+ weekend.
+ So,
+ if
+
+
+you've
+ been
+ sitting
+ on
+ an
+ idea,
+ now's
+
+
+the
+ time
+ to
+ bring
+ it
+ to
+ life.
+ [music]
+
+
+Get
+ started
+ for
+ free
+ at
+ lovable.dev.
+
+
+That's
+ lovable.dev.
+
+
+You
+ implemented
+ this
+ back
+ in
+ January,
+
+
+back
+ from
+ from
+ uh
+ leave.
+ We're
+ can
+ you
+
+
+believe
+ it?
+ The
+ year
+ is
+ like
+ almost
+
+
+over.
+ We're
+ like
+ we're
+ like
+ there.
+ It's
+
+
+unbelievable.
+
+
+>> I
+ know.
+
+
+>> Um
+ and
+ and
+ you
+ know,
+ how
+ did
+ you
+
+
+actually
+ measure?
+ Did
+ any
+ of
+ this
+
+
+matter,
+ right?
+ Like
+ did
+ we
+ do
+ this
+ and
+
+
+was
+ it
+ fun
+ and
+ or
+ did
+ people
+ actually
+
+
+adopt
+ this
+ and
+ how
+ did
+ you
+ how
+ did
+ you
+
+
+get
+ there?
+
+
+>> Yeah.
+ Yeah.
+ So,
+ um
+ I
+ think
+ there's
+ like
+
+
+there's
+ several
+ ways
+ I
+ can
+ answer
+ that
+
+
+question.
+ The
+ first
+ is
+ like,
+ you
+ know,
+ I
+
+
+>> I
+ didn't
+ intend
+ to
+ have
+ to
+ implement
+ a
+
+
+companywide
+ transformation,
+ right?
+ Like
+
+
+I
+ I
+ needed
+ to
+ start
+ uh
+ somewhere
+ or
+ at
+
+
+least
+ I
+ wanted
+ to
+ really
+ focus
+ on
+ my
+
+
+craft
+ and
+ the
+ people
+ that
+ are
+ around
+ me.
+
+
+So
+ that
+ was
+ product
+ design,
+ a
+ little
+ bit
+
+
+of
+ engineering,
+ right?
+ And
+ so
+ product
+ AI
+
+
+is
+ intentionally
+ focused
+ on
+ the
+ area
+
+
+around
+ creating
+ products
+ um
+ using
+ AI
+ to
+
+
+um
+ do
+ design,
+ product
+ management,
+
+
+engineering,
+ that
+ sort
+ of
+ thing.
+ It
+
+
+wasn't
+ intended
+ to
+ sort
+ of
+ like
+ branch
+
+
+out
+ to
+ you
+ know
+ how
+ does
+ revenue
+ sell
+
+
+better
+ or
+ how
+ does
+ finance
+ do
+ whatever
+
+
+finance
+ does
+ better
+ right?
+ Um
+ the
+
+
+channel
+ so
+ like
+ it
+ really
+ it
+ was
+ really
+
+
+important
+ for
+ the
+ channel
+ to
+ be
+ public.
+
+
+We
+ have
+ like
+ 200
+ plus
+ people
+ on
+ the
+
+
+channel
+ now.
+ That
+ is
+ way
+ more
+ than
+ the
+
+
+product
+ organization.
+ So
+ the
+ thing
+ is
+
+
+like
+ even
+ if
+ you're
+ sort
+ of
+ focusing
+ on
+
+
+a
+ functional
+ area
+ um
+ there's
+ aspects
+ of
+
+
+that
+ functional
+ area
+ that
+ bleeds
+ outside
+
+
+of
+ the
+ organization.
+ Um
+ so
+ just
+ to
+ kind
+
+
+of
+ give
+ you
+ a
+ perspective
+ on
+ like
+ the
+
+
+sessions
+ that
+ we
+ ran
+ right
+ so
+ we
+ started
+
+
+back
+ in
+ January
+ we
+ were
+ doing
+ it
+ every
+
+
+two
+ weeks
+ and
+ you
+ can
+ kind
+ of
+ see
+ sort
+
+
+of
+ like
+ some
+ of
+ the
+ the
+ different
+
+
+topics.
+ It
+ wasn't
+ just
+ all
+ about
+ vibe
+
+
+coding.
+ It's
+ about
+ prompting.
+ It's
+ about
+
+
+you
+ know
+ how
+ do
+ you
+ take
+ customer
+
+
+feedback
+ and
+ sort
+ of
+ make
+ sense
+ of
+ it.
+
+
+Um
+ there's
+ sessions
+ here
+ on
+ just
+ like
+
+
+diving
+ into
+ just
+ Gemini.
+ I
+ mean
+ like
+ we
+
+
+have
+ access
+ to
+ all
+ a
+ whole
+ bunch
+ of
+
+
+Google
+ features
+ from
+ Google
+ that
+ are
+ AI
+
+
+related
+ and
+ they're
+ spread
+ out
+
+
+throughout
+ their
+ entire
+ ecosystem.
+ So
+
+
+it's
+ like
+ hey
+ what's
+ what
+ are
+ all
+ the
+
+
+things
+ that
+ we
+ can
+ do
+ to
+ sort
+ of
+ take
+
+
+advantage
+ of
+ that
+ and
+ that
+ was
+ one
+ where
+
+
+I
+ intentionally
+ made
+ it
+ not
+ just
+ about
+
+
+product
+ and
+ design
+ because
+ like
+ you
+ know
+
+
+the
+ the
+ finance
+ people
+ and
+ the
+ revenue
+
+
+people
+ could
+ definitely
+ take
+ advantage
+
+
+of
+ things
+ like
+ deep
+ research
+ within
+
+
+Gemini
+ or
+ the
+ AI
+ function
+ within
+ within
+
+
+uh
+ sheets.
+ So
+ sometimes
+ like
+ it
+ makes
+
+
+sense
+ to
+ sort
+ of
+ like
+ really
+ promote
+
+
+these
+ things
+ outside
+ but
+ again
+ it
+ was
+
+
+like
+ you
+ know
+ you
+ kind
+ of
+ want
+ to
+ make
+
+
+sure
+ that
+ you
+ stay
+ within
+ your
+ group.
+
+
+And
+ then
+ separately
+ there
+ was
+ an
+
+
+initiative
+ uh
+ an
+ OKR
+ in
+ the
+ first
+
+
+quarter
+ of
+ of
+ this
+ year.
+ Our
+ quarters
+
+
+begin
+ in
+ February.
+ So
+ I
+ had
+ started
+
+
+this.
+ Yeah.
+ What's
+ it's
+ so
+ weird
+
+
+enterprise
+ enterprise
+ sales
+ uh
+ fiscal
+
+
+year
+ right
+ there.
+ [laughter]
+
+
+>> Yeah.
+ It
+ it it
+ really
+ confuses
+ me
+
+
+because
+ like
+ we're
+ in
+ fiscal
+ year
+ 2026.
+
+
+Like
+ I
+ thought
+ still
+
+
+>> 2022
+ and
+ it's
+ October.
+ What's
+ happening?
+
+
+>> Yeah,
+ totally.
+ Um
+ so
+ yeah,
+ we're
+ like
+ a
+
+
+little
+ like
+ one
+ month
+ off.
+ So
+ our
+
+
+quarters
+ begin
+ in
+ in
+ uh
+ in
+ February.
+ So
+
+
+I
+ had
+ started
+ this
+ and
+ I
+ think
+ because
+
+
+you
+ know
+ to
+ your
+ to
+ your
+ point
+ earlier
+
+
+about
+ like
+ how
+ this
+ this
+ uh
+ is
+ also
+ a
+
+
+good
+ career
+ move.
+ It
+ adds
+ a
+ lot
+ of
+
+
+visibility
+ I
+ think
+ to
+ you
+ if
+ you
+ sort
+ of
+
+
+take
+ the
+ initiative.
+ Like
+ I
+ had
+ just
+
+
+started
+ this
+ a
+ couple
+ weeks
+ earlier,
+ but
+
+
+I
+ was
+ invited
+ to
+ be
+ part
+ of
+ a
+ crossf
+
+
+functional
+ group
+ that
+ was
+ responsible
+
+
+for
+ a
+ companywide
+ OKR
+ to
+ improve
+ um
+ um
+
+
+AI
+ AI
+ leverage
+ within
+ the
+ organization.
+
+
+And
+ so
+ um
+ I
+ can
+ show
+ you
+ some
+ of
+ the
+
+
+things
+ that
+ we
+ did
+ but
+ like
+ I
+ think
+ the
+
+
+most
+ important
+ thing
+ uh
+ that
+ we
+ did
+ was
+
+
+just
+ measuring
+ right
+ just
+ measuring
+ sort
+
+
+of
+ like
+ what
+ is
+ the
+ and
+ we
+ called
+ it
+ a
+
+
+sentiment
+ survey
+ because
+ like
+ we
+ didn't
+
+
+really
+ know
+ what
+ people's
+ or
+ like
+ my
+
+
+colleagues
+ uh
+ feelings
+ were
+ about
+ AI
+
+
+right
+ like
+ because
+ you
+ know
+ you
+ might
+
+
+feel
+ like
+ AI
+ is
+ taking
+ your
+ job
+ or
+ AI
+ is
+
+
+creating
+ slob
+ or
+ you
+ might
+ feel
+ that
+
+
+like
+ AI
+ is
+ such
+ like
+ a
+ cool
+ fun
+ like
+
+
+incredibly
+ transformational
+ technology
+
+
+that
+ you
+ know
+ is
+ gonna
+ solve
+ cancer,
+
+
+right?
+ Like
+ I
+ don't
+ know
+ what
+ the
+ the
+
+
+sentiment
+ is.
+ We
+ weren't
+ really,
+ you
+
+
+know,
+ you're
+ not
+ h
+ you
+ were
+ never
+ really
+
+
+hiring
+ for
+ the
+ skill
+ or
+ this
+ attitude,
+
+
+right?
+ And
+ so
+ you
+ have
+ a
+ group
+ of
+ folks
+
+
+and
+ you
+ know
+ you're
+ thinking
+ about
+
+
+instituting
+ a
+ transformation
+ on
+ how
+ they
+
+
+work
+ and
+ the
+ technology
+ they
+ use.
+ And
+ so
+
+
+it
+ was
+ really
+ important
+ I
+ think
+ for
+ us
+
+
+to
+ get
+ a
+ temperature
+ read
+ on
+ like
+ how
+
+
+people
+ felt
+ about
+ AI.
+ But
+ we
+ also
+ wanted
+
+
+to
+ know
+ other
+ dimensions
+ as
+ well.
+ Are
+
+
+they
+ aware
+ of
+ the
+ like
+ for
+ instance
+ are
+
+
+they
+ familiar
+ with
+ our
+ usage
+ policy?
+
+
+Right?
+
+
+There's
+ a
+ lot
+ of
+ shadow
+ IT
+ happening
+
+
+just
+ like
+ you
+ said
+ like
+ people
+ are
+ using
+
+
+their
+ Gmail
+ their
+ personal
+ chat
+ GBT
+
+
+accounts
+ to
+ do
+ professional
+ work
+ and
+
+
+they're
+ not
+ sure
+ is
+ like
+ is
+ that
+
+
+cheating?
+ Is
+ that
+ allowed?
+ Um
+ or
+ even
+
+
+like
+ what
+ kind
+ of
+ data
+ am
+ I
+ allowed
+ to
+
+
+put
+ into
+ chat
+ GBT?
+ Can
+ I
+ put
+ like
+
+
+customer
+ transcripts
+ in
+ there?
+ Like
+ I
+
+
+don't
+ I
+ don't
+ know what
+ the
+ answer
+ is.
+
+
+And
+ some
+ people
+ are
+ just
+ doing
+ it
+
+
+because
+ they
+ know
+ it's
+ going
+ to
+ be
+
+
+helpful
+ and
+ some
+ people
+ are
+ not
+ doing
+ it
+
+
+because
+ they're
+ worried
+ that
+ you
+ know
+
+
+that's
+ not
+ that's
+ not
+ cool.
+ Um,
+ and
+ the
+
+
+other
+ thing
+ too
+ is
+ like
+ they
+ don't
+ know
+
+
+what
+ tools
+ are
+ available
+ because
+ yeah,
+ I
+
+
+mean
+ like
+ you
+ have
+ Salesforce,
+ you
+ have
+
+
+Gmail,
+ but
+ you
+ don't
+ like
+ we
+ at
+ the
+
+
+point
+ at
+ that
+ time
+ we
+ didn't
+ have
+
+
+companywide
+ licenses
+ for
+ chat
+ GBT,
+
+
+right?
+ So
+ like
+ no
+ one
+ knows
+ what
+ what
+ is
+
+
+actually
+ available
+ to
+ them.
+ Um,
+ and
+ so
+
+
+what
+ I'm
+ showing
+ here
+ is
+ like
+ the
+
+
+beginning
+ of
+ the
+ quarter.
+ So
+ like
+ the
+
+
+idea
+ was
+ we
+ would
+ do
+ some
+ things
+ within
+
+
+the
+ quarter,
+ but
+ in
+ the
+ beginning
+ of
+ the
+
+
+quarter
+ we
+ take
+ this
+ baseline
+ and
+ we
+
+
+asked
+ these
+ five
+ questions
+ and
+ we
+ also
+
+
+got
+ some
+ uh
+ some
+ qual
+ feedback
+ as
+ well.
+
+
+So
+ it
+ kind
+ of
+ gave
+ us
+ a
+ little
+ um
+ an
+
+
+idea
+ sort
+ of
+ like
+ you
+ know
+ why
+ things
+
+
+were
+ trending
+ in
+ a
+ certain
+ way.
+ Um
+ and
+
+
+then
+ one
+ thing
+ that
+ we
+ we
+ we
+ noticed
+ and
+
+
+you're
+ kind
+ of
+ looking
+ at
+ sort
+ of
+ like
+
+
+the
+ trend
+ of
+ what
+ happened
+ be
+ from
+ the
+
+
+beginning
+ of
+ the
+ quarter
+ to
+ the
+ end
+ of
+
+
+the
+ quarter.
+ Uh
+ there
+ was
+ an
+ increase
+
+
+along
+ all
+ of
+ these
+ measurements
+ and
+ the
+
+
+biggest
+ ones
+ were
+ around
+ this
+ uh
+ usage
+
+
+policy
+ and
+ which
+ tools
+ do
+ I
+ have
+
+
+available
+ to
+ me.
+ I
+ think
+ the
+ biggest
+ gap
+
+
+was
+ here
+ because
+ we
+ didn't
+ spend
+ any
+
+
+time
+ with
+ it.
+ So
+ there
+ was
+ a
+ lot
+ of
+ work
+
+
+done
+ in
+ that
+ quarter
+ um
+ just
+ by
+ making
+
+
+people
+ aware
+ of
+ what
+ they
+ can
+ do
+ and
+ how
+
+
+they
+ can
+ request
+ software.
+ So
+ here's
+ a
+
+
+just
+ a
+ screenshot
+ of
+ an
+ internal
+ uh
+ uh
+
+
+confluence
+ document
+ we
+ call
+ the
+ AI
+
+
+knowledge
+ center.
+ And
+ in
+ this
+ document
+
+
+um
+ is
+ all
+ the
+ information
+ that
+ an
+
+
+employee
+ needs
+ to
+ know
+ about
+ which
+ AI
+
+
+tools
+ they
+ have
+ available
+ to
+ them.
+ So,
+
+
+like
+ if
+ you
+ were
+ to
+ scroll
+ down,
+ you'd
+
+
+get
+ this
+ like
+ alphabetized
+ table
+ of
+ all
+
+
+the
+ products
+ that
+ have
+ been
+ approved
+ to
+
+
+be
+ used
+ within
+ our
+ organization
+ for
+
+
+security
+ reasons,
+ um,
+ for
+ for
+ legal
+
+
+reasons.
+ I
+ mean,
+ the
+ the
+ thing
+ is
+ that
+
+
+like
+ AI
+ is
+ a
+ is
+ a
+ vector
+ for
+ doing
+ some
+
+
+really
+ bad
+ stuff.
+ And
+ even
+ though
+ you
+
+
+want
+ to
+ move
+ fast
+ and
+ you
+ want
+ to
+ use
+
+
+all
+ of
+ these
+ really
+ cool
+ tools,
+ you
+
+
+don't
+ want
+ to
+ put
+ your
+ company
+ and
+ your
+
+
+customers
+ data
+ at
+ risk.
+ And
+ so
+ it's
+
+
+really
+ important
+ that
+ you
+ know
+ you
+ work
+
+
+closely
+ with
+ your
+ security,
+ your
+ IT
+
+
+department,
+ your
+ finance
+ department,
+
+
+your
+ legal
+ department.
+ And
+ like
+ again
+ I
+
+
+was
+ very
+ fortunate
+ in
+ to
+ be
+ in
+ an
+
+
+organization
+ where
+ like
+ those
+ folks
+
+
+which
+ sometimes
+ can
+ feel
+ like
+ friction
+
+
+and
+ a
+ barrier
+ like
+ they
+ um
+ I
+ think
+ they
+
+
+recognize
+ that
+ like
+ this
+ was
+ also
+ really
+
+
+important
+ and
+ sort
+ of
+ like
+ prioritized
+
+
+um
+ you
+ know
+ still
+ doing
+ all
+ the
+ the
+
+
+solid
+ work
+ but
+ like
+ adding
+ uh
+ I
+
+
+prioritize
+ sort
+ of
+ like
+ the
+ enabling
+ us
+
+
+to
+ sort
+ of
+ like
+ not
+ just
+ use
+ these
+ tools
+
+
+but
+ experiment
+ with
+ different
+ ones.
+ like
+
+
+I
+ found
+ myself
+ for
+ like
+ a
+ month
+ like
+
+
+every
+ week
+ I
+ was
+ submitting
+ these
+ like
+
+
+zip
+ requests
+ for
+ new
+ software
+ that
+ I
+
+
+wanted
+ to
+ to
+ try
+ out.
+ Um
+ and
+ it
+ would
+
+
+only
+ take
+ maybe
+ like
+ a
+ week
+ for
+ me
+ to
+
+
+sort
+ of
+ get
+ the
+ the
+ okay
+ and
+ you
+ can
+
+
+kind
+ of
+ see
+ like
+ it
+ was
+ really
+ important
+
+
+not
+ just
+ to
+ see
+ which
+ applications
+ I
+ had
+
+
+access
+ to
+ and
+ how
+ how
+ that
+ application
+
+
+could
+ be
+ used
+ but
+ what
+ kind
+ of
+ data
+ can
+
+
+I
+ share
+ within
+ an
+ application
+ as
+ well
+ as
+
+
+if
+ I
+ want
+ to
+ get
+ access
+ to
+ it
+ like
+ what
+
+
+are
+ ways
+ that
+ I
+ can
+ I
+ can
+ get
+ to
+ that.
+
+
+And
+ so
+ when
+ I
+ you
+ know
+ I
+ go
+ back
+ to
+ this
+
+
+slide
+ you
+ know
+ that
+ was
+ that
+ was
+ one
+ of
+
+
+the
+ the
+ the
+ tactical
+ things
+ we're
+ able
+
+
+to
+ get
+ done
+ in
+ a
+ single
+ quarter
+ that
+
+
+really
+ made
+ a
+ huge
+ difference
+ sort
+ of
+ in
+
+
+this
+ um
+ in
+ this
+ metric
+ of
+ awareness
+
+
+about
+ policy
+ and
+ tools.
+
+
+>> I
+ want
+ to
+ just
+ call
+ this
+ out
+ for
+ the
+
+
+leaders
+ on
+ the
+ team
+ that
+ are
+ or
+ the
+
+
+leaders
+ in
+ the
+ audience
+ that
+ are
+
+
+listening.
+ This
+ is
+ the
+ first
+ thing
+ I
+
+
+tell
+ them
+ to
+ do
+ is
+ I
+ say
+ define
+ the
+
+
+golden
+ path
+ to
+ using
+ AI
+ and
+ it
+ takes
+
+
+three
+ pieces.
+ It
+ takes
+ finance
+ and
+
+
+procurement.
+ It
+ takes
+ legal
+ and
+ it
+ takes
+
+
+security.
+ And
+ what
+ I
+ tell
+ them
+ is
+ it's
+
+
+really
+ not
+ going
+ to
+ benefit
+ the
+
+
+acceleration
+ of
+ your
+ team
+ to
+ say
+ we'll
+
+
+go
+ heads
+ down
+ and
+ figure
+ out
+ how
+ you
+ can
+
+
+get
+ chat
+ GBT
+ and
+ cursor
+ and
+ you'll
+ get
+
+
+your
+ three
+ little
+ little
+ tools
+ and
+ we'll
+
+
+let
+ you
+ know
+ what
+ they
+ are.
+ You
+ actually
+
+
+need
+ what
+ you
+ called
+ out
+ which
+ is
+ a
+ very
+
+
+fast
+ path
+ to
+ experimenting
+ with
+
+
+reasonable
+ tools
+ to
+ identify
+ which
+ ones
+
+
+are
+ going
+ to
+ work
+ for
+ your
+ team.
+ And
+
+
+that
+ rapid
+ experimentation
+ is
+ really
+
+
+really
+ important.
+ You
+ can't
+ go
+ do
+ a
+ big
+
+
+like
+ multi-month
+ evaluation
+ of
+ one
+ code
+
+
+editing
+ tool
+ because
+ as
+ you
+ said
+ they're
+
+
+changing
+ so
+ rapidly.
+ And
+ so
+ I
+ love
+ this
+
+
+documented
+ place
+ of
+ like
+ here's
+ the
+
+
+tool,
+ here's
+ the
+ status,
+ here's
+ the
+ data
+
+
+you
+ can
+ put
+ in
+ and
+ the
+ data
+ you
+ can't
+
+
+put
+ in.
+ Here's
+ how
+ you
+ get
+ a
+ license.
+
+
+Here's
+ how
+ you
+ get
+ help.
+ Um
+ is
+ just
+ very
+
+
+very
+ very
+ useful.
+ and
+ and
+ if
+ you
+ can
+ get
+
+
+this
+ done,
+ then
+ it
+ all
+ starts
+ to
+
+
+snowball
+ from
+ there
+ because
+ people
+ have
+
+
+a
+ place
+ and
+ a
+ path
+ to
+ go
+ down.
+ So,
+ I
+
+
+this
+ is
+ probably
+ like
+ not
+ the
+ most
+
+
+exciting
+ screen
+ share
+ we've
+ seen.
+ Like,
+
+
+it's
+ a
+ it's
+ a
+ table
+ and
+ a
+ confluence
+
+
+talk,
+ but
+ like
+ I
+ just
+ want
+ everybody
+ to
+
+
+pause,
+ screenshot
+ this
+ if
+ you
+ do
+ not
+
+
+have
+ this
+ in
+ your
+ org.
+ Like,
+ you
+ need
+
+
+it.
+ Need
+ it
+ today
+ because
+ this
+ is
+ going
+
+
+to
+ be
+ the
+ thing
+ that
+ changes
+ how
+ you
+
+
+work.
+ I
+ love
+ this.
+
+
+>> Yeah,
+ 100%.
+ Um,
+ and
+ like
+ once
+ you
+ kind
+
+
+of
+ get
+ that
+ ball
+ rolling,
+ like
+ you
+ know,
+
+
+there
+ there's
+ a
+ separate
+ channel
+ too,
+
+
+like
+ I
+ think
+ it's
+ called
+ like
+ the
+ AI
+
+
+knowledge
+ center.
+ It's
+ meant
+ to
+ be
+ sort
+
+
+of
+ like
+ the
+ product
+ AI
+ channel
+ but
+ more
+
+
+like
+ broad-based.
+ And
+ every
+ once
+ in
+ a
+
+
+while,
+ someone
+ be
+ like,
+ "Hey,
+ can
+ I
+ use
+
+
+granola
+ for
+ this?"
+ And
+ someone
+ outside
+
+
+of
+ it,
+ you
+ know,
+ someone
+ who's
+ just
+
+
+familiar
+ with
+ this
+ with
+ this
+ process
+
+
+would
+ just
+ like,
+ "Hey,
+ yeah,
+ go
+ check
+
+
+out
+ the
+ thing.
+ You
+ know,
+ yeah,
+ you
+ can
+
+
+use
+ it,
+ but
+ you
+ have
+ to
+ get
+ approval,
+
+
+yada
+ yada
+ yada."
+ And
+ so
+ like
+ once
+ you
+
+
+sort
+ of
+ get
+ the
+ ball
+ rolling,
+ you
+ have
+
+
+really
+ good
+ documentation,
+ you
+ just
+ sort
+
+
+of
+ reemphasize
+ this
+ is
+ where
+ you
+ go,
+
+
+this
+ is
+ the
+ process.
+ And
+ on
+ the
+ on
+ the
+
+
+flip
+ side,
+ I
+ mean,
+ I'm
+ not
+ in
+ legal,
+
+
+security,
+ IT,
+ that
+ sort
+ of
+ thing.
+ But
+
+
+like
+ when
+ that
+ those
+ groups
+ um
+ that
+ that
+
+
+group
+ those
+ groups
+ are
+ responsive
+ to
+ an
+
+
+organization
+ that
+ wants
+ to
+ experiment
+
+
+and
+ try
+ this
+ stuff,
+ then
+ that
+ the
+ the
+
+
+flywheel
+ just
+ just
+ keeps
+ going.
+ And
+ um
+
+
+you
+ know
+ like
+ I
+ said
+ in
+ the
+ beginning
+ of
+
+
+the
+ year
+ there
+ was
+ a
+ lot
+ of
+ like
+
+
+confusion
+ about
+ what
+ I
+ can
+ do
+ and
+
+
+whatever
+ and
+ now
+ I
+ wouldn't
+ say
+ it's
+ all
+
+
+gone
+ but
+ like
+ it
+ is
+ nowhere
+ near
+ the
+ top
+
+
+list
+ the
+ top
+ of
+ our
+ list
+ of
+ things
+ that
+
+
+like
+ we
+ are
+ concerned
+ about
+ when
+ it
+
+
+comes
+ to
+ AI
+ transformation.
+ Well,
+ I
+ love
+
+
+this.
+ You
+ know,
+ just
+ to
+ recap,
+ you've
+
+
+shown
+ us
+ how
+ you
+ become
+ a
+ change
+ agent.
+
+
+You
+ know,
+ sort
+ of
+ incept
+ your
+
+
+organization
+ into
+ taking
+ this
+ seriously
+
+
+as
+ an
+ initiative,
+ how
+ you
+ use
+
+
+synchronous
+ meetings
+ and
+ asynchronous
+
+
+Slack
+ channels
+ to
+ drive
+ this
+ as
+ a
+
+
+consistent
+ practice
+ over
+ time.
+ And
+ then
+
+
+you
+ use
+ OKRs
+ to
+ actually
+ measure
+ does
+
+
+any
+ of
+ this
+ matter?
+ And
+ you're
+ showing
+
+
+that
+ like
+ if
+ you
+ put
+ these
+ simple
+ things
+
+
+in
+ place,
+ you
+ can
+ actually
+ inlect
+ those
+
+
+measures
+ which
+ you
+ know
+ just
+ in
+ the
+
+
+looking
+ at
+ the
+ sentiment.
+ Um,
+ I
+ like
+
+
+that
+ last
+ question
+ that
+ you
+ had
+ on
+ the
+
+
+sentiment
+ survey
+ which
+ is
+ like
+ I
+ think
+
+
+this
+ is
+ going
+ to
+ have
+ a
+ positive
+ impact
+
+
+on
+ our
+ employees
+ and
+ that
+ went
+ up
+ and
+
+
+that
+ is
+ a
+ huge
+ win
+ for
+ for
+ a
+ company
+
+
+because
+ a
+ lot
+ of
+ people
+ are
+ feeling
+ fear
+
+
+about
+ their
+ careers,
+ uncertainty,
+ doubt
+
+
+and
+ so
+ the
+ fact
+ that
+ you
+ can
+ show
+ you
+
+
+can
+ do
+ these
+ very
+ simple
+ things
+ and
+
+
+inflect
+ that
+ sentiment
+ very
+ positively
+
+
+in
+ your
+ employee
+ population
+ is
+ also
+
+
+fabulous.
+ So,
+ uh,
+ Brian,
+ this
+ was
+ great.
+
+
+Thank
+ you
+ for
+ showing
+ us
+ again
+ like
+ I
+
+
+could
+ not
+ write
+ a
+ better
+ playbook
+ for
+
+
+getting
+ AI
+ adoption
+ in
+ a
+ team.
+ This
+ is
+
+
+what
+ I've
+ done.
+ I
+ you
+ it
+ works.
+ Let's
+ do
+
+
+this.
+ Let's
+ repeat
+ this
+ and
+ stamp
+ it
+ out
+
+
+in
+ our
+ our
+ own
+ teams.
+ So
+ let's
+ get
+ to
+
+
+some
+ lightning
+ round
+ questions
+ and
+ then
+
+
+we'll
+ get
+ you
+ back
+ to
+ all
+ your
+ fun
+ AI
+
+
+projects.
+ The
+ first
+ question
+ I
+ have
+ is
+
+
+okay.
+ You
+ showed
+ us
+ like
+ you're
+
+
+incepting
+ people
+ and
+ you're
+ you
+ know
+
+
+managing
+ your
+ stakeholders
+ and
+ all
+ that
+
+
+kind
+ of
+ stuff.
+ What
+ is
+ your
+ favorite
+
+
+thing
+ you've
+ built
+ with
+ AI
+ over
+ the
+ last
+
+
+year
+ for
+ for
+ work?
+ I've
+ built
+ a
+ lot
+ of
+
+
+really
+ cool
+ things.
+ Um,
+ the
+ one
+ that
+ I'm
+
+
+most
+ proud
+ of,
+ but
+ it's
+ it's
+ kind
+ of
+
+
+geeky
+ is
+ that
+ I
+ built
+ my
+ own
+ MCP
+ server
+
+
+for
+ Pento.
+ Um,
+ so,
+ uh,
+ back
+ maybe
+ back
+
+
+in
+ the
+ spring
+ whenever
+ when
+ MCP
+ was
+
+
+becoming
+ really
+ hot,
+ uh,
+ folks
+ have
+ been
+
+
+talking
+ about
+ MCP
+ and
+ like
+ how
+ it
+ could
+
+
+be
+ applied
+ to
+ to
+ Pendo.
+ And
+ um
+ what
+ I
+
+
+clearly
+ saw
+ was
+ after
+ using
+ tools
+ like
+
+
+deep
+ research
+ that
+ is
+ essentially
+ like
+
+
+an
+ agent
+ that
+ can
+ you
+ know
+ basically
+ run
+
+
+a
+ bunch
+ of
+ web
+ queries
+ over
+ and
+ over
+ and
+
+
+over
+ again
+ to
+ sort
+ of
+ build
+ up
+ sort
+ of
+ a
+
+
+a
+ research
+ document.
+ I
+ had
+ spent
+ you
+
+
+know
+ I've
+ been
+ in
+ in
+ tech
+ for
+ a
+ while.
+ I
+
+
+I'm
+ a
+ designer
+ now
+ but
+ I've
+ also
+ spent
+
+
+time
+ as
+ a
+ PM
+ and
+ I've
+ done
+ a
+ lot
+ of
+
+
+growth
+ work.
+ And
+ one
+ of
+ the
+ things
+ that
+
+
+is
+ common
+ within
+ growth
+ is
+ you're
+ you're
+
+
+constantly
+ moni
+ monitoring
+ like
+
+
+dashboards
+ of
+ conversion
+ rates
+ and
+
+
+retention
+ and
+ blah
+ blah
+ blah.
+ And
+ every
+
+
+once
+ in
+ a
+ while
+ a
+ number
+ will
+ like
+ dip
+
+
+or
+ will
+ dive,
+ right?
+ And
+ then
+ you're
+
+
+you're
+ off
+ and
+ you're
+ spending
+ like
+ the
+
+
+entire
+ week
+ trying
+ to
+ understand
+ like
+
+
+what
+ is
+ it
+ like?
+ Do
+ we
+ have
+ like
+ an
+
+
+issue?
+ Do
+ we
+ have
+ a
+ bug?
+ Like
+ is
+ there
+
+
+something
+ going
+ on,
+ you
+ know,
+ in
+ one
+ of
+
+
+our
+ regions?
+ uh
+ you
+ know
+ like
+ if
+ you're
+
+
+doing
+ a
+ year-over-year
+ comparison
+ like
+
+
+maybe
+ a
+ holiday
+ fell
+ you
+ know
+ last
+ year
+
+
+and
+ not
+ this
+ year
+ and
+ so
+ like
+ that's
+ why
+
+
+these
+ and
+ usually
+ it's
+ it's
+ like
+ some
+
+
+common
+ sense
+ thing
+ but
+ like
+ if
+ someone
+
+
+above
+ you
+ sort
+ of
+ sees
+ this
+ and
+ they're
+
+
+just
+ like
+ wait
+ a
+ minute
+ like
+ fire
+ drill
+
+
+like
+ we
+ got
+ to
+ go
+ figure
+ it
+ all
+ out
+ and
+
+
+that
+ like
+ just
+ eats
+ up
+ your
+ whole
+ week
+
+
+doing
+ like
+ a
+ lot
+ of
+ like
+ iterative
+
+
+research
+ right
+ looking
+ at
+ the
+ data
+ from
+
+
+different
+ angles
+ and
+ I'm
+ like
+ this
+ could
+
+
+be
+ like
+ like
+ a
+ deep
+ research
+ like
+ query
+
+
+but
+ having
+ access
+ to
+ like
+ our
+ data
+ right
+
+
+um
+ or
+ usage
+ data
+ could
+ be
+ uh
+ like
+ a
+
+
+killer
+ and
+ like
+ NCP
+ is
+ a
+ technology
+ that
+
+
+can
+ leverage
+ that
+ if
+ I
+ can
+ give
+ the
+ AI
+
+
+tools
+ to
+ run
+ these
+ queries
+ and
+ then
+ like
+
+
+use
+ its
+ intelligence
+ to
+ like
+ look
+ at
+ the
+
+
+data
+ and
+ be
+ like
+ oh
+ what
+ about
+ looking
+
+
+at
+ it
+ by
+ region
+ let's
+ look
+ at
+ it
+ a
+ year
+
+
+let's
+ look
+ at
+ it
+ blah
+ blah
+ blah
+ um
+ and
+
+
+so
+ that
+ was
+ sort
+ of
+ like
+ the
+ idea
+ that
+ I
+
+
+had
+ of
+ connecting
+ like
+ okay
+ how
+ this
+ is
+
+
+how
+ MCP
+ could
+ be
+ useful
+ um
+ for
+ our
+
+
+customers
+ right
+ because
+ we
+ also
+ we're
+ a
+
+
+product
+ analytics
+ um
+ provider
+ and
+ so
+ I
+
+
+had
+ this
+ conversation
+ with
+ my
+ colleague
+
+
+colleagues
+ and
+ they're
+ just
+ like
+ I
+ don't
+
+
+know
+ if
+ you
+ know
+ because
+ we
+ have
+ like
+ a
+
+
+a
+ bespoke
+ quering
+ language.
+ It's
+ not
+
+
+SQL,
+ so
+ it
+ it
+ takes,
+ you
+ know,
+ the
+ AI
+
+
+doesn't
+ know
+ how
+ to
+ write
+ those
+ queries,
+
+
+but
+ I
+ I
+ thought
+ I
+ had
+ a
+ way
+ of
+ doing
+ it
+
+
+that
+ that
+ could
+ sort
+ of
+ overcome
+ that.
+
+
+And
+ so
+ over
+ a
+ couple
+ of
+ nights,
+ um
+ I
+
+
+basically
+ just
+ leveraged
+ the
+ MCP
+
+
+documentation
+ giving
+ it
+ to
+ cursor.
+ I
+
+
+have
+ no
+ idea
+ how
+ my
+ I
+ built
+ an
+ MTP
+
+
+server.
+ I
+ have
+ no
+ idea
+ actually
+ how
+ it
+
+
+works,
+ but
+ I
+ understand
+ like
+ right.
+ It's
+
+
+like
+ a
+ lot
+ of
+
+
+>> I'm
+ laughing.
+ I'm
+ laughing.
+ Everybody
+
+
+close
+ your
+ ears.
+ I
+ legitimately
+
+
+approached
+ MCP
+ servers
+ as
+ true
+ sorcery
+
+
+sorcery
+
+
+before
+ I
+ built
+ one.
+ I
+ was
+ so
+ I
+ don't
+
+
+there's
+ there's
+ some
+ branding
+ issue
+ that
+
+
+that
+ the
+ MCP
+ platform
+ and
+ framework
+ has
+
+
+because
+ it
+ seems
+ like
+ sorcery.
+ So
+ I
+ was
+
+
+with
+ you
+ until
+ I
+ actually
+ built
+ one
+ and
+
+
+like
+ you
+ know
+ wrote
+ the
+ code
+ and
+ then
+ I
+
+
+was
+ like
+ oh
+ okay
+ I
+ get
+ it
+ a
+ little
+ bit.
+
+
+There's
+ a
+ lot
+ of
+ elements
+ that
+ make
+ it
+
+
+like
+ really
+ hard
+ to
+ gra
+ like
+ model
+
+
+context
+ protocol.
+ Like
+ what
+ the
+ hell
+ do
+
+
+those
+ words
+ mean?
+ Yeah.
+
+
+>> Like
+ it
+ doesn't
+ actually
+ speak.
+
+
+>> Even
+ the
+ naming
+ it's
+ just
+ okay.
+ So
+ MC
+
+
+framework
+ uh
+ caretakers
+
+
+you
+ might
+ as
+ well
+ call
+ it
+ magic
+ context
+
+
+protocol
+ for
+ for
+ all
+ we
+ know.
+
+
+>> Yeah.
+ Yeah.
+ What
+ one
+ of
+ my
+ most
+ uh
+
+
+popular
+ sessions
+ like
+ so
+ you
+ know
+ it's
+
+
+not
+ just
+ me
+ doing
+ the
+ sessions
+ during
+
+
+product
+ day.
+ other
+ people
+ will
+ do
+ them,
+
+
+but
+ like
+ one
+ of
+ my
+ most
+ popular
+ one
+ one
+
+
+was
+ called
+ WTF
+ is
+ MCP
+ and
+ I
+ just
+ spent
+
+
+like
+ a
+ whole
+ hour
+ telling
+ people
+ what
+
+
+MCP
+ was
+ and
+ afterwards
+ they're
+ like,
+
+
+"Oh,
+ I
+ get
+ it
+ now.
+ It's
+ kind
+ of
+ like
+ web
+
+
+search
+ but
+ like
+ more
+ tools."
+ I'm
+ like,
+
+
+"Yeah."
+
+
+But
+ anyway,
+ [laughter]
+
+
+>> so
+ I
+ I
+ I
+ built
+ this
+ thing
+ and
+ like
+ I
+
+
+have
+ like
+ so
+ you
+ know
+ my
+ wife
+ also
+ so
+
+
+works
+ in
+ technology
+ but
+ she's
+ in
+
+
+marketing
+ and
+ I'm
+ sitting
+ like
+ next
+ to
+
+
+her
+ and
+ you
+ know
+ how
+ it
+ is
+ like
+ you
+ have
+
+
+a
+ baby
+ and
+ like
+ you
+ know
+ your
+ your
+
+
+nights
+ are
+ a
+ little
+ bit
+ slower
+ and
+ so
+
+
+you
+ have
+ some
+ slack
+ time
+ just
+ kind
+ of
+
+
+like
+ hang
+ out
+ and
+ she's
+ watching
+ TV
+ and
+
+
+I'm
+ sitting
+ there
+ on
+ the
+ laptop
+ like
+
+
+working
+ on
+ this
+ MCT
+ server
+ and
+ I
+ got
+ it
+
+
+to
+ do
+ a
+ thing
+ right
+ I
+ got
+ it
+ to
+ like
+ you
+
+
+know
+ I
+ wrote
+ a
+ query
+ uh
+ a
+ prompt
+ within
+
+
+claude
+ and
+ it
+ talked
+ to
+ my
+ MCP
+ server
+
+
+and
+ it
+ ran
+ a
+ thing
+ and
+ it
+ returned
+ data
+
+
+back
+ and
+ I
+ was
+ just
+ like,
+ "You
+ have
+ no
+
+
+idea
+ how
+ how
+ credible
+ this
+ is."
+ And
+
+
+she's
+ like, "I
+ don't
+ know
+ what
+ an
+ MCU
+
+
+is."
+ Like,
+ "What
+ is
+ an
+ MCU?"
+ And
+ I'm
+
+
+like, "It's
+ not
+ MCU,
+ it's
+ MCP.
+ God
+ damn
+
+
+it."
+ Um,
+ so
+ I
+ recorded
+ so
+ I
+ recorded
+ a
+
+
+demo
+ of
+ me
+ using
+ it.
+ And
+ um,
+ this
+ isn't
+
+
+the
+ exact
+ one,
+ but
+ this
+ is
+ something
+
+
+very
+ similar,
+ which
+ was
+ um,
+ I
+ so
+ I
+ have
+
+
+a
+ the
+ my
+ own
+ MCP
+ server
+ that
+ I
+ hooked
+ up
+
+
+and
+ I
+ was
+ I
+ was
+ just
+ using
+ the
+ public
+
+
+APIs,
+ right?
+ So
+ like
+ I
+ have
+ test
+
+
+accounts
+ for
+ Pendo.
+ I
+ didn't
+ have
+ any
+
+
+special
+ access.
+ I
+ don't
+ have
+ a
+ dev
+
+
+platform.
+ I
+ was
+ just
+ able
+ to
+ like
+ do
+
+
+this
+ on
+ top
+ of
+ the
+ APIs.
+ Actually,
+ any
+
+
+customer
+ could
+ do
+ this.
+ Um,
+ and
+ so
+ I
+ had
+
+
+this
+ MTP
+ server
+ that
+ can
+ do
+ things
+ like
+
+
+just
+ grab
+ really
+ basic
+ stuff
+ like
+ how
+
+
+many
+ pages
+ uh
+ which
+ pages
+ are
+ the
+ top
+
+
+pages,
+ how
+ often
+ they
+ accessed,
+ you
+
+
+know,
+ what
+ are
+ things,
+ you
+ know,
+ what
+
+
+what
+ does
+ this
+ this
+ visitor
+ do
+ and
+ that
+
+
+visitor
+ do?
+ Um,
+ so
+ I
+ was
+ like,
+ can
+ you
+
+
+create
+ a
+ beautiful
+ dashboard
+ that
+ shows
+
+
+me
+ which
+ pages,
+ features,
+ and
+ guides
+
+
+were
+ the
+ most
+ used
+ over
+ the
+ last
+ 30
+
+
+days?
+ And
+ I
+ think
+ the
+ key
+ thing
+ was
+ that
+
+
+I'm
+ combining
+ accessing
+ the
+ data
+ and
+ uh
+
+
+having
+ it
+ create
+ a
+ dashboard.
+ Uh
+ so
+ I
+
+
+won't
+ kind
+ of
+ go
+ through
+ all
+ the
+ things
+
+
+I
+ did
+ made
+ a
+ bunch
+ of
+ tool
+ calls.
+ That's
+
+
+not
+ really
+ important.
+ But
+ the
+ important
+
+
+thing
+ was
+ at
+ the
+ end
+ I
+ had
+ it
+ put
+ the
+
+
+data
+ into
+ this
+ uh
+ artifact.
+ I'm
+ I'm
+
+
+sitting
+ here
+ in
+ clawude
+ and
+ it's
+ not
+ I
+
+
+mean
+ I
+ wouldn't
+ ship
+ this
+ but
+ just
+
+
+visualizing
+ the
+ connection
+ between
+
+
+taking
+ [clears throat]
+ Pendo
+ data
+ which
+
+
+now
+ you
+ know
+ only
+ exists
+ within
+ Pendo
+ or
+
+
+you
+ can
+ also
+ export
+ it
+ and
+ there's
+ other
+
+
+ways
+ of
+ getting
+ access
+ to
+ it
+ but
+ making
+
+
+it
+ accessible
+ on
+ the
+ level
+ where
+ someone
+
+
+could
+ just
+ type
+ in
+ a
+ thing
+ like
+ tell
+ me
+
+
+who
+ what
+ the
+ top
+ pages
+ are
+ and
+ then
+ show
+
+
+me
+ a
+ dashboard
+ really
+ like
+ changed
+
+
+people's
+ minds
+ and
+ with
+ over
+ the
+ next
+
+
+like
+ couple
+ months
+ like
+ I'm
+ now
+ chatting
+
+
+with
+ the
+ CTO.
+ The
+ CTO
+ is
+ creating
+
+
+another
+ versions
+ MCP
+ um
+ and
+ you
+ know
+
+
+he's
+ so
+ he's
+ create
+ like
+ we're
+ we're
+
+
+iterating
+ creating
+ uh
+ starting
+ to
+ like
+
+
+productional
+ productionize
+ um
+ some
+ of
+
+
+these
+ elements.
+ I
+ mean
+ what
+ I've
+ done
+
+
+here
+ like
+ they
+ just
+ they
+ kind
+ of
+ moved
+
+
+on
+ the
+ it
+ wasn't
+ the
+ code
+ that
+ I
+ wrote
+
+
+or
+ vibe
+ coded
+ was
+ not
+ important.
+ What
+
+
+was
+ what
+ was
+ important
+ was
+ like
+ I
+ was
+
+
+able
+ to
+ demonstrate
+ the
+ value
+ of
+ this
+
+
+somewhat
+ you
+ know
+ hard
+ opaque
+ technology
+
+
+um
+ to
+ folks
+ that
+ like
+ didn't
+ maybe
+
+
+didn't
+ see
+ it
+ in
+ the
+ same
+ way
+ and
+ that
+
+
+has
+ now
+ actually
+ that
+ has
+ like
+
+
+significantly
+ impacted
+ our
+ road
+ map.
+ So
+
+
+like
+ we're
+ working
+ on
+ a
+ lot
+ of
+ agents
+
+
+within
+ Pendo
+ um
+ that
+ are
+ leveraging
+ sort
+
+
+of
+ the
+ MCP
+ but
+ you
+ know
+ behind
+ the
+
+
+scenes
+ and
+ um
+ there's
+ other
+ things
+ that
+
+
+we're
+ planning
+ to
+ do
+ with
+ MCP
+ and
+ we
+
+
+might
+ have
+ gotten
+ there
+ anyway.
+ Um
+ but
+
+
+that
+ uh
+ that
+ uh
+ definitely
+ sort
+ of
+
+
+accelerated
+ our
+ timeline
+ for
+ that.
+
+
+Well,
+ congratulations
+ uh
+ for
+ for
+
+
+cracking
+ through
+ that.
+ And
+ I
+ think
+ what
+
+
+you
+ said
+ is
+ exactly
+ right,
+ which
+ is
+ like
+
+
+the
+ code
+ that
+ you
+ wrote
+ is
+ not
+
+
+important.
+ Like
+ people
+ get
+ so
+ wrapped
+
+
+around
+ the
+ axle
+ on
+ the
+ quality
+ of
+ like
+
+
+quote
+ unquote
+ vibecoded
+ stuff.
+ Not
+ the
+
+
+issue.
+ The
+ issue
+ is
+ until
+ you
+ can
+
+
+internally
+ display
+ value,
+
+
+it
+ is
+ really
+ hard
+ to
+ get
+ anything
+ done
+
+
+in
+ a
+ product
+ organization.
+ And
+ sometimes
+
+
+you
+ can
+ internally
+ display
+ value
+ by
+
+
+saying
+ a
+ customer
+ wants
+ this.
+ Like
+ very
+
+
+easy
+ sales
+ comes.
+ I
+ got
+ like
+ a
+ top
+
+
+quarter
+ making
+ deal.
+ Customer
+ wants
+
+
+that.
+ Okay.
+ Like
+ we
+ love
+ it.
+ But
+
+
+something
+ that's
+ a
+ little
+ bit
+ more
+
+
+nebulous,
+ something
+ that
+ has
+ a
+ little
+
+
+bit
+ more
+ of
+ an
+ intangible
+ value.
+ Like
+ I
+
+
+think
+ we
+ could
+ use
+ this
+ new
+ technology
+
+
+or
+ this
+ new
+ framework
+ MCPS
+ to
+ give
+ our
+
+
+customers
+ a
+ better
+ experience
+ of
+ our
+
+
+product.
+ Like
+ it
+ just
+ doesn't
+ click
+
+
+until
+ you
+ can
+ touch
+ it.
+ And
+ so
+ the
+ more
+
+
+you
+ can
+ use
+ these
+ tools
+ to
+ let
+ your
+
+
+peers
+ sort
+ of
+ like
+ touch
+ your
+ ideas,
+ I
+
+
+think
+ the
+ more
+ as
+ you
+ said
+ you
+ can
+ like
+
+
+impact
+ the
+ road
+ map
+ which
+ is
+ what
+ I
+ hear
+
+
+all
+ the
+ time
+ from
+ designers,
+ engineers,
+
+
+product
+ managers
+ like
+ I'm
+ tired
+ of
+ the
+
+
+road
+ map
+ being
+ given
+ to
+ me.
+ How
+ do
+ I
+
+
+like
+ impact
+ it?
+ And
+ this
+ tool
+ these
+
+
+these
+ tools
+ are
+ definitely
+ a
+ way
+ way
+ of
+
+
+doing
+ that.
+
+
+>> Yeah.
+ And
+ I
+ would
+ say
+ one
+ just
+ one
+ tip
+
+
+around
+ this
+ which
+ I
+ think
+ is
+ really
+
+
+important
+ to
+ emphasize
+ is
+ that
+ you
+ know
+
+
+you
+ might
+ sit
+ sort
+ of
+ like
+ you
+ know
+ you
+
+
+might
+ be
+ designer
+ or
+ PM
+ um
+ I
+ think
+ it's
+
+
+really
+ important
+ for
+ everyone
+ to
+
+
+understand
+ how
+ this
+ technology
+ works
+
+
+like
+ I
+ think
+ you
+ got
+ to
+ get
+ a
+ little
+
+
+more
+ technical
+ you
+ got
+ to
+ understand
+ how
+
+
+LLMs
+ are
+ working
+ you
+ have
+ to
+ understand
+
+
+what
+ like
+ what
+ an
+ agent
+ is
+ you
+ don't
+
+
+have
+ to
+ be
+ able
+ to
+ code
+ these
+ things
+ you
+
+
+don't
+ have
+ to
+ be
+ an
+ ML
+ engineer
+ but
+ um
+
+
+if
+ you
+ are
+ a
+ creative
+ person
+ or
+ someone
+
+
+who
+ is
+ sort
+ of
+ in
+ the
+ solution
+ space
+ and
+
+
+uh
+ is
+ trying
+ to
+ think
+ about
+ like
+ what
+
+
+like
+ what
+ are
+ the
+ different
+ ways
+ that
+ I
+
+
+can
+ apply
+ AI
+ to
+ this
+ this
+ problem.
+ You
+
+
+won't
+ arrive
+ at
+ anything
+ really
+
+
+interesting
+ unless
+ you
+ understand
+ the
+
+
+underlying
+ technology.
+ It's
+ like
+ an
+
+
+architect.
+ Like
+ architects,
+ yeah,
+ they
+
+
+they
+ design
+ like
+ pretty
+ buildings,
+ but
+
+
+they
+ also
+ understand
+ how
+ plumbing
+ works
+
+
+and
+ electric
+ and
+ the
+ electronics
+ work,
+
+
+right?
+ Like
+ they're
+ they're
+ not
+ like
+ the
+
+
+electricians
+ and
+ the
+ plumbers,
+ right?
+
+
+But
+ like
+ in
+ order
+ to
+ build
+ a
+ functional
+
+
+building
+ that
+ stands
+ up
+ and
+ and
+ is
+
+
+functional,
+ right?
+ like
+ you
+ got
+ to
+ have
+
+
+power
+ sockets,
+ you
+ got
+ to
+ have
+ room
+ for
+
+
+the
+ pipes,
+ like
+ all
+ that
+ stuff
+ is
+
+
+important.
+ I
+ think
+ the
+ same
+ thing
+
+
+applies
+ to
+ PMs
+ and
+ designers.
+ And
+ I
+
+
+think
+ if
+ you're
+ an
+ engineer,
+ I
+ think
+
+
+it's
+ also
+ useful
+ to
+ understand
+ like
+ the
+
+
+business
+ side,
+ the
+ customer
+ side,
+ the
+
+
+you
+ know,
+ like
+ to
+ really
+ empathize
+ with
+
+
+the
+ the
+ issue,
+ the
+ the
+ problems
+ that
+
+
+your
+ customers
+ have
+ so
+ that
+ it,
+ you
+
+
+know,
+ like
+ what
+ we're
+ all
+ looking
+ for
+ is
+
+
+basically
+ how
+ do
+ you
+ sort
+ of
+ connect
+ the
+
+
+dots
+ between
+ the
+ technologies
+ that
+ we
+
+
+have
+ available
+ to
+ us
+ to
+ solve
+ customer
+
+
+problems.
+ H
+ I
+ couldn't
+ hype
+ you
+ up
+ more
+
+
+because
+ I
+ have
+ been
+ screaming
+ from
+ the
+
+
+rooftops.
+ This
+ is
+ the
+ era
+ of
+ the
+ hard
+
+
+skill.
+ Like
+ you
+ need
+ the
+ hard
+ skills
+ to
+
+
+take
+ advantage
+ of
+ this
+ stuff.
+ I
+ I
+ didn't
+
+
+call
+ it
+ out
+ earlier,
+ but
+ I
+ saw
+ one
+ of
+
+
+your
+ sessions
+ was
+ like
+ intro
+ to
+ HTML
+ and
+
+
+CSS.
+ Like
+ that
+ is
+ actually
+ going
+ to
+ be
+
+
+the
+ unlock
+ for
+ your
+ designers
+ because
+ if
+
+
+you
+ can
+ read
+ CSS,
+ a
+ whole
+ world
+ has
+
+
+opened
+ up
+ to
+ you
+ with
+ these
+ vibe
+ coding
+
+
+tools.
+ And
+ so
+ yes,
+ you
+ need
+ to
+ know
+ how
+
+
+the
+ stuff
+ actually
+ actually
+ works.
+ Okay,
+
+
+so
+ Brian,
+ last
+ question.
+ This
+ has
+ been
+
+
+so
+ great,
+ but
+ got
+ to
+ have
+ your
+ your
+
+
+strategy
+ here.
+ When
+ AI
+ is
+ not
+ listening,
+
+
+when
+ that
+ NCP
+ is
+ not
+ being
+ vibe
+ coded
+
+
+correctly
+ by
+ cursor,
+ what
+ is
+ your
+ go-to
+
+
+tactic?
+ How
+ do
+ you
+ get
+ it
+ unblocked?
+ Do
+
+
+you
+ yell?
+
+
+>> Uh,
+ you
+ know,
+ I
+ I
+ I
+ don't
+ want
+ to
+ say
+
+
+that
+ I
+ don't
+ yell,
+ but
+ I
+ do
+ yell
+
+
+sometimes.
+
+
+>> [laughter]
+
+
+>> The
+ the
+ other
+ thing
+ that
+ I
+ do
+ too,
+ which
+
+
+I
+ think
+ is
+ also
+ really
+ helpful,
+ is
+ I
+
+
+say,
+ "Okay,
+ you're
+ not
+ you're
+ not
+ quite
+
+
+getting
+ it."
+ Like
+ think
+ think
+ about
+ a
+
+
+different
+ way
+ of
+ approaching
+ this,
+
+
+right?
+ Like
+ I
+ I'm
+ trying
+ to
+ nudge
+ it
+ to
+
+
+like
+ it
+ maybe
+ it's
+ sort
+ of
+ like
+ locked
+
+
+into
+ a
+ certain
+ sort
+ of
+
+
+>> uh
+ groove
+ and
+ I'm
+ trying
+ to
+ to
+ make
+ it
+
+
+think
+ a
+ little
+ more
+ broadly.
+ I
+ I
+ don't
+
+
+know if
+ that
+ actually
+ helps,
+ but
+ I've
+
+
+found
+ that
+ like
+ sometimes
+ that's
+ useful.
+
+
+So
+ like
+
+
+>> if
+ I'm
+ not
+ yelling,
+ it's
+ just
+ like,
+
+
+"Okay,
+ you
+ tried
+ this
+ a
+ million
+ times.
+
+
+Think
+ about
+ five
+ other
+ different
+ ways
+
+
+that
+ you
+ can
+ solve
+ this
+ problem."
+ and
+
+
+and
+ and
+ go
+ for
+ it.
+
+
+>> Yeah,
+ I
+ think
+ that's
+ probably
+ more
+
+
+effective
+ than
+ my
+ no
+
+
+that
+ I
+ do
+ when
+ it's
+ not
+ working.
+ Well,
+
+
+Ryan,
+ this
+ has
+ been
+ awesome.
+ Where
+ can
+
+
+we
+ find
+ you
+ and
+ how
+ can
+ we
+ be
+ helpful?
+
+
+>> Yeah,
+ so
+ you
+ can
+ find
+ me
+ on
+ on
+ LinkedIn.
+
+
+Um
+ I
+ try
+ to
+ post
+ when
+ I
+ can
+ and
+ um
+ yeah,
+
+
+I
+ mean,
+ if
+ you're
+ if
+ you're
+ a
+ product
+
+
+builder
+ or
+ um
+ you
+ know,
+ you're
+
+
+interested
+ in
+ working
+ for
+ a
+ a
+ company
+
+
+that
+ is
+ sort
+ of
+ embracing
+ AI,
+ you
+ should
+
+
+check
+ out
+ Pendo.
+
+
+>> Awesome.
+ And
+ thanks
+ so
+ much.
+
+
+Thanks
+ so
+ much
+ for
+ [music]
+ watching.
+ If
+
+
+you
+ enjoyed
+ this
+ show,
+ please
+ like
+ and
+
+
+subscribe
+ here
+ on
+ YouTube
+ or
+ even
+
+
+better,
+ leave
+ us
+ a
+ comment
+ with
+ your
+
+
+thoughts.
+ You
+ can
+ also
+ find
+ this
+ podcast
+
+
+on
+ Apple
+ Podcasts,
+ Spotify,
+ or
+ your
+
+
+favorite
+ podcast
+ app.
+ Please
+ consider
+
+
+leaving
+ us
+ a
+ rating
+ and
+ review,
+ which
+
+
+will
+ help
+ others
+ find
+ the
+ show.
+ [music]
+
+
+You
+ can
+ see
+ all
+ our
+ episodes
+ and
+ learn
+
+
+more
+ about
+ the
+ show
+ at
+ howiaipod.com.
+
+
+See
+ you
+ next
+ time.
