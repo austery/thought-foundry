@@ -1,0 +1,6024 @@
+[Music]
+
+
+[Music]
+
+
+So
+ at
+ Raplet,
+ we're
+ building
+ a
+ coding
+
+
+agent
+ for
+ nontechnical
+ users.
+ It's
+ a
+
+
+very
+ peculiar
+ challenge
+ I
+ would
+ say
+
+
+compared
+ to
+ many
+ people
+ in
+ this
+ room.
+
+
+And
+ what
+ I'm
+ going
+ to
+ talk
+ about
+ today
+
+
+is
+ why
+ autonomy
+ has
+ become
+ kind
+ of
+ the
+
+
+northstar
+ that
+ we
+ keep
+ chasing
+ you
+ know
+
+
+since
+ we
+ launched
+ the
+ very
+ first
+ version
+
+
+of
+ rapid
+ agent
+ September
+ last
+ year.
+
+
+Let's
+ start
+ from
+ this
+ very
+ interesting
+
+
+plot
+ in
+ case
+ my
+ clicker
+ worked
+ which
+ now
+
+
+does.
+ Um
+ I'm
+ sure
+ you
+ all
+ have
+ seen
+ it
+
+
+the
+ semiync
+ value
+ that
+ published
+ by
+ Zixs
+
+
+a
+ few
+ weeks
+ ago
+ and
+ it
+ kind
+ of
+ clarified
+
+
+a
+ bit
+ the
+ landscape
+ you
+ know
+ for
+ all
+ of
+
+
+us
+ uh
+ agent
+ builders.
+ On
+ one
+ hand,
+ you
+
+
+have
+ the
+ low
+ latency
+ interactions
+ that
+
+
+really
+ allow
+ you
+ to
+ stay
+ in
+ the
+ loop,
+
+
+you
+ know,
+ so
+ you
+ can
+ do
+ deep
+ work
+ and
+
+
+focus
+ really
+ on
+ the
+ on
+ the
+ coding
+ task
+
+
+at
+ hand,
+ but
+ you
+ need
+ to
+ be
+ an
+ expert.
+
+
+You
+ need
+ to
+ know
+ exactly
+ what
+ to
+ the
+
+
+model
+ for
+ and
+ you
+ need
+ to
+ understand
+
+
+quickly
+ if
+ you
+ want
+ to
+ accept
+ the
+
+
+changes
+ or
+ not.
+ Then
+ for
+ several
+ months
+
+
+many
+ of
+ us
+ including
+ replet
+ we
+ kind
+ of
+
+
+lived
+ in
+ this
+ I
+ think
+ value
+ that
+ where
+
+
+the
+ agent
+ wasn't
+ autonomous
+ enough
+ to
+
+
+really
+ delegate
+ a
+ task
+ and
+ come
+ back
+ and
+
+
+see
+ it
+ accomplished
+ but
+ at
+ the
+ same
+ time
+
+
+it
+ run
+ long
+ enough
+ not
+ to
+ keep
+ in
+ the
+
+
+zone
+ not
+ to
+ keep
+ in
+ the
+ loop
+ likely
+ over
+
+
+time
+ we
+ managed
+ to
+ go
+ all
+ the
+ way
+ on
+ the
+
+
+right
+ and
+ now
+ we
+ have
+ agents
+ that
+ runs
+
+
+for
+ several
+ hours
+ in
+ a
+ row.
+ What
+ I'm
+
+
+going
+ to
+ be
+ arguing
+ with
+ today
+ and
+ hopes
+
+
+is
+ not
+ going
+ to
+ stop
+ inviting
+ me
+ to
+ this
+
+
+event
+ is
+ the
+ fact
+ that
+ there
+ is
+ an
+
+
+additional
+ dimension
+ like
+ a
+ third
+
+
+dimension
+ to
+ this
+ plot
+ that
+ you
+ know
+ it
+
+
+hasn't
+ been
+ covered
+ here
+ and
+ namely
+ the
+
+
+fact
+ is
+ how
+ do
+ we
+ build
+ autonomous
+
+
+agents
+ for
+ nontechnical
+ users.
+
+
+So
+ what
+ I'm
+ going
+ to
+ be
+ arguing
+ today
+ is
+
+
+that
+ there
+ are
+ two
+ types
+ of
+ autonomy.
+
+
+One
+ of
+ it
+ is
+ more
+ supervised.
+ So
+ think
+
+
+of
+ the
+ you
+ know
+ Tesla
+ FSD
+ example.
+ When
+
+
+you
+ sit
+ in
+ a
+ Tesla,
+ you're
+ still
+
+
+expected
+ to
+ have
+ a
+ driving
+ license.
+
+
+You're
+ going
+ to
+ be
+ sitting
+ in
+ front
+ of
+
+
+the
+ steering
+ wheel.
+ Perhaps
+ 99%
+ of
+ the
+
+
+time,
+ you're
+ not
+ going
+ to
+ use
+ it,
+ but
+
+
+you're
+ there
+ in
+ order
+ to
+ take
+ care
+ of
+
+
+the
+ longtail
+ events.
+ And
+ similarly,
+ a
+
+
+lot
+ of
+ the
+ coding
+ agents
+ that
+ we
+ have
+
+
+today
+ require
+ you
+ to
+ be
+ technically
+
+
+savvy
+ in
+ order
+ to
+ use
+ them
+ correctly.
+
+
+We
+ at
+ Replet
+ and
+ uh
+ other
+ companies
+ at
+
+
+this
+ point
+ are
+ focusing
+ on
+ kind
+ of
+ the
+
+
+whimo
+ experience
+ for
+ autonomous
+ coding
+
+
+agents.
+ So
+ you're
+ expected
+ to
+ sit
+ in
+ the
+
+
+back.
+ You
+ don't
+ even
+ have
+ access
+ to
+ the
+
+
+steering
+ wheel.
+ And
+ I
+ expect
+ you
+
+
+basically
+ not
+ to
+ need
+ any
+ driving
+
+
+license.
+ Uh
+ why
+ is
+ this
+ important?
+
+
+Because
+ we
+ want
+ to
+ empower
+ every
+
+
+knowledge
+ worker
+ to
+ create
+ software.
+ And
+
+
+I
+ can't
+ expect
+ knowledge
+ workers
+ to
+ know
+
+
+what
+ kind
+ of
+ technical
+ decisions
+ an
+
+
+agent
+ should
+ be
+ making.
+ We
+ should
+
+
+offload
+ completely
+ the
+ level
+ of
+
+
+complexity
+ away
+ from
+ them.
+
+
+Of
+ course,
+ it
+ took
+ a
+ while
+ to
+ get
+ here.
+
+
+So
+ I'm
+ I'm
+ sure
+ what
+ I'm
+ showing
+ you
+
+
+here
+ is
+ something
+ that
+ all
+ of
+ you
+ are
+
+
+very
+ familiar
+ with.
+ It
+ took
+ several
+
+
+years
+ to
+ go
+ from
+ I
+ know
+ maybe
+ less
+ than
+
+
+a
+ minute
+ feedback
+ loop
+ constant
+
+
+supervision
+ and
+ talking
+ about
+
+
+completions
+ and
+ talking
+ about
+
+
+assistance.
+ These
+ are
+ areas
+ where
+ the
+ AI
+
+
+power
+ is
+ and
+ really
+ been
+ pioneering
+ this
+
+
+this
+ type
+ of
+ user
+ interaction.
+ Then
+ we
+
+
+slowly
+ climbed
+ through
+ you
+ know
+ higher
+
+
+levels
+ of
+ autonomy.
+ So
+ we
+ had
+ the
+ first
+
+
+version
+ of
+ the
+ agents
+ based
+ on
+ on
+ react.
+
+
+So
+ we
+ concocted
+ autonomy
+ with
+ a
+ very
+
+
+simple
+ paradigm
+ on
+ top
+ of
+ LMS.
+ Then
+
+
+likely
+ AI
+ providers
+ understood
+ that
+ tool
+
+
+calling
+ was
+ extremely
+ important
+ poured
+ a
+
+
+lot
+ of
+ effort
+ on
+ that.
+ So
+ we
+ built
+ the
+
+
+next
+ version
+ of
+ agents
+ with
+ native
+ tool
+
+
+calling.
+ And
+ then
+ I
+ would
+ say
+ there
+ is
+ a
+
+
+third
+ generation
+ of
+ agents
+ which
+ I
+ call
+
+
+autonomous
+ and
+ that's
+ when
+ we
+ started
+ to
+
+
+break
+ the
+ barrier
+ of
+ say
+ one
+ hour
+ of
+
+
+autonomy.
+ Basically
+ the
+ the
+ agent
+ being
+
+
+capable
+ of
+ running
+ on
+ long
+ horizon
+ tasks
+
+
+and
+ remaining
+ coherent.
+ It
+ happens
+ to
+ be
+
+
+the
+ case
+ that
+ those
+ are
+ also
+ the
+
+
+versions
+ of
+ rapid
+ agent
+ that
+ we
+ launched
+
+
+for
+ the
+ last
+ year.
+ So
+ the
+ B3
+ is
+ the
+ one
+
+
+that
+ we
+ launched
+ a
+ couple
+ of
+ months
+ ago
+
+
+and
+ it
+ has
+ exactly
+ showcases
+ those
+
+
+properties.
+ So
+ the
+ question
+ for
+ today
+ is
+
+
+can
+ we
+ actually
+ build
+ fully
+ autonomous
+
+
+agents
+ and
+ how
+ do
+ we
+ get
+ there?
+
+
+So
+ I'm
+ going
+ to
+ try
+ to
+ redefine
+ the
+
+
+definition
+ of
+ autonomy
+ today.
+ I
+ think
+
+
+that
+ often
+ times
+ we
+ conflate
+ autonomy
+
+
+with
+ a
+ concept
+ of
+ something
+ in
+ the
+ lungs
+
+
+for
+ a
+ for
+ a
+ lot
+ of
+ time
+ and
+ usually
+ as
+ a
+
+
+user
+ you
+ lose
+ control.
+ In
+ reality
+ what
+
+
+the
+ autonomy
+ that
+ I
+ want
+ to
+ give
+ to
+
+
+agents
+ can
+ be
+ very
+ specifically
+ scoped
+
+
+and
+ what
+ I
+ mean
+ by
+ that
+ is
+ especially
+
+
+with
+ rapid
+ agent
+ 3
+ what
+ we
+ accomplish
+ is
+
+
+we
+ we
+ make
+ sure
+ that
+ our
+ agent
+ takes
+
+
+holy
+ technical
+ decisions.
+ Of
+ course,
+
+
+that
+ could
+ lead
+ to
+ very
+ long
+ gap
+ between
+
+
+the
+ different
+ user
+ interactions
+ and
+ in
+
+
+case
+ the
+ agent
+ again
+ runs
+ for
+ several
+
+
+hours.
+ But
+ this
+ happens
+ if
+ and
+ only
+ if
+
+
+the
+ scope
+ of
+ the
+ task
+ you're
+ giving
+ to
+
+
+the
+ agent
+ is
+ really
+ broad.
+ And
+ it
+ turns
+
+
+out
+ that
+ in
+ reality
+ you
+ can
+ have
+ an
+
+
+agent
+ that
+ is
+ really
+ autonomous
+ and
+ is
+
+
+still
+ fast
+ as
+ long
+ as
+ you
+ give
+ it
+ a
+ very
+
+
+narrow
+ scope
+ for
+ the
+ task,
+ you
+ know,
+ at
+
+
+hand.
+ So
+ what
+ we
+ can
+ accomplish
+ in
+ this
+
+
+way
+ is
+ that
+ the
+ user
+ still
+ maintains
+
+
+control
+ on
+ the
+ aspects
+ that
+ they
+ care
+
+
+about
+ and
+ a
+ user
+ cares
+ about
+ what
+
+
+they're
+ building.
+ Especially
+ again
+ our
+
+
+users,
+ knowledge
+ workers,
+ they
+ don't
+
+
+care
+ about
+ how
+ something
+ has
+ been
+ built.
+
+
+They
+ just
+ want
+ to
+ see
+ their
+ goals
+ to
+ be
+
+
+accomplished.
+ So
+ autonomy
+ should
+ not
+ be
+
+
+basically
+ conflated
+ with
+ long
+ run
+ times.
+
+
+And
+ similarly,
+ it
+ shouldn't
+ become
+ a
+
+
+vanity
+ metric.
+ You
+ know,
+ a
+ lot
+ of
+ us
+ are
+
+
+talking
+ about
+ it
+ as
+ a
+ as
+ a
+ badge
+ of
+
+
+honor.
+ And
+ it's
+ definitely
+ been
+ exciting
+
+
+to
+ see
+ in
+ the
+ last
+ few
+ months
+ that
+ you
+
+
+know
+ many
+ of
+ us
+ broke
+ the
+ the
+ barrier
+ of
+
+
+running
+ several
+ hours
+ in
+ a
+ row.
+ But
+ I
+
+
+think
+ in
+ terms
+ of
+ how
+ to
+ build
+ agents
+
+
+that
+ are
+ going
+ to
+ be
+ more
+ powerful
+ and
+
+
+more
+ steable
+ in
+ the
+ future,
+ we
+ kind
+ of
+
+
+have
+ to
+ change
+ a
+ bit
+ uh
+ the
+ the
+ target
+
+
+the
+ metric
+ that
+ we
+ that
+ we
+ keep
+ in
+ mind.
+
+
+So
+ think
+ about
+ it
+ in
+ this
+ way.
+ Tasks
+
+
+have
+ a
+ natural
+ level
+ of
+ complexity.
+ And
+
+
+basically
+ what
+ we
+ care
+ about
+ is
+ that
+
+
+they
+ have
+ a
+ minimum
+ irreducible
+ amount
+
+
+of
+ work
+ that
+ they
+ express.
+ What
+ agents
+
+
+do
+ is
+ that
+ they
+ always
+ go
+ through
+ this
+
+
+loop
+ of
+ planning,
+ implementing
+ and
+
+
+testing.
+ And
+ of
+ course
+ to
+ make
+ this
+
+
+happen
+ and
+ to
+ make
+ it
+ work
+ correctly,
+
+
+you
+ want
+ this
+ work
+ to
+ be
+ happening
+ over
+
+
+a
+ long
+ quering
+ trajectory.
+ So
+ our
+ goal
+
+
+is
+ to
+ maximize
+ the
+ reducible
+ runtime
+ of
+
+
+the
+ agent.
+ By
+ reducible,
+ I
+ mean
+ having
+ a
+
+
+span
+ of
+ time
+ where
+ the
+ user
+ doesn't
+ have
+
+
+to
+ make
+ any
+ technical
+ decisions
+ and
+ the
+
+
+agent
+ can
+ accomplish
+ the
+ task
+ again
+ in
+
+
+full
+ autonomy.
+ This
+ is
+ especially
+
+
+important
+ for
+ us
+ because
+ I
+ can't
+ trust
+
+
+our
+ users
+ to
+ make
+ technical
+ decisions.
+
+
+So
+ they
+ they
+ need
+ a
+ proper
+ technical
+
+
+collaborator
+ by
+ their
+ side.
+ I
+ want
+ to
+
+
+abstract
+ away
+ as
+ much
+ complexity
+ as
+
+
+possible
+ from
+ the
+ process
+ of
+ software
+
+
+creation.
+ And
+ last
+ but
+ not
+ least,
+ I
+ want
+
+
+the
+ users
+ to
+ feel
+ in
+ control
+ of
+ what
+
+
+they're
+ creating
+ without
+ startling
+ their
+
+
+creativity
+ because
+ they
+ have
+ also
+ to
+
+
+think
+ about
+ the
+ technical
+ decision
+ that
+
+
+the
+ agent
+ is
+ making.
+
+
+So
+ now
+ what
+ are
+ the
+ pillars
+ of
+ autonomy?
+
+
+How
+ are
+ we
+ making
+ this
+ happen?
+ I
+ would
+
+
+say
+ there
+ are
+ three
+ pillars
+ that
+ are
+
+
+extremely
+ important
+ to
+ think
+ about.
+ The
+
+
+first
+ one
+ is
+ of
+ course
+ the
+ capabilities
+
+
+of
+ frontier
+ models
+ like
+ the
+ baseline
+ IQ
+
+
+that
+ we
+ inject
+ in
+ the
+ main
+ agentic
+ loop.
+
+
+I'm
+ going
+ to
+ leave
+ this
+ as
+ an
+ exercise
+
+
+to
+ the
+ reader
+ and
+ to
+ other
+ people
+ in
+ the
+
+
+room.
+ I'm
+ really
+ glad
+ a
+ lot
+ of
+ you
+ are
+
+
+building
+ amazing
+ models
+ that
+ you
+ know
+ we
+
+
+use
+ all
+ the
+ time
+ at
+ Rapid.
+ So
+ this
+ is
+
+
+the
+ pillar
+ number
+ one.
+ The
+ second
+ pillar
+
+
+is
+ verification.
+ It's
+ very
+ important
+
+
+that
+ we
+ test
+ for
+ local
+ correctness
+ of
+
+
+our
+ agent
+ at
+ every
+ step
+ that
+ it
+ takes
+
+
+and
+ the
+ reason
+ is
+ fairly
+ intuitive.
+ If
+
+
+you
+ are
+ building
+ on
+ very
+ shaky
+
+
+foundations,
+ eventually
+ the
+ castle
+ will
+
+
+topple
+ down.
+ So
+ we
+ brought
+ verification
+
+
+in
+ the
+ loop
+ to
+ make
+ sure
+ that
+ in
+ a
+ sense
+
+
+you
+ are
+ having
+ you
+ know
+ nines
+ of
+
+
+reliability
+ where
+ in
+ the
+ compounding
+
+
+errors
+ than
+ an
+ agent
+ will
+ make
+
+
+unavabodably
+ if
+ you
+ know
+ you
+ don't
+ put
+
+
+any
+ control
+ on
+ it.
+ And
+ last
+ but
+ not
+
+
+least,
+ you
+ heard
+ it
+ on
+ stage
+ even
+
+
+earlier.
+ I'm
+ sure
+ you're
+ going
+ to
+ be
+
+
+hearing
+ this,
+ you
+ know,
+ the
+ entire
+ day
+
+
+or
+ the
+ entire
+ duration
+ of
+ the
+
+
+conference.
+ Uh
+ the
+ importance
+ of
+ context
+
+
+management.
+ So
+ on
+ one
+ end
+ you
+ want
+ to
+
+
+have
+ an
+ agent
+ that
+ is
+ capable
+ of
+ being
+
+
+globally
+ coherent.
+ So
+ it's
+ aligned
+ with
+
+
+the
+ intent
+ of
+ the
+ user,
+ the
+ expectation
+
+
+of
+ the
+ user.
+ But
+ at
+ the
+ same
+ time,
+ it
+ is
+
+
+also
+ to
+ be
+ capable
+ of
+ managing
+ both
+ the
+
+
+high
+ level
+ goal
+ and
+ the
+ single
+ task
+ that
+
+
+the
+ agent
+ is
+ working
+ on.
+ I
+ think
+ we
+ made
+
+
+amazing
+ progress
+ in
+ the
+ last
+ months
+ on
+
+
+context
+ management.
+ But
+ I'm
+ also
+ excited
+
+
+to
+ see,
+ you
+ know,
+ where
+ we're
+ going
+ as
+ a
+
+
+field.
+
+
+Let's
+ start
+ from
+ the
+ first
+ pillar
+ that
+
+
+we
+ work
+ actively
+ at
+ rapid
+ which
+ is
+
+
+verification.
+
+
+So
+ why
+ do
+ we
+ focus
+ on
+ this?
+ Over
+ the
+ you
+
+
+know
+ last
+ year
+ we
+ realize
+ something
+ that
+
+
+I
+ think
+ each
+ one
+ of
+ you
+ has
+ experienced.
+
+
+So
+ without
+ testing
+ agents
+ build
+ a
+ lot
+ of
+
+
+painted
+ doors.
+ In
+ our
+ case
+ the
+ painted
+
+
+doors
+ are
+ very
+ visible
+ because
+ we
+ create
+
+
+a
+ lot
+ of
+ web
+ applications.
+ So
+ you
+ end
+ up
+
+
+basically
+ trying
+ to
+ click
+ on
+ a
+ button
+
+
+and
+ the
+ handler
+ is
+ not
+ looked
+ up
+ or
+ some
+
+
+of
+ the
+ data
+ that
+ we're
+ showing
+ is
+
+
+actually
+ mock
+ data
+ and
+ it's
+ not
+ coming
+
+
+it's
+ not
+ coming
+ from
+ a
+ database.
+ But
+ in
+
+
+general
+ this
+ phenomenon
+ spans
+ you
+ know
+
+
+across
+ every
+ type
+ of
+ component
+ you're
+
+
+building
+ being
+ it
+ front
+ end
+ or
+ back
+ end
+
+
+a
+ lot
+ of
+ components
+ are
+ actually
+ not
+
+
+fully
+ fleshed
+ uh
+ by
+ the
+ agent.
+ So
+ we
+ run
+
+
+some
+ evaluations
+ internally.
+ We
+ found
+
+
+out
+ that
+ more
+ than
+ 30%
+ of
+ the
+ individual
+
+
+features
+ happen
+ to
+ be
+ broken.
+ Know
+ the
+
+
+first
+ time
+ that
+ are
+ cooked
+ by
+ the
+ agent.
+
+
+And
+ that
+ also
+ means
+ that
+ almost
+ every
+
+
+applications
+ at
+ least
+ one
+ broken
+ feature
+
+
+or
+ painted
+ door.
+ They're
+ hard
+ to
+ find.
+
+
+The
+ reason
+ is
+ users
+ are
+ not
+ going
+ to
+
+
+spend
+ time
+ testing
+ every
+ single
+ button,
+
+
+every
+ single
+ field.
+ And
+ this
+ is
+ also
+
+
+probably
+ one
+ of
+ the
+ reasons
+ why
+ a
+ lot
+ of
+
+
+our
+ users,
+ especially
+ the
+ nontechnical
+
+
+ones,
+ still
+ can't
+ trust
+ coding
+ agents
+
+
+very
+ much.
+ They
+ are
+ shocked
+ when
+ they
+
+
+find
+ that
+ there's
+ a
+ painted
+ door
+ out
+
+
+there.
+ So,
+ how
+ do
+ we
+ solve
+ this
+ problem?
+
+
+Fundamentally,
+ we
+ need
+ an
+ agent
+ must
+
+
+gather
+ all
+ the
+ feedback
+ that
+ they
+ need
+
+
+from
+ their
+ environment,
+ right?
+ It's
+
+
+easier
+ said
+ than
+ done.
+ Um
+ again
+
+
+nontechnical
+ users
+ not
+ only
+ cannot
+ make
+
+
+technical
+ decisions
+ but
+ also
+ they
+ cannot
+
+
+provide
+ the
+ technical
+ feedback
+ that
+ you
+
+
+know
+ an
+ agent
+ is
+ required
+ to
+ make
+
+
+progress
+ and
+ most
+ what
+ they
+ can
+ do
+ is
+
+
+basic
+ you
+ know
+ quality
+ assurance
+ testing
+
+
+they
+ can
+ literally
+ go
+ around
+ the
+ UI
+
+
+click
+ interact
+ with
+ application
+
+
+I'm
+ I'm
+ sure
+ you
+ have
+ tried
+ it
+ in
+ your
+
+
+life
+ this
+ is
+ extremely
+ tedious
+ to
+ do
+ and
+
+
+it
+ leads
+ to
+ a
+ very
+ bad
+ user
+ experience
+
+
+and
+ even
+ though
+ we
+ relied
+ on
+ that
+ with
+
+
+our
+ first
+ release
+ of
+ the
+ agent
+ last
+ year
+
+
+quickly
+ we
+ undo
+ that
+ users
+ don't
+ want
+ to
+
+
+spend
+ time
+ doing
+ testing.
+ So
+ we
+ had
+ to
+
+
+find
+ a
+ complete
+ you
+ know
+ orthogonal
+
+
+solution
+ to
+ that
+ which
+ is
+ autonomous
+
+
+testing
+ and
+ it
+ solves
+ several
+ different
+
+
+issues.
+ The
+ first
+ one
+ is
+ it
+ breaks
+ the
+
+
+feedback
+ bottleneck.
+ Even
+ if
+ again
+ we
+
+
+ask
+ feedback
+ to
+ the
+ user
+ we
+ were
+ not
+
+
+given
+ enough
+ of
+ that.
+ Now
+ we
+ don't
+ have
+
+
+to
+ wait
+ anymore
+ for
+ human
+ feedback.
+ We
+
+
+have
+ a
+ way
+ to
+ elicit
+ as
+ much
+ information
+
+
+as
+ possible
+ from
+ the
+ app
+ autonomously.
+
+
+We
+ also
+ want
+ to
+ prevent
+ the
+ accumulation
+
+
+of
+ small
+ errors.
+ What
+ I
+ was
+ saying
+
+
+before,
+ we
+ don't
+ want
+ to
+ have
+
+
+compounding
+ errors
+ while
+ the
+ agent
+ is
+
+
+building.
+ And
+ last
+ but
+ not
+ least,
+ we
+
+
+have
+ to
+ overcome
+ the
+ laziness
+ of
+
+
+frontier
+ models.
+ So
+ we
+ need
+ to
+ verify
+
+
+that
+ whenever
+ a
+ model
+ tells
+ us
+ that
+ a
+
+
+task
+ has
+ been
+ completed,
+ there
+ is
+
+
+actually
+ the
+ truth
+ and
+ that
+ result
+ is
+
+
+not
+ being
+ elucinated.
+
+
+There
+ is
+ a
+ wide
+ spectrum
+ of
+ code
+
+
+verification
+ that
+ you
+ know
+ you
+ can
+
+
+accomplish.
+ I
+ think
+ we
+ all
+ started
+ from
+
+
+the
+ very
+ left.
+ You
+ know
+ you
+ have
+ basic
+
+
+study
+ code
+ analysis
+ with
+ LSPs.
+ We
+ have
+
+
+been
+ executing
+ the
+ code
+ since
+ we
+ had
+
+
+basically
+ LMS
+ that
+ were
+ capable
+ of
+
+
+debugging
+ and
+ then
+ we
+ slowly
+ started
+ to
+
+
+move
+ towards
+ the
+ right.
+ So
+ generating
+
+
+unit
+ tests
+ and
+ running
+ them
+ it
+ has
+ a
+
+
+limitation.
+ It's
+ limited
+ only
+ to
+
+
+functional
+ correctness.
+ Uh
+ unit
+ testing
+
+
+is
+ not
+ very
+ powerful
+ to
+ do
+ like
+ proper
+
+
+integration
+ testing
+ by
+ definition.
+ We
+
+
+started
+ also
+ to
+ do
+ now
+ API
+ testing
+ but
+
+
+is
+ only
+ limited
+ to
+ API
+ code.
+ So
+ you
+ can
+
+
+test
+ endpoint
+ of
+ an
+ applications.
+ you
+
+
+can't
+ really
+ test
+ how
+ a
+ web
+ app
+
+
+functions
+ and
+ looks
+ like
+ and
+ for
+ this
+
+
+reason
+ in
+ the
+ last
+ few
+ months
+ H
+ has
+ and
+
+
+other
+ companies
+ are
+ putting
+ a
+ lot
+ of
+
+
+effort
+ in
+ really
+ creating
+ autonomous
+
+
+testing
+ based
+ on
+ the
+ browser
+ you
+ know
+ in
+
+
+case
+ the
+ app
+ that
+ we're
+ building
+ is
+ a
+
+
+web
+ application
+ there
+ are
+ two
+ main
+
+
+categories
+ here
+ one
+ is
+ computer
+ use
+ it's
+
+
+a
+ onetoone
+ mapping
+ with
+ user
+ interface
+
+
+so
+ the
+ model
+ is
+ directly
+ interacting
+
+
+with
+ the
+ application
+ it
+ requires
+
+
+screenshots
+ it
+ tends
+ to
+ be
+ fairly
+
+
+expensive
+ and
+ fairly
+ slow
+ I'm
+ sure
+ you
+
+
+you
+ tested
+ it
+ yourself.
+ A
+ good
+ way
+ in
+ in
+
+
+the
+ middle
+ is
+ browser
+ use
+ where
+ we
+
+
+simulate
+ the
+ user
+ interface.
+ You
+ can
+
+
+then
+ interact
+ with
+ the
+ browser
+ and
+ with
+
+
+the
+ web
+ application
+ and
+ it
+ relies
+ on
+
+
+basically
+ accessing
+ the
+ DOM
+ through
+
+
+abstractions.
+
+
+So
+ how
+ do
+ we
+ how
+ do
+ we
+ make
+ this
+ work?
+
+
+Um
+ what
+ we
+ do
+ is
+ that
+ we
+ generate
+
+
+applications
+ that
+ are
+ amenable
+ to
+
+
+testing
+ and
+ we
+ sort
+ of
+ merge
+ everything
+
+
+together
+ from
+ the
+ previous
+ slides
+ that
+ I
+
+
+showed
+ you.
+ So
+ we
+ allow
+ the
+ our
+ testing
+
+
+agent
+ to
+ interact
+ with
+ an
+ application
+
+
+and
+ gather
+ screenshots
+ in
+ case
+ nothing
+
+
+has
+ worked.
+ So
+ we
+ have
+ a
+ full
+ back
+ to
+
+
+computer
+ use.
+ But
+ the
+ vast
+ majority
+ of
+
+
+times
+ what
+ we
+ do
+ is
+ that
+ we
+ have
+
+
+programmatic
+ interactions
+ with
+ the
+
+
+applications.
+ So
+ we
+ interact
+ with
+ the
+
+
+database,
+ we
+ read
+ the
+ logs,
+ we
+ do
+ API
+
+
+calls,
+ we
+ literally
+ click
+ on
+ the
+ app
+ and
+
+
+get
+ back
+ all
+ the
+ information
+ that
+ we
+
+
+need.
+ And
+ by
+ putting
+ all
+ of
+ this
+
+
+together,
+ we
+ collect
+ enough
+ feedback
+
+
+that
+ allows
+ our
+ agent
+ both
+ to
+ make
+
+
+progress
+ and
+ also
+ to
+ fix
+ all
+ the
+ painted
+
+
+doors
+ that
+ it
+ encounters.
+
+
+Just
+ a
+ know
+ short
+ technical
+ deep
+ dive
+ on
+
+
+how
+ we
+ accomplish
+ this.
+ I'm
+ sure
+ you
+
+
+have
+ seen
+ a
+ lot
+ of
+ the
+ toolbased
+ uh
+
+
+browser
+ use.
+ There
+ are
+ amazing
+ libraries
+
+
+out
+ there.
+ First
+ one
+ comes
+ to
+ my
+ mind
+ is
+
+
+stan
+ and
+ the
+ idea
+ is
+ that
+ you
+ have
+ an
+
+
+agent
+ that
+ has
+ a
+ few
+ very
+ generic
+ tools
+
+
+exposed.
+ So
+ know
+ the
+ agent
+ can
+ create
+ a
+
+
+new
+ tab,
+ can
+ click,
+ can
+ fill
+ forms
+ etc
+
+
+etc.
+ The
+ limitation
+ is
+ that
+ it's
+
+
+difficult
+ to
+ enumerate
+ all
+ the
+ different
+
+
+type
+ of
+ interactions
+ you
+ could
+ be
+ having
+
+
+with
+ a
+ browser.
+ The
+ problem
+ of
+ testing
+
+
+is
+ very
+ similar
+ to
+ the
+ Tesla
+ analogy
+ I
+
+
+was
+ making
+ before.
+ Maybe
+ this
+ cardality
+
+
+of
+ tools
+ available
+ is
+ enough
+ for
+ 99%
+ of
+
+
+the
+ interaction
+ types.
+ But
+ then
+ there
+ is
+
+
+always
+ a
+ long
+ tale
+ of
+ idiosyncratic
+
+
+interactions
+ that
+ a
+ user
+ makes
+ with
+ the
+
+
+with
+ a
+ web
+ application
+ that
+ are
+ hard
+ to
+
+
+map
+ into
+ this
+ tool
+ these
+ different
+ tool
+
+
+calls.
+ So
+ what
+ we
+ do
+ uh
+ in
+ our
+ case
+ at
+
+
+rapid
+ is
+ we
+ directly
+ write
+ playrite
+ code
+
+
+and
+ playrite
+ code
+ is
+ first
+ of
+ all
+ very
+
+
+manageable
+ for
+ LLMs.
+ LLMs
+ are
+ kind
+ of
+
+
+amazing
+ at
+ writing
+ playright.
+ You
+ know
+
+
+this
+ is
+ the
+ experience
+ that
+ we
+ had
+ uh
+
+
+since
+ we
+ started
+ to
+ work
+ on
+ this
+ project
+
+
+is
+ also
+ very
+ powerful
+ and
+ expressive.
+ So
+
+
+in
+ a
+ sense
+ it's
+ a
+ super
+ set
+ to
+ what
+ you
+
+
+can
+ express
+ uh
+ on
+ the
+ compared
+ to
+ the
+
+
+left
+ on
+ the
+ tools
+ uh
+ testing
+ and
+ last
+
+
+but
+ not
+ least
+ there
+ is
+ beauty
+ in
+
+
+creating
+ playright
+ code
+ because
+ you
+ can
+
+
+reuse
+ those
+ tests.
+ The
+ moment
+ you
+ write
+
+
+a
+ test
+ in
+ script
+ then
+ you
+ can
+ rerun
+ it
+
+
+as
+ many
+ times
+ as
+ you
+ want.
+ So
+ in
+ a
+ sense
+
+
+the
+ moment
+ you
+ created
+ a
+ test
+ you're
+
+
+also
+ creating
+ a
+ regression
+ test
+ suite
+
+
+that
+ you
+ can
+ keep
+ running
+ in
+ the
+ future.
+
+
+And
+ all
+ these
+ kind
+ of
+ uh
+ tricks
+ that
+ I
+
+
+explained
+ to
+ you
+ right
+ now,
+ they
+ helped
+
+
+us
+ to
+ create
+ something
+ that
+ is
+ roughly
+ a
+
+
+order
+ of
+ magnitude
+ cheaper
+ and
+ faster
+
+
+compared
+ to
+ computer
+ use.
+ And
+ we'll
+ go
+
+
+back
+ later
+ on
+ how
+ important
+ latency
+ is.
+
+
+The
+ second
+ thing
+ that
+ the
+ second
+ pillar
+
+
+that
+ I
+ wanted
+ to
+ talk
+ about
+ today
+ of
+
+
+course
+ is
+ context
+ management.
+ And
+ I'm
+
+
+going
+ to
+ go
+ very
+ fast
+ here
+ because
+ I
+
+
+think
+ you're
+ going
+ to
+ be
+ hearing
+ a
+ lot
+
+
+of
+ talks
+ today
+ about
+ it.
+ The
+ the
+ high
+
+
+level
+ message
+ here
+ is
+ that
+ long
+ context
+
+
+models
+ are
+ not
+ needed
+ to
+ work
+ on
+ queer
+
+
+and
+ long
+ trajectories.
+ Uh
+ from
+
+
+experience,
+ we
+ found
+ that
+ most
+ of
+ the
+
+
+tasks,
+ even
+ the
+ more
+ ambitious
+ one,
+ can
+
+
+be
+ accomplished
+ within
+ the
+ 200,000
+
+
+tokens.
+ So
+ we're
+ still
+ not
+ in
+ a
+ world
+
+
+where
+ working
+ with
+ models
+ that
+ have
+ 10
+
+
+million
+ or
+ 100
+ million
+ uh
+ context
+
+
+windows
+ is
+ necessary
+ to
+ actually
+ run
+
+
+autonomous
+ agents.
+ And
+ we
+ accomplish
+
+
+this
+ by
+ means
+ of
+ learning
+ how
+ to
+ do
+
+
+context
+ management
+ correctly.
+ So
+ first
+
+
+of
+ all,
+ there
+ are
+ several
+ different
+ ways
+
+
+to
+ maintain
+ state
+ which
+ don't
+ imply
+
+
+chucking
+ all
+ the
+ state
+ into
+ your
+ context
+
+
+window.
+ You
+ can
+ do
+ that
+ for
+ example
+ by
+
+
+using
+ the
+ codebase
+ itself
+ to
+ maintain
+
+
+state.
+ So
+ you
+ can
+ write
+ documentation
+
+
+while
+ the
+ agent
+ is
+ creating
+ new
+ code.
+
+
+You
+ can
+ also
+ include
+ the
+ plan
+
+
+description
+ and
+ all
+ the
+ different
+ task
+
+
+list
+ that
+ the
+ agent
+ is
+ working
+ on.
+ You
+
+
+can
+ persist
+ them
+ on
+ the
+ file
+ system.
+ So
+
+
+even
+ there
+ like
+ have
+ a
+ lot
+ of
+ ways
+ to
+
+
+offload
+ your
+ memories.
+ And
+ last
+ but
+ not
+
+
+least
+ and
+ this
+ is
+ something
+ I
+ think
+ you
+
+
+know
+ Antropic
+ has
+ been
+ uh
+ really
+
+
+evangelizing
+ about
+ um
+ you
+ can
+ even
+ dump
+
+
+directly
+ your
+ memories
+ in
+ the
+ file
+
+
+system
+ and
+ then
+ making
+ sure
+ that
+ your
+
+
+agent
+ decides
+ when
+ to
+ write
+ them
+ back
+
+
+the
+ moment
+ they
+ become
+ relevant
+ to
+ your
+
+
+work.
+ So
+ for
+ this
+ reason
+ we
+ have
+ been
+
+
+seeing
+ a
+ lot
+ of
+ announcements
+ in
+ the
+
+
+last
+ couple
+ of
+ months.
+ Uh
+ just
+ pick
+ this
+
+
+one
+ from
+ Entropic
+ with
+ Cloud
+ Sonet
+ 4.7.
+
+
+So
+ I
+ wish
+ 4.5
+ uh
+ they
+ have
+ been
+ able
+ to
+
+
+run
+ uh
+ focus
+ task
+ for
+ more
+ than
+ 30
+ hours
+
+
+in
+ a
+ row.
+ We
+ have
+ seen
+ similar
+ results
+
+
+from
+ open
+ AI
+ on
+ the
+ math
+ problems.
+ So
+ I
+
+
+think
+ we
+ we
+ kind
+ of
+ broke
+ the
+ barrier
+ of
+
+
+running
+ for
+ long
+ and
+ you
+ know
+ being
+ able
+
+
+to
+ have
+ coent
+ tasks.
+
+
+I
+ would
+ say
+ the
+ key
+ ingredient
+ to
+ make
+
+
+this
+ happen
+ has
+ been
+ how
+ good
+ models
+
+
+hand
+ as
+ agent
+ builders
+ have
+ become
+ in
+
+
+doing
+ sub
+ agent
+ orchestration.
+
+
+Sabages
+ basically
+ work
+ by
+ means
+ of
+
+
+they're
+ invoked
+ in
+ the
+ core
+ loop.
+ So
+
+
+it's
+ a
+ completely
+ it's
+ starting
+ from
+ a
+
+
+blank
+ slate
+ uh
+ from
+ a
+ completely
+ fresh
+
+
+context.
+ You
+ as
+ an
+ agent
+ builder
+ decide
+
+
+what
+ subset
+ of
+ the
+ context
+ to
+ inject
+
+
+when
+ the
+ sub
+ agent
+ starts
+ and
+ it's
+ a
+
+
+concept
+ that
+ is
+ very
+ similar
+ I
+ think
+ to
+
+
+everyone
+ who's
+ been
+ writing
+ software
+ you
+
+
+know
+ in
+ the
+ last
+ decades
+ is
+ separation
+
+
+of
+ concerns.
+ So
+ you
+ decide
+ what
+ your
+ sub
+
+
+engine
+ is
+ going
+ to
+ be
+ working
+ on.
+ You
+
+
+give
+ it
+ the
+ least
+ possible
+ amount
+ of
+
+
+context.
+ You
+ allow
+ it
+ to
+ run
+ to
+
+
+completion.
+ you
+ only
+ get
+ the
+ output
+ the
+
+
+results.
+ You
+ inject
+ them
+ back
+ into
+ the
+
+
+main
+ loop
+ and
+ you
+ keep
+ running
+ in
+ this
+
+
+way.
+ Of
+ course,
+ it
+ significantly
+
+
+improves
+ the
+ number
+ of
+ memories
+ per
+
+
+compression.
+ I
+ just
+ brought
+ this
+ plot
+
+
+from
+ directly
+ from
+ reput
+ agent
+ running
+
+
+in
+ production
+ the
+ moment
+ we
+ kicked
+ in
+
+
+our
+ new
+ subvision
+ orchestrator
+ on
+ the
+ a
+
+
+on
+ the
+ y-axis
+ you
+ can
+ see
+ the
+ number
+ of
+
+
+memories
+ per
+ compression.
+ So
+ we
+ went
+
+
+from
+ roughly
+ 35
+ to
+ 4550
+ recently.
+ So
+ big
+
+
+improvement
+ in
+ terms
+ of
+ how
+ often
+ we
+ are
+
+
+recompressing
+ our
+ context
+ just
+ because
+
+
+we
+ can
+ offload
+ a
+ lot
+ of
+ the
+ context
+
+
+pollution
+ by
+ means
+ of
+ using
+ sub
+ agents.
+
+
+I'm
+ going
+ to
+ give
+ an
+ example
+ where
+ this
+
+
+made
+ the
+ difference
+ for
+ us.
+ You
+ know
+ the
+
+
+what
+ I'm
+ showing
+ you
+ here
+ is
+ more
+ kind
+
+
+of
+ a
+ cost
+ optimization
+ in
+ a
+ sense
+ like
+
+
+you're
+ compressing
+ less.
+ You
+ also
+ have
+
+
+separation
+ of
+ concerns
+ which
+ definitely
+
+
+make
+ your
+ agent
+ a
+ bit
+ smarter.
+ In
+ the
+
+
+case
+ of
+ testing,
+
+
+working
+ with
+ sub
+ engine
+ was
+ almost
+
+
+mandatory
+ for
+ us
+ and
+ basically
+ we
+
+
+started
+ to
+ work
+ on
+ automated
+ testing
+
+
+even
+ before
+ we
+ were
+ very
+ advanced
+ in
+
+
+terms
+ of
+ subgent
+ orchestration.
+ And
+ what
+
+
+we
+ found
+ out
+ is
+ of
+ course
+ again
+ as
+ I
+ was
+
+
+saying
+ before
+ it
+ makes
+ things
+ easier,
+
+
+better
+ cost,
+ less
+ pollution.
+ But
+ when
+
+
+you
+ allow
+ the
+ main
+ loop
+ not
+ only
+ to
+
+
+create
+ code
+ but
+ also
+ to
+ do
+ browser
+ opt
+
+
+browser
+ actions
+ to
+ put
+ back
+ the
+
+
+observation
+ of
+ your
+ browser
+ actions
+ into
+
+
+the
+ main
+ loop
+ you
+ tend
+ to
+ confuse
+ the
+
+
+the
+ hedging
+ loop
+ very
+ much
+ because
+ at
+
+
+this
+ point
+ there
+ is
+ a
+ lot
+ of
+ it
+ in
+ terms
+
+
+of
+ the
+ action
+ that
+ your
+ main
+ loop
+ is
+
+
+looking
+ at.
+ So
+ in
+ order
+ to
+ make
+ this
+
+
+work
+ not
+ only
+ we
+ have
+ to
+ build
+ all
+ the
+
+
+playright
+ framework
+ that
+ I
+ was
+ showing
+
+
+to
+ you
+ before
+ but
+ we
+ also
+ have
+ to
+ move
+
+
+our
+ entire
+ architecture
+ into
+ sub
+ aents.
+
+
+So
+ at
+ this
+ point
+ you
+ can
+ see
+ very
+
+
+clearly
+ why
+ there
+ is
+ a
+ separation
+ of
+
+
+concern
+ here.
+ Got
+ the
+ main
+ agent
+ loop
+
+
+running.
+ We
+ decide
+ at
+ a
+ certain
+ point
+
+
+that
+ it's
+ time
+ to
+ verify
+ if
+ the
+ output
+
+
+of
+ the
+ agent
+ has
+ been
+ correct.
+ We
+ make
+
+
+this
+ happen
+ all
+ within
+ a
+ sub
+ agent.
+ Then
+
+
+we
+ scratch
+ the
+ context
+ window
+ of
+ that
+
+
+sub
+ agent.
+ We
+ just
+ return
+ back
+ the
+ last
+
+
+observation
+ to
+ the
+ agent
+ loop
+ and
+ then
+
+
+we
+ keep
+ running
+ in
+ that
+ way.
+ So
+ if
+
+
+you're
+ having
+ issues
+ today
+ making
+ your
+
+
+sub
+ agents
+ uh
+ work
+ correctly,
+ this
+ is
+
+
+one
+ of
+ the
+ reasons
+ why
+ that
+ you
+ want
+ to
+
+
+take
+ a
+ look
+ at.
+
+
+So
+ I
+ think
+ we
+ covered
+ the
+ high
+ level
+ of
+
+
+how
+ to
+ create
+ more
+ and
+ more
+ powerful
+ uh
+
+
+autonomous
+ agents
+ over
+ time
+ and
+ I
+ only
+
+
+see
+ us
+ as
+ a
+ field
+ becoming
+ even
+ more
+
+
+proficient
+ than
+ that
+ in
+ the
+ next
+ months.
+
+
+There
+ is
+ one
+ additional
+ ingredient
+
+
+though
+ that
+ is
+ going
+ to
+ make
+ the
+
+
+difference
+ and
+ it's
+ parallelism.
+ And
+ I
+
+
+will
+ argue
+ that
+ parallelism
+ is
+ important
+
+
+not
+ because
+ it's
+ going
+ to
+ make
+ agents
+
+
+more
+ powerful
+ per
+ se,
+ but
+ rather
+ because
+
+
+it's
+ going
+ to
+ make
+ the
+ user
+ experience
+
+
+more
+ exciting.
+ So
+ of
+ course
+ it
+ is
+ great
+
+
+to
+ have
+ an
+ agent
+ that
+ is
+ capable
+ of
+
+
+running
+ autonomously
+ for
+ long,
+ but
+ at
+
+
+the
+ same
+ time
+ it
+ comes
+ with
+ the
+ price
+ of
+
+
+making
+ the
+ user
+ experience
+ less
+
+
+thrilling.
+ You
+ are
+ not
+ in
+ the
+ zone
+
+
+anymore.
+ What
+ you
+ do
+ is
+ that
+ you
+ write
+ a
+
+
+very
+ long
+ prompt.
+ It's
+ translated
+ into
+ a
+
+
+task
+ list
+ uh
+ and
+ then
+ you
+ go
+ to
+ have
+
+
+lunch
+ with
+ your
+ colleagues
+ and
+ then
+ you
+
+
+come
+ back
+ and
+ you
+ hope
+ that
+ the
+ agent
+ is
+
+
+done.
+ That
+ is
+ not
+ the
+ kind
+ of
+ experience
+
+
+that
+ most
+ of
+ the
+ productive
+ people
+ want
+
+
+to
+ have
+ in
+ life.
+ You
+ know,
+ you
+ want
+ to
+
+
+see
+ as
+ much
+ work
+ as
+ done
+ as
+ possible
+ in
+
+
+the
+ shortest
+ span
+ of
+ time.
+
+
+So
+ what
+ we
+ do
+ as
+ a
+ as
+ a
+ field
+ at
+ this
+
+
+point
+ has
+ been
+ to
+ create
+ parallel
+
+
+agents.
+ It's
+ a
+ very
+ common
+ trade-off
+
+
+which
+ by
+ the
+ way
+ doesn't
+ only
+ apply
+ to
+
+
+agents.
+ it
+ it
+ applies
+ to
+ computing
+ in
+
+
+general
+ and
+ for
+ parallel
+ agents
+ what
+ you
+
+
+do
+ is
+ that
+ you
+ you
+ trade
+ off
+ basically
+
+
+extra
+ compute
+ in
+ exchange
+ for
+ time.
+ Why
+
+
+there
+ is
+ this
+ trade-off?
+ So
+ first
+ of
+ all
+
+
+when
+ you're
+ running
+ agents
+ in
+ parallel
+
+
+you're
+ gathering
+ the
+ same
+ context
+ in
+
+
+multiple
+ context
+ windows.
+ So
+ every
+
+
+single
+ parallel
+ agent
+ you
+ will
+ be
+
+
+running
+ probably
+ shares
+ say
+ 80%
+ of
+ the
+
+
+context
+ across
+ the
+ board.
+ So
+ of
+ course
+
+
+you
+ are
+ just
+ putting
+ more
+ computed
+ work
+
+
+because
+ you're
+ running
+ those
+ agents
+ in
+
+
+parallel.
+ There
+ is
+ also
+ another
+ cost
+
+
+that
+ is
+ kind
+ of
+ intangible
+ for
+ a
+ lot
+ of
+
+
+you
+ here
+ in
+ the
+ room
+ because
+ I'm
+ sure
+
+
+you're
+ all
+ expert
+ software
+ developers.
+
+
+But
+ what
+ do
+ you
+ do
+ with
+ the
+ output
+ of
+
+
+multiple
+ par
+ agents
+ at
+ the
+ end?
+ Often
+
+
+times
+ you
+ need
+ to
+ resolve
+ merge
+
+
+conflicts.
+ So
+ as
+ a
+ reminder,
+ my
+ users
+
+
+don't
+ even
+ know
+ what's
+ the
+ concept
+ of
+
+
+merge
+ conflicts.
+ It's
+ something
+ that
+ I
+
+
+have
+ to
+ figure
+ out
+ on
+ our
+ own.
+ So
+ the
+
+
+current
+ way
+ in
+ which
+ we
+ think
+ of
+
+
+parallel
+ agents
+ in
+ in
+ the
+ space
+ doesn't
+
+
+really
+ apply
+ to
+ rapid.
+ Now
+ at
+ the
+ same
+
+
+time
+ I
+ still
+ want
+ to
+ very
+ much
+ to
+
+
+accomplish
+ this.
+ There
+ are
+ so
+ many
+
+
+interesting
+ features
+ that
+ you
+ can
+ enable
+
+
+with
+ parallelism
+ aside
+ from
+ the
+ fact
+
+
+that
+ you
+ can
+ get
+ more
+ work
+ done.
+ Uh
+ at
+
+
+times
+ you
+ want
+ to
+ you
+ want
+ testing
+ to
+ be
+
+
+running
+ in
+ parallel
+ with
+ the
+ agent
+ that
+
+
+creates
+ code.
+ Testing
+ no
+ matter
+ how
+ much
+
+
+we
+ optimize
+ it
+ is
+ still
+ very
+ slow.
+ If
+ an
+
+
+agent
+ is
+ only
+ spending
+ time
+ on
+ testing
+
+
+users
+ are
+ not
+ going
+ to
+ be
+ engaging
+ with
+
+
+your
+ application
+ anymore.
+ Um,
+ at
+ the
+
+
+same
+ time,
+ it's
+ also
+ great
+ to
+ have
+ a
+
+
+synchronous
+ process
+ running
+ while
+ your
+
+
+agent
+ is
+ running
+ because
+ you
+ can
+ inject
+
+
+useful
+ information
+ back
+ into
+ the
+ main
+
+
+core
+ loop.
+ And
+ last
+ but
+ not
+ least
+ is
+ a
+
+
+very
+ common
+ technique
+ that
+ we
+ know
+ boost
+
+
+performance
+ if
+ you
+ have
+ enough
+ budget
+ to
+
+
+do
+ so.
+ You
+ should
+ be
+ sampling
+ multiple
+
+
+trajectories
+ at
+ the
+ same
+ time.
+ So
+ a
+ lot
+
+
+of
+ perks
+ are
+ coming
+ with
+ parallel
+
+
+agents.
+ But
+ the
+ the
+ way
+ in
+ which
+ we
+
+
+implement
+ them
+ today
+ which
+ I
+ go
+
+
+basically
+ call
+ user
+ has
+ an
+ orchestrator
+
+
+is
+ the
+ fact
+ that
+ tasks
+ the
+ par
+ task
+ that
+
+
+you
+ want
+ to
+ run
+ are
+ determined
+ by
+ you
+ by
+
+
+the
+ user
+ and
+ each
+ task
+ is
+ dispatched
+ in
+
+
+its
+ own
+ thread.
+ So
+ there's
+ a
+ bit
+ of
+
+
+manual
+ process
+ even
+ the
+ task
+
+
+decomposition
+ in
+ a
+ sense
+ is
+ happening
+ in
+
+
+your
+ mind
+ while
+ you're
+ thinking
+ about
+
+
+which
+ agents
+ you
+ want
+ to
+ run
+ and
+ then
+
+
+the
+ moment
+ you
+ get
+ back
+ all
+ the
+ results
+
+
+you
+ need
+ to
+ go
+ through
+ the
+ problem
+ of
+
+
+merge
+ conflicts
+ and
+ often
+ times
+ this
+ is
+
+
+not
+ trivial
+ at
+ all
+ no
+ matter
+ how
+ many
+
+
+amazing
+ tools
+ are
+ out
+ there.
+ So
+ what
+
+
+we're
+ working
+ on
+ today
+ for
+ our
+ next
+
+
+version
+ of
+ the
+ agent
+ is
+ having
+ the
+ core
+
+
+loop
+ as
+ the
+ orchestrator.
+ So
+ the
+ key
+
+
+difference
+ here
+ is
+ the
+ fact
+ that
+ the
+ the
+
+
+subtask
+ that
+ we're
+ going
+ to
+ be
+ working
+
+
+on
+ are
+ not
+ determined
+ by
+ the
+ user
+ but
+
+
+they're
+ determined
+ by
+ the
+ corion
+ loop
+
+
+and
+ the
+ parallelism
+ is
+ basically
+
+
+deciding
+ on
+ the
+ fly.
+ The
+ agent
+ does
+ the
+
+
+task
+ de
+ composition
+ on
+ behalf
+ of
+ the
+
+
+user
+ and
+ this
+ comes
+ with
+ a
+ couple
+ of
+
+
+advantages.
+ First
+ of
+ all
+ again
+ there's
+
+
+no
+ cognitive
+ burden
+ to
+ for
+ the
+ user
+ to
+
+
+understand
+ how
+ they
+ should
+ be
+
+
+decomposing
+ the
+ task.
+ At
+ the
+ same
+ time
+
+
+also
+ there
+ are
+ ways
+ in
+ which
+ you
+ can
+
+
+create
+ tasks
+ that
+ sort
+ of
+ mitigate
+ the
+
+
+problem
+ of
+ merge
+ conflicts.
+ I'm
+ not
+
+
+claiming
+ that
+ we're
+ going
+ to
+ be
+ able
+ to
+
+
+mitigate
+ it
+ 100%.
+ There
+ are
+ so
+ many
+
+
+corner
+ cases
+ in
+ which
+ merge
+ conflict
+
+
+will
+ still
+ represent
+ a
+ problem
+ but
+ there
+
+
+are
+ a
+ lot
+ of
+ different
+ techniques
+ known
+
+
+in
+ software
+ engineering
+ to
+ make
+ sure
+
+
+that
+ you
+ can
+ try
+ to
+ have
+ multiple
+ sub
+
+
+agent
+ not
+ stepping
+ on
+ each
+ other
+ tools.
+
+
+So
+ the
+ core
+ loop
+ as
+ an
+ orchestrator
+ is
+
+
+going
+ to
+ be
+ the
+ our
+ main
+ bet
+ for
+ the
+
+
+next
+ few
+ months.
+
+
+And
+ in
+ case
+ you're
+ passionate
+ about
+
+
+these
+ topics,
+
+
+I'm
+ always
+ hiring
+ a
+ rabbit.
+ Thank
+ you.
+
+
+[Music]
