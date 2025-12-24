@@ -1,0 +1,3127 @@
+I'm
+ confused
+ why
+ some
+ people
+ have
+ super
+
+
+short
+ timelines
+ yet
+ at
+ the
+ same
+ time
+ are
+
+
+bullish
+ on
+ scaling
+ up
+ reinforcement
+
+
+learning
+ a
+ top
+ LLMs.
+ If
+ we're
+ actually
+
+
+close
+ to
+ a
+ humanlike
+ learner,
+ then
+ this
+
+
+whole
+ approach
+ of
+ training
+ on
+ verifiable
+
+
+outcomes
+ is
+ doomed.
+
+
+Now,
+ currently
+ the
+ labs
+ are
+ trying
+ to
+
+
+bake
+ in
+ a
+ bunch
+ of
+ skills
+ into
+ these
+
+
+models
+ through
+ mid-training.
+ There's
+ an
+
+
+entire
+ supply
+ chain
+ of
+ companies
+ that
+
+
+are
+ building
+ RL
+ environments
+ which
+ teach
+
+
+the
+ model
+ how
+ to
+ navigate
+ a
+ web
+ browser
+
+
+or
+ use
+ Excel
+ to
+ build
+ financial
+ models.
+
+
+Now
+ either
+ these
+ models
+ will
+ soon
+ learn
+
+
+on
+ the
+ job
+ in
+ a
+ self-directed
+ way
+ which
+
+
+will
+ make
+ all
+ this
+ freebaking
+ pointless
+
+
+or
+ they
+ won't
+ which
+ means
+ that
+ AGI
+ is
+
+
+not
+ imminent.
+ Humans
+ don't
+ have
+ to
+ go
+
+
+through
+ the
+ special
+ training
+ phase
+ where
+
+
+they
+ need
+ to
+ rehearse
+ every
+ single
+ piece
+
+
+of
+ software
+ that
+ they
+ might
+ ever
+ need
+ to
+
+
+use
+ on
+ the
+ job.
+ Baron
+ Millig
+ made
+ an
+
+
+interesting
+ point
+ about
+ this
+ in
+ a
+ recent
+
+
+blog
+ post
+ he
+ wrote.
+ He
+ writes,
+ quote,
+
+
+"When
+ we
+ see
+ frontier
+ models
+ improving
+
+
+at
+ various
+ benchmarks,
+ we
+ should
+ think
+
+
+not
+ just
+ about
+ the
+ increased
+ scale
+ and
+
+
+the
+ clever
+ ML
+ research
+ ideas,
+ but
+ the
+
+
+billions
+ of
+ dollars
+ that
+ are
+ paid
+ to
+
+
+PhDs,
+ MDs,
+ and
+ other
+ experts
+ to
+ write
+
+
+questions
+ and
+ provide
+ example
+ answers
+
+
+and
+ reasoning
+ targeting
+ these
+ precise
+
+
+capabilities.
+ You
+ can
+ see
+ this
+ tension
+
+
+most
+ vividly
+ in
+ robotics.
+ In
+ some
+
+
+fundamental
+ sense,
+ robotics
+ is
+ an
+
+
+algorithms
+ problem,
+ not
+ a
+ hardware
+ or
+ a
+
+
+data
+ problem.
+ With
+ very
+ little
+ training,
+
+
+a
+ human
+ can
+ learn
+ how
+ to
+ tell
+ or
+ operate
+
+
+current
+ hardware
+ to
+ do
+ useful
+ work.
+ So
+
+
+if
+ you
+ actually
+ had
+ a
+ humanlike
+ learner,
+
+
+robotics
+ would
+ be
+ in
+ large
+ part
+ a
+ solved
+
+
+problem.
+ But
+ the
+ fact
+ that
+ we
+ don't
+ have
+
+
+such
+ a
+ learner
+ makes
+ it
+ necessary
+ to
+ go
+
+
+out
+ into
+ a
+ thousand
+ different
+ homes
+ and
+
+
+practice
+ a
+ million
+ times
+ on
+ how
+ to
+ pick
+
+
+up
+ dishes
+ or
+ fold
+ laundry.
+ Now,
+ one
+
+
+counter
+ argument
+ I've
+ heard
+ from
+ the
+
+
+people
+ who
+ think
+ we're
+ going
+ to
+ have
+ a
+
+
+takeoff
+ within
+ the
+ next
+ 5
+ years
+ is
+ that
+
+
+we
+ have
+ to
+ do
+ all
+ this
+ cludgy
+ RL
+ in
+
+
+service
+ of
+ building
+ a
+ superhuman
+ AI
+
+
+researcher.
+ And
+ then
+ the
+ million
+ copies
+
+
+of
+ this
+ automated
+ Ilia
+ can
+ go
+ figure
+ out
+
+
+how
+ to
+ solve
+ robust
+ and
+ efficient
+
+
+learning
+ from
+ experience.
+ This
+ just
+
+
+gives
+ me
+ the
+ vibes
+ of
+ that
+ old
+ joke,
+
+
+we're
+ losing
+ money
+ on
+ every
+ sale,
+ but
+
+
+we'll
+ make
+ it
+ up
+ in
+ volume.
+ Somehow,
+
+
+this
+ automated
+ researcher
+ is
+ going
+ to
+
+
+figure
+ out
+ the
+ algorithm
+ for
+ AGI,
+ which
+
+
+is
+ a
+ problem
+ that
+ humans
+ have
+ been
+
+
+banging
+ their
+ head
+ against
+ for
+ the
+
+
+better
+ half
+ of
+ a
+ century,
+ while
+ not
+
+
+having
+ the
+ basic
+ learning
+ capabilities
+
+
+that
+ children
+ have.
+ I
+ find
+ it
+ super
+
+
+implausible.
+ Besides,
+ even
+ if
+ that's
+
+
+what
+ you
+ believe,
+ it
+ doesn't
+ describe
+
+
+how
+ the
+ labs
+ are
+ approaching
+
+
+reinforcement
+ learning
+ from
+ verifiable
+
+
+reward.
+ You
+ don't
+ need
+ to
+ pre-bake
+ in
+ a
+
+
+consultant
+ skill
+ at
+ crafting
+ PowerPoint
+
+
+slides
+ in
+ order
+ to
+ automate
+ Ilia.
+ So
+
+
+clearly,
+ the
+ lab's
+ actions
+ hint
+ at
+ a
+
+
+worldview
+ where
+ these
+ models
+ will
+
+
+continue
+ to
+ fare
+ poorly
+ at
+
+
+generalization
+ and
+ on
+ the
+ job
+ learning,
+
+
+thus
+ making
+ it
+ necessary
+ to
+ build
+ in
+ the
+
+
+skills
+ that
+ we
+ hope
+ will
+ be
+ economically
+
+
+useful
+ beforehand
+ into
+ these
+ models.
+
+
+Another
+ counter
+ argument
+ you
+ can
+ make
+ is
+
+
+that
+ even
+ if
+ the
+ model
+ could
+ learn
+ these
+
+
+skills
+ on
+ the
+ job,
+ it
+ is
+ just
+ so
+ much
+
+
+more
+ efficient
+ to
+ build
+ in
+ these
+ skills
+
+
+once
+ during
+ trading
+ rather
+ than
+ again
+
+
+for
+ each
+ user
+ and
+ each
+ company.
+ And
+
+
+look,
+ it
+ makes
+ a
+ ton
+ of
+ sense
+ to
+ just
+
+
+bake
+ influency
+ with
+ common
+ tools
+ like
+
+
+browsers
+ and
+ terminals.
+ And
+ indeed,
+ one
+
+
+of
+ the
+ key
+ advantages
+ that
+ AGIS
+ will
+
+
+have
+ is
+ this
+ greater
+ capacity
+ to
+ share
+
+
+knowledge
+ across
+ copies.
+ But
+ people
+ are
+
+
+really
+ underrating
+ how
+ much
+ company
+ and
+
+
+context
+ specific
+ skills
+ are
+ required
+ to
+
+
+do
+ most
+ jobs.
+ And
+ there
+ just
+ isn't
+
+
+currently
+ a
+ robust
+ efficient
+ way
+ for
+ AIS
+
+
+to
+ pick
+ up
+ these
+ skills.
+
+
+I
+ was
+ recently
+ at
+ a
+ dinner
+ with
+ a
+ AI
+
+
+researcher
+ and
+ a
+ biologist.
+ And
+ it
+
+
+turned
+ out
+ the
+ biologist
+ had
+ long
+
+
+timelines.
+ And
+ so
+ we
+ were
+ asking
+ about
+
+
+why
+ she
+ had
+ these
+ long
+ timelines.
+ And
+
+
+then
+ she
+ said,
+ you
+ know,
+ one
+ part
+ of
+
+
+work
+ recently
+ in
+ the
+ lab
+ has
+ involved
+
+
+looking
+ at
+ slides
+ and
+ deciding
+ if
+ the
+
+
+dot
+ in
+ that
+ slide
+ is
+ actually
+ a
+
+
+macroofage
+ or
+ just
+ looks
+ like
+ a
+
+
+macroofage.
+ And
+ the
+ AI
+ researcher,
+ as
+
+
+you
+ might
+ anticipate,
+ responded,
+ look,
+
+
+image
+ classification
+ is
+ a
+ textbook
+ deep
+
+
+learning
+ problem.
+ This
+ is
+ death
+ center
+
+
+in
+ the
+ kind
+ of
+ thing
+ that
+ we
+ could
+ train
+
+
+these
+ models
+ to
+ do.
+ And
+ I
+ thought
+ this
+
+
+is
+ a
+ very
+ interesting
+ exchange
+ because
+
+
+it
+ illustrated
+ a
+ key
+ crux
+ between
+ me
+ and
+
+
+the
+ people
+ who
+ expect
+ transformative
+
+
+economic
+ impact
+ within
+ the
+ next
+ few
+
+
+years.
+ Human
+ workers
+ are
+ valuable
+
+
+precisely
+ because
+ we
+ don't
+ need
+ to
+ build
+
+
+in
+ the
+ schley
+ training
+ bloops
+ for
+ every
+
+
+single
+ small
+ part
+ of
+ their
+ job.
+ It's
+ not
+
+
+net
+ productive
+ to
+ build
+ a
+ custom
+
+
+training
+ pipeline
+ to
+ identify
+ what
+
+
+macrofages
+ look
+ like
+ given
+ the
+ specific
+
+
+way
+ that
+ this
+ lab
+ prepares
+ slides
+ and
+
+
+then
+ another
+ training
+ loop
+ for
+ the
+ next
+
+
+lab
+ specific
+ microtask
+ and
+ so
+ on.
+ What
+
+
+you
+ actually
+ need
+ is
+ an
+ AI
+ that
+ can
+
+
+learn
+ from
+ semantic
+ feedback
+ or
+ from
+
+
+self-directed
+ experience
+ and
+ then
+
+
+generalize
+ the
+ way
+ a
+ human
+ does.
+ Every
+
+
+day
+ you
+ have
+ to
+ do
+ a
+ 100
+ things
+ that
+
+
+require
+ judgment,
+ situational
+ awareness,
+
+
+and
+ skills
+ and
+ context
+ that
+ are
+ learned
+
+
+on
+ the
+ job.
+ These
+ tasks
+ differ
+ not
+ just
+
+
+across
+ different
+ people
+ but
+ even
+ from
+
+
+one
+ day
+ to
+ the
+ next
+ for
+ the
+ same
+ person.
+
+
+It
+ is
+ not
+ possible
+ to
+ automate
+ even
+ a
+
+
+single
+ job
+ by
+ just
+ baking
+ in
+ a
+
+
+predefined
+ set
+ of
+ skills
+ let
+ alone
+ all
+
+
+the
+ jobs.
+ In
+ fact,
+ I
+ think
+ people
+ are
+
+
+really
+ underestimating
+ how
+ big
+ a
+ deal
+
+
+actual
+ AI
+ will
+ be
+ because
+ they
+ are
+ just
+
+
+imagining
+ more
+ of
+ this
+ current
+ regime.
+
+
+They're
+ not
+ thinking
+ about
+ billions
+ of
+
+
+humanlike
+ intelligences
+ on
+ a
+ server
+
+
+which
+ can
+ copy
+ and
+ merge
+ all
+ the
+
+
+learnings.
+ And
+ to
+ be
+ clear,
+ I
+ expect
+
+
+this,
+ which
+ is
+ to
+ say
+ I
+ expect
+ actual
+
+
+brain-like
+ intelligences
+ within
+ the
+ next
+
+
+decade
+ or
+ two,
+ which
+ is
+ pretty
+ [ __ ]
+
+
+crazy.
+
+
+Sometimes
+ people
+ will
+ say
+ that
+ the
+
+
+reason
+ that
+ AIs
+ are
+ more
+ widely
+ deployed
+
+
+right
+ now
+ across
+ firms
+ and
+ already
+
+
+providing
+ lots
+ of
+ value
+ outside
+ of
+
+
+coding
+ is
+ that
+ technology
+ takes
+ a
+ long
+
+
+time
+ to
+ diffuse.
+ And
+ I
+ think
+ this
+ is
+
+
+cope.
+ I
+ think
+ people
+ are
+ using
+ this
+ code
+
+
+to
+ gloss
+ over
+ the
+ fact
+ that
+ these
+ models
+
+
+just
+ lack
+ the
+ capabilities
+ that
+ are
+
+
+necessary
+ for
+ broad
+ economic
+ value.
+ If
+
+
+these
+ models
+ actually
+ were
+ like
+ humans
+
+
+on
+ a
+ server,
+ they'd
+ diffuse
+ incredibly
+
+
+quickly.
+ In
+ fact,
+ they'd
+ be
+ so
+ much
+
+
+easier
+ to
+ integrate
+ and
+ onboard
+ than
+ a
+
+
+normal
+ human
+ employee
+ is.
+ They
+ could
+
+
+read
+ your
+ entire
+ Slack
+ and
+ drive
+ within
+
+
+minutes.
+ And
+ they
+ could
+ immediately
+
+
+distill
+ all
+ the
+ skills
+ that
+ your
+ other
+
+
+AI
+ employees
+ have.
+ Plus,
+ the
+ hiring
+
+
+market
+ for
+ humans
+ is
+ very
+ much
+ like
+ a
+
+
+lemons
+ market
+ where
+ it's
+ hard
+ to
+ tell
+
+
+who
+ the
+ good
+ people
+ are
+ beforehand.
+ And
+
+
+then
+ obviously
+ hiring
+ somebody
+ who
+ turns
+
+
+out
+ to
+ be
+ bad
+ is
+ very
+ costly.
+ This
+ is
+
+
+just
+ not
+ a
+ dynamic
+ that
+ you
+ would
+ have
+
+
+to
+ face
+ or
+ worry
+ about
+ if
+ you're
+ just
+
+
+spinning
+ up
+ another
+ instance
+ of
+ a
+ vetted
+
+
+hi
+ model.
+ So
+ for
+ these
+ reasons,
+ I
+ expect
+
+
+it's
+ going
+ to
+ be
+ much
+ easier
+ to
+ diffuse
+
+
+AI
+ labor
+ into
+ firms
+ than
+ it
+ is
+ to
+ hire
+ a
+
+
+person.
+ And
+ companies
+ hire
+ people
+ all
+
+
+the
+ time.
+ If
+ the
+ capabilities
+ were
+
+
+actually
+ at
+ AGI
+ level,
+ people
+ would
+ be
+
+
+willing
+ to
+ spend
+ trillions
+ of
+ dollars
+ a
+
+
+year
+ buying
+ tokens
+ that
+ these
+ models
+
+
+produce.
+ Knowledge
+ workers
+ across
+ the
+
+
+world
+ cumulatively
+ earn
+ tens
+ of
+
+
+trillions
+ of
+ dollars
+ a
+ year
+ in
+ wages.
+
+
+And
+ the
+ reason
+ that
+ labs
+ are
+ orders
+ of
+
+
+magnitude
+ off
+ this
+ figure
+ right
+ now
+ is
+
+
+that
+ the
+ models
+ are
+ nowhere
+ near
+ as
+
+
+capable
+ as
+ human
+ knowledge
+ workers.
+
+
+Now
+ you
+ might
+ be
+ like
+ look
+ how
+ can
+ the
+
+
+standard
+ have
+ suddenly
+ become
+ labs
+ have
+
+
+to
+ earn
+ tens
+ of
+ trillions
+ of
+ dollars
+ of
+
+
+revenue
+ a
+ year
+ right
+ like
+ until
+ recently
+
+
+people
+ were
+ saying
+ can
+ these
+ models
+
+
+reason
+ do
+ these
+ models
+ have
+ common
+ sense
+
+
+are
+ they
+ just
+ doing
+ pattern
+ recognition
+
+
+and
+ obviously
+ AI
+ bulls
+ are
+ right
+ to
+
+
+criticize
+ AI
+ bears
+ for
+ repeatedly
+ moving
+
+
+these
+ goalpost
+ and
+ this
+ is
+ very
+ often
+
+
+fair
+ it's
+ easy
+ to
+ underestimate
+ the
+
+
+progress
+ that
+ AI
+ has
+ made
+ over
+ the
+ last
+
+
+decade
+ but
+ some
+ amount
+ of
+ goalpost
+
+
+shifting
+ is
+ actually
+ justified
+ if
+ If
+ you
+
+
+showed
+ me
+ Gemini
+ 3
+ in
+ 2020,
+ I
+ would
+ have
+
+
+been
+ certain
+ that
+ it
+ could
+ automate
+ half
+
+
+of
+ knowledge
+ work.
+ And
+ so
+ we
+ keep
+
+
+solving
+ what
+ we
+ thought
+ were
+ the
+
+
+sufficient
+ bottlenecks
+ to
+ AGI.
+ We
+ have
+
+
+models
+ that
+ have
+ general
+ understanding.
+
+
+They
+ have
+ few
+ shot
+ learning.
+ They
+ have
+
+
+reasoning.
+ And
+ yet
+ we
+ still
+ don't
+ have
+
+
+AGI.
+ So
+ what
+ is
+ a
+ rational
+ response
+ to
+
+
+observing
+ this?
+ I
+ think
+ it's
+ totally
+
+
+reasonable
+ to
+ look
+ at
+ this
+ and
+ say,
+ "Oh,
+
+
+actually
+ there's
+ much
+ more
+ to
+
+
+intelligence
+ and
+ labor
+ than
+ I
+ previously
+
+
+realized."
+ And
+ while
+ we're
+ really
+ close
+
+
+and
+ in
+ many
+ ways
+ have
+ surpassed
+ what
+ I
+
+
+would
+ have
+ previously
+ defined
+ as
+ AGI
+ in
+
+
+the
+ past,
+ the
+ fact
+ that
+ model
+ companies
+
+
+are
+ not
+ making
+ the
+ trillions
+ of
+ dollars
+
+
+in
+ revenue
+ that
+ would
+ be
+ implied
+ by
+ AGI
+
+
+clearly
+ reveals
+ that
+ my
+ previous
+
+
+definition
+ of
+ AGI
+ was
+ too
+ narrow.
+ And
+ I
+
+
+expect
+ this
+ to
+ keep
+ happening
+ into
+ the
+
+
+future.
+ I
+ expect
+ that
+ by
+ 2030,
+ the
+ labs
+
+
+will
+ have
+ made
+ significant
+ progress
+ on
+
+
+my
+ hobby
+ horse
+ of
+ continual
+ learning
+ and
+
+
+the
+ models
+ will
+ be
+ earning
+ hundreds
+ of
+
+
+billions
+ of
+ dollars
+ in
+ revenue
+ a
+ year,
+
+
+but
+ they
+ won't
+ have
+ automated
+ all
+
+
+knowledge
+ work.
+ And
+ I'll
+ be
+ like,
+ look,
+
+
+we
+ made
+ a
+ lot
+ of
+ progress,
+ but
+ we
+
+
+haven't
+ hit
+ AGI
+ yet.
+ We
+ also
+ need
+ these
+
+
+other
+ capabilities.
+ We
+ need
+ X,
+ Y,
+ and
+ Z
+
+
+capabilities
+ in
+ these
+ models.
+ Models
+
+
+keep
+ getting
+ more
+ impressive
+ at
+ the
+ rate
+
+
+that
+ the
+ short
+ timelines
+ people
+ predict,
+
+
+but
+ more
+ useful
+ at
+ the
+ rate
+ that
+ the
+
+
+long
+ timelines
+ people
+ predict.
+
+
+It's
+ worth
+ asking
+ what
+ are
+ we
+ scaling
+
+
+with
+ pre-trading?
+ We
+ had
+ this
+ extremely
+
+
+clean
+ and
+ general
+ trend
+ in
+ improvement
+
+
+in
+ loss
+ across
+ multiples
+ orders
+ of
+
+
+magnitude
+ in
+ compute.
+ Albeit
+ this
+ was
+ on
+
+
+a
+ power
+ law
+ which
+ is
+ as
+ weak
+ as
+
+
+exponential
+ growth
+ is
+ strong.
+ But
+ people
+
+
+are
+ trying
+ to
+ launder
+ the
+ prestige
+ that
+
+
+three
+ training
+ scaling
+ has,
+ which
+ is
+
+
+almost
+ as
+ predictable
+ as
+ a
+ physical
+ law
+
+
+of
+ the
+ universe
+ to
+ justify
+ bullish
+
+
+predictions
+ about
+ reinforcement
+ learning
+
+
+from
+ verifiable
+ reward
+ for
+ which
+ we
+ have
+
+
+no
+ welfare
+ publicly
+ known
+ trend.
+ And
+
+
+when
+ intrepid
+ researchers
+ do
+ try
+ to
+
+
+piece
+ together
+ the
+ implications
+ from
+
+
+scarce
+ public
+ data
+ points,
+ they
+ get
+
+
+pretty
+ bearish
+ results.
+ For
+ example,
+
+
+Toby
+ Board
+ has
+ a
+ great
+ post
+ where
+ he
+
+
+cleverly
+ connects
+ the
+ dots
+ between
+ the
+
+
+different
+ O
+ series
+ benchmarks
+ and
+ this
+
+
+suggested
+ to
+ him
+ that
+ quote
+ we
+ need
+
+
+something
+ like
+ a
+ millionx
+ scale
+ up
+ in
+
+
+total
+ RL
+ compute
+ to
+ give
+ a
+ boost
+ similar
+
+
+to
+ a
+ single
+ GPT
+ level.
+ End
+ quote.
+
+
+So
+ people
+ have
+ spent
+ a
+ lot
+ of
+ time
+
+
+talking
+ about
+ the
+ possibility
+ of
+ a
+
+
+software
+ in
+ the
+ singularity
+ where
+ AI
+
+
+models
+ will
+ write
+ the
+ code
+ that
+
+
+generates
+ a
+ smarter
+ successor
+ system
+ or
+
+
+a
+ software
+ plus
+ hardware
+ singularity
+
+
+where
+ AIs
+ also
+ improve
+ their
+ successor's
+
+
+computing
+ hardware.
+ However,
+ all
+ these
+
+
+scenarios
+ neglect
+ what
+ I
+ think
+ will
+ be
+
+
+the
+ main
+ driver
+ of
+ further
+ improvements
+
+
+at
+ top
+ AGI
+ continual
+ learning.
+ Again,
+
+
+think
+ about
+ how
+ humans
+ become
+ more
+
+
+capable
+ than
+ anything.
+ It's
+ mostly
+ from
+
+
+experience
+ in
+ the
+ relevant
+ domain.
+ Over
+
+
+conversation,
+ Baron
+ Miller
+ made
+ this
+
+
+interesting
+ suggestion
+ that
+ the
+ future
+
+
+might
+ look
+ like
+ continual
+ learning
+
+
+agents
+ who
+ are
+ all
+ going
+ out
+ and
+ they're
+
+
+doing
+ different
+ jobs
+ and
+ they're
+
+
+generating
+ value
+ and
+ then
+ they're
+
+
+bringing
+ back
+ all
+ their
+ learnings
+ to
+ the
+
+
+hive
+ mind
+ model
+ which
+ does
+ some
+ kind
+ of
+
+
+bash
+ distillation
+ on
+ all
+ of
+ these
+
+
+agents.
+ The
+ agents
+ themselves
+ could
+ be
+
+
+quite
+ specialized
+ containing
+ what
+
+
+Karpathi
+ called
+ the
+ cognitive
+ core
+ plus
+
+
+knowledge
+ and
+ skills
+ relevant
+ to
+ the
+ job
+
+
+they're
+ being
+ deployed
+ to
+ do.
+ Solving
+
+
+continual
+ learning
+ won't
+ be
+ a
+ singular
+
+
+one
+ and
+ done
+ achievement.
+ Instead,
+ it
+
+
+will
+ feel
+ like
+ solving
+ in
+ context
+
+
+learning.
+ Now,
+ GBT3
+ already
+ demonstrated
+
+
+in
+ context
+ learning
+ could
+ be
+ very
+
+
+powerful
+ in
+ 2020.
+ It's
+ uh
+ in
+ context
+
+
+learning
+ capabilities
+ were
+ so
+
+
+remarkable.
+ The
+ title
+ of
+ the
+ GPT3
+ paper
+
+
+was
+ language
+ models
+ are
+ a
+ few
+ shot
+
+
+learners.
+ But
+ of
+ course,
+ we
+ didn't
+ solve
+
+
+in
+ context
+ learning
+ when
+ GPD3
+ came
+ out.
+
+
+And
+ indeed,
+ there's
+ still
+ plenty
+ of
+
+
+progress
+ that
+ still
+ has
+ to
+ be
+ made
+ from
+
+
+comprehension
+ to
+ context
+ length.
+ I
+
+
+expect
+ a
+ similar
+ progression
+ with
+
+
+continual
+ learning.
+ Labs
+ will
+ probably
+
+
+release
+ something
+ next
+ year
+ which
+ they
+
+
+call
+ continual
+ learning
+ and
+ which
+ will
+
+
+in
+ fact
+ count
+ as
+ progress
+ towards
+
+
+continual
+ learning.
+ But
+ human
+ level
+ on
+
+
+the
+ job
+ learning
+ may
+ take
+ another
+ 5
+ to
+
+
+10
+ years
+ to
+ iron
+ out.
+ This
+ is
+ why
+ I
+
+
+don't
+ expect
+ some
+ kind
+ of
+ runaway
+ gains
+
+
+from
+ the
+ first
+ model
+ that
+ cracks
+
+
+continual
+ learning
+ that's
+ getting
+ more
+
+
+and
+ more
+ widely
+ deployed
+ and
+ capable.
+ If
+
+
+you
+ had
+ fully
+ solved
+ continual
+ learning
+
+
+drop
+ out
+ of
+ nowhere,
+ then
+ sure,
+ it
+ might
+
+
+be
+ game
+ set
+ match
+ as
+ SAT
+ put
+ it
+ on
+ the
+
+
+podcast
+ when
+ I
+ asked
+ him
+ about
+ this
+ body
+
+
+disability.
+ But
+ that's
+ probably
+ not
+
+
+what's
+ going
+ to
+ happen.
+ Instead,
+ some
+
+
+lab
+ is
+ going
+ to
+ figure
+ out
+ how
+ to
+ get
+
+
+some
+ initial
+ traction
+ on
+ this
+ problem
+
+
+and
+ then
+ playing
+ around
+ with
+ this
+
+
+feature
+ will
+ make
+ it
+ clear
+ how
+ it
+ was
+
+
+implemented
+ and
+ then
+ other
+ labs
+ will
+
+
+soon
+ replicate
+ the
+ breakthrough
+ and
+
+
+improve
+ it
+ slightly.
+ Besides,
+ I
+ just
+
+
+have
+ some
+ prior
+ that
+ the
+ competition
+
+
+will
+ stay
+ pretty
+ fierce
+ between
+ all
+
+
+these
+ model
+ companies.
+ And
+ this
+ is
+
+
+informed
+ by
+ the
+ observation
+ that
+ all
+
+
+these
+ previous
+ supposed
+ flywheels,
+
+
+whether
+ that's
+ user
+ engagement
+ on
+ chat
+
+
+or
+ synthetic
+ data
+ or
+ whatever,
+ have
+ done
+
+
+very
+ little
+ to
+ diminish
+ the
+ greater
+ and
+
+
+greater
+ competition
+ between
+ model
+
+
+companies.
+ Every
+ month
+ or
+ so,
+ the
+ big
+
+
+three
+ model
+ companies
+ will
+ rotate
+ around
+
+
+the
+ podium,
+ and
+ the
+ other
+ competitors
+
+
+are
+ not
+ that
+ far
+ behind.
+ There
+ seems
+ to
+
+
+be
+ some
+ force,
+ and
+ this
+ is
+ potentially
+
+
+talent
+ poaching.
+ It's
+ potentially
+ the
+
+
+rumor
+ mill
+ SF
+ or
+ just
+ normal
+ reverse
+
+
+engineering
+ which
+ has
+ so
+ far
+ neutralized
+
+
+any
+ runaway
+ advantage
+ that
+ a
+ single
+ lab
+
+
+might
+ have
+ had.
+ This
+ was
+ an
+ narration
+ of
+
+
+an
+ essay
+ that
+ I
+ originally
+ released
+ on
+
+
+my
+ blog
+ at
+ dwarcash.com.
+ I'm
+ going
+ be
+
+
+publishing
+ a
+ lot
+ more
+ essays.
+ I
+ found
+
+
+it's
+ actually
+ quite
+ helpful
+ in
+ ironing
+
+
+out
+ my
+ thoughts
+ before
+ interviews.
+ If
+
+
+you
+ want
+ to
+ stay
+ up
+ to
+ date
+ with
+ those,
+
+
+you
+ can
+ subscribe
+ atash.com.
+
+
+Otherwise,
+ I'll
+ see
+ you
+ for
+ the
+ next
+
+
+podcast.
+ Cheers.
