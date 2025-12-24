@@ -13,18 +13,7 @@ layout: post.njk
 people:
 - Isaac Newton
 - Albert Einstein
-- Karl Schwarzschild
-- Ralph Fowler
-- Subrahmanyan Chandrasekhar
-- Arthur Eddington
-- Jay Robert Oppenheimer
-- George Volkoff
-- Hartland Snyder
-- Roy Kerr
-- Michael Morris
-- Kip Thorne
 - Derek Muller
-- Geraint F. Lewis
 products_models:
 - Schwarzschild metric
 - Einstein's field equations

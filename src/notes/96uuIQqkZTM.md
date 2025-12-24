@@ -18,18 +18,10 @@ insight: ''
 layout: post.njk
 people:
 - 吴薇
-- 朴志强
-- 张杰平
 - 许成刚
 - 吴国光
-- 王菲玲
-- 文冠中
-- 吴思
-- 徐有渔
 - 秦辉
 - 王志安
-- 李后成
-- 武雷
 products_models: []
 project:
 - ai-impact-analysis

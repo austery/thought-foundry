@@ -21,18 +21,8 @@ media_books:
 people:
 - Jennifer Lawrence
 - Donald Trump
-- Tim McLaughlin
-- Amil Niazi
-- Miss Rachel
-- Colin Ellis
-- Barry Hertz
-- Amy Schumer
-- Hannah Einbinder
 - Jimmy Kimmel
 - Mike Myers
-- Sebastian Stan
-- Cate Blanchett
-- Jeremy Strong
 - Mark Carney
 products_models:
 - Netflix

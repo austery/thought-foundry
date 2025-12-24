@@ -20,12 +20,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Harry Potter
-people:
-- Summer Kim
-- Jess Hog
-- Jenny Low
-- Aisha Chakmla
-- Anton
 products_models:
 - ChatGPT
 - Perplexity

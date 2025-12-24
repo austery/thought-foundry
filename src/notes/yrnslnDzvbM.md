@@ -34,13 +34,10 @@ insight: ''
 layout: post.njk
 people:
 - Anthony Noto
-- Josh Allen
 - Lisa Sue
 - Jensen Huang
 - Donald Trump
 - Sam Altman
-- Chris Le Point
-- Chris LePoint
 products_models:
 - ChatGPT
 - SoFi Money

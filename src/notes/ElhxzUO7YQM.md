@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Yan Stramic
 products_models:
 - Boeing 747
 - Golden Gate Bridge

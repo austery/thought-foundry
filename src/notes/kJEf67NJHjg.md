@@ -14,10 +14,7 @@ media_books:
 people:
 - 安争鸣
 - 马克斯·韦伯
-- 马丁·路德
-- 加尔文
 - 卡尔·马克思
-- 本杰明·富兰克林
 products_models: []
 project: []
 series: ''

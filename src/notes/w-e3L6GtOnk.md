@@ -14,7 +14,6 @@ layout: post.njk
 media_books:
 - 致爱丽丝
 people:
-- 贝多芬
 - 李佳琦
 products_models:
 - TFSA

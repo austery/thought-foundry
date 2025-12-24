@@ -34,23 +34,12 @@ people:
 - Chrystia Freeland
 - Anita Anand
 - François-Philippe Champagne
-- Christy Clark
-- Sean Fraser
 - Mélanie Joly
 - Dominic LeBlanc
-- Marc Miller
-- Steven MacKinnon
-- Jonathan Wilkinson
-- Jaime Battiste
-- Chandra Arya
-- Frank Baylis
-- Ruby Dhalla
 - Karina Gould
 - Donald Trump
 - Stephen Harper
-- David Dodge
 - George Osborne
-- Diana Fox
 products_models:
 - USMCA
 project:

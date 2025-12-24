@@ -34,8 +34,6 @@ people:
 - Narendra Modi
 - Xi Jinping
 - Vladimir Putin
-- Hsiao Bi-khim
-- Dirk Willer
 products_models:
 - Bitcoin
 project:

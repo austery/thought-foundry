@@ -24,7 +24,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Dylon
 - Peter
 - Elon Musk
 products_models:

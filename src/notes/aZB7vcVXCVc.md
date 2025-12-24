@@ -17,7 +17,6 @@ layout: post.njk
 media_books:
 - 《世界 ahead 2026》
 people:
-- Yuri
 - Trump
 - Elon Musk
 products_models:

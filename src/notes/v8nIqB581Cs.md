@@ -21,9 +21,7 @@ media_books:
 people:
 - Mark Kelly
 - Donald Trump
-- Linda McMahon
 - Howard Lutnik
-- Steve Wickoff
 - George W. Bush
 products_models: []
 project:

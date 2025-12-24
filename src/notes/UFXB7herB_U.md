@@ -30,12 +30,9 @@ media_books:
 people:
 - Donald Trump
 - Volodymyr Zelensky
-- Ruslan
-- Cai Qian
 - Emmanuel Macron
 - Ursula von der Leyen
 - Xi Jinping
-- Qianlong Emperor
 - Adam Smith
 products_models: []
 project:

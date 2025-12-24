@@ -30,7 +30,6 @@ people:
 - 唐石峻
 - 巴菲特
 - 段永平
-- 蒂姆·库克
 products_models:
 - iPhone
 - iPad

@@ -15,7 +15,6 @@ layout: post.njk
 media_books:
 - Ordinary Road
 people:
-- Professor Chu Yin
 - Hegel
 products_models: []
 project:

@@ -18,8 +18,6 @@ people:
 - Natalie Kitroof
 - Shane Goldmaker
 - Abigail Spanberger
-- Mikey Sherrill
-- Zoran Mdani
 - Donald Trump
 - Barack Obama
 - Andrew Cuomo

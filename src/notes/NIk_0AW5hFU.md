@@ -14,13 +14,8 @@ media_books:
 people:
 - Albert Einstein
 - Niels Bohr
-- John Bell
-- Boris Podolsky
-- Nathan Rosen
 - Erwin Schrödinger
 - Werner Heisenberg
-- Adam Becker
-- Alain Aspect
 - Chien-Shiung Wu
 products_models:
 - NordVPN

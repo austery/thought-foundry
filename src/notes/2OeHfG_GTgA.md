@@ -10,10 +10,6 @@ layout: post.njk
 media_books:
 - 《以终为始的人生智慧》
 - 《白大褂的投资者》
-people:
-- Jordan Grumet
-- Angela By
-- 张金鹏律师
 products_models:
 - PIC模型
 project:

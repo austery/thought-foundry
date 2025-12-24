@@ -14,7 +14,6 @@ media_books:
 - Substack
 people:
 - 甘地
-- 尼赫鲁
 - 希特勒
 - 列宁
 - 斯大林

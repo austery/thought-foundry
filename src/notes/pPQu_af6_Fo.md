@@ -18,7 +18,6 @@ media_books:
 - 《纳瓦尔宝典》
 people:
 - 宋晏仁
-- 郝旭烈
 - Naval Ravikant
 - James Clear
 - Charlie Munger

@@ -18,16 +18,6 @@ people:
 - Pam Bondi
 - Kash Patel
 - Charlie Kirk
-- Yu Chao
-- Wong Kar-wai
-- Wang Zhian
-- San Ge Shui Qiang Shou
-- Chai Jing
-- Lele Farley
-- Da Sheng Jie
-- Wu Guoguang
-- Xu Chenggang
-- Su Jing Ayi
 products_models: []
 project:
 - us-analysis

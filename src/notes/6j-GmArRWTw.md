@@ -11,7 +11,6 @@ media_books:
 - talk
 people:
 - donald-trump
-- jerome-powell
 products_models: []
 project: []
 series: ''

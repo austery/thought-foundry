@@ -17,7 +17,6 @@ layout: post.njk
 media_books:
 - 《不平等优势》
 people:
-- Ami
 - Ray
 - Elon Musk
 products_models:

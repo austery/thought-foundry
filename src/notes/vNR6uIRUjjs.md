@@ -36,11 +36,7 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Austin Frerick
-- Doha
-- John Baugh
 - Howard Schultz
-- Mike Froman
 products_models:
 - 'Barons: Money, Power, and the Corruption of America''s Food Industry'
 - Sigma

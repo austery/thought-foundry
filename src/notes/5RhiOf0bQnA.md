@@ -12,13 +12,6 @@ layout: post.njk
 media_books:
 - 《西部买妻》
 - 《中国人的家当》
-people:
-- 马宏杰
-- 戈洪兴
-- 杨林贵
-- 党有娇
-- 鲍风山
-- 陶警官
 products_models: []
 project:
 - historical-insights

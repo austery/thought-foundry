@@ -13,14 +13,6 @@ layout: post.njk
 media_books:
 - 《路加福音》
 - 《詹姆斯王清定本圣经》
-people:
-- 马廷·海德格尔
-- 耶稣
-- 玛利亚
-- 佛祖释迦牟尼
-- 先知穆罕默德
-- Margaret McNeil
-- Morgan Hurd
 products_models: '[]'
 project:
 - personal-growth-lab

@@ -11,8 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Craig Wattrus
-- Amanda Askell
 - Lex Fridman
 products_models:
 - V0

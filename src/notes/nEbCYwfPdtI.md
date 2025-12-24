@@ -16,11 +16,9 @@ media_books:
 people:
 - Donald Trump
 - Elon Musk
-- William Ackman
 - Howard Lutnick
 - Peter Navarro
 - Jared Kushner
-- Steven Bannon
 - Joe Biden
 - Winston Churchill
 - 张春桥

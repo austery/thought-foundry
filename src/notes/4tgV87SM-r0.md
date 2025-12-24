@@ -41,15 +41,12 @@ people:
 - Reid Hoffman
 - Peter Thiel
 - Leon Black
-- Paolo Ardoino
 - David Sacks
 - Brad Gerstner
 - Jensen Huang
 - Michael Burry
 - Stan Druckenmiller
-- Alan Keating
 - Phil Hellmuth
-- Doug Polk
 products_models:
 - H100
 - Gemini 3

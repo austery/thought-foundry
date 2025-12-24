@@ -27,14 +27,12 @@ media_books:
 - Belgravia
 people:
 - 高市早苗
-- 石原慎太郎
 - 王家卫
 - 木村拓哉
 - 李敖
 - Donald Trump
 - 马英九
 - 蔡英文
-- 楼继伟
 products_models:
 - VPN
 project:

@@ -25,9 +25,7 @@ layout: post.njk
 media_books:
 - 《课代表立正》
 people:
-- 徐老师
 - Sam Altman
-- Guru
 products_models:
 - GPT-3
 - ChatGPT

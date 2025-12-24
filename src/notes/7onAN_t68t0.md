@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Edmond Rhys Jones
 products_models:
 - parametric-insurance
 - digital-twins

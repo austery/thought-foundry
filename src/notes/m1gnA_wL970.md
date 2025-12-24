@@ -18,7 +18,6 @@ people:
 - Ilya Sutskever
 - Gary Marcus
 - Yann LeCun
-- Sutton
 products_models:
 - ChatGPT
 - AlphaGo

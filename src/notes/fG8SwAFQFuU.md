@@ -13,7 +13,6 @@ media_books:
 - The Pale Blue Dot
 people:
 - Derek
-- Carl Sagan
 products_models:
 - Voyager 1
 project:

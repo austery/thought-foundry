@@ -72,14 +72,12 @@ people:
 - Jim Simons
 - Howard Marks
 - Ray Dalio
-- Seth Klarman
 - JD Vance
 - Julian Emanuel
 - Peter Navarro
 - Steven Miller
 - Michael Saylor
 - Jim Chanos
-- Chuck Akre
 products_models:
 - Claude
 project:

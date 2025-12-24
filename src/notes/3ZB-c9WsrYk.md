@@ -48,14 +48,10 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 苏姿丰
 - 马云
 - 罗永浩
 - 董宇辉
 - 李佳琦
-- 薇娅
-- 辛有志
-- 疯狂小杨哥
 products_models:
 - 拼多多
 - 京东

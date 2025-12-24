@@ -23,11 +23,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Corey Guyger
-- Austin Freric
-- Mike McCloskey
-- Sue McCloskey
-- William Dempster Horde
 products_models:
 - Fairlife
 - Celsius

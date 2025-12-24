@@ -12,9 +12,7 @@ media_books:
 - The Economist
 people:
 - Scott Bessent
-- Elvira Nabiullina
 - Putin
-- Kaiser
 products_models: []
 project:
 - geopolitics-watch

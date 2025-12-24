@@ -11,7 +11,6 @@ insight: null
 layout: post.njk
 people:
 - Nicolai Tangen
-- Børge Brende
 products_models: []
 project:
 - ai-impact-analysis

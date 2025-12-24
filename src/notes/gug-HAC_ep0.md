@@ -15,11 +15,7 @@ layout: post.njk
 media_books:
 - 《财经》
 people:
-- 王小平
-- 张丹丹
-- 马艺珈伊
 - Donald Trump
-- Chun Li Ping
 products_models: []
 project:
 - china-analysis

@@ -19,29 +19,14 @@ media_books:
 people:
 - Kyle Harper
 - David Reich
-- Will Durant
-- Justinian
-- Edward Gibbon
-- Galen
 - Ptolemy
-- Pliny the Elder
 - Augustus
 - Francis Bacon
 - Isaac Newton
-- Denis Papin
 - Gottfried Wilhelm Leibniz
 - Nat Friedman
 - Euclid
-- Diophantus
 - Aristotle
-- Spartacus
-- Aldo Schiavone
-- Commodus
-- Samuel Pepys
-- James C. Scott
-- Alexandre Yersin
-- Edward Jenner
-- Louis Pasteur
 - Joseph Henrich
 - Julius Caesar
 products_models: []

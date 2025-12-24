@@ -16,7 +16,6 @@ media_books:
 - AI Supremacy
 - Right Kind of Wrong
 people:
-- Peter Harrison
 - Jonathan Haidt
 - Amy Edmondson
 - Boris Johnson

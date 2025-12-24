@@ -8,10 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 胡晨峰
-- 戴孟
-- 风哥
 products_models: []
 project:
 - ai-impact-analysis

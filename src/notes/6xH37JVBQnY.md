@@ -10,7 +10,6 @@ layout: post.njk
 media_books:
 - the-lost-daughter
 people:
-- elena-ferrante
 - stella-an
 products_models: []
 project: []

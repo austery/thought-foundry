@@ -19,26 +19,8 @@ media_books:
 - The First 1,701,936 Knots
 people:
 - Alan Turing
-- Peter Guthrie Tait
-- William Thomson
-- Lord Kelvin
 - James Clerk Maxwell
-- Kurt Reidemeister
-- Wolfgang Haken
-- Vaughan Jones
-- Joan Birman
-- Thomas Kirkman
-- Charles Little
-- Kenneth Perko
 - John Conway
-- Dowker
-- Thistlethwaite
-- Hoste
-- Weeks
-- Ben Burton
-- Jean-Pierre Sauvage
-- Dorian Raymer
-- Douglas Smith
 products_models:
 - Kevlar
 - Quinolones

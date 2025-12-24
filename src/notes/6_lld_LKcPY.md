@@ -13,11 +13,7 @@ media_books:
 - Dramafree
 people:
 - Anna Martin
-- Nedra Glover Touab
 - Amy
-- Gordon
-- Stephanie
-- Ila
 products_models: []
 project:
 - personal-growth-lab

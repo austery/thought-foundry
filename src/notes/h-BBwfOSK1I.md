@@ -13,11 +13,6 @@ layout: post.njk
 media_books:
 - 《三傻大闹宝莱坞》
 - 彭博社
-people:
-- Ruchika Tandon
-- Piraya
-- Govind
-- Gopal
 products_models:
 - Skype
 - Telegram

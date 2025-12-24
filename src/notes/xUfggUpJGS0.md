@@ -16,17 +16,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Juan Vicente Gómez
-- Pérez Jiménez
-- Betancourt
-- Caldera
-- Villalba
-- Carlos Andrés Pérez
-- Juan Pablo Pérez Alfonzo
-- Luis Herrera Campins
-- Blanca Ibáñez
 - Hugo Chávez
-- Louis Armstrong
 products_models: []
 project:
 - geopolitics-watch

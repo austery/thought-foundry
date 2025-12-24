@@ -23,18 +23,12 @@ media_books:
 - 《白宫风云》
 - 《纸牌屋》
 people:
-- Olivia Nuzzi
 - Robert F. Kennedy Jr.
-- Ryan Lizza
 - Donald Trump
 - Joe Biden
-- Sarah Huckabee Sanders
 - Rudy Giuliani
 - Andrew Cuomo
 - Eric Adams
-- Mark Sanford
-- Keith Olbermann
-- Cheryl Hines
 products_models: []
 project:
 - us-analysis

@@ -17,14 +17,12 @@ media_books:
 - The Black Swan
 people:
 - Malcolm Gladwell
-- Nicola Tan
 - Bill Clinton
 - Adam Grant
 - John le Carré
 - J.K. Rowling
 - Steve Jobs
 - Donald Trump
-- Kate
 products_models: []
 project:
 - systems-thinking

@@ -16,21 +16,6 @@ media_books:
 - 《你想活出怎样的人生》
 - 《狂人日记》
 - artistic-book
-people:
-- 开开
-- 嘉佳
-- 豆豆
-- 草莓
-- 至柔
-- 朵朵
-- 图钉
-- 穗穗
-- 安安
-- 双而
-- 清欢
-- 小愚
-- 滢滢
-- Lucy Lippard
 products_models: []
 project:
 - cultural-critique

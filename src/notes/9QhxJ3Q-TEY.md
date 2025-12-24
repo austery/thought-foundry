@@ -11,9 +11,7 @@ media_books:
 - The State Nobility
 people:
 - Anthony
-- Bourdieu
 - Max Weber
-- Sartre
 products_models: []
 project:
 - china-analysis

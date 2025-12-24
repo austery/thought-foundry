@@ -9,37 +9,21 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 李沪尘
-- 纪连海
-- 颜从年
 - 孙中山
-- 当年明月
-- 王力雄
-- 郭继承
 - 沈逸
-- 金灿荣
-- 方志敏
 - 毛泽东
 - 王志安
-- 宋鸿兵
 - 邓小平
 - 蒋介石
 - 陈云
 - 刘仲敬
-- 顾颉刚
 - 鲁迅
-- Otto von Bismarck
 - Martin Luther King Jr.
-- 袁阔成
-- 易中天
 - 贺卫方
 - Xi Jinping
 - 李自成
 - 努尔哈赤
-- Benedetto Croce
 - 董宇辉
-- 罗翔
-- huanghan
 products_models:
 - 《明朝那些事儿》
 - 《毛选》

@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Bank Har Scan
 products_models: []
 project:
 - investment-strategy

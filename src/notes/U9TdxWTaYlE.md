@@ -28,7 +28,6 @@ media_books:
 - All-In Podcast
 - SemiAnalysis
 people:
-- Tareq Amin
 - Muhammad bin Salman
 - David Sacks
 - Donald Trump

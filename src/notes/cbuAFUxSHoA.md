@@ -10,7 +10,6 @@ layout: post.njk
 media_books:
 - bloomberg-podcasts
 people:
-- ken griffin
 - trump
 products_models: []
 project:

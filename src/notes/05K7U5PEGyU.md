@@ -16,21 +16,15 @@ layout: post.njk
 people:
 - Donald Trump
 - 毛泽东
-- 王兴
-- 曼德拉
 - 甘地
-- 黄之锋
 - 胡适
 - Xi Jinping
-- 王飞林
 - 孟晚舟
-- 谭嗣同
 - 康有为
 - 梁启超
 - 郑南榕
 - 刘强东
 - 许志永
-- 郭飞雄
 - 刘晓波
 products_models:
 - ChatGPT

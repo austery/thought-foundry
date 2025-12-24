@@ -15,9 +15,6 @@ media_books:
 - The Daily
 people:
 - Rachel Abrams
-- Hussein
-- Ra'ad
-- Nidal Kahil
 products_models: []
 project:
 - geopolitics-watch

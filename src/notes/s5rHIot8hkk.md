@@ -16,12 +16,9 @@ layout: post.njk
 people:
 - Nicola Tangan
 - Bob Iger
-- Walt Disney
 - Paul McCartney
 - Steven Spielberg
 - Steve Jobs
-- Brothers Grimm
-- H. Christian Anderson
 products_models:
 - Disney+
 - Snow White

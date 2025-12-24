@@ -9,15 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《国民心理健康发展报告》
-people:
-- 王佳莹
-- 埃里克森
-- 阿奈特
-- 马丁·塞利格曼
-- 温尼科特
-- 荣格
-- 阿德勒
-- 罗宾·邓巴
 products_models: []
 project:
 - us-analysis

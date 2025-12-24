@@ -1,34 +1,30 @@
 ---
-title: China's K Visa Policy:A Bid for Tech Supremacy Amidst Public Backlash
+area: market-analysis
+author: Lei
+category: geopolitics
+companies_orgs: []
+date: 2025-10-04
+draft: true
+guest: ''
+insight: null
+layout: post.njk
+products_models: []
+project:
+- us-analysis
+series: null
+source: null
+speaker: ''
+status: evergreen
 summary: A discussion on China's new K visa policy, exploring its goal of attracting
   foreign tech talent to overcome technological bottlenecks, the intense public and
   nationalist backlash it has triggered, and its potential effectiveness in the ongoing
   US-China tech war.
-area: market-analysis
-category: geopolitics
-project:
-- us-analysis
 tags:
 - life
 - talent
 - tech
 - us-china-relations
-people:
-- Houchen
-- Jia
-- Wu
-companies_orgs: []
-products_models: []
-date: 2025-10-04
-author: Lei
-speaker: ''
-draft: true
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: null
-status: evergreen
+title: China's K Visa Policy:A Bid for Tech Supremacy Amidst Public Backlash
 ---
 
 ## 从“外国人永居条例”风波谈起

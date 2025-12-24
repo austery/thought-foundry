@@ -15,8 +15,6 @@ media_books:
 - 《馬關條約》
 people:
 - 莊也
-- 蔣經國
-- 李登輝
 products_models:
 - Google Map
 - 悠遊卡

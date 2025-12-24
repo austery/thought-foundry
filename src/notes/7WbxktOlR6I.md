@@ -14,17 +14,9 @@ media_books:
 - 《The Daily Beast》
 people:
 - 唐纳德·特朗普
-- 史蒂夫·班农
-- 玛乔丽·泰勒·格林
-- 麦克斯韦
 - 比尔·盖茨
-- 安德鲁王子
 - 巴拉克·奥巴马
 - 内塔尼亚胡
-- 迈克·彭斯
-- 卡马拉·哈里斯
-- 尼克·福恩特斯
-- 坎纳斯
 products_models: []
 project:
 - us-analysis

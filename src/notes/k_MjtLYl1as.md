@@ -20,8 +20,6 @@ people:
 - Xi Jinping
 - Kim Jong Un
 - Vladimir Putin
-- 于星成
-- 洪浩
 products_models: []
 project:
 - us-analysis

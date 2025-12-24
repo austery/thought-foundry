@@ -12,9 +12,6 @@ people:
 - Lei
 - Frank
 - Vivian
-- Zhao Rui
-- Wang Will
-- Alvin
 products_models: []
 project:
 - investment-strategy

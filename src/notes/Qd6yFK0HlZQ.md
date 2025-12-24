@@ -20,22 +20,11 @@ media_books:
 - 《光明报》
 - Time Magazine
 people:
-- Wu Shi
-- Guo Ruguai
 - Mao Zedong
 - Xi Jinping
 - Chiang Kai-shek
-- Zhu Feng
-- Wang Shijian
-- Mao Renfeng
-- Cai Xiaoqian
-- Chiang Ching-kuo
-- Kim Il Sung
 - Harry S. Truman
 - Joseph McCarthy
-- John Fairbank
-- Gao Anguo
-- Shen Boyang
 products_models: []
 project:
 - china-analysis

@@ -18,8 +18,6 @@ people:
 - James Comey
 - Leticia James
 - Lindseay Halligan
-- Jack Smith
-- Aileen Cannon
 - Mark Kelly
 products_models: []
 project:

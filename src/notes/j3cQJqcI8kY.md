@@ -12,9 +12,7 @@ layout: post.njk
 media_books:
 - Hamilton
 people:
-- George E Newman
 - Taylor Swift
-- John Hughes
 products_models:
 - Simon Garfunkel record
 - Instant Pot

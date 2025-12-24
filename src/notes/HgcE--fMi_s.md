@@ -11,7 +11,6 @@ media_books:
 - 《原始思维》
 - 《田园诗与狂想曲》
 people:
-- Lévy-Bruhl
 - Descartes
 - Kant
 - 秦晖

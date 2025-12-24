@@ -10,7 +10,6 @@ layout: post.njk
 media_books: []
 people:
 - donald-trump
-- howard-lutnick
 products_models: []
 project:
 - entrepreneurship

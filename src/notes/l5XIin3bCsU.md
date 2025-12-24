@@ -15,10 +15,7 @@ media_books:
 - WhatsApp
 people:
 - 萨特
-- 科尔凯古尔
-- 王骁
 - 罗振宇
-- 胡歌
 products_models: []
 project:
 - geopolitics-watch

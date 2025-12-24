@@ -13,10 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Tonight Show
-people:
-- Leslie Liao
-- 基洛维奇
-- Ali Abdaal
 products_models: '[]'
 project:
 - personal-growth-lab

@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- charlie-jarvis
 products_models: []
 project:
 - investment-strategy

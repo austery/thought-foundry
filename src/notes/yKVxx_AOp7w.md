@@ -18,16 +18,12 @@ media_books:
 people:
 - Justin Trudeau
 - Donald Trump
-- Frank Baylis
 - Karina Gould
 - Chrystia Freeland
 - Mark Carney
 - Pierre Poilievre
-- Erin O'Toole
-- Andrew Scheer
 - Stephen Harper
 - Doug Ford
-- Ruby Dhalla
 products_models: []
 project:
 - us-analysis

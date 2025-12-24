@@ -13,11 +13,6 @@ layout: post.njk
 media_books:
 - 知行小酒馆
 - 小红书
-people:
-- 朝珺
-- 孟严
-- 萧羽
-- 郑钦文
 products_models:
 - Web3
 - 元宇宙

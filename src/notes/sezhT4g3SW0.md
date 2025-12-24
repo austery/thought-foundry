@@ -17,13 +17,7 @@ layout: post.njk
 media_books:
 - River of No Return
 people:
-- Marilyn Monroe
-- Edith Cavell
-- Pierre Bostonais
-- Princess Patricia
 - Queen Victoria
-- King George V
-- Princess Louise
 products_models: []
 project:
 - historical-insights

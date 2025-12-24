@@ -8,7 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- George Berkeley
 - John Locke
 - David Hume
 products_models: []

@@ -28,13 +28,10 @@ people:
 - Bernie Sanders
 - Elon Musk
 - Tucker Carlson
-- David Saxsberg
-- Jim O'Shaughnessy
 - Peter Thiel
 - Donald Trump
 - Joe Biden
 - Mike Pompeo
-- Vitalic Buterin
 products_models:
 - GPT-4
 - H100s

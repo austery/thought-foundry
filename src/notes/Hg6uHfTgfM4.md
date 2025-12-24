@@ -12,7 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-- 陈姿逸
 products_models: []
 project:
 - personal-growth-lab

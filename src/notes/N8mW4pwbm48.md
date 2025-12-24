@@ -11,10 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 陈悦月
-- 王路飞
 - 赖清德
-- 李智英
 - 胡锡进
 products_models:
 - GPT-4

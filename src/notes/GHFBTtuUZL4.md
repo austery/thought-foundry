@@ -28,7 +28,6 @@ people:
 - David Ellison
 - Larry Ellison
 - Ted Sarandos
-- Jack Welch
 products_models: []
 project:
 - us-analysis

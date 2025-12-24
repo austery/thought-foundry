@@ -49,7 +49,6 @@ people:
 - Donald Trump
 - Michael Burry
 - Vlad Tenev
-- R.J. Scaringe
 - Anthony Noto
 - Leticia James
 products_models:

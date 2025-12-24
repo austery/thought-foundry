@@ -22,8 +22,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 洛根
-- 施密德
 - 黄仁勋
 products_models: []
 project:

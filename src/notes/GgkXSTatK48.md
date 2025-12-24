@@ -18,10 +18,6 @@ insight: ''
 layout: post.njk
 people:
 - Elon Musk
-- Shaun Maguire
-- Nicolas Bourbaki
-- Stanislav Smirnov
-- Wendelin Werner
 - Magnus Carlsen
 - Jensen Huang
 products_models:

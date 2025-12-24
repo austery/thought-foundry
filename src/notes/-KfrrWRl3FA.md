@@ -23,17 +23,12 @@ layout: post.njk
 media_books:
 - Her
 people:
-- Eugenia Kuyda
 - Greg Brockman
 - Sam Altman
 - Ilia Sutskever
 - Andre Karpathy
 - Alec Radford
 - Mr. Beast
-- Heaton
-- Anish
-- Justine
-- Samantha Johansson
 products_models:
 - ChatGPT
 - Gemini

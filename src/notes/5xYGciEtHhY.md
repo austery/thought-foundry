@@ -28,14 +28,9 @@ media_books:
 people:
 - Jony Ive
 - Tim Cook
-- Terry Guo
 - Steve Jobs
 - Steve Wozniak
 - Deng Xiaoping
-- John Rubenstein
-- David Wolfe
-- Stephany Lapierre
-- Patrick Magee
 products_models:
 - iPhone
 - iPod

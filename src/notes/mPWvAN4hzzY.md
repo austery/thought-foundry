@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 何愷明
 products_models:
 - Adagrad
 - RMSprop

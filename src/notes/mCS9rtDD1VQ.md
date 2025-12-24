@@ -21,13 +21,7 @@ media_books:
 - 《制度，制度變遷和經濟績效》
 - 《为什么你勤劳但是不富有》
 people:
-- 熊彼特
-- 康德拉季耶夫
-- 乔治 莫德尔斯基
 - Donald Trump
-- 凡伯伦
-- 康芒斯
-- 道格拉斯 诺斯
 products_models: []
 project:
 - geopolitics-watch

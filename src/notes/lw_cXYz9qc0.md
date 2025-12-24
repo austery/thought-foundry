@@ -15,18 +15,11 @@ layout: post.njk
 media_books: '[]'
 people:
 - Xi Jinping
-- 马朝旭
 - 何立峰
 - 蔡奇
 - 王毅
-- 郑山杰
-- 王文涛
 - Donald Trump
-- Scott Basin
-- 马克鲁比奥
-- 哈维拉
 - 苏c瓦尔斯特
-- 詹姆斯克格瑞尔
 - 黄仁勋
 products_models:
 - H20

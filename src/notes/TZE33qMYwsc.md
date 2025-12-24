@@ -32,20 +32,12 @@ media_books:
 - Get That Job at Grab
 - Sapiens
 people:
-- Steve Yegge
 - Jeff Bezos
 - Kent Beck
-- Scott Belsky
 - Dario Amodei
 - Simon Willison
 - Andrej Karpathy
-- Jason Clinton
-- Jean Kim
-- Michael Abrash
-- Grady Booch
 - Larry Page
-- Vic Gundotra
-- Theo Vassilakis
 products_models:
 - Google+
 - Flutter

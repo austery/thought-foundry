@@ -14,9 +14,6 @@ media_books:
 - 《宗教哲学讲演录》
 - 《人民日报》
 people:
-- Qian Xuesen
-- Hua Luogeng
-- Ba Jin
 - Mao Zedong
 - Hegel
 products_models: []

@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - bloomberg-podcasts
-people:
-- macron
 products_models: []
 project:
 - ai-impact-analysis

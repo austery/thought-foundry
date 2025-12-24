@@ -21,21 +21,6 @@ media_books:
 - Odd Lots
 - The Godfather
 people:
-- Jerry Jones
-- Alex Rodriguez
-- George Steinbrenner
-- Phil Knight
-- Eddie Sutton
-- Al Michaels
-- Dan Dierdorf
-- Paul Tagliabue
-- Don Tyson
-- Bum Bright
-- Gene Jones
-- Charlotte Jones
-- Jeannie Buss
-- Stephen A. Smith
-- Red McCombs
 - Ben Franklin
 products_models: []
 project:

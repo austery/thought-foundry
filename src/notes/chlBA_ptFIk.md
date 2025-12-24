@@ -15,9 +15,7 @@ layout: post.njk
 media_books:
 - 《大夫训练》
 people:
-- 吴肇基
 - 宋晏仁
-- 陈亮恭
 products_models: []
 project:
 - personal-growth-lab

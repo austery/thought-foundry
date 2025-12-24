@@ -26,18 +26,9 @@ people:
 - John Maynard Keynes
 - Larry David
 - Matt Damon
-- Ridley Scott
 - George Orwell
-- Walter Cronkite
-- Huntley
-- Brinkley
-- Michael Chwe
 - Alan Greenspan
-- Thomas Schelling
 - Mahatma Gandhi
-- Johnny Carson
-- Justin Wolfers
-- Nicolae Ceaușescu
 products_models:
 - Apple Macintosh
 - Discover Card

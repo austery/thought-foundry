@@ -16,11 +16,6 @@ layout: post.njk
 media_books:
 - 《Through the Looking Glass》
 - 《Frederick Appelbaum的著作》
-people:
-- Jacob Kimmel
-- Shinya Yamanaka
-- Alexander Fleming
-- Alexander von Humboldt
 products_models:
 - Ozempic
 - Tirzepatide

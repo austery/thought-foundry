@@ -12,8 +12,6 @@ layout: post.njk
 media_books:
 - 希拉里大电影
 people:
-- 普莱希·哈里森
-- 保罗·舒梅克
 - 巴拉克·奥巴马
 - 希拉里·克林顿
 products_models: []

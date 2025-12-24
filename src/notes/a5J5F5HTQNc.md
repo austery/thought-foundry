@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Saskia Sivanathan
 products_models:
 - Lecanemab
 - Leqembi

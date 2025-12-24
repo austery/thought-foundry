@@ -12,11 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《JAMA Neurology》
-people:
-- 吉爾曼
-- 古德曼
-- John Eng
-- Richard Viney
 products_models:
 - 芥子氣
 - 氮芥

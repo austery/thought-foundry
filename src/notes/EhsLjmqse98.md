@@ -16,9 +16,6 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 - Donald Trump
-- Erica McNurfer
-- Bill Beach
-- St. Peter
 - Jerome Powell
 - Richard Nixon
 products_models:

@@ -11,7 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Matt Tilleard
 - Donald Trump
 - Vladimir Putin
 - Xi Jinping

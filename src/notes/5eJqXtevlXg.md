@@ -12,9 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Agents Rule of Two
-people:
-- Brian John
-- Dex Hory
 products_models:
 - Codeex CLI
 - Clog Code

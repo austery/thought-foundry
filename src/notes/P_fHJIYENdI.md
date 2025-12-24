@@ -16,11 +16,6 @@ layout: post.njk
 media_books:
 - 3Blue1Brown
 people:
-- John Kendrew
-- Linus Pauling
-- Cyrus Levinthal
-- John Moult
-- David Baker
 - Demis Hassabis
 - Lee Sedol
 - John Jumper

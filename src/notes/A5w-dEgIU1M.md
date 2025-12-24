@@ -21,18 +21,10 @@ media_books:
 people:
 - Jim Simons
 - Isaac Newton
-- Louis Bachelier
-- Thales of Miletus
 - Joseph Fourier
-- Robert Brown
 - Albert Einstein
-- Ed Thorpe
-- Fischer Black
 - Myron Scholes
-- Robert Merton
 - Henri Poincaré
-- Leonard Baum
-- Bradford Cornell
 products_models:
 - Medallion Fund
 - Eight Sleep Pod

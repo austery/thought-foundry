@@ -9,7 +9,6 @@ guest: ''
 insight: null
 layout: post.njk
 people:
-- 查秉全
 - 林静芝
 products_models: []
 project: []

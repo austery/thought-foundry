@@ -26,7 +26,6 @@ media_books:
 people:
 - Elon Musk
 - Yann LeCun
-- Rob Brooks
 products_models:
 - Optimus
 - GPT-4

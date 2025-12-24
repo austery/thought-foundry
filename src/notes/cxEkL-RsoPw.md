@@ -16,15 +16,9 @@ layout: post.njk
 media_books:
 - 《黑客与画家》
 people:
-- 赵汗青
 - 宫崎骏
-- 科比·布莱恩特
-- 奥尼尔
 - 埃隆·马斯克
-- 史蒂夫·乔布斯
-- 保罗·格拉汉姆
 - 李安
-- 蔡浩宇
 products_models:
 - GPT-4o
 - Midjourney V3

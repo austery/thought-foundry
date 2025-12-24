@@ -22,13 +22,9 @@ media_books:
 people:
 - Nicola Tangan
 - Michael Dell
-- Fred Smith
-- Charles Schwab
 - Bill Gates
 - Steve Jobs
 - Sam Altman
-- Greg Lemkau
-- Byron Trott
 products_models:
 - IBM PC
 - PC

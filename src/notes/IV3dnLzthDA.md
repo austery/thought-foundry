@@ -24,15 +24,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Thomas Midgley Jr.
-- Clair Patterson
-- Byron Carter
-- Henry Leland
-- Charles Kettering
 - Benjamin Franklin
-- John McNeil
-- Frank Howard
-- George Tilton
 products_models:
 - Cadillac Model 30
 - Freon

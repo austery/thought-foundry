@@ -25,15 +25,11 @@ media_books:
 people:
 - Steve Paikin
 - Red Wilson
-- Laura Babcock
-- Peter Sherman
 - Donald Trump
-- Stephen Fine
 - John Taylor
 - Gavin Newsom
 - Ronald Reagan
 - Doug Ford
-- William Lyon Mackenzie King
 products_models:
 - Nexus Card
 - I-94 Form

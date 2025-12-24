@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: general
+companies:
+- meta-discipline
 companies_orgs: []
 date: '2025-08-06'
 draft: true
@@ -12,7 +14,6 @@ media_books:
 - 《看透世界：100个哲学大概念开悟人生！》
 - 《西方哲学史》
 people:
-- 休谟
 - 康德
 - 黑格尔
 - 泰勒斯
@@ -22,11 +23,9 @@ people:
 - 柏拉图
 - 亚里士多德
 - 尼采
-- 叔本华
 - 萨特
 - 海德格尔
 - 维特根斯坦
-- 西周
 products_models:
 - DeepSeek
 - Gemini
@@ -46,8 +45,6 @@ tags:
 - llm
 - thinking
 title: 在AI时代，为何我们更应学习哲学：打破“做题家”思维，培养元学科能力
-companies:
-- meta-discipline
 ---
 
 ### 告别“做题家”思维：AI时代下的挑战与反思

@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-- 馬大元
 - 孔子
 products_models:
 - 煥然一新大腦快樂學

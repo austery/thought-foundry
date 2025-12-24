@@ -19,18 +19,7 @@ media_books:
 - 《中国的自由主义者为什么不支持女权主义》
 - 《送我上青云》
 people:
-- 李思磐
 - 艾晓明
-- 郭建梅
-- 梁军
-- 高小贤
-- 邝飙
-- 叶海燕
-- 吕频
-- 王思聪
-- 黄雪琴
-- 梁钰
-- 杨国斌
 products_models: []
 project:
 - china-analysis

@@ -14,7 +14,6 @@ media_books:
 - IKE
 - MEND
 people:
-- Bill Hines
 - Larry Page
 - Albert Einstein
 - Lionel Messi

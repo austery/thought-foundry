@@ -13,17 +13,6 @@ layout: post.njk
 media_books:
 - 《西子姑娘》
 - 《巨流河》
-people:
-- 张钊维
-- 刘粹刚
-- 许希麟
-- 陈炳靖
-- 金英
-- 金士杰
-- 汤卜生
-- 胡德夫
-- 刘兆玄
-- 张伯苓
 products_models:
 - 零式战斗机
 - 《冲天》

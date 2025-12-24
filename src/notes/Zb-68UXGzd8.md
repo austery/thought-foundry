@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Thomas Sowell
 products_models: []
 project:
 - us-analysis

@@ -18,7 +18,6 @@ people:
 - 胡锦涛
 - 邓小平
 - 老布什
-- 麦克格罗提
 - 王浩
 - Xi Jinping
 products_models:

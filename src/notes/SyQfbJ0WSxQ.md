@@ -16,9 +16,6 @@ layout: post.njk
 people:
 - Christine Lagarde
 - Al Gore
-- Olav H. Hauge
-- Chancellor Mertz
-- Jane Goodall
 products_models: []
 project:
 - geopolitics-watch

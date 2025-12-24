@@ -14,11 +14,7 @@ media_books:
 - monetarymacro.com
 - Charles Payne Show
 people:
-- Myron
-- Bowman
 - Powell
-- Logan
-- Charles Payne
 products_models: []
 project:
 - us-analysis

@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- tsmc-overseas-expansion
 companies_orgs:
 - 台积电
 - Altera
@@ -37,11 +39,6 @@ media_books:
 people:
 - Donald Trump
 - 张忠谋
-- 刘德音
-- 侯永清
-- 魏哲家
-- Rick Cassidy
-- Frank Yeary
 products_models:
 - iPhone
 - iPad
@@ -65,8 +62,6 @@ tags:
 - manufacturing
 - semiconductor-supply-chain
 title: 台积电海外建厂：一场昂贵的战略妥协与全球科技格局的重塑
-companies:
-- tsmc-overseas-expansion
 ---
 
 ### 引言：台积电的全球影响力与海外扩张浪潮

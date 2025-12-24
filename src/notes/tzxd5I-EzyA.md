@@ -14,17 +14,8 @@ media_books:
 - Lex Fridman Podcast
 - Tucker Carlson
 people:
-- Joeri
-- Alejandro
-- Gary
 - Michael Saylor
-- Richard Werner
-- Steve Keen
-- Greg Kaplan
 - Angus Deaton
-- Joseph Stiglitz
-- Toni Atkinson
-- Piketty
 - Ray Dalio
 - Cathie Wood
 products_models:

@@ -38,28 +38,14 @@ media_books:
 - Autumn Harvest Uprising
 people:
 - Karl Marx
-- Friedrich Engels
-- Gracchus Babeuf
-- Wilhelm Weitling
-- Yu Laoshi
 - Jesus
-- Moses
 - Adam
-- Eve
 - Adam Smith
 - David Ricardo
 - Vladimir Lenin
 - Joseph Stalin
 - Mao Zedong
 - Xi Jinping
-- Wang Ming
-- He Long
-- Hu Dahai
-- Sha Gen
-- Wang Xuetai
-- Jiang Jie
-- Liu Hulan
-- Lan Dingtian
 products_models: []
 project:
 - historical-insights

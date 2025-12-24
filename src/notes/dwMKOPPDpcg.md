@@ -13,10 +13,6 @@ media_books:
 - 《圣经》
 people:
 - 柴静
-- Sheref Kouachi
-- Farid Ben Yetu
-- David Walid
-- Suhail Ahmad
 products_models: []
 project:
 - geopolitics-watch

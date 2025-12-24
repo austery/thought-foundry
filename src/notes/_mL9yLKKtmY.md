@@ -18,9 +18,6 @@ media_books:
 - A Curious Mind
 people:
 - Nicolai Tangen
-- Brian Moynihan
-- Jim Collins
-- Brian Grazer
 products_models:
 - Erica
 - Zelle

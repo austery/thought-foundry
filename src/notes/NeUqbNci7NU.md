@@ -17,15 +17,12 @@ layout: post.njk
 media_books:
 - 《经济学人》
 people:
-- 枫糖小猫
 - Nobita
 - OC伯伯
-- 曾博
 - Mark Zuckerberg
 - 高市早苗
 - 泽连斯基
 - 索隆
-- 丁毅
 - 蒋介石
 - 麻生太郎
 - 秦辉

@@ -22,7 +22,6 @@ people:
 - Barack Obama
 - Donald Trump
 - Joe Biden
-- Condoleezza Rice
 - Saddam Hussein
 - Hillary Clinton
 - Boris Yeltsin

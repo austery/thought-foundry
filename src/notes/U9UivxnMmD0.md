@@ -20,8 +20,6 @@ people:
 - Rachel Notley
 - Doug Ford
 - Chrystia Freeland
-- Stephanie Levitz
-- Tim Hodgson
 products_models:
 - Building Canada Act
 project:

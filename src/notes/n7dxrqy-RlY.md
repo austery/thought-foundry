@@ -15,14 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Rundown
-people:
-- Diana Matheson
-- Michelle Mama
-- Amy Walsh
-- Erin McLeod
-- Connie
-- Christina Litz
-- Mark Cohen
 products_models:
 - The Pitch
 project:

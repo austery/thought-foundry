@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Dietrich Braess
 products_models:
 - Incogni
 project:

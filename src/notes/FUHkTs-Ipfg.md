@@ -10,10 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Shivan Kartha
-- Bruce Taub
-- Doug Jungreis
 products_models:
 - SAT
 - Brilliant

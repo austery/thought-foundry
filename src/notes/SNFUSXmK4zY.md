@@ -33,13 +33,10 @@ media_books:
 people:
 - Xi Jinping
 - Donald Trump
-- 陆峰
-- 彭森
 - Scott Bessent
 - 何立峰
 - Janet Yellen
 - Ursula von der Leyen
-- John McCown
 products_models: []
 project:
 - china-analysis

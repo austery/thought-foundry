@@ -47,12 +47,9 @@ people:
 - Howard Lutnik
 - Donald Trump
 - John Williams
-- Mary C. Daly
 - Christopher Waller
 - David Friedberg
 - Jerome Powell
-- Moran
-- Bowman
 - Tom Lee
 products_models:
 - Gemini 3

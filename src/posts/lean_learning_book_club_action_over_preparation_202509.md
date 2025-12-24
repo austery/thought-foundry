@@ -1,56 +1,17 @@
 ---
-author: Lei
-date: '2025-09-30'
-guest: null
-layout: post.njk
-source: ''
-speaker: null
-title: 《精益学习法》读书会：摸着石头过河，在行动中内化知识
-summary: 这是一场关于《精益学习法》(The Lean Learning) 的读书会。分享者们探讨了 'Just-in-Time' 信息、行动先于准备、以及
-  '摸着石头过河' 的重要性。大家结合各自在内容创作、职业发展和家庭生活中的经历，分享了如何克服信息过载、运用 '自愿约束' (voluntary force function)
-  和从行动中学习的深刻体会。活动也预告了下个月将共读的书籍《财富的阶梯》(The Wealth Ladder)。
 area: personal-systems
+author: Lei
 category: productivity
-project:
-- personal-growth-lab
-tags:
-- information-overload
-- learning
-- time
-people:
-- Ray
-- Giselle
-- Alex
-- Betty
-- Eliza
-- Vincent
-- Evan
-- Max
-- 小西瓜
-- Zalira
-- Paul Miller
-- Vivi
-- Caleb
-- Ramy
-- James Clear
-- Ali Abdaal
-- Oliver Burkeman
-- Ivy
-- Buffett
-- Duan Yongping
-- 查理·芒格
 companies_orgs:
 - YouTube
 - Google
 - Circle
 - Tesla
 - Twitter
-products_models:
-- SwitchPod
-- Final Cut Pro
-- DaVinci Resolve
-- SM7B
-- Flo-mo
+date: '2025-09-30'
+draft: true
+guest: null
+layout: post.njk
 media_books:
 - 《Just Keep Buying》
 - 《Good Work》
@@ -70,8 +31,40 @@ media_books:
 - 《The Home of Humanity》
 - 《绿山墙的安妮》
 - book-club
-draft: true
+people:
+- Ray
+- Alex
+- Betty
+- Vincent
+- Evan
+- Max
+- 小西瓜
+- Zalira
+- Vivi
+- James Clear
+- Oliver Burkeman
+- Buffett
+- Duan Yongping
+- 查理·芒格
+products_models:
+- SwitchPod
+- Final Cut Pro
+- DaVinci Resolve
+- SM7B
+- Flo-mo
+project:
+- personal-growth-lab
+source: ''
+speaker: null
 status: evergreen
+summary: 这是一场关于《精益学习法》(The Lean Learning) 的读书会。分享者们探讨了 'Just-in-Time' 信息、行动先于准备、以及
+  '摸着石头过河' 的重要性。大家结合各自在内容创作、职业发展和家庭生活中的经历，分享了如何克服信息过载、运用 '自愿约束' (voluntary force function)
+  和从行动中学习的深刻体会。活动也预告了下个月将共读的书籍《财富的阶梯》(The Wealth Ladder)。
+tags:
+- information-overload
+- learning
+- time
+title: 《精益学习法》读书会：摸着石头过河，在行动中内化知识
 ---
 
 ## 读书会开场与社群近况

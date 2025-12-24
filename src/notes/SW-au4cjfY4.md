@@ -21,17 +21,13 @@ people:
 - Joe Wisenthal
 - Tracy Aloway
 - Joseph Torigian
-- Xi Zhongxun
 - Xi Jinping
 - Mao Zedong
 - Deng Xiaoping
 - Zhou Enlai
-- Gao Gang
 - Peng Dehuai
 - Nikita Khrushchev
 - Stalin
-- Stanford Cotkin
-- Dalai Lama
 products_models:
 - Gemini Flash
 project:

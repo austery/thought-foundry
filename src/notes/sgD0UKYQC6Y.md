@@ -16,7 +16,6 @@ media_books:
 - 《IT狂人》
 people:
 - Sam Altman
-- Richard Hamming
 - Geoffrey Hinton
 - Steve Jobs
 products_models:

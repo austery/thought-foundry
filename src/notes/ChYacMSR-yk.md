@@ -21,17 +21,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《奢侈品战略》
-people:
-- Nicolas Hayek
-- Nick Hayek
-- Nayla Hayek
-- Steven Wood
-- Marc Hayek
-- Geoff Hess
-- Ernst Tanner
-- Daniela Aeschlimann
-- Jean-Pierre Roth
-- Claude Nicollier
 products_models:
 - Swatch
 - Omega

@@ -9,10 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Rhythm Garg
-- Linden Li
-- Yash
 products_models:
 - GPOSS models
 - Llama models

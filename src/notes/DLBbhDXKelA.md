@@ -24,25 +24,11 @@ layout: post.njk
 media_books:
 - In Good Company
 people:
-- Gunund
-- Shet Len
-- Selena
-- Vita Brina
-- Helena Stavo
-- Alexandre Stansp
-- Robert Angels
-- Brigittita
 - Nicolai Tangen
 - Bill Gates
 - Demis Hassabis
 - Sam Altman
 - Elon Musk
-- Ethan Molik
-- Johanses
-- Ain
-- Islang
-- Stan Shik
-- Oscar
 products_models:
 - Pilates
 - ISAC project

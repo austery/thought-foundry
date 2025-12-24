@@ -8,9 +8,6 @@ date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
-people:
-- INDIGO
-- Mohan
 products_models: []
 project:
 - ai-impact-analysis

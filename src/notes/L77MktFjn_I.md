@@ -17,7 +17,6 @@ insight: ''
 layout: post.njk
 people:
 - 丁薛祥
-- 苏丰兹
 - 黄仁勋
 products_models:
 - EUV光刻机

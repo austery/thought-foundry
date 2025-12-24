@@ -22,9 +22,6 @@ media_books:
 people:
 - 唐石峻
 - 查理·芒格
-- 蒙什·莫尼希
-- 迈克尔·伯里
-- 朱利安·罗伯逊
 products_models:
 - 飞塔防火墙
 - CDS

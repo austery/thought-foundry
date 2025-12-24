@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - new-york-times-podcasts
-people:
-- tom-homeman
 products_models: []
 project:
 - investment-strategy

@@ -12,8 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: '[]'
-people:
-- Linus
 products_models:
 - Copilot
 - GPT

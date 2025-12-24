@@ -22,17 +22,8 @@ media_books:
 - Physical Review Letters
 - Scientific American
 people:
-- John Martinis
-- Anthony Leggett
-- John Clarke
 - Stephen Hawking
 - Richard Feynman
-- Peter Shor
-- Michelle Devoret
-- Danielle Eststev
-- Christian Urbina
-- Dave Wineland
-- Ben Mazin
 products_models:
 - MRI
 project:

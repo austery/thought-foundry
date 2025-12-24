@@ -12,10 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《直视骄阳：如何面对死亡焦虑》
-people:
-- 柱子哥
-- 付佩尧
-- 欧文·亚隆
 products_models: []
 project:
 - historical-insights

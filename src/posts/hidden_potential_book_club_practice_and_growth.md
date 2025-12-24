@@ -1,39 +1,34 @@
 ---
-title: 《Hidden Potential》读书会：探讨刻意练习、犯错与成长
-summary: 社群成员围绕《Hidden Potential》一书，分享了学习新技能、看待犯错、以及通过刻意练习和战略性休息突破瓶颈的个人经历与感悟。
 area: null
-category: null
-project: []
-tags:
-- psychology
-- 刻意练习
-- 学习技能
-people:
-- Zelira
-- Kathy
-- Ara 陶飛
-- 张敏
-- Ivan
-- Tracy
-- Winwin
-- Serena
-- George
-- Ruth
-companies_orgs: []
-products_models: []
-media_books:
-- 读书会
-date: 2025-07-27
 author: Lei
-speaker: 一口新饭读书会
+category: null
 channel: null
+companies_orgs: []
+date: 2025-07-27
 draft: true
 file_name: hidden_potential_book_club_practice_and_growth.md
 guest: ''
 insight: 获取别人的评价，打分和追问的方式是不是一个好的方法，但的确是一个新的思路。
 layout: post.njk
+media_books:
+- 读书会
+people:
+- Ara 陶飛
+- 张敏
+- Ivan
+- Tracy
+- Serena
+products_models: []
+project: []
 series: Hidden Potential
 source: null
+speaker: 一口新饭读书会
+summary: 社群成员围绕《Hidden Potential》一书，分享了学习新技能、看待犯错、以及通过刻意练习和战略性休息突破瓶颈的个人经历与感悟。
+tags:
+- psychology
+- 刻意练习
+- 学习技能
+title: 《Hidden Potential》读书会：探讨刻意练习、犯错与成长
 ---
 
 ## 开场与自我介绍

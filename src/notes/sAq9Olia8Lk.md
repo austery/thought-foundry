@@ -13,9 +13,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Malcolm Brodie
 - David Eby
-- Richard Moody
 products_models: []
 project:
 - geopolitics-watch

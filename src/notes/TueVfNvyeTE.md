@@ -30,7 +30,6 @@ media_books:
 - The Daily
 people:
 - Natalie Kitroof
-- Joe Renison
 - Donald Trump
 - Jerome Powell
 - Jamie Diamond

@@ -12,9 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Lancet
-people:
-- 王律婷医师
-- 颜宗海医师
 products_models: []
 project:
 - personal-growth-lab

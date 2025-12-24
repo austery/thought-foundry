@@ -8,8 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- stephen-wolfram
 products_models:
 - chatgpt
 project:

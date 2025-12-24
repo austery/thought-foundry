@@ -23,11 +23,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Nicholas Muller
-- Bob Brackett
-- Arthur Cole
-- Bill Nordhouse
-- James Tobin
 products_models:
 - Consumer Price Index
 - Gross Domestic Product

@@ -21,7 +21,6 @@ media_books:
 people:
 - Will Jarvis
 - Rob Reiner
-- Michelle Reiner
 - Barack Obama
 products_models:
 - Jack Daniels

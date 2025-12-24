@@ -15,13 +15,8 @@ people:
 - Mark Carney
 - Pierre Poilievre
 - Donald Trump
-- Raymond Chan
-- Michael Chong
-- Alice Wong
-- Mary Ng
 - Jagmeet Singh
 - Stephen Harper
-- Jim Flaherty
 products_models: []
 project:
 - us-analysis

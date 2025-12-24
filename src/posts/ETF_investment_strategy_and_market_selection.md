@@ -13,8 +13,6 @@ layout: post.njk
 people:
 - Lei
 - Frank
-- Lydia
-- 彭哥
 products_models: []
 project:
 - investment-strategy

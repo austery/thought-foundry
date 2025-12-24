@@ -21,13 +21,9 @@ people:
 - Tucker Carlson
 - Nick Fuentes
 - Marjorie Taylor Greene
-- Mark Levin
-- Randy Fine
 - Ben Shapiro
 - JD Vance
-- Kanye West
 - Nicholas Maduro
-- trump-coalition
 products_models: []
 project:
 - us-analysis

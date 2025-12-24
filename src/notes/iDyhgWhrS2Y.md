@@ -6,8 +6,6 @@ companies_orgs:
 date: '2025-12-15'
 guest: ''
 layout: post.njk
-people:
-- 王欧
 products_models: []
 project:
 - china-analysis

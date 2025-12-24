@@ -22,11 +22,7 @@ media_books:
 - The Chip Wars
 people:
 - Nicola Tangen
-- Christophe Fouquet
-- Chris Miller
 - Mario Draghi
-- Peter Wennink
-- Martin van den Brink
 products_models:
 - EUV
 - EBAM

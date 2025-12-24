@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- pharmaceutical-marketing
 companies_orgs:
 - Purdue Pharma
 - FDA
@@ -22,33 +24,7 @@ media_books:
 - Forbes
 - Pain Killer
 people:
-- Arthur Sackler
-- Raymond Sackler
-- Mortimer Sackler
-- Russell Portenoy
-- Catherine Foley
-- Henry Welch
-- Cecily Saunders
-- Curtis Wright IV
-- Art Van Zee
-- Greg Stewart
-- Lindsey Myers
-- Jane Myers
-- David Haddox
-- Jay McCloskey
-- Robin Hogan
-- Mark Alfonso
-- Susan Bertrand
-- Randy Ramseyer
-- Rick Mountcastle
-- Laura Nagel
 - Rudy Giuliani
-- Asa Hutchinson
-- Howard Udell
-- Maureen Sara
-- Gordon Heim
-- Sister Beth Davies
-- Barry Meier
 products_models:
 - OxyContin
 - Valium
@@ -71,8 +47,6 @@ tags:
 - public-health
 - regulatory
 title: 痛苦帝国：奥施康定如何引爆美国阿片危机
-companies:
-- pharmaceutical-marketing
 ---
 
 ### 萨克勒家族的表象与奥施康定的阴影

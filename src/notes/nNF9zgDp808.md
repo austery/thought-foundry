@@ -23,9 +23,7 @@ media_books:
 - Washington Post
 people:
 - Tracy Mumford
-- Had Ali Aziz
 - Pete Hegsth
-- Juan Orlando Hernandez
 - Donald Trump
 products_models:
 - smartphone

@@ -28,9 +28,6 @@ media_books:
 - Substack
 people:
 - Magnus Carlsen
-- Elena Verna
-- Enzo Avigo
-- Anton
 products_models:
 - Google ads
 - LinkedIn ads

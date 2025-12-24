@@ -16,10 +16,6 @@ media_books:
 - The Rundown
 people:
 - Charlie Kirk
-- Muna Kadri
-- Sara Mora
-- Jill Dunlop
-- Charlie Herrera Vacaflor
 - Jeyan Jeganathan
 products_models:
 - Poly

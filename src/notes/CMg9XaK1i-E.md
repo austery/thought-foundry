@@ -42,11 +42,7 @@ people:
 - Vladimir Putin
 - Volodymyr Zelenskyy
 - Nicolas Maduro
-- 曼达尼
 - 何立峰
-- Christian Lindner
-- Max Baucus
-- 李成
 - 毛泽东
 - Xi Jinping
 products_models:

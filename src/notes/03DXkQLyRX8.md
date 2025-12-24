@@ -16,11 +16,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Patricia Poppe
 - Nicolai Tangen
-- Mary Barra
 - Warren Buffett
-- Bob Flexon
 - Jensen Huang
 - Thomas Edison
 products_models:

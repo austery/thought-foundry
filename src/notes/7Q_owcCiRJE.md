@@ -11,12 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Anthony Henday
-- John Peter Pruden
-- James Winterlake
-- George III
-- Frederick Haultain
-- Wilfrid Laurier
 - John A. Macdonald
 - Justin Trudeau
 products_models: []

@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- rare-metal
 companies_orgs:
 - Molycorp
 - 罗纳普朗克
@@ -19,11 +21,7 @@ layout: post.njk
 media_books:
 - 《稀有金属战争》
 people:
-- 皮创
-- 李新夏
-- 马俊
 - Okabe教授
-- Terry
 products_models:
 - JDAM智能炸弹
 - 埃布拉姆斯主战坦克
@@ -46,8 +44,6 @@ tags:
 - supply-chain-security
 - war
 title: 稀有金属战争：绿色与数字革命背后的隐秘代价
-companies:
-- rare-metal
 ---
 
 ### 绿色与数字革命的隐秘代价

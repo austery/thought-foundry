@@ -33,17 +33,10 @@ people:
 - Volodymyr Zelenskyy
 - Mike Pompeo
 - Jared Kushner
-- Brian Fitzpatrick
-- Don Bacon
 - Xi Jinping
 - 李家超
-- 陈德烈
-- 徐放
 - 毛宁
-- Prema Wangchuk Dodul
 - Paul Krugman
-- William Pesek
-- 许春冈
 products_models:
 - 战斧导弹
 project:

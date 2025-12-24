@@ -18,9 +18,6 @@ layout: post.njk
 media_books:
 - New York magazine
 people:
-- Emily Sundberg
-- Ricardo Houseman
-- Bethany Frankle
 - Tracy Alloway
 - Jill Weisenthal
 - Carmen Rodriguez

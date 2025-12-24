@@ -30,17 +30,7 @@ media_books:
 - 《你行!你上!》
 people:
 - 邓小平
-- 王朔
 - 冯小刚
-- 葛优
-- 梁天
-- 张国立
-- 徐帆
-- 耿乐
-- 徐静蕾
-- 陈佩斯
-- Sam Voutas
-- 管虎
 - 刘晓波
 - 姜文
 products_models: []

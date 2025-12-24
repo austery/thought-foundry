@@ -17,10 +17,6 @@ layout: post.njk
 media_books:
 - 《生于出身，精英学生如何拿下精英工作》
 people:
-- 吴小刚
-- 贾瑞雪
-- 李红斌
-- Lauren Rivera
 - Pierre Bourdieu
 products_models: []
 project:

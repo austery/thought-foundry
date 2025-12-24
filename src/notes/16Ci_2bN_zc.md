@@ -11,10 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- Adam Savage
 - Stephen Colbert
-- David Scott
-- Felix Baumgartner
 products_models: []
 project:
 - systems-thinking

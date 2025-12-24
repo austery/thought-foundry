@@ -18,8 +18,6 @@ media_books:
 - 《世界报》
 people:
 - Xi Jinping
-- Wang Zhi'an
-- Mahinda Rajapaksa
 products_models: []
 project:
 - china-analysis

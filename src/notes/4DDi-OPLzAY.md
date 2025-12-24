@@ -20,8 +20,6 @@ media_books:
 - The Social Network
 - International Math Olympiad
 people:
-- Jack Morris
-- Joe Eisenthal
 - Tracy Aloway
 - Sam Altman
 - Mark Zuckerberg

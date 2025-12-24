@@ -12,8 +12,6 @@ media_books:
 - 社会生物学
 - 金融时报
 people:
-- Edward O. Wilson
-- Cook
 - Scott
 products_models: []
 project:

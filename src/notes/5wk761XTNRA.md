@@ -20,13 +20,6 @@ insight: ''
 layout: post.njk
 people:
 - 黄仁勋
-- Laurie
-- 马拉科夫斯基
-- 普林姆
-- Wilfred Krigen
-- Musk
-- Bezos
-- Greg Estes
 products_models:
 - NV1
 - RIVA 128

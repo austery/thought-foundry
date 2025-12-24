@@ -31,12 +31,10 @@ insight: ''
 layout: post.njk
 people:
 - Tanner
-- Roy
 - Jamie Dimon
 - Mark Zuckerberg
 - Vlad Tenev
 - Anthony Noto
-- Sean Taylor
 products_models:
 - Cortex
 - Llama

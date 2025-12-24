@@ -9,10 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - 余英时
-- 许倬云
-- 托马斯·曼
-- 以赛亚·柏林
-- 顾炎武
 - 马克思
 products_models: []
 project:

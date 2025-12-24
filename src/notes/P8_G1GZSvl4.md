@@ -22,18 +22,10 @@ media_books:
 - Washington Post
 people:
 - Michael Bubaro
-- Rahmanula Lakenwal
-- Sarah Beckram
-- Andrew Wolf
 - Steven Miller
-- Janine Piro
 - Kash Patel
-- Juan Orlando Hernandez
 - Nicholas Maduro
-- Pete Hgsth
 - Mark Kelly
-- Mike Turner
-- Kristi Noem
 products_models:
 - Operation Allies Welcome
 project:

@@ -30,16 +30,11 @@ people:
 - Charlie Munger
 - Warren Buffett
 - Stan Druckenmiller
-- Seth Klarman
 - Richard Feynman
-- Elroy Dimson
 - Mark Twain
 - Annie Duke
 - Nassim Nicholas Taleb
-- Daniel Boorstin
 - Benjamin Graham
-- David Dodd
-- Bruce Karsh
 products_models: []
 project:
 - investment-strategy

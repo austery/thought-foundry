@@ -10,15 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《繁花》
-people:
-- 李治中
-- 西德尼·法伯
-- 巴里·马歇尔
-- 沃伦
-- 拉尔夫·斯坦曼
-- 张亭栋
-- 韩太云
-- 王振义
 products_models: []
 project:
 - historical-insights

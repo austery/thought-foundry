@@ -21,7 +21,6 @@ media_books:
 - 《斯大林的图书馆》
 people:
 - Tyler Cowen
-- Chad Jones
 - Patrick Collison
 - Sam Altman
 - Mark Zuckerberg
@@ -30,15 +29,10 @@ people:
 - Adam Smith
 - Milton Friedman
 - Paul Samuelson
-- Stephen Kotkin
 - Alex Tabarrok
 - Woodrow Wilson
 - Herbert Hoover
-- Greg Clark
-- John Milton
 - John Locke
-- Ed Boyden
-- Richard Prum
 - Steven Pinker
 products_models:
 - GPT-4

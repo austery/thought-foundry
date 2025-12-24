@@ -17,8 +17,6 @@ people:
 - Zoran Mandani
 - Alexandria Ocasio-Cortez
 - Bernie Sanders
-- Emma FitzSimmons
-- Mikey Cheryl
 - Abigail Spanberger
 - Donald Trump
 - Will Jarvis

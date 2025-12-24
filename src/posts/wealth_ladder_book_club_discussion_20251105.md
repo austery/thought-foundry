@@ -1,43 +1,7 @@
 ---
-author: Ray
-date: '2025-11-05'
-guest: null
-layout: post.njk
-source: ''
-speaker: 一口新饭读书会
-title: 《财富的阶梯》读书会：探讨财富等级、资产观念与人生游戏
-summary: 本次读书会深入探讨了《财富的阶梯》一书的核心理念。参与者们结合个人经历，分享了对不同财富等级的理解、从“工作”到“事业”的转变思考、对书中规则的批判性审视，以及如何在追求财务增长与体验人生价值之间找到平衡。讨论涵盖了资产配置、消费观念、风险管理以及“标准姿势”与“非标路径”在财富积累过程中的作用等多个维度。
 area: personal-systems
+author: Ray
 category: career
-project:
-- fire-movement
-- investment-strategy
-tags:
-- asset-allocation
-- design
-- financial-independence
-- investment
-- wealth
-people:
-- Ray
-- Ye Wei
-- Betty
-- Xigua
-- Eric
-- Max
-- Azka
-- Jake
-- Caipei
-- Evan
-- Huiwen
-- Zalira
-- Zhang Min
-- Naval Ravikant
-- Elon Musk
-- Jeff Bezos
-- Bill Gates
-- Sep Kappe
-- Ronald Reed
 companies_orgs:
 - Airbnb
 - Alibaba
@@ -47,19 +11,47 @@ companies_orgs:
 - AWS
 - Home Depot
 - IKEA
+date: '2025-11-05'
+draft: true
+guest: null
+layout: post.njk
+media_books:
+- 《The Wealth Ladder》
+- 《Just Keep Buying》
+- 《纳瓦尔宝典》
+- 《Die with Zero》
+people:
+- Ray
+- Betty
+- Eric
+- Max
+- Jake
+- Evan
+- Zalira
+- Naval Ravikant
+- Elon Musk
+- Jeff Bezos
+- Bill Gates
 products_models:
 - Tesla
 - S&P 500
 - YouTube
 - Twitter
 - Lemonade
-media_books:
-- 《The Wealth Ladder》
-- 《Just Keep Buying》
-- 《纳瓦尔宝典》
-- 《Die with Zero》
-draft: true
+project:
+- fire-movement
+- investment-strategy
+source: ''
+speaker: 一口新饭读书会
 status: evergreen
+summary: 本次读书会深入探讨了《财富的阶梯》一书的核心理念。参与者们结合个人经历，分享了对不同财富等级的理解、从“工作”到“事业”的转变思考、对书中规则的批判性审视，以及如何在追求财务增长与体验人生价值之间找到平衡。讨论涵盖了资产配置、消费观念、风险管理以及“标准姿势”与“非标路径”在财富积累过程中的作用等多个维度。
+tags:
+- asset-allocation
+- design
+- financial-independence
+- investment
+- wealth
+title: 《财富的阶梯》读书会：探讨财富等级、资产观念与人生游戏
 ---
 
 ## 开场与近况分享

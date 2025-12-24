@@ -37,7 +37,6 @@ media_books:
 - Reuters
 - Xinhua News Agency
 people:
-- Xie Feng
 - Donald Trump
 - Sanae Takaichi
 - Elon Musk

@@ -37,7 +37,6 @@ people:
 - 黄仁勋
 - 刘鹤
 - Joe Biden
-- 李志英
 products_models:
 - Azure
 - Facebook

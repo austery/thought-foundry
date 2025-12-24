@@ -29,27 +29,10 @@ media_books:
 - 《蜗牛运动宣言》
 - 《0099大发财》
 people:
-- 李同荣
-- 廖庭慧
-- 华昌宜
-- 林宗弘
 - 蒋经国
-- 萧万长
 - 陈水扁
-- 华敬群
-- 彭淮南
 - 马英九
-- 彭扬凯
-- Jeroen van der Veer
-- 郝龙斌
-- 苏贞昌
 - 蔡英文
-- 王金平
-- 叶世文
-- 柯文哲
-- 张庆忠
-- 薛凌
-- Hugo V Bmeha
 products_models:
 - 新青安
 project:

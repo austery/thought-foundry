@@ -20,18 +20,9 @@ media_books:
 - Time
 - The Last Economy
 people:
-- Andrew Bishop
-- Charles Meyers
-- Ozan Tarman
-- Ian Bremer
-- Cliff Cupchin
 - Robert Armstrong
-- Phil Tetlock
-- Bruce Bueno de Mesquita
 - Benjamin Netanyahu
 - Donald Trump
-- Scott Besson
-- Carolyn Levit
 - Nassim Nicholas Taleb
 products_models: []
 project:

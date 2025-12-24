@@ -15,11 +15,7 @@ media_books:
 - 《史记商君列传》
 people:
 - 户晨风
-- 咪蒙
 - 刘晓波
-- 彭丽发
-- 张展
-- 王全璋
 products_models: []
 project:
 - china-analysis

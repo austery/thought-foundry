@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: general
+companies:
+- gpu-lifecycle
 companies_orgs:
 - Bloomberg Podcasts
 - Baker Botts
@@ -23,7 +25,6 @@ layout: post.njk
 media_books:
 - Odd Lots podcast
 people:
-- Travis Wofford
 - Joe Weisenthal
 - Tracy Alloway
 products_models:
@@ -46,8 +47,6 @@ tags:
 - power
 - society
 title: AI 驱动下的数据中心融资：挑战、机遇与未来趋势
-companies:
-- gpu-lifecycle
 ---
 
 ### 数据中心融资的复杂性与规模

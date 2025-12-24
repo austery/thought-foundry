@@ -33,17 +33,13 @@ media_books:
 people:
 - Williams
 - Tom Lee
-- Moran
 - Sam Altman
 - Jensen Huang
 - Cathie Wood
 - Michael Saylor
-- Matt Hogan
 - Howard Lutnik
-- Brent Thill
 - Donald Trump
 - Jay Powell
-- David Shaw
 products_models:
 - Bitcoin
 - Ethereum

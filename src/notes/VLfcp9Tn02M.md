@@ -22,7 +22,6 @@ people:
 - Shinzo Abe
 - Javier Milei
 - Vladimir Putin
-- Ngozi Okonjo-Iweala
 products_models: []
 project:
 - us-analysis

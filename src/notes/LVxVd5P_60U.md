@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Lars Fruergaard Jørgensen
 products_models:
 - GLP-1
 - Insulin

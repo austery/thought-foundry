@@ -1,32 +1,31 @@
 ---
-title: 对话肖风：香港稳定币热潮下的冷思考与中国数字资产的未来路径
-summary: HashKey Group 董事长肖风博士深入剖析香港稳定币监管的谨慎态度，强调应回归区块链作为新型记账方式和金融基础设施的底层逻辑。他预测中国可能从稳定币开始，逐步接纳
-  RWA 和更广泛的数字资产，并讨论了其中的机遇与挑战。
 area: null
-category: null
-project: []
-tags:
-- blockchain
-- investment
-- technology
-- 香港稳定币
-people:
-- 泓君
-- 刘峰
-- 肖风
-companies_orgs: []
-products_models: []
-date: 2025-08-01
 author: Lei
-speaker: ''
+category: null
 channel: null
+companies_orgs: []
+date: 2025-08-01
 draft: true
 file_name: xiao_feng_hong_kong_stablecoin_cold_thoughts.md
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 泓君
+- 刘峰
+products_models: []
+project: []
 series: null
 source: null
+speaker: ''
+summary: HashKey Group 董事长肖风博士深入剖析香港稳定币监管的谨慎态度，强调应回归区块链作为新型记账方式和金融基础设施的底层逻辑。他预测中国可能从稳定币开始，逐步接纳
+  RWA 和更广泛的数字资产，并讨论了其中的机遇与挑战。
+tags:
+- blockchain
+- investment
+- technology
+- 香港稳定币
+title: 对话肖风：香港稳定币热潮下的冷思考与中国数字资产的未来路径
 ---
 
 ## 开场与介绍

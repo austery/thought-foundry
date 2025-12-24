@@ -22,10 +22,7 @@ people:
 - Donald Trump
 - Xi Jinping
 - 贝森特
-- William Bratton
 - Robert Lighthizer
-- 图星全
-- 戈利尔
 products_models:
 - 芬太尼
 - 稀土

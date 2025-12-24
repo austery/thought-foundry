@@ -1,32 +1,6 @@
 ---
-title: 理解AI泡沫的规律：如何选公司与职场未雨绸缪
-speaker: 课代表立正
-summary: 硅谷徐老师深度解析当前的AI泡沫现象，将其与2000年互联网泡沫进行对比，指出当前基础设施建设虽有过热嫌疑，但属于推动技术跃迁的“良性泡沫”。访谈探讨了在泡沫中筛选长期价值公司的核心逻辑——CEO的领导力，并结合微软、亚马逊、博通等案例进行了分析。最后，针对职场人在AI时代的应对策略，提出了“All-in
-  AI”以及利用“人脉杠杆”而非金融杠杆来对抗周期风险的独到见解。
-source: https://www.youtube.com/watch?v=c93Z3WrmQf0
 area: market-analysis
-date: '2025-12-10'
 category: finance
-project:
-- ai-impact-analysis
-- investment-strategy
-- market-cycles
-tags:
-- ai-bubble
-- career
-- infrastructure
-- leadership-premium
-- tech
-people:
-- Satya Nadella
-- Jeff Bezos
-- Steve Ballmer
-- Larry Ellison
-- Hock Tan
-- Elon Musk
-- Sam Altman
-- Jensen Huang
-- Andrej Karpathy
 companies_orgs:
 - Nvidia
 - OpenAI
@@ -41,13 +15,38 @@ companies_orgs:
 - XAI
 - Y Combinator
 - Anthropic
+date: '2025-12-10'
+layout: post.njk
+people:
+- Satya Nadella
+- Jeff Bezos
+- Steve Ballmer
+- Larry Ellison
+- Elon Musk
+- Sam Altman
+- Jensen Huang
+- Andrej Karpathy
 products_models:
 - ChatGPT
 - Cursor
 - Claude
 - YouTube
 - AWS
-layout: post.njk
+project:
+- ai-impact-analysis
+- investment-strategy
+- market-cycles
+source: https://www.youtube.com/watch?v=c93Z3WrmQf0
+speaker: 课代表立正
+summary: 硅谷徐老师深度解析当前的AI泡沫现象，将其与2000年互联网泡沫进行对比，指出当前基础设施建设虽有过热嫌疑，但属于推动技术跃迁的“良性泡沫”。访谈探讨了在泡沫中筛选长期价值公司的核心逻辑——CEO的领导力，并结合微软、亚马逊、博通等案例进行了分析。最后，针对职场人在AI时代的应对策略，提出了“All-in
+  AI”以及利用“人脉杠杆”而非金融杠杆来对抗周期风险的独到见解。
+tags:
+- ai-bubble
+- career
+- infrastructure
+- leadership-premium
+- tech
+title: 理解AI泡沫的规律：如何选公司与职场未雨绸缪
 ---
 
 ### 市场焦点：Nvidia 与 AI 泡沫的定义

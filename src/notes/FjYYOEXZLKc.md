@@ -19,15 +19,8 @@ media_books:
 - 60 Minutes
 - racial-profiling
 people:
-- Natalie Ketrof
-- Hammad Ali Aziz
-- Greg Bevino
-- Jack Nicholson
 - Donald Trump
 - Joe Biden
-- Justice Kavanaugh
-- Governor Pritzker
-- Mayor Johnson
 products_models: []
 project:
 - us-analysis

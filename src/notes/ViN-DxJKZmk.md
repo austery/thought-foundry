@@ -17,17 +17,10 @@ media_books:
 - 《人性的枷锁》
 people:
 - Einstein
-- Spinoza
 - Descartes
 - Hegel
-- Nicolas Malebranche
 - Nietzsche
 - Freud
-- Deleuze
-- Arne Naess
-- Jason Read
-- W. Somerset Maugham
-- Lothar Bickel
 products_models:
 - HelloVoice
 project:

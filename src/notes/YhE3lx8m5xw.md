@@ -13,13 +13,7 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 people:
-- Douglas MacArthur
 - Mao Zedong
-- Xu Yongchang
-- Jonathan M. Wainwright
-- Arthur Percival
-- Zhang Guotao
-- Yan Fu
 - Peng Dehuai
 products_models: '[]'
 project:

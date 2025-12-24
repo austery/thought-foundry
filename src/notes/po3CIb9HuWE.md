@@ -18,25 +18,17 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Jacob Silverman
 - Elon Musk
 - Peter Thiel
-- Stuart Brand
 - Marshall McLuhan
 - Steve Jobs
-- Safra Catz
 - Ginni Rometty
 - David Sacks
-- Doug Leone
 - Marc Andreessen
-- Lena Khan
 - Sergey Brin
-- Gil Duran
 - Gavin Newsom
 - Chesa Boudin
 - JD Vance
-- Blake Masters
-- Max Chaffkin
 - Donald Trump
 - Joe Biden
 products_models:

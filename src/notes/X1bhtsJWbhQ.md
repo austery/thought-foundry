@@ -57,7 +57,6 @@ people:
 - Donald Trump
 - Nancy Pelosi
 - Sam Altman
-- David Sachs
 - Vlad Tenev
 - Michael Burry
 - Jensen Huang

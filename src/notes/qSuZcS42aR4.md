@@ -10,8 +10,6 @@ layout: post.njk
 media_books: '[]'
 people:
 - Friedrich Nietzsche
-- André Gide
-- 刘叔叔
 products_models:
 - Substack
 project:

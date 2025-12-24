@@ -22,12 +22,7 @@ media_books:
 - Stranger Things
 - The Anxious Generation
 people:
-- Lenore Skenazy
-- Eton Pates
-- Adam Walsh
-- Peter Gray
 - Jonathan Haidt
-- Camilo Ortiz
 products_models:
 - Long Island Railroad
 - Apollo 13

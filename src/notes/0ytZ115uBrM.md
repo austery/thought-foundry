@@ -24,7 +24,6 @@ people:
 - Nick Timiraos
 - John Williams
 - Powell
-- Governor Moran
 products_models:
 - GPU
 project:

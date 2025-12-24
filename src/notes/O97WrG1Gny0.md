@@ -9,9 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 陈威龙
-- 张家铭
 products_models: []
 project:
 - personal-growth-lab

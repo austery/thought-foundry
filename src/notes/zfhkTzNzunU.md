@@ -14,10 +14,8 @@ media_books:
 - 大问题节目
 - 某乎
 people:
-- 胡星铭
 - 亚里士多德
 - 笛卡尔
-- 阿奎那
 products_models: []
 project:
 - systems-thinking

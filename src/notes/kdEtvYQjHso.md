@@ -21,34 +21,12 @@ media_books:
 - 人民政协报
 - 德国之声
 people:
-- Zheng Liwen
 - Xi Jinping
-- Chiang Chi-chen
 - Eric Chu
-- Hau Lung-pin
-- Chen Chih-tung
-- Lo Chih-chiang
-- Hung Hsiu-chu
-- Lu Shiow-yen
-- Chiang Wan-an
-- Jaw Shaw-kong
-- Wang Huning
 - Wang Yi
 - Tsai Ing-wen
-- Ko Wen-je
-- Huang Kuo-chang
-- Li Yi-hsiu
-- Xin Haonian
 - Volodymyr Zelenskyy
 - Ma Ying-jeou
-- James Soong
-- Lee Teng-hui
-- Lien Chan
-- Sean Lien
-- Hsu Hung-ting
-- Hou Yu-ih
-- Chou Wei-hang
-- Anthony Wong
 - He Weidong
 products_models: []
 project:

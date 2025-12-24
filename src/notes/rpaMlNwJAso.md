@@ -33,15 +33,10 @@ people:
 - Donald Trump
 - Vladimir Putin
 - Xi Jinping
-- Zheng Liwen
 - Lai Ching-te
 - Ma Ying-jeou
-- Hung Hsiu-chu
-- Wu Den-yih
 - Eric Chu
-- Qin Gang
 - Li Qiang
-- Gaoichi Sanae
 products_models: []
 project:
 - us-analysis

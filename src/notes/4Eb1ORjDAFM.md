@@ -37,7 +37,6 @@ media_books:
 - MTV Lebanon
 people:
 - Donald Trump
-- Mdani
 - Williams
 - Keir Starmer
 - Bernie Sanders

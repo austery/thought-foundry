@@ -14,20 +14,10 @@ layout: post.njk
 media_books:
 - 《是设计，让城市更快乐》
 people:
-- Charles Montgomery
-- Peter Norton
 - Henry Ford
 - Herbert Hoover
-- Roy Chapin
 - Aristotle
 - Socrates
-- Emperor Trajan
-- Horace
-- Bentham
-- Robert Pemberton
-- Ken Livingstone
-- Bertrand Delanoë
-- Enrique Peñalosa
 products_models:
 - Vélib'
 project:

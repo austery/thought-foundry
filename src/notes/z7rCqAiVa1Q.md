@@ -16,12 +16,7 @@ media_books:
 - 《怎么鉴别黄色歌曲》
 - 《迪斯科皇后》
 people:
-- 何其沃
-- 二高
-- 王丽丽
 - 邓丽君
-- 谭咏麟
-- 叶倩文
 - 张国荣
 products_models: []
 project:

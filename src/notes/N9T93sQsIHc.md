@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - best-partners-tv
-people:
-- ari-morcos
 products_models: []
 project:
 - ai-impact-analysis

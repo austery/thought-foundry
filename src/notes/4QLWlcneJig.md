@@ -20,13 +20,11 @@ media_books:
 - The Diary Of A CEO
 - The Lean Startup
 people:
-- Chris Kerner
 - Mark Zuckerberg
 - Jensen Huang
 - Elon Musk
 - Bill Gates
 - Steve Jobs
-- Kevin O'Leary
 - Jony Ive
 - Walter Isaacson
 products_models:

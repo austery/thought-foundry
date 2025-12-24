@@ -28,18 +28,9 @@ layout: post.njk
 people:
 - Shantanu Narayen
 - Nikolai
-- John Warnock
-- Chuck Geschke
 - Satya Nadella
 - Sundar Pichai
-- Arvind Krishna
-- Laxman Narasimhan
 - Sam Altman
-- John Donahoe
-- George Roberts
-- Romesh Wadwani
-- Albert Bourla
-- Dave Ricks
 products_models:
 - Photoshop
 - Illustrator

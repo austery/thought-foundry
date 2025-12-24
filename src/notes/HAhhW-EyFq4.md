@@ -27,7 +27,6 @@ people:
 - Elon Musk
 - Sam Altman
 - Jensen Huang
-- Karel van der Poel
 - David Sacks
 products_models:
 - ChatGPT

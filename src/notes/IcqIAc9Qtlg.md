@@ -19,7 +19,6 @@ media_books:
 - 《伦巴第街》
 people:
 - Ben Bernanke
-- Walter Bagehot
 products_models: []
 project:
 - us-analysis

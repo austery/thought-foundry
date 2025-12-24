@@ -12,7 +12,6 @@ media_books:
 - bad-blood
 people:
 - elizabeth-holmes
-- sunny-balwani
 products_models: []
 project: []
 series: ''

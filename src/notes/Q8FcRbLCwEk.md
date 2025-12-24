@@ -19,10 +19,8 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- Bill Pulte
 - Ben Castleman
 - Alan Greenspan
-- Stewart Lee
 products_models:
 - Gamma
 - PowerPoint

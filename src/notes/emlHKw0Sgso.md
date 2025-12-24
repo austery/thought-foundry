@@ -17,12 +17,9 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- Christy Gnome
-- Eric Swallwell
 - Adam Schiff
 - Leticia James
 - Lisa Cook
-- Nick Corasanti
 - Elon Musk
 - Jeff Bezos
 - Warren Buffett

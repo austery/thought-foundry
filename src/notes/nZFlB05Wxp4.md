@@ -34,7 +34,6 @@ people:
 - Lawrence Summers
 - Steven Mnuchin
 - Steve Bannon
-- Arthur Laffer
 - Elon Musk
 - Alexander Hamilton
 - John Bolton

@@ -30,10 +30,7 @@ people:
 - Adolf Hitler
 - Kim Jong Un
 - Gavin Newsom
-- Karen Bass
-- Charles Breyer
 - Daniel Lurie
-- John Fetterman
 products_models: '[]'
 project:
 - us-analysis

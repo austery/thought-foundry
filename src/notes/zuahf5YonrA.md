@@ -23,10 +23,7 @@ people:
 - Xi Jinping
 - Donald Trump
 - 万斯
-- 马克龙
 - 莫茨
-- 斯塔莫
-- 韩文秀
 - 马云
 products_models: []
 project:

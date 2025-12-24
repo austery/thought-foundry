@@ -21,26 +21,12 @@ media_books:
 - ABC
 people:
 - James Comey
-- Lindsey Halligan
 - Donald Trump
 - Ted Cruz
-- Andrew McCabe
 - Hillary Clinton
-- Patrick Fitzgerald
-- Rod Blagojevich
 - Dick Cheney
-- Michael Luttig
 - Joe Biden
-- Eric Siebert
-- Natasha James
-- Bondi
-- Blanche
 - Adam Schiff
-- Marine Comey
-- Troy Edwards
-- Patrice Comey
-- Anthony Weiner
-- trump-comey-feud
 products_models: []
 project:
 - us-analysis

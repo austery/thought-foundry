@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: culture
+companies:
+- psychological-trauma
 companies_orgs:
 - 央视
 - 临沂网戒中心
@@ -15,8 +17,6 @@ media_books:
 - 《赫尔辛基宣言》
 people:
 - 柴静
-- 杨永信
-- 阿良
 products_models:
 - 低频电子脉冲治疗仪
 project:
@@ -33,8 +33,6 @@ tags:
 - control
 - failure
 title: 柴静反思杨永信事件：比电击更恐怖的是高压思想控制
-companies:
-- psychological-trauma
 ---
 
 ### 十六年后，阴影仍在

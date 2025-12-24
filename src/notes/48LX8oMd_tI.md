@@ -19,13 +19,7 @@ media_books:
 - 《卡拉马佐夫兄弟》
 - 《河岸》
 people:
-- 杨素秋
 - 雨白
-- 苏童
-- 狄更斯
-- 托尔斯泰
-- 张恨水
-- 刘擎
 products_models:
 - 黑神话：悟空
 project:

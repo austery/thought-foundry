@@ -23,16 +23,11 @@ media_books:
 - 《人民日报》
 - 《成瘾剂量》
 people:
-- 宋东野
 - 尼克松
 - 里根
 - Donald Trump
 - 杜特尔特
-- 他信
-- 哈希纳
 - 李连杰
-- 余朦龙
-- 丁仲礼
 products_models:
 - 奥西克定
 - 芬太尼

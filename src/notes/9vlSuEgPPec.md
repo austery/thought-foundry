@@ -14,8 +14,6 @@ media_books:
 - The Diary of A CEO
 - My First Million
 - Founders
-people:
-- Alex Hormozi
 products_models:
 - 从会工作到会赚钱
 project:

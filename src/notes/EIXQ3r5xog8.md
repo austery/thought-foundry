@@ -10,10 +10,8 @@ layout: post.njk
 media_books:
 - 《思成记》
 people:
-- 陈思呈
 - 梁启超
 - 巴金
-- 私人齐木阁
 products_models: []
 project:
 - cultural-critique

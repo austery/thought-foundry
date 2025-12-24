@@ -1,41 +1,32 @@
 ---
-title: 「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
-summary: null
 area: market-analysis
+author: Lei
 category: business
+channel: null
+companies_orgs: []
+date: '2025-07-10'
+guest: ''
+insight: null
+layout: post.njk
+media_books:
+- 读书会
+people:
+- Ray
+- Frank
+- Alex
+- Serena
+products_models: []
 project:
 - entrepreneurship
+series: null
+source: null
+speaker: 一口新饭读书会
+summary: null
 tags:
 - community
 - entrepreneurship
 - side-hustle
-people:
-- Ray
-- Dora
-- Julian
-- 麒麟
-- Frank
-- Alex
-- 伊万
-- Serena
-- Alan
-- 婷
-- Victor
-- Kayden
-- 张硕
-companies_orgs: []
-products_models: []
-media_books:
-- 读书会
-date: '2025-07-10'
-author: Lei
-speaker: 一口新饭读书会
-channel: null
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: null
+title: 「北美|亚洲主会场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 ---
 
 **主讲人：** Ray, Dora, Julian, 麒麟, Frank, Alex, 伊万, Serena, Alan,

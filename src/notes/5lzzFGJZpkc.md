@@ -20,7 +20,6 @@ media_books:
 people:
 - Donald Trump
 - Steve Bannon
-- Freddie Freeman
 products_models: []
 project:
 - us-analysis

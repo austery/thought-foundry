@@ -31,13 +31,10 @@ people:
 - Jim Chanos
 - Michael Saylor
 - Cliff Asness
-- Jim Egan
 - Elon Musk
 - Tracy Alloway
 - Joe Weisenthal
 - Carmen Rodriguez
-- Arman Dashel Bennett
-- Kaleb Brooks
 products_models:
 - S&P 500
 - Bloomberg terminal

@@ -20,9 +20,7 @@ media_books:
 - This Time Is Different
 - Civil War
 people:
-- Kenneth Rogoff
 - Nicolai Tangen
-- Carmen Reinhart
 - Donald Trump
 - Richard Nixon
 - Bernie Sanders
@@ -32,8 +30,6 @@ people:
 - Xi Jinping
 - Narendra Modi
 - Magnus Carlsen
-- Gukesh D
-- Bent Larsen
 - Al Gore
 - Christine Lagarde
 - Ben Bernanke

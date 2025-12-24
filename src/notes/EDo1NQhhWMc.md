@@ -7,9 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Robert Rosen
-- Chai Jing
 products_models: []
 project:
 - personal-growth-lab

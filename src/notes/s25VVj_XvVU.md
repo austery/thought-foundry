@@ -13,7 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Jennifer Scanlon
 - Nikolai Tangen
 products_models:
 - AI PCs

@@ -15,12 +15,7 @@ media_books:
 - The Daily
 people:
 - Michael Bubaro
-- Jodie Caner
-- Elena Kagan
-- Antinine Scalia
-- Anthony Kennedy
 - John Roberts
-- Ruth Bader Ginsburg
 - Amy Coney Barrett
 - Clarence Thomas
 - Ketanji Brown Jackson

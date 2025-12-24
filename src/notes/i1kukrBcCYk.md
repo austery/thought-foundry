@@ -9,9 +9,6 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 people:
-- 德川家康
-- 织田信长
-- 丰臣秀吉
 - 苏格拉底
 - 孔子
 products_models:

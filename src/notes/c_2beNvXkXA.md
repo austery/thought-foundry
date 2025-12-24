@@ -19,11 +19,6 @@ media_books:
 - The McKenzie Report on the Women's Health Gap in Canada
 people:
 - Nam Kiwanuka
-- Rodney Graham
-- Lena Dunham
-- Jameela Jamil
-- Sydney Jazwaldi
-- Joan Bushar
 products_models: []
 project:
 - systems-thinking

@@ -15,13 +15,8 @@ media_books:
 - The Courage to Be Disliked
 - Spring, Summer, Fall, Winter, and Spring
 people:
-- Eckhart Tolle
 - Lacan
 - Foucault
-- Bourdieu
-- Kohler
-- Witmer
-- Koffka
 products_models: []
 project:
 - personal-growth-lab

@@ -26,10 +26,7 @@ media_books:
 - Pinterest
 - Instagram
 people:
-- Natalie Dawson
 - Steven Bartlett
-- Grant Cardone
-- Elena Cardone
 - Elon Musk
 products_models:
 - P&L

@@ -14,7 +14,6 @@ media_books:
 - 《与成功有约》
 - 《经济学人》
 people:
-- 陈茂雄
 - 梁晓华
 - Stephen Covey
 products_models:

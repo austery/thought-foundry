@@ -24,10 +24,6 @@ people:
 - 笛卡尔
 - 康德
 - 尼采
-- 胡塞尔
-- 梅洛庞蒂
-- 大卫·查尔莫斯
-- platos-allegory-of-the-cave
 products_models: []
 project:
 - historical-insights

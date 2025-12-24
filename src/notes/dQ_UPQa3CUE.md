@@ -13,22 +13,14 @@ media_books:
 people:
 - Adam Smith
 - Amos Tversky
-- Arthur Laffer
-- Carl Menger
 - Daniel Kahneman
 - David Ricardo
-- Douglas North
 - Friedrich Hayek
-- Gordon Tullock
-- James Buchanan
 - John Maynard Keynes
 - John Nash
 - John Von Neumann
 - Karl Marx
-- Ludwig Von Mises
 - Milton Friedman
-- Muhammad Yunus
-- Ronald Coase
 - adam-s-axiom
 products_models:
 - Bolsa Familia

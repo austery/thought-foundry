@@ -8,10 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Rick
-- Neil
-- Gene
 products_models:
 - Blackbird
 project:

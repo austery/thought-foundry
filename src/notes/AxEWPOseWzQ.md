@@ -13,10 +13,6 @@ media_books:
 - 《论证与说服50讲》
 people:
 - 亚里士多德
-- 理查德·泰勒
-- 奥卡姆的威廉
-- 威廉·哈斯克
-- Thanos
 products_models: []
 project:
 - systems-thinking

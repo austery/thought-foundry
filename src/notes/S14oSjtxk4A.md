@@ -22,14 +22,7 @@ media_books:
 - New York Times
 - Uncle Buck
 people:
-- Alison Beard
-- Bozoma Saint John
 - Jimmy Fallon
-- Gavin Purcell
-- Cameron Crowe
-- Lorne Michaels
-- Robert De Niro
-- Ryan Reynolds
 - Charlie Kirk
 - George Floyd
 products_models:

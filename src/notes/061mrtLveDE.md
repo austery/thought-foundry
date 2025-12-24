@@ -24,7 +24,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Dave Kavitt
 products_models: []
 project:
 - us-analysis

@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Derek Parfit
 products_models: []
 project:
 - systems-thinking

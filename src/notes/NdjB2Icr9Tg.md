@@ -18,14 +18,8 @@ media_books:
 people:
 - 莊也
 - Kevin
-- Ted
-- Steven
 - Matt Damon
 - Justin Trudeau
-- Herbert Butler
-- 威廉四世
-- 乔治三世
-- Abbot
 products_models:
 - 冰山啤酒
 project:

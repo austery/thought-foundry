@@ -18,15 +18,8 @@ layout: post.njk
 media_books:
 - 《On the Measure of Intelligence》
 people:
-- François Chollet
-- Mike Knoop
 - Nat Friedman
-- Luke Farritor
-- Jack Cole
-- Dan Hendrycks
-- Collin Burns
 - Trenton Bricken
-- Jean Piaget
 products_models:
 - Keras
 - GPT-4

@@ -18,9 +18,6 @@ media_books:
 - Autumn Residence on the Bashang
 people:
 - Anthony
-- Li Dazhao
-- Wen Yiduo
-- Ai Qing
 products_models: []
 project:
 - china-analysis

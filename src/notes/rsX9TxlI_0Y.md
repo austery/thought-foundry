@@ -17,17 +17,9 @@ media_books:
 - 《红楼梦》
 - 《死亡之岛》
 people:
-- 顾城
-- 谢烨
-- 李英
-- 顾彬
-- 顾湘
-- 王安忆
-- 曾慧燕
 - 柴静
 - 毛泽东
 - 周恩来
-- 大禹
 products_models: []
 project:
 - historical-insights

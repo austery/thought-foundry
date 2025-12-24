@@ -24,8 +24,6 @@ media_books:
 - 《Project SunCatcher》
 people:
 - Ace
-- Caleb writes code
-- Philip Johnson
 - Elon Musk
 products_models:
 - Starship

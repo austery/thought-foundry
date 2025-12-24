@@ -9,10 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《增长的文化：现代经济的起源》
-people:
-- Joel Mokyr
-- Joseph Needham
-- Huang Yasheng
 products_models: '[]'
 project:
 - china-analysis

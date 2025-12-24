@@ -33,26 +33,6 @@ media_books:
 - 'Alien: Romulus'
 - The Lord of the Rings
 - Harry Potter
-people:
-- Greig Mordue
-- Vincent Bladen
-- Colin Ellis
-- Barry Hertz
-- Kenneth Lee
-- David Ayer
-- Rob Cohen
-- Timothy Olyphant
-- Doug Liman
-- Vin Diesel
-- Paul Walker
-- Michelle Rodriguez
-- Jordana Brewster
-- Charlize Theron
-- Helen Mirren
-- Caleb Walker
-- Cody Walker
-- Carrie Fisher
-- Ian Holm
 products_models:
 - Jeep Compass
 project:

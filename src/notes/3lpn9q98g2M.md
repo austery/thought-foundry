@@ -18,15 +18,7 @@ media_books:
 - 《聋女独白》
 - documentary-film
 people:
-- 崔竞
-- 顽真
-- 立早
-- 另翎
 - H阿姨
-- 余姐
-- 曹群
-- 梅豆
-- 晴子
 products_models: []
 project:
 - personal-growth-lab

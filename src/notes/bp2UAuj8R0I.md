@@ -15,10 +15,6 @@ media_books:
 - The Departed
 people:
 - Stephen King
-- Sully Sullenberger
-- Michael Corleone
-- Chen Wing-yan
-- Lau Kin-ming
 products_models: '[]'
 project:
 - personal-growth-lab

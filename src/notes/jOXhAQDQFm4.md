@@ -20,11 +20,9 @@ media_books:
 people:
 - Tracy Mumford
 - Donald Trump
-- Timothy Melon
 - Xi Jinping
 - Vladimir Putin
 - Scott Bessant
-- Damen Cave
 products_models:
 - SNAP
 - Boravestnik

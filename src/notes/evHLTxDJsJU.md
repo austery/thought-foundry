@@ -17,11 +17,8 @@ media_books:
 - The Prophet
 - The Coming Wave
 people:
-- Wael Sawan
 - Nikolai Tangen
 - Mustafa Suleyman
-- Jeroen van der Veer
-- Kahlil Gibran
 products_models: []
 project:
 - geopolitics-watch

@@ -20,11 +20,9 @@ media_books:
 - 《金融时报》
 people:
 - Vladimir Putin
-- Alexander Matovsky
 - Samuel Huntington
 - Viktor Orbán
 - Donald Trump
-- 克里斯多夫·尤斯汀
 products_models: '[]'
 project:
 - geopolitics-watch

@@ -22,15 +22,9 @@ media_books:
 people:
 - Donald Trump
 - Thomas Massie
-- Jeremy Allen White
 - Jennifer Lawrence
-- Robert Pattinson
 - Sydney Sweeney
-- Keanu Reeves
 - Dwayne Johnson
-- Russell Crowe
-- Julia Roberts
-- Timothy Chalamet
 products_models:
 - Cryptocurrency ATMs
 project:

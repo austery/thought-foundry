@@ -31,13 +31,9 @@ media_books:
 people:
 - Donald Trump
 - Benjamin Netanyahu
-- Isaac Herzog
-- Vitkov
 - Jared Kushner
-- Umenov
 - Marco Rubio
 - Sanae Takaichi
-- Chris Tang
 - Vladimir Putin
 - Nicolás Maduro
 - Xi Jinping

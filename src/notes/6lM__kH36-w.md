@@ -29,19 +29,13 @@ people:
 - Donald Trump
 - Joe Biden
 - Gavin Newsom
-- George David Banks
 - Al Gore
-- Juan Carlos Monterrey Gomez
-- Nigel Topping
 - Xi Jinping
 - 高市早苗
 - 薛健
 - 麻生太郎
 - 赖清德
-- 洪浩
-- 金以斯拉
 - 毛泽东
-- 圣奥古斯丁
 - 李强
 products_models:
 - iPhone

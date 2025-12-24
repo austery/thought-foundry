@@ -8,11 +8,6 @@ date: '2025-05-25'
 guest: ''
 insight: null
 layout: post.njk
-people:
-- Peter Diamandis
-- Anish Acharya
-- Dave Blundin
-- Salim Ismail
 products_models: []
 project:
 - ai-impact-analysis

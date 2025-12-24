@@ -13,16 +13,9 @@ layout: post.njk
 people:
 - Xi Jinping
 - Mao Zedong
-- 何伟东
 - 张又侠
-- 张声明
-- 刘振利
-- Pete Hexeth
-- Charles Q. Brown Jr.
 - 董军
-- Robert Burke
 - 泽连斯基
-- 帕帕罗
 products_models:
 - B-2 Ghost bomber
 - F-22 Mengqin fighter jet

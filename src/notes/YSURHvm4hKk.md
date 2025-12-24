@@ -11,12 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《模型思考者》
-people:
-- 斯科特·佩奇
-- 乔治亚·奥基夫
-- 理查德·莱文斯
-- 孔多塞
-- 罗伯特·卢卡斯
 products_models:
 - BMI指数
 - 前景理论

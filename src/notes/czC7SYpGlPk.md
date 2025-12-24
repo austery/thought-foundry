@@ -32,7 +32,6 @@ people:
 - 毛泽东
 - Elon Musk
 - 黄仁勋
-- LeCun
 products_models:
 - ChatGPT
 - Grok

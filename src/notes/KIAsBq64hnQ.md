@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Cesar Ramirez-Sarmiento
 products_models: []
 project:
 - ai-impact-analysis

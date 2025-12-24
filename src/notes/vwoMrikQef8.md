@@ -58,9 +58,7 @@ media_books:
 people:
 - Warren Buffett
 - Tom Lee
-- Ashwath Damodaran
 - Elon Musk
-- Ron Baron
 - Sundar Pichai
 - Charlie Munger
 - Howard Marks
@@ -70,18 +68,14 @@ people:
 - Bill Gates
 - Donald Trump
 - Kevin Hassett
-- Claudia Sahm
 - Jerome Powell
-- Logan (Fed President)
 - Michael Saylor
-- Hunter Horsley
 - Jamie Dimon
 - Paul Krugman
 - Gavin Baker
 - Ro Khanna
 - David Friedberg
 - Bill Ackman
-- Scott Galloway
 - Andrew Huberman
 - Tim Cook
 - Jensen Huang

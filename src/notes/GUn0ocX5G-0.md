@@ -1,6 +1,8 @@
 ---
 area: tech-engineering
 category: ai-ml
+companies:
+- critical-metal
 companies_orgs:
 - KoBold
 - TED
@@ -9,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Mfikeyi Makayi
 products_models:
 - KoBold mine
 project:
@@ -26,8 +26,6 @@ tags:
 - design
 - history
 title: AI如何重塑矿业：关键金属勘探的新范式
-companies:
-- critical-metal
 ---
 
 ### 引言：矿业背景与关键金属的需求

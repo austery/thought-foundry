@@ -27,13 +27,8 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Jasmine Sun
-- Zach David
-- Will Dep Pew
 - Joe Rogan
 - Andrew Huberman
-- RFK Jr.
-- DA Wallik
 products_models:
 - Oxytocin
 - GLP-1

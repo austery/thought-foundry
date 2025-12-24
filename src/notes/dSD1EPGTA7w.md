@@ -32,7 +32,6 @@ people:
 - Michael Burry
 - Tom Lee
 - Tobi Lütke
-- Ryan Dietrich
 products_models:
 - TPUs
 - CUDA

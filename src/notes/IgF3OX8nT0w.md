@@ -12,15 +12,9 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- William Thompson (Lord Kelvin)
 - Joseph Fourier
 - Pierre-Simon Laplace
-- Carl Norden
 - Claude Shannon
-- David Parkinson
-- George Stibitz
-- James Thompson
-- Beauchamp Tower
 - Napoleon
 - analog-computing
 products_models:

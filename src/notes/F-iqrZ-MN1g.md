@@ -15,8 +15,6 @@ media_books: '[]'
 people:
 - Donald Trump
 - Joe Biden
-- Hannah Duggan
-- William Justice
 products_models: '[]'
 project:
 - us-analysis

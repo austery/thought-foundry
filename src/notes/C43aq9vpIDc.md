@@ -19,9 +19,6 @@ media_books:
 people:
 - 唐石峻
 - 沃伦·巴菲特
-- 霍华德·马克斯
-- 老段
-- 迈克尔·戴尔
 products_models:
 - Photoshop
 - Premiere Pro

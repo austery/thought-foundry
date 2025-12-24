@@ -12,19 +12,8 @@ media_books:
 - Summa de Arithmetica
 - Ars Magna
 people:
-- Luca Pacioli
-- Omar Khayyam
-- Scipione del Ferro
-- Antonio Fior
-- Niccolo Fontana Tartaglia
-- Gerolamo Cardano
-- Rafael Bombelli
-- Francois Viete
-- Rene Descartes
-- Euler
 - Erwin Schrödinger
 - Louis de Broglie
-- Freeman Dyson
 products_models:
 - Bohr model
 - Schrödinger equation

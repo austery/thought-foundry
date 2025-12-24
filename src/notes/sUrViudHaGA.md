@@ -23,9 +23,7 @@ layout: post.njk
 media_books:
 - How I AI
 people:
-- Lucas Worthing
 - Clarvo
-- Shishta
 products_models:
 - ChatGPT
 - Whoop

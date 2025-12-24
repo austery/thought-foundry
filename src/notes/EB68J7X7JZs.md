@@ -9,12 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《比山更高 自由攀登者的悲情与荣耀》
-people:
-- 宋明蔚
-- 严冬冬
-- 周鹏
-- 王茁
-- 伍鹏
 products_models: []
 project:
 - historical-insights

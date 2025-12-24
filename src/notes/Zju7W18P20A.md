@@ -15,25 +15,10 @@ media_books:
 - L'Ingénu
 people:
 - David Graeber
-- David Wengrow
 - Jean-Jacques Rousseau
-- Gabriel Sagard
 - Voltaire
 - Locke
-- Father Jérôme Lallemant
-- Kondiaronk
-- Lahontan
-- Montesquieu
-- Diderot
-- Christopher Boehm
-- Marcel Mauss
-- Robert Lowie
-- Eleanor Leacock
-- Turgot
 - Adam Smith
-- Marshal Sahlins
-- Gregory Bateson
-- Murray Bookchin
 products_models: []
 project:
 - historical-insights

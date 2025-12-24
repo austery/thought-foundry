@@ -18,8 +18,6 @@ media_books:
 - 《美国政治科学评论》
 people:
 - Xi Jinping
-- 吕小波
-- Ry
 products_models:
 - MRNA疫苗
 - 灭活疫苗

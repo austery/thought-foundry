@@ -10,12 +10,8 @@ layout: post.njk
 media_books:
 - 《斐多篇》
 people:
-- 苏德超
-- 杨光先
-- 汤若望
 - 牛顿
 - 爱因斯坦
-- 袁岚峰
 - 鲁迅
 - 苏格拉底
 products_models: []

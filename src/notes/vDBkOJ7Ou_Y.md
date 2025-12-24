@@ -13,15 +13,8 @@ media_books:
 - 《从优秀到伟大》
 - 《论语》
 people:
-- 艾比克泰德
-- 莱茵霍尔德·尼布尔
-- James Stockdale
 - 乔治·华盛顿
 - 托马斯·杰斐逊
-- 阿里安
-- James Collins
-- 奥勒留
-- 帕斯卡尔
 - 崔健
 - 孔子
 - 苏格拉底

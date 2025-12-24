@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: culture
+companies:
+- psychological-warfare
 companies_orgs:
 - Venetian
 - Poker Go
@@ -23,14 +25,6 @@ media_books:
 - Hustler Casino Live
 people:
 - Phil Hellmuth
-- Alan Keating
-- Jason Koon
-- Jenny Just
-- Blair Bigalow
-- Molly Bloom
-- Stu Ungar
-- Chip Reese
-- Steph Curry
 products_models: []
 project:
 - cultural-critique
@@ -45,8 +39,6 @@ tags:
 - risk-taking
 - strategy
 title: All-In 播客对决扑克传奇：一场充满智慧与风云的牌桌特别赛
-companies:
-- psychological-warfare
 ---
 
 ### 欢迎来到 All-In Bestie 扑克邀请赛

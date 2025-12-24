@@ -18,7 +18,6 @@ insight: ''
 layout: post.njk
 people:
 - Marc Rowan
-- Adam U
 products_models: []
 project:
 - investment-strategy

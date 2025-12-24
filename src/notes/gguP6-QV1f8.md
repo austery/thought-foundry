@@ -70,14 +70,11 @@ people:
 - Jason Calcanis
 - Mark Zuckerberg
 - Nancy Pelosi
-- Ethan Brown
 - Ken Griffin
 - Ted Sarandos
-- Greg Peters
 - Paul Atkins
 - Gary Gensler
 - Sundar Pichai
-- Travis Kelce
 - Taylor Swift
 products_models:
 - S&P 500

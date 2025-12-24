@@ -30,22 +30,11 @@ media_books:
 - 《华尔街日报》
 - 《金融时报》
 people:
-- Hall Brands
-- Michael Quicken
 - Xi Jinping
 - He Weidong
-- Zhang Shengmin
-- Zhang Youxia
-- Liu Zhenli
-- Miao Hua
-- Mike Gallagher
 - Donald Trump
 - Lai Ching-te
 - 高市早苗
-- Michael Sharp
-- Barton Davis
-- Lochsmith
-- Magufuli
 products_models:
 - 无人机
 - 半导体

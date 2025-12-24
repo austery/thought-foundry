@@ -16,8 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 李彦宏
 products_models:
 - Wechat
 - Google Map

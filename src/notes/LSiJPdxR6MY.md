@@ -16,11 +16,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《麻省理工科技评论》
-people:
-- 斯图尔特·巴特菲尔德
-- 莱尼
-- 肯·伯恩斯
-- 泰勒·斯威夫特
 products_models: []
 project:
 - us-analysis

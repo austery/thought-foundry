@@ -19,12 +19,6 @@ media_books:
 - judicial-review
 people:
 - Donald Trump
-- Justice Alito
-- Justice Thomas
-- Li Cunxin
-- Charles Foster
-- Chen Yiye
-- Chen Chong
 - George W. Bush
 - Ronald Reagan
 - George H.W. Bush

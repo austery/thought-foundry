@@ -12,13 +12,7 @@ media_books:
 - infinite-series
 people:
 - Isaac Newton
-- Archimedes
-- Francois Viete
-- Ludolph van Ceulen
-- Christoph Grienberger
 - Derek Muller
-- Alex Kontorovich
-- newtonian-calculu
 products_models: []
 project:
 - historical-insights

@@ -19,11 +19,7 @@ people:
 - David Hume
 - Karl Marx
 - Georg Wilhelm Friedrich Hegel
-- Parmenides
-- Speusippus
-- Philip II
 - Alexander the Great
-- Zeus
 products_models: []
 project:
 - historical-insights

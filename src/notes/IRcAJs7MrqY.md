@@ -20,10 +20,7 @@ insight: ''
 layout: post.njk
 people:
 - Doug Ford
-- Mike Shriner
 - Mark Winfield
-- Joanna Curassis
-- Adisu Lashau
 - Mark Carney
 - Donald Trump
 products_models:

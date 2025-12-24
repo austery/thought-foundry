@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- intellectuals-role
 companies_orgs:
 - 中央电视台
 - 广电部
@@ -24,29 +26,19 @@ media_books:
 - 《邓力群回忆录》
 - 《人民日报》
 people:
-- 苏小康
-- 夏俊
 - 赵紫阳
 - 王震
 - 李鹏
 - 李先念
 - 杨尚昆
-- 陈汉元
 - 莫言
-- 胡启立
 - 李光耀
 - 杨振宁
-- 金观涛
 - 胡耀邦
-- 阎明复
-- 戴晴
-- 李泽厚
 - 刘晓波
-- 丁子霖
 - 蔡元培
 - 胡适
 - 陈寅恪
-- 冯友兰
 - 郭沫若
 products_models:
 - 《河殇》
@@ -67,8 +59,6 @@ tags:
 - history
 - political-reform
 title: 《河殇》总撰稿人苏小康：一部纪录片如何卷入中国高层政争与文化反思
-companies:
-- intellectuals-role
 ---
 
 ### 《河殇》的诞生与轰动效应

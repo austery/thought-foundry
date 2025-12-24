@@ -34,12 +34,7 @@ people:
 - 郑丽文
 - Xi Jinping
 - Vladimir Putin
-- Peter Hogshead
 - 李强
-- 郑明华
-- 赵伟奇
-- 梁丽
-- 吕庆华
 products_models:
 - ION
 project:

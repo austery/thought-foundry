@@ -30,7 +30,6 @@ media_books:
 people:
 - Larry Summers
 - Jeffrey Epstein
-- Jing Yü
 - Donald Trump
 - Barack Obama
 - Joe Biden
@@ -38,18 +37,10 @@ people:
 - Paul Samuelson
 - Kenneth Arrow
 - Bill Clinton
-- Robert Rubin
 - Alan Greenspan
-- Michael Sandel
 - Virginia Giuffre
 - Prince Andrew
-- George Oliver Koppel
-- Eliot Spitzer
 - Jamie Dimon
-- Lawrence Wise
-- Huang Yasheng
-- Jin Liqun
-- Elisa New
 - Mark Zuckerberg
 products_models: []
 project:

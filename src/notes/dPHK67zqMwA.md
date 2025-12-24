@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - amit-kukreja
-- gold-commodity
 products_models: []
 project:
 - china-analysis

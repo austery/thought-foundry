@@ -11,11 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Johann Schleier-Smith
-- Cornelia Davis
-- Samuel Kovven
-- Edgar Dystra
-- David Parnes
 - Andre Karpathy
 products_models:
 - Airbus A320

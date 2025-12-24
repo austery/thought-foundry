@@ -84,8 +84,6 @@ people:
 - Donald Trump
 - Marjorie Taylor Greene
 - Peter Beck
-- Mike Intrator
-- Nitin Agrawal
 products_models:
 - Bitcoin
 - Ethereum

@@ -24,10 +24,7 @@ media_books:
 - 《方略》
 people:
 - Duan Yongping
-- Fang Sanwen
-- Terry Gou
 - Warren Buffett
-- Peter Drucker
 products_models:
 - iPhone
 project:

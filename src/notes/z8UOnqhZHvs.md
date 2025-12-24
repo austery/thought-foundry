@@ -22,12 +22,7 @@ media_books:
 - The Huffington Post
 - Financial Times Business Book of the Year
 people:
-- Nicolola Tangian
-- Tan Su Shan
-- Ariana Huffington
 - Kathy Wood
-- Peter Diamandis
-- Salim Ismail
 products_models:
 - Bloomberg Terminal
 - Twitch

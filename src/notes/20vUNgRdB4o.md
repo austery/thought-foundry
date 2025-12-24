@@ -14,7 +14,6 @@ media_books:
 - The Martian
 - Astrum
 people:
-- Kenneth Farley
 - Alex
 products_models:
 - Ingenuity

@@ -1,26 +1,23 @@
 ---
-title: 长谈李笑来：大脑是最好的玩具，如何通过自我对话掌控人生
-summary: null
 area: null
-category: null
-project: []
-tags:
-- psychology
-- 意志力
-people:
-- 李笑来
-- 脱不花
-companies_orgs: []
-products_models: []
-date: '2025-07-15'
 author: Lei
-speaker: ''
+category: null
 channel: null
+companies_orgs: []
+date: '2025-07-15'
 guest: ''
 insight: null
 layout: post.njk
+products_models: []
+project: []
 series: null
 source: https://www.youtube.com/watch?v=nMSBPYk1nwQ&t
+speaker: ''
+summary: null
+tags:
+- psychology
+- 意志力
+title: 长谈李笑来：大脑是最好的玩具，如何通过自我对话掌控人生
 ---
 
 **李笑来**：一切成瘾性消费都是生产者对消费者的剥削。这事其实挺残酷的，我们过去有很多认知是错误的。我觉得很多人会很容易戒掉烟的。手机现在是个大问题，我们不小心把它变成了我们的一个器官，这个“超大分支”实际上真的让每个人要重新做一些选择。可能未来的时代里，最基础的核心技能就是阅读和研究。大脑是这个世界给我们的最好的玩具，任何一个健康的大脑，在有生之年都可以成为解决人类大问题的科学家。我真的相信自己能够变得更好。

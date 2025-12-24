@@ -13,10 +13,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- John Allen
 - Donald Trump
 - Tony Blair
-- Bibi Netanyahu
 - Marco Rubio
 products_models: []
 project:

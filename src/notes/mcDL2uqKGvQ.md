@@ -13,8 +13,6 @@ media_books:
 people:
 - 亚里士多德
 - 余英时
-- 周有光
-- Colin Powell
 - George W. Bush
 products_models: []
 project:

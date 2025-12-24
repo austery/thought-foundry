@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Refilwe Ledwaba
-- Tom Cruise
 products_models: []
 project:
 - personal-growth-lab

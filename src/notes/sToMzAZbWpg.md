@@ -80,15 +80,11 @@ media_books:
 people:
 - Xi Jinping
 - 高市早苗
-- 三口百恵
-- 高仓健
-- 鸟山明
 - 木村拓哉
 - 宫崎骏
 - 毛泽东
 - 蒋介石
 - 孙中山
-- 赖昌星
 products_models:
 - Walkman
 - 夏利

@@ -1,6 +1,8 @@
 ---
 area: tech-work
 category: ai-ml
+companies:
+- factory-farming
 companies_orgs:
 - Open Philanthropy
 - PETA
@@ -27,10 +29,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Lewis Bollard
-- Craig Watts
-- Andres
 products_models: []
 project:
 - ai-impact-analysis
@@ -44,8 +42,6 @@ tags:
 - policy
 - technology
 title: 人造肉比人工智能更难：工厂化养殖的困境与动物福利的未来
-companies:
-- factory-farming
 ---
 
 今天我与**刘易斯·博拉德**（Lewis Bollard）进行了一次对话，他是**Open Philanthropy**（开放慈善基金会: 动物福利领域最大的慈善机构）农场动物福利项目的主任。**刘易斯**，非常感谢你来到播客。我也很高兴能来。第一个问题，我们迟早会拥有**通用人工智能**（AGI: Artificial General Intelligence，指能够理解、学习或应用任何人类智能任务的AI）。你如何看待你试图解决的问题？你是否只是想在**AI**为我们解决这个问题之前的十年里，让动物的生存条件变得更可忍受？或者，我们现在所做的干预，比如**孵化期性别鉴定**（in-ovo sexing: 在鸡蛋孵化早期识别性别，从而避免孵化出不必要的雄性雏鸡）或推广**散养鸡蛋**（cage-free eggs: 鸡只不被关在狭小笼子里饲养的鸡蛋），是否能在这个变革时刻之后继续产生影响？

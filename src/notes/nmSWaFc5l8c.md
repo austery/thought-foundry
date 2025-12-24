@@ -17,15 +17,7 @@ layout: post.njk
 media_books:
 - The Rundown
 people:
-- Lyse Doucet
-- Amanullah
-- Hazrat
-- Truman Capote
-- Margaret Atwood
-- Juan Trippe
 - Osama bin Laden
-- Malala Yousafzai
-- Robertson Davies
 products_models:
 - The Finest Hotel in Kabul
 - In Cold Blood

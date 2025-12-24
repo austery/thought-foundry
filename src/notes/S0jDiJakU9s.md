@@ -24,9 +24,6 @@ people:
 - Donald Trump
 - Justin Trudeau
 - Stephen Harper
-- Jack Layton
-- Elizabeth May
-- Jonathan Pedneault
 - Mary Simon
 products_models: []
 project:

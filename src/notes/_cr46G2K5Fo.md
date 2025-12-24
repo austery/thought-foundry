@@ -12,18 +12,7 @@ media_books:
 - Discourses and Mathematical Demonstrations Relating to Two New Sciences
 - Proof That Every Set Can Be Well-Ordered
 people:
-- Georg Cantor
 - Galileo Galilei
-- Julius König
-- Ernst Zermelo
-- Leopold Kronecker
-- Giuseppe Vitali
-- Stefan Banach
-- Alfred Tarski
-- Henri Lebesgue
-- Maurice René Fréchet
-- Kurt Godel
-- Paul Cohen
 products_models:
 - ChatGPT
 project:

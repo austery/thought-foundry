@@ -23,23 +23,9 @@ media_books:
 - 《资本论》
 - 《全球财富报告2022》
 people:
-- 斋藤幸平
-- William Nordhaus
-- Stephan Lessenich
-- Ulrich Brand
-- James Hansen
 - Bernie Sanders
-- Jeremy Corbyn
-- Roosevelt
-- Bolsonaro
 - Karl Marx
-- Edward Said
-- Justus von Liebig
-- Karl Fraas
-- Andreas Malm
 - Thomas Piketty
-- Erica Chenoweth
-- marxist-ecology
 products_models:
 - iPhone
 - 电动汽车

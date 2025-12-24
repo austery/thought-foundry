@@ -17,15 +17,6 @@ media_books:
 - 'The Hunger Games: Sparks'
 - Evangelion
 - Death Note
-people:
-- Maurizio Lazzarato
-- Alex Gourevitch
-- Michael Burawoy
-- Mark Fisher
-- Guy Debord
-- Tsunehiro Uno
-- Hwang Dong-hyuk
-- Adrian Hon
 products_models:
 - Duolingo
 project:

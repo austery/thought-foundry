@@ -20,16 +20,7 @@ media_books:
 - 《华尔街日报》
 - 《洛杉矶时报》
 people:
-- 宣国军
-- 谢尔维亚·张
-- 李春梅
-- 马浩仁
-- 麦格弗兰
-- 凯拉·埃里奥特
-- 秦刚
 - 郑爽
-- 约翰·肯尼迪
-- 罗伯特·肯尼迪
 products_models: []
 project:
 - us-analysis

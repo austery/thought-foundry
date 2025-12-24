@@ -17,8 +17,6 @@ media_books:
 people:
 - 唐石峻
 - 巴菲特
-- 迈克尔·贝瑞
-- 杰姆·扬格特
 products_models: []
 project:
 - investment-strategy

@@ -13,10 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 苏箐
-- 余凯
-- 奥本海默
 products_models:
 - HSD
 - FSD V12

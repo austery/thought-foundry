@@ -31,7 +31,6 @@ people:
 - Donald Trump
 - Warren Buffett
 - Marc Rowan
-- Ludovic Phalippou
 - Cliff Asness
 products_models:
 - 401(k)

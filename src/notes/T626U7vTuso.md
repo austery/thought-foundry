@@ -31,15 +31,8 @@ media_books:
 people:
 - Alex Karp
 - Matt Money
-- Araldo
-- Amir
-- Arie
-- Brent Thill
 - Michael Burry
 - Dan Ives
-- Sham Sankar
-- Dave Glazer
-- Ryan Taylor
 - Jim Cramer
 - Jensen Huang
 - Donald Trump

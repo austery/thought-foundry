@@ -15,25 +15,9 @@ media_books:
 - Arctic Dreams
 - Trap Lines North
 people:
-- Steven Rinella
 - Michael Barbaro
-- Aldo Leopold
-- John Muir
-- Daniel Boone
-- Max Barta
-- Mark Beers
-- Tina Antalini
-- Wendy Door
-- Afem Shapiro
-- Alyssa Jane Moxley
 - Susan Lee
-- Daniel Powell
 - Marian Lozano
-- Ben Calhoun
-- Paige Cowed
-- Katie Finch
-- Malia Woolen
-- Phil Taylor
 products_models:
 - Meat Eater
 - The Daily

@@ -24,9 +24,7 @@ people:
 - Mikhail Gorbachev
 - 王毅
 - Nancy Pelosi
-- 刘静松
 - 薛剑
-- 朱立伦
 products_models:
 - Mirage 2000
 - MiG-21

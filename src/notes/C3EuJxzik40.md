@@ -10,10 +10,8 @@ layout: post.njk
 people:
 - Warren Buffett
 - Saddam Hussein
-- Muammar Gaddafi
 - Ronald Reagan
 - Richard Nixon
-- Scipio Aemilianus Africanus
 products_models: []
 project:
 - us-analysis

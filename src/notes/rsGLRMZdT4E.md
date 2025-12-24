@@ -38,26 +38,11 @@ media_books:
 - The Inconvenient Truth
 - The Master Builder
 people:
-- Ida Wolden Bache
 - Nikolai Tangen
 - Mark Carney
 - Christine Lagarde
 - Al Gore
-- Øystein Børmer
-- Karoline Flåm
-- Bjørn Samset
-- Solomon Hsiang
-- Amelia Garcia-Appendini
-- Diego Känzig
-- Bård Harstad
-- Hilde C. Bjørnland
 - Kristin Halvorsen
-- Tim Lenton
-- Laura Starks
-- Harrison Hong
-- Carina Smith
-- Jane Goodall
-- Henrik Ibsen
 products_models:
 - Paris Agreement
 - European Emissions Trading Scheme

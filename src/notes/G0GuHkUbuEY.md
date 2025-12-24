@@ -21,8 +21,6 @@ people:
 - Donald Trump
 - Alan Greenspan
 - Ben Bernanke
-- Karen Petrou
-- Steven Myron
 products_models: []
 project:
 - us-analysis

@@ -1,47 +1,30 @@
 ---
-author: Lei
-date: '2025-11-01'
-guest: ''
-layout: post.njk
-source: https://www.youtube.com/watch?v=zAzsDHpR4xs
-speaker: ''
-title: 从 Grokking (顿悟) 到科研哲学：AI 如何从记忆转向泛化
-summary: 前 Meta 资深研究员（Tianyu Lin）探讨了 AI 学习的核心机制，特别是模型如何从“记忆”跃迁到“泛化”（Grokking/顿悟）。他分享了其团队在
-  Meta 的贡献、对研究者“洞察力”的定义，并提出了一个理论框架：学习过程是一个优化景观，泛化峰值随数据增加而超越记忆峰值。他还讨论了损失函数作为“代理”的本质，以及
-  AI（如 GPT-5）在未来科研中的辅助角色。
 area: tech-insights
+author: Lei
 category: technology
-project:
-- ai-impact-analysis
-- systems-thinking
-tags:
-- grokking
-- health
-- insight
-- learning
-- mental-model
-- philosophy
-people:
-- Tianyu Lin
-- Ilya Sutskever
-- 张无忌
-- 谢逊
-- Rich Sutton
-- Geoffrey Hinton
-- Andrej Karpathy
-- 李沐
-- 孔子
-- 阿基米德
-- Luis von Ahn
-- Yang Song
-- Zhiyuan
-- 课代表立正
-- 田渊栋
 companies_orgs:
 - Meta
 - FAIR
 - Tencent
 - OpenAI
+date: '2025-11-01'
+draft: true
+guest: ''
+layout: post.njk
+media_books:
+- Twitter
+- Xiaohongshu
+- 《金庸小说》
+- 《Nature Machine Learning》
+- 《关于ChatGPT最重要的五个问题》
+people:
+- Ilya Sutskever
+- Rich Sutton
+- Geoffrey Hinton
+- Andrej Karpathy
+- 孔子
+- 课代表立正
+- 田渊栋
 products_models:
 - Llama-1
 - Llama-2
@@ -51,14 +34,23 @@ products_models:
 - Claude
 - Duolingo
 - second mind
-media_books:
-- Twitter
-- Xiaohongshu
-- 《金庸小说》
-- 《Nature Machine Learning》
-- 《关于ChatGPT最重要的五个问题》
-draft: true
+project:
+- ai-impact-analysis
+- systems-thinking
+source: https://www.youtube.com/watch?v=zAzsDHpR4xs
+speaker: ''
 status: evergreen
+summary: 前 Meta 资深研究员（Tianyu Lin）探讨了 AI 学习的核心机制，特别是模型如何从“记忆”跃迁到“泛化”（Grokking/顿悟）。他分享了其团队在
+  Meta 的贡献、对研究者“洞察力”的定义，并提出了一个理论框架：学习过程是一个优化景观，泛化峰值随数据增加而超越记忆峰值。他还讨论了损失函数作为“代理”的本质，以及
+  AI（如 GPT-5）在未来科研中的辅助角色。
+tags:
+- grokking
+- health
+- insight
+- learning
+- mental-model
+- philosophy
+title: 从 Grokking (顿悟) 到科研哲学：AI 如何从记忆转向泛化
 ---
 
 ## 关于 Meta 裁员与发帖初衷

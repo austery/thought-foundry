@@ -24,7 +24,6 @@ people:
 - 唐石峻
 - Donald Trump
 - Andy Jassy
-- BOSS
 products_models:
 - Chrome
 - Comments

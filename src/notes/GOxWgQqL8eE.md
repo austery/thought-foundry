@@ -30,20 +30,8 @@ media_books:
 people:
 - Steve Paikin
 - John Michael McGrath
-- Howard Ferguson
-- Ernest Drury
 - Doug Ford
 - Paul Calandra
-- Ken Dryden
-- Peter Loewen
-- Michael Dryden
-- Linda Dryden
-- Sarah Dryden
-- Blake Dryden
-- Jim Bradley
-- Mike Schreiner
-- Maurice O'Shaughnessy
-- Dave Cook
 - Mike Harris
 products_models:
 - OHIP

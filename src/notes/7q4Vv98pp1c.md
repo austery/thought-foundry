@@ -12,31 +12,13 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Charles III
-- Camilla
 - Donald Trump
-- Elizabeth II
 - Mary Simon
-- Whit Fraser
 - Steven Guilbeault
-- Raymond Gagné
-- Francis Scarpaleggia
-- Kim Campbell
 - Stephen Harper
 - Justin Trudeau
-- Margaret Trudeau
-- Mila Mulroney
-- David Johnston
-- Adrienne Clarkson
-- Michaëlle Jean
 - Jean Chrétien
-- Jennie Carignan
 - Pierre Poilievre
-- Anita Poilievre
-- Marc Gold
-- Leo Housakos
-- Morgan Grace
-- J. Greg Peters
 - Mark Carney
 products_models: []
 project:

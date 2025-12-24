@@ -16,9 +16,7 @@ media_books:
 - 硅谷101
 people:
 - 田渊栋
-- 陈倩
 - Mark Zuckerberg
-- Alex Wang
 - Andrej Karpathy
 - Sam Altman
 - Ilya Sutskever

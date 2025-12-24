@@ -11,14 +11,9 @@ media_books:
 - 《共产党宣言》
 - 《圣经》
 people:
-- 王俊
 - 康德
 - 黑格尔
-- 萨弗兰斯基
-- 哈特穆特·罗萨
 - 马克思
-- 赫拉利
-- 胡塞尔
 products_models: []
 project:
 - historical-insights

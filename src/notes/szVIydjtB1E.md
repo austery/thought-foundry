@@ -13,9 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Rundown
-people:
-- Annabella Bonata
-- Adam Squeles
 products_models:
 - Toronto Green Standard
 - Provincial Planning Statement

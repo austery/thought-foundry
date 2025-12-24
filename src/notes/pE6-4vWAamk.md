@@ -11,9 +11,6 @@ people:
 - 杨小凯
 - 林毅夫
 - Daron Acemoglu
-- 托尔斯泰
-- 陀思妥耶夫斯基
-- 索尔仁尼琴
 - 戈尔巴乔夫
 products_models: []
 project:

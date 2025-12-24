@@ -26,19 +26,9 @@ people:
 - Tony Blair
 - Susie Wiles
 - Donald Trump Jr.
-- Kimberly Guilfoyle
 - Steven Mnuchin
 - Karoline Leavitt
-- Joseph Kushner
-- Charles Kushner
-- Chris Christie
-- Murray Kushner
-- Esther Kushner
-- Billy
-- James O'Toole
-- Susanna
 - Al Gore
-- Natalie Portman
 - Steve Bannon
 products_models:
 - Abraham Accords

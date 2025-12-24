@@ -14,9 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Sneha
-- Anushka
 products_models:
 - Selenium
 - Cypress

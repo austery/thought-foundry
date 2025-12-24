@@ -23,9 +23,7 @@ media_books:
 people:
 - Donald Trump
 - Shawn Duffy
-- Virginia Jeffrey
 - Prince Andrew
-- King Charles
 - Jeffrey Epstein
 - Kim Jong-un
 products_models: '[]'

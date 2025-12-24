@@ -15,7 +15,6 @@ media_books:
 - 不平等的童年
 people:
 - Anthony
-- Anne LaRue
 products_models:
 - Gemini Flash
 project:

@@ -7,10 +7,6 @@ date: 2025-07-10
 guest: null
 insight: null
 layout: post.njk
-people:
-- 跑狮
-- 大卫翁
-- 吉姆·西蒙斯
 project: 知行小酒馆
 series: null
 source: https://www.youtube.com/watch?v=W1APBdE8wOs

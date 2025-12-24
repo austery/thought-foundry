@@ -27,27 +27,11 @@ media_books:
 people:
 - Kathleen Wynne
 - Steve Paikin
-- Ralph Edwards
-- Eva Crummer
-- Paul Davidson
-- Andrew Bevan
 - Ernie Eves
 - Dalton McGuinty
-- Rosario Marchese
-- Gerard Kennedy
-- Mike Cole
-- Shelley Martel
 - Joe Cordiano
-- Sandra Pupitello
-- Charles Pascal
-- Michael Fullan
 - John Tory
-- Andrea Horwath
-- Tim Hudak
-- Ed Clark
-- Jean
 - Doug Ford
-- Michael Coteau
 - John Fraser
 products_models: []
 project:

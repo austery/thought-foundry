@@ -28,12 +28,7 @@ layout: post.njk
 media_books:
 - The Gift
 people:
-- Christine
-- Hannah Moral
-- Sue
-- RM
 - Mike
-- Don
 - Lee
 - Jim
 products_models:

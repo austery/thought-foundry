@@ -18,17 +18,7 @@ media_books:
 - Caddy Shack
 - She's Having a Baby
 people:
-- Salah ben Ghaly
-- Marlon Brando
-- Paul Erdos
-- Duncan Watts
-- Steve Strogatz
-- Albert-Laszlo Barabasi
-- Reka Albert
 - Robert Axelrod
-- Peter Higgs
-- Watson
-- Crick
 - Einstein
 - Steve Jobs
 - Casper

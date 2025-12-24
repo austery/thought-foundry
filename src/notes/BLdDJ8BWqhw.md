@@ -33,18 +33,10 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- John Elkann
 - Nikolai
 - Warren Buffett
-- Sergio Marchionne
-- John Luigi Gabetti
 - Sam Altman
 - Jony Ive
-- Marc Newson
-- Charles Leclerc
-- Giovanni Soldini
-- Giovanni Agnelli
-- Gianni Agnelli
 products_models:
 - Fiat 500
 - Citroen Ami

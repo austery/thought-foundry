@@ -16,9 +16,6 @@ media_books:
 - 《乡愁》
 - 《逆行人生》
 - 《我不是药神》
-people:
-- 徐峥
-- 余光中
 products_models: []
 project:
 - china-analysis

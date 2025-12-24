@@ -10,11 +10,6 @@ layout: post.njk
 media_books:
 - 'The Perfect Dictatorship: China in the 21st Century'
 - Anthem
-people:
-- Qin Shihuang
-- Zhou Youguang
-- Stein Ringen
-- Leonard Cohen
 products_models: []
 project:
 - china-analysis

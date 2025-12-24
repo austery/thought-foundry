@@ -21,14 +21,8 @@ people:
 - Donald Trump
 - Xi Jinping
 - Anwar Ibrahim
-- Mira Rapp-Hooper
-- Liu Pengyu
 - Rick Scott
-- Nicholas Burns
-- Meng Wanzhou
-- Zhang Zhidong
 - Vladimir Putin
-- Tao Jie
 - Ma Ying-jeou
 - Tsai Ing-wen
 products_models: []

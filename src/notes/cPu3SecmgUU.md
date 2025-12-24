@@ -14,11 +14,8 @@ media_books:
 people:
 - Sholto Douglas
 - Trenton Bricken
-- James Bradbury
 - Tristan Hume
-- Bruno Olous
 - Andy Jones
-- LeBron
 products_models:
 - Transformers
 - Large Multimodal Models

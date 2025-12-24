@@ -13,9 +13,7 @@ layout: post.njk
 media_books:
 - 《金钱心理学》
 people:
-- Morgan Housel
 - Warren Buffett
-- Ronald Read
 - Bill Gates
 products_models: []
 project:

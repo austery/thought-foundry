@@ -14,7 +14,6 @@ insight: ''
 layout: post.njk
 people:
 - 莊也
-- 李雪琴
 products_models: []
 project:
 - us-analysis

@@ -1,32 +1,29 @@
 ---
-title: 和 VSCode 核心开发吕鹏聊 AI 编程、Vibe Coding 与程序员的未来
-summary: 本期节目邀请了微软 VS Code 团队的 Engineering Manager 吕鹏，深入探讨了 AI 编程工具（如 Copilot）的演进、Vibe
-  Coding 的真正含义、未来程序员角色的转变，以及他从 IC 到 Manager 的个人经历和对工作与生活的思考。
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- vibe-coding
-tags:
-- ai-coding
-- code
-- vibe-coding
-people:
-- GeekPlux
-- 吕鹏
-companies_orgs: []
-products_models: []
-date: 2025-08-08
 author: Lei
-speaker: ''
+category: technology
 channel: null
+companies_orgs: []
+date: 2025-08-08
 draft: true
 file_name: talk_with_vscode_dev_lv_peng_ai_coding_future.md
 guest: ''
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
+- vibe-coding
 series: Vibe Coding
 source: https://www.youtube.com/watch?v=3f81GtoN31g&t
+speaker: ''
+summary: 本期节目邀请了微软 VS Code 团队的 Engineering Manager 吕鹏，深入探讨了 AI 编程工具（如 Copilot）的演进、Vibe
+  Coding 的真正含义、未来程序员角色的转变，以及他从 IC 到 Manager 的个人经历和对工作与生活的思考。
+tags:
+- ai-coding
+- code
+- vibe-coding
+title: 和 VSCode 核心开发吕鹏聊 AI 编程、Vibe Coding 与程序员的未来
 ---
 
 ## 广告时间：Relingo

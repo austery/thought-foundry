@@ -10,14 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Charles Spearman
-- Alfred Binet
-- Theodore Simon
-- Henry Goddard
-- Lewis Terman
-- Ian Deary
-- James Flynn
-- Oliver Wendell Holmes
 - Stephen Hawking
 products_models:
 - Binet-Simon test

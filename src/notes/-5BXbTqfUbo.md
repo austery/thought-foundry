@@ -16,7 +16,6 @@ media_books:
 - 《幸福的那个游戏》
 people:
 - 梁晓华
-- 张安佐
 - Arthur Brooks
 - Stephen Covey
 products_models: []

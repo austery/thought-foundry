@@ -20,7 +20,6 @@ media_books:
 - Mobile World Congress
 people:
 - Nicolai Tangen
-- Christel Heydemann
 - Mario Draghi
 products_models:
 - 5G

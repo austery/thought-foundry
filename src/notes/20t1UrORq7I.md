@@ -17,7 +17,6 @@ media_books:
 - How I AI
 people:
 - Clarvo
-- Michael Rabone
 products_models:
 - Lovable
 - Midjourney

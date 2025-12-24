@@ -11,7 +11,6 @@ layout: post.njk
 media_books:
 - Fluke
 people:
-- Brian Klaas
 - Adam Smith
 - Isaac Newton
 - Ivan

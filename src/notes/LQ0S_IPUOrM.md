@@ -17,7 +17,6 @@ insight: ''
 layout: post.njk
 people:
 - Isaac Newton
-- John Law
 - Sam Bankman-Fried
 - adam-s-axiom
 products_models:

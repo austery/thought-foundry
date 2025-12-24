@@ -15,19 +15,8 @@ media_books:
 people:
 - 顾准
 - 毛泽东
-- 张树凡
-- 李瑞英
 - 赫鲁晓夫
 - 彭德怀
-- 沈万山
-- 陆宪文
-- 张申
-- 杨守吉
-- 汪碧
-- 张富红
-- 李雪峰
-- 许云洲
-- gu-zhun
 products_models: []
 project:
 - china-analysis

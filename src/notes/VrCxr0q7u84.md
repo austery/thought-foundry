@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《低俗小说》
-people:
-- Mr. Wolf
 products_models: '[]'
 project:
 - personal-growth-lab

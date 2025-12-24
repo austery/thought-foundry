@@ -1,6 +1,8 @@
 ---
 area: market-analysis
 category: finance
+companies:
+- recycling-economics
 companies_orgs:
 - Bloomberg Intelligence
 - Amazon
@@ -24,8 +26,6 @@ layout: post.njk
 media_books:
 - Odd Lots
 - The Box
-people:
-- Ryan Fox
 products_models:
 - Bloomberg Terminal
 - Bloomberg Corrugated Box Cost Index
@@ -44,8 +44,6 @@ tags:
 - macroeconomic-indicator
 - society
 title: 纸箱：一个被忽视的美国经济晴雨表
-companies:
-- recycling-economics
 ---
 
 ### 纸箱：一个不寻常的宏观经济指标

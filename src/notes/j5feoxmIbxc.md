@@ -13,10 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - Jennifer Lawrence
-- Tim McLaughlin
-- Amil Niazi
-- Amy Schumer
-- Hannah Einbinder
 - Mike Myers
 products_models:
 - Black Square

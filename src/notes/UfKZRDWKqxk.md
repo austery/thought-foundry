@@ -18,10 +18,6 @@ media_books:
 - Dan Carlin's Hardcore History
 people:
 - Elon Musk
-- Nikhil Kamath
-- Douglas Adams
-- Kardashev
-- Spinoza
 products_models:
 - X
 - TikTok

@@ -19,15 +19,12 @@ media_books:
 people:
 - Donald Trump
 - John Roberts
-- Stephen Vladeck
 - Richard Nixon
 - Franklin D. Roosevelt
 - Winston Churchill
 - John F. Kennedy
 - Lyndon B. Johnson
 - Martin Luther King Jr.
-- Dietrich Bonhoeffer
-- William Hastie
 products_models: '[]'
 project:
 - us-analysis

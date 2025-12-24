@@ -28,12 +28,9 @@ people:
 - Jerome Powell
 - Donald Trump
 - Jamie Dimon
-- Jim Grant
 - Nancy Pelosi
 - Chuck Schumer
-- Mitch McConnell
 - Bill Gross
-- Dana Emery
 products_models:
 - Janus Unconstrained Bond Fund
 - S&P 500

@@ -32,7 +32,6 @@ people:
 - Marco Rubio
 - Angus King
 - J.D. Vance
-- Chris Coons
 - Olaf Scholz
 - Vladimir Putin
 - He Lifeng
@@ -40,14 +39,7 @@ people:
 - Lula da Silva
 - Narendra Modi
 - Wang Yi
-- 穆赫里丁
-- 小泉晋次郎
 - 高市早苗
-- 哈德利
-- 佩弗库尔
-- 汤姆·蒂利斯
-- 麦克·朗兹
-- 卢本·布雷克尔曼斯
 - 莫茨
 products_models:
 - 东风61

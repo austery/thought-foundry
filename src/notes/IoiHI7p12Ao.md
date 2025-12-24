@@ -8,8 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- swyx
 products_models: []
 project:
 - ai-impact-analysis

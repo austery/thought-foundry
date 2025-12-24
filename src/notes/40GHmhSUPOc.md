@@ -22,11 +22,8 @@ layout: post.njk
 media_books:
 - In Good Company
 people:
-- Peter Carlsson
 - Elon Musk
-- Claus Neelson
 - Mike Tyson
-- Google Founders
 products_models:
 - Model S
 project:

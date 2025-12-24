@@ -19,13 +19,8 @@ media_books:
 - 《美国宪法》
 people:
 - 孔子
-- 林肯
-- Isaac Berlin
-- Ronald Dworkin
-- 颜复
 - John Stuart Mill
 - Epictetus
-- Pertinex
 products_models: '[]'
 project:
 - us-analysis

@@ -27,18 +27,12 @@ media_books:
 - Declaration of Independence
 people:
 - Dan Wang
-- Kmele Foster
 - Elon Musk
-- Admiral Hyman Rickover
 - George Washington
 - Abraham Lincoln
 - Kamala Harris
 - Xi Jinping
 - Peter Thiel
-- Jake Sullivan
-- Gina Raimondo
-- Lina Khan
-- Brian Deese
 - Tim Cook
 products_models:
 - iPhone

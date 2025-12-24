@@ -15,14 +15,10 @@ media_books:
 - 《流人》
 - 美国参议院那份著名的报告
 people:
-- Richard Moore
-- James Bond
-- Ian Fleming
 - John le Carré
 - Vladimir Putin
 - Volodymyr Zelenskyy
 - Donald Trump
-- William Burns
 products_models: []
 project:
 - geopolitics-watch

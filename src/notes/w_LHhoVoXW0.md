@@ -13,7 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Alexandr Wang
 - Sam Altman
 products_models:
 - GPT-4

@@ -32,9 +32,7 @@ people:
 - Andy Jassy
 - Larry Ellison
 - Steve Ballmer
-- Aaron Levie
 - Andrej Karpathy
-- Hock Tan
 - Sam Altman
 products_models:
 - ChatGPT

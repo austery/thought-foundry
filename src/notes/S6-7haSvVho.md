@@ -18,10 +18,7 @@ layout: post.njk
 media_books:
 - Alex Schultz在斯坦福的讲座
 people:
-- Prakash
-- Alex Schultz
 - Sam Altman
-- Chamath
 products_models:
 - Facebook Marketplace
 - Facebook Shops

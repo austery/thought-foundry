@@ -11,10 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek
-- Lisa Taylor
-- Nathan
-- Wayne Maddison
-- Megan Porter
 products_models:
 - Bitrex
 project:

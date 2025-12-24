@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Lyons-Ruth
 products_models: []
 project:
 - personal-growth-lab

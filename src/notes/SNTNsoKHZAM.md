@@ -18,12 +18,8 @@ media_books:
 people:
 - 刘总
 - 老尹
-- 清月
-- Arthur Croomber
 - 特朗普
-- 周宏伟
 - 夏河
-- 刘索龙
 products_models:
 - Escape from Tarkov
 - Elden Ring

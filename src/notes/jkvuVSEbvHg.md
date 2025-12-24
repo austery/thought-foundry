@@ -14,11 +14,8 @@ media_books:
 people:
 - Kamala Harris
 - 贺卫方
-- 王立雄
-- 王丹
 - Elon Musk
 - 李老师
-- 孙大午
 products_models:
 - Starlink
 project:

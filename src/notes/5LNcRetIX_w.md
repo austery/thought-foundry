@@ -17,19 +17,9 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 卢武铉
 - 李在明
 - 尹锡悦
-- 金建希
-- 全斗焕
 - 卢泰愚
-- 金泳三
-- 金贤哲
-- 李明博
-- 朴槿惠
-- 小泽一郎
-- 金大中
-- 文在寅
 products_models: []
 project:
 - geopolitics-watch

@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Luciano Rezzolla
 products_models: []
 project:
 - systems-thinking

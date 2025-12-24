@@ -35,18 +35,13 @@ media_books:
 people:
 - Sholto Douglas
 - Trenton Bricken
-- Sam Rodriques
-- Kelsey Piper
 - Dario Amodei
 - Joseph Henrich
 - Eliezer Yudkowsky
 - Jeff Dean
 - Noam Shazeer
-- Ege Erdil
-- Tamay Besiroglu
 - Daniel Kokotajlo
 - Serena Williams
-- Nicholas Carlini
 - Andrej Karpathy
 - Chris Olah
 - Mark Zuckerberg

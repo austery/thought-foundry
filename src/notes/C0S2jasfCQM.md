@@ -14,19 +14,8 @@ media_books:
 - 《东西方哲学思想史》
 people:
 - 顾准
-- 徐芳
-- 汪碧
 - 毛泽东
 - 薄一波
-- 吴景莲
-- 张春英
-- 陈敏智
-- 顾崇之
-- 吕志伟
-- 钱钟书
-- 吕叔湘
-- 周扬
-- gu-zhun
 products_models: []
 project:
 - historical-analysis

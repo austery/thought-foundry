@@ -35,12 +35,7 @@ people:
 - Pam Bondi
 - Kash Patel
 - Barack Obama
-- Troy Nehls
-- Carl Hulse
 - Muhammad bin Salman
-- Jamal Khashoggi
-- Greg Abbott
-- trump-loyalty
 products_models: []
 project:
 - us-analysis

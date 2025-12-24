@@ -22,17 +22,6 @@ media_books:
 - 《APRAS健康力》
 - 《操盤者》
 - Nature
-people:
-- 林欣榮
-- 高希均
-- 證嚴上人
-- 石崇良
-- 林碧玉
-- 王金平
-- 涂醒哲
-- 林昭庚
-- 黃榮村
-- 李明亮
 products_models:
 - 淨斯本草飲
 - CAR-T

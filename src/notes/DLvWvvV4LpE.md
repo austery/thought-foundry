@@ -11,11 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《繁花》
-people:
-- 叶晓阳
-- 丁延庆
-- 吴红斌
-- 陈友松
 products_models: []
 project:
 - us-analysis

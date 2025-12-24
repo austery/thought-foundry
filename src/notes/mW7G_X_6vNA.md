@@ -13,13 +13,10 @@ media_books:
 - 《失控的热情》
 - 《你的降落伞是什么颜色？》
 people:
-- Erin A. Cech
 - Steve Jobs
 - Elon Musk
 - Jeff Bezos
 - Barack Obama
-- Marianne Cooper
-- Arlie Russell Hochschild
 - Max Weber
 - Franklin D. Roosevelt
 products_models: []

@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Mora
 products_models:
 - HIV
 - SIV

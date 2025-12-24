@@ -39,14 +39,9 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Sager Enjeti
-- Sarah Frier
 - JD Vance
 - Peter Thiel
-- Tim Miller
-- Ryan Grim
 - Matt Walsh
-- John Favro
 - David Sacks
 - Sam Altman
 - Derek Thompson
@@ -54,20 +49,13 @@ people:
 - Scott Bessent
 - Ron DeSantis
 - Bernie Sanders
-- David Wiggle
-- White Patman
-- Sam Rayburn
 - Kamala Harris
 - Elon Musk
 - Tucker Carlson
-- Andrew Yang
 - Jack Dorsey
-- John Kugan
 - Marjorie Taylor Green
 - Mira Murati
-- John Cassidy
 - Mark Zuckerberg
-- Sean O'Brien
 products_models:
 - Gemini Flash
 - ChatGPT

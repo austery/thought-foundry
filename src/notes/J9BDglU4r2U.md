@@ -16,13 +16,9 @@ people:
 - Donald Trump
 - Ferdinand Marcos Jr.
 - Sanae Takaichi
-- Sukarno
-- Aung San
-- Hiroo Okazaki
 - Shinzo Abe
 - Kim Jong Un
 - Barack Obama
-- Park Geun-hye
 products_models: []
 project:
 - geopolitics-watch

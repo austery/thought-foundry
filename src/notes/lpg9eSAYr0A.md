@@ -32,7 +32,6 @@ people:
 - Howard Lutnick
 - Alex Karp
 - Stephen Miller
-- Bill Palti
 - Laura Ingraham
 products_models:
 - H100

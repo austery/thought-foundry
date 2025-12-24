@@ -26,11 +26,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 祝九胜
-- 王石
-- 郁亮
-- 姚振华
-- 辛杰
 - Xi Jinping
 products_models: []
 project:

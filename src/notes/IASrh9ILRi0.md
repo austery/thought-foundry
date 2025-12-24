@@ -12,17 +12,8 @@ media_books:
 - 《混沌少年时》
 - 《黑客帝国》
 people:
-- Alana
 - Andrew Tate
-- Elliot Rodger
-- Alek Minassian
-- Tomohiro Kato
-- Hiroki Endo
 - Leonardo DiCaprio
-- Kate Manne
-- 上野千鹤子
-- Jacob Johansson
-- bell hooks
 - 亚里士多德
 products_models:
 - Tinder

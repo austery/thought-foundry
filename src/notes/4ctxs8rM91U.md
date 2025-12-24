@@ -18,8 +18,6 @@ media_books:
 - 《中华人民共和国计算机信息网络国际联联网管理暂行规定》
 people:
 - 庄也
-- 孙猴子
-- 堂弟
 products_models:
 - VPN
 - WhatsApp

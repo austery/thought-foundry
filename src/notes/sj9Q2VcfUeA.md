@@ -38,15 +38,7 @@ media_books:
 - Measure What Matters
 - 10 things we know to be true
 people:
-- Gerge
-- Alen
-- Addy Osmani
-- Treyas Banzal
-- Dave O'Connor
 - Jeff Bezos
-- Namadiv Singh
-- Michael Lynch
-- Manu Cornet
 - Sergey Brin
 - Larry Page
 - John Doerr

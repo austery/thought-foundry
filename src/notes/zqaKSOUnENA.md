@@ -13,9 +13,7 @@ media_books:
 - 《悲惨世界》
 - 《真脑人》
 people:
-- 曾博恩
 - 宋晏仁
-- Sam Morril
 products_models:
 - ChatGPT
 - Grogg 4

@@ -41,27 +41,10 @@ people:
 - Louis Althusser
 - Michel Foucault
 - Jacques Lacan
-- Slavoj Žižek
 - Pierre Bourdieu
 - Mencius
 - Wang Yangming
-- Zhu Ziqing
-- Shi Tiesheng
 - Lu Xun
-- Ai Qing
-- Edmondo De Amicis
-- Zhu De
-- Mo Huaiqi
-- Bing Xin
-- Shen Congwen
-- Li Bai
-- Cui Hao
-- Wang Wan
-- Ma Zhiyuan
-- Mao Dun
-- Liu Zhanqiu
-- Lao She
-- Helen Keller
 - Bertrand Russell
 products_models: []
 project:

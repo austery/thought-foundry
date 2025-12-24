@@ -21,12 +21,9 @@ media_books:
 - The Daily
 people:
 - Tracy Mumford
-- George Santos
 - Ben Castleman
-- Katherine Porter
 - Pete Hegsth
 - Donald Trump
-- J. Dance
 products_models: []
 project:
 - us-analysis

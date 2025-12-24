@@ -23,9 +23,7 @@ media_books:
 - OddLots podcast
 people:
 - Cameron Johnson
-- Jill Wisenthal
 - Tracy Alloway
-- Sarah Laflur
 - Deng Xiaoping
 - Wang Yi
 products_models:

@@ -10,11 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《繁花》
-people:
-- 安然
-- 林奈
-- 罗伯特·福琼
-- 陈椽
 products_models: []
 project:
 - cultural-critique

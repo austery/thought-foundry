@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Corey J. Gallon
 products_models: []
 project:
 - ai-impact-analysis

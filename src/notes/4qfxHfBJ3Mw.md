@@ -22,20 +22,13 @@ media_books:
 - Atomic Habits
 - Wild Seed
 people:
-- Oz Pearlman
 - Steven Bartlett
 - Joe Rogan
 - Mr. Beast
-- Derren Brown
 - Steven Spielberg
-- Michelle Obama
-- David Goggins
 - Jimmy Fallon
-- Jimmy Carr
-- Jay Shetty
 - Mark Cuban
 - Adam Grant
-- Octavia E. Butler
 products_models:
 - iPhone
 - Cybertruck

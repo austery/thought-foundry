@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Lenny’s Podcast
-people:
-- Melanie Perkins
 products_models:
 - PPT
 project:

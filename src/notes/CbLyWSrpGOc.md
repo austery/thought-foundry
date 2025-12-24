@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 邓雯心
 - 魏士航
 - 宋晏仁
 products_models: []

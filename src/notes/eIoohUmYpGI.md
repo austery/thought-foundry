@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - The Mythical Man-Month
 people:
-- Jake Nations
-- Edsger W. Dijkstra
 - Fred Brooks
-- Rich Hickey
 products_models:
 - AI
 - Co-pilot

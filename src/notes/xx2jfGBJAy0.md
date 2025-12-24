@@ -23,9 +23,6 @@ media_books:
 - Reddit
 - X
 - reviewer-ring
-people:
-- Max Spero
-- Desmond Elliott
 products_models:
 - ChatGPT
 - Claude

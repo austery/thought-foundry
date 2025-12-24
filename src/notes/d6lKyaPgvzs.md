@@ -21,10 +21,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Dheeraj Pandey
 - Jeff Bezos
-- Will Gdara
-- Taylor Rottwell
 products_models:
 - Laravel
 project:

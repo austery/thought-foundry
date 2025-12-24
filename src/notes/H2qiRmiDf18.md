@@ -17,16 +17,8 @@ media_books:
 people:
 - 特朗普
 - 唐纳德·特朗普
-- 罗德里克·布雷
-- 麦克·博哈萨克
-- 格雷戈里·古德
-- 苏格里克
-- 埃桑·哈切尔
 - 约翰逊
-- 王靖瑜
-- 琳达·罗杰斯
 - 拜登
-- 班农
 products_models: []
 project:
 - us-analysis

@@ -16,10 +16,6 @@ media_books:
 - 《大象與跳蚤》
 - 《命定之書》
 people:
-- 查爾斯·韓第
-- 范永銀
-- 張忠謀
-- 蒙格
 - 巴菲特
 products_models: []
 project:

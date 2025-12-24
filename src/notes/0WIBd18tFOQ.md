@@ -22,15 +22,9 @@ media_books:
 - 《All the President's Men》
 people:
 - Donald Trump
-- Christopher Wray
-- Mark Esper
-- Kristjen Nielsen
 - Robert F. Kennedy Jr.
-- David Shulkin
-- William Barr
 - Jeffrey Epstein
 - Bill Clinton
-- Bob Woodward
 - Dan Bongino
 products_models: []
 project:

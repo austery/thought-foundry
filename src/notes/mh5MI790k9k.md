@@ -15,15 +15,6 @@ layout: post.njk
 media_books:
 - 《群鸟》
 - 《与星共舞》
-people:
-- Eric Bombicino
-- Roger McIntyre
-- Vivek Murthy
-- Karl Ritthausen
-- Yogi Berra
-- Peter Sifneos
-- Fred Astaire
-- Ginger Rogers
 products_models:
 - Ketamine
 - Esketamine

@@ -14,21 +14,9 @@ media_books:
 - Records of the Grand Historian
 - Zhenguan Zhengyao
 people:
-- Qin Shi Huang
-- Liu Che
-- Ban Gu
-- Chen Shou
-- Cao Pi
-- Liu Bang
-- Xiang Yu
 - Mao Zedong
-- Ji An
 - Li Shimin
-- Li Daliang
-- Han Yu
 - Wang Yi
-- Emperor Wen of Han
-- Emperor Jing of Han
 products_models: []
 project:
 - china-analysis

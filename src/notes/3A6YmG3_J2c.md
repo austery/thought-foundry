@@ -8,8 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 夏栋
-- 王思聪
 - 鲁迅
 - 周作人
 products_models: []

@@ -15,7 +15,6 @@ media_books:
 - 《阿甘经济宏观论》
 people:
 - 刘鹤
-- 莫迪
 products_models:
 - F-10
 project:

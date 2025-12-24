@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 苏英超
 - 宋晏仁
 products_models: []
 project:

@@ -9,10 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《道德责任之不可能性》
-people:
-- 盖伦·斯特劳森
-- 美国队长
-- 冬兵
 products_models: []
 project:
 - systems-thinking

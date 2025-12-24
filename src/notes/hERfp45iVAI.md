@@ -14,13 +14,8 @@ media_books:
 - The Cultural Revolution is Good
 - The Courage to Be Disliked
 people:
-- Sima Guang
-- Zhang Zai
-- Chen Xianzhang
-- Li Yu
 - Wang Yangming
 - Plato
-- Anselm
 - Thomas Aquinas
 - Ichiro Kishimi
 products_models: []

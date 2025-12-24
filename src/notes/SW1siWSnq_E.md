@@ -20,7 +20,6 @@ people:
 - Sam Altman
 - Brad Gerstner
 - Bill Gates
-- Brad Smith
 products_models:
 - GPT
 - transformer

@@ -22,10 +22,8 @@ people:
 - J. D. Vance
 - Joe Biden
 - Vladimir Putin
-- 法瑞德·扎卡瑞亚
 - 约翰逊
 - 尼克松
-- 卡特
 - 里根
 - 克林顿
 - 小布什
@@ -34,9 +32,6 @@ people:
 - 孟子
 - 斯大林
 - 毛主席
-- 奥勒留
-- 索什刚教授
-- 尼布尔
 products_models: '[]'
 project:
 - us-analysis

@@ -16,14 +16,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《华尔街日报》
-people:
-- John Koch
-- 阮秀璐
-- Natalie Perhex
-- John Koppel
-- Michael Babich
-- Maria Guzman
-- Michael Bodniak
 products_models:
 - Subsys
 - Abstral

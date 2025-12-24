@@ -22,7 +22,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Elizabeth Stone
 - Jake Paul
 - Mike Tyson
 - Chris Rock

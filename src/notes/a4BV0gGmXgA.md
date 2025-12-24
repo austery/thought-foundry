@@ -12,10 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ankur Goyal
-- Sarah
-- Joti
 products_models:
 - GPT-4
 - GPT-4o

@@ -13,8 +13,6 @@ people:
 - Isaac Newton
 - Pierre-Simon Laplace
 - Henri Poincaré
-- Ed Lorenz
-- Haley
 products_models:
 - LastPass
 - Laplace's demon

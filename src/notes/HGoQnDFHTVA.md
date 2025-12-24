@@ -35,9 +35,6 @@ media_books:
 - Interconnects
 people:
 - Matt Turck
-- Nathan Lambert
-- Luca Soldaini
-- Paul Allen
 - Martin Casado
 - Richard Sutton
 - Dario Amodei

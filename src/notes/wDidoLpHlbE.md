@@ -14,8 +14,6 @@ media_books:
 - 《刺胳針》
 people:
 - 王律婷
-- 李唐越
-- 魏醫師
 products_models: []
 project:
 - personal-growth-lab

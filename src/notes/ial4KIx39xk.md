@@ -15,9 +15,7 @@ media_books:
 people:
 - Alexander Hamilton
 - Thomas Jefferson
-- Aaron Burr
 - Andrew Jackson
-- Daniel Shays
 - Franklin D. Roosevelt
 - Peter Thiel
 - Donald Trump

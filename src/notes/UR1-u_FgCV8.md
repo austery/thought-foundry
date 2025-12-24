@@ -36,18 +36,6 @@ media_books:
 - year-in-review
 people:
 - Gilbert Cruz
-- Dwight Garner
-- Jen Zalai
-- Alexandra Jacobs
-- Ian McEwan
-- David Zoloy
-- Susan Chver
-- Joan Didion
-- Muriel Spark
-- John Updike
-- Jessica Mitford
-- Thomas Pynchon
-- Adam Becker
 products_models: []
 project: []
 series: ''

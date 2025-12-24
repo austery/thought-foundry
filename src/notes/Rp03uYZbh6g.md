@@ -18,7 +18,6 @@ people:
 - Steve Bannon
 - Elon Musk
 - Ezra Klein
-- Ivan Pavlov
 - Joseph Stalin
 - Vladimir Lenin
 products_models: '[]'

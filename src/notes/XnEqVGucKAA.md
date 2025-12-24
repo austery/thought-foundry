@@ -13,10 +13,7 @@ people:
 - Donald Trump
 - Xi Jinping
 - Vladimir Putin
-- Qu Yuan
 - 胡适
-- 朱东润
-- 卢生
 - 司马迁
 - 马克·吐温
 products_models: '[]'

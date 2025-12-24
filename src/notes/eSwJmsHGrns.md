@@ -21,9 +21,6 @@ media_books:
 - Sesame Street
 people:
 - Robert F. Kennedy Jr.
-- Azen Gures
-- Kathy Lord
-- Temple Grandin
 - Elon Musk
 products_models: []
 project:

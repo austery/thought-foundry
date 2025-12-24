@@ -19,11 +19,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Doug Shell
-- Isabel
-- Molin
 - John McCarthy
-- Harald
 products_models: []
 project:
 - investment-strategy

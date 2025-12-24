@@ -10,12 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《一席》
-people:
-- 蒋安丽
-- 徐建华
-- 夏俊峰
-- 阿伟
-- 李哥
 products_models: []
 project:
 - us-analysis

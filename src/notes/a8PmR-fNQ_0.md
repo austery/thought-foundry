@@ -16,9 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Alexander Bricken
-- Nick Lin
 products_models:
 - Claude
 - Claude 3

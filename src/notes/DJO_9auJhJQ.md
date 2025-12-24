@@ -14,8 +14,6 @@ layout: post.njk
 media_books:
 - 2001, A Space Odyssey
 - 2010, Odyssey Two
-people:
-- Arthur C. Clarke
 products_models:
 - Europa Clipper
 - Pioneer 10

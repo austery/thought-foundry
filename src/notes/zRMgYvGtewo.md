@@ -31,15 +31,12 @@ media_books:
 - 《笑林广记》
 people:
 - 贾玲
-- 梁朝伟
-- 段奕宏
 - 侯孝贤
 - 杨德昌
 - 邓小平
 - 刘少奇
 - 江泽民
 - 胡锦涛
-- 勃列日涅夫
 - 赫鲁晓夫
 - 萨达姆
 - Xi Jinping
@@ -47,13 +44,6 @@ people:
 - 蒋介石
 - 郑南榕
 - 李敖
-- 闻一多
-- 李公朴
-- 弗朗哥
-- 庇隆
-- 纳瑟尔
-- 朴正熙
-- 北野武
 products_models: []
 project:
 - china-analysis

@@ -16,16 +16,7 @@ layout: post.njk
 media_books:
 - Creativity, Inc.
 people:
-- Ed Catmull
 - Steve Jobs
-- John Lasseter
-- Alan Kay
-- Ivan Sutherland
-- Tom Schumacher
-- Brad Bird
-- Pete Docter
-- Andrew Stanton
-- George Lucas
 - Nikolai
 products_models:
 - Toy Story

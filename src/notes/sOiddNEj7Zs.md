@@ -18,12 +18,7 @@ media_books:
 - Mistreated (podcast)
 - Insecure (TV show)
 people:
-- Farrah Khan
 - Nam Kiwanuka
-- Dr. Noticia Mascoy
-- Audrey Lorde
-- Sheila Cola
-- Issa Rae
 products_models: []
 project:
 - systems-thinking

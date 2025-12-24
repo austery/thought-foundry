@@ -105,13 +105,10 @@ people:
 - Jason
 - Jensen Huang
 - Michael Burry
-- Amir Yazdan
 - Kash Patel
 - Donald Trump
 - Vlad Tenev
 - Dan Ives
-- David Steinberg
-- Enrique Lores
 - Sydney Sweeney
 products_models:
 - TPU

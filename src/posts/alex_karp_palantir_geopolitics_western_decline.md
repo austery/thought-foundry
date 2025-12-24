@@ -10,7 +10,6 @@ guest: ''
 insight: null
 layout: post.njk
 people:
-- Host
 - Alex Karp
 products_models: []
 project:

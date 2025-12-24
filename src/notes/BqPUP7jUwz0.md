@@ -16,8 +16,6 @@ media_books:
 - 《美洲季刊》
 - 《外交事務》
 people:
-- James Monroe
-- Timothy Meyer
 - Vladimir Putin
 - Volodymyr Zelenskyy
 products_models: []

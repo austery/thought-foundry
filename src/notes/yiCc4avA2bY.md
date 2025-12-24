@@ -14,7 +14,6 @@ layout: post.njk
 people:
 - Ilya Sutskever
 - Sam Altman
-- Dwarkesh Patel
 products_models:
 - GPT-4
 - Claude

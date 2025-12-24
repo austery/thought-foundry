@@ -24,10 +24,8 @@ people:
 - 李登辉
 - 马克思
 - 蒋介石
-- 伍德罗·威尔逊
 - 罗斯福
 - Vladimir Putin
-- 曼达尼
 products_models: []
 project:
 - china-analysis

@@ -12,7 +12,6 @@ media_books:
 people:
 - Warren Buffett
 - Benjamin Graham
-- 翟东升
 products_models: []
 project:
 - china-analysis

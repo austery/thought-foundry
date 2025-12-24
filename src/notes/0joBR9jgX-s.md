@@ -31,16 +31,13 @@ media_books:
 - 《浮夸》
 people:
 - 高市早苗
-- 刘劲松
 - Donald Trump
 - Janet Yellen
 - Sam Altman
 - Jensen Huang
 - 段永平
 - Warren Buffett
-- 罗为人
 - Pat Gelsinger
-- 金井正邦
 - Lawrence Summers
 - 金刻羽
 - Elon Musk

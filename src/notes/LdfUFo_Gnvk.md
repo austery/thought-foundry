@@ -18,9 +18,6 @@ media_books:
 people:
 - 朱镕基
 - Xi Jinping
-- 周先旺
-- 高福
-- 吴尊友
 products_models: []
 project:
 - china-analysis

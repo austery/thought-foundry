@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- steven-a-cohen
 products_models: []
 project: []
 series: ''

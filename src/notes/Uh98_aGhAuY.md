@@ -10,13 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Drew Bent
-- Zoe
-- Maggie
-- Ephraim
-- Joe Feller
-- Rick Dakan
 products_models:
 - Claude
 project:

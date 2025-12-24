@@ -33,16 +33,10 @@ people:
 - Xi Jinping
 - 胡锦涛
 - 艾未未
-- 李大同
-- 方滨兴
-- 王向伟
-- 张洁平
 - 许志永
-- 卢跃刚
 - Hillary Clinton
 - Donald Trump
 - Steven Spielberg
-- Jürgen Habermas
 - 吴国光
 - 许成钢
 products_models:

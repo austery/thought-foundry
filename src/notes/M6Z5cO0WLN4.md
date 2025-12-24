@@ -1,6 +1,8 @@
 ---
 area: finance-wealth
 category: macro-economics
+companies:
+- imf
 companies_orgs:
 - International Monetary Fund
 - World Bank
@@ -10,8 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Kristalina Georgieva
-- AJ Banga
 - Donald Trump
 - Mikhail Gorbachev
 products_models: []
@@ -28,8 +28,6 @@ tags:
 - global-economy
 - international
 title: 危机中合作至关重要 | 国际货币基金组织总裁格奥尔基耶娃谈全球经济与AI影响
-companies:
-- imf
 ---
 
 ### IMF的创立与核心职能

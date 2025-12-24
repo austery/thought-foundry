@@ -11,10 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - You are not everything that you think
-people:
-- Mo
-- Heli
-- Steven
 products_models: []
 project:
 - personal-growth-lab

@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 丹妮婊姐
 - 鄧雯心醫師
 - 宋晏仁醫師
 products_models:

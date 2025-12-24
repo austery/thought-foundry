@@ -16,14 +16,7 @@ media_books:
 - 《经济学人》
 - 《华尔街日报》
 people:
-- Hua Guofeng
 - Deng Xiaoping
-- Chen Yun
-- Chen Muhua
-- Song Jian
-- Paul Ehrlich
-- Julian Simon
-- Liang Zhongtang
 - Mao Zedong
 products_models:
 - Dornbusch's Law

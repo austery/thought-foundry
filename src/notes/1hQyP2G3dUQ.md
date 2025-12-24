@@ -20,16 +20,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Pitch
-people:
-- Diana Mat
-- Michelle Hoser
-- Allison Lang
-- Amy Walsh
-- Aaron Mlan
-- Dunny
-- Christina Litz
-- Mark Kohhan
-- Constantina Varloas
 products_models:
 - The Pitch
 project:

@@ -9,8 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- Beyang Liu
 products_models:
 - GPT-4
 project:

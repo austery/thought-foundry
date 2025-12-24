@@ -9,13 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 克拉拉·钱伯斯
-- 本杰明·戈德曼
-- 约瑟夫·温克尔曼
-- 盖伊·安格尔
-- 彼得·安格尔
-- 约翰伯恩默多克
 products_models:
 - eSIM
 - 智能手机

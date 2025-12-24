@@ -9,9 +9,6 @@ draft: true
 guest: ''
 insight: null
 layout: post.njk
-people:
-- Allesio
-- Dylan Field
 products_models: []
 project:
 - ai-impact-analysis

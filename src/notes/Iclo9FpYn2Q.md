@@ -26,16 +26,12 @@ media_books:
 - Bloomberg
 - 《神曲·地狱篇》
 people:
-- Brett Taylor
 - Sam Altman
-- Marissa Mayer
 - Larry Page
 - Mark Zuckerberg
 - Elon Musk
 - Marc Benioff
 - Jack Dorsey
-- Bill Hewlett
-- David Packard
 products_models:
 - Google Local
 - Google Maps

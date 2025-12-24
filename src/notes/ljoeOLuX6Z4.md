@@ -9,10 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Irwin Shapiro
-- Sjur Refsdal
-- Joseph Silk
 products_models:
 - Lambda-CDM
 - Voyager

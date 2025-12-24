@@ -17,22 +17,11 @@ media_books:
 - 《清式营造则例》
 - 《中国建筑史》
 people:
-- 林徽因
-- 梁思成
 - 梁启超
-- 林长民
-- 林恒
-- 林璎
-- 徐志摩
-- 金岳霖
-- 冰心
 - 吴晗
 - 毛泽东
 - 彭真
 - 周恩来
-- 李诫
-- 宁公遇
-- 黄洞泉
 products_models: []
 project:
 - historical-insights

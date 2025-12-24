@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Anthony Bolton
 - Nikolai
 products_models: []
 project:

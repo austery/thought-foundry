@@ -15,13 +15,10 @@ layout: post.njk
 media_books:
 - 《我国未绝技的弱点：太监化》
 people:
-- 梅洛尼
 - 高市早苗
 - Vladimir Putin
 - Donald Trump
-- 贝鲁斯科尼
 - 安倍晋三
-- 饶毅
 products_models:
 - 一带一路
 project:

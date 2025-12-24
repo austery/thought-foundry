@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- demis-hassabis
 products_models: []
 project:
 - ai-impact-analysis

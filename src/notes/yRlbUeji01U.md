@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- rearmament
 companies_orgs:
 - Reichsbank
 - Metallurgical Gesellschaft
@@ -21,14 +23,7 @@ media_books:
 - The Economist
 - 《金钱的魔力》
 people:
-- Hjalmar Schacht
 - Adolf Hitler
-- Franklin D Roosevelt
-- Hermann Göring
-- Hugo Junkers
-- Fritz Thyssen
-- Albert Speer
-- Heinrich Himmler
 products_models:
 - Myefo Bill
 project:
@@ -46,8 +41,6 @@ tags:
 - financial
 - war
 title: 纳粹德国的经济奇迹：沙赫特的非常规手段如何推动战争
-companies:
-- rearmament
 ---
 
 ### 纳粹德国的“经济奇迹”：从萧条到重整军备

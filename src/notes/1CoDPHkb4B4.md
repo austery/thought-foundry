@@ -70,13 +70,10 @@ media_books:
 people:
 - Jason
 - Elon Musk
-- Scott Ren
-- Alan Sinai
 - Donald Trump
 - Vlad Tenev
 - Chris Patel
 - Gavin Baker
-- Maryanne Lake
 - Jamie Dimon
 - Howard Marks
 - Ray Dalio

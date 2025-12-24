@@ -12,14 +12,7 @@ layout: post.njk
 media_books:
 - Netflix
 people:
-- Oz Pearlman
-- Ian
-- Nanjera
-- Jeff Johnson
-- Dylan
-- Brett
 - Michael Phelps
-- Bob Dylan
 - Trevor Noah
 - Alexander the Great
 - Barack Obama

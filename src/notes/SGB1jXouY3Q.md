@@ -29,8 +29,6 @@ people:
 - Michael Burry
 - Joe Biden
 - Steven Mnuchin
-- 盛松成
-- 廖延亮
 products_models:
 - BlackWire chip
 - A7800 chip

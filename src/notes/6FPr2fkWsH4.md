@@ -19,23 +19,15 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- David Rubenstein
-- John Kennedy
-- Ted Sorenson
 - Warren Buffett
 - Bill Gates
 - Mark Zuckerberg
 - Jeff Bezos
-- Jaime Diamond
 - Steve Jobs
-- Norman Schwarzoff
-- Colin Powell
 - Thomas Jefferson
 - Donald Trump
 - Bill Clinton
-- Jim Baker
 - Oprah Winfrey
-- Magic Johnson
 products_models: []
 project:
 - us-analysis

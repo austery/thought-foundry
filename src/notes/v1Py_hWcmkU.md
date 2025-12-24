@@ -8,9 +8,6 @@ date: 2025-07-21
 guest: ''
 insight: null
 layout: post.njk
-people:
-- Hannah Fry
-- Murray Shanahan
 products_models: []
 project:
 - ai-impact-analysis

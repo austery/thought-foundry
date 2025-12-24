@@ -12,12 +12,6 @@ layout: post.njk
 media_books:
 - 《认识我的人慢慢忘了我》
 - 《伊萨卡岛》
-people:
-- 周慧
-- 黄灿然
-- 孙文波
-- 曹雪峰
-- 肖海鸥
 products_models: []
 project:
 - personal-growth-lab

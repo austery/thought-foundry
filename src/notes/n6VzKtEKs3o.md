@@ -13,10 +13,7 @@ media_books:
 - 'Being You: A New Science of Consciousness'
 - What is it like to be a bat?
 people:
-- Anil Seth
-- Thomas Nagel
 - William James
-- Carl Lange
 products_models: []
 project:
 - ai-impact-analysis

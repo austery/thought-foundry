@@ -18,7 +18,6 @@ media_books:
 people:
 - Ray
 - Paul
-- 塔利布
 products_models: []
 project:
 - personal-growth-lab

@@ -12,8 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- James Cook
 products_models:
 - Moose Burger
 - Kia SUV

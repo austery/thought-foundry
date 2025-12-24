@@ -112,7 +112,6 @@ people:
 - Jensen Huang
 - Donald Trump
 - Stanley Druckenmiller
-- Chase Coleman
 - Sundar Pichai
 - Warren Buffett
 - Greg Abel
@@ -123,8 +122,6 @@ people:
 - Alex Karp
 - Chamath Palihapitiya
 - Vlad Tenev
-- Paul Erlanger
-- Say
 - Nancy Pelosi
 - Derek
 - Jason Calcanis
@@ -137,7 +134,6 @@ people:
 - Charlie Munger
 - Matt Walsh
 - Ben Shapiro
-- Barry Sternlicht
 - Elon Musk
 - Jerome Powell
 products_models:

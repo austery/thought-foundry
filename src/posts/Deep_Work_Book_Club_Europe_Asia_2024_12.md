@@ -1,31 +1,30 @@
 ---
-title: 「欧洲|亚洲场」2024年12月读书会「Deep Work」直播分享
-summary: 这是根据Deep Work的读书会分享纪要。
 area: personal-growth
+author: Lei
 category: psychology
+channel: null
+companies_orgs: []
+date: '2024-12-28'
+guest: ''
+insight: null
+layout: post.njk
+media_books:
+- 读书会
+people:
+- Vivi
+products_models: []
 project:
 - personal-growth-lab
+series: null
+source: null
+speaker: ''
+summary: 这是根据Deep Work的读书会分享纪要。
 tags:
 - business
 - personal-growth
 - psychology
 - 深度工作
-people:
-- Vivi
-- Lillian
-companies_orgs: []
-products_models: []
-media_books:
-- 读书会
-date: '2024-12-28'
-author: Lei
-speaker: ''
-channel: null
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: null
+title: 「欧洲|亚洲场」2024年12月读书会「Deep Work」直播分享
 ---
 
 ## 开场与主持人分享

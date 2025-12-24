@@ -14,7 +14,6 @@ media_books:
 - Degrassi the Next Generation
 people:
 - Nam Kiwanuka
-- Andrea Lewis
 products_models:
 - GLP1s
 - Ozempic

@@ -17,9 +17,7 @@ insight: ''
 layout: post.njk
 people:
 - Mark Zuckerberg
-- Andre Shleifer
 - Elon Musk
-- Cassie Kozyrkov
 products_models:
 - Full Self-Driving
 - Autopilot

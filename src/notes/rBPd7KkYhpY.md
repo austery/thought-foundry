@@ -12,8 +12,6 @@ layout: post.njk
 media_books:
 - 'Glad We Met: The Art and Science of One-on-One Meetings'
 people:
-- Steven Rogelberg
-- Ed Catmull
 - Steve Jobs
 products_models: []
 project:

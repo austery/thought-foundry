@@ -14,7 +14,6 @@ layout: post.njk
 people:
 - 泓君
 - 刘峰
-- 郑迪
 products_models: []
 project: market-cycles
 series: ''

@@ -27,7 +27,6 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-- Kishi Sanae
 - Paul Volcker
 products_models:
 - iPhone 17

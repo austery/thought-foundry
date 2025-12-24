@@ -13,9 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Selfish Gene
-people:
-- Richard Dawkins
-- Joe Hanson
 products_models:
 - n8n
 - Chat GPT

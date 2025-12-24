@@ -15,20 +15,11 @@ layout: post.njk
 people:
 - Joseph Stalin
 - Mao Zedong
-- Kim Il-sung
 - Zhou Enlai
 - Liu Shaoqi
 - Peng Dehuai
 - Harry S. Truman
-- Dean Acheson
-- Douglas MacArthur
-- Terentii Shtykov
-- Anastas Mikoyan
-- Wellington Koo
-- Syngman Rhee
-- Zhu De
 - Lin Biao
-- Gao Gang
 products_models: []
 project:
 - china-analysis

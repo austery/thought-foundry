@@ -17,8 +17,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 哈萨比斯
 products_models:
 - Opera Neon
 - Gemini Chrome

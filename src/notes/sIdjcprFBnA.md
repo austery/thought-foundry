@@ -10,10 +10,7 @@ layout: post.njk
 media_books:
 - youtube-channel
 people:
-- David Fraglomani
-- Tatsuki
 - Picasso
-- Da Vinci
 products_models: []
 project:
 - personal-growth-lab

@@ -13,11 +13,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Emmy Noether
 - Albert Einstein
 - David Hilbert
-- Euler
-- Lagrange
 products_models:
 - General Theory of Relativity
 - Special Theory of Relativity

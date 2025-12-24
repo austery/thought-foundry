@@ -26,17 +26,9 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Ozan Tarman
 - Mario Draghi
 - Rick Rieder
-- Matt Rasin
-- George Cervados
 - Christine Lagarde
-- Isabel Schnabel
-- Philip Lane
-- Mark Wall
-- Binky Chadha
-- James Bullard
 - Jerome Powell
 - Donald Trump
 - Jensen Huang

@@ -43,9 +43,7 @@ people:
 - Mira Murati
 - Demis Hassabis
 - Gavin Newsom
-- Lina Khan
 - Thomas Jefferson
-- Mike Green
 products_models:
 - ChatGPT
 - Gemini

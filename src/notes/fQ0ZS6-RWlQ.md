@@ -18,17 +18,8 @@ media_books:
 - The Iliad
 - The Odyssey
 people:
-- George Bonanno
-- Walter Cannon
-- Dan Gilbert
-- Samuel Pepys
 - Isaac Newton
-- Homer
-- Elisabeth Kübler-Ross
-- Carol Dweck
-- John Lennon
 - Paul McCartney
-- Linda McCartney
 products_models:
 - PTSD
 project:

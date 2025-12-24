@@ -19,15 +19,8 @@ media_books:
 - 小红书
 people:
 - 柴静
-- 马卡龙
 - Vladimir Putin
 - 泽连斯基
-- 赵瑞
-- 周志强
-- 孙瑞奇
-- 刘洁
-- 刘洪伟
-- 莫迪
 products_models: []
 project:
 - geopolitics-watch

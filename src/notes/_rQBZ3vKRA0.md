@@ -23,8 +23,6 @@ people:
 - Elon Musk
 - Walter Isaacson
 - George Washington
-- Alexandre de Moraes
-- Douglas Adams
 products_models:
 - Grok v2
 - Grok v3

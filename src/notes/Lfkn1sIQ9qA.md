@@ -15,7 +15,6 @@ people:
 - Donald Trump
 - Joe Biden
 - Hunter Biden
-- 怀特
 - 凯恩斯
 products_models: []
 project:

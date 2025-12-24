@@ -12,7 +12,6 @@ layout: post.njk
 media_books:
 - 《自己的腳痛自己救》
 people:
-- 朱家宏
 - 宋晏仁
 products_models: []
 project:

@@ -17,8 +17,6 @@ media_books:
 - 独立电视台
 people:
 - Donald Trump
-- Michael Prescott
-- Kir Stammer
 products_models: []
 project:
 - us-analysis

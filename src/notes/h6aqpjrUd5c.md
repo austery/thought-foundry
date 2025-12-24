@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Adit Abraham
 products_models: []
 project:
 - ai-impact-analysis

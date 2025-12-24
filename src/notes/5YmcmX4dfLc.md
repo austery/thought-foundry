@@ -27,8 +27,6 @@ guest: ''
 layout: post.njk
 people:
 - 罗博深 (Po-Shen Loh)
-- 夏宇迷
-- Mark Stehlik
 - Warren Buffett
 - 夏博士Yuni Xia
 products_models:

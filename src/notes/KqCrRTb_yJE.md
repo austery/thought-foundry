@@ -33,18 +33,11 @@ media_books:
 - 《北京深化在中亚的足迹》
 - 《稳定器还是破坏者》
 people:
-- 金明日
 - Donald Trump
 - Xi Jinping
-- Mike Henry
 - Vladimir Putin
 - Kim Jong Un
-- Michael Froman
-- Scott Besant
 - 何立峰
-- Patricia Kim
-- 王仪
-- 林大卫
 products_models:
 - 火星-17
 - 火星-20

@@ -14,14 +14,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Apora Mandaville
 - Robert F. Kennedy Jr.
-- Admiral Frank Bradley
-- Hegsth
 - Donald Trump
-- Kelly Prible
-- Bob Dylan
-- Bruce Springsteen
 products_models:
 - ChatGPT
 project:

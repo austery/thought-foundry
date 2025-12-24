@@ -86,14 +86,11 @@ media_books:
 people:
 - Tom Lee
 - Elon Musk
-- Mark Mahaney
 - Donald Trump
 - Mark Zuckerberg
 - Larry Fink
 - Vladimir Putin
 - Xi Jinping
-- Julia Boorstin
-- Kate Rogers
 products_models:
 - Atlas
 - Google Chrome

@@ -11,8 +11,6 @@ layout: post.njk
 media_books:
 - After The Ecstasy, The Laundry
 people:
-- Robert Waldinger
-- Shunryū Suzuki
 - Buddha
 products_models: []
 project:

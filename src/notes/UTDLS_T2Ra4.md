@@ -15,12 +15,9 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 石扬
 - Steve Jobs
 - Mark Zuckerberg
 - Elon Musk
-- 何小鹏
-- 李想
 products_models:
 - AI IDE
 - AI Coding

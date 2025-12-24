@@ -41,14 +41,9 @@ media_books:
 - Hacker News
 people:
 - David Sacks
-- Clay Christensen
-- Philippe Khan
-- Dan Rose
 - Steve Jobs
-- Drew Houston
 - Steve Ballmer
 - Ro Khanna
-- Jack Welch
 products_models:
 - Gemini Flash
 - GPT

@@ -18,19 +18,9 @@ media_books:
 - The Wire Cutter Show
 - Bake Time
 people:
-- Vaughn Vreeland
 - Christine Sir Cleette
 - Kyra Blackwell
 - Rosie Garin
-- Poppy
-- Jacqueline
-- Caitlyn
-- Jennifer Molina
-- Eric Kim
-- Ywanda Kamalafes
-- Sola Elley
-- Jacques Torres
-- recipe-modification
 products_models:
 - Cookies
 - Bake Time

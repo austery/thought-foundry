@@ -11,11 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- Karl Goldschmidt
-- Hans Goldschmidt
-- Robert Bunsen
-- Axel
-- Christof
 products_models:
 - GoPro
 - Bunsen burner

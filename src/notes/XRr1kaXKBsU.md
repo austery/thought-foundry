@@ -10,7 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Albert Einstein
-- Arthur Eddington
 products_models:
 - Caseta
 project:

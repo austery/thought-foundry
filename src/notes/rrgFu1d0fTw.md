@@ -15,12 +15,10 @@ layout: post.njk
 media_books:
 - Odd Lots
 people:
-- Jeff Schmidt
 - Tracy Alloway
 - Joe Weisenthal
 - Mary Daly
 - Jerome Powell
-- Joe Groover
 products_models:
 - iPhone
 - Taylor rule

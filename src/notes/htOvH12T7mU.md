@@ -33,14 +33,7 @@ people:
 - Sam Altman
 - Dario Amodei
 - Elon Musk
-- Eli Liflund
-- Thomas Larsen
-- Jonas Vollmer
-- Robin Hanson
-- Katja Grace
-- David Anthony
 - Bill Gates
-- Eliezer Yudkowski
 - Tyler Cowen
 - Joseph Henrich
 - Larry Summers
@@ -48,9 +41,7 @@ people:
 - Peter Navarro
 - Garry Kasparov
 - Scott Aaronson
-- Alvaro de Menard
 - Paul Krugman
-- Clara Collier
 products_models:
 - GPT-4
 - ChatGPT

@@ -16,9 +16,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Grant Lee
-- David Kelly
-- Brian Chesky
 - Zach
 products_models:
 - PowerPoint

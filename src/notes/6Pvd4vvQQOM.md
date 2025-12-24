@@ -14,12 +14,7 @@ layout: post.njk
 media_books:
 - 《纸牌屋》
 people:
-- SP
-- 大川
-- 海马
 - 老马
-- 清空
-- 纯悦
 - 特朗普
 - Xi Jinping
 - Vladimir Putin

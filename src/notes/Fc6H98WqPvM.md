@@ -17,8 +17,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 麦当劳先生
 products_models: []
 project:
 - us-analysis

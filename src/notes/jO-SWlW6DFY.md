@@ -25,25 +25,14 @@ media_books:
 - What You Do Is Who You Are
 - Marshall Revolution
 people:
-- Margaret Wenmachers
 - Mark Andreessen
 - Ben Horowitz
-- Charlie Rose
 - Bill Gross
-- Larry Ellis
-- Ron Conway
-- Ryan
-- Tyler Cohen
 - Alex Tabarrok
 - Ted Sarandos
-- Dylan Field
-- Nas
 - Larry David
-- Sarah Lacy
 - Elon Musk
 - Mark Zuckerberg
-- Diane Greene
-- Dennis Crowley
 products_models:
 - Charlie Rose
 - PO Daily

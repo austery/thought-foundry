@@ -1,6 +1,8 @@
 ---
 area: tech-work
 category: ai-ml
+companies:
+- deepmind
 companies_orgs:
 - Google DeepMind
 - Google
@@ -10,11 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Sebastian Bourjou
-- Matt Turk
-- Oral Yilmaz
-- Demi Sasabis
 products_models:
 - Gemini 3
 - Gemini 1.5
@@ -36,8 +33,6 @@ tags:
 - llm
 - multimodal-ai
 title: Gemini 3 与 AI 的未来：深度对话 Sebastian Bourjou
-companies:
-- deepmind
 ---
 
 ### AI 进展与范式转变

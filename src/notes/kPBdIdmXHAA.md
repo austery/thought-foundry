@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: psychology
+companies:
+- psychological-projection
 companies_orgs:
 - Bilibili
 date: '2025-09-07'
@@ -11,11 +13,6 @@ layout: post.njk
 media_books:
 - Psychoanalysis of the Battle Girl
 people:
-- Saito Tamaki
-- Hayao Miyazaki
-- Osamu Tezuka
-- Nagai Go
-- Naoko Takeuchi
 - Lacan
 products_models:
 - Magical Girl Sally
@@ -38,8 +35,6 @@ tags:
 - fictional-object
 - self-awareness
 title: 从钢卷少女到二次元老婆：东亚男性为何迷恋“强大又无害”的战斗美少女？
-companies:
-- psychological-projection
 ---
 
 ### 引言：从“钢卷少女”现象说起

@@ -15,11 +15,9 @@ media_books:
 people:
 - Jerome Powell
 - Ben Bernanke
-- William Jennings Bryan
 - Andrew Mellon
 - Herbert Hoover
 - Franklin D. Roosevelt
-- Jimmy Stewart
 products_models:
 - S&P
 project:

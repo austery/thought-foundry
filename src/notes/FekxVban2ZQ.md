@@ -14,12 +14,7 @@ media_books:
 - Shownen manga
 - gift-guide
 people:
-- Noah
 - Remy
-- Dior
-- Robinson
-- Chloe
-- Rosie
 products_models:
 - Lego
 - Nike

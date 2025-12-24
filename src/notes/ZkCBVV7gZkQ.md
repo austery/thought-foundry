@@ -25,21 +25,12 @@ media_books:
 - Bilibili
 - 知网
 people:
-- 小沈阳
-- 沈腾
-- 马丽
 - 王志安
 - 崔永元
 - 柴静
 - 墨索里尼
-- 雷德利·斯科特
 - 希特勒
-- 戈培尔
-- 冯巩
-- 蔡明
-- 郭冬临
 - 张艺谋
-- 陈凯歌
 products_models:
 - Deepseek
 project:

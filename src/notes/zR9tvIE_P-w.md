@@ -19,9 +19,7 @@ media_books:
 - 《指环王》
 people:
 - Sam Altman
-- Jessica Hodgins
 - Sergey Levine
-- 柴金祥
 - 黄仁勋
 products_models:
 - Sora2

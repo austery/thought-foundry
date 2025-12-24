@@ -21,10 +21,6 @@ people:
 - Andrew Cuomo
 - Scott Bessant
 - Chris Wright
-- Kim Barker
-- Benson Kiputo
-- Helen Oiri
-- Jordan Litz
 products_models:
 - SNAP
 - Cobots

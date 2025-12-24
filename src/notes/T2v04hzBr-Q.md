@@ -13,7 +13,6 @@ media_books:
 - Critique of Practical Reason
 - Spring, Summer, Fall, Winter, and Spring
 people:
-- Husserl
 - Hegel
 - Kant
 products_models: []

@@ -14,9 +14,7 @@ media_books:
 - 《Design Patterns》
 - 《refactoring》
 people:
-- William
 - Martin Fowler
-- Atomic Energy
 products_models:
 - SonarQube
 - CodeSense

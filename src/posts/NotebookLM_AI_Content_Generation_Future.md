@@ -10,8 +10,6 @@ insight: null
 layout: post.njk
 media_books:
 - 三个水枪手
-people:
-- 三个水枪手
 products_models: []
 project:
 - ai-impact-analysis

@@ -17,10 +17,6 @@ people:
 - Tracy Mumford
 - Donald Trump
 - Shawn Duffy
-- Adam Liptac
-- Claudia Sheinbaum
-- Eli Tan
-- Emma
 products_models:
 - Tinder
 - Grinder

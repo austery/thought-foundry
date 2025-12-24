@@ -16,13 +16,7 @@ media_books:
 - 《Bullshit Jobs》
 people:
 - 课代表立正
-- 孙玉珍
-- 子鱼
-- Lumi
 - 鸭哥
-- 徐老师
-- 张一鸣
-- 李阳
 products_models:
 - ChatGPT
 - Gemini

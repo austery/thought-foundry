@@ -13,10 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Troop Beverly Hills
-people:
-- Becky Kennedy
-- John Bowlby
-- Mary Ainsworth
 products_models:
 - Nest camera
 - iPad

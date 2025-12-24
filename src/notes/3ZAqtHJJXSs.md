@@ -16,7 +16,6 @@ media_books:
 - Spotify
 people:
 - Clarvo
-- Marco Casalaina
 products_models:
 - GPT-3
 - GPT-4

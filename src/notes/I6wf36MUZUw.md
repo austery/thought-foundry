@@ -35,11 +35,8 @@ people:
 - Mélanie Joly
 - François-Philippe Champagne
 - Anita Anand
-- Christy Clark
 - Donald Trump
 - Volodymyr Zelenskyy
-- Michael Ignatieff
-- trudeau-resignation
 products_models:
 - CERB
 - USMCA

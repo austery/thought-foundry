@@ -10,9 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Andrew Huberman
-- Adam Carolla
-- Daniel Bell
-- Zhao Ting
 products_models:
 - Starlink
 project:

@@ -16,8 +16,6 @@ layout: post.njk
 people:
 - Donald Trump
 - Joe Biden
-- Besant
-- Navarro
 products_models:
 - HYG
 - TLT

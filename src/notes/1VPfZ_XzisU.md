@@ -15,11 +15,7 @@ media_books:
 - The New Theory of Rotating Bodies
 - Salyut 7 (movie)
 people:
-- Vladimir Dzhanibekov
 - Richard Feynman
-- Terry Tao
-- Louis Poinsot
-- Don Pettit
 products_models:
 - Salyut 7
 - Explorer 1

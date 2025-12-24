@@ -11,14 +11,12 @@ media_books:
 - 《圣经创世记》
 - 《圣经真言》
 people:
-- Peter Singer
 - Jeremy Bentham
 - Aristotle
 - Thomas Aquinas
 - René Descartes
 - Voltaire
 - Immanuel Kant
-- John Searle
 products_models:
 - 人造肉
 project:

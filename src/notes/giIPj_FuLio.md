@@ -26,8 +26,6 @@ people:
 - Donald Trump
 - Volodymyr Zelenskyy
 - Vladimir Putin
-- 田忌
-- 齐威王
 products_models:
 - SuperThanks
 project:

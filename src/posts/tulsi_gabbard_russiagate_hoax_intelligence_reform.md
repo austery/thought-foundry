@@ -9,9 +9,7 @@ guest: ''
 insight: null
 layout: post.njk
 people:
-- tulsi-gabbard
 - Interviewer
-- Tulsi Gabbard
 products_models: []
 project:
 - us-analysis

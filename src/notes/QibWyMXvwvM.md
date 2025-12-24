@@ -23,16 +23,12 @@ media_books:
 - The Last Economy
 people:
 - Elon Musk
-- Katie Miller
 - Steven Miller
 - Donald Trump
 - Howard Lutnik
-- Edward Kristine
-- Scott Bass
 - Bill Gates
 - Marco Rubio
 - Theodore Roosevelt
-- J. Peter Grace
 products_models:
 - Grock
 project:

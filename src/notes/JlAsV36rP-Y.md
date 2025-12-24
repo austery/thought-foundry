@@ -42,8 +42,6 @@ insight: ''
 layout: post.njk
 people:
 - Ben Bernanke
-- Bernie Madoff
-- Bruno Iksil
 - adam-s-axiom
 products_models:
 - Ponzi scheme

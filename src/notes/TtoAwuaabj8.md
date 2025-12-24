@@ -14,9 +14,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Mark Regnerus
 - Bill Clinton
-- Christen Smith
 products_models:
 - New Family Structure Study
 - 捍卫婚姻法案

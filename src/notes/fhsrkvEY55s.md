@@ -25,13 +25,8 @@ media_books:
 - Crypto got everything it wanted. Now it’s sinking.
 people:
 - Michael Saylor
-- Phong Le
 - Elon Musk
-- SBF
-- Caroline the wood nymph
 - Joe Weisenthal
-- Zeke Faux
-- Dan Toomey
 products_models:
 - Gemini Flash
 - Sora

@@ -32,17 +32,13 @@ people:
 - Emmanuel Macron
 - Olaf Scholz
 - Alexander Stubb
-- Donald Tusk
 - Giorgia Meloni
 - Jens Stoltenberg
-- Harry Kerwin
 - Marco Rubio
 - Steven Mnuchin
 - Xi Jinping
 - Eric Chu
-- Li Dewei
 - Jared Kushner
-- Witkoff
 - Dmitry Medvedev
 products_models: []
 project:

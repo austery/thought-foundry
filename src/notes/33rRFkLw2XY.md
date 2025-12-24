@@ -10,14 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Marian Diamond
-- Wendy Suzuki
-- James Fixx
-- 徐慈妤
-- 張育愷
-- 洪聰敏
-- 王院長
 products_models:
 - 舒爾特方格
 - P300腦波

@@ -27,9 +27,6 @@ layout: post.njk
 media_books:
 - College Confidential
 people:
-- Lucy Guo
-- Kim Kardashian
-- Logan Paul
 - Mr. Beast
 - Evan Spiegel
 products_models:

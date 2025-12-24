@@ -12,9 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Niels B. Christiansen
-- Michael Schumacher
 products_models:
 - Bluetooth
 - Titanic

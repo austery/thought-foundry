@@ -16,16 +16,11 @@ media_books:
 - Richard Gwin's biography of Johnny McDonald
 - Lavine's biography of McKenzie King
 people:
-- Daryl Bricker
-- John Ibbitson
 - Donald Trump
 - Mark Carney
-- George Grant
 - Ronald Reagan
 - John A. Macdonald
 - Pierre Poilievre
-- Richard Gwyn
-- William Lyon Mackenzie King
 products_models: []
 project:
 - us-analysis

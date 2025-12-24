@@ -36,16 +36,10 @@ media_books:
 people:
 - Ray
 - Vivi
-- Shiqi
-- Michael
-- 鹏哥
-- 陆遥
-- Carmen
 - Naval Ravikant
 - Nassim Nicholas Taleb
 - Steven Pinker
 - 刘仲敬
-- Kazuo Ishiguro
 - Annie Duke
 - Charlie Munger
 - Daniel Kahneman

@@ -13,10 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - classroom-discourse
-people:
-- Muna Kadri
-- Sarah Mora
-- Jill Dunlop
 products_models: []
 project:
 - geopolitics-watch

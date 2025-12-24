@@ -15,13 +15,8 @@ media_books:
 - 脸书
 - TVB
 people:
-- 黄碧娇
 - 李家超
-- 张珊珊
-- 崔少仁
-- 潘卓红
 - Xi Jinping
-- 习远平
 products_models: []
 project:
 - geopolitics-watch

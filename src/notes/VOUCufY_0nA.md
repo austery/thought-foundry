@@ -51,25 +51,12 @@ media_books:
 - NPR Tiny Desk
 - TechCrunch Disrupt
 people:
-- Kevin Rose
-- Anish Acharya
 - Tim Ferriss
-- Chris Hutchins
-- Bill Maris
-- David Crane
 - Jack Dorsey
-- Biz Stone
 - Mark Zuckerberg
-- David Sze
-- Terry Real
-- Eugenia Kuyda
-- Daniel Burka
 - Reed Hoffman
 - Ben Horowitz
 - Marc Andreessen
-- Michael Arrington
-- Chris Dixon
-- Ryan Hoover
 - Elon Musk
 - Martin Casado
 products_models:

@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- intellectual-responsibility
 companies_orgs:
 - CCP
 - Stanford University
@@ -30,42 +32,17 @@ media_books:
 - Southern Metropolis Daily Interview
 people:
 - Chen-Ning Yang
-- Qian Xuesen
-- Deng Jiaxian
 - Max Weber
 - Hannah Arendt
 - Tsung-Dao Lee
-- Yang Wuzhi
-- Shiing-Shen Chern
-- Hua Luogeng
 - Zhou Enlai
-- Zhang Wenyu
-- Yang Zhenhan
-- Du Yuming
 - J. Robert Oppenheimer
 - Chien-Shiung Wu
 - Richard Nixon
-- Zheng Yuanjie
 - Mao Zedong
-- Rao Yutai
-- Ye Qisun
-- Wu Youxun
-- Zhao Jiuzhang
-- Yao Tongbin
-- Qian Sanqiang
-- Wang Ganchang
-- Shi Yigong
-- Andrew Yao
-- Wang Xiaoyun
 - Werner Heisenberg
-- Carl Friedrich von Weizsäcker
 - Albert Einstein
 - Wang Yi
-- Robert Mills
-- Daniel Chee Tsui
-- Wu Ningkun
-- Shi Geng
-- Li Shutong
 products_models:
 - Yang-Mills Gauge Theory
 - Parity Non-conservation
@@ -85,8 +62,6 @@ tags:
 - science
 - totalitarianism
 title: 杨振宁：科学家的良知与政治站队
-companies:
-- intellectual-responsibility
 ---
 
 ### 引言：对杨振宁的评价与核心议题

@@ -11,7 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 王律婷醫師
 - 宋晏仁醫師
 products_models: []
 project:

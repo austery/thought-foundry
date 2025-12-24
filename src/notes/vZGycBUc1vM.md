@@ -27,13 +27,8 @@ media_books:
 - So Good They Can't Ignore You
 - Designing Data-Intensive Applications
 people:
-- Steve Huynh
-- Casey Moratori
-- Ethan Evans
-- Bobby Kotari
 - Jeff Bezos
 - Cal Newport
-- Chip Huyen
 products_models:
 - Kindle
 - Prime Video

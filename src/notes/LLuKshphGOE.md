@@ -14,9 +14,6 @@ media_books:
 - Graph Academy
 - Nodes AI 2026
 - graphrag.com
-people:
-- Stephen Chin
-- Sid
 products_models:
 - DSPy
 - BAML

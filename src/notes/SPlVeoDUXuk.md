@@ -16,8 +16,6 @@ media_books:
 - Attachment in Psychotherapy
 - Imagined Communities
 people:
-- Bowlby
-- Main
 - Foucault
 - George Orwell
 - Plato

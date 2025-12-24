@@ -27,10 +27,8 @@ people:
 - 沈逸
 - Hannah Arendt
 - Louis Althusser
-- Carl Schmitt
 - 薛剑
 - 董宇辉
-- 铁头
 products_models:
 - 萨德导弹
 project:

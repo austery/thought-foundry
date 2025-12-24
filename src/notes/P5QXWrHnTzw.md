@@ -13,13 +13,9 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Misha Laskin
 - Lee Sedol
-- Giannis
-- John Bardeen
 - Albert Einstein
 - Garry Kasparov
-- Peter Abbeel
 products_models:
 - AlphaGo
 - Gemini

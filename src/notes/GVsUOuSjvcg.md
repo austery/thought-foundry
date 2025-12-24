@@ -16,10 +16,6 @@ layout: post.njk
 media_books:
 - Welch Labs
 people:
-- Frank Rosenblatt
-- Minsky
-- Papert
-- Fei-Fei Li
 - analog-computing
 products_models:
 - Perceptron

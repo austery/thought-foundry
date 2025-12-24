@@ -11,7 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Austin Goolsbee
 - Liz Truss
 - Christopher Waller
 - Jerome Powell

@@ -17,20 +17,10 @@ media_books:
 - 《安宁缓和医疗条例》
 - 《病人自主权利法》
 people:
-- 琼瑶
 - 柴静
 - 巴金
-- 于秋雨
-- 陈小鲁
-- 罗点点
 - 周恩来
 - 毛泽东
-- 沈君山
-- 吾大友
-- 平鑫涛
-- 三毛
-- 赵可式
-- 杨玉新
 products_models: []
 project:
 - china-analysis

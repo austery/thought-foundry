@@ -11,7 +11,6 @@ media_books:
 - 《雅思》
 people:
 - KevinFeng
-- 冯凯文
 products_models: []
 project:
 - personal-growth-lab

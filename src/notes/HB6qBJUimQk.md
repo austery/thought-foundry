@@ -11,8 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Nathan Vanderklippe
-- Dr. Dawn Bowdish
 - Donald Trump
 products_models:
 - Advil

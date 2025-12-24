@@ -28,20 +28,13 @@ media_books:
 people:
 - 黎智英
 - Donald Trump
-- Tuck Carson
 - Charlie Kirk
 - 邓小平
-- 彭政
-- 李祖明
-- 司徒华
 - 李鹏
 - Xi Jinping
 - 洪秀柱
 - 马英九
-- 郑立文
-- 郭正亮
 - 金庸
-- 欧景欣
 products_models:
 - GPT-4
 - 小红书

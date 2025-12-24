@@ -10,11 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Judy Marks
-- Elijah Otis
 - David
-- Lars
-- Shipra
 products_models:
 - elevators
 - escalators

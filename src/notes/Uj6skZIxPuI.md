@@ -13,16 +13,9 @@ layout: post.njk
 people:
 - David Reich
 - Ptolemy
-- David Gokhman
-- Liran Carmel
-- Eske Willerslev
-- Kristian Kristiansen
-- Johannes Krause
 - Kyle Harper
 - James Scott
 - Robert Allen
-- Colin Renfrew
-- Marija Gimbutas
 - Nat Friedman
 products_models:
 - 《我们是谁，我们从何而来：古DNA与人类新史学》

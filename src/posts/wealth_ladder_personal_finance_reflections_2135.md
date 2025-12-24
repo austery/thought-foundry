@@ -18,13 +18,9 @@ media_books:
 people:
 - Zalira
 - Remy
-- Lu Yao
 - Vance
 - Frank
-- Xiao Xigua
 - Vivi
-- Wes
-- Chandler
 - Jeff Bezos
 - Warren Buffett
 products_models:

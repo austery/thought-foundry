@@ -16,11 +16,9 @@ media_books:
 - I May Be Wrong
 - Don't React to Everything
 people:
-- Waki
 - 宋晏仁医师
 - James Clear
 - Gandhi
-- 郝书理
 products_models: []
 project:
 - personal-growth-lab

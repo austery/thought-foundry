@@ -62,12 +62,7 @@ people:
 - Jensen Huang
 - Alex Karp
 - Kim Jong-un
-- Dave Zinsner
 - Mark Benioff
-- Brian Cornell
-- Michael Fideleki
-- Kate Johnson
-- CZ
 - Anthony Noto
 - Bernie Sanders
 products_models:

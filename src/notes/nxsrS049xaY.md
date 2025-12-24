@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Mohamed A. Sultan
 products_models: []
 project:
 - geopolitics-watch

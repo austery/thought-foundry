@@ -13,7 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Kamal Khera
 - Pierre Poilievre
 - Mark Carney
 - Justin Trudeau

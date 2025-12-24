@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Matt Hagger
 products_models:
 - TailTree
 - iPhone

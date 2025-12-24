@@ -11,7 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Robin Zeng
 - Nicola Tangan
 products_models:
 - Model 3

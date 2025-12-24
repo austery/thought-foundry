@@ -20,15 +20,7 @@ people:
 - Richard Sutton
 - Gary Marcus
 - Yann LeCun
-- Dan Hendrycks
-- Dawn Song
-- Christian Szegedy
-- Erik Brynjolfsson
-- Max Tegmark
 - Eric Schmidt
-- Jaan Tallinn
-- Raymond Cattell
-- John Carroll
 products_models:
 - GPT-4
 - GPT-5

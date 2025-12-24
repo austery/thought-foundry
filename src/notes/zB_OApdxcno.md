@@ -11,12 +11,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Wylie
 - Derek
-- Dan Kahan
 - Trump
-- Harris
-- Biden
 products_models: []
 project:
 - us-analysis

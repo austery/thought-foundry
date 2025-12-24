@@ -11,10 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Frank Whittle
-- Amelia
 - Henry
-- Kim
 products_models:
 - Gloucester E2839
 - A350

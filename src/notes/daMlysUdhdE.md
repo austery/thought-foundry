@@ -14,7 +14,6 @@ media_books:
 - 《华盛顿邮报》
 people:
 - 巴菲特
-- 龚方雄
 products_models:
 - ETF
 - M0

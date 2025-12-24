@@ -18,10 +18,7 @@ media_books:
 - almostmagic.substack
 - Community Wisdom Newsletter
 people:
-- Priya Matthew Badger
 - Clarvo
-- Colin Matthews
-- Lenny
 products_models:
 - Yelp Assistant
 - Claude

@@ -15,9 +15,6 @@ layout: post.njk
 media_books:
 - The Last Economy
 people:
-- Lihon
-- Zwan
-- Alsar
 - Rich Sutton
 products_models:
 - R1

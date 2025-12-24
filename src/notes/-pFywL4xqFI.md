@@ -18,8 +18,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《伟大的博弈》
-people:
-- 约翰·戈登
 products_models:
 - 冻干纤维产品
 - 重组一型胶原蛋白

@@ -17,32 +17,15 @@ media_books:
 - 《论公民不服从》
 - 《一根稻草的革命》
 people:
-- Jenny Odell
-- Franco Berardi
-- Mierle Laderman Ukeles
 - Bill Gates
-- Justin Rosenstein
-- Jonathan Crary
-- Deleuze
-- Epicurus
 - Epictetus
-- Pilvi Takala
-- Diogenes
 - Alexander the Great
 - Plato
 - Socrates
-- 谢德庆
-- Thoreau
 - Gandhi
 - Martin Luther King Jr.
-- Daniel Simons
 - William James
-- Scott Polach
-- John Cage
-- Danah Boyd
 - Hannah Arendt
-- 福冈正信
-- Ruth Orta
 - 庄子
 products_models: []
 project:

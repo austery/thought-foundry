@@ -19,12 +19,6 @@ media_books:
 - 虎嗅
 people:
 - 罗永浩
-- 贾国龙
-- 张晓麟
-- 张立刚
-- 拉里·佩奇
-- 谢尔盖·布林
-- 埃里克·施密特
 products_models: []
 project:
 - china-analysis

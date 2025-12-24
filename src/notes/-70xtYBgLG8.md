@@ -19,16 +19,9 @@ layout: post.njk
 media_books:
 - Who's the Boss
 people:
-- Tony Xu
-- Tony Danza
-- Christopher Payne
-- Prabir Adarkar
 - Andrew
 - Sam Altman
 - Paul Graham
-- Jessica Livingston
-- Gary Tan
-- Miki Kuusi
 products_models:
 - Nintendo
 - Duck Hunt

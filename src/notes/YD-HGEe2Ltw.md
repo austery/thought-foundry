@@ -25,24 +25,17 @@ media_books:
 - 《华盛顿邮报》
 people:
 - Donald Trump
-- Nela Richardson
 - Vladimir Putin
-- Ushakov
 - Dmitry Peskov
 - J.D. Vance
 - George W. Bush
-- Chen Shui-bian
 - Lai Ching-te
 - Xi Jinping
 - Mike Pompeo
-- 林剑
 - 高市早苗
-- 胡承峰
-- 郭美美
 - 张雪峰
 - 李家超
 - 温家宝
-- 谢树立
 products_models: []
 project:
 - us-analysis

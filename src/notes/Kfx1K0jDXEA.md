@@ -20,13 +20,7 @@ media_books:
 - Perspektivmelding
 - Brundtland Commission Report
 people:
-- Sigbjørn Johnsen
 - Kristin Halvorsen
-- Siv Jensen
-- Trygve Bratteli
-- Arne Skauge
-- Arne Øyen
-- Trond Grand
 - Nikolai
 products_models:
 - Oljefondet

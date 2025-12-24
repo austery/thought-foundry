@@ -14,8 +14,6 @@ layout: post.njk
 media_books:
 - 《华尔街日报》
 - 《狂人日记》
-people:
-- 周树人
 products_models: '[]'
 project:
 - china-analysis

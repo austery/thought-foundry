@@ -17,10 +17,8 @@ media_books:
 - Universal Declaration of Human Rights
 - Bill 5
 people:
-- Oleksandra Matviychuk
 - Donald Trump
 - Putin
-- Alex Neve
 products_models:
 - ''
 project:

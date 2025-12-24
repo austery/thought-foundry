@@ -13,7 +13,6 @@ media_books:
 - CNBC
 people:
 - 毛泽东
-- Karen
 products_models:
 - AI
 project:

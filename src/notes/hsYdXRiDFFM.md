@@ -15,11 +15,8 @@ layout: post.njk
 media_books:
 - The New York Times
 people:
-- Greg Phillips
 - Nicholas Maduro
 - Jerome Powell
-- Fern Michaels
-- Mary Kushkir
 products_models:
 - Trump Gold Card
 project:

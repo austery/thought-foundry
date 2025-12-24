@@ -9,9 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Richard Lenski
-- Madeline
-- Zack
 - Derek
 products_models:
 - E. coli

@@ -9,10 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Cynthia Ann Parker
-- Quanah Parker
-- Peta Nocona
 products_models: []
 project:
 - historical-insights

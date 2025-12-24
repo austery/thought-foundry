@@ -1,27 +1,23 @@
 ---
-title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
-summary: null
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- llm
-people:
-- 谷歌工程师
-- Jimmy Hu
-- Irene
-companies_orgs: []
-products_models: []
-date: '2025-07-10'
 author: Lei
-speaker: ''
+category: technology
 channel: https://www.youtube.com/@Dr.IreneLee/featured
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=AbjE0-Nran4&t
+speaker: ''
+summary: null
+tags:
+- llm
+title: 从医学生到谷歌工程师——胡思宇医师的跨界之路
 ---
 
 ### 讲述者简介

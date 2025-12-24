@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Neville Chamberlain
 products_models: []
 project: []
 series: ''

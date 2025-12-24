@@ -30,15 +30,8 @@ media_books:
 - 《算法导论》
 - 《编程珠玑》
 people:
-- Charles Petzold
 - Alan Turing
 - Linus Torvalds
-- Johann Osterhout
-- Frederick Brooks
-- Nir Eyal
-- Liu Baohong
-- Eric Ries
-- Donald Norman
 products_models:
 - UNIX
 - Linux

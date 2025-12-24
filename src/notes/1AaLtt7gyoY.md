@@ -12,7 +12,6 @@ media_books:
 - 《国家为什么会失败》
 people:
 - Daron Acemoglu
-- James Robinson
 - Deng Xiaoping
 - Jiang Zemin
 - Mao Zedong

@@ -15,10 +15,7 @@ media_books:
 - 《卡拉马佐夫兄弟》
 - 《1948年世界人权宣言》
 people:
-- Philip Roth
 - C.S. Lewis
-- Dostoevsky
-- Derrida
 products_models: []
 project:
 - personal-growth-lab

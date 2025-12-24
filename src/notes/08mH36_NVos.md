@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Infant Vasanth
-- Vaibhav Page
 products_models: []
 project:
 - ai-impact-analysis

@@ -12,9 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Angela Duckworth
-- Toby Cosgrove
-- Anders Ericson
-- Ralph Waldo Emerson
 products_models: []
 project:
 - personal-growth-lab

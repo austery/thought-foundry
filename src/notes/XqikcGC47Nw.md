@@ -17,11 +17,7 @@ media_books:
 - Moneyball
 - The New York Times
 people:
-- Molly Bloom
-- Toby Maguire
 - Aaron Sorkin
-- Ben Affleck
-- Pit Barara
 products_models:
 - Shuffle Master
 project:

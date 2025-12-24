@@ -31,15 +31,11 @@ media_books:
 - news-reporting
 people:
 - Tracy Mumford
-- Claudio Nevice Valente
 - Vladimir Putin
 - Donald Trump
-- Kla Harris
 - Rob Reiner
-- Michelle Singer Reiner
 - Mark Zuckerberg
 - Leonardo DiCaprio
-- Tom Hanks
 products_models:
 - PSRJ2322-2650B
 project:

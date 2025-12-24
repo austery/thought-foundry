@@ -32,21 +32,13 @@ people:
 - Mark Zuckerberg
 - Ron DeSantis
 - Susie Wiles
-- Chris LaCivita
-- John Kerry
 - Gavin Newsom
-- J.B. Pritzker
-- Phil Murphy
-- Jack Smith
-- Pat Moore
-- Bob Bauer
 - Kamala Harris
 - Barack Obama
 - Hillary Clinton
 - Gretchen Whitmer
 - Josh Shapiro
 - Hunter Biden
-- trump-comeback
 products_models: []
 project:
 - us-analysis

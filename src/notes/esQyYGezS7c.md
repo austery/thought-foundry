@@ -15,10 +15,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Dr. Place
-- Dr. Choquette
-- Professor Charpy
 products_models:
 - Snatoms
 - Charpies

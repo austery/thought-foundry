@@ -20,17 +20,9 @@ people:
 - Mike Johnson
 - John Thune
 - Virginia Giuffre
-- Rina Oh
-- Lisa Phillips
-- Mary Cattoni
-- Brad Edwards
 - Ghislaine Maxwell
 - Prince Andrew
 - Alan Dershowitz
-- Sarah Kellen
-- Jean-Luc Brunel
-- Sharon Stone
-- Monica Bellucci
 - Jeffrey Epstein
 products_models: []
 project:

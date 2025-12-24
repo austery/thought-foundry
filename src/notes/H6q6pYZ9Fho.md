@@ -16,9 +16,7 @@ media_books:
 - Dune
 - Black Mirror
 people:
-- Kevin Chen
 - Henry
-- Cameron
 products_models:
 - RoboBees
 - HAMR

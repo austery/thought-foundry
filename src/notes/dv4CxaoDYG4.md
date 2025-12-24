@@ -27,29 +27,12 @@ media_books:
 people:
 - Donald Trump
 - Volodymyr Zelenskyy
-- Clint Eastwood
-- 李香兰
-- Tracey Brabin
-- Stanislav Govorukhin
-- Marjan Šarec
-- Jimmy Morales
-- Nikolai Gubenko
-- Yuri Solomin
-- Joseph Estrada
-- 克立·巴莫
-- 石原慎太郎
-- Smriti Irani
 - Arnold Schwarzenegger
-- Eva Perón
-- Yair Lapid
-- Scott Morrison
 - Ronald Reagan
 - 江青
 - Vladimir Putin
 - 蔡英文
 - 小泉纯一郎
-- 盛田昭夫
-- 马龙·白兰度
 - 毛泽东
 products_models:
 - STEM

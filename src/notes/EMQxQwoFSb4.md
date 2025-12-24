@@ -24,7 +24,6 @@ people:
 - Sundar Pichai
 - Noam Shazeer
 - Elon Musk
-- Don Draper
 products_models:
 - Gemini
 - Gemini 3

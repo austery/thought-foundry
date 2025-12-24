@@ -14,8 +14,6 @@ media_books:
 - 《心態致瘦》
 people:
 - 宋晏仁
-- 蘇琮祺
-- Jon Kabat-Zinn
 products_models: []
 project:
 - personal-growth-lab

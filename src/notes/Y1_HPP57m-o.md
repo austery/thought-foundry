@@ -23,7 +23,6 @@ media_books:
 people:
 - 小陶
 - 扎克伯格
-- 萨提亚·纳德拉
 products_models:
 - AIP
 project:

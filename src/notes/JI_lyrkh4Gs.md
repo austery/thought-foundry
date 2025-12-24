@@ -8,10 +8,6 @@ draft: true
 guest: ''
 insight: null
 layout: post.njk
-people:
-- Erik Torenberg
-- Aaron Levie
-- Steven Sinofsky
 products_models: []
 project:
 - ai-impact-analysis

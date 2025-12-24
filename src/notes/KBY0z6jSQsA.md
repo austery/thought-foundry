@@ -1,6 +1,8 @@
 ---
 area: tech-work
 category: ai-ml
+companies:
+- yc
 companies_orgs:
 - YC
 - Stripe
@@ -11,7 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Arlon Rakhmetzhanov
 - Paul Graham
 - Patrick Collison
 - John Collison
@@ -29,8 +30,6 @@ summary: 年仅18岁的哈萨克斯坦高中辍学生Arlon Rakhmetzhanov，分�
 tags:
 - startup
 title: 18岁高中辍学生如何融资620万美元 | Arlon Rakhmetzhanov 谈创业与AI
-companies:
-- yc
 ---
 
 ### 初识与启程

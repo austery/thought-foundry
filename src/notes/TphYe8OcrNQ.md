@@ -37,11 +37,7 @@ media_books:
 - VOX
 - 美联社
 people:
-- 伊丽莎白·切尔基亚
-- John Villaseñor
-- John Moolenaar
 - 黄仁勋
-- Michael Pettis
 - 特朗普
 - Xi Jinping
 - 黎智英

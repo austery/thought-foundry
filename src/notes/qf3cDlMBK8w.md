@@ -24,11 +24,6 @@ media_books:
 - We Need to Talk about Investor's Problem with Vaginus
 people:
 - Nam Kiwanuka
-- Marina Gerner
-- Ida Tin
-- Tracy McNeel
-- Gloria Steinem
-- Jen Gunter
 products_models:
 - speculum
 - dilator

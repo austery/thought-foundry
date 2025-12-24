@@ -13,7 +13,6 @@ media_books:
 - CNBC
 - investing.com
 people:
-- Chris Waller
 - Nick Timiraos
 - Jerome Powell
 - Donald Trump

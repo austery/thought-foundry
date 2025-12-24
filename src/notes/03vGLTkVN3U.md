@@ -28,16 +28,12 @@ media_books:
 - 《新的中国战略手册》
 people:
 - Larry Summers
-- Jin Keyu
-- Jin Liqun
 - Donald Trump
 - Joe Biden
 - Emmanuel Macron
 - Volodymyr Zelenskyy
 - Elizabeth Warren
 - Mike Johnson
-- Pete Hogseth
-- Driscoll
 - Mao Ning
 - Sanae Takaichi
 products_models:

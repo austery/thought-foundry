@@ -80,10 +80,8 @@ people:
 - Larry Summers
 - Reed Hoffman
 - Elon Musk
-- Ron Baron
 - Dan Ives
 - Dan Niles
-- Michael Bur
 products_models:
 - Bitcoin
 - Ethereum

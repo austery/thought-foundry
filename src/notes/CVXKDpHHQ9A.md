@@ -19,7 +19,6 @@ people:
 - 张内咸
 - Donald Trump
 - Larry David
-- 张作霖
 - 张学良
 - 蒋介石
 - 吴京

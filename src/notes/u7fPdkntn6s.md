@@ -13,7 +13,6 @@ media_books:
 - The Daily Beast
 - Financial Times
 people:
-- 曹德旺
 - Xi Jinping
 products_models: []
 project:

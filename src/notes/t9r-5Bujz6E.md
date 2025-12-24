@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - Winnicott
-- Marx
 products_models: []
 project:
 - china-analysis

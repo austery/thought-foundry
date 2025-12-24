@@ -16,34 +16,10 @@ media_books:
 - I, Claudius
 - Aeneid
 people:
-- Mary Beard
 - Julius Caesar
 - Augustus
-- Octavian
-- Mark Antony
-- Cleopatra
-- Pompey the Great
-- Mithridates
-- Vespasian
-- Titus
-- Seneca
-- Nero
-- Cincinnatus
-- Tiberius Gracchus
-- Gaius Gracchus
-- Cornelia
-- Catiline
-- Marcus Tullius Cicero
-- Cornelius Tacitus
-- Romulus
-- Robert Graves
 - Alexander the Great
 - George Orwell
-- Homer
-- Telemachus
-- Penelope
-- Emily Wilson
-- Daniel Mendelsohn
 - Christopher Nolan
 products_models: []
 project:

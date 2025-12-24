@@ -18,17 +18,13 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Tom Barkin
 - Jerome Powell
-- Ann Wong
 - Austan Goolsbee
-- Jeffrey Schmid
 - Mary Daly
 - Donald Trump
 - Paul Volcker
 - Milton Friedman
 - Kerman Rodriguez
-- Dashelob Bennett
 - Kale Brooks
 products_models:
 - Taylor rule

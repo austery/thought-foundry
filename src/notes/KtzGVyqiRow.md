@@ -24,15 +24,9 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- James Shields
-- Alex Xenopoulos
-- Evan Xenopoulos
-- Chris Hatch
 - Carmen Rodriguez
-- Dash Bennett
 - Kale Brooks
 - Eric Adams
-- Zoram Mani
 - Andrew Cuomo
 products_models:
 - Pizza Masters

@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- intellectual-property-leakage
 companies_orgs:
 - Uber
 - Nvidia
@@ -22,13 +24,10 @@ media_books:
 - AI Hype Versus Reality
 people:
 - Jeffrey Hinton
-- Aiden Gomez
 - Richard Sutton
 - Alex Krizhevsky
 - Ilya Sutskever
-- Joshua Bengio
 - Donald Trump
-- Mr. Carney
 products_models:
 - GPT
 - Claude
@@ -54,8 +53,6 @@ tags:
 - geopolitical
 - talent
 title: 加拿大AI人才流失的困境与转机：从研究强国到商业化挑战
-companies:
-- intellectual-property-leakage
 ---
 
 ### 加拿大AI的悖论：研究强国与人才外流

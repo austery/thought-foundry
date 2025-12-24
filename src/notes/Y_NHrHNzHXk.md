@@ -28,8 +28,6 @@ people:
 - Robert Shiller
 - Donald Trump
 - Modi
-- Elizabeth Bushey
-- Xie Feng
 products_models:
 - ChatGPT
 project:

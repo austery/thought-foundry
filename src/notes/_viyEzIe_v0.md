@@ -24,7 +24,6 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Michael Froman
 - Donald Trump
 - Joe Biden
 - Barack Obama
@@ -32,7 +31,6 @@ people:
 - Robert Kaplan
 - Narendra Modi
 - Vladimir Putin
-- Jim O'Neil
 products_models: []
 project:
 - us-analysis

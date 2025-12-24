@@ -30,11 +30,7 @@ people:
 - Jeff Hinton
 - Patrick Collison
 - John Collison
-- Daryl
-- Matthew Brockman
 - Dylan Patel
-- McCulloch
-- Pitts
 products_models:
 - ChatGPT
 - GPT-4

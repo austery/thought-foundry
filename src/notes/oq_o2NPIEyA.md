@@ -41,12 +41,9 @@ people:
 - Kamala Harris
 - Jerome Powell
 - 潘功胜
-- 李承刚
 - 贝森特
 - 高市早苗
 - 贾斯廷·特鲁多
-- 哈维尔·米莱
-- 马克·扎克伯格
 products_models:
 - TikTok
 - 比特币

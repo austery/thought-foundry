@@ -27,8 +27,6 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- 沃什
-- 哈塞特
 - Elon Musk
 products_models: []
 project:

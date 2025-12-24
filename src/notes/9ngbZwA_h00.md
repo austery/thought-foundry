@@ -19,11 +19,7 @@ media_books:
 - Muhammad Ali
 - American Revolution
 people:
-- Tim Mleier
 - Claire Vo
-- Clark
-- Russell Lee
-- Ken Burns
 products_models:
 - ChatGPT
 - Cursor

@@ -28,9 +28,6 @@ media_books:
 people:
 - 马克·卡尼
 - 贾斯廷·特鲁多
-- 皮埃尔·博励治
-- 史蒂芬·哈珀
-- 大卫·戈登·威尔逊
 - 唐纳德·川普
 products_models: []
 project:

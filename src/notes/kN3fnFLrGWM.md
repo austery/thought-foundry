@@ -8,8 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 小花藥師
-- 陳威龍醫師
 - Tony營養師
 products_models:
 - 瘦瘦針 (GLP-1受體促效劑)

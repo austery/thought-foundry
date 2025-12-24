@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - stella-an
-- avi-loeb
 products_models: []
 project: []
 series: ''

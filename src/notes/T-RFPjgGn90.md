@@ -15,17 +15,11 @@ media_books:
 - 《形而上学》
 people:
 - 亚里士多德
-- 大卫·休谟
-- 伊曼努尔·康德
-- 大卫·刘易斯
-- 朱迪亚·珀尔
 - 伽利略
 - 牛顿
-- 拉普拉斯
 - 罗素
 - 刘慈欣
 - 约翰·洛克
-- 卡尔·皮尔逊
 products_models: []
 project:
 - systems-thinking

@@ -17,7 +17,6 @@ people:
 - Charlie Munger
 - Warren Buffett
 - Donald Trump
-- Desmond Story
 products_models: []
 project:
 - investment-strategy

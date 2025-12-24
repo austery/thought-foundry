@@ -14,13 +14,9 @@ layout: post.njk
 media_books:
 - Boston Review
 people:
-- 周保松
-- 李泽厚
-- 叶浩
 - 秦晖
 - Milton Friedman
 - Friedrich Hayek
-- Robert Nozick
 - 赵紫阳
 - 江泽民
 products_models: []

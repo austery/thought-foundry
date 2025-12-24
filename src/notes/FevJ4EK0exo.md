@@ -20,7 +20,6 @@ people:
 - Mary Daly
 - Tracy Alloway
 - Joe Weisenthal
-- Neil Duta
 - Donald Trump
 - Jerome Powell
 products_models:

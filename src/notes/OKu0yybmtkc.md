@@ -18,13 +18,8 @@ insight: ''
 layout: post.njk
 people:
 - LeBron James
-- Caitlin Clark
-- Saquon Barkley
-- Simone Biles
 - Cristiano Ronaldo
 - Lionel Messi
-- Darren Peries
-- Reef Peries
 - Ben
 products_models:
 - aiScout

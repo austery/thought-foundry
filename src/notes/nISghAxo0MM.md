@@ -14,14 +14,8 @@ media_books:
 people:
 - Donald Trump
 - Joe Biden
-- 吴亦凡
 - 克林顿
-- 詹姆斯
 - 高市早苗
-- 特拉斯
-- 何茂才
-- 海瑞
-- 埃博斯坦
 - 石破茂
 products_models: []
 project:

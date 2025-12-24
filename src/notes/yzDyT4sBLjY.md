@@ -8,7 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- harald-lesch
 - stella-an
 products_models: []
 project: []

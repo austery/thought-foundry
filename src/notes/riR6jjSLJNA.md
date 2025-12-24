@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 李先生
-- 何伟豪
 products_models: []
 project: []
 series: ''

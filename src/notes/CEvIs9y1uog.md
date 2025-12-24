@@ -12,9 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Barry Zhang
-- Mahesh Murag
 products_models:
 - Claude
 - Cloud Code

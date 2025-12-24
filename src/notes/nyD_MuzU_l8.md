@@ -11,9 +11,6 @@ layout: post.njk
 media_books:
 - 《龙卷风》
 - 《银翼杀手2049》
-people:
-- 王路澄
-- 苏镝坷
 products_models: []
 project: []
 series: ''

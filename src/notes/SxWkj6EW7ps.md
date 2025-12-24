@@ -11,10 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 陈伟俊
 - 马兴瑞
-- 陈全国
-- 陈小江
 products_models: []
 project:
 - china-analysis

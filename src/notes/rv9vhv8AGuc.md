@@ -8,8 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- richard-sutton
 products_models:
 - chatgpt
 project:

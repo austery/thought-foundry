@@ -18,23 +18,15 @@ media_books:
 - Wirecutter's Guide to Navigating Tariffs this Holiday Season
 - Ask Wire Cutter
 people:
-- Christine Sirette
 - Kyra Blackwell
 - Rosie Garin
-- Ann Marie Conte
-- Nathan Burrow
-- Kimber Streams
 - Donald Trump
-- Abigail Keel
 - Mattie Maziello
 - Nick Pitman
-- Katherine Anderson
 - Dan Powell
 - Marian Lozano
-- Rowan Nemoto
 - Diane Wong
 - Cliff Levy
-- Ben Freeman
 products_models:
 - American Girl dolls
 - Chromebook

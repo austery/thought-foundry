@@ -11,25 +11,9 @@ layout: post.njk
 media_books:
 - When We Cease to Understand the World
 people:
-- Amanda
-- Ben Schultz
-- Kyle Kabasares
 - John Locke
-- Guinness Chen
-- Szulima Amitace
-- Lorenz
-- Swyx
-- Dan Brickley
-- Roanoke Gal
-- Steven Bank
-- Tommy
 - Foucault
 - Simon Willison
-- Nosson Weissman
-- Janus
-- Geoffrey Miller
-- Louis
-- Benjamin Labatut
 products_models:
 - Claude
 - Claude Opus 3

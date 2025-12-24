@@ -34,28 +34,21 @@ media_books:
 - The Alignment Problem
 people:
 - Stuart Russell
-- Richard Branson
 - Geoffrey Hinton
-- King Midas
 - Sam Altman
 - Elon Musk
 - Dario Amodei
 - J. Robert Oppenheimer
-- Queen Elizabeth
 - Adolf Hitler
-- Jan Leike
 - Ilya Sutskever
 - Alan Turing
 - John Maynard Keynes
-- Iain M. Banks
 - Andy Jassy
-- David Coleman
 - Rishi Sunak
 - Mark Andreessen
 - Jensen Huang
 - Donald Trump
 - Yoshua Bengio
-- Brian Christian
 products_models:
 - ChatGPT
 - GPT-4

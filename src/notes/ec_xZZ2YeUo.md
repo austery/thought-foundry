@@ -19,16 +19,9 @@ media_books:
 - X
 - youtube-algorithm
 people:
-- IShowSpeed
-- Emma Chamberlain
-- MrBeast
 - 王志安
 - 司马南
-- 疯狂小杨哥
-- 酷酷的滕
-- 大张伟
 - 金正恩
-- Dennis Rodman
 products_models: []
 project:
 - china-analysis

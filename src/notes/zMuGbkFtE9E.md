@@ -15,8 +15,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Vishal Virani
-- Rahul
 - Satya Nadella
 products_models:
 - Figma

@@ -29,23 +29,12 @@ media_books:
 - 《央视》
 people:
 - Nick Timiraos
-- Swonk
-- Barr
 - Donald Trump
 - Jeffrey Epstein
 - Ghislaine Maxwell
-- Michael Wolff
 - Levitt
-- Isaac Herzog
 - Benjamin Netanyahu
-- Ko Wen-je
-- Huang Kuo-chang
-- Takaichi Sanae
-- Shen Po-yang
 - Lai Ching-te
-- Han Kuo-yu
-- Lingling Wei
-- Zhang Youxia
 - He Weidong
 - Xi Jinping
 products_models: []

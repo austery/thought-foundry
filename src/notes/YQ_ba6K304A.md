@@ -37,11 +37,9 @@ people:
 - Xi Jinping
 - 江泽民
 - 唐纳德·特朗普
-- 杰罗姆·鲍威尔
 - 埃隆·马斯克
 - 黄仁勋
 - C.C. 魏
-- 凯文·哈塞特
 products_models:
 - H200
 - Blackwell

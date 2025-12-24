@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- David Solomon
 products_models: []
 project:
 - systems-thinking

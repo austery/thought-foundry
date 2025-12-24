@@ -12,9 +12,6 @@ layout: post.njk
 media_books:
 - perplexing probability course
 - joy of problem solving course
-people:
-- Peter Bro Miltersen
-- Matt Parker
 products_models: []
 project:
 - systems-thinking

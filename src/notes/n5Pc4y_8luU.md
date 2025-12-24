@@ -29,11 +29,8 @@ media_books:
 - Wall Street Journal
 - Cockroaches in the Coal Mine
 people:
-- Dan Wertman
 - Joe Weisenthal
 - Tracy Alloway
-- Paul Khodorkovsky
-- Joel Wertheimer
 - Jamie Dimon
 - Howard Marks
 products_models:

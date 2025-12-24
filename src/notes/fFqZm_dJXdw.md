@@ -16,7 +16,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Marilyn Nika
 - Clarvo
 - Mark Cuban
 products_models:

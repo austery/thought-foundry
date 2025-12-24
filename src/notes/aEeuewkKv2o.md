@@ -17,12 +17,6 @@ media_books:
 - No Country for Old Men
 people:
 - Hannah Arendt
-- Adolf Eichmann
-- Victor Hugo
-- Jean Valjean
-- Javert
-- Thénardiers
-- Ren Zhiqiang
 - Immanuel Kant
 - Gunnar Myrdal
 products_models: []

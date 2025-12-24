@@ -12,9 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《思考，快与慢》
-people:
-- 丁阳
-- 丹尼尔·卡尼曼
 products_models: []
 project:
 - us-analysis

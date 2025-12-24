@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Thomas Bayes
-- Judea Pearl
 products_models:
 - Siri
 - Google Search

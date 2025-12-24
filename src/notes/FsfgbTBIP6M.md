@@ -20,9 +20,6 @@ media_books:
 - The Last Economy
 people:
 - David Sacks
-- John Burn-Murdoch
-- George Akerlof
-- Hannah Farkas
 products_models:
 - Gemini Flash
 project:

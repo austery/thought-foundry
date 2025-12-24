@@ -15,10 +15,7 @@ layout: post.njk
 media_books:
 - The MAD Podcast
 people:
-- Julian Schrittwieser
 - Matt Turck
-- David Silver
-- Aja Huang
 - Demis Hassabis
 - Lee Sedol
 - Richard Sutton

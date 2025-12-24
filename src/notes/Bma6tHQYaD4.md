@@ -14,8 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Jason Wei
 products_models:
 - o1 模型
 - Deep Research

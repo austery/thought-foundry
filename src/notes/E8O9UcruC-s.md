@@ -17,9 +17,6 @@ layout: post.njk
 media_books:
 - The Rundown
 people:
-- Leanne Cole
-- David Boosevelt
-- Carolyn Ferns
 - George Floyd
 products_models:
 - Bill 33

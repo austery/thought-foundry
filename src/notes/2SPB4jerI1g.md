@@ -19,7 +19,6 @@ layout: post.njk
 people:
 - Ace
 - Peter Beck
-- Matthew
 - Adam
 products_models: []
 project:

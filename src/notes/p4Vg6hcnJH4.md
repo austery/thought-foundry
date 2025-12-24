@@ -27,7 +27,6 @@ media_books:
 - GitHub
 - tpu-inference仓库
 people:
-- 罗伯特·亨特
 - Kamala Harris
 - Donald Trump
 - Joe Biden

@@ -34,8 +34,6 @@ people:
 - Sam Altman
 - Mark Zuckerberg
 - Jeff Bezos
-- John Templeton
-- 谢国忠
 - 李嘉诚
 - Bill Gates
 products_models:

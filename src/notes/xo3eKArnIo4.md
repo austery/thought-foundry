@@ -15,10 +15,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Glen Wise
-- Michael Seibel
-- Declan
 products_models: []
 project:
 - ai-impact-analysis

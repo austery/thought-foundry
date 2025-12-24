@@ -17,10 +17,8 @@ media_books:
 - 《国际数据安全管理条例》
 people:
 - 张内咸
-- 陈之汉
 - Jake Paul
 - Mike Tyson
-- 陈柏源
 products_models:
 - VPN
 - GFW

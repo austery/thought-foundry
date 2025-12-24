@@ -10,12 +10,9 @@ layout: post.njk
 media_books:
 - 《劝学篇》
 people:
-- Andrew Breitbart
 - 福泽谕吉
-- 释迦牟尼
 - 孔子
 - 孟子
-- 麦克阿瑟
 - Donald Trump
 products_models: '[]'
 project:

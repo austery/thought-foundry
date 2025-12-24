@@ -16,7 +16,6 @@ people:
 - 唐石峻
 - 巴菲特
 - 查理·芒格
-- 本杰明·格雷厄姆
 products_models: []
 project:
 - us-analysis

@@ -9,8 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- Olive Song
 products_models:
 - Minimax M2
 project:

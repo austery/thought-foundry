@@ -24,10 +24,8 @@ people:
 - Jean Chrétien
 - Stephen Harper
 - Justin Trudeau
-- 庄文浩
 - Joe Biden
 - Donald Trump
-- 王鏑
 products_models:
 - USMCA
 project:

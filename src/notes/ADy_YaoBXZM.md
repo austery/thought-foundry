@@ -30,7 +30,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Jacqu Pedulu
 - Albert Einstein
 products_models:
 - ABBA fertility tracker

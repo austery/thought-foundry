@@ -17,13 +17,8 @@ layout: post.njk
 media_books:
 - The Daily
 people:
-- Michael Babaro
-- Julie Turkowitz
-- Luis Chakon
-- Aldo Kulminarees
 - Donald Trump
 - Nicolas Maduro
-- Christine Gnome
 - Bill Cassidy
 products_models: []
 project:

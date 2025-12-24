@@ -21,16 +21,11 @@ media_books:
 - 《华尔街日报》
 - 《The Power Law》
 people:
-- Gabor Forgacs
-- Ethan Brown
-- Patrick Brown
-- Dimitri Semenikhin
 - Bill Gates
 - Li Ka-shing
 - Leonardo DiCaprio
 - Vinod Khosla
 - Robert F. Kennedy Jr.
-- Peter (Impossible Foods CEO)
 products_models:
 - McPlant
 - Impossible cheeseburger

@@ -22,13 +22,9 @@ media_books:
 - 《The New York Times》
 people:
 - Demis Hassabis
-- 李世石
-- 柯洁
 - Sam Altman
-- 杨立坤
 - Satya Nadella
 - Sundar Pichai
-- 伊利亚
 - Greg Brockman
 - Jose
 - 巴菲特

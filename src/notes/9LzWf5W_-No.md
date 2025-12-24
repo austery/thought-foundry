@@ -12,13 +12,7 @@ media_books:
 people:
 - Xi Jinping
 - 王立军
-- 王少光
-- 林昭
-- 邓飞
 - 刘晓波
-- 田恒
-- 西乡隆盛
-- 胜海舟
 products_models:
 - 天网工程
 - 歼-10

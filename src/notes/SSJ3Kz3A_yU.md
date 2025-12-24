@@ -10,8 +10,6 @@ insight: null
 layout: post.njk
 people:
 - Steven Bartlett
-- Dr. Daniel Amen
-- Dr. Terry Sejnowski
 products_models:
 - chatgpt
 project:

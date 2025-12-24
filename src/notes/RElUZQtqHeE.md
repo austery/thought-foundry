@@ -12,7 +12,6 @@ layout: post.njk
 media_books:
 - 小翠时政财经
 people:
-- 楼继伟
 - Xi Jinping
 products_models: []
 project:

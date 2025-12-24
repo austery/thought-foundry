@@ -14,9 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - TED
-people:
-- Varun Sivaram
-- flexible-ai-computing
 products_models:
 - Emerald Conductor
 project:

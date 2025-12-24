@@ -16,9 +16,6 @@ media_books:
 people:
 - James Clear
 - Cal Newport
-- Robert M Sapolsky
-- Simone Giertz
-- CGP Grey
 products_models:
 - Instagram
 - Twitter

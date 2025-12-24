@@ -11,9 +11,7 @@ media_books:
 - 《君王论》
 - 《乌合之众》
 people:
-- Niccolò Machiavelli
 - David Hume
-- Gustave Le Bon
 products_models: '[]'
 project:
 - geopolitics-watch

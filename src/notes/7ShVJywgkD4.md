@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: general
+companies:
+- psychological-trauma
 companies_orgs:
 - 新华社
 - 唯品会
@@ -20,8 +22,6 @@ people:
 - Vladimir Putin
 - 金正恩
 - 李在明
-- 姜昆
-- 梁左
 products_models: []
 project:
 - china-analysis
@@ -38,8 +38,6 @@ tags:
 - consumer-behavior
 - economic
 title: 双十一消费行为：心理创伤、经济困境与社会转型
-companies:
-- psychological-trauma
 ---
 
 ### 从万圣节趣事到奇葩恐惧症

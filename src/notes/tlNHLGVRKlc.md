@@ -15,7 +15,6 @@ layout: post.njk
 people:
 - Harry S. Truman
 - Chiang Kai-shek
-- George Marshall
 - Joseph McCarthy
 products_models: []
 project:

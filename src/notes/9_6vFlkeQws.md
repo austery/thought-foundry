@@ -20,11 +20,7 @@ media_books:
 - The Daily
 people:
 - Natalie Kitroof
-- Jonah Bramitch
-- Jenny Brentice
 - Cash Patel
-- Chanty Bilips
-- Terry Rosier
 - Damon Jones
 - LeBron James
 - Donald Trump

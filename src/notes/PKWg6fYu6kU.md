@@ -25,10 +25,7 @@ people:
 - Émile Durkheim
 - Max Weber
 - Harvey Weinstein
-- 宋慧乔
-- 俾斯麦
 - 爱因斯坦
-- Milovan Djilas
 - 金正恩
 - 蒋经国
 products_models: []

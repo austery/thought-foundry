@@ -12,14 +12,6 @@ media_books:
 - 《世界与我》
 - 《巢》
 - 《去哪安家》
-people:
-- 秦潇越
-- 房君睿
-- 房爸爸
-- 房妈妈
-- 杨光
-- 吴卓渊
-- 贾樟柯
 products_models: []
 project:
 - historical-insights

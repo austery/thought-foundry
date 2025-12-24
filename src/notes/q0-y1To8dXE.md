@@ -16,17 +16,14 @@ media_books:
 - 《黑客帝国》
 - 《V字仇杀队》
 people:
-- Joyce
 - Friedrich Nietzsche
 - Donald Trump
 - Charlie Kirk
 - Ludwig Wittgenstein
-- Antonio Gramsci
 - Bernie Sanders
 - Deng Xiaoping
 - Hu Yaobang
 - Zhao Ziyang
-- Li Yinhe
 products_models:
 - TikTok
 - Telegram

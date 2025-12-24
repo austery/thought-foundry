@@ -34,26 +34,7 @@ media_books:
 people:
 - MJ Franklin
 - Dave Kim
-- Emily Aken
-- Monica T.
-- Lazlo Krasznahorkai
-- Tony Morrison
-- James English
 - Pierre Bourdieu
-- Anna Burns
-- Jason Mott
-- Ben Marovitz
-- Karen Desai
-- Susan Choy
-- Katie Kamura
-- Roxane Gay
-- Riia Alamidin
-- Omar Alkad
-- Patricia Smith
-- Gabrielle de Cababeson Kam
-- Robin Meyers
-- Daniel Naari
-- Parro Seel
 products_models: []
 project:
 - cultural-critique

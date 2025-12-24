@@ -18,10 +18,8 @@ people:
 - Deng Xiaoping
 - Xi Jinping
 - Jordan Peterson
-- Sam Harris
 - Joe Rogan
 - Lex Fridman
-- Noah Smith
 products_models:
 - Hubble
 - TikTok

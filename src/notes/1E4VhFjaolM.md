@@ -28,7 +28,6 @@ people:
 - 马化腾
 - 马云
 - 刘宗坤
-- 张小龙
 products_models: []
 project:
 - china-analysis

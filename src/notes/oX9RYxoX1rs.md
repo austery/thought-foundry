@@ -16,15 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Omar Yaghi
-- David Baker
-- Jennifer Doudna
-- Christopher Bishop
-- Larry Zitnick
-- Heather Kulik
-- John Hennessy
-- Victoria Gray
 products_models:
 - ChatGPT
 - DALL·E

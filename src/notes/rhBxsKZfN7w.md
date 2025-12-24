@@ -17,8 +17,6 @@ media_books:
 people:
 - Charlie Munger
 - Warren Buffett
-- Mohnish Pabrai
-- Li Lu
 products_models: []
 project:
 - investment-strategy

@@ -15,7 +15,6 @@ people:
 - George Washington
 - Franklin D. Roosevelt
 - Lyndon B. Johnson
-- Felix Frankfurter
 - Friedrich Hayek
 products_models: '[]'
 project:

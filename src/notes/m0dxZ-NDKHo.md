@@ -16,8 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ola Mabadeje
 products_models:
 - OpenConfig
 - AQL

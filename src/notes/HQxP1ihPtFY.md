@@ -18,22 +18,9 @@ media_books:
 people:
 - Zohran Mamdani
 - Andrew Cuomo
-- Mira Nair
-- Denzel Washington
-- Mahmood Mamdani
-- Ross Barkan
-- Jabari
 - Bill Ackman
-- Dan Loeb
-- John Catsimatidis
-- Jimmy Dimon
-- Steve Cohen
-- Kathy Wylde
 - Kathy Hochul
-- Janno Lieber
 - Donald Trump
-- Letitia James
-- Jessica Tisch
 products_models: []
 project:
 - us-analysis

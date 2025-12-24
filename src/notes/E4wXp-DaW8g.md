@@ -47,20 +47,8 @@ media_books:
 - The FactFinders
 - Winning
 people:
-- Anthony Scilipoti
-- Shane Parish
-- Al Rosen
-- Steve Schwarzman
 - Warren Buffett
 - Ray Dalio
-- Alish Schroeder
-- John Roth
-- Mike Pearson
-- Porter Collins
-- Eugene Melnik
-- Andrew Fastow
-- Paul Kuzzac
-- Tim Grover
 - Donald Trump
 - Jerome Powell
 products_models:

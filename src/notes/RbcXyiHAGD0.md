@@ -17,8 +17,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Kevin Cu
 products_models:
 - ChatGPT
 project:

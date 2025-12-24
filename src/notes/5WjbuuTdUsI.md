@@ -16,9 +16,6 @@ layout: post.njk
 people:
 - 马云
 - 罗永浩
-- 俞敏洪
-- 老赵
-- 老侯
 products_models:
 - iPhone
 - 特斯拉

@@ -14,19 +14,8 @@ media_books:
 - 《圣鹿之死》
 people:
 - Descartes
-- La Mettrie
-- Godwin
-- Bella
 - Max
-- Duncan
 - Freud
-- 小汉斯
-- Ms. Martha
-- Mr. Harry
-- Goethe
-- Darwin
-- Jean-Martin Charcot
-- Sartre
 products_models: []
 project:
 - cultural-critique

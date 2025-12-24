@@ -12,8 +12,6 @@ layout: post.njk
 media_books:
 - GQ
 people:
-- 李唐越
-- 陈威龙
 - 宋晏仁
 products_models:
 - 胆固醇平衡懒人包

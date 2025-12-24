@@ -19,21 +19,12 @@ media_books:
 - Tractatus Logico-Philosophicus
 - Language, Truth & Logic
 people:
-- Alex O'Connor
 - Thomas Aquinas
 - Aristotle
-- Albert Camus
 - Friedrich Nietzsche
-- Emil Cioran
 - Jean-Paul Sartre
-- Fyodor Dostoevsky
 - Leo Tolstoy
-- Ivan Turgenev
 - Ludwig Wittgenstein
-- A.J. Ayer
-- Simon Blackburn
-- Peter Geach
-- Gottlob Frege
 products_models: []
 project:
 - systems-thinking

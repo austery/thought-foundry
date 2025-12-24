@@ -10,7 +10,6 @@ layout: post.njk
 people:
 - donald-trump
 - joe-biden
-- hunter-biden-trial
 products_models: []
 project:
 - us-analysis

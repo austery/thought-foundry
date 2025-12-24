@@ -20,8 +20,6 @@ media_books:
 - The Daily
 people:
 - Rachel Abrams
-- Declan Walsh
-- Muhammad Hamdan
 - Donald Trump
 - Chuck Schumer
 - Joe Biden

@@ -12,8 +12,6 @@ layout: post.njk
 media_books:
 - 全齡運動處方
 people:
-- 雯心医师
-- 徐栋英教官
 - 宋晏仁医师
 products_models:
 - Inbody

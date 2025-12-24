@@ -11,8 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 邓雯心
-- 雪力
 - 宋晏仁
 products_models: []
 project:

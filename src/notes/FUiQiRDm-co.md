@@ -42,7 +42,6 @@ media_books:
 - X平台
 people:
 - Ace
-- Helen
 - Warren Buffett
 products_models:
 - Mag 7

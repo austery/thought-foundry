@@ -27,8 +27,6 @@ people:
 - Elon Musk
 - Sam Altman
 - Ray Dalio
-- Bob Prince
-- Nir Bar Dea
 products_models:
 - Pure Alpha
 project:

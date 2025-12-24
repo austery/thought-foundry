@@ -13,7 +13,6 @@ layout: post.njk
 media_books:
 - Moneyball
 people:
-- Billy Beane
 - Brad Pitt
 products_models: []
 project:

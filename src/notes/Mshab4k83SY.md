@@ -16,7 +16,6 @@ media_books:
 - 《世界人口报告》
 - 《瑞银全球财富年鉴2023》
 people:
-- Nicholas Eberstadt
 - 周杰伦
 - LeBron James
 - Xi Jinping

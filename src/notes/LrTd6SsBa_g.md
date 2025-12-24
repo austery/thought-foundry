@@ -40,12 +40,8 @@ media_books:
 - The Great Mortgage Divide
 - Chinese meme stocks
 people:
-- Patrick James
 - Jim Chanos
-- Robert Smith
 - Robert Armstrong
-- Sean John Combs
-- Guo Wengui
 products_models:
 - Saily
 project:

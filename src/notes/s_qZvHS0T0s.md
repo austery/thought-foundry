@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 media_books: []
 people:
-- 巴鲁赫·斯宾诺莎
 - 黑格尔
 - 恩格斯
 - 苏格拉底

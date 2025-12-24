@@ -16,10 +16,6 @@ media_books:
 people:
 - Magnus Carlsen
 - Peter
-- Wei Yi
-- Vladimir Kramnik
-- Viswanathan Anand
-- Ding Liren
 products_models:
 - Enigma code
 - Chess960

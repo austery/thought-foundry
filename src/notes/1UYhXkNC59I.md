@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Mary Douglas
-- 迪克牛仔
 products_models: []
 project:
 - cultural-critique

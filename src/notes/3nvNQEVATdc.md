@@ -15,9 +15,7 @@ layout: post.njk
 media_books:
 - Sverdrutrapporten
 people:
-- Marthe Skaar
 - Nikolai
-- Line
 products_models:
 - SharePoint
 project:

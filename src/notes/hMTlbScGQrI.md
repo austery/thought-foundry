@@ -25,17 +25,10 @@ media_books:
 - 《走向未来丛书》
 people:
 - Donald Trump
-- Peter Hegseth
-- Frank Bradley
 - Mike Pence
 - Hugo Chávez
 - Nicolás Maduro
 - Elon Musk
-- Su Bingtian
-- Usain Bolt
-- Huang Xuan
-- Wang Hongwen
-- Song Dongye
 products_models:
 - AK-47
 - F-16

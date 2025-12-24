@@ -35,27 +35,9 @@ media_books:
 people:
 - Martin Fowler
 - Kent Beck
-- Jim Odell
-- Rebecca Parsons
-- Daryl Smith
-- James Lewis
-- Grady Buch
-- Unmesh Jooshi
-- Bita
-- Steve Jagg
 - Simon Willison
-- Adam Tornhill
-- Ralph Johnson
-- John Brandt
-- Don Roberts
-- Bob Martin
-- Alistair Cockburn
-- Dave Thomas
-- Jim Highsmith
-- Jimmy Nielson
 - Daniel Kahneman
 - Robert Moses
-- Lyndon Baines Johnson
 products_models:
 - Unix
 - Fortran 4

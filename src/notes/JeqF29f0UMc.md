@@ -30,7 +30,6 @@ people:
 - David Eby
 - Mélanie Joly
 - Elon Musk
-- Jeff Douglas
 products_models:
 - Tesla
 - iPhone

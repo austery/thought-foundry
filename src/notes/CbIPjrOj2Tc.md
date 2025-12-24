@@ -30,23 +30,6 @@ media_books:
 - 《生成式人工智慧與機器學習導論2025》
 people:
 - Geoffrey Hinton
-- Abdel-rahman Mohamed
-- 鍾毓安
-- 王育軒
-- 劉廷偉
-- 楊書文
-- 李尚文
-- Shinji Watanabe
-- 陳冠宇
-- 孫帥豪
-- 曾柏翔
-- 李佳軒
-- 張凱為
-- 曾亮軒
-- 陳宜昌
-- 李冠儀
-- 林冠廷
-- 上官思雲
 - Sam Altman
 products_models:
 - ChatGPT Voice Mode

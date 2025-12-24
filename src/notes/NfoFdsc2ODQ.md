@@ -9,9 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ivy Weng
-- Sarah Nam
 products_models:
 - Claude
 - GenAIsys

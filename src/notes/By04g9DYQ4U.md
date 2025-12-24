@@ -24,12 +24,9 @@ people:
 - 李嘉诚
 - Donald Trump
 - Jimmy Carter
-- Ferdinand de Lesseps
 - Theodore Roosevelt
-- Philippe Bunau-Varilla
 - Larry Fink
 - Marco Rubio
-- José Raúl Mulino
 products_models:
 - 托里霍斯·卡特条约
 - 中立条约

@@ -16,10 +16,8 @@ media_books:
 people:
 - Donald Trump
 - Jerome Powell
-- Adriana Kugler
 - Christopher Waller
 - Stephen Miller
-- Alvin Hansen
 - Lawrence Summers
 products_models:
 - Phillips Curve

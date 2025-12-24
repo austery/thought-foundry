@@ -17,9 +17,7 @@ media_books:
 - 《你只需要发一次财》
 people:
 - Warren Buffett
-- John Meriwether
 - Myron Scholes
-- Robert C. Merton
 products_models:
 - T-bills
 - 巴塞尔协议

@@ -16,17 +16,9 @@ layout: post.njk
 media_books:
 - 《医山问答》
 people:
-- 连战
 - 马英九
 - 郑丽文
-- 清太宗皇太极
-- 明神宗万历帝
-- 丰臣秀吉
-- 明义宗崇祯帝
-- 宋时烈
-- 洪大容
 - 蒋介石
-- 苏起
 products_models:
 - ECFA
 - 九二共识

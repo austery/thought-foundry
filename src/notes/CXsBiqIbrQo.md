@@ -17,10 +17,7 @@ layout: post.njk
 media_books:
 - The MAD Podcast with Matt Turck
 people:
-- Ethan
-- Dylan
 - Matt
-- Anna
 products_models:
 - ERP
 - CRM

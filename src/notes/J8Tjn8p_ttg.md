@@ -14,8 +14,6 @@ media_books:
 - YouTube
 people:
 - 孔子
-- Charles Portis
-- Mandy Hill
 - Bertrand Russell
 - Max Weber
 products_models: '[]'

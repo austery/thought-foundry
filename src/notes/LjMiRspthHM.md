@@ -21,20 +21,10 @@ media_books:
 - 湖南文献
 - 贵州文献
 people:
-- 叶高华
-- 姜思章
-- 杨孟轩
 - 蒋介石
-- 许浩
 - 毛泽东
 - 邓小平
 - 龙应台
-- 齐邦元
-- 张典晚
-- 陶涵
-- 范尧胜
-- 陈金峰
-- 达比休有
 products_models: []
 project:
 - china-analysis

@@ -8,8 +8,6 @@ date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
-people:
-- 尤瓦尔·赫拉利
 products_models: []
 project:
 - ai-impact-analysis

@@ -27,7 +27,6 @@ people:
 - 刘少奇
 - Xi Jinping
 - 马云
-- 吴敬琏
 - 邓小平
 - Vladimir Putin
 products_models: []

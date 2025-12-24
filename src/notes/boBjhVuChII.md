@@ -16,12 +16,6 @@ media_books:
 - 《拉萨条约》
 - 《中英续议藏印条约》
 - great-game
-people:
-- 多斯特·默哈默德
-- 沙·舒贾
-- 谢尔·阿里
-- 雅各布
-- 沙皇保罗一世
 products_models: []
 project:
 - us-analysis

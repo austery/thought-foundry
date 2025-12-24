@@ -31,13 +31,8 @@ media_books:
 - FT
 - FT Alphaville
 people:
-- Bryce Elder
-- Matt Lavine
 - Elon Musk
-- Errol Musk
 - Taylor Swift
-- Spongebob
-- Zuckerberg
 products_models:
 - Grok
 - Claude

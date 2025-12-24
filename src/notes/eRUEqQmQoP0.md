@@ -24,10 +24,8 @@ people:
 - Javier Milei
 - Scott Bessent
 - Donald Trump
-- José Luis Espert
 - Milton Friedman
 - George Soros
-- Brad Setser
 products_models:
 - US Exchange Stabilization Fund
 - Extended Fund Facility

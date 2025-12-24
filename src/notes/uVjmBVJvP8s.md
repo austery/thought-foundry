@@ -15,13 +15,7 @@ media_books:
 - 《荷马史诗》
 - 《四库全书》
 people:
-- 沈辛成
 - 蔡元培
-- 苏轼
-- 荷马
-- 李时珍
-- 宋应星
-- 陈睿钊
 products_models: []
 project:
 - historical-insights

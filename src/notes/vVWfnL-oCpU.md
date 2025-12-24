@@ -55,15 +55,9 @@ people:
 - Alexander Wang
 - Sam Altman
 - Jensen Huang
-- Matt Babin
 - Lindsey Graham
-- Josh Hawley
-- Mike Braun
-- Pete Haggset
 - Bill Ackman
-- Eric Jackson
 - Peter Thiel
-- Gokarp
 products_models:
 - Ship OS
 - H200

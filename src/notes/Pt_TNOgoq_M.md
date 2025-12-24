@@ -11,7 +11,6 @@ media_books: '[]'
 people:
 - Aristotle
 - John Locke
-- Montesquieu
 - Thomas Jefferson
 products_models: '[]'
 project:

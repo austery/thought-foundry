@@ -20,7 +20,6 @@ layout: post.njk
 media_books:
 - Odd Lots
 people:
-- D.A. Wallach
 - Tracy Alloway
 - Joe Weisenthal
 - Milton Friedman

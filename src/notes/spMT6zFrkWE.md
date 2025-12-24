@@ -23,11 +23,6 @@ people:
 - Samuel Huntington
 - Francis Fukuyama
 - Graham Allison
-- Hamilton Eckenrode
-- Bernard Lewis
-- Eliot Cohen
-- Farid Zakaria
-- Jefferson Davis
 products_models: '[]'
 project:
 - geopolitics-watch

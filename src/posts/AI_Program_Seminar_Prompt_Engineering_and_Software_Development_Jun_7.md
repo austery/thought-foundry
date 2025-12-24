@@ -9,10 +9,8 @@ guest: ''
 insight: null
 layout: post.njk
 people:
-- 独行
 - Vincent
 - Jay
-- Thomas
 products_models: []
 project: []
 series: null

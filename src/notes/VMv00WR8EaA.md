@@ -35,14 +35,10 @@ media_books:
 - US News World Reports
 - Seinfeld
 people:
-- Russ Frerichs
-- Josh McFarland
 - Jim
 - Larry Page
 - Jeff Bezos
-- Ed Glazier
 - Henry
-- Tina
 products_models:
 - Chat GPT
 - Cursor

@@ -22,17 +22,8 @@ media_books:
 - The Trillium
 people:
 - John Michael McGrath
-- Jessica Smith Cross
-- Marit Stiles
-- David Pacini
-- Steve Clark
 - Doug Ford
 - John Fraser
-- Hazel McCallion
-- Bonnie Crombie
-- Amin Massudi
-- Charlie Pinkerton
-- Scott Juru
 products_models:
 - Bill 60
 - Bill 68

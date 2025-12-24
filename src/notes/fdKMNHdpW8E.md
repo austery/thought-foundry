@@ -1,6 +1,8 @@
 ---
 area: society-thinking
 category: politics-society
+companies:
+- pinduoduo
 companies_orgs:
 - Federal Reserve
 - Wall Street Journal
@@ -32,19 +34,9 @@ people:
 - Donald Trump
 - Kevin Hassett
 - Kevin Warsh
-- Cassidy Hutchinson
 - Mike Pence
 - Marco Rubio
-- Asim Munir
 - Xi Jinping
-- Guo Jia Kun
-- Fan Jiezhen
-- Wen Xue
-- Xu Mintao
-- Guo Hua
-- Hu Qida
-- Tu Tu Xing
-- Han Bing
 products_models:
 - Ural crude oil
 project:
@@ -60,8 +52,6 @@ tags:
 - financial
 - international-relations
 title: 美联储信号、川普幕僚风波与中国权贵火拼：深度解析多条重磅新闻
-companies:
-- pinduoduo
 ---
 
 ### 今日财经头条

@@ -18,9 +18,6 @@ people:
 - Joe Wisenthal
 - Tracy Alloway
 - Michael Burry
-- Burton Flynn
-- Ivan Neunev
-- Isabella Weber
 products_models:
 - Nutella
 - Fix chocolate

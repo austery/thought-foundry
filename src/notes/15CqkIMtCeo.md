@@ -12,11 +12,7 @@ media_books:
 - 《泰坦尼克号》
 - documentary-as-rescue
 people:
-- 方励
 - 韩寒
-- 林阿根
-- Dennis Morning
-- 朱里巴露
 products_models: []
 project:
 - historical-insights

@@ -13,11 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Half Monk, Half Machine
-people:
-- Aman Gour
-- Sashank
-- Michael Seibel
-- Tom Bloomfield
 products_models:
 - Microsoft Community Training
 - TurboHire

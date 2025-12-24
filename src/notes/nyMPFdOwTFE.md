@@ -21,8 +21,6 @@ media_books:
 - In Good Company
 people:
 - Nicolai Tangen
-- Geoffrey Garrett
-- John Wooden
 - Donald Trump
 products_models:
 - ChatGPT

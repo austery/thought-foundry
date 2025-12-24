@@ -29,8 +29,6 @@ people:
 - Cathie Wood
 - Donald Trump
 - Xi Jinping
-- 菅直人
-- 片山高月
 - 高市早苗
 products_models:
 - H100

@@ -8,8 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: '[]'
-people:
-- David Molak
 products_models: '[]'
 project:
 - china-analysis

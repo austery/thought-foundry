@@ -15,8 +15,6 @@ layout: post.njk
 people:
 - Donald Trump
 - John Mearsheimer
-- Thomas Sowell
-- Ben Norton
 - Henry Kissinger
 - Vladimir Putin
 - Richard Nixon

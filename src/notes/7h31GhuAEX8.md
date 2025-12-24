@@ -10,11 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 陈志翰
-- 王骁
-- 高志凯
-- 李一修
 products_models: []
 project:
 - china-analysis

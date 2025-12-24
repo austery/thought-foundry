@@ -18,16 +18,9 @@ layout: post.njk
 media_books:
 - The Invader's Dilemma
 people:
-- Christian Klein
 - Nikolai Tangen
 - Satya Nadella
 - Shantanu Narayen
-- Jim Hagemann Snabe
-- Bill McDermott
-- Sebastian Steinhaeuser
-- Lars Dalgaard
-- Bernard
-- G. Oswald
 products_models:
 - ERP
 - S/4HANA

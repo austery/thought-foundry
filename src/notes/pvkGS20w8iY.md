@@ -15,8 +15,6 @@ people:
 - Ichiro Kishimi
 - Aristotle
 - Hegel
-- Zhuangzi
-- Zeng Guofan
 - Wang Yangming
 products_models: []
 project:

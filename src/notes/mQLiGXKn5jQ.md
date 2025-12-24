@@ -16,22 +16,6 @@ media_books:
 - 《革命者教义问答》
 people:
 - 柴静
-- Lennar Reiss
-- Kudubu
-- Farid Benyatou
-- Dawid Walid
-- Manwar
-- Hassan
-- Dawai
-- Haji Mou
-- Mohammed Merah
-- 奥萨马·本·拉登
-- Su Hai'er
-- Xelif
-- Mela
-- Niekeyev
-- Owen
-- Ali Burr
 products_models: []
 project:
 - geopolitics-watch

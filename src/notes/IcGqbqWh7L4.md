@@ -15,9 +15,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Merete Hverven
-- Mark Schneider
-- Christian
 - Nikolai
 products_models: []
 project:

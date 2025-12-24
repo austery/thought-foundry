@@ -1,6 +1,8 @@
 ---
 area: personal-systems
 category: lifestyle
+companies:
+- bicycle-touring
 companies_orgs:
 - Acura
 - Toyota
@@ -24,9 +26,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: '[]'
-people:
-- 黄老弟
-- 儿子
 products_models:
 - Acura Legend
 - Toyota Camry
@@ -57,8 +56,6 @@ tags:
 - personal
 - technology
 title: 我的汽车与自行车之旅：26年美国生活中的驾驶与骑行感悟
-companies:
-- bicycle-touring
 ---
 
 ### 引言：徒步骑行与汽车情缘

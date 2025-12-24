@@ -27,9 +27,7 @@ media_books:
 - 《The Daily Beast》
 people:
 - 唐石峻
-- 张勇
 - 蔡崇信
-- 王仁勋
 - 查理·芒格
 products_models:
 - 通义千问

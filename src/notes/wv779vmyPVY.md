@@ -8,8 +8,6 @@ date: '2025-04-27'
 guest: null
 insight: null
 layout: post.njk
-people:
-- Jeremy Utley
 products_models: []
 project:
 - ai-impact-analysis

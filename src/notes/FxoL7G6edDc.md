@@ -13,9 +13,7 @@ media_books:
 - 《判断人心：一位资深FBI特工的行为预测用户手册》
 - Sizing People Up
 people:
-- Robin Dreeke
 - Jesse
-- Jack Johnson
 - Hillary Clinton
 products_models: []
 project:

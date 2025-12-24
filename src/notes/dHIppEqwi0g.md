@@ -25,11 +25,7 @@ media_books:
 - The Software Engineer's Guidebook
 - AI Engineering
 people:
-- Addy Osmani
 - Andrej Karpathy
-- Mitchell Hashimoto
-- Armin Ronacher
-- Chip Huyen
 products_models:
 - Chrome DevTools
 - Chrome DevTools MCP

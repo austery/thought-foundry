@@ -20,7 +20,6 @@ media_books:
 - 《关于气候变化的101个问题》
 - 《南风窗》
 people:
-- 张诗卉
 - Donald Trump
 products_models: []
 project:

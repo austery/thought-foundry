@@ -21,21 +21,7 @@ media_books:
 - 《银翼杀手》
 - 《铃芽之旅》
 people:
-- Paul Atreides
 - Jessica
-- Frank Herbert
-- Ibn Khaldun
-- Timothy Morton
-- Tony Hayward
-- Kynes
-- Chani
-- Fikret Berkes
-- Makoto Shinkai
-- Yanis Varoufakis
-- Michael Hardt
-- Antonio Negri
-- Anna Tsing
-- Donna Haraway
 - Sam
 products_models: []
 project:

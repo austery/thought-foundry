@@ -20,7 +20,6 @@ people:
 - Jeff Bezos
 - Elon Musk
 - Yuri Gagarin
-- Alan Shepard
 - Lex Fridman
 products_models:
 - New Shepard

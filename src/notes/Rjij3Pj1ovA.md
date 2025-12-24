@@ -26,8 +26,6 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-- Ma Yun
-- Xiao Jianhua
 products_models: []
 project:
 - china-analysis

@@ -1,6 +1,8 @@
 ---
 area: tech-insights
 category: technology
+companies:
+- bicycle-mechanic
 companies_orgs:
 - KiwiCo
 date: '2021-11-28'
@@ -10,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - MinutePhysics
-people:
-- Rick
 products_models: []
 project:
 - systems-thinking
@@ -27,8 +27,6 @@ tags:
 - self
 - steering
 title: 大多数人不知道自行车是如何工作的
-companies:
-- bicycle-mechanic
 ---
 
 ### 转向的错觉：我们如何错误地理解自行车

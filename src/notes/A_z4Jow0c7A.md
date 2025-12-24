@@ -26,13 +26,8 @@ media_books:
 - Enlightenment Now
 - Financial Times
 people:
-- Nicolai Tangan
-- Vas Narasimhan
-- Scott Pelton
 - Yuval Noah Harari
 - Steven Pinker
-- Dr. Kelner
-- Draghi
 - Donald Trump
 products_models:
 - radolyan therapies

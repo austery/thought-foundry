@@ -13,8 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 王律婷医师
-- 陈容甄
 - 宋晏仁医师
 products_models:
 - 捏捏乐

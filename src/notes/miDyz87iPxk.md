@@ -19,7 +19,6 @@ media_books:
 people:
 - Alan Greenspan
 - Ben Bernanke
-- William McChesney Martin Jr.
 - Arthur Burns
 - Paul Volcker
 - Jimmy Carter

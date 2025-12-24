@@ -14,9 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Edward A. Murphy
-- Chesley Sullenberger
 products_models:
 - 波音767
 - A320

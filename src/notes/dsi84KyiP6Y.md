@@ -18,7 +18,6 @@ media_books:
 - The Economist
 people:
 - Nicolai Tangen
-- Dilhan Pillay Sandrasegara
 - Lee Kuan Yew
 products_models:
 - ChatGPT

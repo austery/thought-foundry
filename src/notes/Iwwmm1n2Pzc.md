@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Dr. Trevor Arnason
 products_models: []
 project:
 - systems-thinking

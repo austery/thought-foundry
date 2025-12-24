@@ -44,14 +44,11 @@ people:
 - Hu Jintao
 - Wen Jiabao
 - Xi Jinping
-- Li Keqiang
 - Arthur Kroeber
 - Tyler Cowen
 - Howard Lutnick
 - Cameron Johnson
 - Joseph Torigian
-- Herman Melville
-- Rockwell Kent
 - Friedrich Hayek
 - Dwight D. Eisenhower
 products_models:

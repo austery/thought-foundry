@@ -18,23 +18,14 @@ media_books:
 - 《人民日报》
 people:
 - 高华
-- 傅高义
 - 龙应台
-- 胡杰
-- 高启发
 - 杨尚昆
 - 彭真
-- 王瑶
-- 钱理群
-- 钱刚
-- 钱永祥
 - 司马迁
 - 顾准
-- 格瓦拉
 - 毛泽东
 - 林彪
 - 刘少奇
-- 孙小康
 products_models: []
 project:
 - china-analysis

@@ -10,8 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Carl Kloock
-- Douglas Gaffin
 - Derek Muller
 products_models: []
 project:

@@ -17,22 +17,14 @@ media_books:
 - Facebook
 - X
 people:
-- 安妮塔.阿南德
 - 特鲁多
-- 克雷蒂安
-- 保罗.马丁
-- 斯蒂芬.哈珀
 - 孟晚舟
 - Michael Kovrig
-- Michael Spavor
 - Joe Biden
 - Donald Trump
-- 马可.卡尼
 - 李强
 - 王毅
 - 博励治
-- 福特
-- 罗纳德.里根
 - 温家宝
 products_models:
 - USMCA

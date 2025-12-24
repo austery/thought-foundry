@@ -11,9 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Harry Coover
-- Fred Joyner
 products_models:
 - Eastman 910 Adhesive
 - Dermabond

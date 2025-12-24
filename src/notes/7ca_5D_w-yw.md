@@ -16,7 +16,6 @@ media_books:
 people:
 - 唐石峻
 - 巴菲特
-- 希尔顿
 products_models: []
 project:
 - us-analysis

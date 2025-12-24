@@ -20,10 +20,7 @@ media_books:
 - TED
 people:
 - Alexandra Samuel
-- Viv
 - Sam Altman
-- Karen Hao
-- Chris Anderson
 - John McCarthy
 - Elon Musk
 - Ilia Sutskever

@@ -12,8 +12,6 @@ layout: post.njk
 media_books:
 - How Much Does a Shadow Weigh?
 - 60-minutes interview
-people:
-- Michael Stevens
 products_models:
 - snatoms
 - snatomsX

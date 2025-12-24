@@ -19,7 +19,6 @@ people:
 - 张雪峰
 - 马克思
 - 恩格斯
-- 威亚贝尔
 products_models: []
 project:
 - china-analysis

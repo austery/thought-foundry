@@ -12,16 +12,8 @@ insight: ''
 layout: post.njk
 people:
 - Euclid
-- János Bolyai
-- Farkas Bolyai
 - Carl Friedrich Gauss
-- Proclus
 - Ptolemy
-- al-Haytham
-- Omar Khayyam
-- Nikolai Lobachevsky
-- Riemann
-- Eugenio Beltrami
 - Einstein
 - Newton
 products_models:

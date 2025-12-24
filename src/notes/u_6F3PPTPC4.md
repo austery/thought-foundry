@@ -22,10 +22,7 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Olli Rehn
 - Mario Draghi
-- Barry Eichengreen
-- Jean-Claude Trichet
 products_models:
 - F-35
 - F-18

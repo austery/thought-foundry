@@ -18,8 +18,6 @@ media_books:
 people:
 - Joseph Henrich
 - David Reich
-- Jared Diamond
-- Gregory Clark
 - Robert Allen
 - Albert Einstein
 products_models:

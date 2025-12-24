@@ -1,28 +1,26 @@
 ---
-title: 访谈记录：司美格鲁肽的新对手们
-summary: null
 area: null
-category: null
-project: []
-tags:
-- loss
-- semaglutide
-people:
-- 硅谷101
-- 泓君
-- Yushan
-companies_orgs: []
-products_models:
-- glp-1
-date: '2025-05-25'
 author: Lei
-speaker: ''
+category: null
 channel: null
+companies_orgs: []
+date: '2025-05-25'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 泓君
+products_models:
+- glp-1
+project: []
 series: null
 source: null
+speaker: ''
+summary: null
+tags:
+- loss
+- semaglutide
+title: 访谈记录：司美格鲁肽的新对手们
 ---
 
 \[主持人 泓君\] Hello

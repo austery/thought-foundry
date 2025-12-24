@@ -12,9 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 林永昌
 - 宋晏仁
-- 何立安
 products_models: []
 project:
 - personal-growth-lab

@@ -11,16 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Louis de Broglie
-- Hans Busch
-- Ernst Ruska
-- Max Knoll
-- Otto Scherzer
-- Albert Crewe
-- Manfred von Ardenne
-- Knut Urban
-- Max Haider
-- Harold Rose
-- Orndrej Krivanek
 products_models:
 - Transmission Electron Microscope
 - Field Ion Microscope

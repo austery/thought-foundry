@@ -13,15 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- 董袭莹
-- 肖飞
-- 邹医生
-- 邱贵兴
-- 赵继怀
-- Ban Xiaojuan
-- 田文华
-- 老周
 products_models: []
 project:
 - china-analysis

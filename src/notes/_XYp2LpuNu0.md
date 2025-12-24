@@ -15,9 +15,7 @@ media_books:
 - 《游民文化与中国社会》
 - 《哪吒》
 people:
-- 王学泰
 - 洪秀全
-- 冯玉山
 products_models: []
 project:
 - china-analysis

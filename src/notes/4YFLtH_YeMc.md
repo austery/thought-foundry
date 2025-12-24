@@ -18,25 +18,11 @@ media_books:
 - 《水浒传》
 people:
 - 柴静
-- 张鸣
 - 慈禧太后
 - 光绪皇帝
-- 刚毅
-- 赵舒翘
-- 徐桐
-- 王懿荣
 - 李鸿章
 - 袁世凯
-- 刘坤一
 - 张之洞
-- 载漪
-- 克林德
-- 山山斌
-- 艾世杰
-- 冯国良
-- 荣禄
-- 丽山
-- 徐景澄
 products_models: []
 project:
 - historical-insights

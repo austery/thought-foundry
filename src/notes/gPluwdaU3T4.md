@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - kamala-harris
-- biden-administration
 products_models: []
 project:
 - us-analysis

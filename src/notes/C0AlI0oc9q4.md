@@ -16,8 +16,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Arun Subramaniyan
-- Neil Armstrong
 - Steve Jobs
 products_models:
 - GenAI

@@ -31,18 +31,10 @@ people:
 - James Comey
 - Leticia James
 - Lindseay Halligan
-- Devlin Barrett
-- Caroline Levit
 - Xi Jinping
 - Donald Trump
 - Joe Biden
-- Kristen Chenoweth
-- Steven Schwarz
-- Billy Porter
-- Andrew Lloyd Weber
 - George Clooney
-- Denzel Washington
-- Jake Gyllenhaal
 products_models:
 - Obamacare
 - ChatGPT

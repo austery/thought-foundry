@@ -14,28 +14,17 @@ media_books:
 - The Daily
 - Quinnipiac Poll
 people:
-- Michael Bubbero
-- Katie Edmonson
 - Shane Goldmaker
 - Donald Trump
 - Jeanne Shaheen
-- Maggie Hassan
-- Catherine Cortez Masto
-- Jackie Rosen
 - Angus King
-- John Fetterman
 - Tim Kaine
-- Dick Durbin
 - Mike Johnson
 - John Thune
 - Bernie Sanders
-- Alyssa Slotkin
 - Chuck Schumer
 - Gavin Newsom
-- Chris Murphy
 - Ro Khanna
-- Carl Hulse
-- Jon Ossoff
 - Kamala Harris
 products_models: []
 project:

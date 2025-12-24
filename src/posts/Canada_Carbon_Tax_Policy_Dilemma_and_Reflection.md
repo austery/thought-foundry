@@ -1,26 +1,25 @@
 ---
-title: 加拿大碳税政策的困境与反思
-summary: null
 area: null
-category: null
-project: []
-tags:
-- canada
-- environment
-people:
-- Steve Paikin
-- Chris Ragan
-companies_orgs: []
-products_models: []
-date: '2025-07-10'
 author: Lei
-speaker: ''
+category: null
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Steve Paikin
+products_models: []
+project: []
 series: null
 source: '#section-1'
+speaker: ''
+summary: null
+tags:
+- canada
+- environment
+title: 加拿大碳税政策的困境与反思
 ---
 
 **主讲人：** Steve Paikin (主持人), Chris Ragan (麦吉尔大学教授)

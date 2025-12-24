@@ -11,21 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《说中文：杜家庄的纪念》
-people:
-- 李纪
-- 林貌理
-- 高德
-- 杜寿山
-- 杜海
-- 杜平
-- 杜小二妞
-- 杜小十一
-- 杜小大子
-- 杜奶奶
-- 包神父
-- 李永成
-- 杨德山
-- 费神父
 products_models: []
 project:
 - historical-insights

@@ -24,7 +24,6 @@ people:
 - Socrates
 - 崔健
 - 吴国光
-- 杨笠
 products_models:
 - Medicaid
 - ObamaCare

@@ -28,13 +28,6 @@ media_books:
 people:
 - Xi Jinping
 - 李克强
-- 朱海伦
-- 马飞
-- 熊选国
-- 阿娜伊提·阿布利兹
-- 江国庆
-- 赖永连
-- 李建军
 products_models: []
 project:
 - china-analysis

@@ -19,13 +19,6 @@ media_books:
 - Mistreated
 people:
 - Nam Kiwanuka
-- Lynn Posluns
-- Lisa Mosconi
-- Professor Natasha Raja
-- Brenda Milner
-- Patient HM
-- Claudia Bar
-- Sydney
 products_models: []
 project:
 - systems-thinking

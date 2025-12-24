@@ -18,14 +18,11 @@ people:
 - Donald Trump
 - Lisa Cook
 - Joe Biden
-- William Poppert
 - Adam Schiff
 - Jerome Powell
 - Richard Nixon
 - Arthur Burns
 - Paul Volcker
-- Lyndon Johnson
-- William Martin
 - Harry Truman
 - Recep Tayyip Erdoğan
 products_models: []

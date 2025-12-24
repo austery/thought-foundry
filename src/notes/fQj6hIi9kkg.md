@@ -18,8 +18,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 雪球
-people:
-- 杨崇和
 products_models:
 - DDR5
 - MXC芯片

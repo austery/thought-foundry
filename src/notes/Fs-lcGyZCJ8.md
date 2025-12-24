@@ -14,7 +14,6 @@ media_books:
 people:
 - Arthur Brooks
 - Oprah Winfrey
-- Johann Sebastian Bach
 - 查理·芒格
 - 王阳明
 products_models: []

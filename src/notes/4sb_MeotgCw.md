@@ -17,13 +17,8 @@ media_books:
 - 美国宪法
 people:
 - 严复
-- 蒙德斯鸠
 - John Stuart Mill
-- Henry Thoreau
-- 李治
-- 韩愈
 - 王安石
-- 朱熹
 products_models: '[]'
 project:
 - china-analysis

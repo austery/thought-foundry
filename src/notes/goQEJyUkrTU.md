@@ -9,9 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 拉里·埃里森
-- 山姆·奥特曼
 products_models:
 - GPT-4
 - 星际之门

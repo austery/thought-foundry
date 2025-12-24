@@ -19,11 +19,8 @@ media_books:
 - 《原罪与正义》
 - Substack
 people:
-- Tim O'Reilly
 - Barack Obama
-- Sarah Palin
 - Isaac Newton
-- Augustine of Hippo
 - George H.W. Bush
 products_models:
 - Honda Civic

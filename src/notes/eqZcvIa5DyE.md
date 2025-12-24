@@ -19,21 +19,13 @@ media_books:
 - 《中华人民共和国宪法》
 people:
 - 孙中山
-- 王国维
 - 周恩来
-- 董必武
 - 叶剑英
-- 吴玉章
-- 王若飞
-- 陆定一
-- 邓颖超
 - 蒋介石
 - 卡尔·马克思
 - 牛顿
 - 爱因斯坦
 - 希特勒
-- 太宰治
-- 谏山创
 products_models: []
 project:
 - china-analysis

@@ -18,8 +18,6 @@ media_books:
 people:
 - Jill Weisenthal
 - Tracy Alloway
-- Josh Norm
-- Bob Ellis
 - Chris Wright
 - Kerman Rodriguez
 - Dashel Bennett

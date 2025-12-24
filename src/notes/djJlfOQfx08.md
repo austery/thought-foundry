@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Kevin Feng
 products_models: []
 project:
 - career-development

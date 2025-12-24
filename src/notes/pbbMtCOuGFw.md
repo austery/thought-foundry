@@ -11,10 +11,7 @@ media_books:
 - 《费曼物理学讲义》
 - 《庄子》
 people:
-- Democritus
 - Richard Feynman
-- Anaxagoras
-- Epicurus
 - Isaac Newton
 - Pierre-Simon Laplace
 - Pythagoras

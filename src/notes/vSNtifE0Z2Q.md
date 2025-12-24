@@ -12,7 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Jim
-- Santo
 products_models:
 - Curiosity rover
 - Apollo Lunar Roving Vehicle

@@ -13,7 +13,6 @@ media_books:
 people:
 - Max Weber
 - Samuel Huntington
-- Greg Critser
 products_models: []
 project:
 - us-analysis

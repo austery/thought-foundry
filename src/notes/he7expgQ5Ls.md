@@ -1,14 +1,14 @@
 ---
 area: tech-engineering
 category: ai-ml
+companies:
+- google-kodak-moment
 companies_orgs: []
 date: '2025-09-08'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- benedict-evans
 products_models: []
 project:
 - ai-impact-analysis
@@ -21,8 +21,6 @@ tags:
 - industry
 - platform
 title: AI的本质：一场平台转移，而非革命或末日——兼论谷歌的“柯达时刻”
-companies:
-- google-kodak-moment
 ---
 
 ### 引言：重新审视AI的本质

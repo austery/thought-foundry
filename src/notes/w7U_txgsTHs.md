@@ -21,10 +21,8 @@ media_books:
 - History of the World
 - History of Modern Britain
 people:
-- Tufan Erginbilgiç
 - Nicola Tangan
 - Bill Gates
-- Andra Mar
 products_models:
 - Ultrafan
 - B52

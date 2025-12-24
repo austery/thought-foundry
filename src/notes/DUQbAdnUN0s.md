@@ -9,9 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 邓雯心医师
-- Dr. Donald Layman
 products_models: []
 project:
 - personal-growth-lab

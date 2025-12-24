@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 許翱麟
 - 宋晏仁
-- Bryan Johnson
 products_models: []
 project: []
 series: ''

@@ -20,7 +20,6 @@ people:
 - Jerome Powell
 - 高市早苗
 - 老马
-- 金刚
 products_models: []
 project:
 - us-analysis

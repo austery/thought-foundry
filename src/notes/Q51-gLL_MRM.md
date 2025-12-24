@@ -12,7 +12,6 @@ layout: post.njk
 people:
 - Derek
 - Petr
-- Japanese Scientist
 products_models:
 - Snatoms
 project:

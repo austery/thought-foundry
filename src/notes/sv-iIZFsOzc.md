@@ -23,7 +23,6 @@ media_books:
 - Orality and Literacy
 - Verzara
 people:
-- Kelly Grieco
 - Vladimir Putin
 - Kim Jong-un
 - Mao

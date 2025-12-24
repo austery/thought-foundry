@@ -25,11 +25,7 @@ media_books:
 - 《经济学季刊》
 - 《如何和AI协作的这本书》
 people:
-- Aidan Toner Rogers
 - Daron Acemoglu
-- David Autor
-- Charles Elkan
-- Robert Palgrave
 - Ethan Mollick
 - Tyler Cowen
 products_models: []

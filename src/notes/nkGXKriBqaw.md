@@ -15,12 +15,6 @@ layout: post.njk
 media_books:
 - 《独自等待》
 - 《为什么长大》
-people:
-- 詹涵淇
-- 阿毛
-- 世俊
-- 小迪
-- 鼓楼熊
 products_models: []
 project:
 - historical-insights

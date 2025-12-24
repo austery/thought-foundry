@@ -1,34 +1,30 @@
 ---
-title: Jeff on Building Chroma - From Open-Source Vector DB to Context Engineering
-summary: Chroma founder Jeff discusses the journey of building an open-source vector
-  database, the importance of developer experience, and the emerging discipline of
-  context engineering to make AI applications more like engineering and less like
-  alchemy.
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-tags:
-- ai-application
-- code
-- developer-experience
-people:
-- Alessio
-- Swyx
-- Jeff
-companies_orgs: []
-products_models:
-- chroma
-date: 2025-08-27
 author: Lei
-speaker: ''
+category: technology
+companies_orgs: []
+date: 2025-08-27
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+products_models:
+- chroma
+project:
+- ai-impact-analysis
 series: null
 source: null
+speaker: ''
 status: evergreen
+summary: Chroma founder Jeff discusses the journey of building an open-source vector
+  database, the importance of developer experience, and the emerging discipline of
+  context engineering to make AI applications more like engineering and less like
+  alchemy.
+tags:
+- ai-application
+- code
+- developer-experience
+title: Jeff on Building Chroma - From Open-Source Vector DB to Context Engineering
 ---
 
 ## Introduction and Chroma's Origin

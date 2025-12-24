@@ -14,9 +14,7 @@ media_books:
 - 《HENLEY PRIVATE WEALTH MIGRATION REPORT 2023》
 - 《经济学人》
 people:
-- 老贾
 - 老马
-- 老魏
 - Xi Jinping
 products_models:
 - 人教版教材

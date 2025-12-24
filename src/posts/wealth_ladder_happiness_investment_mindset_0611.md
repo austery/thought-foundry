@@ -20,18 +20,11 @@ media_books:
 - All-In Podcast
 people:
 - Vivi
-- Lu Yao
-- Carmen
-- Peng Lei
-- Su Ge
-- A Lian
-- Match
 - Rui
 - Elon Musk
 - Donald Trump
 - Kamala Harris
 - Bill Gates
-- James Simons
 - Michelangelo
 products_models:
 - S&P 500

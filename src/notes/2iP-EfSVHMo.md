@@ -23,17 +23,7 @@ people:
 - Terry Rozier
 - Chauncey Billups
 - Damon Jones
-- Jontay Porter
-- Malik Beasley
-- Tim Donaghy
-- David Stern
-- Jack Molinas
-- Vlade Divac
-- Mike Bibby
-- Kobe Bryant
 - Shaquille O'Neal
-- Dirk Nowitzki
-- Dwyane Wade
 products_models: []
 project:
 - historical-insights

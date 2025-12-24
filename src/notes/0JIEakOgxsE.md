@@ -23,12 +23,6 @@ media_books:
 - 《法国世界报》
 - 《华尔街日报》
 - 《星期日周报》
-people:
-- Nicolas Puech
-- Bernard Arnault
-- Eric Freymond
-- Jean-Louis Dumas
-- Henri-Louis Bauer
 products_models:
 - Kelly bag
 - Birkin bag

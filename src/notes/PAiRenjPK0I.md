@@ -12,16 +12,8 @@ media_books:
 - The Courage to Be Disliked
 people:
 - Wang Yangming
-- Zeng Guofan
 - Mao Zedong
-- Liu Jin
-- Tang Bohu
-- Togo Heihachiro
-- Saigo Takamori
-- Nakae Fujiki
 - Ichiro Kishimi
-- Li Zicheng
-- Zhang Xianzhong
 - Zhu Yuanzhang
 products_models: []
 project:

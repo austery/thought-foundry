@@ -8,10 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Claudia Passos Ferreira
-- Ghislaine Dehaene
-- Lorina Naci
 products_models: []
 project:
 - systems-thinking

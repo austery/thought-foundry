@@ -24,8 +24,6 @@ media_books:
 people:
 - Joe Wisenthal
 - Tracy Alloway
-- Joel Worerheimer
-- Danny Wiltown
 - Ben Thompson
 products_models:
 - GPT-3 Pro

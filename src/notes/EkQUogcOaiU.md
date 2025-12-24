@@ -26,12 +26,6 @@ media_books:
 - FT
 people:
 - Elon Musk
-- Andrew Dudfield
-- Larry Sanger
-- Emily Bender
-- John Burn-Murdock
-- Michael D’Angelo
-- Pliny the Elder
 - George Floyd
 - Donald Trump
 products_models:

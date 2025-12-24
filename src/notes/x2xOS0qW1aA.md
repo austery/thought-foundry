@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - new-york-times-podcasts
-people:
-- zohran-mamdani
 products_models: []
 project: []
 series: ''

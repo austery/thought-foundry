@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Last Economy
-people:
-- 松本哉
 products_models: []
 project:
 - geopolitics-watch

@@ -18,17 +18,8 @@ people:
 - Joe Biden
 - Donald Trump
 - Hunter Biden
-- James Biden
 - Kamala Harris
 - Barack Obama
-- Anita Dunn
-- Mike Donilon
-- Jen O'Malley Dillon
-- Bob Bauer
-- Abbe Lowell
-- Paul Ryan
-- Jack Kennedy
-- Robert Hur
 products_models: []
 project:
 - us-analysis

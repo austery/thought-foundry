@@ -115,28 +115,17 @@ media_books:
 - How I Met Your Mother
 people:
 - Mandani
-- Cuomo
-- Silva
 - Donald Trump
 - Bill Ackman
-- Steve Liesman
 - Larry Ellison
 - Vladimir Putin
-- Caroline Leavitt
-- Scott Besson
 - Tom Lee
 - Michael Burry
 - Julian Emanuel
 - Vlad Tenev
-- Sawyer Merritt
-- Jason DeBolt
 - Elon Musk
-- Rick Santelli
-- David Faber
-- David Rosenberg
 - Alex Karp
 - Carl Icahn
-- Neil Patrick Harris
 products_models:
 - Ethereum
 - Bitcoin

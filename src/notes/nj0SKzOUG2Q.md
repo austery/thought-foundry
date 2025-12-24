@@ -11,7 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 许芷瑜
 - 宋晏仁
 products_models:
 - 211餐盤

@@ -1,6 +1,8 @@
 ---
 area: market-analysis
 category: business
+companies:
+- ai-in-pharma
 companies_orgs:
 - Eli Lilly
 - Norges Bank Investment Management
@@ -16,9 +18,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- David Ricks
 - Nicola Tangen
-- Dan Gansy
 - Satya Nadella
 - Shantanu Narayen
 products_models:
@@ -44,8 +44,6 @@ tags:
 - market
 - pharmaceutical-innovation
 title: 礼来CEO David Ricks谈GLP-1药物、AI赋能与全球医药创新
-companies:
-- ai-in-pharma
 ---
 
 ### 礼来引领减重药物革命

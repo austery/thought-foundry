@@ -20,11 +20,6 @@ media_books:
 - Good to Great
 - Great by Choice
 - The Wall Street Transcript
-people:
-- Morten T. Hansen
-- Lou Gerstner
-- Howard Putnam
-- Roald Amundsen
 products_models: []
 project:
 - investment-strategy

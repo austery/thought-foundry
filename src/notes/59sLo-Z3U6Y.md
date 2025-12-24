@@ -38,11 +38,8 @@ people:
 - Xi Jinping
 - Howard Lutnick
 - Marco Rubio
-- Glenn Youngkin
-- Terry Lynch
 - Narendra Modi
 - Li Qiang
-- 罗伊夫
 - Vladimir Putin
 products_models:
 - F-35

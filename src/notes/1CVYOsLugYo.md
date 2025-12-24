@@ -39,8 +39,6 @@ people:
 - David Sacks
 - Tom Lee
 - Vlad Tenev
-- Jose Najarro
-- Steven Fiorillo
 - Gavin Newsom
 - Joe Rogan
 - Tim Cook

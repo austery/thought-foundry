@@ -14,8 +14,6 @@ layout: post.njk
 media_books:
 - Responsible Investment report
 - sharpened climate change expectations
-people:
-- Mille
 products_models: []
 project:
 - investment-strategy

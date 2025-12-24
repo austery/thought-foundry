@@ -14,12 +14,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Garrett Langley
 - Ben Horowitz
-- Dr. Dre
-- Shaka Senghor
-- Rodney King
-- Tupac Shakur
 products_models:
 - Cybertruck
 - Nova

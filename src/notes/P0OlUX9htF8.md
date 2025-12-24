@@ -29,13 +29,9 @@ media_books:
 - The Daily
 people:
 - Donald Trump
-- Matathi Schwarz
 - JD Vance
 - Benjamin Netanyahu
 - Shawn Duffy
-- George Smoot
-- Steven Hawking
-- Nicole Hannah-Jones
 products_models: []
 project:
 - us-analysis

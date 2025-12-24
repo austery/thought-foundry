@@ -14,13 +14,6 @@ media_books:
 - 《野兽正义：动物的道德生活》
 - 《说苑》
 - 《强互惠的演化》
-people:
-- 乔尔范伯格
-- 贝科夫
-- 皮尔斯
-- 赫伯特金蒂斯
-- 萨米尔鲍勒斯
-- 刘向
 products_models: []
 project:
 - china-analysis

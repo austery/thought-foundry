@@ -17,7 +17,6 @@ media_books:
 people:
 - Nico
 - Donald Trump
-- Lutnick
 - Elon Musk
 - Jensen Huang
 products_models:

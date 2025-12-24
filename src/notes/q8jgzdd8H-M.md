@@ -25,12 +25,9 @@ media_books:
 - 《华尔街日报》
 people:
 - 王家卫
-- 谷二
-- 秦文
 - Jeffrey Epstein
 - Donald Trump
 - Larry Summers
-- 金克宇
 - Steve Bannon
 - Pam Bondi
 - Mike Johnson
@@ -42,7 +39,6 @@ people:
 - Vladimir Putin
 - 拜登
 - 奥巴马
-- 贺锦丽
 products_models:
 - Jmail
 - ChatGPT

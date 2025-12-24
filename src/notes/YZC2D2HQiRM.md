@@ -11,10 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《小欢喜》
-people:
-- 刘云杉
-- 陈省身
-- 钱颖一
 products_models: []
 project:
 - us-analysis

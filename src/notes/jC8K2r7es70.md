@@ -17,9 +17,6 @@ media_books:
 - The Great Canadian Bake Show
 - Listing Large
 - Gilmore Girls
-people:
-- Kathy James
-- Sarah Cresell
 products_models: []
 project:
 - cultural-critique

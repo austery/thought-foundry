@@ -21,13 +21,8 @@ people:
 - Donald Trump
 - Lisa Cook
 - Jerome Powell
-- Lev Menand
 - Adam Posen
-- Gwyn Wilcox
-- Bedoya
 - Alexander Hamilton
-- Chuck Prince
-- Corolla Binder
 products_models:
 - The Fed Unbound
 project:

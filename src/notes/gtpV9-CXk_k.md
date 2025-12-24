@@ -16,10 +16,7 @@ media_books:
 - 《哈佛女孩刘亦婷》
 people:
 - 张内咸
-- 刘亦婷
 - 努尔哈赤
-- Iris
-- Siri
 products_models:
 - iPhone
 project:

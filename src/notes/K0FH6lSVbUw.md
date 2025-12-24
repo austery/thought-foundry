@@ -18,8 +18,6 @@ media_books:
 - 《告臺灣同胞書》
 people:
 - 郑丽文
-- 普丁
-- Zelensky
 - 高市早苗
 - 岸田文雄
 - 薛剑

@@ -8,9 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- richard-hamming
-- sam-altman
 products_models: []
 project:
 - personal-growth-lab

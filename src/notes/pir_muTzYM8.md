@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- Miguel
 products_models:
 - Brilliant
 project:

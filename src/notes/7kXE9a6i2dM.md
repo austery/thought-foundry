@@ -12,7 +12,6 @@ layout: post.njk
 media_books:
 - ai-video-creation
 people:
-- Matan Cohen Grumi
 - Jesse
 products_models: []
 project:

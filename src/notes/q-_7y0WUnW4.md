@@ -11,9 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- Craig
-- Paul Stanley
-- Andrew Linn
 products_models: []
 project:
 - systems-thinking

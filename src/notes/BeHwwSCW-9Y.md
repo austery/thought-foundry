@@ -48,14 +48,8 @@ people:
 - 高市早苗
 - Donald Trump
 - Vladimir Putin
-- 安德烈·耶尔马克
-- 执令司机
-- 切尔尼·绍夫
-- 明蒂奇
-- 埃德罗
 - 卢比奥
 - 王毅
-- 吴星博
 products_models:
 - TikTok
 project:

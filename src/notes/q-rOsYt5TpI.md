@@ -21,13 +21,9 @@ media_books:
 people:
 - 袁世凯
 - 郑爽
-- 蔡澜
 - 金庸
-- 倪匡
-- 黄霑
 - 李宗盛
 - 张雪峰
-- 唐伯虎
 products_models:
 - NFT数字藏品
 - X

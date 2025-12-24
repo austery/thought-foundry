@@ -15,14 +15,8 @@ media_books:
 - 《妻妾成群》
 people:
 - 张内咸
-- 马丁·路德
 - 冯小刚
 - 高晓松
-- 菲利普·珀蒂
-- 温子仁
-- 史蒂夫·乔布斯
-- 巩俐
-- 商鞅
 products_models:
 - Dead Silence
 - Insidious

@@ -16,21 +16,11 @@ media_books:
 - Rolling Stone
 people:
 - Donald Trump
-- Zorah Mamdani
 - Bernie Sanders
 - Kamala Harris
 - Hillary Clinton
-- Mike Sherry
-- Spanberger
-- Elva Sears
 - Elon Musk
 - 刘宗坤
-- 卢秀燕
-- 小池百合子
-- Chomsky
-- Roger Waters
-- Hasan Piker
-- Berry Goldwater
 products_models:
 - Obamacare
 - Proposition 50

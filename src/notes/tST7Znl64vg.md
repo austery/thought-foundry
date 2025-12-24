@@ -18,21 +18,8 @@ media_books:
 - 《Redstockings宣言》
 - 《房思琪的初恋乐园》
 people:
-- Luis Fitzgerald
-- 彭仁郁
-- Kevin Spacey
-- Geoffrey Rush
 - Harvey Weinstein
-- Louis CK
-- Marinda Fricker
-- Kate Manne
-- Catherine Mackinnon
-- Primo Levi
-- Brock Turner
 - Simone de Beauvoir
-- Bell Hooks
-- Justin Baldoni
-- Mary Wollstonecraft
 products_models: []
 project:
 - cultural-critique

@@ -16,14 +16,7 @@ media_books:
 - De Nive Quinquangula
 people:
 - Johannes Kepler
-- Hao Wang
-- Robert Burger
-- Donald Knuth
-- Raphael Robinson
 - Roger Penrose
-- Paul Steinhardt
-- Dan Shechtman
-- Linus Pauling
 products_models: []
 project:
 - historical-insights

@@ -21,12 +21,9 @@ media_books:
 - 《创造亚当》
 people:
 - Demis Hassabis
-- Peter Molyneux
 - Shane Legg
 - Mustafa Suleyman
 - Lee Sedol
-- John Moult
-- Paul Nurse
 - John Jumper
 - J. Robert Oppenheimer
 - Stuart Russell

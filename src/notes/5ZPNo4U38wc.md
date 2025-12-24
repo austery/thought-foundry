@@ -23,11 +23,6 @@ media_books:
 people:
 - 户晨风
 - Xi Jinping
-- 夏何
-- 陈平
-- 华佗
-- 雷程刚
-- 李洪志
 products_models:
 - OPPO A9
 - 特斯拉

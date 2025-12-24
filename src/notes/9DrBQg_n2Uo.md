@@ -10,8 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Pound
-- Rebka
 - Einstein
 products_models:
 - Salesforce Essentials

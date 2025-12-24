@@ -20,9 +20,7 @@ media_books:
 - 华尔街日报
 - 经济学人
 people:
-- Ernest Hemingway
 - 易富贤
-- 黄鹤
 - 毛泽东
 products_models: []
 project:

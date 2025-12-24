@@ -6,9 +6,6 @@ date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
-people:
-- 厄尔凡德·阿布拉哈米安
-- 摩萨德格
 products_models: []
 project:
 - historical-insights

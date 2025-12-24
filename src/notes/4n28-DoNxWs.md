@@ -35,18 +35,12 @@ media_books:
 - The Hard Thing About Hard Things
 - Crossing the Chasm
 people:
-- Godard Abel
-- Chris Schutz
-- John Scully
-- Farzad Debbachi
 - Larry Ellison
 - Steve Jobs
 - Ben Horowitz
 - Tim
 - Matt
-- Kevin Efy
 - Mark Zuckerberg
-- Jeffrey Moore
 products_models:
 - 3D printing
 - CD-ROMs

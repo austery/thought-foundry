@@ -20,9 +20,7 @@ media_books:
 - 60 Minutes
 people:
 - Natalie Kitroof
-- Karen Weise
 - Jeff Bezos
-- Andy Jasse
 - Donald Trump
 - Vladimir Putin
 - Xi Jinping

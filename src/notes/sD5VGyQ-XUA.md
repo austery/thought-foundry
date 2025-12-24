@@ -10,10 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- James Hector
-- Alexander McKinnon Burgess
-- George Stephen
 products_models: []
 project:
 - historical-insights

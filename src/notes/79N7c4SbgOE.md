@@ -45,12 +45,7 @@ people:
 - Jensen Huang
 - Sam Altman
 - Mark Zuckerberg
-- Li Xi
-- Ma Xingrui
-- Marcelo Ebrard
 - Nick Timiraos
-- Michael B. Stankard
-- Zeng Cailin
 products_models: []
 project:
 - us-analysis

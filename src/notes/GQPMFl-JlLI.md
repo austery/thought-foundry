@@ -12,8 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- John Stankey
-- Alexander Graham Bell
 - Abraham Lincoln
 products_models:
 - SIM card

@@ -19,17 +19,9 @@ media_books:
 - Made to Stick
 - Planes, Trains and Automobiles
 people:
-- Andy Craig
 - Nicola Tangan
-- Steve Martin
 - John Candy
 - Richard Feynman
-- Susan Weinschenk
-- Chip Heath
-- Dan Heath
-- Julie Sweet
-- Eric Gershwin
-- Jake Gershwin
 products_models:
 - PowerPoint
 project:

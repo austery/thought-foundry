@@ -10,9 +10,6 @@ layout: post.njk
 media_books:
 - 《春晖》
 - 《我的理想》
-people:
-- 阮筠庭
-- 三毛
 products_models: []
 project:
 - cultural-critique

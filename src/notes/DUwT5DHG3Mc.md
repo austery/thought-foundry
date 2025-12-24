@@ -25,19 +25,9 @@ people:
 - 李克强
 - 秦晖
 - Donald Trump
-- 张廷发
-- 毛远新
 - 胡锡进
-- Martin Wolf
 - Barack Obama
 - 赵长鹏
-- JT
-- Christian Richt
-- Alex Bruh
-- Rom Cow
-- How Lee
-- SW
-- Antomic Power Promptry
 products_models:
 - P-2空对空导弹
 - 大型语言模型AI

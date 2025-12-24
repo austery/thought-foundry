@@ -20,13 +20,8 @@ media_books:
 people:
 - Warren Buffett
 - Charlie Munger
-- Eugene Fama
-- Kenneth French
-- Li Lu
 - Bill Ackman
 - Bill Gates
-- Joe Mansueto
-- Ted Seides
 - Jack Bogle
 products_models:
 - S&P 500

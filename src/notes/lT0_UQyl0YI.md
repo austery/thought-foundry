@@ -13,8 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Christina
 products_models:
 - Pixel phones
 - GPT

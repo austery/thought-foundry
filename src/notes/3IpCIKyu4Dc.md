@@ -21,8 +21,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《东京女子图鉴》
-people:
-- 女主角绫
 products_models: []
 project:
 - cultural-critique

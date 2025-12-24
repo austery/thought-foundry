@@ -25,19 +25,13 @@ media_books:
 people:
 - Donald Trump
 - Kevin Hassett
-- Mitt Romney
-- John McCain
 - Ben Bernanke
 - Janet Yellen
-- Secretary Basson
-- Beth Hammack
-- Lorie Logan
 - Lisa Cook
 - Javier Milei
 - Nicolas Maduro
 - Elon Musk
 - Jensen Huang
-- Jeb Bush
 - George H.W. Bush
 - George W. Bush
 - Bill Clinton

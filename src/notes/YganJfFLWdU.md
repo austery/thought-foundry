@@ -21,7 +21,6 @@ layout: post.njk
 media_books:
 - 《Odd Lots》
 people:
-- Rikard Bandebo
 - Joe Weisenthal
 - Tracy Alloway
 products_models:

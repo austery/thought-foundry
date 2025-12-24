@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《南京照相馆》
-people:
-- 周树人
 products_models: []
 project:
 - china-analysis

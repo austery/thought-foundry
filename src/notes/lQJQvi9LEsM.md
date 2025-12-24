@@ -12,11 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《渔夫和金鱼》
-people:
-- 赵冬梅
-- 佟浩然
-- 泱泱
-- 老吴
 products_models: []
 project:
 - historical-insights

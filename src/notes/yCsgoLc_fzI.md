@@ -12,16 +12,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- Alex Kusenko
-- Neil deGrasse Tyson
-- Bill Nye
 - Sean Carroll
-- Alice Zhang
-- Andrew Bauer
-- Apolo Smith
-- Rick Cavallaro
-- Xyla Foxlin
-- Mark Drela
 products_models:
 - Blackbird
 project:

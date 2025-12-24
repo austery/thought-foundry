@@ -15,25 +15,13 @@ media_books:
 - 《新中国的十字经济危机》
 - 《世界的三次冷战》
 people:
-- Jimmy
-- 小白
-- Ronny Joy Seedorf
-- 凯文
-- 小粉红东风
-- 清空
-- 大川
 - Donald Trump
 - Joe Biden
 - Vladimir Putin
-- Victoria Nuland
-- 王梦元
-- 岡田克也
 - 高市早苗
 - 萨达姆
-- 穆阿迈尔·卡扎菲
 - 乔治·W·布什
 - 希拉里·克林顿
-- 温铁军
 - 巴拉克·奥巴马
 products_models: []
 project:

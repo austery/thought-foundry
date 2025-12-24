@@ -11,12 +11,8 @@ media_books:
 - 《尼各马可伦理学》
 people:
 - Aristotle
-- Heisenberg
-- Csikszentmihalyi
 - Plato
-- Callicles
 - Socrates
-- Derrida
 products_models: []
 project:
 - systems-thinking

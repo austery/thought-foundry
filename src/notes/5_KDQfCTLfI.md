@@ -68,7 +68,6 @@ people:
 - Chris Patel
 - Steve
 - Stanley Druckenmiller
-- Tristan Grusa
 - Colette Kress
 - Marco Rubio
 - Alex Karp

@@ -23,7 +23,6 @@ media_books:
 - 《The Information Bottleneck》
 people:
 - Yann LeCun
-- Alex Wang
 products_models:
 - JEPA (Joint Embedding Predictive Architecture)
 - Barlow Twins

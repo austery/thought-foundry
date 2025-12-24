@@ -12,7 +12,6 @@ media_books:
 - Jingji
 - Vinaya Pitaka
 people:
-- Kusanagi Ryushun
 - Buddha
 products_models: []
 project:

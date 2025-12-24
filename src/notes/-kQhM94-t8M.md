@@ -13,10 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Governor Waller
-- Fed President Williams
-- Tekkashi
 products_models:
 - Grock
 project:

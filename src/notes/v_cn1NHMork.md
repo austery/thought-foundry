@@ -11,7 +11,6 @@ media_books:
 - 《一生之敌》
 - 《圣经》
 people:
-- Steven Pressfield
 - Carl Jung
 - Jesus
 - Hegel

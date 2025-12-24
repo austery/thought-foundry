@@ -18,9 +18,6 @@ media_books:
 - omnichannel-retail
 people:
 - Nicola Tangen
-- Jesper Brodin
-- Ingvar Kamprad
-- Gilis Lung
 products_models:
 - Levette
 - Billy

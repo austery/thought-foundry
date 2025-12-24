@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- arms-race
 companies_orgs:
 - Cambridge University
 - University of Göttingen
@@ -24,42 +26,19 @@ media_books:
 - Oppenheimer
 people:
 - J. Robert Oppenheimer
-- Patrick Blackett
-- JJ Thompson
-- Rutherford
-- Chadwick
 - Max Born
 - Werner Heisenberg
 - Wolfgang Pauli
 - Enrico Fermi
-- Eugene Wigner
 - Paul Dirac
 - John Von Neumann
-- Frank Oppenheimer
-- Henri Becquerel
 - Marie Curie
-- Pierre Curie
 - Ernest Rutherford
 - Albert Einstein
-- John Cockcroft
-- Ernest Walton
 - Leo Szilard
-- Louise Alvarez
 - Otto Hahn
-- Fritz Strassmann
 - Franklin Roosevelt
-- Willis Lamb
-- Murray Gell-Mann
-- Isidor Rabi
-- General Leslie Groves
-- Catherine Oppenheimer
-- Arthur Compton
-- Truman
-- Churchill
 - Stalin
-- Gene Tatlock
-- Heinar Kipphardt
-- Thomas Midgley
 products_models:
 - Atomic bomb
 - Hydrogen bomb
@@ -82,8 +61,6 @@ tags:
 - ethics
 - nuclear
 title: 奥本海默：原子弹之父与世界的毁灭者
-companies:
-- arms-race
 ---
 
 ### 奥本海默：改变世界的物理学家

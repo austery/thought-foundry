@@ -21,23 +21,15 @@ media_books:
 - How to Make Your Old Computer Feel New Again
 - The Wire Cutter Show
 people:
-- Christine Sierette
 - Kyra Blackwell
 - Rosie Garin
-- Kimber Streams
-- John Hodgman
 - Steve Jobs
-- Abigail Keel
 - Mattie Maziello
 - Nick Pitman
-- Catherine Anderson
 - Dan Powell
 - Marian Lozano
-- Alicia Eup
-- Rowan Nisto
 - Diane Wong
 - Cliff Levy
-- Ben Fman
 products_models:
 - MacBook Air
 - M4 MacBook Air

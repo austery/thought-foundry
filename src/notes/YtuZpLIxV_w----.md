@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- song-jiaoren
 products_models: []
 project:
 - historical-insights

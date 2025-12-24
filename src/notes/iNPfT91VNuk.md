@@ -126,22 +126,7 @@ media_books:
 - Ron Burgundy
 people:
 - Jerome Powell
-- Neil Irwin
 - Tom Lee
-- Jeffrey Gunlach
-- Howard Schneider
-- Kobe Smith
-- Nick Timos
-- Edward Lawrence
-- Claire Jones
-- Michael McKe
-- Christine Romans
-- Victoria Aguido
-- Elizabeth Schelsey
-- Chris Rabber
-- Matt Eaggan
-- Mark Hamick
-- Julia Bon
 - Donald Trump
 - Elon Musk
 - Jeff Bezos
@@ -152,12 +137,8 @@ people:
 - Demis Hassabis
 - Kevin Warsh
 - Larry Ellison
-- Doug (Oracle CFO)
-- Clay (Oracle Exec)
-- Mike (Oracle Exec)
 - Shantanu Narayen
 - Lisa Su
-- Fay-Fei Li
 products_models:
 - Gemini Flash
 - S&P 500

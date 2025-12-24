@@ -14,13 +14,9 @@ layout: post.njk
 media_books:
 - FT
 people:
-- Jean Hynes
-- Patrick Healy
 - Greg Jensen
 - Howard Marks
 - Warren Buffett
-- Christian
-- Nick Humph
 products_models: []
 project:
 - investment-strategy

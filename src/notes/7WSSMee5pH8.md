@@ -6,8 +6,6 @@ date: '2025-12-22'
 draft: true
 guest: ''
 layout: post.njk
-people:
-- Anne-Laure Le Cunff
 products_models: []
 project:
 - pkm-research

@@ -10,9 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Last Economy
-people:
-- Martin Harrysson
-- Natasha Maniar
 products_models:
 - AI agents
 project:

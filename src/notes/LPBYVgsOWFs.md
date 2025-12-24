@@ -41,9 +41,7 @@ media_books:
 - Bloomberg
 - TBPN
 people:
-- Tanner Roy
 - Vlad Tenev
-- Jason Warnick
 - Jeff Bezos
 - Elon Musk
 - Anthony Noto
@@ -52,8 +50,6 @@ people:
 - Satya Nadella
 - Sam Altman
 - Jensen Huang
-- Johnny Depp
-- Devin Ryan
 - Masayoshi Son
 - Anthony Tan
 products_models: []

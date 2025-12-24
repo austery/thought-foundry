@@ -22,8 +22,6 @@ media_books:
 people:
 - 黎智英
 - 李鹏
-- Tim Owen
-- 王婉裕
 products_models: []
 project:
 - china-analysis

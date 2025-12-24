@@ -28,9 +28,6 @@ media_books:
 - Lots More
 - Bloomberg Opinion
 people:
-- Connor S.
-- Lee Everett
-- Austin Goulsby
 - Jamie Diamond
 - Sam Altman
 - Ron DeSantis

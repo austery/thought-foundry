@@ -19,8 +19,6 @@ people:
 - Al Gore
 - Kristin Halvorsen
 - Donald Trump
-- Cristalina Georgieva
-- President Lula
 products_models: []
 project:
 - geopolitics-watch

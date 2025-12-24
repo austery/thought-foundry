@@ -28,17 +28,14 @@ media_books:
 - 《The Little Book That Still Beats the Market》
 people:
 - 唐石峻
-- Joe Grable
 - Charlie Munger
 - Warren Buffett
 - Mark Zuckerberg
 - Elon Musk
-- Jason Huang
 - Tim Cook
 - Andy Jassy
 - Sundar Pichai
 - Satya Nadella
-- 张勇
 - Jeff Bezos
 - Bill Gates
 products_models:

@@ -17,8 +17,6 @@ media_books:
 - Deep Work
 - Digital Minimalism
 people:
-- Kyle Newport
-- Jared Kaplan
 - Dario Amodei
 - Sam Altman
 - Elon Musk

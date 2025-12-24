@@ -25,16 +25,11 @@ people:
 - Tracy Alloway
 - Eric Adams
 - Derek Thompson
-- Randy Mastro
 - Andrew Cuomo
-- Zoran Mdani
 - Cash Patel
 - Donald Trump
 - Joe Biden
 - Kamala Harris
-- Carl McCall
-- Charlie King
-- David Patterson
 - Jeffrey Epstein
 products_models: []
 project:

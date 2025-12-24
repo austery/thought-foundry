@@ -33,11 +33,8 @@ media_books:
 people:
 - Lee Jae-myung
 - Donald Trump
-- Yoon Suk-yeol
 - Sanae Takaichi
 - Xi Jinping
-- Bill Gurley
-- Hu An'yan
 products_models:
 - Zhipu AI
 - Deep Seek

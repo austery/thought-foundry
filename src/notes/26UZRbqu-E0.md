@@ -15,12 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 'No I in Team: Party Loyalty in Canadian Politics'
-people:
-- Chris D'Entremont
-- Alex Marland
-- Jared J. Wesley
-- Nate Erskine-Smith
-- Bobby Brady
 products_models: []
 project:
 - geopolitics-watch

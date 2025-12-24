@@ -11,11 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Best Partners TV
-people:
-- Nicole Brichtova
-- Hansa Srinivasan
-- Stephanie Zhan
-- Pat Grady
 products_models:
 - Nano Banana
 - Gemini

@@ -20,12 +20,9 @@ layout: post.njk
 media_books:
 - 《WIRED 杂志》
 people:
-- 李友專
 - 宋晏仁
 - Sam Altman
 - John Hopfield
-- 이세돌
-- 柯潔
 - Jensen Huang
 products_models:
 - LaMDA

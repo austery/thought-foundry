@@ -14,11 +14,7 @@ layout: post.njk
 media_books:
 - How to Be a Better Human
 people:
-- Hanif Abdurraqib
-- Sarah Kay
-- Brett
 - Amy
-- Elijah
 - Chris
 products_models: []
 project:

@@ -19,10 +19,6 @@ media_books:
 - 《花花公子》
 - 《美国女孩玩偶目录》
 - Pornhub
-people:
-- Claire Morurell
-- Maryann Wolf
-- Victoria Dunley
 products_models:
 - Gab phone
 - Bark phone

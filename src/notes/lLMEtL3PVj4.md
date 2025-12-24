@@ -15,11 +15,7 @@ media_books:
 - OpenThoughts-3
 - IF-eval
 people:
-- Kevin Lu
 - Mira Murati
-- Ross
-- Lightman
-- Gudibande
 products_models:
 - GPT-5
 - GPT-oss

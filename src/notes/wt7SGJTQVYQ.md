@@ -1,14 +1,14 @@
 ---
 area: market-analysis
 category: finance
+companies:
+- wanda-group
 companies_orgs: []
 date: '2025-10-06'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- wang-jianlin
 products_models: []
 project: []
 series: ''
@@ -21,8 +21,6 @@ tags:
 - political-economy
 - red-top-merchant
 title: 王健林万达帝国的兴衰：权力、资本与红顶商人的困境
-companies:
-- wanda-group
 ---
 
 ### 王健林限高风波的真相

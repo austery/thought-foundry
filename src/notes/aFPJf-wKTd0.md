@@ -14,11 +14,7 @@ layout: post.njk
 media_books:
 - Vox
 people:
-- Chris Barnes
 - Steve
-- Martin Luther
-- Pete Weber
-- LeBron
 products_models:
 - Brunswick LT-48
 - Dark Code

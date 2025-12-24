@@ -21,19 +21,14 @@ media_books:
 people:
 - 户晨风
 - 张雪峰
-- 蓝战非
-- 高志凯
 - 刘慈欣
-- 孙旭培
 - 陈云
 - 吴晗
-- 马连良
 - 周恩来
 - 朱德
 - 胡乔木
 - 毛泽东
 - 王志安
-- 钟美美
 - Donald Trump
 products_models: []
 project:

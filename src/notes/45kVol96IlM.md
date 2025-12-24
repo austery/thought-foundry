@@ -23,12 +23,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Python Documentary
-people:
-- Armin Ronacher
-- Guido van Rossum
-- Peter Steinberger
-- Ron Presler
-- Kell Henderson
 products_models:
 - Python
 - Rust

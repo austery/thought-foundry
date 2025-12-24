@@ -38,11 +38,7 @@ media_books:
 - 金融时报
 - 新闻周刊
 people:
-- 威廉斯
-- 凯尔·卢特尼克
 - 高市早苗
-- 格拉斯
-- 达利奥
 - Donald Trump
 - Xi Jinping
 products_models:

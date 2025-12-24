@@ -17,7 +17,6 @@ layout: post.njk
 media_books:
 - Alltrail
 people:
-- John Cabot
 - Queen Victoria
 - Justin Trudeau
 products_models:

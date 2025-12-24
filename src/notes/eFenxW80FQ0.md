@@ -43,28 +43,14 @@ people:
 - 江泽民
 - 李登辉
 - 陈水扁
-- 野田佳彦
 - 小泉纯一郎
-- 方滨兴
 - 艾未未
 - Nancy Pelosi
-- 苗德顺
 - 尹锡悦
-- 傅国豪
-- 周小平
-- 铁头
-- 兔主席
-- 任仲夷
-- 潘岳
-- 巩俐
 - Xi Jinping
-- 习明泽
 - 王志安
 - 刘晓波
-- 郭敬明
 - 韩寒
-- 李锡光
-- 钱钢
 products_models: []
 project:
 - china-analysis

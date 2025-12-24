@@ -13,8 +13,6 @@ layout: post.njk
 media_books:
 - In Good Company
 people:
-- Andy Ransom
-- Jack Welsh
 - Nikolai
 products_models: []
 project:

@@ -20,7 +20,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Itamar Drechsler
 - Joe Weisenthal
 - Tracy Alloway
 - Jerome Powell

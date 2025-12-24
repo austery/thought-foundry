@@ -13,10 +13,8 @@ layout: post.njk
 media_books:
 - TED
 people:
-- Esther Duflo
 - Warren Buffett
 - Jeff Bezos
-- Neto Setubal
 products_models: []
 project:
 - geopolitics-watch

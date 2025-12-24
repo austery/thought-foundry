@@ -12,7 +12,6 @@ media_books:
 - 《山丘》
 people:
 - 李宗盛
-- Ralph Waldo Emerson
 products_models: '[]'
 project:
 - personal-growth-lab

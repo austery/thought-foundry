@@ -1,27 +1,25 @@
 ---
-title: 特斯拉Robotaxi上线深度解析：它能走出奥斯汀吗？
-summary: null
 area: null
+author: Lei
 category: null
-project: []
-tags:
-- autonomous-driving
-people:
-- 小苏
-- 老修
-- 闲哥
+channel: null
 companies_orgs:
 - 特斯拉
-products_models: []
 date: '2025-07-10'
-author: Lei
-speaker: ''
-channel: null
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 老修
+products_models: []
+project: []
 series: null
 source: https://www.youtube.com/watch?v=S23kV4knddk&t
+speaker: ''
+summary: null
+tags:
+- autonomous-driving
+title: 特斯拉Robotaxi上线深度解析：它能走出奥斯汀吗？
 ---
 
 **小苏:** 我们今天来聊一下特斯拉，特别是其Robotaxi

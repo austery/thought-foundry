@@ -21,12 +21,8 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Larissa Schiavo
-- Josh Wolf
 - Sam Altman
 - Marc Andreessen
-- Blake Lemoine
-- Harry Markopolos
 products_models:
 - Claude
 - ChatGPT

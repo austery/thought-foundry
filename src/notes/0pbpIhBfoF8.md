@@ -33,16 +33,10 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Aloway
-- John Kugan
-- Jordy Hayes
 - Mark Zuckerberg
 - Elon Musk
 - Ilia Sutskever
 - Sam Altman
-- Daniel Gross
-- Meera Murati
-- Nome Shazir
-- Scott Woo
 - Tim Cook
 - LeBron James
 products_models:

@@ -18,8 +18,6 @@ media_books:
 people:
 - Donald Trump
 - Vladimir Putin
-- Rory Stewart
-- Alastair Campbell
 - Volodymyr Zelenskyy
 - Emmanuel Macron
 - Olaf Scholz
@@ -28,9 +26,6 @@ people:
 - JD Vance
 - Garry Kasparov
 - Benjamin Netanyahu
-- Itamar Ben-Gvir
-- Bezalel Smotrich
-- Aharon Haliva
 - Laura Loomer
 products_models: []
 project:

@@ -14,20 +14,11 @@ media_books:
 - 《Dislocating China》
 people:
 - Anthony
-- Eating Melon Master
-- Benedict Anderson
-- Zhang Taiyan
-- Zou Rong
 - Sun Yat-sen
-- Liu Bei
-- Zhuge Liang
-- Shunzhi
-- Kangxi Emperor
 - Zhu Yuanzhang
 - Mao Zedong
 - Lenin
 - Stalin
-- Professor Drew
 products_models: []
 project:
 - china-analysis

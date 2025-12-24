@@ -15,12 +15,7 @@ layout: post.njk
 media_books:
 - In Good Company
 people:
-- Nikolai Hoppen
-- Birgitte
-- Oscar
 - Sam Altman
-- Alexander Stensby
-- Tine Ausvel Jensen
 - Marte
 products_models:
 - Claude

@@ -33,8 +33,6 @@ media_books:
 - 《2024年国际货币基金组织评估报告》
 people:
 - 马云
-- 库兹涅茨
-- 傅鹏
 products_models:
 - iPhone 6
 project:

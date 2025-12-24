@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Andika Putraditama
 products_models:
 - Rimba Collective
 project:

@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《那不勒斯四部曲》
-people:
-- 金子
 products_models: []
 project:
 - us-analysis

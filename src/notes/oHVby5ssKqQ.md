@@ -17,10 +17,6 @@ media_books:
 - 《民法典》
 - 《侵权责任法》
 people:
-- 蒋女士
-- 吴先生
-- 李丽云
-- 肖志军
 - 秦辉
 products_models: []
 project:

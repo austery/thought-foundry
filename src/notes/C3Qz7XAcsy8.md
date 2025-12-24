@@ -18,17 +18,9 @@ media_books:
 people:
 - 张内咸
 - 邓小平
-- 袁腾飞
 - 罗永浩
-- 任志强
-- 五岳散人
 - 薄熙来
-- 王子逸
-- Billi
-- 奥卡菲娜
 - 李安
-- 丹尼尔·曼托瓦尼
-- 谷爱凌
 - 莫言
 products_models: []
 project:

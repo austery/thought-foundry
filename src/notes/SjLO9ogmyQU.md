@@ -11,9 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Isabella Tree
-- Charlie
 products_models: []
 project:
 - systems-thinking

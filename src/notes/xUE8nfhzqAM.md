@@ -19,11 +19,8 @@ media_books:
 - The Rundown
 people:
 - Doug Ford
-- Mike Schreiner
 - Mark Winfield
 - Mark Carney
-- Joanna Kyriazis
-- Addisu
 - Donald Trump
 products_models:
 - Small Modular Reactor

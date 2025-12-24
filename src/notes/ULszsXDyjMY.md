@@ -8,10 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Mark Andrew
-- Stephanie Zayn
-- Olivia Moore
 products_models:
 - GPT-4
 project:

@@ -27,22 +27,7 @@ media_books:
 - Gangnam Style
 - The Edge
 people:
-- Jho Low
-- Britney Spears
 - Leonardo DiCaprio
-- Psy
-- Najib Razak
-- Rosmah Mansor
-- Yousef Al Otaiba
-- Tim Leissner
-- Prince Turki
-- Edward Morse
-- Patrick Mahoney
-- Casey Tang
-- Seet Li Lin
-- Paris Hilton
-- Martin Scorsese
-- Jordan Belfort
 products_models: []
 project:
 - geopolitics-watch

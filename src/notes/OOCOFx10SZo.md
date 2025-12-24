@@ -38,25 +38,11 @@ media_books:
 - Xinhua News Agency
 - 《繁花》
 people:
-- 戴利
-- 卡斯卡里
-- 穆萨琳
-- 波斯蒂克
-- Mohamed El-Erian
-- 戈列尔
 - Donald Trump
 - Xi Jinping
-- 斯文森
 - 高市早苗
-- 松田康博
 - 麻生太郎
 - 王家卫
-- 李爽
-- 陈俊年
-- 林建
-- 南福安
-- 加西亞
-- 贝多尔
 products_models:
 - F-16
 - C-130

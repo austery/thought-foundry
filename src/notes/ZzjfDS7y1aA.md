@@ -18,8 +18,6 @@ media_books:
 - Financial Times
 people:
 - Matt Levine
-- Robin Wigglesworth
-- Ananth Narayan
 products_models:
 - BANKNIFTY
 - S&P 500

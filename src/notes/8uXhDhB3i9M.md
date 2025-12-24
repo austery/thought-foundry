@@ -26,17 +26,13 @@ people:
 - Sanae Takaichi
 - Emmanuel Macron
 - Friedrich Merz
-- Michael Anton
 - Stephen Miller
-- Elbridge Colby
 - Henry Kissinger
-- Charles de Gaulle
 - Ursula von der Leyen
 - 赖清德
 - 郑丽文
 - Marco Rubio
 - J.D. Vance
-- Mike Watts
 products_models: []
 project:
 - us-analysis

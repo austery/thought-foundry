@@ -38,19 +38,11 @@ people:
 - Donald Trump
 - 毛宁
 - Xi Jinping
-- 沈毅
-- 宋江
-- 李奎
-- 王柯
 - 周恩来
 - 蒋介石
-- Fyodor Dostoevsky
-- Mikhail Sholokhov
-- Gordon Chang
 - 武律
 - 贾老师
 - 李厚诚
-- 吴朝柱
 products_models:
 - iPhone
 - THAAD missile

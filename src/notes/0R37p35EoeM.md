@@ -13,7 +13,6 @@ media_books: []
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Eva Dou
 products_models: []
 project:
 - ai-impact-analysis

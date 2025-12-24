@@ -15,10 +15,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Lyn Alden
 - Michael Burry
 - Michael Lewis
-- 中本聪
 products_models:
 - ChatGPT
 - H100

@@ -25,16 +25,9 @@ layout: post.njk
 media_books:
 - 《大空头》
 people:
-- 陈倩
-- 一鸣
-- Ethan Xu
-- Bruce Liu
-- 任洋
-- Ro
 - Michael Burry
 - Sam Altman
 - Jason Furman
-- David Einhorn
 products_models:
 - GPT
 - TPU

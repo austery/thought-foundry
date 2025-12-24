@@ -21,10 +21,6 @@ layout: post.njk
 media_books:
 - Anna Karenina
 - The Green Scorpion
-people:
-- Dr. Nicola Ranger
-- Martin Skuncke
-- Professor S. Vagner
 products_models: []
 project:
 - investment-strategy

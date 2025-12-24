@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - best-partners-tv
-people:
-- fei-fei-li
 products_models: []
 project:
 - ai-impact-analysis

@@ -41,30 +41,15 @@ media_books:
 - When Reason Goes on Holiday
 people:
 - Marc Andreessen
-- Quentin Tarantino
-- Charles Manson
-- Sharon Tate
-- Roman Polanski
 - Leonardo DiCaprio
 - Brad Pitt
-- Jodie Foster
 - Richard Nixon
-- Robert Downey Jr.
-- Ben Stiller
-- Tom Cruise
 - Harvey Weinstein
 - Christopher Nolan
 - J. Robert Oppenheimer
-- Lewis Strauss
 - Albert Einstein
-- Edward Teller
 - Harry Truman
 - Jimmy Kimmel
-- Adam Corolla
-- David Fincher
-- Edward Norton
-- Heath Ledger
-- Daniel Day-Lewis
 products_models: []
 project:
 - us-analysis

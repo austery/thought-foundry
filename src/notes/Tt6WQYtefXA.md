@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: technology
+companies:
+- steel-metallurgy
 companies_orgs:
 - Victoria Albert Museum
 - Henson Shaving
@@ -9,10 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Miyamoto Musashi
-- Akihara Kokaji
-- Takara Takanashi
 products_models:
 - Katana
 - AL-13 razor
@@ -29,8 +27,6 @@ tags:
 - geopolitical
 - technology
 title: 日本刀的诞生：从沙土到传奇武士刀的千年工艺
-companies:
-- steel-metallurgy
 ---
 
 ### 日本刀的传奇与制作之旅

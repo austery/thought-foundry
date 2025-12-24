@@ -15,17 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Physical Review
-people:
-- Fermi
-- Feynman
-- Oppenheimer
-- Von Neumann
-- Julian Webb
-- Stafford Warren
-- Colonel Holzman
-- Tom Harkin
-- Travis Fimmel
-- Winter McGrath
 products_models:
 - Raised by Wolves
 project:

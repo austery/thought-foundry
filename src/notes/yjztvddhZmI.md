@@ -13,8 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek
-- Steve Mann
-- Beulah
 products_models:
 - Firefly
 - Asiana Airlines flight 214

@@ -11,10 +11,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 黄子秦
 - 魏士航医师
 - 宋晏仁医师
-- 孟环
 products_models:
 - 排糖药
 - 肠泌素

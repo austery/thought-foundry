@@ -20,13 +20,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Nick Holonyak
-- Shūji Nakamura
-- Nobuo Ogawa
-- Eji Ogawa
-- Herbert Maruska
-- Isamu Akasaki
-- Hiroshi Amano
 - Derek Muller
 products_models:
 - Blue LED

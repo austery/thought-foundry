@@ -1,39 +1,37 @@
 ---
-title: 从Context Engineering 到无限制创作,Vibe Coding的社区0725
-summary: 讨论了如何利用 Gemini CLI 和 Claude Code 等 AI 工具，通过 Context Engineering 的思维模式，打破传统工作限制，实现自动化和高效创作，强调了为
-  AI 工具付费和提出“非分”要求的重要性。
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- vibe-coding
-tags:
-- context-engineering
-- llm
-- vibe-coding
-- 生产力
-people:
-- 张敏
-- Ray
-- Long
-- 小西瓜
-- Mike
-- Betty
-- 伊文
-- Alex
-companies_orgs: []
-products_models: []
-date: 2025-07-27
 author: Lei
-speaker: ''
+category: technology
 channel: null
+companies_orgs: []
+date: 2025-07-27
 draft: true
 file_name: ai_workflow_revolution_context_engineering.md
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 张敏
+- Ray
+- 小西瓜
+- Mike
+- Betty
+- Alex
+products_models: []
+project:
+- ai-impact-analysis
+- vibe-coding
 series: null
 source: null
+speaker: ''
+summary: 讨论了如何利用 Gemini CLI 和 Claude Code 等 AI 工具，通过 Context Engineering 的思维模式，打破传统工作限制，实现自动化和高效创作，强调了为
+  AI 工具付费和提出“非分”要求的重要性。
+tags:
+- context-engineering
+- llm
+- vibe-coding
+- 生产力
+title: 从Context Engineering 到无限制创作,Vibe Coding的社区0725
 ---
 
 ## 开场与初体验

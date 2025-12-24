@@ -15,24 +15,11 @@ media_books:
 - Daily Mail
 people:
 - Prince Andrew
-- King Charles
 - Virginia Giuffre
-- Edward VIII
-- Prince Harry
-- Meghan Markle
-- Queen Elizabeth II
 - Harvey Weinstein
 - Ghislaine Maxwell
-- Amy Wallace
 - Donald Trump
-- Sarah Ferguson
-- Yang Tengbo
-- Robbie Giuffre
-- Sharon Churcher
-- Caroline Andriano
-- Marvin Minsky
 - Bill Gates
-- Melinda Gates
 - Alan Dershowitz
 products_models: []
 project:

@@ -10,9 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《回家》
-people:
-- 钟郁含
-- 李军雷
 products_models: []
 project:
 - historical-insights

@@ -15,13 +15,6 @@ media_books:
 - 《天国的嫁衣》
 - 《放羊的星星》
 - 《搭车去柏林》
-people:
-- 陈小雨
-- 外婆
-- 姐姐阿真
-- 卡姐
-- 谷岳
-- Randall Okita
 products_models: []
 project:
 - historical-insights

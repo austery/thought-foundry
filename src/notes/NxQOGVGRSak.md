@@ -93,18 +93,14 @@ people:
 - Jensen Huang
 - Alex Karp
 - Joe Biden
-- Brooke Rollins
 - Christian Bale
 - Warren Buffett
 - Peter Thiel
-- Lisa McClain
 - Peter Beck
 - Stanley Druckenmiller
-- Raphael Bostic
 - Jamie Dimon
 - Elon Musk
 - Tom Lee
-- Keith Rabois
 products_models:
 - S&P 500
 - ChatGPT

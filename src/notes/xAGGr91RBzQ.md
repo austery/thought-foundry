@@ -8,9 +8,6 @@ draft: true
 guest: null
 insight: null
 layout: post.njk
-people:
-- 仝仝
-- 星星
 project: 知行小酒馆
 series: null
 source: https://www.youtube.com/watch?v=xAGGr91RBzQ

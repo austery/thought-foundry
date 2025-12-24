@@ -15,9 +15,7 @@ media_books:
 - LinkedIn
 - 孙子兵法
 people:
-- Deb Liu
 - Mark Zuckerberg
-- Fidji
 products_models:
 - Facebook Marketplace
 - Facebook Shops

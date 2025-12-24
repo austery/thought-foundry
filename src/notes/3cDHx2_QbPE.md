@@ -34,13 +34,7 @@ media_books:
 - How to feed the AIs
 - Scale Microgrids
 people:
-- Casey Handmer
 - Elon Musk
-- Henry Kaiser
-- Brian Potter
-- Austin Vernon
-- James Bradbury
-- Gwern
 - Jensen Huang
 products_models:
 - Hyperloop

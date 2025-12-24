@@ -19,13 +19,7 @@ media_books:
 - The Daily
 people:
 - Donald Trump
-- Natalie Kitroeff
-- Ernesto Londoño
-- Chris Rufo
-- Joe Thompson
 - Stephen Miller
-- Melvin Carter
-- Tim Walz
 - Pete Hgsith
 products_models:
 - Signal

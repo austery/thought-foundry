@@ -15,9 +15,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 李玲
-- 殷大奎
 products_models: []
 project:
 - china-analysis

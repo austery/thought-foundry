@@ -17,9 +17,7 @@ layout: post.njk
 media_books:
 - 《凤凰周刊》
 people:
-- 大平正芳
 - 邓小平
-- 乙藤喜龙
 - 毛泽东
 - 蒋介石
 - 蒋经国

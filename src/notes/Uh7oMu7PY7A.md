@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- psychological-defense
 companies_orgs:
 - CGTN
 - 华为
@@ -16,14 +18,7 @@ media_books:
 - 抖音
 people:
 - 司马南
-- 陈平
-- 大头鹰
-- 意大利筹妈
-- 行走的大羊腿
-- 曲婉婷
-- 朱南山
 - Xi Jinping
-- 陈兰斌
 products_models: []
 project:
 - china-analysis
@@ -40,8 +35,6 @@ tags:
 - nationalism
 - offshore-patriotism
 title: 离岸爱国现象深度解析：为何有人越出国越爱国？
-companies:
-- psychological-defense
 ---
 
 ### 引言：定义“离岸爱国”现象

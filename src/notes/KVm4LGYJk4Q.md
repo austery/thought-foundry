@@ -10,7 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - 超级歪 SuperY
-- Connor
 products_models: []
 project:
 - personal-growth-lab

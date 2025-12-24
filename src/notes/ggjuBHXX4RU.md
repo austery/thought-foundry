@@ -20,10 +20,6 @@ media_books:
 - 中国人口流动趋势报告
 people:
 - Elon Musk
-- Ramesses II
-- Genghis Khan
-- Stephen Castles
-- Mark J. Miller
 products_models: []
 project:
 - china-analysis

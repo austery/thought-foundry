@@ -23,13 +23,8 @@ media_books:
 - Economic Interdependence and War
 - The Great Wall and the Empty Fortress
 people:
-- Dale Copeland
-- Andrew Bishop
-- Christian Parent
 - Alexander Hamilton
-- Adam Tooze
 - John Mearsheimer
-- Shidehara Kijūrō
 - Donald Trump
 - Franklin Roosevelt
 - Henry Kissinger

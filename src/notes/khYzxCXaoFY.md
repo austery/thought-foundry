@@ -17,12 +17,7 @@ media_books:
 - 《針灸》
 - 【胡乃文的生活中醫養生課】
 people:
-- 胡乃文
 - 宋晏仁
-- Felix Mann
-- 原林
-- 鍾院士
-- 澤田
 products_models: []
 project:
 - personal-growth-lab

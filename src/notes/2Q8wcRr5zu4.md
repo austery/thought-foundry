@@ -10,10 +10,6 @@ guest: ''
 insight: null
 layout: post.njk
 media_books: []
-people:
-- 弘君
-- Yiwen
-- 刘沁东
 products_models: []
 project:
 - investment-strategy

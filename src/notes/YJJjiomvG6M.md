@@ -63,7 +63,6 @@ people:
 - Sam Altman
 - Elon Musk
 - Warren Buffett
-- Chad Wallquist
 products_models:
 - Blackwell Chip
 - Affordable Care Act

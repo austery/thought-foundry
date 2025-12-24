@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: psychology
+companies:
+- psychopathy
 companies_orgs:
 - Georgetown University
 - Society for the Prevention of Disorders of Aggression
@@ -13,13 +15,9 @@ layout: post.njk
 media_books:
 - The Fear Factor
 people:
-- Abigail Marsh
-- Emmy Thomas
 - Warren Buffett
 - Bill Gates
-- Carnegie
 - Taylor Swift
-- Idris Elba
 products_models: []
 project:
 - personal-growth-lab
@@ -36,8 +34,6 @@ tags:
 - psychology
 - well-being
 title: 理解利他与精神病态：大脑、同理心及行为模式的科学视角
-companies:
-- psychopathy
 ---
 
 ### 陌生人的善举：一次生死攸关的经历

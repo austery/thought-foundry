@@ -30,10 +30,6 @@ people:
 - Donald Trump
 - Xi Jinping
 - Wendy Cutler
-- Jurgen
-- Thorpe
-- Greer
-- 郭家坤
 products_models:
 - 芬太尼
 - 人工智能芯片

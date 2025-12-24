@@ -23,11 +23,7 @@ layout: post.njk
 media_books:
 - 彭博新能源财经
 people:
-- 乔治·吉尔德
-- 山姆·奥特曼
 - 扎克伯格
-- 哈里斯·库珀曼
-- 埃里克·戈登
 products_models:
 - ChatGPT
 - H100

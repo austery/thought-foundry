@@ -12,7 +12,6 @@ layout: post.njk
 people:
 - Donald Trump
 - Howard Lutnick
-- David Bier
 products_models:
 - F1 student visa
 - OPT

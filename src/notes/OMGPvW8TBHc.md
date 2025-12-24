@@ -13,8 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Leonard Tang
 products_models:
 - ChatGPT
 - Llama 3

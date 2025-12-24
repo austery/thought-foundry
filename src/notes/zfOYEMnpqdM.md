@@ -10,8 +10,6 @@ layout: post.njk
 people:
 - Adam Brown
 - Stephen Hawking
-- Jacob Beckenstein
-- hawking-radiation
 products_models: []
 project: []
 series: ''

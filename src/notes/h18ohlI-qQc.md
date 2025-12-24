@@ -14,12 +14,7 @@ media_books:
 - '"The Origin of Species"'
 - '"The Voyage of the Beagle"'
 people:
-- Sean B. Carroll
 - Charles Darwin
-- Alfred Russel Wallace
-- Thomas Huxley
-- Thomas Malthus
-- Henry Walter Bates
 products_models: []
 project: []
 series: ''

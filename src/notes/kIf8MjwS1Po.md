@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Dr. Jane Dutton
 products_models: []
 project: []
 series: ''

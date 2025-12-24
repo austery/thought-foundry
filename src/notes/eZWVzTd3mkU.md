@@ -1,34 +1,32 @@
 ---
-title: Vibe Coding 实战对谈：从导入挑战到团队文化转型
-summary: 本期 JUGG 聊敏捷邀请了开发一线的 Derek 和 Zen，深入探讨 Vibe Coding 在团队中的实际应用。内容涵盖导入过程中的常见陷阱、如何应对AI
-  生成的大量程式码、以及 Vibe Coding 对敏捷开发流程和团队文化的深远影响与挑战。
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- vibe-coding
-tags:
-- code
-- llm
-- vibe-coding
-- 团队协作
-people:
-- JUGG
-- Derek
-- Zen
-companies_orgs: []
-products_models: []
-date: 2025-08-04
 author: JUGG’s Agile
-speaker: ''
+category: technology
 channel: null
+companies_orgs: []
+date: 2025-08-04
 draft: true
 file_name: Vibe_Coding_Implementation_Challenges_Team_Culture.md
 guest: ''
 insight: 好奇怪，这期竟然推荐给我，我也同样的感受。我提交一个AI 生成的代码（自己先review），但是同事看到500-600代码，都审核的很慢，5天还没有完成，我代码才写1天，AI倾向于大改。AI也倾向于重新造轮子，我们的codebase也有很多现存的方法，它不用。这点，我可能要用一些context来提示，我要多研究一下，MCP。
 layout: post.njk
+people:
+- Derek
+products_models: []
+project:
+- ai-impact-analysis
+- vibe-coding
 series: Vibe Coding
 source: https://www.youtube.com/watch?v=eZWVzTd3mkU&t
+speaker: ''
+summary: 本期 JUGG 聊敏捷邀请了开发一线的 Derek 和 Zen，深入探讨 Vibe Coding 在团队中的实际应用。内容涵盖导入过程中的常见陷阱、如何应对AI
+  生成的大量程式码、以及 Vibe Coding 对敏捷开发流程和团队文化的深远影响与挑战。
+tags:
+- code
+- llm
+- vibe-coding
+- 团队协作
+title: Vibe Coding 实战对谈：从导入挑战到团队文化转型
 ---
 
 ## 开场与嘉宾介绍

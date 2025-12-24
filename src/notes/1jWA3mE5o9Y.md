@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Edith Zimmerman
 products_models:
 - Drawing Links
 - How to Be a Better Human

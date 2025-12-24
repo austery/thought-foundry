@@ -13,7 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - 黄仁勋
-- Sean Grove
 products_models: []
 project:
 - ai-impact-analysis

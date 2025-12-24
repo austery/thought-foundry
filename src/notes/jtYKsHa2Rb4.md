@@ -14,8 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Bonfire Moment
-people:
-- Martin Gonzalez
 products_models:
 - Google Maps
 - Waze

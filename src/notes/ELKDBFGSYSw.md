@@ -15,9 +15,6 @@ media_books:
 - Alone Together
 - 《尼格马克伦理学》
 people:
-- Vivack Murphy
-- Robin Williams
-- Sherry Turkle
 - 亚里士多德
 - 孔子
 - 孟子

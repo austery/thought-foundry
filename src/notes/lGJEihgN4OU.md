@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- Petr Lebedev
-- Dr. Sakai
 products_models: []
 project:
 - geopolitics-watch

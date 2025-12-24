@@ -10,13 +10,9 @@ layout: post.njk
 media_books:
 - 《皇帝新装》
 people:
-- 林语堂
 - 孔子
-- 安徒生
 - 鲁迅
 - 庄子
-- Mildred Jeter Loving
-- Richard Loving
 products_models: '[]'
 project:
 - personal-growth-lab

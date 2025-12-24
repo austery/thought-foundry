@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- luo-yonghao
 products_models: []
 project:
 - china-analysis

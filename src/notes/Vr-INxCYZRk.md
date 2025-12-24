@@ -13,12 +13,7 @@ media_books:
 - 《怪獸訓練肌力課程設計》
 - Easy Strength
 people:
-- 何立安
 - 宋晏仁
-- Pavel Tsatsouline
-- Dan John
-- Stuart McGill
-- Ekkekakis
 products_models:
 - YouBike
 project:

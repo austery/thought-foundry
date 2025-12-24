@@ -19,12 +19,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《R研究》
-people:
-- Elizabeth Bec Lee Ment
-- Hoover
-- Nixon
-- Toellner
-- Nye
 products_models: []
 project:
 - systems-thinking

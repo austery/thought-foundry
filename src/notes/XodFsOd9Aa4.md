@@ -12,18 +12,8 @@ media_books:
 - 《我的叔叔娱乐》
 - 《红楼梦》
 people:
-- 胡福
-- 莫博桑
-- 吕后
-- 武则天
-- 慈禧
-- 贾政
-- 贾宝玉
-- 贾母
 - Xi Jinping
 - 孟晚舟
-- 董志明
-- 波夫娃
 products_models: '[]'
 project:
 - china-analysis

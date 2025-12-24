@@ -9,12 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《教育应该给人以希望》
-people:
-- 林小英
-- 李校长
-- 陈立群
-- 童荣喜
-- 毛向军
 products_models: []
 project:
 - historical-insights

@@ -10,10 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ali Abdal
-- Maria
-- Lauren
 products_models:
 - iPhone 13
 - Notion AI

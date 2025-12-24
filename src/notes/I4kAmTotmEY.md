@@ -31,13 +31,8 @@ media_books:
 - anime-dominance
 people:
 - 宫崎骏
-- 王微
-- 饺子
-- 沈腾
 - 贾玲
 - 周星驰
-- 费孝通
-- 本尼迪克特·安德森
 - 乔布斯
 products_models:
 - TikTok

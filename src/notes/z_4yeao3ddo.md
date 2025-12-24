@@ -19,15 +19,8 @@ media_books:
 - Lord of the Flies
 - My Mother's Daughter
 people:
-- Rick Westhead
-- Stephen Brunt
-- Marcus Patterson
-- Tom Patterson
-- Perdita Felicia
-- Andrew Wong
 - Jeffrey Epstein
 - Harvey Weinstein
-- Sidney Crosby
 products_models: []
 project:
 - cultural-critique

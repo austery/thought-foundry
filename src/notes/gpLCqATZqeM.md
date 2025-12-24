@@ -13,9 +13,7 @@ layout: post.njk
 media_books:
 - May姐健康台味
 people:
-- 小吳醫師
 - May姐
-- 李醫師
 products_models: []
 project:
 - personal-growth-lab

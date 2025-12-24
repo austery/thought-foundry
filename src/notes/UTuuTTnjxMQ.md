@@ -34,25 +34,16 @@ media_books:
 people:
 - Sholto Douglas
 - Trenton Bricken
-- Noam Brown
 - Sam Altman
-- Sasha Rush
-- Rylan Schaeffer
 - Carl Shulman
-- John Carmack
 - Alec Radford
 - Demis Hassabis
 - Ilya Sutskever
-- Grant Sanderson
-- Pentti Kanerva
 - Tristan Hume
-- Bruno Olshausen
 - Sergey Brin
 - Jeff Dean
 - Chris Olah
 - Andy Jones
-- Simon Boehm
-- Neel Nanda
 products_models:
 - Gemini
 - GPT-4

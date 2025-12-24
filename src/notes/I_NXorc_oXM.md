@@ -20,12 +20,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 敏昂莱
-- 昂山素季
-- 彭德仁
 - 李光耀
 - Xi Jinping
-- 巴育
 - 达赖喇嘛
 - Joe Biden
 - Donald Trump

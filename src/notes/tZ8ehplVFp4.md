@@ -12,12 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Jesse Reno
-- George Wheeler
-- Charles Seeberger
-- Philippe Jullian
-- Renato Domico
 products_models:
 - Continuous Elevator
 - Revolving Stairs

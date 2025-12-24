@@ -18,7 +18,6 @@ people:
 - Larry Page
 - Sergey Brin
 - Bill Gates
-- Bono
 products_models: []
 project:
 - systems-thinking

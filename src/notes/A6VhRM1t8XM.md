@@ -42,28 +42,11 @@ media_books:
 - 《星岛日报》
 people:
 - Donald Trump
-- Tony
-- John Kennedy
-- Bessent
 - Xi Jinping
-- Li Daokui
 - Cai Qi
-- Yi Gang
-- Fu Xinguo
-- Liu Duo
-- Zhang Junkuo
-- Zhang Zhaolin
-- Zhang Jie
-- Cao Weixing
-- Chen Guoqing
-- Wang Long
-- Chen Yuanfeng
-- Sui Jun
 - Mao Ning
 - Mao Zedong
 - Deng Xiaoping
-- Xi Zhongxun
-- 霍克塞斯
 products_models:
 - 空军一号
 project:

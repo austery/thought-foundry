@@ -30,15 +30,7 @@ media_books:
 - 'Complications: A Surgeon''s Notes on an Imperfect Science'
 - The Linux Programming Interface
 people:
-- Charles-Axel Dein
-- Travis Kalanick
-- Thuan Pham
-- Atul Gawande
 - Martin Fowler
-- John Ciara
-- Dan Heller
-- Bjarne Stroustrup
-- David Allen
 products_models:
 - Google Wallet
 - Google Pay

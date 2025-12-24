@@ -27,13 +27,9 @@ layout: post.njk
 media_books:
 - Asimov's Law
 people:
-- Jing Wu
-- Anand
 - Evan
-- Yan
 - Elon Musk
 - Henry Ford
-- Ronnie Brooks
 - Jamie Diamond
 products_models:
 - Optimus

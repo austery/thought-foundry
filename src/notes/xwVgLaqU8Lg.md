@@ -16,10 +16,6 @@ layout: post.njk
 media_books:
 - 《新闻联播》
 - 《人民日报》
-people:
-- 余承东
-- 李斌
-- 伊莎比
 products_models: []
 project:
 - china-analysis

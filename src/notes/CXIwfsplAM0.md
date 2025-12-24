@@ -37,15 +37,10 @@ people:
 - Vladimir Putin
 - Sergei Lavrov
 - Jared Kushner
-- Dmitry Dmitriev
-- Rustem Umerov
 - Marco Rubio
 - Boris Johnson
 - Xi Jinping
-- Fu Cong
-- Kobayashi Tomohiro
 - 高市早苗
-- Carlos Vova
 products_models:
 - Javelin
 - Storm Shadow

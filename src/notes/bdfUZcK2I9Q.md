@@ -1,6 +1,8 @@
 ---
 area: market-analysis
 category: business
+companies:
+- philanthropic-foundation
 companies_orgs:
 - SEB Banking
 - Investor AB
@@ -20,12 +22,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Swedish-Finnish relationship book
-people:
-- Marcus Wallenberg
-- Alise Wallenberg
-- Conor Johnson
-- Claus Dobeck
-- Johan Allan
 products_models: []
 project:
 - investment-strategy
@@ -43,8 +39,6 @@ tags:
 - long
 - nordic-business-model
 title: 瓦伦堡家族的百年传承：适应、创新与长期主义
-companies:
-- philanthropic-foundation
 ---
 
 ### 瓦伦堡家族：百年传承与商业影响力

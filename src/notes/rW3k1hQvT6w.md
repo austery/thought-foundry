@@ -1,6 +1,8 @@
 ---
 area: personal-systems
 category: psychology
+companies:
+- psychological-barrier
 companies_orgs:
 - Ted
 - Coupang
@@ -13,8 +15,6 @@ media_books:
 - Monash播客
 people:
 - KevinFeng
-- Becky
-- Masashi
 products_models:
 - Omega 3
 - DHA
@@ -32,8 +32,6 @@ tags:
 - self
 - society
 title: 克服英语口语障碍：心理建设与实践公式
-companies:
-- psychological-barrier
 ---
 
 ### 克服英语口语障碍：心理建设是关键

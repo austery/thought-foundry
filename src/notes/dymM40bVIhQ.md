@@ -14,12 +14,9 @@ insight: ''
 layout: post.njk
 people:
 - 田渊栋
-- Denny Zhou
 - Ilya Sutskever
 - Geoffrey Hinton
 - Richard Sutton
-- Luis von Ahn
-- 赵智沉
 products_models:
 - GPT-5
 - SVM

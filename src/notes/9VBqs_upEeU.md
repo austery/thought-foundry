@@ -17,15 +17,11 @@ media_books:
 - 新浪网
 - 搜狐网
 people:
-- 张志东
-- 陈志高
 - Donald Trump
 - Joe Biden
 - Hugo Chávez
 - Nicolás Maduro
 - George H.W. Bush
-- Manuel Noriega
-- María Corina Machado
 - Janet Yellen
 products_models: []
 project:

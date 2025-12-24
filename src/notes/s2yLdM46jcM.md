@@ -14,10 +14,6 @@ media_books:
 people:
 - 李飞飞
 - Alan Turing
-- Eratosthenes
-- James Hargreaves
-- James Watson
-- Francis Crick
 products_models:
 - 大语言模型
 - 珍妮纺纱机

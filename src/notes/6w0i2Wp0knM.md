@@ -14,8 +14,6 @@ layout: post.njk
 media_books:
 - How I AI
 - X
-people:
-- Claireo
 products_models:
 - Gemini 3 Pro
 - Claude Opus 4.5

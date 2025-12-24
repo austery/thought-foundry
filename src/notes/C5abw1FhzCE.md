@@ -14,12 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《盲眼钟表匠》
-people:
-- 艾莉森·加尔瓦尼
-- 帕特里克·加尔瓦尼
-- 南希·加尔瓦尼
-- 约翰·凯克尔
-- 理查德·道金斯
 products_models: []
 project:
 - historical-insights

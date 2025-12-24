@@ -15,10 +15,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 桑达尔·皮查伊
-- 德米斯·哈萨比斯
-- 科雷
 products_models:
 - Gemini 3
 - Gemini 3 Pro

@@ -10,9 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- Axel
-- Seymour Cash
 products_models:
 - Claude
 project:

@@ -27,11 +27,7 @@ people:
 - Donald Trump
 - JD Vance
 - Volodymyr Zelenskyy
-- Mikey Madison
-- Avril Lavigne
 - 李佳琦
-- 薇娅
-- 姜逸磊
 - 鲁迅
 - Vladimir Putin
 products_models:

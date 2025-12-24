@@ -1,6 +1,8 @@
 ---
 area: finance-wealth
 category: stock-investment
+companies:
+- apple
 companies_orgs:
 - 苹果
 - 三星
@@ -17,7 +19,6 @@ layout: post.njk
 people:
 - 唐石峻
 - 沃伦·巴菲特
-- buffett
 products_models:
 - AAPL
 - iPhone
@@ -42,8 +43,6 @@ tags:
 - ecosystem
 - stock-analysis
 title: 美股AAPL（苹果）还能打么？它还是无敌的复利机器么？| 持仓1276天复盘
-companies:
-- apple
 ---
 
 ### 开篇：苹果现状与视频主旨

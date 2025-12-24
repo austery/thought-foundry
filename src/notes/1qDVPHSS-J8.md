@@ -55,8 +55,6 @@ people:
 - Elon Musk
 - Sam Altman
 - Kevin Hassett
-- Greg Ael
-- Todd Combs
 - Jensen Huang
 - Chris
 - Matt

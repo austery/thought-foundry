@@ -32,7 +32,6 @@ media_books:
 - 彭博
 people:
 - Michael Burry
-- Collins
 - Donald Trump
 products_models:
 - TikTok

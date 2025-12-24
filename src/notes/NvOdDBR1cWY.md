@@ -45,16 +45,11 @@ media_books:
 - South Park
 - The Big Short
 people:
-- Adam (Gokarp)
 - Peter Thiel
 - Michael Burry
-- Jack Prescott
 - Kathy Wood
 - Alex Karp
 - Jensen Huang
-- Andrew Left
-- Lauren Ballock
-- Sham Sankar
 products_models:
 - Foundry
 - Apollo

@@ -20,9 +20,6 @@ media_books:
   What to Do about it
 - The Rundown
 people:
-- Abdullah Snobar
-- Kelsey Hahn
-- Rachel Wasserman
 - Jeyan Jeganathan
 products_models:
 - leadership intelligence product

@@ -12,9 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Adena T. Friedman
-- Min
 products_models:
 - ISK program
 project:

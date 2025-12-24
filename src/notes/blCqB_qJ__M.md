@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- Maduro
-- Chavez
 - Joe Biden
 products_models: []
 project:

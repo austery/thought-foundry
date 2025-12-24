@@ -17,10 +17,6 @@ layout: post.njk
 media_books:
 - Odd Lots
 - Lots More
-people:
-- Joe Abate
-- Lori Logan
-- Hunter McMaster
 products_models:
 - Fed funds rate
 - triparty repo rate

@@ -25,8 +25,6 @@ layout: post.njk
 media_books:
 - The Daily
 people:
-- Natalie Kitroeff
-- Cade Metz
 - Sam Altman
 - Mark Zuckerberg
 - Jensen Huang

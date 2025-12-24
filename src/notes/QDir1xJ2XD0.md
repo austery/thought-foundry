@@ -17,7 +17,6 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-- David Pearson
 products_models:
 - Rolos
 - Almond Joy

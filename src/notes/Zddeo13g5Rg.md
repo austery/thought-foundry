@@ -76,7 +76,6 @@ people:
 - Marc Benioff
 - Sundar Pichai
 - Donald Trump
-- Murad Momani
 - Volodymyr Zelenskyy
 - Michael Burry
 - David Friedberg
@@ -85,12 +84,9 @@ people:
 - Mike Wilson
 - Mark Newton
 - Tom Lee
-- Patrick Cow
-- Jared Moskowitz
 - Bill Ackman
 - Xi Jinping
 - Andy Jassy
-- Paul Dano
 products_models:
 - Bitcoin
 - Gemini 3.0

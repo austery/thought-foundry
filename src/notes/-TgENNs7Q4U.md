@@ -34,9 +34,7 @@ people:
 - Donald Trump
 - Elon Musk
 - Ted Cruz
-- Julie
 - Hillary Clinton
-- Soleimani
 products_models:
 - Altius 600M
 - Hellfire missile

@@ -19,20 +19,10 @@ media_books:
 people:
 - Donald Trump
 - Andrew Tate
-- Tristan Tate
 - Donald Trump Jr.
-- Baron Trump
-- Richard Grenell
 - Tucker Carlson
-- Candace Owens
-- Megan Tui
-- Isabella Quai
 - Shawn Duffy
 - Robert F. Kennedy Jr.
-- Jay-Z
-- Justin Timberlake
-- Missy Elliot
-- Somber
 products_models:
 - ChatGPT
 project:

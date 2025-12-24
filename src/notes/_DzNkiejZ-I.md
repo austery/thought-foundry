@@ -12,9 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Paige
-- Andre Carpathy
 products_models:
 - Gemini
 - Gemini 2.5 Pro

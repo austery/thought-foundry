@@ -27,8 +27,6 @@ people:
 - Warren Buffett
 - Charlie Munger
 - Howard Schultz
-- Brian Niccol
-- John Donahoe
 - Elliot
 - Steve Ballmer
 - Donald Trump

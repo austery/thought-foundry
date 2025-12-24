@@ -18,16 +18,7 @@ people:
 - Karl Marx
 - Sigmund Freud
 - Aristotle
-- Bartolomé de las Casas
-- Juan Ginés de Sepúlveda
-- Philippe Descola
-- Lewis H. Morgan
-- Frantz Fanon
-- Homi K. Bhabha
-- Benedict Anderson
-- Henry George
 - 孙中山
-- 杨雅喆
 products_models: []
 project:
 - historical-insights

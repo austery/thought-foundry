@@ -16,9 +16,7 @@ people:
 - Kamala Harris
 - Gavin Newsom
 - Andrew Cuomo
-- Mondaire Jones
 - Alexandria Ocasio-Cortez
-- Charles Schumer
 - Larry Summers
 - Marjorie Taylor Greene
 - Thomas Massie

@@ -20,14 +20,7 @@ media_books:
 - 《光明之子与黑暗之子》
 - 《肖申克的救赎》
 people:
-- 玄奘
-- 空海
 - 孔子
-- 文家宝
-- 奥勒流
-- 莱茵霍尔德尼布尔
-- 五月散人
-- 刘世公
 - Donald Trump
 products_models: '[]'
 project:

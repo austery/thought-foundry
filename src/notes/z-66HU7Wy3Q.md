@@ -14,15 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 艾琳娜的回忆录
-people:
-- Donald Heathfield
-- Tracey Lee Ann Foley
-- Tim Vavilov
-- Alexander Vavilov
-- Sterling Bell
-- Hadayt Nazami
-- Andrey Bezrukov
-- Elena Vavilova
 products_models:
 - The Americans
 project:

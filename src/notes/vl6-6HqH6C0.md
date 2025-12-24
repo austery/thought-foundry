@@ -27,7 +27,6 @@ media_books:
 - 《时代》杂志
 people:
 - Donald Trump
-- Warren Harding
 - Franklin Roosevelt
 - Elon Musk
 - Elizabeth Warren
@@ -36,10 +35,7 @@ people:
 - Stephen Miller
 - Karoline Leavitt
 - John Adams
-- Abigail Adams
-- Ulysses Grant
 - Theodore Roosevelt
-- William Howard Taft
 - George W. Bush
 - Dick Cheney
 - Harry S. Truman
@@ -49,12 +45,9 @@ people:
 - Jimmy Carter
 - Ronald Reagan
 - Barack Obama
-- James Mattis
-- Jay Gatsby
 - Thomas Jefferson
 - Monica Lewinsky
 - Steven Mnuchin
-- Stephen Schwarzman
 products_models: []
 project:
 - us-analysis

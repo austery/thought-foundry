@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- julian-treasure
 products_models: []
 project: []
 series: ''

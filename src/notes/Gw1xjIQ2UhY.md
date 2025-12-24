@@ -25,27 +25,16 @@ media_books:
 - 《善恶的彼岸》
 - 《午夜巴黎》
 people:
-- 罗世宏
 - 戈尔巴乔夫
-- 昆汀·塔伦蒂诺
-- Joseph Tainter
 - 尼采
 - 黑格尔
 - 马克斯·韦伯
 - Donald Trump
-- 欧尔班
 - 杜特尔特
-- 斯蒂文·平克
-- 哈贝马斯
-- 凯文·凯利
 - 刘仲敬
 - 金刻羽
-- 张北海
-- 茨威格
 - 拜登
-- 查韦斯
 - 马杜罗
-- 米莱
 products_models:
 - CGI
 project:

@@ -42,14 +42,10 @@ people:
 - Donald Trump
 - Jack Mallers
 - David Sacks
-- Mark Chen
 - Satya Nadella
 - Jensen Huang
-- Wilbur Ross
 - Kevin Hassett
-- Steve Kovac
 - George Kurtz
-- Vashall
 - jobs-report
 products_models:
 - Bitcoin

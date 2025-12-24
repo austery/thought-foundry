@@ -16,17 +16,9 @@ media_books:
 - HackerNews
 - Momento
 people:
-- Dex Horthy
-- Eigor
-- Jeff Huntley
-- Vibv
 - Martin Fowler
-- Brietta
-- Sean
 - Simon
-- Mitchell
 - Jake
-- Blake
 products_models:
 - Claude Code
 - Cursor

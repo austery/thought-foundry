@@ -8,8 +8,6 @@ date: '2025-07-10'
 guest: null
 insight: null
 layout: post.njk
-people:
-- 漫士
 products_models: []
 project: []
 series: null

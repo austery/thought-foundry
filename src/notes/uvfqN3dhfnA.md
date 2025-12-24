@@ -13,7 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - Ilya Sutskever
-- 小苏
 - 老修
 products_models:
 - Amazon Nova Forge

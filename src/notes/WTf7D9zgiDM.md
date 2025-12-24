@@ -13,7 +13,6 @@ layout: post.njk
 media_books: '[]'
 people:
 - 孙中山
-- 龚纳·梅德尔
 - 李嘉诚
 - 高善文
 - 毛

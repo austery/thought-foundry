@@ -39,7 +39,6 @@ people:
 - Sam Altman
 - Dario Amodei
 - Li Chenggang
-- Katherine Tai
 - He Lifeng
 products_models:
 - Blackwell

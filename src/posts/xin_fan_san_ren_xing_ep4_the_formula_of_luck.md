@@ -10,9 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 文森
 - Tracy
-- 友荣
 products_models: []
 project:
 - investment-strategy

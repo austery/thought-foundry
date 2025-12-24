@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- ilya-sutskever
-- sam-altman
 products_models: []
 project:
 - ai-impact-analysis

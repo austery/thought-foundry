@@ -14,10 +14,8 @@ layout: post.njk
 media_books:
 - The Harvard Crimson
 people:
-- 江宇荣
 - Donald Trump
 - Stephen King
-- 王船山
 products_models: '[]'
 project:
 - us-analysis

@@ -20,10 +20,7 @@ media_books:
 - Tinker Tailor Soldier Spy
 - The Economist
 people:
-- Joe Tsai
 - Jack Ma
-- Marcus Wallenberg
-- Jacob Wallenberg
 - John le Carré
 products_models:
 - Taobao

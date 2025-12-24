@@ -1,6 +1,8 @@
 ---
 area: market-analysis
 category: finance
+companies:
+- spacex-ipo
 companies_orgs:
 - Oracle
 - Adobe
@@ -80,7 +82,6 @@ people:
 - Larry Ellison
 - Peter Beck
 - Vlad Tenev
-- Tyler Radkkey
 - Satya Nadella
 products_models:
 - Sora
@@ -110,8 +111,6 @@ tags:
 - fed-policy
 - llm
 title: 市场动荡：甲骨文财报重挫科技股，鲍威尔鸽派言论被掩盖，迪士尼联手OpenAI引发争议
-companies:
-- spacex-ipo
 ---
 
 ### 市场开盘与近期动态

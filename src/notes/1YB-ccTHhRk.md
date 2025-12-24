@@ -82,7 +82,6 @@ people:
 - Michael Burry
 - Larry Fink
 - Jim Chanos
-- Ed Yardeni
 - Gene Munster
 - Lisa Su
 - Larry Ellison

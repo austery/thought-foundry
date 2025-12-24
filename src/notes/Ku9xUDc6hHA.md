@@ -32,8 +32,6 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 - Vlad Tenev
-- Hester Peirce
-- Bo Hines
 - David Sacks
 products_models:
 - Robinhood 24-hour market

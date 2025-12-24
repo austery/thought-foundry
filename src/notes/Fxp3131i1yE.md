@@ -32,11 +32,7 @@ media_books:
 - The Pragmatic Engineer
 - Beyond Vibe Coding
 people:
-- Chris Lattner
 - Richard Stallman
-- Vicram Adve
-- Steve McConnell
-- Eddie Osmani
 products_models:
 - Swift
 - Mojo

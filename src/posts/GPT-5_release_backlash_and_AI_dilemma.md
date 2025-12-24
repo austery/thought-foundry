@@ -1,30 +1,27 @@
 ---
-title: 深聊GPT-5发布：过度营销的反噬与AI技术突破的困局
-summary: 探讨GPT-5发布的争议、技术方案与商业应用。分析其因过度营销和技术未达预期引发的失望，讨论Scaling Law瓶颈，并展望强化学习、多模态等未来AI突破方向。
 area: null
+author: Lei
 category: null
-project: []
-tags:
-- multimodal
-- scaling-law
-people:
-- 陈茜
-- Bill Zhu
+channel: ''
 companies_orgs:
 - openai
-products_models:
-- gpt-5
 date: 2025-08-11
-author: Lei
-speaker: ''
-channel: ''
 draft: true
 file_name: GPT-5_release_backlash_and_AI_dilemma.md
 guest: ''
 insight: ''
 layout: post.njk
+products_models:
+- gpt-5
+project: []
 series: ''
 source: ''
+speaker: ''
+summary: 探讨GPT-5发布的争议、技术方案与商业应用。分析其因过度营销和技术未达预期引发的失望，讨论Scaling Law瓶颈，并展望强化学习、多模态等未来AI突破方向。
+tags:
+- multimodal
+- scaling-law
+title: 深聊GPT-5发布：过度营销的反噬与AI技术突破的困局
 ---
 
 陈茜: 大家好，欢迎来到硅谷101，我是陈茜。

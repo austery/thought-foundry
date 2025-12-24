@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Alex Gavrilescu
 products_models:
 - Backlog.md
 - Claude

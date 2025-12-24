@@ -35,15 +35,9 @@ media_books:
 people:
 - Greg Jensen
 - Howard Marks
-- Jean Hynes
-- Patrick Healey
-- Pedro Faria
 - Amy Edmondson
-- Robert Wallace
-- Mark Rowan
 - Angela Duckworth
 - Annie Duke
-- Michael Mauboussin
 - Marc Andreessen
 - Warren Buffett
 - John Kenneth Galbraith

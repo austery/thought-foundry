@@ -20,25 +20,11 @@ media_books:
 - About Time
 - Source Code
 people:
-- Murphy
-- Cooper
-- Professor Brandon
-- Emilia Brand
-- Mann
 - Socrates
-- Karen Barad
-- Johnathan Nolan
-- Edwin Abbott
 - Adam Smith
-- Dietrich von Hildebrand
 - Yuri Gagarin
 - Hannah Arendt
 - Einstein
-- Bergson
-- Leonard
-- Kip Thorne
-- Martin Hägglund
-- Nikola Tesla
 products_models:
 - Ever Given
 project:

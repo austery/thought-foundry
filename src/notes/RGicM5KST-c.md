@@ -27,8 +27,6 @@ people:
 - Donald Trump
 - Sam Altman
 - Morris Chang
-- Pan Gongsheng
-- Wu Qing
 products_models:
 - H-1B
 - 401K

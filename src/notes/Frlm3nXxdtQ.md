@@ -13,10 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Rundown
-people:
-- Rachel Harding
-- Terry Pirovolakis
-- Michael Pirovolakis
 products_models:
 - AMT-130
 - CRISPR

@@ -18,20 +18,10 @@ layout: post.njk
 media_books:
 - 《人民日报》
 people:
-- 司徒华
-- 梅艳芳
 - 刘德华
 - 成龙
-- 罗文
-- 梁振英
 - 刘晓波
-- 黄毓民
 - 陈云
-- 李怡
-- 周幸彤
-- 何俊仁
-- 李卓人
-- 师涛
 products_models:
 - 零八宪章
 project:

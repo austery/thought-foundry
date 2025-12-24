@@ -22,20 +22,8 @@ media_books:
 people:
 - 蒋介石
 - 蒋经国
-- 郝柏村
-- 张宪义
 - 李登辉
-- 吴大猷
-- 伯格曼
-- 卡特
 - 毛泽东
-- D.B. Albright
-- 刘华珍
-- 金胜哲
-- 郑友善
-- Eno
-- Bono
-- Leonard Unger
 products_models:
 - TRR
 - 经国号

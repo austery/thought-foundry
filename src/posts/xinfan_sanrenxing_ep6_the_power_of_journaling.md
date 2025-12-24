@@ -1,31 +1,30 @@
 ---
-title: '新飯三人行 EP6: 寫日記的奇妙力量—三位長期實踐者的對話'
-summary: 本期節目邀請了兩位有著數十年寫日記習慣的嘉賓，與主持人共同探討寫日記的動機、方法與深遠影響。他們分享了日記如何成為一種自我陪伴、情緒疏導和建立自信的工具，並討論了紙質與數位記錄的差異，以及寫日記如何幫助他們更好地認識自己、實現個人成長。
 area: null
-category: null
-project: []
-tags:
-- emotional-regulation
-- personal-growth
-- 写日记
-- 自我认知
-people:
-- Vincent
-- Lin
-- Simon
-companies_orgs: []
-products_models: []
-date: 2025-08-07
 author: Lei
-speaker: ''
+category: null
 channel: ''
+companies_orgs: []
+date: 2025-08-07
 draft: true
 file_name: xinfan_sanrenxing_ep6_the_power_of_journaling.md
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Vincent
+- Simon
+products_models: []
+project: []
 series: null
 source: ''
+speaker: ''
+summary: 本期節目邀請了兩位有著數十年寫日記習慣的嘉賓，與主持人共同探討寫日記的動機、方法與深遠影響。他們分享了日記如何成為一種自我陪伴、情緒疏導和建立自信的工具，並討論了紙質與數位記錄的差異，以及寫日記如何幫助他們更好地認識自己、實現個人成長。
+tags:
+- emotional-regulation
+- personal-growth
+- 写日记
+- 自我认知
+title: '新飯三人行 EP6: 寫日記的奇妙力量—三位長期實踐者的對話'
 ---
 
 ## 開場：為什麼我們要聊寫日記？

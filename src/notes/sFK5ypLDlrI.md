@@ -13,10 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: '[]'
-people:
-- 中本聪
-- Lan Sassaman
-- Helen Finney
 products_models:
 - 比特币
 - NFT

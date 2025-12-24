@@ -16,12 +16,6 @@ media_books:
 - 《Yale Law Journal》
 people:
 - Charlie Kirk
-- Antonin Scalia
-- Elena Kagan
-- Adam Winkler
-- Sanford Levinson
-- Richard Posner
-- Dick Heller
 products_models:
 - Colt revolver
 project:

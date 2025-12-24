@@ -32,10 +32,6 @@ people:
 - 薛剑
 - Sam Altman
 - Sarah Friar
-- Michael H.R. Witts
-- Sony Chung
-- Akira Yamashita
-- Katsuya Okada
 - 安倍晋三
 products_models:
 - MQ-20 Avenger

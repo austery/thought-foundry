@@ -11,9 +11,6 @@ media_books:
 - Possible Girls
 - 《太平洋哲学季刊》
 - 《罗拉快跑》
-people:
-- David Lewis
-- Neil Sinhababu
 products_models:
 - GPT
 project:

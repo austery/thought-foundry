@@ -16,8 +16,6 @@ media_books:
 - Hacker News
 - LinkedIn
 - Twitter
-people:
-- Kay
 products_models:
 - Webflow
 - Figma

@@ -24,7 +24,6 @@ people:
 - Adam Grant
 - Jeff Bezos
 - Tom Brady
-- Jayden Daniels
 products_models: []
 project:
 - systems-thinking

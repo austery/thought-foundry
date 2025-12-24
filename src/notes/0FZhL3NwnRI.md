@@ -25,13 +25,8 @@ media_books:
 people:
 - Warren Buffett
 - Ajit Jain
-- Cos Becker
-- Rish
 - Bill Ackman
 - Carl Icahn
-- Nake Le
-- Bruce
-- Ban Ni Ni
 products_models: []
 project:
 - us-analysis

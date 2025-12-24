@@ -11,7 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Chin Keong Lam
 - Jesus
 products_models:
 - LLM

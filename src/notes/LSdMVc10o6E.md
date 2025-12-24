@@ -23,8 +23,6 @@ people:
 - Peter Lynch
 - 巴菲特
 - 查理·芒格
-- Harry Stonecipher
-- Dave Calhoun
 - Bob Iger
 products_models: []
 project:

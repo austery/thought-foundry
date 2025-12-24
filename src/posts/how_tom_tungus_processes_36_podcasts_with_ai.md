@@ -12,7 +12,6 @@ media_books:
 - podcast-processing
 people:
 - Clarvo
-- Tom Tungus
 products_models: []
 project:
 - ai-impact-analysis

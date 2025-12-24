@@ -19,9 +19,7 @@ people:
 - Xi Jinping
 - Pierre Trudeau
 - Mao Zedong
-- Meng Wanzhou
 - Michael Kovrig
-- Michael Spavor
 - Donald Trump
 - Justin Trudeau
 products_models:

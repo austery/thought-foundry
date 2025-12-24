@@ -1,33 +1,31 @@
 ---
-title: The College Crisis - Dartmouth & Berkeley Heads on the Future of US Universities
+area: tech-insights
+author: Lei
+category: technology
+companies_orgs: []
+date: 2025-09-25
+draft: true
+guest: ''
+insight: null
+layout: post.njk
+people:
+- Interviewer
+products_models: []
+project:
+- ai-impact-analysis
+series: null
+source: null
+speaker: ''
+status: evergreen
 summary: Dartmouth President Sian Beilock and Berkeley Chancellor Rich Lyons debate
   the pressing issues facing US higher education, including the broken business model,
   student debt, campus culture wars, and the transformative potential of AI.
-area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
 tags:
 - crisis
 - debt
 - education
 - viewpoint-diversity
-people:
-- Interviewer
-- Rich Lyons
-- Sian Beilock
-companies_orgs: []
-products_models: []
-date: 2025-09-25
-author: Lei
-speaker: ''
-draft: true
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: null
-status: evergreen
+title: The College Crisis - Dartmouth & Berkeley Heads on the Future of US Universities
 ---
 
 ### Introduction

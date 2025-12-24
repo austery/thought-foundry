@@ -19,8 +19,6 @@ layout: post.njk
 media_books:
 - The Economist
 - Financial Times
-people:
-- John Burn-Murdoch
 products_models:
 - DeleteMe
 project:

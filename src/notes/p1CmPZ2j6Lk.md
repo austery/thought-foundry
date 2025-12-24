@@ -12,9 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Will Hang
-- Cathy Zhou
 products_models:
 - Codeex
 - Devin

@@ -18,15 +18,9 @@ people:
 - Donald Trump
 - Pierre Poilievre
 - Zoran Mandani
-- Daryl Bricker
-- John Ibbitson
-- Jen Hassam
-- George Grant
 - John A. Macdonald
 - Mark Carney
 - Ronald Reagan
-- Richard Gwin
-- McKenzie King
 products_models: []
 project:
 - us-analysis

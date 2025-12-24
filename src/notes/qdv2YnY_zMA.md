@@ -25,15 +25,9 @@ layout: post.njk
 people:
 - Justin
 - Kevin
-- Bill Ward
-- Sid
-- Jeffrey
 - Steve
-- Joe
 - Jesse
-- Dr. Karp
 - Jensen Huang
-- Unkid
 products_models:
 - Foundry
 - AIP

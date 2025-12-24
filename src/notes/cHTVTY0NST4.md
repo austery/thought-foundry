@@ -15,10 +15,6 @@ media_books:
 people:
 - 卡尼
 - 特鲁多
-- 奥尔班
-- 弗朗西斯·福山
-- 伊塞亚·柏林
-- 叶里婷
 products_models: []
 project:
 - us-analysis

@@ -16,8 +16,6 @@ insight: ''
 layout: post.njk
 people:
 - Mark Zuckerberg
-- Priscilla Chan
-- Alex Reeves
 products_models:
 - AlphaFold
 - Cell by Gene

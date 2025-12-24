@@ -37,26 +37,16 @@ media_books:
 - 《意识的硬问题》
 people:
 - Friedrich Nietzsche
-- Albert Camus
-- Søren Kierkegaard
 - Jean-Paul Sartre
-- Martin Heidegger
 - Simone de Beauvoir
 - Aristotle
 - René Descartes
 - Immanuel Kant
 - Georg Wilhelm Friedrich Hegel
 - Karl Marx
-- Arthur Schopenhauer
 - Baruch Spinoza
-- Blaise Pascal
 - Ted Chiang
-- Ursula K. Le Guin
-- Romain Rolland
 - Steve Jobs
-- 张桂梅
-- Tertullian
-- Erich Fromm
 - John Rawls
 products_models: []
 project:

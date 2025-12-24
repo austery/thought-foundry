@@ -37,13 +37,11 @@ media_books:
 people:
 - Xi Jinping
 - Donald Trump
-- 郑山杰
 - 高市早苗
 - Pat Gelsinger
 - 赵长鹏
 - 鲍威尔
 - Ronald Reagan
-- 弗里德里希·哈耶克
 products_models:
 - 豆包
 - 18A

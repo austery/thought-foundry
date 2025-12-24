@@ -21,33 +21,8 @@ media_books:
 - 《哈姆雷特》
 - 《星际穿越》
 people:
-- 乙骨憂太
-- 里香
-- 竈門炭治郎
-- 竈門禰豆子
-- 蒲一永
-- Nicolas Abraham
-- Maria Torok
-- Cobb
-- Mal
-- 禪院真希
-- Samuel Kimbles
-- 夏油傑
-- 五條悟
 - Sigmund Freud
-- 屈原
-- Johann Wolfgang von Goethe
-- Charlie Chaplin
-- Robert Hertz
 - Jacques Lacan
-- Hamlet
-- Claude
-- Jacques Derrida
-- 曾敬驊
-- 宋芸樺
-- 彭千祐
-- 楊謹華
-- 菅原道真
 products_models: []
 project:
 - cultural-critique

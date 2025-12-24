@@ -30,14 +30,8 @@ people:
 - 毛泽东
 - 蒋介石
 - 陈天华
-- 西园寺公望
-- 荣禄
-- 杨朔
-- 黄遵宪
 - 康有为
-- 王兆铭
 - 阎锡山
-- 盛世才
 products_models: []
 project:
 - china-analysis

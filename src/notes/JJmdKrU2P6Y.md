@@ -73,11 +73,9 @@ people:
 - Elon Musk
 - Donald Trump
 - Sundar Pichai
-- Arvin Krishna
 - Steve
 - Vladimir Putin
 - Xi Jinping
-- Vaibhav Taneja
 products_models:
 - S&P 500
 - FSD

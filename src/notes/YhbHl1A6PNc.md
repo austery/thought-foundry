@@ -27,10 +27,7 @@ media_books:
 - Financial Times
 people:
 - Nikolai Tangen
-- Tron
 - Marte
-- Erik Hilde
-- Jonas Gahr Støre
 products_models:
 - Deepsek model
 - reference index

@@ -8,10 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: '[]'
-people:
-- Paul Offler
-- 母亲
-- 邻居大妈
 products_models: '[]'
 project:
 - china-analysis

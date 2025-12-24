@@ -15,11 +15,6 @@ media_books:
 - 读书会
 people:
 - Vivi
-- Cate W
-- Carmen Tao
-- Qi Shi
-- Su Ge
-- 彭哥
 products_models: []
 project:
 - ai-impact-analysis

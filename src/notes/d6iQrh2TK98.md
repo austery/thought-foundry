@@ -15,7 +15,6 @@ media_books:
 people:
 - Derek Muller
 - Emily
-- Charles Fleischer
 products_models:
 - The 37 Force
 - The 37 Website

@@ -12,7 +12,6 @@ media_books:
 - 《赤字迷思》
 people:
 - Alexander Hamilton
-- Stephanie Kelton
 - Donald Trump
 - Elon Musk
 - Ray Dalio
@@ -21,7 +20,6 @@ people:
 - Jerome Powell
 - Shinzo Abe
 - Joe Biden
-- 顾超明
 products_models:
 - 现代货币理论 (MMT)
 - 安倍经济学

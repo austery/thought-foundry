@@ -16,13 +16,8 @@ media_books:
 people:
 - Jill Weisenthal
 - Tracy Aloway
-- Inigo Fraser Jenkins
 - Donald Trump
 - Jerome Powell
-- Bob Brackett
-- Niall Ferguson
-- Howard Marx
-- Mike Milken
 products_models:
 - Nifty50
 project:

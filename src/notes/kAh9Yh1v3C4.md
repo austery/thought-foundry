@@ -17,8 +17,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- Rino
 products_models:
 - S&P 500
 - VIX

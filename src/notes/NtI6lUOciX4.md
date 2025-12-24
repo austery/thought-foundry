@@ -13,12 +13,8 @@ media_books:
 - 《野草》
 - 《哈姆雷特》
 people:
-- 杜素娟
-- 赫尔曼·黑塞
 - 鲁迅
-- 拜伦
 - 莎士比亚
-- 辛克莱
 products_models: []
 project:
 - personal-growth-lab

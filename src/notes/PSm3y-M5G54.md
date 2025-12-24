@@ -42,12 +42,7 @@ people:
 - Kevin Hassett
 - Nicolás Maduro
 - Elon Musk
-- Hu Yingming
 - Sheikh Hasina
-- Lin Jian
-- Hajime Banzai
-- Lau Siu-kai
-- Xia Baolong
 products_models:
 - Bitcoin
 - Cryptocurrency

@@ -10,8 +10,6 @@ insight: null
 layout: post.njk
 people:
 - Tracy Alloway
-- Joe Weisenthal (Odd Lots)
-- Matia Wial (Antelon Capital CEO & CIO)
 products_models: []
 project:
 - geopolitics-watch

@@ -28,13 +28,11 @@ people:
 - Ghislaine Maxwell
 - Prince Andrew
 - Virginia Giuffre
-- Nancy Mays
 - Lauren Boebert
 - Marjorie Taylor Greene
 - Thomas Massey
 - Michael Wolf
 - Steve Bannon
-- Alex Acosta
 - Pam Bondi
 - Cash Patel
 - Dan Bongino
@@ -42,9 +40,7 @@ people:
 - Hillary Clinton
 - Joe Biden
 - Ehud Barak
-- Robert Maxwell
 - Xi Jinping
-- Zoran Mardani
 - Bill Gates
 products_models:
 - Google Drive

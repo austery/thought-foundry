@@ -19,22 +19,12 @@ layout: post.njk
 media_books:
 - 《感动中国》
 people:
-- 高秉涵
 - 柴静
-- 高金熙
-- 高炳皓
-- 高炳杰
-- 刘兴远
-- 刘汝铭
 - 蒋介石
 - 陈诚
-- 吴全文
-- 舒克诚
 - 毛泽东
-- 贺龙
 - 刘少奇
 - 陈云
-- 杨林
 - 蒋经国
 products_models: []
 project:

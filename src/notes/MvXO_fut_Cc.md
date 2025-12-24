@@ -12,16 +12,7 @@ media_books:
 - 《财主底儿女们》
 - 《太阳照在桑干河上》
 people:
-- 姜涛
-- 陆蠡
-- 丁玲
-- 蒋淳祖
-- 龙同志
-- 田间
-- 萧军
-- 萧红
 - 毛泽东
-- 洛宾基
 products_models: []
 project:
 - historical-insights

@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - 《回归家庭》
 people:
-- 林强
-- 沙尼·奥德加
 - 安争鸣
-- 曹晋
 products_models: []
 project:
 - historical-insights

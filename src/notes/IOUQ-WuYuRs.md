@@ -13,7 +13,6 @@ layout: post.njk
 media_books:
 - 《Rick and Morty》
 people:
-- Do Kwon
 - Paul
 products_models:
 - Terra

@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 保罗圣皮埃尔普拉蒙东
 products_models: []
 project:
 - canada-analysis

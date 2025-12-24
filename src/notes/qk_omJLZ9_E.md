@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - trump
-- harris
 products_models: []
 project:
 - us-analysis

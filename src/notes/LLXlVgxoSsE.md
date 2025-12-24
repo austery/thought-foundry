@@ -37,17 +37,10 @@ media_books:
 - 《Joe Rogan Experience》
 people:
 - 吴清
-- 植田和男
 - 鲍威尔
-- 哈赛特
-- 珍妮特·耶伦
-- 马克龙
 - Elon Musk
 - 黄仁勋
-- 马克·扎克伯格
-- 凯茜·伍德
 - 唐纳德·特朗普
-- 乔·拜登
 products_models:
 - ChatGPT
 - Gemini

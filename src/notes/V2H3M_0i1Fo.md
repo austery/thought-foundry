@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- sarah-kay
 products_models: []
 project: []
 series: ''

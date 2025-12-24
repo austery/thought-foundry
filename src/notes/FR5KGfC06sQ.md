@@ -34,7 +34,6 @@ people:
 - Darren
 - Anthony Noto
 - Peter Beck
-- Arkady Volozh
 - Elon Musk
 - Alex Karp
 - Warren Buffett

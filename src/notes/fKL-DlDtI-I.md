@@ -22,18 +22,10 @@ people:
 - Zohran Mamdani
 - Joe Weisenthal
 - Tracy Alloway
-- Kathy Wild
-- David Rockefeller
 - Andrew Cuomo
 - Eric Adams
 - Bill de Blasio
 - Jamie Dimon
-- Rob Speyer
-- Albert Bourla
-- Kevin Ryan
-- Mike Bloomberg
-- Jesse Tisch
-- Mario Cuomo
 products_models: []
 project:
 - us-analysis

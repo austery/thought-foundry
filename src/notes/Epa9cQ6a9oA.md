@@ -20,7 +20,6 @@ media_books:
 people:
 - 李强
 - Donald Trump
-- 刘烨
 - 姜文
 - Xi Jinping
 - 毛泽东

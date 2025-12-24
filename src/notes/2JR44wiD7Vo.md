@@ -15,10 +15,6 @@ layout: post.njk
 people:
 - Buffett
 - 李嘉诚
-- 王歪嘴
-- 方德言
-- 悉尼奶爸
-- 五岳散人
 products_models:
 - ChatGPT
 - Excel

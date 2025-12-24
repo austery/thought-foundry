@@ -24,11 +24,8 @@ media_books:
 people:
 - Jill Weisenthal
 - Tracy Aloway
-- Brian Yelington
-- Brent Donnelly
 - Stanley Druckenmiller
 - Sam Bankman-Fried
-- Wendy Rhodess
 products_models:
 - E*TRADE
 project:

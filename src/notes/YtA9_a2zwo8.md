@@ -10,11 +10,6 @@ layout: post.njk
 media_books:
 - 《解构爱情》
 - 金赛性学报告
-people:
-- Helen Fisher
-- George Murdock
-- Claus Wedekind
-- Sarah Blaffer Hrdy
 products_models:
 - Pairs
 project:

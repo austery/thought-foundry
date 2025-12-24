@@ -15,14 +15,7 @@ media_books:
 - 《天生赛博格》
 - 《纽约时报》
 people:
-- 雷·库兹韦尔
-- 诺姆·乔姆斯基
-- 尼尔·波兹曼
-- 尤瓦尔·赫拉利
-- 马歇尔·麦克卢汉
 - 笛卡尔
-- 安迪·克拉克
-- 大卫·查尔默斯
 products_models:
 - ChatGPT
 - DeepSeek

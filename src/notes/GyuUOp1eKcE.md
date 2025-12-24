@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Frank Caprio
-- Antonio Caprio
 products_models: []
 project:
 - historical-insights

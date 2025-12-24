@@ -35,18 +35,14 @@ media_books:
 - 《The Factorio Mindset》
 - 《Make More Money, Be More Valued》
 people:
-- Patrick McKenzie
-- Karl Yang
 - Gavin Newsom
 - Alex Tabarrok
 - Vitalik Buterin
 - Sam Bankman-Fried
 - Michael Lewis
-- Amy Chua
 - Paul Graham
 - Derek Thompson
 - Matt Levine
-- Bethany McLean
 - Jack Dorsey
 products_models:
 - GPT-4

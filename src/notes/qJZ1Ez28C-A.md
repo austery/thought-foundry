@@ -14,9 +14,6 @@ people:
 - Niels Bohr
 - Louis de Broglie
 - Richard Feynman
-- Maupertuis
-- Hamilton
-- feynman-path-integral
 products_models:
 - NordVPN
 project:

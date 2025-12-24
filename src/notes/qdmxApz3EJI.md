@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Omar Khattab
 - Rich Sutton
-- Donald Knuth
 products_models:
 - DSPy
 - DaVinci 2

@@ -19,15 +19,7 @@ media_books:
 - 《华盛顿邮报》
 - 《日内瓦公约》
 people:
-- 黑格赛斯
-- 弗兰克·米奇·布拉德利
-- 托德·亨特利
-- 杰基·罗森
-- 罗杰·威克
-- 汤姆·提利斯
 - 特朗普
-- 本·拉登
-- 莱维特
 products_models: []
 project:
 - us-analysis

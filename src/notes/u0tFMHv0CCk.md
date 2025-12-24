@@ -11,11 +11,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Mikal Skuterud
-- Elizabeth Long
 - Pierre Poilievre
 - David Eby
-- Lena Diab
 products_models:
 - Global Talent Stream
 - LMIA

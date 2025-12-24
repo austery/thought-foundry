@@ -18,12 +18,10 @@ media_books:
 - Fewer Losers or More Winners
 people:
 - Howard Marks
-- Greg
 - Nikolai
 - Jack Bogle
 - John Kenneth Galbraith
 - Mark Twain
-- Elroy Dimson
 - Warren Buffett
 - Hillary Clinton
 - Donald Trump

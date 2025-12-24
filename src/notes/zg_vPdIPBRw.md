@@ -21,8 +21,6 @@ tags:
 - reinforcement-learning
 - superintelligence
 title: 强化学习之父Rich Sutton的宏大构想：OaK架构如何让超级智能从经验中涌现
-people:
-- rich-sutton
 ---
 
 ### 警世之言：AI发展方向的迷失与终极目标

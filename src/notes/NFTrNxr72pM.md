@@ -14,10 +14,6 @@ media_books:
 - 《西方世界的兴起》
 - 《论心脏运动》
 - 《肉体与石头：西方文明中的身体和城市》
-people:
-- Douglas North
-- William Harvey
-- Richard Sennett
 products_models: []
 project:
 - systems-thinking

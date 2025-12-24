@@ -19,7 +19,6 @@ people:
 - 唐石峻
 - 沃伦·巴菲特
 - 查理·芒格
-- 吉姆·西蒙斯
 - 段永平
 products_models: []
 project:

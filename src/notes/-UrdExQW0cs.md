@@ -13,12 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Riverst
-- Shamir
-- Adelman
-- Peter Shor
-- Don Coppersmith
 products_models:
 - RSA
 - General Number Field Sieve

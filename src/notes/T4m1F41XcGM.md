@@ -47,7 +47,6 @@ media_books:
 people:
 - Jensen Huang
 - Elon Musk
-- Junko Koizumi
 - Sanae Takaichi
 - Xi Jinping
 - Nick Timiraos

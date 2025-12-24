@@ -32,9 +32,7 @@ people:
 - Jerome Powell
 - Donald Trump
 - Xi Jinping
-- Tom Cotton
 - Jensen Huang
-- Klier
 products_models:
 - Blackwell chip
 - 9M729 missile

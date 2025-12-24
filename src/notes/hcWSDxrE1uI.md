@@ -26,16 +26,13 @@ layout: post.njk
 media_books:
 - In Good Company
 people:
-- Ruth Porat
 - Nicola Tangan
 - Demis Hassabis
 - John Jumper
 - Sundar Pichai
 - Larry Page
 - Sergey Brin
-- Bill Campbell
 - James Gorman
-- Hank Paulson
 - Charlie Munger
 products_models:
 - Gemini

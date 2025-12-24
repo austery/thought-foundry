@@ -14,13 +14,8 @@ media_books:
 - Wicked
 - The Wizard of Oz
 people:
-- Paul Tazewell
-- Lin-Manuel Miranda
-- King George III
 - Thomas Jefferson
-- Tommy Kail
 - Steven Spielberg
-- Monique Ruff-Bell
 products_models: []
 project:
 - historical-insights

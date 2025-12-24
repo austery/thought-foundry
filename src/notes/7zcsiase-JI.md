@@ -14,7 +14,6 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- Galiqi
 - Elon Musk
 products_models:
 - Bitcoin

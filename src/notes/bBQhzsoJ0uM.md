@@ -43,13 +43,8 @@ media_books:
 - Silicon Valley
 - 《Apple in China》
 people:
-- Peter Walker
 - Sam Altman
-- Jack Altman
-- Molly O'Shea
 - Ben Thompson
-- Henry Ward
-- Startup L. Jackson
 products_models:
 - ChatGPT
 - OKit

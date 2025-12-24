@@ -17,11 +17,8 @@ people:
 - Donald Trump
 - Ketanji Brown Jackson
 - Amy Coney Barrett
-- Sonia Sotomayor
-- Antonin Scalia
 - John Roberts
 - Clarence Thomas
-- Neil Gorsuch
 products_models: []
 project:
 - us-analysis

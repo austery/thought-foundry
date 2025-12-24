@@ -30,12 +30,10 @@ layout: post.njk
 media_books:
 - The Washington Post
 people:
-- Zoran Mamdani
 - Donald Trump
 - Gavin Newsom
 - Rick Scott
 - Pete Hegsth
-- Vladimir Zilinski
 - David Ellison
 - Larry Ellison
 - Elon Musk

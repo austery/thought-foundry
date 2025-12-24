@@ -14,14 +14,6 @@ media_books:
 - The Hitchhiker's Guide to the Galaxy
 people:
 - Derek Muller
-- Johnny Hyman
-- Raquel
-- Yvonne Tello
-- Peter Lebedev
-- Grant Lewis
-- Alice
-- Brady Haran
-- Manjula Sharma
 products_models:
 - Macbook Pro
 - GoPro Hero4

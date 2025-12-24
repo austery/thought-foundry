@@ -15,10 +15,7 @@ people:
 - Joe Biden
 - Kamala Harris
 - Donald Trump
-- Greg Abbott
 - Natalie Kitroof
-- Chris Lavell
-- Bashar al-Assad
 products_models:
 - CBP1
 project:

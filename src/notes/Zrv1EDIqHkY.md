@@ -17,25 +17,8 @@ media_books:
 - Introdutio Arithmetica
 - The Largest Prime number of 2017
 people:
-- Piergiorgio Odifreddi
 - Euclid
-- Nicomachus
-- Ibn Fallus
-- Marin Mersenne
-- Pierre de Fermat
-- Rene Descartes
-- Christian Goldbach
 - Leonhard Euler
-- William Dunham
-- Peter Barlow
-- Edouard Lucas
-- Frank Nelson Cole
-- Raphael Robinson
-- George Woltman
-- John Pace
-- Carl Pomerance
-- Pace Nielsen
-- Michael Rao
 products_models:
 - SWAC
 project:

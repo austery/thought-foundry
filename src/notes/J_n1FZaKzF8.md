@@ -13,9 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Footfall
-people:
-- Jerry Pournelle
-- Adam Savage
 products_models:
 - Sputnik
 - ICBM

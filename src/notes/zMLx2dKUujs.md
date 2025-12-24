@@ -12,7 +12,6 @@ media_books:
 - Learned Helplessness
 - Inferiority and Transcendence
 people:
-- Adler
 - Mencius
 - Ichiro Kishimi
 products_models: []

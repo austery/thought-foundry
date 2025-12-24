@@ -17,9 +17,6 @@ media_books:
 - 《增长数据分析手册》
 - 《Hooked》
 - 《Growth Hacker》
-people:
-- 李孟颖
-- Joe Kumar
 products_models:
 - AI builders
 - Snowpeak

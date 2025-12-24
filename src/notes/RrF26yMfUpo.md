@@ -36,9 +36,6 @@ people:
 - Michael Lewis
 - Michael Burry
 - Steve Eisman
-- Vinnie Daniel
-- Greg Lippmann
-- Bill Dallas
 - Charlie Munger
 - Warren Buffett
 products_models: []

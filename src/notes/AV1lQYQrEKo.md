@@ -16,8 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Maria
 products_models:
 - LLM
 - AI models

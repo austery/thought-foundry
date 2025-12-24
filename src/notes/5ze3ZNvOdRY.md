@@ -26,8 +26,6 @@ insight: ''
 layout: post.njk
 people:
 - Gavin Baker
-- David George
-- Andre Carpathy
 - Jensen Huang
 - Elon Musk
 - Mark Zuckerberg

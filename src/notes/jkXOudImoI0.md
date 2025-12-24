@@ -15,15 +15,11 @@ layout: post.njk
 media_books:
 - Protagoras
 people:
-- Dan Shipper
 - Socrates
-- Protagoras
 - Plato
 - Descartes
 - Newton
-- Galileo
 - Herbert Simon
-- Alan Newell
 - Freud
 - Eliezer Yudkowsky
 products_models:

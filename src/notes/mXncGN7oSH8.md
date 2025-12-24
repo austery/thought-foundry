@@ -26,12 +26,9 @@ media_books:
 - 《伯恩斯坦研究公司报告》
 - 《五角大楼中国军力报告》
 people:
-- Gregory Allen
-- Oriana Skyler-Mastro
 - Donald Trump
 - Sanae Takaichi
 - Jensen Huang
-- Ma Huateng
 - Li Qiang
 products_models:
 - GPT-4

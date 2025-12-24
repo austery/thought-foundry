@@ -43,8 +43,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 硅谷101播客
-people:
-- 东子
 products_models: []
 project:
 - china-analysis

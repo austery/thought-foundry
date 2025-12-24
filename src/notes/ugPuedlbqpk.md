@@ -21,10 +21,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- David Johnson
 - Jill Weisenthal
 - Tracy Alloway
-- Brian Marcel
 - Paul McCartney
 products_models:
 - Chapter 11 bankruptcy

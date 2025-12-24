@@ -18,8 +18,6 @@ people:
 - Mark Carney
 - Peter Bethlenfalvy
 - John Michael McGrath
-- Karen Renkema
-- Brian Baron
 products_models:
 - Skills Development Fund
 - Union Training and Innovation Program

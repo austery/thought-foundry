@@ -20,18 +20,10 @@ media_books:
 - 《三体》
 - 《我们的孩子：美国梦的危机》
 people:
-- 徐熙媛
 - 蔡英文
-- 蔡依林
 - 郑爽
-- Matthew Perry
 - 张国荣
-- 贾宏声
-- 汪小菲
-- 张兰
 - 刘慈欣
-- 曾国祥
-- Robert Putnam
 products_models: []
 project:
 - cultural-critique

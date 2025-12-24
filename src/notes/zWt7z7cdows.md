@@ -22,32 +22,11 @@ layout: post.njk
 media_books:
 - Rembrandt as Educator
 people:
-- Chu Li-lun
-- Song Jianliang
-- Maurice Barrès
-- Mazzini
-- Julius Langbehn
-- Rembrandt
-- Goethe
-- Le Bon
-- Mussolini
 - Hitler
-- Adorno
-- Giovanni Gentile
-- Hans von Seeckt
 - Chiang Kai-shek
-- Chiang Wei-kuo
-- Hu Gui
-- William Kirby
 - Karl Marx
-- Pierre Drieu La Rochelle
-- Gertrud Scholtz-Klink
-- Ernst Rohm
 - Donald Trump
 - Elon Musk
-- Jason Stanley
-- Marci Shore
-- Timothy Snyder
 products_models: []
 project:
 - geopolitics-watch

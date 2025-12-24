@@ -28,13 +28,6 @@ people:
 - Nicolás Maduro
 - Sergei Ryabkov
 - J.D. Vance
-- Hideo Tarumi
-- Lin Jian
-- Huang Qifan
-- Mette Frederiksen
-- Jeff Landry
-- Kristi Noem
-- Charles Koch
 products_models:
 - S&P 500 Index
 project:

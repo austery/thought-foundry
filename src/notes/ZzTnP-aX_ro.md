@@ -16,8 +16,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Leeann Cole
-- David Bosveld
 - George Floyd
 products_models:
 - Bill 33

@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Ray Dalio
-- Gu Chaoming
-- Carney
 products_models: []
 project:
 - us-analysis

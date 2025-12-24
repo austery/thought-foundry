@@ -28,8 +28,6 @@ insight: ''
 layout: post.njk
 media_books:
 - A framework for pricing AI products
-people:
-- Chandler
 products_models:
 - Serenity Notebook
 - Aura AI

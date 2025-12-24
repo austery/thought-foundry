@@ -14,15 +14,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Doug McMillon
-- Sam Walton
-- Lee Scott
-- Rob Walton
-- Daniel Danker
-- Suresh Kumar
-- Liore Arussy
-- Gavin Dia
-- Ginger Tay
 - Adi Ignatius
 products_models:
 - ChatGPT

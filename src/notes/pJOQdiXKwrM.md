@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《The Daily Beast》
-people:
-- Laxman Narasimhan
 products_models:
 - Deep Brew
 project:

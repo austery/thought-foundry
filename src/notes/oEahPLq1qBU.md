@@ -15,7 +15,6 @@ people:
 - Sarah Paine
 - Donald Trump
 - Vladimir Putin
-- Hugo Grotius
 - Adolf Hitler
 - Joe Biden
 products_models:

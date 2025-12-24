@@ -21,9 +21,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Rundown
-people:
-- David Wolfe
-- Stephany Lapierre
 products_models: []
 project:
 - us-analysis

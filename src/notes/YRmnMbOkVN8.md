@@ -15,13 +15,7 @@ layout: post.njk
 media_books:
 - 《匹配》
 people:
-- 叶晓阳
-- 丁彦青
-- 伯格利
-- Jacob Mincer
 - 王阳明
-- 胡旭龙
-- 王小波
 products_models:
 - 敏瑟方程
 project:

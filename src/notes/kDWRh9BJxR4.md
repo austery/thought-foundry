@@ -18,29 +18,13 @@ media_books:
 - 《朝霞》
 - 《我們是誰？新時代台灣人的道路》
 people:
-- 黃紀
-- 郭子靖
-- Steven Levitsky
-- Daniel Ziblatt
-- John C. Calhoun
-- Mehdi Hasan
 - Charlie Kirk
-- Victor Cousin
-- Ozaki Yukio
-- Akutagawa Ryunosuke
-- Yoshino Sakuzo
-- Abe Jiro
-- 李登輝
-- 坂本尚志
 - Karl Marx
-- Alain
 - Aristotle
 - Friedrich Nietzsche
-- Martin Heidegger
 - Jean-Paul Sartre
 - René Descartes
 - Immanuel Kant
-- Arthur Schopenhauer
 products_models: []
 project:
 - us-analysis

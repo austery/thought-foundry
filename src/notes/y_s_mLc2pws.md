@@ -27,8 +27,6 @@ layout: post.njk
 people:
 - Warren Buffett
 - Charlie Munger
-- Chaleo Yoovidhya
-- Dietrich Mateschitz
 products_models: []
 project:
 - investment-strategy

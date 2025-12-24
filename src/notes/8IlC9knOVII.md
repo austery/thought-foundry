@@ -15,8 +15,6 @@ media_books:
 - 庄也杂谈
 people:
 - 庄也
-- 庄也的老爹
-- 小孙
 products_models:
 - 利普妥
 - 甲硝唑

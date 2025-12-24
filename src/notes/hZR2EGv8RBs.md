@@ -23,23 +23,15 @@ media_books:
 people:
 - Donald Trump
 - 马云
-- 李子阳
 - 柴静
-- 王小洪
 - Xi Jinping
 - 毛泽东
 - 李克强
 - 胡耀邦
 - 周恩来
 - 彭德怀
-- 太宰治
 - 鲁迅
-- 孙歌
-- 汪晖
 - 刘仲敬
-- 玉木一郎
-- 李小牧
-- 唐百芬
 products_models: []
 project:
 - china-analysis

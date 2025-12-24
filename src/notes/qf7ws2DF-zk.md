@@ -17,14 +17,8 @@ media_books:
 - Alice in Wonderland
 people:
 - Kenneth Arrow
-- Condorcet
-- Jean-Charles de Borda
-- Ramon Llull
-- Charles Dodgson
-- Duncan Black
 - Al Gore
 - George W. Bush
-- Ralph Nader
 - Winston Churchill
 products_models: []
 project:

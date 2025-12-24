@@ -21,14 +21,9 @@ people:
 - George W. Bush
 - Bill Clinton
 - James Comey
-- Letitia James
-- John Kelly
-- Reince Priebus
 - Steve Bannon
 - Ivanka Trump
 - Jared Kushner
-- Mick Mulvaney
-- Vipul
 products_models: []
 project:
 - us-analysis

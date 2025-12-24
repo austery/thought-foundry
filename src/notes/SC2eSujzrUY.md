@@ -16,13 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Roy J. Plunkett
-- Marc Gregoire
-- Earl Tennant
-- Rob Bilott
-- Sandra Tennant
-- John Gotti
 products_models:
 - Teflon
 - Gore-Tex

@@ -26,12 +26,8 @@ people:
 - Mark Carney
 - Pierre Poilievre
 - Doug Ford
-- Tonda Morales
 - John Michael McGrath
 - Brian Stewart
-- Birhan Woldu
-- Bob Geldof
-- Anthony Feinstein
 products_models:
 - OnPoli podcast
 - Darlington Small Modular Reactor

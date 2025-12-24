@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Anabela Bonada
 products_models:
 - National Adaptation Strategy
 project:

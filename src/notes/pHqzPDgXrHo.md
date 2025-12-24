@@ -18,17 +18,13 @@ media_books:
 - The Daily
 people:
 - Rachel Abrams
-- Kim Barker
-- David Sanger
 - Volodymyr Zelenskyy
 - Vladimir Putin
 - Jared Kushner
-- Steve Witoff
 - JD Vance
 - Marco Rubio
 - Donald Trump
 - Friedrich Merz
-- Ralph Abraham
 - Robert F. Kennedy Jr.
 products_models:
 - Tylenol

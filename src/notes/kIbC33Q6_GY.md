@@ -15,9 +15,7 @@ media_books:
 - 《中国共产党纪律处分条例》
 people:
 - Xi Jinping
-- 成吉思汗
 - 努尔哈赤
-- 王汗
 - 泽连斯基
 - 马云
 products_models: []

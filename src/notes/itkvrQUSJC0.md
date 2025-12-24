@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - Satya Nadella
-- Chan
-- fault-tolerant-computing
 products_models:
 - Majorana 1
 project:

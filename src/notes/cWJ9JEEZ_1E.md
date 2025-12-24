@@ -21,9 +21,6 @@ media_books:
 - 《龙鬚沟》
 - 《习近平谈治国理政》
 people:
-- 冯唐
-- 大张伟
-- 鹿晗
 - Xi Jinping
 - 李嘉诚
 products_models:

@@ -10,7 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - amit-kukreja
-- jerome-powell
 products_models: []
 project:
 - ai-impact-analysis

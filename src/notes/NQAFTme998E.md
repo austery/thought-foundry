@@ -18,24 +18,10 @@ media_books:
 - Riyadh Comedy Festival
 people:
 - John Candy
-- Paul Myers
-- Dan Aykroyd
-- Valerie Bramfield
-- Gilda Radner
 - Mike Myers
-- Eugene Levy
-- Dave Thomas
-- Joe Flaherty
-- Wayne Gretzky
-- Robin Duke
-- John Hemphill
-- Don Lake
-- Catherine Greenwood
-- Andrea Martin
 - Stephen Colbert
 - Jimmy Kimmel
 - Charlie Kirk
-- Seth Meyers
 - Barack Obama
 products_models:
 - SCTV

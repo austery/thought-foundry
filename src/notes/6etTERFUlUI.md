@@ -8,11 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Fritz Zwicky
-- Vera Ruben
-- Kent Ford
-- Albert Bosma
 products_models:
 - DAMA/LIBRA
 project:

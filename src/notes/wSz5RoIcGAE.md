@@ -33,12 +33,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Jonathan Qiu
-- Christine
-- 刘一鸣
 - Elon Musk
 - 李飞飞
-- Brooks
 products_models:
 - NEO
 - Optimus

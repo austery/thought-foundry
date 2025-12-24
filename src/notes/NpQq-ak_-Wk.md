@@ -23,13 +23,8 @@ media_books:
 - Chicago Board of Trade versus Christi
 - Discord Takes Care of Itself
 people:
-- Tarek Mansour
-- John Delaney
-- Jeff Yass
 - Tracy Alloway
 - Joe Weisenthal
-- John Wooden
-- Terry Duffy
 products_models:
 - 0DTE Options
 project:

@@ -31,14 +31,7 @@ media_books:
 people:
 - Donald Trump
 - Jensen Huang
-- Liza Tobin
-- Aaron Bartnik
-- Gary Hufbauer
-- John Moolenaar
-- Raja Krishnamoorthi
-- Stacy Rasgon
 - Tim Cook
-- Hugo Chavez
 products_models:
 - Nvidia H20
 - AMD AI Chips

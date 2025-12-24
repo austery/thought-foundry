@@ -16,7 +16,6 @@ layout: post.njk
 media_books:
 - Stack Overflow
 people:
-- 石扬
 - Andrej Karpathy
 - Steve Jobs
 products_models:

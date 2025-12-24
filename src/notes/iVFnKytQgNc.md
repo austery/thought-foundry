@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《一席》
-people:
-- 郝南
 products_models: []
 project:
 - historical-insights

@@ -16,11 +16,8 @@ media_books:
 - Oliver Twist
 - Money in Macro Talks
 people:
-- Gary Stevenson
-- Gabriel Zucman
 - Angus Deaton
 - Daron Acemoglu
-- Charles Dickens
 products_models:
 - Gary's Economics
 - Desk Rates podcast

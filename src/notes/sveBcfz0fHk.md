@@ -25,7 +25,6 @@ media_books:
 people:
 - Daniel Yergin
 - John D. Rockefeller
-- George Mitchell
 - Theodore Roosevelt
 - Winston Churchill
 - Vladimir Putin

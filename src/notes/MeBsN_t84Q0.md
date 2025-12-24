@@ -14,9 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Economist
-people:
-- Hazard Fernandes Villafuerte
-- Yi Fuxian
 products_models: []
 project:
 - china-analysis

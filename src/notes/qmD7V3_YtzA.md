@@ -11,7 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Charlie Herrera Vacuor
 - Charlie Kirk
 products_models:
 - Poly

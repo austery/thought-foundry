@@ -8,19 +8,6 @@ draft: true
 guest: ''
 insight: null
 layout: post.njk
-people:
-- Ralph J. ABRY
-- Aporna DENEKARAN
-- Laurent
-- Steve Morren
-- Tuana Çelik
-- Paige Bailey
-- Neil ZEGHDOUD
-- Yann Lechelle
-- Emil Eifrem
-- Tushar Jain
-- Martin Woodward
-- Andreas Blattmann
 products_models: []
 project:
 - ai-impact-analysis

@@ -15,11 +15,8 @@ media_books:
 - game-hosting
 - game-recommendation
 people:
-- James Austin
-- Christine Sirette
 - Kyra Blackwell
 - Rosie Garin
-- Joel Foglano
 products_models:
 - Rhino Hero Super Battle
 - First Orchard

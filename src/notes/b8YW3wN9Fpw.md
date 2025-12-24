@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- intellectual-persecution
 companies_orgs:
 - 清华大学
 - 北京大学
@@ -22,36 +24,16 @@ media_books:
 - 《红旗杂志》
 - 《科学通报》
 people:
-- 叶企孙
-- 叶哲泰
-- 布里奇曼
-- 梅贻琦
-- 叶明汉
-- 赵九章
-- 彭小萌
 - 宋彬彬
 - 毛泽东
 - 林彪
-- 蒋南翔
-- 戴念祖
-- 肯布尔
 - 吴晗
-- 吴兴华
 - 李政道
-- 华罗庚
-- 钱三强
-- 马大猷
-- 熊大缜
 - 钱学森
 - 周恩来
 - 刘少奇
 - 江青
 - 张春桥
-- 饶毓泰
-- 胡伯威
-- 郭电邦
-- 钱临照
-- 范叶
 products_models:
 - 三体
 - 红岸基地
@@ -71,8 +53,6 @@ tags:
 - political-violence
 - scientific
 title: 中国物理学泰斗叶企孙的文革悲剧：一位科学家的独立与毁灭
-companies:
-- intellectual-persecution
 ---
 
 ### 《三体》原型与叶企孙的真实人生

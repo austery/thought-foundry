@@ -17,18 +17,8 @@ media_books:
 - 《反恐主义》
 people:
 - 柴静
-- Osama Hassan
-- Suhail
-- Chi Shi
 - David
-- Benyatou
-- Mawa
 - Emily
-- Mohamed Baqiri
-- Latifa
-- George Cox
-- Ahmed Aboutaleb
-- Mohammed Merah
 products_models: []
 project:
 - geopolitics-watch

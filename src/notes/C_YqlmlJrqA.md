@@ -20,9 +20,6 @@ layout: post.njk
 media_books:
 - 知网
 people:
-- Altman
-- 李开复
-- 汤道生
 - 乔布斯
 products_models:
 - Atlas

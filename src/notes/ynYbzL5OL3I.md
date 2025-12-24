@@ -17,23 +17,10 @@ media_books:
 - 《安達魯之犬》
 - colonial-discourse
 people:
-- Jake Sully
-- Neytiri
-- Grace Augustine
-- Selfridge
-- Edward B. Tylor
-- Colin Calloway
 - Benjamin Franklin
-- Gayatri Spivak
-- Paul Frommer
-- Martin Jay
 - Plato
 - René Descartes
-- Theodor W. Adorno
 - Donald Trump
-- Suzanne Simard
-- Marc Bekoff
-- Erysichthon
 products_models: []
 project:
 - geopolitics-watch

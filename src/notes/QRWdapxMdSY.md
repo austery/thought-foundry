@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Boris Bogatin
-- Tufik Pubz
 products_models:
 - Large Language Models
 - GP2

@@ -34,14 +34,8 @@ layout: post.njk
 people:
 - Satya Nadella
 - Dylan Patel
-- Scott Guthrie
-- Raj Reddy
 - Mustafa Suleyman
-- Karen Simonyan
-- Amar Subramanya
-- Nando de Freitas
 - Jensen Huang
-- Amy Hood
 - Sam Altman
 - David Sacks
 products_models:

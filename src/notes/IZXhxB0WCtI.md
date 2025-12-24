@@ -17,18 +17,13 @@ people:
 - John Locke
 - Aristotle
 - Thomas Hobbes
-- Robert Boyle
 - Jean-Jacques Rousseau
 - Karl Marx
-- C.B. Macpherson
 - Benjamin Franklin
 - Thomas Jefferson
 - James Madison
 - Jeremy Bentham
 - John Rawls
-- G.A. Cohen
-- Domenico Losurdo
-- James II
 - Plato
 products_models: []
 project:

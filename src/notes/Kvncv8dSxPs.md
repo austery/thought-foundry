@@ -25,8 +25,6 @@ media_books:
 - Big Technology Podcast
 people:
 - Sam Altman
-- 织田和男
-- 周受资
 products_models:
 - GPT-4
 - ChatGPT

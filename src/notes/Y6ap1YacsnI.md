@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Abdullah Nobar
-- Kelsey Han
 products_models: []
 project:
 - us-analysis

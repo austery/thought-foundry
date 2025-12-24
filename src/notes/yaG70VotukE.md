@@ -13,8 +13,6 @@ insight: ''
 layout: post.njk
 media_books: []
 people:
-- Brian Greenbaum
-- Andrew Ing
 - Mark
 products_models:
 - Cursor

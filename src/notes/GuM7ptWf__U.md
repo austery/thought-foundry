@@ -15,7 +15,6 @@ people:
 - Saddam Hussein
 - Adolf Hitler
 - Joseph Stalin
-- Linda
 products_models: []
 project:
 - personal-growth-lab

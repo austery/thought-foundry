@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- MacArthur
-- Prime Minister Yoshida
 products_models: []
 project:
 - us-analysis

@@ -18,10 +18,6 @@ media_books:
 people:
 - Kent Beck
 - Martin Fowler
-- Steve Mellor
-- Uncle Bob
-- Walter Shewhart
-- Edwards Deming
 products_models:
 - eXtreme Programming (XP)
 - Scrum

@@ -20,9 +20,6 @@ media_books:
 - The Apprentice
 people:
 - Mark Carney
-- Sebastian Stan
-- Kate Blanchett
-- Jeremy Strong
 products_models:
 - Squid Game
 project:

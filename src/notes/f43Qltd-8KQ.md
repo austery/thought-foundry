@@ -18,22 +18,11 @@ media_books:
 - 禁书笔记
 people:
 - 蒋介石
-- 卫立煌
-- 廖耀湘
 - 李宗仁
-- 刘峙
-- 杜聿明
-- 黄维
 - 陈诚
 - 白崇禧
-- 刘伯承
 - 邓小平
-- 黄百韬
-- 粟裕
-- 张治中
 - 孙立人
-- 彭杰如
-- 板垣征四郎
 products_models: []
 project:
 - china-analysis

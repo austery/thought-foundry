@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 范亞萱
-- 盈荃
 products_models: []
 project:
 - personal-growth-lab

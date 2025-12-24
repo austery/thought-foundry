@@ -13,8 +13,6 @@ layout: post.njk
 media_books:
 - How I Learned to Jump Higher than LeBron James
 people:
-- Nico Christie
-- Robert
 - LeBron James
 products_models:
 - Shortcut

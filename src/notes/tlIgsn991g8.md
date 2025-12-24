@@ -30,8 +30,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Scott Bent
-- Adam Jonas
 - Elon Musk
 products_models:
 - CyberCab

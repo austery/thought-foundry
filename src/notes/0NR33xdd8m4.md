@@ -20,14 +20,9 @@ media_books:
 - 《纽约时报》
 people:
 - Immanuel Kant
-- G.W.F. Hegel
 - Simone de Beauvoir
 - Aristotle
-- Paul the Apostle
-- Cai Xukun
 - Jean-Paul Sartre
-- Friedrich Engels
-- 汪民安
 products_models: []
 project:
 - historical-insights

@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Eileen
-- Jerald
 products_models: []
 project: []
 series: ''

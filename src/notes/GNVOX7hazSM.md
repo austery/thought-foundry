@@ -13,7 +13,6 @@ media_books:
 - 《金融时报》
 - 《财新周刊》
 people:
-- Marlene Ames
 - John Roberts
 - Ketanji Brown Jackson
 - Joe Biden

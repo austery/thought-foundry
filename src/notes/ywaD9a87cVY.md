@@ -22,11 +22,6 @@ media_books:
 - The Wall Street Journal
 people:
 - Jonathan Haidt
-- Tristan Harris
-- Frances Haugen
-- Sean Parker
-- Nicholas Christakis
-- Yasuko Minoura
 - Steve Jobs
 products_models:
 - iPhone 4

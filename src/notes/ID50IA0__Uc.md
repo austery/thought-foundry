@@ -17,12 +17,6 @@ media_books:
 - Modern Love
 people:
 - Anna Martin
-- Megan Fley
-- Andrea Gibson
-- Katie
-- Chris Perka
-- Michael Singer
-- Eckhart Tolle
 products_models: []
 project:
 - personal-growth-lab

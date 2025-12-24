@@ -14,12 +14,6 @@ media_books:
 - Looney Tunes
 - ACDC
 people:
-- Alfred Nobel
-- Ludwig Nobel
-- Immanuel Nobel
-- Ascanio Sobrero
-- Tsar Nicholas I
-- Bertha Kinsky
 - Theodore Roosevelt
 - J. Robert Oppenheimer
 - Henry

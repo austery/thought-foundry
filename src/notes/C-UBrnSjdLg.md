@@ -14,12 +14,8 @@ layout: post.njk
 media_books:
 - 《ICML2024》
 people:
-- 吴翼
-- 杰弗里·辛顿
 - Stuart Russell
-- 姚期智
 - Yoshua Bengio
-- 张亚勤
 products_models:
 - GPT-4
 - LeNet

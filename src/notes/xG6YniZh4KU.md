@@ -11,7 +11,6 @@ media_books:
 - 《复杂社会的崩溃》
 - 《智人之上》
 people:
-- Joseph Tainter
 - Isaac Newton
 - Charles Darwin
 - Albert Einstein

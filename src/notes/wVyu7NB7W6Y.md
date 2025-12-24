@@ -16,22 +16,10 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Linus
 - Derek
 - Steve Jobs
 - Steve Wozniak
-- Princess Latifa
-- Sheikh Mohammed
-- Tiina
-- Hervé Jaubert
-- Karsten Nohl
-- Alexandre De Oliveira
 - James
-- Yvonne
-- Sarah
-- Crofton Black
-- Ted Lieu
-- Tobias Engel
 products_models:
 - Blue Box
 - Pegasus

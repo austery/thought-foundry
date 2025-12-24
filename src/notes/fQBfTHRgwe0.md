@@ -28,7 +28,6 @@ media_books:
 people:
 - Xi Jinping
 - 高善文
-- 王德培
 products_models:
 - 零公里二手车
 project:

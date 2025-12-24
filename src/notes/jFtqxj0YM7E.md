@@ -21,13 +21,7 @@ media_books:
 people:
 - Donald Trump
 - Benjamin Netanyahu
-- Ali Khamenei
-- Hassan Rouhani
-- Mahmoud Ahmadinejad
-- Qasem Soleimani
 - Barack Obama
-- 阿里
-- 萨敏
 products_models:
 - Tomahawk
 - GBU-57 MOP

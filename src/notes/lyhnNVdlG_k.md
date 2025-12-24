@@ -29,10 +29,6 @@ media_books:
 people:
 - Xi Jinping
 - 金正恩
-- 王健林
-- 于法新
-- 朱江南
-- 利兹里
 - Donald Trump
 products_models:
 - F-35战机

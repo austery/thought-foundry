@@ -11,11 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Nikolai Tangen
-- Peter Burling
-- Blair Tuke
-- Ben Ainslie
-- Nathan Outteridge
-- Guy Endean
 products_models:
 - America's Cup
 - 49er

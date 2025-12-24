@@ -17,9 +17,6 @@ layout: post.njk
 media_books:
 - Star Trek
 people:
-- Naveen Rao
-- Alex Honnold
-- Steph Curry
 - Yann LeCun
 - analog-computing
 products_models:

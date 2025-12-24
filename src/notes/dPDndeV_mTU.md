@@ -11,9 +11,6 @@ people:
 - Sarah Paine
 - FDR
 - Hitler
-- Tojo
-- Takahashi Korekiyo
-- Prince Konoe
 products_models: []
 project: []
 series: ''

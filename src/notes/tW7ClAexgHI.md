@@ -15,9 +15,7 @@ media_books:
 - The Checklist Manifesto
 - Being Mortal
 people:
-- Atul Gawande
 - Roger Federer
-- Itzhak Perlman
 products_models: []
 project:
 - personal-growth-lab

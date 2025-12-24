@@ -13,8 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Big Hero 6
-people:
-- Zach Hammond
 products_models: []
 project:
 - ai-impact-analysis

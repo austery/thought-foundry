@@ -38,7 +38,6 @@ people:
 - Mike Wilson
 - Tom Lee
 - Jeffrey Gundlach
-- Jesse Felder
 - Sundar Pichai
 - Sam Altman
 - Donald Trump

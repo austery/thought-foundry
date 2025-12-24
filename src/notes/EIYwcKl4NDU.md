@@ -30,18 +30,11 @@ layout: post.njk
 media_books:
 - 《性别歧视的新时代》
 people:
-- Alex Boris
 - Joe Weisenthal
 - Tracy Alloway
-- Jerry Nadler
-- George Conway
-- Jack Schlober
 - Donald Trump
-- Mark Andre
-- Joe Lansdale
 - Greg Brockman
 - Eric Adams
-- John Rivera
 products_models:
 - GPT-4
 - BERT

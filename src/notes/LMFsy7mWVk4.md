@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《谁来决定吃什么》
-people:
-- 陈宇慧
 products_models: []
 project:
 - cultural-critique

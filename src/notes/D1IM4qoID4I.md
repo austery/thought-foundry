@@ -10,9 +10,6 @@ layout: post.njk
 media_books:
 - 《一个无政府主义者的意外死亡》
 - Accidental Death of an Anarchist
-people:
-- Dario Fo
-- Giuseppe Pinelli
 products_models: []
 project:
 - systems-thinking

@@ -19,19 +19,7 @@ media_books:
 people:
 - Socrates
 - Jesus
-- 岳飞
 - Plato
-- Crito
-- Xanthippe
-- Aristophanes
-- Strepsiades
-- Alcibiades
-- Critias
-- Charmides
-- Anytus
-- Meletus
-- Jacques-Louis David
-- socrates-death
 products_models: []
 project:
 - historical-insights

@@ -1,6 +1,8 @@
 ---
 area: tech-insights
 category: technology
+companies:
+- meta-neuro-symbolic-rl
 companies_orgs:
 - Command Code
 - Langbase
@@ -15,9 +17,7 @@ media_books:
 - stateofiagents.com
 - Stack Overflow
 people:
-- Ahmad Awais
 - Greg Brockman
-- Tanner Linsley
 products_models:
 - GPT-3
 - ChatGPT
@@ -47,8 +47,6 @@ tags:
 - continuous-learning
 - developer-preference
 title: Command Code：一个能学习你编程品味的AI编码代理
-companies:
-- meta-neuro-symbolic-rl
 ---
 
 ### 介绍Command Code：一个有“品味”的AI编码代理

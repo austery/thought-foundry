@@ -17,7 +17,6 @@ media_books:
 people:
 - 唐石峻
 - Mark Benioff
-- Ot
 products_models:
 - F-35闪电战机
 - C-130大力神运输机

@@ -14,7 +14,6 @@ media_books:
 - The Rundown
 people:
 - Alexandra Samuel
-- Jeyan
 products_models:
 - ChatGPT
 - Viv

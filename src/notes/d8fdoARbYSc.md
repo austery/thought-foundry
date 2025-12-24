@@ -14,38 +14,9 @@ media_books:
 - Dai Chuu Nagon Monogatari
 - Kokon Chomonshu
 people:
-- Muzan Kibutsuji
-- Kocho Shinobu
-- Doma
-- Agatsuma Zenitsu
-- Gyutaro
-- Kamado Tanjiro
-- Tomioka Giyu
-- Akaza
-- Audre Lorde
 - Carl Jung
-- Kaigaku
-- Ryomen Sukuna
-- Kidomaru
-- Hantengu
-- Yanagita Kunio
-- Lev Mechnikov
-- Koshihara Sho
-- Urokodaki Sakonji
 - Leo Tolstoy
-- Peter Kropotkin
-- Arishima Takeo
-- Thich Quang Duc
-- Rengoku Kyojuro
-- Kokushibo
-- Herbert Spencer
-- Kaneko Kentarō
-- Itō Hirobumi
-- Kamado Nezuko
-- Daki
-- Tokito Muichiro
 - Rui
-- Koyuki
 products_models:
 - Youlisn K-song Bluetooth speaker
 project:

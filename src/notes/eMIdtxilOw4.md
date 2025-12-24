@@ -21,7 +21,6 @@ insight: ''
 layout: post.njk
 people:
 - Jensen Huang
-- Dwaresh Patel
 - Andrej Karpathy
 products_models:
 - MBUX

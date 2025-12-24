@@ -15,9 +15,7 @@ media_books:
 - Chosun Ilbo
 people:
 - Ichiro Kishimi
-- Alfred Adler
 - Michel Foucault
-- Pol Pot
 - Jean-Jacques Rousseau
 - Immanuel Kant
 - Friedrich Nietzsche

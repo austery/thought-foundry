@@ -33,13 +33,6 @@ media_books:
 - No Silver Bullets
 - What Got You Here Won't Get You There
 people:
-- Steve McConnell
-- Jeff Atwood
-- Joel Spolsky
-- Dave Parnes
-- John Ousterhout
-- Larry Constantine
-- Michael Hashimoto
 - Fred Brooks
 - Simon Willison
 - Kent Beck

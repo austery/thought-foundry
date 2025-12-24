@@ -10,9 +10,6 @@ file_name: stock_tokenization_invest_pre_ipo_spacex.md
 guest: ''
 insight: null
 layout: post.njk
-people:
-- Hellen
-- 秦瀚
 products_models: []
 project:
 - investment-strategy

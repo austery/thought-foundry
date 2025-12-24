@@ -17,12 +17,8 @@ media_books:
 - 《上海味道》
 - 《台北味道》
 people:
-- 欧阳应霁
 - 李强
 - 刘德华
-- Peter B
-- 父亲
-- 母亲
 products_models: []
 project:
 - cultural-critique

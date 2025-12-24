@@ -20,11 +20,8 @@ media_books:
 - Great Expectations
 people:
 - Sal Khan
-- Nadia
-- Benjamin Bloom
 - Greg Brockman
 - Sam Altman
-- Nicholas Kristoff
 - Aristotle
 - Alexander the Great
 products_models:

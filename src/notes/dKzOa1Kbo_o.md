@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - youtube-creator
-people:
-- mr-beast
 products_models: []
 project:
 - entrepreneurship

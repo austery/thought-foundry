@@ -12,12 +12,6 @@ layout: post.njk
 media_books:
 - 《判断人心：一位资深FBI特工的行为预测用户手册》
 people:
-- Robin Dreeke
-- Lenny Hatton
-- John O'Neill
-- 李大眼
-- 王歪嘴
-- 徐晓东
 - Ronald Reagan
 products_models:
 - 行为分析项目

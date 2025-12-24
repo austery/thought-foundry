@@ -10,10 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - James Clerk Maxwell
-- John Henry Poynting
-- William Thomson
-- Heaviside
-- Fitzgerald
 products_models:
 - Caséta by Lutron
 - Alexa

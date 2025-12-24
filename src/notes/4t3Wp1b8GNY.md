@@ -18,7 +18,6 @@ people:
 - Sam Altman
 - Demis Hassabis
 - Andrej Karpathy
-- Yan Junjie
 products_models:
 - Claude Code
 - Gemini 3

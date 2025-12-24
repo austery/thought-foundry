@@ -11,9 +11,7 @@ guest: ''
 insight: null
 layout: post.njk
 people:
-- Eric Tarczynski
 - Dylan Patel
-- Guido Appenzeller
 products_models: []
 project:
 - ai-impact-analysis

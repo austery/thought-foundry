@@ -15,7 +15,6 @@ media_books:
 - The Atlantic
 - Novum Organum
 people:
-- Jason Crawford
 - Tyler Cowen
 - Patrick Collison
 - Francis Bacon
@@ -23,10 +22,8 @@ people:
 - Alexander the Great
 - Henry Ford
 - Rousseau
-- Carl Becker
 - Steve Jobs
 - Elon Musk
-- Paul Romer
 products_models:
 - ChatGPT
 - mRNA-based vaccines

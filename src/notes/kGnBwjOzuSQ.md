@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - the-knowledge-project-podcast
-people:
-- warren-buffett
 products_models: []
 project:
 - entrepreneurship

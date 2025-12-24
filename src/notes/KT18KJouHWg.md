@@ -16,9 +16,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Brilliant
-people:
-- Joseph James DeAngelo
-- Paul Holes
 products_models:
 - CODIS
 - Family Finder

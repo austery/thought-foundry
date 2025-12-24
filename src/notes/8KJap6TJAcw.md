@@ -20,9 +20,6 @@ people:
 - Xi Jinping
 - 李克强
 - 周永康
-- 令计划
-- 徐才厚
-- 郭伯雄
 - 毛泽东
 - 邓小平
 - 雍正
@@ -31,11 +28,8 @@ people:
 - 温家宝
 - 薄熙来
 - 李强
-- 胡春华
 - 蔡英文
-- Joseph Fewsmith
 - Victor Shih
-- 蔡文轩
 products_models: []
 project:
 - china-analysis

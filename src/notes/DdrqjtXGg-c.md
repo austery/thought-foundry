@@ -15,8 +15,6 @@ media_books:
 people:
 - Confucius
 - Li Shimin
-- Liu Bei
-- Cao Cao
 - Kant
 - Rogers
 products_models: []

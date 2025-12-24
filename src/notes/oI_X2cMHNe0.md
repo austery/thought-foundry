@@ -14,13 +14,6 @@ media_books:
 - Matter and Interactions
 people:
 - Derek Muller
-- Richard Abbott
-- Ben Watson
-- Chabay
-- Sherwood
-- Rick Hartley
-- Alpha Phoenix
-- ZY
 products_models:
 - HFSS
 - VPython

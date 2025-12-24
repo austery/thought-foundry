@@ -51,9 +51,6 @@ media_books:
 people:
 - Jose
 - Tom Lee
-- Scott Galloway
-- Charles Birdsy
-- Derek Wall
 - Larry Ellison
 - Jensen Huang
 - Justin

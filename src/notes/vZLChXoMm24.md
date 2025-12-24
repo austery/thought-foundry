@@ -25,29 +25,9 @@ media_books:
 - 《超人总动员2》
 people:
 - Adam Grant
-- Csikszentmihalyi
-- Mike Lazaridis
 - Steve Jobs
-- David Dunning
-- Justin Kruger
-- Russell
-- Halla Tómasdóttir
-- David Oddsson
-- Ted Kaczynski
-- Andrew Lyne
-- Brad Bird
-- Neil Rackham
-- Harish Natarajan
-- Jeffrey Ashby
-- Daryl Davis
-- Peter Coleman
-- Daniel Goleman
 - Jordan Peterson
-- Robert Nozick
 - Jimmy Kimmel
-- Elizabeth Olsen
-- Samuel Jackson
-- Anderson Cooper
 products_models:
 - iPod
 project:

@@ -12,11 +12,6 @@ media_books:
 - 《无欲望社会》
 - 《债务危机》
 - 《浅析日本失去的30年》
-people:
-- 游梦
-- 顾朝明
-- 达利欧
-- 徐小年
 products_models: []
 project:
 - china-analysis

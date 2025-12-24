@@ -14,8 +14,6 @@ layout: post.njk
 media_books:
 - Gloves Off
 people:
-- Luis Blle
-- Steven Marsh
 - Donald Trump
 - Justin Trudeau
 products_models: '[]'

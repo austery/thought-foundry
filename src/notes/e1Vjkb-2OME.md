@@ -17,7 +17,6 @@ layout: post.njk
 media_books:
 - 《金钱心理学》
 people:
-- Brian Niccol
 - Bill Ackman
 - Michael Burry
 - Carl Icahn

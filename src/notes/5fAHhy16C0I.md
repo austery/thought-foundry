@@ -39,9 +39,6 @@ people:
 - Nancy Pelosi
 - 郭文贵
 - 毛泽东
-- 福山
-- 佐科·维多多
-- 普拉博沃
 products_models: []
 project:
 - us-analysis

@@ -7,9 +7,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 賴清德
 - 蔡英文
-- 馬英九
 project:
 - china-analysis
 series: ''

@@ -10,7 +10,6 @@ layout: post.njk
 media_books:
 - by-night-in-chile
 people:
-- roberto-bolano
 - stella-an
 products_models: []
 project: []

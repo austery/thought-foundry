@@ -81,7 +81,6 @@ people:
 - Chuck Schumer
 - Donald Trump
 - Mike Johnson
-- Jeremy Siegel
 - Tom Lee
 - Brad Gerstner
 - Andy Jassy
@@ -90,7 +89,6 @@ people:
 - Mark Zuckerberg
 - Vlad Tenev
 - Jamie Dimon
-- Cathy Wood
 - Michael Burry
 - Sam Altman
 products_models:

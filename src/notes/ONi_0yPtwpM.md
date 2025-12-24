@@ -25,8 +25,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 小翠时政财經
-people:
-- 张近东
 products_models:
 - PPTV
 project:

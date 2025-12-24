@@ -17,23 +17,14 @@ insight: ''
 layout: post.njk
 people:
 - Xi Jinping
-- 何卫东
-- 苗华
 - 张又侠
-- 许其亮
-- 魏凤和
-- 王厚斌
-- 徐锡胜
-- 钟绍军
 - 毛泽东
 - 邓小平
 - 江泽民
 - 华国锋
 - 杨尚昆
-- 杨白冰
 - 赵紫阳
 - 李强
-- 蔡声琨
 products_models:
 - 东风-41
 - 歼-20

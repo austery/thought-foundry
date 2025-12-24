@@ -16,7 +16,6 @@ media_books:
 - Idiocracy
 people:
 - Andrej Karpathy
-- Dwarkesh Patel
 - Richard Sutton
 products_models:
 - Claude

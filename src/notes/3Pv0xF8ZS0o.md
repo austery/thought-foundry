@@ -41,13 +41,11 @@ media_books:
 - Barron's
 people:
 - Michael Burry
-- Chuck Robbins
 - Ray Dalio
 - Howard Marks
 - Donald Trump
 - Charlie Munger
 - Warren Buffett
-- Monish Pabrai
 - Brad Gersonner
 - Tom Lee
 - Benjamin Graham

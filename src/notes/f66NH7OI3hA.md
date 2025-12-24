@@ -29,15 +29,10 @@ people:
 - Mark Carney
 - Pierre Trudeau
 - Justin Trudeau
-- Brian Mulroney
 - Jean Chrétien
 - Stephen Harper
-- Jason Kenney
 - Danielle Smith
-- Tamara Lich
 - Joe Biden
-- Poilievre
-- Alice Redford
 products_models:
 - National Energy Program
 - Keystone XL pipeline

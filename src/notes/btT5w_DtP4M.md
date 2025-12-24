@@ -16,7 +16,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Hun Shin
 - Jamie Dimon
 - Vladimir Putin
 products_models:

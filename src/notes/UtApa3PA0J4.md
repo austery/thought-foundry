@@ -13,10 +13,6 @@ layout: post.njk
 media_books:
 - Why do good People Make Bad decisions?
 - Commonsense Sceptic
-people:
-- David McWilliams
-- Bent Flyvbjerg
-- Ed Miliband
 products_models:
 - HS2
 - Hinkley Point C

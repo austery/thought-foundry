@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Richard Weiss
 products_models:
 - Claude
 - Claude 4.5 Opus

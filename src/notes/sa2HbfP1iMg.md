@@ -7,9 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- john-mcwhorter
-- richard-dawkins
 products_models: []
 project: []
 series: ''

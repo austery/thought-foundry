@@ -13,9 +13,6 @@ media_books:
 - 《一周书》
 - 《红楼梦》
 - 《明清社会性爱风气》
-people:
-- 吴存纯
-- Michael Rosenfeld
 products_models: []
 project:
 - geopolitics-watch

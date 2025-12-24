@@ -26,20 +26,14 @@ media_books:
 - 《江宁婆婆》
 people:
 - 户晨风
-- 夸克
 - 夏河
 - 王志安
 - 罗永浩
-- 于敏洪
 - 董宇辉
 - Xi Jinping
-- 习明泽
 - 吴京
 - 秦晖
-- 黄明志
 - 孟晚舟
-- 郑刚
-- 张明
 products_models:
 - iPhone
 - 华为

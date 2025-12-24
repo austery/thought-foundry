@@ -10,11 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- David Kipping
-- Frank Drake
-- Nicholas Copernicus
-- Freeman Dyson
-- Michael Hart
 - Galileo Galilei
 products_models:
 - Voyager 1

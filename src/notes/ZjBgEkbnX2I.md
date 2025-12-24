@@ -16,7 +16,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Eli Dourado
 - Sergey Brin
 products_models:
 - Hindenberg

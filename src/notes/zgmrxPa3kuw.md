@@ -19,27 +19,7 @@ media_books:
 - 《睾酮：一部未经授权的传记》
 - 《性别检测：女子体育中的性别规训》
 people:
-- 林郁婷
-- Kailifu
-- JK Rowling
-- Pierre de Coubertin
-- Alice Milliat
-- Renji Renji
-- Helen Stephens
-- Stella Walsh
-- Irina Press
-- Tamara Press
-- Ewa Kłobukowska
-- Kirsten Wengler
-- Maria José Martínez-Patiño
-- 王军霞
-- PattiSue Plumer
-- Shane Gould
-- Santhi Soundarajan
-- Caster Semenya
-- Elisa Cusma
 - Michael Phelps
-- 潘展乐
 products_models: []
 project:
 - geopolitics-watch

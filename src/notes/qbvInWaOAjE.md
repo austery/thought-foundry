@@ -26,7 +26,6 @@ layout: post.njk
 media_books:
 - 《The Daily Beast》
 people:
-- Kris
 - Kevin
 - Warren Buffett
 - Charlie Munger

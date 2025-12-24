@@ -9,14 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Paul Erdos
-- Jeffrey Lagarias
-- Alex Kontorovich
-- Yakov Sinai
-- Riho Terras
-- Terry Tao
-- George Polya
-- C. Brian Haselgrove
 - John Conway
 products_models:
 - FRACTRAN

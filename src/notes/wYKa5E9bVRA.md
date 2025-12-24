@@ -16,7 +16,6 @@ layout: post.njk
 media_books:
 - Judgment at Tokyo
 people:
-- David Schwimmer
 - Nikola Tangen
 - Jack Ma
 products_models:

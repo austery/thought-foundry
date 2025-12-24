@@ -10,8 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 魏醫師
-- 廚師漢克
 - 宋晏仁醫師
 products_models:
 - Shakshuka

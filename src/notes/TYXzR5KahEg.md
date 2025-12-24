@@ -16,14 +16,9 @@ media_books:
 - 'Talk: The Science of Conversation and the Art of Being Ourselves'
 - The New York Times
 people:
-- Allison Wood Brooks
-- Stephen
-- Juliana Pillmer
-- Julian Treasure
 - David Sacks
 - Jonathan Haidt
 - Angela Duckworth
-- Matt Gensko
 products_models:
 - Gemini Flash
 project:

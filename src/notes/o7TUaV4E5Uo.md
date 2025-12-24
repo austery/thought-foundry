@@ -22,11 +22,9 @@ layout: post.njk
 media_books:
 - OddLots podcast
 people:
-- Travis Kavulla
 - Joe Weisenthal
 - Tracy Aloway
 - Ian Dunning
-- Sager and Jetty
 products_models:
 - GPT6
 project:

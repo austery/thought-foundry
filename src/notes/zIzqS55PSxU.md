@@ -17,12 +17,9 @@ media_books:
 - Global Policy
 - 《战争论》
 people:
-- Alexandre Kojève
 - Karl Marx
 - George Soros
-- Michael Cox
 - Donald Trump
-- Carl von Clausewitz
 - Napoleon
 products_models: []
 project:

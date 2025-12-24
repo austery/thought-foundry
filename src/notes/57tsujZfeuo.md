@@ -9,10 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《追随昆虫》
-people:
-- 杨小峰
-- 付晓东
-- 吴俊
 products_models: []
 project:
 - cultural-critique

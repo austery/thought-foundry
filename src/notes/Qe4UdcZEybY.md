@@ -14,10 +14,6 @@ media_books:
 - 《简·爱》
 - 《天生有罪》
 - 《十岁那年》
-people:
-- 蓝方
-- 崔娃
-- 波洛
 products_models: []
 project:
 - cultural-critique

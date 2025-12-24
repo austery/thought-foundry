@@ -12,7 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Zohran Mamdani
-- Jen Hassam
 products_models: []
 project:
 - us-analysis

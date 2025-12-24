@@ -12,8 +12,6 @@ media_books:
 - Attachment in Psychotherapy
 people:
 - Anthony
-- Bowlby
-- Main
 products_models:
 - ChatGPT
 - Gemini

@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Timm Chiusano
 products_models: []
 project:
 - personal-growth-lab

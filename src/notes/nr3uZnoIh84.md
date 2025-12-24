@@ -13,20 +13,11 @@ media_books:
 - 《政治学和比较宪法学》
 people:
 - Samuel Huntington
-- Eliot Cohen
-- Gideon Rose
 - Francis Fukuyama
-- Fareed Zakaria
 - Max Weber
 - J.D. Vance
 - Abraham Lincoln
-- Richard Tawney
-- G.K. Chesterton
-- Frank Hankins
-- John Burgess
-- Hamilton Eckenrode
 - Marjorie Taylor Greene
-- Kevin McCarthy
 products_models:
 - 《我们是谁》
 - 《乡下人悲歌》

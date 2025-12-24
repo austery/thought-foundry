@@ -10,7 +10,6 @@ layout: post.njk
 people:
 - Louis Althusser
 - Pierre Bourdieu
-- Slavoj Žižek
 products_models: []
 project:
 - china-analysis

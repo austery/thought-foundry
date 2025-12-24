@@ -49,7 +49,6 @@ people:
 - Sundar Pichai
 - Jerome Powell
 - Michael Burry
-- Aswath Damodaran
 - Larry Summers
 - David Sacks
 - Greg Brockman

@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- tony-seba
 products_models: []
 project:
 - investment-strategy

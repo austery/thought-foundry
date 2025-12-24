@@ -17,8 +17,6 @@ media_books:
 - 《在轮下》
 people:
 - 安争鸣
-- 赫尔曼·黑塞
-- 博尔特
 products_models: []
 project:
 - personal-growth-lab

@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 霍华德·马克思
 products_models: []
 project:
 - investment-strategy

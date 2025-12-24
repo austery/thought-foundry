@@ -17,8 +17,6 @@ people:
 - Christine Sir Cleette
 - Kyra Blackwell
 - Rosie Garren
-- Nick Offerman
-- Doug Mahoney
 products_models:
 - 12vt DeWalt
 - circular saw

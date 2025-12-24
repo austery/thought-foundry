@@ -27,12 +27,7 @@ media_books:
 - 财新
 - 《法治政府蓝皮书》
 people:
-- 徐志永
-- 杨冰
-- 孙志刚
 - 温家宝
-- 周模英
-- 孙大午
 - 柴静
 products_models: []
 project:

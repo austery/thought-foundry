@@ -34,8 +34,6 @@ media_books:
 - Vibe Physics
 people:
 - Elon Musk
-- Benn Jordan
-- Angela Collier
 products_models:
 - ChatGPT
 - Claude

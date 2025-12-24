@@ -1,6 +1,8 @@
 ---
 area: null
 category: null
+companies:
+- intellectual
 companies_orgs: []
 date: '2025-07-19'
 draft: true
@@ -8,9 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- jean-paul-sartre
-- leo-tolstoy
-- paul-johnson
 - stella-an
 products_models: []
 project: []
@@ -22,8 +21,6 @@ summary: 保罗·约翰逊的《知识分子》一书，通过揭示托尔斯泰
 tags:
 - philosophy
 title: 《知识分子》：揭开托尔斯泰与萨特等思想巨匠的道德假面
-companies:
-- intellectual
 ---
 
 ### 现代社会的缔造者：知识分子的光环与争议

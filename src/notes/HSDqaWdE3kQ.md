@@ -17,16 +17,11 @@ media_books:
 people:
 - Dalton McGuinty
 - John Turner
-- Bob Ray
 - David Peterson
-- Terry McGuinty
-- Michael McGuinty
 - Joe Cordiano
-- Jory Kennedy
 - Mike Harris
 - John Tory
 - Ernie Eves
-- Steven Harper
 - Jeremy Bentham
 - Bill Davis
 products_models: []

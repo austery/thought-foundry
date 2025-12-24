@@ -32,9 +32,6 @@ media_books:
 people:
 - Xi Jinping
 - Powell
-- Musk
-- Zuckerberg
-- Wang Tao
 products_models:
 - OCI
 - TPU

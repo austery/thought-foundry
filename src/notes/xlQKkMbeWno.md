@@ -15,7 +15,6 @@ media_books:
 - 'October 7th: Searching for the Humanitarian Middle.'
 - Kiss the Red Stairs
 people:
-- Marsha Lederman
 - Benjamin Netanyahu
 products_models: []
 project:

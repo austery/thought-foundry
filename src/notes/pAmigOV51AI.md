@@ -72,9 +72,6 @@ people:
 - Bill Ackman
 - Vlad Tenev
 - Elon Musk
-- Brandon Ehrhart
-- Robyn Denholm
-- Steven Hawk
 - Tom Lee
 products_models:
 - TPU

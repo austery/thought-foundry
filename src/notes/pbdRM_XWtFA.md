@@ -17,17 +17,9 @@ media_books:
 people:
 - 李克强
 - 柴静
-- 陶景周
-- 龚祥瑞
-- 张伟
-- 王军涛
-- 李少明
-- 李鸿林
 - 胡耀邦
-- 张志新
 - 邓小平
 - 约翰·洛克
-- 贝多芬
 products_models: []
 project:
 - china-analysis

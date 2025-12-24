@@ -15,9 +15,7 @@ media_books:
 - The Illusion of Paradise
 - Lex Fridman Podcast
 people:
-- Pavel Durov
 - Lex Fridman
-- Nikolai Durov
 products_models:
 - VK
 project:

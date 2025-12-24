@@ -23,13 +23,9 @@ media_books:
 - PTV News Lab (2023) 週休三日簽下去過門檻！台灣成亞洲首個週休三日國家？
 - 世界衛生組織報告
 people:
-- Andrew Barnes
-- Jason Fried
 - Steve Jobs
 - Jack Ma
 - Elon Musk
-- Christin Munsch
-- Ella
 products_models:
 - Emma床墊
 - Hybrid床墊

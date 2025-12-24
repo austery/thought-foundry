@@ -20,8 +20,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《The Daily Beast》
-people:
-- CEO
 products_models:
 - Creative Cloud
 - Photoshop

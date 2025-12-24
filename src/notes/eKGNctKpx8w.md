@@ -23,9 +23,7 @@ media_books:
 people:
 - Tracy Aloway
 - Joe Weisenthal
-- Andy Kaden
 - Kerman Rodriguez
-- Dashbot
 - Kalebrooks
 products_models:
 - Basque cheesecake

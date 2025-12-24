@@ -18,11 +18,9 @@ media_books:
 - 天下杂志
 - 悲伤的5个阶段
 people:
-- 梁家河
 - 蒋介石
 - Donald Trump
 - 赖清德
-- 库伯勒-罗丝
 products_models:
 - 微晶片
 - 半导体

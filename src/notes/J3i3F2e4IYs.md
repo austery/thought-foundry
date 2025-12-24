@@ -16,12 +16,6 @@ people:
 - Tom Brady
 - Derek Muller
 - Henry
-- Ricky
-- Claude-Etienne Minie
-- Jerry Rice
-- Joe Montana
-- Steve Young
-- Phillip
 products_models:
 - Musket
 - Minie bullet

@@ -16,10 +16,8 @@ people:
 - Will Jarvis
 - Gavin Newsom
 - Donald Trump
-- Somini Sengupta
 - Nicholas Maduro
 - Marco Rubio
-- Gene Shaheen
 - Mike Johnson
 - Tracy Mumford
 products_models: []

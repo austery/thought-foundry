@@ -16,9 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Huang Yuanjun
-- Alex Yao
 products_models:
 - Qwen
 - WAN 2.6

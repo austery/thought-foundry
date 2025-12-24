@@ -11,9 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Alixandra Barasch
-- Judy Weiser
 products_models: []
 project:
 - personal-growth-lab

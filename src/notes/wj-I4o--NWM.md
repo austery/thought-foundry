@@ -21,11 +21,9 @@ people:
 - JD Vance
 - Marco Rubio
 - Elon Musk
-- King Tut
 - Dick Cheney
 - George W. Bush
 - Zoran Mandani
-- William J. Gainor
 products_models: []
 project:
 - us-analysis

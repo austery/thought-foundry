@@ -20,8 +20,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Pragmatic Engineer
-people:
-- Johannes Doss
 products_models:
 - npm
 - GPT-4

@@ -15,8 +15,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 毛弘仁
-- 姜成翰
 - Sam Altman
 products_models:
 - GPT-3

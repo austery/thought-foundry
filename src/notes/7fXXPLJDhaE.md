@@ -13,11 +13,6 @@ layout: post.njk
 media_books:
 - 《Cell》期刊
 - 《万万黴想到》
-people:
-- 邓雯心医师
-- 王伟全医师
-- Neil Nathan
-- Dr. Jill Crista
 products_models:
 - 降黴十八香
 project:

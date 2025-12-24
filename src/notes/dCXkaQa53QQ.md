@@ -12,7 +12,6 @@ layout: post.njk
 media_books:
 - Sufficiently Advanced
 people:
-- Allen Pan
 - Derek Muller
 products_models:
 - Nitro Cold Brew

@@ -33,21 +33,15 @@ media_books:
 - The Washington Post
 people:
 - Sam Altman
-- Kevin Seu
-- Jacob Silverman
 - Elon Musk
 - Peter Thiel
-- Saffra Catz
 - Ginni Rometty
 - David Sacks
-- Doug Leone
 - Marc Andreessen
 - Kamala Harris
 - Donald Trump
-- Max Chaffkin
 - Gavin Newsom
 - Chesa Boudin
-- Gil Duran
 - JD Vance
 products_models:
 - ChatGPT

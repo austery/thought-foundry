@@ -35,11 +35,8 @@ media_books:
 - The Pragmatic Engineer
 - Weapons
 people:
-- Michelle Lim
 - Mark Zuckerberg
-- Stewart Butterfield
 - Zach
-- Nathan Sobo
 products_models:
 - Facebook University
 - Android

@@ -21,15 +21,7 @@ people:
 - Justin Trudeau
 - Mark Carney
 - Narendra Modi
-- Shannon Gormley
-- Akos Maharaj
-- Rohinton Madora
 - Donald Trump
-- Hardeep Singh Nijjar
-- Jim Hinton
-- Dan Surriak
-- Paul Martin
-- Manmohan Singh
 products_models:
 - Feminist International Assistance Policy
 project:

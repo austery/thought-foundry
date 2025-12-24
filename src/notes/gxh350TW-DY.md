@@ -13,9 +13,6 @@ media_books:
 - The Pillow Book
 - On Cuteness
 - Konjaku Monogatarishu
-people:
-- Sei Shonagon
-- Shihoda Inuhiko
 products_models:
 - Red Alert 3
 - Yuriko

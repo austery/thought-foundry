@@ -14,8 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《莊也雜談》
-people:
-- Melissa Lantsman
 products_models:
 - MCCQE
 - NAC

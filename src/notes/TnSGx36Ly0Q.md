@@ -15,8 +15,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Mark Myshatyn
 products_models:
 - Maniac 1
 - GraceHopper

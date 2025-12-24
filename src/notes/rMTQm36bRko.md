@@ -24,7 +24,6 @@ layout: post.njk
 people:
 - 黄仁勋
 - Elon Musk
-- Hans Moravec
 - Yann LeCun
 products_models:
 - Optimus robot

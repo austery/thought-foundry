@@ -32,12 +32,6 @@ media_books:
 - The Pragmatic Engineer
 - Write Useful Books
 - Unsavory Truth
-people:
-- Laura Tacho
-- Greg KH
-- Jesse Adams
-- Rob Fitzpatrick
-- Marian Nestle
 products_models:
 - GitHub Copilot
 - Claude

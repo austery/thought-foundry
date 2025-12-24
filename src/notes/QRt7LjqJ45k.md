@@ -8,11 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- David Sinclair
-- Yamanaka
-- Steve Horvath
-- Barbra Streisand
 products_models:
 - NMN
 - NAD

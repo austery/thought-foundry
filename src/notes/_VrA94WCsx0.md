@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- intellectual-responsibility
 companies_orgs:
 - 中央电视台
 - 检察院
@@ -15,11 +17,6 @@ media_books:
 - 《废墟夕阳》
 people:
 - 柴静
-- 熊召政
-- 野夫
-- 刘主席
-- 冯亦代
-- 英若诚
 products_models: []
 project:
 - china-analysis
@@ -35,8 +32,6 @@ tags:
 - informant-case
 - political-persecution
 title: 柴静访熊召政：六四告密案、历史真相与知识分子的沉默
-companies:
-- intellectual-responsibility
 ---
 
 ### 开场与采访缘由

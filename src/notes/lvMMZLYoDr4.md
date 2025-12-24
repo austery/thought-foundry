@@ -9,8 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Jonathan
-- Monte
 - Evan
 - Ben
 products_models:

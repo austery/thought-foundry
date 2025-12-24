@@ -18,8 +18,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Niccolo
 products_models:
 - Willow量子计算芯片
 project:

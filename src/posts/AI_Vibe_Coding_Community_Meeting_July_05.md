@@ -1,30 +1,29 @@
 ---
-title: AI Vibe Coding 社区讨论会纪要0705
-summary: null
 area: tech-insights
+author: Lei
 category: technology
-project:
-- vibe-coding
-tags:
-- llm
-- vibe-coding
+channel: null
+companies_orgs: []
+date: '2025-07-06'
+guest: ''
+insight: null
+layout: post.njk
 people:
-- Dusing
 - Amy
 - Ray
 - Jay
 - Vincent
-companies_orgs: []
 products_models: []
-date: '2025-07-06'
-author: Lei
-speaker: ''
-channel: null
-guest: ''
-insight: null
-layout: post.njk
+project:
+- vibe-coding
 series: null
 source: null
+speaker: ''
+summary: null
+tags:
+- llm
+- vibe-coding
+title: AI Vibe Coding 社区讨论会纪要0705
 ---
 
 ## 开场与社区未来展望

@@ -20,7 +20,6 @@ media_books:
 - 彭博社
 people:
 - Sam Altman
-- Fidji Simo
 products_models:
 - GPT-5.2
 - GPT-5.1

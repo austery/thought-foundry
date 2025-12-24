@@ -24,12 +24,9 @@ layout: post.njk
 people:
 - Donald Trump
 - Lula
-- Kassym-Jomart Tokayev
 - Xi Jinping
 - Narendra Modi
-- Bahadur Kumar
 - Jair Bolsonaro
-- Joseph Stiglitz
 products_models:
 - Euro
 - BRICS Coin

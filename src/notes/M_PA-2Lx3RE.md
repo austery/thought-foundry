@@ -12,14 +12,6 @@ people:
 - Annie Duke
 - Danny Kahneman
 - Amos Tversky
-- Rob Hall
-- Doug Hansen
-- G. Garvey
-- Murphy
-- Woodcock
-- Alex Emus
-- Bers
-- Milkman
 products_models:
 - Prospect Theory
 project:

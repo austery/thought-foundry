@@ -22,14 +22,9 @@ people:
 - Sam Altman
 - Elon Musk
 - Mira Murati
-- Brad
 - Greg Brockman
-- Jason Wang
 - Helen Toner
-- Tasha McCauley
 - Dario Amodei
-- Daniela Amodei
-- Joseph Gordon-Levitt
 - Adam D'Angelo
 - Satya Nadella
 products_models:

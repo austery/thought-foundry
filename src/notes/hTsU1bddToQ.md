@@ -8,7 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Tonda Morales
 - John Michael McGrath
 - Justin Trudeau
 - Donald Trump

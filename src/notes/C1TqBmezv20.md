@@ -13,10 +13,7 @@ media_books:
 - Mona Lisa
 - James Bond novels
 people:
-- Christoph Lassner
 - Michelangelo
-- Ian Fleming
-- James Bond
 products_models:
 - GPT-3
 project:

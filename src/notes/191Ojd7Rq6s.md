@@ -23,7 +23,6 @@ media_books:
 - The Emperor's New Mind
 people:
 - Adam D'Angelo
-- Amjad Masad
 - Peter Thiel
 - Roger Penrose
 products_models:

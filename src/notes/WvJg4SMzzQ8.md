@@ -23,27 +23,10 @@ media_books:
 - The Courage to Be Disliked
 - Atomic Habits
 people:
-- Jim Murphy
-- Shane Parrish
-- Brent Beshore
 - Tom Brady
 - Michael Phelps
-- David Foster Wallace
-- Jerry Seinfeld
-- Shane Claiborne
-- Bill Strickland
-- AJ Brown
-- Ricky Scruggs
-- Tim Keller
-- Brian Urlacher
-- Lewis Gordon Pugh
 - James Clear
-- Teddy Scott
-- Scottie Scheffler
 - Daniel Kahneman
-- Nick Osborne
-- Emily Balcetis
-- Simon Sinek
 products_models:
 - Aura Ring
 - Whoop

@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- William
 products_models:
 - Portland cement
 project:

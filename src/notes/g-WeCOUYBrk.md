@@ -30,10 +30,7 @@ media_books:
 - Pirates of Silicon Valley
 people:
 - Marc Andreessen
-- Amjad Masad
-- John Carmack
 - Fred Brooks
-- Grace Hopper
 - Andrej Karpathy
 - Richard Sutton
 - Paul Krugman

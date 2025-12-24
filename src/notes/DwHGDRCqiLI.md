@@ -22,9 +22,6 @@ media_books:
 - W Supremacy
 - Right Kind of Wrong
 people:
-- Peter Harrison
-- Bruno Schroder
-- Richard Oldfield
 - Jens Stoltenberg
 - Jonathan Haidt
 - Amy Edmondson

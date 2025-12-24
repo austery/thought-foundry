@@ -8,13 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Bobby
-- Mike Phelps
-- Milorad Cavic
-- Chad le Clos
-- Scott Page
-- Elena Ferrante
 products_models:
 - linear-models
 - neural-networks

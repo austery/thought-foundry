@@ -27,11 +27,9 @@ people:
 - Barack Obama
 - Robert F. Kennedy Jr.
 - Stephen Hawking
-- Andrew Prince
 - Ehud Barak
 - Ted Cruz
 - Nick Fuentes
-- Acosta
 - Ghislaine Maxwell
 products_models: '[]'
 project:

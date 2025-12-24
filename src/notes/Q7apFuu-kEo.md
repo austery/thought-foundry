@@ -12,9 +12,6 @@ media_books:
 - 《The Daily Beast》
 people:
 - 唐石峻
-- Elon
-- 科比
-- Doctor Andrew Huberman
 products_models: []
 project:
 - personal-growth-lab

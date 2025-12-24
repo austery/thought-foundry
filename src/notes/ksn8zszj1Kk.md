@@ -15,9 +15,6 @@ layout: post.njk
 media_books:
 - 《你问对问题了吗？》
 - 《第三选择》
-people:
-- 彼得·杜拉克
-- 江南春
 products_models: []
 project:
 - personal-growth-lab

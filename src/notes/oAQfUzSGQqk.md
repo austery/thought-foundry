@@ -32,16 +32,7 @@ media_books:
 - 微信公众号
 people:
 - Michael Jordan
-- Kobe Bryant
-- Logan Paul
 - Vincent
-- 大白
-- Victor Wembanyama
-- Cooper Flagg
-- Boozer Brothers
-- Tyrese Haliburton
-- Reggie Miller
-- Jordan Poole
 - Kevin Durant
 products_models:
 - 'Magic: The Gathering'

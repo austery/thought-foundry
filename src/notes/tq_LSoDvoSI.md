@@ -16,13 +16,11 @@ media_books:
 - South Park
 people:
 - Peter Thiel
-- Tim Ferris
 - Elon Musk
 - Bill Gates
 - Larry Page
 - Sergey Brin
 - Mark Zuckerberg
-- Eric Cartman
 - Charlie Kirk
 products_models: []
 project:

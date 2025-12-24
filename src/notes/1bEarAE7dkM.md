@@ -22,7 +22,6 @@ media_books:
 - Panama Papers
 people:
 - Nikolai Tangen
-- Rachel Botsman
 - James Clear
 products_models:
 - ChatGPT

@@ -11,12 +11,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Robert Waldinger
-- Julianne Holt-Lunstad
 - Daniel Kahneman
 - Angus Deaton
-- Matthew Killingsworth
-- Barbara Mellers
 products_models: []
 project:
 - personal-growth-lab

@@ -11,7 +11,6 @@ layout: post.njk
 media_books:
 - 《沉默石》
 people:
-- 梁彦增
 - 余华
 - 莫言
 products_models: []

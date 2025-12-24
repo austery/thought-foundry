@@ -55,33 +55,7 @@ media_books:
 - The Babadook
 people:
 - Gilbert Cruz
-- Joe Hill
-- Victor LaValle
-- Shirley Jackson
 - Stephen King
-- Michael Koryta
-- Anthony Horowitz
-- Keith Rosson
-- Tananarive Due
-- John Bellairs
-- Edward Gorey
-- Eleanor Vance
-- Dr. Montigue
-- Theo
-- Luke
-- Lewis Barnvelt
-- Jude
-- Patty Smith
-- Paul Reiser
-- Bill Paxton
-- Jason Voorhees
-- Bugs Bunny
-- Daffy Duck
-- Moe
-- Curly
-- Leatherface
-- Moulder
-- Scully
 products_models: []
 project:
 - cultural-critique

@@ -18,7 +18,6 @@ media_books:
 people:
 - 刘宗坤
 - 伍雷
-- 陈宜中
 - 蒋经国
 - Xi Jinping
 - 孙中山
@@ -33,7 +32,6 @@ people:
 - Joe Biden
 - Dwight D. Eisenhower
 - John F. Kennedy
-- Antonio Gramsci
 - 李鸿章
 - 达赖喇嘛
 products_models: []

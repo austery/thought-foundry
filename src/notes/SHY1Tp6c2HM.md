@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - 毛泽东
-- 扁鹊
-- 蔡桓公
 products_models: []
 project:
 - china-analysis

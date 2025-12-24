@@ -9,12 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Brandon Birchak
 - Derek
-- Aleix Segura
-- Branko Petrovic
-- Budimir Sobat
-- Melissa
 products_models: []
 project:
 - personal-growth-lab

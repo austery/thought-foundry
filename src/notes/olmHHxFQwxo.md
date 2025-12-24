@@ -22,13 +22,6 @@ media_books:
 - 《科学》
 - 《自然》
 people:
-- George Church
-- Feng Zhang
-- Eric Drexler
-- Floyd Romesberg
-- Joe Davis
-- Alex Rich
-- Neil Gershenfeld
 - David Reich
 products_models:
 - CRISPR

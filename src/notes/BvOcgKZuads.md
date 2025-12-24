@@ -13,10 +13,6 @@ layout: post.njk
 media_books:
 - 《第二轮班》
 - 《性别与社会》
-people:
-- Paula England
-- Arlie Hochschild
-- 简敏仪
 products_models: []
 project:
 - cultural-critique

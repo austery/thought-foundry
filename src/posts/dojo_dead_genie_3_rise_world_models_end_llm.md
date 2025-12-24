@@ -1,32 +1,31 @@
 ---
-title: Dojo已死，Genie 3当立：世界模型将终结大语言模型？
-summary: 本文深入探讨了特斯拉突然终止Dojo项目的决策，分析了其从自研芯片向采用英伟达方案的战略转变。对话进一步延伸至当前大语言模型的局限性，并重点讨论了以Google
-  Genie 3为代表的“世界模型”作为下一代AI架构的巨大潜力，尤其是在具身智能和机器人领域的应用前景。
 area: null
+author: Lei
 category: null
-project: []
-tags:
-- llm
-- technology
-people:
-- 主持人
-- 老修
-- 闲哥
+channel: ''
 companies_orgs:
 - 特斯拉
-products_models:
-- dojo
 date: 2025-08-17
-author: Lei
-speaker: ''
-channel: ''
 draft: true
 file_name: dojo_dead_genie_3_rise_world_models_end_llm.md
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 主持人
+- 老修
+products_models:
+- dojo
+project: []
 series: ''
 source: ''
+speaker: ''
+summary: 本文深入探讨了特斯拉突然终止Dojo项目的决策，分析了其从自研芯片向采用英伟达方案的战略转变。对话进一步延伸至当前大语言模型的局限性，并重点讨论了以Google
+  Genie 3为代表的“世界模型”作为下一代AI架构的巨大潜力，尤其是在具身智能和机器人领域的应用前景。
+tags:
+- llm
+- technology
+title: Dojo已死，Genie 3当立：世界模型将终结大语言模型？
 ---
 
 ## 特斯拉Dojo项目终结：战略聚焦还是撤退？

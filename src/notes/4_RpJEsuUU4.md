@@ -18,11 +18,8 @@ media_books:
 - Radical Uncertainty
 - The Power of Us
 people:
-- Judy Marks
 - Nicolai Tangen
-- Tony Malcin
 - Adena Friedman
-- Elijah Otis
 - Ben Franklin
 products_models: []
 project:

@@ -26,10 +26,8 @@ media_books:
 - Odd Lots
 - Bloomberg Podcasts
 people:
-- Terry Duffy
 - Tracy Alloway
 - Joe Weisenthal
-- Sam Bankman-Freed
 - Howard Lutnik
 products_models:
 - E-Minis

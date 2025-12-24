@@ -29,7 +29,6 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-- Rush Doshi
 - Joseph Torigian
 - 毛泽东
 products_models:

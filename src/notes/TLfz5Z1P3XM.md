@@ -24,22 +24,14 @@ people:
 - Stephen Miller
 - Alexandria Ocasio-Cortez
 - Donald Trump
-- Katie Miller
-- Jesse Watters
 - Mike Tyson
 - Mike Pence
 - Pam Bondi
-- Katy Britt
 - Charlie Kirk
-- J.B. Pritzker
-- Richard
-- Ellen
 - Jessica
-- Timothy Snyder
 - Lenin
 - Stalin
 - George H.W. Bush
-- Nixon
 products_models: []
 project:
 - us-analysis

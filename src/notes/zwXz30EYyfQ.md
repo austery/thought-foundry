@@ -18,11 +18,6 @@ insight: ''
 layout: post.njk
 media_books:
 - novel-discovery
-people:
-- Joseph Krauss
-- Kevin Ryan
-- Jorge
-- Herd Cedar
 products_models:
 - AlphaGo
 project:

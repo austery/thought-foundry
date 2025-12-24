@@ -21,11 +21,8 @@ media_books:
 - Odd Lots
 - Cumberland Mines
 people:
-- Don Wilson
 - Tracy Alloway
 - Joe Weisenthal
-- Shane Copeland
-- ai-commodity
 products_models:
 - Eurodollar option
 - IBC

@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- hu-hanmin
 products_models: []
 project:
 - ai-impact-analysis

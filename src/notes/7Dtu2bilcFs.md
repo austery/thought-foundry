@@ -31,23 +31,8 @@ media_books:
 - State of DevOps research
 - DORA study
 people:
-- Steve Yegge
-- Gene Kim
-- Andrew Glover
 - Jeff Bezos
-- Rick Dalzell
-- Adrian Cockcroft
-- Dr. Nicole Forsgren
-- Jez Humble
 - Dario Amodei
-- Dr. Eric Meyer
-- Jordan Hubard
-- Bruno Passos
-- Shri Balakrishnan
-- Dr. Top Pal
-- Swathy
-- John Rouseer
-- Roger Safner
 - Kent Beck
 products_models:
 - Cloud Code

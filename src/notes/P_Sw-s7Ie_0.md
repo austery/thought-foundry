@@ -14,8 +14,6 @@ layout: post.njk
 people:
 - Doug Ford
 - Mark Winfield
-- Davis
-- Wynne
 products_models:
 - Small Modular Reactor
 project:

@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: culture
+companies:
+- intellectual-property
 companies_orgs: []
 date: '2025-11-30'
 draft: true
@@ -11,8 +13,6 @@ media_books:
 - 《繁花》
 people:
 - 王家卫
-- 秦文
-- 谷二
 - 老尹
 - 索隆
 products_models: []
@@ -31,8 +31,6 @@ tags:
 - right
 - society
 title: 编剧行规不能凌驾于自然财产权之上：以《繁花》谷二事件为例的著作权法律分析
-companies:
-- intellectual-property
 ---
 
 ### 《繁花》谷二事件：行业行规与著作权争议

@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- yann-lecun
 products_models: []
 project:
 - ai-impact-analysis

@@ -1,40 +1,36 @@
 ---
-title: 'Vibe Coding: 人人都能利用AI杠杆创造价值'
-summary: 本次社群会议探讨了“Vibe Coding”的核心理念，即普通人如何利用AI和自然语言编程来解决实际问题、提升效率。会议分享了新社群的共创愿景、课程规划，并邀请多位成员分享了他们利用AI创造个人应用和自动化工作流的实践经验，强调了在AI时代定义问题和持续创造的重要性。
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- personal-growth-lab
-- vibe-coding
-tags:
-- ai-coding
-- personal-growth
-- vibe-coding
-- 社群运营
-people:
-- Ray
-- 张修修
-- Alex
-- 子龙
-- Mike
-- Wendy
-- 海里
-- 而令
-- Remy
-companies_orgs: []
-products_models: []
-date: 2025-08-17
 author: Lei
-speaker: 用AI發電
+category: technology
 channel: ''
+companies_orgs: []
+date: 2025-08-17
 draft: true
 file_name: vibe_coding_ai_leverage_create_value.md
 guest: ''
 insight: ''
 layout: post.njk
+people:
+- Ray
+- 张修修
+- Alex
+- Mike
+- Remy
+products_models: []
+project:
+- ai-impact-analysis
+- personal-growth-lab
+- vibe-coding
 series: ''
 source: ''
+speaker: 用AI發電
+summary: 本次社群会议探讨了“Vibe Coding”的核心理念，即普通人如何利用AI和自然语言编程来解决实际问题、提升效率。会议分享了新社群的共创愿景、课程规划，并邀请多位成员分享了他们利用AI创造个人应用和自动化工作流的实践经验，强调了在AI时代定义问题和持续创造的重要性。
+tags:
+- ai-coding
+- personal-growth
+- vibe-coding
+- 社群运营
+title: 'Vibe Coding: 人人都能利用AI杠杆创造价值'
 ---
 
 ## 新平台测试与成员见面

@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - anglo-russian-great-game
-people:
-- dalai-lama
 products_models: []
 project:
 - ai-impact-analysis

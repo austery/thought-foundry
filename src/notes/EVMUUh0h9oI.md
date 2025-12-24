@@ -23,7 +23,6 @@ people:
 - Mark Zuckerberg
 - Sundar Pichai
 - Andy Jassy
-- 胡君
 - 刘总
 products_models:
 - ChatGPT

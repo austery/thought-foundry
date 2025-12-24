@@ -12,7 +12,6 @@ layout: post.njk
 people:
 - Dario Amodei
 - Einstein
-- Cormac McCarthy
 products_models:
 - GPT-3
 project:

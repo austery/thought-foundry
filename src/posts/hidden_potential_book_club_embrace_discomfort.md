@@ -1,41 +1,39 @@
 ---
-title: 《Hidden Potential》读书会：拥抱不适，打破完美主义，释放内在潜能
 area: personal-growth
-category: psychology
-project:
-- personal-growth-lab
-tags:
-  - personal-growth
-  - 不舒适区
-  - 完美主义
-people:
-  - Ray
-  - 小西瓜
-  - Ivan
-  - Alex
-  - Zalira
-  - Dora
-  - Serena
-  - Asuka Ci
-  - Tracy
-  - 嘉欣
-companies_orgs: []
-products_models: []
-media_books:
-- hidden potential
-- 读书会
-date: 2025-07-28
 author: Lei
-speaker: 一口新饭读书会
+category: psychology
 channel: ''
+companies_orgs: []
+date: 2025-07-28
 draft: true
 file_name: hidden_potential_book_club_embrace_discomfort.md
 guest: ''
 insight: 本次读书会围绕《Hidden Potential》展开，探讨了如何通过拥抱不适、打破完美主义来释放个人潜能。分享者结合自身经历，讨论了学习、工作与个人成长中的挑战与感悟，强调了社群支持和持续行动的重要性。
 layout: post.njk
+media_books:
+- hidden potential
+- 读书会
+people:
+- Ray
+- 小西瓜
+- Ivan
+- Alex
+- Zalira
+- Serena
+- Tracy
+products_models: []
+project:
+- personal-growth-lab
 series: Hidden Potential
 source: ''
+speaker: 一口新饭读书会
+tags:
+- personal-growth
+- 不舒适区
+- 完美主义
+title: 《Hidden Potential》读书会：拥抱不适，打破完美主义，释放内在潜能
 ---
+
 ## 开场与下月书目介绍
 
 Ray: 不好意思，我刚才好像总是自动静音。小西瓜你是不是放假了？

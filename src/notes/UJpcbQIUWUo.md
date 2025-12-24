@@ -26,7 +26,6 @@ media_books:
 - Fortune's article
 people:
 - Sam Altman
-- Dwaresh Patel
 - Andre Karpathy
 - Ilia Sutskever
 products_models:

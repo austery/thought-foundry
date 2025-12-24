@@ -16,10 +16,6 @@ insight: ''
 layout: post.njk
 media_books: []
 people:
-- Jon Gray
-- Niola Tangan
-- Steve Schwarzman
-- Chris Nasetta
 - Mark Zuckerberg
 products_models:
 - Nvidia GPUs

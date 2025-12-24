@@ -33,24 +33,14 @@ media_books:
 people:
 - 张内咸
 - 贾玲
-- 冯巩
-- 郭德纲
-- 洛桑
-- 吴宗宪
-- 陈佩斯
-- 陈强
-- 王朔
 - 冯小刚
 - Xi Jinping
 - 李克强
 - 乔布斯
-- Samuel Altman
-- 谷爱玲
 - 刘少奇
 - 周恩来
 - 朱德
 - 毛泽东
-- 司马懿
 products_models:
 - iPhone
 - GPT

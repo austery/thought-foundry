@@ -15,8 +15,6 @@ media_books:
 - Curiosity Show
 - Lascaux
 people:
-- Adelbert Ames
-- Hans Holbein the Younger
 - Leonardo da Vinci
 products_models:
 - Ames window illusion

@@ -53,18 +53,12 @@ media_books:
 - Wednesday
 - The Diplomat
 people:
-- Michael Baro
-- Nicole Sperling
-- Kyle Buchanan
-- Lauren Hirs
 - David Zaslav
 - David Ellison
 - Larry Ellison
 - Ted Sarandos
 - Donald Trump
-- Barry Weiss
 - Clarence Thomas
-- Gordon Gecko
 products_models:
 - Paramount Plus
 - HBO Max

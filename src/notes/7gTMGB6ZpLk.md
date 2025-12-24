@@ -14,11 +14,7 @@ layout: post.njk
 media_books:
 - 裁判文书网
 people:
-- 张玉环
-- 聂树斌
 - 王浩
-- 彭宇
-- 习某某
 products_models: []
 project:
 - china-analysis

@@ -17,19 +17,12 @@ layout: post.njk
 media_books:
 - Fox News
 people:
-- Pete Hegseth
 - Donald Trump
 - Nicolas Maduro
 - Hugo Chávez
 - Maria Corina Machado
 - Marco Rubio
-- Juan Guaidó
-- Richard Grenell
-- Qasem Soleimani
 - Xi Jinping
-- Néstor Reverol
-- Salvador Allende
-- Manuel Noriega
 - Joe Biden
 products_models:
 - F-35 fighter jets

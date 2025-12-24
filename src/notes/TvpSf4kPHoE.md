@@ -33,8 +33,6 @@ media_books:
 people:
 - Donald Trump
 - Andrew
-- Dr. Mehmet
-- Antonio
 products_models:
 - GLP-1
 - Ozempic

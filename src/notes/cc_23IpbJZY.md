@@ -17,16 +17,9 @@ people:
 - Ronald Reagan
 - Joe Biden
 - Lee Jae-myung
-- Takako Sanae
-- Anthony Albanese
 - Anwar Ibrahim
 - Prabowo Subianto
-- Gabriel Boric
-- Christopher Luxon
 - Ferdinand Marcos Jr.
-- Lawrence Wong
-- Srettha Thavisin
-- Lương Cường
 - Doug Ford
 products_models: []
 project:

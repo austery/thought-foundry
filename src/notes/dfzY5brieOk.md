@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 趙哲暘
 - 宋晏仁
 products_models:
 - 阳压呼吸器

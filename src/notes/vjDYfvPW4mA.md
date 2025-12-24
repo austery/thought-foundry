@@ -20,8 +20,6 @@ media_books:
 - Veritasium
 - Mentour Pilot
 - Ground News
-people:
-- Mentour Pilot
 products_models:
 - Boeing 737
 - Airbus

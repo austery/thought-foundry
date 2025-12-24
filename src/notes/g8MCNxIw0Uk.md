@@ -21,13 +21,10 @@ media_books:
 people:
 - 李诞
 - Lex Friedman
-- 梁实秋
 - Mr. Beast
 - Donald Trump
 - 孟子
 - V.S. Naipaul
-- Robin Williams
-- 林培瑞
 - 老舍
 products_models:
 - '286'

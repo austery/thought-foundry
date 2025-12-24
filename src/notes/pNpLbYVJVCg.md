@@ -25,11 +25,9 @@ people:
 - Mike Tyson
 - Jake Paul
 - Sydney Sweeney
-- Sir Francis Galton
 - Charles Darwin
 - LeBron James
 - 李敖
-- 李戡
 - 蒋介石
 - JD Vance
 products_models:

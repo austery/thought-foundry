@@ -39,13 +39,9 @@ people:
 - Donald Trump
 - Jordan Peterson
 - Andrew Tate
-- Jay Bhattacharya
-- Scott Adams
 - Bill Gates
 - Larry Page
 - Sam Altman
-- Ira Ehrenpreis
-- Kathleen Wilson-Thompson
 products_models:
 - Grok
 - Grokipedia

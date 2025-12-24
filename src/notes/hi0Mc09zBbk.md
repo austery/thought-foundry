@@ -13,19 +13,10 @@ media_books:
 - 《周礼》
 people:
 - James Scott
-- Melinda Zeder
-- Ester Boserup
 - Max Weber
-- Marshall Sahlins
-- Robert Carneiro
-- Owen Lattimore
 - Aristotle
 - Socrates
 - Plato
-- Thucydides
-- Brasidas
-- Attila
-- Enkidu
 products_models: []
 project:
 - historical-insights

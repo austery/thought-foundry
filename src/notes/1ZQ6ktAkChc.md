@@ -15,12 +15,6 @@ media_books:
 - Modern Love
 people:
 - Anna Martin
-- Rammit Sati
-- Elizabeth Low
-- Teacher Wang
-- Mrs. Lee
-- Mr. Lee
-- Feay
 products_models:
 - How to Get Rich
 project:

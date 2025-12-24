@@ -13,15 +13,6 @@ media_books:
 - 《Star Wars》
 - 《Star Trek》
 - 《Hitchhiker’s Guide to the Galaxy》
-people:
-- Nick Lane
-- Bill Martin
-- Mike Russell
-- James Crow
-- Ursula Mittwoch
-- Joseph Moran
-- David Chalmers
-- Luca Turin
 products_models: []
 project: []
 series: ''

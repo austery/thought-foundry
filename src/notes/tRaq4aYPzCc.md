@@ -10,13 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Arithmetica
-people:
-- Pierre de Fermat
-- Diophantus
-- Kurt Hensel
-- Andrew Wiles
-- Richard Taylor
-- Kazuya Kato
 products_models:
 - Thinking in Code
 project:

@@ -42,25 +42,18 @@ media_books:
 - SF Standard
 - Attention Is All You Need
 people:
-- Josh Wolfe
 - Joe Wisenthal
 - Tracy Alloway
-- Mark Benoff
 - Jensen Huang
 - Elon Musk
 - Carl Icahn
-- Bill Conway
-- Brandon Reeves
 - Vinod Khosla
-- Jake Sullivan
 - Karl Popper
 - Demis Hassabis
 - Ilya Sutskever
 - Mira Murati
-- Scott Wu
 - Plato
 - Socrates
-- Leon Jones
 products_models:
 - Bard
 - Gemini Flash

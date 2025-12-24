@@ -28,7 +28,6 @@ media_books:
 people:
 - Donald Trump
 - Kim Jong Un
-- Han Duck-soo
 - Ursula von der Leyen
 - Benjamin Netanyahu
 products_models:

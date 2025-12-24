@@ -32,10 +32,8 @@ people:
 - Xi Jinping
 - 李克强
 - 马兴瑞
-- 张国清
 - 丁薛祥
 - 斯大林
-- 托洛茨基
 - 毛泽东
 - 江青
 - 周永康
@@ -43,7 +41,6 @@ people:
 - 薄熙来
 - 何立峰
 - Robert Moses
-- James Kung
 - Vladimir Putin
 products_models:
 - Grok

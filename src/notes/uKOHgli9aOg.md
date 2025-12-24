@@ -18,8 +18,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Fed's Beige Book
-people:
-- President Putin
 products_models: []
 project:
 - investment-strategy

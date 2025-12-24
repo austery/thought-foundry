@@ -11,8 +11,6 @@ layout: post.njk
 media_books:
 - 《当我们不再理解世界》
 people:
-- Amanda Askell
-- Benjamin Labatut
 - John Locke
 - Friedrich Nietzsche
 - Michel Foucault

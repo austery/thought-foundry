@@ -14,21 +14,10 @@ layout: post.njk
 media_books:
 - 《MeatEater's American History》
 people:
-- Steven Rinella
-- Daniel Boone
-- Davy Crockett
 - Theodore Roosevelt
 - George Washington
-- William T. Hornaday
-- Jim Bridger
-- Jedediah Smith
-- John Colter
 - Thomas Jefferson
-- Lewis
-- Clark
-- John Jacob Astor
 - Abraham Lincoln
-- Mack Faragher
 products_models: []
 project:
 - us-analysis

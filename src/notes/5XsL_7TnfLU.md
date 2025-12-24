@@ -17,23 +17,14 @@ media_books:
 - 《反对规范实在论者的赌注》
 - 《AGI时代的异质性与控制》
 people:
-- Joe Carlsmith
 - Eliezer Yudkowsky
 - C.S. Lewis
 - Nietzsche
-- Carl Schulman
 - Sam Altman
 - Mao
 - Stalin
-- Derek Parfit
 - Aristotle
-- Michael Nielsen
 - Sean Carroll
-- Timothy Treadwell
-- Dave Chalmers
-- Nick Land
-- SBF
-- Dominic Cummings
 - Jefferson
 products_models:
 - GPT-4

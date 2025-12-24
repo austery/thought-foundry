@@ -21,14 +21,9 @@ media_books:
 - Odd Lots podcast
 - The Sopranos
 people:
-- Mike Bird
 - Tracy Alloway
 - Joe Weisenthal
-- Wolf Ladejinsky
-- Henry Fok
 - Jack Ma
-- Richard Koo
-- Henry George
 products_models:
 - Three Red Lines
 - Hukou system

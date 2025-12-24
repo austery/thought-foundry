@@ -15,15 +15,6 @@ media_books:
 - 《醫林改錯》
 - 《黃帝內經》
 - 《中西會通醫經》
-people:
-- 雷祥林
-- 山田全白
-- 王千仞
-- 皮國利
-- 唐仲海
-- 李鴻章
-- 李金幫
-- 陸茂修
 products_models: []
 project:
 - china-analysis

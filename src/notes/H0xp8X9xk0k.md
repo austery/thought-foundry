@@ -11,10 +11,8 @@ layout: post.njk
 media_books:
 - The Wall Street Journal
 people:
-- Wang Jianlin
 - Elon Musk
 - Donald Trump
-- Ma Yun
 products_models: []
 project:
 - china-analysis

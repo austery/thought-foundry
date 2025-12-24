@@ -30,8 +30,6 @@ people:
 - Marco Rubio
 - Wang Yi
 - Cai Qi
-- Nie Weiping
-- Kōichi Sanae
 products_models:
 - Xiaomi
 - Panda Coin

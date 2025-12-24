@@ -18,13 +18,6 @@ layout: post.njk
 media_books:
 - LinkedIn
 people:
-- Wu Haibin
-- Tseng Liang-hsuan
-- Chen Yi-chang
-- Li Kuan-yi
-- Yang Chih-hai
-- Lin Kuan-ting
-- Roger
 - Jensen Huang
 products_models:
 - ChatGPT

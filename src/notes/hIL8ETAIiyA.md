@@ -28,8 +28,6 @@ people:
 - Bill Gates
 - Paul Samuelson
 - Kenneth Arrow
-- Robert Summers
-- Anita Summers
 - 胡锡进
 - 张维为
 - 江泽民

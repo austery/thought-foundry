@@ -21,9 +21,7 @@ media_books:
 - 彭博社
 - 美国地质调查局
 people:
-- 吉娜·莱因哈特
 - Donald Trump
-- 阿尔巴尼斯
 products_models: []
 project:
 - us-analysis

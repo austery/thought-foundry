@@ -29,7 +29,6 @@ media_books:
 - 《利润悖论》
 people:
 - Bernie Sanders
-- Jan Eeckhout
 - Alan Greenspan
 - Warren Buffett
 products_models:

@@ -9,9 +9,6 @@ guest: ''
 insight: null
 layout: post.njk
 media_books: []
-people:
-- 北美王路飞
-- 刘索隆
 products_models: []
 project:
 - us-analysis

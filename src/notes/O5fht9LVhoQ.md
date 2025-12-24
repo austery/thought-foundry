@@ -15,10 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Capone
-people:
-- 老吴
-- 阿尔·卡彭
-- 尼克森
 products_models: []
 project:
 - us-analysis

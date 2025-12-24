@@ -27,12 +27,9 @@ layout: post.njk
 media_books:
 - Bubble or Nothing
 people:
-- Paul Kedrosky
 - Joe Weisenthal
 - Tracy Alloway
 - Michael Burry
-- Jeff Saut
-- Edv Arun
 - Sam Altman
 - Jensen Huang
 - Sarah Friar

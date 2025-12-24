@@ -14,13 +14,10 @@ media_books:
 - 《超人总动员》
 - 《花木兰》
 people:
-- Allan Johnson
 - Margaret Thatcher
 - 蔡英文
 - John F. Kennedy
 - Nikita Khrushchev
-- Arlie Hochschild
-- Johnny Depp
 products_models: []
 project:
 - systems-thinking

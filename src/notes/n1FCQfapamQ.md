@@ -14,11 +14,6 @@ media_books:
 - 《儿时民国》
 - 《青春北大》
 - 《云南全省暂行县制释义》
-people:
-- 熊景明
-- 聂耳
-- 胡伯威
-- 钱用中
 products_models: []
 project:
 - historical-insights

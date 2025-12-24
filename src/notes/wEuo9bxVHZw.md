@@ -26,7 +26,6 @@ media_books:
 - X
 people:
 - Nick Timiraos
-- Jeffries Meade
 - Stephen Miller
 - Jensen Huang
 - Donald Trump
@@ -35,7 +34,6 @@ people:
 - Vance
 - Rubio
 - Vladimir Putin
-- Dmitryev
 products_models:
 - Blackwell
 - NV-Q-Link

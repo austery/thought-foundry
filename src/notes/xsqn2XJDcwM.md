@@ -32,10 +32,8 @@ media_books:
 - Odd Lots Podcast
 - Bloomberg
 people:
-- James Van Geelen
 - Tracy Alloway
 - Joe Weisenthal
-- Matthew Griffin
 products_models:
 - Stargate
 - Hyperion

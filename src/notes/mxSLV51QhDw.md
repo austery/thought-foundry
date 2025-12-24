@@ -25,15 +25,10 @@ people:
 - 毛泽东
 - 周恩来
 - 林彪
-- Roxane Witke
-- 贺子珍
 - Richard Nixon
-- 姚文元
-- 张颖
 - 刘少奇
 - 邓小平
 - 华国锋
-- 王洪文
 - 张爱玲
 products_models: []
 project:

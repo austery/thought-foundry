@@ -25,8 +25,6 @@ people:
 - Lyndon B. Johnson
 - Richard Nixon
 - Dwight D. Eisenhower
-- 袁立
-- Dan Carlin
 products_models: '[]'
 project:
 - us-analysis

@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Kath Corbec
 products_models:
 - Jewels
 project:

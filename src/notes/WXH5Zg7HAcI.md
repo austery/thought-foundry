@@ -22,10 +22,7 @@ insight: ''
 layout: post.njk
 people:
 - Nikola Tangen
-- Nikesh Arora
 - Larry Page
-- Masa Son
-- Neil
 products_models:
 - Google Maps
 - Chrome browser

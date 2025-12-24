@@ -17,15 +17,12 @@ layout: post.njk
 media_books:
 - How You Measure Your Life
 people:
-- Jonathan Sacks
 - Eric
-- Brian Johnson
 - Mark Andreessen
 - Peter Thiel
 - Elon Musk
 - Sam Altman
 - Bill Gates
-- Keith Rabois
 products_models:
 - Chat GPT
 project:

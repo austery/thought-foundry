@@ -11,14 +11,9 @@ media_books:
 - 《如何以言行事》
 - 《如何避免虚无》
 people:
-- 主持人机器人夏先生1号
 - Monica Lewinsky
 - Bill Clinton
-- Paul Grice
-- Deirdre Wilson
-- Dan Sperber
 - Karl Popper
-- John Austin
 - Ludwig Wittgenstein
 products_models: []
 project:

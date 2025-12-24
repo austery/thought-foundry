@@ -20,12 +20,8 @@ media_books:
 - 《科学人杂志》
 - 《联合报》
 people:
-- 张正杰
 - 梁晓华
-- 严长寿
-- 王秀杞
 - 马英九
-- 杨定一
 products_models:
 - iPad
 - 大同电锅

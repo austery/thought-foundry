@@ -13,8 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - House Dust Biology
-people:
-- Johanna van Brunswick
 products_models:
 - Google Scholar
 project:

@@ -43,18 +43,15 @@ media_books:
 - The Washington Post
 - Yahoo Finance
 people:
-- Toby Lütke
 - Vlad Tenev
 - Jerome Powell
 - Michael Saylor
-- Ryan Detrick
 - Jensen Huang
 - Dan Ives
 - Jim Chanos
 - Larry Ellison
 - Donald Trump
 - Eric Trump
-- Barron Trump
 products_models:
 - CUDA
 - TPU

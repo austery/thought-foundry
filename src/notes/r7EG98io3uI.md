@@ -13,16 +13,11 @@ media_books:
 - 《利维坦》
 - 《圣经》
 people:
-- 斯宾诺莎
 - Socrates
-- Leibniz
 - Hobbes
-- Moses
 - Jesus
 - Muhammad
 - Paul
-- Sam Harris
-- Kolbage
 products_models: []
 project:
 - geopolitics-watch

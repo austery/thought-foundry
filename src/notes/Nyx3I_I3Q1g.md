@@ -27,16 +27,6 @@ people:
 - Damon Jones
 - LeBron James
 - Chauncey Billups
-- Kevin Garnett
-- Matt Berkey
-- Sal Piacente
-- 姚明
-- 乔丹
-- 科比
-- 奥尼尔
-- 杨汉生
-- 西蒙斯
-- 派珀
 products_models: []
 project:
 - us-analysis

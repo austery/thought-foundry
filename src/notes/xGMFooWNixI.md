@@ -30,7 +30,6 @@ media_books:
 - The New York Times
 people:
 - Pete Buttigieg
-- Joe Mansion
 - Bill Maher
 - Tim Cook
 - Mark Zuckerberg
@@ -40,7 +39,6 @@ people:
 - Bernie Sanders
 - Joe Biden
 - Kamala Harris
-- Ron Klain
 - Gavin Newsom
 - Alexandria Ocasio-Cortez
 - David Sacks

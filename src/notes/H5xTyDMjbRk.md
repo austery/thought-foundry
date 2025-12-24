@@ -14,15 +14,6 @@ media_books:
 - 《庄子》
 - 《太乙金华宗旨》
 - 《物理学之道》
-people:
-- 宗树人
-- Elijah Siegler
-- 麦考文
-- 陈宇明
-- 谢明德
-- 希拉
-- 荣格
-- 福瑞特季夫·卡普拉
 products_models: []
 project:
 - cultural-critique

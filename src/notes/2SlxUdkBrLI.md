@@ -14,29 +14,13 @@ media_books:
 - 《我做不到逢中必反》
 people:
 - 夏河
-- 陈老师
 - 王志安
 - Xi Jinping
 - Donald Trump
-- Frederick Douglass
-- Fritz Haber
-- Carl Bosch
-- Norman Borlaug
-- John Froelich
-- Paul Müller
-- Erik Fosse
-- Reginald Gibson
-- Eli Whitney
-- Edmund Cartwright
-- Elias Howe
-- Isaac Singer
-- Gideon Sundback
 - 邓小平
 - 郭文贵
 - 李敖
-- 王金卫
 - Volodymyr Zelenskyy
-- 宋江
 products_models:
 - 东风导弹
 - 秦王葡萄

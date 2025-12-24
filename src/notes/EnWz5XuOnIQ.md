@@ -21,13 +21,6 @@ media_books:
 people:
 - Donald Trump
 - Joe Biden
-- 黃士誠
-- 樊樺
-- 盧克函
-- 李品哲
-- 蘇軒
-- 林冠婷
-- 黃維坪
 products_models:
 - ChatGPT
 - Gemini

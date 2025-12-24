@@ -10,9 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《辛德勒的名单》
-people:
-- 伊坂幸太郎
-- Oskar Schindler
 products_models: '[]'
 project:
 - personal-growth-lab

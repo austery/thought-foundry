@@ -16,8 +16,6 @@ people:
 - Mark Carney
 - Donald Trump
 - Ronald Reagan
-- Louise Blais
-- Stephen Marche
 - Brian Stewart
 - Jeyan Jeganathan
 products_models:

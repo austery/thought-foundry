@@ -17,8 +17,6 @@ media_books:
 - The Life of Genghis Khan
 people:
 - Nicolai Tangen
-- Ester Baiget
-- Genghis Khan
 products_models:
 - enzymes
 - microbes

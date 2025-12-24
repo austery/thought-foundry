@@ -18,9 +18,6 @@ people:
 - Adam Grant
 - Danny Kahneman
 - Howard Marks
-- Keith Stanovich
-- Phil Tetlock
-- Mother Teresa
 - Michael Jordan
 products_models:
 - Good Judgment Project

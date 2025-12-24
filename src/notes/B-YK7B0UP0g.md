@@ -1,30 +1,28 @@
 ---
-title: 深度剖析张雪峰：投机者、爱国者还是骗子？
-summary: 一场关于网红考研讲师张雪峰的激烈辩论，探讨了他“捐款攻台”言论背后的动机、其高考志愿咨询业务的本质，以及他所代表的极端功利主义价值观对中国社会和教育的深远影响。
 area: society-systems
-category: general
-project: china-analysis
-tags:
-- chinese-nationalism
-- education
-- public-opinion
-people:
-- zhang-xuefeng
-- 三個水槍手
-- 武律
-- 贾老师
-companies_orgs: []
-products_models: []
-date: 2025-09-25
 author: 三個水槍手
-speaker: ''
+category: general
+companies_orgs: []
+date: 2025-09-25
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+people:
+- 武律
+- 贾老师
+products_models: []
+project: china-analysis
 series: null
 source: https://www.youtube.com/watch?v=B-YK7B0UP0g
+speaker: ''
 status: evergreen
+summary: 一场关于网红考研讲师张雪峰的激烈辩论，探讨了他“捐款攻台”言论背后的动机、其高考志愿咨询业务的本质，以及他所代表的极端功利主义价值观对中国社会和教育的深远影响。
+tags:
+- chinese-nationalism
+- education
+- public-opinion
+title: 深度剖析张雪峰：投机者、爱国者还是骗子？
 ---
 
 ### “捐款攻台”言论引发的争议

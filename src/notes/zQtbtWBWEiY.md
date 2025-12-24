@@ -11,9 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《初日的解答之書》
-people:
-- 季芹
-- 雯心醫師
 products_models: []
 project:
 - personal-growth-lab

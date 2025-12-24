@@ -11,15 +11,7 @@ layout: post.njk
 media_books:
 - 《八月的枪声》
 people:
-- 约翰·肯尼迪
 - 赫鲁晓夫
-- 罗伯特·肯尼迪
-- 德皇威廉二世
-- 英国乔治六世
-- 俄国沙皇尼古拉二世
-- 约瑟夫一世
-- 提瓦达·索罗斯
-- 达利奥
 products_models: []
 project:
 - geopolitics-watch

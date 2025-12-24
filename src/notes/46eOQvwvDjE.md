@@ -28,7 +28,6 @@ people:
 - Daniel Yergin
 - Vladimir Putin
 - Angela Merkel
-- Aubrey McClendon
 - Winston Churchill
 - Elon Musk
 - Xi Jinping

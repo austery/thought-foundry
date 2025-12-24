@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《深呼吸，开始麻醉了》
-people:
-- 蒋政宇
 products_models: []
 project:
 - historical-insights

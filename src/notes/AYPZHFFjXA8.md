@@ -29,19 +29,11 @@ people:
 - Pierre Trudeau
 - Vladimir Putin
 - Volodymyr Zelenskyy
-- Anthony Albanese
-- Luiz Inácio Lula da Silva
 - Narendra Modi
-- Claudia Sheinbaum
-- Cyril Ramaphosa
 - Lee Jae-myung
-- Mark Rutte
-- António Guterres
-- Ajay Banga
 - Mohammed bin Salman
 - Prabowo Subianto
 - Kim Jong Un
-- Hardeep Singh Nijjar
 - Stephen Harper
 products_models:
 - F/A-18 Hornet

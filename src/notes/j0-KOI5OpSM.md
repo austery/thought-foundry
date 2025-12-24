@@ -27,18 +27,8 @@ media_books:
 people:
 - 朱令
 - 柴静
-- 周明欣
-- 吴成之
 - 孙维
-- 孙月琪
-- 孙福林
-- 王捕
-- 张良基
-- 强卫
 - 江泽民
-- 陈章立
-- 贺敏
-- 童宇峰
 products_models: []
 project:
 - china-analysis

@@ -9,12 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Christian Huygens
-- Boris Belousov
-- Anatol Zhabotinsky
-- Art Winfree
-- Nicky Case
 products_models:
 - Kuramoto model
 project:

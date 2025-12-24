@@ -18,8 +18,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Sir Chris Hohn
-- Christian Syninding
 - Nikolai
 - George Soros
 - Warren Buffett

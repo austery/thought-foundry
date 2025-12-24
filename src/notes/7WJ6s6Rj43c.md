@@ -13,10 +13,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Elana Ruffman
-- Stefan Ruffman
 - Donald Trump
-- K
 products_models:
 - 老鼠机器人
 - 刺猬派斯克刺猬斯派克

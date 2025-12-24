@@ -18,7 +18,6 @@ people:
 - 张内咸
 - 毛主席
 - 蒋介石
-- 彭立发
 - 金正恩
 - Vladimir Putin
 - 吴京

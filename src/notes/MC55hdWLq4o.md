@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ankur Goyal
 products_models:
 - Loop
 - Claude 4

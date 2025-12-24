@@ -57,16 +57,11 @@ people:
 - Andy Jassy
 - Tim Cook
 - Jeff Bezos
-- Steve Huffman
-- Mackenzie Sagalos
-- Julia Boorstin
 - Dan Ives
 - Sundar Pichai
 - Larry Fink
 - Jamie Dimon
 - Vlad Tenev
-- Brian Olsavsky
-- Susan Li
 products_models:
 - AWS (Amazon Web Services)
 - iPhone

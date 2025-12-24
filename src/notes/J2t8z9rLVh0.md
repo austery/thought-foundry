@@ -42,17 +42,13 @@ layout: post.njk
 people:
 - Jensen Huang
 - Brad Gerstner
-- Brett Adcock
 - Richard Feynman
 - Donald Trump
 - Chris Wright
 - Sam Altman
-- Bill McDermott
-- Christian Klein
 - George Kurtz
 - Alex Karp
 - Elon Musk
-- Peggy Johnson
 products_models:
 - Blackwell
 - Vera Rubin

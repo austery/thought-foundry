@@ -17,7 +17,6 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 people:
-- Tim Berners-Lee
 - Marc Andreessen
 - Linus Torvalds
 products_models:

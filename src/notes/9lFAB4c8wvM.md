@@ -15,9 +15,6 @@ layout: post.njk
 media_books:
 - The Wall Street Journal
 people:
-- Burhan
-- Hemedti
-- Bashir
 - Joe Biden
 - Donald Trump
 - Recep Tayyip Erdoğan

@@ -31,15 +31,8 @@ people:
 - Cai Qi
 - He Lifeng
 - Wang Yi
-- Zheng Sanjie
-- Wang Wentao
-- Ma Zhaoxun
 - John Roberts
-- Sonia Sotomayor
 - Amy Coney Barrett
-- Neil Gorsuch
-- Mark Wilson
-- Song Yongyi
 - Lin Biao
 - Mao Zedong
 products_models: []

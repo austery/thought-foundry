@@ -22,10 +22,7 @@ media_books:
 - MoneyXYZ
 people:
 - Elon Musk
-- Dave Lee
 - Peter Thiel
-- Charles Qi
-- Andrew Karpathy
 - Donald Trump
 - Cathie Wood
 products_models:

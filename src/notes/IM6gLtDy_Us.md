@@ -14,7 +14,6 @@ media_books:
 - 《财新》
 people:
 - Xi Jinping
-- 韩涛
 products_models: []
 project:
 - china-analysis

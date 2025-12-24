@@ -1,32 +1,31 @@
 ---
-title: A Deep Dive into the FIRE Lifestyle and Cognitive Enhancement with Kevin
-summary: A discussion with Kevin on his FIRE journey, slash career, and investment
-  philosophy. He shares insights on cognitive enhancement, alternative education through
-  Minerva University, and the importance of taking risks to live a fulfilling life
-  beyond conventional norms.
 area: market-analysis
-category: finance
-project:
-- fire-movement
-tags:
-- cognitive
-- education
-- movement
-people:
-- Lia
-- Kevin
-companies_orgs: []
-products_models: []
-date: 2025-09-21
 author: Lei
-speaker: ''
+category: finance
+companies_orgs: []
+date: 2025-09-21
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Kevin
+products_models: []
+project:
+- fire-movement
 series: null
 source: null
+speaker: ''
 status: evergreen
+summary: A discussion with Kevin on his FIRE journey, slash career, and investment
+  philosophy. He shares insights on cognitive enhancement, alternative education through
+  Minerva University, and the importance of taking risks to live a fulfilling life
+  beyond conventional norms.
+tags:
+- cognitive
+- education
+- movement
+title: A Deep Dive into the FIRE Lifestyle and Cognitive Enhancement with Kevin
 ---
 
 ## 开场与介绍

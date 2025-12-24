@@ -38,17 +38,12 @@ media_books:
 - Wall Street Journal
 - New Yorker
 people:
-- Jerry Newman
 - Jill Weisenthal
 - Tracy Alloway
-- Ed Harrison
-- Jensen Wong
-- Ingvar Comprad
 - Henry Ford
 - Mark Zuckerberg
 - Tyler Cowen
 - Carmen Rodriguez
-- Armano Bennett
 - Kalebrooks
 products_models:
 - Ethereum

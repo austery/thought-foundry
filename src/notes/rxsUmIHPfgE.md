@@ -13,7 +13,6 @@ media_books:
 - 《肌肉抗老》
 - 《宋醫師百變211》
 people:
-- 威龍醫師
 - 羅婕Jessica營養師
 - 宋晏仁醫師
 products_models: []

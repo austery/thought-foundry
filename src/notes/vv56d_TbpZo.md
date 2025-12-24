@@ -9,9 +9,6 @@ draft: true
 guest: ''
 insight: 我也对债券的投资和资产组合很感兴趣，60/40，还有50/50的coach potato的方式曾经很流行。要思考为什么它们失效了。基本的理解是股票和债券相关性太强了，同时没有太高的利率了。
 layout: post.njk
-people:
-- David Bonnie
-- Jeff Park
 products_models: []
 project:
 - investment-strategy

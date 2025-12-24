@@ -31,7 +31,6 @@ media_books:
 people:
 - Elon Musk
 - Trump
-- Su
 products_models:
 - H200
 - MI308

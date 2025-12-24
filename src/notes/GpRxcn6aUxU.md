@@ -10,9 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- 高盛
-- 摩根大通
-- 德意志银行
 products_models:
 - 黄金ETF
 project:

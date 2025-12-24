@@ -34,23 +34,9 @@ people:
 - Donald Trump
 - Vladimir Putin
 - Volodymyr Zelenskyy
-- Jackie Chan
-- Bruce Lee
-- Stone Cold Steve Austin
 - Triple H
-- The Rock
-- Mankind
-- Undertaker
-- Robin Kung
 - Martin Luther King
-- William Shakespeare
-- Chen Peisi
-- Yan Shunkai
 - Lu Xun
-- Ying Da
-- Wang Zijian
-- Li Dan
-- Zhang Weiwei
 products_models:
 - Minecraft
 project:

@@ -16,7 +16,6 @@ people:
 - Mark Carney
 - Donald Trump
 - Xi Jinping
-- Arie Lani
 - Anita Anand
 products_models: []
 project:

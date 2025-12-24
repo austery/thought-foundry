@@ -23,10 +23,7 @@ media_books:
 - Washington Post
 people:
 - Nicolai Tangen
-- Børge Brende
-- Klaus Schwab
 - Donald Trump
-- President Santos
 products_models:
 - Air Force One
 - DeepSeek

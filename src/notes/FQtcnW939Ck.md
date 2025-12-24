@@ -21,16 +21,6 @@ media_books:
 people:
 - 柴静
 - 胡锡进
-- 周正龙
-- 吴宝全
-- 陈希文
-- 王慧诗
-- 杜梓
-- 郝劲松
-- 陈虻
-- 张洁
-- 王廷臻
-- 康树林
 - 顾准
 products_models: []
 project:

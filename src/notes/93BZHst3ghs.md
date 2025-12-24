@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: null
 layout: post.njk
-people:
-- Indigo
-- 郑迪
 products_models: []
 project:
 - ai-impact-analysis

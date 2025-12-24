@@ -10,9 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Diego Rodriguez
 - Claude Shannon
-- Changloo
 products_models:
 - LLMs
 - diffusion models

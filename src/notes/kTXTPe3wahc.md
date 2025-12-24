@@ -12,11 +12,8 @@ media_books:
 - Something Deeply Hidden
 people:
 - Newton
-- Schrödinger
-- De Broglie
 - Max Born
 - Einstein
-- Hugh Everett
 - Sean Carroll
 products_models:
 - Norton 360

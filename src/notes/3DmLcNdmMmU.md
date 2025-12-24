@@ -26,10 +26,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 戈登·摩尔
 - 黄仁勋
 - 张忠谋
-- 张汝京
 products_models:
 - CPU
 - GPU

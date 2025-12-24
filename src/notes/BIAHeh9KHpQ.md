@@ -9,10 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《周期》
-people:
-- 霍华德·马克思
-- 霍莫·霍伊特
-- 任大炮
 products_models: []
 project:
 - china-analysis

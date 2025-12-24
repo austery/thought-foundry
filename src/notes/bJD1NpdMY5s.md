@@ -15,11 +15,6 @@ insight: ''
 layout: post.njk
 people:
 - Steve Jobs
-- Mega Steve
-- Steve Waznjak
-- Gwen Brandwin
-- Garn
-- Peter Salaba
 products_models:
 - GPT-4
 - V2

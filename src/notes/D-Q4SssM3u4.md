@@ -16,19 +16,11 @@ media_books:
 - 《愤怒经济学》
 - 《巴拿马文件》
 people:
-- Mark Blyth
 - Aristotle
-- Keynes
-- Karl Polanyi
-- Michal Kalecki
 - Paul Volcker
 - Milton Friedman
-- Hayek
-- 撒切尔夫人
 - 罗斯福
 - 特朗普
-- 皮凯蒂
-- 沃伦参议员
 products_models: []
 project:
 - systems-thinking

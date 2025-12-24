@@ -23,10 +23,6 @@ media_books:
 - Beige Book
 people:
 - Mary Daly
-- Jim Jagger
-- Cheryl Beckham
-- Susan Alt
-- John Daly
 - Donald Trump
 - Tracy Alloway
 - Joe Weisenthal

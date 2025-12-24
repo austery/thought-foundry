@@ -37,24 +37,15 @@ media_books:
 people:
 - Jason Furman
 - Andrew Ross Sorkin
-- John J. Raskob
-- Charles E. Mitchell
-- Carter Glass
 - Jesse Livermore
 - Jamie Dimon
 - Elizabeth Warren
 - Alexandria Ocasio-Cortez
 - Bill Ackman
-- 米尔顿·弗里德曼
-- 约翰·梅纳德·凯恩斯
-- 赫伯特·胡佛
-- 富兰克林·罗斯福
 - 唐纳德·特朗普
 - 温斯顿·丘吉尔
-- 格劳乔·马克斯
 - 沃伦·巴菲特
 - 黄仁勋
-- 萨姆·奥特曼
 - 马克·吐温
 products_models:
 - Dubuque

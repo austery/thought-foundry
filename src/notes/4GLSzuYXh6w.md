@@ -23,13 +23,9 @@ people:
 - Sam Altman
 - Bill Gates
 - Mustafa Suleyman
-- David Autor
 - Reed Hoffman
 - Herbert Simon
-- Phil Spencer
-- Katja Hofmann
 - Palmer Luckey
-- Andreessen
 products_models:
 - Windows NT
 - Win32

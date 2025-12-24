@@ -28,16 +28,9 @@ people:
 - 孙中山
 - 毛泽东
 - 达赖喇嘛
-- 班禅
 - Xi Jinping
-- 罗爱华
 - Margaret Thatcher
-- 栗战书
-- 利钱心
-- 张燕男
 - Mikhail Gorbachev
-- 曾宇璇
-- 孔誥烽
 products_models: []
 project:
 - china-analysis

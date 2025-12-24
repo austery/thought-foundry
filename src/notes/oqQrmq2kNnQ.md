@@ -13,8 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- CZ
 products_models:
 - USDT
 - USDC

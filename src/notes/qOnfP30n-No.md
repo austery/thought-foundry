@@ -14,18 +14,7 @@ media_books:
 - 《桃花扇》
 - 《诗经》
 people:
-- 黄晓丹
-- 欧文·亚隆
-- 陶渊明
-- 陈子昂
-- 张九龄
-- 欧丽娟
-- 沈佺期
 - 李白
-- 李商隐
-- 王维
-- 叶嘉莹
-- 杜宇
 products_models: []
 project:
 - cultural-critique

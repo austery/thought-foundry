@@ -23,10 +23,7 @@ media_books:
 - How I AI
 - Generation AI
 people:
-- Matt Britton
-- Claravel
 - Mark Zuckerberg
-- Edward Sver
 - Mark Benioff
 products_models:
 - Zapier

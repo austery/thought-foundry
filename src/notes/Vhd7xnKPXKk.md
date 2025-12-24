@@ -27,10 +27,6 @@ media_books:
 - 《圣经》
 people:
 - 李厚辰
-- 王之安
-- 五月散人
-- 柴进
-- 王亚军
 products_models:
 - ChatGPT
 project:

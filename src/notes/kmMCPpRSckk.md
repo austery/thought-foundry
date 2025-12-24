@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《柳叶刀》
-people:
-- 卢辉
 products_models: []
 project:
 - us-analysis

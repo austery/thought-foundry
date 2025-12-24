@@ -27,7 +27,6 @@ media_books:
 people:
 - Ace
 - Peter Beck
-- Ashok
 - Elon Musk
 products_models:
 - Neutron rocket

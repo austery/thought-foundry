@@ -15,14 +15,6 @@ layout: post.njk
 media_books:
 - 《记忆碎片》
 - 《星球大战》
-people:
-- Matthew Walker
-- Michael Gradazar
-- Kenneth Wright
-- Thomas Balkan
-- Rosaline Cartwright
-- Jennifer Doudna
-- Clive Wearing
 products_models:
 - Xanax
 - Valium

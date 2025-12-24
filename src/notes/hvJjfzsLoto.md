@@ -25,16 +25,8 @@ media_books:
 - 《数字时代的人权思辨》
 - 《太空大战》
 people:
-- Lizzei O'shea
-- Latanya Sweeney
-- Wu Xiuming
-- Jane Jacobs
-- Edward Snowden
-- Fanon
-- Jack Balkin
 - Bill Gates
 - Richard Stallman
-- Elinor Ostrom
 products_models:
 - Windows
 - Diaspora

@@ -17,11 +17,7 @@ media_books:
 - brilliant.org
 people:
 - Thomas Edison
-- John Ambrose Fleming
-- Lee de Forest
 - Claude Shannon
-- George Boole
-- George Stibitz
 - Derek
 - David
 products_models:

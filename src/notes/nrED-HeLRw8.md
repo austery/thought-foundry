@@ -14,8 +14,6 @@ media_books:
 - (MIS)Treated
 people:
 - Nam Kiwanuka
-- Marani Belo
-- Amber Mack
 products_models:
 - AI
 project:

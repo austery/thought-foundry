@@ -12,15 +12,7 @@ media_books:
 - 《济贫法》
 - Speenhamland法案
 people:
-- Albert O. Hirschman
 - Milton Friedman
-- Karl Polanyi
-- Sam Peltzman
-- Gaetano Mosca
-- George Stigler
-- Martin Feldstein
-- Cornford
-- Robert Lowe
 products_models: []
 project:
 - systems-thinking

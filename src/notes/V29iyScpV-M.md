@@ -28,12 +28,8 @@ media_books:
 people:
 - Donald Trump
 - Kamala Harris
-- John Meriwether
 - Myron Scholes
-- Robert C. Merton
 - Nancy Pelosi
-- Robert Danner
-- Ronald Read
 products_models:
 - Falcon
 - Prisma Cloud

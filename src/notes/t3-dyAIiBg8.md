@@ -12,7 +12,6 @@ layout: post.njk
 media_books:
 - gift-guide
 people:
-- Kyra
 - Sam Altman
 products_models:
 - GPT-4

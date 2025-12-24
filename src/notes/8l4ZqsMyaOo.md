@@ -37,18 +37,9 @@ media_books:
 - 《犹太人的智慧》
 - 《全球亿万富翁的致富秘诀》
 people:
-- 王长田
-- 傅作义
 - 刘少奇
 - Richard Nixon
-- Pat Nixon
-- 万润南
-- 段永基
 - 邓小平
-- 草间弥生
-- Andy Warhol
-- 王宁
-- Rihanna
 products_models:
 - Labubu
 project:

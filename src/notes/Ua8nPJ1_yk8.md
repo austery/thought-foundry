@@ -11,9 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Emmett Shear
 - Stuart Russell
-- Carl Friston
 - Eliezer Yudkowsky
 - Sam Altman
 products_models:

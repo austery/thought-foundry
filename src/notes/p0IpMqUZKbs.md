@@ -12,10 +12,6 @@ layout: post.njk
 media_books:
 - The Iliad
 - How to Be a Better Human
-people:
-- Sean Sherman
-- Linda Black Elk
-- Achilles
 products_models:
 - Oamni
 project:

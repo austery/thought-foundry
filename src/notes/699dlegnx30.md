@@ -33,9 +33,7 @@ people:
 - Alex Karp
 - Jensen Huang
 - Peter Thiel
-- Joe Lonsdale
 - Dan Ives
-- Mariana Mazzucato
 - Tom Lee
 products_models:
 - AIP

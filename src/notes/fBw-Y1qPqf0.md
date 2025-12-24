@@ -22,8 +22,6 @@ people:
 - Donald Trump
 - Andrew Cuomo
 - Zoran Mandani
-- Dave Phillips
-- Richard Dreyfuss
 products_models:
 - Medicare
 - TikTok

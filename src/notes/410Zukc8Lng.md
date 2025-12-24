@@ -29,16 +29,9 @@ layout: post.njk
 media_books:
 - 《硅谷101》
 people:
-- 柴金祥
 - Sam Altman
-- Tilly Norwood
 - Jensen Huang
-- Jessica Hodgins
-- Marc Raibert
 - Sergey Levine
-- Karen Liu
-- Zoran Popović
-- Michiel van de Panne
 products_models:
 - Sora
 - Sora 2

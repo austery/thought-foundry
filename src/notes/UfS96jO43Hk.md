@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 罗敏
 products_models:
 - 趣分期
 - 大白汽车

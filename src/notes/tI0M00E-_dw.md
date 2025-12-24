@@ -19,9 +19,6 @@ people:
 - Tracy Mumford
 - Donald Trump
 - Mike Johnson
-- Matt Vaneps
-- Aftton Bane
-- Christy Gnome
 products_models:
 - Real ID
 - OMIC

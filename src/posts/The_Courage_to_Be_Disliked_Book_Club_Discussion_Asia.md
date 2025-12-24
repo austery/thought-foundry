@@ -1,40 +1,33 @@
 ---
-title: 《被讨厌的勇气》读书会讨论-亚洲区
-summary: null
 area: personal-growth
+author: Lei
 category: psychology
+channel: null
+companies_orgs: []
+date: '2025-07-10'
+guest: ''
+insight: null
+layout: post.njk
+media_books:
+- 被讨厌的勇气
+people:
+- Ray
+- Vincent
+- Jay
+- Daniel
+- David
+products_models: []
 project:
 - personal-growth-lab
+series: null
+source: null
+speaker: 一口新饭读书会
+summary: null
 tags:
 - adlerian-psychology
 - psychology
 - self
-people:
-- Ray
-- Lichi
-- Vincent
-- Winnie
-- Jay
-- Kwang
-- Brian
-- Eddie
-- Junian
-- alex
-- Daniel
-- David
-companies_orgs: []
-products_models: []
-media_books:
-- 被讨厌的勇气
-date: '2025-07-10'
-author: Lei
-speaker: 一口新饭读书会
-channel: null
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: null
+title: 《被讨厌的勇气》读书会讨论-亚洲区
 ---
 
 ## 开场与预告

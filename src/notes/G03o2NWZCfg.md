@@ -16,7 +16,6 @@ media_books:
 people:
 - Donald Trump
 - Max Weber
-- 王硕
 products_models: []
 project:
 - us-analysis

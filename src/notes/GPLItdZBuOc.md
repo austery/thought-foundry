@@ -22,7 +22,6 @@ media_books:
 - 《自由的窄廊》
 people:
 - Xi Jinping
-- 王小洪
 - 李老师
 products_models: []
 project:

@@ -37,9 +37,6 @@ people:
 - 刘少奇
 - 周恩来
 - 华国锋
-- 郭于华
-- 孙立平
-- 叶海燕
 products_models:
 - Telegram
 project:

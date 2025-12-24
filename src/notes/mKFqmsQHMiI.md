@@ -10,12 +10,9 @@ layout: post.njk
 media_books:
 - 《自然哲学的数学原理》
 people:
-- 威廉·奥卡姆
 - 牛顿
 - 伽利略
-- 开普勒
 - 哥白尼
-- 托勒密
 products_models: []
 project:
 - systems-thinking

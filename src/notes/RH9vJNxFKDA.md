@@ -35,14 +35,9 @@ media_books:
 people:
 - Sam Altman
 - Demis Hassabis
-- Benedict Evans
 - Mark Zuckerberg
 - Mark Andreessen
 - Jeff Dean
-- Karpathy
-- Balaji Srinivasan
-- Craig Federighi
-- Tim Berners-Lee
 - Larry Page
 - Sergey Brin
 - Bill Gates

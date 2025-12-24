@@ -17,14 +17,6 @@ media_books:
 - 《纽约时报》
 - '《Future Gamblers: A longitudinal study on young people''s transfer from loot box
   spending to gambling》'
-people:
-- 王信明
-- Lisa
-- 卡戴珊
-- 蕾哈娜
-- 希拉里·达芙
-- 杜阿·利帕
-- 龙家升
 products_models:
 - Molly
 - Labubu

@@ -9,14 +9,9 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Sadi Carnot
 - Napoleon
-- Lord Kelvin
-- Rudolf Clausius
 - Ludwig Boltzmann
-- Jacob Bekenstein
 - Stephen Hawking
-- Jeremy England
 products_models:
 - Thinking in Code
 project:

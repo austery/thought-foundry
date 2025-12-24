@@ -29,12 +29,8 @@ media_books:
 people:
 - 王家卫
 - Jeffrey Epstein
-- Edward Snowden
-- 赵宇空
 - 麻生太郎
 - Warren Buffett
-- 老子
-- 乐乐法利
 - Mark Zuckerberg
 - Joe Biden
 - Donald Trump
@@ -43,8 +39,6 @@ people:
 - Thomas Hobbes
 - Thomas Massie
 - Ted Cruz
-- 丁一
-- 文昭
 products_models:
 - iPhone
 - SAT

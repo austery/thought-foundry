@@ -14,8 +14,6 @@ media_books:
 - 《与哀伤共处》
 - 《礼记·檀弓下》
 people:
-- 李昀鋆
-- 陈智豪
 - Sigmund Freud
 products_models: []
 project:

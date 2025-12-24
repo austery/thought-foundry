@@ -24,7 +24,6 @@ media_books:
 - 老高和小茉
 people:
 - Vladimir Putin
-- 唐骏
 products_models:
 - NFT
 - 比特幣

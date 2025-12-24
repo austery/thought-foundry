@@ -56,8 +56,6 @@ people:
 - Larry Ellison
 - Elon Musk
 - Jerome Powell
-- Stephanie Guild
-- Courtney Reagan
 products_models:
 - GPT 5.2
 - Gemini Flash

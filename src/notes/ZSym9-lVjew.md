@@ -20,9 +20,7 @@ layout: post.njk
 media_books:
 - 《海贼王》
 people:
-- Bill
 - Nobita
-- 莱昂纳多·迪卡普里奥
 - 成龙
 products_models:
 - MBTI

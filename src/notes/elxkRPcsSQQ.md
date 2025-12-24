@@ -33,12 +33,8 @@ media_books:
 people:
 - Tracy Aloway
 - Joe Weisenthal
-- Roit Chopra
-- Josh Younger
-- Stephen Kelly
 - Mark Zuckerberg
 - Sheryl Sandberg
-- Nigel Farage
 products_models:
 - Libra project
 - Apple Pay

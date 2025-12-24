@@ -19,23 +19,7 @@ media_books:
 people:
 - Wang Yangming
 - Hegel
-- Xiao He
-- Liu Bang
-- Xiang Yu
-- Emperor Wu of Han
-- Dong Zhongshu
-- Liu Yu
-- Huan Xuan
-- Li Jiancheng
 - Li Shimin
-- Wei Zheng
-- Ouyang Xiu
-- Shi Jie
-- Zeng Gong
-- Qian Liu
-- Li Congke
-- Wang family
-- Xie family
 products_models: []
 project:
 - china-analysis

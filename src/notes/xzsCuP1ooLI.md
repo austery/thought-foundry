@@ -15,11 +15,9 @@ media_books:
 - 《美国社会学期刊》
 - 《故土的陌生人》
 people:
-- Oliver Hahl
 - Hillary Clinton
 - Donald Trump
 - Barack Obama
-- Seymour Martin Lipset
 products_models: []
 project:
 - us-analysis

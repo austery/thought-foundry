@@ -18,12 +18,7 @@ media_books:
 people:
 - Cal Newport
 - Steve Jobs
-- Clifford Nass
-- Linda Stone
 - Bill Gates
-- Anders Ericsson
-- Mihaly Csikszentmihalyi
-- Rory McIlroy
 - Aristotle
 products_models:
 - iPhone

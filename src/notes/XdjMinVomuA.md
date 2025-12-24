@@ -25,8 +25,6 @@ media_books:
 people:
 - 沃伦·巴菲特
 - 查理·芒格
-- Hugh McCulloch
-- Vicki Hollub
 - Ajit Jain
 - Greg Abel
 products_models: []

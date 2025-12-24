@@ -19,17 +19,6 @@ media_books:
 - Nature
 - The Monsanto Papers
 - Seed Money
-people:
-- Mike Wallace
-- Franklin D. Jones
-- Karl Schulz
-- John E. Franz
-- William Heydens
-- Brent Wisner
-- Dewayne Lee Johnson
-- Dave Runyon
-- Carey Gillam
-- Bart Elmore
 products_models:
 - 2,4-D
 - 2,4,5-T

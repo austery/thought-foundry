@@ -15,8 +15,6 @@ layout: post.njk
 media_books:
 - Machines of Loving Grace
 people:
-- Jonah Cool
-- Eric Kauderer-Abrams
 - Dario Amodei
 products_models:
 - Claude

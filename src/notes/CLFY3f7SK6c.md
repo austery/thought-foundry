@@ -10,11 +10,6 @@ layout: post.njk
 media_books:
 - 《大问题》节目
 - 《看透世界：100个哲学大概念开悟人生！》
-people:
-- 红交换
-- 蓝都行
-- 黄难判
-- 机器人夏先生1号
 products_models: []
 project:
 - systems-thinking

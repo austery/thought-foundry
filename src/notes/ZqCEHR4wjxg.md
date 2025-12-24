@@ -14,10 +14,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Maddie
-- P
-- Jared
-- Munjal
 - Martin Casado
 products_models:
 - voice marketplace

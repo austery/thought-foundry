@@ -12,14 +12,9 @@ layout: post.njk
 media_books:
 - one piece
 people:
-- 刘索隆
-- 乔姆斯基
 - 斯大林
 - 里根
-- 硅谷尹公
 - 希特勒
-- 查韦斯
-- 斯诺登
 products_models: []
 project:
 - us-analysis

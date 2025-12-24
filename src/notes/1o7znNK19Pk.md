@@ -15,9 +15,6 @@ media_books:
 - The Bible
 - Coldplay
 - Death Cab for Cutie
-people:
-- Michael Sun
-- Tommy
 products_models:
 - ExitReality
 - Second Life

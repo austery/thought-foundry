@@ -14,11 +14,9 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Bill Bullard
 - Tracy Alloway
 - Joe Weisenthal
 - Donald Trump
-- Cody Johnson
 products_models:
 - Sherman Act
 - Clayton Act

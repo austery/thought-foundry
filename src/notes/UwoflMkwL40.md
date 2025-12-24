@@ -14,7 +14,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Rowan Cheung
 - Mark Zuckerberg
 - Sam Altman
 - Joe Rogan

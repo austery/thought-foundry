@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - big-think
-people:
-- hawking-radiation
 products_models: []
 project: []
 series: ''

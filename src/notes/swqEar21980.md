@@ -17,7 +17,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Anne Lipton
 - Elon Musk
 - Matt Levine
 products_models:

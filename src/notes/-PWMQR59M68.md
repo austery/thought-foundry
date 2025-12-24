@@ -11,9 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Jan Baptist van Helmont
 - Mr. Beast
-- Mark Rober
 - Destin Sandlin
 products_models: []
 project:

@@ -16,11 +16,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Oliver Blume
 - Nikolai
-- Aksel Lund Svindal
-- Martin Winterkorn
-- Sajjad Khan
 products_models:
 - '911'
 - '356'

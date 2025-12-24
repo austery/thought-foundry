@@ -14,8 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Sasha Luccioni
 products_models:
 - LLMs
 - ChatGPT

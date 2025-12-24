@@ -46,9 +46,7 @@ people:
 - Donald Trump
 - Sam Altman
 - Alan Greenspan
-- Klay Higgins
 - Jensen Huang
-- Aswath Damodaran
 products_models:
 - Gemini 3
 - Google AI Studio

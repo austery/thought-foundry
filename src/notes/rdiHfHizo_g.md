@@ -13,9 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《庄也杂谈》
-people:
-- 查尔斯王子
-- 布莱恩·马尔罗尼
 products_models: []
 project:
 - historical-insights

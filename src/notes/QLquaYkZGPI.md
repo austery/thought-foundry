@@ -24,16 +24,7 @@ insight: ''
 layout: post.njk
 people:
 - 段永平
-- 鲁冠球
-- 张瑞敏
-- 范伟
-- 黄红
-- 周庆正
-- 邹家华
-- 吴晓波
-- 撒切尔夫人
 - 毛泽东
-- 丁彬
 products_models: []
 project:
 - china-analysis

@@ -58,13 +58,9 @@ insight: ''
 layout: post.njk
 people:
 - Dylan Patel
-- Jon Y
 - Xi Jinping
-- Richard Chang
-- Liang Mong Song
 - Morris Chang
 - Pat Gelsinger
-- Sholto
 - Jensen Huang
 - Elon Musk
 - Sam Altman
@@ -73,9 +69,7 @@ people:
 - Mark Zuckerberg
 - Dario Amodei
 - Andy Grove
-- Gordon Moore
 - Ilya Sutskever
-- Albert Gu
 - John Maynard Keynes
 products_models:
 - GPT-4

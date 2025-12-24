@@ -15,12 +15,8 @@ layout: post.njk
 media_books:
 - '《John Candy: A Life in Comedy》'
 people:
-- Matthew Perry
 - John Candy
-- Caitlin Morrison
-- Paul Myers
 - Mike Myers
-- Dan Aykroyd
 products_models:
 - Friends
 - Planes, Trains and Automobiles

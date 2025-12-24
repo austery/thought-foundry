@@ -47,7 +47,6 @@ people:
 - Christian Bale
 - Warren Buffett
 - Tom Lee
-- Caroline Levit
 - Donald Trump
 - Joe Biden
 products_models:

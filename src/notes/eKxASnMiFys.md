@@ -22,13 +22,8 @@ media_books:
 people:
 - Maria Corina Machado
 - David Sacks
-- Edmundo Gonzalez
-- Maduro
-- Chavez
-- Fidel Castro
 - Donald Trump
 - Obama
-- Biden
 products_models:
 - Starlink
 project:

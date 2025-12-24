@@ -20,11 +20,7 @@ media_books:
 - QI
 - The Man in the White Suit
 people:
-- Bernard London
-- Casey Neistat
-- Harley Earl
 - Henry Ford
-- Warren De la Rue
 - Thomas Edison
 products_models:
 - iPhone

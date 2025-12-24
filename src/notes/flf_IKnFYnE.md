@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Samuel Colvin
 products_models:
 - Pydantic AI
 - Temporal

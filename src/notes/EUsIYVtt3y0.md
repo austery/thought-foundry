@@ -29,11 +29,7 @@ media_books:
 - r/LocalLlama
 - 《The Second Half》
 people:
-- 朱邦华
-- Wei-Lin Chiang
-- Lianmin Zheng
 - Andrej Karpathy
-- 姚顺雨
 products_models:
 - GPT
 - Claude

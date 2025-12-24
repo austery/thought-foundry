@@ -1,37 +1,25 @@
 ---
+area: personal-systems
 author: Lei
+category: productivity
+companies_orgs:
+- 明镜
+- 小红书
 date: '2025-11-06'
+draft: true
 guest: null
 layout: post.njk
-source: https://example.com/Spokenly_transcript_2025-11-06_0847
-speaker: null
-title: 精益学习与敏捷行动：克服完美主义，拥抱求助的力量
-summary: 本次读书会深入探讨了“精益学习”的核心理念，讨论了如何通过敏捷行动克服因过度规划导致的“分析瘫痪”。分享者们结合个人经历，探讨了识别“垃圾火花”、放下骄傲去求助，以及从不完美的第一步开始的重要性，强调了在实践中学习和成长的价值。
-area: personal-systems
-category: productivity
-project:
-- personal-growth-lab
-- systems-thinking
-tags:
-- learning
-- llm
-- opportunity-cost
-- perfectionism
+media_books:
+- 《The Creative Act》
 people:
 - Remy
-- 张老师
 - Frank
 - Peter
 - Rui
 - 小西瓜
 - Vivi
 - Alex
-- Zelira
-- Tom Hanks
 - Bill Gates
-companies_orgs:
-- 明镜
-- 小红书
 products_models:
 - Python
 - ChatGPT
@@ -39,10 +27,19 @@ products_models:
 - Google
 - GitHub
 - Terminal
-media_books:
-- 《The Creative Act》
-draft: true
+project:
+- personal-growth-lab
+- systems-thinking
+source: https://example.com/Spokenly_transcript_2025-11-06_0847
+speaker: null
 status: evergreen
+summary: 本次读书会深入探讨了“精益学习”的核心理念，讨论了如何通过敏捷行动克服因过度规划导致的“分析瘫痪”。分享者们结合个人经历，探讨了识别“垃圾火花”、放下骄傲去求助，以及从不完美的第一步开始的重要性，强调了在实践中学习和成长的价值。
+tags:
+- learning
+- llm
+- opportunity-cost
+- perfectionism
+title: 精益学习与敏捷行动：克服完美主义，拥抱求助的力量
 ---
 
 ## 开场与新平台测试

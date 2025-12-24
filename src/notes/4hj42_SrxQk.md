@@ -14,15 +14,8 @@ media_books:
 people:
 - 泰勒斯
 - 亚里士多德
-- 阿那克西曼德
 - 赫拉克利特
-- 阿那克西美尼
-- 恩培多克勒
-- 阿那克萨戈拉
-- 德谟克利特
 - 柏拉图
-- 培根
-- 埃里克·布莱恩约弗森
 products_models: []
 project:
 - historical-insights

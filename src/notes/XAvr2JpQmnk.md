@@ -1,6 +1,8 @@
 ---
 area: personal-systems
 category: psychology
+companies:
+- psychobiotic
 companies_orgs:
 - UCLA
 - 阳明大学
@@ -12,10 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《肠子、大脑、肠道菌群》
-people:
-- Emeran Mayer
-- 蔡英傑
-- Hippocrates
 products_models:
 - PS128
 project:
@@ -32,8 +30,6 @@ tags:
 - health
 - impact
 title: 肠道：人类的“第二大脑”如何主宰情绪、记忆与心智？
-companies:
-- psychobiotic
 ---
 
 ### 肠道：被忽视的“第二大脑”

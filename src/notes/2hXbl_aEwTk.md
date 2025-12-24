@@ -28,12 +28,6 @@ people:
 - Donald Trump
 - Kevin Hassett
 - Nicolás Maduro
-- 马萨多
-- Eric Lin
-- Lee Hsien Loong
-- 沈志斌
-- 于先生
-- 黄先生
 - xi-jinping
 products_models:
 - GDP

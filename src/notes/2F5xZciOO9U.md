@@ -17,7 +17,6 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 - Austan Goolsbee
-- Jeff Schmid
 - Jay Powell
 - Carmen Rodriguez
 - Dashel Bennett

@@ -20,17 +20,9 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Alfred Lin
-- Roelof Botha
-- Molly O’Shea
 - Elon Musk
-- Keller
-- Brian Chesky
 - Brian Armstrong
-- Kareem
 - Ken Griffin
-- Robert Merton
-- Constantine
 products_models:
 - AWS
 project:

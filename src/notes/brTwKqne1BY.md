@@ -16,9 +16,6 @@ layout: post.njk
 media_books:
 - 《机器人拯救不了日本》
 - 《经济增长的终结：人口下降的意外后果》
-people:
-- Charles Jones
-- James Adrian Wright
 products_models:
 - Deepseek
 project:

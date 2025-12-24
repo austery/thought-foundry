@@ -13,8 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Xu Hao
 products_models:
 - CRISPR
 - CarbonX Program

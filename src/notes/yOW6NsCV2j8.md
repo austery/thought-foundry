@@ -16,10 +16,6 @@ layout: post.njk
 media_books:
 - Pediatrics
 people:
-- Rachel Harding
-- Terry Purvalakis
-- Michael Purvalakis
-- Josh Koig
 - Robert F. Kennedy Jr.
 products_models:
 - AMT130

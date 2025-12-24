@@ -19,27 +19,12 @@ media_books:
 - 《资本论》
 - 《全面啟動》
 people:
-- Vincent van Gogh
 - Louis XIV
-- Cato
 - Plato
 - Socrates
 - Jacques Lacan
-- Edvard Munch
-- Auguste Rodin
-- Claude Monet
-- Édouard Manet
-- Honoré de Balzac
 - Karl Marx
-- Marcel Proust
-- Marcel Mauss
-- Claude Lévi-Strauss
-- Édith Piaf
-- Ernest Hemingway
-- James Joyce
-- F. Scott Fitzgerald
 - Leonardo DiCaprio
-- Ariadne
 products_models: []
 project:
 - historical-insights

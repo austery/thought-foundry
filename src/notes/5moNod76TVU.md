@@ -17,17 +17,13 @@ media_books:
 - 《繁花》
 - 《外交事务》
 people:
-- 丁义博士
 - Donald Trump
 - Kamala Harris
 - 李鸿章
-- 蒋百里
 - 蒋介石
 - 张学良
-- 胡平
 - 鲍里斯·约翰逊
 - Vladimir Putin
-- 米尔斯海默
 products_models:
 - Glid bomb
 - 民用无人机

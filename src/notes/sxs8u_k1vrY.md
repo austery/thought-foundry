@@ -14,9 +14,7 @@ media_books:
 - 《民选独裁》
 people:
 - Vladimir Putin
-- Slobodan Milošević
 - Lex Friedman
-- Mario Vargas Llosa
 - John Maynard Keynes
 products_models: '[]'
 project:

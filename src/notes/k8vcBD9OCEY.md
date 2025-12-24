@@ -34,15 +34,6 @@ media_books:
 - taiwanese-drama
 people:
 - 李嘉诚
-- Rupert Murdoch
-- 阿图尔·科利
-- 郑芬芬
-- 李铭顺
-- 堺雅人
-- 新垣结衣
-- 范逸臣
-- 许鞍华
-- 关锦鹏
 - 金庸
 products_models: []
 project:

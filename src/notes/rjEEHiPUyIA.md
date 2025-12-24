@@ -28,7 +28,6 @@ media_books:
 - 《第五元素》
 people:
 - 马云
-- 雷军
 - Donald Trump
 - Jensen Huang
 - 高市早苗

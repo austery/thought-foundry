@@ -27,22 +27,13 @@ media_books:
 - Bloomberg Businessweek
 - 《交易的艺术》
 people:
-- Justin Sun
 - Donald Trump
-- Lamar Odom
 - Elizabeth Warren
 - Gary Gensler
 - Paul Atkins
 - Jeff Bezos
 - Eric Trump
-- Marsha Blackburn
-- Lindsey Lohan
-- Candra Last
 - Sam Bankman-Fried
-- Zhao Changpeng
-- David Geffen
-- 熊子涵
-- 魏源
 products_models:
 - World Liberty
 - BitTorrent

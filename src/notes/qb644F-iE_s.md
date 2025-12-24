@@ -36,13 +36,11 @@ media_books:
 people:
 - Arthur Kroeber
 - Victor Shih
-- Thomas Schelling
 - John Doerr
 - Deng Xiaoping
 - Xi Jinping
 - Donald Trump
 - Joe Biden
-- Amar Bhidé
 products_models:
 - H100
 project:

@@ -56,7 +56,6 @@ people:
 - Xi Jinping
 - Elon Musk
 - Sundar Pichai
-- Steve Fineberg
 - Alex Karp
 - Brian Armstrong
 - Cathie Wood
@@ -66,11 +65,9 @@ people:
 - Paul Atkins
 - Jameson Greer
 - Walter Isaacson
-- Toby Lütke
 - Kash Patel
 - Tucker Carlson
 - Jensen Huang
-- Brett Adcock
 products_models:
 - S&P 500
 - Optimus

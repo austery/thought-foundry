@@ -36,7 +36,6 @@ people:
 - Cash Patel
 - Terry Rozier
 - Chauncey Billups
-- Takayichi
 - Margaret Thatcher
 products_models: []
 project:

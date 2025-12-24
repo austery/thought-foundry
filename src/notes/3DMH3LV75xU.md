@@ -10,10 +10,6 @@ layout: post.njk
 media_books:
 - 《隐墙》
 - 《鲁滨逊漂流记》
-people:
-- 玛尔伦·豪斯霍费尔
-- 鲁滨逊
-- 西西弗
 products_models: []
 project:
 - geopolitics-watch

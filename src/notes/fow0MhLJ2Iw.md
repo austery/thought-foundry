@@ -17,13 +17,8 @@ media_books:
 - 《法句经》
 - 《大般涅槃经》
 people:
-- Oedipus
-- Masao Sekine
 - Buddha
-- Schopenhauer
-- David Benatar
 - Nietzsche
-- Karl Löwith
 products_models: []
 project:
 - historical-insights

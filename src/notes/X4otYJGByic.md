@@ -11,15 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《查理周刊》
-people:
-- Harvey
-- Youssef Al-Ala
-- Mohammad
-- Saadi
-- Mohammed Haichami
-- Omar Haichamid
-- Wafa
-- 穆先生
 products_models: []
 project:
 - geopolitics-watch

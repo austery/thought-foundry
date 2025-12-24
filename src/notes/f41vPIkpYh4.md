@@ -19,12 +19,6 @@ insight: ''
 layout: post.njk
 people:
 - David Ellison
-- Sumner Redstone
-- Adolph Zukor
-- Walter Cronkite
-- Barry Diller
-- Sherry Lansing
-- Robert Evans
 - Stephen Colbert
 - Kamala Harris
 products_models:

@@ -16,7 +16,6 @@ layout: post.njk
 media_books:
 - How I AI
 people:
-- Dennis Yang
 - Clarvo
 - Lee
 products_models:

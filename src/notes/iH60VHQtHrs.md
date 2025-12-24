@@ -10,11 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 'A series of Fortunate Events: Chance and the Making of the Planet, Life, and You'
-people:
-- Sean B. Carroll
-- Wallace
-- Darwin
-- Neanderthals
 products_models: []
 project:
 - systems-thinking

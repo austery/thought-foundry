@@ -1,27 +1,25 @@
 ---
-title: 伊朗挨炸，炸出来的“文明古国综合症”
-summary: null
 area: personal-growth
+author: Lei
 category: culture
+channel: '@LiuTalks'
+companies_orgs: []
+date: '2025-07-10'
+guest: null
+insight: null
+layout: post.njk
+products_models: []
 project:
 - cultural-critique
+series: null
+source: null
+speaker: 徒步的騎手
+summary: null
 tags:
 - history
 - iran
 - society
-people:
-- 奈保尔
-companies_orgs: []
-products_models: []
-date: '2025-07-10'
-author: Lei
-speaker: 徒步的騎手
-channel: '@LiuTalks'
-guest: null
-insight: null
-layout: post.njk
-series: null
-source: null
+title: 伊朗挨炸，炸出来的“文明古国综合症”
 ---
 
 ## 引言：“文明古国综合症”

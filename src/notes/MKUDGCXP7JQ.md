@@ -14,14 +14,8 @@ media_books:
 - 《圣经》
 people:
 - Chris Rock
-- Jada Pinkett Smith
-- Will Smith
-- Stephen Chow
 - Paul
-- Rowan Atkinson
-- Wylie Sypher
 - Ketanji Brown Jackson
-- Tiririca
 - Sigmund Freud
 products_models:
 - GI Jane 2

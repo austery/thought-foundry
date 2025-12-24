@@ -10,11 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Zac
 - Derek Muller
-- Edward Nicholson
-- Albert Calmette
-- Timothy Jackson
 products_models:
 - Brilliant
 project:

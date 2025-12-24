@@ -10,11 +10,8 @@ layout: post.njk
 media_books:
 - 《晚清七十年》
 people:
-- 周有光
 - 哥白尼
-- 季羡林
 - 毛泽东
-- 唐德刚
 products_models: '[]'
 project:
 - china-analysis

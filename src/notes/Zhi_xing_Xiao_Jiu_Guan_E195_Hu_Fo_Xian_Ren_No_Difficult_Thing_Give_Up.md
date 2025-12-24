@@ -1,29 +1,29 @@
 ---
-title: E195 对话半佛仙人：世上无难事，只要肯放弃（地球online🎮非典型通关秘籍）
-summary: null
 area: personal-growth
-category: psychology
-project:
-- personal-growth-lab
-tags:
-  - personal-growth
-people:
-  - 雨白
-  - 半佛
-companies_orgs: []
-products_models: []
-media_books:
-- 知行小酒馆
-date: '2025-07-13'
 author: Lei
-speaker: 知行小酒馆
+category: psychology
+companies_orgs: []
+date: '2025-07-13'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 知行小酒馆
+people:
+- 雨白
+products_models: []
 program: 知行小酒馆
+project:
+- personal-growth-lab
 series: null
 source: null
+speaker: 知行小酒馆
+summary: null
+tags:
+- personal-growth
+title: "E195 对话半佛仙人：世上无难事，只要肯放弃（地球online\U0001F3AE非典型通关秘籍）"
 ---
+
 ## 引言：一次关于“内耗”的奇特对话
 
 **雨白：** 欢迎来到知行小酒馆，这是一档有知有行出品的播客节目。我们关注投资，更关注怎样更好的生活。我是李白，这期节目的起心动念来自一次闲聊。

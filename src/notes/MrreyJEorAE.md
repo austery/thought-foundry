@@ -12,7 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Michael Kagan
 - Jensen Huang
 - Steve Jobs
 products_models:

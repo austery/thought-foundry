@@ -16,7 +16,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- J.P. Morgan
 - Donald Trump
 products_models: []
 project:

@@ -10,10 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Jeff Huber
-- Jason Liu
-- Peter Drucker
 products_models:
 - MTeb
 - Gina embeddings v3

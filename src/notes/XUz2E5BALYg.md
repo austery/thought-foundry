@@ -27,8 +27,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Julie Morgan
-- Rebel Wilson
 - Donald Trump
 products_models:
 - Care Credit

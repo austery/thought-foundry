@@ -1,27 +1,24 @@
 ---
-title: 前英国外交官锐评美以“公关式”轰炸真相
-summary: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
 area: society-systems
-category: geopolitics
-project:
-- us-analysis
-tags:
-- geopolitical
-- 媒体偏见
-people:
-- 北美王路飞
-- Craig Murray
-companies_orgs: []
-products_models: []
-date: '2025-07-10'
 author: Lei
-speaker: ''
+category: geopolitics
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+products_models: []
+project:
+- us-analysis
 series: null
 source: https://www.youtube.com/watch?v=F_7-qBbuSVg
+speaker: ''
+summary: 他的观点都很另类，不过我喜欢，只要言之有物，我都乐意听一下，不过可能要减少关注点。
+tags:
+- geopolitical
+- 媒体偏见
+title: 前英国外交官锐评美以“公关式”轰炸真相
 ---
 
 ## 引言：克雷格·莫瑞的背景与视角

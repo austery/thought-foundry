@@ -17,15 +17,7 @@ media_books:
 - 《进击的巨人》
 - 《论人的尊严》
 people:
-- Masahiro Morioka
-- SuperY
-- Hong Shih-Han
-- David Benatar
-- Schopenhauer
 - Nietzsche
-- Zeke
-- Donna Haraway
-- Aldous Huxley
 products_models: []
 project:
 - geopolitics-watch

@@ -15,7 +15,6 @@ layout: post.njk
 people:
 - 卡尼
 - 特鲁多
-- 施瓦布
 - Donald Trump
 products_models:
 - C-61

@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Jamie Woolf
-- Christopher Bell
 products_models: []
 project:
 - personal-growth-lab

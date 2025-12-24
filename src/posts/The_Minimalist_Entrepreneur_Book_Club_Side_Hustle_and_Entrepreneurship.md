@@ -1,36 +1,32 @@
 ---
-title: 《小而美》读书会：关于副业与创业的思考与实践
-summary: null
 area: personal-growth
-category: psychology
-project:
-- personal-growth-lab
-tags:
-  - personal-growth
-  - 小而美
-people:
-  - Vivian
-  - Simon
-  - Ge Su
-  - 路遥
-  - 金玲
-  - Chelsea
-  - 翻新
-  - Fancy
-companies_orgs: []
-products_models: []
-media_books:
-- 读书会
-date: '2025-07-10'
 author: Lei
-speaker: 一口新饭读书会
+category: psychology
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 读书会
+people:
+- Vivian
+- Simon
+- Fancy
+products_models: []
+project:
+- personal-growth-lab
 series: null
 source: null
+speaker: 一口新饭读书会
+summary: null
+tags:
+- personal-growth
+- 小而美
+title: 《小而美》读书会：关于副业与创业的思考与实践
 ---
+
 **主题书籍：**《The Minimalist Entrepreneur》（小而美：持续盈利的经营法则）
 
 ## 讲述者简介

@@ -21,11 +21,7 @@ people:
 - George Soros
 - Scott Bessent
 - Alan Greenspan
-- Ed Hyman
-- Christian Broda
 - Gary Kasparov
-- Sebastian Mallaby
-- Helmut Schlesinger
 products_models:
 - ChatGPT
 - CUDA

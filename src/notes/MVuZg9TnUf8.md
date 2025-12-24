@@ -31,7 +31,6 @@ people:
 - Sam Altman
 - 黄仁勋
 - Warren Buffett
-- 佩洛西
 products_models:
 - ChatGPT
 - Jimmy

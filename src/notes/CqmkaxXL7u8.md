@@ -17,10 +17,8 @@ media_books:
 - 金融时报
 - 香港01
 people:
-- 李成钢
 - 何立峰
 - Janet Yellen
-- Katherine Tai
 - Donald Trump
 - Xi Jinping
 - 林毅夫

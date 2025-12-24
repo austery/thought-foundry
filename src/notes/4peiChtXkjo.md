@@ -11,7 +11,6 @@ media_books:
 - 《老残游记》
 - 《小团圆》
 people:
-- 张赛
 - 项飙
 products_models: []
 project:

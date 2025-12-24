@@ -1,32 +1,30 @@
 ---
+area: null
 author: Lei
+category: null
+created: 2025-09-17T14:16
 date: 2025-09-17
+draft: true
+file_name: thiel_vs_gawker_courtroom_takedown.md
 guest: null
+insight: null
 layout: post.njk
+project: Peter Thiel revenge
+series: null
 source: null
 speaker: 北美王路飞
+status: evergreen
+summary: An analysis of the final phase of the Hogan v. Gawker lawsuit, detailing
+  Thiel's meticulous trial preparation, including mock trials and psychological jury
+  profiling, which starkly contrasted with Gawker's arrogant and ultimately fatal
+  reliance on abstract legal arguments.
 tags:
 - gawker-media
 - media
 - peter-thiel
 - strategy
 title: The Art of Legal Warfare-How Peter Thiel Masterminded Gawker's Courtroom Defeat
-summary: An analysis of the final phase of the Hogan v. Gawker lawsuit, detailing
-  Thiel's meticulous trial preparation, including mock trials and psychological jury
-  profiling, which starkly contrasted with Gawker's arrogant and ultimately fatal
-  reliance on abstract legal arguments.
-insight: null
-file_name: thiel_vs_gawker_courtroom_takedown.md
-draft: true
-series: null
-category: null
-area: null
-project: Peter Thiel revenge
-status: evergreen
-created: 2025-09-17T14:16
 updated: 2025-09-17T14:16
-people:
-- hulk-hogan
 ---
 
 ## 序幕：决战前的消耗战

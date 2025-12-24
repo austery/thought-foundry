@@ -46,7 +46,6 @@ media_books:
 - 彭博社
 - 路透社
 people:
-- Wu Qing
 - Jack Ma
 - Cathie Wood
 - Jensen Huang

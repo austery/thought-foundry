@@ -15,9 +15,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- George Moscone
 - Kamala Harris
-- Sridhar Ramaswamy
 - Modi
 - Joe Biden
 - Barack Obama

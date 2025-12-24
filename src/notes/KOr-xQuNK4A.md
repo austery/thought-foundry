@@ -22,9 +22,7 @@ media_books:
 - How I AI
 people:
 - Tim
-- Alexa
 - Clarvo
-- Dan
 products_models:
 - Cursor
 - ChatGPT

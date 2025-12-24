@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Ido Pesok
 - John
 products_models:
 - Vercel v0

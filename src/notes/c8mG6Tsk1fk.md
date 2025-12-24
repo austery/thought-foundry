@@ -23,14 +23,10 @@ layout: post.njk
 media_books:
 - Range
 people:
-- David Epstein
-- Robin Hogarth
 - Serena Williams
 - Malcolm Gladwell
-- Dash Wong
 - Thomas Edison
 - Adam Grant
-- Ed Hoffman
 - Paul Graham
 - Reed Hastings
 - Mark Zuckerberg

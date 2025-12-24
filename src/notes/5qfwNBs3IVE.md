@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Mike Schroepfer
 products_models:
 - Fusion energy
 - Electric vehicles

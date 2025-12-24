@@ -9,11 +9,8 @@ insight: ''
 layout: post.njk
 people:
 - David Reich
-- SK Wellers
-- Christian Christensen
 - Robert Allen
 - Kyle Harper
-- Montazuma
 products_models: []
 project: []
 series: ''

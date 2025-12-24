@@ -16,9 +16,6 @@ media_books:
 - famine-reporting
 people:
 - Brian Stewart
-- Birhan Woldu
-- Anthony Feinstein
-- Bob Geldof
 products_models: []
 project:
 - geopolitics-watch

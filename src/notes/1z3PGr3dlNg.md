@@ -20,23 +20,11 @@ media_books:
 - 《小花》
 people:
 - Deng Xiaoping
-- Ho Chi Minh
 - Mao Zedong
 - Liu Shaoqi
 - Zhou Enlai
-- Li Fuchun
-- Nie Rongzhen
-- Fan Wenzhen
-- Vo Nguyen Giap
-- Le Duan
 - Richard Nixon
 - Jimmy Carter
-- Zbigniew Brzezinski
-- Xu Shiyou
-- Yang Dezhi
-- Wang Bicheng
-- Zhou Deli
-- Li Qilin
 products_models: []
 project:
 - geopolitics-watch

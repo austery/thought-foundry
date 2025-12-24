@@ -9,9 +9,6 @@ guest: ''
 insight: null
 layout: post.njk
 media_books: []
-people:
-- 佐治亚小帅
-- 孙益正
 products_models: []
 project:
 - ai-impact-analysis

@@ -37,25 +37,10 @@ people:
 - Joe Biden
 - Janet Yellen
 - Mohammed bin Salman
-- Tariq Al-Rumi
-- Maria Zakharova
 - Dmitry Medvedev
 - Xi Jinping
 - Mao Zedong
-- Liu Jianchao
-- Jin Zhuanglong
-- Wang Liyan
-- Wang Kangping
-- Fang Yongxiang
-- Shi Zhenglu
-- Ding Xinglong
-- Wang Jiayi
-- Fang Hongwei
-- Shi Yugang
-- 孙鑫
-- 霍夫曼
 - 王沪宁
-- 彭丽媛
 products_models: []
 project:
 - us-analysis

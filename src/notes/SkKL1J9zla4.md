@@ -17,10 +17,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 莱特邦
-- 帕罗特
-- William Kaplan
 products_models: []
 project:
 - geopolitics-watch

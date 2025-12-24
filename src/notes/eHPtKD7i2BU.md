@@ -25,28 +25,14 @@ media_books:
 - Good Clean Fun
 - The Wire Cutter Show
 people:
-- Nick Offerman
-- Christine Zerette
 - Kyra Blackwell
 - Rosie Garren
-- Doug Mahoney
-- Ron Swanson
-- Ken Egan
-- George Nakashima
-- Meera Nakashima
-- James Krenov
-- Wendel Berry
-- Megan Mullally
-- Lee Buchanan
 - Mattie Maziello
 - Nick Pitman
-- Katherine Anderson
 - Dan Powell
 - Marian Lozano
-- Rowan Nemoto
 - Diane Wong
 - Cliff Levy
-- Ben Fman
 products_models:
 - Estwing hammer
 - Laguna bandsaw

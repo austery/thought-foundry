@@ -12,20 +12,12 @@ media_books:
 - Euclid's Elements
 - Principia Mathematica
 people:
-- Georg Cantor
 - John Conway
 - David Hilbert
 - Bertrand Russell
-- Kurt Gödel
 - Alan Turing
 - John von Neumann
-- Lobashevsky
-- Gauss
 - Henri Poincaré
-- Leopold Kronecker
-- Alfred North Whitehead
-- Hao Wang
-- turing-machine
 products_models:
 - Conway's Game of Life
 - ENIAC

@@ -15,9 +15,6 @@ layout: post.njk
 media_books:
 - The New York Times
 - Black Mirror
-people:
-- Stephanie Dick
-- Johannes Gutenberg
 products_models:
 - ChatGPT
 project:

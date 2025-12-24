@@ -22,7 +22,6 @@ media_books:
 - 《经济学》
 people:
 - Yuval Noah Harari
-- Mankiw
 products_models:
 - 401K
 - IRA

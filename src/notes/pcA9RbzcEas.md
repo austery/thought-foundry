@@ -13,13 +13,8 @@ media_books:
 - 《罗马书》
 - 《老无所依》
 people:
-- 吴建林
-- Dan Carlin
-- Thale Wong
-- Chris Williamson
 - Joe Rogan
 - Lex Friedman
-- Tom Bell
 products_models:
 - Camry
 project:

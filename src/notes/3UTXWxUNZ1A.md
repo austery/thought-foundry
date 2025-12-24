@@ -21,13 +21,7 @@ media_books:
 - In Their Own Voices
 - The Hub
 people:
-- King George V
 - François-Philippe Champagne
-- Michael Petrou
-- William Newberry
-- Alex Baldwin
-- Richard Shimooka
-- Stephanie Carvin
 - Mark Carney
 products_models: []
 project:

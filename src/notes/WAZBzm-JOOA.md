@@ -20,11 +20,8 @@ media_books:
 - The Wire Cutter Show
 - Pie and Pastry Bible
 people:
-- Christine Sierra Classette
 - Kyra Blackwell
 - Rosie Garren
-- Leslie Stockton
-- Rose Levy Baron Bomb
 products_models:
 - Pyrex
 project:

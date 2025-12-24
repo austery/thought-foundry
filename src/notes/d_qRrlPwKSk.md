@@ -21,14 +21,8 @@ people:
 - Mira Murati
 - Adam D'Angelo
 - Helen Toner
-- Tasha McCauley
 - Greg Brockman
-- Brad Lightcap
-- Jason Kwon
-- Daniela Amodei
 - Dario Amodei
-- Simona Agnolocci
-- musk-lawsuit
 products_models:
 - ChatGPT
 - GPT-4 Turbo

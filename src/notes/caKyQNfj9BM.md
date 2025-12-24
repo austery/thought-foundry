@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- nvidias-journey
 companies_orgs:
 - Nvidia
 - OpenAI
@@ -21,7 +23,6 @@ people:
 - Geoffrey Hinton
 - Ilya Sutskever
 - Alex Krizhevsky
-- Shoichiro Irimajiri
 products_models:
 - Direct3D
 - RIVA 128
@@ -44,8 +45,6 @@ tags:
 - future
 - psychology
 title: 黄仁勋的AI远见：能源、恐惧与英伟达的生存之道
-companies:
-- nvidias-journey
 ---
 
 ### 黄仁勋的AI远见：能源、恐惧与英伟达的生存之道

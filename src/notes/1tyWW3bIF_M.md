@@ -10,7 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - elizabeth-holmes
-- tyler-shultz
 products_models: []
 project: []
 series: ''

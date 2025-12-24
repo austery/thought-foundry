@@ -18,15 +18,11 @@ people:
 - Donald Trump
 - Susie Wiles
 - Ron DeSantis
-- Corey Lewandowski
-- Chris LaCivita
 - Joe Biden
 - Kamala Harris
 - Marco Rubio
-- Doug Burgum
 - J.D. Vance
 - Donald Trump Jr.
-- Barron Trump
 - Hillary Clinton
 - Dan Bongino
 products_models:

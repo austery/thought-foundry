@@ -17,13 +17,8 @@ media_books:
 - In Good Company
 people:
 - Nikolai Tangen
-- Dan Pink
-- Howard Marx
 - Annie Duke
-- Teresa Amabile
 - Sam Altman
-- Jim Loehr
-- Tony Schwartz
 products_models: []
 project:
 - personal-growth-lab

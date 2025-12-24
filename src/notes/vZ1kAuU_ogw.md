@@ -13,10 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Joy Joy Chen
-- Esther
-- Isabelle
-- Ben Nelson
 - John Doerr
 products_models: []
 project:

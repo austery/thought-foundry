@@ -32,7 +32,6 @@ people:
 - Paul Graham
 - Larry Page
 - Sergey Brin
-- Nicole Shanahan
 - Ilya Sutskever
 - Greg Brockman
 - Andrej Karpathy

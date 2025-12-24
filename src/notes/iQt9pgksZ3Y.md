@@ -13,8 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Forbes
-people:
-- Kenneth Griffin
 products_models: []
 project:
 - investment-strategy

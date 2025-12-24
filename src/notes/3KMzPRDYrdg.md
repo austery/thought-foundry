@@ -38,25 +38,16 @@ media_books:
 - Foreign Policy
 - Odd Lots podcast
 people:
-- Henry Wang
 - Joe Weisenthal
 - Tracy Alloway
 - Cameron Johnson
-- Hurong
-- Scott Benson
-- Greg
 - Rubio
 - Donald Trump
 - Putin
-- Xi
 - Lula
-- Moody
 - Confucius
-- Jung
-- Columbus
 - Graham Allison
 - Adam Posen
-- Jason Hong
 - David Ricardo
 - Modi
 products_models:

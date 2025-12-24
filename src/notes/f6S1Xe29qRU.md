@@ -17,21 +17,14 @@ media_books:
 - 《泰坦尼克号》
 - 《权力与游戏》
 people:
-- 变态辣椒
-- 吴雷
 - Xi Jinping
 - 胡锦涛
-- 毛新宇
-- 刘翔
 - 江泽民
 - 李鹏
 - 温家宝
-- 金正日
 - 金正恩
 - 奥巴马
 - 艾未未
-- 小杨
-- Edwin Yin Ke
 products_models: []
 project:
 - china-analysis

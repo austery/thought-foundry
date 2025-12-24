@@ -13,13 +13,11 @@ media_books:
 - Thinking, Fast and Slow
 - 《西游记》
 people:
-- Gerd Gigerenzer
 - Daniel Kahneman
 - Gary Kasparov
 - Immanuel Kant
 - Baruch Spinoza
 - Socrates
-- Bian Zhilin
 products_models:
 - Deep Blue
 - AlphaGo

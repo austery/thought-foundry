@@ -18,11 +18,6 @@ people:
 - Steven Mnuchin
 - Ursula von der Leyen
 - 李强
-- Pedro Sánchez
-- Jeppe Kofod
-- Malcolm Turnbull
-- Jeremy Shapiro
-- Gaeta
 - J.D. Vance
 products_models: '[]'
 project:

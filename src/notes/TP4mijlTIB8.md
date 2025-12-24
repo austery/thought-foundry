@@ -99,16 +99,11 @@ people:
 - Sam Altman
 - Steve Eisman
 - Gary Marcus
-- Irwin Simon
 - Larry Ellison
-- Sema Modi
-- Mike Sani
 - Vlad Tenev
 - Lisa Su
 - Chris
 - Matt
-- Scarlet
-- Goulsby
 products_models:
 - H200 AI chips
 - H20 chip

@@ -54,7 +54,6 @@ people:
 - Dan Ives
 - Tom Lee
 - Brad Gerstner
-- Mark Mahaney
 products_models:
 - TPU
 - Gemini 3

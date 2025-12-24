@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Swami Sivasubramanian
 products_models:
 - DynamoDB
 - SageMaker

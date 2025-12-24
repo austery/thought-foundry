@@ -13,7 +13,6 @@ media_books:
 people:
 - 段永平
 - 雨白
-- 小波老师
 products_models: []
 project:
 - investment-strategy

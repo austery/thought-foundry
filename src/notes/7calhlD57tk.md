@@ -12,9 +12,6 @@ layout: post.njk
 media_books:
 - 《投资第一课》
 - 《海德堡与斯》
-people:
-- 张立宪
-- 孟岩
 products_models: []
 project:
 - ai-impact-analysis

@@ -13,7 +13,6 @@ media_books:
 - Forbes
 people:
 - Donald Trump
-- Navarro
 - Obama
 products_models: []
 project:

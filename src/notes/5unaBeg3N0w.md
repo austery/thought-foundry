@@ -23,11 +23,9 @@ media_books:
 - Howard Marks' memo
 people:
 - Howard Marks
-- Greenspan
 - Derek Thompson
 - Buffett
 - Sam Altman
-- Bob
 products_models: []
 project:
 - ai-impact-analysis

@@ -12,9 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 李唐越醫師
-- 霸軒
-- 小美
 - 宋晏仁醫師
 products_models:
 - Garmin Venu 4

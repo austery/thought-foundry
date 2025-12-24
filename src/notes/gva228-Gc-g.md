@@ -12,8 +12,6 @@ media_books:
   What Counts'
 people:
 - Oliver Burkeman
-- Hartmut Rosa
-- Paul Loomans
 products_models: []
 project:
 - personal-growth-lab

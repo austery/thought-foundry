@@ -12,10 +12,7 @@ layout: post.njk
 media_books:
 - Modern Love
 people:
-- Claire Corey
 - Anna Martin
-- Don
-- Roger
 products_models: []
 project:
 - personal-growth-lab

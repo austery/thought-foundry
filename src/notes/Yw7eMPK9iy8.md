@@ -20,11 +20,8 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Carola Binder
 - Jerome Powell
 - Donald Trump
-- Chris Rugerberg
-- Josh Boke
 products_models: []
 project:
 - us-analysis

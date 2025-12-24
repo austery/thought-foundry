@@ -20,8 +20,6 @@ media_books:
 - 《外交事务》
 people:
 - 唐石峻
-- 张中谋
-- 杰西·斯彭斯
 - 查理·芒格
 products_models:
 - Rufus

@@ -29,18 +29,11 @@ media_books:
 - Financial Times
 people:
 - Elon Musk
-- Mary C. Daly
 - John C. Williams
-- Loretta Mester
-- Patrick Harker
-- Alberto G. Musalem
 - J.D. Vance
 - Marco Rubio
 - Charlie Kirk
-- Nikki Haley
-- Tulsi Gabbard
 - Ted Cruz
-- Suhag Shukla
 - Barack Obama
 - Mandani
 - Bill Clinton

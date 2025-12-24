@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ofer Mendelevitch
 products_models:
 - Gemini
 - ChatGPT

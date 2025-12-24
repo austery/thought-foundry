@@ -1,6 +1,8 @@
 ---
 area: personal-systems
 category: psychology
+companies:
+- psychedelic-therapy
 companies_orgs:
 - Johns Hopkins
 - Sandoz
@@ -22,21 +24,9 @@ media_books:
 - 《物种起源》
 - 《自然哲学的数学原理》
 people:
-- Matthew Johnson
-- Kary Mullis
-- Humphry Osmond
-- Aldous Huxley
-- Albert Hofmann
-- Abram Hoffer
-- Timothy Leary
-- Syd Barrett
 - William James
-- Thomas Kuhn
 - Isaac Newton
 - Charles Darwin
-- Terrence McKenna
-- David Chalmers
-- Nagel
 - Jesus
 - Buddha
 products_models:
@@ -81,8 +71,6 @@ tags:
 - health
 - set-and-setting
 title: 迷幻药科学：从大脑机制到心理治疗的革命性潜力
-companies:
-- psychedelic-therapy
 ---
 
 ### 迷幻药的独特魅力：一次体验何以改变一生

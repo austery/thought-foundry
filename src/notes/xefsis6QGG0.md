@@ -49,7 +49,6 @@ media_books:
 - Omdia
 people:
 - Jensen Huang
-- Vera Rubin
 products_models:
 - Vera Rubin
 - Blackwell GPU

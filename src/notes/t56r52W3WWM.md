@@ -26,7 +26,6 @@ media_books:
 people:
 - Sundar Pichai
 - Reed Hastings
-- Ma Huateng
 products_models:
 - ChatGPT
 - Gemini

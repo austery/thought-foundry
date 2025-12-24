@@ -10,9 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 范亞萱醫師
 - Jess教練
-- Dr. Stacy Sims
 products_models:
 - HIIT
 - B-Stance

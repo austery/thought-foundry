@@ -24,8 +24,6 @@ media_books:
 - 《The Daily Beast》
 people:
 - 唐石峻
-- 杨紫琼
-- 夏琳
 products_models:
 - Waymo
 - Kubernetes

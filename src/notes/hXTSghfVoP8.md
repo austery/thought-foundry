@@ -10,11 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《繁花》
-people:
-- 李玫瑾
-- 李果
-- 马某
-- 弗洛伊德
 products_models: []
 project:
 - psychological-development

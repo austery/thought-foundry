@@ -34,7 +34,6 @@ people:
 - Joe Biden
 - Xi Jinping
 - Lee Jae-myung
-- Zhao Changpeng
 - Warren Buffett
 - Elon Musk
 - Sam Altman

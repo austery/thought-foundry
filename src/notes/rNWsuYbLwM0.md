@@ -15,7 +15,6 @@ media_books:
 people:
 - 卢梭
 - John Stuart Mill
-- Isaiah Berlin
 - Franklin D. Roosevelt
 - Gretchen Whitmer
 products_models: '[]'

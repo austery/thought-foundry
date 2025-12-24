@@ -13,8 +13,6 @@ media_books:
 - 《雪球》
 - 《长期买进》
 people:
-- 丹艾瑞丽
-- 杰夫克莱斯勒
 - 巴菲特
 products_models: []
 project:

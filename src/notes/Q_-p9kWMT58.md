@@ -13,7 +13,6 @@ media_books:
 - Journal of Paediatrics
 - LEAP trial
 people:
-- Josh Koenig
 - Robert F. Kennedy Jr.
 products_models: []
 project:

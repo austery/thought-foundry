@@ -18,10 +18,7 @@ media_books:
 people:
 - Donald Trump
 - Joe Biden
-- 贾斯汀·特鲁多
-- 商鹏飞
 - 博励治
-- 邓稼先
 - 哈梅内伊
 products_models:
 - USMCA

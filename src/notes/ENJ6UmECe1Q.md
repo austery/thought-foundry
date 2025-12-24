@@ -14,11 +14,7 @@ insight: ''
 layout: post.njk
 people:
 - Rachel Abrams
-- David Galis
-- Brad Plumer
 - Donald Trump
-- Xi
-- WaBo
 - Chris Wright
 products_models:
 - Paris Climate Agreement

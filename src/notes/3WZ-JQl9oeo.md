@@ -51,7 +51,6 @@ people:
 - Andrej Karpathy
 - Sam Altman
 - Matt Money
-- Steve (The Milkman)
 products_models:
 - Bitcoin
 - Ethereum

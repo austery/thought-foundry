@@ -20,7 +20,6 @@ media_books:
 - 中华秩序
 people:
 - 张雪峰
-- 周泽
 - 李佳琦
 - Xi Jinping
 - 李自成

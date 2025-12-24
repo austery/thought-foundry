@@ -11,9 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Bill Chen
-- Brian Fioca
 products_models:
 - Codeex
 - Codeex Max

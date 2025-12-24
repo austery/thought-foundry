@@ -19,13 +19,8 @@ people:
 - Hakeem Jeffries
 - Mike Johnson
 - John Thune
-- Kevin McCarthy
-- Rand Paul
 - Susan Collins
-- Russell Vought
-- Mr. Smith
 - Nicole Kidman
-- Keith Urban
 products_models:
 - Project 2025
 - Obamacare

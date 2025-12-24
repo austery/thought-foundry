@@ -14,7 +14,6 @@ media_books:
 - The Last Economy
 people:
 - David Sacks
-- Andre Kapati
 products_models:
 - Gemini Flash
 - Cursor

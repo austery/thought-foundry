@@ -47,7 +47,6 @@ media_books:
 - 日经
 - 产经
 people:
-- 刘劲松
 - 高市早苗
 - 李强
 - 王毅
@@ -55,10 +54,7 @@ people:
 - Xi Jinping
 - Vladimir Putin
 - Volodymyr Zelenskyy
-- 滨崎步
 - Margaret Thatcher
-- 魏玲
-- 垂秀夫
 - 尹锡悦
 - 岸田文雄
 - Joe Biden

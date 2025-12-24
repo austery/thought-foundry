@@ -12,17 +12,10 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Grant Gussman
 - Magnus Carlsen
-- William Chase
 - Herbert Simon
 - Malcolm Gladwell
-- Philip Tetlock
-- George Bush
-- Warren Buffet
-- Ted Seides
 - Daniel Kahneman
-- Richard Melton
 products_models:
 - S&P 500
 project:

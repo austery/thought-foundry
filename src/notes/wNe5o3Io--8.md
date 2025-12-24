@@ -26,8 +26,6 @@ media_books:
 people:
 - Donald Trump
 - Ben Castleman
-- Husam Badron
-- Adam Rasg
 - Jared Kushner
 products_models:
 - Cheerios

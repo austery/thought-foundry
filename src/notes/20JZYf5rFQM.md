@@ -21,19 +21,12 @@ media_books:
 people:
 - Vladimir Putin
 - Donald Trump
-- Steve Whitkoff
 - Jared Kushner
 - Volodymyr Zelenskyy
 - Marco Rubio
 - Sergey Lavrov
-- Kirill Dmitriev
-- Yury Ushakov
-- Mark Fogel
 - Henry Kissinger
 - Tony Blair
-- Michael Gross
-- Yegor Gaidar
-- Andriy Yermak
 products_models:
 - Tomahawk cruise missiles
 - F-16 fighter jets

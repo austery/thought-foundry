@@ -1,6 +1,8 @@
 ---
 area: personal-systems
 category: psychology
+companies:
+- psychological-counseling
 companies_orgs:
 - 初日診所
 - Cofit
@@ -12,7 +14,6 @@ layout: post.njk
 media_books:
 - 《解答之書》
 people:
-- 任容萱
 - 鄧雯心醫師
 - 宋晏仁醫師
 products_models:
@@ -35,8 +36,6 @@ tags:
 - self
 - societal
 title: 从体脂最低到内心自由：任容萱的自我接纳与心理疗愈之旅
-companies:
-- psychological-counseling
 ---
 
 ### 追求极致瘦身后的迷失与挣扎

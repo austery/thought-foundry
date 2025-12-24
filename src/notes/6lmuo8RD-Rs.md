@@ -25,7 +25,6 @@ media_books:
 - The MAD Podcast
 - The Unreasonable Effectiveness of Recurrent Neural Networks
 people:
-- Eiso Kant
 - Matt Turck
 - Andrej Karpathy
 products_models:

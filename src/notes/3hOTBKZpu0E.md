@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- psychological-mechanism
 companies_orgs:
 - 纳粹德国
 - 红色高棉
@@ -16,13 +18,6 @@ media_books:
 - 《冷漠的人》
 people:
 - 安争鸣
-- 阿尔贝托·莫拉维亚
-- 马尔切洛
-- 利诺
-- 朱莉娅
-- 夸德里教授
-- 莉娜
-- 奥兰多
 - 墨索里尼
 products_models: []
 project:
@@ -40,8 +35,6 @@ tags:
 - political-conformity
 - society
 title: 《同流者》：揭示普通人如何成为暴政的共谋
-companies:
-- psychological-mechanism
 ---
 
 ### 暴政的本质与普通人的共谋

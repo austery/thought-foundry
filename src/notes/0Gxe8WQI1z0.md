@@ -11,15 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Jan
-- Daniel Burnernhard
-- Sangita Patel
-- Muel Scooter
-- Elizabeth Long
-- Pierre Polyv
-- David Eie
-- Alina Dyap
 products_models:
 - Canoe Pass
 - International Mobility Program

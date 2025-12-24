@@ -10,8 +10,6 @@ insight: null
 layout: post.njk
 media_books:
 - justkeepbuying
-people:
-- nickmaggiulli
 products_models: []
 project:
 - investment-strategy

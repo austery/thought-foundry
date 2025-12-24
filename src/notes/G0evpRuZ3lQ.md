@@ -3,6 +3,8 @@ area: tech-engineering
 author: Lei
 category: ai-ml
 channel: null
+companies:
+- anthropic-claude
 companies_orgs: []
 date: 2025-08-01
 draft: true
@@ -13,7 +15,6 @@ layout: post.njk
 people:
 - Alex
 - Justin
-- Carly
 products_models: []
 project:
 - ai-impact-analysis
@@ -26,8 +27,6 @@ tags:
 - ai-agent
 - code
 title: Anthropic 专家 Carly 分享：Claude 模型与 AI 代理的专业 Prompt Engineering 技巧
-companies:
-- anthropic-claude
 ---
 
 ## 开场与介绍

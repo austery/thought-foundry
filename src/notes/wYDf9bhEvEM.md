@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - new-york-times-podcasts
-people:
-- stephen-king
 products_models: []
 project: []
 series: ''

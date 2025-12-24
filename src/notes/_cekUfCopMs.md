@@ -17,24 +17,8 @@ media_books:
 - 《看见》
 people:
 - 柴静
-- 高平海
-- 朱继红
-- 王静
 - 温家宝
-- 张洁
-- 刘畅
-- 王小鹏
-- 沈纪兰
-- 庄启传
-- 邱继宝
-- 老毛
-- 李阳
-- Kim
-- 张北川
-- 大卫
-- 子路
 - 孔子
-- 夏俊
 products_models: []
 project:
 - china-analysis

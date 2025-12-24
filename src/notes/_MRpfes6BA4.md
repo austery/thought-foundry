@@ -14,7 +14,6 @@ media_books:
 - 《社会成本问题》
 people:
 - 巴菲特
-- 科斯
 products_models: []
 project:
 - us-analysis

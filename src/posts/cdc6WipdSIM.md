@@ -27,27 +27,16 @@ media_books:
 - 《明朝那些事儿》
 people:
 - Ray
-- Allen
-- 谢语论
 - 张修修
-- Paul Millerd
-- Panpan
 - 张敏
-- Xuan
 - Alex
-- Derek Sivers
-- 张老师
 - Arthur Brooks
 - Vivian
 - 王浩
 - 小西瓜
 - Naval Ravikant
-- Adler
 - Nassim Nicholas Taleb
-- Celine
-- 当年明月
 - 王阳明
-- 蔡澜
 products_models:
 - MoneyXYZ
 - Framer

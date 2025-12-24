@@ -25,7 +25,6 @@ people:
 - 段永平
 - 方三文
 - Warren Buffett
-- Ben Graham
 - Charlie Munger
 - 唐石峻
 products_models:

@@ -48,22 +48,9 @@ media_books:
 - 《仓库规模的计算机》
 - 《创始人模式》
 people:
-- Brian Caner
-- Jeff Bonwick
-- Matt Erenss
-- Greg Papadopoulos
 - Larry Ellison
 - Jeff Bezos
-- Kat Cosgrove
-- Craig Mccau
-- Arman Ronacher
 - Richard Sutton
-- Simon Wilson
-- Dave Pacico
-- Tom West
-- Ben Rich
-- Clarence Kelly Thompson
-- Randall Straws
 - Steve Jobs
 products_models:
 - Solaris

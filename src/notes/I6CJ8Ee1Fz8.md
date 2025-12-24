@@ -72,13 +72,11 @@ layout: post.njk
 media_books: []
 people:
 - Donald Trump
-- Kevin Hassid
 - Kevin Warsh
 - Michael Dell
 - Brad Gersonner
 - Eric Trump
 - Jensen Huang
-- Matt Murphy
 - George Kurtz
 - Larry Ellison
 - Sydney Sweeney

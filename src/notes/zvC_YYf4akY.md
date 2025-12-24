@@ -8,8 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- yoshua-bengio
 products_models: []
 project:
 - ai-impact-analysis

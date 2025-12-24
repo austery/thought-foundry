@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《周易》
-people:
-- 付军胜
 products_models: []
 project:
 - cultural-critique

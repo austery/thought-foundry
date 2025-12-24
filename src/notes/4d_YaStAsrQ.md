@@ -11,8 +11,6 @@ layout: post.njk
 media_books:
 - 《30+增肌訓練》
 people:
-- 郭曉韻
-- 曾品嘉
 - 魏士航
 products_models: []
 project:

@@ -15,16 +15,8 @@ media_books:
 - Bones
 people:
 - 朱令
-- 贺敏
 - 柴静
 - 孙维
-- 陈正阳
-- Richard Ash
-- Bill McDowell
-- 王琪
-- 张力
-- 金雅
-- 童爱军
 products_models: []
 project:
 - china-analysis

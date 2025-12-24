@@ -18,9 +18,6 @@ people:
 - 吴国光
 - Elon Musk
 - Xi Jinping
-- 阿玛蒂亚·森
-- 刘宗辉
-- 波尔布特
 products_models:
 - 学习强国APP
 - 脑机接口

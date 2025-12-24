@@ -16,8 +16,6 @@ media_books:
 - 《黑客帝国》
 people:
 - René Descartes
-- Princess Elizabeth of Bohemia
-- Augustine
 - Immanuel Kant
 - Plato
 - Aristotle
@@ -25,7 +23,6 @@ people:
 - Galileo Galilei
 - Isaac Newton
 - Gottfried Wilhelm Leibniz
-- Gilbert Ryle
 - Socrates
 - Friedrich Nietzsche
 - Sigmund Freud

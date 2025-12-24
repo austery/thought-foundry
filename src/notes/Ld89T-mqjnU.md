@@ -22,7 +22,6 @@ people:
 - Elon Musk
 - Jeff Bezos
 - Peter Beck
-- Tim Ellis
 products_models:
 - Terran 1
 - Terran R

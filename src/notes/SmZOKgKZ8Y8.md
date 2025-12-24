@@ -17,7 +17,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 伍大伟
 - 温家宝
 - 华春莹
 - 王毅

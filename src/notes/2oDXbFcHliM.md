@@ -14,14 +14,7 @@ media_books:
 - Micrographia
 people:
 - Steve Jobs
-- Wendell Weeks
-- Hans Janssen
-- Zacharias Janssen
-- Antony Van Leeuwenhoek
-- Robert Hook
-- Hans Lippershey
 - Galileo Galilei
-- Angelo Barovier
 - Petr
 products_models:
 - iPhone

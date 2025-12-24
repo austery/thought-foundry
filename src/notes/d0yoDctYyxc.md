@@ -17,7 +17,6 @@ media_books:
 - 《书经》
 people:
 - 宗庆后
-- 宗馥莉
 products_models: []
 project:
 - investment-strategy

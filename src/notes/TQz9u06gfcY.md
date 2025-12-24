@@ -19,15 +19,8 @@ media_books:
 - 《世界幸福报告》
 - 《国家地理》
 people:
-- 姚怡君
 - 魏士航
 - 宋晏仁
-- Gary Schwartz
-- Richard Davidson
-- 明就仁波切
-- 悉达多王子
-- Jon Kabat-Zinn
-- Bob Stahl
 products_models: []
 project:
 - personal-growth-lab

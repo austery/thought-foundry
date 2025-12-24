@@ -10,11 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Benedetto Vigna
-- Enzo Ferrari
 - David
-- Judy
-- Yakopo
 - Nikolai
 products_models: []
 project:

@@ -21,15 +21,6 @@ media_books:
 - My Fair Lady
 people:
 - Alexandra Samuel
-- Viv
-- Emma Chambers
-- Suzanne Hawk
-- Ala Tanden
-- Zoha Kawaja
-- Peter Pan
-- Annie
-- Eliza Doolittle
-- Stephen Sondheim
 products_models:
 - ChatGPT
 project:

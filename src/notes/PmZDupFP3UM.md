@@ -21,9 +21,6 @@ media_books:
 - Google's project Aristotle
 - SweetBench
 - Dora space framework
-people:
-- Justin Reock
-- W. Edwards Deming
 products_models:
 - AI
 - Genai

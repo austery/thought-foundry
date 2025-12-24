@@ -12,16 +12,10 @@ media_books:
 - 《沉思录》
 - 《骆驼祥子》
 people:
-- Marcus Aurelius
 - Wen Jiabao
 - Bill Clinton
-- James Mattis
 - V.S. Naipaul
-- Zhang Ailing
-- Shu Qingchun
-- Lord Acton
 - Albert Einstein
-- Dai Jitao
 products_models: '[]'
 project:
 - personal-growth-lab

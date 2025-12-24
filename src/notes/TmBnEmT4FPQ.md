@@ -19,14 +19,8 @@ media_books:
 - 中国军网
 - 《超限战》
 people:
-- Tasuku Honjo
-- Susumu Kitagawa
-- Omar Yaghi
 - 钱学森
-- 邓稼先
-- V.K. Wellington Koo
 - 杨振宁
-- 饶毅
 - Otto Hahn
 products_models:
 - V2 Rocket

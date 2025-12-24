@@ -16,7 +16,6 @@ people:
 - 蒋介石
 - 白崇禧
 - 李宗仁
-- 唐生志
 - Elon Musk
 products_models:
 - S&P 500

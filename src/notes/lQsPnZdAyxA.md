@@ -11,12 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《判断人心：一位资深FBI特工的行为预测用户手册》
-people:
-- Robin
-- Leo
-- Jessie
-- Victor
-- JFK
 products_models: []
 project:
 - personal-growth-lab

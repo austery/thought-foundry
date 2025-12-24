@@ -31,15 +31,8 @@ people:
 - 薄熙来
 - 周永康
 - 娄烨
-- 贾樟柯
-- 梁龙
-- 蒋方舟
 - 刘晓波
 - 陈独秀
-- 艾青
-- 狄龙
-- 王维华
-- 周迅
 products_models: []
 project:
 - china-analysis

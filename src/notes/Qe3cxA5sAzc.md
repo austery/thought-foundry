@@ -40,9 +40,6 @@ people:
 - Michelle Bowman
 - Donald Trump
 - Xi Jinping
-- Governor Myron
-- President Schmid
-- Roberto Pley
 - Richard Nixon
 - Joe Biden
 - Kamala Harris

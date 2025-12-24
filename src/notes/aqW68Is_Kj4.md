@@ -11,11 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Katelyn Lesse
-- Swix
-- Barry
-- Mahes
 products_models:
 - Claude
 - Claude Code

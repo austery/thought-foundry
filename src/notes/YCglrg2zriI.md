@@ -1,6 +1,8 @@
 ---
 area: society-thinking
 category: politics-society
+companies:
+- psychological-warfare
 companies_orgs:
 - Maga Inc
 - Republican Party
@@ -19,16 +21,8 @@ people:
 - Donald Trump
 - Ron DeSantis
 - Elon Musk
-- Kanye West
 - Nick Fuentes
-- Susie Wells
-- James Blair
-- Tony Fabrizio
-- Chris Christie
-- Nikki Haley
-- Tim Scott
 - Mike Pence
-- Ronna McDaniel
 - Joe Biden
 products_models:
 - Ozempic
@@ -46,8 +40,6 @@ tags:
 - media
 - us-election-2024
 title: 攻心计：特朗普如何巧妙终结德桑蒂斯的总统梦？
-companies:
-- psychological-warfare
 ---
 
 ### 特朗普的法律困境与支持率逆势上涨

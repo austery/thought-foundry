@@ -13,8 +13,6 @@ media_books:
 - youtube-collaboration
 people:
 - 莊也
-- 东南
-- 老王
 products_models: []
 project:
 - personal-growth-lab

@@ -10,14 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《看不见的中东》
-people:
-- 姚璐
-- 诺瓦
-- 艾哈迈德
-- 拉赫曼
-- 巴图
-- 穆罕默德
-- 朵阿
 products_models: []
 project:
 - cultural-critique

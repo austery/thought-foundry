@@ -47,25 +47,10 @@ media_books:
 - 《日经亚洲》
 - 《外交事务》
 people:
-- Dixon
-- Room Kyle
-- Shane
-- 灰照
-- Jetson Hong
-- SW
-- 欧丽
-- 浩晨
-- 郑章
-- Valer
-- 群科
-- Hotmark
 - 黄仁勋
 - 刘仲敬
 - Donald Trump
-- 刘志军
 - 陈云
-- 许晨庚
-- 卢特尼克
 - Xi Jinping
 products_models:
 - 910C

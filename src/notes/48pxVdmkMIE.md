@@ -17,7 +17,6 @@ insight: ''
 layout: post.njk
 people:
 - Sergey Levine
-- Adnan Esmail
 products_models:
 - GPT-4
 - Claude

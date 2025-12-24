@@ -29,12 +29,6 @@ people:
 - Robert Lighthizer
 - Steven Mnuchin
 - Wendy Cutler
-- Eswar Prasad
-- Tian Peiyan
-- Jin Zhuanglong
-- Michael McMahon
-- Henry Farrell
-- Michael Meidan
 products_models:
 - Blackwell chip
 - Tylenol

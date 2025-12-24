@@ -20,20 +20,6 @@ people:
 - 朱令
 - 孙维
 - 柴静
-- 赫米博士
-- 李顺伟
-- 童宇峰
-- 薛方宇
-- 白广美
-- 童爱君
-- 张力
-- 王琪
-- 李梦成
-- 李树森
-- 王大中
-- 贺美英
-- 马林
-- 王浦
 products_models: []
 project:
 - historical-insights

@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Eric Kelsic
 products_models:
 - Zolgensma
 project:

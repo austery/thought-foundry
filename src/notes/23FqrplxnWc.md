@@ -15,8 +15,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Arkady
 products_models:
 - Gemline
 - ClickHouse

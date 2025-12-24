@@ -18,17 +18,6 @@ media_books:
 - BBC
 - TED大会
 people:
-- 尼可·戴多恩
-- Jennifer Bonjean
-- 哈威·韦恩斯坦
-- 比尔·科斯比
-- R. Kelly
-- 蒂姆·费里斯
-- 格温妮丝·帕特洛
-- 瑞茜·琼斯
-- 雷切尔
-- 鲍勃
-- 贝基
 - 唐纳德·特朗普
 products_models: []
 project:

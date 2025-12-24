@@ -16,8 +16,6 @@ media_books:
 - youtube-algorithm
 people:
 - Derek Muller
-- Brady Heron
-- Jack Conte
 - Stephen Hawking
 - Mr. Beast
 products_models:

@@ -28,8 +28,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Dylan Taylor
 products_models:
 - Starship
 - Falcon 9

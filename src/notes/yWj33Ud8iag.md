@@ -16,10 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Deja Foxx
-- Maya
-- Zehra Naqvi
 products_models:
 - AO3
 - Lore

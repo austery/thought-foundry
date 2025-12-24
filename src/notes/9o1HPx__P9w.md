@@ -14,11 +14,9 @@ media_books:
 - Talladega Nights
 - The Simpsons
 people:
-- Kevin Stitt
 - Matt
 - Abraham Lincoln
 - Donald Trump
-- Ricky Bobby
 products_models:
 - SNAP benefits
 - Worldwide Web

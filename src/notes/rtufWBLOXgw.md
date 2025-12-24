@@ -19,19 +19,9 @@ media_books:
 - The Diary Of A CEO
 people:
 - James Clear
-- David Epstein
-- Ed Latimore
 - Jordan Peterson
 - Daniel Kahneman
-- Steven Pressfield
-- BJ Fogg
-- Trent Durstman
-- Brandon Webb
-- Sir David Brailsford
-- Chris Hoy
 - Roger Federer
-- Ash
-- Dr. Lisa Feldman
 - Kamala Harris
 products_models:
 - Atomic Habits

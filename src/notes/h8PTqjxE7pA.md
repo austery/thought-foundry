@@ -16,9 +16,6 @@ people:
 - 唐石峻
 - 查理·芒格
 - 沃伦·巴菲特
-- 本杰明·格拉汉姆
-- 亚当·纽曼
-- 米格尔·麦凯维
 products_models: []
 project:
 - investment-strategy

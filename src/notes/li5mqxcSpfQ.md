@@ -15,13 +15,7 @@ media_books:
 - 《君主论》
 - 《论李维罗马史》
 people:
-- 马基雅维里
-- 圭恰迪尼
 - Francis Fukuyama
-- 萨佛纳罗拉
-- 查维斯
-- 美第奇家族
-- 伯利克里
 - 亚里士多德
 products_models: []
 project:

@@ -23,7 +23,6 @@ layout: post.njk
 media_books:
 - 《伯克希尔·哈撒韦股东信》
 people:
-- Alice Ch
 - Warren Buffett
 - Charlie Munger
 products_models: []

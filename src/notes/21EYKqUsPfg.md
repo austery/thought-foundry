@@ -12,8 +12,6 @@ people:
 - Richard Sutton
 - Alan Turing
 - John McCarthy
-- Gerry Tesauro
-- Toby Ord
 - Joseph Henrich
 products_models:
 - TD learning

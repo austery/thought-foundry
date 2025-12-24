@@ -24,15 +24,10 @@ media_books:
 - Scale (book)
 people:
 - Andrej Karpathy
-- Geoff Hinton
 - Richard Sutton
 - Yann LeCun
-- Andy Matuschak
-- Gwern
 - Carl Shulman
-- Quintin Pope
 - Sal Khan
-- Nick Lane
 products_models:
 - Claude
 - Codex

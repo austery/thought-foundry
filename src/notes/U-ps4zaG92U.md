@@ -9,9 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 雯心医师
-- 路嘉怡
 products_models:
 - 人类图
 - 葡萄柚精油

@@ -14,27 +14,18 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Mike McKe
 - Jerome Powell
-- Anna Wong
-- Chris Waller
 - Ben Bernanke
-- Emmy Nakamura
 - Donald Trump
 - Kevin Hassett
 - Kevin Warsh
 - Scott Bessent
-- David Zervos
 - Christine Lagarde
-- Andrew Bailey
 - Paul Volcker
 - Lisa Cook
 - Carmen Rodriguez
 - Dashel Bennett
-- Moses Andom
 - Kale Brooks
-- Blake Maples
-- Sage Bowman
 products_models:
 - OddLots podcast
 - Lots More podcast

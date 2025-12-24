@@ -16,10 +16,7 @@ media_books:
 - 《使命召唤》
 - 《洞穴寓言》
 people:
-- Brett Weinstein
 - Joe Rogan
-- James Summers
-- Carl Newport
 - Geoffrey Hinton
 products_models:
 - ChatGPT

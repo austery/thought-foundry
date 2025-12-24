@@ -12,7 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Mats Rahmström
 - Roger Federer
 - Elon Musk
 products_models:

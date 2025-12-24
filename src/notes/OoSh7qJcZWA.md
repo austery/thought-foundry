@@ -18,7 +18,6 @@ people:
 - Vladimir Putin
 - Xi Jinping
 - Deng Xiaoping
-- mao-zedong
 products_models: []
 project:
 - china-analysis

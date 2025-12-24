@@ -20,12 +20,6 @@ media_books:
 - X
 - Giant Tiger
 - Ashley Madison
-people:
-- Eric Sito
-- Steven Ray
-- Jeremy McKenzie
-- Matthew Althorp
-- Brandon Le Point
 products_models: []
 project:
 - us-analysis

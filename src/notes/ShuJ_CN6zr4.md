@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Eno Reyes
 products_models:
 - GPT-4
 project:

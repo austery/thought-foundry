@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- Humphry Davy
 - George Washington
-- Mike Coronella
 products_models:
 - Gatorade
 - Davy lamp

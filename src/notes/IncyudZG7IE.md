@@ -13,13 +13,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Marius
-- Lydia
 - Daniel
-- B
-- Karina
 - Nikolai
-- Marta
 - Bill Gates
 - Sam Altman
 - Elon Musk

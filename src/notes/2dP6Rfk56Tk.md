@@ -17,15 +17,7 @@ media_books:
 - Lup
 people:
 - Natalie Kitroof
-- Catherine Porter
-- Tel Ralph
-- Lega Michon
 - Louis XIV
-- Louis XV
-- Louis XVI
-- Napoleon III
-- Empress Eugenie
-- Duke of Orlon
 - Donald Trump
 - JD Vance
 - Vladimir Putin

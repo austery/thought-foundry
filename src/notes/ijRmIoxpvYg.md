@@ -17,11 +17,8 @@ media_books:
 - X
 - 《星际穿越》
 people:
-- 前泽友作
 - Jared Isaacman
 - Scott
-- Anna Menon
-- Sarah Gillis
 - Jeff Bezos
 - Elon Musk
 - Matt Damon

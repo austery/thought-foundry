@@ -39,15 +39,10 @@ media_books:
 people:
 - Donald Trump
 - Bill Cassidy
-- Kevin Roberts
 - Tucker Carlson
 - Nick Fuentes
-- Hammer
-- Levin
-- Shapiro
 - 高市早苗
 - 薛建
-- 城市
 products_models:
 - 奥巴马医疗
 - 福建号航空母舰

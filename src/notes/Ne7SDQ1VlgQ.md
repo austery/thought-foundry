@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: culture
+companies:
+- craftsman-spirit
 companies_orgs:
 - Motorola
 - Nokia
@@ -16,27 +18,7 @@ media_books:
 - 《百科全书》
 - 《民主与教育》
 people:
-- Richard Sennett
-- Daniel Levitin
 - Hobbes
-- Suzuki Shoichi
-- David Sudnow
-- Michael Polanyi
-- Merleau-Ponty
-- Ivan Sutherland
-- Renzo Piano
-- Hayao Miyazaki
-- Christopher Wren
-- John Dewey
-- Pico della Mirandola
-- Diderot
-- John Ruskin
-- Edwards Deming
-- Richard Lester
-- Michael Piore
-- Huizinga
-- Erik Erikson
-- Catherine the Great
 products_models:
 - CAD software
 project:
@@ -54,8 +36,6 @@ tags:
 - revolution
 - skill
 title: 《匠人》：重拾被现代社会遗忘的匠人精神与创造力
-companies:
-- craftsman-spirit
 ---
 
 ### 匠人精神的定义与一万小时定律

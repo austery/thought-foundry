@@ -14,9 +14,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Jonas Salk
-- Eric Lundgren
-- James Boyle
 - Richard Stallman
 products_models: []
 project:

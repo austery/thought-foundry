@@ -13,9 +13,6 @@ media_books:
 - Stephen Hawking's last book
 people:
 - Stephen Hawking
-- Daniel Barringer
-- Prof. Jewitt
-- Dom
 products_models: []
 project:
 - historical-insights

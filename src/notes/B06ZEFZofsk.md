@@ -14,8 +14,6 @@ media_books:
 - New York Times
 people:
 - Hugo Chávez
-- Irene Sáez
-- Carmona
 - Nicolás Maduro
 products_models: []
 project:

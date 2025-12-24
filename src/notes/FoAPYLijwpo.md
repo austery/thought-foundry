@@ -24,15 +24,8 @@ people:
 - John Adams
 - James Madison
 - Andrew Jackson
-- Jo Freeman
-- Subcomandante Marcos
-- Mubarak
-- Rebecca Solnit
 - Gandhi
 - Martin Luther King
-- Lin Feifan
-- Chen Weiting
-- Huang Guochang
 products_models:
 - NAFTA
 project:

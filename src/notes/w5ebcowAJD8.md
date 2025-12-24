@@ -13,16 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Samuel Finley Breese Morse
-- Bernard Silver
-- Norman Joseph Woodland
-- David Allais
-- Masahiro Hara
-- Irving S. Reed
-- Gustav Solomon
-- Richard Hamming
-- MattKC
 products_models:
 - Code 49
 - PDF417

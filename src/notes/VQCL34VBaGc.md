@@ -30,19 +30,13 @@ media_books:
 - 《纽约时报》
 - 《金融时报》
 people:
-- 约翰·威廉斯
 - 鲍威尔
 - 泽连斯基
 - Donald Trump
-- 库斯纳
 - 蔡英文
 - 赖清德
-- 彭定康
 - Xi Jinping
-- 黄循财
-- 颜金勇
 - 丁薛祥
-- 卡亚·卡拉斯
 products_models: []
 project:
 - china-analysis

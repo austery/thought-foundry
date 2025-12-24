@@ -19,10 +19,6 @@ media_books:
 - 《金融投资史》
 - 《从优秀到卓越》
 - 《斯坦福大学证券集体诉讼数据》
-people:
-- Edward Chancellor
-- Jim Collins
-- Tullock
 products_models:
 - Nasdaq
 - Dow Jones Industrial Index

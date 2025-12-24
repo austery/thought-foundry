@@ -23,9 +23,6 @@ media_books:
 - x平台
 people:
 - Michael Burry
-- Michael
-- Bryan
-- Branny
 products_models:
 - GB200
 - H100

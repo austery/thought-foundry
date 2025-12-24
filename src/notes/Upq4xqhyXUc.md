@@ -20,18 +20,9 @@ media_books:
 - 《河南的艾滋病经西反映今日成就》
 - 《纽约时报》
 people:
-- 高耀洁
 - 柴静
 - 艾晓明
-- 王淑萍
-- 张可
-- 张继成
-- 桂贤
-- 张文康
-- 蒋彦永
 - 胡锦涛
-- 林世钰
-- 张静雅
 products_models: []
 project:
 - china-analysis

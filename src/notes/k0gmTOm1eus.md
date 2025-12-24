@@ -15,8 +15,6 @@ media_books:
 people:
 - Claire Vo
 - Lee
-- Dennis from Chime
-- Elizabeth Lynn
 products_models:
 - ChatPRD
 - Vzero

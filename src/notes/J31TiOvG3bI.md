@@ -16,8 +16,6 @@ media_books:
 - 《中國不承認的地下經濟》
 - 新華網
 - 搜狐新聞
-people:
-- Goddard
 products_models:
 - S&P 500
 project:

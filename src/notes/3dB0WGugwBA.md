@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Mark Schneider
 products_models: []
 project:
 - systems-thinking

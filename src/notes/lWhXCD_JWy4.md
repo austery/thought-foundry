@@ -15,7 +15,6 @@ layout: post.njk
 media_books:
 - Odd Lots podcast
 people:
-- Dan Ivascyn
 - Joe Weisenthal
 - Tracy Alloway
 - Michael Milken

@@ -15,7 +15,6 @@ media_books:
 - 《女人女人》
 people:
 - 宋晏仁
-- 鄭丞傑
 products_models:
 - 海芙刀
 - 微波刀

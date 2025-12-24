@@ -18,10 +18,6 @@ media_books:
 - 《中国期刊》
 people:
 - 孔子
-- 周厉王
-- Albert Hirschman
-- Martin King Whyte
-- 海明威
 products_models: []
 project:
 - china-analysis

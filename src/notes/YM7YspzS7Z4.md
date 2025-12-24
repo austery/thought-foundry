@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《自控力》
-people:
-- 凯利·麦格尼格尔
 products_models: []
 project: []
 series: ''

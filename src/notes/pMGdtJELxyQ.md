@@ -25,7 +25,6 @@ people:
 - 唐石峻
 - Peter Lynch
 - Warren Buffett
-- Alex Ch
 products_models:
 - EUV光刻机
 - Venmo借记卡

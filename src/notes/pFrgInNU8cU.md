@@ -22,8 +22,6 @@ media_books:
 - Toronto Star
 people:
 - Mark Carney
-- Shannon Gormley
-- Akaash Maharaj
 - Justin Trudeau
 - Anita Anand
 products_models: []

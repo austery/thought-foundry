@@ -31,13 +31,8 @@ media_books:
 - Quora
 people:
 - Sam Altman
-- George Zachary
-- Mike Volpi
 - Jeff Bezos
 - Eric Schmidt
-- Travis Kalanick
-- Marco
-- Mikuela
 products_models:
 - AWS
 - Kong API Gateway

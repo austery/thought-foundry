@@ -18,9 +18,7 @@ media_books:
 - Neo Show
 people:
 - Sam Altman
-- Alexandr Wang
 - Mark Zuckerberg
-- Lilian Weng
 products_models:
 - Outlook
 - Gmail

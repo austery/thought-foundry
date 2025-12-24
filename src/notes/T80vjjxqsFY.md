@@ -11,11 +11,9 @@ layout: post.njk
 media_books:
 - 《史记》
 people:
-- 滨崎步
 - 孔子
 - Naval Ravikant
 - 甘地
-- 尼赫鲁
 products_models:
 - 柯尔特M1911手枪
 project:

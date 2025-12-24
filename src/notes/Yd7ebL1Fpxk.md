@@ -29,11 +29,9 @@ media_books:
 - 《纽约时报》
 - 《经济学人》
 people:
-- Joko Widodo
 - Prabowo Subianto
 - Donald Trump
 - Xi Jinping
-- Oren Cass
 - Jason Furman
 products_models:
 - iPhone

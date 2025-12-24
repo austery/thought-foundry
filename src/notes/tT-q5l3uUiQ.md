@@ -17,13 +17,6 @@ media_books:
 - A Bloody Scandal
 people:
 - Nam Kiwanuka
-- Dr. Matthew Leonardi
-- Evelyn Scott
-- Ariana Longley
-- Max Stussy
-- Ricardo Diaz
-- Jonathan Hallowell
-- Lorie F
 - John Ferry
 products_models: []
 project:

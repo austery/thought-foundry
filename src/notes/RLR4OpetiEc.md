@@ -10,7 +10,6 @@ insight: null
 layout: post.njk
 media_books: []
 people:
-- richard-sutton
 - 大飞
 - Richard Sutton
 products_models: []

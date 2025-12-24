@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- michael-jordan
 products_models: []
 project:
 - ai-impact-analysis

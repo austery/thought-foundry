@@ -28,25 +28,11 @@ media_books:
 - 《2001太空漫游》
 - 《超智慧》
 people:
-- Frank Rosenblatt
-- Marvin Minsky
 - Jeffrey Hinton
-- 杨立坤
-- Terry Sinoski
-- 邓丽
-- 吴恩达
 - Larry Page
-- Shen Legg
 - Demis Hassabis
 - Mark Zuckerberg
-- 于凯
-- 李彦宏
 - Elon Musk
-- Nick Bostrom
-- 李世石
-- 柯杰
-- Deborah Rodge
-- Ding Pomelo
 products_models:
 - Sora
 - AlphaGo

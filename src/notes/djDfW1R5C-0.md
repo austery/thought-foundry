@@ -37,7 +37,6 @@ media_books:
 - 《世界知识产权指标》
 people:
 - Justin Trudeau
-- Scott Morrison
 products_models: []
 project:
 - us-analysis

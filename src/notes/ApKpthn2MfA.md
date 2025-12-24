@@ -9,20 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 黄高乐
-- 大卫·贝克
-- 孙膑
-- 田忌
-- 齐威王
-- 香农
-- 孙颖莎
-- 陈梦
-- 张继科
-- 斯金纳
-- 巴甫洛夫
-- 威尔·莱特
-- 席德·梅尔
 products_models:
 - 小霸王学习机
 - 双人成行

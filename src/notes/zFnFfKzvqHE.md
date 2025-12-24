@@ -17,10 +17,7 @@ media_books:
 - 《回家》
 - 《对话领导力》
 people:
-- 赖佩霞
 - 梁晓华
-- 杨定一
-- David Hawkins
 products_models: []
 project:
 - personal-growth-lab

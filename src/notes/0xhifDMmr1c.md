@@ -26,7 +26,6 @@ media_books:
 people:
 - 唐石峻
 - 扎克伯格
-- 杰夫·贝佐斯
 - 巴菲特
 products_models:
 - 拉莫

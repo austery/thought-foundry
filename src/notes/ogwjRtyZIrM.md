@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - bloomberg-podcasts
-people:
-- nicola-willis
 products_models: []
 project:
 - investment-strategy

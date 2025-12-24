@@ -16,14 +16,11 @@ media_books:
 people:
 - Susie Wiles
 - Donald Trump
-- Pat Summerall
 - Rick Scott
 - Ron DeSantis
-- Chris Whipple
 - Donald Trump Jr.
 - J.D. Vance
 - Elon Musk
-- Ross Vought
 - Pam Bondi
 - Bill Clinton
 - Robert F. Kennedy Jr.

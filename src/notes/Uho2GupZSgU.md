@@ -31,10 +31,8 @@ people:
 - David Sacks
 - Ronald Reagan
 - Donald Trump
-- Jack Clark
 - Sam Altman
 - Andrej Karpathy
-- Balaji Srinivasan
 - Mark Zuckerberg
 - Peter Thiel
 - Paul Atkins
@@ -42,7 +40,6 @@ people:
 - Pete Buttigieg
 - Chris Wright
 - Bill Gates
-- Troy Mallister
 - Daniel Lurie
 - Chesa Boudin
 products_models:

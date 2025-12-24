@@ -33,15 +33,7 @@ media_books:
 - romance-novel
 people:
 - MJ Franklin
-- Tina Jordan
-- John Maher
-- Alexandra Alter
-- Joan Didion
-- Anne Patchet
-- Rebecca Yaros
-- James Patterson
 - Mr. Beast
-- Mel Robbins
 - Kamala Harris
 products_models:
 - ChatGPT

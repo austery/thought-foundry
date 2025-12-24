@@ -13,20 +13,13 @@ insight: ''
 layout: post.njk
 people:
 - Paul Dirac
-- Eugene Wigner
 - Werner Heisenberg
 - Niels Bohr
 - Wolfgang Pauli
 - Albert Einstein
-- Erwin Schrodinger
-- Oskar Klein
-- Walter Gordon
-- Vladimir Fock
 - Carl Anderson
-- Ernst Stueckelberg
 - Richard Feynman
 - Max Born
-- Margit Wigner
 products_models:
 - Dirac equation
 - Schrodinger equation

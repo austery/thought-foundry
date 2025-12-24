@@ -12,7 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Michael Aubaro
 - Peter Goodman
 - Joe Biden
 - Donald Trump

@@ -18,10 +18,7 @@ layout: post.njk
 media_books:
 - The Economist
 people:
-- Tobias Gherke
 - Scott Bessent
-- Deng Xiaopeng
-- Michaela Roibu
 - Trump
 products_models:
 - F-35 jet

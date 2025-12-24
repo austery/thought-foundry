@@ -33,7 +33,6 @@ media_books:
 people:
 - Xi Jinping
 - Donald Trump
-- Michael Barry
 products_models:
 - ChatGPT 5.2
 - Gemini

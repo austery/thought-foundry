@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 魏士航医师
-- 周建安医师
 - 宋晏仁医师
 products_models: []
 project:

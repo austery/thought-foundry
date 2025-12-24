@@ -14,8 +14,6 @@ media_books:
 - 《有限游戏与无限游戏》
 - 《与神对话》
 - 《第二座山》
-people:
-- 吴思
 products_models: []
 project: []
 series: ''

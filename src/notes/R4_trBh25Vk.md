@@ -27,14 +27,8 @@ media_books:
 - Sports Geek
 - British Vogue
 people:
-- Kate Johnson
-- Christine Sinclair
 - Cristiano Ronaldo
 - Lionel Messi
-- Gianni Infantino
-- Ilona Maher
-- Logan Hackett
-- Sean Callanan
 products_models:
 - iPhone
 - Hotmail

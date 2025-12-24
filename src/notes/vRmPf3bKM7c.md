@@ -21,7 +21,6 @@ people:
 - Donald Trump
 - Marco Rubio
 - Vladimir Putin
-- Paul Ingracia
 - Martin Luther King
 products_models: []
 project:

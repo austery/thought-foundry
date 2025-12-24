@@ -15,18 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《超人前传Smallville》
-people:
-- Alison Mack
-- Keith Raniere
-- Nancy Salzman
-- Claire Bronfman
-- Pam Cafritz
-- India Oxenberg
-- Catherine Oxenberg
-- Emma Watson
-- Kelly Clarkson
-- Frank Mink
-- Edgar Bronfman Sr.
 products_models:
 - Smallville
 - Viper Room

@@ -1,43 +1,43 @@
 ---
+area: tech-work
 author: Shanghao Jin
+category: ai-ml
+companies_orgs:
+- OpenAI
+- Nvidia
+- Intel
+- Google
+- TSMC
+- AMD
+- UBS
 date: '2025-12-09'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books: []
+people:
+- Sam Altman
+- 张忠谋
+products_models:
+- GPT-4
+- H200
+project:
+- ai-impact-analysis
+series: ''
 source: https://www.youtube.com/watch?v=Lm6ZqCfBJrc
 speaker: Shanghao Jin
-tags:
-  - llm
-  - semiconductor
-  - monetary-policy
-  - fiscal-policy
-  - market-outlook
-title: 2025年12月9日市场展望：美联储、日本与半导体行业深度解析
-summary: 本期节目深入探讨了2025年12月市场面临的关键宏观经济和行业趋势。主持人分析了美联储的鸽派政策倾向及未来降息预期，指出日本央行政策的分裂性及其对日元贬值和全球流动性的影响。随后，节目聚焦半导体行业，详细分析了英伟达在AI芯片领域的领先地位、供应链韧性及业绩增长潜力，并对英特尔的晶圆代工业务、CPU短缺问题及估值进行了探讨。最后，主持人强调了市场多头情绪和短期回调的有限性。
-insight: ''
-draft: true
-series: ''
-category: ai-ml
-area: tech-work
-project:
-  - ai-impact-analysis
-people:
-  - Sam Altman
-  - 张忠谋
-  - 陈立
-companies_orgs:
-  - OpenAI
-  - Nvidia
-  - Intel
-  - Google
-  - TSMC
-  - AMD
-  - UBS
-products_models:
-  - GPT-4
-  - H200
-media_books: []
 status: evergreen
+summary: 本期节目深入探讨了2025年12月市场面临的关键宏观经济和行业趋势。主持人分析了美联储的鸽派政策倾向及未来降息预期，指出日本央行政策的分裂性及其对日元贬值和全球流动性的影响。随后，节目聚焦半导体行业，详细分析了英伟达在AI芯片领域的领先地位、供应链韧性及业绩增长潜力，并对英特尔的晶圆代工业务、CPU短缺问题及估值进行了探讨。最后，主持人强调了市场多头情绪和短期回调的有限性。
+tags:
+- llm
+- semiconductor
+- monetary-policy
+- fiscal-policy
+- market-outlook
+title: 2025年12月9日市场展望：美联储、日本与半导体行业深度解析
 ---
+
 ### 宏观经济与市场展望
 
 大家好，死死多头又来唱多了。我们今天主要讲几个事情。上两周我们比较明确地讨论过美联储政策，虽然这周三美联储要进行议息会议，但大概率还是要降息。我认为联储政策已经比较明确，正如“train has left the station”，政策将偏软，明年会想办法释放流动性。无论**杰罗姆·鲍威尔**（Jerome Powell: 现任美联储主席）还是**凯文**（Kevin: 潜在的新任联储主席），市场对此反应不大，大家还在等待联储主席的公开讲话。但不管谁在台上，态度都将偏软。上周我讲了较多宏观方向，这周主要关注几个方面：第一，美股或风险资产在什么时点可以买入，以及明年的展望；第二，行业分析，重点关注**英伟达**（Nvidia）和**英特尔**（Intel）；第三，日本的宏观经济政策。

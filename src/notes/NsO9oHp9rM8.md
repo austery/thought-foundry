@@ -12,15 +12,10 @@ media_books:
 - 《论美国的民主》
 - 《中国日报》
 people:
-- 马德佳
 - 毛泽东
 - 邓小平
 - 刘少奇
-- 邓朴方
 - 托克维尔
-- 阿克顿勋爵
-- 胡星斗
-- 黄安刚
 products_models: []
 project:
 - china-analysis

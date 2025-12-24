@@ -17,8 +17,6 @@ media_books:
 - The Emperor of All Maladies
 people:
 - Nicola Tangan
-- Thomas Schinecker
-- Severin Schwan
 products_models: []
 project:
 - ai-impact-analysis

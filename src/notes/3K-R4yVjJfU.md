@@ -14,7 +14,6 @@ media_books:
 - The MAD Podcast
 - Attention is All You Need
 people:
-- Łukasz Kaiser
 - Matt Turck
 - Ray Kurzweil
 - Ilia Sutskever

@@ -14,8 +14,6 @@ people:
 - Marte
 - Sam Altman
 - Jens Stoltenberg
-- Andreas
-- Sara
 products_models:
 - ChatGPT
 - Claude

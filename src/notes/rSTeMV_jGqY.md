@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Daria
 products_models: []
 project:
 - ai-impact-analysis

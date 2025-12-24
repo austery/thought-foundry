@@ -15,13 +15,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Nicolola Tangan
-- Rob Wallace
-- David Swenson
-- Chris Han
-- Dean Takahashi
-- Mikhail Baryshnikov
 products_models: []
 project:
 - investment-strategy

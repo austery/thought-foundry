@@ -20,24 +20,8 @@ media_books:
 - 金庸武侠小说
 - 《星际效应》
 people:
-- 金凤熙
-- 张喜秀
-- 李强勋
-- 张朱元
-- 黄志熙
-- 金斗直
-- 李美贤
-- Irving Goffman
 - David Graeber
 - Michel Foucault
-- Ellen Badiou
-- Massimo Liccati
-- Abraham
-- Torok
-- Icarus
-- Daedalus
-- Telemachus
-- Odysseus
 - 金正恩
 products_models: []
 project:

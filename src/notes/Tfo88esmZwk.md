@@ -25,13 +25,6 @@ media_books:
 - Desert Island Discs
 - Hamilton
 - In Good Company
-people:
-- Nicolola Tangen
-- Amanda Blanc
-- Charlotte Jones
-- Claude Bébéar
-- Thomas Buberl
-- David Attenborough
 products_models:
 - Solvency UK rules
 - Consumer Duty

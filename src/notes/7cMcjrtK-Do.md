@@ -12,22 +12,6 @@ layout: post.njk
 media_books:
 - 'The Calling: Three Fundamental Shifts to Stay True, Get Paid and Do Good'
 - 'Intentional Ambition: Redefining Your Work for Greater Joy, Freedom, and Fulfillment'
-people:
-- Elise Hugh
-- Rha Goddess
-- Christie
-- Kelly S.
-- Ryan S.
-- Sofal E.
-- Ozgushi
-- Kim H.
-- Jeannie J.
-- Manoj M.
-- Wanderly D.
-- Jennifer S.
-- Tara W.
-- Gail Stra
-- David Gerson
 products_models: []
 project:
 - personal-growth-lab

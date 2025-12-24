@@ -24,7 +24,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Reno W.
 - Donald Trump
 - Hassett
 products_models:

@@ -13,14 +13,6 @@ layout: post.njk
 media_books:
 - 《万物静默如谜》
 - 《达芬奇的笔记本》
-people:
-- 池晓
-- 托尼里特尔
-- 林徽因
-- 梁思成
-- 祖悦
-- 小丁
-- 瓶子老师
 products_models: []
 project:
 - historical-insights

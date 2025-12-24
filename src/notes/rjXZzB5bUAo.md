@@ -16,11 +16,7 @@ media_books:
 people:
 - Derek
 - Petr
-- Larry
-- Leland Sprinkle
-- Rob Scallon
 - Andrew
-- Quint
 products_models:
 - Great Stalacpipe Organ
 - NordVPN

@@ -11,10 +11,7 @@ layout: post.njk
 media_books:
 - The Aviator
 people:
-- Chris Hadfield
 - Destin Sandlin
-- Osborne Reynolds
-- The Mythbusters
 products_models:
 - Cottonelle flushable wipes
 project:

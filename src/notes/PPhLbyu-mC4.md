@@ -19,9 +19,7 @@ people:
 - Samuel Huntington
 - Gunnar Myrdal
 - Friedrich Hayek
-- James Adams
 - V.S. Naipaul
-- William Hasty
 - Bill Clinton
 - George W. Bush
 - Barack Obama

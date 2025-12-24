@@ -13,7 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - Nikolai
-- Halvor
 products_models:
 - ChatGPT
 - Cloud Code

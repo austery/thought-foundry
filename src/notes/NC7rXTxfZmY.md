@@ -1,6 +1,8 @@
 ---
 area: personal-systems
 category: lifestyle
+companies:
+- metabolic-syndrome
 companies_orgs:
 - 初日醫學
 - Cofit
@@ -14,7 +16,6 @@ media_books:
 - 《肾脏求救中》
 - 《初日会客室》
 people:
-- 洪永祥
 - 宋晏仁
 products_models: []
 project:
@@ -30,8 +31,6 @@ tags:
 - management
 - technology
 title: 肾脏科名医洪永祥：警惕慢性肾衰竭，揭秘台湾高洗肾率成因与防治关键
-companies:
-- metabolic-syndrome
 ---
 
 ### 引言：从洗肾到预防的转变

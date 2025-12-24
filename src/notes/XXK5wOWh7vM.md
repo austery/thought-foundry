@@ -14,18 +14,8 @@ media_books:
 - 《宣讲》
 - 《顺天时报》
 people:
-- Thomas Kelly
-- Barry Maguire
-- Susanna Rinard
-- Jonathan Way
-- A.K. Floridi
-- Blaise Pascal
 - Thomas Aquinas
-- Anselm
-- Richard Feldman
-- Andrew Reisner
 - Steve Jobs
-- 罗曼·罗兰
 products_models:
 - 《论证与说服50讲》
 - Agora讨论社区

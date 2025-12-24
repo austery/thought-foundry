@@ -19,19 +19,8 @@ media_books:
 - Big Little Lies
 people:
 - Nam Kiwanuka
-- Dr. Michelle Cohen
-- Sheryl Crow
-- Salt 'n' Pepa
-- Meatloaf
-- Cypress Hill
-- Rudolf Virchow
 - Nicole Kidman
 - Donald Trump
-- Matthew O'Mara
-- Max Stussi
-- Jonathan Halliwell
-- Laurie Few
-- John Ferri
 products_models:
 - Thalidomide
 - Women's Health Initiative

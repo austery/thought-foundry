@@ -11,10 +11,6 @@ layout: post.njk
 media_books:
 - 《单身社会》
 - 《无缘社会》
-people:
-- 刘汶蓉
-- 阿尼特
-- 戈尔丁
 products_models: []
 project:
 - us-analysis

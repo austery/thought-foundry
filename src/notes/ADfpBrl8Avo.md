@@ -27,8 +27,6 @@ people:
 - Ian Dunning
 - Jill Weisenthal
 - Tracy Alloway
-- Don Wilson
-- Lloyd Blankfine
 - Sam Altman
 products_models:
 - ChatGPT

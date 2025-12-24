@@ -12,7 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 李思賢
-- 吳家碩
 products_models: []
 project:
 - personal-growth-lab

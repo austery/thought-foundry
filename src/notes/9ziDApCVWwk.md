@@ -22,7 +22,6 @@ insight: ''
 layout: post.njk
 people:
 - Jerome Powell
-- Lisa D. Cook
 - Austan Goolsbee
 products_models:
 - SPDR S&P 500 ETF Trust

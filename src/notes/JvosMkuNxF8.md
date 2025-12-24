@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Yegor Denisov-Blanch
 products_models:
 - GitHub Copilot
 - Cursor

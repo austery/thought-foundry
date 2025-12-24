@@ -19,14 +19,6 @@ media_books:
 - The New Menopause
 - The New Perimenopause
 - Roar
-people:
-- Stacy Sims
-- Vonda Wright
-- Natalie Crawford
-- Mary Claire Haver
-- Hal Hershfield
-- Lisa Muscone
-- Dr. Beck
 products_models:
 - Whoop
 - DEXA scan

@@ -14,7 +14,6 @@ media_books:
 - moneyx YZ
 people:
 - Elon Musk
-- 老于
 products_models:
 - Robotaxi
 - Model 3

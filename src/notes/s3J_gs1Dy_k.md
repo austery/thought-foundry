@@ -14,15 +14,12 @@ insight: ''
 layout: post.njk
 people:
 - Jens Stoltenberg
-- Mark Rutte
 - Vladimir Putin
 - Barack Obama
 - Joe Biden
 - Donald Trump
 - Recep Tayyip Erdoğan
 - Alexander Stubb
-- Bank Harm Scan
-- Georges Clemenceau
 products_models:
 - Javelin
 - US Abrams Tanks

@@ -11,14 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 古巴导弹危机演讲
-people:
-- 罗宾·德里克
-- 利奥
-- 维克多
-- 谢尔盖
-- 杰西
-- 安南
-- 肯尼迪总统
 products_models:
 - '《Sizing People Up: A Behavioral Prediction User''s Manual for an FBI Agent》'
 project:

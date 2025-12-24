@@ -14,13 +14,6 @@ media_books:
 - 《一只狼在放哨》
 - 《蛋梦见，自己是块石头》
 people:
-- 我是白
-- 烟囱
-- 甘木
-- 左马
-- Sammy
-- 阿巴斯·基阿鲁斯达米
-- 乌青
 - 项飙
 products_models: []
 project:

@@ -15,14 +15,7 @@ media_books:
 - 《女巫之锤》
 people:
 - Karl Marx
-- Silvia Federici
-- Wu Jianmin
-- Benjamin Z. Kedar
-- Geoffrey Chaucer
-- John Ball
-- Dong Jingquan
 - Francis Bacon
-- James I
 products_models: []
 project:
 - historical-insights

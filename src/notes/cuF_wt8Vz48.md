@@ -18,10 +18,6 @@ media_books:
 - The McKenzie report on the women's health gap in Canada
 people:
 - Nam Kiwanuka
-- Rodney Graham
-- Lena Dunham
-- Jamila Jamil
-- Sydney Jazualdi
 products_models: []
 project:
 - us-analysis

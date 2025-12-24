@@ -9,9 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Governor Myin
 - Paul
-- Cherpaw
 products_models: []
 project:
 - us-analysis

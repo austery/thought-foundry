@@ -19,14 +19,8 @@ media_books:
 people:
 - Annie Duke
 - Nikolai
-- Nate Silver
-- Pete Carroll
 - Daniel Kahneman
 - Bill Gates
-- John Baron
-- Vanessa Selbst
-- Liv Boeree
-- Maria Ho
 products_models:
 - Bitcoin
 project:

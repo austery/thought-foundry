@@ -29,14 +29,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Diego Rodriguez
-- Josh
-- Eugene
-- Jonas
-- Sua
-- David Vorick
-- Alex Atala
 products_models:
 - Quorki 72B
 - S1

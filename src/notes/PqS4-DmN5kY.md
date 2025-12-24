@@ -25,15 +25,9 @@ media_books:
 people:
 - Tracy Aloway
 - Joe Weisenthal
-- Nelly Lang
-- Ira Jersey
-- Josh Younger
 - Carmen Rodriguez
-- Arman Bennett
 - Kell Brooks
 - Donald Trump
-- Bastiat
-- Taleb
 products_models:
 - Odd Lots podcast
 - RRP

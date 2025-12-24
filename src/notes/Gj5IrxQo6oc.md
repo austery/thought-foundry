@@ -20,20 +20,6 @@ layout: post.njk
 media_books:
 - 《古兰经》
 - X平台
-people:
-- 查尔斯三世
-- 安德松
-- 埃克赛尔·鲁达库巴纳
-- 阿里沙·沙卡提
-- 安德鲁·泰勒
-- 汤米·罗维逊
-- 安德斯
-- 斯塔默
-- 默克尔
-- 卡梅伦
-- 萨科齐
-- 勒庞
-- 基克尔
 products_models: []
 project:
 - geopolitics-watch

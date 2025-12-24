@@ -21,7 +21,6 @@ people:
 - C.S. Lewis
 - 哈梅内伊
 - 内塔尼亚胡
-- 霍梅尼
 - 亚里士多德
 - Donald Trump
 products_models: '[]'

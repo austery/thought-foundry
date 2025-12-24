@@ -7,12 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 瓦兹
-- 斯特罗加茨
-- 米尔格拉姆
-- 格兰诺维特
-- 罗恩·伯特
 products_models: []
 project:
 - social-network-analysis

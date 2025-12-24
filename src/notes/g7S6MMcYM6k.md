@@ -15,10 +15,8 @@ layout: post.njk
 media_books:
 - Leisure, The Basis of Culture
 people:
-- Arthur C. Brooks
 - Adi Ignatius
 - Mark Zuckerberg
-- Josef Pieper
 products_models:
 - HBR IdeaCast
 project:

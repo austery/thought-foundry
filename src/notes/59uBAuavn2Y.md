@@ -14,7 +14,6 @@ insight: ''
 layout: post.njk
 people:
 - Rachel Abrams
-- Margot Sanger Katz
 - Joe Manchin
 products_models: []
 project: []

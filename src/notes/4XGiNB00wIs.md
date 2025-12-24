@@ -14,10 +14,8 @@ media_books:
 - The Culture Map
 - No Rules Rules
 people:
-- Erin Meyer
 - Nikolai
 - Reed Hastings
-- Sabine
 - John
 products_models: []
 project:

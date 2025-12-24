@@ -14,8 +14,6 @@ media_books:
 - 《塔拿赫》
 - 《詹姆斯王一本的英文圣经》
 people:
-- Morris
-- Rick Warren
 - Jesus
 products_models:
 - Crossfire

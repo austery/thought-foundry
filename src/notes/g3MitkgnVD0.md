@@ -45,7 +45,6 @@ people:
 - Larry Fink
 - Donald Trump
 - Michael Burry
-- Stephanie Gild
 - Christopher Waller
 - Jay Powell
 - Dan Ives

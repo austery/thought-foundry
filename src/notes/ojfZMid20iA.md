@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: general
+companies:
+- amazon-rainforest
 companies_orgs:
 - Centro de Innovación Científica Amazónica
 - WHO
@@ -10,8 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: '[]'
-people:
-- Claudia Vega
 products_models: '[]'
 project:
 - systems-thinking
@@ -27,8 +27,6 @@ tags:
 - public-health
 - technology
 title: 黄金的隐性成本：亚马逊雨林中的汞污染与健康危机
-companies:
-- amazon-rainforest
 ---
 
 ### 序言：森林的价值与黄金的代价

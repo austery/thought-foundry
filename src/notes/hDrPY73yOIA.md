@@ -31,18 +31,11 @@ media_books:
 - 《中日和平友好条约》
 people:
 - Donald Trump
-- Joanne Hsu
 - Volodymyr Zelenskyy
 - Emmanuel Macron
 - Olaf Scholz
 - Wang Yi
 - Sanae Takaichi
-- Hao Mingjin
-- Qin Boyong
-- Li Xi
-- Ma Xingrui
-- Guo Degang
-- Yu Qian
 - Mao Zedong
 products_models:
 - Taurus missile

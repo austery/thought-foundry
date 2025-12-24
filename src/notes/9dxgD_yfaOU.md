@@ -9,9 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《一席》
-people:
-- 扎琼衣扎
-- 扎琼巴让
 products_models: []
 project:
 - historical-insights

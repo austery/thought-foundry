@@ -13,7 +13,6 @@ media_books: []
 people:
 - Tracy Mumford
 - Thomas Massie
-- Ro K Connor
 - Pam Bondi
 - Todd Blanch
 - Robert F. Kennedy Jr.

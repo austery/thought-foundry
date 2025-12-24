@@ -34,7 +34,6 @@ people:
 - 李强
 - Xi Jinping
 - 黄仁勋
-- Sarah Silverman
 products_models:
 - ChatGPT
 - GPT-4

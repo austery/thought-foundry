@@ -17,12 +17,7 @@ people:
 - 高市早苗
 - 安倍晋三
 - 福泽谕吉
-- 樽井藤吉
-- 小寺谦吉
 - 孙中山
-- 卡尔·施米特
-- 高阪正尧
-- 渡边利夫
 - Donald Trump
 products_models: []
 project:

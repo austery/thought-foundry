@@ -11,11 +11,8 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 people:
-- 马斯洛
 - 尼采
-- 冯友兰
 - 胡锡进
-- 金灿荣
 - 张维为
 products_models: '[]'
 project:

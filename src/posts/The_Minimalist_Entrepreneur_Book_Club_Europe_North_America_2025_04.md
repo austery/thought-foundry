@@ -1,34 +1,29 @@
 ---
-title: 「欧洲_北美场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
-summary: null
 area: market-analysis
-category: business
-project:
-- entrepreneurship
-tags:
-- entrepreneurship
-- side-hustle
-people:
-- Vivian
-- Simon L
-- Ge Su
-- 路遥
-- Kathy
-- 翻新
-- Fancy
-companies_orgs: []
-products_models: []
-media_books:
-- 读书会
-date: '2025-07-10'
 author: Lei
-speaker: 一口新饭读书会
+category: business
 channel: null
+companies_orgs: []
+date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
+media_books:
+- 读书会
+people:
+- Vivian
+- Fancy
+products_models: []
+project:
+- entrepreneurship
 series: null
 source: null
+speaker: 一口新饭读书会
+summary: null
+tags:
+- entrepreneurship
+- side-hustle
+title: 「欧洲_北美场」2025年4月读书会「The Minimalist Entrepreneur」直播分享
 ---
 
 ## 开场与介绍

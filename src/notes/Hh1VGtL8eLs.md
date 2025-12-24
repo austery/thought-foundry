@@ -60,7 +60,6 @@ media_books:
 - Twitter
 people:
 - Masayoshi Son
-- Roman
 - Anthony Noto
 - Michael Burry
 - Yann LeCun
@@ -71,7 +70,6 @@ people:
 - Cathie Wood
 - Larry Fink
 - Kevin Hasset
-- John Cena
 - Donald Trump
 - Joe Biden
 - Jerome Powell

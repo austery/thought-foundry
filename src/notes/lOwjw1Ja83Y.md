@@ -16,23 +16,7 @@ media_books:
 - 《古兰经》
 - 《圣训》
 people:
-- Mohammed Meira
-- Khori Foukouaki
-- Abaoud
-- Anis
-- Imam Sadi
-- Jamal
-- Philip Molo
-- François Schipman
-- Professor Kiper
-- Abu al-Baghdadi
-- Ansari
-- Roshid
 - Einstein
-- Mohammed
-- Umar
-- Mamun
-- Suhail
 products_models: []
 project:
 - geopolitics-watch

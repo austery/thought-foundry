@@ -26,8 +26,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 龚方雄
 products_models: []
 project:
 - china-analysis

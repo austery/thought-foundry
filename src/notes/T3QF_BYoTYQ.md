@@ -30,11 +30,8 @@ people:
 - Donald Trump
 - Howard Lutnick
 - Karoline Leavitt
-- Garry Tan
 - Elon Musk
 - Laura Loomer
-- Sriram Krishnan
-- Amitabh Kant
 products_models:
 - H-1B visa
 - Green Card

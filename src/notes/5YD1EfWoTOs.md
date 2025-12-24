@@ -33,29 +33,8 @@ media_books:
 - Hermione Lee's Virginia Woolf biography
 - james-baldwin-biography
 people:
-- Nicholas Boggs
 - MJ Franklin
-- James Baldwin
-- Buford Delaney
-- Lucian Hapersburgger
-- Engin Jazar
-- Yuron Kazak
-- Toni Morrison
-- Lorraine Hansberry
-- Maya Angelou
-- Zadie Smith
-- David Leming
-- William Buckley
 - Martin Luther King
-- Sterling Brown
-- Mary Painter
-- Aisha
-- Tan
-- David Moses
-- Lena Waithe
-- Robert Jones
-- John Keane
-- Balthus
 products_models: []
 project:
 - historical-insights

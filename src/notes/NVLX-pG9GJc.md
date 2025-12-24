@@ -16,9 +16,6 @@ layout: post.njk
 people:
 - Nicola Tangan
 - Bob Iger
-- Walt Disney
-- Brothers Grimm
-- H. Christian Anderson
 products_models:
 - Finding Nemo
 project:

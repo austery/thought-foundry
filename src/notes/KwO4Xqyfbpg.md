@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: general
+companies:
+- intellectual-elite
 companies_orgs:
 - 燕京书评
 date: 2025-03-14
@@ -13,9 +15,7 @@ media_books:
 - 《批判性思维的认知和伦理》
 - 《中国学者谈启蒙》《割靴挠痒》或者《瞎子摸象》
 people:
-- 徐奔
 - 孔子
-- 波拉图
 - 罗素
 - 毛主席
 products_models: '[]'
@@ -34,8 +34,6 @@ tags:
 - learning
 - mindset
 title: 如何避免书越念越蠢？知识精英的幻觉与认知升级之路
-companies:
-- intellectual-elite
 ---
 
 ### 知识精英的责任与“居高临下感”的迷思

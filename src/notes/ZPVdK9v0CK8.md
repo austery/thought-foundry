@@ -17,17 +17,9 @@ media_books:
 - The Boy Who Cried Wolf
 - Colin and Samir
 people:
-- Jefferson Fisher
-- Miley Cyrus
-- Amy Campbell
-- Dame Dash
-- Charlemagne
 - Abraham Lincoln
 - Brené Brown
 - Tim Ferriss
-- Samir Chaudry
-- Oliver
-- Nikki
 products_models:
 - Adobe Express
 - Whisper Flow

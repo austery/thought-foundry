@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Yusuf Olokoba
-- Muna
 products_models:
 - Gemma 270M
 - Llama CBP

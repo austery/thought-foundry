@@ -29,17 +29,8 @@ layout: post.njk
 media_books:
 - Where are all the trillion dollar biotechs?
 people:
-- Lada
 - Elliot
-- George Yancopoulos
-- Leonard Schleifer
 - Dan Wang
-- Michael Fischbach
-- Irvin Weissman
-- Carl June
-- Alex Telford
-- John Maraganore
-- Brian Johnson
 products_models:
 - Human Genome Project
 - XBI

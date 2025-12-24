@@ -18,10 +18,6 @@ people:
 - Donald Trump
 - John Williams
 - Kevin Hassett
-- Kevin Walsh
-- Governor Waller
-- Secretary Bessant
-- Tekki u
 products_models: []
 project:
 - investment-strategy

@@ -14,8 +14,6 @@ media_books:
 people:
 - 艾晓明
 - 柴静
-- 高耀洁
-- 吴仪
 products_models: []
 project:
 - china-analysis

@@ -26,30 +26,8 @@ layout: post.njk
 media_books:
 - The Diary Of A CEO
 people:
-- Jürgen Klopp
 - Steven Bartlett
-- Sir Alex Ferguson
-- James Milner
-- Sadio Mané
-- Mohamed Salah
-- Trent Alexander-Arnold
 - Lionel Messi
-- Mike Gordon
-- Phil Coutinho
-- Alisson Becker
-- Virgil van Dijk
-- Diogo Jota
-- Darwin Núñez
-- Christian Heidel
-- Michael Edwards
-- Richard Hughes
-- Pep Guardiola
-- Pep Lijnders
-- Arne Slot
-- David Moyes
-- Roberto Firmino
-- Jordan Henderson
-- Jamie Carragher
 products_models: []
 project:
 - personal-growth-lab

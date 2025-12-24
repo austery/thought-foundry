@@ -15,9 +15,7 @@ layout: post.njk
 media_books:
 - Weekend Language
 people:
-- Julie Sweet
 - Nicola Tangen
-- Andy Craig
 products_models:
 - Gallup Strength Finder
 - AI Refinery

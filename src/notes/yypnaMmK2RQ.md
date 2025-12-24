@@ -19,7 +19,6 @@ media_books:
 - 《福布斯》
 people:
 - 比尔·盖茨
-- 米德军
 products_models:
 - GPT-5.1
 - GPT-5.2

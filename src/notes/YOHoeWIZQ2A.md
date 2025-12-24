@@ -23,8 +23,6 @@ media_books:
 - 《The Daily Beast》
 people:
 - Cathie Wood
-- Dan Schulman
-- Alex Chriss
 - Warren Buffett
 products_models:
 - Gemini

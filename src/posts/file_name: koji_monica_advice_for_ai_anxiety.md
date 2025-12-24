@@ -11,8 +11,6 @@ guest: ''
 insight: null
 layout: post.njk
 people:
-- Koji
-- Monica
 - 主持人
 products_models: []
 project:

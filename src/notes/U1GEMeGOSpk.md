@@ -19,30 +19,17 @@ media_books:
 - 《南方周末》
 people:
 - Hugo Chávez
-- Han Kuo-yu
 - Robert F. Kennedy Jr.
 - Adolf Hitler
-- Kakuei Tanaka
 - Jack Ma
 - Deng Xiaoping
 - Donald Trump
 - Dmitry Medvedev
 - Vladimir Putin
 - Boris Yeltsin
-- Indira Gandhi
-- Wang Zhian
-- Peng Biao
-- Xu Zhiyong
-- Sun Zhigang
 - Wen Jiabao
-- He Weifang
 - Hu Yaobang
-- Zhou Yongkang
-- Wu Jinglian
-- Zhou Ze
 - Xi Jinping
-- Chen Yun
-- 马博士
 products_models: []
 project:
 - china-analysis

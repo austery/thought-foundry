@@ -38,12 +38,7 @@ people:
 - 石破茂
 - 高市早苗
 - 薛健
-- 吉春阳文
-- 邓炳强
-- 陕辉
 - 卢比奥
-- 纳斯尼·阿斯富拉
-- 胡安·奥兰多·爱尔兰德斯
 products_models: []
 project:
 - china-analysis

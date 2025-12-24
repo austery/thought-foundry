@@ -10,8 +10,6 @@ layout: post.njk
 media_books:
 - the-feast-of-the-goat
 people:
-- mario-vargas-llosa
-- rafael-trujillo
 - stella-an
 products_models: []
 project: []

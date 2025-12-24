@@ -21,10 +21,6 @@ media_books:
 - Mistreated
 people:
 - Nam Kiwanuka
-- Andrea Lewis
-- Dr. Kendall Susi
-- Stein
-- Lebanthaw
 products_models:
 - Ozempic
 project: []

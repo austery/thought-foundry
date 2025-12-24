@@ -19,14 +19,10 @@ media_books:
 - The Daily
 - The New York Times
 people:
-- Gregory Bovino
-- Pete Hegseth
-- Albert Pike
 - Benjamin Netanyahu
 - JD Vance
 - Donald Trump
 - Xi Jinping
-- Mozart
 products_models: []
 project:
 - us-analysis

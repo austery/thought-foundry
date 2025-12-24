@@ -1,28 +1,26 @@
 ---
-title: 張修修「我過得不太好」從窮怕了、被退學、創業賠光到50萬YouTuber的「不正常」逆襲
-summary: null
 area: null
+author: Lei
 category: null
+channel: null
+companies_orgs: []
+date: '2025-07-10'
+guest: null
+insight: null
+layout: post.njk
+media_books:
+- youtuber
+products_models: []
 project: []
+series: null
+source: null
+speaker: null
+summary: null
 tags:
 - life
 - personal-growth
 - 張修修
-people:
-- 不正常人类
-companies_orgs: []
-products_models: []
-media_books:
-- youtuber
-date: '2025-07-10'
-author: Lei
-speaker: null
-channel: null
-guest: null
-insight: null
-layout: post.njk
-series: null
-source: null
+title: 張修修「我過得不太好」從窮怕了、被退學、創業賠光到50萬YouTuber的「不正常」逆襲
 ---
 
 這次的採訪對象是台灣的 YouTuber 張修修。現在是 2022 年 6

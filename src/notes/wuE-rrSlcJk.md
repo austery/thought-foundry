@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- jeff-dean
 products_models:
 - tpu
 project:

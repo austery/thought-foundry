@@ -19,13 +19,7 @@ media_books:
 people:
 - Marc Andreessen
 - Ben Horowitz
-- Eric Torberg
 - Warren Buffett
-- Jared Leto
-- George Clinton
-- Dr. Dre
-- Rakim
-- Cool G Rap
 - Mark Zuckerberg
 - Albert Einstein
 - Niels Bohr

@@ -19,8 +19,6 @@ people:
 - Volodymyr Zelenskyy
 - Friedrich Merz
 - John Mearsheimer
-- Denys Pylyash
-- Victoria Roshchyna
 - David
 - Adolf Hitler
 - Benjamin Netanyahu

@@ -11,16 +11,8 @@ layout: post.njk
 media_books:
 - 《人慈》
 people:
-- Rutger Bregman
 - Hobbes
 - Rousseau
-- Dmitry Belyayev
-- Richard Lee
-- Stanley Milgram
-- Bob Rosenthal
-- Robert Frank
-- Jos de Blok
-- Gordon Allport
 products_models: []
 project:
 - systems-thinking

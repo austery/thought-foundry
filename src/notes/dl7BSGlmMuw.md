@@ -27,11 +27,7 @@ people:
 - Tracy Mumford
 - Donald Trump
 - Chuck Schumer
-- John Thun
 - Shawn Duffy
-- Tim Davyy
-- Deborah Tennes
-- Caroline Levitt
 products_models:
 - Affordable Care Act
 project:

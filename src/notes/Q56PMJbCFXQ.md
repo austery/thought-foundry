@@ -21,14 +21,6 @@ layout: post.njk
 media_books:
 - The New Yorker
 - BBC
-people:
-- Bill LeMessurier
-- Ralph Peterson
-- Hugh Stubbins
-- Alan Davenport
-- Diane Hartley
-- Lee DeCarolis
-- Walter Wriston
 products_models:
 - Citicorp Center
 - Tuned Mass Damper

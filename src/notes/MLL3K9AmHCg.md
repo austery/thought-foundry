@@ -41,8 +41,6 @@ people:
 - Volodymyr Zelenskyy
 - Dmitry Peskov
 - Sergei Ryabkov
-- Russell Vought
-- William Barr
 - Jeffrey Epstein
 - Adolf Hitler
 - Joseph Stalin

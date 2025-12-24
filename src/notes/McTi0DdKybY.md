@@ -14,8 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - TechCrunch Disrupt
-people:
-- Kay
 products_models:
 - YouTube
 - Twitter

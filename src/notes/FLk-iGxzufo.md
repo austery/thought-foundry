@@ -15,9 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 莊也雜談
-people:
-- John Cabot
-- 哥伦布
 products_models:
 - Matthew号
 project:

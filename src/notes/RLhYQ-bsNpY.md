@@ -19,7 +19,6 @@ people:
 - George W. Bush
 - Barack Obama
 - Hillary Clinton
-- 袁立
 products_models: '[]'
 project:
 - us-analysis

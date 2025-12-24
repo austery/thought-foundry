@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- false-alarm
 companies_orgs:
 - US military
 - Pentagon
@@ -16,11 +18,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Larry Messinger
-- Jack ReVelle
-- Alexander Lebed
-- Vasili Arkhipov
-- Arthur Schlesinger Jr.
 - Stanislav Petrov
 - Boris Yeltsin
 products_models:
@@ -43,8 +40,6 @@ tags:
 - human
 - nuclear
 title: 人类如何多次险些因核武器意外自我毁灭
-companies:
-- false-alarm
 ---
 
 ### 核武器：人类的多次“擦肩而过”

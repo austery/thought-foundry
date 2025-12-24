@@ -14,11 +14,7 @@ media_books:
 - X
 people:
 - Chamath Palihapitiya
-- Dr. Carlsburg
-- Farhan Thoir
-- Dr. London
 - Andrew
-- Sean
 products_models:
 - statins
 - CT angagram

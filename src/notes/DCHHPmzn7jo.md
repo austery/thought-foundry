@@ -14,10 +14,6 @@ media_books:
 - Why can't men in China take a joke?
 - Can China Take a Joke
 - 《普心难断》
-people:
-- 杨笠
-- 黄鹤
-- 林语堂
 products_models: '[]'
 project:
 - china-analysis

@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Dr. Shaw
 products_models:
 - Kibble balance
 - Electrostatic Force Balance

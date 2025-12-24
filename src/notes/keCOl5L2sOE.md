@@ -18,12 +18,8 @@ media_books:
 - 《旧王绝论》
 people:
 - 胡锡进
-- 纪晓岚
-- George Macartney
 - 乾隆皇帝
 - 严复
-- Vice Chairman Lin Biao
-- 蒲松林
 products_models: '[]'
 project:
 - china-analysis

@@ -16,10 +16,7 @@ media_books:
 people:
 - Jean-Jacques Rousseau
 - Aristotle
-- Denis Diderot
-- Madame de Warens
 - Alexander the Great
-- Herbert Marcuse
 products_models: []
 project:
 - systems-thinking

@@ -11,8 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Kevin Hou
-- Swix
 - Ben
 products_models:
 - Anti-gravity

@@ -15,7 +15,6 @@ media_books: []
 people:
 - Donald Trump
 - Elon Musk
-- Alex Younger
 - Joe Biden
 products_models:
 - Tesla

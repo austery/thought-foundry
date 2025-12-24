@@ -12,7 +12,6 @@ media_books:
 - 'On Muscle: The Stuff That Moves Us and Why It Matters'
 - How to Be a Better Human
 people:
-- Bonnie Tsui
 - Chris
 - Arnold Schwarzenegger
 products_models: []

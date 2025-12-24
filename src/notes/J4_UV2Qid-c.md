@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - lt
-- 李小加
 - 高市早苗
 products_models: []
 project:

@@ -15,14 +15,9 @@ layout: post.njk
 media_books:
 - 'Apple in China: The Capture of the World''s Greatest Company'
 people:
-- Patrick McGee
 - Steve Jobs
 - Steve Wozniak
-- Patty
 - Steve Ballmer
-- Johnny Ive
-- Terry Gou
-- John Rubenstein
 - Ronald Reagan
 - Tim Cook
 - Deng Xiaoping

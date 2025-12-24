@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- steven-kotler
 products_models: []
 project: []
 series: ''

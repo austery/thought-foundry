@@ -10,17 +10,10 @@ insight: ''
 layout: post.njk
 people:
 - Sanae Takaichi
-- Shigeru Ishiba
-- Satsuki Katayama
-- Kimi Onoda
-- Shi Ping
-- Empress Dowager Cixi
 - Sun Yat-sen
 - Mao Zedong
 - Hillary Clinton
 - Donald Trump
-- Wu Yi
-- Sun Chunlan
 products_models: []
 project:
 - china-analysis

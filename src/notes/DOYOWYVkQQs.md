@@ -17,7 +17,6 @@ people:
 - Donald Trump
 - Joe Biden
 - Liz Cheney
-- Spencer Cox
 - 马克·吐温
 products_models: []
 project:

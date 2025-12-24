@@ -11,9 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Jerald
-- Eileen
 products_models:
 - Moose Burger
 project:

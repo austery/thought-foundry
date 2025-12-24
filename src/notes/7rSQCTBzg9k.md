@@ -17,21 +17,11 @@ media_books:
 - 《椭圆形肖像》
 - 《成功反思》
 people:
-- Thomas Curran
-- Edgar Allan Poe
 - Steve Jobs
-- Karen Horney
-- Patrick Gaudreau
-- David Burns
-- Richard Easterlin
 - Barack Obama
 - Tony Blair
-- Kate Raworth
-- Richard Layard
 - Elon Musk
 - J.K. Rowling
-- David Smail
-- Tarah Brach
 products_models:
 - Speak
 - Research Excellence Framework

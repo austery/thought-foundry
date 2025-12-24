@@ -18,24 +18,13 @@ media_books:
 - 《极权主义的起源》
 people:
 - Charlie Kirk
-- Taylor Robinson
 - Donald Trump
-- James Earl Ray
 - Martin Luther King Jr.
 - John F. Kennedy
-- Joseph Schumpeter
-- Karl Mannheim
-- Alexis de Tocqueville
 - Hannah Arendt
-- Chen Duxiu
-- Li Dazhao
 - Lu Xun
-- Li Rui
 - Barack Obama
 - Xi Jinping
-- Sima Nan
-- Zhang Weiwei
-- Wu Jing
 products_models:
 - iPhone
 - F-35

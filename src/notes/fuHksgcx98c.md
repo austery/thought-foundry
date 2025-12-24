@@ -46,25 +46,14 @@ media_books:
 - 中国央视新闻
 people:
 - Williams
-- Rajeev Batra
-- Rahmanullah Lakhanwal
-- Channing Piro
-- Bondi
-- Patel
 - Vladimir Putin
 - Donald Trump
-- Witkoff
-- Ushakov
 - Sergei Ryabkov
-- 何伟豪
 - 李家超
 - Xi Jinping
 - 王毅
-- 博纳
 - Emmanuel Macron
 - 高市早苗
-- 官穆元念
-- 魏玲玲
 products_models:
 - MSCI中国指数
 - MSCI亚太指数

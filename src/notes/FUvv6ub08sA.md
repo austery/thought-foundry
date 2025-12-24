@@ -20,10 +20,8 @@ media_books:
 - 新浪
 - 网易
 people:
-- Nemesis
 - 邓小平
 - 江泽民
-- 布什
 - 奥巴马
 - 特朗普
 - Xi Jinping

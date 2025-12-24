@@ -18,16 +18,9 @@ media_books:
 - 《华尔街日报》
 - 《餐桌上的人类》
 people:
-- 庄祖宜
-- 林结伟
 - 柴静
-- 陈涛
 - 特朗普
-- 方方
 - 李宗盛
-- 白瑞文
-- Margarita
-- 赵老师
 products_models: []
 project:
 - us-analysis

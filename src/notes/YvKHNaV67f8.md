@@ -15,16 +15,7 @@ media_books:
 - 《十三邀》
 - 《我叫贾顺浩》
 people:
-- 贾顺浩
-- 罗格·施密特
-- 斯科拉里
-- 贝尼特斯
 - 项飙
-- 李景亮
-- 瓜迪奥拉
-- 萨里
-- 博阿斯
-- 斯蒂尔
 products_models: []
 project:
 - historical-insights

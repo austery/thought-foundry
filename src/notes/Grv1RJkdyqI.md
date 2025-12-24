@@ -17,7 +17,6 @@ media_books:
 people:
 - Bill Gates
 - Derek Muller
-- Vaclav Smil
 products_models:
 - mRNA
 - PCR tests

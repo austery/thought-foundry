@@ -14,8 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Karina Hong
 products_models:
 - AI mathematician
 project:

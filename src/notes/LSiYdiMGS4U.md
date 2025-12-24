@@ -16,8 +16,6 @@ layout: post.njk
 media_books:
 - 《让编程再次伟大#35》
 - 《让编程再次伟大#49》
-people:
-- Lachlan Davidson
 products_models:
 - React
 - React Server Components

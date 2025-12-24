@@ -23,16 +23,9 @@ media_books:
 - 《中国：美国与AI竞赛》
 - 《中央军委重塑解放军政治工作体系》
 people:
-- Mike Froman
 - Donald Trump
 - Xi Jinping
-- Eswar Prasad
-- Jin Mingri
-- Li Shangfu
 - He Weidong
-- Miao Hua
-- Chen Guangcheng
-- Dong Jun
 products_models:
 - ChatGPT-15
 - Disc v3.1

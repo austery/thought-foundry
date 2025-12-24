@@ -18,14 +18,7 @@ people:
 - Xi Jinping
 - 蔡奇
 - Donald Trump
-- 徐波
-- 王辉武
-- 石泰峰
-- 安德鲁·贝利
-- 威德科夫
-- 库斯纳
 - 高市早苗
-- 马尔·兰勇
 products_models: []
 project:
 - us-analysis

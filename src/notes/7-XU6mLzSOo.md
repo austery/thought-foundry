@@ -10,9 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《繁花》
-people:
-- 牛童
-- 杨子静
 products_models: []
 project:
 - us-analysis

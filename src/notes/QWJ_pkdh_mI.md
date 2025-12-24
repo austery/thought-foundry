@@ -11,10 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《处处闻啼鸟》
-people:
-- 麻杰夫
-- 周长袖
-- 诸仁
 products_models: []
 project:
 - cultural-critique

@@ -25,15 +25,9 @@ media_books:
 - Wikipedia
 people:
 - 王安石
-- 司马光
-- Joseph Schumpeter
 - Karl Marx
-- Angus Maddison
 - Leonardo da Vinci
 - Isaac Newton
-- 乔
-- 菲利普
-- 彼得
 products_models:
 - iPhone
 - GPT

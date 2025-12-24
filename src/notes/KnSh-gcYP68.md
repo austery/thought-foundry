@@ -10,16 +10,7 @@ insight: ''
 layout: post.njk
 people:
 - Mark Carney
-- Chris d'Entremont
-- Matt Jeneroux
 - Pierre Poilievre
-- Don Davies
-- Heather McPherson
-- Gord Johns
-- Kerry Diotte
-- Warren Steinley
-- Vincent Ke
-- Alexis Brunelle-Duceppe
 - Justin Trudeau
 products_models: []
 project:

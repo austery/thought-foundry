@@ -25,12 +25,7 @@ media_books:
 - 《黄帝内经》
 - 《天工开物》
 people:
-- Hippocrates
 - George Washington
-- Rafael Pira
-- Felix Hoffman
-- 于昌石
-- 王永军
 products_models:
 - 阿司匹林
 - 中风醒脑口服液

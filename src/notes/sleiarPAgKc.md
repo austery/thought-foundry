@@ -17,10 +17,6 @@ media_books:
 - The Firebird
 - Swan Lake
 - The New York Times
-people:
-- Misty Copeland
-- Raven Wilkinson
-- Prince
 products_models: []
 project:
 - personal-growth-lab

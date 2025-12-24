@@ -17,11 +17,8 @@ layout: post.njk
 media_books:
 - 《我们当下的恐惧与期待》
 people:
-- 王兴
 - 高善文
-- 许章润
 - 孙中山
-- 晋惠帝
 products_models:
 - mRNA疫苗
 project:

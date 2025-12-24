@@ -13,23 +13,13 @@ media_books:
 - 《史记·殷本纪》
 - 《红楼梦》
 people:
-- 夸克
 - Sigmund Freud
-- 风歌亡命天涯
-- 盛小六
-- 李世民
 - 孔子
 - 孟子
-- 西门庆
-- 贾宝玉
-- 贾政
 - 朱元璋
 - 朱棣
 - 陈胜
 - 吴广
-- 项羽
-- 刘邦
-- 赵佗
 products_models: []
 project:
 - china-analysis

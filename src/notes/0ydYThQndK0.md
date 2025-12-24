@@ -23,16 +23,8 @@ media_books:
 - 《60分钟》
 - 《英国每日邮报》
 people:
-- Diane Keaton
 - Woody Allen
-- Al Pacino
-- Warren Beatty
-- Mia Farrow
-- Song Yi
-- Louise Lasser
-- Ralph Lauren
 - Mark Twain
-- Francis Ford Coppola
 products_models: []
 project:
 - cultural-critique

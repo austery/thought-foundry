@@ -13,7 +13,6 @@ media_books:
 - Global Money Talk
 - 9/11委员会的报告
 people:
-- Ryan Taylor
 - Alex Karp
 - Peter Thiel
 products_models:

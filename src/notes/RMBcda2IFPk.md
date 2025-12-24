@@ -12,11 +12,6 @@ layout: post.njk
 media_books: '[]'
 people:
 - 乔治·华盛顿
-- 约翰·保罗二世
-- 约翰·阿什克罗夫特
-- 本布里奇·科尔比
-- 亚伯拉罕·林肯
-- 莱昂纳德·科恩
 products_models: '[]'
 project:
 - us-analysis

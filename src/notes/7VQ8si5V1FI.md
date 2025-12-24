@@ -24,21 +24,13 @@ media_books:
 - 《海瑞罢官》
 - 《在没有英雄的年代里》
 people:
-- 方方
-- 白睿文
-- 常凯
 - 李文亮
 - 胡锡进
-- 梁艳萍
-- 王晓妮
-- 于林起
 - 柴静
 - Donald Trump
 - 李安
 - 毛泽东
 - 老舍
-- 北岛
-- 遇罗克
 products_models: []
 project:
 - china-analysis

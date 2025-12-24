@@ -33,7 +33,6 @@ media_books:
 - Patreon
 people:
 - Steve Eisman
-- Nick
 products_models:
 - Willow
 project:

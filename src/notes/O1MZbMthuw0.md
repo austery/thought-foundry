@@ -14,10 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 卡森布洛克
-- 安德鲁莱福特
-- 比尔黄
 products_models: []
 project:
 - ai-impact-analysis

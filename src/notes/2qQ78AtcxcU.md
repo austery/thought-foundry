@@ -10,7 +10,6 @@ layout: post.njk
 media_books:
 - 《一生金錢無虞 平衡理財法》
 people:
-- 周行一
 - 宋晏仁
 - 张忠谋
 products_models:

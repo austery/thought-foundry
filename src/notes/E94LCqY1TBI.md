@@ -15,9 +15,7 @@ media_books:
 - 《搏击俱乐部》
 - 《Good Inside》
 people:
-- Greg Lukianoff
 - Jonathan Haidt
-- Becky Kennedy
 products_models: '[]'
 project:
 - us-analysis

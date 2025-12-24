@@ -12,9 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Paul Singer
 - Nicola Tangan
-- Steven Schwarzman
 products_models: []
 project:
 - investment-strategy

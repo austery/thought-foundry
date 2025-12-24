@@ -13,11 +13,7 @@ media_books:
 - oppenheimer
 people:
 - J. Robert Oppenheimer
-- Louis Alvarez
-- Hans Bethe
-- Edward Teller
 - Dwight D. Eisenhower
-- Hannibal
 products_models: []
 project: []
 series: ''

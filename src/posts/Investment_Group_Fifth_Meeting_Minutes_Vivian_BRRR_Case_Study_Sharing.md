@@ -1,31 +1,29 @@
 ---
-title: 投资小组第五次会议纪要：Vivian的BRRR案例分享
-summary: null
 area: market-analysis
+author: Lei
 category: finance
+channel: null
+companies_orgs: []
+date: '2025-07-10'
+guest: ''
+insight: null
+layout: post.njk
+people:
+- Lei
+- Vivian
+- Frank
+products_models: []
 project:
 - investment-strategy
+series: null
+source: null
+speaker: ''
+summary: null
 tags:
 - investment
 - real-estate-investment
 - 案例分享
-people:
-- Lei
-- Vivian
-- michelle
-- alvin
-- Frank
-companies_orgs: []
-products_models: []
-date: '2025-07-10'
-author: Lei
-speaker: ''
-channel: null
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: null
+title: 投资小组第五次会议纪要：Vivian的BRRR案例分享
 ---
 
 ## 一、 会议开场与新成员介绍

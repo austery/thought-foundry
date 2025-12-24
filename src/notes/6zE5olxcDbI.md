@@ -23,8 +23,6 @@ media_books:
 - 《英国金融时报》
 - 《彭博社》
 - 《路透社》
-people:
-- Reno
 products_models:
 - EUV lithography machine
 - HBM memory

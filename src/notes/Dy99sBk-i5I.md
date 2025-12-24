@@ -26,7 +26,6 @@ people:
 - Jeff Bezos
 - Warren Buffett
 - Charlie Munger
-- Dave Canaria
 products_models:
 - Blackwell
 - SBC

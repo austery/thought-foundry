@@ -26,13 +26,8 @@ layout: post.njk
 media_books:
 - 彭博社
 people:
-- 魏建军
-- 李云飞
 - 许家印
 - 巴菲特
-- Nigel Stevenson
-- 王德培
-- 邓庆旭
 products_models: []
 project:
 - china-analysis

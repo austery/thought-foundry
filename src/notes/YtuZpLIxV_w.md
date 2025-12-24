@@ -32,13 +32,6 @@ people:
 - 周恩来
 - 胡适
 - 陈其美
-- 北一辉
-- 汤化龙
-- 谭人凤
-- 于右任
-- 赵秉钧
-- 梁漱溟
-- 徐世昌
 products_models: []
 project:
 - china-analysis

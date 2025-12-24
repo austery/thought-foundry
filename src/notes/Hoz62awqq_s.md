@@ -62,7 +62,6 @@ people:
 - Joe Rogan
 - Reed Hastings
 - David Zaslav
-- Shari Redstone
 - Vlad Tenev
 - Josh Brown
 products_models:

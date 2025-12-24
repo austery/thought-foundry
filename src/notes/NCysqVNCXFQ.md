@@ -16,10 +16,6 @@ people:
 - Thomas Hobbes
 - Confucius
 - John Rawls
-- Harvey Dent
-- Batman
-- Joker
-- platos-republic
 products_models: []
 project:
 - systems-thinking

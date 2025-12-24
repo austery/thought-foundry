@@ -11,11 +11,6 @@ layout: post.njk
 media_books:
 - 《古希臘羅馬的貨幣體系》
 - 《中國的通脹螺旋》
-people:
-- 米尔顿·弗里德曼
-- 塔西佗
-- 张公权
-- 梁金河
 products_models: []
 project:
 - china-analysis

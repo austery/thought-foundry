@@ -20,7 +20,6 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 - Susan Collins
-- Tom Barkin
 products_models: []
 project:
 - us-analysis

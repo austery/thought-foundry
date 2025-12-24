@@ -9,9 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《光明共和国》
-people:
-- Andrés Barba
-- 薛定谔
 products_models: []
 project:
 - geopolitics-watch

@@ -22,14 +22,7 @@ media_books:
 - 《不要走太远，忘了为什么出发》
 people:
 - 柴静
-- 陈虻
 - 崔永元
-- 王海
-- 韩秀
-- 苏晓康
-- 孙海英
-- 江先生
-- 许孔
 products_models: []
 project:
 - china-analysis

@@ -21,12 +21,8 @@ people:
 - François-Philippe Champagne
 - Anita Anand
 - Steven Guilbeault
-- Marc Miller
 - Karina Gould
-- Mark Holland
-- Andrew Scheer
 - Benjamin Franklin
-- David Lammy
 products_models: []
 project:
 - us-analysis

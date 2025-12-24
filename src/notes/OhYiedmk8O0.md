@@ -16,15 +16,9 @@ media_books:
 - 《穷查理宝典》
 - edX
 people:
-- George Box
-- Scott Page
 - Charlie Munger
-- Kennedy
-- Khrushchev
 - Graham Allison
-- Andrew Lo
 - Jeff Bezos
-- Jean-Baptiste Lamarck
 products_models: []
 project:
 - systems-thinking

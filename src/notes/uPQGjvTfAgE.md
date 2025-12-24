@@ -17,9 +17,6 @@ people:
 - Donald Trump
 - Volodymyr Zelenskyy
 - Steve Witkoff
-- Kirill Dmitriev
-- Keith Kellogg
-- Michael Pence
 - Jared Kushner
 - Marco Rubio
 - JD Vance

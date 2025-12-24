@@ -18,7 +18,6 @@ media_books:
 people:
 - Nicolai Tangen
 - James Gorman
-- Bruce Flatt
 - Jane Fraser
 products_models: []
 project:

@@ -15,11 +15,8 @@ media_books:
 - 《唱支电音给党听》
 people:
 - 张内咸
-- 游本昌
-- 济公
 - 周星驰
 - Xi Jinping
-- 马三立
 products_models: []
 project:
 - china-analysis

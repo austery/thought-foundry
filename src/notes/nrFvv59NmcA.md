@@ -21,12 +21,6 @@ media_books:
 - Me and Viv
 people:
 - Alexandra Samuel
-- Sandra Laronde
-- Rob
-- Shakespeare
-- Richard Rodgers
-- Toni Morrison
-- Gordon Lightfoot
 products_models:
 - Viv
 - ChatGPT

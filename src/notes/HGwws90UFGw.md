@@ -13,9 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Nadeem Ismail
-- Dr. Aniello Martin
 products_models: []
 project:
 - systems-thinking

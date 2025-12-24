@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- 陈天桥
 products_models: []
 project:
 - us-analysis

@@ -35,7 +35,6 @@ media_books:
 - Nielsen
 people:
 - Sundar Pichai
-- Michel Devoret
 products_models:
 - Gemini
 - Gemini 2.5 Pro

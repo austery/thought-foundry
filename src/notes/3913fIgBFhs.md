@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Daphne Halikiopoulou
 products_models: []
 project:
 - geopolitics-watch

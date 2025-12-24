@@ -10,10 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Gary Winnick
 - Michael Milken
-- Richard Ressler
-- Karen Winnick
 products_models: []
 project:
 - investment-strategy

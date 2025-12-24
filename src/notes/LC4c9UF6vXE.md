@@ -28,7 +28,6 @@ media_books:
 - The Information
 people:
 - Sam Altman
-- Figgy Simo
 - Sarah Friar
 products_models:
 - ChatGPT

@@ -95,28 +95,17 @@ media_books:
 - Saturday Night Live
 - The Last Economy
 people:
-- 24kGoldn
 - Michael Jackson
-- Eminem
-- Lil Wayne
-- Ian Dior
 - Jensen Huang
 - Vlad Tenev
 - Jim Cramer
 - Andrew Ross Sorkin
-- Becky Quick
-- Russ
-- Sharief O'Neal
 - Naval Ravikant
 - Elon Musk
 - Paul Volcker
 - Jerome Powell
 - Tobi Lütke
-- Daniel Negreanu
-- Allison
 - Tom Brady
-- Wesley Snipes
-- Central Cee
 - Dan Niles
 products_models:
 - Mood

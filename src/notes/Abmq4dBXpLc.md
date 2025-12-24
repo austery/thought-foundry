@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - stella-an
-- yuval-noah-harari
 products_models: []
 project:
 - ai-impact-analysis

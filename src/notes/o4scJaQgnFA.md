@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Samir Mody
-- Josh
 products_models:
 - Arc
 - DIA

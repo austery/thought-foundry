@@ -20,7 +20,6 @@ media_books:
 people:
 - 查理·芒格
 - 沃伦·巴菲特
-- 尼克·斯莱普
 - 苏格拉底
 products_models: []
 project:

@@ -17,10 +17,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Greg Moru
-- Vincent Bladen
-- Ed Lumley
 products_models:
 - Jeep Compass
 project:

@@ -14,7 +14,6 @@ media_books:
 - 《让编程再次伟大#26》
 people:
 - Kent Beck
-- Atomic Energy
 products_models:
 - Test Driven Development
 - eXtreme Programming

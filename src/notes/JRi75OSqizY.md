@@ -27,23 +27,6 @@ media_books:
 - Neon Genesis Evangelion
 - Fight Club
 - lgat-course
-people:
-- William P. Patrick
-- Alexander Everett
-- Ben Gay
-- Werner Erhard
-- Yoko Ono
-- Robert Kiyosaki
-- Janice Haaken
-- Richard Adams
-- Margaret Singer
-- Robert Chaen
-- Chris Gentry
-- Robert White
-- Tomomi Shiotani
-- Kazuhiko Nakamura
-- Chuck Palahniuk
-- Robert Lifton
 products_models: []
 project:
 - historical-insights

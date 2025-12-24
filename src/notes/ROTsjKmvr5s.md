@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- george-kinder
 products_models: []
 project:
 - investment-strategy

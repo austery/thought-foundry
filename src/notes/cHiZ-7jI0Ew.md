@@ -30,14 +30,11 @@ people:
 - Bill Ackman
 - Elon Musk
 - Robert Armstrong
-- Paul Kedrosky
-- Lisa
 - Jeff Bezos
 - LeBron James
 - Jesus
 - Isaac Newton
 - Mike Tyson
-- Jerry Seinfeld
 products_models:
 - Sora2
 - Grok

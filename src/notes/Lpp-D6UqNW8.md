@@ -1,6 +1,8 @@
 ---
 area: market-analysis
 category: geopolitics
+companies:
+- artificial-superintelligence
 companies_orgs:
 - Atreides Management
 - Fidelity Investments
@@ -36,16 +38,9 @@ media_books:
 - 《文化》
 people:
 - Gavin Baker
-- Bill Gurley
-- Eric Vishria
 - Jensen Huang
-- Billy Bshara
-- Nafea Bshara
 - Pat Gelsinger
 - Elon Musk
-- Will Danoff
-- Jennifer Urig
-- Steve Weimer
 products_models:
 - ChatGPT
 - Llama 4
@@ -67,8 +62,6 @@ tags:
 - semiconductor-geopolitics
 - space-economy
 title: 贝克深度访谈：AI十年内实现ASI，半导体成国家安全核心，SpaceX将是太阳系东印度公司
-companies:
-- artificial-superintelligence
 ---
 
 ### 顶尖专家加文·贝克深度解读AI与半导体未来

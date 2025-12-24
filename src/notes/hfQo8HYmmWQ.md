@@ -11,8 +11,6 @@ layout: post.njk
 media_books:
 - 'Ageless: The New Science of Getting Older Without Getting Old'
 people:
-- Andrew Steele
-- Shinya Yamanaka
 - Jeff Bezos
 products_models:
 - AlphaFold

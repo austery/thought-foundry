@@ -22,14 +22,9 @@ media_books:
 - 《狂飙》
 - 《2025年国家毒品威胁评估》
 people:
-- Peter Hegseth
 - Donald Trump
-- Frank Bradley
 - Vance
-- Juan Orlando Hernández
 - Osama bin Laden
-- Franklin
-- William W. Belknap
 products_models:
 - Signal
 project:

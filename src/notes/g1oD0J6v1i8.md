@@ -12,12 +12,7 @@ layout: post.njk
 media_books:
 - 《皇帝内经》
 people:
-- Dr. Wang
-- Rao Yi
-- Wu Mi
-- Chen Yinque
 - Confucius
-- Zhuangzi
 products_models:
 - Chaihu Injection
 - Lianhua Qingwen Capsule

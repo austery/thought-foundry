@@ -17,7 +17,6 @@ people:
 - Donald Trump
 - Kamala Harris
 - Jerome Powell
-- 赵常鹏
 products_models:
 - 比特币
 - 以太坊

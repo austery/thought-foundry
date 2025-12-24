@@ -8,7 +8,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Lévy-Bruhl
 - Wang Yangming
 - Pythagoras
 - Plato

@@ -19,12 +19,8 @@ insight: ''
 layout: post.njk
 people:
 - Yann LeCun
-- Jason Wei
 - Ilya Sutskever
 - Mira Murati
-- Leon Feddas
-- Danny Zhou
-- Brian Cheng
 products_models:
 - Gemini 3
 - Claude 3

@@ -32,12 +32,9 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Steve Leeman
-- Doug Clinton
 - Andy Jassy
 - Tim Cook
 - Lisa Su
-- Dan New House
 - Nancy Pelosi
 - Alex Karp
 - Mike Alfred

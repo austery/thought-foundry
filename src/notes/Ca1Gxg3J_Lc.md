@@ -17,9 +17,6 @@ people:
 - Yann LeCun
 - Yoshua Bengio
 - Jensen Huang
-- Bill Dally
-- Fei-Fei Li
-- Andrew Ng
 products_models:
 - GPT
 - ImageNet

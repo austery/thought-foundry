@@ -43,17 +43,9 @@ media_books:
 - The Big Picture
 - Masters in Business
 people:
-- Barry Ritholtz
-- William Bernstein
-- Charlie Ellis
-- Warren Buffet
 - Peter Lynch
-- Hendrik Bessembinder
 - Paul Samuelson
 - Jack Bogle
-- William Goldman
-- Philip Tetlock
-- Wright Brothers
 products_models:
 - 401k
 - 403b

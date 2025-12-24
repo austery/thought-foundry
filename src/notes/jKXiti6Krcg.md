@@ -33,20 +33,9 @@ layout: post.njk
 media_books:
 - Financial Times
 people:
-- Tim Harford
-- Dan Neidle
-- William Pitt the Younger
 - Rishi Sunak
-- Nigel Lawson
 - George Osborne
-- Jeremy Hunt
 - Rachel Reeves
-- Lakshmi Mittal
-- Nassef Sawiris
-- Richard Gnodde
-- Anne Beaufour
-- Gabriel Zucman
-- Jerome Kerviel
 - Donald Trump
 products_models:
 - More or Less

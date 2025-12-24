@@ -15,8 +15,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 诺曼·麦克拉伦
 products_models:
 - Softimage
 - Maya

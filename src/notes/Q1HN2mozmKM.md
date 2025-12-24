@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: culture
+companies:
+- material-recycling
 companies_orgs:
 - 大疆
 date: '2025-05-24'
@@ -11,9 +13,7 @@ layout: post.njk
 media_books:
 - 《繁花》
 people:
-- 鲁雯泋
 - 项飙
-- 坂口恭平
 products_models: []
 project:
 - cultural-critique
@@ -29,8 +29,6 @@ tags:
 - public
 - urban
 title: 北京超无聊：胡同里的野生设计与城市生命力的残响
-companies:
-- material-recycling
 ---
 
 ### 胡同里的野生设计：当生活成为建筑

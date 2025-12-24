@@ -9,10 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - A New Intellectual Framework for Psychiatry
-people:
-- Evans
-- Bohman
-- Eric R. Kandel
 products_models: []
 project:
 - systems-thinking

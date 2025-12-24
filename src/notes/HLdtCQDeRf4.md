@@ -12,7 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 游能俊
 - 宋晏仁
 products_models:
 - 133餐盘

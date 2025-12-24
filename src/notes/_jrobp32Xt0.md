@@ -21,9 +21,7 @@ media_books:
 - 《The Daily Beast》
 people:
 - 唐石峻
-- Kantesaria
 - Charlie Munger
-- Dave
 products_models:
 - FICO Score
 project:

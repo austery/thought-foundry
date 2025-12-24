@@ -11,11 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Mark Cutkosky
-- Elliot Hawks
 - Derek Muller
-- Tony
-- Astronaut
 products_models:
 - MicroTug
 - Astrobee

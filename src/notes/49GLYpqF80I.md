@@ -14,8 +14,6 @@ media_books:
 - 《Illicit Flirtations》
 - 《第二轮班》
 people:
-- Rhacel Parreñas
-- 千山勋
 - 阿li
 products_models: []
 project:

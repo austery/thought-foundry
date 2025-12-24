@@ -12,10 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Dunkirk
-people:
-- Georg Joseph Vogler
-- Dr. Diana Deutsch
-- Alfred Mayer
 products_models: []
 project:
 - systems-thinking

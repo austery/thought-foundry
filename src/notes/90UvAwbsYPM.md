@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: culture
+companies:
+- intellectual-dilemma
 companies_orgs:
 - Peking University
 - Communist Party
@@ -25,25 +27,8 @@ people:
 - Confucius
 - Kant
 - Mao Zedong
-- Yang Mo
-- Yu Yongze
-- Lin Daojing
-- Junshi
-- Xianxian
 - Nietzsche
 - Lu Xun
-- Junsheng
-- Zijun
-- Ye Shengtao
-- Ni Huanzhi
-- Tolstoy
-- Hugo
-- Byron
-- Cao Xueqin
-- Du Fu
-- Gorky
-- Lu Jiachuan
-- Jiang Hua
 products_models: []
 project:
 - china-analysis
@@ -60,8 +45,6 @@ tags:
 - love
 - movement
 title: 五四知识分子的启蒙困境：从师生恋视角看中国启蒙的异化
-companies:
-- intellectual-dilemma
 ---
 
 ### 中国启蒙的困境：从个人视角到宏大叙事

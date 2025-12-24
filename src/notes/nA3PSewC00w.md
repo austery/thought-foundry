@@ -13,15 +13,11 @@ layout: post.njk
 media_books:
 - The Daily
 people:
-- Natalie Kitrov
-- Anatoli Kman
 - Donald Trump
 - Nicholas Maduro
-- Hugo Chavez
 - Maria Corina Machado
 - Marco Rubio
 - George W. Bush
-- Muhammad Ahmed
 - Pete Hgsith
 - Vladimir Putin
 products_models:

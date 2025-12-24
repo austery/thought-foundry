@@ -12,12 +12,8 @@ layout: post.njk
 media_books:
 - 加拿大20元纸钞
 people:
-- Nicholas Morant
-- Agnes MacDonald
 - John A. Macdonald
 - Queen Victoria
-- Princess Louise Caroline Alberta
-- Lord Lorne
 products_models: []
 project: []
 series: ''

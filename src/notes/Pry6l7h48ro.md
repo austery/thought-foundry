@@ -11,9 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Today I Learned
-people:
-- Harini Bhat
-- Juan Manuel Garcia Ruiz
 products_models:
 - GTA 6
 project:

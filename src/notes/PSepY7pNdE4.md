@@ -16,11 +16,7 @@ insight: ''
 layout: post.njk
 people:
 - Alex Karp
-- Amir
-- Arie
 - Matt
-- Shyam Sankar
-- Brent Thiel
 - Donald Trump
 products_models:
 - AFDs

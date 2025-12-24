@@ -13,8 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - 李思賢
-- Ted
-- 黃仁勳
 - 宋晏仁
 products_models: []
 project:

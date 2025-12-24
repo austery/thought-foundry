@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Alberto Romero
 products_models:
 - GPT-4
 - Claude

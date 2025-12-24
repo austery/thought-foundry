@@ -28,17 +28,11 @@ media_books:
 - 《纳瓦尔宝典》
 - 《凯恩斯文集》
 people:
-- 施宏俊
 - 查理·芒格
 - 沃伦·巴菲特
 - 李录
 - 段永平
-- 张云帆
 - 方三文
-- 罗念生
-- 本杰明·富兰克林
-- 约翰·梅纳德·凯恩斯
-- 汤浩
 products_models: []
 project:
 - personal-growth-lab

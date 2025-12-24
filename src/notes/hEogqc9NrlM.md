@@ -37,9 +37,6 @@ media_books:
 - 《Invest Like The Best》
 - 《Competing in the Age of AI》
 people:
-- 迪伦·帕特尔
-- 马可·扬西蒂
-- 卡里姆·拉哈尼
 - 埃隆·马斯克
 products_models:
 - GPT-3

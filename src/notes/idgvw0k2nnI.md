@@ -17,11 +17,8 @@ people:
 - Mao Zedong
 - Locke
 - Kant
-- Hayek
-- Rawls
 - Descartes
 - Hegel
-- Damasio
 - Rogers
 - Lenin
 products_models: []

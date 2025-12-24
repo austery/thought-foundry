@@ -13,13 +13,8 @@ media_books:
 - 《西游新记》
 - 《太白金星有点烦》
 people:
-- 刘勃
-- 吴承恩
 - 鲁迅
 - 胡适
-- 钱钟书
-- 玄奘
-- 丘处机
 products_models: []
 project:
 - historical-insights

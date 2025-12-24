@@ -12,8 +12,6 @@ layout: post.njk
 media_books:
 - The Long Boom
 people:
-- Peter Leyden
-- Peter Schwartz
 - Thomas Jefferson
 - Ben Franklin
 - Donald Trump

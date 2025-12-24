@@ -14,14 +14,8 @@ media_books:
 - asian-cinema
 people:
 - 张内咸
-- Ridley Scott
 - 贾玲
 - 周星驰
-- 张柏芝
-- David Lynch
-- 中岛哲也
-- 是枝裕和
-- 许鞍华
 products_models:
 - 《角斗士2》
 - 《姥姥的外孙》

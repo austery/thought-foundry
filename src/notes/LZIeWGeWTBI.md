@@ -10,8 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Halvor Njerve
-- Nikolaj
 - Marte
 products_models: []
 project:

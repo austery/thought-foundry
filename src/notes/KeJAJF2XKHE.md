@@ -21,17 +21,9 @@ media_books:
 people:
 - Mark Carney
 - Danielle Smith
-- Steven Gilbo
-- Chris Dantramont
-- Stephanie Levitz
-- Alex Marland
-- Jared J. Wesley
 - Justin Trudeau
 - Rachel Notley
 - Doug Ford
-- Christopher Freeland
-- Nate Erskin Smith
-- Bobby Brady
 products_models: []
 project:
 - geopolitics-watch

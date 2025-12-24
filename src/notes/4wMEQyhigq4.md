@@ -18,12 +18,8 @@ media_books:
 - Yongzheng Dynasty
 - Zhu Yuanzhang
 people:
-- Zizek
 - Foucault
-- Nian Gengyao
-- Emperor Yongzheng
 - Zhu Yuanzhang
-- Lan Yu
 products_models: []
 project:
 - china-analysis

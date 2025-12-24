@@ -15,7 +15,6 @@ insight: ''
 layout: post.njk
 people:
 - 乾隆皇帝
-- 咸丰皇帝
 - 光绪皇帝
 - 慈禧太后
 products_models: []

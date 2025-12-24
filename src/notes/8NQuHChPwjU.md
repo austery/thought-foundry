@@ -22,10 +22,6 @@ people:
 - Christine Sir Cleette
 - Kyra Blackwell
 - Rosie Garin
-- Ivy Elrod
-- Joshua Lion
-- Line Rose
-- Charles Fister
 products_models:
 - Aeron chair
 project:

@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Jesse Hu
 products_models:
 - BERT
 - Dreamer

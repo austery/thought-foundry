@@ -20,8 +20,6 @@ people:
 - Jeffrey Epstein
 - Donald Trump
 - Rachel Abrams
-- David Enrich
-- Michael Gold
 - Ghislaine Maxwell
 - Michael Wolf
 - Virginia Giuffre

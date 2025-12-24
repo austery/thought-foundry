@@ -12,8 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Michio Kaku
 products_models: []
 project:
 - geopolitics-watch

@@ -14,12 +14,9 @@ media_books:
 - 《洛杉矶时报》
 - 《华尔街日报》
 people:
-- 林培瑞
-- 方立芝
 - 刘晓波
 - 奥巴马
 - 彭德怀
-- 威尔科克斯
 - 柴静
 products_models: []
 project:

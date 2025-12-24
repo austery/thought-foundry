@@ -19,10 +19,6 @@ media_books:
 - 《孙子兵法》
 people:
 - 巴菲特
-- 芒格
-- 格林奇
-- 陈星
-- 安格尔
 products_models:
 - 比特币
 project:

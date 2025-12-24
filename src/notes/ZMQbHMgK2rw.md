@@ -12,9 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Claude Shannon
-- Masakazu Utsunomiya
-- Dick Fosbury
-- Dave Otten
 products_models:
 - Theseus
 - Red Comet

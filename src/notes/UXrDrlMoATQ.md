@@ -36,16 +36,10 @@ media_books:
 - Ghostery
 people:
 - Donald Trump
-- Ramses II
-- Constantine the Great
-- Lorenzo Valla
 - Hitler
 - George W. Bush
 - Barack Obama
-- Manfred Theisen
-- Lyudmila Savchuk
 - Recep Tayyip Erdoğan
-- Eli Pariser
 products_models: []
 project:
 - us-analysis

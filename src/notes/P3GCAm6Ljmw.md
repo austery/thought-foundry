@@ -33,10 +33,7 @@ people:
 - Karoline Leavitt
 - Peter Navarro
 - Jair Bolsonaro
-- Ron Wyden
-- Jamieson Greer
 - Jay Powell
-- Ben Hall
 - Robert Armstrong
 products_models:
 - Truth Social

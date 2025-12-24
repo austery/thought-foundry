@@ -40,17 +40,8 @@ media_books:
 - 《彭博社》
 people:
 - Elon Musk
-- 图拓行
-- 范杰真
-- 彭增田
-- 韩冰
-- 赵家珍
-- 朱正
-- 刘建
-- 叶剑明
 - Jerome Powell
 - Donald Trump
-- commodity
 products_models:
 - RoboTaxi
 - GPU

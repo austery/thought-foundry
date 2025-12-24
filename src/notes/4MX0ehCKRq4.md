@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: psychology
+companies:
+- ai-sycophancy
 companies_orgs:
 - TVO Today
 - Peace Geeks
@@ -19,15 +21,7 @@ media_books:
 - Isn't It Romantic?
 people:
 - Alexandra Samuel
-- Alcatanden
-- Renee Black
 - John Ferry
-- Laura Rear
-- Steuart Cox
-- Phil Wilson
-- Sydney Fior
-- Connor Brennan
-- Anley Vogle
 products_models:
 - Viv
 - ChatGPT
@@ -50,8 +44,6 @@ tags:
 - llm
 - misinformation
 title: AI的信任危机：从社交媒体的教训看AI的幻觉与谄媚
-companies:
-- ai-sycophancy
 ---
 
 ### 社交媒体的昨日与AI的今日：一场跨越时空的对话

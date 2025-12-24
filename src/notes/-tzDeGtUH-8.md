@@ -26,7 +26,6 @@ media_books:
 - X
 people:
 - Elon Musk
-- 王川
 products_models:
 - Robotaxi
 - Drive Supervised

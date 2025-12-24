@@ -17,24 +17,11 @@ media_books:
 - Fern
 - Veritasium
 people:
-- Chen Jingrun
-- Christian Goldbach
 - Leonhard Euler
 - David Hilbert
-- G. H. Hardy
-- John Littlewood
-- Srinivasa Ramanujan
-- Ivan Vinogradov
-- Harald Helfgott
-- David Platt
-- Nils Pipping
 - Mao Zedong
-- Luo Shengxiong
-- Xu Chi
 - Derek Muller
 - Casper
-- Elmer
-- Professor Strogatz
 products_models:
 - Henson Razor
 project:

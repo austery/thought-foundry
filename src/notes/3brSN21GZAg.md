@@ -18,11 +18,7 @@ media_books:
 people:
 - 宗庆后
 - 王传福
-- 余承东
 - 刘强东
-- 伍志宏
-- 李老师不是你老师
-- Strom Thurmond
 - 孙中山
 products_models: '[]'
 project:

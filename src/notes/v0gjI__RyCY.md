@@ -18,7 +18,6 @@ people:
 - Jeff Dean
 - Noam Shazeer
 - Larry Page
-- Franz Och
 - Sundar Pichai
 - Rich Sutton
 - Chris Olah

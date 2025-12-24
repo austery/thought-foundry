@@ -46,7 +46,6 @@ layout: post.njk
 media_books:
 - State of AI Report
 people:
-- Nathan Benaich
 - Matt Turck
 - Rich Sutton
 - Yann LeCun

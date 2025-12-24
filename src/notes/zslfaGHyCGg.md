@@ -26,7 +26,6 @@ people:
 - Shane Goldmaker
 - Michael Barbaro
 - Rudy Giuliani
-- Cydney Powell
 products_models: []
 project:
 - us-analysis

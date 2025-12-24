@@ -10,10 +10,6 @@ layout: post.njk
 media_books:
 - 《我们从未中产过》
 - 《21世纪资本论》
-people:
-- 托马斯·皮凯蒂
-- 安征明
-- 斯宾塞
 products_models:
 - RSP
 - Term Insurance

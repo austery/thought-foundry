@@ -1,10 +1,36 @@
 ---
+area: society-systems
 author: 贾葭
+category: geopolitics
+companies_orgs:
+- 中央电视台
+- 正仓院
+- 东京国立博物馆
+- 金刚组
+- 参政党
+- 出国管理厅
+- 新宿高速BUS
 date: '2025-10-20'
+draft: true
 guest: ''
+insight: ''
 layout: post.njk
+media_books:
+- 朝日新闻
+- 推特
+- 小红书
+people:
+- 贾葭
+products_models: []
+project:
+- geopolitics-watch
+- historical-insights
+- cultural-critique
+series: ''
 source: https://www.youtube.com/watch?v=3KEtLmFQ_s0
 speaker: 东京人文论坛
+status: evergreen
+summary: 本文深入探讨了日本社会根深蒂固的排外情绪，追溯其历史渊源，包括独特的“万世一系”天皇制度、文化遗产的保存、以及“黑船事件”后的民族主义思潮。文章分析了日本“家国一体”的特殊认知，并揭示了当代右翼政党利用社交媒体散布虚假信息，导致“外国人税”等歧视现象的出现。最终，作者呼吁在日外国人应积极反抗不公，而非盲目融入，并强调日本社会需正视自身问题。
 tags:
 - cultural
 - geopolitical
@@ -14,38 +40,6 @@ tags:
 - politics
 - system
 title: 日本为何排外？从历史传统到当下右翼思潮的深度剖析
-summary: 本文深入探讨了日本社会根深蒂固的排外情绪，追溯其历史渊源，包括独特的“万世一系”天皇制度、文化遗产的保存、以及“黑船事件”后的民族主义思潮。文章分析了日本“家国一体”的特殊认知，并揭示了当代右翼政党利用社交媒体散布虚假信息，导致“外国人税”等歧视现象的出现。最终，作者呼吁在日外国人应积极反抗不公，而非盲目融入，并强调日本社会需正视自身问题。
-insight: ''
-draft: true
-series: ''
-category: geopolitics
-area: society-systems
-project:
-- geopolitics-watch
-- historical-insights
-- cultural-critique
-people:
-- 神谷宗幣
-- 梁文道
-- 马家辉
-- 佩里
-- 吉永兰
-- 师平
-- 贾葭
-companies_orgs:
-- 中央电视台
-- 正仓院
-- 东京国立博物馆
-- 金刚组
-- 参政党
-- 出国管理厅
-- 新宿高速BUS
-products_models: []
-media_books:
-- 朝日新闻
-- 推特
-- 小红书
-status: evergreen
 ---
 
 ### 引言：日本人排外吗？一个有历史根源的民族心理

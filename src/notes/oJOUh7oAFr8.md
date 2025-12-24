@@ -17,14 +17,9 @@ media_books:
 - 《狼吃小羊的故事》
 people:
 - Xi Jinping
-- 佩洛西
 - 林彪
-- 伯雷芝涅夫
-- 张和子
 - 秦始皇
-- 汪飞林
 - 凯恩斯
-- 摩根索
 - 周永康
 - 李白
 products_models: []

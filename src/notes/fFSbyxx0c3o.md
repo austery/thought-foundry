@@ -20,8 +20,6 @@ people:
 - 石破茂
 - 陆川
 - 张艺谋
-- 赖宁
-- 申奥
 - 成龙
 - 姜文
 products_models:

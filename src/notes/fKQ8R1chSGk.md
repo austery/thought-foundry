@@ -10,7 +10,6 @@ layout: post.njk
 people:
 - Li Ka-shing
 - Mencius
-- Yu Yingshi
 products_models: []
 project:
 - china-analysis

@@ -30,7 +30,6 @@ media_books:
 - X
 people:
 - Elon Musk
-- Peter To
 products_models:
 - Starlink
 - BlueBird

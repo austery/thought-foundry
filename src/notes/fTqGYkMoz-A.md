@@ -16,12 +16,7 @@ layout: post.njk
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Marcus Frampton
-- Devin Mitchell
-- David Swenson
-- Barton Biggs
 - Donald Trump
-- Claudia Sahm
 products_models:
 - Odd Lots podcast
 - Trans-Alaska Pipeline

@@ -15,15 +15,7 @@ media_books:
 - 地產霸權
 - 社會學年鑒
 people:
-- 潘慧嫻
-- 卡爾·波蘭尼
-- 郭得勝
-- 包玉剛
-- 李嘉誠
 - 李兆基
-- 郭鶴年
-- 鄭裕彤
-- 克林頓
 products_models: []
 project:
 - china-analysis

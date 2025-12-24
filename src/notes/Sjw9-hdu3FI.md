@@ -13,19 +13,9 @@ media_books:
 - film-making
 people:
 - Rob Reiner
-- Michelle Reiner
-- Nick Reiner
-- Carl Reiner
 - Conan O'Brien
-- Norman Lear
 - Stephen King
-- Meg Ryan
-- Billy Crystal
-- Nora Ephron
-- William Goldman
 - Aaron Sorkin
-- Estelle Reiner
-- David Thompson
 - Donald Trump
 products_models:
 - The Daily

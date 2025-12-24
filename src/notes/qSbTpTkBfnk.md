@@ -18,7 +18,6 @@ people:
 - Mélanie Joly
 - Pierre Poilievre
 - Jean Chrétien
-- Fidel Castro
 products_models: []
 project:
 - us-analysis

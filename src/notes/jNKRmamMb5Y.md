@@ -24,23 +24,18 @@ people:
 - Thomas Massey
 - Marjorie Taylor Greene
 - Lauren Boebert
-- Nancy Mays
 - John Thune
 - Alexander Acosta
-- Julie Brown
 - Ghislaine Maxwell
-- Virginia Roberts Giuffre
 - James Comey
 - John Bolton
 - Bill Clinton
 - Bill Gates
-- Pen Bondi
 - Kash Patel
 - Todd Blanch
 - Alan Dershowitz
 - Larry Summers
 - Michael Wolf
-- trump-campaign
 products_models: []
 project:
 - us-analysis

@@ -15,13 +15,8 @@ media_books:
 - Weibo
 - CCTV
 people:
-- 蓝战飞
-- 王鑫
-- 王玉凯
 - 毛宁
 - 王毅
-- 陈子荣
-- 肖美琴
 products_models: []
 project:
 - china-analysis

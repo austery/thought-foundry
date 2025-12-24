@@ -15,7 +15,6 @@ media_books:
 - Beyond the Taylor Rule
 people:
 - John Taylor
-- Emmy Nakamura
 - Paul Volcker
 products_models: []
 project:

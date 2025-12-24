@@ -29,10 +29,7 @@ media_books:
 - 《安迪·琼斯论文》
 - 《Anthropic原创Transformer电路论文》
 people:
-- Tamay Besiroglu
-- Ege Erdil
 - Sam Altman
-- Robin Hanson
 - Dario Amodei
 - Joseph Henrich
 - Scott Alexander
@@ -42,13 +39,7 @@ people:
 - Jeff Dean
 - Jensen Huang
 - Tyler Cowen
-- Matthew
-- Jaime Sevilla
-- Bryan Caplan
-- David Rudman
 - Andy Jones
-- Karpathy
-- Kremer
 - Thomas Edison
 - Isaac Newton
 - Albert Einstein

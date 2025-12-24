@@ -18,8 +18,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 卢伟斌
 products_models:
 - 速漆
 - 预漆

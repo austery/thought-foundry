@@ -15,11 +15,7 @@ media_books:
 - The Rundown
 - Unravel
 people:
-- Nathan Vanderklippe
-- Dr. Dawn Bowdish
-- Dr. Trevor Arnason
 - Donald Trump
-- Sangeeta Patel
 - Jeyan Jeganathan
 products_models:
 - Advil

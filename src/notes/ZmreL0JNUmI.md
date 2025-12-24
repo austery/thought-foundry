@@ -23,10 +23,6 @@ people:
 - Thomas Edison
 - Henry Ford
 - Elon Musk
-- Ozan Varol
-- Li Yinuo
-- Martin
-- Karen
 products_models: '[]'
 project:
 - personal-growth-lab

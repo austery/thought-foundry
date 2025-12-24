@@ -11,8 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Latif Nasser
-- Amaury Guichon
 - Frank
 products_models:
 - YouTube

@@ -52,21 +52,8 @@ layout: post.njk
 media_books:
 - Know What Matters
 people:
-- Shane Parrish
 - Warren Buffett
 - Howard Schultz
-- Steve Ells
-- Scott Davis
-- Dwight Juen
-- Jim Cook
-- Terry Heckler
-- Bill Morton
-- Kee Pasco
-- Brett Schulman
-- Lu King
-- Tony Robbins
-- Noah El Bogen
-- Tzurit Or
 products_models:
 - Remarkable 2
 - Remarkable Paper Pro

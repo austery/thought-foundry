@@ -28,23 +28,6 @@ media_books:
 - 《广东战后报告》
 - 《广东进军抄》
 - book-rescue
-people:
-- 火野苇平
-- 阿英
-- 容肇祖
-- 郑振铎
-- 郑源
-- 朱自清
-- 俞平伯
-- 清水董三
-- 周佛海
-- 张寿镛
-- 张元济
-- 何炳松
-- 许地山
-- 博萨尔
-- 福武直
-- 中生胜美
 products_models: []
 project:
 - china-analysis

@@ -20,8 +20,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 张学震
 products_models: []
 project:
 - china-analysis

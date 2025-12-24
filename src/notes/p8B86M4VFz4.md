@@ -13,9 +13,6 @@ layout: post.njk
 people:
 - Richard Feynman
 - Steven Pinker
-- James Farley
-- 吴国胜
-- Meghan McArdle
 products_models:
 - ChatGPT-5
 - Gemini

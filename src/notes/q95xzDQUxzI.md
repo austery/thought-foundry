@@ -26,7 +26,6 @@ people:
 - Donald Trump
 - Xi Jinping
 - Deng Xiaoping
-- Javier Blas
 products_models:
 - Neodymium magnets
 - Tetraanide

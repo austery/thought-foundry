@@ -12,9 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Context Engineering blog
-people:
-- Val Bercovici
-- Kellen Fox
 products_models:
 - Claw Code
 - Codex

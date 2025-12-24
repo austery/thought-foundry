@@ -29,10 +29,6 @@ media_books:
 - The Economist
 people:
 - Steve Paikin
-- Constantine Curionopoulos
-- Vina Najibulla
-- Mary Ng
-- Lynette
 - Red Wilson
 - Pierre Trudeau
 - Jean Chrétien
@@ -41,13 +37,6 @@ people:
 - Henry Kissinger
 - Donald Trump
 - Bob Rae
-- John Edmonson
-- JM
-- Caroline
-- Julia Panella
-- Nicholas
-- Elliot Chen
-- Nick
 - Zach
 products_models:
 - EVs

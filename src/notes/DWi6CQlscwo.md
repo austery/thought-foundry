@@ -13,11 +13,7 @@ layout: post.njk
 media_books:
 - 《The Daily Beast》
 people:
-- Sanjay Mehrotra
-- Mark Murphy
 - 李录
-- Mohnish Pabrai
-- Guy Spier
 products_models: []
 project:
 - investment-strategy

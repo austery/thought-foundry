@@ -14,10 +14,6 @@ media_books:
 - 《科学怪人》
 - European Heart Journal
 people:
-- 邬定宇
-- 梁惠雯
-- 史佩尔曼教授
-- 门德烈夫
 - Larry Page
 - Bill Gates
 - Elon Musk

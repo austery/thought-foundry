@@ -10,9 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - '《American Hookup: The New Culture of Sex on Campus》'
-people:
-- Lisa Wade
-- 林根后
 products_models: []
 project:
 - cultural-critique

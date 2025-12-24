@@ -21,17 +21,9 @@ layout: post.njk
 media_books:
 - YouTube
 people:
-- Sherman Woo
 - Sam Altman
 - Greg Brockman
 - Adam D'Angelo
-- Charlie Cheever
-- Dennis
-- Johnny Ho
-- Jerry Ma
-- Christina
-- Venot
-- Aditia
 - Mark
 products_models:
 - ChatGBT

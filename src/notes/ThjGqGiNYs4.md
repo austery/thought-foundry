@@ -17,9 +17,7 @@ layout: post.njk
 media_books:
 - Financial Times
 people:
-- Sergey Guif
 - Nikolai Tangen
-- Floren Vasvari
 - Jensen Huang
 - Satya Nadella
 products_models:

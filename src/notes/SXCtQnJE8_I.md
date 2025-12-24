@@ -15,10 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Five Dysfunctions of a Team
-people:
-- Courtney Hickey
-- Wade
-- Claraveo
 products_models:
 - Zapier Agents
 - Fathom

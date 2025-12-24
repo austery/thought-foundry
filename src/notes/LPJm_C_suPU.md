@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-- 萧家駒
 products_models: []
 project:
 - systems-thinking

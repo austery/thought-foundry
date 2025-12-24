@@ -14,7 +14,6 @@ media_books:
 - Attention Is All You Need
 - three blue one brown
 people:
-- Suman Debnath
 - Simon
 products_models:
 - PaLI

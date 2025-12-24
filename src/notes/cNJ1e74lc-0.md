@@ -29,13 +29,10 @@ media_books:
 people:
 - Donald Trump
 - Volodymyr Zelenskyy
-- John Mathews
 - Emmanuel Macron
 - Xi Jinping
 - Lai Ching-te
-- Liu Shih-fang
 - 雷震
-- Antony Blinken
 products_models:
 - PHL-03火箭炮
 - 泰达币

@@ -21,17 +21,9 @@ media_books:
 - New York Times
 people:
 - Elon Musk
-- Sean Duffy
 - Donald Trump
 - Jared Isaacman
-- Amit
-- Rachel Campos Duffy
-- Sergio Gore
 - Yuri Gagarin
-- Neil Armstrong
-- Buzz Aldrin
-- Carl Sagan
-- Wernher von Braun
 products_models:
 - Starship
 - Starlink

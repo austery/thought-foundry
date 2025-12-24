@@ -21,14 +21,7 @@ people:
 - Wang Yangming
 - Mencius
 - Mao Zedong
-- Yang Changji
-- Li Jinxi
-- Meng Yuan
-- Xiao Hui
-- Zhu Ming
 - Zhou Enlai
-- Xie Juezai
-- Carl Schmidt
 products_models: []
 project:
 - china-analysis

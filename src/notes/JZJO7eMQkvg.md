@@ -14,8 +14,6 @@ media_books:
 - Ode to Camellia
 people:
 - Anthony
-- Yang Shuo
-- Lao Liang
 products_models: []
 project:
 - china-analysis

@@ -15,16 +15,10 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 叶浩
 - 汉娜·阿伦特
 - 赖清德
-- 约翰·斯图尔特·密尔
-- 以赛亚·伯林
 - 卢梭
-- 霍布斯
-- 洛克
 - 蒋介石
-- 殷海光
 - 雷震
 - 胡适
 - 蔡英文
@@ -32,8 +26,6 @@ people:
 - 马英九
 - 李登辉
 - 蒋经国
-- 亨廷顿
-- 张彭春
 products_models: []
 project:
 - china-analysis

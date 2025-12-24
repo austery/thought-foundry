@@ -30,9 +30,7 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Dmitry Shevelenko
 - Jeff Bezos
-- Olivier
 products_models:
 - Perplexity Pro
 - Perplexity Max

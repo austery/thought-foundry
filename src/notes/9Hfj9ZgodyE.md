@@ -16,7 +16,6 @@ layout: post.njk
 media_books:
 - Chatbot Arena
 people:
-- Edwin Chen
 - 大飞
 products_models:
 - Claude

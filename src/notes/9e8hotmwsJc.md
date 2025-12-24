@@ -26,15 +26,8 @@ media_books:
 - The Guardian
 people:
 - Tracy Mumford
-- Jim Himes
-- Admiral Bradley
-- General Kaine
-- Tom Cotton
-- Brian Cole Jr.
-- Vladimir Zelensky
 - LeBron James
 - Kevin Durant
-- Tom Stoppard
 - Steven Spielberg
 - Dan Bongino
 products_models: []

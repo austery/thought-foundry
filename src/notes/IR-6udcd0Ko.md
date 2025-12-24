@@ -12,7 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 鄧雯心醫師
-- 雪力老師
 - 宋晏仁醫師
 products_models:
 - MBTI

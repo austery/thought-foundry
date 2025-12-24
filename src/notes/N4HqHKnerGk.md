@@ -21,7 +21,6 @@ insight: ''
 layout: post.njk
 people:
 - Bill Ackman
-- Dara Khosrowshahi
 products_models: []
 project:
 - investment-strategy

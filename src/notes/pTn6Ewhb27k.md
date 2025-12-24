@@ -12,11 +12,9 @@ layout: post.njk
 media_books:
 - On the Electrodynamics of Moving Bodies
 people:
-- Hippolyte Fizeau
 - Albert Einstein
 - Destin Sandlin
 - Mark
-- einstein-synchronization
 products_models:
 - Koala Crates
 - Infinity Mirror

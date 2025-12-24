@@ -16,10 +16,6 @@ layout: post.njk
 media_books:
 - 《无能之国》
 - 《三个傻瓜》
-people:
-- Poulami Roychowdhury
-- Sita
-- Rama
 products_models: []
 project:
 - geopolitics-watch

@@ -42,12 +42,9 @@ people:
 - Vladimir Putin
 - Elon Musk
 - 贝森特
-- 戈里尔
 - 巴菲特
 - 毛泽东
 - 朱棣
-- 唐太宗
-- 刘备
 products_models:
 - ChatGPT
 - FSD

@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 鄧雯心醫師
-- 蕭美君醫師
 products_models:
 - SSRI
 - SNRI

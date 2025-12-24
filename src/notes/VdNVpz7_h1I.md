@@ -13,8 +13,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Carolyn Ferns
 products_models: []
 project: []
 series: ''

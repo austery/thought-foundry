@@ -24,23 +24,7 @@ layout: post.njk
 media_books:
 - The Gift
 people:
-- Ann Marie Ki
-- Jackie Reev
 - James
-- Amy Kravitz
-- Trey French
-- Brent Butterworth
-- Jennifer Hunter
-- John Chase
-- Rachel Sarakola
-- Katherine Cast
-- Tom Dunn
-- Ellen Lee
-- Liam
-- Nicola
-- Caitlyn Wells
-- Mel Plout
-- Kathleen Squires
 products_models:
 - Yummy Taper candles
 - Company Cotton Voile Quilt

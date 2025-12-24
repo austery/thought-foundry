@@ -15,9 +15,6 @@ media_books:
 - The Matrix series
 people:
 - Carl
-- William Gibson
-- Morpheus
-- Neo
 - Sam Altman
 products_models:
 - ChatGPT

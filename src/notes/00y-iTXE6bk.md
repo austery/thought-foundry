@@ -20,7 +20,6 @@ media_books:
 - Demon Copperhead
 - In Good Company
 people:
-- Emma Walmsley
 - Nicola Tangan
 - Bill Gates
 products_models:

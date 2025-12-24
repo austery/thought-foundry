@@ -12,19 +12,8 @@ media_books:
 - 《天气之子》
 - 《铃芽之旅》
 people:
-- 三叶
-- 泷
-- 大野晃
-- 柳田国男
-- Hugh Everett
-- Schrödinger
 - Roger Penrose
 - Sigmund Freud
-- Tim Ingold
-- Mircea Eliade
-- 西谷修
-- Jean-Luc Nancy
-- 九鬼周造
 products_models: []
 project:
 - historical-insights

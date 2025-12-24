@@ -17,12 +17,7 @@ layout: post.njk
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Veneer Benali
 - Bill Gross
-- Larry Harris
-- Fisher Black
-- Tommy Baldwin
-- Mohamed El-Erian
 products_models:
 - Black-Scholes
 - Monte Carlo

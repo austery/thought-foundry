@@ -18,7 +18,6 @@ media_books:
 people:
 - Mustafa Suleyman
 - Demis Hassabis
-- Andrew Ng
 - Bill Gates
 products_models:
 - Copilot

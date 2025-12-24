@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Merete Hverven
 - Nikolai
 - Mark
 products_models: []

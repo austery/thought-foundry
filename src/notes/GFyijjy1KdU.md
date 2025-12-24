@@ -23,18 +23,8 @@ media_books:
 - The 4-Hour Chef
 people:
 - Tim Ferriss
-- Garrett Camp
-- Debbie Milman
-- Dick Schwarz
-- Lisa Feldman
-- Nolan Williams
-- Chris Palmer
-- Stanislav Grof
-- Ghul Dolan
-- Brian Tracy
 - Jason Calcanis
 - Joe Rogan
-- Mark Maron
 products_models:
 - Accelerated TMS
 - Vagus Nerve Stimulation

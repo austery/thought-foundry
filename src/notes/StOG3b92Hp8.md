@@ -24,8 +24,6 @@ people:
 - 莊也
 - Justin Trudeau
 - François Legault
-- Manpreet Gill
-- Nijjar
 products_models: []
 project:
 - geopolitics-watch

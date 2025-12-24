@@ -20,7 +20,6 @@ people:
 - Donald Trump
 - John Roberts
 - Bill Cassidy
-- Faraz Fhi
 products_models:
 - Obamacare
 - HBO Max

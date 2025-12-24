@@ -16,7 +16,6 @@ media_books:
 - 《意义的地图》
 people:
 - Jordan Peterson
-- Cathy Newman
 - Justin Trudeau
 - Warren Buffett
 - Charlie Munger

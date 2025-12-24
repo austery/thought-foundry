@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- forrest-li
 products_models: []
 project:
 - ai-impact-analysis

@@ -13,13 +13,7 @@ media_books:
 - Hamlet
 - Modern Love
 people:
-- Jessie Buckley
 - Anna Martin
-- Victoria Dari
-- William Shakespeare
-- Paul Mescal
-- Jackabe Jup
-- Marina
 products_models:
 - Millennium Falcon Lego
 project:

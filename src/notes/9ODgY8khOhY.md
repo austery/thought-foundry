@@ -13,8 +13,6 @@ layout: post.njk
 media_books:
 - The Private Equity Playbook How Buyout Firms Extract Rather Than Build Value and
   What to Do about It
-people:
-- Rachel Wasserman
 products_models: []
 project:
 - investment-strategy

@@ -20,12 +20,9 @@ media_books:
 - VG
 - Dagsrevyen 18
 people:
-- Karen Helene Ultveit Mo
-- Ulf Sverdrup
 - Nikolai Tangen
 - Jens Stoltenberg
 - Donald Trump
-- Cecilie Langen Beckker
 products_models:
 - State Pension Fund Global
 project:

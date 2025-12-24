@@ -33,22 +33,10 @@ media_books:
 - Seriously Funny
 - Acting My Age
 people:
-- Kevin Hart
-- Henry Witherspoon
-- Nancy Hart
 - Chris Rock
-- Eddie Murphy
-- Cat Williams
-- Will Packer
-- Ice Cube
 - Dwayne Johnson
-- Steve Harvey
 - Shaquille O'Neal
-- Tommy Davidson
-- Scooter Braun
 - Evan Spiegel
-- Michael Rubin
-- Jay-Z
 products_models:
 - Gran Coramino Tequila
 - Ace of Spades

@@ -27,12 +27,6 @@ media_books:
 - In Good Company
 - IAA
 - Women for Leaders
-people:
-- Karin Rådström
-- Joe Kaeser
-- Jim Snape
-- Albert Benny
-- Charlotte
 products_models:
 - Euro 7
 project:

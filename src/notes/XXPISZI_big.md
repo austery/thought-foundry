@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- bryan-johnson
 products_models: []
 project: []
 series: ''

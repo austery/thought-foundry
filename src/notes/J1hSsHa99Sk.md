@@ -22,14 +22,6 @@ media_books:
 - 《710分之一秒》
 - Netflix
 people:
-- Zak Brown
-- Nicolola Latangan
-- Lando Norris
-- Oscar Piastri
-- Nico Hulkenberg
-- Paul Walsh
-- Roger Penske
-- Nikki Lao
 - Brad Pitt
 products_models: []
 project: []

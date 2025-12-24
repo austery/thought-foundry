@@ -11,18 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Amelia Earhart
-- Fred Noonan
-- Harry Manning
-- Eleanor Roosevelt
-- Eugene Vidal
-- President Roosevelt
-- Heinrich Hertz
-- Joseph Gurr
-- Commander Thompson
-- George Putnam
-- Clifford
 products_models:
 - Lockheed Electra
 - Adcock antenna array

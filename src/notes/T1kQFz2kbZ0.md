@@ -12,13 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Robert Wallace
-- Tron
 - Thomas Edison
-- Harry Markowitz
-- Roald Amundsen
-- Fridtjof Nansen
-- TAA Rosenberg
 products_models: []
 project:
 - investment-strategy

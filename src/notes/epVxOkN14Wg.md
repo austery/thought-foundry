@@ -29,17 +29,11 @@ media_books:
 - Politico
 people:
 - Michael Barbaro
-- Nicole Hannah Jones
 - Donald Trump
 - Lyndon B. Johnson
 - George Floyd
-- Lee Zeldin
 - Steven Miller
-- Briana Taylor
-- Rayford Logan
-- Ida B. Wells
 - John Thune
-- Paul Ingracia
 products_models:
 - 1619 Project
 - Civil Rights Act of 1964

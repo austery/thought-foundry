@@ -21,16 +21,12 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Georgi Ganev
-- James Anderson
 - Charlie Munger
 - Jeff Bezos
 - Warren Buffett
 - Jensen Huang
 - Steve Jobs
 - Elon Musk
-- Katalin Karikó
-- Jessica Trancik
 products_models: []
 project:
 - investment-strategy

@@ -12,9 +12,6 @@ layout: post.njk
 media_books:
 - 《资本的秘密》
 - 《巡录集》
-people:
-- 周其人
-- Hernando de Soto
 products_models: []
 project:
 - china-analysis

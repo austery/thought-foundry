@@ -10,11 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - My Mother's Daughter
-people:
-- Pura Felicia
-- Andrew Wong
-- Nova
-- Sydney Crosby
 products_models: []
 project:
 - personal-growth-lab

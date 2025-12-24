@@ -31,7 +31,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-- Brian Potter
 - Henry Ford
 - Eric Adams
 products_models:

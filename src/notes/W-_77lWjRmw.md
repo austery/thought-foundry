@@ -10,13 +10,6 @@ layout: post.njk
 media_books:
 - 《药有光》
 - 《无用的债帐》
-people:
-- 梁鸿
-- 敏敏
-- 雅雅
-- 吴勇
-- 陈清华
-- 沈春
 products_models: []
 project:
 - systems-thinking

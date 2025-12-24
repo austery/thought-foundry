@@ -23,14 +23,6 @@ media_books:
 - Telegram
 - WhatsApp
 - YouTube
-people:
-- 陈志
-- 洪森
-- 洪马赖
-- 祝忠彪
-- Sam Haines
-- Melvin
-- Hutchinson
 products_models: []
 project:
 - us-analysis

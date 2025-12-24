@@ -12,12 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《他乡的童年》
-people:
-- 周轶君
-- 陈秋菊
-- 何欢
-- 库布塔
-- 卢卡斯
 products_models: []
 project:
 - historical-insights

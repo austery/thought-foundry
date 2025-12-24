@@ -9,9 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《贫穷的本质》
-people:
-- 阿比吉特班纳吉
-- 埃斯特迪弗洛
 products_models: []
 project:
 - ai-impact-analysis

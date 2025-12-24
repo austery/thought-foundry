@@ -11,14 +11,7 @@ media_books:
 - 《纽约时报》
 - 《春秋左传》
 people:
-- 高宇新
-- 晋惠公
-- 秦穆公
-- 崇尔
-- 晋文公
-- 穆姬
 - 毛
-- 邓
 products_models: []
 project:
 - china-analysis

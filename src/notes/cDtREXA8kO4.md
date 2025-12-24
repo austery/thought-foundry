@@ -56,7 +56,6 @@ people:
 - Vitalik Buterin
 - Geoffrey Hinton
 - Demis Hassabis
-- 曹国伟
 products_models:
 - ChatGPT
 - Sora

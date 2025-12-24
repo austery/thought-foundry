@@ -43,11 +43,8 @@ layout: post.njk
 media_books:
 - Financial Times
 people:
-- Roy
 - Tanner
 - Vlad Tenev
-- Jason Warick
-- Shiv Verma
 - Jensen Huang
 - Donald Trump
 - Michael Burry

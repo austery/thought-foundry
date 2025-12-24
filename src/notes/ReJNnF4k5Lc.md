@@ -12,9 +12,7 @@ media_books:
 - 《追求幸福》
 - 《为幸福而生》
 people:
-- 空海大师
 - 托马斯·杰斐逊
-- 爱默生
 products_models: '[]'
 project:
 - personal-growth-lab

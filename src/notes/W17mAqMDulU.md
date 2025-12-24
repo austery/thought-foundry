@@ -15,9 +15,6 @@ media_books:
 - 《中国植物志》
 - 《内蒙古植物志》
 people:
-- 马平
-- 马毓泉
-- 胡秀英
 - 钱学森
 products_models: []
 project:

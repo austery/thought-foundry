@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: psychology
+companies:
+- psychoanalysi
 companies_orgs: []
 date: '2025-09-28'
 draft: true
@@ -12,7 +14,6 @@ media_books:
 - Little Soldier Zhang Ga
 people:
 - Anthony
-- Fang Zhimin
 - Lacan
 products_models: []
 project:
@@ -30,8 +31,6 @@ tags:
 - masculinity
 - ntr-fantasy
 title: NTR幻想与中国民族主义：一种扭曲的性教育心理分析
-companies:
-- psychoanalysi
 ---
 
 ### NTR幻想的深层动机

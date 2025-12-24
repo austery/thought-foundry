@@ -17,12 +17,6 @@ media_books:
 people:
 - Justin Trudeau
 - Jagmeet Singh
-- Pesec1
-- Dull_Skirt841
-- Bad-North
-- Kebida96
-- FarLog4503
-- Complex-Reference353
 products_models:
 - Express Entry
 - Comprehensive Ranking System

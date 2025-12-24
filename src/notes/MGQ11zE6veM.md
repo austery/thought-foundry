@@ -20,7 +20,6 @@ media_books:
 - Patrick McGee's book
 people:
 - Arthur Kroeber
-- Patrick McGee
 - Donald Trump
 - Joe Biden
 - Tim Cook

@@ -17,7 +17,6 @@ media_books:
 - The Wire Cutter Show
 - TED Talks
 people:
-- Mel Robbins
 - Kyra Blackwell
 - Rosie Garin
 products_models: []

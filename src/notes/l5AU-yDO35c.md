@@ -16,24 +16,10 @@ media_books:
 - The Daily
 people:
 - Rachel Abrams
-- Tony Rom
-- Olivia Nat
-- Anna Foley
-- Roy Messer
-- Teresa Hodgej
-- Brianna Lockart
-- Russell Vote
-- Mooj Zadei
-- Patricia Willins
-- Paige Cowitt
 - Susan Lee
 - Marian Lozano
 - Dan Powell
-- Chris Wood
-- David Farenthal
-- Rachel Colulbertson
 - Andrew Cuomo
-- Zoron Mandani
 - Donald Trump
 products_models:
 - SNAP

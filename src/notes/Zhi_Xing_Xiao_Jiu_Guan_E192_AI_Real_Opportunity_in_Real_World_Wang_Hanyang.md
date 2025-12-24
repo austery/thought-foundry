@@ -12,7 +12,6 @@ media_books:
 - 知行小酒馆
 people:
 - 雨白
-- 王汉洋
 products_models: []
 project:
 - ai-impact-analysis

@@ -13,18 +13,8 @@ media_books:
 - 《制度基因》
 - 《蜜蜂的寓言》
 people:
-- 马基雅维里
-- 圭恰尔迪尼
-- 曼德维尔
-- 汉密尔顿
-- 杰斐逊
 - 许成钢
-- 威廉一世
-- 亨利一世
 - 鲍里斯·约翰逊
-- 克伦威尔
-- 霍布斯
-- 洛克
 products_models: []
 project:
 - historical-insights

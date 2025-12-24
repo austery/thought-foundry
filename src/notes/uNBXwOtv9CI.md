@@ -20,7 +20,6 @@ media_books:
 - 彭博
 people:
 - 小陶
-- 鲍尔
 products_models:
 - TikTok
 - Investing.com

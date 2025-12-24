@@ -41,9 +41,7 @@ people:
 - Janet Yellen
 - Donald Trump
 - Xi Jinping
-- 郭家坤
 - Justin Trudeau
-- Fumio Kishida
 - 林信义
 - Jensen Huang
 - Jerome Powell

@@ -11,11 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Game of Thrones
-people:
-- Andrés Rojas
-- Juan M. Lavista Ferres
-- Paula Caycedo
-- edge-computing
 products_models:
 - SPARROW
 project:

@@ -13,7 +13,6 @@ layout: post.njk
 media_books: '[]'
 people:
 - Donald Trump
-- Kilmar Garcia
 products_models: '[]'
 project:
 - us-analysis

@@ -21,7 +21,6 @@ media_books:
 - 《战胜华尔街》
 - 《巴伦周刊》
 people:
-- 彼得·林奇
 - 沃伦·巴菲特
 products_models: []
 project:

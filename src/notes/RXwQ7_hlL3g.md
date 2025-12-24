@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Francesca Hogi
 products_models: []
 project:
 - personal-growth-lab

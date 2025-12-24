@@ -9,8 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 杨晓凯
-- 卢峰
 - Donald Trump
 products_models: []
 project:

@@ -23,8 +23,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Reno
 products_models:
 - 特斯拉
 - CRWV

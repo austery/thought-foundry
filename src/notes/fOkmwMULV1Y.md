@@ -26,7 +26,6 @@ media_books:
 people:
 - Peter Thiel
 - Christopher Waller
-- Philip Jefferson
 products_models: []
 project:
 - investment-strategy

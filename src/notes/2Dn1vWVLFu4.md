@@ -19,12 +19,6 @@ people:
 - Al Gore
 - Christine Lagarde
 - Donald Trump
-- Cousin Minnie Pearl
-- Joel Mokyr
-- Nelson Mandela
-- Henrik Ibsen
-- Haakon
-- Ida Wolden Bache
 - Nicolai Tangen
 - Kristin Halvorsen
 products_models: []

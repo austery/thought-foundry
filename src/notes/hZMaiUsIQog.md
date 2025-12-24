@@ -18,9 +18,6 @@ media_books:
 - 《弗吉尼亚州札记》
 people:
 - Martin Luther King Jr.
-- Chris Duffy
-- Clint Smith
-- David Thorson
 - Thomas Jefferson
 products_models: []
 project:

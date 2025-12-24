@@ -18,12 +18,6 @@ media_books:
 - How Great Ideas Happen
 - Simon & Garfunkel record
 - John Hughes movies
-people:
-- Cathie James
-- Sarah Krichel
-- George E Newman
-- Diego Garcia
-- Ricardo
 products_models:
 - Canon C70
 - Instant Pot

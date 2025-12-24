@@ -18,7 +18,6 @@ insight: ''
 layout: post.njk
 people:
 - 唐石峻
-- Brain Niccol
 products_models:
 - Mc Cafe
 project:

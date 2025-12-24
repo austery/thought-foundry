@@ -10,7 +10,6 @@ layout: post.njk
 people:
 - Nassim Nicholas Taleb
 - Martin Luther King Jr.
-- Malcolm X
 - Hegel
 products_models:
 - 《黑天鹅》

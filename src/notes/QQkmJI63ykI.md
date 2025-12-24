@@ -11,10 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Fritz Haber
-- William Crooks
-- Georg Hildebrandt
-- Clara
 - Max Planck
 - Max Born
 - Albert Einstein

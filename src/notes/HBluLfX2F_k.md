@@ -19,12 +19,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Harry Potter
-people:
-- Vilfredo Pareto
-- Abraham de Moivre
-- Per Bak
-- Albert-László Barabási
-- Réka Albert
 products_models:
 - NordVPN
 - Elements of Truth

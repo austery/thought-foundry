@@ -37,19 +37,15 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-- Cactus Jack
 - Tom Lee
 - Jensen Huang
-- Shyam Sankar
 - Palmer Luckey
-- Ryan Cohen
 - Satya Nadella
 - Chamath Palihapitiya
 - Donald Trump Jr.
 - Laura Ingraham
 - Mark Benioff
 - Stanley Druckenmiller
-- Steve Fiorillo
 products_models:
 - Blackwell
 - FSD

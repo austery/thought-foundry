@@ -13,10 +13,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《中庸》
-people:
-- 李果
-- 朱一良
-- 王彦清
 products_models: []
 project:
 - systems-thinking

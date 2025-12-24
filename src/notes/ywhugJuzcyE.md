@@ -50,17 +50,10 @@ media_books:
 - The Wall Street Journal
 people:
 - Vlad Tenev
-- Alex Rampell
-- Eric Vishria
-- Johnny Conway
 - Oprah Winfrey
 - Peter Thiel
-- Andy Rachleff
 - Ben Horowitz
-- David George
-- Micky Malka
 - Elon Musk
-- Dan Rose
 products_models:
 - iPhone
 - ETF

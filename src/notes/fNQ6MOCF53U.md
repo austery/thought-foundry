@@ -19,12 +19,8 @@ media_books:
 - Kens
 people:
 - Nicola Tangen
-- Lars Strannegård
-- Jacob Dahlgren
-- Ola Källenius
 - Malcolm Gladwell
 - Plato
-- Joseph Conrad
 products_models:
 - ChatGPT
 - Google

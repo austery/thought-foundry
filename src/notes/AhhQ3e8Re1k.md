@@ -11,20 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Macaron
-- Gao Shan
-- Tianxia Weigong
-- Peng Chenliang
-- Zeng Shengguang
-- Pan Wen-yang
-- Wu Zhongda
-- Sophie
 - Putin
-- Zelensky
-- Pelosi
-- Ada
-- Liu Jie
-- Liu Hongwei
 products_models:
 - AK-74U
 - T-62

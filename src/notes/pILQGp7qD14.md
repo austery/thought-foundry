@@ -21,9 +21,6 @@ people:
 - Donald Trump
 - Xi Jinping
 - Vladimir Putin
-- 安东尼奥·科斯塔
-- 冯德莱恩
-- 周寿之
 products_models:
 - DeepSeek
 - HIMARS

@@ -19,7 +19,6 @@ layout: post.njk
 people:
 - Donald Trump
 - 李强
-- 拉玛福萨
 products_models:
 - 巴黎协定
 - 约翰内斯堡宣言

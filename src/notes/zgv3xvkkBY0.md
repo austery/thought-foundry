@@ -12,7 +12,6 @@ layout: post.njk
 media_books:
 - The Book of Why
 people:
-- Howard Wiener
 - Bill Gates
 products_models: []
 project:

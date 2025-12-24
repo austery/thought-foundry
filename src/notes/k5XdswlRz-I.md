@@ -21,7 +21,6 @@ people:
 - Donald Trump
 - Tracy Mumford
 - Mike Johnson
-- Adalita Galva
 - Vladimir Putin
 products_models: []
 project:

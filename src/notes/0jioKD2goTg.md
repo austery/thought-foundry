@@ -15,7 +15,6 @@ layout: post.njk
 people:
 - Jens Stoltenberg
 - Nicolai Tangen
-- Torbjørn Røe Isaksen
 - Kristin Halvorsen
 products_models:
 - Statens pensjonsfond utland

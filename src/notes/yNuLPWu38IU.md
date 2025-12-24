@@ -28,13 +28,10 @@ people:
 - Greg Brockman
 - Jensen Huang
 - Lisa Su
-- Carol Dweck
 - Adam Grant
-- Diego Comin
 - Bill Gates
 - Steve Ballmer
 - Andy Grove
-- Colin Mayer
 products_models:
 - Windows
 - SQL Server

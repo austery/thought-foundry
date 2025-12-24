@@ -12,7 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Elon Musk
-- Newman
 products_models:
 - Starship
 - Apollo

@@ -30,8 +30,6 @@ media_books:
 - The bifurcation of the economy
 people:
 - Jensen Huang
-- Michael Bur
-- Amir Yazdan
 products_models:
 - TPU
 - GPU

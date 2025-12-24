@@ -34,7 +34,6 @@ people:
 - 泓君
 - Jason Furman
 - Ethan徐
-- 王辰晟
 - Sam Altman
 - Andy Grove
 - Bill Gates

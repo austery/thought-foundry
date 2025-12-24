@@ -16,18 +16,8 @@ layout: post.njk
 media_books:
 - Latent Space podcast
 people:
-- Sam Julian
-- Quinn
 - John
-- Elizabeth Triken
-- Eric Suns
 - Greg Brockman
-- Omar
-- Anker
-- Barry
-- Dominic
-- Ryzen Martin
-- Lori
 - Einstein
 - Marie Curie
 products_models:

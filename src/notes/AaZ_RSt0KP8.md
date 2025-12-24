@@ -14,14 +14,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Maria Vindevogel
-- Henri Becquerel
-- Theodore Wolf
-- Victor Hess
-- Charles Wilson
 - Carl Anderson
-- DOTA_Teabag
-- PenandCook12
 products_models:
 - 16 kilobit DRAM
 - Super Mario 64

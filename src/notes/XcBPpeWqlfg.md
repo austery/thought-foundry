@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Erika H. James
 products_models: []
 project:
 - systems-thinking

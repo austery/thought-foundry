@@ -17,11 +17,8 @@ media_books:
 people:
 - Donald Trump
 - Franklin D. Roosevelt
-- Connor Dohy
-- Bill Py
 - Laura Loomer
 - Marjorie Taylor Green
-- Christopher Rufo
 - Jeffrey Epstein
 - Michael Bubaro
 products_models: []

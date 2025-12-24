@@ -14,11 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ruthia He
-- 何如佳
-- David Brody
-- Merrick Garland
 products_models:
 - Adderall
 project:

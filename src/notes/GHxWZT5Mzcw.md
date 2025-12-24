@@ -15,8 +15,6 @@ media_books:
 people:
 - Gary Marcus
 - Sam Altman
-- Nicolas Cage
-- John Travolta
 products_models:
 - ChatGPT
 - Gemini

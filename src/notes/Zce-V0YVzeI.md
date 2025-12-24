@@ -12,7 +12,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Bruce Tremper
 - Peter
 - Derek
 products_models:

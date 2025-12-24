@@ -15,15 +15,7 @@ media_books:
 - 《国史大纲》
 - 《知道分子》
 people:
-- William Bentinck
-- Jawaharlal Nehru
-- Andrew Breitbart
-- Stephen Bannon
 - Donald Trump
-- Michael Sugrue
-- Qian Mu
-- Ge Zhaoguang
-- Wang Shuo
 products_models: '[]'
 project:
 - china-analysis

@@ -12,9 +12,7 @@ media_books:
 - 《文化大革命与巫术文化》
 people:
 - Wang Yi
-- Levibrühl
 - Mao Zedong
-- 林副主席
 products_models: []
 project:
 - china-analysis

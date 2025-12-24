@@ -17,7 +17,6 @@ media_books:
 - 《彭博社》
 - 《华盛顿邮报》
 people:
-- 戴维·亚当斯
 - Donald Trump
 - Justin Trudeau
 - Doug Ford

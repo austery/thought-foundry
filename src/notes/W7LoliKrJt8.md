@@ -20,33 +20,16 @@ media_books:
 - Time
 people:
 - Donald Trump
-- Millard Fillmore
-- Whitman
-- Everett J. Waring
-- Benjamin Harrison
-- Alfred Mahan
 - Queen Victoria
-- William McKinley
-- Arthur MacArthur Sr.
-- Emilio Aguinaldo
-- John Calhoun
-- Charles Sumner
 - Mark Twain
 - Woodrow Wilson
-- Cornelius P. Rhoads
-- Pedro Albizu Campos
 - Harry S. Truman
-- Gregory Pincus
-- Roland Barthes
 - Richard Feynman
 - Richard Nixon
 - Mahatma Gandhi
-- Manuel L. Quezon
 - 毛泽东
-- Stuart B. Barber
 - Ferdinand Marcos Jr.
 - Barack Obama
-- 邝友良
 products_models: []
 project:
 - us-analysis

@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Itamar Friedman
 products_models:
 - Cursor
 - Copilot

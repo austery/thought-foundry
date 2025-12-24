@@ -20,19 +20,7 @@ media_books:
 - 《养小录》
 - 《红楼梦》
 people:
-- 林卫辉
-- 尼古拉斯·柯蒂
-- 提斯教授
-- 陈晓卿
 - 苏东坡
-- 屈原
-- 宋之问
-- 李清照
-- 林洪
-- 李渔
-- 顾仲
-- 袭人
-- 王夫人
 products_models: []
 project:
 - cultural-critique

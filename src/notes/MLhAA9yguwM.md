@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Michele Catasta
 products_models:
 - Rapid Agent
 project:

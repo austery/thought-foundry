@@ -26,7 +26,6 @@ layout: post.njk
 media_books: '[]'
 people:
 - 扎克伯格
-- Palmer Lucky
 - 特朗普
 products_models:
 - Libra币

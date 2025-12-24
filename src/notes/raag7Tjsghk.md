@@ -14,16 +14,10 @@ media_books:
 people:
 - Donald Trump
 - Kamala Harris
-- George Will
 - Thomas Jefferson
-- Eric Foner
-- Joshua Ramo
 - Henry Kissinger
 - Vladimir Putin
-- Mussolini
 - Adolf Hitler
-- 朱云汉
-- 胡鞍钢
 - 毛主席
 - Gunnar Myrdal
 products_models: []

@@ -14,7 +14,6 @@ media_books:
 - 《好好休息》
 - Podcast
 people:
-- 蔡宇哲
 - 宋晏仁
 - Elon Musk
 products_models:

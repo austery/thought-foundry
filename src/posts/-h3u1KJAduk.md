@@ -27,14 +27,8 @@ people:
 - Vivian
 - Ray
 - Jesse
-- Yinchuan
-- Joyce
 - Frank
 - Alex
-- Wang Hao
-- Lira
-- Ramy
-- Niki
 products_models:
 - Kindle
 - iPad

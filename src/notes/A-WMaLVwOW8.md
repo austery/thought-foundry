@@ -12,7 +12,6 @@ media_books:
 - The Power of Regret
 people:
 - Nikolai Tangen
-- Dan Pink
 products_models: []
 project:
 - personal-growth-lab

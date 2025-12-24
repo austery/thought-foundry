@@ -29,7 +29,6 @@ media_books:
 - 华尔街日报
 people:
 - Donald Trump
-- Worsh
 - Hassett
 products_models:
 - H200 AI chip

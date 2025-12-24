@@ -9,8 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Nicholas Arcolano
 products_models:
 - Copilot
 - Cursor

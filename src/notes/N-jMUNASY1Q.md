@@ -14,10 +14,7 @@ insight: ''
 layout: post.njk
 people:
 - Nicola Tangen
-- Catherine MacGregor
 - Reed Hoffman
-- Jane Austen
-- Marcel Proust
 products_models:
 - CH4
 - biomethane

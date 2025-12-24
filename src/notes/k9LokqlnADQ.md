@@ -19,22 +19,12 @@ media_books:
 - 《大棋局》
 - 《美国国家利益》
 people:
-- 库奇马
 - 克林顿
-- 布热津斯基
-- 基辛格
-- 戈尔
-- 尤先科
-- 季莫申科
 - 小布什
-- 赖斯
 - 奥巴马
-- 雅努科维奇
 - 希拉里·克林顿
 - 拜登
 - Donald Trump
-- 梁强
-- 沈毅
 products_models: []
 project:
 - us-analysis

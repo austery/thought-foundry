@@ -9,7 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Chabelli
 - C.S. Lewis
 products_models: []
 project:

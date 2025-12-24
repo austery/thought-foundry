@@ -34,13 +34,7 @@ media_books:
 people:
 - Nicolai Tangen
 - Adam Posen
-- Espen
 - Jens Stoltenberg
-- Ted Truman
-- Constance Sch
-- Joe Peterson
-- Catherine Lynch
-- Ashraf H
 products_models: []
 project:
 - investment-strategy

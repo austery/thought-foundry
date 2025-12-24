@@ -11,12 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - olympic-game
-people:
-- Troy Vincent Sr.
-- Alma Vincent
-- Tracy Williams
-- Desiré Vincent
-- Ki'Lolo Westerlund
 products_models: []
 project:
 - cultural-critique

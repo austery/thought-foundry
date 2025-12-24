@@ -17,15 +17,10 @@ media_books:
 - I Will Always Love You
 people:
 - Donald Trump
-- Cassandra Vinegrad
 - Vladimir Putin
 - Marco Rubio
 - Zoran Mandani
 - Marjorie Taylor Greene
-- Gina Smileik
-- Whitney Houston
-- Scarlett Johansson
-- David Foster
 products_models:
 - Obamacare
 - Epstein files

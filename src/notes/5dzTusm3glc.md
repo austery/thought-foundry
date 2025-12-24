@@ -12,9 +12,6 @@ layout: post.njk
 media_books:
 - 《麦克林杂志》
 - QS世界大学排行榜
-people:
-- Alexander Cameron Rutherford
-- Wilfrid Laurier
 products_models: []
 project:
 - market-cycles

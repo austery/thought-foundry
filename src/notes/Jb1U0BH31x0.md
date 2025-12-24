@@ -1,36 +1,32 @@
 ---
-title: 深入探讨由Perplexity收购Chrome要约引发的AI浏览器大战
-summary: 探讨AI浏览器的定义、其在AI时代的战略重要性、Perplexity对Chrome的收购要约、谷歌面临的创新者困境，以及这对搜索和广告模式的未来颠覆。
 area: tech-insights
+author: Lei
 category: technology
-project:
-- ai-impact-analysis
-tags:
-- llm
-- technology
-- war
-people:
-- Howie Sheng
-- Howie Xu
-- Guru Pangal
+channel: https://www.youtube.com/@101.school
+companies:
+- google-chrome
 companies_orgs:
 - perplexity
-products_models: []
-date: 2025-08-29
-author: Lei
-speaker: ''
-channel: https://www.youtube.com/@101.school
 created: 2025-08-29T16:34
+date: 2025-08-29
 draft: true
 guest: ''
 insight: null
 layout: post.njk
+products_models: []
+project:
+- ai-impact-analysis
 series: null
 source: https://www.youtube.com/watch?v=Jb1U0BH31x0
+speaker: ''
 status: evergreen
+summary: 探讨AI浏览器的定义、其在AI时代的战略重要性、Perplexity对Chrome的收购要约、谷歌面临的创新者困境，以及这对搜索和广告模式的未来颠覆。
+tags:
+- llm
+- technology
+- war
+title: 深入探讨由Perplexity收购Chrome要约引发的AI浏览器大战
 updated: 2025-08-29T16:34
-companies:
-- google-chrome
 ---
 
 ## 什么是AI浏览器？

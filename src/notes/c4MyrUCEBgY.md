@@ -25,7 +25,6 @@ people:
 - Elon Musk
 - Ilya Sutskever
 - Andrej Karpathy
-- 王坚
 - Sam Altman
 - Jensen Huang
 - Steve Jobs

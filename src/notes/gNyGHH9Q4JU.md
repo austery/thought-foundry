@@ -17,14 +17,7 @@ media_books:
 people:
 - Bai Juyi
 - Confucius
-- Qin Shi Huang
-- Duke Mu of Qin
-- Baili Xi
-- Su Shi
-- Dong Zhongshu
-- Zhu Xi
 - Newton
-- Fan Zhongyan
 - Wang Yangming
 products_models: []
 project:

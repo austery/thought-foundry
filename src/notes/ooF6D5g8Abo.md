@@ -28,7 +28,6 @@ media_books:
 - Casablanca
 - judicial-review
 people:
-- Steve Pacen
 - John Michael McGrath
 - Mark Carney
 - Doug Ford
@@ -36,18 +35,9 @@ people:
 - Justin Trudeau
 - François-Philippe Champagne
 - François Legault
-- Lionel Carmant
 - Kathleen Wynne
 - Pierre Poilievre
 - Mike Harris
-- Ned Basin
-- Ernie Harwell
-- Addison Barger
-- Treya Savage
-- Max Scherzer
-- Jeff Hoffman
-- Mike Moffatt
-- Chris Dontrammo
 products_models:
 - Darlington Small Modular Nuclear Reactor
 - HST

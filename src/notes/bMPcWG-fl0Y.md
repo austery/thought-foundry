@@ -47,7 +47,6 @@ people:
 - 毛宁
 - 潘功胜
 - Xi Jinping
-- 安倍
 - 巴菲特
 - Elon Musk
 products_models:

@@ -85,21 +85,16 @@ layout: post.njk
 media_books:
 - The Philosopher in the Valley
 people:
-- Steve Fiorillo
 - Michael Steinberger
 - Alex Karp
 - Donald Trump
 - Xi Jinping
-- Bent
-- Greer
 - Mike Alfred
 - Tom Lee
 - Mark Newton
 - Warren Buffett
 - Jensen Huang
 - Lisa Su
-- Brad Jacob
-- Timothy Mellon
 - Andrew Mellon
 products_models:
 - S&P 500

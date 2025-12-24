@@ -36,21 +36,13 @@ media_books:
 - 《封神演义》
 people:
 - 刘慈欣
-- Edwin Abbott
 - Christopher Nolan
-- James Cameron
 - 吴京
 - 陆川
 - 高晓松
-- Isaac Asimov
-- Robert Heinlein
-- Quentin Tarantino
-- Keanu Reeves
-- Donnie Yen
 - René Descartes
 - Baruch Spinoza
 - Gottfried Wilhelm Leibniz
-- 朱熹
 products_models:
 - 奥特曼
 - 高达

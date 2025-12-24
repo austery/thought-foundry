@@ -14,8 +14,6 @@ media_books:
   Wars
 people:
 - Anthony
-- Campbell
-- Manning
 products_models:
 - PDF
 - PPT

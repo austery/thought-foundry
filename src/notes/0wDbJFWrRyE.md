@@ -42,7 +42,6 @@ people:
 - Donald Trump
 - Chuck Schumer
 - Xi Jinping
-- Nora O'Donnell
 - Nicolás Maduro
 products_models: []
 project:

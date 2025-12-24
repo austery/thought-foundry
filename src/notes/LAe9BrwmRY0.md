@@ -14,15 +14,9 @@ media_books:
 - The Wall Street Journal
 people:
 - Sanae Takaichi
-- Xie Jian
 - Donald Trump
 - Xi Jinping
 - Li Qiang
-- Song Yudong
-- Wang Ju
-- Ding Yi
-- Jin Niao
-- Li Ao
 products_models: []
 project:
 - china-analysis

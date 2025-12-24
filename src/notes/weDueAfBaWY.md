@@ -21,20 +21,11 @@ media_books:
 - 《纽约客》
 - 《华盛顿邮报》
 people:
-- Tatiana Schlosberg
-- Caroline Kennedy
 - John F. Kennedy
-- Jacqueline Kennedy
-- Robert Kennedy Jr.
 - Donald Trump
 - Joe Biden
-- Ethel Kennedy
-- Douglas Kennedy
-- Edward Kennedy
-- Maria Shriver
 - Arnold Schwarzenegger
 - Taylor Swift
-- Jack Schlossberg
 products_models:
 - MRNA疫苗
 - 米索前列醇

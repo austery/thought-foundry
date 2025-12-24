@@ -25,24 +25,13 @@ media_books:
 - 《加密貨幣的政治與經濟》
 - 《加密無政府主義宣言》
 people:
-- Timothy May
 - Richard Stallman
-- Julian Assange
 - Elon Musk
 - Satoshi Nakamoto
 - Friedrich Hayek
-- Ross Ulbricht
-- Yanis Varoufakis
-- Ruja Ignatova
-- David Marcus
 - Mark Zuckerberg
-- Bruno Le Maire
-- 王信
 - Donald Trump
 - Vitalik Buterin
-- 唐鳳
-- Amir Taaki
-- Glen Weyl
 products_models:
 - Bitcoin
 - 數字人民幣

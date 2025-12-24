@@ -18,15 +18,8 @@ people:
 - Nick Fuentes
 - Charlie Kirk
 - JD Vance
-- Kevin Roberts
-- Stefan Moore
-- Megyn Kelly
-- Lindsay Graham
-- Randy Fine
 - Ted Cruz
-- Candace Owen
 - Matt Walsh
-- Robert Rector
 - Donald Trump
 - Zohran Mamdani
 products_models: []

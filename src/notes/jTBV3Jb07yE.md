@@ -1,6 +1,8 @@
 ---
 area: tech-insights
 category: technology
+companies:
+- openai-restructuring
 companies_orgs:
 - OpenAI
 - Microsoft
@@ -17,7 +19,6 @@ insight: ''
 layout: post.njk
 people:
 - Sam Altman
-- Jakub Pachocki
 products_models:
 - ChatGPT
 - GPT-6
@@ -35,8 +36,6 @@ tags:
 - infrastructure
 - llm
 title: OpenAI重构组织架构并公布AI十年路线图：超级智能梦想是蓝图还是空想？
-companies:
-- openai-restructuring
 ---
 
 ### OpenAI的战略重组与超级智能愿景

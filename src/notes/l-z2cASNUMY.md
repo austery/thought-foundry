@@ -22,11 +22,6 @@ media_books:
 people:
 - Sergey Brin
 - Larry Page
-- Jennifer Widom
-- Fred Terman
-- William Hewlett
-- David Packard
-- Jonathan Levin
 - Jeff Dean
 - Lee Sedol
 products_models:

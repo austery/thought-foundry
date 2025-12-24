@@ -11,9 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 李思贤
-- 马可老师
 products_models: []
 project:
 - personal-growth-lab

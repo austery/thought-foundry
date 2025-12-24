@@ -21,14 +21,11 @@ media_books:
 people:
 - Donald Trump
 - Mohammed bin Salman
-- Jamal Khashoggi
-- Vivian Nurim
 - Eric Trump
 - Donald Trump Jr.
 - Jared Kushner
 - Martin Luther King Jr.
 - John F. Kennedy
-- Amelia Earhart
 - Tracy Mumford
 products_models:
 - F-35 fighter jets

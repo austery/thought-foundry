@@ -12,7 +12,6 @@ layout: post.njk
 media_books:
 - 不明白播客
 people:
-- 袁莉
 - 李厚辰
 products_models: []
 project:

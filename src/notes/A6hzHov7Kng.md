@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Jennifer Parlamis
 - Sigmund Freud
 products_models:
 - hydraulic model

@@ -9,15 +9,7 @@ guest: null
 insight: null
 layout: post.njk
 people:
-- Curt Jaimungal
 - Noam Chomsky
-- Joscha Bach
-- Avi Loeb
-- Karl Friston
-- Philip Goff
-- Tim Maudlin
-- Donald Hoffman
-- Norman Wildberger
 products_models: []
 project:
 - ai-impact-analysis

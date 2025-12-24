@@ -10,7 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-- Dr. Chung
 products_models:
 - LEONARDO
 - WordPress

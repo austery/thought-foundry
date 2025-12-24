@@ -17,11 +17,8 @@ people:
 - Donald Trump
 - Tracy Mumford
 - J. D. Vance
-- Matt Vaneps
 - Michael Dell
-- Susan Dell
 - Dave Kim
-- Giovana Maloso
 products_models:
 - Dell computers
 - Trump accounts

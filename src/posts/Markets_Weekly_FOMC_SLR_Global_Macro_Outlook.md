@@ -8,10 +8,6 @@ date: '2025-07-10'
 guest: ''
 insight: null
 layout: post.njk
-people:
-- Felix
-- Quinn Thompson
-- Joseph Wang
 products_models: []
 project: []
 series: null

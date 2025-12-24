@@ -26,9 +26,7 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-- 卢特尼克
 - Steven Mnuchin
-- 李成刚
 - Kash Patel
 - J.D. Vance
 - Marco Rubio

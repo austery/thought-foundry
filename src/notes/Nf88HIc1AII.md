@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - 鄧雯心醫師
-- Dr. Stacy Sims
-- Dr. Lucia Aronica
 products_models: []
 project:
 - personal-growth-lab

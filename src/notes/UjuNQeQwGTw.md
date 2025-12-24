@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 鄧雯心醫師
-- 羅佳琳醫師
 products_models:
 - 瘦瘦針
 project:

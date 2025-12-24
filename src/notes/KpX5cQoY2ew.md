@@ -27,20 +27,9 @@ people:
 - 岸田文雄
 - 林信义
 - 王毅
-- 小泉进次郎
-- 吴江浩
-- 刘晓明
-- 卢沙野
-- 贵从友
-- 郑晓云
-- 钱其琛
 - 温家宝
-- 顾维钧
-- 栗战书
 - 董军
-- Lloyd Austin
 - Rahm Emanuel
-- 秦刚
 products_models:
 - F-16V
 project:

@@ -19,11 +19,7 @@ media_books:
 - 《为幸福而生》
 - 《追求幸福》
 people:
-- Seth Godin
-- Morris
-- Ralph W.
 - 达赖喇嘛
-- 安德烈·基德
 - Donald Trump
 - Joe Biden
 - 汉娜·阿伦特

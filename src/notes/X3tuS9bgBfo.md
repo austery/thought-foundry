@@ -12,9 +12,6 @@ layout: post.njk
 people:
 - Stalin
 - Hitler
-- Tojo Hideki
-- Emperor Hirohito
-- Sun Tzu
 products_models: []
 project: []
 series: ''

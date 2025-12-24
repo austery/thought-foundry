@@ -42,9 +42,7 @@ people:
 - J.D. Vance
 - Donald Trump
 - Jack Mallers
-- Brandon Lutnik
 - Howard Lutnik
-- Vivec Ramaswarmi
 products_models:
 - Bitcoin
 - meme coins

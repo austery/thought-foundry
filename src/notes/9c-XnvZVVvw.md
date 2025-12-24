@@ -12,11 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Last Economy
-people:
-- Shantha Bloemen
-- Emma Pang
-- Richard Jaia
-- Sister J Demo
 products_models:
 - Hamba
 - Lithium battery system

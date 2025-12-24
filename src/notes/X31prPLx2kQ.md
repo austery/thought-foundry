@@ -15,11 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《大伟探秘加拿大》
-people:
-- 李罗昌钰
-- 李安邦
-- 李佩婷
-- 韦斯顿
 products_models: []
 project:
 - entrepreneurship

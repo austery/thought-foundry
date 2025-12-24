@@ -14,8 +14,6 @@ media_books:
 - The Hub
 people:
 - Mark Carney
-- Richard Shimooka
-- Stephanie Carvin
 products_models:
 - CAF Cybercom
 - Golden Dome

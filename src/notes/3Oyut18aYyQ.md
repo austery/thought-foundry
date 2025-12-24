@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《商君书》
-people:
-- 魏晓安
 products_models: []
 project:
 - china-analysis

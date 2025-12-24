@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: general
+companies:
+- psychosomatic-disorder
 companies_orgs:
 - 北京清华长庚医院
 - 厦门长庚医院
@@ -12,10 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《疼痛治疗学》
-people:
-- 路桂军
-- 江姐
-- 张雁灵
 products_models: []
 project:
 - historical-insights
@@ -32,8 +30,6 @@ tags:
 - medical
 - social
 title: 疼痛不只是症状：社会功能粉碎与身心医学的觉醒
-companies:
-- psychosomatic-disorder
 ---
 
 ### 疼痛的真相：不只是身体信号，更是社会功能的崩塌

@@ -12,8 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Stephanie W. Vardheim
 products_models:
 - Investment Simulator
 project:

@@ -9,12 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《林广记》
-people:
-- 陈重穆
-- 张岱
-- 董其昌
-- 林文水
-- commodification-of-tradition
 products_models: []
 project:
 - cultural-critique

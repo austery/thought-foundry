@@ -7,9 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- jeffrey-epstein
-- peter-mandelson
 products_models: []
 project: []
 series: ''

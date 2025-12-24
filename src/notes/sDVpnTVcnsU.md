@@ -19,8 +19,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ryno
 products_models: []
 project:
 - investment-strategy

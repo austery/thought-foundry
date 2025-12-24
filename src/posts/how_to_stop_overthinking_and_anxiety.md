@@ -1,34 +1,30 @@
 ---
-title: 告别思虑过度的内耗：从佛法与心理学中寻找答案
-summary: 探讨如何停止由思虑过度引发的焦虑与内耗，并从个人经历、心理学和佛法智慧中寻找解决方案。
 area: null
+author: Lei
 category: null
+companies_orgs: []
+date: 2025-08-21
+draft: true
+guest: ''
+insight: null
+layout: post.njk
+people:
+- Jay
+- Vivi
+products_models: []
 project: []
+series: null
+source: null
+speaker: ''
+status: evengreen
+summary: 探讨如何停止由思虑过度引发的焦虑与内耗，并从个人经历、心理学和佛法智慧中寻找解决方案。
 tags:
 - anxiety
 - psychology
 - 佛法
 - 思虑过多
 - 放下
-people:
-- Zera
-- 王哥
-- Jay
-- Jeffrey
-- Vivi
-- Candy
-companies_orgs: []
-products_models: []
-date: 2025-08-21
-author: Lei
-speaker: ''
-draft: true
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: null
-status: evengreen
+title: 告别思虑过度的内耗：从佛法与心理学中寻找答案
 ---
 
 ## 开场与焦虑的普遍性

@@ -42,13 +42,8 @@ people:
 - Sergei Lavrov
 - 高市早苗
 - Rahm Emanuel
-- 吴江浩
 - 薛健
-- 金无忌
 - Elon Musk
-- 艾琳卡琳·布雷特卡特
-- 马列科瓦
-- 沙扎尔·伯卡耶夫
 products_models:
 - F-35
 - 凤桥模式

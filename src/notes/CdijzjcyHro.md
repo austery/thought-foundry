@@ -18,11 +18,6 @@ people:
 - Bill Clinton
 - Hillary Clinton
 - Barack Obama
-- Martin Luther
-- Pope Francis
-- Giordano Bruno
-- Nicolaus Copernicus
-- 周孝正
 products_models:
 - OxyContin
 - Heroin

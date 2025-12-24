@@ -25,11 +25,9 @@ people:
 - Volodymyr Zelenskyy
 - Marco Rubio
 - John Mearsheimer
-- William J. Burns
 - Angela Merkel
 - Lindsey Graham
 - Jeffrey Sachs
-- Sun Weidong
 products_models:
 - F-35
 project:

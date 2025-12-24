@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: culture
+companies:
+- psychological-splitting
 companies_orgs:
 - 调查兵团
 - 城墙教
@@ -15,29 +17,9 @@ media_books:
 - 《鱿鱼游戏》
 - 《理想国》
 people:
-- 艾伦
-- 三笠
-- 阿尔敏
-- 韩吉
-- 埃尔文
-- 阿尼
-- 莱纳
-- 贝特霍尔德
-- 萨沙
-- 卡娅
-- 贾碧
-- 赫里斯塔
-- 尤弥尔
-- 阿喀琉斯
 - 柏拉图
 - 拉康
-- 弗洛姆
-- 克鲁泡特金
-- 保罗·维尔海格
-- 罗伊·巴斯卡尔
-- 克莱因
 - 海德格尔
-- 谏山创
 products_models: []
 project:
 - cultural-critique
@@ -53,8 +35,6 @@ tags:
 - philosophy
 - social
 title: 《进击的巨人》哲学解析三部曲（一）：人如何遗忘了自由？怒气、分裂心理与自由的辩证法
-companies:
-- psychological-splitting
 ---
 
 ### 《进击的巨人》：被遗忘的自由

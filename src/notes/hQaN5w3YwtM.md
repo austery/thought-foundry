@@ -18,10 +18,7 @@ media_books:
 - The Diary Of A CEO
 - The Diary of a CEO, 33 Laws of Business and Life
 people:
-- Jill Bolte Taylor
 - Steven Bartlett
-- Marty Teicher
-- Frederick Schiffer
 products_models: []
 project:
 - personal-growth-lab

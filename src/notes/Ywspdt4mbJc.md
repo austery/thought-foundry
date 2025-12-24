@@ -13,8 +13,6 @@ media_books:
 - 《折叠宇宙：吞噬文明》
 - 《人之彼岸》
 - 《终结者》
-people:
-- 郝景芳
 products_models: []
 project:
 - ai-impact-analysis

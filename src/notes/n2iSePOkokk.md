@@ -19,10 +19,7 @@ media_books:
 - 《理性乐观派》
 people:
 - 唐石峻
-- Alex Ch
 - 沃伦·巴菲特
-- 约翰·博格
-- 约翰·洛克菲勒
 - 埃隆·马斯克
 products_models: []
 project:

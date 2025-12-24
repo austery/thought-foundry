@@ -25,27 +25,17 @@ people:
 - Bill Clinton
 - Donald Trump
 - Ghislaine Maxwell
-- Kevin Spacey
 - Larry Summers
 - Pam Bondi
-- Todd Branch
 - Virginia Giuffre
 - Prince Andrew
 - Michael Jackson
-- Mick Jagger
 - Noam Chomsky
 - Woody Allen
 - Steven Pinker
-- Ann Coulter
-- Vladimir Nabokov
 - Charlie Kirk
 - Marjorie Taylor Greene
-- Raja Krishnamoorthi
 - Thomas Massie
-- Sofia Hellqvist
-- Julie K. Brown
-- Carolyn Witte
-- Susi Wiles
 - Leon Black
 products_models: []
 project:

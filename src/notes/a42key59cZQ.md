@@ -27,24 +27,13 @@ media_books:
 - 《亚文化社会的忧郁》
 - 《强化学习的进化后盾》
 people:
-- Gwern Branwen
 - Sam Altman
 - Ray Kurzweil
 - Shane Legg
 - Ilya Sutskever
-- Schmidhuber
-- Kevin Roose
-- Jorge Luis Borges
-- David Foster Wallace
-- Gene Wolfe
 - Ted Chiang
-- Peter Watts
 - Tyler Cowen
-- Jack Clark
-- Samuel Butler
 - Isaac Newton
-- Lucretius
-- Adrian Chen
 - Scott Alexander
 - Dario Amodei
 products_models:

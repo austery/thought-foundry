@@ -10,11 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《我用中文做了场梦》
-people:
-- 阿雷
-- 利诺
-- 刘帅
-- 黑巴
 products_models: []
 project:
 - cultural-critique

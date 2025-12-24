@@ -18,7 +18,6 @@ media_books:
 - Antifragile
 people:
 - Nicola Tangan
-- Jane Sun
 - Henry Kissinger
 - Magnus Carlsen
 products_models:

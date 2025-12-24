@@ -29,16 +29,10 @@ media_books:
 people:
 - John Locke
 - Thomas Hobbes
-- Oliver Cromwell
-- J.G.A. Pocock
-- James Harrington
 - Elon Musk
 - Donald Trump
 - 赖清德
-- 姚利明
-- 张文珍
 - 蔡奇
-- Robert Filmer
 - Jean-Jacques Rousseau
 - Adam Smith
 - Max Weber

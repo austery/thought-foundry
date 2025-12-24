@@ -1,28 +1,27 @@
 ---
-title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part
-  2) - Dialogue'
-summary: null
 area: market-analysis
-category: finance
-project:
-- us-analysis
-tags:
-- financial
-- us-politics
-people:
-- Ezra Klein
-- Catherine Rampell
-companies_orgs: []
-products_models: []
-date: '2025-05-25'
 author: Lei
-speaker: ''
+category: finance
 channel: null
+companies_orgs: []
+date: '2025-05-25'
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Ezra Klein
+products_models: []
+project:
+- us-analysis
 series: null
 source: null
+speaker: ''
+summary: null
+tags:
+- financial
+- us-politics
+title: 'The Ezra Klein Show: What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part
+  2) - Dialogue'
 ---
 
 # Why Ezra Klein is So F\*\*\*ing Angry (with Democrats)

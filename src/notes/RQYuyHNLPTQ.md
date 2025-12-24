@@ -10,17 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Charles Frederick Wiesenthal
-- Thomas Saint
-- Joseph Madersperger
-- Barthélemy Thimonnier
-- James Gibbs
-- Charles Raymond
-- Elias Howe
-- Allen B. Wilson
-- Isaac Singer
 - Derek Muller
-- Noah
 products_models:
 - Singer Model 27
 project:

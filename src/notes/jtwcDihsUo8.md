@@ -11,7 +11,6 @@ layout: post.njk
 media_books: []
 people:
 - 特朗普
-- Jeff Landry
 products_models:
 - GPT-4
 project:

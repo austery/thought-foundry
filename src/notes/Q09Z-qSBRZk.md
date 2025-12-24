@@ -19,11 +19,7 @@ media_books:
 people:
 - Eric Trump
 - Donald Trump Jr.
-- Zach Witkowski
 - Peter
-- Jonathan Hugh
-- Ron Pitters
-- Matt Chipman
 products_models:
 - WLFI
 project:

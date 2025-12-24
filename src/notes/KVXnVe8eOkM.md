@@ -14,11 +14,7 @@ media_books:
 - Keto Continuum
 - Any Way You Can
 people:
-- Annette Bosworth
-- Peter Attia
 - Joe Rogan
-- Grandma Rose
-- Jack
 products_models:
 - Keton IQ
 - Whisper Flow

@@ -12,7 +12,6 @@ layout: post.njk
 media_books:
 - The Technoist Manifesto
 people:
-- Jason Crawford
 - Francis Bacon
 - Rousseau
 - Isaac Newton

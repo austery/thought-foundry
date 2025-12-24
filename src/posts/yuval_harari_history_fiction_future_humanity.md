@@ -1,33 +1,32 @@
 ---
-title: A Conversation with Yuval Noah Harari on History, Fiction, and the Future of
-  Humanity
+area: personal-growth
+author: Lei
+category: culture
+companies_orgs: []
+date: 2025-10-12
+draft: true
+guest: ''
+insight: null
+layout: post.njk
+people:
+- Yuval Noah Harari
+products_models: []
+project:
+- historical-insights
+series: null
+source: null
+speaker: ''
+status: evergreen
 summary: A deep dive with "Sapiens" author Yuval Noah Harari, exploring the power
   of stories, the agricultural revolution as a fraud, the meaning of life, and the
   potential dangers and promises of future technology.
-area: personal-growth
-category: culture
-project:
-- historical-insights
 tags:
 - consciousness
 - future
 - human
 - storytelling
-people:
-- Steve Levitt
-- Yuval Noah Harari
-companies_orgs: []
-products_models: []
-date: 2025-10-12
-author: Lei
-speaker: ''
-draft: true
-guest: ''
-insight: null
-layout: post.njk
-series: null
-source: null
-status: evergreen
+title: A Conversation with Yuval Noah Harari on History, Fiction, and the Future of
+  Humanity
 ---
 
 ### 节目前言

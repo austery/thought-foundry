@@ -9,14 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《不能承受的生命之轻》
-people:
-- 陈东楠
-- 佳泉
-- 木山
-- 黑阿力
-- 龙指挥
-- 建生
-- 李晋
 products_models: []
 project:
 - historical-insights

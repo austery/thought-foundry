@@ -18,15 +18,8 @@ layout: post.njk
 media_books:
 - Eugene Onegin
 people:
-- Pavel Nekrasov
-- Andrey Markov
-- Jacob Bernoulli
-- Alexander Pushkin
 - J. Robert Oppenheimer
 - John von Neumann
-- Stanislaw Ulam
-- Jerry Yang
-- David Filo
 - Masayoshi Son
 - Sergey Brin
 - Larry Page

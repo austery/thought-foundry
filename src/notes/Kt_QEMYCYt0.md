@@ -11,9 +11,7 @@ media_books:
 - Podcast
 people:
 - KevinFeng
-- Even
 - Alex
-- Dr. K
 products_models: []
 project:
 - personal-growth-lab

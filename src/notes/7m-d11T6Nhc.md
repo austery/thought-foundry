@@ -24,19 +24,6 @@ media_books:
 people:
 - Javier Milei
 - Donald Trump
-- Juan Perón
-- Carlos Menem
-- Néstor Kirchner
-- Cristina Fernández de Kirchner
-- Mauricio Macri
-- Alberto Fernández
-- Gregory Moff
-- Axel Kicillof
-- Jonathan Blackman
-- Rosemary Pooler
-- Luis Caputo
-- Santiago Bausili
-- Federico Sturzenegger
 products_models: []
 project:
 - us-analysis

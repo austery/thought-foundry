@@ -9,12 +9,8 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- John von Neuman
-- Navy Secretary Matthews
 - Robert Axelrod
-- Steven Strogatz
 - Stanislav Petrov
-- Anatol Rapoport
 products_models:
 - Tit for Tat
 - Tit for Two Tats

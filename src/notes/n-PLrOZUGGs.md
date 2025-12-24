@@ -27,10 +27,8 @@ layout: post.njk
 media_books:
 - Skúr
 people:
-- Margrethe Vestager
 - Sam Altman
 - Dario Amodei
-- Enrico Letta
 products_models:
 - Instagram
 - TikTok

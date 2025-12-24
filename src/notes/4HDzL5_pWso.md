@@ -19,13 +19,10 @@ media_books:
 - 《咒》
 people:
 - Descartes
-- Augustine
 - Wolfgang Pauli
 - Carl Jung
 - Aristotle
-- Husserl
 - Noam Chomsky
-- Urbain Grandier
 products_models: []
 project:
 - historical-insights

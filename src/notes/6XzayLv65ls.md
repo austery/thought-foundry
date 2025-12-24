@@ -19,11 +19,6 @@ media_books:
 - Rudolph Diesel
 people:
 - Nicola Tangan
-- Patrick Doyle
-- Josh Kobza
-- Tom Curtis
-- Dave Brandon
-- Russell Weiner
 products_models:
 - Whopper
 - Big Mac

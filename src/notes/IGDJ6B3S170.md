@@ -17,7 +17,6 @@ media_books:
 people:
 - Donald Trump
 - Jerome Powell
-- Anna Wong
 products_models:
 - TikTok
 - SLR

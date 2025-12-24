@@ -12,14 +12,9 @@ media_books:
 - 《时间的朋友》
 - 《单向度的人》
 people:
-- 大卫·格雷博
-- 刘擎
-- 马尔库塞
 - 马克斯·韦伯
 - 罗振宇
 - Donald Trump
-- 乔丹·彼得森
-- 梁宁
 products_models: []
 project:
 - us-analysis

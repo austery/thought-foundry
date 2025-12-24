@@ -20,7 +20,6 @@ layout: post.njk
 media_books: []
 people:
 - Donald Trump
-- 陈立武
 products_models:
 - Intel 18A
 project:

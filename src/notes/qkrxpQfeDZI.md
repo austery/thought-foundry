@@ -21,13 +21,10 @@ media_books:
 - 《国家为什么失败》
 - 《自由的窄廊》
 people:
-- 熊彼特
 - 杨小凯
 - Elon Musk
 - 秦晖
-- 唐季
 - 成龙
-- 江雪
 products_models:
 - ChatGPT
 - GPU

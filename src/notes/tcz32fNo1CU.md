@@ -11,7 +11,6 @@ media_books:
 - 《战争的底层逻辑》
 - Why Don’t We Learn from History?
 people:
-- B. H. Liddell Hart
 - Napoleon
 - Hitler
 products_models: []

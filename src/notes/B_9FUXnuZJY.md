@@ -14,13 +14,7 @@ media_books:
 - 《少年派的奇幻漂流》
 - 《傻瓜吉姆佩尔》
 people:
-- 梁永安
 - 余华
-- 托宾
-- 毛姆
-- 海明威
-- 斯泰因
-- 辛格
 - 李安
 products_models: []
 project:

@@ -11,10 +11,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- John J. Pershing
-- Pancho Villa
 - Woodrow Wilson
-- Harding
 products_models: []
 project: []
 series: ''

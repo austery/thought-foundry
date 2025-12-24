@@ -14,9 +14,6 @@ layout: post.njk
 media_books:
 - 《华盛顿邮报》
 - 《Wall Trash》
-people:
-- 赵小兰
-- 哈金
 products_models: '[]'
 project:
 - china-analysis

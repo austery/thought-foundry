@@ -15,15 +15,9 @@ media_books:
 - Science
 people:
 - 寿斯坦丁 Sociostanding
-- Richard Thaler
 - Daniel Kahneman
 - Amos Tversky
-- Joel
 - Herbert Simon
-- Jasckman
-- Do
-- Chir Man
-- Snowberg
 products_models:
 - iPhone
 project:

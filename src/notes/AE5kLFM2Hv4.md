@@ -17,15 +17,9 @@ media_books:
 - 《吳石案》
 - 《外交事務》
 people:
-- 費正清
-- 豐臣秀吉
 - 朱棣
-- 黎利
-- 尚寧王
 - 高市早苗
 - 孟子
-- 黃宗智
-- 濱下武志
 products_models: []
 project:
 - china-analysis

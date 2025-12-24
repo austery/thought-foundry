@@ -10,7 +10,6 @@ layout: post.njk
 media_books:
 - 《三体》
 people:
-- Stanislaw Ulam
 - John von Neumann
 - Jensen Huang
 products_models:

@@ -1,43 +1,35 @@
 ---
-title: AI创客们的热情分享：从电子衣橱到自动化工具的Vibe Coding实践
-summary: 一场关于AI应用开发的社群分享会。成员们展示了各自的Vibe Coding项目，包括AI内容生成、个人财务追踪App、电子衣橱、批量抠图工具等。讨论涵盖了GPT-5、Perplexity
-  Comet等新工具的使用体验，并宣布了新社群PathEnfold.ai的启动。
 area: tech-insights
-category: technology
-project:
-- ai-impact-analysis
-- vibe-coding
-tags:
-- llm
-- vibe-coding
-- 个人项目
-- 社群建设
-people:
-- Ray
-- 嘉宾
-- 子龙
-- 小西瓜
-- Aska
-- Remy
-- Mike
-- Sirena
-- Cathy
-- Wendy
-- Sophia
-- 赵硕
-companies_orgs: []
-products_models: []
-date: 2025-08-11
 author: Lei
-speaker: 用AI發電
+category: technology
 channel: null
+companies_orgs: []
+date: 2025-08-11
 draft: true
 file_name: ai_makers_sharing_vibe_coding_practice.md
 guest: ''
 insight: null
 layout: post.njk
+people:
+- Ray
+- 小西瓜
+- Remy
+- Mike
+products_models: []
+project:
+- ai-impact-analysis
+- vibe-coding
 series: null
 source: null
+speaker: 用AI發電
+summary: 一场关于AI应用开发的社群分享会。成员们展示了各自的Vibe Coding项目，包括AI内容生成、个人财务追踪App、电子衣橱、批量抠图工具等。讨论涵盖了GPT-5、Perplexity
+  Comet等新工具的使用体验，并宣布了新社群PathEnfold.ai的启动。
+tags:
+- llm
+- vibe-coding
+- 个人项目
+- 社群建设
+title: AI创客们的热情分享：从电子衣橱到自动化工具的Vibe Coding实践
 ---
 
 ## 开场与新工具讨论

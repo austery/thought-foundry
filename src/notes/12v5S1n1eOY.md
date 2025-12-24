@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ben Kuss
 products_models:
 - Gemini
 - Llama

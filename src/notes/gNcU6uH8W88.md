@@ -17,13 +17,7 @@ media_books:
 - “東格陵蘭案”
 people:
 - Donald Trump
-- William Seward
 - Harry S. Truman
-- Hans Egede
-- Erik the Red
-- Mette Frederiksen
-- Antonio Costa
-- Frederick X
 products_models: []
 project:
 - us-analysis

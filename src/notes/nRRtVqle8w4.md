@@ -11,8 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 魏士航醫師
-- 王盈荃營養師
 - 宋晏仁醫師
 products_models: []
 project:

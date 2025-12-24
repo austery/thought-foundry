@@ -20,11 +20,6 @@ media_books:
 - Spotlight
 - Coaching Boys into Men
 people:
-- Rick Westhead
-- Kyle Beach
-- Steven Brunt
-- Marcus Patterson
-- Tom Patterson
 - Jeffrey Epstein
 - Harvey Weinstein
 products_models: []

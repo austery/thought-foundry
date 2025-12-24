@@ -12,10 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 晋美
-- 牛晋美
-- 常羽辰
 products_models: []
 project:
 - ai-impact-analysis

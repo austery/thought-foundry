@@ -11,9 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Karen Renkema
-- Brian Baron
 products_models: []
 project: []
 series: ''

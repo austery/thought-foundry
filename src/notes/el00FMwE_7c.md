@@ -14,7 +14,6 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- Joe Clark
 - Pierre Trudeau
 - Chuck Schumer
 products_models:

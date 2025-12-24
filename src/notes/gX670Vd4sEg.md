@@ -13,8 +13,6 @@ media_books:
 - How to Solve it
 - Working Backwards
 people:
-- George Pólya
-- Pappus
 - Jeff Bezos
 products_models: []
 project:

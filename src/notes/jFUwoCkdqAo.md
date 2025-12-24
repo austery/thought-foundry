@@ -18,12 +18,6 @@ media_books:
 - 鬼灭之刃
 - DARE
 - TIES
-people:
-- 黄世丞
-- 李品泽
-- 林子涵
-- Chen-An Li
-- Hsuan Su
 products_models:
 - LLaMA
 - Mistral

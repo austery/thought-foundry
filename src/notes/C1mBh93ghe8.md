@@ -14,8 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《看成败人生豪迈》
-people:
-- 刘欢
 products_models:
 - YY
 - 斗鱼

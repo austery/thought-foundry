@@ -15,8 +15,6 @@ layout: post.njk
 media_books:
 - 知行小酒馆
 people:
-- 温一非
-- Melody
 - 雨白
 products_models:
 - 王者荣耀

@@ -17,11 +17,6 @@ media_books:
 - The Daily Beast
 - Glassdoor
 - Reddit
-people:
-- George Arison
-- Raymond Zage
-- James Lu
-- Cory Doctorow
 products_models:
 - Instagram
 - Tesla

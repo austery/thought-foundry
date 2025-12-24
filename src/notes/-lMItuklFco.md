@@ -15,9 +15,6 @@ insight: ''
 layout: post.njk
 media_books:
 - How I AI
-people:
-- Mihal Pled
-- Clarva
 products_models:
 - ChatGPT
 - Gemini 2.5 Pro

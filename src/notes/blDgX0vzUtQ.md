@@ -31,9 +31,6 @@ layout: post.njk
 people:
 - 李嘉诚
 - 李兆基
-- 郭德胜
-- 郑玉彤
-- 霍英东
 products_models: []
 project:
 - geopolitics-watch

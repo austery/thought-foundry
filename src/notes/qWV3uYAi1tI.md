@@ -12,7 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-- 張聰麒
 products_models:
 - iPad
 - 阿托品

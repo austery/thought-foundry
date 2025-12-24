@@ -16,10 +16,6 @@ media_books:
 - Only the Brave
 people:
 - Rachel Abrams
-- Hannah Dryer
-- Joel Eisinger
-- Matt Eisinger
-- Steve Dods
 products_models: []
 project:
 - us-analysis

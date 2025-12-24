@@ -15,8 +15,6 @@ media_books:
 people:
 - Charlie Munger
 - Warren Buffett
-- Sir Isaac Newton
-- Hans Christian Andersen
 products_models:
 - Bitcoin
 - Ethereum

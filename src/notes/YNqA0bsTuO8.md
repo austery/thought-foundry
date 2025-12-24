@@ -16,12 +16,7 @@ media_books:
 - 《改变谈判赛局》
 - 书房宪场Podcast
 people:
-- 谢文宪
-- 范永银
-- 麦斯‧贝泽曼
-- 何薇玲
 - Donald Trump
-- 小冬瓜
 products_models:
 - CRM
 - ERP

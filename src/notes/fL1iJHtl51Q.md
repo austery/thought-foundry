@@ -9,10 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Lee Robinson
-- Sasha
-- Dex
 products_models:
 - Cursor Composer
 - Tab

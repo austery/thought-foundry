@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Ilyena Hirskyj-Douglas
 products_models:
 - Arduino
 - Raspberry Pi

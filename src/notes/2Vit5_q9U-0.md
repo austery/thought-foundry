@@ -22,7 +22,6 @@ media_books:
 people:
 - Sam Altman
 - Satya Nadella
-- Brad
 - Elon Musk
 - Donald Trump
 products_models:

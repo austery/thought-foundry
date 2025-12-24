@@ -26,16 +26,8 @@ media_books:
 - Strategery
 - ai-in-music
 people:
-- Robert Kyncl
-- Nicolola Tangan
 - Eric Schmidt
-- Daniel Ek
-- David Guetta
-- Ava Max
 - Michael Jackson
-- Queen
-- Tracy Chapman
-- Abe Burns
 products_models:
 - Content ID
 - White Lotus

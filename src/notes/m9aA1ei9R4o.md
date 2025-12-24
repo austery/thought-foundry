@@ -13,11 +13,9 @@ media_books:
 - Bloomberg.com/odlots
 - Discord
 people:
-- Charlie McElligott
 - Tracy Alloway
 - Joe Weisenthal
 - Jerome Powell
-- Waller
 - Donald Trump
 products_models:
 - Odd Lots Podcast

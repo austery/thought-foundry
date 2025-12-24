@@ -21,12 +21,8 @@ media_books:
 - 《权力掮客》
 people:
 - Martin Fowler
-- James Lewis
-- Grady Booch
-- James Odell
 - Kent Beck
 - Daniel Kahneman
-- Robert Caro
 products_models:
 - Dynamo
 - Cloud SQL

@@ -14,9 +14,6 @@ layout: post.njk
 media_books:
 - 3Blue1Brown
 people:
-- Richard Garwin
-- John Tukey
-- James Cooley
 - Carl Friedrich Gauss
 - Joseph Fourier
 - John F. Kennedy

@@ -12,7 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-- Josef Wang
 products_models: []
 project:
 - investment-strategy

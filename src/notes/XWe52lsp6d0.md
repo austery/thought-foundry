@@ -26,8 +26,6 @@ media_books:
 - two and a half gamers
 - chew on this podcast
 - Seeking Alpha
-people:
-- Spencer
 products_models:
 - Axon
 - Axon 2.0

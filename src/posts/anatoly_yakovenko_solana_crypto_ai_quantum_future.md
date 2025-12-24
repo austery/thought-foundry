@@ -10,7 +10,6 @@ insight: null
 layout: post.njk
 people:
 - Interviewer
-- Anatoly Yakovenko
 products_models: []
 project:
 - ai-impact-analysis

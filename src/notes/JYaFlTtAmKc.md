@@ -16,13 +16,7 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Jimmy Orr
-- Daniel Delfino
-- Stacy Barnes
-- Brian Butcher
-- Senator Stevens
 - Mary Daly
-- Mayor Adams
 products_models:
 - AKwarm
 project:

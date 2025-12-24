@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《巡路集》
-people:
-- 周其仁
 products_models: []
 project:
 - investment-strategy

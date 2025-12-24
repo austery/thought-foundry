@@ -13,11 +13,8 @@ media_books:
 - 《大河湾》
 - 《金融时报》
 people:
-- 苏敏
 - V.S.奈保尔
 - 莎士比亚
-- 哈姆雷特
-- 奥菲利亚
 - 汉娜·阿伦特
 products_models: '[]'
 project:

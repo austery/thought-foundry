@@ -23,8 +23,6 @@ people:
 - Xi Jinping
 - Jerome Powell
 - Christine Lagarde
-- 李在民
-- 赵显
 - Vladimir Putin
 products_models:
 - 核动力巡航导弹

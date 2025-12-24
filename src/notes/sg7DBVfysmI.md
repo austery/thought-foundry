@@ -34,7 +34,6 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-- Gaoichi Sanae
 - Warren Buffett
 - Jensen Huang
 - Tim Cook

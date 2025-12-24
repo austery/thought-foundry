@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- wang-yangming
 products_models: []
 project:
 - personal-growth-lab

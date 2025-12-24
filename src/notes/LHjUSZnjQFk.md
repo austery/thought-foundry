@@ -16,10 +16,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Debra Crew
 - Nicola Tangan
-- Susan Cameron
-- Javier Ferrán
 - George Clooney
 products_models:
 - Smirnoff

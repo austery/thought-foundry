@@ -22,25 +22,17 @@ people:
 - Jeffrey Epstein
 - Michael Wolf
 - Larry Summers
-- 金克宇
-- 金立群
 - Donald Trump
-- Bannon
 - Mark
 - Thomas Massey
 - Mike Johnson
 - Marjorie Taylor Greene
 - Dan Bongino
 - Barack Obama
-- Cuomo
-- Mbani
 - 宗庆后
-- 宗馥莉
-- 王菊
 - 刘总
 - 老马
 - 索隆
-- 邦迪
 products_models:
 - Jmail
 project:

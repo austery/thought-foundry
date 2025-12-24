@@ -13,10 +13,7 @@ layout: post.njk
 media_books:
 - Snow Crystals
 people:
-- Ken Libbrecht
 - Derek Muller
-- Wilson A. Bentley
-- Ukichiro Nakaya
 products_models:
 - Frozen
 - Snow Crystals

@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 李思贤
 products_models:
 - 三日苗
 project:

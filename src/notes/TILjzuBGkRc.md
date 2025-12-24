@@ -11,7 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Veritasium
 - Matt
 products_models:
 - Caseta by Lutron

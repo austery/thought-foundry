@@ -13,7 +13,6 @@ media_books:
 - The Diamond Age
 people:
 - Michelangelo
-- Ross Lovegrove
 products_models:
 - Nano Banana
 - Imagine

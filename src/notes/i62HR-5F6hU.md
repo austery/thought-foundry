@@ -21,15 +21,8 @@ media_books:
 people:
 - Pierre Poilievre
 - Justin Trudeau
-- Stockwell Day
 - Stephen Harper
-- Jacqueline Farrell
-- Patrick Farrell
-- Marlene Poilievre
-- Donald Poilievre
-- Anaida Galindo
 - Jordan Peterson
-- Greg Fergus
 - Donald Trump
 products_models: []
 project:

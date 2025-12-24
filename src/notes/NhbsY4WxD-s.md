@@ -21,15 +21,8 @@ media_books:
 - 《华尔街日报》
 - 《彭博通讯社》
 people:
-- 何如佳
-- David Brody
-- 崔敏珍
-- 崔泰原
 - 卢泰愚
 - Mark Zuckerberg
-- Rashimi
-- Harlan
-- Oni M
 products_models:
 - Adderall
 - OxyContin

@@ -28,7 +28,6 @@ media_books:
 - 《韩联社》
 people:
 - Tim Cook
-- John Ternus
 - Steve Jobs
 - Elon Musk
 - Donald Trump
@@ -43,10 +42,8 @@ people:
 - Hillary Clinton
 - Barack Obama
 - 高市早苗
-- 孙卫东
 - Xi Jinping
 - Nancy Pelosi
-- 李在民
 - 胡锡进
 products_models:
 - iPhone

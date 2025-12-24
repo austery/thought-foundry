@@ -26,9 +26,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 黄仁勳
-- cloud-supercomputing-fusion
 products_models:
 - GPT-5
 - H100 GPU

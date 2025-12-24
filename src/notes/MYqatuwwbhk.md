@@ -38,15 +38,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 张建中
 - Jensen Huang
-- 周苑
-- 张钰勃
-- 王东
-- 陈维良
-- 彭莉
-- 杨建
-- 梁文锋
 products_models:
 - 苏堤
 - 春晓

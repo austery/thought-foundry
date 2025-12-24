@@ -14,9 +14,6 @@ layout: post.njk
 media_books:
 - 《繁花》
 - 《外交事务》
-people:
-- 李宏毅
-- 何凯明
 products_models:
 - NanoBanana
 - Sora

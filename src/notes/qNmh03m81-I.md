@@ -27,7 +27,6 @@ people:
 - Elon Musk
 - Jeff Bezos
 - Mark Cuban
-- Pierre Omidyar
 - Sam Altman
 - Satoshi Nakamoto
 - Vitalik Buterin

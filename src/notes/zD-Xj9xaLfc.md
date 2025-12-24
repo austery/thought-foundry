@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - George Soros
-- Béla Balassa
 - Paul Samuelson
 - Xi Jinping
 products_models: []

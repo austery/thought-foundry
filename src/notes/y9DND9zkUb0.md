@@ -16,11 +16,7 @@ media_books:
 - 《21世纪资本论》
 people:
 - 约翰·洛克
-- 弗朗索瓦·奎奈
-- 杜尔哥
 - 亚当·斯密
-- 皮凯蒂
-- 约翰·康芒斯
 products_models: []
 project:
 - investment-strategy

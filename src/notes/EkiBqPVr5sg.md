@@ -14,9 +14,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- 叶简明
-- 丁建林
 products_models: []
 project:
 - ai-impact-analysis

@@ -10,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Francis Bitter
 products_models:
 - Nerf football
 - Project Sunroof

@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Gene
 - Mike
 products_models:
 - FPV drone

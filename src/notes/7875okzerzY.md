@@ -31,7 +31,6 @@ people:
 - Elon Musk
 - Sam Altman
 - 李在明
-- 江志成
 - Donald Trump
 products_models: []
 project:

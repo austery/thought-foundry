@@ -31,11 +31,8 @@ people:
 - Steve Jobs
 - Trevor Noah
 - Kamala Harris
-- Michelle Obama
 - Jordan Peterson
 - Tom Brady
-- Emanuel Acho
-- Mary Claire Haver
 - Sam Altman
 products_models:
 - iPad

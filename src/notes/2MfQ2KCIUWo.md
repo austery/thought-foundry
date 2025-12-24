@@ -21,11 +21,7 @@ media_books:
 - Financial Times
 people:
 - Donald Trump
-- Erik Brynjolfsson
-- Bharat Chander
-- Raju Chen
 - Paul Krugman
-- Henley Wing Chiu
 products_models:
 - Gemini Flash
 - ChatGPT

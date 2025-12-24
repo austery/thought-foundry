@@ -18,10 +18,7 @@ layout: post.njk
 media_books: []
 people:
 - Sam Altman
-- Matt Garman
 - Shantanu Narayen
-- Sanjay Bhakta
-- Werner Vogels
 products_models:
 - GPT-4
 - Gemini 3

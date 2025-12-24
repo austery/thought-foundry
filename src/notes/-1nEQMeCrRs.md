@@ -13,16 +13,9 @@ media_books:
 - 《政治觀念史第八卷》
 - 死海古卷
 people:
-- Hans Jonas
-- Eric Voegelin
 - Hegel
-- Marx
 - Hitler
-- Cyrus
 - Alexander the Great
-- St. Augustine
-- Schelling
-- Comte
 - marxism
 products_models: []
 project:

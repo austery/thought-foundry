@@ -16,9 +16,7 @@ insight: ''
 layout: post.njk
 people:
 - Nobita
-- 三岛游记夫
 - 高市早苗
-- 芬兰小猫
 products_models:
 - JLPT
 - 雅思

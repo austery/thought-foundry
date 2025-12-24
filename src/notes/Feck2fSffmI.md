@@ -9,7 +9,6 @@ guest: ''
 insight: null
 layout: post.njk
 people:
-- 刘宁
 - 投资talk君
 products_models: []
 project:

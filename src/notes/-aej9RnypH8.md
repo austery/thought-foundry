@@ -42,7 +42,6 @@ people:
 - Alex Karp
 - Jerome Powell
 - Dan Niles
-- Stephanie Link
 - Lisa Cook
 - Larry Fink
 - jobs-report

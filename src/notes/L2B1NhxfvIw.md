@@ -18,7 +18,6 @@ media_books:
 people:
 - LeBron James
 - Michael Jordan
-- Morgan Housel
 products_models: []
 project:
 - personal-growth-lab

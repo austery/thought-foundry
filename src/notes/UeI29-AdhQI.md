@@ -12,7 +12,6 @@ layout: post.njk
 people:
 - Sholto Douglas
 - Trenton Bricken
-- Chris Ola
 products_models:
 - GPT-4
 - Gemini

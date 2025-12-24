@@ -18,7 +18,6 @@ media_books:
 people:
 - 李鸿章
 - 伊藤博文
-- 本亚明
 products_models: '[]'
 project:
 - china-analysis

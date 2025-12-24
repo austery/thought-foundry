@@ -30,7 +30,6 @@ layout: post.njk
 people:
 - Zach
 - David
-- Pier Paulo
 products_models:
 - Protect
 - Lens Score

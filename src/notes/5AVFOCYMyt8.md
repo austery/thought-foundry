@@ -17,7 +17,6 @@ people:
 - David Eby
 - Rachel Notley
 - Steven Guilbeault
-- Marilyn Slett
 products_models:
 - 切断阀门法案
 project:

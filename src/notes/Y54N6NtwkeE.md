@@ -36,14 +36,10 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-- Jeremy Allaire
 - Brian Armstrong
 - Scott Bessant
-- Irving Fisher
 - Marc Andreessen
-- Austin Campbell
 - Kerman Rodriguez
-- Arman Bennett
 - Kell Brooks
 products_models:
 - OddLots podcast

@@ -16,8 +16,6 @@ media_books:
 - 《头号玩家》
 - 《死亡搁浅》
 people:
-- Amber
-- 李路成
 - Elon Musk
 - Donald Trump
 - Jensen Huang

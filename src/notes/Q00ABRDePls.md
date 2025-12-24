@@ -10,8 +10,6 @@ layout: post.njk
 people:
 - Rogers
 - Winnicott
-- Jung
-- McLuhan
 products_models:
 - ChatGPT
 project:

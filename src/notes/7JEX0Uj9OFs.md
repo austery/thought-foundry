@@ -18,9 +18,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- 张和
-- 库克
 products_models:
 - 豆包手机助手
 - Gemini

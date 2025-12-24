@@ -15,8 +15,6 @@ media_books:
 - 《皇家自治领域审计关系委员会报告》
 people:
 - Mark Carney
-- Charles III
-- Gerard Comeau
 - Anita Anand
 - Pierre Poilievre
 - Justin Trudeau

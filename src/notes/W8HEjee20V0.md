@@ -29,19 +29,13 @@ media_books:
 - Painted Black
 people:
 - Elon Musk
-- Steven Schwarzman
 - Bill Gates
 - Warren Buffett
 - Jeff Bezos
 - Mark Zuckerberg
-- Fred Lambert
 - Matt Levine
-- Jay Ritter
 - Donald Trump
 - Joe Biden
-- Robin Denholm
-- Kimbal Musk
-- James Murdoch
 products_models:
 - Cybertruck
 - Model Y

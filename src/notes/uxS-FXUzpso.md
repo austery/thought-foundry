@@ -37,14 +37,7 @@ people:
 - Volodymyr Zelensky
 - Sergey Lavrov
 - Dmitry Peskov
-- Kyrylo Budanov
-- Driscoll
 - Mao Ning
-- Martin Whyte
-- Zhu Rongtai
-- George Glass
-- Mark Liuweit
-- Fidel
 products_models:
 - ChatGPT
 - Gemini 3

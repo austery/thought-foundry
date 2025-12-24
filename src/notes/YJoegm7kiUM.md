@@ -19,7 +19,6 @@ media_books:
 people:
 - Sam Altman
 - 李飞飞
-- 谢濬丞
 products_models:
 - ChatGPT
 - Gemini

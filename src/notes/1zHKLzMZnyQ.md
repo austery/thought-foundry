@@ -36,7 +36,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Roy Tanner
 - Vlad Tenev
 - Michael Burry
 - Sam Altman

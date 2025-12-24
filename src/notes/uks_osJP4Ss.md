@@ -21,9 +21,6 @@ media_books:
 people:
 - 唐石峻
 - Donald Trump
-- 老段
-- 老巴
-- jackwill
 products_models: []
 project:
 - us-analysis

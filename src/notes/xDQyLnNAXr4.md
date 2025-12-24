@@ -19,19 +19,9 @@ media_books:
 - The Simpsons
 - Influence
 people:
-- Desmond O'Neal
-- Philip Gerrio
-- Nancy Gerrio
-- JC Duggard
-- Michaela Garrett
-- Vern Pearson
-- Ronaldo
 - Stephen Covey
 - Barack Obama
 - Osama bin Laden
-- Simon Sinek
-- Robert Cialdini
-- Evie O'Neal
 products_models: []
 project:
 - personal-growth-lab

@@ -71,8 +71,6 @@ people:
 - Kevin Hasset
 - Donald Trump
 - John Williams
-- Rebecca Patterson
-- Jeremy Siegel
 - Bill Gates
 - Jensen Huang
 products_models:

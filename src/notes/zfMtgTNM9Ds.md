@@ -18,11 +18,6 @@ media_books:
 - 《公家机关如何侵蚀道德能力：基层公务员的道德困境》
 - 《台湾的基层公务员是如何制造低收入户的》
 people:
-- Bernardo Zacka
-- Michael Lipsky
-- 林传凯
-- 黄克先
-- 洪博轩
 - Max Weber
 products_models:
 - 街头官僚理论

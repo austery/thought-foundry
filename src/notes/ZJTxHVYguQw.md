@@ -19,7 +19,6 @@ layout: post.njk
 people:
 - Donald Trump
 - Jerome Powell
-- Khamenei
 - Vladimir Putin
 - Elon Musk
 - Benjamin Netanyahu

@@ -14,16 +14,6 @@ layout: post.njk
 media_books:
 - 《金门荧光梦》
 - 《女人世界》
-people:
-- 杨圆圆
-- Kobe
-- Tev en
-- 黄柳双
-- 吴锦霞
-- SS
-- Patt
-- Emly
-- Ara
 products_models: []
 project:
 - cultural-critique

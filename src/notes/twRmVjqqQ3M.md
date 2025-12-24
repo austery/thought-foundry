@@ -19,12 +19,6 @@ layout: post.njk
 media_books:
 - 《Social Science Research》
 - 《纽约时报》
-people:
-- 寿斯坦丁
-- Mark Regnerus
-- Amy Ys Tr
-- Brad Wilcox
-- Michael J. Rosenfeld
 products_models: []
 project:
 - us-analysis

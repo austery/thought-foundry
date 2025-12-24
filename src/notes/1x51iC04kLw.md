@@ -15,13 +15,7 @@ media_books:
 - Modern Love
 - Money for Couples
 people:
-- Ramit Sethi
 - Anna Martin
-- Michelle
-- L
-- Celica
-- Stuart
-- Cassandra
 - John
 products_models:
 - Roth IRA

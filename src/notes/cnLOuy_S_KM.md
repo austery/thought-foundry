@@ -16,12 +16,9 @@ layout: post.njk
 media_books:
 - Odd Lots
 people:
-- Max Levchin
 - Joe Weisenthal
 - Tracy Alloway
 - Carmen Rodriguez
-- Dash Bennett
-- Cale Brooks
 products_models:
 - Affirm Card
 - ChatGPT

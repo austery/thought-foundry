@@ -42,14 +42,10 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Chris Hohn
-- Nikolai Tangan
 - Warren Buffett
-- Brady Dugan
 - Bill Gates
 - Charlie Munger
 - John
-- Bill Bullinger
 products_models:
 - Microsoft Teams
 project:

@@ -23,7 +23,6 @@ people:
 - Emmanuel Macron
 - Vladimir Putin
 - John Bolton
-- Jacqueline Rams
 - 高市早苗
 - Giorgia Meloni
 - Olaf Scholz

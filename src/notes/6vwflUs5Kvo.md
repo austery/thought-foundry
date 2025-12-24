@@ -22,12 +22,7 @@ people:
 - Xi Jinping
 - Donald Trump
 - 贝森特
-- 李成钢
-- 于伟宁
 - 潘功胜
-- 李云哲
-- 于永定
-- 黄一平
 products_models:
 - TikTok
 project:

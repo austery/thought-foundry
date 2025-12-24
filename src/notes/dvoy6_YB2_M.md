@@ -22,9 +22,6 @@ people:
 - 岸田文雄
 - Joe Biden
 - 李在明
-- 萧美琴
-- Samuel Paparo
-- 黄循财
 products_models:
 - Iron Dome
 - T-DOM

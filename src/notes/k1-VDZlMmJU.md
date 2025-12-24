@@ -16,7 +16,6 @@ media_books:
 - The Rundown
 - Transactional diplomacy cannot bring peace to Ukraine
 people:
-- Alexandra Matviichuk
 - Donald Trump
 - Vladimir Putin
 products_models: []

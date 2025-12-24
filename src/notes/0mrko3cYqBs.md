@@ -24,11 +24,7 @@ media_books:
 people:
 - Yann LeCun
 - Mark Zuckerberg
-- Gavin Wang
 - 田渊栋
-- Joelle Pineau
-- Ahmad Al-Dahle
-- Chris Cox
 - Alexander Wang
 - Nat Friedman
 - Elon Musk

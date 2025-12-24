@@ -19,9 +19,6 @@ media_books:
 people:
 - Donald Trump
 - Jeffrey Epstein
-- William Ratichek
-- DB Cooper
-- David Enrich
 products_models: []
 project:
 - us-analysis

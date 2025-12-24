@@ -27,8 +27,6 @@ media_books:
 people:
 - Hassett
 - Powell
-- Daniel Tarullo
-- Randall Kroszner
 products_models:
 - GPU
 - TPU

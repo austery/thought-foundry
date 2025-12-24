@@ -21,7 +21,6 @@ media_books:
 - Nature Machine Intelligence
 - iClar
 people:
-- John Dickerson
 - Jamie Dimon
 - Sam Altman
 products_models:

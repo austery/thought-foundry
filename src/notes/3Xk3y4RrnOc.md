@@ -18,10 +18,7 @@ layout: post.njk
 media_books:
 - Podcast with Nikolai
 people:
-- Christian Sinding
-- Sir Christopher Hohn
 - David
-- Otis
 - Nikolai
 products_models:
 - Microsoft Teams

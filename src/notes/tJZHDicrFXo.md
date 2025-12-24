@@ -20,13 +20,7 @@ media_books:
 - 《绝望者之歌》
 people:
 - Donald Trump
-- Arlie R. Hochschild
 - Obama
-- Eisenhower
-- Rachel Carson
-- Stephen Meyer
-- Johnson
-- Anne Case
 - Angus Deaton
 - JD Vance
 - Émile Durkheim

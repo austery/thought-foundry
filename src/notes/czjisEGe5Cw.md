@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Archive Pre-print Server
-people:
-- Andre Lind
 products_models:
 - Snatoms
 - Bicep Two

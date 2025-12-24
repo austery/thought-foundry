@@ -16,9 +16,7 @@ media_books:
 - TikTok
 - 《卡特维女王》
 people:
-- Glenn Youngkin
 - Abigail Spanberger
-- Mickey Sherrill
 - Zohran Mamdani
 - Andrew Cuomo
 - Kathy Hochul
@@ -27,19 +25,12 @@ people:
 - Mike Johnson
 - Chuck Schumer
 - Hakeem Jeffries
-- Elise Stefanik
-- Eugene Debs
-- Nelson Mandela
 - Barack Obama
 - Rudy Giuliani
-- Michael Bloomberg
 - Bill de Blasio
 - Eric Adams
 - Bernie Sanders
 - Hillary Clinton
-- Mahmoud Mamdani
-- Mira Nair
-- Dr. Gay
 products_models: []
 project:
 - us-analysis

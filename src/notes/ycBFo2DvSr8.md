@@ -13,7 +13,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Sergio Ermotti
 - James Gorman
 products_models: []
 project:

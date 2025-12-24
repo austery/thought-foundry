@@ -11,9 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- 康德拉奇耶夫
-- 范读因
-- 周金涛
 - Ray Dalio
 products_models: []
 project:

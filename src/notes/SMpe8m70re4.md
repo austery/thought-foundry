@@ -18,23 +18,11 @@ media_books:
 - 《第三帝国新王》
 people:
 - Mao Zedong
-- Han Fuju
-- Wang Fuzhi
-- Tan Sitong
-- Li Boqin
-- Zhao Benshan
-- Chen Jiongming
-- Song Jiaoren
 - Sun Yat-sen
-- Indira Gandhi
 - Mahatma Gandhi
 - Modi
-- Sun Dawu
 - Liu Shaoqi
-- Wang Guangmei
-- Zhang Aiping
 - Jiang Zemin
-- Liu Zhongning
 products_models:
 - 龙蛙
 project:

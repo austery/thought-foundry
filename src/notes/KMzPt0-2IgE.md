@@ -23,29 +23,9 @@ media_books:
 - 《琼斯夫人》
 - 《华尔街日报》
 people:
-- Pras Michel
-- Jho Low
 - Donald Trump
 - Barack Obama
-- Jeff Sessions
-- Steve Wynn
-- John Kelly
-- Reince Priebus
-- George Higginbotham
-- Nikki Lynn Davis
-- Elliott Broidy
-- Guo Wengui
-- Sun Lijun
 - Leonardo DiCaprio
-- Miranda Kerr
-- Kim Kardashian
-- Peter Zeidenberg
-- Xi Xiaoxing
-- Zhang Yuheng
-- Tao Feng
-- Mark Wahlberg
-- Rick Gates
-- Cui Tiankai
 - Steve Bannon
 - Peter Navarro
 products_models: []

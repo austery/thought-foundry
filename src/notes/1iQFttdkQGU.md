@@ -21,14 +21,8 @@ media_books:
 - Drive to Survive
 - F1
 people:
-- Stefano Domenicali
 - Nicolai Tangen
-- Ayrton Senna
-- Roland Ratzenberger
-- Chase Carey
 - Brad Pitt
-- Jerry Bruckheimer
-- Joseph Kosinski
 products_models:
 - Fiat 500
 project:

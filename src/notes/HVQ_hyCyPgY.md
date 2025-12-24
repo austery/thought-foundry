@@ -22,10 +22,6 @@ media_books:
 people:
 - Rachel Abrams
 - Peter Goodman
-- Will Fitzgibbon
-- Chris Puit
-- Vladimir Zalinski
-- Emanuel Macron
 products_models:
 - Real ID
 project:

@@ -15,11 +15,6 @@ media_books:
 - Modern Love
 people:
 - Anna Martin
-- Natasha Cloud
-- Ramit Sethi
-- Izzy Harrison
-- Emil Cloud
-- Sharon Cloud
 - Donald Trump
 products_models:
 - Netflix show How to Get Rich

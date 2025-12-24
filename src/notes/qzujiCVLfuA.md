@@ -35,15 +35,10 @@ media_books:
 - Thank You for Smoking
 people:
 - Alex
-- Verun
 - Henry Ford
-- William Levitt
 - Warren Buffett
-- Tony Hsieh
 - Larry Page
 - Sheryl Sandberg
-- Sharon Stone
-- Liam Neeson
 products_models:
 - Consumer Price Index
 - TurboTax

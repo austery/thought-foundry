@@ -11,10 +11,6 @@ layout: post.njk
 media_books:
 - 《有錢到老後》
 - 《別把錢留到死》
-people:
-- 谢文献
-- 贤人老师
-- 威廉·班根
 products_models:
 - 劳工保险
 - 全民健康保险

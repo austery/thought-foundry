@@ -18,16 +18,9 @@ media_books:
 - The Daily
 people:
 - Rachel Abrams
-- Charlie Savage
-- Admiral Frank Bradley
-- Pete Hegsath
 - Donald Trump
-- Jack Goldsmith
-- John Yu
-- Eric Holder
 - Barack Obama
 - Vladimir Putin
-- Matt Van Eps
 products_models: []
 project:
 - us-analysis

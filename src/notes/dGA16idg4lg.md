@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- intellectual-persecution
 companies_orgs:
 - 中共
 - 国民党
@@ -19,15 +21,11 @@ media_books:
 - 《论语》
 people:
 - 李南央
-- 李锐
 - 毛泽东
 - 柴静
 - 彭德怀
 - 周恩来
-- 田家英
-- 王实味
 - 胡乔木
-- 周小舟
 - 林彪
 - 刘少奇
 - 陈云
@@ -35,16 +33,10 @@ people:
 - 胡耀邦
 - 赵紫阳
 - 朱德
-- 张闻天
-- 黄克诚
 - 罗瑞卿
 - 薄一波
-- 李继芳
 - 宋教仁
 - 黄兴
-- 丁玲
-- 陈伯达
-- 李慎之
 products_models: []
 project:
 - china-analysis
@@ -60,8 +52,6 @@ tags:
 - party
 - psychology
 title: 李南央对话柴静：父亲李锐的笔记如何打破我的“毛泽东神话”
-companies:
-- intellectual-persecution
 ---
 
 ### 人都要受四种限制，马恩列斯毛也不例外

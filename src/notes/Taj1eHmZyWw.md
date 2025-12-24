@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - SQuAD
-people:
-- 李宏毅
 products_models:
 - BERT
 - Adam

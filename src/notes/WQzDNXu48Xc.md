@@ -18,7 +18,6 @@ people:
 - Donald Trump
 - Scott Bessent
 - Jerome Powell
-- Jim Rogers
 - George Soros
 - Steven Mnuchin
 - Peter Navarro

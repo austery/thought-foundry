@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Neil Fleming
 - Derek Muller
 products_models:
 - VARK

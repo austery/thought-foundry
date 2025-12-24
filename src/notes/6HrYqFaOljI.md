@@ -19,10 +19,6 @@ media_books:
 - 'The Price of Money: A Guide to the Past, Present, and Future of the Natural Rate
   of Interest'
 people:
-- Stephen Myron
-- Tom Orlik
-- Jamie Rush
-- Stephanie Flanders
 - Joe Weisenthal
 - Tracy Alloway
 - Ben Bernanke
@@ -31,7 +27,6 @@ people:
 - Milton Friedman
 - Donald Trump
 - Vladimir Putin
-- Dan Hanson
 products_models:
 - ChatGPT
 - Taylor rule

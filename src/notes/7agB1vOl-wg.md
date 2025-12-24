@@ -26,11 +26,7 @@ media_books:
 - Code Complete
 - Programming Pearls
 people:
-- Greg Kroah-Hartman
 - Linus Torvalds
-- Johan
-- Chester
-- Sasha
 products_models:
 - Linux
 - Android

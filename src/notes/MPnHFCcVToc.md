@@ -21,9 +21,6 @@ people:
 - Georg Wilhelm Friedrich Hegel
 - Ludwig Boltzmann
 - Charles Darwin
-- Lee Smolin
-- 张志伟
-- William Barrett
 products_models: []
 project:
 - systems-thinking

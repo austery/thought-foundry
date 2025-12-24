@@ -42,16 +42,12 @@ media_books:
 - Bilibili
 - 《大空头》
 people:
-- Raymond
-- 赵总
-- 李开复
 - Sam Altman
 - Michael Burry
 - Ilya Sutskever
 - Satya Nadella
 - 马云
 - 李飞飞
-- 冯骥
 - Noam Shazeer
 products_models:
 - GPT

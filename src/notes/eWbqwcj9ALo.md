@@ -14,18 +14,9 @@ media_books:
 - 《少即是多》
 - 《晚期维多利亚大屠杀》
 people:
-- Jason Hickel
-- Thomas McKeown
-- Richard Easterlin
-- Herman Daly
 - Thomas Piketty
-- Bacon
 - Descartes
 - Locke
-- Mike Davies
-- Earl of Lauderdale
-- Simon Kuznets
-- Giorgos Kallis
 products_models:
 - GDP
 project:

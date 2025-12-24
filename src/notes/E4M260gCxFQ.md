@@ -20,11 +20,6 @@ layout: post.njk
 media_books:
 - Unraveled
 - 'Origins: The Striking Rise of Right-wing Extremism'
-people:
-- Eric Sito
-- Steven Ray
-- Jeremy McKenzie
-- Matthew Althorp
 products_models: []
 project:
 - geopolitics-watch

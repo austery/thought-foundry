@@ -10,15 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《风起前的蒲公英》
-people:
-- 梁君健
-- 袁老师
-- 全宇飞
-- 张战豪
-- 王璐瑶
-- 冯晓云
-- 黄晓明
-- 史田宇
 products_models: []
 project:
 - historical-insights

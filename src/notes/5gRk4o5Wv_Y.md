@@ -30,18 +30,7 @@ media_books:
 - Titanic
 people:
 - Gilbert Cruz
-- John U. Bacon
-- Gordon Lightfoot
-- Ernest Msurley
 - John D. Rockefeller
-- Christine Brennan
-- Craig Sullivan
-- Bruce Hudson
-- Ruth Hudson
-- John Tanner
-- Deb Champo
-- Bruce Lynn
-- Barry Keane
 products_models:
 - SS Edmund Fitzgerald
 - Arthur Anderson

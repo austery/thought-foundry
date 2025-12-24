@@ -23,7 +23,6 @@ insight: ''
 layout: post.njk
 people:
 - Michael Burry
-- 小
 products_models:
 - GPU
 - CPU

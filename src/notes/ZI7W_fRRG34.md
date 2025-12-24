@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《臣服实验》
-people:
-- Michael Singer
 products_models: []
 project: []
 series: ''

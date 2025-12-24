@@ -10,7 +10,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Diogo Rau
 - Dario Amodei
 products_models:
 - Claude

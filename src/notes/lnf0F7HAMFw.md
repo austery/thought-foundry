@@ -34,7 +34,6 @@ people:
 - Larry Ellison
 - Donald Trump
 - Vlad Tenev
-- RJ Scaringe
 - Michael Burry
 - Tom Lee
 - Palmer Luckey

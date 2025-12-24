@@ -15,8 +15,6 @@ draft: true
 guest: ''
 layout: post.njk
 people:
-- 师洋
-- Angelika Parsi
 - 课代表立正
 products_models:
 - Copilot

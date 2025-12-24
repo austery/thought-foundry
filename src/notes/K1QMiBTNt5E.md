@@ -17,14 +17,8 @@ media_books:
 people:
 - Warren Buffett
 - Charlie Munger
-- Harley Hotz
-- J. Edgar Hoover
-- Stan Lipsey
-- Walter Scott Jr.
-- Don Keough
 - Ajit Jain
 - Greg Abel
-- Alfred Nobel
 products_models:
 - New Coke
 - Old Coke

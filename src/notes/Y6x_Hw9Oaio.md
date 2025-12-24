@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - peter-thiel
-- rene-girard
 products_models: []
 project:
 - investment-strategy

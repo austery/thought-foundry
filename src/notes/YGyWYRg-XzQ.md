@@ -13,7 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - Andrew Jackson
-- Ulysses S. Grant
 - Franklin Roosevelt
 - Richard Nixon
 - Paul Volcker

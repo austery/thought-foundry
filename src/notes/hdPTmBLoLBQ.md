@@ -1,6 +1,8 @@
 ---
 area: finance-wealth
 category: macro-economy
+companies:
+- spacex-ipo
 companies_orgs:
 - Money or Life 美股频道
 - SpaceX
@@ -26,7 +28,6 @@ people:
 - Kevin Hassett
 - Jerome Powell
 - Paul Atkins
-- Andrew Dudum
 products_models:
 - Starship
 - Electron Rocket
@@ -48,8 +49,6 @@ tags:
 - market-trend
 - stock-valuation
 title: SpaceX上市传闻及其对Rocket Lab和特斯拉估值的影响分析
-companies:
-- spacex-ipo
 ---
 
 ### 频道一周年回顾与本周节目概览

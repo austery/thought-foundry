@@ -19,10 +19,7 @@ insight: ''
 layout: post.njk
 people:
 - Nicola Tangen
-- Michael Miebach
-- Ajay Banga
 - Jane Fraser
-- John Barker
 products_models:
 - Apple Card
 - Apple Pay

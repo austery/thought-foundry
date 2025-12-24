@@ -11,10 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - video-game
-people:
-- Hannah Boquet
-- Amos
-- Ezra
 products_models:
 - Fortnite
 - Diddy Kong Racing

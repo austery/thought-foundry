@@ -11,8 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Rafael Chiuzi
-- Ed Pierson
 - Amy Edmondson
 products_models:
 - 737 Max

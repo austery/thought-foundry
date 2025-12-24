@@ -16,9 +16,6 @@ media_books:
 - How to Get Rich
 people:
 - Anna Martin
-- Janine Lynn
-- Adon
-- Reit Sati
 products_models:
 - AMX
 - Venmo

@@ -11,11 +11,6 @@ layout: post.njk
 media_books:
 - Nature
 - Chaos
-people:
-- Mitchell Feigenbaum
-- Robert May
-- James Gleick
-- Lib Taber
 products_models: []
 project:
 - systems-thinking

@@ -13,8 +13,6 @@ people:
 - Socrates
 - Aristotle
 - Kant
-- Carl Rogers
-- Søren Kierkegaard
 products_models: []
 project:
 - personal-growth-lab

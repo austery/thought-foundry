@@ -47,8 +47,6 @@ people:
 - Jensen Huang
 - Janet Yellen
 - Sanae Takaichi
-- Xue Jin
-- Lei Jun
 - Barack Obama
 - Warren Buffett
 products_models:

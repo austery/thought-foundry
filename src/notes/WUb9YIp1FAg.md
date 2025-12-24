@@ -11,12 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-people:
-- 伊丽莎白·斯通
-- 格尔盖伊·奥罗斯
-- 杰克·保罗
-- 迈克·泰森
-- 克里斯·洛克
 products_models:
 - GPT-4
 - AV1

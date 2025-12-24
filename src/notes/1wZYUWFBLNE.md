@@ -14,8 +14,6 @@ people:
 - Janet Yellen
 - Donald Trump
 - Daron Acemoglu
-- James Robinson
-- James Tobin
 - Jair Bolsonaro
 products_models: []
 project:

@@ -12,9 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《每日野兽》
-people:
-- 申琦
-- 陆诗语
 products_models:
 - 陪伴机器人
 - 机器嗅觉芯片

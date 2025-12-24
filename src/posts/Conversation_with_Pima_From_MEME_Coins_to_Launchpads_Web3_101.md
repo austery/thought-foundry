@@ -10,8 +10,6 @@ insight: null
 layout: post.njk
 people:
 - 刘峰
-- Jack
-- 匹马
 products_models: []
 project:
 - investment-strategy

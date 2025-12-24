@@ -18,13 +18,7 @@ media_books:
 people:
 - Alexandra Samuel
 - Oliver Burkeman
-- Rob
-- Ala
-- Emanuel Kant
 - Carl Jung
-- Katherine O'Hara
-- Amber Ruffin
-- Samantha Bee
 products_models:
 - Viv
 - ChatGPT

@@ -20,7 +20,6 @@ media_books:
 - The Economist
 people:
 - Jiang Zemin
-- Alvin Jiang
 - Li Ka-shing
 - Bo Xilai
 - Hu Jintao

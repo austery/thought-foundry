@@ -20,7 +20,6 @@ media_books:
 - The MAD Podcast
 - Dwarkesh Podcast
 people:
-- Jerry Tworek
 - Matt Turck
 - Ilia Sutskever
 - Richard Sutton

@@ -21,17 +21,12 @@ people:
 - Kamala Harris
 - Joe Biden
 - Donald Trump
-- Doug Emhoff
-- Maya Harris
 - Joe Rogan
 - Hillary Clinton
 - Jimmy Carter
-- Walter Mondale
 - LeBron James
 - Gavin Newsom
 - Elon Musk
-- Brett Baier
-- Mrs. Francis Wilson
 - Steven Bartlett
 products_models: []
 project:

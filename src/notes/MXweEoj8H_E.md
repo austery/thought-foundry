@@ -13,7 +13,6 @@ media_books:
 - 《与成功有约》
 people:
 - 梁晓华
-- 陈茂雄
 - Stephen Covey
 products_models:
 - 萨提尔模式

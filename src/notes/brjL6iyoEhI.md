@@ -39,16 +39,12 @@ people:
 - Reid Hoffman
 - Richard Feynman
 - Milton Friedman
-- Tiger Woods
 - Ilya Sutskever
-- Isaac Asimov
 - Roger Penrose
 - René Descartes
 - Isaac Newton
-- Contovich
 - Mustafa Suleyman
 - Ethan Mollick
-- Siddhartha Mukherjee
 - Emmanuel Macron
 products_models:
 - ChatGPT

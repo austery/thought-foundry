@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - stella-an
-- virginia-woolf
 products_models: []
 project: []
 series: ''

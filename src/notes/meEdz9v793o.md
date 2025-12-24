@@ -18,16 +18,10 @@ insight: ''
 layout: post.njk
 people:
 - Nicolai Tangen
-- Sir David Spiegelhalter
 - Barack Obama
 - Osama bin Laden
-- John Krebs
-- Jonathan Van-Tam
 - Robert F. Kennedy Jr.
 - Donald Trump
-- Daniel Ellsberg
-- Glenn Brier
-- Rachel Botsman
 - Bill Gates
 products_models:
 - AstraZeneca vaccine

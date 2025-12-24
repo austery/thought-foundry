@@ -14,15 +14,7 @@ guest: ''
 insight: ''
 layout: post.njk
 people:
-- Nick Leeson
 - Daniel Kahneman
-- David Dunning
-- Justin Kruger
-- Alan Lichtman
-- Peter Hansen
-- Michael Jesus
-- David Winman
-- Massimo Conti
 products_models:
 - Nikkei 225
 - Space Shuttle Challenger

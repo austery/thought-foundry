@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - bloomberg-podcasts
-people:
-- obamacare
 products_models: []
 project: []
 series: ''

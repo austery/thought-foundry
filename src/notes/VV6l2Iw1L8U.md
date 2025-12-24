@@ -33,11 +33,7 @@ media_books:
 - Google Scholar
 people:
 - 泓君
-- 齐浩之
-- 陶一伟
-- Evan Tao
 - Elon Musk
-- Pieter Abbeel
 - Sergey Levine
 products_models:
 - PaLM-E

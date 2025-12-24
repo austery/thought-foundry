@@ -14,10 +14,7 @@ media_books:
 - Breaking Bad
 people:
 - Daniel Kahneman
-- Barbara Fredrickson
 - Amos Tversky
-- Stephen Jay Gould
-- Milan Kundera
 products_models:
 - Colonoscope
 project:

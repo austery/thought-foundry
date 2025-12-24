@@ -13,10 +13,6 @@ layout: post.njk
 media_books:
 - Narrative Economics
 - Irrational Exuberance
-people:
-- Akira Yoshizawa
-- Tomohiro Tachi
-- Robert Schiller
 products_models:
 - Da Vinci surgical robot
 - Miura Ori

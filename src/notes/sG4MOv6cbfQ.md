@@ -19,13 +19,7 @@ people:
 - Zohran Mamdani
 - Bill de Blasio
 - Eric Adams
-- Kathy Wild
-- Ben Carlos Typen
-- Brandon Johnson
-- Michael Bloomberg
 - David Tepper
-- Crystal Ball Young
-- Jessica Tisch
 products_models: []
 project:
 - us-analysis

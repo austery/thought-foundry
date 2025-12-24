@@ -9,15 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-people:
-- Konstantin Batygin
-- Herschel
-- Urbain Le Verrier
-- Jane Luu
-- Mike Brown
-- Scott Shepard
-- Chad Raheel
-- David Bowie
 products_models:
 - LSST telescope
 project:

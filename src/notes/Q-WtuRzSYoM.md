@@ -19,7 +19,6 @@ people:
 - Barack Obama
 - Joe Biden
 - Recep Tayyip Erdoğan
-- President Putin
 products_models: []
 project:
 - geopolitics-watch

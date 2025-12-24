@@ -16,11 +16,6 @@ media_books:
 - Big Little Lies
 people:
 - Nam Kiwanuka
-- Dr. Michelle Cohen
-- Sheryl Crow
-- Salt 'n' Pepa
-- Meatloaf
-- Rudolf Virchow
 - Nicole Kidman
 - Donald Trump
 products_models:
