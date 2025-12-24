@@ -1,0 +1,5283 @@
+[music]
+
+
+Doesn't
+ this
+ look
+ like
+ something's
+ going
+
+
+to
+ drop
+ from
+ the
+ ceiling?
+ Like
+ a
+ ground
+
+
+zero
+ type
+ thing?
+ [snorts]
+
+
+Be
+ honest.
+ It's
+ like
+ who
+ has
+ the
+ buzzer
+
+
+that
+ if
+ I'm
+ I
+ really
+ suck,
+ they
+ press
+ it
+
+
+and
+ everything
+ falls
+ down
+ through
+ the
+
+
+trap
+ door.
+ No.
+
+
+>> Be
+ careful.
+
+
+>> Yeah.
+ Okay.
+ Who
+ was
+ it?
+
+
+>> Okay.
+ You
+ tell
+ me
+ if
+ I'm
+ doing
+ okay
+ or
+
+
+if
+ I
+ should
+ take
+ a
+ couple
+ of
+ steps
+ back.
+
+
+Right.
+ So,
+ hi
+ everyone.
+ I'm
+ Assaf.
+ Um,
+
+
+and
+ I'm
+ here
+ to
+ talk
+ about
+ Genbi.
+ And
+
+
+kind
+ of
+ first
+ disclaimer,
+ this
+
+
+presentation
+ was
+ not
+ created
+ with
+ Gen
+
+
+AI.
+ Um
+ to
+ be
+ honest,
+ I
+ actually
+ started
+
+
+doing
+ it
+ uh
+ with
+ uh
+ GPT03
+ back
+ in
+
+
+August.
+ [snorts]
+ Uh
+ and
+ then
+ I
+ did
+ kind
+
+
+of
+ a
+ first
+ draft
+ and
+ then
+ a
+ couple
+ of
+
+
+weeks
+ back
+ I
+ wanted
+ to
+ come
+ in
+ and
+
+
+refresh
+ it
+ before
+ the
+ conference
+ and
+
+
+then
+ GPT5
+ took
+ over
+ completely
+ messed
+ up
+
+
+my
+ slides.
+ So
+ I
+ ended
+ up
+ doing
+ it
+
+
+manually
+ kind
+ of
+ old-fashioned.
+ So
+ if
+
+
+I'm
+ missing
+ like
+ an
+ M
+ dash
+ somewhere
+ in
+
+
+the
+ middle,
+ let
+ me
+ know
+ after.
+ Okay.
+
+
+[snorts]
+
+
+Uh
+ so
+ first
+ of
+ all,
+ a
+ bit
+ of
+
+
+housekeeping.
+ What's
+ GenBBI?
+ So,
+ it's
+ a
+
+
+fusion
+ of
+ Gen
+ AI
+ and
+ BI.
+ It's
+ basically
+
+
+an
+ agent
+ that
+ helps
+ people
+ answer
+
+
+business
+ questions
+ with
+ data
+ like
+ a
+ a
+
+
+business
+ intelligence
+ person
+ would
+ do
+ in
+
+
+real
+ life.
+ [snorts]
+ Uh,
+ the
+ reason
+ that
+
+
+we're
+ pursuing
+ GenBI
+ is
+ really
+ because
+
+
+of
+ the
+ data
+ democratization
+ that
+ it
+ can
+
+
+bring,
+ right?
+ So
+ having
+ access
+ to
+ data
+
+
+at
+ your
+ fingertips
+ without
+ having
+ to
+ be
+
+
+reliant
+ on
+ a
+ BI
+ team
+ that
+ helps
+ you
+ find
+
+
+a
+ report,
+ figure
+ out
+ what
+ it
+ means,
+ uh,
+
+
+understand
+ your
+ world
+ before
+ they
+ can
+
+
+even
+ give
+ you
+ any
+ kind
+ of
+ input.
+ Uh,
+ so
+
+
+that's
+ GenBBI.
+ Uh,
+ a
+ bit
+ about
+
+
+Northwestern
+ Mutual.
+ That's
+ where
+ I
+
+
+work.
+ So
+ we're
+ a
+ financial
+ services,
+
+
+life
+ insurance,
+ and
+ wealth
+ management.
+
+
+Been
+ around
+ for
+ 160
+ years.
+ [snorts]
+ Uh,
+
+
+some
+ very
+ impressive
+ numbers
+ there.
+ But
+
+
+first
+ of
+ all,
+ I
+ want
+ to
+ say
+ why
+ is
+
+
+Northwestern
+ Mutual
+ a
+ great
+ place
+ to
+ do
+
+
+Gen
+ AI.
+ We
+ got
+ a
+ lot
+ of
+ data,
+ we
+ got
+ a
+
+
+lot
+ of
+ money,
+ we
+ got
+ a
+ lot
+ of
+ use
+ cases,
+
+
+and
+ we
+ got
+ access
+ to
+ some
+ of
+ the
+ best
+
+
+talent
+ uh
+ anyone
+ can
+ dream
+ of.
+ Really
+
+
+truly
+ humbled
+ by
+ the
+ people
+ that
+ I
+ get
+
+
+to
+ work
+ with.
+ Um
+ but
+ on
+ the
+ flip
+ side,
+
+
+why
+ is
+ it
+ hard
+ to
+ do
+ Gen
+ AI
+ at
+
+
+Northwestern
+ Mutual?
+ Because
+ it
+ is
+ a
+
+
+very
+ riskaverse
+ company,
+ right?
+ If
+ you
+
+
+think
+ about
+ it,
+ our
+ main
+ motto
+ is
+
+
+generational
+ responsibility.
+ I
+ call
+ it
+
+
+don't
+ f
+ up.
+ Uh
+ because
+ what
+ we
+ end
+
+
+up
+ selling
+ to
+ people
+ is
+ a
+ decadesl
+ long
+
+
+commitment,
+ right?
+ You
+ buy
+ life
+
+
+insurance
+ now.
+ Uh
+ if
+ you
+ stay
+ with
+ us
+
+
+until
+ it
+ comes
+ to
+ term,
+ so
+ to
+ speak,
+
+
+that
+ can
+ be
+ 20,
+ 40,
+ 80
+ years
+ down
+ the
+
+
+line,
+ depending
+ on
+ when
+ you
+ buy
+ it
+ and
+
+
+how
+ long
+ you
+ get
+ to
+ live.
+ And
+ so
+
+
+stability
+ is
+ something
+ that's
+ very
+
+
+important
+ for
+ us
+ because
+ it's
+ important
+
+
+for
+ our
+ clients.
+ So
+ how
+ do
+ we
+ balance
+
+
+stability
+ with
+ innovation?
+ That's
+ what
+ I
+
+
+want
+ to
+ talk
+ about
+ today.
+ Um
+ and
+ really
+
+
+the
+ four
+ main
+ challenges
+ that
+ we
+ had
+
+
+when
+ we
+ even
+ came
+ up
+ with
+ the
+ idea
+ kind
+
+
+of
+ a
+ pie
+ in
+ the
+ sky
+ Genbi
+ concept.
+ Uh
+
+
+[snorts]
+ first
+ of
+ all,
+ no
+ one's
+ done
+ it
+
+
+before,
+ right?
+ Truly,
+ no
+ one's
+ done
+
+
+Genbi
+ in
+ this
+ fashion
+ in
+ the
+ past.
+ Uh
+
+
+secondly,
+ and
+ this
+ was
+ really
+ a
+
+
+preference
+ for
+ us.
+ We
+ wanted
+ to
+ use
+
+
+actual
+ data
+ that's
+ messy
+ because
+ we
+ knew
+
+
+that
+ those
+ were
+ that's
+ where
+ the
+ real
+
+
+challenges
+ are
+ going
+ to
+ be,
+ right?
+
+
+Understanding
+ actual
+ messy
+ data
+ for
+ 160y
+
+
+old
+ company
+ and
+ how
+ can
+ we
+ perform
+ well
+
+
+within
+ that
+ ecosystem.
+ Um
+ the
+ third
+ was
+
+
+kind
+ of
+ a
+ blind
+ trust
+ bias.
+ So
+ um
+ the
+ bi
+
+
+the
+ trust
+ that
+ we
+ had
+ to
+ build
+ was
+ both
+
+
+with
+ the
+ users
+ but
+ also
+ with
+ the
+
+
+leadership
+ of
+ the
+ company
+ right
+ how
+ can
+
+
+we
+ bring
+ accurate
+ information
+ accurate
+
+
+answers
+ to
+ people
+ when
+ uh
+ all
+ of
+ these
+
+
+things
+ that
+ we
+ know
+ about
+ and
+ everyone's
+
+
+talked
+ about
+ is
+ is
+ just
+ out
+ there
+ right
+
+
+no
+ one's
+ blind
+ to
+ the
+ trust
+ barriers
+ no
+
+
+one's
+ blind
+ to
+ the
+ accuracy
+ barriers
+ so
+
+
+how
+ do
+ we
+ convince
+ that
+ this
+ is
+ actually
+
+
+something
+ that
+ we
+ can
+ trust
+ in
+ the
+
+
+company
+ and
+ lastly
+
+
+Um
+ but
+ really
+ firstly
+ when
+ we
+ go
+ to
+
+
+approach
+ this
+ from
+ an
+ enterprise
+
+
+perspective
+ [snorts]
+ budget
+ the
+ impact
+
+
+right
+ how
+ do
+ we
+ convince
+ someone
+ in
+ a
+
+
+leadership
+ uh
+ organization
+ where
+ risk
+
+
+aversement
+ is
+ ingrained
+ in
+ the
+ DNA
+ to
+
+
+even
+ invest
+ in
+ something
+ like
+ this
+ that
+
+
+no
+ one's
+ done
+ before
+ we
+ don't
+ really
+
+
+know
+ how
+ we
+ would
+ do
+ it
+ uh
+ we're
+ not
+
+
+even
+ sure
+ how
+ it
+ would
+ look
+ like
+ when
+ it
+
+
+comes
+ to
+ turn
+
+
+uh
+ so
+ I'll
+ start
+ kind
+ of
+ one
+ by
+ one
+ uh
+
+
+and
+ first
+ of
+ all
+ really
+ talk
+ about
+ why
+
+
+we
+ chose
+ to
+ use
+ actual
+ data
+ uh
+ and
+ not
+
+
+synthesized
+ data
+ or
+ cleanse
+ data.
+
+
+>> [snorts]
+
+
+>> Uh
+ so
+ really
+ it's
+ about
+ making
+ sure
+ that
+
+
+we
+ understand
+ the
+ actual
+ complexities
+
+
+that
+ we
+ will
+ have
+ to
+ face
+ when
+ we
+
+
+eventually
+ want
+ to
+ go
+ to
+ production
+
+
+right
+ we
+ know
+ that
+ you
+ know
+ building
+ uh
+
+
+PC's
+ and
+ demos
+ is
+ so
+ easy
+ but
+ the
+ gap
+
+
+from
+ PC
+ to
+ production
+ is
+ so
+ broad
+ uh
+
+
+especially
+ in
+ this
+ gen
+ AI
+ space
+
+
+especially
+ because
+ we
+ don't
+ know
+ upfront
+
+
+how
+ to
+ design
+ the
+ system
+ what
+ we
+ would
+
+
+expect
+ it
+ to
+ behave
+ like
+ so
+ making
+ sure
+
+
+that
+ we
+ operate
+ with
+ real
+ data
+ just
+ gave
+
+
+us
+ that
+ extra
+ confidence
+ that
+ when
+
+
+something
+ works
+ in
+ the
+ lab
+ it's
+ very
+
+
+likely
+ to
+ also
+ work
+ in
+ reality.
+ Uh
+ but
+
+
+also
+ and
+ maybe
+ not
+ uh
+ in
+ the
+ least
+ less
+
+
+important
+ is
+ that
+ we
+ got
+ to
+ work
+ with
+
+
+actual
+ people
+ who
+ work
+ with
+ the
+ data
+ day
+
+
+in
+ and
+ day
+ out
+ and
+ that
+ gave
+ us
+ two
+
+
+things.
+ Okay,
+ first
+ of
+ all
+ subject
+
+
+matter
+ expertise
+ which
+ are
+ super
+
+
+critical
+ for
+ us
+ to
+ be
+ able
+ to
+ validate
+
+
+that
+ the
+ system
+ is
+ actually
+ working
+ gave
+
+
+us
+ a
+ lot
+ of
+ real
+ life
+ examples
+ of
+ what
+
+
+people
+ are
+ actually
+ asking
+ in
+ a
+
+
+corporate
+ and
+ what
+ people
+ have
+ answered
+
+
+to
+ them.
+ So
+ basically
+ the
+ eval
+ right
+ and
+
+
+all
+ the
+ testing
+ and
+ stuff.
+ Uh
+ but
+ at
+ the
+
+
+end
+ of
+ the
+ day
+ it
+ also
+ brought
+ the
+
+
+business
+ to
+ be
+ a
+ part
+ of
+ the
+ research
+
+
+project
+ itself
+ and
+ they
+ became
+ kind
+ of
+
+
+bought
+ into
+ the
+ idea
+ as
+ part
+ of
+ the
+
+
+process.
+ So
+ we
+ didn't
+ just
+ test
+
+
+something
+ in
+ the
+ lab
+ and
+ then
+ had
+ to
+
+
+convince
+ someone
+ to
+ go
+ ahead
+ and
+ use
+ it.
+
+
+The
+ end
+ users
+ were
+ part
+ of
+ the
+ research
+
+
+process
+ itself.
+ And
+ so
+ when
+ eventually
+
+
+it
+ matured
+ enough
+ so
+ we
+ can
+ take
+ some
+ of
+
+
+that
+ to
+ production,
+ they
+ were
+ already
+
+
+there
+ and
+ they
+ actually
+ were
+ pulling
+
+
+that.
+ They
+ told
+ us
+ we
+ want
+ to
+ take
+ this,
+
+
+how
+ can
+ we
+ wrap
+ it,
+ how
+ can
+ we
+ package
+
+
+it
+ uh
+ quickly
+ enough
+ so
+ we
+ can
+ put
+ it
+
+
+into
+ practice.
+
+
+Uh
+ and
+ the
+ next
+ part
+ was
+ really
+ about
+
+
+building
+ trust.
+ Uh
+ so
+ this
+ is
+ about
+
+
+building
+ trust
+ first
+ of
+ all
+ with
+ our
+
+
+management
+ team.
+ All
+ right.
+ Now,
+ I
+ don't
+
+
+know
+ about
+ you,
+ but
+ last
+ time
+ that
+ I
+ got
+
+
+a
+ million
+ dollar
+ to
+ do
+ a
+ research
+
+
+project
+ that
+ I
+ wanted
+ in
+ a
+ pie
+ sky
+ idea.
+
+
+I
+ woke
+ up
+ from
+ the
+ dream
+ and
+ I
+ realized
+
+
+that
+ this
+ is
+ not
+ how
+ things
+ work
+ in
+
+
+reality.
+ You
+ don't
+ just
+ get
+ a
+ million
+
+
+dollars
+ and
+ go
+ ahead
+ and
+ try
+ something
+
+
+out.
+ Uh,
+ you
+ had
+ to
+ show
+ that
+ you
+ know
+
+
+what
+ you're
+ doing.
+ And
+ part
+ of
+ what
+ we
+
+
+did,
+ it's
+ kind
+ of
+ listed
+ out
+ here,
+ but
+
+
+obviously,
+ you
+ know,
+ we
+ did
+ all
+ the
+
+
+regular
+ stuff,
+ right?
+ We
+ worked
+ in
+ a
+
+
+sandbox
+ environment.
+ We
+ made
+ sure
+ that
+
+
+we're
+ not
+ using
+ actual
+ client
+ data.
+ We
+
+
+made
+ sure
+ to
+ put
+ in
+ all
+ the
+ security
+
+
+risk
+ aside.
+ But
+ uh
+ one
+ of
+ the
+ first
+
+
+approaches
+ that
+ we
+ said
+ we're
+ going
+ to
+
+
+take
+ is
+ we're
+ not
+ just
+ going
+ to
+ build
+ a
+
+
+tool
+ that's
+ going
+ to
+ be
+ uh
+ released
+ to
+
+
+everyone,
+ right?
+ We
+ understood
+ very
+
+
+quickly
+ that
+ um
+ how
+ people
+ interact
+ with
+
+
+the
+ tool,
+ their
+ ability
+ to
+ verify
+ that
+
+
+what
+ they're
+ getting
+ is
+ right
+ and
+ also
+
+
+give
+ us
+ feedback
+ changes
+ dramatically
+
+
+depending
+ on
+ their
+ expertise
+ and
+
+
+understanding
+ of
+ the
+ data.
+ So
+ we
+ took
+
+
+that
+ crawl,
+ walk,
+ run
+ approach
+ that
+
+
+basically
+ said
+ we're
+ first
+ going
+ to
+
+
+release
+ it
+ to
+ actual
+ BI
+ experts,
+ right?
+
+
+people
+ that
+ would
+ be
+ able
+ to
+ do
+ it
+ on
+
+
+their
+ own
+ and
+ know
+ what
+ good
+ looks
+ like
+
+
+when
+ they
+ get
+ it.
+ And
+ we're
+ just
+ going
+
+
+to
+ expedite
+ the
+ process
+ for
+ them
+ kind
+ of
+
+
+like
+ a
+ GitHub
+ co-pilot.
+ The
+ next
+ phase
+
+
+would
+ be
+ to
+ bring
+ it
+ to
+ business
+
+
+managers
+ and
+ again
+ people
+ who
+ are
+ closer
+
+
+to
+ the
+ BI
+ team,
+ but
+ when
+ they
+ see
+ a
+
+
+mistake,
+ they
+ can
+ pretty
+ much
+ figure
+ out
+
+
+that
+ what
+ they're
+ seeing
+ is
+ wrong
+
+
+because
+ they're
+ used
+ to
+ seeing
+ that
+ on
+
+
+day-to-day
+ basis.
+ um
+ and
+ they
+ will
+ might
+
+
+be
+ less
+ sensitive
+ to
+ these
+ types
+ of
+
+
+mistakes
+ and
+ be
+ more
+ inclined
+ to
+ give
+ us
+
+
+that
+ feedback
+ instead
+ of
+ just,
+ you
+ know,
+
+
+dumping
+ it
+ aside
+ and
+ never
+ using
+ it
+
+
+again.
+ Giving
+ this
+ type
+ of
+ tool
+ to
+
+
+executives
+ in
+ the
+ company,
+ I
+ don't
+ even
+
+
+know
+ when
+ we're
+ going
+ to
+ get
+ there,
+
+
+right?
+ Like
+ an
+ executive,
+ they
+ want
+
+
+clear,
+ concise
+ answers
+ that
+ they
+ know
+
+
+they
+ can
+ trust.
+ We're
+ definitely
+ not
+
+
+there
+ yet.
+ I
+ think
+ that's
+ the
+ vision
+ uh
+
+
+at
+ some
+ point
+ in
+ time,
+ but
+ the
+ system
+ is
+
+
+not
+ accurate
+ enough
+ for
+ us
+ to
+ get
+ there.
+
+
+Maybe
+ it
+ never
+ will
+ be.
+
+
+>> [snorts]
+
+
+>> Um,
+ another
+ way
+ that
+ we
+ another
+ liver
+
+
+that
+ we
+ kind
+ of
+ used
+ to
+ build
+ inherent
+
+
+transit
+ the
+ system
+ is
+ that
+ we
+ said,
+
+
+well,
+ in
+ the
+ get-go,
+ we're
+ not
+ going
+ to
+
+
+even
+ try
+ to
+ build
+ SQLs,
+ right?
+ This
+ is
+
+
+very
+ complex.
+ This
+ is
+ very
+ hard
+ even
+ for
+
+
+a
+ person.
+ So,
+ we
+ said
+ step
+ number
+ one,
+
+
+let's
+ just
+ bring
+ information
+ that
+ is
+
+
+already
+ in
+ the
+ ecosystem
+ that's
+ already
+
+
+verified,
+ right?
+ We
+ have
+ a
+ lot
+ of
+ uh
+
+
+certified
+ reports
+ and
+ dashboards.
+ Um
+ and
+
+
+actually
+ in
+ the
+ conversations
+ we
+ had
+
+
+with
+ some
+ of
+ the
+ BI
+ teams
+ that
+ we
+ worked
+
+
+with,
+ they
+ told
+ us
+ guys
+ like
+ 80%
+ of
+ the
+
+
+work
+ that
+ we
+ do
+ is
+ basically
+ sending
+
+
+people
+ to
+ the
+ right
+ report
+ and
+ helping
+
+
+them
+ figure
+ out
+ how
+ to
+ use
+ it.
+ So
+ the
+
+
+report
+ is
+ already
+ there.
+ Um
+ and
+ that
+
+
+again
+ built
+ some
+ inherent
+ trust
+ into
+ how
+
+
+we
+ architected
+ the
+ system
+ because
+ we
+
+
+said
+ we're
+ not
+ going
+ to
+ make
+ up
+
+
+information.
+ we're
+ just
+ going
+ to
+ deliver
+
+
+you
+ the
+ same
+ asset
+ that
+ you
+ would
+ have
+
+
+gotten
+ anyway
+ just
+ in
+ a
+ much
+ faster
+ much
+
+
+more
+ interactive
+ way.
+ Uh
+ and
+ that
+ was
+
+
+the
+ alignment
+ of
+ expectations
+ that
+ we
+
+
+did
+ very
+ upfront
+ with
+ the
+ uh
+ users
+ and
+
+
+also
+ with
+ the
+ management
+ team.
+
+
+Now
+ [clears throat]
+
+
+the
+ biggest
+ um
+
+
+process
+ or
+ kind
+ of
+ the
+ most
+ important
+
+
+approach
+ that
+ we
+ took
+ when
+ uh
+
+
+approaching
+ our
+ leadership
+ team
+ and
+
+
+convincing
+ them
+ that
+ we
+ want
+ to
+ do
+ this
+
+
+was
+ to
+ create
+ a
+ very
+ gradual
+ incremental
+
+
+process
+ that
+ gave
+ them
+ a
+ lot
+ of
+
+
+visibility
+ and
+ control.
+ Uh
+ and
+ it
+ was
+
+
+very
+ important
+ for
+ us
+ to
+ build
+
+
+incremental
+ deliveries
+ throughout
+ that
+
+
+process
+ so
+ that
+ [snorts]
+ uh
+ not
+ only
+ did
+
+
+they
+ have
+ the
+ the
+ visibility
+ into
+ what
+
+
+are
+ we
+ funding
+ now,
+ what
+ do
+ we
+ get
+ out
+
+
+of
+ it,
+ they
+ actually
+ had
+ business
+
+
+deliverables
+ they
+ could
+ realize
+
+
+potential
+ from
+ throughout
+ the
+ process
+
+
+and
+ at
+ any
+ point
+ in
+ time
+ they
+ could
+ pull
+
+
+the
+ plug
+ right
+ and
+ say
+ okay
+ like
+ it's
+
+
+not
+ working
+ well
+ or
+ we
+ got
+ enough
+ out
+ of
+
+
+it
+ or
+ you
+ know
+ the
+ next
+ phase
+ is
+ so
+ you
+
+
+know
+ unknown
+ and
+ long
+ that
+ we
+ don't
+ want
+
+
+further
+ invest
+ in
+ it.
+ And
+ this
+ is
+ how
+ we
+
+
+basically
+ broke
+ it
+ down.
+ So
+ phase
+ one
+
+
+was
+ just
+ pure
+ research,
+ right?
+ We
+ kind
+
+
+of
+ did
+ the
+ shift
+ from
+ natural
+ language
+
+
+to
+ SQL.
+ We
+ figured
+ out
+ how
+ to
+ write
+
+
+responses.
+ We
+ figure
+ out
+ how
+ to
+
+
+understand
+ questions
+ that
+ coming
+ in.
+
+
+Just
+ kind
+ of
+ setting
+ the
+ stage.
+ [snorts]
+
+
+Phase
+ two
+ was
+ about
+ really
+
+
+understanding,
+ okay,
+ so
+ what
+ does
+ good
+
+
+metadata
+ and
+ good
+ context
+ look
+ like
+ in
+
+
+the
+ perspective
+ of
+ a
+ BI
+ agent,
+ right?
+ It
+
+
+looks
+ very
+ different
+ if
+ you're
+ just
+
+
+chatting
+ with
+ something
+ or
+ if
+ you're
+
+
+trying
+ to
+ do
+ a
+ rag
+ with
+ you
+ know
+
+
+unstructured
+ data
+ like
+ documents
+ and
+ uh
+
+
+business
+ knowledge
+ and
+ stuff
+ like
+ that.
+
+
+And
+ this
+ phase
+ on
+ its
+ own
+ already
+ had
+ uh
+
+
+impact
+ on
+ the
+ business
+ because
+ when
+ we
+
+
+define
+ what
+ good
+ metadata
+ looks
+ like
+ for
+
+
+an
+ an
+ LLM
+ uh
+ we
+ could
+ immediately
+ apply
+
+
+that
+ also
+ to
+ just
+ the
+ ecosystem
+ of
+ data
+
+
+users
+ across
+ the
+ enterprise.
+ Um,
+ and
+ by
+
+
+understanding
+ how
+ to
+ extract
+ LM
+ from
+ the
+
+
+information,
+ we
+ could
+ also
+ how
+ to
+
+
+extract
+ metadata.
+ Sorry,
+ here's
+ where
+
+
+[snorts]
+ the
+ trap
+ door
+ comes
+ into
+ play,
+
+
+right?
+ Um,
+ we
+ could
+ also
+ project
+ that
+ on
+
+
+how
+ or
+ what
+ good
+ metadata
+ looks
+ like
+ for
+
+
+humans
+ interacting
+ with
+ the
+ data.
+ We
+
+
+have
+ another
+ initiative
+ around
+ semantic
+
+
+layer
+ going
+ on
+ which
+ tries
+ to
+ model
+
+
+exactly
+ that
+ and
+ this
+ provided
+ a
+ very
+
+
+valuable
+ input
+ to
+ that
+ initiative
+ as
+
+
+well.
+ But
+ the
+ immediate
+ next
+ step
+ was
+
+
+basically
+ just
+ doing
+ this
+ kind
+ of
+ uh
+
+
+multicontext
+ semantic
+ search,
+ right?
+
+
+People
+ coming
+ in
+ asking
+ different
+
+
+questions
+ and
+ having
+ the
+ system
+ figure
+
+
+out
+ what's
+ the
+ right
+ context,
+ what's
+ the
+
+
+right
+ information
+ we
+ need in
+ uh
+ bring
+
+
+them.
+ And
+ this
+ is
+ something
+ that
+ could
+
+
+already
+ be
+ packaged
+ as
+ its
+ own
+ product
+
+
+and
+ delivered
+ uh
+ and
+ basically
+ just
+ do
+
+
+kind
+ of
+ a
+ data
+ finder
+ and
+ data
+ owner
+
+
+finder
+ which
+ is
+ something
+ that
+ could
+
+
+take
+ anywhere
+ between
+ two
+ to
+ maybe
+ four
+
+
+weeks
+ in
+ an
+ enterprise
+ like
+ Northwestern
+
+
+Mutual
+ just
+ finding
+ what
+ data
+ exists
+ and
+
+
+who
+ owns
+ it
+ so
+ I
+ can
+ start
+ talk
+ uh
+ the
+
+
+conversation
+ with
+ them.
+
+
+Um
+ and
+ the
+ next
+ layer
+ was
+ really
+ about
+
+
+pulling
+ in
+ information
+ and
+ trying
+ to
+ do
+
+
+some
+ light
+ pivoting
+ around
+ the
+ data.
+ Um
+
+
+each
+ one
+ of
+ these
+ steps
+ as
+ you
+ can
+ see
+
+
+also
+ created
+ an
+ input
+ to
+ the
+ to
+ the
+
+
+following
+ step
+ so
+ that
+ the
+ research
+
+
+itself
+ was
+ kind
+ of
+ self
+ u
+
+
+self-propelling
+ and
+ there
+ were
+
+
+incremental
+ outcomes
+ coming
+ out
+ of
+ each
+
+
+one
+ of
+ these
+ phases.
+ Uh
+ the
+ next
+ one
+ is
+
+
+more
+ kind
+ of
+ setting
+ it
+ up
+ for
+
+
+enterprise
+ level
+ usage.
+ So
+ understanding
+
+
+roles
+ of
+ in
+ uh
+ of
+ different
+ users
+ coming
+
+
+in
+ what
+ they
+ may
+ be
+ asking
+ about
+ what
+
+
+type
+ of
+ access
+ we
+ want
+ to
+ give
+ them
+ etc
+
+
+and
+ eventually
+ and
+ this
+ is
+ still
+ some
+
+
+ways
+ to
+ go
+ ahead
+ uh
+ building
+ kind
+ of
+ a
+
+
+fullyfledged
+ NBI
+ agent
+ which
+ doesn't
+
+
+only
+ quote
+ information
+ from
+ existing
+
+
+reports
+ but
+ I
+ can
+ actually
+ run
+ SQL
+
+
+queries
+ on
+ its
+ own
+ uh
+ pull
+ in
+ more
+ data
+
+
+do
+ more
+ sophisticated
+ joints
+ between
+
+
+different
+ data
+ so
+ it
+ can
+ answer
+ more
+
+
+complex
+ questions
+ so
+ that's
+ the
+ road
+ map
+
+
+right
+ that's
+ kind
+ the
+ high
+ level
+ plan.
+
+
+Now,
+ why
+ did
+ that
+ work?
+ Well,
+ kind
+ of
+
+
+quickly
+ summarize
+ them.
+ We
+ talked
+ about
+
+
+uh
+ so
+ we
+ get
+ value
+ uh
+ early
+ and
+ we
+ get
+
+
+value
+ often.
+ Each
+ one
+ of
+ this
+ was
+ a
+ six
+
+
+week
+ sprint
+ at
+ the
+ end
+ of
+ which
+ we
+ had
+
+
+had
+ a
+ very
+ tangible
+ deliverable
+ coming
+
+
+back
+ to
+ the
+ business
+ that
+ we
+ could
+
+
+decide
+ to
+ productize.
+ Uh
+ and
+ at
+ any
+
+
+point
+ in
+ time,
+ we
+ could
+ decide
+ how
+ we
+
+
+want
+ to
+ move
+ forward.
+ There
+ was
+
+
+transparent
+ progress.
+ There
+ was
+
+
+incremental
+ business
+ value.
+ Uh
+ each
+ one
+
+
+of
+ these
+ steps
+ allowed
+ us
+ to
+ learn
+
+
+something
+ that
+ helped
+ feed
+ the
+ next
+
+
+step.
+
+
+And
+ maybe
+ the
+ most
+ important
+ part
+ and
+
+
+that's
+ the
+ bottom
+ line
+ here
+ and
+ that's
+
+
+the
+ part
+ that
+ executives
+ really
+ look
+ at.
+
+
+How
+ do
+ we
+ control
+ the
+ risk
+ in
+ continuing
+
+
+to
+ invest
+ in
+ this
+ type
+ of
+ research
+
+
+project
+ and
+ this
+ is
+ really
+ about
+
+
+eliminating
+ things
+ like
+ sun
+ cost
+ bias,
+
+
+right?
+ We
+ already
+ paid
+ you
+ know
+ you
+ know
+
+
+whatever
+ a
+ million
+ dollar.
+ Let's
+ just
+
+
+get
+ through
+ the
+ project
+ see
+ what
+ we
+ get
+
+
+at
+ the
+ end.
+ This
+ eliminates
+ the
+ uh
+ uh
+
+
+fear
+ of
+ of
+ competitors
+ coming
+ in
+ and
+
+
+maybe
+ we
+ don't
+ need
+ to
+ continue
+
+
+investing
+ in
+ this
+ right
+ so
+ everyone
+ in
+
+
+the
+ industry
+ is
+ researching
+ GenBI
+ and
+
+
+there
+ are
+ solutions
+ like
+ data
+ bricks
+
+
+genie
+ that
+ are
+ coming
+ up
+ and
+ they're
+
+
+getting
+ better
+ and
+ better
+ maybe
+ at
+ some
+
+
+point
+ in
+ time
+ it's
+ better
+ for
+ us
+ as
+ an
+
+
+organization
+ to
+ actually
+ adopt
+ data
+
+
+bricks
+ genie
+ but
+ at
+ that
+ point
+ again
+
+
+first
+ it's
+ much
+ easier
+ for
+ us
+ to
+ pull
+
+
+the
+ plug
+ and
+ the
+ funding
+ but
+ we
+ already
+
+
+have
+ a
+ good
+ understanding
+ of
+ what
+ good
+
+
+looks
+ like
+ we
+ have
+ benchmarks
+ that
+ we
+
+
+used
+ for
+ ourselves
+ when
+ testing
+ our
+ own
+
+
+system
+ that
+ we
+ can
+ test
+ a
+ third
+ party
+
+
+solution
+ with.
+ And
+ we
+ know
+ what
+ to
+
+
+expect,
+ right?
+ We
+ know
+ what
+ works,
+ we
+
+
+know
+ what
+ doesn't.
+ We
+ know
+ what
+ a
+ kind
+
+
+of
+ fluffy
+ demo
+ from
+ a
+ vendor
+ would
+ look
+
+
+like.
+ And
+ we
+ know
+ where
+ to
+ drill
+ in
+ to
+
+
+ask
+ the
+ tough
+ questions.
+
+
+So
+ let's
+ see
+ kind
+ of
+ what
+ it
+ looks
+ like
+
+
+under
+ the
+ hood
+ and
+ how
+ we
+ productize
+
+
+different
+ elements
+ uh
+ of
+ this
+
+
+architecture.
+ Uh
+ and
+ maybe
+ kind
+ of
+ very
+
+
+quickly,
+ why
+ can't
+ we
+ just
+ do
+ it
+ with
+ uh
+
+
+chat
+ GPT?
+ So
+ you
+ [snorts]
+ know
+ just
+
+
+dumping
+ a
+ schema
+ into
+ chachpp
+ doesn't
+
+
+work.
+ Usually
+ schemas
+ are
+ very
+ messy.
+
+
+It's
+ not
+ uh
+ easy
+ to
+ understand
+ the
+
+
+context
+ and
+ the
+ meaning
+ of
+ things.
+
+
+[snorts]
+ Uh
+ and
+ eventually
+ governance
+ is
+
+
+super
+ important.
+ So
+ there
+ was
+ a
+ lot
+ of
+
+
+governance
+ built
+ into
+ the
+ architecture
+
+
+that
+ was
+ very
+ hard
+ to
+ apply
+ on
+ chpd
+ from
+
+
+the
+ outside
+ but
+ even
+ solutions
+ like
+ you
+
+
+know
+ data
+ bricks
+ genius
+ third
+ party
+ much
+
+
+harder
+ to
+ govern
+ from
+ the
+ outside
+ than
+
+
+from
+ the
+ inside.
+ But
+ still
+ TBD.
+
+
+Uh
+ so
+ the
+ stack
+ kind
+ of
+ looks
+ like
+ this.
+
+
+Uh
+ we
+ have
+ a
+ data
+ and
+ metadata
+ layer
+
+
+that
+ we
+ produced.
+ We
+ have
+ four
+ different
+
+
+agents
+ that
+ are
+ running
+ across
+ the
+
+
+pipeline.
+ A
+ metadata
+ agent
+ that
+
+
+understands
+ the
+ context.
+ A
+ rag
+ agent
+
+
+that
+ finds
+ the
+ different
+ reports.
+ An
+ SQL
+
+
+agent
+ that
+ can
+ pull
+ more
+ data
+ if
+ we
+ need
+
+
+that.
+ And
+ then
+ eventually
+ what
+ we
+ call
+ a
+
+
+BI
+ agent
+ that
+ takes
+ all
+ that
+ information
+
+
+and
+ delivers
+ an
+ answer
+ to
+ the
+ question
+
+
+that
+ was
+ asked.
+ On
+ top
+ of
+ that,
+ we
+ slap
+
+
+governance
+ and
+ trust
+ and
+ orchestration
+
+
+and
+ eventually
+ some
+ kind
+ of a
+ contextual
+
+
+UI.
+ Um
+ and
+ this
+ is
+ how
+ the
+ flow
+ goes.
+ So
+
+
+when
+ a
+ business
+ question
+ comes
+ in
+ we
+ uh
+
+
+push
+ it
+ into
+ the
+ orchestrator
+ and
+
+
+basically
+ decides
+ how
+ to
+ facilitate
+ the
+
+
+process.
+ The
+ first
+ thing
+ that
+ we
+ do
+ is
+
+
+understanding
+ the
+ context.
+ So
+ that's
+
+
+where
+ that
+ metadata
+ agent
+ comes
+ in
+ works
+
+
+with
+ the
+ catalog
+ works
+ with
+ all
+ the
+
+
+documentation
+ that
+ we
+ have
+ across
+ the
+
+
+system
+ to
+ understand
+ what
+ we're
+ being
+
+
+asked
+ about
+ and
+ what's
+ the
+ relevant
+
+
+information
+ to
+ share.
+ Then
+ we
+ go
+ to
+ the
+
+
+rag
+ agent
+ which
+ tries
+ to
+ find
+ an
+
+
+existing
+ report
+ again
+ out
+ of
+ a
+ list
+ of
+
+
+certified
+ reports
+ that
+ we
+ know
+ are
+
+
+allowed
+ for
+ people
+ to
+ use
+ and
+ people
+
+
+have
+ spent
+ a
+ lot
+ of
+ time
+ fine-tuning
+
+
+them
+ and
+ making
+ them
+ as
+ accurate
+ as
+
+
+possible.
+
+
+If
+ we
+ can't
+ find
+ the
+ report
+ or
+ if
+ it's
+
+
+not
+ exactly
+ what
+ we
+ need
+ to
+ um
+ to
+ use,
+
+
+that's
+ where
+ we
+ go
+ to
+ the
+ SQL
+ agent
+ that
+
+
+basically
+ tries
+ to
+ create
+ a
+ more
+ um
+
+
+exact
+ query
+ or
+ a
+ more
+ elaborate
+ query.
+
+
+And
+ even
+ if
+ the
+ report
+ that
+ we
+ have
+ is
+
+
+not
+ usable
+ as
+ is,
+ it
+ gives
+ us
+ that
+
+
+initial
+ seed
+ of
+ a
+ query
+ that
+ we
+ can
+ then
+
+
+expand
+ on
+ rather
+ than
+ having
+ to
+ build
+
+
+one
+ from
+ scratch.
+ So
+ it's
+ kind
+ of
+ like
+ a
+
+
+fewot
+ uh
+ example,
+ but
+ in
+ this
+ case
+ the
+
+
+example
+ that
+ we
+ give
+ is
+ very
+ very
+ close
+
+
+to
+ the
+ actual
+ result
+ that
+ we're
+
+
+expecting
+ to
+ get.
+ We
+ then
+ execute
+ it
+
+
+against
+ the
+ database
+ pull
+ and
+ push
+ it
+
+
+into
+ the
+ BI
+ agent
+ which
+ gen
+ with
+ which
+
+
+gen
+ uh
+ translate
+ that
+ to
+ a
+ business
+
+
+answer
+ and
+ not
+ just
+ dumping
+ data
+ back
+ on
+
+
+the
+ user
+ and
+ this
+ is
+ what
+ goes
+ into
+ the
+
+
+final
+ answer.
+ Now
+ there's
+ obviously
+ some
+
+
+kind
+ of
+ a
+ loop
+ that
+ says
+ if
+ I'm
+ in
+ the
+
+
+same
+ conversation
+ I'm
+ probably
+ talking
+
+
+about
+ the
+ same
+ data
+ so
+ we
+ don't
+ have
+ to
+
+
+talk
+ about
+ this
+ or
+ do
+ this
+ again
+ and
+
+
+again.
+ Now
+
+
+each
+ one
+ of
+ these
+ three
+ components,
+ each
+
+
+one
+ of
+ these
+ three
+ agents
+ can
+ be
+
+
+packaged
+ as
+ its
+ own
+ product
+ and
+
+
+delivered
+ to
+ production
+ with
+ a
+ very
+
+
+tangible
+ and
+ actual
+ impact
+ on
+ business
+
+
+metrics.
+ Okay.
+ And
+ that's
+ the
+ kind
+ of
+
+
+beauty
+ of
+ this
+ uh
+ approach
+ that
+ after
+ we
+
+
+productize
+ each
+ one
+ of
+ these,
+ we
+ could
+
+
+have
+ basically
+ said
+ stop
+ or
+ let's
+ move
+
+
+forward.
+
+
+uh
+ and
+ just
+ some
+ giving
+ bottom
+ line
+
+
+numbers
+ around
+ some
+ of
+ these.
+ So
+ just
+
+
+the
+ rag
+ agent
+ that
+ pulls
+ the
+ right
+
+
+report
+ uh
+ allowed
+ us
+ to
+ take
+ about
+ 20%
+
+
+of
+ the
+ overall
+ capacity
+ of
+ the
+ BI
+ team
+
+
+that
+ basically
+ said
+ uh
+ all
+ we
+ do
+ is
+ just
+
+
+share
+ the
+ right
+ report
+ with
+ the
+ right
+
+
+person.
+ So
+ we
+ were
+ able
+ to
+ automate
+
+
+around
+ 80%
+ out
+ of
+ those
+ uh
+ 20%
+ and
+ we're
+
+
+talking
+ about
+ a
+ team
+ of
+ 10
+ people.
+ So
+
+
+roughly
+ two
+ people
+ full-time
+ job
+ all
+
+
+they
+ do
+ is
+ find
+ the
+ right
+ report
+ and
+
+
+send
+ it
+ to
+ the
+ right
+ person.
+
+
+uh
+ the
+ metadata
+ understandings
+ that
+ we
+
+
+got
+ from
+ learning
+ how
+ to
+ interact
+ with
+
+
+the
+ data
+ through
+ an
+ LLM
+ allowed
+ us
+ to
+
+
+run
+ AB
+ test
+ in
+ a
+ in
+ the
+ semantic
+ layer
+
+
+project
+ that
+ we
+ did
+ and
+ that
+ allowed
+ us
+
+
+to
+ prove
+ back
+ again
+ to
+ the
+ senior
+
+
+leadership
+ in
+ the
+ company
+ that
+ there
+ is
+
+
+value
+ and
+ tangible
+ value
+ measurable
+
+
+value
+ in
+ enriching
+ metadata.
+ And
+ we
+ did
+
+
+that
+ basically
+ by
+ running
+ uh
+ a
+ a
+ battery
+
+
+of
+ questions
+ um
+ against
+ a
+ database
+ that
+
+
+had
+ good
+ metadata
+ and
+ one
+ that
+ didn't
+
+
+have
+ good
+ metadata.
+ And
+ we
+ show
+ how
+ much
+
+
+better
+ an
+ LLM
+ performs
+ when
+ having
+ the
+
+
+right
+ metadata
+ in
+ place.
+ So
+ basically
+
+
+proving
+ the
+ value
+ of
+ something
+ that
+ can
+
+
+be
+ very
+ fluffy
+ like
+ hey
+ let's
+ bring
+ in
+
+
+more
+ documentation
+ into
+ the
+ code.
+ Uh
+
+
+right
+ now
+ we're
+ experimenting
+ with
+ the
+
+
+data
+ pivoting
+ bot.
+ Uh
+ so
+ once
+ you
+ have
+ a
+
+
+dashboard
+ or
+ a
+ report
+ be
+ able
+ to
+ change
+
+
+the
+ time
+ horizon
+ some
+ of
+ the
+ views
+ some
+
+
+of
+ the
+ segmentations
+ and
+ the
+ groupings
+
+
+of
+ the
+ data
+ again
+ kind
+ of
+ real
+ time
+
+
+without
+ having
+ a
+ person
+ do
+ that
+ for
+ uh
+ a
+
+
+business
+ stakeholder
+ and
+ some
+ of
+ the
+
+
+next
+ steps
+ is
+ really
+ evaluating
+ the
+
+
+tools
+ that
+ are
+ out
+ there
+ for
+ uh
+ Genbi
+
+
+like
+ data
+ bricks
+ genie
+ for
+ example
+ and
+
+
+we're
+ going
+ to
+ go
+ into
+ a
+ much
+ more
+
+
+rigorous
+ process
+ of
+ enriching
+ our
+
+
+catalog
+ with
+ metadata
+ and
+ documentation
+
+
+and
+ that's
+ also
+ going
+ to
+ come
+ out
+ of
+ a
+
+
+lot
+ of
+ the
+ learnings
+ that
+ we
+ got
+ from
+ uh
+
+
+the
+ research
+ that
+ we've
+ done.
+ So
+ even
+ if
+
+
+we
+ don't
+ end
+ up
+ writing
+ a
+ GenBI
+ agent
+
+
+full-fledged
+ end
+ to
+ end,
+ we
+ already
+ got
+
+
+a
+ lot
+ of
+ value
+ back
+ from
+ this
+ and
+ this
+
+
+is
+ really
+ what
+ allowed
+ our
+ senior
+
+
+leadership
+ team
+ to
+ continuously
+ invest
+
+
+in
+ this
+ project
+ quarter
+ over
+ quarter.
+
+
+One
+ thing
+ that
+ I
+ want
+ to
+ wrap
+ up
+ with
+ is
+
+
+just
+ a
+ couple
+ of
+ thoughts
+ I
+ had
+ about
+
+
+the
+ future.
+ So
+ um
+ I
+ think
+ we
+ talk
+ a
+ lot
+
+
+about
+ how
+ to
+ prepare
+ data.
+ I
+ think
+
+
+that's
+ going
+ to
+ be
+ a
+ huge
+ area
+ in
+ the
+
+
+market
+ and
+ they're
+ going
+ to
+ be
+ probably
+
+
+a
+ lot
+ of
+ companies
+ and
+ tools
+ that
+ are
+
+
+going
+ to
+ help
+ us
+ with
+ that.
+ Uh
+ building
+
+
+very
+ specific
+ task
+ specific
+ models
+ and
+
+
+applications.
+ I
+ think
+ a
+ lot
+ of
+ startups
+
+
+and
+ companies
+ are
+ going
+ to
+ come
+ up
+ from
+
+
+that
+ area.
+ Uh
+ co-pilot
+ is
+ really
+ making
+
+
+sure
+ that
+ we
+ meet
+ the
+ users
+ where
+ they
+
+
+are.
+ Uh
+ and
+ securing
+ of
+ models
+ obviously
+
+
+a
+ very
+ big
+ thing.
+ The
+ last
+ thing
+ is
+ the
+
+
+one
+ I
+ the
+ the
+ one
+ I
+ want
+ to
+ focus
+ on
+ the
+
+
+most
+ because
+ that's
+ kind
+ of
+ a
+ recent
+
+
+thought
+ that
+ came
+ to
+ me
+ a
+ couple
+ of
+
+
+weeks
+ ago.
+ How
+ we
+ do
+ pricing
+ of
+ SAS
+ in
+
+
+the
+ Gen
+ AI
+ era.
+ Uh
+ this
+ is
+ really
+ about
+
+
+the
+ fact
+ that
+ one
+ individual
+ person
+
+
+today
+ can
+ be
+ 10x
+ more
+ effective
+ uh
+ than
+
+
+they
+ used
+ to
+ be
+ in
+ the
+ past.
+ And
+ then
+ do
+
+
+we
+ price
+ uh
+ software
+ based
+ on
+ seats
+ or
+
+
+do
+ we
+ price
+ software
+ based
+ on
+ how
+ much
+
+
+they
+ used
+ it
+ or
+ do
+ we
+ price
+ software
+
+
+based
+ on
+ the
+ value
+ that
+ they
+ got
+ out
+ of
+
+
+it?
+ Uh
+ Salesforce
+ is
+ already
+
+
+experimenting
+ with
+ that.
+ So
+ that
+ the
+
+
+data
+ cloud
+ product
+ at
+ Salesforce
+ is
+
+
+starting
+ to
+ be
+ uh
+ usage
+ priced
+ and
+ not
+
+
+seats
+ priced.
+ And
+ I
+ think
+ this
+ is
+ going
+
+
+to
+ have
+ a
+ big
+ impact
+ on
+ just
+ the
+ uh
+ kind
+
+
+of
+ SAS
+ economics
+ worldwide.
+
+
+uh
+ and
+ it
+ it
+ doesn't
+ even
+ matter
+ if
+ the
+
+
+product
+ itself
+ is
+ genai.
+ It's
+ really
+
+
+about
+ what
+ does
+ the
+ person
+ using
+ the
+
+
+product
+ can
+ do
+ and
+ what
+ can
+ they
+ do
+ in
+
+
+their
+ other
+ time
+ uh
+ and
+ whether
+ it
+ still
+
+
+makes
+ sense
+ to
+ price
+ it
+ by
+ how
+ many
+
+
+employees
+ you
+ have
+ or
+ how
+ much
+ work
+ you
+
+
+get
+ done
+ with
+ the
+ employees
+ that
+ you
+
+
+have.
+
+
+That
+ is
+ me
+ and
+ thank
+ you
+ very
+ much
+ for
+
+
+listening
+ and
+ thanks
+ for
+ not
+ opening
+ the
+
+
+door
+ on
+ me.
+
+
+>> [music]
+
+
+[music]
+
+
+>> Heat.
