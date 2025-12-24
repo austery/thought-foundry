@@ -321,12 +321,14 @@
                 "拼多多": "Pinduoduo",
                 "PDD": "Pinduoduo",
                 "TSMC": "TSMC",
-                "台积电": "TSMC"
+                "台积电": "TSMC",
+                "Youtube": "YouTube",
+                "Twitter": "Twitter",
+                "X.com": "Twitter",
+                "X": "Twitter"
             },
             "media_books": {
-                "Youtube": "YouTube",
-                "Twitter": "X",
-                "X.com": "X"
+
             }
         }
     }
