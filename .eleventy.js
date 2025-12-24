@@ -171,7 +171,7 @@ module.exports = async function (eleventyConfig) {
 
   // [PHASE 3 OPTIMIZATION] Slug lookup helpers that return pre-computed slugs
   // These avoid calling | slug filter in templates by looking up pre-computed values
-  
+
   eleventyConfig.addFilter("getSpeakerSlug", function (speakerName, collections) {
     if (!collections || !collections.speakerList) return eleventyConfig.getFilter("slug")(speakerName);
     const uniqueKey = eleventyConfig.getFilter("getSpeakerUniqueKey")(speakerName, collections);
@@ -402,8 +402,7 @@ module.exports = async function (eleventyConfig) {
           );
           tags.forEach((tagData) => {
             console.error(
-              `  - Tag: "${
-                tagData.name
+              `  - Tag: "${tagData.name
               }" is found in file(s): ${tagData.sources.join(", ")}`
             );
           });
@@ -509,8 +508,7 @@ module.exports = async function (eleventyConfig) {
           );
           speakers.forEach((speakerData, index) => {
             console.error(
-              `  - Speaker: "${
-                speakerData.name
+              `  - Speaker: "${speakerData.name
               }" is found in file(s): ${Array.from(speakerData.sources).join(
                 ", "
               )}`
@@ -883,8 +881,7 @@ module.exports = async function (eleventyConfig) {
           );
           companies.forEach((companyData, index) => {
             console.error(
-              `  - Company: "${
-                companyData.name
+              `  - Company: "${companyData.name
               }" is found in file(s): ${Array.from(companyData.sources).join(
                 ", "
               )}`
@@ -928,6 +925,10 @@ module.exports = async function (eleventyConfig) {
         Array.isArray(item.data.products_models)
       ) {
         item.data.products_models.forEach((product) => {
+          if (typeof product !== 'string') {
+            console.error(`[DATA ERROR] File: ${item.inputPath} - Invalid product tag:`, product);
+            return;
+          }
           const productName = product.trim();
           if (productName !== "") {
             // 使用规范化的key代替简单的toLowerCase
@@ -984,8 +985,7 @@ module.exports = async function (eleventyConfig) {
           );
           products.forEach((productData, index) => {
             console.error(
-              `  - Product: "${
-                productData.name
+              `  - Product: "${productData.name
               }" is found in file(s): ${Array.from(productData.sources).join(
                 ", "
               )}`
