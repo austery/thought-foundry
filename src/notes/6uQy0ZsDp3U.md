@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 粉红帮
 - 美国社会学会
-- 法律与社会学会
-- 印度卫生与家庭福利部
 - 世界银行
 - NGO
 date: '2023-05-15'

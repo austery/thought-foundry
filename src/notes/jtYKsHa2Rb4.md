@@ -16,8 +16,6 @@ media_books:
 - The Bonfire Moment
 products_models:
 - Google Maps
-- Waze
-- Large Language Model
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -2,9 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- Proper Television
 - TVO Today
-- The Thai
 date: '2025-12-12'
 draft: true
 guest: ''

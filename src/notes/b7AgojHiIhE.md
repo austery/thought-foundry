@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Buurtzorg
 date: '2022-06-28'
 draft: true
 guest: ''

@@ -2,8 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Weka
-- Manis
 - Anthropic
 date: '2025-11-24'
 draft: true
@@ -13,7 +11,6 @@ layout: post.njk
 media_books:
 - Context Engineering blog
 products_models:
-- Claw Code
 - Codex
 project:
 - ai-impact-analysis

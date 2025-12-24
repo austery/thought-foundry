@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 海口市公安局
 - 武汉大学
-- 海南大学
-- 北京人艺
 date: '2024-07-20'
 draft: true
 guest: ''

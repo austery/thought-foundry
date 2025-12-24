@@ -2,11 +2,7 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- TRW
 - Bloomberg Podcasts
-- Compute Exchange
-- Silicon Data
-- Cumberland Crypto
 - Google Cloud
 - CME
 - Nvidia
@@ -24,16 +20,12 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 products_models:
-- Eurodollar option
-- IBC
 - H100
 - A100
 - ChatGPT
 - Bitcoin
-- Canton Blockchain
 - Ethereum
 - Solana
-- Augur
 project:
 - ai-impact-analysis
 - investment-strategy

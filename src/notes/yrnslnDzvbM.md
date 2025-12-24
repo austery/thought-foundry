@@ -23,9 +23,6 @@ companies_orgs:
 - TSMC
 - Figure
 - Perplexity
-- Brookfield Asset Management
-- Skyworks
-- Corvo
 - NFL
 date: '2025-10-28'
 draft: true
@@ -40,13 +37,7 @@ people:
 - Sam Altman
 products_models:
 - ChatGPT
-- SoFi Money
-- Relay
-- SoFi Pay
-- SoFi Plus
-- SoFi Smart Card
 - Azure
-- MI400
 project:
 - investment-strategy
 - us-analysis

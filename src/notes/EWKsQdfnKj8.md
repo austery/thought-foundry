@@ -5,7 +5,6 @@ companies_orgs:
 - OpenAI
 - NVIDIA
 - Waymo
-- Eureka
 date: '2025-10-19'
 draft: true
 guest: ''
@@ -23,7 +22,6 @@ products_models:
 - AlexNet
 - Transformer
 - ChatGPT
-- micrograd
 project:
 - ai-impact-analysis
 series: ''

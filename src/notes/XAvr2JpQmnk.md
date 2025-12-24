@@ -5,8 +5,6 @@ companies:
 - psychobiotic
 companies_orgs:
 - UCLA
-- 阳明大学
-- 交通大学
 date: '2025-11-21'
 draft: true
 guest: ''
@@ -14,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《肠子、大脑、肠道菌群》
-products_models:
-- PS128
 project:
 - personal-growth-lab
 - systems-thinking

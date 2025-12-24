@@ -3,11 +3,9 @@ area: tech-engineering
 category: ai-ml
 companies_orgs:
 - Anthropic
-- Stripe Press
 - DeepMind
 - OpenAI
 - 80,000 Hours
-- Epoch
 date: '2025-03-25'
 draft: true
 guest: ''
@@ -32,10 +30,7 @@ people:
 products_models:
 - AlphaZero
 - Claude
-- Anki
-- GoodReads
 - Substack
-- YouTube Shorts
 - TikTok
 project:
 - ai-impact-analysis

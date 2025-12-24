@@ -38,7 +38,6 @@ products_models:
 - GPT-4
 - Deep Blue
 - Claude
-- 01 model
 project:
 - ai-impact-analysis
 series: ''

@@ -6,14 +6,9 @@ companies_orgs:
 - Apple
 - Meta
 - Google
-- Clue
-- Materna
-- Flow Health
 - NIH
 - TVO Today
-- Wired magazine
 - Amazon
-- South by Southwest
 date: '2025-11-25'
 draft: true
 guest: ''
@@ -24,15 +19,6 @@ media_books:
 - We Need to Talk about Investor's Problem with Vaginus
 people:
 - Nam Kiwanuka
-products_models:
-- speculum
-- dilator
-- smart bra
-- period tracking app
-- tenaculum
-- epidural
-- abortion medication
-- Viagra
 project:
 - systems-thinking
 - historical-insights

@@ -7,8 +7,6 @@ companies_orgs:
 - Nvidia
 - 彭博社
 - 麦肯锡
-- 贝恩公司
-- 波士顿咨询公司
 - MIT媒体实验室
 - Google
 - Microsoft

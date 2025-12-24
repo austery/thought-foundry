@@ -2,15 +2,8 @@
 area: society-systems
 category: business
 companies_orgs:
-- 中華電信
-- 將來銀行
-- 金管會
-- 勤業
-- 信義房屋
 - Sony
-- 大同
 - 天下文化
-- 遠見
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -27,7 +20,6 @@ people:
 - 孔子
 products_models:
 - Walkman
-- MOD
 project:
 - systems-thinking
 - personal-growth-lab

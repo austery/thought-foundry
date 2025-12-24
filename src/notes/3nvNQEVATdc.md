@@ -3,7 +3,6 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- Oljefondet
 - Stortinget
 - Finansdepartementet
 - Norges Bank

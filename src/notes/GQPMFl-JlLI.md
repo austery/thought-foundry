@@ -4,7 +4,6 @@ category: business
 companies_orgs:
 - AT&T
 - Norges Bank Investment Management
-- Warner Media
 - OpenAI
 date: '2025-12-03'
 draft: true
@@ -14,10 +13,7 @@ layout: post.njk
 people:
 - Abraham Lincoln
 products_models:
-- SIM card
-- Princess phone
 - 5G
-- 6G
 - LLM
 project:
 - investment-strategy

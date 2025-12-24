@@ -2,14 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 沈阳831
-- 辽宁人民艺术剧院
 - 公安部
-- 上海人民公社
-- 革委会
-- 东北局
-- 辽宁大学
-- 新疆军区
 - 中共中央
 date: '2024-09-14'
 draft: true

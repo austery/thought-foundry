@@ -31,19 +31,12 @@ people:
 - Geoffrey Hinton
 products_models:
 - Llama
-- Llama 1
 - Llama 2
 - Llama 3
-- Llama 3.1
-- Llama 3.2
 - Llama 4
-- Scout
 - Maverick
-- Behemoth
 - GPT-3
 - Gemini 2.5 Pro
-- ChatGPT 4o
-- Grok 3 Pro
 - o1系列
 project:
 - ai-impact-analysis

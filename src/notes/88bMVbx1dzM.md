@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- University of Sydney
 - Incogni
 date: '2025-02-05'
 draft: true
@@ -11,13 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Louis de Broglie
-products_models:
-- Transmission Electron Microscope
-- Field Ion Microscope
-- Scanning TEM
-- Hexapole Magnet
-- Octopole Magnet
-- Decapole Magnet
 project:
 - historical-insights
 series: ''

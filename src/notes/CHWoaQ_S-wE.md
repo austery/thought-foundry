@@ -8,7 +8,6 @@ companies:
 companies_orgs:
 - 日本央行
 - 美联储
-- 博恩斯坦
 date: '2025-12-20'
 draft: true
 guest: ''

@@ -2,28 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Henley & Partners
-- New World Wealth
 - BBC
-- Tax Policy Associates
-- FT
-- UK Office for Statistics Regulation
-- Office for National Statistics
-- Companies House
-- Office for Budget Responsibility
-- Warwick University
-- City of London
-- Arcelor Mittal
-- Goldman Sachs International
-- Sanofi
 - London School of Economics
 - Société Générale
-- Oxfam
-- Institute for Fiscal Studies
 - Cornell University
-- HMRC
-- Pictet
-- Economics Observatory
 - G20
 date: '2025-09-20'
 draft: true
@@ -37,10 +19,6 @@ people:
 - George Osborne
 - Rachel Reeves
 - Donald Trump
-products_models:
-- More or Less
-- Wealth and Assets Survey
-- EB-5 Immigrant Investor Visa
 project:
 - geopolitics-watch
 - historical-insights

@@ -4,21 +4,12 @@ category: finance
 companies_orgs:
 - Bloomberg
 - MicroStrategy
-- Vornado
-- SL Green
 - Equinix
 - Digital Realty
-- Colony Capital
-- DigitalBridge
 - Carvana
-- DriveTime Finance
-- Ugly Duckling
 - Nvidia
 - Cisco
-- Lucent
 - Kodak
-- Blockbuster
-- Yellow Pages
 - Tesla
 date: '2025-06-30'
 draft: true

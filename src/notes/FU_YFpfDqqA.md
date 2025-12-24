@@ -4,8 +4,6 @@ category: technology
 companies_orgs:
 - Bell Labs
 - US military
-- National Advisory Committee for Astronautics
-- NACA
 - NASA
 - Los Alamos
 date: '2023-05-13'
@@ -21,8 +19,6 @@ people:
 - Derek
 - David
 products_models:
-- Model K
-- Model I
 - ENIAC
 project:
 - historical-insights

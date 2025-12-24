@@ -13,15 +13,10 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Bigtable
-- Spanner
 - TensorFlow
-- JAX
-- CodeX
 - Cursor
 - ChatGPT
 - TPUs
-- GPUs
 project:
 - ai-impact-analysis
 - geopolitics-watch

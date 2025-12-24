@@ -2,9 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国工商银行
 - 恒大
-- Wind
 date: '2025-08-31'
 draft: true
 guest: ''
@@ -12,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Xi Jinping
-products_models:
-- 万德权威指数
 project:
 - china-analysis
 - geopolitics-watch

@@ -25,9 +25,7 @@ companies_orgs:
 - Meta
 - UnitedHealth
 - CVS
-- Clover
 - Hims
-- Teldoc
 - Eli Lilly
 - Novo Nordisk
 - SpaceX
@@ -35,7 +33,6 @@ companies_orgs:
 - Verizon
 - PayPal
 - Ford
-- Altria Group
 - Costco
 - Bureau of Labor Statistics
 - Axios
@@ -65,7 +62,6 @@ people:
 products_models:
 - Blackwell
 - HBM
-- 13F
 project:
 - us-analysis
 - investment-strategy

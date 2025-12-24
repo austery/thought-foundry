@@ -3,18 +3,11 @@ area: market-analysis
 category: finance
 companies_orgs:
 - AIG
-- AIG FP
 - 穆迪
-- 标普
 - 高盛
 - 德意志银行
 - 花旗银行
-- New Century
-- Frontpoint
-- 康沃尔资本
-- 雷曼兄弟
 - 摩根大通
-- 贝尔斯登
 date: '2025-09-06'
 draft: true
 guest: ''
@@ -23,8 +16,6 @@ layout: post.njk
 media_books:
 - 《大空头》
 - 华尔街日报
-products_models:
-- 布莱克-斯科尔斯模型
 project:
 - us-analysis
 - investment-strategy

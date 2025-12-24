@@ -6,7 +6,6 @@ companies_orgs:
 - Meta
 - Google
 - Palantir
-- Muddy Waters
 - Apple
 - NVIDIA
 - Shopify
@@ -27,16 +26,7 @@ media_books:
 - chew on this podcast
 - Seeking Alpha
 products_models:
-- Axon
-- Axon 2.0
-- APP Discovery
-- MAX
-- IDFA
 - GCP
-- L4 Tensor Core GPU
-- Audience Network
-- PIG
-- SDK
 project:
 - us-analysis
 - investment-strategy

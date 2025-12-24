@@ -10,20 +10,14 @@ companies_orgs:
 - 淘宝
 - 拼多多
 - 美团
-- 滴滴出行
 date: '2023-11-24'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Wechat
 - Google Map
 - 高德地图
-- 北京一卡通
-- 上海交通卡
-- 青桔骑行
-- ETC
 project:
 - china-analysis
 - geopolitics-watch

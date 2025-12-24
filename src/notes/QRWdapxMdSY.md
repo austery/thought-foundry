@@ -1,19 +1,11 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Kato.io
-- Splunk
-- Data Dog
 date: '2025-11-24'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Large Language Models
-- GP2
-- GP3
 project:
 - ai-impact-analysis
 - systems-thinking

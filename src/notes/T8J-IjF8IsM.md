@@ -8,7 +8,6 @@ companies_orgs:
 - American Express
 - Morgan Stanley
 - McKinsey
-- The National Rental Home Council
 - Federal Reserve
 - Fitch
 date: '2025-08-24'
@@ -19,8 +18,6 @@ layout: post.njk
 media_books:
 - The Economist
 - Financial Times
-products_models:
-- DeleteMe
 project:
 - us-analysis
 - market-cycles

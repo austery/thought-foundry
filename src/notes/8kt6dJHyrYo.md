@@ -3,10 +3,6 @@ area: society-systems
 category: general
 companies:
 - psychosomatic-disorder
-companies_orgs:
-- 北京清华长庚医院
-- 厦门长庚医院
-- 解放军总医院
 date: '2024-08-09'
 draft: true
 guest: ''

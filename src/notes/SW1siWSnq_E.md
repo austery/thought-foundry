@@ -8,8 +8,6 @@ companies_orgs:
 - AWS
 - Azure
 - GitHub
-- 盖茨基金会
-- Xerox PARC
 date: '2025-11-03'
 draft: true
 guest: ''
@@ -22,10 +20,6 @@ people:
 - Bill Gates
 products_models:
 - GPT
-- transformer
-- scaling laws
-- PBC
-- Github Copilot
 - Microsoft 365 Copilot
 - ChatGPT
 - GPT-4
@@ -33,7 +27,6 @@ products_models:
 - Office 365
 - Teams
 - SharePoint
-- Word
 - Excel
 - PowerPoint
 - Codex

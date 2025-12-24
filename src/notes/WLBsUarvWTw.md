@@ -2,8 +2,6 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Epoch AI
-- Mechanize
 - OpenAI
 - Google DeepMind
 - Anthropic
@@ -12,9 +10,6 @@ companies_orgs:
 - SpaceX
 - Tesla
 - Nvidia
-- Metaculus
-- 80,000 Hours podcast
-- Lunar Society podcast LLC
 date: '2025-04-17'
 draft: true
 guest: ''
@@ -53,7 +48,6 @@ products_models:
 - AlphaGo Zero
 - Claude
 - AlexNet
-- Tesla FSD
 - H100
 project:
 - ai-impact-analysis

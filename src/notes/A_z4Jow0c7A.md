@@ -4,12 +4,8 @@ category: business
 companies_orgs:
 - Novartis
 - Norges Bank Investment Management
-- Alcon
-- Sandoz
-- Isomorphic Labs
 - Google DeepMind
 - Palantir
-- Microsoft Research Labs
 - Amazon
 - Bernstein
 date: '2025-06-25'
@@ -29,10 +25,6 @@ people:
 - Yuval Noah Harari
 - Steven Pinker
 - Donald Trump
-products_models:
-- radolyan therapies
-- cell and gene therapies
-- RNA therapeutics
 project:
 - ai-impact-analysis
 - china-analysis

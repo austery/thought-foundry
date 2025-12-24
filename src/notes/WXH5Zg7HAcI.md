@@ -25,8 +25,6 @@ people:
 - Larry Page
 products_models:
 - Google Maps
-- Chrome browser
-- Internet Explorer
 - AlphaGo
 project:
 - ai-impact-analysis

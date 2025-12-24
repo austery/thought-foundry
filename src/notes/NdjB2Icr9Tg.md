@@ -2,8 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- QV Charters
-- Bell
 - Tim Hortons
 - Booking.com
 date: '2024-07-20'
@@ -20,8 +18,6 @@ people:
 - Kevin
 - Matt Damon
 - Justin Trudeau
-products_models:
-- 冰山啤酒
 project:
 - historical-insights
 - cultural-critique

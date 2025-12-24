@@ -2,7 +2,6 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Surge AI
 - OpenAI
 - Anthropic
 - Google

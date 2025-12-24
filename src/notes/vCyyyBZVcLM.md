@@ -5,8 +5,6 @@ companies_orgs:
 - Amazon
 - Google
 - Microsoft
-- HCL Technologies
-- US Citizenship and Immigration Services
 - Notion
 date: '2025-11-05'
 draft: true
@@ -18,19 +16,13 @@ media_books:
 people:
 - Donald Trump
 products_models:
-- Notion AI Agent
 - Slack
 - ChatGPT
 - Cursor
 - Claude
 - Gmail
-- Drive
 - Teams
 - H-1B visa
-- F1 visa
-- TN visa
-- L1 visa
-- O1 visa
 project:
 - us-analysis
 - geopolitics-watch

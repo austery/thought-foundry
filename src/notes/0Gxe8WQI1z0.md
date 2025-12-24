@@ -2,19 +2,13 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Institute for Canadian Citizenship
 - University of Waterloo
-- LM Law Group
 - TVO Today
 date: '2025-10-21'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Canoe Pass
-- International Mobility Program
-- Global Talent Stream
 project:
 - geopolitics-watch
 - systems-thinking

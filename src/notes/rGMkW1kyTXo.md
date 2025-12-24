@@ -3,14 +3,12 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 兰德公司
-- 芝加哥全球事务委员会
 - 欧盟
 - 世界卫生组织
 - 联合国
 - 腾讯
 - 大疆
 - 台积电
-- 上海社科院
 - G7
 date: '2025-11-16'
 draft: true
@@ -32,8 +30,6 @@ people:
 - 巴拉克·奥巴马
 - 唐纳德·川普
 - 王毅
-products_models:
-- GDPR
 project:
 - us-analysis
 - china-analysis

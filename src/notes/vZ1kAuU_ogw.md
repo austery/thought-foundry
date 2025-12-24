@@ -2,10 +2,8 @@
 area: society-systems
 category: general
 companies_orgs:
-- Ivy League
 - UC Berkeley
 - Stanford
-- Minerva University
 - Google
 date: '2025-12-03'
 draft: true

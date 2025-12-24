@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Lenny’s Podcast
-products_models:
-- PPT
 project:
 - entrepreneurship
 - systems-thinking

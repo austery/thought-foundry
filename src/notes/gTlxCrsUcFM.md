@@ -6,7 +6,6 @@ companies_orgs:
 - DeepMind
 - Google
 - OpenAI
-- FirstMark
 date: '2025-10-23'
 draft: true
 guest: ''
@@ -22,11 +21,7 @@ people:
 products_models:
 - AlphaGo
 - AlphaGo Zero
-- Alpha Zero
-- MuZero
 - AlphaFold
-- AlphaCode
-- AlphaTensor
 - Claude
 project:
 - ai-impact-analysis

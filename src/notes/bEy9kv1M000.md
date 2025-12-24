@@ -5,22 +5,12 @@ companies_orgs:
 - AWS
 - Grammarly
 - Cursor
-- Replet
 - Stripe
 - Figma
-- Brevo
-- Muro
-- Hex
-- Observable
-- Jupiter
-- Monday.com
 - Notion
 - Canva
 - Microsoft
 - JetBrains
-- Tableau
-- PowerBI
-- Adobe Analytics
 date: '2025-10-29'
 draft: true
 guest: ''
@@ -29,8 +19,6 @@ layout: post.njk
 media_books:
 - A framework for pricing AI products
 products_models:
-- Serenity Notebook
-- Aura AI
 - Copilot
 - ChatGPT
 - Microsoft 365

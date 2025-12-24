@@ -3,7 +3,6 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - TED
-- corporate America
 date: '2025-12-12'
 draft: true
 guest: ''

@@ -2,15 +2,11 @@
 area: market-analysis
 category: business
 companies_orgs:
-- CoBank
 - Coca-Cola
 - Starbucks
 - McDonald's
 - PepsiCo
-- USDA
 - FDA
-- Holing Association USA
-- Wisconsin Feeder Pig Cooperative
 date: '2025-11-09'
 draft: true
 guest: ''
@@ -23,20 +19,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-products_models:
-- Fairlife
-- Celsius
-- Core Power
-- Shabbani
-- Greek yogurt
-- cottage cheese
-- Propel water
-- Muscle Milk
-- mozzarella
-- whey protein isolates
-- collagens
-- colostrum
-- lactoferrin
 project:
 - investment-strategy
 - market-cycles

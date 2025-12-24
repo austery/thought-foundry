@@ -2,16 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 哈佛大学化学系
 - 剑桥大学
-- 哥廷根大学
 - 加州大学伯克利分校
 - 联邦调查局 (FBI)
 - 中央情报局 (CIA)
 - S-1委员会
-- 五角大楼监督委员会
-- 普林斯顿高等研究院
-- 原子能委员会
 - 联合国
 - 美国国会
 date: '2023-08-21'
@@ -43,11 +38,7 @@ people:
 - John F. Kennedy
 - Joseph McCarthy
 products_models:
-- 曼哈顿计划
 - 三位一体 (Trinity) 核试验
-- 罗斯福新政
-- 弗兰克报告
-- 费米奖
 project:
 - us-analysis
 - historical-insights

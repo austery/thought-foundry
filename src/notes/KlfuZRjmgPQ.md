@@ -3,8 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Global Crossing
-- Qwest
-- Level3
 - IBM
 - Amazon
 - Microsoft
@@ -17,9 +15,6 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- AlphaGO
-- Watson
-- Transformer architecture
 - iPhone
 - Windows
 - Android

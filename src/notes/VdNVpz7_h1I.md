@@ -2,12 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- Ontario's Auditor General
-- Ontario Coalition for Better Child Care
-- Federal government
 - Ontario government
-- Saskatchewan government
-- Alberta government
 date: '2025-11-20'
 draft: true
 guest: ''

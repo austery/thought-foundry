@@ -16,9 +16,6 @@ media_books:
 people:
 - Magnus Carlsen
 - Peter
-products_models:
-- Enigma code
-- Chess960
 project:
 - investment-strategy
 - ai-impact-analysis

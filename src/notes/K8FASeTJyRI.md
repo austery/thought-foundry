@@ -8,8 +8,6 @@ companies_orgs:
 - OpenAI
 - Duolingo
 - DoorDash
-- ELF
-- D-Wave Quantum
 - Oscar
 - Warner Brothers
 - Netflix
@@ -17,27 +15,19 @@ companies_orgs:
 - Moderna
 - DataDog
 - Celsius
-- Alani Nu
 - Walmart
 - AMD
-- Soundtown
 - Airbnb
 - The Trade Desk
 - Iren
-- Archer
-- SMR
 - DraftKings
 - OpenDoor
 - Affirm
 - Square
 - MP Materials
-- Monster Energy
 - Peloton
-- Sweet Green
-- Wynn Hotels
 - Dropbox
 - Texas Roadhouse
-- USA Rare Earth
 - Coinbase
 - JP Morgan
 - Bank of America
@@ -52,7 +42,6 @@ companies_orgs:
 - Marvell
 - ARM
 - Qualcomm
-- Stagwell
 - Axios
 - Fox News
 - U.S. Supreme Court
@@ -78,23 +67,18 @@ companies_orgs:
 - Deepseek
 - Mizuho
 - Anthropic
-- Shift4
 - NASA
-- CMS
 - FDA
 - Eli Lilly
 - Novo Nordisk
-- EMD Serono
 - Uber
 - Polymarket
-- The Honest Company
 - Lyft
 - Joby Aviation
 - Dutch Bros
 - Oracle
 - Pinterest
 - Zeta Global
-- Tempus AI
 - Axon
 - Hims & Hers Health
 - Bitfarms
@@ -111,7 +95,6 @@ companies_orgs:
 - Micron Technology
 - Arista Networks
 - Vertiv
-- Vistra
 - Kratos Defense & Security Solutions
 - Chime
 - IonQ
@@ -123,11 +106,9 @@ companies_orgs:
 - United Airlines
 - Delta Air Lines
 - Nike
-- Toast
 - MicroStrategy
 - Galaxy Digital
 - Apple
-- Ralph Lauren
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -151,13 +132,9 @@ people:
 - Robert F. Kennedy Jr.
 - Kathy Wood
 products_models:
-- Zepbound
 - Wegovy
-- Trump RX
 - Foundry
 - Gemini
-- Ironwood
-- Tranium
 - Maya
 - Siri
 - ChatGPT

@@ -1,8 +1,6 @@
 ---
 area: personal-systems
 category: psychology
-companies_orgs:
-- 果麦
 date: '2025-11-08'
 draft: true
 guest: ''

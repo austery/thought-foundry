@@ -12,12 +12,10 @@ companies_orgs:
 - Verizon
 - SpaceX
 - Tesla
-- ChargePoint
 - FTC
 - Amazon
 - UPS
 - NASA
-- Department of Transportation
 - Poly Market
 - Waymo
 - ICE
@@ -45,7 +43,6 @@ people:
 products_models:
 - Starlink
 - Cyber Cab
-- Robo Taxi
 project:
 - us-analysis
 - historical-insights

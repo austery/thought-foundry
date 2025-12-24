@@ -2,13 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Shanghai Gold Exchange
-- China People's Bank
 - White House
-- China Ministry of Commerce
-- Wingtech Technology
 - ASML
-- French Foreign Trade Bank
 date: '2025-11-02'
 draft: true
 guest: ''
@@ -30,9 +25,6 @@ people:
 - Marco Rubio
 - Wang Yi
 - Cai Qi
-products_models:
-- Xiaomi
-- Panda Coin
 project:
 - us-analysis
 - china-analysis

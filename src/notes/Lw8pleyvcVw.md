@@ -22,7 +22,6 @@ products_models:
 - ChatGPT
 - Claude
 - Gemini
-- ChatGPT4
 project:
 - ai-impact-analysis
 - systems-thinking

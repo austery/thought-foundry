@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - The New York Times
 - Capitol Hill
-- House Republicans
 - Democrats
 - Congressional Budget Office
 date: '2025-12-18'

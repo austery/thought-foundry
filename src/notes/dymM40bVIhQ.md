@@ -6,7 +6,6 @@ companies_orgs:
 - Twitter
 - MIT
 - CMU
-- 智源
 date: '2025-10-30'
 draft: true
 guest: ''
@@ -19,7 +18,6 @@ people:
 - Richard Sutton
 products_models:
 - GPT-5
-- SVM
 project:
 - ai-impact-analysis
 - systems-thinking

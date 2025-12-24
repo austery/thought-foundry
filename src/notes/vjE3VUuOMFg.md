@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: technology
+companies:
+- immediate-harm
 companies_orgs:
 - OpenAI
 - Reddit
@@ -12,8 +14,6 @@ layout: post.njk
 media_books:
 - Journal of Medical Ethics
 - AI in the Falling Sky
-products_models:
-- chatbot
 project:
 - ai-impact-analysis
 - systems-thinking
@@ -28,8 +28,6 @@ tags:
 - research
 - risk
 title: 驳斥AI末日论：警惕被误导的研究与被忽视的即时危害
-companies:
-- immediate-harm
 ---
 
 ### 引言：对AI风险研究的后续讨论

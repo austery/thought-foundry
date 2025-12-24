@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- axon
 date: '2025-10-13'
 draft: true
 guest: ''

@@ -3,8 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Caltech
-- LIGO
-- Ansys
 date: '2022-04-29'
 draft: true
 guest: ''
@@ -15,8 +13,6 @@ media_books:
 people:
 - Derek Muller
 products_models:
-- HFSS
-- VPython
 - Brilliant
 project:
 - systems-thinking

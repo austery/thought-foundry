@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Yomiuri Shimbun
 date: '2025-10-25'
 draft: true
 guest: ''

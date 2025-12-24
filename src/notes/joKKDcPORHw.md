@@ -3,12 +3,9 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - Circle
-- Deutsche Börse
 - Visa
 - Brex
 - Kraken
-- Fireblocks
-- Hyper Liquid
 - BlackRock
 - Goldman Sachs
 - HSBC
@@ -19,7 +16,6 @@ companies_orgs:
 - Tencent
 - Alibaba
 - ByteDance
-- Bitget
 date: '2025-11-14'
 draft: true
 guest: ''
@@ -29,10 +25,7 @@ media_books:
 - Nico投资有道
 products_models:
 - USDC
-- EURC
-- CCTP
 - ARC公链
-- CPN (Circle Payment Network)
 - USDT
 - ChatGPT
 - YouTube

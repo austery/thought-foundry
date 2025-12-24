@@ -21,7 +21,6 @@ people:
 - Joe Rogan
 - Lex Fridman
 products_models:
-- Hubble
 - TikTok
 project:
 - china-analysis

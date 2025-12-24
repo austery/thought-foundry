@@ -17,7 +17,6 @@ people:
 - 小陶
 products_models:
 - GPT-4
-- Oracle Cloud Infrastructure
 project:
 - ai-impact-analysis
 series: ''

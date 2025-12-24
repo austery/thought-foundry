@@ -2,12 +2,7 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- ThoughtWorks
-- UK Atomic Energy Authority
-- Coopers & Lybrand
-- PEK
 - Chrysler
-- Rational
 - Statsig
 - JetBrains
 - Apple
@@ -39,26 +34,15 @@ people:
 - Daniel Kahneman
 - Robert Moses
 products_models:
-- Unix
-- Fortran 4
 - ClickHouse
 - vLLM
 - Cloud Code
-- FastAPI
 - MCP
-- ReSharper
-- Visual Studio
 - Xcode
-- Swift
 - Cursor
-- Godot
-- Ruby
-- Smalltalk
 - Java
 - JavaScript
 - SQL
-- Lisp
-- COBOL
 - DynamoDB
 - PostgreSQL
 project:

@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - NASA
-- Vsauce
 date: '2020-08-28'
 draft: true
 guest: ''
@@ -12,9 +11,6 @@ layout: post.njk
 media_books:
 - How Much Does a Shadow Weigh?
 - 60-minutes interview
-products_models:
-- snatoms
-- snatomsX
 project:
 - systems-thinking
 - personal-growth-lab

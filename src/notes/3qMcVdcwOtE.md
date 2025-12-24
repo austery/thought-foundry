@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Micron
 - Samsung
-- SK hynix
 - Visa
 - Mastercard
 - American Express

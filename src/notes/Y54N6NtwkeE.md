@@ -3,28 +3,21 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Bloomberg Podcasts
-- Circle Internet
 - Coinbase
 - Binance
 - Robinhood
 - Kraken
 - Nubank
-- GCash
 - JPMorgan
 - Citi
 - Bank of America
-- First Digital
 - BlackRock
-- Fiserve
-- FIS Global
 - Visa
 - Mastercard
 - OpenAI
 - Google
 - Tether
-- SVB (Silicon Valley Bank)
 - Federal Reserve
-- OCC (Office of the Comptroller of the Currency)
 - FDIC
 date: '2025-07-31'
 draft: true
@@ -44,9 +37,6 @@ people:
 products_models:
 - OddLots podcast
 - USDC
-- USDXX
-- USYC
-- X42
 - ChatGPT
 - iPhone
 project:

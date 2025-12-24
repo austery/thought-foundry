@@ -2,12 +2,8 @@
 area: society-thinking
 category: history
 companies_orgs:
-- Naval War College
-- 日本银行
 - IMF
-- WikiLeaks
 - New York Times
-- British Commonwealth
 date: '2025-07-25'
 draft: true
 guest: ''

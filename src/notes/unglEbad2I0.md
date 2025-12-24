@@ -4,10 +4,7 @@ category: lifestyle
 companies_orgs:
 - Expedia
 - Booking
-- Flair Airlines
 - Uber
-- A&W
-- Holiday Inn
 - Parks Canada
 date: '2024-07-12'
 draft: true
@@ -19,11 +16,6 @@ media_books:
 people:
 - Queen Victoria
 - Justin Trudeau
-products_models:
-- Toyota RAV4
-- Kia Sorento
-- Garmin GPS
-- AirPlay
 project:
 - historical-insights
 - cultural-critique

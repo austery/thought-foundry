@@ -4,7 +4,6 @@ category: stock-investment
 companies_orgs:
 - Bank of England
 - Bridgewater
-- Long-Term Capital Management
 - Sony
 - Toyota
 - Vanguard
@@ -65,16 +64,6 @@ people:
 - Thomas Piketty
 - Warren Buffett
 - adam-s-axiom
-products_models:
-- Black-Scholes Model
-- Economic Machine
-- Financial Instability Hypothesis
-- Game Theory
-- Invisible Hand
-- R > G
-- Reflexivity
-- Scuttlebutt Method
-- System 1 and System 2
 project:
 - investment-strategy
 - market-cycles

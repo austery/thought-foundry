@@ -3,17 +3,10 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - Berkshire Hathaway
-- Naspers
 - Tencent
-- Herbal Life
-- Pershing Square Capital Management
-- GGP
-- Brookfield Corporation
-- Chipotle Mexican Grill
 - GameStop
 - PayPal
 - Meta
-- Moon Pay
 - FBI
 date: '2024-06-21'
 draft: true

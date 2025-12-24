@@ -3,7 +3,6 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - Patreon
-- Audible
 date: '2019-12-28'
 draft: true
 guest: ''

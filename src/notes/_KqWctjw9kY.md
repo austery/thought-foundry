@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 银行
 - 中央银行
 date: '2025-11-07'
 draft: true

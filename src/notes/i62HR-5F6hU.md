@@ -3,13 +3,10 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Conservative Party
-- Canadian Alliance
 - Progressive Conservative Party
 - Liberal Party
 - Bloc Québécois
 - New Democratic Party
-- 加拿大参议院
-- 加拿大众议院
 date: '2025-01-25'
 draft: true
 guest: ''

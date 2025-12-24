@@ -2,17 +2,11 @@
 area: tech-work
 category: work-related
 companies_orgs:
-- VaccinateCA
 - OpenAI
 - Google
 - Amazon
-- Walgreens
-- Tony Blair Institute
 - FDA
-- Financial Crimes Enforcement Network
 - Mizuho
-- Mt. Gox
-- Alameda Research
 - Tether
 - Cantor Fitzgerald
 - Meta
@@ -46,14 +40,10 @@ people:
 - Jack Dorsey
 products_models:
 - GPT-4
-- Healthcare.gov
 - Discord
 - Steam
-- World of Warcraft
-- Factorio
 - TikTok
 - USDC
-- Wise
 project:
 - us-analysis
 - ai-impact-analysis

@@ -6,9 +6,6 @@ companies_orgs:
 - Netflix
 - Disney
 - Amazon
-- 中影
-- 万达
-- 博纳
 - 国民党
 - 民进党
 - 共产党

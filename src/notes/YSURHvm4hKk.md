@@ -13,12 +13,6 @@ media_books:
 - 《模型思考者》
 products_models:
 - BMI指数
-- 前景理论
-- 双曲贴现
-- 卢卡斯批判
-- 纳什均衡
-- 中心极限定理
-- 正态分布
 project:
 - systems-thinking
 - personal-growth-lab

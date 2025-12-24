@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 太子控股集团
 - 美国财政部
 - 美国司法部
 - FBI
@@ -10,8 +9,6 @@ companies_orgs:
 - 花旗银行
 - 汇丰银行
 - 富国银行
-- 国际劳工组织
-- 太子银行
 date: '2025-10-20'
 draft: true
 guest: ''

@@ -2,40 +2,11 @@
 area: market-analysis
 category: business
 companies_orgs:
-- 寿司郎
-- 滨寿司
-- Food&Life
-- 泉膳控股
-- 萨莉亚
 - 国信证券
-- 启承资本
 - 海底捞
-- 绿茶餐厅
-- 遇见小面
-- 藏寿司
-- 优衣库
-- Nitori
-- 大创
-- 无印良品
-- 丸龟制面
-- 花丸乌冬
-- Venture Link
-- Tully's
-- 圣马可
-- 牛角烤肉
-- Colowide
 - 吉野家
-- 龟甲万
-- 肉肉大米
-- 伊豆野菜村
-- 杨国福
-- 七宝麻辣烫
 - 蜜雪冰城
-- 霸王茶姬
 - 喜茶
-- 奈雪的茶
-- 兴隆记
-- M Stand
 date: '2025-11-05'
 draft: true
 guest: ''

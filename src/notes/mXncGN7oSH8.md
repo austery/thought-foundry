@@ -8,13 +8,9 @@ companies_orgs:
 - Google
 - Nvidia
 - Huawei
-- CNA
 - Council on Foreign Relations
 - Pentagon
-- US Indo-Pacific Command
-- Bernstein Research
 - Tencent
-- 长江存储
 date: '2025-12-17'
 draft: true
 guest: ''
@@ -35,9 +31,7 @@ products_models:
 - H800
 - H200
 - Blackwell
-- Typhoon system
 - Starlink
-- DF-41
 project:
 - ai-impact-analysis
 - china-analysis

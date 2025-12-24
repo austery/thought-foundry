@@ -2,19 +2,12 @@
 area: society-systems
 category: general
 companies_orgs:
-- Harrods
-- Otis Elevator Company
-- Metro Roma
-- ATAC
 - Brilliant
 date: '2025-09-11'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Continuous Elevator
-- Revolving Stairs
 project:
 - systems-thinking
 - historical-insights

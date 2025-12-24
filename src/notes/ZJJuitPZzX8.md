@@ -2,12 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- 大碗娱乐
 - 开心麻花
-- 东映
-- 聚德华天
-- 金融街资本
-- 复星高科技
 - OpenAI
 date: '2025-01-28'
 draft: true

@@ -3,7 +3,6 @@ area: personal-systems
 category: career
 companies_orgs:
 - Uber
-- CloudKitchens
 - GitHub
 - Statsig
 - Linear
@@ -16,9 +15,7 @@ companies_orgs:
 - Atlassian
 - OpenAI
 - Meta
-- Valve
 - Google
-- Skype
 date: '2025-09-24'
 draft: true
 guest: ''
@@ -33,24 +30,15 @@ people:
 - Martin Fowler
 products_models:
 - Google Wallet
-- Google Pay
 - iOS
 - Android
-- Windows Phone
 - Python
 - Java
 - C#
-- NodeJS
 - Go
 - C++
 - TypeScript
-- Clojure
 - Rust
-- Lisp
-- Anki
-- Things
-- Paytm
-- Jump Bikes
 project:
 - us-analysis
 - personal-growth-lab

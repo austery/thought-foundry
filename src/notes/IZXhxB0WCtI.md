@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Royal African Company
-- British Board of Trade
 date: '2024-06-30'
 draft: true
 guest: ''

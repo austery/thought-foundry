@@ -3,9 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - ISIS
-- EDL
-- Center for the Analysis of Islam and Antisemitism
-- Youth Association
 date: '2023-09-21'
 draft: true
 guest: ''

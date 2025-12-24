@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- AIT
 - WHO
 - G7
 - ASEAN
@@ -22,9 +21,6 @@ people:
 - 岸田文雄
 - Joe Biden
 - 李在明
-products_models:
-- Iron Dome
-- T-DOM
 project:
 - us-analysis
 - geopolitics-watch

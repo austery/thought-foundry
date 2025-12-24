@@ -8,22 +8,16 @@ companies_orgs:
 - LinkedIn
 - Airbnb
 - Greylock
-- Biohub
-- Arc
-- Stanford Long-Term Planning Commission
 - DeepMind
 - Microsoft
 - OpenAI
 - Google
 - PayPal
 - Pinterest
-- TrialPay
 - Snap
 - MySpace
-- Friendster
 - TikTok
 - Rutgers University
-- Vanderbilt University
 - FDA
 date: '2025-10-20'
 draft: true
@@ -48,14 +42,11 @@ people:
 - Emmanuel Macron
 products_models:
 - ChatGPT
-- Claude 4 Opus 4.5
 - Gemini Ultra
 - Copilot
-- IBM Watson
 - GPT-4
 - AlphaFold
 - AlphaZero
-- Open Evidence
 project:
 - ai-impact-analysis
 - systems-thinking

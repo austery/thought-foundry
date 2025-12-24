@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - MIT
-- 金融时报
 - 经济学人
 date: 2025-02-22
 draft: true
@@ -16,7 +15,8 @@ people:
 - Vladimir Putin
 - Lex Friedman
 - John Maynard Keynes
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

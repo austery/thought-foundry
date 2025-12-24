@@ -15,8 +15,6 @@ media_books:
 people:
 - Joe Rogan
 - Lex Friedman
-products_models:
-- Camry
 project:
 - us-analysis
 - personal-growth-lab

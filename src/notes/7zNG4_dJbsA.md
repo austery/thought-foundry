@@ -41,7 +41,6 @@ people:
 - 张又侠
 products_models:
 - Signal
-- 沟通伙伴
 project:
 - us-analysis
 - china-analysis

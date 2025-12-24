@@ -3,11 +3,8 @@ area: society-systems
 category: science
 companies_orgs:
 - University of Toronto
-- Sick Kids Hospital
-- Food Allergy Canada
 - McMaster University
 - Health Canada
-- UniQure
 date: '2025-12-03'
 draft: true
 guest: ''
@@ -18,9 +15,7 @@ media_books:
 people:
 - Robert F. Kennedy Jr.
 products_models:
-- AMT130
 - CRISPR
-- LEAP trial
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=yOW6NsCV2j8

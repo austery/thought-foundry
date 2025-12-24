@@ -2,11 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- Peking University
 - Tsinghua University
-- Douban
-- QQ Music
-- True Story Project
 date: '2024-12-21'
 draft: true
 guest: ''

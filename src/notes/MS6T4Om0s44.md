@@ -1,17 +1,11 @@
 ---
 area: society-systems
 category: lifestyle
-companies_orgs:
-- 加拿大国家公园
-- Banff Jasper Collection
 date: '2023-08-02'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Icefield Explorer
-- Jasper Skytrain
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=MS6T4Om0s44

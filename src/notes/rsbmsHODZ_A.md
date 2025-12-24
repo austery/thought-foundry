@@ -5,19 +5,11 @@ companies_orgs:
 - Microsoft
 - Google
 - 百度
-- 脸书
-- 辉达
 - Coursera
 - DeepMind
-- 美国海军研究室
-- 美国邮政署
-- 美国空军
 - 哈佛大学
-- 卡内基美隆大学
 - 多伦多大学
-- 贝尔实验室
 - 美国银行
-- 国防高等研究計畫署
 date: '2024-04-12'
 draft: true
 guest: ''
@@ -38,12 +30,7 @@ products_models:
 - AlphaGo
 - Gemini
 - MARK 1号
-- Alvin
-- NetTalk
 - TensorFlow
-- ELSA Speak
-- ELSA Pro
-- ELSA Premium
 project:
 - ai-impact-analysis
 - historical-insights

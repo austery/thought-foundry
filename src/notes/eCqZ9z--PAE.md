@@ -11,10 +11,6 @@ people:
 - Nassim Nicholas Taleb
 - Martin Luther King Jr.
 - Hegel
-products_models:
-- 《黑天鹅》
-- 《反脆弱》
-- 《论证与说服50讲》
 project:
 - systems-thinking
 - personal-growth-lab

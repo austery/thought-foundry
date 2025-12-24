@@ -8,13 +8,10 @@ companies_orgs:
 - DeepMind
 - Waymo
 - Nvidia
-- Carnegie Mellon University (CMU)
 - University of Toronto
 - Stanford University
 - TSMC
 - Intel
-- Eureka
-- Starfleet Academy
 date: '2025-10-18'
 layout: post.njk
 media_books:
@@ -32,17 +29,11 @@ products_models:
 - Claude
 - Codex
 - AlexNet
-- LLM (Large Language Model)
-- Universe project
 - Llama 3
 - GPT-2
 - GPT-4
-- GPT-5 Pro
-- nanochat
-- nanoGPT
 - InstructGPT
 - PyTorch
-- DeepSeek v3.2
 - ChatGPT
 project:
 - ai-impact-analysis

@@ -2,11 +2,8 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Aha
-- MetaGPT
 - Uber
 - Airbnb
-- MCN
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -18,7 +15,6 @@ products_models:
 - YouTube
 - Twitter
 - Instagram Reels
-- Instagram Carousel
 project:
 - ai-impact-analysis
 - entrepreneurship

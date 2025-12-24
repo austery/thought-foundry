@@ -15,9 +15,6 @@ people:
 - Max Born
 - Einstein
 - Sean Carroll
-products_models:
-- Norton 360
-- Norton 360 Deluxe
 project:
 - systems-thinking
 - historical-insights

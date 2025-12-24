@@ -4,8 +4,6 @@ category: technology
 companies_orgs:
 - Waymo
 - Google
-- Asiana Airlines
-- National Transportation and Safety Board
 date: '2021-07-23'
 draft: true
 guest: ''
@@ -15,7 +13,6 @@ people:
 - Derek
 products_models:
 - Firefly
-- Asiana Airlines flight 214
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -4,7 +4,6 @@ category: lifestyle
 companies_orgs:
 - 初日醫學
 - Cofit
-- Subway
 date: '2025-06-06'
 draft: true
 guest: ''

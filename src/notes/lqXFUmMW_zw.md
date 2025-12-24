@@ -3,7 +3,6 @@ area: market-analysis
 category: geopolitics
 companies_orgs:
 - World Bank
-- US Department of Commerce
 - Nvidia
 - Apple
 - Microsoft
@@ -16,8 +15,6 @@ companies_orgs:
 - Nike
 - Best Buy
 - European Central Bank
-- Citi Bank
-- Daiwa Institute of Research
 date: '2025-04-06'
 draft: true
 guest: ''

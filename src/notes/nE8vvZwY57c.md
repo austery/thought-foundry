@@ -2,9 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国农业发展银行
 - 中国人民银行
-- 城投
 date: '2025-11-08'
 draft: true
 guest: ''

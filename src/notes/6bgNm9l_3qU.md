@@ -2,7 +2,6 @@
 area: society-systems
 category: science
 companies_orgs:
-- Australian Reptile Park
 - BetterHelp
 date: '2023-06-21'
 draft: true

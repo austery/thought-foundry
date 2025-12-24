@@ -2,10 +2,8 @@
 area: market-analysis
 category: geopolitics
 companies_orgs:
-- Learning Resources
 - Walmart
 - Bloomberg
-- CEL
 - Ha Nam职业学院
 date: '2025-11-20'
 draft: true
@@ -14,9 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Donald Trump
-products_models:
-- 老鼠机器人
-- 刺猬派斯克刺猬斯派克
 project:
 - us-analysis
 - china-analysis

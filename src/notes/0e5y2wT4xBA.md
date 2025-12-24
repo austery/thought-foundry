@@ -9,21 +9,15 @@ companies_orgs:
 - 台积电
 - 甲骨文
 - 亚马逊
-- 黑石
 - Nvidia
 - AMD
 - 博通
 - 摩根大通
 - 美银
-- 科磊
-- 泛林集团
-- 奈飞
 - 华纳兄弟
-- 派拉蒙
 - 特斯拉
 - Google
 - 软银
-- Uber Eats
 - DoorDash
 - 美光
 date: '2025-12-18'
@@ -41,7 +35,6 @@ people:
 - 黄仁勋
 - Larry Ellison
 products_models:
-- 蚂蚁阿福
 - EUV
 - ChatGPT
 - Gemini

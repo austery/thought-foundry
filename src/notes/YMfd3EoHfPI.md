@@ -2,13 +2,8 @@
 area: society-thinking
 category: history
 companies_orgs:
-- 胡佛研究所
 - OpenAI
-- 魏玛政府
 - 共产党
-- 德国社会民主党
-- 俄罗斯人民联盟
-- 内务人民委员部
 - 世界贸易组织
 date: '2025-07-10'
 draft: true

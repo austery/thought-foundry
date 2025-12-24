@@ -2,11 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- American Ballet Theater
-- Metropolitan Opera House
-- San Pedro Boys and Girls Club
-- Ballet Russe de Monte Carlo
-- Misty Copeland Foundation
 - Ku Klux Klan
 date: '2025-12-02'
 draft: true

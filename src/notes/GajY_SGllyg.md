@@ -25,7 +25,6 @@ products_models:
 - PCE物价指数
 - CPI数据
 - ISM生产者价格指数
-- 消费者信心指数
 - ISM制造业PMI指数
 project:
 - us-analysis

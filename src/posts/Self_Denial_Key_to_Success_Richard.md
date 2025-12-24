@@ -3,8 +3,6 @@ area: finance-wealth
 author: Lei
 category: crypto
 channel: null
-companies_orgs:
-- huma finance
 date: '2025-07-10'
 guest: null
 insight: null

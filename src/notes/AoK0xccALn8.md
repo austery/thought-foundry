@@ -13,7 +13,6 @@ companies_orgs:
 - Binance
 - MicroStrategy
 - FTX
-- Bitwise
 - Fundstrat
 - Palantir
 - Meta

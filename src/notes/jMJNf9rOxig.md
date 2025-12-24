@@ -6,7 +6,6 @@ companies_orgs:
 - SpaceX
 - NASA
 - Amazon
-- United Launch Alliance
 - Boeing
 - Lockheed Martin
 date: '2024-07-08'
@@ -22,9 +21,7 @@ people:
 - Yuri Gagarin
 - Lex Fridman
 products_models:
-- New Shepard
 - Falcon 9
-- Falcon Heavy
 - Starship
 - New Glenn
 - Project Kuiper

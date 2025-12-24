@@ -4,7 +4,6 @@ category: technology
 companies_orgs:
 - IBM
 - 英特尔
-- 新加坡能源
 - 央行
 - 美联储
 date: 2025-10-31
@@ -17,10 +16,7 @@ products_models:
 - 比特币
 - NFT
 - 数字人民币
-- Hyperledger Fabric
-- Kafka
 - Raft协议
-- BFT
 project:
 - systems-thinking
 - historical-insights

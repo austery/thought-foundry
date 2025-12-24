@@ -3,16 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 民众党
-- Giovanni Farolfi
-- 美第奇家族
-- 南海公司
-- 纽约证券交易所
 - 德勤
 - 普华永道
-- 安永
-- 毕马威
-- 安达信
-- 安然
 - FBI
 - 美国证券交易委员会
 date: '2024-08-23'
@@ -30,10 +22,6 @@ people:
 - Jefferson
 - Mark Twain
 - George W. Bush
-products_models:
-- 萨班斯-奥克斯利法案
-- 1933年证券法
-- 《致国王的财政报告》
 project:
 - historical-insights
 - systems-thinking

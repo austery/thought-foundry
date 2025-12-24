@@ -9,12 +9,10 @@ companies_orgs:
 - Citadel Securities
 - Federal Reserve
 - Goldman Sachs
-- Goldman Sachs Asset Management
 - KKR
 - NSA
 - Renaissance Technologies
 - Robinhood
-- US government
 - Vanguard
 date: '2024-12-19'
 draft: true
@@ -30,13 +28,6 @@ people:
 - Larry Fink
 - Ray Dalio
 - adam-s-axiom
-products_models:
-- Aladdin platform
-- All-Weather Portfolio
-- Index Fund
-- Medallion fund
-- Pure Alpha strategy
-- RJR Nabisco deal
 project:
 - investment-strategy
 - market-cycles

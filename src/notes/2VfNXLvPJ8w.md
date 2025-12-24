@@ -2,7 +2,6 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Khosla Ventures
 - Sun Microsystems
 - Norges Bank Investment Management
 - OpenAI
@@ -10,17 +9,12 @@ companies_orgs:
 - Tesla
 - Amazon
 - Walmart
-- Juniper
 - Kleiner Perkins
 - AT&T
 - Verizon
 - Nokia
 - Motorola
-- Alcatel-Lucent
 - General Motors
-- John Deere
-- Commonwealth Fusion
-- Screen Actors Guild
 date: '2024-10-23'
 draft: true
 guest: ''
@@ -32,7 +26,6 @@ people:
 - Sam Altman
 - Steve Jobs
 products_models:
-- TCP/IP
 - iPhone
 project:
 - ai-impact-analysis

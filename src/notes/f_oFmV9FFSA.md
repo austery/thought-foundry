@@ -16,7 +16,6 @@ companies_orgs:
 - Amkor
 - Nvidia
 - Foxconn
-- Wistron
 - Fox
 - CBS
 - Bank of America

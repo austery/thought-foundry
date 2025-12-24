@@ -2,11 +2,8 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Money & Macro
-- Fairness Foundation
 - IMF
 - World Bank
-- Surfshark
 date: '2025-09-15'
 draft: true
 guest: ''
@@ -18,12 +15,6 @@ media_books:
 people:
 - Angus Deaton
 - Daron Acemoglu
-products_models:
-- Gary's Economics
-- Desk Rates podcast
-- World Inequality Database
-- Surfshark VPN
-- Alternative ID
 project:
 - us-analysis
 - historical-insights

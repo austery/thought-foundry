@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - ASEAN
 - G7
-- Mitsubishi Shipbuilding
 date: '2025-11-22'
 draft: true
 guest: ''

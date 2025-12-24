@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 公民联合
-- 联邦选举委员会
 date: '2025-08-31'
 draft: true
 guest: ''

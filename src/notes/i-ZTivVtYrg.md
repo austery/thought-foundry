@@ -2,9 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Signnum Global Advisors
 - Evercore ISI
-- Eurasia Group
 - World Economic Forum
 - Deutsche Bank
 - Hamas

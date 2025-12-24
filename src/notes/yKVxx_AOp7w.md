@@ -2,9 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Nanos
-- Leger
-- Ipsos
 - NDP
 date: '2025-03-02'
 draft: true

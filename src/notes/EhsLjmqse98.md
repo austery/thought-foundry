@@ -6,7 +6,6 @@ companies_orgs:
 - Bureau of Labor Statistics
 - Federal Reserve
 - Congress
-- Office for National Statistics
 date: '2025-08-05'
 draft: true
 guest: ''
@@ -19,10 +18,7 @@ people:
 - Jerome Powell
 - Richard Nixon
 products_models:
-- non-farm payrolls
-- unemployment rate
 - CPI
-- Current Population Survey
 project:
 - us-analysis
 - geopolitics-watch

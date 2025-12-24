@@ -2,8 +2,6 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- SOFI
-- hims&hers
 - Money or Life 美股频道
 date: '2025-10-29'
 draft: true
@@ -12,10 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Patreon
-products_models:
-- SOFI Pay
-- Sell Put
-- cryptocurrency
 project:
 - investment-strategy
 - us-analysis

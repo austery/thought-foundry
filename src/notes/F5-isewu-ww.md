@@ -8,7 +8,6 @@ companies_orgs:
 - Meta
 - Y Combinator
 - NVIDIA
-- Thinking Machine
 date: '2025-12-06'
 draft: true
 guest: ''
@@ -20,7 +19,6 @@ people:
 - Sam Altman
 - Mark Zuckerberg
 products_models:
-- Outlook
 - Gmail
 project:
 - ai-impact-analysis

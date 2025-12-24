@@ -4,7 +4,6 @@ category: culture
 companies_orgs:
 - Meta
 - TikTok
-- MSN
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -16,10 +15,6 @@ media_books:
 - Coldplay
 - Death Cab for Cutie
 products_models:
-- ExitReality
-- Second Life
-- Club Penguin
-- Habbo Hotel
 - iPod
 project:
 - cultural-critique

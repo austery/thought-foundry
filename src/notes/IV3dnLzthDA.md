@@ -2,22 +2,15 @@
 area: society-systems
 category: science
 companies_orgs:
-- Manhattan Project
 - Cadillac
 - General Motors
 - DuPont
-- Standard Oil of New Jersey
-- Ethyl Corporation
 - Caltech
-- American Chemical Society
 - MIT
 - Harvard
 - Yale
-- US Health Service
 - CDC
-- UNICEF
 - Wren
-- Montreal Protocol
 date: '2022-04-22'
 draft: true
 guest: ''
@@ -25,19 +18,6 @@ insight: ''
 layout: post.njk
 people:
 - Benjamin Franklin
-products_models:
-- Cadillac Model 30
-- Freon
-- Tetraethyl lead
-- Uranium-235
-- Uranium-238
-- Lead-206
-- n-heptane
-- iso-octane
-- methyl formate
-- sulfur dioxide
-- dichlorodifluoromethane
-- CFCs
 project:
 - systems-thinking
 - historical-insights

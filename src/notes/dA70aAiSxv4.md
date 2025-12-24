@@ -3,7 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - a16z
-- NAACP
 - UC Berkeley
 date: '2025-10-24'
 draft: true

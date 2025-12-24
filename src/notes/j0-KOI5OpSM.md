@@ -3,13 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 清华大学
-- 北京市公安局
 - 公安部
-- 中央政法委
 - 央视
-- 国务院法制办
-- 北京市人民政府
-- 上海复旦大学
 - 白宫
 - 新华网
 - 人民日报

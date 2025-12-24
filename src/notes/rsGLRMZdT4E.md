@@ -5,28 +5,15 @@ companies_orgs:
 - Norges Bank
 - Norges Bank Investment Management
 - Bank of England
-- Network for Greening the Financial System
 - European Central Bank
-- Cicero
 - IPCC
-- World Weather Attribution
-- International Maritime Organization
 - Stanford University
-- Climate Impact Lab
 - White House
-- University of St. Gallen
-- Swiss Finance Institute
-- Finance Norway
-- Northwestern University
 - European Commission
-- European Parliament
 - IMF
-- Generation Investment Management
-- Nobel Committee
 - WTO
 - International Energy Agency
 - University of Texas
-- CDP
 - Columbia University
 date: '2025-10-21'
 draft: true
@@ -43,11 +30,6 @@ people:
 - Christine Lagarde
 - Al Gore
 - Kristin Halvorsen
-products_models:
-- Paris Agreement
-- European Emissions Trading Scheme
-- Fit for 55
-- Nord Stream 2
 project:
 - investment-strategy
 - systems-thinking

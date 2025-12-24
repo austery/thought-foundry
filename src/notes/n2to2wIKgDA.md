@@ -11,11 +11,7 @@ companies_orgs:
 - Nvidia
 - CoreWeave
 - Oracle
-- Rippling
 - Cursor
-- Barry
-- Chaz.com
-- Liquid Death
 date: '2025-11-26'
 draft: true
 guest: ''
@@ -29,24 +25,11 @@ products_models:
 - Gemini
 - Deepseek
 - ChatGPT
-- ChatGPT Plus
-- ChatGPT Pro
 - Azure
-- Azure OpenAI services
-- Bing AI
 - Microsoft 365
 - Teams
 - Co-pilot
-- Azure Cognitive Search
-- Azure Functions
-- Azure Key Vault
-- Azure Rulebased Control
 - Google Workspace
-- Tensor Processing Units
-- Tranium 2
-- AWS Bedrock
-- Google Vertex AI
-- Azure AI Foundry
 project:
 - ai-impact-analysis
 - investment-strategy

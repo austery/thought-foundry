@@ -2,13 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中共中央书记处
 - 国务院
 - IMF
 - 世界银行
 - 高盛
-- 国家发改委
-- 国家药监局
 - 人民日报
 date: '2025-10-28'
 draft: true

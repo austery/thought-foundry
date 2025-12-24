@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- alo-yoga
 - lululemon
 date: '2025-08-22'
 draft: true

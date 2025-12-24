@@ -19,11 +19,9 @@ companies_orgs:
 - Instagram
 - WhatsApp
 - a16z
-- Bain & Company
 - Boston Consulting Group
 - Accenture
 - Infosys
-- Everlaw
 date: '2025-12-12'
 draft: true
 guest: ''
@@ -50,18 +48,13 @@ products_models:
 - Google Maps
 - Tinder
 - YouTube
-- Google Flights
 - Bloomberg
-- PitchBook
 - Chrome
 - Safari
-- DSL
 - iPhone
 - Android
-- Netscape
 - Apple II
 - DOS
-- Win32
 project:
 - ai-impact-analysis
 - market-cycles

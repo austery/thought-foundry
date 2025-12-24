@@ -10,7 +10,6 @@ companies_orgs:
 - Anthropic
 - OpenAI
 - Microsoft
-- Runway ML
 - Salesforce
 - Intel
 - XAI
@@ -21,15 +20,9 @@ companies_orgs:
 - Carlyle
 - Blackstone
 - KKR
-- TPG
 - Apollo
 - Andreessen Horowitz
-- General Atlantic
 - General Catalyst
-- Insight Partners
-- Lightspeed Venture Partners
-- Control Labs
-- Sakana AI
 date: '2025-09-08'
 draft: true
 guest: ''
@@ -55,19 +48,13 @@ people:
 - Plato
 - Socrates
 products_models:
-- Bard
 - Gemini Flash
-- Veo 3
 - Midjourney
 - Claude
 - Nano Banana
 - Photoshop
-- MS Paint
 - Qwen
 - GPT
-- H100 chips
-- Blackwell chips
-- Red Hat
 - Linux
 - GitHub
 - WhatsApp
@@ -75,7 +62,6 @@ products_models:
 - Facebook
 - Twitter
 - Gmail
-- Google Calendar
 - Google Slides
 project:
 - ai-impact-analysis

@@ -19,14 +19,10 @@ layout: post.njk
 media_books:
 - AI Hype vs Reality
 products_models:
-- GenAI
 - GPT
 - Claude
 - Llama
 - GitHub Copilot
-- IBM's LLM
-- Harvey
-- Nisphere
 project:
 - ai-impact-analysis
 - investment-strategy

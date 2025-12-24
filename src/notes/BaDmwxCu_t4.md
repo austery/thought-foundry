@@ -14,11 +14,8 @@ media_books:
 products_models:
 - Nano Banana
 - Gemini
-- Imagine
 - Veo
 - Photoshop
-- LM Arena
-- SynthID
 project:
 - ai-impact-analysis
 - systems-thinking

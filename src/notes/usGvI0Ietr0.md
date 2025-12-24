@@ -3,7 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - Vanity Fair
-- Republican National Committee
 date: '2025-12-21'
 draft: true
 guest: ''

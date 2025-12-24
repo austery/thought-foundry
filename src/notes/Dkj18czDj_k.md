@@ -17,7 +17,6 @@ people:
 - Donald Trump
 - Joe Biden
 products_models:
-- HYG
 - TLT
 project:
 - us-analysis

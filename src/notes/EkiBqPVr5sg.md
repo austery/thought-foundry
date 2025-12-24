@@ -2,12 +2,7 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- 华信集团
-- 浙金中心
-- 浙江省金融市场投资有限公司
-- 宁波城建投资股份有限公司
 - 国信证券
-- 民生银行
 date: '2025-12-22'
 draft: true
 guest: ''

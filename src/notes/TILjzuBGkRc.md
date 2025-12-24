@@ -2,9 +2,7 @@
 area: society-systems
 category: technology
 companies_orgs:
-- US Government lab
 - NIST
-- Lutron
 date: '2022-12-24'
 draft: true
 guest: ''
@@ -12,9 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Matt
-products_models:
-- Caseta by Lutron
-- N95
 project:
 - us-analysis
 - geopolitics-watch

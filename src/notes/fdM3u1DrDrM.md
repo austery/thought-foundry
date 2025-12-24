@@ -30,10 +30,6 @@ products_models:
 - Taylor rule
 - PCE
 - CPI
-- PPI
-- City Economic Surprise Index
-- Summary of Economic Projections
-- Apple Podcast
 project:
 - us-analysis
 - market-cycles

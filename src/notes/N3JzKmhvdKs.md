@@ -3,11 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 网信办
-- 党中央
-- 国税局
-- 民进党当局
 - 北京大学
-- 伊利诺大学
 date: '2025-09-13'
 draft: true
 guest: ''
@@ -30,8 +26,6 @@ products_models:
 - 抖音
 - X
 - YouTube
-- 豆瓣
-- 冈本安全套
 project:
 - china-analysis
 - geopolitics-watch

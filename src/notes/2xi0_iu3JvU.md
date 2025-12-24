@@ -4,7 +4,6 @@ category: stock-investment
 companies_orgs:
 - 东财A股
 - 中金公司
-- 万科港股
 - 发改委
 date: '2024-10-08'
 draft: true

@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - TVO Today
 - Globe and Mail
-- Ottawa Public Health
 - CNN
 date: '2025-10-29'
 draft: true

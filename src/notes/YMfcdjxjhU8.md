@@ -3,13 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 五角大楼
-- 联合特种作战司令部
-- 海豹6队
-- 基地组织
 - ISIS
-- 海岸警卫队
-- 司法部法律顾问办公室
-- 参议院军事委员会
 date: '2025-12-04'
 draft: true
 guest: ''

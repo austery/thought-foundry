@@ -2,18 +2,12 @@
 area: personal-systems
 category: career
 companies_orgs:
-- Cardone Ventures
-- 10X Health
 - McKinsey
 - Adobe
 - Canva
 - Twitch
 - Netflix
 - Apple
-- Vanta
-- Bravo
-- Elvest
-- Neo
 date: '2025-11-10'
 draft: true
 guest: ''
@@ -29,7 +23,6 @@ people:
 - Steven Bartlett
 - Elon Musk
 products_models:
-- P&L
 - CRM
 project:
 - personal-growth-lab

@@ -1,28 +1,26 @@
 ---
-title: ASML、Lam Research、台积电深度分析：AI时代的半导体投资机遇
-summary: 深度剖析半导体三巨头：ASML、Lam Research 和台积电。探讨在AI浪潮下，这些公司的核心护城河、财务状况及未来增长潜力，为投资者提供全面的分析视角。
-area: market-analysis
-category: finance
-project:
-- investment-strategy
-tags:
-- investment
-companies_orgs:
-- asml
-- lam research
-- 台积电
-products_models: []
-date: 2025-08-04
-author: Lei
-speaker: Shijun Tang
 Series: null
+area: market-analysis
+author: Lei
+category: finance
 channel: null
+companies_orgs:
+- 台积电
+date: 2025-08-04
 draft: true
 file_name: ASML_Lam_Research_TSMC_Semiconductor_Investment_Analysis.md
 guest: null
 insight: 我很认同每个人都要有自己的投资体系，要逻辑自洽，很感兴趣他的投资体系，打分什么的。
 layout: post.njk
+products_models: []
+project:
+- investment-strategy
 source: https://www.youtube.com/watch?v=EgzXI18t9pI
+speaker: Shijun Tang
+summary: 深度剖析半导体三巨头：ASML、Lam Research 和台积电。探讨在AI浪潮下，这些公司的核心护城河、财务状况及未来增长潜力，为投资者提供全面的分析视角。
+tags:
+- investment
+title: ASML、Lam Research、台积电深度分析：AI时代的半导体投资机遇
 ---
 
 ## 引言：半导体巨头的十字路口

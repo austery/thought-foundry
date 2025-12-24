@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Aspen Aerogels
 - The Boring Company
 - NASA
 date: '2019-08-31'
@@ -10,10 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- PyroGel XTE
-- FLIR T1020
-- Aerolon
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=qnOoDE9rj6w

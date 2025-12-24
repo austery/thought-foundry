@@ -9,7 +9,6 @@ companies_orgs:
 - Kremlin
 - Politico
 - CDC
-- Department of Agriculture
 date: '2025-10-22'
 draft: true
 guest: ''

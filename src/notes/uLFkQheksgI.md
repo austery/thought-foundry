@@ -18,9 +18,6 @@ people:
 - Mark Zuckerberg
 products_models:
 - Facebook Marketplace
-- Facebook Shops
-- Instagram Shops
-- iOS 14
 project:
 - us-analysis
 - historical-insights

@@ -23,7 +23,6 @@ people:
 - 查理·芒格
 products_models:
 - Rufus
-- NAMA
 - EUV
 project:
 - us-analysis

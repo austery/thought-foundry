@@ -9,17 +9,14 @@ companies_orgs:
 - 美联储
 - 甲骨文
 - OpenAI
-- SRP
 - 博通
 - Costco
 - 沃尔玛
 - Google
 - 迪士尼
-- ACM Research
 - 拼多多
 - 京东
 - 美团
-- 中国汽车工业协会
 - 欧盟
 - 台积电
 date: '2025-12-12'
@@ -34,10 +31,8 @@ people:
 - Xi Jinping
 - Donald Trump
 products_models:
-- ChatGPT 5.2
 - Gemini
 - Sora
-- Gemini Deep Research
 project:
 - china-analysis
 - us-analysis

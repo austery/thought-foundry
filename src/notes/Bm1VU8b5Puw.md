@@ -10,7 +10,6 @@ companies_orgs:
 - SAP
 - Apple
 - Meta
-- Experian
 - Equifax
 - Federal Housing Finance Agency
 date: '2025-08-18'
@@ -21,10 +20,8 @@ layout: post.njk
 media_books:
 - 《The Daily Beast》
 products_models:
-- Creative Cloud
 - Photoshop
 - Premiere Pro
-- InDesign
 - Acrobat
 - PDF
 project:

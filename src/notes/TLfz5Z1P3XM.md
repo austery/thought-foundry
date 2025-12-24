@@ -7,7 +7,6 @@ companies_orgs:
 - Tesla
 - FBI
 - ICE
-- ATF
 - DEA
 - National Guard
 date: '2025-10-18'

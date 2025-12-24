@@ -3,7 +3,6 @@ area: tech-insights
 category: business
 companies_orgs:
 - Perplexity
-- Lazard
 - Google
 - Netflix
 - Meta
@@ -11,10 +10,7 @@ companies_orgs:
 - OpenAI
 - Bloomberg
 - The Washington Post
-- Condé Nast
-- LA Times
 - Apple
-- Axel Springer
 - Robinhood
 - DOJ
 date: '2025-11-06'
@@ -32,16 +28,10 @@ people:
 - Tracy Alloway
 - Jeff Bezos
 products_models:
-- Perplexity Pro
-- Perplexity Max
-- Perplexity Finance
 - ChatGPT
-- AdWords
-- Apple News Plus
 - Bloomberg Terminal
 - Chrome
 - Comet
-- Comet Plus
 project:
 - ai-impact-analysis
 - entrepreneurship

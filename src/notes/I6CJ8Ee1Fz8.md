@@ -17,7 +17,6 @@ companies_orgs:
 - Apple
 - Nvidia
 - Snowflake
-- Applovin
 - Costco
 - BMR
 - Google
@@ -31,7 +30,6 @@ companies_orgs:
 - AWS
 - Oracle
 - Cipher
-- Wolf
 - Microsoft
 - Amcore
 - Vertiv
@@ -43,7 +41,6 @@ companies_orgs:
 - Netflix
 - Warner Bros. Discovery
 - Paramount
-- Celestial AI
 - Macy's
 - Best Buy
 - Burlington
@@ -51,19 +48,15 @@ companies_orgs:
 - Urban Outfitters
 - SoFi
 - Rocket Lab
-- Satra Space
 - Rivian
 - Lyft
 - Uber
-- Weebull
 - Celsius
 - Salesforce
 - OpenDoor
-- ONDS
 - Dutch Bros
 - UBS
 - Broadcom
-- Pangia Technology
 date: '2025-12-03'
 draft: true
 guest: ''
@@ -84,11 +77,9 @@ people:
 - Jason
 products_models:
 - S&P 500
-- Invest America
 - Bitcoin
 - Trainium
 - HBO Max
-- Falcon Flex
 - QQQ
 - Ethereum
 project:

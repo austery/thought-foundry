@@ -2,19 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 光线传媒集团
 - 泡泡玛特
-- 三丽鸥
-- Kiddy Land
 - 小米集团
-- 联想集团
-- 百度集团
-- 苏富比
-- 佳士得
-- 华特迪士尼公司
 - 喜茶
 - 蜜雪冰城
-- 四通公司
 date: '2025-06-21'
 draft: true
 guest: ''

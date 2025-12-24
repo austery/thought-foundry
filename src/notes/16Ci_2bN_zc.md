@@ -2,7 +2,6 @@
 area: society-systems
 category: science
 companies_orgs:
-- MythBusters
 - Brilliant
 date: '2022-10-01'
 draft: true

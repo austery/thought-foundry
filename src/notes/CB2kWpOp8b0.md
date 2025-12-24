@@ -2,7 +2,6 @@
 area: tech-engineering
 category: ai-ml
 companies_orgs:
-- Social Signal
 - OpenAI
 - TVO Today
 - Antica Productions
@@ -22,14 +21,10 @@ people:
 products_models:
 - Viv
 - ChatGPT
-- Sunno
 - Alexa
 - Siri
-- Eliza
-- Palm Pilot
 - Facebook
 - Twitter
-- Second Life
 project:
 - ai-impact-analysis
 - personal-growth-lab

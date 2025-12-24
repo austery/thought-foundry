@@ -1,17 +1,11 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Jet Propulsion Laboratory
 date: '2019-08-10'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Mars helicopter
-- Mars 2020 mission
-- Vega missions
 project:
 - systems-thinking
 - ai-impact-analysis

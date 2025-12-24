@@ -3,11 +3,6 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- Novonesis
-- Christian Hansen
-- Novozymes
-- EU Commission
-- Noma
 date: '2025-11-12'
 draft: true
 guest: ''
@@ -17,12 +12,6 @@ media_books:
 - The Life of Genghis Khan
 people:
 - Nicolai Tangen
-products_models:
-- enzymes
-- microbes
-- probiotics
-- biofuels
-- cultures
 project:
 - ai-impact-analysis
 - entrepreneurship

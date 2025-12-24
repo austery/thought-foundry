@@ -2,15 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 福特汽车公司
 - 通用汽车
-- 斯特兰蒂斯
 - 丰田
 - 本田
-- 雪佛兰
 - 比亚迪
 - IEA国际能源署
-- Abacus data
 - Clean Energy Canada
 date: '2025-09-08'
 draft: true
@@ -26,8 +22,6 @@ products_models:
 - 福特F-150闪电皮卡
 - 现代KONA
 - 雪铁龙C3
-- 丰田花冠
-- 本田思域
 - 丰田RAV4
 - 雪佛兰BrightDrop
 project:

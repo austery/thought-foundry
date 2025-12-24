@@ -2,8 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Wasserman Business Law
-- Competition Bureau
 - TVO Today
 date: '2025-10-23'
 draft: true

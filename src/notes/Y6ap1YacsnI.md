@@ -2,8 +2,6 @@
 area: society-systems
 category: business
 companies_orgs:
-- DMZ
-- Monarch
 - Toronto Metropolitan University
 date: '2025-10-23'
 draft: true

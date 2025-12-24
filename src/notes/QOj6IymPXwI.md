@@ -17,8 +17,6 @@ people:
 - Kevin Hassett
 - Jerome Powell
 products_models:
-- XSOXL
-- XSOXS
 - S&P 500
 project:
 - us-analysis

@@ -24,14 +24,9 @@ people:
 - 户晨风
 - Xi Jinping
 products_models:
-- OPPO A9
 - 特斯拉
 - 苹果
 - 安卓
-- 麦当劳
-- 星巴克
-- 山姆
-- 博依德
 project:
 - china-analysis
 - geopolitics-watch

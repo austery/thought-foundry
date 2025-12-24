@@ -1,19 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 故宫博物院
-- 台北故宫博物院
-- 故宫南院
-- 二玄社
-- 浙江博物馆
-- 沈春池文教基金会
-- 中央研究院
-- 大英博物馆
-- 国家博物馆
-- 奈良国立博物馆
-- 富士美术馆
-- 正仓院
 date: '2025-11-07'
 draft: true
 guest: ''

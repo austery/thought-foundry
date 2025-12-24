@@ -5,7 +5,6 @@ companies_orgs:
 - Polymarket
 - FBI
 - Heritage Foundation
-- Heritage Action
 - NATO
 - UN Security Council
 - SoftBank
@@ -67,12 +66,8 @@ people:
 - 王志安
 - 朱棣
 products_models:
-- ACA
-- H1B
-- EB5
 - H20
 - GPT
-- COT
 project:
 - us-analysis
 - geopolitics-watch

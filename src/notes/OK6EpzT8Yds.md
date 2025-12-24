@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - palantir
-- snowflake
 date: '2025-10-16'
 draft: true
 guest: ''
@@ -12,8 +11,6 @@ layout: post.njk
 media_books: []
 people:
 - amit-kukreja
-products_models:
-- ethereum
 project:
 - investment-strategy
 - market-cycles

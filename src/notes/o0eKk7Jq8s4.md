@@ -27,12 +27,6 @@ people:
 - Marian Lozano
 - Diane Wong
 - Cliff Levy
-products_models:
-- American Girl dolls
-- Chromebook
-- Keepa
-- Camelcamelcamel
-- Google Shopping
 project:
 - us-analysis
 - market-cycles

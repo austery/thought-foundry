@@ -5,7 +5,6 @@ companies_orgs:
 - Meta
 - PayPal
 - SpaceX
-- Gawker
 date: '2025-10-21'
 draft: true
 guest: ''

@@ -3,17 +3,13 @@ area: market-analysis
 category: business
 companies_orgs:
 - OpenAI
-- Sierra Technology
 - Google
-- FriendFeed
 - Meta
-- Quip
 - Salesforce
 - Twitter
 - Microsoft
 - Sun Microsystems
 - Pets.com
-- Etoys
 - Amazon
 - Square
 - Nvidia
@@ -33,14 +29,8 @@ people:
 - Marc Benioff
 - Jack Dorsey
 products_models:
-- Google Local
 - Google Maps
-- FriendFeed
-- Quip
-- Like button
 - ChatGPT
-- TI-85 calculator
-- HP computer
 project:
 - ai-impact-analysis
 - entrepreneurship

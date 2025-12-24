@@ -2,7 +2,6 @@
 area: personal-systems
 category: career
 companies_orgs:
-- 明基亚太
 - 哈佛大学
 - 天下文化
 date: '2025-08-29'

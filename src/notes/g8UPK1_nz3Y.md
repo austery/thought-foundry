@@ -3,11 +3,6 @@ area: market-analysis
 category: geopolitics
 companies_orgs:
 - 彭博
-- 台湾自测会产业情报研究所
-- 美国新闻周刊
-- 海軍研究所
-- 华盛顿战略与国际研究中心
-- 昆西战略研究所
 - 台积电
 date: '2025-07-27'
 draft: true
@@ -22,10 +17,7 @@ people:
 - Donald Trump
 - 赖清德
 products_models:
-- 微晶片
 - 半导体
-- 晶片
-- 处理器
 project:
 - china-analysis
 - us-analysis

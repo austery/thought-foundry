@@ -9,7 +9,6 @@ companies_orgs:
 - ASML
 - TSMC
 - BYD
-- Lianhe Zaobao
 - Deutsche Welle
 - Reuters
 - The Wall Street Journal
@@ -29,9 +28,6 @@ people:
 - Kevin Hassett
 - Nicolás Maduro
 - xi-jinping
-products_models:
-- GDP
-- EUV lithography machine
 project:
 - china-analysis
 series: ''

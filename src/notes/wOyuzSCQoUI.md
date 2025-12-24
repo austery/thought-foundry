@@ -16,17 +16,11 @@ products_models:
 - Bitcoin
 - Ethereum
 - Solana
-- Cardano
-- Sui
-- Uniswap
-- Chainlink
 - Dogecoin
 - XRP
-- Litecoin
 - S&P 500
 - Nasdaq
 - Russell 2000
-- EMA
 project:
 - investment-strategy
 - market-cycles

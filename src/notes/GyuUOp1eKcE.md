@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Providence City Court
 date: '2025-08-23'
 draft: true
 guest: ''

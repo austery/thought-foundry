@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- PO.AI
 - National Science Foundation
 - IBM
 date: '2025-08-22'
@@ -15,14 +14,7 @@ people:
 products_models:
 - LLM
 - RAG
-- KAG
-- N8N
-- Neo4j
-- OpenAI model
-- Anthropic model
-- Chroma DB
 - LangChain
-- Cypher
 project:
 - ai-impact-analysis
 - systems-thinking

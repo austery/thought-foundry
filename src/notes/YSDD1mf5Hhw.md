@@ -2,14 +2,10 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Lynas Rare Earths
 - 中国外交部
 - 花旗银行
-- 中国证券监督管理委员会
 - Nvidia
-- 韩国科学技术情报通信部
 - 三星电子
-- 现代汽车集团
 - SK集团
 - SK电讯
 - SK海力士
@@ -19,7 +15,6 @@ companies_orgs:
 - Amazon
 - Google
 - Microsoft
-- Fiserv Inc.
 - 美联储
 - BlackRock
 - 国家发展和改革委员会
@@ -27,7 +22,6 @@ companies_orgs:
 - Netflix
 - Warner Bros. Discovery
 - Coinbase
-- UA Zensen
 date: '2025-10-31'
 draft: true
 guest: ''
@@ -55,9 +49,6 @@ products_models:
 - iPhone
 - Mac
 - iPad
-- Nvidia Blackwell Architecture Processors
-- Nvidia RTX Pro 6000 Blackwell Server Chips
-- A14 Semiconductor Factory
 project:
 - us-analysis
 - china-analysis

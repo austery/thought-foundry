@@ -10,10 +10,6 @@ layout: post.njk
 media_books: '[]'
 people: '[]'
 products_models:
-- OpenSpec
-- SpecKit
-- Kero
-- WebCoding
 - Cursor
 - Codex
 - Cloud Code

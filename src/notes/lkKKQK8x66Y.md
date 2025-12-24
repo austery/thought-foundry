@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- 美国经济学会
 date: '2025-11-30'
 draft: true
 guest: ''

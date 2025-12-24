@@ -6,11 +6,8 @@ companies_orgs:
 - NASA
 - Bell Labs
 - Texas Instruments
-- Fairchild Semiconductor
 - KGB
-- CoCom
 - IBM
-- Hewlett-Packard
 - Samsung
 - Intel
 - Nvidia
@@ -20,10 +17,7 @@ companies_orgs:
 - Huawei
 - Nokia
 - Ericsson
-- U.S. Department of Defense
-- Tsinghua Unigroup
 - AT&T
-- Industrial Technology Research Institute (ITRI)
 date: '2023-04-10'
 draft: true
 guest: ''
@@ -45,14 +39,10 @@ people:
 - Joe Biden
 - Ginni Rometty
 products_models:
-- Transistor
-- Integrated Circuit
 - ENIAC
-- SN-51
 - Walkman
 - iPhone
 - GPU
-- 3D graphics processor
 project:
 - us-analysis
 - china-analysis

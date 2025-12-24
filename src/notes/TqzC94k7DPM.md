@@ -5,12 +5,8 @@ companies_orgs:
 - Federal Reserve
 - Goldman Sachs
 - Toyota
-- Democratic Progressive Party
 - Kuomintang
-- Japan Innovation Party
 - Alibaba
-- Tmall
-- Taobao
 - JD.com
 - Chinese Communist Party
 date: '2025-11-13'

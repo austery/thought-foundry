@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- Girls Fly Africa
 date: '2025-12-04'
 draft: true
 guest: ''

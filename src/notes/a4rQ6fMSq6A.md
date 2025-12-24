@@ -5,11 +5,9 @@ companies_orgs:
 - Polymarket
 - FBI
 - 伯克希尔·哈撒韦
-- Ota
 - Block
 - 比亚迪
 - Monster Beverage
-- Directional ETFs
 date: '2024-10-28'
 draft: true
 guest: ''
@@ -22,7 +20,6 @@ people:
 - 巴菲特
 - Elon Musk
 products_models:
-- 刀片电池
 - Square支付系统
 - Cash App
 project:

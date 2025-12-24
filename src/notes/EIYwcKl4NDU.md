@@ -2,7 +2,6 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- AI Super PAC Leading the Future
 - Meta
 - Google
 - XAI
@@ -13,15 +12,10 @@ companies_orgs:
 - Mistral
 - Palantir
 - Bloomberg Podcasts
-- Census Bureau
-- Bureau of Economic Analysis
 - Department of Justice
-- Veterans Affairs
 - CDC
 - Netflix
 - Uniqlo
-- Condé Nast
-- DFS
 date: '2025-12-18'
 draft: true
 guest: ''
@@ -38,8 +32,6 @@ people:
 products_models:
 - GPT-4
 - BERT
-- Laser
-- Gemini image generator
 - ChatGPT
 project:
 - ai-impact-analysis

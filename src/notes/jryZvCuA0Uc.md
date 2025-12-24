@@ -2,8 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Chroma
-- Weights & Biases
 - Anthropic
 date: '2025-08-06'
 draft: true
@@ -11,12 +9,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- MTeb
-- Gina embeddings v3
-- Voyage 3 large
-- text embedding three small
 - Gemini
-- Cleo
 project:
 - ai-impact-analysis
 - systems-thinking

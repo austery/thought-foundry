@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- AKB48
-- EA
 date: '2025-09-14'
 draft: true
 guest: ''
@@ -13,9 +10,6 @@ media_books:
 - The Pillow Book
 - On Cuteness
 - Konjaku Monogatarishu
-products_models:
-- Red Alert 3
-- Yuriko
 project:
 - cultural-critique
 - historical-insights

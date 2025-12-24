@@ -9,8 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- GLM-4.6V
-- GLM-4.6V flash
 - GRM 4.5 V纤文3VL系列
 - Kimi VL系列
 - SteerPE P3 321B系列

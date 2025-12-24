@@ -1,11 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 国际奥委会
-- 国际田径联合会
-- 国际拳击协会
-- 欧洲人权法院
 date: '2024-08-08'
 draft: true
 guest: ''

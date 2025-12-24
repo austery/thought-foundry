@@ -17,7 +17,6 @@ people:
 - Jerome Powell
 - 贝森特
 products_models:
-- 美投君期权课
 - 美投prop lus
 project:
 - us-analysis

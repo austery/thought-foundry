@@ -3,7 +3,6 @@ area: society-systems
 category: science
 companies_orgs:
 - LastPass
-- RusCosmos
 date: '2019-09-19'
 draft: true
 guest: ''
@@ -16,9 +15,6 @@ media_books:
 - Salyut 7 (movie)
 people:
 - Richard Feynman
-products_models:
-- Salyut 7
-- Explorer 1
 project:
 - geopolitics-watch
 - historical-insights

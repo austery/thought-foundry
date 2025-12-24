@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- deepmind
 date: '2025-10-17'
 draft: true
 guest: ''

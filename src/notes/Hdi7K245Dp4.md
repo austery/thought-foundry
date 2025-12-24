@@ -12,11 +12,8 @@ companies_orgs:
 - Novo Nordisk
 - Eli Lilly
 - Oracle
-- Nabius
 - Azure
 - Crusoe
-- FluidStack
-- SamiAnalysis
 date: '2025-11-15'
 draft: true
 guest: ''
@@ -27,7 +24,6 @@ people:
 - Elon Musk
 - Donald Trump
 products_models:
-- Cybercap
 - Optimus
 project:
 - investment-strategy

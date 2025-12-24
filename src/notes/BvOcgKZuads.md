@@ -4,7 +4,6 @@ category: culture
 companies_orgs:
 - OECD
 - 纽约大学
-- 牛津大学
 date: '2022-09-03'
 draft: true
 guest: ''

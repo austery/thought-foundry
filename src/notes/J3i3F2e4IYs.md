@@ -4,7 +4,6 @@ category: science
 companies_orgs:
 - NFL
 - NordVPN
-- The American Journal of Physics
 date: '2025-06-01'
 draft: true
 guest: ''
@@ -16,9 +15,6 @@ people:
 - Tom Brady
 - Derek Muller
 - Henry
-products_models:
-- Musket
-- Minie bullet
 project:
 - systems-thinking
 - historical-insights

@@ -3,16 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - New York Times Book Review
-- Northwestern Mutual Life Insurance
-- National Steel
 - Ford Motor Company
-- J.L. Hudson
-- Hudson Dayton
-- Great Lakes Shipwreck Museum
-- Eastern Michigan University
-- University of Michigan
-- Ohio State
-- Great Lakes Maritime Academy
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -31,10 +22,6 @@ media_books:
 people:
 - Gilbert Cruz
 - John D. Rockefeller
-products_models:
-- SS Edmund Fitzgerald
-- Arthur Anderson
-- Wilfrid Sykes
 project:
 - us-analysis
 - historical-insights

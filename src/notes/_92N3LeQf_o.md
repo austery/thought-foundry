@@ -13,7 +13,6 @@ companies_orgs:
 - TSMC
 - Federal Reserve
 - Bank of Japan
-- World Gold Council
 - Citi
 - Morgan Stanley
 - Apple

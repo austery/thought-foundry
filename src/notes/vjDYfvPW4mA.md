@@ -4,13 +4,9 @@ category: technology
 companies_orgs:
 - FAA
 - FCC
-- Aloha Airlines
 - Boeing
 - Airbus
 - Ground News
-- The Independent
-- SCMP
-- Free Press
 date: '2024-08-31'
 draft: true
 guest: ''
@@ -21,8 +17,6 @@ media_books:
 - Mentour Pilot
 - Ground News
 products_models:
-- Boeing 737
-- Airbus
 - 5G
 project:
 - systems-thinking

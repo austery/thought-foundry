@@ -3,8 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - Norges Bank Investment Management
-- Norwegian Government Petroleum Fund
-- Oakland A's
 date: '2025-02-04'
 draft: true
 guest: ''

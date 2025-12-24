@@ -2,15 +2,12 @@
 area: society-systems
 category: business
 companies_orgs:
-- GSK
 - Norges Bank Investment Management
 - Microsoft
 - Novartis
 - Pfizer
 - WHO
-- EMA
 - FDA
-- MHRA
 date: '2025-04-02'
 draft: true
 guest: ''
@@ -22,10 +19,6 @@ media_books:
 people:
 - Nicola Tangan
 - Bill Gates
-products_models:
-- Trilogy
-- Shingrix
-- Arexvy
 project:
 - ai-impact-analysis
 - entrepreneurship

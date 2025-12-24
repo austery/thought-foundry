@@ -7,11 +7,8 @@ companies_orgs:
 - International Energy Agency
 - Google
 - OPEC
-- Dallas Federal Reserve
-- Commonwealth Fusion
 - MIT
 - Amazon
-- Nuclear Regulatory Commission
 date: '2025-10-24'
 draft: true
 guest: ''
@@ -31,8 +28,6 @@ people:
 - Winston Churchill
 - Elon Musk
 - Xi Jinping
-products_models:
-- Small Modular Reactors
 project:
 - us-analysis
 - china-analysis

@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - Harvard University
 - Gallup
-- 国立卫生研究院
 date: '2025-11-20'
 draft: true
 guest: ''

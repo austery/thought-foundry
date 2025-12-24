@@ -2,7 +2,6 @@
 area: tech-insights
 category: science
 companies_orgs:
-- Australian Reptile Park
 - World Health Organization
 date: '2022-03-22'
 draft: true

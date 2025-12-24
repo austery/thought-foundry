@@ -16,9 +16,7 @@ people:
 - Jerome Powell
 products_models:
 - GPU
-- ASIC
 - TLT
-- WLD
 - Bitcoin
 - Ethereum
 project:

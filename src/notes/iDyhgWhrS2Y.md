@@ -1,8 +1,6 @@
 ---
 area: society-thinking
 category: politics-society
-companies_orgs:
-- 华中师范大学社会学院
 date: '2025-12-15'
 guest: ''
 layout: post.njk

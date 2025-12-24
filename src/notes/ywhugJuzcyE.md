@@ -8,8 +8,6 @@ companies_orgs:
 - Pinterest
 - Meta
 - Google
-- Wealthfront
-- Kaching
 - University of Pennsylvania
 - Lehman Brothers
 - Uber
@@ -19,26 +17,16 @@ companies_orgs:
 - MIT
 - Charles Schwab
 - GameStop
-- AMC
-- KCG
-- Knight Capital
-- Getco
-- Deposit Trust & Clearing Corporation
 - Instagram
 - TikTok
-- Apex Clearing
 - Celsius
-- BlockFi
 - FTX
 - Bloomberg
 - Palantir
 - Bullish
-- Gemini
 - Tesla
-- T. Rowe Price
 - Fidelity
 - Morgan Stanley
-- E*TRADE
 - DARPA
 - CIA
 date: '2025-11-21'
@@ -57,12 +45,8 @@ people:
 products_models:
 - iPhone
 - ETF
-- IPO Access
-- Robinhood Ventures
 - S&P 500
 - ChatGPT
-- Apple Wallet
-- 10B5-1 Plan
 project:
 - investment-strategy
 - us-analysis

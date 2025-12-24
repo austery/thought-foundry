@@ -3,10 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Hamas
-- IDF
-- ICRC
 - UN Security Council
-- University of Toronto's Bill Graham Centre for Contemporary International History
 date: '2025-11-05'
 draft: true
 guest: ''

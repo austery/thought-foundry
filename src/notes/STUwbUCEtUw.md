@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: technology
-companies_orgs:
-- Wild Nature Institute
-- Fundación Biodiversa Colombia
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -11,8 +8,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Game of Thrones
-products_models:
-- SPARROW
 project:
 - ai-impact-analysis
 - systems-thinking

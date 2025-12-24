@@ -9,7 +9,6 @@ companies_orgs:
 - BMW
 - Mercedes-Benz
 - LVMH
-- Chanel
 - Toyota
 - Sony
 - Federal Reserve

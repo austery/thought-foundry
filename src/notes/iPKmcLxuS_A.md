@@ -5,7 +5,6 @@ companies_orgs:
 - Microsoft
 - Statsig
 - Amazon
-- Stack Overflow
 - Boeing
 - Uber
 - OpenAI
@@ -13,10 +12,6 @@ companies_orgs:
 - Google
 - Linear
 - IBM
-- HashiCorp
-- id Software
-- Bluesky
-- Microsoft Press
 date: '2025-09-10'
 draft: true
 guest: ''
@@ -43,12 +38,9 @@ products_models:
 - Jira
 - GitHub
 - Google Docs
-- OS/2
-- Doom
 - Instagram
 - WhatsApp
 - ChatGPT
-- Terraform
 project:
 - personal-growth-lab
 - systems-thinking

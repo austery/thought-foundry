@@ -13,7 +13,6 @@ layout: post.njk
 people:
 - Ben
 products_models:
-- Anti-gravity
 - Gemini 3 Pro
 - Gemini
 - Nano Banana Pro

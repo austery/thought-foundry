@@ -1,8 +1,6 @@
 ---
 area: tech-work
 category: ai-ml
-companies_orgs:
-- 10X
 date: '2025-12-19'
 draft: true
 guest: ''

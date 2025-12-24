@@ -3,9 +3,6 @@ area: market-analysis
 category: business
 companies_orgs:
 - Bloomberg
-- Alaska Housing Finance Corporation
-- Alaska Association of the Housing Authorities
-- HUD
 date: '2025-08-18'
 draft: true
 guest: ''
@@ -17,8 +14,6 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 - Mary Daly
-products_models:
-- AKwarm
 project:
 - us-analysis
 - investment-strategy

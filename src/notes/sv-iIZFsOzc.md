@@ -2,11 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Stimson Center
-- Avic Changdu Aircraft
 - Boeing
 - Airbus
-- Embraer
 - COMAC
 - Lockheed Martin
 - Taliban
@@ -30,20 +27,7 @@ people:
 - Elon Musk
 products_models:
 - H20
-- J20
-- Loyal Wingman
 - F-35
-- F-22
-- F-47
-- B-21
-- MiG-21
-- PL-15
-- AWACS
-- Patriot system
-- A-10
-- Grippen
-- J36
-- J50
 project:
 - china-analysis
 - us-analysis

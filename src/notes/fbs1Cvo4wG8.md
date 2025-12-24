@@ -2,22 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 加拿大領導人辯論委員會
-- 加拿大廣播公司
 - Radio Canada
 - TVO安省電視台
-- 蒙特利爾加拿大人隊
-- 卡羅萊納颶風隊
-- 多倫多楓葉隊
-- 渥太華參議員隊
-- 溫尼伯噴氣機隊
-- 埃德蒙頓油人隊
-- 新民主黨
-- 自由黨
-- 保守黨
-- 魁人政團
-- 綠黨
-- 世界經濟論壇
 date: '2025-04-20'
 draft: true
 guest: ''

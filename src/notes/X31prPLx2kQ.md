@@ -2,11 +2,6 @@
 area: society-systems
 category: business
 companies_orgs:
-- 大统华
-- Safeway
-- 统一企业集团
-- 大华超市
-- Loblaw Companies Limited
 - 德勤
 date: '2025-10-19'
 draft: true

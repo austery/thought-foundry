@@ -1,11 +1,10 @@
 ---
 area: tech-work
 category: ai-ml
+companies:
+- kyc-compliance
 companies_orgs:
-- Neverless
 - Revolut
-- Wise
-- SafePal
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -13,10 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - Nico
-products_models:
-- Neverless APP
-- Wise
-- Fiat24
 project:
 - ai-impact-analysis
 series: ''
@@ -27,8 +22,6 @@ summary: 介绍Neverless交易所的合规资质、入金方式、出金路径�
 tags:
 - crypto-exchange
 title: Neverless：合规加密货币交易所的出入金解决方案
-companies:
-- kyc-compliance
 ---
 
 ### 欧洲持牌交易所Neverless简介

@@ -11,7 +11,6 @@ companies_orgs:
 - Comcast
 - Applied Materials
 - Intel
-- Paccar
 - New York Stock Exchange
 - Carlyle
 - Disney
@@ -26,14 +25,6 @@ people:
 - Adena Friedman
 - Bob Iger
 - Michael Dell
-products_models:
-- ADR
-- GDR
-- Nasdaq Private Market
-- Verafin
-- Axiom
-- Clipo
-- Investment
 project:
 - investment-strategy
 - ai-impact-analysis

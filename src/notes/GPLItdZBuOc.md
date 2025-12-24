@@ -6,12 +6,8 @@ companies_orgs:
 - BBC
 - Pinduoduo
 - Meituan
-- Ele.me
-- Ruixing Coffee
 - BYD
 - Xiaomi
-- Vivo
-- Oppo
 date: '2024-12-24'
 draft: true
 guest: ''

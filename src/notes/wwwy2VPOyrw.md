@@ -5,8 +5,6 @@ companies_orgs:
 - YouTube
 - Patreon
 - 爱奇艺
-- VS Media Taiwan
-- 台湾民视新闻网影音中心
 - 抖音
 - 笑果文化
 date: '2025-12-06'

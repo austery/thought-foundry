@@ -2,14 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Dunn Global
 - Meta
-- SK Group
 - FBI
 - DEA
 - Walmart
 - CVS
-- Walgreens
 - CDC
 date: '2025-12-08'
 draft: true
@@ -26,8 +23,6 @@ people:
 products_models:
 - Adderall
 - OxyContin
-- Vicodin
-- 羟考酮
 project:
 - us-analysis
 - geopolitics-watch

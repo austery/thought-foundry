@@ -1,11 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 滴滴打车
-- 曹操出行
-- 美团出行
-- 高德打车
 date: '2024-11-17'
 draft: true
 guest: ''

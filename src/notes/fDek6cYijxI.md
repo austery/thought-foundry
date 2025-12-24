@@ -13,9 +13,6 @@ people:
 - Isaac Newton
 - Pierre-Simon Laplace
 - Henri Poincaré
-products_models:
-- LastPass
-- Laplace's demon
 project:
 - systems-thinking
 - historical-insights

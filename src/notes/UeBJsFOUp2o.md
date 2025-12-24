@@ -4,32 +4,18 @@ category: politics-society
 companies_orgs:
 - 美国劳工部
 - 华尔街日报
-- 瑞银投资银行
 - 芝加哥商品交易所
 - CNBC
-- 美国国税局
 - 特斯拉
 - 彭博社
-- 川普媒体与科技集团公司
-- TAE
 - Google
-- 雪佛龙
 - 高盛
 - 路透社
-- 利弗莫尔国家实验室
-- 巨变工业协会
-- 国会山
 - 美国司法部
 - 摩根大通
-- 周刊文春
-- 嘉能全球战略研究所
 - 抖音
-- 哔哩哔哩
-- 嘉能中山工厂
 - 新华社
 - 国台办
-- 海峡导报
-- 中纪委国家监委
 date: '2025-12-18'
 draft: true
 guest: ''
@@ -50,12 +36,6 @@ people:
 - Xi Jinping
 products_models:
 - FSD
-- F-16V
-- M109A7
-- 海马斯
-- 标枪反坦克导弹
-- 陆军战术导弹系统
-- 阿尔提乌斯巡飞无人机
 project:
 - china-analysis
 - us-analysis

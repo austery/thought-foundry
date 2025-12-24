@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- 衛生署食品衛生處
 - 初日醫學
 - Cofit
 date: '2025-07-16'

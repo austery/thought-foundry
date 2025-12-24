@@ -7,7 +7,6 @@ companies_orgs:
 - HubSpot
 - Google
 - OpenAI
-- Table Group
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -16,8 +15,6 @@ layout: post.njk
 media_books:
 - The Five Dysfunctions of a Team
 products_models:
-- Zapier Agents
-- Fathom
 - NotebookLM
 project:
 - ai-impact-analysis

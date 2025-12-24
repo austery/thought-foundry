@@ -4,12 +4,6 @@ category: geopolitics
 companies_orgs:
 - Nvidia
 - Palantir
-- Ministry of Finance of China
-- National Development and Reform Commission of China
-- Heilongjiang Natural and Ecological Resources Trading Center
-- Qiqihar Zheyuan Environmental Protection Industry Co., Ltd.
-- General Office of the State Council of China
-- US-China Business Council
 date: '2025-11-05'
 draft: true
 guest: ''

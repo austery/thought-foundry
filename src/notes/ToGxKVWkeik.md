@@ -20,14 +20,9 @@ people:
 - 唐石峻
 - 沃伦·巴菲特
 products_models:
-- AAPL
 - iPhone
 - Mac
 - iPad
-- Airpod
-- App Store
-- Apple Music
-- iCloud
 - Apple Pay
 - Apple TV
 - Pixel

@@ -3,7 +3,6 @@ area: society-thinking
 category: history
 companies_orgs:
 - 人民日报
-- 华北局
 - 中科院
 date: '2025-11-29'
 draft: true

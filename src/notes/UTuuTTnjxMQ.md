@@ -53,9 +53,6 @@ products_models:
 - GPT-3
 - GPT-3.5
 - Gemini Ultra
-- SWE-bench
-- DALL-E
-- Mixtral of Experts
 - AlexNet
 - BERT
 - Gemma

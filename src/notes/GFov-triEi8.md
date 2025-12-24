@@ -7,7 +7,6 @@ companies_orgs:
 - House of Representatives
 - Republican Party
 - Democratic Party
-- Trump administration
 - FBI
 - Department of Justice
 - White House

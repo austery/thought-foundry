@@ -4,15 +4,8 @@ category: geopolitics
 companies_orgs:
 - FBI
 - 中央情报局
-- 北京市公安局
-- 美联络处
-- 新疆生产建设兵团
 - 国民政府
-- 世文联
-- 国安局
 - 公安局
-- 街道委员会
-- 知识青年上山下乡办公室
 date: '2024-06-23'
 draft: true
 guest: ''

@@ -7,14 +7,9 @@ companies_orgs:
 - CCP
 - Stanford University
 - University of Chicago
-- Institute for Advanced Study, Princeton
 - New York University
 - People's Daily
-- Nankai University
 - Tsinghua University
-- Huadong Hospital
-- United Front Work Department
-- Apple Daily
 - Kuomintang
 - Columbia University
 date: 2025-10-31
@@ -43,11 +38,6 @@ people:
 - Werner Heisenberg
 - Albert Einstein
 - Wang Yi
-products_models:
-- Yang-Mills Gauge Theory
-- Parity Non-conservation
-- Free-Electron Laser Technology
-- Electron-Positron Collider
 project:
 - china-analysis
 - historical-insights

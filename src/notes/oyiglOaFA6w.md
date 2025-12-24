@@ -8,22 +8,8 @@ companies_orgs:
 - Microsoft
 - Meta
 - Google
-- Orano
-- STMicroelectronics
-- JellySmack
-- Pay Fit
-- Back Market
-- Open Classrooms
 - Hugging Face
 - Poolside
-- Dr. Lib
-- KTO
-- Data IU
-- Content Square
-- Ledger
-- Pascal
-- Alice & Bob
-- Rosatom
 date: '2025-06-27'
 draft: true
 guest: ''

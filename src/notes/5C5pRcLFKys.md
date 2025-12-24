@@ -20,17 +20,6 @@ products_models:
 - GPT-4
 - Claude
 - DeepSeek-OCR
-- DeepEncoder
-- DeepSeek3B-MoE-A570M
-- Vary
-- InternVL2.0
-- Qwen2-VL
-- NaViT
-- SAM-base
-- CLIP-large
-- GOT-OCR2.0
-- MinerU2.0
-- PaddleOCR
 project:
 - ai-impact-analysis
 - systems-thinking

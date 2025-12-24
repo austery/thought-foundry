@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - YouTube
 - 国际特赦组织
-- NHK
 date: '2025-12-20'
 draft: true
 guest: ''
@@ -22,12 +21,6 @@ people:
 - 木村拓哉
 - 高市早苗
 - 麻生太郎
-products_models:
-- XBOX
-- Gundam
-- Card Game
-- Cyberpunk 2077
-- 原神
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ebayp-BKPJI

@@ -2,13 +2,10 @@
 area: finance-wealth
 category: macro-economy
 companies_orgs:
-- 中国证券监督管理委员会
-- 国家金融监督管理总局
 - 美联储
 - 瑞银
 - 摩根大通
 - Netflix
-- 华纳兄弟探索
 - Meta
 - 甲骨文
 - SpaceX
@@ -18,11 +15,7 @@ companies_orgs:
 - Nvidia
 - Google
 - 万科
-- 深圳地铁
-- 浙江金融资产交易中心
-- 宁波市国有资产监督管理委员会
 - 国信证券
-- 中国民生银行
 - 英特尔
 date: '2025-12-08'
 draft: true

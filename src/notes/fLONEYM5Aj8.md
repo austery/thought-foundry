@@ -1,21 +1,11 @@
 ---
 area: society-systems
 category: lifestyle
-companies_orgs:
-- 加拿大公园管理局
-- 费尔蒙班夫温泉酒店
-- Roam Transit
-- 诺奎山缆车
-- 班夫缆车
-- 阳光山村
 date: '2023-07-15'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Super Pass
-- Adirondack Deck Chairs
 project:
 - historical-insights
 series: ''

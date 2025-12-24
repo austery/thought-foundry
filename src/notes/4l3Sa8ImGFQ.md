@@ -3,15 +3,11 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - 美国政府
-- 美国海军部
 - 美国国防部
-- 海军战争学院
 - 中国共产党
 - 国民党
-- 红军
 - 联合国
 - 欧盟
-- 巴诺书店
 date: '2025-01-30'
 draft: true
 guest: ''
@@ -42,9 +38,6 @@ people:
 - 弗拉基米尔·普京
 - 孙中山
 - 蒋经国
-products_models:
-- 霍利-斯姆特关税
-- 马歇尔计划
 project:
 - china-analysis
 - ai-impact-analysis

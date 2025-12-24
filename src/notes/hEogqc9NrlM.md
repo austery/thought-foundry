@@ -17,15 +17,11 @@ companies_orgs:
 - AMD
 - 英特尔
 - 台积电
-- 安费诺
-- Uber Eats
 - Etsy
 - X
 - Meta
 - 亚马逊
 - 通用电气
-- 三菱
-- EdgeConneX
 - ERCOT电网
 - PJM电网
 date: '2025-10-25'

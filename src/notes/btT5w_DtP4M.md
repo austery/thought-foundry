@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Bloomberg
 - Bank for International Settlements
-- Chuck-e-Cheese
 date: '2025-10-23'
 draft: true
 guest: ''
@@ -21,7 +20,6 @@ people:
 products_models:
 - Bloomberg Terminal
 - Bitcoin
-- Nvidia
 - Microsoft
 project:
 - investment-strategy

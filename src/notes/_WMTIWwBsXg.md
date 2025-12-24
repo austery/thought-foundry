@@ -19,8 +19,6 @@ people:
 - 爱因斯坦
 - 牛顿
 - 伽利略
-products_models:
-- 《看透世界：100个哲学大概念开悟人生》
 project:
 - systems-thinking
 - historical-insights

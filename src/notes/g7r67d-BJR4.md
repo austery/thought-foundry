@@ -5,8 +5,6 @@ companies_orgs:
 - Fox News
 - Heritage Foundation
 - CNN
-- Daily Wire
-- Republican Jewish Coalition
 date: '2025-11-18'
 draft: true
 guest: ''

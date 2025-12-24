@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Federal Reserve
-- Oxford Political Science Research Encyclopedia
 - Bloomberg
 - Institute for Supply Management
 date: '2025-08-13'
@@ -19,9 +18,6 @@ people:
 - Christopher Waller
 - Stephen Miller
 - Lawrence Summers
-products_models:
-- Phillips Curve
-- PMI
 project:
 - us-analysis
 - investment-strategy

@@ -2,8 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- International Crisis Group
-- The Covert Group
 - Wilson Foundation
 - NATO
 - Chinese Communist Party

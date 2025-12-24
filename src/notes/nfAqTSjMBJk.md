@@ -3,7 +3,6 @@ area: society-systems
 category: science
 companies_orgs:
 - BetterHelp
-- Advanced Photon Source
 date: '2024-05-30'
 draft: true
 guest: ''
@@ -11,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek
-products_models:
-- Bitrex
 project:
 - systems-thinking
 - historical-insights

@@ -3,7 +3,6 @@ area: society-systems
 category: science
 companies_orgs:
 - KiwiCo
-- American Journal of Physics
 date: '2020-10-31'
 draft: true
 guest: ''
@@ -15,9 +14,6 @@ people:
 - Albert Einstein
 - Destin Sandlin
 - Mark
-products_models:
-- Koala Crates
-- Infinity Mirror
 project:
 - systems-thinking
 - historical-insights

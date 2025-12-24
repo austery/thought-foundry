@@ -2,12 +2,10 @@
 area: tech-engineering
 category: ai-ml
 companies_orgs:
-- Honeybook
 - Brex
 - OpenAI
 - Google
 - Google DeepMind
-- San Francisco Giants
 date: '2025-12-08'
 draft: true
 guest: ''
@@ -22,7 +20,6 @@ products_models:
 - Gemini 2.5 Flash Light
 - NotebookLM
 - Claude
-- Slackbot
 project:
 - ai-impact-analysis
 - entrepreneurship

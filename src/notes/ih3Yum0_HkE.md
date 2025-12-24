@@ -2,15 +2,12 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Ministry of Finance of China
 - Reuters
 - Ant Group
 - JD.com
 - SanDisk
 - Goldman Sachs
-- Sanhua Intelligent Controls
 - Tesla
-- China Gold Association
 - Tencent
 - Pop Mart
 - BYD
@@ -24,15 +21,8 @@ companies_orgs:
 - Microsoft
 - FBI
 - Ministry of Commerce of China
-- Hanwha Ocean
-- National Computer Virus Emergency Response Center
-- Prince Group (Cambodia)
 - Burger King
 - Starbucks
-- CPE Yuanfeng
-- Restaurant Brands International
-- State Council General Office of China
-- China Business News
 - Fannie Mae
 - Intel
 - Berkshire Hathaway
@@ -51,11 +41,7 @@ people:
 - Warren Buffett
 products_models:
 - Affordable Care Act
-- Humanoid Robots
 - GPU
-- AI Accelerators
-- SSD
-- Embedded Modules
 - Fentanyl
 project:
 - us-analysis

@@ -5,20 +5,14 @@ companies_orgs:
 - Apollo
 - Blue Owl
 - KKR
-- Ares
-- TPG
 - Blackstone
 - Carlyle
-- 3i
 - S&P
 - The Wall Street Journal
 - Berkshire Hathaway
 - AQR
-- CFA Institute
 - First Brands
-- Greensill
 - BlackRock
-- Defined Contribution Alternatives Association
 - Bloomberg
 date: '2025-10-18'
 draft: true
@@ -33,12 +27,8 @@ people:
 - Marc Rowan
 - Cliff Asness
 products_models:
-- 401(k)
 - S&P 500
-- GLPE index
-- Magnificent Seven
 - Tesla
-- Broadcom
 - Lovable
 project:
 - investment-strategy

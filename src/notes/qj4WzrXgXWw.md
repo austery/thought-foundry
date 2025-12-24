@@ -4,8 +4,6 @@ category: lifestyle
 companies_orgs:
 - 初日醫學
 - Cofit
-- 中視
-- 馬偕醫院
 date: '2025-09-25'
 draft: true
 guest: ''
@@ -15,11 +13,6 @@ media_books:
 - 《女人女人》
 people:
 - 宋晏仁
-products_models:
-- 海芙刀
-- 微波刀
-- 達文西腹腔鏡
-- 鴨嘴器
 project:
 - personal-growth-lab
 series: ''

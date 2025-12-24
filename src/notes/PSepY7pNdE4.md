@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Palantir
 - Nvidia
-- Data Bricks
 - Snowflake
 - White House
 - Yale
@@ -19,8 +18,6 @@ people:
 - Matt
 - Donald Trump
 products_models:
-- AFDs
-- AI Hivemind
 - Foundry
 - Vantage
 - Golden Dome

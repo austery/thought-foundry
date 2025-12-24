@@ -10,10 +10,8 @@ companies_orgs:
 - Meta
 - Google
 - Oracle
-- PacifiCorp
 - MicroStrategy
 - Anthropic
-- DeleteMe
 date: '2025-11-23'
 draft: true
 guest: ''
@@ -36,7 +34,6 @@ people:
 - Isaac Newton
 - Mike Tyson
 products_models:
-- Sora2
 - Grok
 - Gemini Flash
 project:

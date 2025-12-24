@@ -4,11 +4,8 @@ category: productivity
 companies_orgs:
 - Norges Bank Investment Management
 - Accenture
-- MSC Industrial Supply
-- ARBA Live
 - Microsoft
 - Caltech
-- National Research Institute in Palanza, Italy
 date: '2025-03-10'
 draft: true
 guest: ''

@@ -11,9 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Jess教練
-products_models:
-- HIIT
-- B-Stance
 project:
 - personal-growth-lab
 series: ''

@@ -3,7 +3,6 @@ area: society-thinking
 category: philosophy-thinking
 companies_orgs:
 - New York Times
-- Castle Rock
 date: '2025-12-17'
 draft: true
 guest: ''
@@ -17,19 +16,6 @@ people:
 - Stephen King
 - Aaron Sorkin
 - Donald Trump
-products_models:
-- The Daily
-- The Dick Van Dyke Show
-- All in the Family
-- This Is Spinal Tap
-- Stand by Me
-- The Princess Bride
-- Misery
-- A Few Good Men
-- When Harry Met Sally
-- Seinfeld
-- Being Charlie
-- Biographical Dictionary of Film
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=Sjw9-hdu3FI

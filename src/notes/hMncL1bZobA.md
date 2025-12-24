@@ -2,11 +2,7 @@
 area: personal-systems
 category: career
 companies_orgs:
-- 华中科技大学
-- 新南威尔士大学
 - CMU
-- Mynavi
-- Recruitnavi
 - Google
 - Meta
 date: '2025-11-27'
@@ -17,12 +13,6 @@ layout: post.njk
 people:
 - Nobita
 - 高市早苗
-products_models:
-- JLPT
-- 雅思
-- 托福
-- 托业
-- H1B
 project:
 - personal-growth-lab
 - cultural-critique

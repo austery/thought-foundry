@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Goldman Sachs
-- Brookfield Asset Management
 date: '2025-03-16'
 draft: true
 guest: ''

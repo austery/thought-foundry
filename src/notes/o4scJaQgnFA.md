@@ -1,8 +1,6 @@
 ---
 area: tech-work
 category: ai-ml
-companies_orgs:
-- The Browser Company of New York
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -10,7 +8,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Arc
-- DIA
 - GPT
 project:
 - ai-impact-analysis

@@ -50,8 +50,6 @@ people:
 - 伊藤博文
 - 梁启超
 - 章太炎
-products_models:
-- Challenger
 project:
 - china-analysis
 - historical-insights

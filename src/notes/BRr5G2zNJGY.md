@@ -8,7 +8,6 @@ companies_orgs:
 - OpenAI
 - Zscaler
 - Palo Alto Networks
-- Gen Digital
 - Amazon
 - Google
 - Microsoft
@@ -31,11 +30,9 @@ products_models:
 - ChatGPT
 - Chrome
 - Neo
-- Norton Neo
 - Atlas
 - Comet
 - Claude
-- Internet Explorer
 project:
 - ai-impact-analysis
 - entrepreneurship

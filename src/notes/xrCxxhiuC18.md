@@ -24,7 +24,6 @@ people:
 - Daniel Kahneman
 products_models:
 - GPT-5
-- ELIZA
 - AlphaFold
 - ChatGPT
 project:

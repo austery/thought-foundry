@@ -7,7 +7,6 @@ companies_orgs:
 - European Commission
 - Nvidia
 - Chinese Communist Party
-- 浙江省委宣传部
 - 中国外交部
 date: '2025-12-07'
 draft: true

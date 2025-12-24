@@ -3,7 +3,6 @@ area: society-systems
 category: technology
 companies_orgs:
 - Apple
-- 科大讯飞
 - 百度
 - Meta Platforms
 - ByteDance
@@ -13,7 +12,6 @@ companies_orgs:
 - DeepSeek
 - OpenAI
 - 月之暗面
-- 广电
 date: '2025-02-13'
 draft: true
 guest: ''
@@ -49,17 +47,12 @@ people:
 - 周杰伦
 products_models:
 - Siri
-- 讯飞星火
-- 文心一言
 - Kimi
 - Meta AI
 - 豆包
-- Google Gemini
 - Mistral
 - Claude
 - DeepSeek
-- ChatGPT-4o
-- iOS18.3
 project:
 - ai-impact-analysis
 - cultural-critique

@@ -6,17 +6,6 @@ companies_orgs:
 - 北京大学
 - Citi
 - UBS
-- 《人民日报》
-- United Steelworkers
-- Office of the United States Trade Representative
-- National Retail Federation
-- COSCO Group
-- OOCL
-- Everland
-- Drewry
-- CMA CGM
-- Maersk
-- MSC
 - Goldman Sachs
 - International Energy Agency
 date: '2025-10-23'

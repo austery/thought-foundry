@@ -3,8 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Bloomberg Podcasts
-- Chester French
-- Doctor On Demand
 - Google
 - DeepMind
 - Coinbase

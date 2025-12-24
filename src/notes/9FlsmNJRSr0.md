@@ -5,9 +5,7 @@ companies_orgs:
 - 苹果
 - Microsoft
 - 伯克希尔哈撒韦
-- 美国运通
 - 可口可乐
-- 雪佛龙
 - Costco
 - Nvidia
 date: '2025-04-21'

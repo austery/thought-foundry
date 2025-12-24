@@ -2,8 +2,6 @@
 area: tech-insights
 category: business
 companies_orgs:
-- The Rundown
-- HubSpot for Startups
 - Twitter
 - LinkedIn
 - Instagram
@@ -18,7 +16,6 @@ people:
 - Sam Altman
 - Joe Rogan
 products_models:
-- Llama 3.1
 - Whisper Flow
 - ChatGPT
 - Claude

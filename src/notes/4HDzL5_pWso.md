@@ -2,7 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- Jesuits
 - McDonald's
 date: '2023-12-19'
 draft: true

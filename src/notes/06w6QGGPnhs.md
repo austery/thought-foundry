@@ -5,16 +5,12 @@ companies_orgs:
 - Google
 - OpenAI
 - Cursor
-- Runway
-- Pika
-- 夸克
 - 豆包
 - 质谱AI
 - MiniMax
 - 月之暗面
 - DeepSeek
 - Alibaba
-- Character.ai
 - Hugging Face
 - Anthropic
 - Perplexity
@@ -27,7 +23,6 @@ companies_orgs:
 - Nvidia
 - Palantir
 - Microsoft
-- 游戏科学
 - ByteDance
 - 携程
 date: '2025-12-02'
@@ -51,24 +46,18 @@ people:
 - Noam Shazeer
 products_models:
 - GPT
-- AI PPT
-- Genspark
 - Manus
 - PowerPoint
 - Claude
 - Sora
-- Composer
 - GLM
-- Talkie
 - Kimi
 - Llama
 - TPU
 - Grok
 - AGI
 - Gemini 3
-- 《黑神话：悟空》
 - Transformer
-- Artifacts
 project:
 - ai-impact-analysis
 - china-analysis

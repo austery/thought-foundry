@@ -2,15 +2,8 @@
 area: society-systems
 category: culture
 companies_orgs:
-- Global Mail
 - CBC
-- CBC Gem
-- Crave
 - Netflix
-- Canadian Heritage
-- Canada Council for the Arts
-- Telephone
-- Canadian Academy
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -20,8 +13,6 @@ media_books:
 - The Apprentice
 people:
 - Mark Carney
-products_models:
-- Squid Game
 project:
 - cultural-critique
 - historical-insights

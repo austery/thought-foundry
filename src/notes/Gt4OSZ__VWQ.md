@@ -4,17 +4,12 @@ category: politics-society
 companies_orgs:
 - 北约
 - 高盛
-- 黑石集团
-- 民主党全国委员会
-- 福克斯
 - 华尔街日报
-- 以色列国防军
 - 共和党
 - 民主党
 - 新华社
 - Gallup
 - Polymarket
-- The Young Turks
 date: '2025-08-25'
 draft: true
 guest: ''
@@ -40,8 +35,6 @@ people:
 - 奥巴马
 - 马英九
 - 赖清德
-products_models:
-- 星链
 project:
 - us-analysis
 - geopolitics-watch

@@ -13,12 +13,8 @@ companies_orgs:
 - PayPal
 - Stripe
 - Apple Pay
-- Google Pay
 - S&P 500
 - ASML
-- Lam Research
-- Tokyo Electron
-- KLA
 date: '2025-08-25'
 draft: true
 guest: ''
@@ -34,11 +30,9 @@ products_models:
 - Messenger
 - Threads
 - YouTube
-- Amazon Prime
 - Reels
 - TikTok
 - Douyin
-- EUV lithography
 project:
 - investment-strategy
 - market-cycles

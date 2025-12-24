@@ -3,12 +3,10 @@ area: society-systems
 category: finance
 companies_orgs:
 - Federal Housing Finance Agency
-- Federal Housing Administration
 - Fannie Mae
 - Freddie Mac
 - Politico
 - CBS
-- NAHB
 - AP
 - Financial Times
 - Fox News
@@ -22,10 +20,8 @@ people:
 - Ben Castleman
 - Alan Greenspan
 products_models:
-- Gamma
 - PowerPoint
 - Dodd-Frank Act
-- Help to Buy scheme
 project:
 - us-analysis
 - historical-insights

@@ -4,18 +4,10 @@ category: culture
 companies:
 - psychological-warfare
 companies_orgs:
-- Venetian
-- Poker Go
 - NASA
 - Adidas
-- Gucci
 - GoFundMe
-- Triton
-- AllSaints
 - Starbucks
-- Carbone
-- Dallas Mavericks
-- Golden State Warriors
 date: '2025-11-29'
 draft: true
 guest: ''

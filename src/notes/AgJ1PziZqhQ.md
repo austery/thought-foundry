@@ -19,7 +19,6 @@ layout: post.njk
 people:
 - Donald Trump
 products_models:
-- Nasdaq 100
 - S&P 500
 - Dow Jones Industrial Average
 - Russell 2000

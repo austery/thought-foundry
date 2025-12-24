@@ -6,7 +6,6 @@ companies_orgs:
 - YouTube
 - WeChat
 - Discord
-- Investopedia
 - Uber
 date: '2025-10-12'
 draft: true
@@ -18,7 +17,6 @@ media_books:
 products_models:
 - ChatGPT
 - AWS
-- Meitou Pro
 project:
 - entrepreneurship
 - personal-growth-lab

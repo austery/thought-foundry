@@ -3,8 +3,6 @@ area: market-analysis
 author: Lei
 category: business
 channel: ''
-companies_orgs:
-- robinhood
 date: 2025-08-17
 draft: true
 file_name: robinhood_stock_tokenization_business_model_crypto_ambition.md

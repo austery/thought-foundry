@@ -4,10 +4,7 @@ category: technology
 companies_orgs:
 - Google
 - Yahoo
-- Excite
-- Lycos
 - Alphabet
-- Argonne
 - Stanford
 - Los Alamos
 date: '2025-07-25'
@@ -26,9 +23,6 @@ people:
 - Claude Shannon
 - Casper
 products_models:
-- The Gadget
-- PageRank
-- BackRub
 - ENIAC
 - Gmail
 project:

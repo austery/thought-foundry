@@ -14,10 +14,8 @@ companies_orgs:
 - 三星
 - 海力士
 - JP Morgan
-- 欧盟中央银行
 - 支付宝
 - Anthropic
-- B Riley
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -34,7 +32,6 @@ products_models:
 - Google Cloud
 - HBM
 - DDR5
-- HBM3E
 - Alpha Picks
 project:
 - investment-strategy

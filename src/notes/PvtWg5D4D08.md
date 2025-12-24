@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 吴清
-products_models:
-- Surfshark VPN
 project:
 - china-analysis
 - market-cycles

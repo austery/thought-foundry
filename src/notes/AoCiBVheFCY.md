@@ -3,7 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - FBI
-- Marke Surrogacy Investment
 date: 2025-08-12
 draft: true
 guest: ''
@@ -13,7 +12,8 @@ media_books: '[]'
 people:
 - 张欣 (Silvia John)
 - 黄健 (Jian Huang)
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - china-analysis

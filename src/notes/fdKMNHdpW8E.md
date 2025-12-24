@@ -7,14 +7,9 @@ companies_orgs:
 - Federal Reserve
 - Wall Street Journal
 - White House
-- Pakistan Army
-- Ministry of Foreign Affairs of China
-- COSCO
 - BlackRock
 - Pinduoduo
 - State Administration for Market Regulation
-- Shanghai Police
-- Caixin Media
 - Reuters
 - Bloomberg
 date: '2025-12-17'
@@ -37,8 +32,6 @@ people:
 - Mike Pence
 - Marco Rubio
 - Xi Jinping
-products_models:
-- Ural crude oil
 project:
 - china-analysis
 - us-analysis

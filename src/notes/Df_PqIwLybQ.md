@@ -10,15 +10,10 @@ companies_orgs:
 - Dell
 - Oracle
 - Tesla
-- Mailchimp
-- NCR
-- Calendarly
 - Reddit
 - Delta
 - Coca-Cola
 - Home Depot
-- University of Texas at Austin
-- Georgia Tech
 date: '2025-04-17'
 draft: true
 guest: ''

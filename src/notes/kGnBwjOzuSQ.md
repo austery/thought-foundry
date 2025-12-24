@@ -1,8 +1,6 @@
 ---
 area: finance-wealth
 category: stock-investment
-companies_orgs:
-- berkshire-hathaway
 date: '2025-10-14'
 draft: true
 guest: ''

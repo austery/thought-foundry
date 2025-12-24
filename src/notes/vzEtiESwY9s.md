@@ -3,7 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - Tesla
-- GEV
 - ISS
 - Glass Lewis
 date: '2025-10-23'

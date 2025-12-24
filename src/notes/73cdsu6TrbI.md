@@ -4,7 +4,6 @@ category: technology
 companies_orgs:
 - SpaceX
 - NASA
-- Vast
 date: '2025-11-11'
 draft: true
 guest: ''

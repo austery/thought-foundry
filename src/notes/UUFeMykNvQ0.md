@@ -2,12 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 上海来一份
 - CCTV
-- 黑猫平台
-- 云南润声物业服务有限公司
-- 北京同仁堂
-- 云南白药
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -22,13 +17,6 @@ people:
 - Gavin Newsom
 - Donald Trump
 - Xi Jinping
-products_models:
-- 三聚氰胺
-- 地沟油
-- 瘦肉精
-- 灌水猪
-- 毒奶粉
-- 阿索平
 project:
 - china-analysis
 - systems-thinking

@@ -3,18 +3,8 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- Aviva
-- Zurich
-- AXA
-- Commercial Union
-- Direct Line
-- GSK
 - Diageo
 - BP
-- FCA
-- CMA
-- Citizens Advice Bureau
-- Money Advice Service
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -25,13 +15,6 @@ media_books:
 - Desert Island Discs
 - Hamilton
 - In Good Company
-products_models:
-- Solvency UK rules
-- Consumer Duty
-- Flood Re
-- Junior ISA
-- Equity Release Mortgage
-- Generative AI
 project:
 - investment-strategy
 - ai-impact-analysis

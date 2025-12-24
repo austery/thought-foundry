@@ -3,7 +3,6 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - Anthropic
-- Andon Labs
 date: '2025-12-18'
 draft: true
 guest: ''

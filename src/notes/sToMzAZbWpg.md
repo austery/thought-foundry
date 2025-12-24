@@ -3,41 +3,14 @@ area: society-systems
 category: culture
 companies_orgs:
 - Sony
-- Hitachi
 - Toshiba
-- Casio
-- Sharp
 - Toyota
-- Nintendo
-- Zebra
-- Mitsubishi
-- PlayStation
 - Honda
-- Mazda
 - Nissan
-- Chery
-- Citroën
-- Buick
-- Shiseido
-- SK-II
 - Uniqlo
-- Muji
-- Daiso
-- 7-Eleven
-- Lawson
-- Family Mart
-- Nissin
-- 康师傅
-- 统一
 - Bilibili
-- ACFun
-- Niconico
 - Kodak
-- Fujifilm
-- Leica
 - Canon
-- H&M
-- Zara
 date: '2025-11-21'
 draft: true
 guest: ''
@@ -87,19 +60,6 @@ people:
 - 孙中山
 products_models:
 - Walkman
-- 夏利
-- 奥拓
-- 桑塔纳
-- 富康
-- 本田雅阁
-- 马自达6
-- 马自达3
-- 别克君威
-- 红白机
-- Game Boy
-- PSP
-- NDS
-- EVE-A
 project:
 - china-analysis
 - historical-insights

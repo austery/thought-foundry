@@ -17,8 +17,6 @@ people:
 - René Descartes
 - Voltaire
 - Immanuel Kant
-products_models:
-- 人造肉
 project:
 - systems-thinking
 - historical-insights

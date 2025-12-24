@@ -2,11 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 联合国军
 - 美国国务院
-- 远东司令部
-- 民间情报教育局
-- 中华民国政府
 date: '2024-11-10'
 draft: true
 guest: ''

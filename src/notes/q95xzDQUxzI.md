@@ -7,7 +7,6 @@ companies_orgs:
 - Nexperia
 - BMW
 - Renault
-- ZF Group
 - Huawei
 - World Trade Organization
 date: '2025-11-01'
@@ -26,9 +25,6 @@ people:
 - Donald Trump
 - Xi Jinping
 - Deng Xiaoping
-products_models:
-- Neodymium magnets
-- Tetraanide
 project:
 - china-analysis
 - us-analysis

@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - New York Times
 - Justice Department
-- Purdue Pharma
 - Ford
 - General Motors
 - Tesla

@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Rapid Agent
 project:
 - ai-impact-analysis
 series: ''

@@ -3,21 +3,10 @@ area: society-systems
 category: finance
 companies_orgs:
 - Nvidia
-- Bank of China
-- China Construction Bank
-- Postal Savings Bank of China
-- China Everbright Bank
-- Bank of Communications
-- China CITIC Bank
-- Industrial and Commercial Bank of China
-- Agricultural Bank of China
 - Bloomberg
 - Vanke
-- Shenzhen Metro
 - Moore Threads
 - ByteDance
-- Capital Today
-- Bank of China Group
 - OpenAI
 - UBS
 - Bank of Japan
@@ -29,7 +18,6 @@ companies_orgs:
 - Home Depot
 - Federal Reserve
 - Department of Labor
-- Muddy Waters Research
 - Google
 - Advanced Micro Devices
 - TSMC
@@ -53,12 +41,6 @@ people:
 - Bill Ackman
 products_models:
 - TikTok
-- Nvidia A100
-- Nvidia Hopper architecture
-- Nvidia GB300
-- Nvidia GB200
-- Tensor Processing Unit
-- Robin chip
 project:
 - us-analysis
 - ai-impact-analysis

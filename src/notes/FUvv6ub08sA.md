@@ -3,14 +3,12 @@ area: society-systems
 category: business
 companies_orgs:
 - Grab
-- Winfast
 - 比亚迪
 - 京东
 - 淘宝
 - 美团
 - 饿了么
 - Uber
-- 神州专车
 date: '2025-08-26'
 draft: true
 guest: ''
@@ -27,13 +25,7 @@ people:
 - Xi Jinping
 - 黄仁勋
 products_models:
-- P2P
-- Twitch
 - YouTube
-- 土豆
-- 优酷
-- 爱奇艺
-- Bilibili
 project:
 - china-analysis
 - us-analysis

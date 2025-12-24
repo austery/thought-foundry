@@ -2,10 +2,7 @@
 area: society-thinking
 category: history
 companies_orgs:
-- Japan
 - United States
-- Britain
-- Nazis
 date: '2025-01-28'
 draft: true
 guest: ''

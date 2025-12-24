@@ -5,16 +5,12 @@ companies_orgs:
 - YouTube
 - Google
 - Meta
-- Match Group
 - Tinder
-- OkCupid
 - LinkedIn
 - NSA
 - Palantir Technologies
 - Microsoft
 - IBM
-- ACM
-- USCIS
 - Volkswagen
 date: '2021-12-10'
 draft: true
@@ -29,13 +25,7 @@ people:
 - Richard Stallman
 products_models:
 - Windows
-- Diaspora
-- Solid
-- Freedom Box
-- OpenStreetMap
 - Google Map
-- GNU
-- Unix
 - Linux
 project:
 - geopolitics-watch

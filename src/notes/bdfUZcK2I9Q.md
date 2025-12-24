@@ -4,16 +4,11 @@ category: business
 companies:
 - philanthropic-foundation
 companies_orgs:
-- SEB Banking
-- Investor AB
 - Ericsson
 - Atlas Copco
-- Electrolux
 - AstraZeneca
 - ABB
 - EQT
-- AEA Investors
-- Royal Swedish Academy of Engineering Sciences
 - Norges Bank Investment Management
 date: '2024-10-03'
 draft: true

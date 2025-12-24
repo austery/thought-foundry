@@ -2,7 +2,6 @@
 area: personal-systems
 category: business
 companies_orgs:
-- 一口新饭
 - 小红书
 - YouTube
 - Bilibili
@@ -20,7 +19,6 @@ people:
 - Ray
 - Elon Musk
 products_models:
-- Sony
 - Notion
 - iPad
 - DeepSeek

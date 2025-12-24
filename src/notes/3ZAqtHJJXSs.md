@@ -19,11 +19,8 @@ people:
 products_models:
 - GPT-3
 - GPT-4
-- GitHub Spark
-- SpecKit
 - Lovable
 - Bolt
-- Vzero
 project:
 - ai-impact-analysis
 - vibe-coding

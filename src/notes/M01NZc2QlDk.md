@@ -3,23 +3,14 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
-- TCI
-- Aena
-- Heathrow Airport
 - Visa
 - Meta
 - McDonald's
-- Red Eléctrica
 - Pratt & Whitney
 - GE
-- Safran
-- Deutsche Börse
-- Eurex
 - London Stock Exchange
-- LCH Clearnet
 - CME Group
 - Credit Suisse
-- Anglo Irish Bank
 - Bear Stearns
 - Microsoft
 - Zoom
@@ -27,13 +18,6 @@ companies_orgs:
 - YouTube
 - Rolls-Royce
 - Moody's
-- ABN AMRO
-- Royal Bank of Scotland
-- Fortis
-- Zodiac Aerospace
-- Bain Capital
-- Wirecard
-- Bronte Capital
 - Financial Times
 - Harvard Business School
 date: '2025-05-14'

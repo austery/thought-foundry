@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- amd
 - nvidia
 - openai
 date: '2025-10-13'

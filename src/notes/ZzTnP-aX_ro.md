@@ -2,13 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- Peel Black Collective
-- Black Education Fund
-- Ontario Human Rights Commission
-- Peel Regional Police
-- OPP
 - Ministry of Education
-- Peel District School Board
 - Global News
 date: '2025-11-20'
 draft: true
@@ -19,7 +13,6 @@ people:
 - George Floyd
 products_models:
 - Bill 33
-- Supporting Children and Students Act
 project:
 - geopolitics-watch
 - historical-insights

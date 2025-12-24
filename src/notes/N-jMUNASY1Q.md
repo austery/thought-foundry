@@ -2,9 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Engie
 - Norges Bank Investment Management
-- ArcelorMittal
 - LinkedIn
 - Microsoft
 date: '2025-07-09'
@@ -15,14 +13,6 @@ layout: post.njk
 people:
 - Nicola Tangen
 - Reed Hoffman
-products_models:
-- CH4
-- biomethane
-- hydrogen
-- e-ammonia
-- ethanol
-- emethane
-- growl
 project:
 - geopolitics-watch
 - ai-impact-analysis

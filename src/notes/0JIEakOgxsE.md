@@ -2,16 +2,7 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- Hermès
-- LVMH Group
-- Rothschild Bank
-- Natixis
 - Société Générale
-- Crédit Agricole
-- AMF
-- FTI
-- Dior
-- Rebag
 date: '2025-12-17'
 draft: true
 guest: ''
@@ -23,9 +14,6 @@ media_books:
 - 《法国世界报》
 - 《华尔街日报》
 - 《星期日周报》
-products_models:
-- Kelly bag
-- Birkin bag
 project:
 - investment-strategy
 series: ''

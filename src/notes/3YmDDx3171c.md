@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - CME
-- BitMEX
 - Morgan Stanley
 - UBS
 - ECB

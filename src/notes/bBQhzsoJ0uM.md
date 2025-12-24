@@ -2,7 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Carta
 - Microsoft
 - Apple
 - Google
@@ -27,7 +26,6 @@ companies_orgs:
 - Slack
 - PayPal
 - Airbnb
-- Lattis
 date: '2025-08-06'
 draft: true
 guest: ''
@@ -47,8 +45,6 @@ people:
 - Ben Thompson
 products_models:
 - ChatGPT
-- OKit
-- Tableau
 project:
 - us-analysis
 - investment-strategy

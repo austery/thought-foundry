@@ -3,8 +3,6 @@ area: tech-work
 category: work-related
 companies_orgs:
 - McKinsey
-- LeanIn.org
-- US Surgeon General
 date: '2025-12-21'
 draft: true
 guest: ''

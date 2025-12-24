@@ -4,15 +4,6 @@ category: geopolitics
 companies_orgs:
 - 农业银行
 - 建设银行
-- 交通银行
-- 兰州银行
-- 吉林农商行
-- 兰州农商行
-- 吉林银行
-- 天津银行
-- 四川农信系统
-- 辽宁农信系统
-- 中国银行佛山分行
 - 四大AMC公司
 date: '2025-11-19'
 draft: true

@@ -4,7 +4,6 @@ category: lifestyle
 companies_orgs:
 - 联合国教科文组织
 - NASA
-- Loblaw
 date: '2024-08-11'
 draft: true
 guest: ''

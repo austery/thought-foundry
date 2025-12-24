@@ -2,7 +2,6 @@
 area: tech-engineering
 category: ai-ml
 companies_orgs:
-- Pica
 - TED
 date: '2025-10-24'
 draft: true

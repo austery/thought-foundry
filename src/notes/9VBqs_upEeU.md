@@ -4,9 +4,6 @@ category: geopolitics
 companies_orgs:
 - 美国司法部
 - 美国国土安全部
-- 美国缉毒局
-- 通用汽车公司
-- 太阳卡特尔
 date: '2025-10-27'
 draft: true
 guest: ''

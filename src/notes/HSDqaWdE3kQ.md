@@ -3,9 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - TVO Today
-- Ontario Taxpayers Federation
-- OPA
-- University of Ottawa Heart Institute
 date: '2025-10-27'
 draft: true
 guest: ''

@@ -14,8 +14,6 @@ media_books:
 people:
 - 梁晓华
 - Stephen Covey
-products_models:
-- 萨提尔模式
 project:
 - personal-growth-lab
 - systems-thinking

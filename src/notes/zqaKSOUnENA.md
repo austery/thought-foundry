@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- 师大心辅系
 date: '2025-09-10'
 draft: true
 guest: ''
@@ -16,7 +14,6 @@ people:
 - 宋晏仁
 products_models:
 - ChatGPT
-- Grogg 4
 project:
 - ai-impact-analysis
 - cultural-critique

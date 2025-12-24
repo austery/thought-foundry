@@ -1,8 +1,8 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- Central China Normal University
+companies:
+- psychological-discourse
 date: '2025-10-19'
 draft: true
 guest: ''
@@ -29,8 +29,6 @@ tags:
 - relationship
 - social
 title: 中国互联网NPD叙事：命名痛苦，还是偏离现实？
-companies:
-- psychological-discourse
 ---
 
 ### 引言：NPD叙事在中国的兴起

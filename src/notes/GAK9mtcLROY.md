@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - OECD
-- New York City DSA
-- Broadbent Institute
 - NORAD
 date: '2025-11-13'
 draft: true

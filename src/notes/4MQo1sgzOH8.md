@@ -3,12 +3,9 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 自民党
-- 社会党
 - 公民党
 - 共产党
 - 联合国
-- 联合国安理会
-- 联合国大会
 date: '2025-05-18'
 draft: true
 guest: ''
@@ -33,9 +30,6 @@ people:
 - 王毅
 - Marco Rubio
 - 福泽谕吉
-products_models:
-- 六代机
-- 四川舰
 project:
 - geopolitics-watch
 - historical-insights

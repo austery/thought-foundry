@@ -10,7 +10,6 @@ companies_orgs:
 - SAP
 - Nvidia
 - AMD
-- Pacific Northwest National Laboratory
 - Carnegie Mellon University
 date: '2024-03-13'
 draft: true
@@ -34,20 +33,12 @@ people:
 - Andy Grove
 products_models:
 - Windows
-- SQL Server
-- Dota 2
 - GPT-3
 - GPT-3.5
 - GitHub Copilot
 - Microsoft 365 Copilot
 - Azure
 - Mistral
-- Phi
-- Q#
-- Flight Simulator
-- DirectX
-- Civilization
-- Age of Empires
 project:
 - ai-impact-analysis
 - systems-thinking

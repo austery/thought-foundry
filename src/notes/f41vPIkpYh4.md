@@ -9,9 +9,7 @@ companies_orgs:
 - 网飞 (Netflix)
 - 华纳兄弟 (Warner Bros.)
 - 迪士尼 (Disney)
-- NBC Universal
 - Skydance Media
-- JJLake
 date: '2025-12-19'
 draft: true
 guest: ''

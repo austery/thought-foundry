@@ -3,7 +3,6 @@ area: society-systems
 category: business
 companies_orgs:
 - Palantir
-- 9/11委员会
 date: '2025-11-18'
 draft: true
 guest: ''

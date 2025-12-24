@@ -27,8 +27,6 @@ products_models:
 - GPT-4
 - GPT-4o
 - GPT-5
-- Grok-3
-- Cicero
 - AlphaGo
 project:
 - ai-impact-analysis

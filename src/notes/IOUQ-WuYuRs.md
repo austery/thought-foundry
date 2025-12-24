@@ -3,8 +3,6 @@ area: finance-wealth
 category: crypto
 companies_orgs:
 - Google
-- Firm One
-- Terraform Labs
 date: '2025-12-16'
 draft: true
 guest: ''
@@ -14,13 +12,6 @@ media_books:
 - 《Rick and Morty》
 people:
 - Paul
-products_models:
-- Terra
-- Luna
-- UST
-- Anchor
-- Chai
-- Basis Cash
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=IOUQ-WuYuRs

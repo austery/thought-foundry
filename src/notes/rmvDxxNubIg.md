@@ -2,9 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- HumanLayer
-- Boundary ML
-- Thought Works
 - GitHub
 - Vercel
 date: '2025-12-02'
@@ -22,8 +19,6 @@ people:
 products_models:
 - Claude Code
 - Cursor
-- Hadoop
-- Parket Java
 project:
 - ai-impact-analysis
 - systems-thinking

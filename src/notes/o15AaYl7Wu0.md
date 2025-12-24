@@ -3,16 +3,11 @@ area: tech-insights
 category: technology
 companies_orgs:
 - OpenAI
-- Applied Compute
 date: '2025-12-09'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- GPOSS models
-- Llama models
-- Quen 30B
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -8,16 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- NMN
-- NAD
-- cMyc
-- Yamanaka factors
-- Horvath clock
-- sirtuins
-- AMP-kinase
-- mTOR
-- SIR2
 project:
 - personal-growth-lab
 - systems-thinking

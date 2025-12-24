@@ -6,7 +6,6 @@ companies_orgs:
 - Citadel
 - ADP
 - BLS
-- Cleveland Fed
 - Amazon
 - UPS
 - OpenAI

@@ -2,7 +2,6 @@
 area: market-analysis
 category: geopolitics
 companies_orgs:
-- 迈克思
 - 惠誉
 - 中国国家统计局
 - 彭博社
@@ -34,8 +33,6 @@ people:
 products_models:
 - 芬太尼
 - 稀土
-- 大豆
-- T-talk
 project:
 - us-analysis
 - china-analysis

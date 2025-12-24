@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Federal Reserve
-- New York Federal Reserve
 - FOMC
 - US Treasury
 - White House
@@ -46,12 +45,7 @@ people:
 - Nick Timiraos
 - Charlie Munger
 products_models:
-- Mortgage-Backed Securities
-- Treasury Bills
-- SOFR
-- OBFR
 - NFT
-- Business Development Company
 project:
 - us-analysis
 - investment-strategy

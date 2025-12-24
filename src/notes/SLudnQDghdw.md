@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 妇联
 - 公安局
 date: '2025-11-05'
 draft: true
@@ -20,7 +19,6 @@ people:
 - Xi Jinping
 products_models:
 - 学习强国APP
-- 脑机接口
 project:
 - china-analysis
 - geopolitics-watch

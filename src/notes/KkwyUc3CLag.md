@@ -2,9 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Beijing Municipal Government
-- Urban Management Bureau
-- Administration for Industry and Commerce
 - Meituan
 date: '2024-11-10'
 draft: true

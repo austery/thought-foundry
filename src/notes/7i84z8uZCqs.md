@@ -3,10 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 中共中央
-- 苏共中央
-- 美国国家安全委员会
-- 塔斯社
-- 真理报
 date: '2024-11-24'
 draft: true
 guest: ''

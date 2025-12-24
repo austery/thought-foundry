@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Eli Lilly and Company
 - Anthropic
 date: '2025-10-20'
 draft: true
@@ -13,8 +12,6 @@ people:
 - Dario Amodei
 products_models:
 - Claude
-- Claude for Financial Services
-- Claude for Life Sciences
 project:
 - ai-impact-analysis
 series: ''

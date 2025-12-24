@@ -2,23 +2,16 @@
 area: society-systems
 category: technology
 companies_orgs:
-- 地平线
 - Waymo
 - Google X
 - CMU
-- 斯坦福
-- Darpa
 date: '2025-12-10'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- HSD
-- FSD V12
 - AGI
-- L2
-- L4
 - robotaxi
 project:
 - ai-impact-analysis

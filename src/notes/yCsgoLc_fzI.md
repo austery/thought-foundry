@@ -3,7 +3,6 @@ area: tech-insights
 category: science
 companies_orgs:
 - UCLA
-- MIT Aero
 - Brilliant
 date: '2021-06-30'
 draft: true
@@ -13,8 +12,6 @@ layout: post.njk
 people:
 - Derek Muller
 - Sean Carroll
-products_models:
-- Blackbird
 project:
 - systems-thinking
 - historical-insights

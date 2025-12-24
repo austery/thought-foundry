@@ -4,7 +4,6 @@ category: macro-economy
 companies_orgs:
 - Bloomberg
 - Federal Reserve
-- Chicago Fed
 - Kansas City Fed
 - FOMC
 date: '2025-08-25'
@@ -23,7 +22,6 @@ people:
 - Kale Brooks
 products_models:
 - OddLots podcast
-- S&P flash PMI
 - USMCA
 project:
 - us-analysis

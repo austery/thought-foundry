@@ -2,12 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 守语者
-- 上海守语公益服务中心
-- 武汉聋人学校
-- 广州大学
 - 民政局
-- 康复学校
 date: '2025-11-24'
 draft: true
 guest: ''

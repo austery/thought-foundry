@@ -19,15 +19,10 @@ people:
 - Mark Zuckerberg
 - Elon Musk
 products_models:
-- AI IDE
-- AI Coding
 - Claude
 - Cursor
-- Trae
-- 腾讯会议
 - iPhone
 - Tesla
-- SpaceX
 - 微信
 - 小红书
 project:

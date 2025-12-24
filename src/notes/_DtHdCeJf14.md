@@ -6,12 +6,9 @@ companies_orgs:
 - Dow Jones
 - S&P 500
 - Oklo
-- DWave
 - Big Bear AI
 - Rigetti
 - IonQ
-- NuScale Power
-- Nano Nuclear
 - MP Materials
 - Nvidia
 - Tesla
@@ -20,7 +17,6 @@ companies_orgs:
 - Iren
 - Cipher Mining
 - CleanSpark
-- Wolfspeed
 - Bitfarms
 - Marathon Digital
 - Riot Platforms
@@ -31,7 +27,6 @@ companies_orgs:
 - Beyond Meat
 - Walmart
 - Grab
-- Nuvei
 - Microsoft
 - Robinhood
 - SoFi
@@ -45,18 +40,15 @@ companies_orgs:
 - ServiceNow
 - Intuit
 - Intuitive Surgical
-- Chubb Limited
 - Texas Instruments
 - Capital One
 - Federal Reserve
 - Warner Bros. Discovery
 - Comcast
-- UEFA
 - Airbnb
 - Mattel
 - AST SpaceMobile
 - DraftKings
-- Railbird
 - Kalshi
 - Polymarket
 - Reddit
@@ -73,8 +65,6 @@ companies_orgs:
 - Reuters
 - GameStop
 - Visa
-- Cheesecake Factory
-- Enphase
 - Oracle
 date: '2025-10-21'
 draft: true
@@ -93,12 +83,7 @@ people:
 - Xi Jinping
 products_models:
 - Atlas
-- Google Chrome
 - Mac OS
-- K-pop Demon Hunters
-- DXY
-- GDXD
-- GVZ
 project:
 - us-analysis
 - investment-strategy

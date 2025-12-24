@@ -2,8 +2,6 @@
 area: society-thinking
 category: philosophy-thinking
 companies_orgs:
-- Nazi Germany
-- Israel
 - Ku Klux Klan
 date: '2025-12-19'
 draft: true

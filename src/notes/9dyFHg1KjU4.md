@@ -1,18 +1,11 @@
 ---
 area: society-systems
 category: lifestyle
-companies_orgs:
-- Twillingate Spirit Tour
-- Annie's Harbour Restaurant
-- Fogo Island Inn
-- The Storehouse
 date: '2024-08-04'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Moose Burger
 project:
 - historical-insights
 series: ''

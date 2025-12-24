@@ -15,23 +15,13 @@ layout: post.njk
 products_models:
 - Gemini
 - Gemini 2.5 Pro
-- Gemini 2.5 Flash Image
 - Nano Banana
-- Gemini Live
 - Veo
-- Veo 3.1
 - Gemma
-- Gemma 3N
 - Genie3
 - AI Studio
 - Colab
-- Camtasia
-- MoviePy
 - React
-- Tailwind
-- Genai SDK
-- Cloud Run
-- LIA
 project:
 - ai-impact-analysis
 - entrepreneurship

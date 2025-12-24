@@ -1,11 +1,6 @@
 ---
 area: society-systems
 category: education
-companies_orgs:
-- 黑龙江省教育厅
-- 齐齐哈尔市
-- 大庆市
-- 牡丹江市
 date: '2025-07-21'
 draft: true
 guest: ''

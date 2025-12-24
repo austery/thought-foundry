@@ -2,17 +2,13 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- 视野环球财经
-- 美国贸易代表办公室
 - 白宫
 - 欧盟
 - 亚马逊
 - Meta
 - Google
-- 艾森哲
 - 西门子
 - Spotify
-- DHL
 - 甲骨文
 - OpenAI
 - Nvidia
@@ -25,7 +21,6 @@ insight: ''
 layout: post.njk
 products_models:
 - 特斯拉
-- CRWV
 project:
 - ai-impact-analysis
 - investment-strategy

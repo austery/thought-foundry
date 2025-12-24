@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 复达基金
 - 高盛
 date: '2025-04-13'
 draft: true
@@ -13,7 +12,6 @@ people:
 - 巴菲特
 products_models:
 - 标普500
-- 纳斯达克指数
 project:
 - investment-strategy
 - market-cycles

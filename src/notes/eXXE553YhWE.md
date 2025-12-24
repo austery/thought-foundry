@@ -9,11 +9,8 @@ companies_orgs:
 - Snapchat
 - AppLovin
 - Pinterest
-- Trade Desk
 - Reddit
 - Unity
-- Magnite
-- PubMatic
 - TikTok
 - Disney
 - Apple
@@ -25,18 +22,11 @@ layout: post.njk
 products_models:
 - YouTube
 - Google Search
-- Google Network
 - Facebook
 - Instagram
 - Messenger
-- Audience Network
 - LinkedIn
 - Bing
-- Candy Crush
-- APP Discovery
-- AXON 2.0
-- MAX
-- Adjust
 project:
 - investment-strategy
 - market-cycles

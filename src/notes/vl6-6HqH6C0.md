@@ -14,9 +14,6 @@ companies_orgs:
 - Tesla
 - SpaceX
 - Boeing
-- Blackstone Group
-- United States Secret Service
-- National Capital Planning Commission
 date: '2025-10-26'
 draft: true
 guest: ''

@@ -4,11 +4,7 @@ category: geopolitics
 companies_orgs:
 - Polymarket
 - 美联储
-- 欧洲央行
-- 亚太经合组织
-- 韩华海洋
 - 美国国防部
-- RT
 date: 2025-10-31
 draft: true
 guest: ''
@@ -24,10 +20,6 @@ people:
 - Jerome Powell
 - Christine Lagarde
 - Vladimir Putin
-products_models:
-- 核动力巡航导弹
-- 核动力鱼雷
-- 陆战队一号
 project:
 - us-analysis
 - china-analysis

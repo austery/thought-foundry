@@ -14,10 +14,8 @@ people:
 - Elon Musk
 products_models:
 - Starship
-- Super Heavy
 - Raptor engine
 - Falcon 9
-- Apollo 11
 - Starlink
 project:
 - systems-thinking

@@ -5,16 +5,11 @@ companies_orgs:
 - Federal Reserve
 - Wall Street
 - Institute for Supply Management
-- Automatic Data Processing
 - European Central Bank
 - Bank of Japan
 - S&P Global
 - National Bureau of Statistics of China
-- UBS Group
 - Goldman Sachs
-- 山东程序化铅纯网有限公司
-- 山东宾州市圆镜化铅网纯有限公司
-- 山东宾州市检验检测中心
 date: '2025-11-30'
 draft: true
 guest: ''
@@ -37,9 +32,6 @@ people:
 - Vladimir Putin
 - Nicolás Maduro
 - Xi Jinping
-products_models:
-- 28点计划
-- 三道红线
 project:
 - us-analysis
 - china-analysis

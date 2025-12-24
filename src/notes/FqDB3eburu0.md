@@ -3,24 +3,12 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 美国外交关系协会
-- 美中经济与安全审查委员会
 - 北约
-- 商务部工业与安全局
 - 国防部
 - 国务院
-- 情报界
 - 布鲁金斯学会
 - 中国共产党
-- 人民解放军
 - 中央军委
-- Peak Rare Earths
-- 盛和资源
-- Benchmark Mineral Intelligence
-- API Capital Advisory
-- General Innovation Capital Partners
-- 海外私人投资公司
-- 四方安全对话
-- 澳英美三方安全协议
 date: '2025-12-08'
 draft: true
 guest: ''
@@ -36,14 +24,7 @@ people:
 - Lai Ching-te
 - 高市早苗
 products_models:
-- 无人机
 - 半导体
-- 量子生物技术
-- 人工智能模型
-- 可再生能源
-- 电动汽车
-- 遗留芯片
-- 坦克
 project:
 - china-analysis
 - us-analysis

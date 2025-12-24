@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - CBC
 - Newsweek
-- Numbeo
 date: '2024-03-09'
 draft: true
 guest: ''

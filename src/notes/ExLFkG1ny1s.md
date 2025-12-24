@@ -3,7 +3,6 @@ area: tech-engineering
 author: Lei
 category: ai-ml
 companies_orgs:
-- Tree
 - Microsoft
 - Google
 - Meta
@@ -21,17 +20,12 @@ products_models:
 - Cloud Code
 - Cursor
 - Claude
-- Solo
-- Menace
 - Devon
 - GPT-5
 - ChatGPT
 - VS Code
 - Figma
 - Photoshop
-- 剪映
-- VI
-- EMAC
 project:
 - ai-impact-analysis
 source: https://www.youtube.com/watch?v=ExLFkG1ny1s

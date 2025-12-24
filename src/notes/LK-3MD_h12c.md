@@ -2,16 +2,8 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Dallas Cowboys
-- Minnesota Timberwolves
-- Minnesota Lynx
 - NFL
 - Nike
-- Reebok
-- Legends
-- Tyson's Chicken
-- Holly Farms
-- New York Giants
 date: '2025-10-17'
 draft: true
 guest: ''

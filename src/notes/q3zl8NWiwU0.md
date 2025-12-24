@@ -4,8 +4,6 @@ category: stock-investment
 companies_orgs:
 - J.P. Morgan
 - Federal Reserve
-- Stonex
-- 嘉盛集团
 - Bloomberg
 date: '2025-04-14'
 draft: true
@@ -26,11 +24,8 @@ people:
 - David Sacks
 products_models:
 - CPI
-- PPI
 - PCE
 - VIX
-- QE
-- Forex.com
 project:
 - us-analysis
 - investment-strategy

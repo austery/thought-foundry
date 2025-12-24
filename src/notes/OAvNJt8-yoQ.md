@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - World Bank
-- Chinese Academy of Social Sciences
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -18,9 +17,6 @@ media_books:
 people:
 - Deng Xiaoping
 - Mao Zedong
-products_models:
-- Dornbusch's Law
-- Population System Model
 project:
 - china-analysis
 - us-analysis

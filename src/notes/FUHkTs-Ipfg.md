@@ -2,8 +2,6 @@
 area: society-systems
 category: science
 companies_orgs:
-- College Board
-- Educational Testing Service
 - NBC News
 date: '2023-11-30'
 draft: true
@@ -13,7 +11,6 @@ layout: post.njk
 products_models:
 - SAT
 - Brilliant
-- Scientific Thinking
 project:
 - systems-thinking
 - historical-insights

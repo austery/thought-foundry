@@ -2,7 +2,6 @@
 area: society-systems
 category: lifestyle
 companies_orgs:
-- CPR
 - Parks Canada
 date: '2023-07-23'
 draft: true

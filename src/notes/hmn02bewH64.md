@@ -1,11 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- OneTaste
-- Morehouse
-- Welcomed Consensus
-- Goop
 date: '2025-11-13'
 draft: true
 guest: ''

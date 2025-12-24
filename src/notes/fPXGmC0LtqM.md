@@ -17,10 +17,8 @@ people:
 products_models:
 - ChatGPT
 - Claude
-- Curser
 - Copilot
 - Snowflake
-- Streamlit
 project:
 - investment-strategy
 - ai-impact-analysis

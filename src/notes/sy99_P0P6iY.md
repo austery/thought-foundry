@@ -1,10 +1,6 @@
 ---
 area: personal-systems
 category: career
-companies_orgs:
-- 有志有行
-- ITF
-- 国家体育总局
 date: '2025-10-10'
 draft: true
 guest: ''
@@ -14,8 +10,6 @@ media_books:
 - 知行小酒馆
 - 小红书
 products_models:
-- Web3
-- 元宇宙
 - AI
 project:
 - personal-growth-lab

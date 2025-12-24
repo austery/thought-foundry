@@ -4,12 +4,9 @@ category: geopolitics
 companies_orgs:
 - 南方都市报
 - 南方周末
-- 新媒体女性
 - 网易
 - 新浪微博
-- 中国妇女报
 - 共青团中央
-- 厦门大学
 date: '2025-07-03'
 draft: true
 guest: ''

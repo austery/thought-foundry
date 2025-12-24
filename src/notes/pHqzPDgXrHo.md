@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- Anerggo Atom
 - NATO
 - FBI
 - CDC

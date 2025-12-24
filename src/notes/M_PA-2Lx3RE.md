@@ -12,8 +12,6 @@ people:
 - Annie Duke
 - Danny Kahneman
 - Amos Tversky
-products_models:
-- Prospect Theory
 project:
 - investment-strategy
 - personal-growth-lab

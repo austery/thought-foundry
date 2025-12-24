@@ -6,8 +6,6 @@ companies_orgs:
 - HBO
 - 欧盟
 - 共和党
-- 基民党
-- 选项党
 date: 2025-03-02
 draft: true
 guest: ''
@@ -32,7 +30,8 @@ people:
 - 孟子
 - 斯大林
 - 毛主席
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

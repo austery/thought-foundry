@@ -2,7 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Visma
 - Norges Bank Investment Management
 date: '2025-05-03'
 draft: true

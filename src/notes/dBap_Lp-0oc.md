@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - NordVPN
-- Harvard psychologists
 date: '2020-12-31'
 draft: true
 guest: ''
@@ -16,11 +15,6 @@ media_books:
 - Lascaux
 people:
 - Leonardo da Vinci
-products_models:
-- Ames window illusion
-- de Heer circle
-- Ames Room
-- Rubik's Cube
 project:
 - systems-thinking
 - personal-growth-lab

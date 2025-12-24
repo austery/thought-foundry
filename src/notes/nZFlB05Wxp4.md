@@ -3,15 +3,12 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Bloomberg
-- Quantum Fund
 - Bank of England
 - JPMorgan Chase
 - Financial Times
 - Federal Reserve
-- Secret Service
 - Congressional Budget Office
 - Goldman Sachs
-- Committee for a Responsible Federal Budget
 - IRS
 - FBI
 date: '2025-08-24'
@@ -37,9 +34,6 @@ people:
 - Elon Musk
 - Alexander Hamilton
 - John Bolton
-products_models:
-- 333 Plan
-- Big and Beautiful Bill
 project:
 - us-analysis
 - geopolitics-watch

@@ -2,7 +2,6 @@
 area: society-systems
 category: psychology
 companies_orgs:
-- Slingshot AI
 - NYU
 date: '2025-11-13'
 draft: true
@@ -12,11 +11,8 @@ layout: post.njk
 people:
 - Daniel
 products_models:
-- Ash
 - ChatGPT
 - Llama
-- SLG
-- Quen
 project:
 - ai-impact-analysis
 - personal-growth-lab

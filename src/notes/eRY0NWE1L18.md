@@ -2,9 +2,7 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Rentokil
 - Norges Bank Investment Management
-- Chelsea
 date: '2024-02-07'
 draft: true
 guest: ''

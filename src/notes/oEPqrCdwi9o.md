@@ -11,9 +11,7 @@ companies_orgs:
 - Google
 - Microsoft
 - Oracle
-- Cororeweave
 - Lambda
-- Nebus
 - Alphabet
 - Justice Department
 - FBI

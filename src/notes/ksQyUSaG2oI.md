@@ -2,14 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国政法大学
 - 全国人大
-- 团中央
 - 公安部门
-- 政法委
-- 最高检察院
-- 西南政法大学
-- 重庆大学法学院
 date: '2024-01-14'
 draft: true
 guest: ''
@@ -29,11 +23,6 @@ people:
 - 薄熙来
 - 王立军
 - 胡适
-products_models:
-- 民法通则
-- 物权法
-- 行政诉讼法
-- 立法法
 project:
 - china-analysis
 - geopolitics-watch

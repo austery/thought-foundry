@@ -3,16 +3,10 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Hamas
-- Palestine Liberation Organization
-- PICA
 - United Nations
-- League of Nations
-- Israeli Defense Forces
 - Columbia University
 - Pentagon
 - CIA
-- Israeli Supreme Court
-- Islamic Jihad
 date: '2023-11-10'
 draft: true
 guest: ''
@@ -30,12 +24,6 @@ people:
 - Ronald Reagan
 - George H.W. Bush
 - Mahatma Gandhi
-products_models:
-- USA PATRIOT Act
-- Arms Export Control Act
-- Biltmore plan
-- Oslo Accords
-- Oslo Document II
 project:
 - geopolitics-watch
 - historical-insights

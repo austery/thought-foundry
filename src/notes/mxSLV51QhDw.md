@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 中共中央政治局
-- 中央文革小组
 date: '2025-10-18'
 draft: true
 guest: ''

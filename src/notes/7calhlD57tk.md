@@ -1,9 +1,6 @@
 ---
 area: knowledge-meta
 category: career-development
-companies_orgs:
-- 读库
-- 有志有型
 date: '2025-12-19'
 draft: true
 guest: ''

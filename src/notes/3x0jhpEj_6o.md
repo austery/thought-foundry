@@ -5,14 +5,9 @@ companies_orgs:
 - OpenAI
 - Google
 - a16z
-- GBT
 - Open Door
 - MIT
-- Kora
 - Perplexity
-- Harmonic Labs
-- Atlas Alamos National Labs
-- Roxet
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -26,14 +21,8 @@ people:
 - Adam D'Angelo
 - Mark
 products_models:
-- ChatGBT
-- GBT5
-- GBT4
-- GBT3
 - Gemini
 - Codeex
-- GPOSS
-- Dolly
 - Sora
 - Cursor
 project:

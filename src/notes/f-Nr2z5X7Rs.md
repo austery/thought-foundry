@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: science
-companies_orgs:
-- Cal State Bakersfield
-- Capital One Shopping
 date: '2021-09-03'
 draft: true
 guest: ''

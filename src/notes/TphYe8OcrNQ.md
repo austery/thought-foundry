@@ -2,24 +2,18 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 美国国家亚洲研究局
-- 中国南方电网
 - 美国外交关系协会
 - Nvidia
 - 华为
 - 中芯国际
-- 乔治城大学安全与新兴技术中心
-- 新美国安全中心
 - 布鲁金斯学会
 - 阿里
 - 腾讯
 - ByteDance
 - 台积电
-- 荣顶集团
 - 世界银行
 - 国际货币基金组织
 - DeepSeek
-- 美国众议院中共问题特设委员会
 date: '2025-12-18'
 draft: true
 guest: ''
@@ -44,10 +38,7 @@ people:
 products_models:
 - H200
 - H20
-- 升腾950
 - 升腾910C
-- Mate60
-- XII Colossus
 - CUDA
 project:
 - ai-impact-analysis

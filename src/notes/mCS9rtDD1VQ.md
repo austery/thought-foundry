@@ -2,11 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 贝莱德资本
 - 路透社
 - 美联储
-- 欧洲工商管理学院
-- 第一财经频道
 date: '2025-11-28'
 draft: true
 guest: ''

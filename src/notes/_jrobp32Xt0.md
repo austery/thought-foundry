@@ -8,10 +8,6 @@ companies_orgs:
 - FICO
 - PayPal
 - Meta
-- Monster Energy
-- Rap BULL
-- Cels
-- Domino's
 date: '2024-09-02'
 draft: true
 guest: ''
@@ -22,8 +18,6 @@ media_books:
 people:
 - 唐石峻
 - Charlie Munger
-products_models:
-- FICO Score
 project:
 - us-analysis
 - investment-strategy

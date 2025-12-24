@@ -10,7 +10,6 @@ companies_orgs:
 - Meta
 - Apple
 - Vodafone
-- 美国职业棒球大联盟
 - Nvidia
 date: '2025-09-07'
 draft: true
@@ -23,9 +22,7 @@ products_models:
 - Google Cloud
 - ChatGPT
 - Gemini
-- SAP
 - TensorFlow
-- Perplexity AI
 project:
 - ai-impact-analysis
 - investment-strategy

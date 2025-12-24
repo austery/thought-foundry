@@ -2,14 +2,8 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- Secret Service
 - FBI
 - CIA
-- SWAT
-- Naval Postgraduate School
-- High-Value Detainee Interrogation Group (HIG)
-- Flight Story
-- Beyond Bulletproof
 date: '2025-12-01'
 draft: true
 guest: ''

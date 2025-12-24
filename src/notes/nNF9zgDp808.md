@@ -5,13 +5,8 @@ companies_orgs:
 - New York Times
 - CIA
 - Taliban
-- DoD
-- House Armed Services Committee
-- Senate Armed Services Committee
 - KFC
 - Chick-fil-A
-- Wallace
-- Hey Tea
 date: '2025-12-01'
 draft: true
 guest: ''
@@ -25,8 +20,6 @@ people:
 - Tracy Mumford
 - Pete Hegsth
 - Donald Trump
-products_models:
-- smartphone
 project:
 - us-analysis
 - china-analysis

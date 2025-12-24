@@ -4,16 +4,12 @@ category: geopolitics
 companies_orgs:
 - Bloomberg Podcasts
 - OddLots
-- Title Wave Solutions
 - Walmart
 - Apple
 - Xiaomi
 - Tesla
 - Boeing
-- Dow Chemical
 - BMW
-- Impulse Labs
-- SEMIU
 date: '2025-07-28'
 draft: true
 guest: ''
@@ -29,8 +25,6 @@ people:
 products_models:
 - DeepSeek
 - Kimmy
-- H20 chips
-- Proton Saga
 - iPhone
 - Huawei
 project:

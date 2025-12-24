@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- South China Morning Post
 date: '2025-11-22'
 draft: true
 guest: ''

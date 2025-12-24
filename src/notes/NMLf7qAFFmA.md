@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《第一财经》
-products_models:
-- Saily eSIM
 project:
 - china-analysis
 - investment-strategy

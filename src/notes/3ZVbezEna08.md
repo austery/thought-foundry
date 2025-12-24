@@ -3,17 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 全国人大常委会
-- 南通文旅
-- 新疆兵团女子强制隔离戒毒账号
-- 山东文旅
-- 四川文旅
-- 北京昌平文旅
-- 陕西汉中刘坝区文旅
-- 联合国人权理事会
 - 公安部
-- 中纪委
-- 最高检
-- 普渡制药
 date: '2025-12-02'
 draft: true
 guest: ''
@@ -29,7 +19,6 @@ people:
 - 杜特尔特
 - 李连杰
 products_models:
-- 奥西克定
 - 芬太尼
 project:
 - china-analysis

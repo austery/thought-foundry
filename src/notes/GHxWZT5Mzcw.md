@@ -20,8 +20,6 @@ products_models:
 - Gemini
 - Claude
 - Perplexity
-- Multi-layer Perceptron
-- PDP
 project:
 - systems-thinking
 - personal-growth-lab

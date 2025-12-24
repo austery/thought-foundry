@@ -11,11 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁醫師
-products_models:
-- Shakshuka
-- Egg Toast
-- 酸種麵包
-- 布里歐吐司
 project:
 - personal-growth-lab
 series: ''

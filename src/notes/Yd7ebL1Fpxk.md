@@ -2,20 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 印尼国营铁路公司
-- Denantara
-- KPK
 - 布鲁金斯学会
-- 美国罗盘
 - 哈佛大学
 - 詹姆斯敦基金会
 - 辉瑞
-- 吉利德
-- Illumina
 - 高盛
-- 诺华
-- 华大基因
-- 药明康德
 - ASML
 - 三星
 - 台积电
@@ -35,9 +26,7 @@ people:
 - Jason Furman
 products_models:
 - iPhone
-- mRNA
 - CAR-T
-- ADC
 - DUV光刻机
 project:
 - china-analysis

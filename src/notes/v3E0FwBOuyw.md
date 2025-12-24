@@ -2,12 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- 日本文部科学省
-- 建中
-- 北一
 - 台积电
-- 布朗大学
-- 国际基督教大学
 date: '2024-07-12'
 draft: true
 guest: ''

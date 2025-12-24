@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Telegram
 - WhatsApp
 - Meta
 - Snapchat
@@ -16,8 +15,6 @@ media_books:
 - Lex Fridman Podcast
 people:
 - Lex Fridman
-products_models:
-- VK
 project:
 - geopolitics-watch
 - personal-growth-lab

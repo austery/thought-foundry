@@ -8,9 +8,6 @@ companies_orgs:
 - Norges Bank Investment Management
 - Novo Nordisk
 - Adobe
-- European Parliament
-- European Medicines Agency
-- Food and Drug Administration
 - Veterans Administration
 date: '2025-02-19'
 draft: true
@@ -23,12 +20,8 @@ people:
 - Shantanu Narayen
 products_models:
 - GLP-1
-- Exenatide
-- Trulicity
-- Zepbound
 - Prozac
 - ChatGPT
-- DALL-E
 project:
 - ai-impact-analysis
 - entrepreneurship

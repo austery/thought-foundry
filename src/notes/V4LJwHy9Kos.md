@@ -4,9 +4,7 @@ category: politics-society
 companies_orgs:
 - New York Times
 - United Nations
-- US State Department
 - US Navy
-- Bugles Across America
 date: '2025-11-12'
 draft: true
 guest: ''

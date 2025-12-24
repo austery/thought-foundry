@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - University of Toronto
-- Rotman School of Management
 date: '2025-12-12'
 draft: true
 guest: ''
@@ -13,9 +12,6 @@ media_books:
 - Hamilton
 people:
 - Taylor Swift
-products_models:
-- Simon Garfunkel record
-- Instant Pot
 project:
 - historical-insights
 - personal-growth-lab

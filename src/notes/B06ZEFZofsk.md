@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- PDVSA
-- OAS
-- UNASUR
 date: '2025-12-12'
 draft: true
 guest: ''

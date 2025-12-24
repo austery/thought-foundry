@@ -2,12 +2,8 @@
 area: society-systems
 category: psychology
 companies_orgs:
-- 领导影响力学院
 - 天下文化
-- 均一基金会
-- 金门国家公园管理处
 - 台积电
-- 靖天电视
 date: '2025-09-12'
 draft: true
 guest: ''
@@ -24,7 +20,6 @@ people:
 - 马英九
 products_models:
 - iPad
-- 大同电锅
 project:
 - personal-growth-lab
 - cultural-critique

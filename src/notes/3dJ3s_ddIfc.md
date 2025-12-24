@@ -9,11 +9,6 @@ insight: ''
 layout: post.njk
 products_models:
 - DeepSeek-OCR
-- OMOCR
-- DUTS OCR
-- Chandra OCR
-- LM Studio
-- Ubuntu
 project:
 - ai-impact-analysis
 - knowledge-pipeline

@@ -2,10 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 广东时代美术馆
-- 和地再创项目
-- 香港演艺学院
-- 广东舞蹈学校
 - 中山大学
 date: '2025-08-23'
 draft: true

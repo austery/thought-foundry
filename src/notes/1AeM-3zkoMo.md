@@ -4,26 +4,18 @@ category: finance
 companies_orgs:
 - Nvidia
 - 哈佛大学
-- Showtime
 - HBO
-- 《纽约时报》
 - CNBC
 - Palantir
 - 通用汽车
 - 花旗银行
 - 摩根大通
 - 美联储
-- 潘兴广场资本管理公司
-- 美林证券
-- 纽约证券交易所
 - 美国证券交易委员会
-- 联邦存款保险公司
 - OpenAI
 - Google
-- 脸书
 - 亚马逊
 - Reddit
-- 美国无线电公司
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -48,7 +40,6 @@ people:
 - 黄仁勋
 - 马克·吐温
 products_models:
-- Dubuque
 - 比特币
 - 稳定币
 project:

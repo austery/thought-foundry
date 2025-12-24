@@ -1,27 +1,25 @@
 ---
-title: 如何延缓衰老：生物学视角下的探索与前沿
-summary: null
 area: null
+author: Lei
 category: null
+channel: 一席
+date: '2020-07-10'
+guest: null
+insight: null
+layout: post.njk
+media_books:
+- 一席
+products_models: []
 project: []
+series: null
+source: https://www.youtube.com/watch?v=BbFVl0FfIwY
+speaker: 一席YiXi
+summary: null
 tags:
 - health
 - investment
 - llm
-companies_orgs:
-- 一席
-products_models: []
-media_books:
-- 一席
-date: '2020-07-10'
-author: Lei
-speaker: 一席YiXi
-channel: 一席
-guest: null
-insight: null
-layout: post.njk
-series: null
-source: https://www.youtube.com/watch?v=BbFVl0FfIwY
+title: 如何延缓衰老：生物学视角下的探索与前沿
 ---
 
 ## 引言：重新认识衰老

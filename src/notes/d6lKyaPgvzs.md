@@ -2,8 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- DevRev
-- Nutanix
 - Google
 - Amazon
 - Meta
@@ -22,8 +20,6 @@ insight: ''
 layout: post.njk
 people:
 - Jeff Bezos
-products_models:
-- Laravel
 project:
 - entrepreneurship
 - personal-growth-lab

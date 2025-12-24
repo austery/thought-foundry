@@ -2,7 +2,6 @@
 area: tech-engineering
 category: ai-ml
 companies_orgs:
-- Trae
 - Microsoft
 - Google
 - Anthropic
@@ -24,11 +23,7 @@ products_models:
 - Claude Code
 - ChatGPT
 - VS Code
-- JetBrains
 - TikTok
-- VI
-- MD
-- AI IDE
 project:
 - ai-impact-analysis
 - systems-thinking

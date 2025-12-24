@@ -4,13 +4,9 @@ category: technology
 companies_orgs:
 - OpenAI
 - Stripe
-- W3 Schools
 - Wells Fargo
 - MIT
 - Harvard
-- University of North Dakota
-- Julius AI
-- Newegg
 - GitHub
 date: '2025-08-10'
 draft: true
@@ -34,10 +30,7 @@ people:
 products_models:
 - ChatGPT
 - GPT-4
-- CodeX
 - AlexNet
-- Titan X
-- R2-D2
 project:
 - ai-impact-analysis
 - systems-thinking

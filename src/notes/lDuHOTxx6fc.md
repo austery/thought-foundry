@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 雅各宾派
-- 平等密谋社
-- 苏共
 date: '2025-09-12'
 draft: true
 guest: ''

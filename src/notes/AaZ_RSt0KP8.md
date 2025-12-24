@@ -6,7 +6,6 @@ companies_orgs:
 - IBM
 - Toyota
 - NASA
-- Los Alamos National Labs
 - Airbus
 date: '2021-08-31'
 draft: true
@@ -16,12 +15,7 @@ layout: post.njk
 people:
 - Carl Anderson
 products_models:
-- 16 kilobit DRAM
-- Super Mario 64
-- Power PC
-- Perseverance Rover
 - Voyager 1
-- Airbus A330
 project:
 - systems-thinking
 - historical-insights

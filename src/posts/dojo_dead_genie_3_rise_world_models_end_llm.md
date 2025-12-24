@@ -14,8 +14,6 @@ layout: post.njk
 people:
 - 主持人
 - 老修
-products_models:
-- dojo
 project: []
 series: ''
 source: ''

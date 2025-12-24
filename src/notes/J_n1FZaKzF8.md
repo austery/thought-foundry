@@ -5,7 +5,6 @@ companies_orgs:
 - Boeing
 - Soviet Union
 - US Air Force
-- International Space Station
 date: '2022-12-21'
 draft: true
 guest: ''
@@ -13,13 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Footfall
-products_models:
-- Sputnik
-- ICBM
-- MOAB
-- Brilliant Pebbles
-- Hypervelocity Rod Bundles
-- Rods from God
 project:
 - us-analysis
 - geopolitics-watch

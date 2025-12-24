@@ -24,7 +24,6 @@ people:
 - Jeff Bezos
 - Warren Buffett
 products_models:
-- SP500
 - VOO
 - QQQ
 - Bitcoin

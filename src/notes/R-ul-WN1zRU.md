@@ -6,9 +6,6 @@ companies_orgs:
 - World Economic Forum
 - Apple
 - Red Cross
-- AFD
-- Fortune 50
-- Fortune 100
 - United Nations
 - OECD
 date: '2025-06-18'

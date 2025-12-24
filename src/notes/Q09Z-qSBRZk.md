@@ -2,11 +2,8 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- World Liberty Financial
-- Alt5 Sigma
 - MicroStrategy
 - SEC
-- FINRA
 date: '2025-11-30'
 draft: true
 guest: ''
@@ -20,8 +17,6 @@ people:
 - Eric Trump
 - Donald Trump Jr.
 - Peter
-products_models:
-- WLFI
 project:
 - us-analysis
 - investment-strategy

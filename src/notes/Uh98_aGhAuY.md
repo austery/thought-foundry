@@ -3,7 +3,6 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - Anthropic
-- AFT
 - MIT
 date: '2025-12-16'
 draft: true

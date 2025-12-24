@@ -5,7 +5,6 @@ companies_orgs:
 - Substack
 - Twitter
 - YouTube
-- Food Bank
 - 小红书
 date: 2025-01-25
 draft: true
@@ -26,9 +25,6 @@ people:
 - 孟子
 - V.S. Naipaul
 - 老舍
-products_models:
-- '286'
-- '386'
 project:
 - personal-growth-lab
 - systems-thinking

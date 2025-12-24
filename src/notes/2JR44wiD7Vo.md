@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - 星巴克
 - 蜜雪冰城
-- 大王茶鸡
 - 喜茶
 - 北京大学
 date: '2025-11-07'
@@ -20,9 +19,6 @@ products_models:
 - Excel
 - YouTube
 - Twitter
-- 支付宝
-- 闲鱼
-- Touch and Go
 - Nasdaq
 - 标普500
 project:

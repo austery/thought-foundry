@@ -8,7 +8,6 @@ companies_orgs:
 - Tesla
 - Rocket Lab
 - NASA
-- Shift4 Payments
 - Space Force
 date: '2025-02-05'
 draft: true
@@ -26,13 +25,10 @@ products_models:
 - New Glenn
 - Starship
 - Falcon 9
-- Falcon Heavy
 - Electron
 - Neutron
 - Starlink
 - Space Launch System
-- Orion
-- 詹姆斯·韦伯太空望远镜
 project:
 - us-analysis
 - geopolitics-watch

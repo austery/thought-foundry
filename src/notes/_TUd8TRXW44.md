@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - AK Media
 - Google
-- Eventbrite
 date: '2025-12-13'
 draft: true
 guest: ''

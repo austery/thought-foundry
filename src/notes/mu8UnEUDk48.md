@@ -2,14 +2,11 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- First Brand
-- Zebank
 - Honda
 - Porsche
 - Mercedes-Benz
 - Xiaomi
 - Tesla
-- 依法半导体
 date: '2025-10-28'
 draft: true
 guest: ''
@@ -22,12 +19,8 @@ products_models:
 - CDS
 - CDO
 - CPI
-- DVO1
-- FOMC
 - PCE
 - S&P
-- Subprime Mortgage
-- Option
 project:
 - investment-strategy
 - market-cycles

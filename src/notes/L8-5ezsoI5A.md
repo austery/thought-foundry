@@ -2,25 +2,9 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Kore.ai
-- OpenHome
-- Koframe
-- Federous AI
-- Upside
-- Open Audio
-- Fish Audio
-- Glow
-- Favored
-- OpenRouter
-- HF0
 - OpenAI
 - Netflix
 - Fox
-- Splunk
-- MakerDAO
-- Branch
-- Framework
-- Union Square Ventures
 - DeepMind
 - Anthropic
 - Google
@@ -30,13 +14,8 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Quorki 72B
-- S1
-- Sciacoin
 - Claude
 - Gemini
-- Sonet
-- AirPod
 - Apple Watch
 project:
 - ai-impact-analysis

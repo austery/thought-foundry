@@ -2,12 +2,10 @@
 area: personal-systems
 category: productivity
 companies_orgs:
-- Thumbtac
 - White House
 - Sequoia
 - Stanford
 - OpenAI
-- Weebly
 - PayPal
 date: '2025-12-10'
 draft: true

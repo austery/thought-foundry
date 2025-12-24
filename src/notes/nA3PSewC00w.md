@@ -20,8 +20,6 @@ people:
 - George W. Bush
 - Pete Hgsith
 - Vladimir Putin
-products_models:
-- BBB
 project:
 - us-analysis
 - geopolitics-watch

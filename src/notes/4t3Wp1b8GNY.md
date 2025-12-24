@@ -22,8 +22,6 @@ products_models:
 - Claude Code
 - Gemini 3
 - Sora
-- Qianwen
-- Antigravity
 - Nano Banana
 project:
 - ai-impact-analysis

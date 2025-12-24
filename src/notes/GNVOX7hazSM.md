@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Ohio Department of Youth Services
 - FBI
 date: 2025-06-19
 draft: true
@@ -17,7 +16,8 @@ people:
 - Ketanji Brown Jackson
 - Joe Biden
 - Lyndon B. Johnson
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - systems-thinking

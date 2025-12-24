@@ -3,12 +3,10 @@ area: market-analysis
 category: geopolitics
 companies_orgs:
 - US Treasury
-- Central Bank of Argentina
 - IMF
 - People's Bank of China
 - Cato Institute
 - G7
-- The Council on Foreign Relations
 date: '2025-10-11'
 draft: true
 guest: ''
@@ -26,9 +24,6 @@ people:
 - Donald Trump
 - Milton Friedman
 - George Soros
-products_models:
-- US Exchange Stabilization Fund
-- Extended Fund Facility
 project:
 - us-analysis
 - geopolitics-watch

@@ -35,7 +35,6 @@ companies_orgs:
 - 特斯拉 (Tesla)
 - SpaceX
 - 星链 (Starlink)
-- 老干妈
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -52,12 +51,10 @@ people:
 products_models:
 - iPad
 - iPhone
-- iTV
 - Apple TV
 - ChatGPT
 - Gemini
 - DeepSeek
-- 53度飞天茅台
 project:
 - investment-strategy
 - china-analysis

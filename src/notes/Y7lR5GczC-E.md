@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Brookings Institution
-- EU Commission
 - G7
 - Nexperia
 date: '2025-10-25'

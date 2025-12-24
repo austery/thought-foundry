@@ -2,9 +2,7 @@
 area: society-systems
 category: science
 companies_orgs:
-- Whistler-Blackcomb
 - Parks Canada
-- Canadian Army
 - Brilliant
 date: '2024-05-03'
 draft: true
@@ -14,11 +12,6 @@ layout: post.njk
 people:
 - Peter
 - Derek
-products_models:
-- avalanche beacon
-- avalanche airbag
-- probe
-- shovel
 project:
 - systems-thinking
 - historical-insights

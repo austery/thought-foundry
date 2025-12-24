@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Bilibili
-- Vietnamese People's Army
-- Khmer Rouge
 date: '2025-12-11'
 draft: true
 guest: ''

@@ -10,8 +10,6 @@ companies_orgs:
 - Quora
 - Replit
 - Scale AI
-- Surge
-- Merkore
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -35,13 +33,10 @@ products_models:
 - Gemini Flash
 - Claude
 - Claude 3.5
-- Claude 3.7
 - DeepSeek
 - Co-pilot
 - Cursor
-- Po
 - AlphaGo
-- Stripe
 project:
 - ai-impact-analysis
 - geopolitics-watch

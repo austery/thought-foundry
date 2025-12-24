@@ -20,9 +20,6 @@ products_models:
 - PC
 - CPU
 - GPU
-- NPU
-- smartphone
-- tablet
 project:
 - entrepreneurship
 - historical-insights

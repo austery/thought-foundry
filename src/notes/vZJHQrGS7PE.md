@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Oaktree Capital
 - Norges Bank Investment Management
 - Wharton
 - London Business School

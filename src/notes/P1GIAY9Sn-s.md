@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Bank of America
 - Interactive Brokers
-- Travelers
 - JPMorgan
 - Futu Moomoo
 - Circle
@@ -21,9 +20,6 @@ people:
 - Jamie Dimon
 products_models:
 - TLT
-- WTI
-- SLR
-- QT
 - CPI
 - VIX
 project:

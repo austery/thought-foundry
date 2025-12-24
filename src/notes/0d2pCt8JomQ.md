@@ -5,9 +5,7 @@ companies_orgs:
 - Nvidia
 - AMD
 - US Government
-- Bernstein Research
 - Huawei
-- National Security Council
 - Lockheed Martin
 - Peterson Institute for International Economics
 - Moonshot AI
@@ -15,7 +13,6 @@ companies_orgs:
 - ByteDance
 - FBI
 - Ford
-- Nippon Steel
 - Intel
 - Apple
 - Coca-Cola
@@ -33,12 +30,7 @@ people:
 - Jensen Huang
 - Tim Cook
 products_models:
-- Nvidia H20
-- AMD AI Chips
-- Nvidia H100
-- Moonshot Kimmy K2
 - F-35
-- ANOM
 project:
 - us-analysis
 - china-analysis

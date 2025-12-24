@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 products_models:
 - GLP-1
-- Insulin
-- Amylin
 project:
 - investment-strategy
 - systems-thinking

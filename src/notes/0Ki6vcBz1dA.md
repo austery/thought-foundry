@@ -5,14 +5,8 @@ companies_orgs:
 - Bloomberg
 - Wall Street Journal
 - 中国国家统计局
-- ING Greater China
-- Mizuho Securities Asia Ltd.
-- Fitch Ratings
-- ABC Group
-- Nikko Crafts
 - 香港01
 - 新华社
-- Asia Society Policy Institute
 - Fox News
 date: '2025-11-01'
 draft: true
@@ -32,7 +26,6 @@ people:
 - Wendy Cutler
 products_models:
 - 芬太尼
-- 人工智能芯片
 - 稀土
 project:
 - us-analysis

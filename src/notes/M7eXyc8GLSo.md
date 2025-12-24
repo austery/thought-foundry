@@ -7,20 +7,13 @@ companies_orgs:
 - FDA
 - Amplify
 - Genentech
-- Amgen
 - Merck
-- CFDA
 - Stanford University
 - Moderna
-- BioNTech
-- Lilly
 - Novo Nordisk
 - Pfizer
-- Loyal
-- Illumina
 - Nvidia
 - Biogen
-- Vertex
 date: '2025-11-15'
 draft: true
 guest: ''
@@ -32,16 +25,9 @@ people:
 - Elliot
 - Dan Wang
 products_models:
-- Human Genome Project
-- XBI
 - CAR-T
 - CRISPR
 - GLP-1
-- Lipitor
-- Keytruda
-- Humira
-- Repatha
-- Inclisiran
 project:
 - us-analysis
 - china-analysis

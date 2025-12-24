@@ -20,10 +20,7 @@ people:
 - Mao Zedong
 - Xi Jinping
 products_models:
-- 微芯片
 - 半导体
-- 人工智能
-- 虚拟货币
 - 稳定币
 - VIX市场风险指数
 project:

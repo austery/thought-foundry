@@ -16,10 +16,7 @@ companies_orgs:
 - Robinhood
 - Duolingo
 - Snapchat
-- Energy Northwest
-- X-energy
 - Vanke
-- COSCO Shipping Holdings
 - People's Bank of China
 - WTO
 date: '2025-10-20'
@@ -44,7 +41,6 @@ products_models:
 - Blackwell
 - ChatGPT
 - Claude
-- Doubao
 project:
 - china-analysis
 - us-analysis

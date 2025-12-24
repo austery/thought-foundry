@@ -3,8 +3,6 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - Netflix
-- Open Connect
-- SignalFire
 date: '2025-12-18'
 draft: true
 guest: ''
@@ -13,7 +11,6 @@ layout: post.njk
 media_books: []
 products_models:
 - GPT-4
-- AV1
 project:
 - ai-impact-analysis
 series: ''

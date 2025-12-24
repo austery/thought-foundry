@@ -2,12 +2,8 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- DX
 - Booking.com
-- Workhuman
 - Forbes
-- CIO magazine
-- Gizmodo
 - OpenAI
 - Wall Street Journal
 - Microsoft
@@ -15,14 +11,11 @@ companies_orgs:
 - Meta
 - Asana
 - Ramp
-- Tecton
 - Vercel
 - Dropbox
 - AWS
 - Twilio
-- Indeed.com
 - Shopify
-- DORA
 date: '2025-07-23'
 draft: true
 guest: ''
@@ -35,11 +28,7 @@ media_books:
 products_models:
 - GitHub Copilot
 - Claude
-- Dependabot
 - Cursor
-- Cody
-- Granola
-- Q Developer Pro
 project:
 - ai-impact-analysis
 - systems-thinking

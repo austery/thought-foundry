@@ -15,15 +15,9 @@ media_books:
 people:
 - Kent Beck
 products_models:
-- Test Driven Development
-- eXtreme Programming
-- Acceptance Test Driven Development
 - UML
-- Agile
 - RUP
-- Docker Compose
 - PostgreSQL
-- Redis
 project:
 - systems-thinking
 - historical-insights

@@ -2,9 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Wellington
-- Oaktree
-- HG
 - Norges Bank Investment Management
 date: '2024-04-27'
 draft: true

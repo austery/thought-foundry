@@ -3,10 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Netflix
-- Hotstar
-- Star India
-- 新闻集团
-- 长江和记集团
 - Amazon Prime
 date: '2025-05-17'
 draft: true

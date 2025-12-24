@@ -7,7 +7,6 @@ companies_orgs:
 - 解放军报
 - 人民日报
 - 中芯国际
-- 阿斯麦尔
 - 台积电
 - Nvidia
 date: '2025-10-31'
@@ -39,10 +38,7 @@ people:
 - 郭台铭
 products_models:
 - DUV光刻机
-- 2纳米芯片
-- 28纳米芯片
 - AM算力芯片
-- 扫地机器人
 project:
 - china-analysis
 - geopolitics-watch

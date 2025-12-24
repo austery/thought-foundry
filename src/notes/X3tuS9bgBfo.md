@@ -1,9 +1,6 @@
 ---
 area: society-thinking
 category: history
-companies_orgs:
-- Zars
-- Nazis
 date: '2024-04-06'
 draft: true
 guest: ''

@@ -3,14 +3,7 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 中国人民银行
-- 中央金融办
-- 国家发展改革委
 - 司法部
-- 中央金融委员会
-- 海妖交易所
-- Fiat24
-- 复星证券
-- 众安银行
 date: '2025-12-03'
 draft: true
 guest: ''

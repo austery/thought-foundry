@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 网信办
 - 中央电视台
-- 浙江省委宣传部
 - 腾讯
 - 华为
 - Bilibili
@@ -23,8 +22,6 @@ people:
 - 柴静
 - 郭文贵
 - 刘仲敬
-products_models:
-- 鸿蒙
 project:
 - china-analysis
 - systems-thinking

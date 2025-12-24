@@ -4,12 +4,8 @@ category: business
 companies_orgs:
 - Diageo
 - Norges Bank Investment Management
-- Reynolds American
-- British American Tobacco
 - PepsiCo
-- Kraft
 - Nestle
-- Coke
 date: '2025-03-26'
 draft: true
 guest: ''
@@ -18,22 +14,6 @@ layout: post.njk
 people:
 - Nicola Tangan
 - George Clooney
-products_models:
-- Smirnoff
-- Guinness
-- Bailey's
-- Johnny Walker
-- Tanqueray
-- Guinness 0.0
-- RTDs
-- Don Julio 1942
-- Lagavulin
-- Captain Morgan Sweet Chili Lime
-- Smirnoff Tamarindo
-- Casamigos
-- Ritual
-- Seedlip
-- Red Bull
 project:
 - investment-strategy
 - entrepreneurship

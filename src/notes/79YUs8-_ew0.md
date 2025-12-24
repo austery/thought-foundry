@@ -1,11 +1,6 @@
 ---
 area: life-family
 category: health-wellness
-companies_orgs:
-- Ontario Health atHome
-- VHA Home HealthCare
-- AHS
-- CILT
 date: '2025-12-21'
 draft: true
 guest: ''

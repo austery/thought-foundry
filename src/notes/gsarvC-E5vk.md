@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - Google
 - 人民网
-- 北京青年报
-- 豆瓣
 date: '2025-01-12'
 draft: true
 guest: ''

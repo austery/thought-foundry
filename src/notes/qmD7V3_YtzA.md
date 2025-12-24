@@ -2,9 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- Peninsula Canada
 - TVO Today
-- Advanced Symbolics Inc.
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -12,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Charlie Kirk
-products_models:
-- Poly
 project:
 - geopolitics-watch
 - systems-thinking

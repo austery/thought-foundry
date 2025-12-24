@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 三日苗
 project:
 - personal-growth-lab
 - systems-thinking

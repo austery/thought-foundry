@@ -10,11 +10,6 @@ companies_orgs:
 - 美国能源部
 - 耐克
 - 美联储
-- 银狐资本
-- 阿布扎比主权基金
-- 劳工部
-- Lena
-- apartments
 date: '2025-12-19'
 draft: true
 guest: ''

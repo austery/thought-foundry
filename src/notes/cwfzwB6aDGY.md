@@ -4,14 +4,7 @@ category: stock-investment
 companies_orgs:
 - Norges Bank Investment Management
 - EQT
-- TCI
-- Bain Capital
 - Google
-- Aena
-- OVL
-- Heathrow Airport
-- G Aerospace
-- Safran
 date: '2025-07-23'
 draft: true
 guest: ''

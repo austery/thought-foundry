@@ -2,11 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 甲骨文公司
 - 耶鲁大学
 - 加州大学伯克利分校
-- 旧金山警察局
-- 福斯特市检察官办公室
 date: '2025-12-14'
 draft: true
 guest: ''

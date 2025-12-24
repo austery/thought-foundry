@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 大声传媒
 - BBC
 - CCTV
 - 北京大学
@@ -11,11 +10,6 @@ companies_orgs:
 - Google
 - Twitter
 - Meta
-- 公盟
-- 端传媒
-- 无界新闻
-- 国务院网信办
-- 中央网信办
 date: '2025-11-19'
 draft: true
 guest: ''
@@ -40,10 +34,8 @@ people:
 - 吴国光
 - 许成钢
 products_models:
-- 微博
 - 微信
 - YouTube
-- 饭否
 project:
 - china-analysis
 - historical-insights

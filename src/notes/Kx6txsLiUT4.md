@@ -11,9 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - DynamoDB
-- SageMaker
 - Bedrock
-- Amazon Q
 - EC2
 - Prime Video
 project:

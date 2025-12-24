@@ -9,23 +9,13 @@ companies_orgs:
 - Google
 - Alphabet Inc.
 - Stanford University
-- Stanford Research Institute
 - MIT
-- U.S. Immigration and Customs Enforcement (ICE)
 - Palantir Technologies
 - Meta
 - General Catalyst
 - Anduril Industries
-- Flock Safety
-- Radiant Nuclear
-- Exowatt
-- Apex Space
-- Northwood Space
-- Hadrien
-- Odyssey
 - SpaceX
 - Tesla
-- Apple Inc.
 - NATO
 date: '2025-11-19'
 draft: true
@@ -46,9 +36,7 @@ people:
 - JD Vance
 - Elon Musk
 products_models:
-- Project Maven
 - Starlink
-- Sentry Tower
 project:
 - us-analysis
 - geopolitics-watch

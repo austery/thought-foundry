@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 腾讯
-- 太极禅院
 date: '2025-08-19'
 draft: true
 guest: ''
@@ -19,8 +18,6 @@ people:
 - 李连杰
 - 王志安
 - 刘强东
-products_models:
-- 攻守道
 project:
 - china-analysis
 - geopolitics-watch

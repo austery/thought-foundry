@@ -6,8 +6,6 @@ companies_orgs:
 - Meta
 - Amazon
 - White House
-- World Gold Council
-- Polish Central Bank
 date: '2025-11-01'
 draft: true
 guest: ''
@@ -16,8 +14,6 @@ layout: post.njk
 people:
 - Donald Trump
 - Xi Jinping
-products_models:
-- GLD ETF
 project:
 - us-analysis
 - geopolitics-watch

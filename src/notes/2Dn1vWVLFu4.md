@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
-- Generation Investment Management
 - International Energy Agency
 - WTO
 - NATO

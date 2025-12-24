@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Kalshi
-- Intrade
 - CME
 - CFTC
 - SEC
@@ -25,8 +24,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-products_models:
-- 0DTE Options
 project:
 - investment-strategy
 - us-analysis

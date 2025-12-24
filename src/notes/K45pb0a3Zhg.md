@@ -6,9 +6,7 @@ companies_orgs:
 - Amazon Web Services
 - McDonald's
 - Netflix
-- Signal
 - Hamas
-- Israeli Military
 - White House
 - Fox News
 - Louvre

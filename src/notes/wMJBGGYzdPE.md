@@ -10,12 +10,8 @@ companies_orgs:
 - Hyundai
 - Waymo
 - Anthropic
-- Onex
-- Robotics at Stanford
 - iRobot
-- 花旗银行集团
 - 摩根斯坦利
-- Realbotix
 date: '2025-12-17'
 draft: true
 guest: ''
@@ -31,12 +27,8 @@ products_models:
 - GPT-4
 - ChatGPT
 - Gemini
-- Jarra
 - Atlas
 - Neo
-- Aria
-- Cookie
-- Samantha
 project:
 - ai-impact-analysis
 series: ''

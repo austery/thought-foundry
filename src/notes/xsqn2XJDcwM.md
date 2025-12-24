@@ -7,18 +7,12 @@ companies_orgs:
 - Oracle
 - SoftBank
 - Nvidia
-- MGX
-- PIMCO
 - Blue Owl
 - Blackstone
 - Coreweave
 - GE Vernova
-- Caterpillar Inc.
-- Solar Turbines
-- Siemens Energy
 - Meta
 - Boston Dynamics
-- Unitree
 - Western Digital
 - Seagate
 - SanDisk
@@ -36,7 +30,6 @@ people:
 - Joe Weisenthal
 products_models:
 - Stargate
-- Hyperion
 - Sora 2
 - Meta AI
 project:

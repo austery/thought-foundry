@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - Pentagon
 - White House
-- Oxford Economics
 - Morgan Stanley
 - FBI
 date: '2025-10-21'
@@ -28,10 +27,6 @@ people:
 - Levitt
 - Kathy Hochul
 - Li Chenggang
-products_models:
-- H1B visa
-- Case Stone
-- WPS
 project:
 - china-analysis
 - us-analysis

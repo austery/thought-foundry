@@ -27,26 +27,16 @@ people:
 - Herbert Simon
 - Palmer Luckey
 products_models:
-- Windows NT
-- Win32
 - Mosaic
-- HTML
-- Word
 - Azure
 - ChatGPT
 - Copilot
 - GPT-4
 - DeepSeek
-- SQL Server
 - Teams
 - SharePoint
-- Microsoft Graph
-- Dall-E
 - Sora
-- Muse
 - Xbox
-- Flight Simulator
-- IVAS
 project:
 - ai-impact-analysis
 series: ''

@@ -21,8 +21,6 @@ people:
 - 唐石峻
 - Elon Musk
 products_models:
-- 4680电池
-- 超大一体化压铸工艺
 - EpicGames虚幻引擎
 project:
 - us-analysis

@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Center for International Governance Innovation
 - ASEAN
 - G7
 date: '2025-11-05'

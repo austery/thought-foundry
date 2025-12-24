@@ -5,7 +5,6 @@ companies_orgs:
 - Federal Reserve
 - European Central Bank
 - Bank of Japan
-- Swiss National Bank
 - People's Bank of China
 - Bank of England
 date: '2025-11-05'

@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 美国国防部
-- 战略与国际研究中心
 - 大疆
 date: '2025-11-05'
 draft: true
@@ -16,16 +15,6 @@ people:
 - 张又侠
 - 董军
 - 泽连斯基
-products_models:
-- B-2 Ghost bomber
-- F-22 Mengqin fighter jet
-- F-35 Lightning II
-- B-21 stealth bomber
-- J-20
-- Type 052D destroyer
-- K-52
-- Mi-8MTV
-- A10 attack aircraft
 project:
 - china-analysis
 - us-analysis

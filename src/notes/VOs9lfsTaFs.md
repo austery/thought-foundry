@@ -11,8 +11,6 @@ layout: post.njk
 media_books: []
 people:
 - elon-musk
-products_models:
-- starlink
 project:
 - ai-impact-analysis
 series: ''

@@ -2,7 +2,6 @@
 area: society-systems
 category: business
 companies_orgs:
-- Articul8
 - Amazon
 - Google
 - Microsoft
@@ -18,9 +17,7 @@ layout: post.njk
 people:
 - Steve Jobs
 products_models:
-- GenAI
 - ChatGPT
-- digital-twins
 project:
 - ai-impact-analysis
 - entrepreneurship

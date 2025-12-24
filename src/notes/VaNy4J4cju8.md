@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - Intel
 - Hoover Institution
-- National Development and Reform Commission
-- Ministry of Industry and Information Technologies
 - Communist Party of China
 - SMIC
 - Huawei

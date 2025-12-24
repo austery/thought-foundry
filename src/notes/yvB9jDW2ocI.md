@@ -3,11 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - OpenAI
-- Gilbert LLP
-- Canadian Press
-- Torstar
 - The Globe and Mail
-- Postmedia
 - CBC
 - Oracle
 - IBM
@@ -19,7 +15,6 @@ companies_orgs:
 - Microsoft
 - Palantir
 - Anduril
-- Fair Shake
 date: '2025-12-04'
 draft: true
 guest: ''
@@ -45,7 +40,6 @@ people:
 - JD Vance
 products_models:
 - ChatGPT
-- Stargate initiative
 project:
 - ai-impact-analysis
 - us-analysis

@@ -3,14 +3,7 @@ area: market-analysis
 category: business
 companies_orgs:
 - Bloomberg
-- Bub and Grandmas
-- King Arthur
-- Cameas Country Mill
 - Kohl's
-- The Pantry
-- DeFontes
-- Milbour Deli
-- Alidoros
 date: '2025-08-01'
 draft: true
 guest: ''
@@ -25,14 +18,6 @@ people:
 - Joe Weisenthal
 - Kerman Rodriguez
 - Kalebrooks
-products_models:
-- Basque cheesecake
-- chocolate chip cookies
-- sourdough
-- house loaf
-- country loaf
-- BLT
-- San Marzano tomatoes
 project:
 - entrepreneurship
 - market-cycles

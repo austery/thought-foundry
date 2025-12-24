@@ -3,8 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - 协和医院
-- 卫生福利部
-- 301医院
 date: '2024-12-15'
 draft: true
 guest: ''

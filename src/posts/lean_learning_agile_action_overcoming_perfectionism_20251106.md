@@ -3,7 +3,6 @@ area: personal-systems
 author: Lei
 category: productivity
 companies_orgs:
-- 明镜
 - 小红书
 date: '2025-11-06'
 draft: true
@@ -26,7 +25,6 @@ products_models:
 - Photoshop
 - Google
 - GitHub
-- Terminal
 project:
 - personal-growth-lab
 - systems-thinking

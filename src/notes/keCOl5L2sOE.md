@@ -1,12 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 中国运营商
-- 《卫报》
-- 《时代周报》
-- 《世界报》
-- 公检法
 date: 2025-01-15
 draft: true
 guest: ''
@@ -20,7 +14,8 @@ people:
 - 胡锡进
 - 乾隆皇帝
 - 严复
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - historical-insights

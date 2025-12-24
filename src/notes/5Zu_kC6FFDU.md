@@ -5,7 +5,6 @@ companies_orgs:
 - 发改委
 - 高盛
 - 日本央行
-- 日本维新会
 - 摩根大通
 - 美国银行
 - 美联储
@@ -16,10 +15,8 @@ companies_orgs:
 - ByteDance
 - Alibaba
 - 腾讯
-- 宝洁
 - Target
 - 沃尔玛
-- 里根基金会
 - 世界贸易组织
 date: '2025-10-24'
 draft: true

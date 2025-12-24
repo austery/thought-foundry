@@ -2,18 +2,14 @@
 area: tech-engineering
 category: ai-ml
 companies_orgs:
-- Cactus
 - Apple
 - Coca-Cola
-- MTV
 - Google
 - Google DeepMind
 - OpenAI
 - Perplexity
 - Cursor
 - WorkOS
-- Mayo Clinic
-- Advent Health
 - Chipotle
 date: '2025-11-24'
 draft: true

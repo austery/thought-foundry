@@ -2,8 +2,6 @@
 area: personal-systems
 category: lifestyle
 companies_orgs:
-- 民眾醫院
-- 國民健康局
 - 初日診所
 date: '2025-10-30'
 draft: true

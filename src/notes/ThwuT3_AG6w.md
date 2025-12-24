@@ -2,8 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Two Against Surgical
-- Audible
 - Patreon
 date: '2019-10-04'
 draft: true
@@ -14,11 +12,6 @@ media_books:
 - Narrative Economics
 - Irrational Exuberance
 products_models:
-- Da Vinci surgical robot
-- Miura Ori
-- Space Flyer Mission
-- Kalita cycle
-- Origamizer
 - Bitcoin
 project:
 - systems-thinking

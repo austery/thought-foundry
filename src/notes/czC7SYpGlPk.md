@@ -7,7 +7,6 @@ companies_orgs:
 - OpenAI
 - Anthropic
 - MiniMax
-- 智谱
 - ElevenLabs
 - Google
 - Apple
@@ -17,7 +16,6 @@ companies_orgs:
 - 宁德时代
 - Airbnb
 - Cursor
-- 极客公园
 - DeepSeek
 - 微博
 - TikTok
@@ -41,19 +39,10 @@ products_models:
 - 千问
 - GLM
 - JustSayAI早晚报
-- Speech 2
 - NotebookLM
-- Character.ai
-- Banana
 - Sora
-- 4O
-- OE
 - DeepSeek R1
-- Talkie
-- 海螺
-- OpenRouter
 - 豆包
-- 元宝
 project:
 - china-analysis
 - us-analysis

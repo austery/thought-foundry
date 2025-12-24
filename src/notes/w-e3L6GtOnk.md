@@ -5,7 +5,6 @@ companies_orgs:
 - CRA
 - YouTube
 - Google
-- 维基百科
 date: '2024-02-10'
 draft: true
 guest: ''
@@ -17,13 +16,7 @@ people:
 - 李佳琦
 products_models:
 - TFSA
-- RRSP
-- RRIF
-- OAS
-- GIS
 - CPP
-- QPP
-- PSW Program
 project:
 - personal-growth-lab
 - geopolitics-watch

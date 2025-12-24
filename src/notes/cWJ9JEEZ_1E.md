@@ -2,16 +2,8 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 聚宝源
-- 德云社
-- 全聚德
-- 同仁堂
-- 张一元
-- 内联升
-- 六必居
 - 苹果
 - 华为
-- 联想
 date: '2024-11-24'
 draft: true
 guest: ''
@@ -23,8 +15,6 @@ media_books:
 people:
 - Xi Jinping
 - 李嘉诚
-products_models:
-- 中国尊
 project:
 - historical-insights
 - cultural-critique

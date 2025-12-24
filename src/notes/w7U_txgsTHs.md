@@ -2,7 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Rolls Royce
 - Norges Bank Investment Management
 - Boeing
 - Airbus
@@ -10,8 +9,6 @@ companies_orgs:
 - GE
 - BP
 - ExxonMobil
-- Ohio State University
-- GBN
 date: '2024-10-09'
 draft: true
 guest: ''
@@ -23,11 +20,6 @@ media_books:
 people:
 - Nicola Tangan
 - Bill Gates
-products_models:
-- Ultrafan
-- B52
-- Flora program
-- AUKUS
 project:
 - entrepreneurship
 - systems-thinking

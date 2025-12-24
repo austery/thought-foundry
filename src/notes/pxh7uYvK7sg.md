@@ -3,17 +3,13 @@ area: society-systems
 category: business
 companies_orgs:
 - Lululemon
-- Aritzia
 - Amazon
-- Hootsuite
 - Unity
 - Microsoft
 - Meta
 - DeepMind
 - University of Toronto
 - University of Waterloo
-- University of British Columbia
-- Montreal Institute for Learning Algorithms
 date: '2025-04-27'
 draft: true
 guest: ''

@@ -1,16 +1,12 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Minimax
 date: '2025-12-13'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 media_books: []
-products_models:
-- Minimax M2
 project:
 - ai-impact-analysis
 series: ''

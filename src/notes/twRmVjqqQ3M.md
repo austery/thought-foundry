@@ -2,14 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 德州大学奥斯汀分校
-- 三一大学
-- 美国小儿医学会
-- 美国心理学会
 - 美国社会学会
-- Institute for American Values
-- Witherspoon Institute
-- National Organization for Marriage
 - 皮尤研究中心
 date: '2023-11-19'
 draft: true

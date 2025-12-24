@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- International Monetary Fund (IMF)
 date: 2025-04-04
 draft: true
 guest: ''
@@ -16,7 +14,8 @@ people:
 - Franklin D. Roosevelt
 - Lyndon B. Johnson
 - Friedrich Hayek
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - china-analysis

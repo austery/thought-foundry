@@ -4,13 +4,11 @@ category: finance
 companies_orgs:
 - 京东
 - 百度
-- Booking Holdings
 - Salesforce
 - Alibaba
 - 拼多多
 - 抖音
 - 腾讯
-- 360搜索
 - 华为
 - Microsoft
 - 亚马逊
@@ -25,10 +23,6 @@ media_books:
 - 《华尔街日报》
 people:
 - 唐石峻
-products_models:
-- 萝卜快跑
-- Dynamic 365
-- 爱因斯坦
 project:
 - us-analysis
 - investment-strategy

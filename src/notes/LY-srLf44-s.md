@@ -3,16 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 同盟会
-- 华兴会
 - 光复会
-- 新中会
-- 共进会
-- 创造社
-- 黑龙会
-- 丑安会
-- 保定陆军军官学校
-- 东京帝国大学
-- 振武学校
 date: '2025-09-21'
 draft: true
 guest: ''

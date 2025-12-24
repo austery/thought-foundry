@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- HCCSS
-- Meals On Wheels
-- 星岛日报
 date: '2024-02-03'
 draft: true
 guest: ''
@@ -13,9 +9,6 @@ layout: post.njk
 people:
 - 张国焘
 - 张爱玲
-products_models:
-- Walker
-- Reverse Mortgage
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=vRdyQIGPeCA

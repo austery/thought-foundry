@@ -3,11 +3,7 @@ area: tech-engineering
 category: ai-ml
 companies_orgs:
 - New York Times Book Review
-- Crown
-- Melon Foundation
-- Restless Books
 - AP
-- Chicago Sun-Times
 date: '2025-12-19'
 draft: true
 guest: ''

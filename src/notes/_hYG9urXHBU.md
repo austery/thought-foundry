@@ -2,13 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- USCC
-- 中国国务院联防联控机制
 - 全国人大常委会
 - 发改委
 - 彭博社
 - 环球时报
-- 莫德纳
 date: '2023-02-08'
 draft: true
 guest: ''
@@ -20,7 +17,6 @@ people:
 - Xi Jinping
 products_models:
 - MRNA疫苗
-- 灭活疫苗
 project:
 - china-analysis
 - geopolitics-watch

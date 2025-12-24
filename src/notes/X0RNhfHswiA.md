@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
-- National Cancer Institute
 - IBM
 - Eli Lilly
 - Bear Stearns

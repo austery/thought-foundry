@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - a16z
-- Softmax
 - OpenAI
 date: '2025-11-17'
 draft: true

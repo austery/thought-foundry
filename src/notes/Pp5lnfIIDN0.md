@@ -2,26 +2,12 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- LBBW
 - 华尔街日报
-- 哥伦比亚广播公司
 - 彭博社
 - CNBC
 - 路透社
 - 经济学人
 - 香港01
-- 美国钢铁工人联合会
-- 国际机械师协会
-- 国际电工兄弟会
-- 国际锅炉工会兄弟会
-- 国土安全部
-- 国际招生管理协会
-- 国际教育工作者协会
-- 传统基金会
-- 丹麦银行
-- 中国国家计算机病毒应急处理中心
-- 太子集团
-- ARKHAM
 - 美国司法部
 date: '2025-11-10'
 draft: true
@@ -43,9 +29,6 @@ people:
 - Nick Fuentes
 - 高市早苗
 - 薛建
-products_models:
-- 奥巴马医疗
-- 福建号航空母舰
 project:
 - us-analysis
 - china-analysis

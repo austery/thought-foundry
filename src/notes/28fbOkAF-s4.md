@@ -2,11 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 博洛尼亚大学
-- 巴黎大学
-- 牛津大学
 - 剑桥大学
-- 罗马教廷
 date: '2025-11-05'
 draft: true
 guest: ''

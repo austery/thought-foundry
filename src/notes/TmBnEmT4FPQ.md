@@ -2,10 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Royal Swedish Academy of Sciences
 - 中共
 - 中国科学院
-- 清华大学高等教育研究所
 - Bell Labs
 date: 2025-10-31
 draft: true
@@ -22,9 +20,6 @@ people:
 - 钱学森
 - 杨振宁
 - Otto Hahn
-products_models:
-- V2 Rocket
-- V1 Cruise Missile
 project:
 - china-analysis
 - geopolitics-watch

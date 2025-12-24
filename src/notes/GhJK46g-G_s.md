@@ -9,10 +9,8 @@ companies_orgs:
 - AMD
 - Intel
 - XAI
-- Flexispot
 - Microsoft
 - Nebius
-- G42
 - Amazon
 - Google
 date: '2025-11-05'
@@ -30,10 +28,8 @@ products_models:
 - Blackwell
 - H20
 - H800
-- x86 architecture
 - ChatGPT
 - GitHub Copilot
-- E7 Pro Premium
 project:
 - investment-strategy
 - ai-impact-analysis

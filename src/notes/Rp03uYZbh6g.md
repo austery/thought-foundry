@@ -3,7 +3,6 @@ area: society-systems
 category: politics-society
 companies_orgs:
 - CBS
-- 联邦法院
 - 美国最高法院
 date: 2025-02-11
 draft: true
@@ -20,7 +19,8 @@ people:
 - Ezra Klein
 - Joseph Stalin
 - Vladimir Lenin
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

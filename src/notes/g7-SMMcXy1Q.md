@@ -2,11 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Molycorp
-- Magnaquench
-- CBS TV
 - Harvard University
-- 扬子新闻
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -20,11 +16,6 @@ people:
 - 老布什
 - 王浩
 - Xi Jinping
-products_models:
-- F-35 fighter
-- Arleigh Burke-class destroyer
-- 福建号核潜艇
-- EDA software
 project:
 - china-analysis
 - us-analysis

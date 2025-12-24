@@ -3,35 +3,17 @@ area: society-systems
 category: culture
 companies_orgs:
 - 网信办
-- 广电部门
-- 文化部
-- 国家新闻出版总署
-- 国家版权局
-- 中国电影集团
-- 中国电影集团进出口公司
-- 上海电影集团
-- 万达影业
-- 光线传媒
-- 华夏影业
 - 中石油
 - 中石化
-- 中海油
 - 中国电信
 - 中国联通
 - 中国移动
 - Disney
 - Quibi
 - Netflix
-- 枫叶互动
-- 中文在线
 - Amazon Prime
 - Epic Games
-- GOG
-- EA
-- 暴雪
-- 育碧
 - 索尼
-- 任天堂
 - 腾讯
 - 爱奇艺
 - Bilibili
@@ -48,10 +30,7 @@ media_books:
 - 《冰山总裁不能爱》
 - 《这一次我不当舔狗了》
 products_models:
-- PlayStation
-- Switch
 - Steam
-- ReelShort
 - TikTok
 - YouTube
 project:

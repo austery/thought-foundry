@@ -5,7 +5,6 @@ companies_orgs:
 - NATO
 - Norges Bank Investment Management
 - European Union
-- Red Army
 - ISIS
 date: '2024-10-16'
 draft: true
@@ -21,14 +20,7 @@ people:
 - Recep Tayyip Erdoğan
 - Alexander Stubb
 products_models:
-- Javelin
-- US Abrams Tanks
-- Leopard Tanks
-- Patriot
 - F-16
-- GPS
-- Manhattan Project
-- SpaceX
 project:
 - geopolitics-watch
 - china-analysis

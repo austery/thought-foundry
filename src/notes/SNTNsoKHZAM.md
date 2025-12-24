@@ -2,7 +2,6 @@
 area: tech-engineering
 category: ai-ml
 companies_orgs:
-- 大宇公司
 - GG平台
 date: '2025-12-15'
 draft: true
@@ -20,19 +19,6 @@ people:
 - 老尹
 - 特朗普
 - 夏河
-products_models:
-- Escape from Tarkov
-- Elden Ring
-- Black Myth
-- Xian Jian Qi Xia Zhuan
-- Hearts of Iron IV
-- Civilization VI
-- CS
-- COD
-- Dota
-- AK47
-- MD40
-- NS2
 project:
 - ai-impact-analysis
 series: ''

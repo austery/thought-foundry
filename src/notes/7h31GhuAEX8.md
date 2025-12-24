@@ -3,7 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - 抖音
-- 观察者网
 - 环球时报
 date: '2025-12-22'
 draft: true

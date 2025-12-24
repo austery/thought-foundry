@@ -30,11 +30,6 @@ people:
 - Kamala Harris
 - Myron Scholes
 - Nancy Pelosi
-products_models:
-- Falcon
-- Prisma Cloud
-- Firepower
-- Loto
 project:
 - us-analysis
 - investment-strategy

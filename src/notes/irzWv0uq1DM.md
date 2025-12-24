@@ -7,7 +7,6 @@ companies_orgs:
 - Coca-Cola
 - BYD
 - GEICO
-- Morningstar
 - Vanguard
 date: '2025-11-21'
 draft: true
@@ -25,7 +24,6 @@ people:
 - Jack Bogle
 products_models:
 - S&P 500
-- Fama-French three-factor model
 project:
 - investment-strategy
 - systems-thinking

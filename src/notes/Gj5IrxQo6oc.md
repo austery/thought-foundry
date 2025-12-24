@@ -2,16 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Channel 3 Now
-- Logically Facts
-- 欧盟基本权利署
-- 蒙田研究所
-- 贝塔斯曼基金会
 - 皮尤研究中心
-- 德国选择党
-- 国民联盟
 - 自由党
-- TFA
 date: '2025-11-30'
 draft: true
 guest: ''

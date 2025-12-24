@@ -2,12 +2,8 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Writer
-- Daily
-- Vappy
 - Anthropic
 - OpenAI
-- AMP
 date: '2025-08-09'
 draft: true
 guest: ''
@@ -23,15 +19,9 @@ people:
 products_models:
 - GPT
 - MCP
-- LM OS
-- LN SDLC
-- AI News
 - Copilot
 - ChatGPT
 - Notebook LM
-- Agents SDK
-- Cloud
-- Canvas
 project:
 - ai-impact-analysis
 - systems-thinking

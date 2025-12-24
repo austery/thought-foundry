@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-- Claude.ai
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -8,12 +8,7 @@ companies_orgs:
 - Skydance Media
 - CBS
 - CNN
-- TNT
-- Discovery
 - HBO
-- DC
-- WGA
-- SAG
 - YouTube
 - X
 - Instagram
@@ -26,22 +21,16 @@ companies_orgs:
 - FTC
 - DOJ
 - FBI
-- PragerU
 - Rumble
 - New York Times
 - Wall Street Journal
-- New York Post
 - CNBC
-- ServiceTitan
 - Amazon
 - Starbucks
 - NATO
 - UN
 - OKX
 - Google Cloud
-- Battalion Medals
-- B&M Baked Beans
-- Ruger
 - Challenger, Gray & Christmas
 - Yale Budget Lab
 date: '2025-12-13'
@@ -82,9 +71,6 @@ people:
 products_models:
 - ChatGPT
 - Grok
-- Ruger LCR
-- PC-24
-- Phenom 300
 project:
 - us-analysis
 - ai-impact-analysis

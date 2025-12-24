@@ -6,8 +6,6 @@ companies_orgs:
 - Tesla
 - Lumen
 - Fox Business
-- Poland's Ministry of Defense
-- UK Ministry of Defense
 - S&P 500
 - Microsoft
 - Google
@@ -15,13 +13,11 @@ companies_orgs:
 - Robinhood
 - Nvidia
 - Amazon
-- Compass Point
 - Anthropic
 - NextEra Energy
 - Bloomberg
 - Qualcomm
 - AMD
-- Human
 - Waymo
 - Apple
 date: '2025-10-28'
@@ -33,11 +29,8 @@ people:
 - Elon Musk
 products_models:
 - CyberCab
-- Semi
-- Mega Pack 3
 - FSD
 - RoboTaxi
-- Optimus Bots
 - MI450
 - Blackwell
 project:

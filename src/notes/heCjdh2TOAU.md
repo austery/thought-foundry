@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Berkshire Hathaway
 - LTCM
-- Kent School
 date: '2024-08-19'
 draft: true
 guest: ''

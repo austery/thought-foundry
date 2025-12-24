@@ -4,8 +4,6 @@ category: general
 companies_orgs:
 - Wire Cutter
 - Home Depot
-- DeWalt
-- Fine
 date: 2025-10-31
 draft: true
 guest: ''
@@ -17,13 +15,6 @@ people:
 - Christine Sir Cleette
 - Kyra Blackwell
 - Rosie Garren
-products_models:
-- 12vt DeWalt
-- circular saw
-- jigsaw
-- orbital sander
-- reciprocating saw
-- oscillating multi-tool
 project:
 - personal-growth-lab
 series: ''

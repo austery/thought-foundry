@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - 斯坦福大学
-- SambaNova Systems
 - 加州大学伯克利分校
 - IBM
 date: '2025-10-20'
@@ -13,14 +12,7 @@ insight: ''
 layout: post.njk
 products_models:
 - ACE框架
-- GEPA
-- Dynamic Cheatsheet
-- ReAct
-- MIPROv2
-- CUGA
 - GPT-4.1
-- DeepSeek-V3.1
-- HotPotQA
 project:
 - ai-impact-analysis
 - systems-thinking

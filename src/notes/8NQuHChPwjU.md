@@ -3,12 +3,7 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - Wirecutter
-- Goodwill
-- Facebook Marketplace
-- Craigslist
 - IKEA
-- Cherish
-- Baker Furniture
 - New York Times Podcasts
 date: '2025-11-12'
 draft: true
@@ -22,8 +17,6 @@ people:
 - Christine Sir Cleette
 - Kyra Blackwell
 - Rosie Garin
-products_models:
-- Aeron chair
 project:
 - personal-growth-lab
 - systems-thinking

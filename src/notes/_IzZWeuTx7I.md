@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Prime Intellect
 - OpenAI
 date: '2025-12-09'
 draft: true
@@ -10,15 +9,8 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Cursor Composer
 - Codeex
-- Qwen 3 4B
 - GPT-4.1
-- GBD5 mini
-- Intellect 3
-- Primaril
-- Verifiers
-- Lab
 project:
 - ai-impact-analysis
 - systems-thinking

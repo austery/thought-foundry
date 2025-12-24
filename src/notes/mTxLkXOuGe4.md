@@ -5,7 +5,6 @@ companies_orgs:
 - OpenAI
 - Harvard University
 - London School of Economics
-- Hong Kong University of Science and Technology
 - Massachusetts Institute of Technology
 - World Bank
 - JPMorgan Chase

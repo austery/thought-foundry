@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 美投
 - 华尔街
 - 美联储
 - CME
@@ -16,9 +15,7 @@ media_books:
 - 美投看新闻频道
 products_models:
 - 美投AI泡沫指数
-- 美投700课
 - 美投prop lus服务
-- 蓬勃终端
 project:
 - investment-strategy
 - market-cycles

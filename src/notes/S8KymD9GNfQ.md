@@ -4,18 +4,14 @@ category: geopolitics
 companies_orgs:
 - FBI
 - Twitter
-- WikiLeaks
 - Visa
 - Federal Reserve
-- Bitfinex
 - Coinbase
 - Meta
 - PayPal
 - eBay
-- 中國人民銀行
 - JPMorgan Chase
 - ISIS
-- BingX
 date: '2022-09-06'
 draft: true
 guest: ''
@@ -34,15 +30,10 @@ people:
 - Vitalik Buterin
 products_models:
 - Bitcoin
-- 數字人民幣
 - NFT
 - Dogecoin
 - Ethereum
-- Tether
-- Libra
-- Whatsapp
 - Messenger
-- OneCoin
 project:
 - geopolitics-watch
 - historical-insights

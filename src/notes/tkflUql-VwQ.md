@@ -2,12 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- GOP (Republican Party)
 - Democratic Party
-- NFL (National Football League)
-- Pittsburgh Steelers
 - Fox News
-- ICE (Immigration and Customs Enforcement)
 date: '2025-09-05'
 draft: true
 guest: ''
@@ -39,9 +35,6 @@ people:
 - Liz Cheney
 - Zohran Mamdani
 - Sydney Sweeney
-products_models:
-- Trump 2028 (merchandise)
-- 8-dimension test (political compass)
 project:
 - us-analysis
 - geopolitics-watch

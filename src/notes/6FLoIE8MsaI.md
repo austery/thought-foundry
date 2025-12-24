@@ -8,10 +8,6 @@ companies_orgs:
 - IRS
 - 华为
 - BBC
-- 香港民主党
-- 联合国人权理事会
-- 维吾尔流亡政府
-- 西藏流亡政府
 date: '2025-12-16'
 draft: true
 guest: ''

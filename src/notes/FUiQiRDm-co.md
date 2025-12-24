@@ -14,18 +14,13 @@ companies_orgs:
 - Nvidia
 - Tesla
 - AMD
-- Root
-- Oklo Inc.
 - Anduril Industries
 - Robinhood
 - Coinbase
 - Circle
 - MicroStrategy
 - Eli Lilly
-- AgEagle Aerial Systems
 - Archer Aviation
-- SoFi Technologies
-- Opendoor Technologies
 - Google
 date: '2025-09-04'
 draft: true
@@ -44,7 +39,6 @@ people:
 - Ace
 - Warren Buffett
 products_models:
-- Mag 7
 - QQQ
 - VOO
 project:

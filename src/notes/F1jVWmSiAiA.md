@@ -4,7 +4,6 @@ category: stock-investment
 companies_orgs:
 - Polymarket
 - FBI
-- 硅谷银行
 - Signature Bank
 - First Republic Bank
 date: '2024-07-01'
@@ -18,7 +17,6 @@ people:
 - 唐石峻
 products_models:
 - VOO
-- VAS
 project:
 - us-analysis
 - investment-strategy

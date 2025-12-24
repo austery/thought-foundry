@@ -3,7 +3,6 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - 初日診所
-- Garmin
 - Cofit
 - YouTube
 date: '2025-11-14'
@@ -13,9 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁醫師
-products_models:
-- Garmin Venu 4
-- Garmin Connect APP
 project:
 - personal-growth-lab
 - systems-thinking

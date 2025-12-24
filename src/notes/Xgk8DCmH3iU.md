@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 中共財經委員會
 date: '2025-11-05'
 draft: true
 guest: ''

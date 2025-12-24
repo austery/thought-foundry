@@ -4,10 +4,8 @@ category: finance
 companies_orgs:
 - Goldman Sachs
 - Amplify
-- Rex Shares
 - YieldMax
 - Global X
-- Kurv ETF
 - Robinhood
 - Palantir
 - SoFi
@@ -26,18 +24,6 @@ people:
 - Michael Burry
 products_models:
 - S&P 500
-- Nasdaq 100
-- GPIX
-- TSPY
-- GPIQ
-- QDVO
-- TSII
-- TSLY
-- TSLP
-- NVII
-- NVDY
-- XYLD
-- QYLD
 - Alpha Picks
 project:
 - investment-strategy

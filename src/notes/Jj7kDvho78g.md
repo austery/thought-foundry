@@ -5,7 +5,6 @@ companies_orgs:
 - GE Aerospace
 - 通用电气
 - Pratt & Whitney
-- Rolls Royce
 date: '2025-11-20'
 draft: true
 guest: ''

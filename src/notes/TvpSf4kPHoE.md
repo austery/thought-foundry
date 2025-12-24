@@ -18,7 +18,6 @@ companies_orgs:
 - Rocket Lab
 - Tesla
 - MicroStrategy
-- Voyager Digital
 - Iren
 - Cipher Mining
 date: '2025-10-18'
@@ -36,8 +35,6 @@ people:
 products_models:
 - GLP-1
 - Ozempic
-- NeoCloud
-- Star Gate
 - HBM
 project:
 - investment-strategy

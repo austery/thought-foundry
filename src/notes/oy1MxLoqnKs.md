@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 古巴导弹危机演讲
-products_models:
-- '《Sizing People Up: A Behavioral Prediction User''s Manual for an FBI Agent》'
 project:
 - personal-growth-lab
 - systems-thinking

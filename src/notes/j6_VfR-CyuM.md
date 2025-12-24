@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - X
 - Twitter
-- Amnesty International
 - Google
 - AWS
 - Wikipedia
@@ -45,7 +44,6 @@ people:
 products_models:
 - Grok
 - Grokipedia
-- Community Notes
 - H100
 - Colossus
 - Optimus

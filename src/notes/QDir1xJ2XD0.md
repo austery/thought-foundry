@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Nvidia
-- The Hershey Company
 - Justice Department
 - United Nations
 date: '2025-10-30'
@@ -17,14 +16,6 @@ media_books:
 people:
 - Donald Trump
 - Xi Jinping
-products_models:
-- Rolos
-- Almond Joy
-- Mr. Goodbar
-- Butterfinger
-- Baby Ruth
-- Kit Kats
-- Cookies 'n' Creme Fangs
 project:
 - us-analysis
 - geopolitics-watch

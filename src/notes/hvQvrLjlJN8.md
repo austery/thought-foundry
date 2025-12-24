@@ -9,9 +9,7 @@ companies_orgs:
 - Samsung
 - Nvidia
 - AMD
-- Zeiss
 - Philips
-- ISM International
 - IBM
 date: '2025-02-05'
 draft: true
@@ -25,10 +23,7 @@ people:
 - Mario Draghi
 products_models:
 - EUV
-- EBAM
-- Nano Imprints
 - GPU
-- High Bandwidth Memory
 project:
 - ai-impact-analysis
 - geopolitics-watch

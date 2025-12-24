@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 巴黎外方传教会
-- 家谱网
 date: '2025-01-01'
 draft: true
 guest: ''

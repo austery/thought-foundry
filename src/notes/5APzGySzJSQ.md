@@ -2,16 +2,9 @@
 area: market-analysis
 category: business
 companies_orgs:
-- TKO Group Holdings
 - Norges Bank Investment Management
 - UFC
-- WWE
-- William Morris
 - IMG
-- Creative Artists Agency
-- Inner Talent
-- ICM
-- Endeavor
 - Silver Lake
 - KKR
 - ESPN
@@ -25,7 +18,6 @@ companies_orgs:
 - Warner Brothers
 - Paramount
 - Sony
-- Raiders
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -41,12 +33,6 @@ people:
 - Rahm Emanuel
 - Bill Maher
 - Tom Brady
-products_models:
-- PBR
-- Freeze Art Fair
-- Barrett-Jackson
-- Ali Act
-- Wrestle Palooa
 project:
 - entrepreneurship
 - personal-growth-lab

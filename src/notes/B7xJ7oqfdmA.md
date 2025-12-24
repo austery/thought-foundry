@@ -3,8 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Nvidia
-- 美光科技
-- 应用材料
 - 台积电
 - ASML
 - 阿里巴巴集团

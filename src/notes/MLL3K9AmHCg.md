@@ -4,18 +4,12 @@ category: politics-society
 companies_orgs:
 - Wall Street Journal
 - Federal Reserve
-- Chicago Mercantile Exchange
 - Reuters
 - Kremlin
 - ABC News
 - Bloomberg
 - Vanity Fair
 - Canon
-- Douyin
-- Nikkei
-- China Poly Defense
-- Observer Network
-- US Agency for International Development
 date: '2025-12-16'
 draft: true
 guest: ''

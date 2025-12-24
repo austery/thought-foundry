@@ -4,11 +4,7 @@ category: politics-society
 companies_orgs:
 - NATO
 - United Nations
-- Communist International
 - Chinese Communist Party
-- Nationalist Party
-- Whampoa Military Academy
-- Russian Orthodox Church
 date: '2025-10-31'
 draft: true
 guest: ''
@@ -27,16 +23,6 @@ people:
 - Saddam Hussein
 - Franklin Roosevelt
 - Dwight D. Eisenhower
-products_models:
-- Molotov-Ribbentrop Pact
-- Anti-Comintern Pact
-- Karakhan Manifesto
-- Treaty of Aigun
-- Treaty of Peking
-- Yalta Agreement
-- Marshall Plan
-- Belt and Road Initiative
-- Mein Kampf
 project:
 - china-analysis
 - us-analysis

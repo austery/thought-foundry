@@ -17,7 +17,6 @@ people:
 - Thomas Aquinas
 - Steve Jobs
 products_models:
-- 《论证与说服50讲》
 - Agora讨论社区
 project:
 - systems-thinking

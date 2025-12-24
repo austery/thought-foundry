@@ -2,14 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- PDVSA
 - Shell
 - Exxon
 - IMF
 - OPEC
-- AD Party
-- COPEI Party
-- URD Party
 date: '2025-12-11'
 draft: true
 guest: ''

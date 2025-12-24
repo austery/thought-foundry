@@ -4,11 +4,8 @@ category: geopolitics
 companies_orgs:
 - BBC
 - TVO Today
-- Canadian Armed Forces
 - Taliban
-- Pan American Airways
 - United States
-- Canada
 date: '2025-11-26'
 draft: true
 guest: ''
@@ -18,9 +15,6 @@ media_books:
 - The Rundown
 people:
 - Osama bin Laden
-products_models:
-- The Finest Hotel in Kabul
-- In Cold Blood
 project:
 - geopolitics-watch
 - historical-insights

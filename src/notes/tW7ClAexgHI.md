@@ -3,7 +3,6 @@ area: personal-systems
 category: productivity
 companies_orgs:
 - Big Think
-- Juilliard
 date: '2025-11-12'
 draft: true
 guest: ''

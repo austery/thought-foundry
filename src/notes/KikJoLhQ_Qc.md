@@ -6,13 +6,11 @@ companies_orgs:
 - AMD
 - Alibaba
 - ByteDance
-- Kuaishou
 - DJI
 - SpaceX
 - Oracle
 - Waymo
 - Tesla
-- China Aerospace Science and Technology Corporation
 - Blackstone
 - Bloomberg
 - Citigroup
@@ -33,7 +31,6 @@ people:
 - Trump
 products_models:
 - H200
-- MI308
 - Starlink
 - FSD
 - Robotaxi

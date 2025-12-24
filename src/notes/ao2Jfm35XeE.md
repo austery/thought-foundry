@@ -2,8 +2,6 @@
 area: tech-insights
 category: science
 companies_orgs:
-- US Post Office
-- University of Hokkaido
 - Brilliant
 date: '2021-12-01'
 draft: true
@@ -15,9 +13,6 @@ media_books:
 people:
 - Derek Muller
 products_models:
-- Frozen
-- Snow Crystals
-- Nakaya Diagram
 - Gemini Flash
 project:
 - systems-thinking

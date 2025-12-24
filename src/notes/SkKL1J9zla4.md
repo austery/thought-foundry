@@ -3,15 +3,9 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Canada Post
-- 加拿大邮政工人工会
 - FedEx
 - UPS
-- Amazon Logistics
-- Canadian Federation of Independent Business
-- Canada Industrial Relations Board
 - CBC
-- VIA Rail Canada
-- Immigration, Refugees and Citizenship Canada
 date: '2025-09-27'
 draft: true
 guest: ''

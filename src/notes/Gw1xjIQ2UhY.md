@@ -5,13 +5,11 @@ companies_orgs:
 - 联合国
 - 世界银行
 - IMF
-- Freedom House
 - WTO
 - 欧盟
 - BBC
 - ICE
 - 小红书
-- Google Meet
 - YouTube
 - Meta
 - Spotify
@@ -35,8 +33,6 @@ people:
 - 金刻羽
 - 拜登
 - 马杜罗
-products_models:
-- CGI
 project:
 - historical-insights
 - systems-thinking

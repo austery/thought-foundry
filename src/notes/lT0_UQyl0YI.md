@@ -4,17 +4,14 @@ category: business
 companies_orgs:
 - Apple
 - Google
-- Rippling
 - CRA
 - IRS
-- US Patent and Trademark Office
 date: '2025-11-05'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Pixel phones
 - GPT
 project:
 - ai-impact-analysis

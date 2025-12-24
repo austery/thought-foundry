@@ -3,9 +3,7 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - 台积电
-- 淡马锡
 - 麦肯锡
-- 分众传媒
 - 海底捞
 date: '2025-11-20'
 draft: true

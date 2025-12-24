@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - 哥伦比亚大学
-- 福布斯杂志
 date: 2025-07-23
 draft: true
 guest: ''
@@ -14,7 +13,8 @@ people:
 - 尼采
 - 胡锡进
 - 张维为
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - systems-thinking

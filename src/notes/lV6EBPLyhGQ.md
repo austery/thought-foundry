@@ -16,11 +16,7 @@ companies_orgs:
 - TSMC
 - GE Vernova
 - Caterpillar
-- 宝钢
 - FedEx
-- OCP
-- PPTV
-- Novita
 - 白宫
 date: 2025-10-31
 draft: true

@@ -2,39 +2,16 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 商务部
-- 外交部
 - 自民党
 - 公民党
 - 网信办
 - 中宣部
-- 金团联
-- 日铁
-- 日立
-- 日本生命保险
 - 三菱UFJ银行
-- 三菱重工
-- 住友化学
-- 三井物产
-- 东京瓦斯
-- 三菱商事
-- 新日铁
-- 三菱电机
 - 丰田
-- 东日航
-- 全日空
-- 东京海上控股
-- 野村证券
-- 大和证券
-- ASO
-- NIC
 - 特斯拉
-- 德国大众
-- 乐天超市
 - 立宪民主党
 - 国民党
 - 民众党
-- 日本台湾青善协会
 date: '2025-12-08'
 draft: true
 guest: ''
@@ -61,8 +38,6 @@ people:
 - 李在明
 - 蒋介石
 - 石破茂
-products_models:
-- 萨德
 project:
 - china-analysis
 - us-analysis

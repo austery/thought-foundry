@@ -8,8 +8,6 @@ companies_orgs:
 - Microsoft
 - 东京大学
 - 上海交通大学
-- 专修大学
-- 乔治城大学
 - 南方周末
 date: '2025-07-26'
 draft: true

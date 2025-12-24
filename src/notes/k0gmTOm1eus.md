@@ -16,19 +16,12 @@ people:
 - Claire Vo
 - Lee
 products_models:
-- ChatPRD
-- Vzero
 - Cursor
 - Claude Code
 - Next.js
 - TypeScript
-- Tailwind CSS
-- ESLint
-- Composer One
 - Lovable
 - Bolt
-- Replit
-- GitHub Desktop
 project:
 - ai-impact-analysis
 - vibe-coding

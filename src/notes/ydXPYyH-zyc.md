@@ -2,7 +2,6 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- 小翠时政财经
 - Berkshire Hathaway
 - Oracle
 - Morgan Stanley
@@ -26,8 +25,6 @@ people:
 - Warren Buffett
 - Donald Trump
 products_models:
-- 文心大模型5.0
-- 通义
 - ChatGPT
 - GPU
 project:

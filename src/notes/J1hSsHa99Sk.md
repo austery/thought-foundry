@@ -2,16 +2,12 @@
 area: knowledge-meta
 category: career-development
 companies_orgs:
-- McLaren Racing
 - Norges Bank Investment Management
 - Ferrari
 - Honda
 - Renault
 - Red Bull
-- Sky TV
 - Apple
-- Liberty Media
-- Mumtalakat
 - Abu Dhabi主权财富基金
 date: '2025-11-19'
 draft: true

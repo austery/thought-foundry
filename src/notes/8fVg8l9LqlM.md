@@ -1,8 +1,6 @@
 ---
 area: personal-systems
 category: psychology
-companies_orgs:
-- 人民邮电出版社
 date: '2025-11-14'
 draft: true
 guest: ''
@@ -10,7 +8,6 @@ insight: ''
 layout: post.njk
 products_models:
 - AI builders课程
-- 个体破局课程
 - 奔驰的大G
 - Model X
 project:

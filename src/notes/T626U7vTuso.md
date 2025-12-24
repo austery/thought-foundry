@@ -7,11 +7,9 @@ companies_orgs:
 - Salesforce
 - Snowflake
 - Nvidia
-- Datadog
 - Cloudflare
 - CrowdStrike
 - XAI
-- TWWG
 - Lumen
 - Boeing
 - NATO
@@ -40,7 +38,6 @@ products_models:
 - AIP
 - Foundry
 - Vantage
-- Maven
 - Golden Dome
 project:
 - investment-strategy

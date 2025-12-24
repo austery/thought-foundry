@@ -2,11 +2,7 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- Barings Bank
-- SGX
 - NASA
-- Morton Thiokol
-- University of Sussex
 - Veritasium
 date: '2025-11-13'
 draft: true
@@ -15,11 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Daniel Kahneman
-products_models:
-- Nikkei 225
-- Space Shuttle Challenger
-- Elements of Truth
-- 13 Keys to the White House
 project:
 - personal-growth-lab
 - investment-strategy

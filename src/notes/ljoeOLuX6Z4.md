@@ -1,19 +1,11 @@
 ---
 area: tech-insights
 category: science
-companies_orgs:
-- Fasthosts
-- Hubble Space Telescope
 date: '2020-10-20'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Lambda-CDM
-- Voyager
-- Pioneer
-- Betelgeuse
 project:
 - historical-insights
 series: ''

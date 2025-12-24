@@ -18,8 +18,6 @@ people:
 - Ronald Reagan
 - Brian Stewart
 - Jeyan Jeganathan
-products_models:
-- Gloves Off
 project:
 - us-analysis
 - geopolitics-watch

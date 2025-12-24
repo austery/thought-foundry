@@ -6,7 +6,6 @@ companies:
 companies_orgs:
 - US military
 - Pentagon
-- Department of Defence
 - CIA
 - US Navy
 - Soviet Union
@@ -20,13 +19,6 @@ layout: post.njk
 people:
 - Stanislav Petrov
 - Boris Yeltsin
-products_models:
-- B-52 bomber
-- hydrogen bombs
-- Titan II intercontinental ballistic missile
-- Trident ICBM
-- Douglas A-4 jet
-- AL13
 project:
 - us-analysis
 - historical-insights

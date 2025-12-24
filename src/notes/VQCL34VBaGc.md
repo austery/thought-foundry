@@ -3,21 +3,14 @@ area: finance-wealth
 category: macro-economy
 companies_orgs:
 - 美联储
-- 纽约联储
-- 旧金山联储
 - 华尔街
 - 北约
-- 基辅社会学国际研究所
-- 梅西百货
-- 百思买
 - 沃尔玛
 - 最高法院
 - 国民党
 - 民进党
-- 台湾民众党
 - 欧盟
 - 高盛
-- 世贸组织
 date: '2025-12-15'
 draft: true
 guest: ''

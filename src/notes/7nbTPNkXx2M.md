@@ -20,8 +20,6 @@ people:
 - Michael Dell
 - Dave Kim
 products_models:
-- Dell computers
-- Trump accounts
 - Bitcoin
 project:
 - us-analysis

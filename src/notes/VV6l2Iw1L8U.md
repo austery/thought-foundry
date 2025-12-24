@@ -2,26 +2,16 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- 硅谷101
 - UC Berkeley
 - Meta
 - Amazon
-- TetherIA
 - Tesla
 - Figure AI
 - Physical Intelligence
 - NVIDIA
 - OpenAI
-- Sharpa
-- 源升智能
 - Honda
-- Covariant
 - Google Brain
-- Google Robotics
-- Sky Lab
-- 1X
-- Sunday
-- Generalist
 - DeepMind
 date: '2025-12-11'
 draft: true
@@ -36,19 +26,9 @@ people:
 - Elon Musk
 - Sergey Levine
 products_models:
-- PaLM-E
-- RT-1
-- RT-2
 - Optimus
-- π0
-- π0.5
 - Neo
-- Aloha
-- ORCA Hand
-- Shadow Hand
-- ASIMO
 - vLLM
-- SG Lang
 - Genie3
 project:
 - ai-impact-analysis

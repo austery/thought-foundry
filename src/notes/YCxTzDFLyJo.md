@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Challenger
 - Tesla
 - Goldman Sachs
 - Xiaomi

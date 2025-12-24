@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- World Labs
 - 斯坦福大学
 date: '2025-11-12'
 draft: true
@@ -15,11 +14,8 @@ people:
 - 李飞飞
 - Alan Turing
 products_models:
-- 大语言模型
-- 珍妮纺纱机
 - DNA双螺旋结构
 - Marble平台
-- RTFM
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -8,7 +8,6 @@ companies_orgs:
 - OpenAI
 - Google
 - Shopify
-- Maven
 - Statsig
 date: 2025-12-20
 layout: post.njk
@@ -21,7 +20,6 @@ products_models:
 - ChatGPT
 - Gemini
 - Cursor
-- Blender
 project:
 - ai-impact-analysis
 - entrepreneurship

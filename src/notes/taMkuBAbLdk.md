@@ -7,13 +7,10 @@ companies_orgs:
 - Google
 - Meta
 - Amazon
-- CPB
 - DJI
 - 比亚迪
 - 詹姆斯敦基金会
 - J.P. Morgan
-- 联合太平洋铁路
-- 北太平洋铁路
 - 麦肯锡
 - Alphabet
 date: '2025-11-28'
@@ -34,21 +31,7 @@ people:
 - Sarah Friar
 - 安倍晋三
 products_models:
-- MQ-20 Avenger
-- WJ-700 Falcon
-- TB-001 Twin-Tailed Scorpion
-- RQ-4 Global Hawk
-- WZ-9 Divine Eagle
-- WZ-8
-- Switchblade 600
-- ASN-301
-- Shahed
 - S1曲-901
-- XQ-58A Valkyrie
-- GJ-11 Sharp Sword
-- FH-97A
-- DJI Mavic
-- SkyDX10D
 project:
 - china-analysis
 - us-analysis

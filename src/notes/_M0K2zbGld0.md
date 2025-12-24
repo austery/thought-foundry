@@ -35,7 +35,6 @@ people:
 - Xi Jinping
 products_models:
 - Chrome
-- S301
 project:
 - investment-strategy
 - us-analysis

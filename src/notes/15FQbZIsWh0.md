@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 义和团
-- 红卫兵
 date: '2025-08-15'
 draft: true
 guest: ''

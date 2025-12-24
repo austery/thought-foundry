@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- Jewish Church
-- Inquisition
 date: '2024-05-04'
 draft: true
 guest: ''
@@ -21,8 +18,6 @@ people:
 - Hegel
 - Nietzsche
 - Freud
-products_models:
-- HelloVoice
 project:
 - systems-thinking
 - personal-growth-lab

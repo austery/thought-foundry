@@ -2,16 +2,9 @@
 area: society-systems
 category: finance
 companies_orgs:
-- Wizards of the Coast
-- Raisin UK
 - 卡游
-- PSA
-- 保利
-- 保粹
 - Apple
 - Pop Mart
-- Top Toys
-- 名创优品
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -35,20 +28,7 @@ people:
 - Vincent
 - Kevin Durant
 products_models:
-- 'Magic: The Gathering'
-- Yu-Gi-Oh!
-- Pokémon
-- 小浣熊卡
-- 水浒传卡
-- 秘室珍品
-- 鹏洛客
 - Labubu
-- 奥特曼
-- 小马宝莉
-- 蛋仔派对
-- 叶罗丽
-- 哪吒
-- League of Legends
 project:
 - investment-strategy
 - cultural-critique

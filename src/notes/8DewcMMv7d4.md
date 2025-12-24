@@ -2,11 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 国家税务总局
 - 国务院
 - 统计局
-- 宁波博会
-- 深圳地铁公司
 - 发改委
 - 财政部
 - 央行

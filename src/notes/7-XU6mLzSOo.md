@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 极兔速递
 date: '2025-01-24'
 draft: true
 guest: ''

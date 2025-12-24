@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- milanote
 project:
 - knowledge-pipeline
 - pkm-research

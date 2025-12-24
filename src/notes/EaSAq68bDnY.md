@@ -12,9 +12,6 @@ companies_orgs:
 - Palantir
 - NASA
 - Vector Institute
-- Mila
-- Alberta Machine Intelligence Institute
-- Statistics Canada
 date: '2025-08-06'
 draft: true
 guest: ''
@@ -34,10 +31,7 @@ products_models:
 - Gemini
 - Llama
 - AlexNet
-- Smart Arm
 - H-1B
-- OPT
-- STEM OPT
 project:
 - us-analysis
 - geopolitics-watch

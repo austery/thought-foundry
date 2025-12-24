@@ -2,20 +2,14 @@
 area: society-systems
 category: finance
 companies_orgs:
-- Science
 - Western Alliance
 - NVIDIA
 - Microsoft
 - BYD
-- ADM
 - Amazon
 - JPMorgan Chase
-- Nomura
-- OCC
 - FDIC
 - SEC
-- CFPB
-- 英国皇家铸币厂
 date: '2025-10-17'
 draft: true
 guest: ''
@@ -31,8 +25,6 @@ people:
 products_models:
 - Xbox
 - Bitcoin
-- Stablecoin
-- ABS
 project:
 - us-analysis
 - market-cycles

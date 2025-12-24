@@ -14,7 +14,6 @@ companies_orgs:
 - Shopify
 - Netflix
 - 迪士尼
-- 华纳
 - SpaceX
 date: '2025-06-30'
 draft: true
@@ -27,10 +26,6 @@ people:
 - 唐石峻
 - 扎克伯格
 - 巴菲特
-products_models:
-- 拉莫
-- CBT
-- Sbt
 project:
 - us-analysis
 - investment-strategy

@@ -3,15 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - TVO Today
-- CBC Visual Investigations
-- Institute for Strategic Dialogue
-- Second Sons
-- Diagalon
-- Nationalist 13
-- Adamwaffen Division
-- Terror Collective
-- Canadian Security Intelligence Service
-- Stats Canada
 date: '2025-11-14'
 draft: true
 guest: ''

@@ -3,19 +3,11 @@ area: society-systems
 category: lifestyle
 companies_orgs:
 - Canadian Tire
-- Flair Air
-- Holiday Inn
-- Ramada
-- Obriens Boat Tour
 date: '2024-08-18'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Moose Burger
-- Kia SUV
-- Bear spray
 project:
 - historical-insights
 series: ''

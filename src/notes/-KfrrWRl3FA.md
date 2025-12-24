@@ -5,8 +5,6 @@ companies_orgs:
 - a16z
 - Google DeepMind
 - OpenAI
-- Replica
-- Wabby
 - Apple
 - Microsoft
 - Canva
@@ -35,18 +33,11 @@ products_models:
 - Claude
 - Sora
 - GPT-3
-- DaVinci
-- Prisma
-- Lensa
 - Alexa
-- Word2vec
 - ImageNet
-- Mina
 - iOS
-- Microsoft DOS
 - Windows
 - Mac OS
-- Apple Health
 project:
 - ai-impact-analysis
 - systems-thinking

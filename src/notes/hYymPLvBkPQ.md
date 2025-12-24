@@ -6,14 +6,9 @@ companies_orgs:
 - xAI
 - Tesla
 - OKLO
-- TerraPower
-- Duke Energy
-- 阳光电源
-- 中国中车
 - 华为
 - 比亚迪
 - 富途牛牛
-- NRC
 date: '2025-09-22'
 draft: true
 guest: ''
@@ -27,10 +22,6 @@ products_models:
 - H100
 - GB200
 - GB300
-- Grok 5
-- MegaPacks
-- SMT130
-- Titan 350
 project:
 - us-analysis
 - ai-impact-analysis

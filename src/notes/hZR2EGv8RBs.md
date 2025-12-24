@@ -4,10 +4,7 @@ category: geopolitics
 companies_orgs:
 - 中央军委
 - 公安部
-- 北京电影学院
-- 北京舞蹈学院
 - B站
-- 国家卫健委
 - 京东
 date: '2024-12-09'
 draft: true

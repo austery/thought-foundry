@@ -9,8 +9,6 @@ companies_orgs:
 - OPEC
 - Fox News
 - Polymarket
-- 中国足协
-- 国际足联
 date: '2025-12-06'
 draft: true
 guest: ''
@@ -30,15 +28,12 @@ people:
 - Nicolás Maduro
 - Elon Musk
 products_models:
-- AK-47
 - F-16
 - F-35
-- B-2
 - Signal
 - Telegram
 - TikTok
 - VPN
-- ExpressVPN
 - OxyContin
 project:
 - us-analysis

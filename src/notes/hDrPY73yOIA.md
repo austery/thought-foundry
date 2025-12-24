@@ -4,18 +4,10 @@ category: geopolitics
 companies_orgs:
 - Federal Reserve
 - The Wall Street Journal
-- University of Michigan
 - NATO
 - Reuters
-- Downing Street
-- CPC Central Committee
-- China National Democratic Construction Association
-- Central Commission for Discipline Inspection
-- Deyun Society
 - NetEase
-- State Administration of Foreign Exchange of China
 - Vanke
-- Evergrande
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -37,8 +29,6 @@ people:
 - Wang Yi
 - Sanae Takaichi
 - Mao Zedong
-products_models:
-- Taurus missile
 project:
 - us-analysis
 - china-analysis

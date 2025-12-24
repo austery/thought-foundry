@@ -15,7 +15,6 @@ people:
 - Elon Musk
 - Serena Williams
 products_models:
-- Mounjaro
 - Ozempic
 - Wegovy
 - InBody

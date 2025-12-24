@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: science
-companies_orgs:
-- University of Berlin
 date: '2025-04-02'
 draft: true
 guest: ''

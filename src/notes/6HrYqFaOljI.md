@@ -3,10 +3,8 @@ area: finance-wealth
 category: macro-economy
 companies_orgs:
 - Bloomberg Podcasts
-- Bloomberg Economics
 - Goldman Sachs
 - Federal Reserve
-- PBoC
 - US Treasury
 date: '2025-10-09'
 draft: true
@@ -30,7 +28,6 @@ people:
 products_models:
 - ChatGPT
 - Taylor rule
-- Laubach-Williams model
 project:
 - us-analysis
 - geopolitics-watch

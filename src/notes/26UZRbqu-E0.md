@@ -1,13 +1,6 @@
 ---
 area: society-thinking
 category: politics-society
-companies_orgs:
-- Federal Conservatives
-- Liberals
-- Acadia University
-- University of Alberta
-- United Conservatives
-- New Democrats
 date: '2025-12-05'
 draft: true
 guest: ''

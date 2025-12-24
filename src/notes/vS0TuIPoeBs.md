@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Stanford University
-- International Space Station
 - Brilliant
 date: '2023-01-23'
 draft: true
@@ -13,9 +12,6 @@ layout: post.njk
 people:
 - Derek Muller
 products_models:
-- MicroTug
-- Astrobee
-- Sylgard 170
 - ChatGPT
 project:
 - systems-thinking

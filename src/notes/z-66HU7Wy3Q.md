@@ -4,9 +4,6 @@ category: general
 companies_orgs:
 - FBI
 - KGB
-- SVR
-- 加拿大公民及移民部
-- 加拿大最高法院
 date: '2025-11-22'
 draft: true
 guest: ''
@@ -14,8 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 艾琳娜的回忆录
-products_models:
-- The Americans
 project:
 - geopolitics-watch
 - systems-thinking

@@ -2,8 +2,6 @@
 area: tech-insights
 category: business
 companies_orgs:
-- Further AI
-- IIT Bombay
 - Microsoft
 - Y Combinator
 date: '2025-11-05'
@@ -13,9 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Half Monk, Half Machine
-products_models:
-- Microsoft Community Training
-- TurboHire
 project:
 - ai-impact-analysis
 - entrepreneurship

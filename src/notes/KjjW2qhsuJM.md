@@ -1,16 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- CBC Visual Investigations
-- Institute for Strategic Dialogue
-- Canadian Anti-Hate Network
-- Nationalist 13
-- Second Sons
-- Diaglon
-- Adamoffin Division
-- Terror Collective
-- Proud Boys
 date: '2025-11-14'
 draft: true
 guest: ''

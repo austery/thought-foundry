@@ -6,17 +6,11 @@ companies_orgs:
 - The Wall Street Journal
 - CME Group
 - Nvidia
-- Jinsun
 - UBS
 - Bloomberg
-- The Paper
 - European Union
-- General Administration of Customs of China
 - BNP Paribas
 - People's Bank of China
-- Malaysia Airlines
-- Hubei Jiayu Public Security Bureau
-- Beijing Chaoyang District People's Court
 date: '2025-12-08'
 draft: true
 guest: ''
@@ -35,7 +29,6 @@ people:
 - 雷震
 products_models:
 - PHL-03火箭炮
-- 泰达币
 project:
 - china-analysis
 - us-analysis

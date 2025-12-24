@@ -3,14 +3,11 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - OpenAI
-- AI Futures Project
-- Samotsvety
 - Google DeepMind
 - Anthropic
 - XAI
 - NASA
 - TSMC
-- AMA
 date: '2025-04-03'
 draft: true
 guest: ''
@@ -46,8 +43,6 @@ products_models:
 - GPT-4
 - ChatGPT
 - Claude
-- GPT3
-- GPT7
 - Grok
 - Bing
 project:

@@ -4,8 +4,6 @@ category: finance
 companies_orgs:
 - 中共中央
 - 国家统计局
-- 市场监管总局
-- 中国汽车流通协会
 - 丰田
 - 比亚迪
 - 美团
@@ -28,8 +26,6 @@ media_books:
 people:
 - Xi Jinping
 - 高善文
-products_models:
-- 零公里二手车
 project:
 - china-analysis
 - geopolitics-watch

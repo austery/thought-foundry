@@ -2,11 +2,9 @@
 area: finance-wealth
 category: macro-economy
 companies_orgs:
-- FEMA
 - New York Times
 - Federal Reserve
 - EPA
-- Politifact
 date: '2025-12-11'
 draft: true
 guest: ''
@@ -17,8 +15,6 @@ media_books:
 people:
 - Nicholas Maduro
 - Jerome Powell
-products_models:
-- Trump Gold Card
 project:
 - us-analysis
 - geopolitics-watch

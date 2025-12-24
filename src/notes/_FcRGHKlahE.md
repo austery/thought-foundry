@@ -2,9 +2,7 @@
 area: finance-wealth
 category: macro-economy
 companies_orgs:
-- 日本银行
 - 美联储
-- IBKR
 - Seeking Alpha
 date: '2025-11-28'
 draft: true
@@ -13,8 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 巴菲特
-products_models:
-- AlphaPix
 project:
 - investment-strategy
 - market-cycles

@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 民航局
-- 臺北市政府
-- 臺灣內政部
 date: '2023-10-23'
 draft: true
 guest: ''
@@ -17,7 +13,6 @@ people:
 - 莊也
 products_models:
 - Google Map
-- 悠遊卡
 project:
 - geopolitics-watch
 - historical-insights

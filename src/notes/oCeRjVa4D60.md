@@ -3,8 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - 华尔街
-- 美投
-- 券商
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -12,8 +10,6 @@ insight: ''
 layout: post.njk
 products_models:
 - TQQQ
-- TSLL
-- 每头期权客
 - 美特prop lus
 project:
 - investment-strategy

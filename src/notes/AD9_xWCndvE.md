@@ -4,7 +4,6 @@ category: psychology
 companies_orgs:
 - NBC
 - Netflix
-- 康奈尔大学
 - YouTube
 date: 2025-07-24
 draft: true
@@ -13,7 +12,8 @@ insight: ''
 layout: post.njk
 media_books:
 - The Tonight Show
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - personal-growth-lab
 - cultural-critique

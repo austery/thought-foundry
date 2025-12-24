@@ -2,11 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 考伊琴民族
-- 海达民族
-- 列治文市政府
 - BC省政府
-- 加拿大联邦政府
 date: '2025-10-25'
 draft: true
 guest: ''

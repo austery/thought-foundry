@@ -2,13 +2,9 @@
 area: finance-wealth
 category: macro-economics
 companies_orgs:
-- VantageScore
-- TransUnion
 - Equifax
-- Experian
 - Fannie Mae
 - Freddie Mac
-- FHA
 - JPMorgan
 - McDonald's
 - LVMH
@@ -23,9 +19,6 @@ media_books:
 people:
 - Joe Weisenthal
 - Tracy Alloway
-products_models:
-- Fico
-- VantageScore
 project:
 - us-analysis
 series: ''

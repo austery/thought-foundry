@@ -4,7 +4,6 @@ category: psychology
 companies_orgs:
 - 天下文化
 - HP
-- 殼牌
 date: '2025-12-10'
 draft: true
 guest: ''

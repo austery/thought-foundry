@@ -4,15 +4,10 @@ category: stock-investment
 companies_orgs:
 - Money or Life 美股频道
 - Rocket Lab
-- NeoCloud
-- SOFI
 - HIMS
 - Qualcomm
 - Tesla
 - Nvidia
-- TMDX
-- CRCL
-- MST2
 - NBIS
 - META
 - Core Scientific
@@ -30,9 +25,6 @@ people:
 - Elon Musk
 products_models:
 - Neutron rocket
-- GTC conference
-- Leap Call
-- 看跌期权
 project:
 - investment-strategy
 - us-analysis

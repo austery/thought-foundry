@@ -28,7 +28,6 @@ people:
 - Charlie Munger
 products_models:
 - Blackwell
-- SBC
 project:
 - us-analysis
 - investment-strategy

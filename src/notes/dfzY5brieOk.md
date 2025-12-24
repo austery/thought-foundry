@@ -11,10 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-products_models:
-- 阳压呼吸器
-- 止鼾牙套
-- Mewing
 project:
 - personal-growth-lab
 - systems-thinking

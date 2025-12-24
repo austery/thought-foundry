@@ -5,7 +5,6 @@ companies_orgs:
 - OpenAI
 - GitHub
 - Cursor
-- Zed
 date: '2025-12-05'
 draft: true
 guest: ''
@@ -13,7 +12,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Codeex
-- Codeex Max
 - GPT-5.1
 - ChatGPT
 - VS Code

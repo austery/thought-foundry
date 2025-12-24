@@ -6,11 +6,6 @@ companies_orgs:
 - SpaceX
 - Blue Origin
 - NASA
-- SCL Air
-- Interplanetary
-- Advanced Solutions
-- Planetary Systems Corporation
-- SolAero Technologies
 date: '2024-09-05'
 draft: true
 guest: ''
@@ -23,13 +18,9 @@ people:
 products_models:
 - Electron
 - Neutron
-- Photon
 - Falcon 9
 - New Glenn
 - Starlink
-- James Webb Space Telescope
-- CAPSTONE
-- ESCAPADE
 project:
 - investment-strategy
 - us-analysis

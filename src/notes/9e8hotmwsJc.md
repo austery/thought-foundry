@@ -11,7 +11,6 @@ companies_orgs:
 - GOP
 - Pentagon
 - Supreme Court
-- Oxford English Dictionary
 - Costco
 date: '2025-12-05'
 draft: true

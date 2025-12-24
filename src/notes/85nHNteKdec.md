@@ -3,7 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - Wire Cutter
-- New York Times Games
 date: '2025-12-10'
 draft: true
 guest: ''
@@ -17,26 +16,6 @@ media_books:
 people:
 - Kyra Blackwell
 - Rosie Garin
-products_models:
-- Rhino Hero Super Battle
-- First Orchard
-- Fake Artist Goes to New York
-- The Crew
-- Sushi Go
-- Monikers
-- Anomia
-- Dixit
-- Carcassonne
-- Codenames
-- Wavelength
-- Katan
-- Bonanza
-- Brass Birmingham
-- Oh Hell
-- Star Realms
-- Final Girl
-- Sherlock Holmes Consulting Detective
-- Stormlight Ring
 project:
 - personal-systems
 - knowledge-pipeline

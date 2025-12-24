@@ -9,14 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Model T
-- Jamais Contente
-- Apollo lunar roving vehicle
-- BMW 2 Series
-- IX3
-- Vision M Next
-- Formula-E car
 project:
 - ai-impact-analysis
 - systems-thinking

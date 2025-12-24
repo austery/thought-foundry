@@ -2,12 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Los Alamos National Laboratory
 - Nvidia
-- HPE
 - OpenAI
 - Microsoft
-- UC family of schools
 - Department of Energy
 - Department of Defense
 date: '2025-12-06'
@@ -15,16 +12,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Maniac 1
-- GraceHopper
-- Venado
-- ChemCam
-- NIST AI Risk Management Framework
-- NIST 853
-- FedRAMP
-- CCSRG
-- CNSSI 1253
 project:
 - us-analysis
 - ai-impact-analysis

@@ -2,28 +2,14 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- 中心国际
-- 蓝企科技
 - 宁德时代
-- 东方财富
 - 小米集团
-- 爱美克
-- 花西生物
-- 锦波生物
 - 巨子生物
 date: '2025-10-01'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 少女针
-- 童颜针
-- 乳白天使
-- 嗨体
-- 微伊美
-- 可富美
-- 可丽金
 project:
 - investment-strategy
 - market-cycles

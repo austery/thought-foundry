@@ -3,10 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - Tencent
-- Gasgene
-- Feynman Dynamics
-- Yuanchu
-- Moguang
 - TED
 date: '2025-11-12'
 draft: true
@@ -15,8 +11,6 @@ insight: ''
 layout: post.njk
 products_models:
 - CRISPR
-- CarbonX Program
-- sustainable aviation fuel
 project:
 - systems-thinking
 - entrepreneurship

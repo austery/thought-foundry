@@ -3,18 +3,15 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Poolside
-- First Mark
 - Nvidia
 - OpenAI
 - Anthropic
 - AWS
-- GCP
 - Azure
 - CoreWeave
 - TSMC
 - xAI
 - Google
-- Red Panda
 - Palantir
 date: '2025-11-06'
 draft: true
@@ -31,11 +28,7 @@ products_models:
 - GPT-4
 - GB200
 - GB300
-- Malibu
-- Laguna
-- Point
 - VS Code
-- IntelliJ
 project:
 - ai-impact-analysis
 - systems-thinking

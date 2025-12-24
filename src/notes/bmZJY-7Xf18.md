@@ -1,8 +1,8 @@
 ---
 area: society-thinking
 category: politics-society
-companies_orgs:
-- tsmc
+companies:
+- pharmaceutical
 date: '2025-10-07'
 draft: true
 guest: ''
@@ -23,8 +23,6 @@ tags:
 - geopolitical
 - global-supply-chain
 title: 台积电的战略突围与全球医药供应链的暗流：地缘政治下的产业博弈
-companies:
-- pharmaceutical
 ---
 
 ### 台积电的全球战略：地缘政治下的商业抉择

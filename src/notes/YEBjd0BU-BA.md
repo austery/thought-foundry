@@ -21,7 +21,6 @@ people:
 products_models:
 - 抖音
 - 快手
-- 任天堂红白机
 project:
 - china-analysis
 - cultural-critique

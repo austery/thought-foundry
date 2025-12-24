@@ -3,10 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Berkshire Hathaway
-- National Indemnity Company
 - GEICO
-- General Reinsurance
-- NYSE
 date: '2022-10-20'
 draft: true
 guest: ''

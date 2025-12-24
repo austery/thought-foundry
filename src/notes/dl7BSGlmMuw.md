@@ -4,15 +4,11 @@ category: geopolitics
 companies_orgs:
 - New York Times
 - Capitol Hill
-- Democratic caucus
 - GOP
 - Senate
-- House
-- Treasury Department
 - IRS
 - BBC
 - CNN
-- Delta Airlines
 - American Airlines
 - United Airlines
 date: '2025-11-10'

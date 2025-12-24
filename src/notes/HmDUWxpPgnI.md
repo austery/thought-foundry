@@ -2,15 +2,10 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- StrapMines
 - Microsoft
 - Google
 - WhatsApp
 - Roblox
-- Elicit
-- Runway
-- Obo
-- HF Zero
 - Grammarly
 - Meta
 date: '2025-11-29'

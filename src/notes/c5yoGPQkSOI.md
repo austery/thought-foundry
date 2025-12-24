@@ -3,15 +3,11 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - Netflix
-- 腾讯视频
 - 爱奇艺
-- 优酷
 - Costco
-- 中国导演协会
 - 国民党
 - 民进党
 - WTO
-- 爱壹帆
 date: '2025-11-15'
 draft: true
 guest: ''

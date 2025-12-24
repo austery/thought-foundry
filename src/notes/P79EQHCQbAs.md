@@ -3,9 +3,6 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- Trip.com Group
-- Singapore Airlines
-- Four Seasons
 date: '2024-08-14'
 draft: true
 guest: ''
@@ -20,8 +17,6 @@ people:
 - Nicola Tangan
 - Henry Kissinger
 - Magnus Carlsen
-products_models:
-- Trip Genie
 project:
 - entrepreneurship
 - personal-growth-lab

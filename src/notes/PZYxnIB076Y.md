@@ -6,11 +6,8 @@ companies_orgs:
 - Waymo
 - Google
 - Interactive Brokers
-- Chase
 - Uber
 - Anthropic
-- Luminar
-- NHTSA
 - Y Combinator
 date: '2025-06-29'
 draft: true
@@ -28,17 +25,12 @@ people:
 products_models:
 - Robotaxi
 - FSD (Full Self-Driving)
-- Supervised FSD
 - Cybercab
 - Autopilot
-- Hardware 3
-- Hardware 4
-- AI-5
 - Dojo
 - ChatGPT
 - Grok
 - Claude
-- Waymo One
 project:
 - us-analysis
 - ai-impact-analysis

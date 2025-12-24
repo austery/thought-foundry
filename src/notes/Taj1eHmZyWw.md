@@ -1,9 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- PyTorch
-- TensorFlow
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -13,8 +10,6 @@ media_books:
 - SQuAD
 products_models:
 - BERT
-- Adam
-- ReLU
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Globe and Mail
-- Assembly of First Nations
 - Liberal Party
 date: '2025-12-05'
 draft: true
@@ -20,8 +19,6 @@ people:
 - Rachel Notley
 - Doug Ford
 - Chrystia Freeland
-products_models:
-- Building Canada Act
 project:
 - geopolitics-watch
 - historical-insights

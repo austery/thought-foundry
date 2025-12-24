@@ -9,8 +9,6 @@ companies_orgs:
 - 苹果
 - Google
 - Nvidia
-- 文泰科技
-- 安世半导体
 - 特斯拉
 - 摩根士丹利
 - 英特尔
@@ -30,7 +28,6 @@ people:
 - David Sacks
 products_models:
 - ChatGPT
-- 擎天柱
 - XLA
 - CUDA
 project:

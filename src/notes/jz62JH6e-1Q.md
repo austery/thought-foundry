@@ -79,7 +79,6 @@ products_models:
 - Gemini
 - Waymo
 - ChatGPT
-- Project Prometheus
 - iPhone 17
 - GB200
 - Blackwell

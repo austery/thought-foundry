@@ -13,10 +13,7 @@ companies_orgs:
 - Google
 - OpenAI
 - DeepMind
-- Meter
-- Udacity
 - Coursera
-- Codecademy
 - Mozilla
 - IBM
 - McDonald's
@@ -44,11 +41,7 @@ products_models:
 - Python
 - JavaScript
 - Postgres
-- ReactJS
 - C
-- BASIC
-- Fortran
-- Assembly language
 - GPT-2
 - GPT-3
 - GPT-4
@@ -56,11 +49,8 @@ products_models:
 - DeepSeek
 - Claude 4.5
 - AlphaGo
-- Visual Basic
-- Counter-Strike
 - DOS
 - Windows
-- Windows 95
 project:
 - ai-impact-analysis
 - systems-thinking

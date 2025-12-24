@@ -15,13 +15,8 @@ people:
 - Michelangelo
 products_models:
 - Nano Banana
-- Imagine
 - Gemini
-- Gemini 2.0 Flash
 - Gemini 2.5 Flash
-- ControlNet
-- Comfy UI
-- Cloud Sauna
 project:
 - ai-impact-analysis
 series: ''

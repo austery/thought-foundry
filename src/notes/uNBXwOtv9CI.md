@@ -7,10 +7,8 @@ companies_orgs:
 - Nike
 - lululemon
 - Adidas
-- 斐乐
 - 美联储
 - 日本央行
-- 美国劳工局
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -22,7 +20,6 @@ people:
 - 小陶
 products_models:
 - TikTok
-- Investing.com
 - Gemini
 - GPT-4
 project:

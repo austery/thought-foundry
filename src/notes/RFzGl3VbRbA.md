@@ -5,15 +5,11 @@ companies_orgs:
 - Norges Bank Investment Management
 - Netflix
 - PayPal
-- Nintendo
-- Ubisoft
 date: '2024-05-10'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Investment Simulator
 project:
 - investment-strategy
 series: ''

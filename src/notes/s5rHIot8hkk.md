@@ -6,7 +6,6 @@ companies_orgs:
 - Disney
 - Pixar
 - Marvel
-- 21st Century Fox
 - ABC
 date: '2024-11-27'
 draft: true
@@ -21,13 +20,6 @@ people:
 - Steve Jobs
 products_models:
 - Disney+
-- Snow White
-- Mickey Mouse
-- Inside Out Too
-- Shogun
-- Deadpool and Wolverine
-- Up
-- Coco
 - Finding Nemo
 project:
 - systems-thinking

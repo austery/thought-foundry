@@ -2,7 +2,6 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- StumbleUpon
 - Uber
 - Stanford University
 - Harvard University
@@ -10,7 +9,6 @@ companies_orgs:
 - UC Berkeley
 - Princeton University
 - Rutgers University
-- Gamma Core
 date: '2025-11-13'
 draft: true
 guest: ''
@@ -25,12 +23,6 @@ people:
 - Tim Ferriss
 - Jason Calcanis
 - Joe Rogan
-products_models:
-- Accelerated TMS
-- Vagus Nerve Stimulation
-- Internal Family Systems
-- MDMA-assisted psychotherapy
-- Ketogenic Diet
 project:
 - personal-growth-lab
 - systems-thinking

@@ -12,13 +12,8 @@ companies_orgs:
 - ServiceNow
 - CrowdStrike
 - SAP
-- KSA
 - Anthropic
 - Cursor
-- OpenEvidence
-- Appic
-- Average
-- Futu MoMo
 date: '2025-11-20'
 draft: true
 guest: ''
@@ -32,11 +27,8 @@ people:
 - Nick Timiraos
 - Jerome Powell
 products_models:
-- A-series
-- H-series
 - Blackwell
 - Hopper
-- MPP
 - Ruben
 - Facebook
 - Threads

@@ -2,13 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Insys Therapeutics
-- Galena
 - Biogen
-- Drug Enforcement Administration
-- Federal Bureau of Investigation
 - 美国司法部
-- Taxpayers Against Fraud Coalition
 date: 2025-10-28
 draft: true
 guest: ''
@@ -17,8 +12,6 @@ layout: post.njk
 media_books:
 - 《华尔街日报》
 products_models:
-- Subsys
-- Abstral
 - Fentanyl
 project:
 - us-analysis

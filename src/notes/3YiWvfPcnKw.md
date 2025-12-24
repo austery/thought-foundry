@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - NVIDIA
-- 联邦航空管理局
 - Meta
 - Google
 - 甲骨文

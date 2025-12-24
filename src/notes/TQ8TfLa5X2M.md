@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 中国科学院
 - 清华大学
-- 红卫兵
 date: '2025-11-22'
 draft: true
 guest: ''

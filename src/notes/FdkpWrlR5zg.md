@@ -2,15 +2,10 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 苏联
 - 北约
 - 中央情报局
 - 联合国
 - 欧盟
-- 克格勃
-- 华沙条约组织
-- 经济互助委员会
-- 基督教民主联盟
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -25,8 +20,6 @@ people:
 - 毛泽东
 - 老布什
 - 邓小平
-products_models:
-- 战略防御倡议
 project:
 - us-analysis
 - china-analysis

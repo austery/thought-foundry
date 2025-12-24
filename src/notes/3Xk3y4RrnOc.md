@@ -7,9 +7,6 @@ companies_orgs:
 - Microsoft
 - Zoom
 - GE Aerospace
-- Zodiac
-- Charter Communications
-- Time Warner Cable
 date: '2025-05-02'
 draft: true
 guest: ''

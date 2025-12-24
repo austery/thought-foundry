@@ -3,9 +3,7 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Anthropic
-- AI Engineer
 - GitHub
-- Century
 date: '2025-12-04'
 draft: true
 guest: ''

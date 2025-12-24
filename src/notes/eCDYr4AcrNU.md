@@ -6,7 +6,6 @@ companies_orgs:
 - Morgan Stanley
 - Brookfield
 - Citi
-- NHO
 date: '2024-12-27'
 draft: true
 guest: ''

@@ -12,7 +12,6 @@ people:
 - Evan
 - Ben
 products_models:
-- Claude Sonnet 3.7
 - Claude Sonnet 4.5
 - Claude
 project:

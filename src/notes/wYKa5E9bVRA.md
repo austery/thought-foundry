@@ -2,12 +2,9 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- London Stock Exchange Group
 - Norges Bank Investment Management
 - Goldman Sachs
 - Microsoft
-- Refinitiv
-- Thomson Reuters
 date: '2024-02-21'
 draft: true
 guest: ''
@@ -18,10 +15,6 @@ media_books:
 people:
 - Nikola Tangen
 - Jack Ma
-products_models:
-- FTSE Russell
-- TradeWeb
-- Meeting Prep
 project:
 - investment-strategy
 - ai-impact-analysis

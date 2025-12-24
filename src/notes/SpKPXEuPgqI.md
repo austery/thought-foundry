@@ -2,12 +2,8 @@
 area: personal-systems
 category: career
 companies_orgs:
-- 伦敦政治经济学院
 - 芝加哥大学
-- 中研院历史与语言研究所
-- 台湾大学
 - 教育部
-- 科技部
 date: '2021-12-25'
 draft: true
 guest: ''

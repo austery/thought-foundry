@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- BC Housing
-- Comfort Life
 date: '2025-12-14'
 draft: true
 guest: ''

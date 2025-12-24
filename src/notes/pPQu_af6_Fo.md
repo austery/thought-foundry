@@ -24,7 +24,6 @@ people:
 - George Clooney
 products_models:
 - 211餐盘
-- 168断食
 project:
 - personal-growth-lab
 - entrepreneurship

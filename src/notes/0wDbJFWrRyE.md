@@ -4,19 +4,8 @@ category: geopolitics
 companies_orgs:
 - CBS
 - Skydance Media
-- 两党政策中心
-- 彼得森国际经济研究所
-- 美国国会预算办公室
 - 布鲁金斯学会
-- 美国商会
-- 卡托研究所
-- 布伦南司法中心
-- 战略与国际研究中心
-- 美国公民自由联盟
-- 军备控制协会
-- 美国科学家联合会
 - 兰德公司
-- 华盛顿拉丁美洲办公室
 date: '2025-11-04'
 draft: true
 guest: ''

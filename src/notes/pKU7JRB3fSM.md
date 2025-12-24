@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Tesla
 - 新浪
-- ETRADE
 - OpenAI
 - Nvidia
 - Oracle
@@ -12,12 +11,10 @@ companies_orgs:
 - Microsoft
 - Cohere
 - Anthropic
-- TogetherAI
 - 麦肯锡
 - 德勤
 - MIT
 - 斯坦福大学
-- Tempus
 - Lemonade
 - Google
 date: '2025-11-05'
@@ -34,23 +31,14 @@ people:
 - Andrej Karpathy
 products_models:
 - Optimus
-- Crypto
-- VEO 3
 - Sora 2
-- Spark
-- MacBook Pro
 - Codex
 - Claude
-- Tax Form
-- Office
 - Copilot
 - ChatGPT
 - Gemini
-- AirPods
 - QQQ
-- VGT
 - VOO
-- SP500
 project:
 - investment-strategy
 - ai-impact-analysis

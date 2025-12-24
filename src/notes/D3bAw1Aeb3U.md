@@ -14,14 +14,11 @@ layout: post.njk
 people:
 - Elon Musk
 products_models:
-- Model Y L
 - Model 3
 - Model Y
 - Model 2
 - CyberCab
-- Optimus V3
 - FSD V14
-- FSD V15
 project:
 - investment-strategy
 - us-analysis

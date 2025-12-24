@@ -8,8 +8,6 @@ companies_orgs:
 - Meta
 - Home Depot
 - Starbucks
-- Gucci
-- Tory Burch
 date: '2025-07-07'
 draft: true
 guest: ''
@@ -23,13 +21,7 @@ people:
 - Carmen Rodriguez
 - Kalebrooks
 products_models:
-- FeedMe newsletter
 - Odd Lots podcast
-- Tumblr
-- Birkin
-- Uber
-- Amazon storefront
-- Seamless
 project:
 - us-analysis
 - cultural-critique

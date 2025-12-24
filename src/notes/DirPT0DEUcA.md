@@ -3,8 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - Airbnb
-- 巴黎公社
-- 莎士比亞書店
 date: '2023-01-06'
 draft: true
 guest: ''

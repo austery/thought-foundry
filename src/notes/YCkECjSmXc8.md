@@ -4,18 +4,13 @@ category: geopolitics
 companies_orgs:
 - Federal Reserve
 - Hamas
-- Chicago Mercantile Exchange
 - European Union
-- Saab AB
 - Nexperia
-- Wingtech Technology
 - 3M
 - Texas Instruments
 - Analog Devices
 - World Trade Organization
-- Asia Society Policy Institute
 - Brookings Institution
-- University of California, San Diego
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -51,7 +46,6 @@ people:
 - Peter Navarro
 products_models:
 - F-35
-- Gripen
 project:
 - us-analysis
 - china-analysis

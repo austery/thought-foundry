@@ -2,12 +2,10 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- TextQL
 - Oracle
 - GitHub
 - Snowflake
 - Databricks
-- Tableau
 - Palantir
 date: '2025-10-21'
 draft: true
@@ -21,19 +19,8 @@ people:
 products_models:
 - ERP
 - CRM
-- HR systems
-- BI tools
 - Notion
-- Glean
-- Pandas
-- Polars
-- DuckDB
 - ClickHouse
-- LookML
-- Cube
-- MetricFlow
-- PowerBI
-- Looker
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -1,11 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 美国亚洲文化协会
-- 紫禁城夜总会
-- Forbidden City
-- 百乐门
 date: '2024-10-23'
 draft: true
 guest: ''

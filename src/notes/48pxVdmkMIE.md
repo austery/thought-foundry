@@ -21,8 +21,6 @@ products_models:
 - GPT-4
 - Claude
 - Gemma
-- PR2
-- Tesla FSD
 project:
 - ai-impact-analysis
 series: ''

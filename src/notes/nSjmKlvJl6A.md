@@ -2,12 +2,8 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 建设银行亚洲
-- 复星券商
 - 汇丰
-- 中银
 - 富途
-- 长桥
 date: '2025-12-10'
 draft: true
 guest: ''

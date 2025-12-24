@@ -1,8 +1,6 @@
 ---
 area: personal-systems
 category: psychology
-companies_orgs:
-- 金顶投资
 date: '2024-02-20'
 draft: true
 guest: ''

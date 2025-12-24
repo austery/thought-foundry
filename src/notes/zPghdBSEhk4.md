@@ -6,7 +6,6 @@ companies_orgs:
 - 工商银行
 - 农业银行
 - 招商银行
-- 科尔瑞
 - 中国人民银行
 date: '2025-11-05'
 draft: true

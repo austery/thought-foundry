@@ -7,7 +7,6 @@ companies_orgs:
 - S&P 500
 - Macy's
 - Marvell
-- American Eagle Outfitters
 - Tesla
 - Nvidia
 - Microsoft
@@ -19,17 +18,13 @@ companies_orgs:
 - MicroStrategy
 - Snowflake
 - UiPath
-- The Information
 - Salesforce
 - Palantir
 - TSMC
 - Intel
 - Broadcom
 - Netflix
-- Kratos
 - Amkor Technology
-- EnerSys
-- Viavi Solutions
 date: '2025-12-03'
 draft: true
 guest: ''

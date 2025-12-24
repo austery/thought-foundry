@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - Alibaba
 - 腾讯
-- 福特基金会
-- 卡特中心
 - 世界贸易组织
 - 网信办
 date: '2024-12-06'

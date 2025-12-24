@@ -2,8 +2,6 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 法国外籍军团
-- 乌克兰国际军团
 - 北约
 date: '2025-03-30'
 draft: true
@@ -12,9 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Putin
-products_models:
-- AK-74U
-- T-62
 project:
 - geopolitics-watch
 - china-analysis

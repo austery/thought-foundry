@@ -2,9 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- CD Howe Institute
 - OECD
-- LNG Canada
 date: '2025-09-14'
 draft: true
 guest: ''
@@ -12,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Mark Carney
-products_models:
-- SMR
 project:
 - us-analysis
 - geopolitics-watch

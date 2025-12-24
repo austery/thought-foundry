@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国房地产信息集团
 - 中国央行
 date: '2025-11-07'
 draft: true

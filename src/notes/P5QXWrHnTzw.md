@@ -2,11 +2,9 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Reflection
 - DeepMind
 - Google
 - IBM
-- HubSpot for Startups
 date: '2025-11-06'
 draft: true
 guest: ''
@@ -19,13 +17,10 @@ people:
 products_models:
 - AlphaGo
 - Gemini
-- Deep Q Networks
 - AlphaZero
 - Llama
 - DeepSeek
 - GPT-4
-- Imagenet
-- IBM Blue
 project:
 - ai-impact-analysis
 - entrepreneurship

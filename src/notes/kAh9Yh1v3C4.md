@@ -8,9 +8,6 @@ companies_orgs:
 - Microsoft
 - AMD
 - OKLO
-- APP
-- TEAM
-- INTU
 date: '2025-11-27'
 draft: true
 guest: ''
@@ -20,7 +17,6 @@ media_books: []
 products_models:
 - S&P 500
 - VIX
-- XLV
 project:
 - us-analysis
 - investment-strategy

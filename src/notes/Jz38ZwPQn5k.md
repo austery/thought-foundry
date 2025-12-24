@@ -5,13 +5,10 @@ companies_orgs:
 - Wirecutter
 - Apple
 - Dell
-- Lenovo
 - HP
 - Best Buy
-- Newegg
 - Walmart
 - New York Times Podcasts
-- Chimera Bunny
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -31,16 +28,9 @@ people:
 - Diane Wong
 - Cliff Levy
 products_models:
-- MacBook Air
-- M4 MacBook Air
-- Chromebooks
-- Windows laptops
 - iPhone
-- Android phone
-- GarageBand
 - Mac
 - PC
-- Apple Intelligence
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=Jz38ZwPQn5k

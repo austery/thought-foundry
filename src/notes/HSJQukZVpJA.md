@@ -2,44 +2,26 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 中国铝业
 - 小鹏
 - 宇树科技
 - 特斯拉
-- 中信证券
-- 华虹半导体
 - 中芯国际
-- 紫金矿业国际
-- 小马智行
-- 闻之远行
-- 君盛电子
 - 高盛
 - Alibaba
-- 欧莱雅中国
 - 阿里云
-- 科新生物制药
-- 日本自民党
 - Robinhood
 - Coinbase
-- Bestest
-- CH Home Rose
 - OpenAI
-- 挑战者企业
 - 麦当劳
-- 美国百胜环球公司
-- 必胜客
 - Ripple
 - Circle
 - 美联储
 - 美国财政部
-- 劳埃德银行
 - 碧桂园
 - 共和党
 - 民主党
 - Costco
 - Nvidia
-- 多邻国
-- Coherent
 - SpaceX
 - Polymarket
 - SEC
@@ -57,11 +39,7 @@ people:
 - Jensen Huang
 - Elon Musk
 products_models:
-- IRO
 - DDR5
-- HBM3
-- 通用千问系列模型
-- 百炼
 - ChatGPT
 - 比特币
 project:

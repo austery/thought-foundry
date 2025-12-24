@@ -2,17 +2,13 @@
 area: society-systems
 category: general
 companies_orgs:
-- Intact Centre on Climate Adaptation
 - University of Waterloo
 - TVO Today
-- Fire Smart BC
 date: '2025-10-28'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- National Adaptation Strategy
 project:
 - systems-thinking
 series: ''

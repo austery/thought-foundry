@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 民进党
 - 国民党
-- NED
 - IMF
 - 联合国
 date: '2025-11-04'

@@ -3,11 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Starbucks
-- Boyu Capital
 - Carlyle Group
-- Temasek
 - Nvidia
-- China Nonferrous Metal Mining Group
 date: '2025-10-28'
 draft: true
 guest: ''

@@ -3,14 +3,9 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Hamas
-- Department of State
 - White House
 - Amazon
-- Affinity Partners
-- Phoenix Holdings
 - Silver Lake
-- Public Investment Fund of Saudi Arabia (PIF)
-- Electronic Arts
 date: '2025-10-14'
 draft: true
 guest: ''
@@ -30,8 +25,6 @@ people:
 - Karoline Leavitt
 - Al Gore
 - Steve Bannon
-products_models:
-- Abraham Accords
 project:
 - us-analysis
 - geopolitics-watch

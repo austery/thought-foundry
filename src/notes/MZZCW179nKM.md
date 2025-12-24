@@ -20,9 +20,6 @@ people:
 products_models:
 - Claude
 - Claude Code
-- Claude Skills
-- Chat PRD
-- Custom GPTs
 - Cursor
 project:
 - ai-impact-analysis

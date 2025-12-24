@@ -14,7 +14,6 @@ companies_orgs:
 - FTX
 - Democratic Party
 - EU
-- Reflection
 date: '2025-11-04'
 draft: true
 guest: ''
@@ -47,7 +46,6 @@ products_models:
 - DeepSeek
 - Grok
 - ChatGPT
-- Cloud Matrix
 project:
 - us-analysis
 - china-analysis

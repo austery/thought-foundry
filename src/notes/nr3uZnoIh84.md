@@ -18,9 +18,6 @@ people:
 - J.D. Vance
 - Abraham Lincoln
 - Marjorie Taylor Greene
-products_models:
-- 《我们是谁》
-- 《乡下人悲歌》
 project:
 - us-analysis
 - historical-insights

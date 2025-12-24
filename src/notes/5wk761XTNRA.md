@@ -4,8 +4,6 @@ category: business
 companies_orgs:
 - Nvidia
 - AMD
-- LSI
-- 太阳微系统公司
 - 红杉资本
 - Microsoft
 - 英特尔
@@ -21,14 +19,10 @@ layout: post.njk
 people:
 - 黄仁勋
 products_models:
-- NV1
-- RIVA 128
-- GeForce 256
 - GPU
 - CPU
 - CUDA
 - AlexNet
-- CHAT GPT
 project:
 - us-analysis
 - investment-strategy

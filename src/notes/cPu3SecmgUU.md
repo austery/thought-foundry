@@ -18,7 +18,6 @@ people:
 - Andy Jones
 products_models:
 - Transformers
-- Large Multimodal Models
 project:
 - ai-impact-analysis
 series: ''

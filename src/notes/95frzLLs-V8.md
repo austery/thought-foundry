@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: geopolitics
-companies_orgs:
-- grayzone-news
 date: '2025-09-22'
 draft: true
 guest: ''

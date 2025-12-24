@@ -5,9 +5,6 @@ companies_orgs:
 - Rocket Lab
 - Tesla
 - SpaceX
-- JAXA
-- Synspective
-- Firefly
 - Globalstar
 - SDA
 - MDA Space

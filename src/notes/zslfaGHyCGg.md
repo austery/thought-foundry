@@ -5,11 +5,8 @@ companies_orgs:
 - New York Times
 - Capitol Hill
 - Senate
-- House
 - White House
 - World Health Organization
-- Cleveland Guardians
-- MLB
 - NBA
 date: '2025-11-12'
 draft: true

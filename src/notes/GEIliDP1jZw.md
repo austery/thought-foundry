@@ -3,8 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - 纽约大学
-- 澳大利亚国立大学
-- 利兹大学
 - 香港大学
 date: '2024-10-17'
 draft: true

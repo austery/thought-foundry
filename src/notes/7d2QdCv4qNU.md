@@ -3,12 +3,9 @@ area: market-analysis
 category: business
 companies_orgs:
 - OpenAI
-- Gartner Institute
 - Andreessen Horowitz
 - Waymo
-- Auto
 - KFC
-- Dartmouth
 date: '2025-11-05'
 draft: true
 guest: ''

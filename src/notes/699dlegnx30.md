@@ -20,7 +20,6 @@ companies_orgs:
 - AWS
 - Azure
 - Google Cloud
-- TypeF Capital
 - Seeking Alpha
 date: '2025-11-01'
 draft: true
@@ -37,7 +36,6 @@ people:
 - Tom Lee
 products_models:
 - AIP
-- FedStart
 project:
 - us-analysis
 - investment-strategy

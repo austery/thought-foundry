@@ -3,12 +3,6 @@ area: tech-engineering
 category: ai-ml
 companies_orgs:
 - Google
-- Eleven Labs
-- Heygen
-- Genspark
-- NTU Cool
-- JudgeBoi
-- 台灣大專院校人工智慧學程聯盟
 date: '2025-09-15'
 draft: true
 guest: ''
@@ -18,7 +12,6 @@ media_books:
 - course-introduction
 products_models:
 - ChatGPT
-- VO3
 project:
 - ai-impact-analysis
 - systems-thinking

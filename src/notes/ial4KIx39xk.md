@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - Wall Street Journal
 - New York Stock Exchange
-- The First Bank of the United States
 date: '2025-10-23'
 draft: true
 guest: ''
@@ -22,8 +21,6 @@ people:
 - Bernie Sanders
 - Mao Zedong
 - George Washington
-products_models:
-- MAGA
 project:
 - us-analysis
 - china-analysis

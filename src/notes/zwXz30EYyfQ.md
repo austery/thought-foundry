@@ -2,15 +2,8 @@
 area: tech-insights
 category: science
 companies_orgs:
-- Radical AI
-- Ali Corp
-- US National Guard
-- Army Research Lab
-- Rice University
 - Google
-- Lawrence Berkeley National Lab
 - SpaceX
-- Doubleclick
 date: '2025-11-21'
 draft: true
 guest: ''

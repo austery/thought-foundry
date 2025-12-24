@@ -10,10 +10,6 @@ companies_orgs:
 - Supreme Court
 - CIA
 - Republican Party
-- Council of Economic Advisors
-- National Economic Council
-- Cleveland Fed
-- Alternative for Germany
 date: '2025-12-06'
 draft: true
 guest: ''

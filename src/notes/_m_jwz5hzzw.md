@@ -3,7 +3,6 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - Shopify
-- 8090 office
 date: '2025-11-17'
 draft: true
 guest: ''
@@ -16,9 +15,6 @@ people:
 - Chamath Palihapitiya
 - Andrew
 products_models:
-- statins
-- CT angagram
-- Pre-nuvo scan
 - Netflix
 project:
 - personal-growth-lab

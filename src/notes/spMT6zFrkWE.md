@@ -5,7 +5,6 @@ companies_orgs:
 - CNN
 - Harvard University
 - Johns Hopkins University
-- US State Department
 date: 2025-03-31
 draft: true
 guest: ''
@@ -23,7 +22,8 @@ people:
 - Samuel Huntington
 - Francis Fukuyama
 - Graham Allison
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - geopolitics-watch
 - systems-thinking

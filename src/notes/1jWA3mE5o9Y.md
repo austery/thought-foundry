@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Drawing Links
-- How to Be a Better Human
 project:
 - personal-growth-lab
 series: ''

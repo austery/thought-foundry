@@ -2,9 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中铁
-- 葛洲坝集团
-- 中建
 - 中共
 - 央视
 date: '2025-11-15'

@@ -3,9 +3,7 @@ area: market-analysis
 category: finance
 companies_orgs:
 - PayPal
-- Honey
 - Starbucks
-- ASM
 date: '2025-02-10'
 draft: true
 guest: ''

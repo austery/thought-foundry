@@ -9,8 +9,6 @@ companies_orgs:
 - Verizon
 - Microsoft
 - Meta
-- Yandex
-- KBW
 - Circle
 - Tether
 - Nvidia
@@ -38,13 +36,8 @@ people:
 - Alex Karp
 - Warren Buffett
 products_models:
-- SoFi USD
-- SoFi Pay
-- Coach AI
 - Neutron Rocket
 - Electron Rocket
-- HASTE
-- Token Factory
 - ChatGPT
 - Alpha Picks
 - Covered Call ETF

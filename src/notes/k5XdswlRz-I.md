@@ -8,8 +8,6 @@ companies_orgs:
 - House of Representatives
 - Senate
 - Louvre
-- Natural Science Institute of Iceland
-- Arizona Attorney General's Office
 date: '2025-10-23'
 draft: true
 guest: ''

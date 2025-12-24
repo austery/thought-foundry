@@ -3,14 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - FBI
-- 洛杉矶县政府儿童福利机构
-- 马克代孕投资有限责任公司
-- 育道管理
-- 埃尔蒙地市政府
-- 星道移民服务公司
-- 新疆创达冷冻有限公司
-- 美国新疆总商会
-- 捐卵与代孕伦理协会
 date: '2025-10-06'
 draft: true
 guest: ''

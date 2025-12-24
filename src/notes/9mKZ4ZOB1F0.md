@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - 自由党
 - 保守党
-- 加拿大抵押贷款和住房公司
-- 建造加拿大之家
 - 世界经济论坛
 date: '2025-05-01'
 draft: true
@@ -16,9 +14,6 @@ people:
 - 卡尼
 - 特鲁多
 - Donald Trump
-products_models:
-- C-61
-- 多单元租赁建筑
 project:
 - geopolitics-watch
 - systems-thinking

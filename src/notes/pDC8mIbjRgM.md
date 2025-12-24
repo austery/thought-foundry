@@ -2,9 +2,7 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Plaid
 - Visa
-- Spark
 - Goldman Sachs
 - Andreessen Horowitz
 - Robinhood
@@ -12,15 +10,8 @@ companies_orgs:
 - Affirm
 - Revolut
 - Nubank
-- WAN
 - Ford
-- John Deere
-- Rocket
 - JP Morgan
-- Moment
-- Salient
-- Modernify
-- LPL
 - GitHub
 date: '2025-12-19'
 draft: true
@@ -31,12 +22,8 @@ people:
 - Zach
 - David
 products_models:
-- Protect
-- Lens Score
 - Cursor
 - GitHub Copilot
-- Marcus
-- Orbit
 - USDC
 - Bitcoin
 project:

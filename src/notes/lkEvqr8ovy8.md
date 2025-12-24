@@ -5,7 +5,6 @@ companies_orgs:
 - Anthropic
 - Reddit
 - GitHub
-- OpenRouter
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -13,8 +12,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-- Claude 4.5 Opus
-- Claude 4.5 Sonnet
 - Claude Opus 4
 project:
 - ai-impact-analysis

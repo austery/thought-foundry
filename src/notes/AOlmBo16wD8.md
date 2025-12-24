@@ -2,9 +2,7 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Fundamental Research Labs
 - MIT
-- Speedrun
 date: '2025-11-16'
 draft: true
 guest: ''
@@ -14,8 +12,6 @@ media_books:
 - How I Learned to Jump Higher than LeBron James
 people:
 - LeBron James
-products_models:
-- Shortcut
 project:
 - ai-impact-analysis
 - entrepreneurship

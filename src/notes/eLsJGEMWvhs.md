@@ -3,18 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 央视
-- 广东省政法委
 - 全国人大
-- 广州市第一看守所
-- 广州花都检察院
-- 广州市人民检察院
-- 广州市律师协会
-- 广州市越秀区法院
-- 河北大午集团
-- 保定市中心人民法院
-- 保定市人民政府
-- 雄水区人民政府
-- 广东省司法厅
 date: '2024-12-07'
 draft: true
 guest: ''

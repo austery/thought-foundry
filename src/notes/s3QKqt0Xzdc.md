@@ -3,8 +3,6 @@ area: society-systems
 category: lifestyle
 companies_orgs:
 - 初日診所
-- 食藥署
-- 歐盟
 date: '2025-08-05'
 draft: true
 guest: ''

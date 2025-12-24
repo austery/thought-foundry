@@ -25,11 +25,9 @@ companies_orgs:
 - Salesforce
 - Cisco
 - Substack
-- Business Insider
 - Bloomberg
 - The Wall Street Journal
 - S&P 500
-- Stability AI
 - Paramount Global
 - Warner Brothers
 date: '2025-11-24'
@@ -61,7 +59,6 @@ products_models:
 - Bitcoin
 - Ethereum
 - Claude Opus 4.5
-- Google Gemini 3
 - ChatGPT
 - Grok
 - Google TPU

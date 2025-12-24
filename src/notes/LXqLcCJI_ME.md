@@ -5,7 +5,6 @@ companies_orgs:
 - Atlas Copco
 - Norges Bank Investment Management
 - ABB
-- Wahlberg Group
 date: '2024-05-22'
 draft: true
 guest: ''

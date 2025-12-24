@@ -5,7 +5,6 @@ companies_orgs:
 - 华尔街日报
 - 彭博社
 - 路透社
-- 法国巴黎银行证券
 - CNN
 - 纽约时报
 - ByteDance
@@ -26,7 +25,6 @@ people:
 products_models:
 - 芬太尼
 - 稀土
-- 大豆
 - BlackWire芯片
 project:
 - us-analysis

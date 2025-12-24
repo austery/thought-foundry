@@ -4,13 +4,10 @@ category: business
 companies_orgs:
 - Norges Bank Investment Management
 - IBM
-- Dell Computer Corporation
 - Dell Technologies
 - FedEx
 - EMC
 - VMware
-- MSD Capital
-- BDT
 - Goldman Sachs
 date: '2024-12-11'
 draft: true
@@ -30,7 +27,6 @@ products_models:
 - PC
 - CPU
 - GPU
-- NPU
 project:
 - entrepreneurship
 - ai-impact-analysis

@@ -14,23 +14,18 @@ companies_orgs:
 - Meta
 - Snapchat
 - Verizon
-- LG Electronics
 - Adobe
 - Netflix
 - Twitch
-- DBS
-- Lufthansa
 - Snowflake
 - Databricks
 - Crusoe
 - Lambda
 - Applied Digital
-- Nscale
 - Intel
 - ARM
 - AMD
 - IREN
-- CIFR
 - Nebius
 date: '2025-09-30'
 draft: true
@@ -43,9 +38,6 @@ people:
 - Jensen Huang
 - Elon Musk
 products_models:
-- Colossus 1
-- Colossus 2
-- Grok 4
 - TPU
 project:
 - investment-strategy

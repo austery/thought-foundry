@@ -3,8 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - AMD
-- Super Micro Computer (SMCI)
-- Arista Networks (ANET)
 - Rivian
 - Zeta Global
 - Axon
@@ -37,13 +35,6 @@ people:
 - Michael Burry
 - Tom Lee
 - Palmer Luckey
-products_models:
-- EPYC
-- Ryzen
-- Instinct MI350
-- Instinct MI450
-- Helios
-- ROCm 7
 project:
 - us-analysis
 - investment-strategy

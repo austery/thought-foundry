@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - Liberal Party
 - Conservative Party
-- Baylis Medical Company
-- Organization of American States
 - Goldman Sachs
 - Bank of Canada
 - Bank of England

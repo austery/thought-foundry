@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - Chinese Communist Party
 - Kuomintang
-- Eighth Route Army
 - Soviet Union
 date: 2025-09-02
 draft: true
@@ -15,7 +14,8 @@ media_books: '[]'
 people:
 - Mao Zedong
 - Peng Dehuai
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - historical-insights

@@ -2,11 +2,7 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- European Economic Community
 - European Union
-- London School of Economics and Political Science
-- Public Affairs Institute
-- Al Jazeera
 date: '2025-12-03'
 draft: true
 guest: ''

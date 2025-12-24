@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: science
-companies_orgs:
-- Lutron Electronics
 date: '2021-11-19'
 draft: true
 guest: ''
@@ -11,9 +9,7 @@ layout: post.njk
 people:
 - James Clerk Maxwell
 products_models:
-- Caséta by Lutron
 - Alexa
-- Google Assistant
 project:
 - systems-thinking
 - historical-insights

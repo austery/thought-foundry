@@ -4,7 +4,6 @@ category: technology
 companies_orgs:
 - Google
 - Shopify
-- Cobalt Cowboys
 date: '2025-12-14'
 draft: true
 guest: ''
@@ -17,10 +16,6 @@ people:
 products_models:
 - Gemini Flash
 - Cursor
-- Composer One
-- Glink
-- Sizzy
-- Zero to Ship
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -2,16 +2,8 @@
 area: society-systems
 category: general
 companies_orgs:
-- EmmaSleepTaiwan
 - Basecamp
-- The Mix Global
-- Draugiem Group
 - OECD
-- 世界衛生組織
-- 紐西蘭經濟研究所
-- 加州大學
-- 公視新聞實驗室
-- 倫敦精神病學研究所
 date: '2024-12-08'
 draft: true
 guest: ''
@@ -29,7 +21,6 @@ people:
 products_models:
 - Emma床墊
 - Hybrid床墊
-- 黑鑽石記憶枕
 project:
 - systems-thinking
 - historical-insights

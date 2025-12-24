@@ -3,11 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - White House
-- Yale University Budget Lab
-- US Customs and Border Protection
 - Financial Times
 - BBC
-- Jingye Group
 - WTO
 - Ford
 - BMW
@@ -16,8 +13,6 @@ companies_orgs:
 - Citigroup
 - European Central Bank
 - Federal Reserve
-- Senate Finance Committee
-- Japan’s Ministry of Economy, Trade and Industry
 date: '2025-08-04'
 draft: true
 guest: ''

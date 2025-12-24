@@ -2,13 +2,9 @@
 area: market-analysis
 category: culture
 companies_orgs:
-- Bloomberg News
 - Massachusetts Institute of Technology
-- United Nations Population Fund
 - Newsweek
 - European Union
-- Archives of Sexual Behavior
-- U.S. News & World Report
 date: '2025-08-09'
 draft: true
 guest: ''

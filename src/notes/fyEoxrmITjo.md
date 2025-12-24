@@ -4,7 +4,6 @@ category: stock-investment
 companies_orgs:
 - Bloomberg
 - Federal Reserve
-- Alliance Bernstein
 date: '2025-07-24'
 draft: true
 guest: ''
@@ -18,8 +17,6 @@ people:
 - Tracy Aloway
 - Donald Trump
 - Jerome Powell
-products_models:
-- Nifty50
 project:
 - us-analysis
 - geopolitics-watch

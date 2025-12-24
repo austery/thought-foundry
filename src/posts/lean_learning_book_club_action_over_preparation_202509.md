@@ -46,12 +46,6 @@ people:
 - Buffett
 - Duan Yongping
 - 查理·芒格
-products_models:
-- SwitchPod
-- Final Cut Pro
-- DaVinci Resolve
-- SM7B
-- Flo-mo
 project:
 - personal-growth-lab
 source: ''

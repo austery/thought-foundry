@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Google
-- Antigravity
 date: '2025-12-14'
 draft: true
 guest: ''
@@ -14,10 +13,8 @@ media_books:
 people:
 - ''
 products_models:
-- Cloud OP 4.5
 - Cloud Code
 - MCP
-- Superb
 project:
 - ai-impact-analysis
 - knowledge-pipeline

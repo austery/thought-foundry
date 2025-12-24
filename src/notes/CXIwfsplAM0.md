@@ -7,17 +7,12 @@ companies_orgs:
 - Reuters
 - Bloomberg
 - Wall Street Journal
-- Sky News
 - CCTV
 - Xinhua News Agency
-- Ministry of Foreign Affairs of the People's Republic of China
 - United Nations
 - G20
 - NATO
 - Communist Party of China
-- Guangming Daily
-- Yutong
-- APT31
 date: '2025-11-22'
 draft: true
 guest: ''
@@ -42,9 +37,6 @@ people:
 - Xi Jinping
 - 高市早苗
 products_models:
-- Javelin
-- Storm Shadow
-- Mirage 2000
 - 5G
 project:
 - us-analysis

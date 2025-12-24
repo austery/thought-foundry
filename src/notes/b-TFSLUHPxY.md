@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Roots of Progress Institute
 - Big Think
 - Silicon Valley
 date: '2025-11-19'
@@ -26,7 +25,6 @@ people:
 - Elon Musk
 products_models:
 - ChatGPT
-- mRNA-based vaccines
 - CRISPR
 project:
 - systems-thinking

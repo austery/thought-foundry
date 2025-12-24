@@ -24,7 +24,6 @@ people:
 - Donald Trump
 products_models:
 - Deepseek
-- LLM models
 project:
 - us-analysis
 - china-analysis

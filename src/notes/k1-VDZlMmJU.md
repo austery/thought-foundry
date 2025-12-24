@@ -2,10 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Center for Civil Liberties
 - United Nations
 - International Criminal Court
-- International Court of Justice
 - European Union
 date: '2025-12-09'
 draft: true

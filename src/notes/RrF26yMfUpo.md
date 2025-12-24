@@ -5,23 +5,15 @@ companies_orgs:
 - Goldman Sachs
 - Morgan Stanley
 - Lehman Brothers
-- Oppenheimer Securities
-- The Money Store
 - Fannie Mae
 - Freddie Mac
 - Moody's
-- Standard & Poor's
-- Lomas Financial
-- Household Finance Corporation
-- HSBC Group
-- Acorn
 - Deutsche Bank
 - Bank of America
 - Merrill Lynch
 - Citigroup
 - Bear Stearns
 - AIG
-- AIG Financial Products
 date: '2025-09-03'
 draft: true
 guest: ''

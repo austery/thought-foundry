@@ -2,22 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 苏宁
 - Alibaba
 - 恒大
 - 淘宝
 - 京东
-- 盛京银行
-- 交通银行
-- 光大银行
-- 浦发银行
-- 中信信托
-- 华夏银行
-- 南京中院
 - AMC资产管理公司
-- 海航
-- 方正
-- 泛海
 date: '2025-10-29'
 draft: true
 guest: ''
@@ -25,8 +14,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 小翠时政财經
-products_models:
-- PPTV
 project:
 - china-analysis
 - geopolitics-watch

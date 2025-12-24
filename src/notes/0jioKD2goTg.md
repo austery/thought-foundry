@@ -6,7 +6,6 @@ companies_orgs:
 - Norges Bank
 - E24
 - Stortinget
-- FN
 date: '2025-08-14'
 draft: true
 guest: ''
@@ -16,8 +15,6 @@ people:
 - Jens Stoltenberg
 - Nicolai Tangen
 - Kristin Halvorsen
-products_models:
-- Statens pensjonsfond utland
 project:
 - investment-strategy
 - geopolitics-watch

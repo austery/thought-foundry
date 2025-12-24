@@ -2,7 +2,6 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- NewLimit
 - Eli Lilly
 - Pfizer
 - OpenAI
@@ -19,7 +18,6 @@ media_books:
 products_models:
 - Ozempic
 - Tirzepatide
-- LillyDirect
 - GPT-4
 - Claude Code
 project:

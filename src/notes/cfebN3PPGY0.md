@@ -2,15 +2,9 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 苹果日报
-- 佐丹奴
 - 凤凰卫视
-- 立场新闻
-- 近传媒集团
 - 美国国会
 - 全国人大常委会
-- 香港特区政府
-- 中央政府
 date: '2025-12-16'
 draft: true
 guest: ''

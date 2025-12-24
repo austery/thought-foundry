@@ -4,9 +4,6 @@ category: geopolitics
 companies_orgs:
 - CBC
 - Radio Canada
-- 加拿大皇家骑警
-- 加拿大边境管理局
-- 新民主党
 date: '2025-04-16'
 draft: true
 guest: ''

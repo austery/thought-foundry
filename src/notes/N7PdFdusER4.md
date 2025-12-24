@@ -2,10 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 罗马教廷
-- 宗教裁判所
 - 三K党
-- 好莱坞
 date: '2025-11-01'
 draft: true
 guest: ''
@@ -17,25 +14,6 @@ people:
 - 张内咸
 - 冯小刚
 - 高晓松
-products_models:
-- Dead Silence
-- Insidious
-- The Conjuring
-- Texas Chain Saw Massacre
-- Halloween
-- Saw
-- Final Destination
-- Fall
-- The Walk
-- Get Out
-- Rosemary's Baby
-- The Exorcist
-- The Grudge
-- Ring
-- 《甲方乙方》
-- 《盲山》
-- 《大红灯笼高高挂》
-- 《1000种死法》
 project:
 - cultural-critique
 - historical-insights

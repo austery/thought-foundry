@@ -7,12 +7,9 @@ companies_orgs:
 - PayPal
 - Federal Reserve
 - Palantir
-- Scion Asset Management
 - Disney
 - Netflix
 - Cisco
-- Serve Robotics
-- DLO
 - Chipotle
 - Lululemon
 - Meta
@@ -43,13 +40,10 @@ companies_orgs:
 - CNBC
 - XAI
 - Robinhood
-- Gopuff
-- Costway Capital Management
 - Moody's
 - Visa
 - Ferrari
 - Sweetgreen
-- House Republicans
 - Democrats
 date: '2025-11-14'
 draft: true
@@ -85,8 +79,6 @@ people:
 - Sam Altman
 products_models:
 - Disney Plus
-- Hulu
-- JPMcoin
 - iPhone
 - Blackwell
 - Reuben
@@ -94,8 +86,6 @@ products_models:
 - TPU
 - GPT-5.1
 - Cursor
-- YouTube TV
-- Apple CarPlay
 project:
 - us-analysis
 - investment-strategy

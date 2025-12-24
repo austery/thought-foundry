@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - OPEC
-- CrossBoundary Energy
-- CrossBoundary Access
 date: '2025-10-28'
 draft: true
 guest: ''

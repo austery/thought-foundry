@@ -3,10 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - TED
-- Harris Poll
-- LetGrow
-- Boston College
-- Long Island University
 - Sears
 - Nike
 date: '2025-11-30'
@@ -23,9 +19,6 @@ media_books:
 - The Anxious Generation
 people:
 - Jonathan Haidt
-products_models:
-- Long Island Railroad
-- Apollo 13
 project:
 - personal-growth-lab
 - cultural-critique

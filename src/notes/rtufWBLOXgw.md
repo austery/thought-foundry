@@ -2,9 +2,6 @@
 area: personal-systems
 category: productivity
 companies_orgs:
-- St. Olaf's University
-- Kenyon
-- Author's Equity
 - Amazon
 - DoorDash
 - Instacart
@@ -23,18 +20,6 @@ people:
 - Daniel Kahneman
 - Roger Federer
 - Kamala Harris
-products_models:
-- Atomic Habits
-- Atomic Habits Daily Calendar
-- Atomic Habits Workbook
-- 3-2-1 Newsletter
-- Range
-- Sports Genius
-- The Blind Watchmaker
-- Inner Game of Tennis
-- Dare to Dream
-- Enterprise Password Manager
-- 1% Diaries
 project:
 - personal-growth-lab
 - systems-thinking

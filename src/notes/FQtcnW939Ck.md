@@ -2,13 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 《环球时报》
 - 中科院
-- 铁道部
 - 发改委
 - 国务院
 - 公安机关
-- 最高人民检察院
 - 央视
 date: '2025-06-21'
 draft: true

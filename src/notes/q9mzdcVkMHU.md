@@ -16,7 +16,6 @@ people:
 - Ace
 products_models:
 - GPU
-- AI Cloud
 project:
 - investment-strategy
 - market-cycles

@@ -7,8 +7,6 @@ companies_orgs:
 - OpenAI
 - Google
 - XAI
-- Thinking Machine
-- Safe Super Intelligence
 - Character AI
 - Anthropic
 - Cognition
@@ -42,10 +40,6 @@ people:
 products_models:
 - Llama
 - Llama 4
-- Llama 4 Behemoth
-- Qstar
-- Strawberry
-- O3 models
 - DeepSeek R1
 - Gemini
 - DeepMind

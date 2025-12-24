@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Federal Reserve
 - US Government
-- Central Banks
 date: '2025-10-20'
 draft: true
 guest: ''

@@ -5,12 +5,10 @@ companies_orgs:
 - New York Times
 - White House
 - Washington Post
-- Trump Organization
 - Pentagon
 - Hamas
 - United Nations
 - UN Security Council
-- Almage Europe
 date: '2025-11-18'
 draft: true
 guest: ''
@@ -27,8 +25,6 @@ people:
 - Martin Luther King Jr.
 - John F. Kennedy
 - Tracy Mumford
-products_models:
-- F-35 fighter jets
 project:
 - us-analysis
 - geopolitics-watch

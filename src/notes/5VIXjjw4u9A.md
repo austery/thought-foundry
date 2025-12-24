@@ -15,7 +15,6 @@ people:
 products_models:
 - Model 3
 - Model Y
-- Boeing 787
 project:
 - china-analysis
 - ai-impact-analysis

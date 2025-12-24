@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - BP
-- Vale
-- Mitsui
 - NASA
 - Starbucks
 - United Nations
@@ -12,7 +10,6 @@ companies_orgs:
 - CCP
 - Soviet Union
 - International Energy Agency
-- Mondragon Cooperative
 date: '2023-07-24'
 draft: true
 guest: ''
@@ -28,7 +25,6 @@ people:
 - Thomas Piketty
 products_models:
 - iPhone
-- 电动汽车
 project:
 - geopolitics-watch
 - systems-thinking

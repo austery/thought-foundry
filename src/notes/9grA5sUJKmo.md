@@ -1,13 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 加拿大金融租賃協會
-- 加拿大廣播公司
-- 加拿大邊境服務局
-- 加拿大皇家騎警
-- 安省警察局
-- 魁北克省警察局
 date: '2024-03-23'
 draft: true
 guest: ''
@@ -20,13 +13,6 @@ media_books:
 - CBC Marketplace
 people:
 - Olivia Chow
-products_models:
-- Lexus RX-350
-- Honda CR-V
-- Range Rover
-- GMC Yukon XL
-- AirTag
-- Jetta
 project:
 - systems-thinking
 - geopolitics-watch

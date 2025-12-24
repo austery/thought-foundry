@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 天主教廷
-- 台湾中影
 date: '2025-05-03'
 draft: true
 guest: ''
@@ -33,11 +30,6 @@ people:
 - 李安
 - 哥白尼
 - Donald Trump
-products_models:
-- 旺旺
-- 奇多
-- 小浣熊干脆面
-- 可口可乐
 project:
 - china-analysis
 - cultural-critique

@@ -2,11 +2,6 @@
 area: society-systems
 category: science
 companies_orgs:
-- American Mathematical Society
-- St. Petersburg Academy
-- BYU
-- Nanairosha
-- GIMPS
 - Brilliant
 date: '2024-03-08'
 draft: true
@@ -19,8 +14,6 @@ media_books:
 people:
 - Euclid
 - Leonhard Euler
-products_models:
-- SWAC
 project:
 - historical-insights
 - systems-thinking

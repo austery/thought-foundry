@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 殡役公司
 date: '2024-06-16'
 draft: true
 guest: ''

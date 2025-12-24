@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- parametric-insurance
-- digital-twins
 project:
 - investment-strategy
 - market-cycles

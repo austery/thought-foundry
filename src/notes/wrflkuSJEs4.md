@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 中华人民共和国卫生部
-- 宁陵县人民法院
 date: '2024-01-03'
 draft: true
 guest: ''

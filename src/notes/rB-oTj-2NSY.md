@@ -2,17 +2,14 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Navies
 - Coreweave
 - AMD
-- SE Limited
 - Circle
 - Nvidia
 - Microsoft
 - Amazon
 - Google
 - OpenAI
-- Sami Analysis
 date: '2025-11-15'
 draft: true
 guest: ''

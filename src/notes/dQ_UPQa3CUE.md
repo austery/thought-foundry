@@ -22,11 +22,6 @@ people:
 - Karl Marx
 - Milton Friedman
 - adam-s-axiom
-products_models:
-- Bolsa Familia
-- Laffer Curve
-- Nash Equilibrium
-- Prisoner's Dilemma
 project:
 - investment-strategy
 - market-cycles

@@ -4,19 +4,9 @@ category: business
 companies_orgs:
 - 网信办
 - 中宣部
-- 工商部门
-- 税务局
-- 广电
 - 华纳兄弟
-- 米高梅
-- 派拉蒙
-- 哥伦比亚
-- 环球影业
 - 迪士尼
-- 20世纪福克斯
-- 联美电影公司
 - 网易
-- 中影集团
 - Netflix
 - HBO
 date: '2025-01-18'
@@ -46,12 +36,6 @@ people:
 - 李安
 - 罗永浩
 - 张艺谋
-products_models:
-- 微博
-- 微信公众号
-- 虚幻引擎
-- IMAX
-- 杜比全景声
 project:
 - china-analysis
 - historical-insights

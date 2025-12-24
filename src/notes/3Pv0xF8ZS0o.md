@@ -3,8 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Cisco
-- Serve Robotics
-- DLocal
 - S&P 500
 - JP Morgan
 - Eli Lilly
@@ -22,13 +20,9 @@ companies_orgs:
 - AMD
 - Palantir
 - Uber
-- Firefly Aerospace
-- Flutter
 - DraftKings
 - MicroStrategy
 - BlackRock
-- Himalaya Capital Management
-- Altimeter Fund
 date: '2025-11-13'
 draft: true
 guest: ''
@@ -49,8 +43,6 @@ people:
 - Brad Gersonner
 - Tom Lee
 - Benjamin Graham
-products_models:
-- Google Notebook LLM
 project:
 - us-analysis
 - investment-strategy

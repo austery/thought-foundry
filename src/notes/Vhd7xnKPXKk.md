@@ -6,15 +6,8 @@ companies_orgs:
 - Bilibili
 - TikTok
 - 小红书
-- 微信公众号
 - Substack
-- 知识星球
 - X
-- OPUS
-- 曹操说
-- 马斯库
-- 中规中矩
-- 旧教官场
 - LT世界
 date: '2025-07-27'
 draft: true

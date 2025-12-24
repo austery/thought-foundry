@@ -16,8 +16,6 @@ people:
 - Trevor Noah
 - Alexander the Great
 - Barack Obama
-products_models:
-- Frisbee
 project:
 - personal-growth-lab
 series: ''

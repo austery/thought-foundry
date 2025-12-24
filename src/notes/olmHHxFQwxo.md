@@ -2,17 +2,12 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Dyno Therapeutics
-- Colossal
 - OpenAI
 - NSF
 - NIH
 - FDA
 - MIT
 - Harvard
-- BU
-- Affymetrix
-- Dor Yeshorim
 date: '2025-06-26'
 draft: true
 guest: ''

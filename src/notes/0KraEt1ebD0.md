@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Linking Publishing
 - Catholic Church
 date: '2025-11-05'
 draft: true

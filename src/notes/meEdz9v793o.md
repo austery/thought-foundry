@@ -3,14 +3,9 @@ area: society-systems
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
-- UK Met Office
 - Google DeepMind
-- Moorfields Hospital
-- World Anti-Doping Agency
-- Winton Capital Management
 - NHS
 - Bureau of Labor Statistics
-- UK Statistics Authority
 date: '2025-09-03'
 draft: true
 guest: ''
@@ -23,8 +18,6 @@ people:
 - Robert F. Kennedy Jr.
 - Donald Trump
 - Bill Gates
-products_models:
-- AstraZeneca vaccine
 project:
 - systems-thinking
 - personal-growth-lab

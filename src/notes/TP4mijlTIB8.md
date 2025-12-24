@@ -15,14 +15,11 @@ companies_orgs:
 - Anthropic
 - Robinhood
 - SpaceX
-- Aurora Cannabis
-- Tillray
 - Costco
 - Lululemon
 - Abercrombie & Fitch
 - Urban Outfitters
 - GoFundMe
-- Five Below
 - JPMorgan
 - Blackstone
 - Bank of America
@@ -31,7 +28,6 @@ companies_orgs:
 - Interactive Brokers
 - YouTube
 - PayPal
-- Fermy
 - SoundHound
 - Palantir
 - Rocket Lab
@@ -39,11 +35,8 @@ companies_orgs:
 - DraftKings
 - FanDuel
 - XAI
-- X (Twitter)
 - Oscar Health
 - UnitedHealth Group
-- Cigna
-- Elevance Health
 - CrowdStrike
 - Palo Alto Networks
 - Microsoft
@@ -54,29 +47,14 @@ companies_orgs:
 - Tesla
 - Carvana
 - Ripple
-- BitGo
-- Fidelity Digital Assets
-- Paxos
 - Bernstein
 - Wells Fargo
 - GE Vernova
-- Constellation Energy
-- Eaton
 - NextEra Energy
-- Quant
-- Verdive
-- Brenda
-- Kinder Morgan
 - Roblox
 - Bloom Energy
-- Centrus Energy
 - Spotify
-- Trivari Research
-- AdvisorShares
 - AK Media
-- Commodity Futures Trading Commission (CFTC)
-- Office of the Comptroller of the Currency (OCC)
-- Writer Guild of America
 date: '2025-12-12'
 draft: true
 guest: ''
@@ -105,14 +83,8 @@ people:
 - Chris
 - Matt
 products_models:
-- H200 AI chips
-- H20 chip
-- Blackwell architecture
-- Reuben architecture
-- Ironwood GPUs
 - TPUs
 - Gemini Flash
-- ChatGPT5
 - Claude
 - Sonnet 4.5
 - Grock

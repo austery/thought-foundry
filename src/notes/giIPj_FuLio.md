@@ -3,12 +3,7 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - JPMorgan Chase
-- Prada
-- Coach
-- EssilorLuxottica
-- Value Retail
 - CNBC
-- PwC
 - 中国共产党
 - 中国人民解放军
 date: '2025-11-22'
@@ -26,8 +21,6 @@ people:
 - Donald Trump
 - Volodymyr Zelenskyy
 - Vladimir Putin
-products_models:
-- SuperThanks
 project:
 - china-analysis
 - geopolitics-watch

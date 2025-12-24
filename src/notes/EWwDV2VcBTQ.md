@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - FBI
-- 俄罗斯黑手党
 date: '2025-11-19'
 draft: true
 guest: ''
@@ -13,8 +12,6 @@ media_books:
 - 《判断人心：一位资深FBI特工的行为预测用户手册》
 people:
 - Ronald Reagan
-products_models:
-- 行为分析项目
 project:
 - personal-growth-lab
 - systems-thinking

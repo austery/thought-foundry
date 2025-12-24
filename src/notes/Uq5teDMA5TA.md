@@ -2,7 +2,6 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- Apple Podcasts
 - Etsy
 - New York Times Podcasts
 date: '2025-11-26'

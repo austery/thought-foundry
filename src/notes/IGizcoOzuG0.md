@@ -9,15 +9,9 @@ companies_orgs:
 - 美联储
 - OpenAI
 - Microsoft
-- 世嘉
 - 索尼
-- Oculus
-- PlayStation VR
-- Steam
 - 三星
 - LG
-- HTC
-- 美军
 date: 2025-10-31
 draft: true
 guest: ''
@@ -30,15 +24,10 @@ people:
 products_models:
 - Libra币
 - Llama
-- Hololens
-- Xbox 360
-- Kinect
 - 安卓
 - iOS
 - Vision Pro
 - Unity引擎
-- 虚幻引擎
-- GQL
 project:
 - ai-impact-analysis
 - systems-thinking

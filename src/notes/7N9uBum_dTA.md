@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - MI6
 - CIA
-- 英国议会
 date: '2025-11-19'
 draft: true
 guest: ''

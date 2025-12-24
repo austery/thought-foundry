@@ -3,13 +3,10 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- University of Southern California Marshall School of Business
 - Wharton School
 - Oxford
 - Stanford
 - Yale
-- Deep Seek
-- VW
 - BYD
 - Xiaomi
 date: '2025-05-07'

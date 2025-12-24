@@ -4,9 +4,7 @@ category: geopolitics
 companies_orgs:
 - New York Times
 - Washington Post
-- The Intercept
 - Justice Department
-- Office of Legal Counsel
 - CIA
 - International Criminal Court
 date: '2025-12-03'

@@ -19,13 +19,11 @@ companies_orgs:
 - e.l.f. Beauty
 - Bitmine
 - Super Micro Computer
-- Enphase Energy
 - Palo Alto Networks
 - Nebius
 - IREN
 - Cipher Mining
 - CleanSpark
-- HIVE Digital Technologies
 - Bitfarms
 - Marathon Digital
 - Riot Platforms
@@ -38,7 +36,6 @@ companies_orgs:
 - CoreWeave
 - MicroStrategy
 - Amkor Technology
-- Asset Entities
 - Alibaba
 - JD.com
 - Hims & Hers Health
@@ -48,12 +45,8 @@ companies_orgs:
 - MP Materials
 - Citigroup
 - JPMorgan Chase
-- Truist Financial
 - SoftBank
 - UiPath
-- QXO
-- GXO Logistics
-- BNY Mellon
 - Netscape
 - OpenAI
 - Goldman Sachs
@@ -63,8 +56,6 @@ companies_orgs:
 - Royal Caribbean
 - UPS
 - Visa
-- The Cheesecake Factory
-- Mondelēz International
 - Broadcom
 - Salesforce
 - BigBear.ai
@@ -73,7 +64,6 @@ companies_orgs:
 - Tether
 - Galaxy Digital
 - Grab
-- Zelle
 - Andreessen Horowitz
 - The New York Times
 - Forbes
@@ -107,9 +97,7 @@ products_models:
 - iPhone 17
 - ChatGPT
 - Neutron
-- Oreo
 - Russell 2000
-- KraneShares CSI China Internet ETF
 project:
 - us-analysis
 - china-analysis

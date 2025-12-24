@@ -4,7 +4,6 @@ category: technology
 companies_orgs:
 - MIT
 - Harvard
-- City University of Hong Kong
 - Rolls-Royce
 - Amazon Web Services
 date: '2025-01-21'
@@ -17,10 +16,6 @@ media_books:
 - Black Mirror
 people:
 - Henry
-products_models:
-- RoboBees
-- HAMR
-- Onshape
 project:
 - ai-impact-analysis
 - systems-thinking

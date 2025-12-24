@@ -3,21 +3,17 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Goldman Sachs
-- Crowdstrike
 - Reddit
 - Gartner
-- ISC2
 - Microsoft
 - Amazon
 - Meta
-- Dark Trace
 date: '2025-07-29'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- clot code
 - WordPress
 - ChatGPT
 - Perplexity

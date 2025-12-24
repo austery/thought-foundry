@@ -1,8 +1,6 @@
 ---
 area: society-thinking
 category: history
-companies_orgs:
-- University of Oklahoma
 date: '2025-04-24'
 draft: true
 guest: ''

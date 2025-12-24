@@ -22,10 +22,6 @@ products_models:
 - Midjourney
 - ChatGPT
 - Gemini Flash
-- WorkOS APIs
-- Google Fonts
-- Tailwind
-- Runaway Pancakes
 project:
 - ai-impact-analysis
 - vibe-coding

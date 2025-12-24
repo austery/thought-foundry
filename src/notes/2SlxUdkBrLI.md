@@ -2,7 +2,6 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 杜邦公司
 - 哈马斯
 date: '2025-11-07'
 draft: true
@@ -23,7 +22,6 @@ people:
 - Volodymyr Zelenskyy
 products_models:
 - 东风导弹
-- 秦王葡萄
 project:
 - china-analysis
 - geopolitics-watch

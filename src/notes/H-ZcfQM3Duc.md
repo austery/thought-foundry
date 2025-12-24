@@ -9,7 +9,6 @@ companies_orgs:
 - Microsoft
 - Canva
 - Figma
-- Docusign
 date: '2025-11-13'
 draft: true
 guest: ''
@@ -19,13 +18,8 @@ media_books:
 - S&P 500 ETF
 products_models:
 - Photoshop
-- Adobe Premiere Pro
-- After Effects
-- Illustrator
 - Acrobat
 - Firefly
-- AEP
-- AEM
 project:
 - investment-strategy
 - us-analysis

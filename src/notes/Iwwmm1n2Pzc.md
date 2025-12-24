@@ -3,7 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - TVO Today
-- Ottawa Public Health
 date: '2025-10-29'
 draft: true
 guest: ''

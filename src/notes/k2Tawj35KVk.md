@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Équité Association
 date: '2024-04-06'
 draft: true
 guest: ''
@@ -11,16 +9,8 @@ layout: post.njk
 people:
 - Justin Trudeau
 products_models:
-- Honda CRV
-- Lexus RX
-- Land Rover Range Rover
-- Dodge RAM 1500
 - Ford F-150
-- Kia
 - Tesla
-- Cadillac
-- Volvo
-- Apple Airtag
 project:
 - geopolitics-watch
 - systems-thinking

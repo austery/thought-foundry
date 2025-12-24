@@ -2,19 +2,13 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 金砖国家
 - G20
 - APEC
 - SWIFT
-- 大众汽车
 - 欧盟
-- 中国工商银行
 - 中石化
 - 中石油
-- 中储粮
 - 国务院
-- 中央网信办
-- 统战部
 - 证监会
 - 清华大学
 date: '2024-12-24'

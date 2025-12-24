@@ -7,8 +7,6 @@ companies_orgs:
 - Rocket Lab
 - CoreWeave
 - Circle
-- TransMedics
-- Voyager
 - Meta
 - Novo Nordisk
 date: '2025-11-15'

@@ -3,11 +3,9 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
-- Rockefeller International
 - International Monetary Fund
 - Bank for International Settlements
 - Silicon Valley Bank
-- Continental Illinois Bank
 date: '2024-12-02'
 draft: true
 guest: ''

@@ -3,8 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - TED
-- National Governors Association
-- Teach for America
 date: '2025-11-12'
 draft: true
 guest: ''
@@ -18,8 +16,6 @@ people:
 - Abraham Lincoln
 - Donald Trump
 products_models:
-- SNAP benefits
-- Worldwide Web
 - AI
 project:
 - us-analysis

@@ -2,8 +2,6 @@
 area: market-analysis
 author: All-In Podcast
 category: finance
-companies_orgs:
-- youtube
 date: '2025-10-08'
 draft: true
 guest: ''

@@ -8,15 +8,11 @@ companies_orgs:
 - Circle
 - OpenAI
 - ARK Invest
-- SVB
 - Investing.com
 - AMD
 - Amazon
 - Microsoft
 - Intel
-- ARM Holdings
-- GEV
-- SE
 date: '2025-11-27'
 draft: true
 guest: ''
@@ -29,10 +25,7 @@ people:
 products_models:
 - USDC
 - USDT
-- SOXL
 - SOXS
-- KBWB
-- AEXA
 project:
 - investment-strategy
 - market-cycles

@@ -3,9 +3,6 @@ area: society-systems
 category: culture
 companies:
 - psychological-splitting
-companies_orgs:
-- 调查兵团
-- 城墙教
 date: '2025-02-07'
 draft: true
 guest: ''

@@ -3,11 +3,9 @@ area: society-systems
 category: general
 companies_orgs:
 - 央视
-- 全国妇联
 - 全国人大
 - 新京报
 - 南方周末
-- 北京市人民医院
 date: '2025-06-09'
 draft: true
 guest: ''

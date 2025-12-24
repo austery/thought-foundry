@@ -5,7 +5,6 @@ companies_orgs:
 - Nvidia
 - AMD
 - 美联储
-- 劳工统计局
 date: '2025-11-20'
 draft: true
 guest: ''
@@ -20,10 +19,7 @@ products_models:
 - GB200
 - A100
 - H20
-- SPY
 - QQQ
-- IWM
-- SOXX
 - SMH
 project:
 - investment-strategy

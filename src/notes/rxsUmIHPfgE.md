@@ -3,7 +3,6 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - 初日診所
-- 國際運動營養協會
 date: '2025-05-13'
 draft: true
 guest: ''

@@ -4,7 +4,6 @@ category: psychology
 companies_orgs:
 - 天下文化
 - Meta
-- 哈佛
 - Bridgewater
 date: '2025-10-24'
 draft: true

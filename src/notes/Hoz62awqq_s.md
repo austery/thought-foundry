@@ -34,9 +34,7 @@ companies_orgs:
 - GM
 - iRobot
 - Lululemon
-- Victoria's Secret
 - Walmart
-- Scion Capital
 date: '2025-12-05'
 draft: true
 guest: ''
@@ -67,9 +65,7 @@ people:
 products_models:
 - HBO Max
 - CUDA
-- Nemo
 - Gemini
-- Roomba
 - Cybertruck
 - Blackwell
 - H200

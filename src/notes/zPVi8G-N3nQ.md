@@ -5,7 +5,6 @@ companies_orgs:
 - 世界贸易组织
 - 国际货币基金组织
 - 中国人民银行
-- 中国财政部
 date: 2025-07-10
 draft: true
 guest: ''
@@ -14,7 +13,8 @@ layout: post.njk
 media_books:
 - 《经济学人》
 people: '[]'
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - geopolitics-watch

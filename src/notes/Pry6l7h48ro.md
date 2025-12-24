@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Today I Learned
-products_models:
-- GTA 6
 project:
 - personal-growth-lab
 - knowledge-pipeline

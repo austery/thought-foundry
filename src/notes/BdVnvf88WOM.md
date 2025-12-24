@@ -20,8 +20,6 @@ products_models:
 - QQQ
 - TLT
 - VIX
-- DOGE
-- Tips
 project:
 - investment-strategy
 - market-cycles

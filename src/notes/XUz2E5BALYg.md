@@ -3,20 +3,13 @@ area: society-systems
 category: finance
 companies_orgs:
 - Bloomberg
-- Century Foundation
-- Consumer Financial Protection Bureau
 - Affirm
 - Klarna
-- LendingTree
 - Axios
 - FICO
-- Synchrony
 - Walmart
 - Amazon
-- Afterpay
 - New York Fed
-- Sallie Mae
-- Navient
 date: '2025-09-04'
 draft: true
 guest: ''
@@ -28,8 +21,6 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 - Donald Trump
-products_models:
-- Care Credit
 project:
 - us-analysis
 - systems-thinking

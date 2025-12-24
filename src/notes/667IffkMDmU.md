@@ -5,7 +5,6 @@ companies_orgs:
 - OpenAI
 - DeepMind
 - Google
-- GRU
 date: '2024-06-08'
 draft: true
 guest: ''

@@ -5,7 +5,6 @@ companies:
 - psychological-trauma
 companies_orgs:
 - 新华社
-- 唯品会
 - 抖音
 - 淘宝
 - 拼多多

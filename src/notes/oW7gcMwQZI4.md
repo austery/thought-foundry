@@ -5,10 +5,6 @@ companies_orgs:
 - ASML
 - Block
 - Palo Alto Networks
-- Taiwan Semiconductor Manufacturing Company
-- Intel Corporation
-- Samsung Electronics
-- NVIDIA Corporation
 - AMD
 - PayPal
 - Stripe
@@ -23,7 +19,6 @@ people:
 - 唐石峻
 products_models:
 - EUV光刻机
-- 下一代防火墙
 project:
 - us-analysis
 - investment-strategy

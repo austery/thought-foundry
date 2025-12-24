@@ -14,8 +14,6 @@ media_books:
 - Easy Strength
 people:
 - 宋晏仁
-products_models:
-- YouBike
 project:
 - personal-growth-lab
 - historical-insights

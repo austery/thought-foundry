@@ -23,9 +23,6 @@ people:
 - Vladimir Putin
 - Ursula von der Leyen
 - Emmanuel Macron
-products_models:
-- ATACMS
-- Patriot missile system
 project:
 - us-analysis
 - geopolitics-watch

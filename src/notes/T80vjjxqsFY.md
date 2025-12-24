@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 中国政府
 date: '2025-12-07'
 draft: true
 guest: ''

@@ -5,9 +5,6 @@ companies_orgs:
 - 统计局
 - 央行
 - 比亚迪
-- 财新
-- 中国产业研究院
-- 北京国际人力资本集团
 date: '2025-10-26'
 draft: true
 guest: ''

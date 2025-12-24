@@ -12,7 +12,6 @@ companies_orgs:
 - Nvidia
 - MasterCard
 - OpenAI
-- Nikon
 - Canon
 date: '2025-10-27'
 draft: true
@@ -24,8 +23,6 @@ products_models:
 - EUV
 - CPU
 - GPU
-- DRAM
-- NAND
 project:
 - investment-strategy
 - us-analysis

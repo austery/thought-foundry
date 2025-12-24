@@ -5,7 +5,6 @@ companies_orgs:
 - New York Times Podcasts
 - Turning Point USA
 - Fox
-- Daily Wire
 - Federal Reserve
 date: '2025-12-11'
 draft: true

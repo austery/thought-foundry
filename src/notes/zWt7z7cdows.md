@@ -2,16 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- European Economic and Trade Office in Taiwan
-- Guangfu High School
-- Green Recall
 - KMT
 - Nazi Party
-- Fascist Fighting Leagues
-- Fascist Party
-- Black Hundreds
-- Sturmabteilung
-- Iron Guard
 - Harvard University
 - Yale University
 date: '2025-11-05'

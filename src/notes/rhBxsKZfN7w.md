@@ -6,7 +6,6 @@ companies_orgs:
 - Micron
 - Nvidia
 - Tesla
-- Ditech Networks
 date: '2024-04-17'
 draft: true
 guest: ''

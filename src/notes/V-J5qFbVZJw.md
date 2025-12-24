@@ -4,9 +4,7 @@ category: general
 companies_orgs:
 - 清华大学
 - 协和医院
-- 北京市劳动卫生职业病防治所
 - 公安局
-- 帮助朱立基金会
 date: '2024-03-10'
 draft: true
 guest: ''

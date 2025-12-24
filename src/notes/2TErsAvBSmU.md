@@ -9,7 +9,6 @@ companies_orgs:
 - Microsoft
 - Adobe
 - Adidas
-- Capgemini
 date: '2025-04-30'
 draft: true
 guest: ''
@@ -23,9 +22,6 @@ people:
 - Shantanu Narayen
 products_models:
 - ERP
-- S/4HANA
-- Jewel
-- BP
 project:
 - ai-impact-analysis
 - systems-thinking

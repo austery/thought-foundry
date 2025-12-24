@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: science
-companies_orgs:
-- PTR
 date: '2025-03-05'
 draft: true
 guest: ''

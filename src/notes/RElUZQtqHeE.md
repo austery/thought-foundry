@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 财新峰会
 - 全国人大
 date: '2025-11-16'
 draft: true

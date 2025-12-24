@@ -3,7 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - New York Times
-- National Book Awards
 - Catholic Church
 - Red Cross
 - CVS

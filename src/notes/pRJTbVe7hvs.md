@@ -16,10 +16,6 @@ companies_orgs:
 - 甲骨文
 - AMD
 - 台积电
-- TRV
-- ISRG
-- FTNT
-- INTU
 - UnitedHealth Group
 - Mattel
 date: '2025-11-14'

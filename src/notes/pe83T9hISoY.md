@@ -3,14 +3,11 @@ area: tech-insights
 category: science
 companies_orgs:
 - Caltech
-- change.org
 date: '2019-09-13'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- LSST telescope
 project:
 - systems-thinking
 - historical-insights

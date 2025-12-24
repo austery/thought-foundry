@@ -8,7 +8,6 @@ companies_orgs:
 - Federal Reserve
 - Netflix
 - Investing.com
-- Super Micro Computer, Inc.
 date: '2025-11-14'
 draft: true
 guest: ''
@@ -24,7 +23,6 @@ people:
 - Bob Iger
 products_models:
 - Disney+
-- Investing.com AI Stock Picking
 project:
 - investment-strategy
 - us-analysis

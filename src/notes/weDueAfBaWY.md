@@ -3,14 +3,10 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - New York Times
-- The New Yorker
 - Columbia University
-- Sloan Kettering Cancer Center
 - FBI
 - FDA
 - NIH
-- Presbyterian Hospital
-- Vogue
 date: '2025-11-29'
 draft: true
 guest: ''
@@ -28,7 +24,6 @@ people:
 - Taylor Swift
 products_models:
 - MRNA疫苗
-- 米索前列醇
 project:
 - historical-insights
 - us-analysis

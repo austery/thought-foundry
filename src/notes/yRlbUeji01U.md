@@ -4,15 +4,6 @@ category: geopolitics
 companies:
 - rearmament
 companies_orgs:
-- Reichsbank
-- Metallurgical Gesellschaft
-- German Labor Front
-- Gestapo
-- The Allies
-- Dresdner Bank
-- German Democratic Party
-- German People's Party
-- German Communist Party
 - Nazi Party
 date: '2025-09-25'
 draft: true
@@ -24,8 +15,6 @@ media_books:
 - 《金钱的魔力》
 people:
 - Adolf Hitler
-products_models:
-- Myefo Bill
 project:
 - historical-insights
 - geopolitics-watch

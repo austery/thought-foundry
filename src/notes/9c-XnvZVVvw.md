@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Mobility for Africa
-- Unicef
-- Fur Energy
 date: '2024-08-14'
 draft: true
 guest: ''
@@ -12,10 +8,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Last Economy
-products_models:
-- Hamba
-- Lithium battery system
-- Modular charging station
 project:
 - us-analysis
 - ai-impact-analysis

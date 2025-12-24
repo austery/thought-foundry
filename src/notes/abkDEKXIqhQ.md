@@ -27,7 +27,6 @@ media_books:
 people:
 - Reed Hastings
 products_models:
-- HBO Go
 - Disney Plus
 project:
 - investment-strategy

@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Navy
 - Brilliant
 date: '2023-11-04'
 draft: true
@@ -14,9 +13,6 @@ people:
 - Emily
 - Ben
 products_models:
-- PVS-31As
-- GPNVG-18s
-- Chandra X-ray Observatory
 - ChatGPT
 project:
 - historical-insights

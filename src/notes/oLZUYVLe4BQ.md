@@ -3,7 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - HIMS
-- 诺和诺德
 - 礼来
 date: '2025-10-30'
 draft: true
@@ -14,8 +13,6 @@ media_books:
 - Money or Life 美股频道
 products_models:
 - GLP-1减肥药
-- 促睾酮素
-- at home lab kits
 - 微剂量元素GLP-1减肥药物
 project:
 - investment-strategy

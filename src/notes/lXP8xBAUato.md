@@ -4,8 +4,6 @@ category: culture
 companies_orgs:
 - Amazon
 - Uber
-- Barclays Bank
-- SsangYong Motors
 date: '2025-07-19'
 draft: true
 guest: ''
@@ -17,8 +15,6 @@ media_books:
 - 'The Hunger Games: Sparks'
 - Evangelion
 - Death Note
-products_models:
-- Duolingo
 project:
 - systems-thinking
 - cultural-critique

@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - EPA
 - BP
-- Texas Brine Company
 - IRS
 - Pew Research Center
 date: '2024-11-22'

@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 联合国儿童基金会
 - 联合国教科文组织
 date: '2024-07-11'
 draft: true

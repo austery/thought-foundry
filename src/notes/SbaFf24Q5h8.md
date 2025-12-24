@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 教育部
-- 民政部
 - 中国社科院
 date: '2025-11-08'
 draft: true

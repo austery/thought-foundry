@@ -6,14 +6,9 @@ companies_orgs:
 - Twitter
 - 新华社
 - 中央电视台
-- 乐视网
-- 中南海
-- 北京市政府
-- 中央政府
 - 自民党
 - 白宫
 - 中央戏剧学院
-- 秦城监狱
 date: '2025-10-25'
 draft: true
 guest: ''
@@ -31,9 +26,6 @@ people:
 - 薄熙来
 - 泽连斯基
 - Donald Trump
-products_models:
-- 六度分隔帽
-- 六度网
 project:
 - china-analysis
 - geopolitics-watch

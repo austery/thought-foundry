@@ -4,7 +4,6 @@ category: lifestyle
 companies_orgs:
 - 初日医学
 - Cofit
-- 鍼还中医诊所
 date: '2025-07-02'
 draft: true
 guest: ''

@@ -3,13 +3,9 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - The New York Times
-- McGraw-Hill
-- Barnes & Noble
 - Starbucks
 - Amazon
 - Chipotle
-- Rolex
-- Bremont
 - Instagram
 date: '2025-11-25'
 draft: true
@@ -28,9 +24,7 @@ people:
 - James Clear
 - Daniel Kahneman
 products_models:
-- Aura Ring
 - Whoop
-- BioStrap
 - Remarkable 2
 - Remarkable Paper Pro
 - Remarkable Paper Pro Move

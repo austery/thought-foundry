@@ -4,8 +4,6 @@ category: finance
 companies_orgs:
 - Norges Bank Investment Management
 - Goldman Sachs
-- AKO Capital
-- AKO Foundation
 - BP
 - NATO
 - European Union
@@ -23,8 +21,6 @@ people:
 - Bill Gates
 - Magnus Carlsen
 - Jens Stoltenberg
-products_models:
-- In Good Company
 project:
 - investment-strategy
 - geopolitics-watch

@@ -2,14 +2,11 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Archer
 - Hims
 - SoFi
 - MP Materials
-- BitMine
 - Meta
 - Oscar
-- Humana
 - Poly Market
 - Google
 - Open Door
@@ -31,13 +28,8 @@ companies_orgs:
 - Coinbase
 - Intel
 - Microsoft
-- Marathon
 - Duolingo
-- ABclonal
 - Dutch Bros
-- Take-Two
-- Enovix
-- Elf Beauty
 - UnitedHealth
 - Marvell
 - Axon
@@ -46,8 +38,6 @@ companies_orgs:
 - MercadoLibre
 - ServiceNow
 - Zeta Global
-- Indeed
-- Conde Nast
 - Morgan Stanley
 - BlackRock
 - Vanguard
@@ -56,14 +46,12 @@ companies_orgs:
 - OpenAI
 - ESPN
 - Chime
-- Johnson Controls
 - Netflix
 - Costco
 - Walmart
 - Beyond Meat
 - White House
 - Democrats
-- Republicans
 - Congress
 - Senate
 date: '2025-11-08'
@@ -95,17 +83,13 @@ products_models:
 - Bitcoin
 - Ethereum
 - Affordable Care Act
-- Chips Act
 - ChatGPT
 - Gemini
 - CUDA
 - Blackwell
 - Vera Rubin
 - Waymo
-- Reality Labs
 - Vision Pro
-- Fabric
-- PowerBI
 - SharePoint
 - Azure
 - AWS

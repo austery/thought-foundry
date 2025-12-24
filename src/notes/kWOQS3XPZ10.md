@@ -4,8 +4,6 @@ category: technology
 companies:
 - meta-neuro-symbolic-rl
 companies_orgs:
-- Command Code
-- Langbase
 - NASA
 - GitHub
 date: '2025-11-24'
@@ -24,13 +22,7 @@ products_models:
 - GitHub Copilot
 - Claude
 - VS Code
-- Vitest
-- PNPM
-- Commander
-- Meow
 - Next.js
-- TenStack
-- TUP
 project:
 - ai-impact-analysis
 - entrepreneurship

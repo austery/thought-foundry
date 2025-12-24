@@ -14,11 +14,7 @@ people:
 - 王立军
 - 刘晓波
 products_models:
-- 天网工程
-- 歼-10
-- 歼-20
 - DeepSeek
-- 墨子号
 project:
 - china-analysis
 - systems-thinking

@@ -2,9 +2,6 @@
 area: society-systems
 category: technology
 companies_orgs:
-- 波士顿动力
-- 魔珐科技
-- 卡内基·梅隆大学
 - 加州大学伯克利分校
 - Microsoft
 - Nvidia
@@ -22,22 +19,11 @@ people:
 - Sergey Levine
 - 黄仁勋
 products_models:
-- Sora2
 - ChatGPT
 - Optimus
-- Figure
-- 初音未来
-- AYAYI
-- 柳夜熙
-- 微软小冰
-- Heygen
-- Stable Diffusion
 - Unreal Engine
-- 星云
 - LLM
-- VLM
 - VLA
-- LAM
 project:
 - ai-impact-analysis
 - systems-thinking

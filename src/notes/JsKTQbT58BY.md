@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Rexmore
 date: '2025-11-24'
 draft: true
 guest: ''

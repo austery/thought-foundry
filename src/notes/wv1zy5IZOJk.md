@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国国家移民管理局外国人管理司
 - 瑞幸咖啡
 date: '2023-11-09'
 draft: true
@@ -14,19 +13,14 @@ media_books:
 products_models:
 - 苹果
 - 特斯拉
-- 微软
-- Oracle
 - Google地圖
 - Twitter
 - Facebook
 - YouTube
 - TikTok
-- 百度
-- 高德地圖
 - 微信
 - 抖音
 - 快手
-- 小紅書
 - VPN
 project:
 - china-analysis

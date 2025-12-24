@@ -3,9 +3,6 @@ area: society-systems
 category: lifestyle
 companies_orgs:
 - 长荣航空
-- 海航
-- 加航
-- Skytrax
 date: '2024-10-20'
 draft: true
 guest: ''
@@ -15,9 +12,6 @@ media_books:
 - 《阿Q正传》
 people:
 - 庄也
-products_models:
-- 空客
-- 波音
 project:
 - personal-growth-lab
 - cultural-critique

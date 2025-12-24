@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- U.S. Department of Commerce
 - Tesla
 - NVIDIA
 - Polymarket
@@ -21,7 +20,6 @@ people:
 - Jensen Huang
 products_models:
 - Optimus
-- Jetson Thor
 - Omniverse
 project:
 - us-analysis

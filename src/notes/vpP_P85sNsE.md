@@ -2,22 +2,14 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Spur
 - DeepMind
 - Figma
-- Yale NLP lab
-- Alo Yoga
-- Living Spaces
-- HelloFresh
 date: '2025-12-02'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Selenium
-- Cypress
-- Playwright
 - Gemini
 project:
 - ai-impact-analysis

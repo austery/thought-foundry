@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Charlie Hebdo
 date: '2023-08-24'
 draft: true
 guest: ''

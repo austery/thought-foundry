@@ -2,9 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Huffington Post
-- Breitbart News
-- Tulane University
 - Princeton University
 date: 2025-02-18
 draft: true
@@ -16,7 +13,8 @@ media_books:
 - 《知道分子》
 people:
 - Donald Trump
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - historical-insights

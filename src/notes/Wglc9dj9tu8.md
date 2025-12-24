@@ -2,9 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Harvest
-- Purpose
-- iShares
 - Global X
 - Fidelity
 - YieldMax

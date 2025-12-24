@@ -5,15 +5,10 @@ companies_orgs:
 - Federal Reserve
 - Nvidia
 - Nokia
-- Samsung Electronics
-- Hyundai Motor
 - Microsoft
 - Apple
 - Google
-- 美国参议院
 - 最高法院
-- Rosneft
-- Lukoil
 date: '2025-10-29'
 draft: true
 guest: ''
@@ -36,7 +31,6 @@ people:
 - Vladimir Putin
 products_models:
 - Blackwell
-- NV-Q-Link
 project:
 - us-analysis
 - geopolitics-watch

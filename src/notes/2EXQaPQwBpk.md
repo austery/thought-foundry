@@ -4,8 +4,6 @@ category: science
 companies_orgs:
 - SpaceX
 - NASA
-- 欧洲航天局
-- 富途证券
 - 纳斯达克
 date: '2024-11-03'
 draft: true
@@ -15,15 +13,7 @@ layout: post.njk
 people:
 - 伽利略
 products_models:
-- 猎鹰重型
-- 欧罗巴快船
-- 星舰
-- 猎鹰9号
 - Space Launch System
-- 旅行者号
-- 伽利略探测器
-- 朱诺探测器
-- JUICE
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=2EXQaPQwBpk

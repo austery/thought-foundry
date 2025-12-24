@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 纽约时报
-- 波士顿环球报
 date: 2025-02-08
 draft: true
 guest: ''
@@ -14,7 +13,8 @@ media_books:
 - Why can't men in China take a joke?
 - Can China Take a Joke
 - 《普心难断》
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - cultural-critique

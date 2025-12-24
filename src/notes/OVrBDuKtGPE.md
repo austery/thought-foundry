@@ -18,8 +18,6 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- SORA
-- SORA2
 - ChatGPT
 - Reels
 - Threads

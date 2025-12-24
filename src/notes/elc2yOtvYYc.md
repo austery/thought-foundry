@@ -2,14 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Organization for Economic Cooperation and Development
 - General Motors
 - CNN
-- Canadian Chamber of Commerce
 - University of Toronto
-- Ontario Lottery and Gaming
-- Hamilton Tiger Cats
-- Winnipeg Blue Bombers
 - Canada Post
 - TVO
 - TVO Today
@@ -31,8 +26,6 @@ people:
 - Bill Davis
 - John Fraser
 - John Michael McGrath
-products_models:
-- GPS
 project:
 - us-analysis
 - geopolitics-watch

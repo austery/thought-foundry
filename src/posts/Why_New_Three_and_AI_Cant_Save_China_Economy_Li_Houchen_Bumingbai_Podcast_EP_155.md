@@ -3,8 +3,6 @@ area: tech-engineering
 author: Lei
 category: ai-ml
 channel: 不明白播客
-companies_orgs:
-- 不明白播客
 date: '2025-07-10'
 guest: ''
 insight: null

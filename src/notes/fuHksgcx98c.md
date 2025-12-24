@@ -4,31 +4,20 @@ category: geopolitics
 companies_orgs:
 - 摩根大通
 - 美联储
-- 纽约联邦储备银行
 - MSCI
-- 美联社
 - 中央情报局
 - FBI
 - 美国司法部
 - 美国移民局
 - Axios
 - 路透社
-- 克里姆林宫
 - 彭博社
-- 贝壳研究院
 - 万科
-- 深圳地铁
-- 安踏体育用品有限公司
-- 彪马
-- 李宁公司
-- 中国央视
 - 人民日报
 - 新华社
 - 人民网
 - 联合国
 - 白宫
-- NHK
-- 香港明报
 date: '2025-11-27'
 draft: true
 guest: ''
@@ -57,7 +46,6 @@ people:
 products_models:
 - MSCI中国指数
 - MSCI亚太指数
-- 0.357口径史密斯威森左轮手枪
 project:
 - us-analysis
 - china-analysis

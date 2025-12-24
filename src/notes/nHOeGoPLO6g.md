@@ -5,14 +5,9 @@ companies_orgs:
 - Coreweave
 - Nebius
 - NVIDIA
-- Magnetar Financial LC
-- FMR LC
 - Fidelity
 - Jane Street
-- GPU Ventures
 - IBM
-- 橡树林国家实验室
-- 无锡国家超级计算中心
 date: '2025-11-18'
 draft: true
 guest: ''
@@ -27,8 +22,6 @@ products_models:
 - GB200
 - H100
 - H200
-- 赴越
-- 神威太湖之光
 project:
 - investment-strategy
 - market-cycles

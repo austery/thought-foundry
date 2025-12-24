@@ -6,7 +6,6 @@ companies_orgs:
 - Department of Justice
 - Senate
 - House of Representatives
-- Smithsonian Institution
 date: '2025-10-12'
 draft: true
 guest: ''

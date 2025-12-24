@@ -3,16 +3,13 @@ area: market-analysis
 category: finance
 companies_orgs:
 - PayPal
-- Booking Holdings
 - FICO
 - Applied Materials
 - Amplify
 - Visa
 - Mastercard
 - Ant Group
-- Trip.com
 - S&P Global
-- TransUnion
 - Equifax
 - American Express
 date: '2024-12-23'

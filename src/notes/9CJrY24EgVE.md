@@ -28,8 +28,6 @@ people:
 - 孙中山
 - 柴静
 - 易富贤
-products_models:
-- Google Meet
 project:
 - china-analysis
 - personal-growth-lab

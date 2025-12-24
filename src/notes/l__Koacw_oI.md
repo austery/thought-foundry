@@ -2,12 +2,10 @@
 area: society-systems
 category: general
 companies_orgs:
-- SEIU
 - LVMH
 - FBI
 - NBA
 - Miami Heat
-- Portland Trail Blazers
 - Poly Market
 - DraftKings
 - FanDuel
@@ -17,12 +15,10 @@ companies_orgs:
 - Microsoft
 - Google
 - Oracle
-- Climate Corp
 - DeepMind
 - Boston Dynamics
 - Alphabet
 - Silver Lake
-- Verily
 - Walmart
 - Uber
 - DoorDash
@@ -33,11 +29,7 @@ companies_orgs:
 - ISS
 - SpaceX
 - OpenAI
-- Center for AI Safety
 - Wikipedia
-- Domino's
-- Cipriani
-- Invesco
 - CBS
 - Meta
 - Rumble
@@ -75,12 +67,9 @@ people:
 - Donald Trump
 - Vladimir Putin
 products_models:
-- Prop 55
-- Roth IRA
 - EC2
 - TPU
 - TensorFlow
-- GFS
 - Waymo
 - Gemini
 - Dojo

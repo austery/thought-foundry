@@ -9,17 +9,11 @@ companies_orgs:
 - Nvidia
 - EchoStar
 - SpaceX
-- DXYZ
 - AT&T
 - FCC
 - AST SpaceMobile
-- Ligado
-- Inmarsat
 - Globalstar
-- Skylo
-- Iridium
 - Qualcomm
-- Payload Space
 - NASA
 - T-Mobile
 date: '2025-09-13'
@@ -35,10 +29,6 @@ people:
 products_models:
 - Starlink
 - Neutron rocket
-- AIP Conference
-- Mars Sample Return Program
-- Perseverance rover
-- Chi Yava Falls
 project:
 - investment-strategy
 - geopolitics-watch

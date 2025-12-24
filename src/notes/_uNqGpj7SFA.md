@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - CNBC
 - Congressional Budget Office
-- White House Presidential Economic Council
-- Yale University Budget Lab
 - Morgan Stanley
 - Apple
 - Microsoft
@@ -20,7 +18,6 @@ companies_orgs:
 - Chevron
 - Tesla
 - Walmart
-- Dollar General
 - Home Depot
 - Airbnb
 - MGM

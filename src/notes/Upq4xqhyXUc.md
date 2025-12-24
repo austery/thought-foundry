@@ -2,13 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国疾病预防控制中心
-- 河南省卫生厅
-- 周口医院
-- 中国新闻周刊
-- 中国卫生部
 - 中央电视台
-- 河南省红十字会
 date: '2024-01-03'
 draft: true
 guest: ''

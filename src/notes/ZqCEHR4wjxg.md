@@ -4,10 +4,6 @@ category: technology
 companies_orgs:
 - ElevenLabs
 - a16z
-- Hypocratic
-- Merlin
-- Cobalt
-- Deutsche Telecom
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -15,12 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Martin Casado
-products_models:
-- voice marketplace
-- text to speech models
-- speech to text models
-- music model
-- AI agent platform
 project:
 - ai-impact-analysis
 - entrepreneurship

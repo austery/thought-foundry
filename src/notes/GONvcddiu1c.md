@@ -2,7 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 中国铁路
 - 携程
 - YouTube
 - NDP
@@ -11,8 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- '12306'
 project:
 - china-analysis
 - historical-insights

@@ -2,8 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- SciShow
-- Control AI
 - OpenAI
 - Anthropic
 - Google DeepMind

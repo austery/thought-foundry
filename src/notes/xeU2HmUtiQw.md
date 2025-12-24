@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- 人民教育出版社
 date: '2025-01-04'
 draft: true
 guest: ''

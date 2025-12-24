@@ -7,8 +7,6 @@ companies_orgs:
 - Microsoft
 - Apple
 - XAI
-- US Military
-- Pain and Fall Foundation
 date: 2025-10-31
 draft: true
 guest: ''

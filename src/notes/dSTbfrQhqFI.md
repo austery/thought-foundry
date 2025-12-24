@@ -11,12 +11,9 @@ companies_orgs:
 - ADP
 - Best Buy
 - Burlington
-- Coofactory
-- Atrombi
 - Kohl's
 - Urban Outfitters
 - Chipotle
-- IBKR
 - McKinsey
 - KPMG
 - Deloitte
@@ -33,7 +30,6 @@ people:
 products_models:
 - TPU
 - GPU
-- ASIC
 - CUDA
 - Gemini 3
 - Claude
@@ -41,7 +37,6 @@ products_models:
 - GPT
 - S&P 500
 - Russell 2000
-- XRT
 - QQQ
 - TQQQ
 - GCP

@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - best-partners-tv
-products_models:
-- codex
 project:
 - ai-impact-analysis
 - vibe-coding

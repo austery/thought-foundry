@@ -3,11 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Jane Street
-- Securities and Exchange Board of India
-- Millennium Management
-- National Stock Exchange
-- Futures Industry Association
-- Tello Mobile
 date: '2025-07-11'
 draft: true
 guest: ''
@@ -19,7 +14,6 @@ media_books:
 people:
 - Matt Levine
 products_models:
-- BANKNIFTY
 - S&P 500
 project:
 - investment-strategy

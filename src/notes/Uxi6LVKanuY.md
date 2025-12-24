@@ -12,9 +12,7 @@ companies_orgs:
 - AMD
 - MySpace
 - The New York Times
-- Craft Ventures
 - White House
-- Office of Government Ethics
 - Oracle
 - OKX
 - Tesla

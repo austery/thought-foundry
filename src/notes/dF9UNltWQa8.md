@@ -2,12 +2,10 @@
 area: finance-wealth
 category: macro-economy
 companies_orgs:
-- Dallas Fed
 - Goldman Sachs
 - FOMC
 - S&P 500
 - McDonald's
-- Luckin Coffee
 date: '2025-09-12'
 draft: true
 guest: ''

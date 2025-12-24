@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Carnegie Corporation
 date: 2025-01-21
 draft: true
 guest: ''
@@ -25,7 +23,8 @@ people:
 - Barack Obama
 - Donald Trump
 - Joe Biden
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - historical-insights

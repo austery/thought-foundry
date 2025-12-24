@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- SFFA
 - Harvard University
 - MIT
 - DeepSeek
@@ -15,7 +14,6 @@ companies_orgs:
 - TikTok
 - ByteDance
 - AIPAC
-- Studio Ghibli
 - BBC
 - 中宣部
 - 网信办

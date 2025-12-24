@@ -2,23 +2,16 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- Ritholtz Wealth Management
 - S&P 500
 - GameStop
-- Hertz
-- Mutual of Omaha
 - Dow Jones
 - Microsoft
 - Intel
-- Arizona State University
-- Vanguard Group
-- Yale Endowment
 - BlackRock
 - State Street
 - Bureau of Labor Statistics
 - New York Stock Exchange
 - Federal Reserve
-- Internal Revenue Service
 - TikTok
 - Instagram
 - Meta
@@ -48,9 +41,7 @@ people:
 - Jack Bogle
 products_models:
 - 401k
-- 403b
 - NFT
-- SPAC
 project:
 - investment-strategy
 - personal-growth-lab

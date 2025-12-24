@@ -27,7 +27,6 @@ companies_orgs:
 - Nebius
 - Microsoft
 - OpenAI
-- Navitas
 - McDonald's
 - Federal Reserve
 - Supreme Court
@@ -63,13 +62,10 @@ products_models:
 - Bitcoin
 - S&P 500
 - NASDAQ
-- Robinhood Gold Card
 - Blackwell
 - Hopper
 - Reuben
-- Neoverse
 - NVLink
-- Project Prometheus
 project:
 - investment-strategy
 - market-cycles

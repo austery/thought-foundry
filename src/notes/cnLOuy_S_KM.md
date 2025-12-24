@@ -20,7 +20,6 @@ people:
 - Tracy Alloway
 - Carmen Rodriguez
 products_models:
-- Affirm Card
 - ChatGPT
 project:
 - us-analysis

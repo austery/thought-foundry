@@ -15,20 +15,7 @@ media_books:
 - 《繁花》
 - 《外交事务》
 products_models:
-- NanoBanana
 - Sora
-- Suno
-- IndexTTS2
-- Muse
-- Flux
-- Stable Diffusion
-- WaveNet
-- Pixel RNN
-- Pixel CNN
-- Video Pixel Network
-- MaskGIT
-- VAR
-- Next Step One
 project:
 - ai-impact-analysis
 - systems-thinking

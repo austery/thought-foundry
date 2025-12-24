@@ -19,8 +19,6 @@ products_models:
 - CyberCab
 - Model Y
 - Optimus
-- MegaPack
-- PowerWall
 - LFP电池
 project:
 - investment-strategy

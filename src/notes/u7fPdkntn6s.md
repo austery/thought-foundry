@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国最高法院
 - 国家统计局
 date: '2025-11-07'
 draft: true

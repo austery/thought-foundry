@@ -3,9 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 中国外交部
-- 中央警卫局
 - 中共中央
-- 全国人民代表大会
 date: '2024-09-01'
 draft: true
 guest: ''

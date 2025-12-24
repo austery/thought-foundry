@@ -7,7 +7,6 @@ companies_orgs:
 - Apple
 - Microsoft
 - Amazon
-- National Archives
 - Republican Party
 - Democratic Party
 - US Department of Justice
@@ -15,9 +14,7 @@ companies_orgs:
 - Democratic National Committee
 - University of Pennsylvania
 - Supreme Court
-- New York Post
 - Fox News
-- Swift Boat Veterans for Truth
 date: '2025-08-28'
 draft: true
 guest: ''

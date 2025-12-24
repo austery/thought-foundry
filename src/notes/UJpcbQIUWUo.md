@@ -10,10 +10,7 @@ companies_orgs:
 - Hostinger
 - IMF
 - Goldman Sachs
-- Yale Law Policy Review
-- Brookings
 - Yale Budget Lab
-- Thinking Machines Labs
 - Perplexity
 - Cursor
 - Midjourney
@@ -31,8 +28,6 @@ people:
 products_models:
 - Claude
 - Siri
-- GPT5
-- N8N
 project:
 - ai-impact-analysis
 - investment-strategy

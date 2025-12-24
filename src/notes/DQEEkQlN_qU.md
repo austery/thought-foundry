@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 《Special Comix》
-- 《彭博商业周刊》
-- 《纽约客》
 date: '2025-08-21'
 draft: true
 guest: ''

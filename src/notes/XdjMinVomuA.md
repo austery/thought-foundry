@@ -3,18 +3,8 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 伯克希尔·哈撒韦
-- 西方石油公司
 - Chevron
-- 伯克希尔·哈撒韦能源
-- 圣达菲铁路公司
 - GEICO
-- Hathaway Reinsurance Group
-- Berkshire Hathaway Primary Group
-- 藤忠商事
-- 丸红
-- 三菱商事
-- 三井物业
-- 住友商事
 date: '2024-03-23'
 draft: true
 guest: ''

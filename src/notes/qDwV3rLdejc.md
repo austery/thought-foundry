@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - 李克强
-products_models:
-- Fisher Equation
 project:
 - investment-strategy
 - market-cycles

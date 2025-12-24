@@ -11,7 +11,6 @@ companies_orgs:
 - Johnson & Johnson
 - Nike
 - LVMH
-- Hermès
 - Tesla
 - NVIDIA
 - Intel

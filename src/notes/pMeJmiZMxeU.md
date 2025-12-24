@@ -5,10 +5,6 @@ companies_orgs:
 - Lululemon
 - Nike
 - Adidas
-- Under Armour
-- Alo Yoga
-- Vuori
-- Athleta
 date: '2025-10-30'
 draft: true
 guest: ''

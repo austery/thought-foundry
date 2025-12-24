@@ -9,7 +9,6 @@ companies_orgs:
 - S&P Global
 - ISM
 - Bloomberg
-- See Money
 date: '2025-03-24'
 draft: true
 guest: ''

@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 爱马仕
 date: '2024-12-29'
 draft: true
 guest: ''

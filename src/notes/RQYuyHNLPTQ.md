@@ -2,7 +2,6 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Singer
 - KiwiCo
 date: '2023-11-22'
 draft: true
@@ -11,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-products_models:
-- Singer Model 27
 project:
 - historical-insights
 - systems-thinking

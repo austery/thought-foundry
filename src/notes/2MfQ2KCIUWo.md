@@ -6,8 +6,6 @@ companies_orgs:
 - AT&T
 - Verizon
 - T-Mobile
-- Ifo institute
-- Economic Innovation Group
 - Stanford
 - Upwork
 date: '2025-12-02'
@@ -27,8 +25,6 @@ products_models:
 - ChatGPT
 - GPT
 - Midjourney
-- DALL E
-- Cape
 project:
 - us-analysis
 - ai-impact-analysis

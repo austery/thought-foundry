@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 洞背村
-- 深圳
 date: '2024-12-10'
 draft: true
 guest: ''

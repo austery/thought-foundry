@@ -17,8 +17,6 @@ people:
 - 小西瓜
 - Remy
 - Serena
-products_models:
-- obsidian
 project:
 - pkm-research
 - vibe-coding

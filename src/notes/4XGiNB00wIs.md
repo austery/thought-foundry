@@ -4,7 +4,6 @@ category: culture
 companies_orgs:
 - Norges Bank Investment Management
 - Netflix
-- INSEAD
 date: '2024-08-28'
 draft: true
 guest: ''

@@ -4,8 +4,6 @@ category: psychology
 companies_orgs:
 - Harvard
 - Shopify
-- Simply Safe
-- Ketone IQ
 - CIA
 date: '2025-12-15'
 draft: true

@@ -4,31 +4,12 @@ category: business
 companies_orgs:
 - 摩尔线程
 - Nvidia
-- 海光
-- 华为昇腾
 - 寒武纪
-- 沛县乾曜
-- 深圳明皓
 - 红杉资本
-- 闻名泉丰
-- 和而泰
-- 深圳一创
-- 五源启兴
 - ByteDance
-- 量子跃动
-- 幻方量化
 - 台积电
 - 中芯国际
-- 沐曦集成
-- 壁仞科技
-- 燧原科技
-- 天数智芯
-- 瀚博半导体
 - 百度
-- 昆仑芯
-- 中国惠普
-- 戴尔中国
-- 冶金自动化研究设计院国家计算机实验室部门
 - AMD
 - xAI
 - 亚马逊
@@ -40,27 +21,15 @@ layout: post.njk
 people:
 - Jensen Huang
 products_models:
-- 苏堤
-- 春晓
-- 曲院
-- 平湖
-- S5000
-- S4000
 - A100
 - H20
 - H100
 - 昇腾910C NPU
-- 思元590
 - 曦云C500
 - 曦云C550
 - NVLink
-- MT-Link
-- MUSA
-- MUSIFY
-- KUAE2
 - Blackwell
 - TPU
-- Project Rainier
 project:
 - china-analysis
 - ai-impact-analysis

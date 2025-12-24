@@ -2,10 +2,8 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- 华人正念减压中心
 - 初日诊所
 - Google
-- 哈佛医学院
 - Apple
 - Meta
 - 耶鲁大学

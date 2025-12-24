@@ -2,10 +2,8 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 《重庆晨报》
 - 哈佛大学
 - A4美术馆
-- 俺有大石头
 date: '2025-10-30'
 draft: true
 guest: ''
@@ -23,8 +21,6 @@ people:
 - 周星驰
 - 罗永浩
 products_models:
-- 苹果手机
-- 桑塔纳
 - 东风导弹
 project:
 - china-analysis

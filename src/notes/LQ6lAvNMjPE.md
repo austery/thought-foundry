@@ -6,7 +6,6 @@ companies_orgs:
 - Norges Bank Investment Management
 - Novartis
 - Genentech
-- Chugai
 - AstraZeneca
 date: '2024-11-20'
 draft: true

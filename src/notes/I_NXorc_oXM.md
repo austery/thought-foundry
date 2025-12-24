@@ -2,18 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 军政府
-- 全国团结政府
-- 人民国防军
-- 果敢同盟军
-- 德昂军
-- 若开军
-- 三兄弟同盟
-- 克钦独立军
 - 东盟
-- 欧洲议会
 - 国际特赦组织
-- 国际法庭
 date: '2025-11-05'
 draft: true
 guest: ''

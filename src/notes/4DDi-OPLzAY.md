@@ -9,7 +9,6 @@ companies_orgs:
 - Meta
 - XAI
 - Amazon
-- Cornell
 date: '2025-09-26'
 draft: true
 guest: ''
@@ -30,7 +29,6 @@ products_models:
 - ChatGPT
 - GPT-3
 - Claude
-- SWEBench
 - GPT-2
 - DeepSeek
 project:

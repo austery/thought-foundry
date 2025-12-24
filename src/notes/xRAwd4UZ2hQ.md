@@ -14,14 +14,10 @@ companies_orgs:
 - White House
 - European Central Bank
 - Bank of Japan
-- Bundesbank
 - Bank for International Settlements
 - GM
 - Walmart
 - Apple
-- Chubb
-- Liberty Mutual
-- State Farm Insurance
 date: '2025-08-26'
 draft: true
 guest: ''
@@ -42,10 +38,6 @@ people:
 - Deng Xiaoping
 products_models:
 - OddLots podcast
-- Foreign Affairs
-- 'The New Geography: Who Profits in a Post-American World'
-- Deng Xiaoping
-- Trade Wars Are Class Wars
 project:
 - us-analysis
 - geopolitics-watch

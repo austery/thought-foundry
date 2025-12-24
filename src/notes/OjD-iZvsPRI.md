@@ -11,9 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - David
-products_models:
-- elevators
-- escalators
 project:
 - investment-strategy
 - systems-thinking

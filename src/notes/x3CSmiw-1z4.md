@@ -20,8 +20,6 @@ people:
 - Howard Marks
 - Michael Jordan
 products_models:
-- Good Judgment Project
-- Zapper virus
 - ChatGPT
 project:
 - investment-strategy

@@ -11,7 +11,6 @@ companies_orgs:
 - CrowdStrike
 - Tesla
 - 美国政府
-- 美国联邦巡回上诉法院
 - 最高法院
 - 美国证券交易委员会
 date: '2025-12-03'
@@ -30,9 +29,6 @@ people:
 products_models:
 - ChatGPT
 - Gemini
-- Trillionth Three
-- Trillionth Four
-- Gali C
 project:
 - us-analysis
 - investment-strategy

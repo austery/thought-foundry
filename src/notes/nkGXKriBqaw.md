@@ -2,11 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- DDC
 - SOS救命小酒馆
-- 鼓楼园
-- Temple
-- PIL
 date: '2025-04-19'
 draft: true
 guest: ''

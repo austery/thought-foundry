@@ -6,12 +6,9 @@ companies_orgs:
 - 小米
 - 腾讯
 - 阿里
-- 脉脉
 - 苹果
 - Google
-- 荣耀
 - OPPO
-- vivo
 - 华为
 date: '2025-12-18'
 draft: true
@@ -19,9 +16,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- 豆包手机助手
 - Gemini
-- 小爱同学
 - AI眼镜
 project:
 - ai-impact-analysis

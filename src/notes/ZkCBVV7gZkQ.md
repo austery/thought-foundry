@@ -4,11 +4,7 @@ category: geopolitics
 companies_orgs:
 - 中央电视台
 - 开心麻花
-- 中国曲艺家协会
 - 阿里巴巴集团
-- 亿欧商学院
-- 湖畔大学
-- 长江商学院
 - 月之暗面
 date: '2025-02-01'
 draft: true

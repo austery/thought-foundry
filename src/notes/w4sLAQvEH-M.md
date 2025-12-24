@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: science
-companies_orgs:
-- University of Illinois
 date: '2021-06-16'
 draft: true
 guest: ''
@@ -10,10 +8,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek
-products_models:
-- E. coli
-- Bounty
-- agar plate
 project:
 - systems-thinking
 series: ''

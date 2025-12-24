@@ -2,21 +2,17 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Tron
 - SEC
 - DOJ
 - Blue Origin
 - Tether
 - PayPal
-- UNODC
 - FTX
 - Binance
 - Circle
 - Coinbase
-- Dominion Securities
 - NASDAQ
 - Hamas
-- TRM
 date: '2025-10-08'
 draft: true
 guest: ''
@@ -35,10 +31,7 @@ people:
 - Eric Trump
 - Sam Bankman-Fried
 products_models:
-- World Liberty
-- BitTorrent
 - USDT
-- A330
 project:
 - us-analysis
 - geopolitics-watch

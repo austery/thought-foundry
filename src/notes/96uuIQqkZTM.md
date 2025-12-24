@@ -3,11 +3,8 @@ area: knowledge-meta
 category: knowledge-meta
 companies_orgs:
 - 东京大学
-- 人民论坛
-- 大声
 - 南华早报
 - BBC
-- 端传媒
 - 腾讯
 - Alibaba
 - 网易

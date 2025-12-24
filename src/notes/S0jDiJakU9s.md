@@ -6,9 +6,6 @@ companies_orgs:
 - Conservative Party
 - NDP
 - Bloc Québécois
-- Green Party
-- Canadian Leaders' Debates Commission
-- TVA
 - White House
 date: '2025-03-30'
 draft: true

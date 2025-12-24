@@ -5,17 +5,10 @@ companies_orgs:
 - Apple
 - Foxconn
 - Dell
-- Biel Crystal
-- Tealbook
 - University of Toronto
-- Munk School of Public Policy
 - OpenAI
 - Nvidia
-- Ontario Centre for Innovation
 - Vector Institute
-- UK government
-- Department of Defence (US)
-- Kraft Heinz
 - Goldman Sachs
 date: '2025-11-27'
 draft: true
@@ -34,7 +27,6 @@ people:
 products_models:
 - iPhone
 - iPod
-- iPod mini
 project:
 - china-analysis
 - geopolitics-watch

@@ -2,12 +2,10 @@
 area: market-analysis
 category: geopolitics
 companies_orgs:
-- Universa Investments
 - Bloomberg
 - Apple
 - Costco
 - Whole Foods
-- Stop and Shop
 date: '2025-07-07'
 draft: true
 guest: ''

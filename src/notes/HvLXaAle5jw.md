@@ -3,8 +3,6 @@ area: society-systems
 category: technology
 companies_orgs:
 - Alibaba
-- 伊利诺伊大学
-- 华盛顿大学
 date: 2025-10-30
 draft: true
 guest: ''
@@ -16,10 +14,7 @@ media_books:
 people:
 - Martin Fowler
 products_models:
-- SonarQube
-- CodeSense
 - Cursor
-- Llama 4 Scout
 project:
 - ai-impact-analysis
 - systems-thinking

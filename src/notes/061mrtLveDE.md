@@ -3,13 +3,6 @@ area: market-analysis
 category: business
 companies_orgs:
 - Bloomberg Audio Studios
-- Furniture Enterprises of Alaska
-- Sadler's Furniture
-- Williams and K Home Furnishings
-- Ashley
-- Mattress Firm
-- Lazy Boy
-- Ultimate Mattress
 - FDIC
 - Walmart
 - Home Depot

@@ -5,9 +5,6 @@ companies_orgs:
 - New York Times
 - GOP
 - United Nations
-- RSF
-- United Arab Emirates
-- Buckingham Palace
 date: 2025-10-31
 draft: true
 guest: ''
@@ -26,7 +23,8 @@ people:
 - Prince Andrew
 - Jeffrey Epstein
 - Kim Jong-un
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

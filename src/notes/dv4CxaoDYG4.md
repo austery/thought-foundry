@@ -3,7 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - Sony
-- 正大集团
 date: '2025-03-01'
 draft: true
 guest: ''
@@ -34,8 +33,6 @@ people:
 - 蔡英文
 - 小泉纯一郎
 - 毛泽东
-products_models:
-- STEM
 project:
 - us-analysis
 - geopolitics-watch

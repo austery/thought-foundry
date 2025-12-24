@@ -3,7 +3,6 @@ area: finance-wealth
 category: macro-economy
 companies_orgs:
 - BLS
-- Chicago Fed
 - FOMC
 date: '2025-09-05'
 draft: true
@@ -16,10 +15,6 @@ people:
 - Jerome Powell
 - Donald Trump
 - jobs-report
-products_models:
-- Jolts report
-- ADP employment
-- ISM services employment
 project:
 - us-analysis
 - market-cycles

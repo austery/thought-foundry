@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Shandong University
 date: '2025-09-30'
 draft: true
 guest: ''

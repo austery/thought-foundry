@@ -2,11 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Centre for Civil Liberties
 - United Nations
 - International Criminal Court
-- Amnesty International Canada
-- Government of Ontario
 date: '2025-12-11'
 draft: true
 guest: ''

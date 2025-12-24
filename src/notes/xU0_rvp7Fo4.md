@@ -3,7 +3,6 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - 克莱斯勒
-- Montgomery Gentry
 date: 2025-03-12
 draft: true
 guest: ''
@@ -15,9 +14,6 @@ media_books:
 - 《詹姆斯王一本的英文圣经》
 people:
 - Jesus
-products_models:
-- Crossfire
-- Hell Yeah
 project:
 - personal-growth-lab
 - systems-thinking

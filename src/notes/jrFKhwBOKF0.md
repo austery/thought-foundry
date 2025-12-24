@@ -20,7 +20,6 @@ companies_orgs:
 - OpenAI
 - Palo Alto Networks
 - Fortinet
-- Check Point
 - Tesla
 - Meta
 date: '2025-11-05'
@@ -34,12 +33,8 @@ people:
 products_models:
 - GPU
 - CPU
-- DPU
-- XPU
-- NvLink
 - InfiniBand
 - TPU
-- MTIA
 - VMware
 project:
 - ai-impact-analysis

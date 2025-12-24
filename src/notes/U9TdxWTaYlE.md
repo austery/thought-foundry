@@ -2,14 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Humane
-- Aramco
 - AWS
 - Google
 - OpenAI
 - Anthropic
 - AMD
-- Grock
 - Nvidia
 - Qualcomm
 - Huawei
@@ -33,9 +30,6 @@ people:
 - Donald Trump
 - Franklin D. Roosevelt
 - Dylan Patel
-products_models:
-- Humane Chat
-- Humane One
 project:
 - us-analysis
 - geopolitics-watch

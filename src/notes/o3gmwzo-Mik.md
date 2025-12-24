@@ -2,7 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- OpenCode
 - Apple
 - Meta
 date: '2025-11-23'

@@ -4,21 +4,14 @@ category: ai-ml
 companies_orgs:
 - 加拿大国家电影局（NFB）
 - 迪士尼
-- 皮克斯
-- 梦工厂
 - Netflix
-- Disney+
-- Corus
-- Nelvana
 date: '2025-12-07'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Softimage
 - Maya
-- Toon Boom
 project:
 - ai-impact-analysis
 series: ''

@@ -5,7 +5,6 @@ companies_orgs:
 - CBC
 - RBC
 - LCBO
-- SAQ
 date: '2025-06-08'
 draft: true
 guest: ''
@@ -19,9 +18,6 @@ people:
 - Pierre Poilievre
 - Justin Trudeau
 - Donald Trump
-products_models:
-- Canadian Free Trade Agreement
-- One Canadian Economy Act
 project:
 - us-analysis
 - geopolitics-watch

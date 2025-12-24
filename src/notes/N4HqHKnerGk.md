@@ -7,9 +7,7 @@ companies_orgs:
 - Waymo
 - 滴滴
 - Grab
-- Ola
 - DoorDash
-- GrubHub
 - Google
 - 特斯拉
 - Alibaba

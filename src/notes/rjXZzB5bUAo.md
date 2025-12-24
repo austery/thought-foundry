@@ -5,7 +5,6 @@ companies_orgs:
 - Veritasium
 - Pentagon
 - NordVPN
-- NHL
 date: '2024-12-19'
 draft: true
 guest: ''
@@ -18,7 +17,6 @@ people:
 - Petr
 - Andrew
 products_models:
-- Great Stalacpipe Organ
 - NordVPN
 project:
 - historical-insights

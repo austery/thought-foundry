@@ -3,10 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- USDA
-- Kimberly Clark
-- Ken View
-- Facing Hunger Food Bank
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -24,7 +20,6 @@ people:
 products_models:
 - SNAP
 - Tylenol
-- Acetaminophen
 project:
 - us-analysis
 - geopolitics-watch

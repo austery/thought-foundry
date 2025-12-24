@@ -2,13 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- 纽约大学上海分校
-- 西北大学
 - 美国社会学会
-- 联卡中心
-- 台北大学
-- 普林斯顿大学
-- 滨州大学
 date: '2024-02-25'
 draft: true
 guest: ''

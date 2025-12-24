@@ -31,8 +31,6 @@ products_models:
 - AWS
 - Siri
 - Gemini
-- Barrack
-- Training3
 project:
 - investment-strategy
 - us-analysis

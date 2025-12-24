@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 红丹丹
-- 太古地产
 date: '2025-05-09'
 draft: true
 guest: ''

@@ -7,8 +7,6 @@ companies_orgs:
 - xAI
 - Hugging Face
 - NASA
-- Rainforest Connection
-- Open Climate Fix
 date: '2025-12-01'
 draft: true
 guest: ''
@@ -19,8 +17,6 @@ products_models:
 - ChatGPT
 - DeepSeek
 - Claude
-- Galileo models
-- SmolLM
 - Colossus
 project:
 - ai-impact-analysis

@@ -3,13 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Starlink
-- Alubar Metal
 - Costco
-- Molson
 - World Trade Organization
-- LA Galaxy
-- Vancouver Whitecaps
-- Happy Goat
 date: '2025-03-09'
 draft: true
 guest: ''

@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 贵州茅台
-- 财新周刊
 date: '2025-11-17'
 draft: true
 guest: ''

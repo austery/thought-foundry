@@ -18,10 +18,6 @@ insight: ''
 layout: post.njk
 people:
 - 蔡崇信
-products_models:
-- 淘宝
-- 天猫
-- 阿里云
 project:
 - investment-strategy
 - china-analysis

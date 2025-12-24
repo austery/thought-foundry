@@ -2,13 +2,8 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Linus Tech Tips
 - Veritasium
 - Apple
-- Radio Shack
-- Hacksmith
-- NSO Group
-- Chaos Computer Club
 - Brilliant
 date: '2024-09-21'
 draft: true
@@ -21,8 +16,6 @@ people:
 - Steve Wozniak
 - James
 products_models:
-- Blue Box
-- Pegasus
 - Signal
 - WhatsApp
 project:

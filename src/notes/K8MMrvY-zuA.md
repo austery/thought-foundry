@@ -4,22 +4,7 @@ category: lifestyle
 companies_orgs:
 - New York Times Podcasts
 - Wirecutter
-- My Da Vinci
 - Etsy
-- Funko Pop
-- Pendleton
-- L.L.Bean
-- Falcon Enamelware
-- Maine Shakers
-- Bram Mountain
-- Goldbelly
-- Harry & David
-- Bagu
-- Stanley
-- Hydro Flask
-- Tusk
-- Block Design
-- Luxardo
 date: '2025-12-05'
 draft: true
 guest: ''
@@ -31,13 +16,6 @@ people:
 - Mike
 - Lee
 - Jim
-products_models:
-- Cadence Capsules
-- Kodapaxi Packing Cubes
-- Funko Pop
-- Travel Card One Word Charger Plus
-- Japanese Craypaws
-- Tiny Vinyl
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=K8MMrvY-zuA

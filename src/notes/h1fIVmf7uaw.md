@@ -2,47 +2,21 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Au Bon Pain
-- Panera Bread
 - McDonald's
 - Chick-fil-A
 - Starbucks
 - Chipotle
 - GoDaddy
-- Namecheap
 - Cloudflare
-- CES
 - Cava
 - Berkshire Hathaway
 - Pepsi
-- Sarah Lee
-- St. Louis Bread Company
-- Anheuser-Busch
-- Miller
-- Samuel Adams
-- Snapple
-- Tesco
 - Kroger
-- No Labels
-- JAB Holding Company
 - Shopify
-- Act III Holdings
-- Zoës Kitchen
 - Burger King
-- Corner Bakery
-- Qdoba
-- Darden Restaurants
-- Dairy Queen
-- Bruegger's Bagels
 - Sweetgreen
 - Whole Foods
 - Amazon
-- Tatte Bakery & Cafe
-- Life Alive
-- Level99
-- Honest Greens
-- BJ's Restaurants
-- PAR Technology
 - MIT
 date: '2025-11-11'
 draft: true

@@ -4,7 +4,6 @@ category: culture
 companies_orgs:
 - New York Times
 - Bumble
-- City Bank
 - Capital One
 date: '2025-11-12'
 draft: true
@@ -17,7 +16,6 @@ media_books:
 people:
 - Anna Martin
 products_models:
-- AMX
 - Venmo
 project:
 - personal-growth-lab

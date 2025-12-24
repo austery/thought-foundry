@@ -15,15 +15,6 @@ media_books:
 - gift-guide
 people:
 - Remy
-products_models:
-- Lego
-- Nike
-- Vans
-- Barbie
-- Reborn baby doll
-- remote control snake
-- Lego Creator Bird 3 in one birdhouse
-- Panda toy with baby bottle and toilet
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=FekxVban2ZQ

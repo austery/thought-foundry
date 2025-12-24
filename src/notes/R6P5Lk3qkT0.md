@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: geopolitics
-companies_orgs:
-- CBO
 date: '2025-06-29'
 draft: true
 guest: ''
@@ -22,13 +20,7 @@ people:
 - Joe Biden
 products_models:
 - 现代货币理论 (MMT)
-- 安倍经济学
-- 拜登经济学
-- 大美丽法案
-- 天才法案
-- 海湖庄园协议
 - CPP
-- HOLI FE
 project:
 - us-analysis
 - geopolitics-watch

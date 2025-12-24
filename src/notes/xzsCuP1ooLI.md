@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - Carnegie Mellon University
 - FBI
-- American Sociological Association
 - The New York Times
 date: '2023-12-23'
 draft: true

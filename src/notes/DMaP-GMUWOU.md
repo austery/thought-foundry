@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - CNN
 - Fox News
-- 美联社
 - 白宫
 - 共和党
 - 民主党
@@ -34,7 +33,8 @@ people:
 - Bernie Sanders
 - Mark Twain
 - Xi Jinping
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - china-analysis

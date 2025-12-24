@@ -2,17 +2,14 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Faire
 - Zapier
 - Dropbox
 - Airbnb
 - Notion
-- Jira
 - Slack
 - GitHub
 - Snowflake
 - Brex
-- Qualtrics
 date: '2025-11-03'
 draft: true
 guest: ''
@@ -26,8 +23,6 @@ people:
 products_models:
 - Cursor
 - ChatGPT
-- Mode
-- EPO
 - LangChain
 - Devon
 project:

@@ -7,7 +7,6 @@ companies_orgs:
 - DeepMind
 - Meta
 - Hugging Face
-- Allen AI
 date: '2025-11-17'
 draft: true
 guest: ''
@@ -25,20 +24,13 @@ products_models:
 - GPT-4
 - GPT-3.5
 - Llama 3
-- OLMo
 - BERT
-- FLAN
-- PaLM
 - InstructGPT
 - Llama 2
-- LIMA
 - Qwen
-- Alpaca
-- Vicuna
 - Mistral
 - Gemma
 - AlphaGo
-- GPT-4o Turbo
 project:
 - ai-impact-analysis
 series: ''

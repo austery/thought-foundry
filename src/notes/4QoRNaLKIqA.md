@@ -6,10 +6,8 @@ companies_orgs:
 - YC
 - Stripe
 - Anthropic
-- Open Philanthropy
 - Quora
 - Microsoft
-- Cooley
 date: '2025-11-14'
 draft: true
 guest: ''

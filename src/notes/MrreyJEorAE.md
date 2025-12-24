@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - NVIDIA
-- Mellanox
 - Intel
 - Sequoia Capital
 date: '2025-10-30'
@@ -16,19 +15,11 @@ people:
 - Steve Jobs
 products_models:
 - GPU
-- i860
-- Pentium MMX
-- i860XP
-- i486
 - CUDA
 - NVLink
 - GPT-4
 - InfiniBand
-- BlueField DPU
-- Spectrum-X
 - ChatGPT
-- x86 architecture
-- 地球二号气候模拟器
 project:
 - ai-impact-analysis
 - systems-thinking

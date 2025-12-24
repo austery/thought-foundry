@@ -2,11 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 华尔街银行
 - WTO
-- 鸿海
 - 富士康
-- NAFTA
 date: '2024-05-25'
 draft: true
 guest: ''

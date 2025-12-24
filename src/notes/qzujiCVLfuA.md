@@ -11,21 +11,16 @@ companies_orgs:
 - Stanford University
 - JPMorgan Chase
 - Harvard University
-- First USA
-- Chase
 - PayPal
-- Groupon
 - Intuit
 - Redfin
 - Zillow
 - Fannie Mae
 - Freddie Mac
-- Zappos
 - McKinsey & Company
 - Visa
 - Mastercard
 - American Express
-- Lennar Corporation
 date: '2025-11-13'
 draft: true
 guest: ''
@@ -40,17 +35,8 @@ people:
 - Larry Page
 - Sheryl Sandberg
 products_models:
-- Consumer Price Index
 - TurboTax
 - ChatGPT
-- Airbnb
-- FHA Loans
-- VA Loans
-- 30-Year Fixed Mortgage
-- Adjustable-Rate Mortgage
-- Home Equity Line of Credit
-- Point
-- FICO
 project:
 - investment-strategy
 - ai-impact-analysis

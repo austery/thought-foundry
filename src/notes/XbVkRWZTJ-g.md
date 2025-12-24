@@ -3,10 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 美团
-- 恒大集团
 - 碧桂园
-- 融创
-- 世茂
 - 世界银行
 - 清华大学
 date: 2025-07-15

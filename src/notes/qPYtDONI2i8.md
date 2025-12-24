@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Ontario Secondary School Teachers Federation
 - Ministry of Education
-- York Region
-- Ford government
 date: '2025-10-22'
 draft: true
 guest: ''

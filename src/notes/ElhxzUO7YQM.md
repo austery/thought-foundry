@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- California Forever
 - Google
 - All-In Podcast
 date: '2025-10-21'
@@ -12,8 +11,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Boeing 747
-- Golden Gate Bridge
-- Hoover Dam
 project:
 - us-analysis
 - geopolitics-watch

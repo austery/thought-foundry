@@ -2,10 +2,7 @@
 area: tech-insights
 category: science
 companies_orgs:
-- British Institution of Electrical Engineers
 - Columbia University
-- American Math Society
-- Guinness World Record
 - Apple
 date: '2023-09-03'
 draft: true
@@ -21,9 +18,6 @@ people:
 - Alan Turing
 - James Clerk Maxwell
 - John Conway
-products_models:
-- Kevlar
-- Quinolones
 project:
 - historical-insights
 - systems-thinking

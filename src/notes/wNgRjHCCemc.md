@@ -11,8 +11,6 @@ companies_orgs:
 - Amazon
 - Robinhood
 - Hims
-- RKLB
-- OSCR
 - BMNR
 - Seeking Alpha
 date: '2025-11-05'

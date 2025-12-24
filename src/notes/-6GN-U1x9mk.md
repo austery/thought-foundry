@@ -7,15 +7,11 @@ companies_orgs:
 - Federal Reserve
 - Bank of Japan
 - Turning Point USA
-- Huatai Securities
 - Goldman Sachs
 - Deutsche Bank
 - Morgan Stanley
 - Reuters
 - Fox News
-- China Business News
-- National Business Daily
-- Shukan Post
 date: '2025-12-22'
 draft: true
 guest: ''

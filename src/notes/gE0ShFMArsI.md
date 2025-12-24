@@ -2,18 +2,13 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Suzie
 - Meta
 - Google
 - Brex
 - Dropbox
 - Airbnb
 - Open Door
-- Gong
 - Salesforce
-- Qualtrics
-- SurveyMonkey
-- Proctor and Gamble
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -27,13 +22,10 @@ people:
 - Mark Benioff
 products_models:
 - Zapier
-- Browse AI
 - Zoom
 - GPT-4 Turbo
 - GPT-5
 - ChatGPT
-- Adwords
-- Botpress
 project:
 - ai-impact-analysis
 - entrepreneurship

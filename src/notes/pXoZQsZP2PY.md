@@ -3,17 +3,12 @@ area: tech-insights
 category: science
 companies_orgs:
 - NIST
-- USGS
 - Brilliant
 date: '2022-12-12'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Kibble balance
-- Electrostatic Force Balance
-- Atomic Force Microscope cantilevers
 project:
 - systems-thinking
 - historical-insights

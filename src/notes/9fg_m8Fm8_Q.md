@@ -4,7 +4,6 @@ category: lifestyle
 companies_orgs:
 - New York Times
 - Netflix
-- TSA
 date: '2025-11-27'
 draft: true
 guest: ''
@@ -18,10 +17,6 @@ people:
 - Michael Barbaro
 - Susan Lee
 - Marian Lozano
-products_models:
-- Meat Eater
-- The Daily
-- 12 gauge shotgun
 project:
 - us-analysis
 - personal-growth-lab

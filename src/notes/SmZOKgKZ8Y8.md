@@ -3,14 +3,8 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - 中国共产党
-- 日本自民党
 - 联合国
-- 北洋政府
 - 国民党
-- 中华民国
-- 苏联
-- 越南
-- 红色高棉
 date: '2025-12-17'
 draft: true
 guest: ''

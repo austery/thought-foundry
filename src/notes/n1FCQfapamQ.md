@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 香港科技大学
-- 云南社科院
 date: '2025-05-01'
 draft: true
 guest: ''

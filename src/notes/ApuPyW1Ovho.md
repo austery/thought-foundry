@@ -3,21 +3,13 @@ area: market-analysis
 category: business
 companies_orgs:
 - MDA Space
-- ASTS
 - Rocket Lab
 - Starlink
 - Globalstar
-- Echostar
-- Viasat
-- Telesat
 - Apple
-- Thales
 - FCC
 - SpaceX
-- JenaOptronic
-- Tesat
 - Airbus
-- Saft
 - NASA
 - Blue Origin
 date: '2025-10-06'
@@ -29,20 +21,6 @@ media_books:
 - Money or Life 美股频道
 people:
 - Ace
-products_models:
-- AURORA
-- Canadaarm
-- Canadaarm2
-- Canadaarm3
-- MDA SKYMAKER
-- CHORUS
-- Flatelite
-- Photon
-- Pioneer
-- Explorer
-- Lightning
-- Kuiper
-- OneWeb
 project:
 - investment-strategy
 - geopolitics-watch

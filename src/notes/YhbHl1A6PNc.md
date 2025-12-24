@@ -5,17 +5,9 @@ companies_orgs:
 - Norges Bank Investment Management
 - Finansdepartementet
 - Stortinget
-- Etikkrådet
-- TV2
-- Dagbladet
 - Reuters
 - Bloomberg
 - E24
-- VG
-- NTB
-- Aftenposten
-- Morgenbladet
-- Tel Aviv Stock Exchange
 date: '2025-08-12'
 draft: true
 guest: ''
@@ -28,9 +20,6 @@ media_books:
 people:
 - Nikolai Tangen
 - Marte
-products_models:
-- Deepsek model
-- reference index
 project:
 - geopolitics-watch
 - investment-strategy

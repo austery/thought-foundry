@@ -18,11 +18,7 @@ people:
 - Anna Martin
 - John
 products_models:
-- Roth IRA
 - 401k
-- Modern Love
-- How to Get Rich
-- Money for Couples
 project:
 - personal-growth-lab
 series: ''

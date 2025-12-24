@@ -8,7 +8,6 @@ companies_orgs:
 - London School of Economics
 - Massachusetts Institute of Technology
 - Wharton School
-- 美国众议院
 date: '2025-11-25'
 draft: true
 guest: ''

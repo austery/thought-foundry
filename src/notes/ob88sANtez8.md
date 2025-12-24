@@ -3,7 +3,6 @@ area: tech-engineering
 category: ai-ml
 companies_orgs:
 - Google
-- SuperBase
 date: '2025-11-19'
 draft: true
 guest: ''
@@ -13,26 +12,16 @@ media_books:
 - ide-review
 products_models:
 - Gemini 3 Pro
-- Gemini 3 Pro Preview
 - Gemini 3
-- Cloud 3.5
 - Claude Sonnet 4.5
 - GPT 5.1
 - Google AI Studio
-- Google Anti-Gravity IDE
 - Cursor
-- Windsoft
 - VS Code
 - React
-- Chakra UI
 - Node.js
 - Express
 - PostgreSQL
-- HTML5
-- JS
-- Three.js
-- P5JS
-- MacBook Pro
 - Minecraft
 project:
 - ai-impact-analysis

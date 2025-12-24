@@ -3,12 +3,8 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - 浑水muddy waters
-- Citron
 - 跟谁学GSX
 - 高盛
-- 瑞信
-- Archegos Capital
-- Viacom CBS
 date: '2025-12-19'
 draft: true
 guest: ''

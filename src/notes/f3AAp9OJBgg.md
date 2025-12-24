@@ -27,8 +27,6 @@ people:
 - 查理·芒格
 products_models:
 - DeepSeek
-- Qwen-1000K
-- Qwen2.5-Matrix
 project:
 - us-analysis
 - ai-impact-analysis

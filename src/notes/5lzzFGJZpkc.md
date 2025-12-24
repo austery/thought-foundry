@@ -3,13 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- National Hurricane Center
 - The Economist
-- UN Human Rights Commission
 - Toronto Blue Jays
-- LA Dodgers
-- Chicago White Socks
-- Milwaukee Brewers
 date: '2025-10-28'
 draft: true
 guest: ''

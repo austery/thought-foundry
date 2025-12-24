@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 台湾彩虹大平台
-- 美国心理学会
 date: '2022-07-31'
 draft: true
 guest: ''

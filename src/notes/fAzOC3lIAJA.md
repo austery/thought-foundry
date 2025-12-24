@@ -4,7 +4,6 @@ category: macro-economy
 companies_orgs:
 - CNN
 - Federal Reserve
-- US Treasury Department
 date: '2025-04-04'
 draft: true
 guest: ''
@@ -18,7 +17,6 @@ people:
 - Jerome Powell
 products_models:
 - QQQ
-- KBWB
 - VIX
 - S&P 500
 - Nasdaq
@@ -27,7 +25,6 @@ products_models:
 - Bitcoin
 - Solana
 - Ethereum
-- Costco
 project:
 - investment-strategy
 - us-analysis

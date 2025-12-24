@@ -12,7 +12,6 @@ companies_orgs:
 - BMW
 - Apple
 - Nokia
-- 美国国际开发署
 - 美国国防部
 - 美国财政部
 - 美国商务部
@@ -28,7 +27,6 @@ people:
 - 李飞飞
 products_models:
 - GPT
-- GPT-3 Mini
 - GB200
 - GB300
 - TPU

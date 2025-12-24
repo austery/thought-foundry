@@ -13,8 +13,6 @@ media_books:
 - Sufficiently Advanced
 people:
 - Derek Muller
-products_models:
-- Nitro Cold Brew
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=dCXkaQa53QQ

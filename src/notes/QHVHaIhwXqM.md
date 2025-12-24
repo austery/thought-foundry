@@ -1,18 +1,11 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- 香料运输公司
 date: '2025-12-12'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- linear-models
-- neural-networks
-- decision-trees
-- random-forests
 project:
 - systems-thinking
 series: ''

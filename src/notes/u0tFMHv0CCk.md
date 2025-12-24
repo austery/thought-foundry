@@ -3,7 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - University of Waterloo
-- LM Law Group
 - TVO Today
 date: '2025-10-21'
 draft: true
@@ -13,9 +12,6 @@ layout: post.njk
 people:
 - Pierre Poilievre
 - David Eby
-products_models:
-- Global Talent Stream
-- LMIA
 project:
 - systems-thinking
 series: ''

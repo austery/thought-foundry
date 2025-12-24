@@ -4,16 +4,12 @@ category: finance
 companies_orgs:
 - Visa
 - Mastercard
-- Amex
 - Capital One
-- Discover
 - JPMorgan
-- Lending Club
 - Alphabet
 - Meta
 - Goldman Sachs
 - New York Fed
-- Cfpb
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -23,8 +19,6 @@ people:
 - Joe Weisenthal
 - Tracy Alloway
 - Jerome Powell
-products_models:
-- Personal lines of credit
 project:
 - us-analysis
 - investment-strategy

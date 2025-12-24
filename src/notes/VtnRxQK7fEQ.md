@@ -2,8 +2,6 @@
 area: society-systems
 category: lifestyle
 companies_orgs:
-- Seven Eleven
-- 统一集团
 - 中国联通
 - 亚马逊
 date: '2023-10-15'
@@ -14,10 +12,6 @@ layout: post.njk
 media_books:
 - 维基百科
 products_models:
-- 悠游卡
-- Line-Pay
-- Apple-Pay
-- Google-Pay
 - Wifi盒子
 - Wifi机
 project:

@@ -4,9 +4,6 @@ category: technology
 companies_orgs:
 - OpenAI
 - Cognition
-- Codto
-- Cosign
-- Macco
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -14,9 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - Codeex
-- Devin
 - GPT-5
-- Nvidia B200
 project:
 - ai-impact-analysis
 - systems-thinking

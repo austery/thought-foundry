@@ -4,8 +4,6 @@ category: finance
 companies_orgs:
 - S&P 500
 - NASDAQ
-- Truist Financial
-- Key Bank
 - Western Alliance
 - SoFi
 - Robin Hood
@@ -18,7 +16,6 @@ companies_orgs:
 - Tesla
 - Coinbase
 - Starbucks
-- Luckin Coffee
 - Palantir
 - Rocket Lab
 - Salesforce
@@ -54,12 +51,10 @@ people:
 products_models:
 - Bitcoin
 - Ethereum
-- Blackwell Chip
 - AWS
 - Azure
 - Google Cloud
 - ChatGPT
-- Eagle-Eye
 project:
 - us-analysis
 - investment-strategy

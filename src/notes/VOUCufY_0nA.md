@@ -4,16 +4,11 @@ category: technology
 companies_orgs:
 - a16z
 - Google
-- Google Ventures
-- Blue Bottle
 - Instagram
 - TikTok
-- Threads
 - Meta
 - OpenAI
 - Anthropic
-- Replica
-- Digg
 - MySpace
 - Twitter
 - Uber
@@ -22,25 +17,17 @@ companies_orgs:
 - Substack
 - Perplexity
 - Notion
-- Granola
 - Vercel
-- Supabase
 - GitHub
 - Lovable
-- Bolt
 - Replit
-- Base44
-- Wix
-- Convex
 - ElevenLabs
 - Spotify
 - Nvidia
-- TechCrunch
 - Greylock
 - Stanford
 - Harvard
 - MIT
-- Limitless
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -66,27 +53,11 @@ products_models:
 - Gemini Ultra
 - Grok
 - Cursor
-- Janitor AI
-- Poke
-- Hux
 - iMessage
-- DoorDash
 - Alexa
-- Slashdot
-- Delicious
-- Notion Notes
 - Comet
-- Agent Kit
-- Apps SDK
-- VZero
 - Next.js
 - Postgres
-- GPT-5 Codecs
-- UIO
-- Sunno
-- Mozart
-- Hedra
-- Demox
 - X
 project:
 - ai-impact-analysis

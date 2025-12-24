@@ -17,8 +17,6 @@ people:
 - Larry Page
 - Bill Gates
 - Elon Musk
-products_models:
-- 电子手环
 project:
 - personal-growth-lab
 series: ''

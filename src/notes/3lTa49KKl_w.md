@@ -2,14 +2,7 @@
 area: market-analysis
 category: geopolitics
 companies_orgs:
-- 拜占庭帝国
-- 罗马帝国
-- 金帐汗国
-- 莫斯科公国
-- 奥斯曼帝国
 - 北约
-- 苏俄政权
-- 俄罗斯东正教
 date: '2025-07-22'
 draft: true
 guest: ''

@@ -15,11 +15,9 @@ companies_orgs:
 - Microsoft
 - 亚马逊
 - 伯克希尔哈撒韦
-- 阿斯麦
 - 台积电
 - 英特尔
 - 美国能源部
-- 星座能源公司
 - FBI
 date: '2025-11-19'
 draft: true
@@ -43,7 +41,6 @@ people:
 - Elon Musk
 - Cristiano Ronaldo
 products_models:
-- 小米汽车
 - Gemini 3
 - ChatGPT
 - TPU

@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: finance
-companies_orgs:
-- canada-post
 date: '2025-10-12'
 draft: true
 guest: ''

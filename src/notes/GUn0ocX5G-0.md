@@ -4,15 +4,12 @@ category: ai-ml
 companies:
 - critical-metal
 companies_orgs:
-- KoBold
 - TED
 date: '2025-10-20'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- KoBold mine
 project:
 - ai-impact-analysis
 - systems-thinking

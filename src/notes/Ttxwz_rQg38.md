@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - CIA
 - NYPD
-- MTA
 - ICE
 date: '2025-11-07'
 draft: true
@@ -23,7 +22,6 @@ people:
 - 刘宗坤
 products_models:
 - Obamacare
-- Proposition 50
 project:
 - us-analysis
 - geopolitics-watch

@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中金资本
 - 中金公司
 - 财政部
 date: '2025-11-11'

@@ -12,7 +12,6 @@ companies_orgs:
 - Palantir
 - Amazon
 - Google
-- SPYM
 - Coca-Cola
 - Pfizer
 - Berkshire Hathaway

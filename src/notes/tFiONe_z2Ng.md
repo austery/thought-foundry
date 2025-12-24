@@ -4,23 +4,9 @@ category: finance
 companies_orgs:
 - 澜起科技
 - 宁德时代
-- 兆一创新
-- 维尔股份
-- 豪威科技
-- 剑桥科技
-- 风条科技
-- 天越先进
-- 新辉
-- 瑞萨电子
-- Rabo
-- Tra
-- Vel
 - 三星电子
 - SK海力士
 - 华为
-- 海光
-- TI
-- 盛邦股份
 date: '2025-07-15'
 draft: true
 guest: ''

@@ -4,13 +4,8 @@ category: politics-society
 companies_orgs:
 - All-In Podcast
 - Amazon
-- Capitol Police
-- No Labels
 - Democratic Party
 - Republican Party
-- Tea Party
-- United States Senate
-- United States House of Representatives
 - Supreme Court
 date: '2025-10-23'
 draft: true
@@ -43,8 +38,6 @@ people:
 - Bob Iger
 - Bill Clinton
 - Alexandria Ocasio-Cortez
-products_models:
-- Maserati
 project:
 - us-analysis
 - historical-insights

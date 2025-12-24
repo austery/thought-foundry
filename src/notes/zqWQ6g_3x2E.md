@@ -12,12 +12,10 @@ companies_orgs:
 - Nvidia
 - OpenAI
 - Coreweave
-- Nabeas
 - Circle
 - Disney
 - Palantir
 - Coinbase
-- investing.com
 date: '2025-11-18'
 draft: true
 guest: ''

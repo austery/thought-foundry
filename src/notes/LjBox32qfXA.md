@@ -1,10 +1,6 @@
 ---
 area: society-thinking
 category: politics-society
-companies_orgs:
-- 香港搭棚商会
-- 港九搭棚同进工会
-- 山东晨旭化纤绳网有限公司
 date: '2025-12-01'
 draft: true
 guest: ''

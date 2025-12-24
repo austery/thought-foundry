@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 联合国教科文组织
 - 支付宝
-- 上海合作组织
 date: '2025-09-06'
 draft: true
 guest: ''

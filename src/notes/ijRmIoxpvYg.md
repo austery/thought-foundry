@@ -5,9 +5,7 @@ companies_orgs:
 - SpaceX
 - NASA
 - Blue Origin
-- Virgin Galactic
 - Relativity Space
-- Shift4 Payments
 date: '2024-08-01'
 draft: true
 guest: ''
@@ -24,12 +22,9 @@ people:
 - Matt Damon
 products_models:
 - Starship
-- Dragon
 - Falcon 9
 - Starlink
-- Gemini 11
 - Apollo
-- Inspiration4
 project:
 - entrepreneurship
 - systems-thinking

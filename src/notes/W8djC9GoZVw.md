@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - TED
-products_models:
-- Ataris
 project:
 - personal-growth-lab
 - systems-thinking

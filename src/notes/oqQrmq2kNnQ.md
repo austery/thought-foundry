@@ -2,12 +2,9 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- SafePal
 - Binance
-- Fiat24
 - 欧易
 - 招商银行
-- 香港汇丰银行
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -16,7 +13,6 @@ layout: post.njk
 products_models:
 - USDT
 - USDC
-- Arbitrum one
 project:
 - investment-strategy
 series: ''

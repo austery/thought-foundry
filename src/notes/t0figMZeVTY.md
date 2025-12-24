@@ -7,15 +7,12 @@ companies_orgs:
 - Adobe
 - Alibaba
 - 网易
-- 米哈游
 - 索尼
 - Microsoft
 - Booking
 - Expedia
 - Airbnb
 - 美团
-- 同程
-- 飞猪
 date: '2025-06-16'
 draft: true
 guest: ''
@@ -26,15 +23,7 @@ media_books:
 people:
 - 唐石峻
 products_models:
-- 英雄联盟
-- 虚拟引擎五
-- 部落冲突
 - 王者荣耀
-- 吃鸡
-- 梦幻西游
-- 阴阳师
-- 原神
-- 崩坏
 - Photoshop
 - Premiere Pro
 project:

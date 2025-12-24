@@ -1,8 +1,6 @@
 ---
 area: finance-wealth
 category: macro-economy
-companies_orgs:
-- Bank of Russia
 date: '2025-10-17'
 draft: true
 guest: ''

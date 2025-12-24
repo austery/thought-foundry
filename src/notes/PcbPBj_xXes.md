@@ -3,9 +3,7 @@ area: tech-insights
 category: business
 companies_orgs:
 - Stanford
-- Council Health
 - Andreessen Horowitz
-- GV
 date: '2025-11-01'
 draft: true
 guest: ''

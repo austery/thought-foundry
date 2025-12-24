@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - FBI
-- 美国外国投资委员会
 - SEC
 date: '2025-11-10'
 draft: true

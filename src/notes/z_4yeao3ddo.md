@@ -2,12 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- Hockey Canada
-- TSN
-- Chicago Blackhawks
-- National Hockey League
-- AA Hamilton Steel
-- AA Hamilton Huskies
 - TVO Today
 date: '2025-11-25'
 draft: true

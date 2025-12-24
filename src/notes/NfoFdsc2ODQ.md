@@ -2,7 +2,6 @@
 area: tech-insights
 category: business
 companies_orgs:
-- AbbVie
 - Anthropic
 date: '2025-10-20'
 draft: true
@@ -11,8 +10,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-- GenAIsys
-- GAIA
 project:
 - ai-impact-analysis
 - systems-thinking

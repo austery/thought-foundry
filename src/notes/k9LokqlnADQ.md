@@ -8,7 +8,6 @@ companies_orgs:
 - 世界银行
 - 哈佛大学
 - 兰德公司
-- 伊斯兰国
 - G7
 date: '2025-08-20'
 draft: true

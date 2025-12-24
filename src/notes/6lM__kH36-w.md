@@ -5,19 +5,12 @@ companies_orgs:
 - Politico
 - 宁德时代
 - 比亚迪
-- 长城汽车
-- AMBER
-- 巴西中国商业委员会
 - The Economist
-- 野村综合研究所
 - 人民日报
-- 莲华资产管理公司
 - The Wall Street Journal
 - Financial Times
-- 联合国工业发展组织
 - 世界贸易组织
 - 欧盟
-- 日经新闻
 date: '2025-12-01'
 draft: true
 guest: ''
@@ -39,8 +32,6 @@ people:
 - 李强
 products_models:
 - iPhone
-- 战斧飞弹
-- 三条红线政策
 project:
 - china-analysis
 - us-analysis

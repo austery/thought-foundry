@@ -3,20 +3,12 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - 美国政府
-- 美国海军部
 - 美国国防部
-- 海军战争学院
 - 联合国
 - 中央情报局
-- 三军情报局
-- 福特基金会
 - 洛克菲勒基金会
-- 北大西洋公约组织
-- 克格勃
 - 美国国务院
 - 美国农业部
-- 伊斯兰国
-- 瓦格纳集团
 - 中国共产党
 date: '2025-01-16'
 draft: true
@@ -46,7 +38,6 @@ people:
 - 金正恩
 products_models:
 - U2侦察机
-- 企业号航空母舰
 project:
 - china-analysis
 - us-analysis

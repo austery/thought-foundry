@@ -3,9 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 中央电视台
-- Food Bank
-- Meals on Wheels
-- 绿洲公益
 date: 2025-01-17
 draft: true
 guest: ''
@@ -14,7 +11,8 @@ layout: post.njk
 media_books:
 - 《华尔街日报》
 - 《狂人日记》
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - us-analysis

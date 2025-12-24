@@ -5,7 +5,6 @@ companies_orgs:
 - Money or Life 美股频道
 - Tesla
 - Rocket Lab
-- RedWire
 - Hims & Hers
 - Circle
 - MicroStrategy
@@ -15,7 +14,6 @@ companies_orgs:
 - Palantir
 - Pure Storage
 - AppLovin
-- Trade Desk
 - Reddit
 date: '2025-11-30'
 draft: true

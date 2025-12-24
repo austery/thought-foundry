@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: science
-companies_orgs:
-- Lutron
 date: '2020-10-09'
 draft: true
 guest: ''
@@ -10,8 +8,6 @@ insight: ''
 layout: post.njk
 people:
 - Albert Einstein
-products_models:
-- Caseta
 project:
 - systems-thinking
 - historical-insights

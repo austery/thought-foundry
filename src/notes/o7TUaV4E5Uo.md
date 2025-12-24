@@ -4,12 +4,6 @@ category: finance
 companies_orgs:
 - Bloomberg Audio Studios
 - Hudson River Trading
-- NRG Energy
-- Montana Public Service Commission
-- NEOUK
-- University of Chicago's Harris School of Public Policy
-- PJM
-- ERCOT
 - Cloudflare
 - AWS
 - GE Vernova
@@ -25,8 +19,6 @@ people:
 - Joe Weisenthal
 - Tracy Aloway
 - Ian Dunning
-products_models:
-- GPT6
 project:
 - us-analysis
 - ai-impact-analysis

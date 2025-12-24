@@ -11,12 +11,10 @@ companies_orgs:
 - Amazon
 - Cisco
 - YouTube
-- Box
 - Tesla
 - Broadcom
 - VMware
 - Qualcomm
-- X.AI
 - Lehman Brothers
 date: '2025-12-02'
 draft: true

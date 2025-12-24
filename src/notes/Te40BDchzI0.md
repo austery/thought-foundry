@@ -8,7 +8,6 @@ companies_orgs:
 - 美国社会学会
 - 国务院
 - 中宣部
-- 北京市委
 - 人民日报
 date: '2025-06-30'
 draft: true

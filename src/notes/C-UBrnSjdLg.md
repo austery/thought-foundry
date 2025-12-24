@@ -5,7 +5,6 @@ companies_orgs:
 - OpenAI
 - Google
 - Amazon
-- 清华大学交叉信息研究院
 date: '2025-06-09'
 draft: true
 guest: ''
@@ -18,8 +17,6 @@ people:
 - Yoshua Bengio
 products_models:
 - GPT-4
-- LeNet
-- ResNet
 project:
 - ai-impact-analysis
 - systems-thinking

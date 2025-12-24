@@ -30,7 +30,6 @@ people:
 - Paul Volcker
 products_models:
 - iPhone 17
-- iPhone 16
 - AWS
 - USDC
 - USDT

@@ -21,7 +21,6 @@ people:
 products_models:
 - ChatGPT
 - AlphaGo
-- o1 model
 - Neuralink
 project:
 - ai-impact-analysis

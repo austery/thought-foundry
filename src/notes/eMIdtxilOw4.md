@@ -8,8 +8,6 @@ companies_orgs:
 - Walmart
 - Mercedes-Benz
 - Google
-- Promeo
-- Harvey
 - Shopify
 - Slack
 - Zoom
@@ -23,11 +21,8 @@ people:
 - Jensen Huang
 - Andrej Karpathy
 products_models:
-- MBUX
 - Google Cloud
 - Gemini
-- Notion Agent
-- Perplexity Agent
 - GPT-4
 - GPT-5
 project:

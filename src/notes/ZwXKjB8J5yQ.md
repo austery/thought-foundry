@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 国家互联网信息办公室
 - Bilibili
 - 微博
 date: '2025-11-05'

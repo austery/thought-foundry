@@ -5,7 +5,6 @@ companies_orgs:
 - OPEC
 - Uber
 - Tesla
-- Standard Oil
 - American Airlines
 - Delta
 - United Airlines
@@ -18,18 +17,7 @@ layout: post.njk
 people:
 - John D. Rockefeller
 products_models:
-- Rolex
-- gasoline
-- avocado
-- taxi medallion
-- corn
-- sugar
-- Lipur
-- battery packs
-- Sherman Antitrust Act
-- Economic Recovery Tax Act
 - Affordable Care Act
-- European Union Emissions Trading System
 project:
 - market-cycles
 - systems-thinking

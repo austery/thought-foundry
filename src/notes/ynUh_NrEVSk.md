@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- FIRST
 date: '2025-04-25'
 draft: true
 guest: ''

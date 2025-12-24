@@ -19,8 +19,6 @@ products_models:
 - GPT-3.5
 - GPT-3
 - GPT-2
-- LaMDA
-- Meena
 project:
 - ai-impact-analysis
 series: ''

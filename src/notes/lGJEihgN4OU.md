@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- NIED
 - NordVPN
 date: '2024-01-26'
 draft: true

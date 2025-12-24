@@ -2,11 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 德云社
-- 巴西国家石油公司
-- NTV
 - 联合国
-- 危地马拉反有罪不罚国际委员会
 date: '2025-12-05'
 draft: true
 guest: ''

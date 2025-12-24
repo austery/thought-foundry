@@ -5,8 +5,6 @@ companies_orgs:
 - New York Times
 - CDC
 - UCLA
-- National Council for Severe Autism
-- Lancet Commission
 date: '2025-11-24'
 draft: true
 guest: ''

@@ -4,18 +4,10 @@ category: business
 companies_orgs:
 - Palantir
 - NVIDIA
-- North Slope
-- Crisis 24
-- Cubic Corporation
-- Kavanaaugh Corporation
 - Lowe's
 - AWS
-- GCP
 - Azure
-- Tampa General
-- R1
 - PG&E
-- Department of War
 - US Army
 date: '2025-12-10'
 draft: true
@@ -32,9 +24,7 @@ products_models:
 - Foundry
 - AIP
 - CUDA
-- Neotron models
 - ChatGPT
-- OSDK app
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Google Research
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -13,13 +11,6 @@ media_books:
 products_models:
 - HOPE模型
 - Transformer
-- RetNet
-- DeltaNet
-- TTT
-- Samba
-- Titans (LMM)
-- CNN
-- MLP
 project:
 - ai-impact-analysis
 - systems-thinking

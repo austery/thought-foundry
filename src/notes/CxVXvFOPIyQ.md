@@ -2,12 +2,8 @@
 area: society-systems
 category: business
 companies_orgs:
-- Monsanto
 - EPA
 - WHO
-- IARC
-- Dow
-- Calgene
 - Bayer
 - Incogni
 date: '2025-08-31'
@@ -19,17 +15,6 @@ media_books:
 - Nature
 - The Monsanto Papers
 - Seed Money
-products_models:
-- 2,4-D
-- 2,4,5-T
-- Agent Orange
-- Glyphosate
-- Roundup
-- Roundup Ready
-- Weedone
-- Weed-A-Bomb
-- Endo-Weed
-- Dicamba
 project:
 - us-analysis
 - geopolitics-watch

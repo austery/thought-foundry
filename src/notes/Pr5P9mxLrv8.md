@@ -4,16 +4,11 @@ category: ai-ml
 companies_orgs:
 - Money or Life美股频道
 - SpaceX
-- Starcloud
-- RocketLab
 - Google
 - YC
 - NASA
 - Boeing
 - Northrop Grumman
-- Redwire
-- 中国工信部
-- 中国国家航天局
 date: '2025-12-16'
 draft: true
 guest: ''
@@ -31,8 +26,6 @@ products_models:
 - TPU
 - GPU
 - HBM
-- iROSA
-- IMM
 project:
 - ai-impact-analysis
 series: ''

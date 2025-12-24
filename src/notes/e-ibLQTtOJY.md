@@ -3,9 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - Bloomberg Audio Studios
-- Terteranova Capital
-- Ferrero
-- Ministry of Agriculture in Turkey
 date: '2025-08-14'
 draft: true
 guest: ''
@@ -18,10 +15,6 @@ people:
 - Joe Wisenthal
 - Tracy Alloway
 - Michael Burry
-products_models:
-- Nutella
-- Fix chocolate
-- Dubai chocolate
 project:
 - investment-strategy
 - market-cycles

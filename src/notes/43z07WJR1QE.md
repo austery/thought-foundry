@@ -2,11 +2,8 @@
 area: society-systems
 category: general
 companies_orgs:
-- Women's Brain Health Initiative
-- CAMH
 - Toronto Metropolitan University
 - FDA
-- UK Biobank
 - TVO Today
 date: '2025-12-09'
 draft: true

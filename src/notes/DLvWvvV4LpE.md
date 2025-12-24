@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 益盒
-- 上海联劝
 date: '2025-08-12'
 draft: true
 guest: ''

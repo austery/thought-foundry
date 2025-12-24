@@ -6,12 +6,8 @@ companies_orgs:
 - 海底捞
 - 麦当劳
 - 美团
-- 肯德基
-- 必胜客
 - 吉野家
-- 沸腾鱼乡
 - 喜茶
-- 胡大
 date: '2023-12-15'
 draft: true
 guest: ''
@@ -24,13 +20,6 @@ people:
 - 胡锡进
 - 邓丽君
 - 周杰伦
-products_models:
-- 酱香拿铁
-- 科目三
-- 板烧鸡腿堡
-- 臭鳜鱼
-- 麻辣小龙虾
-- 青花瓷
 project:
 - china-analysis
 - market-cycles

@@ -5,9 +5,7 @@ companies_orgs:
 - PG&E
 - Norges Bank Investment Management
 - General Motors
-- Consumer Energy
 - Nvidia
-- Nuclear Regulatory Commission
 - Department of Energy
 - Toyota
 date: '2024-08-21'
@@ -20,9 +18,6 @@ people:
 - Warren Buffett
 - Jensen Huang
 - Thomas Edison
-products_models:
-- Cadillac Lyriq
-- Ford Lightning
 project:
 - us-analysis
 - ai-impact-analysis

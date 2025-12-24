@@ -2,14 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- TSN
-- Hockey Canada
-- Chicago Blackhawks
-- National Hockey League
-- Boston Globe
 - Catholic Church
-- Hamilton Steel
-- Hamilton Huskies
 date: '2025-11-25'
 draft: true
 guest: ''

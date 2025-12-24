@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - FBI
 - Justice Department
-- Defense Department
 date: '2025-11-25'
 draft: true
 guest: ''

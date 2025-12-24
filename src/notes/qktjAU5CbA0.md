@@ -2,12 +2,7 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 上海证券交易所
 - 路透社
-- 康美药业
-- 富达基金
-- 中金
-- GMT Research
 - Vanguard
 - BlackRock
 date: '2025-11-07'
@@ -21,10 +16,7 @@ media_books:
 - 《斯坦福大学证券集体诉讼数据》
 products_models:
 - Nasdaq
-- Dow Jones Industrial Index
 - S&P
-- Nikkei
-- Hang Seng
 project:
 - china-analysis
 - investment-strategy

@@ -13,8 +13,6 @@ people:
 - Galileo Galilei
 products_models:
 - Voyager 1
-- Voyager 2
-- Dyson sphere
 project:
 - systems-thinking
 - historical-insights

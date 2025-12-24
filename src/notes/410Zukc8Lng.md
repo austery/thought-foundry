@@ -2,16 +2,9 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- 魔珐科技
-- 卡内基梅隆大学
 - NVIDIA
-- Pi
 - Boston Dynamics
-- Texas A&M University
-- Georgia Tech
-- University of British Columbia
 - 斯坦福大学
-- 伯克利大学
 - Epic Games
 - 宇树科技
 - 本田
@@ -20,7 +13,6 @@ companies_orgs:
 - 腾讯
 - DeepSeek
 - 豆包
-- 千问
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -38,9 +30,6 @@ products_models:
 - Genie3
 - ChatGPT
 - Unreal Engine
-- RK3566
-- VLA (Vision-Language-Action model)
-- ASIMO
 project:
 - ai-impact-analysis
 - systems-thinking

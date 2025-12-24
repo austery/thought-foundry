@@ -6,8 +6,6 @@ companies_orgs:
 - G7
 - G8
 - CBC
-- 多伦多星报
-- CTV News
 - 美国商务部
 - 北约
 date: '2025-05-11'

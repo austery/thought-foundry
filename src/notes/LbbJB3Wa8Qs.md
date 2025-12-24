@@ -3,12 +3,8 @@ area: tech-insights
 category: business
 companies_orgs:
 - Palantir
-- Slate
 - The New York Times
-- Haverford College
-- Stanford Law School
 - Yale University
-- In-Q-Tel
 - Meta
 - Google
 - ICE
@@ -36,8 +32,6 @@ people:
 - Benjamin Netanyahu
 - Kamala Harris
 - Joe Biden
-products_models:
-- Metropolis
 project:
 - us-analysis
 - investment-strategy

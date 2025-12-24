@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - CBC
-- Al Jazeera
 - TVO Today
 date: '2025-10-30'
 draft: true

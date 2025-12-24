@@ -1,18 +1,14 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Funstage
 date: '2025-11-24'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Backlog.md
 - Claude
 - Gemini
-- Kuso
 project:
 - ai-impact-analysis
 series: ''

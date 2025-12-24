@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Rapid Support Forces (RSF)
-- Muslim Brotherhood
 - United Nations
-- African Union
 - World Health Organization
 date: '2025-12-12'
 draft: true
@@ -18,12 +15,6 @@ people:
 - Joe Biden
 - Donald Trump
 - Recep Tayyip Erdoğan
-products_models:
-- Bayraktar TB2 drone
-- Javelin anti-tank missile
-- F-22 Raptor fighter jet
-- U-2 spy plane
-- Global Hawk drone
 project:
 - geopolitics-watch
 - historical-insights

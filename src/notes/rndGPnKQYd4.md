@@ -4,7 +4,6 @@ category: technology
 companies_orgs:
 - Google
 - IBM
-- Honeywell
 - FBI
 - CIA
 date: '2025-12-12'

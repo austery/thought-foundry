@@ -3,10 +3,7 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Vercel
-- React team
-- Next.js
 - Cloudflare
-- CVE
 - FBI
 date: '2025-12-09'
 draft: true
@@ -18,12 +15,9 @@ media_books:
 - 《让编程再次伟大#49》
 products_models:
 - React
-- React Server Components
 - Next.js
 - Node.js
-- SOAP
 - gRPC
-- WAF
 project:
 - systems-thinking
 series: ''

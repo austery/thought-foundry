@@ -2,11 +2,8 @@
 area: tech-insights
 category: science
 companies_orgs:
-- Chan Zuckerberg Initiative
 - UCSF
 - Stanford
-- Berkeley
-- Evolutionary Scale
 - Meta
 - NIH
 date: '2025-11-06'
@@ -18,8 +15,6 @@ people:
 - Mark Zuckerberg
 products_models:
 - AlphaFold
-- Cell by Gene
-- Variant Former
 - Diffusion Model
 project:
 - ai-impact-analysis

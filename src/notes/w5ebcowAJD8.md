@@ -2,11 +2,8 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Drexel University
-- DENSO
 - NASA
 - New York University
-- Android
 - Apple
 date: '2024-09-30'
 draft: true
@@ -14,10 +11,6 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Code 49
-- PDF417
-- Vericode
-- UPC barcode
 - Saily
 project:
 - historical-insights

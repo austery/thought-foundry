@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- National Rifle Association
-- American Bar Association
-- The New Republic
 date: '2025-09-15'
 draft: true
 guest: ''
@@ -16,8 +12,6 @@ media_books:
 - 《Yale Law Journal》
 people:
 - Charlie Kirk
-products_models:
-- Colt revolver
 project:
 - us-analysis
 - historical-insights

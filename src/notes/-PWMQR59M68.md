@@ -2,9 +2,7 @@
 area: society-systems
 category: science
 companies_orgs:
-- Team Trees
 - Veritasium
-- Smarter Every Day
 date: '2019-10-25'
 draft: true
 guest: ''

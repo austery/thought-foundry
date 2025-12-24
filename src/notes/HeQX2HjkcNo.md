@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: science
-companies_orgs:
-- Bletchley Park
 date: '2021-05-22'
 draft: true
 guest: ''
@@ -19,7 +17,6 @@ people:
 - John von Neumann
 - Henri Poincaré
 products_models:
-- Conway's Game of Life
 - ENIAC
 project:
 - systems-thinking

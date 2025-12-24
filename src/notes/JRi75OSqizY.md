@@ -2,19 +2,7 @@
 area: society-systems
 category: psychology
 companies_orgs:
-- Holiday Magic
-- Mind Dynamics
-- EST
-- The Forum
-- Hunger Project
-- Landmark Forum
-- LifeSpring
-- AsiaWorks
-- Life Dynamics
-- ASK
-- Hong Kong Polytechnic University
 - Chinese Communist Party
-- Next Magazine
 date: '2025-02-24'
 draft: true
 guest: ''

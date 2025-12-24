@@ -18,7 +18,6 @@ companies_orgs:
 - IBM
 - Lemonade
 - 软银
-- Apploving
 - Arista
 - 特斯拉
 - 苹果

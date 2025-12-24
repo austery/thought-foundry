@@ -9,12 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Cursor Composer
-- Tab
-- Sonnet 45
-- GPT 5.1 codecs
-- Nvidia Blackwell
 project:
 - ai-impact-analysis
 - systems-thinking

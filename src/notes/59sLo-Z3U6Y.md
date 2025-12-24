@@ -3,28 +3,19 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- Hudson Institute
 - Financial Times
 - Council on Foreign Relations
-- Power Metallic Mines
 - Lockheed Martin
 - Raytheon
 - Tesla
 - Apple
 - Ford
 - CATL
-- Gotion High-Tech
 - BYD
 - TikTok
 - Quibi
-- RealShot
-- COL Group
-- Ipsos
 - ASEAN
-- SCO
 - FBI
-- NRTA
-- CFIUS
 - General Motors
 date: '2025-11-13'
 draft: true
@@ -43,7 +34,6 @@ people:
 - Vladimir Putin
 products_models:
 - F-35
-- S-400
 project:
 - us-analysis
 - china-analysis

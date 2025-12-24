@@ -7,15 +7,10 @@ companies_orgs:
 - Foxconn
 - Apple
 - Xiaomi
-- GREE
-- Weichai
-- XCMG
-- 胖东来
 - Porsche
 - Volkswagen
 - Toyota
 - Nokia
-- 汇川技术
 - Oracle
 - Microsoft
 - Nvidia
@@ -35,7 +30,6 @@ people:
 products_models:
 - iPhone
 - Model Y
-- MQB platform
 project:
 - china-analysis
 - us-analysis

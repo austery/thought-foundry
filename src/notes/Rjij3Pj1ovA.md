@@ -2,8 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 人民行动党
-- 蚂蚁金服
 - 滴滴
 - Alibaba
 - 腾讯
@@ -14,8 +12,6 @@ companies_orgs:
 - 百度
 - 网易
 - 瑞银
-- 德国瑙曼基金会
-- 新加坡经济发展局
 date: '2025-11-07'
 draft: true
 guest: ''

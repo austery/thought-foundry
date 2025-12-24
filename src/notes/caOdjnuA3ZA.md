@@ -10,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- HIV
-- SIV
 project:
 - geopolitics-watch
 - historical-insights

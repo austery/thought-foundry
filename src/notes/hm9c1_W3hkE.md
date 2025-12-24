@@ -28,9 +28,6 @@ people:
 - 唐石峻
 products_models:
 - Waymo
-- Nest
-- AdMob
-- Google Play
 project:
 - us-analysis
 - investment-strategy

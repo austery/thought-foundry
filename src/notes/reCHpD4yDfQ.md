@@ -8,11 +8,9 @@ companies_orgs:
 - NASA
 - Oracle
 - Amazon
-- 鸿海
 - Nvidia
 - AMD
 - Dell
-- Supermicro
 - HP
 - Arista
 - Cisco
@@ -22,22 +20,15 @@ companies_orgs:
 - Micron
 - Seagate
 - Vertiv
-- Johnson Controls
-- Stulz
-- Schneider Electric
 - Caterpillar
-- Cummins
 - Rolls-Royce
-- Eaton
 - Google
 - GE Aerospace
 - Microsoft
 - SpaceX
 - Bank of America
 - Bernstein
-- Barclays Bank
 - Morgan Stanley
-- Open Compute Project
 date: '2025-12-01'
 draft: true
 guest: ''
@@ -49,10 +40,7 @@ people:
 - Jensen Huang
 products_models:
 - InfiniBand
-- Rubin architecture
-- Blackwell architecture
 - Stargate
-- Colossus2
 project:
 - ai-impact-analysis
 - investment-strategy

@@ -7,7 +7,6 @@ companies_orgs:
 - Boston Consulting Group
 - Harvard
 - MIT
-- University of Warwick
 - Samsung
 - JP Morgan
 - OpenAI
@@ -26,7 +25,6 @@ people:
 - Nicola Tangan
 products_models:
 - GPT-4
-- Manis
 - ChatGPT
 - Gemini
 - DeepSeek R1

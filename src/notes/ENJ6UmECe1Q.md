@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - New York Times
 - United Nations
-- Amtrak
 - BYD
 - USAID
 date: '2025-11-18'
@@ -16,9 +15,6 @@ people:
 - Rachel Abrams
 - Donald Trump
 - Chris Wright
-products_models:
-- Paris Climate Agreement
-- Inflation Reduction Act
 project:
 - us-analysis
 - china-analysis

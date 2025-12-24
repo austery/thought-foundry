@@ -18,19 +18,12 @@ insight: ''
 layout: post.njk
 products_models:
 - Qwen
-- WAN 2.6
 - GPT-4
 - GPT
 - Android
 - Chrome
 - YouTube
-- Google Lens
-- Hema
 - Taobao
-- JD.com
-- Ctrip
-- Feishu
-- Xiaohongshu
 - Douyin
 - Midjourney
 - Sora

@@ -3,12 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - TVO Today
-- British Medical Journal
-- The Lancet
 - Ontario government
-- Canadian Psychiatric Association
-- Women's Health in Women's Hands
-- Global Mail
 date: '2025-10-21'
 draft: true
 guest: ''

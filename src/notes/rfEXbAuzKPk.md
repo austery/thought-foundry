@@ -2,19 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- CCTV News Investigation
-- Chongqing Third Factory
-- Wanguan Company
-- Chongqing Public Security Bureau
-- Chongqing High Court
-- Supreme People's Court
 - Columbia University
-- Chongqing Justice Bureau
-- Chongqing Municipal Party Committee
-- Chongqing Municipal Government Information Office
-- U.S. Consulate General in Chengdu
-- Southwest University of Political Science and Law
-- Hilton Hotel
 date: '2025-01-30'
 draft: true
 guest: ''
@@ -31,12 +19,6 @@ media_books:
 people:
 - Bo Xilai
 - Li Qiang
-products_models:
-- Maserati
-- Lamborghini
-- Bentley
-- Porsche
-- BMW
 project:
 - china-analysis
 - historical-insights

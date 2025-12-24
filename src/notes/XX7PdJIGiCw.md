@@ -4,8 +4,6 @@ category: science
 companies_orgs:
 - Hostinger
 - Veritasium
-- Primer
-- BeSmart
 date: '2025-11-01'
 draft: true
 guest: ''
@@ -14,7 +12,6 @@ layout: post.njk
 media_books:
 - The Selfish Gene
 products_models:
-- n8n
 - Chat GPT
 - Notion
 project:

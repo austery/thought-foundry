@@ -2,7 +2,6 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- Ballard Partners
 - FBI
 - Fox News
 - CNN
@@ -26,10 +25,7 @@ people:
 - Hillary Clinton
 - Dan Bongino
 products_models:
-- MAGA
 - Twitter
-- Joe Rogan Podcast
-- CNN 60 Minutes
 project:
 - us-analysis
 series: ''

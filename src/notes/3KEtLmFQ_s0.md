@@ -4,11 +4,6 @@ author: 贾葭
 category: geopolitics
 companies_orgs:
 - 中央电视台
-- 正仓院
-- 东京国立博物馆
-- 金刚组
-- 参政党
-- 出国管理厅
 - 新宿高速BUS
 date: '2025-10-20'
 draft: true

@@ -4,11 +4,9 @@ category: finance
 companies_orgs:
 - 雪球
 - Apple
-- 步步高集团
 - VIVO
 - OPPO
 - 网易
-- Kweichow Moutai
 - Amazon
 - GE
 - Nvidia
@@ -29,12 +27,9 @@ people:
 - 唐石峻
 products_models:
 - Apple TV
-- Apple Electric Car
 - AI语言模型
-- 53度飞天
 - Bitcoin
 - S&P 500 ETF
-- 现金流贴现
 project:
 - investment-strategy
 - personal-growth-lab

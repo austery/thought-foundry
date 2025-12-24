@@ -2,20 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国出口信用保险公司
-- QQ
 - 哈马斯
-- 真主党
 - 北约
 - MP Materials
-- Novial Magnetics
-- Lynas
-- 中央纪律检查委员会
-- 万达集团
-- 成功百货连锁
 - 解放军
-- 台湾海巡署
-- 全球渔业观察组织
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -32,7 +22,6 @@ people:
 - Donald Trump
 products_models:
 - F-35战机
-- 维吉尼亚级核潜艇
 project:
 - china-analysis
 - us-analysis

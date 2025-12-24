@@ -2,7 +2,6 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Terraform Industries
 - NASA
 - OpenAI
 - xAI
@@ -15,16 +14,12 @@ companies_orgs:
 - GE
 - Samsung
 - SK Hynix
-- PJM
 - PG&E
-- NREL
-- DOE
 - Caterpillar
 - McDonald's
 - Kohl's
 - Siemens
 - Philips
-- Kaiser Industries
 date: '2025-08-15'
 draft: true
 guest: ''
@@ -44,7 +39,6 @@ products_models:
 - Claude
 - Grok
 - Apple II
-- Tesla Megapack
 project:
 - ai-impact-analysis
 series: ''

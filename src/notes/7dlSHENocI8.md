@@ -2,9 +2,7 @@
 area: society-systems
 category: business
 companies_orgs:
-- Grindr
 - Goldman Sachs
-- Ningi Research
 - Tinder
 - HIMS
 - FBI

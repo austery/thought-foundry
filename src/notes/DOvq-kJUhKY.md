@@ -3,11 +3,8 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - 长荣航空
-- 加拿大航空
 - Expedia
 - Uber
-- 大统华
-- 皮尔逊机场
 date: '2025-07-13'
 draft: true
 guest: ''
@@ -16,8 +13,6 @@ layout: post.njk
 people:
 - Donald Trump
 products_models:
-- Ford Bronco SUV
-- CarPlay
 - Google 地图
 project:
 - personal-growth-lab

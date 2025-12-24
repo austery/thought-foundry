@@ -5,29 +5,13 @@ companies:
 - tsmc-overseas-expansion
 companies_orgs:
 - 台积电
-- Altera
 - Analog Devices
-- ISSI
 - 英特尔
 - AMD
 - 苹果
 - Nvidia
 - 索尼
-- 博世
-- 英飞凌
-- 林德集团
-- 液化空气集团
 - 巴斯夫
-- 杜邦
-- 富士胶片电子材料
-- 联华工程
-- 神通资讯
-- 中鼎工程
-- 奥克兰建设
-- 奥斯汀商业建筑
-- 美国半导体行业协会
-- 美国国家经济委员会
-- 沙特阿美
 date: '2025-12-05'
 draft: true
 guest: ''
@@ -45,7 +29,6 @@ products_models:
 - Windows
 - Android
 - GPU
-- SOC
 - EUV设备
 project:
 - us-analysis

@@ -2,11 +2,9 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 美国国会预算办公室
 - FBI
 - FDA
 - EPA
-- 美国国立卫生研究院
 date: '2025-10-02'
 draft: true
 guest: ''
@@ -18,7 +16,6 @@ people:
 - Chuck Schumer
 products_models:
 - Affordable Care Act
-- H1B Visa
 project:
 - us-analysis
 - geopolitics-watch

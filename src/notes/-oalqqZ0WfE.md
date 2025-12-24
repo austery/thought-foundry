@@ -29,14 +29,10 @@ layout: post.njk
 products_models:
 - GPT-5
 - H100 GPU
-- NVIDIA DGX Station A100
 - TPU
-- NvLink
 - PCIe
 - InfiniBand
 - HBM
-- NVSwitch
-- Ascend
 - H20
 project:
 - ai-impact-analysis

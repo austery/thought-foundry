@@ -8,28 +8,16 @@ companies_orgs:
 - FBI
 - The Daily Beast
 - Federal Reserve
-- Labor Department
-- BMO
 - Bloomberg
 - Reuters
 - Wall Street Journal
 - CNBC
-- TASS
-- Time Magazine
-- Mexico
-- China
 - WTO
-- Indonesia
 - US Congress
-- Biden Administration
 - ZTE
 - Pinduoduo
 - Xiaohongshu
 - State Administration for Market Regulation
-- Ministry of Public Security
-- State Council
-- Xinhua
-- Economic Daily
 date: '2025-12-11'
 draft: true
 guest: ''

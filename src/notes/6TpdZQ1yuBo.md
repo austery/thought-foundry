@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 世界自然基金会
-- 黄海水产研究所
-- 韩华道达尔
 date: '2024-12-31'
 draft: true
 guest: ''

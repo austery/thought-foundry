@@ -8,8 +8,6 @@ companies_orgs:
 - Google
 - Adobe
 - Blue Origin
-- Ocean Cleanup
-- 康泰纳仕
 date: '2025-12-16'
 draft: true
 guest: ''
@@ -22,15 +20,7 @@ people:
 products_models:
 - GPT-4
 - Gemini 3
-- Nova 2 Lite
-- Nova 2 Pro
-- Nova 2 Sonic
-- Nova 2 Omni
 - Trainium
-- Trainium3
-- Trainium4
-- Amazon Bedrock
-- AgentCore
 project:
 - ai-impact-analysis
 series: ''

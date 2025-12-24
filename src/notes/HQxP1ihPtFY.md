@@ -2,11 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Chhaya
-- MTA
 - JPMorgan Chase
-- Point72
-- New York City Partnership
 - Fox News
 date: '2025-11-09'
 draft: true

@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 中央美术学院
 date: '2024-09-01'
 draft: true
 guest: ''

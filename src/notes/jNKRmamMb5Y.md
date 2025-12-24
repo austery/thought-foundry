@@ -3,11 +3,8 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - FBI
-- Miami Herald
 - Justice Department
-- New York Magazine
 - Fox News
-- The New Yorker
 date: '2025-11-16'
 draft: true
 guest: ''

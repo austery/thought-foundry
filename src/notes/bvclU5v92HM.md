@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 视野环球财经
 - 伯克希尔·哈撒韦
 - Google
 - Microsoft
@@ -12,8 +11,6 @@ companies_orgs:
 - 甲骨文
 - Nvidia
 - 美国银行
-- 美国运通
-- 联合健康
 - AMD
 - Meta
 date: '2025-11-15'

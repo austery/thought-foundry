@@ -3,9 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - US Army
-- Los Angeles Police Department
-- Immigration and Customs Enforcement
-- California National Guard
 - Democratic Party
 - Republican Party
 - Hamas
@@ -31,7 +28,8 @@ people:
 - Kim Jong Un
 - Gavin Newsom
 - Daniel Lurie
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

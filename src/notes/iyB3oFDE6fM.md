@@ -2,16 +2,10 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- 富达基金
 - 迪士尼
 - 耐克
-- Gap
-- 家得宝
-- Supercuts
-- The Body Shop
 - IBM
 - 克莱斯勒
-- 吉列
 date: '2025-06-01'
 draft: true
 guest: ''

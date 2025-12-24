@@ -2,13 +2,7 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- Harvard Medical School
-- Indiana State University
-- Indiana University School of Medicine
 - LinkedIn
-- OnePassword
-- Function Health
-- Manchester United
 date: '2025-11-06'
 draft: true
 guest: ''

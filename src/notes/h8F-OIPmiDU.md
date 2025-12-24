@@ -3,13 +3,7 @@ area: society-systems
 category: culture
 companies_orgs:
 - Bayer
-- 北京天坛医院
-- 北京顺心控股有限公司
-- 中国科技部
-- 北京同仁堂
-- 国际癌症研究机构
 - 中共中央
-- 上海市卫生局
 date: '2025-11-20'
 draft: true
 guest: ''
@@ -26,17 +20,6 @@ media_books:
 - 《天工开物》
 people:
 - George Washington
-products_models:
-- 阿司匹林
-- 中风醒脑口服液
-- 仁丹
-- 治保丹
-- 止血丹
-- 苏合香丸
-- 朱砂安神丸
-- 安宫牛黄丸
-- 安神补脑液
-- 当归苦参丸
 project:
 - china-analysis
 - historical-insights

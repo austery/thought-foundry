@@ -4,10 +4,8 @@ category: stock-investment
 companies_orgs:
 - Nvidia
 - 亚马逊
-- 华纳兄弟探索公司
 - 迪士尼
 - 彭博社
-- 晨星
 date: '2024-07-15'
 draft: true
 guest: ''
@@ -21,8 +19,6 @@ people:
 products_models:
 - Max
 - Disney+
-- Amazon Prime
-- Hulu
 project:
 - investment-strategy
 - us-analysis

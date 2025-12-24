@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- DAAD
 date: '2024-10-26'
 draft: true
 guest: ''

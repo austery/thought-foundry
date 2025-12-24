@@ -5,14 +5,9 @@ companies:
 - intellectuals-role
 companies_orgs:
 - 中央电视台
-- 广电部
 - 新华社
 - 人民日报
-- 威斯康辛大学
 - 北京大学
-- 中央宣传部
-- 中央书记处
-- 中共中央政治局
 date: '2024-10-12'
 draft: true
 guest: ''
@@ -40,9 +35,6 @@ people:
 - 胡适
 - 陈寅恪
 - 郭沫若
-products_models:
-- 《河殇》
-- 《五四》
 project:
 - china-analysis
 - historical-insights

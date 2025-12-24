@@ -2,7 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 小米公司
 - 新浪
 - 微博
 - 抖音
@@ -27,9 +26,6 @@ people:
 products_models:
 - NFT数字藏品
 - X
-- 雷明顿870
-- 《捞女游戏》
-- 《黑神话悟空》
 project:
 - china-analysis
 - systems-thinking

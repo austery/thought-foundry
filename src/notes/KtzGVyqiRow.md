@@ -3,16 +3,9 @@ area: market-analysis
 category: business
 companies_orgs:
 - Bloomberg
-- Zeno's Pizza
-- Oxford Cafe
-- Namora
 - BlackRock
-- Con Edison
-- New York City Department of Education
 - Chipotle
 - Uber
-- GrubHub
-- Caviar
 date: '2025-08-04'
 draft: true
 guest: ''
@@ -28,8 +21,6 @@ people:
 - Kale Brooks
 - Eric Adams
 - Andrew Cuomo
-products_models:
-- Pizza Masters
 project:
 - entrepreneurship
 - market-cycles

@@ -2,8 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Macdonald-Laurier Institute
-- Carleton University
 - NATO
 date: '2025-11-13'
 draft: true
@@ -15,7 +13,6 @@ media_books:
 people:
 - Mark Carney
 products_models:
-- CAF Cybercom
 - Golden Dome
 project:
 - us-analysis

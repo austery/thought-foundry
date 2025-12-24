@@ -3,21 +3,11 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - APEC
-- Hyundai Motor
-- Global Data
-- PitchBook
-- Securities Times
 - KPMG
 - ByteDance
 - Sequoia Capital
-- China Agricultural Bank
-- Industrial Bank
-- China Three Gorges Corporation
-- China Southern Power Grid
 - BNP Paribas
 - Nomura Securities
-- ICMA
-- United Nations Climate Change Conference
 - Chinese Communist Party
 - People's Daily
 date: '2025-11-24'
@@ -36,10 +26,7 @@ people:
 - Sanae Takaichi
 - Xi Jinping
 products_models:
-- Zhipu AI
-- Deep Seek
 - Tesla
-- Mercedes-Benz
 project:
 - china-analysis
 - geopolitics-watch

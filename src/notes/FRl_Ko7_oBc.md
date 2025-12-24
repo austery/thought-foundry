@@ -2,12 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 金马奖
-- 中央宣传部
-- 国家广播电影电视总局
-- 斗鱼
 - 币安
-- 传音
 date: '2025-11-28'
 draft: true
 guest: ''

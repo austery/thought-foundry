@@ -5,7 +5,6 @@ companies_orgs:
 - General Motors
 - Ford
 - Stellantis
-- American Automotive Policy Council (AAPC)
 date: 2025-05-17
 draft: true
 guest: ''
@@ -17,9 +16,6 @@ people:
 - Donald Trump
 - Peter Navarro
 - Adam Smith
-products_models:
-- Boeing aircraft
-- ethanol
 project:
 - us-analysis
 - china-analysis

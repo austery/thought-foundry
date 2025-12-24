@@ -2,7 +2,6 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Reducto
 - OpenAI
 date: '2025-12-23'
 draft: true

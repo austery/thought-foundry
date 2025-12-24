@@ -6,9 +6,7 @@ companies_orgs:
 - Merrill Lynch
 - CNBC
 - Uber
-- PipeDrive
 - LinkedIn
-- Stanstorm
 date: '2025-10-23'
 draft: true
 guest: ''

@@ -2,14 +2,11 @@
 area: society-systems
 category: general
 companies_orgs:
-- Khan Academy
 - Norges Bank Investment Management
 - OpenAI
 - MIT
 - CNN
 - The New York Times
-- ASU
-- Tufts University
 - Harvard
 date: '2024-04-17'
 draft: true
@@ -29,7 +26,6 @@ products_models:
 - GPT-3
 - GPT-3.5
 - GPT-4
-- Khanmigo
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -11,10 +11,7 @@ companies_orgs:
 - University of Virginia
 - The Economist
 - International Monetary Fund
-- Macquarie Bank
 - Chinese Communist Party
-- China Customs Administration
-- East India Company
 - European Union
 date: '2025-12-12'
 draft: true

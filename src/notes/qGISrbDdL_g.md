@@ -8,9 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Arduino
-- Raspberry Pi
 project:
 - systems-thinking
 series: ''

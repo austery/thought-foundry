@@ -4,10 +4,7 @@ category: geopolitics
 companies_orgs:
 - 自由党
 - 保守党
-- 魁人政团
 - NDP
-- 绿党
-- 众议院
 - 美国国务院
 date: '2025-05-04'
 draft: true

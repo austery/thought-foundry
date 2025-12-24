@@ -18,7 +18,6 @@ companies_orgs:
 - Fundstrat
 - Federal Reserve
 - OpenAI
-- Vantage Data Centers
 - Wells Fargo
 - Goldman Sachs
 - JPMorgan Chase
@@ -70,8 +69,6 @@ products_models:
 - Ethereum
 - Bitcoin
 - IBIT
-- JPM Coin
-- Snapchat Spectacles
 project:
 - us-analysis
 - investment-strategy

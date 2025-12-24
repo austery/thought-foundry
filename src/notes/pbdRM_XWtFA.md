@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 共青团中央
-- 中信
 - 中宣部
 date: '2024-02-03'
 draft: true

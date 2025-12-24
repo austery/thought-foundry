@@ -6,7 +6,6 @@ companies_orgs:
 - Google
 - Microsoft
 - OpenAI
-- 科大讯飞
 date: '2025-12-02'
 draft: true
 guest: ''
@@ -22,15 +21,9 @@ products_models:
 - Codex
 - Whisper
 - Python
-- Homebrew
 - Git
 - Grok
 - DeepSeek
-- ComfyUI
-- Notebook.LM
-- RemNote
-- Docard
-- Mac mini
 project:
 - personal-growth-lab
 - knowledge-pipeline

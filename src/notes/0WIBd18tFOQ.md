@@ -3,11 +3,8 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - FBI
-- DHS
 - ICE
 - DOJ
-- ProPublica
-- AAP
 - MIT
 - United Nations
 - Fox News

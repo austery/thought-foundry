@@ -7,8 +7,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- tpu
 project:
 - ai-impact-analysis
 series: ''

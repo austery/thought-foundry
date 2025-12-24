@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- CCTV Movie Channel
 - 人民日报
-- 外交部
-- Central Literature Research Office
 - 公安局
 date: '2025-12-01'
 draft: true
@@ -45,11 +42,6 @@ people:
 - 李厚诚
 products_models:
 - iPhone
-- THAAD missile
-- Android phone
-- WPS Office
-- BCG vaccine
-- Smallpox vaccine
 project:
 - china-analysis
 - geopolitics-watch

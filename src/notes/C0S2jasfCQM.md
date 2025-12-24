@@ -1,8 +1,6 @@
 ---
 area: society-thinking
 category: philosophy-thinking
-companies_orgs:
-- 中科院经济所
 date: '2025-12-20'
 draft: true
 guest: ''

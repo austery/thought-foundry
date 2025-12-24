@@ -21,7 +21,6 @@ people:
 products_models:
 - Cursor
 - Jira
-- Confluence
 - Notion
 - Figma
 - GitHub
@@ -31,8 +30,6 @@ products_models:
 - DeepSeek
 - Gemini
 - Zapier
-- News API
-- SEM Rush
 - Claude Sonnet 4
 - Google Docs
 - Excel

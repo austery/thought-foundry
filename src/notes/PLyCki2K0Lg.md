@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Anthropic
-- Linux Foundation
 - Google
 - Microsoft
 - Amazon

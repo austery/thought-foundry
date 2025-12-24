@@ -4,9 +4,6 @@ category: geopolitics
 companies_orgs:
 - Federal Reserve
 - Apple
-- Brown Brothers Harriman
-- Quantum Fund
-- Key Square
 - White House
 - Bloomberg
 date: '2025-05-18'

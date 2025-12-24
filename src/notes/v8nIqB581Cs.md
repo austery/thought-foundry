@@ -5,12 +5,8 @@ companies_orgs:
 - FBI
 - White House
 - Pentagon
-- Medicare
-- Department of the Interior
-- National Park Service
 - Hamas
 - United Airlines
-- Disneyland
 date: '2025-11-26'
 draft: true
 guest: ''

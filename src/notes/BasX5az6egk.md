@@ -5,7 +5,6 @@ companies_orgs:
 - Microsoft
 - Tesla
 - Salesforce
-- 巴克莱
 - 美联储
 date: '2025-12-04'
 draft: true

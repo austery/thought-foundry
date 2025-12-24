@@ -4,22 +4,13 @@ category: lifestyle
 companies:
 - bicycle-touring
 companies_orgs:
-- Acura
 - Toyota
 - Honda
-- Lincoln
-- Lexus
 - BMW
 - Mercedes-Benz
 - Ford
 - Tesla
 - Cadillac
-- Specialized
-- Canyon
-- State Bicycle Co.
-- Raybould
-- DT Swiss
-- Notre Dame
 date: 2025-07-04
 draft: true
 guest: ''
@@ -27,21 +18,7 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 products_models:
-- Acura Legend
-- Toyota Camry
-- Buick Park Avenue
-- Lincoln Town Car
-- Lexus LS460
-- Mercedes-Benz E63 AMG
 - Ford F-150
-- Ford Mustang
-- Tesla Model 3
-- BMW X5
-- Volkswagen GTI
-- Specialized Roubaix
-- Canyon Endurance
-- Raybould CGR725
-- Nokia
 project:
 - personal-growth-lab
 - historical-insights

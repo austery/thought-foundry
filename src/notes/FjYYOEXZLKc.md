@@ -4,10 +4,6 @@ category: politics-society
 companies_orgs:
 - New York Times
 - ICE
-- Border Patrol
-- DHS
-- ACLU
-- CBP
 date: '2025-11-13'
 draft: true
 guest: ''

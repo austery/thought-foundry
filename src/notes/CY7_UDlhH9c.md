@@ -3,8 +3,6 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
-- Cleveland Clinic
-- German Music Academy
 date: '2024-04-26'
 draft: true
 guest: ''

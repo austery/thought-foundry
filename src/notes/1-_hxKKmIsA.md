@@ -4,11 +4,6 @@ category: finance
 companies_orgs:
 - Blackstone
 - Norges Bank Investment Management
-- Hilton Hotels
-- First Republic
-- SmartSheet
-- Tropical Smoothie
-- Corweave
 date: '2025-01-02'
 draft: true
 guest: ''
@@ -17,8 +12,6 @@ layout: post.njk
 media_books: []
 people:
 - Mark Zuckerberg
-products_models:
-- Nvidia GPUs
 project:
 - investment-strategy
 - market-cycles

@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Healing Tao USA
 date: '2025-01-16'
 draft: true
 guest: ''

@@ -7,7 +7,6 @@ companies_orgs:
 - Nvidia
 - 亚马逊
 - 伯克希尔·哈撒韦
-- 罗斯柴尔德家族
 date: '2025-11-12'
 draft: true
 guest: ''

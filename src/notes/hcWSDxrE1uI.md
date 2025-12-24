@@ -7,8 +7,6 @@ companies_orgs:
 - Norges Bank Investment Management
 - YouTube
 - Waymo
-- Wing
-- Intrinsic
 - Nvidia
 - Morgan Stanley
 - US Treasury
@@ -17,7 +15,6 @@ companies_orgs:
 - AIG
 - Walmart
 - Google DeepMind
-- Google Labs
 date: '2025-03-12'
 draft: true
 guest: ''
@@ -38,13 +35,9 @@ products_models:
 - Gemini
 - TPUs
 - AlphaFold
-- Willow Quantum chip
 - Android
-- Transformer paper
 - AI Overviews
-- Trillium chip
 - NotebookLM
-- Google Lens
 project:
 - ai-impact-analysis
 - entrepreneurship

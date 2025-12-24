@@ -2,20 +2,16 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- National Security Administration
 - US Congress
 - National Institute of Standards and Technology
 - IBM
 - Microsoft
-- Alphabet X
 date: '2023-03-20'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- RSA
-- General Number Field Sieve
 - Brilliant
 project:
 - ai-impact-analysis

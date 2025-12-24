@@ -3,9 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Goldman Sachs
-- Rex Shares
-- Curve ETF
-- Yieldmax
 - Seeking Alpha
 date: '2025-12-15'
 draft: true
@@ -17,32 +14,8 @@ media_books:
 people:
 - Darren
 products_models:
-- SPYM
-- SPMO
-- QQQM
-- MAGS
 - SMH
-- GLDM
-- JEPI
-- JEPQ
-- BOXX
 - IBIT
-- GPIX
-- GPIQ
-- YBTC
-- TSII
-- NVII
-- PLTI
-- HOII
-- KGLD
-- TSLY
-- NVDY
-- SPYI
-- TSPY
-- QDVO
-- YTSL
-- YNVD
-- PLTE
 project:
 - investment-strategy
 - market-cycles

@@ -13,7 +13,6 @@ companies_orgs:
 - ASML
 - SoFi
 - Figure
-- Denny's
 - Department of Energy
 - OpenAI
 - Perplexity
@@ -30,7 +29,6 @@ companies_orgs:
 - Synopsis
 - Cadence
 - Caterpillar
-- Agility Robotics
 - Johnson & Johnson
 - Apple
 - IBM
@@ -54,22 +52,10 @@ products_models:
 - Vera Rubin
 - CUDA
 - GTC
-- NVL 144
 - Arc
-- QPU
 - GPU
-- DGX1
 - Omniverse
-- DSX
-- Jetson Thor
-- Drive Hyperion
-- Palantir Ontology
 - ChatGPT
-- CUDA Q
-- Spectrum X
-- MVLink
-- Bluefield
-- ConnectX
 project:
 - ai-impact-analysis
 - us-analysis

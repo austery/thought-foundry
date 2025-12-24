@@ -19,12 +19,10 @@ people:
 - Mark Zuckerberg
 - Elon Musk
 products_models:
-- Full Self-Driving
 - Autopilot
 - ChatGPT
 - GPT-3
 - GPT-4
-- Gamma AI
 project:
 - ai-impact-analysis
 - market-cycles

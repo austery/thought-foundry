@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - FBI
-- 旧金山顶级企业安保公司
 date: '2025-12-06'
 draft: true
 guest: ''

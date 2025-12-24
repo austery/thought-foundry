@@ -3,7 +3,6 @@ area: society-systems
 category: finance
 companies_orgs:
 - 万科
-- 摩尔县城
 - Nvidia
 - Alibaba
 - ByteDance
@@ -18,11 +17,6 @@ companies_orgs:
 - 宁德时代
 - 国际货币基金组织
 - 中金公司
-- 广东省
-- 深圳
-- 北京
-- 上海机场集团
-- 中国中免
 - 财政部
 date: '2025-12-10'
 draft: true

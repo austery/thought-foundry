@@ -7,9 +7,6 @@ companies_orgs:
 - 国民党
 - 民进党
 - 中国共产党
-- 美国在台协会
-- 民主基金会
-- 改革党
 date: '2025-12-09'
 draft: true
 guest: ''

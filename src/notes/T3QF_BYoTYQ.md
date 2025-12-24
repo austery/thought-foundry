@@ -15,10 +15,7 @@ companies_orgs:
 - Cato Institute
 - Department of Homeland Security
 - Hyundai
-- Adani Group
 - Department of Labor
-- Immigration and Customs Enforcement (ICE)
-- X (formerly Twitter)
 date: '2025-09-26'
 draft: true
 guest: ''
@@ -34,8 +31,6 @@ people:
 - Laura Loomer
 products_models:
 - H-1B visa
-- Green Card
-- Genius Act
 project:
 - us-analysis
 - geopolitics-watch

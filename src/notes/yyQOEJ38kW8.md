@@ -5,21 +5,16 @@ companies_orgs:
 - Bloomberg
 - IMF
 - Bank of England
-- Office of Budget Responsibility
 - Congressional Budget Office
 - Conservative Party
 - Labour Party
 - World Bank
 - ECB
 - NHS
-- Reform Party
-- Judicial Appointments Commission
-- Ofcom
 - Republican Party
 - Democratic Party
 - EU
 - World Trade Organization
-- Palestine Action
 - ISIS
 - BBC
 date: '2025-08-28'
@@ -46,12 +41,6 @@ people:
 - Carmen Rodriguez
 products_models:
 - OddLots podcast
-- mini budget
-- 10 Years to Save the West
-- triple lock pension
-- Human Rights Act
-- Constitutional Reform Act
-- Online Safety Act
 project:
 - us-analysis
 - geopolitics-watch

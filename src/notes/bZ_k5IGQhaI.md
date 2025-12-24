@@ -9,8 +9,6 @@ companies_orgs:
 - 甲骨文
 - 耐克
 - OpenAI
-- 银狐资本
-- MGX
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -19,7 +17,6 @@ layout: post.njk
 media_books: []
 people: []
 products_models:
-- SOXX
 - SMH
 - TikTok
 project:

@@ -2,20 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Queen's Park
 - University of Toronto
-- United Church
 - Liberal Party
-- PC Party
 - NDP
 - LCBO
-- OLG
-- Hydro One
-- Women's Directorate
 - Ministry of Health
-- Ministry of the Attorney General
-- Toronto Board of Education
-- Citizens for Local Democracy
 date: '2025-11-08'
 draft: true
 guest: ''

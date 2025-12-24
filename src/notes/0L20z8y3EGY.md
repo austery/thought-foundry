@@ -25,8 +25,6 @@ people:
 - Yuri Gagarin
 - Hannah Arendt
 - Einstein
-products_models:
-- Ever Given
 project:
 - systems-thinking
 - historical-insights

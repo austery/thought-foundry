@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Hebrew University of Jerusalem
 - Google
 - KGB
 date: '2025-12-11'

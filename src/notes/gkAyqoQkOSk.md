@@ -4,12 +4,9 @@ category: ai-ml
 companies_orgs:
 - OpenAI
 - Google
-- Moshi
-- Sesame
 - Meta
 - MediaTek
 - Amazon
-- NTU Cool
 date: '2025-05-24'
 draft: true
 guest: ''
@@ -24,24 +21,9 @@ products_models:
 - GPT-4o
 - Gemini
 - GLM
-- STEP
-- Q1
-- KeyMe
 - Maya
-- Codec-SUPERB
-- DASB
-- AudioLM
-- VALLE
 - BERT
-- Twist
-- Breezy Voice
-- Spectron
-- Mini-Omni
-- Lamaomi
-- TASTE
 - Llama 3
-- Llama 3.2
-- Cool Whisper
 - NotebookLM
 project:
 - ai-impact-analysis

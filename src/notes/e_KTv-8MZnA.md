@@ -3,13 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - GIC
-- 蔚来汽车
 - 宁德时代
-- 湖北省科技投资集团有限公司
-- 国泰君安国际控股有限公司
-- 武汉蔚能电池资产有限公司
 - SEC
-- 灰熊
 date: '2025-10-18'
 draft: true
 guest: ''

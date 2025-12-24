@@ -37,7 +37,6 @@ products_models:
 - S&P 500
 - YouTube
 - Twitter
-- Lemonade
 project:
 - fire-movement
 - investment-strategy

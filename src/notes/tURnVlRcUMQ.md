@@ -9,9 +9,7 @@ companies_orgs:
 - 台积电
 - 三星
 - 海力士
-- 镁光
 - Astera Labs
-- Credo
 - Anthropic
 date: '2025-12-09'
 draft: true
@@ -23,15 +21,8 @@ media_books:
 people:
 - Tristan Hume
 products_models:
-- Trainium3
-- Trainium4
-- Trainium2
 - GB200
 - NVL72
-- MI450X
-- TPU V7
-- Graviton4
-- DeepSeek 670B
 - H100
 - GB300
 project:

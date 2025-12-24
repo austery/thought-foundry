@@ -3,7 +3,6 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - Shopify
-- Georgetown Law School
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -16,7 +15,6 @@ media_books:
 people:
 - Joe Rogan
 products_models:
-- Keton IQ
 - Whisper Flow
 project:
 - personal-growth-lab

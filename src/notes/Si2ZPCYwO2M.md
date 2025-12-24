@@ -2,12 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中日友好医院
-- 保武钢铁
-- 日铁
-- 大象工会
-- 巴黎俱乐部
-- 日本国际协力银行
 - IMF
 date: '2025-12-05'
 draft: true
@@ -31,8 +25,6 @@ people:
 - Narendra Modi
 - Vladimir Putin
 - Donald Trump
-products_models:
-- 红富士苹果
 project:
 - china-analysis
 - geopolitics-watch

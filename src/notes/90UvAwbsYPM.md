@@ -4,7 +4,6 @@ category: culture
 companies:
 - intellectual-dilemma
 companies_orgs:
-- Peking University
 - Communist Party
 - Kuomintang
 date: '2025-03-29'

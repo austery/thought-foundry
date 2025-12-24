@@ -3,12 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 中芯国际
-- 中芯北方
-- 中芯南方
-- 中芯京城
-- 中芯深圳
-- 中芯东方
-- 国家芯片大基金
 - 华为
 - 寒武纪
 date: '2025-09-01'
@@ -16,9 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 麒麟9010
-- Pura 70
 project:
 - china-analysis
 - investment-strategy

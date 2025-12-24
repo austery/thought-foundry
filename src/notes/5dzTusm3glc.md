@@ -3,7 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - Fraser Institute
-- Wowa
 date: '2024-03-17'
 draft: true
 guest: ''

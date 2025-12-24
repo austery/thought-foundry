@@ -3,9 +3,7 @@ area: society-systems
 category: psychology
 companies_orgs:
 - TVO Today
-- Suno AI
 - Antica Productions
-- Simon Fraser University
 date: '2025-11-05'
 draft: true
 guest: ''

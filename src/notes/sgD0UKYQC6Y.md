@@ -20,9 +20,7 @@ people:
 - Steve Jobs
 products_models:
 - ChatGPT
-- Robo Taxi
 - Gemini CLI
-- n8n
 - Claude Code
 project:
 - ai-impact-analysis

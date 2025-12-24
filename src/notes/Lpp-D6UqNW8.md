@@ -4,8 +4,6 @@ category: geopolitics
 companies:
 - artificial-superintelligence
 companies_orgs:
-- Atreides Management
-- Fidelity Investments
 - Google
 - Netflix
 - Amazon
@@ -17,14 +15,11 @@ companies_orgs:
 - Microsoft
 - Meta
 - AMD
-- Cerebras
 - Groq
 - AWS
-- Annapurna Labs
 - TSMC
 - Intel
 - ASML
-- KLA
 - Anduril
 - SpaceX
 - Neuralink

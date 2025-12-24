@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: business
-companies_orgs:
-- Head AI
-- Aha
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -17,9 +14,7 @@ media_books:
 - LinkedIn
 - Twitter
 products_models:
-- Webflow
 - Figma
-- AI SOAP
 project:
 - entrepreneurship
 - personal-growth-lab

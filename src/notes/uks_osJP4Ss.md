@@ -6,11 +6,7 @@ companies_orgs:
 - 通用电气
 - FICO
 - 比亚迪
-- 劳斯莱斯
-- 雷神集团
-- 海尔
 - 伯克希尔
-- 美国联邦住房金融署
 date: '2025-06-09'
 draft: true
 guest: ''

@@ -3,10 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- Transportation Security Administration
-- Immigration and Customs Enforcement (ICE)
 - Department of Homeland Security
-- Human Rights First
 date: '2025-12-15'
 draft: true
 guest: ''
@@ -22,9 +19,6 @@ people:
 - Will Jarvis
 - Rob Reiner
 - Barack Obama
-products_models:
-- Jack Daniels
-- Barefoot Wine
 project:
 - us-analysis
 - historical-insights

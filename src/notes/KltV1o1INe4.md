@@ -22,9 +22,6 @@ people:
 - Joe Biden
 products_models:
 - Model Y
-- HW5
-- FSD Supervised
-- Optimus Robot
 - Robotaxi
 project:
 - investment-strategy

@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Title IX office
-- bias response team
 date: '2025-12-13'
 draft: true
 guest: ''
@@ -16,7 +13,6 @@ people:
 - Anthony
 products_models:
 - PDF
-- PPT
 project:
 - china-analysis
 - cultural-critique

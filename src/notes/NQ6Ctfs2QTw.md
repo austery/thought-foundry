@@ -2,12 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Chinese Academy of Sciences
 - Huawei
-- State Grid Corporation of China
-- Sinopec
 - Baidu
-- Gree Electric
 - Communist Party of China
 date: '2025-10-18'
 draft: true
@@ -35,7 +31,6 @@ people:
 - Bertrand Russell
 - Karl Popper
 products_models:
-- 两弹一星
 - 东风导弹
 project:
 - china-analysis

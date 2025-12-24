@@ -6,10 +6,8 @@ companies_orgs:
 - Amazon
 - Walmart
 - UPS
-- DHL
 - ICE
 - CBS
-- KA
 date: '2025-11-04'
 draft: true
 guest: ''
@@ -27,9 +25,6 @@ people:
 - Nicholas Maduro
 - JD Vance
 - Marco Rubio
-products_models:
-- Sparrow
-- LLM models
 project:
 - ai-impact-analysis
 - us-analysis

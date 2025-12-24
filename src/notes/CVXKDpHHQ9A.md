@@ -6,7 +6,6 @@ companies_orgs:
 - Google
 - 国民党
 - 共产党
-- 日本关东军
 - 网信办
 date: '2025-09-27'
 draft: true
@@ -23,7 +22,6 @@ people:
 - 蒋介石
 - 吴京
 products_models:
-- Content ID
 - 高德地图
 project:
 - china-analysis

@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - BASF
-- Kaiser Wilhelm Institute for Physical Chemistry
 - New York Times
 date: '2023-10-07'
 draft: true
@@ -17,7 +16,6 @@ people:
 - Otto Hahn
 products_models:
 - Snatoms
-- Zyklon B
 project:
 - historical-insights
 - systems-thinking

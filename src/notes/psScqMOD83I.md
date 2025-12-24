@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- Plato's Academy of Athens
-- Lyceum
 date: '2023-05-21'
 draft: true
 guest: ''

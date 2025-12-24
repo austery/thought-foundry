@@ -22,8 +22,6 @@ people:
 products_models:
 - Photoshop
 - Premiere Pro
-- Adobe Acrobat
-- SGL-105
 project:
 - us-analysis
 - investment-strategy

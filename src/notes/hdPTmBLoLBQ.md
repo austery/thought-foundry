@@ -10,7 +10,6 @@ companies_orgs:
 - Tesla
 - Hims & Hers
 - CoreWeave
-- YourBio Health
 - NASA
 - SEC
 - SDA
@@ -33,7 +32,6 @@ products_models:
 - Electron Rocket
 - Neutron Rocket
 - Starlink
-- Labs
 project:
 - investment-strategy
 - us-analysis

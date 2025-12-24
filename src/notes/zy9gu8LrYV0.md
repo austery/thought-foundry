@@ -2,21 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Rosneft
-- Lukoil
-- Gazprom
-- Surgutneftegas
 - 中石化
 - 中石油
-- 中海油
-- 振华石油
 - OPEC
 - 欧盟
 - G7
-- 辽阳石化公司
-- 山东裕隆石化有限公司
-- 中国石油香港有限公司
-- 天津西山福盛国际贸易有限公司
 - 中央军委
 - 中国共产党
 date: '2025-10-23'

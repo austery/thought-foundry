@@ -3,10 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - TVO Today
-- Ontario Secondary School Teachers Federation
 - University of Toronto
-- Peninsula Canada
-- Advanced Symbolics Inc.
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -17,8 +14,6 @@ media_books:
 people:
 - Charlie Kirk
 - Jeyan Jeganathan
-products_models:
-- Poly
 project:
 - geopolitics-watch
 - us-analysis

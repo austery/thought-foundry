@@ -11,7 +11,6 @@ companies_orgs:
 - Microsoft
 - Palantir
 - Anduril
-- Fair Shake
 date: '2025-12-04'
 draft: true
 guest: ''
@@ -31,11 +30,6 @@ people:
 - JD Vance
 - Donald Trump
 - Joe Biden
-products_models:
-- 'Gilded Rage: Elon Musk and the Radicalization of Silicon Valley'
-- The Making of Elon Musk
-- Stanford Review
-- Thy Diversity Myth
 project:
 - us-analysis
 - geopolitics-watch

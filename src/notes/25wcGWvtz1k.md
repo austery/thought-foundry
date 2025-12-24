@@ -3,16 +3,11 @@ area: society-systems
 category: culture
 companies_orgs:
 - 皮尤研究中心
-- Saily
 date: '2025-10-02'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- eSIM
-- 智能手机
-- 社交媒体
 project:
 - cultural-critique
 - systems-thinking

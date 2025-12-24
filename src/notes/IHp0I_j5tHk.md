@@ -2,12 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Western Union
-- SDC Pay
-- Jahz
-- Tabby
-- Tamara
-- Noon
 - Amazon
 date: '2025-05-28'
 draft: true

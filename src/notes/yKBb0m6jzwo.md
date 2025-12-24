@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 美国国务院
 - 美国国土安全部
-- 美国移民与海关执法局
 date: 2025-04-12
 draft: true
 guest: ''
@@ -13,7 +12,8 @@ layout: post.njk
 media_books: '[]'
 people:
 - Donald Trump
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

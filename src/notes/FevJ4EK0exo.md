@@ -4,7 +4,6 @@ category: macro-economy
 companies_orgs:
 - Bloomberg
 - Federal Reserve
-- San Francisco Fed
 - BLS
 - FOMC
 - ADP
@@ -24,7 +23,6 @@ people:
 - Jerome Powell
 products_models:
 - iPhone
-- Blackberry
 - Truth Social
 project:
 - us-analysis

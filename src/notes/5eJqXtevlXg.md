@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- BetterUp
 - OpenAI
 - Meta
 date: '2025-11-24'
@@ -12,10 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Agents Rule of Two
-products_models:
-- Codeex CLI
-- Clog Code
-- OpenAI's API
 project:
 - ai-impact-analysis
 - systems-thinking

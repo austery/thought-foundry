@@ -1,16 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 韩国国会
-- 检察厅
-- 法务部
-- 行政安全部
-- 首尔地方法院
-- 首尔中央地检
-- 共同民主党
-- 国民力量党
-- 检察审查会
 date: '2025-11-05'
 draft: true
 guest: ''

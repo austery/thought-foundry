@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 印度中央调查局
-- GK GT
-- 美国联邦调查局
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -14,11 +10,9 @@ media_books:
 - 《三傻大闹宝莱坞》
 - 彭博社
 products_models:
-- Skype
 - Telegram
 - Facebook
 - USDT
-- Aadhaar
 project:
 - systems-thinking
 - geopolitics-watch

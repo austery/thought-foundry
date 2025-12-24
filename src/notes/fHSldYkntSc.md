@@ -19,10 +19,8 @@ companies_orgs:
 - Tesla
 - Grab
 - TSM
-- Baba
 - Shopify
 - Disney
-- Thrive Capital
 - Anthropic
 - AMD
 - Microsoft
@@ -57,13 +55,11 @@ people:
 - Elon Musk
 - Jerome Powell
 products_models:
-- GPT 5.2
 - Gemini Flash
 - H100
 - Blackwell
 - CUDA
 - NVLink
-- PeopleSoft
 - Starlink
 - Obamacare
 project:

@@ -10,11 +10,6 @@ companies_orgs:
 - Tesla
 - Barclays
 - OpenAI
-- 田纳西河谷管理局
-- 霍尔泰克国际公司
-- 美国核管理委员会
-- 泰拉能源公司
-- 标普500指数
 date: '2025-12-05'
 draft: true
 guest: ''

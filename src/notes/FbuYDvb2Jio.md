@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 欧盟委员会
-- 欧洲外交关系委员会
 date: 2025-04-15
 draft: true
 guest: ''
@@ -19,7 +18,8 @@ people:
 - Ursula von der Leyen
 - 李强
 - J.D. Vance
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

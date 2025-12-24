@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Institute of Physics
-- American Physical Society
-- Iranian Revolutionary Guard Corps
 date: 2025-10-31
 draft: true
 guest: ''
@@ -44,14 +40,6 @@ people:
 - Pythagoras
 - Shaquille O'Neal
 - Michael Jordan
-products_models:
-- Yang-Mills gauge theory
-- Newton's Laws of Motion
-- Theory of Relativity
-- Quantum Mechanics
-- Artemisinin
-- Seismograph
-- H-index
 project:
 - historical-insights
 - cultural-critique

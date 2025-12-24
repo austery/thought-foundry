@@ -14,13 +14,9 @@ layout: post.njk
 products_models:
 - Claude Opus 4.5
 - Claude Code
-- Claude for Chrome
-- ChatGPT Atlas
 - GPT 5.1
 - Gemini 3
-- Gemini Nano Banana Pro
 - Google AI Studio
-- Google Finance
 - Google Sheets
 project:
 - ai-impact-analysis

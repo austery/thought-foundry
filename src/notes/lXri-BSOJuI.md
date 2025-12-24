@@ -1,6 +1,8 @@
 ---
 area: market-analysis
 category: finance
+companies:
+- tesla-robotaxi
 companies_orgs: []
 date: '2024-10-15'
 draft: true
@@ -9,7 +11,6 @@ insight: ''
 layout: post.njk
 products_models:
 - fsd
-- optimus-robot
 project:
 - ai-impact-analysis
 - investment-strategy
@@ -23,8 +24,6 @@ tags:
 - ai-investment
 - autonomous-driving
 title: 特斯拉Robotaxi发布会深度解读：投资者视角下的机遇与挑战
-companies:
-- tesla-robotaxi
 ---
 
 ### 对特斯拉Robotaxi发布会的整体看法

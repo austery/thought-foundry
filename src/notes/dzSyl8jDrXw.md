@@ -31,13 +31,8 @@ people:
 products_models:
 - GPU
 - CPU
-- CUDA GPU
-- GEM Meta
 - FSD
-- CURSOR Claude
 - Blackwell
-- Robin
-- Investing Pro
 - 标普500
 project:
 - investment-strategy

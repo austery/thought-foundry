@@ -9,10 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 人类图
-- 葡萄柚精油
-- 解答之书
 project:
 - personal-growth-lab
 series: ''

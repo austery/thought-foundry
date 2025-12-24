@@ -24,10 +24,6 @@ people:
 - 张学良
 - 鲍里斯·约翰逊
 - Vladimir Putin
-products_models:
-- Glid bomb
-- 民用无人机
-- 人工智能大模型
 project:
 - us-analysis
 - historical-insights

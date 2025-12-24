@@ -1,16 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 人道中国
-- 劳改基金
-- 秋雨圣约教会
-- 方舟教会
-- 守望教会
-- 西安教会
-- 信友堂教会
-- 主佑中华团契
-- 波兰团结工会
 date: '2025-07-15'
 draft: true
 guest: ''

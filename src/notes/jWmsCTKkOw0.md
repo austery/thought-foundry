@@ -3,7 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - New York Times Book Review
-- Ladbrokes
 date: '2025-11-21'
 draft: true
 guest: ''

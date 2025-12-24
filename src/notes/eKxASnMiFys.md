@@ -2,14 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- National Electoral Council
-- FARC
-- ELN
-- Hezbollah
 - Hamas
-- Organization of American States
-- Inter-American Commission of Human Rights
-- United Nation
 - Yale University
 - Google
 date: '2025-10-28'

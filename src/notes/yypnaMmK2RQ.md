@@ -8,7 +8,6 @@ companies_orgs:
 - 甲骨文
 - Nvidia
 - 博通
-- 网景
 date: '2025-12-14'
 draft: true
 guest: ''
@@ -22,10 +21,7 @@ people:
 products_models:
 - GPT-5.1
 - GPT-5.2
-- Jamon 3.0
-- Gemini 9
 - Mosaic浏览器
-- IE 1.0
 - Chrome浏览器
 - Android系统
 project:

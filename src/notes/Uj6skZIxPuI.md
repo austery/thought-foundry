@@ -19,10 +19,7 @@ people:
 - Nat Friedman
 products_models:
 - 《我们是谁，我们从何而来：古DNA与人类新史学》
-- 《反谷物：深层历史、国家暴政与农民的抵抗艺术》
-- 《罗马的命运：气候、疾病与帝国的终结》
 - FOXP2基因
-- Yersinia pestis
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=Uj6skZIxPuI

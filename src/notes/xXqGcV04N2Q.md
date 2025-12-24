@@ -9,7 +9,6 @@ companies_orgs:
 - Meta
 - Oracle
 - TSMC
-- Core Weave
 - OpenAI
 - Anthropic
 - Palo Alto Networks

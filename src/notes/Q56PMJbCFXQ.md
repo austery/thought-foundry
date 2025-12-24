@@ -2,17 +2,11 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Citicorp
-- Saint Peter's
 - Veritasium
 - Red Cross
 - AT&T
 - The New York Times
-- LeMessurier Associates
-- Boston Properties
 - National Institute of Standards and Technology
-- American Institute of Architects
-- Columbia Space Initiative
 date: '2025-04-26'
 draft: true
 guest: ''
@@ -22,8 +16,6 @@ media_books:
 - The New Yorker
 - BBC
 products_models:
-- Citicorp Center
-- Tuned Mass Damper
 - Saily
 project:
 - systems-thinking

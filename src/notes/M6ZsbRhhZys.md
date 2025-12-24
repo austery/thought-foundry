@@ -3,8 +3,6 @@ area: personal-systems
 category: career
 companies_orgs:
 - 腾讯
-- HR
-- 总办
 date: '2025-11-05'
 draft: true
 guest: ''

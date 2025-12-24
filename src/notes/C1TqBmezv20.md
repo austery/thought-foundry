@@ -3,7 +3,6 @@ area: tech-engineering
 category: ai-ml
 companies_orgs:
 - TED
-- World Labs
 date: '2025-11-27'
 draft: true
 guest: ''

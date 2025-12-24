@@ -5,7 +5,6 @@ companies_orgs:
 - 立法院
 - WTO
 - HSBC
-- Workers World Party
 - KFC
 - Starbucks
 date: '2024-06-07'
@@ -26,8 +25,6 @@ people:
 - Andrew Jackson
 - Gandhi
 - Martin Luther King
-products_models:
-- NAFTA
 project:
 - historical-insights
 - us-analysis

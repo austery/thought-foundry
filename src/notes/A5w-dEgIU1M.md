@@ -2,15 +2,8 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Medallion Investment Fund
-- South Sea Company
-- Bourse
-- Royal Mint
-- Chicago Board Options Exchange
-- US Institute for Defense Analysis
 - Renaissance Technologies
 - UCLA
-- Eight Sleep
 date: '2024-02-27'
 draft: true
 guest: ''
@@ -25,12 +18,6 @@ people:
 - Albert Einstein
 - Myron Scholes
 - Henri Poincaré
-products_models:
-- Medallion Fund
-- Eight Sleep Pod
-- Black-Scholes-Merton equation
-- Hidden Markov models
-- Galton board
 project:
 - investment-strategy
 - systems-thinking

@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: education
-companies_orgs:
-- 北大教育学院
-- 清华大学经管院
 date: '2024-08-03'
 draft: true
 guest: ''

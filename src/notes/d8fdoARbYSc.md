@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Demon Slayer Corps
 date: '2025-08-24'
 draft: true
 guest: ''
@@ -17,8 +15,6 @@ people:
 - Carl Jung
 - Leo Tolstoy
 - Rui
-products_models:
-- Youlisn K-song Bluetooth speaker
 project:
 - cultural-critique
 - historical-insights

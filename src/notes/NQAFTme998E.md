@@ -2,8 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- Second City Toronto
-- Toronto Argonauts
 - TVO Today
 date: '2025-11-19'
 draft: true
@@ -23,15 +21,6 @@ people:
 - Jimmy Kimmel
 - Charlie Kirk
 - Barack Obama
-products_models:
-- SCTV
-- Uncle Buck
-- Planes, Trains & Automobiles
-- Home Alone
-- Hostage for a Day
-- Canadian Bacon
-- Cool Runnings
-- Schitt's Creek
 project:
 - historical-insights
 - cultural-critique

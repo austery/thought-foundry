@@ -17,7 +17,6 @@ people:
 products_models:
 - ChatGPT
 - Viv
-- Custom GPT
 project:
 - ai-impact-analysis
 - personal-growth-lab

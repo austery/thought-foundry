@@ -13,10 +13,6 @@ layout: post.njk
 people:
 - 魏士航医师
 - 宋晏仁医师
-products_models:
-- 排糖药
-- 肠泌素
-- 168断食法
 project:
 - personal-growth-lab
 series: ''

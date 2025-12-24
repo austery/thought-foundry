@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - 初日醫學
 - Cofit
-- 遠見眼科
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -14,9 +13,6 @@ people:
 - 宋晏仁
 products_models:
 - iPad
-- 阿托品
-- LASIK
-- LBV
 project:
 - personal-growth-lab
 series: ''

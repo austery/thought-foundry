@@ -19,17 +19,12 @@ companies_orgs:
 - Nebius
 - Iren
 - Ripple
-- Fortress
 - Citadel Securities
 - Unity
-- SolarEdge
-- Enphase
-- Zeta
 - Axon
 - Google
 - Meta
 - Microsoft
-- Neoscale
 - Evercore
 - Jefferies
 - Mizuho
@@ -44,7 +39,6 @@ companies_orgs:
 - Fortinet
 - e.l.f. Beauty
 - Joby Aviation
-- EOSE
 - Snapchat
 - DoorDash
 - Lyft
@@ -63,7 +57,6 @@ companies_orgs:
 - Uber
 - Roblox
 - Reddit
-- Tempest
 - Arista Networks
 - Astera Labs
 - Riot Platforms
@@ -71,13 +64,9 @@ companies_orgs:
 - Applied Digital
 - Cipher Mining
 - CleanSpark
-- Upstart
 - Kratos Defense & Security Solutions
 - Rivian
-- Monroe
 - Pinterest
-- Fubo
-- Fiverr
 - Upwork
 - Eli Lilly
 - Novo Nordisk
@@ -85,7 +74,6 @@ companies_orgs:
 - C3.ai
 - BigBear.ai
 - Bloom Energy
-- Terawulf
 - American Airlines
 - UPS
 - BMW
@@ -132,7 +120,6 @@ products_models:
 - XRP
 - MI450
 - Blackwell
-- R2
 - Ozempic
 project:
 - us-analysis

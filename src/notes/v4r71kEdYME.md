@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- Ikea
-- Headspace
 date: '2024-06-25'
 draft: true
 guest: ''
@@ -15,8 +12,6 @@ media_books:
 people:
 - Daniel Kahneman
 - Amos Tversky
-products_models:
-- Colonoscope
 project:
 - systems-thinking
 - personal-growth-lab

@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - TED
-- University of Sussex
 date: '2025-10-22'
 draft: true
 guest: ''

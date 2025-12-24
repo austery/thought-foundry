@@ -3,18 +3,8 @@ area: society-systems
 category: business
 companies_orgs:
 - Bloomberg
-- Resolution Financial Advisors
-- Alvarez and Marcel
 - Lehman Brothers
 - Silicon Valley Bank
-- Proteiogenics
-- Co-apt
-- Super Pedestrian
-- Lime
-- Bird
-- Bone Dealers
-- Skulls Unlimited
-- The Bone Room
 date: '2025-08-20'
 draft: true
 guest: ''
@@ -25,10 +15,6 @@ people:
 - Tracy Alloway
 - Paul McCartney
 products_models:
-- Chapter 11 bankruptcy
-- Chapter 7 bankruptcy
-- Chapter 13 bankruptcy
-- Assignment for the Benefit of Creditors (ABC)
 - Perplexity
 project:
 - entrepreneurship

@@ -4,13 +4,7 @@ category: geopolitics
 companies_orgs:
 - Bloomberg
 - OddLots
-- Partnership for New York City
-- Chase Bank
-- Cornell Tech
-- Tishman Speyer
 - Pfizer
-- AlleyCorp
-- Business Insider
 date: '2025-07-11'
 draft: true
 guest: ''

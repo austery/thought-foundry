@@ -16,11 +16,9 @@ companies_orgs:
 - Federal Reserve
 - Bureau of Labor Statistics
 - Broadcom
-- Palunteer
 - Oracle
 - Hamas
 - White House
-- Louve Museum
 date: '2025-10-20'
 draft: true
 guest: ''

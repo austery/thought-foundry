@@ -7,7 +7,6 @@ companies_orgs:
 - CoreWeave
 - OpenAI
 - Google
-- Bezos Expedition
 - Money or Life 美股频道
 - Patreon
 date: '2025-09-09'
@@ -16,9 +15,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Gemline
 - ClickHouse
-- Toloka
 project:
 - investment-strategy
 - ai-impact-analysis

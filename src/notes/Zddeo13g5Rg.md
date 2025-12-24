@@ -11,7 +11,6 @@ companies_orgs:
 - Zscaler
 - Zoom
 - CleanSpark
-- Autodesk
 - Federal Reserve
 - Google
 - OpenAI
@@ -24,7 +23,6 @@ companies_orgs:
 - Oscar Health
 - Politico
 - UnitedHealth Group
-- Elevance Health
 - National Guard
 - Bank of America
 - Amazon
@@ -57,9 +55,6 @@ companies_orgs:
 - SpaceX
 - Blue Origin
 - FCC
-- United Launch Alliance
-- Pershing Square
-- Universal Music Group
 - Fox
 date: '2025-11-24'
 draft: true
@@ -98,9 +93,6 @@ products_models:
 - Obamacare
 - Waymo
 - FSD
-- Blackwell GB200
-- Blackwell GB300
-- Nvidia A100
 - Vera Rubin
 - Ethereum
 - Qwen
@@ -108,7 +100,6 @@ products_models:
 - AWS
 - Project Kuiper
 - Grok
-- Nvidia H200
 project:
 - us-analysis
 - investment-strategy

@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - New York Times
 - UPS
-- National Transportation Safety Board
 date: '2025-11-05'
 draft: true
 guest: ''

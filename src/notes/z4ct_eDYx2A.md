@@ -12,12 +12,6 @@ companies_orgs:
 - OpenAI
 - Amazon
 - AWS
-- Raymond James
-- MIT Institute for the Digital Economy
-- SK Ventures
-- Center for Public Enterprises
-- JPM
-- Oregon Public Utilities Commission
 - Blue Owl
 date: '2025-11-14'
 draft: true
@@ -36,11 +30,9 @@ people:
 - Daniel Yergin
 - Steve Eisman
 products_models:
-- S3 bucket
 - GPU
 - Co-pilot
 - Cursor
-- IBM Granite
 project:
 - investment-strategy
 - ai-impact-analysis

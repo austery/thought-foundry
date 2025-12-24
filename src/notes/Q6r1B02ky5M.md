@@ -3,9 +3,6 @@ area: society-systems
 category: lifestyle
 companies_orgs:
 - 卫福部
-- 国健署
-- 初日医學
-- 马偕医院
 date: '2025-01-14'
 draft: true
 guest: ''
@@ -18,7 +15,6 @@ people:
 - 王律婷
 products_models:
 - BMI计算机
-- NOVA System
 - 211餐盘
 project:
 - personal-growth-lab

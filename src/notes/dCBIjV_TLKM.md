@@ -5,12 +5,9 @@ companies_orgs:
 - NVIDIA
 - CATL
 - BYD
-- Rhodium Group
-- Asian Society
 - International Monetary Fund
 - Johns Hopkins University
 - Chinese Communist Party
-- CBC Television
 date: '2025-11-08'
 draft: true
 guest: ''
@@ -30,11 +27,8 @@ people:
 - Steven Mnuchin
 - Wendy Cutler
 products_models:
-- Blackwell chip
 - Tylenol
 - Advil
-- Ibuprofen
-- Acetaminophen
 project:
 - us-analysis
 - china-analysis

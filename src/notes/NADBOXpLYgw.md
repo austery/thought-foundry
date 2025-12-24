@@ -2,7 +2,6 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 东京大学综合文化研究科
 - 东京人文论坛
 date: '2024-12-24'
 draft: true

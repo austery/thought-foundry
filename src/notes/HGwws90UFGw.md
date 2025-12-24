@@ -4,10 +4,6 @@ category: general
 companies_orgs:
 - Fraser Institute
 - University of Toronto
-- C.D. Howe Institute
-- Commonwealth Fund
-- World Health Organisation
-- Ontario Ministry of Health
 date: '2025-11-05'
 draft: true
 guest: ''

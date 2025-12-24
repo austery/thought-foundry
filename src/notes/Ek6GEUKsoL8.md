@@ -15,17 +15,14 @@ companies_orgs:
 - Lululemon
 - GameStop
 - Grab
-- Sea Limited
 - OpenAI
 - Meta
 - Huawei
 - AMD
 - Intel
-- Redbird Capital Partners
 - Citi
 - Bank of America
 - Apollo Global Management
-- Redwire
 - Tesla
 - Duolingo
 - Hims & Hers
@@ -33,12 +30,7 @@ companies_orgs:
 - Carvana
 - SoFi
 - Robinhood
-- Wolfpack Research
-- SEES
 - Lux Capital
-- Tiger Global
-- Unconventional AI
-- Andreessen Horowitz (A16Z)
 - Lehman Brothers
 - Enron
 - Accenture
@@ -48,28 +40,16 @@ companies_orgs:
 - Wells Fargo
 - X
 - Bureau of Labor Statistics (BLS)
-- Federal Register
 - SpaceX
 - Coinbase
 - MicroStrategy
 - CleanSpark
 - Coreweave
-- Ares Management
-- TJ Maxx
-- TJX
-- Neiman Marcus
-- Saks Fifth Avenue
-- Lane Bryant
-- Toll Brothers
 - Oppenheimer
-- Taiwan Semiconductor Manufacturing Company (TSMC)
 - Bernstein
 - Justice Department
-- Caner Equity Partners
 - Tether
 - SoftBank
-- Strike
-- Compound
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -110,10 +90,7 @@ products_models:
 - Grok
 - Llama
 - Avocado
-- Full Self-Driving (FSD)
 - Neutron
-- Hungry Hippo
-- Ray-Ban Meta Smart Glasses
 - MI450
 project:
 - investment-strategy

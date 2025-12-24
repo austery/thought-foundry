@@ -4,20 +4,12 @@ category: geopolitics
 companies_orgs:
 - New York Times
 - NBC News
-- Defense Intelligence Agency
-- National Park Service
 - Department of Labor
-- US Department of Education
-- Department of Housing and Urban Development
-- Environmental Protection Agency
 - Department of Justice
-- Social Security Administration
 - Veterans Administration
-- America First Legal
 - Columbia University
 - Harvard University
 - Brown University
-- Louisville Police Department
 - Supreme Court
 date: '2025-10-21'
 draft: true
@@ -34,14 +26,6 @@ people:
 - George Floyd
 - Steven Miller
 - John Thune
-products_models:
-- 1619 Project
-- Civil Rights Act of 1964
-- Civil Rights Act of 1957
-- Voting Rights Act of 1965
-- 13th Amendment
-- 14th Amendment
-- 15th Amendment
 project:
 - us-analysis
 - historical-insights

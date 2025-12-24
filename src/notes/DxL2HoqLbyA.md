@@ -12,8 +12,6 @@ people:
 - Napoleon
 - Ludwig Boltzmann
 - Stephen Hawking
-products_models:
-- Thinking in Code
 project:
 - systems-thinking
 - historical-insights

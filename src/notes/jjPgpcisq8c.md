@@ -3,12 +3,9 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 高盛
-- 大摩
 - 瑞银
-- 亚特兰大联储
 - Polymarket
 - FactSet
-- 欧洲央行
 date: '2025-06-23'
 draft: true
 guest: ''

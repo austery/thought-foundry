@@ -5,7 +5,6 @@ companies_orgs:
 - New York Times
 - Department of Homeland Security
 - ICE
-- TSA
 - Justice Department
 - White House
 date: '2025-12-02'
@@ -19,11 +18,6 @@ people:
 - Tracy Mumford
 - Donald Trump
 - Mike Johnson
-products_models:
-- Real ID
-- OMIC
-- WGOI
-- ME-1
 project:
 - us-analysis
 - geopolitics-watch

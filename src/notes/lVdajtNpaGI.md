@@ -7,8 +7,6 @@ companies_orgs:
 - OpenAI
 - Meta
 - Databricks
-- Appier
-- LangChain
 - Stanford
 date: '2025-11-05'
 draft: true
@@ -28,12 +26,9 @@ products_models:
 - Claude 3 Opus
 - Gemini
 - Gemini 1.5
-- Gemma 2 9B
 - Llama 4
 - AlphaGo
 - Gemini CLI
-- Hugging Face
-- ChatDev
 project:
 - ai-impact-analysis
 - systems-thinking

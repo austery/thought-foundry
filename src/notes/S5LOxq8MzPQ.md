@@ -6,7 +6,6 @@ companies_orgs:
 - IBM
 - Foxconn
 - World Trade Organization
-- Biel Crystal
 date: '2025-11-27'
 draft: true
 guest: ''
@@ -22,14 +21,10 @@ people:
 - Tim Cook
 - Deng Xiaoping
 products_models:
-- Apple I
 - Apple II
 - Mac
-- Laser Printer
-- iMac
 - iPod
 - iPhone
-- iPod mini
 project:
 - china-analysis
 - us-analysis

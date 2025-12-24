@@ -2,10 +2,8 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Opera
 - Google
 - Perplexity
-- The Browser Company
 - Amazon
 - OpenAI
 - DeepMind
@@ -18,19 +16,10 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Opera Neon
-- Gemini Chrome
 - Comet浏览器
 - Dia浏览器
 - ChatGPT
-- Replika
-- Character.ai
-- Google Home
-- Gemini AI
-- H2
-- Cici
 - Alexa
-- Google Assistant
 - GPT-5
 - Atlas
 project:

@@ -8,9 +8,6 @@ companies_orgs:
 - Oracle
 - CoreWeave
 - Google
-- National Association of Realtors
-- FHFA
-- LA City Council
 - Fannie Mae
 - Freddie Mac
 - Hyundai
@@ -35,9 +32,7 @@ people:
 - Laura Ingraham
 products_models:
 - H100
-- Nvidia chip
 - Obamacare
-- Prop 13
 - Grok
 project:
 - us-analysis

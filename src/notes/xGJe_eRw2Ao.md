@@ -3,9 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - TED
-- Spoonful Records
-- Buckeye Donuts
-- Heat Archive
 date: '2025-11-17'
 draft: true
 guest: ''

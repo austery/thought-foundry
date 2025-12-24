@@ -3,17 +3,9 @@ area: society-systems
 category: culture
 companies_orgs:
 - Tim Hortons
-- 日本农林水产省
-- 日本观光厅
-- 松屋
 - 吉野家
-- SUKIYA
-- '711'
-- 全家
-- 罗森
 - Costco
 - Lululemon
-- 大丸百货
 date: '2025-09-02'
 draft: true
 guest: ''

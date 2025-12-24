@@ -3,26 +3,15 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Cisco
-- Outshift
 - GitHub
-- Galileo
-- LangChain
-- ArangoDB
-- Neo4j
 - ServiceNow
-- agency.org
 date: '2025-08-22'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- OpenConfig
-- AQL
-- Batfish
-- RoutNet
 - MCP
-- A2A
 project:
 - ai-impact-analysis
 - systems-thinking

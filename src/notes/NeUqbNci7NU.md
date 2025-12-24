@@ -5,7 +5,6 @@ companies_orgs:
 - CIA
 - BASF
 - 自民党
-- 维新会
 - 公民党
 - 立宪民主党
 - 欧盟

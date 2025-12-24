@@ -3,10 +3,7 @@ area: market-analysis
 category: business
 companies_orgs:
 - Tesla
-- SolarCity
 - Bloomberg Podcasts
-- University of Colorado
-- Delaware State Bar Association
 date: '2025-09-18'
 draft: true
 guest: ''
@@ -19,8 +16,6 @@ people:
 - Joe Weisenthal
 - Elon Musk
 - Matt Levine
-products_models:
-- Odd Lots
 project:
 - us-analysis
 - systems-thinking

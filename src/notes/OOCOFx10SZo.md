@@ -4,23 +4,11 @@ category: geopolitics
 companies_orgs:
 - Federal Reserve
 - Federal Reserve Bank of San Francisco
-- Federal Reserve Bank of Minneapolis
-- Federal Reserve Bank of St. Louis
-- Federal Reserve Bank of Atlanta
-- The White House
 - Hamas
-- Ministry of Foreign Affairs of China
-- Japan Ministry of Defense
-- The Pentagon
-- Taiwan Presidential Office
 - Chinese Communist Party
 - National Bureau of Statistics of China
-- Natixis
-- Longzhou Economics
-- National Association of Colleges and Employers
 - Federal Reserve Bank of New York
 - Amazon
-- Queens' College, Cambridge
 date: '2025-11-15'
 draft: true
 guest: ''
@@ -45,7 +33,6 @@ people:
 - 王家卫
 products_models:
 - F-16
-- C-130
 project:
 - us-analysis
 - china-analysis

@@ -22,9 +22,6 @@ people:
 - Barack Obama
 - Isaac Newton
 - George H.W. Bush
-products_models:
-- Honda Civic
-- GMC Yukon SUV
 project:
 - us-analysis
 - systems-thinking

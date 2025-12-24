@@ -3,9 +3,7 @@ area: society-systems
 category: culture
 companies_orgs:
 - Ford Motor Company
-- American Automobile Association
 - General Motors
-- AASHTO
 date: '2024-03-01'
 draft: true
 guest: ''
@@ -18,8 +16,6 @@ people:
 - Herbert Hoover
 - Aristotle
 - Socrates
-products_models:
-- Vélib'
 project:
 - systems-thinking
 - historical-insights

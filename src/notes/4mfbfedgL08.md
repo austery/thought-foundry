@@ -25,9 +25,6 @@ media_books:
 - 《死亡笔记》
 people:
 - 小泉纯一郎
-products_models:
-- EVA
-- 死亡笔记
 project:
 - china-analysis
 - historical-insights

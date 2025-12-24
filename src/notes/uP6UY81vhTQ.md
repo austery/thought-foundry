@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - New York Times
 - Hamas
-- Israeli military
 - UN
 date: '2025-10-30'
 draft: true

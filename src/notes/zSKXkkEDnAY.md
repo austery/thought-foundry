@@ -2,16 +2,10 @@
 area: society-systems
 category: general
 companies_orgs:
-- 万达
 - 恒大
 - 万科
-- 中信证券
 - 阿里
 - 腾讯
-- 银河证券
-- 中金证券
-- 秦川大地公司
-- 实德集团
 date: '2025-11-01'
 draft: true
 guest: ''

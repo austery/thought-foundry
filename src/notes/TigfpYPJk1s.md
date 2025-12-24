@@ -23,14 +23,11 @@ products_models:
 - Gemini
 - Claude
 - Llama
-- WaveNet
 - Diffusion Model
 - Gemma
 - Colab
 - Transformers
 - PyTorch
-- JAX
-- OLAMA
 project:
 - ai-impact-analysis
 - systems-thinking

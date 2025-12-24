@@ -6,7 +6,6 @@ companies_orgs:
 - Tesla
 - SoFi
 - PayPal
-- UNH
 - Amazon
 - Apple
 - Microsoft
@@ -31,7 +30,6 @@ companies_orgs:
 - AMD
 - DoorDash
 - Delta
-- JD
 - Big Bear AI
 - Beyond Meat
 - GameStop
@@ -71,11 +69,6 @@ people:
 - Jensen Huang
 products_models:
 - TPU
-- F-150
-- FSD14
-- AI 200
-- AI 250
-- Black Widow Drone
 project:
 - us-analysis
 - investment-strategy

@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- RDA
 - 联合国
 date: '2023-02-21'
 draft: true

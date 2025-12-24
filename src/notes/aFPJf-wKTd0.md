@@ -2,9 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Creative Electron
-- Storm Bowling
-- US Bowling Congress
 - Salesforce
 date: '2021-09-25'
 draft: true
@@ -15,15 +12,6 @@ media_books:
 - Vox
 people:
 - Steve
-products_models:
-- Brunswick LT-48
-- Dark Code
-- Rad 4 core
-- Cheetah
-- Chameleon
-- Scorpion
-- Shark
-- Bear
 project:
 - systems-thinking
 - historical-insights

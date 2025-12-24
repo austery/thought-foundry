@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 国家卫健委
 - 国家统计局
-- 国务院发展研究中心
-- 中国人口学会
 - 新华社
 - 中央电视台
 - 人民日报

@@ -5,29 +5,22 @@ companies_orgs:
 - 月之暗面
 - OpenAI
 - Microsoft
-- SuperBase
 date: '2025-11-15'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Kimi K2 Thinking
 - GPT-5
 - Claude 3.5
 - Claude Code
 - DeepSeek
 - Gemini
-- Claude Opus 4.1
 - Claude Sonnet 4.5
-- SuperBase PostgreSQL
 - React
-- Chakra UI
 - Node.js
 - Express
-- PyCharm
 - VS Code
-- Chrome DevTools MCP
 project:
 - ai-impact-analysis
 - systems-thinking

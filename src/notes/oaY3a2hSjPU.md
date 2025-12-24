@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 media_books:
 - how-i-ai
-products_models:
-- midjourney
 project:
 - ai-impact-analysis
 series: ''

@@ -3,14 +3,8 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - Wire Cutter
-- Martha Stewart
 - New York Times Podcasts
-- Wetstone
 - OXO
-- Emil Henry
-- Cuisinart
-- Crate & Barrel
-- King Arthur
 date: '2025-11-19'
 draft: true
 guest: ''
@@ -22,8 +16,6 @@ media_books:
 people:
 - Kyra Blackwell
 - Rosie Garren
-products_models:
-- Pyrex
 project:
 - personal-growth-lab
 series: ''

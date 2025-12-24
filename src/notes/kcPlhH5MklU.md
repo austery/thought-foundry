@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 北京电影制片厂
-- 上海电影制片厂
 date: '2025-10-04'
 draft: true
 guest: ''

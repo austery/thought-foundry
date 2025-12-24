@@ -7,7 +7,6 @@ companies_orgs:
 - Nvidia
 - OpenAI
 - Microsoft
-- Sega
 date: '2025-12-11'
 draft: true
 guest: ''
@@ -24,13 +23,9 @@ people:
 - Ilya Sutskever
 - Alex Krizhevsky
 products_models:
-- Direct3D
-- RIVA 128
-- DGX-1
 - AlexNet
 - GPT
 - ChatGPT
-- GTX 580
 project:
 - us-analysis
 - historical-insights

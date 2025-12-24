@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - World Bank
-- Beijing University
 date: '2025-11-01'
 draft: true
 guest: ''
@@ -13,9 +12,6 @@ media_books:
 - 《皇帝内经》
 people:
 - Confucius
-products_models:
-- Chaihu Injection
-- Lianhua Qingwen Capsule
 project:
 - china-analysis
 - historical-insights

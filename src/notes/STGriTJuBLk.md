@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Wei Cheng Publishing
-- Ministry of the Interior
-- Vatican
 date: '2025-03-03'
 draft: true
 guest: ''

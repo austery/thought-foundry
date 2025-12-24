@@ -8,7 +8,6 @@ companies_orgs:
 - Microsoft
 - Amazon
 - Alphabet
-- Norwegian Exchange
 date: '2024-12-20'
 draft: true
 guest: ''

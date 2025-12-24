@@ -5,8 +5,6 @@ companies_orgs:
 - OpenAI
 - Vanguard
 - Yale Budget Lab
-- Semaphore
-- Future of Life Institute
 - Ethereum
 - Nvidia
 - Google
@@ -17,7 +15,6 @@ companies_orgs:
 - SMIC
 - Huawei
 - ASML
-- Carl Zeiss
 - TSMC
 date: '2025-12-19'
 draft: true
@@ -34,8 +31,6 @@ people:
 - Mike Pompeo
 products_models:
 - GPT-4
-- H100s
-- Mate 60 Pro
 project:
 - ai-impact-analysis
 series: ''

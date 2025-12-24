@@ -2,8 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- 亚马逊云科技
-- Hertz
 - DeepSeek
 - OpenAI
 date: '2025-12-08'
@@ -15,15 +13,11 @@ people:
 - Ilya Sutskever
 - 老修
 products_models:
-- Amazon Nova Forge
-- Amazon Nova Act
-- Kiro
 - Cursor
 - ChatGPT
 - Gemini
 - Claude
 - Codex
-- DeepSeek 3.2
 project:
 - ai-impact-analysis
 - systems-thinking

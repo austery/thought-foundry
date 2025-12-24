@@ -3,15 +3,12 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Rocket Lab
-- CoreWave
 - SpaceX
 - SDA
 - NVIDIA
 - Microsoft
 - OpenAI
 - Meta
-- Nabius
-- IronCypher
 date: '2025-11-15'
 draft: true
 guest: ''
@@ -26,8 +23,6 @@ people:
 products_models:
 - Neutron
 - Electron
-- Archimedes
-- A700
 project:
 - investment-strategy
 - us-analysis

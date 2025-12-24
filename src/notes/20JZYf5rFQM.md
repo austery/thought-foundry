@@ -27,9 +27,6 @@ people:
 - Sergey Lavrov
 - Henry Kissinger
 - Tony Blair
-products_models:
-- Tomahawk cruise missiles
-- F-16 fighter jets
 project:
 - us-analysis
 - geopolitics-watch

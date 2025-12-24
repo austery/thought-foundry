@@ -3,13 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 中科院
-- 核研所
 - CIA
-- 国际原子能总署
-- 科学与国际安全研究所
-- 西门子公司
 - 美国国务院
-- 国防情报局
 - 联合国
 date: '2023-06-04'
 draft: true
@@ -24,9 +19,6 @@ people:
 - 蒋经国
 - 李登辉
 - 毛泽东
-products_models:
-- TRR
-- 经国号
 project:
 - us-analysis
 - china-analysis

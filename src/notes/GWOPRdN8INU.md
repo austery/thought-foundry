@@ -8,10 +8,7 @@ companies_orgs:
 - IBM
 - Applied Materials
 - Synopsis
-- Hewlett Packard Enterprise
 - UCLA
-- UC Santa Barbara
-- Lawrence Berkeley Lab
 date: '2025-10-27'
 draft: true
 guest: ''
@@ -24,8 +21,6 @@ media_books:
 people:
 - Stephen Hawking
 - Richard Feynman
-products_models:
-- MRI
 project:
 - us-analysis
 - china-analysis

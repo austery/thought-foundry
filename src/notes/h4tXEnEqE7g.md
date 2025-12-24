@@ -3,7 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - Polymarket
-- Democratic Socialists of America
 - Hamas
 date: '2025-11-06'
 draft: true

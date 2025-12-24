@@ -3,7 +3,6 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - TED
-- Move the Crowd
 date: '2025-11-09'
 draft: true
 guest: ''

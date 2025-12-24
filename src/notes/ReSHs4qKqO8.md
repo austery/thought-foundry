@@ -1,8 +1,6 @@
 ---
 area: personal-systems
 category: psychology
-companies_orgs:
-- 纳粹
 date: 2025-08-10
 draft: true
 guest: ''
@@ -10,7 +8,8 @@ insight: ''
 layout: post.njk
 media_books:
 - 《辛德勒的名单》
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - personal-growth-lab
 - systems-thinking

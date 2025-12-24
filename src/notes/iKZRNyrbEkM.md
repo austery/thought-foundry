@@ -3,8 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Nvidia
-- 标普全球
-- 万事达
 - AMD
 - 英特尔
 - Google
@@ -13,15 +11,12 @@ companies_orgs:
 - 三星
 - SK海力士
 - 美光
-- ASM
 - 穆迪
 - 惠誉
 - 彭博
-- 晨星
 - PayPal
 - Stripe
 - Apple Pay
-- Google Pay
 date: '2025-06-23'
 draft: true
 guest: ''

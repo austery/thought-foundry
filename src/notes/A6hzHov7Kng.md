@@ -2,7 +2,6 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- Ohio State University
 - TED
 date: '2025-11-26'
 draft: true
@@ -11,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Sigmund Freud
-products_models:
-- hydraulic model
 project:
 - personal-growth-lab
 - systems-thinking

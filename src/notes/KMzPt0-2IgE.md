@@ -4,13 +4,9 @@ category: geopolitics
 companies_orgs:
 - FBI
 - 美国司法部
-- 中国公安部
-- One MDB
-- 国际刑警组织
 - 白宫
 - 国务院
 - 国防部
-- 黑人男性投票行动委员会
 date: '2025-11-27'
 draft: true
 guest: ''

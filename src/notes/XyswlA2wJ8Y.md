@@ -20,10 +20,7 @@ products_models:
 - ChatGPT
 - Kimi
 - GLM
-- Tongyi Qianwen
 - DeepSeek
-- Shopify
-- BigCommerce
 project:
 - personal-growth-lab
 - ai-impact-analysis

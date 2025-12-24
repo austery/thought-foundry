@@ -2,16 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 大公报
-- 东亚同文会
-- 人民文学出版社
 - 北京大学
-- 凤凰
-- 大象公会
-- 广州领事馆
-- 宫内厅
-- 东京国立博物馆
-- 西安市档案馆
 date: '2025-05-13'
 draft: true
 guest: ''
@@ -42,9 +33,6 @@ people:
 - 陈天华
 - 福泽谕吉
 - 鲁迅
-products_models:
-- 红富士
-- EB-1A
 project:
 - china-analysis
 - historical-insights

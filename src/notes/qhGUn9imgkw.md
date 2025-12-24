@@ -3,10 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Reddit
-- NYSE
 - NDP
 - 加拿大自由党
-- 加拿大移民部
 date: '2024-05-25'
 draft: true
 guest: ''
@@ -18,11 +16,7 @@ people:
 - Justin Trudeau
 - Jagmeet Singh
 products_models:
-- Express Entry
-- Comprehensive Ranking System
 - SAT
-- LMIA
-- RDDT
 project:
 - geopolitics-watch
 - systems-thinking

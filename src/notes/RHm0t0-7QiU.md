@@ -1,9 +1,6 @@
 ---
 area: market-analysis
 category: finance
-companies_orgs:
-- 上海市统计局
-- 北京市统计局
 date: '2025-10-08'
 draft: true
 guest: ''

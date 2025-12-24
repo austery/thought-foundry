@@ -11,9 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-products_models:
-- TWK10
-- CP2305
 project:
 - personal-growth-lab
 - systems-thinking

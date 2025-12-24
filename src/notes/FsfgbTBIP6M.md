@@ -2,15 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Oxford Economics
 - Bloomberg
-- High Fliers Research
 - OpenAI
-- Shokz
-- Simmons & Simmons
 - Goldman Sachs
-- American Society of Employers
-- PwC
 date: '2025-11-29'
 draft: true
 guest: ''

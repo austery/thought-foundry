@@ -4,18 +4,8 @@ category: lifestyle
 companies_orgs:
 - Wirecutter
 - New York Times Podcasts
-- Norse Foundry
-- Swatch
-- Sawyer
-- Sangean
-- TWWP
 - Amazon
 - OXO
-- Cosori
-- Spyderco
-- ThermoPro
-- Sephora
-- Nordstrom
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -25,24 +15,6 @@ media_books:
 - The Gift
 people:
 - James
-products_models:
-- Yummy Taper candles
-- Company Cotton Voile Quilt
-- Swatch Flick Flack watch
-- Sawyer Squeeze water filter
-- Sangean WR15
-- TWWP Next Morning shirt
-- Amazon Echo Dot
-- Bird Buddy
-- Oxo bench scraper
-- Cosori air fryer toaster oven
-- Oh My Hair Chalk
-- Inflatable air wedge
-- Prada lip balm
-- OXO garlic press
-- O2 Garlic garlic crusher
-- Spyderco Triangle Sharpmaker
-- ThermoPro Temp Spike Plus
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=3TPl76QeRAM

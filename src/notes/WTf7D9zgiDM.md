@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 华尔街
-- Pew
-- 中国统计局
 date: 2025-01-05
 draft: true
 guest: ''
@@ -16,7 +14,8 @@ people:
 - 李嘉诚
 - 高善文
 - 毛
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - us-analysis

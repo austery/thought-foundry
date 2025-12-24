@@ -17,7 +17,6 @@ products_models:
 - ChatGPT
 - Claude
 - Grok
-- FastAPI
 - MCP
 project:
 - ai-impact-analysis

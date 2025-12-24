@@ -20,8 +20,6 @@ media_books:
 people:
 - 唐石峻
 - 巴菲特
-products_models:
-- 大型语言模型
 project:
 - us-analysis
 - investment-strategy

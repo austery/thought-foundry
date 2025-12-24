@@ -3,8 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - 东鹏饮料
-- 海天味业
-- 千禾味业
 - 珀莱雅
 - 贝泰妮
 - 京东
@@ -16,10 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 二锅头
-- 茅台
-- 五粮液
 project:
 - investment-strategy
 - market-cycles

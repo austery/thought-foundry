@@ -2,14 +2,11 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Schroders
 - Norges Bank Investment Management
 - Citadel
-- Millennium
 - Blackstone
 - BlackRock
 - NATO
-- Cazenove
 date: '2024-10-30'
 draft: true
 guest: ''
@@ -27,7 +24,6 @@ people:
 - Amy Edmondson
 products_models:
 - Bloomberg
-- MiFID
 project:
 - investment-strategy
 - market-cycles

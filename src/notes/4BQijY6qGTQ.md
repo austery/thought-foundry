@@ -2,10 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 渣打银行
 - 汇丰银行
 - 中国银行
-- 黑龙江库买尔和金矿局
 date: '2025-04-15'
 draft: true
 guest: ''

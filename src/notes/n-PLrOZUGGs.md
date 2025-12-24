@@ -11,13 +11,10 @@ companies_orgs:
 - OpenAI
 - Anthropic
 - Siemens
-- Alstom
 - UBS
 - Credit Suisse
-- Gazprom
 - Federal Trade Commission
 - Department of Justice
-- Competition and Markets Authority
 - European Union
 date: '2024-09-25'
 draft: true
@@ -32,7 +29,6 @@ people:
 products_models:
 - Instagram
 - TikTok
-- Twitter (X)
 - Android
 project:
 - china-analysis

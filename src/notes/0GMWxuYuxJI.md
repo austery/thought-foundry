@@ -1,8 +1,6 @@
 ---
 area: society-thinking
 category: philosophy-thinking
-companies_orgs:
-- University College London
 date: '2025-10-10'
 draft: true
 guest: ''

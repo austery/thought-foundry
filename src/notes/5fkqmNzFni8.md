@@ -13,7 +13,6 @@ people:
 - Ray Kurzweil
 - Shane Legg
 products_models:
-- GPT-1
 - GPT-2
 - GPT-3
 - Transformer

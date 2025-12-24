@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Clean Air Partnership
 - TVO Today
 date: '2025-10-28'
 draft: true

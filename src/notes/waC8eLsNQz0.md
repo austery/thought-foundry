@@ -4,9 +4,6 @@ category: culture
 companies_orgs:
 - 国民政府
 - 国民党
-- 医界春秋社
-- 中央卫生委员会
-- 国医馆
 date: '2025-03-22'
 draft: true
 guest: ''

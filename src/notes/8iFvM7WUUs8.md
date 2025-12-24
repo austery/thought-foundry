@@ -17,14 +17,8 @@ products_models:
 - Gemma
 - GPT-3.5
 - BERT
-- Elmo
 - Claude
 - iPad
-- AirPod
-- RNN
-- LSTM
-- GRU
-- Mamba
 project:
 - ai-impact-analysis
 - systems-thinking

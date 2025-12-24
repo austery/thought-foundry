@@ -16,10 +16,8 @@ companies_orgs:
 - Tesla
 - UBS
 - McKinsey
-- Bain
 - Google DeepMind
 - Meta
-- US Department of Energy
 - Politico
 - Wire Cutter
 date: '2025-10-24'
@@ -36,13 +34,10 @@ people:
 products_models:
 - Grok
 - Claude
-- Amazon Bedrock
 - ChatGPT
 - Sora
 - Hyperloop
-- Metaverse
 - A100
-- B200
 - TPUs
 project:
 - ai-impact-analysis

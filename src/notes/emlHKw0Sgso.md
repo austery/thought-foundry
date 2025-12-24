@@ -9,7 +9,6 @@ companies_orgs:
 - SpaceX
 - Blue Origin
 - Berkshire Hathaway
-- US Mint
 date: '2025-11-14'
 draft: true
 guest: ''
@@ -23,10 +22,6 @@ people:
 - Elon Musk
 - Jeff Bezos
 - Warren Buffett
-products_models:
-- SNAP program
-- Dairy Queen
-- Geico
 project:
 - us-analysis
 - geopolitics-watch

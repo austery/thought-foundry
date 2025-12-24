@@ -2,7 +2,6 @@
 area: society-systems
 category: psychology
 companies_orgs:
-- U.S. military
 - Stanford
 date: '2023-08-03'
 draft: true
@@ -12,12 +11,7 @@ layout: post.njk
 people:
 - Stephen Hawking
 products_models:
-- Binet-Simon test
-- Stanford-Binet test
-- Raven's progressive matrices
 - SAT
-- ACT
-- GRE
 project:
 - historical-insights
 - systems-thinking

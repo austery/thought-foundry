@@ -21,7 +21,6 @@ products_models:
 - Grok
 - NotebookLM
 - DeepSeek R1
-- DeepSeek V3
 project:
 - ai-impact-analysis
 - personal-growth-lab

@@ -3,9 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - Google
-- Live Science
-- BBC Science magazine
-- International Standardization Organization
 date: '2020-08-18'
 draft: true
 guest: ''
@@ -13,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - House Dust Biology
-products_models:
-- Google Scholar
 project:
 - systems-thinking
 - knowledge-pipeline

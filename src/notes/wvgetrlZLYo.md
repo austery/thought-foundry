@@ -2,9 +2,6 @@
 area: society-systems
 category: psychology
 companies_orgs:
-- NXIVM
-- DOS
-- Seagram's
 - FBI
 - The New York Times
 - NGO
@@ -15,11 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《超人前传Smallville》
-products_models:
-- Smallville
-- Viper Room
-- Executive Success Programs
-- Neurolinguistic Programming
 project:
 - systems-thinking
 - personal-growth-lab

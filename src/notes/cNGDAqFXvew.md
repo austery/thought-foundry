@@ -16,10 +16,6 @@ products_models:
 - Gemini 3
 - Gemini 1.5
 - BERT
-- XLNET
-- Gopher
-- Chinchilla
-- Retro
 project:
 - ai-impact-analysis
 series: ''

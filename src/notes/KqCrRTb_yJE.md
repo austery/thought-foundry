@@ -2,28 +2,13 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 哈德逊研究所
-- 金融时报
-- 必和必拓
-- 中国矿产资源集团
-- 詹姆斯顿基金会
 - 美国外交关系协会
 - 布鲁金斯学会
-- 上海合作组织
 - 联合国
-- 美国国际宗教自由委员会
 - 美国国防部
 - MP Materials
 - 美国能源部
-- 美国内政部
 - 欧盟
-- Rosatom
-- 中国核工业集团
-- 中国南方电网
-- 中国能建
-- 中国国际能源
-- 江西铜业
-- DFC
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -38,12 +23,6 @@ people:
 - Vladimir Putin
 - Kim Jong Un
 - 何立峰
-products_models:
-- 火星-17
-- 火星-20
-- 金军域英雄号
-- VVER-1200
-- 华龙一号
 project:
 - china-analysis
 - us-analysis

@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Google
-- HuggingFace
 date: '2025-11-15'
 draft: true
 guest: ''
@@ -11,10 +10,7 @@ insight: ''
 layout: post.njk
 products_models:
 - DeepSeek-OCR
-- LoRA
 - Colab
-- T4 GPU
-- ONNX
 project:
 - ai-impact-analysis
 - knowledge-pipeline

@@ -5,12 +5,7 @@ companies_orgs:
 - TVO Today
 - House of Commons
 - NORAD
-- Canadian Armed Forces
-- Canadian War Museum
 - NATO
-- Macdonald-Laurier Institute
-- Carleton University
-- Royal Canadian Navy
 date: '2025-11-12'
 draft: true
 guest: ''

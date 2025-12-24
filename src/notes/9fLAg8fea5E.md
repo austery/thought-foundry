@@ -2,17 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 美国联邦储备委员会
 - Alibaba
 - 百度
 - 京东
 - 北约
 - 联合国
-- 美国反兴奋剂机构
-- 世界反兴奋剂机构
-- 国际奥委会
-- 贵州宏才公司
-- 大西洋理事会
 date: '2025-11-23'
 draft: true
 guest: ''
@@ -41,9 +35,6 @@ people:
 - Wang Yi
 - 高市早苗
 - 莫茨
-products_models:
-- 东风61
-- 东风51
 project:
 - us-analysis
 - china-analysis

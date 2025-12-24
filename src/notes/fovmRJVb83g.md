@@ -5,8 +5,6 @@ companies:
 - psychological-trauma
 companies_orgs:
 - 央视
-- 临沂网戒中心
-- 卫生部
 - 北京大学
 date: '2025-09-14'
 draft: true
@@ -17,8 +15,6 @@ media_books:
 - 《赫尔辛基宣言》
 people:
 - 柴静
-products_models:
-- 低频电子脉冲治疗仪
 project:
 - china-analysis
 - systems-thinking

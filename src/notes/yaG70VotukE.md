@@ -2,10 +2,8 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Pendo
 - Google
 - Google DeepMind
-- LaunchDarkly
 date: '2025-12-22'
 draft: true
 guest: ''
@@ -17,8 +15,6 @@ people:
 products_models:
 - Cursor
 - Figma
-- Spotify
-- Bolt.new
 - Midjourney
 - Gemini 2.5 Pro
 - Gemini 2.5 Flash

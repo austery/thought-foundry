@@ -3,8 +3,6 @@ area: personal-systems
 category: career
 companies_orgs:
 - YouTube
-- TEDx
-- University of Sydney
 date: '2021-01-07'
 draft: true
 guest: ''
@@ -14,14 +12,6 @@ media_books:
 - The Hitchhiker's Guide to the Galaxy
 people:
 - Derek Muller
-products_models:
-- Macbook Pro
-- GoPro Hero4
-- Snatoms expansion kit
-- Penrose tiles
-- Ames windows
-- Salt lamp
-- Platonic solids
 project:
 - personal-growth-lab
 - entrepreneurship

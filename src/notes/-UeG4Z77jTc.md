@@ -5,9 +5,7 @@ companies_orgs:
 - Pixar
 - Apple
 - Disney
-- Lucasfilm
 - Norges Bank Investment Management
-- SIGGRAPH
 date: '2024-09-11'
 draft: true
 guest: ''
@@ -19,13 +17,7 @@ people:
 - Steve Jobs
 - Nikolai
 products_models:
-- Toy Story
 - Finding Nemo
-- The Incredibles
-- Cars
-- Monsters, Inc.
-- Ratatouille
-- Toy Story 2
 - iPad
 - iPhone
 project:

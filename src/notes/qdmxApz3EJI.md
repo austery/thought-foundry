@@ -10,10 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Rich Sutton
-products_models:
-- DSPy
-- DaVinci 2
-- GPT-4 mini
 project:
 - ai-impact-analysis
 - systems-thinking

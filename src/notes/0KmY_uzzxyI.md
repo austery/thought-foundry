@@ -8,14 +8,12 @@ companies_orgs:
 - Walmart
 - JD.com
 - Alibaba
-- 京东币链科技
 - 蚂蚁集团
 - Visa
 - Mastercard
 - PayPal
 - 中国人民银行
 - SWIFT
-- 香港监管局
 - 欧盟
 date: '2025-11-07'
 draft: true
@@ -33,9 +31,6 @@ products_models:
 - Bitcoin
 - Ethereum
 - 数字人民币
-- USDX
-- ETINA
-- DAI
 project:
 - us-analysis
 - china-analysis

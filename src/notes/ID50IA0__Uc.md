@@ -3,7 +3,6 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - New York Times Podcasts
-- Hedgebrook Writing Residency
 date: '2025-11-05'
 draft: true
 guest: ''

@@ -2,17 +2,12 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Oxide
 - Sun Microsystems
 - Cisco
 - AT&T
-- GNU
 - AWS
-- Joyent
 - Enron
-- JDS Uniphase
 - Global Crossing
-- MCI WorldCom
 - Linear
 - GitHub
 - OpenAI
@@ -20,21 +15,14 @@ companies_orgs:
 - Microsoft
 - Notion
 - HP
-- Super Micro
 - Samsung
 - Basecamp
 - AMD
 - Intel
-- Barefoot
 - Broadcom
-- Renesas
-- GE Medical
 - Dell
 - Apple
 - Lockheed Martin
-- Data General
-- Oculus
-- Benchmark Electronics
 - Statsig
 date: '2025-12-17'
 draft: true
@@ -53,32 +41,11 @@ people:
 - Richard Sutton
 - Steve Jobs
 products_models:
-- Solaris
-- SPARC
-- x86
-- ZFS
-- DTrace
-- Service Management Facility
-- XFS
-- IRIX
 - EC2
 - S3
 - Kubernetes
-- Borg
-- Elastic Beanstalk
-- Green Grass
-- Redshift
-- AMD Milan
-- AMD Turin
-- Hubris
-- Humility
-- Omicron
 - DDR5
 - PCIe
-- Intel Tofino
-- SolidWorks
-- Altium
-- CT systems
 project:
 - ai-impact-analysis
 series: ''

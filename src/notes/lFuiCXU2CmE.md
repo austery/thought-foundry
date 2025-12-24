@@ -4,11 +4,9 @@ category: technology
 companies_orgs:
 - OpenAI
 - Google
-- Google Gemini
 - Disney
 - Marvel
 - Pixar
-- Star Wars
 - Bloomberg
 date: '2025-12-12'
 draft: true
@@ -28,7 +26,6 @@ products_models:
 - GPT-3
 - GPT-2
 - Codex
-- DALL·E
 - ChatGPT
 - Gemini 3
 project:

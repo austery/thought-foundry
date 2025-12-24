@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - SWIFT
-- 国际清算银行
 date: '2025-04-13'
 draft: true
 guest: ''

@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Texas Rangers
-- The Big Texan Steak Ranch
 date: '2025-09-25'
 draft: true
 guest: ''

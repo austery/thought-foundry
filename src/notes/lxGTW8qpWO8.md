@@ -1,8 +1,9 @@
 ---
 area: market-analysis
 category: business
+companies:
+- google-monopoly
 companies_orgs:
-- Perplexity AI
 - Google
 - Alphabet
 - OpenAI
@@ -36,8 +37,6 @@ tags:
 - llm
 - market
 title: 为什么AI搜索难以击败Chrome：经济、垄断与用户习惯的较量
-companies:
-- google-monopoly
 ---
 
 ### AI搜索的挑战：Perplexity与谷歌的较量

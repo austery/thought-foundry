@@ -3,13 +3,9 @@ area: life-family
 author: Lei
 category: family-relations
 companies_orgs:
-- Carnegie Mellon University (CMU)
 - Google
 - Meta
 - Whole Foods
-- Purdue University
-- Indiana University
-- EasyFan Coding
 - MIT
 - Harvard University
 - Princeton University
@@ -17,10 +13,7 @@ companies_orgs:
 - University of Chicago
 - Caltech
 - Stanford University
-- Andover
 - National Science Foundation
-- National Institute of Health
-- AOPS (Art of Problem Solving)
 date: '2025-10-28'
 draft: true
 guest: ''
@@ -32,19 +25,6 @@ people:
 products_models:
 - ChatGPT
 - GPT-5
-- AMC (American Mathematics Competitions)
-- AIME (American Invitational Mathematics Examination)
-- ACM ICPC
-- Scratch
-- Roblox
-- Coursera
-- Free Code Camp
-- Khan Academy
-- Codecademy
-- Udacity
-- USACO (USA Computing Olympiad)
-- IOI (International Olympiad in Informatics)
-- EGOI (European Girls' Olympiad in Informatics)
 project:
 - ai-impact-analysis
 - systems-thinking

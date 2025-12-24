@@ -1,22 +1,21 @@
 ---
 area: market-analysis
 category: finance
+companies:
+- ai-supercycle
 companies_orgs:
 - Nvidia
 - Microsoft
 - 亚马逊
 - Google
 - Meta
-- 强生
 - 可口可乐
 - AT&T
 - 伯克希尔
 - Palantir
 - 特斯拉
 - Sofi
-- Hood
 - Nebius
-- RKLB
 - Hims
 - Oscar
 - BMNR
@@ -33,7 +32,6 @@ people:
 - 巴菲特
 products_models:
 - Hopper
-- Ampere
 - Blackwell
 - H200
 - Alpha Picks
@@ -53,8 +51,6 @@ tags:
 - risk-management
 - stock
 title: 英伟达财报深度解析与个人投资组合风险管理：防御股配置策略
-companies:
-- ai-supercycle
 ---
 
 ### 美股市场回顾与本期节目概要

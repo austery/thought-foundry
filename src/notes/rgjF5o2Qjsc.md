@@ -2,9 +2,7 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Kodto
 - Sonar
-- Far
 - Nvidia
 date: '2025-12-11'
 draft: true
@@ -15,7 +13,6 @@ products_models:
 - Cursor
 - Copilot
 - Codex
-- Claude code
 - Lovable
 project:
 - ai-impact-analysis

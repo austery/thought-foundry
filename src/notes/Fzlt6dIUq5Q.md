@@ -15,7 +15,6 @@ media_books: []
 people: []
 products_models:
 - S&P 500 Index
-- Dow Jones Index
 - S&P 500 ETF
 project:
 - us-analysis

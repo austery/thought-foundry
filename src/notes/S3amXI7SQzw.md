@@ -13,8 +13,6 @@ media_books:
 - GQ
 people:
 - 宋晏仁
-products_models:
-- 胆固醇平衡懒人包
 project:
 - personal-growth-lab
 - systems-thinking

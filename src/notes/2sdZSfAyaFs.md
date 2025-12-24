@@ -3,10 +3,8 @@ area: society-systems
 category: lifestyle
 companies_orgs:
 - 初日診所
-- 成大食安所
 - Cofit
 - FDA
-- EWG
 date: '2025-05-20'
 draft: true
 guest: ''
@@ -14,9 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁医师
-products_models:
-- 捏捏乐
-- 香香杯
 project:
 - personal-growth-lab
 series: ''

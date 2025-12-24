@@ -4,12 +4,7 @@ category: geopolitics
 companies_orgs:
 - Labour Party
 - Conservative Party
-- Liberal Democrats
-- 英国皇家检察署
 - MI6
-- GCHQ
-- MI5
-- Rhodium Group
 - Volkswagen
 - 小米
 - Morgan Stanley
@@ -17,25 +12,10 @@ companies_orgs:
 - NVIDIA
 - OpenAI
 - Google
-- Maxon
-- Faulhaber
-- 禾赛科技
-- 速腾聚创
-- 蓝点触控
-- 坤为科技
-- 明智
-- 顶智
-- 绿的谐波
-- ATI
 - 清华大学
 - 麻省理工学院
 - 中国科学院
 - 华为
-- Jamestown Foundation
-- Australian Strategic Policy Institute
-- ITIF
-- KASTI
-- CSET
 - NATO
 date: '2025-10-30'
 draft: true
@@ -68,7 +48,6 @@ people:
 - 赖清德
 products_models:
 - Optimus
-- Project GR00T
 project:
 - china-analysis
 - us-analysis

@@ -3,20 +3,11 @@ area: market-analysis
 category: business
 companies_orgs:
 - Bloomberg Podcasts
-- Richmond Fed
 - Sears
-- Catera
-- Lustron Home Company
-- Sterling Homex
 - Boeing
-- McDonnell Douglas
 - Airbus
-- Embraer
-- Comac
-- Lockheed
 - AT&T
 - Nike
-- Nucor
 - Toyota
 date: '2025-10-27'
 draft: true
@@ -33,8 +24,6 @@ people:
 - Joe Weisenthal
 - Henry Ford
 - Eric Adams
-products_models:
-- A380
 project:
 - us-analysis
 - systems-thinking

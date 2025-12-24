@@ -13,7 +13,6 @@ companies_orgs:
 - Tesla
 - SoftBank
 - OpenAI
-- Saba Capital
 - Berkshire Hathaway
 - Federal Reserve
 date: '2025-11-18'

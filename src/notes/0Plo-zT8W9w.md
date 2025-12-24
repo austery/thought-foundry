@@ -6,7 +6,6 @@ companies_orgs:
 - IBM
 - Microsoft
 - Adobe
-- Artificial Analysis
 - Stanford University
 date: '2025-11-05'
 draft: true
@@ -21,18 +20,8 @@ people:
 products_models:
 - GPT-5
 - GPT-4
-- GPT-4-mini
-- Watson AI
-- Jeopardy
-- Microsoft Windows
-- Windows 98
-- Windows 10
 - Microsoft Word
 - Excel
-- Adobe Photoshop
-- Acrobat PDF reader
-- LiveBench
-- SciCode
 project:
 - ai-impact-analysis
 - systems-thinking

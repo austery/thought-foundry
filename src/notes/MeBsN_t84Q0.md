@@ -4,9 +4,6 @@ category: geopolitics
 companies_orgs:
 - United Nations
 - World Health Organization
-- Institute for Health Metrics and Evaluation
-- IIASA
-- National Health and Family Planning Commission
 date: '2025-11-01'
 draft: true
 guest: ''

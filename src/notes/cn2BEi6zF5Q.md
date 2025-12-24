@@ -3,13 +3,8 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Shopify
-- CGI
 - Lightspeed
-- DMZ
-- monarch
 - Toronto Metropolitan University
-- Wasserman Business Law
-- Competition Bureau
 date: '2025-10-23'
 draft: true
 guest: ''
@@ -21,8 +16,6 @@ media_books:
 - The Rundown
 people:
 - Jeyan Jeganathan
-products_models:
-- leadership intelligence product
 project:
 - entrepreneurship
 - investment-strategy

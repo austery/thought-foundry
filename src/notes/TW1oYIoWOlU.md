@@ -10,7 +10,6 @@ companies_orgs:
 - Kroger
 - Justice Department
 - FBI
-- Saudi Public Investment Fund
 - Harvard
 - JetBlue
 - CDC
@@ -36,7 +35,6 @@ products_models:
 - S&P 500
 - Venmo
 - Cash App
-- Zelle
 project:
 - us-analysis
 - investment-strategy

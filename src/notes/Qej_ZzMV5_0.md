@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - TED
-- Harris Poll
 - University of California, Berkeley
 date: '2025-11-01'
 draft: true

@@ -2,17 +2,12 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- IONQ
 - Rigetti
 - D-Wave
 - Google
 - JP Morgan
-- DMY
-- Oxford Ionics
 - IBM
 - Nvidia
-- Hermes
-- US government
 date: '2025-09-17'
 draft: true
 guest: ''

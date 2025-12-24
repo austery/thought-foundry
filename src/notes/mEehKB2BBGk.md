@@ -24,7 +24,6 @@ companies_orgs:
 - Wells Fargo
 - Apple
 - CNBC
-- US Supreme Court
 - FDIC
 date: '2025-11-12'
 draft: true
@@ -44,8 +43,6 @@ products_models:
 - Bitcoin
 - Ethereum
 - Solana
-- Lightning Network
-- Chromebooks
 project:
 - investment-strategy
 - ai-impact-analysis

@@ -1,8 +1,6 @@
 ---
 area: society-thinking
 category: politics-society
-companies_orgs:
-- 香港保安局
 date: '2025-12-06'
 draft: true
 guest: ''

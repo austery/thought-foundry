@@ -2,9 +2,7 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- NFI
 - Google
-- 马来西亚航空
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -14,7 +12,6 @@ products_models:
 - Siri
 - Google Search
 - Xbox
-- Bonaparte
 - Turbo码
 project:
 - ai-impact-analysis

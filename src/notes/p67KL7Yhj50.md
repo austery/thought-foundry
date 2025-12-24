@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Norges Bank Investment Management
 - Apollo Global Management
-- Drexel Burnham
 date: '2024-11-15'
 draft: true
 guest: ''

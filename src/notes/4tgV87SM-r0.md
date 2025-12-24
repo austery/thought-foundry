@@ -2,7 +2,6 @@
 area: market-analysis
 category: general
 companies_orgs:
-- Venetian
 - OpenAI
 - Harvard
 - CIA
@@ -24,7 +23,6 @@ companies_orgs:
 - X
 - Huawei
 - Poly Market
-- Climate Corp
 date: '2025-11-22'
 draft: true
 guest: ''

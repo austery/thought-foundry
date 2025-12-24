@@ -2,12 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Nanos Research
 - York University
 - Clean Energy Canada
-- McMaster University's DeGroote School of Business
 - Brookings Institution
-- ISO (Independent Electricity System Operator)
 - Ontario Energy Board
 - WTO
 date: '2025-11-21'
@@ -24,7 +21,6 @@ people:
 - Donald Trump
 products_models:
 - Small Modular Reactor
-- Chinese Electric Vehicles
 project:
 - us-analysis
 - china-analysis

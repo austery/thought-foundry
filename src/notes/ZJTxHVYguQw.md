@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - MI6
 - Goldman Sachs
-- IRGC
 - NATO
 - OPEC
 - CNN

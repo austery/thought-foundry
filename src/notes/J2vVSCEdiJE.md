@@ -2,10 +2,8 @@
 area: finance-wealth
 category: macro-economy
 companies_orgs:
-- 中国证监会
 - 央行
 - 恒大
-- 河南村镇银行
 date: '2025-11-14'
 draft: true
 guest: ''

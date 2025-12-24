@@ -4,7 +4,6 @@ category: ai-ml
 companies_orgs:
 - Adobe
 - Norges Bank Investment Management
-- Glassdoor
 - OpenAI
 - Google
 - Nvidia
@@ -14,12 +13,10 @@ companies_orgs:
 - BBC
 - Eli Lilly
 - KKR
-- YPO
 - Pfizer
 - eBay
 - PayPal
 - Starbucks
-- Runway ML
 date: '2024-06-05'
 draft: true
 guest: ''
@@ -33,14 +30,8 @@ people:
 - Sam Altman
 products_models:
 - Photoshop
-- Illustrator
-- Premier
-- After Effects
 - Express
-- PostScript
 - PDF
-- Document Cloud
-- Experience Cloud
 - Firefly
 - ChatGPT
 - Sora

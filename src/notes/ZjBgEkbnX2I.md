@@ -2,14 +2,10 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Hybrid Air Vehicles
-- LTA Research
 - Google
-- Flying Whales
 - Apple
 - Amazon
 - Walmart
-- Federal Aviation Administration
 date: '2023-08-31'
 draft: true
 guest: ''
@@ -17,11 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - Sergey Brin
-products_models:
-- Hindenberg
-- Airlander 10
-- Pathfinder 1
-- USS Akron
 project:
 - systems-thinking
 - entrepreneurship

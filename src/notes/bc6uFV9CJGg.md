@@ -1,6 +1,8 @@
 ---
 area: tech-work
 category: ai-ml
+companies:
+- metaverse
 companies_orgs:
 - Meta
 - Apple
@@ -9,7 +11,6 @@ companies_orgs:
 - Microsoft Azure
 - Amazon
 - Bell Labs
-- Chan Zuckerberg Initiative
 date: '2024-04-18'
 draft: true
 guest: ''
@@ -21,18 +22,13 @@ people:
 - Augustus
 - Picasso
 products_models:
-- Llama-3
 - Meta AI
-- Llama-2
 - ChatGPT
 - Reels
-- Facebook News Feed
-- Instagram Feed
 - Google+
 - Gemini
 - PyTorch
 - React
-- Open Compute Project
 project:
 - ai-impact-analysis
 series: ''
@@ -48,8 +44,6 @@ tags:
 - ai-safety
 - open-source-ai
 title: Mark Zuckerberg 谈 Llama 3、百亿模型、奥古斯都与千兆瓦数据中心
-companies:
-- metaverse
 ---
 
 主持人 **Dwarkesh Patel**：**Mark**，欢迎来到播客。

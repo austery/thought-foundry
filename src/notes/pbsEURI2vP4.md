@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: finance
-companies_orgs:
-- 加拿大六大银行
 date: '2025-11-02'
 draft: true
 guest: ''

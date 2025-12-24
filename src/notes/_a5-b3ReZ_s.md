@@ -9,10 +9,8 @@ companies_orgs:
 - Meta
 - Amazon
 - Nike
-- Decker
 - AWS
 - Google
-- CoinBase
 - Disney
 - Circle
 - Futu
@@ -30,7 +28,6 @@ products_models:
 - A100
 - TPU
 - Disney+
-- ESPN
 project:
 - investment-strategy
 - market-cycles

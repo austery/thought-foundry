@@ -5,7 +5,6 @@ companies_orgs:
 - UBS
 - Credit Suisse
 - Norges Bank Investment Management
-- CitiBank
 - Merrill Lynch
 date: '2024-03-06'
 draft: true

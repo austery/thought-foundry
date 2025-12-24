@@ -6,18 +6,8 @@ companies_orgs:
 - Netflix
 - JPMorgan Chase
 - DraftKings
-- Fabletics
-- C4 Energy
-- Heartbeat Ventures
 - Snapchat
-- Function Health
 - ElevenLabs
-- MoonPay
-- Young Labs
-- Sweat Pals
-- Radiant
-- Noranics
-- Paltown
 date: '2025-11-20'
 draft: true
 guest: ''
@@ -37,9 +27,6 @@ people:
 - Dwayne Johnson
 - Shaquille O'Neal
 - Evan Spiegel
-products_models:
-- Gran Coramino Tequila
-- Ace of Spades
 project:
 - personal-growth-lab
 - entrepreneurship

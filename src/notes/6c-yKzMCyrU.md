@@ -3,9 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - TVO Today
-- Progressive Contractors Association of Canada
-- Skilled Trades Ontario
-- Ontario Construction Secretariat
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -18,11 +15,6 @@ people:
 - Mark Carney
 - Peter Bethlenfalvy
 - John Michael McGrath
-products_models:
-- Skills Development Fund
-- Union Training and Innovation Program
-- Red Seal trades
-- Ontario Youth Apprenticeship Program
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=6c-yKzMCyrU

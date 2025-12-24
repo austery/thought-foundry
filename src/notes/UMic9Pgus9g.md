@@ -24,12 +24,6 @@ people:
 - 李自成
 - 努尔哈赤
 - 董宇辉
-products_models:
-- 《明朝那些事儿》
-- 《毛选》
-- 《货币战争》
-- 《香港民族论》
-- 《红楼梦》
 project:
 - china-analysis
 series: ''

@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Box
 - OpenAI
 - Anthropic
 date: '2025-08-24'

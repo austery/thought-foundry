@@ -19,7 +19,6 @@ people:
 products_models:
 - H-1B
 - K字签证
-- PlayStation 3
 project:
 - china-analysis
 - geopolitics-watch

@@ -3,12 +3,10 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- Department of Agriculture
 - White House
 - Pentagon
 - NBC
 - Kremlin
-- Spirit Halloween
 date: '2025-10-27'
 draft: true
 guest: ''
@@ -25,8 +23,6 @@ people:
 - Scott Bessant
 products_models:
 - SNAP
-- Boravestnik
-- Hurricane Melissa
 project:
 - us-analysis
 - geopolitics-watch

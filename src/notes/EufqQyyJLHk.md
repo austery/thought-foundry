@@ -3,21 +3,14 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Bloomberg
-- Odd Lots
 - OpenAI
-- Breaking Points
-- The Bulwark
-- Pod Save America
-- Heatmap
 - Google
 - Palantir
 - Microsoft
 - Expedia
 - Instagram
-- Teamsters
 - FTC
 - Robinhood
-- Thinking Machines Lab
 - Anthropic
 date: '2025-11-19'
 draft: true
@@ -59,9 +52,7 @@ people:
 products_models:
 - Gemini Flash
 - ChatGPT
-- Microsoft Copilot
 - Sora
-- Meta AI Instagram chatbots
 - XAI
 project:
 - us-analysis

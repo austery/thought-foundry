@@ -2,10 +2,7 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 加拿大公民研究所
 - 路透社
-- GlassDoor
-- 菲沙研究所
 date: '2024-01-04'
 draft: true
 guest: ''

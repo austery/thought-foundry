@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- github
 date: '2025-09-08'
 draft: true
 guest: ''

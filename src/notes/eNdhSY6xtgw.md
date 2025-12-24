@@ -4,10 +4,8 @@ category: geopolitics
 companies_orgs:
 - 新华社
 - 世界贸易组织
-- 二十国集团峰会
 - 本田
 - Stellantis
-- LG Energy Solution
 - Northvolt
 date: '2025-06-15'
 draft: true

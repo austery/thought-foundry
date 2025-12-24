@@ -2,30 +2,16 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Smarter Web Company
 - MicroStrategy
-- Strategy
 - SEC
-- DC Attorney General
-- 21 Capital
-- Caner Equity Partners
 - SoftBank
 - Tether
-- Strive
-- American Bitcoin
-- Kindly MD
-- Metaplanet
 - Tesla
 - Block
 - Twitter
-- Next Technology Holding
-- We Trade Group
 - GameStop
-- Aquis exchange
 - London Stock Exchange
-- Bluebird Mining Ventures
 - Binance
-- London BTC Company
 - Department of Justice
 date: '2025-07-05'
 draft: true
@@ -45,13 +31,6 @@ people:
 - Howard Lutnik
 products_models:
 - Bitcoin
-- meme coins
-- Plaude Node
-- Bitcoin ETFs
-- convertible bonds
-- leveraged strategy ETFs
-- Pokemon cards
-- NFTs
 project:
 - investment-strategy
 - us-analysis

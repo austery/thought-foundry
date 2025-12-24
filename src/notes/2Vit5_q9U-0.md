@@ -27,10 +27,8 @@ people:
 products_models:
 - Azure
 - Co-pilot
-- Micro office 365
 - H100
 - H200
-- GB100
 - GB200
 project:
 - investment-strategy

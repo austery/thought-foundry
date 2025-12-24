@@ -15,10 +15,8 @@ companies_orgs:
 - Microsoft
 - 亚马逊
 - 美银
-- 野村
 - 欧盟委员会
 - 华为
-- 中兴通信
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -33,7 +31,6 @@ people:
 - Warren Buffett
 products_models:
 - ChatGPT
-- Jimmy
 - Siri
 project:
 - investment-strategy

@@ -3,14 +3,11 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 中央电视台
-- 国务院台湾事务办公室
 - 中国国民党
 - 中国共产党
 - 中国同盟会
 - 教育部
-- 国防大学管理学院
 - 国防部
-- 世界法院会议
 date: '2025-05-10'
 draft: true
 guest: ''

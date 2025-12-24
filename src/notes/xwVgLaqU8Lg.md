@@ -3,11 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 宇树科技
-- 北京天工
 - 华为
-- 蔚来
 - 共青团中央
-- 波士顿动力
 date: '2025-11-07'
 draft: true
 guest: ''

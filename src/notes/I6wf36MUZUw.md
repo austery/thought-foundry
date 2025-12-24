@@ -4,15 +4,9 @@ category: geopolitics
 companies_orgs:
 - 自由党
 - 保守党
-- 新民主党
-- SNC-Lavalin
 - WE慈善机构
-- 加拿大纳税人联合会
 - 加拿大统计局
-- 加拿大抵押和住房公司
-- 安格斯·里德民调公司
 - 高盛
-- 英格兰银行
 - 联合国
 date: '2025-01-11'
 draft: true
@@ -38,7 +32,6 @@ people:
 - Donald Trump
 - Volodymyr Zelenskyy
 products_models:
-- CERB
 - USMCA
 project:
 - us-analysis

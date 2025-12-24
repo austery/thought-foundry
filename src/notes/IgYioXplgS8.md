@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - Polymarket
 - FBI
-- AMBBB
 - Cohere
 - Broadcom
 - Roblox
@@ -20,7 +19,6 @@ people:
 - Kamala Harris
 - Donald Trump
 products_models:
-- Falcon
 - VMware
 project:
 - us-analysis

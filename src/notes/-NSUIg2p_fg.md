@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Google
-- Project Pinpoint
 - AIPAC
 - FBI
 - Department of Justice

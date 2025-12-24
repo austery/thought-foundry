@@ -2,8 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 世界价值观调查
-- WVS
 - 世界银行
 date: '2025-11-29'
 draft: true

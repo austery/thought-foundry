@@ -3,8 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - New York Times
-- New York Liberty
-- University of Maryland
 date: '2025-10-29'
 draft: true
 guest: ''
@@ -16,8 +14,6 @@ media_books:
 people:
 - Anna Martin
 - Donald Trump
-products_models:
-- Netflix show How to Get Rich
 project:
 - personal-growth-lab
 - cultural-critique

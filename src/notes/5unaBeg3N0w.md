@@ -2,7 +2,6 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- Oak Tree Capital
 - Nvidia
 - OpenAI
 - Microsoft
@@ -11,7 +10,6 @@ companies_orgs:
 - Goldman Sachs
 - Oracle
 - Meta
-- Lycos
 - MySpace
 - Brookfield
 date: '2025-12-13'

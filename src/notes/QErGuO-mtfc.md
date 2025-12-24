@@ -3,13 +3,9 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - Bloomberg
-- Quality Sprays.com
 - OpenAI
-- Persec Technologies
-- Peptide Partners
 - FDA
 - DEA
-- HHS
 - YC
 - UPS
 date: '2025-12-19'
@@ -30,22 +26,10 @@ people:
 - Joe Rogan
 - Andrew Huberman
 products_models:
-- Oxytocin
 - GLP-1
 - Wegovy
-- Retatride
 - Ozempic
-- BPC-157
-- Melanotan
-- Epalon
-- Cax
-- Semaglutide
 - Tirzepatide
-- Sermorelin
-- AOD9604
-- PT-141
-- Vyleesi
-- Viagra
 - Adderall
 - iPhone
 - Instagram

@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- International Atomic Energy Agency
 - Hamas
-- Houthis
-- Hezbollah
 - Mossad
 - United Nations
 - G7
@@ -22,9 +19,6 @@ people:
 - Donald Trump
 - Benjamin Netanyahu
 - Barack Obama
-products_models:
-- Tomahawk
-- GBU-57 MOP
 project:
 - geopolitics-watch
 - historical-insights

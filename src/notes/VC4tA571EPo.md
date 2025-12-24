@@ -8,8 +8,6 @@ companies_orgs:
 - The Economist
 - Deutsche Welle
 - FTX
-- CTi News
-- Australian Strategic Policy Institute
 date: '2025-12-20'
 draft: true
 guest: ''

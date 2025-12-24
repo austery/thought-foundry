@@ -3,14 +3,9 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - FBI
-- DSG
 - Robinhood
-- 广汽集团
 - 宁德时代
 - 京东
-- 龙威生物制药
-- 时光派
-- 瑞剑未来
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -35,8 +30,6 @@ people:
 - Xi Jinping
 - Vladimir Putin
 - 李强
-products_models:
-- ION
 project:
 - us-analysis
 - china-analysis

@@ -2,7 +2,6 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- 中華民國肥胖研究學會
 - 初日醫學
 - Cofit
 date: '2025-02-12'

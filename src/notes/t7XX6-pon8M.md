@@ -4,7 +4,6 @@ category: business
 companies_orgs:
 - Tesla
 - Waymo
-- 美国公路交通安全管理局
 - Airbnb
 date: '2025-06-14'
 draft: true

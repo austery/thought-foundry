@@ -2,8 +2,6 @@
 area: tech-insights
 author: All-In Podcast
 category: technology
-companies_orgs:
-- toma-bravo
 date: '2025-10-15'
 draft: true
 guest: ''

@@ -18,8 +18,6 @@ people:
 - 宋晏仁醫師
 products_models:
 - Inbody
-- 真正薰衣草精油
-- 廣藿香精油
 project:
 - personal-growth-lab
 - cultural-critique

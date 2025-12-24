@@ -14,8 +14,6 @@ companies_orgs:
 - 美国证监会
 - 美联储
 - 迪士尼
-- 福克斯
-- 传奇影业
 date: '2025-12-06'
 draft: true
 guest: ''
@@ -30,9 +28,7 @@ people:
 - Elon Musk
 products_models:
 - TQQQ
-- SOXL
 - SOXS
-- SQQQ
 - QQQ
 - HBO Max
 - PCE

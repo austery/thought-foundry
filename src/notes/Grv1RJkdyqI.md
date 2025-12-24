@@ -2,10 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Bill and Melinda Gates Foundation
 - AstraZeneca
 - Johnson & Johnson
-- Novovax
 - Oxford University
 date: '2021-02-04'
 draft: true
@@ -17,10 +15,6 @@ media_books:
 people:
 - Bill Gates
 - Derek Muller
-products_models:
-- mRNA
-- PCR tests
-- Smallpox
 project:
 - geopolitics-watch
 - systems-thinking

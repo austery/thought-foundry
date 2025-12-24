@@ -4,14 +4,7 @@ category: geopolitics
 companies_orgs:
 - Hancock公司
 - MP Materials
-- Lynas
-- Arafura Rare Earth
-- Liontown Resources
-- Terra Capital
-- St George Mining
-- 福特汽车公司
 - 五角大楼
-- 美国进出口银行
 date: '2025-11-05'
 draft: true
 guest: ''

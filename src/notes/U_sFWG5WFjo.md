@@ -4,16 +4,10 @@ category: psychology
 companies:
 - psychedelic-therapy
 companies_orgs:
-- Johns Hopkins
-- Sandoz
 - CIA
 - FDA
 - DEA
 - Big Think
-- Pink Floyd
-- The Beatles
-- Cheech & Chong
-- The Rolling Stones
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -30,33 +24,9 @@ people:
 - Jesus
 - Buddha
 products_models:
-- LSD
-- Psilocybin
-- DMT
-- Mescaline
-- Ayahuasca
-- Peyote
-- MDMA
-- Ketamine
-- PCP
-- Cannabis
-- Cocaine
-- Methamphetamine
-- Opioids
-- Tobacco
-- Nicotine
-- Salvinorin A
-- Ibogaine
 - Prozac
-- SSRIs
 - Valium
-- Xanax
-- Morphine
 - Heroin
-- Oxycodone
-- Ketanserin
-- PCR
-- MKUltra
 project:
 - personal-growth-lab
 - historical-insights

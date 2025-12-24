@@ -2,10 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- Harbour Air
 - CMHC
-- Ocean Concrete
-- River Rock Casino
 date: '2025-08-02'
 draft: true
 guest: ''

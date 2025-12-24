@@ -11,7 +11,6 @@ companies_orgs:
 - 甲骨文
 - Fortinet
 - Palantir
-- 芝加哥联储
 - 彭博
 - 华尔街日报
 - 波音

@@ -1,18 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- OpenReview
-- ICLR
-- NeurIPS
-- ICML
-- ACL
-- CVPR
-- OWASP
-- Pangram Labs
-- Google Scholar
-- DBLP
-- SIGARCH
 date: '2025-12-08'
 draft: true
 guest: ''
@@ -26,7 +14,6 @@ media_books:
 products_models:
 - ChatGPT
 - Claude
-- Adam optimizer
 project:
 - ai-impact-analysis
 - systems-thinking

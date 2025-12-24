@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 百度百科
 - 国民党
-- 民社党
-- 青年党
 - 共产党
 date: '2025-07-19'
 draft: true

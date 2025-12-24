@@ -12,8 +12,6 @@ companies_orgs:
 - Tesla
 - Morgan Stanley
 - Goldman Sachs
-- Rothschild Bank
-- Athorpec
 date: '2025-11-19'
 draft: true
 guest: ''

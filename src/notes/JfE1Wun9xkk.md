@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books: []
 people: []
-products_models:
-- sora
 project:
 - ai-impact-analysis
 series: ''

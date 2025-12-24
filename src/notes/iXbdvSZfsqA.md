@@ -6,10 +6,6 @@ companies_orgs:
 - Volkswagen
 - Norges Bank Investment Management
 - Audi
-- Bentley
-- Lamborghini
-- Skoda
-- Seat
 date: '2024-05-15'
 draft: true
 guest: ''
@@ -17,16 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - Nikolai
-products_models:
-- '911'
-- '356'
-- '718'
-- Cayenne
-- Panamera
-- Macan
-- Taycan
-- Taycan GT
-- PDK
 project:
 - china-analysis
 - investment-strategy

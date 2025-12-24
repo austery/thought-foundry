@@ -2,13 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 不明白播客
-- 卫健委
-- YMCA
-- 波兰团结工会
-- 巴西劳工党
-- 南非工会大会
-- 前进党
 - 富士康
 date: '2024-11-29'
 draft: true

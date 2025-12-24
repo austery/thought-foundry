@@ -3,9 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - TVO
-- Proper Television
-- The Tyee
-- Rotman School of Management
 - University of Toronto
 date: '2025-12-12'
 draft: true
@@ -18,10 +15,6 @@ media_books:
 - How Great Ideas Happen
 - Simon & Garfunkel record
 - John Hughes movies
-products_models:
-- Canon C70
-- Instant Pot
-- Crock-Pot
 project:
 - historical-insights
 - cultural-critique

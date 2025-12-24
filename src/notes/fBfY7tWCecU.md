@@ -2,14 +2,10 @@
 area: tech-insights
 category: business
 companies_orgs:
-- Gamma
 - a16z
 - Apple
-- Xerox
-- Optimizely
 - Microsoft
 - Google
-- IDEO
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -22,10 +18,6 @@ products_models:
 - Google Slides
 - ChatGPT
 - Zapier
-- Make
-- Granola
-- Endgame
-- Glean
 - Cursor
 - Figma
 project:

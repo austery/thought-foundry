@@ -9,7 +9,6 @@ companies_orgs:
 - 寒武纪
 - 摩尔线程
 - 万科
-- 深圳国资委
 - 国际货币基金组织
 date: '2025-12-12'
 draft: true

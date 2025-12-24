@@ -8,13 +8,8 @@ companies_orgs:
 - 中石化
 - Alibaba
 - 农夫山泉
-- 安踏
-- 晋江
 - 娃哈哈
 - 宁德时代
-- 海康威视
-- 中粮
-- 三菱
 - Polymarket
 - FBI
 date: '2024-12-22'

@@ -3,7 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - American Airlines
-- Sony Music
 - U.S. Supreme Court
 date: '2022-04-01'
 draft: true
@@ -17,11 +16,6 @@ people:
 - Paul
 - Ketanji Brown Jackson
 - Sigmund Freud
-products_models:
-- GI Jane 2
-- Laundry Blues
-- Chop Suey
-- Look at her hair
 project:
 - systems-thinking
 - cultural-critique

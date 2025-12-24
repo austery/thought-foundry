@@ -7,11 +7,8 @@ companies_orgs:
 - Apple
 - Amazon
 - Microsoft
-- Citi Bank
 - European Central Bank
 - World Bank
-- MTN
-- Recorded Future
 date: '2025-01-15'
 draft: true
 guest: ''
@@ -21,11 +18,7 @@ people:
 - Nicola Tangen
 - Jane Fraser
 products_models:
-- Apple Card
 - Apple Pay
-- MobilePay
-- Blick
-- Bizum
 project:
 - investment-strategy
 - ai-impact-analysis

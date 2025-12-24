@@ -13,8 +13,6 @@ layout: post.njk
 products_models:
 - Dow Jones Industrial Average
 - VIX
-- Credit Default Swaps
-- Inverse Volatility Products
 - Dodd-Frank Act
 project:
 - market-cycles

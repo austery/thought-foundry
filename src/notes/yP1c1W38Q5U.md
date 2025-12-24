@@ -2,13 +2,8 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 弘文书院
 - 光复会
-- 左翼作家联盟
-- 《民报》
 - 同盟会
-- 政闻社
-- 《新青年》
 date: '2025-11-28'
 draft: true
 guest: ''

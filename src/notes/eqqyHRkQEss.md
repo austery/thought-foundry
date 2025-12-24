@@ -5,7 +5,6 @@ companies_orgs:
 - Chipotle
 - McDonald's
 - Taco Bell
-- Wendy's
 - Cava
 - Sweetgreen
 date: '2025-11-06'

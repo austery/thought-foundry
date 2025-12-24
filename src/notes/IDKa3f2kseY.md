@@ -2,8 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 神州医药总会
-- 中华医学会
 - 洛克菲勒基金会
 date: '2025-03-15'
 draft: true

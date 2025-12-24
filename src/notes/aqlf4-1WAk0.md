@@ -6,7 +6,6 @@ companies_orgs:
 - 美联储
 - 财政部
 - 工商银行
-- 硅谷银行
 date: '2025-10-24'
 draft: true
 guest: ''

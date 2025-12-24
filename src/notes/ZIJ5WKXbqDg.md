@@ -4,20 +4,13 @@ category: geopolitics
 companies_orgs:
 - Adobe
 - Salesforce
-- 世贸组织
-- 五角大厦
 - 中央情报局
-- 美国联邦航空管理局
 - 中国人民银行
 - 高盛
 - Alibaba
-- 星岛日报
 - 香港01
-- 紧急管理部
-- 大阪维新会
 - 自民党
 - 公民党
-- 中国中央电视台
 date: '2025-11-29'
 draft: true
 guest: ''

@@ -10,8 +10,6 @@ insight: null
 layout: post.njk
 people:
 - 泓君
-products_models:
-- glp-1
 project: []
 series: null
 source: null

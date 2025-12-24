@@ -14,8 +14,6 @@ media_books:
 - Modern Love
 people:
 - Anna Martin
-products_models:
-- Millennium Falcon Lego
 project:
 - personal-growth-lab
 - historical-insights

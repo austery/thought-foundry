@@ -3,11 +3,7 @@ area: society-systems
 category: business
 companies_orgs:
 - OpenAI
-- Gilbert LLP
-- Canadian Press
-- Tourar
 - The Globe and Mail
-- Postmedia
 - CBC
 - TVO
 - Microsoft

@@ -6,7 +6,6 @@ companies_orgs:
 - European Union
 - G20
 - CIA
-- Yasukuni Shrine
 date: '2025-11-29'
 draft: true
 guest: ''

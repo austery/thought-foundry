@@ -5,24 +5,17 @@ companies_orgs:
 - 澜起科技
 - 中芯国际
 - 台积电
-- 长电科技
 - 博通
-- 瑞萨电子
 date: '2025-09-01'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- 内存互联芯片
 - PCIE产品
 - CXL产品
 - CKD时钟芯片
-- 以太网互联芯片
-- 光通信互联芯片
 - DDR5
-- Retimer
-- PCIe Switch
 project:
 - investment-strategy
 - china-analysis

@@ -7,13 +7,10 @@ companies_orgs:
 - SK Hynix
 - Samsung
 - Micron
-- 长鑫存储
-- Kioxia
 - SanDisk
 - Toshiba
 - Seagate
 - Western Digital
-- HP Enterprise
 - Dell
 - IBM
 - NetApp
@@ -31,17 +28,9 @@ layout: post.njk
 media_books:
 - Money or Life 美股频道
 products_models:
-- DRAM
-- NAND Flash
 - HBM
-- HDD
-- SSD
 - DDR5
-- DirectFlash
-- Purity OS
-- Evergreen
 - Google Cloud
-- 百度云
 project:
 - investment-strategy
 - ai-impact-analysis

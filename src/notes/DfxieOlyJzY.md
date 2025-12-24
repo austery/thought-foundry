@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - 安氏半导体 (Nexperia)
 - 文泰科技 (Wingtech Technology)
-- 荷兰经济事务部
-- 阿姆斯特丹上诉法院企业法庭
 - 中国商务部
 - ASML
 - 大众 (Volkswagen)

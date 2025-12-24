@@ -8,26 +8,15 @@ companies_orgs:
 - Apple
 - Tencent
 - Alibaba
-- Biren Technology
-- Tianshu Zhixing
 - Moore Threads
-- Muxi Semiconductor
-- MINI Max
-- Zhipu AI
 - Oracle
 - NVIDIA
 - Broadcom
 - AMD
 - Intel
-- Shanghai Guotou
-- Guangzhou Chantu
-- Ping An Group
-- MiHoYo
 - Xiaohongshu
 - Xiaomi
-- China International Capital Corporation
 - Bloomberg
-- U.S. Securities and Exchange Commission
 - Federal Reserve
 - People's Bank of China
 - Ministry of Commerce of China
@@ -52,9 +41,6 @@ people:
 - Nick Timiraos
 products_models:
 - Photoshop
-- Hao Luo AI
-- Xinyi
-- Talky
 - WeChat
 project:
 - ai-impact-analysis

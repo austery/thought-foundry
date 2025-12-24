@@ -6,9 +6,6 @@ companies_orgs:
 - Google
 - Waymo
 - Snowflake
-- 美国土木工程师学会
-- 《哈佛商业评论》
-- 盖洛普
 date: '2024-06-23'
 draft: true
 guest: ''
@@ -19,10 +16,6 @@ people:
 - Modi
 - Joe Biden
 - Barack Obama
-products_models:
-- FastTrak
-- Cable Car
-- BART
 project:
 - us-analysis
 - systems-thinking

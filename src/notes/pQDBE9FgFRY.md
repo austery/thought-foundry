@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- 零下56
 - 北美房车full time RV
 date: '2023-07-05'
 draft: true

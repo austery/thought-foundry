@@ -25,7 +25,6 @@ companies_orgs:
 - Coinbase
 - MicroStrategy
 - Eli Lilly
-- J&J
 - Pfizer
 - Walmart
 - Grab

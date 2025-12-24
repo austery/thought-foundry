@@ -2,18 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Suncor
-- CTV
 - CBC
 - 加拿大税务局 (CRA)
-- 英格兰银行
 - 联合国
-- 加拿大环境与气候变化部
-- 加拿大财政部
-- 卡尔加里大学
-- 安大略省能源委员会
-- 魁北克水电公司
-- 加拿大保守党
 - 加拿大自由党
 - 新民主党 (NDP)
 - 联合保守党 (UCP)

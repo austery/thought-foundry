@@ -3,7 +3,6 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- City Bank
 date: '2024-04-26'
 draft: true
 guest: ''

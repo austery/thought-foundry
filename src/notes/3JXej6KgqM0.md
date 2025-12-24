@@ -7,7 +7,6 @@ companies_orgs:
 - 联合国
 - Meta
 - Twitter
-- 101st Airborne Division
 date: '2024-12-25'
 draft: true
 guest: ''

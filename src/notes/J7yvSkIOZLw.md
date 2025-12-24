@@ -6,12 +6,7 @@ companies_orgs:
 - OpenAI
 - Anthropic
 - Amazon
-- Lumen Technologies
-- Zayo
-- Cor-weave
 - Oracle
-- QTS
-- Cooper
 date: '2024-10-09'
 draft: true
 guest: ''

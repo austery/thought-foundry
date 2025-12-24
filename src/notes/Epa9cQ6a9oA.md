@@ -5,10 +5,6 @@ companies_orgs:
 - 国务院
 - 人民日报
 - 美团
-- 红十字会
-- 组织部
-- 人社部
-- 工信部
 - 解放军
 date: '2025-11-01'
 draft: true
@@ -28,10 +24,7 @@ products_models:
 - EB-1签证
 - R签证
 - K签证
-- 千人计划
-- 启明计划
 - WhatsApp
-- 谷歌
 project:
 - china-analysis
 - us-analysis

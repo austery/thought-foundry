@@ -4,7 +4,6 @@ category: career
 companies_orgs:
 - 清华大学
 - 北京大学
-- 浙江大学
 - 麻省理工学院
 - 剑桥大学
 - UBC

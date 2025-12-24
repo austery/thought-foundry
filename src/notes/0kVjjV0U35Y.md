@@ -2,9 +2,6 @@
 area: digital-garden
 category: productivity
 companies_orgs:
-- Recall
-- ADO
-- University of Zurich
 - Gartner
 date: '2025-06-09'
 draft: true
@@ -17,7 +14,6 @@ media_books:
 - Substack
 products_models:
 - Notebook LM
-- YouTube Premium
 project:
 - ai-impact-analysis
 - personal-growth-lab

@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Bloomberg
-- Signum
 - University of Virginia
 - Chinese Communist Party
 - Nvidia

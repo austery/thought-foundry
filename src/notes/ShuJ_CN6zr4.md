@@ -1,8 +1,6 @@
 ---
 area: tech-work
 category: ai-ml
-companies_orgs:
-- Factory AI
 date: '2025-12-22'
 draft: true
 guest: ''

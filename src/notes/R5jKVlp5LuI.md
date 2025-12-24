@@ -3,7 +3,6 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- Live Ocean
 date: '2024-11-25'
 draft: true
 guest: ''
@@ -11,10 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Nikolai Tangen
-products_models:
-- America's Cup
-- 49er
-- SailGP
 project:
 - systems-thinking
 - personal-growth-lab

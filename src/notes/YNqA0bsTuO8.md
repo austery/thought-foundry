@@ -3,10 +3,8 @@ area: society-systems
 category: business
 companies_orgs:
 - 天下文化
-- 哈佛商学院
 - HP
 - SAP
-- 科睿唯安
 date: '2025-11-12'
 draft: true
 guest: ''

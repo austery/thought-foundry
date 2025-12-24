@@ -2,11 +2,8 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Googlen
 - JP Morgan
-- Westpac
 - Bloomberg
-- StreetAccount
 - Tesla
 - BYD
 - Rivian
@@ -40,8 +37,6 @@ people:
 - Bill Gates
 products_models:
 - ETF
-- Just Works
-- Smart Cut
 project:
 - us-analysis
 - investment-strategy

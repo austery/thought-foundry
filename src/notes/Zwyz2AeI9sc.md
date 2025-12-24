@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Bloomberg
-- Morning Star
 - Tesla
 date: '2024-03-31'
 draft: true

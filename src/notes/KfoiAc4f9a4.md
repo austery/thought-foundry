@@ -3,12 +3,8 @@ area: market-analysis
 category: finance
 companies_orgs:
 - CoreWeave
-- Moffett Nathanson
 - Blackstone
 - KKR
-- GIP
-- American Tower
-- Digital Realty Trust
 - Equinix
 - Nebius
 - IREN
@@ -16,7 +12,6 @@ companies_orgs:
 - OpenAI
 - AWS
 - Azure
-- Google Cloud Services
 - IBM
 - AMD
 - Google

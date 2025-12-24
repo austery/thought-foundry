@@ -3,8 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - 初日診所
-- 世界銀行
-- 巴西聖保羅大學
 date: '2025-02-20'
 draft: true
 guest: ''

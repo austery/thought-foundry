@@ -4,18 +4,15 @@ category: career
 companies_orgs:
 - Amazon
 - Statsig
-- Graphite
 - Meta
 - Google
 - Microsoft
 - Reddit
 - Asana
 - Ramp
-- Tecton
 - Vercel
 - Uber
 - Twitch
-- Augment Code
 - JetBrains
 - Booking.com
 date: '2025-07-09'
@@ -36,9 +33,6 @@ products_models:
 - S3
 - DynamoDB
 - VS Code
-- Android Studio
-- Vim
-- Outlook
 project:
 - us-analysis
 - personal-growth-lab

@@ -3,10 +3,7 @@ area: society-systems
 category: technology
 companies_orgs:
 - DeepMind
-- Bullfrog Productions
 - Google
-- CASP
-- 曼哈顿计划
 date: '2025-12-03'
 draft: true
 guest: ''
@@ -30,9 +27,7 @@ people:
 products_models:
 - AlphaGo
 - AlphaZero
-- AlphaStar
 - AlphaFold
-- AlphaFold 2
 project:
 - ai-impact-analysis
 - historical-insights

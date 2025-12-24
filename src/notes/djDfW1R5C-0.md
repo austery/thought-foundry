@@ -3,27 +3,11 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - World Bank
-- Paylab
-- Australian Bureau of Statistics
 - OECD
 - Brookfield
-- BHP
-- Coles
-- Woolworths
-- Loblaw
-- Sobeys
 - Air Canada
-- WestJet
-- Qantas
-- Virgin Australia
-- Bell
-- Rogers
-- Telus
-- Telstra
 - Vodafone
-- Optus
 - Credit Suisse
-- Mitsubishi
 - Ford
 - General Motors
 - Toyota

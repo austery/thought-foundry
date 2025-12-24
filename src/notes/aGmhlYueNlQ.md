@@ -4,12 +4,7 @@ category: finance
 companies_orgs:
 - JPMorgan Chase
 - First Brands
-- Tricolor
 - Zions Bancorporation
-- Western Alliance Bank
-- Broadband Telecom
-- Bridge Voice
-- Oaktree Capital Management
 date: '2025-12-01'
 draft: true
 guest: ''

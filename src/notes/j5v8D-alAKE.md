@@ -6,11 +6,6 @@ companies_orgs:
 - Apple
 - General Motors
 - DuPont
-- Phillips
-- International General Electric
-- Tokyo Electric
-- OSRAM
-- Associated Electric
 date: '2021-03-26'
 draft: true
 guest: ''
@@ -25,10 +20,6 @@ people:
 products_models:
 - iPhone
 - iPod
-- Model T
-- LED
-- compact fluorescent
-- incandescent light bulb
 project:
 - historical-insights
 - systems-thinking

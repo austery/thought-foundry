@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 童行书院
-- 银河学院
 date: '2025-11-05'
 draft: true
 guest: ''

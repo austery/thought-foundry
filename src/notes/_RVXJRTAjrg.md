@@ -2,10 +2,8 @@
 area: society-systems
 category: business
 companies_orgs:
-- DONE Global
 - Meta
 - US Department of Justice
-- Drug Enforcement Administration (DEA)
 - FDA
 - CVS
 - Walmart

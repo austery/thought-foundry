@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - Apple
-- Oxfam
 - FBI
 - Gallup
 - Microsoft
@@ -22,11 +21,6 @@ people:
 - Tony Blair
 - Elon Musk
 - J.K. Rowling
-products_models:
-- Speak
-- Research Excellence Framework
-- Human Development Index
-- Donut Economics
 project:
 - personal-growth-lab
 - systems-thinking

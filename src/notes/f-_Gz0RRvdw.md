@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- 加拿大税务局
 - CPP投资委员会
 - RBC
 - 加拿大统计局
@@ -13,24 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 庄也
-products_models:
-- Canada Child Benefit
-- Ontario Child Benefit
-- BC Family Benefit
-- Child Disability Benefit
-- Registered Education Savings Plan
-- Canada Education Savings Grant
-- Canada Learning Bond
-- Old Age Security
-- Guaranteed Income Supplement
-- Allowance
-- Allowance for the Survivor
-- Canada Pension Plan
-- Quebec Pension Plan
-- Registered Retirement Savings Plan
-- Defined Benefit Pension Plan
-- Defined Contribution Pension Plan
-- Canadian Retirement Income Calculator
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=f-_Gz0RRvdw

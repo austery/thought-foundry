@@ -5,7 +5,6 @@ companies_orgs:
 - Harvard Business Review
 - Apple
 - KGB
-- Kimberly-Clark
 - Federal Reserve
 date: '2025-11-08'
 draft: true
@@ -29,11 +28,6 @@ people:
 - George Orwell
 - Alan Greenspan
 - Mahatma Gandhi
-products_models:
-- Apple Macintosh
-- Discover Card
-- Monster.com
-- Charmin
 project:
 - geopolitics-watch
 - systems-thinking

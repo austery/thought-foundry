@@ -11,8 +11,6 @@ layout: post.njk
 media_books: []
 people:
 - Donald Trump
-products_models:
-- Trump Gold Card
 project:
 - ai-impact-analysis
 series: ''

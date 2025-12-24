@@ -18,7 +18,6 @@ products_models:
 - Foundry
 - Ontology
 - AIP
-- 大语言模型
 - DCF估值模型
 project:
 - investment-strategy

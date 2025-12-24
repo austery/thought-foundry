@@ -3,10 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - TVO Today
-- Global Organization of Parliamentarians Against Corruption
-- Monk School of Global Affairs
 - McGill University
-- Center for International Governance Innovation
 - House of Commons
 - Wilson Foundation
 date: '2025-12-02'
@@ -22,8 +19,6 @@ people:
 - Mark Carney
 - Narendra Modi
 - Donald Trump
-products_models:
-- Feminist International Assistance Policy
 project:
 - us-analysis
 - geopolitics-watch

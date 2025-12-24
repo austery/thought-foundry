@@ -9,9 +9,7 @@ companies_orgs:
 - BLS
 - CME
 - Fannie Mae
-- Federal Housing Administration
 - Bank of America
-- Melius
 - Google
 - Microsoft
 - Meta

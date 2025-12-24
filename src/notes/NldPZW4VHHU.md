@@ -6,7 +6,6 @@ companies_orgs:
 - Disney
 - ARM
 - Coinbase
-- Galaxy
 - Robinhood
 - BlackRock
 - Amazon
@@ -25,7 +24,6 @@ people:
 - 段永平
 products_models:
 - USDC
-- ARRC
 - AI选股功能
 project:
 - investment-strategy

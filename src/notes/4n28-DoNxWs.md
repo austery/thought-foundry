@@ -2,30 +2,16 @@
 area: personal-systems
 category: business
 companies_orgs:
-- G2
 - McKinsey
 - MIT
-- Stanford Business School
 - Google
-- Alonza
-- Niku
 - Oracle
-- Big Machines
 - Apple
 - Amazon
 - Salesforce
-- Ricoh
-- Siebel
-- SteelBrick
 - Gartner
-- GE Energy
 - Rolls-Royce
-- Dreamforce
 - Accel
-- Gong
-- Chorus
-- IT Review.jp
-- SoftBank CNS
 date: '2025-11-17'
 draft: true
 guest: ''
@@ -42,14 +28,7 @@ people:
 - Matt
 - Mark Zuckerberg
 products_models:
-- 3D printing
-- CD-ROMs
 - CRM
-- CPQ
-- Email marketing
-- Marketing automation
-- Conversational intelligence
-- SaaS
 - Facebook
 project:
 - entrepreneurship

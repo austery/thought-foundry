@@ -5,8 +5,6 @@ companies_orgs:
 - Weibo
 - Xiaohongshu
 - Bilibili
-- Zhihu
-- Cyberspace Administration of China
 date: '2025-03-08'
 draft: true
 guest: ''

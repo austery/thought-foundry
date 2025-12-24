@@ -14,12 +14,6 @@ media_books:
 - Psychoanalysis of the Battle Girl
 people:
 - Lacan
-products_models:
-- Magical Girl Sally
-- Bewitched
-- Cutie Honey
-- Red Flower Shadow
-- Sailor Moon
 project:
 - cultural-critique
 - personal-growth-lab

@@ -5,9 +5,7 @@ companies_orgs:
 - 恒大
 - 碧桂园
 - 万科
-- 住建部
 - 国务院
-- 浙工大
 date: '2025-11-28'
 draft: true
 guest: ''

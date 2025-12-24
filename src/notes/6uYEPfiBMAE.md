@@ -20,8 +20,6 @@ companies_orgs:
 - Chipotle
 - Cava
 - JetBlue
-- Lotus
-- WordPerfect
 - Morgan Stanley
 - Stanford University
 date: '2025-11-07'
@@ -60,11 +58,8 @@ products_models:
 - Gemini
 - Claude
 - Grok
-- xAI
-- Cursor 2.0
 - Stargate
 - Siri
-- Tesla Optimus
 project:
 - us-analysis
 - ai-impact-analysis

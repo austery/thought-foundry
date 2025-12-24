@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - S&P 500
 - FOMC
-- San Francisco Fed
 - Oracle
 - Coreweave
 - Meta

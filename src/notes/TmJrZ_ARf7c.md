@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 天主教会
-- 英国圣公会
 date: '2025-06-29'
 draft: true
 guest: ''

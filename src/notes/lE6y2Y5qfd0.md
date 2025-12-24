@@ -2,15 +2,9 @@
 area: society-systems
 category: general
 companies_orgs:
-- BBB
 - WhatsApp
-- Telegram
 - Meta
-- Kijiji
 - Paypal
-- 微信支付
-- Line Payment
-- Tiger Trade
 - Amazon
 - Walmart
 - Costco
@@ -26,9 +20,6 @@ people:
 - Vladimir Putin
 products_models:
 - NFT
-- 比特幣
-- 以太幣
-- 狗狗幣
 project:
 - us-analysis
 - personal-growth-lab

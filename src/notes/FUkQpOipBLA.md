@@ -3,11 +3,9 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Federal Reserve
-- U.S. Bureau of Labor Statistics
 - White House
 - Supreme Court
 - Hamas
-- Carnegie Endowment for International Peace
 - Truth Social
 date: '2025-10-24'
 draft: true

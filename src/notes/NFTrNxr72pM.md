@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - 美国财政部
 - 美国劳工统计局
-- 美国国家统计局
 date: '2025-11-13'
 draft: true
 guest: ''

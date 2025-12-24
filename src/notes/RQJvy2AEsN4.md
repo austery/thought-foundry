@@ -4,7 +4,6 @@ category: business
 companies_orgs:
 - Norges Bank Investment Management
 - Norges Bank
-- Antropic
 - OpenAI
 date: '2025-12-11'
 draft: true
@@ -17,8 +16,6 @@ products_models:
 - ChatGPT
 - Cloud Code
 - Copilot
-- Eobot
-- Eko
 - Snowflake
 project:
 - ai-impact-analysis

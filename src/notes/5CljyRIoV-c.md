@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - TVO Today
 - National Institutes of Health
-- Queen's University
 date: '2025-11-12'
 draft: true
 guest: ''
@@ -21,9 +20,6 @@ people:
 - Nam Kiwanuka
 - Nicole Kidman
 - Donald Trump
-products_models:
-- Thalidomide
-- Women's Health Initiative
 project:
 - us-analysis
 - historical-insights

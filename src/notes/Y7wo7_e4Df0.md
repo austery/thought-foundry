@@ -17,9 +17,6 @@ people:
 - John C. Williams
 - Nick Timiraos
 - Marc Benioff
-products_models:
-- Agent Force
-- Alpha Pick
 project:
 - us-analysis
 - investment-strategy

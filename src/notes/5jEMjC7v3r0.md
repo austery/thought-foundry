@@ -2,8 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 腾讯新闻
-- 世界新闻周报
 - 清华大学
 date: '2025-07-07'
 draft: true

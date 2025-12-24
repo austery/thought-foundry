@@ -1,16 +1,11 @@
 ---
 area: society-systems
 category: science
-companies_orgs:
-- New York's Department of Transportation
-- AMOLF Institute
 date: '2025-06-30'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Incogni
 project:
 - systems-thinking
 - historical-insights

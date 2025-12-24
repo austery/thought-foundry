@@ -5,7 +5,6 @@ companies_orgs:
 - UN
 - Ontario government
 - Pew Research Center
-- Angus Reed
 date: 2025-10-31
 draft: true
 guest: ''
@@ -16,7 +15,8 @@ media_books:
 people:
 - Donald Trump
 - Justin Trudeau
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

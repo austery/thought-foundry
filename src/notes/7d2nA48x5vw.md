@@ -14,11 +14,8 @@ companies_orgs:
 - Microsoft
 - Cadence Design Systems
 - Celestica
-- Confluent
 - Amcor
-- NXP Semiconductors
 - Whirlpool
-- Waste Management
 - Galaxy Digital
 - Bank of America
 - Robinhood
@@ -40,7 +37,6 @@ people:
 - Mike Alfred
 products_models:
 - S&P 500
-- Nasdaq-100
 - iPhone 17
 project:
 - us-analysis

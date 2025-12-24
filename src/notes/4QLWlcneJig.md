@@ -28,25 +28,10 @@ people:
 - Jony Ive
 - Walter Isaacson
 products_models:
-- Red Schwin bicycle
 - iPhone
-- Samsung
 - Facebook Marketplace
-- Google Ads
-- LinkedIn Ads
-- Adobe Express
-- Ketone IQ
-- Beehive
-- ConvertKit
 - ChatGPT
-- Replit
-- Lindy
 - WhatsApp
-- Yelp
-- Travel Velocity
-- The Knot
-- Zola
-- Wedding Wire
 project:
 - entrepreneurship
 - personal-growth-lab

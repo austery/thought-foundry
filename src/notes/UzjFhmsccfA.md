@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 洛克希德·马丁公司
 - Salesforce
 - Costco
 - 耐克

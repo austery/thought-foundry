@@ -2,14 +2,9 @@
 area: society-systems
 category: general
 companies_orgs:
-- SciShow
-- Kyle Hill
-- Kurzgesagt
-- 3Blue1Brown
 - OpenAI
 - Anthropic
 - Google DeepMind
-- Control AI
 date: '2025-12-10'
 draft: true
 guest: ''

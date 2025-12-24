@@ -6,7 +6,6 @@ companies_orgs:
 - NVIDIA
 - Microsoft
 - AWS
-- Weka
 date: '2025-11-06'
 draft: true
 guest: ''
@@ -16,32 +15,11 @@ media_books:
 - 《The Smol Training Playbook》
 - arXiv
 products_models:
-- SmolLM3
-- SmolLM2
 - GPT-3
-- Bloom
-- Qwen3
-- Gemma3
-- Kimi Moonlight
-- Zamba2
-- Falcon-H1
-- StarCoder
-- DeepSeek-R1
 - H100
-- FSx
 - S3
-- NVMe RAID
-- Slurm
-- nanosets
-- TokenizedBytes
-- Megatron-LM
-- DeepSpeed
-- TorchTitan
-- nanotron
 - PCIe
 - NVLink
-- EFA
-- EBS
 project:
 - ai-impact-analysis
 - systems-thinking

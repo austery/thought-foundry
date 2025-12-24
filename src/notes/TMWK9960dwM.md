@@ -2,18 +2,12 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- Richland Capital
 - Berkshire Hathaway
 - Apple
 - Google
-- Alibaba Group
 - Yahoo
 - NetEase
 - Tesla
-- Vivo
-- Oppo
-- 小霸王
-- 步步高
 - Nvidia
 date: '2025-11-30'
 draft: true

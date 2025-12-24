@@ -2,7 +2,6 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- Akamai Technologies
 - Amazon
 - Binance
 - Coinbase
@@ -15,7 +14,6 @@ companies_orgs:
 - OpenAI
 - Pets.com
 - Tesla
-- Webvan
 - Yahoo
 - eBay
 date: '2025-01-31'
@@ -37,8 +35,6 @@ products_models:
 - ChatGPT
 - Ethereum
 - GPU
-- Mortgage-backed Securities
-- Project Stargate
 project:
 - investment-strategy
 - market-cycles

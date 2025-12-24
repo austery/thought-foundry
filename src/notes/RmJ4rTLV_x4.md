@@ -1,31 +1,29 @@
 ---
+area: tech-insights
 author: ''
+category: technology
+companies_orgs:
+- Zapier
+- GitLab
+- Atlassian
 date: '2025-12-19'
 guest: ''
 layout: post.njk
-source: https://www.youtube.com/watch?v=RmJ4rTLV_x4
-speaker: AI Engineer
-title: 从大峡谷到自动化：Zapier 如何利用 AI 辅助支持团队修复代码
-summary: 本文介绍了 Zapier 如何应对 8,000 多个集成带来的“应用侵蚀”挑战。通过发起让支持团队直接修复代码的实验，并结合名为 Scout 的
-  AI 代码生成项目，Zapier 成功利用 MCP 协议和 Cursor SDK 将 AI 工具嵌入工程流。这不仅显著提升了支持团队的问题解决速度，还证明了支持人员在处理客户痛点和验证解决方案方面的独特优势。
-area: tech-insights
-category: technology
+products_models:
+- Cursor
+- Jira
 project:
 - ai-impact-analysis
+source: https://www.youtube.com/watch?v=RmJ4rTLV_x4
+speaker: AI Engineer
+summary: 本文介绍了 Zapier 如何应对 8,000 多个集成带来的“应用侵蚀”挑战。通过发起让支持团队直接修复代码的实验，并结合名为 Scout 的
+  AI 代码生成项目，Zapier 成功利用 MCP 协议和 Cursor SDK 将 AI 工具嵌入工程流。这不仅显著提升了支持团队的问题解决速度，还证明了支持人员在处理客户痛点和验证解决方案方面的独特优势。
 tags:
 - code
 - engineering
 - llm
 - technology
-companies_orgs:
-- Zapier
-- GitLab
-- Atlassian
-products_models:
-- Scout Agent
-- Cursor
-- Jira
-- Scout MCP
+title: 从大峡谷到自动化：Zapier 如何利用 AI 辅助支持团队修复代码
 ---
 
 ### 大峡谷与“应用侵蚀”

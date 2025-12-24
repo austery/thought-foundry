@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- DAMA/LIBRA
 project:
 - systems-thinking
 series: ''

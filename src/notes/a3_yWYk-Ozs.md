@@ -3,8 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Polymarket
-- nof1
-- 幻方
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -20,7 +18,6 @@ products_models:
 - Grok
 - ChatGPT
 - 通义千问
-- MMLU
 project:
 - ai-impact-analysis
 - investment-strategy

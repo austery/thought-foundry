@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - BBC
-- Buckingham Palace
 - MIT
 date: '2025-11-02'
 draft: true

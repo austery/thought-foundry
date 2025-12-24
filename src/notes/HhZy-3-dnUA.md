@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - KGB
-- PBS Frontline
 - United Nations
 - NATO
 - FBI
@@ -25,8 +24,6 @@ people:
 - Saddam Hussein
 - Hillary Clinton
 - Boris Yeltsin
-products_models:
-- Javelin anti-tank missiles
 project:
 - us-analysis
 - geopolitics-watch

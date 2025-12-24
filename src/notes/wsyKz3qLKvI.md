@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 加拿大央行
-- 加拿大学徒主管委员会
 date: '2025-04-13'
 draft: true
 guest: ''

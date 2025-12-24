@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 欧盟
 - 东盟
-- 四方安全对话
 - 共和党
 - 民主党
 date: '2025-12-09'

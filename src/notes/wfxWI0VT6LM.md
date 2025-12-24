@@ -3,13 +3,9 @@ area: society-systems
 category: business
 companies_orgs:
 - Bloomberg Podcasts
-- Worheimer Fleer LLP
 - White House
 - NYPD
-- Georgetown
 - Goldman Sachs
-- Geico
-- Top Dog Law
 date: '2025-07-18'
 draft: true
 guest: ''
@@ -26,18 +22,10 @@ people:
 - Tracy Alloway
 - Ben Thompson
 products_models:
-- GPT-3 Pro
 - ChatGPT
-- Briefpoint AI
 - Llama
-- Harvey AI
-- Iudis
-- CaseText
 - Claude
 - Microsoft Word
-- LexusNexus
-- Westlaw
-- Bloomberg Law
 project:
 - ai-impact-analysis
 - systems-thinking

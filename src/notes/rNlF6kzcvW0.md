@@ -3,11 +3,7 @@ area: society-systems
 category: business
 companies_orgs:
 - 泡泡玛特
-- BLACKPINK
 - 天猫
-- 香港交易所
-- 孩之宝
-- 美泰
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -18,21 +14,7 @@ media_books:
 - '《Future Gamblers: A longitudinal study on young people''s transfer from loot box
   spending to gambling》'
 products_models:
-- Molly
 - Labubu
-- 变形金刚
-- 星球大战
-- 大富翁
-- 培乐多
-- 芭比娃娃
-- 白雪公主
-- 托马斯小火车
-- 健达奇趣蛋
-- 麦当劳开心乐园餐
-- 盲盒
-- 扭蛋
-- 装备箱
-- 道具箱
 project:
 - china-analysis
 - entrepreneurship

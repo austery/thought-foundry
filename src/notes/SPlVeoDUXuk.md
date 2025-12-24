@@ -21,11 +21,8 @@ people:
 - Plato
 - Kant
 products_models:
-- ChatGPT 5
 - Gemini 2.5 Pro
 - Gemini CLI
-- Homebrew
-- OCR my pdf
 project:
 - ai-impact-analysis
 - personal-growth-lab

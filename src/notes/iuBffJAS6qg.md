@@ -6,16 +6,12 @@ companies_orgs:
 - G7
 - Ford
 - BYD
-- State Grid
-- CMOC Group
 - Meituan
-- Mixue Bingcheng
 - European Union
 - Pew Research Center
 - CIA
 - SWIFT
 - Bloomberg
-- Atlas Public Opinion
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -27,9 +23,6 @@ people:
 - Xi Jinping
 - Narendra Modi
 - Jair Bolsonaro
-products_models:
-- Euro
-- BRICS Coin
 project:
 - us-analysis
 - geopolitics-watch

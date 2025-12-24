@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 加州大学
-- 加州大学河滨分校
-- Fire
 date: '2025-01-12'
 draft: true
 guest: ''

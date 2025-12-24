@@ -4,17 +4,12 @@ category: finance
 companies_orgs:
 - Norges Bank Investment Management
 - Bridgewater Associates
-- Oaktree Capital Management
-- Wellington Management
-- Hellman & Friedman
 - Harvard Business School
 - Stanford Management Company
 - Apollo Global Management
 - Morgan Stanley
 - Google
 - Vanguard
-- CitiBank
-- Cleveland Clinic
 - Ferrari
 - Novo Nordisk
 - DoorDash
@@ -46,7 +41,6 @@ people:
 - Nikolai Tangen
 products_models:
 - S&P 500
-- Pure Alpha
 project:
 - investment-strategy
 - systems-thinking

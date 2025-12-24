@@ -2,7 +2,6 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- Dutch Republic
 - Russia
 date: '2024-03-13'
 draft: true
@@ -17,8 +16,6 @@ people:
 - Vladimir Putin
 - Adolf Hitler
 - Joe Biden
-products_models:
-- Ukraine
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=oEahPLq1qBU

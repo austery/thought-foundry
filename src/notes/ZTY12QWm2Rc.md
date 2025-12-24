@@ -3,12 +3,7 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Starbucks
-- 瑞幸
-- 酷迪
-- Dunkin
 - Tim Hortons
-- Cafe Amazon
-- Costa Coffee
 - McDonald's
 - Alibaba
 date: '2025-10-16'
@@ -18,8 +13,6 @@ insight: ''
 layout: post.njk
 people:
 - 唐石峻
-products_models:
-- Mc Cafe
 project:
 - china-analysis
 - investment-strategy

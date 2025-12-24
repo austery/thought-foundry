@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - Harvard
-- University of Utah
 - BetterHelp
 date: '2023-11-15'
 draft: true

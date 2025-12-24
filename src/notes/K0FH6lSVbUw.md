@@ -3,10 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 国民党
-- 德国之声
 - 北约
 - 中共
-- 人民解放军
 - 联合国
 - Fox
 date: '2025-11-15'

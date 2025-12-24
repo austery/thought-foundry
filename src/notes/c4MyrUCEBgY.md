@@ -41,7 +41,6 @@ products_models:
 - Grok
 - Megapack
 - iPhone
-- App Store
 project:
 - ai-impact-analysis
 - entrepreneurship

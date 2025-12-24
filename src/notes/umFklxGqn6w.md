@@ -3,7 +3,6 @@ area: society-thinking
 category: history
 companies_orgs:
 - US Army
-- Mexican Government
 - US Congress
 date: '2025-12-18'
 draft: true

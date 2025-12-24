@@ -3,15 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - TVO Today
-- University of Windsor
-- Health Experiences and Longevity (Heel) Lab
 - National Institutes of Health
-- Canadian Institute for Health Research
-- Social Sciences and Humanities Council of Canada
-- Monash University
-- PCOS Together
-- PCOS Challenge
-- The Seasons Collective
 date: '2025-11-05'
 draft: true
 guest: ''

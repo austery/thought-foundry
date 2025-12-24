@@ -4,7 +4,6 @@ category: science
 companies_orgs:
 - Johns Hopkins University
 - Big Think
-- Royal Society
 date: '2025-11-07'
 draft: true
 guest: ''

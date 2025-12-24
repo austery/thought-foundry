@@ -5,7 +5,6 @@ companies_orgs:
 - YouTube
 - Google
 - Waymo
-- Abundant
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -13,7 +12,6 @@ insight: ''
 layout: post.njk
 products_models:
 - BERT
-- Dreamer
 project:
 - ai-impact-analysis
 - systems-thinking

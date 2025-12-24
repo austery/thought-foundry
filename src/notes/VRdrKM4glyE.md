@@ -10,8 +10,6 @@ layout: post.njk
 media_books:
 - Ring of the Nibelung
 - Das Rheingold
-products_models:
-- Red Alert 3
 project:
 - personal-growth-lab
 - historical-insights

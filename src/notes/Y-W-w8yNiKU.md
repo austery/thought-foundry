@@ -5,7 +5,6 @@ companies_orgs:
 - Caltech
 - Hostinger
 - Veritasium
-- Kickstarter
 date: '2025-12-05'
 draft: true
 guest: ''
@@ -20,13 +19,6 @@ people:
 - Carl Anderson
 - Richard Feynman
 - Max Born
-products_models:
-- Dirac equation
-- Schrodinger equation
-- Klein-Gordon equation
-- Feynman diagrams
-- Dirac sea
-- Veritasium game
 project:
 - systems-thinking
 - historical-insights

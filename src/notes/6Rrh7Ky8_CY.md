@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 世界银行
 - 国际货币基金组织
-- 东北证券
 - 华为
 - 大疆
 - Alibaba
@@ -16,13 +15,6 @@ companies_orgs:
 - Google
 - 三星
 - Nvidia
-- 长江实业
-- 友邦保险
-- 怡和集团
-- 东京电力公司
-- 日本邮政控股
-- 韩国电力公司
-- 台湾中油
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -33,8 +25,6 @@ media_books:
 - 《2024年国际货币基金组织评估报告》
 people:
 - 马云
-products_models:
-- iPhone 6
 project:
 - china-analysis
 - geopolitics-watch

@@ -4,7 +4,6 @@ category: stock-investment
 companies_orgs:
 - London Business School
 - Norges Bank Investment Management
-- Norwegian Central Bank
 - Ministry of Finance
 - Nvidia
 - Anthropic

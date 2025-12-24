@@ -4,14 +4,9 @@ category: geopolitics
 companies:
 - arms-race
 companies_orgs:
-- Cambridge University
-- University of Göttingen
-- Nazi Germany
 - US military
 - UC Berkeley
 - Caltech
-- Institute of Advanced Study at Princeton
-- General Advisory Committee
 - Soviet Union
 - Wren
 date: '2023-07-18'
@@ -39,13 +34,6 @@ people:
 - Otto Hahn
 - Franklin Roosevelt
 - Stalin
-products_models:
-- Atomic bomb
-- Hydrogen bomb
-- Little Boy
-- Ivy Mike
-- Tsar Bomba
-- Freon
 project:
 - historical-insights
 - geopolitics-watch

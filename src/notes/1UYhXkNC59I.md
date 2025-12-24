@@ -4,7 +4,6 @@ category: culture
 companies_orgs:
 - Tinder
 - 麦当劳
-- 肯德基
 date: '2022-07-22'
 draft: true
 guest: ''

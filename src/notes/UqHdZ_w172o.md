@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 日本央行
 - 伯克希尔·哈撒韦
-- 苹果公司
 - 英特尔
 - 星巴克
 - Meta
@@ -27,8 +26,6 @@ people:
 - 李强
 products_models:
 - TQQQ
-- AAPL
-- SBC
 project:
 - us-analysis
 - investment-strategy

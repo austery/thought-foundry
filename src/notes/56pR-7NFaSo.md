@@ -1,14 +1,6 @@
 ---
 area: finance-wealth
 category: macro-economy
-companies_orgs:
-- 沃托组织
-- 东印度公司
-- 晋商
-- 日升昌
-- 大盛魁
-- 广州十三行
-- 票号
 date: '2025-09-26'
 draft: true
 guest: ''

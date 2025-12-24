@@ -7,7 +7,6 @@ companies_orgs:
 - MicroStrategy
 - Rocket Lab
 - SoFi
-- Con Edison
 - BBC
 - White House
 - Federal Reserve

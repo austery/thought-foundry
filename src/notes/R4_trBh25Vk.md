@@ -8,16 +8,8 @@ companies_orgs:
 - Visa
 - Google
 - FIFA
-- NCAA
-- UEFA
 - Netflix
-- Arsenal
-- Liverpool
-- India Women’s Cricket
-- WNBA
-- National Women's Soccer League
 - ESPN
-- The Athletic
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -31,7 +23,6 @@ people:
 - Lionel Messi
 products_models:
 - iPhone
-- Hotmail
 - Instagram
 - TikTok
 - Gemini

@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 奥匈帝国
 date: '2025-04-17'
 draft: true
 guest: ''

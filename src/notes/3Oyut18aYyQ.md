@@ -3,7 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - 汇丰银行
-- 网易新闻
 - WTO
 date: '2025-11-07'
 draft: true

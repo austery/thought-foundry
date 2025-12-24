@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Google DeepMind
-- 伊利诺伊大学厄巴纳-香槟分校
 - Anthropic
 date: '2025-12-13'
 draft: true
@@ -26,9 +25,7 @@ media_books:
 - Agent Workflow Memory
 - Evo-Memory
 products_models:
-- Gemini-2.5
 - Claude 3.5
-- Claude 3.7
 project:
 - ai-impact-analysis
 - systems-thinking

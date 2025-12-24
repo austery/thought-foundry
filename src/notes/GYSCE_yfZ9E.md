@@ -6,12 +6,8 @@ companies_orgs:
 - Google
 - NVIDIA
 - Anthropic
-- HCA Healthcare
 - LG
-- Macquarie Bank
-- Banco BV
 - Best Buy
-- FairPrice Group
 - YouTube
 - Waymo
 - Samsung
@@ -23,7 +19,6 @@ companies_orgs:
 - Salesforce
 - Coca-Cola
 - Toyota
-- L'Oréal
 - X
 - NFL
 date: '2025-11-02'
@@ -41,26 +36,14 @@ products_models:
 - Veo
 - Genie 3
 - Nano Banana
-- Ironwood
 - A4X Max实例
 - GB300芯片
 - Willow
 - Pixel 10系列
-- Tensor G5
-- Android XR
-- Samsung Galaxy XR
 - AI Overviews
-- AI Mode
 - Chrome
 - Google Cloud
 - Google Workspace
-- Cloud Storage
-- AI Platform
-- BigQuery
-- Gemini Enterprise
-- Shorts
-- Waymo for Business
-- Waymo Teens
 project:
 - ai-impact-analysis
 - investment-strategy

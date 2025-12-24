@@ -2,7 +2,6 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- Meitou Team
 - Chrysler
 - American Express
 - Goldman Sachs

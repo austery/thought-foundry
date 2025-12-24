@@ -2,15 +2,9 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Mozilla AI
-- Arthur AI
 - OpenAI
-- JPMC
 - Google
 - Meta
-- Galileo
-- Brain Trust
-- Merkor
 date: '2025-08-06'
 draft: true
 guest: ''

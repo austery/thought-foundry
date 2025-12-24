@@ -2,14 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 北京大学健康发展研究中心
-- 国家医保局
 - 世界卫生组织
-- 国家发改委
-- 中组部
-- 深圳市第二人民医院
 - 人民日报
-- 卫生部
 date: '2025-11-07'
 draft: true
 guest: ''

@@ -5,7 +5,6 @@ companies_orgs:
 - Federal Reserve
 - Bank of Japan
 - ASEAN
-- U.S. Department of State
 - CIA
 - National Bureau of Statistics of China
 date: '2025-10-26'
@@ -27,8 +26,6 @@ people:
 - Robert Lighthizer
 - Jair Bolsonaro
 - Vladimir Putin
-products_models:
-- Burevestnik missile
 project:
 - us-analysis
 - china-analysis

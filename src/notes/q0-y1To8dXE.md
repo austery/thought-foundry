@@ -4,9 +4,7 @@ category: culture
 companies_orgs:
 - KMT
 - CCP
-- Think Tank
 - Reform UK
-- PETA
 date: '2025-11-14'
 draft: true
 guest: ''

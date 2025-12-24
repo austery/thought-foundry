@@ -24,9 +24,6 @@ people:
 - Socrates
 - 崔健
 - 吴国光
-products_models:
-- Medicaid
-- ObamaCare
 project:
 - us-analysis
 - geopolitics-watch

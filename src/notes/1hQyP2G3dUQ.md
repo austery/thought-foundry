@@ -2,25 +2,13 @@
 area: society-systems
 category: general
 companies_orgs:
-- Northern Super League
-- Team Canada
 - TVO
-- Vancouver Rise
-- AFC Toronto
-- WNBA
-- Canada Soccer
-- Canadian Premier League
-- Waramps Champ program
-- Volleyball Canada
-- Dillasal College
 date: '2025-12-09'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 media_books:
-- The Pitch
-products_models:
 - The Pitch
 project:
 - historical-insights

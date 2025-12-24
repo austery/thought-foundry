@@ -3,11 +3,7 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - White House
-- China's Ministry of Commerce
 - Nexperia
-- Wingtech Group
-- Wuxi Guolian Integrated Circuit Investment Center
-- ICBC
 - ABC
 - Pfizer
 - Eli Lilly
@@ -21,12 +17,10 @@ companies_orgs:
 - IBM
 - McDonald's
 - Starbucks
-- Boyu Capital
 - SK Hynix
 - Nvidia
 - BYD
 - Supreme Court
-- Zhejiang Provincial Administration for Market Regulation
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -43,9 +37,6 @@ people:
 - Marco Rubio
 - Janet Yellen
 - Xi Jinping
-products_models:
-- D-chain
-- HBM4
 project:
 - us-analysis
 - china-analysis

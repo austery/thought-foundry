@@ -19,8 +19,6 @@ people:
 - 孔子
 - 孟子
 - 庄子
-products_models:
-- GORE-TEX
 project:
 - systems-thinking
 - personal-growth-lab

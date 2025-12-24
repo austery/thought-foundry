@@ -3,12 +3,9 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Bank of America
-- Truist
-- US Bank
 - JP Morgan
 - American Express
 - Blackstone
-- Polo Capital
 - Atlanta Fed
 - Fed
 date: '2025-11-05'

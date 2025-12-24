@@ -4,9 +4,7 @@ category: psychology
 companies_orgs:
 - Harvard Business Review
 - New York Times
-- Irrational Capital
 - S&P 500
-- Russell 1000
 date: '2025-11-18'
 draft: true
 guest: ''
@@ -17,8 +15,6 @@ media_books:
 people:
 - Adi Ignatius
 - Mark Zuckerberg
-products_models:
-- HBR IdeaCast
 project:
 - personal-growth-lab
 - systems-thinking

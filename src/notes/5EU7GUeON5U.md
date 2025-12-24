@@ -35,11 +35,7 @@ products_models:
 - B100
 - CoWoS
 - TPU
-- DPU
 - HBM
-- Nvlink
-- Infiniband
-- Ethernet
 project:
 - ai-impact-analysis
 - us-analysis

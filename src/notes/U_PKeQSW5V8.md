@@ -5,7 +5,6 @@ companies_orgs:
 - 苹果
 - 三星
 - 小米
-- vivo
 - OPPO
 - 华为
 - Booking
@@ -15,8 +14,6 @@ companies_orgs:
 - Google
 - Applied Materials
 - ASML
-- Ventures
-- 东京电子
 - Broadcom
 - Tesla
 date: '2025-07-14'
@@ -34,8 +31,6 @@ products_models:
 - iPhone
 - iPad
 - Apple Watch
-- AppStore
-- arkitimessage
 project:
 - us-analysis
 - investment-strategy

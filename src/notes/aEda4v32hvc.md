@@ -11,7 +11,6 @@ companies_orgs:
 - Nvidia
 - 台积电
 - 美联储
-- 众议院预算委员会
 date: '2025-05-13'
 draft: true
 guest: ''
@@ -20,8 +19,6 @@ layout: post.njk
 media_books: []
 people:
 - Donald Trump
-products_models:
-- Intel 18A
 project:
 - us-analysis
 - investment-strategy

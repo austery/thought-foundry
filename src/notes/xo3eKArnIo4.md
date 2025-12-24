@@ -2,14 +2,12 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Cinder
 - Meta
 - Y Combinator
 - Accel
 - NSA
 - CIA
 - FBI
-- National Center for Missing and Exploited Children
 date: '2025-11-05'
 draft: true
 guest: ''

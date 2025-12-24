@@ -2,13 +2,11 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- UC San Diego
 - OpenAI
 - 清华大学
 - 微信
 - 腾讯
 - DeepSeek
-- High-Flyer
 - 百度
 - 华为
 - 小米
@@ -17,8 +15,6 @@ companies_orgs:
 - 大疆
 - 红杉资本
 - 国家发展和改革委员会
-- 工业和信息化部
-- 国家外汇管理局
 date: '2025-05-29'
 draft: true
 guest: ''
@@ -45,7 +41,6 @@ people:
 products_models:
 - Grok
 - DeepSeek
-- Paxlovid
 - mRNA疫苗
 project:
 - ai-impact-analysis

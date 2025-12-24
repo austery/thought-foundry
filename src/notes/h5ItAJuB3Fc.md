@@ -2,7 +2,6 @@
 area: tech-engineering
 category: ai-ml
 companies_orgs:
-- Krea.ai
 - Midjourney
 date: '2025-08-23'
 draft: true
@@ -13,7 +12,6 @@ people:
 - Claude Shannon
 products_models:
 - LLMs
-- diffusion models
 project:
 - ai-impact-analysis
 - systems-thinking

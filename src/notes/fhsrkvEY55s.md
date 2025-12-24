@@ -3,14 +3,8 @@ area: market-analysis
 category: finance
 companies_orgs:
 - MicroStrategy
-- Strategy
 - GameStop
-- Metaplanet
-- Smarter Web Company
-- Sequans
-- Robin Wigglesworth
 - Bloomberg
-- The Financial Times
 - The Economist
 - BlackRock
 date: '2025-12-08'
@@ -30,9 +24,6 @@ people:
 products_models:
 - Gemini Flash
 - Sora
-- MSTX
-- MSTU
-- MSTP
 project:
 - us-analysis
 - investment-strategy

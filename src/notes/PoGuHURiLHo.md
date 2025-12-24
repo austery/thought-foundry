@@ -12,8 +12,6 @@ companies_orgs:
 - Apple
 - Samsung
 - Intel
-- SK hynix
-- Microchip
 - Amazon
 - Google
 - Meta
@@ -32,14 +30,10 @@ people:
 - 唐石峻
 - 巴菲特
 products_models:
-- QuickBooks
 - TurboTax
-- Creative Cloud
 - PDF
 - Photoshop
 - Premiere Pro
-- Document Cloud
-- CA Technologies
 - VMware
 project:
 - investment-strategy

@@ -2,10 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- US-News
 - Fraser Institute
-- Appleby College
-- Oakville district school board
 date: '2024-02-17'
 draft: true
 guest: ''

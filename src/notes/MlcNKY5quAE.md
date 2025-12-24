@@ -5,7 +5,6 @@ companies_orgs:
 - FBI
 - DOJ
 - Mossad
-- Wahaha
 - Google
 - APEC
 date: '2025-11-22'
@@ -33,8 +32,6 @@ people:
 - 刘总
 - 老马
 - 索隆
-products_models:
-- Jmail
 project:
 - us-analysis
 - geopolitics-watch

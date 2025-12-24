@@ -2,7 +2,6 @@
 area: tech-engineering
 category: ai-ml
 companies_orgs:
-- Braintrust
 - Notion
 - Replit
 - Google
@@ -15,12 +14,9 @@ layout: post.njk
 products_models:
 - GPT-4
 - GPT-4o
-- GPT-4o mini
 - GPT-3.5
-- Claude 3 Sonnet
 - Claude 3 Opus
 - Gemini
-- Gemini 2.5 Pro 0520
 - Gemini Flash
 project:
 - ai-impact-analysis

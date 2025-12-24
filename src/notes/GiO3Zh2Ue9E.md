@@ -5,7 +5,6 @@ companies_orgs:
 - Apple
 - Nvidia
 - Google
-- Ford Motors
 - Intel
 - Boeing
 - Tesla
@@ -14,7 +13,6 @@ companies_orgs:
 - NSF
 - NIH
 - FTC
-- Yale Law School
 - Big Think
 date: '2025-11-20'
 draft: true
@@ -37,9 +35,6 @@ people:
 products_models:
 - iPhone
 - GPU
-- V2 missiles
-- Accela train
-- Project Titan
 project:
 - china-analysis
 - us-analysis

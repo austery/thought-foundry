@@ -3,9 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 世界银行
-- 北京朝阳医院
-- 联邦司法部
-- 德州总检察长
 date: 2025-01-03
 draft: true
 guest: ''
@@ -14,7 +11,8 @@ layout: post.njk
 media_books:
 - 《黄帝内经》
 people: '[]'
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - systems-thinking

@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Netflix
-- Warner Bros. Discovery (WBD)
 - Paramount Global
 - Comcast
 - Skydance Media
@@ -11,9 +10,7 @@ companies_orgs:
 - Apple
 - Amazon
 - HBO
-- Universal Pictures
 - NBC
-- Six Flags
 date: '2025-12-15'
 draft: true
 guest: ''

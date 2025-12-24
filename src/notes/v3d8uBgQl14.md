@@ -3,14 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Council on Foreign Relations
-- Jamestown Foundation
 - Huawei
 - NVIDIA
-- 山西百姓信息技术
-- 韩华海洋集团
-- 国防科技大学
-- 中航工业
-- 广州警察学院
 - 苹果
 - 耐克
 - 亚马逊
@@ -36,8 +30,6 @@ products_models:
 - GPT-4
 - H100
 - H800
-- 升腾
-- 麒麟
 project:
 - us-analysis
 - china-analysis

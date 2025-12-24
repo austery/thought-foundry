@@ -4,10 +4,7 @@ category: ai-ml
 companies_orgs:
 - Google
 - Google DeepMind
-- UK AISI
 - Apollo
-- Vaultis
-- Dreadnode
 - OpenAI
 - Anthropic
 date: '2025-11-19'
@@ -25,7 +22,6 @@ products_models:
 - Claude Sonnet 4.5
 - GPT-5.1
 - Nano Banana
-- Gemini 2.5 Compute Use
 project:
 - ai-impact-analysis
 - knowledge-pipeline

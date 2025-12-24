@@ -3,7 +3,6 @@ area: society-systems
 category: science
 companies_orgs:
 - McMaster University
-- Food Allergy Canada
 date: '2025-12-03'
 draft: true
 guest: ''

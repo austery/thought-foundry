@@ -12,12 +12,10 @@ companies_orgs:
 - 抖音
 - Nvidia
 - 甲骨文
-- Panel
 - S&P Global
 - JP Morgan
 - Goldman Sachs
 - Citibank
-- Standard & Poor's
 date: '2024-09-30'
 draft: true
 guest: ''
@@ -31,9 +29,7 @@ people:
 - 查理·芒格
 products_models:
 - 通义千问
-- 摩塔社区
 - Snowflake
-- Oracle Database
 project:
 - us-analysis
 - investment-strategy

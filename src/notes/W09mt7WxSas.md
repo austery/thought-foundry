@@ -2,9 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- brain trust
-- mother duck
-- notion
 - Meta
 - Microsoft
 - Amazon
@@ -17,9 +14,6 @@ media_books:
 - 《增长数据分析手册》
 - 《Hooked》
 - 《Growth Hacker》
-products_models:
-- AI builders
-- Snowpeak
 project:
 - systems-thinking
 - personal-growth-lab

@@ -8,8 +8,6 @@ companies_orgs:
 - 哈佛大学
 - 清华大学
 - 北京大学
-- 新疆石河子女子禁毒支队
-- 南通文理
 date: '2025-12-12'
 draft: true
 guest: ''
@@ -39,21 +37,7 @@ people:
 - 福泽谕吉
 - 贾老师
 products_models:
-- 杜冷丁
-- 摇头丸
 - K他命
-- 冰毒
-- 海洛因
-- 笑气
-- 止咳糖浆
-- 可乐
-- 咖啡因
-- 可卡因
-- 大麻
-- 槟榔
-- 科兴
-- 莫德纳
-- Omicron
 project:
 - china-analysis
 - historical-insights

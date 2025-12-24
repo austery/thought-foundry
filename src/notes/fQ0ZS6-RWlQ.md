@@ -4,7 +4,6 @@ category: psychology
 companies_orgs:
 - Columbia University
 - Big Think
-- University of California, San Francisco
 - University of Cambridge
 - TikTok
 date: '2025-11-14'
@@ -20,8 +19,6 @@ media_books:
 people:
 - Isaac Newton
 - Paul McCartney
-products_models:
-- PTSD
 project:
 - personal-growth-lab
 - systems-thinking

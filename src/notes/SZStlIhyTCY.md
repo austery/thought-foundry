@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Last Economy
-products_models:
-- AI agents
 project:
 - ai-impact-analysis
 - systems-thinking

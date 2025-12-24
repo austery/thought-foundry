@@ -2,13 +2,9 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Restaurant Brands International
 - Norges Bank Investment Management
 - Burger King
 - Tim Hortons
-- Firehouse Subs
-- Popeyes
-- Domino's Pizza
 date: '2024-03-20'
 draft: true
 guest: ''
@@ -19,12 +15,6 @@ media_books:
 - Rudolph Diesel
 people:
 - Nicola Tangan
-products_models:
-- Whopper
-- Big Mac
-- Original Chicken Sandwich
-- Royal Crispy Chicken Sandwich
-- Fiery Fish
 project:
 - investment-strategy
 - entrepreneurship

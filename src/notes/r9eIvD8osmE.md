@@ -5,7 +5,6 @@ companies_orgs:
 - Microsoft
 - Visa
 - 穆迪
-- 标普全球
 - 惠誉
 - 亚马逊
 - 沃尔玛

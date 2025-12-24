@@ -4,7 +4,6 @@ category: culture
 companies_orgs:
 - Instagram
 - Twitter
-- 美国电影学会
 date: '2025-10-16'
 draft: true
 guest: ''

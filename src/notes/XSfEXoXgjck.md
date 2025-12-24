@@ -2,9 +2,7 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- citigroup
 - jpmorgan-chase
-- wells-fargo
 date: '2025-10-14'
 draft: true
 guest: ''

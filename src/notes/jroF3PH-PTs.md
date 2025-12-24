@@ -4,13 +4,8 @@ category: psychology
 companies_orgs:
 - Pixar
 - Google
-- US special forces
-- University of Houston
 - TikTok
-- Seattle Seahawks
 - Shopify
-- PipeDrive
-- Adobe Express
 date: '2025-11-03'
 draft: true
 guest: ''

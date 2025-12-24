@@ -2,7 +2,6 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 魁北克人党
 - OpenAI
 date: '2025-12-17'
 draft: true

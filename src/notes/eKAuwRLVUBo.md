@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 中研院
-- 国民党政府
 date: '2024-10-20'
 draft: true
 guest: ''

@@ -6,7 +6,6 @@ companies_orgs:
 - FBI
 - The Wall Street Journal
 - Dow Jones
-- News Corp
 - ABC News
 - CBS
 date: 2025-07-21
@@ -31,7 +30,8 @@ people:
 - Ted Cruz
 - Nick Fuentes
 - Ghislaine Maxwell
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

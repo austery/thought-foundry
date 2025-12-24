@@ -2,7 +2,6 @@
 area: personal-systems
 category: career
 companies_orgs:
-- 领导影响力学院
 - 天下文化
 - 世界经济论坛
 date: '2025-10-10'
@@ -16,8 +15,6 @@ media_books:
 people:
 - 梁晓华
 - Stephen Covey
-products_models:
-- 萨提尔模式
 project:
 - personal-growth-lab
 - systems-thinking

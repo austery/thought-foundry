@@ -6,15 +6,7 @@ companies_orgs:
 - Lyft
 - Uber
 - LCBO
-- The Beer Store
-- Financial Accountability Office
-- Canadian Home Builders' Association
-- Ontario Home Builders' Association
-- Hamilton Tiger-Cats
-- Montreal Alouettes
 - Toronto Blue Jays
-- Boston Red Sox
-- Los Angeles Dodgers
 date: '2025-11-08'
 draft: true
 guest: ''
@@ -38,9 +30,6 @@ people:
 - Kathleen Wynne
 - Pierre Poilievre
 - Mike Harris
-products_models:
-- Darlington Small Modular Nuclear Reactor
-- HST
 project:
 - geopolitics-watch
 - systems-thinking

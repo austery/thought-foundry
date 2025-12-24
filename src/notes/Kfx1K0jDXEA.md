@@ -4,10 +4,6 @@ category: geopolitics
 companies_orgs:
 - Norges Bank
 - Stortinget
-- Fremskrittspartiet
-- Arbeiderpartiet
-- SV
-- Bondevik government
 - Finansdepartementet
 - Norges Bank Investment Management
 date: '2024-08-20'
@@ -22,11 +18,6 @@ media_books:
 people:
 - Kristin Halvorsen
 - Nikolai
-products_models:
-- Oljefondet
-- Statens petroleumsfond
-- Statens pensjonsfond
-- handlingsregelen
 project:
 - geopolitics-watch
 - investment-strategy

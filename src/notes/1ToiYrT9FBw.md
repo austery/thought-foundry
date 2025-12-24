@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- 耶稣会
 - 天主教会
 date: '2023-12-30'
 draft: true

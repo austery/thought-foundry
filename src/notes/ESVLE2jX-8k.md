@@ -2,10 +2,7 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- Good Inside
 - Big Think
-- Nest
-- Blockbuster
 date: '2025-12-04'
 draft: true
 guest: ''
@@ -14,7 +11,6 @@ layout: post.njk
 media_books:
 - Troop Beverly Hills
 products_models:
-- Nest camera
 - iPad
 project:
 - personal-growth-lab

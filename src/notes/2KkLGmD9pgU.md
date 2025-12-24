@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 华尔街日报
 - 路透社
-- 法新社
 - 新华社
 - 人民日报
 date: '2025-12-14'

@@ -2,16 +2,12 @@
 area: society-systems
 category: business
 companies_orgs:
-- Formula 1
 - Norges Bank Investment Management
 - Ferrari
-- Lamborghini
 - Audi
 - Red Bull
-- FIA
 - Cadillac
 - Apple
-- Hollywood
 date: '2025-05-21'
 draft: true
 guest: ''
@@ -23,8 +19,6 @@ media_books:
 people:
 - Nicolai Tangen
 - Brad Pitt
-products_models:
-- Fiat 500
 project:
 - systems-thinking
 - entrepreneurship

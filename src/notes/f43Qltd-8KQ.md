@@ -4,11 +4,7 @@ category: geopolitics
 companies_orgs:
 - 国民党
 - 共产党
-- 八路军
 - 黄埔军校
-- 中原野战军
-- 桂系
-- 土木系
 date: '2025-11-08'
 draft: true
 guest: ''

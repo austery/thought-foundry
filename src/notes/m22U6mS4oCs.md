@@ -2,13 +2,8 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Orange Group
 - Norges Bank Investment Management
-- GSMA
-- China Mobile
 - Boston Consulting Group
-- Alcatel-Lucent
-- Schneider Electric
 - OpenAI
 date: '2025-08-20'
 draft: true
@@ -23,7 +18,6 @@ people:
 - Mario Draghi
 products_models:
 - 5G
-- 6G
 project:
 - ai-impact-analysis
 - entrepreneurship

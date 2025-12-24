@@ -2,12 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- American Guano Company
-- Rockefeller Foundation
 - FBI
-- New York Memorial Hospital
-- American Cancer Society
-- ICRT
 date: '2024-08-02'
 draft: true
 guest: ''

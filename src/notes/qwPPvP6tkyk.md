@@ -2,10 +2,8 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- 海螺水泥
 - 招商银行
 - 宁德时代
-- 药明康德
 date: '2025-07-15'
 draft: true
 guest: ''

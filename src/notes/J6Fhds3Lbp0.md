@@ -15,9 +15,6 @@ products_models:
 - Ethereum
 - USDT
 - USDC
-- RWUSD
-- ARTX
-- Babylon
 project:
 - investment-strategy
 series: ''

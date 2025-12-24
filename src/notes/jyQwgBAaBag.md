@@ -1,15 +1,11 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Kiwico
 date: '2021-05-29'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Blackbird
 project:
 - systems-thinking
 series: ''

@@ -2,19 +2,12 @@
 area: market-analysis
 category: business
 companies_orgs:
-- 1X
 - Goldman Sachs
-- 华映资本
-- 盛大集团
 - SoftBank
-- 小马智行
 - Figure
 - Tesla
 - Physical Intelligence
 - 宇树科技
-- 智元机器人
-- 优必选
-- Skild
 - Google
 - DeepMind
 - Waymo
@@ -25,8 +18,6 @@ companies_orgs:
 - Mercedes-Benz
 - Nvidia
 - xAI
-- Highway1
-- PCH
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -36,22 +27,17 @@ people:
 - Elon Musk
 - 李飞飞
 products_models:
-- NEO
 - Optimus
 - BERT
 - GPT
 - GPT-3
 - ChatGPT
 - VLA
-- RT-1
-- RT-2
-- PI0
 - Grok
 - FSD
 - Gemini
 - ImageNet
 - Manus
-- Digital Twin
 project:
 - us-analysis
 - china-analysis

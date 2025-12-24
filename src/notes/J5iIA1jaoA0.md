@@ -3,7 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - 有知有行
-- 四方美术馆
 - Polymarket
 date: '2025-12-05'
 draft: true

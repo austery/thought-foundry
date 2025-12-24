@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Cursor
-- Boot
-- Lumi
 project:
 - ai-impact-analysis
 - entrepreneurship

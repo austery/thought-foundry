@@ -9,8 +9,6 @@ companies_orgs:
 - The Boring Company
 - Sequoia Capital
 - DARPA
-- Clay Mathematics Institute
-- Mellanox
 date: '2025-12-02'
 draft: true
 guest: ''
@@ -24,9 +22,6 @@ products_models:
 - Starlink
 - InfiniBand
 - ChatGPT
-- Prufrock
-- Counter-Strike
-- Wireshark
 project:
 - us-analysis
 - systems-thinking

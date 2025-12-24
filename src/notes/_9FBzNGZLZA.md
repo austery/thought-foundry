@@ -3,11 +3,7 @@ area: market-analysis
 category: business
 companies_orgs:
 - Bloomberg Podcasts
-- Arafe USA
-- Tyson
-- Cargill
 - Walmart
-- JBS
 date: '2025-11-22'
 draft: true
 guest: ''
@@ -18,11 +14,7 @@ people:
 - Joe Weisenthal
 - Donald Trump
 products_models:
-- Sherman Act
-- Clayton Act
-- Packers and Stockyards Act of 1921
 - Truth Social
-- Dirt Cheap
 - Odd Lots podcast
 project:
 - us-analysis

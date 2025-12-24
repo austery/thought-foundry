@@ -2,7 +2,6 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Every
 - Big Think
 - Apple
 - Meta
@@ -24,7 +23,6 @@ people:
 - Eliezer Yudkowsky
 products_models:
 - ChatGPT
-- General Problem Solver
 project:
 - ai-impact-analysis
 - systems-thinking

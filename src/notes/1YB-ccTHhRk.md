@@ -12,8 +12,6 @@ companies_orgs:
 - S&P 500
 - Federal Reserve
 - Bank of America
-- Rosenblat
-- Reality Labs
 - Amazon
 - Apple
 - OpenAI
@@ -23,13 +21,9 @@ companies_orgs:
 - Bank of Canada
 - Mastercard
 - Roblox
-- Crocs
-- Hershey's
 - Estee Lauder
 - Eli Lilly
 - Merck
-- Bristol Myers Squib
-- Mercado Libre
 - Chipotle
 - McDonald's
 - Starbucks
@@ -44,13 +38,9 @@ companies_orgs:
 - Intel
 - Disney
 - ASML
-- Lam Research
 - TikTok
 - Whole Foods
-- Universal Music Group
-- UDIO
 - Big Bear AI
-- Perimeter Solutions
 - Redcat
 - S&P Global
 - Carvana
@@ -60,8 +50,6 @@ companies_orgs:
 - Core Scientific
 - CoreWeave
 - Fiserv
-- Sprouts Farmers Market
-- Goto
 - IBM
 - Adobe
 date: 2025-10-31

@@ -3,10 +3,7 @@ area: market-analysis
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- NBIM
 - AWS
-- Grit AI
-- Capgemini
 - OpenAI
 - Anthropic
 - Microsoft
@@ -15,7 +12,6 @@ companies_orgs:
 - Amazon
 - University of Pennsylvania
 - Nvidia
-- Deep Seek
 date: '2025-06-12'
 draft: true
 guest: ''
@@ -30,8 +26,6 @@ people:
 - Sam Altman
 - Elon Musk
 products_models:
-- Pilates
-- ISAC project
 - Claude
 - Cursor
 - Copilot
@@ -39,17 +33,10 @@ products_models:
 - GPT-3.5
 - ChatGPT
 - Snowflake
-- Fivetran
-- DBT
-- Tableau
 - Python
-- Streamlit
 - GitHub
-- Sentinel
-- React Loop
 - MCP
 - RAG
-- Alpha Evolve
 project:
 - ai-impact-analysis
 - systems-thinking

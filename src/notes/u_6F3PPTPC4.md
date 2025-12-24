@@ -3,13 +3,10 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Bloomberg
-- Bank of Finland
 - ECB
 - NATO
 - European Commission
 - IMF
-- European Stability Mechanism
-- AFD
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -25,9 +22,6 @@ people:
 - Mario Draghi
 products_models:
 - F-35
-- F-18
-- Euro system
-- Slush
 project:
 - geopolitics-watch
 - investment-strategy

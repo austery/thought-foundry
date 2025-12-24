@@ -2,10 +2,8 @@
 area: personal-systems
 category: lifestyle
 companies_orgs:
-- Stanford Research Institute
 - 初日醫學
 - Cofit
-- 廣州的第一軍醫大學
 date: '2025-06-18'
 draft: true
 guest: ''

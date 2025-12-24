@@ -5,8 +5,6 @@ companies_orgs:
 - IMF
 - US Treasury
 - Bloomberg
-- FT
-- YPF
 - BlackRock
 - Moody's
 - Fitch

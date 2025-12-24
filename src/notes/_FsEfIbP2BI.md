@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Cato Institute
-- US National Science Foundation
 date: '2025-09-20'
 draft: true
 guest: ''
@@ -13,12 +12,7 @@ people:
 - Donald Trump
 - Howard Lutnick
 products_models:
-- F1 student visa
-- OPT
 - H-1B visa
-- Gold Card program
-- Company Gold Card
-- Platinum Card
 project:
 - us-analysis
 - geopolitics-watch

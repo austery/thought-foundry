@@ -1,6 +1,9 @@
 ---
 area: market-analysis
 category: finance
+companies:
+- tencent
+- tcehy
 companies_orgs:
 - Tencent
 - S&P 500
@@ -12,7 +15,6 @@ layout: post.njk
 products_models:
 - WeChat
 - QQ
-- AI Cloud
 project:
 - investment-strategy
 - market-cycles
@@ -26,9 +28,6 @@ tags:
 - future
 - stock
 title: 腾讯（TCEHY）深度复盘：是无敌的复利机器，还是高位落袋为安？| 647天持仓分析
-companies:
-- tencent
-- tcehy
 ---
 
 ### 主持人介绍与投资背景

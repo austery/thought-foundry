@@ -45,7 +45,6 @@ companies_orgs:
 - Bank of America
 - Melius Research
 - Evercore
-- Scotia Bank
 - TD Cowen
 - Palantir
 - Coreweave
@@ -58,7 +57,6 @@ companies_orgs:
 - Warner Bros. Discovery
 - CNN
 - Waymo
-- Privy.io
 date: '2025-12-11'
 draft: true
 guest: ''
@@ -90,9 +88,6 @@ products_models:
 - Blackwell
 - Starlink
 - FSD
-- R1
-- Gen 2
-- Gen 3
 - Cosmos
 - Gemini
 project:

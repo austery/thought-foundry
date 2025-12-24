@@ -12,19 +12,14 @@ companies_orgs:
 - Riot Platforms
 - Oklo
 - GE
-- Fermi
 - xAI
 - Bloom Energy
-- Crusoe Energy
 - Blue Owl Capital
 - Iris Energy
 - AMD
 - OpenAI
 - Meta
-- ERCOT
 - Galaxy Digital
-- Hut 8 Mining Corp.
-- Bitdeer
 - Tether
 - Cantor Fitzgerald
 - Founders Fund
@@ -47,12 +42,9 @@ people:
 - Donald Trump
 - J. D. Vance
 products_models:
-- SMR
 - Megapack
-- Colossus 2
 - GB200
 - Claude
-- Opus 4.1
 - GPT
 - TPU
 project:

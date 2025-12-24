@@ -3,16 +3,12 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Google
-- Chrome
 - Statsig
 - Linear
 - Uber
 - GitHub
 - Shopify
 - Google DeepMind
-- O'Reilly
-- Sentry
-- Stack Blitz
 date: '2025-10-29'
 draft: true
 guest: ''
@@ -27,21 +23,13 @@ media_books:
 people:
 - Andrej Karpathy
 products_models:
-- Chrome DevTools
-- Chrome DevTools MCP
-- Linear Agents
 - VS Code
 - Cursor
 - Copilot
-- Klein
 - Gemini
 - Gemini CLI
-- Ollama
 - Figma
-- Figma MCP
-- Flask
 - Bolt
-- Stack Overflow
 project:
 - ai-impact-analysis
 - vibe-coding

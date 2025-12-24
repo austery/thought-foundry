@@ -5,7 +5,6 @@ companies_orgs:
 - TVO Today
 - OpenAI
 - Meta
-- Red Sky Performance
 - Antica Productions
 date: '2025-11-26'
 draft: true
@@ -25,8 +24,6 @@ products_models:
 - Viv
 - ChatGPT
 - Claude
-- Suno
-- ElevenLabs
 - Gemini
 project:
 - ai-impact-analysis

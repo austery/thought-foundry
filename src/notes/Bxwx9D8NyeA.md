@@ -1,13 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 抗日杀奸团
-- 西南联大
-- 中央航校
-- 滇军第60军
-- 东北军政大学
-- 齐齐哈尔黑龙江省第一监狱
 date: '2025-08-15'
 draft: true
 guest: ''

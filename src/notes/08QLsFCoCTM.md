@@ -9,7 +9,6 @@ companies_orgs:
 - Samsung
 - Nvidia
 - Google
-- Bybit
 date: '2025-07-08'
 draft: true
 guest: ''
@@ -23,7 +22,6 @@ people:
 products_models:
 - ChatGPT
 - FSD
-- N7N5N3N2
 - 18A
 - 14A
 project:

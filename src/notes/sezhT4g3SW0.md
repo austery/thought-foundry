@@ -2,13 +2,8 @@
 area: society-systems
 category: general
 companies_orgs:
-- North West Company
-- Canadian Northern Railway
-- Canadian National Railway
 - Canadian Pacific Railway
-- Fairmont Hotels & Resorts
 - Hudson's Bay Company
-- Stoney Nation
 date: '2023-08-13'
 draft: true
 guest: ''

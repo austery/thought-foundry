@@ -9,10 +9,6 @@ companies_orgs:
 - Coinbase
 - Uber
 - OpenAI
-- Scale
-- Scanline
-- Eyline
-- Signal Fire
 - Meta
 - Amazon
 - Google
@@ -25,9 +21,6 @@ people:
 - Jake Paul
 - Mike Tyson
 - Chris Rock
-products_models:
-- Open Connect
-- Chaos Monkey
 project:
 - systems-thinking
 series: ''

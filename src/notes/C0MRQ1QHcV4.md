@@ -2,16 +2,10 @@
 area: society-systems
 category: general
 companies_orgs:
-- 矽谷银行
 - 摩根大通
 - 财政部
-- 联邦储备委员会
-- 联邦存款保险公司
 - Signature Bank
-- 宏达电
 - 芝加哥大学
-- 富兰克林国民银行
-- 农业委员会
 date: '2023-03-30'
 draft: true
 guest: ''

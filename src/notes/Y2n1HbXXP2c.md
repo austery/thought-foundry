@@ -11,19 +11,11 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- GPT 5.2
 - Claude Opus 4.5
 - GPT 5.1
-- GPT 5.0
 - Codex
 - ChatGPT
-- Google AK
-- Microsoft AutoGen
-- Minim
-- Pygame
 - Next.js
-- Supabase
-- XCode
 project:
 - ai-impact-analysis
 series: ''

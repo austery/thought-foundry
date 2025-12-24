@@ -26,11 +26,6 @@ people:
 - Elon Musk
 products_models:
 - Cash App
-- Square
-- Blue Sky
-- Noster
-- Mastodon
-- Matrix
 - Threads
 project:
 - ai-impact-analysis

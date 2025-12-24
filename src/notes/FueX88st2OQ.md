@@ -3,22 +3,17 @@ area: society-systems
 category: business
 companies_orgs:
 - Tesla
-- Openmind
 - Apple
 - Walmart
 - Amazon
 - Nvidia
 - Meta
-- Hilton
-- Marriott
 - MGM
 - OpenAI
 - Foxconn
 - BMW
 - Silicon Valley Bank
-- Munich Re
 - SpaceX
-- Unitary
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -34,7 +29,6 @@ people:
 products_models:
 - Optimus
 - Android
-- Dyson
 - iPhone
 project:
 - ai-impact-analysis

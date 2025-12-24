@@ -2,22 +2,7 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- Liverpool FC
-- Manchester United
-- Mainz 05
-- Borussia Dortmund
-- Real Madrid
-- Arsenal
-- Chelsea
-- Manchester City
-- Fenway Sports Group
 - Red Bull
-- Eintracht Frankfurt
-- Everton
-- Crystal Palace
-- Bournemouth
-- Southampton
-- West Bromwich Albion
 date: '2025-10-20'
 draft: true
 guest: ''

@@ -8,12 +8,10 @@ companies_orgs:
 - Alibaba
 - BYD
 - Nvidia
-- Arm Holdings
 - Uber
 - Costco
 - Coinbase
 - AMD
-- Ebay
 date: '2024-03-10'
 draft: true
 guest: ''
@@ -26,7 +24,6 @@ people:
 - Warren Buffett
 products_models:
 - Gemini
-- Bard
 project:
 - investment-strategy
 - us-analysis

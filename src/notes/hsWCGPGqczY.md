@@ -5,11 +5,9 @@ companies_orgs:
 - A16Z
 - Microsoft
 - Apple
-- Mosaic Communications
 - Netscape
 - Amazon
 - eBay
-- Capital Group
 date: 2025-10-30
 draft: true
 guest: ''
@@ -21,12 +19,7 @@ people:
 - Linus Torvalds
 products_models:
 - Mosaic
-- Netscape
 - Git
-- BitKeeper
-- intelliSense
-- PHP
-- Spring
 project:
 - systems-thinking
 - historical-insights

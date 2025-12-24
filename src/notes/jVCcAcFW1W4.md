@@ -8,9 +8,6 @@ companies_orgs:
 - Microsoft
 - Nvidia
 - Bank of England
-- Wellington
-- Helman and Freeman
-- Oak Tree
 date: '2024-04-25'
 draft: true
 guest: ''

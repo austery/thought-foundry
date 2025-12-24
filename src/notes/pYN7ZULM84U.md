@@ -4,13 +4,10 @@ category: career
 companies_orgs:
 - Slack
 - Robin Hood
-- Warp
-- Flint
 - Meta
 - Statsig
 - Kleiner Perkins
 - Google
-- Time magazine
 - IBM
 - Disney
 - Notion
@@ -20,10 +17,8 @@ companies_orgs:
 - Uber
 - Grammarly
 - Clay
-- O'Reilly
 - Amazon
 - Figma
-- Neuro
 - OpenAI
 - Cognition
 date: '2025-12-03'
@@ -38,34 +33,22 @@ people:
 - Mark Zuckerberg
 - Zach
 products_models:
-- Facebook University
 - Android
 - Java
 - Git
-- OCR
-- Bluetooth
-- Kafka
 - Bloomberg
 - Google Sheets
 - TypeScript
 - Rust
 - JavaScript
-- Presto
 - SQL
-- Atom
-- Zed
 - VS Code
 - Cursor
-- Vim
-- Hacker News
 - Twitter
 - YouTube
 - Discord
 - GitHub
 - Google Wallet
-- Google Pay
-- Gong
-- Windsurf
 project:
 - entrepreneurship
 - personal-growth-lab

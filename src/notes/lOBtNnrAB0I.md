@@ -36,7 +36,6 @@ people:
 - Vlad Tenev
 - Anthony Noto
 products_models:
-- Cortex
 - Llama
 - Sora
 project:

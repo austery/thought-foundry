@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- UBS Global Wealth Management
-- Scope
-- Reliance Industries
 date: '2025-10-25'
 draft: true
 guest: ''

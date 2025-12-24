@@ -5,7 +5,6 @@ companies_orgs:
 - 清华大学
 - 协和医院
 - 公安部
-- 马里兰大学
 date: '2024-02-25'
 draft: true
 guest: ''

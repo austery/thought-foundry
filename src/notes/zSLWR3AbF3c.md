@@ -2,12 +2,9 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Tony Blair Institute
 - OpenAI
 - European Union
 - CDC
-- Khan Academy
-- Five Eyes
 - Labour Party
 date: '2024-06-26'
 draft: true

@@ -7,12 +7,9 @@ companies_orgs:
 - Reddit
 - MIT
 - FBI
-- American Academy of Pediatrics
 - Democratic National Committee
-- European Council
 - EU
 - Russia
-- Hungary
 - JetBlue
 - Meta
 date: '2025-12-19'
@@ -36,8 +33,6 @@ people:
 - Rob Reiner
 - Mark Zuckerberg
 - Leonardo DiCaprio
-products_models:
-- PSRJ2322-2650B
 project:
 - us-analysis
 - ai-impact-analysis

@@ -25,7 +25,6 @@ products_models:
 - USDC
 - Obamacare
 - ChatGPT
-- Jamanet
 project:
 - us-analysis
 - investment-strategy

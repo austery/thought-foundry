@@ -6,8 +6,6 @@ companies_orgs:
 - NATO
 - European Union
 - Hamas
-- Israeli military
-- Israeli government
 date: '2025-10-29'
 draft: true
 guest: ''
@@ -21,7 +19,6 @@ people:
 - Benjamin Netanyahu
 products_models:
 - Fentanyl
-- Semiconductors
 project:
 - china-analysis
 - us-analysis

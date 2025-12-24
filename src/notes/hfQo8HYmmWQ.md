@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: science
-companies_orgs:
-- Altos Labs
 date: '2025-11-03'
 draft: true
 guest: ''

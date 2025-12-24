@@ -3,14 +3,7 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - 巨子生物
-- 锦波
-- 爱美克
-- 华西
-- 花旗
 - 汇丰
-- 沪港通
-- 深港通
-- 国家药监局
 date: '2025-10-25'
 draft: true
 guest: ''
@@ -18,13 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《伟大的博弈》
-products_models:
-- 冻干纤维产品
-- 重组一型胶原蛋白
-- 三型胶原蛋白
-- 阿尔法一亚型胶原蛋白
-- 蛋白溶液
-- 可赴美
 project:
 - investment-strategy
 - market-cycles

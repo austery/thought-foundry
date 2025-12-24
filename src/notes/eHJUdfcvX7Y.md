@@ -3,10 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - Netflix
-- 日本网球协会
-- Lowenstein Sandler
-- 日本驻纽约总领馆
-- 大都会艺术博物馆
 date: '2025-10-10'
 draft: true
 guest: ''

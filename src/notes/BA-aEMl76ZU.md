@@ -18,24 +18,8 @@ media_books:
 people:
 - Dwayne Johnson
 products_models:
-- Fast X
-- Triple X
-- Pitch Black
 - Go
-- Gone in 60 Seconds
-- Saving Private Ryan
-- Riddick
-- Ghost Protocol
-- Star Wars
-- DC
-- Marvel
-- The Lord of the Rings
-- Harry Potter
-- Batman
-- Spider-Man
-- Jurassic Park
 - Transformers
-- Alien Romulus
 project:
 - historical-insights
 - cultural-critique

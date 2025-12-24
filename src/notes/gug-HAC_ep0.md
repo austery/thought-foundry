@@ -2,11 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中国人力资源和社会保障部
 - 北京大学
 - 教育部
 - 国务院
-- 中国房地产信息集团
 date: '2025-11-07'
 draft: true
 guest: ''

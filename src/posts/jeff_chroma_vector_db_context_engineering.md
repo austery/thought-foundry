@@ -8,8 +8,6 @@ draft: true
 guest: ''
 insight: null
 layout: post.njk
-products_models:
-- chroma
 project:
 - ai-impact-analysis
 series: null

@@ -7,23 +7,14 @@ companies_orgs:
 - Microsoft
 - Google
 - Oracle
-- Kempner Capital Management
 - 高盛
 - 美国最高法院
 - 白宫
-- 中国人民政治协商会议
 - 中国人民银行
-- 国务院发展研究中心
 - 上海交通大学
-- 自然资源部
-- 最高人民检察院
-- 广东省政协
-- 国务院台湾事务办公室
-- 中国侨联
 - 中国共产党
 - 美国农业部
 - 美国财政部
-- 中纪委
 - X平台
 date: '2025-11-03'
 draft: true
@@ -47,8 +38,6 @@ people:
 - Mao Ning
 - Mao Zedong
 - Deng Xiaoping
-products_models:
-- 空军一号
 project:
 - us-analysis
 - china-analysis

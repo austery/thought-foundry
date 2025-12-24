@@ -4,23 +4,19 @@ category: technology
 companies_orgs:
 - Google
 - Amazon
-- SourceGraph
 - Microsoft
 - Meta
 - Uber
 - Anthropic
 - OpenAI
 - Grab
-- GeoWorks
 - Apple
 - Shopify
 - BMW
-- Koda
 - Cursor
 - Vercel
 - Perplexity
 - Linear
-- Commonwealth Bank of Australia
 date: '2025-07-16'
 draft: true
 guest: ''
@@ -40,33 +36,13 @@ people:
 - Larry Page
 products_models:
 - Google+
-- Flutter
-- React Native
 - Azure
-- Google Cloud Platform (GCP)
-- Amazon Web Services (AWS)
 - Kubernetes
 - gRPC
-- Protocol Buffers
 - Slack
-- Google Wave
-- Chubby
-- Stubby
-- Bigtable
-- MapReduce
-- Unity
 - Unreal Engine
 - ChatGPT
 - Claude Sonnet
-- Django
-- Reddit
-- Digg
-- Groupon
-- Doom
-- Quake
-- Wolfenstein
-- Grand Theft Auto 6 (GTA 6)
-- Wyvern
 project:
 - ai-impact-analysis
 - us-analysis

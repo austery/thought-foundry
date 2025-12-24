@@ -10,17 +10,13 @@ companies_orgs:
 - IBM
 - Tesla
 - Intel
-- IOQ
 - Rigetti
 - D-Wave
-- Quantum Computer
 - Google
 - JPMorgan Chase
 - Circle
 - Coinbase
-- Echo
 - ASML
-- Reliance Industries
 date: '2025-10-23'
 draft: true
 guest: ''

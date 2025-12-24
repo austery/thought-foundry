@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - SEC
-- ProShares
 date: '2025-11-16'
 draft: true
 guest: ''
@@ -12,8 +11,6 @@ layout: post.njk
 products_models:
 - TQQQ
 - QQQ
-- IWM
-- URTY
 - ChatGPT
 project:
 - investment-strategy

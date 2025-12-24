@@ -2,13 +2,9 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 西南联合大学
 - 芝加哥大学
-- 普林斯顿高等研究院
 - 加州大学伯克利分校
 - 哥伦比亚大学
-- 纽约州立大学石溪分校
-- 南开大学
 - 清华大学
 - 中科院
 - 上海交通大学
@@ -26,12 +22,6 @@ people:
 - 爱因斯坦
 - 周恩来
 products_models:
-- 杨米尔斯理论
-- 非阿贝尔规范场理论
-- 标准模型
-- 吴氏实验
-- 杨巴克斯特方程
-- 李模型
 - CUSPEA项目
 project:
 - historical-insights

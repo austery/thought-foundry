@@ -3,8 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - Costco
-- 清华紫光
-- 北大方正
 - Microsoft
 - Oracle
 - Alibaba

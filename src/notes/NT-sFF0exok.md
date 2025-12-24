@@ -21,13 +21,10 @@ companies_orgs:
 - Oklo
 - D-Wave
 - Rigetti
-- Yahoo Finance
 - CNBC
 - Bloomberg
 - Cipher
 - Bitfarms
-- Riot
-- Molina Health
 - Oscar
 - Nvidia
 - Intel
@@ -36,10 +33,7 @@ companies_orgs:
 - Apple
 - Uber
 - Lumen
-- Altera
 - Deckers
-- Pneumont
-- Digital Realty Trust
 - Target
 - Wedbush
 - Micron
@@ -65,9 +59,6 @@ people:
 - Mark Benioff
 - Anthony Noto
 - Bernie Sanders
-products_models:
-- Nvidia Cosmos
-- Google Cloud TPU
 project:
 - investment-strategy
 - market-cycles

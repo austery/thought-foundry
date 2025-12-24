@@ -10,7 +10,6 @@ companies_orgs:
 - eBay
 - Square
 - Meta
-- Wol
 date: '2024-03-27'
 draft: true
 guest: ''
@@ -23,17 +22,12 @@ people:
 - Sam Altman
 - Paul Graham
 products_models:
-- Nintendo
-- Duck Hunt
 - Microsoft Excel
 - PowerPoint
 - iPhone
-- Google Voice
-- Find My Friends
 - Facebook
 - Instagram
 - WhatsApp
-- Reality Labs
 project:
 - entrepreneurship
 - personal-growth-lab

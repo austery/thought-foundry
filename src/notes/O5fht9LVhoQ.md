@@ -4,10 +4,7 @@ category: general
 companies_orgs:
 - Snowflake
 - Uber
-- 美联航
 - 美国司法部
-- 美国海军
-- 旧金山海事国家公园
 date: '2024-06-16'
 draft: true
 guest: ''

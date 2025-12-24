@@ -2,13 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- The Diary Of A CEO
-- Federalist Society
 - Heritage Foundation
-- Flight Story
-- Fiverr Pro
-- Just Works
-- Boncharge
 - Fox News
 date: '2025-10-30'
 draft: true

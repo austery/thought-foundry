@@ -5,12 +5,6 @@ companies_orgs:
 - NBA
 - FBI
 - Miami Heat
-- Portland Trail Blazers
-- Los Angeles Lakers
-- Toronto Raptors
-- Sacramento Kings
-- Dallas Mavericks
-- Fort Wayne Pistons
 date: '2025-10-24'
 draft: true
 guest: ''

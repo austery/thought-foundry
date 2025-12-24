@@ -8,7 +8,6 @@ companies_orgs:
 - White House
 - Harvard University
 - MIT
-- Rolling Stones
 - Amazon
 - Turning Point USA
 date: '2025-12-22'

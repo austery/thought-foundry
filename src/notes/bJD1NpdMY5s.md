@@ -17,8 +17,6 @@ people:
 - Steve Jobs
 products_models:
 - GPT-4
-- V2
-- Tesla's full-self-driving AI model
 project:
 - ai-impact-analysis
 series: ''

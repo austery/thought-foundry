@@ -2,8 +2,6 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Node.js
-- npm
 - WeChat
 - Microsoft
 date: 2025-10-30
@@ -18,9 +16,6 @@ products_models:
 - Claude
 - Python
 - Postgres
-- Linux kernel
-- Windows XP
-- Windows Vista
 project:
 - ai-impact-analysis
 - systems-thinking

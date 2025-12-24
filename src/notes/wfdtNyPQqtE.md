@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Nvidia
 - MongoDB
-- Credo
 - Shopify
 - Robinhood
 - MicroStrategy
@@ -23,13 +22,11 @@ companies_orgs:
 - Nebius
 - Iren
 - Morgan Stanley
-- Susquehanna Group
 - OpenAI
 - Anthropic
 - AWS
 - Lyft
 - Vanguard
-- Andreessen Horowitz (A16Z)
 - Sequoia
 - DoorDash
 - Bank of Japan
@@ -58,7 +55,6 @@ products_models:
 - Rubin
 - Atlas
 - Sora
-- Runway Gen 4.5
 - Rufus
 project:
 - investment-strategy

@@ -3,8 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - OpenAI
-- Firstmark
-- University of Warsaw
 - JPMorgan
 - DeepMind
 - Google
@@ -25,17 +23,11 @@ people:
 - Richard Sutton
 products_models:
 - ChatGPT
-- O1
-- O3
 - GPT-5
 - Codex
-- GPT Agent
-- DQN
 - GPT-2
 - GPT-3
 - GPT-4
-- GRPO
-- Dota 2
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 摩根大通
-- 人大
 date: '2025-04-17'
 draft: true
 guest: ''
@@ -16,9 +15,6 @@ people:
 - 巴菲特
 products_models:
 - ETF
-- M0
-- M1
-- M2
 project:
 - china-analysis
 - investment-strategy

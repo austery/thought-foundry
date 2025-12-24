@@ -4,20 +4,10 @@ category: finance
 companies:
 - recycling-economics
 companies_orgs:
-- Bloomberg Intelligence
 - Amazon
 - Walmart
-- International Paper
-- Smurfit Kappa
-- WestRock
-- Packaging Corporation of America
-- Georgia-Pacific
-- Pratt Industries
 - UPS
 - FedEx
-- International Safe Transit Authority
-- Sprouts Market
-- National Renewable Energy Lab
 date: '2025-09-15'
 draft: true
 guest: ''
@@ -28,7 +18,6 @@ media_books:
 - The Box
 products_models:
 - Bloomberg Terminal
-- Bloomberg Corrugated Box Cost Index
 project:
 - us-analysis
 - market-cycles

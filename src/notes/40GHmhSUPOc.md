@@ -11,9 +11,7 @@ companies_orgs:
 - CATL
 - LG
 - Samsung
-- Galp
 - ABB
-- Stockholm School of Economics
 date: '2024-02-28'
 draft: true
 guest: ''

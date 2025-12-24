@@ -3,8 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - World Health Organization
-- United Nations Educational, Scientific and Cultural Organization
-- Mosfilm
 - Bilibili
 - Marvel
 date: '2025-06-28'
@@ -43,11 +41,6 @@ people:
 - Mao Zedong
 - Lin Biao
 - Joseph Stalin
-products_models:
-- Monster Hunter
-- Weibo
-- Douban
-- Samurai Warriors
 project:
 - china-analysis
 - geopolitics-watch

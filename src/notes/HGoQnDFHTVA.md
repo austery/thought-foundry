@@ -3,12 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Meta
-- Qwen
 - Deepseek
 - Moonshot AI
-- Allen Institute for AI
-- AI2
-- Zhipu AI
 - Ant Group
 - Meituan
 - Nvidia
@@ -21,7 +17,6 @@ companies_orgs:
 - Google
 - Amazon
 - University of California, Berkeley
-- University of Washington
 - National Science Foundation
 - Bloomberg
 - The Economist
@@ -40,22 +35,11 @@ people:
 - Dario Amodei
 products_models:
 - Llama
-- Olmo 3
 - Kimmy
-- Qwen 3
-- Gemma 3
-- Nemotron Nano V2
 - Chat GPT
 - Gemini Flash
-- Tulu
-- GLM 4.5
-- Composer 2
 - GitHub Copilot
 - Alexa
-- Semantic Scholar
-- Malmo
-- Mmo act
-- ASA
 - TensorFlow
 project:
 - us-analysis

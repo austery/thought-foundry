@@ -1,8 +1,6 @@
 ---
 area: tech-engineering
 category: ai-ml
-companies_orgs:
-- sea-group
 date: '2025-10-15'
 draft: true
 guest: ''

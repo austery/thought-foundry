@@ -3,7 +3,6 @@ area: society-systems
 category: finance
 companies_orgs:
 - TVO Today
-- OnPoli
 date: '2025-11-12'
 draft: true
 guest: ''

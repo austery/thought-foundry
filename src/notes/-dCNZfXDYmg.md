@@ -32,11 +32,8 @@ people:
 products_models:
 - Gemini 3
 - ChatGPT-5
-- DeepSeek‑R1
-- DeepSeek-R2
 - Llama
 - 千问
-- 荳包
 - H100
 - TPU
 - Grok

@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Atrades
 - A16Z
 - Google
 - OpenAI
@@ -36,8 +35,6 @@ products_models:
 - Grok
 - TPU
 - NVLink
-- Infiniband
-- Ethernet
 - CUDA
 - Blackwell
 - Optimus

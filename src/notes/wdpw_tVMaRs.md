@@ -2,10 +2,8 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- Solomon Brothers
 - LTCM
 - Federal Reserve
-- SVB
 - Signature Bank
 - First Republic Bank
 date: '2024-03-01'
@@ -18,9 +16,6 @@ media_books:
 people:
 - Warren Buffett
 - Myron Scholes
-products_models:
-- T-bills
-- 巴塞尔协议
 project:
 - personal-growth-lab
 - investment-strategy

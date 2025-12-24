@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Wired magazine
 - Amazon
 date: '2025-10-20'
 draft: true
@@ -15,7 +14,6 @@ people:
 - FDR
 products_models:
 - iPhone
-- Uber
 - ChatGPT
 - ChatGPT 3.5
 project:

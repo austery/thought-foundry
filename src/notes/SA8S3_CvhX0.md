@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - G20
-- COP30
-- 非盟
 - 北约
 - G7
 - 比亚迪
@@ -20,12 +18,8 @@ people:
 - Donald Trump
 - 李强
 products_models:
-- 巴黎协定
-- 约翰内斯堡宣言
 - Mission 300计划
-- NCQG
 - Global Mutual决议
-- 一带一路
 project:
 - us-analysis
 - china-analysis

@@ -2,13 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- New York Magazine
 - Substack
 - The Daily Beast
 - ESPN
 - MSNBC
 - Politico
-- George Washington University
 - Vanity Fair
 date: '2025-12-02'
 draft: true

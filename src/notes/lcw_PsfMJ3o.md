@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- House Oversight Committee
 - Justice Department
 - CNN
 - White House

@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-products_models:
-- VARK
 project:
 - personal-growth-lab
 - knowledge-pipeline

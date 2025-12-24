@@ -2,7 +2,6 @@
 area: personal-systems
 category: psychology
 companies_orgs:
-- 米哈游
 - ByteDance
 date: '2025-11-12'
 draft: true
@@ -13,9 +12,6 @@ media_books:
 - 《石铁生散文集》
 - 知行小酒馆
 - 有知有行APP
-products_models:
-- 泡泡
-- 余格宝
 project:
 - personal-growth-lab
 - fire-movement

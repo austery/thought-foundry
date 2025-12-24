@@ -4,8 +4,6 @@ category: technology
 companies_orgs:
 - DeepMind
 - Google
-- University of Washington
-- University of Maryland
 - MIT
 - Hostinger
 date: '2025-02-10'
@@ -22,15 +20,7 @@ people:
 products_models:
 - AlphaFold
 - AlphaGo
-- Rosetta
-- Rosetta at Home
-- Fold It
-- CASP
-- EVO Former
-- RF Diffusion
-- GNoME
 - ChatGPT
-- Dall-E
 project:
 - ai-impact-analysis
 - systems-thinking

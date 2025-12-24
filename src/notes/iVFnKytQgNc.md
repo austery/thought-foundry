@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 卓明
-- 深圳公益救援队
-- 水利部门
 date: '2025-03-05'
 draft: true
 guest: ''

@@ -10,10 +10,6 @@ layout: post.njk
 media_books:
 - 《我们从未中产过》
 - 《21世纪资本论》
-products_models:
-- RSP
-- Term Insurance
-- Whole Life Insurance
 project:
 - investment-strategy
 - personal-growth-lab

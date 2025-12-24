@@ -3,26 +3,15 @@ area: market-analysis
 category: geopolitics
 companies_orgs:
 - 美国商务部
-- 经济分析局
 - 美联储
 - 美国劳工部
 - 芝加哥商品交易所
-- 纽约联邦储备银行
-- 桥水
-- 国际原子能署
 - 甲骨文
 - OpenAI
 - 穆迪
-- 标普
-- 中国驻日本大使馆
 - 美国国务院
 - 美国农业部
-- 中银集团
-- 弗吉利亚州威廉玛丽学院
-- 福星集团
-- 美国联邦调查局
 - 中央情报局
-- 美国外国投资委员会
 date: '2025-11-21'
 draft: true
 guest: ''
@@ -41,8 +30,6 @@ people:
 - 高市早苗
 - Donald Trump
 - Xi Jinping
-products_models:
-- 标普500指数
 project:
 - us-analysis
 - china-analysis

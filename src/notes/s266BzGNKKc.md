@@ -5,7 +5,6 @@ companies_orgs:
 - DeepSeek
 - OpenAI
 - Mistral
-- Gemma
 - Anthropic
 date: '2025-05-03'
 draft: true
@@ -13,11 +12,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- o1
 - Claude
-- GSM8K
-- ARC-AGI
-- Keras
 project:
 - ai-impact-analysis
 - systems-thinking

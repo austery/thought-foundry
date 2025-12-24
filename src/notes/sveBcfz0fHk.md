@@ -2,14 +2,9 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- Standard Oil
 - OPEC
-- British Petroleum
-- Equinor
 - Shell
-- Total
 - Exxon
-- Aramco
 date: '2024-09-18'
 draft: true
 guest: ''
@@ -29,11 +24,6 @@ people:
 - Winston Churchill
 - Vladimir Putin
 - Modi
-products_models:
-- kerosene
-- gasoline
-- liquefied-natural-gas
-- shale-gas
 project:
 - ai-impact-analysis
 - us-analysis

@@ -2,11 +2,7 @@
 area: society-systems
 category: science
 companies_orgs:
-- Chinese Academy of Sciences
-- International Congress of Mathematicians
-- St. Petersburg Academy of Sciences
 - Communist Party
-- Red Guard
 date: '2025-06-20'
 draft: true
 guest: ''
@@ -22,8 +18,6 @@ people:
 - Mao Zedong
 - Derek Muller
 - Casper
-products_models:
-- Henson Razor
 project:
 - historical-insights
 - systems-thinking

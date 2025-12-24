@@ -2,15 +2,7 @@
 area: society-systems
 category: technology
 companies_orgs:
-- Chelsea Football Club
-- Premier League
-- ai.io
-- Burnley Football Club
-- Reliance Foundation
-- IOC
 - Intel
-- MLS
-- MLS NEXT
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -21,8 +13,6 @@ people:
 - Cristiano Ronaldo
 - Lionel Messi
 - Ben
-products_models:
-- aiScout
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -3,15 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Bloomberg
-- Chili's
-- Cracker Barrel
-- Red Robin
-- TGI Fridays
-- Olive Garden
-- Applebee's
-- Sysco
-- US Foods
-- Performance Food Group
 - Sam's Club
 - Costco
 - Federal Trade Commission
@@ -19,11 +10,8 @@ companies_orgs:
 - Amazon
 - Starbucks
 - Unilever
-- Ben & Jerry's
 - General Mills
-- Fonterra
 - Kroger
-- Albertson's
 date: '2025-10-27'
 draft: true
 guest: ''
@@ -37,9 +25,6 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 - Howard Schultz
-products_models:
-- 'Barons: Money, Power, and the Corruption of America''s Food Industry'
-- Sigma
 project:
 - us-analysis
 - geopolitics-watch

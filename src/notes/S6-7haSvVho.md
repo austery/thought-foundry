@@ -21,10 +21,6 @@ people:
 - Sam Altman
 products_models:
 - Facebook Marketplace
-- Facebook Shops
-- Instagram Shops
-- Cambridge Analytica
-- GenAI Ads
 project:
 - entrepreneurship
 - systems-thinking

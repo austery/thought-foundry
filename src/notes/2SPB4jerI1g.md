@@ -8,9 +8,6 @@ companies_orgs:
 - Tesla
 - Nvidia
 - NBIS
-- ASTS
-- Mynaric
-- Goest
 date: '2025-09-20'
 draft: true
 guest: ''

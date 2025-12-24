@@ -1,12 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 总理衙门
-- 户部
-- 吏部
-- 同文馆
-- 大学堂
 date: '2024-07-06'
 draft: true
 guest: ''

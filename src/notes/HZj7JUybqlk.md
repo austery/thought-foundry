@@ -2,21 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Harrow School
 - Wharton School
-- Mubadala
-- 1MDB
-- Wynton
-- Abu Dhabi Investment Authority
-- Kuwait Investment Authority
 - Goldman Sachs
-- Terengganu Investment Authority
-- PetroSaudi
 - Deutsche Bank
-- Zurich Bank
-- Goodstar Ltd
-- Red Granite Pictures
-- Ernst & Young
 date: '2025-11-24'
 draft: true
 guest: ''

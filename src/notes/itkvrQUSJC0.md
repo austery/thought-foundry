@@ -9,8 +9,6 @@ insight: ''
 layout: post.njk
 people:
 - Satya Nadella
-products_models:
-- Majorana 1
 project:
 - ai-impact-analysis
 series: ''

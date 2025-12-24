@@ -3,15 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 美国外交关系协会
-- 美国国家标准与技术研究院
 - Qualcomm
-- GSMMC
-- 欧亚集团
 - 詹姆斯敦基金会
-- 国际能源署
-- 美国地质调查局
-- 锡安教会
-- 对华援助协会
 - Nvidia
 date: 2025-10-31
 draft: true
@@ -27,11 +20,7 @@ people:
 - Xi Jinping
 - He Weidong
 products_models:
-- ChatGPT-15
-- Disc v3.1
 - GPU
-- 钕
-- 镝
 project:
 - china-analysis
 - us-analysis

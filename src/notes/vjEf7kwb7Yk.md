@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 微软研究院
-- 卡内基梅隆大学
 date: '2025-05-22'
 draft: true
 guest: ''

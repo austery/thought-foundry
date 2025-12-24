@@ -2,7 +2,6 @@
 area: society-systems
 category: finance
 companies_orgs:
-- 美国劳工局
 - 标普500
 - 纳斯达克
 date: '2024-09-23'
@@ -16,7 +15,6 @@ people:
 - 唐石峻
 - 巴菲特
 products_models:
-- 目标日期基金
 - ETF
 project:
 - us-analysis

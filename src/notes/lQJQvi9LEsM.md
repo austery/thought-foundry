@@ -3,8 +3,6 @@ area: society-systems
 category: education
 companies_orgs:
 - 北京大学
-- 宜家
-- 美国大使馆
 date: '2025-07-26'
 draft: true
 guest: ''

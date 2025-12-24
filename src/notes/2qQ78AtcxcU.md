@@ -12,9 +12,6 @@ media_books:
 people:
 - 宋晏仁
 - 张忠谋
-products_models:
-- 0050 ETF
-- S&P 500 Index Fund
 project:
 - investment-strategy
 - personal-growth-lab

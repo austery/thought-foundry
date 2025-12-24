@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-- Claude Opus
 - Claude Sonnet
 project:
 - ai-impact-analysis

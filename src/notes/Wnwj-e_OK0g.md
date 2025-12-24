@@ -4,8 +4,6 @@ category: business
 companies_orgs:
 - 比亚迪
 - 特斯拉
-- 奇瑞
-- 国金证券
 - 欧盟
 date: '2025-11-01'
 draft: true
@@ -14,8 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 王传福
-products_models:
-- N9
 project:
 - china-analysis
 - market-cycles

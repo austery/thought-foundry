@@ -2,9 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Jointly
-- Human AI
-- AON
 - Citibank
 date: '2025-11-24'
 draft: true
@@ -14,7 +11,6 @@ layout: post.njk
 products_models:
 - GPT-4
 - Claude
-- Dips
 project:
 - ai-impact-analysis
 - systems-thinking

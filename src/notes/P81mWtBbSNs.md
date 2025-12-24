@@ -2,23 +2,15 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- 蓝色起源
 - SpaceX
 - NASA
-- Rocky Lab
 date: '2025-11-18'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- 新格伦号
-- 星舰
-- 猎鹰9号
 - B4发动机
-- 光子平台
-- 天问一号
-- 祝融号
 project:
 - geopolitics-watch
 - us-analysis

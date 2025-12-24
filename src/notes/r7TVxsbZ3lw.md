@@ -37,7 +37,6 @@ companies_orgs:
 - Hims
 - Bitmine
 - JP Morgan
-- Reserve Bank of India
 - Binance
 - IRS
 - Anduril

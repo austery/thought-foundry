@@ -24,19 +24,14 @@ people:
 - Walter Isaacson
 - George Washington
 products_models:
-- Grok v2
-- Grok v3
 - GPT-4
 - Gemini
 - Starship
 - Falcon 9
-- Falcon architecture
-- Roadster
 - Model S
 - Model 3
 - Model Y
 - Cybertruck
-- SR-71 Blackbird
 project:
 - ai-impact-analysis
 - us-analysis

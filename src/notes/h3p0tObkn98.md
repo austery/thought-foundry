@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- OCS
 date: '2023-03-12'
 draft: true
 guest: ''

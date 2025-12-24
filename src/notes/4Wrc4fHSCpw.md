@@ -3,7 +3,6 @@ area: society-systems
 category: science
 companies_orgs:
 - KiwiCo
-- Domain of Science
 date: '2020-11-30'
 draft: true
 guest: ''

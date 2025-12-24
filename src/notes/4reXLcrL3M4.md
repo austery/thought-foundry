@@ -21,7 +21,6 @@ products_models:
 - ChatGPT
 - Gemini 3
 - Codex
-- Canvas
 project:
 - ai-impact-analysis
 - pkm-research

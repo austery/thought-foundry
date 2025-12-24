@@ -4,12 +4,7 @@ category: macro-economy
 companies_orgs:
 - Federal Reserve Bank of San Francisco
 - Federal Reserve
-- Northern Solutions
-- Port of Alaska
-- Alaska International Airport System
-- Anchorage Economic Development Corporation
 - Bloomberg Podcasts
-- Fred Meyer
 - Home Depot
 - FedEx
 - UPS

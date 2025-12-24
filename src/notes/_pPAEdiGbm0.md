@@ -3,7 +3,6 @@ area: society-systems
 category: finance
 companies_orgs:
 - IMF
-- Russian State Duma
 date: '2025-05-05'
 draft: true
 guest: ''

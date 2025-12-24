@@ -3,10 +3,6 @@ area: society-systems
 category: geopolitics
 companies:
 - psychological-mechanism
-companies_orgs:
-- 纳粹德国
-- 红色高棉
-- 法西斯政权
 date: '2025-11-15'
 draft: true
 guest: ''

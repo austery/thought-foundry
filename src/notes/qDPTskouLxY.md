@@ -9,8 +9,6 @@ companies_orgs:
 - Google
 - Amazon
 - Apple
-- CIBC
-- Harvest ETF
 - YieldMax
 - Seeking Alpha
 date: '2025-11-03'
@@ -22,12 +20,8 @@ people:
 - Darren
 - 黄仁勋
 products_models:
-- CDR
 - Covered Call ETF
 - Alpha Picks
-- FBY
-- METE
-- YMET
 project:
 - investment-strategy
 - us-analysis

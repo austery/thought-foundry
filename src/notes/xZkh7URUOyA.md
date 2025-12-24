@@ -4,16 +4,11 @@ category: career-development
 companies_orgs:
 - Perplexity
 - Notion
-- Reforge
 date: '2025-12-19'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- iPhone 13
-- Notion AI
-- Gamma
 project:
 - ai-impact-analysis
 - pkm-research

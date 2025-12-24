@@ -3,10 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - 知行小酒馆
-- 豆瓣
-- SKP
-- 华盛顿大学
-- 万邦书店· μαζί
 date: '2025-10-17'
 draft: true
 guest: ''
@@ -20,8 +16,6 @@ media_books:
 - 《河岸》
 people:
 - 雨白
-products_models:
-- 黑神话：悟空
 project:
 - china-analysis
 - cultural-critique

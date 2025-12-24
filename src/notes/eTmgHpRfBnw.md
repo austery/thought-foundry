@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: geopolitics
-companies_orgs:
-- 中国政府
 date: '2025-07-02'
 draft: true
 guest: ''

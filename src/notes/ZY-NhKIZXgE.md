@@ -8,20 +8,13 @@ companies_orgs:
 - OpenAI
 - Microsoft
 - Intel
-- Busycom
 - IBM
-- Deck
-- Moss Technologies
-- RJR Nabisco
-- Sealand
 - IKEA
 - Walmart
 - Target
 - Sears
-- Woolworths
 - Anthropic
 - Stripe
-- Razerfish
 date: '2025-11-12'
 draft: true
 guest: ''
@@ -47,9 +40,6 @@ people:
 - Kalebrooks
 products_models:
 - Ethereum
-- '4004'
-- '6502'
-- Commodore 64
 project:
 - investment-strategy
 - ai-impact-analysis

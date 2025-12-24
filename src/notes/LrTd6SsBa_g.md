@@ -2,34 +2,18 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- First Brands Group
-- Tricolor Holdings
 - Jefferies
-- Fifth Third Bank
-- Kroll
 - Bloomberg
-- Millennium Management
-- AutoZone
-- O’Reilly
-- CarMax
 - ADP
 - Bureau of Labor Statistics
 - The Economist
 - Enron
 - Financial Times
-- PGIM
-- CIFC
 - JPMorgan
 - Barclays
-- Clear Haven Capital
-- Triumph Financial
-- BDO
 - Deloitte
 - Apollo Global Management
-- Diameter Capital
 - Goldman Sachs
-- Electronic Arts
-- TXU
 - Fitch
 date: '2025-10-04'
 draft: true

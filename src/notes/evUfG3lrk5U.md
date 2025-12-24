@@ -13,8 +13,6 @@ media_books:
 - The Last Economy
 people:
 - Johannes Kepler
-products_models:
-- Vela satellites
 project:
 - systems-thinking
 - historical-insights

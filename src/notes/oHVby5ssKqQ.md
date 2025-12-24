@@ -2,11 +2,7 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 新华医院
-- 中国医保局
 - 民政局
-- 朝阳医院
-- 山东银行
 date: '2025-12-19'
 draft: true
 guest: ''

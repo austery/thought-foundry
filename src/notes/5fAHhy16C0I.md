@@ -10,7 +10,6 @@ companies_orgs:
 - MSNBC
 - CNN
 - BBC
-- Vox
 - The New York Times
 - Reform UK
 - 德国选择党 (AfD)

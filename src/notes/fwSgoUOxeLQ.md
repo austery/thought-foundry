@@ -1,26 +1,24 @@
 ---
-title: 李治中：癌症的真相 | 我们是兼职在辟谣，别人是全职在传播伪科学
-summary: 癌症生物学博士李治中（菠萝）以魏则西事件为切入点，阐述了在伪科学泛滥背景下癌症科普的紧迫性。他指出长寿是癌症高发的首要风险因素，解析了癌症源于“基因突变与免疫逃逸”的本质，并回顾了从化疗到免疫疗法（如
-  CAR-T）的治疗革命。针对“酸性体质”等谣言，他强调理性辟谣，主张**“预防大于筛查大于治疗”的策略（特别是控烟与早期筛查）。最后，他介绍了致力于填补中国儿童癌症信息鸿沟的“向日葵儿童”**公益项目，呼吁利用中国庞大的临床数据优势，推动科研与科普以挽救更多生命。
 area: personal-systems
-category: lifestyle
-project: personal-growth-lab
-tags:
-- cancer-research
-companies_orgs:
-- 一席
-products_models: []
-media_books:
-- 一席
-date: '2018-11-23'
 author: Lei
-speaker: 一席YiXi
+category: lifestyle
 channel: 一席
+date: '2018-11-23'
 guest: null
 insight: null
 layout: post.njk
+media_books:
+- 一席
+products_models: []
+project: personal-growth-lab
 series: null
 source: https://www.youtube.com/watch?v=fwSgoUOxeLQ
+speaker: 一席YiXi
+summary: 癌症生物学博士李治中（菠萝）以魏则西事件为切入点，阐述了在伪科学泛滥背景下癌症科普的紧迫性。他指出长寿是癌症高发的首要风险因素，解析了癌症源于“基因突变与免疫逃逸”的本质，并回顾了从化疗到免疫疗法（如
+  CAR-T）的治疗革命。针对“酸性体质”等谣言，他强调理性辟谣，主张**“预防大于筛查大于治疗”的策略（特别是控烟与早期筛查）。最后，他介绍了致力于填补中国儿童癌症信息鸿沟的“向日葵儿童”**公益项目，呼吁利用中国庞大的临床数据优势，推动科研与科普以挽救更多生命。
+tags:
+- cancer-research
+title: 李治中：癌症的真相 | 我们是兼职在辟谣，别人是全职在传播伪科学
 ---
 
 ## 引言：科普的动力源于遗憾

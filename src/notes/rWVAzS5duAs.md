@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Wren
-- Clean Air Task Force
 date: '2023-04-14'
 draft: true
 guest: ''
@@ -11,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-products_models:
-- Portland cement
 project:
 - historical-insights
 series: ''

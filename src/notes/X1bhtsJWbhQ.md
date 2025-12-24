@@ -18,7 +18,6 @@ companies_orgs:
 - CNBC
 - ADP
 - Challenger, Gray & Christmas
-- Indeed
 - TSMC
 - Samsung
 - Intel
@@ -34,19 +33,16 @@ companies_orgs:
 - Citron Research
 - Duolingo
 - Reuters
-- Trump Media & Technology Group
 - Google
 - Amazon
 - Microsoft
 - Citi
 - Blackstone
 - Apollo Global Management
-- Ares Management
 - Politico
 - Goldman Sachs
 - JPMorgan Chase
 - Charles Schwab
-- Forge Global
 date: '2025-11-08'
 draft: true
 guest: ''
@@ -71,7 +67,6 @@ people:
 products_models:
 - Bitcoin
 - Ethereum
-- Grand Theft Auto
 - FSD
 - Blackwell
 - H100

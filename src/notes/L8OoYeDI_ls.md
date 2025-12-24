@@ -12,9 +12,6 @@ layout: post.njk
 people:
 - John
 products_models:
-- Vercel v0
-- AI SDK
-- Brain Trust
 - GPT-4
 - ChatGPT
 project:

@@ -13,8 +13,6 @@ media_books:
 - Reddit
 people:
 - adam-s-axiom
-products_models:
-- Yale Model
 project:
 - investment-strategy
 series: ''

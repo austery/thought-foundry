@@ -22,7 +22,6 @@ companies_orgs:
 - Lowe's
 - Uber
 - Department of Energy
-- Cheesecake Factory
 - Federal Reserve
 date: '2025-10-28'
 draft: true

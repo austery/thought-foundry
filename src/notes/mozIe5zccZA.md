@@ -14,7 +14,6 @@ companies_orgs:
 - AMD
 - Broadcom
 - Morgan Stanley
-- Key Bank
 - Bureau of Labor Statistics
 - New York Times
 - JP Morgan
@@ -40,8 +39,6 @@ companies_orgs:
 - T-Mobile
 - Microsoft
 - OpenDoor
-- Upstart
-- Lennar
 - Hims & Hers
 - Anthropic
 - XAI
@@ -86,17 +83,11 @@ products_models:
 - Bitcoin
 - Ethereum
 - Blackwell
-- Hopper H100
-- Ampere A100
-- TensorRT-LLM
 - ChatGPT
 - Gemini
-- Sonnet
 - Grok
 - iMessage
-- Facebook Messenger
 - WhatsApp
-- Microsoft Office
 - XAI
 project:
 - ai-impact-analysis

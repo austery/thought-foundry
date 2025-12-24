@@ -16,17 +16,10 @@ companies_orgs:
 - Nomura Securities
 - JPMorgan Chase
 - Bank of America
-- Standard Chartered
-- European Council
 - European Commission
 - People's Liberation Army
-- People's Liberation Army Rocket Force
 - CCTV
-- Global Times
 - Xinhua News Agency
-- SDIC Securities
-- SDIC Industry Research Institute
-- Securities Association of China
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -55,9 +48,7 @@ people:
 - 江泽民
 - 胡锦涛
 products_models:
-- Samsung A71
 - Bitcoin
-- Stablecoin
 project:
 - us-analysis
 - china-analysis

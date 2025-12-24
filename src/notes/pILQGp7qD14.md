@@ -5,11 +5,8 @@ companies_orgs:
 - 日本央行
 - 欧盟
 - 国际货币基金组织
-- 北京字节跳动
-- 甲骨文公司
 - 华尔街日报
 - 彭博社
-- 布朗大学
 - 麻省理工学院
 date: '2025-12-19'
 draft: true
@@ -23,7 +20,6 @@ people:
 - Vladimir Putin
 products_models:
 - DeepSeek
-- HIMARS
 project:
 - us-analysis
 - china-analysis

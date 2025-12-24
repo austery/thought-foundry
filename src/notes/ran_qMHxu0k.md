@@ -4,11 +4,6 @@ category: geopolitics
 companies_orgs:
 - World Bank
 - International Monetary Fund
-- Asian Development Bank
-- Paris Club
-- China Road and Bridge Corporation
-- China State Construction Engineering Corporation
-- African Union
 date: '2025-11-07'
 draft: true
 guest: ''

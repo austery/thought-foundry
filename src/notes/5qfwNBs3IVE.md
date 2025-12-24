@@ -3,17 +3,11 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - Meta
-- Gigascale Capital
-- Mill
 date: '2025-12-16'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Fusion energy
-- Electric vehicles
-- AI chatbots
 project:
 - gigascale-capital
 series: ''

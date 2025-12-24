@@ -3,18 +3,14 @@ area: personal-systems
 category: career
 companies_orgs:
 - Norges Bank Investment Management
-- Sports Illustrated
 - Harvard
 - MIT
-- US Census Bureau
-- Northwestern
 - 3M
 - Google
 - Google X
 - NASA
 - Y Combinator
 - Netflix
-- Bayy Gford
 date: '2024-07-03'
 draft: true
 guest: ''
@@ -36,7 +32,6 @@ products_models:
 - Claude
 - Perplexity
 - ChatGPT
-- Site
 project:
 - personal-growth-lab
 - systems-thinking

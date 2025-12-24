@@ -2,17 +2,10 @@
 area: society-systems
 category: business
 companies_orgs:
-- Xueqiu
-- BBK
-- Subor
-- Beijing Electron Tube Factory
-- Renmin University of China
 - Apple
 - Tencent
-- Kweichow Moutai
 - NetEase
 - Nokia
-- Panasonic
 - TSMC
 - DeepSeek
 date: '2025-11-13'

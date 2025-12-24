@@ -21,7 +21,6 @@ products_models:
 - Nasdaq
 - Russell 2000
 - VIX
-- Seeking Alpha
 project:
 - investment-strategy
 - us-analysis

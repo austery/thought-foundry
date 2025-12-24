@@ -3,22 +3,14 @@ area: market-analysis
 category: business
 companies_orgs:
 - Lovable
-- Play Magnus Group
-- Trello
 - Slack
-- Snyk
 - GitHub
 - Zoom
 - Salesforce
 - HubSpot
 - Dropbox
-- Miro
 - Canva
 - Figma
-- Pendo
-- Smile Direct Club
-- Outreach
-- June
 date: '2025-09-23'
 draft: true
 guest: ''
@@ -28,9 +20,6 @@ media_books:
 - Substack
 people:
 - Magnus Carlsen
-products_models:
-- Google ads
-- LinkedIn ads
 project:
 - ai-impact-analysis
 - entrepreneurship

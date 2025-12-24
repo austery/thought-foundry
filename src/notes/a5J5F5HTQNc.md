@@ -3,16 +3,12 @@ area: society-systems
 category: general
 companies_orgs:
 - Health Canada
-- The Brain Institute
 - McGill University
 date: '2025-11-05'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Lecanemab
-- Leqembi
 project:
 - systems-thinking
 series: ''

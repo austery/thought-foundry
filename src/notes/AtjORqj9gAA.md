@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - Polymarket
 - USAID
-- Heritage Action for America
 date: '2025-11-04'
 draft: true
 guest: ''
@@ -22,10 +21,7 @@ people:
 - Susan Collins
 - Nicole Kidman
 products_models:
-- Project 2025
 - Obamacare
-- Medicaid
-- ACA premium tax credit
 project:
 - us-analysis
 - geopolitics-watch

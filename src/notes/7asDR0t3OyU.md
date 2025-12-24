@@ -4,22 +4,14 @@ category: geopolitics
 companies_orgs:
 - Fox News
 - 华尔街日报
-- 法新社
 - CNN
 - 路透社
-- 中国国际航空
-- 南方航空
-- 东方航空
 - 朝日新闻
-- 卡内基国际和平基金会
 - 华为
 - 新华社
 - 人民日报
 - 中央电视台
-- 中国教育部
-- 中国文化和旅游部
 - 中国国家统计局
-- 中国农业部
 - 经济学人
 - X平台
 date: '2025-11-17'
@@ -46,7 +38,6 @@ people:
 - Elon Musk
 products_models:
 - F-35
-- 凤桥模式
 project:
 - us-analysis
 - china-analysis

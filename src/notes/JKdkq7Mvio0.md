@@ -3,7 +3,6 @@ area: finance-wealth
 category: macro-economy
 companies_orgs:
 - Bloomberg
-- Nomura
 - Citi
 - 人民日报
 - Federal Reserve
@@ -39,8 +38,6 @@ people:
 - Elon Musk
 products_models:
 - Gemini
-- TPU V71
-- TPU V81
 - H200
 project:
 - ai-impact-analysis

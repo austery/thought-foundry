@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Starbucks
 - 瑞幸咖啡
-- 库迪咖啡
 date: '2024-04-09'
 draft: true
 guest: ''
@@ -12,8 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《The Daily Beast》
-products_models:
-- Deep Brew
 project:
 - investment-strategy
 - market-cycles

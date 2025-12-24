@@ -3,12 +3,8 @@ area: market-analysis
 category: finance
 companies_orgs:
 - The Economist
-- Evergrande
-- Country Garden
-- China Vanke
 - Uber
 - WeWork
-- Faraday Future
 - IMF
 - Bloomberg
 date: '2025-11-10'
@@ -24,9 +20,6 @@ people:
 - Tracy Alloway
 - Joe Weisenthal
 - Jack Ma
-products_models:
-- Three Red Lines
-- Hukou system
 project:
 - china-analysis
 - investment-strategy

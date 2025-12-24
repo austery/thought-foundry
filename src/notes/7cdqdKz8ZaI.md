@@ -3,12 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - MIT
-- 中共中央委员会
 - 共青团中央
-- 北京师范大学附属女子中学
-- 燕京大学
-- 高教部
-- 北京四中
 date: '2024-09-29'
 draft: true
 guest: ''

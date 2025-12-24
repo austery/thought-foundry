@@ -9,7 +9,6 @@ companies_orgs:
 - Google
 - DeepMind
 - Anthropic
-- Knight Capital
 - Nvidia
 - Meta
 - Federal Reserve

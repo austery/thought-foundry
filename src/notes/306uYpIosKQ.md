@@ -7,13 +7,11 @@ companies_orgs:
 - AMD
 - SoFi
 - Palantir
-- Lumen Technologies
 - IonQ
 - D-Wave
 - Rigetti Computing
 - The Wall Street Journal
 - Reuters
-- Cerebras Capital Management
 - Nvidia
 - Amazon
 - Intel
@@ -38,7 +36,6 @@ companies_orgs:
 - Figure AI
 - General Motors
 - Morgan Stanley
-- LendingClub
 - Oklo
 date: '2025-10-23'
 draft: true
@@ -74,9 +71,6 @@ products_models:
 - FSD
 - Willow
 - Blackwell
-- Hype
-- Robinet
-- GENIUS Act
 - Starlink
 - iPhone
 - Siri

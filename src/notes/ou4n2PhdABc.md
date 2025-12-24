@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - YouTube
-- 香港中文大学
-- 21世纪评论
 date: 2025-02-25
 draft: true
 guest: ''
@@ -22,7 +20,8 @@ media_books:
 people:
 - 孔子
 - Donald Trump
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - china-analysis

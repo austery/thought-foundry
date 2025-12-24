@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 三联书店
 - 联合国
 - 共和党
 - 央视

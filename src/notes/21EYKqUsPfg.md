@@ -14,14 +14,9 @@ people:
 - John McCarthy
 - Joseph Henrich
 products_models:
-- TD learning
-- policy gradient methods
 - AlphaGo
 - AlphaZero
-- MuZero
-- TD-Gammon
 - GPT-4
-- International Math Olympiad
 project:
 - ai-impact-analysis
 series: ''

@@ -9,13 +9,8 @@ companies_orgs:
 - Blue Origin
 - Amazon
 - Tesla
-- Ark Invest
 - Founders Fund
 - European Space Agency
-- Baron Capital
-- semianalysis
-- Starcloud
-- Airbus Defence and Space
 date: '2025-12-17'
 draft: true
 guest: ''
@@ -32,8 +27,6 @@ products_models:
 - Starship
 - GPT-3
 - GPT-5
-- A100 SXM
-- V100
 - H100 GPU
 - Project Kuiper
 project:

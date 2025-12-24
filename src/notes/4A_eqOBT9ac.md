@@ -10,7 +10,6 @@ companies_orgs:
 - Google
 - New York Times
 - The Daily Beast
-- Israeli intelligence
 - Mossad
 date: '2025-11-20'
 draft: true
@@ -44,7 +43,6 @@ people:
 - Bill Gates
 products_models:
 - Google Drive
-- Project Pinpoint
 project:
 - us-analysis
 - geopolitics-watch

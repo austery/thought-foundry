@@ -7,9 +7,6 @@ companies_orgs:
 - Microsoft
 - Nvidia
 - Bloomberg
-- Nikkei
-- Morningstar
-- 富途木木
 date: '2025-11-26'
 draft: true
 guest: ''

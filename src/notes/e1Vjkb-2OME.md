@@ -7,7 +7,6 @@ companies_orgs:
 - Nike
 - Alibaba
 - Google
-- Pershing Square Capital Management
 - Taco Bell
 date: '2024-08-26'
 draft: true

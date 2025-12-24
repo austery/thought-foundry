@@ -14,7 +14,6 @@ companies_orgs:
 - SoftBank
 - OpenAI
 - Federal Reserve
-- White House National Economic Council
 date: '2025-11-26'
 draft: true
 guest: ''

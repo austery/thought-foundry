@@ -4,10 +4,8 @@ category: geopolitics
 companies_orgs:
 - CSIS
 - G20
-- COP
 - 中国共产党
 - 中国国民党
-- 民主进步党
 date: '2025-12-05'
 draft: true
 guest: ''
@@ -25,9 +23,6 @@ people:
 - 王毅
 - Nancy Pelosi
 - 薛剑
-products_models:
-- Mirage 2000
-- MiG-21
 project:
 - china-analysis
 - us-analysis

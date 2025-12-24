@@ -5,7 +5,6 @@ companies_orgs:
 - NVIDIA
 - OpenAI
 - Microsoft
-- 诺基亚
 - 台积电
 - Uber
 - 克莱斯勒
@@ -15,9 +14,6 @@ companies_orgs:
 - 亚马逊
 - 特斯拉
 - 英特尔
-- 中粮集团
-- 中国国新
-- 阳光电源
 - 伯克希尔哈撒韦
 date: '2025-10-29'
 draft: true
@@ -33,16 +29,9 @@ people:
 - 黄仁勋
 - 李在明
 products_models:
-- Blackwill
-- Hobber
-- Robin
-- MVQ link
-- Blue Feed Four
-- Drive AGX Hybrid ten
 - FSD
 - Windows
 - ChatGPT
-- Astropy
 project:
 - us-analysis
 - china-analysis

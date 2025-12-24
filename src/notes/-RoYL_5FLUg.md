@@ -5,24 +5,15 @@ companies_orgs:
 - Boeing
 - NASA
 - SpaceX
-- ULA
 - Lockheed Martin
 - Airbus
-- Alaska Airlines
-- Latam Airlines
 date: '2024-08-22'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Starliner
-- Dragon
-- 737 MAX
-- '777'
-- 787 Dreamliner
 - Space Launch System
-- Atlas V
 project:
 - us-analysis
 - systems-thinking

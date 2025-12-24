@@ -2,7 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Warner Music Group
 - Norges Bank Investment Management
 - HBO
 - Netflix
@@ -11,8 +10,6 @@ companies_orgs:
 - Spotify
 - Apple
 - Amazon
-- Paramount Plus
-- Apple TV Plus
 date: '2025-04-16'
 draft: true
 guest: ''
@@ -28,15 +25,6 @@ media_books:
 people:
 - Eric Schmidt
 - Michael Jackson
-products_models:
-- Content ID
-- White Lotus
-- Lioness
-- Yellowstone
-- Gilded Age
-- Black Mirror
-- Drops of God
-- The New Look
 project:
 - ai-impact-analysis
 - entrepreneurship

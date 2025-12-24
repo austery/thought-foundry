@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Klein
 date: '2025-12-12'
 draft: true
 guest: ''
@@ -11,9 +9,6 @@ layout: post.njk
 products_models:
 - Gemini 3.0
 - Gemini 2.5
-- GBT 5
-- GBT 5.1
-- Sonnet 4
 - Sonnet 4.5
 project:
 - ai-impact-analysis

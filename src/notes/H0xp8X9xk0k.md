@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Wanda Group
 date: '2025-10-10'
 draft: true
 guest: ''

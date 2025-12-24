@@ -2,10 +2,8 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- Intuitive Surgical Inc.
 - ASML
 - GE
-- Medtronic
 - Johnson & Johnson
 - MSCI
 date: '2025-10-09'
@@ -18,9 +16,6 @@ media_books:
 - YouTube
 - S&P 500
 people: []
-products_models:
-- Da Vinci
-- Da Vinci 5
 project:
 - us-analysis
 - investment-strategy

@@ -4,7 +4,6 @@ category: psychology
 companies_orgs:
 - 初日醫學
 - Cofit
-- 哇賽心理學
 date: '2025-01-29'
 draft: true
 guest: ''

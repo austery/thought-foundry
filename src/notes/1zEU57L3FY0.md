@@ -4,16 +4,10 @@ category: geopolitics
 companies_orgs:
 - TVO Today
 - University of Toronto
-- Munk School of Public Policy
-- Tealbook
-- Ontario Centre for Innovation
 - Vector Institute
 - OpenAI
 - Nvidia
-- Kraft Heinz
 - Goldman Sachs
-- UK government
-- Department of Defence
 date: '2025-11-27'
 draft: true
 guest: ''

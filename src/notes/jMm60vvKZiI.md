@@ -7,7 +7,6 @@ companies_orgs:
 - FTX
 - 高盛
 - 亚马逊
-- 微策略
 date: '2025-09-02'
 draft: true
 guest: ''
@@ -20,9 +19,6 @@ people:
 products_models:
 - 比特币
 - 以太坊
-- 索罗纳
-- BNB
-- WL
 project:
 - us-analysis
 - geopolitics-watch

@@ -5,19 +5,11 @@ companies_orgs:
 - Klarna
 - Wayfair
 - Revolut
-- Zalando
-- N26
-- Delivery Hero
-- DeepL
 - Spotify
 - Northvolt
-- Xing
-- Statista
 - SAP
-- Software AG
 - Equinix
 - MongoDB
-- Bolt
 date: '2025-06-03'
 draft: true
 guest: ''

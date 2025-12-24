@@ -12,7 +12,6 @@ companies_orgs:
 - Broadcom
 - Netflix
 - Disney
-- Warner
 date: '2025-05-17'
 draft: true
 guest: ''
@@ -26,9 +25,6 @@ people:
 - Andy Jassy
 products_models:
 - Chrome
-- Comments
-- Princeton
-- Qt
 project:
 - us-analysis
 - investment-strategy

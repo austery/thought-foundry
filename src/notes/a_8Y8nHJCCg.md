@@ -14,10 +14,6 @@ people:
 - Jensen Huang
 products_models:
 - ENIAC
-- Fat Man
-- Little Boy
-- Ray Tracing
-- DLSS
 project:
 - systems-thinking
 - historical-insights

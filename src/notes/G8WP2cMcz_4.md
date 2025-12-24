@@ -1,6 +1,8 @@
 ---
 area: tech-work
 category: ai-ml
+companies:
+- tesla
 companies_orgs:
 - 特斯拉
 - 比亚迪
@@ -14,7 +16,6 @@ people:
 products_models:
 - Model 3
 - Model Y
-- Cyber Truck
 project:
 - ai-impact-analysis
 series: ''
@@ -25,8 +26,6 @@ summary: 本视频分析特斯拉的最新财报、基本面、竞争环境和�
 tags:
 - investment
 title: 美股TSLA（特斯拉）能助你实现财富自由么？
-companies:
-- tesla
 ---
 
 ### 特斯拉（TSLA）股票分析：能否实现财富自由？

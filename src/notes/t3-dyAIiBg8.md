@@ -15,7 +15,6 @@ people:
 - Sam Altman
 products_models:
 - GPT-4
-- Libro FM
 project:
 - ai-impact-analysis
 series: ''

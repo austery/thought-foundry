@@ -3,9 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - Sun Microsystems
-- Khosla Ventures
 - OpenAI
-- Juniper
 - AT&T
 - Verizon
 - Google

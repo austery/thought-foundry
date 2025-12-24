@@ -4,8 +4,6 @@ category: science
 companies_orgs:
 - Anthropic
 - FDA
-- Arc Institute
-- Sage Bionetworks
 - Eli Lilly
 date: '2025-11-05'
 draft: true
@@ -20,11 +18,6 @@ products_models:
 - Claude
 - Sonnet 4.5
 - Claude Code
-- Benchling
-- 10x Genomics
-- Cell Ranger
-- PubMed
-- BioRender
 project:
 - ai-impact-analysis
 - systems-thinking

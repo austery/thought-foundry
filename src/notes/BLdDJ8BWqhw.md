@@ -2,28 +2,12 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Exor
 - Ferrari
 - Stellantis
-- Fiat
-- Jeep
-- Maserati
-- The Economist Group
-- Juventus
 - Berkshire Hathaway
-- Wallenberg
-- SGS
-- CNH
-- Iveco
 - Chrysler
-- ACC
-- TotalEnergies
-- Mercedes
 - LG
 - Samsung
-- Citroen
-- Dodge
-- Leapmotor
 - Y Combinator
 - Norges Bank Investment Management
 - Philips
@@ -38,10 +22,6 @@ people:
 - Sam Altman
 - Jony Ive
 products_models:
-- Fiat 500
-- Citroen Ami
-- Fiat Topolino
-- Jeep Grand Wagoneer
 - Apple Watch
 project:
 - investment-strategy

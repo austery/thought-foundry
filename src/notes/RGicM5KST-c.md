@@ -13,7 +13,6 @@ companies_orgs:
 - Nvidia
 - Intel
 - Alibaba
-- Bitmain
 - MicroStrategy
 - Huawei
 - Cambricon
@@ -31,7 +30,6 @@ products_models:
 - H-1B
 - 401K
 - TPU
-- ETH
 project:
 - us-analysis
 - china-analysis

@@ -11,7 +11,6 @@ companies_orgs:
 - S&P 500
 - Nasdaq
 - Dow Jones
-- Russell 2000
 date: '2025-12-11'
 draft: true
 guest: ''

@@ -9,7 +9,6 @@ companies_orgs:
 - National Bureau of Economic Research
 - SEC
 - FDIC
-- Financial Stability Oversight Council
 date: '2025-12-02'
 draft: true
 guest: ''

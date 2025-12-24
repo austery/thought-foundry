@@ -2,9 +2,7 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Yelp
 - GoFundMe
-- Persona
 - Anthropic
 - LinkedIn
 - Etsy
@@ -20,16 +18,10 @@ media_books:
 people:
 - Clarvo
 products_models:
-- Yelp Assistant
 - Claude
 - ChatGPT
 - Gemini Flash
-- Magic Patterns
 - Figma
-- Figma Make
-- Giving Funds
-- Parent Pal
-- Settlers of Catan Timer
 - Lovable
 project:
 - ai-impact-analysis

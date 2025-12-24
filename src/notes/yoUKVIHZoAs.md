@@ -2,7 +2,6 @@
 area: society-systems
 category: career
 companies_orgs:
-- ZipRecruiter
 - Gartner
 - Deloitte
 - McKinsey
@@ -18,7 +17,6 @@ layout: post.njk
 products_models:
 - ChatGPT
 - Claude
-- Reforge
 project:
 - ai-impact-analysis
 - personal-growth-lab

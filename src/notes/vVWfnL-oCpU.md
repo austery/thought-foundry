@@ -20,18 +20,14 @@ companies_orgs:
 - Microsoft
 - Amazon
 - Carvana
-- CarMax
 - Goldman Sachs
 - JPMorgan
 - TSMC
 - OpenAI
 - Slack
-- Next Door Holdings
 - Pentagon
 - US Navy
 - Chinese Communist Party
-- Saxo Bank
-- Hyundai Heavy Industries
 - Deepseek
 - NIST
 date: '2025-12-10'
@@ -59,19 +55,13 @@ people:
 - Bill Ackman
 - Peter Thiel
 products_models:
-- Ship OS
 - H200
 - Blackwell
 - Kimmy
 - Gemini
 - Avocado
 - GPT
-- SoFi Smart Card
 - Neutron
-- RSA
-- Active Guard
-- FSD14
-- GenAI.Mil
 project:
 - us-analysis
 - china-analysis

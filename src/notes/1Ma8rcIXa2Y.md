@@ -7,11 +7,7 @@ companies_orgs:
 - ADP
 - ISM
 - Wall Street Journal
-- Savills
-- 斯邦威里斯
 - Apollo Global Management
-- Citadel Investment Group
-- CitiGroup
 date: '2025-11-06'
 draft: true
 guest: ''

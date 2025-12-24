@@ -14,7 +14,6 @@ people:
 - Sam Altman
 - Donald Trump
 products_models:
-- ASI
 - AGI
 project:
 - ai-impact-analysis

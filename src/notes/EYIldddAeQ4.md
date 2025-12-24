@@ -7,7 +7,6 @@ companies_orgs:
 - RBC
 - Microsoft
 - Google
-- Norton
 date: '2024-05-09'
 draft: true
 guest: ''
@@ -18,7 +17,6 @@ media_books:
 people:
 - 庄也
 products_models:
-- IE
 - Chrome
 - Windows
 - Android

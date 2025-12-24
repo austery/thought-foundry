@@ -2,20 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- VIA Rail
 - RCMP
 - Canada Post
 - CBC
-- CPP
-- UNRWA
-- AIIB
-- EBRD
-- TransCanada
 - G7
 - NATO
-- Five Eyes Alliance
-- Veterans Affairs Canada
-- Fisheries and Oceans Canada
 date: '2025-04-27'
 draft: true
 guest: ''

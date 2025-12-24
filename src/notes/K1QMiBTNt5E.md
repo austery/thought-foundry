@@ -4,8 +4,6 @@ category: general
 companies_orgs:
 - Berkshire Hathaway
 - FBI
-- Coca-Cola Company
-- MidAmerican Energy
 date: '2025-11-14'
 draft: true
 guest: ''
@@ -19,9 +17,6 @@ people:
 - Charlie Munger
 - Ajit Jain
 - Greg Abel
-products_models:
-- New Coke
-- Old Coke
 project:
 - investment-strategy
 - systems-thinking

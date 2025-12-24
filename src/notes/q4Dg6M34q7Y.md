@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- CIRCLE
 - Money or Life 美股频道
 - Coinbase
 date: '2025-11-13'
@@ -13,7 +12,6 @@ layout: post.njk
 people:
 - Ace
 products_models:
-- CPN
 - Arc
 - USDC
 - USDT

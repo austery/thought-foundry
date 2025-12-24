@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 中央电视台
-- 新闻评论部
 date: '2025-01-01'
 draft: true
 guest: ''

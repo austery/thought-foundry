@@ -21,7 +21,6 @@ people:
 - 李安
 products_models:
 - GPT-4o
-- Midjourney V3
 - MCP协议
 project:
 - cultural-critique

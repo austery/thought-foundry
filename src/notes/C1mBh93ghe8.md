@@ -5,7 +5,6 @@ companies_orgs:
 - 中国移动
 - 恒大
 - 碧桂园
-- 土巴兔
 - 新东方
 date: '2025-11-01'
 draft: true
@@ -15,18 +14,9 @@ layout: post.njk
 media_books:
 - 《看成败人生豪迈》
 products_models:
-- YY
-- 斗鱼
-- 土豆
-- 优酷
-- 来疯
-- 陌陌
 - 快手
 - 抖音
-- TFBOYS
 - 王者荣耀
-- 英雄联盟
-- 吃鸡
 - Photoshop
 project:
 - entrepreneurship

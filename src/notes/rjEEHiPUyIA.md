@@ -8,12 +8,9 @@ companies_orgs:
 - 小米
 - 百度
 - 小鹏汽车
-- 美光科技
 - Nvidia
-- Arm
 - 摩根士丹利
 - 戴尔
-- 惠普
 - Cloudflare
 - 比亚迪
 - 特斯拉
@@ -38,8 +35,6 @@ products_models:
 - 通义千问
 - DeepSeek
 - 豆包
-- 灵光
-- MVLink
 project:
 - china-analysis
 - us-analysis

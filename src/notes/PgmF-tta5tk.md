@@ -2,8 +2,6 @@
 area: society-systems
 category: politics-society
 companies_orgs:
-- New York City DSA
-- Broadbent Institute
 - TVO Today
 date: '2025-11-14'
 draft: true

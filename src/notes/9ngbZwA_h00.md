@@ -2,12 +2,9 @@
 area: tech-insights
 category: productivity
 companies_orgs:
-- Ken Burns Florentine Films
 - OpenAI
 - Brex
-- Library of Congress
 - Anthropic
-- Daughters of the American Revolution
 - PBS
 date: '2025-11-17'
 draft: true
@@ -23,22 +20,10 @@ people:
 products_models:
 - ChatGPT
 - Cursor
-- Super Whisper
-- Claude 45 Sonnet
-- OpenAI API
 - VS Code
-- AirTable
-- Mac Mini
-- CLIP
 - Whisper
 - Gemini
-- iPhone camera
-- Flip-Flop
-- OCR Party
-- Adobe Acrobat
 - Photoshop
-- Adobe Premiere
-- Avid Media Composer
 project:
 - ai-impact-analysis
 - systems-thinking

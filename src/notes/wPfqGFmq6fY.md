@@ -3,25 +3,13 @@ area: market-analysis
 category: finance
 companies_orgs:
 - SpaceX
-- RocketLab
 - Blue Origin
-- Axiom Space
-- Voyager Space
-- Vast Space
 - Lockheed Martin
 - Airbus
 - MDA Space
-- Mitsubishi Corporation
 - Palantir
 - Boeing
-- Sierra Space
-- Redwire Space
 - NASA
-- CSA
-- ESA
-- JAXA
-- Roscosmos
-- Hilton
 - Northrop Grumman
 date: '2025-10-22'
 draft: true
@@ -31,16 +19,7 @@ layout: post.njk
 products_models:
 - Starship
 - Falcon 9
-- Crew Dragon
-- Starlab
-- Orbital Reef
-- Haven-1
-- Haven-2
-- Gateway
-- LIFE module
-- Dream Chaser
 - New Glenn
-- NGI
 project:
 - investment-strategy
 - us-analysis

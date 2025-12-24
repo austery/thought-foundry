@@ -1,12 +1,6 @@
 ---
 area: society-thinking
 category: philosophy-thinking
-companies_orgs:
-- 山西大学
-- Open M
-- 马凌画廊
-- SOH
-- 大都会博物馆图书馆
 date: '2025-12-17'
 draft: true
 guest: ''

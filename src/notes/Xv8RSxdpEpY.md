@@ -3,11 +3,8 @@ area: society-systems
 category: general
 companies_orgs:
 - 长荣航空
-- 中国海关
 - 中国联通
 - 辉瑞
-- 莫德纳
-- 杭州亚运会
 date: '2023-11-04'
 draft: true
 guest: ''

@@ -3,10 +3,7 @@ area: society-systems
 category: culture
 companies_orgs:
 - New York Times Book Review
-- Duke University Press
-- Schomburg Center for Research in Black Culture
 - Columbia University
-- New York University (NYU)
 date: '2025-11-16'
 draft: true
 guest: ''

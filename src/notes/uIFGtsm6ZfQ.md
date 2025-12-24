@@ -3,13 +3,10 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 东鹏饮料
-- 海天味业
-- 千禾味业
 - 珀莱雅
 - 贝泰妮
 - 京东
 - 腾讯
-- 盐津铺子
 - 泡泡玛特
 - 卡游
 date: '2025-10-01'
@@ -17,10 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 二锅头
-- 茅台
-- 五粮液
 project:
 - investment-strategy
 - market-cycles

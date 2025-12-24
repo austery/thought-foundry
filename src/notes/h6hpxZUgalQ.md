@@ -25,7 +25,6 @@ people:
 products_models:
 - ChatGPT
 - GPT-4o
-- Meta Horizon Worlds
 project:
 - ai-impact-analysis
 - personal-growth-lab

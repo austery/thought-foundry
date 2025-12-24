@@ -5,19 +5,12 @@ companies_orgs:
 - AST SpaceMobile
 - Rocket Lab
 - SpaceX
-- Redwire Corporation
-- Intuitive Machines
 - AT&T
 - Vodafone
-- Rakuten Mobile
 - T-Mobile
 - Blue Origin
 - NASA
 - Boeing
-- Deep Space Systems
-- Made In Space
-- OMI
-- AE Industrial Partners
 - Tesla
 - Nvidia
 - Apple
@@ -32,11 +25,7 @@ people:
 - Elon Musk
 products_models:
 - Starlink
-- BlueBird
 - Neutron rocket
-- Nova-C
-- Near Space Network Service
-- Artemis
 project:
 - investment-strategy
 - us-analysis

@@ -4,7 +4,6 @@ category: psychology
 companies_orgs:
 - Stanford
 - MIT
-- KU
 date: '2024-03-28'
 draft: true
 guest: ''
@@ -15,9 +14,6 @@ media_books:
 people:
 - Derek Muller
 - Emily
-products_models:
-- The 37 Force
-- The 37 Website
 project:
 - systems-thinking
 - personal-growth-lab

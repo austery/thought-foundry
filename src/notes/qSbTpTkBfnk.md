@@ -3,9 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - CNN
-- 自由黨
-- 保守黨
-- 世界銀行
 date: '2025-01-17'
 draft: true
 guest: ''

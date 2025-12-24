@@ -17,8 +17,6 @@ people:
 - Thomas Piketty
 - Descartes
 - Locke
-products_models:
-- GDP
 project:
 - systems-thinking
 - geopolitics-watch

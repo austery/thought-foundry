@@ -4,7 +4,6 @@ category: macro-economy
 companies_orgs:
 - Federal Reserve
 - Bloomberg Audio Studios
-- NLRB
 - FTC
 - Supreme Court
 - White House
@@ -23,8 +22,6 @@ people:
 - Jerome Powell
 - Adam Posen
 - Alexander Hamilton
-products_models:
-- The Fed Unbound
 project:
 - us-analysis
 - geopolitics-watch

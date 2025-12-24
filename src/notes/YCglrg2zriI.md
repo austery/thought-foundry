@@ -4,7 +4,6 @@ category: politics-society
 companies:
 - psychological-warfare
 companies_orgs:
-- Maga Inc
 - Republican Party
 - Democratic Party
 - Twitter

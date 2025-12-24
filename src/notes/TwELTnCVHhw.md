@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- Disney Plus
 date: '2023-10-14'
 draft: true
 guest: ''

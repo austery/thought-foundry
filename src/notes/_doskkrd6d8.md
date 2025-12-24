@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: finance
-companies_orgs:
-- 野村证券
 date: '2025-07-17'
 draft: true
 guest: ''

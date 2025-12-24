@@ -5,9 +5,6 @@ companies_orgs:
 - Rocket Lab
 - SpaceX
 - Amazon
-- Geost
-- Mynarics
-- 蓝色起源
 date: '2025-11-20'
 draft: true
 guest: ''
@@ -17,8 +14,6 @@ products_models:
 - Electron
 - Neutron
 - Starlink
-- Amazon Leo
-- 新格伦号
 project:
 - investment-strategy
 - us-analysis

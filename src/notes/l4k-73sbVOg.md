@@ -12,10 +12,6 @@ companies_orgs:
 - Microsoft
 - Amazon
 - Google
-- semi-analysis
-- Together AI
-- Lepton AI
-- Yandex
 - Nvidia
 - xAI
 date: '2025-09-25'
@@ -29,7 +25,6 @@ people:
 products_models:
 - A100
 - H100
-- Sunk
 project:
 - investment-strategy
 - ai-impact-analysis

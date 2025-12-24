@@ -3,7 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - Toyota
-- Lexus
 - Amazon
 date: '2024-04-01'
 draft: true
@@ -12,9 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - CBC Marketplace
-products_models:
-- Faraday Box
-- OBD Port Lock
 project:
 - systems-thinking
 series: ''

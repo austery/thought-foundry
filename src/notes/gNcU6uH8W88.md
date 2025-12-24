@@ -4,9 +4,6 @@ category: geopolitics
 companies_orgs:
 - NATO
 - European Union
-- European Economic Community
-- International Court of Justice
-- 北美航空航天防禦司令部
 date: '2025-02-03'
 draft: true
 guest: ''

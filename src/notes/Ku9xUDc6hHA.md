@@ -10,12 +10,9 @@ companies_orgs:
 - SpaceX
 - OpenAI
 - SEC
-- Paxos
 - Kraken
 - Coinbase
 - Circle
-- Uniswap
-- MetaMask
 - Amazon
 - Microsoft
 - Apple
@@ -34,15 +31,9 @@ people:
 - Vlad Tenev
 - David Sacks
 products_models:
-- Robinhood 24-hour market
-- Robinhood Gold card
-- Robinhood Strategies
 - USDC
-- Tether
 - Bitcoin
 - Ethereum
-- Arbitrum
-- Base
 project:
 - investment-strategy
 - geopolitics-watch

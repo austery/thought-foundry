@@ -2,11 +2,8 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Sourdough Express
 - Bloomberg Podcasts
 - Department of Defense
-- Fred Meyers
-- Spanard Builder Supply
 date: '2025-08-13'
 draft: true
 guest: ''
@@ -23,7 +20,6 @@ people:
 - Dashel Bennett
 - Kale Brooks
 products_models:
-- CDL
 - Starlink
 project:
 - us-analysis

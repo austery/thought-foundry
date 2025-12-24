@@ -3,10 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - Norges Bank Investment Management
-- Stockholm School of Economics
-- Museum of Modern Art
-- Daimler
-- Mercedes
 date: '2025-03-05'
 draft: true
 guest: ''

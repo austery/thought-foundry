@@ -2,10 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- The Department of Justice
-- U.S. Agency for International Development
-- U.S. Court of Federal Claims
-- U.S. District Court
 - Congress
 date: 2025-03-06
 draft: true
@@ -19,7 +15,8 @@ people:
 - Donald Trump
 - John Roberts
 - George W. Bush
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

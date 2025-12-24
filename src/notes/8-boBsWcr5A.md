@@ -19,12 +19,10 @@ companies_orgs:
 - Salesforce
 - Iris Energy
 - Nebius
-- Lambda Labs
 - TSMC
 - ByteDance
 - Alibaba
 - Deepseek
-- Moonshot
 - Carnegie Mellon University
 date: '2025-11-13'
 draft: true
@@ -42,7 +40,6 @@ products_models:
 - GPT-5
 - GB200
 - NVLink
-- Vera Rubin Ultra
 - Copilot
 - Windows
 - Microsoft 365
@@ -54,18 +51,7 @@ products_models:
 - Claude Code
 - Codex
 - Grok
-- Agent HQ
-- Mission Control
-- Excel Agent
-- GPT family
-- MAI
 - Gemini 2.5
-- Windows 365
-- Cosmos DB
-- SQL DB
-- Azure Foundry
-- Maia 200
-- Cobalt
 - TPU
 project:
 - us-analysis

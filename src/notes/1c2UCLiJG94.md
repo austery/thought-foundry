@@ -26,13 +26,9 @@ media_books:
 people:
 - Ben Bernanke
 products_models:
-- MBS
 - CDO
 - CDS
-- Commercial Paper
-- TARP
 - Dodd-Frank Act
-- Volcker Rule
 project:
 - us-analysis
 - historical-insights

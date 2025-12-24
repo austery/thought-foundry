@@ -2,8 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中华人民共和国外交部
-- 中共中央宣传部
 - 腾讯
 - 抖音
 - 中央情报局
@@ -19,9 +17,6 @@ media_books:
 - 《复仇者联盟》
 people:
 - Donald Trump
-products_models:
-- HSK
-- hao123
 project:
 - china-analysis
 - us-analysis

@@ -4,7 +4,6 @@ author: Lei
 category: lifestyle
 companies_orgs:
 - YouTube
-- ChatGPT
 - Tesla
 date: '2025-11-06'
 draft: true

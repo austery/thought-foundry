@@ -2,8 +2,6 @@
 area: market-analysis
 author: All-In Podcast
 category: finance
-companies_orgs:
-- sequoia-capital
 date: '2025-10-09'
 draft: true
 guest: ''

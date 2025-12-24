@@ -2,24 +2,9 @@
 area: finance-wealth
 category: macro-economics
 companies_orgs:
-- 南京國民政府
-- 國民黨
 - CC系
-- 黃埔軍校
-- 中國銀行
-- 交通銀行
-- 上海銀行公會
-- 上海商業儲蓄銀行
-- 軍統
-- 中央銀行
-- 監察院
-- 國民黨六屆三中全會
 - 行政院
-- 財政部
 - 立法院
-- 上海青年服務總隊
-- 第六綏靖區教導隊
-- 揚子公司
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -32,18 +17,6 @@ people:
 - 宋子文
 - 孔祥熙
 - 戴笠
-products_models:
-- 法幣
-- 金圓券
-- 銀元
-- 銀票
-- 美元債券
-- 美國國庫券
-- 黃金
-- 白銀
-- 美元
-- 港幣
-- 銀元券
 project:
 - china-analysis
 series: ''

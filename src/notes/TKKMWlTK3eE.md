@@ -3,20 +3,14 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Netflix
-- 南洋理工大学
-- 台湾大学
 - 国民党
 - 民众党
 - 民进党
 - CIA
 - 北约
-- 慈济
 - 台积电
 - 英特尔
 - 国台办
-- 湖南师范大学
-- 岳麓书院
-- 云门舞集
 date: '2025-08-23'
 draft: true
 guest: ''
@@ -40,12 +34,7 @@ people:
 - 特朗普
 - 柴静
 products_models:
-- 五权宪法
 - 真朋友APP
-- 零日攻击
-- 护国神山
-- 反分裂国家法
-- 看见
 project:
 - china-analysis
 - us-analysis

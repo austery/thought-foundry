@@ -5,14 +5,8 @@ companies_orgs:
 - 美国银行
 - Nvidia
 - Microsoft
-- 安斯瓦帕克
 - 北约
 - 中共
-- 乌克兰国家反腐败局
-- 反腐败行动中心
-- 欧亚集团
-- 中央顾问委员会
-- 川普集团
 date: '2025-11-18'
 draft: true
 guest: ''

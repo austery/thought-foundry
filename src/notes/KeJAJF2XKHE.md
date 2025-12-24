@@ -4,13 +4,7 @@ category: geopolitics
 companies_orgs:
 - TVO Today
 - Globe and Mail
-- Assembly of First Nations
-- Liberal Party of Canada
-- Conservative Party of Canada
-- United Conservative Party
 - New Democratic Party
-- Acadia University
-- University of Alberta
 date: '2025-12-05'
 draft: true
 guest: ''

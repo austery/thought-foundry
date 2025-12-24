@@ -9,7 +9,6 @@ companies_orgs:
 - Netflix
 - Epic Games
 - United Nations
-- Waldorf School of the Peninsula
 date: '2025-05-01'
 draft: true
 guest: ''
@@ -24,10 +23,7 @@ people:
 - Jonathan Haidt
 - Steve Jobs
 products_models:
-- iPhone 4
-- Snapchat
 - YouTube
-- Fortnite
 project:
 - systems-thinking
 - personal-growth-lab

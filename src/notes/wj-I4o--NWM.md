@@ -3,11 +3,8 @@ area: society-systems
 category: general
 companies_orgs:
 - New York Times
-- Trump Administration
 - Tesla
-- United Nations Climate Body
 - Walmart
-- Louvre Museum
 date: '2025-11-07'
 draft: true
 guest: ''

@@ -3,7 +3,6 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - 初日診所
-- 長庚醫院
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -11,9 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - 鄧雯心醫師
-products_models:
-- SSRI
-- SNRI
 project:
 - personal-growth-lab
 - systems-thinking

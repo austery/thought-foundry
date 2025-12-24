@@ -3,14 +3,11 @@ area: society-systems
 category: business
 companies_orgs:
 - TED
-- World Resources Institute
 date: '2025-10-21'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Rimba Collective
 project:
 - systems-thinking
 - investment-strategy

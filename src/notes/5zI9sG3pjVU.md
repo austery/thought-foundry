@@ -12,8 +12,6 @@ media_books:
 - The Aviator
 people:
 - Destin Sandlin
-products_models:
-- Cottonelle flushable wipes
 project:
 - systems-thinking
 series: ''

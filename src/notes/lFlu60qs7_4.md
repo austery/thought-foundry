@@ -2,8 +2,6 @@
 area: society-systems
 category: science
 companies_orgs:
-- NANOGrav
-- Plank mission
 - Brilliant.org
 date: '2023-10-21'
 draft: true
@@ -16,10 +14,6 @@ people:
 - Ptolemy
 - Einstein
 - Newton
-products_models:
-- Euclid's Elements
-- Poincare Disk Model
-- Measurement
 project:
 - historical-insights
 - systems-thinking

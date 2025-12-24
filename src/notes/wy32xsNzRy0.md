@@ -3,9 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - NBC News
-- Beijing Dance Academy
-- Houston Ballet
-- 中国驻休斯顿领事馆
 date: 2025-04-30
 draft: true
 guest: ''
@@ -22,7 +19,8 @@ people:
 - George W. Bush
 - Ronald Reagan
 - George H.W. Bush
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - historical-insights

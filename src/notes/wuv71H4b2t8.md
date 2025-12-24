@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
-- Norwegian Central Bank
 date: '2024-10-27'
 draft: true
 guest: ''

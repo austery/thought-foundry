@@ -3,14 +3,9 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- Rapid Support Forces
-- Wagner Group
-- Africa Corps
 - United Nations
-- Red Crescent
 - Red Cross
 - BBC
-- Daily Telegraph
 date: '2025-11-10'
 draft: true
 guest: ''

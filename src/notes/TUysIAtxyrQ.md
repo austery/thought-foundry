@@ -1,8 +1,8 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- vertex-ai
+companies:
+- google-cloud
 date: '2025-07-31'
 draft: true
 guest: ''
@@ -22,8 +22,6 @@ tags:
 - development
 - llm
 title: 在Google Cloud Vertex AI上使用Claude构建AI智能体：挑战、解决方案与实战
-companies:
-- google-cloud
 ---
 
 ### 引言与AI智能体生产化挑战

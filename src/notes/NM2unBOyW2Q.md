@@ -3,7 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - Global Crossing
-- CIM
 date: '2025-12-22'
 draft: true
 guest: ''

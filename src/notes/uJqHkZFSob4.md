@@ -3,7 +3,6 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - OpenAI
-- 大众汽车
 - 西门子
 - 巴斯夫
 date: '2025-12-23'

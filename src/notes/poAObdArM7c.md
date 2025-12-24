@@ -1,8 +1,6 @@
 ---
 area: personal-systems
 category: psychology
-companies_orgs:
-- Orthodox Church
 date: '2025-03-15'
 draft: true
 guest: ''

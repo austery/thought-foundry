@@ -2,11 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- IRCC
 - CBC
-- MCC
-- CaRMS
-- CFPC
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -14,11 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《莊也雜談》
-products_models:
-- MCCQE
-- NAC
-- PRA
-- ROS
 project:
 - us-analysis
 - systems-thinking

@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- sequoia-capital
 date: '2025-08-30'
 draft: true
 guest: ''

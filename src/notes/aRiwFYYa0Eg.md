@@ -3,12 +3,7 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Bloomberg
-- Carrington Fox
-- Millennium
-- More Capital
-- Wheatzville Food Co-op
 - Jane Street
-- Georgia Pacific
 - Amazon
 date: '2025-07-07'
 draft: true
@@ -26,8 +21,6 @@ people:
 - Tracy Aloway
 - Stanley Druckenmiller
 - Sam Bankman-Fried
-products_models:
-- E*TRADE
 project:
 - investment-strategy
 - entrepreneurship

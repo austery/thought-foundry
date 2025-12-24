@@ -2,16 +2,9 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 长江和记集团
 - BlackRock
-- 联想
 - 华为
-- 港澳办
 - Qualcomm
-- 海康威视
-- 英国东印度公司
-- 长江塑胶厂
-- 长江商学院
 date: '2025-03-22'
 draft: true
 guest: ''

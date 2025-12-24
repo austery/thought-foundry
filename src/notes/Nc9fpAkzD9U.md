@@ -12,13 +12,9 @@ companies_orgs:
 - Deutsche Bank
 - BNP Paribas
 - HSBC
-- Standard Chartered
 - Nomura Securities
 - Bank of America
-- UBS Global Research
-- UBS Global Wealth Management
 - US Department of Defense
-- US Commerce Department
 date: '2025-11-01'
 draft: true
 guest: ''
@@ -33,9 +29,6 @@ people:
 - Donald Trump
 - Xi Jinping
 - Jensen Huang
-products_models:
-- Blackwell chip
-- 9M729 missile
 project:
 - us-analysis
 - china-analysis

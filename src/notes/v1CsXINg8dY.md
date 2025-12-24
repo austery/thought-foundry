@@ -5,8 +5,6 @@ companies_orgs:
 - Apple
 - Nvidia
 - Tesla
-- Nikola
-- 投行
 date: '2024-10-08'
 draft: true
 guest: ''

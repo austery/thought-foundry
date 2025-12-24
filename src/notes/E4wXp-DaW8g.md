@@ -2,21 +2,14 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Nortel
-- Lucent
 - Cisco
-- 360networks
-- Valiant Pharmaceuticals
-- Arthur Andersen
 - Enron
 - York University
-- Veritas
 - Microsoft
 - OpenAI
 - CoreWeave
 - JPMorgan
 - GoDaddy
-- Namecheap
 - Cloudflare
 - Basecamp
 - Walmart
@@ -25,15 +18,10 @@ companies_orgs:
 - Starbucks
 - AMD
 - SEC
-- FASB
-- PCAOB
-- IFRS
-- CPAB
 - Apple
 - Bloomberg
 - FactSet
 - Berkshire Hathaway
-- Geico
 - NFL
 date: 2025-10-31
 draft: true
@@ -55,7 +43,6 @@ products_models:
 - ChatGPT
 - VIX
 - S&P 500
-- Magnificent Seven
 - Remarkable Paper Pro Move
 project:
 - investment-strategy

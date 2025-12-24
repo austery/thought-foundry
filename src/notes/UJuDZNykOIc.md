@@ -10,17 +10,7 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Ministral 3
-- Ministral 3 14B
-- Ministral 3 8B
-- Ministral 3 3B
-- MTR Olar Ge 3
-- Qwen3
-- Qwen3 14B
 - vLLM
-- Open Web UI
-- Google Colab
-- Autogen
 project:
 - ai-impact-analysis
 series: ''

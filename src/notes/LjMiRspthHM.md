@@ -5,9 +5,7 @@ companies_orgs:
 - 国民党
 - 共产党
 - 中山大学
-- 密苏里大学
 - 复旦大学
-- 中共中央东北局
 date: '2023-04-18'
 draft: true
 guest: ''

@@ -5,33 +5,19 @@ companies_orgs:
 - a16z
 - Google
 - Adobe
-- Zendesk
 - Salesforce
-- Netsuite
 - Microsoft
 - Apple
 - ADP
-- Paychex
 - GE
-- Epic
-- Cerner
 - Meta
-- Rubrik
 - OpenAI
-- Salient
-- Honey
-- Zynga
-- VisiCalc
-- Lotus
 - XAI
 - Anthropic
 - Cohere
 - Tata Consultancy Services
-- Wipro
 - Infosys
 - JPMorgan
-- Vista Equity Partners
-- Tener
 date: '2025-12-03'
 draft: true
 guest: ''
@@ -49,16 +35,10 @@ products_models:
 - GPT
 - Microsoft Word
 - Microsoft Excel
-- Microsoft Office 365
 - iPhone
 - iPad
-- Macintosh Programmers Workshop
 - Xcode
 - ChatGPT
-- VisiCalc
-- Lotus 1-2-3
-- Honey Nut Cheerios
-- Screen Time
 project:
 - ai-impact-analysis
 - entrepreneurship

@@ -2,10 +2,8 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Elliott Management
 - Norges Bank Investment Management
 - Harvard Law School
-- CBOE
 date: '2025-02-26'
 draft: true
 guest: ''

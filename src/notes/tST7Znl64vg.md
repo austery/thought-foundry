@@ -4,7 +4,6 @@ category: culture
 companies_orgs:
 - Deutsche Welle
 - FBI
-- Daily Telegraph
 - 民进党
 date: '2023-06-23'
 draft: true

@@ -3,9 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 北约
-- 共同社
 - 言论NPO
-- 四川日中友好基金会
 - 北京大学
 date: '2025-11-18'
 draft: true
@@ -19,8 +17,6 @@ people:
 - Vladimir Putin
 - Donald Trump
 - 安倍晋三
-products_models:
-- 一带一路
 project:
 - us-analysis
 - geopolitics-watch

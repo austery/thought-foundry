@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Global Methane Hub
-- Environmental Protection Agency
 date: '2025-11-18'
 draft: true
 guest: ''

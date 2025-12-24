@@ -2,17 +2,12 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Sentry
 - Uber
 - Google
 - Mozilla
 - Statsig
 - Linear
-- Stainless
-- PSPDFKit
-- Flickr
 - Slack
-- Debian
 - Red Hat
 - Meta
 - AWS
@@ -28,28 +23,19 @@ products_models:
 - Rust
 - Go
 - TypeScript
-- Flask
 - Claude
 - Codex
 - JavaScript
 - C++
 - C#
 - Java
-- WebAssembly
-- npm
 - React
 - Node.js
 - Express
-- React Server Components
 - Cursor
-- Terraform
-- Pulumi
-- OpenAPI
 - GitHub
 - ChatGPT
 - Next.js
-- Project Loom
-- OpenTelemetry
 project:
 - ai-impact-analysis
 - systems-thinking

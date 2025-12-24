@@ -2,46 +2,29 @@
 area: society-systems
 category: lifestyle
 companies_orgs:
-- Airalo
-- Nihao Mobile
 - 中国联通
 - 美团
 - 饿了么
 - 携程
-- 高德
 - 百度
-- 中国铁路
 - 滴滴
 - 支付宝
 - 京东
 - 拼多多
 - 淘宝
 - 天猫
-- 唯品会
 - 抖音
 - 小红书
-- 苏宁易购
-- 大众点评
 date: '2024-10-13'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- PrivateVPN
-- Let'sVPN
-- iPhone X
 - ChatGPT
-- Google Flight
-- Expedia
-- Booking.com
 - Ctrip (英文版)
-- Yelp
-- TripAdvisor
 - Google Maps
 - 公交一卡通APP
-- 玲珑通卡
-- 青桔单车
 project:
 - china-analysis
 series: ''

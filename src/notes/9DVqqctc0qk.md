@@ -1,13 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 马列学院
-- 中央政治研究室
-- 中组部
-- 水利电力部
-- 陕西汽车制造厂
-- 中共中央顾问委员会
 date: '2025-03-02'
 draft: true
 guest: ''

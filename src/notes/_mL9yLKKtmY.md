@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Norges Bank Investment Management
 - Bank of America
-- Merrill
 - Federal Reserve
 - ECB
 date: '2025-08-13'
@@ -18,9 +17,6 @@ media_books:
 - A Curious Mind
 people:
 - Nicolai Tangen
-products_models:
-- Erica
-- Zelle
 project:
 - us-analysis
 - investment-strategy

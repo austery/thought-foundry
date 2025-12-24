@@ -6,7 +6,6 @@ companies_orgs:
 - DeepMind
 - Anthropic
 - Wikipedia
-- Gawker
 date: '2024-11-13'
 draft: true
 guest: ''
@@ -38,17 +37,10 @@ people:
 - Dario Amodei
 products_models:
 - GPT-4
-- GPT-1
 - GPT-2
 - GPT-3
 - AlphaZero
-- DanNet
 - AlexNet
-- BigGAN
-- Gato
-- Claude-3
-- Neopets
-- Silk Road
 - Adderall
 project:
 - ai-impact-analysis

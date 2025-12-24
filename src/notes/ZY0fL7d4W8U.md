@@ -3,12 +3,8 @@ area: society-systems
 category: lifestyle
 companies_orgs:
 - 携程
-- '12306'
-- 飞猪
 - 美团
 - 微信
-- 同程旅行
-- 哈根达斯
 date: '2024-12-08'
 draft: true
 guest: ''
@@ -17,10 +13,7 @@ layout: post.njk
 people:
 - 莊也
 products_models:
-- 和谐号
-- 复兴号
 - 上海交通卡APP
-- 北京玲珑通卡
 - iPhone
 - ChatGPT
 project:

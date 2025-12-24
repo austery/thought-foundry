@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - ISIS
-- Vox
-- Salafi-Libre Center
 date: '2023-09-14'
 draft: true
 guest: ''

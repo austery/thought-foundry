@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Electro-Thermit
 - Incogni
 date: '2024-10-05'
 draft: true
@@ -11,11 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-products_models:
-- GoPro
-- Bunsen burner
-- Scheele's green
-- Cochineal
 project:
 - historical-insights
 - systems-thinking

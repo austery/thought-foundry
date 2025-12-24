@@ -5,7 +5,6 @@ companies_orgs:
 - Microsoft
 - DeepMind
 - Coursera
-- Harvard Medical School
 - NHS
 date: '2025-11-20'
 draft: true
@@ -21,7 +20,6 @@ people:
 - Bill Gates
 products_models:
 - Copilot
-- Learn Live
 project:
 - ai-impact-analysis
 - systems-thinking

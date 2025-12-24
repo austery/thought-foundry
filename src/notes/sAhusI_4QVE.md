@@ -13,11 +13,7 @@ companies_orgs:
 - 美团
 - Microsoft
 - 腾讯
-- 立讯
-- 歌尔股份
-- 金山云
 - 中芯国际
-- 华虹宏力
 date: '2025-04-13'
 draft: true
 guest: ''

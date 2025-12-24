@@ -19,7 +19,6 @@ products_models:
 - Bitcoin
 - Ethereum
 - Dogecoin
-- Tesla Humanoid Robot
 project:
 - investment-strategy
 - market-cycles

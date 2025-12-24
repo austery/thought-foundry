@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 西北战地服务团
 date: '2024-11-30'
 draft: true
 guest: ''

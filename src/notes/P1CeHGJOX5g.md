@@ -2,11 +2,8 @@
 area: personal-systems
 category: lifestyle
 companies_orgs:
-- 24-Hour Fitness
 - DoorDash
-- Adobe Express
 - Apple
-- Zoe
 date: '2025-10-27'
 draft: true
 guest: ''
@@ -21,9 +18,6 @@ media_books:
 - Roar
 products_models:
 - Whoop
-- DEXA scan
-- REM's ultrasound
-- Ketone IQ
 - Ozempic
 - GLP-1
 project:

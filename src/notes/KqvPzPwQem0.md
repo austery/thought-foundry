@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 腾讯
 - Alibaba
-- 抖音公司
 date: '2025-06-14'
 draft: true
 guest: ''
@@ -21,7 +20,6 @@ people:
 - Mike Tyson
 products_models:
 - VPN
-- GFW
 project:
 - china-analysis
 - geopolitics-watch

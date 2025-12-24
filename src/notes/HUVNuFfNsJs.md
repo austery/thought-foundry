@@ -3,11 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 同盟会
-- 保皇会
-- 进步党
 - 国民党
-- 清华国学研究院
-- 松下村塾
 date: '2025-11-05'
 draft: true
 guest: ''

@@ -2,9 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 土豆网
-- 追光动画
-- 皮克斯动画
 - 开心麻花
 date: '2025-02-08'
 draft: true

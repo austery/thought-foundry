@@ -3,21 +3,12 @@ area: market-analysis
 category: business
 companies_orgs:
 - Scale AI
-- Passes
-- Back in Capital
-- HFZ
 - YC
-- Neopets
 - PayPal
-- Kora
-- Ava
 - Snap
 - Amazon
 - Google
 - Lovable
-- EO
-- M Hacks
-- Hack MIT
 - Patreon
 date: '2025-10-30'
 draft: true
@@ -30,12 +21,6 @@ people:
 - Mr. Beast
 - Evan Spiegel
 products_models:
-- Skims
-- Prime
-- Fastables
-- Lovable Pro plan
-- Snap Map
-- Intercom
 - Figma
 project:
 - entrepreneurship

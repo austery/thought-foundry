@@ -16,8 +16,6 @@ companies_orgs:
 - CoreWeave
 - Coinbase
 - Palantir
-- investing.com
-- VST
 - GE Vernova
 - Federal Reserve
 date: '2025-11-18'

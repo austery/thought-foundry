@@ -9,27 +9,15 @@ companies_orgs:
 - Nvidia
 - Google
 - Tesla
-- American First Policy Institute
 - Princeton University
 - Harvard University
 - CCTV
 - X
-- Chinese Ministry of Foreign Affairs
-- State Council
 - People's Bank of China
-- Alibaba Group
-- Aliexpress
 - Pinduoduo
-- Temu
-- Shein
-- First Financial
 - Xinhua News Agency
-- National Economic Council
 - Federal Reserve
 - House of Representatives
-- US Department of Labor
-- American Turning Point
-- National Policy Research Institute
 date: '2025-11-14'
 draft: true
 guest: ''
@@ -54,9 +42,6 @@ people:
 - Shinzo Abe
 - Li Qiang
 - Nick Timiraos
-products_models:
-- H1B visa
-- GPA
 project:
 - us-analysis
 - china-analysis

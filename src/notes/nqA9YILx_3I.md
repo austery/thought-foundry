@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 中国共产党
-- 佛教协会
-- 上海戏剧学院
 - 爱奇艺
 date: '2025-07-12'
 draft: true

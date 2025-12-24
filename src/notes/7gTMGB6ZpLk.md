@@ -2,9 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 南昌中院
-- 最高人民法院
-- 江西高院
 - 公安机关
 date: '2025-11-07'
 draft: true

@@ -3,12 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - CIA
-- US Southern Command
-- Aragua Train
-- Al-Qaeda
-- Islamic State
 - ICE
-- 太阳贩毒集团
 date: '2025-10-22'
 draft: true
 guest: ''
@@ -25,8 +20,6 @@ people:
 - Xi Jinping
 - Joe Biden
 products_models:
-- F-35 fighter jets
-- MQ-9 drones
 - Huawei
 project:
 - us-analysis

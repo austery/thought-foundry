@@ -1,8 +1,6 @@
 ---
 area: null
 category: null
-companies_orgs:
-- mschf
 date: '2025-10-17'
 draft: true
 guest: ''

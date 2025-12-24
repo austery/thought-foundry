@@ -3,10 +3,8 @@ area: life-family
 category: health-wellness
 companies_orgs:
 - University of Toronto
-- Brain and Cognition Discovery Foundation
 - FDA
 - World Health Organization
-- CIHR
 date: '2025-12-18'
 draft: true
 guest: ''
@@ -16,11 +14,8 @@ media_books:
 - 《群鸟》
 - 《与星共舞》
 products_models:
-- Ketamine
-- Esketamine
 - Prozac
 - Ozempic
-- Transcranial Magnetic Stimulation (TMS)
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=mh5MI790k9k

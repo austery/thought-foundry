@@ -2,12 +2,8 @@
 area: society-systems
 category: psychology
 companies_orgs:
-- University of Houston
 - Harvard Business Review
 - MIT
-- National Football League
-- Washington Commanders
-- Patriots
 date: '2025-12-04'
 draft: true
 guest: ''

@@ -4,12 +4,6 @@ category: politics-society
 companies_orgs:
 - The New York Times
 - The Globe and Mail
-- CBC Gem
-- Crave
-- Canadian Heritage
-- Telefilm
-- Canada Council for the Arts
-- Canadian Academy
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -28,11 +22,6 @@ products_models:
 - Netflix
 - Instagram
 - TikTok
-- Givenchy
-- Balenciaga
-- Squid Game
-- K-pop
-- SNL
 project:
 - us-analysis
 - geopolitics-watch

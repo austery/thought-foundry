@@ -17,14 +17,12 @@ companies_orgs:
 - 特斯拉
 - 三星
 - SK海力士
-- 北京大学化学与分子工程学院
 - 人民日报
 - 美国银行
 - 美联储
 - 日本央行
 - 加拿大央行
 - 北约
-- 中富力宏盛集团
 - 娃哈哈
 date: '2025-10-27'
 draft: true
@@ -49,7 +47,6 @@ products_models:
 - 比特币
 - 以太坊
 - 数字人民币
-- LPR
 project:
 - us-analysis
 - geopolitics-watch

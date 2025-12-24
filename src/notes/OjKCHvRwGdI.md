@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- 中山医院
 - Polymarket
 - FBI
 date: '2025-07-14'

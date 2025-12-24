@@ -6,7 +6,6 @@ companies_orgs:
 - White House
 - National Guard
 - ICE
-- Feeding Our Future
 - Republican Party
 - Democratic Party
 - Pentagon

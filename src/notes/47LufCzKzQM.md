@@ -9,9 +9,7 @@ companies_orgs:
 - X平台
 - Reddit
 - IMF
-- CRS
 - Bank of England
-- IOSCO
 - DARPA
 - Stanford University
 date: '2025-10-29'
@@ -31,9 +29,6 @@ products_models:
 - Grok
 - GPT-5
 - Gemini 2.5 Pro
-- Qwen-3
-- DeepSeek-RE
-- Grok-4
 project:
 - geopolitics-watch
 - ai-impact-analysis

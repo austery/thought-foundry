@@ -4,7 +4,6 @@ category: science
 companies_orgs:
 - NASA
 - European Space Agency
-- JPL
 - 80,000 Hours
 date: '2024-10-11'
 draft: true
@@ -15,13 +14,7 @@ media_books:
 - 2001, A Space Odyssey
 - 2010, Odyssey Two
 products_models:
-- Europa Clipper
-- Pioneer 10
-- Voyager
 - Galileo
-- JUICE
-- Hubble Space Telescope
-- SnotBot
 project:
 - historical-insights
 - systems-thinking

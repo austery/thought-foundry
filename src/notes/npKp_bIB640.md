@@ -2,9 +2,6 @@
 area: society-systems
 category: career
 companies_orgs:
-- Progressive Contractors Association of Canada
-- Skilled Trades Ontario
-- Ontario Construction Secretariat
 - TVO Today
 date: '2025-11-12'
 draft: true

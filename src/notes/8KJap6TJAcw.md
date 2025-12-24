@@ -5,8 +5,6 @@ companies_orgs:
 - 中共
 - 国务院
 - 华尔街日报
-- 波士顿大学
-- 加州大学圣地牙哥分校
 date: '2022-11-07'
 draft: true
 guest: ''

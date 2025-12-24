@@ -1,10 +1,11 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- precious-metals-demand
 companies_orgs:
 - Federal Reserve
 - Bank of Japan
-- Swiss National Bank
 - European Union
 date: '2025-12-13'
 draft: true
@@ -15,9 +16,6 @@ media_books:
 - The Last Economy
 people:
 - Donald Trump
-products_models:
-- ETFs
-- REITs
 project:
 - us-analysis
 - geopolitics-watch
@@ -33,8 +31,6 @@ tags:
 - investment
 - technology
 title: 黄金白银飙升背后：地缘政治与美元疲软的双重驱动
-companies:
-- precious-metals-demand
 ---
 
 ### 黄金与白银的暴涨：地缘政治与美元疲软的双重推力

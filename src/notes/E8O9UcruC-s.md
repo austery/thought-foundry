@@ -2,12 +2,8 @@
 area: society-systems
 category: general
 companies_orgs:
-- Ontario Human Rights Commission
-- Peele Regional Police
-- Peele District Schoolboard
 - Ministry of Education
 - Global News
-- Ontario Coalition for Better Childcare
 - TVO Today
 date: '2025-11-20'
 draft: true
@@ -20,7 +16,6 @@ people:
 - George Floyd
 products_models:
 - Bill 33
-- School Resource Officer Program
 project:
 - systems-thinking
 - cultural-critique

@@ -3,9 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
-- National Academy of Engineering
 - IMF
-- IEA
 - European Commission
 date: '2025-11-05'
 draft: true

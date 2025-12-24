@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- RAND Corporation
 date: '2023-12-23'
 draft: true
 guest: ''
@@ -11,15 +9,6 @@ layout: post.njk
 people:
 - Robert Axelrod
 - Stanislav Petrov
-products_models:
-- Tit for Tat
-- Tit for Two Tats
-- Friedman
-- Joss
-- Graaskamp
-- Name Withheld
-- Random
-- Tester
 project:
 - us-analysis
 - geopolitics-watch

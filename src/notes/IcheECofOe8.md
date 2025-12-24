@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Central Party School
-- Yan'an University
-- Northwest Bureau
 date: '2025-07-06'
 draft: true
 guest: ''

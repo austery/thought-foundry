@@ -5,7 +5,6 @@ companies_orgs:
 - 哈佛大学
 - 哈马斯
 - 最高法院
-- 科罗拉多大学波德分校
 date: 2025-06-05
 draft: true
 guest: ''
@@ -16,7 +15,8 @@ media_books:
 people:
 - Donald Trump
 - Stephen King
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - systems-thinking

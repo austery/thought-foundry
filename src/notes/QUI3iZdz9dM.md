@@ -30,8 +30,6 @@ media_books:
 people:
 - Donald Trump
 - Hassett
-products_models:
-- H200 AI chip
 project:
 - us-analysis
 - investment-strategy

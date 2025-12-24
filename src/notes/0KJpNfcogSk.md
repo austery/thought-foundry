@@ -6,8 +6,6 @@ companies_orgs:
 - Justice Department
 - Department of Homeland Security
 - FBI
-- Department of Transportation
-- Variety
 date: '2025-11-17'
 draft: true
 guest: ''
@@ -25,8 +23,6 @@ people:
 - Jennifer Lawrence
 - Sydney Sweeney
 - Dwayne Johnson
-products_models:
-- Cryptocurrency ATMs
 project:
 - us-analysis
 - geopolitics-watch

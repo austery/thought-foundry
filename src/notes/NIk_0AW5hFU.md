@@ -3,7 +3,6 @@ area: society-thinking
 category: philosophy-thinking
 companies_orgs:
 - CERN
-- Institut d'Optique
 date: '2025-12-19'
 draft: true
 guest: ''

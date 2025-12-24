@@ -9,7 +9,6 @@ companies_orgs:
 - Robinhood
 - Coinbase
 - Snapchat
-- AWS (Amazon Web Services)
 - CNBC
 - White House
 - S&P 500
@@ -23,9 +22,7 @@ companies_orgs:
 - World Trade Organization
 - CleanSpark
 - Cipher
-- Terawulf
 - Bitfarms
-- Hive
 - Marathon Digital
 - Riot Platforms
 - Galaxy Digital
@@ -33,20 +30,13 @@ companies_orgs:
 - Nvidia
 - Senate
 - Kalshi
-- FOMC (Federal Open Market Committee)
 - AK Media
 - Bloomberg
-- BMR (Bitmine)
-- B. Riley
 - Duolingo
-- SSB
-- FG Nexus
 - MicroStrategy
-- ETHZilla
 - TSMC
 - Foxconn
 - Amkor
-- Wistron
 - JP Morgan
 - Oracle
 - Oklo
@@ -59,7 +49,6 @@ companies_orgs:
 - HP
 - Western Alliance
 - Zions Bancorporation
-- Truist
 - Citibank
 - BlackRock
 - Morgan Stanley
@@ -76,32 +65,22 @@ companies_orgs:
 - Square
 - DoorDash
 - Yahoo
-- TradingView
-- Thinkorswim
 - Fidelity
 - Schwab
 - AppLovin
 - Alibaba
 - OpenAI
 - Anthropic
-- GCP (Google Cloud Platform)
 - SAP
 - Bank of America
 - GameStop
 - Lockheed Martin
-- NuBank
-- Elf Beauty
-- iShares Russell 2000 ETF (IWM)
 - Big Bear AI
-- GSI Technology
 - Cornell University
 - Costco
 - Hugging Face
-- Grok
-- Claude
 - Perplexity
 - TikTok
-- The Information
 date: '2025-10-20'
 draft: true
 guest: ''
@@ -135,7 +114,6 @@ people:
 - Sam Altman
 products_models:
 - iPhone 17
-- iPhone 16
 - Blackwell
 - GB200
 - Galileo

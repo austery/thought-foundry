@@ -2,12 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Toronto Star
 - TVO Today
 - CBC
 - NBC
 - BBC
-- OPG
 - LCBO
 date: '2025-12-10'
 draft: true
@@ -28,9 +26,6 @@ people:
 - Doug Ford
 - John Michael McGrath
 - Brian Stewart
-products_models:
-- OnPoli podcast
-- Darlington Small Modular Reactor
 project:
 - us-analysis
 - geopolitics-watch

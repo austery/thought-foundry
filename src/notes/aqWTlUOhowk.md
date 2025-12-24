@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - Big Think
-- Wetherspoons
 date: '2025-11-27'
 draft: true
 guest: ''

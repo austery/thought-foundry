@@ -2,13 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- 花蓮慈濟醫院
 - 天下文化
-- 慈濟基金會
-- 大愛電視台
-- 衛生福利部
-- 西北航空公司
-- Mayo Clinic
 date: '2025-11-19'
 draft: true
 guest: ''
@@ -23,9 +17,7 @@ media_books:
 - 《操盤者》
 - Nature
 products_models:
-- 淨斯本草飲
 - CAR-T
-- CDMO
 project:
 - systems-thinking
 - historical-insights

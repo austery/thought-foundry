@@ -5,16 +5,12 @@ companies_orgs:
 - Rocket Lab
 - SpaceX
 - Blue Origin
-- ULA
 - Google
 - NASA
 - European Space Agency
-- German government
-- US Space Development Agency
 - US military
 - Space Force
 - Relativity Space
-- Mynaric
 date: '2025-05-25'
 draft: true
 guest: ''
@@ -28,7 +24,6 @@ products_models:
 - Neutron
 - Starlink
 - New Glenn
-- New Shepard
 - Terran R
 project:
 - investment-strategy

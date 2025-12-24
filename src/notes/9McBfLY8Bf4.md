@@ -3,9 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 美国劳工部
-- 德克萨斯州劳工委员会
-- 台湾劳工局
-- 法律辅助基金会
 date: 2025-01-28
 draft: true
 guest: ''
@@ -14,7 +11,8 @@ layout: post.njk
 media_books:
 - 《华盛顿邮报》
 - 《Wall Trash》
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - us-analysis

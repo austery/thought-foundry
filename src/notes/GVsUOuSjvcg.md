@@ -5,7 +5,6 @@ companies_orgs:
 - Cornell University
 - MIT
 - University of Toronto
-- Mythic AI
 - IBM
 - Carnegie Mellon
 date: '2022-03-01'
@@ -18,8 +17,6 @@ media_books:
 people:
 - analog-computing
 products_models:
-- Perceptron
-- ALVINN
 - ImageNet
 - AlexNet
 - Microsoft Word

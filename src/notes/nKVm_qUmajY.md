@@ -4,12 +4,7 @@ category: geopolitics
 companies_orgs:
 - 中国人民解放军
 - 中央军委
-- 火箭军
-- 海军
-- 国家监察委
 - 国务院
-- 中央警卫局
-- 国防大学
 date: '2025-10-21'
 draft: true
 guest: ''
@@ -25,9 +20,6 @@ people:
 - 杨尚昆
 - 赵紫阳
 - 李强
-products_models:
-- 东风-41
-- 歼-20
 project:
 - china-analysis
 - historical-insights

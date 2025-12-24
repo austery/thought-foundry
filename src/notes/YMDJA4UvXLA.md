@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Google Earth
 - NASA
 date: '2021-01-27'
 draft: true
@@ -12,9 +11,6 @@ layout: post.njk
 people:
 - Derek Muller
 - George Washington
-products_models:
-- Gatorade
-- Davy lamp
 project:
 - historical-insights
 - geopolitics-watch

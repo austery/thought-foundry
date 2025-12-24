@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - NASA
-- Naval Ordnance Laboratory
 - Henson Shaving
 date: '2023-04-29'
 draft: true
@@ -12,10 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Jim
-products_models:
-- Curiosity rover
-- Apollo Lunar Roving Vehicle
-- AL 13 razor
 project:
 - systems-thinking
 - historical-insights

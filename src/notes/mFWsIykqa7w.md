@@ -2,12 +2,8 @@
 area: society-systems
 category: business
 companies_orgs:
-- WWE
 - Netflix
 - ESPN
-- CW
-- USA
-- NBCU
 - UFC
 - Marvel
 date: '2025-11-04'
@@ -27,12 +23,6 @@ people:
 - Chamath Palihapitiya
 - David Friedberg
 products_models:
-- Royal Rumble
-- WrestleMania
-- Raw
-- Smackdown
-- NXT
-- Peacock
 - Ozempic
 project:
 - entrepreneurship

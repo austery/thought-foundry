@@ -7,13 +7,9 @@ companies_orgs:
 - Fortinet
 - Palo Alto Networks
 - Cisco
-- Checkpoint
 - CrowdStrike
 - Adidas
-- Puma
-- Under Armour
 - Lululemon
-- 安踏
 - 标普500
 date: '2025-09-08'
 draft: true
@@ -21,9 +17,6 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- FortiGate
-- FortiOS
-- FortiASIC
 - iOS
 project:
 - investment-strategy

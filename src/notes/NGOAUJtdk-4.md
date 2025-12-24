@@ -10,7 +10,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude
-- ROS2 SDK
 project:
 - ai-impact-analysis
 - systems-thinking

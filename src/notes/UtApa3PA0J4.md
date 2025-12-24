@@ -2,9 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- Xlinks
 - Greenpeace
-- EDF
 date: '2025-07-18'
 draft: true
 guest: ''
@@ -13,14 +11,6 @@ layout: post.njk
 media_books:
 - Why do good People Make Bad decisions?
 - Commonsense Sceptic
-products_models:
-- HS2
-- Hinkley Point C
-- Ardnacrusha hydroelectric plant
-- DeleteMe
-- UK EPR
-- Hoover Dam
-- Turlough Hill pumped-storage plant
 project:
 - systems-thinking
 - historical-insights

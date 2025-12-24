@@ -2,11 +2,9 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Temasek
 - Norges Bank Investment Management
 - GIC
 - WTO
-- SCO
 date: '2025-09-24'
 draft: true
 guest: ''

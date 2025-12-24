@@ -2,16 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中华苏维埃共和国
 - 国民党
 - 中共
 - 解放军
-- 波巴人民共和国
-- 香港国安处
-- 香港民意研究所
-- 约翰霍普金斯大学
-- 华金会
-- 纽位大学上海分校
 date: '2023-07-13'
 draft: true
 guest: ''

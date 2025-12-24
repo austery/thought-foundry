@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 美国国务院
-- 日本法务省
 - 美国社会学会
 date: '2024-04-17'
 draft: true

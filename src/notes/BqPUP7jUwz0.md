@@ -3,7 +3,6 @@ area: market-analysis
 category: geopolitics
 companies_orgs:
 - Politico
-- Duke University
 - 美联储
 - 联合国
 - 美国最高法院

@@ -4,12 +4,7 @@ category: geopolitics
 companies_orgs:
 - Norges Bank Investment Management
 - Norges Bank
-- University of Oslo
-- Norwegian Institute of International Affairs
-- NHH Norwegian School of Economics
 - Ministry of Finance
-- Storting
-- Ethic Council
 date: '2025-08-15'
 draft: true
 guest: ''
@@ -23,8 +18,6 @@ people:
 - Nikolai Tangen
 - Jens Stoltenberg
 - Donald Trump
-products_models:
-- State Pension Fund Global
 project:
 - geopolitics-watch
 - investment-strategy

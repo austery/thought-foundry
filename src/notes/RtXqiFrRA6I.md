@@ -4,10 +4,7 @@ category: technology
 companies_orgs:
 - OpenAI
 - Google
-- Center for AI Safety
 - University of California, Berkeley
-- Stanford HAI
-- Future of Life Institute
 date: '2025-10-26'
 draft: true
 guest: ''

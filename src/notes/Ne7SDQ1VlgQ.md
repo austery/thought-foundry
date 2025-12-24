@@ -6,7 +6,6 @@ companies:
 companies_orgs:
 - Motorola
 - Nokia
-- Ericson
 - MIT
 date: '2025-01-16'
 draft: true
@@ -19,8 +18,6 @@ media_books:
 - 《民主与教育》
 people:
 - Hobbes
-products_models:
-- CAD software
 project:
 - systems-thinking
 - personal-growth-lab

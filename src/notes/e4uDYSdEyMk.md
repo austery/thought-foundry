@@ -14,10 +14,6 @@ layout: post.njk
 media_books:
 - Money or Life 美股频道
 products_models:
-- PLTR
-- HIMS
-- 特斯拉人形机器人
-- CPF
 - 401K
 project:
 - personal-growth-lab

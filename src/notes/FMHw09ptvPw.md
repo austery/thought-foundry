@@ -14,8 +14,6 @@ companies_orgs:
 - SDA
 - Broadcom
 - Oracle
-- RedWire
-- MSTR
 date: '2025-12-13'
 draft: true
 guest: ''
@@ -30,7 +28,6 @@ products_models:
 - Starlink
 - Starship
 - Neutron Rocket
-- Archimedes engine
 project:
 - investment-strategy
 - market-cycles

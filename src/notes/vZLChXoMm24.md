@@ -3,16 +3,12 @@ area: society-systems
 category: psychology
 companies_orgs:
 - Apple
-- BlackBerry
 - IBM
 - Pixar
 - NASA
 - Ku Klux Klan
 - Columbia University
-- Bill Gates Foundation
 - Harvard University
-- Wharton School of Business
-- National Taiwan University
 - OECD
 date: '2024-02-06'
 draft: true

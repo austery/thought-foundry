@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 国民卫队
 date: '2025-09-09'
 draft: true
 guest: ''

@@ -5,7 +5,6 @@ companies_orgs:
 - NVIDIA
 - 摩尔线程
 - 寒武纪
-- 穆西股份
 - Google
 - OpenAI
 - Paramount Global
@@ -15,8 +14,6 @@ companies_orgs:
 - Broadcom
 - 欧盟
 - 台积电
-- 德国电信
-- 国家税务总局
 date: '2025-12-09'
 draft: true
 guest: ''

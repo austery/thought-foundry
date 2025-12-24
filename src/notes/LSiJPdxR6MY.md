@@ -2,10 +2,8 @@
 area: society-systems
 category: general
 companies_orgs:
-- Flickr
 - Slack
 - Salesforce
-- Ticketmaster
 - Instagram
 - Apple Pay
 - Shopify

@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 新美国世纪计划
 - 中央情报局
 - 五角大楼
 - 联合国

@@ -2,10 +2,7 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- Hamilton ETF
 - Global X
-- Purpose ETF
-- Harvest ETF
 - Seeking Alpha
 - CNN
 date: '2025-11-05'
@@ -14,30 +11,9 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- HYLD
-- HDIV
-- VFV
-- VCE
-- S Day
-- Q Day
-- C Day
-- EQCL
-- YTSL
-- YNVD
-- BTCY
-- ETHY
-- PLTE
-- AMHE
-- HHIS
-- TSX Index
 - S&P 500
-- Nasdaq Index
 - Alpha Picks
-- VIX Index
 - TFSA
-- RRSP
-- ROC
-- T3 Tax Slip
 project:
 - investment-strategy
 - market-cycles

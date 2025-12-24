@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 蒲公英中学
 date: '2025-06-28'
 draft: true
 guest: ''

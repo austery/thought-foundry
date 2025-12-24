@@ -9,7 +9,6 @@ companies_orgs:
 - Apple
 - OpenAI
 - Nvidia
-- Griffin Biosciences
 - DeepMind
 - Meta
 - Mistral
@@ -24,9 +23,6 @@ people:
 products_models:
 - Claude
 - Claude 3
-- Opus
-- Sonet
-- Haiku
 - GPT-2
 - GPT-3
 - AlphaGo

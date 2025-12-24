@@ -2,14 +2,12 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- DoubleLine Capital
 - Bloomberg Podcasts
 - Federal Reserve
 - Bank of Japan
 - Harvard University
 - Yale University
 - Pimco
-- Dodge & Cox
 - IBM
 - Microsoft
 date: '2025-11-17'
@@ -32,7 +30,6 @@ people:
 - Chuck Schumer
 - Bill Gross
 products_models:
-- Janus Unconstrained Bond Fund
 - S&P 500
 - Nasdaq
 - CDO

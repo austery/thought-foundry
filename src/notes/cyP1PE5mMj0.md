@@ -3,10 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 澜起科技
-- 兆易创新
-- 普冉股份
-- 聚辰股份
-- 中集集团
 - 三星电子
 - 海力士
 date: '2025-05-01'

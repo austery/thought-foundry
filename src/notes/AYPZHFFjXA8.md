@@ -5,7 +5,6 @@ companies_orgs:
 - G7
 - G8
 - G20
-- European Community
 - European Union
 - United Nations
 - NATO
@@ -36,7 +35,6 @@ people:
 - Kim Jong Un
 - Stephen Harper
 products_models:
-- F/A-18 Hornet
 - Air Force One
 - Truth Social
 project:

@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 中国工程院
-- 中国建筑设计研究院
-- 城投公司
 date: '2025-11-21'
 draft: true
 guest: ''
@@ -24,8 +20,6 @@ people:
 - 林彪
 - 斯大林
 - 赫鲁晓夫
-products_models:
-- 赫鲁晓夫楼
 project:
 - china-analysis
 - geopolitics-watch

@@ -2,8 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 大众点评
-- 艾瑞咨询
 - 抖音
 - 快手
 - 腾讯
@@ -18,7 +16,6 @@ people:
 - 雨白
 products_models:
 - 王者荣耀
-- 拉布布
 project:
 - china-analysis
 - cultural-critique

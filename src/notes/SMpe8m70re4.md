@@ -1,12 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Fo Guang Shan
-- Tzu Chi
-- 大午集团
-- 华西村
-- 花园村
 date: '2024-12-20'
 draft: true
 guest: ''
@@ -23,8 +17,6 @@ people:
 - Modi
 - Liu Shaoqi
 - Jiang Zemin
-products_models:
-- 龙蛙
 project:
 - china-analysis
 - geopolitics-watch

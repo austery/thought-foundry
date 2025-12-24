@@ -9,7 +9,6 @@ companies_orgs:
 - ASML
 - TSMC
 - NVIDIA
-- Skynet
 date: '2024-12-16'
 draft: true
 guest: ''
@@ -24,8 +23,6 @@ people:
 - Arnold Schwarzenegger
 products_models:
 - ChatGPT
-- T-800
-- T-1000
 project:
 - investment-strategy
 - ai-impact-analysis

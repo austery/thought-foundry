@@ -2,13 +2,10 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 安然公司
 - 华盛顿邮报
 - 伯克希尔·哈撒韦
-- 可口可乐公司
 - Netflix
 - 亚马逊
-- Bookshop.org
 date: '2024-07-08'
 draft: true
 guest: ''

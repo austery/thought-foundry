@@ -18,8 +18,6 @@ people:
 - Justin Trudeau
 - Pierre Poilievre
 - Warren Buffett
-products_models:
-- Import Certificates
 project:
 - us-analysis
 - geopolitics-watch

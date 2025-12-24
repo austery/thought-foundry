@@ -23,7 +23,6 @@ people:
 products_models:
 - H20
 - Blackwell
-- Ascend
 - CUDA
 project:
 - investment-strategy

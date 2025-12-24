@@ -2,12 +2,9 @@
 area: personal-systems
 category: lifestyle
 companies_orgs:
-- New York Times Cooking
 - Wirecutter
 - Amazon
-- 11 Madison Park
 - OXO
-- Escali
 date: '2025-12-03'
 draft: true
 guest: ''
@@ -21,19 +18,6 @@ people:
 - Christine Sir Cleette
 - Kyra Blackwell
 - Rosie Garin
-products_models:
-- Cookies
-- Bake Time
-- Goji Chang Caramel Cookies
-- Spiced Chocolate Marble Shortbread
-- White Chocolate Macadamia Nut Cookies
-- Eggnog Snickerdoodle
-- Mexican Hot Chocolate Cookie
-- Gingerbread Latte Cookie
-- Mortadella Cookie
-- Chewy Brownie Cookie
-- Adobo Chocolate Chip
-- Jacques Torres Chocolate Chip Cookie
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=F1XoOHmbZHI

@@ -4,10 +4,6 @@ category: finance
 companies_orgs:
 - Tesla
 - Money or Life美股频道
-- JP Morgan Chase
-- Fluence Energy
-- EOS Energy
-- Sungrow
 - Figure AI
 date: '2025-10-16'
 draft: true
@@ -26,7 +22,6 @@ products_models:
 - Cybertruck
 - FSD
 - Optimus
-- Figure 03
 - iPhone
 project:
 - investment-strategy

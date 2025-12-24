@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - FBI
-- 国安部门
 date: '2025-12-10'
 draft: true
 guest: ''

@@ -2,13 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 支联会
-- 香港专上学生联会
-- 教协
 - 民主党
-- 中联办
-- 中国维权律师关注组
-- 独立中文笔会
 - Yahoo
 date: '2025-05-12'
 draft: true
@@ -22,8 +16,6 @@ people:
 - 成龙
 - 刘晓波
 - 陈云
-products_models:
-- 零八宪章
 project:
 - china-analysis
 - historical-insights

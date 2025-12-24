@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 中华文化总会
-- 中国空军
-- 中央航校
 date: '2024-12-05'
 draft: true
 guest: ''
@@ -13,9 +9,6 @@ layout: post.njk
 media_books:
 - 《西子姑娘》
 - 《巨流河》
-products_models:
-- 零式战斗机
-- 《冲天》
 project:
 - historical-insights
 - cultural-critique

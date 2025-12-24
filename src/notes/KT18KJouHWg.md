@@ -3,12 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - FBI
-- Family Tree DNA
 - 23andMe
-- Ancestry.com
-- GEDmatch
-- Verogen
-- Hobby Lobby
 date: '2021-09-30'
 draft: true
 guest: ''
@@ -16,9 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Brilliant
-products_models:
-- CODIS
-- Family Finder
 project:
 - us-analysis
 - systems-thinking

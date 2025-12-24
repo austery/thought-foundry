@@ -23,10 +23,6 @@ people:
 - Steve Jobs
 - Casper
 products_models:
-- C. elegans
-- Higgs boson
-- DNA
-- Internet Chess Club
 - Twitter
 project:
 - systems-thinking

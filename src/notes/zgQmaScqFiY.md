@@ -3,12 +3,6 @@ area: personal-systems
 category: psychology
 companies_orgs:
 - Norges Bank Investment Management
-- Detroit Lions
-- Seattle Seahawks
-- New England Patriots
-- Bellagio Casino
-- The Mirage
-- World Series of Poker
 date: '2024-02-14'
 draft: true
 guest: ''

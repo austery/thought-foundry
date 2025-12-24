@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Jellyfish
 - GitHub
 date: '2025-11-24'
 draft: true
@@ -15,7 +14,6 @@ products_models:
 - Claude Code
 - Devon
 - Codeex
-- Linear
 - Jira
 project:
 - ai-impact-analysis

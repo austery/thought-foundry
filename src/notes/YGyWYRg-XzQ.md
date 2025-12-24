@@ -2,10 +2,8 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Jay Cooke & Company
 - OPEC
 - Lehman Brothers
-- Royal Bank of Scotland
 date: '2025-11-05'
 draft: true
 guest: ''

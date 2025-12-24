@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Academia Sinica
-- Hebrew University of Jerusalem
 date: '2023-10-31'
 draft: true
 guest: ''

@@ -2,7 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Kinnevik
 - Norges Bank Investment Management
 - Nvidia
 - Amazon
@@ -12,9 +11,7 @@ companies_orgs:
 - Spotify
 - ASML
 - Vanguard
-- Santa Fe Institute
 - MIT
-- Solen
 date: '2024-09-04'
 draft: true
 guest: ''

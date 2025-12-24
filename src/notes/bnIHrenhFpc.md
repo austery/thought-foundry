@@ -17,7 +17,6 @@ media_books:
 people:
 - Rich Sutton
 products_models:
-- R1
 - ChatGPT
 - AlphaGo
 project:

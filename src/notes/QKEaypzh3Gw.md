@@ -9,7 +9,6 @@ companies_orgs:
 - Microsoft
 - Tesla
 - X
-- 复星券商
 date: '2025-11-02'
 draft: true
 guest: ''
@@ -21,7 +20,6 @@ people:
 - Elon Musk
 products_models:
 - Gemini
-- AI Overview
 - ChatGPT
 - Grok
 - Facebook

@@ -3,14 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - NDP
-- ACORN
-- QP
-- Atlas Strategic Advisers
 - TVO
-- The Trillium
-- PC
 - Liberal Party
-- Project Ontario
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -24,10 +18,6 @@ people:
 - John Michael McGrath
 - Doug Ford
 - John Fraser
-products_models:
-- Bill 60
-- Bill 68
-- Fair Hydro Plan
 project:
 - geopolitics-watch
 - historical-insights

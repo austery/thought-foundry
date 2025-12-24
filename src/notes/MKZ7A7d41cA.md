@@ -4,21 +4,11 @@ category: geopolitics
 companies_orgs:
 - 世界银行
 - 财政部
-- 台湾大学城乡所
-- 社会住宅推动联盟
-- 无住者团结组织
 - 行政院
-- OURs
-- 营造公会
 - 中央银行
-- 金融监督管理委员会
-- 营造投资公会
 - 民进党
 - 国民党
 - 立法院
-- 营建署
-- 中研院
-- 新北市政府
 date: '2024-09-12'
 draft: true
 guest: ''
@@ -33,8 +23,6 @@ people:
 - 陈水扁
 - 马英九
 - 蔡英文
-products_models:
-- 新青安
 project:
 - geopolitics-watch
 - historical-insights

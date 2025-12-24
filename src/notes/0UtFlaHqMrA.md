@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Virginia Company of London
 date: '2024-01-10'
 draft: true
 guest: ''

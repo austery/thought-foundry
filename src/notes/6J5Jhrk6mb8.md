@@ -2,10 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 加拿大广播公司
 - 北约
 - 加拿大统计局
-- 加拿大建房局
 date: '2025-11-30'
 draft: true
 guest: ''

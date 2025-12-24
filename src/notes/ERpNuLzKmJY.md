@@ -15,8 +15,6 @@ products_models:
 - GPT-3
 - GPT-3.5
 - GPT-4
-- Lambda
-- Mina
 - ChatGPT
 project:
 - ai-impact-analysis

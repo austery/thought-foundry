@@ -3,11 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - TVO Today
-- Canada Soccer
-- Women's National Team Players Association for Canada
-- Northern Super League
-- NWSL
-- Angel City FC
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -15,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Rundown
-products_models:
-- The Pitch
 project:
 - historical-insights
 - entrepreneurship

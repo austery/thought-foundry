@@ -4,7 +4,6 @@ category: science
 companies_orgs:
 - Google
 - Incogni
-- ScienceClic
 date: '2024-04-30'
 draft: true
 guest: ''
@@ -14,13 +13,6 @@ people:
 - Isaac Newton
 - Albert Einstein
 - Derek Muller
-products_models:
-- Schwarzschild metric
-- Einstein's field equations
-- Kruskal-Szekers diagram
-- Penrose diagram
-- Mercator projection
-- Gall-Peters projection
 project:
 - systems-thinking
 - historical-insights

@@ -6,7 +6,6 @@ companies_orgs:
 - Anthropic
 - Google
 - Meta
-- SSI (Safe Superintelligence Inc.)
 - Thinking Machines
 date: '2025-11-25'
 draft: true
@@ -22,7 +21,6 @@ products_models:
 - GPT-3
 - AlexNet
 - Transformer
-- ResNet
 - DeepSeek R1
 - Neuralink
 project:

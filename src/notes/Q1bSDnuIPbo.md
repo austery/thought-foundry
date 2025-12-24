@@ -2,9 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Event Horizon Telescope collaboration
-- European Southern Observatory
-- Goethe University Frankfurt
 - KiwiCo
 date: '2022-05-12'
 draft: true

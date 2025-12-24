@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- 北大
-- 哈佛
-- 美国海军学院
 date: 2024-12-27
 draft: true
 guest: ''
@@ -13,7 +9,8 @@ layout: post.njk
 media_books:
 - 《路加福音》
 - 《詹姆斯王清定本圣经》
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - personal-growth-lab
 - systems-thinking

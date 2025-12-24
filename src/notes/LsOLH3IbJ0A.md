@@ -1,11 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 加拿大公园管理局
-- 加拿大政府
-- 加拿大军方
-- 皇家原住民委员会
 date: '2024-08-27'
 draft: true
 guest: ''

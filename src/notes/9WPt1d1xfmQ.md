@@ -7,7 +7,6 @@ companies_orgs:
 - Meta
 - 苹果
 - G7
-- 国际原子能机构
 date: '2025-07-06'
 draft: true
 guest: ''
@@ -22,11 +21,7 @@ people:
 - 哈梅内伊
 products_models:
 - USMCA
-- IR-6
 - B-2轰炸机
-- 地堡破坏者
-- 伊核协议
-- True Social
 - X
 project:
 - us-analysis

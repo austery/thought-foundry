@@ -4,21 +4,8 @@ category: general
 companies_orgs:
 - TVO Today
 - LCBO
-- Ontario Inc.
-- Supply Ontario
-- Investigative Journalism Bureau
 - University of Toronto
-- Elementary Teachers' Federation of Ontario
-- Near North District School Board
-- The Beer Store
 - Cornell University
-- Monk School of Global Affairs
-- Montreal Canadiens
-- Toronto Maple Leafs
-- Adawapiskat First Nation
-- Neskantaga First Nation
-- Martin Falls First Nation
-- Webequie First Nation
 date: '2025-12-05'
 draft: true
 guest: ''
@@ -33,18 +20,6 @@ people:
 - Doug Ford
 - Paul Calandra
 - Mike Harris
-products_models:
-- OHIP
-- Healthcare Connect
-- EQAO
-- Ontario Secondary School Literacy Test
-- Keeping Criminals Behind Bars Act
-- Animals for Research Act
-- Andrew's Law
-- Environmental Bill of Rights
-- Ontario Sex Offender and Trafficker Registry
-- Bill 5
-- Ontario Deposit Return Program
 project:
 - systems-thinking
 - historical-insights

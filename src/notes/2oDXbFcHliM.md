@@ -18,7 +18,6 @@ people:
 - Petr
 products_models:
 - iPhone
-- Gorilla Glass
 - Saily
 project:
 - historical-insights

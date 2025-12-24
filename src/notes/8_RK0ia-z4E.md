@@ -5,9 +5,7 @@ companies_orgs:
 - Bloomberg Podcasts
 - Citadel
 - Barclays
-- SMBC Nico
 - Federal Reserve
-- Dallas Fed
 - New York Fed
 date: '2025-10-03'
 draft: true
@@ -17,11 +15,6 @@ layout: post.njk
 media_books:
 - Odd Lots
 - Lots More
-products_models:
-- Fed funds rate
-- triparty repo rate
-- SOFR
-- LIBOR
 project:
 - us-analysis
 - market-cycles

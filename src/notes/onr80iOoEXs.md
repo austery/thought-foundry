@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Nobel armaments factory
-- Opera
 date: '2025-09-21'
 draft: true
 guest: ''
@@ -19,19 +16,6 @@ people:
 - Henry
 - Jesse
 - Derek
-products_models:
-- Nitroglycerin
-- Gunpowder
-- Sea mine
-- Blasting cap
-- Dynamite
-- TNT
-- Gelignite
-- Ballistite
-- Pneumatic drill
-- Diamond drilling crown
-- Rocket-powered missiles
-- Aria
 project:
 - historical-insights
 - geopolitics-watch

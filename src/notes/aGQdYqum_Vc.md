@@ -3,7 +3,6 @@ area: society-systems
 category: finance
 companies_orgs:
 - Microsoft
-- Blackrock
 - Vanguard
 - State Street
 - Fidelity

@@ -6,12 +6,9 @@ companies_orgs:
 - OpenAI
 - Google
 - Anthropic
-- AMI (Advanced Machine Intelligence)
 - IBM
 - Bell Labs
 - NVIDIA
-- Sandbox AQ
-- Wayve
 - SSI
 - Physical Intelligence
 date: '2025-12-21'
@@ -23,14 +20,6 @@ media_books:
 - 《The Information Bottleneck》
 people:
 - Yann LeCun
-products_models:
-- JEPA (Joint Embedding Predictive Architecture)
-- Barlow Twins
-- VICReg (Variance–Invariance–Covariance Regularization)
-- SigReg (Signal Regularization)
-- Dreamer
-- Large Quantitative Models
-- SAM (Segment Anything)
 project:
 - ai-impact-analysis
 series: ''

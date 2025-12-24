@@ -4,9 +4,7 @@ category: geopolitics
 companies_orgs:
 - New York Times
 - White House
-- House Oversight Committee
 - Justice Department
-- US Mint
 - FBI
 - BBC
 date: '2025-11-13'

@@ -4,12 +4,10 @@ category: geopolitics
 companies_orgs:
 - Alibaba
 - Norges Bank Investment Management
-- Investor AB
 - Yahoo
 - eBay
 - Nvidia
 - OpenAI
-- Brooklyn Nets
 date: '2024-04-03'
 draft: true
 guest: ''
@@ -24,7 +22,6 @@ people:
 - John le Carré
 products_models:
 - Taobao
-- Tmall
 project:
 - china-analysis
 - us-analysis

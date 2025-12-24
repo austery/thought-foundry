@@ -5,7 +5,6 @@ companies_orgs:
 - Federal Reserve
 - Bloomberg
 - Bank of Japan
-- BCA Research
 date: '2025-03-17'
 draft: true
 guest: ''
@@ -14,10 +13,6 @@ layout: post.njk
 people:
 - Jerome Powell
 - Donald Trump
-products_models:
-- GDP Nowcast
-- SCP
-- Dot Plot
 project:
 - investment-strategy
 - us-analysis

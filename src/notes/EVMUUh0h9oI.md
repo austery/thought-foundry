@@ -39,8 +39,6 @@ products_models:
 - Chrome
 - Quest
 - Trainium
-- Graviton
-- M5 chip
 project:
 - investment-strategy
 - ai-impact-analysis

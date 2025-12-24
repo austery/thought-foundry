@@ -6,7 +6,6 @@ companies_orgs:
 - SpaceX
 - Neuralink
 - xAI
-- Zerodha
 date: '2025-12-04'
 draft: true
 guest: ''

@@ -6,15 +6,12 @@ companies_orgs:
 - IBM
 - Netflix
 - SoftBank
-- MD Anderson Cancer Center
 - Oracle
 - Microsoft
-- Zoom Pizza
 - Quibi
 - NBC
 - Sony
 - Warner Brothers
-- Lionsgate
 - MGM
 - Alibaba
 - Goldman Sachs
@@ -31,20 +28,11 @@ media_books:
 - Arcane
 - YouTube
 products_models:
-- Just Walk Out
-- Amazon Go
-- Amazon Fresh
-- Watson Health
-- Radiant
 - Zoom
 - Teams
-- Google Meet
 - Notion
 - Cursor
 - Lovable
-- Asana
-- ClickUp
-- Roku Originals
 project:
 - ai-impact-analysis
 - entrepreneurship

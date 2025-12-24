@@ -2,21 +2,14 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中统
-- 国民党六三支部
-- 美国820情报部门
 - 中国人民解放军
 - 共青团
-- 共产主义团结会
 - 联合国
-- 印度部队
 - 四川大学
 - 黄埔军校
 - 清华大学
-- 中国人民革命华北大学
 - 美国国务院
 - 中共中央
-- 全国政协会议
 date: '2024-11-17'
 draft: true
 guest: ''

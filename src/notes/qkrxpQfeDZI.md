@@ -2,16 +2,12 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 蚂蚁金融
 - 大疆
 - 比亚迪
-- 尚威士
-- 中储粮
 - 腾讯
 - 微博
 - Nvidia
 - 特斯拉
-- 日本加密货币协会
 date: '2024-12-05'
 draft: true
 guest: ''
@@ -28,9 +24,6 @@ people:
 products_models:
 - ChatGPT
 - GPU
-- 锂电池
-- 光伏电池板
-- 白皮松
 project:
 - china-analysis
 - systems-thinking

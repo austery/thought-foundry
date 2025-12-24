@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- European Council of Foreign Relations
 - Volkswagen
 - Stellantis
 - Northvolt
@@ -20,9 +19,6 @@ media_books:
 people:
 - Scott Bessent
 - Trump
-products_models:
-- F-35 jet
-- Nintendo Switch
 project:
 - china-analysis
 - us-analysis

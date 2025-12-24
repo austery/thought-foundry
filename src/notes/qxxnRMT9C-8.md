@@ -2,10 +2,6 @@
 area: life-family
 category: health-wellness
 companies_orgs:
-- UK Biobank
-- Walter Reed Medical Army Institute
-- University of Boulder Colorado
-- University of Berkeley California
 - Veterans Administration
 date: '2025-11-17'
 draft: true
@@ -16,15 +12,7 @@ media_books:
 - 《记忆碎片》
 - 《星球大战》
 products_models:
-- Xanax
 - Valium
-- Ambien
-- Lunesta
-- Sonata
-- Prazosin
-- Suvorexant
-- Lemborexant
-- Daridorexant
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=qxxnRMT9C-8

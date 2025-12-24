@@ -11,7 +11,6 @@ insight: ''
 layout: post.njk
 products_models:
 - GPT-4
-- 星际之门
 project:
 - ai-impact-analysis
 series: ''

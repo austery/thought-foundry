@@ -3,7 +3,6 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - 初日診所
-- COFIT
 - FDA
 date: '2025-02-24'
 draft: true

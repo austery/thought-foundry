@@ -1,8 +1,6 @@
 ---
 area: society-thinking
 category: philosophy-thinking
-companies_orgs:
-- 中气爱
 date: '2025-12-17'
 draft: true
 guest: ''

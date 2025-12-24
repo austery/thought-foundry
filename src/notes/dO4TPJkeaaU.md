@@ -14,9 +14,6 @@ products_models:
 - AlphaZero
 - BERT
 - GPT-2
-- S4
-- NNCP
-- OPT-175B
 project:
 - ai-impact-analysis
 - systems-thinking

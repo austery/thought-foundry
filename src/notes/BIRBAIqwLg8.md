@@ -4,8 +4,6 @@ category: lifestyle
 companies_orgs:
 - 初日醫學
 - Cofit
-- Garmin
-- 史丹佛大學
 date: '2025-10-24'
 draft: true
 guest: ''
@@ -15,8 +13,6 @@ media_books:
 - Biomolecular Concepts
 people:
 - 宋晏仁
-products_models:
-- Garmin Venu 4
 project:
 - personal-growth-lab
 series: ''

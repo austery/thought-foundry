@@ -2,14 +2,6 @@
 area: market-analysis
 category: geopolitics
 companies_orgs:
-- 必和必拓
-- 中国钢铁新闻网
-- 中国统计局
-- 钢铁业协会
-- 淡水河谷
-- 力拓
-- 中国矿产资源集团
-- 中铝
 - 中国人民银行
 date: '2025-11-01'
 draft: true

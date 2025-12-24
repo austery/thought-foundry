@@ -3,11 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Financial Times
-- Time Magazine
-- Munich Security Conference
 - NATO
 - Cornell University
-- 美国海军研究生院
 date: 2025-02-20
 draft: true
 guest: ''
@@ -23,7 +20,8 @@ people:
 - Samuel Huntington
 - Viktor Orbán
 - Donald Trump
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - geopolitics-watch
 - us-analysis

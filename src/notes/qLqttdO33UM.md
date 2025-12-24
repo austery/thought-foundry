@@ -2,9 +2,7 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Temporal Technologies
 - Intel
-- Pyantic
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -12,15 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Andre Karpathy
-products_models:
-- Airbus A320
-- Space Shuttle
-- Curiosity rover
-- Daphne language
-- Scl micro kernel
-- CompCert C compiler
-- Project Everest
-- GPT5 codeex
 project:
 - ai-impact-analysis
 - systems-thinking

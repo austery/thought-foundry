@@ -2,26 +2,13 @@
 area: market-analysis
 category: business
 companies_orgs:
-- LEGO Group
 - Norges Bank Investment Management
-- Netcom
-- Danfoss
 - Ericsson
 date: '2025-09-17'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Bluetooth
-- Titanic
-- Star Wars Millennium Falcon
-- Colosseum
-- Eiffel Tower
-- Hidden Sight
-- Formula 1
-- Pokémon
-- Super Mario
 project:
 - entrepreneurship
 - china-analysis

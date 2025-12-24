@@ -5,7 +5,6 @@ companies_orgs:
 - Google
 - Meta
 - Gartner
-- Forrester
 - Bilibili
 date: 2025-10-31
 draft: true
@@ -14,11 +13,6 @@ insight: ''
 layout: post.njk
 media_books: '[]'
 people: '[]'
-products_models:
-- Map Reduce
-- BigQuery
-- Hadoop
-- Apache log
 project:
 - ai-impact-analysis
 - systems-thinking

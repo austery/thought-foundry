@@ -15,7 +15,6 @@ companies_orgs:
 - Amazon
 - Ripple
 - FTX
-- London Clearing House
 - Kalshi
 date: '2025-10-02'
 draft: true
@@ -30,11 +29,7 @@ people:
 - Joe Weisenthal
 - Howard Lutnik
 products_models:
-- E-Minis
-- Micros
-- Nanos
 - Gemini Flash
-- 1256 contracts
 project:
 - investment-strategy
 - geopolitics-watch

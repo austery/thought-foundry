@@ -3,17 +3,9 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Tesla
-- CalPERS
 - Federal Reserve Bank of San Francisco
 - Federal Reserve Bank of New York
-- Federal Reserve Bank of Cleveland
-- Federal Reserve Bank of Philadelphia
-- Federal Reserve Bank of St. Louis
 - Turning Point USA
-- Hindu American Foundation
-- Temu
-- French Directorate General for Competition, Consumer Affairs and Fraud Control
-- China Rare Earth Group
 date: '2025-11-03'
 draft: true
 guest: ''
@@ -43,7 +35,6 @@ people:
 - Janet Yellen
 products_models:
 - Fentanyl
-- PMI
 project:
 - us-analysis
 - china-analysis

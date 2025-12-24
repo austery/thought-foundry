@@ -9,11 +9,8 @@ companies_orgs:
 - Databricks
 - Microsoft
 - Meta
-- Tipping Point Community
 - Robin Hood
 - DEA
-- Sfpd
-- Board of Supervisors
 date: '2025-11-03'
 draft: true
 guest: ''

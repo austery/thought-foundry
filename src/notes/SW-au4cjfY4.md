@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - Bloomberg Audio Studios
 - Hoover Institution
-- American University
 - Chinese Communist Party
 - Google
 date: '2025-08-07'

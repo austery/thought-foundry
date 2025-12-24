@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Brown University
-- The Heritage Foundation
 - Visa
 - Mastercard
 date: '2025-04-13'
@@ -18,8 +17,6 @@ media_books:
 people:
 - Donald Trump
 - Adam Smith
-products_models:
-- Tesla Model 3
 project:
 - us-analysis
 - historical-insights

@@ -1,8 +1,6 @@
 ---
 area: finance-wealth
 category: stock-investment
-companies_orgs:
-- blackstone
 date: '2025-10-08'
 draft: true
 guest: ''

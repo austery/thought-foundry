@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - 北京大学
 - 世界银行
-- 联合国安理会
 - Apple
 - 富士康
 date: '2025-11-14'
@@ -16,8 +15,6 @@ media_books:
 - 《匹配》
 people:
 - 王阳明
-products_models:
-- 敏瑟方程
 project:
 - china-analysis
 - systems-thinking

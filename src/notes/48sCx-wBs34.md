@@ -3,8 +3,6 @@ area: tech-insights
 category: science
 companies_orgs:
 - LastPass
-- Kepler Museum
-- Form of Mathematics
 date: '2020-09-30'
 draft: true
 guest: ''

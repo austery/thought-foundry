@@ -2,11 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- US Forest Service
-- Merced Property and Casualty
-- Horsley Bridge
 - Y Combinator
-- Bloomsbury
 - Netflix
 - YouTube
 - Yahoo
@@ -21,7 +17,6 @@ media_books:
 - Harry Potter
 products_models:
 - NordVPN
-- Elements of Truth
 project:
 - systems-thinking
 - historical-insights

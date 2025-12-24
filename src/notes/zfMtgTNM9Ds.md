@@ -4,11 +4,7 @@ category: geopolitics
 companies_orgs:
 - 麻省理工学院
 - 哈佛大学
-- 台北市政府社会局
 - 中山大学
-- 阿姆斯特丹大学
-- 监察院
-- 中国社会科学院社会科学文献出版社
 date: '2023-08-20'
 draft: true
 guest: ''
@@ -19,12 +15,6 @@ media_books:
 - 《台湾的基层公务员是如何制造低收入户的》
 people:
 - Max Weber
-products_models:
-- 街头官僚理论
-- 裁量权
-- 种族归纳
-- 拟制收入制度
-- 认知失调理论
 project:
 - geopolitics-watch
 - systems-thinking

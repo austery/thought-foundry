@@ -3,13 +3,8 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Google
-- Work OS
 - OpenAI
-- Perplexity AI
 - Cursor
-- Miro
-- AI Product Academy
-- Maven
 date: '2025-12-01'
 draft: true
 guest: ''
@@ -20,14 +15,9 @@ people:
 - Mark Cuban
 products_models:
 - Perplexity
-- Vzero Lovable
 - Google AI Studio
-- Flow
 - Sora
 - Notebook LM
-- Endopath
-- Study Buddy
-- Front Desk
 project:
 - ai-impact-analysis
 - personal-growth-lab

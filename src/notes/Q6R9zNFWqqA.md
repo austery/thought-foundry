@@ -8,7 +8,6 @@ companies_orgs:
 - XAI
 - TVO
 - Antica Productions
-- Dartmouth University
 date: '2025-11-19'
 draft: true
 guest: ''
@@ -29,7 +28,6 @@ people:
 products_models:
 - ChatGPT
 - GPT
-- Suno AI
 project:
 - ai-impact-analysis
 - geopolitics-watch

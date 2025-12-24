@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - FOMC
-- BOJ
 date: '2025-01-14'
 draft: true
 guest: ''
@@ -15,7 +14,6 @@ people:
 products_models:
 - S&P 500
 - CPI
-- NFP
 project:
 - us-analysis
 - investment-strategy

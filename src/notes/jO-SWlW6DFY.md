@@ -7,9 +7,7 @@ companies_orgs:
 - HP
 - The Economist
 - Wall Street Journal
-- HarperCollins
 - GE
-- Foursquare
 - Google
 - Tesla
 - Palantir
@@ -34,12 +32,8 @@ people:
 - Elon Musk
 - Mark Zuckerberg
 products_models:
-- Charlie Rose
-- PO Daily
-- Seinfeld
 - ChatGPT
 - ChatGPT 3.5
-- Audi
 project:
 - us-analysis
 - investment-strategy

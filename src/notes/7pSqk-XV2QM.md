@@ -3,11 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Kodak
-- Albuquerque Tribune
-- Atomic Energy Commission
 - US Government
-- Manhattan Project
-- HBO Max
 date: '2020-09-16'
 draft: true
 guest: ''
@@ -15,8 +11,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Physical Review
-products_models:
-- Raised by Wolves
 project:
 - us-analysis
 - historical-insights

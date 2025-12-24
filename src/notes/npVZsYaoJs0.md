@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: business
-companies_orgs:
-- nubank
 date: '2025-10-08'
 draft: true
 guest: ''

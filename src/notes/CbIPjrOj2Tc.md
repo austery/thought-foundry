@@ -6,12 +6,7 @@ companies_orgs:
 - Meta
 - Microsoft
 - ByteDance
-- Kyutai
-- MTK Research
 - CMU
-- NTU
-- 台大圖書館
-- 騰訊
 - Amazon
 date: '2025-12-22'
 draft: true
@@ -32,54 +27,13 @@ people:
 - Geoffrey Hinton
 - Sam Altman
 products_models:
-- ChatGPT Voice Mode
-- Gemini Live
-- AudioGPT
-- Speech Copilot
 - Whisper
 - AlphaGo
-- Restricted Boltzmann Machine
-- Hidden Markov Model
-- Subspace GMM
 - BERT
-- MaskGIT
-- Mockingjay
-- TERA
-- APC
-- wav2vec
-- HuBERT
-- LibriSpeech
-- SUPERB
-- AV-SUPERB
-- ML-SUPERB
-- Dynamic-SUPERB
-- Indic-SUPERB
-- TS-SUPERB
-- wav2vec-U
-- EURO
-- Dual
-- S3PRL
-- Generative Spoken Language Model
-- K-Means Clustering
-- VQ Layer
-- BPE
-- Neural Speech Codec
-- AudioLM
 - Llama 3
 - GPT-4o
-- Moshi
-- Twist
-- Spirit LM
-- GLM-4-Voice
-- CosyVoice
-- TASTE
 - DeepSeek
 - Claude
-- STITCH
-- GLM-4 9B Chat
-- Llama 3.2 1B
-- Audio Reasoner
-- Audio Thinker
 project:
 - ai-impact-analysis
 series: ''

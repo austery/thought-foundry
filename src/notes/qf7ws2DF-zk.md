@@ -2,11 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- British Parliament
-- French Royal Society of Science
 - United Nations
-- Vatican
-- La Montagne
 date: '2024-08-27'
 draft: true
 guest: ''

@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times Podcasts
-- Senate Appropriations Committee
-- Government Accountability Office
 date: '2025-11-12'
 draft: true
 guest: ''

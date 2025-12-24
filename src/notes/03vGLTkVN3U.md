@@ -38,8 +38,6 @@ people:
 - Sanae Takaichi
 products_models:
 - ChatGPT
-- Rafale
-- Army Tactical Missile System
 project:
 - us-analysis
 - china-analysis

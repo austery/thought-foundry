@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Oaktree
 - Norges Bank Investment Management
 - University of Chicago
 - S&P 500

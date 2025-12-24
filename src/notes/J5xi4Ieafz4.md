@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Tesla
-- IB
 date: '2025-07-27'
 draft: true
 guest: ''
@@ -17,7 +16,6 @@ products_models:
 - FSD V14
 - Optimus
 - Model 2
-- HW5
 project:
 - us-analysis
 - investment-strategy

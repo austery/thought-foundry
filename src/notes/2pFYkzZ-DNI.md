@@ -3,13 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Department of Homeland Security
-- Federal Court
-- U.S. Congress
 - U.S. Supreme Court
-- TDA Gang
-- Maduro Government of Venezuela
-- Government of El Salvador
-- Government of Honduras
 date: 2025-03-18
 draft: true
 guest: ''
@@ -34,7 +28,8 @@ people:
 - Kamala Harris
 - Joe Biden
 - Hillary Clinton
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

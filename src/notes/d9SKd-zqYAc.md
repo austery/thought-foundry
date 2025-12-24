@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- synthesia
 date: '2025-07-27'
 draft: true
 guest: ''

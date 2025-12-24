@@ -1,17 +1,12 @@
 ---
 area: personal-systems
 category: psychology
-companies_orgs:
-- 臺北醫學大學心智意識與腦科學研究所
-- 臺灣師範大學運動與腦科學研究團隊
-- 一分鐘健身教室史考特
 date: '2025-08-14'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- 舒爾特方格
 - P300腦波
 project:
 - personal-growth-lab

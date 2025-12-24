@@ -6,9 +6,6 @@ companies_orgs:
 - Google
 - Anthropic
 - Microsoft
-- Appier
-- Kaggle
-- Chatbot Arena
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -23,25 +20,12 @@ products_models:
 - GPT-4o
 - GPT-5
 - Claude
-- Claude 2.1
 - Claude 3.5
-- Sonnet 3.5
 - Gemini
-- Gemini 1.5 Pro
 - Gemini 2.5 Pro
-- PALM 2
 - BERT
-- FastSpeech 2
-- Tacotron 2
-- VITS
-- Prometheus
-- Qwen 1.8B
 - Mistral
 - Gemma
-- Opus
-- Grok 4
-- O3
-- O4 mini
 - Sora
 - AlphaGo
 project:

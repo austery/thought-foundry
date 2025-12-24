@@ -34,8 +34,6 @@ people:
 - Ian Dunning
 - Ken Griffin
 - Tucker Carlson
-products_models:
-- Odd Lots
 project:
 - investment-strategy
 - market-cycles

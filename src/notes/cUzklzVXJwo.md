@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: science
-companies_orgs:
-- University of Bologna
 date: '2021-11-01'
 draft: true
 guest: ''
@@ -15,8 +13,6 @@ people:
 - Erwin Schrödinger
 - Louis de Broglie
 products_models:
-- Bohr model
-- Schrödinger equation
 - Gemini Flash
 project:
 - historical-insights

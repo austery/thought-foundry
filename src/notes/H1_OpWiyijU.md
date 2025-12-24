@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Bluehost
 date: '2021-10-16'
 draft: true
 guest: ''
@@ -11,7 +9,6 @@ layout: post.njk
 people:
 - Derek Muller
 products_models:
-- LEONARDO
 - WordPress
 project:
 - ai-impact-analysis

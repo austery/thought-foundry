@@ -1,9 +1,10 @@
 ---
 area: society-systems
 category: geopolitics
+companies:
+- byd-d-chain
 companies_orgs:
 - 比亚迪
-- 理想
 - 小鹏
 - 中国央行
 date: '2025-11-08'
@@ -28,8 +29,6 @@ tags:
 - state
 - supply-chain-finance
 title: 比亚迪“迪链”危机：数千亿表外负债与中国金融监管的挑战
-companies:
-- byd-d-chain
 ---
 
 ### 比亚迪“迪链”危机浮现

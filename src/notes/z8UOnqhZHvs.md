@@ -3,16 +3,11 @@ area: market-analysis
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- DBS
-- Singapore Airlines
-- Ritz Carlton
 - Amazon
 - AWS
 - Google
 - Microsoft
-- ING
 - Citibank
-- Temasek Holdings
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -25,7 +20,6 @@ people:
 - Kathy Wood
 products_models:
 - Bloomberg Terminal
-- Twitch
 - Discord
 project:
 - ai-impact-analysis

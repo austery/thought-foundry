@@ -5,10 +5,8 @@ companies_orgs:
 - Robinhood
 - Google
 - Meta
-- Rocket Labs
 - Weeble
 - Roblox
-- Novo
 - AMD
 - Amcor
 - BMR
@@ -39,9 +37,7 @@ companies_orgs:
 - Cipher
 - Goldman Sachs
 - Department of Homeland Security
-- DC Police
 - White House
-- Ronald Reagan National Airport
 date: '2025-11-26'
 draft: true
 guest: ''
@@ -68,9 +64,6 @@ products_models:
 - Nano Banana Pro
 - Gemini
 - Sora
-- ACA subsidy
-- enhanced advanced premium tax credits
-- YieldMax
 project:
 - investment-strategy
 - ai-impact-analysis

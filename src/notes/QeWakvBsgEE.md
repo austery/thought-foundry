@@ -7,7 +7,6 @@ companies_orgs:
 - Johnson & Johnson
 - Disney
 - Warner Bros.
-- 台湾人权协会
 date: '2021-12-11'
 draft: true
 guest: ''

@@ -7,7 +7,6 @@ companies_orgs:
 - Apple
 - Netflix
 - NBC
-- Saturday Night Live
 - Harvard Business Review
 - ABC
 date: '2025-10-20'
@@ -26,9 +25,6 @@ people:
 - Charlie Kirk
 - George Floyd
 products_models:
-- Apple Music
-- Beats
-- Flip-Flop
 - TikTok
 - YouTube
 - Twitter

@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - S&P 500
 - Rocket Lab
-- Core Weave
 - Nvidia
 - Palantir
 - Robinhood
@@ -16,7 +15,6 @@ companies_orgs:
 - Amazon
 - Dell
 - Andreessen Horowitz
-- Gamma
 - Chipotle
 - Lululemon
 - Uber
@@ -27,8 +25,6 @@ companies_orgs:
 - US Congress
 - Supreme Court
 - EU
-- Japan
-- South Korea
 - Saudi Arabia
 date: '2025-11-11'
 draft: true
@@ -44,10 +40,8 @@ people:
 - Donald Trump
 - Barack Obama
 products_models:
-- ACA (Affordable Care Act)
 - Gemini
 - ChatGPT
-- Anthropic
 - FSD (Full Self-Driving)
 project:
 - us-analysis

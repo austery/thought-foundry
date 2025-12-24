@@ -2,10 +2,7 @@
 area: market-analysis
 category: geopolitics
 companies_orgs:
-- 新鴻基地產
-- 嘉裏建設
 - 恒大
-- 新世界地產
 date: '2025-07-31'
 draft: true
 guest: ''

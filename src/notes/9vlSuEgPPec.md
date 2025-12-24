@@ -4,7 +4,6 @@ category: career
 companies_orgs:
 - 腾讯
 - Statsig
-- Superlinear Academy
 date: '2025-11-26'
 draft: true
 guest: ''
@@ -14,8 +13,6 @@ media_books:
 - The Diary of A CEO
 - My First Million
 - Founders
-products_models:
-- 从会工作到会赚钱
 project:
 - personal-growth-lab
 - entrepreneurship

@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Wired Magazine
 - Amazon
 date: '2025-12-05'
 draft: false

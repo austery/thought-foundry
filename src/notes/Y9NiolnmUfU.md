@@ -5,8 +5,6 @@ companies_orgs:
 - New York Times
 - White House
 - National Guard
-- US Coast Guard
-- Southern Poverty Law Center
 - Warner Bros. Discovery
 - HBO
 - CNN
@@ -20,8 +18,6 @@ companies_orgs:
 - TikTok
 - FIFA
 - Apple
-- Motion Picture Association
-- Dolce and Gabbana
 date: '2025-11-21'
 draft: true
 guest: ''
@@ -38,10 +34,6 @@ people:
 - Larry Ellison
 - Elon Musk
 - Muhammad
-products_models:
-- Deepwater Horizon
-- Epstein Files
-- K9 Perfume
 project:
 - us-analysis
 - geopolitics-watch

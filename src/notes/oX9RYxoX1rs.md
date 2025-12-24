@@ -2,15 +2,10 @@
 area: society-systems
 category: science
 companies_orgs:
-- AIMATX
 - Alphabet
-- Innovative Genomics Institute
-- Microsoft Research
-- Meta AI
 - MIT
 - Stanford University
 - FDA
-- 天桥脑科学研究院
 date: '2025-11-06'
 draft: true
 guest: ''
@@ -18,12 +13,6 @@ insight: ''
 layout: post.njk
 products_models:
 - ChatGPT
-- DALL·E
-- Rosetta
-- RF3
-- CRISPR-Cas9
-- MOF
-- COF
 project:
 - ai-impact-analysis
 - systems-thinking

@@ -4,9 +4,6 @@ category: lifestyle
 companies_orgs:
 - 初日醫學
 - Cofit
-- 苏澳荣民医院
-- 开兰安心诊所
-- 关渡医院
 date: '2025-08-13'
 draft: true
 guest: ''

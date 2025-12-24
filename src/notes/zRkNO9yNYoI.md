@@ -13,7 +13,6 @@ companies_orgs:
 - Meta
 - World Trade Organization
 - Federal Reserve
-- AfD
 - Reform UK
 - Thinking Machines
 - Alibaba
@@ -27,8 +26,6 @@ people:
 - Elon Musk
 - Sam Altman
 - Ray Dalio
-products_models:
-- Pure Alpha
 project:
 - us-analysis
 - ai-impact-analysis

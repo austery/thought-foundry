@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- North American Traditional Indigenous Food Systems
-- Cheyenne River Sue Tribe
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -12,8 +9,6 @@ layout: post.njk
 media_books:
 - The Iliad
 - How to Be a Better Human
-products_models:
-- Oamni
 project:
 - cultural-critique
 - historical-insights

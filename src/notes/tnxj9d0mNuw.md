@@ -3,11 +3,8 @@ area: society-systems
 category: culture
 companies_orgs:
 - 携程
-- 英法联军
-- 八国联军
 - 加拿大自由党
 - NDP
-- LV
 date: '2024-12-01'
 draft: true
 guest: ''

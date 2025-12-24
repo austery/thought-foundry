@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: science
-companies_orgs:
-- Fast Hosts
 date: '2020-01-29'
 draft: true
 guest: ''

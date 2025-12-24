@@ -8,8 +8,6 @@ companies_orgs:
 - Microsoft
 - Shopify
 - Asana
-- Monday.com
-- Marketo
 date: '2025-09-03'
 draft: true
 guest: ''

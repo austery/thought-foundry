@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - Arithmetica
-products_models:
-- Thinking in Code
 project:
 - systems-thinking
 - historical-insights

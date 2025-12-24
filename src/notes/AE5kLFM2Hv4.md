@@ -1,13 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 德意志第三帝國
-- 民進黨
-- 薩摩藩
-- 明朝
-- 清朝
-- 後黎朝
 date: '2025-11-29'
 draft: true
 guest: ''

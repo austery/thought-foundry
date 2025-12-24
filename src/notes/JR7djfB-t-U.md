@@ -5,10 +5,7 @@ companies_orgs:
 - Norges Bank Investment Management
 - IBM
 - Southwest Airlines
-- Progressive Insurance
-- Otus
 - Goldman Sachs
-- Nova Nordisk
 - Ferrari
 date: '2025-05-13'
 draft: true

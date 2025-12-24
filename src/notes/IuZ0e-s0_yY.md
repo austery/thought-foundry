@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - Fox News
 - Washington Post
-- US Navy SEAL Team Six
 - US Department of Defense
 - US Congress
 - US House of Representatives

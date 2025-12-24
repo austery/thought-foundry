@@ -14,7 +14,6 @@ companies_orgs:
 - Instagram
 - 微博
 - 新浪
-- 皇家地理协会
 - WeWork
 date: '2025-10-22'
 draft: true
@@ -27,13 +26,10 @@ people:
 - Elon Musk
 - 李佳琦
 products_models:
-- 'Cities: Skylines'
-- Countryball
 - Python
 - C
 - Gemini
 - Google Maps
-- Apple Maps
 project:
 - ai-impact-analysis
 - personal-growth-lab

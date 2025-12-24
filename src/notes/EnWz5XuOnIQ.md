@@ -4,7 +4,6 @@ category: technology
 companies_orgs:
 - OpenAI
 - Meta
-- PTT
 date: '2025-12-01'
 draft: true
 guest: ''
@@ -30,15 +29,10 @@ products_models:
 - Gemma
 - GPT-2
 - GPT-4
-- GPT-4 Mini
 - GPT-5
 - Llama 2
 - Llama 3
 - Whisper
-- Wav2Vec 2.0
-- Conformer
-- Speech T5
-- TAIDE LX
 project:
 - ai-impact-analysis
 series: ''

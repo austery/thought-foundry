@@ -2,9 +2,6 @@
 area: society-systems
 category: business
 companies_orgs:
-- Scatter
-- Eman Venture Labs
-- Sky Sports News
 - Google
 date: '2025-12-13'
 draft: true
@@ -12,10 +9,8 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- TailTree
 - iPhone
 - Android
-- G1 Android device
 project:
 - entrepreneurship
 - personal-growth-lab

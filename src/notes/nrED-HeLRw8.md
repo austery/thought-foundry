@@ -2,9 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- McKenzie Health Institute
 - Health Canada
-- Canadian Institutes of Health Research
 date: '2025-11-21'
 draft: true
 guest: ''

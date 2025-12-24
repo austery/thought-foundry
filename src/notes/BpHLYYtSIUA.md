@@ -16,10 +16,6 @@ media_books:
 people:
 - 老马
 - Xi Jinping
-products_models:
-- 人教版教材
-- 部编版教材
-- 总书记思想读本
 project:
 - china-analysis
 - geopolitics-watch

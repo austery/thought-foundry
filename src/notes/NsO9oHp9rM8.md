@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 康华公司
 date: '2025-05-11'
 draft: true
 guest: ''

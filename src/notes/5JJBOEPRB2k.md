@@ -9,7 +9,6 @@ companies_orgs:
 - New York Times
 - J.P. Morgan
 - SEC
-- RCA
 - MicroStrategy
 - Bloomberg Podcasts
 date: '2025-10-13'
@@ -48,7 +47,6 @@ people:
 - Michael Saylor
 products_models:
 - Bitcoin
-- Empire State Building
 project:
 - investment-strategy
 - historical-insights

@@ -2,11 +2,9 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- see money
 - Chipotle
 - Target
 - Best Buy
-- Progressive
 - BlackRock
 - Federal Reserve
 - Futu
@@ -25,7 +23,6 @@ people:
 - Larry Fink
 - John Williams
 products_models:
-- APP
 - QQQ
 - SOXS
 project:

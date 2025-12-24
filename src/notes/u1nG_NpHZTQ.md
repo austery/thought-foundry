@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: geopolitics
-companies_orgs:
-- blackrock
 date: '2025-10-14'
 draft: true
 guest: ''

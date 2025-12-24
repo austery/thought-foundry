@@ -3,9 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Bloomberg Audio Studios
-- Partnership for New York
-- Quantier
-- Appaloosa Capital Management
 - NYPD
 date: '2025-07-21'
 draft: true

@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 同仁医院
-- 301医院
 - 辉瑞
-- 同仁堂
 date: '2023-12-22'
 draft: true
 guest: ''
@@ -15,10 +12,6 @@ media_books:
 - 庄也杂谈
 people:
 - 庄也
-products_models:
-- 利普妥
-- 甲硝唑
-- 连花清瘟
 project:
 - china-analysis
 - geopolitics-watch

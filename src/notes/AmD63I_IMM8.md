@@ -2,17 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 东印度公司
 - 联合国
-- 辉格党
-- 托利党
-- 自由党 (英国)
-- 工党 (英国)
-- 保守党 (英国)
 - 国民党
 - 民进党
-- 新模范军
-- 蒙德拉贡公司
 date: '2025-06-30'
 draft: true
 guest: ''

@@ -9,11 +9,8 @@ companies_orgs:
 - 中央电视台
 - 新华社
 - 解放军报
-- 德国之声
 - Reuters
 - Financial Times
-- 韩联社
-- 美国疾控中心
 date: '2025-11-16'
 draft: true
 guest: ''
@@ -47,7 +44,6 @@ people:
 - 胡锡进
 products_models:
 - iPhone
-- Apple Car
 project:
 - us-analysis
 - geopolitics-watch

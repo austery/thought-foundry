@@ -3,10 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Instacart
-- Safeway
 - Target
-- Consumer Reports
-- Groundwork Collective
 - Uber
 - Amazon
 - Home Depot
@@ -27,9 +24,6 @@ people:
 - Donald Trump
 - Ben Castleman
 - Jared Kushner
-products_models:
-- Cheerios
-- Wheat Thins
 project:
 - us-analysis
 - geopolitics-watch

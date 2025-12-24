@@ -4,11 +4,9 @@ category: culture
 companies_orgs:
 - CNN
 - The Washington Post
-- Planned Parenthood
 - Meta
 - Instagram
 - Twitter
-- Bluesky
 - TikTok
 - Xiaohongshu
 date: '2025-10-26'
@@ -16,12 +14,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- AO3
-- Lore
-- Sunroom
-- OnlyFans
-- Diem
 project:
 - systems-thinking
 - cultural-critique

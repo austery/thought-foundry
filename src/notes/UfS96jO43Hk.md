@@ -2,7 +2,6 @@
 area: finance-wealth
 category: stock-investment
 companies_orgs:
-- 趣店
 - 支付宝
 - 美国证监会
 date: '2025-12-19'
@@ -10,10 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 趣分期
-- 大白汽车
-- 万里目
 project:
 - investment-strategy
 series: ''

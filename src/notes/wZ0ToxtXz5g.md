@@ -9,7 +9,6 @@ insight: ''
 layout: post.njk
 products_models:
 - LLM
-- multimodal model
 project:
 - ai-impact-analysis
 series: ''

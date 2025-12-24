@@ -3,9 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - TED
-- Knepp Estate
-- Tower of London
-- Field Museum
 date: '2025-12-07'
 draft: true
 guest: ''

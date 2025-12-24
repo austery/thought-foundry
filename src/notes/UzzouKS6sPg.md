@@ -27,7 +27,6 @@ people:
 - Pat Gelsinger
 - Masayoshi Son
 products_models:
-- H20 chip
 - GPT
 project:
 - us-analysis

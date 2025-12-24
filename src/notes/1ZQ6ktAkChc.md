@@ -15,8 +15,6 @@ media_books:
 - Modern Love
 people:
 - Anna Martin
-products_models:
-- How to Get Rich
 project:
 - china-analysis
 - cultural-critique

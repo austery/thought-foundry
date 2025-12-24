@@ -6,12 +6,8 @@ companies_orgs:
 - Oxford University
 - National Bureau of Economic Research
 - NYU
-- Imperial College London
-- University of Zurich
 - IPCC
-- NGFS
 - Bank of England
-- Science Based Targets initiative
 - World Bank
 date: '2025-03-26'
 draft: true

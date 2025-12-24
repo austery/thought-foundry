@@ -5,7 +5,6 @@ companies_orgs:
 - Bloomberg
 - Federal Reserve
 - Citadel
-- Boston Fed
 - Atlanta Fed
 - Federal Open Market Committee
 date: '2025-08-22'
@@ -28,7 +27,6 @@ people:
 - Kale Brooks
 products_models:
 - OddLots podcast
-- Lots More podcast
 - Bloomberg terminal
 project:
 - us-analysis

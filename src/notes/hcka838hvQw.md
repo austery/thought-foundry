@@ -1,9 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Mariana University
-- Fortune 500 insurance leader
 date: '2025-10-27'
 draft: true
 guest: ''
@@ -13,7 +10,6 @@ products_models:
 - GPT-4
 - Llama 2
 - GPT-4o
-- 30B model
 project:
 - ai-impact-analysis
 - entrepreneurship

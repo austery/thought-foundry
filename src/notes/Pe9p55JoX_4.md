@@ -10,19 +10,12 @@ companies_orgs:
 - 可口可乐
 - 特斯拉
 - 索尼
-- 迪斯尼
 - 苹果
 - 中芯国际
-- 长江存储
-- 长兴存储
-- 力拓
-- 中铝集团
 - 农业银行
-- 武汉控股
 - 寒武纪
 - ASML
 - 大众
-- 宝马
 - 通用电气
 - 台积电
 date: '2025-10-22'
@@ -50,7 +43,6 @@ products_models:
 - FSD
 - Optimus
 - Robotaxi
-- Keep Pop
 project:
 - us-analysis
 - china-analysis

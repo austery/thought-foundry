@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Lululemon Athletica Inc.
 - Nike
 date: '2024-04-22'
 draft: true

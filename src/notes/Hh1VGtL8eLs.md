@@ -14,7 +14,6 @@ companies_orgs:
 - Microsoft
 - Amazon
 - AWS
-- ClickHouse
 - Coreweave
 - Grab
 - GoTo
@@ -22,7 +21,6 @@ companies_orgs:
 - SoFi
 - Coinbase
 - Robinhood
-- OCC
 - Bank of America
 - JP Morgan
 - Wells Fargo
@@ -38,7 +36,6 @@ companies_orgs:
 - Axon
 - PayPal
 - Anthropic
-- C Limited
 - Shopify
 - US Army
 - US Navy
@@ -75,11 +72,8 @@ people:
 - Jerome Powell
 products_models:
 - Instagram Reels
-- Lightning Network
-- SoFi USD
 - FSD
 - Claude
-- OpenDoor
 project:
 - investment-strategy
 - ai-impact-analysis

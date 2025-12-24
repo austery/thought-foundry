@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - Volkswagen
 - Uber
-- Character.ai
 date: '2025-11-05'
 draft: true
 guest: ''

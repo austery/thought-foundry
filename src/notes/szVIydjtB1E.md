@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- INTAC Center on Climate Adaptation
 - University of Waterloo
-- Fires Smart BC
-- Clean Air Partnership
 date: '2025-10-28'
 draft: true
 guest: ''
@@ -13,9 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - The Rundown
-products_models:
-- Toronto Green Standard
-- Provincial Planning Statement
 project:
 - geopolitics-watch
 - systems-thinking

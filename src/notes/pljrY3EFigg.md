@@ -13,8 +13,6 @@ companies_orgs:
 - OpenAI
 - 阿里云
 - 中国电信
-- 腾讯云
-- 华为云
 date: '2025-11-05'
 draft: true
 guest: ''

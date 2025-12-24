@@ -4,8 +4,6 @@ category: finance
 companies_orgs:
 - 宁德时代
 - 摩根士丹利
-- 恩杰股份
-- 天赐材料
 - 腾讯
 - Alibaba
 - ByteDance
@@ -13,11 +11,9 @@ companies_orgs:
 - 台积电
 - 英特尔
 - 京东
-- 思科
 - AMD
 - Nvidia
 - 甲骨文
-- 巴莱克银行
 - xAI
 - OpenAI
 - 特斯拉
@@ -25,7 +21,6 @@ companies_orgs:
 - Google
 - Waymo
 - 亚马逊
-- 美国联邦住房金融局
 - 美联储
 - 中国人民银行
 - 证监会
@@ -62,8 +57,6 @@ products_models:
 - H100
 - H200
 - Blackwell GPU
-- 微信小游戏
-- 小程序
 project:
 - china-analysis
 - us-analysis

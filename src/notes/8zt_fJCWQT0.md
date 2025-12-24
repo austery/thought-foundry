@@ -20,7 +20,6 @@ companies_orgs:
 - Cloudflare
 - Atlassian
 - Twilio
-- First Solar
 - Zillow
 - Oracle
 - OpenAI
@@ -34,19 +33,15 @@ companies_orgs:
 - Tesla
 - SoFi
 - Grab
-- QuantumScape
 - D-Wave
 - Rigetti Computing
 - Lumen
 - Spotify
-- SiriusXM
 - TD Cowen
 - Goldman Sachs
 - Morgan Stanley
 - Bank of America
 - Evercore ISI
-- Baird
-- Federal Trade Commission (FTC)
 date: 2025-10-31
 draft: true
 guest: ''
@@ -63,20 +58,14 @@ people:
 - Jamie Dimon
 - Vlad Tenev
 products_models:
-- AWS (Amazon Web Services)
 - iPhone
 - Siri
-- Tranium
 - Blackwell
-- SageMaker
 - Bedrock
 - Rufus
 - Alexa
 - Project Kuiper
-- Zoox
 - Prime Video
-- Amazon DSP
-- Graviton
 - EC2
 - Gemini
 project:

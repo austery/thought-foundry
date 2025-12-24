@@ -3,7 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - 民政局
-- 居委会
 - Netflix
 date: '2025-02-04'
 draft: true

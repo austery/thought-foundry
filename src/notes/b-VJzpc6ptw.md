@@ -1,9 +1,6 @@
 ---
 area: null
 category: null
-companies_orgs:
-- blue-origin
-- nasa
 date: '2025-10-08'
 draft: true
 guest: ''

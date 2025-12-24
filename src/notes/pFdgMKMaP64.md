@@ -3,14 +3,9 @@ area: market-analysis
 category: finance
 companies_orgs:
 - 腾讯
-- 华纳兄弟探索
-- 飞塔
-- 思科
 - Palo Alto Networks
-- Crostrike
 - Chrysler
 - Monster Beverage
-- Herbal Life
 - AT&T
 date: '2024-12-09'
 draft: true
@@ -23,7 +18,6 @@ people:
 - 唐石峻
 - 查理·芒格
 products_models:
-- 飞塔防火墙
 - CDS
 project:
 - us-analysis

@@ -8,7 +8,6 @@ companies_orgs:
 - Polymarket
 - Block
 - Walmart
-- Koch Industries
 - Twitter
 - X
 - Microsoft

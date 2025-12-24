@@ -1,6 +1,8 @@
 ---
 area: market-analysis
 category: geopolitics
+companies:
+- precious-metal
 companies_orgs: []
 date: '2025-10-13'
 draft: true
@@ -9,8 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - amit-kukreja
-products_models:
-- ethereum
 project:
 - ai-impact-analysis
 - china-analysis
@@ -27,8 +27,6 @@ tags:
 - market
 - us-china-relations
 title: 每日市场回顾：中国局势、AI合作、以太坊投资与贵金属热潮
-companies:
-- precious-metal
 ---
 
 ### 每日回顾回归：浓缩市场精华

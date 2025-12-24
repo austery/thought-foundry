@@ -1,8 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- lumen-technologies
 date: '2025-10-14'
 draft: true
 guest: ''

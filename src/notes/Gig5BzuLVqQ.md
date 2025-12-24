@@ -1,10 +1,10 @@
 ---
 area: market-analysis
 category: finance
+companies:
+- precious-metal
 companies_orgs:
 - IMF
-- PY Homes
-- LAR
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -19,7 +19,6 @@ people:
 products_models:
 - S&P 500
 - CPI
-- GLD
 project:
 - us-analysis
 - geopolitics-watch
@@ -35,8 +34,6 @@ tags:
 - inflation-datum
 - market-trend
 title: 市场周报：标普创新高、通胀徘徊、地缘政治新格局与贵金属动荡
-companies:
-- precious-metal
 ---
 
 ### 市场概览：标普创新高、通胀徘徊与美中贸易进展

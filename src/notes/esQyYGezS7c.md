@@ -4,12 +4,7 @@ category: general
 companies_orgs:
 - National Institute of Standards and Technology
 - FDA
-- Google Domains
 - Google Cloud
-- Google Workspace
-- Google Analytics
-- National Bureau of Standards
-- ASTM
 date: '2022-11-19'
 draft: true
 guest: ''
@@ -17,7 +12,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Snatoms
-- Charpies
 project:
 - systems-thinking
 - historical-insights

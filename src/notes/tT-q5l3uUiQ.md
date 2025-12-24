@@ -3,10 +3,8 @@ area: society-systems
 category: psychology
 companies_orgs:
 - TVO
-- Feinstein Institute
 - NHS
 - WHO
-- Menstrual Health Project
 date: '2025-11-18'
 draft: true
 guest: ''

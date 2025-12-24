@@ -5,22 +5,12 @@ companies_orgs:
 - 小米
 - 特斯拉
 - 比亚迪
-- 赛力斯
-- 理想
 - 西门子
-- 博世
-- 大金
-- 日立
-- 海信
-- 格力
 date: '2025-08-26'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 速漆
-- 预漆
 project:
 - china-analysis
 - investment-strategy

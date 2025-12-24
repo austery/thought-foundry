@@ -15,7 +15,6 @@ companies_orgs:
 - Berkshire Hathaway
 - Nebius
 - Coreweave
-- TMGM
 date: '2025-11-16'
 draft: true
 guest: ''
@@ -28,7 +27,6 @@ products_models:
 - FSD
 - Robotaxi
 - Optimus
-- AI GPU
 project:
 - us-analysis
 - investment-strategy

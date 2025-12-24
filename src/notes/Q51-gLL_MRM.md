@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- E-Defense
 - Shopify
 date: '2023-12-19'
 draft: true

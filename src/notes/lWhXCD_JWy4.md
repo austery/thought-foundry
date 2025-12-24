@@ -5,7 +5,6 @@ companies_orgs:
 - Pimco
 - Bloomberg Podcasts
 - Federal Reserve
-- Capital Group
 - JPMorgan Chase
 date: '2025-12-08'
 draft: true
@@ -23,10 +22,6 @@ people:
 - Kevin Hassett
 products_models:
 - S&P 500
-- Bloomberg Aggregate Index
-- Taylor Rule
-- Shiller P/E
-- Credit Default Swaps
 project:
 - investment-strategy
 - market-cycles

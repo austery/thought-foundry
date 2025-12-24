@@ -5,8 +5,6 @@ companies_orgs:
 - Meta
 - FAIR
 - OpenAI
-- AI2
-- Reflect
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -25,8 +23,6 @@ products_models:
 - LLM
 - Llama
 - GPT-5
-- GPTOSS model
-- SFT
 project:
 - ai-impact-analysis
 - systems-thinking

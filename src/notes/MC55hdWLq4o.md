@@ -1,18 +1,13 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Braintrust
 date: '2025-08-09'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Loop
 - Claude 4
-- OpenAI models
-- Gemini models
 - LLMs
 project:
 - ai-impact-analysis

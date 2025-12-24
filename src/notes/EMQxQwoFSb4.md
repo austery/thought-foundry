@@ -7,7 +7,6 @@ companies_orgs:
 - Google Brain
 - DeepMind
 - Anthropic
-- Sourcegraph
 - Microsoft
 - Apple
 - Netscape

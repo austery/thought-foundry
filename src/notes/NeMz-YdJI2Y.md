@@ -2,11 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Harkonnen family
-- Atreides family
 - NASA
 - BP
-- Bene Gesserit
 date: '2024-03-15'
 draft: true
 guest: ''

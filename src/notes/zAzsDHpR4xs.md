@@ -26,14 +26,8 @@ people:
 - 课代表立正
 - 田渊栋
 products_models:
-- Llama-1
-- Llama-2
 - GPT-5
-- GPT-5 Pro
-- GPT-o1 Pro
 - Claude
-- Duolingo
-- second mind
 project:
 - ai-impact-analysis
 - systems-thinking

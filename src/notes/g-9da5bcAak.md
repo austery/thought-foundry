@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 吕克昂学园
-- 维也纳学派
 date: '2025-03-06'
 draft: true
 guest: ''

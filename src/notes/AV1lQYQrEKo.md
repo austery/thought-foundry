@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- UWare
 - Google
 - AWS
 - Microsoft
@@ -10,7 +9,6 @@ companies_orgs:
 - Nvidia
 - Mistral
 - Coreweave
-- Nebus
 date: '2025-12-10'
 draft: true
 guest: ''
@@ -18,7 +16,6 @@ insight: ''
 layout: post.njk
 products_models:
 - LLM
-- AI models
 project:
 - us-analysis
 - ai-impact-analysis

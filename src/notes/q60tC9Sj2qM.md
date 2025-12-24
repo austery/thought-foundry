@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - AstraZeneca
-- CPSO
 date: '2024-01-19'
 draft: true
 guest: ''
@@ -12,9 +11,6 @@ layout: post.njk
 media_books:
 - 《CEO world》
 - 《美国新闻周刊》
-products_models:
-- 易瑞沙
-- 泰瑞沙
 project:
 - us-analysis
 - china-analysis

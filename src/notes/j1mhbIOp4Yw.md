@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 中国社会科学文学研究所
 date: '2025-01-22'
 draft: true
 guest: ''

@@ -1,15 +1,16 @@
 ---
 area: market-analysis
 category: finance
+companies:
+- spacex-ipo
+- starlink
 companies_orgs:
 - SpaceX
 - Saudi Aramco
 - Bloomberg
 - Reuters
 - Founders Fund
-- Valor Equity Partners
 - Alphabet
-- Fidelity Investments
 - Blue Origin
 date: '2025-12-12'
 draft: true
@@ -41,9 +42,6 @@ tags:
 - space-economy
 - valuation
 title: SpaceX 史诗级IPO：万亿估值，重塑太空经济新格局
-companies:
-- spacex-ipo
-- starlink
 ---
 
 ### 引言：21世纪的文明权杖指向太空

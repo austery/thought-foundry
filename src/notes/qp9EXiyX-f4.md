@@ -2,12 +2,8 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Air Street Capital
-- First Mark
 - OpenAI
 - DeepMind
-- Allen Institute
-- Seract
 - Anthropic
 - Ramp
 - Nvidia
@@ -22,22 +18,12 @@ companies_orgs:
 - AMD
 - Apple
 - Groq
-- SambaNova
-- Cerebras
-- Graphcore
 - Cambricon
 - Huawei
 - DeepSeek
 - Hugging Face
-- Reflection AI
 - Thinking Machines
 - Workday
-- 11 Labs
-- Delpha
-- Recursion
-- Xentia
-- Profluent
-- Alliance Industries
 date: '2025-10-30'
 draft: true
 guest: ''
@@ -62,10 +48,7 @@ products_models:
 - ChatGPT
 - Llama
 - Qwen
-- GPT-OSS
-- Haiku
 - AlphaFold
-- AI Scientist V2
 project:
 - ai-impact-analysis
 - investment-strategy

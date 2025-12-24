@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - New York Times
-- CBP
 date: '2025-12-15'
 draft: true
 guest: ''
@@ -16,8 +15,6 @@ people:
 - Kamala Harris
 - Donald Trump
 - Natalie Kitroof
-products_models:
-- CBP1
 project:
 - us-analysis
 - historical-insights

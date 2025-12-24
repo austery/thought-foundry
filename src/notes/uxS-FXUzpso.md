@@ -9,9 +9,7 @@ companies_orgs:
 - Kremlin
 - Pentagon
 - Department of Defense
-- Chinese Foreign Ministry
 - Alibaba
-- United Nations Human Rights Council
 date: '2025-11-25'
 draft: true
 guest: ''

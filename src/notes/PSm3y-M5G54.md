@@ -4,17 +4,7 @@ category: geopolitics
 companies_orgs:
 - Bank of Japan
 - Federal Reserve
-- White House Council of Economic Advisers
-- Kushner Companies
 - Institute for Supply Management
-- Hong Kong Independent Commission Against Corruption
-- Hong Kong Police National Security Department
-- Ministry of State Security of the PRC
-- Hong Kong and Macao Affairs Office
-- China Real Estate Information Corp
-- China Index Academy
-- UBS Group
-- Fitch Ratings
 date: '2025-12-01'
 draft: true
 guest: ''
@@ -45,7 +35,6 @@ people:
 - Sheikh Hasina
 products_models:
 - Bitcoin
-- Cryptocurrency
 project:
 - china-analysis
 - us-analysis

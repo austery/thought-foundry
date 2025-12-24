@@ -6,7 +6,6 @@ companies_orgs:
 - Cambricon
 - Nvidia
 - Oracle
-- Central Bank
 - Federal Reserve
 - Goldman Sachs
 - TSMC
@@ -20,7 +19,6 @@ companies_orgs:
 - UBS
 - Bank of America
 - Microsoft
-- Bubble Mart
 date: '2025-12-11'
 draft: true
 guest: ''
@@ -33,9 +31,7 @@ people:
 - Xi Jinping
 - Powell
 products_models:
-- OCI
 - TPU
-- Tongyi Qianwen
 - Avocado
 - ChatGPT
 project:

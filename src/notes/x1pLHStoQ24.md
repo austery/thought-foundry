@@ -21,7 +21,6 @@ products_models:
 - Sora
 - Gemini
 - Veo
-- Imagen
 - Nano Banana
 project:
 - us-analysis

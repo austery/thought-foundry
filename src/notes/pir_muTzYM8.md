@@ -3,7 +3,6 @@ area: society-systems
 category: technology
 companies_orgs:
 - US Navy
-- Naval Surface Warfare Center Carderock Division
 date: '2022-12-01'
 draft: true
 guest: ''

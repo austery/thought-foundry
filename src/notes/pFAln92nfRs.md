@@ -6,7 +6,6 @@ companies_orgs:
 - 美联储
 - 司法部
 - 自民党
-- 日本维新会
 - 立宪民主党
 date: '2025-11-22'
 draft: true

@@ -32,7 +32,6 @@ products_models:
 - YouTube
 - Android
 - Chrome
-- IE Browser
 - QQ
 - WeChat
 project:

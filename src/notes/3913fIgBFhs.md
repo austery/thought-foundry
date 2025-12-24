@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- AfD
 - TED
 date: '2025-11-14'
 draft: true

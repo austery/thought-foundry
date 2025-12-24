@@ -5,10 +5,8 @@ companies_orgs:
 - Robinhood
 - CNBC
 - Goldman Sachs
-- J.P. Stevens
 - Google
 - Apple
-- Nucor
 - Palantir
 - Nvidia
 - Micron
@@ -19,12 +17,7 @@ companies_orgs:
 - Coca-Cola
 - JPMorgan
 - Wells Fargo
-- The Street
-- New York Commercial Library
-- New York Observer
-- The Phillies
 - Bloomberg
-- Democratic Socialists of America
 date: '2025-09-22'
 draft: true
 guest: ''
@@ -50,11 +43,8 @@ people:
 - Karl Marx
 - Vladimir Lenin
 products_models:
-- Mad Money
 - ChatGPT
-- Perplexity Finance
 - S&P 500
-- Dow
 project:
 - investment-strategy
 - us-analysis

@@ -4,9 +4,7 @@ category: finance
 companies_orgs:
 - Robinhood
 - Duolingo
-- Applovin
 - Qualcomm
-- E.L.F. Beauty
 - Fortinet
 - DoorDash
 - Lyft
@@ -18,7 +16,6 @@ companies_orgs:
 - SoFi
 - AMD
 - Bitstamp
-- Chime Financial
 - Google
 - Apple
 - Bloomberg
@@ -27,7 +24,6 @@ companies_orgs:
 - Perplexity
 - FICO
 - ARM
-- FINRA
 - Schwab
 - Fidelity
 - AWS
@@ -52,12 +48,6 @@ people:
 products_models:
 - Siri
 - Gemini
-- Robinhood Gold
-- Robinhood Cortex
-- Robinhood Social
-- Robinhood Ventures
-- Robinhood Banking
-- Trade PMR
 project:
 - investment-strategy
 - us-analysis

@@ -17,12 +17,6 @@ people:
 - Carl Friedrich Gauss
 - Joseph Fourier
 - John F. Kennedy
-products_models:
-- Apollo program
-- Pallas
-- Ceres
-- Juno
-- Shrimp
 project:
 - us-analysis
 - historical-insights

@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - bg2-pod
-products_models:
-- hbm
 project:
 - ai-impact-analysis
 - us-analysis

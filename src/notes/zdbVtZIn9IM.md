@@ -10,9 +10,6 @@ companies_orgs:
 - DeepMind
 - Google
 - CCP
-- Ministry of State Security
-- NKVD
-- FERC
 - Amazon
 date: '2024-06-04'
 draft: true
@@ -55,16 +52,11 @@ products_models:
 - GPT-4o
 - InstructGPT
 - AlphaGo
-- System 1
-- System 2
 - GPT-2
 - Llama
 - Gemini
 - GPT-5
 - GPT-6
-- Microsoft Office
-- Apple Notes
-- Stuxnet
 project:
 - ai-impact-analysis
 series: ''

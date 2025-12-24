@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: finance
-companies_orgs:
-- levi-strauss
 date: '2025-10-13'
 draft: true
 guest: ''

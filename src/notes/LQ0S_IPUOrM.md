@@ -6,10 +6,8 @@ companies_orgs:
 - FTX
 - Ford Motor Company
 - IMF
-- Mississippi Company
 - Pets.com
 - Qualcomm
-- South Sea Company
 date: '2025-01-10'
 draft: true
 guest: ''
@@ -21,7 +19,6 @@ people:
 - adam-s-axiom
 products_models:
 - Bitcoin
-- NFTs
 project:
 - ai-impact-analysis
 - investment-strategy

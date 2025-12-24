@@ -4,10 +4,8 @@ category: geopolitics
 companies_orgs:
 - Stellantis
 - LG
-- Toyota Motor Manufacturing Canada
 - McMaster University
 - Universal
-- United Auto Workers of Canada
 - General Motors
 - Ford
 - TVO Today

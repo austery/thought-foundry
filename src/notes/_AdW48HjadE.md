@@ -2,16 +2,12 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- 硅谷101
 - Microsoft
-- 突破能源
-- 金融投资
 - OpenAI
 - NVIDIA
 - AMD
 - Google
 - Meta
-- Ball Capital
 - Oracle
 - Amazon Web Services
 - Anthropic

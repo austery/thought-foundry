@@ -1,8 +1,6 @@
 ---
 area: society-thinking
 category: psychology
-companies_orgs:
-- J.C. Penney
 date: '2025-12-18'
 draft: true
 guest: ''

@@ -4,8 +4,6 @@ category: general
 companies_orgs:
 - 初日醫學
 - Cofit
-- 國科會
-- 大林慈濟
 date: '2025-02-26'
 draft: true
 guest: ''

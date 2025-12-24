@@ -3,11 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 国民党
-- 海基会
-- 海协会
-- 陆委会
 - 民进党
-- 国立故宫博物馆
 date: '2025-12-05'
 draft: true
 guest: ''
@@ -19,11 +15,6 @@ people:
 - 马英九
 - 郑丽文
 - 蒋介石
-products_models:
-- ECFA
-- 九二共识
-- 一中各表
-- 宪法一中
 project:
 - china-analysis
 - historical-insights

@@ -15,7 +15,6 @@ companies_orgs:
 - ASML
 - JD.com
 - Pinduoduo
-- Douyin
 - Xiaohongshu
 - 新东方
 - 大疆
@@ -42,10 +41,7 @@ people:
 products_models:
 - ChatGPT
 - Gemini
-- X AI
-- 通义
 - 千问
-- CANN
 - CUDA
 project:
 - china-analysis

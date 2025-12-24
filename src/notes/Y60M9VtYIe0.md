@@ -11,9 +11,6 @@ layout: post.njk
 people:
 - 毛泽东
 - 朱镕基
-products_models:
-- 科创五0指数
-- 新三板
 project:
 - china-analysis
 - investment-strategy

@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Amazon
-- 人民邮电出版社
 - Meta
 date: '2025-11-15'
 draft: true
@@ -33,7 +32,6 @@ people:
 - Alan Turing
 - Linus Torvalds
 products_models:
-- UNIX
 - Linux
 project:
 - systems-thinking

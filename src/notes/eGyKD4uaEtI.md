@@ -4,28 +4,20 @@ category: business
 companies_orgs:
 - New York Times
 - Netflix
-- Warner Brothers Studios
 - Paramount
-- Discovery
-- Warner Brothers Discovery
 - HBO
 - Oracle
 - CBS
-- Apple TV
 - Google
 - Amazon
 - YouTube
 - TikTok
 - Disney
 - ESPN
-- Hulu
-- NBC Universal
 - Pentagon
 - Supreme Court
 - White House
 - Congress
-- Peopleoft
-- Skydance
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -60,7 +52,6 @@ people:
 - Donald Trump
 - Clarence Thomas
 products_models:
-- Paramount Plus
 - HBO Max
 - Max
 project:

@@ -3,7 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - 北约
-- 荷美尔食品
 date: '2025-09-05'
 draft: true
 guest: ''

@@ -22,11 +22,9 @@ companies_orgs:
 - Cisco
 - Broadcom
 - Nebius
-- Irene
 - CoreWeave
 - Cipher
 - Oracle
-- ClickHouse
 - AWS
 - Oscar Health
 date: '2025-11-25'
@@ -60,7 +58,6 @@ products_models:
 - Llama
 - H200
 - Trainium
-- ACA
 project:
 - investment-strategy
 - ai-impact-analysis

@@ -3,14 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - TVO Today
-- Munk School of Global Affairs and Public Policy
 - Red Cross
-- United Farmers of Ontario
-- Toronto Public School Board
-- Financial Accountability Office
 - LCBO
-- Cycle Toronto
-- Ontario Provincial Conservation Agency
 date: '2025-11-14'
 draft: true
 guest: ''

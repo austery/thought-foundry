@@ -4,16 +4,11 @@ category: general
 companies_orgs:
 - KiwiCo
 - US Navy
-- Coast Guard
-- Bureau of Commerce
 date: '2024-11-20'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Lockheed Electra
-- Adcock antenna array
 project:
 - historical-insights
 - systems-thinking

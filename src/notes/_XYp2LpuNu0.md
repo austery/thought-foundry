@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 富士康
-- 国家信访局
-- 农业农村部
 - 中共
 date: '2025-11-19'
 draft: true

@@ -7,7 +7,6 @@ companies_orgs:
 - 人民日报
 - B站
 - 小红书
-- 今日头条
 - 抖音
 - GameStop
 date: '2025-11-18'
@@ -29,8 +28,6 @@ people:
 - Louis Althusser
 - 薛剑
 - 董宇辉
-products_models:
-- 萨德导弹
 project:
 - china-analysis
 - geopolitics-watch

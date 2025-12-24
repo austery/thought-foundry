@@ -3,7 +3,6 @@ area: market-analysis
 category: geopolitics
 companies_orgs:
 - 国家发展和改革委员会
-- 欧洲汇率机制
 date: '2025-04-17'
 draft: true
 guest: ''

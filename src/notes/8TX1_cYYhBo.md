@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - MSCI
 - S&P Global
-- FTSE Russell
 - Nasdaq
 date: '2025-10-06'
 draft: true

@@ -4,16 +4,12 @@ category: finance
 companies_orgs:
 - Nasdaq
 - Norges Bank Investment Management
-- OMX
-- Verafin
 - AWS
 date: '2025-05-08'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- ISK program
 project:
 - investment-strategy
 - ai-impact-analysis

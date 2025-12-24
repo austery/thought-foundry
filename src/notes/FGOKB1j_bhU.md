@@ -2,9 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- 复旦大学老龄研究院
 - 复旦大学AI向善与数字养老研究中心
-- 腾讯研究院
 date: '2025-07-23'
 draft: true
 guest: ''
@@ -12,9 +10,6 @@ insight: ''
 layout: post.njk
 media_books:
 - 《每日野兽》
-products_models:
-- 陪伴机器人
-- 机器嗅觉芯片
 project:
 - us-analysis
 - historical-insights

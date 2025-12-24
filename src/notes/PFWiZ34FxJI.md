@@ -12,12 +12,8 @@ companies_orgs:
 - Netflix
 - Slack
 - McDonald's
-- Los Angeles Dodgers
 - Toronto Blue Jays
-- Seattle Mariners
 - Miami Heat
-- Portland Trailblazers
-- La Cosa Nostra
 - Etsy
 - Costco
 date: '2025-10-24'

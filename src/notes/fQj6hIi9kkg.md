@@ -2,11 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 英特尔投资
-- 珠海荣盈股权投资合伙企业
-- 易方达科创五0投资基金
-- 中国电子投资
-- 香港中央结算
 - 三星电子
 - SK海力士
 - 台积电

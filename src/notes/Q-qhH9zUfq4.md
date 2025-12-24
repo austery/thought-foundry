@@ -16,8 +16,6 @@ layout: post.njk
 people:
 - Jerome Powell
 - Donald Trump
-products_models:
-- Moomoo AI Assistant
 project:
 - us-analysis
 - investment-strategy

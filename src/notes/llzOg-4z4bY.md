@@ -2,7 +2,6 @@
 area: society-systems
 category: education
 companies_orgs:
-- 美丽中国
 - Polymarket
 date: '2025-04-27'
 draft: true

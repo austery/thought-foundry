@@ -2,10 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 国航
 - 同盟会
 - 光复会
-- 兴中会
 - 共产党
 - 民进党
 - 国民党

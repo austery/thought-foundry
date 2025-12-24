@@ -10,12 +10,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Gemma 270M
-- Llama CBP
-- Tensor RT
-- Torch compile
-- Torch FX
 project:
 - ai-impact-analysis
 - systems-thinking

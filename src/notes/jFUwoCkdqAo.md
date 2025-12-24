@@ -4,8 +4,6 @@ category: ai-ml
 companies_orgs:
 - Meta
 - OpenAI
-- PTT
-- 教发中心
 date: '2025-05-16'
 draft: true
 guest: ''
@@ -19,13 +17,8 @@ media_books:
 - DARE
 - TIES
 products_models:
-- LLaMA
 - Mistral
 - Whisper
-- BARK
-- Speech T5
-- Wav2vec2-Conformer
-- TAIDE
 project:
 - ai-impact-analysis
 - systems-thinking

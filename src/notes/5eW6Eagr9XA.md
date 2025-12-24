@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Protege Partners
 - Wall Street
 - YouTube
 - Brilliant

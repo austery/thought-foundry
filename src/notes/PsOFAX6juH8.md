@@ -23,8 +23,6 @@ companies_orgs:
 - DOJ
 - Federal Reserve
 - ServiceNow
-- CRH
-- Comfort Systems
 - AT&T
 - Disney
 - Oracle
@@ -53,7 +51,6 @@ products_models:
 - Vision Pro
 - iPhone
 - Starlink
-- Ray-Ban Smart Glasses
 project:
 - us-analysis
 - investment-strategy

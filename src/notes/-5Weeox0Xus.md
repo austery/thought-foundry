@@ -5,7 +5,6 @@ companies_orgs:
 - Norges Bank Investment Management
 - OPEC
 - Morgan Stanley
-- Memorial Sloan Kettering
 date: '2024-11-06'
 draft: true
 guest: ''

@@ -3,11 +3,9 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Nvidia
-- Krdo
 - ServiceNow
 - Rocket Lab
 - Netflix
-- Apply Digital
 - DoorDash
 - Amazon
 - Palantir
@@ -30,7 +28,6 @@ companies_orgs:
 - Robinhood
 - Galaxy Digital
 - Costco
-- Revlon
 - OPEC
 - American Eagle
 - GitLab
@@ -46,28 +43,21 @@ companies_orgs:
 - Bloom Energy
 - Celsius
 - Big Bear AI
-- Quantum
 - Oklo
 - BMR
 - ASML
-- Tilray
 - Verizon
 - AT&T
 - BP
 - Bullish
 - Capital One
-- Allied Financial
 - Goldman Sachs
-- Symbotic
 - Texas Roadhouse
-- Wingstop
 - Uber
 - PayPal
 - Vanguard
 - TD Cowen
 - Evercore
-- Xite
-- US Customs and Border Protection
 - Supreme Court
 - White House
 - Federal Reserve
@@ -110,17 +100,11 @@ products_models:
 - ChatGPT
 - Gemini
 - DeepSeek
-- TPU7
 - Vera Rubin
-- Herder
-- ISA
 - Ford F-150
 - Rufus
 - iPhone 17
 - CUDA
-- Tranium 3
-- Tranium 4
-- Nova LLM
 - Blackwell
 - Rubin
 project:

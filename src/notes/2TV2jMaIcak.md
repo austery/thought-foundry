@@ -3,11 +3,6 @@ area: market-analysis
 category: business
 companies_orgs:
 - Beyond Meat
-- Impossible Foods
-- Unreal Foods
-- Remastered Foods
-- Meatless Farm
-- GFI
 - McDonald's
 - Walmart
 - Whole Foods
@@ -26,10 +21,6 @@ people:
 - Leonardo DiCaprio
 - Vinod Khosla
 - Robert F. Kennedy Jr.
-products_models:
-- McPlant
-- Impossible cheeseburger
-- Bacon cheeseburger
 project:
 - investment-strategy
 - market-cycles

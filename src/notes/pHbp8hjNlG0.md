@@ -6,19 +6,6 @@ companies_orgs:
 - YouTube
 - Polymarket
 - 新浪微博
-- 奥斯卡金像奖
-- 金马奖
-- 金鸡奖
-- 上海国际电影节
-- 海南国际电影节
-- 法国坎城影展
-- 德国柏林影展
-- 意大利威尼斯影展
-- 美国电影学院
-- 东京国际影展
-- 釜山国际影展
-- sundance
-- IMDb
 date: '2025-11-29'
 draft: true
 guest: ''
@@ -42,24 +29,6 @@ people:
 products_models:
 - 抖音
 - 小红书
-- 《流浪地球》
-- 《我们的青春，在台湾》
-- 《地母》
-- Interstellar
-- 《南京照相馆》
-- 《731》
-- 《卧虎藏龙》
-- 《叶问》
-- 《英雄》
-- 《花样年华》
-- 《功夫》
-- 《无间道》
-- 《十面埋伏》
-- 《叶问2》
-- 《少林足球》
-- 《霍元甲》
-- 《一一》
-- 《尖峰时刻4》
 project:
 - cultural-critique
 - china-analysis

@@ -2,29 +2,19 @@
 area: society-systems
 category: general
 companies_orgs:
-- 国际民航组织
 - 世界银行
-- 航空安全网
 - 波音
-- 空客
 - 世界卫生组织
-- 西北航空
 date: '2025-11-15'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- 波音767
-- A320
-- 波音299
 - B-17轰炸机
-- 波音737
 - 空客A321 XLR
 - 空客A350
-- A380
 - 图-154M
-- U20
 project:
 - systems-thinking
 - historical-insights

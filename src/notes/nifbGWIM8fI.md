@@ -12,9 +12,6 @@ layout: post.njk
 people:
 - 宋晏仁
 - 孔子
-products_models:
-- 煥然一新大腦快樂學
-- '168'
 project:
 - personal-growth-lab
 - systems-thinking

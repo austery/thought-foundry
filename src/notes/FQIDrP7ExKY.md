@@ -16,13 +16,6 @@ media_books:
 people:
 - 李白
 - 苏东坡
-products_models:
-- 松罗茶
-- 仙人掌茶
-- 龙团凤饼
-- 建州贡茶
-- 阳羡茶
-- 顾渚紫笋
 project:
 - historical-insights
 - cultural-critique

@@ -5,9 +5,7 @@ companies_orgs:
 - New York Times
 - CIA
 - Taliban
-- Zero Unit
 - Department of Homeland Security
-- Customs and Border Protection
 - FBI
 - Wall Street Journal
 - NBC News
@@ -26,8 +24,6 @@ people:
 - Kash Patel
 - Nicholas Maduro
 - Mark Kelly
-products_models:
-- Operation Allies Welcome
 project:
 - us-analysis
 - geopolitics-watch

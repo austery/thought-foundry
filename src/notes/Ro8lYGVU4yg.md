@@ -2,11 +2,7 @@
 area: society-thinking
 category: philosophy-thinking
 companies_orgs:
-- Second City
-- SCTV
 - TVO
-- Matthew Perry Foundation
-- Toronto Argonauts
 date: '2025-11-19'
 draft: true
 guest: ''
@@ -17,12 +13,6 @@ media_books:
 people:
 - John Candy
 - Mike Myers
-products_models:
-- Friends
-- Planes, Trains and Automobiles
-- Uncle Buck
-- Home Alone
-- Cool Runnings
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=Ro8lYGVU4yg

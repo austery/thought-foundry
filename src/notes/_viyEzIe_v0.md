@@ -8,7 +8,6 @@ companies_orgs:
 - Goldman Sachs
 - NATO
 - European Union
-- Shanghai Cooperation Organization
 - BRICS
 - Hyundai
 - Volkswagen

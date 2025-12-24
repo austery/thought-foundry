@@ -2,14 +2,11 @@
 area: society-systems
 category: general
 companies_orgs:
-- 泽博律师事务所
 - 南方都市报
 - 凤凰卫视
 - 新华社
 - 腾讯
 - 大疆
-- 商汤科技
-- 江苏中烟
 - Boss直聘
 date: '2025-10-20'
 draft: true

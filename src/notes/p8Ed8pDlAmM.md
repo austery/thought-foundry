@@ -5,8 +5,6 @@ companies_orgs:
 - Oracle
 - Nvidia
 - Google
-- EPRI
-- National Grid
 date: '2025-12-12'
 draft: true
 guest: ''
@@ -14,8 +12,6 @@ insight: ''
 layout: post.njk
 media_books:
 - TED
-products_models:
-- Emerald Conductor
 project:
 - ai-impact-analysis
 - systems-thinking

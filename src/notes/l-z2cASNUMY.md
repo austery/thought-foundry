@@ -29,9 +29,6 @@ products_models:
 - Transformer
 - ChatGPT
 - Gemini
-- AltaVista
-- PageRank
-- BackRub
 - TPU
 - Waymo
 project:

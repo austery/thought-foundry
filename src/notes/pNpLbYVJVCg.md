@@ -30,8 +30,6 @@ people:
 - 李敖
 - 蒋介石
 - JD Vance
-products_models:
-- 《大而美法案》
 project:
 - us-analysis
 - geopolitics-watch

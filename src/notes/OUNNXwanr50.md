@@ -17,14 +17,9 @@ people:
 - Donald Trump
 - Joe Biden
 products_models:
-- WTI
 - S&P 500
 - Nasdaq
-- Dow Jones
-- DXY
 - VIX
-- Crackspread
-- EFA
 project:
 - investment-strategy
 - us-analysis

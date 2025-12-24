@@ -8,18 +8,11 @@ companies_orgs:
 - XAI
 - SpaceX
 - Neuralink
-- X Corp
-- California Department of Motor Vehicles
 - Uber
 - Waymo
-- Zoox
 - Intel
-- Columbia Business School
 - The Economist
 - Financial Times
-- LA Times
-- Quartz
-- Electric
 date: '2025-08-10'
 draft: true
 guest: ''
@@ -41,11 +34,7 @@ products_models:
 - Model Y
 - Model 2
 - Autopilot
-- Full Self-Driving
 - Hyperloop
-- Robo-taxi
-- Humanoid robots
-- Cybercabs
 project:
 - us-analysis
 - investment-strategy

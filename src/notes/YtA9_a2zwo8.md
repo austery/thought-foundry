@@ -10,8 +10,6 @@ layout: post.njk
 media_books:
 - 《解构爱情》
 - 金赛性学报告
-products_models:
-- Pairs
 project:
 - personal-growth-lab
 - historical-insights

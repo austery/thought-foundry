@@ -2,17 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 联合国人权高专办
-- 澳洲战略政策研究所
 - 中共
-- 法务部
-- 警察大学
 - 公安局
-- 高等人民法院
-- 检察院
-- 居委会
-- 村委会
-- 韶关血日玩具厂
 date: '2023-01-11'
 draft: true
 guest: ''

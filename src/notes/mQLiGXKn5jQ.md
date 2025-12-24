@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - ISIS
-- GD organizations
 date: '2023-09-08'
 draft: true
 guest: ''

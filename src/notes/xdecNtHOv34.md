@@ -2,11 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 中华人民共和国政府网
 - 新华网
-- 中国驻日本使馆
 - 哥伦比亚大学
-- 福布斯
 - 香港大学
 date: 2025-04-22
 draft: true
@@ -18,7 +15,8 @@ media_books:
 people:
 - 李鸿章
 - 伊藤博文
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - china-analysis
 - geopolitics-watch

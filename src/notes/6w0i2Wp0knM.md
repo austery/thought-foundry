@@ -17,10 +17,8 @@ media_books:
 products_models:
 - Gemini 3 Pro
 - Claude Opus 4.5
-- GPT-5.1 Codex
 - Lovable
 - Cursor
-- Claude code
 project:
 - ai-impact-analysis
 - systems-thinking

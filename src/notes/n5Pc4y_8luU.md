@@ -2,23 +2,14 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Noetic AI
-- Blackrock
-- Wachtell Lipton
 - T-Mobile
-- Sprint
-- Allergan
-- Actavis
 - Raytheon
 - Citibank
-- Revlon
 - McDonald's
 - First Brands
 - Blue Owl
 - Meta
 - JPMorgan
-- Frank
-- Superior Industries
 date: '2025-12-04'
 draft: true
 guest: ''
@@ -33,8 +24,6 @@ people:
 - Tracy Alloway
 - Jamie Dimon
 - Howard Marks
-products_models:
-- ChatGPT API
 project:
 - investment-strategy
 - ai-impact-analysis

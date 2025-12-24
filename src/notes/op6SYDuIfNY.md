@@ -12,7 +12,6 @@ people:
 - 庄也
 - Donald Trump
 products_models:
-- 泰诺
 - COVID抗原试剂
 - ChatGPT
 project:

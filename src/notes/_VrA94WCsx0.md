@@ -5,7 +5,6 @@ companies:
 - intellectual-responsibility
 companies_orgs:
 - 中央电视台
-- 检察院
 date: '2024-07-20'
 draft: true
 guest: ''

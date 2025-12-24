@@ -7,9 +7,6 @@ companies_orgs:
 - SpaceX
 - NASA
 - Blue Origin
-- Space Development Agency
-- Vast Space
-- ABL
 date: '2024-11-19'
 draft: true
 guest: ''
@@ -28,8 +25,6 @@ products_models:
 - Falcon 9
 - Starlink
 - New Glenn
-- RS1
-- Archimedes engine
 - Starship
 project:
 - us-analysis

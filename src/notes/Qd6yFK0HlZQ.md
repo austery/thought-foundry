@@ -4,13 +4,7 @@ category: geopolitics
 companies_orgs:
 - Kuomintang
 - Communist Party of China
-- Control Yuan
-- Bureau of Investigation and Statistics
-- Ministry of National Defense
-- U.S. Department of State
-- The China Lobby
 - People's Liberation Army
-- Anti-Independence and Pro-Unification Alliance
 date: '2025-11-12'
 draft: true
 guest: ''

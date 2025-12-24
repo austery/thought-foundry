@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Thoughtworks
 - AWS
 - Google Cloud
 - Anthropic
@@ -24,12 +23,7 @@ people:
 - Kent Beck
 - Daniel Kahneman
 products_models:
-- Dynamo
-- Cloud SQL
-- Redis
-- Lambda
 - Claude Code
-- ReSharper
 - Cursor
 project:
 - ai-impact-analysis

@@ -4,13 +4,7 @@ category: geopolitics
 companies_orgs:
 - 东京人文论坛
 - 中国同盟会
-- 黑龙会
-- 法政大学
 - 早稻田大学
-- 京都大学
-- 清朝政府
-- 文部省
-- 外务省
 - 朝日新闻
 date: '2025-06-26'
 draft: true

@@ -7,7 +7,6 @@ companies_orgs:
 - Spotify
 - Apple
 - 中央戏剧学院
-- Screen Actors Guild – American Federation of Television and Radio Artists
 date: '2025-03-08'
 draft: true
 guest: ''
@@ -31,8 +30,6 @@ people:
 - 鲁迅
 - Vladimir Putin
 products_models:
-- YouTube Music
-- Google Podcast
 - TikTok
 - Instagram
 - QQ空间

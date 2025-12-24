@@ -3,15 +3,9 @@ area: society-systems
 category: general
 companies_orgs:
 - Bloomberg
-- NYCHA
 - ICE
 - IRS
-- FDNY
-- ATF
 - FBI
-- HSI
-- ACS
-- Robin Hood Foundation
 date: '2025-07-18'
 draft: true
 guest: ''

@@ -12,10 +12,8 @@ layout: post.njk
 products_models:
 - Claude Code
 - Chrome
-- Playwright
 - React
 - Express
-- Swagger UI
 project:
 - ai-impact-analysis
 series: ''

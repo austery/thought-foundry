@@ -14,13 +14,6 @@ media_books:
 - 《庄野杂谈第151集》
 people:
 - Justin Trudeau
-products_models:
-- Pensionado Visa
-- 长期居留访客签证
-- 临时居民签证
-- Permanent Resident Visa
-- 黄金签证
-- 非盈利签证
 project:
 - geopolitics-watch
 - systems-thinking

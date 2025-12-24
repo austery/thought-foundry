@@ -2,10 +2,8 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- DX
 - Atlassian
 - Google
-- Dora
 - Microsoft
 - Dropbox
 - Morgan Stanley
@@ -23,12 +21,7 @@ media_books:
 - Dora space framework
 products_models:
 - AI
-- Genai
 - Bedrock
-- Fireworks AI
-- Spring Boot
-- Cobalt
-- Pearl
 project:
 - ai-impact-analysis
 series: ''

@@ -27,7 +27,6 @@ products_models:
 - GPT-4
 - GPT-3.5
 - TensorFlow
-- Emacs
 project:
 - ai-impact-analysis
 - systems-thinking

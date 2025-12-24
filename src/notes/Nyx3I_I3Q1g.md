@@ -3,16 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - FBI
-- 迈阿密热火队
-- 夏洛特黄蜂队
-- 克利夫兰骑士队
-- 波特兰开拓者队
-- 芝加哥公牛队
-- 多伦多猛龙队
-- 华盛顿奇才队
-- 底特律活塞队
-- 洛杉矶湖人队
-- 洛杉矶快船队
 - NBA
 - FanDuel
 date: '2025-10-28'

@@ -5,17 +5,13 @@ companies_orgs:
 - Anthropic
 - OpenAI
 - DeepMind
-- Future House
 - Tsinghua University
 - DeepSeek
 - Scale AI
 - NVIDIA
-- LeetCode
 - Meta
 - Apollo
-- METR
 - Y Combinator
-- Goodfire
 - TSMC
 - Apple
 date: '2025-05-22'
@@ -50,10 +46,8 @@ people:
 - Andy Jones
 products_models:
 - Claude
-- ClaudePlaysPokemon
 - GPT-4
 - Claude Code
-- Claude 3 Sonnet
 - Llama
 - Qwen
 - AlphaGo
@@ -62,16 +56,10 @@ products_models:
 - Grok
 - Codex
 - Cursor
-- Windsurf
 - H100
 - H800
 - Transformer
-- DeepSeek v2
-- DeepSeek v3
 - TurboTax
-- AIME
-- Hendrycks MATH
-- FrontierMath
 project:
 - ai-impact-analysis
 series: ''

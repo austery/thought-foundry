@@ -7,8 +7,6 @@ companies_orgs:
 - Federal Trade Commission
 - Congress
 - Netflix
-- Warner Brothers Discovery
-- Writers Guild of America
 date: '2025-12-08'
 draft: true
 guest: ''
@@ -23,9 +21,6 @@ people:
 products_models:
 - Obamacare
 - HBO Max
-- Looney Tunes
-- The Wizard of Oz
-- Harry Potter
 project:
 - us-analysis
 - geopolitics-watch

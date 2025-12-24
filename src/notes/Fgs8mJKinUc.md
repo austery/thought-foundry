@@ -3,9 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 美国国务院
-- 国土安全部
-- 休斯顿大学
-- 全国犯罪信息中心
 date: 2025-05-10
 draft: true
 guest: ''
@@ -15,7 +12,8 @@ media_books: '[]'
 people:
 - Donald Trump
 - Rubio
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

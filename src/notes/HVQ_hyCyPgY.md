@@ -3,15 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - The New York Times
-- The Examination
-- AutoZone
 - Home Depot
 - Walmart
-- True Metals
-- Trafigura
-- East Penn
-- Battery Council International
-- Transportation Security Administration
 date: '2025-12-02'
 draft: true
 guest: ''
@@ -22,8 +15,6 @@ media_books:
 people:
 - Rachel Abrams
 - Peter Goodman
-products_models:
-- Real ID
 project:
 - us-analysis
 - systems-thinking

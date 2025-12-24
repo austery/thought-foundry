@@ -2,10 +2,8 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Taiwan Semiconductor Manufacturing Corp.
 - TSMC
 - OpenAI
-- US Coast Guard
 date: '2025-12-22'
 draft: true
 guest: ''
@@ -19,7 +17,6 @@ people:
 - Nicholas Maduro
 products_models:
 - iPhone
-- computer chips
 project:
 - ai-impact-analysis
 series: ''

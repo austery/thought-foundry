@@ -6,12 +6,6 @@ companies_orgs:
 - Meta
 - Nvidia
 - OpenAI
-- 香港房屋委员会
-- 巴拿马运河管理局
-- 香港长江河际实业有限公司
-- 美国黑石集团
-- 中原海运港口有限公司
-- 东方海外货柜航运公司
 - PSA国际港务集团
 date: '2025-11-26'
 draft: true
@@ -37,8 +31,6 @@ people:
 - 李家超
 - 毛宁
 - Paul Krugman
-products_models:
-- 战斧导弹
 project:
 - china-analysis
 - us-analysis

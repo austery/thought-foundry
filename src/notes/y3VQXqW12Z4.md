@@ -2,17 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 荷兰东印度公司
-- 英国东印度公司
 - Alibaba
 - 蚂蚁集团
 - 腾讯
 - 中石油
-- 人民公社
-- 国资委
-- 中国互联网投资基金
-- 社保基金
-- 汇金公司
 date: '2025-06-08'
 draft: true
 guest: ''

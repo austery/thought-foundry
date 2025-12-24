@@ -4,21 +4,13 @@ category: geopolitics
 companies_orgs:
 - TVO Today
 - Wilson Foundation
-- Canada China Business Council
-- NEO
-- Asia-Pacific Foundation of Canada
 - University of Toronto
-- China Governance Lab
-- Monk School
-- Progressive Conservative Party of Canada
 - Chinese Communist Party
 - Xiaomi
 - World Trade Organization
 - United Nations
 - Globe and Mail
-- The Star
 - ISIS
-- The Wire China
 date: '2025-12-13'
 draft: true
 guest: ''
@@ -39,10 +31,6 @@ people:
 - Bob Rae
 - Zach
 products_models:
-- EVs
-- CPTPP
-- ASEAN
-- CETA
 - USMCA
 project:
 - china-analysis

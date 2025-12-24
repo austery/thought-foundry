@@ -4,7 +4,6 @@ category: lifestyle
 companies_orgs:
 - 初日醫學
 - Cofit
-- 糖尿病卫教协会
 - 澳洲Life国际公益组织
 date: '2025-12-03'
 draft: true
@@ -14,7 +13,6 @@ layout: post.njk
 people:
 - 宋晏仁
 products_models:
-- 133餐盘
 - 211餐盘
 - GLP-1
 project:

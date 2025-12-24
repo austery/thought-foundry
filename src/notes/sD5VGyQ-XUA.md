@@ -4,7 +4,6 @@ category: lifestyle
 companies_orgs:
 - Canadian Pacific Railway
 - Parks Canada
-- Atlantic Telegraph Company
 date: '2023-09-01'
 draft: true
 guest: ''

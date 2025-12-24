@@ -3,19 +3,13 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 麻省理工学院
-- 亚里桑那大学
-- Current Affairs
 - 耶鲁大学
 - 哈佛大学
 - 纽约时报
 - 华盛顿邮报
 - 北约
 - 联合国
-- 卡托研究所
 - 国际特赦组织
-- 人权观察组织
-- 大西洋理事会
-- 美国传统基金会
 - 华尔街日报
 date: '2025-08-21'
 draft: true

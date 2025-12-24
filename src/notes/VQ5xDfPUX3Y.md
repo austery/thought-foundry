@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - The Wall Street Journal
 - 哈马斯
-- 真主党
-- 伊朗革命卫队
 date: 2025-06-28
 draft: true
 guest: ''
@@ -23,7 +21,8 @@ people:
 - 内塔尼亚胡
 - 亚里士多德
 - Donald Trump
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - geopolitics-watch
 - historical-insights

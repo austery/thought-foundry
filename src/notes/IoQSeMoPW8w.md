@@ -2,15 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 普林斯顿大学
 - 美国国务院
 - 白宫
-- 伊朗外交部
-- 伊朗伊斯兰革命卫队
-- 伊朗情报部
-- 美国国家安全委员会
-- 伊朗伊斯兰革命法庭
-- 瑞士大使馆
 - FBI
 date: '2024-05-18'
 draft: true

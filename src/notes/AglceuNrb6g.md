@@ -2,17 +2,7 @@
 area: finance-wealth
 category: crypto
 companies_orgs:
-- 最佳拍档
-- 华文映像
-- 金鹿财行
-- 当天财富
-- 财神爷爷
-- 派拉蒙影业
-- 棉花俱乐部
-- 红岩影业
-- 1MDB
 - BSI 银行
-- Mahadev
 date: '2025-12-20'
 draft: true
 guest: ''

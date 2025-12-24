@@ -2,15 +2,9 @@
 area: tech-insights
 category: business
 companies_orgs:
-- Kong
-- Mashape
 - a16z
-- United
 - Stanford
 - YouTube
-- NEA
-- Index Ventures
-- CRV
 - Amazon
 - Google
 - Expedia
@@ -18,7 +12,6 @@ companies_orgs:
 - Uber
 - Duolingo
 - Anthropic
-- Looped
 date: '2025-10-21'
 draft: true
 guest: ''
@@ -35,10 +28,8 @@ people:
 - Eric Schmidt
 products_models:
 - AWS
-- Kong API Gateway
 - Cursor
 - LLMs
-- O1 Visa
 project:
 - entrepreneurship
 - ai-impact-analysis

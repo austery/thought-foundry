@@ -2,21 +2,14 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- US Labor Department
 - Federal Reserve
 - Hamas
 - KMT
-- DPP
 - Fox News
 - Xinhua News Agency
 - Standard Chartered Bank
-- Eurasia Group
 - Google
-- ChatGPT
-- Grok
-- Huahong Semiconductor
 - SMIC
-- Ubtech Robotics
 date: '2025-10-19'
 draft: true
 guest: ''

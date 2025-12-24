@@ -2,16 +2,9 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- United Arab Emirates
-- Global Organisation of Parliamentarians Against Corruption
-- Munk School of Global Affairs
 - Saudi Arabia
-- Sweden
 - Russia
-- Ukraine
-- Germany
 - United States
-- Moderate Party
 date: '2025-12-02'
 draft: true
 guest: ''

@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- 纽约联储
 - OKLO
 - NVIDIA
 - AMD

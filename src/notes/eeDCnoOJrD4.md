@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - European Union
 - NATO
-- Sumy State University
 date: '2025-08-20'
 draft: true
 guest: ''

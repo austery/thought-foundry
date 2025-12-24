@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: geopolitics
-companies_orgs:
-- bank-of-america
 date: '2025-07-17'
 draft: true
 guest: ''

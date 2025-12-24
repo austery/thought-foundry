@@ -2,9 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 内蒙古大学
 - 北京大学
-- 香港中文大学
 date: '2025-03-13'
 draft: true
 guest: ''

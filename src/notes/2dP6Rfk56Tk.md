@@ -3,8 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - New York Times
-- Interpol
-- Tiffany's
 - White House
 - Hamas
 date: '2025-10-22'

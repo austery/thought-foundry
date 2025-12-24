@@ -4,13 +4,8 @@ category: business
 companies_orgs:
 - Palantir
 - BP
-- 美国德州公共安全部
-- Andretti
 - American Airlines
-- The Nuclear Company
 - Novartis
-- HSS
-- Lear
 - 富士康
 date: '2025-09-10'
 draft: true
@@ -20,7 +15,6 @@ layout: post.njk
 products_models:
 - AIP
 - Ontology
-- Race OS
 project:
 - investment-strategy
 - ai-impact-analysis

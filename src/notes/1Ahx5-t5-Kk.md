@@ -3,19 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - TVO Today
-- Royal Ontario Museum
-- Trillium
-- Social Equality and Inclusion Centre
-- Ontario Provincial Police
-- Toronto Star
-- Metrolinx
-- Landlord and Tenant Board
-- City of Toronto
 - New Democratic Party
 - Progressive Conservative Party
-- Build Ontario fund
-- Municipal Licensing and Standards
-- Judicial Committee of the Privy Council
 date: '2025-11-21'
 draft: true
 guest: ''
@@ -44,12 +33,7 @@ people:
 - Pierre Trudeau
 - John Turner
 products_models:
-- GO Transit
 - Bill 33
-- Bill 60
-- Bill 27
-- Bill 46
-- Bill 68
 project:
 - geopolitics-watch
 - historical-insights

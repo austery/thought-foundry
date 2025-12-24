@@ -3,7 +3,6 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - 初日診所
-- 超全能診所
 - Cofit
 date: '2025-11-03'
 draft: true
@@ -13,8 +12,6 @@ layout: post.njk
 media_books:
 - 《Cell》期刊
 - 《万万黴想到》
-products_models:
-- 降黴十八香
 project:
 - personal-growth-lab
 - systems-thinking

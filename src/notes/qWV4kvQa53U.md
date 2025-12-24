@@ -6,7 +6,6 @@ companies_orgs:
 - 共和党
 - 民主党
 - 美国最高法院
-- 美国律师协会
 date: 2025-03-26
 draft: true
 guest: ''
@@ -21,7 +20,8 @@ people:
 - John F. Kennedy
 - Ronald Reagan
 - Barack Obama
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - historical-insights

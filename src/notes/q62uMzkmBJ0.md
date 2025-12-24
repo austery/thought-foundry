@@ -4,15 +4,8 @@ category: geopolitics
 companies:
 - rare-metal
 companies_orgs:
-- Molycorp
-- 罗纳普朗克
-- ADME
-- Magnequench
 - 通用汽车
 - 美国国防部
-- 诺斯罗普·格鲁曼
-- 霍尼韦尔
-- 绿色和平组织
 date: '2025-11-06'
 draft: true
 guest: ''
@@ -24,7 +17,6 @@ people:
 - Okabe教授
 products_models:
 - JDAM智能炸弹
-- 埃布拉姆斯主战坦克
 - F35 闪电2隐形战斗机
 project:
 - china-analysis

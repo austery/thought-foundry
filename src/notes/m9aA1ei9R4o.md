@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Numora
 - Bloomberg
 date: '2025-07-03'
 draft: true
@@ -18,8 +17,6 @@ people:
 - Jerome Powell
 - Donald Trump
 products_models:
-- Odd Lots Podcast
-- VIX index
 - NASDAQ
 - S&P
 project:

@@ -2,7 +2,6 @@
 area: market-analysis
 category: geopolitics
 companies_orgs:
-- 中国央企
 - Circle
 - G7
 date: '2025-07-05'
@@ -17,16 +16,7 @@ media_books:
 people:
 - 李家超
 products_models:
-- 港币
-- 离岸人民币
-- 欧元
-- 日元
-- 加元
-- 澳元
-- 美元
 - 稳定币
-- 联系汇率
-- 国安法
 project:
 - china-analysis
 - geopolitics-watch

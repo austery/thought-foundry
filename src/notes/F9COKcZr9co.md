@@ -4,9 +4,6 @@ category: business
 companies_orgs:
 - Norges Bank Investment Management
 - IKEA
-- Yara
-- H&M
-- Volvo Museum
 date: '2025-06-04'
 draft: true
 guest: ''
@@ -18,12 +15,6 @@ media_books:
 - omnichannel-retail
 people:
 - Nicola Tangen
-products_models:
-- Levette
-- Billy
-- Klippan
-- Poäng
-- PAX
 project:
 - entrepreneurship
 - systems-thinking

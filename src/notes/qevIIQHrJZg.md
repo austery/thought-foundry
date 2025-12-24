@@ -3,15 +3,11 @@ area: tech-insights
 category: technology
 companies_orgs:
 - NASA
-- Morning Brew
 date: '2021-04-16'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Mars InSight mission
-- laryngoscope
 project:
 - systems-thinking
 - historical-insights

@@ -1,11 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- Landlord and Tenant Board
-- 省租户权益倡导中心
-- 法律援助组织
-- 安省小业主房东联盟
 date: '2025-12-07'
 draft: true
 guest: ''

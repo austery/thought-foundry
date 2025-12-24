@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 赆明会
-- 广东人民出版社
-- 万有引力
 date: '2025-04-04'
 draft: true
 guest: ''

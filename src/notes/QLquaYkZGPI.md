@@ -2,21 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 夸克说
-- 鞍山钢铁厂
-- 海尔
-- 正泰集团
 - 新华社
-- 荷兰阿姆斯特丹的证券交易所
-- 剑桥出版
-- 英国政府
 - 共产党
 - 央行
 - 国务院
-- 地方政府
-- 城投平台
-- 乡政府
-- 水务局
 date: '2025-12-12'
 draft: true
 guest: ''

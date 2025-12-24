@@ -2,8 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Eastman Kodak Company
-- Mason and Hanger
 - FDA
 - US military
 date: '2025-01-28'
@@ -11,9 +9,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Eastman 910 Adhesive
-- Dermabond
 project:
 - historical-insights
 - systems-thinking

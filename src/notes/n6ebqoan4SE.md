@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Roots of Progress Institute
 - Big Think
 date: '2025-11-17'
 draft: true
@@ -15,8 +14,6 @@ people:
 - Francis Bacon
 - Rousseau
 - Isaac Newton
-products_models:
-- Gutenberg movable type printing press
 project:
 - historical-insights
 - systems-thinking

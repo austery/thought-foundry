@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - Boeing
-- Chernobyl nuclear plant
 - TED
 date: '2025-10-29'
 draft: true
@@ -12,8 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Amy Edmondson
-products_models:
-- 737 Max
 project:
 - systems-thinking
 - personal-growth-lab

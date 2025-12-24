@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: science
-companies_orgs:
-- 耶魯大學
-- 諾和諾德
-- 禮來公司
 date: '2025-11-25'
 draft: true
 guest: ''
@@ -13,18 +9,9 @@ layout: post.njk
 media_books:
 - 《JAMA Neurology》
 products_models:
-- 芥子氣
-- 氮芥
-- 烷化劑
-- 分子標靶藥物
 - GLP-1
-- Exendin-4
-- Liraglutide
-- Semaglutide
 - Tirzepatide
-- GIP
 - DDP4抑制劑
-- sulfonylurea
 project:
 - historical-insights
 - systems-thinking

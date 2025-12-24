@@ -2,10 +2,7 @@
 area: society-systems
 category: general
 companies_orgs:
-- 工信部
 - 发改委
-- 中央政治局
-- 中央经济工作会议
 date: '2025-12-12'
 draft: true
 guest: ''

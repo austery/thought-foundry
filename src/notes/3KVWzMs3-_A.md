@@ -3,17 +3,13 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Nvidia
-- Chat GPT
 - Qualcomm
 - Marvell Technology
 - European Union
 - Kremlin
 - White House
-- 住建部
-- 新陈公司
 - 惠誉
 - 中共中央
-- 胡赵基金
 date: '2025-11-20'
 draft: true
 guest: ''

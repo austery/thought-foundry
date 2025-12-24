@@ -3,8 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - 伯克希尔·哈撒韦
-- 好市多
-- 喜诗糖果
 date: '2025-09-28'
 draft: true
 guest: ''
@@ -16,8 +14,6 @@ people:
 - 比尔·盖茨
 - 段永平
 - 孔子
-products_models:
-- Metapro
 project:
 - investment-strategy
 - systems-thinking

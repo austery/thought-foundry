@@ -6,8 +6,6 @@ companies_orgs:
 - CDC
 - White House
 - Pentagon
-- Seal Team 6
-- Library of Congress
 date: '2025-12-04'
 draft: true
 guest: ''

@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 维基百科
 - 复旦大学
 date: '2025-11-07'
 draft: true

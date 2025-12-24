@@ -2,10 +2,7 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Railway
 - GitHub
-- Open Code
-- Cloud Code
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -13,9 +10,6 @@ insight: ''
 layout: post.njk
 products_models:
 - PostgreSQL
-- Bun
-- Docker
-- Ingest
 project:
 - ai-impact-analysis
 - systems-thinking

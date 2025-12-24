@@ -4,8 +4,6 @@ category: psychology
 companies:
 - psychopathy
 companies_orgs:
-- Georgetown University
-- Society for the Prevention of Disorders of Aggression
 - TED
 date: '2025-12-03'
 draft: true

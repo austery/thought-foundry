@@ -5,7 +5,6 @@ companies_orgs:
 - FBI
 - DEA
 - 美国国土安全部
-- 移民与海关执法局
 date: 2025-05-02
 draft: true
 guest: ''
@@ -15,7 +14,8 @@ media_books: '[]'
 people:
 - Donald Trump
 - Joe Biden
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

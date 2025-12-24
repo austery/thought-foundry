@@ -2,16 +2,12 @@
 area: society-systems
 category: general
 companies_orgs:
-- Caral Group
 - White House
 - JP Morgan
-- Bank One
 - Apple
-- Next
 - SpaceX
 - Harvard Business School
 - Bloomberg
-- Council for Foreign Relations
 - University of Chicago
 date: '2025-12-10'
 draft: true

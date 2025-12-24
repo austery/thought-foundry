@@ -3,7 +3,6 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - 伯克希尔·哈撒韦
-- 步步高集团
 - 网易
 - 苹果
 - 贵州茅台

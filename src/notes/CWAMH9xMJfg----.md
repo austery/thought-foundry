@@ -1,8 +1,6 @@
 ---
 area: market-analysis
 category: business
-companies_orgs:
-- databricks
 date: '2025-10-15'
 draft: true
 guest: ''

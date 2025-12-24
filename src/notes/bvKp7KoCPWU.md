@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: culture
-companies_orgs:
-- 立顿
 date: '2024-06-28'
 draft: true
 guest: ''

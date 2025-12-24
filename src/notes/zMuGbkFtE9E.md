@@ -2,8 +2,6 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Rocket
-- Salesforce Ventures
 - Accel
 - Google
 - Microsoft
@@ -22,7 +20,6 @@ products_models:
 - GitHub Copilot
 - Cursor
 - Siri
-- CarPlay
 project:
 - entrepreneurship
 - ai-impact-analysis

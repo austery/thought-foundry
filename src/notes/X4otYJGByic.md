@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - ISIS
-- Al-Qaeda
 date: '2023-08-17'
 draft: true
 guest: ''

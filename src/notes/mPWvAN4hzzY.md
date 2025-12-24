@@ -1,21 +1,12 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- PyTorch
 date: '2025-11-14'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Adagrad
-- RMSprop
-- Adam
-- AdamW
-- CNN
-- MLP
-- SVM
 - BERT
 project:
 - ai-impact-analysis

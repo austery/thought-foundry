@@ -2,7 +2,6 @@
 area: finance-wealth
 category: macro-economy
 companies_orgs:
-- Cox Automotive
 - Bloomberg
 - Federal Reserve
 - Atlanta Fed
@@ -19,7 +18,6 @@ people:
 - Jerome Powell
 products_models:
 - TikTok
-- SLR
 project:
 - us-analysis
 - investment-strategy

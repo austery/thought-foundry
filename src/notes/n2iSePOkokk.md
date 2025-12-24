@@ -7,7 +7,6 @@ companies_orgs:
 - Google
 - SAP
 - Tesla
-- Vanguard Group
 - CrowdStrike
 - Polymarket
 date: '2024-08-05'

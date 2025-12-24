@@ -2,9 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 营造学社
 - 清华大学
-- 宾夕法尼亚大学
 date: '2024-06-10'
 draft: true
 guest: ''

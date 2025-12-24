@@ -2,12 +2,7 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- Flock Safety
-- LAPD
-- Morrisville Police Department
 - Lowe's
-- Hope for Prisoners
-- Delancey Street Restaurant
 date: '2025-12-17'
 draft: true
 guest: ''
@@ -17,7 +12,6 @@ people:
 - Ben Horowitz
 products_models:
 - Cybertruck
-- Nova
 project:
 - ai-impact-analysis
 series: ''

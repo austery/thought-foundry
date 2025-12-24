@@ -3,7 +3,6 @@ area: life-family
 category: family-relations
 companies_orgs:
 - TED
-- South Dakota
 date: '2025-11-22'
 draft: true
 guest: ''
@@ -12,12 +11,6 @@ layout: post.njk
 media_books:
 - video-game
 products_models:
-- Fortnite
-- Diddy Kong Racing
-- Halo
-- Mario Kart
-- Rocket League
-- Nintendo 64
 - Minecraft
 project:
 - personal-growth-lab

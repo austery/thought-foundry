@@ -15,7 +15,6 @@ companies_orgs:
 - Intel
 - Goldman Sachs
 - Vanguard
-- Adobe Analytics
 - Salesforce
 - Chipotle
 - Starbucks

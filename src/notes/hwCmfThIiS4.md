@@ -4,7 +4,6 @@ category: technology
 companies_orgs:
 - AWS
 - Hugging Face
-- Ollama
 date: '2025-12-06'
 draft: true
 guest: ''
@@ -16,10 +15,7 @@ media_books:
 people:
 - Simon
 products_models:
-- PaLI
-- Strands Agent
 - Bedrock
-- Claude Sonnet 3.7
 - Claude Sonnet 4
 project:
 - ai-impact-analysis

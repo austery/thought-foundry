@@ -18,8 +18,6 @@ people:
 - Derek Muller
 - Stephen Hawking
 - Mr. Beast
-products_models:
-- ContentID
 project:
 - systems-thinking
 - entrepreneurship

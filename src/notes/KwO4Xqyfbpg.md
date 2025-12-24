@@ -3,8 +3,6 @@ area: society-systems
 category: general
 companies:
 - intellectual-elite
-companies_orgs:
-- 燕京书评
 date: 2025-03-14
 draft: true
 guest: ''
@@ -18,7 +16,8 @@ people:
 - 孔子
 - 罗素
 - 毛主席
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - personal-growth-lab
 - systems-thinking

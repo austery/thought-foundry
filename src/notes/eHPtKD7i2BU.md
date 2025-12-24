@@ -3,10 +3,6 @@ area: personal-systems
 category: general
 companies_orgs:
 - Wirecutter
-- Offerman Wood Shop
-- University of Illinois
-- Cranert Center
-- Lee Nielsen Hand Planes
 - Home Depot
 - Nike
 - New York Times Podcasts
@@ -34,8 +30,6 @@ people:
 - Diane Wong
 - Cliff Levy
 products_models:
-- Estwing hammer
-- Laguna bandsaw
 - iPhone
 project:
 - personal-growth-lab

@@ -3,8 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - New York Times
-- Pacific Oasis
-- Forest Service
 - National Guard
 date: '2025-10-28'
 draft: true

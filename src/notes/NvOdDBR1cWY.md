@@ -3,39 +3,25 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Palantir
-- Bobcat Gang
 - Nvidia
 - OpenAI
 - Microsoft
 - Apple
 - Siemens
-- HD Hyundai
-- Blue Forge Alliance
 - Accenture
-- Citron
 - SEC
 - Fannie Mae
-- Tyson Foods
 - Cisco
 - US Army
 - US Navy
 - US Air Force
-- US Space Force
-- Department of War
-- Defense Intelligence System Agency (DISA)
-- Stratcom
 - NATO
 - DARPA
-- L3Harris
 - Raytheon
 - Booz Allen Hamilton
-- General Dynamics
 - Anduril
 - Reuters
 - IRS
-- VA
-- State Department
-- Bravo One
 date: '2025-11-09'
 draft: true
 guest: ''
@@ -53,21 +39,12 @@ people:
 products_models:
 - Foundry
 - Apollo
-- Aegis
-- Maven Smart System
-- Gaia
 - Maverick
-- Army Intelligence Data Platform (AIDP)
-- Titan
-- NGC2 (Next Generation Command and Control)
 - Vantage
-- Skywise
-- Oceanwise
 - ChatGPT
 - Grok
 - Claude
 - Optimus
-- Figure
 project:
 - us-analysis
 - investment-strategy

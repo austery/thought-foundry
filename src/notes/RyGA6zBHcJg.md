@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Rational Software
 - HP
 - IBM
 - Microsoft
@@ -20,12 +19,6 @@ people:
 products_models:
 - UML
 - RUP
-- Waterfall
-- Agile
-- Mermaid
-- Visual Paradigm
-- Enterprise Architect
-- Pentium CPU
 project:
 - historical-insights
 - systems-thinking

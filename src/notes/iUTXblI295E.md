@@ -7,7 +7,6 @@ companies_orgs:
 - Blue Origin
 - Lockheed Martin
 - Boeing
-- OneWeb
 - Amazon
 - Fox News
 - CNN
@@ -27,19 +26,10 @@ people:
 products_models:
 - Starship
 - Starlink
-- Artemis III
-- Orion spacecraft
-- Human Landing System (HLS)
 - Saturn V
 - Apollo
-- Challenger
 - Galileo
-- Hubble
-- Webb Space Telescope
-- Curiosity
-- Perseverance
 - Cosmos
-- Pale Blue Dot
 project:
 - us-analysis
 - china-analysis

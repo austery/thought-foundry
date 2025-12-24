@@ -5,8 +5,6 @@ companies_orgs:
 - 娃哈哈
 - 农夫山泉
 - 汇丰银行
-- 金号投资
-- Fistra
 - 中国共产党
 date: '2025-11-07'
 draft: true

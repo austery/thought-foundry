@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 哈佛大学
-- 麻省理工
-- 斯坦福
 - QS排行榜
 - 公安部门
 date: '2025-06-07'

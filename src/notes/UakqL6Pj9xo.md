@@ -5,11 +5,7 @@ companies_orgs:
 - Google
 - Zapier
 - OpenAI
-- Amazon Mechanical Turk
 - GitHub
-- Kaggle
-- Epoch AI
-- Scale
 date: '2024-06-11'
 draft: true
 guest: ''
@@ -21,7 +17,6 @@ people:
 - Nat Friedman
 - Trenton Bricken
 products_models:
-- Keras
 - GPT-4
 - GPT-5
 - Gemini 1.5
@@ -30,7 +25,6 @@ products_models:
 - GPT-4o
 - Mistral
 - Llama
-- NVIDIA Tesla P100
 - H100
 - ChatGPT
 project:

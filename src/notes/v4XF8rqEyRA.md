@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - TED
 - Netflix
-- La Liste
 date: '2025-11-09'
 draft: true
 guest: ''

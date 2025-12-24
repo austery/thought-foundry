@@ -4,17 +4,7 @@ category: geopolitics
 companies_orgs:
 - TVO
 - Wilson Foundation
-- Chamber of Commerce
-- Power Group
-- Snowbird Advisor
-- Snowbird Advisor Insurance
-- US Travel Association
-- Pittsburgh Pirates
 - Toronto Blue Jays
-- LA Dodgers
-- U.S. Immigration and Customs Enforcement (ICE)
-- US Citizenship and Immigration Services
-- US Customs and Border Patrol (CBP)
 date: 2025-10-31
 draft: true
 guest: ''
@@ -30,9 +20,6 @@ people:
 - Gavin Newsom
 - Ronald Reagan
 - Doug Ford
-products_models:
-- Nexus Card
-- I-94 Form
 project:
 - us-analysis
 - geopolitics-watch

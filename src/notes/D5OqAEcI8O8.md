@@ -6,7 +6,6 @@ companies_orgs:
 - Google
 - OpenAI
 - Alibaba
-- Foxconn Industrial Internet
 - Xiaomi
 - JPMorgan Chase
 - MicroStrategy
@@ -14,7 +13,6 @@ companies_orgs:
 - Citi
 - Federal Reserve
 - US Treasury
-- 中国科学院国家空间科学中心
 - MSCI
 date: '2025-11-24'
 draft: true
@@ -37,7 +35,6 @@ people:
 - 贝森特
 products_models:
 - H200
-- 灵光
 - 千问APP
 - ChatGPT
 - XAI

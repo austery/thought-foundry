@@ -5,8 +5,6 @@ category: technology
 channel: https://www.youtube.com/@101.school
 companies:
 - google-chrome
-companies_orgs:
-- perplexity
 created: 2025-08-29T16:34
 date: 2025-08-29
 draft: true

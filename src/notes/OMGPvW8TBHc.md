@@ -2,12 +2,9 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Haize Labs
 - Air Canada
 - Character AI
-- Chevy
 - Deepseek
-- Frontier Labs
 date: '2025-08-22'
 draft: true
 guest: ''
@@ -16,14 +13,7 @@ layout: post.njk
 products_models:
 - ChatGPT
 - Llama 3
-- Cloud3 Opus
-- GPT-4o mini
 - GPT-4
-- GPT-3.5 Sonnets
-- J1 micro
-- 01 mini
-- 03 mini
-- Verdict
 project:
 - ai-impact-analysis
 - systems-thinking

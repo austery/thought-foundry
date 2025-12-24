@@ -15,7 +15,6 @@ people:
 products_models:
 - GPT-4
 - Claude Code
-- Claude 4 Opus
 - Gemini 2.5
 project:
 - ai-impact-analysis

@@ -9,7 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Gemini 3 Flash
 - GPT-4 Turbo
 - Claude 4.5
 - GPT-4

@@ -6,9 +6,7 @@ companies_orgs:
 - Federal Reserve
 - European Central Bank
 - Bank of England
-- Central Bank of Norway
 - Alibaba
-- American Economic Association
 - International Monetary Fund
 - Congressional Budget Office
 date: '2025-04-23'
@@ -40,8 +38,6 @@ people:
 - Vladimir Putin
 - Kamala Harris
 - Vinod Khosla
-products_models:
-- Inflation Reduction Act
 project:
 - us-analysis
 - china-analysis

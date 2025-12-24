@@ -22,7 +22,6 @@ companies_orgs:
 - AMD
 - Micron
 - Berkshire Hathaway
-- Streamyard
 - Harvard University
 date: '2025-11-18'
 draft: true

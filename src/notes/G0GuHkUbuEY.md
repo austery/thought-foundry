@@ -6,9 +6,6 @@ companies_orgs:
 - 美联储
 - 波音
 - 麻省理工学院
-- 劳工统计局
-- 旧金山联储
-- Strategus Research
 date: '2025-12-22'
 draft: true
 guest: ''

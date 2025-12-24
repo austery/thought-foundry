@@ -6,19 +6,11 @@ companies_orgs:
 - Amazon
 - Amazon Prime
 - Disney
-- Hulu
 - HBO
-- Hasbro
 - Mattel
 - Apple
-- iQiyi
 - NASDAQ
-- 新片场
-- 优爱腾
-- 讲谈社
-- KBS
 - 央视
-- 宝莱坞
 - 笑果文化
 date: '2025-01-26'
 draft: true

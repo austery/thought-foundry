@@ -10,7 +10,6 @@ companies_orgs:
 - Tencent
 - Alibaba
 - Baidu
-- Lenovo Group
 - iRobot
 - Standard Chartered Bank
 - Nasdaq
@@ -30,8 +29,6 @@ people:
 - Lisa Su
 products_models:
 - GPT-4
-- NIM
-- PLTR
 project:
 - ai-impact-analysis
 series: ''

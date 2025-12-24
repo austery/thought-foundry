@@ -3,11 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 联合国
-- 俄罗斯国防部
-- 瓦格纳集团
 - 凤凰卫视
 - BBC
-- Important Stories
 date: '2025-03-15'
 draft: true
 guest: ''

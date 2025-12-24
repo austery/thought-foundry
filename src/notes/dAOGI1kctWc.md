@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 慧科新闻数据库
 date: '2024-07-09'
 draft: true
 guest: ''

@@ -4,16 +4,12 @@ category: technology
 companies:
 - steel-metallurgy
 companies_orgs:
-- Victoria Albert Museum
 - Henson Shaving
 date: '2024-03-21'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Katana
-- AL-13 razor
 project:
 - historical-insights
 series: ''

@@ -2,22 +2,7 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 鸿福院
-- 红叶建筑有限公司
-- 劳工处
-- 房屋署独立审查组
-- 消防处
-- 廉政公署
 - 新华社
-- 知乎
-- 热度新闻
-- 第一财经
-- 香港国安处
-- 驻港安全公署
-- 山东程旭化纤神网有限公司
-- 竹叶委员会
-- HOKLAS
-- CNAS
 date: '2025-12-03'
 draft: true
 guest: ''
@@ -33,9 +18,6 @@ media_books:
 people:
 - 李文亮
 - Xi Jinping
-products_models:
-- 聚氨酯发泡胶
-- PVC
 project:
 - china-analysis
 - geopolitics-watch

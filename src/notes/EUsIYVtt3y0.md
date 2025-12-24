@@ -10,15 +10,11 @@ companies_orgs:
 - 腾讯
 - Alibaba
 - LMSYS团队
-- 加州大学伯克利
 - 斯坦福大学
 - Nvidia
 - Cohere
-- Arena Intelligence Inc.
 - a16z
-- UC Investments
 - Lightspeed
-- Nof1
 date: 2025-10-31
 draft: true
 guest: ''
@@ -36,15 +32,10 @@ products_models:
 - Gemini
 - Grok
 - Nano Banana
-- Gemini 3.0 Pro
-- Gemini 3.0 Flash
-- Vicuna
-- Alpaca
 - GPT-3.5
 - GPT-4
 - GPT-4o
 - Mistral
-- Llama 4 Maverick
 project:
 - ai-impact-analysis
 - systems-thinking

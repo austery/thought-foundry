@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Tesla
-- Solarcity
 - Waymo
 - Uber
 - 滴滴
@@ -23,7 +22,6 @@ products_models:
 - Model 3
 - Cybertruck
 - Powerwall
-- Powerpack
 - Megapack
 - FSD
 project:

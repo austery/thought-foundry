@@ -4,9 +4,7 @@ category: technology
 companies_orgs:
 - Anthropic
 - Cadence
-- Browserbase
 - Notion
-- Fortune 100s
 date: '2025-12-08'
 draft: true
 guest: ''
@@ -15,7 +13,6 @@ layout: post.njk
 products_models:
 - Claude
 - Cloud Code
-- Stagehand
 project:
 - ai-impact-analysis
 - systems-thinking

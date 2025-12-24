@@ -17,7 +17,6 @@ people:
 - Patrick Collison
 - John Collison
 products_models:
-- NIA
 - Cursor
 - GitHub Copilot
 project:

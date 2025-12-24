@@ -7,7 +7,6 @@ companies_orgs:
 - 超威半导体 (AMD)
 - 礼来
 - 富士康
-- 博克希尔·哈撒韦
 date: '2024-12-30'
 draft: true
 guest: ''
@@ -21,8 +20,6 @@ people:
 - 沃伦·巴菲特
 - Lisa Su
 products_models:
-- Mounjaro
-- Radeon
 - iPhone
 - iPad
 - Mac

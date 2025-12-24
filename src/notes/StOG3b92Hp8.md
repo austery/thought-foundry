@@ -2,15 +2,11 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Service Canada
 - Walmart
 - McDonald's
 - Tim Hortons
-- Shoppers Drug Mart
 - LCBO
-- U-Haul
 - Reddit
-- 多伦多教育局
 date: '2024-05-31'
 draft: true
 guest: ''

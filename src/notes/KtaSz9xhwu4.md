@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 圣塔菲研究所
 - 中国共产党
 date: '2025-11-05'
 draft: true

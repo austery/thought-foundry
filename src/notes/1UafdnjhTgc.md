@@ -3,14 +3,11 @@ area: market-analysis
 category: geopolitics
 companies_orgs:
 - Stellantis
-- Toyota Motor Manufacturing Canada
 - LG
 - General Motors
 - Honda
 - Ford
 - OPEC
-- United Auto Workers of Canada
-- Suzuki
 - McMaster University
 date: '2025-11-07'
 draft: true

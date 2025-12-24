@@ -3,9 +3,6 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- e24
-- Retri
-- Sam benchmarking
 - Meta
 date: '2025-01-09'
 draft: true
@@ -19,7 +16,6 @@ people:
 - Sam Altman
 - Elon Musk
 products_models:
-- Yammer
 - Teams
 - LinkedIn
 - YouTube

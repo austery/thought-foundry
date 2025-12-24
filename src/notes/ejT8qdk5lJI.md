@@ -3,9 +3,7 @@ area: market-analysis
 category: finance
 companies_orgs:
 - ADP
-- Paychex
 - Institute for Supply Management
-- Chicago Federal Reserve Bank
 - Bank of America
 - Federal Reserve
 date: '2025-11-09'
@@ -15,8 +13,6 @@ insight: ''
 layout: post.njk
 products_models:
 - S&P 500
-- Non-Farm Payrolls Report
-- Financial Stability Report
 project:
 - us-analysis
 - investment-strategy

@@ -8,12 +8,6 @@ companies_orgs:
 - 北京大学
 - 中国科学院
 - 哈佛大学
-- 中央文革领导小组
-- 卫戍司令部
-- 高教部
-- 浙江大学
-- 居里夫人实验室
-- 工宣队
 date: '2024-04-07'
 draft: true
 guest: ''
@@ -34,9 +28,6 @@ people:
 - 刘少奇
 - 江青
 - 张春桥
-products_models:
-- 三体
-- 红岸基地
 project:
 - china-analysis
 - historical-insights

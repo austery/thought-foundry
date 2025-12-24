@@ -1,38 +1,11 @@
 ---
 area: society-systems
 category: psychology
-companies_orgs:
-- 任天堂
-- 大宇公司
 date: '2025-10-22'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 小霸王学习机
-- 双人成行
-- 模拟城市3000
-- 过山车大亨
-- Foldit
-- 大航海时代4
-- 仙剑奇侠传
-- 轩辕剑
-- 虚拟人生2
-- 大富翁4
-- 英雄无敌3
-- 大航海时代：起源
-- 模拟城市4
-- 我的世界
-- 潜水员戴夫
-- 城市：天际线
-- 文明
-- 极乐迪斯科
-- 底特律：化身为人
-- 黑神话·悟空
-- 中国龙
-- 3 Tiles
-- 羊了个羊
 project:
 - personal-growth-lab
 - systems-thinking

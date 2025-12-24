@@ -24,19 +24,10 @@ people:
 - Einstein
 - Newton
 products_models:
-- MapReduce
-- BigTable
-- Tensorflow
-- AlphaChip
 - Gemini
 - Transformer
-- Mixture of Experts
-- Mesh Tensorflow
 - TPU
 - BERT
-- Meena
-- Pixel cameras
-- Gato
 - ImageNet
 project:
 - ai-impact-analysis

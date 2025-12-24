@@ -4,11 +4,7 @@ category: business
 companies_orgs:
 - Otis
 - Norges Bank Investment Management
-- United Technologies
-- Carrier
 - NASDAQ
-- Schindler
-- Tiss Con
 date: '2025-05-28'
 draft: true
 guest: ''

@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - CMHC
-- Build Canada Home
 - G7
 date: '2025-11-06'
 draft: true

@@ -2,9 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 猫扑大杂烩
 - ABC
-- 太子集团
 - 中石化
 - 新浪微博
 date: '2025-05-27'

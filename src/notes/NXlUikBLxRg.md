@@ -4,14 +4,10 @@ category: geopolitics
 companies:
 - pharmaceutical-marketing
 companies_orgs:
-- Purdue Pharma
 - FDA
 - DEA
 - Roche
 - Pfizer
-- IMS Health
-- Nichols Dezenhall
-- Memorial Sloan Kettering Cancer Center
 date: '2025-11-12'
 draft: true
 guest: ''
@@ -28,8 +24,6 @@ people:
 products_models:
 - OxyContin
 - Valium
-- MS Contin
-- Talwin NX
 - Fentanyl
 - Heroin
 project:

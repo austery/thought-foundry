@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Thinking Machines Lab
 - OpenAI
 date: '2025-10-29'
 draft: true
@@ -18,15 +17,7 @@ people:
 - Mira Murati
 products_models:
 - GPT-5
-- GPT-oss
-- o1
-- o3
-- o4
-- 4o-mini
 - Qwen
-- Qwen3-8B-Base
-- Qwen3-32B
-- LoRA
 project:
 - ai-impact-analysis
 - systems-thinking

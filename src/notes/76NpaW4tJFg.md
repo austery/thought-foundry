@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Simon Fraser University
 - Meta
 - Google
 - Microsoft

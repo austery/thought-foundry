@@ -3,8 +3,6 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - Parks Canada
-- Roam Transit
-- Columbia Icefield Discovery Center
 date: '2023-06-15'
 draft: true
 guest: ''
@@ -13,11 +11,6 @@ layout: post.njk
 media_books:
 - 《莊野雜談加拿大系列節目》
 - 《莊野雜談第31集》
-products_models:
-- Discovery Pass
-- Adult Day Pass
-- Family/Group Day Pass
-- Bear Spray
 project: []
 series: ''
 source: https://www.youtube.com/watch?v=BihdlCUEttY

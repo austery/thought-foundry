@@ -3,7 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - New York Times Book Review
-- Manpower
 date: '2025-10-24'
 draft: true
 guest: ''

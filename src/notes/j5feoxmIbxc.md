@@ -4,8 +4,6 @@ category: culture
 companies_orgs:
 - Netflix
 - YouTube
-- Givenchy
-- Balenciaga
 date: '2025-11-28'
 draft: true
 guest: ''
@@ -14,8 +12,6 @@ layout: post.njk
 people:
 - Jennifer Lawrence
 - Mike Myers
-products_models:
-- Black Square
 project:
 - cultural-critique
 series: ''

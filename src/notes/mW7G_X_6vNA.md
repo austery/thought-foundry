@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 台湾劳动部
-- 硅谷科技公司
 date: '2024-01-26'
 draft: true
 guest: ''

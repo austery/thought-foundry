@@ -3,7 +3,6 @@ area: personal-systems
 category: lifestyle
 companies_orgs:
 - 初日診所
-- 美國心理學會
 - Cofit
 date: '2025-04-01'
 draft: true

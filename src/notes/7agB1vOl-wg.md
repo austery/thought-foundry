@@ -2,21 +2,16 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Linux Foundation
 - Google
 - Apple
 - Qualcomm
 - Samsung
-- Debian
 - Red Hat
 - IBM
-- Novell
-- SUSE
 - Microsoft
 - Uber
 - MIT
 - Stanford University
-- Linaro
 date: '2025-07-06'
 draft: true
 guest: ''
@@ -30,18 +25,13 @@ people:
 products_models:
 - Linux
 - Android
-- Chromebook
 - iPhone
 - Mac
 - Pixel
-- Raspberry Pi
 - Windows
 - Git
 - GitHub
-- Minix
 - Rust
-- Zig
-- Hair
 - C
 - C++
 project:

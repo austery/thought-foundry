@@ -4,26 +4,12 @@ category: ai-ml
 companies:
 - factory-farming
 companies_orgs:
-- Open Philanthropy
-- PETA
-- Against Malaria Foundation
 - McDonald's
 - Unilever
-- Nestlé
 - Burger King
-- LDC Group
-- Cal-Maine
-- Tyson Foods
-- Smithfield
-- Perdue
-- Niman Ranch
-- Cooks Venture
 - Walmart
 - Kroger
 - Costco
-- The Humane League
-- Sinergia Animal
-- FarmKind
 date: '2025-08-07'
 draft: true
 guest: ''

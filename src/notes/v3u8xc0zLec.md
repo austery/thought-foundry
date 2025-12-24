@@ -2,15 +2,12 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Google Labs
 - Google
 date: '2025-12-13'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Jewels
 project:
 - ai-impact-analysis
 - systems-thinking

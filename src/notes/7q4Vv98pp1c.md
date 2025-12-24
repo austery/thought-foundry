@@ -5,7 +5,6 @@ companies_orgs:
 - Hudson's Bay Company
 - CBC
 - G7
-- Canada Border Services Agency
 date: '2025-06-01'
 draft: true
 guest: ''

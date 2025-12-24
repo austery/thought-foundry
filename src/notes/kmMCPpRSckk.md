@@ -1,9 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 自然之友
-- 《柳叶刀》
 date: '2024-09-04'
 draft: true
 guest: ''

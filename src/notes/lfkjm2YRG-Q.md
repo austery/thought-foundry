@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - KiwiCo
-- Potato Jet
 date: '2023-07-07'
 draft: true
 guest: ''
@@ -11,18 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - Mike
-products_models:
-- FPV drone
-- black powder
-- quick match
-- visco fuse
-- electric match
-- road flares
-- KiwiCo flame test kit
-- mortar
-- aerial shell
-- brocade crown star
-- ghost shells
 project:
 - historical-insights
 - systems-thinking

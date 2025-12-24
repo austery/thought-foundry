@@ -5,14 +5,10 @@ companies:
 - gpu-lifecycle
 companies_orgs:
 - Bloomberg Podcasts
-- Baker Botts
 - Morgan Stanley
-- Ercot
-- FERC
 - Department of Energy
 - Department of Defense
 - CME
-- Lloyd's of London
 - Amazon
 - Microsoft
 - Google
@@ -30,8 +26,6 @@ people:
 products_models:
 - H100
 - H200
-- Blackwell B100
-- Blackwell B200
 project:
 - ai-impact-analysis
 - investment-strategy

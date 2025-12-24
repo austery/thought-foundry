@@ -15,7 +15,6 @@ media_books:
 people:
 - Bill Ackman
 products_models:
-- SCHG
 - QQQ
 - VOO
 - TQQQ

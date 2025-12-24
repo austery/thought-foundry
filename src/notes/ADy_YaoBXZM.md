@@ -5,25 +5,11 @@ companies_orgs:
 - Google
 - Meta
 - Microsoft
-- STMicroelectronics
-- SIX Group
 - Northvolt
-- ETH Zurich
-- EPFL
 - United Nations
 - World Trade Organization
 - International Monetary Fund
 - CERN
-- Scandit
-- Beekeeper
-- Deep Code
-- Snyk
-- IBM Research
-- Teos Banking Software
-- Luna
-- Readily 3D
-- Wiz
-- CLA
 date: '2025-06-16'
 draft: true
 guest: ''
@@ -31,10 +17,6 @@ insight: ''
 layout: post.njk
 people:
 - Albert Einstein
-products_models:
-- ABBA fertility tracker
-- IB doc
-- AED tracks
 project:
 - ai-impact-analysis
 - geopolitics-watch

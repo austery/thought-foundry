@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- US Supreme Court
 - Fox News
 - PBS
 - US Congress
@@ -25,7 +24,8 @@ people:
 - John F. Kennedy
 - Lyndon B. Johnson
 - Martin Luther King Jr.
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - us-analysis
 - geopolitics-watch

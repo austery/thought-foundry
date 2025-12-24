@@ -27,21 +27,12 @@ companies_orgs:
 - Netflix
 - SoFi
 - Micron
-- Carnival Cruise
 - Foxconn
 - TSMC
-- Hewlett Packard Enterprise (HPE)
-- Super Micro
 - ASML
-- Gigabyte
-- Quanta
 - Dell
-- Cooler Master
 - ABC
-- ARAS
 - Delta
-- Connect X7
-- Bluefield 3DPUs
 date: '2025-12-15'
 draft: true
 guest: ''
@@ -62,8 +53,6 @@ people:
 products_models:
 - Gemini Flash
 - Blackwell GPU
-- Grace Blackwell
-- Ver Rubin
 project:
 - us-analysis
 - ai-impact-analysis

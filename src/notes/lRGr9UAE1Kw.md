@@ -5,9 +5,7 @@ companies_orgs:
 - Goldman Sachs
 - Citibank
 - Pimco
-- LongTail Alpha
 - AQR
-- CBOT
 - Bloomberg
 date: '2025-09-15'
 draft: true
@@ -19,13 +17,7 @@ people:
 - Joe Weisenthal
 - Bill Gross
 products_models:
-- Black-Scholes
-- Monte Carlo
-- E-mini futures
-- VIX curve
-- CDX index
 - ETF
-- 60/40 portfolio
 project:
 - investment-strategy
 - market-cycles

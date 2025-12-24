@@ -1,8 +1,6 @@
 ---
 area: finance-wealth
 category: stock-investment
-companies_orgs:
-- TMGM
 date: '2025-12-21'
 draft: true
 guest: ''
@@ -14,7 +12,6 @@ people:
 products_models:
 - 以太坊
 - 比特币
-- 标普指数
 project:
 - ai-impact-analysis
 series: ''

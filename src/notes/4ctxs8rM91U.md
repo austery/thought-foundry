@@ -3,9 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 新东方
-- 学而思
 - 公安机关
-- 邮电部
 date: '2023-11-16'
 draft: true
 guest: ''
@@ -22,10 +20,7 @@ products_models:
 - VPN
 - WhatsApp
 - Telegram
-- Line
-- Facebook Messenger
 - Zoom
-- Google Chat
 - Netflix
 - ChatGPT
 - iPhone

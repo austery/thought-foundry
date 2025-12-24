@@ -14,7 +14,6 @@ companies_orgs:
 - SAP
 - Adobe
 - Palo Alto Networks
-- Kronos
 - Oracle
 date: '2025-03-24'
 draft: true
@@ -27,9 +26,6 @@ media_books:
 people:
 - 唐石峻
 - Marc Benioff
-products_models:
-- NetScreen
-- Focus
 project:
 - investment-strategy
 - ai-impact-analysis

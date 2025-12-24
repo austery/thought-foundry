@@ -3,15 +3,11 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Palantir
-- Morson
-- PerExcel
 - AT&T
-- Wendy's
 - Microsoft
 - Google
 - Costco
 - Walmart
-- 香橼资本
 date: '2025-08-24'
 draft: true
 guest: ''

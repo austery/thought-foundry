@@ -8,12 +8,10 @@ companies_orgs:
 - Anthropic
 - Nvidia
 - Replit
-- Commonwealth Bank of Australia
 - Netflix
 - AWS
 - Zapier
 - Booking.com
-- Travelopia
 - Capital One
 - Fidelity
 - Cisco
@@ -36,15 +34,7 @@ people:
 - Kent Beck
 products_models:
 - Cloud Code
-- Log4j
-- Neo4j
-- Visual Basic
 - C#
-- Link
-- Haskell
-- Hack
-- PHP
-- iOS App
 project:
 - ai-impact-analysis
 - systems-thinking

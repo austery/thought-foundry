@@ -2,22 +2,11 @@
 area: society-systems
 category: general
 companies_orgs:
-- Keel Digital Solutions
-- Ontario Provincial Police
-- Ministry of Colleges and Universities
-- Ontario Big City Mayors
 - CBC
-- TTC
-- Metrolinx
 - Global News
-- Wayside
 - TVO Today
 - OpenAI
 - Disney
-- Hamilton Street Railway
-- OC Transpo
-- Ontario Power Generation
-- Bruce Power
 date: '2025-12-12'
 draft: true
 guest: ''
@@ -39,14 +28,6 @@ people:
 - Nam Kiwanuka
 - John Ferry
 products_models:
-- Skills Development Fund
-- Get Ahead
-- Keel Mind
-- Safer Municipalities Act
-- Trespass to Property Act
-- Finch West Light Rail Transit Line
-- Eglinton Crosstown LRT
-- ION LRT
 - Sora
 project:
 - geopolitics-watch

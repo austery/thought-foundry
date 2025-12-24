@@ -7,7 +7,6 @@ companies_orgs:
 - Apple
 - Department of Justice
 - Federal Housing Finance Agency
-- National Australia Bank
 - Bloomberg
 date: '2025-08-26'
 draft: true

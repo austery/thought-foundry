@@ -26,12 +26,9 @@ people:
 - 李嘉诚
 products_models:
 - ChatGPT
-- FSD V12
-- FSD V13
 - FSD V14
 - Optimus
 - Robotaxi
-- 标普五百指数基金
 project:
 - investment-strategy
 - personal-growth-lab

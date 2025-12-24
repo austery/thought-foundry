@@ -2,8 +2,6 @@
 area: tech-engineering
 author: Lei
 category: ai-ml
-companies_orgs:
-- figma
 date: 2025-10-03
 draft: true
 guest: ''

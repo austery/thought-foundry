@@ -9,8 +9,6 @@ guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- GPT-5.2-Codex
-- Agent Skills
 - Codex
 project:
 - ai-impact-analysis

@@ -2,20 +2,11 @@
 area: market-analysis
 category: technology
 companies_orgs:
-- Message Bird
 - ASML
 - Booking.com
-- Adyen
-- Mollie
-- Picnic
-- Fastned
 - TSMC
 - Samsung
 - Intel
-- Delft University of Technology
-- Eindhoven University of Technology
-- University of Twente
-- University of Amsterdam
 date: '2025-06-19'
 draft: true
 guest: ''

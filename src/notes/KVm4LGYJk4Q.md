@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- Cambly
 date: '2023-03-25'
 draft: true
 guest: ''

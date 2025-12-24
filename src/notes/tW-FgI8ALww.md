@@ -5,9 +5,7 @@ companies_orgs:
 - Anthropic
 - Google
 - OpenAI
-- Deepsea
 - Meta
-- Elio AI
 date: '2025-10-30'
 draft: true
 guest: ''
@@ -28,9 +26,6 @@ products_models:
 - ChatGPT
 - Bing
 - Perplexity
-- Truth Terminal
-- Solana coin
-- GPT 2.5
 project:
 - ai-impact-analysis
 - systems-thinking

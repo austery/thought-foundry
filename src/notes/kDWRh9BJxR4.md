@@ -3,9 +3,7 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Meta
-- Threads
 - Twitter
-- Hahow
 date: '2025-11-06'
 draft: true
 guest: ''

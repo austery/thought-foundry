@@ -10,11 +10,8 @@ companies_orgs:
 - SpaceX
 - NASA
 - Alibaba
-- SOHO China
 - People's Bank of China
 - National Bureau of Statistics of China
-- National Development and Reform Commission
-- State Administration of Foreign Exchange
 - Boeing
 - General Motors
 date: '2025-11-11'
@@ -43,10 +40,6 @@ people:
 - Lai Ching-te
 - Jack Ma
 - Xi Jinping
-products_models:
-- Shenzhou-20
-- Shenzhou-22
-- Dragon spacecraft
 project:
 - us-analysis
 - china-analysis

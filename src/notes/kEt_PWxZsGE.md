@@ -2,10 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 央视新闻
-- 澎湃新闻
 - 新京报
-- 移民及难民委员会
 date: '2025-11-12'
 draft: true
 guest: ''

@@ -9,8 +9,6 @@ companies_orgs:
 - Blue Origin
 - NASA
 - DeepMind
-- Rewhile
-- 美国国防创新委员会
 - Space Force
 date: '2025-05-17'
 draft: true
@@ -23,7 +21,6 @@ people:
 - Jeff Bezos
 - Peter Beck
 products_models:
-- Terran 1
 - Terran R
 - Electron
 - Falcon 9

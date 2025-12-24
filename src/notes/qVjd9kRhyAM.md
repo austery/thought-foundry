@@ -4,10 +4,6 @@ category: geopolitics
 companies_orgs:
 - WTO
 - 通用
-- 福特
-- 斯特兰蒂斯
-- 罗纳德.里根基金会
-- 中国驻加拿大大使馆
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -28,7 +24,6 @@ people:
 - 温家宝
 products_models:
 - USMCA
-- 跨山输油管
 project:
 - us-analysis
 - china-analysis

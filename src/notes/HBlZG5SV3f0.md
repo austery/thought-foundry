@@ -3,9 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - TVO Today
-- Queen's University
 - National Institutes of Health
-- Cypress Hill
 date: '2025-11-13'
 draft: true
 guest: ''
@@ -18,8 +16,6 @@ people:
 - Nam Kiwanuka
 - Nicole Kidman
 - Donald Trump
-products_models:
-- Thalidomide
 project:
 - us-analysis
 - historical-insights

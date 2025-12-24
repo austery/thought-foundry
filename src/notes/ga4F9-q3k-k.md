@@ -3,8 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - 南京大学
-- 国家教委
-- 苏共
 date: '2025-11-15'
 draft: true
 guest: ''

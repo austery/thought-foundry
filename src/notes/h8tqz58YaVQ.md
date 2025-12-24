@@ -6,7 +6,6 @@ companies_orgs:
 - 美国财政部
 - 币安
 - 欧易
-- Bitget
 date: '2025-11-23'
 draft: true
 guest: ''

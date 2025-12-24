@@ -5,7 +5,6 @@ companies_orgs:
 - NATO
 - European Union
 - G7
-- 中国国家安全局
 - 中国国民党
 - 美联储
 - 白宫

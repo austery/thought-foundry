@@ -5,10 +5,8 @@ companies_orgs:
 - New York Times
 - GOP
 - White House
-- Romania
 - CDC
 - FIFA
-- UN group
 date: '2025-12-12'
 draft: true
 guest: ''

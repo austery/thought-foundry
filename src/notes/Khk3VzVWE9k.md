@@ -2,9 +2,6 @@
 area: society-thinking
 category: history
 companies_orgs:
-- MeatEater
-- Boone and Crockett Club
-- Random House Penguin
 - Ford
 date: '2025-12-15'
 draft: true

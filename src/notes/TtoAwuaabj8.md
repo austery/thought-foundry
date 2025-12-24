@@ -2,12 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- SSR
-- 德州大学奥斯汀分校
 - 美国社会学会
 - 美国最高法院
-- 美国联邦上诉法院
-- 美国卫生统计中心
 date: '2022-08-12'
 draft: true
 guest: ''
@@ -15,9 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Bill Clinton
-products_models:
-- New Family Structure Study
-- 捍卫婚姻法案
 project:
 - us-analysis
 - geopolitics-watch

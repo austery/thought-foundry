@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- Miramax Films
 date: '2025-08-16'
 draft: true
 guest: ''

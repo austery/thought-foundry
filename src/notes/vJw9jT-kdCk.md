@@ -3,13 +3,11 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Google
-- Department of Justice (DOJ)
 - Apple
 - Microsoft
 - Samsung
 - TSMC
 - SK Hynix
-- Microchip Technology
 - Alibaba
 - NVIDIA
 - Tesla
@@ -26,12 +24,7 @@ people:
 - 马云
 - 查理·芒格
 products_models:
-- Chrome Browser
-- Android Operating System
-- IOS Operating System
 - Office 365
-- H Browser
-- Polo Platform
 - Snowflake
 project:
 - us-analysis

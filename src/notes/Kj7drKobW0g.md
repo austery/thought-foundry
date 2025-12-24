@@ -4,7 +4,6 @@ category: technology
 companies_orgs:
 - OpenAI
 - Anthropic
-- Gamut 2.5 Pro
 date: '2025-11-15'
 draft: true
 guest: ''
@@ -12,13 +11,7 @@ insight: ''
 layout: post.njk
 products_models:
 - GPT-5.1
-- Claude 3 Sonnet 4.5
-- GPT-5.1 Instant
-- GPT-5.1 Thinking
-- GPT-5 Codex
 - ChatGPT
-- Atlas browser
-- Three.js
 project:
 - ai-impact-analysis
 series: ''

@@ -11,9 +11,6 @@ layout: post.njk
 media_books:
 - 《有錢到老後》
 - 《別把錢留到死》
-products_models:
-- 劳工保险
-- 全民健康保险
 project:
 - investment-strategy
 - personal-growth-lab

@@ -2,9 +2,7 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Z.ai
 - Hugging Face
-- Monoscope
 - GitHub
 - Reddit
 - Discord
@@ -17,21 +15,10 @@ layout: post.njk
 people:
 - John
 products_models:
-- GLM 4.6
-- GLM 4.5
-- GLM 4.0414
-- GLM 30B
-- ChatGLM 6B
-- CodeGeeX
-- CodeView
-- Video-LLM
 - GPT-4
 - GPT-4.5
 - Claude 3.5
 - Claude 4
-- DeepSeek 3.2
-- LLaMA Factory
-- MS Swift
 project:
 - ai-impact-analysis
 - knowledge-pipeline

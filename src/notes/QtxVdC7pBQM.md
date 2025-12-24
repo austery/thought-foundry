@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Rolls-Royce
-- Cambridge University
 - KiwiCo
 date: '2025-11-17'
 draft: true
@@ -12,10 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Henry
-products_models:
-- Gloucester E2839
-- A350
-- 97K engine
 project:
 - historical-insights
 - systems-thinking

@@ -6,19 +6,11 @@ companies_orgs:
 - Carlyle Group
 - European Union
 - G7
-- Vietjet Air
 - COMAC
-- Chinese Ministry of Foreign Affairs
 - National Bureau of Statistics of China
 - Goldman Sachs
 - Nomura Securities
-- China Futures Market Monitoring Center
 - People's Bank of China
-- Shanghai Huarun Bank
-- National Financial Regulatory Administration of China
-- CCP Central Committee
-- Central Military Commission
-- Standing Committee of the National People's Congress
 - Ministry of Commerce of China
 - WTO
 date: '2025-10-20'
@@ -45,8 +37,6 @@ people:
 - Bo Xilai
 - He Weidong
 products_models:
-- COMAC C909 aircraft
-- Patriot missile system
 - Fentanyl
 project:
 - us-analysis

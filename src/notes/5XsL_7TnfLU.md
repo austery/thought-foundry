@@ -28,8 +28,6 @@ people:
 - Jefferson
 products_models:
 - GPT-4
-- GPT-8
-- RLHF
 project:
 - ai-impact-analysis
 series: ''

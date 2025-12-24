@@ -5,7 +5,6 @@ companies_orgs:
 - Norges Bank Investment Management
 - Peterson Institute for International Economics
 - Norges Bank
-- Phillips Drilling
 - ASML
 - Nvidia
 - Meta
@@ -13,15 +12,9 @@ companies_orgs:
 - Starbucks
 - Uber
 - GIC
-- Novo Nordisk Foundation
-- Wallenberg sphere
 - IMF
 - World Bank
 - BlackRock
-- Ravenswood Partners
-- Atlantic Council
-- Wilson Center
-- Washington University
 date: '2024-11-19'
 draft: true
 guest: ''

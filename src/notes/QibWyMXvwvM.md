@@ -11,9 +11,7 @@ companies_orgs:
 - The Economist
 - Financial Times
 - Politico
-- Futurism
 - Brookings Institution
-- Partnership for Public Service
 date: '2025-12-14'
 draft: true
 guest: ''

@@ -3,8 +3,6 @@ area: market-analysis
 category: geopolitics
 companies_orgs:
 - WTO
-- USTR
-- Angus Reid Institute
 date: '2025-02-09'
 draft: true
 guest: ''
@@ -15,7 +13,6 @@ people:
 - Justin Trudeau
 - Anita Anand
 products_models:
-- NAFTA
 - USMCA
 project:
 - us-analysis

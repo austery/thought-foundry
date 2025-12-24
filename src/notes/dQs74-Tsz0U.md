@@ -10,7 +10,6 @@ companies_orgs:
 - Bank of America
 - Weeble
 - Kalshi
-- Susquehanna International Group
 - CFTC
 - Piper Sandler
 - Meta
@@ -27,7 +26,6 @@ companies_orgs:
 - Best Buy
 - Urban Outfitters
 - Dell
-- Super Safe Intelligence
 date: '2025-11-26'
 draft: true
 guest: ''

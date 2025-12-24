@@ -10,7 +10,6 @@ companies_orgs:
 - Nvidia
 - Microsoft
 - Anthropic
-- Public Investment Fund
 - Micron
 - AMD
 - Cloudflare
@@ -22,7 +21,6 @@ companies_orgs:
 - OpenAI
 - Berkshire Hathaway
 - DeepSeek
-- EOS Energy
 - Warner Brothers
 - Pfizer
 - Johnson & Johnson

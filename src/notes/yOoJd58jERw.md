@@ -4,7 +4,6 @@ category: finance
 companies_orgs:
 - Apollo Global Management
 - Norges Bank Investment Management
-- Drexel Burnham
 - GE Capital
 - Blackstone
 - EQT
@@ -24,9 +23,7 @@ people:
 - Warren Buffett
 products_models:
 - S&P 500
-- ETFs
 - 401k
-- Spotify
 - OpenAI
 project:
 - investment-strategy

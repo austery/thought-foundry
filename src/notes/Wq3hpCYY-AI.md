@@ -20,7 +20,6 @@ companies_orgs:
 - Oscar Health
 - UnitedHealth Group
 - Grab
-- Aurora Cannabis
 - Planet Labs
 - Rocket Lab
 - Disney
@@ -30,14 +29,11 @@ companies_orgs:
 - AMD
 - Micron Technology
 - Goldman Sachs
-- Funstrath
 - New York University
 - ExxonMobil
 - Chevron
 - Lowe's
 - Home Depot
-- SL Green Realty
-- Realty Income
 - JPMorgan Chase
 date: '2025-12-12'
 draft: true

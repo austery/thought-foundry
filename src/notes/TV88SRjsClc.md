@@ -4,10 +4,7 @@ category: finance
 companies_orgs:
 - Bloomberg
 - Carnegie Mellon
-- Middlebury College
 - Lowe's
-- US Census
-- Biden administration
 date: '2025-07-25'
 draft: true
 guest: ''
@@ -23,9 +20,6 @@ media_books:
 people:
 - Tracy Alloway
 - Joe Weisenthal
-products_models:
-- Consumer Price Index
-- Gross Domestic Product
 project:
 - us-analysis
 - historical-insights

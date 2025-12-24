@@ -1,10 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- amd
-- dell
-- equifax
 date: '2025-10-08'
 draft: true
 guest: ''

@@ -40,7 +40,6 @@ companies_orgs:
 - Reddit
 - Joby Aviation
 - Kratos Defense & Security Solutions
-- Fanatics
 - Costco
 - Walmart
 - Dell
@@ -54,7 +53,6 @@ companies_orgs:
 - GameStop
 - Coinbase
 - Eli Lilly
-- Bristol Myers Squibb
 - MongoDB
 - CrowdStrike
 - Okta
@@ -88,7 +86,6 @@ products_models:
 - Solana
 - XRP
 - Google TPU
-- Nvidia Blackwell
 - CUDA
 - Omniverse
 - Gemini 3

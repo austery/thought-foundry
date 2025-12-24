@@ -5,10 +5,6 @@ companies_orgs:
 - Norges Bank Investment Management
 - Stanford Management Company
 - Yale
-- ELA Advisors
-- The Children's Investment Fund
-- American Ballet Theater
-- Metropolitan Opera House
 - Google
 date: '2025-08-27'
 draft: true

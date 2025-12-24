@@ -3,12 +3,8 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Anthropic
-- BCI
 - S&P
 - FactSet
-- NBIM
-- Perella Weinberg
-- PitchBook
 - Snowflake
 - Salesforce
 date: '2025-11-05'
@@ -19,9 +15,6 @@ layout: post.njk
 products_models:
 - Claude
 - Claude 3
-- Claude for Finance
-- Claude for Enterprise
-- Claude.ai
 project:
 - investment-strategy
 - ai-impact-analysis

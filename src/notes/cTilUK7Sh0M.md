@@ -8,12 +8,8 @@ companies_orgs:
 - Amazon
 - Corning
 - 3M
-- Dow Chemical
-- University College London
-- University of California San Diego
 - Wall Street Journal
 - NPR
-- World Intellectual Property Organization
 date: '2025-11-26'
 draft: true
 guest: ''

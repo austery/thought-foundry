@@ -64,7 +64,6 @@ people:
 - Elon Musk
 - Warren Buffett
 products_models:
-- Blackwell Chip
 - Affordable Care Act
 project:
 - us-analysis

@@ -3,8 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - 美国国务院
-- 美国驻成都总领馆
-- 中国驻休斯顿总领馆
 - 美国CIA
 - 民进党
 - 中央电视台

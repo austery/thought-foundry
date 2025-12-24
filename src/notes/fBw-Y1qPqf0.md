@@ -3,10 +3,8 @@ area: society-systems
 category: politics-society
 companies_orgs:
 - New York Times
-- Halliburton
 - GOP
 - White House
-- Customs and Border Patrol
 date: '2025-11-05'
 draft: true
 guest: ''
@@ -23,7 +21,6 @@ people:
 - Andrew Cuomo
 - Zoran Mandani
 products_models:
-- Medicare
 - TikTok
 project:
 - us-analysis

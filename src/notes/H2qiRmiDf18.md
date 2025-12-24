@@ -2,8 +2,6 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 传统基金会
-- Foundation
 - Polymarket
 - FBI
 date: '2025-12-13'

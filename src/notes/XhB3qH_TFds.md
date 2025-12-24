@@ -4,13 +4,9 @@ category: ai-ml
 companies_orgs:
 - Google DeepMind
 - Stanford
-- Flatiron Institute
 - CERN
-- LIGO
 - OpenAI
-- Princeton
 - Western Digital
-- Brookhaven
 date: '2024-12-26'
 draft: true
 guest: ''

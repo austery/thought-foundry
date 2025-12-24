@@ -3,8 +3,6 @@ area: society-systems
 category: science
 companies_orgs:
 - Wall Street Journal
-- King's University of London
-- Ekster
 date: '2025-11-18'
 draft: true
 guest: ''
@@ -18,12 +16,6 @@ people:
 - Angus Deaton
 - Ray Dalio
 - Cathie Wood
-products_models:
-- Minsky
-- slim wallet
-- card holder
-- finder card
-- travel vacuum kit
 project:
 - systems-thinking
 - historical-insights

@@ -23,7 +23,6 @@ people:
 - Chris Wright
 products_models:
 - SNAP
-- Cobots
 project:
 - us-analysis
 - geopolitics-watch

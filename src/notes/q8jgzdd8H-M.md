@@ -3,15 +3,12 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - MI6
-- 美国编剧工会
 - FBI
 - DOJ (美国司法部)
 - Mossad
 - AIPAC
 - Polymarket
 - 中央戏剧学院
-- 纽约电影学院
-- 孟京辉工作室
 date: '2025-11-22'
 draft: true
 guest: ''
@@ -40,7 +37,6 @@ people:
 - 拜登
 - 奥巴马
 products_models:
-- Jmail
 - ChatGPT
 project:
 - us-analysis

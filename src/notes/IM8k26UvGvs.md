@@ -20,7 +20,6 @@ companies_orgs:
 - The New York Times
 - CrowdStrike
 - Broadcom
-- Five Below
 - C3.ai
 - Apple
 - Meta
@@ -33,15 +32,12 @@ companies_orgs:
 - CNN
 - Kalshi
 - Polymarket
-- Fanatics
 - BlackRock
 - Costco
 - YouTube
 - CNBC
 - ESPN
-- The Compound
 - SpaceX
-- Center for Strategic and International Studies
 date: '2025-12-03'
 draft: true
 guest: ''
@@ -67,13 +63,9 @@ people:
 products_models:
 - Co-pilot
 - S&P 500
-- Gain AI Act
-- Agent Force
-- Data 360
 - Google TPU
 - Bitcoin
 - Ethereum
-- Fusaka upgrade
 - CUDA
 - ChatGPT
 - Claude

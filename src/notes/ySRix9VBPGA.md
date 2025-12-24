@@ -14,7 +14,6 @@ people:
 - Jerome Powell
 products_models:
 - S&P 500
-- NVIDIA
 - ETF
 project:
 - investment-strategy

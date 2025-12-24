@@ -2,7 +2,6 @@
 area: finance-wealth
 category: macro-economy
 companies_orgs:
-- 东方财富
 - 央行
 date: '2024-10-06'
 draft: true

@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Time magazine
 - Stanford University
 - University of California, Berkeley
 - OpenAI
@@ -14,7 +13,6 @@ companies_orgs:
 - Alphabet Inc.
 - Amazon
 - European Union
-- International Association for Safe and Ethical AI
 date: '2025-12-04'
 draft: true
 guest: ''

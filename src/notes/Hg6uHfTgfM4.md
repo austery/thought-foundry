@@ -4,7 +4,6 @@ category: lifestyle
 companies_orgs:
 - 初日醫學
 - Cofit
-- 起動物理治療所
 date: '2025-07-30'
 draft: true
 guest: ''

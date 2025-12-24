@@ -3,9 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - York University
-- IESO
 - Ontario Energy Board
-- Ontario Hydro
 date: '2025-11-21'
 draft: true
 guest: ''

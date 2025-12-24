@@ -4,18 +4,12 @@ category: business
 companies_orgs:
 - Tesla
 - Figure AI
-- 智元机器人
 - 宇树科技
 - Boston Dynamics
 - Meta
 - 小鹏
 - 比亚迪
-- 同济大学
 - 清华大学
-- 重庆大学
-- 华南理工
-- 优必选
-- 中金证券
 date: '2025-07-07'
 draft: true
 guest: ''
@@ -26,11 +20,9 @@ people:
 - Elon Musk
 - Yann LeCun
 products_models:
-- Optimus robot
 - ChatGPT
 - DeepMind
 - VLA模型
-- WalkerX
 project:
 - ai-impact-analysis
 - investment-strategy

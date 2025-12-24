@@ -2,8 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- University of Ottawa Heart Institute
-- Ontario Taxpayers Federation
 - OECD
 date: '2025-10-25'
 draft: true
@@ -26,9 +24,6 @@ people:
 - Jean Chrétien
 - Jeremy Bentham
 - Bill Davis
-products_models:
-- La-Z-Boy
-- HST
 project:
 - geopolitics-watch
 - historical-insights

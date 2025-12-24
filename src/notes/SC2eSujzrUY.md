@@ -4,31 +4,14 @@ category: general
 companies_orgs:
 - DuPont
 - 3M
-- Chemours
 - US Army
-- US Environmental Protection Agency (EPA)
 - Department of Justice
-- National Academies of Sciences, Engineering, and Medicine
-- Puraffinity
 - Ground News
 date: '2025-05-14'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Teflon
-- Gore-Tex
-- Scotchgard
-- GenX
-- PFOA
-- PFOS
-- PFHxS
-- PFPeA
-- methyl chloride
-- tetrafluoroethylene (TFE)
-- polytetrafluoroethylene (PTFE)
-- uranium hexafluoride
 project:
 - us-analysis
 - historical-insights

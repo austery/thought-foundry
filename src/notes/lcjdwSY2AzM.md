@@ -2,10 +2,6 @@
 area: tech-insights
 category: science
 companies_orgs:
-- University of Gottingen
-- University of Erlangen
-- Erlangen Academic Senate
-- Bryn Mawr
 - KiwiCo
 date: '2025-04-14'
 draft: true
@@ -15,13 +11,6 @@ layout: post.njk
 people:
 - Albert Einstein
 - David Hilbert
-products_models:
-- General Theory of Relativity
-- Special Theory of Relativity
-- Bianchi identities
-- Higgs boson
-- quarks
-- Rapid-Fire Disc Launcher crate
 project:
 - systems-thinking
 - historical-insights

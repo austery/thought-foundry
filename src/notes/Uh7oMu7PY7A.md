@@ -4,7 +4,6 @@ category: geopolitics
 companies:
 - psychological-defense
 companies_orgs:
-- CGTN
 - 华为
 date: '2025-11-26'
 draft: true

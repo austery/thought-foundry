@@ -3,17 +3,10 @@ area: tech-insights
 category: technology
 companies_orgs:
 - General Electric
-- Monsanto
 - IBM
 - Bell Labs
 - Sony
 - Toshiba
-- Panasonic
-- Nichia
-- RCA
-- Nagoya University
-- Matsushita
-- Cree
 date: '2024-02-08'
 draft: true
 guest: ''
@@ -21,15 +14,6 @@ insight: ''
 layout: post.njk
 people:
 - Derek Muller
-products_models:
-- Blue LED
-- Red LED
-- Green LED
-- White LED
-- Micro LED
-- UV LED
-- MOCVD
-- Two-flow reactor
 project:
 - historical-insights
 series: ''

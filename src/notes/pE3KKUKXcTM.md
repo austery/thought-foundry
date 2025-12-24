@@ -3,7 +3,6 @@ area: tech-work
 category: ai-ml
 companies_orgs:
 - SemiAnalysis
-- Asianometry
 - OpenAI
 - xAI
 - Anthropic
@@ -26,7 +25,6 @@ companies_orgs:
 - Intel
 - AMD
 - Nokia
-- Sony Ericsson
 - Raytheon
 - Cisco
 - McKinsey
@@ -34,23 +32,10 @@ companies_orgs:
 - Oracle
 - Crusoe
 - Core Scientific
-- G42
-- Omniva
-- QTS
-- Cooper
 - Lumen
-- Zayo
-- UMC
-- PSMC
 - Texas Instruments
 - Analog Devices
-- NXP
 - IBM
-- Compaq
-- YKK
-- Cartesia
-- Safe Superintelligence Inc.
-- SEMATECH
 date: '2024-10-02'
 draft: true
 guest: ''
@@ -76,12 +61,9 @@ products_models:
 - H20
 - Hopper
 - Blackwell
-- Ascend 910B
 - Ascend 910C
 - iPhone
-- Mac chip
 - Tesla
-- PaLM
 - AlphaGo
 - H100
 - GB200

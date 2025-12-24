@@ -6,7 +6,6 @@ companies_orgs:
 - OpenAI
 - Anthropic
 - Google
-- Gritt AI
 date: '2025-08-13'
 draft: true
 guest: ''

@@ -4,24 +4,11 @@ category: finance
 companies_orgs:
 - 美团
 - 东鹏饮料
-- 爱美客
 - 珀莱雅
 - 巨子生物
-- 锦波生物
 - 泡泡玛特
 - 贵州茅台
-- 五粮液
-- 洋河股份
-- 酒鬼酒
-- 绝味食品
-- 腾讯控股
-- 福寿园
-- 毛戈平
-- 完美生物
-- 上海家化
 - 贝泰妮
-- 尚美股份
-- 华熙生物
 - Alibaba
 - 京东
 date: '2025-10-01'
@@ -29,10 +16,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- 玻尿酸
-- 胶原蛋白
-- 重组胶原蛋白
 project:
 - investment-strategy
 - market-cycles

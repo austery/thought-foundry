@@ -4,8 +4,6 @@ category: politics-society
 companies_orgs:
 - Bloomberg
 - Federal Reserve
-- UT Austin
-- Economist Intelligence Unit
 - Congress
 - IMF
 - AP

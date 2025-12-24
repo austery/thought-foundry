@@ -3,16 +3,12 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Google
-- National High Magnetic Field Laboratory
 - MIT
 date: '2023-03-14'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Nerf football
-- Project Sunroof
 project:
 - historical-insights
 series: ''

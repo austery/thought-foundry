@@ -12,7 +12,6 @@ media_books: []
 people: []
 products_models:
 - fsd
-- optimus-robot
 - robotaxi
 project:
 - investment-strategy

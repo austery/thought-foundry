@@ -6,8 +6,6 @@ companies_orgs:
 - Rocket Lab
 - FAA
 - FCC
-- FEMA
-- US Space Force
 date: '2024-11-12'
 draft: true
 guest: ''

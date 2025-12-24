@@ -5,11 +5,8 @@ companies_orgs:
 - Bear Stearns
 - Department of Justice
 - FBI
-- Towers Financial Corporation
 - Apollo Global Management
 - JPMorgan Chase
-- Environmental Solutions Worldwide
-- Valar Ventures
 - IRS
 date: '2025-07-26'
 draft: true

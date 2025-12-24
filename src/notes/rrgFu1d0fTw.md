@@ -5,7 +5,6 @@ companies_orgs:
 - Kansas City Fed
 - Bloomberg Audio Studios
 - FDIC
-- SMU
 - FOMC
 date: '2025-08-21'
 draft: true
@@ -22,7 +21,6 @@ people:
 products_models:
 - iPhone
 - Taylor rule
-- FedNow
 project:
 - us-analysis
 - ai-impact-analysis

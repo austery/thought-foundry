@@ -12,10 +12,8 @@ companies_orgs:
 - Amazon
 - Meta
 - Tesla
-- Monster Beverage Corporation
 - Red Bull
 - Celsius
-- Seiussius
 date: '2024-11-18'
 draft: true
 guest: ''
@@ -31,17 +29,13 @@ people:
 - Steve Ballmer
 - Donald Trump
 products_models:
-- Air Max
-- Air Jordan
 - Office 365
 - LinkedIn
 - Azure
 - Windows
 - Xbox
-- Surface
 - Bing
 - YouTube
-- SaaS
 project:
 - us-analysis
 - investment-strategy

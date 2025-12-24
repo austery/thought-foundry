@@ -21,13 +21,11 @@ companies_orgs:
 - Nike
 - Cisco
 - Rocket Lab
-- Bitcoin
 - Ethereum
 - New Bank
 - Applied Materials
 - Redcat
 - Dell
-- TSSI
 - Whirlpool
 - Google
 - TSMC
@@ -41,14 +39,11 @@ companies_orgs:
 - Robinhood
 - Renaissance Technologies
 - Bridgewater Associates
-- Oaktree Capital
 - White House
 - Federal Reserve
 - Politico
 - Anthropic
-- Figure Technologies
 - Grab
-- C Limited
 - United Airlines
 - Tesla
 date: '2025-11-14'

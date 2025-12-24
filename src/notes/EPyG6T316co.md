@@ -2,9 +2,7 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 7-11
 - 麦当劳
-- 哥伦比亚电影公司
 - FBI
 date: '2022-11-24'
 draft: true
@@ -34,8 +32,6 @@ people:
 - 侯孝贤
 - 海德格尔
 - 亚里士多德
-products_models:
-- 台北101
 project:
 - historical-insights
 - cultural-critique

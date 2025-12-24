@@ -10,8 +10,6 @@ companies_orgs:
 - Meta
 - 初日醫學
 - Cofit
-- 台北醫學大學
-- 韓國圍棋協會
 date: '2025-05-07'
 draft: true
 guest: ''
@@ -25,13 +23,10 @@ people:
 - John Hopfield
 - Jensen Huang
 products_models:
-- LaMDA
 - ChatGPT
 - Deep Blue
 - AlphaGo
 - AlphaGo Zero
-- Watson
-- Watson for Oncology
 - GPT
 - 卷積神經網路 (CNN)
 - AlphaFold

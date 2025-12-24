@@ -1,9 +1,6 @@
 ---
 area: tech-insights
 category: science
-companies_orgs:
-- SimpliSafe
-- US Physics Team
 date: '2021-10-27'
 draft: true
 guest: ''

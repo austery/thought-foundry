@@ -2,27 +2,16 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Pydantic
 - OpenAI
 - DeepMind
-- Kubernetes
 date: '2025-11-24'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
 products_models:
-- Pydantic AI
-- Temporal
-- Logfire
-- Pydantic Evals
-- Pydantic AI Gateway
-- Hiku 3.5
 - Claude Sonnet 4.5
-- GPT 4.1
 - Gemini Flash
-- Vertex SDK
-- Tavily
 project:
 - ai-impact-analysis
 - systems-thinking

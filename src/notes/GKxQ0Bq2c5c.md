@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - OpenAI
-- YC (Y Combinator)
 - Google
 - DeepMind
 - Tesla

@@ -3,14 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Kuomintang
-- Democratic Progressive Party
 - Chinese Communist Party
 - Xinhua News Agency
-- Huang Fu-hsing Party Department
-- Glorious Social Work Foundation
-- Taiwan People's Party
-- People First Party
-- Want Want China Holdings
 - NATO
 date: '2025-10-20'
 draft: true

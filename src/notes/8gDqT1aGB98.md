@@ -1,12 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 协和医学院
-- 中日友好医院
-- 北京理工大学
-- 三鹿集团
-- 国家卫生健康委员会
 date: '2025-11-07'
 draft: true
 guest: ''

@@ -5,16 +5,10 @@ companies_orgs:
 - Anduril Industries
 - Lockheed Martin
 - Northrop Grumman
-- General Dynamics
 - Boeing
-- RTX
 - 五角大楼
 - SpaceX
 - Meta
-- Arculus VR
-- 美国空军
-- 美国海军陆战队
-- 美军特种作战司令部
 - NASA
 date: '2025-10-31'
 draft: true
@@ -36,19 +30,7 @@ people:
 - Ted Cruz
 - Hillary Clinton
 products_models:
-- Altius 600M
-- Hellfire missile
-- F-35 fighter
-- Ghost drone
-- Pulsar
-- Roadrunner
-- Fury
-- AST
-- NATIS
 - B-2轰炸机
-- 爱国者导弹
-- 俄亥俄级核潜艇
-- 星链
 project:
 - us-analysis
 - geopolitics-watch

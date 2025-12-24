@@ -29,10 +29,6 @@ people:
 - Michael Burry
 - Joe Biden
 - Steven Mnuchin
-products_models:
-- BlackWire chip
-- A7800 chip
-- A720 chip
 project:
 - us-analysis
 - china-analysis

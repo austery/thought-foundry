@@ -2,7 +2,6 @@
 area: society-systems
 category: general
 companies_orgs:
-- Center for Humane Technology
 - Stanford University
 - Instagram
 - Google
@@ -18,14 +17,9 @@ companies_orgs:
 - Tesla
 - Walmart
 - Microsoft
-- Bedrock
 - Caltech
 - MIT
 - The Atlantic
-- Intuit QuickBooks
-- Bond Charge
-- ExpressVPN
-- NAFTA
 - Chinese Communist Party
 date: '2025-11-27'
 draft: true
@@ -65,7 +59,6 @@ people:
 - Franklin D. Roosevelt
 - Richard Sutton
 products_models:
-- Apture
 - Gmail
 - Google Slides
 - ChatGPT
@@ -74,10 +67,7 @@ products_models:
 - GPT-4
 - GPT-5
 - Claude 4.5
-- Optimus Prime Robot
 - AGI
-- character.ai
-- Macintosh
 project:
 - ai-impact-analysis
 - systems-thinking

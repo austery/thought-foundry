@@ -2,12 +2,10 @@
 area: society-systems
 category: general
 companies_orgs:
-- 柳叶刀倒计时亚洲中心
 - IPCC
 - 世界卫生组织
 - 中国人民大学
 - 武汉大学
-- 中南人民医院
 - 复旦大学
 date: '2025-11-05'
 draft: true

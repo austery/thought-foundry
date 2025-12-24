@@ -11,8 +11,6 @@ draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- SU7
 project:
 - china-analysis
 - investment-strategy

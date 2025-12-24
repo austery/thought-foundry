@@ -9,14 +9,12 @@ companies_orgs:
 - Meta
 - Microsoft
 - Amazon
-- Pitchbook
 - 华为
 - 中芯国际
 - 甲骨文
 - 软银
 - Alibaba
 - 腾讯
-- Manus
 date: '2025-11-11'
 draft: true
 guest: ''
@@ -38,15 +36,12 @@ products_models:
 - ChatGPT
 - GPT-4
 - DeepSeek
-- Moonshot
 - 通义千问
 - Claude
 - H100
 - Blackwell
-- A800
 - H800
 - Ascend 910C
-- Ascend 910B
 project:
 - us-analysis
 - china-analysis

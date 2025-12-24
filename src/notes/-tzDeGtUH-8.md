@@ -6,15 +6,12 @@ companies_orgs:
 - Uber
 - 滴滴
 - 美团
-- 滴答出行
-- 曹操出行
 - 百度
 - Waymo
 - Alphabet
 - Cruise
 - 通用
 - 比亚迪
-- 理想汽车
 - Lucid
 - Apple
 date: '2024-05-24'
@@ -28,7 +25,6 @@ people:
 - Elon Musk
 products_models:
 - Robotaxi
-- Drive Supervised
 project:
 - ai-impact-analysis
 - market-cycles

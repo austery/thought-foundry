@@ -5,19 +5,8 @@ companies_orgs:
 - Liberal Party
 - Conservative Party
 - NDP
-- Wildrose Party
 - Progressive Conservative Party
-- United Conservative Party
-- Maverick Party
-- Alberta Independence Party
-- Alberta Republican Party
-- Wildrose Independence Party of Alberta
 - Bloc Québécois
-- Canada's Supreme Court
-- Angus Reid
-- Nanos
-- Canadian Independent Business Federation
-- 卡尔加里大学
 date: '2025-05-25'
 draft: true
 guest: ''
@@ -33,13 +22,6 @@ people:
 - Stephen Harper
 - Danielle Smith
 - Joe Biden
-products_models:
-- National Energy Program
-- Keystone XL pipeline
-- Trans Mountain pipeline
-- Impact Assessment Act
-- Clarity Act
-- Bill 54 (Election Statutes Amendment Act, 2025)
 project:
 - us-analysis
 - geopolitics-watch

@@ -3,7 +3,6 @@ area: market-analysis
 category: finance
 companies_orgs:
 - CNBC
-- 美国国会办公室
 - 美联储
 date: '2025-04-27'
 draft: true

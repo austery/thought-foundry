@@ -33,7 +33,6 @@ people:
 products_models:
 - H100
 - A100
-- UBI
 - VOO
 - QQQ
 project:

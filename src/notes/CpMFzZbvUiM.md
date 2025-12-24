@@ -4,10 +4,6 @@ category: geopolitics
 companies_orgs:
 - YouTube
 - 央视
-- 局面
-- 山姆超市
-- 人民大学
-- 中科院物理所
 - Costco
 date: '2025-11-01'
 draft: true
@@ -36,8 +32,6 @@ people:
 - 孟晚舟
 products_models:
 - iPhone
-- 华为
-- 丰田
 - 特斯拉
 - 安卓
 - 苹果

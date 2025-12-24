@@ -1,8 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 上海社会科学院社会学研究所
 date: '2025-05-23'
 draft: true
 guest: ''

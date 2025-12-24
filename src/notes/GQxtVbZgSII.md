@@ -3,8 +3,6 @@ area: society-systems
 category: general
 companies_orgs:
 - 四川大学
-- 华西医院
-- 《南方人物周刊》
 date: '2025-08-15'
 draft: true
 guest: ''

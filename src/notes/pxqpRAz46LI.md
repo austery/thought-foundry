@@ -9,9 +9,7 @@ companies_orgs:
 - Intel
 - 台积电
 - 拼多多
-- Time
 - LVMH
-- Cochin
 date: '2025-04-15'
 draft: true
 guest: ''

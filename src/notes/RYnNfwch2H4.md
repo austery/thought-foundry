@@ -7,13 +7,10 @@ companies_orgs:
 - Goldman Sachs
 - Paypal
 - Hims
-- Kite AI
 - General Catalyst
 - Amazon
-- Taobao
 - JD.com
 - Meituan
-- Yahoo Finance
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -23,11 +20,7 @@ people:
 - Jensen Huang
 products_models:
 - S&P 500 Index
-- Nasdaq 100 Index
 - Venmo
-- BNPL
-- Investing Pro
-- Pro PICKS
 project:
 - investment-strategy
 - ai-impact-analysis

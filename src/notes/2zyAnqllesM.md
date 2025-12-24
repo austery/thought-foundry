@@ -3,12 +3,8 @@ area: society-systems
 category: culture
 companies_orgs:
 - Bilibili
-- 歪脑
-- 国家网信办
-- 国航
 - 联合国
 - 世界卫生组织
-- 亚太经济合作组织
 date: '2025-12-05'
 draft: true
 guest: ''

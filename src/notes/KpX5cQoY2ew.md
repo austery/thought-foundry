@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - 自民党
 - 立宪民主党
-- 令和新选组
 - APEC
 - 中国外交部
 - 网信办
@@ -30,8 +29,6 @@ people:
 - 温家宝
 - 董军
 - Rahm Emanuel
-products_models:
-- F-16V
 project:
 - china-analysis
 - us-analysis

@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Flatfile
 - Anthropic
 - Vercel
 date: '2025-08-22'
@@ -13,12 +12,8 @@ layout: post.njk
 people:
 - Lex Fridman
 products_models:
-- V0
 - Claude
 - Claude 4
-- CSS3
-- HTML5
-- Obvious
 project:
 - ai-impact-analysis
 - systems-thinking

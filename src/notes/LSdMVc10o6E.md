@@ -2,15 +2,12 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Fidelity Fund
 - Costco
 - 波音
 - 沃尔玛
-- Sams Club
 - 可口可乐
 - 百事可乐
 - Intel
-- 空客
 date: '2024-11-04'
 draft: true
 guest: ''

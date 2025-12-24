@@ -5,8 +5,6 @@ companies_orgs:
 - Cornell University
 - McKinsey
 - Gates Foundation
-- Sam Houston National Forest
-- University of Hawaii
 date: 2025-01-12
 draft: true
 guest: ''
@@ -23,7 +21,8 @@ people:
 - Thomas Edison
 - Henry Ford
 - Elon Musk
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - personal-growth-lab
 - historical-insights

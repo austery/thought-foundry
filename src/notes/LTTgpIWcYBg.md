@@ -3,10 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - Halton公立教育局
-- 多伦多地区教育局
 - UBC
-- CPA
-- CA
 date: '2024-02-24'
 draft: true
 guest: ''
@@ -22,9 +19,6 @@ people:
 products_models:
 - IB课程
 - AP班
-- PEP
-- PER
-- CFE
 project:
 - china-analysis
 - systems-thinking

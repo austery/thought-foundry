@@ -2,7 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 科协
 - 共产党
 - 国民党
 - 中科院
@@ -35,8 +34,6 @@ people:
 - 蒋介石
 - 刘少奇
 - 林彪
-products_models:
-- PS5
 project:
 - china-analysis
 - historical-insights

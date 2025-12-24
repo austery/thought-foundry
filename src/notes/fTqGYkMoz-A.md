@@ -7,7 +7,6 @@ companies_orgs:
 - Lehman Brothers
 - Yale
 - White House
-- Northrim Bank
 date: '2025-08-18'
 draft: true
 guest: ''
@@ -19,11 +18,7 @@ people:
 - Donald Trump
 products_models:
 - Odd Lots podcast
-- Trans-Alaska Pipeline
-- Alaska Permanent Fund Dividend
 - S&P 500
-- Alaska Air
-- All Country World Index
 project:
 - investment-strategy
 - us-analysis

@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - TikTok
-- 摩萨德
 date: '2025-11-22'
 draft: true
 guest: ''

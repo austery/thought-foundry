@@ -3,36 +3,21 @@ area: finance-wealth
 category: macro-economy
 companies_orgs:
 - AIG
-- African Development Bank
-- Asian Development Bank
 - Bank for International Settlements
 - Bank of England
 - Bank of Japan
 - BlackRock
 - European Central Bank
-- European Investment Bank
-- Federal Deposit Insurance Corporation
 - Federal Reserve
-- Financial Conduct Authority
 - Goldman Sachs
-- Government Accountability Office
-- Inter-American Development Bank
-- Internal Revenue Service
 - International Monetary Fund
-- Islamic Development Bank
-- J.P. Morgan Chase
 - Lehman Brothers
 - London Stock Exchange
 - Moody's
 - NASDAQ
 - New York Stock Exchange
-- Organization for Economic Cooperation and Development
 - People's Bank of China
 - S&P
-- Securities and Exchange Commission
-- Shanghai Stock Exchange
-- Tokyo Stock Exchange
-- US Treasury Department
 - World Bank
 - World Trade Organization
 date: '2025-01-26'
@@ -43,11 +28,6 @@ layout: post.njk
 people:
 - Ben Bernanke
 - adam-s-axiom
-products_models:
-- Ponzi scheme
-- derivatives
-- mortgage-backed securities
-- quantitative easing
 project:
 - investment-strategy
 series: ''

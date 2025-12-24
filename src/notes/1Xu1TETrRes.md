@@ -3,12 +3,10 @@ area: society-systems
 category: culture
 companies_orgs:
 - Netflix
-- IMDb
 - YouTube
 - B站
 - 腾讯
 - 爱奇艺
-- 阿里巴巴影业
 date: '2025-05-24'
 draft: true
 guest: ''
@@ -44,12 +42,8 @@ people:
 - Baruch Spinoza
 - Gottfried Wilhelm Leibniz
 products_models:
-- 奥特曼
-- 高达
 - 哆啦A梦
 - Minecraft
-- 漫威
-- DC
 project:
 - china-analysis
 - cultural-critique

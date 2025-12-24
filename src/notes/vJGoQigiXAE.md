@@ -19,13 +19,8 @@ people:
 - Kent Beck
 - Martin Fowler
 products_models:
-- eXtreme Programming (XP)
-- Scrum
 - RUP
 - UML
-- OOA
-- PDCA
-- SPC
 project:
 - systems-thinking
 - historical-insights

@@ -7,7 +7,6 @@ companies_orgs:
 - 美团
 - 复旦大学
 - 饿了么
-- 中国市场监管总局
 date: '2025-11-22'
 draft: true
 guest: ''

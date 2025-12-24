@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - New York Times
 - Department of Homeland Security
-- World Weather Attribution
 date: '2025-11-07'
 draft: true
 guest: ''
@@ -19,8 +18,6 @@ people:
 - Shawn Duffy
 products_models:
 - Tinder
-- Grinder
-- Hinge
 project:
 - us-analysis
 - geopolitics-watch

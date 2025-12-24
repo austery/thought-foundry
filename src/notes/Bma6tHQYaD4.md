@@ -2,11 +2,8 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Meta Superintelligence labs
 - OpenAI
 - Google Brain
-- Stanford University AI Club
-- KOSIS
 - DeepMind
 - iRobot
 date: '2025-10-23'
@@ -16,15 +13,9 @@ insight: ''
 layout: post.njk
 products_models:
 - o1 模型
-- Deep Research
-- 思维链
-- 指令微调
 - ChatGPT
 - GPT-3
-- Operator
-- AlphaDev
 - AlphaZero
-- AlphaEvolve
 project:
 - ai-impact-analysis
 - systems-thinking

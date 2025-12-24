@@ -3,8 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Google
-- IEEE
-- Onshape
 date: '2023-05-24'
 draft: true
 guest: ''
@@ -13,10 +11,6 @@ layout: post.njk
 people:
 - Claude Shannon
 products_models:
-- Theseus
-- Red Comet
-- Mitee 3
-- Mokomo08
 - Tesla Roadster
 project:
 - ai-impact-analysis

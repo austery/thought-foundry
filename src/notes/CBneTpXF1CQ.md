@@ -12,7 +12,6 @@ media_books: '[]'
 people: '[]'
 products_models:
 - Claude Code
-- Claude Haiku 4.5
 - Claude Sonnet 4.5
 - Claude Sonnet 4
 project:

@@ -9,12 +9,6 @@ companies_orgs:
 - Intel
 - AWS
 - Spotify
-- Tencent Music
-- Apple Music
-- Whole Foods Market
-- Fresh
-- One Medical
-- Supreme
 - Microsoft
 - ASML
 - Samsung
@@ -30,7 +24,6 @@ people:
 products_models:
 - Kindle
 - Alexa
-- mmusic
 - Starlink
 project:
 - investment-strategy

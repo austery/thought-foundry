@@ -1,9 +1,6 @@
 ---
 area: personal-systems
 category: psychology
-companies_orgs:
-- 台灣芳香醫學醫學會
-- 台安醫院
 date: '2025-10-02'
 draft: true
 guest: ''
@@ -11,8 +8,6 @@ insight: ''
 layout: post.njk
 people:
 - 鄧雯心醫師
-products_models:
-- 瘦瘦針
 project:
 - personal-growth-lab
 series: ''

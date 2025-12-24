@@ -4,20 +4,13 @@ category: geopolitics
 companies_orgs:
 - 环球时报
 - 人民日报
-- 参考消息
 - 南方周末
-- 21世纪环球报道
-- 凤凰周刊
 - 新华社
-- 中国青年报
-- National Endowment for Democracy
 - 抖音
 - 快手
 - Bilibili
 - 腾讯
 - Alibaba
-- 清华大学国际传媒研究中心
-- 南方报业集团
 - 新京报
 - 南方都市报
 date: '2024-12-10'

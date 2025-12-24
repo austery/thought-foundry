@@ -2,7 +2,6 @@
 area: personal-systems
 category: lifestyle
 companies_orgs:
-- Mia C’bon
 - 初日诊所
 - 初日医学
 - Cofit

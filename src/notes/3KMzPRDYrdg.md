@@ -3,10 +3,8 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Bloomberg
-- Center for China and Globalization
 - University of Pennsylvania
 - IMF
-- US Embassy
 - G7
 - NATO
 - EU
@@ -18,16 +16,8 @@ companies_orgs:
 - Foxconn
 - BYD
 - CATL
-- Duke Kunshan University
-- Wuhan University
-- NYU Shanghai
-- Odd Lots
-- Munich Security Conference
 - BRICS
 - ASEAN
-- GCC
-- Shanghai Cooperation Organization
-- United Nations Security Council
 date: '2025-09-19'
 draft: true
 guest: ''
@@ -52,7 +42,6 @@ people:
 - Modi
 products_models:
 - iPhone
-- EV
 - 5G
 - AI
 project:

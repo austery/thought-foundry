@@ -3,21 +3,11 @@ area: society-systems
 category: technology
 companies_orgs:
 - Meta
-- Kaspersky
-- Acorn Computers
-- Monzo
-- Starling Bank
 - Revolut
-- Wise
-- Darktrace
-- GoCardless
-- Zepz
-- Onfido
 - Amazon
 - Microsoft
 - Google
 - OpenAI
-- Future Research
 date: '2025-06-12'
 draft: true
 guest: ''
@@ -27,9 +17,7 @@ media_books:
 - McKenzie's 2024 global AI survey
 - The Information
 products_models:
-- ARM chip
 - iPhone
-- Samsung device
 - YouTube
 project:
 - ai-impact-analysis

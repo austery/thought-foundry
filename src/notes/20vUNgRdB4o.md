@@ -3,7 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - NASA
-- Jet Propulsion Laboratory
 - Incogni
 date: '2025-03-20'
 draft: true
@@ -15,12 +14,6 @@ media_books:
 - Astrum
 people:
 - Alex
-products_models:
-- Ingenuity
-- Perseverance Rover
-- Chopper
-- Samsung Galaxy S5
-- Google Pixel 3
 project:
 - ai-impact-analysis
 - systems-thinking

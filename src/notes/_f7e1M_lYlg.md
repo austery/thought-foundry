@@ -12,10 +12,8 @@ companies_orgs:
 - Broadcom
 - Palantir
 - Duolingo
-- Game Stop
 - Beyond Meat
 - Open Door
-- Bookings
 - Expedia
 - 携程
 - Apple
@@ -28,17 +26,12 @@ people:
 - Donald Trump
 products_models:
 - ChatGPT
-- Google Chrome
 - Waymo
-- Google Gemini
-- Google Travel
 - Google Cloud
 - YouTube
 - Android
 - iOS
 - Pixel
-- Nest
-- Fitbit
 - S&P 500 ETF
 project:
 - us-analysis

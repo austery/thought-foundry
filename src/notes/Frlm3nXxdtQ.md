@@ -3,8 +3,6 @@ area: society-systems
 category: science
 companies_orgs:
 - University of Toronto
-- Unicure
-- SickKids Hospital
 - Health Canada
 date: '2025-12-03'
 draft: true
@@ -14,7 +12,6 @@ layout: post.njk
 media_books:
 - The Rundown
 products_models:
-- AMT-130
 - CRISPR
 project:
 - entrepreneurship

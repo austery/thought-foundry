@@ -3,7 +3,6 @@ area: society-systems
 category: culture
 companies_orgs:
 - SHU SHU工作室
-- 复旦儿科社工部
 date: '2025-06-20'
 draft: true
 guest: ''

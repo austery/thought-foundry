@@ -5,7 +5,6 @@ companies_orgs:
 - 初日診所
 - 初日醫學
 - Cofit
-- 紐約大學
 date: '2025-09-30'
 draft: true
 guest: ''

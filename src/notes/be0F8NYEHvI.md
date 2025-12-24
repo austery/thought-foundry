@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - 有知有行
 - Polymarket
-- 宜家
 date: '2025-12-12'
 draft: true
 guest: ''
@@ -14,11 +13,6 @@ media_books:
 - 《等待戈多》
 people:
 - 雨白
-products_models:
-- 电热锅
-- 酸汤火锅底料
-- 贝贝南瓜
-- 电动车
 project:
 - personal-growth-lab
 - historical-insights

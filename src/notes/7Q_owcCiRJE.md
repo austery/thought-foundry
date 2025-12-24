@@ -3,7 +3,6 @@ area: society-systems
 category: geopolitics
 companies_orgs:
 - Hudson's Bay Company
-- North West Company
 - Canadian Pacific Railway
 date: '2023-10-30'
 draft: true

@@ -5,26 +5,19 @@ companies_orgs:
 - 长荣航空
 - AMD
 - Alibaba
-- 京东集团
 - 拼多多
 - IBM
 - SAP
 - 戴尔
 - Microsoft
-- 东芝
-- 埃森哲
 - 摩根斯坦利
-- 爱立信
 - 亚马逊
 - Zoom
 - Google
 - Oracle
 - 普华永道
-- 佳能
 - 英特尔
 - 通用
-- 东风本田
-- Vmware
 - Broadcom
 - 新东方
 - 腾讯
@@ -33,13 +26,8 @@ companies_orgs:
 - 美团
 - 小米
 - 比亚迪
-- 国家电网
 - 中石油
 - 中石化
-- 中国铁道
-- 宝钢
-- 鞍钢
-- 平安保险
 - 中国移动
 - 国际货币基金组织
 date: '2024-11-03'
@@ -53,9 +41,6 @@ people:
 - 董宇辉
 - 李佳琦
 products_models:
-- 拼多多
-- 京东
-- 淘宝天猫
 - 抖音
 - 快手
 project:

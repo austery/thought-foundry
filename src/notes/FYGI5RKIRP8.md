@@ -2,13 +2,7 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Conspiracy of Equals
-- League of the Just
-- Communist League
 - Catholic Church
-- Red Sleeve Fists
-- Pang Donglai
-- British Library
 date: '2025-10-26'
 draft: true
 guest: ''

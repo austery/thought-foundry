@@ -4,8 +4,6 @@ category: business
 companies_orgs:
 - Accenture
 - Norges Bank Investment Management
-- BBVA
-- Mars
 - Gallup
 date: '2025-01-08'
 draft: true
@@ -16,10 +14,6 @@ media_books:
 - Weekend Language
 people:
 - Nicola Tangen
-products_models:
-- Gallup Strength Finder
-- AI Refinery
-- Enterprise Navigator
 project:
 - ai-impact-analysis
 - systems-thinking

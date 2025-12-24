@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Einstein
-products_models:
-- Salesforce Essentials
 project:
 - systems-thinking
 series: ''

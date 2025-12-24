@@ -66,8 +66,6 @@ products_models:
 - AWS
 - Tesla Roadster
 - SNAP
-- M2
-- GBTC
 project:
 - us-analysis
 - investment-strategy

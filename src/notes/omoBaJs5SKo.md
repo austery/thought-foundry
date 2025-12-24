@@ -2,7 +2,6 @@
 area: personal-systems
 category: lifestyle
 companies_orgs:
-- 好夢心理治療所
 - 初日醫學
 - 初日診所
 date: '2025-07-04'

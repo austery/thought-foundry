@@ -4,11 +4,8 @@ category: finance
 companies_orgs:
 - Bloomberg
 - Silicon Valley Bank
-- Consumer Financial Protection Bureau
 - Federal Trade Commission
-- Silvergate Bank
 - FTX
-- Federal Deposit Insurance Corporation
 - Signature Bank
 - First Republic Bank
 - Federal Reserve
@@ -19,8 +16,6 @@ companies_orgs:
 - Wells Fargo
 - Robinhood
 - Walmart
-- Alipay
-- WeChat Pay
 date: '2025-07-14'
 draft: true
 guest: ''
@@ -36,9 +31,7 @@ people:
 - Mark Zuckerberg
 - Sheryl Sandberg
 products_models:
-- Libra project
 - Apple Pay
-- Bank Term Funding Program
 project:
 - us-analysis
 - market-cycles

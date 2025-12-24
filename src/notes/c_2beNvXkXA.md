@@ -3,10 +3,7 @@ area: society-systems
 category: general
 companies_orgs:
 - University of Toronto
-- Canada's EDS Foundation
-- OHIP
 - Ministry of Health
-- Human Rights Tribunal of Ontario
 - CBC
 - TVO
 date: '2025-12-02'

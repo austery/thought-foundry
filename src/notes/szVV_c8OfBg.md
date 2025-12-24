@@ -2,14 +2,10 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Google Meet
 - 招商银行
 - Bilibili
 - 富士康
-- 鸿海科技
 - YouTube
-- 盒马鲜生
-- 南通文旅
 - 联合国
 date: '2025-12-02'
 draft: true

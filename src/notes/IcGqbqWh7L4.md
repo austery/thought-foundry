@@ -3,11 +3,7 @@ area: society-systems
 category: business
 companies_orgs:
 - Norges Bank Investment Management
-- Visma
 - Nestle
-- Fresenius
-- Arthur Andersen
-- EY
 - Enron
 date: '2025-05-15'
 draft: true

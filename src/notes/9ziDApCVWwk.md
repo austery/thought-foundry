@@ -12,9 +12,6 @@ companies_orgs:
 - Tesla
 - Advanced Micro Devices
 - Palantir Technologies
-- Oklo Inc.
-- The Travelers Companies, Inc.
-- Intuitive Surgical, Inc.
 date: '2025-11-21'
 draft: true
 guest: ''
@@ -23,9 +20,6 @@ layout: post.njk
 people:
 - Jerome Powell
 - Austan Goolsbee
-products_models:
-- SPDR S&P 500 ETF Trust
-- Invesco QQQ Trust
 project:
 - us-analysis
 - investment-strategy

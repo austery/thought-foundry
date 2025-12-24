@@ -10,23 +10,14 @@ companies_orgs:
 - Oracle
 - Foxconn
 - Uber
-- U.S. Department of Energy
-- Argonne National Laboratory
-- HPE
-- Los Alamos National Laboratory
 - Dell Technologies
 - T-Mobile
 - Siemens
-- FANUC
-- Foxconn Industrial Internet
 - Caterpillar
 - Toyota
 - TSMC
 - Figure AI
-- Agility Robotics
 - Amazon
-- Skild AI
-- FieldAI
 - Disney
 - Palantir
 - CrowdStrike
@@ -37,9 +28,7 @@ companies_orgs:
 - Stellantis
 - Lucid
 - Mercedes-Benz
-- Aurora
 - Volvo
-- Waabi
 date: 2025-10-31
 draft: true
 guest: ''
@@ -52,38 +41,9 @@ people:
 products_models:
 - Vera Rubin
 - Blackwell GPU
-- CUDA-X
-- cuDNN
-- TensorRT-LLM
-- RAPIDS
-- cuOpt
-- cuLitho
-- CUDA-Q
-- HBM4
-- LPDDR
-- NVLINK-C2C
-- Vera Rubin NVL144
-- GB300 NVL72
-- Rubin Ultra NVL576
-- Blackwell Ultra
-- Solstice
-- Equinox
-- QuantumX 800 Infiniband
-- ARC
-- AI-RAN
-- NVQLink
 - Omniverse
-- Xcelerator
-- OpenUSD
-- Helix
-- Digit
-- Isaac Lab
-- BlueJay
 - Cosmos
 - Ontology
-- DRIVE AGX Hyperion 10
-- DRIVE AGX Thor
-- DRIVE Platform
 project:
 - ai-impact-analysis
 - market-cycles

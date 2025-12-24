@@ -4,7 +4,6 @@ category: general
 companies_orgs:
 - Oracle
 - FBI
-- Southern District of New York
 date: '2025-11-26'
 draft: true
 guest: ''
@@ -18,8 +17,6 @@ media_books:
 - The New York Times
 people:
 - Aaron Sorkin
-products_models:
-- Shuffle Master
 project:
 - personal-growth-lab
 - entrepreneurship

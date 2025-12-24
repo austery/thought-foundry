@@ -2,8 +2,6 @@
 area: life-family
 category: parenting
 companies_orgs:
-- Ethics and Public Policy Center
-- University of North Carolina
 - Meta
 - Snapchat
 - Wall Street Journal
@@ -20,12 +18,7 @@ media_books:
 - 《美国女孩玩偶目录》
 - Pornhub
 products_models:
-- Gab phone
-- Bark phone
-- Wise phone
-- Google Chat
 - Microsoft Excel
-- Google Scholar
 - TikTok
 - Instagram
 project: []

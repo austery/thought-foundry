@@ -7,9 +7,6 @@ companies_orgs:
 - 美联储
 - 北约
 - 欧盟
-- 中国网信办
-- 驻港国安公署
-- 中国红十字会
 date: '2025-12-03'
 draft: true
 guest: ''

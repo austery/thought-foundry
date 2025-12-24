@@ -4,7 +4,6 @@ category: geopolitics
 companies_orgs:
 - World Trade Organization
 - Bank of Japan
-- La Libertad Avanza
 date: '2025-10-27'
 draft: true
 guest: ''

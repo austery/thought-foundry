@@ -6,11 +6,6 @@ companies_orgs:
 - FBI
 - BBC
 - 哥伦比亚大学
-- 加州大学圣塔巴巴拉分校
-- 湖北大学
-- 海南大学
-- 哈尔滨师范大学
-- 法国自由电台
 date: '2024-01-27'
 draft: true
 guest: ''

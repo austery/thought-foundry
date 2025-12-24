@@ -2,11 +2,8 @@
 area: society-systems
 category: business
 companies_orgs:
-- UL Solutions
 - Norges Bank Investment Management
-- USG Corporation
 - FCC
-- Underwriters Electrical Bureau
 date: '2025-03-19'
 draft: true
 guest: ''
@@ -14,9 +11,6 @@ insight: ''
 layout: post.njk
 people:
 - Nikolai Tangen
-products_models:
-- AI PCs
-- AI servers
 project:
 - ai-impact-analysis
 - entrepreneurship

@@ -5,11 +5,7 @@ companies_orgs:
 - New York Times
 - FBI
 - NBA
-- Portland Trailblazers
 - Miami Heat
-- Charlotte Hornets
-- Los Angeles Lakers
-- House Committee on Energy and Commerce
 - Supreme Court
 date: '2025-10-27'
 draft: true
@@ -26,9 +22,6 @@ people:
 - Donald Trump
 - Xi Jinping
 - Scott Bessant
-products_models:
-- Bed MGM Sports Book
-- FanDuel Sports Network
 project:
 - us-analysis
 - systems-thinking

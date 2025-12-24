@@ -2,7 +2,6 @@
 area: tech-insights
 category: business
 companies_orgs:
-- Vectara
 - Google
 - Anthropic
 date: '2025-11-24'
@@ -18,7 +17,6 @@ products_models:
 - Notion
 - Google Drive
 - SharePoint
-- HHM
 project:
 - ai-impact-analysis
 - entrepreneurship

@@ -6,7 +6,6 @@ companies_orgs:
 - Norges Bank Investment Management
 - Pixar
 - Marvel
-- 21st Century Fox
 - ABC
 date: '2024-11-29'
 draft: true

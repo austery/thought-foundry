@@ -12,8 +12,6 @@ insight: ''
 layout: post.njk
 people:
 - 宋晏仁
-products_models:
-- 211餐盤
 project:
 - personal-growth-lab
 - systems-thinking

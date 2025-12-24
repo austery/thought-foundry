@@ -1,9 +1,6 @@
 ---
 area: tech-insights
 category: technology
-companies_orgs:
-- Neo4j
-- ISO
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -15,17 +12,7 @@ media_books:
 - Nodes AI 2026
 - graphrag.com
 products_models:
-- DSPy
-- BAML
-- Neo4j Aura
-- LLM Knowledge Graph Builder
-- VEX
-- Jackson
-- Jasper
-- Neo4j Cypher MCP Server
 - Claude Code
-- Cypher
-- GQL
 project:
 - ai-impact-analysis
 - systems-thinking

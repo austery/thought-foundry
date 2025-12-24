@@ -3,9 +3,7 @@ area: market-analysis
 category: finance
 companies_orgs:
 - Norges Bank Investment Management
-- OECD AI expert group on AI Risk and Accountability
 - World Economic Forum
-- Taskforce for Nature-related Financial Disclosures
 date: '2024-02-07'
 draft: true
 guest: ''

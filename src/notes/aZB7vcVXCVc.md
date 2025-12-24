@@ -19,8 +19,6 @@ media_books:
 people:
 - Trump
 - Elon Musk
-products_models:
-- Doge
 project:
 - ai-impact-analysis
 - china-analysis

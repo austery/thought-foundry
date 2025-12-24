@@ -1,6 +1,8 @@
 ---
 area: society-systems
 category: technology
+companies:
+- superintelligence-timeline
 companies_orgs:
 - Nvidia
 - Anthropic
@@ -21,11 +23,7 @@ products_models:
 - GPT-3
 - AlphaFold
 - Claude Code
-- AlphaCode
 - ChatGPT
-- Sonnet 3.5
-- MMLU
-- SweetBench
 project:
 - ai-impact-analysis
 - geopolitics-watch
@@ -41,8 +39,6 @@ tags:
 - data-center-infrastructure
 - llm
 title: AI发展前瞻：泡沫、就业冲击与超级智能时间线
-companies:
-- superintelligence-timeline
 ---
 
 ### AI投资与市场现状：是泡沫还是价值？

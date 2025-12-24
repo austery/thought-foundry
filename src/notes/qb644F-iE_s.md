@@ -2,29 +2,22 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Gavekal Dragonomics
 - TSMC
 - General Motors
-- VW
 - Toyota
 - Honda
 - BYD
 - Tesla
 - Kleiner Perkins
-- MITI
 - Huawei
 - ByteDance
 - Xiaomi
 - Alibaba
 - Tencent
 - CATL
-- Solyndra
 - IMF
-- 美国疾病控制与预防中心
-- 国家开发银行
 - 中芯国际
 - 北约
-- 华沙条约组织
 date: '2025-06-19'
 draft: true
 guest: ''

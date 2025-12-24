@@ -16,7 +16,6 @@ people:
 - Simon Willison
 products_models:
 - Claude
-- Claude Opus 3
 project:
 - ai-impact-analysis
 - systems-thinking

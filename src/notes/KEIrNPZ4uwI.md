@@ -4,9 +4,7 @@ category: stock-investment
 companies_orgs:
 - Intuitive Surgical
 - FDA
-- Medtronic
 - Johnson & Johnson
-- Restore Robotics
 date: '2025-10-11'
 draft: true
 guest: ''
@@ -15,12 +13,6 @@ layout: post.njk
 people:
 - Leonardo da Vinci
 - Donald Trump
-products_models:
-- Da Vinci Surgical System
-- Da Vinci Xi
-- Da Vinci Si
-- ION Endoluminal System
-- Da Vinci Fifth Generation Surgical System
 project:
 - investment-strategy
 - us-analysis

@@ -3,7 +3,6 @@ area: society-thinking
 category: politics-society
 companies_orgs:
 - BBC
-- BBC Studios
 date: '2025-11-19'
 draft: true
 guest: ''

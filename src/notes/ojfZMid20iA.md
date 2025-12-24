@@ -4,7 +4,6 @@ category: general
 companies:
 - amazon-rainforest
 companies_orgs:
-- Centro de Innovación Científica Amazónica
 - WHO
 date: 2025-10-31
 draft: true
@@ -12,7 +11,8 @@ guest: ''
 insight: ''
 layout: post.njk
 media_books: '[]'
-products_models: '[]'
+products_models:
+- '[]'
 project:
 - systems-thinking
 - historical-insights

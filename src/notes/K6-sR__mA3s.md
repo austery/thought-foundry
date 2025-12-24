@@ -14,12 +14,7 @@ people: '[]'
 products_models:
 - Claude
 - Claude Code
-- Skill Seeker
-- CrewAI
-- AutoGen
-- Codex CLI
 - MCP
-- Ollama
 project:
 - ai-impact-analysis
 - knowledge-pipeline

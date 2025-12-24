@@ -2,7 +2,6 @@
 area: tech-insights
 category: technology
 companies_orgs:
-- Unconventional AI
 - Nvidia
 - TSMC
 - Google
@@ -20,13 +19,9 @@ people:
 - Yann LeCun
 - analog-computing
 products_models:
-- Nirvana
 - Mosaic
 - TPU
 - Transformers
-- Diffusion Models
-- Flow Models
-- Energy Based Models
 project:
 - ai-impact-analysis
 - systems-thinking

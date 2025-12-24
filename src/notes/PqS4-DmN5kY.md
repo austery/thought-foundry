@@ -5,16 +5,12 @@ companies_orgs:
 - Bloomberg
 - Bloomberg Audio Studios
 - Bloomberg Podcasts
-- Bloomberg Intelligence
 - Brookings Institution
 - Columbia University
 - Treasury
 - Fed
-- Credit Swiss
 - World Bank
 - OECD
-- Philly Fed
-- Hopkins
 date: '2025-07-02'
 draft: true
 guest: ''
@@ -30,9 +26,6 @@ people:
 - Donald Trump
 products_models:
 - Odd Lots podcast
-- RRP
-- standing repo facility
-- supplementary leverage ratio
 project:
 - us-analysis
 - investment-strategy

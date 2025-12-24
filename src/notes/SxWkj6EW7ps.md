@@ -1,10 +1,6 @@
 ---
 area: society-systems
 category: geopolitics
-companies_orgs:
-- 中央纪律检查委员会
-- 国家监察委员会
-- 审计署
 date: '2025-12-04'
 draft: true
 guest: ''

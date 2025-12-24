@@ -3,7 +3,6 @@ area: society-systems
 category: psychology
 companies_orgs:
 - TVO Today
-- The Conversation
 date: '2025-10-28'
 draft: true
 guest: ''
@@ -15,7 +14,6 @@ media_books:
 people:
 - Nam Kiwanuka
 products_models:
-- GLP1s
 - Ozempic
 project:
 - personal-growth-lab

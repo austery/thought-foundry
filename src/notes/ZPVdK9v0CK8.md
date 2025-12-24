@@ -5,8 +5,6 @@ companies_orgs:
 - Boston Consulting Group
 - Procter & Gamble
 - Adobe
-- Whisper Flow
-- Stan
 date: '2025-12-22'
 draft: true
 guest: ''
@@ -21,10 +19,7 @@ people:
 - Brené Brown
 - Tim Ferriss
 products_models:
-- Adobe Express
 - Whisper Flow
-- Dare to Dream
-- The Next Conversation Workbook
 project:
 - ai-impact-analysis
 series: ''

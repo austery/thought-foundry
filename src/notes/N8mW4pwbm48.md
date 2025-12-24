@@ -4,7 +4,6 @@ category: politics-society
 companies_orgs:
 - 抖音
 - 立法院
-- 宪法法庭
 date: '2025-12-21'
 draft: true
 guest: ''

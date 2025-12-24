@@ -3,15 +3,8 @@ area: finance-wealth
 category: stock-investment
 companies_orgs:
 - Canada Post
-- TD Bank
-- CIBC
-- National Bank of Canada
 - Air Canada
-- Telus
 - Canadian Pacific Railway
-- Canadian Commercial Bank
-- Canada Pension Plan Investment Board (CPPIB)
-- BC Bank
 date: '2025-06-06'
 draft: true
 guest: ''
@@ -24,17 +17,8 @@ people:
 - Yuval Noah Harari
 products_models:
 - 401K
-- IRA
-- RSP
 - TFSA
-- OAS
-- GIS
 - CPP
-- DB Pension
-- DC Pension
-- IRP
-- Whole Life Insurance
-- Life Annuity
 project:
 - investment-strategy
 - personal-growth-lab

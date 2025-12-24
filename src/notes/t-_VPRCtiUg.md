@@ -2,15 +2,12 @@
 area: society-systems
 category: science
 companies_orgs:
-- British Army
 - BBC
 date: '2021-03-31'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- Kuramoto model
 project:
 - systems-thinking
 - historical-insights

@@ -8,9 +8,6 @@ companies_orgs:
 - Anthropic
 - NVIDIA
 - Cursor
-- Symbolica
-- Reflection AI
-- Periodic Labs
 - UCSF
 date: '2025-11-21'
 draft: true
@@ -31,7 +28,6 @@ products_models:
 - TPU
 - AlexNet
 - Transformer
-- Mamba
 - Kimi
 project:
 - ai-impact-analysis

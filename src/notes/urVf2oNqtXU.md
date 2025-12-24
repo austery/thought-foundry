@@ -3,16 +3,12 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Sonar
-- StatSic
 - Linear
 - YouTube
 - GitHub
-- Mitra
 - Microsoft
 - Atlassian
 - Brex
-- Sierra
-- Stack Overflow
 date: '2025-11-26'
 draft: true
 guest: ''
@@ -21,12 +17,10 @@ layout: post.njk
 media_books:
 - The Pragmatic Engineer
 products_models:
-- npm
 - GPT-4
 - GPT-5
 - Claude
 - Llama
-- Open Coder
 project:
 - ai-impact-analysis
 - systems-thinking

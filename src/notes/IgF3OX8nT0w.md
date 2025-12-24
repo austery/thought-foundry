@@ -3,8 +3,6 @@ area: tech-insights
 category: technology
 companies_orgs:
 - Bell Labs
-- British Association
-- Bletchley Park
 - Brilliant
 date: '2021-12-21'
 draft: true
@@ -18,12 +16,7 @@ people:
 - Napoleon
 - analog-computing
 products_models:
-- Antikythera mechanism
-- M9 Gun Director
-- Norden bombsight
-- Colossus machines
 - ENIAC
-- Operational amplifier (Op-amp)
 project:
 - ai-impact-analysis
 - historical-insights

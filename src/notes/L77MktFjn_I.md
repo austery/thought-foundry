@@ -9,7 +9,6 @@ companies_orgs:
 - AMD
 - 台积电
 - 英特尔
-- 中科研
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -26,8 +25,6 @@ products_models:
 - H200
 - Blackwell
 - Rubin
-- Atlas 950 SuperPod
-- GB200 NVL72
 project:
 - ai-impact-analysis
 - china-analysis

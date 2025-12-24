@@ -2,7 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 人民银行
 - 工商银行
 - 建设银行
 - 中石油
@@ -10,7 +9,6 @@ companies_orgs:
 - 中国电信
 - 欧盟
 - 北约
-- 华约
 date: '2025-11-10'
 draft: true
 guest: ''
@@ -34,9 +32,6 @@ people:
 - 李强
 - 达赖喇嘛
 - 武律
-products_models:
-- 淘宝
-- ATMG
 project:
 - china-analysis
 - geopolitics-watch

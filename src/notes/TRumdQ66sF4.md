@@ -2,7 +2,6 @@
 area: market-analysis
 category: finance
 companies_orgs:
-- Schroders
 - Norges Bank Investment Management
 date: '2024-11-01'
 draft: true

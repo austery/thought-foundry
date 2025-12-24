@@ -9,11 +9,9 @@ companies_orgs:
 - Bumble
 - Google
 - Canva
-- HelloFresh
 - Klarna
 - IBM
 - Duolingo
-- Rogers
 date: '2025-07-14'
 draft: true
 guest: ''
@@ -24,9 +22,6 @@ media_books:
 - CNBC
 - Business Insider
 products_models:
-- Google TV
-- Android TV
-- Ask HR
 - ChatGPT
 project:
 - ai-impact-analysis

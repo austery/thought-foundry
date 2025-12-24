@@ -2,17 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 长和集团
 - 贝莱德
-- 地中海航运公司
-- TIAL
-- 巴拿马港口公司
-- 巴拿马政府
-- 巴拿马海事局
-- 美洲国家组织
 - 联合国
-- 巴拿马运河管理局
-- 哥伦比亚政府
 date: '2025-11-10'
 draft: true
 guest: ''
@@ -27,9 +18,6 @@ people:
 - Theodore Roosevelt
 - Larry Fink
 - Marco Rubio
-products_models:
-- 托里霍斯·卡特条约
-- 中立条约
 project:
 - us-analysis
 - geopolitics-watch

@@ -2,13 +2,8 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Endeavor
-- Creative Artists Agency
-- William Morris Endeavor
 - IMG
 - Silver Lake
-- Ultimate Fighting Championship
-- TKO Group Holdings
 - YouTube
 - Netflix
 - Amazon
@@ -17,18 +12,10 @@ companies_orgs:
 - Meta
 - X
 - NBC
-- Peacock
 - Disney
 - HBO
-- ICM Partners
-- United Talent Agency
-- MTV
 - CBS
 - ESPN
-- National Football League
-- National Basketball Association
-- Live Nation Entertainment
-- Gray Advertising
 date: '2025-11-06'
 draft: true
 guest: ''
@@ -55,7 +42,6 @@ people:
 - Aaron Sorkin
 - Dwayne Johnson
 products_models:
-- Alps product
 - Optimus
 project:
 - entrepreneurship

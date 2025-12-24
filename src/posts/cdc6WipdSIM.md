@@ -4,10 +4,8 @@ author: Lei
 category: psychology
 companies_orgs:
 - McKinsey
-- BCG
 - Meta
 - Google
-- Big Four accounting firms
 date: '2025-11-20'
 layout: post.njk
 media_books:
@@ -38,8 +36,6 @@ people:
 - Nassim Nicholas Taleb
 - 王阳明
 products_models:
-- MoneyXYZ
-- Framer
 - ChatGPT
 project:
 - personal-growth-lab

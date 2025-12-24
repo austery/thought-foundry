@@ -9,15 +9,9 @@ companies_orgs:
 - Meta
 - Cloudflare
 - The New York Times
-- The Mirror
-- The Mail
 - Financial Times
-- Pew Research
 - BBC
 - NBC
-- ProPublica
-- Enders Analysis
-- Sistrix
 date: '2025-08-31'
 draft: true
 guest: ''
@@ -39,11 +33,7 @@ products_models:
 - Claude
 - Perplexity
 - AI Overviews
-- AI Mode
 - Grok
-- Poisonify
-- Tollbit
-- ProRata
 - Safari
 project:
 - ai-impact-analysis

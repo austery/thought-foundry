@@ -2,8 +2,6 @@
 area: society-systems
 category: culture
 companies_orgs:
-- 西贝
-- 爱康国宾
 - 华为
 - 比亚迪
 - 小米

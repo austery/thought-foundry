@@ -2,9 +2,6 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- 美国电影协会
-- 英国电影分级委员会
-- 日本映画伦理机构
 - 中国共产党
 date: '2025-08-02'
 draft: true
@@ -23,14 +20,7 @@ people:
 - 成龙
 - 姜文
 products_models:
-- Ultraman
-- 假面骑士
-- 精灵宝可梦
-- Switch
-- 毒液3
-- 角斗士2
 - 异形Romulus
-- 死侍
 project:
 - china-analysis
 - geopolitics-watch

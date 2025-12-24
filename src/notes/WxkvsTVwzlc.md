@@ -7,7 +7,6 @@ companies_orgs:
 - NATO
 - National Guard
 - Republican Party
-- Federal Transportation Department
 date: '2025-11-24'
 draft: true
 guest: ''
@@ -23,7 +22,6 @@ people:
 - Marjorie Taylor Greene
 products_models:
 - Obamacare
-- Epstein files
 project:
 - us-analysis
 - geopolitics-watch

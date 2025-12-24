@@ -4,19 +4,11 @@ category: politics-society
 companies_orgs:
 - 华为
 - ASML
-- 文泰科技
-- 本田汽车
 - Nvidia
-- 佳能
-- 蔡司
 - OpenAI
 - AMD
 - DeepSeek
-- 光环新网
-- 龚博士
-- 通义
 - 豆包
-- 圆宝
 - Google
 - 特斯拉
 - 美光
@@ -25,18 +17,10 @@ companies_orgs:
 - 清华大学
 - 南华早报
 - 摩尔线程
-- 新凯来
-- 长春光机所
-- Sandisk
 - 台积电
-- 哈工大
-- 西航
 - 路透社
 - 中芯国际
 - 英特尔
-- Kimi
-- 字节
-- 韩武基
 date: '2025-12-19'
 draft: true
 guest: ''
@@ -53,21 +37,14 @@ people:
 - 陈云
 - Xi Jinping
 products_models:
-- 910C
-- 骁龙888
 - EUV
 - DUV
 - H200
 - Blackwell
-- 汉芯一号
-- 昇腾芯片
-- B300
 - TPU
 - Gemini 3
 - GPT-5.2
 - GPT-5.1
-- '9020'
-- '9030'
 - AGI
 project:
 - ai-impact-analysis

@@ -4,27 +4,16 @@ category: business
 companies_orgs:
 - a16z
 - Google
-- Adify
-- Cox
 - Silicon Valley Bank
-- DoubleClick
-- Flycast
-- Omnature
-- Comscore
 - Meta
-- Laridan
 - General Mills
 - JPMorgan Chase
 - Nvidia
 - OpenAI
-- Carbon
-- wine.com
 - GE
 - McKinsey
-- Towers Watson
 - Accenture
 - Sequoia
-- Waste Management
 - Harvard
 date: '2025-12-01'
 draft: true
@@ -43,15 +32,9 @@ products_models:
 - Chat GPT
 - Cursor
 - Claude
-- Harvey
 - Gemini
 - Llama
-- Sharp Wizard
-- Palm Pilot
-- Workday
 - SharePoint
-- Google Analytics
-- Urchin
 project:
 - ai-impact-analysis
 - systems-thinking

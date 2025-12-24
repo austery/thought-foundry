@@ -8,17 +8,10 @@ companies_orgs:
 - Instagram
 - Tinder
 - Meta
-- Match Group
-- Hinge
 - Google
 - X
-- Proton
 - Boeing
 - Airbus
-- Fokker
-- Sud Aviation
-- de Havilland
-- SNCF
 - 欧盟委员会
 date: '2025-10-21'
 draft: true
@@ -31,9 +24,6 @@ people:
 - Bernie Sanders
 - Alan Greenspan
 - Warren Buffett
-products_models:
-- Proton Pass
-- Proton Drive
 project:
 - us-analysis
 - systems-thinking

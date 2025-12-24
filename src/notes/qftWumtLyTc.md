@@ -9,11 +9,9 @@ companies_orgs:
 - Visa
 - Mastercard
 - Bernstein
-- 渣打银行
 - FBI
 - Tether
 - FTX
-- 三箭资本
 - Meta
 date: '2025-07-20'
 draft: true

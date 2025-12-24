@@ -11,8 +11,6 @@ insight: ''
 layout: post.njk
 products_models:
 - Claude Code
-- GNU/COBOL 3.2.0
-- Java 17
 project:
 - ai-impact-analysis
 series: ''

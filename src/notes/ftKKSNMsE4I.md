@@ -2,13 +2,8 @@
 area: society-systems
 category: geopolitics
 companies_orgs:
-- Border Patrol
 - ICE
-- NOAA
 - Hamas
-- KKK
-- Chapel Ran
-- Grateful Dead
 date: '2025-10-29'
 draft: true
 guest: ''

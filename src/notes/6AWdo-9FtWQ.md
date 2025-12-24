@@ -2,13 +2,10 @@
 area: society-thinking
 category: politics-society
 companies_orgs:
-- 哲学星期五
 - 国民党
 - 民进党
 - 联合国
-- 国际转型正义中心
 - 联合国教科文组织
-- 自由之家
 date: '2025-06-25'
 draft: true
 guest: ''

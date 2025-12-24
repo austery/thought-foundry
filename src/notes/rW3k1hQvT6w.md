@@ -3,9 +3,6 @@ area: personal-systems
 category: psychology
 companies:
 - psychological-barrier
-companies_orgs:
-- Ted
-- Coupang
 date: '2025-11-15'
 draft: true
 guest: ''
@@ -15,10 +12,6 @@ media_books:
 - Monash播客
 people:
 - KevinFeng
-products_models:
-- Omega 3
-- DHA
-- EPA
 project:
 - personal-growth-lab
 series: ''

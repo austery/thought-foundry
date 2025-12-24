@@ -2,21 +2,12 @@
 area: market-analysis
 category: business
 companies_orgs:
-- Daimler Truck
 - Norges Bank Investment Management
 - Mercedes-Benz
-- Fuso
-- Western Star
-- Freightliner
 - Volvo
-- Torque
 - Waymo
-- Aurora
-- Kodiak
-- Scania
 - Siemens
 - Atlas Copco
-- Lonza
 - CATL
 date: '2025-09-10'
 draft: true
@@ -27,8 +18,6 @@ media_books:
 - In Good Company
 - IAA
 - Women for Leaders
-products_models:
-- Euro 7
 project:
 - ai-impact-analysis
 - entrepreneurship

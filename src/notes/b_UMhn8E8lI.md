@@ -2,20 +2,15 @@
 area: tech-work
 category: ai-ml
 companies_orgs:
-- Axiom
 - MIT
 - Oxford
-- UCL Gatsby Institute
 - DeepMind
 - Stanford
-- Facebook AI Research
 date: '2025-12-21'
 draft: true
 guest: ''
 insight: ''
 layout: post.njk
-products_models:
-- AI mathematician
 project:
 - ai-impact-analysis
 series: ''

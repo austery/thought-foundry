@@ -10,8 +10,6 @@ insight: ''
 layout: post.njk
 people:
 - John Conway
-products_models:
-- FRACTRAN
 project:
 - systems-thinking
 - historical-insights

@@ -5,8 +5,6 @@ companies:
 - ai-sycophancy
 companies_orgs:
 - TVO Today
-- Peace Geeks
-- Goodbot
 - Antica Productions
 - Meta
 - Twitter
@@ -25,10 +23,8 @@ people:
 products_models:
 - Viv
 - ChatGPT
-- Suno AI
 - Excel
 - Notion
-- Coda
 project:
 - ai-impact-analysis
 - historical-insights

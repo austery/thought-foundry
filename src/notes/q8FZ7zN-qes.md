@@ -4,8 +4,6 @@ category: geopolitics
 companies_orgs:
 - 纽约时报
 - 央视
-- 中新报
-- 冰点
 - 国民党
 - 共产党
 - 民进党

@@ -2,18 +2,10 @@
 area: society-systems
 category: business
 companies_orgs:
-- Swatch Group
-- Rolex
-- Richemont Group
-- Seiko
-- Casio
 - Apple
-- GreenWood Investors
 - Morgan Stanley
 - Jefferies
 - LVMH
-- Baader Helvea
-- Sotheby's
 date: '2025-12-09'
 draft: true
 guest: ''
@@ -22,22 +14,7 @@ layout: post.njk
 media_books:
 - 《奢侈品战略》
 products_models:
-- Swatch
-- Omega
-- Breguet
-- Blancpain
-- Longines
-- Tissot
-- Hamilton
-- Flik Flak
-- Vacheron Constantin
-- Patek Philippe
 - Apple Watch
-- Speedmaster
-- MoonSwatch
-- Seamaster
-- Submariner
-- Souscription
 project:
 - us-analysis
 - historical-insights

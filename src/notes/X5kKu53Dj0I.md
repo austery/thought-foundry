@@ -19,7 +19,6 @@ companies_orgs:
 - Bank of America
 - International Monetary Fund
 - Bank of England
-- Bain & Company
 - YouTube
 date: '2025-11-27'
 draft: true

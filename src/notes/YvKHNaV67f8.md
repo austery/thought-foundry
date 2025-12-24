@@ -1,11 +1,6 @@
 ---
 area: society-systems
 category: general
-companies_orgs:
-- 北京国安足球队
-- 黑龙江冰城队
-- 广州恒大
-- 上海上港
 date: '2024-07-02'
 draft: true
 guest: ''

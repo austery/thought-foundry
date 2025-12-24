@@ -5,18 +5,14 @@ companies_orgs:
 - White House
 - CBS
 - Bloomberg
-- Anshi Semiconductor
-- Li Auto
 - BYD
 - Xiaomi
-- Sanhua Intelligent Controls
 - Citi
 - Berkshire Hathaway
 - Micron Technology
 - Samsung
 - Microsoft
 - Nvidia
-- Ariel
 - Dell Technologies
 - OpenAI
 - 美国能源部DOE
@@ -39,7 +35,6 @@ people:
 - Sam Altman
 - 高市早苗
 products_models:
-- 小米手机
 - 理想Maga
 - DDR5
 - GB300

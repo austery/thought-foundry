@@ -2,7 +2,6 @@
 area: society-systems
 category: science
 companies_orgs:
-- Nature
 - Shopify
 - Google
 date: '2023-10-31'
@@ -14,8 +13,6 @@ media_books:
 - Archive Pre-print Server
 products_models:
 - Snatoms
-- Bicep Two
-- LK99
 project:
 - systems-thinking
 - knowledge-pipeline

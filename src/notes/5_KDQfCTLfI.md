@@ -6,17 +6,14 @@ companies_orgs:
 - Nvidia
 - CNBC
 - Robin Hood
-- Stifel
 - Apple
 - Meta
-- Reality Labs
 - Amazon
 - Google
 - Broadcom
 - AMD
 - JPMorgan
 - Substack
-- CenterPoint Energy
 - Blue Owl
 - Oracle
 - Netflix
@@ -40,7 +37,6 @@ companies_orgs:
 - Morgan Stanley
 - Estee Lauder
 - Mastercard
-- Marriott
 - Disney
 - Starbucks
 - Chipotle
@@ -83,12 +79,9 @@ products_models:
 - Foundry
 - Apollo
 - AIP
-- Warp Speed
-- Chain Reaction
 - H200
 - Llama 3
 - Llama 4
-- Llama 5
 - Gemini
 - Vision Pro
 project:
